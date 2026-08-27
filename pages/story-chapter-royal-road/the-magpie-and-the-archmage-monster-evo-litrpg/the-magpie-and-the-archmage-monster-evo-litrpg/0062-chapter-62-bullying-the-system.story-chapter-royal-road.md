@@ -1,0 +1,197 @@
+---
+id: 378ba28d-da7a-5f97-9dfd-8b35f6b49723
+page-type-slug: story-chapter-royal-road
+title: "Chapter 62 – Bullying the System"
+slug: 0062-chapter-62-bullying-the-system
+partOf: the-magpie-and-the-archmage-monster-evo-litrpg
+position: 62
+ownLength: 2104
+unit: words
+publishedAt: 2025-12-17
+link: "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2855231/chapter-62-bullying-the-system"
+royalRoadId: "2855231"
+---
+
+What followed after discovering just how severe Damien's injuries were was true mayhem. Serena began yelling instructions to Kiva and Kalen to get water and cloth while she got straight to cleaning. She produced a first aid kit from her Inventory and grabbed antiseptic, smearing it on Damien's wounds.
+
+He screamed in pain the moment the liquid touched his flesh, jerking up and nearly knocking Serena off her feet.
+
+"Hold him still!" Serene commanded, and Kalen grabbed Damien, holding him still.
+
+Kiva, meanwhile, rolled up a piece of cloth and stuffed it in his mouth to prevent Damien from biting himself. Serena continued applying antiseptic to the wounds. The man screamed into the cloth each time, but there didn't seem to be any effect. The dark liquid kept pouring out of his wounds.
+
+Check your Party Profile. It should show the health condition of all your party members.
+
+Renir's voice brought Liora back to reality. She felt like she was watching some horror show. It didn't feel real. But Damien was writhing in pain while Serena, Kalen, and Kiva were doing their best to treat him.
+
+Liora! Snap out of it!
+
+I… Yes. Yes!
+
+[Party Profile]
+
+Liora – Wounded/Trickling
+
+Serena – Scrapped/Trickling
+
+Kalen – Scrapped/Surging
+
+Kiva – Scrapped/Surging
+
+Damien – Critical/Steady/Cursed
+
+He's cursed! Is that what that black sludge is?
+
+Yes, it's as I thought. You must purify him.
+
+Purify?
+
+Your skill! Did you forget?
+
+Liora blinked and then realized that she indeed had Purify. She hurriedly flew up to the thrashing Damien and cast the spell. It was a bit tough getting the imagery right, since previously she had purified blightstones, not a person. But she focused on getting rid of the black sludge that was coming out of his wounds.
+
+Damien thrashed wildly as Liora worked her magic on him. Kalen just barely managed to hold him, and Kiva joined in, holding him down.
+
+"What are you doing, Liora?" Serena asked quizzically.
+
+Gentle! Gentle! That's a person, not a piece of rock.
+
+Liora softened her approach, trying to gently guide the blight out of Damien's body. He went completely rigid as she used Purify once, then again and again, going from one wound to the next. It was a good thing that the necklace was restoring her mana; otherwise, she would have long since run out.
+
+"The black stuff is disappearing," Kiva pointed out.
+
+"It is," Kalen nodded.
+
+"How are you doing that?" Serena looked at Liora in shock.
+
+But she kept at it, purifying the poor man until finally all of the black stuff was gone. Damien went limp, and Liora sat down, utterly drained of mana.
+
+"We need to bandage him! Have him drink the potion," Serena said.
+
+"We only have three," Kalen pointed out.
+
+"He's going to bleed out otherwise," she pointed out.
+
+Kalen looked at Damien's wounds, clean but still bleeding, and nodded. He withdrew a potion and removed the cloth from Damien's mouth. The man was barely conscious, but he drank it. His bleeding finally stopped, and the wounds closed a little, although not fully. This wasn't a high-quality potion like the one Liora had gotten before.
+
+At some point during the process, Damien had passed out. Liora couldn't even blame the guy. With wounds like that, it was a miracle that he had held onto his consciousness for as long as he had.
+
+Serena continued wrapping bandages around his upper torso and right arm, while Kiva and Kalen assisted where they could. Liora, in the meantime, scanned the surroundings, worried that something might sneak up on them and try to make them into a meal. They were still in the middle of a dungeon after all.
+
+Thankfully, no other monsters were nearby after they defeated the lupus deer, so they would be safe for a while. But for how long? The monsters weren't stationary, so it was almost certain that one or maybe even a whole group would stumble upon them eventually.
+
+Renir, how long can we stay in one place in a dungeon?
+
+Here? Maybe an hour or two before the lupus deer respawn.
+
+Respawn?! Like in a video game?
+
+I have no clue what this video game thing is.
+
+It's the closest thing my old world had to a System. I think. But basically, we would sit in front of a device that would let us play a game. You know what a game is, right?
+
+Like playing cards? Or a sports game?
+
+Sort of. Except completely different. These games would be set in an electronic device. You would make your character or sometimes just play as a premade character and follow a certain storyline while defeating monsters, acquiring skills, and gaining levels.
+
+That really does sound like the System. Fascinating that it would show up in a different world, but in a completely different form. You must tell me more about these electronic devices.
+
+Another time. Focus. What is respawning exactly?
+
+Why do you think the dungeon never runs out of monsters, although so many adventurers keep coming in every day? They respawn after a certain time. After how long depends on the dungeon master, but usually it happens within an hour or two.
+
+So, after a certain time passes, there will be more lupus deer here?
+
+For sure.
+
+Dammit! We can't stay here.
+
+Liora flew up to Serena, gently tugging on her sleeve. "Can't. Stay."
+
+Serena and others looked at her, then at Damien with a conflicted expression. Kiva was first to speak up. "Magpie is right. We're in the middle of a dungeon. We have to find someplace safe."
+
+"Is there a safe place? Unless you intend to drag him all the way back to the entrance. Or perhaps ditch him here," Kalen said, crossing his arms over his chest.
+
+"We didn't save his life only to abandon him later. Besides, you don't know what would have happened if Damien weren't here. He drew the attention of that monstrosity to him. It's likely that without him, it would have been one of us that thing would have sunk its teeth into. And do you think we would have survived?" Serena said.
+
+Kalen lowered his head shamefully. It was clear that Damien's fancy armor was the only thing that had kept him alive. Anyone else would be dead on the spot.
+
+"Sorry… But what can we do?" Kalen asked helplessly, looking around.
+
+What can we do, Renir?
+
+It's all on you, Liora. You have to find a safe shelter. There could be some safe hiding spots. A hidden cave, maybe a cavern underneath a root system. A large hollow tree.
+
+Liora realized that Renir was right. If there was a place nearby where they could hide, then she, with her superior vision, was the only one who could find it.
+
+"Hide," Liora said firmly.
+
+"Hide? But where?" Kiva asked.
+
+"I search," she responded.
+
+"If anyone can find us a hiding spot, it's Liora," Kiva nodded.
+
+"Just make sure it's big enough for us all to fit. Not some small tree only you can fit," Kalen said.
+
+"Caw!" Liora objected. "I'm not stupid!"
+
+"I'm sure she understands that much," Serena defended, then turned towards Liora apologetically. "Sorry for relying on you so much."
+
+"Chak-chak-chak!" Liora exclaimed and flew off to search. She kept on her Necklace of Sunpeak to recover her mana as she searched. Best to have as much of it as possible.
+
+Liora didn't get far north—or at least she labeled it north based on the badger's location. A vicious, large lynx monster was prowling the next section of the forest. It definitely had better senses than the deer and would catch the clumsy humans with their injured party members. She even got worried that it might catch her, even with her Shadow Glide. For safety's sake, she activated Faded before turning back and then checking the west side.
+
+The situation there wasn't much better. There were more of the lupus deer there, and flying east was even worse. Liora stumbled onto a whole village of what Renir claimed to be goblins. Incredibly hideous little humanoid monsters with gnarly teeth and claws and very loud voices.
+
+They were bickering among themselves while some were sharpening crude knives, shortswords, and making makeshift arrows. While they were completely oblivious to Liora's presence, there was no way her human friends could sneak past them unnoticed. There were simply too many.
+
+Realistically, the only way they could go safely was back to the exit, but with Damien in such a horrible state, traversing over the chasms would be nearly impossible. They needed a hiding spot. So Liora flew closer to the ground and searched.
+
+She peeked into what looked like small caverns, only to find them big enough for maybe one person. For a moment, she did consider just dumping Damien there and hiding him. It would definitely be better than leaving him out in the open.
+
+But she knew Serena wouldn't agree to it, so she kept searching. Liora found tree hollows where she could hide, several hidden chasms which were more likely to end in everyone's demise. She was running out of time, yet she couldn't find a place large enough to hide everyone.
+
+Come on! Why is it so difficult? If only I had to search for treasure. My Treasure Sense would find it in a matter of seconds.
+
+That's it! You need to rewire how you think.
+
+What are you talking about? If you want me to be like you—
+
+No, birdbrain! Think of this hiding spot as a treasure.
+
+What?
+
+Currently, you need that hiding place more than any treasure, right?
+
+Liora thought about it for a moment. He wasn't wrong there. She certainly wouldn't say no to treasure. But it wouldn't do her much good in this situation.
+
+I suppose it is.
+
+Then think of it as treasure. Anything can be a treasure if you think about it. As they say, one man's trash is another man's treasure.
+
+It certainly would be nice if it were so simple, but could she really fool the system just because of how she thought? It was certainly worth a shot. She took a breath and thought very hard about the hiding spot being a treasure. She thought about it being more valuable than anything else. How it was worth more than any shiny.
+
+It wasn't easy to think that. She would often feel herself disagreeing with that sentiment. After all, nothing could be better than shinies. But she shoved this greedy magpie thought aside. At that moment, a hiding spot was a treasure. The most valuable treasure of them all, and she had to find it.
+
+[Your skill <Treasure Sense> has reached [Adept] level.]
+
+[Treasure Sense – At [Adept] level, you can sense the location of things that you consider to be treasure.]
+
+As soon as the notification appeared, she also got a strong mental signal, urging her in the right direction.
+
+It worked!
+
+Yes! I think we just bullied the System into submission.
+
+We should do that more often.
+
+Liora flew to the place where Treasure Sense guided her. She was confused at first—it was just another part of the forest, no different from the rest. But her Treasure Sense couldn't be wrong, so she followed the urge. She searched for hidden crevices and caves until she finally found it.
+
+Underneath the roots of the pine tree, there was a passage large enough for a human to fit in. Liora didn't want to go inside it—she hated narrow spaces. But she had to check whether it was safe. So, overcoming her distaste, Liora got inside and checked the interior of the cave.
+
+It was spacious. Not huge, but plenty for four humans. It was a bit damp, and there were several cracks in the walls where Liora could feel air flowing in. They were too narrow for humans or even her to squeeze, but extra holes for air were a bonus in her book. It would do.
+
+So Liora flew back to Serena and the others and led them to the cave beneath the roots. It was slow. Kalen carried Damien while Serena and Kiva kept watch, ready to defend them at a moment's notice. However, their pace was much slower than usual. Liora worried they might not make it to the cavern before the monsters respawn.
+
+And Liora was right to worry. Halfway through the first lupus deer spawned right before her eyes. The odd shimmering that she'd previously seen coming from defeated monsters clustered together in the middle of the forest, forming the shape of a fully grown wolf-deer.

@@ -1,0 +1,375 @@
+---
+id: e956ea5f-cd11-5b02-8533-2e930f16dfe8
+page-type-slug: story-chapter-royal-road
+title: "454 Almost Arisen"
+slug: 0414-454-almost-arisen
+partOf: the-new-world
+position: 414
+ownLength: 3154
+unit: words
+ownProgress: 3154
+publishedAt: 2025-07-25
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2464165/454-almost-arisen"
+royalRoadId: "2464165"
+markedReadAt: "2026-06-29T21:35:35.580Z"
+---
+
+Torix let his free hand flop against his side. "How exactly, is that supposed to be motivating?" "It's simple. Just now, you were in a life-
+
+Torix let his free hand flop against his side. "How exactly, is that supposed to be motivating?" "It's simple. Just now, you were in a life-
+
+Torix let his free hand flop against his side.
+
+"How exactly, is that supposed to be motivating?"
+
+"It's simple. Just now, you were in a life-and-death battle with mana. That is, in essence, one of those otherworldly entities. Guess what happened?"
+
+Torix's eyes flared.
+
+"I barely survived."
+
+I raised a fist.
+
+"No. Not at all."
+
+I shook my hand.
+
+"We won, and we'll win again."
+
+Chapter Begin
+
+Torix rolled his eyes, the fiery eyeballs carrying more depth than before. His tone was full of amusement.
+
+"That's a rather cheeky point of view, but each person is entitled to their own opinion, no matter how wrong they may be. As a professor, I've learned that much."
+
+I stood with a brow raised.
+
+"Oh, that's rich coming from the guy who is always looking for poisons to get drunk on."
+
+Torix's eyes flared pink.
+
+"You could easily argue that alcohol had an evolutionary utility. It sterilized the water people drank and contained a plethora of calories. People rarely died from alcohol-induced cancers before having offspring."
+
+I smiled while crossing my arms.
+
+"Poison is a different beast altogether."
+
+"Alcohol is also genuinely a poison by all accounts, but know this - If I happen to find the right brew, I'll make sure to share it, get you to love it, then restrict you from having it."
+
+My eyes widened.
+
+"I'll steal the formula and make a poison business. We'll call it the drunken viper, and people will love its local sourcing and dry flavor."
+
+Torix's eyes flared bright.
+
+"Not if my rival business, the intoxicated arachnid, finds a better footing and outcompetes your petty bar. There will be lounges and public books to take from the shelves. People will relish in the refined atmosphere and developed ambiance."
+
+"You'll run into inventory issues because people will steal the books."
+
+"And who would do something so sinister?"
+
+A malevolent smile traced over my lips, and my eyes narrowed.
+
+"The people I've hired."
+
+We laughed far longer than we should've since it carries a purpose. It melted the tension from the ritual away like a well-lit hearth in a wintry home. I took a breath.
+
+"Anyways, is there anything else you need for your rite? I'm still here to help."
+
+Torix inspected everything, including his status.
+
+"Hm. Nothing that I'm aware of, but I'll keep you posted. From what I've gathered, my pathway forward will involve learning the full extent of this new body's potential. After mastering it, I will then conquer the trials set before me within each pylon. The last monolith shall hold a mirage world where I must use my elemental mastery to conquer the final trial."
+
+I frowned.
+
+"Ok, I'm not going to lie to you, Torix. That sounds fun. I'm more than a little jealous."
+
+The lich let out a haunting laugh, one heavy as metal.
+
+"This journey has chosen me, but you never know what will happen when you all travel to Amara's origin. Perhaps some of Schema's secrets will be there waiting for you, or maybe adventurest that make my elemental wanderings seem bland by comparison."
+
+"That seems unlikely."
+
+Torix steepled his fingers.
+
+"But one can hope."
+
+I looked around at a devastated region.
+
+"You sure you don't need some help-"
+
+Torix waved me away.
+
+"Bah, go. You've already done far more for me than I should've allowed. I can maintain the modicum of focus needed to continue directing this energy, and you're needed elsewhere."
+
+I peered at him with all my psyches, my perception pressing down on him. Torix looked around.
+
+"What was that?"
+
+I frowned.
+
+"Just checking on your psyche for a second. The last thing I want is to come back and find a mindless golem waiting for me."
+
+Torix shook his head.
+
+"As I'm certain you're already aware, I won't allow that to happen."
+
+After a few seconds, I smiled.
+
+"From the looks of it, you won't. Before I go, can I see your-"
+
+Torix opened his status and turned it to me.
+
+"Of course. You have given me these tools, and so, I shall wield them well."
+
+Torix Worm, the Harbinger's Erudition | Class: Archmage | Lvl 23,782 Class: Archmage
+
+Strength – 175,694 | Constitution – 296,825 | Endurance – 455,658
+
+Dexterity – 198,174 | Willpower – 559,996 | Intelligence – 410,094
+
+Charisma – 366,033 | Luck – 275,881 | Perception – 156,351
+
+Health: 7.0 Billion/7.0 Billion | Health Regen: 992.6 Billion/min or 16.54 Billion/sec
+
+Stamina: 2.3 Billion/2.3 Billion | Stamina Regen: 489 Million/sec | Summons: 28,901 Active Currently | Mass: 23.07 Billion Pounds(1.049 Billion Kilos~)
+
+Height: 25'00 |7.62 meters | Damage Res - 99.522% | Dimensional Res - 100%
+
+Phys Dam Bonus – 54.204 Billion% |
+
+Current Buffs: The Rise of Eden - Enhances base stats by 40% while near the Harbinger of Cataclysm.
+
+Torix spread his arms.
+
+"My stats have increased by orders of magnitudes, my level cap has increased to 30,000, and I carry additional class upgrades due to a tree you've invested in. Schema's Champion, I believe."
+
+I gestured at his weight.
+
+"You're still able to move fluidly? I couldn't remove any weight without removing the vessel's potency."
+
+Torix paced back and forth.
+
+"I carry the physical potential I need."
+
+A terse calm passed. I bit my cheek before frowning.
+
+"I thought you gone there for a while. It was...Haunting, watching you fade."
+
+Torix's eyes dimmed.
+
+"It will haunt me as well, disciple. For a moment, my mind had begun falling apart, and I lost control of my body. However, I never reached a true psionic death. I carried a spark of sapience surrounded by warring seas."
+
+I nodded. After another tense quiet, I gripped my hands to fists.
+
+"I'm sorry, but this will be the last time you get a new body from me."
+
+Torix interlocked his hands behind himself.
+
+"I believe that is for the best as well. I must find other means of enhancing myself out of leaning upon you further."
+
+I glared at him.
+
+"You know that's not why I'm setting that line."
+
+"I...I do. I'm sorry. I did all that I could. I exceeded my limits and crossed thresholds I never imagined possible, and yet, I still fell short. I never wished to worry you to such an extent, and that guilt weighs on me even as we speak. However, know this-"
+
+His fiery eyes carried a piercing, all-encompassing gaze.
+
+"I shall use the resources you have passed onto me. I will turn this gift into a mighty weapon, one that expands the domain of our guild and enlightens the many races under your wing. This gift shall not be left weakened or wasted. It will be the beginning of an era of the undead, a grand rising from our abyss. One bereft of ignorance and soaked in bloodshed."
+
+I rolled my shoulders.
+
+"As long as you apply yourself, there's no need for anything else."
+
+A cracking glacier in the distance interrupted us. I turned to it.
+
+"Well then, I guess it's time for me to heat out. Good luck with, well, everything."
+
+Torix channeled a slight amount of mana into the runes of the armor.
+
+"Hmm. Good luck. I must admit, I've always found that phrase rather lacking. If we dwell on the concept, luck is the intersection of opportunity and preparation. One of those aspects, we can all control. The other portion is left to the whims of fate. I'd rather someone wish me well on what I can control instead of something I can't."
+
+I raised my brow.
+
+"Have some good preparations?"
+
+Torix's eyes flared bright.
+
+"You as well, disciple. May opportunity find you, and may you be ready to strangle its exposed neck."
+
+As I turned to head off, Torix wobbled on his feet. He grabbed his head before I turned to him. I reached out a hand.
+
+"I might want to stick around for a while."
+
+Torix kept two fingertips against his forehead.
+
+"I'm fine, but...I'm still regaining portions of my memories. At the moment, the fragmented pieces are like a mosaic. The parts, while fragmented, still dutifully paint a picture from a distance."
+
+I gawked at him.
+
+"You're telling me your memories give you an approximation of who you are instead of a crisp, clear picture?"
+
+"It is simply a puzzle that I must fix over the next few months."
+
+I spread my hands.
+
+"Now I have to stay."
+
+Torix shook his head.
+
+"Isolation will help me heal my mind. Instead of recovering my wounds using the ideas of another, I must reconstruct myself. That is difficult enough, considering the sheer volume of mana I must wrangle in the meantime. Having another party's input shall poison the well, so to speak."
+
+I reached out a hand before pulling back. After a moment, I lowered my arm.
+
+"Then, I can accept that, but...One last boon."
+
+I held down my aura, saturating this domain using the Rise of Eden. It took several hours of effort, but I established the field so that it exclusively strengthened Torix. The lich gave me a slight bow.
+
+"Thank you. Your assistance gives me ever greater chances at success."
+
+I wiped my brow, the expression a comfort even without wiping away sweat.
+
+"I'm doing what I can. Please, take care."
+
+"You as well, disciple."
+
+I flew off and landed on a glacier several miles away. With my sky-high perception, I kept a watch on Torix for the next hour. I wouldn't be able to calm down if I didn't see him handle the situation from afar. Luckily, he managed the mana with relative ease. By the time an hour was up, Torix began experimenting and using the mana flow for various experiments.
+
+His careful, methodical approach kept him safe as he inched forward into untraveled domains. Satisfied with his condition, a palpable relief washed over me, and that gave me the mental leeway to direct my attention elsewhere. Flying back to Mt. Verner, I opened my status and found something interesting.
+
+Unknown skill unlocked! 500 skill points awarded!
+
+Causality Shaping | Level 11 - In a desperate search for understanding, you wield the intangible before it may be unraveled. Augments the ability to change causality and the rulings of universal truths within set spaces. Effects fade with time, and whiplash from universal laws can result in instantaneous destruction. +11% to ease of causality shaping. +11% to force of causality shaping.
+
+I raised my brow, impressed by how powerful the skill sounded. It also made a lot of sense why the skill was unknown as well. Having experienced the blowback firsthand, anyone who would've learned the skill likely died before unlocking it. The only reason I survived was my unique constitution.
+
+Without actually being a dimension, the surrounding space would've crushed me into powder. Or mush. Maybe molten metal? Important thoughts about my physical destruction aside, the rebound had only left me crumpled like a leaking, ran-over tin can this time. Which, yeah, was pretty bad but tolerable.
+
+If I'm honest, those kinds of wounds meant little in the grand scheme of things. In exchange for a few bleeding cuts and a bit of pressure, I would be able to warp the laws of a wider world, and that would extend my power set immensely with time. The more I thought about it, the more it seemed like the power of a god.
+
+However, it did come with quite a few limitations. I had exhausted my mental and dimensional limits. Even hours afterward, my thoughts coursed in a slow drip instead of a fast flow. I felt drunk or sleep-deprived. My aura didn't carry the same vibrant potential as it normally did. Hell, saturating Torix's domain had left me feeling empty and hollow.
+
+That's why I hadn't channeled mana into my runes as I traveled to Mt. Verner. Eh, oh well. It irked me to lose some rune channeling time, but I took the lapse in training as a break instead of as a problem. I also poured my tree points into Schema's Champion tree, but I didn't hit the next upgrade set.
+
+Eh, oh well.
+
+As I flew about, my lingering fatigue exposed how difficult Causality Shaping was. It was obviously worth it, but I would avoid any challenging fights for the next while. Well, aside from a few airborne eldritch as I traveled. Speaking of, I dove around a flock of blood-bending geese. They wielded their sanguine vessels with grace, coursing across the skies as a red, flowing set of tendrils.
+
+Sights and sounds like that slowed me down as I traversed Earth. Despite the distractions, it didn't actually take that long to cross the continents and seas of my homeworld. A few hours passed as I thinned myself down to a lance. I hurtled along the upper atmosphere, and I broke the sound barrier several times.
+
+It took a while to gain enough momentum to do so since I hauled my subspaces with me. After all, I could stop my rune channeling,g but carrying my pocket spaces as well? Pshh, someone had to save the eldritch in the future, and free days weren't a part of that equation.
+
+Once close to Mt. Verner, I slowed myself down for several minutes. I carried too much inertia to do so quickly, and the weight behind my travel was immense. If I crashed into Mt. Verner, the surrounding area would pop like a soap bubble brushing stone. The city itself would be fine because of the blue cores, but all else would be molten slag for dozens of kilometers in every direction.
+
+It made me wonder how robust these tiny worlds were. If I could use my Orbital Bombardment skill while holding them, then I could make a vast explosion that exceeded anything I'd ever done. For a moment, I imagined destroying a Spatial Fortress by running into one. Hm. Would that even work? It may be if I could change the collision from something kinetic to something more dimension-ey.
+
+I made a lot of abilities turn from normal things into dimension things, so yeah, maybe that could work. Those incredibly important thoughts tumbled in my head as I landed on Mt. Verner's surface. Having already messaged everybody, I found Amara, Hod, and Chrona waiting for me at Chrona's ice palace. I took a breath before walking up to them.
+
+"Hey, everybody."
+
+Amara pointed her palms up at me. She glared.
+
+"Why are you so late to this gathering? Even after delaying it for several weeks, you make us wait again."
+
+Hod sat still, meditating with his yellow mana. He opened his eyes as I arrived. Hod squawked.
+
+"Hod know Harbinger do important Harbinger stuff."
+
+I turned a hand to him, grasping at the opportunity for a reasonable excuse.
+
+"Exactly."
+
+Hod nodded.
+
+"Hod not like it, but important stuff more important than friends. It shame, but it true."
+
+Chrona let out a deep chuckle.
+
+"He was helping the dry man, remember?"
+
+Hod crossed his arms.
+
+"That why Hod not sure if important stuff actually important. Dry man always be dry. No one stop that. Not even Harbinger."
+
+I took out several fish I collected while scavenging Antarctica's barren wastes.
+
+"I guess fishing for friends wasn't worth my time. I wonder what I'll do with these-"
+
+Hod leaped forward, snatched the series of fish away, and stuffed his cheeks like a gerbil. He gulped them down in an instant, and Hod looked at his feathery hands.
+
+"Hod...Hod love Harbinger. What Hod thinking?"
+
+He hugged me, wiping fish grime and bits of ice on me all the while. I squeezed him before setting him down. Hod wouldn't let go, so I tossed several more fish away from me. The birdman dove to the other fish, munching away before I tossed a vial of primeval blood to Amara. She snatched it out of the air while hissing.
+
+"Is this bribery?"
+
+I scoffed.
+
+"Oh, absolutely."
+
+She stowed it away.
+
+"Your bribery is petty. But...it's working."
+
+Chrona's eyes glistened at me. I took out a whale from my storage along with a few wisps of the primeval blood. I channeled the multicolored blood through a blue core, creating a temporally loaded mirage. I tossed it to her.
+
+"This holds a vision constructed from elemental magic. It manipulates our perception of time, so I thought you'd be interested."
+
+Chrona caught the vial with her tail.
+
+"Is this the iridescent fluid you found on L-7?"
+
+I shook my head.
+
+"That was more like liquid light that constantly shifted color. This is like glowing paint that keeps each color separated from the others. The colors don't mix as well, remaining splotchier."
+
+Chrona tilted her head. I shrugged.
+
+"And this won't kill you. The other stuff probably would."
+
+Chrona whipped her tail back and forth, her eyes following the vial.
+
+"I'll take your word for it...And besides, it has caught my interest. This is quite an unusual piece, yet still so familiar. Ah, that's what it is. This reminds me of the ancient sculptures left behind by other time mages on Giess."
+
+Amara peered in disgust.
+
+"These primevals existed on Giess?"
+
+Chrona let out a deep laugh.
+
+"No, little one. I learned my time magic from an ancient order of temporal gialgathens. They would leave their teachings within sculptures that imbued their knowledge within. If one touched it, they would be immersed within a vision of the past."
+
+Chrona looked up at the sky.
+
+"While mostly harmonious, some of these sculptures carried fragments of their souls. They would attempt to imprint themselves over the bodies of younger gialgathens and steal their youth. There was a time when I believed Lehesion was one of these mages due to his reincarnated knowledge."
+
+Chrona's eyes grew wistful.
+
+"Not that it matters now."
+
+Hod flapped over.
+
+"Hod find it interesting."
+
+Chrona smiled up at him.
+
+"Thank you, child."
+
+Chrona pointed her head at the whale.
+
+"Now, what is that for?"
+
+I put my hands on my hips, standing tall.
+
+"It's for you and Hod to share. Divy it up how you like."
+
+Hod and Chrona glared at each other before they dove at the whale. Chrona wielded time. Hod wielded the shadows. They both cleaved each other's respective sorceries into ribbons as they crossed the few meters to the whale. It diced into many fragments, awash in energies and manas it couldn't hope to withstand.
+
+The whale exploded. Blood, guts, and viscera splattered over me and Amara. Amara hissed.
+
+"And you have chosen these two to accompany you?"
+
+The blood soaked into my skin, and I shrugged.
+
+"At least it'll be interesting."

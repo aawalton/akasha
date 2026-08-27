@@ -1,0 +1,189 @@
+---
+id: 9fa25286-2f3a-5a9d-9cdb-37d6a15df8c0
+page-type-slug: story-chapter-royal-road
+title: "Chapter 121 – Frozen Wings"
+slug: 0121-chapter-121-frozen-wings
+partOf: the-magpie-and-the-archmage-monster-evo-litrpg
+position: 121
+ownLength: 2096
+unit: words
+publishedAt: 2026-05-11
+link: "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3380979/chapter-121-frozen-wings"
+royalRoadId: "3380979"
+---
+
+The blast was incredibly cold, instantly freezing whatever water particles were in the air and turning them into a flurry of snowflakes. Liora felt as if her whole body had been struck by the northern wind itself. It struck her with enough force to make her crash into the ground.
+
+While that hurt like hell, she was mostly fine. Her legs and wings were functioning as intended, and she was bleeding. The problem was that there was this horrible, deep chill within her body. Almost as if she had swallowed a large piece of ice, and this cold was now spreading through her whole body.
+
+Status check!
+
+The frantic nature of Renir's inner voice made Liora instantly open the status screen.
+
+[Status]
+
+Health: Scrapped
+
+Mana: Drained
+
+Affliction: Chilled (Major)
+
+What the hell does Chilled mean?
+
+Dammit! It means you're under a clock now. The cold will slowly spread through your body and freeze you.
+
+What? What do you mean freeze me?
+
+Before Renir could reply, Liora felt an unpleasant cold come from her wings. Raising her wings in front of her, she saw how the very tips of her wings had changed. Instead of feathers, it looked like ice and felt a little heavier, too.
+
+Looking at Cee, who had been further away from the mage, Liora saw that the very tip of one of her legs had also turned icy. They shared a horrified glance and understood that they had to finish this fight and fast. Liora didn't have to tell Cee what she needed.
+
+Instead, Liora took flight and was determined to bring the attention of all the zombies to herself. The warrior zombie was already near her, having used the confusion to narrow the distance between itself and Liora. She hurriedly took flight, flying backwards to avoid it.
+
+But the warrior was persistent, running after Liora, occasionally slashing with its swords in an attempt to graze her. She was just barely able to keep ahead, the icy tips of her wings messing with her ability to execute her aerial maneuvers properly.
+
+Liora wished she had enough mana for a magical attack, but sadly, she was completely dry. She would have to wait a few minutes for the Necklace of Sunpeak to recover enough of her mana. In the meantime, the best she could do was Fade and fly over the warrior zombie as he kept blindly charging forward.
+
+She didn't dare to fly over him before, since the cavern ceiling was relatively low, and this zombie in particular looked rather agile. Who knew how high he could jump? Liora wasn't going to test that.
+
+While she dodged the warrior zombie, the other zombies were keen on catching Cee, hurling arrows, bullets, and fireballs at her, while the spider desperately bounced around from ceiling to wall to floor, in an attempt to dodge.
+
+"A little help here!" Cee called.
+
+Liora flew towards the zombie paladin, hoping to do some damage to it. Otherwise, the moment she attacked one of the long-range attackers, it would undoubtedly use taunt again. But then Liora realized that being out of mana meant that she couldn't turn her attacks holy anymore.
+
+The timer on her Fade was ticking out. She couldn't just hover and do nothing. Without any better ideas, Liora grabbed the zombie paladin's helmet at the last moment with her talons and pulled. The head… came straight off.
+
+She wasn't sure whether it was because she had damaged the paladin before and not all damage had been healed, or whether zombie heads just didn't hold on very well. But in either case, she had a zombie head in her talons now.
+
+"Blargh!" The paladin zombie's head growled while the body tried to reach up to retrieve the head.
+
+Liora just flew higher, out of reach, doing her best to ignore the nasty stench coming from the zombie head.
+
+The mage is preparing something again!
+
+Looking at the back line of the zombies, she saw that the mage indeed had its staff raised again. Liora flew straight at him. She had to stop the spell. What if the next one just froze Liora and Cee entirely?
+
+The archer and gunslinger zombie redirected the attacks at her, eager to stop her advance. However, she was able to dodge the arrows easily, while bullets she blocked with the zombie head. It let out an annoyed "blerh" each time it was hit, and the smell got worse after each strike.
+
+Dammit! I won't be able to make it in time.
+
+Even her inexperienced eye could tell that the spell was almost complete. In a moment of panic, Liora flung the paladin zombie head straight at the mage. Despite the unruly nature of her projectile, Liora's aim was true, and she hit the zombie mage. It didn't really do any damage, but it did stop the mage's spell.
+
+At the same moment, she felt the tips of her tail turn to ice, weighing her down and instantly making her lose control of her flight. The archer and the gunslinger were on her instantly, eager to shoot her down. Liora had no choice but to use Featherflash to protect herself.
+
+To the gunslinger's credit, it kept shooting bullets at Liora, hoping to hit the little mote of light that she was. But obviously, it couldn't, so Liora flew at it, hoping that once she materialized, she would be able to do something about it.
+
+However, as soon as she did, the paladin zombie's head, which had fallen to the floor, screeched its horrible scream.
+
+[You have been Taunted.]
+
+How can it still taunt me despite it being just a head?!
+
+Zombie paladin's body was stumbling about somewhere on the other side of the cavern, having absolutely no sense of direction whatsoever.
+
+Liora was forced to fly at the zombie head, her direction forcibly changed again, the taunt compelling her to attack the head. But from the other way, the archer and the mage were already shooting their projectiles. She had no choice but to abort her attempt to attack and fly away.
+
+"It's ready!" Cee called and suddenly appeared near Liora. Liora nodded.
+
+They had to lure the zombie to the circle Cee had drawn on the ground. Warrior would be easy—it was already charging in Liora's and Cee's direction. But how could they get the mage, archer, and gunslinger to move? They had no reason to abandon their safe positions.
+
+Renir! How do I get them to move to the circle?
+
+There was a moment of silence as he thought. More of Liora's feathers froze over. If more of her feathers icefied, she wouldn't be able to fly for long. Her Aerial Agility wouldn't work properly either, so dodging the projectiles would become impossible.
+
+Looking at Cee, two of her legs were frozen halfway up, hanging limply as she forced herself to jump with her remaining legs. The spider's jumps were visibly not as agile as before. She wouldn't be able to keep up for long either.
+
+Renir!
+
+Withdraw me and land, pressing me against the ground.
+
+Liora obeyed, falling to the ground with an audible thud and instantly pressing Renir against the ground.
+
+"Please, restore my mana afterwards," he said, and then began glowing with bright light.
+
+The ground rumbled, and a moment later, the rocks on the ground began to shift upwards, creating a wall halfway up to the cavern ceiling. Renir likely didn't have mana for more than that. But it was enough. Liora and Cee were both protected from the projectiles.
+
+Renir had also left a small opening in the middle, which led straight to Cee's circle.
+
+The warrior zombie rushed at Liora, eager to slash her apart. With some difficulty, she pushed herself into the air, dodging the sharp blades at the very last moment. She flew straight at the warrior zombie and, using her sharp talons, Rended the rotten flesh on its face.
+
+The stench was horrendous, but Liora did her best to ignore it and kept Rending until she was able to pull off the warrior zombie's head. The body began flailing about wildly, slashing blindly in every direction.
+
+At that moment, the gunslinger zombie appeared at the rocky opening and aimed its pistol at Cee.
+
+"Jump!" Liora warned and threw the zombie head at the gunslinger.
+
+This zombie proved more agile than the mage, rolling out of the way. Soon it was up on its feet, ready to blast its projectiles again. Thankfully, the mage and archer zombie also appeared through the rocky opening, snarling.
+
+Cee, who was hanging upside down on the ceiling, reacted instantly.
+
+"Bedrock Mandala!" She shouted dramatically, and the circle lit up.
+
+Liora had expected the zombies to be dramatically slowed down; however, the effect proved to be much better than that. They all collapsed to the ground.
+
+"What the hell?!" Liora exclaimed. "Just what level is this skill?!"
+
+"It's only [Adept]. The frogs and mice didn't collapse like this," Cee said.
+
+But the zombies had been rendered completely immobile. Liora didn't intend to wait around. She began Rending zombies, separating them into pieces one after the next while they were helpless to lift their weapons. Perhaps it was a lack of proper muscles that made them so weak to Cee's spell.
+
+The spider wasn't sleeping either, biting and tearing at the zombies with her mandibles, giving the mage zombie most of her rage.
+
+[You've defeated <Fallen Hero Gunslinger – Level 36>. Experience gained.]
+
+[You've reached Level 31.]
+
+[You've assisted in defeating <Fallen Hero Archer – Level 33>. Experience gained.]
+
+[You've defeated <Fallen Hero Mage – Level 38>. Experience gained.]
+
+The moment Cee killed the mage, Liora's feathers instantly turned to normal, the chill receding from her body. Cee's legs also went back to normal. The only ones left were the warrior and paladin zombies whose bodies were still staggering about, flailing wildly.
+
+"Let's play it safe. I'll recover some mana then deal with them," Liora said.
+
+"What about Renir? Did he exhaust himself again?" Cee asked.
+
+"Yeah. He asked me to charge him up later," Liora said.
+
+"I could try channeling my mana into him, but I'm currently spent," Cee said, slumping to the ground. The warrior zombie's body was meanwhile locked in deadly combat with the wall.
+
+"Oh, shut up!" Liora muttered and shot it with Holy Light.
+
+[You've defeated <Fallen Hero Warrior – Level 35>. Experience gained.]
+
+As Liora waited for her mana to recharge, the paladin zombie's body in its blind rampage somehow managed to break through the rocky wall Renir had created.
+
+"Wow, it wasn't all that tough…" Cee noted, poking at the wall. "It feels quite thin."
+
+"Even so, this took all of his mana to create. Let's be grateful that the zombies fell for it.
+
+As soon as Liora had enough mana, she used Holy Light to finish off the paladin zombie.
+
+[You've defeated <Fallen Hero Paladin – Level 34>. Experience gained.]
+
+[You've reached Level 32.]
+
+Liora was about to rejoice at a job well done when suddenly the whole cavern began to shake. The flimsy rock wall was the first to crumble away, revealing that the shrine at the back of the cavern had opened up. In it sat a brilliant dark pearl, glowing with iridescent light.
+
+Treasure Sense went absolutely haywire. She had to have it.
+
+"No, Liora! The cavern is collapsing, we have to escape!" Cee said.
+
+"I'm not leaving without the treasure," Liora said, flying at the shrine without hesitation.
+
+"You greedy bird, you're going to get us killed!" Cee said, jumping after Liora.
+
+The cavern shook more and more violently, the ceiling starting to crumble away, bits of rock and debris falling. Liora dodged them easily; however, some sane part of her mind was screaming at her. How would they get out of here?
+
+But the treasure came first. She reached out and grabbed it with her talons. It glowed even more brightly, and Liora could feel a strong magical pulse coming from it.
+
+"What is that?" Cee said, stopping and pointing at the pearl nervously. She must have sensed the mana coming from it as well.
+
+"Grab it, Cee!" Liora yelled.
+
+"What?!"
+
+Rocks were falling from the ceiling, and water flowed into the cavern, quickly filling it up. Liora desperately hoped that whatever magic this pearl was about to activate could save them. She fell at Cee and thrust the pearl against her carapace.
+
+It wasn't a moment too late. The iridescent glow enveloped Liora and Cee. She felt a strong lurching pull, and everything went black.

@@ -1,0 +1,149 @@
+---
+id: cd5ac348-8112-5bc0-8139-b5ba8738e378
+page-type-slug: story-chapter-royal-road
+title: "Chapter 107 – Point Blank"
+slug: 0107-chapter-107-point-blank
+partOf: the-magpie-and-the-archmage-monster-evo-litrpg
+position: 107
+ownLength: 1986
+unit: words
+publishedAt: 2026-04-08
+link: "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3246563/chapter-107-point-blank"
+royalRoadId: "3246563"
+---
+
+Cee didn't like being separated from Liora again. The same thing happened on the corruption island, where the bird had been forced to deal with the crazy mages on her own. But this was far worse than that. This time, Liora was fighting a giant cyclops that could conjure a rain of rocks like it was nothing. It was the worst possible enemy for the bird.
+
+The spider wished she could rush to help, but both Liora and the cyclops were already halfway across the island. The angry bellows of the cyclops was nothing more than distant noise.
+
+Even if that wasn't the case, Cee wasn't sure she could help. She had been detonating the mana overcharge sigils that she had secretly woven in the cyclops' camp, left and right. But it never seemed to do much damage to the giantesses. The best it accomplished was distracting them for a moment.
+
+Morgana and her two companions, on the other hand, were cutting down the giantesses like they were made of butter. Cee didn't understand it fully, but the team had a clear system.
+
+First, the Pillar would pick one of the giantesses and shoot it with a flurry of electric bullets. Nord and Donovan would follow up, cutting and slashing into the giantess's skin. It appeared to do only superficial damage; the more they cut, the more sparks appeared around the giantess's body. Eventually, it would seize up from paralysis and Morgana would finish it off with a laser bullet.
+
+Cee did her best to contribute to the battle. She wove electric webs and laid them beneath the giantesses' feet to hinder their movements. She triggered her sigils to keep other giantesses at bay while the crew dealt with their picked-out target. But she couldn't deal any real damage to these oversized monsters.
+
+Nonetheless, the System seemed to reward her for her efforts.
+
+[You've assisted in defeating <Jungle Giantess – Level 47>. Experience gained.]
+
+[You've reached Level 18.]
+
+The amount of experience she gained was astounding. If the situation were any better, she would have cheered. But her mind kept wandering back to Liora with each bellow of the cyclops that she heard in the distance.
+
+Somehow, her magpie friend was able to keep the monstrosity occupied. But for how long? Cee feared that they wouldn't be able to reach Liora in time. Especially the humans who were so slow.
+
+"Cee, go ahead and help Liora," Morgana suddenly called out. "We have things under control here!"
+
+There were still half a dozen giantesses left; however, there wasn't any doubt about who was dominating the battle. Cee detonated the remaining few sigils, spooking the giantesses, and jumped in the direction of the cyclops' screams.
+
+***
+
+Liora flew from one tree to another in her magpie form, trying to remain hidden for as long as possible. Her bird instincts were screaming at her to stop and fly the other way. Renir was screaming in panic, too.
+
+Don't do it! You can't defeat it!
+
+But Liora surged forward anyway. Her chances were slim, but if she timed things right, then she might at least turn things in her favor. If she could just take out the cyclops' eye, then she might at least protect the other birds living on this island.
+
+The cyclops, however, was aware of this weakness, and she saw that he was constantly shielding his eye with his large hand. Her timing would have to be perfect. She dearly hoped that this monster didn't have some secret resistance to sound-based attacks.
+
+As the monster continued destroying the jungle, Liora flew through the opposite side, positioning herself behind the cyclops. It had a huge area around itself with trees strewn about on the ground haphazardly, as it had uprooted them without much thought just to get to the birds.
+
+"Come on out, bird! I'll kill every last one of your kind if I have to," the cyclops growled, stomping his feet.
+
+His stomps sent powerful tremors through the ground, making the rodents, bugs, and other critters flee for their lives. This brute didn't care for any of the lives around itself.
+
+But Liora flew carefully, sneakily, from one tree to the next, hiding herself in the shadows to take advantage of Shadow Glide. When she got to the destroyed section of the jungle, Liora hid close to the ground, among the fallen trees.
+
+For the giant cyclops to notice her would be the same as for a human noticing a single ant in a grassy field. Not impossible, but very unlikely.
+
+Liora, I beg you! Turn back, while you can.
+
+But as the cyclops murdered yet another flock of birds, Liora's resolve only strengthened further. When she finally felt like she was close enough to the monstrous bastard, Liora shifted into her large form and Faded before the cyclops could notice her.
+
+She flew straight up at his eye, but despite the cyclops' petulant rage, it was still shielding its eye with its hand. Forcing it away would be impossible, and trying to avoid it at such a close range was far too risky. So instead, Liora flew up to his ear and cackled.
+
+[You've successfully mimicked the skill <Maddening Cackle>.]
+
+Liora wasn't sure if the skill had done the job or whether it was the sudden noise in such close proximity to its ear that startled the cyclops. But it flailed its hands around wildly and began conjuring his deadly rock shards all around himself.
+
+With his eye unprotected, Liora flew towards it with the full intention of Rending the sensitive organ with her sharp talons. Unfortunately, the cyclops, either driven by pure instinct or skill, firmly shut its eye.
+
+Liora Rended with all her might, hoping that she would be able to tear through the skin. Perhaps, if given more time, she would have been able to. But the cyclops reacted quickly, reaching up to catch Liora. She was forced to fly up to avoid being grabbed and squished to death.
+
+Dammit, I didn't manage to reach its eye.
+
+That's okay! You've inflicted quite the damage on the eyelid.
+
+"I'm going to kill you, bird!" The cyclops screamed.
+
+It tried to wipe away the blood that was pouring out of the injury Liora inflicted, however it was too close to the eye. The blood kept trickling inside it, forcing the cyclops to blink constantly, unable to keep the eye fully open. While not blind, its vision was now severely hampered.
+
+However, as it turned out, the cyclops didn't even need to see Liora to attack her. It waved its one giant arm, and suddenly rocks of all shapes and sizes flew up from the ground to the sky.
+
+Avoiding this barrage wouldn't be difficult if she used Featherflash, but what would she do once all of these rocks came crashing down? There was no time to even think about that. She had to avoid the initial barrage first.
+
+Liora dove down and activated Featherflash, turning into a mote of light and safely passing through the flurry of rocks. Once she materialized near the ground, she flew down. Perhaps if she were low enough, she could avoid getting caught in the crossfire.
+
+As she had suspected, the cyclops created another barrage of sharp rocks, sending them hurling up in the sky, while the initial collection of rocks rained down.
+
+"Over here!" Cee called out.
+
+It took a moment for Liora to notice the spider. She had made a thick shelter of webbing between two fallen trees. Liora rushed towards her, switching to her magpie form to better fit inside. Cee then hurriedly sealed up the entrance, and they waited.
+
+The moment rocks came crashing to the ground, Liora could hear them hitting against Cee's web. The first few bounced off rather harmlessly. But the rocks quickly began piling up. One broke through the web, then another. One struck Cee's leg, making the spider writhe in pain.
+
+Liora hurriedly took her larger form, positioning herself above the spider. As the bigger monster, she should be able to endure the hits better. In total, about four rocks struck Liora on her back and three on her wings. It hurt like hell, but thanks to Cee's web, their momentum was reduced enough to not be lethal.
+
+"Come out, bird!" The cyclops bellowed and stomped his feet, making the ground beneath Liora shake violently.
+
+"Wh-What do we do?" Liora asked, swaying from side to side. "I have barely any mana."
+
+"I don't have much either. But Morgana is steadily getting rid of the giantesses. We need to hold out for just a little bit longer."
+
+His vision is impaired, and I doubt he'll be able to smother the whole area with rocks each time. Even that monster should have some limits. You two need to hinder him further. Reduce his mobility, aim, and senses.
+
+"Renir says we need to continue hindering him," Liora said. "Ruin his senses and stuff. Do you think you could weave some of your webs?"
+
+"No problem! One of my legs is out of commission, though, so I won't  be able to jump as well."
+
+"Leave quick movements up to me!"
+
+Liora and Cee emerged from their hiding spot, and it wasn't a moment too soon. The cyclops seized the soil with his earth magic and flung everything that was on the ground—trees, rocks, and the like— into the air.
+
+Liora grabbed Cee gently with her talons and shot up into the sky.
+
+"I don't like this!" Cee complained, but with her front legs, she was already weaving a thick thread which glowed like an icicle in the sun.
+
+"Ice web?"
+
+"Morgana said its weakness is ice, no?"
+
+That had completely slipped her mind. They could take advantage of this weakness.
+
+As Liora flew high in the sky, avoiding the flying debris, the cyclops was looking all over the place lamely, blood still pouring into his eye. It took a while for the monster to notice Liora.
+
+"There you are! I'll kill you!" It roared in anger, summoning the round rocks and slowly growing from a small pebble to football size.
+
+She didn't wait for him to finish his spell and instead Faded. Liora flew forward and down towards the cyclops' feet. Once she felt like she was low enough to drop Cee safely, Liora released the spider.
+
+The cyclops either hadn't noticed that they had disappeared or couldn't stop his spell, because the barrage of football rocks went whizzing through the air, flying far off into the distance. Since these weren't aiming up, Liora didn't have to worry about them raining on her head.
+
+Instead, Liora positioned herself behind the cyclops and flew up. The giant turned this way and that, searching for Liora, but each time he turned, she was sure to follow it in a way so she would remain close to its back and out of sight.
+
+For a moment, she considered trying to Rend into its back, but the skin was so thick, it likely wouldn't do much.
+
+Liora, you might not like this, but… fly into its ear.
+
+No, no, no! You can't do this to me.
+
+She wanted to cry, but Liora knew she might not have such a good opportunity again. As gross as it was, this was a great chance to ruin the cyclops' hearing along with its eyesight.
+
+Once you're human again, you owe the fanciest and most expensive kind of soaps this world has.
+
+Deal!
+
+Liora approached the cyclops from behind, turning into her small magpie form. She didn't want this—the cyclops' ear had hair growing out of it, and she could see the nasty buildup of wax. But this attack would undoubtedly be very effective.
+
+So she dove straight into its ear and began Rending everything she could reach while desperately ignoring the nasty smell and the feeling of ear wax engulfing her feathers.

@@ -1,0 +1,161 @@
+---
+id: 28e9f24c-4efb-5d45-9488-155627e3d0c3
+page-type-slug: story-chapter-royal-road
+title: "Chapter 147 – Desperate Escape"
+slug: 0147-chapter-147-desperate-escape
+partOf: the-magpie-and-the-archmage-monster-evo-litrpg
+position: 147
+ownLength: 2112
+unit: words
+publishedAt: 2026-07-15
+link: "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3678870/chapter-147-desperate-escape"
+royalRoadId: "3678870"
+---
+
+Liora kind of wished she could have taken back what she said. Admittedly, it likely wouldn't have changed anything. This man meant business. His calm demeanor, but at the same time, powerful aura made Liora nervous. Could she actually escape this place together with Renir?
+
+If it were just her or if she could put Renir in her inventory, it would be much easier. Featherflash the bastard and then get out of the place as a mote of light. As soon as she got outside, she would undoubtedly be able to leave these guys in the dust.
+
+But she was underground, her only way out blocked by magic. She was injured and hurting, and half of her mana had been used up to defeat the spider. Her Prismfeather Mantle was slowly but surely recovering her mana with each wingbeat, but it was by no means a fast process.
+
+"Lucien… I should have known you were involved…" Renir said, his voice filled with contempt.
+
+Clever, he was trying to distract the enemy with conversation. Liora had to figure out how to escape in the meantime.
+
+"You know too much," Lucien said, his eyes filled with contempt. "You could have kept your head down and read those old books of yours, but you just had to come poking about."
+
+"I am a Pillar. You really think I would let you bastards do as you please in MY country?" Renir shot back.
+
+"Your country?" Lucien let out a brisk laugh. "Do you believe yourself to be a king of some sort? Was it not one of your blasted ancestors that destroyed this country to begin with? Indulging this anarchy and letting every riff-raff rise to high station?"
+
+"Riff-raff, you say? I still can't believe that you're holding onto the crude notion that blood has anything to do with how worthy or unworthy people are. Velithra is prospering more than any other neighboring nation thanks to this new system, yet you…"
+
+Liora largely tuned out the rest of their conversation, which quickly turned into a heated debate as to why meritocracy was the supreme way of governing the country rather than a monarchy. She barely understood half of the arguments, and even the mage that had snatched Renir away looked confused by the ongoing debate.
+
+He would occasionally raise his finger, likely trying to remind his master that they should be trying to capture Liora and Renir, but it appeared that the intellectual debate was far more important to his master.
+
+But thanks to this distraction, Liora's Decoy fade was once again ready to be used. The problem was the infernal stone wall. She didn't exactly have skills that could break through walls. But she was much larger and stronger as a dracoryx. Could there be a chance that she could force her way through with her talons? Could Renir perhaps do something with his magic? He must have recharged at least some of it by now.
+
+It was no use hovering in the air and waiting for these two to finish their debate. Liora turned into her dracoryx form while clutching Renir firmly in one of her legs. Then she unleashed her Resonance Mimicry.
+
+BOOM. BOOM. BOOM.
+
+She could basically see the sound waves as they warped the air and resonated on the tunnel walls. They seemed to shake from the intensity. The thief mage clutched his ears, but Lucien appeared entirely unfazed.
+
+"What a rude bird! Surely, you should know better than to interrupt a conversation," Lucien said and raised his finger, pointing it at Liora.
+
+At that moment, it felt like her heart seized from fear. Pure survival instinct drove her to shrink back to her magpie form and activate Decoy Fade. Half a second later, a burst of energy came from Lucien's finger. It shot right through the place where Liora's head had been and even through the rock wall Lucien had blocked Liora's path with.
+
+Had that thing connected… well, needless to say, no potion would be able to save her then.
+
+But her decoy flew at the mage, seemingly heading for the only direction where she could fly, while the real Liora transformed back into her large form. She didn't act right away, instead waiting for her decoy to fly past Lucien and the mage. Lucien lazily shot his magic laser beams, not being too keen on hitting Liora.
+
+As soon as his attention appeared to be wholly on the decoy, she took Renir in her beak and Rended the rocky wall with all her might. It wasn't a pleasant experience. The shrill noise her claws produced against the stone was ghastly and chilled Liora to the bone.
+
+While she managed to make sizable talon marks on the stone, it wouldn't be nearly enough to get her free.
+
+"Wait… this wall… " Renir muttered thoughtfully.
+
+But Liora had no time to ponder his words, as a laser beam came flying in her direction, just narrowly missing her tail. She reappeared a second later as the thief mage destroyed her decoy.
+
+"My, my, that's a very powerful pet you have raised, Renir. I do wish I could claim it for myself. I do like the color black," Lucien said with a vicious smile.
+
+Liora wanted to object that she was no pet, but kept her mouth shut. There was no reason for her to betray her true intelligence to the enemy. It was best that they kept believing that she was a very smart bird, rather than a bird with human-level intelligence.
+
+"Liora only serve m-master!" She announced, deliberately chopping her words a bit to sound dumber.
+
+"That's a shame," Lucien smirked and pointed his finger at Liora.
+
+She instantly flew to dodge, but Lucien wasn't so lax anymore, firing one magic beam after the next, forcing her to keep moving.
+
+"Liora, use your Resonance Mimicry on the wall!" Renir managed to say as she was doing her best to keep herself alive.
+
+She had no clue what Renir had in mind, but she turned back into her dracoryx form, tossing Renir into her talons and using her Resonance Mimicry.
+
+Renir, at the same time, applied some kind of magic to her. She didn't know what it was, but she felt a slight warm tingle coming through him and passing through her body.
+
+BOOM. BOOM. BOOM.
+
+The sound was so overwhelmingly loud that Liora thought she would scramble her own brain. The soundwaves shook the whole cave, and the wall Lucien had constructed crumbled away as if it were made of paper.
+
+To Liora's surprise, this time even Lucien didn't remain unaffected as the powerful soundwaves actually forced the man to cover his ears. She didn't waste any time. As soon as the wall had crumpled away, she turned back into a magpie and flew out and back up to the pub.
+
+The criminals in the pub upstairs tried to attack her the moment she appeared, but these were nothing more than small fry. Turning back into the dracoryx, she tossed them aside like dolls and flew out into the streets through the door she had previously smashed.
+
+The poor guard that she previously knocked out just barely managed to jump aside in time as she burst out and flew high into the sky. For good measure, she activated her Decoy Fade and let it fly off in the opposite direction, while she headed back to where Smokey and Cee were.
+
+Liora didn't even dare to look back. A powerful mage like Lucien likely had ways of following her, just as the mage school headmaster had. It also wouldn't take a genius to figure out that she would likely head back to reunite with her companions.
+
+So when she spotted Cee and Smokey—well, only Smokey at first—she flew straight down and snatched the wyverling while yelling. "On my back, Cee!"
+
+Cee appeared on her back just a moment later, hurriedly weaving her safety threads to secure the flailing hatchling and put the safety padding on Liora's talons. Afterwards, she secured herself and Renir as well, tying him back around Liora's neck.
+
+"What's going on? Why are we flying away so fast?" Cee asked.
+
+"Are we being followed?" Liora asked.
+
+The spider peered behind them. "Not as far as I can see, but my vision isn't that great when compared to yours."
+
+"We can't trust vision anyway. Lucien is a powerful mage, next in line to become the Pillar of Mystic Prism. Merlin's eldest son," Renir explained.
+
+"What? Does this mean that this other Pillar Merlin was one of the people to trap you in the gem?" Cee asked.
+
+"He might not have been the one to actually do it, but his son definitely was. So it's safe to say that Merlin is involved, too," Renir explained.
+
+"How come you weren't sure of that before?" Liora asked.
+
+"I was drunk! How much do you remember from when you get drunk?" Renir accused.
+
+"I don't get drunk. That's what humans do," Liora protested.
+
+"I don't think I ever enjoyed drinking much, even when I was a human," Cee said.
+
+"Aren't you two upstanding citizens? In either case, don't you dare to slow down, Liora, he might be close on our tail," Renir urged.
+
+Liora dared a momentary glance back and realized that Renir was right. Somewhere in the distance, she saw him—Lucien, flying in the air and heading towards them at an astounding speed.
+
+"He's following us!" Liora announced.
+
+"Shit, shit, shit! What do we do?" Cee squirmed her legs nervously on Liora's back.
+
+"Stop that! You're tickling me!"
+
+"Okay, okay… Nobody panic… But actually I'm out of mana from when I amplified your Resonance Mimicry. So… it's actually rather fair to panic," Renir muttered.
+
+"ARGH!" Liora growled, increasing her speed and flying towards the sea. That was the best place for her to go. Surely Lucien couldn't keep flying forever, right?
+
+"Hey, how long do you think he can keep up the flight?" Liora asked.
+
+"Longer than you, I imagine… Especially with how battered you are," Renir said.
+
+Liora had to admit that she was basically running off fumes at this point. Only pure determination and the wish for survival were forcing her to beat her aching wings. But she wouldn't be able to keep this up for long.
+
+Looking down at the shimmering seawater, an idea appeared in Liora's mind. She didn't like it. She didn't like it one bit. Smokey would probably hate it very much.
+
+"Renir… Can you remind me of the incantation for that air bubble spell again?"
+
+"Oh no… Liora, but the merpeople…" Cee said.
+
+"Better them than that guy!"
+
+"But I still have that Divine Glimmercore in my Inventory."
+
+Liora felt like she was being pressed between a rock and a hard place. Glancing back, the distance between them and Lucien had grown narrower.
+
+"Prepare for the dive!" Liora announced.
+
+"Oh, dear… I'm going to try to calm Smokey," Cee said and explained the situation to the wyvern the best she could.
+
+He began squirming furiously and beating his wings in an attempt to get away. But there was no escape from this. If Liora left Smokey behind, Lucien would undoubtedly kill him, thinking it was another one of Renir's pets.
+
+Eventually, Cee managed to settle him a little. "I'm going to upkeep Smokey's air bubble. I think I have more mana and I'm better at manipulating it anyway."
+
+Liora was alright with that. She felt like she was already bursting at the seams, so if Cee made sure that her pet didn't suffocate underwater, it would be a big help. Once Renir had recited the incantation and Cee was ready, Liora dove straight into the shimmering waters below.
+
+The cool water actually felt nice against her battered body, relieving some of the pain that was plaguing her. Unfortunately, Smokey didn't share her sentiment, squirming viciously in her grasp and trying to get back above the surface.
+
+In the end, she had no choice but to restrain the wyvern by pressing his wings close to his body. Cee was trying to soothe him, although the spider didn't seem to be very comfortable herself.
+
+Nonetheless, Liora kept going deeper into the water. She had to make sure that Lucien wouldn't follow them. She kept swimming deeper and deeper down while keeping an eye on her Fluid Flight timer. Once it reached a halfway mark, it would mean she would have to resurface to take a breath.
+
+However, soon Liora was met with a familiar sight of merpeople swimming their way, approaching her from the depths. She didn't yet know whether they would be her salvation or doom.

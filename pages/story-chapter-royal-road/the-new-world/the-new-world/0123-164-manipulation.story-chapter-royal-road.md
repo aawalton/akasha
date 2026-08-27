@@ -1,0 +1,223 @@
+---
+id: ab161335-2352-5e2d-86a0-37b9bda4ee0c
+page-type-slug: story-chapter-royal-road
+title: "164 Manipulation"
+slug: 0123-164-manipulation
+partOf: the-new-world
+position: 123
+ownLength: 2201
+unit: words
+ownProgress: 2201
+publishedAt: 2018-11-17
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/307493/164-manipulation"
+royalRoadId: "307493"
+markedReadAt: "2026-06-29T21:25:13.407Z"
+---
+
+I am proud of my race and my standing. As an Albony duchess, I hold sway in galactic courts. I've struck fear into those that hear my name, Caprika Novas. Despite all the clout I've amassed, I won't pretend that this Harbinger of Cataclysm didn't unnerve me. After seeing him melt a corpse without any warning, he absolutely horrified me.
+
+So the sense of relief as that monster of metal jumped out of the rickety shack was palpable. He had this feeling around him, as if he weren't mortal. It left me on edge. As he left, his weighty presence left with him. I sighed with relief, thankful for a break from him. I turned to his followers. With my chest held high as an albony's chest should be, I noted,
+
+"Is Daniel always like this?"
+
+The brutish Kessiah uncapped yet another bottle, "Uh, yeah. Always. He's literally always doing something annoying, hard, or both."
+
+The civil Althea leaned forward, always defending her lover, "That isn't true. He relaxes when he's with me."
+
+Kessiah scoffed, "Oh, really now? That shit never happens while I'm around. Could've fooled me."
+
+I tapped my thigh, trying to find the right way to probe my question,
+
+"Now, if you wouldn't mind my asking, what is that ability he uses?"
+
+Kessiah rolled her eyes, "Which one? He has, like, a dozen things he can do."
+
+I took note of her disdain. Kessiah envied Daniel in some respect. Either that or she feared him as I did. I couldn't blame her in the slightest. He was in every sense of the word, terrifying.
+
+Althea lifted her hand, "Hmm, he has the gravity magic. Er, telekinesis, and...flying. He makes others fly as well."
+
+I nodded, "As I just saw."
+
+Althea scratched the side of her head, "And he has this aura."
+
+I pointed at her, speaking a bit too eagerly, "That one. That is the one I wish to know about."
+
+Kessiah narrowed her eyes at me, "Why would you?"
+
+I stuck my chin up even as a shiver ran down my spine,
+
+"He melted a corpse in an instant. It was like he was...for lack of a better term, a god of death."
+
+Althea burst into laughter as she often does when others are discussing Daniel. Her love blinds her to the horror that she lays with each night.
+
+"Daniel is not like that. Like, not at all."
+
+I leaned back, my brow furrowing, "What makes you so sure?"
+
+Althea leaned to her, "Looky here, missy. Have you ever seen him do anything outright bad?"
+
+The alcohol had the intended effect. Mixing calming herbs and truth serum before recanning the bottles wasn't hurting the situation either. I must use all my resources; otherwise, I would be wasteful. As a member of the Empire, I simply couldn't have that.
+
+I shook my head, "Hmmm, perchance I can't call any incident to memory."
+
+Althea nodded, "Exactly. He seems all big and bad, but he's just a teddy bear underneath it all." Althea hugged herself, "Ahh, I wish I could hug him right now."
+
+I held back a gag, a wave of repulsion passing over me. To be so vulnerable and open, it was unbecoming of an anyone but especially an albony. Kessiah mirrored my sentiments, a rare occasion on which we agreed. The brute pointed her bottle at Althea,
+
+"See, that's the thing. I can't really say he's some terrible guy either. I can say he's scary as shit. I mean, have you ever seen him stop moving? The motherfucker is a machine."
+
+Althea shrugged, "He just takes his life seriously. That's how I look at it. I wish I could do the same most of the time, but I just don't have it in me like he does."
+
+I frowned under my mask, my fangs showing if I didn't have my disguise. Albony are quite threatening and expressive without our coverings. Hiding our faces conceals our true intentions. It gives us better manipulation abilities against other, lesser races. Although calling any of this party inferior would be an outright lie. They're too powerful and dangerous for that.
+
+With that in mind, I looked behind me, peering out of my window,
+
+"It bodes well that he handles this tournament seriously. I expected many aliens from across the galaxy to rush in. However, I didn't expect to find one of the stronger ones on my side."
+
+Kessiah crossed her arms, "So you're telling me aliens come in every time this tournament comes around?"
+
+I nodded, "Of course. A fully completed mythical skill is at the very least 900 skill points along with a mythical skill. Non-natives aren't even allowed to battle for it twice. I assumed that's why you and you're comrades have come here."
+
+Althea shook her head, "Nope. This is just something extra on the side. Daniel probably figured, 'Why not handle this and this other thing at the same time? Why of course! There's never a reason not to multi-task all the time!'"
+
+Kessiah pointed her bottle at Althea, "Told you. A machine."
+
+Althea pursed her lips, "Ok, maybe a little...He's still cute though, even if he has his flaws."
+
+I raised a hand, "You never mentioned what the aura is."
+
+Althea tilted her head, "Well, it's..."
+
+Kessiah snapped, "It's pain. Pure, utter agony. I'm talkin pain like you've never felt it. It's like melting."
+
+Kessiah shook her hands, "It can hit you from across the room in an instant. It holds you in your chest." Kessiah grabbed at her sternum,
+
+"Then it wrenches your guts out. Not even just that though, it makes him stronger. He's already invincible."
+
+I tilted my head, "Really now? I thought he was just a solid fighter. What feats of tenacity has he amassed."
+
+Althea shivered, "He survived Yawm's antimatter blast."
+
+My jaw went slack. Kessiah continued, "Torix told me like this, 'Blegh, look at how smart I am.'"
+
+Althea giggled while Kessiah continued, "That's how he starts every conversation. Anyways, 'He was disintegrated, not a single metric ounce of his body remaining. He revitalized in a flash of light, his body vibrating. When he struck Yawm, it could've shattered a planet!'"
+
+Kessiah moved her hands about, acting out Torix's fretting. Even I laughed at the imitation, but I marked down her words in my memory. Daniel may be able to win the actual tournament. If he did, my uncle would offer a city on the homeworld. I'd regain my former glory.
+
+Althea shrugged, "It is kind of freaky I guess...I haven't seen him take any real damage in a very long time."
+
+Kessiah leaned up, "Alright, speaking of length, I have an important inquiry. Someone here has to ask the real questions."
+
+Kessiah leaned forward, "I'm about to ask you something that will change our perspective on Daniel forever."
+
+Althea leaned forward as did I. Kessiah whispered,
+
+"Is the dick good?"
+
+Althea leaned back, blushing with such intensity that I spotted it from under her veil. Despite my noble bearing, I will admit that perhaps a laugh or two escaped my lips. Kessiah simply spread out her arms,
+
+"What? It's a real question..."
+
+Claws extended from Althea's fingertips, "Ok, that's enough questions about Daniel. I think you've had enough to drink."
+
+Kessiah leaned back, "Damn, ok. No need to get testy." She finished another drink and threw it in the garbage, "Didn't know it was that bad."
+
+Althea leaned forward, her claws growing, "That's not the problem. You trying to steal my man is the problem."
+
+Kessiah rolled her eyes, "Oh trust me, I'm not getting with him anytime soon. You and Daniel are so close it's disgusting sometimes."
+
+Kessiah wasn't the kind of person to respond to threats. The fact that Althea's made her react meant Althea had a bite to her bark so to speak. Althea might be worth investing more time into as well. The shapeshifter retracted her claws,
+
+"Ugh, I tore open my gloves."
+
+Kessiah tilted her head towards the back of our rickety shack,
+
+"Torix can stitch it up."
+
+Althea stood up, saying her goodbyes before going to the necromancer. He and Daniel seemed the most competent. Each of them brought brains and brawn respectively.
+
+I mulled over the information I gathered here, trying to make sense of it. Kessiah stared at me as I did so. A moment later, she asked,
+
+"Hey...What made you lose your rank?"
+
+I turned towards her, "I have no obligation to share that with you."
+
+Kessiah shook her head, "Yeah, I guess not." She crossed her arms,
+
+"You know, I can tell you're trying to gather information on us."
+
+I froze in place. Using techniques I practiced, I let out a loose laugh,
+
+"Hah hah, really now? I'm simply trying to-"
+
+"Cut the bullshit."
+
+I lowered my hands, staring her down. She genuinely knew what was going on. Dammit. She sighed,
+
+"Daniel and Althea aren't even twenty years old. Torix and I, we've been around for a looong time. Lying isn’t as easy. Now tell me what it was that got you booted down a rank, or else I'm exposing your ass."
+
+I looked down, weighing my options. Kessiah saw right through me,
+
+"I'm not giving you time to think your way out of this. If you don't tell the truth in five seconds, I'm spilling the beans. Five, four, three, two-"
+
+Without time to come up with a reply, I raised my hands, "I attempted a coup over one of my sisters." I heaved out a few breaths, "There, happy?"
+
+Kessiah shook her head, "No, not yet. What was it like?"
+
+I hissed my words, "I planted evidence against her for an illegal substance. I also organized a crime ring to ruin several of her businesses. I confronted her in court, and I killed her when she attacked me."
+
+Kessiah leaned back, "Really now? Interesting."
+
+I seethed, "You find sororicide of interest now? That's just excellent. Glad my failures amuse you."
+
+Kessiah shrugged, "Why'd you do it?"
+
+I shook my head, "I...It was to overturn a rival faction to get ahead. As Daniel noted, the Empire's governing system isn't as merit oriented as it could be. Being a female in the Empire vanquished me to a lower status in the first tier of society."
+
+Kessiah raised an eyebrow, "I've heard plenty of people complain about discrimination when they were the problem."
+
+"There is a law that forbids females from owning more than a single city."
+
+Kessiah raised her eyebrows, "Ok, nevermind. That actually is discrimination."
+
+I tilted my chin up, "I was a capable ruler. My sister was not. If I won the case I brought up with her, then I'd have been the first female to own two territories. I'd have set a precedent and changed the law."
+
+Kessiah scoffed, "Oh yeah, all you had to do was kill some people and ruin some lives to make it happen. Good job."
+
+I furled my brow, "Oh please. As if you're perfect."
+
+She glanced down. She nodded, "Yeah, I guess I'm not." It shocked me how much that stung her. She continued, "I won't tell them what's going on." She pointed at me, her tone deadly,
+
+"But you cross us, and I'll get Daniel to put that aura over you. Trust me, princess, it's worse than losing  a court battle or not getting two cities."
+
+My heart seized in my chest. I gave Kessiah a curt nod, holding myself together,
+
+"Then we're in agreement."
+
+Althea opened the door to Torix's room, walking out as we finished our conversation. She held up her restored glove,
+
+"Hey guys, he fixed it with some stitching magic."
+
+Kessiah raised a fist, "That's what I'm talking about. The dusty skeleton still has it."
+
+I nodded, "Indeed he does."
+
+I bit my tongue. I underestimated the remnant. She may be weaker than the others, but she could read people like a politician. It made me reevaluate my entire plan. Instead of squeezing as much out of them as I could, I'd follow through with my original plan.
+
+I turned behind me, giving myself a mental thrashing for my lack of diligence. Father taught me better, and working within albony courts should've wisened me up. I still had much to learn.
+
+As we reached past the mountain, I noted the skyline. There were no nearby birds, an odd sight this time of year. Many migratory species flocked South, so the skies were covered in all kinds of species. There were none around us, however.
+
+As I dwelled on that, the ground rumbled. I steadied myself, wondering what was happening. I glanced up, finding a pack of birds flopping out of the sky, turning to blackened mush. I shivered, remembering Kessiah's threat.
+
+In the distance, a dark blot of metal ripped through the sky. It sped with the speed of a bullet. I leaned towards what was obviously Daniel. I squinted my eyes, wondering what he was doing.
+
+Kessiah tapped the window, "Holy shit...He's fighting another one of those oversized-salamanders."
+
+My eyes widened,
+
+"I can't believe it..."
+
+Althea put a hand on my shoulder, "Can't believe what?"
+
+I whispered, "He's fighting a myth. It's a Skyburner."

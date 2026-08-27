@@ -1,0 +1,267 @@
+---
+id: d2352801-71e9-55ed-9768-b7870e182fd1
+page-type-slug: story-chapter-royal-road
+title: "365 Bloodbath"
+slug: 0324-365-bloodbath
+partOf: the-new-world
+position: 324
+ownLength: 4703
+unit: words
+ownProgress: 4703
+publishedAt: 2023-03-05
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/1129433/365-bloodbath"
+royalRoadId: "1129433"
+markedReadAt: "2026-06-29T21:32:19.577Z"
+---
+
+I closed my eyes, allowing the energy to run its course. Once emptied, I cleared my mind for a few moments. I became a sea of calm before viewing Shalahora and his shades. I frowned,
+
+"Is Valgus here?"
+
+"He and his armies march this way."
+
+I stood,
+
+"Then it's time. Let's end this."
+
+Chapter Begin
+
+I made last-minute preparations, ensuring I collected every ounce of resources I could. A wave of fear crossed over me for a moment, but I silenced it. As I did, I quieted the parts of my mind that darted around in every direction. As a blacksmith hones a blade, I sharpened my mind to a singular purpose.
+
+As I rolled my shoulders, Shalahora murmured, "It is as if you've lessened the burdens weighing on you, the ones that bind you to fear."
+
+I shook my head, "I'm just using a strategy I've used before. Come on. Let's go inform the others."
+
+A psionic call gathered the other rulers to the town square, and I stood amongst the others, a giant of dark steel. I washed the Rise of Eden over the others and announced, "They come for us."
+
+A wave of unease crossed the rulers, but within the fear was a suppressed excitement. The embedded thrill boiled beneath the surface, each ruler wanting to show their progress and wield it in actual combat. I smiled with that desire reflected in me as well,
+
+"We've sharpened our swords and thickened our shields. Our enemy has amassed many, but they will clash against an emboldened force. You've proven that even with only a few weeks, each of you may evolve."
+
+I raised a fist, "They think nothing of you, but they are wrong. They will clash against the shields of this city. Their teeth will break. Their claws will shatter. They think we are weak, but we purged that weakness from us."
+
+I shouted. "They believe we will falter and fall, but that is their vulnerability. Nothing they know will come to fruition, and they will be proven wrong. We understand this. In time, they will understand this. They will bleed from it. They will die to it."
+
+Psyching myself up, I roared, "Come. We march to leave them in pieces."
+
+Having prepared for weeks, the rulers raised their arms and shouted with me. A primal energy coursed through the crowd, each individual reforged in training we'd done up until now. They raced over towards the armory, where they stored their new weapons. Wielding graphene armor and weapons, they contrasted the frail, feeble rulers like night and day.
+
+I prayed it would be enough.
+
+Turning towards Shalahora, I raised my brow, "Are the primevals ready?"
+
+Shalahora winced, "They are."
+
+"Get your shades ready."
+
+Shalahora faded into nothing. I bit my inner cheek, worry overcoming me. Shaking it off, I hoped we'd done enough for the upcoming battle. In the distance, rolling fields of floating algae split apart as enemy primevals arrived by the hundreds. Leading the army like the tip of a crimson spear, Valgus cut the landscape apart.
+
+Our eyes met, and he smiled at me. I glowered at him, and I clasped my hands into fists. This time would be different. He would remember this battle. I would sear it into his mind. I stepped forward, mana charging into my body. Once fully saturated, I hovered out of my city. I breathed energy into my lungs, breathing out thickened plasma.
+
+He would remember.
+
+The beetle they sent as a messenger arrived, no worse for wear from my gravity well attack from earlier. He crossed his arms, "It would seem-"
+
+I dashed towards him, my mind coursing with thoughts of destruction. I met him as the beetle sliced through my body with a spear along his back. I carved apart as a writhing liquid of darkness. I encompassed him, the ruler submerged within the abyss before I created several singularities within my chest.
+
+The gravitation fed upon us both, turning matter into light and energy. A raging course of destruction erupted, vaporizing all remains of myself and the beetle. From the ether, I returned, a monster made new. The other enemy rulers stared at me, fear embedded within them as I dashed forward.
+
+They would remember.
+
+Sonic booms erupted from my charge. I crashed into a group of primevals who writhed around me. I flooded over them, pulling them together before vaporizing all of us. From nothing, I returned. Their forces collapsed over me as Valgus leaped from above. He roared over the noise,
+
+"As it should be. No words, only battle."
+
+I ignored him, knowing none of my attacks would leave a mark. He used his enormous physical presence as a deterrent, but I'd told him I was beyond the physical. I meant it. I splashed apart, liquified dimensional fabric splattering over everyone. I flooded my body with mana, becoming a toxic, super-heated jelly.
+
+It was like covering my enemies in radioactive magma, and they suffered for it. As I burned them, several enemy rulers screamed in agony, and others covered themselves in forcefields. Forcefields that detonated from within.
+
+Singularities sparked out underneath their shields. They encapsulated the explosions, turning their blended forms into evaporated matter. The pitch-black blots fed on them like hungry parasites, ones that fed on flesh and buried into bones. They plumed in white flashes, the tectonic forces causing ripples in the rainbow bone below.
+
+From enemy to enemy, I coursed and detonated myself. I no longer held the illusion of a human form, having abandoned that during my stay on Leviathan-7. This was what I was, and anyone facing me would feel its full fury.
+
+Valgus included. He darted back and forth, trying to pin me down with his enormous might. He ripped the ground apart, split the skies, and ripped armies with each swing. I would be splattered to nothing, but something like this couldn't kill me. It couldn't even slow me down. I returned from the void, an unending source of chaos and destruction.
+
+As I brought ruin, the rulers below offered their support. They pulled out railguns carved from graphene and fired bullets made of rainbow bone shards. Several rulers wielded the barrier, allowing openings for our projectiles to pass through. These bullets split and splintered enemy primevals, leaving energy trails in their wake that faded after several seconds.
+
+The enemy primevals recovered from their devastating wounds, but we prepared for this. My golems raced out, each of them wielding gravitation and psionic fluid. Where the primevals recuperated, the golems infested the area with the liquid rainbow bone. Needles erupted from the primevals, their new psyches reduced to rubble.
+
+Without reflexes or instincts, the rulers picked them apart with their bone-laden railguns. Within minutes, we killed several dozen primevals. Our losses were minimal, and Valgus's frustration mounted. After several more minutes of trying to harm me, he threw his hands up and seethed,
+
+"If you wish to avoid me, then you may. I shall simply eradicate the city you've carved from the ground."
+
+I reformed from the ether, and my helmet smiled at him. I scoffed,
+
+"Go ahead."
+
+Valgus's eyes narrowed before he jumped upon the air around him. He bolted towards my city before the barrier opened up. Shalahora blotted from the nothing, a shadow-given life as he smothered Valgus in darkness. Several mages channeled ritual castings from below that encompassed Valgus in dancing light. An illusion formed around him, and he found himself in a world of red.
+
+To his eyes, he stood in a sea of blood. In the distance, Baldowah roared, "What have you done, you imbecile?"
+
+Valgus blinked, taken aback by the sudden change in scenery. I grinned at the sight since I had helped craft the illusion. The mages below used my memories as a reference. This made the deception lifelike, and Valgus fell into its grip. Before he moved, several golems flew beside him with potions in hand.
+
+They splattered them over the asura, and Valgus roared as the fluid soaked into his skin. He dispelled the illusion around him using his shackles and chains, but he couldn't stop the potions from continuing the illusion. It wasn't based on magic, after all. It merely replicated magic's effects.
+
+I thanked Targask for that idea, the grizzled sorcerer having good ones from time to time. As Valgus struggled to stop the howling of Baldowah, I turned to continue my onslaught. The asura writhed on the ground, trapped in the illusion with no way out.
+
+Until the remnant revealed itself.
+
+A psionic tether formed from Valgus, and the remnant's illusion warred with ours. As it did, I darted through the battlefield, killing and culling the enemy while trying to find her. She kept her distance, but Shalahora began scouring the land with his shades to find her. It was a matter of time before she was exposed.
+
+In my city, the rulers ignored Valgus as we planned. Their rounds would do nothing to him, and he dodged the psionic fluid without fail. Even if it did land, it could do more harm than good. If we destroyed his mind, Valgus might unleash whatever hibernated within him.
+
+For all these reasons, we ignored Valgus while taking advantage of the enemy's rout. Before they regrouped, I told Shalahora, "Send them out."
+
+Our shadowy sovereign acted as the harbinger of our hidden legion. He billowed writhing darkness from beneath us, covering the enemy in an immaterial ink. Fused primevals marched out of the recesses under the city and began tearing the enemy rulers and primevals apart.
+
+I'd created them by filling primevals' minds with quintessent consciousnesses instead of ascendant ones. While more challenging to start up, the quintessent monsters acted as supporters of the ascendent primevals. They would mold into armor or weapons for other eldritch. While working together, they became elite shock troopers and vanguards.
+
+Their potency proved itself as they moved along the battlefield as blurs of motion. Star primevals converted into swords and spears, while icy primevals covered the fusions in frozen armor. The stony primevals acted together with magma primevals as the cores of these eldritch that enacted destruction.
+
+Tens of enemy rulers died in their initial charge. They flashed around me, goring and ripping enemy rulers apart. One fused primeval slammed a ruler against the city's barrier, the energy rippling from the impact. It rived the ruler before freezing its insides, and blood erupted from within. The alien devolved into a spiny, red ball with skin wrapped around its center.
+
+Different colored insides splattered in every direction. Another enemy ruler was stuffed with stones until they ruptured. Seeing the chaos, the attacking force scrambled to escape. Many turned to run or fly off before having their spines torn from their backs or their limbs severed.
+
+I frowned, but I understood that these people would never stop. Elysium wouldn't allow it. Beneath it all, Valgus writhed, his vision encompassed by Baldowah's screams and shouts. He received different directions until he was left paralyzed. His armies were torn asunder within minutes, and our forces began harvesting war spoils. The battle panned out exactly as we hoped, eliminating the threat without breaking Valgus's shackles.
+
+Until they shattered.
+
+I gazed down as the metal over Valgus crumbled. From within the recesses of Valgus's mind, the avatar of Baldowah let out a piercing, excruciating laugh. It coursed over the battlefield, becoming a chorus that overwhelmed the sounds of destruction. It melded with rage and fury and hate. It suffused the ground, a wave of red overcoming all present.
+
+Above, a dot formed. It swelled, and it swallowed all color. It enveloped the algae, disintegrating it and giving us an unobscured view of Leviathan. The accretion disk of the dark hole shifted to a sea of crimson flooding towards its center. The rainbow bones around us lost their opalescent sheen, becoming bloody shards. A voice rang in our ears, and it was unfamiliar.
+
+"Eons pass as seconds, and now I return to the corporeal."
+
+I guessed it was whatever Valgus hid. Valgus's jewelry disintegrated away like ash, along with the metal chains and bands of armor over his skin. Crimson energy flooded off of him like a cauldron of billowing smoke. The red plasma flowed past me, and the ascendent mana flooded in. I held back a palpable wave of anger.
+
+Others did not. Every primeval nearby flooded with frenzy and shambled towards my allies. I dashed forward, finding one of the fused primevals to wrestle with. Several other eldritch raced to my supporters. The rulers used the liquified rainbow bone, which slowed the monsters down.
+
+So much ascendant mana flowed forth that even mindless husks gave way to rage. Even with the bone spines erupting from within, the primevals cut themselves apart while sprinting forward, moving as if the needles weren't there. The monsters I created joined the chaos, becoming enormous, hulking beasts intent on killing anything near them.
+
+They grabbed rulers and gored them apart, including our own.
+
+Blood splattered the city walls, marking them with maroon gunk. The primevals drank the blood of several rulers. My stomach sank as I watched a stone primeval grasp Alctua and rip her apart before squeezing her organs out. A star eldritch wrapped around the fire imp Teraz and swallowed him in light, leaving nothing behind. An ice primeval ripped through the city's ground and broke apart a building, the lizard Entilla in his grasp.
+
+The primeval froze his blood, and green shards erupted from under Entilla's skin. He bloomed into a frozen ornament, like a ball of spines placed atop a Christmas tree. I reached out a hand as this chaos occurred in tandem before the primeval I held threw me aside.
+
+Landing on the ground, I peered up. Ascendant mana flooded in, and I froze, fighting back a murderous frenzy. With it arrived sadness at this loss along with confusion. This plan involved murdering many rulers, but that fit into Schema's goals.
+
+It was something I assumed they wouldn't do, but I was wrong. Instead of questioning further, I pulled myself together and devised a plan. I darted towards Valgus, and I slammed my fist against his cheek. For the first time since facing him, my attack budged him. He turned back towards me, his eyes alight with bloodthirst and madness.
+
+Valgus spread his arms as blood dripped down his nose, "Come, brother. Awash yourself of peace and become battle."
+
+Tired of how singular he was, I struck the side of his face with an overhand right. He budged once more. My eyes narrowed as I murmured, "You bleed."
+
+He smiled, "Finally. I can feel once more-"
+
+I smashed his smile with a fist of metal. His teeth cracked before I coursed energy through my body. I pulled in the ascendant mana from around me, trying to keep the poison from infecting everyone else. Either that or I wanted it for myself to hurt this monster. Valgus only laughed and swung his fist, and I ducked under it while dragging my arm behind me. Another cataclysmic strike erupted, and buildings collapsed.
+
+My golems retained sanity and grabbed rulers to get them out, but they couldn't save everyone from themselves. Rulers ate one another as each of them turned into cannibals. Others mutilated themselves, tearing chunks of flesh off their bodies. Even worse, others gazed into the red moon above, their minds lost to the void.
+
+I connected to their minds and found them washed away. They were psionically drowned by the mana. I winced as several enemy rulers from outside the city lost control of themselves. The remnant overtook their bodies and wielded them as puppets. They darted around, capturing my allies and pulling them away from the utter pandemonium.
+
+Many froze in place, their bodies stiffened by the torrential outpour of mana. They began twitching as orange pustules grew from their necks in seconds. They contorted as metal cables grew from within. Converted to Hybrids, they darted around, capturing allied rulers. They swallowed other rulers whole, and their bodies ruptured from the effort. Cables held the captured rulers in place, not skin or flesh.
+
+I panicked for a moment. Dread pulled in from all angles as I covered my face with my hands. Of course, Elysium would use Hybrids to control people. That had been Elysium's core tactic since the start. I was a fool for not considering that as a possibility. I peered in every direction, unable to find Elijah Joan, and I shook my head in disbelief.
+
+Being the only doctor, she'd likely implanted Hybrids into many rulers since her arrival. However, that didn't make sense since Shalahora would've seen those memories. Well, unless she didn't remember them, but then Shalahora would've seen the deleted memories.
+
+Interrupting my train of thought, a Hybridized ruler landed beside me, eye stalks peering at me from its back. I lifted a hand, using gravitation to pull it to me. I raised a foot while stiff-arming its throat. The body flung forward while I stomped its torso and squeezed its neck. It split in two, and I held a writhing mass of Hybridized tissues in my hand.
+
+Event Horizon destroyed it while I gave up considering this madness further. I needed to act, and now. Valgus rushed me from the side, trying to break me apart. I splashed around him before grabbing one of our Hybridized rulers. My sharpened fingertips dug into their arms before I sent wires through their body. They growled out in a frothing rage, spitting blood onto my helmet.
+
+Staying focused, I discovered the source of their infection. Someone implanted tiny Hybrids into their spines, and at this moment, they took over their host. I spent my time worried about the sanctity of their minds that I forgot about the sanctity of their bodies. Before fully digesting my monumental mistake, a hand pierced through my stomach.
+
+Valgus grabbed me before pulling me from the converted ruler. I smashed into the soft marble below, the impact leaving magma behind. Valgus pulled me up and laughed,
+
+"You know that those shackles protected me, don't you?"
+
+He threw me away, and I popped the barrier over my city. The poisoned atmosphere, crushing gravitation, and ionizing rays pierced in. The rulers grilled in the sun and fell to their knees from the gravity. Valgus warped towards me, appearing above. He shouldn't have been able to do that, but there were many feats he shouldn't have been able to do.
+
+Yet he did them.
+
+He stabbed through my chest, releasing an enormous plume of mana as he did. It washed down, and Valgus shouted, "Those shackles restricted the world's magic but also my own. It drained me, becoming my greatest shield by dulling my sharpest sword."
+
+The mana soaked into my body, and I glowed a bright blue before melting. The ascendant mana rained down from my corpse in its rawest form. It cascaded like a noxious cloud. As it infested everyone with thoughts of murder, Valgus spread his arms. I reformed below and gazed at him, his body like a cross spread over the red moon above.
+
+He seethed, "I am given my mind once more, and all will give into it."
+
+No matter how much I tried silencing my mind, it questioned. Elysium had already wiped out nearly fifty rulers here after trying to keep them alive for so long. The more I considered, the less the situation made sense. Understanding these lunatics was beyond me, but beating them wasn't.
+
+I darted towards Valgus. He wielded enough mana to warp reality between us, and it began bleeding into my mind. Thoughts of murder infested me. I directed them at Valgus before tackling him. He grabbed my shoulders, his hands blurry from the mana coursing through him. Engorged with energy, he laughed,
+
+"My mere presence alone will destroy you, let alone-"
+
+Pulling already charged runic panels from my dimensional storage, I detonated them. Space and time around us warped, the area becoming a hostile wasteland. The air gained life. Rays of light passing over us turned into immaterial worms. Even Valgus's skin turned into a writhing mass. He howled in agony as his body lurched in all directions, his flesh turning into crawling monsters.
+
+I held him there, but I trembled at the sight of his face. His skin split, and bones crawled out of his skull like skirting insects. His teeth opened beady eyes and burrowed into his gums. Tendons ripped. Sinews split. Blood lurched like eels, and his eyes nestled into his skull, disappearing in a mass of exposed brain.
+
+Using the last bit of his mana, he jerked us away from the corrupted zone using gravitation. We slammed into the rainbow bones below. I stood from the ground, and so did Valgus. Parts of his body lost the life they gained, no longer mutilating him. But the transformations still lingered.
+
+His face looked like a bucket of flesh insects spilling out of his skull. The legs no longer skittered, and the face bones no longer squirmed. His blood plopped onto the ground, and his skin remained torn. He gurgled at me, unable to speak.
+
+Instead of pressing my assault, I turned towards the other rulers. Bolting back into my city, I stopped primevals from eating other rulers. As I did, one of Shalahora's shades murmured in my ear, "We have found her."
+
+My eyes narrowed before I thought back telepathically, "Stay with her while using your shades to save people here. After we evacuate, take me there. We'll kill her."
+
+Shalahora's shades darted in every direction with my golems. The infighting melded into a turmoil of desperate survival and ravenous hunger. Primordials ripped one another apart, the ascendant mana driving them mad. My golems darted through the thickened plasma, their runic markings glowing crimson.
+
+They maintained their sanity despite the insanity before them. I handed several dozen rulers to them for evacuation, and they escaped this city using our tunnel system. As the last few survivors disappeared into the tunnel, I closed the rainbow bone passage behind them. As I did, a plume of ascendant mana billowed off the new wall like evaporated blood.
+
+Sanguine lightning erupted in all directions as Valgus kicked into me from above. I splintered below as he stood over the mush I had left behind. Through his heel, he pushed absurd quantities of mana into my body. It surged in my head like a manic voice trying to shout over me. It wanted to wash me away.
+
+Before it could, I funneled it into the runes over my regenerating build. Recuperated into a physical form, I hummed with violence and anger. Valgus scoffed, "You are a living pit, aren't you?"
+
+He kicked my remains, and I reconstituted in front of him before reaching out my hands. I growled, "I'll kill you."
+
+Valgus grabbed my hands with the two upper arms on his shoulders. He cracked his neck before raising his fists. Energy radiated off him, and my armor crawled towards it, hungry and wanting. Valgus jeered, "And is that your chosen kind of battle? To deform your enemy into something as grotesque as you are?"
+
+My armor smiled while I stared in silence. I pulled out several runic plates from my dimensional storage, brandishing them as weapons. Valgus pushed me away. I dragged backward before taking a step towards him. As I did, Valgus pulled back.
+
+I murmured, "You should've kept your shackles on, Valgus."
+
+One of Valgus's hands trembled before he made it into a fist. He blinked a few times while taking deep breaths. With renewed calm, he stepped towards me, "And you should've killed me when you first used that little trick."
+
+I dashed towards him, and he met my charge. The city disintegrated around us, marble turning to magma. The ground rippled in the wake of the collision, and it splattered around us. I disintegrated, but my dimensional panels detonated once more. Valgus pulled himself back, but not before the damage was done.
+
+Eyes sprouted over his legs, and poisonous sores oozed out of his chest. I walked into existence and growled, "How many times can you pull yourself from the brink?"
+
+I shot towards him again, and when we met, another runic explosion encompassed us. Void ice sprouted from Valgus's left eye, and portions of his blood were replaced. I pursued him, using more failed rituals to succeed in battle. Valgus suffered. Within minutes, he retreated miles away from my city, and I left a warped landscape behind us.
+
+He grew into a cancerous monstrosity, and I watched his mind warp and crumble. The great warrior devolved, and his courage turned to fear. He ran and leaped away, attempting to find an escape. I offered him none, pursuing with relentless intent. However, I didn't mindlessly chase him.
+
+I herded him right where I wanted him to go.
+
+We crossed one of the endless hills of algae before Valgus landed in a corrupted land where the air screamed and the land bled. Here, I experimented with the dimensional panels for weeks, the effects compounding into a literal hell. As the asura landed, his body swelled and burst, pieces of him spreading out.
+
+The air rushed under his skin, and the ground spread needles through his body. Before he escaped, I pulled him together with a gravity well, keeping him there. With a sudden jolt, a monstrous presence slammed against my mind. I pulled away as it tried prying into my body. I disconnected from the monster before turning to escape.
+
+Before I could, rainbow bones rose up over us both. It left us encapsulated in a dome before the mass of meat grabbed my shoulder.
+
+I turned, releasing a wave of singularities over us both. I disintegrated while Valgus's monstrous pieces fled the impact. The remnant launched a psionic attack on me from outside, but I willed myself through the telepathic line before channeling mana into the remnant's body.
+
+She recoiled, disconnecting from me but not before the remnant sputtered,
+
+"Go before he escapes."
+
+The entity within Valgus leaped out of the ether around us and into my psyche. I regenerated, and my body coursed with ascendant energy, the volatile mana flooding my mind. I recreated my runes and channeled the excess mana into the markings. The sheer volume of mana reduced, but my skin glowed while my eyes bled silver.
+
+I fell to my knees, unable to stand. From within, I found two entities intertwined but trying to separate. One of them embodied battle and was a warrior. It was the avatar trying to control my mind. The other entity huddled in the recesses of his psyche, a broken being. It turned to me, and where our minds grazed, I felt a taste of eternity.
+
+This being was a follower of an ancient being I didn't know. His outer thoughts told me as much since he screamed for forgiveness. He wished for his forgotten one to forgive him.
+
+It would not.
+
+The forgotten one gave him a mission to contain an avatar of Baldowah. He had done so, but over time, the avatar eroded him. He began following Baldowah in place of the forgotten one. As punishment, this hollowed-out being had been cursed. He lived in an illusion so complete that it rivaled reality's depth.
+
+Even an inkling of the hell made my body shake. This psyche experienced thousands of years with each passing moment. It could be even longer, perhaps infinity. In that regard, time carried no meaning to this tortured soul, and that was all it felt. Pain. Torment. Torture. It experienced lifetimes with each passing second, each of them a different kind of excruciation.
+
+Death was a mercy to this anathema.
+
+The other entity was an ancient brute turned into Baldowah's tool long ago. It had existed for millennia, and it smiled at me, a mass of teeth and claws and blood. It whispered over the suffering, "You will be my next holder. Feel honor from it."
+
+This was what Valgus actually was. The presence shouted in my mind,
+
+"Fall."
+
+And so I fell.

@@ -1,0 +1,215 @@
+---
+id: 4920c9a4-c0d2-55c5-a2a2-d53b049773d9
+page-type-slug: story-chapter-royal-road
+title: "181 Unchained"
+slug: 0140-181-unchained
+partOf: the-new-world
+position: 140
+ownLength: 2847
+unit: words
+ownProgress: 2847
+publishedAt: 2019-01-31
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/329783/181-unchained"
+royalRoadId: "329783"
+markedReadAt: "2026-06-29T21:25:35.501Z"
+---
+
+Helios unleashed the volatile magic stored in his hand. The gray gialgathen convulsed, its mouth gasping out. From the inside of the creature, azure crystals grew from its body. Like a percussive beat, the expanding jewel resonated out a chilling sound. The shards sapped the creatures lifeforce, converting the beast into a gemstone.
+
+A fog ebbed from these crystals. The mist sunk down onto the ground, hissing as it burnt stone. Red shards of frozen blood pierced out from the gialgathen's skin, the creature already dead. As the crystals finished gorging on the corpse, chunks of the gialgathen fell off.
+
+The meat chunks shattered against the stone. Where the crystal touched flesh, the meat disintegrated into the fine mist. To call it ice magic didn't do the spell justice. The incantation evaporated, cooled, and ate the gialgathen all at once. It even enfeebled the monster, causing it to be softer than stone.
+
+It was impressive, to say the least.
+
+Without missing a beat, Helios pulled his hand back from his portal. As the void disappeared from beside him, he leaned back against the stone seat. He steepled his fingers, and his voice echoed across the arena,
+
+"Let his body display itself as a lesson to all of you. Stand against my sister through unlawful means, and you will perish."
+
+The entire arena gawked at him, jaws agape and cold sweat running down several backs. I sat right beside the crystal, scooting away from it. As I did, Kiki Mosk flew in from above the cloud line.
+
+On top of his trusty podium, he wore an iridescent plate mail. It reflected a multi-colored sheen, keeping Kiki's over the top theme going strong. Within it, charged gemstones ebbed with power. He already changed his strategy from the last fight.
+
+He didn't stop there. Not by a longshot.
+
+Two Sentinels floated down from the clouds right after. Armed with their dimensional slicing spears, the Sentinels struck an imposing scene.
+
+Their gargantuan frames and faceless masks oozed intimidation. Even the gialgathens respected them, showing a rapt attention instead of boredom.
+
+Kiki floated above the arena, keeping over the action. The Sentinel's landed on either side of the metallic pit at the center of the arena. Kiki raised his hands and announced,
+
+"Now, due to the recent death of a valiant fighter, we've raised the security this time in the tournament." Kiki gestured to the Sentinels, "You'll find there's more than enough muscle to guarantee your safeties."
+
+The Sentinels pounded their spears onto the platform, ushering forth a shockwave. A burst of wind passed over us, the Sentinels' abilities indisputable. Kiki raised his hands, "And now it's time for the first of three different days of amazing bouts. Who here is ready!"
+
+The gialgathens remained quiet, too cool for cheering. Kiki sighed, "And as always, you gialgathens give a warm welcome to the tournament. Great. Just great."
+
+Kiki coughed into his hand, "Anyways, we've changed the setup somewhat from previous years." Above Kiki, a massive zeppelin floated down from above the clouds. With mist billowing out from around it, thousands of people stacked up on its seats.
+
+Every recipient along the windows cheered with excitement, bringing life to the fights. There was only one window along the zeppelin with one person in it. I glanced up at it, finding Thisbey staring down at the contest with his hands locked behind him. He wore a sleek, mahogany colored suit. It wasn't gialgathen leather, that much was certain.
+
+Kiki pointed up to the blimp, "And here we have a crowd of people who are actually excited for this year's fights! How about that?"
+
+Kiki gave the gialgathen's a glowing grin. It covered his disgust with the beast's casual attitude. Kiki nodded,
+
+"Now, let the first fight commence!"
+
+I stood up, remembering I was the first contestant up for the day. Helios sighed, "At the very least I won't have to remain here for long, or will I?"
+
+I shook my head, "I'll make it short. We both have shit to do."
+
+Kiki pointed at me, "On one end of the fight, we have the Gray Giant, a crowd favorite for the espens. Everyone give it up for the mysterious, masked marauder!"
+
+The crowds on the blimp went crazy as usual. I jumped from my seat, landing on the back side of the metal arena. With lava bubbling behind me, I planted my feet on the heated metal. I planned on showing Helios just how destructive I could be given some time.
+
+With my mana charging, Kiki pointed at the other side of the arena,
+
+"Here we have Daniel's opponent, the fierce and feared general of Emagrotha's third division. Let's welcome Krog Borom!"
+
+A hulking gialgathen stood up, covered in Skyburner armor. With his many gemstones crackling with mana, he flew with his wings wide. Most of the gialgathens gave him a quiet bow instead of a loud cheer. The gesture felt fitting.
+
+The gialgathen's black and red colored skin gave him an eerie, monstrous aura. Unlike other gialgathens, the marks along the side of his face and neck were smooth lines. The scarlet lines flowed with the pitch black hide, making him appear even more majestic.
+
+With his head low, he glared at me with his vertical pupils. The beast grinned at me,
+
+"I see a fellow warrior in the arena. Are you like the other dirtwalkers, parading in salvation's skin?"
+
+I raised an eyebrow, "Honestly, I don't know what the fuck you're talking about."
+
+The beast scoffed, "You know nothing of your history then? Perhaps I'll teach you after our bout." He cackled, his deep voice echoing in my mind, "If you survive."
+
+I grinned, "Eh, I wouldn't be worried about me."
+
+The air around me bent from my mana. It blurred, heat building around my entire frame. I leaned over while raising my fists, ready to charge,
+
+"You better bring your best."
+
+Krog Borom leaned his head down, keeping his grin plastered to his face,
+
+"Emagrotha be praised if you make this interesting."
+
+Kiki kept trying to promote the fight. As he did, I analyzed the general in front of me.
+
+Krog Borom, Emagrotha's Offerer(lvl 11,021) - Krog Borom served a general during the civil war of the gialgathens. Siding with Emagrotha, Krog believed that every species should earn their freedom.
+
+He fought for the espens to gain the right to battle or buy their freedom through action. In Krog's view, giving the espens freedom without any effort on their part sold the entire espen species short. Lehesion opposed this viewpoint, saying that the espens were incapable of achieving freedom on their own.
+
+Aside from his extensive history of political alliances, Krog is ruthless in combat. He utilizes alteration magics to create illusions against his foes. This allows him to apply an unusual style of flowing combat against his enemies.
+
+This also allows him to reconstitute his enemies should they be weak-willed. Even against the strongest of minds, Krog can apply high level, crippling debuffs. These include hallucinogenic images, scents, sensations, and thoughts. This mental warfare proves effective against almost any combatant.
+
+Face him with your full strength or else you risk severe injury.
+
+The status gave me the information I needed to know. I centered myself, preparing for the onslaught of mysticism magic. At the end of Kiki's elaborate introductions, my runes were saturated with mana. I could produce a singularity and then some. I was ready as I could be, and with the Sentinels guarding him, I didn't have to hold back.
+
+Kiki raised his hand,
+
+"Are both combatants ready?"
+
+I growled, "Yes."
+
+Krog nodded, keeping low and composed. Kiki slammed his hand down,
+
+"Then battle!"
+
+I molded Event Horizon over Krog, the unseen force causing him to wince. At the same time, I raised my hand and unloaded a singularity. Aimed at the center of his chest, I bent my knees. I kept my gaze sharp, preparing to dash whichever direction Krog ran.
+
+As expected, Krog darted sideways, his senses sharp. He crawled at a lightning pace on all fours, slithering away from my magic. The tiny black hole sucked in the air from around the arena, disrupting his escape. As the singularity imploded, a tidal wave of kinetic force sent Krog flying.
+
+Ready and waiting, I detonated my runes, giving me a burst of strength. I smashed my heels onto the metal beneath my feet, firing myself forward. Leaving a dent in the arena behind me, I catapulted myself towards Krog's flopping body. Like a cannonball, I slammed into his shoulder, crushing his collarbone.
+
+I frowned. I aimed at his chest, but he flowed around me, preventing a direct impact. I barreled past him, my collision causing the gialgathen to spin in the air. I flipped around, landing on the invisible forcefield around the arena. As I looked up, Krog landed on the stadium, his form impeccable.
+
+He limped away from me, channeling his mana. Before he escaped, I blitzed him again. His mana crystals rippled, magma cooling around the arena. The gialgathens not only made flying superior, but they could also draw mana from their environment. This meant we were fighting on a giant mana battery for him.
+
+In most circumstances, Krog's magic would've taken minutes to channel. With the magma around us cooling, it took seconds. Before I reached him, the beast breathed in and let out a cacophony of magic. The shockwave slammed into me, rattling my bones and ears.
+
+Harsh lights and discordant sounds overwhelmed me from all angles. Pins and needles spread up my arms, and my dots scattered into my vision. It was like my entire body was my arm after hitting my funny bone. Even worse, the shockwave bounced off the arena, causing an echo.
+
+The magic crashed against me once more, leaving me disoriented and dizzy. Krog wasted no time, skulking over and slashing his claws at me. Without my mental prep, I'd have taken the brunt of his attacks. I kept some of my awareness, however.
+
+Using that last scrap of self-control, I slid away from his blows. Like a drunken fighter, I wiggled my way around a series of his slashes. He rotated his strikes, using all his limbs in conjunction, creating a hurricane of attacks. A tail swipe into a slash of his into the chomp of his teeth, Krog was relentless.
+
+I wobbled my way around the rush by the skin of my teeth. Each blow left wind grazing over my cheeks. With each passing second, however, I regrouped myself. Every passing moment, I came back to the fight. As I did, my movements became more measured.
+
+I blocked and deflected, wasting less time on defense. After a minute of his assault, I regained my composure. With my full capacity back, I stormed him with strikes. He fared far better than Delilath. Using his awkward, flowing style, he prevented my attacks from landing flush on him.
+
+Despite his defense, the damage stacked up in a few minutes. With many bleeding cuts, oozing wounds, and broken bones, Krog tripped on a notch in the arena. As he flopped down, I raised my foot. I trained myself to kill, and I stomped down with the aim to crush his skull.
+
+Before my foot landed, two hands clamped against my arms, pulling me back. The other Sentinel popped up in my vision, lunging over Krog's head. They stopped me from killing Krog with ease.
+
+Glad I didn't have to hold back, I sighed with relief. My combat style didn't suit giving a half-assed effort. Because of that security, I shaved the fight from several hours down to several minutes. As the Sentinel set me down, I raised a hand in triumph.
+
+The blimp exploded with noise, fireworks exploding nearby. Kiki clapped his hands, a bead of sweat dripping down his forehead,
+
+"And there you have it folks! It looks like the Gray Giant learned his lesson from Delilath and came prepared. Despite this, it was a good effort from Krog Borom. Let's give him a hand everybody!"
+
+The blimp full of people booed while the gialgathens gave him another bow as they had before. It reminded me why the crowd annoyed me in the first place. Either way, Kiki didn't miss a beat, "Let's move on to the next fight everybody. It's action all day long!"
+
+Before anything else, I pulled Event Horizon back into my armor. I turned to the Sentinel, almost eye level with the behemoth. I patted his shoulder, "Thanks for stopping me."
+
+The Sentinel pushed my hand away with the handle of his violet spear,
+
+"I did so only because Schema commanded it to be so."
+
+I sighed, "Well, can't say I didn't try to play nice."
+
+I turned around, taking a few steps forward and facing the crowd. With an air of victory, I raised my hand and the masses cheered. After enjoying the cheers, I landed back on the stone bleachers. I wrapped my arm around Althea, and she hugged me,
+
+"You did great baby."
+
+I grinned, "Thanks."
+
+I was unharmed besides a few dents in my armor. The closest to danger I got was the hissing crystalline corpse beside me. With her hands crossed over one another, Caprika leaned over to Helios,
+
+"I told you I chose an admirable representative. He even learned from last fight with Delilath."
+
+Helios gave her a slow nod. He cupped the bottom of his mask, deep in thought, "I suppose he did."
+
+After a moment, Caprika's chest puffed out with pride, "Well then, are you satisfied?"
+
+Helios nodded his head, "Yes. I am." Helios stood up, his shadow looming over all of us, "Excuse me then. I'll report to father and the Emperor of this new information. Before I do, I have one last question."
+
+Helios met my eye, "Do you serve or work for anyone, or are you your own ruler?"
+
+I raised a hand, "Er, I guess I'm my own ruler. It sounds kind of melodramatic when you put it that way though."
+
+Helios scoffed, "Good. That makes the situation far less volatile. We'll speak with one another later about alliances with the empire. I'm certain we'll come to terms that we can agree on. Do try to be more polite during those proceedings. Neither my father nor the Emperor will forgive rudeness."
+
+He created a portal, the black energy warping the air near him, "It would be a shame to lose a potential ally so soon. Farewell."
+
+He stepped through the portal, disappearing. After he left, Caprika stood up and raised her hands, each of them clasped as fists. She shouted,
+
+"Yes! I did it. I finally got him."
+
+Caprika looked at us, realizing what she just did. She coughed into her hand as she sat down, "Ahem, excuse me. I'd like to apologize about my indiscretion."
+
+Althea grinned, "That must have felt amazing."
+
+Caprika nodded, "Indeed it did. Helios has always disapproved of my choices. It's always been like a ghost that haunts me."
+
+They chatted away, discussing their feelings and relationships. I rolled my shoulders and stood up. As I did, Althea turned to me, "Hey, what's up?"
+
+I cracked my neck, "I'm going back to our room. I've got studying I need to get done."
+
+Althea sighed, "Ok...Uh, have fun with that I guess."
+
+I gripped her shoulder, "You have fun too. I'll miss you."
+
+She grabbed my arm, "Me too."
+
+I jumped out of the arena, wasting no time walking out. After about two minutes, I arrived back into my hotel room. Seated and in the right frame of mind, I got back to my research of the cipher. As I sunk my teeth into my work, Torix sent me a message.
+
+Torix Worm, of Darkhill (Giess: 2:15 3/17/26) - I don't meant to pester you, but I'll be needing the locations of at least one Skyburner base relatively soon. The sooner the better in fact.
+
+Dimension-C138 (Giess: 2:15 3/17/26) - Of course. I'll have them by tomorrow or the next day. Sorry for the hold up.
+
+I closed out my status and got back to work. I intended on finding the Skyburner bases when it was dark out. That lowered my chances of being seen or caught. Even if I was strong right now, I didn't want to fight a dozen Skyburners all at once.
+
+With that in mind, I stayed there, studying until the sunset off in the distance. Althea returned from the tournament, chatting away with Caprika. She got back into our room and fell asleep with me by her side. After an hour of her sleeping, I stood up from my study.
+
+I gripped my fists and rolled my shoulders. I prepared myself for diving into silver territory. With my eyes closed, I visualized the carnage and destruction. It was a different world there, a darker one. I wasn't going out to get groceries. I headed out for a bloody war.
+
+Ready and waiting, I opened my eyes.
+
+It was time to rip and tear.

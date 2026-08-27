@@ -1,0 +1,215 @@
+---
+id: badbb6ed-6900-5f19-894e-0199f1c11a8f
+page-type-slug: story-chapter-royal-road
+title: "56 Guardians of Yawm"
+slug: 0013-56-guardians-of-yawm
+partOf: the-new-world
+position: 13
+ownLength: 3720
+unit: words
+ownProgress: 3720
+publishedAt: 2017-10-12
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/167480/56-guardians-of-yawm"
+royalRoadId: "167480"
+markedReadAt: "2026-06-29T21:21:09.370Z"
+---
+
+The sickle wielding guardian spoke with a steady voice,
+
+“Impressive.”
+
+I raised an eyebrow,
+
+“I thought these guys didn’t have a conscious?”
+
+Kessiah shrugged, “This isn’t a normal guardian. Uh…Let me think.” She frowned, pointing a finger towards the sky in mocking imitation,
+
+“Indeed Kessiah. Using my incredulous intellect, I infused the corpses of two dead disciples into the corpses of warriors. I know, I know, hold your applause at me sheer and unmatched intellect.”
+
+Althea giggled at Kessiah’s Torix impersonation. I even cracked a smile before the sickle guy spoke again,
+
+“He gave us new life. What else are we to do but serve him?”
+
+Althea mumbled,
+
+“I don’t know. Not serve him maybe?”
+
+I rolled my eyes, “Come on, let’s go. Yawm has guards here. Why? Probably because the fucker learned about our plans after I cleared the last dungeon. That means we have to hurry.”
+
+Kessiah gave me a short salute,
+
+“Aye, aye captain.”
+
+I pressed my palm into the floor, my armor soaking up the blood in moments. After that, I walked up and consumed the corpse the same way. Each of these guys had about 5 million ambient mana as well. It would only take a whopping twelve thousand for my next armor evolution. At that point, I knew the grind would set in soon.
+
+I hadn’t hit that wall with my levels though. This wasn’t a boss monster, so the experience bonus I gained from the Obliterator tree wasn’t there. It not being a boss monster meant it had less experience regardless. I still gained an easy 43 levels from it though.
+
+With that handled, I began pressing the select button before the perk screen appeared,
+
+Devotion to the Enduring (Have 1000 points in a single attribute before level 1000, Endurance over 1000) – You decided to become a symbol of endurance. Your unyielding faith does not go unnoticed. Every eldritch killed over level 1000 adds another year of life. Immunity to sickness and disease. +10% more health, health regen, stamina, and stamina regen per 1000 points in endurance. You may choose to add 1/10th of endurance to any attribute of your choosing, besides endurance itself. You may now unlock a unlock a legendary skill.
+
+After looking over the perk, it had an odd set of bonuses. The extended life from killing eldritch would translate to immortality. The sickness and disease immunity helped with preventing other kinds of death outside of old age. The 10% bonus to endurance’s stats seemed kind of meager for what the perk was as well. The 1/10th bonus to another attribute was massive though.
+
+It would be like injecting 100 attribute points into any stat of my choosing. Considering how focused I was on endurance, whatever stat I chose would be handled nicely as well. I could choose intelligence for even more health, or perhaps strength for the extra power I’d gain. Those answers seemed like fun, but I already knew which attribute I would choose, constitution.
+
+It would feed into the other chains of stats. Constitution fed into strength which fed into dexterity and so on. Endurance fed into willpower which fed into intelligence and so on. I could connect the chains with this extra 1/10th conversion. Endurance would become a sort of do all attribute. The legendary skill thing sounded awesome as well, but I didn’t know what to think of it. So far, getting my only mythical skill, Boundless Storm, had been hard enough. I’d think about that part of the perk later.
+
+So, I selected the perk before grinning at the rush of vitality. Before I could soak it in though, another message appeared,
+
+Which attribute will you select for the 1/10th addition? Con, Strength, Will, Intel, Luck, Char, Dex, or Per?
+
+I selected constitution, the sudden rush in stats feeling like another fifty level-ups. My body grew denser, making me weigh even more. After putting the rest of my attribute points into endurance, I checked my status.
+
+Level 606
+
+Strength – 293.5 | Constitution - 686 | Endurance - 1077
+
+Dexterity - 112 | Willpower – 499.7 | Intelligence – 173.9
+
+Charisma – 54.8 | Luck – 76.2 | Perception – 103.6
+
+************************************
+
+Pacing down the lowlit hallway of the stadium, I noticed the sudden shift in stats. I was heavier now, if I let my feet clunk against the tiles, they would splinter. If I let my weight press into the ground without finesse on my part, the slight quaking that ensued was awe inspiring. Besides that, the arcane bonds in my flesh tightened till they reminded me of the wires running through my flesh.
+
+They were so strong, they felt physical, not even like magic. My raw stat total had become something to behold, turning into a monstrous total of around 3000. I had around 2-3 times more than a normal person, not including my armor’s bonuses. I had the stats to match someone well over level 1000.
+
+My skills probably didn’t matchup with someone like Torix though. These guards he made for instance were incredibly powerful, being comparable with his current strength. Torix had made these guards and countless others since coming here. That distance would take time to close.
+
+I grinned at the thought. Closing that distance wouldn’t take as long as I had first imagined. After looking closer at the rest of the devotion to the enduring perk, I may be able to shorten that distance further. Unlike with the leveling perks, this perk didn’t state any kind of limit. If I could reach 1000 in other stats, then I would be able to get other perks for other stats. Looking at my status, willpower and constitution were well within the realm for just that.
+
+I got two attributes per level, and I could absorb a dungeon core every other level. That meant around 25 attributes every 10 levels. If my math was right, then I could get these perks for constitution and willpower as well before reaching level 1000. It would create a trifecta of super stats for me.
+
+With that in mind, I figured putting the points into constitution would be my best bet for now. Till it reached 1000, I’d just pour the stats into it. After that, willpower would follow. It was good I had these perks lined up for me, since beating Yawm without them would be impossible.
+
+He almost certainly had the genesis of potential perk as well as a few other advantages I didn’t know about. I mean he was pretty much the warrior king of a whole species. That’s bound to come with a few absurd bonuses. To beat something like that, I need something absurd as well.
+
+With the stats handled, another set of echoing ebbed in the distance. More explosive in pitch, the echoes sounded like a thunder storm instead of stomping steps. We reached the ticket booth leading into the stadium’s center, the ticket booths lined up. One of Yawm’s guards walked by, the arc reactor on his back shooting lightning every few seconds.
+
+The thing had a harpoon cannon as a right hand instead of a drill. The entire head was composed of glowing, yellow glass with a wire mesh supporting it. Along its feet were blocks of iron that looked like a ton of tiny strands of iron compressed together. It glanced up at us, shocked by us for some reason. Maybe it could see our levels too.
+
+Spiker, Keemak Sentry (lv 944) – A servant of an undersea emperor of their home world, their kind lives in the dark. The sentry’s acted as a form of ranged offensive potential in strike groups during military excursions. Using their wide range of visions, they could also be used as exceptionally effective scouts given the right situation.
+
+Their harpoon rifle is designed for maiming rather than piercing due to the elongated prongs on the sides of the spear. Once they’ve pinned an enemy down at a distance, spikers send powerful bolts of electricity into the spear. This can make their electric attacks many times stronger than a normal Keemak soldier from the enhanced conduction of the metal.
+
+Their mobility is also superior to their more grounded brethren, the juggernauts. A spiker can magnetize the magnets under its feet with the arc reactors on its back. This allows it to preform moves otherwise impossible due to the power of magnetism. If all else fails, they can also detonate their reactor cores upon death.
+
+While not a sure-fire way to death, facing one will be an undertaking to say the least.
+
+This monster looked more challenging than the Mauler. I crushed the mauler because it was brute trying to beat me. My build negated its strengths, letting me exploit how bulky and slow it was. This monster didn’t look quite as easy to stop.
+
+With that in mind, I shot towards it. The monster raised the harpoon gun and fired towards me. I moved my arm to deflect it, but Althea’s harpoon hit the other harpoon midair. Althea’s bullet split the spiker’s harpoon in half, the pieces spinning before lodging into the ceiling and floor.
+
+Another shot later and Althea kept pace, firing each shot out of the air. I neared the spiker in seconds my ascendant mana roaring stronger than ever. The voice spoke in my mind, telling me to tear and maul my opponent. I silenced it, containing the sudden rage. A calm, cold focus was a far better tool for killing than red hot fury.
+
+Once reached the monster, it sent out a wave of electricity like an emp grenade. The electromagnetic pulse didn’t do shit to me, but Kade, the rifle guard guy, had the electronics in his gun fried. As I reached within ten feet of the spiker, it sent out a bolt of lightning towards a ticket booth and into its feet. It jumped sideways, the metal on its feet pulling it towards the ticket booth.
+
+It landed sideways fifty feet away. The move defied gravity, throwing me off for a second. That second was long enough for a harpoon to be fired right at me. The bullet landed straight into my neck, drilling through my armor and the back. It lodged a foot deep, the massive spear making a mortal wound. Well, mortal for most.
+
+As a burst of steam streamed from the spiker’s rifle, I grabbed the end of the spear behind me and pulled. It felt like pulling out a needle. Not so bad. The spear tore into me a bit as I pulled, but I stayed standing. The bolt hadn’t even done a fifth of my health bar.
+
+I grinned with my armor, teeth forming with my mouth spewing tendrils of ascendant mana. I charged towards the monster once more, deflecting the next spear coming towards me. When I neared it, electricity flowed into the arc reactor before firing into the metal frame of a large window. It jumped up, flying sideways through the air.
+
+The invisible pull looked just as crazy the second time, but I was ready for it. I reached out both my hands, ten feet short of the monster. The ascendant mana in my veins roared to life, pulsing like an endless wrath. My telekinesis grabbed the monster’s feet, slowing its pull before tackled into the ground.
+
+I growled as I stomped my heels into the ground, the jerking of telekinesis harder than if I pulled it with my own hands. Like an invisible rope, I stretched out my right arm before pulling the monster closer. With each pull of my hand, it came an arm’s length closer. The monster stabbed its fingers into the ground, even using its spear for extra grip. It didn’t matter. I was too heavy and too dense. It couldn’t stop me.
+
+It pointed its rifle at me, but it changed the angle of its firing a second later. The monster’s spear clanked against one of Althea’s diverting her harpoon upwards. His spear deflected downwards, stabbing into the ground beside it. The monster then shot a bolt of lightning into the metal spear and grabbed onto it.
+
+The telekinetic strain tripled as my feet dug into the ground. The monster’s feet even pulled towards his own magnetized spear. The monster clanked in an extra bolt from behind its back, the harpoon popping into the barrel. He pointed it towards me before I released my telekinetic tether.
+
+The monster whipped in the air as it fired. The bolt slid into the rock roof as I sprinted towards him. The feet of the monster planted onto the spear, dragging it across the ground. I leapt towards the creature before it reached out its left hand. A blinding light flew towards me, consuming my vision in white.
+
+An odd sensation took over for a minute. I couldn’t make my limbs move. They moved on their own, tensing with the absolute limit of my strength. The light kept consuming my vision, and as my muscles strained, I could see my stamina bar depleting. For the first time since investing into endurance, my stamina had become something worth noting.
+
+The spike of energy was greater than my armor could absorb. The leftover tendrils of lightning created enough strain on my body that my stamina couldn’t keep up anymore. A few seconds later, and one of the muscles in my calves snapped. The popping of a hamstring followed. The blinding light ceased a second later.
+
+I fell to my knees, exhausted and heaving for breath. I glanced up, and arc reactor had melted on the back of the monster. The molten metal already killed it, the flesh of the creature bubbling inside its suit. I stood up a second later, my stamina and health regenerating rapidly. I glanced back at the others. They stared back with glazed over eyes.
+
+I shouted, “Come on guys. Surely you guys can help me next time.”
+
+Kessiah cupped her hands around her mouth, “We thought you were dead. That thing just exploded.”
+
+I wiped off some broken rock off my shoulder, “No I’m fine. Suicide bombers can’t really hurt me. I’m too tanky.”
+
+I glanced at my health. It was at 2/3rds now, so they monster must have dealt a bit over half my health. It wasn’t a bad outcome considering how high level the monster was. I pointed towards the stadium’s entrance,
+
+“Come on guys. Let’s go. I’ll be full health in a minute or two.”
+
+I walked forward into the stairs of the stadium. I gained another 44 levels from the spiker, so I put all my remaining points into constitution. The increase in weight and power flooded my system like a narcotic. It was subtler now though, probably because I was already so heavy. I mean five more pounds is hardly noticeable if you’re already a ton.
+
+I gained more than that though. The extra weight from constitution made telekinesis far easier as well. I was quite a bit heavier now, and pulling on the spiker may have been possible now. Letting go was a better choice tactically speaking, but having the option should the situation arise was nice.
+
+Glancing up from my screen, I noticed the hallway we walked down. The stairs leading into the stadium split into two divergent paths, each leading to different parts of the stadium. During an actual game, you’d be able to hear the roaring of the crowd echoing through the tunnel. I shut down oppression as I reached the end of it, the light from outside leaking in.
+
+As I walked outside, the first thing I noticed was the open sky. The stadium cover had been left open for some reason. The rows of seats stretched for hundreds of feet down, the stairs creating little segments on each stair case. This was a football stadium, one with a grass field at the center. There was still grass, but the eldritch had created a something else too.
+
+There was a large hole at the center of the stadium. The gaping expanse lead deep down until the edges of the pit were black. The walls of the pit were slimy, red, and fleshy. A few writhing, giant insects darted on the walls, searching for food. The lining of the tunnel stretched out from the entrance, a few tendrils of meat reaching the walls of the stadium.
+
+At the center of the entrance, several named ones sat around the center. One was like a humanoid mantis, with cleaving, sharp arms and wings along its broad back. Another was covered in feathers made of steel with two wings along its back. Another was far larger than either of the others, covered in giant bat wings.
+
+The rest of us reached behind me, Kessiah stretching her neck to see. She mouthed, “What in Schema is going on?”
+
+The sickle guard guy, Aatrox, said in Torix’s voice,
+
+“This is a portal reaching into the eldritch. It’s grotesque, and it serves as an important obstacle for us.”
+
+I glanced back at the guard, “You can talk through those guys?”
+
+“Of course. Free will is something only the naivest summoners participate in. These creations, they are tools. Nothing more.”
+
+Based on how he treated his other creations, I highly doubted that was the truth.
+
+“Back to the matter at hand, this is a physical manifestation of an eldritch rift. It’s the beginnings of a rift. You all are here to crush it before it spreads further.”
+
+I glanced at Aatrox, “How in the fuck are we going to do that?”
+
+Aatrox lifted a finger into the air, mimicking Torix’s body language,
+
+“It’s not a matter of us. It’s a matter of you. These portals are much larger and more frequent in fringe worlds. Once they’ve opened, you can only close them by entering the portal and killing the rift keeper.”
+
+I frowned, “So it’s basically just like a dungeon?”
+
+“In essence, yes.”
+
+I spread out my arms, “Why does Schema make the dungeons the way they are then?”
+
+From the rift at the center of the colosseum, a white centipede squirmed out. Large as bus, it snatched one of the insects feeding against the wall of the rift. The smaller insect squealed before the centipede pinned it down, injecting liquid nitrogen into the creature before feasting on the bug. As the icy cold met the bug, the sound of its insides freezing matched the sounds of its screams.
+
+The bug squealed like that for a solid minute, the icy centipede’s mandibles slowly munching away at the creature’s face while it was alive. The insect squirmed, struggling to escape, but the centipede didn’t care if it was dead or alive. It was like the tinier bug was just a packet full of food. Once the centipede had grabbed onto that packet, it would start feasting until the packet was empty.
+
+Once it finished, the centipede glanced around at the entrance of the rift. Its beady eyes met the named ones, but the centipede seemed satisfied. It was like a full lion. You didn’t have to worry about it if you didn’t mess with it anymore. It squirmed back into the tunnel, leaving icy spots where its feet touched the ground.
+
+Torix murmured through Aatrox,
+
+“If not full, that creature would escape into your world. I doubt most earthlings could handle such a thing, no?”
+
+I nodded, “Yeah. Most people would get fucked.”
+
+Althea frowned, “Those places are bad. Very bad. My memories are fuzzy, but I remember my parents mentioning those things. It’s hard to fight inside the portals. You lose your HUD and all connection with Schema.”
+
+I raised an eyebrow, “You lose connection with Schema? Holy shit…No wonder fighting against a fringe world is so hard. Why would you bust into a portal and try to beat the rift lord? You don’t get experience or anything, and you can’t see your health bar, and shit…there’s all kinds of reasons not to go in there.”
+
+Torix nodded in Aatrox’s body, crossing the guard’s arms,
+
+“Indeed. For most people, it is a death sentence, especially considering how much people tend to rely on Schema’s assistance for most fights. Rifle men rely on him to aim. Fighter’s rely on him to streamline the use of their skills. Even mages rely on him to help ease the casting process. On the other hand, you and Althea don’t have to worry about those drawbacks.”
+
+Althea turned towards him, “What do you mean me and him? I thought it was just him.”
+
+I turned to her, “What do you mean just me? Fuck you.”
+
+Althea turned to me, “Of course it’s just you. You’re the, ‘look at me, I live for battle,’ person. I just want this to be over with.”
+
+I rolled my eyes, “Ok, have some perspective. You honestly think I want to crawl into a giant entrance into a different dimension? Fuck that. I don’t want to, but I will because I choose to. That’s what makes us different from animals. Animals go by instinct. People, we can do more than just live from our instincts. We can live for our future.”
+
+I raised my arms into the air, “Besides, do you want to be at the mercy of all this bullshit forever? There’s a light at the end of this shit covered tunnel.” I pointed a finger at Althea, “You can either stay in this shit covered tunnel, or you can get with the fucking program and move on.”
+
+Althea sighed, “Ok, ok, I’ll go.” She glanced up at Aatrox-Torix and spit her words like venom, “Please tell me the next time you want something like this. Nobody likes awful surprises.”
+
+Torix shrugged, “And you’d never have come if I hadn’t gotten you this far. Unlike Daniel, you tend to avoid unpleasantness.”
+
+I narrowed my eyes and frowned, but Torix continued, “That means at times you need a push, Althea. Daniel, on the other hand, needs someone to curb his fervor. If you two could find a balance between each of your approaches, then perhaps you would both be more effective. Regardless-“
+
+The Torix pointed with the guard’s arm at the center of the stadium,
+
+“It’s time for a little dive into the unknown. I’m sure the experience will be…enlightening.”

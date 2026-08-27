@@ -1,0 +1,267 @@
+---
+id: f9d3bc75-2040-59c1-abed-6c537febdad5
+page-type-slug: story-chapter-royal-road
+title: "153 What Once Was"
+slug: 0112-153-what-once-was
+partOf: the-new-world
+position: 112
+ownLength: 3289
+unit: words
+ownProgress: 3289
+publishedAt: 2018-10-28
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/301809/153-what-once-was"
+royalRoadId: "301809"
+markedReadAt: "2026-06-29T21:24:49.140Z"
+---
+
+The beast was a living mess. Its broad wings, once beautiful, flapped with holes throughout them. Pieces of its skull showed, patches of its skin missing. The pollution ran out of its mouth, its needle teeth still white despite years of decay.
+
+As the slop fell from its form, the beast revealed black skin littered with yellow patterns. It matched the surface of a poisonous dart frog with the same flowing patterns of color. Despite the decomposition, I could tell this was once a noble creature.
+
+Why? It was a fucking dragon.
+
+Well, sort of. It lacked scales, but everything else seemed there. It even had a bit extra. These disgusting, orange worms writhed under its skin. They reached the surface on the missing patches of skin of the monster. These orange tendrils gripped and shifted like a muscle, moving this leviathan.
+
+As it scrambled from the lake, two orange tentacles burst from its rotting eyes. The ends of these appendages opened, revealing eyes. It looked like a snail invaded a dragon's head and burst out from the inside. These eyes looked at me, blinking in curiosity.
+
+It was revolting.
+
+It sniffed the air before wretching out a geyser of purple muck. With a quick jolt, I molded Event Horizon around the monster, condensing the aura. It howled as I charged my mana and analyzed it.
+
+Yana cluster, living hiveflesh(lvl 5,923) - Once a proud member of the gialgathens, this poor creature succumbed to the silvers. A specialized, parasitic worm, the yana, invaded the gialgathen's brain. The yana slowly ate its way through the gialgathen's body. The yana creates a living muscular system in place of the previous one, each worm acting as a muscle fiber.
+
+This horde of yana operates as a single unit, like a hive of bees on Earth. They protect the husk, using its form and previous abilities in life.
+
+This would typically be an impossible creature to defeat at your level. Given your unusual circumstances, it should prove a worthy challenge. Enjoy the battle.
+
+I grinned at the message. It was like Schema knew me. The yana cluster turned towards me, wearing the gialgathen's body. It opened its mouth, gushing out more filth. I grimaced. This was like seeing a lion covered in thousands of ticks. Even in its ruined condition, I could see fragments of what it once was.
+
+It tilted its head, the orange tentacles staying level. This alien monster scrambled towards me, snapping its jaws. Unable to charge enough mana, I unleashed a gravity well on one of the eyeballs. The pulling force imploded the organ, orange blood gushing out of it.
+
+It howled. An unearthly ringing rattled through me. I covered my ears with armor. The creature's roar still crippled me. I took a deep breath, steeling myself. I shook off vertigo, finding my balance. The beast reached me, snapping its jaws.
+
+I slammed my feet into the ground, sending out a shockwave of kinetic energy. I pulled in my mass, swinging my fist over my head. The dragon chomped down from above, but my fist made contact. With the force of a tank bullet, my fist slammed into its nose.
+
+The monster's head crashed into the metal ground. A wave billowed through the steel floor, cracking the perfect sheet. With bones broken, the one remaining tentacle eye looked up at me. I pulled up my fist, covered in orange slush. I thundered,
+
+"Come on. Is that it?"
+
+The bizarre eye widened, pulling away. The main body pulled away, leaving its crushed snout. From the broken jaw, thousands of orange worms crawled out. They squirmed over me, like moving strings of jelly. They opened mouths lined with teeth, biting into my armor.
+
+Within seconds, they sheared through the metal. Once they reached my actual skin, a nasty surprise popped up. My own armor drilled into the soft bodies, draining them in seconds. They squealed for mercy. I gave it none. After absorbing the bottom jaw, I charged towards the main body.
+
+Its tactics changed. Instead of rushing at me, the four-legged creature stared. It waited for my arrival. When I reached it, the monster lobbed out a plume of purple slop from its throat. I put a bubble of antigravity over me, resisting the disgusting ass liquid.
+
+The high pressure continued, an endless barrage of toxic chemicals spewing. It vomited up so much filth that I pushed back from the force of it. Curious, I stomped my foot on the ground. The vibration gave me a mental image of the battlefield. I used my unique skill Knowledge Maker. It gave me photographic memory.
+
+Using that tool, I inspected the image of the battlefield in detail. The yana hive had put its tail in the lake behind it. It siphoned the mush from the pool, undulating body to pump the goo at me.
+
+I burst a portion of my health, creating a strong gravity well above the yana's head. The well snapped its snout up, changing the direction of the poisonous sludge. I dashed towards it, the metal beneath my feet crumbling.
+
+I leaped towards the creature, slamming my fist into its torso. The corpse disintegrated, but the worms underneath held. They rippled outwards, dispersing the force. Like a whip, the kinetic power of my hit reached its arm. It slung a rotten set of claws at me.
+
+They snapped against my skin, but the worms struck like a wall of steel. I sliced through a pillar of metal, the gray column erupting a squeal. I crunched into the metal ground. I pulled myself out of the iron, my arms and legs popping out.
+
+As I stood up, the yana cluster scrambled towards me. I spit out a bit of blood from my mouth before clanking my fists together. I laughed at the monster, walking out of my pit. It sliced a paw at me, but it whipped its tail at the same angle.
+
+The slice of the paw was a feint. I ignored it, catching the tail it sliced at me from a different angle. I dragged along the ground, keeping on my feet. I absorbed the momentum of the strike, catching the tail. I grinned. The fight was over.
+
+I created a powerful gravity well right underneath me. It kept me pinned as I lifted the yana up with all my strength. The tail shot sideways, dragging the giant monster in a circle. I wasn't strong enough to just fling it around like a ragdoll yet, however. At least not with just my raw strength.
+
+Juggling multiple magics, I created gravity wells beside the yana. These wells assisted my swinging motion. The monster clamped its claws into the metal, resisting the dragging force. The metal caved, bending as the beast howled.
+
+One claw popped off. Two more snapped. A few seconds of struggling and the monster's grip ceased. It slung through the air, colliding with high pillars of metal. Hunks of its rotten body fell apart. More of the orange yana revealed themselves, the horde of mouths writhing.
+
+I swung this giant in circles, gaining centrifugal energy. Like a tornado, the monster went slack before I lifted it up into the air. The yana cluster thrashed before impacting the metal ground.
+
+A cataclysmic boom echoed out, a wave of force sending debris in all directions. A wave rippled through the metal, like an earthquake. Thousands of the worms burst, exploding from sheer pressure. It gurgled on its orange blood, the monster writhing in agony.
+
+I jumped up, lifting myself with gravity magic. After several hundred feet, I dived down at the monster. I pulled myself down with magic, enhancing my fall. Seconds passed, and my speed mounted. The wind's friction heated my armor as I gained momentum.
+
+As I reached the monster, I crashed into it like an asteroid. The worms disintegrated, already weakened by Event Horizon. I pierced through the beast, leaving a crater in the metal beneath it. I lifted myself up, brushing off whitened pieces of broken steel.
+
+I glanced down, the point of impact glowing. I looked around, and the worms scrambled in random directions. I obliterated most of them. Now they weren't acting like one creature. That weakened them, and I watched Event Horizon sap them away into nothing.
+
+A notification appeared, showing the completion of the quest.
+
+A Plague's Beginning(lvl 3,500 requirement, lvl 4,000 Recommended| Recommended Party Size: 4 | Tier: B- | Status: Completed) - You've eliminated the throngs of silvers outside of Icosah's borders. Reap your rewards.
+
+Reward: 10 Red Dungeon cores. Goodwill with Giess increased.
+
+Quest Completion Speed: S+ Tier.+3 red dungeon cores.
+
+Thoroughness of Quest Completion: S+ Tier. +3 red dungeon cores.
+
+Casualties and Collateral Damage: 0 dead and 0$. -0 red dungeon cores.
+
+Giess Affinity +25
+
+I raised an eyebrow at the affinity scoring. I opened my status, checking for affinities. I found a few.
+
+| Affinities |
+
+Earth: 106,090 - You are a legend whispered by children and adults alike. A paragon of what humanity is capable of, you've positioned yourself as the savior of your world. Your status is akin to a god by some, and respect is the least you've earned.
+
+remnants: (-5,087) - By killing Korga Ryker, you've destroyed one of the most prominent figures in mainstream remnant culture. This gives you a villain status when compared with most, though your skill against Yawm leaves you feared.
+
+Porytians: 12,455 - You've erased one of the banes of porytian history, cementing your status as a hero. Your wisdom and cunning are also appreciated for slaying Ajax, a hard but necessary choice in the eyes of the porytians.
+
+Giess: 25 - You're looked at as an outsider, but one with potential.
+
+Humans: 106,090 - Many view you as an idol, a figure higher than humanity. When someone boasts of the human's potential and abilities, your name is the first example on their lips.
+
+Eltari: 10,089 - You've freed them from their planet and given them a new home to flourish in. This gives you great status as one of the heroes of their people. Your condition as a cultural symbol is absolute.
+
+Eldritch: 455 - Lesser eldritch fear you. To the eldritch, fear is the closest thing you'll gain that resembles respect.
+
+Unknowns: 2,783 - By erasing Yawm from existence, you've bolstered the overall reputation of unknowns everywhere. When someone is defending the status of unknowns, you are one of the examples to make their case.
+
+Etorhma: 10,003 - By slaying Yawm, you've gained status as one of Etorhma's most potent avatars. Those that worship him will know your name, and they will whisper it when they speak of Etorhma's power.
+
+It shocked me how many affinities I had with various groups. Before I finished reading, a blue square appeared in the air. From it, the overseer walked out. He glanced around, peering down at me,
+
+"Weren't you taller the last time I saw you?"
+
+I closed my status and shrugged, "Eh, I was drawing too much attention."
+
+He waved a hand, leaving a trail of white energy in the air, "Ah, a significant concern given your circumstances. Excellent work here. This could've exploded into a much more serious problem without intervention. Keep it up, Harbinger."
+
+I grinned, "Oh don't worry about that."
+
+The white energy concentrated into sixteen spheres. The overseer took his hand and tapped two fingers together before pointing his finger at me, and the dungeon hearts floated around me. He waved goodbye, "I'd love to chat, but I've business to attend to."
+
+I nodded, "Same. Good luck."
+
+He stepped through his portal. As he did, the cores dropped onto the ground. I bent over, picking them up and absorbing them. As I absorbed the cores, I placed all the points into constitution instead of endurance. At this point, the difference in raw power attracted me more than mana regen. After I finished my attribute points, I opened my skills menu. I put all the points into Force of Nature.
+
+This gave me enough tree points for my current tree, Legendary. After investing into it, a notification appeared.
+
+Many choose to dilute their strength over many studies. You've chosen an opposite path, relishing in the power of specialization. Mastery isn't your aim. You wish for absolute supremacy.
+
+Legendary(Tier 1) unlocked! +20% to the effect of legendary skills.
+
+It was a simple but effective tree. I lifted my left hand, creating a well of gravity. It molded easier and stronger than before. I nodded, satisfied with the tree's result. I opened Force of Nature, curious about its increased effects.
+
+Force of Nature(lvl 2,068) - You are nature-given fury. Enhances all techniques and application of skills within this ability, including but not limited too: Close Range Combat, Runic skills, Telekinesis, Gravitation, Sensory Abilities, Bearing, and Draining Abilities.
+
+Bonus Attributes: 240 Strength, 240 Dexterity, 96 Constitution, 96 intelligence, 48 Perception. +24 to all attributes for having a 2,000 total in a legendary skill.
+
+Ability Bonus: +180%
+
+Mana Cost Reduction: 36%
+
+The awards stacked up. The attributes helped round out my build a bit. The real money makers were the ability bonus and mana cost reduction. They enhanced my abilities dramatically. Making the gravitational singularities would be more natural now for instance.
+
+After reading through those bonuses, I checked out my cipher enhancements next.
+
+[Modifications - The dimensional fabric composing this structure has been modified with code from the dimensional cipher. With mana, further bonuses can be applied. The bonuses are as follows:
+
++72 Strength
+
++72 Dexterity
+
++6,080 Endurance
+
++100% to effect of legacies
+
++3,040 Willpower
+
++50% to internal motivation]
+
+As usual, the cipher never disappointed me. The sheer volume of free stats really mounted at this point, and my build was snowballing out of control. With all that finished, I finally checked out my status.
+
+Dimension-C138(Level 5,653)
+
+Strength – 5,902 | Constitution – 10,352 | Endurance – 42,195
+
+Dexterity – 2,349 | Willpower – 24,133 | Intelligence – 8,767
+
+Charisma – 832 | Luck – 2,943 | Perception – 931
+
+Health: 7.15 Million/7.15 Million | Health Regen: 16.8 Million/min or 280,637/sec
+
+Stamina: 4.60 Million/ 4.60 Million | Stamina Regen: 66,268/sec
+
+Living Dimension: 1.03 Trillion/4.30 Trillion
+
+Mass: 484,310 pounds(220,427.5 kilos~) | Height: Actual -12'4(3.76 meters)   Current - 9'10
+
+Damage Res - 98.5% | Dimensional Res - 49.25%
+
+Phys Dam Bonus – 533,147% | Damage Bonus – 40%
+
+Event Horizon – 20,000 + (100% of your total health)/min
+
+My attributes crawled up over time. The main difference was in my physical damage. It and my mass increased by over a tenth. With the status work handled, I jogged back towards the village. Halfway there, I realized something.
+
+My disguise was in tatters.
+
+I facepalmed. Of course it was. I just fought a level 5,000 monster. There wasn't really armor on the galactic market that could handle that kind of stress. I opened my status, sending Torix a message on what happened. Within minutes, he replied,
+
+Torix Worm, of Darkhill(lvl 5,000 | Guild: Harbinger's Legion | Time: 7:34 P.M. 0/25/31) - Ah yes, of course....you destroyed your armor within the first day. Fret not! I made sure to pack dozens of extras. Do be more careful, if that is at all possible.
+
+I laughed at the message. Torix knew me like the back of his hand. The letter uploaded a few coordinates into my mini-map. I followed them, reaching a ravine two miles from the village. Bushes lined the top of it, and a sunset glowed in the distance. I waited by watching the creek flowing in the middle of the ravine.
+
+Bubbles of glowing, blue mana rose from the ground. Fish swam up from the crystal clear water, gobbling up these bits of mana. Every once in a while, birds swooped down and tried their luck at catching one. About five minutes into watching the spectacle, Torix walked out of a portal.
+
+He turned towards me, brushing himself off,
+
+"Ah, good to see you've been fighting giant monsters. I told the others you wouldn't relax a single moment while here. You didn't rest while on Earth. Why would Giess be any different?"
+
+I raised an eyebrow, "What? I relax all the time. I was just watching some fish."
+
+Torix rolled his eyes, "While waiting for me. Otherwise, you'd be finished with this quest and hunting for more."
+
+I shrugged, "Why waste my time?"
+
+Torix pulled a gray ring from his robe, tossing it at me, "The classic saying of a workaholic."
+
+I caught the disc while standing up. I tore my broken armor off, setting the new exosuit on my chest. It formed over me, an exact replica of the previous ones. Torix pointed at the portal,
+
+"Want a shortcut back to the village?"
+
+I grinned, "Of course."
+
+I walked through the black portal and back into the town square.  Far more people walked outside than before, most of them espen. The amphibians were made every color of the rainbow. At the same time, all of them followed a simple pattern of appearance.
+
+Their skin was one color except for the patterns running down their sides. They all had amber eyes. Lastly,  their hair was mostly a tail colored like their pattern and skin shade mixed together.
+
+They all wore some mixture of leather and carbon nanofiber. Mist covered some parts of them, and they showed more skin than people would in the same weather. All in all, they were interesting to look at.
+
+Torix leaned towards me, "They're actually nocturnal for the most part. That's why we saw none of the natives prancing around. If you think of their biology-"
+
+I cut in, "They'd avoid light since it would dry them out. It probably stresses the mana requirements for their mist clouds too."
+
+Torix raised an eyebrow, "Ah, are you doing research as well?"
+
+I shook my head, "Not yet. Just observations."
+
+Torix pointed at Althea and Kessiah walking out of a wizarding shop, "Then observe the change there as well."
+
+I cupped my chin, "Ah yes, noted."
+
+Althea wore a flowing garment, something that covered her but showed her curves. It looked like something worn in the desserts back on earth. She kept a veil over her face, showing the outline of her features and her eyes. I couldn't make out her face through it though, even with my sharp sight.
+
+Kessiah wore a tighter outfit, more fitted to her figure. She wore a veil too, keeping herself covered. Unlike Althea, Kessiah didn't let her hair flow down her back. My guess was because of the white color, and her height would give away her remnant status.
+
+I waved at them, and they walked over. As the lovely ladies reached us, I smiled under my gray helmet at Althea,
+
+"You look stunning."
+
+Kessiah put a hand on her chest, "Oh thank you, darling."
+
+Althea rolled her eyes, "Thanks. Torix said something about replacing your armor?"
+
+I nodded, "I finished off something called a yana cluster."
+
+Althea raised both her hands, "Ew. Sounds pretty gross."
+
+I raised my hands, waving my fingers, "Oh it was. A bunch of orange worms took over the corpse of a gialgathen."
+
+Something grabbed my shoulder. As I turned around, a thin, lanky alien starred back at me. He had black pupils and pale green skin. His ornate robe was a mixture of furs from native wildlife. Behind him, two bodyguards held rifles in hand.
+
+The lanky alien smiled at me, "Are you the stranger I've heard so much about? It's good to meet you. If you wouldn't mind, come this way?"
+
+The bodyguards stiffened, grasping their rifles. The green alien squeezed my suit,
+
+"The Empire would like a word with you."

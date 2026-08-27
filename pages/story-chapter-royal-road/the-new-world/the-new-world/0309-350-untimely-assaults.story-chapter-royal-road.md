@@ -1,0 +1,223 @@
+---
+id: 4cea4aad-865a-535d-9131-31f9b3f47ea5
+page-type-slug: story-chapter-royal-road
+title: "350 Untimely Assaults"
+slug: 0309-350-untimely-assaults
+partOf: the-new-world
+position: 309
+ownLength: 3312
+unit: words
+ownProgress: 3312
+publishedAt: 2022-11-05
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/1032385/350-untimely-assaults"
+royalRoadId: "1032385"
+markedReadAt: "2026-06-29T21:31:46.505Z"
+---
+
+I gazed down at him, and the catfish man crossed his arms over his head. He blew into the pit of algae, "Ah...This place is finally comfortable."
+
+I pulled molten dimensional fabric from my pocket dimension. With it floating above, Drelex sneered,
+
+"Ahck, what are you doing with that? It's molten."
+
+I rolled my eyes before swiping him and his algae pit into my pocket dimension. As I paced up to Entilla, the blue lizard peered back and forth. Once I stood beside him, Entilla squeaked out,
+
+"Uhm, where does that portal lead?"
+
+Swinging the portal like an ax, I smiled,
+
+"A surprise."
+
+Chapter Begin
+
+After walking out of the survivor's base, I dashed through the compressed rock of Leviathan-7's crust. Once at the surface, I erupted through the strange fauna and wildlife, pulling up mountains and hills as I did. With the dramatic exit finished, I turned in every direction, seeing behemoths, algae, and the gas bubble ecosystem. Shalahora hadn't waited out here for me.
+
+Unable to find the Sovereign, I shrugged before heading out. Without any actual means of communicating with him, I figured he waited for me in my cities. In all honesty, I dreaded talking with the guy again since he introduced a lot of risks. Still, he's why I found the survivors in the first place, and the last thing I wanted was Shalahora siding with Valgus. If they did, the number of people leaving this hellish planet might number in the single digits.
+
+Staring back at their tentacle-covered pyramid, I frowned. They lost the vast majority of the rulers present already. With Schema's current setup, he'd gain hundreds of planets and empires for free. As I gazed at the stars, I wondered if this same process took place elsewhere. How many lotteries resulted in hundreds dying? How many empires would Schema steal?
+
+I had no way of knowing, and I lacked time to dwell on the matter.
+
+Rushing across the horizons, I darted above the behemoths as a dark needle. I sliced the wind, shearing through it with ease. My form warped nearby algae, the speed and friction building heat over my body. In this strange form, I passed Leviathan-7 as a speeding flash, more akin to living lightning than a monster of metal.
+
+Fauna gave way to the red dunes of the desert, more of the rainbow bone piles missing than before. Valgus collected thousands of them, his resources vastly exceeding my own by the looks of it. Well, sort of. The rainbow bones meant nothing to me, the material being like a worse version of my dimensional fabric.
+
+On the other hand, the blue cores mirrored diamonds; the beautiful spheres were practical and valuable all at once. The bones weren't in short supply either. Driving that point home, I stared at the first hill of shining bones. They amassed into piles, then mounts, then mountains. In time, they patterned into a plateau, meaning I reached the depths of the ossuary.
+
+Unlike exploring elsewhere on this planet, I never needed a compass to find my cities. They always faced the brightest section of Leviathan, the black hole a menacing reminder of this planet's dangers. With the shining bones arrived the primevals who came out to play. Their haunting forms shifted and trembled with nearby landscapes, their battles destroying the skyline of algae.
+
+They ripped holes into the land as if they hated it. I couldn't blame them, but I avoided the monsters for the time being. I'd harvest them later with my army of golems. As I neared my region, a wave of anxiety passed over me. That dread spawned from explosive sounds and the shaky ground.
+
+At first, it mirrored the battles of primevals. Upon closer inspection, the clashes of light and nuclear-sized explosions erupted with too much frequency and violence. Something or someone attacked my cities, and for a moment, I worried if Shalahora had turned on me. With an explosive burst of gravity wells, I bolted towards the sound and sources of light.
+
+Grinding to a halt with the violence in full view, I gazed at a scene of untold destruction. Three of my cities were leveled to the finest grain. A fourth city's barrier wobbled from attacks on it, and Shalahora defended my territory against a mass of primevals. Several dozen attacked him from all angles while a coal-black cyclops gazed down at Shalahora.
+
+That shadowy Sovereign used several shining spheres to wash the battlefield in light. Using the shadows cast by the orbs, Shalahora darted between the gaps of an incoming swarm. The missing attacks reshaped the entire realm, and it stripped the area clean like a cascade of bleach drenching mold.
+
+In each cleansing assault of light and force, Shalahora retaliated with swarming slices of darkness. He reminded me of Hod, but Shalahora used ascendant lightning for his onslaught. The rippling strikes and destructive cuts would've destroyed mountains and rivers alike, yet the primevals ignored the attacks.
+
+They attacked with unyielding bloodlust and no regard for their lives. Above it all, the charcoal-shaded cyclops stared at the fight. Feeling he was familiar, I took a moment to recall who it was. He was one of the rulers I learned about during the introductions of the lottery - The Kalat, the union of an entire species.
+
+While they should've been a worthy foe for most, Shalahora should've wiped them all out already. The shadowy Sovereign mentioned using psionic attacks to splinter the congregation's mind, but apparently, that theory didn't work well in practice. At least Shalahora carried no wounds or signs of exhaustion from the battle. If anything, they both reached a stalemate.
+
+With a grip on the situation, I took a deep breath while charging my mana. Using a long-distance telepathic tether, I connected with the director golem leading my cities. The golem responded in an instant,
+
+"Ah, creator. Thank the creator that you're back. That is to say, thank you for being back, but I'm speaking with you, so the phrase doesn't hold up. I simply must rethink that when speaking-"
+
+I snapped, "What's the hell's going on?"
+
+"Ah, excuse me. A ruler found us and began swarming our cities with primevals. He's unleashed over a hundred strong at us from all angles. We defended for a while, but he collected his forces into a singular mass and kept unleashing devastating gamma bursts onto our cities' peripheries."
+
+I winced. I used that strategy, so other rulers could use it as well. The director kept calm as he recited,
+
+"Shalahora returned a while ago, and he's been defending the outskirts of the town while we recollected our losses and forces."
+
+I grimaced, "How many golems have we lost?"
+
+The director spoke with quiet pride, "Not one, creator. I kept them all alive."
+
+I blinked back my surprise, "What? Really?"
+
+"I wouldn't lie to you, sir."
+
+I shook off my disbelief, "Hah, so this is what shattered expectations feel like. Anyways, we need to organize our counterattack."
+
+"I was waiting for your arrival while focusing on avoiding losses, sir."
+
+I locked my eyes on the dark cyclops, my gaze turning dark, "I'm here now, so let's retaliate in kind."
+
+Mana trickled over me as thick as plasma while I telepathically linked with Shalahora. The umbral blot rasped, "Which one of you filthy mongrels still has a mind?"
+
+"Daniel. Attacking. Be ready."
+
+I shot through the algae in the sky. With not time to think, I offloaded chunks of concrete, steel and extra machinery from the dying rulers in my pocket dimension. Using the added space, I put the warp panel on my back inside.
+
+After passing the layer of writhing kelp, the giant blot of Leviathan spread out before me in all its majesty. It whirled in my vision as I lost levity. Diving down, I propelled myself towards the shining bones below. The wind wisped over me, friction building heat until I neared the glowing ground.
+
+Before impact, I flattened myself, maximizing my landing's collision. At the same time, I opened my dimensional shield, capturing a slice of the orbital bombardment. That stopped the shockwave from disturbing my cities. Without any more time to think, I made contact with the shining bones.
+
+I evaporated in a blinding sun, and I washed away in a kinetic calamity. To my chagrin, so did the hammer across my back. I brought forth an absolute cataclysm, and my orbital bombardment erased the horizons in all directions. With the sky cleared, Leviathan gazed down at us, a dark eye watching me recreate this world's shape.
+
+If the land were paper, I set the ink ablaze.
+
+A flash of light consumed the entire region, Shalahora dashing into shadows cast in the distance. The primevals turned to powder and ash, and the dark cyclops covered his eyes in the space. It was his mistake. Before the impact settled, I regenerated and rode the kinetic wave outwards, dashing myself towards the cyclops.
+
+He saw nothing as I lifted my dimensional shield. From within it, the impact's absorbed explosion erupted. A disintegrating beam of raw force shot out with blitzing shrapnel. The dark cyclops turned to nothing but a memory before I burst that memory in a wave of singularities. The dark blots fed on my own body, erupting and feasting in tandem.
+
+I turned myself into dark shrapnel, my body food for ruin and my corpse cause for calamity. Event Horizon scattered over the vaporized remnants of the cyclops, and the aura devoured the atoms that remained from its death.
+
+As the wave of energy dispersed, I stood from it unharmed, an immortal amongst the mundane. Gazing at the cyclops, something irked me, so I sent out my psionically loaded wake. A presence lingered where the cyclops once was. The congregation of spirits wrestled out in the ether, attempting to escape.
+
+I infested their minds, reading the memories within. I found nothing as if I had invaded some kind of animate corpse. I leaned back, stunned by apparitions. I couldn't even conceive how something like this existed. A spirit without a mind? It made no sense, and neither made its attempts at escaping or regenerating its physical form.
+
+It ran off instinct, writhing, thrashing, and hounding to escape from the confines of my wake. It uncovered no gaps in the jail cell here, every part of this space was my own. But its struggle continued. It clawed out with the unending desperation of a wild animal. I wrangled it in, stunned that a mindless zombie carried such enormous ferocity.
+
+I battled against it for a while before my grasp began slipping. Below me, Shalahora wrestled with the rejuvenated primevals, many of them already returned from ash. I didn't care about them. Below their battle, the shining soil filled with irradiated mana. The bone beast prepared a gamma burst, one within viewing distance of my cities.
+
+The urgency overwhelmed me, and I struggled against the spirits. I condensed my wake over the shivering souls, but they kept fighting. After a while, I realized I had a choice. I could either let these spirits escape and save my city or capture them and let several cities be blown apart.
+
+After a couple seconds of thought, the bones below erupted with spines that shimmered. I needed to block the gamma burst with my shield, but these spirits might bring back more primevals. I tried weighing the pros and cons of each choice, but there wasn't any time. In that mess of a mental state, an idea popped up in my head.
+
+And I loathed myself for it.
+
+As the ground continued swelling with vibrant energy, I made a choice. I shoved several of my minds into the spirits. They offered no resistance, and with a wash of mana, the infested souls swelled. Moments passed as the zombified ghosts ballooned to the edges of my wake. In an ego cleansing, they drowned in a psionic flood.
+
+And they were no more.
+
+I took a breath, but I found no air to breathe. I hit myself across the side of my head, knowing there was no time to think about what I had just done. Racing downward, I landed at the epicenter of my orbital bombardment. Pulling up my dimensional shield, the gamma burst below erupted. I vaporized into nothing; every atom in my body ripped into a wash of particles.
+
+From nothing, I returned in a fraction of a second. With my arrival, a mental whiplash vibrated through me. My vision and senses changed multiple times in the last fractions of a second. After getting a grip, I lifted a hand, snapping a powerful gravity well into existence overhead. It pulled the remaining blue cores from the dead primevals nearby, and I snatched them into my pocket dimension.
+
+Aiming my other hand, I snapped singularity after singularity at the primevals who regenerated their bodies after the gamma burst. Dark beads blotted through the crater I left behind. They feasted on the surrounding air and discharged energy in turn. After the kinetic rain settled, Shalahora returned to the battlefield.
+
+A molding shadow, he darted between each enemy, the Sovereign holding many forms at once. His shades and my golems joined the fray, metal and shadow collapsing onto the enemies in unison. Gravitation implosions flashed with light before giving way to waves of darkness. I tore through the enemy lines while Shalahora cleaned the remnants I left behind.
+
+And in time, we crushed the opponents to powder.
+
+Standing amidst the destruction, I pocketed the last blue cores before hovering over to Shalahora. The shadowy presence rested at the edge of the crater that my orbital bombardment created. Standing beside him, I placed a hand on the Sovereign's shoulder as I said,
+
+"Thanks."
+
+Shalahora nodded while remaining silent. Stepping away from him and the epicenter of my collision, I found the director golem in the city nearby. After I floated through the blue core barrier, I raised a hand to the director,
+
+"Good job keeping the golems safe. We can rebuild the cities, but the experience of the soldiers isn't replaced as easily."
+
+The director golem gave me a bow, "It's the least I could've done, creator."
+
+I lowered my arm, "At ease. Anyways, get some golems ready to establish my cities again. We have a bit of construction to handle before we find out where the hell this enemy came from."
+
+The director sent out a telepathic command, "You heard him, everyone. Get ready to move out."
+
+My soldiers shifted from still waters to a wave of movement while I hovered myself back over towards Shalahora. Sitting beside him, we gazed at the humming glow where I had landed earlier. After a minute, I turned to the Sovereign,
+
+"Why didn't you use that same mind attack as earlier? The primevals have robust minds, but they don't stand a chance against that. Neither did the cyclops."
+
+Shalahora rested his face in his umbral hands, "They...They owned no mind to infest. I can implant centuries of memories, but they carried no weakness to trauma or pain. They were unfeeling like the inanimate brought to life, stones that breathed or water that sang."
+
+I frowned, "Er, it was more like zombies than talking grass."
+
+Shalahora scoffed, "True."
+
+I leaned back, my arms propping me up as I stared up, "That was weird. I noticed that same feeling when I tried some psionic attacks against the, er, spirits of that ruler."
+
+"Did you let any of them live?"
+
+I frowned, "No. They're gone."
+
+Shalahora sighed, "Perhaps that is wise as mercy is often an unnecessary source of future conflict. It allows a ripped plant to regrow. To truly destroy an enemy, their roots must be uprooted and pulled apart."
+
+I shook my head, "They didn't have any memories to interrogate anyway, so I kind of just let anger take over."
+
+"Anger is a tool, one worthy of wielding given their transgressions. At the minimum, they've done nothing for your favor."
+
+I turned to Shalahora, "Speaking of earning favor, why did you help me out?"
+
+Shalahora kept his gaze on the crater steady, letting a silence pass over us. He shrugged, "I was in no danger."
+
+"Yeah, but you still helped me without any real reason...What gives?"
+
+Shalahora tilted its head at me, "We are allies, aren't we? What more reasoning must there be? This is the line of thinking that frustrated me with that frog ruler. It was as if he aimed to dissect those around him like they were pieces in some game he played."
+
+Shalahora's eyes narrowed, "A game assumes rigidity of rules. People are not so simple. When assuming control of others, one often finds that those people rebel for no other reason than spite. So I unleashed my spite, and that weakling could not carry the brunt of it."
+
+Shalahora seethed, "But for some reason, people are allowed to manipulate with words but not actions. It's absurd."
+
+I raised a brow, "Yeah, but words don't kill people."
+
+"Without context, perhaps, but what if a commander orders a village to be annihilated down to the last woman and child? His words are weapons all the same, yet he is not judged as the results of his words aren't apparent at the moment of his speaking."
+
+I pursed my lips, "Huh...Wouldn't the soldiers' actions be the wounding element, not the words of the general?"
+
+"You argue semantics instead of my point, which is a concession in itself."
+
+I leaned forward, "That assumes I'm evading the issue, but I'm not. Besides that, I'd probably judge that general quite a bit even in that moment."
+
+"But not in the same vein as if he tore the villagers apart in front of you."
+
+I nodded, "That's true...I'll think about it."
+
+We watched the residual heat of the crater blur the air above my impact point. I turned to Shalahora and nudged him with a hand, "Well, thanks for the help anyways. I appreciate it."
+
+Shalahora sighed, "And I appreciate your forthrightness. It's rare to meet anyone in a position of power who achieved their means with their own efforts, and it makes us kindred spirits, each of us disparate in purpose but united on principle."
+
+Shalahora's sky blue eyes carried no hints of deception, so I couldn't tell his motives. No discomfort or sense of unease permeated him, a sense of authenticity present at all times with the guy. It was strange. I met many figures in my life, like Yawm or Obolis. They all hid behind some mascarade of magnificence like they were above it all. Shalahora didn't do that.
+
+I was so used to people trying to manipulate me that meeting someone honest put me on guard. Even then, I couldn't tell if the shadow was an ancient evil or a naive optimist. Either way, I let the issue go while murmuring, "Well, thanks for helping despite the struggle. And yeah, it was as if those enemies were designed with your abilities in mind."
+
+Shalahora gazed where we fought, "To think there is a means or method to kill the mind but leave the body and soul behind...It is unnerving."
+
+My eyes widened as a realization snapped through me. I opened my pocket dimension before pulling out some liquid rainbow bone. While I spiraled it in a circle, I met Shalahora's eye,
+
+"This...This is what they're using."
+
+Shalahora tilted his head at the liquid, "What is it?"
+
+"It psionically kills whatever eats it."
+
+Shalahora wisped away from the stuff, his body trembling, "Gah, grotesque."
+
+I spun the shining liquid in a circle, "It is, and based on the fight, the primevals aren't the only victims here."
+
+I set my gaze where the black cyclops watched us fight,
+
+"It's being used on the other rulers as well."

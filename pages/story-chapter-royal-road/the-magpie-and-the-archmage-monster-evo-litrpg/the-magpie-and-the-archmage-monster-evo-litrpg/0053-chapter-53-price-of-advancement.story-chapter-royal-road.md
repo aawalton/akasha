@@ -1,0 +1,191 @@
+---
+id: 5f3ccaf8-f84f-57b7-8fe8-2fbeb3b9fc71
+page-type-slug: story-chapter-royal-road
+title: "Chapter 53 – Price of Advancement"
+slug: 0053-chapter-53-price-of-advancement
+partOf: the-magpie-and-the-archmage-monster-evo-litrpg
+position: 53
+ownLength: 1927
+unit: words
+publishedAt: 2025-11-26
+link: "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2793917/chapter-53-price-of-advancement"
+royalRoadId: "2793917"
+---
+
+Kalen had never felt so frustrated before in his life. His precious sister was bleeding out before his eyes from injuries caused by a kobold of all things. They had been overwhelmed, but he felt so incompetent. He couldn't protect her. That was the one thing he promised he'd always do—protect Serena.
+
+But there were so many kobolds. As he fought back three of them, three more slipped by and got to Serena. Worst of all, his sword broke. It had been long overdue for a change, but he never could afford a new one. He hoped that they'd be able to save up for a new one as they kept completing quests.
+
+But then this whole mess had to happen, and all because of some bird. Kalen knew that his sister always had a soft spot for cute critters, but he should have known better than to rush into the dungeon to save some magpie. Worst of all, the stupid bird abandoned them.
+
+It did manage to get the mob of kobolds off them, so he couldn't completely hate her. But Serena had severe injuries and the bird just flew off.
+
+"Dammit!" Kalen growled, hitting his fist angrily against the floor. His eyes fell on the new shining sword on his hip. Something the magpie just casually dropped in his arms. Where did it even get it?
+
+He was thankful, but still so angry. What was the point of the sword now? It couldn't heal his sister or ease her pain.
+
+"Let's get out of here," he said cautiously, trying to lift Serena.
+
+But she winced in pain the moment he touched her.
+
+"I'm sorry, Kalen. Give me a moment to rest…"
+
+"Let's wait for a bit," Kiva suggested.
+
+"Wait for what? The bird? It's her fault this happened!" Kalen growled.
+
+"It was Liora who saved us, though. I never thought that magpie could be so powerful, just whooshing all those kobolds away!" Kiva said excitedly, her tail swishing from side to side.
+
+"Stop being so excited while Serena is in pain," he growled.
+
+She lowered her ears, her demeanor sinking. "Sorry."
+
+Suddenly, Liora landed right in front of him. He nearly screamed at her sudden appearance. This bird always appeared out of seemingly nowhere. It was somewhat creepy. He saw that she was holding a bottle of some sort in her talons. She pushed it towards Serena.
+
+"Is that… a potion? Where did you get that?" Kiva asked.
+
+Kalen grabbed the bottle and saw that it indeed was a potion. And not the cheap one either. The shimmering color within the bottle swirled with each movement, showing that this was a pure, undiluted potion. Seriously, where did she get it?
+
+But he wasn't going to question it now. He uncorked it and brought it carefully to Serena's lips. "Drink this."
+
+She took small, careful sips, drinking about a third of the potion. Her wounds healed right before his eyes. The bruises disappeared, and any open cuts closed up in a matter of seconds. He and Kiva both gaped in surprise.
+
+"So that's how potions work? I've never actually seen one working this quickly," Kiva said.
+
+"I-I feel better. So much better…" Serena said, touching the places where her injuries were. "No, it's like I was never injured in the first place."
+
+"Chak-chak-chak!" Liora said something in her weird magpie-like way.
+
+"Thank you, Liora. You saved me!" Serena said and affectionately patted her head.
+
+"What a magpie! I swear you can do anything—fight, talk, bring potions," Kiva praised.
+
+"Accept quests too, apparently," Kalen noted, staring at Liora.
+
+"Yeah… How did you do that?" Serena asked.
+
+Liora suddenly produced two pieces of paper out of seemingly nowhere. Yet another mystery—how could a monster have Inventory? And why? The only thing Kalen could think of was that she was a beastkin in disguise. But her mannerisms were very bird-like.
+
+But everything else was quite suspicious. It felt like every answer he learned about Liora, two new, more confusing questions popped up.
+
+Serena reached out and took the paper. "These are quest notes? Did you steal them?"
+
+"Steal," Liora admitted.
+
+"But how did you register them?" Serena asked.
+
+"Chak-chak-chak," the magpie said.
+
+That was no answer at all, but then again, what did they expect from a bird? She could mimic voices, but Kalen noticed that her vocabulary was quite limited to the words she heard from them. It was unlikely that she could piece together a proper explanation even if she wanted to.
+
+"Let's just get out of here," Kalen said, feeling mentally drained, now that the danger had passed.
+
+"We still have a quest to complete," Serena nodded.
+
+***
+
+After another trip to the annoyingly loud mines and delivering the necessary ores to the black, the group headed back to the Guild. It had been a tiring day for everybody, but at least nobody was hurt. Although everyone was suspicious of how Liora got her quests registered.
+
+They had many theories. That she had given the quests to Clara, and she had accepted. But that one was instantly dismissed as impossible. Who'd give a quest to a bird? They wondered if Liora could somehow hijack Guild's equipment. But nobody really knew how it worked, so it was nothing more than guesswork.
+
+Kalen even suggested that Liora was actually a disguised human and birdman, at which she cawed at him. If she could have a convenient form like that, then she wouldn't insist on remaining as a magpie in the city. As much as she loved her form, the odd looks people were giving her were irritating. As if it were forbidden to be a bird.
+
+Thankfully, those looks weren't as bad when she was together with Serena and others, and they also softened somewhat after she got her Guild Ring. But if she could take a human form and stop them from staring entirely, then Liora would have done that a long time ago.
+
+"Seriously, I have no clue. This magpie is a Divine in disguise or something," Kalen guessed.
+
+"Caw!" Liora objected. "I am not!"
+
+"I doubt that a Divine would be hanging out with us,"  Kiva pointed out.
+
+"Then how do you do the things you do? Where'd you get this sword?" Kalen asked, pointing to the sword on his hip.
+
+"Reward," Liora said in Mark's voice.
+
+"Reward? For a quest?" Serena asked.
+
+"Can a bird withdraw a quest reward?" Kiva narrowed her eyes.
+
+"Dungeon," Liora tried to correct them, but she didn't have a sample of someone saying loot. Except for Renir, of course.
+
+"You found it in a dungeon?" Kiva guessed.
+
+"Dungeon reward…" Serena muttered thoughtfully. "Maybe she means dungeon loot?"
+
+"Chak-chak-chak!" Liora said approvingly.
+
+"Wow, you can get things like that in a dungeon. How come we haven't gotten anything yet?" Kiva sulked.
+
+"Maybe we haven't gone in deep enough?" Serena guessed.
+
+"Yeah, we never really got anywhere thanks to those kobolds," Kalen mumbled.
+
+They entered the Guild Hall, evening sun filtering in through the windows. There was a group of rowdy adventurers sitting and drinking at the tables in the corner. The quest board was mostly free, as was the reception.
+
+Clara and Noira noticed them right away and smiled.
+
+"You found them, magpie," Noira smiled.
+
+"Found them?" Serena asked.
+
+"Your magpie flew in before lunchtime, looking for you, I assume. We said that you might be in the dungeon, and she took off. Is that where she found you?" Clara explained.
+
+"Actually, yes," Serena admitted.
+
+"Magpies are such intelligent creatures. It's amazing," Noira gushed.
+
+"No way! She really flew after you into the dungeon?" Mark joined the discussion, but his hands kept moving, writing something in a document in front of him. There was a group of adventurers standing at his desk, waiting to receive their reward.
+
+Serena, Kalen, and Kiva stood at the end of the reward line, though. They intended to withdraw the reward for the Glowshroom quest as well.
+
+"She did," Kiva confirmed. "Saved us from quite an ordeal!"
+
+Kalen gave Liora a stink eye, but didn't say anything more. It appeared that he still held a bit of a grudge that Serena got hurt. Luckily, that frown of his disappeared as soon as they received rewards for their quests. Or Liora's glowshroom quest specifically.
+
+Serena, Kalen, and Kiva all stared at the 50 copper coins. Weasel girl even reached out for them, but Kalen glared at her, and Serena collected the coin instead.
+
+[Your party has completed a quest. Experience gained.]
+
+[You've reached Level 8.]
+
+"Yes, I reached Level 10!" Kiva cheered.
+
+"Oh, yeah! I reached the dungeon. But it's not going up anymore…" Kalen said.
+
+"Oh, you've reached your first class advancement threshold," Mark noted.
+
+"Class advancement?" Kiva cocked her head curiously.
+
+"After reaching a certain level threshold, we can improve our class to a better one. Although I'm ashamed to admit that I don't know how…" Serena said.
+
+"Don't worry! The Guild has you covered. Class advancement can be done using a special stone we have in our Guild," Mark explained.
+
+"I can take over from here, Mark," Noira explained. "It happens to be my job to deal with class advancement, and I am free at the moment."
+
+Serena and others moved over, seeing that there were still plenty of other adventurers looking to withdraw their quest reward.
+
+Then, Noira went on a lengthy explanation of exactly how class advancement worked. She used a lot of fancy words and explained the possible class trees, but to Liora's understanding, it was kind of like evolution. Except less cool. You didn't get a new form or even new equipment, just access to new skills.
+
+Apparently, human skill pools were severely limited. They couldn't just go to the skill shop and pick out strong skills like Liora could. For example, even a human mage like Serena couldn't just pick whatever magic she wanted. She was limited to the two elements she had learned and basic spells at that. After her class advancement, she'd be able to pick more advanced spells.
+
+Being a human is quite limiting.
+
+Yeah, you have no clue how good you have it. I wish I could just browse through all the skills the skill shop offers you.
+
+Why don't you?
+
+It's your System, not mine. The only way I could browse was through direct contact, and only if you willingly allow me to.
+
+Maybe at some point when I'm bored.
+
+Liora quickly grew bored of Noira's lengthy explanation, which had switched to the individual classes available for Kalen, Kiva, and Serena. She decided to fly around the Guild Hall instead. Maybe one of the adventurers at the table would surrender their piece of cheese or jerky to her.
+
+Most people didn't really appreciate her presence, shooing her away instead. They thought she'd poop on them. How rude! Liora was a sophisticated magpie. She'd only poop on people who really annoyed her. Like that pompous blond guy who was ready to throw Kiva out of the city.
+
+This did make her wonder—what happened to that guy in the end? Was he rotting in prison right now? Or perhaps, he was forced to grovel before the important inspector? In either case, it was a relief that they wouldn't have to engage with him.
+
+Suddenly, the Guild door flew open with a loud crash. Everyone looked to see what the ruckus was about, only to see a very disgruntled-looking Damien standing there, clutching his fancy sword.
+
+"I have returned!" He announced loudly.
+
+Speak of the devil.

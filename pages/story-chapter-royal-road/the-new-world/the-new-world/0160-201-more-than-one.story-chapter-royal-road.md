@@ -1,0 +1,195 @@
+---
+id: b51caa97-7d2d-5ae4-8057-6ee187cc0311
+page-type-slug: story-chapter-royal-road
+title: "201 More Than One"
+slug: 0160-201-more-than-one
+partOf: the-new-world
+position: 160
+ownLength: 3827
+unit: words
+ownProgress: 3827
+publishedAt: 2019-04-16
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/353152/201-more-than-one"
+royalRoadId: "353152"
+markedReadAt: "2026-06-29T21:26:20.470Z"
+---
+
+I turned towards Chrona while pointing at the figure, "Wait, that thing is Emagrotha?"
+
+She shook her head, "Her voice comes from the pit, but it's warped."
+
+Torix pulled Althea, moving them behind the three of us. He smacked his staff against the ground while pulling out his grimoire, the pages flipping by themselves,
+
+"Prepare yourselves."
+
+Torix snapped me out of being stunned. I smashed my fists together, my gray armor denting under the force. My runes charged in a second, my mana saturating my blood for a singularity. Chrona and Krog stared at the pit, stunned into utter silence by the sight of it. From the top of Torix's staff, a white light rose to the top of the room, blasting it with a beam of illumination. The light exposed the brutality playing out before us.
+
+The Hybrid appeared in its full fury. It stood with a titanic frame smothered in gray wires and machinery. Bulbous, pulsing capsules of orange liquid rippled across the surface of its metal skin. It had no eyes nor face, though it was humanoid in shape. Its arms pierced into a pit of pale, lavender muck. Matrices of metal extended out from its hands into the lilac pool, reaching throughout the abyss.
+
+At the top of the hole, white gemstones floated on the surface. They connected together through a series of dark viens along the top of the pool. Shockwaves of energy pulsed through this demonic entity, ushering out plumes of waste with each passing second. Emagrotha was drowning Giess in a toxic wave of sludge.
+
+I couldn't understand how the hell this happened or why. In their last fight, everyone described a bright flash of white light which I assumed was nuclear in nature. It might not have been something to destroy Emagrotha, however. Maybe Lehesion wanted to send a message to anyone that tried to oppose him, using Emagrotha as an example.
+
+Maybe this was why he disappeared.
+
+As I inspected the pool, a mouth opened at its center, giving way to jagged teeth. A warped voice groaned out in desperation,
+
+"Kill me...Please."
+
+My stomach sank as Chrona burst into tears, falling onto her knees. She hyperventilated as she gasped, "I remember. I remember...He never killed her. He never killed her. He..."
+
+Krog had the opposite reaction, his chest puffing out as his eyes narrowed. He siphoned mana from his surroundings, rage pouring out from him. He growled,
+
+"Fight in her name, Chrona. Save her from being food for this demon."
+
+Althea pulled out her rifle, growing her arm into the complex arrays of metal. She extended a blade of bone from it, ready to tear the Hybrid apart. Torix flipped the pages of his grimoire, creating a bubble of air around Chrona's head. Her breathing slowed as she gained a measure of stability.
+
+As our team handled personal crises, the Hybrid tilted its head at us, twitching about at random. It cleared the facility weeks ago and never expected anyone to arrive. That was good. It gave us time to collect ourselves.
+
+Before the peace shattered, Krog slapped his tail across the face of Chrona. He shouted, "Now is your time to prove your worth to Emagrotha. We may save her from this horror. Rise, Chrona. Die in glory or live in regret."
+
+Chrona nodded, getting her shit together. Her eyes widened and dilated as she stood tall. She wheezed, "For my lady, I can do anything."
+
+As the tension reached its fever pitch, I analyzed the creature and found out what I could.
+
+Version 2.0(lvl: 18,928~ | Species: Unknown | Guild: Unknown) - An abomination, created from twisted minds that will be destroyed without mercy by Schema's forces. This creature is unbelievably tenacious and difficult to kill. There is little to gather from its existence outside of comparisons with the other Hybrid. It was far easier to analyze, carrying less analysis blocking measures.
+
+Considering this is a far more refined version and has been draining what appears to be a deformed version of Emagrotha, this isn't something you can hope to kill on your own.
+
+Good luck.
+
+Behind me, Althea charged arcane magic into her shots. Torix readied an elemental armada of missiles, his control of the staff already absolute. Krog amplified a cloud of blue mana around the creature's face, smothering it with sound and light. Chrona created a ball of blue energy above her head, a spacetime ripple pulsing around us. As the odd sense of temporal dilation passed over me, I reached out my hand.
+
+It was time to kill.
+
+I generated a singularity at the center of the monster's chest. At the same time, I condensed Event Horizon over the beast. A tiny gravity well formed before reaching a point of near infinite pull. The Hybrid stood within it, unfazed as its chest disappeared into a black void. Seconds passed before the black hole erupted in a wave of radiation and kinetic force. The facility quaked, rock chips and dust pluming outwards in every direction.
+
+Torix pushed his staff out sideways, parting the seas of dust. The wave cleared the room, showing the hybrid standing with orange blood oozing from its arms and legs. The destructive explosion hardly harmed it, its tenacity exceeding anything we'd ever seen. The only damage done to it was from the singularity pulling in matter from the monster.
+
+It reassembled itself, repairing in seconds. Removing its arms from the pit took more time than healing, however. Before it accomplished the task, we unloaded our full arsenal onto it.
+
+Althea bombarded it with harpoons of bone charged with arcane energies. The crack of each bullet behind me echoed through the room like a detonation of a grenade by my ear. Torix pummeled the creature with a medley of elemental spells, each of them designed to synergize with one another. They cast the Hybrid into a plume of sapphire shaded fire, ripples of purple lightning arcing out from the explosions.
+
+Krog roared out with magical enhancements, sending out another shockwave across the room. Every electronic screen shattered while metal ripped near the center of his booming outcry. It carried a deep sadness, chilling me to my bones. Behind him, Chrona opened her jaws, and a plume of purple fire erupted from her maw. The combined onslaught brought the Hybrid to its knees. It crumpled to bits and pieces, splattering across the ground. The moment our assault lessened, I learned why it did not fear us.
+
+It did not need too.
+
+The monster did more than survive. The vitality of the creation sprang forth, overwhelming and absolute. It reformed in seconds, its body pulling back together. Without its arms stuck in the pit, it leaned over, its orange pustules emptying. An orange aura of mana condensed over it at the shadow of the figure loomed behind it. It stood up to the edge of the room, breathtaking and abominable.
+
+Like a lightning berserker, it burst off the ground with speed unrivaled. I met its charge, detonating my runes as I dashed off the floor. I dipped into my mana, creating gravitational flows to enhance my mass and weight. I wielded telekinetic implants to give myself firmer footing. I prepared myself to stop its charge with all of my power.
+
+And I was nothing.
+
+It tore through the inertia of my charge as if passing through a wall of water. My teeth shattered. The bones in my chest collapsed. My lungs punctured. My blood splattered. My organs burst. I caved in, every piece of my body imploding under the onslaught of this monster's might.
+
+It was cataclysmic. It was something unmatched. Never before had I been so utterly devastated with a single attack. In one dash, this thing turned me into a soup of metal, my bones reduced to chunks. With my body splayed out against a wall, I glanced around, my vision blurry. At least it missed my head, as if it needed to aim.
+
+I peered off to my side, finding a rock wall behind me. The Hybrid saturated the stone with orange, augmentation mana. This reinforced the structure, making it hard and dense enough to crush me against it. In front of me, the Hybrid was digging his arms into my chest. Tiny wires dug into my body, like tendrils of fire squirming through my veins.
+
+This was the deciding point of the battle. If the Hybrid could consume me like this, we never had a chance to begin with. It would wrap around me and destroy me from the inside, feasting on my body while destroying the others. Understanding this, I aimed for one thing only.
+
+Keep the beast at bay.
+
+With the bit of consciousness I still had left, I tried moving my arms to grab the Hybrid's shoulders. They wouldn't budge. Knowing they were too broken to move, I attempted something else. I drilled out with needles of my armor, piercing into the body of the hybrid. Like a two-headed Ouroboros, each of us ate the other, competing to see who would win.
+
+It was a standstill, the both of us inching for ground. From its wires, mechanical prosthetics expanded, assimilating my blood and bone. My own needles extended outwards water freezing into a snowflake, sapping its vitality. In a display of horror, we tore at the other, the sound of tearing sinews echoing through the chamber.
+
+After holding my ground, I discovered I was at a loss. It was overwhelming me, though only by the slightest of margins, it overtook fragments of an inch at times. My loss was inevitable. Given time, it would consume me into itself, growing into a being of untold might.
+
+My loss mattered little, however. I wasn't the only one fighting this monstrosity.
+
+Aimed with precision, a spear cut through the head of the Hybrid, pinning it into the enhanced wall it created. Realizing I wasn't fodder it could devour in seconds, the Hybrid attempted latching off from me. Too late for that. Before it could escape, I molded my armor through my body, creating pillars of black ore through my limbs. These metal bars acted in place of bones, giving my muscles something to pull off of.
+
+With function returning to my limbs, I grabbed the monster. The thing swung its hulking arm at my braced neck. The metal bones of my spine caved in, bending under the Hybrid's freakish might. I kept my hold despite my arms weakening, stopping it from charging towards Althea and the others.
+
+A series of elemental shards pierced into the hybrid's body as I distracted the monster. Splinters of condensed ice, acid, and fire exploded from within the beast. These spells kept contained, not spreading like the previous magic had, protecting me.
+
+Another harpoon pierced the Hybrid's head, weakening the grip of the creature. The abomination snapped the bones spears pinning it down, turning towards the group. As it did, I drilled my armor into the enhanced wall behind me. I was the only one of us that could come in contact with this thing. Holding it down was absolutely necessary to prevent it from assimilating our team.
+
+With that in mind, I used its own magic against it. I held us in place with several dozen cords of dimensional fabric. The Hybrid took a step forward, halted by the metallic wires. The Hybrid turned its head, the bones spears clattering against the floor as it inspected my trap.
+
+It bent over, dashing forward in a split second. Three cables snapped, letting out violent, cracking booms throughout the room. The gray and orange monstrosity bent over again, dashing and snapping six more cables. It bent over one more time, about to break my holds. Before it leaped, I dipped into my health, generating a powerful gravitational panel. Unable to resist, the Hybrid and I fell towards the augmented rock wall behind us both.
+
+It landed beside me, both of us defying gravity. I scrambled for a firm grip on the creature before holding down with everything I had. My armor coiled around the beast like an anaconda around a crocodile. The Hybrid's pulsing capsules of orange wriggled on the surface of its body, glowing with augmenting mana. I braced myself for an empowered leap, hoping to hold it down for a few more attempts.
+
+The Hybrid managed to stand sideways off of the wall we were on. Orange arcs of lightning ripples across the surface of the bulging, mechanical limbs on its body. It bent downwards, the strength in its body both utter and complete.
+
+It leaped with power untamed.
+
+Like a bird flying through a spider web, my cords and arms didn't stand a chance. The muscles and ligaments holding my arms and legs together snapped. Several of my bones broke. The metal ropes popped like firecrackers as they ruptured. I slowed the beast down enough for the others to react, however.
+
+By now, Chrona already activated her time field. Using a tail whip, Chrona smashed the blackened blade of her armor just under the belly of the beast. This diverted the course of the monster's flight. The Hybrid barreled just above Althea's head instead of at her.
+
+Like a giant possessed her body, Althea grabbed the arm of the Hybrid, pulling it to the ground with a low growl. The temporal dilation made her voice deeper than usual as the creature reinforced the room's floor beneath it. A shockwave ebbed from the impact, the bones in Althea's body creaking under strain.
+
+Unable to move yet, I watched as Althea lifted her rifle into the air and sliced the creature's head apart. Sparks shot out from the rock, her blade cleaving through solid stone. The Hybrid kept moving, unphased by the force of her blow.
+
+As the Hybrid lifted off the ground, the floor remained unharmed despite the power of the collision. Outside of Althea's slice mark, this creature was preventing the entire room from collapsing for some reason. Perhaps it was to keep Emagrotha alive to harvest her. Either way, we could use that to our advantage.
+
+Unable to move yet, I watched as the Hybrid moved like a twitching insect to Althea. It grabbed its hands onto Althea's left forearm like a praying mantis. My stomach sank as I willed my body to run, but I hadn't regenerated yet. My breathing quickened as I shouted,
+
+"Get it off you."
+
+Althea grimaced, grabbing her rifled in her right hand. With a shocking level of resolve, she sliced off her left forearm, amputating half the limb. Torix reached out with his staff, casting an emerald snake of energy. The green serpent slithered into Althea's amputated hand.
+
+The limb sprouted eyes like a snail, glancing around in panic. Torix banged his staff on the ground, blue mana ebbing from his necromantic creation. In a burst of white light, the Hybrid was flung backward with a loud crack.  Giving our group distance to act, Althea chugged two health potions while Chrona and Krog shot out plumes of burning fire at the hybrid. Red and purple flames mixed in an inferno of swirling colors. Stone melted as I stood up from my injuries, ready to fight once more.
+
+I dashed across the room, reaching the Hybrid as the flames stopped. It kneeled on the ground, attempting to stand. I sprinted into the monster, kneeing the Hybrid's head. I knocked it off balance, but I bounced backward.
+
+The monster turned to me, annoyed at my interference. I took a step back as it lashed out at me. The tip of its sharpened finger slit through my chest plate, letting out a series of sparks. Flashes of orange scattered across the room as Althea pierced the beast with three harpoons to its side.
+
+As the freak distracted, I charged my mana for another singularity. The others bombarded the Hybrid with acidic needles, frozen fires, and kinetic shockwaves while gaining distance from it. As their assault lessened, Althea hit the knees of the Hybrid with a spear apiece. It fell forward but regenerated in seconds.
+
+As it stood back up, the others readied for its charge. I shouted, "Pin it in place."
+
+Althea growled as she fired off two more shots into the creature's feet. Torix twist his staff, creating a circular formation of red ice. Torix slammed his stave down, giant, freezing spines piercing into the Hybrid's chest. The Hybrid shook his shoulders, snapping the pillars of frozen acid. As he uprooted his feet from the bone javelins, the Hybrid roared before bending down.
+
+Too little, too late.
+
+A singularity formed at the center of its chest once more. The creature siphoned into a growing ball of black. I dipped into my reserves of health, feeding my spell to maintain it. After the black hole's radius reached the size of a beach ball, it exceeded my own control, imploding with a tectonic explosion.
+
+The cavern quaked, the rock crushing around us. I braced it with a gravity well, preparing for the worst. I didn't need to worry. Lavender ooze from the pit poured from the cracks in the walls. The gunk held the place together, keeping the fight in our hands. Glancing at the pit, I found the jellied Emagrotha grumbling,
+
+"I will maintain your proving ground. Now rise."
+
+Despite decades in her ruined state, being experimented on then eaten over weeks, Emagrotha was still somehow sane. It impressed me seeing her will in action. Her reputation didn't disappoint.
+
+Without having to worry about our arena, I prepared another charge of my singularity. I shouted out,
+
+"It's trying to protect this place. Abuse that fact."
+
+The others nodded as what little remained of the Hybrid regenerated. Its lower legs were all that was left as the dust settled. Unyielding and tenacious, it grew out of the stumps it left behind, wires entangling over orange capsules of energy.
+
+The others rallied another round of spells, unleashing devastation over the beast. Harpoon after harpoon pierced vital spots while Torix shot a vibrant variety of magic at the creature. Plumes of fire ejected from the monstrous maws of Krog and Chrona, devastating the Hybrid further. After their assault died down, I charged in, distracting the monster until our team prepared another offensive.
+
+I took massive damage each time I did so, walking away with broken legs and arms. I bought enough time for each succeeding volley though, and I gained awareness for the Hybrid's tactics. It lacked any finesse or technique with its attacks, wildly swinging its limbs with abandon. Unpredictable and hellishly strong, they struck like runaway trains each time they landed on me.
+
+Even as the strikes turned from blurs to patterns of movement, I couldn't keep up with them. They wore me down, my inability to match its speed and power crippling. Before I fell to its rush of blows, Chrona created a temporal dilation field over me, slowing the monster. Just as before, I was immune to the slowing effect, however.
+
+I sped up by comparison to the Hybrid, unaffected due to my status as a living dimension. The tide turned from desperation to one of executing on tactics, each of us cycling between our competencies. This continued until the Hybrid shrunk two feet in size. We were winning.
+
+Though it weakened a little with this minimizing, it still carried enormous clout, able to tear me apart with ease. At the same time, watching it weaken bolstered morale by leaps and bounds. This damage came at a steep cost, however.
+
+The gialgathens ran out of breath and ambient mana, dipping into their lacking personal reserves. Torix emptied out his mana pool, drawing from the gems I gave him. His casting gained jagged and rough touch to it, Torix howling and growling at the Hybrid like an animal. I might've even laughed if my life wasn't on the line.
+
+Althea's spear generation slowed as well, her metabolism struggling to keep up. She injected a series of alchemical stimulants to keep up with the demands of the battle. They took their toll, reducing her precision and calm. She kept herself together as the demands of battle magnified.
+
+Chrona's time field wobbled over time, unable to sustain continued combat. The Hybrid's smaller size and strength were the only reason's I hung on, my reaction times stressed to my limits. The monster clipped me with its jerking, trembling attacks. My regeneration was stressed to its utmost limit, all of my mana used to heal my injuries.
+
+As this wore on, a grin widened on my face. This was my specialty. The Hybrid looked like it could fight on forever, but so could I. I weaved through strikes, a flash of movement. I pressed the attack, ripping shots into the monster at opportune moments. I thrived in the battle, my armor glowing red then yellow as I turned my body into a furnace.
+
+I wasn't wasting mana for appearance's sake either. I scorched the abomination anytime we touched, my body more resilient to extreme temperatures than it was. This proved to be vital; once I glowed, my armor's draining ability exceeded the Hybrid's in this state. Without the ability to drain me, my tactics changed.
+
+I still couldn't contain its might of course, but this gave me an advantage to work with. Instead of attacking with my fists, I grappled the creature with my basic wrestling skills. I stuck myself to the monster like glue, the Hybrid shaking me off like swatting away a fly. Each time it weakened. Each time I remained relentless.
+
+I paced myself, my own breath quickening as I reached the limits of my movement and magic. I fell into the flow of battle, muting everything else around me. The sounds of battle dimmed. My vision narrowed. All became motion, my every act working with the intent to kill this blight on the world.
+
+The others strained as we burned through our resources to kill it off. After an hour of battle, the hybrid was dying. I dwarfed it by now. Though it was still stronger somehow, I compensated with technique and experience, beating the monster down.
+
+Althea and the gialgathens offered up inconsistent but necessary support during this process. The number of times a well times harpoon or plume of fire saved me was countless. Torix kept channeling the mana I gave him in gemstones as well. He offered key support, canceling strikes from the Hybrid that would otherwise land.
+
+Through a spare trip with a vine of earth or a slice of shadow grabbing the Hybrid's arm, Torix made his presence known. As I corned the Hybrid and blocked off its escape, a mouth opened across the Hybrid's face. Two eyes expanded from it, peering at me. As if understanding it would inevitably die, it tried a different tactic.
+
+A clear, educated voice rang out from its mouth,
+
+"Do you believe this is honestly necessary?"

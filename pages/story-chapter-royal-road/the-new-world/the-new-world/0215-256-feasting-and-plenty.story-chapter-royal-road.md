@@ -1,0 +1,227 @@
+---
+id: a38a0ab2-ceed-5d45-b365-2bd3f162ca48
+page-type-slug: story-chapter-royal-road
+title: "256 Feasting and Plenty"
+slug: 0215-256-feasting-and-plenty
+partOf: the-new-world
+position: 215
+ownLength: 2993
+unit: words
+ownProgress: 2993
+publishedAt: 2020-05-18
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/497987/256-feasting-and-plenty"
+royalRoadId: "497987"
+markedReadAt: "2026-06-29T21:28:22.791Z"
+---
+
+Before feasting, we still had a job to do. We got the troops out of Tholosa without incident, our evac successful. Our rate of saving gialgathens plummeted from the last city, the Hybridization too far developed for most of them. We still saved several dozen, and every blighted one we killed was one less we'd find on a different battlefield.
+
+It still tanked morale seeing how effective we handled the operation yet also finding fewer saved. Bolstering people around saving others was easy. Getting them excited to kill was something else altogether. That's what we did more now than ever. Go in, kill them all, then leave.
+
+It was a bloody task, and it suited Vikings more than a developed society. After all, not every civilization glorified war, the gialgathens included.
+
+That's why the feast I threw for Hod would result in a much-needed confidence boost for the soldiers.
+
+It made our success more concrete, and it might even give the troops some camaraderie. Celebrating brought people together in that way. After pitching the idea to Torix, the ancient lich agreed with my idea. He even helped me organize the event.
+
+Adding to the impending hoopla, I injected a reward ceremony. Krog was all for it, and he helped spread the news. That excitement surprised me. After seeing a lack of animation in the gialgathens, I expected them to dismiss the event altogether. Maybe they didn't see the systemization as a reward in and of itself, and glorifying that transition was necessary.
+
+That made sense to me after a bit of thought. The gialgathens were strong by birth, and they didn't really need Schema to be fierce fighters. It helped, but compared to a human's transition, it was paltry by comparison. Gialgathens might value social recognition more than the actual strength of the system.
+
+Well, whatever floats their boat.
+
+Either way, many of our gialgathen troops were being initiated into Schema's system, which was a massive boon for us. Each soldier wasn't exactly comparable to Krog or Chrona, but they held their own. They were leveled, powerful troops at our disposal. That kind of progression deserved praise, especially during desperate times.
+
+With that in mind, I got some medals that enhanced health regen and the like ready. Basic as they were, they gave the soldiers a significant boost to survivability. That gave me plenty to do before the celebration began.
+
+Having spent the entire afternoon blacksmithing, I suspended a ball of several dozen medallions over my shoulder. The gravity well kept them orbiting around an unseen center, a constellation of umbral metal. It gave me a few stares as I walked through Elderfire. Well, more stares than normal at least.
+
+Reaching the ceremony's outskirts, I discovered a bit about the gialgathens. They preferred nighttime parties, the sun drying them out in an unpleasant way. They scattered torches colored like gold, silver, and copper across the ground, not really used for light. Above, dozens of gialgathens soared through darkened skies.
+
+I joined them, curious about what they were doing. Some flew as a backdrop to talking. Others soared for the sense of wonder that flight gives anyone living. A few even played a game of accuracy and strength. It was a team game where two gialgathens would smack one another's tails. The end goal was to lob one gialgathens into a circle on the sand.
+
+They strategized for it. One flying salamander stayed still, the other let the momentum of the tail smack launch him into the distance. They would then let themselves fall where they would.
+
+It was interesting to watch, each team trying out different tactics. At one point, one of the gialgathens tried using his wings to dart into a circle, which resulted in his immediate loss for that round. Watching wasn't as interesting as participating, though, so I moved on not long after.
+
+I continued flying while gazing down over the torches. Moments later, and I discovered their purpose. They aesthetically lit the jungle, revealing long shadows of trees and the underbrush. Their light leaked through the dense canopy of my quintessence forest as well. These lights mirrored stars of all colors. At that moment, I didn't know where the sky ended, and Elderfire began.
+
+It was beautiful.
+
+Around a few of these torches, groups of gialgathens bowed their heads. Mana channeled through them, in and out with a steady beat like waves on a beachside. It reminded me of how gialgathens used to drain their surrounding manas. Now they took it in before releasing the energy back into the world.
+
+It was an interesting exercise, something I might try later. If anything, it mirrored meditation of the mind, the act carrying the same kind of reverence and focus. Past those meditation circles, I neared the award ceremony.
+
+We agreed earlier to use the ancient temple in the middle of Elderfire as the location for the commemoration. It stood as a symbol of a prosperous past for the gialgathens. We figured it was as good a place as any to celebrate their future.
+
+Preparing the site, Chrona and Torix hung up various glassworks, similar to the sculptures in Tholosa. Made from superheated breath, these baubles were well developed, detailed fixtures. Chrona hung them up while other gialgathens went behind her, placing torches behind the glass.
+
+The glass bounced the torchlight through their crystalline forms, creating shining figures in the dark. Torix kept his efforts on the legitimacy of the ceremony, organizing the rewards and speeches. As I floated down beside him, he turned towards me,
+
+"Ah, I see you've brought the medallions. Excellent. That shall make this process carry an impact it otherwise wouldn't. After all, what is a reward ceremony without a suitable reward?"
+
+I turned towards several tables lined with food,
+
+"Eh, probably a glorified party...It's a relief to see the gialgathens getting to enjoy themselves either way though. Saving them wouldn't mean much if they had to live in misery all the time."
+
+I tapped a glass fixture, a nice ring resonating through it,
+
+"It's amazing what they can do when they put their mind to it. To be honest, they just needed a push."
+
+Torix waved his arms, "Save your inspiring words for the ceremony. You'll be the one handing them their emblems after all."
+
+After letting out an internal groan, I tapped the glass fixture a few times, noticing the consistent ringing it gave out despite its complex shape. A few more light touches and it sounded more like an instrument than a decoration.
+
+Chrona paced up behind me, her silver scales taking on an orange hue from the torchlight,
+
+"Isn't it amazing? Glass artisans can not only create glass that is beautiful, but they may also craft them into instruments at the same time."
+
+I raised an eyebrow, "I've seen something sort of similar in my world, but it wasn't quite this...developed."
+
+Chrona grinned, showing large teeth,
+
+"It is our specialty. We need no furnace nor tools, our tails honed to sustain through the molten sand. With careful flicks of the tail and a keen eye, we may even create instruments designed to refract light during specialized ceremonies."
+
+I raised my eyebrows, "Really now? That sounds amazing."
+
+Chrona tilted her head up, "It is something we hold pride in. To be blunt, we intend on having a few of our remaining artisans show you one of these displays tonight. It is thanks for our savior, the Harbinger of Cataclysm."
+
+Those gave me a smile I couldn't stop,
+
+"Huh, you make that sound much less...evil."
+
+Chrona took a deep breath, "You've done much for us. We would like to repay you as we can. Perhaps what we lack in martial might we may compensate for with our culture."
+
+Most gialgathens must think humans are complete monsters if I'm their only reference. I shrugged,
+
+"Eh, living is more than enough of a reward for me, but this is a nice touch."
+
+Chrona turned towards Torix, "When shall this ceremony commence? I grow more nervous with every passing moment."
+
+Torix opened his grimoire, channeled some mana through some runes, then visualized a timer above our heads. The old grouch seethed,
+
+"Do you see that clock? It reveals the exact, precise time the ritual begins. Stop your pestering of me."
+
+Chrona frowned, "Ah, excuse me. It's been a long time since I've performed in front of others. It has me on edge as if I were going into battle."
+
+I crossed my arms, "Wait a minute, perform? You're the one doing the glass band thing?"
+
+Chrona blushed, "I, along with a few others. Given my status as the guardian of Elderfire, I have time on my hands. I've been working on it for the past few weeks. I pray it doesn't displease you."
+
+"Pshhh, what? Hell, it feels great to have any kind of recognition period. It should be fun to watch either way. Besides, I've never seen one of these shows, so I won't be able to catch your mistakes."
+
+I nudged her with my elbow, "Yenno, assuming you make any."
+
+Chrona scoffed, "Please, I'm well beyond such hatchling mistakes. It's more the design of the show I worry about."
+
+Torix tapped my shoulder, interrupting our conversation,
+
+"I need your assistance with this line of the speech. I was thinking, 'We'll turn their corpses into food.' What do you think?"
+
+I facepalmed, "Sorry Chrona. Let me help Torix for a minute."
+
+After getting the speech in order, we organized the event. It was simple, satisfying work. I long forgot what hosting a party was like, and this was a refreshing change of pace. Of course, I rushed through the tasks using gravity wells, several at once, in fact. It reminded me of when I used to do this kind of thing by hand.
+
+That sense of progression was nice. During that time, I reviewed over a massive document Torix sent me. It detailed who I was rewarding and why. I researched it while we rounded the gialgathens up. During that time, a few helped Chrona set up the crystal band of sorts, with two gialgathens standing at the sides.
+
+As the ceremony began, Chrona and her bandmates readied themselves on the temple's courtyard. Their glasswork glistened as the two gialgathens at the side blew plumes of yellow flames. I watched from the temple steps, sitting with Kessiah, Althea, Hod, and Torix. With the old crew together, we relaxed as the gialgathens began their song.
+
+They tapped the oddly shaped, glass instruments in different places. This created a pleasant, low ringing sound. A few seconds later, one of the gialgathens set up the main backdrop for the song. It was a series of six notes, going up and down in tone. This created a nice flow before another gialgathen to Chrona's side added in ambient tones.
+
+The hollow, percussive sounds filled in most of the gaps in the melody. With a spring-like, airy sounding song forming, Chrona began the detailed work. She started slow, raising her sounds into the surrounding cacophony. The gentle, elegant pitches gave way to crashing throngs as she used much harder, sharper taps on the glass.
+
+The spring song turned to summer, heavier and fuller than before. Taking on tones of life, the complexity rose into the stratosphere. From the sides of the band, the yellow fires added visual splendor to the song, each gialgathen carefully monitoring their flames. Above them, two more of the beasts flew in intricate, detailed patterns.
+
+Their flight paths carved shapes, letters, and runes. This added an element of showmanship. The heart and soul of the song lived through Chrona, however. In order to keep up, she hastened the time around her, speeding herself up. The temporal dilation allowed her to create inhumanly fast cords.
+
+It was impressive, even to someone used to more modern music. I ended up wide-eyed and slack-jawed as they finished with an intense crescendo. When the echoes of the song finished, Chrona took heavy breaths while the other gialgathens looked relieved that they didn't mess up.
+
+I stood up and began clapping. It was damn good and something I hoped to see again. Others joined me, the metallic rings of my hands getting lost in a throng of claps, shouts, and deep, bellowing roars. Chrona bowed with her head, along with the other members of the band.
+
+After they finished, we lined up the system initiated. With two hundred lined up, we didn't have long to celebrate each of their successes. I was the one recognizing their achievements, and I honestly couldn't remember their names nor faces. At the same time, Torix handled that already with that large document from earlier.
+
+Using the system prompt as a guideline, I was able to be surprisingly personal. It included their names, significant others, and their major contributions in each specific battle. It also kept a list of lost loved ones on the battlefront for each individual, along with a few heartfelt lines for each. This gave me a paragraph's worth of material on each of them. They couldn't see the prompt either, which helped tremendously.
+
+By the end of the ceremony, even I got a little emotional seeing their responses. To me, this was just some political stunt meant to boost morale. To the soldiers caught in the line of fire, this was a celebration of their work, grit, and sacrifice.
+
+I didn't expect it to work as well as it did. A lot of that was owed to Chrona's amazing performance. Her show framed the ceremony as something grand, and even I felt the effects of that illusion. I had to learn how to play one of those damn things at some point, though I'd probably shatter the glass without so much as trying.
+
+Either way, we finished with the feast, and boy did we need it. Gialgathens drank some weird brew that mirrored alcohol. There really wasn't anything strong enough for Torix or me, so we sat on the sidelines. We made sure everything went smoothly, which for the most part, it did.
+
+Hod ended up eating until he was swollen. A large part of that must have been his eldritch half, spurring him towards consumption. Krog, Kessiah, Chrona, and Schema's personnel exchanged war stories. Kessiah mentioned how she tackled a Hybrid off of Krog at one point.
+
+It was inspiring to hear how far she'd come.
+
+At the same time, I stayed as an outsider during it all. It was the role of a leader in some ways, being viewed as different and being unable to mingle. On the other hand, Torix was the same, though for different reasons.
+
+He stared longingly at the food, something he desperately desired. After a few minutes, he shook his head,
+
+"It is a sad thing to lose a sense. Though at first, I thought little of the delights of feasting, I must admit - it does pain me to watch it so closely."
+
+I shrugged, "I was never one for eating."
+
+Torix scoffed, "You've nearly eaten all of my rations, in fact."
+
+I scoffed, "I don't know if I'll eat after they're gone. I don't need food anymore."
+
+Torix nodded, "Perhaps one day you'll find yourself desiring food once more. Do me a favor and enjoy it enough for two should the urge strike you."
+
+"Will do."
+
+We watched the others enjoy themselves for a few more minutes. I turned towards Torix,
+
+"There aren't many more gialgathens we can save, are there?"
+
+Torix stared forward,
+
+"Few remain."
+
+I nodded, "Yeah, I guessed as much. They've nearly finished the Hybridization of them all. We aren't saving people as much as culling their numbers some before Giess's glassing."
+
+"That is our intended purpose, outside of saving who we can. It's unfortunate we couldn't have saved more, though we did what we could given our resources. I'd say we did a miraculous amount of work considering."
+
+Torix's eyes turned from blue to black,
+
+"At the same time, we made enemies with a rather potent enemy faction. We may come to regret it."
+
+I sighed, "I'll be honest, it made me sick to my stomach thinking about it sometimes." I gestured to the others,
+
+"When I look at this though, it makes me feel better."
+
+Hod did a bouncing dance to a backdrop of music, his swollen belly bouncing to the beat.
+
+Torix scoffed, "Ah, yes, the most excellent of energizers. I feel so rejuvenated seeing Hod do...whatever that is."
+
+I remembered why Hod had his mind so shattered. I murmured,
+
+"Hey man, try to give him a break. He's doing the best he can."
+
+Torix stared at me, making sure I was serious. After seeing I was, he went back to staring forward. He sighed, "Well...perhaps you're right."
+
+Another moment of comfortable silence passed. Under the surface, both of us wished to get to work. Even taking this much of a break irked me. The others here were unchained from the drudgery of their everyday. We were, in turn, chained to this freedom, each of us itching for more.
+
+I crossed my arms, "How many more sieges do we have left before the glassing?"
+
+Torix deadpanned, staring forward while planning them,
+
+"Three."
+
+I pushed myself off the stone floor, turning towards him, "They won't plan themselves, will they?"
+
+Torix flicked his wrist up, pushing himself up with magic,
+
+"I doubt they would. Perhaps we should intervene?"
+
+"Let's."
+
+I turned towards his temple lair, walking up the steps. Torix followed, each of us ready for a long night ahead. As we passed the halfway point, a call opened in my status. I went to hang up, but I decided to check the caller on a whim.
+
+My eyes widened as the name revealed itself.
+
+"Obolis Novas, huh? I wonder what he wants."
+
+Torix leaned over, "Ah, I do as well."
+
+I pointed towards the temple's entrance,
+
+"Well, let's find out."

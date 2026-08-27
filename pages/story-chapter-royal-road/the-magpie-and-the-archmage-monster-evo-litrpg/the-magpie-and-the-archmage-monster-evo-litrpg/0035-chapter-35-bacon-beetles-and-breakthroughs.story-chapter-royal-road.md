@@ -1,0 +1,239 @@
+---
+id: 44f409fa-b78d-5c91-b369-2325f2bb6ebb
+page-type-slug: story-chapter-royal-road
+title: "Chapter 35 – Bacon, Beetles, and Breakthroughs"
+slug: 0035-chapter-35-bacon-beetles-and-breakthroughs
+partOf: the-magpie-and-the-archmage-monster-evo-litrpg
+position: 35
+ownLength: 2146
+unit: words
+publishedAt: 2025-10-15
+link: "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2677649/chapter-35-bacon-beetles-and-breakthroughs"
+royalRoadId: "2677649"
+---
+
+"Sister, please calm down!" Kalen called in a vain attempt to calm Serena.
+
+"She's gone! Oh, no! What if a monster got her? You should have watched her more closely, Kalen!" Serena wailed.
+
+"Will you calm down? It's just a bird. I bet it just flew away when the sun rose," Kiva said.
+
+"She's right. You can't expect a bird to remain chained to you," Kalen agreed.
+
+Liora flew up to the scene and, for a second, wondered whether she wanted to insert herself into the mayhem. Serena was frantically looking around while Kiva and Kalen both looked exasperated. Initially, she had thought that the older woman was calmer than the other two, but maybe that was a false impression.
+
+However, Liora also noticed some eggs and bacon cooking on the fire. That quickly changed her mind. She wasn't about to miss out on some good breakfast and flew to the group.
+
+"Oh, look, there she is. Will you calm down now?" Kiva shook her head.
+
+Serena's features washed over with relief, and she held out her hand for Liora to land on. "You're alright!"
+
+Liora cocked her head curiously at the woman. She seemed to realize that her outburst was over the top, and she cleared her throat. "Right. You must have gone for a morning flight. I apologize for my behaviour."
+
+"I swear, Sister… You and cute animals. It's like you become a completely different person," Kalen sighed.
+
+"Let's eat breakfast," she said, ignoring her brother, and distributed the eggs and bacon to everyone.
+
+Liora wasn't forgotten, getting a fair share of the goodies. The crispy and rich bacon, along with the fluffy eggs, tasted so good that she was ready to cry from bliss.
+
+Is the food really so good that you're willing to stick with these weirdos? That beastkin has been staring at you for a while now.
+
+Liora had definitely noticed that. Only she couldn't figure out whether the Kiva was jealous of her sizable portion of bacon and eggs or whether she just didn't like her. She decided to keep a good distance.
+
+It is very good. Well worth the risk.
+
+It's just bacon and eggs.
+
+You say that as if I could get it just about anywhere. Besides, you don't get to whine about what I eat. You don't even need to eat.
+
+After breakfast, the group quickly dismantled their camp and set out on the way. But it didn't take long for Liora to realize that humans were incredibly slow. The distance that would take her five minutes to cover took them more than half an hour.
+
+Ugh, how do you people get anywhere at this pace?
+
+You were a human, too. Why are you so surprised?
+
+We had cars, trains, and buses to get places quickly.
+
+I don't know what these "cars" and "buses" are, but we do have trains.
+
+Oh, really?
+
+Yeah, there's a train station in Cyene. However, to use it, you first need to get there.
+
+Ugh…
+
+"Is everything alright?" Serena asked as Liora inadvertently shook her in disappointment.
+
+"What?" Kalen asked.
+
+"Skye seems to be peeved by something," she replied.
+
+"Who is Skye?" He and Kiva asked in unison.
+
+Yeah, who is Skye?
+
+"I named this magpie Skye," Serena replied proudly.
+
+That is not my name.
+
+These people have no naming sense. Clearly, the name I gave you is superior.
+
+You wanted to name me Nugget…
+
+Hey, but I at least asked you what name you wanted.
+
+"Wouldn't she already have a name?" Kiva pointed out.
+
+"Yeah, but we don't know it, and it would be odd to refer to a magical familiar as just magpie," Serena pointed out.
+
+Liora would have been annoyed by having a random name thrust upon her, but it wasn't like she could complain without giving herself away. Suddenly saying, "Hey, actually my name is Liora," was just asking for trouble, even if she was labeled as a familiar. She didn't feel like arguing. Instead, she allowed the trio to bicker among themselves as she slowly drifted off into dreamland.
+
+***
+
+Several days passed in relative peaceful monotony. The adventurers would travel during the day, while Liora would mostly nap on Serena's shoulder.
+
+From the occasional conversations, she gleaned that it hadn't been long since Serena and Kalen began their adventurer careers. Apparently, they hadn't even gotten their badges, which meant that they weren't even official adventurers yet.
+
+Kiva joined them along the way, mostly by accident. She had tried to steal the deer Kalen had hunted and run away with it. But Serena had caught her before she could. Liora had no clue why they would let the thief join their group, but she suspected it was because they lacked manpower. They didn't really have anything else to steal besides food, and if they shared it with Kiva, then she was willing to stick around.
+
+During the night, Liora would sneak away to do some training. She practiced her skills and tried to experiment more with combinations. First, she tried to combine Air Dive and Poison Shot. The result was an indescribable mess, which left her feathers covered in poison.
+
+[New trait unlocked – Poison Resistance (lesser)]
+
+[Poison Resistance (lesser) – At [Basic] levels lessens the effect of weak poisons on your body.]
+
+That's one way to unlock a trait.
+
+Renir sounded thoroughly amused by her blunder.
+
+What even is this skill? It lessens the effect of weak poisons? That's basically saying that it doesn't do much at all.
+
+After that, Liora tried combining Poison Shot with Peck. The result was equally messy with poisonous sludge splashing out from the place where her beak Pecked into the surface. Some of it went inside her beak, so she had to fly to a nearby stream and rinse it out.
+
+This is stupid.
+
+You're trying to combine a projectile-type skill with a melee skill. Obviously, the results won't be great.
+
+Then why didn't you say so sooner?
+
+It's no fun if I tell you everything. You need to be able to learn things on your own.
+
+Liora wasn't happy about his answers, but couldn't deny it either. But his words did trigger an idea. She tried combining Air Dive with Peck.
+
+[You've successfully formed a skill <Skypierce>.]
+
+The resulting impact point created a deep, narrow crater in the ground, which was much deeper than her body size. She couldn't believe that she could cause so much destruction.
+
+Now we're talking. Very good.
+
+This is so much better than Air Dive. Should I combine Peck and Air Dive permanently? Combining skills in the middle of battle takes a lot of concentration.
+
+It does, but if you lose Peck you'll have no close-range attack.
+
+Ah, that's a valid point. Maybe I should find a stronger skill to replace it with. Do you have any ideas?
+
+I do. You could always check the skill shop and—
+
+Nope, rejected.
+
+Let me finish! Check the skills for inspiration. Maybe you can figure out how to do a skill by seeing its name.
+
+Oh, that's actually a good idea.
+
+Of course it is. Do filter only close-range melee skills. Otherwise, we'll be reading skills for the rest of the night.
+
+Liora commanded the System to show the appropriate skills available for her.
+
+[Close-range melee skills available for purchase]
+
+Wing Bash – 20 glimmerstones
+
+Lunge Strike – 30 glimmerstones
+
+Talon Slash – 35 glimmerstones
+
+Hook Rend – 60 glimmerstones
+
+Aerial Maul – 100 glimmerstones
+
+Spiral Strike – 150 glimmerstones
+
+These prices are insane.
+
+We're not buying. We're just looking, remember?
+
+Liora still couldn't help but feel that the prices the System demanded were exorbitant. It wasn't like glimmerstones grew on the trees. It took her a moment to calm down and look at the skills earnestly.
+
+Spiral Strike must be the skill that the owl used on me. It felt very strong. Let's learn that!
+
+Slow down. It's not like you can just pick a skill and learn it. You have to be able to execute it. Can you continuously spin in the air and maintain enough sanity to see your enemy and strike them?
+
+Liora didn't need to think much to know that she couldn't do that. Yes, her aerial mobility was great, but spinning like that? It didn't even seem physically possible.
+
+No…
+
+Exactly. Besides, you need something to replace Peck with. You want to combine it with Air Dive, no?
+
+Yes.
+
+So which is the best option here?
+
+Liora felt peeved that he was treating her like a child, but didn't argue. Looking through the list carefully, she understood what Renir was saying.
+
+Isn't Lunge just an upgraded version of Peck?
+
+Exactly! You should have no trouble learning that.
+
+Liora dismissed the System screen and got to work. First, she tried lunging on the ground by running forward and then Pecking whatever happened to be in her way. That didn't yield any results. She then tried flying with a distinctive lunge at the end and Pecking into a tree. It left a sizable hole in the trunk, but there was no notification of a new skill learned.
+
+Try using it against a monster. It might not count as an attack if you're just pecking trees.
+
+Liora found a beetle monster about the size of a cat, crunching away at a poor tree. She sneaked up on it with her silent flight and lunged at it, delivering a powerful Peck to its carapace.
+
+[New skill obtained – Lunge]
+
+[Lunge – At [Basic] level provides you with a small burst of speed, followed by a Peck which inflicts 250% damage to your target.]
+
+Liora celebrated while the beetle didn't look happy in the slightest, buzzing angrily at Liora and reaching for her with its mandibles. However, it was far too slow for her. She dodged out of the way and Lunged at it again, leaving another nasty crack in its carapace. A few more Lunges later, and the beetle was defeated.
+
+[You've defeated <Tree Devourer Beetle – Level 8>. Experience gained.]
+
+Wonderful. Now I suggest training your Air Dive to adept level on these beetles and combining it with Peck permanently.
+
+After retrieving the glimmerstone from the beetles' carapace, it was exactly what she did. As it turned out, she didn't have to wait long—after disposing of five more beetles with Air Dive, the skill leveled up. Liora didn't waste any time and combined the two skills.
+
+[Would you like to combine <Peck> with <Air Dive> to create a new skill? This process is irreversible. Success rate: 95%.]
+
+Wow, that success rate is really high.
+
+It's because you already combined those skills in battle. That usually makes the success rate higher.
+
+Nice. Combine the skills!
+
+[You've successfully combined <Peck> with <Air Dive> into a new skill.]
+
+[New skill obtained – Skypierce.]
+
+[Skypierce – At [Adept] level allows to inflict up to 400% piercing damage depending on the height from which you dive.]
+
+Liora felt extremely satisfied by all the improvements she'd made to her skills. With Lunge and Skypierce, she felt like she could take on even stronger enemies. Although she also didn't mind taking the backseat and letting the adventurers take care of the monsters. Not that there were many on the road—the worst one they met was some stray Giantmaw Hyena.
+
+Liora cawed at it angrily, utterly tired of seeing these creatures. Serena interpreted it as her being scared and promptly incinerated it. Seeing one burn to a crisp made Liora understand why Renir conquered the mountain by just burning everything. It looked so easy when compared to all the tricks she had to resort to.
+
+"We should reach Cyene this evening," Serena said during their lunch break, where Liora had a large helping of venison in front of her.
+
+Frankly, she wanted to sit with Kalen, since he was the one who did the hunting. Serena could be rather overbearing with her affections. But the boy didn't seem to like her, precisely because of that, so Liora had no choice but to sit with the mage.
+
+"Are you sure?" Kalen asked excitedly.
+
+"According to the map, at least. It is kind of old, but the landscape shouldn't have changed much," Serena said.
+
+"Why don't you have the magpie scout ahead?" Kiva said, greedily munching her own portion of venison.
+
+"That's supposed to be your job," she retorted.
+
+"Yeah, but I can't fly," the weasel girl shrugged.
+
+Serena looked at Liora quizzically. "Could you, Skye? I'd really appreciate it."
+
+She didn't see the harm in checking ahead. Liora flew in the direction Serena pointed to, looking in the distance for any signs of civilization. It only took her a few minutes to spot a large stone wall on the horizon. She flew a bit closer to make sure and realized that there was a long line of people waiting outside. Far too long.

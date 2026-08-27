@@ -1,0 +1,191 @@
+---
+id: d8b7b0a0-ae6e-51e7-b8c5-95040293089f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 6 – Hunter and Prey"
+slug: 0006-chapter-6-hunter-and-prey
+partOf: the-magpie-and-the-archmage-monster-evo-litrpg
+position: 6
+ownLength: 2138
+unit: words
+publishedAt: 2025-08-17
+link: "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2525581/chapter-6-hunter-and-prey"
+royalRoadId: "2525581"
+---
+
+It was early morning. The sun wasn't even peeking into Liora's nest yet. But there was some sort of noise.
+
+Must be those pesky sparrows. They start chirping before the sun even properly rises.
+
+Liora buried her beak deeper beneath her wing and forced herself back into dreamland. It was peaceful for a short moment.
+
+~Fastest wings, gaze at them if you dare~
+
+Just ignore it. You can't wake up because of every sparrow outside. Let them carry on with their tomfoolery.
+
+~Strongest beak to beat your every foe~
+
+Oh, shut it! Your beaks can barely break a beetle's carapace.
+
+~Treasures stacked in my nest so high you'd drown~
+
+Treasure?!
+
+Her eyes shot open, and she looked around in her nest frantically. All of her glimmerstones were still placed around the amber gem in its honorary spot in the middle.
+
+"Oh, you're awake. Gods, one of your magpie friends sure is loud first thing in the morning," Renir grumbled.
+
+"Magpie?" Liora cocked her head.
+
+~Every magpie talks the talk, but I'm the one who flies the sky~
+
+Oh my god, it is a magpie. I didn't even notice, being half-asleep. But who'd just scream outside somebody's nest so early in the morning? And those verses don't rhyme at all.
+
+Liora peeked out of her nest and, to her horror, saw the same male magpie from yesterday, serenading in a tree across from hers. He puffed his feathers proudly when he noticed her emerge.
+
+~Come with me, oh pretty wings and shining eyes, and I shall show you how to rise~
+
+Liora dove back into her nest.
+
+This is a disaster! The bastard from yesterday is trying to woo me! He is flirting with me. Gross, gross, gross!
+
+"What's wrong with you? You look like you ate a maggot or something."
+
+"Chak-chak-chak!" She protested. "A maggot would be infinitely better than this."
+
+Liora hurriedly stashed her glimmerstones back in the invisible storage and grabbed Renir in her talons to show him the situation outside. The male magpie was still proudly serenading on the same branch, occasionally hopping sideways and flicking his tail upward.
+
+"Is that the same magpie from yesterday?"
+
+"Same!" She confirmed.
+
+"Not to be a heart-breaker or anything, but we've got more important things to do than… increasing the magpie population in this forest. I mean, he's a fine magpie and all—"
+
+"CAW! NO!"
+
+"Oh, you're not interested?"
+
+"NO!"
+
+"Good. Just ignore him. I'm sure he'll give up sooner or later," Renir said.
+
+Yeah, he's right. How long can one magpie pursue me before he realizes that I'm not interested? Every good magpie knows that being pushy is just rude.
+
+"Liora. Ignore him."
+
+"Great. Since you're in such an agreeable mood this morning, how about we unlock a new skill? I personally suggest Wind Slice. Very strong skill that can hit enemies from afar, and it's rather cheap!" Renir hummed.
+
+"No!" She protested.
+
+"Oh, come on! You need those skills to fight effectively. You'd be so much stronger with just one of them. Just one!"
+
+"No!" She objected and flew off with the gem in her talons. Liora didn't dare to leave it in the nest. Not when that other magpie knew where it was. She didn't quite want to leave her other treasures either, but it wasn't as if she could carry them all.
+
+At least I can take the glimmerstones with me no matter where I go. I wonder if there is a limit to how many I can store.
+
+With that thought, Liora was determined to find out the limit. There was more toad hunting to do. Right after breakfast of fresh blueberries. She was starving.
+
+Fighting toads had become an easy task, even if Liora had to hold Renir's gem in her talons the whole time. Most of the time, she resorted to Air Diving, taking care of the monster in one swift, powerful hit. If there were a group of toads, then she'd try to paralyze them first by mimicking <Paralyzing Croak>.
+
+Sadly, she couldn't mimic the skill too many times. After three successes and four failures, she ran out of mana. But Liora wasn't dismayed and instead peppered them with rocks to confuse and disorient them. It was a sound strategy, and before lunch, she had reached Level 9.
+
+The climb from Level 8 to Level 9 turned out to be longer than all of the previous levels combined. The good news was that the monster toad population around the lake was back to acceptable levels. Even better news—Liora had a ton of glimmerstones. Sixty-three to be exact.
+
+"Fighting more of these toads won't do you any good. I think you'll run out of them before you reach Level 10," Renir said. "The experience you gain from them is smaller than normal because they are a lower level than you."
+
+Liora thought about his words. It was true that she couldn't just slaughter every last toad in the vicinity for glimmerstones. As disgusting as they were, they were still part of this ecosystem. They ate the nasty bugs and parasites that nobody else wanted to eat. She would have to search for different enemies.
+
+But that was a worry for another time. Liora was satisfied with her progress for the day, so she decided to wash up in the stream.
+
+"Oh, the gem of my eyes! Here you are. I've been searching for you all day!" The same male magpie caught up to her on her way to the stream. It was rather close to her nest after all.
+
+"Leave me be!"
+
+"Oh, don't be like that! I understand your anger, but I promise I'll never take your treasure again. I even brought you a new treasure," the magpie said and showed her some kind of round bell. It jingled as he shook it and was marvelously shiny.
+
+That bell is quite nice. If he had brought it to me like a week ago, I might have been tempted. But it's nothing when compared to my glimmerstones and Renir's gem. Those are far superior to a silly bell.
+
+"I don't want it," Liora replied, taking a sip of the fresh spring water.
+
+"Watch out!" Renir suddenly called. Liora barely managed to jump back when a hawk swooped down with its talons, grabbing into the space where she used to be a mere second ago. The male magpie screeched and flew off, bell jiggling behind him.
+
+Liora's and hawk's eyes meet for a moment. Its eyes are cold and calculating—the eyes of a hunter. Unfortunately, she was the prey. She took flight right away, darting up to the tree tops. The hawk followed after her, its eyes poised on her.
+
+Normally, a magpie like her couldn't stand up to a hawk. It was larger and stronger and most definitely faster. However, the circumstances were currently in Liora's favor. She darted from tree to tree, making sharp turns and flying through narrow spaces where it couldn't follow.
+
+In open skies, she'd stand no chance. But this was her home, her battlefield. Liora had the terrain advantage. That being said, the hawk was still hot on her tail. It couldn't maneuver as quickly with its large wings; however, the short bursts of speed made up for that.
+
+I'll never lose it at this rate. It'll try to tire me out, so I have no choice but to fight. It'll be a bit of a leap after only fighting frogs, but I certainly won't let him just eat me.
+
+Liora slowed her flight ever so slightly. Not enough for the hawk to catch her, but enough to narrow the distance. When she felt like it was close enough, Liora mimicked the <Paralysis Croak>.
+
+[You've failed at mimicking <Paralysis Croak>.]
+
+Dammit! Stupid, unreliable thing. How am I supposed to fight anybody if I don't know whether my skill will work or not?
+
+"This is why I told you to buy skills!" Renir chastised.
+
+"Chak-chak-chak!" Liora screeched. "Not now, human!"
+
+The hawk got dangerously close to her, almost managing to grab her tail feathers. But Liora dove down before it caught up.
+
+The moment of triumph didn't last long as the hawk was still following, and now Liora was at disadvantage. The forest floor was emptier and easier to maneuver, leaving her more exposed. She tried to fly back to the dense canopy, but the hawk cut her off each time, forcing her to fly low.
+
+Liora flew close to the tree trunks, making sharp turns to keep the hawk off her tail. But she was too slow, and the hawk caught up to her, grabbing her with its massive talons and pushing her down to the ground.
+
+The impact was painful, and the other bird felt heavy as it pressed her body into the moss. She was lucky to survive, honestly—if they had landed on a rock, her innards would have smeared across its surface.
+
+"CAW! CAW! CAW!" She screeched and flailed with every ounce of her strength. "Let go, you ugly bastard! Let go!"
+
+"Nothing personal, little one," the hawk said in a cold voice and grabbed Renir's gem with its talons.
+
+"HEY! Don't you grab me! Let go!" Renir yelled.
+
+So it's after the gem, not me. I could just let go, and it might let me live.
+
+But Liora didn't release the gem, instead holding it firmly in her grasp. She didn't want to give it up. Why should she? This was bullying, taking things from weaker birds. She wouldn't stand for it.
+
+Liora began thrashing about more ferociously, forcing the hawk to readjust the position. A normal magpie wouldn't be able to so much as squirm under the raptor's grasp. But the System clearly had given her some power. She was stronger than a regular magpie. She managed to squirm free just enough to turn her head and deliver a powerful peck to the hawk's chest.
+
+It screeched out in pain and jumped back, blood trickling down its chest. Liora took flight at a moment's notice. Her leg hurt horribly. She suspected it was probably broken. But her wings were whole—as long as she could fly, other parts didn't matter.
+
+She flew upwards, hoping to gain altitude before the hawk caught up. Glancing backwards she saw how it was already flying after her, and it looked pissed.
+
+"We could have ended this easily, but you had to make it personal!" He screeched.
+
+Liora ignored him. It would be a waste of breath to reply to him.
+
+"I'll channel some mana into you. Use it!" Renir said, and Liora could feel a bit of energy trickling into her from the gem. It wasn't much, barely enough for one Mimicry attempt.
+
+Don't let me down. It's do or die.
+
+Liora wove through the thick canopy to the best of her ability. It was difficult with her broken foot. It pulsated with pain. But the hawk was injured too. It had lost its speed and wasn't as careful anymore. She noticed how occasionally its wings would graze a stray twig or two.
+
+Just a bit more, I need to wear him down just a bit more.
+
+"Chak-chak-chak!" She taunted."Can't even catch a little magpie! Some hawk you are!"
+
+It didn't take kindly to her words, rushing forward by what appeared to be pure fury. Liora mimicked the toad again, looking straight into the hawk's eyes. It knew that it had flown straight into her trap. The hawk panicked, trying to stop, but it was too late.
+
+"Buh-rup!"
+
+[You've successfully mimicked the skill <Paralysis Croak>.]
+
+The hawk flew straight into the electric field, and its wings seized up. It crashed into a branch and then fell to the ground. Liora followed after it, using Air Dive. She didn't hold back, letting the gravity strengthen the skill and hit the raptor full force.
+
+[You've defeated <Tracker Hawk – Level 1>. Experience gained.]
+
+[You've reached Level 10.]
+
+[You may now choose a new evolution.]
+
+"Bloody hell! A tracker hawk?! We are lucky that it was just Level 1; otherwise, we'd be in deep trouble now," Renir said, then paused. "Oh, shit, your leg is broken, isn't it?"
+
+Liora looked down at her leg, the one she didn't hold Renir with. It wasn't a pleasant sight, that's for sure. Could something so mangled even heal properly? She wasn't sure.
+
+"Chak-chak-chak!" She said weakly. "At least I'm not dead."
+
+In reality, she wanted to scream from the pain, but what good would that do? It might attract more of these hawks. Liora was certain that whoever sent this hawk could easily send another ten.
+
+"Okay, get this guy's gem and let's get back to your nest. If I'm right, then evolution should fix your leg."
+
+Two glimmerstones were embedded in the hawk's wings. Liora snatched them up and flew away.

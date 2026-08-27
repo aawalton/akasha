@@ -1,0 +1,269 @@
+---
+id: cfb8d12e-2665-5c9a-942b-75fd51daf770
+page-type-slug: story-chapter-royal-road
+title: "120 Eyes of Old"
+slug: 0078-120-eyes-of-old
+partOf: the-new-world
+position: 78
+ownLength: 3900
+unit: words
+ownProgress: 3900
+publishedAt: 2018-05-13
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/215326/120-eyes-of-old"
+royalRoadId: "215326"
+markedReadAt: "2026-06-29T21:23:32.285Z"
+---
+
+Yawm dashed towards me, the ground cracking beneath him. I shouted, “Remember, we’re fighting to learn.”
+
+He reached me as I flared my runes. He swatted the back of his hand towards me. It was a wild, unrestrained strike. I bent backwards, the tip of his finger snapping across my armor. He slashed his other hand, a joyful glee in the act. I took another step backwards, my feet sliding as his strike slipped just past my nose.
+
+As his hand pulled backwards, I charged towards him, countering him with a right straight. I struck him with a telekinetic bullet from the punch. It did nothing as the kinetic force dispersed. Yawm laughed,
+
+“Excellent. You’re far more nimble than I imagined you’d be.”
+
+I grinned, “Being able to overpower your enemies is no excuse for being sloppy.”
+
+He raised an eyebrow, “An interesting point of view. I thought you enjoyed playing with food?”
+
+I slammed my fists together, “That’s when I know I’ll win.”
+
+“Hah! It’s good to see I’ve garnered a measurable respect in another warrior’s eyes.”
+
+I activated my new skill, Gravitational Celerity. It used both gravity and antigravity to enhance my movements. I’d never used in combat, so now was the perfect time.
+
+Yawm dashed towards me again, his speed blistering. He struck out with another wide slash. I drilled a left straight into his jaw, interrupting the move. His foot pierced through the ground as he took a step back. I stepped forward, firing two more sharp, compact strikes into his jaw. He lashed out with his left arm.
+
+I ducked under the strike by sinking into the ground as I leaned towards his arm. It passed over my head as I slammed a cracking left hook into his torso. With my telekinetic fields extending my grip, my attack sent him flying away.
+
+He tumbled across the ground, his enormous frame decimating the trees in his way like toothpicks. He rolled back to his feet. He clapped his hands,
+
+“Your well versed in this style of combat. Are you certain you need practice in it?”
+
+I smirked, “It seems like you could use some practice at the very least.”
+
+He laughed before dashing towards me. He reached me like a flash, his pace increasing. He ripped out three rapid slices with his hands. I shifted between the strikes, slowing them with fields of gravity that pulled against his attacks. Yawm needed a grip for his feet at that point. Knowing this, I put my foot under his.
+
+I jerked my foot sideways, throwing his center of gravity off. He fell sideways. I dashed forward, my balance shifting on my feet. With an overhand right, I slammed my fist into his face, pressing him into the ground. A crater formed beneath us before I dashed away. Yawm grabbed for where I was.
+
+As his hand pulled back, I returned with a stomp onto his face. The crater beneath us both deepened. He grabbed for me again, his pace even faster. As he sped up, I minimized my dodges further. Even if I was slower, my techniques were sharper, closing the obvious gap between us.
+
+I lifted my foot for yet another stomp. He bent his neck sideways, my foot puncturing into the dirt beneath him. A root from beneath him wrapped around my foot and pulled me deeper. Yawm stood up while wiping dirt off his shoulders,
+
+“You’re much better than I imagined you’d be. It’s insulting that I’m moving faster yet you’re still dominating our exchanges. I cannot laud this enough. How will you handle this?”
+
+Yawm sliced a quick hook towards my face. I let myself sink into the dirt, dodging his attack. Once under the ground, I reached up and grabbed Yawm’s foot. I dragged him into the dirt, making him slam against a roots of trees. I walked out of the ground, slinging Yawm with a single hand, the earth exploding from his rise.
+
+I swung him around. Yawm’s enormous frame tore the trees apart like a boulder crushing matchsticks. I released him before he tumbled across the ground and regained his footing.
+
+As he stood, he shook off dirt,
+
+“I prefer this kind of sparring. I enjoy how humbling it is. In its own way, I find it motivating. Let’s see if I can catch up to your own prowess, given time.”
+
+Once again he dashed towards me. I charged him, each of us weaving through the trunks of trees. Once we reached each other, Yawm slowed his assault. He reached out with another swipe of his right hand, this one sharper and more restrained. While it lacked the raw power of his old attack, it made him far less vulnerable to a counter.
+
+Still, it wasn’t enough. His swipe scraped against my shoulder as I leaned away from his attack. Molding my armor, I diverted his right hand upwards. I amplified this deflection with a stream of gravity, redirecting his hand upwards. Sparks floated off my armor before I whipped in another attack onto his side.
+
+I held back my full power, letting him keep close this time. It was so that I could dish out more damage and get some practice with my gravity magic. He stayed close, his swipes turning denser and more compact. Within a few hours, he no longer lashed out. His swipes were like an ametuer’s that had tremendous talent.
+
+He finally nailed me with a clean strike after I stomped on a root. When it did land, I bunched myself up, making the impact disperse into my legs. Since I was so grounded, Yawm shoved himself back, throwing himself off balance. He stumbled backwards as I charged him. I stepped on his front foot, making him fall back.
+
+As he fell, I lifted my other foot. I stomped his chest, forcing him against the ground. Throughout my movements, gravity flowed like a liquid to help me move. It was like swimming in currents that pushed me forward and pulled him back. For some reason, using all the skills together just clicked at that moment.
+
+As a crater formed beneath Yawm, a ringing echo spreading through the glass forest. A notification appeared in the side of my vision that explained the sudden ease in using gravity.
+
+Unique Skill gained! You’ve fused the skills Antigravity, Antigravitational Shift, Gravitational Celerity, Antigravity Vortex, and Resourceful into Gravitational Flux. Half of unearned points rewarded for the creation of a unique skill. +205 Tree Points.
+
+Gravity Flux(lvl 1) - By mastering gravity, you move in an ever changing liquid of it. By creating streams of gravity, you reinforce yourself and destabilized enemies. +1% to power of gravity magic on movement.
+
+After landing the attack, I moved my foot off of Yawm’s chest. After this fight, I’d need to check out my trees and work on them. I’ve been so busy learning the cipher and fighting Yawm that I hadn’t been keeping up to date on them. Considering what I was up against, that wasn’t the smartest idea.
+
+I needed to handle Yawm first. I offered him a hand. He grabbed it and pulled himself up,
+
+“And after I finally land a strike against you, it plays in your favor rather than my own. Would you mind explaining for me?”
+
+I shrugged, “You’ll need to ground yourself more when fighting someone who matches you evenly. Otherwise the more stable fighter will absorb your shots and counter immediately. That’s assuming they’re able to take a hit.”
+
+Yawm  nodded, “Interesting. I’ve also noticed my own attacks feel...off. Is there a reason for that?”
+
+“Gravity.”
+
+Yawm nodded, “Hmmm...Controlling gravity to throw your opponent off balance and enhance your own techniques. It’s no wonder why you needed us to fight so slowly. Otherwise you’d never get the practice you needed to master such an advanced technique.”
+
+“That’s exactly it.” I opened a hand to him, “You improved since we started too. You were leaving yourself wide open before. Now your hits are more composed. If anything, I’m wondering where you learned to fight like that.”
+
+Yawm glanced up, staring at the light reflecting off the leaves of the trees,
+
+“It could have to do with the competition I’ve been fighting. During warfare, I fought thousands of weaklings. They couldn’t hope to counter or parry my strikes, so I focused on hitting with more power rather than precision. Against a foe that is my equal in skill, well, you’ve already exposed my style of fighting.”
+
+I shrugged, “Then it’s good that you’re getting back in fighting shape.”
+
+Yawm nodded, glancing back down at me,”Indeed it is. Would you mind us continuing at a faster pace? At our current speed, I believe our fights are too unrealistic for actual use.”
+
+I nodded, “Uh, sure.”
+
+Yawm cracked the fingers in his hands, “If anything, exercising my skill is far more difficult when moving in slow motion.”
+
+A bit of cold sweat fell down my forehead, “Yeah, slow motion.”
+
+Yawm took a few steps backwards before leaning over, “Come now, let’s fight with a more visceral touch.”
+
+I raised a finger, “Wait one second. I need to check something out on my status.”
+
+Yawm sighed, “Then I’ll wait until you finish.”
+
+I thanked him before opening up my tree menu. I remembered speccing into Immense, which reminded me why I hadn’t checked out my trees. It required 2,500 points for completion, and I only had put one point into it. With 360 tree points lying around, I poured them into the tree and closed my menu. So much for a power boost before Yawm put his big boy pants on.
+
+Speaking of Yawm, I glanced back up at him. His hand rested against a tree as he closed his eyes. He listened to it, discovering secrets about this world. I couldn’t help but be curious about what a tree might say. Still, I wanted to get this over with eventually, so I interrupted him,
+
+“Yawm, I’m finished.”
+
+Yawm glanced up, his glowing green eyes pulsing. He turned towards me,
+
+“Did you know that the weather of this world is dictated by location rather than time?”
+
+I frowned, “What does that even mean?”
+
+Yawm raised his hands,
+
+“The weather is always like this at this location. It never rains or turns to night here. The only reason there is life here is because we are near an area with eternal rain. If we teleported another fifty miles away from the rain, there would only be a windy, hateful dessert. If we teleported fifty miles towards the rain, we would be in a vast ocean and endless storm.”
+
+Yawm spread out his hands, “We teleported to the most peaceful place on this planet. Imagine that.”
+
+I looked at the ground, seeing the intertwined roots in the dark soil, “Damn. What a weird world.” I set myself into my normal fighting stance while looking up at him, “You ready?”
+
+Yawm leaned over, “Always.”
+
+Right before our second session started, I activated every tool at my disposal. My legendary skill, Force of Nature was rearing at full force. My telekinesis extended my footing. I grounded myself with Gravitational Flux. I extended my perception with Tactile Cognition. I extended outwards with Event Horizon, clustering it over Yawm.
+
+Even with all my precautions, Yawm’s speed and power was unreasonable. He made contact using the same wide strikes that he started with. I couldn’t move fast enough to keep up. His right hand was coming at my side, but I moved like I was underwater when compared with him.
+
+His enormous, clubbing hand slammed against my side. The impact left my ears and eyes ringing from sheer whiplash as I crashed through a dozen trees. Yawm dashed towards me again before I could become stable. Once more, he struck out before I could react to what I was seeing.
+
+His wide strikes didn’t seem so wide anymore. All the openings that were present before evaporated under the might of his raw speed. Yawm didn’t need technique to make his fighting function. He just needed to reach out his hand faster than the opponent could dodge. His strength would handle the rest.
+
+After tanking a few more slicing strikes, I fumbled across the ground enough to dive into the earth. Under the soil, I had a few seconds to think. I perceived Yawm just fine. I needed some boost in movement in order to keep up and apply my superior hand to hand skills. If I could do that, his speed would work against him as I countered each of his wild lashes.
+
+An idea popped in my head as the earth above me disintegrated. A moment later, a hand grabbed my leg and slung me into the air. As I flopped through the air, I pumped mana into my new unique skill, Gravity Flux. The streams of force enhanced, becoming strong, jerking forces. I kept adding extra mana before Yawm clashed against me.
+
+Another rippling echo shot out before he slung me towards the ground. Even with all the power behind his attacks, my health hadn’t even dented. My regeneration was too strong. Still, I needed to up the ante, otherwise Yawm would start questioning my own power.
+
+So instead of slamming into the ground, I dived into it. After digging several feet into the ground, I turned myself around as I faced the sky. I channeled mana until I was no longer regenerating health. An ocean of mana poured into the gravitational streams, creating a dense aura around me.
+
+The dirt disintegrated above me once more. A rippling echo shot out above me before Yawm sliced towards me. With my skill strained to its limits, I reacted once more. I moved fast enough to retaliate. I ducked sidways, the streams disrupting his own attack. With a counter right, I slammed my fist into his face.
+
+The ground beneath me crumbled in an enormous circle. It was from my telekinetic grip extending my footing. The sound cracked nearby leaves before Yawm was sent flying. He shot into the air before I dashed where he was bound to fall. Before he did, the air near him turned green.
+
+Sparks shot through the air before Yawm laughed, “You’re mana pours out like a never ending fountain. Allow me to match it.”
+
+I dispersed my weight outwards using Overwhelming Presence. I shot sideways as Yawm reached out a hand. I reached a tree before diving back into the ground. Above me, the tree boiled into a liquid before evaporating. With a stomp of my foot, I reversed my trajectory. Once more, the trees nearby melted into a liquid before evaporating.
+
+I couldn’t even tell what he was doing, but there was no way I wanted it to touch me. I dashed and weaved between each of his attacks. As he clashed into the ground, he ran out of stored mana before I dashed towards him.
+
+Using Event Horizon, I gained a bit more mana for my enhanced movements. We collided, each of us ducking and weaving around the other. With brutality, he used pure speed and strength to match my superior technique. As we moved fast, my vision blurred. Instead I used my sense for gravity to sense Yawm and my movements.
+
+As I reached out with the sense, I found something on both our backs. As I realized this, Yawm roared out in rage for some reason. He shot out a punch towards my gut. It pierced my stomach, his fist reaching out with my spine. A shockwave ebbed behind us, trees blowing away as the excess force dispersed behind me.
+
+Yawm shook his head before pulling his arm out of my gut. He took a step back, staring at his hands, one of them coated in silver blood. He glanced up at me, confusion riddled over his strange face,
+
+“What’s going on? Why did I become so angry?”
+
+I played off the damn hole in my chest like it was nothing as I gurgled on my own blood,
+
+“I don’t know, but if you could reign that shit in, that’d be great.”
+
+Yawm slung his right arm, slinging the silver blood off of it,
+
+“I...I don’t know what came over me.”
+
+As my chest healed, I walked over towards him, “I might. Before that though-”
+
+The first thing I did was punch Yawm. He was still left standing, but he rubbed his cheek, “I will relent about this...I deserved that.”
+
+I nodded, “Hell yeah you did. Anyways, there's something on your back.” I walked behind him, seeing nothing. I moved my hand where I sensed the gravitational fluctuation. There was no resistance, like it was normal air. I pulled back my helmet before inspecting closer.
+
+Besides for cracks of vibrant, pulsing energy flowing down his back, there wasn’t anything off about Yawm. I leaned back and scratched the side of my head.
+
+“This is odd.”
+
+Yawm reached around, scraping his back with a massive hand,
+
+“Is it a terrestrial parasite or something like it?”
+
+I shook my head, “I don’t know what it is. If anything, I can hardly even tell it exists.”
+
+I stared at it a for a moment before raising a hand and creating a dense gravity well on the invisible thing. The theory was that if it could influence our gravity here, our gravity could influence it over there. Yenno, wherever there was.
+
+All I needed was enough of a pull that it responded. As I increased the pull, Yawm turned his head towards me,
+
+“What exactly are you doing?”
+
+“Trying to capture this thing, whatever it is.”
+
+Yawm grumbled, “Not one for explaining yourself, are you?”
+
+I waved away his concern, “Not until after I’m finished.”
+
+I kept pouring more and more mana into the gravity well. Once the consumption eclipsed my mana generation, Yawm braced himself onto the ground. At that point, I felt the pull of the well too, so I clasped my hand, condensing it. I grit my teeth as I balled the gravity well into a small point before a shrill scream rang out.
+
+It was a sound that sent a chill up my spine and made me grab my ears. Yawm turned around towards me as the well dissipated, “What kind of alien sound is that?”
+
+I shook my head, bracing myself against the sound, “I don’t know. It isn’t me though.”
+
+Yawm frowned before turning around again. Along Yawm’s back, a tiny, red tendril had appeared about six inches off his back. It was writhing around, trying to grip onto him. Once it did, it shivered before settling down.
+
+“What exactly is that?”
+
+I frowned, “It looks like a creepy ass tentacle that’s grabbing onto you.”
+
+Yawm lifted his hands, “Harbinger, I may put up a convincing mask of calm, but that isn’t quite the case. In fact, the longer this situation drifts on, the more unsettled I’m becoming. The idea of an alien parasite infesting me is disconcerting to say the least.”
+
+I nodded, “I know, I know. Now be quiet so I can fix whatever the hell this is.”
+
+Yawm’s hands flopped against his sides before I created another well of gravity. Once it ramped back up, the screaming started once more. Since I was ready, I already covered my ears with my armor. I only felt the vibrations of it. That’s when I saw it.
+
+As I kept the steady pull on the well, other tentacles came out of the center of gravity. They shifted around, squirming around before attaching themselves too Yawm. As more and more of them attached to him, he shivered. Yawm turned towards me, his eyes opening wide. A second later, he turned back around and placed his hands over his eyes.
+
+It looked like he was mumbling something to himself. I laughed a bit at the all powerful overlord being squeamish. The cluster of tentacles grew along his back, taking up three quarters of its surface. In a rippling spark, an eye popped out of the gravity well. It was yellow with a vertical iris. It opened wide, glancing around with a feverish concern.
+
+The entire thing latched itself to Yawm’s back, gripping him before he turned towards the creature. The giant, yellow eye locked gazes with Yawm. They held their glance for a second before Yawm ran forward, panicking,
+
+“Get this monstrosity the fuck off me.”
+
+He reached behind him, the monster squirming away from his grip several times. Yawm ran in circles as he tried gripping the creature. He jumped against the ground, rolling over roots before jumping back up and rubbing his back against a tree.
+
+I busted out laughing. It was a long, loud laugh, and after a minute or two, a few tears were streaming down my eyes. I wiped them away before walking up to Yawm. He had finally calmed down, his breathing deep and controlled now. He turned towards me, and an awkward silence passed over us.
+
+“I ask of you to never speak of this with anyone.”
+
+I laughed at him, “Don’t worry. I won’t tell them that the world eater is scared of a giant octupus.”
+
+Yawm raised a hand at me, “It’s not fear...it’s just, ahem, concern.”
+
+I rolled my eyes, “Yeah, sureeeeee.”
+
+He turned his back to me and sighed. I grabbed the weird, writhing creature on his back and pulled. It took a solid effort before I finally got the thing off him. I placed it onto the ground as Yawm and I stared at it. It was a misshapen lump of moving parts, a creature that should not be. Yawm shivered,
+
+“That was on me...”
+
+I nodded, “Yup, it’s been on you for a while it looks like.”
+
+Yawm lifted his hands and placed a two fingertips onto each side of face,
+
+“Keep composed, Yawm. Keep composed.”
+
+I chuckled at him again before analyzing the creature. A cold, sinking feeling spread through my gut as I read the message of what the monster was. It was like my stomach was turning to ice.
+
+Baldowah’s Wrath(lvl 5,000) - This is a creature that follows the Old One Baldowah’s bidding. It is nigh undetectable, latching onto creatures across parallel dimensions. It siphons feelings of wrage, hate, and anger into its victims. These feelings can result in sudden outbursts of rage.
+
+Baldowah will use these parasites to destabilize the mental state of sentients over time. They operate much like a disease that whittles away at the mind of whoever is infected with them. Considering how difficult their detection is, it’s often too late to save their victims by the time someone finds the creature on them.
+
+This is why their threat level is considered so high. They can decimate creatures of untold strength, given enough time to do their malignant work. Baldowah uses them to eliminate threats it deems worth killing. Usually it’s reserved for beings that are breaking the laws of a given universe. In this case, that being was Yawm.
+
+You would do well to kill this monster given the chance before it finds another victim.
+
+I looked up at Yawm who stared back at me,
+
+“Well, what in Baldowah’s name is it then? Surely Schema gave an analysis of it?”
+
+I frowned, “I don’t know if you’re going to like what I’m about to tell you.”

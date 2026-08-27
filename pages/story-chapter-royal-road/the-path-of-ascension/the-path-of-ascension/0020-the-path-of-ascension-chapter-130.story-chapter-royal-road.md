@@ -1,0 +1,415 @@
+---
+id: 7960220c-b55f-5383-b371-433dc34b70cc
+page-type-slug: story-chapter-royal-road
+title: "The Path of Ascension Chapter 130"
+slug: 0020-the-path-of-ascension-chapter-130
+partOf: the-path-of-ascension
+position: 20
+ownLength: 5448
+unit: words
+ownProgress: 5448
+publishedAt: 2022-05-16
+link: "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/908232/the-path-of-ascension-chapter-130"
+royalRoadId: "908232"
+markedReadAt: "2026-06-29T19:18:07.468Z"
+---
+
+Chapter 130
+
+As Matt left Lilly he wanted to look at his parents' information packet, but despite having fond memories of Lilly now, he couldn’t bring himself to open it. Something inside of him felt that it wasn’t the proper time, and he followed his instincts.
+
+He eventually told Liz, “I don't know why I can't open it. It feels like I should be able to… but I just can't hit the button.”
+
+“Are you afraid of what you'll see?” Her question got to the heart of the matter, but Matt shook his head.
+
+“Not quite that.” He stared aimlessly ahead, collecting his thoughts until he finally said, “It's more like if I look at it, everything is real. Despite me knowing they're long dead and gone, it feels like the weight of it will just… crush something.”
+
+Liz nodded, understanding and graceful enough to let the subject drop for the time being. After leaving Lilly, the three of them had started crossing the Empire as fast as they could manage with the normal teleportation schedule. Their destination was the capital of one of the true kingdoms; it was governed directly by a royal in the more distant regions of the Empire.
+
+Tur'stal was hosting the Tier 10 tournament this time, and her kingdom was two full kingdoms away from Lilly’s position in the Empire. With little less than a year to reach the capital, they had to rush to move through the hundreds of intervening planets if they wanted to arrive early.
+
+Most of their travel time was spent sitting around teleportation platforms, which meant that Luna was able to hammer in some last-minute magical training.
+
+To help counter his mana control problem, Matt broke through to Tier 10 immediately after leaving Lilly. As they expected, the doubling of his mana pool directly reduced his mana control to worrying levels. With 1280 mana at his disposal, Matt was a force to be reckoned with, but regaining his abilities with his mana required constant training with Luna and Kurt.
+
+The exercises started with simple things, like moving a small ball in a controlled pattern, then they slowly evolved into battles of control against Luna. Once his control returned to the minimum acceptable level, they started working on his elemental manipulation skill control.
+
+For all her issues, Luna was an excellent teacher, and was always able to identify when Matt was consciously or unconsciously using crutches for his abilities. But she always had suggestions on how to improve his skills.
+
+Aster joined Matt at Tier 10 with her own breakthrough, but Liz resisted the urge to Tier up, as her deal with her parents was only effective until she reached Tier 10. She knew they would flock to her side immediately if she broke through.
+
+“It's better if I wait until we arrive on East Flower to break through. We only have a few more weeks of freedom left.” Liz said it was like there was an executioner's axe hovering over her head.
+
+It was a feeling that Matt understood but for the opposite reasons.
+
+While Liz was apprehensive of her parents wild and flamboyant behaviors, he was growing more and more worried about having parents again. In-laws or not, they would still be his parents as well.
+
+What if they don't like me? I know what Keith and Travis said about them, but I don't know them well enough to predict. Should I bring them a gift? What can I even give a Tier 48 couple? They have literally everything they could ever want, need, or toss away a million times. How could I give them something of any true worth, or value.
+
+I'm so screwed.
+
+Matt was in a constant state of stress that slowly built until he was about to explode. Luckily, he had their arrival to take his mind off things, as they had finally reached East Flower. They stood with hundreds of other Tier 10 Pathers, who were also arriving early.
+
+It looked like a lot at first glance, but the impression was misleading. A large number were showing up now, but it was nothing when compared to how many would be arriving in the final three months.
+
+They were five months early for the final check-in time and start date of the tournament. The majority of those present wanted to get one last delve in, or practice their abilities just that tiny bit more. But Matt, Liz, and Aster needed to arrive early so the bipedal members of their group could set up their identities to participate.
+
+The Tier 10 tournament lasted for exactly one standard Empire year, and hosted thousands of smaller competitions simultaneously with the big three.
+
+The big three were the main attractions of the tournament; everything was centered around them. The length of the event ensured that he and Liz could swap between their identities without issue, until their real identities were quietly lost in the middle ranks.
+
+The first was the largest attraction, where most of the prestige and rewards came from: the team duels.
+
+The second of the big three was the solo duels. Although popular as well, the solo matches had slightly smaller rewards compared to the team event.
+
+The final portion of the big three was the crafting event. None of them had any hope of competing in it, and they didn't intend to even try.
+
+As a part of their deal for competing, their cover identities would be shooting for the top spots in both the solo duels and team battles.
+
+Matt was slightly peeved at the rules for the solo duels, as they made it impossible for team members to fight against each other in the lower brackets, and the structure of the top fifty ensured that they couldn't fight there either. The final rounds of the competition were a point system, where each contender would fight everyone in the top fifty at least once, before the process was repeated with the top ten, then five.
+
+If team members met in the finals, it would be considered a draw, to prevent hard feelings from a loss and missing out on earning points.
+
+He had been looking forward to fighting Liz for the tournament victory spot, but had to hope that he earned more points than her against the other contenders.
+
+Other than wanting to win in both categories, there were a few of the lesser competitions Matt had his sights set on as well.
+
+There were a number of single weapon or fighting style tournaments that had fantastic rewards, but were less prestigious, that he wanted to get involved in. The reported rewards never changed, but never lost their value either.
+
+Legacies.
+
+Matt had only seen them in movies before, and they were purportedly extremely rare, with strict requirements to create and use. But, over its time as one of the Great Powers, the Empire had amassed quite a few that were suitable for cultivators under Tier 15. They offered use of the Legacies to the top three winners of each style.
+
+He had to ask Kurt about them. The movies were fairly accurate in their representation of Legacies, but a few details were lacking.
+
+They were incredibly rare rewards that were found from Tier 45 rifts or higher, with incredibly strict requirements to use them. The person who wanted to create a Legacy needed to satisfy three requirements.
+
+First, they needed to be Tier 45.
+
+Second, they needed to have an Aspect.
+
+And finally, the individual needed to have experienced an inspiration about the topic that they wanted to pass down at some point in their cultivation journey. On top of the maddening prerequisites, Legacies were known to fall apart after a random number of uses.
+
+Sometimes, they lasted for only a single use, but they could also last for thousands of years.
+
+It was completely random, which was why the Empire restricted their use for all except motivated and skilled cultivators that resonated with a specific Legacy.
+
+There was a longsword only bracket with a longsword Legacy that Matt desperately wanted to get his hands on. It was the main goal of the tournament for his true identity.
+
+Matt was brought out of his musings once the teleportation countdown started, and his nerves built into a crescendo.
+
+As the familiar feeling for swapping worlds enveloped him, Matt felt nauseous. He wasn't sure if it was his fear of meeting Liz’s parents for the first time, or the rougher than usual teleportation, but it took him a few seconds to clear his head as they arrived on East Flower.
+
+His first impression of the Tier 43 planet was that the name was apt. Tur'stal was the fifth strongest royal, with her Tier 1 Talent that made nature love her, and her Tier 3 that warped the environment to her will.
+
+Even inside the teleportation hub room, it felt like they were outside with the number of flowers lining the room. Vines crept up all of the walls, washing everything with greens and browns.
+
+That first impression was dwarfed when they exited the building to the city proper, and found that the greenery didn’t stop there. The metropolis seemed to be more of a well-curated garden than a true city.
+
+He had seen green cities before, but they were like a snake trying to imitate a dragon. Just from their first steps onto the street, Matt saw half a dozen gardeners taking care of the variety of plants, trees, and flowers that lined the streets. Though, he didn’t know what they were actually doing if Tur'stal’s Talent worked as he believed.
+
+Tur'stal’s vision of a perfect city seemed to be one of beauty and aesthetics, as every flower seemed to already have its perfect place in the city landscape without disrupting the city flow.
+
+As far as he could tell, there didn’t even seem to be cracks in the sidewalks from the trees growing along their borders.
+
+The majesty of the sight was only enhanced when Matt felt the ambient essence pressing down on like a heavy blanket. The Tier 43 planet was the strongest world he had ever been on, and the essence was on a completely different level than the essence he knew from other planets, or even the rift monsters.
+
+That illusion of grandeur was shattered when he noticed the absolute absence of mana.
+
+He had been on planets with a worryingly sparse amount of mana, but he had never encountered something like this before.
+
+There was no mana in the air at all.
+
+Spreading his awareness out, he felt the buildings drawing in what little ambient mana the passersby leaked from their full mana pools, like starving men fighting for every scrap.
+
+From what he could feel, everything was spatially expanded to a crazy degree. The closest building was a skyscraper taking up half the city block, but as his spiritual sense pierced the outer layer, he found dozens of businesses inside the small fraction of space he could feel.
+
+His investigation was cut off by the overwhelming feeling of a presence locking on to them as Liz said, “Here we go.”
+
+Following the pressure, Matt saw two familiar-looking people watching from the end of the street.
+
+Before seeing them, Matt had thought the saying that people vibrated from repressed energy was mostly a metaphor. But seeing the two royals, he had to reconsider his position.
+
+The duo were actually vibrating, and at a speed which made their edges transparent.
+
+Matt felt Liz crunch her essence cores down and step into Tier 10, and at the same instant, the two vanished and reappeared to embrace their daughter in a group hug.
+
+Mara reached Liz first and picked up her daughter in a massive embrace, in which her hair feathers stood straight out and quivered, while Leon picked both of them up and bounced from foot to foot.
+
+“Oh, babycakes, it's so good to see you. It's been too long! Oh how we've missed you.” Mara’s voice came out muffled from where she had been smothered by Leon’s larger frame.
+
+Liz’s father didn’t miss out on the reunion, and he said, “Oh, you've gotten so big. It feels like it was yesterday when you were just learning to walk.”
+
+Liz was trying to say something, but her voice wasn't able to make it past the couple's ramblings.
+
+Matt felt glad for Liz to have such loving parents, but felt a bit like an outsider as he watched from the edge with Aster in his arms.
+
+As if sensing his feelings, Leon and Mara finally let go of Liz, who took a dramatic, deep breath while the overjoyed parents turned to Matt.
+
+With expressions of glee, they looked from him, to each other, and then back to Matt, and he froze with Aster like a rabbit spotting the shadow of a hawk.
+
+Their eyes literally gleamed with a light as they looked at the two of them, and every primate-brained instinct, battle-honed and not, screamed that he should run. Run harder than he had ever run in his life.
+
+Leon squealed while pulling Matt into a hug, with Mara only a fraction of a second behind her husband.
+
+“Oh, we're so glad to finally meet you properly!” Mara babbled as they bounced around from the couple's irreversible excitement.
+
+Leon said something as well, but Matt didn’t hear it. He was lost in the hug.
+
+The couple were warm.
+
+It wasn't the heat of the fire that he knew Mara could unleash, but a feeling of comfort and acceptance.
+
+It spoke of somewhere that he could shelter from the turbulent winds of the greater world, that would always welcome his return no matter what. Somewhere that only wanted to prop him up when he got tired. Somewhere he was accepted for being himself, by people who wouldn't ask him to change. Somewhere that didn’t expect anything from him, but would support him in every desire he had.
+
+Somewhere that he could call home.
+
+That feeling broke something in him that he hadn't even known he had been missing, and with seemingly no thought, Matt reviewed the information packet about his parents that he had been avoiding for so long.
+
+For the first time since the rift breaks, Matt saw his parents' faces.
+
+Young, and alive.
+
+It startled him to realize that they had been younger than he was now when they had him, despite looking older.
+
+He saw his first birthday, and the little cake he ruined, to only his parent's smiles.
+
+There was a video of his first steps, and his dad doing a little dance with him in celebration.
+
+As he got older in the pictures, he started to remember bits and pieces of the images, until near the end. There, the memories became clear as he recalled the incidents.
+
+Pictures of their life scrolled by in a loop. It was everything the city had been able to find from nonlocal servers, and Matt wondered why he had waited so long to view it.
+
+They were full of sad memories, but happy ones as well. Photos of memories that he should have looked at the day he got them, instead of letting them fade.
+
+He felt ashamed at that but the feeling only lasted a moment.
+
+As the pictures and video flickered past his eyes, he felt the warmth of the duo still holding him. While he knew that they weren't trying to replace his own parents, he let himself imagine that they were his parents for a moment, and sunk into the embrace.
+
+It felt like an eternity, but finally, he pulled back slightly, and the duo let him go as he blinked away tears.
+
+A subtle [Water Manipulation] removed the lingering effects of his tears that threatened to fall, and he saw understanding smiles on Mara and Leon's faces.
+
+Liz noticed the change, and having been together so long, knowingly beamed at him.
+
+Like a switch was thrown, once they saw that he had centered himself, Mara squealed while grabbing Aster from his arms and pulling her into an identical hug.
+
+“We finally have a grandchild!” Leon was so excited that little lightning bolts started to shoot from his hair, and Mara’s mane of feathers started to glow.
+
+Mara mirrored him and cheered, “We finally have a grandchild!”
+
+Knowing the joke, Matt shattered their illusions. “Aster is more like a little sister than a child.”
+
+Three faces turned to him. All three were pleading, but for different reasons.
+
+Aster wanted him to save her from the insane duo, while Mara and Leon looked heartbroken at the revelation.
+
+Mara, with a quavering lip, asked, “But you raised her… and Liz helped… that makes you parents, right?”
+
+Going along with the routine, Matt shook his head. “No, Aster has only been like a sibling to me.”
+
+That confirmation shattered the duo's world.
+
+Literally.
+
+Leon turned into a gray cloud that gave off a drizzle and sparks, before popping like a balloon then twirling around as his cloud lost its shape. As he dramatically deflated, Mara crumbled into a pile of ash and then swept herself up with a dustpan, and put herself into a trash can.
+
+Still hovering where she had been hugged, Aster pleaded for Matt to save her.
+
+From inside the trash can, a distant Mara asked, “Can we convince you to change your mind?”
+
+A squeaky Leon backed his wife up. “Yeah, kids are great, and grandkids are better! You sure you don't want one?”
+
+Biting his lip to not laugh at the ridiculousness of the scene, Matt got out, “No. Quite sure.”
+
+The two let out sighs as their forms recreated themselves, and they were back to their human proportions as if their little display hadn't even happened.
+
+Seemingly unperturbed, the duo said as one, “Eh. We’ll get grandkids eventually. No rush.”
+
+Mara continued to hold Aster as they started to walk forward, and she said, “Come on, let's go to our house so you three can settle in. Then we’ll portal you over to whatever planet you’re coming from with your cover identities.”
+
+Matt looked around to see if anyone was listening and overheard that slip of the tongue, but finally noticed that not a single person was aware of their presence.
+
+In fact, people were walking through them as if they weren't there at all.
+
+How they were managing that, Matt didn’t have the faintest clue, but was grateful that they hadn’t blown years worth of work in a single instant.
+
+He started to understand Liz’s feelings, and as he met her eyes, she smirked and shrugged as if to say that was just how they were.
+
+Matt found that he actually enjoyed it, now that he knew they weren't actually reckless, and were simply too strong to not have the same considerations.
+
+Leon then snapped his fingers and asked, “Oh yeah. What are your cover identities' names?”
+
+Matt smirked as Liz rolled her eyes. “I’m Shawn, Liz is Jules, and Aster is Lassie, then our public Masks are Torch and Quill. Nice, simple, and descriptive.”
+
+Leon took the names in stride and said, “Good to know. We're getting shirts made for the entire family so we can cheer you guys on!”
+
+That brought Liz back into the conversation, and she asked, “Oh? Who's coming?”
+
+Mara, with Aster still cradled in her arms, said, “Everyone, silly! This is a big event for you guys, and it's a great time to get everyone together. It's been far too long since we all gathered.”
+
+As they walked down the crowded streets, Matt observed the couple as they walked along.
+
+From outward appearances, they were no different from any other couple, besides the casually performed feats that went beyond any skill or ability that Matt knew of.
+
+Their physical, practical jokes were impressive, but what really shocked him was how they seemed to be aware of everything at once.
+
+Without taking her attention off of Aster, who had finally started to speak, Mara casually caught a passerby who was too engrossed in their AI to notice they were about to walk off the sidewalk, and righted them.
+
+Things like that happened everywhere they went, and Matt didn’t miss the subtle spatial magic they were performing. Each of the group's steps seemed to take them half of the city block, and quickly they were at a seemingly normal building.
+
+Granted the building was only normal when the planet was taken into consideration. It being a skyscraper that Matt couldn't even see the top of, and spatially expanded to an extreme level.
+
+As they entered, Matt was shocked.
+
+At Tier 10, his spiritual sense was able to cover half a mile if he extended it in one direction, but even with that, he was unable to see anything past the lobby. The giant, golden circle that pulsated above the desk gave off a majestic feeling of might and grandeur.
+
+The lobby was currently accommodating at least a few thousand people just trying to get a room, from the snippets of conversation that Matt heard, but Mara and Leon quickly moved them to a bank of elevators.
+
+Leon, seeing Matt's confusion, and that Mara was busy with a chattering Aster, explained for him. “Space is at a super premium on the capital worlds. And right now, it's even worse than usual. Most buildings are expanded at around a thousand times their normal size, giving us way more room for people. This is a hotel that caters to transient travelers who're here to delve the rifts, so it's long term accommodations usually. But with the influx of people, we’ll see more temporary tenants.”
+
+Matt was slightly confused at the implications and asked, “So you guys got a room? I figured you would stay with Tur'stal. I hope it wasn't an inconvenience to accommodate us.”
+
+Leon returned him an equally confused look before laughing. “Oh no! Tur'stal's great, and we have an open invitation to stay with her, but we own the hotel chain, so we stay here.”
+
+Matt paused as the line in front of the elevator moved, unable to take a step forward.
+
+That level of wealth was off the charts, even for him, and as he calculated the number of people delving, he shook his head in wonder.
+
+Leon continued. “Yup, we own all the Feathered Nestled Inns throughout the Empire. We have hotel chains on every capital planet.”
+
+Matt paused and looked at the Tier 48 to see if he was joking, but seeing the earnest happiness on his face, Matt had to ask. “But we aren't in a Feathered Nestled Inn. We came into the Golden Circle Inns.”
+
+Leon froze before turning and standing on his toes to see the front desk again.
+
+“Haha… Whoops! Honey, we went to the wrong hotel again.”
+
+Mara looked up from her conversation with Liz and Aster before saying, “We're at the Feathered Nestled Inn. How is that wrong?”
+
+Liz rolled her eyes and said, “You two are idiots. There’s a giant floating circle of gold above us. How’d you mess that up?”
+
+Mara laughed before turning and leading them away and back down the street, until they reached an even larger building that boasted a giant flaming red feather floating over the lobby. It radiated a gentle warmth that washed over them as soon as they entered.
+
+Mara nodded. “That's better. I was wondering where my feather went. We were just in the wrong building. Silly me.”
+
+There’s no way she meant that it’s literally her feather, right?
+
+Matt was stupefied at the sight.
+
+It’s at least three hundred feet long, and not even from a wing. The shape is all wrong for a wing feather. How big are her wing feathers?
+
+He gave it another look, probing it more intensely with his spiritual sense, but it felt utterly identical to the woman skipping alongside them.
+
+Just how big is her other form?
+
+He had seen videos of Mara’s fights, but he had never gotten a good scale of her before. Seeing the feather forced him to reevaluate all the videos he had seen with a new perspective.
+
+As they rode the elevator to the top floor, they reached a set of rooms that divided the building into six equal suites.
+
+Aster asked the question before Matt could. “Why are there so many rooms? I thought you would have the entire floor.”
+
+Mara laughed as she skipped along. “We keep the top floor available for all the royals. Lets us have an area that we can be ourselves in without bothering whoever rules the place.”
+
+Matt nodded until the number stood out to him. There were six rooms when there should have only been five.
+
+The Emperor one. Mara and Leon the second. Rusty, Tur'stal, and Harper. That only equaled five.
+
+“Do you each have a room here?”
+
+Leon shook his head. “No. We installed the sixth room recently. Spoiler alert to the start of the proceedings, but we're getting a new royal. It's been kept quiet, but the official announcement will be made at the opening ceremony. His name is Fredric or something.”
+
+Mara rolled her eyes and spun around as she opened the door. “You know his name, dear. Don’t be a spoilsport because he beat you in the royal poker game night.”
+
+Leon pouted as thunder clouds started to circle his head, and he murmured. “He beat me with a bluff. It's not fair. How was I supposed to know reflective sunglasses would let him see my cards? Who could have guessed?”
+
+Matt was still laughing at the absurd image of all the royals playing poker and the two goofballs being themselves when they entered the suite.
+
+With the outward size of the building, he had expected something grand and opulent, but it was the exact opposite.
+
+The place was downright homey.
+
+The five of them entered into a smallish living room with two couches and a loveseat centered around a wall-mounted screen. It was playing a kids' show that he recognized with a mouse and cat getting into various shenanigans. Even from where he stood, he could see a decent-sized kitchen, but it looked well lived in instead of fancy.
+
+Liz noticed his perusal as she brought him through the living room to a small hall with only four doors.
+
+She stopped at the first and opened it to show him a massive workout room and connected sparring room. “Workout and sparring here.”
+
+She passed the next one saying. “That's my parents' room. Don't go in there unless you want to be scarred for life.”
+
+Mara’s head stretched into the hall from around the corner and said, “We told you not to come in if the door was shut, little chick. Sex is natural. How do you think we got you?”
+
+Liz shoved her mother's head and extended neck back around the corner before she opened the third door, on the same side as the sparring room. “Library. Feel free to peruse at your own leisure. They have everything you can think of in paper form. Even some restricted and higher Tier tomes.”
+
+She opened the room next to her parents' room and said, “And home sweet home.”
+
+Inside, they dropped off their spatial bags and started unpacking for an extended stay. But as they worked, Matt asked, “That's it? What about your siblings? It all just seems too small.”
+
+Liz shook her head. “They use the same layout for all their apartment condos. And the place can expand or shrink at will. There are a few dozen rooms of various sizes tucked away right now. As my siblings arrive, they'll extend the hall. Otherwise, the building feels too empty and lonely. This way, it feels more homey. Also, for all their faults, they will respect our privacy in our room. But everywhere else, expect them to be watching.”
+
+As they finished putting their things away, Aster pranced in with a new bow tied around her head.
+
+She inspected the room before jumping up onto the bed and yipping, “I'm going to be Queen after Mara!”
+
+Matt turned to her, “Oh? What made you want that?”
+
+Aster rolled over and wiggled as she said, “Mara said being Queen means everyone has to listen to you! Then I can get all the ice cream I want. I’ll even make new ice cream flavors! There will be a Queen Aster ice cream flavor! It’ll be heart and bunny flavored.”
+
+She salivated at the thought, before popping to her feet and adding. “Also, Queen Aster has a nice ring to it.”
+
+Through their connection, Matt understood that her last point was her real motivation. At least aside from the ice cream idea.
+
+Aster thought the name sounded cool, so she was going to aim for one of the royal positions.
+
+Matt just rolled his eyes at his bond’s antics and let her prattle on. He was sure that she would forget about this in a week or two, so just let her have her fun. Aster, as she was now, was far too immature to be a ruler.
+
+Oh, shit. Mara is a Queen. Aster can't be any worse, can she? Well, I don't know how Mara acts in official meetings, to be fair.
+
+Matt just hoped his bond forgot about the idea sooner, rather than later.
+
+He pulled Liz down to sit next to him on the comfortable bed and asked, “How are you feeling?”
+
+She leaned her head on his shoulder and returned the question. “What about you? I know how much my parents can be. Are they too much for you? I can tell them to tune it down.”
+
+Matt shook his head. “No need. I find your parents adorably charming in their eccentricities. They're fun, and everything I imagined. They aren’t pushing it too far at all.”
+
+Liz sagged next to him and pulled him back onto the bed as she fell backwards. “Oh, good. I was so worried. They can be too much for me, and I grew up with them. But you answered your question. I'm happy to be back. The small messages we sent back and forth weren't enough. To be honest, I did miss them.”
+
+The three of them were chatting when a burning smell came into the room.
+
+Matt followed his nose to find Mara and Leon snacking on what looked to be overcooked chicken wings.
+
+He didn’t miss that to cook them, Mara just blew a stream of fire at the bowl, and they grabbed a few of them out. They didn’t care at all about how over or undercooked each piece was.
+
+Unable to take the affront to cooking, Matt asked, “Do you mind if I cook something if you’re hungry? That doesn't look very good.”
+
+Leon nodded like a chicken. “That would be great! These are awful.”
+
+Mara nodded right along, which forced Matt to ask, “Then why are you eating them?”
+
+Leon gave a hearty laugh and honestly answered, “This is about the only thing we can cook.”
+
+Sensing they were joking with him, Matt deadpanned. “That's not cooking.”
+
+Mara shrugged. “It was the best we could do when we were delving. We never really got better.”
+
+Matt could just imagine the two of them as a young bonded pair, with the flame sparrow Mara roasting whatever they had to eat with no control. It was a memory that he could understand, but he knew that the two of them could cook. Liz had mentioned them making various dishes for her growing up.
+
+“If you wanted me to cook, you didn’t have to butcher the meal. I would have done it anyway.”
+
+Leon popped up and struck a triumphant pose. “Yes! Our plan worked!”
+
+Mara clapped for him. “Good job, dear. It was brilliant!”
+
+Matt rolled his eyes, but repressed a smirk as he asked, “This is how you get Aunt Helen to cook for you, isn't it?”
+
+Two nodding heads met his gaze with not an ounce of remorse.
+
+Matt laughed as he made his way into the kitchen and inspected what they had for him to use. To his surprise, he found all the cabinets were spatially expanded, which was a fantastic idea that he noted down to replicate when he got his own house, and started cooking.
+
+Now, he just needed to impress the in-laws.
+
+How hard could that be?
+
+He poked his head out of the kitchen to spy Leon taking a pointed bite of nearly-raw chicken wing as he smirked.
+
+Not hard, apparently, but Matt would still try his best anyway.

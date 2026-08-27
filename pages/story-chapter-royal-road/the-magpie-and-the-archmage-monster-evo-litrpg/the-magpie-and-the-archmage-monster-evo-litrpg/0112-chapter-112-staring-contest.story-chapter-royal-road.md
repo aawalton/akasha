@@ -1,0 +1,181 @@
+---
+id: b0b21d04-d303-52c7-8042-dcc52aa1cbab
+page-type-slug: story-chapter-royal-road
+title: "Chapter 112 – Staring Contest"
+slug: 0112-chapter-112-staring-contest
+partOf: the-magpie-and-the-archmage-monster-evo-litrpg
+position: 112
+ownLength: 2137
+unit: words
+publishedAt: 2026-04-20
+link: "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3295196/chapter-112-staring-contest"
+royalRoadId: "3295196"
+---
+
+"Liora, no! Are you crazy? Stealing from a Pillar!" Cee exclaimed in shock once Liora told Cee her thoughts.
+
+"Shh, not so loud!" Liora chastised.
+
+"Sorry… But seriously. How do you think that would ever work? You can't steal stuff from somebody's Inventory. Right?"
+
+No, that's impossible.
+
+"No," Liora confirmed. "But we can force her to take things out of her Inventory. I think it'll be rather easy with the book. You've already fulfilled your part of the bargain. So I think it's fair that we demand it for you."
+
+"Okay. I suppose she might agree to it…" Cee pondered. "But won't she be suspicious if you ask to see the crystal the same day?"
+
+"That's why we don't do it the same day. We get your book, lull her into a false sense of security. Then snatch the crystal away!" Liora cackled.
+
+"Didn't you try that already? Morgana is faster than you if I remember correctly," Cee noted dryly.
+
+"Under the right conditions, she might not be," Liora pointed out.
+
+Bedrock Mandala!
+
+"Bedrock Mandala…" Cee realized at the same time.
+
+"Come on! Let's find some frogs and mice for you to train on. The higher your skill level, the better," Liora said enthusiastically, already searching for an appropriate training place in the undestroyed part of the jungle.
+
+"Who is the one exploiting me now?" The spider said bitterly. "For theft no less."
+
+Liora, you should reconsider. Getting on Morgana's bad side won't do you any good.
+
+She should have thought of that before she put me in a cage. I'm just returning the favor. Besides, she promised to give them to me after. I'm going to heal all the fully corrupt people here before I execute my plan. The healers can deal with half-corrupted ones on their own.
+
+Or you could just wait for her to give it to you?
+
+I don't trust her to do that. She'll hold onto that Resonance Crystal as long as possible just to keep exploiting me. I'm too useful.
+
+That is true… But how come theft excites you so much? You're like a whole new bird all of a sudden.
+
+I'm just going back to my true roots of being a magpie. Stealing shinies is what we do best!
+
+Despite her initial grumbling, Cee was actually excited to train her Bedrock Mandala skill. Liora, meanwhile, tried out her Aegis Cyclone for the first time.
+
+To her surprise, the skill didn't require much magic to activate. Even after being almost completely depleted after a day of healing, she was able to activate it.
+
+Strong gusts swirled around her in a large sphere, looking like a small cyclone, just like the name suggested. Liora tested how well she could fly with the wind sphere and discovered that her flight remained unimpeded, and the sphere followed her every movement precisely and instantly, always leaving her in the center.
+
+Cee threw a few rocks at it to see whether it would block them. The moment a rock collided with the sphere, it was flung away. It didn't matter how many of the tiny rocks Cee threw; they were all deflected without issue.
+
+"I wish I could throw something heavier to see the real extent of it," Cee said.
+
+"Maybe we can figure something out another time," Liora said, and the Aegis Cyclone fizzled out. "It constantly drains my mana. I can't keep it up for too long."
+
+You should learn to activate it exactly at the right time to defend yourself. It seems to form almost instantly. Perhaps in time you'll be able to alter the shape of Aegis Cyclone to lower its mana cost.
+
+Perhaps.
+
+Cee practiced her Bedrock Mandala for a bit longer before they returned to the underground clinic for the night. Liora was able to settle down into sleep much more easily as she was already thinking of various ways of how to steal the Resonance Crystal from Morgana.
+
+Ugh… I bet she's going to blame me for it.
+
+Don't worry. The moment I get the crystal, we're as good as free.
+
+I don't think it's going to be that easy…
+
+Come morning, Liora announced the first step towards achieving her goal during breakfast with everyone. "From today on, I'd like to focus solely on healing fully corrupted people, since I am currently the only one who can heal them."
+
+"Why the sudden change?" Morgana asked, as she stuffed a helping of bacon and eggs in her mouth.
+
+"As I said, it's because nobody else can help them. Isn't it wiser that I focus solely on them?" Liora cocked her head innocently.
+
+"But healing half-corrupted people also lessens the overall load and prevents more people from becoming fully corrupt," Morgana pointed out. "Isn't that right, Healer Terenezza?"
+
+"That is true; however, we can't exactly rely on Liora here to do all the busywork for us. I think it's fair that she focuses on the task that only she can do," the healer woman said, eating her breakfast in a much more subdued manner.
+
+"Fine, if that's what you think will work best. I honestly wish Sallie would return already. She hasn't been gone for this long before," Morgana grumbled. It appeared that the prolonged stay in the underground clinic was getting to her as well.
+
+"The Pillar of Vital Chalice did warn that she would travel further away this time. It is only natural that it takes her longer to return," Terenezza explained.
+
+"Yeah, I know. But I don't feel comfortable managing the clinic for so long. I'm not exactly the healer," the Pillar grumbled, shoving the last of her eggs in her mouth.
+
+She just misses Sallie. How typical!
+
+Are they close?
+
+Best friends since childhood, albeit Morgana has done nothing but cause trouble for Sallie. I think she feels rather bad for all the things that happened during their childhood, hence why she's so loyal to Sallie. Because there's no way Morgana would stay put in one location for so long otherwise. She's much like you in this regard. Always wanting to roam around free.
+
+Liora gave the woman an appraising look. It was true that she felt a kindred understanding between herself and Morgana. They both craved the freedom that either the vast sea or the endless sky offered.
+
+"Why are you looking at me like that?" Morgana narrowed her eyes.
+
+"Nothing! Let's get to work!" Liora said hurriedly and finished her own breakfast.
+
+As it turned out, dealing with only fully corrupt people all day was rather exhausting. With half-corrupted ones, Liora got the positive feedback loops as well as praises from the patients about work well done. Some of them were eager to turn fanatics, but that was thankfully quickly shut down by Morgana.
+
+She said Liora was specifically trained for this purpose, so there was no need to treat her like some divine miracle. Liora agreed with this story, emphasizing that it was all thanks to her great and powerful master, the Pillar of Lost Magic.
+
+That was Renir's idea to attempt to stabilize the situation in Velithra a little bit. The fact that he had disappeared so suddenly had caused quite a commotion, and everyone had been searching high and low for him. So he suggested that Liora sprinkle some bits of his presence here and there.
+
+This would not only give hope to the people who might believe that the Pillar of Lost Magic was actually working hard behind the scenes, but also destabilize the Order of Night King, who believed him to be in harmless gem form. Admittedly, it could become a double-edged sword and give the bastards clues to their location.
+
+Nonetheless, Liora didn't intend to stay on the island long, especially after a full day of dealing with fully corrupted people. She managed to heal four of them and was rewarded with Level 29, but it was exhausting. If it wasn't for Cee's eagerness to practice her new skills, Liora likely wouldn't have even gone out for a flight.
+
+For a few days, this routine continued until Liora decided to press for the second stage of her plan, during breakfast, before anyone could actually get exhausted.
+
+"You know… I don't think this is fair…" Liora started rather casually.
+
+"What's not fair?" Morgana stopped chewing and raised an eyebrow at Liora.
+
+"I've been busy healing day in and day out, but what about Cee? She's already made you all more webs than you could ever use, yet what does she get in return? Days filled with boredom, that's what!" Liora protested.
+
+"It's alright, Liora. I don't really mind," Cee said calmly, although this too was part of their act.
+
+"Yeah, she's fine. This is all for a good cause," Morgana dismissed Liora's words.
+
+"No, she's not fine! You don't really care for my spidery friend, but she's worked so hard and never complained. I think she has more than earned the reward you promised her," Liora said.
+
+Morgana arched her eyebrow really high, looking suspicious. "Didn't we agree to rewards after the work is finished?"
+
+"But Cee's work is finished, isn't it? She can't heal people, can she? Why should she suffer in boredom waiting around for me to finish my task?" Liora shot back.
+
+"He put you up to this, didn't he?" Morgana leaned forward, staring Liora down.
+
+But the bird wasn't going to back off so easily and stared straight back at the woman. "I just believe it's unfair."
+
+The staring contest continued for quite some time. Morgana was tough, staring without blinking. At some point, it became clear that the first one to look away or blink would be the loser of this discussion. That suited Liora just fine. She was a bird—she could stare down a human any day of the week.
+
+Morgana did hold on admirably, not showing the tiniest hint of discomfort, but eventually the woman was forced to straighten and blink her eyes. "Very well. I'll give Cee her reward in the evening. But don't think you're getting yours before we're done here."
+
+That did annoy Liora. Didn't Morgana want to help her fellow Pillar? Or did she hate Renir that much?
+
+I'm certain that she's not all that eager to see me go free. She hates me with a passion.
+
+Why is that? You said that she was unlikely to be the one to trap you inside the gem.
+
+I… I might have asked Sallie out and dumped her soon after.
+
+So you're one of those men… I see, I see.
+
+No! Whatever you're thinking, it's not true. It was just apparent that we're not suited for each other at all. I was merely swayed by her beautiful appearance.
+
+So it's all about appearance for you, isn't it? How shallow!
+
+You're one to talk!
+
+True to her word, Morgana did come to their room in the evening and presented Cee with the Compendium of Monster Evolutions. The book was almost as large as the spider herself, so the Pillar had placed it on the book.
+
+"Now don't you whine that I'm being unfair again. This should make your time here a bit more enjoyable," Morgana said as she turned to leave.
+
+"Thank you!" Cee wiggled her front legs and eagerly flipped the book open. Liora also took a peek inside.
+
+The first few pages described how monster evolution worked in general. It had many variations based on many factors such as environment, monster's behaviour, enemies fought, injuries sustained, etc. The book basically said that an ant could evolve into a war elephant if it took the right evolutionary path.
+
+It also described that monsters could evolve into intelligent beastkin species, and the most likely monsters to do so. Needless to say, spiders weren't among them. Familiar dogs and cats were most likely to become beastkin.
+
+"I wonder if there's a section about spiders specifically," Liora asked.
+
+"We'll see," Cee said, reading through the table of contents. "There's a section on arachnids near the end."
+
+Cee hurriedly turned to the last pages, and they both studied the evolutionary paths for spider monsters. The author of the book admitted that monster spiders had a lot of variety in their evolution, and there were many versions mentioned, one beastlier than the next. None of them really spoke to Cee.
+
+"I don't want to become a larger, scarier spider. These are all rather murderous looking…" Cee noted.
+
+"Admittedly, people of this country don't really socialize with beastkin much. The data in this book is likely based on what adventurers have encountered in their travels," Renir noted.
+
+"But that doesn't help me at all," Cee flipped the book angrily.
+
+It did a single flip since Cee hadn't thrown it very hard and landed on the most unusual page.
+
+"Cee, look!" Liora said excitedly, pointing at the page.

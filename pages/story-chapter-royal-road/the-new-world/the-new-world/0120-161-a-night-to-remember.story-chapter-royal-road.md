@@ -1,0 +1,243 @@
+---
+id: e72d6eff-fc06-5e71-9328-98474ca18cb2
+page-type-slug: story-chapter-royal-road
+title: "161 A Night To Remember"
+slug: 0120-161-a-night-to-remember
+partOf: the-new-world
+position: 120
+ownLength: 3187
+unit: words
+ownProgress: 3187
+publishedAt: 2018-11-11
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/305737/161-a-night-to-remember"
+royalRoadId: "305737"
+markedReadAt: "2026-06-29T21:25:06.159Z"
+---
+
+With another lash of his tail, the gialgathen's desperation grew. I deflected another cutting strike. He flapped his wings, flying up into the air. Dipping into my mana, I pulled him downward. Alzoroth snapped,
+
+"What is this vile trickery."
+
+I stomped my heel, slamming him into the arena. His wide feet cracked into stone. He stumbled back, giving away precious space. His tail pummeled me from all angles, panic growing in his eyes. I controlled the fight with absolute calm, however.
+
+I redirected strikes, countered his wild attacks, and pushed him into a corner. Within a minute of fighting, his back feet slipped from the arena into the water beside it. He pulled himself back up, meeting me.
+
+He snapped at me with open jaws. With a tight, condensed hook, I crushed the needle teeth in his mouth. His head shot sideways, his tail missing its mark. I dashed forward, keeping my stance composed. Beside his belly, I gyrated a heavy hook into his side. The impact of my fist rippled up through his scaly skin like ripples through a pool.
+
+He gasped in pain. Alzeroth raised his legs, stomping at me with his left foot. I caught his limb with one hand, my telekinetic energy dispersing the weight outwards. The arena cracked, stone breaking across the entire expanse. The gialgathen gasped,
+
+"I...I can't believe it. How?"
+
+I gripped my hand into his feet, bones grinding against bones in my hand,
+
+"I'm strong."
+
+I flung his foot sideways. As he fell, I spun on my heels. Torquing momentum into my right hand, I smashed an overhand right into his upper chest. My hand bounced back, the kinetic energy dispersing as if a bomb exploded.
+
+With a loud boom echoing out, the behemoth tumbled out of the arena. Alzoroth slammed into the lower edge of the surrounding waterfall with another crash of sound. No one stood there, but many onlookers gawked from above. As large fissures spread across the entire canyon, those spectators spread out in a frenzy.
+
+The entire portion of the arena threatened to collapse. I lifted a hand, clasping it as I pulled from my vast ocean of mana. The flow of energy evolved into a rush as I kept gathering energy. I reached out my hand, creating an antigravity field over the crumbling canyon wall.
+
+I measured my output and matched the upward pull of my magic to the downward pull of Giess's gravity. This impromptu spell generated an antigravity field over the area of destruction. Kids, stalls, and spectators floated, the disaster turning into an exhibition.
+
+As two espen children began playing in the antigravity field, I shouted,
+
+"Get out of the magic field. I'm not holding this shit forever."
+
+My words spurred the stunned audience into action. A few nearby tournament fighters flew into the field, helping children and the elderly to escape. I flicked Alzoroth out of the area, floating him towards the medical bay. Asshole or not, I wasn't about to kill the guy.
+
+The adults didn't need help once they got my warning. They crawled out through a field of floating debris. After ten minutes of holding the broken gorge, no one remained. I dropped my hand, letting the entire piece of wall fall. As it tumbled, the announcer floated beside me.
+
+Kiki Mosk grinned at me, his tacky suit shifting colors at random. He grabbed my arm, raising my hand as he roared across the arena,
+
+"And we have the new champion of Icosah! Let's hear it for the newcomer!"
+
+The crowd went wild. The cheering continued for a solid five minutes. B then, they exhausted my patience. I left the arena, jumping back towards Althea. As I reached her, she crossed her arms and pursed her lips at me,
+
+"You know you didn't have to show off like that."
+
+I grinned, "Did I though? He had it coming."
+
+She raised her eyebrows, "Ok, I can't lie about that."
+
+From the crowd, a tuft of white fur scrambled towards us. Caprika reached us, her red mask reflecting an orange sheen from the sunset. She grabbed my arms and shook me, "What in Schema's name was that?"
+
+I wobbled back and forth, "I kicked his ass. What else?"
+
+She spread out her hands, "If you could beat him so easily, why not just do so without causing a scene? Other members of the tournament know all of your tricks now."
+
+I scoffed, "That's the thing. That's not all the talents I have at my disposal. Trust me."
+
+With a slow nod, she backed away, giving me some welcome space. Caprika sighed while composing herself, "Hmmm...I suppose I'm fortunate to have chosen such an able warrior to represent me then."
+
+Althea grabbed my arm, grinning up at me, "You are."
+
+I wrapped my arm around Althea's shoulders, "Heh, you'd be doing the same thing. It might even be more overwhelming than my fighting style."
+
+Caprika put her clawed hands onto her hips, looking back and forth at us,
+
+"I believe a celebration is in order. My treat for your dominant victories."
+
+I gave her the thumbs up, "Sounds like fun." I looked at Althea, "What do you think?"
+
+She shrugged, "I'm game. Let's invite Kessiah and Torix. Kessiah will like the food and Torix will enjoy the company."
+
+I hugged Althea up to my chest, pulling her off her feet, "I'm so lucky to have someone as sweet as you."
+
+Althea giggled while Caprika gagged in the sidelines,
+
+"Bleck. Your overt happiness is disgusting."
+
+Althea rolled her eyes as I set her down, "I know a guy who knew just what to say in times like this. I quote, 'Hod think fur lady peanut butter and jealous.'"
+
+I bust out laughing while Caprika shook her head in confusion. Caprika leaned her head into a clawed hand, "Whoever friend is, he's unbelievably stupid."
+
+Althea laughed, "Yeah, you and Torix would get along perfectly. The grouch thinks the same thing."
+
+We walked off through the crowd, chatting as we headed back to Icosah. I ignored my new fans, too busy to indulge them. I wasn't used to this kind of attention, and I didn't intend on getting used to it either. Knowing myself, I'd say something ridiculous and end up blowing our cover. It was better to play it safe for now.
+
+Once we got back to Icosah, Caprika went back to the Empire's branch. Althea and I stopped by a cafe, enjoying a few drinks of some root juice reminding me of tea. Once finished with winding down, Althea went to find Torix. I searched out for Kessiah.
+
+I found her in a bar, chatting it up with the bartender and a few rough looking mercenaries. As I trot up, the two gruff aliens stood up. One of them walked up and grabbed my hand,
+
+"I saw your fight. It was incredible. You showed those filthy Gialgathens whose boss."
+
+I frowned, not enjoying the fact he called all gialgathens filthy. Still, I shook his hand back. I shrugged, "It's more about putting arrogant asshats in their place, not gialgathens."
+
+He slapped my shoulder, keeling over in laughter, "What's the difference?"
+
+I squeezed his hand, "I gotta talk to my friend. Nice meeting you."
+
+He nodded, walking off into the distance. I sat down with Kessiah, each of us staring forward. She sipped from some unknown brew, looking up at the television screen,
+
+"You know, I saw how you handled Alzoroth on the television."
+
+I nodded. Kessiah tilted her drink back and forth, looking at me, "They're playing you up like you're some anti-gialgathen icon."
+
+I turned towards her, "Really now?"
+
+She scoffed, "Yeah. Did you hear them right? Lots of people here despise those frog-dragons."
+
+I raised a hand, "You see the resemblance too?"
+
+She spread out her hand like I was ridiculous, "Well duh. I heard quite a few stories from some training buddies back Earth. A lot of them talked about dragons. They're just flying reptiles. Big whoop."
+
+I leaned back onto the bar, "They're more like noble beasts with pure hearts, at least in Earthen fiction...Earthen fiction. That feels weird to say."
+
+She sighed, "It is weird to say. My point is, whether they're frog dragons or not, someone is using you against them. That's what I gathered from those two mercenaries."
+
+I rolled my eyes, "Come on, this isn't something we have to worry about. Compare that to facing off against you know who. The stakes aren't as high."
+
+She tipped her head back, downing the shot glass's contents,
+
+"Can't say I didn't warn ya. Yo bartender, my friend's picking up the tab."
+
+The alien bartender nodded his head. She stood up, getting ready to leave. I reached out a hand as she turned around, "Wait a second, I forgot why I came here. Caprika's hosting us a feast. You're invited."
+
+Kessiah glanced back at me, "Thanks for the tip tough guy. I'll be there."
+
+She walked out. I stayed there, wondering how she was holding up. I didn't have time to worry about anyone else while we were fighting Yawm. Now I did. As much of an ass as Kessiah was, she was a friend. She spiraled downwards after the fight with Dahkma. She never really invested in the battle with Yawm ever.
+
+I didn't blame her. A part of me did at the time, but after it was over, I let bygones be bygones. I mean, no one should be forced into that kind of situation. Just because I forgave her didn't mean Kessiah forgave herself though. She might be carrying a ton of guilt for it.
+
+I wanted her to get back on her two feet. I resolved myself to let her know that it wasn't a big deal. She helped us out on more than one occasion regardless, like training a few of the soldiers and giving us vital information. That train of thought got me thinking about her warning.
+
+I never imagined someone would use my reputation against me. At least not like this. When I compared it to facing off against Yawm, my public image didn't seem like a necessary concern. After all, it lacked the same bloodthirsty, world-destroying edge that Yawm had. That's an edge that's hard to overcome in my book.
+
+Still, I respected Kessiah enough to give her words some merit. As lazy as she could be, she had a way of worming useful information out of people. Before I left, I ordered the bar's most popular drink to try it. While waiting for the order, I checked out my statuses.
+
+Over the last two weeks of doing odd jobs, I gained forty red cores. I invested all the free skill points into Force of Nature. By now, my current tree, Legendary, needed less than fifty points before gaining another tier in it. Completing the tree kind of terrified me, but life rewarded the brave and the bold. Most of the time.
+
+A drink slid out in front of me, interrupting my thoughts. I raised the glass to the bartender, and he gave me a nod as I said, "Cheers."
+
+My face mask moved out of the way as I gave my drink a swig. It closed in as quickly as I downed the mixture. It tasted just like a sharpy marker and the smell of a pencil box. A wave of nostalgia hit me for a second as I stood up. A bit of fire burned in my belly for the tiniest fraction of a second.
+
+No sense of euphoria passed over me. My body burned the alcohol like a furnace. I snickered at myself. Alcohol was poison, and my health regeneration was a bit too stout to let it affect me. Being huge didn't exactly help with my case either. If I wanted to cut loose, I'd need to find another vice I supposed.
+
+As I stepped out of the bar, the sun had set. Various plantlife lit the townscape, espens walking around. Fog followed them, keeping their amphibious skin hydrated. Icosah never slept, a crowd of people flooding its streets at all times. It made me pumped to see the capital considering this was such a small town.
+
+With that in mind, I set out towards Caprika's feast. Once I reached the Empire's castle of a branch, two guards opened the doors for me. Light poured out, phosphorescent creatures floating overhead. A pulsing, percussive melody played in the background, injecting a sense of energy inside.
+
+Anticipation rode up my limbs as I walked up the stairs and inside. The tiny, floating creatures moved out of my way, my height causing me to get in their way. I walked past the entrance, the receptionist of the empire walking up to me.
+
+She smiled, gesturing me to follow her. I did, passing more of the floating creatures. We walked over towards the throne room. I pointed at it, "Wasn't this place destroyed?"
+
+She nodded, "It's been renovated, sir."
+
+I squirmed at her calling me sir. I frowned, "Damn, that was fast."
+
+The receptionist gave me a bow, "I'll relay the compliment to the duchess. Enjoy your feast."
+
+She walked off, leaving me in front of another set of wooden doors. From inside the room, the muffled music ebbed outward. It reminded me of club music, though heavier in tone. I pushed open the doorway, revealing a place packed with people to the brim.
+
+They danced with lights beaming down from other shining creatures above. An alien DJ played music while everybody else danced their asses off. Servants walked around, giving everyone free drinks and food. Chilled fruits, meats, powders, and drinks lined tables at the edges of the room.
+
+Aliens sat beside these tables, eating and talking. Some people ate the random powders at the table, going off and dancing up a frenzy afterward. The sheer vitality in the room was contagious, though my willpower gave me immunity to the peer pressure.
+
+A few of those peers glanced at me as I walked in. They raised their hands, cheering at me. Their cheer caused others to look. Given my height, pretty much everyone could see me. The small set of shouts turned into a roar of applause.
+
+Indulging myself a little, I put a hand on my chest and bowed a little while saying, "You're all too kind, just too kind."
+
+I laughed at myself, thinking it was strange facing so much celebration over something so little. Either way, I paced into the crowd before someone bumped into me. The nearly knocked me over, the strength of a steamroller behind them. I glanced down, finding Althea laughing. She smiled like there was no tomorrow. In her thick veil and accentuating her curves, she stunned me with how gorgeous she was.
+
+She hugged me, squeezing the life from my chest. I patted her back, "Hey, use a little less strength there. Are you trying to kill me?"
+
+She giggled, "Nope, but I'll take you to heaven later tonight."
+
+I liked the sound of that. She pulled me to the dance floor, Althea going crazy. I stood there like a fish flopping out of the water. I looked around, awkward as fuck. Althea slapped my back, "What are you doing? Could you relax a little for once?"
+
+I frowned, "I'm relaxed all the time."
+
+She scoffed, "Then why aren't you dancing?"
+
+I shrugged, "I have no idea how."
+
+She giggled again, "What? Just...I don't know, pretend you're in one of you're...training sessions or something."
+
+She stumbled sideways, but I held her up. She downed her drink. She dropped the glass, but I caught it with some magic. I sent it off to a nearby servant, saving some people from a foot full of glass. I grabbed Althea's shoulders,
+
+"Not everyone here has skin of stone. Dropping a glass like that's dangerous as hell."
+
+She rolled her eyes again, "You know what? You looked so cool at the tournament. You always do. I knew you'd...handle it. You always handle everything."
+
+She put a hand on my chest, "You don't have to handle everything always. You know that right?"
+
+I nodded, "Of course I do."
+
+She spread out her hands, "Then just let go for one night and enjoy yourself. You don't always have to compete with a flagpole to see who's more stiffer."
+
+"You mean more stiff?"
+
+She shook her head, wagging a finger at me, "Nope. More stiffer."
+
+I rolled my eyes, smiling despite myself. I tried out a goofy jig, getting a laugh out of Althea. I slapped my thighs, "There, happy?"
+
+She lifted herself to her tippy toes, hugging me, "Yes."
+
+She grabbed my hands, lifting them up and down while twisting her hips. For some reason, every girl could dance like a champ. As a guy, it took severe training to get good on a dancefloor.
+
+Without the skills to pull off anything even remotely impressive, I played up how awful I was at busting a move for laughs. Hell, you could probably tell how bad I was at dancing by how I called it busting a move.
+
+Despite my mediocrity, Althea and I had a blast. Caprika ended up walking up to us, dressed in a gown that worked with her fur. The albony shouted up at me over the music,
+
+"Having fun?"
+
+I nodded, "Yeah." I looked down at Althea, "I have good company."
+
+Caprika nodded, "Remember all of this. This is how the empire throws feasts."
+
+I gave her the thumbs up before dancing again with Althea. After a while, we moved like no one was watching. It amazed me how private a party could feel at times. The dark lights, loud music, and pulsing lights hid you from the attention of other people. That's why Althea and I danced like we were in our own little world.
+
+After a few hours of eating food and being goofballs, Althea and I left the feast. It wasn't my scene, not even the slightest bit. Althea thrived there though, and she let me loosen up while we were there. It was a lot of fun because of her.
+
+As we left, she kept stumbling around. From what I saw, she was playing up how drunk she felt to keep the good energy flowing. I appreciated the effort, steadying her without complaint. We got back to an inn in the middle of town. I didn't want to camp outside for a night. Besides, we could appreciate the privacy.
+
+Once there Althea flopped on the bed, spreading out her arms and legs,
+
+"Ahhh, this bed feels so soft."
+
+Her figure showed while she spread out. Her toned legs and arms, curvy hips, and voluptuous chest pressed on her clothes. Her hair went down to her waist, the purple hair smelling like lavender. She hugged a pillow, giving me a sly look out of the corner of her eye.
+
+Fire flared in my chest as she moved her hips back and forth. With her voice dripping with seduction, she whispered,
+
+"You want to be a little wild tonight?"

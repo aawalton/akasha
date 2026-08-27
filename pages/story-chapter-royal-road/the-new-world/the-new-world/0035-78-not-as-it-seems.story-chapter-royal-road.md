@@ -1,0 +1,203 @@
+---
+id: 16cd7e05-63f8-51e8-9a59-98570ed68c9a
+page-type-slug: story-chapter-royal-road
+title: "78 Not As It Seems"
+slug: 0035-78-not-as-it-seems
+partOf: the-new-world
+position: 35
+ownLength: 3137
+unit: words
+ownProgress: 3137
+publishedAt: 2017-11-20
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/175483/78-not-as-it-seems"
+royalRoadId: "175483"
+markedReadAt: "2026-06-29T21:21:58.164Z"
+---
+
+The wind rushed past my face as the sand came closer. I reformed my armor, activating the Earth Glider skill. I sliced into the sand like diving into water. I shot through the sand, burning through it. The sand grazed against my sides, collecting heat over my armor. The friction built, my armor scorching me like a rope scraping your hand too fast.
+
+With each stomp of my foot, a telekinetic burst detonated into the sand. Once I neared the surface, waves of sand erupted behind me in time with each stomp. As I flowed through the sand, a near deafening rumble came towards me. Using the unique skill Tactile Cognition, I used the vibrations to visualize my surroundings.
+
+Even with my eyes shut, my sense of touch let me understand where the worm was coming from. Below me, a massive form shot towards me at an explosive speed. It was the King of Drikah. As it neared me, my ascendant mana roared in my bones. Sacrificing a chunk of my health, I empowered myself until my movement crushed the sand to fine powder.
+
+The Drikah shot past me, missing by a few feet. The shockwave of his passing sent me flying. I flipped several times before finding the ground. I angled myself, slipping into the side of a dune. So far, so good. After another minute, the sandworm made another pass at me. Sacrificing a chunk of my health once more, I accelerated past his mad dash.
+
+The Drikah flopped up and out of the ground once more. This time he belly flopped against the sand, detonating a titanic explosion. The shock wave passed through me, rattling my bones and destroying blood vessels. Blood spurted out of my eyes and gushed from my mouth. Even just being near the fucking thing was that dangerous.
+
+Not letting the opportunity slip, I shot towards the monster before flying out of the sand. Like a cannonball, I collided with the monster and unleashed Volatile Carnage at my full strength. Even when I covered my ears, the thundering might of the blow left my ears ringing. The impact shot into the side of the worm, causing the flesh of it to bend.
+
+The monster’s tough hide rippled on the surface of its skin, a heated crater forming in it. The collision ruptured through the hide at the crater’s center, just large enough for my hand to be stuck. Before jerking my hand out of its hide, I dug my armor into the monster. As I jumped away, a chunk of the monster’s flesh ripped out.
+
+The Drikah roared, tossing its head back and forth. Killing it might not be as hard as I imagined it would be. Snapping like lightning, the Drikah whipped its head towards me. I dived into the sand and shot myself away. Before I escaped, another cataclysmic wave of force shot through me. More blood gushed from my mouth, ears, and eyes.
+
+It wouldn’t stop me. I still had 80% of my health left, despite all the damage. My body was made of tough stuff after all. I wasn’t going to fight it head on right now though, so I evaded another of the monster’s dashes. Before it came back, I flopped out of the sand like a dolphin coming out of the water,
+
+I shouted, “Come get me.”
+
+Althea brandished her wings, shooting off the cliff face. Hod leapt forward, gliding on his wings. I drilled towards them, trying to reach the rock wall. I sensed things squirming near it. Thousands of smaller worms writhed there, awakened by my presence. When I focused hard, the way they awakened became clear.
+
+The monsters were stony, solid blocks before reverting to starving grubs. That’s why I hadn’t seen or sensed them prior. They were identical to rocks when hibernating. Now fully awakened, they swarmed towards me. I wasn’t worried. I expected as much from a boss this high level. I needed to keep my head cool and my pace level. Panicking would do me no good.
+
+Easy to think, hard to do. The earth bending sound of the worm coming did me no favors either. The sound of flapping came into focus from overhead, so I shot myself out of the sand right towards the sound. Althea passed by me, gripping her talons into my shoulders like an eagle catching its prey. Behind us, Hod landed onto the sand, facing the worms.
+
+I shouted, “What the fuck are you doing Hod?”
+
+Hod yelled, “Hod killing larva. Less larva, less Drikah. Less Drikah, better world.”
+
+I facepalmed before creating a gravity vortex in front of us. It helped pull Althea and me along, blasting a tunnel of wind at us. I stepped onto telekinetic pads to help turn us around as Althea flapped her wings like a crazed crow. We turned back towards the mountain, aiming to save Hod from his own lunacy. As we approached, Hod removed his gas mask. He spread out his arms and breathed in the toxic air.
+
+The feathers lining his body sharpened and raised off him, puffing him up. His body expanded as his breathing grew rapid. The teeth underneath his jawline elongated and sharpened. The white of his eyes flooded with black energy, along with his talons and teeth, darkening them. The air around him sucked into his chest, slowly building him from a lanky bird and into a brute.
+
+Hod slammed his hands together. In a deep, ragged voice, Hod roared, “Hod now know where you hide, little larva.”
+
+He breathed deep once more, holding his breath as black drool leaked from his mouth. His talons expanded, drawing in the surrounding light as he dashed into the pack of monsters. He swiped towards the first larva, missing it because he attacked too soon. At least I thought he did. His blackened talons left streaks of darkness in the air that lingered like blotches of floating ink.
+
+As the larva jumped towards him, the black streaks stayed afloat. Whenever the larva charged into the streaks, the black marks sliced them apart. The larva offered no resistance to the technique either. The perfect cross sections of the bugs could attest to that.
+
+With grace, Hod weaved around his own black markings, continuing his onslaught. As he sliced again, the old markings disappeared behind him and new ones appeared where he sliced. He chained these formations together, utterly destroying the larva.
+
+Within seconds, he butchered swarm after swarm of the insects. Here I thought we would have to save him. Instead of being a complete idiot, Hod turned into a total badass. As his rampaging continued, the rumbling of the Drikah roared in our ears. Time was running out, so I shouted over the chaos,
+
+“We need to get out of here. He’s got things handled.”
+
+Althea yelled, “Yeah. Let’s let him do his thing.”
+
+Hod tore two larvae apart, drinking the blood as he thundered, “Hod will eat you filthy insects, just as filthy insects eat Hod Parents.”
+
+When we passed by him, he glanced at us then back towards the ground. Around him, a sea of gore and shredded bodies covered him and the sand. With no larva left to kill, Hod nodded in satisfaction before firing a hook into the wall of the mountain. He turned himself around, breathing out all the toxic air he had held in. His awesome, badass form melted into the thin, spindly Hod I was used to seeing.
+
+Combine the blowback from his deformation with the hook’s pull, and he bolted towards us like a racehorse smoking crack. Just as he gained speed, the sandworm cleaved the spot he was standing at. In typical Hod fashion, he ruined the epic performance in one fell swoop.
+
+You see, he hadn’t planned out his landing.
+
+He slapped into the stone wall like a bird slamming into a window. Before he peeled off the wall, Hod lifted his face back and stabbed his beak into the wall. Relaxing himself, one of his arms hung by his side, broken and limp.
+
+Sounding like he was holding his nose shut, he whimpered, “Harbinger, lady friend, please help Hod.”
+
+Althea dived off the cliff before snatching him off the sheer face of the mountain. Once he was up with us, I ripped off a piece of my armor. After straightening it, I carved out a few runes real quick. After charging it with my mana for a few minutes, I took two more strips from my armor and walked over to Hod.
+
+He whimpered, holding his broken arm. Tears of white poured from his circular, blank eyes. They evaporated into a fog as he turned to me, “Hod hurt Hod’s arm.”
+
+He held it up to me, expecting something. Honestly, I don’t know what exactly. Not wanting to betray his expectations for something, I frowned,
+
+“This is going to hurt really, really bad.”
+
+I grabbed his arm and jerked it into place. He howled before I pressed his arm against the straightened armor I made. Using the two other strips, I tied Hod’s arm in place.
+
+The mana ebbed into his skin and bone, healing him through the power of the runes. It would take time, but making the splint out of metal ensured he wasn’t getting rid of it anytime soon. Hod sighed in relief when the aura leaked into his arm. He turned up to me,
+
+“Hod thought Harbinger evil for second there. Hod thankful that Hod wrong.”
+
+I sat down, letting myself fall against the rocky ground. It cracked before I crossed my legs and leaned back. I propped myself up on my arms,
+
+“Alright Hod. First off, that was awesome. Second, what the fuck was it exactly?”
+
+Althea sat down on her legs, folding her wings together. Hod peered down, propping his splinted arm into his stomach. He glanced back up at me,
+
+“Hod sorry. Hod not want Harbinger and lady friend to hate Hod, so Hod hold secrets.”
+
+Hod peeked at the sand dunes, “Hod parents were seekers. Hod mention to throw Harbinger and lady friend off track. Hod fail.”
+
+Althea and I looked at each other in confusion. Both our faces went blank as Hod continued,
+
+“Hod know it hard to believe when looking at Hod…but Hod parents very deformed. Harbinger and lady friend may not believe it, but Hod’s parents even more ugly than Harbinger or lady friend.”
+
+Althea rolled her eyes before Hod gestured at the desert, “Hod born of corruption. Hod born as part of world. Hod draw energy from air that corrupt world. Hod build himself into part monster. Hod hold it in. Hod let it out when job finished.”
+
+He scanned the dunes, “Hod not like other seekers. Hod drink the corruption. Hod use it as strength.” He turned to me, an almost sinister tone in his voice, “Just like Harbinger.”
+
+A tense atmosphere passed. Hod stood, turning to us both. A second later, he shrugged, “Hod think this true. Hod not know for sure.”
+
+I scratched the side of my face, sand falling out of my helmet, “You sure it was inherited from your parents? That shit on the seekers looks more like cancer than eldritch.”
+
+Hod peered up, tapping the metallic plate covering his head. He raised the finger to the sky, “Hod have one other guess.”
+
+He pulled off his cape, revealing a ragged, black long sleeve underneath. After taking the shirt off, he turned his back towards us. Across it, only a few feathers dotted his pale skin. A massive, intricate tattoo traced up and down his entire back. Beneath the tattoo, lines and lines of symbols were branded into his skin.
+
+“Hod think it could be this. This last message parents left Hod. Hod still not read it…” He turned to me, “Ok, Harbinger force it out of Hod. Hod can’t read. Too hard for Hod.”
+
+I stood up, shaking my head, “I don’t think this is a message.”
+
+I walked over and glanced closer at them. The tattoo and brand both had been done multiple times. Upon the scar, different textures and depths of scarring were used. Combine that with the several colors of the tattoo, and it looked like a puzzle more than language.
+
+I nodded, “Yup. This is what causes your transformation. This is like a variant of the eldritch runes.” I gave Hod some space as he put back on his shirt and cape. I cupped my chin, “Hod, can you tell me anything about your parents?”
+
+Hod shrugged, “Hod know little. They die not long after Hod born. Parents not obey other elders. Parents disobey tradition. Village kill parents, throw them to worms. Hod angry, but parents tamper in dark arts. Parents write the language of ancients.”
+
+My eyes narrowed, “You’re telling me they could write the eldritch runes?”
+
+“Language of ancients, runes, Hod not know what it called. Hod do know runes evil. Runes brought cataclysm. Runes brought end. Now village suffer.”
+
+Althea turned from me to Hod, “Does anybody, I don’t know, remember more about that stuff?”
+
+Hod nodded, “Elders do. Hod take you. Hod even put in good word for Harbinger and lady friend.”
+
+I nodded, “Then let’s go.”
+
+We passed through the tunnels of rock. More life thrived the cavern until we reached the massive chasm the Eltari called home. Once inside, we headed out towards the elder’s shanty shack. Just like before, the village greeted Hod with open arms. Based on what I heard, most seekers were isolated and treated as freaks.
+
+Despite that, Hod’s personality had a way of disarming people. Even I was a victim of that. So were the elders. Jass, the only speaking elder so far, walked out of her shack. When she saw us, she raised an eyebrow,
+
+“You killed the Drikah?”
+
+Hod shook his head, “Harbinger hasn’t. Harbinger getting closer. Not why here though. Harbinger interested in history of village. Jass smartest elder, know the most about village. Jass help Harbinger?”
+
+Jass pursed her lips, her eyes narrowing, “If I must.”
+
+I jumped up towards her, landing on a telekinetic pad that compressed my sides. I glimpsed at her, “I just have a few questions.”
+
+We walked into the room full of other elders. The wheezing, sniffling, and medley of odors made the place less than pleasant. I was on a mission though, so I waited until Jass sat down on a cushioned seat that used old feathers.
+
+I opened a palm to her, “Why do you kill people who know the ancient one’s language?”
+
+The old seekers looked at me from across the room. Several of them sharpened their gazes. Many of them kept drooling as they stared at nothing. Jass sighed, “You ask questions that are hard to answer.”
+
+I waited for a real answer. She glanced up at the ceiling then back at me, “Because the language caused the cataclysm.”
+
+I leaned towards her, “How do you know that?”
+
+She glanced around the room like she was looking for a way out, “It is a part of the legends told during mealtimes. The ancients discovered a language that could do things that shouldn’t be done. They opened a doorway that should never have been opened. What came through that doorway obliterated them, leaving nothing but their precious runes behind.”
+
+She leaned onto her cane, “Their dabbling destroyed our people.”
+
+I raised an eyebrow, “So you’re telling me you killed two seekers because of some myth?”
+
+Her eyes hardened, “They both studied the language for ages. They ran experiments on living Eltari. On our people. They touted that they could create an Eltari immune to the corruption. They spoke lies about us being able to return to the surface safely. Our people have scraped by for many years by following our traditions. It is the exploration they so craved that caused the cataclysm.
+
+I crossed my arms, “There’s nothing that verifies that though. You’re basing all this on that one assumption. That’s like building a castle on sand. It’s dumb.”
+
+She coughed into her hand while the other elders shifted in their seats. I held firm.
+
+She stared daggers at me, “We know it is true. We are not as primitive as you’d like to think we are.”
+
+I rolled my eyes, “Come on then, let’s see it.”
+
+She glanced at the other elders. She bit her lip then walked over towards a mat made of straw. She kicked it aside, exposing a trap door. She tapped it with her cane, “Look at it.”
+
+I walked over, lunging to one knee and landing on a telekinetic pad. The trapdoor popped open from redirecting the force of the lunge, and I caught the doorway with a hand. Within were stone tablets and a pile of garbage, including the gas masks the seekers used. I glanced up at her,
+
+“What is this?”
+
+She frowned, “What remains of the ancients.”
+
+I turned back to the piles. Inside were yellowed paper manuals. Some of them revolved around farming in desserts. Others explained how to collect water. They all revolved around surviving a desert climate. On the dozens of tablets were incomplete markings of the eldritch runes. I leaned closer, tapping the edge of one.
+
+I clanked my teeth, “These are the tablets that Hod’s parents used.”
+
+Jass nodded, “And they’re what caused the second coming.”
+
+I turned to her, “The second what?”
+
+“The second cataclysm. The sky turned from orange to red. The machines came once more.”
+
+I squinted my eyes, “Machines…what did the machines look like.”
+
+She bent over and took the tablet out of my hand, glancing at it as if staring somewhere else in time. She answered,
+
+“There were three of them that came. Two of them wielded violet spears, covered in blue armor. They were covered in a blue aura and armor, and they covered their faces with masks. No eyes or ears or anything.”
+
+I gritted my teeth as she continued, “The other was a giant with enormous hands and covered in black, except the shining steel over it. It glowed and hissed as it moved, and it would lift its hands and bend anything it wanted too with just its fingers. It had several eyes over it, and it made the sky change with gigantic squares.”
+
+I shook my head, groping for possibilities. It had to be something else. I thought of all the eldritch I’d faced, but none of them fit the bill. None of the monsters in the books Torix gave me matched her description either. The resemblance was uncanny, from the violet spear to the dimensional shift using squares. There was only one thing that either of those could be.
+
+I whispered, “Those machines…They sound a lot like a sentinel and overseer.”

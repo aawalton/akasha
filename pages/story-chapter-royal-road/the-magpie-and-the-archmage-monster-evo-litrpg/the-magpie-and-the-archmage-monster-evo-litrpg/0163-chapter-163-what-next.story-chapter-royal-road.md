@@ -1,0 +1,173 @@
+---
+id: 54273add-d251-5a3f-81b4-2ef8b3ee7de0
+page-type-slug: story-chapter-royal-road
+title: "Chapter 163 – What Next?"
+slug: 0163-chapter-163-what-next
+partOf: the-magpie-and-the-archmage-monster-evo-litrpg
+position: 163
+ownLength: 2039
+unit: words
+publishedAt: 2026-08-17
+link: "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3824172/chapter-163-what-next"
+royalRoadId: "3824172"
+---
+
+"Stop the ritual!" Liora and Cee both screeched at the same time and moved towards the ritual circle.
+
+"DON'T!" Renir screamed, stopping the two before they could reach it. "If you interrupt the ritual, then he'll die for sure!"
+
+"Why didn't you warn us?" Liora glared at Renir. "Aren't you supposed to be an all-knowing mage?"
+
+"I have never once claimed to be all-knowing! Magic has so many nuances, not to mention the fact that each day we are coming up with new ways of using it, new ways of weaving and connecting spells. You alone have come up with so many new things by just combining your holy magic with physical attacks—"
+
+"Get to the point already!" Liora screeched, looking nervously at Caspian, who seemed to be twisting and turning in agony as strands of magic seemed to pull on his body.
+
+"The point is—don't expect me to know some forbidden merfolk rituals when I've never even been to merfolk city before! Their magic is completely new to me!" Renir grumbled.
+
+"But I didn't agree to witness this fool killing himself just to get some legs! Couldn't we have done the little mermaid instead?" Cee scuttled from side to side, panicking as the ritual continued. Even Smokey was observing it nervously, his tail swishing from side to side.
+
+"The little mermaid?" Renir asked.
+
+"You know, you trade in your beautiful voice for a pair of legs!" Cee said. "And to keep them, you have to kiss your one true love."
+
+"What kind of nonsense is that?" Renir looked at Cee as if she were crazy.
+
+"Didn't she turn into sea foam at the end of the original story? Because her true love married someone else?" Liora asked.
+
+"Oh yeah… Yeah… Let's not do that," Cee drawled out.
+
+They all stared as the ritual circle flashed and the water inside the basin seemed to boil. Caspain screamed and twisted, and Liora couldn't help but avert her gaze. If she had known that there was a chance for him to die, Liora would have never agreed to this.
+
+It made sense why the other merfolk said that this ritual was forbidden, but they could have at least warned her, instead of just swimming away. Liora prayed with all her heart that the ritual would succeed. She wasn't eager to end up with a merman's corpse.
+
+The magic continued to rage and ravage Caspian, creating hot steam around him. Eventually, it was so thick that even Liora couldn't see through it. The only thing they could see was an occasional flash of magic. The flashes became increasingly rarer until finally they stopped, alongside Caspian's groans of pain.
+
+They all waited silently for a long moment. Cee and Liora shared a nervous glance.
+
+"D-Do you think he's dead?" Cee asked.
+
+Liora didn't dare to answer. She wanted to say no, but everything had gone eerily silent.
+
+Please, don't be dead. Please, don't be dead!
+
+Another tense, quiet moment passed until finally they heard something. A gentle splash of water. Liora and Cee looked at each other, their expressions more hopeful.
+
+More splashing water followed by slow footsteps in the sand.
+
+"Th-This is really odd…" Caspian said from within the fog.
+
+Cee and Liora sighed in relief. He hadn't died. But the relief was short-lived as Caspian's form emerged from the steam cloud. He was standing unsteadily on his thin, long legs, balancing with his arms as he took a clumsy step forward.
+
+"How you manage with eight legs, Miss Spider, I have no clue, because these are quite unruly appendages," Caspian said.
+
+"Liora, don't look!" Renir screamed, running up to her and trying to get her attention away from Caspian.
+
+"Oh my…" Cee gaped, mirroring Liora's thoughts.
+
+Caspian was utterly naked, and well… let's just say that he wasn't lacking in size.
+
+"What?" Caspian seemed confused, then looked down at his legs. Noticing the… situation between them, he hurriedly covered up. "Holy seastars! I can't believe it! Humans have their… their… You know! It just dangles between their legs?"
+
+"I'm afraid so, friend," Renir said. "Do not just show it to my magpie! How rude!"
+
+"I apologize! I never expected the… you know, to just dangle around like that," Caspian said, clearly embarrassed.
+
+"How does it work for merpeople?" Cee asked, scuttling closer to Caspian.
+
+"No, we are not discussing this!" Renir interrupted, and Cee visibly slumped. "We need to get him some pants. Do either of you happen to have any in your Inventory?"
+
+"Why would I need human clothes?" Liora asked.
+
+"Where would we even get human clothes?" Cee shot back. "But hey, we're all friends here. There's no need for clothes. It's pretty warm here."
+
+"Cee…" Renir grumbled. "He's basically a fish out in the desert. He's going to fry alive."
+
+"I'm afraid that's true," Caspian said, taking a deliberate step away from Cee, who seemed to be slowly making her way closer to the merman. So this was her type, huh? Liora couldn't blame Cee. He did have some impressive… equipment.
+
+"Oh, I know! I can make you some clothes out of my tidesilk. I could even make them out of water webs, so your skin wouldn't dry out," Cee suggested.
+
+"You can do that?" Caspian looked impressed. "It would be most helpful. I cannot remain in this form permanently. Not at first, at least."
+
+"How does it work exactly?" Renir asked.
+
+"The ritual imbued me with a skill named Landwalker. It allows me to walk on land; however, after a certain amount of time, I need to spend some time in the water to recharge it. In the beginning, I can only spend around 3 hours in the sun and need 6 hours to recharge. But if Miss Spider could weave clothes from a water web, then perhaps I could remain in this form for a bit longer."
+
+"Fascinating! I've never heard of such a thing before. Is it a skill or a trait?" Renir asked.
+
+"It is a skill, however, I've read in the ancient text that if maxed out, this skill can turn into a permanent trait, letting me switch between two forms at will."
+
+"Amazing! Such skills are very, very rare!" Renir noted.
+
+"Indeed, I've only heard of one other—"
+
+"Okay, can you two nerds stop it! We need to get some pants on this merman and then decide what to do next!"
+
+"What's a nerd?" Renir asked.
+
+"You are!"
+
+"Then surely it must mean a truly intelligent individual of high standing!"
+
+"Why do you ruin my fun, Liora?" Cee grumbled, but began weaving pants out of her webs. In less than ten minutes, she had a white boxer-like garment ready for Caspian to wear, who took it gratefully.
+
+"Thank you very much for giving me this opportunity. I'm sorry I haven't introduced myself properly before, but my name is Caspian. I am the best healer in these seas, and I am honored to offer my services to you!" Caspian said, inclining his head slightly.
+
+They all had sat down in the shade beneath a palm tree on the far side of the oasis, so they wouldn't be bothered by any monsters who had decided to come for a drink.
+
+"Hey, we haven't yet fully decided what to do with you! But it is nice to have a proper introduction. I am Liora," Liora said.
+
+"I am Renir, the Pillar of—"
+
+She hurriedly grabbed the gem and tucked it underneath her. "He's just Renir."
+
+While Caspian would be travelling with them if things went well, there was no reason to expose who he truly was. Not before they could truly trust this merman.
+
+"Let me out here!" Renir demanded, his voice muffled underneath her feathers, but Liora ignored him.
+
+"I am Cee! Pleased to meet you, Caspian. This little guy over here is Smokey," Cee said, pointing at the wyvern who was basking in the sand, thoroughly enjoying the warmth.
+
+"You are an… unusual group," he noted.
+
+"Congratulations, and you'll be contributing to the overall weirdness!" Liora remarked.
+
+"Oh… I guess I will. So… what are you guys planning to do next?" He asked, as Cee wrapped a self-made cape with a hood around Caspian's shoulders to protect him from the sun.
+
+He certainly looked odd, dressed in nothing but white spider silk undies and a white cloak, but he did seem relieved to have them.
+
+Liora and Cee shared a look at the question, and Renir somehow managed to get out from underneath Liora, grumbling all the while.
+
+"Well, obviously, we want to break the next part of my seal. I'm rather tired of being small and useless. I want to regain my beautiful body as soon as possible!" Renir said firmly.
+
+"Yeah, but then we need to go to the antkin kingdom or whatever it is called. How do we get there? I mean, I don't know about you two, but I don't want to go back to the surface the same way we arrived. The Night Order creeps must be lurking everywhere, looking for us because we sunk their evil laboratory along with the whole island," Cee said.
+
+"It wouldn't be such a big problem if we could fly, but I can't carry everyone. I couldn't even take off with Cee and Smokey anymore. You're just too heavy!" Liora said.
+
+"The antkin? Do you mean the ones that live on the other entrance of this dungeon?" Caspian asked.
+
+"What?!" Liora, Renir, and Cee gaped at him.
+
+The merman flinched back. "Y-Yeah… They come to this oasis occasionally. Our people trade with them. They provide us with land materials while we give them algae, fish, and other sea materials."
+
+"What? Really?" Cee asked in disbelief. "That is so perfect! We just have to wait for their merchants to arrive and then go with them to their country. No evil mages, we likely get to hitch a ride, and we don't have to wander around searching for them blindly."
+
+"Yeah… But we never know when they're going to arrive. According to the antkin, this dungeon is really vast, and many unexpected obstacles can arise on the way. Sometimes they only come once every half a year."
+
+"When was the last time they came?" Renir asked.
+
+"Uhh… some two or three months ago," Caspian said.
+
+So they still could be waiting for three months until the merchants came. Liora felt discouraged at first, but then she realized that this was actually an opportunity.
+
+"I say we stay here in the oasis and wait for the antkin merchants. We train, level up, and improve our skills and traits. Caspian can learn how to walk faster than a toddler, and Smokey could learn to fly properly. Heck, maybe we could even have Smokey evolve so he could carry Cee. Then we could travel by flight again," Liora suggested.
+
+Renir looked thoughtful for a moment. "While I don't enjoy being in this body for longer than necessary, I think Liora is right. We all need to power up. The Night Order mages are actively hunting us. We are safe in this dungeon, so taking the time to train more could be worthwhile."
+
+"Smokey, did you hear that? You're going to evolve!" Cee squealed with delight.
+
+Smokey didn't understand what his master was so happy about, but jumped about happily anyway, his tongue lolling in and out of his mouth.
+
+Caspian looked thoughtful for a moment. "While I would like to explore the surface as soon as possible, I understand the need for preparations. I believe we can also spend the time to get to know each other better, and learn how to work as a team."
+
+"Yes, that is a valid point. We currently have a lot of different skill sets available. We need to establish proper roles so we can maximize this team's strength. And I don't mean just to integrate Caspian, I mean that we need to integrate Smokey too! It is time the wyvern started to earn his keep."
+
+Cee looked a bit worried for a moment, patting the wyvern with one of her legs. But eventually she agreed. "You're right. Smokey needs to learn how to fly and fight properly. Let's do this!"

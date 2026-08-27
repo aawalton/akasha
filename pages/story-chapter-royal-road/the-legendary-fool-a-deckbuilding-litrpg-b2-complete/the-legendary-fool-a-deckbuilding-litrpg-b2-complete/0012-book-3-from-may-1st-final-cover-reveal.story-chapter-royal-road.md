@@ -1,0 +1,35 @@
+---
+id: 83a3be67-c103-5388-85a6-49a5d71ce483
+page-type-slug: story-chapter-royal-road
+title: "Book 3 from May 1st + FINAL COVER REVEAL"
+slug: 0012-book-3-from-may-1st-final-cover-reveal
+partOf: the-legendary-fool-a-deckbuilding-litrpg-b2-complete
+position: 12
+ownLength: 379
+unit: words
+publishedAt: 2025-03-01
+link: "https://www.royalroad.com/fiction/60890/the-legendary-fool-a-deckbuilding-litrpg-b2-complete/chapter/2096874/book-3-from-may-1st-final-cover-reveal"
+royalRoadId: "2096874"
+---
+
+First and foremost, I just wanted to share the fantastic cover now that it's finally done! :D
+
+Check it out up there!
+
+After two years of writing The Legendary Fool, across 2 million views and nearly 5,000 followers, it's going to be releasing on amazon in exactly a month from today, on April 1st! I can finally start pushing the preorder now that the launch is only a month away and since I never really got around to opening a patreon for this story, this is the best way you can support future books. Three are guaranteed and I will definitely need a fourth if I want to wrap things up quicker, but I do believe that it's a very fun story and I want to keep writing it for as long as I can and the way the story is set up works works for a longer saga.
+
+Being honest, this is story doing well is probably the best shot I have of doing this full time- something that I would absolutely love to do- and to that end, any support you can show the story would go a long way to making that dream possible.
+
+As for book three and onwards, the date I've got planned for it is May 1st, 2025, which will be a month after the launch on April 1st, 2025 so I can get book 3 done and ready for publishing before book 2 releases. That's a mouthful, I know, but the tl;dr is, May 1st=more chapters, one way or the other. (For the people asking for an update, this is for you!)
+
+If you'd like to show some support to that dream, every preorder counts. If you've only got kindle unlimited, downloads on the launch date will help tremendously. If you cannot do either of those things, I totally understand- reviewing the story on Amazon still helps and I will make a post on launch day.
+
+Well, that's about it from my side- just wanted to keep y'all updated that book 3 is coming, because the fool has yet to conquer artezia!
+
+(Links on top and bottom, they're not allowed in the chapter area).
+
+Cheers and Warm regards,
+
+Daoist
+
+P.S.- hope the post isn't too janky, I'm writing this from a train

@@ -1,0 +1,335 @@
+---
+id: c35f2462-e1c6-577f-b613-bd04d06547f3
+page-type-slug: story-chapter-royal-road
+title: "The Path of Ascension Chapter 429"
+slug: 0128-the-path-of-ascension-chapter-429
+partOf: the-path-of-ascension
+position: 128
+ownLength: 5134
+unit: words
+ownProgress: 5134
+publishedAt: 2025-07-18
+link: "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/2446659/the-path-of-ascension-chapter-429"
+royalRoadId: "2446659"
+markedReadAt: "2026-06-29T19:22:17.005Z"
+---
+
+Chapter 429
+
+Tim collapsed into his bed the moment Ascender Titan left, utterly drained.
+
+The man had been far too enthusiastic about Tim’s Talent and had eagerly offered up interesting ideas to test things.
+
+From alchemy to the physical entries he had acquired, all had been thoroughly investigated. Each entry brought a dozen questions along with requests for examples for his simplifications. After he finally managed to relax a bit it was actually kinda fun, as the Ascender always had interesting comments and insights on the abilities, but it soon became a tad overwhelming and exhausting.
+
+That didn’t mean Tim hadn’t been interested or wasn’t having fun. He quite thoroughly enjoyed being able to talk with someone about his Talent in such an open and refreshing manner. It wasn’t until Ascender Titan was buying them dinner and reminding him to go see a lawyer in the morning that Tim realized just how tired he was.
+
+Sadly, while his body was done for and his brain hurt from all the thinking, his mind still raced like he had just woken up.
+
+Tim wasn’t sure what he wanted to do.
+
+He was fairly sure that so long as he just went to sleep and pretended that nothing had happened, Ascender Titan would respect his decision and leave him alone. At least, that was the impression he had. That was backed up by what he remembered of the history lessons on the Ascender, combined with the few hours of interactions they had had.
+
+Whether the truth was gilded in those lessons was a fearful little termite that ate at his confidence, but even his worst fears weren’t that bad. Not because he couldn’t picture terrible things, but because if Ascender Titan of all people wanted to kidnap him, Tim was sure he wouldn’t even know when or how it happened.
+
+The Tier gap and resulting power difference was just that large, and that was ignoring his political power.
+
+What was far more pressing was the offer itself, which loomed over him like the man himself did in his doorway what felt like just minutes ago.
+
+Taken at face value, it seemed like a massive boon and there weren’t any real downsides, even if he decided not to work for Ascender Titan after the training.
+
+No, the problem was it seemed too good to be true, and he was waiting for the other shoe to drop and kick him back into reality.
+
+He just couldn't see the trick or trap.
+
+Tim wished he had a Talent entry for law or reading contracts because that seemed to be the obvious place for a devious clause if one existed.
+
+Then there was the other aspect.
+
+Did he really want to become some mythical elite or important person that Ascender Titan was undoubtedly aiming to raise his sponsored people into?
+
+The answer came easily: not really.
+
+At least, he didn’t feel any pressing desire to do so like he figured the true elites had. Oh, his tired brain liked the idea of adoration and easy wealth, but if today was any indication, that edifice would be built on a lot of hard work and determination to push through the challenges that would stand in his way.
+
+Tim knew himself well enough to know he preferred to follow the path of least resistance.
+
+If he accepted, he might find himself forged into something, or rather someone, he might not recognize under the wings of two Ascenders.
+
+The big question was if he wanted that.
+
+And he wasn’t sure.
+
+The idea was enticing but another part of him just wanted to live forever and have an easy life where he could take his time and figure everything out.
+
+Finally, he called up Garrett, not caring that it was closer to midnight than dinner time.
+
+His friend's voice had a hint of the raspiness of sleep as he growled, “You better be dying.”
+
+Guilt hitting him, Tim deflected, “Hey, sorry. I didn’t realize how late it was. I—”
+
+Before he could say more, Garrett interjected forcefully, “What's wrong?”
+
+“Nothing man. So—”
+
+In a sharp tone he wasn’t used to hearing, Garrett said, “Speak or I'm going to get on a train. You are only two cities away. Then you’ll have really ruined my night.” In a softer tone, he added, “Come on dude I’ve known you since we were in diapers. I can hear it in your voice. Something's up. Spill.”
+
+Sighing, Tim started speaking. “I got an opportunity. A massive one. Honestly, massive is probably underselling it. I genuinely don’t know the words to express how big of an opportunity it is.”
+
+He wasn’t sure if Ascender Titan would mind if he told Garrett, but he didn’t want to risk it and ruin the opportunity before he had decided if he wanted it.
+
+Or that's what he told himself. If his mind repeated it enough times, he might even start to believe it himself.
+
+He was self-aware enough that he knew if he mentioned someone as important as a duke, let alone an Ascender, Garrett would tell him to take the offer and that he was an idiot to even consider turning it down. Which he might be, but he wanted the offer to stand on its own merit. Not the person behind said offer.
+
+Tim realized he must have been silent for longer than he thought, because Garrett made a humming sound, prodding him to continue.
+
+“I just… I’m conflicted if I should take the offer. I—. I don't know man, that's why I called.”
+
+“What is the offer? You haven't said. Or can you say at all?”
+
+Tim quickly checked, but there was no secrecy clause in the contract and so he read out a few select parts. “It's a Talent training program. A program to help me grow my Talent. I’d even earn a decent wage and the trainers are free, so I’d come out with a higher Tier and better abilities. The only cost is the value of rare materials provided, but I don’t know if I should take it. A part of me feels like I don’t deserve it. What if I’m not good enough and I leave here just to fail? Then I’d have wasted everyone's time and effort.”
+
+Garrett was silent long enough Tim started to wonder if his friend was considering how to let him down easy before he finally spoke. “Don’t ever tell my mother I said any of this, but you should take it.”
+
+“Wha—”
+
+In a rush, Garrett spoke over him. “My mom told me she was worried about you. She said you were a lot like your mother.”
+
+Sitting upright, his tiredness vanishing, Tim shouted, “What the fuck! I’m no—”
+
+Garrett barked at him, cutting him off. “Let me finish! My mom said you were a lot like your mother. Too smart for your own good. So smart that basically everything comes easily to you, so you never had to try. I tried to emulate you in high school, thinking I could also coast and succeed, but I learned that lesson the hard way. You are just smarter than I am. Kinda hurt my ego when I accepted that, but it's true. But that's your issue. You’ve never had to try. Leatherworking was hard for me. I didn’t get a Talent for it, but rather steady hands, which helps. The thing is, I learn something new pretty much every day. I’m waking up and practicing something familiar to make myself better, then pushing myself to advance later with the profits I’ve earned.”
+
+Tim wanted to interject but Garrett spoke without pause. “I challenge myself every day. When was the last time you challenged yourself? Actually challenged yourself? When was the last time your mother challenged herself? She works a job that is usually done by Tier 5s at Tier 3, while being a barely functional alcoholic. My mom rightly pointed out just how similar you two are in that regard. So smart you never need to push yourself, but as a result, slowly falling into… not depravity but, like, laziness. You never need to try, so you never do. After all, why bother if you’ll muddle through better than most who try anyway? You never fail, so you're never sad, but then the wins don’t have anything to compare them to, so you're also never happy. I don’t want to see you end up like your mother, man. She’s a shell of the person my mother talks about sometimes. So take the opportunity. Get out of here. Find a bigger stage where you can find a fire under your ass. Where you can find people as smart as yourself, who will drive you to be better. Who will prevent you from sinking into being like your mom.”
+
+That comment about his mother hit Tim like a kick in the teeth. Imagining his mother, he frowned.
+
+He didn’t want to be anything like her.
+
+He wasn’t anything like her.
+
+Except, even as he internally protested, Tim knew Garrett's words had a kernel of truth inside of them. He was slowly putting in less effort. Oh, he was still advancing, but he was comfortable and knew that was making him a little lax. It didn’t help that he had moved to a new city and didn’t know as many people, which made it all too easy to fall into isolating habits without a friend group to push him forward.
+
+“But if I go, I might not see you or anyone else again for years.”
+
+Garrett snorted, and Tim knew he was rolling his eyes. “Oh, don’t give me that. Messages might be a little slow if you are super far away, but it will be fine. It's not like you are dating anyone either, so don’t give me that excuse. I know you and Jared were talking, but it was never official, and Abby got tired of you not committing a lot of time ago, so don’t try and say you two are back together. Seriously man, you have something none of us do. If I push really hard, I’ll reach Tier 5, but I don’t really want, nor need, to advance past that. I want to get married and settle down, have a kid or three, and then retire, seeing the family business passed on like my mother is doing. I’m content, but you're merely complacent.”
+
+They sat there in a surprisingly comfortable silence for nearly twenty minutes before Tim quietly said, “Thanks man. You’re probably right, but I’ll never know if I stay here.”
+
+Garrett chuckled. “Congratulations man. Shine bright enough we can see you from down here.”
+
+Before he ended the call, Tim said, “I’ll do that.”
+
+He just hoped he wasn’t lying to both of them.
+
+A minute later he dragged himself into his shower before crawling under his sheets, mind finally settled enough to sleep.
+
+The next morning, he half expected Ascender Titan to be waiting for him, but his hallway was empty as he made his way down to a contract lawyer who took walk-ins. They looked over everything and confirmed that it was both genuine and without hidden clauses that might entrap Tim, even going so far as to comment that it was an incredibly generous contract.
+
+He hadn’t really expected any, but it was nice to hear his intuition was correct.
+
+After he agreed to the contract, he again expected Ascender Titan to appear next to him like higher Tiers did in the movies but, when nothing happened, he awkwardly walked back to his apartment not sure what to do.
+
+He didn’t have the Ascender’s contact info to call but, even if he did, there was no way he’d use it.
+
+He had instinctively moved to sit down and flick on the TV while stirring his new soup when he remembered his conversation with Garrett and not being complacent.
+
+To that end, he opened up an alchemy video teaching course as he stirred his small mug of soup.
+
+He was halfway through the second lesson when a knock at his door startled him badly enough, he knocked over his mug.
+
+Racing over, he unlocked the door, once more expecting Ascender Titan, only to find a delivery man handing him a backpack and clipboard to sign for it.
+
+At nearly the same time, his pad beeped. Ascender Titan sent him a message informing he should pack while he finished something else up.
+
+The spatial backpack was everything Tim had heard they were, and he spent more than a few minutes just playing with it.
+
+He had considered buying one sooner, but their exorbitant prices could have unlocked several entries, so he never managed to save up enough, knowing that as his Tier increased and his buying power went up, he’d eventually be able to afford one at little to no opportunity cost.
+
+In his exploration, he noted that the bag wasn’t all that high-end. Oh it was nice, made by a reputable local brand, but its size was fairly average for its Tier at three cubic feet. It was only when he finished packing that he realized Ascender Titan had given him a bag just big enough to contain all of his things.
+
+The weight of all of his belongings was a little rough, but nothing he couldn’t handle, so long as they weren’t going to do anything crazy and walk to the ducal capital, however many planets away that was.
+
+Sitting back down, Tim realized he didn’t have anything he could do, having packed up his belongings. Before he could even get that comfortable on his couch, a familiar knock at his door jarred him from his musings.
+
+Standing up, he rushed to the exit to see Ascender Titan just lowering his hand from the doorbell while munching on a breakfast burrito he knew was only sold on the other side of the planet.
+
+Tim was going to ask how that made any sense when Ascender Titan stepped inside and said, “Okay, let’s go. I’m glad you agreed. We are going to have a ton of fun.”
+
+“How—”
+
+Tim’s question of how they were going to leave was answered when a woman with skin like stars appeared in front of them for the briefest instant.
+
+Before Tim could properly realize he had seen another Ascender, Ascender Shadow, she was gone.
+
+If the instant perspiration was any indication, Tim knew he had arrived on Palustris and it was time for his big break.
+
+If he could properly grasp it.
+
+Mustering his determination, Tim looked to Ascender Titan for what he should do next when another familiar face from his history books stepped into existence a few feet away.
+
+Ascender Legion.
+
+Tim half expected Ascenders Wraith and Light to appear as well, but neither did. Or at least, he couldn’t see them.
+
+“Why hello there.”
+
+Ascender Legion nodded to him before looking to Ascender Titan with an arched eyebrow, clearly asking who he was and why he was there.
+
+Tim tried to follow that silent communication, but his attention was drawn to the hawk-like-phoenix resting on her shoulder, assessing him with terrifyingly sharp eyes.
+
+As the bird's head cocked nearly sideways, Ascender Legion's other eyebrow joined the first, nearly in her hairline, as she turned her attention to him.
+
+“Now that is interesting. Nice to meet you, Tim. I hear you are a budding alchemist. Want to trade notes?”
+
+Tim spluttered. “I wouldn’t. I can’t. I umm. I’m happy to share, but it's not that impressive.”
+
+Ascender Legion smiled, her deeply tanned skin with a golden glowing undertone magnifying the action into something blinding.
+
+“We have time for that later. Why don’t you get unpacked. You are student two of two currently, but more should be arriving in the coming weeks. First step is getting you an AI, which we’ll do once you are settled.”
+
+Tim was interested in this other person who could catch the Ascender's attention, but just nodded as he was led through what he realized was an estate.
+
+Or, that was the only word he had for the compound they were in.
+
+It almost felt like a school in that there were clearly classrooms and lecture halls, but those rooms were the exception rather than the rule, with far more rooms dedicated to crafts of all kinds.
+
+He wasn't able to see too much, given the pace the Ascenders set guiding him to his room.
+
+It was a suite of rooms which surprised him. He had expected more of a dorm room style. The common room seemed like a prime area for relaxing and socializing with the three other possible roommates, if the extra doors were any indication.
+
+Tim wasn’t sure what he was expecting in his personal room. Ascenders running the place meant they could be the lap of luxury, or bottom of the barrel worst apartments, to discourage people from spending all of their time in their rooms alone.
+
+With his thoughts running wild, he was mildly disappointed when he finally entered his room. It was nice, which was a relief, but not fancy, with no high Tier-tech only seen in movies. It did, however, have a full bath, along with one of the nicest beds he had ever sat on, let alone slept in. Even just giving it a few bounces, he could feel it reacting and adjusting its firmness to better cradle him.
+
+He wasn’t sure what to do with the alchemy set, as that was the only thing he didn’t see a place for, but figured he could ask later.
+
+Except, before he knew it, Tim was laying face down and getting an AI chip stuck into the base of his skull by an onsite healer.
+
+At first it didn’t seem so bad, and he was going to argue that they didn’t need to wait for the rest of the tour, but he was soon proven wrong. Before he could even finish eating the meal he had been handed, he already felt the effect starting to hit him. The following three days were like the worst cold Tim had ever had, with him hardly able to think due to the pressure that felt like his head would explode.
+
+If it wasn’t for the food delivered to his door, he wouldn’t have eaten the few spoonfuls he managed to shovel down before passing back out again.
+
+Thankfully, after waking up on the fourth day, he felt perfectly refreshed and started playing with his AI, having heard so much about them growing up.
+
+He was halfway through transferring his information from his pad to his AI when he felt several pulses as his Talent added new entries.
+
+Checking in his AI was as simple as mentally bringing up his Talent.
+
+Beginner AI Integration: 0/100 Proficiency — Unlock Cost: 2,000,000 Credits.
+
+Beginner AI Efficiency: 0/100 Proficiency — Unlock Cost: 3,200,000 Credits.
+
+Beginner AI Processing: 0/100 Proficiency — Unlock Cost: 5,000,000 Credits.
+
+Tim just scoffed at the prices, but then realized they might not be so far out of his reach as he initially thought.
+
+Millions of credits were nothing to a high Tier, let alone an Ascender.
+
+Sadly, his aspirations of mooching off their credits that instant vanished as he met his roommate, who was doing a plank in front of the screen in the common room.
+
+Sweat was dripping off his nose onto the towel in a river, but it didn’t seem to bother the other guy as he spoke without even seeming winded. “Hey! Name’s Stew. Glad to finally meet you. At least officially. We sort of met two days ago, but you were in an AI fugue so I figure it’s safe to consider this our first meeting.”
+
+Finally, as Stew stopped speaking, his quivering arms gave out and he dropped to the ground with a small thud.
+
+After wiping himself off, Stew proffered a hand and they shook, giving Tim a good look at the other man. Maybe a few years younger than himself, mid-twenties at max, but with an intensity that Tim knew would attract people.
+
+He was even a little taken aback as his preferences generally trended to more effeminate men, and he had to wonder if that was Stew’s Talent. Strong social Talents were more rumors than anything else in Calafor, so Tim had never knowingly met someone with one, and he had to wonder if that was what he was dealing with.
+
+Still, that was no reason to be rude or standoffish, so Tim asked, “What can you tell me of this place? I sort of accepted with minimal information and just got back onto my feet.”
+
+Stew shrugged even as he sat at the central table, a plate of food rising out of it to leave Tim staring in shock. That was some of the incredibly advanced tech he had expected in his bedroom.
+
+“I don’t know a ton either, but Ascender Titan said we’d be getting more information in the next few days as more people arrive. That was when they brought you back, so I assume that means today. I already had an AI, and so have been hanging around for the last month or so as everything got built.”
+
+And Stew turned out to be correct as Ascenders Titan and Legion both arrived and gave them a tour.
+
+With Tim’s new AI, it felt a little redundant, but he wasn’t going to say that to one Ascender, let alone two.
+
+Once the tour ended, the two Ascenders looked to Stew which surprised him.
+
+Ascender Legion, however, did the speaking. “You two are kind of our test bed for the next few weeks. We are going to have additional staff arriving in the next day or so, but until then, we'll be working with you guys more directly. Stew, you said you wanted to learn alchemy. Coincidentally, Tim needs to do the same, so we’ll start you guys both on that, as our alchemy teacher has arrived. At least for a few hours. After that, Tim is going to be busy with Matt. But first, we need to have you two see the deputy headmaster.”
+
+Tim wasn’t sure he liked the sound of that, but followed along to a man Stew seemed already familiar with.
+
+He was a similarly tall man who had a voice so deep it rattled in Tim’s chest. “My name is Vincent Marcone, Tier 30 and the deputy headmaster. I am also the Empire-provided advocate for all students. My duty is to help guide your schooling and ensure you aren’t being taken advantage of. I, and the career planner, will be the only ones who know of your full Talents unless you choose to inform others or are part of training that demands parts of your Talent be explained to the relevant parties. We strive to ensure that such things happen as little as possible, but it may occur depending on the Talents in question.”
+
+An equally tall woman stepped forward, introducing herself, “Mertha, Tier 25, and I have a Talent that allows me to create the best training programs possible for Talented individuals such as yourselves. Such discussion will be privatized via a mind-alteration device that will prevent me from remembering anything once I leave the conference room.”
+
+Tim thought the procedures were a little over-the-top, but went along with things as they progressed. Stew, as being the first student or whatever they were calling themselves, went first, but it only took ten minutes before he was out. Tim was led into the room where Mertha was sitting with a device on her head blinking merrily that she said prevented her from making long-term memories.
+
+Having already gone through it once, Tim was able to more easily explain his Talent in a succinct way.
+
+He was mildly amused when he got strange looks and finally was told she would need more time, and he was free to leave as she worked on a proper training program.
+
+From there, the Ascenders led them to an alchemy room where a busy looking man was waiting for them and introduced himself as someone who had a Domain for teaching and specialized in teaching alchemy.
+
+Stew seemed to be a true beginner, and so Tim knew quite a bit of the lesson, but he still tried to force himself to pay attention.
+
+He was glad he did, as they were almost immediately handed a set of ingredients and told to try making the potion.
+
+Just as they were getting started, the Ascenders came back in.
+
+“Oh yeah. Sorry, we meant to give these out earlier.” Ascender Legion waved a hand, and six small racks of rechargeable mana stones hovered in front of them, three each. “If you look near the door of every room, they are equipped with mana chargers. Feel free to use as much mana as you want. At your current Tiers, these should be good for five or six refills before needing to be recharged. That, and the recharge time of the device means you should never really need to worry about mana. Go ahead and aspect them and get them charging. Then, feel free to try the alchemy. Best way to learn is to fuck up. Dylan will protect you from any issues, explosive, corrosive, or otherwise.”
+
+Tim raised a tentative hand, and Ascender Legion nodded to him. “Should I buy the potion entry? It's only five thousand credits.”
+
+Stew didn’t react or even look at Tim, which he assumed meant Ascender Legion had blocked him and the teacher from hearing.
+
+After tapping her chin, she finally said, “Not today. We want to see if it gets cheaper if you already have knowledge of the process and what happens if you get proficient with the recipe first.”
+
+Tim nodded, silently kicking himself for never having considered that, even if he could admit to himself he’d probably not have wanted to spend the money such experimentation would cost.
+
+Not that his first few attempts were good. They were awful, and he was fairly sure that Stew was closer to succeeding than he was, clearly not being a true beginner either. Thankfully, after his initial awkward phase, Tim was able to start applying what he knew of alchemy to the process and nearly created a working potion, leveraging his experience in the two potions that created the merged healing and strengthening potion.
+
+Checking, he was disappointed to see the entry hadn’t changed in any way even after his third successful attempt.
+
+Shortly thereafter, when Ascender Legion brought out a spear to work with Stew in melee training, the phoenix led Tim to a teleportation array that brought him up to the moon owned by Titan’s Torch’s, where Ascender Titan was waiting for him.
+
+Ascender Titan was grinning as Tim looked around.
+
+“Welcome to Titan’s Torch’s headquarters. There are a lot of people who want to meet you and study your spirit and Talent. Especially the skill creation teams. They are incredibly interested in what your Talent might show them.”
+
+Tim must have looked apprehensive because Ascender Titan said, “You can decline if you want, but this can help them, and in turn, they can help you learn more about your Talent.”
+
+“I’m more than slightly weirded out about sharing my Talent so much and often. Sorry.”
+
+Ascender Titan waved his concern away. “Oh I haven’t told them anything and you are free to share as much or as little as you wish. All I told them was you had an innate understanding type of Talent and might have things they can learn.”
+
+Tim surprisingly felt slightly worse at the information, though he didn’t quite know why.
+
+Part of him wanted others to know about his Talent and be interested in it, while another just thought the whole taboo about sharing Talents probably had some reason behind it.
+
+“No, I'm fine with sharing. But do you think they will actually learn anything?”
+
+“At worst, nothing is learned. When you look at it that way, the only real outcome is positive, or neutral.”
+
+Tim felt there could be several negative outcomes, but didn’t say anything as Ascender Titan led him through a few clearly marked halls and into a laboratory that looked like it came out of a movie set.
+
+The place was packed with nearly fifty people, but more than that was the machinery littered through the room. A few pieces were even suspended by cables that seemed far too thin to hold up that much weight, which meant high Tier. It shouldn’t have surprised Tim, but it did.
+
+When Ascender Titan gave him an introduction to the group, their gazes intensified to the point Tim thought he could feel their spiritual perceptions, even though that shouldn’t have really been possible.
+
+Then, contrary to his expectations, they didn’t ask him anything and instead started arguing. At first, the speed they talked was understandable, but slowly their tempo increased until the words only sounded like a high-pitched buzzing.
+
+Finally, a woman with sparkling eyes stepped forward and asked him to enter a circle in the centre of the room.
+
+With a slight whirring sound, rings rose out of the ground, spinning dizzying circles around him. His worry abated when he realized they moved slowly enough even Tim, as a lowly Tier 3, could jump out if he needed to.
+
+His mind couldn't help but go to catastrophic failures like in a bad movie.
+
+Before he could get too worked up, the woman called out while looking at a screen Tim couldn’t see, “Okay, can you start doing your skill creation method? We are ready on this end.”
+
+“Do you care about the speed or anything?”
+
+His question started a second round of arguing, but it ended much faster. Finally, someone else answered his question but he couldn't see who, as they were out of his line of sight. “At this time, no. Just do whatever feels natural. This will be our baseline.”
+
+Tim shrugged. That wasn’t too hard and he liked that they were talking to him about what they wanted and actually consulted him a bit. While it probably didn’t change anything, it made him feel like part of the team instead of a lab rat to be experimented on.
+
+Beginner Skill Making Abbreviated([Solar Flare]): 0.4/100 Proficiency — Perform Kata.
+
+The entry had given him the information of the kata, which was basically him just waving his arms around and moving his spirit in specific ways in conjunction.
+
+Which made it easy enough to be meditative and he easily sunk into the motions as he heard Ascender Titan and the researchers start to talk.
+
+If this was his new normal, Tim thought he could come to enjoy this.

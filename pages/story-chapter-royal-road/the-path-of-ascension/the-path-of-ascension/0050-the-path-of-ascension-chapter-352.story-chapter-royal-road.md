@@ -1,0 +1,303 @@
+---
+id: 2fc68dc5-935e-5978-a454-4d5ab62edcee
+page-type-slug: story-chapter-royal-road
+title: "The Path of Ascension Chapter 352"
+slug: 0050-the-path-of-ascension-chapter-352
+partOf: the-path-of-ascension
+position: 50
+ownLength: 5424
+unit: words
+ownProgress: 5424
+publishedAt: 2024-09-23
+link: "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/1816742/the-path-of-ascension-chapter-352"
+royalRoadId: "1816742"
+markedReadAt: "2026-06-29T19:19:16.452Z"
+---
+
+Chapter 352
+
+The four of them spent a full four months with their heads down, and Matt had to once more double the size of his island. It was reaching the limit of an auxiliary guild location's land allotment, but they just needed more room to ensure the rifts were properly spaced out as they rapidly built and destroyed them.
+
+They worked day and night with smiles never leaving their faces. That was especially true when Aisha and Theodore realized the mana really wasn’t going to run out.
+
+For the first week, they kept checking in with Matt any time they wanted to do something they thought might be ‘wasteful’. While Matt was happy they were conscious of their spending, and he’d rather have someone who kept those considerations in mind, he really wanted to not be bothered by requests for tests that only cost a few hundred thousand mana. Them asking for permission took longer than it would take him to make that much mana, but he couldn’t exactly tell them that.
+
+In those first four months, they actually made some serious progress.
+
+Aisha spearheaded the formation plate simplification method when Matt overheard her lamenting the guilds super AI wasn’t installed yet.
+
+Part of his chatting with Shadi had led to her offering to give his guild a deal on one of TrueMinds super AI built for research guilds and optimized for running simulations. She had been able to deliver it in just days, but Harper and their people were still inspecting the hardware and software of the three AI TrueMind had sent over.
+
+When Matt offered to use his own [AI] to run the simulations in the meantime, she just looked at him for a long moment, before muttering something that sounded suspiciously like “bullshit Ascenders” and accepted the offer. Dedicating a measly five million did the trick. Hopefully the TrueMind AI could give similar performance..
+
+Shadi had talked TrueMind’s new product up to the moon and back, but he would only know for sure once he got his hands on it.
+
+Between Aisha's own skill and Matt’s AI, she had created a Tier 25 version of the formation plate that worked, though it wasn’t great. It relied on supersized plates, and the formation, while only using Tier 25 runes, was fiendishly difficult to actually create, to the point where it would take a very good Tier 25 enchanter or an average Tier 27 enchanter to recreate the plates. The problem was just how much control was needed for the lower Tier aura rifts to form in a reliable percentage of tests. Low Tier runes just struggled to do what was needed, even when given ample space to spread them out and layer them up.
+
+The Tier 30 formation plates, as they were created by the Emperor’s team, were far cleaner. Even an average Tier 30 enchanter could produce them, and if they didn’t make a substantial breakthrough in the Tier 25 plates, they were the versions that Matt suspected would be widely used. The plates were simple enough that your average Tier 32 enchanter could probably produce about two full sets of plates a day, if that was all they worked on.
+
+Still they had ten years and with the rest of the guild still to arrive Matt was confident they could get the plates down to an easy Tier 25 build and hopeful they could get down to Tier 20.
+
+The current state wasn’t ideal, but if the demand was as high as the recent news reports that Cato compiled for him said, there would be more than enough Tier 30 enchanters to make a plate per world in just a few months.
+
+The report that Cato had presented to him was eye opening.
+
+With his public statement, combined with the Emperor’s wife being on the board of directors, his announcement had been given enough credence that it had caused a public furor as people of all Tiers clamored for the method to be, if not released early, verified.
+
+It got so bad that the Emperor had to publicly affirm the existence of the aura rifts and verify the timeline which finally settled people down.
+
+The news had three major impacts.
+
+First, trillions of Tier 14s who had been unable to create their Concepts, and were considering entering Minkalla, begged Matt to release at least a few Tier 14 aura rifts so they could avoid entering the copper planet.
+
+Matt wasn’t even sure if Tier 14 aura could exist, but he made finding out a priority, albeit not his highest one. He also made a public statement that they would work on it, but also made sure to point out that if more people actually gave proper warning that they were about to ascend, most Tier 14s would be able to gain a Concept from witnessing it.
+
+There was a quick follow up of news stations repeating the story, and some going even farther, saying the Tier 45s had the duty to do their part now that all of their descendants wouldn’t be at risk of not reaching immortality. A few of the news stations were so fervent with their comments that Matt was sure someone was pushing them and the message forward, but it worked.
+
+Two Tier 45s announced they wanted to Ascend, and gave a decade and two decades of warning each, welcoming all to their leaving. Thankfully, it eased a lot of the pressure Matt was feeling, as even the poorest Tier 14 could undoubtedly make it, even if they had to travel across each planet on foot.
+
+The second largest piece of news that came from the aura rifts announcement was one Matt didn’t quite know how to react to.
+
+Cooper of Illvos and his Hasabar League announced that, in the spirit of cooperation, they would be designing a new and improved aura harvester and releasing the patent to the public so they could proliferate.
+
+Matt personally doubted the harvesting bottle’s enchantment would be new, but he also couldn’t prove it wasn’t. And even if the move was a calculated way to keep them in the good graces of the public, the new bottle would help people. No matter how much he disliked the man and his historical practices, that was a good thing.
+
+What made Matt suspicious was just hours after that announcement, the alchemical corporation that Cooper had talked to at the party announced they would be dedicating a team to work on the method of refining aura into a commercially viable product by standardizing the known recipes.
+
+They would also be releasing any findings they had so everyone could benefit.
+
+Through it all, Matt couldn’t help but look for the net that was about to fall, but he just couldn't see anything, and neither could Cato.
+
+The third and possibly largest impact from the aura rifts technically mattered the least.
+
+It was the outpouring of messages of thanks from the Empire's civilians.
+
+The news took time to propagate, both out and back, but Cato wryly commented about how Matt’s public-relations staff were getting billions and sometimes trillions of messages every day, with no end in sight. Cato showed a few of them to him alongside his wider summary, and Matt couldn’t help but smile at what he saw, all the ways in which the aura rifts would change people’s lives.
+
+Not all of them were even from the Empire. Granted, most of the foreign messages were more abstract scholarly congratulations than any sort of personal thank-you, but Cato did let him know that he’d received a few requests to come and make an Aura rift for various international organizations and even individuals. For those, Cato just directed them to speak with their local government to see about forming an official trade deal with the Empire.
+
+Matt could already see it spreading.
+
+It wasn’t just the delvers who no longer needed to spend a not so small fortune on the Bottled Concepts who would benefit. The average civilians who had no real drive to reach immortality would benefit, as they would no longer be stuck at Tier 4, and would see even further improvements to their life spans and general well being. No doubt, a few percent of those would then continue to advance until they reached immortality, which meant millions, if not billions, of new immortals.
+
+It felt like everyone in the Empire was sending him something. He’d gotten loads of letters just from being an Ascender, but this was on another level. So many people were thanking him, either for their own sake or that of their kids.
+
+It was exactly what Matt wanted to see, and he converted the largest screen in the guild’s front hall to scroll through messages.
+
+This was the reason he had set up the guild, and Matt wanted to remind everyone who would eventually work here of that.
+
+Sadly, their advances in making other types of aura rifts consistently was still hit or miss.
+
+Matt knew he couldn’t extrapolate four people's effort to the next decade, but he felt the crunch time approaching.
+
+After the four basic elements, weapon Concepts were some of the most common Domains. Even if there were billions of variations of weapon Concepts, Matt hoped they could create something like a sharpness aura, which could at least be used for all bladed weapons.
+
+Sadly, all of their attempts to create sharpness aura failed utterly.
+
+They even had a few hundred aura samples from naturally occurring rifts, but their tests never created sharpness aura. Instead, what few rifts they were able to stabilize with aura were always metal aura, even if the weapon had no metal in it whatsoever..
+
+Metal aura was useful, as it gave them a head start when they started going for that aura type, but it left all four of them very confused.
+
+Matt was actually hopeful that his density sub-aspected mana could help create a defensive aura that might be applicable to those who wanted to take up the role of tank or defensive frontliner.
+
+Theoretically, the type of aura didn’t matter, but in practice, it very much did.
+
+Someone who didn’t care about anything but reaching immortality might take any aura they could get their hands on. Creating a Concept with aura had less of a requirement of matching with a person's true self, similar to the generic Concepts given to Tier 14s who left Minkalla after the fourth floor.
+
+Even an ice mage could take fire aura and make a fire Concept, which would allow them to progress past Tier 4, though their lack of resonance with the Concept would see them get near zero power out of the Concept. Because Domains were the way in which the spirit expressed its understanding within the Realm, attempting to stretch their Concept in any way, even to pick up generic abilities, would be much, much harder. Someone really talented might manage it, but those sorts of people wouldn’t be likely to use opposing aura to begin with if they needed aura at all.
+
+Of course, it still let them become immortal, and once that happened they could break their Concept and try again. They’d be like Aunt Helen, stuck at Tier 24 until they came up with a new Concept, but they’d hardly be in a rush at that point.
+
+In contrast, a fire mage who got ahold of fire aura would be able to trivially create a high-compatibility Domain, the likes of which could rival naturally-created Concepts.
+
+Additional work would refine their understanding and their synergy- the official term was ‘resonant compatibility’- to equal even the strongest of naturally-made Concepts.
+
+Though that still took a lot of work. Aura was malleable, but it still had limits.
+
+In theory, basic fire aura could be used to make anything even remotely related to fire. A fire mage could make a standard fire Concept, a healer who saw fire as the source of life could manage that with basic fire aura, it could be used by the smith who saw fire as the method which made working with metal possible, it could even be used by a researcher who saw fire as humanity’s first step on the path of technology if their mind was a little flexible.
+
+Fire aura wouldn’t be good for something like heat or a sun Concept though if it worked at all.
+
+There was some debate as to whether it would be better to call it ‘flame’ aura, rather than ‘fire,’ but the existing convention held a lot of precedent.
+
+That said, with aura set to become far more common, it might be time for a general overhaul of how aura was classified. They’d found some fire aura more in line with ‘heat’ than ‘flames,’ and no less than four distinct variations of water aura, which they were tentatively calling ‘stream,’ ‘rain,’ ‘ocean,’ and ‘refreshing.’
+
+Those variations were subtle, but they existed. And from what they learned in the first months of studying the aura they harvested, and had bought from the few naturally occurring aura rifts around the Empire, there seemed to be a hierarchy of aura types. But the idea was spotty at best, if it was even correct at all.
+
+For their purposes, the more general the aura, the better.
+
+Testing the nuances of aura was difficult, to say the least. They had two people on staff with a Talent that helped them understand the differences, but they weren’t able to actually make Concepts with the stuff. That, and they hadn’t arrived yet.
+
+There was also the problem that there just weren’t enough Tier 4s to be used as test subjects, leaving the ethics of proper experimentation and difficulty of taking measurements on a Concept aside. But given their goal wasn’t so much to make everyone a perfect Concept, just enable everyone to get something, aura that resonated halfway decently with everyone was better than aura that resonated excellently with very few.
+
+There were a few flaws with the theory, however.
+
+Metal aura should be the step above something like sharpness aura, but from all of the reports on the topic, those who tried to turn metal aura into a typical weapon Concept struggled at best. Those who succeeded usually had a Concept about the material of their weapon more so than the weapon itself, which implied there was another layer beyond mana types.
+
+It was confusing, and in theory, the Empire could just create a lot of the four basic elemental aura rifts and call it good enough, but that wasn't good enough for Matt. That would be doing the job halfway, and he refused to just stop there.
+
+Telling people to just accept an ill fitting Concept and reach Tier 15, where they were immortal and could break their Concept to create a new more fitting one, was an absolute last resort.
+
+That meant they needed to create as many basetypes of aura as possible to help fulfill most people's needs.
+
+Which was why the four of them aimed for creating aura types of the common Level 2 mana types, and things like sharpness aura, which could work for all types of sharp weapons more so than something like longsword aura. Not that they’d found longsword aura, but Matt half-expected it to just be a matter of time and testing.
+
+If their theory was correct, the holy grail was a neutral aura that could be converted into anything, but as far as all of the academics in the realm were aware, there had never been such a thing. Matt had asked Ciceron, who knew a little of everything, to look into it, but there were no references of a neutral aura going back even five cycles of Great Powers rise and falls. It should be possible, if Minkalla and his testing inside were to be believed, but theoretical existence was quite different from actually knowing how to make it.
+
+Matt was confident that eventually he and his guild would figure it out, but that was very much a project for another day. Better to work on what they had in front of them. That left Matt and his people working on going the other way and trying to create specific aura types, but they weren’t making any significant progress.
+
+Sadly, those first months were their only uninterrupted month.
+
+Duty came for Matt whether he liked it or not.
+
+First was the vice guild leader he had hired for the job arriving with the new staff for the island.
+
+Kees Denarend the third was an imposing man, despite being all of five foot three, and his aura radiated a no nonsense air. But his feathered hair reminded Matt of a lot of his favorite people, and he felt close to him through that.
+
+Matt’s new vice guild leader was actually a recommendation from King Frederic, who called in a favor to pull the man out of retirement.
+
+Kees was a third generation hereditary noble who had earned his mother’s favor by taking over a failing guild and turning it around, showcasing his administrative abilities.
+
+Despite the man being a champion of hereditary noble rights, he was, from all accounts, the best example of a hereditary noble. His reign as Marquess had been successful and without major controversy before he eventually handed the title off to his daughter. Since then, he had been slowly advancing his way to Tier 45 where he intended to ascend.
+
+Frederic had said they were something like political allies with Kees in his, or rather, Frederic’s father’s camp, in trying to slow the rapid reforms of Georgios.
+
+That inherently made Matt leery, but by all accounts he treated his people well, and so Matt had taken the favor from Frederic. He needed someone to run the guild, especially in the early days, and Kees was one of the better options.
+
+He was also free.
+
+Matt couldn’t have afforded the Tier 42 without Frederic’s favor for the full thousand year contract otherwise, without tapping into his and Liz’s personal accounts.
+
+Good administrators were expensive.
+
+Kees looked around the island littered with rifts with slitted eyes crackling with storm mana before turning to Matt.
+
+He bowed the perfect amount that a retired Marquees should bow to an active duke, and while Matt was tempted to disregard formality and wave him up, he suspected this was a test.
+
+After completing the typical greeting between nobles, Matt asked, “Was that necessary? You are going to be my vice guild leader.”
+
+Kees just blinked at him. “Formality is always necessary. It gives people a guide on how to act in any social situation. As I have not officially accepted your offer as vice guild leader, that was the proper introduction. My daughter told me about your announcement, but I honestly didn’t believe it. I’ve heard a thousand and one propositions which promised the moon, but few could ever deliver a plan, let alone a product. I—”
+
+His eyes slitted as his gaze went to the massive mana stone in the hall's foyer. “I hope that is a decoy mana stone, My Lord.”
+
+Matt shook his head. “I thought it made a good statement piece. It also makes it easy to access the mana.”
+
+“That is the problem, My Lord.”
+
+Matt shrugged. “If anyone is dumb enough to skim off the top, they deserve to get what is coming to them.”
+
+Kees seemed to consider that for a moment before nodding slowly. “I can accept that, but it's still not a good idea. Even honest people can be tempted by that much wealth just sitting in the open, and I could not fault them for it.”
+
+“Is that something you would care about? Sounds more like a vice guild leader thing.”
+
+Kees grinned at Matt’s rebuke. “Well played Duke Moore. I’ll take this job, but only for a thousand years. After that, I’ve been promised the rift slots I need to reach Tier 45 and ascend.”
+
+That was news to Matt, and he said so. “I thought you took the job to repay a favor?”
+
+“The favor wasn’t this big. If even a quarter of King Frederic’s comments about your ambitions are true, then I’ll have more than my fair share of work as the vice guild leader.” Kees scanned the rest of the island before nodding. “I’m at your disposal if you’ll have me, My Lord.”
+
+Matt proffered a hand. “Done. At least so long as you cut the My Lord stuff out. Officially, I’m just your guild leader now. Call me Matt.”
+
+Matt could feel that Kees wanted to say something, but he held his tongue and simply nodded.
+
+Matt didn’t push his new vice guild leader and changed the subject. “I see you brought the rest of our people?”
+
+Kees waved them forward, and the people floating a few dozen miles away arrayed themselves in three orderly formations and one gaggle, just a few dozen feet away from where the two of them floated.
+
+“The administration team, the supply and logistic team, and finally the security team. The rest of the people are the scientists you hired.” Kees didn’t bother to hide his distaste for the scientists who refused to fall into regimented lines, and Matt could hear the weight of his experience in wrangling scientists in his tone.
+
+Matt made a show of scanning the groups. It both let him inspect them and let them inspect him in return. The Ascender worship was clear in most of their eyes and Matt had to brace himself for what was to come, but he had been through worse, and he could do this.
+
+Smiling, he flew over and introduced himself to the closest security guild member, their captain, asking polite small talk questions trying to set the man at ease before moving onto the next one.
+
+These were the people who would form the core of his guild going forward, and Matt wanted them bound to the guild with loyalty and honor more so than contracts and legalese. They were the best and brightest freelancers Cato had been able to find and hire, and would make a good core of the guild.
+
+Eventually, they would follow him to the moon guild base that would orbit their eventual ducal holding, so Matt wanted to ensure that they knew who he was, and that he was someone they could talk to if they had to, without fear of being crushed by an Ascender.
+
+Even moving at the max speed his or the person's cultivation allowed, it took almost an hour to get through everyone. But no one complained, and all seemed eager to get to work.
+
+The scientists and researchers were almost comically eager to get to work, and Matt felt their spiritual perceptions sweeping over and around the mana stone or the workshops that had been prepared for them.
+
+As part of Matt’s efforts to help lower Tiers, he had hired a number of professionals from every craft he could get his hands on. They went beyond the basic three of enchanting, alchemy, and smithing, as Matt had cast his net far and wide.
+
+Anyone who was willing to work on low Tier projects and had an applicable skill set had been hired, but there was one group Matt paid special attention to.
+
+There were fifteen enchanters who specialized in low Tier engines. The other specialties were mostly about improving what already existed, but the engine crafters had a unique opportunity if they were just fast enough.
+
+With the release of Zack’s Travel mana, there would no doubt be a race for making engines with it. Matt only really cared about the lowest Tier market, but as he had beaten into him with his and Aisha’s aperology enchanting work, lower Tier rarely meant easier.
+
+Simple usually meant anything but easy, in fact, and he could only hope the researchers could come out on top.
+
+Matt had given them three main categories of engines he’d like to see, and while all three were similar, the actual construction would probably vary greatly.
+
+First and foremost was the Empire's preferred method of moving large amounts of people: Trains.
+
+If they could ensure that the train travel mana engine was free for people to iterate off without having to worry about patents for the next few centuries, Matt would be more than happy, even if the other two outright failed.
+
+The second was personal vehicles like cars, trucks, and taxis. Empire policy may discourage the use of such vehicles, but they still had their place, and lowering the operation cost for them would be a great boon for the mortals who needed them and those who lived outside the cities.
+
+Finally: flying devices.
+
+It was a bit of a stretch goal, as Matt was sure the million and one companies which were dedicated to flying swords would be creating their own versions of the flying items relying on travel mana, but if they created something first, he’d be happy.
+
+Ultimately, it was a luxury. And even if he loved his flying sword before he learned how to fly with his Concept, the average civilian never needed or could afford a flying device.
+
+It wasn’t like Matt hated the idea of companies making money, after all. He just wanted to help those who needed it the most.
+
+As he finished up, Kees looked at him oddly before he said, “I’m surprised. You are surprisingly personable on a small scale. From everything I’ve seen since the end of the war, I expected you to be more taciturn. You’d have made a good Captain level commander if you weren’t an Ascender.”
+
+It was a little awkward to get called out like that, but Matt felt he needed to explain. “I like people—” Seeing Kees’ disbelieving look, Matt grinned. “Really, I do. Just on a small scale. Intimate parties with a few dozen people are fine. Thousands, however, is just too much. It's all too fake at that scale.”
+
+Kees thankfully changed the subject to matters about how Matt wanted to handle specific guild procedures and things like estimated expenses. Raw mana wasn’t how most people wanted to be paid, but with Manny’s help, Matt’s guild’s coffers were currently full.
+
+Eventually, Matt was able to escape back to his beloved aperology fields, which one of the grounds keepers had already converted to a nice grassy field. But just as he was going to head down into testing, he was interrupted again.
+
+He wanted to ignore it as he felt the tickling of an idea at the back of his mind, but the people to arrive were important.
+
+Possibly more important than the guild members.
+
+It was the team of administrators he had hired to oversee and assist Soerilia’s unveiling. Normally, they would coordinate with the baron in charge of the planet, but as Matt and Liz had directly started the process and hadn’t assigned a baron yet, they were linking up with Matt.
+
+As much as he didn’t want to stop, Soerilia deserved his best efforts, and so Matt stopped his aperology and went with them to the neighboring planet, where he introduced the six of them to the local Arbitration Convention and the various countries' leaders who were available.
+
+Things had only been progressing for five months, but Matt was disheartened to see that one of the countries had tried to set up an amphibious landing expedition onto the cordoned off portion of the continent, and had failed.
+
+Eighty two were minorly wounded, but nothing that required anything beyond an undirected healing spell or a few months of recovery. Eleven were seriously wounded and in need of a dedicated healer to regrow limbs, and worst of all, three were dead.
+
+Weirdly enough, the country had listed all of the wounded as dead, but Matt didn’t follow the logic behind that action. He thought they might be trying to use the failed landing as a way to ensure those who followed up the attempt were properly prepared for the danger, but his quick scan of the EmpireNet didn’t come up with anything conclusive. Not that he cared all that much.
+
+Even three deaths for such a dumb reason irritated him, and he was sure the administrative team could tell, even if he tried to hide it.
+
+He made a note that the order of healing wands was increased, but items that unawakened mortals could use were rare, as integrations were the only time they were needed. It meant they were expensive and slow to get, but he changed his order to come with one of Aiden’s express couriers.
+
+He also sent a note asking for a healer or two from Lily to come over and assist in the initial process of the Roland Method until the various countries could get some healers trained up.
+
+It would be easy enough to push the healers through a healing crash course on Lily once he got them the proper spells, [Directed Healing] and [Healing Touch] being the main two that proper healers would need.
+
+Thankfully, from all reports anyone who could become a doctor on a veil world like Soerilia, with its rigorous standards for the profession, would easily be able to make the jump to effective magical healing with just a few months of training. It was similar to the Empire’s doctor to healer pipeline, but without some of the prep work on the magic side.
+
+Healing spells were typically bought up by the Empire itself, and it did allocate a number of the spells to new worlds like Soerilia. But even with the number being population based, Matt felt the need to buy a few thousand more, which ballooned the cost. He couldn’t help wincing at the final price tag. He really couldn’t make a habit of that sort of thing, unless he wanted to majorly cut back on his aura research.
+
+Matt was just happy Soerilia had a mostly competent doctor community, as that existing infrastructure would be adequate to handle the majority of cases with formations, talismans, and potions dealing with most of the rest, with dedicated healers able to take just the worst of the worst cases. If they didn’t have that, he wouldn’t know what to do, but he sure wouldn’t be willing to let them go through with something as dangerous as the Roland Method otherwise.
+
+Matt sent the president in question a message that they needed to be more careful on further expeditions, but he kept his intervention limited to that.
+
+These weren’t children, and they were capable of making their own choices, even if they led to mistakes and losses. He needed to remember that.
+
+What he wouldn’t stand for was corruption, and he had to visit a few people who had attempted to embezzle money and supplies for either their own use or their people. There wasn’t as much as he’d feared, given the number of schemers he’d overheard when he’d first introduced the planet to cultivation, but he made it very clear that next time he wouldn’t be nearly as lenient.
+
+After settling the administrator team, Matt returned to Lily and his island just to get a surprise.
+
+Theodore had managed to create mud aura in a Tier 6 rift.
+
+It was the first success they’d had in intentionally creating a level two mana type, and while it wasn’t properly mud aligned- it was currently being called ‘sludge’ aura- it was still an enormous step forward in their research.
+
+Sadly, that was the end of the good news. The entire aperology department spent a full two weeks recreating Theodore’s exact methods of making the rift, but were never able to get another aura rift even using the sludge aura as a base.
+
+It seemed like a lucky fluke, which while interesting, wasn’t conducive to hammering out the rules around rifts, and they eventually turned their attention to more methodical testing.
+
+The incident just went to prove that aperology was difficult, which was why it was a relatively untouched science. As they had found out the hard way, having an existing mana type didn’t guarantee they could recreate the aura in question. And failure meant thousands of mana, and valuables like rift created weapons, thrown into the void, which few others could afford.
+
+Despite that false start, Matt was exhilarated. Even a failed attempt was progress, and they were learning, which was the most important part.
+
+With ten years left, the possibilities felt… endless.

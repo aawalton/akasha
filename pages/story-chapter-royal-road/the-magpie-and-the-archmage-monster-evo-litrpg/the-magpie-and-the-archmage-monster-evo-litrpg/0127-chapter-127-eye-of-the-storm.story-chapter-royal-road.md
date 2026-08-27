@@ -1,0 +1,177 @@
+---
+id: 0660a1dd-a9e5-52d3-811c-5fd80e3f089b
+page-type-slug: story-chapter-royal-road
+title: "Chapter 127 – Eye of the Storm"
+slug: 0127-chapter-127-eye-of-the-storm
+partOf: the-magpie-and-the-archmage-monster-evo-litrpg
+position: 127
+ownLength: 2002
+unit: words
+publishedAt: 2026-05-25
+link: "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3442482/chapter-127-eye-of-the-storm"
+royalRoadId: "3442482"
+---
+
+Both guards perked up, but remained firmly in their spots, their hands reaching for their swords.
+
+Try again!
+
+"Hurry! They are heading for the students' homes!" Liora called out in the headmaster's voice again.
+
+[Your skill <Mimicry> has reached its maximum potential. Would you like to upgrade it for 100 glimmerstones?]
+
+What is this nonsense? Not now, System!
+
+The notification disappeared from view, and Liora saw how the guards finally sprang into action, rushing out of the main building. She and Cee waited until the doors closed behind them before coming out of their hiding spots.
+
+"Let's lock the door, shall we?" Cee said mischievously and produced a thick thread which she laid over the entrance door, effectively sealing it off.
+
+"Do you think it'll hold if somebody comes?" Liora asked.
+
+"Not for long, but it should give us more time. Now, let's hurry!" The spider urged, heading towards the main room.
+
+Liora spent some time finicking with the door, trying to open it without making much noise. There were still people running on the upper floors, searching for the intruder. After what felt far too long, she finally managed to open it, and they both slipped inside. Cee once again sealed the door shut with her webs.
+
+"I hope you can remove those, because this place has no other exits!" Liora noted, looking around the room.
+
+It was a huge room with a high ceiling, but it was oddly empty. Only a few stone benches were placed by the wall. It was also dimly lit compared to the rest of the school. Only a few lamps were mounted by the door and the opposing wall, while everything else remained dim.
+
+Liora would have thought that they ended up in the wrong place if it were a one-for-one strange detail. There was a wind blowing within the room. A gentle breeze rustled her feathers, making Liora feel as if she were at home. There was something very pleasant about this node.
+
+"Is there wind in here?" Cee asked, shocked.
+
+"It must be coming from the node. I quite like it here," Liora said, enjoying the breeze.
+
+Your own natural affinity for the wind element must be resonating with the node. If we had the time, you could hang around here for a while to strengthen your aptitude with wind magic.
+
+Alas, we have no time.
+
+"Let's get to business!" Liora announced.
+
+Cee nodded, and they hurried to the center of the room. A single stone pedestal stood at the center, in the perfect position for Cee to weave her ritual web. It was actually a good thing they were using Cee's webs instead of regular inscription paper. It would have long since been blown away, as the wind was noticeably stronger near the center.
+
+"What are those webs on the entrance door?" Liora heard something coming from beyond the door.
+
+"We must hurry!" She whispered to her spidery companion.
+
+"I'm going as fast as I can," Cee hissed back, her legs moving at lightning speed as she wove and placed the webs in the correct pattern.
+
+The commotion outside the room grew louder by the minute as people gathered in the hall outside and battled with Cee's webs on the entrance door. Thankfully, none of them seemed to notice anything strange in the main hall, so they proceeded undisturbed.
+
+The moment Cee had finished her web, Liora put the Resonance Crystal on it and watched the spider activate the ritual. The web burned away, and the crystal now shone with three brilliant lights, only one segment remaining dormant.
+
+Yes, yes! It's almost complete.
+
+Unfortunately, the moment Liora withdrew the crystal back into her Inventory, the wind in the room grew stronger, nearly throwing the spider off the pedestal.
+
+"What was that?" One of the voices outside the room.
+
+"It sounds like the wind," another said.
+
+Scraping noises could be heard outside as they likely tried to remove Cee's webs. Cee, in the meanwhile, hurriedly moved her legs to weave the second ritual for the bracelet.
+
+"The wind is making it hard to put the webs down in the right place," Cee complained.
+
+"Wait a moment. The wind is coming from the mana node room! Somebody must be inside!" Somebody outside realized.
+
+"Shit, we're out of time!" Liora said, turning into her large form in anticipation of a possible fight.
+
+"I'm going as fast as I can! The wind keeps messing stuff up," Cee said, watching yet another thread of her tangle in on itself. Frustrated, she let it loose and began working on a new one.
+
+The door rattled as somebody tried to get it to open. Predictably, the webs held firm.
+
+"This door is locked!" A voice called.
+
+"No, it's blocked from the inside! The intruders must be in there. We must get inside!"
+
+"Cee!" Liora whined, watching as the door strained under the pressure as seemingly multiple bodies smashed into it in an attempt to get it to open.
+
+"You're not helping!" The spider muttered.
+
+The door was being banged on repeatedly, but thankfully held firm. Cee's webs were really something. Then again, humans weren't exactly strong. Especially mages. They likely had some good while before they would break in.
+
+All of a sudden, a loud crash came from the hall beyond the door, undoubtedly the sound of the entrance being destroyed.
+
+"Step aside!" The guard from before called angrily, no doubt about to tear this door apart just as easily.
+
+Thankfully, Cee finally managed to lay down the last thread of the ritual. She placed the bracelet onto it and activated the ritual. The green gem lit up with bright light, and Cee rejoiced, grabbing the bracelet and putting it back into her Inventory.
+
+A moment later, all hell broke loose. First, the door was shattered into splinters, pieces of wood flying in every direction. Second, the wind in the room got even stronger. In fact, it was so strong that Cee was nearly blown away. Liora had to reach out and grab her to prevent her from flying off.
+
+The wind was so strong that all the wood from the broken door, along with bits and pieces of Cee's web, were sent flying around the room, which was turning into a small hurricane of sorts. Liora had to dig her talons into the pedestal not to be blown away.
+
+Cee's legs flailed incessantly. Liora's talons were likely digging into her rather painfully as she was trying to prevent the spider from flying off. It wasn't like she wanted to hurt her friend. She couldn't manually turn off how sharp her talons were.
+
+"Grab that bird!" The guard shouted, brandishing his sword in Liora's direction, only for him to get smacked in the face by a piece of wood.
+
+"The mana node is unstable! Those monsters must have done something to it!" One of the mages in the hallway called, not daring to step inside the turbulent room.
+
+But the other guard withdrew a shield from his Inventory and bravely marched into the room, using his shield to block himself from the flying debris. Liora didn't know what to do. If she let go, she would be sent flying along with the rest of the debris. If she remained where she was, the guard would reach her and undoubtedly introduce her to the pointy end of his sword.
+
+Liora, don't…
+
+Geronimo!
+
+Liora let go, opening her wings and letting the violent breeze carry her up. For a few dizzying seconds, she was tossed around in circles, just barely being able to steer herself away from the walls. But then she felt an odd sort of connection with the raging mana.
+
+It howled and raged at the guards who came brandishing their swords. But it wasn't howling at her. She, too, was a being of wind. She wasn't being tossed around by the gale—rather, she was part of it. All Liora had to do was allow her instincts to guide her.
+
+Liora!!!
+
+I got this. Don't worry!
+
+She was spun around the room several more times, feeling the surrounding mana and acclimating to it. As she breathed in, she managed to understand the wind's raging flow and adjust her wings so she would be flying safely alongside it.
+
+Once she finally understood the gale, Liora Faded.
+
+"It's gone!" The guards called.
+
+While they were gawking as humans tended to do, Liora allowed the wind to grab her, accelerating her speed. With the right twist of her wing at the correct time, she was able to propel herself towards the exit, tossed there by the gales. Nobody even noticed when she reappeared behind them in the hallways and flew out of the school, gaining altitude at an astounding speed.
+
+Unfortunately, Cee wasn't quite so lucky. She was hanging limply in Liora's talons, the windy carousel likely not to her tastes. But it didn't matter now. They got what they needed and could fly away safely.
+
+"Don't you think you can escape me so easily, monsters!" The headmaster called from below, staff raised high in his hands.
+
+Pull me out!
+
+Liora withdrew Renir instantly. Energy exploded from the mage's staff, flying straight at Liora and Cee. Renir activated some sort of magic of his own, a much smaller energy beam flying at the one aimed at them. Much to Liora's surprise, when the larger beam collided with the smaller one, its trajectory changed ever so slightly to whizz past Liora.
+
+She didn't wait around for the mage to launch another attack, instead heading high into the skies. By the time the mage had prepared his second spell, she was already long out of his range. But that didn't mean they were safe. The old mage suddenly levitated up into the air and flew after them.
+
+"He can fly!" Liora exclaimed, doubling the effort with which she beat her wings.
+
+"Many mages can! Withdraw me," Renir commanded.
+
+Liora withdrew him back, occasionally glancing at the mage flying behind them. He was actually gaining on her. How could this old sack of bones fly faster than her? A literal bird. Liora's pride felt wounded.
+
+"I shall not let you escape, fiend! I can feel that you're carrying something valuable with you," the mage spoke in an amplified voice that resounded over the dark forests. Must be some sort of magic, too.
+
+How can this bastard see me? Shadow Glide should make me near impossible to track.
+
+It must be the aura from the pearl that he's following. You have to put on a greater distance to lose.
+
+Any ideas? Because I have none.
+
+Liora was already plenty busy trying to fly as fast as she could and hold Cee in her talons. The spider took quite a while to recover from the wind, but once she did, the spider began spitting poison at the mage with her Poison Shot.
+
+This did slow his pace a little, but enough to stop him from the chase completely.
+
+"Rock spear!" Serena's familiar voice called from below.
+
+For a second, Liora worried that the woman had aimed the spell at her. But that wasn't the case. Several thin, long spears made out of rock shot up straight at the mage. The sudden attack unbalanced the old man, forcing him to stop and erect a shield to protect himself.
+
+That was all the distraction Liora needed. While internally thanking Serena, Liora picked up her pace, flying away as quickly as she could. By the time the mage recovered, she was already long gone.
+
+"What was that?" Cee asked.
+
+"It was my friend," Liora announced proudly.
+
+"The human from before? I thought she didn't trust you."
+
+"Apparently, she did," Liora said.
+
+I wonder if Serena will be alright. She attacked that powerful mage.
+
+I'm sure she'll be fine. Serena is no fool.
+
+Liora nodded. Renir was right. Serena certainly wasn't a fool. Worst-case scenario, she could blame Damien. He was good at taking the blame for things others had done.

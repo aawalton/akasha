@@ -1,0 +1,351 @@
+---
+id: 464bc716-0c5f-557f-988f-dcf7be19bac6
+page-type-slug: story-chapter-royal-road
+title: "423 A Broken Facade"
+slug: 0383-423-a-broken-facade
+partOf: the-new-world
+position: 383
+ownLength: 4140
+unit: words
+ownProgress: 4140
+publishedAt: 2025-05-11
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2272040/423-a-broken-facade"
+royalRoadId: "2272040"
+markedReadAt: "2026-06-29T21:34:28.539Z"
+---
+
+Before I could reply, the Seer crashed through the Infinity Plaza's entrance. The avatar of Etorhma brushed off bits of rock before forming a spear of his strange mana. He pointed the weapon at me.
+
+"You walk into the lion's den willingly, Harbinger."
+
+I glowed, the stone melting beneath me as mana stormed into my palms. The aura of Marcella shivered as my wake pressed against the force. I won the war waged under the surface, and a tint of red overcame all present. My armor smiled, and my runes shimmered. Several soldiers fell to their knees as I brandished a fist.
+
+"I've been looking forward to a real fight."
+
+A plume of mana from my body poisoned the air.
+
+"Now, let's have one."
+
+Chapter Begin
+
+A cascade of enchanted bullets, runically empowered ordnance, and bombs exploded onto me. Hellfire rained down as lead and steel disintegrated against my skin. I raised my hands, and heat built onto their weapons. The metal melted as soldiers howled in pain, and I siphoned the molten steel away from their grasp.
+
+The bottom walkways of the Infinity Plaza melted in tandem. The magma and slag pooled at the center of the room, and Marcella's walkway guards fell, their footing removed. Many landed on the ground with hard thuds as the orange hue of the forming orb shined on them. Beneath me, the mana bombs disintegrated as Event Horizon stole their energy like a terrifying realization stealing one's sense of calm.
+
+That aura exposed a fundamental difference in ability. It robbed them of everything. Soldiers lost all magical empowerment, from the runes on their armor to the magic buffs they used to augment one another. They couldn't cast magic as their thoughts blurred into ones of rage and hunger. Soldiers turned on one another, each of them going mad.
+
+The stone walkways' magma fused with the swirling mass of glowing metal above my head. I solidified the circle above me, and the igneous rock carried spirals of quenched steel. It clapped into the ground, crushing the elegant granite panels. Their wealth became crags of Earth reaching to the sky.
+
+More mana manifested into my frame, and my body glowed a bright red. Behind me, the Seer raised its arm, a denser aura overcoming it. The entity threw a spear at my chest. A hole in my torso widened around the attack, and the energy lance dispersed into the ground behind me. I pulled a fist back, and the Seer crossed its arms to block. As I fired my hand, I turned my entire body with the blow.
+
+A telekinetic panel formed over my fist, and it slammed the kinetic impact into the green aura over the Seer's stomach. As with Lehesion, the force of my blow pierced its aura. Stone cracked. Its back exploded. A sound erupted, and a shockwave bolted the soldiers against the walls or into their fallback portals.
+
+My hand jerked back, as the Seer fell to its knees, unable to hold itself upright. A massive hole appeared in its torso. Behind the behemoth, the entire side of the building ripped apart. Pillars of reinforced concrete turned to powder. Steel girders sheared. The entrance expanded into a gaping breach.
+
+The Shattered Spires appeared in full view as the collateral damage of our battle expanded. Portions of the Infinity Plaza lodged into skyscrapers kilometers in the distance. Any remaining windows still exploded as shrapnel pierced entire skyscrapers. Crags of steel pierced deep into the ground far below us, and the spatial mist in the distance swallowed the rest of the attack's blow.
+
+It billowed, a colossal ripple gap in the mist forming. It dwarfed the size of the buildings, the sheer size of the movement omening a cataclysm. Before the Seer understood the extent of its damage, I swiped my hand to the side, and another telekinetic impact slammed the Seer's face.
+
+A kinetic ripple ushered forth through the room. Soldiers nearby flung through the air, and they collided against the walls. As if moving in a hastened temporal flow, the Seer smashed into the ground before tumbling further into one of the walls. It crushed the stone before flinging far out of the building.
+
+In the distance, it launched through one floating spire. Then another. It kept tumbling before colliding with the ground far below. Another shockwave fell over us. The Seer flopped several times before finding a wall of dirt. Another shockwave erupted, sending citizens flying below. Two seconds later, the final cataclysmic boom shattered through the building as its impact rippled past us.
+
+As I turned to the other soldiers, I clanked my fists together.
+
+"Come on. Let's fight."
+
+The room froze in place. I had stolen their fire and fury, so I let out a sigh. Imbued with confidence, I paced up to Marcella. She turned to her soldiers, and her voice echoed telepathically.
+
+"What in the hell are you all doing? Everyone. Fight. Fire at him. Do something."
+
+I walked over, taking steps in the air with gravitation. As I did, a few soldiers fell to their knees. Others whispered of the Harbinger. Even more couldn't understand what was happening. Marcella's lips trembled before she condensed her aura over herself.
+
+I pulled my wake over it, but I couldn't quite strip it away. Even if I did, the Old One over her might beat me to a pulp as Eonoth had or worse. Marcella pulled out a detonator from her fur coat, and her eyes carried insanity.
+
+"I prepared these beforehand."
+
+I kept walking. The soldiers gawked in terror, their fear radiating like a cloud. Marcella's second in command, Rebecca stood to her side. Rebecca reached out to her guildmaster.
+
+"Y-you said the ones below Central Park were all you had."
+
+Marcella gawked in disgust.
+
+"Am I beholden to you? No."
+
+Marcella's eyes narrowed at me.
+
+"I never imagined I'd have to do this. Any of this, but here we are."
+
+She gulped.
+
+"Gah. To fight a monster, you have to become one-"
+
+A slapping sound interrupted Marcella's rant. Warmth coursed over Marcella's arm like someone cut on a warm faucet from her wrist. She felt nothing aside from that warmth, the sensation almost welcoming if not for its oddness. Marcella furrowed her brow. The guildleader turned to her hand, finding a nub where it had been.
+
+Althea's face pulled out of the ether, and she smiled.
+
+"Not bad for a collared dog, huh?"
+
+I bolted over and swiped the detonator into my pocket dimension. My moving body propelled enough wind to send a few soldiers flying. Marcella reached out a hand, her strange blade elongating. Althea moved far faster, slicing Marcella's remaining hand off. The blade fell down into my pocket dimension before Marcella roared, and red veins expanded over her eyes.
+
+Marcella bit at her enemy, but Althea bent her body back. Marcella fell forward, and Althea caught her in a guillotine neck choke. As Marcella scrambled to escape, Althea held her in place with ease. Althea sighed.
+
+"She's done. Let's get this over with."
+
+Marcella let out tears of frustration. She growled like an animal, defiant to the end. It was pitiful, and Althea's eyes softened.
+
+"Hey. It's going to be ok. We're not so bad once you get to know us. You...But yeah, you're pretty awful."
+
+Althea opened her dimensional storage while pulling out a vial. Marcella's pupils dilated at the sight, fear overtaking her. Marcella's second in command, Rebecca, tried charging at us, but I held her in place with gravitation. Marcella screamed as Althea tried injecting whatever was within the vial.
+
+The needle snapped on Marcella's aura before Althea sighed. Our sniper made a needle rise out of her fingertip before wincing.
+
+"Ugh, I didn't want to do this. It's not exactly sanitary, but-"
+
+She replaced the needle on the vial with her bone. With a practiced ease, Althea stabbed Marcella's neck and injected the contents. Marcella passed out in seconds. Watching in horror, Rebecca looked at her sedated ruler. Something overtook Rebecca, her body writhing from within. Rebecca scrambled out of my gravitational restraints and leaped towards Althea. Our sniper kicked off the wall, jumping away. Rebecca smashed the wall where Althea had been before bending down. Rebecca warped space, propelling herself to us. As she did, I reached out a hand, and I caught her neck.
+
+Many of her bones cracked from running into my palm, and her neck broke from her body flinging forward. I suspended her in place so healing happened instead of hanging. An eerie quiet passed over us before she regained control of her limbs. Rebecca grabbed my hand and kicked her feet while assaulting my mind.
+
+Hundreds of the psionic presences pooled within. All of the others escaped here. It turned out that Rebecca was their origin. Those entities tore several of my psyches apart while I observed the strange use of psionics. Though they lacked a voice, they experienced emotion, and panic bloomed through the horde as they continued their onslaught.
+
+I shook my head.
+
+"It's like drops of water on a desert. Not enough. Not nearly."
+
+Althea flipped over my shoulders. She injected another sedative into Rebecca. In my hand, Rebecca's head flopped to the side while the psyches silenced. I turned to those around us.
+
+"It's done. Take me to her base of operations."
+
+In seconds, we dismantled the power structure supporting the entire operation. The soldiers gawked at one another, each of them confused. I spread Event Horizon over them, wielding its oppressive qualities in my voice.
+
+"I said it's done."
+
+Several soldiers fell to their knees. As the tension of war faded, the less volatile soldiers let out gasps of relief. Most peered around in confusion as if waking up from a dream. The highest-ranked members showed the most dismay, and they reminded me of escaped elderly patients suffering from dementia.
+
+The lower rung members picked up the slack and got to work cleaning everything up. As they walked by, I glanced at Marcella. I just noticed, but Marcella dwarfed Althea. The guild leader was a seventeen-foot-tall titan. Even her title omened her prowess.
+
+Marcella Meyer, the Goddess of War | Lvl 20,000 | Class: Warlord | Guild: The Defiers
+
+For a moment, I wondered if she went through the lottery. Warlord was a ruler class, and she owned a large guild from the looks of it. Marcella also stopped Elysium agents using the Seer. Speaking of, the behemoth floated back up from the hole I made in my first attack. Its body oozed the seafoam magma, but more importantly, it carried a newfound fear in each of its steps.
+
+Cracks covered its entire body as if Etorhma had plastered the monster back together. The Seer continued healing these fissures by passing its palms over each crevice. Its mana welded the shards into slabs, but it was far from a complete reconstruction. The Seer lost much of its powdered self, the remnants lying around across the city.
+
+As it gazed at me, I glared at it. This being would remember facing me with its scars.
+
+After cleaning up the rest of the mess here, the lower rung of Marcella's guild walked near me. They drew sticks of different lengths before one of them lost. That poor sap walked up to me, and he looked like the fiercest janitor to ever walk the Earth. Furthermore, and far more importantly, he groomed an elegant, manly mustache.
+
+It was incredible.
+
+"H-hello, sir. I, er, we...We know where Marcella stayed. W-we don't actually know if it's where she keeps her valuables," the mustachioed man said.
+
+I smiled.
+
+"She can keep her belongings. The only thing I'm looking for is a few elemental furnaces to make up for my losses and signs of someone we don't want here. After I clean that cancer out, I'll have a guild representative or two come here. They'll organize trade so that you guys can get properly equipped for these dungeons."
+
+I looked up at the many doorways.
+
+"I'd like to reduce casualties to zero moving forward. We'll also help create better housing and offer humanitarian aid across the city. Assuming none of you mind?"
+
+With expectations shattered, his eyes lit up.
+
+"Oh, no, sir. We'd like that quite a lot, actually."
+
+"Good. What's the name?"
+
+"Mcsmitty."
+
+I furrowed my brow.
+
+"I know another Mcsmitty, but you tend to look the part. They were a...A space lawyer or something. Anyways, let's go handle business."
+
+A short chat about the building informed me of all I needed to know. As was the case when I walked in, the lower levels were developed, the middle floors were in development, and the upper floors were either untouched or the most curated. At those peaks, Mr. Mustache and I walked into Marcella's personal chambers.
+
+It was precisely what I'd seen in her illusion, the details uncanny in their resemblance. The tree expanded over all of the Shattered Spires, and the red core portal had been real. I took note of that in particular, wanting something like that for my guild. After inspecting everything, we found nothing out of the ordinary outside of the location and building materials.
+
+Heading downstairs, we had Torix swing by after a few hours. He cast sleeping magic on Marcella and Rebecca before using his many summons to further explore the compound. As we expected, an enormous reserve of rich resources rested on the bottom floors of the Infinity Plaza.
+
+The middle of the tower contained rare loot and red-tiered dungeons. However, the upper floors held the primary loot for us. The blue cores, whether Schemafied or not, were always useful, and this dense cluster held several hundred blue-tiered dungeons. I made yet another mental note to swing by here and collect these blue cores whenever I could. It could also be great training for the guild elite.
+
+After having looted the place of a few useful supplies, we skulked out to Central Park. The dungeon mirrored the illusion I saw, and as expected, it held riches galore. Like The Infinity Plaza, many rifts littered the cavernous expanse. The insects carried valuable swords, shields, and mass-producible armor.
+
+It simply wasn't as quality as the materials I made and used. However, I didn't have to make them, and that was an enormous boon in itself. Just as well, these pieces could be a tiered reward below my own specialized equipment. We could work that into the incentive structure of my guild, which I'd be reviewing after settling the issues here.
+
+Walking down the tunnels, the remaining portions of the hive congregated around an underground tunnel far beneath the city. In this cavern, Torix, Althea, and I trekked. I kept my size minimal, smaller than Torix or even Althea. They crawled and squeezed through the tunnels, Torix's head often clashing with the stone overhead.
+
+Torix grabbed his head after a particularly nasty head bash.
+
+"Bah. This cavern is entirely too small for normal creatures."
+
+I flowed around a curve in the stone.
+
+"It does take some getting used to."
+
+Torix bent down before his cape ripped a boulder off the wall. It clattered down before Torix stepped on it.
+
+"Disciple, is there, perhaps, a gap within your corpulent schedule where I may get a new body? One with powers more akin to your own?"
+
+I tilted my head.
+
+"Hmm. It's going to be a little while. Either way, if you think that body is clunky, you'll need a ton of gravitational augments and shifting telekinesis to use a body like what I have now. It's hundreds of times heavier."
+
+Torix gestured to me.
+
+"Perhaps using a smaller frame would be wise, then?"
+
+I counted on my finger.
+
+"It would still take gravity wells galore, and they have to be tight against the skin, too. Honestly, I keep them within my body and isolated. They're kind of like a set of gravitational joints that lets me move normally at this point."
+
+Althea murmured.
+
+"Could you, uh, really hurt someone with those if they weren't, er, isolated?"
+
+I nodded, my face grim.
+
+"Oh, absolutely. If the gravity well isn't contained, any normal person who got near me would end up getting pulled against my body. It would start with a small slice of their skin that tugged the rest of them against me. Then, their body would be blended against the surface of my skin. It would be like a thin layer of kinetic shearing."
+
+Althea gawked in horror.
+
+"That was a pretty specific example you just came up with. Has it, you know, happened before?"
+
+My eyes darkened.
+
+"Not with a person, but it did happen with a squirrel once."
+
+Torix murmured.
+
+"I bet that drove you nuts."
+
+Althea and I looked at him. Torix spread his arms.
+
+"Oh, come now. You use terrible puns all the time. I see nothing wrong with my statement."
+
+I furrowed my brow.
+
+"I don't think that's a pun."
+
+Althea shook her head.
+
+"The master has spoken. For shame, Torix. For shame."
+
+Torix threw his hands up, and they crushed some stone above him.
+
+"Oh, now you're simply gatekeeping to prevent me from joining the ranks of pun joksters. Who is truly shameful in the end?"
+
+Althea scoffed.
+
+"Why would you want to join that group anyway?"
+
+Torix steepled his fingers together.
+
+"There is a unique joy in the anguish of those that have heard a particularly potent pun, and I must say, I rather relish the thought of that power writhing in my hands. I always assumed that's why my disciple makes those horrifically awful jokes from time to time."
+
+I shook my head.
+
+"I genuinely enjoy them, as awful as that sounds."
+
+Torix's head clanked against the tunnel once more.
+
+"Enough on puns. What of this unwieldy size?"
+
+I shrugged.
+
+"Nothing I can do about it."
+
+Torix gestured at me.
+
+"Perhaps you could go on a diet then? I've heard you humans are obsessed with losing what is considered excess weight."
+
+I frowned.
+
+"I think that's an old-world problem these days. Honestly, I haven't seen anyone with a gut in a while."
+
+Althea raised her brow.
+
+"You haven't been out much then. People are starting to get enough food for that kind of thing."
+
+I led us into the depths of the dungeon.
+
+"Gah, you don't know how happy I am to hear that. It's a good problem to have."
+
+We turned a curve in the tunnel, and beneath us, an enormous plume of spatial mist gushed like a geyser out of the ground. Its silence unnerved us, and I reached a hand out over it. The mist lacked any substantial feel. Above it, dense clusters of the surveillance tree's roots reached out of the ceiling. They soaked in the spatial vapor like a liquid.
+
+I scratched the back of my head.
+
+"And there's the tree's origin."
+
+Torix marveled at the geyser.
+
+"What is this then?"
+
+He reached out a hand before Althea stopped him.
+
+"Hey. Let's let Daniel handle this part."
+
+Torix pulled back.
+
+"A mere statement would've sufficed."
+
+Althea reddened.
+
+"Oh...Uhm, sorry."
+
+I stepped up to the spouting mist.
+
+"Cya later, guys."
+
+They waved me off. Althea gave a weak smile.
+
+"Be safe."
+
+I pointed back.
+
+"You too."
+
+I created panels of gravitation over the geyser so it didn't blow over when I hopped in. Then, I hopped in. After passing what seemed like an endless steam sauna, my feet met solid ground. Cracks radiated through the ground around me as I collided against the stone. Despite my impact, the tunnel stayed strong. Peering around, I found the source of the cavern's strength.
+
+Beams of chitin supported the tunnel. As I walked through a pressurized chamber of sorts, something kept fumigating the fog like an enormous hose. I wandered into an opening, and a being let out groans of pain. I winced at the sound before finding the source of the agony - an eldritch queen.
+
+I walked up to the creature that reminded me of a queen fire ant. The main body shimmered red alongside its glossy chitin. Its abdomen became what looked like a swollen larva where eggs burst out. Literally, its abdomen kept exploding. Each explosion carried another howl of torment from the eldritch. It should've died from the grievous wounds, yet some eternal source of vitality kept the damn thing alive.
+
+Eldritch Malformation | lvl 18,000~ | Status: Unknown - This creature is a deformed abomination exposed to otherworldly forces, and its body has become a conduit for those strange energies. This persistent corruption has elevated the power and abilities of this queen's hatchlings.
+
+It does so by warping its composition. It then is able to imbibe the same turpitude into its spawn. In the end, its body has been repurposed into a gluttonous, engorged factory to produce its now altered brood. The creature's transition has left it in a state of purgatory and pain.
+
+It should be killed immediately.
+
+Yikes. A leftover part of its abdomen lay in the way of a portal. This spatial rip belched an enormous amount of dark, primordial mana into the beast. The eldritch queen absorbed that energy and regenerated its swollen, bulbous belly, turning the skin on it into a dark blue hue. This part of its body leaked the spatial fluid and drained it into a pit.
+
+That same pit drained down to a tunnel falling deeper underground. Once at a certain elevation, it evaporated with tremendous force, forming the geyser that spewed the spatial mist all over the place. The swollen abdomen rumbled before splitting apart once more. The queen let out a bundle of eggs while letting out roars of anguish.
+
+I gagged before raising a hand. I vaporized its head in a singularity, my disgust overwhelming any other plans for the poor creature. A quake resonated from the Earth, but I prevented any collapse with gravitation. Stepping up to the odd portal, I walked into yet another world. This time, I created a ring over both sides of the portal using my dimensional fabric.
+
+I wasn't about to get jerked around from portal to portal again.
+
+Once more, I walked through the veil. As I did, a strange world surrounded me. All was suffused with a thick, primordial ooze. The mana floated up in dolloping drops to the sky, forming a rippling sea above. There, amongst the clouds, the stars shined within the water. It reflected like a mirror, and it held a disarming quiet, something that imbued a peace and calm within me.
+
+The sensation carried so much weight and force that it created urgency. It was like the terror that came from an encroaching death, like hypothermia or an overdose. As numbness sedated my senses, my mind frantically fought for its life. I grappled against the sedation as brutal cosmic winds bristled against my face.
+
+It came from a strange source; further out, a blue star beamed down with enough radiation to devastate Earth in seconds. The star scorched this plane, the ground howling for peace in a low rumble. Something dimmed the star's rays so that I could still see it, but the entity hadn't fixed the heat or radiation.
+
+This place would kill any normal person who entered it. The planet's sun seared my skin and left me constantly regenerating, yet the star never overwhelmed my sight. I let out a laugh. It was like the celestial body would rather be seen than survived. As I breathed in, the scent of acrid chemicals assaulted my nose and burned my nostrils.
+
+Baldowah's world had been one that smelled of sweat, blood, and battle. This place reminded me of a chemistry lab where a scientist forgot to close his vials. It was so thick that I could taste the air, and the flavor was like lake water mixed with bleach, as if nature and science duked it out in my mouth. As they battled, I was the only loser.
+
+The only pleasant part of this place came from a low, resonant rumbling. It, like the lake above, imbued a sense of calm. It didn't lull like a lullaby. It calmed like rain on a tin roof. Destroying that impression, a quaking erupted from the ground. It kept building in resonance and volume before forming a familiar voice loud enough to liquefy bone.
+
+"Harbinger. You're finally here. I've been waiting, if that's what you beings call it."
+
+Eonoth left me stunned at his environment's hostility, but I endured the beating.
+
+"Agh. Eonoth. You've got to work on your reception. This place is hell on Earth."
+
+"Is it truly that intolerable?"
+
+I raised a melting hand.
+
+"Yes. Now, what are you doing here?"
+
+Eonoth laughed, its voice excruciating to hear or experience.
+
+"To watch the show."

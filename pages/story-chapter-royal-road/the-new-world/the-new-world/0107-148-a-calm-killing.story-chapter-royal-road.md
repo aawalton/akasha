@@ -1,0 +1,413 @@
+---
+id: eba75b2c-884b-5709-ba41-8264bcc3a4ba
+page-type-slug: story-chapter-royal-road
+title: "148 A Calm Killing"
+slug: 0107-148-a-calm-killing
+partOf: the-new-world
+position: 107
+ownLength: 4499
+unit: words
+ownProgress: 4499
+publishedAt: 2018-10-23
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/300522/148-a-calm-killing"
+royalRoadId: "300522"
+markedReadAt: "2026-06-29T21:24:38.479Z"
+---
+
+A sapphire flame suffused the metal dome. My vision dimmed. My armor cracked, the shell surrounding us holding in the explosion. Fragments of my armor fell down. Sensing damage, the metal shell around me rushed back onto my charred skin.
+
+Charred might be the wrong word. The flames left a deep cooling sensation after the initial, brilliant flash of heat. It was like someone injected liquid nitrogen into my blood. The bits of Althea froze in burning piles around me.
+
+I checked out my health, 1/5th of it gone. I looked around, seeing the ashen bed. I stretched my awareness, looking for other bombs. I found two other spheres embedded in the wall. Their consistency matched the concrete, blending them in. Now that I looked closer, they appeared like a vague outline.
+
+I reached out a hand, charging my mana. With a swift jerk, I plucked two chunks of concrete from the wall. The bombs clicked, but I kicked my foot on a telekinetic pad.
+
+The telekinetic pulse punted the two chunks of concrete out of the window. After crashing out of the glass, I bent down and molded my armor. I created a cape of moving metal around Althea's bits and pieces.
+
+Outside the room, the two blue fire bombs detonated. A chain reaction began, two more bombs exploding outside. Someone assumed we would try and leave the room and pinned us in from both sides.
+
+Thank god I'm not one for running away. I looked around, the explosion leaving our room trashed. It was odd. Most of the room charred from the blast. The fire now froze what remained of it. Before it did more damage, I spread my arms and clapped them together.
+
+A shockwave ushered out a wave of wind. The flames blew out, an echo radiating through the mountainside. After a few more seconds, Althea materialized from the bits of cold mush. I bent towards her as she shivered. Her eyes darted around, grasping for information. I grabbed her hand, "Are you ok?"
+
+She nodded her head.
+
+She looked around, her eyes wide with terror,
+
+"What in the hell just happened?"
+
+I frowned, "Someone just tried to assassinate us." My wounds regenerated already. "They didn't do such a good job, but it was a pretty good shot."
+
+She glanced around at the room, "Why isn't everything destroyed?"
+
+I tapped my armor, "My armor kept the first explosion contained. That's why it did so much damage in the first place." I walked over towards a dresser,
+
+"It seems like someone knew the armor enclosed around us while we slept. That's why the bomb was there. They must have snuck into our room while we weren't here if I had to guess."
+
+Althea shook as I threw her a jumpsuit. It reminded me of a surfer's outfit. She slipped it on,
+
+"For a bomb, it sure feels cold."
+
+I nodded, "Yeah. It feels like a cryo grenade or something weird like that. I don't really know."
+
+I opened my status screen, "What I do know is we need to talk this out."
+
+I sent Torix, Hod's assistant Isa, Amara, and Kessiah a message to meet up. Althea looked down. She sighed and rolled her eyes, "Here I thought we were finally done with people trying to kill us. At least for a little bit."
+
+I shrugged, "This is why we're going to Giess after all."
+
+We turned and ran out of the room. We sent messages to Torix and the others for a midnight meeting. Torix was already there by the time Althea, and I arrived. Hod's assistant, Isa, threw the birdman into the room. He groveled on the ground, half asleep,
+
+"Hod not ready for sun yet." He raised his wings, "Sun go away."
+
+Torix crossed his fingers, his eyebrows creased and his flaming eyes purple, "Cease your mindless chatter. We've important matters to discuss."
+
+He turned towards me, interlocking his fingers, "I assume you called because of the explosion?"
+
+I frowned, "Yeah, someone just tried to kill us."
+
+Torix sighed, "A few of my undead sentries sent telepathic messages to me. Damage done to the base is rather...extreme. I'm left wondering why didn't they try to kill all of us and only you two?"
+
+Hod pulled himself onto a chair. He pointed at me, "Hod believe it because bomber not like Daniel."
+
+Kessiah walked into the room, the doors opening. We all stared at her, the white hair on her head ruffled. She sat down on Hod's side of the table. She looked around,
+
+"What? Are you all that surprised I showed up?"
+
+Torix shook his head, "Not necessarily. I'm amazed everyone came so swiftly in all honesty. I don't sleep, and neither does Daniel. Having the rest of you rush here is an excellent sign of alertness."
+
+Kessiah turned towards me, "What's the hassle this time?"
+
+I shrugged, "Someone blew up Althea and my room with some ice bombs."
+
+Kessiah sneered, "Well when you do great things, you're bound to make enemies I guess."
+
+Althea raised an eyebrow, "What do you mean?"
+
+Kessiah looked between all of us, "Are you serious? None of you know?"
+
+Our confused expressions answered her question. She tapped the touchpad, opening the holographic projector. A second later, a white block appeared.
+
+A video arose onto both sides. On it, the battle between Yawm and the Breakers played out. The brutality of Yawm's last moments was laid bare for all to see. A quick edit and I popped up on the screen. It showed my battle against Frode and Brim.
+
+Minutes later, and the battle was over. From a different angle, the camera viewed us over Yawm. It showed him trapping us, my launch into his attack, and the bloody aftermath that ensued. In excruciating, high resolution, someone created a viral video of the fight.
+
+An odd sensation traveled through me at the sight of it. I didn't know if I should feel proud or insulted. On the one hand, evidence existed that we killed Yawm outside of our titles. On the other hand, our life and death struggle devolved into entertainment on the web.
+
+Kessiah scrolled down showing comments about the battle. A few armchair quarterbacks debated how we should have fought. Even more people marveled at the insanity of Yawm's powers. A small but vocal crowd also called Yawm an idiot for how he used his abilities.
+
+Fierce troll fests cropped up even. Several commenters threw memes out, mentioning how we had level's lower than our IQs.
+
+Ahhhh, the internet.
+
+Kessiah raised her arms at the video, "There you go. 30 trillion views already. This is why you were attacked if I had to guess."
+
+I blinked a few times, amazed at the sheer scale of the numbers mentioned,
+
+"You're telling me people are trying to kill me because of this video?"
+
+Kessiah rolled her eyes, "Uh, yeah. You're a high-level unknown, and they know where you are. Put two and two together."
+
+I grimaced, "So that's all it takes? For real?"
+
+Kessiah crossed her arms behind her, "Welcome to the life of a remnant. Hope you enjoy it."
+
+Torix raised a hand, "But this doesn't explain why they didn't try to kill us?"
+
+Kessiah raised her eyebrows at Torix, "Daniel killed Korga Ryker, alright. The Korga Ryker. Every unknown across the galaxy hates you now."
+
+I tapped the desk, "I mean...I didn't kill him exactly."
+
+Kessiah shook her head, "People don't care. The video tells them that you helped Yawm then he betrayed you. After that, you betrayed him. Simple and easy. Everybody already made their mind up about you."
+
+I scratched the top of my head, "Well fuck...Thank god we're nearly indestructible."
+
+Torix steepled his fingers, "I believe that the sniper that survived our encounter published this video. It's also a safe assumption to believe they are the assassin we're after as well."
+
+Althea bit her lip, "Hmm...that sounds like something the sniper would want to do. We did kill her leader and all her friends. Yenno, assuming they were friends."
+
+I tapped the table, "Ok, so now what? We leave here and let them pick the legion apart, or do we stay and play a tower defense against waves of assassins?"
+
+Torix waved a hand, "They wouldn't dare kill any of our legions. Murder of an ordinary sentient would give them a bounty. This is especially so considering Earth is still a new planet."
+
+Torix pointed around us, "That's likely why the bombs in your room weren't nuclear. They couldn't risk killing that many people. That's why the assassin's killing Yawm didn't use a nuclear bomb for destroying him either."
+
+Kessiah sighed, "But if we were all unknowns, they wouldn't even hesitate. Great."
+
+I spread out my arms, "I don't remember you being such an edgelord Kessiah."
+
+Kessiah let her hands go out from behind her head. She bit her lip, "Alright, my bad. I'm just pissed off. We finally kill that unkillable monster and now look. We're still being hunted down. Doesn't that seem a little, I don't know, unfair?"
+
+I tilted my head. Kessiah wasn't wrong per say. At the same time, being right doesn't mean someone is useful. I laid my hands on the table, "Here's the thing. It doesn't matter if the situation is unfair. What matters is that we find a way to get through the situation."
+
+Hod raised a wing, "Hod agree."
+
+Torix tapped his touchpad, closing the video,
+
+"Then let's finalize the last details of leaving. This place will be safer once we've left. Anyone who remains here will have to hide their identities until we finish the missions on Giess. Who wishes to go?"
+
+Athea, me, Torix, and Kessiah raised our hands. Hod didn't. I looked at him,
+
+"Why don't you want to leave?"
+
+Hod glanced at everybody, "Hod like all of Hod's friends, and Hod want to go. Hod can't. Hod have to stay with Eltari."
+
+Hod gripped his feathers into something like a fist,
+
+"Hod leader of tribe. Hod have responsibility as leader. Hod find Eltari home, and Hod make sure new home safe and good for eltari. Hod sorry."
+
+I lifted my palms to Hod, "What? Don't apologize man. You have to do what you have to do."
+
+It surprised me that Hod thought that deeply about, well, anything. It was mature and, gasp...level-headed. I  turned towards the others,
+
+"So we're all leaving tomorrow?" Everyone besides Hod nodded. Hod pointed behind himself,
+
+"Hod let friends know Amara not leaving either. Amara not good with crowds. Amara eldritch after all, so Amara get attacked fast. She stay and teach other eldritch. Amara goal not the same as Harbinger."
+
+I stood up, "That's totally fine." I turned towards Hod, "Are you going to be able to handle the sniper though?"
+
+Hod laughed, "Hod not worried. Hod and Amara strong together."
+
+Kessiah stood up, walking over to Hod. She got in his face, making him lean back,
+
+"Wait a second...you love her don't you?"
+
+Hod sat there, expressionless as a brick. He shook his head,
+
+"What? No, Hod say nooooo. Hod not love beautiful Amara. Why Lady Friend number two think that?"
+
+Hod blushed like crazy if you could call it blushing. His feathers ruffled out like he was being attacked. He glanced back in forth in a minor frenzy. Hod stood up, pointing at everyone, "Hod command others not tell Amara; otherwise Hod hate friends forever!"
+
+Amara walked in. She raised a palm, the eye narrowed,
+
+"Tell me what exactly?"
+
+Hod fumbled back into his chair, trying to look cool but failing miserably,
+
+"Pshhhhhh, what Amara talk about? Hod not know a thing."
+
+He turned his head to the side, trying to whistle. Spit flopped everywhere instead. Amara looked at it then back at Hod,
+
+"You are disgusting."
+
+Kessiah smirked at Hod, "Oh yes he is."
+
+Torix stood up with us, "It seems as though the conversation took a nosedive in an instant. Bring everything you need in your dimensional storages. What you can't fit within them, just use packs. My teleportation magic is more limited by volume than by space."
+
+He turned his gaze towards me, "I've already sorted through the belongings of the Breakers and placed useful pieces in a room. Daniel, being the densest and most massive of the group by far, should use them instead of us."
+
+Torix walked past me, placing a hand on my shoulder, "Would you like to do that now?"
+
+I shrugged. I turned towards Althea, "Where's somewhere she could sleep?"
+
+Torix pointed downstairs, "I'd recommend somewhere in the residential district. Our assailant wouldn't dare to use a bomb there. Either that or perhaps sleeping somewhere while stealthed will do."
+
+Althea punched my arm, "I'm going to be fine. You don't have to worry that much. I can handle it."
+
+I scratched my cheek, "Ah yeah, sorry about that." I turned to Hod, "Are you going to be able to hunt down the sniper?"
+
+Hod nodded, "Hod sure of it."
+
+I turned towards Amara, "See if you can't help him out some. If you wouldn't mind that is."
+
+She turned an eye towards Hod, "If it helps me survive..."
+
+With the meeting handled, Torix and I walked out of the room. In silence, we entered the third floor. After passing by some students pulling all-nighters, we reached into Torix's personal office. With skulls, heads in jars, and all the lich cliches present, we sat at his mahogany desk.
+
+Torix opened a black portal beside him. He pointed at it, "Most of the supplies are here. You can pick and choose what you'd like to keep from within."
+
+I stood up and pointed at it, "How do you even make this?"
+
+Torix weighed his hands back and forth, "It's a mana locking technique. You create a mental projection of space and hold materials within the projection. In exchange, you lower your maximum mana pool."
+
+I frowned, "Could you keep me in there?"
+
+Torix laughed, "Hardly. You'd smash it apart with your mental strength if not your physical might. Keeping the projection formed while you're in there will be difficult enough, let along trapping you there."
+
+Torix raised a hand, "In fact, if you could just pull items out with your gravitation, I'd prefer that."
+
+I shook my head, "I'm sorry for the false accusation. The bomb has me paranoid."
+
+He scoffed, "I'd imagine so. Althea probably came out as mush. Her unique composition saved her yet again...even still, it was a harrowing experience."
+
+I glanced into the portal, seeing an old room. Assortments of books, glassware, ink, and gemstones littered desks. A fireplace burned behind rows of shelves, oddities, and knick-knacks. Scrolls and maps spread over the mantle. Torix pointed inside,
+
+"Allow me."
+
+He stepped within, wooden floorboards creaking. I walked in right after. The room shifted, dust falling. Torix gasped,
+
+"By Baldowah you are heavy."
+
+I lifted some of my weight with a small gravity well. Dust floated upwards, the air funneling up towards the well. The room unshifted, and Torix stood back up straight,
+
+"Thank you."
+
+I looked around, "What do you need on an intergalactic scale anyways?"
+
+Torix raised a hand, "Well that depends on the person asking. In your case, I'd recommend a few things."
+
+Torix pulled out a transparent disk, "This is a series of downloadable maps for Giess and Feontis, their capital. We'll be heading there as it has the highest density in population. There we'll find the most trouble and make the most allies."
+
+I grabbed the disk. Torix handed me packages of his tasteless rations,
+
+"These shall serve as a backup in case you run out of food." Torix pulled out a few bottles, "These are essential nutrients for your survival based on studies from your previous society."
+
+I took the objects as Torix pulled them out, "Of course you'll need basic hygienic supplies, a few silver rings for enchanting, gemstones, data discs for extra memory in your obelisk, water and air is a must, a scent neutralizing cologne, a guide for immigrants of Giess..."
+
+He went on and on. I dropped each item into my personal dimensional storage as he handed the stuff to me. I didn't even need my actual ring since my armor could store literal tons of mass.
+
+After an entire catalog's worth of equipment, Torix turned towards me,
+
+"That's the trifle I imagined you'd need."
+
+I laughed a bit,
+
+"Are you shitting me? You just gave me a whole store's worth of, er, things."
+
+Torix put his hands on his hips, "I'm glad I overdid it. Here I believed I'd skimped you out on the necessities."
+
+We walked out his mental projection and back into his office. Torix grinned at me,
+
+"You know, this reminds me of sending Alfred off to school many, many years ago."
+
+I pursed my lips, "Isn't that hard to remember?"
+
+Torix shook his head, "The sting of his passing has long since passed. Now I cherish any moment that brings back his memory. That is my greatest regret. With loved ones, I took them for granted until after they'd left me."
+
+Torix reached up and put his hands on my shoulders, "I won't make the same mistake twice, I assure you."
+
+I gave Torix a bearhug, lifting him up off the ground,
+
+"You're just a big old softie."
+
+I set him down, "But I appreciate it, master."
+
+Torix laughed, "As you should, disciple."
+
+We said our goodbyes, each of us waving towards the other. As I walked out of his office, I remembered why I called him master. The reason changed over time.
+
+At first, I did so out of fear. After a while, it was out of awe. At this point, calling him master was more a sign of respect. I could probably beat Torix down in a fight, but I wouldn't. I was his old apprentice, and I wanted him to enjoy the title. I wanted him to take pride in the student he helped make.
+
+Those ideas dashed around in my head while I walked down towards the eatery. I put about several hundred pounds of random foodstuffs into storage. Vegetables, grains, oils, meat, seasonings, you name it, and it went into storage. I didn't want to go for two years without a burger ever again.
+
+Never again.
+
+It took several hours to do all that though since I needed to heal. I also filled up a ring with water and air. It sounds strange, but it might save me from dying later on.
+
+After I finished packing, the sun rose up. Torix sent everyone messages, and we met up on the third floor. Inside a room on the third floor, Torix created a teleportation ritual.
+
+As I walked in, runic glyphs met my eye. They smothered the walls with a few charged gemstones placed at varying points. They shimmered with dormant mana. Althea and Kessiah already arrived, a variety of packs idling by.
+
+We were almost ready. As I walked up without any gear, Kessiah frowned at me, "Why don't you have anything with you...wait, let me guess, you plan on roughing it for training?"
+
+I rolled my eyes, "Oh haha, very funny." I showed her my hand, five silver rings on them reflecting the room's light, "Everything I need is in these. Since I weigh so much, I don't have to actually carry anything."
+
+Kessiah stood up, walking over. I dwarfed her now. She banged my chest, a metallic ring echoing through the room. She shook her hand, "You're heavy alright. How about you carry all of my stuff too?"
+
+I tapped my chin, "Hmmm. I could carry anything you don't use every day. Otherwise, I'll be constantly giving you whatever you need."
+
+Althea walked up, "Oooh, would you hold my stuff too?"
+
+I grinned at her, "Of course."
+
+Kessiah stuck her tongue out and looked away, "Bleck. Gross."
+
+I pointed at her, "In the immortal words of Hod, you're just peanut butter and jealous."
+
+Kessiah raised her arms up, "He spoke those words in a sentence? Damn is he dumb."
+
+I shook my head, "He got Torix pretty good with those exact words."
+
+Kessiah smiled, "Oh yeah, I'm sure it took awhile for that bag of bones to wrap his head around that one."
+
+Torix walked up, looking at us, "I see I'm a popular subject of discussion. Of what may I ask you?"
+
+Kessiah propped her weight on one leg, "Don't worry about it."
+
+I grabbed Althea's packs and put them in storage as Torix and Kessiah exchanged witty banter. Each time I put a gun or some armor into the repository, a chunk of my body disintegrated. It took a few seconds for it to regenerate.
+
+Kessiah looked at it, then back up at me, "What the fuck is that?"
+
+I raised an eyebrow, "What do you mean? I'm regenerating."
+
+She narrowed her eyes at me, "It looks so gross."
+
+Althea leaned towards me and whispered, "Poor her. She's being so defensive."
+
+I leaned towards Althea, "Yeah, tell me about it."
+
+Kessiah shrugged, "Just pointing out the obvious. Still, what is your regeneration now? It looks higher than 400,000 a minute."
+
+I scoffed, "Uh, yeah. It's a little bit higher than that."
+
+Torix nudged Kessiah with his elbow, "While you've been training soldiers, my disciple helped kill Yawm of Flesh, the avatar of the world eater. He's improved more than a bit."
+
+Kessiah spread out her arms, "Can you just tell me how much it is?"
+
+Torix's grin turned vicious, "Oh, somewhere in the realm of 9 million. I believe it's even higher now."
+
+Kessiah took a step back, her knees shaking a little. Her jaw went slack. She blinked a few times. She looked at Torix then back at me. She waved her hands,
+
+"Show me your status."
+
+Torix pointed upstairs, "Before all that, we need to deal with Ajax."
+
+I sighed, "Damn. I almost forgot about him."
+
+Kessiah's eyes turned into slits, "I heard you guys decided to just kill him."
+
+I nodded. The slightest smile ran up Kessiah's lips, "Good. That asshole deserves it."
+
+Kessiah looked sideways, hiding her new scar. Right before it went out of view, the old wound reflected light. It cast a glossy sheen. I grimaced,
+
+"God...I'm surprised he did that to you."
+
+Kessiah glared at me, "You and me both. All I did was ask the guy out. Before you know it, he's shouting crazy stuff. 'I won't let my guard down around anyone again. I know we're enemies, be glad Yawm is an even greater one.' Blah blah."
+
+Kessiah shook her head, "Then I put a hand on his shoulder while saying sorry. Bam. Slices off half my face. Thank god mister bones over there spies on everybody, or else I'd be dead."
+
+Torix crossed his arms, "I do not."
+
+I pointed outside, "Where's Ajax? Let's finish this."
+
+Torix opened a portal. A purple ring of mana radiated from a starry, black center. Within it, many eyes stared back at me. Torix put his hand into the portal, and he pulled out Ajax in his green sphere. Frozen in stasis, he looked both elated and full of anger at the same time.
+
+The sphere held him in place at the moment right before he killed his greatest foe. His eyes were wide with rage. He wanted Yawm dead. I'm sure when Yawm froze him in stasis, his heart sank. All that satisfaction transformed into a bitter disappointment. Now he's been stuck for months, unable to move.
+
+I felt for the guy. I really did. At the same time, letting loose ends live already bit me in the ass more than once. The sniper nearly killed Althea and me. Way back at the start of Yawm's plague, Michael and Kelsy almost destroyed Althea and me too.
+
+It wasn't a fun decision, but it was a necessary one. I wasn't going to make the same mistake as Yawm did. His arrogance killed him off because he didn't think he needed to fear anyone. I was afraid of Ajax alright, and I listened to what it told me.
+
+Kill or be killed.
+
+I turned towards Torix, "Let's go somewhere more open."
+
+We all walked outside of the base. Torix kept a shield of mana over the sphere of green. I told him too. I didn't want the sniper to burst the bubble before we killed him. That was a can of worms I was going to leave unopened.
+
+We reached the entrance Althea showed me after we first arrived. After walking through the waterfall, we paced several hundred yards into the forest. Surrounded by evergreens, I pulled Ajax's sphere away from everyone.
+
+I wasted no time. I charged mana, the sensation no longer foreign after months of training. I spoke out to the porytian,
+
+"I'm sorry. If you hadn't attacked Hod and Kessiah, then we wouldn't be doing this. You also nearly killed us against Yawm. I can't say you won't do something worse in the future man. That's why I'm doing this."
+
+Mana radiated from my hands, "Goodbye."
+
+From within the green sphere, I generated a singularity. The green shell cracked under pressure. The black hole feasted on Ajax, eating his legs and lower torso. After reaching critical mass, it blew.
+
+The sphere vaporized as did Ajax. A notification appeared in my inbox, It told me that Ajax died. The only thing remaining of him was a delicate, yellow mist of his blood. No bones, no other mess stayed.
+
+For some reason, this death stuck with me. It reminded me of suffocating that other guy when I first met Ajax. A sense of disillusion washed over me. For a second, it felt like I was in someone else's body.
+
+I rationalized both these murders in my head. That's the thing though, they were murders, through and through. Ajax didn't attack me. That nameless man didn't strike me down either. I killed them both for my own safety. I leaned over, hitting myself in the head.
+
+At least with the nameless man, I didn't have any time for an alternate solution. I had plenty of time to dwell on this though. There were no excuses. I killed Ajax for me, that's it - nothing noble about it.
+
+I shook my head, crushing down a swell of nausea. I covered my face with my hands, and I dragged them down my nose and mouth. I shook my hands as if they were covered in blood.
+
+The discomfort passed. I opened my status. I gained 121 levels. The boost left a bitter aftertaste, reminding me of what I did to get them. I turned towards the others,
+
+"I'm not fit to be an executioner. It isn't in me."
+
+I closed my eyes, wind blowing against me. The yellow mist pulling towards me. It seeped into my skin, my armor devouring it. I stepped towards the base,
+
+"Let's go."

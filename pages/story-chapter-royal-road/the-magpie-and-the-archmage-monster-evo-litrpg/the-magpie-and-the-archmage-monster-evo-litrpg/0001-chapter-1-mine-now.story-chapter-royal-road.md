@@ -1,0 +1,207 @@
+---
+id: c0fd216e-7a43-56a6-9a3a-f440827390b6
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1 – Mine Now"
+slug: 0001-chapter-1-mine-now
+partOf: the-magpie-and-the-archmage-monster-evo-litrpg
+position: 1
+ownLength: 2079
+unit: words
+publishedAt: 2025-08-17
+link: "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2525427/chapter-1-mine-now"
+royalRoadId: "2525427"
+---
+
+"Why have we come to this place? I thought we were supposed to learn new, powerful magic?"
+
+"You think they'd just give us all the good stuff without doing any work first?"
+
+"But this is stupid! Why do they need all these people to transport some small trinket?"
+
+"You think it's just a trinket? It must be vital to the mission. You should be honored that the higher-ups are trusting us with such an important task."
+
+Oh, shut it! Noisy humans with their yappering so early in the morning.
+
+Peeved by the noise, she stretched out her wings. She had hoped to nap for a bit longer, but these guys just ruined it.
+
+Her iridescent feathers glistened in the sunlight, while her blue eyes shone brightly. She was a magpie. The most magnificent magpie in all the forest. No other creature came even close to either her beauty or her wit.
+
+However, she hadn't always been a magpie.
+
+She used to be a human before. Or at least she thought she was. She had these occasional flashes of obscured faces. Echoes of forgotten voices. A feeling of something lost.
+
+It was likely why every other animal in the forest seemed dumb to her. She was brilliant. Her intelligence is unmatched. The Queen of this forest.
+
+Sometimes she wondered—
+
+Thud!
+
+Sometimes she wondered—
+
+Thud!
+
+Sometimes she—
+
+Thud!
+
+"Kraaa!" She snapped, mimicking an angry crow. "What is it this time?"
+
+She thought that perhaps the humans had decided to cut down her tree. But looking around, she saw that they were already long gone.
+
+Instead, down below, a grotesque boar was smashing its skull against a tree. Thick black smoke was coming out of its mouth while its eyes were hollow pits. Its body was in a state of half-decay as its short fur was turning into what looked like sludge.
+
+Great. One of these again.
+
+These kinds of monsters occasionally would show up in her forest, throwing a giant tantrum and attacking everything that moved. She once saw a rabbit-like creature with deer antlers in a similar state attacking a full pack of wolves.
+
+Worst of all, it had killed and slaughtered them all. She doubted her own eyesight for a moment. Not to brag, but her vision was impeccable. Heck, she could even see ultraviolet light. Honestly, humans seemed blind by comparison.
+
+But even so, she hadn't understood what she had witnessed. One moment, wolves. The next: piles of blood, scattered guts, and viscera.
+
+The boar below wasn’t smelling quite as bad as that rabbit had. Probably hadn't reached the peak of its grossness yet. However, it was still fouling up her forest. She clacked her beak in annoyance. Why couldn't those humans take care of this instead of just complaining? Didn't they see it?
+
+The boar slammed itself into the tree where she was sitting, shaking it so violently that she had no choice but to take flight so she wouldn't fall.
+
+"Kraaa!" She imitated the crow again. "Piss off, you stupid brute!"
+
+It paid no mind to her and just continued on its merry rampage.
+
+That's right! Get lost, you fucking hooligan!
+
+She was relieved to see it leave, because this tree had her nest. She hopped up to a hole which was well hidden behind some branches. With her beak, she nudged them aside and hopped into the tree hollow. Her personal treasure trove.
+
+Her eyes lit up with pride and joy when she saw her treasures. Oh, they were so beautiful! There was a small hand mirror she snatched from the elegant lady in the park. A golden wedding ring that had fallen off the hand of a merchant. A sizeable pile of silver coins. Silver thimble taken from the tailor's windowsill among many other treasures.
+
+It wasn't a normal magpie's nest—she knew that her brethren weave their nests on their own. Each one filled with its own treasure. Every magpie had to have treasure. But she figured that a tree hollow would be a much safer hiding place. Nobody had ever stumbled upon it before.
+
+Satisfied that nothing among her stash had been damaged, she nestled into the corner that she had laid out with soft moss and watched her treasures. It was by far her favorite activity as a magpie. She much preferred this life to her human life.
+
+The bits she did remember from her human life seemed tiresome. Reading book after book, trying to memorize some numbers and equations. Rejection. Stress. Sadness.
+
+No, being a magpie was superior. She had all the food she ever needed without any responsibilities. And the best part—
+
+"Get the weapons!" Some panicked human voice yelled somewhere nearby. Was it one of the humans who woke her up?
+
+"AHHH! Get away! Get away!"
+
+"Stop running and fight like men!"
+
+Oh, for feathers' sake! What is going on today?
+
+Angered by the disturbance, she hopped out of her hollow, being careful to hide the entrance. Sitting on her branch, she let out the signature magpie chak-chak-chak at the commotion.
+
+Some distance away, near the road that led to the town, she noticed a bunch of human men fighting the ghoulish boar.
+
+Oh, they actually decided to deal with it. But it's not looking very promising. Are two of them dead already?
+
+She opened her wings and spread her tail feathers. With a few swift flaps, she was airborne. Oh, this was the best part of being a magpie. The freedom you feel as you soar through the sky, above the constraints of gravity and ground. The feeling of wind gliding over your feathers, carrying you with it. There was nothing else like it.
+
+Well, I suppose being another bird isn't so bad either, but magpies are still on top of the list.
+
+She reached the scene and landed on a nearby tree to observe. Men dressed in robes—probably mages—were fighting against the brutish boar, flinging a barrage of spells at it in a desperate attempt to save themselves. As she had suspected, few already lay dead, thoroughly gutted by the monster. The wagon—she thought it used to be a wagon—was nothing more than a bunch of splinters.
+
+It wasn't that she enjoyed watching people suffer and die. Quite the opposite—the sight was deeply disturbing. Perhaps, if she were still a human, she would have vomited. But as a magpie, her curiosity trumped every other sense.
+
+She wanted to know everything about everything, which meant that she had to know the outcome of this battle. Hopefully, the humans would manage to defeat the frenzied monster, but the odds were not in their favor.
+
+"Dammit! Get the gemstone! We cannot lose it, no matter what," one of the men commanded. He had some shimmering shield erected around himself, which repelled boar's attacks. But the monster kept ramming against it. Judging by the sweat beading from the man's temples, he wouldn't be able to take the barrage forever.
+
+You can do it, humans! Dispose of the filth that taints my forest.
+
+"I can't find it! Jared had it!" Another mage called frantically searching for something in the mud.
+
+Why is this guy not helping them? Is a gemstone really worth more than their lives? I mean, it's not like I don't understand them. I'd do anything to guard my treasures, but if it were a choice of life and death, I'd abandon them. After all, what use are they to me if I'm dead?
+
+The desperate scramble continued, and the boar gored another two mages, despite the boss mage's best attempts to keep the boar focused on himself. The man who had been searching through the mud had no choice but to join in the attack. He unleashed a bright fireball, pushing the boar away from him. One moment later, and he'd be impaled on its tusks.
+
+Then she saw it. Among the mud, there was something shiny. It was covered so thoroughly in mud that even she had trouble spotting it. But she had spotted it.
+
+Oh… I need it… No! That's a bad idea. I could get caught up in a spell or trampled by that boar.
+
+But the shiny gem called to her. Like a little sun, it glimmered among the mud. The poor thing was dirty, not at all how shiny things should be. Somebody had to save it.
+
+Oh! It's not like they could catch me anyway.
+
+She jumped off the tree, letting gravity pull and accelerate her. Near the ground, she opened her wings and spread her tail feathers, veering herself upwards and straight at the scene. Before anyone could even blink, she snatched the gem out of the mud.
+
+"M-Magpie… That magpie has the gem!" One of the mages yelled, pointing at her retreating form. He launched a sharp icicle in her direction, but completely missed.
+
+You fool! You cannot compete with my speed.
+
+That icicle spell had been the last thing that the mage ever did. The next moment, the boar had trampled him to the ground. She did feel a bit bad about him, but it was his own fault for trying to kill her. Karma and all that.
+
+"Dammit! Kill the boar before that bird gets away!" The boss mage yelled.
+
+Haha! Good luck with that. I'm already gone.
+
+She was flying through the safety of the forest canopy. This was her domain. They had no chance of finding her. After all, the forest was filled with magpies. Her parents lived quite nearby, as did her magpie siblings. Finding her among them would be impossible.
+
+Satisfied with her haul, she flew to a stream not far from her tree. The gem was in a dreadful state, utterly covered with dirt and mud, and some sort of sludge.
+
+Wait… is that the thing that was oozing from that boar?
+
+The thought sent a shiver through her feathers, and she hurriedly dipped the gem along with her talons into the clean, shallow water. The muck was stuck to it rather firmly, so she had to roll it around a little bit to get it off. But once she did, her heart began to beat with excitement.
+
+Oh, look at this beauty! I can see why they wanted to get it so badly.
+
+The gem was shining with beautiful amber light, with brighter specks shimmering within it. She had never seen anything so beautiful in her life.
+
+She let out a delighted Chak-chak-chak. This would be her greatest treasure.
+
+"Hey, where am I?!"
+
+She squawked and dropped the gem into the grass, fluttering wings in shock.
+
+Did it just talk?
+
+She approached the gem cautiously, inspecting it from all sides.
+
+"Wait… is that a magpie?" The voice sounded disappointed. "Just my luck! I was saved by a stupid bird!"
+
+Stupid?! I'll show you stupid.
+
+She mercilessly pecked the gem, sending it flying some distance away.
+
+"OW! What was that for?!"
+
+"Caw!" She called. "You called me stupid!"
+
+She puffed out her chest. She was the most intelligent creature in this entire forest.
+
+"Geez, I knew magpies were smart, but I didn't think they could actually understand human speech." There was a brief pause, and then the voice wailed in despair. "Either way, everything is over. I'll be forced to spend eternity trapped in this gem, never able to see my beautiful human self again."
+
+Wait, he's a human? How did a human get stuck in a gem?
+
+"Hu-Man?" She mimicked his voice, cocking her head.
+
+"Wait… You can talk?"
+
+"T-Talk!" She mimicked him again. Her vocal cords were beyond human speech. But mimicry? That she could do.
+
+"Ah, you're just mimicking me. What else could I expect from a bird?"
+
+Excuse me! I'm not the one stuck in a rock.
+
+She strutted and squawked. "You're. St-Stupid!"
+
+There was a moment of stunned silence.
+
+"Wait… Did you just combine those words yourself?"
+
+Suddenly, he brightened. "Can you bring me a stick? Any stick."
+
+She felt insulted that he thought that she could be commanded around. But if that's what it took for this idiot to understand her superiority, then so be it. She brought him a stick.
+
+"Now three leaves?"
+
+You still don't get it?
+
+She glared at him, but obeyed.
+
+"You can understand me! Oh my God, this might actually work," the voice muttered excitedly.
+
+"Chak-chak-chak," she cried. "What are you even talking about?"
+
+"Quickly! Pick me up with your beak or talons! I'm going to apply the System to you."
+
+The what?

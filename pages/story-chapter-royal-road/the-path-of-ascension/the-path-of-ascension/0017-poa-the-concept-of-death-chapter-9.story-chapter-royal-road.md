@@ -1,0 +1,379 @@
+---
+id: 91fdd9e4-ccfc-5159-a8ba-3d21aabc9f70
+page-type-slug: story-chapter-royal-road
+title: "PoA The Concept of Death Chapter 9"
+slug: 0017-poa-the-concept-of-death-chapter-9
+partOf: the-path-of-ascension
+position: 17
+ownLength: 6029
+unit: words
+ownProgress: 6029
+publishedAt: 2022-02-09
+link: "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/842215/poa-the-concept-of-death-chapter-9"
+royalRoadId: "842215"
+markedReadAt: "2026-06-29T19:18:00.677Z"
+---
+
+PoA The Concept of Death 9
+
+Melinda found this siege far worse than the first one she had been a part of. The Queendom was in a rush, made apparent by their willingness to just throw bodies at the city walls in an effort to take them down.
+
+To make matters worse, they were laying siege to the city that Matt had chosen to harass. His ceaseless attacks were a constant worry to her team. They were on opposite sides, but no one wanted to kill or be killed by their friends.
+
+That would make things too awkward. She tried sending him a message, but it was blocked by army AI. Apparently, it wouldn't route messages to someone actively opposing her unit. An interesting tidbit to learn. That revelation caused her to wonder how spies did their work mid-conflict. However, she had little time to ponder the oddity, as she was already overwhelmed in her familiar role as a dedicated healer.
+
+Vinnie and Tara had been pulled out of their team to assist the larger army. Knowing that they were beyond her reach to heal didn’t help her worry any less. The Queendom couldn’t forcefully break up teams, but they had dangled enough compensation in front of the pair to convince them to willingly join other units.
+
+Vinnie endlessly complained about digging trenches up to the walls, or creating reinforced paths to allow the siege towers to approach the city walls. He was constantly under fire, and the work was harder on him than the other earth mages. Whereas the rest of his combat engineering unit used skills like [Reinforce Earth] and [Walkway], her teammate relied solely on his innate [Earth Manipulation].
+
+The stubborn idiot refused to buy the other skills, as he claimed that the manual work was helping his innate skill grow faster, especially with the Queendom supplying him with endless mana to continuously use it. Keeping up with the other mages cost him more effort, but his manipulation abilities were getting better, faster.
+
+Meanwhile, Tara was pulled to help man the siege equipment. Her Talent let her land shots with scary precision. Even more notably, her Tier 3 piercing Talent affected the city walls so well, it almost felt wrong. Her shots always seemed to bring down much more of the wall than anyone else’s. The success garnered her friend a great deal of notoriety.
+
+Melinda was less than pleased about that.
+
+Assassination attempt after assassination attempt were thrown at her teammate. She had silently cursed Matt for that, because the army was keeping hush about Tara’s identity and her contributions. His team were the only Kingdom people who would know to link her to the wall’s destruction, and specifically target her. It cut deep for him to use that information against them.
+
+Or so she thought. When they finally captured an assassin alive and interrogated her, they learned that one of the Pather teams to flip sides had been a plant by the Kingdom. A Pather spy in Tara’s own siege engine unit had marked her for the assassination. That, in turn, made Melinda feel even worse for doubting Matt.
+
+Thankfully, she had no time for pity parties. Being a dedicated healer kept her incredibly busy.
+
+As usual, Baxter was hovering over her shoulder the entire time, but he only observed and talked her through a few tough patients. Instead of relying on her Talent, she acted as a normal healer would. She was much more proud of the patients she saved without it, even if her success rate suffered for it. Not that it prevented her from gaining some notoriety of her own. The other healers were, in her opinion, utter garbage.
+
+Even that was being too nice.
+
+The Queendom healers weren’t real healers at all. Their knowledge and understanding paled in comparison to hers.
+
+According to what she’d learned, a healer was a professional who could use [Directed Heal] on any injury covered by their knowledge of the human body. In the Empire proper, these Tier 6’s would be classified as nurses at best.
+
+They had simple, undirected healing skills like [Ranged Heal] and [Healing Touch]. Neither of the skills were bad, but their applications were limited. More than one soldier had to be sent off to the army’s real healers for missing limbs.
+
+The hardest cases fell to Melinda, and they left her swamped.
+
+But that wasn't the others’ fault.
+
+She had asked around about their situation. In the Queendom, young, aspiring healers were given the basic healing spells as a first stepping stone.
+
+More than a few team healers started that way, and most nurses did as well. Melinda had too, before her Talent allowed her to skip steps. The education that was supposed to come afterwards was simply absent in the Queendom.
+
+It hurt her to see them so clueless about the intricacies of healing.
+
+Even with undirected healing spells, knowledge of basic human anatomy could be applied to slightly concentrate the scope of healing spells, and thus boost the spell’s effectiveness where it was actually needed. Basic knowledge would help them heal a broken hand in a single cast, instead of needing two. The second casting also put a greater burden on the patient's body, and sped up the rate at which they accumulated healing resistance.
+
+To offset this, she prodded Baxter to give a lesson or something.
+
+He just laughed. “Such a lazy girl! If you want to help them, do it yourself. Even you have the requisite knowledge to teach them this much.”
+
+Doubtful, Melinda had protested. “I don't have that kind of skill. If I teach them wrong, I can set them back years. I'm safe because my Talent covers my ass if I make a mistake.” She shook her head. “They don't have that, which makes it irresponsible to teach them with my half-assed information.”
+
+The irritating man just ruffled her hair. “Ahh, look at little Mellie being all humble. It's good you think that way. But I’m definitely making you do it now. Just keep it simple, and point them in the right direction. Not even these children can mess up limiting the scope of their healing spells. At least, not directed ones.”
+
+Melinda opened her mouth to protest more, and he raised a hand. “If they really fuck it up somehow, I’ll step in.”
+
+With that assurance, she began offering lectures during their recharge times.
+
+To their credit, they were quick and eager learners. Lack of available information held them back, not drive.
+
+When she’d asked why they simply hadn't looked up the relevant information up on the EmpireNet, she had been met with blank looks.
+
+The Queendom troops didn’t have free access to the greater network. They had to pay fees that Melinda considered absurd. Meanwhile, the Queendom’s LocalNet had nothing about the basic subjects she was lecturing on.
+
+That bothered her. Eventually, she asked Baxter about it when she had a free minute. His answer logically made sense, but she still didn't like it.
+
+“The EmpireNet isn't cheap to run, and people had to find, verify, and then upload all the information it holds. The page owners take home most of the money that normal people pay.”
+
+“That doesn't seem fair. I have free access to all of that stuff.”
+
+Baxter actually looked confused. “No, you don't. You have access because the Empire covers the cost while you’re on the Path. But you’re still being charged. Mooching the cost off the Empire doesn’t change that. The guilds and conglomerates who curate the lower EmpireNet permission levels spend and earn quite a lot of money on the system.” He paused. “Not exactly passive income, but low effort income.”
+
+She thought that was incredibly stupid. People should just copy the information and make it free. Or only charge people enough to cover the cost of accessing the information. These bloated fees for basic information seemed so unfair.
+
+Her pondering only lasted until another wave of wounded flooded into the tent. She needed to focus on healing now.
+
+As the only person with a directed healing spell, reattaching limbs and such always fell to her. It was seemingly never-ending work, as the troops were called up in waves to try and take the walls.
+
+Eventually, Team Unbroken went on standby, and they were collectively sent to rest up before they joined a wave.
+
+Melinda suspected Baxter of pulling a few strings, or five hundred, but she didn't mention it. She wanted to help, but half of her team was still waiting for a decent chance to earn more points.
+
+While she, Tara, and Vinnie had been assigned elsewhere, Mathew, Sam, and Kyle had been pushed into spending their downtime performing ‘general labor’. That translated into backbreaking menial jobs like hauling supplies, assisting to clear nearby forests, and prepping the trees for refinement.
+
+Mathew was ecstatic to see her for more than ten minutes, and likewise for her. But they were both so tired, they fell asleep in their full armor. She had an imprint of his shoulder pauldron on her face, but being near him was enough to recharge her mental batteries.
+
+Their team was attacking at sunset, when the defenders would have the sun in their eyes on this side of the wall. In theory, it was a good idea. But she didn't miss the two burned-out husks of siege towers approaching the walls.
+
+Unlike the last time, the Queendom army seemed more prepared to work with Pathers. Large shields were handed out and collectively held up to protect them from the incoming fire, which was an improvement from last time, when they were left to their own devices.
+
+Remembering the man with a whip, she winced.
+
+They advanced in darkness, with the raised shields blocking everything. However, the sound of their steps was soon matched by the patter of arrows striking shields.
+
+Melinda kept an eye out for any wounded, and quickly healed the few injuries she found. Their forces remained mostly unharmed, until a ballista bolt ripped through a column of their ranks.
+
+Then, the screaming started.
+
+A man missing most of his chest quickly vanished, courtesy of the ever-watchful army personnel. He was arguably one of the lucky ones.
+
+A young man clutched the stump of his lower leg while blood hosed out of it, driven by the frantic beating of his heart. Melinda’s AI noticed where the leg was. The severed limb was mostly intact, so she grabbed it, almost stumbling as some of the armor fell away. As she made her way, she saw the remains of pink flannel pajamas underneath. There were even pictures of adorable snoozing kittens on it. After quickly shaking off the sense of incongruity with the scene around her, she pried the kid's hands away from the wound and casted [Directed Heal]. She didn't have long,as  the formationation was relentlessly marching on around her. Yet with the assistance of her Talent, the man was back on his feet in seconds, ready to push forward again.
+
+One poor woman sat impaled through the hip and anchored in place by the bolt. Melinda tried to help her, but the formation moved past too quickly. Thankfully, she was pulled out quickly, but Melinda still saw the woman’s pleading gaze.
+
+An unfamiliar earth skill rose from another part of the formation to meet the next ballista bolt. A foot-wide pillar of stone shot out and intercepted the bolt with a head-on collision, resulting in an explosion of stone fragments. But the projectile’s energy was spent, and they were safe. For that brief moment.
+
+A mana cannon’s blast proved more difficult to block. More of them disappeared in flashes of blue-white.Then, seemingly without warning, they found themselves at the breach in the wall and climbing the stairs, hobbled together while climbing out of the rubble.
+
+They quickly rushed through the incoming fire raining down on them from above and in front, but the blasts petered out as they arrived within melee range of a makeshift barrier in the middle of the breach.
+
+She called out through their team channel, “Vinnie, open us a hole in the berm. Tara, take out any mages you see. If not, pick off the defenders on the wall. Sam, hit them with something to clear the wall.”
+
+Kyle and Mathew moved up through the little clearing that Vinnie made, drawing attention to themselves. But between the two frontliners, her team's position was secure, at least for the moment.
+
+A woman sped unnaturally fast towards them with a purely electric wreath atop her head and lightning glowing around their arms. She suddenly slid into the ground as Vinne pulled her down before she could touch Mathew or Kyle. Mathew used his personal shield to keep the small berm controlled as he took measured steps forward, using his bulk and heavy armor to prevent anyone from moving past him.
+
+Kyle’s massive swinging sword dissuaded anyone from even attempting to approach him. Instead, archers and mages began peppering him from a distance.
+
+Seeing the issue develop, Melinda called for Sam. “I need something to clear out the second berm's ranged attackers.”
+
+Sam pulled out a large bottomed vial and threw it high.
+
+Tara pivoted and shot the vial mid-air, without breaking her stride. The orange liquid quickly dissipated as a vapor, melting everything it touched. Skin and metal bubbled in a sickening display before the entire swath of people vanished.
+
+The next defensive berm’s occupants stayed far away from the cloud of gas as it settled on the stone, after one person lost a foot to the remnants.
+
+That was not a potion that Melinda knew of in Sam's arsenal. Nor was she fond of seeing it in action. She made a note to get an explanation from her later, but she suspected a certain double princess’ involvement.
+
+Despite the grotesque way of killing people, the tactic had worked. Their team single-handedly captured a portion of the berm, and Queendom troops rushed in from behind them to try and secure the gap.
+
+The Kingdom troops didn’t idle either, and reinforcements stormed in from deeper in the city.
+
+Kyle and Mathew fought a pair of Tier 7’s to a standstill, and to her pride, were now gaining ground. It would take them a bit of time, but they each were holding their own, and even pushing the Kingdom reinforcements back. Until a full group of Tier 7’s arrived, and shifted the odds heavily against them.
+
+Outnumbered, their team started falling back.
+
+The situation deteriorated further when an arrow sprouted from Sam’s chest.
+
+Her teammate crumpled like a puppet with its strings cut, and Melinda called out for cover.
+
+Discovering the issue only took a moment; the arrow had nicked her friend’s spinal cord. Sam didn’t even say a word, simply trusting Melinda to make her whole again.
+
+She called out, “Hold for me! I got her.”
+
+Healing something like this was a delicate job. Were it not for her Talent, Melinda would have needed to go back and perfect the area later. But she extracted the arrow enough to free the spine, and delicately stitched the broken nerves back together, with her overhealth guaranteeing perfection.
+
+Sam gasped for breath as function returned to her body. Melinda left the rest of the arrow in her after breaking off the fletching. It had missed everything else vital, and she didn't have the time with their retreat.
+
+Standing together, Sam tossed a potion at their feet which produced a dense, grey haze.  With the woman's Talent, the gas completely avoided her side, and created a deadly zone for the counterattacking Kingdom troops.
+
+Melinda dodged out of instinct as a Kingdom man attacked her after taking out part of the team next to them. He seemed unconcerned with the poisonous fumes around them.
+
+She took the first strike on her armor, but her AI registered that the blade had pierced through and bit into her flesh. She struck out with her mace, forcing the man to step back. He tried to lunge forward, but she used a backswing to strike his arm, which broke under the weight of her weapon.
+
+Using her shield, she blocked the next two attacks, feeling them get stronger each time. In between each strike, she realized that he was holding his breath to avoid inhaling the poison, yet he didn’t seem to be slowing down with lack of oxygen. Luckily, heavy wounds taken from the last team were wearing on him, or else she’d have been gone by now.
+
+Reeling backwards to desperately create distance, she saw Vinnie ping her AI, “Grabbing him.”
+
+When the man moved to close in on her, only to sink into the stone down to his knees, she was prepared. Her blow that the man clearly intended to take on his shield landed directly on his armored head instead. He was gone before she could identify how bad the damage truly was, but she knew that it had to have been a fatal blow.
+
+With the team next to them fallen, Melinda checked her mana, and found that she had half a pool. She decided to use [Jolt] to help clear out a portion of the enemies who were rushing to attack their flank.
+
+Baxter had repeatedly recommended that she never exhaust her mana pool below the cost of an emergency offensive skill. Those words proved their worth, as her rarely used attack extended from her. The energy ripped through three people before fizzling out. It bought them enough time to disengage.
+
+Or at least, for most of them to disengage. Tara was locked up, trading shots with another archer.
+
+Melinda wasn't sure if she was showing off, or having trouble taking the other archer out, as they were shooting each other's arrows out of the air.
+
+Finally, Tara lost her patience, and her next shot split into five copies before the other archer could shoot it, and several copies made it through. Mathew was there to block the final return arrow, but the explosions of fire in the distance told Melinda that Tara had used the skill on one of the elemental arrows.
+
+Exposing one of their trump cards was an unfortunate outcome, but she agreed with Tara’s usage of the skill.
+
+Most human enchanted arrows couldn't be easily duplicated with skills. They either didn't work, or lost most of their power. With each copied arrow’s explosion being the same size, anyone who noticed could deduce that their team had either a supply of rift enchanted arrows, or a rift item that made them.
+
+She hoped that everyone would assume the former, if only because they’d all try to steal Tara’s quiver if they knew it was the latter.
+
+With half the secret out of the bag, Melinda gave Tara leave to use three more arrows. That should be just enough to imply that they had a supply, but were using them very sparingly, as if they were few in number. Hopefully, they could get ahead of the information with some incessant complaining about the loss of irreplaceable arrows.
+
+Two more fire arrows were launched to cover their retreat as they raced away with the rest of the survivors of their unit. There was no order, and the surviving formations ran together while trying to dodge the incoming fire.
+
+As they neared Tara’s maximum range, a lightning arrow crackled out from her bow and created an instant of daylight in the pitch black of night.
+
+The flash ruined their visibility, but that same lack hampered the Kingdom defenders on the walls, as most of their ranged attacks went far off target.
+
+When the team were back in the Queendoms encampment, Melinda pulled Sam to the healer's tent and extracted the arrow that was still inside of her.
+
+Baxter had to volunteer information on how to extract the arrow from the sealed wound without doing excessive damage. Her Talent had healed the wound around the remnant of the arrow perfectly, locking it into place. That was great on a battlefield or in a situation where her Talent was counted, but she could send Sam into a long healing cooldown if she did too much damage while removing the projectile.
+
+Or a simulated healing cooldown.
+
+They were pretending that her Talent didn't exist, which felt unfair in this case, when she was dealing with it doing its job too well.
+
+Even still, after she gave Sam a pain killer, she managed to gently cut the arrow free and reheal her friend. All without sending her over the threshold for a mandatory healing cooldown. It was close though. Close enough that if Sam stubbed her toe too hard, she might end up teleported out.
+
+Begging off pleas for a shift at the healing tent, Melinda crashed with her team.
+
+Their fight only lasted an hour, but they were all drained of mana and exhausted.
+
+The siege continued on, following a similar routine for the next four days, until they heard news of the other besieging army finally taking their city. Even with their own lack of progress, the encampment celebrated the victory and its implied hope that Amber, with her infamous new spell, would come to assist them in battering down the Kingdom troops still holed up in this city.
+
+Then the news came down that Amber had been killed in an ambush by Matt’s remaining troops. The cheery atmosphere faded away in a blink. As the surviving troops escorting their fallen hero arrived, things in the encampment turned even grimmer.
+
+More than one squad ended up in a brawl, as frustrated fighters mocked and threw insults at the portion of men who failed to protect Amber. With both Sara and Amber dead, internal strife began to spread. Melinda felt that this was an ironic turn of events, as she remembered how this very army had celebrated the death of Prince Albert and Juni, which led to a similar situation.
+
+Orders came down demanding that they take the city in the next two days, casualties be damned.
+
+That soured the mood, but everyone prepared to comply nonetheless, and readied themselves to take the city.
+
+Melinda's team was in the third wave and watching from afar, when there was a blaring alarm override in her AI.
+
+“Halt all fighting and prepare for emergency transit.”
+
+The message repeated three times, then Melinda and her team saw the world around them change.
+
+Baxter stood with them in the all too bright sun around the neutral city, staring up into the sky.
+
+A death notification shocked Melinda as much as the rapidly teleported people.
+
+“What the fuck was that!?”
+
+Baxter pulled his gaze down at her and smiled. “Want to watch the show?”
+
+Melinda had no idea what he was talking about, but nodded.
+
+A second later, her team hovered over the rapidly emptying city.
+
+Then, in a flash of purple haze, everyone remaining vanished.
+
+Melinda opened her mouth to ask what was going on, when the world turned white.
+
+She worried about going blind when the air in front of her team went dark.
+
+Melinda grabbed the nearest hands she could as an enormous fireball engulfed the city and turned into a mushroom cloud. But they were perfectly fine as the blast of compressed air smashed the nearby forest, and stripped the top layer of a nearby mountain off.
+
+Then, everything seemed to reverse as the air rushed inward to the epicenter, dragging the debris inward to cause more destruction.
+
+When she thought things were over, Melinda watched as a smaller, secondary explosion fired something into the air through the dust plume.
+
+The city which had resisted their attacks for the last week was just gone. The encampment where they had stayed was similarly destroyed, but there were more remnants of it tangled in the mess of trees and stones.
+
+Melinda turned to Baxter. “What was that!?”
+
+He laughed as he pointed off into the distance, where she could see another plume of dust rising. “That, sweet child, is the end of a war.”
+
+At his words, a message greeted her.
+
+‘Kingdom Victory by surrender of Queen Diana; weep as your side has lost.’
+
+That made even less sense.
+
+Tara pipped in, “Yeah. I don't get what happened.”
+
+With a flash, they were in the neutral city’s shadow again, as Baxter explained, “If the light show didn’t make it obvious enough, the Kingdom planted bombs in all their cities from the beginning. Traps. It was the main part of the King's overall plan.”
+
+Mathew huffed, “That hardly seems in the spirit of a training war.”
+
+The rest of her team chimed in while Baxter shrugged. “The Queendom could have and should have noticed them. But they were disgracefully sloppy. The bombs were hidden under the teleportation pads, but you never settle yourself in former enemy territory without a thorough search first. This was an ameture strategy working against an even more amateurish opponent.”
+
+He pointed up. “Besides, the Queendom had their own little ploy to end the war. It even worked for the real war, just not here.”
+
+The drama playing out in the air above them was broadcast to everyone present. Together, they watched the King and Queen face off. Melinda disengaged from Sam and Vinnie to hug Mathew.
+
+Seeing Albert publicly degraded caused Melinda’s fist to clench, until she felt her own knuckles pop around Mathew's stronger hand. That was a humiliation no one should suffer, and it was being broadcast to everyone. Normally, she disdained anyone that didn’t appreciate still having their parents around. But watching Albert’s father, she couldn’t help but feel that his son would be happier as an orphan.
+
+Baxter maintained a carefully neutral face throughout, which Melinda found unacceptable. “Why don't you stop him? He's hitting someone so much weaker than himself.”
+
+Her mentor let out a sigh that felt tired, even to her. “I wish I could. I do, but familial discipline is an exception to the Tier laws. If he killed the boy, I’d have cause to act. But he's careful, and didn't even break anything.”
+
+Melinda’s teeth clicked as she held back a retort. Baxter didn't like it either, and if he refused to act, there was nothing she could say to move him. And he clearly wasn't happy about it either.
+
+As Sam cursed under her breath with something Melinda didn't quite hear, earning a laugh from Baxter. “Why yes, that jackass will get his comeuppance. If you remember Liz’s mother, you even know who will probably do it.”
+
+Kyle asked the question they were all thinking first. “Um. I don't get it. I know who you’re talking about, but I don't see the relationship.”
+
+Baxter sent a group voice message in reply. “Mara and Leon are well-known oddballs. She likes to collect planets where important events of her children happened. Liz made a lot of friends and grew a lot here, with both the golem incident and Pather war. I’d bet everything I own that she's coming to collect this place as we speak.” He looked at them, “Which means that we want to be out of here sooner rather than later.”
+
+Tara leaned forward to peer around Vinnie. “But still, how does that equal anything?”
+
+Baxter smirked. “Those bombs were packed full of depleted copper. The planet is going to need years of work to be made clean again. And how can a collector have a dirty prize? She's gonna be royally pissed, and I’d bet she’ll take it out on him.”
+
+Melinda scanned her team to confirm that they didn't have any depleted copper in them, and concluded that Baxter must have shielded them.
+
+She guessed it made sense for Mara to be mad, but the resolution still felt empty overall. The end of the war was so unsatisfying. They had fought so hard to secure a win, while bleeding and sacrificing everything they had. All for it all to suddenly vanish through the machinations of two Tier 35’s and a sudden surrender.
+
+She couldn’t say if she would do anything different. With most of the Queendom forces dead for two weeks, and a good portion of the planet now poisoned, the war was as good as over.
+
+Dropping her mace, Melinda asked, “So what now?”
+
+Baxter stretched. “Whatever the hell you want. Personally, I’d suggest you kiddos tag along with Matty and Beth-Beth out to a more remote location of the Empire. There’s someone out there I think you would do well to meet, Melinda. Plus, you can have a nice relaxing break after working so hard during the past few months.”
+
+He started walking into the city while her team scrambled to keep up. A break sounded good. Spending it hanging out with Matt, Liz, and Aster sounded amazing too.
+
+Baxter said over their still open channel, “Besides, you can take advantage of Matt’s abilities when we get out there.”
+
+Melinda’s hackles rose. She and her team had already talked about that, and decided not to take anything else from Matt.
+
+“No. I'd rather go our separate ways if that's the plan. We need to stand on our own.”
+
+Her team backed her up in a chorus of agreements, but Baxter just turned and walked backwards to face them. “I don't mean you’ll be mooching free shit off him. I mean that you’ll delve the rifts he can power. It will do you guys good to delve blindly and often. With him there, you can all stay full of mana too. You can condense years of training into months. If you really feel that bad, just don't absorb the essence and give the rewards to him. But your little team needs the practice. Fighting people is great training, don't get me wrong. But delving blind is its own type of equally good practice.”
+
+Melinda hated to admit it, but she agreed with his reasoning. She wanted to say Matt couldn't afford it, but the man was a literal mana fountain. He wouldn't miss the mana it took to keep them topped off and delving often.
+
+She even agreed that it would be good training.
+
+As her team followed Baxter into the city, they had a rapid conversation through their AIs.
+
+Sam was all for it. “This is perfect. Liz told me how she got the ingredients for the mana concentration potions. If we can make one for general herbs, I can advance my craft a ton. And I know she'd be all for it.”
+
+Tara poked her as she rebutted. “We already took a ton from him. It's not fair to use Matt for items. If we do this, we need to be independent.”
+
+Kyle scoffed, “Yeah, maybe you and Vinnie took a ton, but the rest of us didn't get growth items.” He held up his hands. “Not that I think we’re owed growth items or anything, but even with the skills, we got a lot less than you two.”
+
+Mathew interjected, “Speaking of skills, the war is over, so even though we died, we can cash out and not take a loss. Better to buy skills and items now, before everyone else realizes that.”
+
+That distracted them as Melinda sighed. Of course, now that she finally had the half-million points needed to buy the upgrade orb, they were all long gone. Disappointed, she went with her backup plan and bought the Tier 20 directed healing skill, [Mend Flesh]. It was like [Directed Heal], but specialized in mending muscles and skin. The individual skills [Mend Muscle] and [Mend Skin] would be better, but they were even higher of a Tier. Still, this would let her cheaply stop bleeding in combat situations, while being useful for hospital work.
+
+The skill had an incredibly low mana cost, while being even more effective at its specific task than [Directed Heal], which could do anything. It also caused less healing cooldown than undirected healing spells.
+
+Normally, she would need to save over years of hospital work to afford it. But the rewards for the war were generous, and you needed to be a registered healer to buy directed healing skills from the store. Which meant that she was one of the few people on the planet who could and would purchase it. Unless the army healers didn't already have the skill, for some odd reason.
+
+With less than 100,000 points left over, Melinda sent them to the groupnso the others could use them to get what they needed.
+
+Kyle, in the end, needed the points the most, and bought a weapon charm growth item that increased the connected weapon's weight at the wielder's discretion. The only reason the charm hadn't been bought yet was that it only increased the weight of the item, and couldn’t lower it.
+
+For Kyle, who had more strength than he knew what to do with, it was nearly perfect. But even with the limitation, it was still pricey at 400,000 points.
+
+Mathew bought a new Tier 8 shield that he insisted he could handle, despite the spiritual strain, as long as he didn't use the embedded [Expand] skill.
+
+Eventually, they returned to the topic of going with Matt.
+
+Mathew shrugged. “I don’t think we should take anything from him either, but free unlimited rift access would be amazing for a little while.” Her husband promised, “We really do need the practice, but I don't think it should be forever.”
+
+He looked at Baxter. “I assume we wouldn't be allowed to use it forever, would we?”
+
+The older healer grinned and winked at Mathew. “Nope. Not a chance. But while you’re at Tier 6, if you stall there for a bit, I'm happy to let you do it for a year or two.”
+
+Melinda had to nod to herself. That made sense. They were nearly at the peak of Tier 6, and they could advance with little effort with normal delves. Their team was also well ahead of the curve, so their stalling would put more pressure on them when they did advance.
+
+They would have to balance practicing in unlimited rifts while at Tier 6, and learning while eating into their buffer.
+
+Vinnie asked, “Hey, I can’t help but notice you didn’t mention what Tier of rift we can delve.”
+
+Baxter laughed. “Color me surprised. I didn't think any of you would catch that immediately. Yes, if you want to delve up a Tier or two, then I'm all for it. If you can beat Tier 8 rifts at Tier 6 and farm a bunch of skills, I won't interfere at all. Fighting up is why we have The Path after all.” His grin became positively evil as he added, “If you really feel that motivated, I can even ask a dear old friend to give you some pointers. She just loves mentoring the younger generations, and I'm sure she’s been taking notes.”
+
+He refused to elaborate further, only chuckling to himself as they collected the few belongings they left in their room, then waited for Matt at the teleporter. Baxter said that they were going to arrive soon, and Melinda just wanted to get out of her armor and into something comfy.
+
+As she leaned on her husband and chatted with her family, she thought back to the past year's events. They had come a long way, getting out of the rut they had fallen into, and honing their combat skills in real danger. Their individual skills and teamwork had increased tremendously as a result.
+
+Melinda had even gotten over her phobia of using her Concept, even if she didn't like it.
+
+She had no idea who the person Baxter wanted them to meet was, but was confident that her family could handle it. And traveling with friends would make anything they encountered a challenge, instead of an impossible task.
+
+Seeing Matt and Liz holding hands as they walked in, with Aster prancing around their heels, she smiled.
+
+Things would be ok.
+
+She would make sure of it.
+
+Healing took on many shapes, and she would master them all.
+
+Eventually, she intended to even master death.
+
+Eventually.

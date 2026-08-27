@@ -1,0 +1,235 @@
+---
+id: 9261039d-ef4f-5121-9f52-8fd7c66cc033
+page-type-slug: story-chapter-royal-road
+title: "Chapter 137 – New Form, New Problems"
+slug: 0137-chapter-137-new-form-new-problems
+partOf: the-magpie-and-the-archmage-monster-evo-litrpg
+position: 137
+ownLength: 2191
+unit: words
+publishedAt: 2026-06-17
+link: "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3550685/chapter-137-new-form-new-problems"
+royalRoadId: "3550685"
+---
+
+Liora always found the evolution process odd. From the moment you settled down to evolve until the moment you woke up, it felt like no time had passed at all. It was like super deep sleep, where you completely lost any ability to tell time. Whether two minutes had passed or two days, Liora couldn't tell.
+
+The only difference was that when she woke up, her body felt a bit alien, and she was a little bit peckish. Like she was a little late for lunchtime. It was dark outside meaning that at least several hours had passed at the very least since she settled down. Likely much more than that.
+
+The first thing Liora noticed after lifting her head was that the hiding spot Cee had constructed for her felt much smaller. Before, she had to lower her head to fit in there. Now, even when not standing, she had to crouch her head.
+
+The second thing she noticed was something behind her. Her tail. It was strange. Birds, as such, didn't really have long tails. They had tail feathers that could be quite long. But they didn't feel like this. What Liora had now was definitely a tail accompanied by tail feathers.
+
+She looked at her tail. It was wrapped around her body much like a cat's would. Or perhaps, it was more precise to say—like a dragon's. Gently, she examined her tail with her beak, seeing that it was actually rather long. Then she tried to move it.
+
+It moved. Up and down, side to side, and any other direction she commanded. She could also open her tail feathers and control their direction just like she could before, albeit with the added length of the tail and its mobility, it was harder to precisely make the tail move exactly like she wanted to.
+
+"This will take some getting used to," Liora muttered, looking at the tail. She hoped that this unruly tail wouldn't make flying more difficult. After all, proper flight control required a good tail.
+
+Carefully, she got up to her feet and slowly waddled her way to the exit. It was so cramped in there that she considered just destroying the webs. But that would result in her feathers being covered in volcanic sand, so she persevered and crawled her way to the exit.
+
+Once she was finally out, Liora stretched out to her full height. That felt good! Stretching out her new wings felt amazing. They were really long, and Liora could feel the strength behind them. Although these new wings didn't feel the same as her old ones. It was hard to explain, but it felt like they were easier to move. They weren't as rigid.
+
+If she had to describe it, then it would feel like she had gained more freedom in her wing movements. Not as much as a human arm. She certainly couldn't just bend it backwards to scratch her back or anything ridiculous like that. But there was definitely more maneuverability.
+
+Experimentally, she flapped her wings in an attempt to lift herself. It felt more difficult to get up in the air; she needed to jump higher and flapped harder to get airborne. But her legs were much stronger, allowing her to jump much higher.
+
+While playing around with her new body, Liora forgot one important thing. Where was everybody? Looking around, she didn't see either Cee nor Renir.
+
+"Cee, Renir? I'm done evolving," she called.
+
+No answer. Liora felt a twinge of nervousness pass through her.
+
+"Renir?" She called again, but louder.
+
+"Liora? Liora! Please, please, come here! Hurry!" She could hear Renir's voice some distance away.
+
+Liora instantly went into high alert. Something must have happened. Renir should have remained close to her evolution spot together with Cee. Had somebody attacked them? Was Renir alright because he was a rock, and monsters didn't eat rocks?
+
+"Where are you?" Liora called, flying up to better see the nearby area.
+
+Then she saw it. Juvenile wyvern was looming over Cee, undoubtedly about to tear the poor spider to shreds. Liora let out a loud screech of a hawk and flew straight at the wyvern, ready to tear it apart with her new and improved talons. If her talons had been fearsome before, then now Liora did not doubt that she could cut steel with these things.
+
+"Wait, wait, no! Don't hurt him!" Cee, seeing Liora dive for the wyvern, jumped up to shield the thing.
+
+Liora stopped right in time not to tear her friend to shreds.
+
+"What are you doing?! What's going on? Why are you protecting… a wyvern?" Liora asked, although seeing the juvenile cower beneath Cee, trembling with fear, gave Liora pause.
+
+"Liora! My dearest, most beautiful magpie, you're finally here! Please talk some sense into this mad spider," Renir whined, then added after a moment. "And by everything magical, you look amazing!"
+
+"I know, right! Look, I have a super long tail that I can control," Liora said, landing on the ground near Renir and moving her tail left and right to demonstrate.
+
+"You are huge!" Cee chimed in. "It was like watching a black phoenix descend on me to take me to the afterlife. Terrifying!"
+
+"That's an apt comparison, albeit phoenixes are a bit larger. But yes, build-wise, you're much closer to a phoenix now than any other bird," Renir confirmed.
+
+"Okay, as much as I love you all praising my appearance and I will want more of it later, what the hell is up with that wyvern?" Liora said, glaring at the wyvern who was tentatively sniffing the air near her. It flinched back the moment their eyes locked.
+
+"Cee has gone insane. She decided to keep this juvenile wyvern as a pet!" Renir said in outrage.
+
+"What?!" Liora stared at Cee in disbelief.
+
+The spider lifted the front legs defensively. "Hear me out. This little guy was likely rejected by his wyvern mother and was wandering near these rocky cliffs, hungry and injured…"
+
+"Meaning, it was likely searching for an easy meal. Like me!" Liora growled.
+
+"It's okay! I fed him crab meat, and he was quite happy with it. The point is that I believe I reached an understanding with this wyvern," Cee said.
+
+Liora blinked in disbelief. "Understanding… with a wyvern? Did you suddenly learn how to speak wyvernian or something? It's a monster!"
+
+"So are we!"
+
+"We are reborn humans! Also, I was born a magpie, which are not at all murderous by their nature. And you were… well, I suppose I can't say the same about spiders… But my point stands. We can't exactly be compared to any old monster around these parts," Liora argued.
+
+"Fine, that was a bad example. However, this world does have beastkin, which are essentially intelligent evolved monsters. Right, Renir?"
+
+"I suppose," Renir hesitated. "But not all beastkin are evolved monsters. If a beastkin gives birth, then the child will be the same race as them. Thus, there are two kinds of beastkin: evolved beastkin and naturally born beastkin."
+
+"Okay, fine. But the point is that we can't exactly treat every monster as a monster. There are more intelligent creatures, so we shouldn't just blindly reject and kill them all," Cee said while fervently wiggling her front legs. The wyvern juvenile was observing her movements, and Liora wondered whether the little monster was tempted to bite and eat her legs.
+
+"Oh, yes, more intelligent… Like that cyclops. He was a really friendly guy. Or how about those mermaids? Certainly, the pinnacles of friendship," Liora shot back. "Besides, this thing isn't even intelligent. It's a wyvern baby!"
+
+"Exactly! Imagine how useful it'll be once it is grown. A real powerhouse!"
+
+"You want to keep it?!" Liora screeched in shock. "Caw, caw, caw! You're crazy."
+
+"She's got the pet skill for it…" Renir muttered, sounding resigned.
+
+"What? What the hell does that do?" Liora asked.
+
+"It's actually quite amazing. The pet skill lets me convey my thoughts and feelings to the creature I have chosen as my pet as well as influence its behaviour with commands," Cee announced proudly.
+
+"That skill hardly does anything at lower levels! Especially against something as highly evolved as a wyvern. Beast masters always start with small and easy-to-control creatures, like toads, small birds, or bugs. They build up the pet skill to a higher level, often ranking it up before taming the actually powerful beasts under their command," Renir explained. "This wyvern is currently under no real control, and should it grow hungry, I have no doubt that it would take a nibble out of you."
+
+"No, he wouldn't! Smokey is a good wyvern," Cee protested, wiggling her front legs defensively.
+
+Smokey, the wyvern, reached to grab at one of Cee's legs. Liora reacted instantly, a bit surprised by her own reflexes. She jumped forward and grabbed the wyvern's neck in between her talons.
+
+"Don't you even think about taking a bite!" Liora warned, watching the wyvern whimper beneath her talons.
+
+"Liora, no! It was just playing!" Cee protested.
+
+"That didn't look like playing to me," Renir objected.
+
+"It was! I swear. Smokey will be good. I'm going to train him well. Just please don't kill him… He looked so lonely. He couldn't hunt for himself. Abandoned by his mother and with no real way to survive. It's just so unfair," Cee said.
+
+Liora looked down at the little wyvern. It was true that it looked rather miserable. It was covered in scratches and bruises, the wing membrane torn in places. She doubted it could even fly. This little thing certainly posed no threat to Liora.
+
+In fact, it was whimpering miserably, looking up at Liora with sad green eyes. Like a puppy. This little thing was a good emotional manipulator.
+
+"Fine!" Liora released the wyvern, who hurriedly scampered to hide behind the smaller spider. "But if it shows even the tiniest inkling of trying to eat or hurt us in any way, I'm tearing his wings off."
+
+"Thank you, Liora! I'm sure you won't regret this," Cee wiggled her front legs in delight.
+
+"I'm sure that I will…" Liora sighed heavily and walked up to Renir, who was placed on a rocky outcropping. Looking at his beautiful shininess calmed her down a little.
+
+"I'm sure you will, too. You can't turn into a magpie while this thing is around. I'm sure he'll try to eat you," Renir pointed out.
+
+Liora glared at Cee.
+
+"Well… umm… Better show us the results of your evolution! Did you get a new trait or skill?" Cee tried to change the topic.
+
+Liora didn't feel like arguing anymore. Maybe she could throw the wyvernling at his mother later as a distraction or something. Tell her to watch her children properly. Lazy wyvern! Why should they babysit her children? They weren't an orphanage for abandoned monsters.
+
+"Okay, okay. Let's look at my profile. I haven't seen it either," Liora said and gingerly picked up Renir in her beak.
+
+"Careful! Don't swallow me!" Renir complained.
+
+He felt very small when compared to her now, so Liora withdrew him into her Inventory.
+
+Better?
+
+Much better! I think your vision has gotten even better. Show me that beautiful profile of yours. I bet it is glorious!
+
+[Profile]
+
+Name: Liora
+
+Species: Prismfeather Dracoryx
+
+Level: 1
+
+Health: Great
+
+Mana: Abundant
+
+Glimmerstones: 1125
+
+Skills (12/14):
+
+Resonance Mimicry [Novice]
+
+Lunge [Legend]
+
+Skypierce [Expert]
+
+Air Slash [Expert]
+
+Fade [Legend]
+
+Mana Conversion [Expert]
+
+Poison Shot [Expert]
+
+Holy Light [Expert]
+
+Wind Blast [Adept]
+
+Purify [Expert]
+
+Rend [Expert]
+
+Featherflash [Adept]
+
+Aegis Cyclone [Novice]
+
+Traits (13/14):
+
+Twilight Vision [Legend]
+
+Treasure Sense [Adept]
+
+Aerial Agility [Legend]
+
+Glimmerlust [Expert]
+
+Shadow Glide [Expert]
+
+Inventory [Novice]
+
+Magpie Disguise [Expert]
+
+Poison Resistance [Expert]
+
+Fluid Flight [Adept]
+
+Paralysis Resistance [Adept]
+
+Frost Resistance [Adept]
+
+Predator of the Deep [Novice]
+
+Prismfeather Mantle [Basic]
+
+Next Evolution: Requires Level 50 and ??? Glimmerstones to unlock
+
+Wow, both my mana and health have shot up a level. Great and Abundant, respectively.
+
+Must be because you're a higher-tier creature now. And a rare evolution, I suspect, which makes you closer to a mythical monster. But I'm more interested in that new trait of yours. Bring up the description for it.
+
+[Prismfeather Mantle – Your feathers act as conduits for ambient mana, refracting and redistributing it across the body. Hostile mana constructs lose cohesion on contact, while the user gains minor mana recovery during sustained flight.]
+
+That sounds powerful! Aren't you glad I got here instead of picking your magical evolutions? This sounds even more magical.
+
+Renir didn't reply. It was like the man had frozen completely with his whole being.
+
+Renir?
+
+Shh… Let me enjoy this beautiful moment. My baby girl has grown into a beautiful, magical creature. I'm so happy that I'm crying…
+
+Baby girl? I swear you completely lose your mind whenever anything with magic is involved…
+
+Liora sighed. But on the positive note, this new ability would certainly give her the edge she needed, not just to protect herself from magic but to use it more often and more effectively.
+
+The mama wyvern didn't feel so scary anymore. It was time to charge that Resonance Crystal.

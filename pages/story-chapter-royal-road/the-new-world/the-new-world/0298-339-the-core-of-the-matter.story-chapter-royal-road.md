@@ -1,0 +1,161 @@
+---
+id: 9f75a9ea-5382-5c98-baa2-1aa5e320e049
+page-type-slug: story-chapter-royal-road
+title: "339 The Core of the Matter"
+slug: 0298-339-the-core-of-the-matter
+partOf: the-new-world
+position: 298
+ownLength: 3326
+unit: words
+ownProgress: 3326
+publishedAt: 2022-04-16
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/887525/339-the-core-of-the-matter"
+royalRoadId: "887525"
+markedReadAt: "2026-06-29T21:31:25.763Z"
+---
+
+Either way, it was time to move on from the exercise. I decompressed my wake before turning towards a pile of blue cores remaining from the city's construction. I had to mimic the pillar's advancement but to my golems instead. Pulling up a thrumming dungeon heart, I stared at its spiraling depths. It evolved my monoliths into unbreakable, majestic beacons on this dark world.
+
+And I hoped it would do the same for my golems.
+
+Chapter Begin
+
+I tossed the dungeon heart into the distance before reaching an arm out. With a gravity well pulling on it, the blue sphere fell onto my palm, and it crackled on contact, sparks flaring out before I crushed it in my palm. Well, I tried too. For a ball of enigmatic mana, the structure held up against a solid squeeze without budging. It would hold up to damage from enemies.
+
+Listening to it, my ears hummed from its constant shifting. I experimented with the surface, attempting to scratch it. The core shifted between my fingers, an ever-changing ball of chaos and serenity in my palm. It seemed to handle piercing and crushing forces differently, giving it odd properties, but I didn't mind it. It presented an interesting point to investigate.
+
+Scratching it again, no marks lingered on the tiny ball of perpetual storms. Any runes I carved dissolved, so several minds of mine debated until we came up with the solution. Like pizza dough, we took a bit of dimensional fabric and flattened out a layer of it. I'd put this over the dungeon heart, and it would embed runes onto the core's surface.
+
+After getting the slab ready, I wrapped and unwrapped the core, testing the dimensions of my covering. After getting the proportions right, I generated several copies of the slabs for the future. After that, I engraved runes onto the core wrappers. It was like putting ancient sigils on the inside of a candy wrapper.
+
+Taking the crackling candy, I encapsulated the core and charged it with mana. I also tossed one in my mouth to see if it actually felt like candy. The idiotic idea paid out with dividends, the core shredding my mouth into a bloody mess. I swallowed my metal blood before wincing at the blue heart. It fought against being eaten quite a bit.
+
+I hoped it wouldn't fight the same way against my sigils. As those esoteric markings took effect, the core changed according to the cipher's instructions, as all things did. Viewing it with my mana sense, I grinned as a smiley face formed on the core's shifting surface. With a stable surface to work on, I could reconstruct the reality within these tiny orbs.
+
+There was a lot of work involved with controlling the dungeon hearts this way, but the crackling blue spheres carried enviable advantages that justified the extra effort. Even from just poking and prodding the cores here or there, some of those benefits surfaced. In particular, each orb contained a continuous flow of stable mana in enormous proportion.
+
+If I drew energy from it, the core fought to return its mana to a predetermined state, making it immensely reliable. For imprinting a mind, this cohesion offered the perfect foundation for building a psyche because it offered sanity. After all, making something stable usually meant making it simple. The fewer the parts involved, the fewer ways the object could fail.
+
+A mind emphasized that point even further. This was why even experienced primordial mages kept their living magic limited to basic constructs. Eat more. Destroy enemies. Burn buildings. Commands and urges like that came about with ease even when designed in combat. Adding even one more directive threw that balance out of whack.
+
+The moment multiple motivations came about, the complexity often led to emergent problems. 'Emergent problems' really just meant general insanity and chaotic impulses. My golems required absolute sanity because they could kill someone so easily. This was also why I hadn't varied them much; they could destroy thousands in the blink of an eye.
+
+The blue core acted as a base of serene calm, and that meant complex minds could be made with far less risk involved. Still, relying on these outer wrappings added extra steps to using the golem cores. Since this would be my first and last time doing this, I took some time before taking another action in golem-making.
+
+I wanted to get this right.
+
+Shifting the inner workings of the cores, I tried changing the dungeon hearts from the inside out. As suspected, the cipheric markings failed to stick. Even the depths changed moment to moment, like trying to tie down a long-lost memory. To get the runic markings on the actual core, I needed to give myself a stable surface to work with. However, I couldn't think of any way to make that happen.
+
+Another Daniel did, however.
+
+They used the outer wrapping of cipher runes to create permanent storms on the blue core's surface. These storms took the shape of cipheric runes on the dungeon heart. Another mind thought up the markings to separate these storms and prevent them from ruining each other. I offered some variations on the cipher markings that better fit these new methods.
+
+After all, the cipher worked in a three-dimensional sense, and that's why dual layering worked as a technique in the first place. Applying that concept further, I figured the 3-dimensional storms could also offer greater depth to the cipher markings. The congregation of Daniels went to work, seeing to my theory's fruition.
+
+In the end, it worked. Hell yeah.
+
+So, we used the cipher to write the cipher. Overcoming that first hurdle, we arrived at the second blockade - the golem's runes needed rewrites and badly. The outdated sigils didn't take into account the blue cores, the stormy surfaces, or Leviathan-7's issues. I didn't mean this as a cutting criticism for our previous efforts either. We did well, considering.
+
+I mean, I acted as a translator, converting Schema's runes to the cipher. While I did my best, my understanding of the engineer's work was limited at the time. After having made thousands of the golems, I gained a far better grasp of how they created the psyches in the first place. Studying time magic didn't hurt me in that regard either, considering how cerebral a task that ended up being.
+
+Even with all that practice making the golems, I only gained partial competence in the field of mind making. I couldn't write new mind 'code' from scratch, but I could write it in my own words. Since the cipher required a heavy dose of perspective to do its thing, adding my two cents only helped the situation.
+
+Taking that into account, I rewrote the imprints to fit the cipher's nature. My primordial wake strengthened my cipher work as well. Under that wake's influence, I stopped missing details or accepting choppy etchings. That understanding peaked with the storm-based cipher carving; I made drastic improvements.
+
+Whittling away at the project, I rested in the middle of my city. My golems and star beasts fought outside while revising the golem models. Even with my silencing runes, deafening booms scattered into the town like muffled gunshots. I ended up molding the rainbow bone over me to offer some peace. This left me covered in quiet, one that rang out in my ears.
+
+Without noticing, I adjusted to the ambient sounds a while back. This calm contrasted the relentless thudding, one that my time magic only accentuated.
+
+In an odd twist, the quietest place on Leviathan-7 was underneath its ossuary.
+
+In that death zone, I wrote out several rewrites for the golems' code. After getting a general understanding of the process, I used those improved versions as references. I separated our mental efforts, ensuring we used different ideas as we came up with our own opinions.
+
+Like gladiators, we assaulted each other's claims and findings. Scrutinized, critiqued, chewed up, and spit out, our rough drafts received beating after beating. We laughed, mocked, and learned from our mistakes. After a dozen rounds of editing, debate, and criticism, we came up with a far improved version of the golem's manuscript.
+
+I winced at it. It was still so flawed, but it would have to do.
+
+Having a team working together, we preprepared twenty of the remaining blue cores. We planned out the runes to embody into them before writing them down on a flat sheet. We then wrapped that sheet over a dungeon heart, charging the runes into place via mana. Once the sheet loaded to its fullest extent, the storms synced into place.
+
+Firing off a chain reaction, one wave of force led to more quakes and shifts. The storms hungered for energy, and I siphoned energy from myself and the elemental furnaces. A bit of temporal acceleration sped the process up, and as the runes burst, the storms clicked into place like a gear slotting into a machine.
+
+The storms stabilized, each pocket spiraling in isolation. They flashed in a fury, a microcosm of turmoil and turbulence. I observed for a while, hoping it didn't blow up in a tectonic explosion. I'd lose my city, it being the only place quiet enough to test this theory yet also the only place I minded destroying on this planet.
+
+It stayed stable, so I tried squeezing it. Once more, it maintained without any issues. Going further, I swiped the core. The storms spiralled without any issue, returning to the runic configurations with ease. Like I hoped, the spirals channeled the familiar changes of the cipher clicking into place. The ripples in reality, the dimensional disturbances, and the tumultuous shifts locked in, becoming irrevocable. This could've been the first time someone used weather patterns for the cipher, yet it worked. As the cores finalized their reformations, they warped into something different.
+
+A psyche spawned in the sphere, the stable consciousness like a reliable old friend. I analyzed the core's mind to inspect its mental magic abilities and complexity. It retaliated with a firm and calm voice,
+
+"Creator, it is good to meet you. I am ready for the war here whenever I am given a body. I would also like to thank you for the kindness of my creation."
+
+I blinked, "No problem. It's been a while since I've spoken to anyone, so if I sound weird, that's why."
+
+It spoke back, "Considering I've never spoken to anyone, we're on equal grounds in regards to conversation."
+
+I leaned back, stunned by any depth in conversation. Hungry for it, I reached out, "Any plans once you get a body?"
+
+"Destroy the eldritch, clear the algae, and promote safety for humanity."
+
+I frowned. That response fell in line with the kind of golems I remembered. Satisfied with the directives, I leaned towards it, "Hm, you don't seem insane, which is good."
+
+It gave me a bow, "My sanity is the mark of my master, for I am of your design. That design was made with the intention of war and the purpose of destruction. Here, I shall unleash that will and turn it into what you wish, creator...At my discretion, of course."
+
+The last bit of its speech left a grin on my face, "Hah...Perfect. Do you know what to do with the blue cores you find?"
+
+"Collect them as a harvest, and the yield is yours alone."
+
+"Precisely."
+
+I poked and prodded it with a few mental tests. It retaliated with an almost infuriating calm, all of my attempts at riling it up only angering me in turn. Finished with the psionic attacks, I swung my fist in satisfaction. It was perfect. Reusing the runic designs, I drew more mana from the blue cores to finish the other core psyches.
+
+Without needing to write them out, I poured my overflowing mana into my grimoire, generating the necessary runic markings. It required an intense amount of mental visualization for the runes to come out right, but the grimoire carried the potential for the storm runes. It was in my hands to wield that potential as my weapon.
+
+And I did. The multifaceted sigils floated down onto one sheet at a time. With twenty wrappers prepared, I sealed them over the blue cores with a quick snap before siphoning more energy into one of them. Hours later, I finished them all, and they waited for a means to enact their desires; they happened to revolve around war.
+
+To fulfill their purposes, I created a new larger body as a prototype for them. Lacing it with connection points, I didn't integrate the cores into the main body. Instead, I put a place for the golem core's installation. This central position tried into the rest of its body, letting me put the dungeon heart in and out with ease.
+
+This fitting-based approach carried many advantages over the long term. For instance, updating the bodies of the golems from here on would be a breeze. Considering how my golems continuously became outdated, that was a huge issue. With this new design, I could just take a blue core out and socket them back into another golem.
+
+This relieved a lot of the pressure for a perfect design as well. Before this approach, I had to nail each golem design. With detachable minds, I could reuse the blue cores all while making bolder adjustments to them. It gave me room to experiment with different styles and kinds of golems, something the core's stability further emphasized.
+
+It even let the golems learn and improve since the minds wouldn't be trapped in an inferior cage. They'd live on for centuries, still up to date and thriving. It would make every one of their deaths weigh far more than before, however, and I winced while remembering Alpha. I wished I'd given him the same long-lived life, but my lack of competence resulted in his demise.
+
+I wouldn't let that happen again. I crafted and carved the prototype bodies for each kind of core golem. In the case of the assault golems, I gave them more emphasis on mind magic. They'd use the rainbow bones to battle here, and I kept the ascendant core design as well. They could improve and heal their bodies by consuming the eldritch.
+
+I mean, if the primevals could do it, then so could we.
+
+Slotting in other improvements wasn't difficult either. I gave each golem greater control of their bodies, but not in movement alone. Unlike old models, these core golems would be able to adjust their forms like I did. They'd be able to shift their forms at will as long as the telepathic points held.
+
+I ensured that with cipher runes in the blue core. Those storm formations helped the bodies of the golems regenerate in a specified way. It operated similar to my own recuperation; every time I was blown apart, I restored with all my runes back in place. At least the cipheric ones. Schema's sigils blew apart and didn't return, but the cipher held firm even after death.
+
+That was a necessity. Even for me, I couldn't avoid the occasional evaporation against the primevals, so I gave my golems a similar ability. If utterly destroyed, the core would remain. If even a tiny slither of my dimensional fabric lingered, the dungeon heart would remake the body from ash, good as new.
+
+It even let my golems adapt and adjust on the fly. They needed sword arms? Easily done. What about a hammer for a head? Goofy but doable. The storm sigils instilled that kind of adaptability into each golem, and the blue cores resided at the center of that ability. They offered a foundation to return to after molding, something the golems otherwise lacked.
+
+I didn't limit these functions to just assault golems, either. I crafted four constructor golems as well, making a few changes for them. I added the same psionic edge, ensuring they used the plentiful opals all around us. I designed them around being paired to a city, two in each protected zone. This provided enough ambient, mental pressure to keep the rainbow bones shaped correctly.
+
+As valuable as the bones were, having glistening bones as every surface kind of overwhelmed the eye. I made the constructor golems craft cities as before, just with rainbow bone as the base of structures rather than steel. That automated the process, leaving me plenty of time for other tasks.
+
+The constructor's quintessence-based cores allowed them to power a utility grid here, too, maintaining the central monolith. This further emphasized the mana barrier's strengths, giving it even greater longevity. With this strong foothold established, civilization was on its way to Leviathan-7, and we wouldn't be stopped.
+
+With everything fine-tuned for the cores and prototype bodies, I mass-produced them. However, I used a changed method. I molded myself into an exact replica of whatever golem I was building. Once everything was perfect, I compressed my dimensional wake to the utmost extent possible.
+
+For assault golems, that wake was Event Horizon. For constructors, I condensed The Rise of Eden. I slowed down my construction to two golems per hour, making sure every line, angle, and rune came out exactly as I wanted them to. This resulted in a new breed of golems coming out of the process, one I gave the title of core golems.
+
+Within my city, I constructed these engines of destruction. As I finished the armada, I stared down at twenty titans. Each of them stood my height at twenty-five feet tall. The war golems glimmered with ascendant mana, the crimson sigils over their surfaces charged with energy. They cackled out with flares of red lightning, and they gazed forward with destroy and harvesting on their minds.
+
+The four constructors in the back gripped and loosened their smaller fists, quintessence misting off the sigils in their palms. The dense fog radiating off them instilled inspiration in those around, each a beacon of effort and diligence. Clouds of quintessence formed around, and liquid mana poured down before swirling around them. They wished to go forth and create a habitable world around us.
+
+It was a tall order considering the state of Leviathan-7, but I gave them the necessary tools. It was up to them to make use of them. As for me, I stayed zoned in on my own goals. I left many coreless golems outside of this reinforced city. Several already perished while I constructed their new brothers, but most of my golems kept the algae from returning overhead.
+
+Without a constant supply of behemoth bone shards, no primevals would spawn nearby. Without needing to clear those areas, we were free to expand outward. Walking out of my workshop, I peered out into the frontier, the echoes of distant rumbling reverberating into our stronghold. The cries of far off eldritch quaked the ground, even their wails mighty.
+
+As I stared behind, a shiver ran up my spine. The core golems showed no fear, no mercy, and no doubt. They existed like the golems before them, their purpose singular, their duty resolved. The cackling of ascendant lightning boomed out thunder, the buildings around collapsing. Before the buildings could fall, quintessent mana soaked into the stone, rebuilding the broken.
+
+The legion struck fear into all, and I stood at their head, the Harbinger of Cataclysm. Aiming to prove my title, I hastened the flow of time around me. Gravitational augments saturated my being, and I pocketed my furnaces for later. My own ascendant lightning crackled out over my core golems.
+
+I grimaced at far-off primevals, ready to rip them apart. Event Horizon spread over my allies, and I roared,
+
+"We are legion, we are strong, and we are harbingers to this planet. Tell me, who here is ready for Leviathan's calamity?"
+
+The golems roared. I shouted,
+
+"Let's give this planet its first taste of omen, and let's make the message undeniable."

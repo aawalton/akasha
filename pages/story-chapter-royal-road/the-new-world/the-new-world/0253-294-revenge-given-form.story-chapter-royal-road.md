@@ -1,0 +1,223 @@
+---
+id: 8e95bab9-7198-55a6-9934-ebf5407e87d4
+page-type-slug: story-chapter-royal-road
+title: "294 Revenge Given Form"
+slug: 0253-294-revenge-given-form
+partOf: the-new-world
+position: 253
+ownLength: 4358
+unit: words
+ownProgress: 4358
+publishedAt: 2021-03-18
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/649019/294-revenge-given-form"
+royalRoadId: "649019"
+markedReadAt: "2026-06-29T21:29:48.785Z"
+---
+
+The twisted Sentinel lobbed out his first mental attack, a sort of initial jab combined with a feint. This typical opener gave me plenty of leeway for my start. I partitioned two minds for mental magic as I did with Torix, one for offense and one for defense. They went to war against the telepathically inclined being, and the rest of me charged the wretch.
+
+The Sentinel hovered himself backward, several mana streams directing his movement. Event Horizon smothered him after the initial seconds of battle, and his energy fizzled. The draining aura outpaced his ability to physically manifest mana, leaving him sinking down in the water. I shoved my knee at his face, but he raised his spear to deflect. Angling just right, the Sentinel knocked my foot up before slicing at me.
+
+I slapped the spear sideways, the close-range abilities of the weapon feeble. Passing over him, I redirected myself with a gravity well. Pulled down towards him, I reared back a fist. At the same time, I made another consciousness that controlled gravitational magic. This let me simultaneously generate an antigravity well under the Sentinel.
+
+Bobbing him upwards, I caught his momentum and his face by surprise. My blow landed with pinpoint precision, transferring immense force into the Sentinel's body. His armor cracked over his nose before he shot downward through my earlier magic. Recreating the feat, I generated numerous powerful antigravity wells under him. This lobbed the Sentinel back and forth like a pinball being slapped up by flipper bats.
+
+Each of my attacks targeted his skull, intending to kill. Upon each impact, I reverted to the Rise of Eden, augmenting my stats as well. This gave me harder hits before I continued suppressing the Sentinel with Event Horizon. The mana draining effect of my ascendant aura, in particular, crippled the Sentinel completely.
+
+It left him running on empty, unable to make even a wisp of magic. His mental abilities faltered as well, most of his endeavors manifesting in little progress. This standstill came from me weaving between his mental assaults while prodding back with my own barrages. This put me in an unfamiliar position; the mental fight would be over before long, but instead of me losing, I was actually winning.
+
+But the fight wasn't over yet. The Sentinel jerked back and forth under the extreme stresses of both my magic and physical strikes. His rapid movements left the Sentinel within unable to do anything, but the mind mages controlling him kicked into action. More members joined them, bolstering their mental attack. Their ritual strengthened, mana siphoning into the Sentinel. His spear charged, containing enormous plumes of arcane energy.
+
+With the augments, his mobility returned, able to function once more. I missed a weighted punch, and he skimped me with his spear. It left a long slice in my leg, but only for a second. It closed as quickly as he cut into it, my regeneration unmatched. My armor laughed, a hollowing sound radiating across the landscape.
+
+I leaned into this fear causing tactic, sending taunts at the Sentinel,
+
+"Come. Surely you have more than one swing in you?"
+
+A culmination of minds voiced, "We will adjust."
+
+Surrounding us, version 2.0's flooded forth. Several dozen arrived, their psionic controllers joining the fray. They merged with the connection before smothering my own mind magic. Sent into a spiral, I lost the smooth connection between me and my body, which left me vulnerable. Imposing on my opening, the Sentinel dashed forward, his spear raised.
+
+Magenta-shaded, arcane energy flooded his spear before he sliced towards my head. A tear in dimension formed as the arc of his strike came towards my skull. The blade made contact with my helmet's aura before I opened my mouth. The teeth of my helm widened, and my armor snapped its jaws into the hilt of the spear.
+
+An instinctual, primal rage took me over, and I smashed two quick haymakers into the Sentinel's body. Powdered graphene erupted from the impacts, making gray clouds in the water. Plumes of evaporated water gushed beyond the Sentinel, the heat left from my fists palpable. Before I continued, version 2.0's converged, holding my limbs. I struggled for a few seconds as they tried sinking their teeth in me.
+
+The Sentinel roared at me, "Who's afraid now?"
+
+I laughed while opening my dimensional storage. From it, I unloaded a bottled up, kinetic blast. Earlier, I used some singularities and captured the resulting explosions. Using them like ammo from my pocket dimension, I put those implosions point-blank for me and the Hybrids. I survived the intense radiation and compressive shockwave. The Hybrid's fared far worse.
+
+The attack rippled through their bodies, those closest to me inflicted with grievous wounds. The more distant ones had their senses jumbled as if I used a sonic grenade on them. Event Horizon expanded over them while I pulled my hands close. My armor writhed over my skin, my flesh becoming fluid. A true monster, I lashed out in all directions, tendrils of my armor piercing into the many version 2.0's.
+
+These prongs tore through them like harpoons through fish. Once impaled, large hooks formed on the other ends of these spikes. Creating a gravity well over me, I funneled them towards my frame while pulling them closer. Many fought the pull, some Hybrids even howling out in terror. Those screams were silenced as my armor drenched their mouths and eyes, tearing through their soft bodies.
+
+The Sentinel used his arcane spear to slice the feelers sent his way, but he could only watch on as I consumed his reinforcements. What was once a deadly attack now gave me greater life. The actual Sentinel, still living, trembled as its puppeteers struggled to control it. The psionic controllers shouted from within,
+
+"I...what in the hell is wrong with you? You're a monster, worse than the eldritch."
+
+My usual body walked out of the shivering mass of dying Hybrids. My armor grinned at the twisted Sentinel, and I spoke,
+
+"No. I choose if I'm a monster. It's unfortunate, but you brought it out of me."
+
+Version 2.0's began dying, and their corpses disintegrated into mana, letting me step forward,
+
+"Now, you must deal with the consequences."
+
+My armor reformed, reconstituting my typical frame. Sprinting towards him, other forces congregated at my position again. Stopping midcharge, I peered around, forming a plan against them. I had charged a few latent singularity explosions earlier, but they wouldn't fall for that trick again. That left one option left - an all-out brawl. Preparing for the free-for-all, I peered around while visualizing my first few strikes.
+
+I didn't need to.
+
+Spears drilled through them before exploding amidst clusters of enemies. The resulting orange and gray clouds cast shadows that Hod warped from. Our shadow lurker left our enemies in pieces that burned amidst umbral fires. Torix joined my telepathic connection, and he went forth like a bat scrambling out of a cage. His offensive mirrored our previous bout, lacking any hesitation or mercy.
+
+I joined him, smashing towards the Sentinel's mind. More mages joined the mass controlling the Sentinel, several Hybrids in the distance running wild as their controllers joined the fray. A dogpile of consciousnesses began, and we played a mental game of tug of war. This favored me, as it required a primary controller.
+
+Now, as the controller, we both struggled to maintain the sheer volumes of mental energy passing through our minds. At least he did. My willpower and intelligence meant I could handle tremendous damage. As these mental flows enhanced further still, my head warmed to the touch. It kept building until it radiated heat, which paled compared to my own self-heating tactics.
+
+The other primary controller, the one who killed Alpha, began wailing as the mana's heat burned him. Unlike me, most weren't made of such a robust material. They were flesh, bone, and water. Hot water boiled, even after a person was systemized by Schema. Now, an average person could probably handle about one million mana every second. This would warm them, but it wouldn't cook them alive.
+
+Any more than that, and they'd begin to die. This conflict escalated beyond that, and as it rose further, so did my enemy's anguish. Even in my anger, I didn't relish in his pain. I wanted this fight over and that manipulator dead. Jolting forward, I pressed on with a variety of attacks. I stormed the area with lightning, creating streams of volatile energy. I deluged the region in gravitation, buckling his knees. I swamped his legs in molten ground, a tactic I enjoyed using.
+
+This left the Sentinel pressed onto his back foot the entire time. I left little room for escape, surrender, or revenge. I enacted my own will, but others joined the fray. My team supported me as I fought, stopping anyone from interrupting our fight. On the other hand, I kept pursuing and ripping this Sentinel's body apart. In this endless cycle, the Sentinel's armor cracked and crumbled over time.
+
+That armor astonished me with just how long it lasted. I guesstimated that a paper-thin sheet of it would stop a tank bullet. Even under the unreal stresses of my attacks, it withstood for a while. Even when put under extreme heat, it retained shape. Even more, it protected the person inside. Whether or not that was a benefit was debatable, however.
+
+The individual that acted as the mental conduit, his skull fried during the battle. He attempted disconnecting, but I latched telepathic claws into him. Using my master's tactics, I chased without revealing my defenses. I kept calm, cold, and composed while dismantling his mind. I did so while thrashing his physical form as well. They weren't the only ones that could use mind magic.
+
+In the process of doing that, I slammed the Sentinel into the blue core's barrier. I already bashed the Sentinel into Hybrids, buildings, and boulders alike. For both of us, these materials acted like gelatin, unable to withstand our physical forms. In this way, the blue core's barrier served as my most potent weapon. The reason was simple - it was hard to break.
+
+So, smashing him against that resulted in lots of rebounding force. Every action had an equal and opposite reaction, after all. Armed with that knowledge, I hugged the Sentinel to me before rising high into the ocean. As I came down, the water boiled. The Sentinel garbled out,
+
+"We'll both die, you idiot."
+
+I just smiled, not choosing to answer him. This wasn't my first rodeo. My armor let out a chuckle as well, one that I allowed it to have. That chuckle turned into haunting laughter. The twisted Sentinel heard the confidence in that voice, and he scrambled for survival. Before landing, he pulled his arms out of my grip. With his spear, he charged the bright, mauve blade and pierced my face.
+
+It dug deep through my jaw and into my chest, but it didn't matter. By the time he pulled the blade out, my wound healed. It did cause a sickly gurgling as my armor laughed, however. This only further frightened the Sentinel as he stabbed again and again, but my grip didn't lessen. It only constricted tighter. As we got close to the core's barrier, He charged the blade, shifting the magenta-colored edge to a deeper violet.
+
+He sliced through dimensions before the blade made contact with my shoulder. On touching my skin, the blade snapped. There was no resistance, and it was unable to do me harm. As the edge flopped sideways, the Sentinel stared at me. From the cracks in its facemask, its eyes hollowed. The corrupted Sentinel put a hand on my shoulder, and he spoke in his original voice,
+
+"It was a good fight."
+
+We smashed into the blue core's barrier, a vast plume of energy erupting. Beneath us, strains of energy stretched out from the hexagonal forcefield. It called upon its reserves to restrain our landing, and it somehow sustained the collision. Peering down, I uncovered why. Chrona and Krog flew under me, each using their own abilities.
+
+Chrona used her temporal field to slow down the energy transfer, letting the barrier take less initial damage. Krog used a sonic roar to break my shockwave's impact. This dispersed the force enough, and the forcefield stayed standing. I stood atop it, standing over the shattered remains of a Sentinel.
+
+But even if the Sentinel died, the psionic controller lived within it, and so, our battle still raged. I held with an iron grip, not letting that controller go. His mind reached its absolute limit, and on the other side, his defenses faltered. My mind rushed through his, and I sensed his own senses. He collapsed, blood trailing from his eyes and nose.
+
+It was cramped in his, I don't know, skull? I couldn't really tell what it was. He simply lacked the ability to have my entire mind within his. It strained him, and his body disintegrated from the effort. It gave me enough time to search through vague memories. As I pilfered, I gained a few esoteric ideas. They lingered like bubbles floating in the wind.
+
+Holding for only a few seconds, I still locked them in place with my excellent memory. These ideas would take time to analyze, so I didn't bother deciphering them until after this was over.
+
+Which was pretty soon. Seconds later and the controller died. I didn't want him to go like this, and I typically stopped this kind of fate preemptively. However, when he killed Alpha, he also killed my mercy. He foamed at the mouth while I jerked my mind back towards my body. It wasn't like I fully crossed over either since he couldn't hold my entire mind. It was more like I sent one of my mini-minds over and pulled it back.
+
+Either way, I stared down at the dead body of a Sentinel after returning. I closed a fist, staring down at it. I remembered the Overseer's words when I last saw a Sentinel pass. Honoring those traditions, I lunged down and tapped the Sentinel's chest plate with my hand,
+
+"You may rest for all time, brother. You fought the tide, and so it fought you back. Though washed away to sea, you will always be remembered."
+
+I laid my head on its chest,
+
+"In Eternum, Vive."
+
+Placing my palm onto its neck, my armor began assimilating the body's mana. It always saddened me when one of these guys died, but I pushed through that sensation. The Overseer gave me advice when we first fought Lehesion, and I agreed with the sentiment. Schema's world was harsh, and it required brutal tactics like this to survive.
+
+Standing up, I carried the body and the spear with me. Leaping down, I landed beside the edge of the blue core's barrier. Without a threat nearby, its physical manifestation faded, letting me enter. On the other side of the forcefield, I found several people watching me. The first I noticed was the least evident of these individuals: Amara and Hod.
+
+They hid behind the others, but the terror in their eyes as they gawked at me was evident. It left my hair standing on end, so I shifted from Event Horizon to The Rise of Eden. This settled them down some, but they still stayed on edge. The others I found proved far more welcoming.
+
+Krog and Chrona flew overhead, both of them circling my position while thundering to the heavens,
+
+"We are victorious."
+
+They were right. The Hybrids stopped their first offensive as the Hybridized Sentinel died. They still rallied a few miles from our encampment, but this left us with about twenty square miles of secured territory. Not much for a planet, but it was plenty considering we were in the middle of Blegara's capital. It wasn't too shabby a place to start our conquering of the area.
+
+Knowing how important this victory was, I raised a fist and shouted,
+
+"We've won."
+
+A group of my guildsmen let loose with approval and celebration. The gialgathens, in particular, let out a deafening telepathic howl. It left me stunned, both with joy and a bit of mental whiplash. Either way, they meant well, so I let it slide. Before I began celebrating, I turned towards where the Sentinel and my fight initially started.
+
+There, resting in pieces, was Alpha. I winced at the sight, his eyes dead and cold. I raised my hands to everyone crowded around me, "Excuse me. I have to handle something first."
+
+They backed away before I paced up to Alpha's body. I leaned over, putting my hand on his chest piece. It was cold. I grimaced at the sight, his death affecting me more than I thought it would. I made hundreds of these guys, new and improved versions even. None of that changed the fact that he was the first of his kind.
+
+Losing him was a new kind of sting, and I hadn't expected it. I turned towards the others here, and I raised my hands, "Golems. Come here."
+
+Those that heard obeyed. The golems raced over towards my position, several dozen collecting here. The others helped Vagni in the distance or cleaned up the messes there. I let them continue with their worthy pursuits. I just wanted Alpha to be remembered, kind of like how the Sentinels and Overseers respected the passing of their own.
+
+I turned to the golems here, "I don't know what kind of burial he would need, but you guys are probably more in tune with what he would have wanted. Any ideas?"
+
+A golem walked forth. It was Beta, the second of his kind,
+
+"Master, I believe he would want to assist the war effort. He died a noble and complete death, and for us, we could hope for no greater honor than assisting the whole."
+
+I took a few steps back from Alpha, "Then do what you can."
+
+The other golems stepped up, and they lifted the body over us with gravitation. They each used their own version of Event Horizon. While paling in comparison to my own aura, they used many of them condensed over his body. The intensity mounted until Alpha's remains began disintegrating.
+
+He converted into the two mana types he was made of, both quintessence and ascendant. Those energies flowed over the other golems, the subtle hues of red and white both melancholy and beautiful. Over those few seconds, he disintegrated into a cloud of colorless ether.
+
+In the end, he joined his brothers and sisters to fight on.
+
+Beta turned to the others, "For Alpha."
+
+They telepathically boomed, "For Alpha."
+
+Turning around, I remembered where we stood. On the outskirts of our camp, many troops scattered out wet sand and ocean stones. They used plastic covered documents or system loaded data for communications, which wasn't exactly efficient. Given their lack of conducive working conditions, now was as good a time as any to build. It would act as an interlude for all the fighting I'd be doing this week as well.
+
+To start, I stayed over at Alpha's resting place where he was last living. I took a mental image of my first golem made with a mind. Using that form, I molded a massive block of white stone. I chipped away at it, tearing it apart and cleaving at corners. Minutes passed, and I got the rough approximation of Alpha. After an hour, a more refined take appeared. It served as a memorial for him.
+
+Beside the golem, I made several faceless warriors. One wore power armor, one wore an Omega Strain, and another was a gialgathen. Creating a metal plaque, I etched a date for the battle along with a quote - 'To those that sacrificed everything so that we could have anything.' Having honored our fallen, I turned and found several people grouped around me. They paid their respects as I finished.
+
+Surrounding the monument in glass and metal, I protected it from the elements while giving it a walkway. Continuing work along that line, I spent the next few hours creating buildings for our people. Explosions in the background weren't precisely the best way to focus, so by sealing my members off from those distractions, I guaranteed more productivity for our people. It improved their quality of life too while we sieged here.
+
+Watching me craft buildings in minutes also motivated the teams here. It gave this new place a sense of permanence, one where we had no intention of leaving. Knowing this, I built everything to last. I kept the designs similar in scope and function to my own golem center. Minimalist and functional, I gave them bulbs of quintessence as lighting too.
+
+Unlike other mana bombs, I kept the crystallization stable, having learned quite a bit about solid mana after making the gems so often. I tied runic wiring to many of these buildings as a finishing detail, making the lighting serve dual purposes; they beautified and powered these living areas. This combined with roadways I generated along with metallic lamps powered by the same source.
+
+This process continued until the next morning. Staring around, I found myself having crafted a miniature city overnight. People filed into my architecture as I made them, and it always filled me with pride seeing people enjoy, laugh, and live in what I made. That being said, this comfy interior gave the entire waterfront an incredibly surreal sensation.
+
+On the one hand, my golems fought in view, just a mile away. They destroyed wave after wave of Hybrid reinforcements. On the other hand, soldiers sat in enclosed dwellings, comfortable and secured. They rested well, being able to block out the roar of war. The rings I gave them served that purpose, letting them float in place. This creative use was pioneered by Diesel, actually.
+
+He spread the word, and now this antigravity sleeping style was commonplace throughout my guild. This improved living standard extended to my elite as well. Torix maintained control from an improvised lair as the siege dragged on. His hideaway offered relative tranquility, so Torix no longer needed to get his hands dirty anymore. This quiet enabled further outstanding logistics and orders from our lich, and he outmaneuvered the enemy time and time again.
+
+Never needing sleep, Torix continued this through each night. During the days, Althea used the blue core's tower as a sniper's nest. Her spears tore enemy ships sent here, giving us aerial and nautical superiority. On the ground, Hod handled the situation, keeping his mind intent on personal, contained killings. He followed Kessiah, who operated under various rescue missions. This gave us a steady stream of pretty pissed off Vagni, but they did as they were told.
+
+For now.
+
+Amara worked on that issue, getting everything ready for our announcement. This gave us plenty of leeway for the operation's timing, and I readied that for our full advantage. I gathered a team of twenty gialgathens, Krog and Chrona included among them. We sat in our secured zone, communicating effectively despite the war waging beyond Torix's isolatory magic.
+
+Staring at them, I raised a hand, "How are you all holding up?"
+
+They established a telepathic multilink, one where anyone could join. Krog spoke out first,
+
+"We're doing well. To have gained this much ground so soon fills our kind with pride. The ability to stretch our wings and explore as well, it's something I've long missed. I know others shared in my longing, and they share in my excitement as well."
+
+Chrona peered at her skin, the silver sheen especially radiant today, "This place isn't as dry, either. I prefer this world to yours. The oceans, they are beautiful flying spots."
+
+She peered away, "Er, not to offend you, Harbinger."
+
+I raised a hand, "Trust me, no offense taken. I figured you guys would. Either way, we need to get a grip on the local populace. I don't want to wipe them out, and having them evacuated would make this a lot less complicated. To do that, I need to convince them that the eldritch are terrified of me."
+
+A gialgathen in the back boomed, "Not too difficult a feat for you, I'd imagine."
+
+The gialgathens laughed, and I raised a fist, "You're right. It's not. In fact, I'm a little too effective at scaring them now. I need the biggest of those monsters grouped together, but they run from me. That's where you all come in."
+
+I pulled out blocks of quintessence, Amara and Hod's favorite flavor of mana,
+
+"We can use these to bait the eldritch all into one place. Once clustered, I'll be using Amara's broadcast to show the eldritch submitting to me. That will really help out with getting the Vagni over to our side. They love their old gods, so if the old gods worship me, then logic dictates the Vagni will worship whoever the eldritch worship."
+
+Krog narrowed his eyes, "What if the Vagni don't follow through with that reasoning?"
+
+My runes flared red, crimson light bathing those around me, "Then I'll give them a different reason to follow me, one equally convincing."
+
+The gialgathens paled, both heartened and terrified by me at the same time. Turning to Amara, I raised an eyebrow, "Are you ready?"
+
+She tapped a few keys before nodding,
+
+"Yes, Harbinger. Everything we need is prepared. We need only herd the wolves with these sheep."
+
+She narrowed her eye laced palms at the gialgathens, "Enormous sheep."
+
+The gialgathens laughed, their natural confidence on display. I turned to those here, "Then let's take this planet's people in one fell swoop."
+
+After handing out the quintessence, everyone got to work. Amara nabbed a piece as I tossed them to our flyers, and she indulged with great hunger. Our force of gialgathens went about dispersing the bait after, leaving me with a bit of time before the eldritch clustered up. Optimizing as much as possible, I figured checking my status wouldn't be a waste of time.
+
+And I was right.

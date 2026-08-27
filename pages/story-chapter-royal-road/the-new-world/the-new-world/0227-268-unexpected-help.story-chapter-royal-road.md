@@ -1,0 +1,227 @@
+---
+id: 55324d41-d3b0-5694-9a5f-88474ceba02e
+page-type-slug: story-chapter-royal-road
+title: "268 Unexpected Help"
+slug: 0227-268-unexpected-help
+partOf: the-new-world
+position: 227
+ownLength: 2468
+unit: words
+ownProgress: 2468
+publishedAt: 2020-09-08
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/551637/268-unexpected-help"
+royalRoadId: "551637"
+markedReadAt: "2026-06-29T21:28:49.422Z"
+---
+
+But working on something nice to wear would have to wait. I turned towards the restroom's doors, waiting for Helios to walk out. As he did, the cape-wearing albony looked no worse for wear. He gave me a nonchalant wave,
+
+"I see you and Obolis have finished your talk. Should we go to rest?"
+
+"Yeah. You guys need it."
+
+Obolis warped us into Mt. Verner, the mountain night shift working a few of the machines on the second floor. Beneath us, the residents slept soundly in their beds as essential workers kept this place up and running. I gave them thanks before we made our way to the top floor.
+
+The others passed out, all of them exhausted from the day's work. With a full night ahead of me, I started trotting out to work on my golems. Interrupting me as I made my way there, a message from Isa cropped up in the corner of my eye.
+
+Isa Benett(lvl 1,802) - Hello Guildleader. We'd like to have a meeting with you about your golems and their goodness. This would be in order to develop them furtherer as well as discussing details about the operations and stuff. Take your time in responding because we know how busy you is.
+
+Thank you for your time and considerings.
+
+Sincerely, Isa Benett
+
+I raised my eyebrows, the message written strangely. After sending a quick reply that I'd meet right now rather than later, Isa sent a reply.
+
+Isa Benett(lvl 1,802) - Hello Guildleader. Right now? Like, right now? I didn't want to impose upon you in a way that isn't good.
+
+I made a reply that waiting would impose more than having the meeting right now, mainly because I'd have to remember it. I mentioned needing their location as well. Isa sent me her position, a bar called A Gambler's Paradise. It was actually on the fifth floor of Mt. Verner, being a pretty fancy place to get drinks.
+
+In fact, it was damn close to where I already was. I hadn't entirely made it out of the fifth floor where my suite was, and I just began walking past a few of the fancier shops on my way to the main elevator. I walked across two other eateries, reaching the Gambler's Paradise on my left. As I walked in, I noticed the saloon doors and stylized visuals.
+
+The first part I noticed was how rugged everything was. It was like someone took old, worn down antiques and upcycled them into this new place. Barrels were made into cushioned seats, worn boards converted into bar stools, and cowboy gear made into props. They even had gambling tables fashioned out on the edges of the main room.
+
+One one of those tables, I found three people there: Isa, Lester, and Bryan.
+
+They were playing a card game I'd never seen, quite a few empty bottles surrounding them. They gawked at me, utterly horrified that I showed up in just a few seconds after her message. As I stepped up, I leaned against the table and turned to them, "So what's up?"
+
+They glanced at each other, each of them trying to get the other to talk in their place. It was kind of like a strange staring competition. Eventually, Isa cracked. She whipped her head towards me and stiffened up,
+
+"It's...it's good to see you, commander, sir, commander."
+
+My brows furrowed, "Uh...you too. What did you need me for?"
+
+They once again stared at each other, another silent staring competition ensuing. This time Lester cracked, "Would you like a drink?"
+
+I shrugged, "I could, but it would be wasted. My body burns through alcohol like its nothing."
+
+Lester stared down, appearing disappointed. Bryan gestured towards one of the unopened bottles, "Uh, please partake of the beverage."
+
+I lifted a finger, shuttling the bottle towards my hand with a telekinetic push. It snapped into my hand before I flicked off the bottle cap and drank some. It tasted awful, like most alcoholic beverages. Anyone I talked with about the stuff before the culling always said I'd get used to it. So far, that wasn't the case.
+
+That being said, it might be because I wasn't giving it a fair chance. I gave it another sip, different flavors popping out from the awful. I honed in on a few orangey tones and a hoppy fullness. I finished it, the tiny bottle barely enough to get my mouth wet. I crunched the bottle in my hand before deconstructing the matter.
+
+I gave it a nod, "There's some citrus in there. It's...good."
+
+Lester perked up, his eyes widening, "You noticed the orange peel?"
+
+I nodded. Lester grinned ear to ear as he shoved Isa, "I told you. It's delicious."
+
+I peered between them, "Wait a minute, did you make this?"
+
+Lester's chest rose, "I did. Since Schema came around, everyone has forgotten what a good brew tastes like. I figured someone had to remind them."
+
+I stared down, noting the strange cards they played with. They were rough around the edges, cut by hand most likely. On top of that, they had a signature style on them. I turned to Bryan,
+
+"And you made this card game?"
+
+Bryan leaned back, overwhelmed that I noticed, "How...how did you know?"
+
+"Your runic carving and the lettering on the cards were the same styles. I put two and two together."
+
+Isa coughed into her hand, wobbling a bit, "Ahem, we didn't come here to tell you about ourselves. Or did we?"
+
+I smirked, "It looks like you guys came here for reasons unrelated to work."
+
+"Uhm. Yes. We did. Now that you're here, we...we can handle it though. So, we're handling it. Right now..." She blinked, "So your golems. They are good. Good."
+
+Man, she was trying to keep her shit together, but it was hard to not laugh out loud. I covered my mouth, trying to look thoughtful,
+
+"Mh, hmm."
+
+"So...We thought, 'Hey! Why not get someone to help out since the golems worked so good.' So...I figured why not start that conversation before I forgot about it."
+
+She frowned, reaching out her hands, "And then you're here...like...thirty seconds later. I mean, like shit. Wow. Fast."
+
+Bryan laid his head down, snickering while Lester kept on his poker face. I nodded, and she continued,
+
+"So we called over a good engineer buddy who wanted to work on golems. He finished his other contract a week back...and he wanted to work on something new. I put two and two together, and I got four...which was him working with you."
+
+I raised my eyebrows, "Who is the guy?"
+
+"He'll be here...in like thirty seconds...Not guildleader seconds, though. It'll be normal seconds. Guildleader seconds are, like...fast."
+
+Behind me, the saloon doors opened. I turned around, finding Diesel of all people stepping into the bar. He changed his outfit from before, the military fatigues gone. He wore multiple satchels and backpacks on him, draped with eldritch leather belts. He looked like a tinkerer who didn't have time for a desk, so he brought his desk with him wherever he went.
+
+I spread out my arms, "Hey, it's good to see you, man."
+
+Diesel did the same,
+
+"Hey Daniel, it's been a while."
+
+We gave each other a quick hug before I turned towards Isa, "So this is the guy?"
+
+She looked between us, confused as could be, "Wait a minute...Diesel, you know the guildleader?"
+
+Diesel scratched the back of his head, looking down, "I do, I do. He and I met when I was still a part of the Steel Legion. We were prepping to take down Yawm, I think. I helped design Althea Tolstoy some cannons, and I still help her out from time to time these days."
+
+He pointed at me, "We catch up from time to time, but we're both busy."
+
+Bryan gawked at us as if we were aliens,
+
+"I...Why didn't you ever say anything, Diesel?"
+
+"Because there was never a reason to...Besides, I don't like to brag. It's not my thing."
+
+I turned a palm to Diesel, "So you like to work with golems?"
+
+Diesel winced a bit, "Uh, how do I say this. I have a lot of theories about them, and I'm very curious to learn. I've been pretty close to the dungeon clearing corps for a while now, so I let them know about what I wanted to work on next. They said they had a big client who was interested in golems, and they could hook me up with some more work."
+
+Diesel raised a hand, "I'm not an expert. Hell, I'm not even a beginner, honestly."
+
+"What? Nonsense. I've seen your work before. You're damn good, and I could use the mental muscle." I pointed at the three people sitting down,
+
+"This was a good idea. Keep it up, guys."
+
+They stared at each other in disbelief, each of them shocked that this complete shitshow of a meeting worked out. Isa puffed her chest out while smiling, "Hah...told you guys. Yup, good ideas."
+
+I pointed outside, "Diesel and I can talk this out and try to match schedules. You guys enjoy yourselves and your time off. You've earned it."
+
+Isa turned towards Bryan as if I'd already left, "Can you believe that worked?"
+
+Bryan shook his head, wobbling a bit. Isa leaned back, "I mean, I can't."
+
+Bryan shook his head again, wobbling more. Isa looked at Lester, "What about you? Do you believe it?"
+
+Bryan shook his head again before falling over, passing out. Diesel laughed as we walked out while I shook my head. Eh, I'll admit I had a grin on my face too. As we walked, Diesel pointed at the bar,
+
+"You know, they designed and made that place from scratch. Isa's really into decorating, so she made the place. Those two helped with the other stuff."
+
+I nodded, "Bryan designed the card games, and Lester brewed the drinks. They make a good combo, and I can see why they work so well together. It's nice to see people settling down and finally making places like that again."
+
+Diesel raised a fist, "You're the reason, sir."
+
+I shook my head, "I honestly don't think so, but I'm trying to help out now that I have some time to myself. See, that's why I've been making these golems out on the edge of Mt. Verner. They're supposed to handle dungeons for people so that they can focus on making cool bars instead of killing monsters."
+
+Diesel stared out in the distance, "Ah, man, that's the dream. I know after I finished that contract with the vehicle and power armor designs, I wanted to try something more magically inclined this time. I still didn't want anything too far from my engineer roots, so I figured golems were a good first step."
+
+I frowned, "You know, maybe. For most people, golems would probably be a particular, arduous field. They're very conceptually demanding."
+
+Diesel cupped his chin, "How so?"
+
+"Well, you have to plan them out from start to finish. Golems don't work as well with tinkering. That puts a lot of people's problem-solving methods and throws them in the gutter."
+
+Diesel frowned, "Ah, so they can't use trial and error? That is tricky."
+
+"Hmm, technically they could, but that requires a tremendous amount of time and resources compared to other fields. You're much better off finding the flaws in the design before making it."
+
+"That sounds more like making houses than I expected. You can't make many mistakes in those. Otherwise, people might die in them. Fortunately, that kind of thing is my specialty."
+
+"That's perfect for what I need," I said while I pointed at Diesel,
+
+"I know you're probably tired and all, so when would you be able to work?"
+
+Diesel shook his hands, "I actually just got up. I haven't been leaving the mountain much, and my work doesn't require me to get up at any certain time. My sleeping schedule's gotten way out of whack because of that."
+
+I raised a fist, "Hell yeah, keep it that way. We can get started right now."
+
+Diesel's eyes widened, "Right now?"
+
+I gave him a thumbs-up, "Yup, right now."
+
+We made our way towards the edge of Mt. Verner, Diesel struggling to keep up,
+
+"How do you make this hike every day?"
+
+"I fly."
+
+"Oh yeah...You can do that."
+
+I lifted him with gravity, "I can float you over next time if you'd like. It'll save us time and energy."
+
+Diesel leaned back, "Please, and thank you."
+
+We reached the golems, finding them resting in their usual spots. After awakening them from their slumber, Diesel inspected them and how they worked. We discussed a lot of the details involved with their designs, how I made them, and my blueprints for their consciousnesses.
+
+In general, Diesel was impressed, but he radiated a slight disappointment. That disappointment grew with time, and after a while, I crossed my arms,
+
+"Alright, Diesel, what's up with that constant look of letdown over your face? It's like someone shit in your cereal."
+
+Diesel coughed into his hand, "I, uhm, it's nothing."
+
+I frowned, "I'm asking for honesty here."
+
+Diesel cleared his throat, "Ahck hem...Ack...Ack...hem...Okay, so these are great models, especially considering they're your first ones."
+
+"Those are the fourth versions of them."
+
+Diesel gave me a slow nod, "Oh...ohhhh. So, these are impressive still, it's just...I thought that you might have accomplished more than this considering who you are."
+
+"Wait a minute. Are you saying my golems suck?"
+
+Diesel waved his hands, "What? No. Noooo. Not at all."
+
+I looked at them, "Eh, maybe they do. I know I've been struggling with this whole process the entire time. I've got great resources, but maybe I'm just not cut out for this."
+
+Diesel waved his hands, "You're great at making the runes and the carvings. The materials are amazing too. I don't understand where you got all the steel for these things."
+
+I tapped my chest, "From a reliable source."
+
+"I believe you there. Anyways, you've got a few skills for this, but you need a planner or a designer to really take this to another level. I think I can do that with a bit of time to make it happen."
+
+From a backpack on his side, Diesel pulled out a sheet of blue graph paper, standard blueprint grade. He spread it out over the ground nearby, and he took a pencil out of a satchel on his side.
+
+"Okay, let's get started. Can you hand me the blueprints you used for your golems? They'll help act as references for these new ones."
+
+I tapped the side of my temple, "They're all in my head."
+
+Diesel sighed, "Oh boy...It's going to be a long night."

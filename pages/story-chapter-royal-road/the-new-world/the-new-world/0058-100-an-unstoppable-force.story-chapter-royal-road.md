@@ -1,0 +1,109 @@
+---
+id: eb06dccd-7918-5169-a62e-8b9fd7dc0dcd
+page-type-slug: story-chapter-royal-road
+title: "100 An Unstoppable Force"
+slug: 0058-100-an-unstoppable-force
+partOf: the-new-world
+position: 58
+ownLength: 2122
+unit: words
+ownProgress: 2122
+publishedAt: 2018-02-13
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/194331/100-an-unstoppable-force"
+royalRoadId: "194331"
+markedReadAt: "2026-06-29T21:22:49.472Z"
+---
+
+The confident smile on the mouths vanished. I dashed towards the monster, adjusting my approach. Kessiah shot out a lightning fast straight at my face. I sunk into the earth as I spun on my heels. Without having to even duck, I slid under the punch by sinking into the ground.
+
+I slammed my fist into Kessiah’s stomach. It rattled my fist before Kessiah kicked at my legs. Using my overcharged runes, I jumped upwards. Kessiah’s kick glided past my feet as I grabbed her helmet. I dragged her up with me before slamming her into the ground.
+
+As we landed, giant slabs of earth upturned as a pit formed beneath us. I stood over her with her back against the ground. Keeping composed, I kept my elbows tight against my sides. With quick, controlled strikes, I sliced three hooks against her jaw. Her head whipped back and forth against the ground before she reached out.
+
+I leaned back just enough, her clawed hands scraping my armor. As her arm pulled back, I shot forward, pummeling two more hooks into her jaw. She reached out with her right hand towards my neck, but I sidestepped her grab. With her arm reaching up, I countered with a right straight. It slammed into her face as she howled in frustration,
+
+“Why can I never hit you when we fight?”
+
+I ignored her, gaging my range as I dashed in and out of her grasp. She raised her hands and slammed the ground. A wave of dust and chips of stone billowed out. It might have stopped me a 1000 levels ago, but that was no longer the case.
+
+I covered my eyes and ears with armor, using my gravitational sense in place of sight and hearing. I stomped her chest three times before she flailed her arms in frustration. Based on her her mouth moved as she did, she was screaming obscenities. I couldn’t hear her. I focused on the task at hand. I slammed strike after strike against her, whittling her down over time.
+
+After several minutes of literally beating her into the ground, I stomped her neck. A shockwave ushered forth form her, pushing me back. She stood up, the eldritch armor smiling.
+
+“She has succumbed.”
+
+I analyzed her,
+
+Kessiah Crow, the Flesh Golem(lvl 3143) - The tiny bits and pieces of the Endless Flesh lingering in Kessiah’s body have taken control of her mind. In order to use Kessiah’s Blood Arts, the Endless Flesh hasn’t assimilated her. This means the eldritch can use its rapid regeneration as fuel for Kessiah’s Blood Arts.
+
+Fortunately, even rudimentary combat techniques aren’t within this monster’s arsenal. It’s strength, speed, and power are all extremely high, but it doesn’t have the skill to use them. Sacrificing its high regeneration for Blood Arts also makes it susceptible to prolonged combat.
+
+The host, Kessiah Crow, can also create instability in the monster’s combat patterns. These limitations lower the danger level of this eldritch. At your current combat level, this enemy will surely kill you regardless. The gap in levels and attributes is simply too high. Evasion is advised until you’ve strengthened yourself.
+
+Something I learned early on about Schema’s advisories are that they are like carpet bombing. They don’t consider my history, my armor, not anything important. The warnings are based on what I specced points into and my level, nothing else. Based on my own performance, killing higher level creatures was expected. This fucker would be no different.
+
+So without fear, I kept myself tucked in and tight as I paced towards Kessiah. She bulleted towards me, the ground cracking in her wake. I couldn’t keep up as she slammed her fist into my stomach.
+
+The ground beneath us quaked with a great rumble as I shot backwards. The air spiraled around me before I hit it. I adapted, piercing my fingers and feet into the ground. I dragged backwards, momentum carrying me a block further away. Kessiah already enlarged in my sight as she charged towards me.
+
+Ready for impact, I planted my feet. There was no running away. Hod might be dead in a nearby house. Torix laid face down in the dirt, his unconscious body not even breathing. We weakened the eldritch with our fights, but it would feast on the planet if I left it unchecked. The next time I faced it, the monster would be unstoppable.
+
+My only answer was to become unstoppable first. The monster was only so fast. It was only so strong. It was like a child given the body of a god. I didn’t need to be faster than it. I needed enough speed to counter, duck, and dodge around is.
+
+The last strike almost hit me faster than my senses could perceive it. In the back of my mind, there was a tiny weakness in my foe. At the very edge of my limits, I could’ve dodged that strike. At the horizon of my current potential, victory was within my grasp.
+
+This was not impossible. It bordered on impossible, but it only skirted that line. I needed focus. I needed to dig deep and pull out all the stops. Every advantage, every skill, every second of my last year of life boiled down to this. I fought hard every day for this single opportunity. If I slacked off anymore, I wouldn’t have the skills I needed for winning this.
+
+But I had put in the time. I had put in the effort. I grounded myself, rooting my mind in a firm belief that I could and would win. All these thoughts passed in a moment before Kessiah reached me. With that absolute conviction, I was ready for her charge.
+
+And so, she came.
+
+Like a tidal wave, she crashed towards me. Straining my senses, I demanded they react faster than before. I overworked my body, commanding it move in time. Kessiah punched for my gut once more, but I countered her.
+
+It took all I was. Nothing else existed in my mind but that single moment. Every part of my body, from my fists to my feet, worked with a brutal grace. I shifted myself, my hand colliding into her face. The force flowed from the my knuckles to my shoulders and into the ground.
+
+I pushed on a telekinetic pad under my feet, extending the grip of my feet. The gravity warp and telekinetic augments formed as my fist made contact. My body blew backwards into the pad under my feet, like punching into a wall. The telekinetic panel under my feet pushed back, keeping the force going into Kessiah’s face.
+
+It was like a beautiful orchestra of absolute violence. My striking synced together, like notes syncing with a rhythm. I wasted not even an ounce of my limitations, like a symphony blaring out without a single wasted sound. I reached for the totality of my magic and might.
+
+An ounce more of force on my bones, and they would break. A single drop more of mana channeling into my runes, and they would snap. A single crumb more of stress on my telekinetic augments, and they would shatter. By some unknown method, I reached the brink of what I could do.
+
+It was like walking on a tightrope. If I pushed myself any further, then I would break. If I pushed myself any less, then this monster would kill me. The margin of error was inhuman, yet I walked along the razor’s edge.
+
+With everything lining up, a large, circular patch of the ground around me sunk a foot deep. It was from the force of my feet slamming into a widened, telekinetic pad. All of that energy dispersed straight into Kessiah’s face.
+
+The potency of my strike was palpable. Kessiah’s head whipped backwards despite the eldritch and her Blood Arts. A bit of blood leaked from a scrape on her face on one of the eyes spread across her face. The black metal around that eye expanded into bruised skin.
+
+The eldritch grabbed the side of its face. It looked at the blood on its hand,
+
+“How?”
+
+I dashed towards the monster, interrupting its question. It swung its right arm towards me, the speed scorching the tip of my face. I dipped underneath it, ducking, molding the strike over my head with my armor, and sinking into the ground all at once. The blow left a strip of cleaved armor, but made no meaningful contact.
+
+The eldritch sliced diagonally at me with the same arm. I shifted my weight on my heels, balancing as I bent away from the strike. With my body bent, around the blow, I drove a right hook into her jaw. It was a pristine strike, a satisfying crack ebbing from the contact. No matter how she struck at me, that continued.
+
+Like a river flowing around stones, I weaved around her strikes. I felt like an artist painting his masterpiece. Except instead of paint, I worked with violence. I was graceful as a dancer and brutal as bloodshed. I flowed like water and struck like lightning. I was a moving ball of death, grinding the armor from Kessiah’s skin.
+
+The monster thrashed with might and malice, the power of storms in each of its blows. I was more than a storm. I was an unstoppable force. This was my domain. I molded the battle as a sculptor molds his creation. I composed the battlefield as a musician composes his magnum opus.
+
+It was like something clicked. With every passing second, my confidence grew. My mind expanded, the movements becoming simple. Even as I completed the most difficult, aerobatic maneuvers, I relaxed deeper into this state of mind. It wasn’t that I didn’t respect my enemy. I did.
+
+It was that I comprehended my physical and mental limits to perfection. This abomination in front of me, as close as it was, lied within those limits. Every few minutes, a cataclysmic blow from the eldritch would strike my side. By the time another landed, I already regained my footing.
+
+Time ceased existing in my head. My mind went blank. It was like I had been trying to break a world record for years. All of the sudden I tripled it, and now instinct was taking over. Even with my heightened senses and willpower, I could only handle so much stress before collapsing. With each passing second, I approached that threshold.
+
+Closer and closer, the point of ruin came to me. The exhaustion built in my head. Every thought was like trudging through a swamp of mud. I struggled on in desperation, the minutes blending into hours. The haze around my head thickened, clogging my senses. Blood like mercury dripped down my nose.
+
+My eyes were bloodshot, but silver lines ran across my eyes instead of red ones. It felt like I had taken a life or death exam for days without sleep. As my mental acuity waned, I dodged fewer and fewer strikes. The punishment built, my body breaking down as I pushed through. My hp dwindled, along with the pain.
+
+By then I wished for pain. It let me know I was still alive. Even now, I can’t remember who stopped punching first. I think it was me. It doesn’t matter. I was the last one standing. After one of us lashed out with a final strike, Kessiah collapsed beside me.
+
+Beneath me, the eldritch hid under Kessiah’s skin. I fell onto my knees, stabbing my hand into her brutalized body. With my armor, I found the eldritch laying within and devoured the energy. Once the last particle of eldritch was eaten. I took out my hands. I spread Event Horizon wide around me, avoiding any allies but blanketing every other inch of area.
+
+I left no eldritch behind. Injuries smothered me from head to toe. Blood soaked deep into the ground beneath my feet. I was a walking wound, a living bruise. I still stood, my knees shaking. I still lifted a fist over my head. I beat my chest once, the sound reverberating around me.
+
+I roared out. It was a primal, untamed howl. I blared it out for all to hear. It echoed across the city, like the rumbling of a storm. It was the call of something not quite human but not quite monster either. It was the thunder of my victory. It was a promise.
+
+I would never shake in fear at Yawm. I would never shake in fear of anyone. Whoever tried dominating me would falter and fail. I would turn that terror against them. Whether a god or legend, they would tremble at the sound of my footsteps.
+
+I would teach them fear.

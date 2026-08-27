@@ -1,0 +1,169 @@
+---
+id: 14ab323b-bdda-5d5b-8b30-480534dfd5c6
+page-type-slug: story-chapter-royal-road
+title: "Chapter 57 – Beetle Trial"
+slug: 0057-chapter-57-beetle-trial
+partOf: the-magpie-and-the-archmage-monster-evo-litrpg
+position: 57
+ownLength: 2044
+unit: words
+publishedAt: 2025-12-06
+link: "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2823613/chapter-57-beetle-trial"
+royalRoadId: "2823613"
+---
+
+Liora couldn't believe her eyes. For a moment, she thought that she perhaps was dreaming, because of how little sense it made. But unfortunately, that wasn't the case. Somehow, for some weird reason, Damien Stolte, the pompous, rich blond, had joined their party.
+
+When Liora returned from her scouting, Serena had already agreed for him to join them. She suspected that the woman was too kind, even towards scum like Damien. Perhaps she even felt guilty that he had been thrown into jail. Liora didn't feel even a little bit sorry for him. The moment he joined them, he announced that they would depart, trying to take control of the party.
+
+"Caw!" Liora screeched into his ear.
+
+"Ah! What the hell?!" He jumped, reaching for his sword. But when he saw it was Liora, he narrowed his eyes. "You! You're the bird who keeps mocking me in the Guild Hall!"
+
+"Keeps mocking me!" Liora repeated in his screechy voice.
+
+"Liora, come here!" Serena outstretched her arm for Liora to land on, and she obliged. Nonetheless, she kept looking at the blond man.
+
+"You see that!" Damien said, pointing at Liora.
+
+"She's not mocking you. That's what magpies do. They repeat stuff," Kiva shrugged.
+
+"They repeat stuff," Liora repeated in Kiva's voice.
+
+"Yeah, there's no reason to get mad," Kalen added.
+
+"Get mad," Liora mocked, staring at Damien. If he was insisting on sticking around after acting like a complete ass, then Liora was determined to make his stay unpleasant.
+
+But she also couldn't help but admire his nice equipment. His armor was polished and shiny. Liora obviously wouldn't be able to wear it, but it would certainly be a nice addition to her collection. She wondered if perhaps there would be an opportunity for her to snatch it.
+
+Don't.
+
+What?
+
+I know you! You want to steal his shiny armor, don't you?
+
+Not right now. Maybe on our way out.
+
+Don't! If his father is powerful enough to summon one of the pillars for a case of theft, then it's obviously someone you shouldn't be messing with.
+
+He won't even know what struck him.
+
+He will! So don't you do it.
+
+Alright… If we get a nice shiny in the dungeon. It's been too long since I got a new shiny. My hoard is abysmally small.
+
+What about all the glimmerstones?
+
+Every good hoard needs variety.
+
+She could feel annoyance radiating from Renir, but Liora wasn't going to back off when it came to shiny matters. She needed to expand her treasures. Being with Serena already limited the amount of glimmerstones she gained. With Damien joining the party, she'd be getting even fewer glimmerstones. She needed recompense for that.
+
+"So where are we going, Liora?" Serena asked.
+
+Liora flew to one of the trees, thus indicating a direction. When she flew back to the group, Liora determined the safest way back with the least amount of enemies on their part. She also noted that there were chests in a few locations, but those were usually surrounded by a horde of monsters. She'd try to defeat those separately from others.
+
+By her estimates it'd take the group about two days, maybe three if they got in unexpected fights, until they got to the badger. Humans were incredibly slow after all.
+
+"We're seriously going to follow a bird?" Damien asked, looking offended.
+
+"You're welcome to go on your own," Kiva retorted.
+
+Damien clenched his fists. It was clear that he would love nothing more than to punch Kiva in her face. But somehow he held himself back. Liora had no clue what. Was it really so important, even for this arrogant bastard, to travel with a party? She understood why Serena, Kalen, and Kiva chose to travel to a party. They worked well together, complementing each other and covering each other's weaknesses.
+
+But this guy had such powerful armor that covered him from head to toe. Surely he wouldn't get injured, no matter how hard the monsters tried to bash him. As long as he could stab them with the pointy end of the sword, he should be fine.
+
+Then again, humans were incredibly flimsy. She, as a bird, was stronger and a better fighter than they without any fancy equipment. Sure, she had her flight, but she was physically much more fragile than they were. This just made her glad that she hadn't been reborn as a human. She'd be a helpless toddler then.
+
+The group followed Liora through the bioluminescent pine forest, scanning the surroundings. Obviously, they couldn't really see much, but Liora appreciated that they were trying. She, however, saw that the path forward was blocked by a group of monsters that were set apart at intermittent intervals. No doubt the dungeon master's doing. Kiva perhaps could sneak past the monsters, but the others weren't sneaky enough. They'd have to fight.
+
+Which monsters are weaker? I see goblins, some weird overgrown beetles, and the weird deer with six legs.
+
+Beetles. Deer are not tough but very quick. Definitely not goblins. Always try to avoid goblins if you can.
+
+Beetles it is.
+
+Liora turned towards the beetles, but not before lying up to Serena. "Monsters."
+
+"Prepare your weapons. There are monsters ahead," Serena said in a hushed voice.
+
+"Can't your bird lead us around the monsters?" Damien hissed.
+
+"Can't. Lead," Liora said firmly.
+
+"Stupid bird!" He snarled.
+
+"You stupid," Liora retorted.
+
+"Do you seriously have to fight with a bird? You promised to protect us. Get that shield of yours then!" Kalen snapped.
+
+It looked like Damien really didn't want to listen. He opened his mouth, preparing for an argument, but Serena gave him a stern look, and he shut his mouth and got his shield ready instead.
+
+Liora would have loved nothing more than to lead the charge with a powerful Skypierce on one of the beetles. But the fighting prowess was greatly reduced while in disguise. Her best tactic here was to provide support, so instead she launched a Poison Slash at a beetle, using the potent snake venom.
+
+However, in her Magpie Disguise, the Poison Slash was too weak to get through the beetle's thick carapace. Instead, it let out an angry hissing noise and flew straight at Liora, making a horrible buzzing noise. Almost like a drone.
+
+"Pick on someone your own size!" Damien called out, much to everyone's surprise.
+
+He rushed to the front of the group and slammed his sword against the shield, making a horrible, loud noise. Liora realized that he must be using a taunting skill of some sort, because suddenly all four beetles buzzed into the air and flew straight at him.
+
+He held his giant shield firm, letting the fastest beetle crash against it. Then the second one crashed into him, and then the third. But surprisingly enough, the blond man stood firm, enduring their hits.
+
+"What are you waiting for? An invitation? Attack them?" Damien barked.
+
+Serena was the first one to snap out of her surprise. She raised her staff and launched a fireball at one of the buzzing beetles. It didn't like that, letting out an angry screech as its delicate wings caught fire. They burned up in a matter of seconds, making the beetle crash to the ground. But it was far from defeated.
+
+The beetle made angry hissing noises with its carapace and rushed towards Damien, this time aiming for his feet. He was wearing impressive metallic boots, but the beetle had ginormous, sharp-looking pincers. Liora wouldn't be surprised if it could just bite through it.
+
+Kalen, however, had already caught onto the problem and was rushing towards the wingless beetle with his sword drawn. He struck the beetle's pincers, creating a loud clanging noise. What were those pincers made from? The beetle didn't seem deterred at all.
+
+While Kalen clashed with the beetle on the ground, Serena was aiming her fireballs at the still flying beetles. They buzzed about, dodging and weaving out of the way. Kiva, too, had joined the fray with her arrows, but they were largely useless, bouncing off the tough carapace. The insects were careful not to reveal their squishy underbelly.
+
+Once Serena's fireballs got too insistent, the remaining beetles landed, opting to use the protection of their carapace's rather than flight.
+
+Do you know the weaknesses of these guys?
+
+I just burned them to a crisp. Serena seems to be holding back—probably worried about setting the whole forest on fire.
+
+Did you always just go into battle, magic blazing? No subtlety whatsoever?
+
+Who needs subtlety when you have every magic at your disposal!
+
+Liora had a strong urge to throw Renir at the beetle's pincers and see what happened. But obviously, she couldn't do that. She needed to damage these beetles, but her Magpie Disguise was too weak. Air Slash could get through their shells.
+
+Then an idea struck her. She didn't need to do a lot of damage. A small crack would suffice. She could inject her poisons into it and wear the beetles down slowly. All while maintaining her disguise.
+
+She flew high up, way out of everyone's sight. She registered Damien, grumbling that the bird had abandoned them. But she would show him just how useful this bird could be. She chose a beetle occupied with Damien's shield, and then dropped. Gravity pulled her down while she plummeted down, concentrating on combining Skypierce and Poison Shot. But she was trying to direct the skill, not to shoot the poison, but rather have it disperse after impact.
+
+Liora collided with the beetle, earning a loud, pained screech from it. The moment she heard it, she allowed the poison to flow. It was messy—it went everywhere, and had her beak been open, it would undoubtedly get inside it. But her beak was closed, so she just got some residual snake venom on her face and feathers.
+
+The crack she made in the beetle's shell was tiny—the damned thing was tough. However, before retreating to safety, she clearly saw her poison seeping inside the beetle. It convulsed, thrashing wildly and trying to scrape at the injury with its front legs.
+
+"What did the bird do?" Damien asked in surprise.
+
+"Poison! Leave that beetle be. It's as good as dead. Focus on the others," Serena commanded, letting out a fireball at one of the beetles. One of its legs was already burned off, and with each hit, Serena was weakening it more and more.
+
+Kalen, meanwhile, struck another beetle. Instead of trying to slash it, he concentrated his hit into the blade's tip, trying to pierce the tough carapace instead. It worked. Sort of. The blade didn't go deep, but it had made a small hole. Liora took advantage of this opportunity and used Poison Shot straight at the wound.
+
+[You've assisted in defeating <Cave Beetle – Level 14>. Experience gained.]
+
+Liora expected that the first beetle she had poisoned had died, or perhaps the one that Serena had been scorching. Much to her surprise, she saw Kiva sitting on one of the beetles. It was flipped on its back, its legs severed, while the weasel girl had plunged her daggers into its soft underbelly.
+
+"The first kill is mine!" Kiva exclaimed victoriously.
+
+Finishing the remaining beetles was just a matter of time. Kalen and Damien followed Kiva's example and cut off the limbs of the remaining beetles while Serena scorched them.
+
+[You've assisted in defeating <Cave Beetle – Level 13>. Experience gained.]
+
+[You've assisted in defeating <Cave Beetle – Level 16>. Experience gained.]
+
+[You've assisted in defeating <Cave Beetle – Level 15>. Experience gained.]
+
+"Not bad," Damien commented. "I expected worse."
+
+"Could say the same about you, pretty boy," Kiva noted.
+
+But while the group was bantering and celebrating their victory, Liora was already searching the beetles for glimmerstones. Each beetle had three, and by the end of it, Liora had gathered twelve. But there were five of them. How would they split the loot?
+
+"Did that bird take all the glimmerstones?" Damien pointed at her holding one of the glimmerstones, which she stashed in her Inventory.
+
+His eyes widened as he saw the glimmerstone disappear. At that moment, Liora realized that she had screwed up. Magpies weren't supposed to have an Inventory.

@@ -1,0 +1,297 @@
+---
+id: 48a45016-bfa0-55ea-af27-4cd329e5bcd5
+page-type-slug: story-chapter-royal-road
+title: "73 What Lies Beyond"
+slug: 0030-73-what-lies-beyond
+partOf: the-new-world
+position: 30
+ownLength: 4979
+unit: words
+ownProgress: 4979
+publishedAt: 2017-11-09
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/173228/73-what-lies-beyond"
+royalRoadId: "173228"
+markedReadAt: "2026-06-29T21:21:46.991Z"
+---
+
+I shook my head, thinking up what my speech would be. Introducing myself would be an excellent way of gaining some favor. I could mention how I’ve slain enemies hundreds of levels above me as well. Setting myself up with some expertise helped validate what would follow.
+
+After that, discussing how life has changed would be a good topic to touch on. Since Schema came over, life devolved for most people. That’s probably the most demotivating aspect of fighting Yawm. Even if we win, many family members are gone, and life won’t be the same. Ailing those concerns would help these people move forward.
+
+Painting a picture of a better tomorrow would help them more than anything. Just like with Althea, I can mention how life on other worlds sorted itself out. The dungeons are taken care of, allowing people to pursue other, less violent careers. I could mention how we will be hailed as heroes, a generation of warriors that took on the worst of the worst. That would be a good way to end the speech.
+
+With that in mind, I spread out my arms,
+
+“Hello, brothers and sisters.” Adding a bit of familiarity couldn’t hurt. It would make them think of me as one of them.
+
+“I am the Harbinger of Cataclysm. I’ve slain eldritch hundreds of levels above me, and I serve as the disciple of Torix Worm. Torix killed your commander and took over your organization. You no doubt are wondering why.”
+
+I pointed at the looming cloud of gray, “Yawm of flesh, the eater of worlds is why. Soon, his insects will bore holes into you. They will wear your skin and move your bones as if you were puppets. We aim to stop them.”
+
+Alright, my introduction was over. It was time I showed them some understanding.
+
+“No doubt you’ve all seen how devastating he is when he remains unstopped. You’ve lost loved ones, children, and your previous lives. No more can you enjoy a Saturday morning without glancing over your head, making sure a monster isn’t hunting on the horizon. These are dark days. I would know. I lost all my friends, my family, everything.”
+
+I clasped my hand, glancing around at the crowd, “I was distraught. I thought to myself time and time again, what can I do from here? The first answer was revenge. I would make the monsters who struck terror deep into my bones feel the very same fear. I would become a monster among monsters. That goal left this abominable visage before you.”
+
+I gestured my hands with each point, painting a picture as I continued,
+
+“Over time, I found there was no future in that darkness. It was an abyss, a pit with nothing but black at the bottom. That’s when I looked up. The light I saw was a new goal – to rebuild. I learned of worlds were dungeons were handled. Not everyone needed to fight. You could have a family. You could make a new life in this new world.”
+
+I spread my hands, booming my voice, “But that life is no sure thing.” I pointed at the cloud of gray, “That behemoth aims to steal that life from you. He aims to kill your children, murder what family and friends you have left. He aims to steal the life you’ve scraped together. Follow me and my master, and we will tear him asunder.”
+
+With more animation, I moved my eyes to meet the eyes of soldiers as I spoke, “Generations after us will sing our name as the greatest generation. A generation of heroes. A generation of tenacity. History will speak out our names. Tell me, will history remember us as the fallen, or, as the unbroken and unstoppable?”
+
+A roar rippled through the crowd. I nodded, grinning, “That’s right. We are a coming storm, a living force of nature. We conquered plagues, the elements, even each other. Do these monsters stand a chance against something like that? I think not.”
+
+I paused for another moment before thundering my voice out, “These things, we can see them. We can rip and tear them apart. We’ve killed viruses that melt our skin. Monsters we can see? The might of humanity will shatter them. Remember this. We did not have the misfortune of meeting the eldritch. The eldritch had the misfortune of meeting us.”
+
+The crowd gushed with sound, their howling like an emboldened mob. Pride took them, spurring them into a frenzy.
+
+Unique skill unlocked! The skill Listening, Intimidation, persuasion, Leadership, and speechcraft fuse into the skill Words of Strength. Half of remaining points in every skill are rewarded as tree points. +222 tree points.
+
+I raised a fist, “Let’s show the eldritch who the real monsters are.”
+
+The last wave of thunderous outcry coursed through the crowd. From behind me, Torix and Althea clapped as the amplifying magic subsided. Kessiah crossed her arms,
+
+“Not bad.”
+
+I nodded while smirking with surprise glee, “Yeah, I surprised myself there. It was a lot like motivating myself.”
+
+Torix nodded, “Indeed. I anticipated utter failure. It’s almost a shame.”
+
+I frowned, “Thanks oh wise master.”
+
+He shrugged with a knowing grin. Althea chimed, “He did say almost.”
+
+I sighed, smiling despite the close call, “I’m just glad this shit’s over with. Waiting for this trip was killing me.” I glanced at the gray cloud of Yawm, “It’s been a long time since I’ve felt anxious about anything.”
+
+Althea locked her hands behind her, “The future can be scary sometimes. Facing it makes it less terrifying.”
+
+I raised an eyebrow, turning to her, “You sound like you heard that from someone both handsome and intelligent.”
+
+Althea rolled her eyes, but she smiled nonetheless. Torix clapped his hands, “Enough chatter. We have a portal to enter.” He turned to me, “Assuming you’re ready?”
+
+I shook my head, “Naw, I’m not. I need to pack. I got caught up training with these two.”
+
+He nodded his head, “Then we’ll meet back up at my current headquarters an hour from now.”
+
+Torix grabbed towards the blue sky, pulling his fist downward. The pillar of earth we stood on sunk back into the ground, dispersing into a slight hill. Around us, the steel legion buzzed with energy. They lacked direction, but Torix walked up towards them to fix just that,
+
+With his voice amplified, Torix spoke out, “I’ll be sending each of you progress goals soon. Before the harbinger returns from his mission, we must complete them. Understood?”
+
+He put an edge of the Words of Power skill into his voice, driving the point into their heads. His own use of the power was damn near physical, making the command drill into your skull. It was like someone hammering a nail into your temple.
+
+Compared with the slight edge in my voice, I didn’t come close. He didn’t bother with milking the skill like I had too. Just his command was enough to compel action. Taking note of that, I paced back towards my tent. About fifteen minutes into packing, a pile of stuff formed in front of me. Toilet paper, coffee grinds for when I wanted a cup of joe, pots and pans, I didn’t have room for it all.
+
+As if sensing my distress, a tapping snapped across my tent. Walking over, I unzipped the tent. Kessiah grinned at me. I zipped the tent back up without saying a word, but she stopped me. She met my eye, a piercing sincerity laced there. She frowned, the intensity fading,
+
+“I uh, well, I wanted to give you something before you left.”
+
+I raised an eyebrow, still suspicious of her intentions, “What is it?”
+
+Between two of her fingers, a steel ring was between them. She grinned, “It’s a spatial compartment ring.”
+
+I unzipped the tent, letting her walk in. She scratched the back of her head, “I figured it would make my apology sound more uh, sincere.” She stood up straight and sighed. She met my eye,
+
+“I’m sorry about trying to push myself onto you. It wasn’t fair. I was being pushy, and you still gave me the gift you promised even after I blew up on you. When you handed me the ring, I felt so bad. After seeing it was handmade and useful…fuck, I felt awful. I knew you deserved a real apology then.”
+
+She glanced away, “So, uh, sorry.”
+
+I pursed my lips, crossing my arms. I looked her up and down, holding her captive in suspense. After soaking the moment in, I uncrossed my arms and smiled, “Thanks for the apology, and it really wasn’t that big a deal. If it makes you feel better, Torix told me to make a conduit for one of you guys. It was supposed to ground me or something. I made that ring for that reason.”
+
+Kessiah rolled her eyes, “Oh yeah, sure.” She raised an eyebrow, crossing her arms, “Did the conduit have to be home made and useful?”
+
+I glanced away, “Well, no.”
+
+She slapped my shoulder, “My point exactly. Just accept the gift now.”
+
+I pulled it up, identifying the steel ring,
+
+Spatial Holder(lvl requirement: 500) – A rare ring given out by Schema for accomplishing a great mission or deed. It is one of three rewards, each of them used for different purposes. The spatial ring can hold the user’s weight in kilograms and the volume of the person. You can activate the ring by pulsing mana into it. Once activated, the ring grafts to the user. No one else will be able to access the ring even if you die.
+
+Your possessions will be funneled towards the nearest safebox if you die. Depending on your will, the items will be dispersed accordingly. In the instance of no will after death, the items will be auctioned off. Speak with any sentinel for the creation of a will.
+
+Mana cost per kilogram added: 1% of mana and health used per 1% of weight or mass cap used.
+
+Warning: Do NOT break open the ring and study it. Any tampering will result in an immediate S tier bounty and unknown status. Accidents will not be forgiven.
+
+I glanced at the ring in awe. As simple as it looked, the sheer usefulness of it seemed ridiculous. A ring like this would solve Althea’s ammo problem forever. After reading closer, the limitations came up. Since it was based on weight, Althea wouldn’t be able to store much.
+
+She didn’t invest into constitution. Althea’s reason was because it messed with her transformation abilities. Torix gave her the ok with her build, so there had to be some legitimacy to it. The mana cost was prohibitive as well. I could die if I tried putting a mountain or some shit into one of the rings.
+
+Clearing up some of my thoughts, Kessiah tapped the ring, “These things are great for classes like us. It takes advantage of our high constitution. Your health regeneration means you can store consumables or something like that too. Yenno, cause you regenerate so fast.”
+
+I nodded, “What about this bounty thing?”
+
+Kessiah blinked, “You mean the S tier bounty? Yeah, don’t fuck with the ring. Unknowns like us sit around with C tier bounties no matter what. There’s a world of difference between C and S tier though.”
+
+I frowned, “Like what?”
+
+She stretched out her right hand, “For C tiers, you’ll get the mid-tier bounty hunters. Their obnoxious, and a few of them can be dangerous.”
+
+She stretched out her other hand, “S tier bounty hunters send total monsters like Yawm running. That’s a classification for only the highest crimes, like killing a sentinel for instance. Yawm’s one of those bounties, and he’d be dead ten times over if he didn’t have a sentinel’s spear. Otherwise, the entire planet he was stuck on would already be glassed.”
+
+I winced, “Glassed?”
+
+She clicked her tongue, “Yup. It’s an easy way to send a big message. Yawm would be considered an S- tier criminal. I’m a C+. Torix is B-. You’re probably a C-.”
+
+I nodded, “Well shit…no wonder you and Torix want to get out of Schema’s system so bad. Immortal and always hunted, talk about a pain in the ass.”
+
+Kessiah crossed her arms, “Yeah, it’s not fun, but I deal with it. That’s why I came here, to find a way out of that bullshit.”
+
+She turned her eyes towards a wall of the tent. She wasn’t looking at the wall of the tent. It was one of those looks where your traveling through memories instead of observing something. She continued,
+
+“But nope. I end up trapped on this hellhole with a total beast named Yawm. Fun.”
+
+I shrugged, “I told Althea the same thing. You can look at it as a curse or an opportunity.”
+
+Kessiah glanced at me, her eyes turning hard, “Oh, really? Please tell me how me being trapped here is in anyway a good thing?”
+
+I raised a hand, “You could gain a Sentinel's rights.”
+
+Her eyes opened wide as I let the info sink in. I continued, “You can escape your bounty and unknown status with that. If you think about it, this is a golden opportunity, but only if you take it.”
+
+Kessiah pursed her lips, looking like she tasted something sour. A moment later, the expression faded. She nodded her head, a begrudging sound in her voice,
+
+“Huh…I suppose you’re right. That is a way out of this mess, and a way out of the rat race with Schema…Damn, I nearly forgot about that.”
+
+I raised both my palms beside my face, making a tunnel for my vision, “Keep it simple.” I tilted my fingers forward, “Never forget the end goal.”
+
+She nodded. She reached up her hand and ruffled my hair. She grinned, “Yeah, I’ll keep that in mind.” She glanced outside, “It’s about time I leave. Torix will bitch like there’s no tomorrow if I hold you up much longer.”
+
+I grinned, “Thanks for the ring.” I glanced at the pile of miscellaneous stuff beside us, “Perfect timing for the gift too.”
+
+She shrugged, “A thoughtful gift deserves one in turn, or something like that.”
+
+Kessiah left before I lifted the ring and placed it onto the middle finger of my left hand. I channeled some of my mana into it. Spikes of the gray metal pierced into my finger. Strings of metal slithered through my finger before grafting to the bone. For a normal person, the debilitating pain would crush them to their knees. Being familiar with the sensation, I only winced.
+
+Not from pain either. The feel of it was creepy. Imagine watching an assassin bug drain your blood. Sure, it probably won’t do any meaningful harm or even hurt. That doesn’t mean you want it to happen. I wouldn’t let something like that stop me from getting such a convenient device.
+
+Once it grafted to my bones, it retraced back into the ring. A glowing red line appeared, the same color as my mana, at the center of the ring.
+
+Coalescence finished. Access to 2850.8 kilograms allowed for Spatial Holder, C-137-Harbinger of Cataclysm.
+
+I couldn’t tell if I should be impressed or disappointed at my weight. Based on what it was saying, I should be able to toss a car around with ease now. It made me wonder what Kessiah could really do if she tried with her blood arts.
+
+I snapped those thoughts, willing the ring to open. In front of me, a ripple appeared. It was strange, something unseen shifting through my flesh and bones. Everything rippled, my armor and the space near me as the portal opened. Surrounding the ripple, a shifting portal appeared. Our reality bled into the portal’s edges, opening to a void.
+
+Surreal and unsettling, I grinned at the feeling. It was familiar. Whenever Torix and co. opened a portal into another dimension, this same bizarreness took over. Curious as cat, I pressed my finger into the void.
+
+My flesh erased. Even I felt the pain, causing me to wince. As I pulled out my finger, the white of bone and pale pink flesh looked back at me. A perfect cut was on my finger. As I pushed my weight into the portal, the portal used up my mana at the same pace. It turns out, the portal just becomes something that disintegrates me at the same pace as I enter it.
+
+Lesson learned, I let my finger regenerate. It took less than fifteen seconds. As I moved my finger, the portal moved with it. No matter how I turned my hand, it stayed several feet away from me. I could move my hands and limbs to it though. The mechanics of it felt weird as fuck.
+
+That’s how it worked though. After I finished toying with the portal, I packed over five minutes. I focused most of the weight on rations and some other miscellaneous survival stuff. By the time I finished, my time was up.
+
+I ran over to Torix’s place. As I did, thoughts raced through my mind. Why does tampering with the ring cause such a stiff penalty? It made no sense, unless Schema was trying to hide something about the ring. Besides that, the mechanics for how the ring worked seemed oddly specific. Of course it could be a natural limitation, but I doubted it.
+
+It was more like Schema didn’t want you crawling through the portal. Either that, or he was hiding something where he used his storage.
+
+I shook those thoughts from my head as I walked up to Torix’s house. As I reached up into the building, Torix turned up to me along with Althea and Kessiah. He gave me a hard look, but he continued giving his breakdown,
+
+“As I was saying, the rift you’re entering is here.”
+
+He pointed at a map of Springfield. It was in the eastern side of town, somewhere I wasn’t familiar with. It was on the other side of our camp too. Torix covered my concerns seamlessly as he spoke though.
+
+“This will be far and away the longest distance mission we’ve made. That will buy you and Althea time as you both develop your skills. Our lack of movement will alert them. Having most of our missions on this side of town will pay us back with surplus now.”
+
+He turned to Kessiah “As those two are gone, I will whip the legion into shape. I’ll need you to be a drill instructor of sorts during this time. I’ll focus on other aspects, like the logistics during the operation.”
+
+Kessiah looked like she was about to tell him to fuck off. She glanced at me, bit her lip, then turned back to Torix, “Fine. I’ll do it.”
+
+Torix’s head swung back, “Really?” Torix coughed into his hand, dismissing his surprise, “Ahem, thank you Kessiah.” He turned back to us, “You two have plans for your skills, correct?”
+
+Althea and I nodded. Torix gave us the ok before clapping his hands together,
+
+“Then let’s set off.” He turned to us, a gravity overcoming him, “You two…stay safe. It would hurt me dearly to lose either of you.”
+
+Althea bent down, blushing at the sincerity. I kept composure, but on the inside, I couldn’t help but feel a bit warmed. Torix walked over, taking two stones from his robe. One was red and the other blue. He gave Althea the red one and me the blue one. He turned to each of us,
+
+“The red is Aatrox and the blue is Kade. This will only work for about thirty minutes a piece. You will count as their summoners as well. Use these in your time of need.”
+
+Althea walked up and hugged Torix. Surprised at first, Torix grinned as he hugged her back,
+
+“Keep safe Althea. Remember what I told you.”
+
+She nodded, pulling away before Torix tapped his map,
+
+“Then it’s time to leave. Both of you, good luck in your venture. We’ll be ready to kill a follower when you come back.”
+
+I grinned, balling my hand into a fist, “We’ll be ready too.”
+
+Althea and I left, passing through the sewers. The colorful combinations of flowers and odd creatures melded into fanciful scenery. We passed it in silence, the pressure pressing down on us. Our mission clear, our minds ready, we passed by before reaching the destination thirty minutes later.
+
+I was the vanguard, stepping out of the sewer first. Around us were old, small houses. They could be nice, but neglect made them ugly, like a beautiful painting covered in mud. Trees grew in the yards, already unmowed before the apocalypse. That gave them a head start the other suburbs never had. It gave the place less emptiness though.
+
+More animals and wildlife thrived here. Less people fed the forests of Yawm, meaning more normal plants bloomed. Wildflowers grew along the edges of the roads. The cracks in the road, once a signal of being poor, allowed tiny blades of grass and flowers to peak through. What once was a symbol of being poor turned into something that gave it a second life.
+
+The spawns stalked the insides of buildings still. Caked on blood and sun-dried bones baked under the midday sun as Althea and I sprinted through the city. We kept under shadows, dashing from brush to brush. My telekinesis stopped me from breaking through the scenery like tissue paper. Althea moved in absolute silence. Even with my hearing, I couldn’t hear her. Her build suited secrecy and silence.
+
+It was a false silence built on the white noise of cicadas while we climbed up. This entire part of the town was built around a mountain. Once we reached the top of it, an enormous pile of sand was spread out over it. It was like the snow that dots the top of mountains, except heat and sand instead. The further up we went, the worse it became.
+
+Once we reached a few feet from the apex of the mountain, a gaping, black chasm stretched into the earth. Brooding and black, it was a void. No named or other members of Yawm were here either. Strange as it was, it sure was convenient too.
+
+We surveyed the area, checking for any hidden enemies. Finding none, we opened up our status screens and checked them one last time. The delay in rifts made checking through them cumbersome.
+
+I found the 222 points given by the Words of Strength skill. Upon closer observation, the skill wasn't made out of the skills I expected. Unlike Torix's Words of Power skill, Words of Strength used Leadership in place of Debating. I chopped that up to differences in personality and style.
+
+It's like the difference between a general that rides into battle and the general that stays behind the front lines. Different styles lead to different results, but both can be effective. Schema's system was a bit more fluid.
+
+Still, it gave me enough points to dig deep into the Fearless tree. I already had 27 points in it, so putting the 222 tree points from the unique skill would put my one point shy of completing the tree. Having gained two levels in phaser during the travel, I had just enough points for the tree.
+
+With that in mind, I invested the points all at once.
+
+Some let fear consume them. Others conquer their fears. You are without fear. Skill gained! Fear Tolerance(lvl 1) - You swallow your fear like a bitter medicine. -1% to fear generation.
+
+Your lack of fear will in turn evoke fear in others. Fear clouds the mind, preventing clear judgment. When surrounded by the masses, you weaken their minds while no fear weakens your own. Skill gained! Pressure(lvl 1) - There is power in your presence. Mental pressure exerted onto enemies is increased by the level of this skill.
+
+Fears span more than just fear of the physical. Many fear failure, others fear success. What if I'm not good enough? What if I can't handle the success I've earned? You silenced those voices in your mind. Skill Gained! Confidence(lvl 1) - Confidence limits you more often then your potential will. Gives more accurate assessment of your limits with level.
+
+There are many other fears in life. Some fear the unknown. They let uncertainty freeze them. They allow consequence to rule them. You are no such person. Rather, you see opportunity in its place. Skill gained! Pathfinder(lvl 1) - You are only home when among the unknown. +1% to processing of new risks. +1% to planning speed when many factors are uncertain.
+
+And the final fear is fear of suffering. Make no mistake, feeling pain and overcoming it are two different things. It is the act of pushing forward despite pain that creates tolerance. Learning to cope with pain is conquering it. You've learned this as well. Skill gained! Pain Tolerance(lvl 1)*&$%ERROR
+
+Skill already known. Processing...Nearest breakthrough given in place of the reward. Breakthrough achieved! Pain Tolerance(lvl 100)--->*&$%ERROR
+
+Maximum skill level reached. Processing...New reward tier achieved. Unique skill gained! Fuses the skills Fear Tolerance, Pressure, Pathfinder, Confidence, and Pain Tolerance into Dominating Presence. *&$%ERROR
+
+Pain Tolerance is currently maxed. Skill cap exceeded. Rare variant given in place of common variant. Unique skill gained!  Fuses the skills Fear Tolerance, Pressure, Pathfinder, Confidence, and Pain Tolerance into Overwhelming Presence. No tree points rewarded due to the nature of the skill's creation.
+
+Overwhelming Presence(lvl 1) - The force of your mentality is made palpable. Passive mental pressure is amplified greatly by the level of this skill, enhancing influence and sway during conversation and battle.
+
+The errors were weird, but outside of that, it looked like a solid tree. It was the first one to be based on skills instead of stats. Since my goal was to collect unique skills, I wasn't complaining. Outside of that, the skill made me feel different.
+
+How exactly, well it's hard to explain. Have you ever felt the aura of a strong, powerful person? They walk with purpose. They hold themselves high with a humble pride. What they say is respected innately. They don't demand respect. Respect is simply given.
+
+From me, that same kind of aura ebbed but with a greater intensity. Althea even noticed, though she might not have been aware of it. She just looked at me for a second from her status screen. She narrowed her eyes before glancing back. A subtle gesture, but it showed the impact the unique skill already had.
+
+With nothing left for status screen, I closed it and tinkered with the skill. It was a passive skill, almost like the ability Cosmic Soul. The way the ability worked gave me some ideas too. My charisma wasn't high, but with the right investment, I could bypass that weakness.
+
+The concept was simple. A person can influence people with strength and power. An easy example is someone holding a gun, pointed at your head. More than likely, whatever they have to say to you will be compelling. If I could create the same effect with skills like Overwhelming presence, then I could bypass my low charisma.
+
+In other words, I make my influence on people become dependent on other attributes.
+
+Satisfied with my status screen, I turned and waited for Althea to finish with hers. A minute later, she turned to me,
+
+"You ready?"
+
+I nodded. Not wanting to waste anymore time, I stepped forward into the chasm. Althea followed, each of us flying through the black fog. The icy sensation covered my skin before I detached from Schema’s system. My HUD left me, opening up my peripherals. The fog lessened, showing rocks and a tunnel of light ahead. The tunnel tightened before I stabbed an arm into the wall of stone.
+
+Harder than normal rocks, the gray brick broke as I dragged further and further down. At the bottom of the tunnel, the pathway curved outwards so that we could walk upright. Althea floated down behind me, wings already formed for the occasion.
+
+I jumped down, landing on the stone. The air smelled sweet here. Ahead of me, a wall of white covered the entire entrance, except some sand beside it. I raised an eyebrow as Althea landed on one of my shoulders. A set of talons gripped on my shoulder, but they didn’t pierce my shoulder. I held her weight with ease as I walked forward.
+
+The wall turned less pale. Cracks and marks were few and far between, like a wall of weathered stone. I reached it, touching the smooth rock. I tapped against it, noticing a hollow ringing. I walked a few steps towards my side before reaching away from the stone. Behind it, a vast desert stretched outwards.
+
+Like a lake of sand, mountains turned the horizon jagged in the distance. The sky was red, gray clouds floating by. I breathed deep. The air was sweet and clear. I walked out a few more steps, turning back where I came from. There was a pile of stones tall as a house. I glanced up, seeing the wall of white stone arch overhead.
+
+It curved around the mountain, taller than trees. I glanced to my side, noticing the same white walls of stone set in a pattern. Over a football field away, a giant, pale stone was at the center of the white pillars.
+
+A chill ran up my spine as my blood ran cold. These weren’t walls of stone. That wasn’t an immense, white stone either. These were ribs, and that was a skull. We were surrounded by the bones of a monster.
+
+I gulped, “Holy fuck…So that’s why the named aren’t here.”
+
+Althea glanced down at me, “Why?”
+
+I grimaced, “Because whatever monsters live here, they’re too big to tame."

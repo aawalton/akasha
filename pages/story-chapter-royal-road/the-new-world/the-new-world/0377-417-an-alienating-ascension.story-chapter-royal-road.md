@@ -1,0 +1,509 @@
+---
+id: 2b50be6a-30be-54d5-91c1-135b2eecb1a1
+page-type-slug: story-chapter-royal-road
+title: "417 An Alienating Ascension"
+slug: 0377-417-an-alienating-ascension
+partOf: the-new-world
+position: 377
+ownLength: 5387
+unit: words
+ownProgress: 5387
+publishedAt: 2025-04-27
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2234285/417-an-alienating-ascension"
+royalRoadId: "2234285"
+markedReadAt: "2026-06-29T21:34:15.687Z"
+---
+
+Quinn ran off, laughing. They joined their friends, and they all waved me goodbye. I waved back before Althea pulled me up to the moon's central monolith. She took a breath.
+
+"Are you ready to go save New York next?"
+
+I rolled my shoulders.
+
+"Oh yeah. I'm itching for a fight."
+
+Mana emanated from me like a flame.
+
+"Let's go see what a warlord on Earth can do."
+
+Althea's eyes went distant.
+
+"More than you might expect."
+
+Chapter Begin
+
+I stepped up to the lunar warp drive, and Althea followed. A wave of ionizing mist and a few thousand credits spent later, we stepped onto the platform at Springfield. It bustled with activity, many people managing what evolved into a new regional economic center. Althea and I leaped into the air.
+
+Once aerial, we gained a better view of the city, and Althea darted toward New York, not wanting to waste any time. In the corner of my eye, my status popped up with a message from Hod.
+
+Hod, the Harbinger's Duality | Level: 14,000 | Class: Slayer | Guild: The Harbinger's Legion - I've unshackled a few of Hod's other memories, and they are...Hod like pie. Pie good, but Hod wonder if donut better. Hod wonder if donut pie exist. Hod might have good idea.
+
+I couldn't help but agree with our resident birdman. Donut pies sounded like a stroke of brilliance that our world might not be ready for. That aside, messaging the details of Hod's findings looked difficult, so I changed direction. I sent another message to Althea explaining my detour and how I'd catch up.
+
+I passed over the section of Mt. Verner dedicated to the eltari. Several groups had hatchlings that fed on various foraged goods from our surroundings, and the overhead mosaics sheened from the sunshine. I smiled at the obvious prosperity; their village expanded alongside their people.
+
+I landed near the largest tent. I walked into the ritualist area within, finding elegant stone sculptures and fragments of the cipher littered about. Here, quite a few of the eltari elders helped channel a ritual where smoke drifted in the air alongside hissing gems of mana. I waltzed into the interior, glad I could change my size.
+
+Once inside, the elders bowed to me, and I found Other Hod resting at the center of the room. Beside him, rare pieces of eldritch hummed, glowed, or twitched. Other Hod grabbed individual pieces and gulped them down before absorbing the chaotic energies within. As he did, the eldritch half of Hod expanded.
+
+The rippling edges of his shadows bled further into his surroundings. His claws sharpened. His form took on a less corporeal form, and the umbral flames rose further off his skin. After eating the last piece of eldritch, Other Hod stood. After rolling his shoulders, Other Hod turned to me. His hollow eyes were haunting.
+
+"Harbinger. It's good to see you."
+
+I smiled back.
+
+"Same. How's life been?"
+
+"It's been a joy, but let us talk after handling our social responsibilities."
+
+Other Hod thanked the elders, and he bowed deeply. After finishing the gesture, he walked off. I thanked Shajk and Monaba and wished them well, though my talk felt hollow after Other Hod's near-spiritual gesture. Once outside, we walked through the mosaic roads of the eltari settlement. Other Hod's form left lingering shadows behind him as he spoke.
+
+"I've been developing my eldritch persona instead of rejecting it as I have before. It comes with many detriments, but I also have gained much from the experience. Part of that is an understanding that the more my eldritch half grows, the more pieces of Hod that come out of his absorbed memories."
+
+I nodded.
+
+"I can keep an eye out for different rare pieces of eldritch to see if they can help you develop faster."
+
+Other Hod fell into one of his own shadows and walked out from under a canopy. He stepped onto a cliffside, gazing at a wondrous view of the forest.
+
+"I thank you for the gesture, but your kindness isn't the reason for my message. I wished to give you pieces of Hod's splintered memories alongside the development of his magic."
+
+I walked up to him.
+
+"Cool. Any relevant details?"
+
+Other Hod cracked his neck by moving his head around.
+
+"Many. The first is a more principled understanding of the magic. It is just as the elders said. Hod is able to view the future and garner aspects of it. As they are, the pieces are so esoteric and disparate that we can't weave anything meaningful from the strings of fate he's seen. That is, aside from a few important names."
+
+I raised a brow.
+
+"Like?"
+
+Other Hod's head twitched.
+
+"Polluterix. That is the name of the Old One that is viewing you."
+
+A far-off gaze and rumble echoed in my mind. I shivered.
+
+"Ah. Did they make Valgus's shackles?"
+
+Other Hod nodded his head.
+
+"And they aren't the source of Hod's mana. That is derived from an entirely different Old One."
+
+I took a breath.
+
+"They keep popping up like new diseases from rainforests."
+
+Other Hod scoffed.
+
+"A colorful analogy. Hod and I haven't ascertained Polluterix's goals, but the Old One seems to control balance, conversions, and sacrifice. Though not an active Old One like Baldowah, Polluterix still pulls strings from afar using far more subtle methods than the other mad gods."
+
+I put a hand on Other Hod's shoulder.
+
+"Thanks for getting this info. It gives us a name and a few pieces to work off of."
+
+Other Hod nodded.
+
+"The other piece I wished to share with you revolves around a new enemy and chapter in Earth's history."
+
+I furrowed my brow.
+
+"I'm guessing it's another member under the Old Ones? An avatar or something, maybe?"
+
+Other Hod shook his head.
+
+"The first is of Earth's expansion. It will become a colossal planet in time, and there is little we can do to stop it. Prepare for humanity to splinter farther apart as our disparate cities become colonies."
+
+I frowned. I expected as much considering how the rifts operated, but this helped verify that assumption. Other Hod continued.
+
+"This other being...She is difficult to parse as her protections exceed almost all the possible measures. Still, Hod's latent abilities are potent. They've garnered that she loves the Old Ones, yet they despise her. The last piece of information we've gained is that a turtle will unlock the secrets of the world to you."
+
+I blinked.
+
+"What?"
+
+"A turtle will unlock the secrets of the world to you."
+
+I pinched the bridge of my nose.
+
+"Uhm...Is there any more than that? Like a name, a place, maybe a time?"
+
+"No. That phrase is all we know."
+
+I smiled.
+
+"Esoteric indeed. Speaking of-"
+
+I pulled out the fragmented pieces of Kryaah's shell from my dimensional storage. The amber armor glowed and oozed odd energies. Other Hod picked up a piece.
+
+"This isn't like anything I've ever seen. It's eldritch in origin, yet it was derived from other latent energy sources outside of their corruption."
+
+I shrugged.
+
+"I had no clue what to do with it or what it really was. I figured it could be food for your eldritch side."
+
+Other Hod marveled at one of the shards.
+
+"And perhaps it may even feed Hod's abilities."
+
+I turned to leave.
+
+"Sorry for cutting the conversation short, but I have to go catch up with Althea. Thanks for letting me know all of this, and update me if anything else comes up."
+
+Other Hod bowed to me.
+
+"Thank you, and I shall."
+
+His form dispersed, and Hod appeared. The bird man spread his arms.
+
+"Hod arrive in style."
+
+He waddled back and forth, his legs like stilts.
+
+"Hod use secret technique: Hod sneak attack."
+
+He twisted back and forth over to me like a man made of toothpicks. Once close, he hugged me.
+
+"Hod miss Harbinger."
+
+I hugged him back.
+
+"I missed you too, buddy. Good job with all the training."
+
+Hod let go before flexing non-existent muscles.
+
+"Hod pretty cool. But Hod tired lots lately. Hod work under shadow man. Shadow man demanding, and Hod eat lots of gross things. Hod tired after eating them."
+
+Hod tilted his head at me.
+
+"And I feel different, at times."
+
+I leaned back, Hod's speech pattern hitting me like a lightning bolt.
+
+"My god."
+
+Hod shook his head.
+
+"Hod wonder what in Hod happened."
+
+I furrowed my brow.
+
+"I don't Hodding know, but it just about made me Hod myself."
+
+Hod nodded in a solemn understanding.
+
+"Hod get it. Hod Hodself sometimes too."
+
+He yawned.
+
+"Hod go sleep now."
+
+I turned to leave before he put a hand on my shoulders. I peered at him with a raised brow. Hod met my eye.
+
+"Hod wish best for Harbinger. Keep safe."
+
+I smiled.
+
+"You too, buddy."
+
+I flew off, leaving the rustic village and it's culturally rich people behind. I bolted through the clouds, trying to close the gap between Althea and me. I couldn't keep up yet since it took me a minute to get the multiple dimensions moving. As I struggled, I found two of Shalahora's shades guarding the entrance to Springfield. I noted that detail before passing far into the distance.
+
+Althea glided over a cloud, one of her hands pressing against the fluffy, dense ball of mist. I hovered beside her, and she smiled at me.
+
+"Finally caught up?"
+
+"You know how talks with Hod go."
+
+She shook her head.
+
+"All over the place, if you're lucky."
+
+I pointed behind us.
+
+"What are those shadow soldiers doing? They looked like a few of Shalahora's shades."
+
+Althea glided on the wind, circling around me with delicate wings.
+
+"Shalahora can't be everywhere all at once, so he's sent his shades to act as, uh, kind of like mind police. They check the minds of people and make sure there's nothing too crazy going on. He can also check for implanted Hybrids or anything like that."
+
+I winced.
+
+"It's not too common, right?"
+
+"It almost never happens. It's much more common farther South near the encampment Plazia cleared a while back. Shalahora's over there right now since he finished handling the skeptiles."
+
+"He handled the millions there already?"
+
+She smiled.
+
+"Shalahora's good at what he does. He actually enjoys this kind of thing a lot."
+
+The wind brushed against my face, cool and refreshing.
+
+"I wonder why? I know being border patrol doesn't exactly appeal to me, at least."
+
+"Something about unveiling the truth instead of spreading more lies, but who really knows? That guy is a real mystery."
+
+"Hah, you're telling me."
+
+We shot across the horizon, a sea of trees beneath us, all of them changing color for fall. I hardly noticed the passing of seasons up until recently, the temperature change unnoticeable and my life consumed with volatile situations. Having a moment to slow down, I found the trees beautiful and nostalgic. Althea watched as well.
+
+We coasted along in a cozy quiet, each of us peering around. After crossing Lake Huron, we went over toward Niagra Falls. As expected, it was majestic yet tortured. Mirroring the Grand Canyon, spatial fog encompassed the middle of the majestic waterfalls, the plunge pool a pathway to another world.
+
+The churning mist mixed into the spatial fog, and we dove in. The lighting altered into a sunny and vast ecosystem below. Each waterfall spread far farther apart than above, and underneath the crest of each cascade hid another world, each space disconnected by clouds of spatial mist. At the center of Niagra Falls, the depths sank for miles and miles, tunnels crisscrossing the vast natural reserve.
+
+Other openings exposed caverns on the cliffsides. Even a cursory glance exposed several enormous dungeons that spread out for miles. They teemed with life, all kinds of eldritch flying into and out of the subterranean world. Other waterfalls fell from their ceiling, lighting the place with glowing pools of different colors.
+
+It reminded me of the best parts of BloodHollow, and it contrasted the normal river and forest above. As I hovered over the water at the fall's center, several large shadows swam beneath me. A burning desire to uncover this place's secrets exploded in my chest, but I silenced the urge. Now wasn't the time. Not yet, at least.
+
+I marked that location in my minimap, which wasn't so mini anymore with streaks of it crossing several states. Before heading out, Althea and I made one round trip near the waterfalls. Each of us put a hand into the current, cutting a swath through the water with our arms. It was a moment of magic and not Schema's kind, either.
+
+We darted over to Buffalo, checking on the city for only a few minutes. I dropped off a cache of supplies, finding everything in order. Trying not to dally more, we flew over towards New York City. Even as we crossed the state, many changes in the ecosystems dotted the skyline. New kinds of fauna evolved and proliferated here.
+
+While not overwhelming the native species, pockets of lavender-colored birches spread throughout the place, their leaves vibrant and neon. Elks with elegant, gorgeous horns hopped from tree branches, their feet otherworldly and light. Leaves covered them instead of fur. One of the elegant bucks landed on a tree branch, gazing at us with glowing eyes.
+
+We met its gaze, and Althea waved. From the trunk of the tree the elk rested on, camouflaged wolves erupted, their fur like splinters. They bit into the buck before tearing it to pieces. Althea looked away.
+
+"Blugh. I know it's nature, but it's always hard to watch."
+
+I kept my gaze steady.
+
+"It is."
+
+I reached out a hand and pinched two fingers together. The elk's suffering ended as its brain collapsed in its skull. Althea winced, and we moved on. Having some time, I glanced at my status. I stockpiled a mountain of stats, and I gained plenty of tree points to distribute.
+
+I got whirlwinded into helping everybody before having time to assess everything and dig into the minute details. Before checking the raw numbers, I put all of my extra points into the Schema's Champion tree and checked my system updates.
+
+New Legendary skill unlocked! A Manifold Mind, Matter Conversion, and Temporal Compression combine into the legendary skill - Infinity.
+
+Infinity | lvl 512 - Within the finite, there exist concepts that bind mortals. Time. Death. Eternity. These are mere ideas that sentients touch upon, but they may never grasp them fully. You've unraveled these truths as lies, and in unveiling the ineffable, you've become an entity without limit.
+
+Infinity augments temporal manipulation, the number and volume of the user's psyches, and the conversion of matter into energy. This skill also enhances the user's assimilation of cipheric alterations, their efficiency, and the stability of the user's soul. Finally, Infinity allows for a grander scope of one's mental composition and augments the user's ability to suppress domains.
+
+Current Effects:
+
+51+ Endurance, +51 Willpower, +26 Perception, +26 Intelligence, and +13 Luck
+
++51.2% to Time manipulation, mental power, and conversion of energy types | +25.1% to cipheric augments, their stability, and the user's soul | +12.55% to mental remapping speed and domain suppression.
+
+-20.24% to the mana cost of Infinity
+
+1,061 skill points were rewarded from the fusion!
+
+It was an excellent boon, the skill already leveled highly from my focused training. I moved on.
+
+Schema's Champion Tier I unlocked!
+
+There exist eras where centuries pass as seconds and where seconds pass as centuries. This is a time of the latter, not the former. Know that many pieces of a puzzle are coming together, and they expose a picture of desolation. It is an unending march of destruction led by the blind.
+
+The need for one to rise above the rest has never been more needed. You must be the one to rise.
+
++1,000 to level cap
+
++ 1 access tier for Schema's Archives(Bronze)
+
++ 1 technology tier allowance(Bronze)
+
++ 1 economic tier(Bronze)
+
+Sovereign Exclusive: +1 to hidden mana type allowance
+
+Schema's Champion Tier II unlocked!
+
+You must bear the burdens of those before you, with you, and after you. All will come to pass, yet you lie at the center of the conflict. Many are searching in the farthest reaches of the galaxy. They are attempting to find an entity that is like you. Something of your ilk.
+
+I know of most, and that is why I know you are singular. Their jaws will come down with sharp teeth, and they shall aim to purge you of your gifts. You must break them. You must not submit. All is lost otherwise.
+
++2,000 to level cap
+
++ 2 access tier for Schema's Archives(Silver)
+
++ 2 technology tier allowance(Silver)
+
++ 2 economic tier(Silver)
+
+Sovereign Exclusive: +2 to hidden mana type allowance
+
+The most pressing part of the status updates were the not-so-subtle messages Schema sent alongside them. It must've been related to the current events happening with the AI, and it spurred my growing sense of urgency. Something was coming, and I would be ready. As for the benefits, they were incredible.
+
+The level cap was obvious. More levels were always good, though not the most potent benefit at this point. On the other hand, the other bonuses required research to fully understand. I scratched my head at the hidden mana types, assuming it meant entropy or maybe even arcane mana. The fact it enabled other dimensional wakes would pay dividends later. In fact, the other benefits helped me uncover the other mana types.
+
+That stemmed from the Schema's Archives bonus. It gave me access to some of the system's unaltered and unfiltered data. It was a part of Schema's system that kept information locked down. All data passed through a crippling filter from Schema, and that made most of the allowed knowledge useless.
+
+With the vast majority of Schema's web curated and curtailed, research was like finding a murderer. You know, except the crime scene was burned and bleached. That's how sterile the AI left anything posted on its web. Having the raw data allowed me to come to my own conclusions without having every important detail warped or changed to fit Schema's narrative.
+
+While it was a potent benefit over the long term, it paled in comparison to the other awards.
+
+The technology allowances gave my guild the right to research and establish a few more forbidden technologies. Tier I gave us the right to establish long-distance grids, power lines, and communications outside of Schema's system. In other words, we could establish our own internet again and proliferate information across it. Even this alone was worth the entire 5,000 skill points from Schema.
+
+In my mind, it was an absolute game-changer. For instance, even after half a decade of living in the system, people still didn't get the most out of Schema's upgrades. It wasn't people's fault either. Certain trees were hidden behind obscure unlock requirements, and Schema suppressed the knowledge so that it could pick and choose who gets what and all under random, esoteric conditions.
+
+The internet allowed for the free proliferation of that knowledge, enabling everyone to scrutinize and understand the system's details. That's not all. Info on mana, Schema's history, different eldritch, their weaknesses, alchemy, videos on fighting, sorcery, all of that and ten times more would disperse in a rapid, efficient fashion.
+
+Ignorance would no longer cloud our species and our worlds. We would be able to pull ourselves out of this informational dark age and back into an era of enlightenment. This was huge for the long-term prospects of our guild. That, somehow, wasn't the only benefit either. Technology II gave us the right to construct our own warp drives, space shuttles, and advanced weaponry.
+
+While nuclear weapons were still off the table, most everything else was free game. Railguns, graphene, and other tech that Schema hoarded could be uncovered by my guild without consequence. The warps would connect our worlds, even allowing us to create permanent bridges between them. Any goods produced in my empire wouldn't carry the same warping fee that other guilds suffered from.
+
+We could augment our internet into something galactic in nature, assuming we had enough energy to sustain permanent portals. The logistics would be simpler with actual computers handling the rough job of mathematical computations. I hoped the rest of the Schema's Champion tree would unlock those technologies as well.
+
+I might even gain the ability to warp around without needing a chauffeur. In a sense, the sky was the limit but not just on my own planet. I would gain a vast empire carrying many of the benefits our species once took for granted. As for the space shuttles, it wasn't quite as ground breaking as the other unlocks.
+
+Normally, a shuttle required permits from Schema to build, and he tailored those vessels to be outright worse than his own. My guild no longer needed to abide by those stringent requirements. Did that mean we'd make shuttles out of dimensional fabric? Oh, most definitely. Despite that bonus, shuttle flight took forever and acted more as a means of enforcing a planet's security.
+
+If a shuttle dropped a hunk of metal from above, it would be a kinetic bomb by the time it landed on the planet's surface. A ruling class could dominate by having its military above the atmosphere this way. I had no need for that as I never intended to harvest economic benefits from my populace. I would be the benefit, not the other way around.
+
+And the perfect example of that came from the economic bonuses. They limited tariffs, taxes, and the costs between businesses. Normally, Schema shaved a percentage of sales, personal income, and a business's profit. This tree cut those expenses down to near zero. In general, the boons of the Schema's Champion far exceeded anything else I'd ever obtained.
+
+Oddly enough, it was a one-way trip to utter galactic dominance for my guild. This culminated from the nearly infinite energy derived from my dimensional fabric. Other guilds would've struggled to compete regardless, but that sealed the deal. The more I thought about it, the more that seemed to be Schema's point.
+
+He wanted me at the top. The reason was obvious - I was going to fight whatever was making Schema's life a living hell. It bolstered my confidence to know the AI supported us, but it also mounted an ever-rising pressure. Regardless of the future, our guild just obtained quite a few advantages.
+
+It was time to use them.
+
+I sent a message to my guildmates, letting them know about these awards and what they entailed. I gave a few of my thoughts while outlining plans for different programs, from the permanent portals to re-establishing the Internet. At the same time, I explored my ability to make quests.
+
+Within a few minutes, I got some understanding of it before making a few. It took only a few clicks, and I gave my followers active missions to explore these new benefits. After handling all of that, I checked out my cipheric augments.
+
+[Self Augments(Previously: Modifications) - The dimensional fabric composing this structure has been modified with code from the dimensional cipher. The changes are as follows | Note: These are before system multipliers.
+
++84,294 Constitution | +219,293 Endurance | +60,421 Perception | +124,194 Willpower | +56,392 Luck | +63,109 Strength | +59,371 Dexterity | +68,990 Intelligence | +21,813 Charisma | +35,294 Awe
+
++100% to Effects of Legacies
+
++100% Internal Motivation Multiplier
+
++64% Dimension Size | +64% Dimensional Wake Density | +64% Dimensional Wake Extent | +27% Dimensional Weight
+
++20% Cipheric Augment Amounts - Skill: Infinity | +20% Cipheric Augment Speed - Skill: Infinity | +20% Domain Suppression - Skill: Infinity
+
++38,921 Trillion Ambient Mana]
+
+The numbers dwarfed my previous checkup, and I raised a hand and squeezed a fist to check it out. I hadn't even noticed the increase in all of my stats, though that probably derived from my lack of a normal mental state. I never stopped my temporal compression or runic channeling, and that dramatically changed how I perceived reality.
+
+By now, I had gained far more raw stats from my cipheric augments than I had from level-ups. Including all my trees, I got four attribute points per level up. At level 34k, that meant about 136,000 attributes. I had, er...about 800k from channeling mana into my runes. After factoring in my multipliers, I stood head and shoulders over anyone near my level in attributes.
+
+If I combined that with all my dimension bonuses, then I reaped enormous rewards. The last bonus involved suppressing domains, whatever the hell that meant. Despite the palpable increases, I couldn't shake this feeling that I fell further behind by the second. Whether that was justified or not, I kept surging mana into my runes as I opened my status.
+
+The Living Multiverse | Level 34,161 (Cap: 46,000) | Current Influence: The Rise of Eden | Class: Sovereign
+
+Strength – 518,308 | Constitution – 526,834 | Endurance – 875,255
+
+Dexterity – 348,316 | Willpower – 970,240 | Intelligence – 711,735
+
+Charisma – 375,514 | Luck – 465,195 | Perception – 149,469 |Awe - 39,295
+
+Health: 18.29 Billion/18.29 Billion | Health Regen: 3.042 Trillion/min or 52.014 Billion/sec
+
+Stamina: Infinite++++++++++ | Ambient Mana 38,921 Trillion
+
+Mass: 16.33 Billion Pounds( 7.42 Billion Kilos~)
+
+Height: 53'02 |18.034 meters | Actual: 13'9 (Infinity/Distributed Matter)
+
+Damage Res - 99.740% | Actual: 99.813% (Infinity) | Dimensional Res - 100%
+
+Phys Dam Bonus – 434.43 Billion% | Damage Bonus – 40%
+
+The Rise of Eden - enhances base stats by 30%, increased to 40% to allies within aura's radius
+
+Mana Conversion(Elemental Furnace Count: 52) - 602.2 Billion mana/min siphoned into runes and armor
+
+After a few moments of analysis, I shook my head in outright disgust. Several of my stats increased over twofold. Some, like perception, tripled. The even distribution of the stats surprised me since I expected endurance to rise more than the other attributes. It had increased by plenty, but the disparity between it and my other attributes lessened rather than grew.
+
+In fact, my willpower exceeded my endurance now. It was an odd feeling, almost as if I had failed myself in a way.
+
+Feelings of disillusion aside, these consistent, honestly absurd stat boosts balanced my abilities, and considering the breadth of my current demands, I appreciated the boon. The other numbers expanded in tandem, my health regen hitting the trillions per minute landmark. I over doubled my ambient mana as well, giving me weight, density, and strength alike, thanks to my trees.
+
+That said, a decent chunk of my ambient mana had still come from my fight with Valgus. His mana production over a few hours matched mine over a few months. I still had a long way to go, though even a few quick calculations exposed some strange inconsistencies in that theory.
+
+Firstly, I should've assimilated ten times more mana into my ambient stores than I had. To be fair, I spread my mana investment across multiple rune sources, not just my ambient mana stores. Even accounting for that disparity, I had far more mana left over than was supposed to be the case.
+
+It exposed some kind of bottleneck. If my guess was correct, some of my older runes lacked the ability to take in all the mana I channeled. That meant a general rewrite was in order, something that may take a few days. After taking the warlord of New York City down, I'd put that on the top of my priority list.
+
+My last thoughts on my status revolved around my mass and strength. Each of them maintained a steady, if not rapid, rise. At this point, my strength matched the combined efforts of 4 billion, pre-system people. I'd soon overtake the physical limits of humanity before Schema's system arrived. It was an odd realization.
+
+My weight was the same. I had about two pounds of mass for every human that lived before Schema slammed us. Considering my growth's exponential rise, it was only a matter of time before I exceeded humanity's general size and mass. Huh. Weird.
+
+Either way, I sent messages and handled my status as Althea and I traveled. We did so in entirely different worlds. I hovered via a gravity well, essentially falling to my destination. On the other hand, Althea darted through the clouds, investigated settlements, and hopped between trees. She enjoyed traveling and traversal, having the time of her life by simply moving around.
+
+I should've felt joy. Instead, I felt a touch of envy. On the moon, she and I could both let loose. Here, I could do the same as her, but it would be an artificial display. If I hopped from tree to tree, I wasn't actually hopping on anything. Trees couldn't hold me up, even when made of steel. Instead, I mimicked the grace of genuine movement instead of actually performing acrobatic maneuvers.
+
+In fact, I kept my physical self isolated from the world at all times. A layer of heavy gravitation and carefully crafted telekinesis stopped me from destroying my surroundings. I'd gotten used to keeping myself afloat and holding those gravitational forces skin-tight, but seeing Althea enjoy gliding around left me feeling scorned.
+
+It was as if I abandoned who I was while she never had to.
+
+Even while those thoughts and emotions passed over me, I recognized they weren't fair feelings. I wouldn't act on them, but the feelings existed whether I liked it or not. However, I wasn't going to let my alienation stop me from finding joy in her. After all, just because I couldn't experience something anymore didn't mean I had to rob someone else of that delight.
+
+While my thoughts meandered about, we entered into some kind of webbing. I pushed it aside.
+
+"Ugh, what is this?"
+
+Althea turned to me.
+
+"What is what?"
+
+I held up a strand of the webbing.
+
+"This."
+
+Althea furrowed her brow.
+
+"This is what?"
+
+I shook it.
+
+"This is this. What do you mean what is this?"
+
+She pointed at herself.
+
+"Uhm, this is confused by you."
+
+I furrowed my brow.
+
+"What?"
+
+Around us, a series of portals spawned from the ether. Ten humans jumped out of the warps, each of them armed with black swords and shields. Rifles clattered against their backs with pistols at their sides, and they painted an infinity symbol within a diamond onto their shields. The leader spoke, and a voice modulator changed their voice.
+
+"Which one of you is disrupting the web?"
+
+I held up a strand.
+
+"That's what this is? A web?"
+
+They pointed their rifles at me. The leader seethed.
+
+"Set it down."
+
+I smiled, my eyes alight as mana thrummed in my blood. It swelled off of me as I murmured.
+
+"You don't want to do that."
+
+A palpable fear radiated from the men before something muted the emotion. The leader scoffed before snapping his words.
+
+"Says who?"
+
+I raised a fist and the outlines of faces formed in the ascendant cloud of mana around me.
+
+"Does it matter who I am? No. What matters is what I can do."
+
+The air blurred around me, and mana swirled in a violent storm of potential. Despite the obvious difference in firepower, they kept their rifles raised. The leader snarled.
+
+"Leave this place, or else."
+
+I scoffed.
+
+"Someone's psionically controlling you. It has to be the warlord of New York, right?"
+
+They all gazed at one another confused. Once more, they regained composure, and the leader fired a rifle. I snatched the bullet out of the air, my time dilation giving me the chance to do so. The wind off my arm bent trees in the forest below, branches snapping and animals sent flying. As I held up the steel, I smiled.
+
+"Ah, armor piercing. Smart. Still, not enough. Not nearly."
+
+I dropped the bullet as my minds settled on the soldier.
+
+"Can you hear me? If you can, then I'll give you a message."
+
+The man kept his gaze on me, his eyes like iron while his body squirmed about. I smiled at him and simmered.
+
+"The Harbinger has come."

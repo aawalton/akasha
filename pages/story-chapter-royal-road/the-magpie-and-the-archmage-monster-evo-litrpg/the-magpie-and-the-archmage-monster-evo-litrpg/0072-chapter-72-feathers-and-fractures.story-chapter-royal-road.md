@@ -1,0 +1,153 @@
+---
+id: 388f6ef6-1d9e-5672-8b3a-ea0ac6756ed2
+page-type-slug: story-chapter-royal-road
+title: "Chapter 72 – Feathers and Fractures"
+slug: 0072-chapter-72-feathers-and-fractures
+partOf: the-magpie-and-the-archmage-monster-evo-litrpg
+position: 72
+ownLength: 2084
+unit: words
+publishedAt: 2026-01-16
+link: "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2947830/chapter-72-feathers-and-fractures"
+royalRoadId: "2947830"
+---
+
+Liora forced herself to Fade, making the crane stop its attacks and stare around in confusion. She used the moment to use the combined Poison Slash attack at the confused bird. The attack connected, cutting into its wings, making the poison seep inside.
+
+I hope the poison works, because I don't think I'm strong enough to defeat it otherwise.
+
+Her Fade ended, revealing herself to the increasingly more agitated crane. It screamed at Liora and flew at her full force. Liora pushed herself to dodge, but the pain in her chest was incredible. Like thousand knives cutting into her flesh and brain prevented her from moving to her full speed.
+
+But perhaps it wasn't just pain inhibiting her. Maybe the injury was serious enough to limit her mobility. She couldn't tell through the pain. Her wings refused to move like she wanted, so Liora was just barely able to stay out of crane's reach.
+
+It followed her screaming like mad, trying to peck her and shooting its water jets at her. Liora tried her best to dodge—that was all she could do at the moment—but even so, she got hit sometimes. A painful peck on her right leg. A strike against her tail feathers. She just barely managed to hold on long enough for the Fade to be usable again.
+
+The moment it did, Liora flew high, as high as her broken body allowed her and prayed that Shadow Glide would keep her hidden for long enough. The crane searched for her furiously, looking this way and that. At one point, after her second Fade ended, it looked straight at her. Liora thought that she was done for.
+
+But thankfully its eyes went past her, as if she was nothing more than part of the night sky. This gave her enough of a chance to make her escape. She flew back to one of the large willows and, avoiding the deadly tendrils, landed on its inner branches.
+
+Renir… it all hurts…
+
+She just barely managed to hold on to the branch. One of her legs was broken, but the pain that came from her leg was nothing when compared to the pain in her chest. It wasn't bleeding, but the pain was incredible. Her knowledge from being a human told her that something definitely was badly broken, and it could easily be lethal with how many important organs were located in the chest area.
+
+It's okay. Calm! Deep breaths. You just have to sit still and wait for the System to slowly fix you.
+
+Liora tried to take a deep breath, but agonizing pain shot through her. All she managed was raspy wheeze. She felt like she could barely breathe. Like she was cut off from the air and wind, and stranded in a place where it couldn't reach her.
+
+I… can't take a deep breath.
+
+Oh shit, shit, shit! Status!
+
+Liora somehow managed to command the system to show her status screen.
+
+[Status]
+
+Health: Critical
+
+Mana: Steady
+
+Affliction: Bleeding
+
+That wasn't good. Her health had never been that low. Not to mention that she was bleeding. Wasn't that eating away at her health even more? She wanted to caw in pained frustration, but couldn't. All that escaped past her beak was gurgled rasp.
+
+No, no, no! Liora, take me out of your Inventory now! I'll teach you a healing chant.
+
+Liora managed to force Renir out, but even doing something so simple seemed to bring up more pain. She just barely managed to set him a stable enough nook between the branches for him not to fall.
+
+"Liora, repeat this chant after me! By pulse of earth and breath of sky, by waters pulse and stars on high, threads of light return and bind, flesh and soul in weave entwined. Fractures fade—"
+
+Renir continued the long incantation but Liora wasn't able to focus on it. The pain in her chest was too much. Renir's voice seemed so loud. She just wanted the horrible pain to stop.
+
+"Liora, repeat it! Repeat it!" He yelled after a while.
+
+"By pulse—"
+
+She tried to repeat the chant, but her voice rasped. She couldn't take another breath. She couldn't even remember it.
+
+"Chak-chak…"
+
+"Liora, you must repeat the chant! You have to heal! By pulse of earth and breath of sky, by waters pulse and stars on high, threads of light return and bind, flesh and soul in weave entwined. Fractures fade, corruption flee, hearth to rhythm, bone to tree, blood to flow and breath to stay, life reborn in dawn's array. Restore Aevanore!"
+
+A bright light came from Renir and enveloped Liora. It soothed her pain, slowly making it retreat. Something seemed to snap in her chest, and Liora gasped finally able to breathe again. The injury on her leg likewise disappeared, leaving behind a pink mark.
+
+It wasn't that she was fully healed. Liora still felt awful. There was still a mild ache in her chest but she could definitely breathe again.
+
+"I'm healed?" She asked in surprise, looking at Renir.
+
+"You're… fine… Thank… God…" He muttered weakly, and then the light in the gemstone disappeared.
+
+"Renir?!" She exclaimed, grabbing the gem, and looking at it nervously from all sides.
+
+"Renir?" She prodded him gently with her beak but there was no response.
+
+She drew him into her Inventory, hoping that would do something.
+
+Renir? Please, respond. Tell me about your glorious days as an archmage. I want to hear all about it!
+
+She waited for a moment, but there was no response. She prodded him mentally for a while longer, trying to get him to answer, but in the end everything remained silent.
+
+He must have burned himself out just like he did that time he applied the System to me. That must be it. I'm sure he'll be back to his loud annoying self in no time at all.
+
+Or so Liora told herself. In reality, she was rather scared for her companion's well-being. Renir was the only one she had at the moment. The thought that something might actually happen to him, just because he tried to save her, made Liora's heart ache.
+
+How was he able to heal me even? I thought he wasn't able to use magic. Was it because one of his seals got broken?
+
+That seemed like the most likely explanation. It certainly couldn't have been because of any external factors. After all, they were in a Hell Marsh, not Magically-Heal-the-Magpie Marsh. Liora could only hope that Renir would recover on his own. There wasn't much else she could do.
+
+Well, there was one thing. She checked her status, curious how much of her health got restored exactly.
+
+[Status]
+
+Health: Scrapped
+
+Mana: Surging
+
+Almost to full health. That was quite the powerful spell, knowing that I was one foot into the grave. I'll have to learn the incantation for it when Renir wakes up.
+
+But first thing first. After that horrible fight, Liora's body was crying for food. Healing was a hungry business apparently. But where could she get food around here? The mangrove willows had nothing resembling fruit on them, but even if they did Liora wouldn't eat them. It would probably be a trap.
+
+But what could she eat? There was nothing like cranberries or blueberries around which sometimes grew in swampy areas. The ground was mostly covered in water with occasional mossy islands here and there. She did see a few mushrooms on those mossy islands, but there was no way she was risking eating unknown mushrooms. That never ended well.
+
+So realistically Liora had two options. Fly all the way to the forest area and hope to find something there. It wasn't the worst option but with winter coming closer, realistically there weren't many options. Most of the autumn goodies will either have been eaten or already gone old. She would likely have to search for nuts and pine nuts, which was always a chore.
+
+Or hunt. This wasn't something she was looking forward to, especially after having enjoyed the comfort of human-cooked food. She just wanted to eat some roast chicken or fresh salmon or just plain boiled eggs. She could even make due without salt. But alas nobody was boiling eggs in the middle of the swamp. So her last resort for getting food was hunting.
+
+Liora looked at the speeding dragonflies in a new light. They were large. Catching one would likely be enough for her. She desperately tried to push out the image of gross bug guts. She had to eat. Without food she would just slowly wither and die. That wasn't an option.
+
+So she steeled her resolve and flew down, avoiding the willow tree tendrils. Liora wasn't going to give the dragonfly a chance to counterattack. She would come down on it fast and hard, before it even realized what happened.
+
+Skypierce was out of the question. The dragonfly was too small—hitting it precisely would be hard, especially with how quickly it moved around. First, she had to immobilize it, then strike with all her might.
+
+Fade was her first move of choice, making herself invisible as she positioned herself near one of the dragonflies flying near the water's surface. The one whose name was showing up in white color. The rest of the marsh dragonflies appeared as yellow. Before the Fade's effect ended, she let out a hearty "Buh-Rup!".
+
+[You've successfully mimicked the skill <Paralysis Croak>.]
+
+The dragonfly began spasming uncontrollably. The sudden paralysis must have really spooked it as it flew around, nearly crashing into the water, occasionally falling down on one of the mossy islands.
+
+Liora used the opportunity and aimed Air Slash at its fragile wings. She missed the hit once, but the second time she managed to neatly slice two of its wings off. It flailed on the island, trying desperately to fly away, but unable to move in the air anymore. The rest was easy. Liora landed on the bug, and Lunged at its head.
+
+[You've defeated <Marsh Dragonfly – Level 21>. Experience gained.]
+
+Thankfully, none of the other dragonflies seemed to care about its brethren, calmly continuing their activities and not paying any attention to Liora. That was good. She wasn't sure what she would do if they decided to enact some dragonfly revenge on her.
+
+So she could eat her prey peacefully. But looking at the dead dragonfly she didn't feel any urge to eat it. She did grab the two glimmerstones that were stuck at the base of its wings. They were very nice. But she didn't have the urge to eat it, although she was feeling quite hungry.
+
+I have to eat it. I have to. There is nothing else edible around here.
+
+However, while Liora was trying to force herself to peck into dragonflies flesh, one of the many cranes that populated the marsh flew straight at Liora. She Faded and flew out of the way, not being too eager to be on the receiving end of that horrible beak again.
+
+She had this strong impulse to attack it, however, this crane's name was displayed as orange. It was much stronger than her, and quite fast too. What did Renir say about everything here being slower than her? Complete and utter nonsense.
+
+As crane eagerly ate the disgusting dragonfly, Liora realized that she really didn't want to eat any of the nasty bugs. It looked even grosser when dissected. No, no, she'd have to find something else to eat. Perhaps it was best if she flew back to the forest and searched for nuts after all.
+
+But it wasn't really sustainable, especially if she intended to train in the marsh until she evolved. She needed to find a better solution.
+
+I should have stolen some food in Cyene and stashed it in my Inventory. Then I wouldn't be having this issue.
+
+She was honestly stumped. There were so many creatures in the marsh, but nothing to eat. How is that possible? There should be something she could enjoy.
+
+Just as she thought that, a giant fish suddenly jumped out of the water, straight at the crane and pulled the bird underwater. It didn't even have time to cry out before it disappeared in the murky depths, only a few bubbles on water's surface indicating that it was ever there. But those too were soon gone.
+
+Holy! That could have been me in that fish's gullet!
+
+But this did give Liora an idea. Could she possibly catch fish?

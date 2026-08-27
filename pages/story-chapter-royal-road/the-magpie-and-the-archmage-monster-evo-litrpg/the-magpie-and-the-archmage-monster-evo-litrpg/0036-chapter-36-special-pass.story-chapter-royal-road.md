@@ -1,0 +1,249 @@
+---
+id: a957dce2-469a-524d-bd11-dabf87538c62
+page-type-slug: story-chapter-royal-road
+title: "Chapter 36 – Special Pass"
+slug: 0036-chapter-36-special-pass
+partOf: the-magpie-and-the-archmage-monster-evo-litrpg
+position: 36
+ownLength: 2430
+unit: words
+publishedAt: 2025-10-18
+link: "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2685695/chapter-36-special-pass"
+royalRoadId: "2685695"
+---
+
+This suuuuckks!
+
+Do poor people have to go through this each time they want to enter a city? It's utterly dreadful.
+
+"Please tell me that we have moved closer," Kiva complained.
+
+"Nope!" Kalen said.
+
+"I'm sure there's a good reason for this," Serena said, although her voice lacked conviction.
+
+As it turned out, getting to Cyene even at the slow pace of humans wasn't so bad. The worst was the gate check. They joined the line sometime in late afternoon. The sun was beginning to set, yet it felt like they hadn't moved forward at all. In fact, new people had joined the line behind them, making it even longer.
+
+"How can there be a good reason for being THIS slow?" Kiva whined.
+
+"Yeah, I heard there was a checkup at city entries, but whatever they are doing seems a bit excessive," Kalen nodded in agreement, and a mutter of confirmations came from the nearby people.
+
+"It's because of that new lord of the city. He made a new rule that everyone entering the city must be thoroughly inspected unless they have special permission. It was supposed to be given to all citizens, yet it turned out that you had to pay for the special pass," an old peddler standing a bit ahead of them in line said.
+
+"The price is outrageous!" A pudgy woman, stroking the head of a boy no older than four, yelled, turning the attention of all nearby people. "The pass would cost me three months of my salary, and mind you, as a seamstress, I earn a rather fair wage!"
+
+A wave of disgruntled agreement echoed through the people, who seemed to become more agitated by the minute. A few guards came down the line, looking like they hadn't slept in a few days with prominent bags beneath their eyes. Even their helmets couldn't fully hide the dreary looks on their faces.
+
+"Settle down, everyone! Yelling will not make the line move faster," one of the guards shouted over the line.
+
+"Then let us through!" The pudgy woman demanded.
+
+"You know we can't do that. We'd be forfeiting our jobs if we did. We're already doing our best to work around the clock," the other guard said, looking like he would fall asleep where he stands.
+
+"The guards have it rough too…" Kalen noted.
+
+"Great, some big bossy pants has caused trouble for everyone. Just wonderful," Kiva grumbled and slumped down to the ground.
+
+Imma fly to the front and see how quickly this thing is moving.
+
+Unfortunately, things were looking more grim than she thought. There were about a dozen guards at the gate, scrambling to check the belongings of the unfortunate person next in line. One of them was following with a thick notebook, writing down items that the other guards were calling out. Only when everything was thoroughly checked and four guards had left their signatures was the poor person allowed through.
+
+This is an invasion of privacy!
+
+I thought poor people couldn't afford privacy.
+
+What? You have to pay for it in this world? Gods, I wish I had never left the forest.
+
+Too late now.
+
+Liora perched on the flagpole placed into the wall by the gate and observed the situation for a bit longer. Every person was meticulously checked for everything that they owned, and if anything was in any way related to magic, they were questioned about its origin.
+
+It's almost like they are looking for something.
+
+Or are paranoid about something. Does royalty live in this city, or whatever equivalent you have in this world?
+
+Not last I heard. Man, what is Duncan thinking?
+
+Duncan?
+
+He's the Pillar of Iron Law, and… You know it actually makes sense that he'd do something like this.
+
+I don't know who this person is, but they don't sound like fun.
+
+Nope, a real stick in the mud.
+
+Suddenly, there was a change. A carriage pulled by four well-groomed horses rode straight past the long line of people, cutting straight to the front. Liora expected angry shouts and protests, but people just looked forlornly as the carriage rode past.
+
+"Your pass," the guard asked once the carriage stopped by the entrance.
+
+The coachman jumped and opened the carriage doors. A man dressed in the most ridiculous fancy getup she had ever seen strode outside with his nose held high. He had a white shirt that, for some reason, was all puffy around his shoulders and wrists, a tight red vest that seemed to squeeze him almost like a corset, equally puffy purple pants, and knee-high black boots with pointed tips. To top it all off, his hair was styled up and resembled a banana ice-cream serve.
+
+"Chak-chak-chak!" Liora laughed without holding back. "What a clown!"
+
+The clown man whirled around to search for the source of the noise. Soon he found her sitting on the flag, and pointed at her.
+
+"What's with that bird?" He demanded in a haughty voice.
+
+"It's just a magpie," the guard shrugged, too tired to care.
+
+"It just laughed at me," he said in outrage, glaring daggers at Liora.
+
+"Chak-chak-chak!" Liora said. "Sure did!"
+
+She heard Renir laughing in her mind as well, which in turn made her laugh more.
+
+I can't believe somebody would wear that!
+
+I'm glad to see that this isn't a fashion trend for the rich in this world.
+
+Hell no!
+
+"It may sound like laughing, but this is a noise that magpies constantly make. May I see your pass?" The guard said tiredly, while a few people in front of the line were snickering.
+
+"Pff! What rubbish that I'd have to stop in this crude place. Here, the pass, and let me through already!" Lord Puffypants demanded. "I don't want to catch whatever these poor people have."
+
+The guard glanced at the pass and nodded. "Go on through."
+
+Lord Puffypants harumphed and went back into the carriage.
+
+Wow, he got through without even stating his name or anything. How convenient!
+
+If only we could have a ticket like that. Oh, wait! You're a bird. You could just fly over the wall!
+
+But then we'd have to ditch our friends.
+
+Our friends?
+
+Listen, they were the first ones who gave me proper meat in this world. I'll repay that debt. Imma get them that special pass.
+
+With that said, Liora flew over the fancy carriage and landed on its roof.
+
+Liora, this is an incredibly stupid idea. You'll be killed if they catch you.
+
+It's alright, because I don't plan on getting caught.
+
+Don't underestimate this guy just because he has no fashion sense. He is most definitely an Elite.
+
+An elite? Like a nobleman, you mean?
+
+No. Velithra doesn't have nobles anymore. Our country has ascended above such a crude system and has become the strongest power on this continent.
+
+Please, don't go into one of your long-winded lectures. Just explain what an elite is.
+
+An Elite is a member of one of the nine Orders. They are respected specialists in their field. Given that we're in one of Duncan's cities and the way the dude carried himself, he is likely an inspector.
+
+An inspector is considered an elite?
+
+If they've completed the Path of Iron Law—yes.
+
+I have no idea what that is, but whatever. I understand that he's mildly important. Don't worry. The sun is already beginning to set. This guy won't even know what happened.
+
+Or we could just head to the dungeon?
+
+No.
+
+Liora didn't elaborate further, but the reality was that she didn't want to go to the dungeon. The brief encounter with the gnoll had been enough for her to not want to enter any enclosed, underground space ever again. But as her Treasure Sense went haywire, Liora realized that she had done the right thing. The city was filled with valuable things.
+
+She looked around eagerly from atop the carriage. The buildings in Cyene were symmetrical, adhering to rigid lines and forms, and they were made mostly out of heavy stone and some metal. The streets were neatly paved, and everything was kept spotless. Even the rare flowerpot or tree was perfectly arranged, and bushes were trimmed in a precise shape so that they wouldn't hinder anything.
+
+Wow, this place looks… stiff.
+
+Yeah, and you're standing out like a sore thumb.
+
+Liora realized that Renir was right. People stopped and stared at her as she rode on top of the carriage. Looking around, she saw that she was the only bird in sight. The guards within the city eyed her suspiciously, clearly debating whether they should do something about her or not.
+
+Where are all the other birds?
+
+If I remember right, then Duncan ordered all bird nests found within the city to be destroyed. The only birds you'll find here are the specially trained messenger pigeons and stragglers like you.
+
+I do not like this Duncan person.
+
+Yeah, me neither. But seriously, get out of sight at least.
+
+Liora flew off the carriage and disappeared into a side street. She tried to keep to the shadows to avoid the curious glances of townspeople.
+
+[Your skill <Shadow Glide> has reached [Adept] level.]
+
+[Shadow Glide – Allows for a silent flight, especially in dark places with low visibility. At [Adept] level, detection by sound or sight is reduced by 50%.]
+
+I'm half invisible!
+
+And half visible.
+
+Haha, very funny. But come on, this should make it easier to sneak around.
+
+Liora's words were soon proven to be true as barely anybody looked her way anymore. She flew from one side street to the next, occasionally peeking over the rooftops to track the carriage. It kept heading deeper and deeper into the city until it reached another gate where Lord Fluffypants once again flourished his special pass.
+
+She flew over the wall, no problem, and followed the carriage until it reached some grand mansion. The place clearly belonged to Lord Fluffypants because it had his signature weird taste written all over the place. Instead of adhering to the rather monotone and strict structure of the city, his mansion used bright red bricks for walls, with weird metallic structures littering his garden.
+
+Is this a scrapyard?
+
+What's a scrapyard?
+
+You don't have those here? It's a garbage dump for old metal.
+
+She heard an amused laugh from Renir in her mind.
+
+It certainly does look like that, doesn't it?
+
+Are you sure this guy is an Elite?
+
+He did enter the Inner City, so yeah, he must be. This one must be the black sheep of this flock.
+
+The metallic artworks provided Liora with the perfect place to perch and observe the carriage pulling up to the driveway. A group of well-dressed maids and butlers greeted Lord Fluffypants. Oddly enough, the servants looked more professional than the supposed Elite.
+
+He's heading inside. How do you intend to get that special pass now?
+
+Easy—I follow.
+
+What?!
+
+Liora waited until Lord Fluffypants was inside, then followed him. Renir was screeching profanities in her head, but she Faded and slipped inside the mansion without anybody noticing her.
+
+The interior largely had the same weirdness as the garden, with metallic structures and open pipes used for decorations. It looked like the house of a modern interior designer. It even had an exposed brick wall and staircase that looked to be made from driftwood.
+
+The lighting was also irregular due to the unusually shaped lamps, which didn't provide enough light in the large entrance hall. But it was perfect for Liora as she could just hide on one of the large decorative pipes near the ceiling.
+
+This place is absolutely horrendous.
+
+Tell me about it… And they told me my place was chaotic.
+
+Liora watched how Lord Fluffypants barked orders at his servants, then went upstairs to take a bath, apparently. Liora followed, flying close to the dimly lit ceiling. Even without Fade it seemed like nobody was any wiser about her presence.
+
+He'll definitely have to put that pass down at some point.
+
+As if having heard her, Lord Fluffypants reached into the inner pocket of his vest and pulled out the special pass.
+
+"Put this in my office and find the documents I'll need for tomorrow's inspection," he said, giving the pass to the butler.
+
+"At once, Your Excellency," the butler replied, bowing politely and carefully taking the pass. It appeared that, despite the weirdness, Lord Fluffypants was well respected by his staff.
+
+He headed down one corridor while the butler turned the other way. Liora followed the butler. He headed pretty deep into the mansion, but since there were these weird decorations everywhere, she had no problem staying hidden.
+
+Finally, the butler entered what she assumed to be the office. He was fast, entering and closing the door almost immediately. Thankfully, her fast wings and Fade made sure that she got in unnoticed. It was almost boring how easy it was.
+
+The office itself couldn't even be called that. It was filled with weird metallic shelves—something one would expect to see in a factory. The table was also made out of metal, as were the chairs. Even with the cushion, they didn't look very comfortable to sit in.
+
+However, the place was better lit than the corridor, making Liora fear that the moment her Fade disappeared, she would be discovered. Hastily, she searched for a hiding spot and settled to fly under one of the chairs near the main desk.
+
+The butler rummaged around the table for a bit, then headed for the door. She waited until he was gone, then came out of her hiding spot.
+
+That was easy.
+
+More like extremely foolish. Do you want to become a roast chicken? All those butlers are trained to deal with intruders, and more likely than not, some of them can use magic.
+
+Oh, hush. There's no need to worry about scenarios that didn't happen. Let's focus on getting the pass.
+
+Liora flew up on the table, hoping that perhaps it was just placed there, but sadly, things were not so convenient. So she began rummaging through the drawers. She grabbed the top one with her talons and flew backwards to open it. It was much more difficult than she thought, and the drawer made a horrible screeching noise.
+
+STOP!
+
+Geez, they need to oil up these drawers.
+
+Why would you oil metal?
+
+Oh, never mind. I almost got it.
+
+With a loud screech, the drawer flew open and kept sliding until it fell to the floor with a loud crash.
+
+"What was that?!" A voice called from the corridor.

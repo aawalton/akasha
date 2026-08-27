@@ -1,0 +1,217 @@
+---
+id: d5045169-5993-5bf1-bab2-f35b44d858f0
+page-type-slug: story-chapter-royal-road
+title: "The Story So Far: First Edition"
+slug: 0001-the-story-so-far-first-edition
+partOf: the-new-world
+position: 1
+ownLength: 2548
+unit: words
+ownProgress: 2548
+publishedAt: 2017-08-16
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/155785/the-story-so-far-first-edition"
+royalRoadId: "155785"
+markedReadAt: "2026-06-29T21:20:42.105Z"
+---
+
+This is an update chapter for the important status developments Daniel has recieved since the start of book 1.
+
+I also give insight into each of the bonuses if you're interested in my analysis. This will hopefully make a lot of the mechanics easier to understand. For my older readers, it's been years since they've seen some of this stuff too, so this is to help them keep current with anything going on in the story. Hope you folks enjoy.
+
+Daniel's Armor
+
+These bonuses have extreme synergy with endurance, which is Daniel's hallmark stat.
+
+Daniel's Skill Trees
+
+Daniel's skill trees are pretty unusual. Several of them are expected for most people. However, he has three trees that are exceptional. The most unusual, by far, is the determinator trees. They are essentially hard locked out of the system, and they use archiac standards that other skill trees no longer use. Baldag-Ruhl and Daniel's unusual starting zone is how Daniel obtained them. The obliterator tree isn't as unique, though it's still very powerful and relatively rare.
+
+The genesis of potential tree is the second most unusual skill tree that Daniel has alongside his blood magic. Determinator gives Daniel a high multiplier to his longevity stats and attributes, and obliterator gives him more stats in general. Genesis of potential dramatically increases his scaling potential as he gets to higher levels.
+
+Ancient | 60 health, stamina, and mana. 100% skill and exp gain.
+
+Determinator | I | 5 iterations | Bonuses: 30% to regenerative stats total.
+
+Determinator | II | 5 Iterations | Bonuses: 70% to regenerative stats. +10% willpower.
+
+Determinator | III | +40% Endurance and +40% Willpower. +10 hp-regen and +100 stamina regen. Internal motivation scaling doubled, mental fortitude doubled, and immunity to external corruption.
+
+Fighter I | +5% to physical power and resistance multiplier
+
+Fighter II | +10% to physical power and resistance multiplier. +10 health and stamina.
+
+Vicious | +5% to damate dealt.
+
+Obliterator | +4 attribute point per 5 levels. Effect is retroactive for all levels before 100. +100% experience gained from riftkeepers and unknowns.
+
+Genesis of Potential | +2 extra level 100 leveling perk in total so far. This isn't fully leveled.
+
+Daniel's Perks
+
+I've detailed the perks by attribute below. Generally, most people obtain two level 30 perks that double the consumption of stamina or mana apiece. In Daniel's case, he's chosen to get all three for both since he can easily handle the increased stamina and mana consumption that comes with those selections. Daniel has also obtained extra level 100 perks which are extremely powerful, generally speaking. Daniel's blood magic perk also sets him apart, making him bulkier than most people.
+
+It's worth noting that everyone at a remotely high level obtains the levels 10-25 perks for each attribute. Eg, the primary endurance perks obtained at endurance levels 10, 15, 20, and 25. These are considered fundamental and a part of being in the system. It's also a part of the system that there are two chains of attributes. These are the baseline attributes that begin the feeding of one attribute into another through higher level attribute perks.
+
+Endurance > willpower > intelligence > luck > charisma.
+
+Constitution > strength > dexterity > perception > charisma.
+
+For many people, the stats feeding into each other isn't something primary to their build. For Daniel, it 100% is. He's banking on getting a very high raw stat total while weaponizing less offensive attributes. Here are the actual perks.
+
+General Perks
+
+[Blood Magic | Convert health into mana - Note: Refunds Discipline and Willful perks, canceling their effects and perk point consumption - You have willed flesh into energy, and so now, you may convert mana into health and mana regen into health regen. You may use health in place of mana. You may use health regen in place of mana regen.]
+
+[Body of Iron - Gives a permanent 10% bonus for endurance, constitution, and strength attribute bonuses]
+
+[Fledgling | +10% to experience.]
+
+[Beginner | Exit starting zone.]
+
+Endurance Perks
+
+[Tireless(Endurance over 10) - Your endurance is good. Doubles Stamina regeneration.]
+
+[Unyielding(Endurance over 15) - Your endurance is admirable. Doubles health regeneration.]
+
+[Unrelenting(endurance 20) - Your endurance is very impressive. +50 health and stamina, +5 health regen, +50 stamina regen. Adds 1/10th of your endurance to willpower.]
+
+[Unstoppable(endurance over 25) - Your endurance is incredible. +5 health regen, +50 to stamina regen, +5 total health and stamina gained per point in endurance, another 1/10th of your endurance is converted into willpower.]
+
+[Unbounded(Endurance over 30) - Your endurance is without end. Movement impairing effects, poisons, curses,  and radiation are 75% as effective. Add 2 health, stamina, stamina regen and .2 health regen per gained level, halved sleep and sustenance requirements, and lifespan doubled.]
+
+[Unbroken(Endurance of 100 or more plus Unstoppable and Unbounded unlocked - You are time's unending march, unbroken and unending. You are a testament to the will of sentients everywhere and to the might of longevity. While others collapse where you walk, you stand tall over their bodies. You stand alone.
+
+Lifespan multiplier doubled once more. Yet another 1/10th of endurance added to willpower. Another 5 health and stamina awarded per point in endurance. | 20 in total, excluding multipliers | Leveling bonuses for endurance doubled. You no longer require any sleep.]
+
+Constitution Perks
+
+[Tough(Constitution of at least 10) - Your constitution is good. Adds +0.5% damage reduction per point in constitution.]
+
+[Dense(Constitution of at least 15) - Your constitution is admirable. Adds another 0.5% to damage reduction per point in constitution.]
+
+[Hulking(Constitution of at least 20) - Your constitution is excellent. Doubles mass and density gain from each point in constitution. Doubles the hardness of bones.]
+
+[Titanic(Constitution of 25 or higher) - Your constitution is incredible. Half of damage resistance is applied to other resistances. 1/10th of your constitution is added to strength.]
+
+[Colossal(Constitution of at least 30) - Your constitution is without limit. Half's strength requirements for moving bodyweight and limbs. Adds another 1/10th of constitution to strength. Adds .2% damage reduction per level, extra weight, density, and height per level, and each point in constitution grants 5 health. Doubles stamina consumption.]
+
+[Behemoth(Constitution of 100 or more plus Hulking and Titanic unlocked - Each step you take carries the heft of mountains. Your hands carve out riverbeds, and your breath swirls the skies. You stand tall, your shade a looming omen of what is to come. For those under you, your shadow blots out the sun. You see the cosmos. Others see you instead.
+
+Doubles weight and density bonuses from constitution. Yet another 1/10th of constitution added towards strength. Leveling bonuses for constitution are doubled. Gain an additional 5 more health per point in constitution, and 2 extra hp per level up. Finite control of additional tissue and mass halved in difficulty. Physical skills scale with constitution.]
+
+Willpower Perks
+
+[Headstrong(Willpower of at least 15) - Your willpower is admirable. Willpower adds extra internal motivation per point. +1 mana regen.]
+
+[Uncompromising(Willpower of at least 25) - Your willpower is incredible. Doubles mental resistance from willpower. Half of mental resistance from willpower added to elemental, plasma, and radiation resistances. 1/10th of willpower is added to intelligence.]
+
+[Arbiter of Will(Willpower of 30 or more) - Your will can change fate. Another 1/10th of willpower to intelligence, 10+ mana regeneration. 0.2+ mana regen per level. Extra internal motivation and 0.2% mental resistance per level.]
+
+[Paragon of Will(Willpower of 100 or more plus Uncompromising and Arbiter unlocked - Most live their lives with their potential unfounded. You’ve walked those limits time and time again. In your journey, you learned that limits are what you make of them, not what you think them to be.
+
+Doubles internal motivation once more. Yet another 1/10th of willpower is added to intelligence. An additional .1 mana regen rewarded per point of willpower - Blood Magic converts mana regen to health regen. Doubles the leveling bonuses gained from willpower. Doubles current affinities for magic. Increases mythical skill cap by 1 | 2 total.]
+
+Strength Perks
+
+[Strong(Strength of 10 or more) - You are strong. Doubles bonus physical damage bonus.]
+
+[Powerful(Strength of 15 or more) - Your strength is admirable. Doubles carrying weight.]
+
+[Devastating(Strength of 20 or more) - Your strength is excellent. Double's your body's ability to withstand self-created physical forces. Doubles precision of strength. Adds 1/10th of strength to dexterity.]
+
+[Overwhelming(Strength of 25 or more) - Your strength is incredible. Increases physical power by a flat 30%, adds another 1/10th of strength to dexterity, and physical attacks have a chance to maim targets.]
+
+[Cataclysmic(Strength of 30 or more) - Your strength can move mountains. Doubles maim chance, adds 1% physical power bonus per level, Strength adds 5 health per point, and gives 1% total increased total physical power for every 1% of health missing. Doubles stamina consumption.]
+
+[Apocalyptic(Strength of 100 or more plus Overwhelming and Cataclysmic unlocked - Strength carries many meanings to many people. The reason for this is simple; people wish to steal from strength’s fundamental draw. Unlike other interpretations, physical strength needs no other words to speak its meaning to life. To anyone who’s felt true power, its value is obvious.
+
+And now you have it.
+
+Doubles physical power gained from strength. Yet another 1/10th of strength added towards dexterity. Doubles leveling bonuses from Strength. Adds 5 more health per point of strength. Ease of motor recruitment for muscle cells doubled. Trait added: Berserker - 2% multiplier increase towards physical power for every 1% of missing health.]
+
+Dexterity Perks
+
+[Flexible(Dexterity of 10 or more) - Your dexterity is good. Doubles flexibility bonus.]
+
+[Lithe(Dexterity of 15 or more) - Your dexterity is admirable. Doubles reflexive and reaction time bonus from dexterity.]
+
+[Graceful(Dexterity of 20 or more) - Your dexterity is excellent. 1/10th of dexterity added to perception. Physical oriented skills are learned twice as quickly.
+
+[Effortless(Dexterity of 25 or more) - Your dexterity is incredible. Adds another 1/10th of dexterity to perception. Doubles effects of physical oriented skills. Body weight and armor no longer affect balance.]
+
+[Masterful(Dexterity of 30 or more) - Your dexterity is a monument to potential. Adds extra balance, reaction time, and physical control per level. Each point in dexterity adds 5 points of health. Movement of any kind requires half as much thought and focus for their execution. Double's stamina consumption.]
+
+Perception Perks
+
+[Perceptive(Perception of 10 or more) - Your perception is good. Doubles sensory bonuses.]
+
+[Discerning(Perception of 15 or more) - Your perception is excellent. Double's comprehension bonuses.]
+
+[Piercing(Perception of 20 or more) - Your perception is amazing. Levels can no longer be blanked out, unless the target is unknown. Extra data on enemies is categorized into your personal archive. Minimap data improved to include terrain, obstacles, and enemies.]
+
+[Clear-Sighted(Perception of 25 or more) - Your perception is incredible. Adds 1/10th of perception to charisma. Capacity for comprehension doubled. Radius of awareness doubled. Traps and enemies are color coded on your minimap.]
+
+[All-Seeing(Perception of 30 or more) - Another 1/10th of perception added towards charisma. Additional comprehension, sensory excellence, and awareness per level. +5 mana per point in perception. Doubles mana costs.]
+
+Intelligence Perks
+
+[Smart(Intelligence of 10 or more) - Your intelligence is good. Doubles effective memory.]
+
+[Quick Witted(Intelligence of 15 or more) - You've sharpened your mind to a razor's edge. Doubles reasoning speeds.]
+
+[Brilliant(Intelligence of 20 or more) - Your intelligence is amazing. 1/10th of intelligence added to luck. Mental skills are gained twice as quickly.
+
+[Genius(Intelligence of 25 or more) - Your intelligence is incredible. Another 1/10th of intelligence added to luck. Doubles effect of mental skills. Level of mana(Health due to Blood Magic) no longer affects mental acuity.]
+
+[Omniscient(Intelligence of 30 or more) - You are all knowing. +5 mana per point of intelligence. +2 mana per level. Increased critical thinking and memory per level. Emotional tolerance doubled. Spells may be cast silently. Doubles mana costs.]
+
+[All-Knowing(Intelligence of 100 or more plus Genius and Omniscient unlocked - Your mind is a trap, a bottomless abyss that swallows everything it sees with absolute clarity. Others walk on this plane with minds muddled. From above, you gaze below and feel pity. What others call a conscious, you call primal. In you they see genius, but in yourself, you know you’ve barely begun.
+
+Luck Perks
+
+[Lucky(Luck of 10 or more) - Your luck is good. Doubles money found.]
+
+[Fortunate(Luck of 15 or more) - Your luck is admirable. Doubles chances of rare events.]
+
+[Rigged Dice(Luck of 20 or more) - Your luck is amazing. Doubles the increase of odds being in your favor. You're more likely to meet the right people at the right time.]
+
+[Miraculous(Luck 25 or more) - Your luck is incredible. 1/10th of luck added to Charisma. Circumstances will more likely guide you towards your goals. Sometimes, you'll ask just the right questions, learn just what you need to know, and do just what you need to during a crisis.]
+
+[Opportunity Untold(Luck 30 or more) - Your luck is unexplainable. Gives additional money found, odds in your favor, and chance of rare event for every level gained. Every point in luck gives an additional three points in mana, health, and stamina. Another 1/10th of your luck is added to charisma. You gain one revival after death. Use it wisely.]
+
+Charisma Perks
+
+[Well-Worded(Charisma 10 or more) - Your charisma is good. Doubles haggling ability.]
+
+[Convincing(Charisma 15 or more) - Your charisma is admirable. Doubles persuasiveness.]
+
+[Charming(Charisma 20 or more) - Your charisma is amazing. Doubles likability. Charisma let's you open up more in conversation, making you more genuine and authentic.]
+
+[Compelling(Charisma 25 or more) - Your charisma is incredible. Your words have weight to them, making others think of what you've said after you've spoken them. Your voice and tone when speaking grows easier to listen to from additional points of charisma.]
+
+[Undeniable(Charisma 30 or more) - Your presence is a power all to itself. Doubles the growth and effects of speech related skills. Gives additional likeability, persuasion, haggling, and charm per level. Doubles mana consumption.]
+
+Daniel's Skills
+
+Skills in the new world operate several tiers of skills. In this case, normal skills are the floor. Unique skills require five normal skills to create or a much more difficult initial unlocking condition. Mythical skills require three unique skills, meaning fifteen normal skills molded into a single skill.
+
+Normal Skills
+
+Pain Tolerance, Desperation, Ava Maria, Death's Dance, Dodging, Pugilist, Physical Fitness, Focus, Scorn, Sneak, History, Biology, Mathematics, Patience, Throwing, Momentum, BloodHollow Bat Slayer, Coarsened Hands, Travel, Fear, Intimidation, Speechcraft, Leadership, Mana Manipulation, Stomp, Dominion of the Mind, Blitz, Augmentation, Augmentation Manipulation, Unending Tempest, Comprehension of Oblivion, Soul forging, Soul Siphon, Craftsmanship, Enchanting.
+
+Unique Skills
+
+Lumbering Brute - Fused skills: Heavy Hands, Coarsened Knuckles, Momentum, Dodging, and Pugilist.
+
+Savage Berserker - Fused Skills: Blitz, Ferocity, Desperation, Death's Dance, and Scorn.
+
+Tranquil Duelist - Fused Skills: Deflection, Calm, Patience, Countering, and Dominion of the Mind.
+
+Mythical Skills
+
+Boundless Storm - Fused skills: Lumbering Brute, Savage Berserker, and Tranquil Duelist.
+
+Enjoy Reading
+
+So that should be a solid breakdown for everybody. I hope you all enjoy the New World. Ratings are always appreciated, and please consider picking up the book in the future. Thank you all for your support for this project, and I appreciate you all.

@@ -1,0 +1,473 @@
+---
+id: 7669864c-7160-53ea-bc13-587c9b3e50d8
+page-type-slug: story-chapter-royal-road
+title: "381 Another Antecedence"
+slug: 0341-381-another-antecedence
+partOf: the-new-world
+position: 341
+ownLength: 2727
+unit: words
+ownProgress: 2727
+publishedAt: 2025-02-28
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2093727/381-another-antecedence"
+royalRoadId: "2093727"
+markedReadAt: "2026-06-29T21:32:56.436Z"
+---
+
+"Seeing and knowing are distinct concepts. You should learn the difference."
+
+A wall smiled.
+
+"You speak of sight? Would the blind preach to the able?"
+
+Helios inspected his hand.
+
+"There is more than one way to see, and you shall soon know it."
+
+Helios stared at me and clasped his armored hand into a fist.
+
+"Listen, Harbinger. There's much to discuss and little time to do so."
+
+I frowned.
+
+"About the lottery?"
+
+Helios's face gnarled.
+
+"No. Of Elysium. Of Schema...And of my uncle."
+
+Chapter Begin
+
+My eyes sharpened.
+
+"What about Elysium?"
+
+Helios sighed.
+
+"Let's have the lich be here."
+
+I sent the status message, and a minute later, Torix walked out of a short-range warp.
+
+"Ah, it's good to see everyone. Whatever is the matter-"
+
+Torix's eyes flared.
+
+"Helios? It's good to see you're alive and well."
+
+Helios raised his brow.
+
+"You're still in your disciple's old flesh?"
+
+Torix's eyes turned white.
+
+"Of course. And it's still stronger than yours."
+
+I reached out a hand, and Torix gave me a high five. Helios shook his head.
+
+"Children."
+
+I pointed at Torix.
+
+"Speaking of your body, I need to make you a new one."
+
+Torix raised his palms.
+
+"I doubt I could handle the mana production of your current build."
+
+I frowned.
+
+"Actually, I found a way to help ease that process. I met this mage called Targask. He taught me a few different kinds of magic, including ways of making mana easier to handle."
+
+Torix supported his chin with a fist.
+
+"Hm, he sounds like an interesting fellow. Could we meet?"
+
+I shook my head.
+
+"No. He's dead."
+
+Torix shook his head.
+
+"A shame. What is the method he shared?"
+
+Helios tapped his foot.
+
+"Perhaps save the sorcerial conversations for later?"
+
+Torix shook his hands.
+
+"Of course. Do excuse me. I've been rather easy to distract as of late."
+
+Plazia walked over, magic oozing from him. His insects writhed across the ground, cooing for his favor. The bugs died as a field crossed over us. Our isolation from our surroundings magnified tenfold, becoming something absolute. Plazia sat closer, forming a basalt throne as he did.
+
+"Tell us, blind one. What is it we must speak of?"
+
+Before speaking, I walked out of the room and confinement magic. I sent an invitation to my guild to Shalahora. Seconds later, he accepted it, and I messaged him to come over. The Sovereign spawned from the ether. He sat down on an umbral chair of shadows.
+
+"I arrive as asked."
+
+Helios snapped his fingers, sitting down on a void ice chair.
+
+"I shall speak of my experience and what I learned during my lottery."
+
+Following the crew, I sat down on a gravity well.
+
+"It sounds like ours. How much did Elysium interfere?"
+
+Torix snapped his fingers, several undead spawning and interlocking beneath him. A throne of bones formed.
+
+"From what Daniel's spoken of, we may ascertain that all the held lotteries were trifled with."
+
+Helios bristled.
+
+"Then it's as I expected. Elysium's forces have likely quintupled in an instant."
+
+I leaned forward.
+
+"How?"
+
+Helios leaned back in his chair.
+
+"It's the result of Elysium's actions. My lottery was called as all the others were. I was placed with five hundred rulers within an ancient, unknown ruin. We were told the conditions and given minutes to prepare. Seven of those present were albony. They were my kin...My brothers and sisters, including Victoria."
+
+A pain boiled under the surface as Helios sneered.
+
+"We immediately decided on roles, tasks, and objectives. We lacked the immediate power of the other rulers, but we chose to compensate through unity and cooperation. This involved being close, so we chose to gather after being warped to L-6. Considering the lack of warping, we'd need to find another way of finding each other."
+
+Helios turned a palm.
+
+"Considering the long-range consistency of psionics, we chose basic mind magic."
+
+I winced, peering away. Helios nodded.
+
+"It was a dire mistake."
+
+Torix grabbed his chin.
+
+"Elysium's agents intercepted the calls?"
+
+Helios's lips shifted, showing his teeth.
+
+"Yes. We weren't eliminated immediately. In fact, we found one another within the first few days. All seemed well. We evaded the other rulers, gathered resources, and established safety. The planet, while inhospitable, wasn't a wasteland."
+
+Helios frowned.
+
+"While we weren't equipped for such hardship, we found methods to manage. Several of my cousins hadn't practiced magic or combat in years, having grown fat and lazy. Victoria and I still competed, and we took charge of our group. However, as the days dragged onto months, something about Victoria was...Different."
+
+Plazia's throne smiled, jagged grins spreading across it. The hivemind said,
+
+"She was remade in Elysium's image?"
+
+Helios sighed.
+
+"It left us at a loss of who and what was happening. She steadily dismantled the others while we were unaware. In that isolation, I was surrounded by the smiles of bodies I knew but people I didn't. I was alone."
+
+Remembering my solitary months on L-7, I grimaced.
+
+"Yeah. That's hard."
+
+Helios crossed a leg.
+
+"I had a habit of sleeping within void ice. Initially, this kept me from being a victim of their insidious methods. I uncovered their treachery whenever they tried piercing my prison. I found an escape and became the hunted. Other rulers helped my corrupted kin, and I ran to the worst part of the world to bide time."
+
+I grimaced.
+
+"The ossuary?"
+
+Helios tilted his head. I sat upright.
+
+"Oh, it's my name for where the giant eldritch's bones piled up, and the strongest became monsters I called primevals. Other stuff too, but you already know about that."
+
+Helios's jaw slackened.
+
+"What?"
+
+I waved my hands.
+
+"Uh, never mind. Don't worry about it. What was the worst part of your planet?"
+
+Helios pointed at me.
+
+"Algae spread across the sky in the worst part of L-6, and colossal eldritch fell from these deformed clouds. They would battle for territories for their algae."
+
+I nodded.
+
+"Ok, now I know what you're talking about. That's pretty bad."
+
+Helios pressed a fingertip to his temple.
+
+"It was. I found sanctum among the colossi. Other rulers found me time and time again, but I escaped them. Eventually, I killed several of my kin and other rulers. I used the colossi against them, gaining an advantage."
+
+Helios peered down.
+
+"An advantage they shattered. They found a way of controlling the colossi and cornered me. I fought until my body had broken and my mind splintered. They implanted a Hybrid within me before I escaped their grasp. The implanted monster drilled through my bones, carving into my marrow."
+
+Plazia's throne spawned eyes that peered at Helios. The hivemind said, "They used their twisted aberrations to search under your skin and mold your mind...This world will falter if we find their teeth and claws here."
+
+My runes glowed.
+
+"Their teeth will break, and their claws will shatter."
+
+Helios's eyes grew distant.
+
+"I never dreamed of facing those horrors, but I lacked the imagination to conceive of their potential. On L-6, my nightmares were when I wakened, my body changed to their plaything."
+
+The room hummed from the activity above. Helios grabbed his mane while looking up. He let out a gasp of air before breathing in.
+
+"The Hybrid eroded me from within, and I couldn't remove it. After embrittling my body, it left me a shade of what I was. There was no return. I sliced off my arm and leg. I tore out my eye. I did everything I could to live longer. It didn't matter. I was the walking dead, a puppet, a caricatured corpse."
+
+Helios scoffed.
+
+"I feared being a puppet of someone else all my life, yet I never imagined it would be from within. Hah. Haha."
+
+Hearing Helios's hollow laugh hurt. Leaning forward, ascendant mana pooled beneath me as I imagined Elysium finding a way to my home and what they would do to it. My hands shook as I clasped them.
+
+Torix tilted his head at Helios.
+
+"But you lived?"
+
+Helios stared at the ceiling. Taking another breath, Helios closed his eyes. A while passed, and he pulled his gaze back down while lowering his hands.
+
+"I found life in death, and I was not idle in my chase. I hunted down several of their agents and uncovered their secrets. I learned they hatched this plot with all the lotteries and that Schema lacked any and all awareness of their interference. I also learned of Obolis's foreknowledge."
+
+Helios peered away.
+
+"I watched my body bleed and bend, knowing several artifacts in Obolis's storerooms could've saved me. If I had time, if we all had time, we wouldn't have been so weak and vulnerable. Then I considered it further - we never had to enter this little game. Obolis could've saved us all. He had chosen not to."
+
+I took a breath, assimilating the ascendant mana beneath me.
+
+"I'm sorry you figured that out the hard way. I learned because Obolis had no choice but to tell me."
+
+Helios waved a hand.
+
+"Save your apologies for someone who deserves them. I still remember when we first met. I threatened Althea's life to send you a message."
+
+Helios covered his face.
+
+"What did I tell you? I'm a reckless idiot. Fear me. Agh. It hurts to even think of it...I still am astonished that you haven't tortured me for it."
+
+I shrugged.
+
+"Don't tempt me."
+
+Plazia leaned forward, beady eyes glistening underneath cracks in his armor.
+
+"I volunteer."
+
+Torix waved a hand.
+
+"What other secrets did you uncover? We need every ounce of information we can glean from this."
+
+Helios nodded.
+
+"I understood that the other lotteries would result in the Empire's downfall. I also gained knowledge of their plot to ally with Daniel to gain access to his cities on Leviathan-7. That change happened during the galactic meeting."
+
+My eyes deadened.
+
+"Ally? With me?"
+
+Helios peered off.
+
+"That's the information I gathered. Regardless, you all know the rest. At my death, I put myself in a true stasis to prevent Schema from reforming me. I also wanted to ensure that none could pry me from my death unless it was the Harbinger."
+
+Torix swung his hands in excitement.
+
+"Ah, allow me. You've seen Daniel's resistance to Chrona's time magic. Therefore, you assumed his resistance would allow him to pierce the stasis, something even mind magic couldn't do. It also gave us time to rectify the Hybrid's effects on you."
+
+Helios grinned.
+
+"Precisely."
+
+Torix tapped his temple.
+
+"And you couldn't trust the other albony that returned. This strategy protected you from them as well. Clever. Very clever."
+
+Helios grinned more.
+
+I sighed.
+
+"Well, that verifies a lot of what we already knew."
+
+Plazia leaned onto a hand that rested on his throne.
+
+"We no longer work off assumptions. We know these as facts. Elysium pierced Schema's informational veil, and we are still at the mercy of it. They may always manipulate the AI's rules to corner and divide us, and they will use any tactics conceivable to get what they want."
+
+Plazia spread his hands, and his throne's eyes widened.
+
+"They are evil incarnate. My fellow Ruhls and I stare in awe."
+
+Torix tapped the edge of his bone throne.
+
+"Perhaps, but perhaps not."
+
+Helios nodded.
+
+"I agree."
+
+I furrowed my brow.
+
+"What? Neither of you can be serious, right?"
+
+Torix leaned back.
+
+"I'm deathly serious."
+
+I let out a chuckle. Torix's eyes flared.
+
+"Do you find my thoughts funny?"
+
+I waved a hand.
+
+"No, you said deathly serious on a bone throne."
+
+Torix peered down, then back up before he cackled.
+
+"Ahh...And here I believed you had a bone to pick with me."
+
+Helios dragged his hands down his face.
+
+"It never stops."
+
+Cutting right back to the topic, Plazia tilted his head.
+
+"What logic supports your ideas?"
+
+Helios sighed.
+
+"It's an unfortunate reality, but Elysium's goals are noble. They intended to fix the issues within Schema's system, and this lottery has only exposed more of those faults."
+
+I spread my hands.
+
+"What the hell? No. That didn't happen at all."
+
+Torix raised a palm.
+
+"You've allowed your judgment to be clouded, disciple."
+
+I raised a tensed hand.
+
+"They're destroying people's minds and putting puppets in their place."
+
+Torix turned a hand to me.
+
+"To who? To how many? For what reasons? We lack many answers, so we are judging from a small vantage point of the situation. It is like watching a man cut off another man's leg. You may call that evil, but what if it was a surgeon saving a patient from an infection in his foot?"
+
+I stood up.
+
+"This is different."
+
+Torix gave me a sharp glance.
+
+"We don't know that for certain."
+
+Plazia cackled in his chair.
+
+"I can understand the necromancer justifying the use of other's bodies, but you-"
+
+Plazia pointed at Helios.
+
+"I can hardly imagine you justifying their position given what you've experienced. Are you certain you weren't remade in their image?"
+
+Helios's eyes narrowed.
+
+"Shalahora has already checked me. Has he checked you?"
+
+Plazia tilted his head.
+
+"He will not. And perhaps I should check your mind as well...But more thoroughly."
+
+I reached out with Event Horizon, pressing on the others. I coiled the psyche-saturated aura around them like a snake squeezing a rat's neck. I seethed.
+
+"No one is going to threaten a mind in my guild. No one."
+
+The others froze in place. I narrowed my eyes.
+
+"Is that understood?"
+
+They nodded. I released them before taking a breath. I sat back down and took a moment. When was the last time I was this angry about anything? After massaging my temples, I murmured.
+
+"Torix. Helios. You might be right. I'm...I'm angry and in the weeds here. I can't see the trees anymore, so I'm missing the big picture."
+
+Helios gawked at me.
+
+"Was that your aura?"
+
+I nodded. Helios stared at his hands.
+
+"That was...Palpable."
+
+Torix brushed a shoulder pauldron.
+
+"Like an Old One's presence. Remarkable, truly."
+
+A pang of anger passed in my head at the comparison. They had no idea how wrong they were, but I let it go. If anything, I needed to quit checking other people and start checking myself. Taking a breath, I stretched out my hands to Helios and Torix.
+
+"Ok, guys. Make your case."
+
+Helios winced.
+
+"You may not know the full extent of Schema's problems, but I've seen them in person many times. Our Emp-" He shook his head. "The Empire enslaved many species and planets, and they are desolate places and peoples. Whenever you pick up the skeptiles, you will understand that."
+
+I furrowed my brow.
+
+"It's that bad?"
+
+Helios pinched the bridge of his nose.
+
+"It's...It's worse. The Empire sacrificed many innocents for Obolis's artifacts. Cultures and societies have been destroyed in greed's wake."
+
+I shook a hand.
+
+"But Elysium is controlling people's minds. You can't even have free will with them."
+
+Torix crossed his arms.
+
+"Is Schema so different?"
+
+I leaned back. Torix turned a hand.
+
+"You were trapped in BloodHollow initially before being trapped on earth with a quarantine. Then Schema trapped you with an unknown status, then with your position in a war against Elysium. It's never stopped. He trapped you in the lottery. Where is your free will in any of those circumstances?"
+
+My shoulders dropped.
+
+"I...I did get a choice. I chose to fight."
+
+Torix shook his head.
+
+"But it's either accomplish Schema's demands or die. That is slavery. There are no two ways about it, so let it be made plain."
+
+Taken aback, I nodded.
+
+"That's...That's fair."
+
+Torix's spread his hands to everyone.
+
+"Elysium is trying to stop all that nonsense. Their means are insidious but don't forget, so are Schemas." He locked eyes with me. "Part of the reason people have congregated to this guild is that you don't use those tools."
+
+I pressed my hand against my temple.
+
+"But at least Schema gave people a chance to survive. Elysium just killed everyone."
+
+Helios raised a brow.
+
+"What? They killed everyone?"
+
+I took a breath.
+
+"Yes. Everyone."
+
+Helios frowned.
+
+"Your lottery was vastly different than my own."
+
+Torix pressed his fingertips together.
+
+"What did Elysium do to your rulers?"
+
+Helios crossed his arms.
+
+"They ensured everyone's survival."
+
+I gawked. Helios shrugged.
+
+"494 survivors. I am the only reason any rulers died."

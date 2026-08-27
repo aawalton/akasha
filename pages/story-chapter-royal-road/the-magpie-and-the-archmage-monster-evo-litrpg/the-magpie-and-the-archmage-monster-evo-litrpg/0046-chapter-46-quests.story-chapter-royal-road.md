@@ -1,0 +1,249 @@
+---
+id: dcd942b1-741f-571d-a159-2584023a7a30
+page-type-slug: story-chapter-royal-road
+title: "Chapter 46 – Quests"
+slug: 0046-chapter-46-quests
+partOf: the-magpie-and-the-archmage-monster-evo-litrpg
+position: 46
+ownLength: 2322
+unit: words
+publishedAt: 2025-11-10
+link: "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2747757/chapter-46-quests"
+royalRoadId: "2747757"
+---
+
+Serena took Liora to the room the Guild had provided them with. In the end, they had decided to take two rooms. Kalen would take the small single room, while Serena and Kiva would share a double room. Unfortunately, the rooms for copper-ranked adventurers weren't very… good.
+
+Liora nearly squawked in shock when she saw it. The supposed double room had barely enough space to fit two small beds in it. It had no other furniture except for two wonky shelves nailed to the wall. The tiny window barely let in any light, and everything was covered in a layer of dust and cobwebs.
+
+There was barely any room for Serena and Kiva to walk. It was a good thing they could store their things in their Inventory, because it would be impossible to do that here.
+
+"Here, Liora. We saved this for you," Serena said and retrieved a bit of meat from her Inventory.
+
+Liora dug into it with gusto, enjoying the meal. It was a bit tough, and the seasoning was lacking, but at least it was filling.
+
+"That's chicken, you know. This makes you a cannibal," Kiva teased.
+
+"Liora not chicken," Liora countered, using a mix of Serena's and Kiva's voices, not pausing for a moment.
+
+"You talking with our voices is kind of creepy," the weasel girl said.
+
+"You creepy," Liora said in Kiva's voice.
+
+"Why, you little! I was going to offer you some of my chicken, but now I won't."
+
+"Don't lie, Kiva. I know you ate all of yours," Serena shook her head.
+
+"But I could have saved some for her next time. Now I won't," Kiva said stubbornly.
+
+"Chak-chak-chak!" Liora retorted. "I'll take it before you get a chance to eat it!"
+
+"I have no clue what you said, but I disagree anyway!"
+
+"Chak-chak-chak!" Liora mocked. "Kiva is great!"
+
+"No to whatever it is you said."
+
+Liora laughed to herself, having fooled the weasel girl.
+
+"Enough, Kiva. Let's put the Guild Ring on Liora and go to sleep," Serena said, barely suppressing a yawn. It was rather late.
+
+"Oh, yeah! But will she even understand the interface?" Kiva asked. "She might be smart, but I doubt she can read."
+
+Liora could read, but decided not to correct Kiva's false assumption. A bird being able to talk—acceptable due to their mimicry. But a bird being able to read would definitely raise questions.
+
+"That doesn't matter. What matters is that she wears it. That way, people can recognize her as part of the Guild. Noira said it's important if we're going to bring her with us into the dungeon," Serena said.
+
+"Not sure if I want to return to the dungeon…" Kiva admitted.
+
+"We'll have to if we want food to eat," Serena said, although she didn't look too keen to return to the dungeon either.
+
+She then withdrew a small copper ring and showed it to Liora. It was different from a ring on a human finger, but rather looked like one of those rings people used to mark birds. She supposed it was fair enough since she was a bird. But there was something that worried her.
+
+What about when I transform into my big form? A ring this small would just squeeze into my flesh…
+
+Don't worry, all Guild Rings are magically enhanced to adjust to the wearer's size. So it'll fit you even if you suddenly become bigger.
+
+That's awfully convenient.
+
+It's because some people possess skills that allow them to assume animal forms or alter their size temporarily.
+
+Liora watched as Serena secured the ring on her leg, the copper gleaming in meager candlelight.
+
+I hope this doesn't interfere with Shadow Glide and Fade.
+
+Theoretically, it shouldn't, but in the worst-case scenario, you can keep it in your Inventory when you want to remain hidden.
+
+Fair enough.
+
+"It suits you nicely, Liora," Serena nodded, showing off her own Guild Ring, which she had placed on the index finger of her right hand.
+
+"I'm just glad she wasn't… you know," Kiva said, throwing a suspicious glance around, as if walls could hear their conversation.
+
+"Me too. It's been a tough day. Let's go to sleep and decide what to do next tomorrow," Serena said, wiping the bedsheets.
+
+They appeared to be covered in sand and some sort of crumbs. Liora wondered how the girl could sleep in that dirt, but she supposed she was too tired to care at the moment. Kiva didn't even bother wiping her bed, instead curling up underneath the covers and falling asleep within a minute.
+
+"Good night, Liora. And thank you for everything. You've really saved us," Serena whispered sleepily, and soon her breath grew slower as she too fell asleep.
+
+Liora settled herself at the foot of the bed, ready to head into dreamland, too, when Renir suddenly spoke up in her mind.
+
+Excellent, they're asleep. Now I can tell you everything about your Guild Profile.
+
+Guild Profile?
+
+Just as she thought that, a System Window appeared before her.
+
+[Guild Profile]
+
+Name: Skye
+
+Race: Magpie (magical familiar)
+
+Rank: Copper
+
+Party: Serena, Kalen, Kiva
+
+Active Quests: 0
+
+Completed Quests: 1
+
+What is this?
+
+Guild Profile. Weren't you listening? I didn't want to bring this up before because your party members can automatically see it too. I didn't want them to figure out you can read.
+
+My name is wrong here!
+
+It's okay. Now that you have the ring, you can change it yourself.
+
+Oh, really?
+
+Liora willed the System to change her name in the Guild Profile from Skye to Liora.
+
+[Would you like to change your Guild Profile name from "Skye" to "Liora"? Warning: You may only change your name once.]
+
+Yes, change it!
+
+[Your Guild Profile name has been successfully updated to Liora.]
+
+Now that's better. What else can this ring do?
+
+As you see, it can track the quests you have undertaken. It will also track any progress you've made for that quest. Once you get to a higher rank, you'll be able to unlock new functions like Guild Inventory, Map, and viewing enemy profiles.
+
+Wow, this thing is really useful.
+
+Hence why I wanted you to get it. Now go to sleep. Tomorrow, you all should take up some simpler quests around town to see how the rings function and how to gain experience without fighting.
+
+I can do that?
+
+With the Guild Ring—you can!
+
+Liora was very pleased by this development. She didn't enjoy putting her life at risk, and while gaining glimmerstones was nice, she felt like she needed to be stronger to do it safely. Especially when there was a horde of corrupted monsters wriggling in the Cyene dungeon.
+
+Liora was woken up early by Serena—the sun had barely risen above the horizon.
+
+"Good morning, Liora," the woman chimed, gently patting her head feathers.
+
+Liora felt it was far too early to wake up. It was odd—as a magpie, she always woke up with the sun, never bothered by the early hour. As a starfeather corvid, she didn't like being active during the day. Her instincts were switched to those of a nocturnal bird, and the transition was a bit jarring.
+
+"I don't think she's a morning bird," Kiva chuckled, watching Liora groggily stretch out her wings.
+
+"Do you prefer nighttime, Liora?" Serena asked.
+
+"Nighttime," Liora replied sleepily.
+
+"If I could basically turn invisible in the dark, I'd prefer nighttime too," Kiva nodded.
+
+"Valid point."
+
+The two women went to do their business in the bathroom while Liora waited for them in a tree outside. At one point, she noticed Kalen sauntering out of his room, looking just as enthusiastic about the morning as Liora had been. At least somebody understood her plight.
+
+With them all cleaned up, the group went to a nearby pub for breakfast. Liora wanted some bacon, as did Kiva, but apparently, the reward they gained from the kobold quest wasn't enough for that. So they all settled for her omelet instead. Liora quite liked it—it was soft and fluffy and quite easy to eat.
+
+After that, they returned to the Guild with the full intent of taking on new quests. Liora wondered what they could do. Whatever it was, it would surely mean fighting corrupted kobolds. She would have to be ready with her Holy Light.
+
+"How about we do something easier today? Like a gathering quest?" Kiva suggested, pointing at a particular bronze rank quest with a sizable reward.
+
+What?! What about the dungeon? The kobolds…
+
+"That's a bronze rank quest. We can't take those," Serena said.
+
+"No, that's a misconception," a man who had been browsing the quest board, too, said. He was standing near the other end of the board, with higher-ranked quests. "You can accept a quest of any rank, but whether you'd be able to complete it is a different question."
+
+"It's just gathering some—" she peered at the quest note more intently. "–glowshrooms. That doesn't sound too hard."
+
+"Do you even know what it looks like?" Kalen arched his eyebrow suspiciously at her.
+
+"No, but there were plenty of glowing mushrooms in the dungeon. I'm sure one of them is the right one," Kiva said confidently.
+
+The experienced adventurer snickered next to them, and Kiva glared at him. "What?!"
+
+"Girl, find out every detail before you set out on a quest. Far too many lives have been lost because of careless remarks like yours," the man said, and pulled one of the quest notes off the board. It was one for a gold rank quest.
+
+"How about we stick with the copper rank quests? At least for the time being," Serena suggested. "We'll do some bronze rank once we feel a bit more stable."
+
+"But the reward for them is so small…" Kiva complained.
+
+"You didn't expect to become rich overnight, did you?" Kalen snorted.
+
+"I'd at least like to be sure that my stomach is full. That omelet was hardly enough," she complained with drooping eyes.
+
+"Why don't we do this delivery quest for a restaurant? It says that a free meal is included with the reward," Serena suggested.
+
+"Yeah… I guess that works," the weasel girl finally conceded, and Serena took the quest note.
+
+No, this won't do. Somebody should deal with those kobolds!
+
+Patience. They are still green. Give them time to recover, or they might get killed.
+
+This gave Liora pause, although she still wasn't happy with the decision. Not that anyone cared to ask her what she wanted.
+
+Serena and others went to the Quest Assignment desk which was thankfully relatively empty in the morning. The moment Clara registered their quest, Liora received a System message.
+
+[You've undertaken a quest – Deliver Cave Catfish]
+
+[Deliver 20 Cave Catfish to "Iron Shore" Restaurant before dinnertime today. ]
+
+[Location: Cyene Dungeon Entrance]
+
+[Being late will result in a reward penalty. Damaging or losing the goods will also result in heavy penalties.]
+
+[Reward: 10 copper + a free meal at the restaurant]
+
+Is this also part of the Guild System?
+
+Yes. Pretty neat, isn't it?
+
+Why do you sound so proud?
+
+Because I was the one who helped develop it. Previously, everything had to be tracked on paper. It was a real pain—adventurers would worry about quest completion, forget details about the quest, or even that they had undertaken a quest in the first place.
+
+Wait… You developed this System?
+
+That's right! Aren't I amazing?
+
+Liora couldn't deny that it was amazing, but she didn't want to admit that Renir. He was pompous enough as it was. So she decided to ignore his remark.
+
+"Where exactly do we get these Cave Catfish? We don't have to catch them ourselves, do we?" Serena asked nervously after accepting the quest.
+
+"Oh, no! It would be categorized as a Gathering Quest in that case. You just go to the location on the quest note to get the items that require delivery, which in this case is the dungeon entrance," Clara explained to them.
+
+Serena thanked her for the explanation, and the group set out, heading back into the underground tunnel to the dungeon entrance. As it turned out, the Cave Catfish were kept in a special Guild storage which was located in one of the many caverns by the dungeon entrance.
+
+It served as a selling point of sorts where adventurers could sell their loot and monster parts for money, while merchants or whoever else wanted could buy these.
+
+"20 Cave Catfish as per the quest," the man at the counter said, setting out three large crates filled with huge, smelly fish that appeared to have cat-like whiskers. "I hope you have space in your Inventory, because I can't imagine lugging these around through the heat."
+
+Serena approached one of the crates and placed her hands on them. A moment later, it disappeared into her Inventory. Kiva and Kalen did the same, and their crates disappeared as well.
+
+After that, it was just a matter of finding the restaurant. The fish were delivered way before the deadline, and they got to eat some delicious seafood dishes as a reward.
+
+[You've completed a quest — Deliver Cave Catfish. Experience gained.]
+
+Liora waited for a moment, hoping that a notification about a level up would appear. But it never did. All the reward money from the quest went straight into Serena's Inventory.
+
+Despite the delicious, juicy fish that Liora received, she was not happy. Not a single level gained, not a single treasure or shiny, while her Treasure Sense was constantly blaring, pointing out the wonderful jewelry patrons of the restaurant were wearing.
+
+She was just sitting on Serena's shoulder all day like some pet—not doing a single thing. No, this didn't suit her at all.
+
+This is such a waste of time. That's it! I'm going to take a quest by myself and head into a dungeon! Somebody has to deal with those kobolds, and it might as well be me.

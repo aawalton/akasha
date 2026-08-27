@@ -1,0 +1,157 @@
+---
+id: 29b1edff-b06c-5c2f-b5d8-b47daecf80d7
+page-type-slug: story-chapter-royal-road
+title: "Chapter 101 – Beyond Control"
+slug: 0101-chapter-101-beyond-control
+partOf: the-magpie-and-the-archmage-monster-evo-litrpg
+position: 101
+ownLength: 1973
+unit: words
+publishedAt: 2026-03-25
+link: "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3191143/chapter-101-beyond-control"
+royalRoadId: "3191143"
+---
+
+It was decided that they would try to cure a fully corrupt person the next day. Morgana and Terenezza would discuss among themselves who would be the best pick for this experiment, which was a great load off Liora's mind. There was no way she could pick one person who could potentially turn into a blightstone.
+
+In the afternoon, Liora and Cee continued their work. But as Liora healed yet another half-corrupted person, a notification appeared.
+
+[For spending so much time healing the corrupted, you've now unlocked the ability to gain experience from healing activities. The experience gained from healing will be diminished since you do not possess a healing class.]
+
+Wow, people can gain experience from healing others?
+
+Of course! How do you think any healing class would advance if they couldn't gain experience? Or how could craftsmen advance in their levels? Not everything requires you to kill stuff.
+
+Well, why did nobody tell me that earlier? Can't I gain experience from collecting shinies?
+
+No. That is not one of the ways to gain experience.
+
+Even so, I think it was pretty clear from the start that I don't enjoy battles.
+
+What? Was I supposed to teach a bird how to make swords? Or sew clothes?
+
+No, but healing clearly is a valid option.
+
+Yes, but your mana reserves were so pathetic before you didn't qualify for any healing skills. I believe you could buy some now with—
+
+I'm not spending any glimmerstones!
+
+And this! How are you supposed to gain any healing skills? It's not something you can unlock by putting some moss on a wound. You either purchase or do some actual healing, which is rather difficult to do while you are a bird.
+
+Liora had to concede that Renir was right, as much as she hated to admit it. In either case, now she could gain experience by healing these poor corrupted people. This should definitely help her level up and reach the level required for her next evolution.
+
+This gave Liora newfound motivation to keep working hard on the patients. Not that she would have abandoned them before, but it was nice to be rewarded for her efforts.
+
+In the afternoon, she managed to heal eight more people. Obviously, it was done by resting in the middle and letting her mana recover. Also, as the day went on, her mana recovered more slowly, and healing became more difficult.
+
+It's mental fatigue. Completely normal, especially when you're doing a task you're not used to. I imagine clearing the corruption is already quite strenuous. But hey, you leveled up.
+
+Liora realized that she had somehow missed the notification completely.
+
+[You've reached Level 23.]
+
+While it wasn't amazing gains, it was still useful to gain a level for healing. Cee wasn't so lucky. She didn't exactly gain levels for just weaving her thread, although she apparently had reached [Legend] level in her Web Weaving skill. Liora's Purify had also improved to [Expert] level at the end of the day.
+
+Sadly, it happened with the last patient. She felt absolutely drained and didn't have the energy to test the effects. It was something she could do the next day.
+
+Liora and Cee were given a room next to Morgana's. It was a simple one with the most basic bed and a wardrobe. Not that they needed it. Liora would happy to sleep on some perch, but since she didn't have one, she settled to sleep on the bed. Cee made a web in the corner of the room, where she looked comfortable.
+
+They were not allowed to wander around at night, and apparently, there would be guards stationed by their door to make sure they didn't wander. This did make Liora angry, and she did caw at them in displeasure.
+
+Leave it be. You are a monster. I believe they are treating you more than fairly. I'd say that Morgana is being somewhat lenient with you. Try to put up with it for a bit. I'm sure they'll let you wander around more as time passes by.
+
+But… I don't like it underground. I'd much rather sleep in the forest above these ruins.
+
+Give it time, little thief. Once they trust you, I'm sure they won't mind letting you and Cee explore the island.
+
+Liora didn't want to stir any trouble. She supposed she could endure one or two nights underground. Although she really didn't like it. She was also missing her Magpie Disguise. While being a large, strong bird had its perks, it made it difficult to move around in the narrow underground corridors. Magpie form would certainly make it easier.
+
+But she didn't want to show this ability, and Renir suggested that it was best to keep it a secret. It would be easier if her magpie form weren't associated with her true form. In case she needed to run and hide again.
+
+So after she settled her nervous thoughts, Liora and Cee went to sleep. In the morning, they were woken up by Morgana and given a hearty breakfast with lots and lots of bacon. After which they were led up to one of the deepest corridors where the lights were dim.
+
+"We restrained this guy yesterday… It was an absolute nightmare. I thought my webs wouldn't be able to hold this monster, so I layered them. And… expect a rather nasty sight," Cee warned.
+
+"He is one of our first patients. Many times, it felt like he would just kill himself in his frenzy. Frankly, I don't believe he'll make it unless we can uncorrupt him and properly heal the self-inflicted wounds," Terenezza said grimly.
+
+"So either this works, or he'll die soon anyway," Liora concluded.
+
+"That's right. So, in case your treatment doesn't work out. Don't feel bad. He wouldn't live for long anyway. If you can even call this kind of existence living," the lead healer consoled, although her hands were trembling. It was clear that she didn't like the thought of this person dying.
+
+Liora nodded. They had made a good choice. Knowing that this person would die unless healed soon gave Liora the peace of mind she needed to do the purification properly.
+
+"Ready, beasties? Cee if he breaks any of the restraints or moves around too much, I'll be counting on you," Morgana said.
+
+"On it!" Cee gave a spidery salute.
+
+"Liora, you will focus fully on removing the corruption. In case you are successful, I'll step in to heal any underlying wounds," Terenezza explained.
+
+"And if it all goes to hell, then I'll deal with him quickly," Morgana said, tapping on her pistol.
+
+"Let's go then." Terenezza put a key into the door lock and began pulling the heavy doors open.
+
+As the inside of the room was revealed, Liora could barely suppress her horror. Half-corrupted people weren't pleasant to look at, but there was still humanity to them. Sadness, pain, desperation. Seeing these real emotions in their eyes naturally urged Liora to help them.
+
+This… This thing, however, only made Liora feel disgusted. The whole body had turned purple with sludge oozing out of wounds instead of blood. Their eyes were completely hollow, and the moment the creature saw them, it began struggling against the many webs Cee had trapped it in to try and reach them.
+
+"Is that even human?" Liora asked, watching a dark spittle fly from the creature's mouth as it snarled and pulled at the webbing, desperately trying to get free.
+
+"I… I wish I could claim yes, but I'm honestly not sure at this point anymore," Terenezza said.
+
+"I'm going to add a few more web layers. Just in case. Frankly, it looks like it's going to pull part of the wall out at this rate," Cee said.
+
+Liora looked at the places where webs were connected to the walls and saw that in some places, there were noticeable cracks forming. Cee's webs were able to hold a shape-shifted giant worm in place. It seemed crazy to think that this corrupted human was somehow stronger than that.
+
+Corruption is scary. It's a good thing that the shapeshifter never got corrupted…
+
+Good thing indeed.
+
+"I think it's best we don't dally. If you would be so kind as to begin the purification," Terenezza urged.
+
+Liora walked up as close to the corrupted man as she dared and used Purify on his arm. She didn't expect to heal him in one go and instead would systematically work her way up from limbs to torso and finally to head. However, when nothing seemed to happen, Liora was rather surprised.
+
+She tried again, putting a bit more mana behind the spell. For a second, the corruption retreated from his hand, clearing away halfway to his elbow. But then just as quickly as it had cleared, the corruption returned, covering his whole arm again.
+
+"That's not good…" Morgana noted.
+
+"Yes, this is exactly what happened when we tried before, albeit we only managed to clear one of the fingers. The corruption is simply too strong in these individuals," Terenezza explained.
+
+You can try targeting the source of the corruption. For humans, it likely resides in their head, so if you can Purify the head, the rest of the body will follow.
+
+That makes sense. Let me try.
+
+Liora aimed her Purify at the corrupted man's head, supplying the skill with a generous amount of extra mana. It was obvious that this thing needed more firepower to be used against it.
+
+She felt the skill take hold, but at the same time, something was desperately resisting her and pushing her mana back. The corrupted man also began screaming all the louder and thrashing about, trying to reach Liora.
+
+I don't think Purify alone is strong enough. Not even at [Expert] level. Should I perhaps try Winds of Purification? It worked on the half-corrupted badger.
+
+I suspect that human corruption needs a more targeted approach, but it wouldn't hurt to just smother the room in holy magic. Might make the process easier.
+
+Liora opened her wings and let a huge amount of holy magic pour out of them.
+
+[You've successfully formed the skill <Winds of Purification>.]
+
+The whole room got swallowed by the skill, like a fresh spring breeze let into an old, stuffy room. It instantly got easier to breathe while the corrupted man seized and froze as if he had been paralyzed.
+
+Liora decided to take advantage of the opportunity and used Purify on his head. This time, the resistance was much weaker, and a tiny bit of his cheek regained its natural light pink color. Liora followed up with another Purify, and then another.
+
+It seemed to be going well as more and more of the man's face was being purified and revealed. Clear patches were appearing on his limbs and torso. She just had to keep pushing.
+
+But then something went wrong. As more than half of his face got revealed, the man began screaming. Not the monstrous, corrupted screech. It was a human scream. Liora noticed his skin shimmered similarly to the way glimmerstones stones, and how the remaining corruption was coalescing together to form a blightstone in his head.
+
+Shit, shit, shit! He's going to turn into a blightstone at this rate!
+
+Concentrate! Destroy only the corruption. Don't use Purify on his body. Only attack corruption.
+
+I'm trying!
+
+Liora really was trying. She was trying to guide her mana to target the forming blightstone. To stop it from forming in the first place. The problem was that she didn't know how. She had never needed to control her skills to such a precise degree. Not to mention that her Winds of Purification were only enforcing her purification and making fine control only more difficult.
+
+Renir, I can't… It's too much!
+
+Shit! Withdraw from your Inventory!
+
+But—
+
+NOW!

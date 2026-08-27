@@ -1,0 +1,195 @@
+---
+id: 03374270-e8be-5a97-b15d-4dc8f49e8958
+page-type-slug: story-chapter-royal-road
+title: "228 An Enemy Worth Fearing"
+slug: 0187-228-an-enemy-worth-fearing
+partOf: the-new-world
+position: 187
+ownLength: 3145
+unit: words
+ownProgress: 3145
+publishedAt: 2019-09-30
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/408756/228-an-enemy-worth-fearing"
+royalRoadId: "408756"
+markedReadAt: "2026-06-29T21:27:19.311Z"
+---
+
+I lifted the bones into my pocket dimension, my crafting not quite finished. Torix stepped out of the room, and I followed not far behind. Once we reached the outer edge of our temple, we stepped out to a crowd of gialgathens. Ten were at our disposal during this attack. They were all guildsmen, including Krog.
+
+Kessiah was on his back, strapped onto it with a leather saddle of sorts. She wore a set of power armor that cloaked into its surroundings, though the invisibility was incomplete. At a distance, it would prove useful, however. Krog was rallying the members,
+
+"Jokia is here. That's all of them."
+
+Krog turned to me, "We're ready."
+
+I glanced at them, sizing up the troops. The gialgathens were either young and fearless or old and resolute. They either didn't understand what we were running into, or they knew full well the bloodbath but dove in anyway.
+
+It didn't matter since we couldn't afford to be picky here. I waved The Rise of Eden over them while shouting, "Are you all ready for war?"
+
+They roared out in a symphony of their intent. I turned to Torix, "Will you be coming with us?"
+
+Torix shook his head, "Unfortunately, no. I cannot afford to leave this tactical point as I'll be managing a variety of forces during your excursion. Krog's tactical knowledge, while perhaps not quite a match for my own, will prove more than suitable for this battle."
+
+Krog nodded to me, "Your master is a monster in his own right. I was wrong to ever doubt him."
+
+I rolled my shoulders, "It happens. Now, let's show the Adair family we're the real monsters."
+
+Torix sent me a briefing of the current operation along with a few details for this specific mission. Our resident Sentinel reared back his spears before tearing a hole in dimensions. I stepped up to it, and Torix followed me,
+
+"You'll begin the operation by stealthily reaching the agreed-upon coordinates. Once there, assault Polydra from this angle. I'll be relying on you to adjust the plan and deviate as necessary."
+
+I ripped open the space-time continuum as I gave Torix a thumbs up,
+
+"Of course."
+
+After a bit of finagling, I got the tear to hit the size necessary for the gialgathens to walk through. Beyond it, the wind whistled through trees with insects chirping in the distance. It was night time in the region, two hours or so before dawn. A fine mist settled onto the forest floor, giving it a mythical appearance.
+
+Holding open the portal, the gialgathens skulked into the ancient woods. As they did, Torix put muffling magic over their wings and feet. Sliding through the portal myself, I verified the age of the forest. Giant trees soared to the sky, each of them towering as skyscrapers. The branches and bramble at the forest floor were large enough to mimic the size of commercial busses.
+
+Before soaking in more of the scenery, Krog walked up to me, "This is Deepwood, a forest East of Polydra. Torix discussed this location with the Sentinel here. It's a sacred place, so I ask that you avoid destroying what lives here. It acts as a museum for prehistoric times on Giess, many of these species longer-lived than even we gialgathens."
+
+I nodded, reading a bit of the briefing as we traveled eastward. I carried us through the trees, hovering the entire troupe while Krog gave me essential tactical info. It kind of made the muffling spells useless, but whatever. This wasn't that hard to do, and maybe the spells would last into the fight and save a life. Eh, I didn't know.
+
+Krog said, "The assault shall be staged on the western bank of the city. This, along with our other attacks, will imply we've come from the west. Considering our amphibious nature, an aquatic or island base seems more believable than one stationed in the Rak'Sha dessert."
+
+I dipped us below a curving oak, "Makes sense."
+
+"Polydra itself is a city where both Gialgathens and espens lived together. Since ancient times, the gialgathens lived on the upper portion of the cityscape. Since Schema's arrival, this has created a disparity in the technology used by the upper and lower echelons present there."
+
+"So the top half is like Rivaria with stone buildings and below it is something like Yildraza?"
+
+"Yes. The Hybrid's attack came from the sky while the espens below blocked off underground or land routes of escape. This has encapsulated the gialgathens into an ancient storage room for leviathans from times past. Though sturdy, the walls of that prison shall not last forever."
+
+Krog looked me in the eye, "Our goal is to wipe out the surrounding forces and enable their escape. That is how we shall free them."
+
+I pointed down, "Why not burrow a tunnel for them to escape from?"
+
+"Beneath Polydra is a dormant volcano. The magma ensures we cannot escape through that avenue without suffering severe losses. Seismic activity has also spiked here over the last decade. Polydra's about to be the sight of an eruption."
+
+I winced, "So underground burrowing isn't an option. Alright. That does give me a few ideas, though."
+
+Krog showed his teeth, "I've seen and heard of your 'ideas' before. That destructive, orbital bombardment shouldn't be used until after we've taken the gialgathens out of the leviathan's prison. Otherwise, they shall all die."
+
+I waved a hand, "Just one thing before we continue. What were the leviathans again?"
+
+"A race we fought to free the espens from servitude. They are large and capable but limited to underwater domains. They are the reason we escaped to the surface many years ago."
+
+If they were anything like the gialgathens, then they were worth respecting. We might be able to talk with them at some point. I tucked that tidbit into the back of my mind before frowning,
+
+"Huh...Ok, so we'll be tearing a hole in the forces surrounding this prison then getting the gialgathens out?"
+
+Krog nodded, "You understood our intent. Once they're out, we'll be escaping to the sea west of Polydra. There we shall use your Sentinel friend to warp us to Elderfire. Kessiah will tend to the wounds of those that are near death. I shall assist with immediate tactical maneuvers. You will be our forerunner of destruction."
+
+I clanked my fists together, "Sounds good to me."
+
+"Think it over as we travel. You may finish reading the briefing as well. We'll arrive ten minutes before dawn."
+
+The troop fell into literal silence, though several of the gialgathens were holding a telepathic conversation. They invited me into their discussion, so I listened in as they talked a massive amount of shit to each other. Like soldiers, the sense of comradery was there, and they laughed off the jitters before battle.
+
+After an hour of dashing through the forest, we dipped into a set of smaller trees. Here my gravitational abilities proved vital; it made less noise than their wings did. We skimmed up through a mountainside, plumes of dark smoke rising in the distance. Dozens of miles passed before we swooped around towards the western side of the mountain.
+
+As we darted around the center of destruction, Polydra looked like one big smoke cloud, at least from below. Fires burned in the proud city. We knew that much. That was the price we paid for the deceptive lure tactic - a good vantage point. It would come with time.
+
+After reaching the other side of this lavaless volcano, we traveled over the peak of the mountain. Hovering over the edge of the snowy peak, a few clouds cloaked our descent. I set us down onto the snow, where the mist didn't block our view of the city. Finally, Polydra came into full view.
+
+Polydra was as Krog described, a city etched onto the side of a mountain. It was separated into tiers of old and new buildings, stone, steel, and glass composing its varied surface. It matched up pretty well though, the contrast pleasant on the eyes due to some good architects no doubt.
+
+That's where the prettiness ended.
+
+Half a dozen skyscrapers along the lower edge of the city were engulfed in flames. Portions of the espen's territory carried scars from the escaping gialgathens. Patches of newly molten and solidified rock, crushed military vehicles, and fires littered the cityscape. At the same time, the older, rocky apex of the city was in shambles.
+
+Five massive, aerodynamic spaceships hovered over the top of the city. They used gravitation to suspend themselves, an antigravity field surrounding them. A few floating pieces of rubble around the ships acted as the dead give away for that.
+
+Atomic energy powered the innards of these ships, along with some Hybrid tech. A series of orange, pulsing capsules lined the lower sides of it. Above the orange cysts, lines of blue plasma sheened under clear panels. These spaceships stood at the front and back of two colossal dreadnoughts.
+
+These dreadnoughts carried heavy firearms along with a central cannon designed for mass devastation. This along with a few smaller fighters offered aerial support to the hordes of Hybrids spread throughout Polydra.
+
+These Hybrids acted as the ground force, several gialgathens in view pinned down. The Hybrids infested these restrained gialgathens with wires, organic tissue, and the carrot-colored organ sacks. Still alive due to their natural hardiness, these gialgathens groaned out in agony for help.
+
+Other Hybrids investigated buildings with the assistance of espens garbed in their symbol of a hanged gialgathen. If they found a Hybrid pinning down a gialgathen, then they used a hoverpad to lift them up and carry the mass. After lugging them beneath one of the dreadnoughts, the gialgathen floated into the waiting abyss.
+
+There was no doubt in my mind that the ship was taking them to hell.
+
+The other method of capture involved massive spires composed of Hybrid flesh and metal, the orange cysts spread throughout the city. Towering and tall, these twitching monoliths wobbled in the wind, sensing disruptions on the surface.
+
+Below one of these spires, a smaller gialgathen attempted darting from one building to the next. As it did, the giant pillar of cords and entangled wires and slammed downwards, mauling the poor creature. Many of its limbs broken, the green gialgathen was lifted up before being deluged in a sea of cables.
+
+The metal twine swarmed into the flesh of the gialgathen, piercing skin, flooding its mouth, and digging into its eye sockets. Still alive, the gialgathen was pumped to the base of a spire, a bulging mass of other collected gialgathens there. Getting the gialgathens out of there was a high priority. They deserved a better death than that at the very least.
+
+Those pillars extended well beneath the surface, roots extending outwards. They dug deep, cutting off an underground escape. The entire event reminded me of Springfield's utter destruction by Yawm's plague. I empathized with how these guys were feeling, watching their home and society crumble.
+
+I shook out my own jitters before breaking the ice. I turned to Krog,
+
+"Those pillars are another reason we can't burrow from below. Good decision on the sky attack."
+
+Krog took a few deep breaths, his composure shaken. The other gialgathens mirrored his unease, many of them remembering their other battles. They reminded me of when I first saw Springfield torn apart by Yawm's plague. I remembered deformed faces running at me, wanting to tear me apart.
+
+I was afraid and alone. I wanted someone to come down and save my ass. No one came though, and I had to save myself. Not everyone could do that though. Right here, right now, I could be that guy saving people. People who were just like me five years ago.
+
+I took a few deep breaths, thinking of what I would've wanted to hear when the plague hit its fever pitch. I envisioned the kind of person I wanted to arrive and save me. Using that imaginary guy, I faced forward, encompassing The Rise of Eden over my allies.
+
+I did my damndest  to be that guy I as I said,
+
+"It's time to fight. No more hesitation. No more fear. If I were down there, I'd be praying for help. We are that help. We'll drag our brothers and sisters out of hell. We'll give them a second chance, just as they'd do for us."
+
+I waved my allies forward. They listened to me, stepping forward into a line with wobbling steps. In the telepathic conversation, I thundered,
+
+"Come on now. Instead of fearing what may happen when we dive down, fear what will happen if we don't. Everyone down there will all die horrific deaths."
+
+I turned to the soldiers, "In our hands is the power to stop that. In our hands is the power to enact justice." I grinned a thrilled, wild smile while spreading my arms,
+
+"Think of it this way. Would you rather live in a hellish world like this, or would you rather die fighting against it?"
+
+The trembling stopped as I turned around.
+
+"I don't need to hear your answer because my decision has already been made. Has yours?"
+
+I waved them forward, and they stepped up with a renewed bravery. They lined up beside me, and I turned to them as I said,
+
+"Let's show them hell."
+
+They let out a telepathic roar as I ran forward, accelerating towards the hellscape. The other gialgathens followed me, keeping a fair distance. Using the Rise of Eden, I kept my mass high as heat built over the surface of my skin. I jumped forward, riding down the edge of the mountain by generating a trail of hardened ice beneath me.
+
+Once I gained actual speed, I shifted to Event Horizon, gravitation expediting my body to the speed of a bullet. A visible pathway of destruction formed as I channeled my anger into a frenzy for havoc. They would regret doing this, making me their enemy. I'd make sure they'd tell their children stories of what happened here to scare them.
+
+They would remember this day.
+
+As I sped down, trees ignited, the ground giving way in my wake. Boulders and rocks ripped from the ground as I bolted near the mountain's surface. A shockwave rippled out from a sonic boom as I drilled forward. My skin shined yellow, the heat of a star building over my skin. Red lines formed over my runes, my armor grinning wide with jagged teeth.
+
+Comfortable and focused, I willed myself forward faster. Uprooting entire oaks, I tore a gash of devastation across the forest as several Hybrids stared at me from below. One of the five smaller starships turned towards my incoming assault, the gialgathens far behind me ignored.
+
+How could they be expected to notice the dragons when a sentient meteorite was coming at them?
+
+Trees exploded beneath me, the water within evaporating at my passing. I molded myself into a spear shape, accelerating myself further. Two of the starships now faced me, one lined up behind the other one. Their gravitational drives fired as the plasma engines flared. The sound of ripping steel echoed across the mountainside as they charged their cataclysmic weapons.
+
+As if wielding the might of the stars, the first ship launched a bolt of purified energy at me. It ricocheted off the surface of my skin, deflected by my slanted and narrowed shape. The deep burns across my side healed as a portion of the mountainside disappeared behind me. The blinding light behind me flashed, but it carried with it no sound.
+
+I was faster than sound.
+
+The clouds near the ship shout outwards in a circle before I rammed into the first ship. As I did, I outstretched tendrils of my armor, ripping the innards out of the fighter. At the same time, Event Horizon culled much of those onboard. I killed their bodies and their minds, the mana of life siphoning into my frame as I passed out the other side of the ship.
+
+The next ship behind the first fire its own blast. It collided with my head, the impact direct and on point. A white light blinded me, a third of my health disappearing instantly. I let out haunting laughter as the ionized, misted air caved around me in one motion.
+
+I hardly slowed down.
+
+I turned and dropkicked towards the ship with both my legs outstretched. Just shy of contact, I used an enormous bout of telekinesis. Converting the force of my travel into a direct kinetic bullet, the lower belly of the ship exploded in a grand plume of orange fire. A rain of steel assaulted the city below, crushing the stone to powder.
+
+I bounced backward, my legs broken. They shifted back into working limbs as I fell downwards. I enhanced this loss of levity, my stomach rising in my chest. Beneath me, a spire whipped towards me. It made contact, my body too dense and too hard for it.
+
+I impaled the tentacle, metal debris falling from the sides of the living spire. Like a juggernaut, I crashed through a stone building before landing atop two Hybrids carrying a kidnapped gialgathen.
+
+They pulped under my heels, splattered into a fine mush from the kinetic blowback. The crater around me vaporized the espen carriers, their forms nothing more than red mist. The paralyzed Hybrid holding a gialgathen spiraled through the air, whipped into a barrel roll. It left fractures in the stone building. Slabs of stone collapsed as I walked towards it.
+
+I reached out an arm and jerked it back. The holding Hybrid unlodged from the wall, the building collapsing in a plume of dust. I waved my hands outward, the brown cloud blown back by the wind. I reached out my hand, catching the incoming Hybrid and gialgathen.
+
+The massive ball ceased moving the moment it met my palm, cracks erupting outwards beneath me. It's orange capsules pulsing, the head of the Hybrid remained. It let go of the Gialgathen, crawling out and away from the poor beast.
+
+The Hybrid attempted dragging itself away from me. I walked up and stomped its chest, caving it in and into the dirt beneath me. Its head remained while gurgling orange blood. I reached down and grabbed the head. Wrenching it from its body, wires snapped and veins split.
+
+I popped the skull of the monster in my hand, orange blood splashing over me. My armor devoured the blood as I peered towards one of the fighter ships. I roared for all to hear, my voice like a talking mountain,
+
+"So you all want to pretend you're monsters?"
+
+A singularity charged in my metal blood, energy emanating from my frame,
+
+"Then let me show you what a real monster is."

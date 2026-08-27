@@ -1,0 +1,285 @@
+---
+id: 604c3da6-2dc9-59a4-80db-e916b88e30ad
+page-type-slug: story-chapter-royal-road
+title: "121 What Lies Around Us"
+slug: 0079-121-what-lies-around-us
+partOf: the-new-world
+position: 79
+ownLength: 3867
+unit: words
+ownProgress: 3867
+publishedAt: 2018-05-16
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/216378/121-what-lies-around-us"
+royalRoadId: "216378"
+markedReadAt: "2026-06-29T21:23:34.373Z"
+---
+
+I put a foot on the squirming creature, “Well, uh...It’s called Baldowah’s Wrath.”
+
+Yawm turned towards me, finding my foot on the squirming thing. It latched onto me as Yawm lifted a hand,
+
+“Let’s kill it...kill it with fire.”
+
+I raised my hands, “Wait a second, let’s see if we can’t figure out what this thing is first.”
+
+Yawm clasped a hand into a fist, “I don’t need to learn anything about this abomination to know its evil.”
+
+I shrugged, “If I followed that same logic, I would have attacked you when we first met.”
+
+Yawm took a step back, “Ah...I suppose all of that is true...Excuse my curtness. I’m feeling rather strange as of late.”
+
+I pressed my foot into the disgusting mess of a creature, “If anything, taking this off should help with that.”
+
+The disgusting monster latched onto my foot, pinning itself against me. It latched onto me, but I stayed clam. My armor would eat it alive the moment it stuck its teeth in.
+
+Yawm pointed at it, “Are you not concerned that its-” Yawm waved his hand, “We don’t really know what it’s doing to you in all honesty.”
+
+I shrugged, “It can’t harm me.”
+
+I analyzed the creature again, rereading the description. After that, I saved the bio of it in my archives. I took out my obelisk before screenshotting it and picking it up the creature with a hand. It wrapped around my arm. I gripped my fist, clasping onto it like a vice grip. Spines of my armor shot through the creature, tearing it open.
+
+The gunk inside it gushed outwards, the blood of the creature silver like my own. I frowned at it as the shrill screaming ebbed out again. Blood dripped down my ears as I pulled it close, inspecting it. Nothing inside the monster looked even remotely familiar. Still, I took another screenshot of the thing before looking at it from other angles.
+
+The oddest aspect of the creature was that it sent ripples through gravity. It was like this monster was here and wasn’t here at the same time. It was a ghost I could touch or a memory made flesh. If that sounds cryptic, that’s because the creature could only be described in such vague terms. It just wasn’t solid enough for a concrete description.
+
+Yawm squinted at me, “Does that armor of yours give you an immunity to disgust?”
+
+I shook my head, “”Naw, being a real man does.”
+
+He rolled his eyes before I lifted the thing over me. It was suffering, so I laced it with needles of my armor and drained its energy. After a few minutes, it disintegrated into my armor skin, giving me a massive boon of exp. I sighed,
+
+“Man...so that thing was what made you angry.”
+
+Yawm tapped his chin, “It was? So that’s where my sudden outbursts of rage came from then...what an outlandish reason for moodiness.”
+
+I frowned, “Yeah, but for how long exactly?”
+
+Yawm glanced up at the crystal trees above us, “That’s an interesting question, isn’t it? I’ve been studying the cipher for about 400 years. The outburst of anger started about 330 years ago. If you’re correct about it being the source of my instability of mood, then that’s how long its been there...over three hundred years.”
+
+I grimaced, “Over three hundred years?”
+
+Yawm glanced at me, “It does boggle the mind, doesn’t it? What impresses me more is that you found it so quickly since our meeting. How?”
+
+I shrugged, “Eh, I can’t give away all my secrets.”
+
+Yawm laughed, “Then I’ll be more partial with my own then.”
+
+I raised my hands, “Alright, you’re twisting my arm. I’ll tell yah. I sense fluctuations in gravity. There was a slight pull on your back that was greater than the air around you but less than your own body. Since there was nothing there, I needed to figure out what it was. After that, I guessed that it affected our world with gravity, therefore we could affect it.”
+
+I opened a palm towards Yawm, “And so I got that thing off you.”
+
+Yawm nodded at me, “Thank you, Harbinger. You discovered a curse I carried for over 300 years without knowing it. That’s quite a feat.”
+
+I raised a hand, “The main take away is that...Oh shit.”
+
+I sensed along my own back, finding another tiny pull of gravity. It was the same kind that Yawm had. I sighed before raising a hand.
+
+Yawm tilted his head in confusion, “What is it?”
+
+“You’ll see.”
+
+I clenched tight, letting my mana flow in abundance. The gravity well pulled along my back. A minute later, and a wet, squishy something slapped against my back. After a few more minutes of pulling, a cold, slimy creature had latched onto my back. After feeling it for myself, I couldn’t blame Yawm for losing his composure.
+
+It felt like I’d submerged my back into a vat of cold, squirming worms. It was gross as hell before I turned towards Yawm. He took a step back. I turned my head towards him but left my back facing him,
+
+“Oh hell no.”
+
+Yawm glanced away, scratching the side of his head, “What is it?”
+
+I pointed a hand behind me, “You’re not leaving whatever the fuck this is on me.”
+
+Yawm turned towards me, “Oh that? It doesn’t even look detrimental to you. If anything it accentuates your armor in a, uh, good way.”
+
+I spread out my arms, “When I pry this son of a bitch off my back, I’m putting it on you while you sleep.”
+
+Yawm stepped towards me, “If taking it off is that important, you should have just made that clear. There’s no need for threats of such a caliber.”
+
+Yawm raised a hand before swiping it down. The monster was torn off like wet tissue paper. I turned towards it, seeing an azure, moving blob. It bled the same silver blood that I and the other creature bled as well. It wasn’t as squirmy, instead it was more like a snail with ten heads. Honestly, it was even more gross than the other one. At least in my opinion.
+
+After getting over the fact that it was on me, I analyzed it as well.
+
+Etorhma’s Abyss(lvl 5,000) - This is a creation of Etorhma’s. It latches itself onto unsuspecting victims and disrupts their train of thoughts. By exposing the victim to knowledge and concepts beyond their understanding, they corrupt the mind of the being over time.
+
+In your case, your mind was strong, so it fought off these revelations while it was on you. It would have taken a few more years before serious symptoms took place. These symptoms include, losing memory, blanking out for days at a time, and eventual comatose.
+
+What makes these creatures so malevolent when compared with other Old One’s creations is the difficulty in spotting the symptoms. The reason they are considered an equal danger level is because Baldowah’s Wrath can cause its victims to harm others and even worlds.
+
+Etorhma’s Abyss works much more along the lines of disintegrating an individual’s potential rather than harming others. Regardless of these factors, it is recommended that you kill this abomination immediately. They can warp away at any second, returning towards a different time or dimension.
+
+I took a quick screenshot and lifted my heel. I wouldn’t let it escape. A second later, I splattered the thing against the ground. A bit of the silver blood splattered onto Yawm before he raised a hand onto it. When he pulled his hand back and saw the silver, his hands jittered. He jerked his hand, shaking the liquid off before rubbing his face with great concern.
+
+My armor reached out, the thousands of wires soaking up every ounce of the creature’s old body. Whatever this was, it was edible for my armor at least. I glanced back up at Yawm. He rubbed his back, looking for other alien parasites. A second later, he sighed,
+
+“I’ll have to give you something for getting that off of me. I can’t quantify the harm it’s caused.”
+
+I shrugged, “Well, if you’ve had a lot of anger issues in the past, this was why.”
+
+Yawm shook his head, “That and it tells us something vital. The Old Ones are trying to sabotage us.”
+
+Maybe for Yawm, but for me, these creatures were just easy experience.
+
+“That’s cool and all, but what are we able to do about it? I mean, aren’t the Old Ones basically gods?”
+
+Yawm snapped his fingers, ice chairs appearing beneath us. He sat down and gestured me to do the same. After getting comfortable, Yawm raised a hand to me,
+
+“I’ve heard of that interpretation before. I believe it is inaccurate. The reason is that Old Ones are unpredictable. I’ve discovered many of the secrets behind Schema and his ilk. The Old Ones on the other hand are beyond my fathoming. Gods are easily understood on the other hand.”
+
+Yawm lowered his hand onto the arm rest, “So I classify them as natural laws. Not only do they operate independently from time, they operate without any real reasoning or causes. They cannot be stopped. They can only be avoided or worked around. Gods accept sacrifices and tribute. They can give you strength, power, whatever it is that you want.”
+
+Yawm leaned towards me,
+
+“The Old Ones will reward your tribute with a third limb and an insatiable urge to devour dirt. Their reaction is incomprehensible, just like they are. I think of them as the unknowable, and therefore we must accept their existence and move on. In all honesty, this could be entirely coincidental.”
+
+I raised a palm to Yawm, “There’s no damn way they did this on accident. To them, we’re both threats.”
+
+These guesses came out of my own meeting with Etorhma. He mentioned something about Yawm destroying everything in pursuit of his goals. That’s why he sent me on a mission to kill him. If Etorhma was trying to kill Yawm, there’s no reason to assume the other old ones weren’t trying to either.
+
+Besides for that, Etorhma turned on me during this little event. Having something attached to me like that was a slow, drawn out murder. I was going to handle it like that at least.
+
+Yawm interrupted my thoughts,
+
+“It seems as though every powerful entity despises the learning of that dimensional code.”
+
+I nodded, “Yeah, I can’t really figure out why exactly.”
+
+Yawm walked over, going back towards his dungeon core, “I think it’s a rather simple thing. Those that hold power and authority grasp it with all their strength. They’d rather have us sprint in circles, putting our heads down in the dirt and getting nowhere. All the while, they laugh from above, enjoying the spectacle.”
+
+I followed Yawm, “Yeah, that’s an easy answer for now. I’m assuming it might be a bit more complicated than that though.”
+
+Yawm shrugged, “I believe that even the most complicated plans have a simple motivation. Look at my plan for instance. It’s evolved from my curiosity and wanting for peace. Those aren’t the most convoluted reasons for starting such a complex ordeal.”
+
+Yawm pointed towards the direction of the dungeon core, “Speaking of ordeals, we should return towards the core here and leave. Normally when I create these warps, the strongest nearby eldritch is drawn to the core. They feast on the ambient energy stored in it, mutating into a stronger creature.”
+
+I stepped over a root, my feet caving into the grass with each step, “What’s the rush?”
+
+Yawm moved a low hanging branch out of his way, “They could drain the core, meaning we’d be trapped here for an eternity.”
+
+I shivered a bit at the thought, remembering the fate of Etna. Yawm turned towards me, “Most eldritch require weeks and weeks of draining the core before that happens. We’ve been gone for half a day at most. There’s no real need to worry.”
+
+I sighed in relief as we continued our casual trek through the forest. As we walked, my mind wandered. The first thought was about the Old Ones. It seemed strange that they were out to get us. Afterall, it was hard to read the motivations of a creature beyond our understanding. It kind of came with the territory.
+
+Still, I learned what I needed to know. It was against me. If it was against me, I was against it.
+
+In fact, the more I thought about the situation, the more like a rigged game it became. Schema trapped us on earth and forced me to kill Yawm or die. My only way of making that happen was the cipher. Since I learned the cipher, my bounty increased and the Old Ones were against me now.
+
+If anything, a part of me just wanted to throw my hands up and join Yawm. I contained that urge with memories of Yawm’s evil. He unleashed a plague. He tormented Althea. Anyone that followed Yawm was warped into a shadow of themselves over time.
+
+Yawm was well intentioned, but then again, so was Hitler. That didn’t turn out to well for those that got wrapped up in what he was saying. Considering they both Hitler and Yawm had a history of genocide, comparing them wasn’t unfair. If anything, it was honest. I had no intention of devolving into that, so I came up with a plan for my long term goals.
+
+The first step was being unnoticeable. I needed to keep my head low for as long as possible, drawing little to no attention to myself. Hard to do when you’re right beside a guy known in legends.
+
+If I was able to stay relatively unknown, I could use that time to strengthen myself with the cipher. By the time I was ready to make a splash, nothing would be able to kill me. I would be a walking ball of endurance.
+
+A home of some kind would be nice until then. I could join Torix and go to his home or make one here on Earth. Considering how backwater it was, it would be pretty hard to find me.
+
+Althea and I could settle down and just enjoy ourselves for a bit. It would be such a nice reprieve. I could explore the galaxy one piece at a time while relaxing at my home. In my eyes, it was a goal worth shooting for. Getting to that point required time, and I didn’t have much of it.
+
+So while Yawm and I were nearing the core, I opened my status. It Blew me away.
+
+I was level 3126. It felt like finding suitcase full of a million dollars on the side of the road. Killing the Old One’s followers rewarded so much experience that it blew my mind. So much so that I opened up my obelisk and did a quick search on the matter. There had to be a compelling reason to give so much exp for these guys. Turns out, there was.
+
+These mind changers of the Old Ones weren’t that uncommon in the upper ranks of sentients. Once a sentient reached a certain level, they could be near impossible to kill using conventional methods. Yawm was a perfect example of being nigh unkillable. That’s where these little balls of goop came into play.
+
+The Old Ones would send these things to crippled threats before they did too much damage. The downside was how slow they operated. The upside was that they dispatched someone without a fight. After doing a bit of research on the matter, it usually only took 20 to 30 years for someone to go insane.
+
+If anything, that meant that Yawm’s tenacity was unbelievable. It also made me wonder how long I’d had mine on me and why. Even stranger was how Baldowah sent one to him and not Etorhma. Etorhma was the one that gave me the quest to kill Yawm. You’d think he’d be the one sending out octopus monsters to him.
+
+It was a lot to chew on, but I saved it for later. Focusing on my status instead, I poured all my stat points into, that’s right, you guessed it, endurance. It would ramp up my production of extra stats using the cipher. The mana was always helpful, and it fed into other stats. Besides for that, it would allow me to fight better against Yawm during spars.
+
+Perception and intelligence were solid too, and I considered them. The thing was, I needed immediate power. Perception and intelligence could help me produce better renditions of the cipher, but how long would take to see a meaningful difference from them?
+
+there was no way to tell how long it would take. Endurance achieved the same goal of getting more out of the cipher, but it enhanced my fighting right now as well. Besides for that, endurance increased my intelligence anyway. In my eyes, endurance was a dependable middle ground. It gave me what I needed now and later all at the same time.
+
+With that in mind, I poured all my points into endurance and selected finalize. At that moment, the flow of my mana became pure. I was an engine of power, a living incarnation of energy. From the skin on my knuckles to the depth of my bones, I was unmitigated vitality. I was an endless spring of mana, no, an ocean of mana.
+
+The mana was a part of my flesh, making me whole. It molded into every cell and every fragment of my being. It held me together, just like the chemical bonds between atoms held steel together. It felt like I was a different material, if that made any sense. I was no longer made of anything that was human. I was something different altogether.
+
+My mind sharpened at the same time, along with the might stored in my fists. The weight in each step was tremendous, and the will of my mind was undeniable. In ancient times, I’d have been some sort of god or demon. In Schema’s world, I meant to make myself an unmatched warrior.
+
+After bathing in the euphoria of a huge boost in stats, I opened up my character screen. The numbers were insane.
+
+Level 3,126
+
+Strength – 2,677 | Constitution – 4,175 | Endurance – 15,771
+
+Dexterity – 949.1 | Willpower – 7,673 | Intelligence – 2,614
+
+Charisma – 233.3 | Luck – 808.2 | Perception – 354.7
+
+Health: 1.38 Million/1.38 Million
+
+Health Regen: 1.57 Million/min or 26,269/sec
+
+Stamina: 802,172/802/172 | Stamina Regen: 7,361/sec
+
+Living Dimension: 0.22 Trillion/4.30 Trillion
+
+Mass: 106,315 pounds(48,323 kilos~)
+
+Damage Res - 98.5% | Dimensional Res - 49.25%
+
+Phys Dam Bonus – 32,955% | Damage Bonus – 40%
+
+Event Horizon – 20,000 + (100% of your total health)/min
+
+My health regen eclipsed my health. It was because of my Determinator tree and the perk Arcane Blood. The Determinator tree doubled my regenerative stats. Arcane blood made willpower perks affect my health regeneration. This resulted in vast amounts of the stat, a ridiculous amount by any measure.
+
+All of the multipliers and perks I set up were coming together now. By coming up with a plan and sticking to it, I was gaining absurd results. It was a refreshing feeling. Riding on that high, I siphoned my new and improved stream of mana into my cipher. I couldn’t help but be giddy about it.
+
+Instead of two augmentations a day, I would gain four. What a time to be alive. From how much I gained from those monsters, the Old Ones might have been trying to help me out after all. They could have done it differently though, so I didn’t change my mind about them. I assumed they were trying to ruin me.
+
+Considering just how devastating those tentacled monsters were, I was being pretty damn reasonable. The only question left was actually how I gained so few level ups. Two level 5,000 monsters should have given me well over a thousand levels. A bit of thinking cleared that up.
+
+I wasn’t actually in the quarantine zone when I killed them, so the exp wasn’t doubled. They also weren’t registered as unknowns, reducing their exp further. In fact, I’d been enjoying a streamlined growth for a while now. Leveling like this was probably much more in line with what an average day in Schema’s system was like.
+
+With that handled, I closed my status and caught up to Yawm. He turned towards me,
+
+“You seem taller.”
+
+I shrugged, “It must be the lighting.”
+
+Yawm shook his head before turning forward, “You’re several inches taller. It’s a hard thing not to notice.”
+
+The dungeon core appeared in front of us, the crimson light leaking out from between two trees. Yawm reached it,
+
+“That sense of progression must be exhilarating. I’ve worked on the cipher for so long, yet my progress feels so stagnant. I’ll achieve a breakthrough once every few years, but every other moment is dimmed by comparison. Maintaining motivation during those times is difficult.”
+
+Yawm placed a hand over the core. As he did, clouds crossed over us above. The pleasant light shifted to shade. Yawm continued without worry,
+
+“I won’t relent anytime soon, however. With that monstrosity taken off of me, I’ll be able to learn the cipher at full force. Thank you once more for helping me, Harbinger.”
+
+An internal groan rippled through me. By buying time for my cipher, I ended up unshackling Yawm in the process. His own progress with the cipher would improve.
+
+Mine would as well at least, so I shrugged, “If anything, I’m glad I found Baldowah’s minion on you because that’s how I found Etorhma’s minion on me. Don’t worry about it.”
+
+Yawm nodded, “Let’s go back then. I have something to show you.”
+
+Above us, a blot of water fell onto my shoulder. A second later, another drop landed on me. One piece of rain dripped down Yawm’s forehead as he and I stared upwards. The clouds collecting overhead turned gray, a storm brewing above us.
+
+I murmured, “I thought you said the weather never changes here.”
+
+Yawm murmured back, “I was talking to a tree. You have to take its advice with a grain of salt.”
+
+Off in the distance, the ground shook. Yawm and I turned towards the sound.
+
+“What do you think that was?”
+
+Yawm walked away from the core, balling his hands up into fists,
+
+“An eldritch. Hopefully a powerful one that might challenge us both.”
+
+The ground quaked again. Trees in the distance cracked, the sound of breaking branches ebbing outward. As the sound of heavy footsteps echoed nearer, I leaned towards Yawm,
+
+“What do you think it is?”
+
+Yawm shrugged, “Perhaps an eldritch that controls the weather here. Wouldn’t that be fascinating?”
+
+The rain turned from the size of pellets to bullets as it approached us.
+
+I walked towards the source of the sound,
+
+“Come on. I don’t want to leave this mystery undiscovered.”
+
+Yawm sighed, pulling his hand off of the dungeon core,
+
+“I wouldn’t mind a bit of discovery as well.”

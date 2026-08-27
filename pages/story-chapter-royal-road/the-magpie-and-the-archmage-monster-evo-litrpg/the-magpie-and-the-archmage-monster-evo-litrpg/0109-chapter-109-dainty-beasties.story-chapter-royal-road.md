@@ -1,0 +1,191 @@
+---
+id: 9c3ae27d-2e53-5473-b01d-382ef8638929
+page-type-slug: story-chapter-royal-road
+title: "Chapter 109 – Dainty Beasties"
+slug: 0109-chapter-109-dainty-beasties
+partOf: the-magpie-and-the-archmage-monster-evo-litrpg
+position: 109
+ownLength: 1908
+unit: words
+publishedAt: 2026-04-13
+link: "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3266614/chapter-109-dainty-beasties"
+royalRoadId: "3266614"
+---
+
+"Okay, so how do we do this?" Cee asked, staring at the Bracelet of Four Elements, which Liora held in her talons.
+
+Liora didn't want to put the beautiful bracelet on the nasty bone chair, even if it had the mana they needed to charge it up.
+
+"You need to make the mana attunement ritual with your web. Right on that chair would be perfect," Renir said as Liora held him in her beak.
+
+"I have to touch the nasty bone chair? But that's where the cyclops' ass was! Look, there's a weird brown smear over there. I'm not touching that," Cee protested.
+
+"You're a spider! Why do you care?" Renir countered.
+
+"Yes, I'm a spider, not a dung beetle. I like to keep my legs clean, thank you very much," Cee said firmly.
+
+"You have to agree that touching that chair would be gross," Liora agreed in a muffled voice.
+
+"Ugh… You two are too dainty. Fine! Make the ritual on the ground. But if it doesn't work, then we're doing it on the chair," Renir conceded.
+
+"Oh, I'll make sure it succeeds!" Cee said firmly and began weaving her web.
+
+Liora watched her work as she had ultimately memorized the pattern required for this ritual by comparing Cee's practice webs with the actual ritual pattern on the inscription paper.
+
+She did correct Cee once or twice, but it was on rather minute details. Liora just wanted to make sure that it was perfect, so her friend wouldn't have to touch the nasty, stinky bone chair.
+
+"That looks pretty good. If it doesn't work, then it's only because it wasn't close enough to the mana node," Renir said.
+
+"Would a meter in one direction or another really make a difference? I personally don't even see how this spot differs from the rest of the jungle," Liora said and placed the bracelet on Cee's woven ritual web.
+
+"Obviously, you wouldn't see the difference. You need to have the mana perception skill to see that. Which I honestly recommend you two buy as soon as possible. It would drastically improve your control over magic."
+
+"Really?! I'm going to buy it right away!" Cee said excitedly.
+
+"Absolutely not! I'm not spending a single glimmerstone on skills," Liora said stubbornly.
+
+"Nooo… I thought you would have gotten over that by now…" Renir groaned.
+
+"I only have one skill and one trait slot left. I need to choose carefully," Liora countered.
+
+"Okay, that's a more valid excuse. We can think about what skill and trait would be good for you later. For now, let's do the ritual," Renir said. "Cee, all you have to do to activate the ritual is send a bit of mana into the web. Just like you did with mana overcharge."
+
+"Okay, I'm ready!" Cee said and pressed one of her legs to her web. It instantly lit up with a blue light just like the inscription paper had.
+
+The bracelet rose a few centimeters in the air, also shining for a bit. After a few seconds, Cee's webs crumbled away into dust, and the bracelet lowered to the ground again, the glow from the ritual disappearing.
+
+However, Liora noticed that one of the gems was definitely brighter in color than before. The yellow gem actually looked pretty and shiny now, instead of the dull color the remaining three gems had.
+
+"I think it worked," Liora noted.
+
+"Yes! It did," Renir confirmed. "Let me check the System description now."
+
+Liora placed Renir next to bracelet, and he read the System description aloud for Liora and Cee to hear.
+
+[Bracelet of Four Elements]
+
+[Artifact made by the Divine which embodies the power of the four elements within its gems. Red represents fire, green—air, blue—water, and yellow—earth. The one wearing this bracelet will be blessed by these four elements.]
+
+[Effects: Provides a significant boost to fire, air, water, and earth skills as well as a resistance to attacks of these elements.]
+
+[Warning: This artifact has lost its Divine power. It currently provides a moderate boost for earth skills.]
+
+"Awesome! So it'll boost any earth magic now, right?" Cee cheered.
+
+"Yes, absolutely," Renir confirmed.
+
+They felt elated for a minute that it had worked, but then Liora and Cee shared a glance.
+
+"I don't have any earth magic skills," Liora said.
+
+"Neither do I," Cee admitted.
+
+"Yeah… this isn't going to help us much right now. Unless one of you decides to learn some earth magic by buying the skill in the shop," Renir prompted as Liora grabbed him. She also reached out for the bracelet and put it in her Inventory.
+
+"I wouldn't mind. I certainly have a lot of glimmerstones to spend right now," Cee nodded. "But I also want that Magic Perception skill. Could you help me choose which skill would be best for me?"
+
+"Of course! That's the least I can do for you two. Albeit a certain bird refuses to buy skills," Renir muttered.
+
+"I have a beautiful 28% boost from Glimmerlust. Is a new skill really worth losing that?" Liora countered. "Besides, I feel like it might level up soon. It hasn't happened in a while. Imagine the boost then."
+
+"I hate it that it makes sense. Fine. Do as you will. For now, let's return to the clinic before Morgana gets suspicious," Renir urged.
+
+When Liora and Cee returned to the ruins, one of the guards urged them inside. After that, they ate a hearty meal while listening to Morgana boast about defeating the cyclops. The woman wasn't shy in mentioning Liora's and Cee's contributions, and at one point, Liora told a bit of the story herself.
+
+Everyone listened with awe, and ultimately, the dinner was turned into a miniature feast of sorts. It was a big relief for everyone that the cyclops was finally gone. While they had hidden the clinic well, it obviously wasn't comfortable to have such a powerful monster live on the same island.
+
+Liora and Cee ate lots, and occasionally Liora didn't shy away from snatching some food into her Inventory. When she was sure nobody was looking, of course. Renir assured her that food items would not go bad in her Inventory, so she was stocking up for a time when she and Cee would travel on their own again.
+
+[Your skill <Inventory> has reached [Adept] level.]
+
+[You may now store even more items in your Inventory.]
+
+Excellent! More space for my treasures.
+
+You never reached the maximum capacity of your Inventory before. You're actually using it rather sparingly when compared to humans.
+
+If I had known that food doesn't go bad in the Inventory, I would have used it way more!
+
+Sorry… Should have told you that earlier.
+
+After the feast was done, Liora and Cee returned to their room and got some well-deserved rest. Liora hadn't even realized how tired she was until she settled down to sleep. Her mind drifted off instantly.
+
+When Liora woke up, it was time for another day of healing. She wasn't looking forward to it. Not that she hated helping people—no. In fact, Liora felt accomplished each time she fully healed someone. It was just as satisfying as getting a glimmerstone.
+
+However, being cooped up underground again quickly put her in a depressive mood. If they could do the healing outside, then Liora would feel so much better. Looking at the healers and their pale complexion, it seemed like they could use some time in the sun, too.
+
+So during lunchtime, after Liora had managed to heal a fully corrupt person, Liora addressed Morgana.
+
+"Can't we move the clinic above ground now that the cyclops is gone?"
+
+"Out of the question," Morgana shook her head.
+
+"What?! Why?" Liora demanded.
+
+"Because we deliberately built this facility underground, not just to protect the people here from cyclops, but also to avoid getting detected by other people. What do you think most people would do if they knew there was a facility filled with corrupt people? Or that people could become corrupt in the first place?"
+
+Liora didn't have to think much to realize the implication. Most people would panic. It's how she felt when she realized that she could become corrupt as well if she wasn't careful enough. And when the masses were panicking, it never led to anything good.
+
+Just like that time with…
+
+Something flashed within her mind. A memory she thought long forgotten. She was squished among a panicking crowd, screams and police sirens echoing around her.
+
+Liora?
+
+"Beastie? Are you alright?" Morgana asked.
+
+Liora noticed that she had been swaying a little.
+
+"I am… fine," Liora replied shakily, accidentally mimicking Morgana's voice instead of Serena's.
+
+Morgana arched an eyebrow at the sudden change. "Maybe that fight from yesterday was too much for you. Go rest for the day. Head outside if you want. I'll ask Donovan to accompany you."
+
+Liora wanted to object that she didn't exactly need anyone to accompany her. But she felt too disoriented by the sudden memory and instead just nodded.
+
+"I'll go rest in my room for a while," Liora said, jumping down from the table and slowly making her way back to her room.
+
+"Sure thing," Morgana agreed and escorted Liora back. Cee followed after them, too.
+
+Okay, what the hell was that?
+
+"What happened, Liora?" Cee asked as soon as they were alone in the room.
+
+"I—"
+
+Don't say it aloud. We can't have anyone finding out that you were once a human. It's too risky.
+
+"I'll explain later," Liora said to Cee.
+
+Cee cocked her head but ultimately accepted it for now. "Do you need to be alone?"
+
+"Just for a short while…" Liora muttered.
+
+"I understand. Rest up," Cee said and disappeared from the room using her Web Walk skill.
+
+Okay, so what actually happened back there?
+
+Did you see it?
+
+I saw something, but it was so brief I couldn't tell what it was. Some kind of memory of yours, I imagine. But it was loud and very disorienting.
+
+Yeah, I think it was a memory from when I was a human. Some sort of crowd. I don't remember exactly what happened, but I do remember feeling… broken? Desperate? Like something really bad had happened.
+
+Maybe you could remember more if you leaned into the feeling. I think you stopped it before it got the chance to fully surface.
+
+Liora shook her head.
+
+I don't want to remember.
+
+No? It could be something important.
+
+What good would that do me? I can't return to being the human I was before. It's pointless. I much rather focus on my life as a magpie now.
+
+Are you sure?
+
+Absolutely! In fact, let's go to Cee right and get those skills sorted out for her. She wanted to learn Mana Perception and some earth magic skill. Maybe we can figure out a skill I could unlock on my own while we're at it. Morgana did allow us to rest for the remainder of the day.
+
+If that's what you want… Sure. But know that you want to discuss anything about your previous life—
+
+I don't. Let's just go find Cee.
+
+With a spring in her step, Liora left the room to look for her spider friend. But deep down, the sudden memory bothered her deeply. She knew it was a painful memory thus why she insisted on forgetting it. But what if Renir was right? What if this memory was important?

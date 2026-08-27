@@ -1,0 +1,535 @@
+---
+id: 52558ae7-e258-5076-8102-eca1ad1cc40b
+page-type-slug: story-chapter-royal-road
+title: "273 New Paths Opened"
+slug: 0232-273-new-paths-opened
+partOf: the-new-world
+position: 232
+ownLength: 7541
+unit: words
+ownProgress: 7541
+publishedAt: 2020-10-08
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/566403/273-new-paths-opened"
+royalRoadId: "566403"
+markedReadAt: "2026-06-29T21:29:00.703Z"
+---
+
+I got everyone's attention before announcing,
+
+"Lehesion was reincarnated from an alternate timeline, and Eonoth, a really loud Old One, was what actually killed the Spatial Fortress, not Lehesion."
+
+Our factions burst into a fervent discussion, everyone reacting at my immediate announcement with shock, awe, and dread.
+
+Obolis winced, "I didn't want to discover the Old One's identity like this."
+
+Helios facepalmed, "Of course. Reincarnated. That's great. Just great."
+
+Torix cupped his chin, "By Schema, I don't know whether to be deterred or emboldened. Knowing Lehesion's limits aren't as endless as I imagined is one thing, but knowing we are armed against an Old One is another thing altogether."
+
+I nodded at them all, agreeing with pretty much everybody,
+
+"Yeah, it's a lot to take in. I say we separate this discussion into three topics. The most important is the fallout from Schema's loss. After that, we'll talk about what to do going forward before I listen to ideas. So, uh, starting off the whole Schema losing thing, I, for one, think a lot more planets are going to join the rebels now that people know Elysium can win."
+
+Althea frowned, "Yeah, I think so too. They have a system and everything, and they can stop Spatial Fortresses. Those were the aces up Schema's sleeve, and the rebels just stole those cards away."
+
+Torix raised a finger, "Dutifully put. I believe this indicates a societal insurrection, a kind of paradigm shift if you will. It was as if Schema's reputation kept him immune from criticism or doubt. Now that a rival faction has formed, one that is competitive at that, we shall see many more voices join in the discussions against him."
+
+Obolis raised his eyebrows, "It is easy to criticize something that you don't understand. None of us can comprehend what enables the system to operate, and we could hardly comprehend its scale."
+
+Torix gestured to me, "Not so. Daniel, why don't you share your theory?"
+
+I pointed at myself, "What, me?"
+
+"Indeed."
+
+I coughed into a hand, "Ahem, well...I have been working with runes for a long time. I know that I can change my own self by simply putting runes on me and channeling mana through them. By that line of logic, Schema might have a stockpile of runes for every individual. As they gain experience, he channels mana into those runes and alters them to make the person stronger."
+
+I raised a hand, "If that's how it's done, then anyone with that level of runic knowledge and mana could technically do it themselves. Hell, I could have a little system in place for myself eventually. This is all just an educated guess, though. Don't quote me on any of this."
+
+The imperials present stayed silent for a moment. Obolis narrowed his eyes at me, "You...you're far more intelligent than you let on."
+
+I shook my head, "Trust me, I'm not. I've been working with a guy on making golems, and I am terrible at it. Like, absolutely awful."
+
+Helios oozed skepticism, "We'll see if Ophelia will vouch for your claims when she's finished working with you. Personal assessments aside, does anyone here know what we can do now that Giess will remain?"
+
+Torix raised a hand, getting everyone's attention, "I hypothesized both outcomes and created lists of likely scenarios. Due to this exercise, I believe I know a few of the implications that shall incur because of this event. The first is, as Daniel mentioned, a rise in the rebellion's scope. This is by no means a small event. It is an enormous, historical undertaking."
+
+Torix pulled out his grimoire, flipping the pages. Channeling a blot of mana into the booklet, he cast a complicated spell for generating visual holograms. He pointed at a planetary model of Giess,
+
+"This is Giess, as you all know. Silvers and their territory smother its surface, and the eldritchian rifts are spreading as we speak. Due to this planet being secure now, they shall no doubt use this place as a staging platform for further production of Hybrids, radioactive eldritch, and feeding grounds."
+
+Florence scratched the back of his head, "Feeding grounds?"
+
+"Precisely. The silvers are the second half of a Hybrid. They are nigh exclusive to Giess, though innumerable in number. Because of this, they are a primary resource for the rebellion's success. By securing Giess, they've secured their production of silvers and, therefore, Hybrids as well. This was why they fought tooth and nail to retain their ownership of this world."
+
+Our view of the planetary hologram became closer, showing a few common silvers like the saysha beetles. Torix waved a hand,
+
+"Giess is also an enormous reservoir of mana waste, the primary fuel that silvers feast upon. It acts as the base of their food chain, and outside of pumping it into space, it is nearly impossible to get rid of. They shall create breeding grounds in mass near rifts on Giess, and this shall promote the rapid resupply of their army."
+
+Obolis frowned, "Wouldn't they be overwhelmed by the sheer number of created Hybrids? They need psionics to control them, after all."
+
+Torix pressed two fingers together, accentuating his point,
+
+"They will simply keep as many soldiers as they currently have and use the others as a backup source. Every remotely close battle shall be a victory for them. After all, their production of those monsters is far easier than Schema's production of trained warriors."
+
+I grimaced, "Yeah, it isn't like Schema's ultra-efficient at creating people who get past level 5,000. If anything, he's very stingy with his resources, even when people showcase some serious talent. Elysium isn't losing any psionics in their battles for the most part either. They're using cannon fodder to get rid of elites. Smart."
+
+Torix shook his head, "Sadly, I could not agree more. The rebel's plans likely involve dispersing Schema's forces across many planets, whittling down his resources with an endless Hybrid army, then taking galactic dominance from the A.I. one planet at a time."
+
+Torix's hologram disappeared, "Though this is quite simply conjectured, I do fear this is the most likely possibility."
+
+Helios raised an eyebrow, "And how do you understand their plans so thoroughly?"
+
+Torix shrugged, "It is simply how I would go about doing it given their resources. Tohtella has displayed a high relative competence, her ruthlessness exceeding even my own. She implements tactics similar to my own necromantic practices as well. Because of these factors, I say we should move forward with the assumption this is their plan."
+
+I pointed at our resident lich, "Damn fine work. This gives us a foundation to move off of."
+
+Torix cackled at the compliment before saying, "It was my pleasure."
+
+The group took a second to think about what Torix said, and I joined them. Torix really broke everything down in a way that made a lot of sense, and that made everything much easier to understand for me. I mean, I was getting kind of overwhelmed by the sheer complexity of the situation. Torix brushed aside all the white noise and useless chatter, diving straight to the heart of the issue. It really helped us out.
+
+Even knowing all that, it didn't spell out what we needed to do. We could try raiding Elysium's encampments on Giess, but it wasn't like they were easy to find or hard to make. All they needed was a rift in silver territory. Boom. Now they could make a ton of Hybrids with ease.
+
+We needed to make a better plan going forward.
+
+Interrupting my thoughts, Obolis made a fist as he read his status. I raised my eyebrows, "You seem pretty excited about that breakdown of the rebellion, which was pretty dire. What gives?"
+
+Obolis smiled, showing sharp teeth, "I received excellent news. The ahcorus are still going forward with the deal we made earlier."
+
+I blinked, "They still want to do that? I thought they'd bail after seeing the extent of the rebel's powers."
+
+Obolis leaned back, "According to Wrath, their reasoning is simple - the rebels allied with sentient eldritch. Plazia-Ruhl is one of the worst examples of a sentient eldritch let free. Centuries of terror have made the ahcorus hellbent on killing the creature."
+
+Obolis chuckled before grinning, "Seeing the rebels ally with eldritch similar in stature to Plazia made the ahcorus despise the rebels even more."
+
+Obolis frowned, "They also mentioned that Plazia neglected to join the rebels, though he was no doubt offered a deal to do so. I find it strange as well, considering his precarious position in Schema's universe. Elysium seems like a far less hostile environment."
+
+I leaned down, "Hmm, maybe Plazia has a good reason why? We might be able to get some useful intel off of him about the rebels while we're taking him out. I mean, Plazia's bound to be a smart guy, and if he's anything like Baldag-Ruhl, he'll know a lot about runes."
+
+Helios furrowed his brow, "You're telling me you've seen a different Ruhl already?"
+
+I spread out my hands, "Uh, yeah. It was the first rift keeper I ever killed. They tried to turn my soul into the armor I'm wearing-" I tapped one of my shoulder plates, "As you can tell, I kind of turned that against him."
+
+Helios massaged his temples while Obolis tried to speak without insinuating I was an idiot,
+
+"Daniel. Don't you think that tidbit of information might've served you well when negotiating with Wrath?"
+
+I rolled my eyes, "That eldritch wasn't even level 200."
+
+Obolis sighed before gesturing a palm to me, his patience growing thin,
+
+"I forget at times that you aren't aware of the system's customs. Despite your position, you've not even been a part of this new world for a decade. This is a time when that ignorance showcases itself."
+
+Torix simmered, "I'm centuries old, and I know nothing of what you speak of. Perhaps your expectations are what is lacking, not our experience?"
+
+Torix glared at me, his fire eyes turning purple, "And neither have I heard of this sudden shift in plans. Perhaps you could find the time to explain?"
+
+I pulled out my new elemental furnace, "I got this and other treasure to take out Plazia instead of clearing out Blegara."
+
+Torix's eyes shifted back to blue, "Oh...perhaps you could discuss with us before shifting the direction of our guild next time?"
+
+I frowned, "I respect you all and your opinions. Sometimes, I'll need to be able to make decisions for the guild on the spot. Otherwise, I'll get caught up in constant meetings like this one. Not to say this isn't productive, but I'm getting tired of constantly having to host them."
+
+Torix stared down, "Perhaps you're right." Torix pointed at Obolis, "That hasn't cleared up your accusation of ignorance at us. Your information is obviously less available than you might imagine."
+
+Torix wasn't one to take accusations of ignorance lightly. He was our chief educator so that responsibility fell to him. If anything, the guy might be making a new program about everyday kinds of eldritch as we spoke.
+
+Obolis smiled with a knowing grin,
+
+"Yes, maybe. Allow me to enlighten you all then. The Ruhl's are a specific variant of eldritch hivemind. They are highly volatile and dangerous, often requiring far more resources to slay than you'd first estimate. Because of this inherent danger and their vast intelligence, they are recognized as critical threats to Schema."
+
+Obolis pointed up at the sky, "A Ruhl calculates his odds given the situation, and this leads to their long lifespans. Their manifestation in a dungeon often leads to the eldritchification of a planet thereafter. Combine that with their insatiable desire to learn, and they are fierce, whether level one or level one hundred thousand. Some even believe that the most ancient of Ruhls become Old Ones."
+
+I frowned, "So are there a bunch of different kinds and categories of eldritch? I thought they were all just random."
+
+Helios rolled a hand, "They have their own kinds and species, obviously. Obolis's point, however, is that any experience against them is a potent tool to leverage in a negotiation. You should've abused the tools at your disposal to the fullest to maximize your advantage."
+
+I looked back and forth, "You guys of all people should know that I'm not about gouging other people."
+
+Obolis raised an eyebrow, "What about when Wrath and I were discussing our deal earlier? You set the conversation up in such a way that you received an elemental furnace before accomplishing anything for either of us. That seemed rather methodical and planned if you were to ask me."
+
+Torix scoffed, "I know little of this deal, but I understand the contribution our guild has given you already. We've assisted in clearing Blegara, and we have every intention of continuing to do so. Daniel is simply asking for a specific advance on our reward before we finish the job. That isn't gouging in any understanding of the word. It's ensuring we, as a guild, aren't taken advantage of."
+
+Obolis nodded, "Hmm, I suppose that could be that case."
+
+Torix turned to those here, "And that is precisely why I'm wondering what you've agreed to exactly, Daniel."
+
+I leaned back onto my hands, "It's about what I said earlier. I agreed to get a bunch of treasure from Obolis in exchange for helping Wrath out with her Plazia problem."
+
+Torix's blue eyes turned green, "Why would Obolis do that?"
+
+"He wanted the ahcorus to clear out his planets. They're faster than us at cleaning up Hybrids, so we all won out in the deal-" I spun the black jade in a finger,
+
+"Especially us. I can use this for a lot of different things to help the guild."
+
+Helios let out a cynical laugh before shaking his head, "Do you believe that using one is so simple?"
+
+I shook my head, "It doesn't matter if I can use it or not. The runes are the most valuable part of this since I can understand them."
+
+Torix raised a hand, jumping to my defense, "Another aspect my disciple neglected to mention is his mastery of mana. He can wield huge volumes of mana already, even without the furnace. I'd imagine the furnace is usually impeded by one's ability to control mana on a mass scale. Otherwise, everyone would be using one of the devices."
+
+Torix eyed the Emperor, "At the absolute least, you'd utilize more of them if that were the case. Given those factors, they must be dangerous as well."
+
+Obolis nodded, "Indeed, they are. Using one requires the management of meager drops and unwieldy flows of mana all at once. By funneling a slither of mana into the device, you may generate an enormous amount of energy from even the air around you. It's volatile given it relies on nuclear fission, however. One misstep-"
+
+Obolis snapped his fingers, "And a city's worth of land is ruined, along with the furnace and the user."
+
+I smiled, "Eh, I should be fine with a bit of practice."
+
+Helios leaned towards me, "Do you believe you still have the subtlety required? Many mages that expand their mana pools lose the ability to work with smaller volumes of mana. Given your enormous reserves, perhaps you're suffering from this and don't even know it?"
+
+I shook my head, "I'm very precise with my mana. I'm more worried about the fallout from the furnace, but even that won't be the end of the world. I can just eat the radiation."
+
+My guild gave me a few nods and pats on the back for that idea. The imperials present gawked at me as if I was losing my mind. Kessiah leaned back, holding her head up with her arms,
+
+"Don't worry, guys. You'll get used to Daniel doing crazy stuff once you're around him long enough."
+
+Obolis shook his head, "Perhaps your approach will serve you better than those before you. You understand yourself and your limits better than we do, as shown before. We must move on, however. There are other details left for us to discuss."
+
+He turned to me, "Are you still willing to follow through with our deal with Wrath?"
+
+I looked down, thinking about it. The first factor was the reward. I'd have to return my furnace if I didn't follow through with the plan. Abusing this little gemstone would result in some severe gains I could use against Lehesion next time we met. I also needed personal, applicable power, and this would help me do that.
+
+On the other hand, priorities at home were reaching their boiling points. Earth didn't even have six months left before other guilds could rush in and grab up territories. My new golem projects would be resulting in a massive expansion with Ophelia and Diesel's help, letting me expand guild operations rapidly. I could focus less on helping other guilds and more on improving my own.
+
+I wrestled with all these ideas, some of my guildsmen noticing. Althea placed a hand on mine, and she peered up at me. I met her eye as she said,
+
+"Hey, stop worrying so much. You're the only one that's stopped Lehesion so far. If you can beat him down, then everything else kind of falls in place, right?"
+
+I dwelled on what she said. If I could stop Lehesion, then the Adair family would struggle to invade Earth. That much was certain. I could tear their fleets to pieces with an elemental furnace fueling my singularities. Hell, I could even weave the elemental furnace formula into my golems, making them walking death machines.
+
+The more I thought about it, the more Althea was right. Even if I took a large section of Earth over, it wasn't like I could defend it. Lehesion could show up and burn it to the ground in a few minutes. Until I could guarantee my guild's safety from him and Elysium, there was no point in expanding further outside of a few nearby territories.
+
+For now, prioritizing my own personal strength was an absolute necessity, whether I liked it or not.
+
+I met Obolis's eye, "I'm still in."
+
+Obolis let out a nervous breath, "Here I believed you'd changed your mind, given the circumstances."
+
+I tilted my head to Althea, "Thank her. She's the one that convinced me."
+
+Obolis gave her a grin, "Thank you for your wisdom."
+
+Althea sat straighter while Helios leaned onto one of his hands and bit his tongue. Poor guy would never live what he did down. It wasn't my problem as I rolled my shoulders,
+
+"Alright then. Over the next week or two, my guild will continue helping on Blegara while getting ready to travel to the ahcorus's homeworld. Obolis, I'll need to meet with you regularly to have lessons on this elemental furnace. I must learn it soon."
+
+Obolis raised a palm, "I simply don't have the time to help you. Helios, on the other hand, is under your wing and understands elemental furnaces well. He should be a fine tutor for the skills required."
+
+Helios looked for any kind of redemption to his past mistakes as he bowed to Obolis, "Of course. I shall assist the Harbinger in whatever way I am able."
+
+Obolis put a hand on his nephew's shoulder, "Thank you. Ophelia's assisting Daniel with his golem project as well from what I've heard. She can teach him much about primordial mana if he listens to her."
+
+I gave him a thumbs-up, "I will."
+
+The Emperor scoffed, "She's spoiled but talented. As long as you callous your mind before speaking with her, then she won't be a matter of contention."
+
+I tapped the side of my head, "It won't be a problem."
+
+Obolis opened a portal, leading to a treasure vault of some sort,
+
+"I will leave you all with this discussion's implications. I'm needed at my war council soon, so I must leave you all to your devices. Goodbye."
+
+I waved, "Cya."
+
+Obolis left, leaving a few others remaining here. I stared at Kessiah, Torix, Hod, Althea, Florence, and Helios,
+
+"Let's go back to Mt. Verner. We need as many perspectives as we can get, including Krog, Chrona, and Amara's. They might be able to tell us something new."
+
+The others gave me a few nods of approval before Helios wobbled up. He gulped down vomit before generating another portal to Mt. Verner. I walked up to the guy, grabbing his shoulder to hold him upright. Using a bit of mana, I saturated an antigravity panel over him,
+
+"This enchantment will last another hour or so. Get to your room and rest. You've earned it."
+
+With his steps less wobbly, Helios worked his way to his bed without a word. Everyone else walked through his portal before Helios let it disintegrate. With Torix's help, I got everyone together later that day after Helios had his nap, and we had time to think. Everyone from our guild was there from earlier with the inclusion of Chrona, Krog, and Amara.
+
+We rested in a cleared out courtyard, right below where Chrona called home. She carved her resting place into a cliffside, creating an overhang of stone that she slept under. To the left of that shaded space, a flat area was there for sunbathing. Below it, another flat area spread out, large enough for several gialgathens to mingle. We all sat in a circle there with the forest cleared nearby, letting us view the mountains and rolling hills around Mt. Verner.
+
+Torix already broke down our discussion from earlier, along with a summary of what occurred during the glassing of Giess. Armed with that knowledge and a new perspective, Amara, Krog, and Chrona sat in front of me. I got everyone's attention,
+
+"Everyone, this will be the last meeting we're doing about this. I'm tired of talking, and I want to get started doing. We all agree there, right?"
+
+I got their acclaim before turning to Chrona and Krog,
+
+"You guys know Lehesion better than any of us. What do you both think about his reincarnation? Any insights?"
+
+They stared at me, both seeming whiplashed and angry at the same time. Chrona spoke up first,
+
+"Having been reincarnated would explain much of his past. He was the most gifted of all of us, granted an absurd base of knowledge and experience we all lacked. Lehesion would often be considered precognizant during his earlier years, though that reputation faded."
+
+Krog grit his fangs, "He merely recited what he'd already known to be true. As he aged, he shaped history in his image, and knowing less of the world's events thereafter, he could no longer speak of the future with precision. He conned us all."
+
+Chrona gazed down, "He is unkillable as we imagined if the Old Ones are as strong as you say, however. I don't know what we can do to stop him, either. His master seems to rule time, and I of all people know how absurd that ability can be."
+
+Chrona's temporal dilation was a nasty ability. I turned a hand to her, "That's why I wanted you here to talk with us. Lehesion mentioned collapsing timelines. Any ideas about what that means?"
+
+Chrona stared up, letting her mind wander,
+
+"Time is a fluid thing, much like a stream. It can be slowed and sped up if one knows how to manipulate it. Unlike a stream, it cannot be stopped, however. That is the part of Eonoth's attack that I cannot understand."
+
+Torix leaned forward, "What about that is so confusing? We've mentioned that Old Ones break all the rules we know of. They exist without limits."
+
+Krog shook his head, "This is simply not true. Otherwise, they would dictate our reality without limit. They seem to act within an enigmatic set of rules, though those rules are undefined as of yet."
+
+That was a good point. Chrona turned towards us, making eye contact, "That is precisely what I've noticed as well. Lehesion exchanged his new body for some kind of goal. Learning that goal may help us untangle Eonoth's grip on him."
+
+I tapped my chin with my thumb knuckle, "What about the time-freezing thing? You mentioned that it is impossible. Why?"
+
+Chrona sighed,
+
+"I've tried it and failed many times. The issue is that we all exist within time itself. We cannot manipulate time that is relevant to us without freezing ourselves in the process. Anyone that does succeed will simply burn through their mana reserves until they are at the brink of death. Time will then unfreeze, leaving them without any mana whatsoever. This means nothing is accomplished."
+
+I waved a hand, "Couldn't you just freeze time somewhere that isn't where you are?"
+
+Chrona shook her head, "To do so would be nearly impossible. Even with decades of experience, I cannot do more than rule over the space around me. This is because time is tied to our perception. Without that perception guiding the magic, you cannot shift time with any accuracy."
+
+Krog grinned, "Chrona has tried many times. She would often lose any coherence, creating wobbling spaces where time sped up and slowed down. It simply burned through her mana, and she would be left defenseless."
+
+Chrona frowned at Krog, "Yes. That is why I tie my time manipulation to the spaces I inhabit. That is also why freezing time never works for those locked within it."
+
+Hod spoke up, "So Hod think solution simple."
+
+Everybody looked at Hod, expecting something Hod-ish. He spread his winged arms,
+
+"Mage want freeze time, then mage just not be in time."
+
+Torix crossed his arms, "Ah, as always, very helpful. Existing outside of time is easier said than done."
+
+My eyes widened, "That's why I heard Eonoth's roar. I'm not in this timeline. Lehesion was right about that."
+
+Everyone turned to me as I grabbed the sides of my head, ruffling my hair,
+
+"Holy shit. I'm a dimension. I have my own timeline. That's why Eonoth couldn't freeze me. Duh."
+
+Chrona whipped her tail behind her, "That is why my temporal dilation has no effect on you as well. Why does this surprise you?"
+
+I spread out my hands, "Well, the thing is, I turned into a puddle when Eonoth shouted."
+
+Chrona tilted her head, "You were liquified?"
+
+"Yeah, I ended up turning into a pile of mush. It might be that I was the only one who could hear Eonoth roar, but maybe not. Either way, I ended up a pile of jelly."
+
+Chrona furrowed her brow, "Eonoth collapsed timelines according to Lehesion. That means he used some kind of mass temporal coalescence. He smashed timelines together. According to what Torix told us, this let out a ripple across space-time, right?"
+
+Torix gave her a nod, "Precisely."
+
+Chrona looked at everyone, "Perhaps we were unaffected by that wave because we exist on this timeline. You, Daniel, do not. If that were so, you are surrounded by a dimension far larger than your own. The surrounding dimension might have distorted to such an extent that it smashed you into pulp when the wave passed around you."
+
+I cupped my chin, "Ah. That makes a lot of sense. Eonoth's wave messed with space, which I'm surrounded by. That ripple passed around me like a meatgrinder from all sides."
+
+I stared at my hands, "Man, this whole being a dimension thing is more thorough than I first thought. If that's the case, that might be why I couldn't do the temporal dilation you tried teaching me before."
+
+Chrona's tail moved back and forth behind her,
+
+"How so?"
+
+"Well, I was trying to bend the dimension around me instead of my own dimension. For you, you're a part of this dimension, so it's not as strange. For me, it's like trying to shift an immovable, massive thing around me."
+
+Torix raised a finger, "Ah, perhaps temporal dilation wouldn't be as difficult as you first envisioned then."
+
+I shook my head, "No, it won't be. In fact, there are all kinds of magic I'm probably not taking advantage of just because I'm tackling the techniques from the wrong angle. I mean, my pocket dimension can be used as a shield, for instance. I never thought to do that because I keep thinking of myself as Daniel, the guy."
+
+I gripped my hands into fists, "The thing is, I'm not human anymore. I'm a literal dimension, and I need to start thinking of myself as one. I should be able to manipulate all kinds of universal rules and constants that apply to me. Hell, that's probably why shifting gravity is so easy."
+
+Torix pointed at me, "You're shifting something that is part of you instead of shifting something external. That gives you a better measure of control."
+
+I pointed at Torix, "Yeah, exactly."
+
+I peered down, thinking more about the implications. I always thought of the whole being a dimension thing as just something Schema made up, like me being the Harbinger of Cataclysm. Either that or being a dimension was something airy, not something grounded that I could work off of. Apparently, that wasn't the case at all.
+
+My talent with runes might stem from being a dimension. My gravitational abilities and natural way of generating matter might be the same. If that was the case, time and other mechanics of the universe should come to me naturally as well. I just needed to focus on shifting my time instead of the universe's time around me.
+
+And that realization was just the tip of the iceberg.
+
+I grimaced at my own blindness. How I went this long without realizing any of this was a miracle. I gave my head a few hard taps while wincing,
+
+"Gah, I'm an idiot."
+
+Althea grabbed my arm, "Hey, don't do that. If not for you, then don't do that for me."
+
+I sighed, "Alright."
+
+She gave me a hard shove, "Hey, stop being so hard on yourself. You're the first living dimension, right? That means you have to learn everything on your own. That's hard to do. Look at me-"
+
+She put a hand on her chest, "I couldn't control my eldritch half at all. I'd turn into a giant pile of shifting meat every time I wasn't sedated. No one thinks about that, but I couldn't have regained control of myself without a little help. You just needed some help too."
+
+She forced a small smile out of me, "Heh, maybe so."
+
+Kessiah waved at me, "I can verify that. I couldn't do shit with my blood arts until I got a master from my family."
+
+I leaned towards her, "A master, huh?"
+
+Kessiah nodded,
+
+"Yup. That's how it is for almost every remnant. We kind of have these bloodlines with these different powers. You could walk around your entire life without knowing you can do something until stumbling on it someday."
+
+Torix gestured to her, "It would be similar to how someone could live with a talent that hadn't manifested itself yet."
+
+Kessiah frowned, "Yeah, sure. If you think about it, the Adair family is probably like that too. They grow up thinking they're normal before someone shows them they have psionic abilities."
+
+Florence perked up, interested in Kessiah,
+
+"Is that how remnants work? It's challenging to get access to their fleets, so their inner workings are a mystery to most."
+
+Kessiah got a little nervous as the group paid attention to her. She sat upright, conducting herself more,
+
+"So, uh, well...it's not that complicated, really. We all live on fleets after Schema kicked us off our homeworld. I don't even know where it is or what its called anymore. Either way, we were big into genetic modification before Schema uprooted us, and we lost a lot of our technology."
+
+She tried to formulate her words smoothly,
+
+"My mom and dad told me that after losing our ability to modify ourselves, we struggled for a while. Eventually, these families began showing up, uh, like the Adairs. These families basically bred themselves so that they would keep and strengthen their powers over time. This led to a lot of different kinds of remnants showing up over time."
+
+She bit her thumb, pooling the blood into a sphere,
+
+"I'm from the family called the Blood of Baldowahs. We're pretty strong, I guess. We're no Adair family, though. There are tons of other families like them, however. Some are so different from normal remnants they might as well be a different species. I know my own family was kind of looked down on since we used blood rituals."
+
+This was the most I'd ever seen Kessiah talk about her past. She scratched her head,
+
+"The Adairs were always high society types. I don't know much about them outside of the rumors. They're the most well established and interconnected family, and they had deep ties with Schema before this rebellion. That's probably how they made this rebellion happen."
+
+She looked down, "You know, if I'm not talking out of my ass here."
+
+I shook my head, "No, that's good information. I think I know what we need to do." I waved a hand, gesturing to everyone,
+
+"First off, does anyone think that taking out Plazia Ruhl next is a bad idea?"
+
+Everyone shook their heads before Hod's form shivered a bit. Umbral mana saturated him, and his eldritch half spoke up, "I...I would like to speak."
+
+Amara joined him, "I as well."
+
+I pulled back, letting them say their piece,
+
+"Sure. The floor's all yours. Let's start with Other Hod first."
+
+Other Hod lifted two massive hands edged with dark claws, "Plazia Ruhl is a great threat, one far greater than the Hybrids we were given to dispatch. I understand the rewards are greater, but I believe we can do more against the Hybrids than you think and in far less time."
+
+I raised my eyebrows, "How so?"
+
+Other Hod looked at everyone, his red, hollowed eyes menacing, "You all think of we eldritch as animals. I...I understand your sentiment. Many of us are. We have many among us that lack sentience or a will of our own. However, Amara and I both have shown you that we may rise above."
+
+Those present gave a few nods, though Althea leaned over and whispered to me, "I still think Amara's kind of creepy."
+
+Ditto.
+
+Other Hod continued, "There exists one aspect and language all eldritch share despite our different builds and ideas - fear. We know when we are outclassed, and we are unwilling to kill ourselves in the pursuit of food or power-" Other Hod pointed at me,
+
+"I...I fear the Harbinger more than I have feared anything, even the machinations of my nightmares. When you first gave Hod a mana conduit, I could feel how endless your hunger was. My excess was siphoned to you, and you devoured it without end."
+
+Amara quivered, "I fear you as well."
+
+Other Hod nodded at her with surprising eagerness, "You feel it too then. Of course you would. We're similar, you and I." He looked back at me,
+
+"That is because we all feel that same fear. To us, the others here are sheep, and we wolves. You, you are the destroyer, an undying hunger. In time, all eldritch will fear you, and you will be able to control them."
+
+I raised an eyebrow, "So I can become an overlord of eldritch, huh? How's that help with the Hybrids on Blegara?"
+
+"The vagni on Blegara worship the eldritch. If you can control the eldritch there-"
+
+Torix shouted, "Then Daniel can control the vagni." Torix pulled his head back in disbelief, "Hod, that's genius." Torix leaned towards him, "Who are you, and what have you done with Hod?"
+
+The umbral shade cackled, "Nothing, he and I are the same."
+
+I raised my eyebrows, remembering how I could get eldritch to shake in their boots. Hell, Amara's greatest fear was me, actually. Using that dread worked with lower leveled eldritch, but not stronger ones from my experience. It might not carry over to the monsters the vagni worshipped, but the plan was worth a shot either way.
+
+The benefits were too good if things worked out. I mean, if we got the vagni allying with us instead of the Adair's, Blegara would be much easier to clear. I shrugged, "Yeah, that might just work. I'll need some practice either way."
+
+Amara raised a hand, and I thought she was asking for permission to speak. Instead, the eye in per palm peered around,
+
+"It would take little for you to evoke fear in my kin. I know this all too well."
+
+I frowned, "Alright then, that sounds like a plan."
+
+Amara lifted her other hand, and she turned them into alternate directions,
+
+"I wish to propose another idea."
+
+I gestured my palm to her, "Sure thing."
+
+"Plazia did not join in the Adair's rebellion. He is wise and ancient, so he must have compelling reasons as to why. If we learn of his motivations, we may find ourselves on the same side as him."
+
+Althea leaned towards Amara, "You want to ally with Plazia?"
+
+"Yes. Daniel has mentioned how his armor was crafted by an eldritch. This is because we eldritch are masters of the runic language you seek to know more of. I believe we could gain much from Plazia about the inner workings of the magical runes. We may also learn about the rebellion and why an eldritch would abstain from joining the Adairs."
+
+I crossed my arms, giving it a bit of thought. Torix leaned forward, his voice rising,
+
+"Trusting a volatile eldritch is a recipe for disaster. My son trusted one, and he was turned into an utter abomination. Now you wish to entrust our guild to one of those monsters when the stakes are far higher than a single life. Are you certain that you do not wish to simply ally yourself with Plazia?"
+
+The group stared at Amara, and she covered her face with her unkempt hair. She narrowed the eyes of her palms,
+
+"Your accusations do not fall on deaf ears. I know none of you trust me. I know that you all believe we are evil. You've seen that evil manifest in ways that have destroyed your lives. However, I will not apologize for my kin. I did nothing, and I argue that many of you have been touched by our kin. In turn, you've each become stronger."
+
+Amara pointed at Althea, "You use the same energy we do to power your magic. You walk across planes like a dancer across her stage, yet no one gives you scrutiny despite the source of your strength."
+
+Amara pointed at Hod, "You are drenched in eldritchian energy, your mind splintered by it. Despite that, you have proven a loyal, capable ally who lives in the light of trust."
+
+Amara turned her hand to me, "And you, most of all. You wear what was once meant to be the skin of an eldritch. Your body is now infused with it to its core. Your rise to prominence was built on the foundation of an eldritch."
+
+The group stared down, with many thinking about what she said. Amara seethed,
+
+"Your accusations towards me are hypocrisy at its finest, and you should stare at yourself before acting as if I have defied any of you even a single time. I work as tirelessly as you all and for my own aims. My actions demand trust, else you treat me with prejudice."
+
+She was right in some ways, and Amara deserved at least some trust after she worked with us for so long. Even if she was an eldritch, she was also proof that not all eldritch were evil. Most, sure, but she was an exception. I doubted Plazia would be one of those exceptions, but because of her contributions, I decided to consider the idea.
+
+I extended out a hand, "Amara, we're sorry. We didn't mean to make accusations. As a show of sincerity, I'll think about what you said, allying with Plazia and all. Just remember that even if we all benefited from eldritch in some ways, it wasn't out of the eldritch's generosity. We fought tooth and nail to stay alive, and our scars made us stronger, not the eldritch."
+
+Amara peered down, letting out a sigh. She knew I was right and that she was asking for a lot. I raised my hand, "When we meet the guy, er, thing, I'll consider talking it out with Plazia if it isn't outright hostile. That is the limit to what I can give you here, alright?"
+
+She nodded, her teeth like needles, "That is more than enough. Thank you, Harbinger."
+
+I turned to the others, "Then that's about it, right?"
+
+The others nodded, many seeming satisfied. I raised a hand, trying to establish an overview of the discussion,
+
+"So we've established a few facts, and we've decided to try a few things. First fact, we need someone to stop Lehesion, and I'm the guy to do it for now. To make that happen, I'm going to test out more dimensional powers, learn about my elemental furnace, and finish my class. That's for me personally to tackle him. Any objections?"
+
+No one disagreed, so I gestured to the group, "I'll need help with a lot of that, and I still want to work on this golem project I have going on. Ophelia and Helios should help me in those specific skills in the meantime."
+
+I gazed at Torix, "We'll need to hold off on the guild's expansion until after we can handle Lehesion. Otherwise, we're setting up our new guild branches to be destroyed. Let's focus on really cementing our control of Mt.Verner and brainstorming some solutions for security purposes."
+
+Torix cupped his hands together, "As you wish."
+
+I peered at Althea, "We'll need some more stealth agents and spies. I know that your skills are unique, but could you teach other people how to scout for us?"
+
+Althea coughed into a hand, "Uh, I could try."
+
+"Good enough." I pointed at Chrona and Krog, "Chrona, I'm going to need you to help me with your time magic again. I'm giving it another shot. I work over the night here, and you can help teach me then."
+
+Chrona groaned, "Overnight work? Bah, I hate nightly duties."
+
+Krog rolled his eyes, "Toughen up, buttercup."
+
+I grinned at Krog, "You're going to be helping organize the gialgathens and getting them ready to fight. We'll need aerial forces to assist against Plazia. You'll be making sure the gialgathens are ready for it, and that means systemized and trained."
+
+Krog lifted his head up high, "I was a general, and I shall be one once more. Consider it done."
+
+"That's good. You can get that going after you guys have taken a break. I don't think an hour or two a day of tutoring would be too much to ask though, Chrona."
+
+She gave me a sly grin, "We'll see."
+
+I pointed at the blind albony, "Helios, you'll be helping me learn about the elemental furnace and helping move our forces around. I know warping all the time is taking its toll, so we'll try to keep your warping to a minimum from here on out."
+
+Helios stared at his claws, "If that is what you want."
+
+I pointed at Hod and Amara, "You two need to brainstorm some kind of plan for getting the eldritch to fear me on Blegara. You both understand whatever it is that's scary about me, so get that organized into some plan I can follow."
+
+Amara and Other Hod nodded. I pointed at Kessiah, "You'll need to train some more healers and other medical personal. You can do that, right?"
+
+Kessiah smirked, "Oh yeah, I sure can. It'll be easy."
+
+Florence lifted a hand, the albony being uncharacteristically shy, "So, er, what am I going to do?"
+
+I gestured to him and Amara, "You need to help these guys understand Vagni culture so they can come up with a good plan. After that's done, you'll need to do some serious research on the ahcorus so that we aren't going in uninformed."
+
+Florence perked up, "Oh, I can do all of that, and even with a measure of competence. Heh, I usually hate these kinds of war discussions. This wasn't actually so bad."
+
+I lifted my hands, letting everyone know to get up, "Then let's get this show on the road."
+
+Everyone got to action, several people looking like they knew what they needed to do already. Others like Florence paced around for a bit, trying to get a grip on their assignment. I was okay with both approaches, as long as they got it done in the end. For me, I pulled Helios aside and gestured towards Springfield,
+
+"Come on, there are only a few hours before sundown."
+
+Helios frowned, "Why are we heading to that dilapidated town?"
+
+I grinned, pulling out the black jade,
+
+"You're going to teach me how to use this elemental furnace."

@@ -1,0 +1,273 @@
+---
+id: e07612d3-5d11-59f0-aebc-ded9f5dc6279
+page-type-slug: story-chapter-royal-road
+title: "The Path of Ascension Chapter 372"
+slug: 0070-the-path-of-ascension-chapter-372
+partOf: the-path-of-ascension
+position: 70
+ownLength: 5214
+unit: words
+ownProgress: 5214
+publishedAt: 2024-12-13
+link: "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/1955110/the-path-of-ascension-chapter-372"
+royalRoadId: "1955110"
+markedReadAt: "2026-06-29T19:20:03.282Z"
+---
+
+Chapter 372
+
+With the sects properly cowed, Matt turned to where Cui Ming and Lang Ru were convalescing.
+
+With a step across folded space, he and Liz appeared next to them, and as the medic tending to the pair gave them space, Matt added the duo to his Concept’s whitelist. He felt Liz chortle on his shoulder at their reaction to just how much mana their spirits were suddenly being inundated with, and had his own turn to chuckle as the other phoenix Liz hopped off Liz’s shoulder, split in two, and turned into a pair of golden lightning bolts. Those phoenixes each struck one of the sectmasters, being absorbed into their bodies and expending themselves utterly to heal them.
+
+The full range of emotions they went through was amusing, but they didn’t resist in any way.
+
+“This one greets the Masters Titan and Legion,” Lang Ru declared, prostrating herself on the ground. “And expresses her gratitude for your benevolence.”
+
+“Rise,” Liz indicated. “Now follow us. We wish to discuss how this will proceed. In detail.”
+
+She changed into phoenix form and took to the skies alongside the body that had been on Matt’s shoulder, leading the four of them to an erupting volcano near the horizon. Though the clouds of toxic smoke and plumes of burning ash would be deadly even to them, Matt used his skills to calm the eruption and open a safe passage into the pyroclastic cloud as he activated a privacy formation, turning the illusion of privacy into something that would block most forms of onlooking.
+
+It wouldn’t do for either side to be seen in a negative light by the disciples who were still lingering in the valley. Captain Kestrel was their secondary security measure, with his spiritual perception wrapping the location and preventing anyone else from getting through. It was probably overkill, but it was also just good practice.
+
+Matt finished setting up their meeting room by creating a floor out of mana crystal [Bulwark], and fashioning a pair of sturdy raised chairs out of mana crystal for himself and Liz. The sectmasters received cushions for kneeling on, and as they took their relative seats, Liz spoke up, “I trust that you have received, read, and understood the manuscripts relevant to you, outlining the baseline changes as you transition to guild status. This is your opportunity to petition us for any changes you wish to see, for, after today, I expect you to abide by your new charters.”
+
+From there, they spent close to a full day hashing out just what rules and regulations the sects would follow as they converted to guilds.
+
+As the local nobles, they had some wiggle room for what was acceptable, but there were also hard limits in place, and the sect leaders both started by asking for the absolute limit of what they could do. He and Liz immediately shut that down.
+
+Neither of them wanted to play the game where both sides started at the extremes and worked to a middle. It wasn’t a negotiation. Not when he and Liz held all the power.
+
+So perhaps unsurprisingly, they settled about where Matt and Liz wanted in the end, easily buying goodwill by conceding on a few points they really didn’t care about. Namely the sects’ libraries of unique skill modifications. Typically, they were just added to the Empire’s collective knowledge bank in the form of a buyable listing on the EmpireNet, or if they were truly unique, put under patent like anything else of significant value.
+
+Matt and Liz agreed to give the sects a full five thousand years of exclusivity before they had to offer their most core inheritances and the modifications they typically required to take a basic skill and make it something unique. The time delay was to give the sect-turned-guilds a draw beyond their location on Palustris in the early years while the system was built out.
+
+As for the sole legacy the Dancing Flames sect had, it was, despite their requests for delays, handed over to the Empire’s collection.
+
+In return, they asked for and got more than the usual lands a guild would be given. Matt and Liz stipulated that the former sects would have to sell to get within legal limits within the next ten thousand years, but that was a net positive for the guilds. They would not only be able to use those lands, but the value of them would be magnitudes higher that far out.
+
+As a Tier 27 planet, the world would be fully developed in the coming years. He and Liz wanted to ensure that they had resources to lease or sell, and the most valuable resource of a high-Tier world was its rifts. For Palustris, the land itself was valuable as well, and so having more was a boon for he and Liz’s future plans.
+
+The other thing they pushed for that was a major sticking point was allowing anyone who wanted to leave the sect the right to do so without penalty.
+
+Guilds, unlike sects, were not lifetime bonds. At least not legally, like they were in the Sects. In the Empire, a guild member who Tiered past his guild and moved to a higher-Tier guild might feel like a member of the lower-Tier guild and be treated as such by his former guild mates, but legally, there was no bond remaining. In the Sects, it was the exact opposite: a disciple for a day was a disciple for life.
+
+Even for those like Elder Winter Hornet, the Sects’ Tier 50 who had risen from a lower-Tier sect, took great pride in his lower-sect heritage and was still technically a disciple of the sect he had started life as a slave in.
+
+That just wouldn't fly in the Empire. The Empire did, however, allow guilds to set reasonable repayment terms for those who left the guild, which most former sects pushed to the legal limit to try and keep anyone from leaving. The same went for the durations of the contracts, which they tried to get extensions on, but Matt and Liz refused to budge from the Empire standards.
+
+Matt personally doubted that many people would take the offer out, but that number wouldn’t be zero. Those few would be grateful for the opportunity, which is why he pushed so hard for it.
+
+Most other things were minor quibbles that were, if not easily resolved, at least resolved without another round of fighting. Which amounted to the same thing.
+
+Emerging from the platform, Matt and Liz flew up to where Captain Kestrel floated with their personal guards.
+
+“Everything good on your end Captain?”
+
+Captain Kestrel nodded like his namesake. “Yes, my lord. Most sect members returned to their headquarters. There have been a few who lingered, but they haven't done anything that would force us to interfere.”
+
+Matt nodded, letting some of his excitement bleed through. “You said our island arrived during the negotiation?”
+
+Captain Kestrel nodded once more, and upon confirmation, Matt and Liz each ripped to chaotic space, where they found a Tier 30, large-scale courier ship waiting for them. Inside one of its berths was a mile-wide island that floated completely disconnected from the walls.
+
+It was empty, barren really, but that didn’t stop Matt from grinning. It was, however, perfectly primed for life and ready to accept whatever local flora and fauna.
+
+Matt connected to the drive controls of the island with his [AI], quickly setting up some basic logic on the pseudo-AI used to control it. He and Liz were the only full administrators, and he purged all prior permissions while setting up his own. Going forward, only they would be able to move the island freely, with more restricted access to their families, seneschals, and trusted friends.
+
+The island controls were a marvel of engineering, and it could even travel through chaotic space directly, like a spaceship. That wasn’t the typical way the islands traveled, as part of the ducal island's expense was a special device that linked in with the tethers connected planets together, allowing them to teleport between any connected worlds.
+
+The drives required a fair bit of priming and preparation, and could only accept a finite number of paired teleportation-objects, making their uses limited even before the legal restrictions came into play, so they weren’t in common use. But they made quite the statement, and while their upkeep was expensive enough that even some dukes didn’t have them, Matt felt that having the option available was more than worth the price.
+
+He and Liz had a design team scheduled to arrive in the next few years. They would need a proper ducal estate, but they had their portable house which would serve in the meantime.
+
+Their house did look very conspicuous on the massive, grassless island, but a thought transplanted a few clumps of grasses that Matt thought looked good on the island. Liz added a few small trees she grabbed, including one of the oaks Matt liked so much. Once they had a good seed group, Matt spread his mana into a formation, crystalized it, and activated the makeshift formation and the magical growth effect.
+
+In the first fifteen seconds, nothing seemed to happen, but watching through his spiritual perception, Matt followed along as the trees and grasses settled into their homes before their roots started spreading. In the case of the grasses, they spread and popped up secondary growths before they all started flowering and dropping their seeds.
+
+The formation automatically added nutrients into the soil and watered the foliage as needed, even with the increased growth cycles. In just fifteen minutes, they had a small little floating oasis ripe with local flora.
+
+A thought cut a winding path through the grass to their front door, but Matt and Liz kept to the edge of the island as they directed it to float over to the archipelago they had found earlier.
+
+The terraforming lessons he had taken after the guild island didn’t make him an expert, but it gave him enough of a foundation to be confident in this small gardening work.
+
+Lowering the floating island into the sea, it wasn't even obvious the island wasn’t native. Or, it wasn’t too obvious.
+
+Matt changed his mind as he inspected the island with a critical eye. It was very obvious. With the island prepared for a sprawling estate, it was flat, which stood out as unnatural with the mountainous islands all around them.
+
+“Should we build a mountain?”
+
+Hearing Liz’s question, Matt couldn’t help but laugh and pull her into a kiss.
+
+“I had the same thought, but I don’t think we need to go that far. Once the castle is built, it will look more natural.” He responded.
+
+Liz pushed away and broke free from his grasp where she started running through the grass. “No way mister. We are not having a castle.”
+
+Matt chased after Liz, but she slipped from his grasp every time he was about to grab her. “Castles are cool, and it’ll let us hide more stuff.”
+
+“They’re tacky. We definitely don’t need a castle. We can just have an estate.”
+
+“An estate with a castle as the main housing.”
+
+“I’m pretty sure that doesn't work, by definition.”
+
+Matt nipped at Liz’s ear as he caught her. “Then I’ll change the definition.”
+
+Dragging him down into the grass, Liz smirked. “I’d like to see you try.”
+
+The sky was beautiful.
+
+As he and Liz laid in the grass, they watched the stars overhead twinkle down at them.
+
+“A young universe.” Liz pointed to the side. “That constellation looks like a sword.”
+
+She was right, and they pointed out a dozen other shapes until the sun rose and blocked their view.
+
+Matt was personally happy the universe Palustris was in was young. Essence kept the local star from burning out, but unless essence was spread to the neighboring star systems, they could, and eventually would, die.
+
+Even for them, as immortals, that would take an incredibly long time, but there were still examples they could look to. They had spent time on one world where the night sky was empty, as the local star fueled by essence was the last remaining star still shining in the universe.
+
+It was a sad end for so much potential, even if it was natural in a place without essence.
+
+Palustris having a robust universe was purely a positive, and Matt made a note that they should look into settling the nearest star systems in a few millennia. Some people liked to roll the dice on creating a functional realspace crossing - not that it had ever succeeded - but Matt just wanted to ensure that even trillions of years from now, Palustris’ night sky wouldn’t be empty.
+
+It was, however, an idea for long in the future, and Matt tossed it to the side.
+
+Instead, he turned his attention to the local star.
+
+Once one planet in a system started Tiering up past Tier 10 or so, it would typically start affecting other celestial bodies in the same solar system. That usually started with any moons and the sun, and then would slowly Tier up other planets afterwards, but the original planet would usually be ten to fifteen tiers above anything else.
+
+Yet here, the local star was Tier 20, and the planet second-closest to said sun was Tier 21. Matt was very interested in investigating how exactly all of that happened, but what he was more curious about was how to properly leverage the comparative glut of opportunity it provided. The sun would attract some delvers, but star-delving required a specific set of skills that most delvers never developed.
+
+Looking at it more closely, Matt realized just how busy the star system was. There were five other rocky planets besides Palustris and five gas giants, two truly massive ones in the outer system and three smaller ones that orbited in the system.
+
+The gas giants were fairly useless until they either hit Tier 15, which the two largest hadn’t yet, as they were far out from Palustris, which was the main source of ambient essence as it leaked from the planet. That, or until people decided to settle them with things like floating cities. But they were so expensive that Matt and Liz wouldn’t be funding them any time soon.
+
+For now, he turned his attention mostly to the neighboring Tier 21 planet, flying out to get a closer look at it.
+
+It was, all told, quite barren. Terraforming it would take absolutely ages, a process only made worse by the sheer amount of bizarre life inhabiting it. Strange rocklike crustaceans, massive subterranean rock-snakes, and wispy elementals absolutely packed themselves between spires of mushroom-tree things adapted for the obscenely hostile environment.
+
+Well, they could set up some sort of outposts to take advantage of it, possibly either in orbit or a heavily-defended domed fortress. No doubt the weird planet ecology would result in some impressive natural treasures and rifts, so they could set it up as a partially-accessible training world as an additional attraction in their system for Tiers 17 to 21.
+
+Training— or ‘wild’— planets were always a good source of income, and while a part of Matt wished he could terraform it such that lower Tiers could survive on it, he had his hands full enough with Palustris itself as it was.
+
+The fourth planet in the system, a small gas giant, was only Tier 8 thanks to its relatively large size, which made it a prime target for eventual expansion for mortals who wanted to delve. But that wouldn’t be an issue for at least a few thousand years in the future, when real estate truly became hard to find.
+
+He and Liz did decide to buy not just a habitable moon, but a Tier 2 world as well, so they could ensure that mortals had enough space to live, given just how much of Palustris wasn’t readily liveable for low Tiers.
+
+Once they got to work, they found the various local sects had created a few methods to create safe zones. Or safer zones.
+
+The one that Matt personally liked for small outposts was to ring them with a formation that redirected fire mana and essence upward into the atmosphere, which created a bubble of safety at the center. The side effect of creating an extra dangerous zone around the formation was less a bug and more a feature, as it was a perfect area for fire mages to cultivate in.
+
+He and Liz wouldn’t allow them to be used anywhere near an area that mortals lived, but it was an economical way to protect a small zone they encouraged.
+
+The local former sub-sect who had come up with the idea was more than a little flabbergasted that they were paid for their idea, but they were more than happy to take the money and use it to expand their influence.
+
+Guilds were another sticking point he and Liz ran into.
+
+As part of their agreement with the local sects, they wouldn’t let local guilds settle for the first decade, and then they would only slowly open the world up for foreign guilds. But everyone wanted a piece of Palustris, so they were constantly asking for extensions and restrictions on other guilds.
+
+While Matt wanted to just ignore them, he understood where their concern came from. Just a week after they fought the guild leaders, they had hundreds of ships in orbit just waiting for permission to land. Matt and Liz forced them to cool their hands as they got Palustris ready for large-scale settling.
+
+They long since put out a call-to-arms for any and every construction company of nearly all Tiers that was willing to travel to help quickly build out two cities capable of housing a billion people safely.
+
+The higher-Tier construction teams were there to do the brunt of the work, setting the foundations for a long-term city that could house so many people safely, while the lower-Tier teams were there to build out the sky scrapers and other buildings that didn’t need to be rushed.
+
+Not that it was easy.
+
+Matt had just expected the city planners they hired to just tell them what they were going to build, but that wasn’t how it happened.
+
+Instead, they were presented with dozens of variations and styles to choose from.
+
+For their first city, a safer zone nestled inside a mountain range, they were presented with three major themes.
+
+The first was to flow with the natural dips and valleys of the area, but that wasn’t the most economical use of the space, which was where the second idea came from of leveling the area and creating spatially-expanded layers to fit the maximum number of people into the space as was possible. The third was, instead of being a middle ground, do complete reversal and maximize the view and ambiance by reducing buildings to mainly underground structures.
+
+After talking about it, he and Liz chose the first option, but they were presented with dozens of minor variations. The differences seemed inconsequential, but once they chose a design, things would be difficult to change.
+
+Some variations tried to maximize housing while others maximized things like parks, while others still did the same for production districts.
+
+They discussed aiming for a middle ground, but they ended up deciding they wanted their cities to have specialties at least in minor ways. A citizen wouldn’t have to travel to a new city for a new weapon, but they might decide to travel if they wanted to get the best weapons. Just going middle-of-the road for everything was boring, and would mean their capital lacked anything that would set it apart and make their cities much too similar.
+
+To that end, they decided for their first city, they would aim for robust production districts with secondary focuses on population density and public transportation. That wasn’t to say there weren’t public spaces like parks and gardens, but they were put where they could be rather than the city being built with them in mind.
+
+The production they envisioned was built around taking the unique products made from the rare local resources of Palustris and getting them ready to sell off world or to visitors. As for what, they weren't entirely sure what would end up being economical, but the planet had a number of unique products that they were looking to lean into.
+
+Making matters worse was that even in the less dangerous areas, they still needed special consideration to ensure that mortals could exist. Setting up anti-volcano wards, ash cleansing arrays, and weather-control towers, among so many other things, took funding— both initial funding and on-going maintenance and power— and space that could have been spent on other functions if the planet wasn’t so dangerous.
+
+Seeing the choices they had to work around was enough for Matt and Liz to just go ahead and buy a habitable moon where mortals could live without too much issue. It would arrive much faster than the planet they had ordered, and they could always use both.
+
+The second city was at least more interesting, as it was to be located in the archipelago they set their floating island in.
+
+It was shaping up to be their capital region, and so they took more effort into ensuring that it was, at least to a moderate degree, aesthetically pleasing. To that end, they decided to forgo anything like a single floating central city and to embrace the island lifestyle. Combined with terraforming some of the continental coastline, they would, once the city was fully built, be able to house close to a billion people.
+
+With thousands of islands, they intended to let the smaller ones specialize into whatever they wanted, so as to encourage movement between the islands. That meant a robust naval public transportation system, but surprisingly, the answer had already been solved by Titan’s Torch’s new engines, amusingly enough.
+
+The engines liked to be at their top speed, which is where they had the most mana savings compared to older engines, so frequent stopping and starting was to be prevented as much as possible.
+
+The original idea had started in the Capital system, funded by Carissa, as it had seven inhabited worlds with loads of interplanetary travel. Matt ignored the politics of Manny’s wife funding the project instead of himself, but either way, it was a success and had spread to many other systems that had multiple worlds with heavy traffic between them.
+
+To take advantage of the travel mana engines, they had large ships constantly moving between destinations while smaller ships moved from the planet's surface or orbit to the travel mana ship. After it dropped its passengers off and picked the leaving batch up, they then flew back to the world as it was passing by.
+
+By never stopping, the ship didn’t have to lower its mana coefficient which resulted in significant savings. Savings that had eventually been passed onto the passengers. Matt didn’t need the additional stress and chose to focus on the positive ending rather than the bumpy way they had gotten there.
+
+That same method worked fantastically for ocean-based vessels, and the city planners suggested they copy the method to facilitate the city they wanted.
+
+Matt only got slightly distracted in looking up how trains handled the issue with travel mana, but wasn’t shocked when they simply differentiated between long and short distance travel and ate the mana cost of stopping and starting the train.
+
+He also definitely didn’t get distracted by the reports of a round of audits that had come from King Frederic on companies that hadn’t followed through with their promise of passing on at least part of savings to their passengers. Matt also didn’t get distracted by ensuring he had blacklisted all of those names from working directly with his guild in the future without his express permission.
+
+Matt was on a mission, no distractions. Or at least, that was his internal monologue.
+
+It took six months to get the cities at least marginally habitable, and that was only because they had hired Tier 40 building teams who could prepare entire city blocks for the mega skyscrapers in hours instead of months. Everything also took longer because they greatly overbuilt their infrastructure in case their populations ballooned higher than they initially intended.
+
+Wanting to embrace their founding of many different planets from many different cultures, Matt put out a duchy-wide decree. With well over a thousand smaller islands, they had more than enough to assign each one to a planet in their duchy. An island would be given to each planet to design to their own sensibilities in terms of design and built out specifically for people of that world to settle on Palustris.
+
+To sweeten the pot for the worlds, Matt threw in various rewards for the best designs. Though, for all their issues, Matt suspected the most unique and interesting designs would come out of the veil worlds they had taken over. He thoroughly believed the Empire was a good thing as a whole, but there was something to be said about the diversity of ideas that came out of such a chaotic mix of cultures just on a single world.
+
+Preserving a portion of that as well as making sure their capital city was striking and unique was an idea he could get behind.
+
+The idea was even good enough he didn’t have to do more than raise the idea before Liz accepted.
+
+The city planners they had contracted didn’t like the idea, as it meant they needed to wait to finish a number of the islands, but that was more a matter of rearranging the order of things than outright delays.
+
+As for the few mortal inhabitants of Palustris, they were given the Empire-mandated awakenings and specific tax breaks to ensure they weren’t outclassed by the first wave of immigrants.
+
+And a wave it was.
+
+The minute the first skyscraper was ready for people to move in, they had ships nosing into the atmosphere. Millions of immortals were knocking at their doors. Some even went as far as to forgo the ships altogether and just enter with their bodies. If they were trying to bypass the immigration they had in place, it wouldn’t be so easy, and a number of rabble rousers were caught by the guards and forced to leave immediately.
+
+Most of the new arrivals were just fire specialists who wanted an early in on a new fire world, and Matt and Liz opened their doors to them in a variety of ways.
+
+Permanent citizenship wasn’t given out to many; they required those immortals who wanted to go that route to both provide something useful to the planet and buy property with the understanding that they couldn’t just resell to anyone but the state for the next thousand years. Space on high-Tier worlds had the habit of being bought up in secondary markets that prevented the dedicated but less wealthy from joining.
+
+Mortal requirements were far less strict, but there were still those who were only offered temporary residency permits. There were ways to turn those into permanent ones, but they required dedication to Palustris itself, which was a way to weed out those who were just looking to get in on a fad.
+
+Food was a major issue, and was the largest hurdle preventing them from just filling their first two cities with citizens. Even beyond Empire mandates about food availability, Matt wouldn’t feel comfortable bringing in a mass of mortals without a stable source of food because Palustris wasn’t suited to grow most crops.
+
+Not that it couldn’t grow foods. It could, of course, but the normal farming rifts were thrown off by the planet’s aspect, and the fire aspect meant food grown without special care frequently beyond the means of regular people wasn't entirely mortal-safe. Technically, they’d probably be fine, but it raised the odds of a bunch of health problems by a truly staggering amount.
+
+The Empire required that every world was self-sustainable in terms of food and its mortal population, but there was leeway when it came to capital worlds, even ducal capital worlds. With populations in the billions, trillions, or possible quadrillions, it was understood that not all the food for mortals could be produced by mortals. Orbital structures like they had seen Countess Walsh’s former Corporations world, Mythena, use weren't common in comparison to rift farming, but it was the method he and Liz decided to go with.
+
+They would have encouraged a robust, rift-centric farming economy, but that took time to get started. A suitable rift needed to be found, then it needed to be delved until all the variations were cataloged and mapped out so the delving teams could best clear the rifts, as well learning exactly what the rift and its soil composition specialized in growing.
+
+The Oneil cylinders were, for all their faults, easy to create and get started. Especially when Matt personally went, created, and powered the plant growth formations.
+
+Though on Palustris, food testing was already ongoing.
+
+Liz, being an alchemy expert, was overseeing that, but Palustris was already exporting a rare variation of saffron that grew exceptionally well in their fire-aspected world, even in the more dangerous regions. That meant Tier 15s needed to do the farming, but non-combat fire cultivators were more than happy to take up the farmer mantle in exchange for permanent residency. Doubly so when they got their cut of the export.
+
+A few of the farmers were even using their early position to petition for the licenses to expand their operations to medium-sized corporations centered around the saffron. After a few talks with their advisors, they decided to allow a few expansions, but postponed any further growth after seeing how the environment would react.
+
+The saffron wasn’t the only food to do well in the fire-rich environment. A version of fire rice also exploded in a local way as it was turned into a sake and exported not just across the duchy, but into other duchies thanks to its mellow front flavors with its fiery after tastes.
+
+Even just a year into serious production, the liquor was making for a serious export that had all the hallmarks of becoming a staple of their world. Best of all, it was a hardy plant that grew not only in the more dangerous portions of the world, but in at least two fire aspected rifts if their initial testing proved accurate when automated.
+
+As did the hot springs.
+
+There were a few that not only had strong fire properties, but had healing properties mixed in, which drew in those immortals dealing with healing cooldowns to lower said bodily resistance.
+
+Dozens of companies were trying to set up shop to expand the service, and Matt was going over their requests when he felt the world pulse as a pair of people arrived with a bang.
+
+Checking the new arrivals, he found they weren't people he expected to show up unannounced.
+
+Maxine ‘Max’ Teslovaka, the Corporation Chosen Cosmind, and Wun Miloan, the Clans Legend known as Goldenrod.

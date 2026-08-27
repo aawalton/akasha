@@ -1,0 +1,465 @@
+---
+id: de4410dd-ed21-5cda-9947-ec8dbf676a31
+page-type-slug: story-chapter-royal-road
+title: "The Path of Ascension Chapter 278"
+slug: 0036-the-path-of-ascension-chapter-278
+partOf: the-path-of-ascension
+position: 36
+ownLength: 9387
+unit: words
+ownProgress: 9387
+publishedAt: 2023-11-27
+link: "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/1424398/the-path-of-ascension-chapter-278"
+royalRoadId: "1424398"
+markedReadAt: "2026-06-29T19:18:43.616Z"
+---
+
+Chapter 278
+
+Allister nodded as he watched the proceedings.
+
+Another set of Ascenders from the Empire.
+
+It was a good thing. Despite everything the other Tier 50s said, the Conglomerate of Guilds wasn’t just a pawn of the Empire to be absorbed down the line. He and Emmanuel had a dozen treaties to prevent such a thing, and while that didn’t mean their successors couldn't change that, the weight those agreements carried made it harder.
+
+And more than that, Allister trusted the Empire. Emmanuel first, of course, as the person he knew best, but the relationship had survived from previous generations. Notably, the Empire was instrumental in the expansion of the Guilds thanks to some rotten luck in the last few millennia. Planets over Tier 15 just hadn’t been appearing near their regions of space and it was only thanks to his predecessor combining their power with Georgios that they were able to pull a Tier 30 planet deep out of chaotic space and towards the Guilds.
+
+As a Tier 50 himself, he knew just how monumental a task like that was. He could destroy a Tier 30 world easily enough, but moving one the required distance through chaotic space without pulverizing everything in the star system would be almost impossible. Extending chains of low Tier worlds out to capture the true jewels coming out of chaos space was almost always easier than moving the higher Tier worlds directly.
+
+Tier 50s were usually too busy to be personally expanding the borders of their territory.
+
+Which was why the fact that Georgios had helped in such an endeavor was a proof of allegiance. You didn’t go that far out of your way for a mere vassal.
+
+That, and a dozen other acts had cemented that fact in Allister's mind.
+
+They just needed to win this war.
+
+The momentum set in these early days would prove instrumental, he knew. And while there were no new Heroes upcoming to aid the war effort yet, Heroes always came out of nowhere, an unstoppable ball of force sending all other plots careening out of course. But even a Sidekick who reached Tier 18, 20, or even higher with the Caped Crusaders was an elite fighter in their own way.
+
+None had been deployed quite yet, but they were an invaluable source of potential strength. It was simply a matter of choosing when and where to unleash them. Their lives were valuable, and he had no desire to send them to their deaths. But with a second set of Ascenders, the war would soon redouble, and if he didn’t act now, he surrendered the war’s momentum to their enemies.
+
+And once that had started, it would be all but impossible to stop.
+
+He had taken his own risks through getting involved in this war. If the opposing coalition managed to beat the Empire, they wouldn’t be satisfied stopping with a mere pound of flesh from their primary enemy. They’d take their reparations from the Empire’s allies as well, and the Guilds had enjoyed very little in the way of recent expansion to begin with. They’d been tremendously misfortunate as of late, and a massive blow to them now would be… catastrophic.
+
+The ceremony concluded, and the chain of portals he’d been using to view it through snapped shut. Allister took to his feet, the spheres orbiting around him picking up a bit of momentum, but he stilled them with a thought as he paced about his office. He always thought better when moving.
+
+The real oddity was the last message Emmanuel had sent to him.
+
+It had hinted at jealousy and an invaluable treasure, with the implication that people would stop at nothing to get it. That he should be ready, because people would seek to take it, to tear them apart. That this war was almost a distraction from a true war that they were certain would take place, and if they needed to lose this war to be better-prepared for the future, they should.
+
+It was a worrying message, and if he didn’t know Emmanuel so well, he would think it was either a threat or declaration of intent. But he did know Emmanuel, so he knew the man was perfectly content with the Empire’s current rate of expansion. He wasn’t the type to risk burning everything down for a few more twinges of power. So perhaps he was expecting something akin to the old Federation to happen to the Empire? It shouldn’t have been, while there were a dozen or so worlds between Tier 43 and 46 somewhere out in the depths of Chaotic Space, they were all unimaginably far away, with only his connection to the Realm itself telling him they were there.
+
+His future sight shouldn’t be strong enough to predict a true war this far in advance, so what was going on? He couldn’t sense anything massive in motion, certainly nothing past the point where stopping it would be catastrophic, so why the man was so certain was a mystery.
+
+Allister’s only clue was the half-dozen vials of Elder Dragon’s Blood attached to the message. Not that they even were Elder Dragon’s Blood. Eclavorn was an Elder Dragon, and this surpassed even him in rank. Allister had previously managed to secure a few vials, but they had never come cheap. To be simply granted six more was… surprising. Was it a buying of goodwill, or the Emperor saying the impossible prize everyone would want was connected to the Elder Dragon Blood?
+
+Something to consider.
+
+For now, he’d simply make use of the unexpected gift. While he had no bloodline himself, Mephistopheles, White Horse, and The Subterranean would certainly appreciate what it could provide them. One would go to the Cosmic Forge to see if they could make anything interesting with it, and the final two he would hold in reserve… for now. He didn’t wish to start all his avalanches too soon. Perhaps a new Hero would appear with a bloodline, or another beast would earn his trust. Emmanuel had really gone all out to ensure the Guilds were ready for the next war, and he didn’t intend to squander that generosity.
+
+Real wars weren’t to be trifled with.
+
+Even these more civilized wars weren’t to be underestimated, but at least a loss there wouldn’t mean the death of a Great Power.
+
+No matter what, it wouldn’t be the Guilds burning.
+
+Allister wouldn’t allow that.
+
+***
+
+Janet sighed as the video of Quill, Torch, and Scoop’s identity reveal was sent to her, and she waited with clenched fist as the information reports came streaming in about their histories.
+
+Much of it was as she expected. The man was from some backwater planet of no importance, steeped in problems that just so happened to remove most records of his birth and early life. Ideal for hiding some sensitive experiments and inserting him right where he would need to be in order to minimize accountability. She could practically read Emmanuel like a book.
+
+As she read, however, her anger grew. It wasn’t just that they had suspicious pasts and time on the Path, it was downright comical.
+
+To start with, finding a bond egg as a Tier 1. Possible, certainly, but even at the very beginning of this preliminary report there were some flags being raised. The primary witness to the rift reward, executed on the spot? Convenient. Very convenient.
+
+Next, the B-7112923 training planet, taunting her by bordering the Republic. Matthew just happens to stumble into Elizabeth, just as one often runs into the daughter of some of the most powerful people in the realm. Soon after, they register a growth item, and Janet nearly dropped her drink when her agents cross-referenced future videos to ascertain what they found: a pair of rings.
+
+Mara could not have been more blatant in setting her daughter up with her future husband and getting them a pair of growth rings under the table. Naturally, the children could never know if the rings had come from some source other than the rift as presented, and it wouldn’t have pinged the relevant AI. But the signs were all there.
+
+To cover up any evidence of the misdeeds, Mara then stole the planet shortly afterwards. Yet another convenience for them.
+
+The reports were somewhat mixed for the middle of their time on the planet where the Empires vassals had fought for sport, but her spies had already picked up some irregularities. An auction house had flagged their group as selling far more materials than they should rightly have, and no one in their group had any indications of being a seeker. Most likely, they were being handed wealth in some deniable format, and had all the indiscretion to be expected of teenagers with more money than they knew what to do with.
+
+And then their group somehow attracted the attention of Luna, who had nominally been retired. Luna, who had trained Mara and Leon, and could have been complicit in making sure that fewer future leaks could occur. Void magic was particularly good at erasing evidence, after all.
+
+It wasn’t until their tournament that Janet had to pause again. Elizabeth seemingly had a second growth item, and from as best as her agents could tell, it was a blood growth item. No recording of having bought it. Did they expect Janet to believe that possibly the sole low Tier blood mage in the entire Empire happened to find a growth item that specifically fit their incredibly niche style? And yet again, a planet was sucked up into the void that was Mara’s collection, breaking numerous Empire laws in order to hide the “source” of the growth item before anyone could look into it.
+
+The so-called Scribbling was suspicious, admittedly, but that was a known event with myriad speculation. From her position, it simply read as even more taunting from Mara and Leon, showing that they had some method of skirting the normal rules on resources afforded to Pathers.
+
+It was Aster who showed the next discrepancy, the next slip up. She was registered as being born an Arctic Fox, a rare but standard breed. Somewhere between the tournament and their Minkalla run a few years later, Aster seemed to have transitioned to being a Winter Fox, as confirmed by her statements at the academy and some inferences of their sightings within Minkalla.
+
+The question was how, and almost as importantly, why?
+
+How would a lowly little Arctic Fox cultivate their bloodline enough to fully change it, at such a young age? The resources required to do so would be enormous, far more than could ever be allowed on The Path. Additionally, winter was a rare element, not one that could be found on any typical planet to refine a newly forged bloodline. It would be incredibly foolish to change bloodlines to something so rare, and potentially lock out any future advancement. Even the resources afforded to an Ascender couldn’t help, if those materials didn’t exist in the first place.
+
+But Janet had a hunch there.
+
+Helen.
+
+JR had pursued Helen for millennia, purportedly for her cooking and great beauty, but that speculation had always felt shallow. If Helen had some undisclosed ability to help progress bloodlines, it would explain JR’s dogged pursuit and Aster’s incredibly strange advancement in one fell swoop. All under the noses of the Path guidelines, as Aster was only loosely bound by Path rules.
+
+It was the mother hen running the foxhouse.
+
+Janet would send agents to check what she could, but she didn’t expect much. The one other thread to pull was the incredibly strange timing of Frederic becoming a royal. Emmanuel had selected his royals a short few thousand years previously. Why add someone new, someone so misaligned with his previous ambitions, and after so little time?
+
+The only conclusion Janet could reach was that Frederic had found something, something that Emmanuel couldn’t risk getting out, and had given him a position of incredible power in exchange for his silence. Was it related to Lilly, where Emmanuel had booted out the established nobles and installed a loyalist too inexperienced to ask the right questions?
+
+Then came Minkalla, which she had frustratingly little information on. It was well known that Luna had taken great pains to prevent an unexpected Inspiration, but why? The question haunted her.
+
+She came back around to the greater question of Minkalla, which possibly tied into this same plot. Aiden Waters, on his rise to greathood, had gone into Minkalla a monster and come out a thing of legends, with not just a great run, but a theoretically ideal sequence of floors. Seven Concept boosting floors in the optimal order for the greatest Domain specialist in recorded history. It defied explanation. All Gladiators and their ilk defied logic and faced the impossible in their own ways, but even still there were limits.
+
+The only coherent answer anyone had was that Georgios, in the moments of his ascension, upgraded his Talents and saw the path to making a beast of nightmares, and sent that plan to his son. It was utter lunacy, better fit for the pages of a conspiracy tabloid than an actual discussion she’d had with her cabinet, yet when life was insane perhaps it was the insane themselves who were most sane.
+
+For Elizabeth and her entourage, however, Minkalla was where the oddness ended, as if a line had been drawn. In the best of times it was strange, that a life so full of oddities and impossibilities would suddenly become normal, but there the records were. The increased scrutiny of Pathers past Tier 15 was what best explained it, but it was difficult to say.
+
+Maybe they had simply gotten better at hiding their cheating.
+
+There were only two possible explanations, overall. The first, most coherent one, was that this newest group of Ascenders was an incredibly sloppy operation led by the two most incompetent leaders in the Empire, Mara and Leon. It fit neatly, that the benefactors of unbridled nepotism failed the biggest undercover operation in history less than a tenth of the way into Emmanuel’s reign. It had holes, as did any explanation, but it fit the evidence.
+
+The second possibility, that this was the masterwork plan of a man on his way to the higher realms, was daunting. Impossible to disprove, equally impossible to believe, but it explained the extreme oddities in recent millennia. Minkalla was the biggest point of evidence in its favor, as no known mechanism could influence its inner workings, but it had been coerced into making a demon anyways.
+
+It begged the question, was all this sloppiness in crafting the newest Ascenders intentional? A necessary step in a grand plan ensuring a new group of peak fighters? If so, the future looked dim for her darling Republic.
+
+She was almost impressed at how brazen Emmanuel was, but she couldn’t deny she might do the same if she did have a repeatable way to create powerhouses.
+
+Seeing another Great Power grow so much in just three immortal generations was worrying in and of itself, but she felt she was in a nightmare being forced to watch her people’s slow and steady enslavement happen in front of her. All while unable to do anything to prevent it. It was unflattering, but the Great Powers were like crabs in a pot, unwilling to see any of their number step on their heads to get away from the boiling water.
+
+She sneered as she thought of herself as a crab before snorting at the image of Emmanuel reduced to the same unflattering form. That visage would suit his smug, overly inflated self worth perfectly.
+
+Amusing thoughts aside, the metaphor fell apart as she knew they weren’t fighting for control so much as their own freedom. If the Empire stepped on their heads and managed to keep up even a fraction of their growth for another two, possibly three immortal generations, even the collective might of the other seven Great Powers wouldn’t be able to resist the Empire's.
+
+That would mean a true war, where combatants over Tier 35 fought, like what happened when the Federation was split apart, it would mean planets would burn. Inhabited planets filled with the people who voted for her, believing that she would be the best person to protect them.
+
+And Ascended damn it, she would defend them. As she would defend their children and grandchildren.
+
+But to do so, she needed to ensure the Empire lost this war and they could restrict its growth and expansion.
+
+Janet took a deep breath, the action still helping to clear her mind after all these years. She was growing irrational again, possibly even jumping at shadows. She needed a break. It did her and her citizens little good if she allowed herself to drift away from their actual concerns, growing out of touch and distant from the concerns of the ones she had sworn to protect. It happened too often with her peers, but she never wanted to forget her roots.
+
+Forget what was at stake.
+
+She sent a message to her cabinet, letting them know she was going for a walk and would be out for a month or two, but if they needed her input on something urgent she’d still be reachable. But they could handle themselves well enough. Unlike the Empire, they didn’t demand all of their upper-level cultivators be in a dozen places at once, stretched so thin that [Clone] and gear dedicated to making that specific spell cheaper was an outright requirement of office.
+
+No, she was getting over-fixated again.
+
+No more thinking about the Empire.
+
+She left her office, striding down the long corridors but waving her guards to stay in their places.
+
+She wouldn’t need them, where she was going.
+
+Once she was at the entry hall, she passed into the Between.
+
+The sensation was never not strange, but she infinitely preferred the shifting, confusing, but tamed semi-reality the Republic had established over the tumultuous chaos that the other Great Powers had been content to endure. Even if the pathways of Between were only this robust near their core worlds, the opportunities and security it provided was unmatched in the Realm.
+
+Conveniently, there was a newly-incorporated Tier 2 world not far from the capital. Janet emerged from a wooded stretch of the Between in a shaded grove of trees, tucked away from common perception and just outside the heart of a major mortal city.
+
+Her perceptions expanded almost involuntarily, but Janet forced herself to pull back, pushing down on her cultivation, suppressing her aura, and forcing it all to task. She refused to be a voyeur, spying upon the mortals simply going about their lives and peering in on their most intimate moments. She was better than that, even if it was technically illegal for her to be present. She just… couldn’t have been bothered to submit the proper paperwork, not when she was in such desperate need of clarity.
+
+Besides, the paper to approve someone above Tier 45 visiting a sub-Tier 5 world would have landed on her desk in the end anyway, so she told herself it didn’t really matter. And it didn’t.
+
+She picked a random direction and started walking.
+
+All around her, people were just being… well, people. Children were laughing and playing, parents were yelling at their children to behave, adults were going about their daily lives. They went to work in the morning and came home in the early evenings, cheer filling the air as they simply lived. People were singing on street corners, colorful lights decorated buildings, and there was a sense of joy that permeated everything.
+
+It was beautiful.
+
+This was what she was fighting for, she reminded herself. For mortals to just be mortals, living their lives unaffected by the whims of nigh-omnipotent deities, powerful enough to hear their cells divide, mighty enough to rend their city in half with but a thought. If she had been so inclined, if any immortal were so inclined, they could have ended the lives of millions of people before any of them even knew what was happening. She’d seen what even minor scuffles between cultivators could do to a mortal world, and the results were never pretty.
+
+It was why they stayed separate.
+
+This close to the capital, the veil separating mortals and cultivators was practically airtight. There were a few Tier 5s living in seclusion across the planet, in the rare situation where a rift break could happen. A few Tier 1s and Tier 2s would cycle in every so often, keeping the rifts under control, and ideally the mortals would never even know they were here.
+
+It was a good system, a stable system.
+
+Unlike the Empire, which touted itself as being so great because they just chucked everyone into the rat race of cultivation, leaving most of their most vulnerable citizens subject to the whims of a guild to be bought and sold like a commodity-
+
+Janet took a deep breath. No, she wasn’t going to think about them. She was just going to sit on her bench and watch the children playing on the frozen stream winding through the park.
+
+Hmmm.
+
+She wasn’t certain about that ice. It looked a bit too thin to support the half-dozen children clambering all over it. Fortunately, she could and did fix it with a thought, thickening the ice and ensuring the safety of those most vulnerable to the chilly waters beneath.
+
+She tried to do what she could, after all. It wasn’t like she was blind to the benefits which high-Tier cultivators could bring to mortals, not with how often the Interventionists argued for it, but determining what was and wasn’t acceptable interference, to say nothing of what actual malicious actors could do, simply made the trade-off distinctly negative. Overall, worlds where the Veil separating them was stronger tended to be more populous, happier, and the people on them had a higher sense of self and life satisfaction.
+
+She wouldn’t inflict that on people. There were always ways for the lucky, the driven, and the exceptional to find their way past the Veil. She’d done it, after all.
+
+“Do your parents know you’re out on the ice?” she called out to the kids.
+
+Her voice attracted a few glances, then the group scattered. Ah well, it was about what she expected. At least they weren’t scared of her, though one of them was wondering about what she was wearing.
+
+Oops.
+
+It was midwinter here, and her outfit was not only entirely too light for a mortal in this weather, but entirely incongruous with the styles worn by the people around her. She must have been too distracted by the Empire to have forgotten such basic precautions. Still, one of the first things just about any cultivator learned in the Republic was how to nudge the perceptions of mortals away from any unusual happenings around them with their Domain.
+
+A subtle flex of her Concept ensured that none would notice her clothes being so radically different from the locals, but she still pulled a coat out of her Talent. Weather and temperature didn’t bother her any more unless another cultivator was responsible, so she barely noticed.
+
+It had been even longer since mere Tier 2 weather could bother her. Probably hadn’t since… well, before she was a cultivator. When she was just a kid on a distant Tier 3 world, with no real knowledge of cultivators. Oh sure, there were rumors about people who did impossible things, and she grew up on the stories of kids who stumbled upon a fantastical hidden realm and were whisked away on grand adventures, but she lived in a mortal neighborhood with mortal parents and with mortal friends.
+
+It wasn’t until she managed to see through the Veil of a visiting cultivator, notice their odd clothes and tendency to vanish into a solid brick wall she later learned was hiding a rift, and confronted the man, that she learned the truth. From there, the rest of her life was practically out of one of her childhood storybooks, and while her parents had passed away untold ages ago, they had loved her and supported her through it all. Even if they didn’t know the full truth of their world, they were happy, and they were happier when they didn’t know the reality of their daughter fighting monsters from nightmares to grow stronger, into a Realm filled with ancient empires and massive conspiracies.
+
+She was still reminiscing about her parents, now long dead, when the smell of coffee hit her.
+
+It took control to walk at a mortal’s pace to the nearest diner who’s door had opened and not rush over.
+
+She entered, and following the actions of the man before her,, stomped her boots to knock any snow off them. Not that snow could stick to these boots, but blending in was important.
+
+It only took a moment for an elderly woman to return from where she sat the man down and said. “The bar is open if you‘d like, but I can seat you at a table as well.”
+
+Janet smiled and tucked a strand of hair behind her ear. “A table, please.”
+
+“Right this way honey. It's blistering cold out there, let me get you something to warm you up.” Having said that, the woman was already turning around to grab the pot of coffee.
+
+Janet smiled and thanked her as she took the proffered cup and pretended to look at the menu.
+
+The smell of the coffee was delicious, but she knew that it would taste correspondingly awful. Still, it brought back thoughts of her childhood, and she let herself ponder the situation with the Empire in between memories of playing in booths similar to the one she sat in now growing up.
+
+The Empire needed to be stopped, or planets like this would be lost in the shuffle. In the rat race that so many cultivators threw themselves into. Lost in the rift breaks that would claim lives. Lost in the progression as they were born behind the Tier of the planet and unable to take more than the first few steps.
+
+If the Empire became hegemon, that is exactly what would happen.
+
+The Republic wasn’t perfect, she knew that, but there was a reason they had been the second strongest Great Power for the last two million years until the Empire overtook them. They were strong because their system worked.
+
+It had harmony. Balance. Mortals could live their lives free from greater concerns, while those who were more ambitious could, with some struggle, become cultivators and try to improve themselves.
+
+Sure, it wasn’t easy, and many, many people who nominally wanted to become cultivators didn’t, but the paths were there. On higher-Tier worlds, Awakenings were pricey but affordable for the driven. On Veil worlds, people would leave… not gaps, but weak points. Places where the curious and dedicated could fall through in a safe and controlled manner. Lots of those people never even left the planet they were born on, but those who wanted to, could.
+
+It was opt-in, and those who didn’t never needed to feel bad about it. They could live their lives however they pleased. It was that which the Empire tossed so merrily aside. Mandated Awakening of everyone ensured that nobody was immune to the perils of their first Talent. Those who wished for a quiet life but awakened an Exceptional talent had their lives ruined just as surely as those who awakened a Detrimental talent without a firm, usually higher-Tier, support network.
+
+Even in the Republic, where they had never done anything so foolish as publicize Talent ratings, some abilities were just too obvious to not impact the lives of those Awoken. The requirements of Awakening meant that even those whose Talents were harmful still had some form of support from their Awakener. Those who bought awakening on higher-Tier worlds were well-off enough to afford support on their own, or cultivate ambient essence until no matter their Talent, they could work better than a corresponding mortal and so find employment that way.
+
+It seemed to be a nuance the Empire had wholly ignored. So many of their people simply languished at a low Tier while the Empire spent fortunes to raise planets to Tier 5. That might be a laudable goal on paper, as the long term benefits were undeniable. But the expenses were mind-boggling, and that put the people of the Empire under a greater tax burden, which limited their economic freedoms.
+
+Janet didn’t want to see her people put under such burdens.
+
+Her people had enough burdens of their own.
+
+No system was perfect, and there were always those who fell through the cracks. People who took out loans for Awakening and then could never truly pay off their debt were the most common. Her heart ached for them, and she provided aid when she could, but there were countless reasons why she couldn’t simply sweep away their sorrows. Then, there were those who sought to pierce the Veil, but never could. Those on remote planets whom the Awakened exploited, abusing their greater power for personal satisfaction. That was a never-ending battle, but one always worth fighting.
+
+And yes, she would question herself. She always questioned herself. Every choice she made would make the lives of some better, and the lives of others worse. Quadrillions of lives swung in the balance of her choices, their hopes and dreams able to be crushed or realized in the palm of her hand.
+
+But ultimately, it wasn’t just her choice. Her citizens had voted her in, and she had made promises to them in her election. She’d sworn to protect the unawakened, to maintain the Veil, to safeguard the Republic against those who wished it ill, and uphold the rights afforded Republic citizens wherever possible. That was why she was here, and it was those ideals she followed.
+
+A younger woman, early thirties, late twenties if Janet had to guess, came out and cheerfully took her order before sauntering back to the kitchen where she leaned into her wife and spoke Janet's order.
+
+The cook smiled even as she cut up part of an onion and green pepper and started to cook them on the grill. The couple laughed together, sharing some private joke Janet didn’t have the context for. They were mortal, and they were happy.
+
+Janet’s fist clenched around the coffee cup, and it exploded, but even before the coffee moved an inch, she had already destroyed it all and replaced the cup and its contents.
+
+The thought that this sort of good family could have their life upended because Janet lost to the Empire set her blood ablaze.
+
+No, she would not allow that.
+
+They could not lose.
+
+She forced a smile out as the waitress brought her omelet out a few minutes later and happily ate it all. It was good. Not as good as her father's had been, but that was an impossible standard, and she knew that.
+
+Making a display of finishing her food and cleaning her plate, she dropped twice her bill on the table before getting up and leaving.
+
+The waitress started to do a small dance at the large tip which made Janet smile, and she made her way back to the Between entrance.
+
+It had been a good walk, but she’d been away long enough.
+
+She needed to win this war and prevent the Empire from becoming hegemon.
+
+***
+
+Aoife drummed her fingers against her throne. Each tap sent faint vibrations echoing through the stone she rested upon, carried through all the halls of the Undermount, and returned to her a fairly accurate impression of what was going on throughout the entire planet. The stonework was such that she didn’t even need substantial focus to interpret the feedback, and could direct the attention to overhear any conversation in the entire world.
+
+It was an incredibly clever bit of dwarven engineering, and also all but useless. Her spiritual sense could extend even further and with quite a bit more fidelity, and would be all but undetectable besides.
+
+Impressive… but useless.
+
+What a perfect metaphor for the entirety of the Clans.
+
+It was always unfortunate to be the Sovereign directly following a Golden Age. Even if every Clan leader could sense their fortunes changing, that they had tapped that particular vein of resources to its utmost, they refused to acknowledge it in favor of pressuring her to live up to the impossible standards set by Saint Hastor and his generation.
+
+Yet there was nothing she properly could do. While her predecessor had left the treasury all but overflowing, it was not truly hers to spend. Were she to open the gates of wealth, their streets would run with gold for the rest of her rule, and perhaps even the rule of her successor… and then, that would be it. The Clans would not fail, would not die, but they would be undeniably lesser for generations to come, until the next Golden Age.
+
+It would inevitably happen. A generation would experience such grand fortune that the Clans would utterly dominate the entire Realm, their choices dictating the flow of destiny for all the Great Powers. There would be an outpouring of power, of wealth, of treasure, and all would know prosperity. But then, time would pass and the Golden Age would fade. The Clans would steadily decline in influence, in power, in grandeur, until a new Golden Age arose and began the cycle anew.
+
+Saint Hastor’s Golden Age had truly been a sight to behold. The man had risen to Tier 50 solely through inspirations and left a surplus of the treasures and worlds usually required to raise a Sovereign to the throne. The Clans had usurped the Federation from their generations-old dominance, created a new Great Power, reaped a harvest of hundreds of valuable worlds, seen no less than two Legend groups rise to power and a True Inheritor besides, retrieved at least six Tier 50 skills and countless other treasures so rare they were previously little more than myth.
+
+And nearly none of it was useful to Aoife.
+
+Oh, to be certain, she would claim a Tier 50 skill in time, once she decided upon what she wanted. The Last Line, the most recent Legend group, was still serving admirably as a deterrent from some of the more enterprising Corporations independents who were sniffing around her border regions, and life was still good for her subjects.
+
+But every time Aoife looked, that golden sheen was tarnishing and flaking.
+
+A Tier 22 world, lost to the Monster’s Collective. The Inheritor they’d sent to claim the world had been forced to retreat from mere Pathers. That they had now become Legends was of little consequence— Inheritor Seasaìdh should have utterly crushed them. The girl had simply been insufficient, and her efforts to correct that weakness hardly offset that after the fact.
+
+A portion of her yearned to heed the demands of her underlings, to toss aside the neutrality afforded the Empire which Saint Hastor had negotiated for and join the war against them. The Empire seemed to be entering their own Golden Age, a thought nearly heretical, yet practically undeniable at this point. If they weren’t stopped, what would they become? Surely, she ought to unleash the full might of the Clans, demonstrate why their inheritance was the entire Realm, prove their strength and end the war decisively. Crush the Empire before it could rise ascendant, break the will of its populace and claim what riches it had amassed for themselves.
+
+But to do so would destroy their future. It would condemn unknown generations to insignificance and poverty. Perhaps they would curse her name, for squandering their wealth. Perhaps they would curse her successor, when the river of gold ceased to flow. The resources they would spend would be irreplaceable, to ultimately take scraps from an Empire too large for its own good.
+
+Aoife most certainly would not entertain the petition of Clan Von Kozih, that they ought to break the rules of war and kill Waters, Light, Shadow, and the newly risen Torch, Quill, and Scoop. It was a petition so idiotic she had nearly revoked their status as a clan at that instant, with only immediate and emphatic intervention by Clans Viuhal and MaiChetun to persuade her it was made in utmost ignorance by a new Clan Head.
+
+Such things simply were not done.
+
+The Ascendancy of the Sun was the last Great Power to have attempted such a thing. Their Divine Lord had decided Daedalus, the Federation’s Slayer of the age deserved to die after they slew one of the Ascendancy’s own Legends. The ensuing kidnapping and sacrifice of the Slayer nearly re-started the Shattering, and the ensuing conflict could not even truly be called a war.
+
+A war implied opposition.
+
+Within a century, the Divine Lord and all of his High Priests had been killed or forced into Ascending, overwhelmed by the combined might of all other six Powers. It didn’t matter that the Clans and Guilds had been at war, nor that the Ascendancy and Empire had previously been firm allies, none allowed the Divine Lord to go unpunished. To do so would allow a precedent to be set of higher Tiers disregarding the laws of war, and no one wanted to see a return to inhabited planets burning.
+
+The aftermath saw the complete replacement of the Ascendancy with the Corporations, and some historians attributed the Federation’s eventual rise to dominance partially due to the glut of new worlds they had gotten as recompense. Meanwhile, the Corporations to this day had substantially fewer worlds than the rest of the Great Powers, even though few actively sought that outcome.
+
+It was one of the first lessons which every Sovereign, every leader of the Great Powers was to learn: The rules of war are sacred, especially for Legends. Should a Legend die due to a violation of the War Pact, even if the murderer was acting wholly of their own accord, the recompense ranged from merely immense to outright crippling, depending on the circumstances. Even the Federation, in their ever-so-sorry present state, would eclipse whatever remained of the Clans, should they try to slay a Legend illegally.
+
+No, if Waters or the others were to be slain, it would be done properly and honorably. Not that the Clans were in any position to manage an honorable kill, if she wished to preserve their glory for generations to come.
+
+Should she stand aside, allow the Empire to shine brightly, outshine even the Clans? Or should she look to extinguish their light here and now, and risk bringing the Clans even lower than the Empire would fall to?
+
+She did not know.
+
+But whatever Aoife chose, that would be her legacy.
+
+***
+
+Tobias smiled as he saw the identities of the new groups of Alphas. The youngest one of that little Phoenix chick overseeing their kin in the Empire. He was genuinely happy for the couple, having become acquaintances over the past few millennia, and the duo had never failed to make him crack a smile over the years. The pair were truly an ideal example of a beast and bond.
+
+Now their progeny was just as impressive. He’d heard tell that Elizabeth had undergone a fairly unfortunate Awakening, having broken the connection to the element in her blood. Such things were blessedly rare for the trauma they inflicted, and few who underwent such experiences ever fully recovered. Most never even formed a Concept, their sense of self in such disrepair that they were forever barred from immortality should they even muster the fortitude to progress.
+
+He’d been proud of Elizabeth, for overcoming that and even reaching Tier 15 entirely of her own merits. But now he was somewhat uncertain if it was even true, or simply a cunning ruse to disguise her all-the-more potent fire magic. He doubted it was a cover-up, but he wasn’t certain yet. If she legitimately had Awoken a Talent largely barring her from all but blood magic, that made her accomplishment all the more impressive. A Concept and Intent before the age of 200 already spoke of a tremendous self-confidence and ability to know one’s proper place in the Realm, and to do so with a broken-off bloodline? Toby could only stand in awe at the girl’s resilience.
+
+Her Path had been a fairly straightforward one, as far as that could be said for any Alpha. An impressive showing in a mock war, first place in the Empire’s tournament, nearly completing Minkalla at Tier 11, even putting up a good showing against Soddus and Girang. By all accounts, Aster was equally impressive. She’d apparently altered her bloodline before Tier 15, and even if that feat was thanks to Minkalla, it still spoke quite highly of her own prowess.
+
+Then of course, Aster’s bond. A young boy from a backwater planet, blessed with an early beast egg and managing to keep up with both Elizabeth and Aster. It was an impressive showing for someone like him, and equally as deserving of commendation as his two peers for his own accomplishments.
+
+Alongside the recording of the trio’s ceremony was a message from Emperor Emmanuel, requesting a meeting. Though he was tempted to decline, he withheld his first impulse in favor of a more measured response. The dragon blood the Empire was able to provide was simply too promising. Eclavorn had been all but begging, insofar as any dragon would beg, for more of the only substance which he could use to reliably improve his own bloodline. Truly, the only thing which motivated an Alpha was the allure of more power.
+
+Kar’Tan had been in his other ear, requesting all the more for his own experiments. The chimera program had truly exceeded its own mandate with young Soddus, and his old friend had been utterly fixated on the possibility of creating a chimera with a native rank three bloodline in the wake of that particular success. The dragon’s blood not only improved the likelihood of such things, but even granted the possibility of a rank four or higher Chimera. None of them knew what rank the blood was, after all, simply that it was stronger than anything they’d ever come across.
+
+Stronger than his own third Rank, certainly.
+
+Wherever the Emperor had encountered such a font of blood, he truly did not know. Were it not for the undeniably draconic nature of the blood, he would have almost attributed it to young Elizabeth! Its potency was surely fit for an Alpha, and its sanguine nature befit the young girl perfectly. And it would be just like the Empire, to harvest such a potent tool from their mightiest warriors and leave them as little more than a dispenser of valued materials.
+
+Bah.
+
+Tobias refused to hold the crimes of the father against the son, but Emmanuel had hardly left the best impression upon him during the War of Independence. He certainly didn’t owe the Empire anything. He’d spent so many millennia trying to raise support for the beasts of the Federation, and it wasn’t until the Federation had too much luck that any of them had bothered to listen to him.
+
+Any of them could burn and he wouldn’t care. Oh, he wouldn’t set them on fire, but he found it so… delicious, that the Empire was experiencing the inevitable turnabout of the Federation. Too much fortune, too quickly. He would shed no tears for them should they fall, and he would happily be there to pick up the pieces in the aftermath.
+
+I Carry the Weight of the World, after all.
+
+He had borne his burden for eons, and he drew ever-closer to the finish line. Someday, he would Ascend, and he would leave the Realm a better place than it was when he’d first hatched. What more could he ask for?
+
+And if that meant visiting the Empire for more dragon’s blood, so be it.
+
+Still, all might not be bad. While he was in the Empire, he’d get the chance to talk with Helen again. It’d been well over a hundred thousand years since they last talked. If nothing else, that alone might be worth the visit. It had been quite the shock when he first met her to find someone significantly older than him, at such a low Tier to boot.
+
+Smiling, as he reminisced of old memories, he accepted the offer to meet.
+
+***
+
+JR fluttered to his favorite perch. It was a very comfortable perch, tucked away in the corner of his office. From it, he could see so much of his homeland, and it always helped put things in perspective.
+
+Below him, the Corporation’s Capital sat. It wasn’t the most comfortable of worlds, between the eternally raining forests of the coasts and scorching sands of the center, but the striking gold, green, and blue made for such a pretty sight. Around him and extending to the stars beyond were far more interesting. Cities of metal and crystal, ships the size of a moon, gently spinning rings with millions, even billions of inhabitants… they were the true heart of the Corporations, and that heart had been beating quite excitedly of late.
+
+War was often good for business.
+
+There were still those who mourned their losses, but so long as JR managed to keep the war away from their actual worlds, those deaths would be limited to the brave and the bold. The ones whose jobs demanded their deaths, rather than their lives.
+
+JR ruffled his feathers in thought, staring out at the shining stars against the eternal blackness of space.
+
+The war was undoubtedly set to explode in potency. Already, he could feel certain sectors of the Corporations restructuring and preparing for new mercenary contracts, new arms supplies, new treasures being pulled out of storage for sale. With another set of Ascenders to outfit, the Empire would no doubt seek their aid in ensuring they were fully equipped. Perhaps they would even seek out his aid. It had happened before, and the shinies he’d gotten as a result kept him keen-eyed for future potential earnings.
+
+Though, they hadn’t asked for any of his workmanship for Light and Shadow. Perhaps they assumed he was too busy, now that he was the Chief Executive Official? Well, he was, but sufficient shinies would surely tempt him back to his crafting bench for someone else's ideas. Or perhaps that was the issue, they thought he would charge too much? Hmmm. Perhaps he should send a sample of his wares, a small reminder of the sorts of things he could make. He could spare a few days and some of the less-shiny treasures in his nest, yes, yes.
+
+It was always profitable to be in the good books of a Chosen-equivalent. The only question was what he should make.
+
+Something for the blood girl? No, she probably had cups. Also she was a fire girl. Fire and blood had historically never played well together, but perhaps as a phoenix, leaning more into the side of life? Blood and fire… JR paused. In Empire-standard alchemy, those would be an alchemically complete composite for life, wouldn’t they be? That could be a solid base for a custom element. But hmm, no. Not quite complete. Perhaps if lightning were included as well? Perhaps… but it would still require far more to truly coalesce into a new element.
+
+Bah! Too much work for a mere sample. Perhaps his message could allude to the possibility, but bloodfire was too much to be given for free! That was not how you got shinies.
+
+Something for the fox, perhaps? Hmm, no, ice wasn’t something JR enjoyed working with. Too many harsh winters as a young bird for him to specialize in the element.
+
+Something for the boy? Yes, that was an excellent idea!
+
+Quill would surely appreciate well-crafted goods. His [Ranged Stabilization HE8-ST] processor had been quite fantabulous to behold, a fully novel style for a brand-new module. JR could have made something better if he had tried, but that wasn’t the point! Quill had been Tier 10 at the time, and if that didn’t speak to having a heart of a crafter, JR didn’t know what would!
+
+Talismans, though. What could he make for talismans…
+
+Tools would be tricky, he didn’t know the boy’s traditions. He was certainly self-taught, yes yes, but he’d be learning soon enough, and if JR acted quickly enough then his gift would be able to influence the forms of crafting he would attempt to learn! Yes, yes, this could be good. If he sent something which lent itself more towards the style which Corporations used, then Quill would try to learn more about Corporations technology, and that would mean more of the budget the Empire spent on their Ascenders would go to them. And that meant more shinies!
+
+And if he was really lucky, maybe he himself would be able to visit the Empire if they needed his services, and then perhaps he could see Helen! That would indeed be most wonderful. He had a new bauble for her. He had seen it on one of his flights and scooped it off the side of the road after its sparking reminded him of Helen's tail feathers in flight. Very pretty.
+
+Shaking his head he refocused on his project.
+
+He must think about what tools might be best for Quill. Perhaps a temporal recorrector? Hmm, no, the boy was only Tier 25. Meta-flux adjuster? No, not very useful for talismans. Bifate pair-linker? That could work, yes yes. He had utilized talisman arrays in the past, and he could certainly make a BPL with enough flexibility to account for any material the boy decided to use, be it metal, hide, stone, or wood. Oh! And if he did it right, he could possibly allow for multi material pair-linkages.
+
+Most people said they were impossible, but JR was not most people!
+
+Firstly he was a bird.
+
+Secondly he refused to listen to the naysayers.
+
+And that was why he had all the shinies!
+
+***
+
+Grand Sect Elder Winter Hornet nodded as he read the report.
+
+The Empire had done it once again.
+
+Not long ago, he would have railed against the heavens, but he had passed long past rage and found bliss. The heavens were impartial, and it was the duty of the strong to claim their due. If one wanted something, they needed to reach out and take it themselves. This was clearly their tribulation, and they would not be found wanting.
+
+If one relied on luck and chance, they would never rise.
+
+Power coursed through his body, sweeping through him and leaving him at the edge of a vast cliff. Mist shrouded the bottoms and clouds obscured the top. Not that either stopped his gaze, and he looked out upon the Sects based in the lowlands of his own. There, the mighty competed for their due.
+
+They railed against the heavens, and the talented and powerful naturally rose to the top. It was the only truth which meant anything. The weak could not rule the strong. Not for long.
+
+Maybe this really was the Empire's time to rise, but he knew it would come crashing down eventually. He’d be there with a hammer ready to knock out a foundational stone or two when the time was right.
+
+Speaking to the air, he said. “Call forth Synoid and Crastor.”
+
+It was time to stir the pot and see what came out.
+
+Potion or poison would only be clear after the cauldron settled.
+
+***
+
+Virgil felt one of her teeth deform, denting as she clenched her jaw.
+
+Another set of Ascenders from the Empire.
+
+Her rage started to shatter reality around her, but she controlled it before it did more than warp her desk.
+
+Standing, she tore through reality to arrive at the training grounds.
+
+Ten thousand new rune-enhanced soldiers went through their paces, marching at speeds that felt to her as akin to a crawl. They weren’t progressing fast enough, and she crushed the urge to obliterate them all. How magnanimous she was.
+
+These ones were far less likely to rebel thanks to the updated techniques and a better control rune implanted directly into their skulls. Once they had reached Tier 15, they had even enabled her to see through their eyes, feel what they felt.
+
+The power was lesser than the first iteration, but these were far more stable. Her own Talents were stretched thin, but she could focus them upon those who showed the most promise easily enough.
+
+Drones monitored them ever-carefully, screening for promise and disloyalty alike. Should she desire it, she could review practically their entire lives through her AI, ensuring that they were loyal, that they wouldn’t leave her.
+
+She was not so blessed as the Emperor, gifted as he was with the ability to peer through time, to spy upon her agents from the future and weed out the spies and the traitorous. But there were advantages to this method. None but she could control these drones, and while her supply of them was finite, such was simply the Price of Control. It was a concept she was well-acquainted with.
+
+None but her could be trusted with that power. In time, she would need to find another roboticist, but that was still centuries away. Her current fleet of drones would be more than adequate for quite some time.
+
+It was a pity that they could not be utilized in this war. They would certainly be a better sight than this sorry batch of utter ingrates. If she wished for sloppy work and slow progress, she would have turned to Community members. The attrition rate after Awakening and sorting was bad enough, so many potential new soldiers relegated to branches which ultimately did not need them. These recruits were all Warriors, yet she could only see children. Noisy, useless, whiny children who demanded far too much of her time for far too little reward.
+
+It felt akin to an eternity, but mere moments after her arrival, their head trainer stood before her.
+
+“What can I do for you, ma’am?”
+
+“Get them ready for the war. I want this group sent to the Tier 15 battlefields immediately. Also, start integration of squad level runes on the Tier 25 soldiers.”
+
+That last one had been almost impossible a few years ago, thanks to the spirits' rejection of the implanted runes post awakening, but she didn’t care if the Tier 25s burned themselves for greater power. She couldn’t rely upon a Slayer to make themselves in time for this war, that duty once again fell to her.
+
+Perhaps it was better this way. Slayers were unpredictable, messy, and altogether far too ungrateful for her purposes. She wouldn’t rid herself of the program, though. Such actions would simply serve to tip her hand to Sophron and his ilk, and she was not ready for that yet.
+
+They thought the Federation weak, crippled. They thought that cutting away half of them would weaken them, leave them a shell of their former self. But in truth, it had cut away disorder and allowed her to consolidate what was left. Awakenings, to find the strongest. Castes, to ensure everyone was in their proper place.
+
+The chaotic, messy guts of the Federation had been replaced. In their place was muscle and bone of metal and mana, an iron fist hidden under a veneer of soft skin. She’d taken disorder, and brought order. Order brought power, and now the entire Federation was like a tempered blade, ready to be swung at her command. Flesh gave way, adamantine did not.
+
+And were it required, she would excise every last pound of imperfect flesh.
+
+By the time the other Great Powers realized their folly, Virgil would have armies of rune soldiers ready to take the field, and the war with it. She would be the dagger which cut their hearts, and they would fall at her feet.

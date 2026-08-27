@@ -1,0 +1,247 @@
+---
+id: d79de6b0-e536-5074-81c8-13b434d4e95a
+page-type-slug: story-chapter-royal-road
+title: "195 A Proposition"
+slug: 0154-195-a-proposition
+partOf: the-new-world
+position: 154
+ownLength: 3834
+unit: words
+ownProgress: 3834
+publishedAt: 2019-03-26
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/346727/195-a-proposition"
+royalRoadId: "346727"
+markedReadAt: "2026-06-29T21:26:05.889Z"
+---
+
+I bent down, charging my runes in a second. If my spells didn't work in time, I'd incorporate a different and wholly unexpected strategy - beating the hell out of her. I detonated the runes, charging at her with fury in each of my footsteps. My stomps caved the steel beneath me, deforming my own boots. My rapid approach knocked Chrona from her stupor, spurring her to action.
+
+She whipped her tail at me, but I sidestepped the impact. She wasn't particularly fast or secure in her striking. She relied on her magic for her edge in speed. As I reached her, I shot out a telekinetically enhanced attack. Like water, she flowed around me, my vision warping as she did. Her next tail whip came from above.
+
+I anticipated the timing, preparing to deflect the strike. Another blur in my vision occurred, and her tail snapped on top of my face mask. It shifted speed mid-strike. The steel arena beneath me caved, her gialgathen might showing itself in spades. Even if she was leaner than most, she packed more than enough power.
+
+Still stumbling through the fight, I rolled sideways the moment she even flicked her tail. It slammed into the metal, sending a ripple through the floor. Once again, her power and timing left me stunned. She wasn't moving that fast at first. Now it was like she was teleporting her limbs to a location, but she did so without losing any momentum in the process. It made timing her attacks next to impossible.
+
+Without any plan of action, I leaped backward. Chrona lifted her hand up and charged at me, faster than a bullet. I turned sideways while Chrona's claws etched scars into my gray armor. As her hand landed onto the steel, she crumpled it like she was squeezing a bed sheet in her hand.
+
+The impact sent me flying, the force of her blows sending shockwaves across the field. She reminded me of Yawm's might, sending me flopping through the air. I kept focused though, analyzing her as I flopped around and praying for more information.
+
+Chrona Carsiary, Emagrotha's Realm Wielder(lvl 12,823~) - Little is known about Chrona. She was one of Emagrotha's most trusted and loyal advisors, someone Emagrotha looked toward when she needed something done. Chrona is a devout follower of Emagrotha's philosophies, touting self-responsibility and emotional maturity in the face of adversity.
+
+Despite this, she struggles to control her emotions as noted in several interviews. Her immense control over dimensions is notable as well, rivaling Ajax's own abilities. Hers vary from Ajax's however. While Ajax Volan was known to possess dimensional warping and slicing abilities, Chrona appears to have the ability to stretch and compress dimensional fabric. This creates dilations in time and space. How she does so without producing intense vacuums of gravity is unknown.
+
+This time specialization creates a problematic opponent when combined with her natural power as a gialgathen. Approach this foe with caution.
+
+"Fuck. That tells me nothing I don't already know," I said while sliding backward.
+
+Chrona laughed at me from the other side of the arena,
+
+"Where did your confidence go then, Gray Giant?"
+
+Oh, it was still there all right. Even with her attack landing flush on my head, she did little damage to me. Well, more than I'd like, but I'd be fine was the point. The main issue involved keeping my armor intact for the rest of the fight. Until I understood what she was doing, I kept myself on my back foot, ready to retreat at a moment's notice.
+
+Before I could, another ripple erupted from the blue sphere she created at the center of the arena. Chrona rode the wave, nigh teleporting in front of me before smashing me with one of her front arms. By some miracle, I reacted in time, grabbing her clawed fingers. My feet sunk down into steel, my hands gripping her until I tore through her skin.
+
+Chrona grunted in agony, crushing her tail against my side. My armor held on as I tumbled through the arena, but cracks already littered my face mask. Panic welled in my chest as she threatened to expose me. As I skidded to a stop, I took a deep breath, thinking about what happened.
+
+Chrona tried slowing her opponents down by dilating the time they were traveling in. I processed the info further, pretending like it was my own ability. How would I use it? That's when it all clicked. Chrona wasn't just slowing time down. She was speeding it up for her, which explained why some of her movements looked like teleportation.
+
+With that realization in tow, I dodged a series of her attacks by a hair's breadth. Instead of evading when the attack should land, I avoided them by several seconds in advance. It stretched the limits of my senses, my mind-bending as I forced it to keep up with her attacks. The blue sphere at the center of the arena kept draining the magma around us, expanding the size of the field as well. Pacing onto the stone, we dashed and ducked across the area, flowing at speeds unimaginable to those around us.
+
+As I got a grip on her patterns, she changed her assaults up. I wanted to come up with some strategy, but it took everything I had just to stay in there. Even without her time manipulation, Chrona was incredibly gifted as a fighter. Her instincts were sharp, her tactics varied. She alternated between all her limbs for her attacks, using her lilac colored breath when she believed I was cornered.
+
+After minutes of her onslaught, my gray metal shell hung on by a thread. Chrona discovered my unwillingness to remove my armor, and she abused that fact. With my back against the wall, I bolted to my left, dodging the swipe of her tail. She caught me in her jaws, biting around a cracked joint of my armor. She poured her poisonous fire breath into my disguise, boiling me inside like a lobster roasting in its shell. Even as my health chunked down, I never considered removing my gray armor.
+
+I didn't want another bombing incident on my hands.
+
+Still, I wasn't taking damage without any kind of retaliation. Event Horizon melted her flesh from the inside, making her movements sloppy and unfocused from the pain. As the entire field of magma hardened, her blue sphere of mana shrunk in size, her time manipulation dwindling. With only a tiny shred of the magic left, I fired back the only way I could.
+
+With her jaws on my shoulder, I latched onto her neck. With a death-grip, I squeezed the life from her, causing her fire breath to sit inside her belly. She unleashed a massive shockwave from her blue sphere, accelerating her time. I tried with all my might to grasp her, but imagine holding someone down for a second, but they fought against you for ten. Unless I was ten times her strength, I couldn't hold her.
+
+It made her power unbearable, so she wrenched herself from me. I took patches of her skin in my hands, however. Even more critical, I flushed her out of the blue mana sphere. Without time acceleration at her disposal, she slowed to nigh 1/10th of her previous speed and strength. It was my turn to retaliate.
+
+Chrona was more than aware of that fact as she stumbled back, "How do you still live?" Chrona wheezed out, "No...How do you still stand?"
+
+It was a miracle to me as well. I couldn't see from my eyes anymore. Her fire breath disintegrated the skin on my face and most of my body. Blood leaked from my wounds and spilled straight into my eyes. It pooled in my mouth, having incinerated my lips as well. I probably looked more like a zombie than some hero.
+
+My vitality was never ending, however. It was as if my soul and mind ingrained itself into every cell of my body. I lived through hell and came out smiling, and Chrona paled at the sight of it. I shrugged at her, staying silent. Around me, the final dimensional ripple ebbed out. With it, the time field dissipated, the roar of the crowds returning to our fight.
+
+I welcomed the return to normality, but Chrona crumbled. She flopped backward as I stepped up to her. I lifted my hand as she covered her face with her clawed hands,
+
+"I...I surrender."
+
+I lowered my hand before sticking it out to her, "Good. I didn't want to have to smash you for nothing. Besides." I pulled her up, allowing her to stand, "It makes this message I'm sending out all the more poignant."
+
+I pulled out my obelisk as Kiki announced, "Ever merciful, the Gray Giant has given Chrona only a few bruises and missing patches of skin! What a champion."
+
+Before he finished his explanation, I opened a holographic video of the fight. I shouted for all to here, "This device records and replays past events. Its known as an obelisk, and it's pretty common through Schema owned space."
+
+The crowd oohed and ahed as the obelisk played a three-dimensional and high quality mirror of my battle with Chrona. It mimicked the event without any jump cuts, smooth from start to finish.
+
+The crowd stared in awe while Chrona and I stood underneath the hologram. A few beads of sweat poured from Kiki's forehead as he murmured,
+
+"Daniel...what are you doing?"
+
+I spread out my arms, "Fighting fire with fire." I shouted, "Now everyone watched my interview with Thisbey, right?"
+
+The crowd gave out a series of boos. I waved them down, "I get it, I get it. I sounded pretty awful during that recording. I remember it playing out differently though. See, I believe I've been framed."
+
+A cameraman messed with his device, preparing to shut it off. I pointed at him and growled, "You don't want me as your enemy. I can promise you that."
+
+The cameraman froze in place, unable to imagine resistance after my threat. I pointed at the others, "That goes for the rest of you. Anyone alter this footage, and I'll find you. Instead of altering a video though, I'll be altering your face. Understood?"
+
+With their undivided attention, I played the interview in its unaltered form. I noted a few of the bigger jumpcuts and clever editing tricks, working my way through all the misinformation. I roared out to the crowd as I finished playing the footage,
+
+"That was the unaltered interview. It's quite a bit different than how I was portrayed."
+
+The gialgathens roared back. I gave the crowd a nod, "I'm no hero, and I never claimed to be. I'm no liar though, and I'm no supporter of Thisbey and his bullshit. Otherwise I'd have killed Chrona and I wouldn't have even tried saving Delilath."
+
+"That was...a bitter mistake," I winced. "But I won't make it again. One last thing to remember is this-" I banged my chest twice, "I'm here to fight and win, not talk about politics. I'm no symbol like the media paints me out to be. I'm Daniel Hillside, and I'm a warrior through and through."
+
+I raised a dented fist, and the many gialgathens around roared in approval. Many of those on the blimp watching the battle didn't even let out a peep. Most of the zeppelin riders stared in disbelief as if they were questioning everything. Good. That's exactly what I wanted.
+
+It left me with an unquestionable sense of satisfaction of a job well done. With that handled, I gave Chrona a pat on the back, "You're good at what you do. If your slowdown affected me, I probably would have lost."
+
+Chrona tilted her head at me, "Yet it didn't. You mentioned being a different realm. Is it possible to explain what you meant by that?"
+
+I glanced around, "I can't mention here. You seem trustworthy though. If you're willing to meet somewhere more secretive, then I'd be fine with talking a bit about it."
+
+Chrona nodded, "Hmm, perhaps in my home? It's quaint and simple, but it shouldn't be considered public. By my tastes. Yours might disagree."
+
+I gave her a nod, "Eh, probably not. I'll meet you there now if you'd like."
+
+"Hah, I've never met a fighter so disconnected from a battle before!" She laughed, "Hah, I brutalized you before dropping out of the fight before you may retaliate. Despite the misgivings, you're willing to visit my home right after. Incredible."
+
+I shrugged, "I fight to win, not to get back at people. That's petty."
+
+"Then we share that trait." She turned to Rivaria, "I need to rest for a few minutes before returning. My body is still exhausted."
+
+"That's fine. I'll need to send a few messages anyway."
+
+I opened my status, sending out some updates on what I was doing. As I finished, Chrona spread her wings and moved them around,
+
+"I should be fine to fly now."
+
+I raised a hand, creating a gravity well above us. It was enough to lighten her, giving a sense of weightlessness. The white gialgathen peered around, "How can you control it so well?"
+
+"I can ask the same thing about that time dilation bullshit."
+
+"It makes flying effortless," she murmured. With a flap of her wings, she shot into the air. A few gialgathens flew up to her, concern spread over their faces. They were her family, and she exchanged telepathic conversation with them all. I shifted the gravity well in size and breadth, enveloping them all in the field. Over the next few minutes, the gialgathens adjusted to the gravitational field, relishing the lack of levity.
+
+Gialgathen children joined from the stands after a few minutes. The ended up playing games even, doing acrobatic acts that were impossible under normal circumstances. It left a smile on my face, this being one of the few times I used my skills for fun.
+
+After ten minutes, I created another well above me, flying up with them. At first, the gialgathens kept their distance, afraid of me. I took no offense. After all, I killed Delilath and just defeated Chrona who was tremendous in her own right. It didn't take long before the children wanted me to join in one of their games.
+
+They created circles with their tails and bodies. The goal was to flip through the hoop without touching the gialgathen. At the same time, the higher the gymnastic feat, the better. After a few twirls and fancy moves, the kids upped their game to keep up. Twenty minutes later and the children landed on stands again, exhausted by my pace.
+
+Chrona laughed at them, crowing out, "It's not so easy to outdo him, is it?"
+
+The children complained at her, making up all kinds of excuses. It was the most fun I'd had in a while, so I appreciated the mental deload. I had a time limit on my horizon, so I flew up to Chrona,
+
+"Hey, can we go and have that conversation? I've got a lot to do today."
+
+Chrona did a backflip in the air before giving me a nod, "Of course. Excuse our playfulness. It's rare to have something so novel pass by. I had to take my chance to enjoy." She flapped her wings towards Rivaria, flying through the air,
+
+"Come. I'll show you the way."
+
+Ten minutes later, and we reached the highest level of Rivaria, ice sculptures all around us. Around Chrona, a dense mist formed over her skin. This stopped her skin from drying out and cracking, her amphibian nature showing. I shouted,
+
+"Why do gialgathens live here when it's so dry and cold? I imagined you guys would love the ocean."
+
+"It's a mixed story. Gialgathens developed the ability to fly in retaliation to the leviathans that float beneath the waves. While we do enjoy the ocean, the creatures there are far stronger than those on land. They prove less fruitful to domesticate as well. They cannot carry loads unless you strap it to them and command them from the start of the trip to the end of it."
+
+Chrona dived down, reaching a cove at the mountain top. It looked like her house.
+
+"Comparatively, the espens were far better labor and far more intelligent. They lack the tenacity to stay in environments such as this one for any length of time, however. That is why this city was created long ago, as a sanctuary for gialgathens of all cultures."
+
+"I don't know if I buy that explanation. It sounds like whoever made this city did so to send a message to the espens. We're above, and you're below."
+
+"It is as you say." Chrona landed in front of the thirty-foot cave entrance, "It's unfortunate that our ancestors looked down on the espens to such an extent. That mentality pervades even to today, Lehesion a sad example of the belief's reach. It's not a reflection of we who follow Emagrotha's way."
+
+Steering the conversation away from philosophy, I pointed a the cave as I landed,
+
+"This is your house?"
+
+"Indeed it is. It once housed Emagrotha, and now I am the caretaker of this holy place."
+
+My plan failed.
+
+"I've taken the liberty to spruce it up to my preferences, however. It was her home, not a temple."
+
+I sighed with relief, praying that lecturing wouldn't continue. As we stepped inside her home, we crossed an arc of ice, decorated in vibrant splashes of colored ice. They froze dyes with the water, pieces of the cavern a flower-filled field kind of vibe at times. For the most part, the cavern stuck with a bright cerulean that reminded me of a tropical ocean. The sculptures mirrored this simplicity, staying elegant and abstract.
+
+"Emagrotha admired artwork for what it was - an expression of the artist. She supported the artwork seen throughout the city, something Lehesion disdained. The culture she curated lasts to this day, Rivaria being a center of the arts for all who come here."
+
+I coughed into my hand, "Besides the espens."
+
+She glared down at me for a moment. A second later, she sighed, "While what you say mars this place's legacy, you're right. Gialgathens have had a long history of belittling other races. Part of our ability to fly I believe. It's hard not to look down on those who cannot feel the wind across their face as they soar through the sky."
+
+"I don't know. I always preferred the ground. I fly now mostly because of my weight. I'm too heavy, so I sink into the ground unless I disperse my mass as I walk. It's a pain in the ass, but I get used to it."
+
+"So when you move, you're in a constant state of gravitational flux?"
+
+"Essentially, yeah."
+
+"You're precision is enviable. I cast my magic in vast waves, creating arenas where my abilities prosper. If I lack that field, then I can't create the same impact as I otherwise would."
+
+I raised a hand, "So that's why you've won the tournament before. Your skillset is built for it."
+
+"I could say the same of you. You're nigh invincible in combat, and your endurance is unmatched from any I've seen. Not once did you slow down or show signs of exhaustion."
+
+I shrugged, "Eh, comes with my abilities."
+
+We walked deeper into the cavern, reaching a narrower hallway past the entrance. After reaching a fork in the hallway, we arrived at a room cast in green light from an emerald fire. Along the back wall, the heads of massive creatures lined the wall, most of the aquatic in nature. Chrona gestured at them,
+
+"Emagroth lived for the hunt."
+
+I walked up to the green fire, but Chrona stopped me from touching it.
+
+"That is everburn sap. It stays alight for centuries at a time. Getting it off the body requires amputation at best and death at worst."
+
+I scoffed, "I'll be fine. Don't worry about me."
+
+"Suit yourself," Chrona said while moving her tail from me. I lifted the sap from the container, wobbling the liquid fire in the air. Chrona eyed me, her heart rate rising as I toyed with the devastating gunk.
+
+"Don't worry. I don't plan on throwing this on anybody anytime soon."
+
+She let out a sigh of relief, "Good. Perhaps we could douse Thisbey in it."
+
+I took a chunk of the burning sap and floated it into my dimensional storage, "You know what? I just might do that."
+
+She let out a gruff laugh, "Record it with your glass bauble. I'd love to see that sight one day."
+
+"You and me both."
+
+I stood by the fire while Chrona walked over towards the other side of it. She tilted her head at me, "Though I enjoy the conversation, that should be plenty of chitchat for your tastes. What did you really mean by your being a realm?"
+
+I looked up, thinking of how to frame it. I didn't want to admit who I was, though Chrona probably wouldn't know. It wasn't something I wanted her to tell other people about though. After a minute of thought, she murmured,
+
+"So it's not something to be said lightly. I've gathered that much."
+
+"Yeah. Hm...I'm not a normal thing I guess. It's like I can be here and at another dimension at the same time if that makes sense."
+
+"It makes very little in the way of sense, but I've seen unusual entities before. Lehesion owned a direct gateway to Giess's mana. No matter the range, he could tap into the energy source. It gave him an unbelievable power. Your circumstances explain how you were able to avoid my abilities even when he could not."
+
+I crossed my arms, "Yeah, I'm not quite at that level yet."
+
+"You're closer than you think. You wield mana that far exceeds Emagrotha's or my own. It makes me ponder; did your abilities spawn from your dimensional duality?"
+
+Her question made me ponder myself. I didn't fully understand the ramifications of my dimension-ness. That might be why I wielded gravity so well. Perhaps my understanding of it was innate since I became a fully formed dimension. Hell, maybe other laws of nature would apply the same to me in that regard.
+
+Still, I couldn't be sure.
+
+"Not quite. It definitely helps though. Its like I'm pulling mana from the other dimension."
+
+"Then your potential even exceeds Lehesion in that regard, given that dimension is large enough...Perhaps you could teach me how you wield that pulling force?"
+
+That didn't seem productive, and I was on a time limit. I scoffed, "Only if you teach me time dilation."
+
+Chrona stood tall, "Then it's a deal."
+
+I frowned for a second, processing what she said. My eyes widened as I comprehended what she had to say.
+
+"Wait...really?"
+
+She showed her teeth in a grin,
+
+"Really."

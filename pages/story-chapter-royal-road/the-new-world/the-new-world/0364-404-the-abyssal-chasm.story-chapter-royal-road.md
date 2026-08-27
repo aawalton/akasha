@@ -1,0 +1,365 @@
+---
+id: 5e0c7dd5-1f08-5393-b42a-d57520b9390f
+page-type-slug: story-chapter-royal-road
+title: "404 The Abyssal Chasm"
+slug: 0364-404-the-abyssal-chasm
+partOf: the-new-world
+position: 364
+ownLength: 4457
+unit: words
+ownProgress: 4457
+publishedAt: 2025-03-27
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2155600/404-the-abyssal-chasm"
+royalRoadId: "2155600"
+markedReadAt: "2026-06-29T21:33:48.416Z"
+---
+
+"Don't drink or eat the red water. It's toxic and can lead to you losing your mind. Even a small amount could lead to irreversible corruption. You've been warned. As for me, I'll be heading into the deepest part of this chasm and annihilating its source. Good luck with establishing yourselves here, and I'm sorry this place hasn't been the kindest home."
+
+After receiving a psionic cheer, I left the city's shielding. I peered at the misty depths, crackling arcs of crimson lightning omening a violent, cruel territory. I floated towards the coordinates of the Red River, the gray mist washing over me. It was time to uncover who was destroying Earth, though I had a few ideas already.
+
+And they filled me with a primal fear.
+
+Chapter Begin
+
+Bolting across the skyline, I passed a vulture. The force of my travel knocked it aside, careening the creature into the city's forcefield. Emphasis on force. Upon impact, the hexagonal plates turned sideways, sliced through the creature, and then erupted into purifying pulses. The eldritch faded into particles of light, carried away by the howling wind.
+
+The other eldritch circled the space, but they kept their distance. I disintegrated them with gnarling vortexes of gravitation, the pull strong enough to pulp their bodies. Event Horizon vaporized the remains, and clouds of red mana flooded into my frame.
+
+A scowl crawled onto my face as I bolted down the canyon's side. This dungeon was colossal, and it showed no end in sight. I killed another few packs of eldritch that attacked me, but I ignored any of them that didn't get in my way. I wanted my guildmates to get some levels, which I couldn't gain from these creatures.
+
+A few minutes passed while spires of stone and a perpetual fog clouded my vision. The roars of the ravenous ushered out in the distance, the levels of creatures rising by the second. At the bottom of the cavern, I found a desolate landscape of bleeding bones. The red drenched into the stone and poured in a tiny stream.
+
+The beginnings of the Red River.
+
+I followed the flow for a few more minutes. I crossed dozens of twists and turns, the stream growing over the many miles I traversed. After a half hour, a strip of glowing crimson carved itself in the distant fog. As I darted towards the water, I found an enormous, bounding lake. The vast volume of water dwarfed anything I expected, more like a coursing lake than a raging river.
+
+It crested in enormous plumes and waves. The drizzle formed a cloud that gushed out violent bolts of electricity. The sanguine cloud toiled and spurred in all directions, latching into anything nearby. Ascendant lightning struck the lake below, and bloody fish flopped out of the water, snapping their jaws at the bolts.
+
+Alien life formed around the edge of the water. Plants covered in teeth snapped at anything nearby, and roots crawled out like living arteries. These tendrils dug under the skin of creatures, pumping their blood into them like bloodthirsty, hungry hearts. Several other creatures attempted to approach the red water to siphon its power, but the deep dwellers beneath the water snapped at anything that came close.
+
+Nothing escaped them.
+
+This territorialism created a gap in strength that formed between the outer lands and the inner waters. As an example, a Krossolidra in the distance lapped up a few mouthfuls before bounding away. A bramble of bleeding thorns snapped around it before rupturing its body. The other Krossolidras abandoned the creature as it desiccated in the vines.
+
+Further up the cavern's walls, a pack of Krossolidra's climbed down with humans on their backs. Hiding from them, I surrounded myself in a patch of hungry brambles, and the thorns found my metal skin not too tasty. The reptile riders wore tarps and masks over their faces, having scouted out a viable route to the water's edge.
+
+To stop the monsters from eating them, they threw a cluster of mana shards into the lake. The quintessence shards distracted the monsters like fish food, and the people filled up several ten-gallon jugs of the glowing water before heading out. I let out a small, quiet laugh. The mana they threw was mine.
+
+Somehow, my shards of quintessence made it all this way. Hm. It could've been a recent innovation after the skeptiles settled in. Either way, I checked out their trail, finding the plants hacked away and the ground salted with pungent chemicals. They stopped the underbrush that way, and the well-worn path meant they crossed into this place many times.
+
+As always, humanity found a way.
+
+Further in the distance, another group flew on the back of vultures. Unlike the riders, these people didn't have anything to protect them from the beasts below. They dove into the expanse, gulping as much of the cancerous, bloody water as they could. Their skin reddened, and their eyes lost all color as they scrambled out of the waves.
+
+Several lost their lives, but they dove in as a group to let some escape. It shouldn't have worked, as these monsters sat around level 15,000. They could ingest thousands of people, let alone a dozen, but there was safety in numbers, I supposed.
+
+I supposed wrong. Getting closer, I tore the brambles around me. Near the water's edge, a being of immense mana fed the beasts below with its energy, trying to protect these people. It must've helped the reptile riders as well. Wanting to know more, I dove into the ocean to follow the insane divers before finding one of them isolated.
+
+It looked at me, the gender no longer recognizable as its body malformed from the mana. It hissed as I approached, but I held out a hand and telepathized.
+
+"Hey, I'm not here to hurt-"
+
+It jumped at me with all its strength, rage exploding in its mind while it psionically assaulted me. Caught off guard, I blinked before the body hit my chest. It splat, unable to budge me. I gawked as the blood misted off my skin. Before I absorbed the remains, I disintegrated it with Event Horizon.
+
+I coalesced the person's remains into a tiny mana crystal the size of a needle. Placing it in my dimensional storage, I'd give whoever it was a burial. It wasn't something I could do in Springfield, but I could now, at least. That had been one aspect of clearing Springfield that haunted me, but I didn't have to keep that particular tradition alive. Some things were better left in the past, after all.
+
+The other members heard or felt the commotion, and they swam up to me like writhing oni. As horns sprouted over their backs, they peered at me with disturbed eyes. I shook my head, my eyes sad.
+
+"Why would you do this?"
+
+One of them took a step forward. It spoke via telepathy as well.
+
+"To be strong...Like you."
+
+They swam forward, but I stopped them all in a gravity well.
+
+"Well, you're not quite as strong as I am yet."
+
+I invaded their minds, finding the welling ascendant mana that eroded their sanities. It reminded me of L-7's rainbow bone slush, but it lacked the killing potential. This water drowned in thought. The rainbow bone left a silent, empty mind behind, like some hollowed husk. Trying to help while I still could, I took a deep breath.
+
+The water rushed in, warm and inviting as a joyful insanity. Pulling Event Horizon over them all, I used the aura to steal their mana but not their health. Like Diesel mentioned before, I focused on precision, not power. After a few minutes, I restored their psyches. After pulling them out of the water, I set them down.
+
+They gazed up at me covered in rags, their clothes torn from their transformations. I lunged down, leaning towards them.
+
+"There's a settlement up that way that can clothe and feed you. If you do good work, you'll get the power you're looking for and maybe a purpose to top it off."
+
+I tossed them all quintessence shards.
+
+"If you ask me, you all really need direction, not power. I offer both. These should ward off the ambient ascendant mana. Toss them to a creature if they want to eat you. If you work together, you should be able to get to the city in about three hours."
+
+One of them stared up at me, their eyes wide.
+
+"You're one nice metal titan."
+
+I stood up.
+
+"Hopefully, I'm the only one you know, but who knows, eh? This world's not exactly the most stable anymore, so maybe metal titans are the norm now in certain places."
+
+One of the others fumbled as a horn fell from its forehead. They turned and scrambled back to the lake before a giant leviathan swallowed them whole.
+
+I winced.
+
+"Ah. I guess you can jump off a bridge if you want, so to speak."
+
+I lessened the gravity over them. I smiled.
+
+"Get out of here, and don't come back. This is your second chance, so please, don't waste it."
+
+They scrambled away through the trail. As they left, I checked their statuses. Each of them sat around level 3,000, a very high level for normal people. The drifters represented solid talent if molded well, but they collapsed under the weight of temptation. That, and the psychotic, demented ramblings of the fog around us.
+
+And I knew its source. My hand clasped to a fist, and rage exploded in my chest. Baldowah. At this point, it was painfully obvious, and even from this much exploring, I learned a few things. Firstly, this cavern had expanded to the size of a small country. From the size of my minimap, it looked about as large as Montana.
+
+Secondly, people had found a way to profit here. In that sense, humanity's adaptability stood out yet again. Thirdly, Baldowah spread his ilk here for all to suffer from. Closing this chapter of the Grand Canyon wouldn't be a waste of time, considering how dangerous the expansion was. To get a better idea of how demented this place truly was, I trekked deeper.
+
+Walking across the pocket dimension reminded me of traversing a different planet, one I didn't want anywhere near Earth. In all directions, animals indulged and devoured anything coming nearby. The creatures in the water stood atop the food chain, all of them collecting the latent energy within the liquid. They feasted on one another, battling and destroying their rivals in potent, furious battles.
+
+The water absorbed the majority of the shockwaves, and the spatial fog prevented their bouts from destroying the nearby terrain. I waved my arms through the looming mist. It still carried that odd sense of separation. Ideas raced through my head since the mist could make a potent training ground or prison cell if wielded by competent hands.
+
+I took note of two toothy monsters scrambling to shore. Fog or not, that didn't stop these beasts from leaving miles of devastation in their wake as they explored. Each time an oceanic creature escaped the lake's confines, it tore through the canyon walls, creating thousands of offshoot valleys.
+
+In my minimap, these side passages splintered off the main canyon like dark veins branching off a festering wound. The skeptiles established themselves amongst one of those offshoots, saving them from the worst of this hellish place.
+
+And hell, it was.
+
+Blood monsters liquified scavenging corpse swallowers. The ground radiated out a corrupting, volatile ascendancy. The mana and fog twisted the minds of whatever I made contact with, leaving nothing of the creatures but bodies acting as empty vessels of rage. A few humans got lost here, their bodies either torn asunder or worse. These shambling augmented abominations let out screams from their deformed faces.
+
+It was a mass psionic drowning, and it left me seething.
+
+At first, I believed the influence of the land had gotten to me, infesting me with anger. I was wrong. This fury was my own, and it spawned from a singular source - this Old One assaulted my home. It was a simple part of being from this planet - Earth was my sanctuary. It was my refuge. This planet, Mt. Verner, and my guild were everything to me.
+
+But now, Baldowah waged war on the planet itself. He declared to all his intentions, and they carved into my chest like a salted knife. I let the scars form so I wouldn't forget a few simple truths. For instance, they'd never leave me or my planet alone. They aimed to tear the fabric of reality away from me.
+
+They'd steal everything by corrupting one piece of my life at a time, but I'd die fighting before they did. Since Schema's arrival, Earth was the only place I had left that was stable. It was where I went to rest and lay my head. Since the Old Ones couldn't corrupt me, they aimed their corruption elsewhere. They wanted to rob me of what I relied on.
+
+It left me fuming. As I crossed the depths of the lake, giants erupted from the water, their forms like young primevals of flesh and blood. They lacked the sheer volatile strength, so I tore them apart with simple yet utter physical forces. I left my hand in the lake as I crossed its bounding waters, soaking in as much energy as I could.
+
+I left a train of blue water behind me, though it shifted red once again in seconds. The amount of dormant mana here mounted, something that would take me weeks to clear at best. Taking a more drastic measure, I channeled the raw magic into my runes, the amount of mana here remarkable.
+
+As I spent hours coasting the surface of the lake, I obliterated hundreds of sea monsters. The grotesque shapes left clouds of red mana behind, and I breathed the miasma in like a crisp autumn air. The smell reminded me of cider, honey, and blood. Over time, I could taste it, and I learned the richness of the water and monsters within.
+
+I gauged the density of energy from that richness before following the concentration to its peak. It led me down into the depths of this Red River, and I found its end and beginning. Where the water blackened, plumes of energy erupted from a red chasm. Diving into the crevice, I launched up and out of the water and into the air below it.
+
+A wave of unease crossed over me as gravity flipped, my body facing towards an endless eclipsed sky. I blinked a few times before wiping the blood from my face. I dove out of one dimension and into another. A disgusting other, a place of war and finality. I stared at the ocean of Baldowah, corpses floating in the water.
+
+Landing on the sea, my shins submerged before hitting the bottom, the rippling pool as deep as a puddle in all directions. A puddle for me, that is. It was likely ten feet deep or so. Behind me, the chasm towards my planet opened like a bloody Niagara Falls. The water frothed up with the scent of decay and the heat of battle. It pummeled into the alternate dimension that connected with ours. This was a dimension within a dimension.
+
+A dimensception. Heh.
+
+In the distance, a figure rested on an exposed stone beside the frothing falls. As I crossed over the chasm, I found an old woman gazing back at me. She wore a conservative floral dress that ended at her ankles. The blood oozed into her dress, her wrinkles, and her nails. Exposed to the air, her hair scabbed onto the side of her face. She gazed up at me, her pupils glowing red.
+
+It was like looking at a horror movie.
+
+I landed a ways away from her. Her stare stunned me. There was kindness nestled under the madness. She laughed before speaking in a calm voice.
+
+"You must be the person who leads those stragglers, hm?"
+
+I blinked. Her voice was like a grandma, the dissonance between her appearence and words like oil and water.
+
+"Yeah. I am. What are you doing here?"
+
+She let out a sigh of exasperation.
+
+"What aren't I doing is more like it. This is exhausting. Do you know how hard it is to control these beasts here? Or worse, the thing in my head? It's like a pounding storm. Oh, it's dreadful. My goodness, it's like pulling teeth just to stay calm."
+
+I raised my hands.
+
+"What's your name?"
+
+"Marsha Brown."
+
+Her normalcy hurt me. It was as if some alien force dragged a grandmother into this horrific realm.
+
+"Hey, Marsha. I'm Daniel."
+
+"We know who you are, Harbinger."
+
+Within her, a psionic presence loomed. It was an enormous blight in her tiny body. Marsha shook her head.
+
+"Hey, I'm talking here. Shutup."
+
+She turned to me.
+
+"You look like a monster. I don't like monsters."
+
+I waved my hands.
+
+"Monsters don't take their time to talk like this, right?"
+
+She walked sideways, her steps leaving ripples across the endless sea.
+
+"Depends on the monster. Are you here to kill me? The voice is saying you are."
+
+"I'm here to contain this rupture. We can agree that's a good thing, right?"
+
+She scoffed.
+
+"Good luck with that. I already tried, and look what happened to me."
+
+I shrugged.
+
+"If you ask me, you look like you're still all there."
+
+Her eyes twitched.
+
+"No. I'm...Missing some pieces. I can't remember much of who or what I was. It's like I'm fading."
+
+She smiled.
+
+"I still remember a few things. Christmas mornings with my children and eating gingerbread. Ah, the smell of turkey on Thanksgiving and the warmth at the table. The smell after it rained when I walked through our little desert trail."
+
+"Please, just focus on that."
+
+Her eyes narrowed.
+
+"She will not."
+
+This reminded me of Valgus before the original entity drowned in mana. I spread my hands.
+
+"I can help you get out of here."
+
+She scoffed.
+
+"Living metal...Nothing will help her now." Her voice and eyes changed. She coughed, phlegm thick in her throat. She murmured.
+
+"I fell into the river upstream after watching my family get torn apart. I woke up floating in this sea, and I haven't been able to escape since. It drags me deeper. Deeper I go until I'm nothing. Sometimes, I wonder if I'm still here."
+
+I raised a brow.
+
+"But you have helped some people survive here, haven't you? That was you stopping the sea monsters, wasn't it?"
+
+She poked her wrinkled chin with a single slim finger.
+
+"Yeah, sure. It's the least I could do after everything that's happened."
+
+"That's what I'm wondering. What happened?"
+
+Her voice warped the waves.
+
+"My family died. I watched them. Wolves tore them apart. It broke me. I am now missing pieces that will never be fixed or filled."
+
+She experienced the culling when Schema's system first arrived. She'd been here for years now. I winced.
+
+"I'm sorry to hear that."
+
+"Why apologize? You didn't do anything. It's something that happened, and I wanted to stop it. This place, it was somewhere with a lot of potential. I wasn't someone who could use it, but I knew alchemy. I was supposed to contain the water and its glow."
+
+The more she said, the more confused I became. Her voice broke.
+
+"It killed them all, but it left me alive. I can't remember what I did to the bodies."
+
+I frowned.
+
+"It doesn't matter. I can save you."
+
+She roared.
+
+"And what about them? What can be done for the families I've lost? The people I abandoned. The ones I've killed."
+
+I remembered those I left behind.
+
+"You can carry their memory. Live with it. Bear it. Make it have meaning. Or not. Whatever you feel, it's still your choice. There's always a choice."
+
+She grabbed the sides of her head, her gray hair frail and thin despite the palpable power surging beneath her skin.
+
+"I haven't made a choice since this system came and washed everything away. We're all caught up in something we can't stop. All of us. You're a part of that. You're not even here anymore."
+
+I took a step forward, my voice like stone.
+
+"You're lying to yourself. You're still speaking to me. You're finding an excuse. Look me in the eye and tell me you don't have a choice."
+
+She smiled, her grin unnatural. She glared into my eyes.
+
+"She does not."
+
+My gaze hardened.
+
+"That's where you're wrong. She does. You're trying to take it from her."
+
+The grandma let out a gasp before staring up.
+
+"I can't keep going on. It's too much."
+
+I reached out a hand.
+
+"I thought that too, but there are people who can help you. These people are far kinder and more understanding than I am. They're people you could laugh with while sitting around a campfire. They're people who'd invite you into their house for a homecooked meal. Trust me, they'd welcome you with open arms."
+
+She narrowed her eyes.
+
+"You're lying."
+
+I put a hand on my chest.
+
+"I'm not. I know where it is. I forged its beginning. The people I love made it matter in the end."
+
+Within an arm's reach, I stretched my hand out.
+
+"You can too."
+
+She gawked at my hand. She peered away, her tears made of blood.
+
+"I'm not made for this place. It's for the young. I've gotten too old and tired. I...I can't."
+
+I scoffed.
+
+"I have a few people who can make you feel as good as new, and if you're worried about being lonely, don't be. I know someone who loves bingo, and she'd play it with more excitement than any retirement home you've ever been to."
+
+She laughed, the sound sad and small but carrying an ember. A fire. A spark.
+
+She smiled back.
+
+"I'd like that quite a bit, young man."
+
+She grabbed my hand. With overwhelming force, I shot into her mind, searching for the abomination inside her. A presence akin to Valgus sat in the bowels of her subconscious. It laughed before reaching out its tendrils. I growled.
+
+"You do anything, and I'll kill you."
+
+It voiced.
+
+"Then let us see that consequence. As all, with finality."
+
+It tore the grandmother apart. Her body disintegrated as ascendant mana boiled her blood. The avatar of Baldowah shot into my body, and I took a step back. A wave crossed the ocean as it fell into my mind. It laughed and shouted with glee.
+
+"You're a fool. Baldowah showed me how you killed Valgus. There is none of that killing fluid-"
+
+I tackled into its mind, my body collapsing. I lost control of everything, and my memories faded as I tore into the being's consciousness. It screamed.
+
+"You. You're killing us both."
+
+My mind was stone. Cold. Hating.
+
+"No. We're dying. I happen to be better at it."
+
+I pulled ten minds against the entity at a time, all of them crashing in like suicidal bombs. They left me unable to move, breathe, or remember. I needed nothing but the end of this monster. I gored it apart, my deaths like a sweet ale that I became drunk on. As its mind waned, I laughed at its pain. I raged. I flowed over it in a torrent, and it faded away.
+
+It gurgled in pain.
+
+"What are you?"
+
+I poured in a flood, ignoring its horror. I continued the assault for hours, the excruciation familiar yet foreign. Losing pieces of myself meant nothing to me as I trusted my endurance. I had faith in my return, and that faith armed me with a conviction this pathetic, simple-minded parasite couldn't match.
+
+As it disintegrated, I returned to being. My entirety was revived with my memories, and I assessed how alive this thing was. It left something akin to a corpse in my head. The shards floated in the ephemeral nothing, each one carrying enormous mana reserves but lacking the same punch as Valgus. It hadn't had that kind of time to develop.
+
+And it didn't matter. I gazed where Marsha had stood. She hadn't done anything wrong, yet she took on the burden of some far-off, twisted god's desires. My hands trembled in anger as I dwelled on what happened. If anything, the avatar had kept Marsha alive until I got here just to bait me in.
+
+This had been a ploy all along. They wanted me here to test a new mental takeover. I peered up at the eclipse, my mind struggling to maintain coherence. With no means of recourse, I inspected the shards the avatar left behind. I tried pulling them together to get them out of my skull.
+
+Before I could, the far reaches of my psyche crawled in. Like tendrils of my armor, some unseen thoughts tore into the shards and indulged in a psionic feast. They drained it into nothing, and my mind emptied of the foreign influence.
+
+Breathing in, I found more space in my head. At the far reaches of myself, my mental borders broadened. I created more minds than before, with three extra psyches at my disposal. A part of me recoiled at whatever it was that ate the shards. I'd never experienced that kind of psionic devouring.
+
+It was as if I ate the memories and thoughts of someone else. However, a part of me knew it was there. I had felt the armor's desires for a long time, but nothing had ever pulled it out of the dark. This avatar's corpse had, and I couldn't ignore it any longer. It was a part of me.
+
+I shook off my unease, knowing I'd control it like everything else in this...This body of mine, if you could call it that. Staring at a hand, I watched it shake for a second. This was still mine. So were my thoughts and soul. They hadn't taken that from me. I had to keep on believing that.
+
+In that limbo of thought and feeling, I stood there, watching the bleeding waves. Some length of time passed before I walked away from this place and back towards the chasm. Watching the blood ocean pour in, I stared back at the waves behind me.
+
+"I hope you've found this entertaining."
+
+Baldowah echoed.
+
+"I have, Harbinger."
+
+I glared at the eclipse, my rage and sadness coursing over me in waves. Knowing I could do nothing, I dove into the red expanse below.
+
+This was not the end, and they would know what this feeling was.

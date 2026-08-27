@@ -1,0 +1,155 @@
+---
+id: a7cbf0f2-4c86-5abf-8bbc-4ba9882acaa6
+page-type-slug: story-chapter-royal-road
+title: "Chapter 148 – My Big, Fat Beak"
+slug: 0148-chapter-148-my-big-fat-beak
+partOf: the-magpie-and-the-archmage-monster-evo-litrpg
+position: 148
+ownLength: 1907
+unit: words
+publishedAt: 2026-07-17
+link: "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3687651/chapter-148-my-big-fat-beak"
+royalRoadId: "3687651"
+---
+
+Liora saw the merfolk approach them and was relieved to see that they weren't the same ones they had encountered before. Instead, there were three mermaids with orange and white tails—were those clownfish? There were also five mermen, two of them with colorful blue and yellow tails and three with simple grey tails. Dolphins' tails most likely.
+
+While Liora was filled with dread that these merfolk could sense the Divine Glimmercore hiding in Cee's Inventory, she knew that she had to act decisively. She had learned one very valuable fact from her last encounter with merfolk, and she was going to use that knowledge to its fullest.
+
+"Please, help!"  Liora called to the merfolk, who stopped and stared at her in confusion.
+
+Most of them were carrying something akin to harpoons, while a few had staves. Liora didn't want to end up on the receiving end of those.
+
+"Please, please! We're being chased by a human who was keeping us imprisoned!"
+
+"Human?" said one of the dolphin mermen, holding the most ornate harpoon. He had something akin to chainmail on his chest, except it looked to be made of rock rather than metal. Or perhaps it was a different material entirely.
+
+"We were oppressed! Experimented on and turned into nothing more than killing machines. I was barely able to escape with two others, but our human master is pursuing us. I thought the sea would be the only safe place for us, but we can't remain down here for long. Please! Help us!" Liora said in the most miserable voice she could muster.
+
+"Are you about to evolve into beastkin?" One of the clownfish mermaids asked, holding her stave firmly in her hands.
+
+"The master would never allow it! I secretly took this evolution, and he was about to kill me. Only barely did I manage to escape," Liora said.
+
+The fact that she was actually battered and bruised certainly helped to sell the image of recent escape. The merfolk looked skeptical, but the well-armored dolphin mermaid raised his harpoon.
+
+For a second, Liora thought that he would skewer them all like a kebab, but instead, a flurry of bubbles came from it and engulfed Liora, Cee, and Smokey, creating an air bubble around their heads.
+
+The feeling was weird, having her head engulfed in an air bubble while the rest of her body was still submerged. It slightly distorted her vision, but it wasn't so bad that it would bother her. Albeit, perhaps just giving her a breath of air to reset the timer on her Fluid Flight would be better. She decided not to be demanding for the time being.
+
+"Thank you, thank you," Liora said.
+
+"We are most grateful for your kindness," Cee added.
+
+"Don't misunderstand, earth-dwellers," the dolphin merman said. "We cannot stand by when a human commits such atrocities, but it doesn't mean we trust you. You might have been sent down here by your so-called master to spy on us."
+
+"We would never work for that man willingly! The torture he put us through, the horrors he made us commit… I shudder to remember them," Cee said, wiggling her front legs dramatically.
+
+Liora thought she was going a bit overboard, but the merfolk did lower their weapons a little.
+
+"We'll make sure of that later. You can swim deeper down, no?" the dolphin merman asked.
+
+"I can swim because of my unique evolution, but my companions cannot," Liora explained.
+
+The merman motioned at the two other dolphins who swam up to Cee and Smokey, respectively, removing the soaked and useless webbing and helping them swim down. Smokey was less than thrilled at the prospect, nearly biting the merman.
+
+"Smokey, calm down! It's alright," Cee tried to calm the wyvern, who didn't look convinced in the slightest.
+
+"I'm so sorry! He is still young, just recently acquired by the master. We took him with us, trying to save him from the horrible experiments, but he is not yet very… intelligent," Liora said.
+
+"It is very admirable that you would help this youngling despite him being a burden for you. You have the heart of a true beastkin," one of the clownfish mermaids said.
+
+"We'll see about that," the dolphin merman said, and with the motion of his hand ordered everyone to swim to the depths.
+
+Liora exhaled with relief. They should be safe from Lucien in a merfolk city. After all, even Renir hadn't been to one before, and he was one of the most powerful mages in this country. According to him, at least.
+
+Looking down at Renir, who dangled around her neck, observing the whole situation, Liora wished she could talk to him. But it appeared that he was unable to speak underwater without his air bubble. At the same time, it didn't look like he needed to breathe, as he appeared rather calm and comfortable.
+
+"Is that gem around your neck the sign of your enslavement?" One of the mermaids said, reaching for Renir.
+
+"Don't touch him!" Liora snapped angrily, and the mermaid pulled her hand back.
+
+All the merfolk stopped, and Liora realized that she had been a bit too aggressive.
+
+"He?" the dolphin merman asked.
+
+"Yes, he!" Liora said and hurried to rectify her mistake. "This gem is also our companion, an experiment of my master. He was trapped inside the gem and then forced into cruel experiments to see whether he could be evolved the same way monsters can evolve."
+
+All merfolk gasped in horror while their leader swam closer to Liora, examining Renir closely. Renir wiggled one of his gem arms in greeting.
+
+"He does not require air to breathe?" Merman asked.
+
+"He is a gem, so no. But if you were to give him an air bubble, he would be able to speak."
+
+The dolphin mermaid activated his harpoon again, creating a tiny bubble around Renir. It was honestly quite adorable.
+
+"I thank you for your assistance, kind merfolk," Renir said.
+
+"By the divine… Humans have gone too far. To think that they would trap a live creature in this body."
+
+"You have no clue how horrible it is. I can't sleep, I can't eat or drink. I have a sense that tells me whether it's warm or cold, but I don't really feel it as such. Neither do I feel pain," Renir vented.
+
+Liora felt that this wasn't a lie he was making up just for merfolk's sake. This was how Renir truly felt while being trapped inside the gem. She had always known this, yet hearing Renir say it aloud, Liora realized just how horrible it was for him.
+
+The merfolk looked thoroughly shocked by this story, except for their dolphin leader, who appeared a bit skeptical.
+
+"What manner of creature were you before getting trapped?" He asked.
+
+"I was a… birdkin. With phoenix ancestry," Renir said.
+
+"Similar to your companion?" Merman asked.
+
+"Yes! We were mates, but the master couldn't handle seeing our open affection for each other, so he turned me into this abomination," Renir wailed.
+
+Liora nearly choked, barely able to keep her expression calm. Cee let out a snort, likely trying hard to withhold her laughter.
+
+"Is that not true?" The dolphin leader glanced at Liora suspiciously.
+
+"O-Of course, it's true! It's just that the thought of m-my b-beloved being turned into a gem hurts me so much each time I remember it…" Liora mustered.
+
+"Your poor creatures!" The clownfish mermaids were falling for their lie, line, hook, and sinker. They had teary-eyed expressions—could they even cry underwater—and stared at their leader pleadingly. "We must help these poor surface creatures! To think that humans would be so cruel as to separate bonded mates."
+
+Liora was so glad to be a bird at that moment. Her face wasn't as expressive as that of a human or a merman, so they likely wouldn't be able to tell how horrified she felt at the moment. Bonded mates? With Renir. The thought sent a shudder through her feathers.
+
+But the dolphin merman actually softened up. "It is cruel indeed. I couldn't imagine something so horrible happening to my bonded mate."
+
+The rest of the way down was filled with curious questions from the mermaids who were eager to find out more about the "poor, tortured monsters", especially about the details of Liora's and Renir's supposed relationship.
+
+Liora allowed Renir to do all the talking. He was making up such tall tales, morphing their adventures into complete fantasies. Frankly, she would have liked to peck Renir for all the nonsense he was making up, but she had to put up with him while in front of the merfolk.
+
+"One time, when Liora and I had just met, we were being pursued by mean humans who were intent on killing us. We didn't know what to do at first, but then I had an idea! I suggested we lead the humans to a treant. The treant dealt with humans, albeit one of them had managed to injure Liora. I just barely managed to save her by pecking them viciously with my beak. It was at that moment that she fell in love with me. Isn't that right?"
+
+"Y-Yes… it was very… valiant," Liora forced herself to say. The wish to peck Renir increased by the moment. Why was he torturing her so after she had saved him yet again from the clutches of his enemy?
+
+Besides, if he was going to make up stories, then Liora should be the one doing the rescuing, not Renir.
+
+"We have arrived," the dolphin merman announced.
+
+Liora had been so annoyed at Renir that she hadn't even stopped to look properly around her before. But the city before her was breathtaking. Thalasarra had been beautiful, but when compared to this, it was nothing more than a shabby underwater grove.
+
+Corals of all colors, sizes, and forms were growing all over elaborate merfolk homes, which were carved into white searock. Unlike the houses in Thalasarra, they were much more elaborate with delicately carved forms of sea creatures adorning the entrances.
+
+Not to mention the amount of merfolk here. They were everywhere, swimming busily. Merfolk children were swimming chaotically all over the place while adults kept to special swimming lanes which appeared to be marked with beautiful plant-life, seaweeds, and the like.
+
+"It's so beautiful…" Cee noted.
+
+"Thank you! We are one of the biggest merfolk cities in the southern seas. Albeit our livelihood has been threatened lately by humans," the dolphin merman growled. Or something that seemed like a growl, albeit reverberated underwater.
+
+"What did they do?" Liora asked, relieved that Renir's romance stories would finally come to an end. One would think that he was the Pillar of Unfathomable Tales.
+
+"We don't even know what to call it, but some sea monsters that were very friendly before had suddenly… changed," one of the clownfish mermaids said.
+
+"They grew wild, and their appearance became distorted," another added.
+
+Liora had a nagging feeling she knew what had happened to them.
+
+"Did they by any chance become stronger, turn black, and lose their eyes, leaving behind hollow sockets?" Liora asked.
+
+All the merfolk stopped.
+
+"You have seen this happening before?" the dolphin merman asked.
+
+"Not just seen it. I have cleansed it," Liora announced proudly.
+
+"Cleansed it?" The merfolk stared at each other in disbelief, then at Liora, their eyes gleaming with hope.
+
+Oh no… Me and my big, fat beak!

@@ -1,0 +1,245 @@
+---
+id: c4841355-47f6-5a88-a065-325c161b68a1
+page-type-slug: story-chapter-royal-road
+title: "332 Not A Game of Chance"
+slug: 0291-332-not-a-game-of-chance
+partOf: the-new-world
+position: 291
+ownLength: 4012
+unit: words
+ownProgress: 4012
+publishedAt: 2022-02-14
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/845742/332-not-a-game-of-chance"
+royalRoadId: "845742"
+markedReadAt: "2026-06-29T21:31:12.373Z"
+---
+
+Shalahora crowed, "Neither may I."
+
+Schema radiated, "The period of this test will be three months within a gravitational sink. Minutes will pass here, and your guilds will be fine. However, the fate of your futures will be determined by your ranking."
+
+Schema's presence left the area,
+
+"So let the lottery...Begin."
+
+Chapter Begin
+
+Rulers around me peered around in confusion, wondering what to do next. Taking a moment to do the same, I dove deep into thought. Many of my minds kicked into action, pausing all of my multitasking outside of my rune siphoning. We all debated with each other, every Daniel headstrong against placing low in the lottery's rankings.
+
+Each of us arrived at different conclusions on how to do that. Some of the Daniel's wanted to clear dungeons. Other Daniel's wanted to craft objects and donate those instead. That idea dominated the discussions afterward as it proved a lot easier and more reliable than the dungeon clearing. Coming to a consensus, the minds debated on how to prepare the best artifacts.
+
+We accounted for what Schema valued the most and considering he was in a war, it'd be soldiers. In my case, supergolems shored up that need nicely. If I generated several hundred golems, there was no way I'd land outside the top ten in this competition, and that required weeks, not months of crafting.
+
+That gave us plenty of time to work on other skills in the meantime. Still, we lacked information about this planet. We operated on guesswork about where it was, how a gravitational sink formed, or even what kind of artifacts Schema wanted on it. Before I wondered further, Schema gave us an official message about it.
+
+You are about to be sent to a planet orbiting a black hole referred to by the moniker Leviathan. Time has dilated near Leviathan, and due to an unknown event in the past, this time dilation was inverted. Instead of stretching, time has compressed within the vicinity of this black hole, creating a strange world thats stabilized and orbited the celestial body.
+
+This planet will be referred to as Leviathan-7(The seventh planet found orbiting Leviathan). Many species have formed on the world in previous eras, but they've fallen to nuclear war several times. This has resulted in old, developed eldritch in a radiation-rich wasteland.
+
+Despite this, no consolidation has occurred yet, meaning eldritch still battles on Leviathan-7 for dominance. The radiation feeds these monsters, increasing their strength. Further bouts of radiation from the black hole have also strengthened the fauna here, resulting in a turbulent world. The time compression occurred in recent memory, but it has still resulted in a far older and more developed ecosystem than usual galactic standards.
+
+Also, Schema's system will not be present while on Leviathan-7. This is a hazardous planet, but it lies well outside of Schema-owned space. This, combined with the time compression, means system updates and uploads won't be timely nor attempted. Be prepared for these inconveniences.
+
+Initializing countdown to warp onto L-7.
+
+5:00 minutes remaining...
+
+4:59 minutes remaining...
+
+4:58 minutes remaining...
+
+I rubbed my temples as the rulers jumped into a panic around me. Giving us five minutes to prepare ourselves and our guild to warp was a joke. Another message appeared, splashing more cold water over us all.
+
+Each ruler will be forced to leave without assistance from their guild except the pocket dimensions. The reason for this is to prevent the unnecessary loss of troops that would otherwise be conscripted. Your individual merits and abilities will be judged here, so prepare yourselves for that.
+
+Smuggling extra creatures or personnel onto the world will result in immediate disqualification and a descent to the bottom of the lottery's rankings regardless of the outcome. Good luck, rulers.
+
+4:55 minutes remaining...
+
+4:54 minutes remaining...
+
+I leaned back from my status, gawking at the messages. Schema calling it a lottery was a joke at this point. This venture turned into a competition the moment the AI mentioned rankings. And no matter how I sliced it, Schema set everyone up for failure. Many rulers managed their positions through economic means or slowly accruing power. Obolis served as a great example of this.
+
+Putting everyone in a dangerous world with no support may result in rulers dying while out there. I blinked, a set of realizations sparking through my head. First off, Schema may not want everyone to survive.  Any leaderless guild would be far easier to assimilate, giving Schema free soldiers. Secondly, Schema would gather enormous resources from the harvesting of this dangerous world. We'd pay for mercenaries for war with Elysium.
+
+Third and finally, Schema pitted us against each other to add to those losses. The strongest guilds would win and not contest the lottery since they had nothing to lose. That prevented them from rebelling against Schema. In the end, the AI gained a lot from this venture, no matter how I sliced it.
+
+We had no say in whether we left or not either. Giving us so little time to think also prevented us from organizing our own rebellion. I sighed, Schema's plot being pretty foolproof. I opened my status, sending messages to primary guild members explaining the situation. I needed everyone to get ready for a considerable change over the next few minutes.
+
+After sending a few messages explaining the situation, I also considered some realities of my own. We didn't know where this planet was, which eliminated the ability to warp in and out. Being near a black hole also meant leaving the world physically would be dangerous, to put it lightly.
+
+I didn't even understand how a black hole had its time effects inverted or how it could orbit a black hole safely, to begin with, either. I opened several research tabs, trying to get some understanding of the situation. It required in-depth theoretical knowledge, something I couldn't gain in five minutes.
+
+Dammit. I rubbed my palm against my forehead, trying to consider all the possibilities. If I guessed right, we wouldn't be able to see the stars while on Leviathan-7. That prevented any would-be astronomers from knowing where we were and warping out. Peering around, other rulers did the same as me, trying to get as much information as possible.
+
+Everyone aside from Shalahora. The misty entity sat cross-legged and without a care in the world. Considering how powerful he was, he'd be in the top ten slots, no doubt. He also handled himself on a more individual basis. Unlike most rulers, Shalahora operated as a sizable chunk of his guild's strength.
+
+I facepalmed. Duh. So did I.
+
+Instead of panicking, I calmed myself down. This was a fantastic opportunity for me. If anything, I could use this to catapult my guild onto the galactic scene with a huge splash. Thinking about all of that, a smile grew on my face. If anything, the factors here worked to my advantage.
+
+There was no system here, meaning I had free reign over my primordial mana. I could survive any environment Schema threw at us as long as it was on an actual planet. I needed no food, air, or anything really. That put me ahead of the other rulers who pulled out their grimoires and cast incantations to prevent death in a harsh climate.
+
+I tapped my side, my nervousness melting into a vivid excitement. In a furry of activity, I reopened my status and began messaging my guild about a plan in the works. Because of the time dilation, we didn't have long before everything would happen all at once. For them, at least.
+
+To me, this plan would take months. For the new direction to work, I needed commitment from my guild members. I frowned as messages piled in, several guildmates giving me pushback to my idea. Torix and Krog gave me the most, so I prepared a few defenses for my scheme. We messaged back and forth, and I absorbed myself in my status.
+
+Beside me, Shalahora coalesced into a smaller figure, becoming more physical. His sky blue eyes closed, making him a shadow beside me. He meditated or trained. I couldn't tell, and I didn't have the time to analyze either. I needed to get everyone on the same picture and immediately.
+
+People around us began setting up alliances, and different rulers formed groups and cliques based on goals. Shalahora opened a single eye, gazing at the chatting rulers. He turned his eyes to me as I sent out a dozen different messages and guild-wide directives. Shalahora murmured,
+
+"Would you like to join forces on this new world...Perhaps?"
+
+I shook my head, "No, but thanks for the offer."
+
+Shalahora peered down, a bit disappointed. The entity closed its eyes and whispered, "I understand."
+
+I closed my status and looked at him, "I do want to form an alliance, just not within the first month of being there. I'd prefer we rally up a bit later, towards the end of our stay on Leviathan-7."
+
+Shalahora tilted its head at me, "Hm...Why would you postpone the alliance? It may do us no favors."
+
+I smiled, "You'll find out pretty quickly, actually."
+
+Shalahora nodded, "I shall wait for the answers to unveil themselves then...Time always tells one's destiny in that way."
+
+He returned to meditating, and I kept sending out several guild messages over the next few seconds. In particular, I mentioned an absurd influx of golems along with a sudden shift in guild priorities for the next coming months. Many of my guildsmen gave me pushback to my ideas and their immediacy, so we went back and forth.
+
+Other rulers congregated into different groups, forming larger alliances. I zoned everything out, intent on convincing my guild of my idea. I left the partial attention of a single mind to my surroundings. That mind mentioned the names of these larger groups for reference.
+
+Surprisingly, the new ruler Iona Joan led one of the groups. The pro Schema faction intended on donating vast supplies to the AI's war effort through economic means. It wasn't a bad plan. One of the other factions was run by Valgus Uuriyah, an avatar of Baldowah.
+
+They wanted to raid the most extensive dungeons and loot the supplies within them. It was another solid idea. The third-largest group took a different approach, focusing on survival. They intended to create a fortress to prevent any of their members from dying in the harsh landscape. I agreed with that idea the most.
+
+Even if it was apparent, the fact couldn't be overstated; survival outweighed avoiding conscription. After all, we only understood baseline facts about this world, and the circumstances pointed to an awful environment. This faction, which I deemed the survivalists, had their priorities straightened out.
+
+Despite agreeing with them, I didn't ask to rally up. In fact, I intended on teaming up with no one. The reasons were many, but I described them with an analogy. This felt like we were playing cards, and everyone wanted a pair of aces. At this point, I aimed for a royal flush instead. If I joined up with anyone, it limited me from accomplishing a new goal while on Leviathan-7.
+
+So, I sent out a flurry of messages with my status. Other factions tried recruiting me but especially Shalahora. The Sovereign ignored these powerful rulers, the dark shadow being the strongest among us as far as I could tell. Well, the strongest besides for Valgus Uuriyah, who swaggered up and dripped confidence while doing so.
+
+Valgus was a six-armed humanoid with red skin. Valgus's black hair and eyebrows looked like they molded out of dark flames. He oozed ascendant mana everywhere he walked, his skin imprinted with Baldowah's runic markings, and unlike Yawm before him, Valgus lacked the insanity of Yawm.
+
+Instead of becoming a pariah, Valgus served Baldowah with a firm conviction. I learned that much from his title alone.
+
+Valgus Uriyah, Baldowah's Rage | Level: 64,928 | Class: Juggernaut | Guild: The Path of Rage...
+
+As Valgus reached us, he quaked the ground. He carried an unapologetic dominance over the landscape, each of his stomps loaded with power. They spoke out louder than words could, and each step told tales of the creatures he killed. He wore those creatures in armbands, the suppressed eldritch mirroring glowing gemstones.
+
+To my surprise, Valgus created different dimensional pockets for each of these eldritch. I sensed them through telepathy alone, as the monsters screamed out in pain through telepathic tethers. That pain created a psionic wall isolating Valgus from his surroundings.
+
+That combined with a dozen-plus furnaces and other strange artifacts over him. In that way, Valgus recited his legend with his walk, a myth he lived out as he paced up to an equal. Which wasn't me. Valgus stared and shouted at Shalahora, "I felt your mind trying to graze me earlier. It was impressive. Join me."
+
+Shalahora looked up, his eyes piercing. The shadow menaced, "And why should I join you? What do you offer me?"
+
+Valgus smirked down, small tusks jutting out from the sides of his lips. Valgus spoke with absolute confidence,
+
+"You will join me because I am undeniable. I will conquer the largest dungeon, raid the dark core within, and return here in triumph. Joining me will guarantee you a slot in the ten immune spots. I can guarantee that. My legacy speaks for itself in that regard, does it not?"
+
+I noted the mention of a dark core in the dungeon. Shalahora sighed and stood. The umbral shade turned a hand to me, "May he join us?"
+
+Valgus turned to me, walking up. He stood taller than me by about a foot. At my height, it was like a few inches to me at this point. The Asura frowned in disgust, "You smell like a Ruhl. You also remind me of an eldritch with that armor of yours. Is it enchanted to be alive or something?"
+
+He poked me with a fingertip, hard enough to make me stumble back. He seethed, "Weak. And tainted. Why should I let this thing join us?"
+
+Not having time for this, I raised a hand without looking up from my status, "You know what, don't worry about it. I'm not joining anyone. Do whatever you want, guys. Don't mind me."
+
+I stayed busy sending a variety of messages. Valgus let out a laugh before reaching out a hand and grabbing one of my shoulder spikes. He lifted me up, the ground around us cracking and fissuring. Valgus tilted his head at me, "I changed my mind. You're interesting. Join me or fight me. I'll let you choose."
+
+I blinked, kind of stunned by his response. I frowned, "You just said I was disgusting. Now you want me to join you?"
+
+Valgus gave me a warm grin, "I've been wrong far more than I've been right. Eldritch or not, you carry a strange smell and aura. I wish to test it or have it on my side."
+
+I raised my brow, "Uh, any other options?"
+
+"No. I told you what is acceptable. Speak only to answer what I've told you, nothing else, child."
+
+I shoved his hand off me, taking a step back, "You know what, I'm kind of busy organizing my guild right now. Do you mind chatting once we're on Leviathan-7? We both have a lot to handle before we head out, and this is a waste of time."
+
+He bent down, mana filling into his tattoos. He scoffed, "Then you've chosen to fight." He dashed forwards and struck my torso. His fist and arm bone snapped while I dragged several feet back. I narrowed my eyes at Valgus and stated,
+
+"Alright, you made me an enemy."
+
+He dashed in with a regular punch. I parried it with one hand while reaching out the other. I grasped his neck, strengthening myself with a dozen gravity wells. The Asura's skin sizzled at my touch, my mana causing heat to build in my arm until it sheened white. Mana kept siphoning in until the glow turned a deep blue in color.
+
+I lifted Valgus off the rocky floor. Valgus smiled down at me, "You don't like to fight? Hah. Lies."
+
+He raised his arms, his cipheric runes empowering with Baldowah's strength. Valgus swung his fists down. My arm broke and cleaved apart, the metal rupturing while silver blood splattered onto the ground. My heated blood melted the stone beneath us, and both splintered remnants of my arms hemorrhaged.
+
+He ignored the density of my body, kind of like Althea did. Unphased by him, I tilted my head, keeping Valgus off the ground. I scoffed,
+
+"Is that how you're going to stop me? Swinging your arms?"
+
+Tearing my arms off stopped my physical hold, but my grip on gravity remained intact. Wires jerked into place, reconnecting my arms as quickly as he split them apart. I tightened my grip without missing a beat. Valgus growled out with joy, "Then once more."
+
+Like an unstoppable force, Valgus waved his limbs with empowered ascendant mana and his cipheric runes. Whatever method he used worked well. He cleaved through my dense body with ease. In reality, it did nothing, like a child attacking a puddle. I reformed quicker than he could kill me.
+
+Even subtle attacks of his turned me to pieces, yet those parts of myself crawled back to my body as if alive. My blood lurched back onto me, and my hand kept tightening even as he splintered my arms a dozen times over. Viens expanded on Valgus's neck. Other rulers gawked as a moment turned into several, Valgus struggling while I held him up.
+
+My helmet grinned at him while I stated, "You're strong, Valgus. Far stronger than I am."
+
+He kept swinging in futility. I pulled him close and murmured, "But I am beyond strength...Remember that."
+
+The Asura loaded himself with ascendant mana, his entire body hardening. The shackles over him tethered out with psionic augments, and my gravity wells weakened before dispersing. Valgus reared his arms back and snapped three fists against my stomach. I keeled over, the physical impacts like Lehesion's tail smacks.
+
+Portions of Valgus's mana spiraled with such density that plumes of it erupted at his sides. Those crimson streams laughed and cackled with a palpable bloodthirst. Engorged with energy, he uppercut my chest, and an ear-shattering boom echoed with a shockwave in all directions. It destroyed the ruins, the cipheric incantations, and me. I erupted out my back, my insides turned outwards.
+
+Several rulers flew off into the distance. Valgus ripped my hand off of his neck. A bit of blood leaked off his lip, and the Asura licked it up with his tongue. He shouted with joy, "I was right. You're just an eldritch. No wonder that Overseer saw you with such disdain. Eldritch or not, you're a good fight, and that is something I crave."
+
+With a gravity well, I pulled my body back together in a flash. I frowned, "You still have normal blood, huh?"
+
+I frowned at him. I raised a hand, summoning a gravity well over him. Valgus grinned at me with a manic look in his eye, his body unaffected. He shouted, "No magic will ever touch me again."
+
+I frowned, "Is that the psionic tethers or something?"
+
+Valgus pounded his chest before roaring, "It is Baldowah's grace. It is over me, always and forever."
+
+I held him in place with gravity wells seconds ago but whatever. Not having time to fight it out, I melted the ground beneath him, Valgus's feet sinking in. I lifted my hand, pluming the magma over him before turning it to rock. At the same time, I snapped my fingers and formed a singularity in front of him.
+
+An explosion radiated into our surroundings, casting a thick, igneous cloud of ash over us. I melted the stone beneath me before sinking into it.
+
+Once surrounded by rock, I melted the stone while shooting myself away. I kept myself in a magma bubble to silence the process, melting and solidifying stone as I passed through it.
+
+Staying focused, I opened my status and went back to winning over my guildsmen. I'd handle this Valgus guy later when I had the time. Above, the ground quaked as Valgus blew up the rock above. I heard him through the stone and got a picture of him from his gravitational fluctuations. Valgus laughed before yelling, "You have powers I've never seen. Did you perhaps reincarnate? You smell of the Ruhl's, so perhaps you were possessed by one? A lich of one, perhaps?"
+
+Shalahora murmured, "You intend to fight your way to victory then...And like this?"
+
+Valgus turned to Shalahora with a wild smile. Valgus spread his hands, "Of course. To fight is to live. We do so for Baldowah, the ruler of the cosmos."
+
+Shalahora dispersed while haunting out, "And his cosmos...He wishes for you to destroy it?"
+
+Valgus swung where Shalahora was, "No. He wishes for its rejuvenation. He wants us to bring about change, and that change manifests in battle. In finality. In consequence. In outcome. Baldowah exists as a reason for our immortality granted by Schema."
+
+Shalahora ebbed from the ether, "This is no battle, however...We must bring Schema resources."
+
+Valgus scoffed, "And where there is a battle, there is plunder. But do as you wish." Valgus stared where I was, "Both of you, wherever you've gone."
+
+Valgus turned around and walked back into his group of rulers. He wrapped his arms around the shoulders of several other rulers while laughing. Valgus wanted another fight on Leviathan-7 with both of us.
+
+Great. Just great.
+
+Even from that initial contact, it was hard to say who'd win since we both carried many powers, trump cards, and fallbacks. The only way to know who'd be victorious was a fight to the death or multiple deaths because of the luck perk revivals. Either way, I wouldn't let him derail me anymore.
+
+With only two minutes left, I got my guildsmen over to my side. I even avoided the survivalist's attempts at recruiting me by staying in my rocky capsule. As for Iona's economists, they sent over a few messages while offering quite a few furnaces, a fringe planet, and even a warping specialist for me to use after we got back.
+
+They really wanted my help, but in the end, I rejected the offer. None of that mattered when compared to the real jewel of this lottery; the planet itself, Leviathan-7. The world rested in a patch of compressed time, and unlike an eldritch rift, this was a planet in our actual dimension. If we established a long-term settlement in this place, we would gain an immense advantage.
+
+This was because Leviathan-7 carried the benefits of a dungeon but lacked the disadvantages. Sure, some rifts manifested weird time scales, but if someone snatched the dungeon core, the rift collapsed. I locked away one of Yawm's followers doing just that. Losing a settlement to that was an enormous risk. Schema could put a dungeon somewhere else as well at random. That happened to BloodHollow.
+
+Leviathan-7 lacked all these risk factors. Best of all, Schema wasn't even on the planet. I could finish the research for Plazia there in relative peace. As the last seconds ticked down, everyone finished any last-minute casting. Breathable air, atmospheric pressures, even some antigravitational enchantments, they readied themselves for the ensuing struggle while I readied myself for triumph. The countdown reached a few seconds, and a strange wave of nostalgia passed over me.
+
+5 Seconds remaining...
+
+4 Seconds remaining...
+
+It reminded me of being locked into BloodHollow, where I barely survived and time again.
+
+3 Seconds remaining...
+
+2 Seconds remaining...
+
+But I was a different person than then. I changed from the ground up and inside out. I wouldn't be sitting there, wallowing in a dark pit like before.
+
+1 Second Remaining...
+
+I was the Harbinger now, and it was time to prove it.
+
+Initialization complete. Welcome to the New World: Leviathan-7

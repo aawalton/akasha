@@ -1,0 +1,203 @@
+---
+id: f45a9d54-7474-514f-ac5a-4fd8d3595efc
+page-type-slug: story-chapter-royal-road
+title: "85 Grimoire"
+slug: 0042-85-grimoire
+partOf: the-new-world
+position: 42
+ownLength: 3440
+unit: words
+ownProgress: 3440
+publishedAt: 2017-12-07
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/178756/85-grimoire"
+royalRoadId: "178756"
+markedReadAt: "2026-06-29T21:22:13.662Z"
+---
+
+Torix stepped towards the tree, “So you gained another mythical skill then?”
+
+I nodded, “Yeah, it worked out pretty well. I take the gravitational warps then spin them around. It creates a vortex that pulls my hand into the material and the material into my hand.”
+
+Torix nodded, “Interesting. I’ve never even thought of using gravity that way. Here I thought you’d use the magic for mobility and the like. I should have known. You use it to punch harder. Classic Daniel.”
+
+I frowned, “Cut me some slack. It isn’t like I’ve had gravity magic forever. It takes some time to gain mastery over something like this.”
+
+Torix walked back towards his lair, “Indeed it does. My gift may help you progress further and faster in that regard.”
+
+I followed him inside his home before we walked into the basement. I followed him into his lair before we walked down the tunnel system he developed with the beetles. After pacing for a bit, we reached the center of a large tunnel system. It reminded me of how the runes were set up in BloodHollow, a circle room surrounded by tunnels.
+
+Within the circular room and tunnels, runes covered the walls. Beetles crawled along them, carving the inscriptions into the hardened earth. They weren't eldritch runes, but the complexity of the inscriptions were similar. Torches lit those inscriptions, bathing the scene in an orange light.
+
+At the center of it all, there was a marble well full of a shining blue liquid. As we reached the well full of mana, I glanced around,
+
+“Looks like you took a few cues from Baldag-Ruhl.”
+
+Torix shrugged, “I know genius when I see it. There is no reason in avoiding the advantages of Baldag-Ruhl’s implementations. In this case, I am tweaking his own methods for creating grimoires.”
+
+I raised an eyebrow at him, “Grimoires?”
+
+Torix nodded, “They are textbooks of magic. Every mage should own a grimoire, as they allow an easy usage of runes and complex magic. Up till this point, I’ve neglected giving you one. Do you know why?”
+
+I scratched my cheek, “Maybe because I’d destroy it?”
+
+Torix pulled the tome I’d seen him use time and time again,
+
+“I can’t deny that entirely, but that isn’t the primary reason. You see, a grimoire is often given to disciples too early on in their development. You only need to write a magic once before you may use it without referencing it ever again. While this may sound absurd, it stunts the growth of a young mage.”
+
+I shook my head, “It makes perfect sense. Practice makes perfect, and it’s hard to get practice when you only have to do something one time.”
+
+Torix walked up to the marble well full of mana. He tossed his dusty tome into the well of magic. The runes surrounding us shined a bright blue, spreading throughout the entire construct. The air shivered as the humming of magic energies electrified the air. As the buildup of energy reached its apex, the blue aura inside the runes imploded into the well.
+
+No longer full of the blue liquid, Torix took out his old tome. Except, it wasn’t old any more. The new leather binding complimented the pages marked with glossy ink. Torix turned through the pages, a mad grin on his face before he turned to me,
+
+“I just created a new grimoire from the copy of my old one. I charged mana into this grimoire over the last few hours. In total, I used over 1,000,000 mana on this single book, a feat few mages can match. From what I gained of your old health regeneration, you could match that output in only twenty minutes. That is absurd.”
+
+I weighed my hands back and forth, “Yeah, but it isn’t like I know what to do with all my mana yet. I’m not using it very well. At least I don’t think I am.”
+
+Torix grinned, “That is what I am here for, disciple. For your own grimoire, you need to channel your mana into this well for however long you can. Most can handle the suffering and debilitating stress for about four or five minutes. I expect more out of you then that.”
+
+Torix placed his palm over the well, “To do so is simple. Place your palm over the well and flow your mana into it. The booklet will take a suitable form thereafter using the charged mana.”
+
+He turned to me, his grin growing evil, “Are you ready for the trial?”
+
+I rolled my eyes, “I have level one hundred in Pain Tolerance. It isn’t like this is going to be painful.”
+
+Torix frowned, “Bah, why ruin an old necromancer’s fun? Regardless of what you might believe, the pain won’t be the difficult part. Controlling the flow of your mana will be, especially considering it’s more of a flood at this point.”
+
+Torix pocketed his new grimoire into his robe, “Before you begin something like this, we need you as strong as you can possibly be. As such, I’ll be giving you the dungeon cores you need.”
+
+He opened a black portal to his side, he reached his hand into it, “How many do you need?”
+
+I glanced at my status. Since turning level 1000, the status screen changed. At the upper right corner of it, there was a number indicating how many dungeon cores I absorbed. Below it was a number showing how many cores I could still absorb. I fiddled with my status,
+
+“I need about eighteen of them.”
+
+Torix sighed, “There is one thing correct about what Kessiah said earlier. I am almost out of dungeon cores for you and Althea. I still have enough for this at least.”
+
+He handed me the eighteen red cores and two smaller yellow cores. I assimilated the cores before checking out my status. With a single thought, all the attributes poured into endurance. I selected finalize.
+
+I didn’t expect much from 182 attribute points. At that point, it wasn’t an enormous increase in my total stats. It wasn’t even enough to move my endurance up by a tenth. That made the rush of vitality and the restructuring of the arcane chains shocking. It was a solid increase in my vitality, something I hadn’t seen coming.
+
+With that in mind, I opened my status screens,
+
+Level 1360
+
+Strength – 1274 | Constitution – 1556.6 | Endurance – 3059.2
+
+Dexterity – 406.2 | Willpower – 1892.6 | Intelligence – 719.2
+
+Charisma – 96.3 | Luck – 239.8 | Perception – 191.9
+
+************************************
+
+The first notable difference was that my health and health regen shifted quite a bit. All the other stats increased at a steady rate except those two stats. I almost had 200K health now, and my health regen was insane. I went back over my perks and stats totals, sifting for an answer. I found it after a minute of searching.
+
+The level 1000 perks gave huge bonuses that scaled with every 1000 points I gained in an attribute. The reason for the steep increase in health and its regeneration was I passed 3000 total endurance. Since I amassed another 1000 in the attribute, my scaling in health and health regeneration increased. This resulted in a solid boost in stats.
+
+It was a nice boon for my stats, kind of like a surprise gift. With that gift in tow, I walked up beside Torix. We stood in front of the marble well, the blue liquid gone now that the mana was drained. Torix turned to me, “Just channel the flow of your mana into the ritual. It should do the rest for you.”
+
+I nodded before reaching out both my hands, “Any other tips?”
+
+Torix pointed at the runes, “You may have to adjust the runic configuration using your own mana. I made the incantation as generalized as possible, but your mana is unique. Creating a ritual specifically for it proved difficult.”
+
+“Alright, thanks. I’ll give it a shot.” I closed my eyes, sensing for my mana. It returned in a torrent, like a raging river of energy. I poured it into the well, the mana coursing like a vibrant cascade. The red mana infested the marble well, making a demonic red, the same color as my ascendant mana.
+
+Not long after, my mana poured out of the well. The infestation spread throughout the runes, replacing the blue with the crimson color. I tried pulling mana in, but it was damn hard. It was like trying to aim a fire hose at a fly.
+
+Even with my enhanced concentration, the ebb and flow of mana coursed out of the well. Starving tendrils of the red singed the runic inscriptions. They disrupted the flow of mana. From the scorch marks, a brighter red crawled outward. Within seconds, this bright red bathed the room in a red glow.
+
+Waves of energy spilled over the fountain. The ground quaked, the shifting red tendrils tearing into the rest of the runes. The chaotic energy split the incantation, riving it apart. The mana corrupted the complex inscription as it passed through it.
+
+Seeing the ensuing chaos, Torix shouted, “Stop the ritual. You aren’t ready. We’ll adjust the ritual over the next few weeks. It won’t be as difficult then.”
+
+I grimaced, “We don’t have a few weeks. Yawm is about to wake up. We need to be ready for that. It’s now or never.”
+
+His words doubled my resolve. If I wasn’t ready now, I never would be. I was a higher level than Torix, and controlling my mana would continue to be a problem down the line. The problem would expand in size, because it would increase as my health increased. Getting a hold on it now would serve me well in the future.
+
+With this realization, I gritted my clenched my teeth. I glared at the well, commanding the mana to obey. The torrent of energy, like a thick entropy, begged for release. I wouldn’t allow it. I crushed the energy, forcing it to stabilize. It rebelled against my own efforts, but my iron will oppressed it. Like the hands of a serial strangler, I choked the life out of the living mana.
+
+The red lines receded from the other runes and the singe marks healed. As they receded, the mana within the well filled to the brim. Pulling the mana back into the well would result in a weakened grimoire. It couldn’t hold enough mana. I needed to do more than reign the mana in. I needed to wield it as my own and warp the ritual for my own needs.
+
+I balanced the chaotic force, allowing it to leak into the runes once more. This time, I bended the volatile forces within the ascendant mana. Like channeling mana through the runes of my armor, I channeled mana through the runes on the floor. Instead of destabilizing the ritual, I made the energy organize the runes in my own image.
+
+As the mana passed through the carvings, they changed. The clear, precise lettering turned coarse and violent. The crimson mana crept outward from the well, altering the entire ritual. It as a slow, calculated change this time. I wasn’t letting the mana run wild anymore.
+
+Breakthrough achieved! Ascendant Manipulation(lvl 47)-->(lvl 62)
+
+The changed ritual reflected my own mana instead of Torix’s more stable magic. His magic was a cold, analytical kind of power. Mine was a frenzy and fire. It was like an endless hunger, waiting to dig its teeth into anything it touched. I used that hunger, making it my own.
+
+Lightning arced from the changed runes, saturating the runes with the energy. As it spilled further and further out, the mana became harder and harder to control. The pace of its growth slowed until every inch further out was a desperate struggle. My hands shook as my armor shivered. More of my mana poured, surpassing my ability to generate it.
+
+Breakthrough achieved! Overcharge(lvl 4)-->(lvl 29)
+
+Blood poured out of my skin, the liquid evaporating into the electric energy. Once inside the well, it fed the growing demands of the ritual. Time passed slower as the growing toll on my body became evident.
+
+Strips of my armor peeled from my skin, melting into a black liquid that fed the ritual. My teeth loosened, turning soft as butter. The well at the center of the ritual poured the red mana over the side.
+
+The mana crawled over the surface of the ritual. It filled into the etched runes, turning them a dark red while the rock itself remained crimson. This second layer of the ritual demanded even more mana, begging for more of my flesh. I relented, giving the ritual what it needed. Torix floated over me now, laughing like a maniac,
+
+“This really is quite the bloody spectacle. I’ve never seen the creation of a grimoire become so interesting!”
+
+My skin melted. My bones softened, bending under my own weight. The arcane chains lining my flesh disintegrated along with my gums and cheeks. Blood leaked from my eyes, ears, and mouth. More time passed, and Torix cast a glowing green spell onto my back,
+
+“This shall heal you, giving you a bit more mana to work with.”
+
+At that point, I neared death. The ritual consumed me, devouring my body like some hungry parasite. It gorged on my blood and feasted on my flesh. For the first time since maxing out my Pain Tolerance, a dull ache formed throughout my body. That pain grew as my health lowered below ten percent. The glowing green light of Torix’s healing spell strengthened as he murmured,
+
+“Hold it. Hold it. The ritual won’t kill you. It’s simply taking as much as you’re willing to give it.”
+
+And I gave the ritual everything. Every piece of my mind, every corner and shard of concentration, it fed into the incantation. I maintained the ritual with all that I was. The second, deeper layer of the ritual covered the entire room. As it did, the room turned into a lake of blood. The pain turned into a throbbing. The throbbing turned into sharp, burning waves of agony. I hissed,
+
+“How does it even hurt? I have maximum Pain Tolerance.”
+
+Torix struggled out his words, “The ritual isn’t working like normal...Aren’t you excited?”
+
+As sweat poured down my face, I rolled my eyes, “That’s easy to say when you’re not the one melting.”
+
+Torix let out a short, hoarse laugh before we dug deep into our roles. He healed me, giving extra mana and health while I focused on keeping the spell intact. Well, that and not dying. For more help, Torix supplied me many buffs. Torix grabbed healing and mana potions from his dark portal too. He even sacrificed several summons for extra mana and health.
+
+As Torix grasped for more health and mana for me, I grasped for more control of the ritual. The greater the crimson infestation spread through the runes, the greater the toll on my mind. My body suffered with it. My knees buckled. My back bent. Despite the sharp suffering, my head remained unbowed. I controlled the will of the ritual, fine tuning it with a will like steel.
+
+I got a hold of the ritual over time. It became easier and easier to make the ritual operate. Once I got a handle on maintaining the ritual’s growth, I focused on restructuring it. Any inefficiency, any imperfection, I ironed it out. As I used the mana for honing the ritual, controlling it became easier. Aspects of it suited me more, turning the incantation into a better conduit for my mana.
+
+By the time the ritual stopped using all my health regen, I altered it completely. It couldn’t be called Torix’s ritual anymore. It was my own.
+
+Once the ritual was set in place, the runes soaked up the mana. They built mana in the ritual, dispersing it throughout the cavern. By the time the ritual reached its apex, thunder echoed off the walls from lightning arcing in the distance. The air blurred with the electric force of mana. A near unbreathable density saturated the cave, like the mana was becoming physical.
+
+Breakthrough achieved! Overcharge(lvl 29)-->(lvl 54)
+
+The voice in my head whispered throughout the mana. It begged for destruction. It begged to devour. Just like before, I silenced it. The mana reminded me of the ambient mana used by the Lord of Worms. The mana thickened until it choked a normal person. This mana was no different.
+
+Here I had thought the mana was a voice in my head. Instead it was the unrestrained voice of the mana I made, wanting destruction and ruin. With my superior control of mana, silencing it proved simple. With this volume of super charged mana, the task became far more difficult.
+
+At my breaking point, I fell onto one knee. As I did, the ritual finally ended. All the built up mana poured back into the well, filling it as a giant sphere of the mana coalesced. Like a miniature sun forming above me, the sphere of glowing mana condensed further. The sun reformed into the outline of a grimoire.
+
+A shockwave of energy forced Torix and me back as the blinding light faded. The leather bound book flopped into the well before I pushed myself off the ground. As I looked up, Torix stared down at me. His body pressed into the stone. He coughed,
+
+“I’m fine. Go grab the grimoire.”
+
+I laughed a little before pushing myself onto my feet. My mental endurance showed itself as a few seconds of reprieve was enough to function again. Using that inhuman persistence, I jogged up to the grimoire.
+
+The thick book was a maroon color, with a black lock bolting it shut. As I tapped the soft looking leather, it rung like metal at my touch. Underneath the leather, a layer of metal acted as reinforcement for it. The book’s weight and durability came from that metal.
+
+At the center of the front cover, two circles were on it, each symbol intersecting. Within the intersecting circles, the book was pitch black. It was the kind of black that soaked in the light around it. Outside the black, the shining leather was pristine. Outside of those features, it looked like a normal book.
+
+As I observed it, my health returned to normal. Guessing how to use it, I poured a bit of my mana into the seal. The lock popped open, revealing the pale pages within the book. I ran my fingertips across the parchment. The paper was harder than my armor. A thin sheet of something covered the pages and weaved through the fibers of the paper.
+
+I grabbed a sheet of the paper and jerked at it. The paper didn’t tear. Hell, it didn’t even crumple. Torix pulled himself from the roof during my inspection. He floated towards me, leaning towards the book from my side. He cupped his chin,
+
+“Curious. This is the most durable and one of the thickest grimoires I’ve ever seen."
+
+I shrugged, “That’s good...It seems like a solid book...I mean, that’s nice and all, but I don’t think it was worth all that trouble.”
+
+Torix leaned away from the grimoire, “That would be true if the grimoire didn’t act as a conduit for magic. With it, you can avoid the trouble of setting up a ritual every time you need a complex incantation. You flip to the page you need, and the grimoire will guide your mana for you. That’s if you have the incantation made, of course.”
+
+I turned the pages of the grimoire. Halfway through the booklet, the pages were black instead of the pristine white of the beginning pages. I pressed my hand into the page, but nothing happened. I tapped the page for a moment before scratching the paper. The black markings etched off, revealing a pristine white underneath an inch of the black paper.
+
+I couldn’t tell how the paper was so thin, yet it let me carve so deep. I etched a simple magic rune before channeling some mana into the page. The runes I carved into the page glowed. The runes floated off the page before I pressed the back of my hand against the floating runes. They etched into my armor, an easy method of changing them. An evil grin crawled up my lips, “This is exactly what I need.”
+
+Torix frowned, “For what?”
+
+I turned to him with an evil grin, holding the grimoire in my hand.
+
+“For carving the eldritch runes into my armor."

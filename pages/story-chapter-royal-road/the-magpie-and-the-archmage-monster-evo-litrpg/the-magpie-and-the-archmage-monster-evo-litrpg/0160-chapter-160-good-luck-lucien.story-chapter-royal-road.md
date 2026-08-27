@@ -1,0 +1,151 @@
+---
+id: f8872198-155e-5df3-b0d3-1b40adae0f04
+page-type-slug: story-chapter-royal-road
+title: "Chapter 160 – Good Luck, Lucien"
+slug: 0160-chapter-160-good-luck-lucien
+partOf: the-magpie-and-the-archmage-monster-evo-litrpg
+position: 160
+ownLength: 2036
+unit: words
+publishedAt: 2026-08-12
+link: "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3802938/chapter-160-good-luck-lucien"
+royalRoadId: "3802938"
+---
+
+Liora's decoy pretended to fly in one direction while Liora tried to get past Lucien from the other side. She had a feeling it was unlikely to work, but when the mage snapped his fingers and created a barrier out of electricity, she couldn't help but let out an undignified squawk.
+
+Her decoy flew straight into it and disappeared, revealing Liora's true location to Lucien.
+
+"I really didn't want to do this, you know. I wish for us to work together as equals. To think that a human from a completely different world would be reborn as a monster. It's no wonder you have grown to become so powerful. A human mind inside a monster's body. The potential is infinite," Lucien said with a smile, slowly stepping towards Liora.
+
+There wasn't anywhere she could run. The electric wall blocked her path from one direction, and the metal door from the other. She threw a glance around the walls and floors, hoping to find a weak spot in the wards where she could squeeze through as a mote of light.
+
+But every bit of the walls, ceiling, and floors was covered with that distinct magical shimmer that signified the presence of wards. It seemed that the lower floors of this building were better protected than the top. Liora didn't have any chance of escaping.
+
+The only thing she could do was fight. Against the mage who could shoot laser beams out of his fingertips. Yeah… The odds were distinctly not in Liora's favor. But even so, she wasn't about to let him scramble her brain and make her into his puppet or something.
+
+Liora transformed into the dracoryx form and attempted to Raptor Lunge at the mage. As she suspected, her talons met with a barrier that protected Lucien, and it felt much sturdier than that of his subordinate.
+
+"Really? Is this necessary? You're smart enough to realize that you can't beat me," Lucien smirked.
+
+"Doesn't mean I'm just going to let you have your way with me," Liora said, using her Resonance Mimicry to produce ear-splitting explosion noises.
+
+With how close she was to Lucien, Liora had been hoping that the loud noise would at least stagger him momentarily. Actually, it was making her woozy.
+
+[New trait acquired – Sound Resistance]
+
+[Sound Resistance — At [Basic] level, reduces the harmful effects of sound-based attacks, including disorientation, confusion, stunning, pain, and forced loss of balance. This skill also helps you remain focused when exposed to loud noises, sonic vibrations, and magically enhanced cries, songs, roars, cackles, or shrieks.]
+
+While Liora was glad that her own mimicry won't be rattling her brain as much, Lucien remained completely unfazed. He raised his hand, reaching out for Liora. She hurriedly flew back, as much as the cramped space allowed her.
+
+"I tire of these games. There are still many things I must do. Let's get this done and over with." Lucien's smile disappeared, and Liora knew that now she was in trouble.
+
+Liora hurriedly shrank down to her magpie size. Would Aegis Cyclone be strong enough to repel his magic beams? She had a strong suspicion that it wouldn't be, not for long anyway, but what else could she do? What could she do?
+
+Before Lucien could attack Liora, something crashed against the metallic door with a loud thud. It came from the inside, and the noise made Lucien pause and look at it. Liora looked too.
+
+Thud. Thud. THUD.
+
+It was like something was beating inside the room, trying to break out. Lucien narrowed his gaze.
+
+"It appears that I must investigate what—"
+
+He never managed to finish the sentence as the door burst open and water rushed into the small space. Liora transformed into her dracoryx form and latched onto the nearby wall to avoid getting washed away by the deluge.
+
+Lucien was thrown off his feet. Liora delighted in the sight of the confident mage being washed away by water. It seemed his protective barriers couldn't help him to stand upright.
+
+Unfortunately, he recovered rather quickly, creating a bubble around himself that protected him from the water. Unfortunately for him, water wasn't his only problem.
+
+As water kept pouring out of the door, Liora saw corrupted creatures appear and launch themselves straight at Lucien. First was an octopus-like creature that surrounded Lucien's bubble with all of its tentacles. After it came several small sharks. One of them swam at Liora while two others launched themselves at Lucien.
+
+Liora hurriedly combined Purify with Raptor Lunge and struck the corrupted shark with her talons.
+
+[You've successfully formed the skill <Purifying Lunge>.]
+
+Since the shark was small, one good strike with her talons was all she needed to dispose of it. It was quickly reduced to a blightstone, which she grabbed and stashed into her Inventory.
+
+Lucien seemed to be struggling with all the corrupted monsters at once. He kept shooting his magic beams, but they weren't very effective against the corrupted monster. How ironic! It appeared he didn't even know any holy magic of his own.
+
+"Liora… You wouldn't leave a person to fight against these abominations, would you?" The mage asked.
+
+"Chak-chak-chak!" Liora laughed. Oh, how the tables have turned. "Good luck!"
+
+She latched onto the metallic door and swam into the previously locked room, leaving Lucien behind. It was a bit difficult to swim against the current, but it wasn't as strong as before, so Liora could manage with her powerful wings.
+
+She often would use furniture that had been nailed down to the floor to propel herself forward. The room had a lot of cabinets like that, which had weird jars filled with the most disgusting things she had ever seen. Like the head of a shark, for example.
+
+It was clearly a laboratory of some kind, and deeper inside, there were pools covered with metallic grates. Some of them were empty, or rather destroyed. Liora guessed that it was where those corrupted monsters had come from, for in the remaining pools, a whole bunch of corrupted monsters were thrashing about, trying to break free.
+
+In the very center of this room was a small pool filled with what looked like black ichor. No doubt the source of all this corruption. Because of all the water flooding the room, the ichor was beginning to seep out of the pool, although it was moving rather sluggishly, suggesting that it was a rather thick substance.
+
+Liora didn't like it. It felt nastier, more disgusting than any of the corrupted things she had felt before. Leaving it here… No, Liora couldn't. If this spread into the sea, the sea creatures there and the merfolk would get corrupted. Liora didn't cleanse all of those slabs in order for her work to be undone.
+
+"Screw you, you corrupted thing!" Liora announced and launched Holy Light at the substance.
+
+It moved out of the way.
+
+Liora blinked. She fired another Holy Light, and once again the substance moved. Was… Was it alive somehow?
+
+For a while, it floated lazily, then it launched itself at Liora at lightning speed. She retaliated with Purify, and the thing swam back. It was most definitely alive, but it wasn't a corrupted creature. It was as if the corruption itself had come to life.
+
+Liora had to destroy this thing.
+
+She focused on her Wind Blast and combined it with Purify.
+
+[You've successfully formed the skill <Winds of Purification>.]
+
+Shimmering light filled the surrounding waters. The corrupted monsters hit by it struggled against it, but eventually got cleansed. However, the black ichor creature hurriedly swam out of the range, out of the room, and deeper inside.
+
+Liora hurried after it. Her Treasure Sense was telling her that Renir was somewhere very close by. What if this thing got to him? Could Renir become corrupted?
+
+The thought was horrifying, so Liora swam after it as quickly as she could. Somehow, the black blob was faster than her, moving swiftly deeper inside the laboratory.
+
+Books were floating about the place, and at the very center of the room, there was a hole. She suspected that it was the source of the water. It looked like it had been blown out by an explosion, as the edges were uneven. An occasional rock was dislodged from the wall and swept along with the stream.
+
+"Holy shit! What the hell is that?!" Cee's voice resounded from within the hole when the corrupted ichor swam right above it.
+
+Liora hurriedly shot Holy Light right in front of the hole to stop the creature from descending into it. Now it made sense. Cee and Renir never split up. They were right here, and Liora won't let this disgusting creature harm them.
+
+"I got it!" Liora announced and combined her Wind Slash with Holy Light.
+
+[You've successfully formed the skill <Holy Slash>.]
+
+Unlike the concentrated beam of Holy Light, which could be avoided rather easily, Holy Slash had a much larger area of attack. The corrupted blob tried to dodge, but part of it got struck anyway.
+
+Liora followed with another Holy Slash, forcing it to retreat further. The thrashed wildly, trying to dodge Liora's attack, but she didn't relent. She decided to throw all of her mana at this thing and filled the room with her Winds of Purification.
+
+The corrupted thing produced a shrill screeching noise and lashed out, attaching itself to Liora's leg. Since the room was rather small, she didn't have enough space to dodge.
+
+The pain that erupted in her leg was indescribable. Like part of her very self was being ripped apart where the black corrupted ichor had touched her. But it had chosen the wrong target.
+
+Without any mercy, Liora struck the thing with one Purify after another. It screeched and spasmed with each hit, digging itself deeper into Liora's flesh. She could see her legs turning purple. But Liora didn't give up.
+
+Using every bit of her mana, she kept Purifying the blob until finally, it released its grip on her and faded away, leaving behind a small, shiny orb. Liora snatched it up and placed it in her Inventory. She would check what it was afterwards.
+
+"Liora, are you alright?" Cee asked, peeking her head out of the hole. She was much larger now, and her legs, too, had become longer. Not to mention the weird hairs on her legs that looked like fins.
+
+"I am… I think… You evolved…" Liora noted, and Cee swam out of the hole, showing how well she can maneuver in the water now.
+
+But Liora's eyes were locked on the gem sitting in a little web pouch around Cee's neck.
+
+"Liora, your leg…" Renir muttered, sounding pained.
+
+Liora looked down and saw that it looked rather horrible. The flesh was raw and looked purple in places and hurt horribly. But she was sure it would heal in time.
+
+"It'll be okay. More importantly—let's get the hell away from here!" Liora said, snatching Renir's pouch.
+
+"Hey!" Cee protested. "You could have asked nicely."
+
+The spider seemed exasperated, but quickly wove fresh thread and secured Renir around Liora's neck. Her thread looked different now, like a translucent fishing line, but they seemed to hold their shape much better underwater.
+
+"Thank you, Cee. Thank you, Renir. I couldn't have gotten out without you two. It was you who disrupted the wards right, Renir? And you flooded the whole place, Cee?"
+
+"It wasn't easy. I'm glad you managed to catch the moment the wards were weakened. I was hoping your prismatic vision would help you out. I'm glad I was right."
+
+"And don't even get me started on how difficult it was to blast a hole large enough to sink the whole island," Cee said.
+
+"Wait… What? Sink the island?" Liora gaped at her spider friend.
+
+"Oh, yeah… We figured that you would be alright in water, so by sinking the island, we would be destroying this place and saving you. It's a win-win!"
+
+"You should have mentioned that sooner! We need to get out of here!" Liora panicked and swam for the hole Cee created. However, she couldn't fit into the narrow hole as a dracoryx, and her magpie form couldn't swim. "Shit!"

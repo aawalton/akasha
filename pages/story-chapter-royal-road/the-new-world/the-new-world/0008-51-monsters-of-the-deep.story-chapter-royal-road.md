@@ -1,0 +1,185 @@
+---
+id: 7a077d1b-f0e8-576f-a741-46b707c05e46
+page-type-slug: story-chapter-royal-road
+title: "51 Monsters of the Deep"
+slug: 0008-51-monsters-of-the-deep
+partOf: the-new-world
+position: 8
+ownLength: 3054
+unit: words
+ownProgress: 3054
+publishedAt: 2017-09-27
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/164412/51-monsters-of-the-deep"
+royalRoadId: "164412"
+markedReadAt: "2026-06-29T21:20:57.963Z"
+---
+
+I mean that literally. Once I passed a bit deeper into the cave, the walls bent and turned wet. I glanced around, wondering where the snails met. A few more turns down the passage, I found my answer.
+
+This was an underwater cavern, mist floating over the water like white cotton. I neared the water, walking along a shore made of stone. A set of crawling legs clacked as a crab walked out of the water. One of its overgrown pincers dragged behind it, like it was dragging a club.
+
+It stood five feet (1.5 meters) tall, and around twice as long. It turned its claws towards me, the right one far larger than the left. I stood a solid distance from its snapping range, observing it.
+
+Deep Dweller(lvl 376) - This is a weak but fully grown Deep Dweller. This crab species has an enlarged claw that it can snap to produce sonic booms above air, and it can produce stunning blasts underwater.
+
+The way it works is the crab will snap its claws, producing a stream of water. This creates a low pressure bubble in its wake. When the bubble collapses, it sends a ripple of force that stuns nearby prey. During the collapse, the temperatures inside the bubble reach heat that matches the surface of the sun.
+
+It's only for a fraction of a second though, so the damage is minimal. Below water, you may struggle against this enemy. Above water is your domain, however.
+
+My runes charged as the creature snapped the right claw towards me. It didn't even come close to me, but the sound echoed louder than a missile's explosion. My eardrums busted immediately, but my pain tolerance prevented me from falling to my knees in agony.
+
+I ran towards the creature, oddly off balance. It was strange to run without hearing, but I gained a sense for it after a few steps. The crab didn't enjoy me coming closer, so it snapped the claw again, booming a loud sound.
+
+Didn't do much to me now that I couldn't hear though. Once I reached it, the crab snapped the claw at me. It clamped onto my right arm before I pulled it back. Being heavier than it, I lifted it into the air before running over and smashing it against the wall.
+
+Like squishing a giant cockroach, the shell smashed. As it squirmed and twitched in pain, I walked over and shot a quick punch into the face of it. My fist dug a few feet deep into the monster before finishing it off. A quick absorption of my armor later, and the fight was over.
+
+Turning back to the pool, I glanced at the edges of the cavern. It was enormous, the size of a football field at least, and that was only the size of the top of the pool. Who knew how big it was below.
+
+Of course fighting giant crab and slug monsters underwater seemed like a jolly good time, but I sat down and thought for a bit. If I entered the water, I could easily drown. That wasn't the easiest way of handling this. Instead, I walked up the edge of water with oppression on.
+
+The odd energy of oppression stretched out, covering most of the pool. I grinned before things started swelling to the surface. Dark, squirming things writhed in the water. The neared the surface, darting back and forth.
+
+I created a long spike with my armor. The further out it went from me, the harder it became to control. It let me create a spear stretching half my body length. With a quick, puncturing stab, I pierced into one of the dark shapes underwater.
+
+The moment my armor stabbed into it, I let it shoot out like needles. The needles caught the thing, letting me pull it out of the dark water. It was a glowing blue eel, short but muscled. Two dark blades grew from the back fin, looking razor sharp along with a swordfish’s nose. It squirmed on my spike, trying to get away from me. I pressed it against the stone before heel stomping it.
+
+Spectral Eel(level 421) - Though not the strongest eels, they make up for their lack of strength with an unparalleled speed underwater. They swim and dart around their prey, which is often much larger than it. Their fast metabolisms let them out speed their prey, then they eat until they are swell up to ten times their normal size.
+
+This food turns into a nutrient rich liquid that it then feeds to the queen of the pond they reside within. They give the queen tribute so that they can live. If you fight this monster underwater, be ready for a long and frustrating fight. Otherwise, this fish is useless.
+
+Another heel stomp later, and the monster died. My armor absorbed it, and I went to work. Dozens of fish later, and an option finally showed up.
+
+I stepped away from the edge of the coast line, giving myself some distance before pressing yes. Of course, the pain came, though not like before. I spent some of my skill points from to max out my pain tolerance, giving me 99.9% pain reduction. If anything, it amazed me that the pain was still notable. Just imagining the pain at full force made chills crawl up my spine.
+
+This evolution took far longer than the others, probably due to the increase in mana needed for it. Unlike with the other transformations, the pain wasn't severe enough to prevent me from analyzing the reformation.
+
+So far, the armor had covered my skin, and become my bones. Now, tiny little tendrils of the armor laced within my muscles and tendons. Like cords of metal, these tendrils made my muscle and flesh harder to tear apart. When I charged my runes, the energy pulsing through my armor would conduct with those tendrils. That made using my mana even easier than before.
+
+They acted like copper wires through a house, giving electricity the conductor it needed to power the home. In this case, the electricity was my mana and the home was me. Having these cords infest my muscle hurt like a thousand needles digging all throughout you. Well, 0.1% of that at least.
+
+As with all hard things though, it eventually ended.
+
+V Harbinger of Cataclysm(Skin, Legendary Unique) - Skin that can absorb rift energy (Ambient Mana) for evolutions. These evolutions may add other special effects. Cannot be removed, only altered. This skin is regenerated with health. 0/65.5 Billion Mana left till next evolution.
+
+A Harbinger's Might - Increases Damage reduction cap by 3% | Current Max: 98%
+
+Of Eldritch and the Unknown - Additional 25% increase to total health | Current Total Health: 125%
+
+The Charging Calamity - Gives unique ability IV Oppression | Current Damage: (15,000 + 40% of health/min) within a maximum of a 200 ft/61 m radius. Affected by physical damage reduction.
+
+A Perennial Force - 5% of health added towards health regen per minute, which is affected by regeneration multipliers | Current regeneration bonus including multipliers 20% of maximum health per minute
+
+Wielder of Souls - Soul Forged Runes reduce total mana cost of spells by 20% | Current mana cost: 80%
+
+Malignant - Decreases Charisma by 30% | Current Total Charisma: 70%
+
+- And so, you wield me. One day, I will wield you.
+
+The main difference I noticed was the boost in health regen and oppression. Those aspects of the armor became much stronger. Combine that with a solid boost to my runic boosts, and I felt far stronger. That extra health regen acted as extra mana, due to my arcane blood. Multiply the bonus mana regen with the extra conductivity from the wires running through my muscle, and my mana charging increased by leaps and bounds.
+
+Itching to test me new limits, I neared the pool once more. Easy as taking a step, I elongated my armor, producing a spike three quarters the length of my body. Controlling it became easier after the reformation. With that extra range, I walked near the pond, ready for fishing.
+
+As I did so, something under the water swelled. A hump appeared under the water, racing towards the edge of the pond. The monsters I worked so hard to pull from the water began flopping from the pond. Pufferfish covered in glowing spines of violet, anglerfish with hooked whips that shined yellow, even crocodiles with steel scales polished to a sheen, they all sprinted form the water. I took a few steps back myself, wondering what the fuck was going on.
+
+A tentacle came out of the water, covered in eyes and warped mouths. The tentacle slammed on top of a steel crocodile. Blood squirted from the mouth of the reptile, before the tentacle wrapped around it. It writhed in agony as the monster pulled it back into dark depths of the pool.
+
+Claws snapped from the alligator’s hands as it dug them into the rock. I snapped at the rock ground, trying to get a hold on anything. With a desperate howl, it submerged into the water. Glancing at the tentacle, a message appeared.
+
+Krakow-Wahl(lvl 700) – The fully formed version of the Krakow, this monster has amazing sight with its innumerable eyes. With tentacles covered in mouths and those same eyes, it can hypnotize prey with sweet sounding words.
+
+Even then, its combat prowess is amazing. Underwater, this beast rivals a creature 500 levels higher. Its unseen body shifts in the water faster than the eyes can follow. It is but a writhing shape in the water, unknown and spelling death.
+
+The only known piece of its massive body is the eye that opens when it swims near the surface. Many of its powers stem from this mechanic. Avoid its clutches, for if it drags you out, you will drown.
+
+Not the most comforting message. The welp of water disappeared as water poured from the top of the creature. A giant eyelid opened, revealing a giant eye. A glowing mist poured from it, but opened eye met my own.
+
+A voice shook into my mind,
+
+“Hello there, little lamb-“
+
+“Is that like, an eldritch thing or something?”
+
+A tentacle rose from the water, leaning back,
+
+“Do you not fear me? I wonder if that is why you interrupt me.”
+
+I waved him away with a hand,
+
+“Naw, it’s because some guy named Baldag-Ruhl called me a little lamb, and most eldritch that can talk do too actually. Just wondering if it’s something that’s inherent or...?”
+
+The tentacle leaned closer to me,
+
+“All of your kind carries two traits. You are all food, and you all obey a higher order. We do not follow the commands of anyone, unless forced to. Your kind bends at the slightest benefit.”
+
+I rolled my eyes,
+
+“Sounds like you’re just looking for some bullshit excuse to justify yourself. Sounds...contrived.”
+
+The tentacle slapped towards the top of me, causing my knees to buckle.
+
+“Do not question my motives, child.”
+
+With one knee on the ground, my head was bloody but unbowed. I stood with the tentacle across my back, like atlas carrying the sky.
+
+The monster mumbled, “How is something so small so…strong.”
+
+My ascendant mana roared in my armor as my armor grinned. My grip tightened, digging into the flesh of the tentacle. The bright, crimson mana bled from my runes like evaporating blood. The tentacle shivered, no longer able to crush me.
+
+“You are no little lamb…you are a wolf, masked in the skin of a sheep.”
+
+From the tips of my fingers, my armor pierced into the monster. A thousand needles dug into the monster as it attempted to pull me up. My weight stopped the tentacle from leaving me. My armor sapped the strength of the monster.
+
+Unique skill unlocked! Gorger of Mana(lvl 1) – You consume the power of others. +1% to draining speed. -1% to mana drain setup time.
+
+The voice roared through the room,
+
+“Do you believe that you can eat me?”
+
+My armor grinned wider as another tentacle shot out of the water. A splash of water covered me, covering me in the blood of the monster. As my armor absorbed more and more of its energy, bloody spots formed on the tentacle, spreading further down the limb.
+
+With each passing second, the crimson spots on the creature spread further out. The other tentacle slapped towards me. With my feet creating craters, I leapt backwards. The tentacle I held onto tore from the monster’s body.
+
+With a roar of pain, the sea monster missed its strike. The piece of tentacle above me wilted. Once fully drained, I tossed the dry, gray mush aside. More tentacles rose from the water, like the water was coming to life. Three of the eye covered tentacles darted towards me, but I leapt into the air.
+
+One the tentacles slammed into the ground beneath me, another missed. The final one came flying down from above. As it slammed me downwards, I curled into a ball. Spines expanded from my back, jagged and strong as steel. They pierced into the tentacle before the tentacle below me turned over. A circular mouth opened, revealing a sea of teeth.
+
+The top most tentacle pushed me into the gaping mouth before the squirming insides of the creature appeared. The teeth above me closed. Saturated in red light, I pushed my arms and legs outwards. Two sharp, serrated swords grew from my palms, stabbing through the monster. With a surge of mana, a burst of strength exploded in my arms as I turned my palms in a giant circle.
+
+A rain of blood covered me as the cave appeared. The two walls of flesh separated as the kraken-thing roared in agony. The bleeding half of the tentacle retracted back into the water as I landed on the slippery ground. The detached tendril wriggled on the ground like a headless chicken. I stabbed my sword through the armor, draining it of the life force still there.
+
+It wilted in seconds before I turned back to the sea monster. The tentacles wavered near the water, more cautious than before. I stomped my foot into the ground, shards of stone splintering upward near my foot. As the deafening echo radiated through cavern, I picked up two pieces of stone. With a step forward, I tossed one of them like a javelin.
+
+The rock shot through the air before shattering against the monster. More a nuisance than a serious attack, I shot another boulder at the creature. The voice roared,
+
+“Cease your pestering and leave me be.”
+
+I frowned,
+
+“Odd how your kind is so open to fighting until you realize it’s going to be a challenge. Then you’re all about peace and rainbows. Pitiful.”
+
+Six tentacles rose from the water, arcing towards me. I grounded my feet, retracting the swords and pumping my mana into my arms. A tentacle slammed towards my right side, but I funneled force into my left arm. I pulled my right arm back, sliding on my heels before planting a strike into the tentacle coming towards me.
+
+Using a bit my telekinesis, I pulled the tentacle towards me as my fist hit. The teeth and eyes broke and ruptured as my fist landed. Muscles composing the limb tore, as the voice yelped. Another tentacle wacked towards my left side, but I turned on my heels again. Twisting on my feet, my fist drilled through the air before I grounded another strike into a tentacle.
+
+The ground beneath my feet cracked as my fist landed. Like detonating bombs underfoot, two clouds of dust wafted from me. An enormous implosion of sound ebbed from the tentacle, like a tank shell firing beside your eardrum. The force of the blow rippled through the tentacle, exploding out the back of it.
+
+The skin at the other side of the limb split. Flesh ruptured out of it, leaving the tentacle attached by a sliver of skin. A tentacle neared me from above, but I pulled my right arm backwards. Another channel of power formed as I kept my elbows tucked, turning like a top on my feet. The tentacle slammed on me, but I stepped forward with my right foot.
+
+The foot stomped into the ground, forming a cloud of stone dust. The force off the stomp traveled up my foot. I turned my left heel, the weight of the stomp pulsing through my core. Like a gunshot, my left fist landed a fierce uppercut into the creature.
+
+I dug deeper into the ground as another blow landed. A fissure formed beneath me as my fist punctured the tentacle above me. The sheer impact made my knees buckle at just how cleanly the strike landed. A larger cloud of stone dust erupted along with another thunderous boom from below.
+
+Before I could stand up straight again, a tentacle wrapped around me. With an explosive jerk, it pulled me from my spot. I dragged against the ground, the deadly line of water coming closer.
+
+I slammed my hands into the stone, expanding claws into the ground. They held me for a second before chunks of stone cleaved from the ground. With the hunks of stone on my clawed hands, the line of black water grew.
+
+I dug my heels into the stone, the rock cracking. I stopped for another second, but another tentacle wrapped around the first, reinforcing it. The pull doubled in strength, jerking me closer. Before I slammed into the water, I inhaled as deeply as I could.
+
+That’s when the water surrounded me. The piercing cold, the all-encompassing wet, the suffocating embrace of the liquid was like the grim reaper whispering in my ear. The tentacle’s grip tightened around me, like the monster was reminding me where I was.
+
+The black brightened in a flash of light as a gargantuan eye opened right in front of me. Larger than the edge of my vision, the monster stared at me for a moment. Lifting the eye up, countless legs of insects revealed itself. Suckers lined the throat of the monster, like they wanted to pump out my organs.
+
+A voice echoed throughout the water,
+
+“Now, little lamb…You lay in my domain.”

@@ -1,0 +1,329 @@
+---
+id: a869f9da-3ba7-58a7-ad42-dff1d0ecec2c
+page-type-slug: story-chapter-royal-road
+title: "439 Kinsla Thane, the Fallen Avatar"
+slug: 0399-439-kinsla-thane-the-fallen-avatar
+partOf: the-new-world
+position: 399
+ownLength: 3850
+unit: words
+ownProgress: 3850
+publishedAt: 2025-06-18
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2365025/439-kinsla-thane-the-fallen-avatar"
+royalRoadId: "2365025"
+markedReadAt: "2026-06-29T21:35:03.606Z"
+---
+
+That gave me pause.
+
+“Schema defers to them, when necessary, but a pawn? What makes you say that?”
+
+The voice radiated with certainty.
+
+“A simple question. Where does mana come from?”
+
+Understanding washed over me.
+
+“It’s…The Old Ones.”
+
+Chapter Begin
+
+The general's voice carried disdain.
+
+“It’s good you’re thinking. You’re not as simple as you were when our organizations first met.”
+
+Ignoring the insult, my swarm of minds frenzied in thought. The Old One’s being the source of mana explained so much. For instance, how could someone summon enough mana that it to become a consciousness? It had always seemed like some horrible side effect of mana manipulation, and contrary to expectations, channeling mental energy resulted in an ego's dissolution, not its strengthening.
+
+Why? Why would thinking result in a mind eroding itself? Even more so, why would thinking generate energy in the first place? Several factors clicked into place at once as I asked those questions. The Old One's never gave out energy for free. A person needs to manifest a certain mindset first.
+
+Those mindsets correlated to different mana types. Ascendance called forth from rage, hunger, and hatred. It mirrored its source, Baldowah. He had always oozed ascendant mana whenever I visited his plane, and every time I channeled the mana, he gave it to me willingly. Primordial mana likely came from Eonoth. It held the insidious, tampering perfectionism of its maker, and in his star-ridden plane, I had felt the primordial glow from all angles.
+
+Like those energies, the other mana types were really summoning an Old One’s influence, and if it overwhelmed their minds, they became pawns for whichever Old One they were calling on. That could be how willpower and intelligence actually operated. Schema enabled ‘mana’ by simply loosening the pipeline between the Old Ones and a system user.
+
+Schema’s stats and upgrades helped filter mana, not increase it. This bonded the status screens with the mad gods and their proliferation. In the end, Schema was a tool of the Old Ones, acting as a filtration system for exceptional individuals. In many ways, the AI was a pipeline the Old Ones used, not the other way around.
+
+The general kept speaking.
+
+“This is why we fight the way we do. We never had a choice. Within Schema's system, we amass potential, power, and influence. Slowly, we become more entangled with the Old Ones. The mana leaves its caustic marks upon us, and, in time, we are turned into a plaything for them. Slowly but surely, we all are eroded by it."
+
+The general's voice carried a force behind it.
+
+"Including you.”
+
+I gazed at my hands and arms. I had always thought that eldritch and people were disparate. I imagined us as alternate existences with clear, definable differences. That wasn’t the case at all. We were all eldritch, every last person that entered Schema’s system. The only difference was that Schema organized the transformation so that we weren’t lost in hunger or turned inside out.
+
+Dread rose in my chest. I’d assimilated more mana than anyone I’d ever seen. Even Valgus hadn’t carved the cipher into his skin to make adjustments to his body. Horror pumped through my veins like venom. Like acid. Like poison. All this time, I fought against becoming a monster. I had believed myself different.
+
+In the end, I devoted myself to their cause, amassing and amassing until I was the perfect conduit for what the Old Ones wished. That realization arrived alongside a billowing well of panic that rose in my chest. In space, I could breathe no air, yet I heaved on the void. I covered my mouth, my eyes wide and pupils thinning.
+
+At that moment, I felt helpless. I was a cog in a machine larger than I could fathom, and I had fallen in line without knowing where it would take me.
+
+Questions ran through my mind by the dozen, trampling over my certainty. Had the Old Ones already entrenched themselves into my mind, becoming a part of me? Was I already under their thumb?
+
+Those thoughts gained ground as I reviewed my current plan. It was to simply become strong enough to overcome them. What if the Old Ones were beyond strength? What if that desire wasn’t something I wanted but was something embedded in my skin? It could be a result of all my cipheric tampering, my mind bent to their cause.
+
+I would be the ultimate avatar of their will. I would be a warrior honed to a sharpened edge and wielded at the world. I breathed in panic, the sensation swelling in my lungs. It burned, a miasma that melted me from the inside out. It left me sunken and weak, my limbs numb. Before it overwhelmed me, I swallowed it, the sensation like tossing something into a dark pit. No matter my emotions, I wasn’t actually this body.
+
+I was a dimension, the living space around this frame. At no point had I ever changed my soul with these augments, and I never would. I changed this entity that I summoned and occupied, like Torix did with his phylactery and vessel. It was comforting to think of my situation that way. With peace came skepticism.
+
+I raised my brow.
+
+“How did you verify this?”
+
+“We interrogated an avatar of Baldowah. They eventually disclosed that information along with further details. That revelation combined with previous records we remnants had from before Schema’s creation. We were able to ascertain the root cause from there.”
+
+I crossed my arms.
+
+“Then that’s how you were able to channel mana through Lehesion to power your system. You reverse-engineered the flow.”
+
+“Somewhat, but those aren't details you're meant to know. Regardless, Schema powers the vast majority of his alterations on us mortals using the Old One's mana. It’s how that machine powers the rifts, the dungeons, all of it. It leans against those giants, and it feeds us to them in time.”
+
+I doubted that. I already understood well that Schema used the dungeon cores for power as well, and their persistent release of energy made them superb energy sources in general. However, there was no doubt that Schema enforced and supported the use of mana in his system.
+
+The fact that Schema relied on the Old Ones for mana also explained how the AI stopped me from using primordial mana. Schema closed the pipeline between me and the Old One supplying the energy, rendering me unable to draw from the well. This could explain even more. For a moment, I altered between different dimensional wakes, feeling my personality alter. That was the Old One’s bleeding into my mind and persona.
+
+A chill ran down my spine before I squeezed my hands to fists.
+
+“How does any of that that change what Elysium is doing?”
+
+“It changes everything.”
+
+“All you've done is point a finger and howl that someone else is doing something unacceptable. In the same breadth, you go and steal the same power source and use it at will. In fact, you do that while desecrating other peoples' psyches for your own cause. How is taking over people’s bodies and minds any different than the worst-case scenario for Schema?”
+
+The voice took a breath.
+
+“That…Requires a bit of an explanation. Do you have time?”
+
+I spread my hands.
+
+“As long as you all stand very, very still, then yeah. Sure.”
+
+“Good. First, my name is Kinsla Thane. I’m an upper-class general in Elysium, and I’ve led several of our successful conversions of different planets.”
+
+I stared down with derision.
+
+“Mass murder. Good for you.”
+
+“I can feel the disgust in your voice. I would be disgusted, too, if I didn’t know what I knew. You see, I was an avatar of the Old Ones, like Yawm, Lehesion, or Valgus. I was as you said before – a tool. Something disposable. Something to be laughed at. I found a way out with Elysium, and I believe we can help salvage you and others like you from the same fate.”
+
+I laughed into the void of space, no sound rushing from my mouth.
+
+“I’m no avatar. You and your people are what tried, desperately mind you, to do that to me.”
+
+“That was a defector. We never intended on doing anything of the sort. In fact, this is our first time hearing about it. We’ve been trying to piece together what happened on L-7, but we couldn’t figure it out.”
+
+“You tried to put Valgus Uuriyah’s mind into my body, imprinting it over my consciousness so that you’d have an easily manipulatable puppet. From what I gathered, Valgus played you all, and I barely survived the encounter.”
+
+“We need to know. How did you kill Valgus? We didn’t believe it could be done given his unique constitution.”
+
+I let out a breath, no air in my lungs as I soaked in space.
+
+“I endured what he could not.”
+
+“Is it a reproducible method? Could we do it as well?”
+
+“I'm not telling you anything more.”
+
+Kinsla's pitch rose.
+
+“Whether you're on our side or not, we’re going to eliminate the Old One’s influence over us. It begins with weaning society off of mana. It ends with the death of every avatar and conduit of their influence.”
+
+I spread my arms.
+
+“Why haven’t you told me all of this before now?”
+
+“You were deemed a threat and a lost cause. We gave up on convincing you of anything since you ignored us completely after seeing what we did with Giess.”
+
+“This situation with the Spatial Fortress changes that somehow?”
+
+“Yes. We are trying to avoid losing people.”
+
+“Hm. You could’ve avoided trying to take this monster from one of my worlds. In fact, I have no guarantee that you all didn't accelerate this eldritch's growth for this express purpose.”
+
+Kinsla let out a sigh.
+
+“There aren’t many rulers that would complain about taking a Spatial Fortress off their planet.”
+
+I peered at their vessels.
+
+“I’m thinking ahead.”
+
+“So are we. We’ve run the numbers, and even if we lose billions, this entity will save even more lives in the long run. That's what this is all about - saving people. We don’t want to wage war with our people if we can avoid it.”
+
+I turned a palm to Elysium’s vessel.
+
+“Ah yes, using a giant eldritch to murder planets in your stead. The most classic method of saving people I've ever seen."
+
+Frustration seeped into Kinsla's voice in a slow ebb.
+
+"You know that's not what we're about."
+
+A caustic tone leeched into my words.
+
+"Tell me, why do people matter to you? You repurpose them and individuals all the time. It’s all a means to an end, regardless of what you lose along the way. By now, I'd say you're entire faction has nothing altogether. You're like that eldritch - a mindless entity hellbent on converting everything it touches into itself.”
+
+A silence passed over us. Kinsla spoke in a solemn voice.
+
+“We don’t want wanton death and senseless slaughter. Ivichia was the agent on L-7. She hatched that insane scheme all on her own. She was always a loose cannon, and she was trying to accomplish far more than her mission dictated. That’s why she failed. She was overstepping the mission and walking into territory we never agreed to tread.”
+
+I floated in space.
+
+“If her plan succeeded, you’d be saying something else entirely. All that matters, even now, are the results of the plan, not what the plan is. Not how it's done. Not what is lost along the way. That's the problem with you all. Your entire group simply takes the best possible short-term outcome in favor of long-term planning.”
+
+Kinsla took a pause to think.
+
+“You…You’re an enemy, but converting you into an avatar is counterintuitive to our goals. The last thing we want is more avatars. One of the largest reasons why I’m even having this talk is to stop you from becoming one.”
+
+Mana drenched over me in pulsating waves.
+
+“What makes you so certain I’m willing to take one of their deals?”
+
+“Because that’s irrelevant. Everyone who reaches the upper echelons of individual ability encounters the same threshold as you before having their individuality robbed by those monsters. Once taken, the possessed sentient will ravage worlds. You will ravage worlds in time.”
+
+Kinsla took a breath. His voice shook with resolve.
+
+“Daniel, I’ve lost people. Friends. Family. Even lovers. I’m not like you, who came from a newly systemized world. I'm from an old family, one that’s deeply entrenched in Schema’s systems. I’ve lived for millennia, and I’ve seen the turning of history, of cycles, and of patterns. I know it down to my bones. In the end, you either die, or you fall into their abyss.”
+
+Desperation filled his voice.
+
+“The avatars become tiny eternities of torture for their victims. They will carry more pain than entire species combined. They are monuments to suffering, and that is in store for us all, including you. If you’ve fought Valgus, then you’ve seen what becomes of us, haven’t you?”
+
+I remembered Valgus and the tortured psyche that lived within his body. It was a broken, desolate existence. I nodded.
+
+“More intimately than I’d like, honestly. It’s…Pretty bad.”
+
+“You’ve seen one piece, but you’ve never seen what can happen when they run wild.”
+
+“I can imagine.”
+
+“No need. I’ll describe it in detail. Entire planets are wiped to nothing. Species are relegated to less than servitude, their biology and souls warped into strange tools. We, Elysium, fight a construct that uses the Old One’s desires as fuel. It feeds us until we become mindless puppets for them."
+
+His voice rose, closing into anger.
+
+"And what does Schema do? It pretends to try and maintain some kind of illusion of societal order, but it's superficial and shallow. Schema's society is brutal and without law. You’ve seen it. Your species has been at the mercy of it from what our encampment could tell.”
+
+I narrowed my eyes.
+
+“For now.”
+
+“You may intervene, but not every species has an outlier. The issue is that all Schema’s ever done is act as a catalyst for the Old Ones to use for proliferating those abominations' influence…To manifest, in all regards, the will of them.”
+
+I shrugged.
+
+“How are you any different from them?”
+
+“We aim to rip out the cancer and purge it. We’ll eliminate our reliance on mana. Once we’ve developed a functional society without it, we’ll handle the eldritch threat. After we’ve created a harmonious cleansing system, we’ll eradicate the avatars of the Old Ones and maintain the order we’ve made. It's that simple.”
+
+I rubbed my temples with my hands.
+
+“The Old Ones rob us of individuality, using us as tools and fashioned for some esoteric, archaic purpose. You have a different endgame, but you still rob people of their individuality and make people into tools. I’ve seen it firsthand, and it’s horrifying. You use the same methods, then say you’re different. Take a moment and look in the mirror. Think and dwell on what you’ve done.”
+
+A storm brewed within me.
+
+“It’s unforgivable.”
+
+“It’s the only option we’ve ever had, and we’re taking it to get out of this.”
+
+“What guarantee do you have that your goals won’t change? That your values and principles are so immutable that you won’t end up worse than the Old Ones? From what I’ve seen, you’ve already crossed that line long ago.”
+
+Kinsla's telepathic connection rippled.
+
+“We’ve made hard choices. So have you.”
+
+My voice heated from ice to acid.
+
+“And that’s what it boils down to. You’re trying to accomplish something grand, but conventional means simply won’t work, right? How is that different from your rogue agent? You have to bend the lines here and there, but you’re going to pull back eventually, right?  Let me tell you what that is – unbridled ambition."
+
+I seethed.
+
+"You’ve concocted a goal as grand as you can conceive, but it’s well beyond what you can actually do. In the attempt to accomplish it, you’re going to undermine your goal with how you’re getting there. If you bite off more than you can chew, you choke. You, no, Elysium is making the situation worse than it already is.”
+
+“Do you expect us to let them consume us from the inside? To do nothing?”
+
+“I expect you to do what you can. If anything, a little humility would go a long way. Honestly, who the hell do you all think you are, robbing everybody of their minds for your own purpose? They deserve to be their own.”
+
+Kinsla’s tone rose in pitch.
+
+“You think we’re arrogant? We’ve made every concession imaginable to make the difference we have. We hold no false illusions of grandeur or some semblance of pride. We’re filthy. We’ve enacted horror, as you’ve said. But we do it for a reason, and we’re trying to change the fate of all worlds, not just our own.”
+
+I shook my head.
+
+“I’m trying to make only one world safe, and I’m barely holding on. Elysium is trying to turn the universe’s trajectory around, but you can’t do it this quickly. You’re making the same hellscape that the Old Ones are.”
+
+Kinsla’s voice turned to steel.
+
+“Look at the Spatial Fortress in front of you. This entity has consumed billions of people in your world, and why? Do you think we’re the reason this is here? It’s the Old Ones. We’re crossing lines that should never be crossed, but when you fight against literal monsters that swallow the surface of worlds, then concessions must be made to simply survive.”
+
+I gazed at the endless monster, a moon of teeth, eyes, and pulsing flesh.
+
+"Billions? We lost a few thousand, according to my reports. And even then, you fill this blight with wires and the orange liquid. You conquer its mind and send it off to do your own bidding. Are you telling me its purpose is different because it’s yours, now?”
+
+“It defends the worlds we’ve saved. It’s a guardian that isn’t devouring Vagni as it was mere moments ago.”
+
+I roared.
+
+"You're going to send it to eat people. The only difference is why. No matter how you slice it, it's mass murder. And we had it contained. I could've killed it, given time."
+
+Kinsla snapped his words.
+
+"Really? Have you ever seen the planet you cared so much for?"
+
+I bit my lip before peering down. Below me, Blegara carried an enormous scar. Most of the surface still had oceans, but the eldritch horror left a third of the planet barren. No water touched the damaged patch’s surface, all of it having been swallowed by the behemoth. It left sand as glass and the seafloor as stone. No organic matter remained, the dissolution absolute.
+
+It would take years of channeling water from elsewhere to restore the planet back to its previous prime. Otherwise, the weather patterns of the planet would begin to suffer, and without intervention, it would be an ocean world no longer. I shook my head and spoke to Kinsla once more.
+
+“It’s because that monster can do this that I can’t let you have it. You reneged on what you’ve said before. You’ve earned no trust from me or anyone.”
+
+“Then millions of our people will die to satiate the lust for war you so clearly have yet so poorly excuse.”
+
+My armor grinned.
+
+“Is that what you see? A warrior trying to find an outlet for their rage…Am I so simple to you?”
+
+Kinsla mistook my armor for me.
+
+“You play as some senseless beast as if being a monster excuses anything you’ve already done. You’re a warlord whose only aim is to amass as much power as you can. Listen to me, Harbinger. I’ve walked that path. I’ve been down that same road. It’s lonely. Empty. A hollow pit full of empty promises. You need to make a change. You can’t continue following the same paradigm of amassing energy and influence. It leads to only one end, and I’ve seen it time and time again.”
+
+He talked as if he knew me well. He understood nothing about me, but still, Kinsla’s voice carried the weight of experience behind it as he spoke.
+
+“They will consume you from the inside out, like an eldritch virus. Remember this. That power - It’s not yours. It was never yours. It never will be, either. They own it, and the longer you let that desire for power drive you, the closer they get to owning you. They may wait but for how long?”
+
+Kinsla drenched in certainty.
+
+“In time, you will become their finest puppet. It’s only when you have the most certainty that you’re your own person that they’ll begin pulling the strings you’ve always had.”
+
+A chill ran down my spine, so I took a breath of the vast, empty space. It was hard to differentiate it from Earth’s thin air, both feeling like vacuums. I pulled my helm off my face, the armor flowing like liquid black. I peered at the depths of stars; my eyes sharpened from my stats. They gave me a view and vantage rivaling telescopes, the images filling my eyes like pictures from some renowned observatory.
+
+I let out a soundless sigh.
+
+“I’ll need to dance along a razor’s edge for a lifetime, but I’ll make it. Schema’s betting on me. Hell, I’m betting on me. No matter what you, Elysium, or the Old Ones think, I’m going to do this. I’ll drag them down.”
+
+I reached out a hand and gripped it into a fist.
+
+“I’ll be their infection, and I’ll kill them from the inside. So far, they've never stopped me, and neither can you.”
+
+Kinsla laughed.
+
+“Now, who’s insane? You honestly believe you’re better than the trillions that came before you?”
+
+“Not better, but different. I’m not like you. I’m not going to start carving the cipher onto people’s bones and then pretend I’m the good guy.”
+
+“Yet you bombed and killed millions on Giess for a cause you didn’t understand. Now, you aim to kill millions more. And why? Because we’ve cleared your world? Is that why you fight us?”
+
+“You've been mistaken about what will happen here. There will be no fighting. There will be no war. I will slaughter, and you will run.”
+
+“We will sacrifice while you will murder.”
+
+As he finished his words, the enormous flesh moon moved. It writhed along its surface with ripples larger than mountains. It began pulsing towards portals before I connected to Plazia. The hivemind hissed its thoughts.
+
+“You’ve wasted enough of our time speaking to the mad and deranged.”
+
+I scoffed.
+
+“You know as well as I do that we can multitask. Well, I’ve thought of how we’re going to kill that damn thing in the meantime.”
+
+“Know this, Harbinger - I will not touch it. It disgusts me.”
+
+I gazed at what was the sun for Blegara.
+
+“Oh, don’t worry. You won’t need to.”

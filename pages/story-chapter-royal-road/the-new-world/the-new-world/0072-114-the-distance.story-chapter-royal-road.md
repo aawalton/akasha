@@ -1,0 +1,399 @@
+---
+id: ed63cd74-8600-50b6-bf27-330eafe73a5e
+page-type-slug: story-chapter-royal-road
+title: "114 The Distance"
+slug: 0072-114-the-distance
+partOf: the-new-world
+position: 72
+ownLength: 5364
+unit: words
+ownProgress: 5364
+publishedAt: 2018-04-24
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/210601/114-the-distance"
+royalRoadId: "210601"
+markedReadAt: "2026-06-29T21:23:19.519Z"
+---
+
+Hearing the words made me want to panic, but I stayed calm. I took a step back from Keeja,
+
+“What do you mean run?”
+
+Keeja’s head twitched. A moment later, I walked forward and placed a hand on its shoulder. I dug my armor through its skin, finding portions of eldritch and something else beneath its skin. Using my armor, I sapped up the clumps. As I did, Keeja’s hands shook.
+
+More tears fell from the thing’s eyes before I finished the process. Once done, I let go of its shoulder. It shook for a moment before the sunken eyes opened. The two orbs stared at me. Keeja grabbed the sides of its face before shaking. A moment later, it spoke with the same raspy voice,
+
+“I...I’m back.”
+
+I nodded, “Yeah. I figured you were completely fucked like the other followers. I cleared out most of that stuff going on beneath your skin. Sorry if it hurt.”
+
+Keeja shook his head, the bloodshot eyes quivering,
+
+“No no no. Do not apologize. I was lost. I had sunken in so deep...Where am I?”
+
+I gestured around us, “You’re in Yawm’s...I don’t know...castle I guess?”
+
+Keeja shivered at the name. I leaned towards Keeja. I placed a hand over his shoulder, “Calm down. I’m guessing you don’t know where you are. First, tell me your name and we’ll sort this out, whatever it is. Baby steps first.”
+
+Keeja stopped shaking. He shook his head before turning towards the ground,
+
+“I’m....I’m Keeja.”
+
+“So Yawm used your actual name?”
+
+“Yes. He did the same with all the others.”
+
+“Others?”
+
+Keeja nodded, “Yes. The others. We were all lined up. He was putting us on steel tables and using us for...dark things. Something about tears.”
+
+My eyes narrowed, “Tears eh? Yawm did mention the tears project. Does the name Althea ring a bell?”
+
+Keeja looked up at me, nodding with vigor, “Yes, yes! She was...sweet. I liked her. I don’t know if she remembers me. We were both a part of a tribe. It was...a bad place. A dark place. I thought it couldn’t get worse, but then it did.”
+
+I walked Keeja over towards the chair I sat in. I let him sit. After he had, I sat down and created a gravity well beneath me as I did. I floated in the air, comfortable while I gestured a hand towards him,
+
+“Go ahead and talk. I’ll listen.”
+
+Keeja nodded, his movements jittery and nervous.
+
+“Ok. I’ll talk. I don’t know what to say. I’ve been floating inside for so long...”
+
+Keeja pointed at me, his back hunched, “It was after they put me on the steel table. They put...something inside me. The tears is what they called them. It changed me. I couldn’t be the same anymore. I started seeing things. Visions came into my head.”
+
+Keeja raised a hand, looking at it, “I saw the future and the past. I saw time before I was born. I saw after I’ve died. I saw many things. Most of them I didn’t understand.”
+
+I nodded, egging him on. He raised his other hand, looking at it like it wasn’t his,
+
+“Then Yawm came...He changed me. He cut me open and wrote on my bones. After that, the visions went away. I stabilized. I gained, abilities.”
+
+Keeja pressed a finger onto the table beside him. He sliced through it as if slicing through the air,
+
+“I can cut through things. I can’t die like normal either. I’m different.”
+
+I frowned, “You honestly don’t sound that different from someone I know.”
+
+Keeja shivered, “Yawm made me more different. Once he finished with me, the...tears within took control. They muted me, pulling me inside. I haven’t left since.”
+
+I shook my head, “That sounds awful.”
+
+Keeja pointed at me, “You took it away though...I don’t know how...Blaaaagh.”
+
+Keeja’s back straightened, like he was struck with a bolt of lightning. He turned towards me, “They’re coming back...He’s calling me.”
+
+The black around his eyes returned, eating away at him, “I...I’m leaving...Don’t let him do what he did to me...to you....Run.”
+
+The sunken in eyes of Keeja returned, and his posture straightened. It was like he was a robot all of the sudden. He stood from his chair, bowing to me. He walked out of the room and closed the door as if nothing happened.
+
+I was curious about the situation, but I pieced the situation together somewhat. Whatever experiment that Althea was a part of, Keeja was a part of it too. Unlike her, he was a failure instead of a success. If I could learn enough about the cipher, I could free him. Having another assassin like Althea on our team would be a huge boon for us.
+
+With that in mind, I sent a message towards Torix detailing the situation and what happened. I explained how I survived Yawm’s encounter and how we weren’t at his mercy for now. I even put in some of the secrets Yawm told me. I trusted Torix with the knowledge after all.
+
+Once I finished that, I opened my armor menu and inspected the bonuses from the cipher.
+
+[Modifications - The dimensional fabric composing this structure has been modified with code from the dimensional cipher. The bonuses are as follows.
+
++72 Strength
+
++72 Dexterity
+
++80 Endurance
+
++6% to effect of legacies
+
++10 Willpower
+
++1% to internal motivation]
+
+They were solid bonuses, and I wouldn’t take them for granted. The legacy bonus in particular was compelling. Every percentage resulted in thousands and thousands of total endurance gained for the legion. Over time, that could build into a bulwark that our troops could rely on.
+
+By joining my guild, they would receive a massive boost towards durability. They could rely on it and invest into offense. The extra willpower was a nice benefit as well. Considering the negative effects of the cipher, the willpower bonuses would be pivotal in the long run.
+
+It made me glad I invested the way I did for my build. Even if the cipher and Yawm tried to break my mind down, I would hold steady. My willpower was very high, and not needing to sleep gave me an edge versus him.
+
+With that in mind, I thought up what would be my next step. It wasn’t working with the cipher. It was working on a new skill I gained, Anti-Gravity Manipulation. It basically let me create the opposite of gravity.
+
+If I was right, I could add it to my legendary skill and improve the power of my punches. Yeah, I know, leave it to me to think of a way to punch things to death better. My legendary skill revolved around it though, so adding extra umph shouldn’t be too hard.
+
+In this case, I already placed gravity vortexes over my fist. They would pull my fist into their face and their face into my fist. If I was right, the same effect could be added, just with antigravity instead. That way when their face pulled into my fist, I could add the repulsive force to my punch.
+
+With that in mind, I practiced with the concept. It wasn’t the easiest magic to master. Just using antigravity was weird. After a few minutes of trying it out, I used a simple idea for dramatic results.
+
+Antigravity was the opposite of gravity. Therefore, if I did the opposite of what I normally do to summon gravity, antigravity should pop up. As I visualized that concept, I pressed my fingers together then spread them apart. Instead of crushing in, I pulled apart. As I did, the fabric of space-time bended.
+
+It stretched out, pulling air out from a sphere in the room. I laughed after figuring it out, relief spreading across my face. I did it the same way the overseer had bent walls whenever we first joined the legion. If I was right, he was using anti-gravity just in a stronger form.
+
+After figuring out how to use antigravity on command, I created spheres in the room. These spheres would repel objects within the room. I called them gravity geysers instead of gravity wells. The reason was because geyser was the closest thing to an opposite that I could think of for a well.
+
+After getting used to creating these geysers, I spun them around. After an hour of practice, I could create flat, 2-D panels that repelled objects. Trying to touch a panel of it was like trying to press two resisting magnets together. They did not want to touch.
+
+Within minutes of doing this, I gained a new skill.
+
+New Skill Learned! Antigravity Vortex(lvl 1) - You learned an unnatural force, and now you bend it in unnatural ways. +1% to antigravity repulsion. +1% to ease of generating antigravity vortexes.
+
+It was basically the exact same thing as my gravity vortexes, just for antigravity. That’s why I learned how to use them so quickly. With that in mind, I practiced my legendary skill, Force of Nature. Instead of spawning gravity vortexes over my fists, I added the antigravity discs instead.
+
+They were weird. After throwing soft punches at the walls of my room, I hit them softer rather than harder. The repulsive force slowed down my fist on one side and pushed the wall away from my fist. After a bit of brainstorming, I tried something a bit different. I envisioned Kessiah standing in front of me throwing a punch.
+
+Whenever her imaginary fist landed on my face, I created an antigravity disc between us. The disc pushed my backwards, reducing the impact of her would be strike. It would have slowed down her fist too, as if she was punching through water. If I got that kind of response down to reflex, antigravity would act as another defensive layer.
+
+Thinking about it gave me other ideas as well. Why not use gravity and antigravity to speed up my movements? Sure, it wouldn’t be the most natural way to get around, but it could enhance my current movements. It would be like running up an escalator or swimming downstream.
+
+If I could master that, then I bolstered my speed and power quite a bit. If I slowed down my opponent the same way, bridging the gap in speed between me and Yawm might be possible. I could make it into an aura of sorts that sped me up and slowed down my opponents. Having something like that would be huge.
+
+Who knew, if I got it strong enough, It would be like a speed and slowing aura in video games. This was definitely a long term project though. Mastering this overnight wasn’t possible. I could make it into a unique skill though. With that in mind, I made gravity vortexes that followed my movements.
+
+As I went through the movements of punching, I created gravity vortexes to assist my movements. It was bizarre. Imagine you had telekinesis. Now imagine pulling yourself along like a puppet with strings. It’s pretty difficult, but this wasn't like using strings. It was like falling in the right direction, if that makes any sense.
+
+It wasn’t an intuitive way of moving, that’s for sure. I kept at it though. The concept was sound, and the potential was there. Using my mana better in combat was essential as well. Rather than just trying to regenerate damage, I could use mana to avoid damage before it happened.
+
+With that in mind, I grinded for about two hours before creating the wells in order wasn’t hard. Having my legendary skill at such a high level assisted tremendously with this. It made creating and destroying these vortexes simple.
+
+With all the gravity wells helping me move, it felt like every movement was easier. I sped through the room with little effort, my body shifting through complex maneuvers with ease. It felt like I was evolving my use of gravity from low grade to middle grade. Schema agreed.
+
+Skill unlocked! Gravitational Celerity(lvl 1) - By manipulating gravity, you enhance your movements. +1% to speed enhancement from gravity manipulation. +1% to ease of using gravity for movement.
+
+It was an excellent skill. If I read right, it would help with my movement out of combat too, which was a nice bonus. I leveled the skill for a bit, reaching level 10 before moving on to using antigravity in its place.
+
+It wasn’t the same. Gravity was like making streams of water for me to travel down. Antigravity was like bouncing around. Antigravity making the use of it intense and straining. It was like trying to bounce around from place to place. I also had to think in opposites.
+
+If I was moving forwards, I needed to create an antigravity vortex behind me. If I was firing an uppercut, then I needed to make the vortex beneath my elbow. In general, using antigravity was far harder than gravity. It was less forgiving, less intuitive, and less fun.
+
+It was a part of the process though. Sometimes practicing wasn’t fun. This was one of those times. I kept on the grind, maintaining my motions and using antigravity to help. After about four hours of the grueling task, I was getting the hang of it.
+
+Moving with antigravity was like using momentum. I had to chain my movements together, letting me abuse antigravity’s jerking. It let my reverse my jerking shifts. This let me glide around in unexpected ways. After another hour of that, I finally gained my skill.
+
+Skill unlocked! Antigravitational Shift(lvl 1) - You wield antigravity to snap yourself into motion. +1% to speed enhancement from antigravity manipulation. +1% to ease of using antigravity for movement.
+
+Once I got the skill, the process wasn’t quite as painful. It still wasn’t the funnest activity, kind of like trying run around in a bouncy castle. Another hour passed, and I reached level 10 in the skill too. At that point, I gained a rudimentary understanding of the skill. It let me use it for normal movement.
+
+Like that, eight hours passed in the blink of an eye. Considering Yawm didn’t know how long humans slept, I figured I had about two more hours left. Before I came back to him, I wanted to get a unique skill for movement. With that in mind, I used the gravity and antigravity in sync. It was brutal.
+
+Keeping track of all of it was like juggling on a unicycle. It was impossible, so instead of trying to improve at it, I tried getting other skills to make it easier. One of those skills was what I called latching. I performed the skill on accident with Hod during the fight with Elijah. I tied antigravity onto him, creating a temporary buff.
+
+It wasn’t an impossible feat by any means. After a few more minutes of trying to latch the mana onto something, I got a tangible effect. I snapped a gravity well onto the corner of a desk. A few minutes before I planned on visiting Yawm, I gained a skill.
+
+New skill gained! Mana Press(lvl 1) - You press your mana into objects, allowing you to maintain magic. +1% to duration of pressed mana.
+
+It was a simple yet effective skill. I tried pressing mana into the palm of my hand. It worked, letting me hold the mana in place. After a while, I pressed the mana onto various objects throughout the room. With each object, I tried out a different effect.
+
+I stopped whenever the chair and table were floating in the room. As I pressed the both of them onto the floor, a knock rushed from the door. I turned towards the knock, leaning on the table and chair to hold it down,
+
+“Who is it?”
+
+Keeja opened the door. Without a word, he pointed towards the hallway. I lifted myself off the desk and walked through Yawm’s ice palace. Along the hallway, the same phosphorescent fish glowed bright. They lit our walk before we reached Yawm’s study. Keeja paced up to the door and knocked on it. Yawm’s voice muffled through the doorway,
+
+“Come in.”
+
+I opened the doorway, showing Yawm’s study. Two chairs made of the pale ice sat beside his desk along one corner. Yawm sat there, enjoying a liquid from a cup. I walked up. As I did, Yawm turned towards me,
+
+“Ah, you’re here. I hope Keeja didn’t interrupt your rest.”
+
+I shook my head, “No, I was already awake.”
+
+“Then it’s good we didn’t waste any time. Would like some tea as we sat here?”
+
+Beside his was a cup full of brown liquid. I picked it up and smelled it. It was a very full, rich flavoring. It smelled like black tea mixed with mint. I looked at Yawm,
+
+“Is this, uh, cannibalism?”
+
+Yawm shook his head, “Your species eats mammals, correct?”
+
+I nodded. He continued, “This is no different. I ally myself with certain plants. Others I cultivate for my own use. In this case, I prefer an herb I found on a fringe world named Ostrebos. It leaves a cooling after taste. I highly recommend it.”
+
+Considering I was already immune to poison, I took a sip. The tea had a texture, like creamy milk. It was like drinking the smell of coffee, not the actual bitter taste. With my enhanced senses, I caught a few notes like hazelnuts and cream. After finishing the warm sip, it left a cooling sensation in my mouth.
+
+I’m not gonna lie, it was one of the best things I’d ever tasted.
+
+“This is delicious.”
+
+Yawm raised a cup to me, “I see you’ve good taste.”
+
+I toasted the cup to him. We took another sip at the same time. I sighed after finishing it, enjoying the relaxation. We sat there watching one of the transparent walls as fish darted back and forth in the deep blue water. After we finished our cups, Yawm turned towards me in his chair,
+
+“I enjoy tea before work. I’ve found that any good routine involves starting with something I enjoy. It becomes much easier to start a routine when it starts in a joyous manner.”
+
+Yawm pressed his mammoth hands together, each of them laying over the other,
+
+“Now let us begin by elaborating on the consequences of learning this language. I’m certain you’re curious about why the cipher is so dangerous.”
+
+I nodded, and he continued.
+
+“The cipher slowly disintegrates your fundamental understanding of reality. What I mean by that, is you cannot look at reality the same way. Have you ever heard the phrase, ‘Absolute power corrupts absolutely?’”
+
+I set my white cup on Yawm’s desk,
+
+“Once or twice.”
+
+Yawm opened his hands and raised them up to his chest,
+
+“It’s a simple statement, yet it explains many of the problems associated with the cipher. All sentient species share a few defining characteristics. One of those characteristics is a sense of morality. Most people’s morality is based on limitations. If they do something bad, an authority figure will come and punish them.”
+
+I frowned, “Yeah, but take that authority away, and you take their morality away. They’ll do whatever they want then.”
+
+Yawm nodded, “I’ve found that several of my prior disciples suffered from this fate. Once they mastered a few fundamental concepts, they went wild with power. They turned on me, so I handled them as I needed too. I tell you this because some mental preparation assists with handling the cipher’s allure.”
+
+I shook my head, “I’ve seen people go crazy without someone there to reign them in. I’m not one of those kinds of people.”
+
+Yawm pointed a finger at me, “We’ll discover that during this process. I would also like to discuss the consequences involving Schema’s system.”
+
+I leaned back in my chair while raising an eyebrow, “What kind of consequences?”
+
+Yawm waved a hand in a circle, like he was grasping for words,
+
+“The kind that...you may be concerned with, since you are a part of his world.”
+
+I crossed my arms, “Lay em on me.”
+
+Yawm took the tea and put it beneath his chin. Roots crawled from it, soaking up the herbal tea before he spoke,
+
+“Schema will leverage your use of the cipher against you. The threat of being exiled will constantly be used against you as you level.”
+
+I shrugged, “I expect it.”
+
+Yawm turned a palm towards me, “Schema will also use what you want against you. I had a family before becoming a breaker for Schema. Whenever I betrayed him and killed a sentinel, they were killed. If you have someone you value, they will be used against you by him.”
+
+Thoughts of Althea, Torix, and the others flashed through my head. I grimaced,
+
+“That sounds ugly.”
+
+Yawm sighed, “It is, was, and will be in the future. Schema is no stranger to diabolical methods for taking advantage of people. Learning the cipher comes with these consequences. Are you still ready to dive into learning them?”
+
+I shrugged, “I’m already this far. I can’t turn back now.”
+
+Yawm nodded, “An understandable approach. I find myself thinking the same thing with my own goals often enough.”
+
+A chill ran up my spine as he said that. I didn’t want to end up like Yawm, not at all.
+
+Yawm stood up, drinking the rest of his tea before setting the cup down. He raised a hand, the cup blipping out of existence. Yawm turned towards his desk.
+
+“Now that you understand the consequences and have accepted them, let’s begin.”
+
+He pushed a sheet of paper towards the edge of the table. He pressed his fingers together, and a pen materialized for his fingers to grasp. He set the pen there,
+
+“Now I want you to write out what letters you already know onto this sheet of paper. This will give me an idea of where we should start.”
+
+I stood from my chair and walked over. I grabbed his offered pen before turning towards him, “I don’t know much. I can already tell you that.”
+
+Yawm waved off my concern with a hand as he already started on his own runes, “Let me estimate your abilities for myself. I’ve found self assessment to be an unreliable metric of success in all ventures. Learning the cipher is no different.”
+
+I shrugged before opening up the portal for my grimoire. Yawm observed closely, but he didn’t comment on it. Not until I opened it up towards the black pages.
+
+“I’ve never seen a grimoire of that coloration. It’s an interesting artifact.”
+
+I nodded, “Yeah, I found it helps with understanding and remembering my runes.”
+
+I wrote out my letters as Yawm continued writing out his own. After an hour, I completed my second endurance rune, mimicking my previous one. Another hour later, and I carved out the strength and dexterity runes as well. I showed them to Yawm,
+
+“This is pretty much it.”
+
+Yawm opened a palm towards my grimoire,
+
+“May I inspect it?”
+
+I frowned, but I handed the grimoire towards him anyway. Some measure of trust was needed between us. Otherwise I wouldn’t even be able to function around the guy let alone learn something complicated.
+
+That’s how Yawm looked at my markings on my grimoire. They were complicated. He cupped his chin as he held the grimoire in a single hand. He murmured in his deep voice,
+
+“The detail in these runes is...astonishing. Are these really the only runes you’ve written?”
+
+“Well, uh, yeah. Besides for the runes about magic.”
+
+Yawm shook his head, “That entire language is a neutered version of the cipher. Schema teaches it for the utility it offers, but its potential pales when compared with the real language.”
+
+Yawm inspected the runes for another minute. As the length of time dragged on, I got nervous. After a while, there was a tension in the room. Wondering what was going on, I tapped Yawm’s shoulder,
+
+“Uh, what’s going on?”
+
+Yawm shrugged, “I don’t quite know. I’m just in awe at the quality of these runic inscriptions. If I had a word for it, I would call them clean. There is no waste or filth here. Every piece of the symbol is necessary, and that simplicity makes them beautiful.”
+
+Yawm turned towards me, “You have a talent for this.”
+
+I scratched me cheek, “Well damn, thank you.”
+
+Yawm handed my grimoire towards me, keeping the motion slow and precise. It was like he was holding a glass vase. I grabbed it from him before setting it down on the table. Yawm pointed at the grimoire,
+
+“Whoever you first learned your inscriptions from is a master. I would recommend maintaining your current approach. I picked up bad habits whenever I first started writing out the cipher. Over the years I’ve grinded out many of them, but the process was painful.”
+
+Yawm turned a palm towards me, “You don’t have to worry about such matters. Instead, I would focus on maintaining the quality of your transcriptions. Start with concepts and ideas you have a firm grasp on. As you branch out, keep that coherence with your other work.”
+
+I pointed at my grimoire, “Then I just have to keep trying to do this kind of thing?”
+
+Yawm nodded, “I believe that is your best course of action for learning the cipher. Once you’ve developed your style more, I will give specific lessons on certain concepts.”
+
+“Cool.” I turned towards my grimoire before forming my left hand’s index finger into a spike. With that spike, I carved out what I would add towards the endurance rune. Several more Hours passed like that, each of us working on our runes.
+
+If I ever had a question, I asked Yawm and he would give me a reasonable answer. There were times when Yawm asked me a question like why I was carving a certain way. It felt less like a teacher and master relationship and more like two students working together.
+
+I enjoyed the process much more than the straight on lecturing of Torix. Torix had his strengths, but listening wasn’t one of them. Yawm was the opposite. He had this awareness at all moments that surprised me. He was trying to learn, not teach.
+
+It wasn’t like he was on guard. It was more like he engaged himself with whatever it was that he was doing at the time. I wondered if I looked the same. I hoped I did.
+
+After several hours, Yawm’s head raised. He turned into a random direction. He set down his pen before clapping his colossal hands together,
+
+“Hah, hah! Finally, they’ve come. I’ve waited quite a while for this.”
+
+I raised an eyebrow, “What? Who?”
+
+Yawm turned towards me, “Levelers.”
+
+I set down my own pen, “Levelers?”
+
+Yawm leaned against his desk, “It’s a common phrase used among those searching for a class in Schema’s system. They go from world to world hunting strong monsters for experience. Whenever they have the opportunity for bonus experience, they jump for it.”
+
+Yawm glanced off,
+
+“I was a leveler before being classed as a Breaker. I wanted to become a Fringe Walker, but Schema saw through my plans. A Breaker doesn’t get to stay in one place for long. As a Fringe Walker, I could’ve stayed on a fringe world for decades. That would have jump started my research. It’s a shame really.”
+
+He turned back towards me, “In this instance, the levelers discovered the quarantine that Schema started. Doubled experience and material rewards are a powerful lure. Schema won’t even let levelers learn why a quarantine exists. Most assume it’s for the creation of a fringe world.”
+
+Yawm lifted his hands and stared at them, “Levelers always come to my quarantine zones, eventually. The rivers of blood I’ve spilled in their blood grow greater with each world I pass.”
+
+Yawm gripped his hands together, his hands shaking with a mad energy,
+
+“As much as I pride myself in my principles, I cannot deny my...fervor for a good battle. I can’t help but grow excited at the prospect of an excellent fight.”
+
+Yawm shook his head, “They often end far too fast for my liking, but they are excellent breaks. It’s good to let my inner demons out, I suppose.”
+
+Yawm sighed, his excitement building. He shivered for a moment before offering a palm to me, “My named ones have told me of a pack of levelers hunting them down. Care to watch me dispatch them?”
+
+I narrowed my eyes, “Hmm, thanks but not thanks. I don’t want to see people become mutilated.”
+
+Yawm wrapped his arm around my shoulder, shaking me, “Come! Do not deny yourself the sight of something like this. Are you not curious to see how I battle? Our own fight ended in seconds. This fight may be different. We will have to see.”
+
+Yawm let me god and pointed a finger at me, “Even if you decide not to fight them, they will fight you. You’re an unknown, correct? That’s no different than being an eldritch. You’re lich friend will be no different. Neither will Althea. They will hunt you all down for the experience you offer.”
+
+I raised an eyebrow, "I guess I'm lucky not to have felt the effects yet."
+
+“You are. Unknowns come with experience multipliers, rare trees, and all other kinds of treasure. Since I’m exiled, you’d do better trusting me than almost anyone else who is a part of Schema’s system.”
+
+Yawm raised both his hands, “It gets even better. Schema will give unknowns in his system enhanced rewards for killing other unknowns. When you’re a part of his universe and considered an unknown, it becomes a kill or be killed world! Rise to the top or become a corpse. Now isn’t that a fair and just ruler?”
+
+The bitterness in his voice was thicker than pudding. I grimaced, “Damn. I knew it was bad, but I didn’t know it was that bad.”
+
+Yawm nodded, “So don’t worry about them. I assure you, those levelers won’t worry one second about you. Now come, let’s give them a warm welcoming.”
+
+I glanced down at me runes, then back my hands. For a second, I imagined someone hurting Althea. There was a sudden, explosive anger in my gut. I can’t even explain it. It was a savage, primal sort of emotion. Whenever I thought about how much I hurt Althea, my stomach sank too.
+
+Yawm was right, as much as I hated to admit it. It wasn’t any fun, but this was a kill or be killed system that Schema put us in. Either I accepted that or I died. Besides for that, it would be interesting to see what a true galactic mercenary was like. I also wanted to see how I measured up to them.
+
+Who knew, they might even be a way of gaining a few levels. I sighed,
+
+“Alright. I’ll go with you.”
+
+Yawm slapped my shoulder, “Hah! This is good. Very good. Follow me. I’ll show them to you. I’ll even let you have the weakest ones.” With Yawm’s bloodlust fully unveiled he leaned towards me,
+
+“Leave the strongest ones for me, or else I’ll fight you in their place. I can deny one good fight, but two in a row? I won’t allow it.”
+
+I frowned, ”All I ask is that you talk to them first. These aren’t eldritch after all. You can actually reason with people.”
+
+Yawm narrowed one eye and widened the other, like he was raising an eyebrow,
+
+“What? Hah, if you wish. I assure you, they won’t listen to reason. Unlike the eldritch, they’ll lie and decieve you before stabbing your back.”
+
+He turned towards the direction of the levelers, “In fact, why don’t you talk with them instead?” The air around us crackled before turning a green tint. Radiation swelled before coalescing into Yawm’s palms,
+
+“It becomes self evident after a bit of thought about their circumstances. Levelers spend decades killing abominations. Tell me, what do you think those kind of people become, given time?”
+
+Yawm turned his head towards me,
+
+“I’ll give you a hint. They are monsters.”

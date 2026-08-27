@@ -1,0 +1,213 @@
+---
+id: dcf4dcc7-5c15-5a70-94c6-36c4d07145c4
+page-type-slug: story-chapter-royal-road
+title: "Chapter 122 – A Pearl Worth Dying For"
+slug: 0122-chapter-122-a-pearl-worth-dying-for
+partOf: the-magpie-and-the-archmage-monster-evo-litrpg
+position: 122
+ownLength: 2223
+unit: words
+publishedAt: 2026-05-13
+link: "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3389379/chapter-122-a-pearl-worth-dying-for"
+royalRoadId: "3389379"
+---
+
+For a moment, Liora thought that the fallen debris had squished her, and she was on the brink between life and death. But the next moment, she felt an incredibly strong pull. It felt as though her whole body, including her feathers and organs, was being pulled with massive force. A second later, the force disappeared, and she found herself standing on the ground, Cee next to her.
+
+It felt like she had to be moving, yet she was still and in a completely different location at that. The disconnect was so jarring that she instantly threw up. Cee wasn't doing much better. They both then learned that spiders can, in fact, vomit, albeit they both could have happily lived without that knowledge.
+
+"What the hell was that?!" Cee asked, flailing her front legs angrily. Her anger didn't remain for long. The motion must have agitated her… whatever sensory organs spiders had, and she vomited again.
+
+"I believed we were teleported," Liora replied, not even daring to move her head, lest the queasy feeling return.
+
+"Teleported… I hate it…" Cee said, slumping to the ground.
+
+For about ten minutes, the two of them just stayed in place, waiting for the queasiness to fade away. Only then did Liora dare to carefully look around, trying to understand exactly where they had been teleported to. It looked like a forest not too far from the seashore. She could see the sea far in the distance and hear the chatter of waves.
+
+"I don't think we're too far from Abylport," Liora guessed.
+
+"What if we were teleported to some forest on the other side of the continent?" Cee challenged.
+
+"I suppose that's possible…" Liora said. "But it isn't too much different from the forest near Abylport."
+
+"I would say that forests look much the same pretty much anywhere, but I think you're right. Teleporting requires energy. To get further, you need more energy. I doubt that whoever placed that spell on the pearl would want to load it up with enough mana to teleport the finder across the continent," Cee said.
+
+Liora looked down at the black pearl, which she was clutching in between her talons. The magical iridescent glow from before was completely gone. "It's convenient that it had this teleportation magic on it."
+
+"Do you think it was deliberate?" Cee guessed.
+
+"It must have been, but for what purpose… I have no clue. Let's think about this tomorrow. We should also get Renir charged up before we discuss any theories. He should be able to read the system description of the pearl."
+
+"Yeah, I'm absolutely exhausted. I'm weaving a web right there," Cee said, climbing up the closest tree.
+
+Liora put the pearl into her Inventory, turned into her magpie form, and flew up to the canopy, not too far from Cee. There she settled down and, before long, fell asleep.
+
+When she next woke up, it was dark outside. She had no clue how much time had passed, so she decided to give a mental prod to Renir.
+
+You awake?
+
+No response. It appeared that he wouldn't wake without a good jolt of mana to recharge him. Looking at Cee's web, the spider was curled up in the middle, not moving at all. Likely still sleeping.
+
+"Cee…" Liora whispered, wondering how deep the spider's sleep was. If she didn't respond, Liora would let her friend sleep for a bit longer.
+
+Cee stirred, her legs twitching lazily. "Is it time to wake up?"
+
+"I'm not sure how long we've been sleeping. I feel rested. Do you?" Liora asked.
+
+Cee stretched her legs out. "I think I'm rested enough. How's Renir?"
+
+"Nonresponsive," Liora said.
+
+"Let's try charging him up," Cee said, jumping over to the branch where Liora was sitting. "Pull him out. I've been itching to see whether something like this would work."
+
+Cee began hurriedly weaving a small web between the branches, finishing it in less than a minute. She then pointed to the center of the web. "Put him in the middle."
+
+"This looks like the sigil for mana overcharge. Are you trying to kill him?" Liora asked skeptically.
+
+"Of course not! There are only two rings, so the mana charge should be rather small. Just enough to get him to wake up," Cee said.
+
+"Are you sure about this?" Liora asked.
+
+"Yes! My magical instincts are telling me so!" Cee nodded her head.
+
+Liora was still skeptical, but decided to trust the spider. Gems were rather sturdy. Right?
+
+Nervously, she placed Renir's gem in the middle of the web.
+
+"Okay, let's back up," Cee said, jumping to a branch of a different tree.
+
+"Why do we need to back up?" Liora asked, flying over to her.
+
+"Oh… You know. Just in case. In either case, here goes!" Cee announced.
+
+The next moment, a small explosion came from the web and sent Renir's gem flying through the air.
+
+"What the hell?!" Renir shrieked.
+
+"Oops… Maybe we should have made the web on the ground," Cee said sheepishly.
+
+Liora was already rushing after falling Renir. She felt she wouldn't make it in time as a magpie, so she turned into her aethral form and dove after him at full speed. At the very last moment, she managed to catch him and pull up into the air safely.
+
+"Got you!" Liora said.
+
+"Thank you… I thought I was going to die. What the hell happened?" Renir asked.
+
+"Cee used mana overcharge to wake you up," she explained.
+
+"That's not a bad idea, but why the hell were you doing that on a tree?"
+
+"My bad. I got a bit too excited to see whether my theory would work…" Cee admitted.
+
+"I thought I was supposed to be the reckless one," Liora shook her head, turning back to her magpie form and landing next to Cee.
+
+"Let's not question the methods if everything turns out fine in the end," Cee said sheepishly, scratching her head.
+
+"How long was I out? I see you two have already made your way to the shore. What happened after I made that wall?" Renir asked.
+
+Liora and Cee retold the end of their battle with the zombies, how the cavern was collapsing on their heads, and about the pearl that had teleported them to the shore.
+
+"Interesting… I do have a theory. Tell me, did you two catch the names of the zombies?" Renir asked.
+
+"The System called them "Fallen Heroes" and their respective class," Liora said.
+
+"Fallen heroes… I suppose that's a rather apt name. The six zombies you encountered were actually an adventuring party. A famous one. When I was still learning magic, everyone knew about them. They called themselves the heroes of Velithra and would often travel from dungeon to dungeon, dealing with the most difficult monsters and finding the most valuable treasures. No other party had come close to working together as well as they."
+
+"How did they end up as zombies then?" Cee asked.
+
+"In mermaid city, nonetheless," Liora added.
+
+"Last anyone had ever heard of them, they were setting sail to a dungeon across the sea, but they supposedly got caught in a storm. Their ship was never found, but it appears they ended up in the merfolk city. And it seems that they did find one last treasure before perishing," Renir said.
+
+"So they must have been the ones who turned that cavern into a proto-dungeon," Cee said.
+
+"That is almost certain. The undead you fought were likely the crew of the ship. My question is, why would these adventurers, the strongest during their time, sacrifice their lives to guard the treasure? Their goal must have been to prevent the merfolk from having it at all costs, because the moment you touched it, you were teleported to the surface."
+
+"Why didn't they teleport themselves to the surface?" Liora asked.
+
+"That is the question… Something must have prevented them from doing so. Or maybe the mage set up a temporal teleportation spell on it," Renir said.
+
+"Temporal teleportation spell?" Cee asked.
+
+"It's a spell that is slowly charged up by the ambient mana. For a strong teleportation spell that might even take years to be fully charged and ready for use. So the adventurers set up the spell and created the proto-dungeon to guard the treasure."
+
+"Just how valuable is that pearl?!" Liora said, withdrawing it from her Inventory. "I mean, it is very pretty and no doubt exceedingly expensive, but there's no point in shinies if you die for them."
+
+"There must be more to that pearl than just the value. Clearly, it was paramount to keep it away from the merfolk. Give it here. I'll evaluate it."
+
+Liora put the rather sizable pearl, which she was holding in her beak, and pressed it against Renir, who was being held in her talons. Silence stretched on as Renir likely read the description.
+
+"Read it aloud," Cee urged.
+
+"I… I…" Renir muttered.
+
+"Was Cee's mana charge not enough to wake you up fully?" Liora asked.
+
+"I… I…" he continued.
+
+"I think he broke… Liora, do you still have the warranty on this gem?" Cee teased.
+
+"Chak-chak-chak!" Liora laughed at the joke.
+
+But when Renir still didn't respond, she was starting to get worried. Did the pearl actually affect him somehow?
+
+"Renir?" Liora asked.
+
+"I… I understand why the adventurers gave their lives to keep this pearl away from the merfolk. Should they have obtained it… The effects would have been disastrous," Renir muttered in horror.
+
+"Can you just tell us what the pearl does?" Liora said impatiently.
+
+Renir fell silent again.
+
+"Renir… You think I'm going to use it for something nefarious? I'm hurt! Do I look like an evil bird to you?" Liora puffed up her feathers angrily.
+
+"Yeah?! Besides, how bad could it be? Is it like a nuclear warhead packed into a pearl?" Cee asked.
+
+"What's a nuclear warhead?" Renir asked.
+
+"The most horrendous creation of mankind on Earth. Let's not talk about that. What Cee means is whether this is like a weapon of mass destruction?" Liora asked.
+
+"It could be used as one. Okay, okay, I'll read it for you two. I don't think you have any plans of grandeur beyond stealing more shinies," Renir said and read the system description of the pearl aloud.
+
+[Black Abyss Pearl (Divine Glimmercore)]
+
+[Divine Glimmercore of Divine, who had an unprecedented mastery over the water element. This glimmercore serves as the Divine glimmercore from which the user can either draw its power or revive the Divine.]
+
+"Divine Glimmercore?" Liora questioned.
+
+"Revive the Divine? What the hell is this thing?" Cee asked.
+
+"Okay, let me give a quick rundown of just how powerful this thing is. Frankly, I still can't believe it. I've never, and I mean NEVER, seen or held a Divine Glimmercore," Renir said, almost reverently.
+
+"Question. What exactly is a glimmercore?" Cee raised one of her legs.
+
+"Excellent question. As you two already know, normally monsters have glimmerstones within them. These glimmerstones are basically points of magical energy within their body. Small storage of mana, if you will," he said.
+
+"Is that why stronger monsters have more glimmerstones? They need more storage for mana?" Liora asked.
+
+"Exactly. The toads you killed in your forest only had one glimmerstone, hence why they could barely do any magic, and they were weak. But the cyclops had over 100 glimmerstones, and his magic was truly fearsome. But tell me… what is a monster to do when he gets incredibly powerful? And what if they are rather small in size?"
+
+Liora thinks. "That sounds troublesome… Their whole body would end up being made of glimmerstones, which I expect is impossible."
+
+"Exactly. It's impossible. But the System has come up with a solution. After a certain threshold is passed, a monster's body goes through a process of heavy compression. Usually during an evolution. During this process, all of the glimmerstones are compressed together and formed into a singular super-dense glimmercore," Renir explains.
+
+Liora blinks and looks at the pearl she was holding. "This… This is a super dense ball of glimmerstones?"
+
+"In simple terms—yes," Renir confirmed.
+
+Liora had the sudden urge to polish the shiny thing. No wonder she had felt such a strong compulsion to get it.
+
+"But it can't be used at glimmerstones, can it?" Cee asked. "To buy skills, I mean."
+
+"Why would you want to spend it?!" Liora exclaimed in shock.
+
+"Theoretically," Cee raised her front legs in defense.
+
+"You can. You absolutely can. The System treats 1 glimmercore as equal to 1000 glimmerstones," Renir said.
+
+Liora shook her head. "No, that can't be right. If it were true, I would have felt the boost from Glimmerlust, but I've felt no such thing."
+
+"Because this isn't a regular monster glimmercore. This is a glimmercore from a Divine. It has gone way beyond regular glimmercore and is likely far more valuable than just 1000 glimmerstones. You see, this glimmercore contains all of the powers of the Divine, which the person who possesses the glimmercore can use at will," Renir says.
+
+"Oookay, that's what the system said. So I assume it would allow me to use a bit of water magic?" Liora said.
+
+Renir laughed. "A bit of water magic? My dear, sweet Liora. This glimmercore would allow you to shape oceans!"

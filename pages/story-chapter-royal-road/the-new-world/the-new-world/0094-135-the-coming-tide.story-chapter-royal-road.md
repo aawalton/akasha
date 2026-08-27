@@ -1,0 +1,221 @@
+---
+id: b15bb9e8-f05a-54ea-8e31-219d5e551c7a
+page-type-slug: story-chapter-royal-road
+title: "135 The Coming Tide"
+slug: 0094-135-the-coming-tide
+partOf: the-new-world
+position: 94
+ownLength: 3413
+unit: words
+ownProgress: 3413
+publishedAt: 2018-07-16
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/234614/135-the-coming-tide"
+royalRoadId: "234614"
+markedReadAt: "2026-06-29T21:24:05.826Z"
+---
+
+Increasing the pacing of the story. Hope it isn't’t jarring. Let me know if it is.
+
+I closed out the message, biting my lip. Before anything else, I composed a message back to Amara.
+
+Dimension C-138, Harbinger of Cataclysm(Time: Undefined) - Thank you again Amara. I’m gathering dungeon cores and closing rifts around Springfield. I’m using them to max out my current potential. I will be working on improving my incantations of the cipher with the tips you gave me.
+
+As for the sentinel’s spear, Yawm didn’t get the tool to work again. He gave the spear’s power to his most trusted ally, Ajax Volan. I have no idea how he did it either, but I’m guessing it has something to do with the Tears of Etorhma. In all honesty, I still don’t know what the tears are exactly either.
+
+I’m sorry if this is unhelpful, but it’s all I know for now.
+
+I sent the message and brainstormed for a bit. With a bit of thought, I devised a simple plan. For now, forming the conduit between Amara and I was paramount. Her added mana generation would feed the cipher on my forearms. After coming up with a simple plan, I sent another message.
+
+Dimension C-138, Harbinger of Cataclysm(Time: Undefined) - I also forgot to mention this, but I have a plan for creating a conduit between us. It’s a simple piece of magic honestly. It will be a ring with a simple need of blood. Handing the ring to you in secret is the difficult part.
+
+I’ll need to create a distraction. Otherwise I think Yawm’s going to figure us out pretty fast. My idea is that I’ll come into one of your lectures tomorrow. I’ll create a hollow pocket in my armor and hide my ring within it. Something that eldritch do is they’ll walk near me, smell me, then say I smell like dirt.
+
+You can do that and while your smelling, I’ll mold my armor to hand you the ring to your hair. God, that plan sounds so weird. If someone took that shit out of context, they’d think I was literally insane. Anyways, let me know if you think this is a good or bad plan. Good luck.
+
+With those messages handled, I bit my lip. Breakers capped out at level 12,000. If five or six maxed out Breakers attacked us, we were in some serious trouble. Before making that assumption though, I opened my obelisk and researched some on breakers. After about an hour of reading, I changed my mind. We weren’t in trouble.
+
+We were completely fucked.
+
+Breakers gained many advantages when they took on their class. Their resistance cap raised by 2.5%, doubling their tankiness. They’re given arcane implants, giving them access to true damage dealing spells. They even get extra trees and skills designed for anti-personnel goals.
+
+In Schema’s system, they acted as the ultimate duelists and 1v1’ers. Even with a higher level cap, a Fringe Walker gets his ass kicked by a Breaker when fighting 1v1. If I guessed right, two maxed out Breakers decimated Yawm. With me helping Yawm, it took maybe 2.5 in total.
+
+It depended on how the fight played out, and on who got the jump on who. These next few weeks decided whether I might live or die. The gravity of the situation weighed on me, but I carried myself through situations like this before. Considering my track record, the odds were with me.
+
+I stood up, planning out my next plan of action. My cipher needed dramatic improvements. Making that happen required some serious, exponential increases in the cipher’s effects. In particular, antimagic effects proved the most valuable assets I could gain.
+
+Arcane magic dealt true damage, some of it dealing percentage based true damage. Even with all the health in the world, a coordinated assault of arcane spells disintegrated me. Cancelling that required some method of canceling magic. When I faced the levelers, they managed that feat during the fight.
+
+Who’s to say I couldn’t make it happen either?
+
+With this goal in mind, I opened my obelisk and researched antimagic. Within a few minutes, antimagic garnered a lot flack on online sources. Schema regulated antimagic to an absurd extent, giving it a bad reputation.
+
+The levelers I faced used a rare consumable given out by Schema for their immunity to magic. They lacked any true impunity to spells. The only true sources of antimagic came from gene manipulation and hereditary traits. Since Schema outlawed gene manipulation, only remnants gained access to antimagic for the most part.
+
+In other words, getting an immunity to magic wasn’t an option. I sighed, a bit of disappointment washing over me. I shook my head, brushing off my chagrin as I slapped the sides of my face. With no idea what to improve, I sent a message towards Torix, Hod, Kessiah, and Althea asking for advice.
+
+My explained my situation with the Breakers. A few minutes later, I got replies.
+
+Hod(Time: Undefined) - Hod miss Harbinger. Dry Man entertain Hod, but Hod not like spells cast at Hod. Hod not annoying. Hod insightful! Hod handsome and easy on eyes too. Hod get caught up in Hod’s greatness. Hod Digress.
+
+Hod think Harbinger need improve on what Harbinger already have. Hod not improve Dry Man skills. Hod improve Hod skills. Therefore, Hod know that Harbinger know what Harbinger need more than anyone...besides for Hod. Hod know Harbinger better than Harbinger know Harbinger. Hod not need tell Harbinger that though.
+
+Hod get back to practicing shade form. Hod beat voices in head with mental jousts! Voices get annoyed at Hod and leave, even when voices shouting. Hod learn simple fact to beat voices.
+
+Hod just need shout louder!
+
+Hod only hear Hod voice then. Hod solve problem! Hod wish Harbinger same good luck as Hod has.
+
+As I finished the message, I grinned from ear to ear. Even if Hod irritated me at times, he offered a refreshing humor in dark situations. After finishing his message, I opened Torix’s.
+
+Torix Worm, of Darkhill(Time: Undefined) - It’s good to hear from you disciple! Disciple might be the wrong term now, however. You’ve no doubt improved yourself dramatically since we last left. Your penchant for progress was always extraordinary.
+
+As for your continued growth, I am of the belief that you need to work with Yawm as a team. It sounds counterintuitive, but synergizing your own fighting tactics with Yawm might give you the time you need to progress past this sticking point. After a few Breaker’s worth of experience, you’d no doubt close the gap with Yawm.
+
+That’s assuming you’d still get experience for them. It also assumes you’re in a position with him were he wouldn’t mind fighting with you. My advice hinges on many assumptions, so take it with a grain of salt. That being said, I’ll inform you on what I’ve been doing while you’re gone.
+
+I’ve organized your guild.
+
+I’ve created a complex line of tunnels leading towards rifts further than ten miles from our mountain base. We’ve been training them by clearing these natural dungeons. I’ve told them that as they harvest cores, you’ll improve their legacies. No doubt your legacy’s improvement has nothing to do with that, but it motivates them nonetheless.
+
+I’ve been capturing eldritch as we’ve went, collecting an army. The legion were wary at first, but after a few weeks, their worry’s died down. We’ve even got a cavalry unit that rides eldritch into battle. With your legacy as a boon, these mobile fighters focus on becoming as tanky as possible.
+
+They rely on the base damage from their rifles and the eldritch for mobility. This makes them operate as tanks, mobilizing across battlefields and laying down suppressive fire.
+
+With Kessiah’s tutelage, we’ve created a unit that operates with close combat as well. Humanity takes well to fighting physically. Of course they utilize modern weaponry instead of their fists as you do.
+
+The eltari form our final group. With their natural flight, they work as our stealth unit. Althea’s been training a group of them, teaching them her own tactics. They’re not as bulky as humans are, but the Eltari’s long limbs synergize with kiting and technical fights. They're quite the lethal set of assassins.
+
+The Eltari also drop our vanguard units into the foray of a battle. It’s a tremendous sight seeing the battle in action. As a leader of armies, the vision swells my heart with pride. The fear in our enemy’s eyes is tantalizing as well.
+
+This is all to say, I’ve not been standing still since you left. When you return, you’ll own armies to lead. Look forward to it.
+
+I frowned at the last few sentences of Torix’s message. Controlling an army might sound fun, but in practice, it proved a stale endeavour. Remaking their rings, amulets, and enchanted gear loaded me down. At the same time, having someone else fight for me sounded pretty damn nice.
+
+For now, I withheld judgment. Althea replied next.
+
+Althea Tolstoy(Time: Undefined) - It sucks to hear you’re struggling, but I’m glad you’re still safe. It’s kind of crazy hearing you ask for advice though. You always kept your head down and did your own thing. Even if people told you what you were doing was dumb, you just ignored them.
+
+It’s worked so far. Why stop now?
+
+That’s what I think anyway. If it were me in your situation, I’d probably break down. I’d pull out my hair going crazy. If I didn’t go crazy though, I’d probably try and get one of those Breakers to get rid of Yawm for me. If that happened, it would be amazing.
+
+That’s me daydreaming though. Love you, and I hope your doing ok.
+
+I smiled at her message. Reading their messages raised my spirit, even if they weren’t helpful. I tapped my chin, reading over their messages once more. As insane as it sounds, I listened to Hod. As dumb as he spoke, Hod’s wisdom exceeded him.
+
+Out of our entire group, he invested the most into perception. Perception acted as a sixth sense, giving him gut reactions that were on point. Althea’s message echoed Hod’s, but it didn’t lay out any concrete advice. Feeding them information was risky because of Ajax. That’s why I communicated through these messages.
+
+I trusted Ajax as much as I trusted a viper hissing beside my neck. With all that in mind, I stood up and cracked my neck a few times. If my plan involved sticking to my guns, I didn’t have time to fuck around. I grinded out Force of Nature, practicing my gravitational disruption the entire time.
+
+Training that skill was never a waste of time. Force of Nature leveled at a linear rate. Leveling to 1,001 from 1,000 was as difficult as leveling from 10 to 11. During the training, I incorporated my new mythical skill, Hunter of Many, with my techniques. The skill let me hunt then pin my enemies down. Against people, it would be invaluable.
+
+After all, close combat was my main strength. Getting people up close was the hard part. Hours passed, and the day began again. After that, I took a class with Amara and Yawm. Yawm’s patience with her wore thin, but he stuck it out with me there. After that, we went out hunting for new eldritch and to refresh ourselves.
+
+This routine pervaded the next few weeks. I leveled at a slow grind, but the cipher kept my progress steady. The main boon for my build came from the dungeon cores. Not from the attributes mind you, but from the skill points gained from the dungeon cores. With the cores helping me out, I gained an absurd amount in Force of Nature.
+
+As I did, my gravitational prowess expanded. Within three weeks of this routine, I devoured my last absorbable dungeon core. We found quite a few eldritch Yawm experimented with. He reopened his laboratory, and during the night, the screams of eldritch ebbed out above the lake.
+
+It bothered me, but I preferred them facing his hatred rather than me. During this time, I remade my cipher several times. I never improved the cipher by a sizeable amount. Time seemed like the real marker of progress with the cipher. At least I learned a few of the more complex incantations from Amara through our messages.
+
+Time was running out soon though. At this point, a group of breakers showing up any day was inevitable. With all that pouring through my mind, I laid out on my bed after a core harvesting session with Yawm. I looked at my ceiling, interlocking plates of ice reflecting a blurred reflection of me.
+
+The bed Yawm gave us held my mass without a struggle. While not the softest material, not sinking into it was a triumph of engineering on its own right. When I asked Yawm about the fibers of the bed, he said they were complicated.
+
+The fibers were created by interlocking graphene and aluminum plates, weaving them into fibers. The way of making them soft involved making the strands of the fibers microscopic. On that surface, I glanced at my status.
+
+After every session with Yawm, I handled my status screen. It kept everything maintained and ready to go. With that in mind, I put all the skill points from the dungeon cores into Force of Nature. Once that was finished, I put my points into the Immense tree, unlocking the third tier.
+
+Planetary in scope, orbital in your strikes, you stand over your foes. They crawl, ants under your shadow, worms under your feet. Immense(Tier 3) unlocked! 15% of your total mass is added to your physical bonus damage. Unlocks the unique skill, A Titan’s Smile.
+
+Unique skill unlocked! A Titan’s Smile!
+
+A Titan’s Smile(lvl 1) - Most would judge you as unkind from your stature. Your aura tells them a different story. With leveling in this skill, reductions to your charisma from your size are reduced.
+
+Before leaving the tree menu, I checked out my other skill, A Titan’s Smile. It was a nice bonus, preventing my size from becoming a glaring issue. So far, the skills gained from the Immense tree worked like that.
+
+They gravitated towards quality of life rather than raw power. I gained another unique skill from the previous tier of immense, Hands of a Giant. The skill helped me keep my hands adroit and dextrous. Mass Manipulation helped me control my size to an extent. All these skills culminated into an advantage over other huge ass people.
+
+Hand’s of a Giant helped the most so far with day to day life. I spent a large chunk of my day carving out tiny detail in runic lettering. Having fingers the size of tree branches didn’t really help with that.
+
+With these newfound tools at my disposal, I opened my armor screen, finding the modifications. I enjoyed checking them before finalizing my status screen.
+
+[Modifications - The dimensional fabric composing this structure has been modified with code from the dimensional cipher. With mana, further bonuses can be applied. The bonuses are as follows:
+
++72 Strength
+
++72 Dexterity
+
++1,410 Endurance
+
++100% to effect of legacies
+
++705 Willpower
+
++50% to internal motivation]
+
+After inspecting them, I opened up Force of Nature to check that out too.
+
+Force of Nature(lvl 1,876) - You are nature given fury. Enhances all techniques and application of skills within this ability, including: Close Range Combat, Runic abilities, Telekinesis, Gravitation, Sensory Abilities, Bearing, and Draining Abilities.
+
+Bonus Attributes: 180 Strength, 180 Dexterity, 72 Constitution, 72 intelligence, 36 Perception. +18 to all attributes for having a 1,800 total in a legendary skill.
+
+Ability Bonus: +140%
+
+Mana Cost Reduction: 28%
+
+The percentage bonuses towards the ability and the mana reduction halved after reaching a thousand points in the skill. Even then, Force of Nature gave tremendous returns. The runes on my armor enhanced my abilities with time too. After that, I opened my status screen and found a few uninvested attribute points.
+
+As I invested them, a notification appeared.
+
+Previous save state downloading...Discontinued perk line opened...Old patch notes assessed...Requirements met...
+
+[Cancelled Perkline]Jack of All Trades(Have 1,000 or more in seven attributes before level 10,000) - Grants a 10% bonus to attributes with a neutral or negative multiplier.
+
+I raised an eyebrow as I read through the perk line. I blinked a few times after reading through it. The discontinued aspect of the perk came with my hacked system. Ever Schema exiled me, weird difference cropped up every now and again. This strangeness resulted from that. In this case, the perk looked pretty damn good.
+
+It boosted my lowest stats. If anything, the title of the perk was ironic as hell for my build. I specialized more in a single attribute than anyone I knew. I also had the most attribute points of anyone I knew too though. I shrugged, counting my blessings. With the attribute points gained from hunting eldritch with Yawm, I selected the perk.
+
+I put the rest of my attribute points into endurance and selected finalize. As I did, a deluge of vigor flooded through my system. I grinned, a dissonance growing in me. The body surrounding my mind lightened, no longer feeling like metal. My skin could now bend in my hands without a desperate struggle.
+
+At the same time, a clarity rushed across my eyes, my thoughts becoming clearer. Confidence coursed in my veins, my decisions no longer clouded by doubt. Complex concepts simplified. The horizons of my mind expanded.
+
+I breathed, twisting my neck and moving my fingers. I laughed, my voice pleasing my ears a bit. The general improvement was an intoxicating rush, like caffeine and adrenaline. Except in this case, I didn’t get jitters or anything like that. With Schema’s system, side effects didn’t exist.
+
+That’s why I loved leveling. Levelers hunted this sensation like a drug. Based on what it felt like, I understood why. Once the upsurge of improvement passed, I opened and observed my status screen.
+
+Level 3,566
+
+Strength – 3,488 | Constitution – 5,494 | Endurance – 21,861
+
+Dexterity – 1,474 | Willpower – 11,438 | Intelligence – 4,362
+
+Charisma – 480.5 | Luck – 1,485 | Perception – 622.8
+
+Health: 2.35 Million/2.35 Million | Health Regen: 3.1 Million/min or 51,934/sec
+
+Stamina: 1.4 Million/ 1.4 Million | Stamina Regen: 21,044/sec
+
+Living Dimension: 0.42 Trillion/4.30 Trillion
+
+Mass: 160,566 pounds(72,985 kilos~) | Height: 10’3(3.1 meters)
+
+Damage Res - 98.5% | Dimensional Res - 49.25%
+
+Phys Dam Bonus – 116,918% | Damage Bonus – 40%
+
+Event Horizon – 20,000 + (100% of your total health)/min
+
+My biggest improvements came from strength and my steady climb in regeneration. Yawm’s base stats still dwarfed my own, but he didn’t quadruple my strength anymore. By the time I finished my Immense tree and passed level 5,000 or so, I’d be able to battle Yawm. Well, at least physically. Beating out his antimatter bullshit would take a more creative solution.
+
+Even on a physical level, outgrowing Yawm required years of practice and training. The more I tried, the more I learned about the distance between us. For now, I kept my head down and grinded out my levels and skills.
+
+With that in mind, I lifted my legs and kicked up. I flopped off my bed, landing on my feet. As I fell into practice, a message appeared from Torix.
+
+Torix Worm, of Darkhill(Time: Undefined) - Since the levelers appeared, I’ve been monitoring the sky and areas near Springfield for strange activity. Something odd appeared near Springfield yesterday. While I discovered the approach of the object during atmospheric entry, I failed to identify it.
+
+It utilizes stealth and tactics that the levelers failed to implement. This tells us several facts of a sort. First, they understand a necessity for stealth. If they were investigating a normal quarantine, they wouldn’t be so difficult to locate. Second, by avoiding my detection, we know they have access to high level resources. Otherwise they wouldn’t hide from my probing eyes.
+
+Third, they aren’t here for eldritch. You and Yawm cleared out nigh all of Springfield. Nothing remains now. They would go elsewhere for rifts now. If they aren’t here for a normal quarantine or for the rifts, there remains only one other reason. It all culminates in an inevitable outcome.
+
+The breakers are here, and they’re hunting Yawm and you.

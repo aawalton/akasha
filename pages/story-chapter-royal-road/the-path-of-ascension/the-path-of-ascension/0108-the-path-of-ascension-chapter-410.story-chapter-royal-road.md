@@ -1,0 +1,229 @@
+---
+id: 3c337a96-13c0-565a-853c-dae519cb3439
+page-type-slug: story-chapter-royal-road
+title: "The Path of Ascension Chapter 410"
+slug: 0108-the-path-of-ascension-chapter-410
+partOf: the-path-of-ascension
+position: 108
+ownLength: 4430
+unit: words
+ownProgress: 4430
+publishedAt: 2025-05-12
+link: "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/2274545/the-path-of-ascension-chapter-410"
+royalRoadId: "2274545"
+markedReadAt: "2026-06-29T19:21:31.682Z"
+---
+
+Chapter 410
+
+The moment the last guard landed back onto their floating island, Matt and Liz immediately began moving through the Empire at unprecedented speeds once more.
+
+Matt was sure that even if it hadn’t started quite yet, the rats were about to start scurrying. But he was equally sure no one was ready for what they were about to do.
+
+Eighty two planets later, they arrived at a world adjacent to their target and Liz called out, “Get in formation. Prepare for battle. We’re going in hot. Take anyone you can alive but kill if you have to.”
+
+Their guards moved into their positions in a snap as Matt cast [Portal] to bring them above the teleporter. A moment later, Liz activated their override and they appeared in the adjacent world.
+
+The moment they were fully in reality, Matt cast [Portal] and shoved the floating island through with a burst of [Telekinesis].
+
+As they appeared before a mountaintop citadel, they immediately came under fire, with the floating island’s shields flaring light blue as they blocked the mana cannon shots. The otherwise innocuous estate had come to life, with half a dozen mana cannons appearing out of disguised buildings and scenic landscapes.
+
+On the surface, the estate was a vacation home for a Tier 20 of little note, but in reality, it was a training ground for the Circle of Ever Flame battle division, and one of their most important locations in this portion of the Empire. Mainly used for internal enforcement, this was where the more active members of the order were trained. Nardo’s information had it as one of the highest priority targets if the Society of Stagnation and the Ever Flame societies ever escalated to open conflict, and the six of them agreed.
+
+If anyone could get inside its system, it would be chock full of information for them to dig into. That was if they could take the base before the people inside destroyed everything.
+
+There was an argument for a quiet approach and having Allie, Zack, and Susanne hit the location, but they needed this building to fall in short order with no chance of failure, so they were doing it with their guards.
+
+Unlike the Marquess Galip battle, dozens of Tier 30 through Tier 40s— the facility's trainers— rushed out even as space started to fluctuate and twist.
+
+Matt activated his Domain Meld, interrupting the Domain-based movement abilities, even while activating the island's spatial locking formations. As a ducal capital, their island’s capabilities were robust, even when not accounting for Tier, and together, they were more than enough to prevent any and all of the society members from fleeing.
+
+After all, the initial incarnation of flying islands were war chariots for the Empire's nobility when they personally led armies into battles both internal and external. While the exact uses had changed as time passed and warfare evolved, the islands were still an Empire duke's method of projecting power.
+
+When space settled, it took on a fuzzy effect as reality started to warp on the entire planet, but Matt wasn’t done yet.
+
+[Cosmic Pressure] descended on the mountain range like a horror movie. As the spell took effect, all of the unenchanted mountains in the surrounding area crumbled under the increased gravity. Their ducal guards hadn’t been trained in Matt’s rhythmic pulses the same way Liz and Aster were, so he just kept it at a brutal but steady thousand times normal gravity.
+
+That slowed most of them down, and even a lot of the Tier 35 stumbled for a moment when they realized they could feel a skill from somebody 8 Tiers below them at all. A stumble their guards were more than happy to exploit.
+
+Trapped behind their walled formations, the defenders had the advantage of the estate’s arrays and boosting formations and that allowed most of the Ever Flame society members to keep their cool under the increased pressure, even if their worry was obvious.
+
+Matt and Liz’s ducal guards flew off the island under a light bombardment as the main mana cannons in the estate were firmly aimed at the floating island itself, leaving only the antipersonnel cannons to track and fire at them. After ten seconds of gathering mana, the massive cannon batteries unleashed it in four well-aimed bursts, trying to overwhelm a local portion of the mana shield.
+
+A good strategy, but one ineffective against them.
+
+The island’s shields went fully opaque in the area of the attack as the shield projectors were strained, but as quickly as they darkened, they cleared back up. The massive backup mana banks refilled the shields in moments.
+
+At the same time, the island's own mana cannons charged up in response. Instead of simple cannons, these were mana beam variants based on the mana cannons mounted on Matt’s armor, making them capable of channeling billions of mana every second. Billions of mana pulled from his storage ring that was prepared precisely for this moment.
+
+The air turned blue as unspent and radiating mana started to saturate the surroundings.
+
+One second.
+
+Two seconds.
+
+Thr—
+
+The estate's shields went from opaque to fully white until the shield generators exploded and the island's cannons stopped firing, so as to not destroy the evidence they so desperately wanted.
+
+The strongest Society of Ever Flame member present, a Tier 40, moved to attack the island, but Captain Kestrel, their guard commander, intercepted her. They both kept their power in check, as neither side wanted to see the slaughter of their lower-Tier members, but that didn’t make their battle any less fierce.
+
+When there wasn’t a clear winner from the outset, the two of them rose into space, where their spells grew in size and ferocity.
+
+Even as the two moved fast enough he could only see the aftershocks of their clashes, Matt trusted in the former general to come out victorious. And it wasn’t like just going to space would see them out of the spatial disruption zone. If the Society of Ever Flame Tier 40 wanted to escape into chaotic space, she would have to get well outside the orbit of the local moon; which was easier said than done when another Tier 40 was intent on keeping her from doing exactly that.
+
+A full thirteen Lizzes using [Coven Casting] cast [Ichorous Plague], further modified by [Analgesic], which caused the blood mist she had been dispersing into the surroundings to glow golden as it latched onto everyone except their guards, even the lower Tiers who were either cowering in the estate or unconscious.
+
+Normally, [Ichorous Plague] wasn’t something that could escape a Tier 35’s spiritual sense and would be quickly expunged. Since they were distracted in their desperate attempts to escape, and thanks to Liz’s Courtly Warfare boon, [Analgesic] managed to slip past their defenses with its effect of making blood spells harder to detect and purge.
+
+A few of the Society of Ever Flame instructors attempted to flee as well, but they were outnumbered and unprepared. Despite that, a few of them still managed to escape the net the guards had created. But with Liz being so intimately connected to them via [Ichorous Plague], the only thing they could try was to outrun the guards.
+
+At the same time, ice started to form over the estate, both protecting the lower Tiers and the equipment in the base from sabotage.
+
+Being so much lower Tier then everyone else, there wasn’t too much more they could do for the society members. Thankfully, only a few unlucky ones died from stray attacks, and in just a few minutes, the battles started to turn as their ducal guards either subdued or killed their opponents and moved on to help their fellows.
+
+Not that there was truly any question of who would win, as with Matt’s Concept keeping their guards’ mana regenerating, they could cast spells without fear of an extended battle, which gave them unexpected ferocity that helped overwhelm their opponents.
+
+The true end of the battle was signified by Captain Kestrel dragging the Tier 40 back. Rather, he brought back her head, but they didn’t really need any more than that, as a simple decapitation wasn't enough to kill a Tier 15, let alone a Tier 40.
+
+The guards threw everyone into the island's prisons, stacking them like cordwood to fit them all. This wasn’t their only stop, and after Aster brought the entire mountain— or what was left of it— into her spirit place for storage, they left just as they came.
+
+A few dozen portals later, they arrived at another location the Society of Ever Flame had in plain sight. This time, it was an auction house they controlled and used as a cover for the goods that their Society members got ahold of in their various schemes.
+
+It wasn’t illegal in and of itself, as it was an official auction house, but it was a cover for illegal goods and one of their largest and most important laundering methods, according to Nardo’s information. So important that the Society of Stagnation had been scheming on how they could take the auction house from the Society of Every Flame for centuries.
+
+If they could take it and get the records, they could trace millennia of the society's moves back to their members.
+
+Unlike the training ground, there were way more people at the auction house, but they made sure to try and round up everyone. A large number of people, mainly the shoppers nearest the exits, still escaped their net, but they captured nearly all of the workers and most of the shoppers. While it was unfortunate some got away, the three of them got what they wanted, which was all of the data storage devices in the facility.
+
+Society members tried to physically destroy them, and in some cases had succeeded, but Tholly and the other spies were confident in restoring enough to dig into the society’s monetary secrets.
+
+Returning to Palustris with an island full of prisoners was an odd experience, but the atmosphere was boisterous, with none of their own people having lost their lives and the operations going off without a hitch.
+
+Matt hadn’t considered it, but the experience was distinct from returning from a mission in the army. A successful mission felt good in both, but in the army, they were part of a larger organization. A win was a win from the planning teams, to the logistic personnel, to the actual fighting force, to so many others. But here, it was purely their duchy’s win, which made it all the sweeter.
+
+Instead of returning the island to the sea, they kept it floating high in the atmosphere as their and Aster’s people came in and transferred everyone to planet-side interrogation cells, where even the Tier 40 would find it difficult to escape.
+
+In space, far away from Palustris’ moons, Aster dumped the buildings she had taken just in case they had any traps or the like that might have somehow escaped their notice. It was unlikely, but they didn’t want Palustris or the two inhabited moons to be affected by anything the Society of Ever Flame might have prepared for whoever attacked them. Though someone stealing away the entire buildings probably hadn’t been high on their list of possibilities, it was undoubtedly on there somewhere.
+
+Liz pumped her fist as they watched their people swarm the buildings. “This was exactly what we needed. A good, solid win.”
+
+Aster agreed, “Too true. I’ve been thoroughly tired of waiting for the next incident to hit me from the side. I can’t properly focus on the dozen other projects I ought to be working on.”
+
+Matt didn’t want to be the bearer of bad news, but he felt he needed to bring them back to realistic expectations. “Even if this definitely proves it was the Society of Ever Flame targeting us, we are still going to be on the defensive. At least most of the time. Undoubtedly, the society will burn a lot of their assets as they try to slink back into the shadows, which will hurt them, but I doubt we are going to find a members list that will conveniently give us the leadership so we can go arrest them. If it was that easy, these kinds of societies would have been disbanded by the Empire or their competition a long time ago.”
+
+Aster swished him with her tail. “You're right, but you're also wrong.”
+
+Feeling through their bond that she wasn’t playing a prank on him, he asked, “Oh?”
+
+“Now that we have a target, a true target, we can start chasing down other leads, as well as working with people who are also enemies of the society. Sure, we’ll still need to watch our asses, but we will have targets to hit now as well. That's a huge step in the right direction. They will need to be watching out for us just as much as we were already watching out for them.”
+
+Matt agreed and said so.
+
+Liz, however, brought up an even better point. “How do we want to handle this? We can play this a few ways. With this blow, it's even possible we can even make a deal with the Society leadership. Historically speaking, they are often willing to pay to keep themselves out of open warfare like this. I don’t like the idea, but we do need to address and assess it as a possibility. And given our relative Tiers… well, it could take us a while to properly root them out is all I’m saying.”
+
+He nodded. His wife was correct.
+
+He just didn’t like it.
+
+Why should they bend to the whims of greedy assholes?
+
+“I’d rather not. It's not a hill I’ll die on, but I don’t like it. Why should we have to make nice with them after they took the initiative to attack us? And for what? Because we interfered with their ‘plans’? Cost them some money? That's bullshit. Absolute bullshit. Manny gave us carte blanche to deal with them as we see fit, but because they have Tiers on us, we just have to knuckle under? That’s—”
+
+Realizing he was getting heated, Matt forced himself to relax.
+
+Aster barred her teeth. “I agree. Manny told us to do what we wanted. Well, I want.”
+
+Liz grinned, her tattoos gleaming with power. “We agree then. The next question is, how do we want to handle all of the minions?”
+
+Matt shrugged, less concerned with the low-level fodder of the society. “For the lower Tiers, we get what we can out of them and then throw them into the legal system. Most of the society members we picked up from the auction house will probably get away with fines at most, given that being in a society isn't illegal in and of itself, and it will be almost impossible to tie anything major to them. As for everyone else, we keep them and squeeze everything we can out of them.”
+
+“And the people just at the market at the wrong time?”
+
+Matt frowned at Liz’s question, not having a good answer. Every member of the Society of Ever Flame would claim they weren't actually part of the society and insist they, like everyone else, were just shopping, which would make it hard to tell the guilty from the innocent, and he didn’t like the idea of imprisoning anyone innocent longer than was necessary. At the same time, he didn’t want to let any of the society members get away with such an excuse.
+
+The two conflicting desires warred with each other, but Aster came to the rescue with an answer.
+
+“Let's throw everyone from that group into an estate. A warded one, obviously. With guards watching them round the clock, escape won’t be any more possible there than in a cell, and the actual innocent won’t have to suffer as much. We can even compensate them with a ride back to Falter Sehen, as well as some money, when we are done with them. Besides, it might be useful to let a few of the fish escape our net and follow them back to their lair.”
+
+Liz made a noise that indicated she wasn’t fully on board with the reimbursement, but she didn’t argue.
+
+Plan set, the three of them went about getting what needed to be done, done.
+
+Liz went with Isabella, Esmeralda, and a few of their other spies as they started interrogating the prisoners. With her clones, she could get through them a lot faster than he or Aster.
+
+Aster, on the other hand, went with Jericho and the more technical spies and started digging through the still-frozen lairs they had transplanted. With her help, they were able to scan hardware that would have otherwise destroyed itself or been wiped during their assault.
+
+Matt went to assist in the brute forcing of the data Aster got out with Tholly. He was really just a glorified assistant using his [AI] to help crack the encryptions while feeding the spies’ own encryption crackers mana stones from his storage. The modifications and mergers he had made showed their weight in mana stones as his computational power increased a dozen times over.
+
+He couldn’t help but daydream about the full suite of mods he and Max had planned out to boost and integrate the [AI] into his subconscious. If [Encryption] and [Encryption Breaking] had been integrated already, this task would have been dozens, if not hundreds of times faster. But those were quite near the end of his list, as they needed to be tightly interwoven through the entire skill structure, including all the early merged in skills, for maximum benefit.
+
+Together, they managed to brute force their way into many of the Society of Ever Flame’s surface level systems, and even in just that small repository of knowledge there, they found a treasure trove of information.
+
+Everything would need to be verified and cross-checked to ensure it wasn’t bait left for anyone who got their hands on their systems to find, but they found a list of nearly five thousand low-level members. They even found a list of potential recruits with their various qualifications and reasons why they might be a good society member, which was a bit of an eye opening experience seeing what the society was looking for.
+
+It wasn’t just the down-on-their-luck and vulnerable, or the overly ambitious; those were present in the lists, but were a minority. Rather, the Ever Flame society’s targets seemed to be the quiet types who were otherwise unexceptional. At least outwardly. Their files’ notes had incredibly detailed reports on their potential recruits and almost all of them had some exceptional quality about them.
+
+In raw numbers it seemed impressive, but Matt had to correct his frame of reference. In just the Tier 5 or lower academies there were billions, if not trillions, of enrollees, and so finding twenty thousand or so exceptional ones hiding their greatness shouldn’t have been that impressive, but it still was.
+
+Seeing the numbers he was initially worried the society was much bigger than they had expected with just how much data they had gathered, but most of it was aggregated from other sources and not sourced directly.
+
+They had scouts that moved around and investigated people before any offers were made because otherwise, they would have had to have tens of millions of members, which would have been incredibly difficult to destroy.
+
+Matt did take note that these people were at risk and that he should do something to help them, even though he had no idea what he could do or how. He just knew he didn’t like seeing a secret society like the Society of Ever Flame targeting these children. Hoping Liz or Aster would have a better idea, he made a second note and continued with his work.
+
+It took them almost a week of going through the easily accessible data, but eventually they struck gold once again. It wasn’t a list of the society's highest members but it was a record of orders that referenced one of the people Raffi had been in contact with that had gone underground before they could arrest them. It was only a record of them selling some of their goods before they assumed a new identity, but it was the first solid link they had between the Society of Ever Flame and Raffi himself.
+
+Suddenly, all of Nardo’s other information became a lot more reliable and less likely to be him using them as an instrument of his own plotting.
+
+Once they cleaned out the least secure data, they started delving into the more secure storage, where they ran into much better encryptions that were much harder to break, which ground progress down to a halt as dedicated hackers needed to tease the information apart by hand. They still used and abused Matt’s [AI] computational powers, but it could take years before progress was made.
+
+Still, Matt had gotten what he wanted, and so rejoined Liz and Aster, who were working together to get through the prisoners.
+
+Thankfully, most of the auction house shoppers were easy enough to identify and therefore cut loose. They were just there for shopping and had much cleaner backgrounds, and therefore nothing to hide.
+
+Matt, Liz, and Aster’s concerns weren’t about stolen goods being resold or unofficial items being created and sold without the proper patent licenses. They didn’t even bother to charge those people, instead letting them get back to their lives as quickly as possible with some compensation in the form of mana stones above their Tier to cover their lost time and hardship.
+
+At least on the surface.
+
+They knew there were at least a few Society of Ever Flame members in the group they cut loose, but that was part of their plan. Their spies were tracking them and waiting for the moment they disappeared. Hopefully they would then track them to Society of Ever Flame safehouses or gathering centers, though the second was unlikely, as it was hardly a new tactic. But it was worth a shot.
+
+Best of all, they had caught several wanted society members who had changed their identities after being outed as society members on other failed high profile missions. Which would end up being quite the feather in their caps as they were processed for their past crimes. The Empire didn’t take kindly to the sort of high-level espionage that the societies often got up to, even if they couldn't always prove guilt or even catch the individuals.
+
+Sadly, the best source of information, the Tier 40 from the training center, refused to cooperate in any way even once she had a torso again.
+
+That just meant they would need to hand her over to the Imperial investigators, as even trying to cut a deal with her hadn’t worked. She seemed far more loyal to the society then Nardo was to the Order of Stagnation.
+
+The captures of wanted criminals weren’t the only feathers in their cap. The capture of an old dynasty loyalist and rabble rouser had broken on the news stations and burned through the Empire, making enough noise that his execution was rumored to be slated to be performed by the Emperor himself.
+
+It may have been over sixty thousand years since the old dynasty fell, but the public didn’t need to think too hard to know they wouldn’t have the lives they did if the old dynasty somehow regained power.
+
+The news also reignited the tales of the old dynasty and the unkillable rumors that there were still descendants plotting in the shadows to try and reclaim the throne.
+
+Unlikely, but technically possible, which was more than enough reason for the news stations of all Tiers to bring up old recordings and documentaries about the old dynasty and how they ruled.
+
+Either way, it was a merit for the three of them and everyone else involved.
+
+They had several messages from dukes waiting for them when they were done. Most were angry at their intrusion through their lands, or in the case of the dukes where the Society of Ever Flame bases had been, angry they had intruded without warning.
+
+Most of the ones they had trespassed through only seemed to want to use the incident as a way to make themselves known and were inviting the three of them to their dukedoms to ‘talk things over’, but others seemed genuinely mad and willing to press the issue.
+
+Liz just wanted to let the idiots report them to the Royals, but Matt and Aster talked her down.
+
+While it would be fun to see them get absolutely nowhere with such reports, these could also be potential leads. They didn’t want to risk an information source clamming up by being slighted like that, so the three of them set aside some time to go and visit everyone they had offended in person after the execution.
+
+Two months after they came back from the initial raid, Allie, Zack, and Susanne finally returned looking worse for wear, with Zack missing his human arm and Susanne having a massive, cauterized hole in the center of her chest.
+
+With Melinda still at Titan’s Torch, they were quickly put back to rights, but they were battle-worn and weary.
+
+As they told it, the first two locations they had hit had been normal enough, and they had gotten a lot of information, but the third had been a trap; a spatial fold that sucked them in when Allie tried to teleport them into the office building, leaving them trapped and fighting automated defenses for a solid two months before they managed to escape the Tier 30 facility.
+
+Still, they had gotten away with the goods, which was what the three of them cared about, even if Matt, Liz, and Aster felt awful for not being there with them as their friends tried to help them and got punished for it.
+
+But as Zack so eloquently put it, “What is another favor between friends?”
+
+Matt knew he was right, but he still made a note of it. Sadly, he had no real way to pay them back, as he would have helped them in any way he could before, so nothing had really changed.
+
+Still, their retrieved data was added to the backlog.
+
+Sadly, all six of them had to leave as they were ordered to attend the execution of Marquess Galip by the finally-reappeared Manny.

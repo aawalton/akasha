@@ -1,0 +1,183 @@
+---
+id: 5c6a0141-dcdf-5db4-b925-0c02ab2932dc
+page-type-slug: story-chapter-royal-road
+title: "Chapter 63 – Recovery"
+slug: 0063-chapter-63-recovery
+partOf: the-magpie-and-the-archmage-monster-evo-litrpg
+position: 63
+ownLength: 2056
+unit: words
+publishedAt: 2025-12-20
+link: "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2864149/chapter-63-recovery"
+royalRoadId: "2864149"
+---
+
+Liora wasn't going to allow another wolf-deer to become corrupted and possibly injure somebody else. Before the monster finished spawning, she had already flown up above treetops and Faded. She wouldn't give it time to realize what was going on. With all the power she had, Liora Skypierced the wolf-deer.
+
+Just like the previous one, it managed to jump aside at the last moment. But Liora had anticipated that and let out a loud croak.
+
+[You've successfully mimicked the skill <Paralysis Croak>.]
+
+The deer seized up, unable to move its limbs, and Liora Lunged at it, striking its leg. The monster tried to bite her, but her Aerial Agility allowed her to evade, swerving back up in the air. She concentrated, combining her attacks into Poison Slash and striking another leg.
+
+The wolf-deer yelped and stumbled to the ground. Liora Faded and went for Skypierce again. This time, it had no chance of dodging. There was no need to describe the mess left behind after the strike. One wouldn't be able to tell what kind of creature it was.
+
+[You've defeated <Lupus Deer – Level 10>. Experience gained.]
+
+"T-That was brutal…" Kiva exclaimed, staring at Liora, who, unfortunately, was covered in blood and other nasty deer bits. She wanted to wash herself so badly.
+
+Quite frankly, she felt like the ugliest bird in the world at the moment. Her feathers were half-eaten by blight acid and covered in dirt, blood, and other grime. She really hated the lupus deer.
+
+"Don't stop! We need to keep going before more respawn," Serena urged Kiva forward.
+
+Liora led them, while continuing her vigilant watch. She could see a few more lupus deer appear; however, they were too far away to notice the group. After what felt like far too long in Liora's opinion, they finally reached the hidden cavern.
+
+"There's no way we'll all fit in there!" Kalen protested, looking at the rather narrow opening.
+
+"We'll all fit!" Liora protested.
+
+"Let me check," Kiva said, and swiftly slid into the cave. After a moment, her voice resounded from the inside. "Oh! It's nice and cozy here. Totally enough for everyone."
+
+"You heard her. Let's go in before more monsters appear," Serena urged her brother.
+
+"But how do I get him in?" Kalen wondered, looking at the opening. There was no way two grown men would fit through.
+
+"We'll try to gently slide him in…" Serena said, although she didn't sound too confident. "Kiva, grab him from the other side."
+
+"I'll do my best, but I make no promises," the weasel girl replied.
+
+Kalen and Serena then tried to gently nudge Damien into the cave opening. The first problem was trying to squeeze him between the tree roots without moving him. He was rather broad-shouldered, not to mention that his injuries were mostly located on his shoulders and arms.
+
+In the end, they had to move his arms a bit, earning a pained grunt from the unconscious man. But Damien was finally inside the cave, Kiva barely managing to hold him without collapsing. Kalen got inside next, taking the heavy blond of her hands.
+
+"Liora, you go next. I'm going to seal the entrance," Serena said.
+
+Liora swiftly hopped inside, and Serena followed after her. The woman took a deep breath and then raised her staff. The ground trembled a bit, and sweat formed on Serena's forehead. A small stone disc slid out at the cave entrance and covered it. It was mishapped, thicker in some places and thinner in others, and there was a small gap left; however, that should be plenty to hide it.
+
+"That ought to do it," Serena said and sat down by the cave wall.
+
+"This is quite a nice place. There are even holes letting in fresh air, plenty of space. Just a bit dark," Kiva said, tracing her fingers over the narrow opening within the cave. "I wonder where these lead."
+
+"Not like we can find out. Even Liora couldn't fit in there." Kalen shrugged.
+
+"Let's just rest. We need to recover before we continue," Serena said, and everyone glanced at Damien. Everyone likely thought the same thing. How long would it take until he was able to move again?
+
+For the first night, everyone focused on rest and recovery. Humans got their sleeping bags out, setting up the place as comfortable to sleep in as possible. Damien got tucked into the warmest layer with an extra robe over him for warmth.
+
+He was shivering a little bit, and according to Serena, it felt like he was breaking into a fever. Oddly enough, the man woke up for just long enough to eat some food and drink, and then promptly fell asleep again.
+
+Liora felt peeved by that. She couldn't eat her fill of dried sausages; instead, they had to split them among themselves. Damien likely had more food in his Inventory, but he wasn't awake to share it, so what could they do?
+
+In reality, Liora felt angry about pretty much everything. She pestered Serena, Kiva, and Kalen for some water to clean feathers. But once they saw that she didn't want to drink it, they refused to give it to her. She cawed angrily. She wanted to clean herself, but how could she do it without any water?
+
+She could go out and search for it. In her Magpie Disguise, she could squeeze through the opening. But she was so tired, and she hadn't even recovered yet. So instead, they laid down on top of Damien, who happened to have the coziest sleeping spot.
+
+"Liora, you shouldn't sleep on top of injured people," Serena chastised.
+
+"Chak-chak-chak!" Liora protested. "I'm light as a feather. He won't even notice me."
+
+"Leave her be. I doubt he'd even feel her," Kiva said.
+
+Liora nodded. She wanted to sleep here, mostly because he looked like he didn't toss much in his sleep, nor was he snoring. Kiva tossed around a lot, Kalen snored, and Liora didn't want to bother Serena with her weight. And the cave floor looked uncomfortable.
+
+Serena did look a bit conflicted, but soon gave up the issue and went to sleep. Liora lamented her foiled feathers for a moment longer before she, too, drifted off to sleep. It was strangely comfortable sleeping on top of someone. Certainly warmer than grass or even in her nest.
+
+Liora was woken up by a low grunt and a gentle vibration from below. She ignored it. The blondie must be groaning in his sleep or something to such a degree.
+
+"What the hell is that?!" He suddenly screamed, and Liora felt herself being thrown off.
+
+She squawked angrily and flapped her wings to avoid colliding with anything.
+
+"Calm down! It's just Liora!" Serena jumped up to Liora's defense. Not that she needed defending. Damien was barely able to sit upright and groaned as soon as he did.
+
+"Ow… What happened? Why does it hurt so much?" Damien whined.
+
+"Don't you remember? That corrupted thing got you," Kiva said.
+
+Damien clutched his head for a moment, horror clear on his face as he remembered yesterday's events. He gingerly reached out to touch his injured arm but pulled back with a wince.
+
+"H-How bad is it?" He asked.
+
+"It's alright now. Liora purified the corruption, and we used a potion to stop the bleeding," Serena explained. "I suspect you'll be fine with some rest. Or if you have a potion of your own, then you can drink that."
+
+The blond man stared at Serena in disbelief, then turned his gaze to Liora, who was only half-paying attention to what was going on. Her feathers were still dirty, and not all of them recovered overnight. She supposed the System couldn't keep fixing her feathers forever. She would have to wait until the ruined ones fell out and new ones grew in their place.
+
+That made Liora remember about the fast-approaching seasonal molting. Oh, how she hated the process. Not only did she look like a half-plucked chicken for the longest time, but the new pinfeathers were incredibly itchy. She was not looking forward to it at all.
+
+"Wait… the bird… purified me?" Damien asked in disbelief.
+
+"Chak-chak-chak!" Liora said proudly. "Who else? Be grateful, human!"
+
+"Yeah, you were saved by a bird!" Kiva said with a smirk.
+
+"You all are just trying to pull my leg!" Damien said in outrage, but his outburst caused him to curl up in pain. A potion suddenly appeared in his hand, of a much higher quality than the one Serena had used, and he downed it quickly.
+
+"We wish. But neither one of us has anything resembling a healing skill," Kalen said casually.
+
+"It wasn't a healing skill. I believe the skill Liora used is called Purify," Serena explained sagely.
+
+"A nasty bird like that can use Purify?" Damien questioned.
+
+"Caw!" Liora protested. "Should I have left you to become an abomination?"
+
+"I think you should be a bit more grateful towards Liora. She also dealt with a respawning lupus deer all on her own and found us this hiding spot," Kiva said, putting her hands on her hips.
+
+Damien looked around, seemingly taking in his surroundings. "Where are we?"
+
+"Still in the same dungeon, hidden underneath some tree roots," Serena explained.
+
+Damien sighed, running his hand through his hair. It appeared that he was having an inner debate of sorts. After another moment, a piece of ham appeared in his hands. Was that in his Inventory? Just full-on ham. Liora's beak watered at the sight.
+
+"I suppose some repayment is in order. I shall share my food rations with you all during the duration of this quest," Damien said.
+
+"Chak-chak-chak!" Liora cheered, running up to him. "Now you are speaking my language."
+
+"Ugh… Can we wash the bird first? And wash ourselves? I feel filthy," he scrunched up his nose.
+
+"This cave didn't come with a separate bathing chamber, unfortunately," Kalen pointed out.
+
+"I suppose not…" The blond man drawled out, looking at Liora.
+
+Don't stare at me like that! It's your fault I'm so filthy.
+
+I wish I could see you. I bet you look hilarious.
+
+Shut up!
+
+Suddenly, Damien withdrew a flask of water from his Inventory and poured it on Liora.
+
+"Chak-chak-chak!" Liora cheered, puffing out her feathers and lifting her wings, letting the water seep through. "Yes! Thank you!"
+
+"Seems like you don't enjoy being dirty either," he noted.
+
+This human might not be so bad, after all.
+
+You're only saying that because he has ham.
+
+As if you wouldn't want to be friends with someone who has ham.
+
+"Is it alright to use your water like that?" Serena asked nervously.
+
+"This is a magically enhanced canteen. It will slowly draw moisture in the air and convert it to water. It can also purify any dirty water, so it's not an issue," he replied, pouring more water on Liora.
+
+She was thoroughly enjoying her bath, preening and cleaning her feathers.
+
+"Of course it is…" Kalen said sourly.
+
+After Liora was done cleaning herself, feeling like a completely fresh bird, Damien shared the ham among everyone. She was very happy that they had accepted the rich, pompous man into their party. It was paying its dividends in the form of delicious, delicious ham. This might have been the best thing she had eaten in this world yet.
+
+But sadly, all good things come to an end. With their bellies full and everyone rested, they had to resume their way to the badger. Serena removed the earth disc she had used to block the entrance with, and Liora emerged first, scanning the surroundings for enemies.
+
+Nobody was in their vicinity. However, far away into the distance, she did see a group of small creatures skulking around. Goblins. Unfortunately, that was the exact path they had to take to get to the badger.
+
+"Is everything clear?" Serena asked.
+
+"Clear," Liora confirmed.
+
+The other came out after her, still looking cautiously. Damien looked annoyed, since he was left without a proper chest plate and ruined shoulder pad. He couldn't fully rely on his armor to protect him anymore.
+
+"Do you see anything in the distance?" Serena asked.
+
+"Yes. Small. Green," Liora said, hoping that they would understand.
+
+"Dammit! Goblins," Damien cursed, and others also frowned. This would be another tough fight.

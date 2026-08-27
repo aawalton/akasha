@@ -1,0 +1,213 @@
+---
+id: 5d165935-03da-5e84-b38a-a14e06042785
+page-type-slug: story-chapter-royal-road
+title: "The Path of Ascension Chapter 279"
+slug: 0037-the-path-of-ascension-chapter-279
+partOf: the-path-of-ascension
+position: 37
+ownLength: 5001
+unit: words
+ownProgress: 5001
+publishedAt: 2023-12-01
+link: "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/1429001/the-path-of-ascension-chapter-279"
+royalRoadId: "1429001"
+markedReadAt: "2026-06-29T19:18:45.982Z"
+---
+
+Chapter 279
+
+Matt had to resist moaning as he scraped the last remnants of the tiramisu off his plate and plopped the fork into his mouth, even as Liz did the same for her cheesecake. Aster had already devoured her warm brownie with ice cream, and was sitting there trying to coax more food out of Aunt Helen, who seemed immune to her charms.
+
+Despite the deliciousness of the meal, they all knew that they needed to get to work. There was a war raging, and they needed to enter it.
+
+To that end, after thanking Aunt Helen and after getting a warm set of hugs, they left with an escort and boxed lunches to go.
+
+They wandered through the twisting halls of the palace until they arrived at a shuttle which would take them to the Tier 37 planet that neighbored the Capital. That was where the central Empire military base was located, and it housed most of the non-combat personnel who did the planning and logistics for the army.
+
+An army they were now a part of.
+
+The shuttle retrieving them was sleek, with chromed highlights on a dark blue hull, and somewhat unusually, both armed and with no visible thrusters. Generally, thruster-less craft were short-range only with underpowered flight, and low-power short-range ships rarely needed weapons.
+
+As they left the ecumenopolis of the Capital, soaring-past a half-constructed ring, Matt watched a dozen flyers surrounding and guarding the shuttle on its brief transit. They were some combination of overkill and a simple honor guard, but he didn’t know which was most important.
+
+He briefly caught sight of the orbiting infrastructure of the Capital as they flew past, the deep storage bays, the innumerable telescopes, even a few of the hotels and apartments that housed some of the cheaper living space within proximity of the center of imperial government.
+
+It was when they were getting close to The Docks, the center of military might in the Empire, that Matt became seriously impressed. From quite a distance away, Matt could see the orbiting weapons platforms with guns the size of rivers, hundreds of mile-long battleships, attendant auxiliary ships, and glittering swarms of fighter craft going through drills, all circling above the continent-spanning factories and shipyards that made up large portions of the planet. Even as they approached, he saw a newly-minted ship, bristling with gun turrets, lift off from the surface to join its sisters in the void.
+
+Far too quickly, their ship landed in the more administrative area of the planet. He was almost sad that their retinue and ship had sped them along through what must otherwise have been an hours-long clearance to enter. The weaponry he could see even now wasn't just for show, and security didn’t typically mix with speed and convenience.
+
+The moment the doors opened, Matt felt a wave of dry heat hit him, but more than that, he saw one single man standing there. At Tier 22, his [AI] identified him as General Darrow and their direct reporting officer. The man himself was simply but cleanly dressed in loose fitting fatigues, with dark skin and close cropped black hair. But most notably, he had a third eye in the center of his forehead which never stopped swiveling around its socket. It briefly paused to inspect each of them in turn, and Matt felt a slight chill run down his spine as it fell on him. Before more than a second had passed, the purple eye went back to examining the rest of the surroundings, the blue pupil sometimes disappearing from view as it turned into Darrow’s skull.
+
+The three of them walked down the ramp to stand in front of General Darrow and went to attention, where they saluted him in unison. Luna had beaten proper military etiquette into their heads long ago.
+
+Instead of immediately returning the salute, he looked them up and down before circling around them until he returned to his place in front of them, where he went to attention himself and returned their salute, thereby freeing them.
+
+Nodding, he gestured to the side. “Follow me. We’re secure here, but not secure enough for my liking.”
+
+The four of them walked into the nearest building where General Darrow said, “Take a few moments to change into fatigues. It will help you stand out a little less.”
+
+When the three of them changed into the black and gray combat uniforms that soldiers wore when not in armor, General Darrow seemed almost surprised.
+
+Matt wasn’t sure why, but General Darrow must have read the question on their faces as he volunteered the information. “Two minutes in, and you have already surpassed the average Ascender in my command. I suspect you will understand more shortly.”
+
+Matt had no idea what to say, but Liz nodded. “You can thank Luna for that, General. Speaking of the other Ascenders, when will we be meeting up with them?”
+
+General Darrow turned and spoke over his shoulder, trusting them to follow. “Soon enough. If you would follow me?”
+
+Darrow led them through a dozen checkpoints, each manned by serious looking guards, with force fields over each door and scanners to check over every item they had in their rings and every cell in their body. Even that was the cursory version, and Matt saw them pass by several security checks uncontested, with the personnel saluting them as they approached. To his surprise, they came to a halt not in some grand meeting hall, but a rift.
+
+Matt opened his mouth, but General Darrow pre-empted his questions. “Our base of operations is indeed a Tier 35 rift. In addition to the security benefits it provides, the time acceleration is a tremendous aid for inter-mission recovery and practice. And to answer your next question, Captain Quill, it is possible to access a closed rift instance at this high of a Tier. You just need a particular kind of Domain or Talent to manage it. Sergeant Astul is one of our personnel capable of the feat, and here she is now.”
+
+Sergeant Astul was a Tier 35 woman in a military uniform, with light purple skin and glowing red eyes. She entered the room from a different door and saluted the four of them, her gaze unwavering. As she looked at Matt, he got the distinct sense of being hunted, but her posture was nothing less than perfectly respectful.
+
+“Well-timed, Sergeant. If you would?”
+
+Astul gave a curt nod. “Yes, General.” She rubbed a small scrap of fabric between her fingers while taking a long slow breath, then turned to face the rift instance. “After me.”
+
+Violet smoke wafted off the woman as they approached the rift, and as she stepped into the tear in the world, the smoke intensified, coiling around their little group and wrapping them in a bubble of swirling violet. Past the thin bubble was nothing but an endless inky void, with occasional flashes of color. They walked through the nothingness for a little while, until Astul paused at one of the flashes of color. A moment later, they were inside the rift.
+
+Or at least, Matt assumed it was the rift. The space they’d appeared in was entirely enclosed by a domed ceiling of featureless dark metal, illuminated only by a single white light floating just below the ceiling.
+
+A moment later, the entire dome simply vanished, leaving them on a stone pad
+
+General Darrow turned to them and said, “Welcome to Fort Lightfoot, home of Project Breach. Thank you, Sergeant. You may complete your hunt.”
+
+The woman saluted them, then vanished with a blur towards what looked like a bustling town in the distance.
+
+Matt turned his head around on a swivel as he took in the area around him. Instead of a military base with regimented buildings and simple designs, the place looked more like a resort. If it wasn’t for the squad of guards watching the rift entrance, he would have thought they had arrived at the wrong place.
+
+Everything was incredibly tamed, and while Matt couldn’t prove that it was artificial, everything had the familiar sense of ‘guided wilderness,’ wherein all the grasses and shrubs and trees looked like they were perfectly natural, but it was all just so perfectly aesthetic, it couldn’t be attributed to anything but human intervention. Grasses formed paths through flower bushes wide enough for a tank to drive through, hills kept the local landscape from being too flat, and a brilliant blue sky with neither sun nor moon lit the entire rift like something out of a storybook.
+
+To their left, planet-sized mountains loomed just a few thousand miles away, their foothills already larger than any non-rift peaks Matt had ever seen. A hundred miles to their right, a rich turquoise ocean stretched almost to infinity, but Matt could see nearly normal-looking mountains past them. Behind them, a forest slowly thickened and grew until each tree was thousands of miles tall and hundreds of miles thick. And in front of them, an idyllic meadow held host to a large town rife with signs of life. A small handful of ships were being repaired in a small hangar, a forge billowed red smoke into the sky, and an enormous field and orchard was loaded down with food and alchemical ingredients alike. Tiny people raced down wide streets, and even from where he stood, Matt could detect the faintly musky smell of enchanting materials.
+
+Out of the corner of his eye, Matt saw a flicker of movement, but when he turned, it was replaced with a dark spot out of the corner of his other eye. His spiritual perception didn’t agree, but he was certain he could see a shadow darting around the edges of his vision. Then, it vanished altogether.
+
+Darrow motioned for them to follow him, and Matt put the shadow mostly out of his mind as they followed the path Astul had taken. “Project Breach is the culmination of a half-dozen projects, all intent on assembling the very best of the best from the Empire for a single purpose, supporting no less than two Tier 25 Ascender groups. You three will be a part of Team Zero, alongside Captains Light and Shadow, and lead by me. I’ll determine the rest of the team, based on overall team synergy, ensuring all roles are covered and that the Team may operate as an optimal unit.
+
+“Now, to that end, we have assembled five other Teams, each fulfilling a single purpose and headed by the very best of the best. We have Academy graduates, near-Ascenders, army veterans, various super-soldiers, and elite delvers on call, each the very best in their field. Some operations will see you corresponding with one or more other Teams, so I advise you look to familiarize yourselves with them.
+
+“We’ve been in communication with your former Management team, and are fairly certain we have all the special resources you require on-hand, but if there is anything else you need, speak with quartermaster Ir’ba. But first, we have some administrative duties to attend to.”
+
+Matt took note of that and wondered what they could possibly need to do.
+
+As it turned out, a lot.
+
+Their first stop was the supply depot called Group Scroll, staffed by a cheerful-looking Tier 22 lieutenant, where they picked up a set of new storage rings. “Quill! Torch! Scoop! Man, this is so great. Anyway, I’ll try to stay focused! So, these will bind tightly to your spirits, and act as an additional form of ID. The raw storage isn’t the greatest, only about a thousand cubic feet, but you should really only be using them for unscheduled trips in and out of here. They’ve got all the usual security features, self-annihilation in the case of theft, a thousand and one defenses against intrusion, and they’re tough. Shadow herself couldn’t break one, and she’s probably the only person in the Realm who can break into one.
+
+“Now, before you use them, check in with Colonel Galanodel with Group Firmament to bind them correctly. They’ll explode rather vigorously if you don’t do it just right. Any other spatial rings you have should be brought in to be checked out, and if you have any personal storage abilities, please come by at some point so we can get some measurements. Some of our Rift Breachers have issues with excessive or unusual spatial storages, and we don’t want to send them to the medics if we can help it.”
+
+“What about our new arms and armor?” Liz asked, “When should we expect to get those?”
+
+The lieutenant paused at that. “So that’s a bit tricky,” she looked to Darrow, who indicated for her to continue. “We hope to get you almost everything you’ll need within just a couple decades. Um, in-rift time, that is. But, and I know from working with Allie and Light that you guys might not be used to it, but we don’t actually have items made for you yet. But we do have some meetings lined up to take care of that! Though… we don’t even know what you’ll actually need. We have a lot of skill shards for your consideration, and an allotment of upgrade orbs for you… where is it? I don’t want to get this wrong… there we go! So, you’re each pre-approved for ten Tier 14 upgrade orbs, but if you want more, there’s just a really easy form to fill out. Then you have twenty-four Tier 26 upgrade orbs, that one would be tricker to get raised higher, and three Tier 38 upgrade orbs for each of you. That last one will be real hard to increase the number for, because they’re pretty much always snapped up the moment we get any. They are rare and everyone wants them.”
+
+She shrank back slightly, as though worried that Matt, Liz, or Aster would react badly, then squeaked out an explanation. “It’s not that we don’t value you or anything, it’s just that, well, we have a lot of really high-priority requests for the orbs! And like, Command needs to make sure that they’re all going to good use. Not that you’re ever a bad use, it’s just that uh, we can’t really waste them on upgrading non combat spells or spells you only use once a decade? It’s uh, kinda a small miracle we were even able to track down nine, because well… they’re never not in high demand, but you should have seen my boss when he was told we’d need to equip three more Ascenders, and keep some on hand for other Ascenders or near-Ascenders that join up. Or not. Or maybe? Do you guys find high-Tier people getting mad and swearing a lot scary? Probably not, right? You must deal with crazier stuff than that all the time. But it’s kinda scary for me.”
+
+As if sensing she made things a little awkward, she added, “Anyway! We have most of those orbs basically on-hand. But, we only have two Tier 38 upgrade orbs in stock at the moment, though we have another one coming in next week, two more in about a month and a half after that, and the final four… with no expected delivery yet.”
+
+Three Tier 38 upgrade orbs. It was objectively so many, yet at the same time it was so few. Most people never even got one, but Matt already knew he’d be using one on [Cracked Phantom Armor], and one on [Regeneration], leaving only one more for him to figure out just what he would do with it… That would be a tough decision.
+
+“Is there a form to request more Tier 38 orbs as well?” Aster piped up, “Like there are for the 14 and 26?”
+
+“Teeechniiicaaallyyy yeeeees….” the lieutenant carefully teased out, “But it’s more of a really involved application, than a form to fill out. You need to explain what you want to use it on and what you hope to gain from it, and convince a bunch of the grumpy guys upstairs of all that, and then that gets put on a waiting list, and then you need to wait for a new orb to come in, so that can take a few decades to centuries, depending on how many show up.
+
+“Really? So long? Even though we’re Ascenders?”
+
+“It’s because of that, Ascender Scoop,” Darrow stepped in. “Rank-and-file have to pay a fairly substantial number of merits to simply have the chance to submit an application for a Tier 38 orb, and even when accepted, they usually wait a few thousand years before they finally get one.”
+
+The lieutenant nodded like a chicken pecking the ground. “It’s a bit tricky because yeah, you do get the three right away, but we’re so far into our reserves, it’s a wonder you’re getting that many. Then again, it’s not like you’ll be shoved to the very back of the line for the rest of it, so likeeee...” The lieutenant paused. “Mmmh, well I suppose you are put to the back of the line, but it’s pretty much the ultra-super-duper-express line, so does it really count?”
+
+“Oh,” that chastened Aster somewhat, but Matt could tell she was thinking about just what she’d use her precious few orbs on.
+
+“Anyway! Happier subjects!” she sounded almost a bit desperate to not be denying them something. “Lots of skill shards! The Empire has a really comprehensive catalog of every skill that we’ve ever encountered, and you can access the entire catalog on your AI or have a purpose built screen in some meditation rooms on the second floor. The entire dataset is… well, pretty massive. So massive, you’ll probably need a [Library] to keep from overloading your AIs if you are crazy enough to try and download the entire thing. But, there are some premade download dumps of the skills your Management team said you’d be most likely to want. That does include cracked skills that the Army has, at least ones that haven’t been claimed, by the way.
+
+“Uh, where was I?”
+
+“Skill catalogs?” Matt supplied, trying not to smile.
+
+“Right! Sorry. It’s been a big day. Um. Um. Right! So, once you find a skill that you think you might want, you can request it. Anything non-cracked up to Tier 32. For Tier 38 and cracked skills, you just need to submit a note explaining why you think that particular skill, or crack, particularly suits you. Then, you can each get up to… four Tier 44 skills, and two reservations. Oh, a reservation is a request for a skill we don’t actually have any of at the moment. You three are Priority A, so generally speaking you’d be the first to get a requested skill, and there’s just a couple of small forms to fill out for a reservation...”
+
+“There’s a lot more paperwork involved in the whole ‘open access to the Emperor’s vault’ thing than I expected,” Matt chuckled, a bit weakly. Still, the lieutenant shrank back like he personally blamed her.
+
+“There’s paperwork involved in everything,” Darrow simply responded. “But believe me, there is an incredible amount of paperwork you aren’t seeing with this. A century ago, I would have had to sell both legs for the ability to request a Tier 38 or 44 skill when I was a general troop commander. They’re basically just asking for the bare minimum needed to prove that our really rare treasures actually went to an Ascender.”
+
+“Yeah,” the lieutenant squeaked out, “That.”
+
+“What about new weapons, though? You mentioned they weren’t made yet, how does that work?” Liz probed, coaxing a bit more confidence out of the lieutenant.
+
+“Oh yeah. I did get a bit distracted there, didn’t I? So, over the next little while we’ll have you meet with a few members of Groups Branch and Firmament. They uh, handle things like additional training and consultation and the actual making of your permanent gear, respectively. Um, and Scroll. We take care of actually coordinating the stuff and things needed to get you your stuff! Anyway, they’ll talk with you about some of your needs and desires of what you want out of your official regalia, point you to a few options for crafters, steer you away from anything impossible, and then we’ll all coordinate the crafters needed to deck you out with everything. Some of that will probably involve leaving the rift as well. We’ve got a lot of stuff in here, but uh, it’s mostly focused on keeping Fort Lightfoot actually running, not equipping Ascenders. That will also discuss stuff like your growth items, which of them you plan on keeping in rotation and need to be Tiered up, and which uh, might be better replaced with something custom-made. That will all start tomorrow, though.”
+
+“Keep in mind, this is just in the military context, getting you equipped to be proper Ascenders. You’ll also get some rewards for actually completing the Path, but that’s something that you’ll need to discuss with King Rusty himself. We’re not involved with that.”
+
+Her eyes flicked back and forth as if she was reading something. “Yep! That is not my job.”
+
+There was a bit more after that, but it was mostly signing off on a bunch of miscellaneous papers, and nothing nearly so interesting as their new rings or the promise of more loot. They took a quick detour to a library attached to a massive smithy, where a blonde woman wielding a claymore identified herself as the head librarian, and helped them attune their new rings to their Domains. Attuned items were fairly common in the upper levels of crafting, both for the fact they ensured exclusive access to their functions, as well as the additional integration and power that could be derived from the usually custom-made gear. He’d never used one before, but he suspected that attunements usually took a lot longer than an hour to set up.
+
+Matt felt giddy as the four of them walked over to another section of the base. The assortment of random houses they passed told him they were close even as they made their way into a fairly grand building.
+
+A massive glass-walled circular foyer split into several hallways blocked off by relatively plain doors, and a circular design in the floor slowly transitioned into a magic circle at the center. The entire floor was bustling with people pouring into and out of the hallways, but they still gave way to the four of them. They did attract quite a few stares, but nobody actually approached them.
+
+Darrow led them to the center of the room and onto the magic circle, and a swirl of magic closed around them, lifting them up into the ceiling and out of the crowds below. Right as they were about to collide with the stone above them, it simply gave way, folding into itself and letting them out into an advanced meeting room.
+
+The far side was covered in massive, high-detail screens covered in several maps, diagrams, and numbers that Matt couldn’t understand. The center was an impressively large table projecting an illusion of… them, Matt realized with a start. It was a recording of their fight with Soddus and Girang, and Matt winced at the reminder of how much he’d shown in that fight.
+
+Well, it wouldn’t matter soon enough, at least.
+
+Around the table were nine others, loudly chatting about the recording, but quickly quieted down as they noticed Matt’s group having entered the room. He tore his attention away from the recording and instead scanned the new people
+
+First there was Light and Shadow, of course. Shadow was wearing a deep purple cloak, her face obscured in its shadow, and lounging across her chair with a leg tossed up on one of the armrests and leaning against… the backrest, but not in a way that should have worked with normal geometry. It was twisted off to the side and reclined in a way that Matt didn’t let himself get distracted by.
+
+Light looked every bit the part of his statue, with a piercing gaze scrutinizing them that carried a depth to it which Matt couldn’t easily identify. It carried with it a distinct feeling of judgment, of being assessed and found wanting. On the table in front of him was a thick, leather-bound book radiating power, and it closed itself with a clop as Matt watched.
+
+Next to him was a dark-haired man with an utterly beaming smile on his scarred face. His eyes were literally a glowing gold, a smile that Matt would have called too wide on anyone else, reaching nearly to the inanimate tattoo of a black flame right below his ear, and his spirit radiated utter glee. But despite the man’s obvious and nearly contagious excitement, he made no move to greet them besides a small wave. He was in a fairly elaborate leather outfit, a light tan in color with a few red highlights and a pair of plain golden bracelets tight against his wrists.
+
+Two women, leaning towards one another and chatting over their AIs, were the next along the table, one with long, blond hair kept back by a bandanna, and the other with mid-length violet hair in a ponytail. Both had heavily oil or grease-stained hands, but the blonde was wearing a fusion between a smith and enchanter’s outfit. A heavy apron laden with pockets, no less than three of which had different kinds of gloves hanging out of them, over a fairly plain blue robe that, unlike her hands and apron, was utterly spotless. The other woman was dressed in something more akin to a flight suit emblazoned with two nested semicircles meeting on the left where a nametag might normally go. Matt could catch a glimpse of a tattoo on the base of her neck, the very tip of a feather, but nothing else.
+
+A golden-haired man who reminded Matt a bit of himself was next up. He was powerfully built, wearing a gold-trimmed white shirt and with a sapphire-blue torc resting at the base of his throat. One hand was encased in a silver mesh fingerless glove, with the other drawn into a respectful wave.
+
+Next to him was a tall woman with brilliant green eyes and auburn hair pulled back into a braid, dressed in nice, embroidered clothing similar to that of the man on her left. She had her hands steepled on the table in front of her, and was assessing them in a manner similar to Light, but far less severe. Matt didn’t spend too long looking at her, though, because the final two were…
+
+“Eric? Dena?” he blurted out incredulously, “What are you guys doing here?”
+
+The pair burst out laughing. While he’d already been able to see them and receive congratulations from them at the reception following their ceremony, they hadn’t said anything about the fact they’d be seeing him so soon.
+
+He didn’t get the chance to say much more, as Darrow’s presence filled the room, cutting off any lingering conversation before it could blossom.
+
+“Ascenders Torch, Quill, and Scoop. This is Team Zero, your military assignment for this war. Present are Ascenders Shadow and Light, Graduate Torment, Prima Ace Drifter, Elite Technician Origami, Graduates Bulwark and Bolt, and Elite Recruits Stick and Stone,” he went around the table. “Today, I hope that we may be able to gain some familiarity with one another and begin figuring out some initial compatibility in regards to Talents and Domains. Now, while it may not be something you’re familiar with, I would like it if you’d be willing to share your Talents and Domain with the rest of the Team. At the level we operate at, having detailed information about what your teammates are or are not capable of can be the difference between life and death.”
+
+Matt shared a glance with Liz and Aster and shrugged, “Sure.”
+
+“I do ask you to- wait, ‘sure’?” Darrow froze for a moment, “Ascenders will never cease to surprise me.”
+
+“I mean, we were kind of expecting to anyway. Here, let me-”.
+
+Shadow cut him off, leaping up from her chair- which returned to its normal state- and onto the table. “No, stop, stop, stop! No spoilers!”
+
+Matt could hear General Darrow’s teeth grinding even as he said. “Ascender Shadow, this isn’t the time for—”
+
+Shadow snorted. “Fuck yeah it is. Let's fight!”
+
+“Asc—”
+
+“Shut up Darrow. We’ve got exactly one chance at this, and I am not going to learn what those three can accomplish by reading a stupid AI message. Nah. We’re doing this properly.”
+
+Matt expected General Darrow to harshly reprimand Shadow for the insubordination, but he just shook his head and took a step back, giving tacit agreement to their potential fight.
+
+Ascenders were apparently above some rules.
+
+That said, he was interested in fighting Light and Shadow. He had grown up with their legends while he started on The Path. Watched their movies alongside Duke Waters as they made a name for themselves.
+
+He had also never really been able to match up with peers without hiding part of his abilities.
+
+The Emperor had already made it clear that Team Zero was to be trusted, and everyone involved was vetted and watched any time they left the rift, if they were allowed to do so at all.
+
+“Allie,” Light sighed, exasperation tinging his entire being, “they probably don’t even know their new Tal-”
+
+Shadow shushed him with a wave of her hand. “We just won’t use ours either, to make it fair. Or our new gear.”
+
+Aster jumped forward and agreed for them. “Fuck yeah then, let's do it!”
+
+Aster had always been the worst of them at maintaining military decorum.
+
+Shadow stuck out her hand to shake. “Agreed.”
+
+Matt thought the handshake was a normal agreement, but as soon as Aster touched her palm, the room vanished and left them elsewhere.

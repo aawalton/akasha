@@ -1,0 +1,439 @@
+---
+id: 80e10633-f057-5f48-9e2b-0b556bc64434
+page-type-slug: story-chapter-royal-road
+title: "425 A Moment Between"
+slug: 0385-425-a-moment-between
+partOf: the-new-world
+position: 385
+ownLength: 2979
+unit: words
+ownProgress: 2979
+publishedAt: 2025-05-16
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2282522/425-a-moment-between"
+royalRoadId: "2282522"
+markedReadAt: "2026-06-29T21:34:32.802Z"
+---
+
+The rock clattered off of Torix. He pointed at her.
+
+"Don't discriminate. My unlife is worth just as much as yours. Anywho-"
+
+They turned to me. Half of my runes glowed red while the other half glowed blue. Torix cupped his chin.
+
+"You look rather...Ahem, odd."
+
+I took a long breath, my voice heavy.
+
+"It's a long story."
+
+Chapter Begin
+
+Althea furrowed her brow.
+
+"We have time to hear you out."
+
+I pressed a hand against my temple.
+
+"Essentially, this is from the dimensions I'm carrying."
+
+Althea winced.
+
+"Another one, huh?"
+
+I sneered.
+
+"And it's Eonoth's subspace."
+
+She murmured.
+
+"Gross."
+
+Torix pointed at me.
+
+"Couldn't the Old One hear you say that?"
+
+I shrugged.
+
+"Maybe, but Eonoth isn't nearly as petty as Etorhma. So far, that was the only Old One that seemed to be bothered by words. All the other Old Ones are pretty bored by comparison, so I think they'd relish in a little banter."
+
+Althea's eyes widened.
+
+"They're watching us then? Huh. That does sound fun. It would be like TV."
+
+I tapped my side.
+
+"Probably more like radio. Anyways, I have a lot to tell you guys."
+
+I remembered the conversation, repeating it verbatim. I kept Eonoth's inflections as best I could, trying to be an audio recorder. It freaked Torix out, but Althea leaned close, entranced in my story. After I finished, I spread my hands.
+
+"So what do you guys think?"
+
+Torix and Althea turned to each other. Althea let out a long sigh.
+
+"Why did you have the Old Ones duke it out like that? It was dangerous."
+
+I frowned.
+
+"Because I think it will slow down their progression on Earth."
+
+Torix put away his various bingo supplies.
+
+"Ah, you aim to have them face one another rather than focus on proliferation."
+
+I shrugged.
+
+"That's the idea."
+
+Althea furrowed her brow.
+
+"If openings like this are all over the planet, then wouldn't they be pouring out energy from the battle in the same way as the openings you're carrying?"
+
+I raised a hand.
+
+"I don't think so. Their battle is definitely affecting the stability of their portals, and not every warp is so close to the point of conflict either."
+
+Torix rolled a hand.
+
+"And you assume they are closing because of some instability you've noticed prior?"
+
+I opened my pocket dimension and pulled out two shards and two glowing orbs of seafoam-colored blood. One set glowed brighter than the other. I pointed at them.
+
+"One orb was prior to Etorhma's battle with Baldowah. The other is after. If this logic follows, then that means I'm weakening the Old One's invasion and buying us time. It was worth a bit of danger."
+
+Althea frowned.
+
+"Oh man, the Seer's juices. Yuck."
+
+I scoffed.
+
+"Oh come on. Juices? Why'd you say it like that?"
+
+Torix put a hand on my shoulder.
+
+"Daniel. It's ok. We understand that, from time to time, you enjoy soaking in rather large amounts of your enemies' fluids. It's not anything we judge you for."
+
+I flushed, my silver blood flowing to my cheeks.
+
+"Oh, come on. That's...That's a mischaracterization. Slander, some might say. And it's just wrong."
+
+Torix raised a palm.
+
+"Even though we all know that it makes you feel oh so very right."
+
+Althea and Torix burst into laughter before I narrowed my eyes at them. I murmured.
+
+"Are you drunk, Torix?"
+
+Torix's eyes flared.
+
+"I have been finding poisons of various effects. I might've found a rather potent vitamin that isn't as easily recognized by our metal bodies, enabling a bit of buildup to impair functioning."
+
+I furrowed my brow.
+
+"Either way, two can play at this game."
+
+Torix pointed at me.
+
+"The one where you lose. Mwaha."
+
+I pointed at Torix.
+
+"You've been wringing different eldritch dry to find different kinds of alcohol, correct?"
+
+Torix gazed at his hand.
+
+"And what is ever so very much wrong with that?"
+
+I smiled.
+
+"We know you like drinking different kinds of eldritch fluid as well. Alas, there's no shame in milking an eldritch."
+
+Torix flustered.
+
+"I would like to inform you that the poisons I've derived aren't from mammary glands, so it isn't considered milking them. I've actually taken my selection of various drinks by utilizing other parts of the specimens."
+
+I raised my brow.
+
+"Utilizing huh? Sounds like milking to me."
+
+Althea laughed before I pointed at her.
+
+"And I've seen you take certain eldritch and use their oils for moisturizing balms or creams."
+
+Althea crossed her arms.
+
+"It keeps me from getting chapped lips or dry skin. Especially the flower eldritch since they smell nice."
+
+I clasped my hand into a fist.
+
+"Yes. You like to rub their fluids all over yourself."
+
+She flushed red before standing up. Her head hit the ceiling, and she pointed at me.
+
+"You say that, but you liked my formulas just as much as I did."
+
+I licked my lips.
+
+"They were delectable."
+
+We laughed for a while before they found even more ways I misused eldritch juice. We kept bantering back and forth for a time, and we laughed all the while. No one stopped the flow of the conversation, letting it rise and fall like the crescent waves of a sandy beach. The talk lasted for hours, each of us needing a break from our busy lives.
+
+In fact, it felt like Torix and Althea spurred the conversation, each of them taking steps outside their normal comfort zone to keep it going. Their sense of urgency befuddled me, but after a bit of thought, I grinned. They wanted to keep me grounded after these insane events, so they made a concerted effort to do so.
+
+It worked. I couldn't help but be reminded of how good life could be and was. As the conversation settled down, partially from Torix sobering up, Althea murmured.
+
+"I wanted you to know I was wrong."
+
+I raised my brow.
+
+"About what?"
+
+She sighed.
+
+"When I said you had no reason to be training so hard. Personally, I still think I'm right that the weird method you cooked up is too much, but we really do need to get more powerful, and fast."
+
+An awkward quiet settled over us. To shatter it, I snapped my fingers on both hands continuously, pretending they were a clapping crowd.
+
+"Oh, oh my, hold the applause. Please, that's enough. Oh, I don't deserve all this. Well, maybe a little."
+
+Althea rolled her eyes before taking a breath.
+
+"Actually, that reminds me. Can you make me a skeleton frame whenever you make Torix his next body?"
+
+I gave her a thumbs up.
+
+"Sure thing. Do you mind if I ask why?"
+
+Althea frowned.
+
+"You're not the only one with plans to get stronger. I have a few ideas, and they're going to require some experimentation."
+
+I considered pursuing the matter further. Before I could, Torix shook his head.
+
+"Onto the rather dour topic from earlier. This conflict we've found ourselves in...It's horrific, isn't it? To think that something the Old One's can't describe has come to destroy Earth in particular. It's not something I believe we're capable of resisting. That's why I'm going to share a thought process with you both, one that I know Daniel will find upsetting."
+
+Torix raised his hands.
+
+"I say we abandon ship. This planet has become a toxic asset."
+
+Althea and I glared at him. Torix threw his hand at us.
+
+"Oh come now. This has to be the least hospitable garden world I've ever seen. I mean, can you even imagine this overwhelming response anywhere else? First Yawm, then proximity to Giess and Elysium, and now unstable dimensional spaces? Hordes of avatars alongside an encroaching, unnameable horror?"
+
+Torix's eyes flared bright.
+
+"From what I've gathered, there will never be an end to the chaos here. What would it take for us to pack up and leave this drab hell hole, so to speak?"
+
+I frowned.
+
+"For me, I would leave after Earth has been destroyed down to the atom."
+
+Althea pinched the bridge of her nose.
+
+"You know, Torix, I can see why you left your home world."
+
+Torix shrugged.
+
+"My home world suited my interests for a time. Once those opportunities dried up, I no longer worried myself with physical attachments. My true home is and has always been the sanctity of my mind, not the couch I recline on or the air I breathe. Those are merely physical needs we use to signify attachment. They are bygone, residual instincts leftover from our tribal beginnings."
+
+Althea sat cross-legged. She crossed her arms.
+
+"But this place has a history, like you or I. Even if you travel somewhere else, Mt. Verner will always hold a place in your heart. I think that's worth protecting. Besides that, if what Eonoth and Baldowah said was true, then this dimensional unraveling is going to keep happening everywhere we go."
+
+Torix scoffed.
+
+"I will say your point about history is compelling though not altogether logical. Despite that argument's merits, I would still urge us to run from place to place. Daniel could carry a continent, should he so wish. We can fit all we care for there, including Mt. Verner."
+
+I tilted my head.
+
+"I'd be abandoning my own species."
+
+Torix's eyes flared.
+
+"Have they not abandoned you? The only times humanity has seen fit to help us is either when death is the only other alternative or they have something to gain. I've yet to see any genuine goodwill from them."
+
+Althea frowned.
+
+"You haven't been looking hard enough. I've worked with lots of teachers, doctors, and wanderers. You wouldn't believe the lengths these people will go to so that they can help other people."
+
+Torix tilted his head.
+
+"Which have you seen more of since we've arrived: goodness or evil? My experience has indicated the latter more so than the former."
+
+Althea nodded.
+
+"Ok, true, but you said you hadn't seen any goodwill. I'd argue that humans are like most other species, though they tend to get antsy when they get in big groups."
+
+Torix nodded.
+
+"It must be from their evolutionary roots as a tribal people."
+
+I turned a palm to Torix.
+
+"I'd argue on different grounds. Let's say we run and run and run. Eventually, there will be no places to run to. At that point, we still have to face this problem, but we'd have far less space to save."
+
+Torix sighed.
+
+"Then let's assume we'll stay here even after the sun has consumed this dirtball in five billion years. What's our plan so that we can hobble Earth along until we reach that point?"
+
+I waved my hand.
+
+"Simple. We stop the dimensional collapse and whatever's coming."
+
+Torix tapped his chin.
+
+"Easily said and hardly done. It would seem that dimensional magic is something we lack and must reinforce ourselves with. Plazia's quite adept considering his aim of stopping the production of eldritch. Perhaps he could be a source of information on the topic?"
+
+I nodded.
+
+"We'll do that. I'll see if I can't have Florence contact some dimensional specialists from the rulers I saved on L-7. Someone should have a specialty or two in it. We can also talk to Schema since that guy looks like he could use some serious help."
+
+Althea stared at the bingo game they had spread out. Torix got caught up talking and never finished getting up all the pieces. Althea smiled.
+
+"This reminds me of before we killed Yawm. You know, when I beat you at bingo so long ago."
+
+I smiled, having never told her I let her win.
+
+"Yeah. Good times."
+
+She let out a breath.
+
+"You know, it's kind of crazy how wrong we were playing the game at the time."
+
+I scoffed.
+
+"I'd never played bingo. I didn't realize they had different balls, weird setups, and jury-rigged boards. It looked like the bingo game was pulled together from random pieces of other games they had lying around."
+
+Althea smiled.
+
+"Gah, that was so much fun...Anytime I think of it, I always find it so weird how someone or something from so long ago is still being brought up. You guys don't know, but I can't even remember the names of my friends from the research lab anymore, but Yawm...That's a name I'll never forget. He's like a nasty scar."
+
+A chill ran up my spine.
+
+"Yeah. He was about as much fun as a splinter sandwich."
+
+Althea rubbed a hand where she and Torix's bingo game had been.
+
+"He was, but put poisonous bark and nasty leaves in that sandwich, too. But...I don't know anymore. After hearing about these other avatars for the Old Ones, Yawm might not have been as bad as I thought."
+
+I never even considered the idea. Before I could mull it over, Torix raised a hand.
+
+"Have you ever heard of a psychological condition known as Stockholm syndrome?"
+
+Althea waved him off.
+
+"Pshh, yeah. I've read a few books here and there. Yawm treated us like raw meat ready for acid, but I don't know if that was his choice anymore. He...He was taken by something that controlled him, like Valgus. A long time ago, he might've been a good man. A decent one."
+
+I furrowed my brow.
+
+"That would make for an easy excuse. In his case, he made a choice to follow Etorhma, and the reality is, some choices carry heavy consequences. They will be borne by someone. For example, if I chose to stab a man, I may regret doing it right after. My regret doesn't make them bleed any less. I think that's the same with Yawm."
+
+My eyes hardened.
+
+"He chose to follow mad gods, and he was driven insane by them. Everyone around him suffered for it."
+
+She frowned at me.
+
+"At least Yawm was still trying to do something good even after being turned into a shadow of his former self. Valgus was destruction incarnate from what you described, and Shalahora has a dark past. Not because he's a shadow either. Oh, and Marcella-"
+
+Althea sneered.
+
+"She's a con artist who's in love with power. Imagine if she kept spreading her influence. She'd milk this continent and world dry."
+
+The more I dwelled on the situation, the more I agreed. I put my hands on my hips.
+
+"Yeah. We'll have to see what to do with her after fully understanding how she ran this place."
+
+Torix pointed at Althea with several fingertips pressed together.
+
+"Ah, but before we move on. You have me curious as to why you brought up Yawm in the first place. Was it from your musings on the nature of oblivion or something else?"
+
+Althea rubbed her arm.
+
+"Hah, not really. I wanted to mention that Etorhma wasn't nervous until Yawm experimented on me."
+
+I leaned towards her.
+
+"That makes a lot of sense. Etorhma seems like someone who was rocking the boat and scared of the consequences. If you're the source of that, then you might be able to give us some info on them. Hell, we might be able to trigger whatever it was that Etorhma was trying to stop."
+
+Althea frowned.
+
+"Why would we do that?"
+
+I shrugged.
+
+"Spite. A desire to watch the world burn. Maybe out of boredom?"
+
+She hit my shoulder playfully while I smiled. She peered off.
+
+"Before my alterations, Yawm's experiments were more calculated and safe. After that, he sped everything up. There was this urgency he had all of a sudden. He ended up going through most of us pretty quick once he finished whatever he was doing with me."
+
+I winced.
+
+"Like putting meat through a grinder, but remember, a good guy when you look deep down."
+
+She smirked.
+
+"Ok, jerk."
+
+I smiled.
+
+"Alright, sorry. Yawm just gets under my skin."
+
+Althea furrowed her brow.
+
+"He literally cut under mine, so I got you beat there."
+
+Torix cupped a chin.
+
+"Previous dealings aside, do you have any idea what Etorhma was afraid didn't want you to do?"
+
+Althea let out a sigh.
+
+"Hm. Er, you both know I kind of...Like, ignore matter. I can pierce anything, and I'm able to phase out of this reality. Etorhma's Tears are why I'm able to do that. It's where those skills originate."
+
+I turned a palm to her.
+
+"You think there's a link there that exposes why Etorhma was nervous?" She wrung her hands.
+
+"Hah. You know, like, maybe? I think that could let us know more about this accord thing, too. They might've wanted to stay within the laws of our universe or something. It could also be that I am partly an Old One, and they don't like it when we borrow their power so directly."
+
+Torix's eyes flared bright.
+
+"The more we understand Etorhma's conditions of fear, the more we can have the Old Ones at our beckoning and call as well. At the minimum, it gives us leverage against Etorhma."
+
+Althea smiled.
+
+"If you put it like that, uh, sure."
+
+I rubbed my temples as I tried to flex my weakest muscle - my brain.
+
+"Ah man, I've been trying to pin them against each other, and this could be a great way to slow them down even more. Ah man, great ideas, Althea."
+
+Her smile beamed out.
+
+"You too. And ugh, I don't mind the two-rune look. It's nice."
+
+I raised my brow.
+
+"Sexy, you mean?"
+
+Her eyes narrowed.
+
+"Maybe."
+
+Torix waved an arm.
+
+"Enough of your flirtatious musing. Ugh, to be prisoners of your flesh. I pity you both. I'm glad I abandoned that so very long time ago."
+
+Althea rolled her eyes.
+
+"What? How is Daniel a prisoner and you're not? You're made of Daniel."
+
+Torix's eyes flared green.
+
+"Semantics. Now, let's go and finish uncovering the secrets of the Shattered Spires, shall we?"
+
+I smiled.
+
+"Let's."

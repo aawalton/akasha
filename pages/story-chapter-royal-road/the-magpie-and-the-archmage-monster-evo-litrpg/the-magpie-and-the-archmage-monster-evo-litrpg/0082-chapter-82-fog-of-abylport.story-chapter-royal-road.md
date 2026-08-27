@@ -1,0 +1,191 @@
+---
+id: 22e3d2c5-74cd-56d1-9b9c-534551e5e623
+page-type-slug: story-chapter-royal-road
+title: "Chapter 82 – Fog of Abylport"
+slug: 0082-chapter-82-fog-of-abylport
+partOf: the-magpie-and-the-archmage-monster-evo-litrpg
+position: 82
+ownLength: 2173
+unit: words
+publishedAt: 2026-02-09
+link: "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3027786/chapter-82-fog-of-abylport"
+royalRoadId: "3027786"
+---
+
+"Renir, there's corruption coming from Abylport," Liora said, interrupting Cee's and Renir's debate on Inventory unlocking.
+
+"What?" He was instantly brought out of the discussion.
+
+"Corruption? The thing that was going on in Sunvale?" Cee asked nervously. "That was nasty. Although strangely enough, it got a bit better after you left."
+
+"It's because I purified the source," Liora announced proudly.
+
+"What? How did you do that?" Cee asked, her eight eyes brimming with awe. A moment later, she narrowed her eyes. "You're just trying to pull my legs, aren't you?"
+
+"No, she did purify the corrupted divine artifact. After which she proceeded to steal it!" Renir accused.
+
+"Hey, the guardian didn't even chase after me. It's alright."
+
+"He certainly didn't look pleased."
+
+"The guardian?" Cee asked.
+
+"Giant chimera monster. It had the head of a lion, head of a goat, and a snake for a tail," Liora explained.
+
+"Just like in the stories! To think there is a world where chimeras are real. Then again, there are so many weird things in this world, I wouldn't be surprised to find Greek Gods just chilling on a mountain somewhere," Cee said.
+
+"Greek Gods?" Renir questioned.
+
+"It's a myth from our world. In either case, let's focus on the problem at hand. There's definitely some corruption going on in Abylport. Are we going there?" Liora asked.
+
+"As much as I'd like to go around and avoid the possibility of encountering our lovely friends from the Order of Night King, we need to get that Resonance Crystal. The closest city after Abylport is across the sea, and frankly, I don't want to test whether you're able to fly for so long. And if by some unlucky chance we get caught in the storm…"
+
+"So Abylport it is. But this means that you're staying in my Inventory from now on," Liora said firmly.
+
+"Aww… No more talk about magic," Cee slumped.
+
+"Don't worry, my eager discipline. We shall be able to return to our studies as soon as we obtain the Resonance Crystal," Renir said.
+
+"And clean corruption," Liora added.
+
+"I'm surprised you've become so dutiful," he noted.
+
+"I'd be a complete asshole if I ignored a problem as huge as that when I'm basically the only one around that can help."
+
+"You're much kinder than I initially gave you credit for, Liora," Cee said, and Liora thought her face showed a smile. Although it was hard to tell with the mandibles.
+
+"I've never been unkind," Liora huffed, then grabbed Renir. "Let's get going. I want to get some fresh seafood for breakfast. I wonder if they have sushi."
+
+"Oh, I'd kill for some sushi right now!" Cee nodded enthusiastically. "Talk to you later, Renir."
+
+"Farewell, my spider friend," Renir said in a tearful voice.
+
+Liora shook her head at their antics and pulled him into her Inventory.
+
+There is something very soothing about your Inventory though.
+
+Likely the fact that those mages can't sense you. Or the fact that you can see with my superior vision.
+
+There's that too, but it's more than that. It's comforting. Like a home away from home.
+
+Liora didn't respond, feeling somewhat shy at his sudden confession. She always thought he preferred to be outside of her Inventory. But apparently, he found her presence comforting. It was heartwarming.
+
+After taking her large form, Cee once again settled on Liora's back and flew off towards the direction of Abylport. However, the closer they got to the city, the thicker the corruption got. By the time they reached the city gates, there was a sickly-looking fog lingering everywhere around.
+
+Even the seashore was covered with it. In fact, Liora saw that it was more concentrated farther out into the sea, indicating that the source might be somewhere there.
+
+"What the hell happened here?" Cee muttered quietly, pressing herself closer to Liora's back.
+
+The city was nothing like they had expected. Although it was near dawn and the sky was clear, the sun's rays didn't reach the streets. The fog blocked them completely, making everything seem dark and gloomy.
+
+The usual cheer and liveliness one would expect from a port city were nowhere to be found. Instead, gloomy people staggered through the street, their mouths and noses covered with face masks, scarves, or simple scraps of cloth. Not that there were many people out to begin with. The city appeared half dead.
+
+We need to gather information. Let's head to the Adventurer's Guild. Follow the main street over there. You shouldn't miss it.
+
+Liora followed his directions, flying over the city. She didn't even have to worry about getting spotted despite daylight. The people who were outside didn't so much as glance up. Instead, their heads hung low as they stared at the ground as they walked. Even the children clung close to their parents, looking around in fear as if expecting something to appear out of the corrupted fog.
+
+I assume the city wasn't this way last time you were here?
+
+No… It was a thriving port city. Streets were lined with people. Right over that empty square, there was a bustling market where people from other countries came to sell their wares. That's why I thought this would be a good place to find the Resonance Crystal. But at this rate…
+
+Renir didn't need to finish. It was clear that they wouldn't be finding what they needed here. At the same time, it wasn't like they could just leave either. Liora was determined to at least find out what happened.
+
+Before long, the Adventurers Guild came into view. It had a similar layout to the one in Cyene, but with far fewer people coming in and out. Liora landed on the roof and turned back into her magpie form.
+
+"I'm going to sneak in and gather intelligence," Liora said.
+
+"You? The moment somebody sees you, they'll instantly find you. Let me sneak in," Cee said confidently.
+
+"You're a giant spider. The moment somebody sees you, they'll all try to kill you. If somebody sees me—"
+
+"They'll get suspicious of how a bird got inside and kill you."
+
+"Nope! It's because I have this," Liora said and equipped her guild ring around her leg.
+
+"What's that?" Cee asked.
+
+"It's a guild ring. This marks me as a magical familiar. Nobody will ever question me," Liora puffed out her feathers proudly.
+
+"Where did you steal that?" The spider wondered, poking at the guild ring with her front leg.
+
+"I didn't steal it! I earned it fair and square," Liora objected.
+
+"Shhh!" Cee lifted her leg to her mandibles.
+
+"Sorry!" Liora said in a hushed voice. "But I really did earn it. I stuck with a human party for a while and obtained it together with them."
+
+"I'm going to ask Renir whether this is true later," Cee said, then continued. "How about we both go? If you're so safe that you'll be fine, and I'm sure I'll be fine, since I got the Shadow Walk skill, then let's both gather info and meet up here later. Let's say in like an hour?"
+
+"How will we tell time?" Liora asked.
+
+"Just by feel?"
+
+"I should steal a clock from somewhere later," Liora noted, then peeked down the roof to check for any possible entrances. The windows were tightly shut, so that wasn't an option. "How do we get in?"
+
+"I got my ways," Cee said and scuttled away, disappearing under the roof so quickly that Liora didn't even catch where she went.
+
+There wasn't much Liora could do but wait for someone to either come out or go into the Guild. Thankfully, she didn't have to wait long as the tall man came out. She Faded and flew inside the Guild before the door closed.
+
+The inside of the Guild was just as gloomy as the outside. Only one light was on in the whole reception area, and even that was barely lighting up the space in front of the sickly-looking receptionist. It was a tall, spindly man in his late forties with large, dark circles underneath his eyes and a really pale complexion. The poor guy looked like he was already one foot into the grave. Besides him, there were only two more people in the reception area: two older men, both covered from head to toe in scars.
+
+Liora had no issues hiding herself in the dimly lit room. She flew and hid below the table where both men were sitting before her Fade ended. Unless somebody went out of their way to look down, she would be fine.
+
+"Any word from expedition 5?" A man with a deep, gruff voice asked. His voice reminded her of a heavy smoker, so she decided to dub him Smoker.
+
+"Not as of yet. But they should be returning today. If there is anyone to return," replied the other man in a hoarse voice, almost as if he were ill. As if to prove her mouth, he coughed several times. Liora dubbed him Cougher.
+
+"You really think nobody will return?" Smoker asked, somewhat nervously. "They should be better prepared. The first expedition was the only one to be completely wiped out."
+
+"But somebody died each time. Or worse, got corrupted! How many more people can we lose to this… this curse!" Cougher said shrilly. It appeared too much for him, as his voice cracked and he broke into another coughing fit. "Look what that fog is doing to us. My daughter and son-in-law have already fled the city. I only remained in hopes of keeping their house safe until the situation settled. But at this rate…"
+
+"Calm down. Not all is lost yet. Even if this expedition doesn't succeed, Pillar of Azure Helm is on her way," Smoker consoled.
+
+"Are you sure? Why would she want to get involved in this mess?"
+
+"Who else if not her? Losing Abylport would be a devastating blow for the whole country. I'm sure she'll do everything in her power to save us."
+
+Morgana is on her way here. Yikes!
+
+Morgana?
+
+The Pillar of the Azura Helm. Basically, she's the one responsible for everything going on at sea. Ships, ports. If it happens on water, then it's her domain.
+
+Why the yikes then?
+
+Let's just say that she and I don't see eye-to-eye. She believes that I'm lazy and don't do my duties as the Pillar properly.
+
+I wonder if there's some truth in that.
+
+No way! I've unlocked so many secrets about the System. There's no way anyone else could have done what I did.
+
+Doesn't being this Pillar entail more than just research? I thought it was a position similar to a king or a duke at the very least.
+
+Don't compare Pillars to such archaic forms of rule.
+
+But you have to do some administrative work too, no?
+
+That's what I have my Elites for. They can do the busywork.
+
+So in short, Renir wasn't doing his work properly. Maybe it wasn't these weird Night King mages that put him in the rock. Maybe his colleagues got fed up with the fact that he wasn't doing his share of the work. Liora could certainly imagine that happening.
+
+Smoker suddenly stood up, heading for the door. "I'll go to the port. Maybe the expedition will return. I want to hear the news from them first."
+
+Seeing that there was no more information to collect here, Liora Faded and left the Guild along with Smoker. However, an hour hadn't passed yet. Should she return to the roof and wait for Cee? But Smoker said that the expedition might return soon. Perhaps it was worth checking what this expedition looked like.
+
+Should we check the expedition?
+
+We still have time, so I don't see why not.
+
+Discreetly, Liora flew above the man, making sure that her Shadow Glide would keep her hidden. It was dark enough, and Smoker wasn't really paying attention to whether he was being followed, so it wasn't an issue.
+
+They headed in the direction of the port, where Smoker waited. Liora waited too, hidden in the shadow of one of the warehouses. They didn't have to wait long, as soon a ship appeared in the fog. It was barely holding together, with multiple holes in the hull, a broken mast, and charred boards that suggested that it had been burning at some point.
+
+When the ship barely pulled up to the port, just three people staggered out, battered and bruised and barely alive. Their armor was severely damaged, and blood covered most of their faces. One man was even missing an arm, leaning on one of his comrades for support.
+
+"Doctor! Call the doctor," the least bruised one called to Smoker, who instantly ran off.
+
+What the hell happened?
+
+I don't know, but I don't feel like getting involved in this.
+
+But Liora knew she couldn't leave this place without at least trying to help. Maybe Cee had some better news. Liora threw one last look at the injured adventurers, then flew back to the Guild.

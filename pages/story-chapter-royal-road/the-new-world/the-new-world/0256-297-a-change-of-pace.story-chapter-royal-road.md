@@ -1,0 +1,259 @@
+---
+id: 876bd417-5496-5d5d-ab0c-32f7a0471d48
+page-type-slug: story-chapter-royal-road
+title: "297 A Change of Pace"
+slug: 0256-297-a-change-of-pace
+partOf: the-new-world
+position: 256
+ownLength: 5423
+unit: words
+ownProgress: 5423
+publishedAt: 2021-03-28
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/654171/297-a-change-of-pace"
+royalRoadId: "654171"
+markedReadAt: "2026-06-29T21:29:56.259Z"
+---
+
+Peering at the blade's inner sections, I found similar, multi-layered designs I'd encountered before. Unlike my own, this blade didn't stop at one layer of context for the surface lines. Many sheets coated a core of energy powered by some far off, cipheric flow of energy. Discovering where that originated was all but impossible, but learning Schema's ciphering techniques were quite the opposite.
+
+Keeping that in mind, I pocketed the shard into my personal dimension, saving it for later. Studying it would be massive for my future, but it was a long term investment. Even from a casual glance, the runic markings exceeded well beyond my grasp, similar to an elemental furnace. It would take years to fully know how it worked.
+
+The shard wasn't going anywhere either, assuming the Overseer didn't demand it back from me. However, he couldn't prove I took it, and I'd argue that it was taken by a Hybrid or the like during the conflict. It wasn't as if I or my guild was omnipotent, after all. Regardless of how I obtained it, the fragment offered a point of progress I needed.
+
+If I could use my own dimensional slicer, learning to warp wouldn't be necessary. That would save me a lot of time I didn't have, but for now, I put the rest of my intentions back to Blegara and its capital, Saphigia. My time here was limited, and I wanted to establish a robust and long-lasting presence here before leaving.
+
+The first way of doing that was by destroying enemy forces throughout Saphigia. I had the means, and I was also the most lethal soldier in our army. Before walking down that road, other ideas popped up in my head first—those ideas spawned from the Overseer's advice, particularly the part about helping allies.
+
+Even if I didn't want the guy knowing I took the Sentinel's spear shard, it wasn't like I ignored him during our conversation. I meant what I said, and I listened intently. Using that advice immediately, I put up a bulletin list of what needed doing. First and foremost, Kessiah came to mind. She needed a real boost given how much healing she managed on her own, and a bunch of half-ass jewelry wasn't going to cut it. The same could be said for the empty hospital I gave her.
+
+Brainstorming for a few minutes, I came up with a few ideas that I went about executing. The first plan involved messaging Torix about helping Kessiah with logistics. She needed someone bringing her people to heal instead of her running through the front lines. That kept her safer, but it also made her healing more efficient since she'd be more rested.
+
+Sending Torix that request, I headed back over towards the hospital. Once inside, I found many troops healing from their wounds and infestations of the Hybrids. Using Omega Strains, several doctors discovered they could clear minor Hybridization using them. The Omega strains harvested the metal out of the body precisely, requiring less intervention from me directly.
+
+Just as these new approaches took a load off me, I wanted other measures in place to take a load off of Kessiah as well. The first part of that process involved making a healing station for her specifically. This new post required three main components: a room covered in supportive runes, tools to lower the amount of blood necessary for her healing, and a new suit specialized for her.
+
+Lining those three pieces together, I got to work on the room first. I set it up at the center of the hospital. Calling on healing specialists in the guild, I got a few runic diagrams commonly used in Schema's new age hospitals. These runes worked to enhance healing, prevent bleeding, and bolster natural regeneration. Combining those runes with my own, I multiplied mana regeneration, increased endurance, and added constitution for the entire area.
+
+With the blueprints in place, I translated some of the work into the cipher. At this point, I understood the complex, dimensional language pretty well, and managing robust uses for the archaic words could be done. Influencing an area in a certain way was one of those new possibilities. In this case, that involved an enormous amount of healing centric incantations.
+
+Of course, I was still limited to what I could do. Adding mana regen? I could do that. Assisting mental focus? Trickier, but still doable. Increase intracellular water retention? Well, let's just say it was a work in progress. Even if I could do something like that, the cipher was incredibly potent on physical spaces. That's why I stayed careful while crafting clean, crisp inscriptions for the room. Having all this work backfire would be soul-crushing, after all.
+
+Managing all those issues, I designed it for the perimeter of the place. Once blueprinted, my carving started up in my grimoire. It took several hours, but I got a revised and refined copy of the engravings before I began charging them up. With that locked in, I racked my brain for quick, easy additions. To my good fortune, a few ideas came to mind.
+
+Molding my dimensional fabric, I built several tables for people, each with crystallized quintessence loaded in them. This mana type acted as a mobile power source for anyone needing something powered, and it could charge a healer up as well. I combined that with the runic power system I made for a few of the previous buildings earlier. This connected the hospital like a modern building, giving it the luxuries of electricity.
+
+I also made a ring that generated freshwater. Installing it in several spaces, these rings acted as sinks powered by quintessence as well.
+
+Beside the sinks, I made a unique operating table for Kessiah. I placed many enchantments over its surface, some of them mirroring the wall's runes to compound their effects. I even gave a sterilizing zone effect for the trickiest medical work needed here. It would be for priority cases that required immediate attention.
+
+That finished up my simple ideas, and I moved onto my other main ideas next. One of those primary helpers for Kessiah was tools. She handled all of her healing with only her blood, over and over. Giving her other options would let her be more targeted with her abilities.
+
+Of course, I wasn't exactly an expert on the task at hand, but a bit of brainstorming gave me suggestions. In particular, a few utensils immediately stood out. A scalpel would be pragmatic, not only for simple surgeries but for taking out Hybridization as well. The blade being made of my armor ensured that ability.
+
+As for the second tool, I was thinking of a syringe that amplified the effects of whatever it injected. Many medicines worked wonders, and having something like that might be useful. As for the third and final tool, I settled on a plated block of quintessence. I know, I know, a giant block of mana. Genius. Revolutionary even.
+
+In all honesty, was it complicated? Maybe not, but it would be useful. Crude compared to the other tools, the plated quintessence would act as an enormous power source that Kessiah could draw from. She needed that kind of charging station to prevent anemia, along with a team of people helping her out, so her talents shined.
+
+With that coming together nicely, I finished energizing the wall runes. A flowing ribbon of enchantments cascaded from the pages of my grimoire. They lined up across the walls, singing through stone with utter ease. To power these augments, I generated crystal bulbs of quintessence, acting as both light and power sources for said runes.
+
+It gave the entire expanse an ancient yet gentle atmosphere. On the one hand, the cipher dotted the walls with its unknowable depths. On the other, the modernistic and minimalist designs I cooked up gave it a clean feel. It didn't clash as much as I expected, so I counted that as a bonus.
+
+After that, I drafted and revised runic work from several medical personnel on the site. They worked with Bryan, the retired dungeoneer, to give me runic work that amplified the scalpel and syringe functions. Having a reference, I once again went about translating and charging up the cipheric augments involved.
+
+It took another few hours since the first tool, the scalpel, required tiny, precise markings across every inch of its surface, excluding the blade. That required the vast majority of the scalpel's time investment, as the actual razor wasn't tricky. It did take a bit of finesse to get the edge sharper than what I usually made, as actually chipping away at the edge of my fabric was nearly impossible by now. I ended up just growing a sharp shard and welding it to the end of a handle.
+
+Eh, if it works, it works.
+
+Once I refined that section, I got the runic work sorted out as well. Having a few medically knowledgeable staff helped me tremendously since I could ask questions the entire time. This sped me along while I molded out the glass for a syringe. The only other parts needing my dimensional fabric were the device's actual needle and struts along the sides.
+
+The plunger required some molten metal as well since it would be reused and often. I made that part imbued with hunger, which made the device self-cleaning. It would absorb a thin layer of the compound remaining after injecting any kind of medicine. It saved cleaning time, along with solving some sanitation concerns as well.
+
+Speaking of saving time, I saved a lot of time on the plated quintessence. It took seconds to make, a real godsend compared to the other utensils. It turns out that generating a big block of quintessence and wrapping it in a thin sheet of dimensional fabric didn't take much effort. I put an antigravity well augment on the surface to help suspend its heft too, and boom, a portable power source was made.
+
+Staring at the crude block, I gave it straps for carrying around, and I spread some elementary runes over a few of the empty spots on the surface.
+
+You could never have too many runes, after all. After finishing the physical work, I charged my runes in the meantime. Once saturated, I hovered my first batch of glyphs for the scalpel in front of me.
+
+Inching down with a hiss, the glowing symbols floated around onto the handle. Combine that with the glistening edge, and it resembled a dagger more than the scalpel it was supposed to be. However, it served the purpose as both a weapon and medical tool well enough, so I moved on.
+
+For the syringe, I took a different approach. Leaning on the plunger's innate hunger, I tricked the runes into doing what I wanted. I made the cipher markings require a kind of trading pattern to operate. A bit of physical matter in, and it would dispense energy out.
+
+This flow of power served as a check all augmenter, boosting the properties of anything within the syringe. It could be dangerous with certain compounds, but it could be tested on other things before living people. Having already finished the backpack, I lined up my work and gave it an inspection. It was solid stuff for the most part.
+
+The Woundless Carver(lvl requirement: 9,000) - This blade was designed by the Harbinger of Cataclysm to be both apt at slicing and poor at killing. This thin edge can inflict temporary wounds that will quickly regrow within minutes due to the strange, unearthly runic carvings along with magic impulses sent off routinely by the apparatus.
+
+These impulses grant energy and vitality to both the user and the recipient alike. If close, others can benefit from the item as well. Combine this with the runic augments, and this is a potent weapon for anyone who wields it, doctor or not.
+
+This is due to the blade retaining the tremendous durability of its composing material. If used swiftly, it can still kill someone before they can regenerate. It also offers defensive measures, being able to block blades and bullets given skill from the wielder. Even more so, the edge devours eldritch and Hybridization on contact, letting it clear minor infestations.
+
+These properties culminate in a potent tool when used well.
+
+I smiled at it, hoping it would serve Kessiah well. I turned my eyes to the syringe.
+
+The Immolating Epicure(lvl requirement: 8,000) - This hypodermic needle is a strange, dangerous artifact created by the Harbinger of Cataclysm. Using strange, awkward runic work, he's made a dimensional rift within this device's glass tubing. Anything entering it must trade a portion of its mass in exchange for energy.
+
+This energy results in increased potency for whatever is being injected or drawn. While potent in the hands of a healer, this device could also serve other nefarious purposes. An addict could use this to increase the purity and potency of a chosen drug, as could an assassin do so for poisons.
+
+This multiple-use case scenario means this is an explosive, dangerous device that should be kept in safe hands, else it be used for vile purposes.
+
+I winced at the needle, kind of surprised by how...mixed its results were. I'd be handing this off to Kessiah to see what she thought of it, but it might be in better hands with Torix.
+
+The Everlasting Battery(lvl requirement: 4,000 | Mana Reserve: 1 Billion) - This simple device is a storage container for an unreal amount of quintessence based mana. It can enable ridiculous output by any standard user, and it has virtually endless use cases. Any mage would kill for this device, along with a few mana starved galactic leaders.
+
+The reasoning for this scarcity is simple - this device is safe to use. Most large mana batteries are incredibly volatile. Even when used with great caution and care, the crystallized mana can be taken advantage of by most competent mages. Others have tried this same strategy to only have the mana within the battery tampered with, resulting in a colossal explosion.
+
+This battery is protected by a sheath of strange matter that is hyper resilient. This resiliency comes with other perks as well. The material powers a flotation enchantment on the pack's surface, making it weightless. It's tough enough to serve as a shield, and it even slowly rebuilds its mana reserves using this material's natural mana production.
+
+These factors make this valuable, so ensure that its wielder is either immensely powerful or protected well.
+
+Now that was a more positive breakdown, and it doubled as a warning from Schema for my artifact's quality. I appreciated the guidance, as it kept me from putting people in negligent danger. However, hoping Schema and other people would advise me all the time wasn't going to work out long term.
+
+Taking a more proactive approach, I sent Kessiah a super golem guard. She was always on the front lines with Krog guarding her, and while he did an admirable job, Alpha's death taught me that I couldn't be overly cautious. Plus, we owned enough golems that being stingy with them was foolish.
+
+After sending one of the titans to Kessiah, I put my hands on my hips, inspecting my work with pride. These last few steps concluded my medical revamp, and the medical utensils sheened on the new operating table. The tools and etched room splayed out with a simple yet refined look. Inscriptions covered most of the surfaces, giving it a detailed appearance that contrasted the simple designs.
+
+It reminded me of a library for that reason; it was a place full of detail and depth yet laid out for practical purposes. Satisfied with that end result, I turned to one of the medical practitioners that helped me with the wall glyphs,
+
+"Hey, let Kessiah know this is for her, alright?"
+
+The woman bowed,
+
+"Of course."
+
+Happy with what I'd done so far, I moved out towards Torix. Devising plots within his lair, he turned to me while his obelisk automated many maneuvers at once,
+
+"Ah, guildleader. It's good to see you. What do you need?"
+
+I raised a hand, "I'm just here to look around. You know...check on stuff."
+
+"Hmm...check as you will then, but do give me space to continue my tasks. Many of these dilemmas require a semblance of speed, lest those on the battlefield perish from my negligence."
+
+I gave him a thumbs-up, looking around. His lair was, once again, a cluttered mess. His chaotic mess, no doubt, but damn, was it hard to look at as an outsider. Not wanting to mess with his flow, I assisted him with strictly positive stuff. That started a potent yet straightforward tool - a massive mana crystal.
+
+I mean, the pack I made for Kessiah even hinted at the prospect and giving Torix more mana would only help him out. Finding the middle of his space empty, I generated a circular table of stone there. I left the middle of the rock open. It imitated a hollowed sundial. Creating metal holdings, I retained a gothic, angular style mana holder before filling it with quintessence.
+
+The bars offset most physical traumas before I created a web of wires around it. They'd slice anything that got to grabby. The behemothic gemstone itself offered light to the dim room while ebbing with radiant energy, leaving my skin warm and tingly. It reminded me of the comfort of a warm bath combined with the alertness of a cold shower.
+
+Torix watched the entire time while still working. He neither interrupted nor asked what I was doing, choosing to observe instead of interrupt. It wasn't until I wrapped the last wire around the stone that he gestured at it, "Would you mind putting a few mana circuits up to that? It would help immensely with dispersing the mana within."
+
+I nodded and etched them out via heated telekinetic contact points. With the glyphs sketched, Torix gained a massive supply of mana he could hook up to any device he wanted. Well, if he runically connected the machines, but Torix versed himself with those non-cipheric runes already.  Adding to the refinement, I carved in extra runes for general enhancement of the area. They were the same generic enhancers I used for Kessiah's rooms.
+
+Now polished, the crystal holder and enchanting lines hummed throughout the room, each of them giving off a gentle purr. The wafting echoed about until it faded to a faint thump like a hummingbird's wings. Combined with the white light, and the lair took on a different air entirely. It also illuminated the dusty, ancient pages of Torix's grimoire as he pulled his book out.
+
+Simple yet effective, Torix poured over his incantations many times until they shined with efficiency. No matter the number of refinements, the actual book showed its limitations even now. It was a grimoire made before he gained his new body. Considering his schedule and workload, I didn't blame him for stalling the creation of a new booklet, but that didn't mean he needed it any less.
+
+In his place, I'd have done the same thing. Considering the torn pages and ripped seam, I eyed it while a prick of shame spawned in my chest. I'd put so much on the necromancer that he didn't have time to change it, despite being more than able to. He needed a new one and now, so I tapped his shoulder,
+
+"Torix, when was the last time you made a new grimoire?"
+
+He peered down at it and channeled mana into his own runic markings, "Hmm, it's been quite some time. Given my new parameters, I'd imagine I'm long overdue for a more modern edition. However, my time is strained, and even with a new booklet, I lack the wherewithal to fill its pages. Being aware of those factors, I muster up the utility I still can out of this."
+
+He held the book up before I threw a punch at it. Stopping just short, my fist blew wind over the pages, and dust percolated into the air. Catching the light of the quintessence at an angle, the particles danced like glowing fractals. They reminded me of the new battery, but they also demonstrated how ancient Torix's book was.
+
+Torix scoffed at the sight, "To think it had been so long since I last cleaned it. Perhaps I should allocate time for its replacement."
+
+I raised my hands, "Give me the ritual, and I can make one for you. My cipher translations might give you more to work with too."
+
+"Hmm...I don't think that's even possible, given the ritual's constraints."
+
+"Send me some runes and we'll see."
+
+Having already drafted up everything on his own, it was obvious that Torix intended on making a grimoire. He simply hadn't gotten around to it. I stared at his markings,
+
+"I can make this work. I just need to force a few parts with the cipher."
+
+"That sounds rather dangerous. Are you certain that'll work as intended?"
+
+"It will and won't. I'm not trying to change myself or an individual with the cipher right now. It's more like I'm trying to make my mana flows work for someone else's ritual. That's more than doable, but it just won't be as stable as a normal grimoire creation. There could be some blowback from forcing it to work."
+
+"If I'm honest with you, I don't fully understand how the cipher works still, despite your tutoring as of late. Regardless of my ignorance regarding this matter, if you beleive you can do so, then by all means. Your completion of this would save me a rather painful headache. Thank you for even considering it."
+
+"Consider it done. I'll be back in a few hours."
+
+"I anticipate your arrival, disciple."
+
+Walking off, I conceptualized a few ways of making this happen. I'd done this before, so I already understood the general sentiment behind a grimoire's creation. Making someone else's tome threw a wrench in that process since mages often enjoyed various knick-knacks and features for their grimoires. Features that I didn't use. Getting those adjustments handled in writing beforehand helped sort that stuff out.
+
+That wasn't the only concern, however. I didn't want to make a frankenstien booklet that blew up when used. A grimoire required a person's will and intelligence to manifest, and I was using those attributes from me instead of Torix. I mean, I already knew Torix well, but the cipher needed an absolute kind of understanding.
+
+That meant I wouldn't be able to just force the entire ritual. I needed to incorporate as much of Torix's individual writing as possible. At the same time, the parts of the rite that feasted on his will would have to suffice on my intent instead. That could be fenangled by the cipher, which could bend the laws of space-time. This wouldn't be anything that dramatic.
+
+Knowing what to do next, I got my problems lined up. The first concern came from constraints on our territory. Any grimoire rite used many markings and formulae, and I found no nearby rooms for a project of this scale. The cipher additions only ignited further issues. A bit of quick thinking fixed this issue right up. Taking a nod from Mt. Verner's design, I installed a basement into the lair of Torix.
+
+I pulled this off thanks to the blue core's shielding being spherical. It stretched down, granting us quite a bit of unused real estate below our war camp. Taking some of that unrealized terrain, I carved out ceilings of stone and floors from fire. The stone filled in from my mana as I walked. The fire was melted sand, making a layer of clouded glass to walk on from sand below. Reinforced by struts of steel, this glass expanded outwards in every direction.
+
+Even with the generated stone as a support, this football-field-sized space required extra enforcement. Stabilizing with steel, I plopped pillars in evenly spaced increments. These columns synchronized in circles stretching out from the center of the room, where I placed a monolith for the grimoire's generation.
+
+Having a giant zone now, I etched in the fundamental runes first. Not needing my grimoire for these necessary incantations, I handwrote these down using multiple minds at once. Some cipheric commands weaved into this framework but only where necessary to save me time and keep true to Torix's original vision. Replanting the dimensional augments later, I grimoired them in with the charging and glowing style I usually used.
+
+This allowed many benefits. The cipher required a level of precision that was difficult to maintain long-term. Having a steady mind or not, a person's concentration wavered from time to time, so by limiting the amount of cipher work, I also limited the number of mistakes I could make. That's where the glass flooring came in handy. Being translucent, I viewed both sides of the double-layered, dimensional cipher I used. That saved me lots of time I otherwise used checking for errors.
+
+Melding the two runic styles also saved me the laborious effort of converting all of Torix's ritual. In a word, Torix was 'chatty' when he wrote out his runes. That extended the ceremony by leaps and bounds, and considering the sheer volume of etchings required, I cut some corners. As few as I could manage, but it still left a mark on the rite.
+
+The rest of the process took up an hour, most of that dedicated to charging mana for Torix's grimoire. All it required was putting a palm on the monolith at the ritual's center plus a bit of mana. My mind wandered to my next upgrade for my followers during that time. Amara needed armor, after all.
+
+During this lapse in attention, the sheer enormity of this ritual escaped me. Plasma formed in the air as streaks of crimson lightning streaked out. I didn't notice because I'd split my mind into many parts, all of them consumed with some critical task. This left the piece of my consciousness dedicated to charging overwhelmed by the job. All it could do was funnel mana, and it lacked the awareness to warn my other minds.
+
+As the mana seeped out, it saturated my hand placed on the central monolith. A tiny prick of pain radiated up, which most people would overlook. It wasn't often I felt pain, however, so it captured my attention like a leg snapped up by a bear trap. Staring down, I found the ritual running haywire.
+
+The ritual accepted my mana in place of Torix's, but it oozed out more mana than a normal ritual would. That wouldn't have mattered much for a normal person, but my mana exceeded the norm by orders of magnitude. Even a reactive pulse would level our entire camp and then some.
+
+Thinking fast and on my feet, I opened my pocket dimension. Swiping it over the monolith, the grimoire and the monolith fell into the void. The energy fizzled into a vast silence, and I stood in the center of it all. I frowned at the now empty runes, their light dispersing into their surroundings. I'd failed the rite.
+
+Well, I'd failed it so far.
+
+Taking a moment, I thought the situation through. In stasis, the ritual remained unfinished but close to completion. Once done, it would radiate out in a massive explosion that would destroy the area. Containing that required my pocket dimension swallowing the fallout before the fallout swallowed our camp.
+
+A solution popped up in my head, and it put a satisfied grin on my face. I sent Chrona a message, telling her to come to my coordinates. As she flew over, I made an entrance for her outside of Torix's domain. She flew into my basement, being mindful of the glass flooring as she landed here. Once settled, she tilted her head at me,
+
+"What is it that you needed so urgently?"
+
+I pointed at the missing monolith, "There's a ritual that's happening. I'm going to finish the grimoire then put the resulting shockwave into my pocket dimension. I don't trust my reaction time to be precise enough to handle that. I think I'll miss netting up the explosion, pretty much killing everybody here."
+
+A bead of cold sweat fell from Chrona's face, "That is...unfortunate. H-how am I to help you with this?"
+
+I put my hands on my hips, "You'll slow time in this one spot, making the explosion less...well, explosive. It'll radiate slowly, and I'll put it back into my pocket dimension. Once there, I'll just pull out the grimoire and keep the explosion in my storage for later."
+
+"Guildleader...You're insane."
+
+I raised my eyebrows, "Insanely smart, eh?"
+
+Her eyes widened, "It...It is a solution, but I believe it's overly risky."
+
+"It's only risky if you can't slow down time much. What kind of temporal dilation could you put on an area like this?"
+
+I gestured at the ritual's center. Chrona curved her tail until the tip of it rubbed the bottom of her chin, "I could cut it down to less than a hundredth the speed of normal time, given how small the area is."
+
+I clapped my hands, "That's perfect. I can work with that."
+
+"Then I am willing to try if you believe this is a good idea."
+
+I gave her a thumbs-up, radiating confidence, "It is. Let's do this."
+
+Planting the cleaved section of monolith back in place, I radiated energy through the runes. They charged through nearby stones until they glowed with volatile heat, electricity, and kineticism. My surroundings quivered, the stone seeming to come to life as if shifted in our vision, blurred by the warmth.
+
+This left Chrona uncomfortable, the energies damaging her skin and concentration. To keep her safer, I stretched out several tendrils of armor around the monolith. More thin cables of the metal pulled out from my corded armor like leaves from a branch. This branching continued until the cords created a tesselated pattern that grew smaller and smaller. These metallic ferns covered the area with my dimensional fabric.
+
+They acted as conductors, absorbing and soaking up the latent energy releasing from the ritual. This cooled the nearby area, letting Chrona breathe a sigh of relief. It also gave me a nice bonus.
+
+New Skill Learned! Conductive Plumes(lvl 10) - You're able to wield your hunger as a fluid tool, one without limit. In that infinity of options, you've constructed yet another way of devouring, one that is more passive yet no less effective. +10% to passive energy absorption from created 'plumes.'
+
+This was one of the absolute weirdest skills I'd ever gained, but hell, I'd take what I could get. It let Chrona stay and form her temporal dilation, so I counted the crazy skill as a blessing. Either way, these, er, 'conductive plumes' worked as advertised; Chrona didn't get melted in this ritual's aftermath.
+
+Minutes passed before the ceremony got close to completion. Coming within a few seconds of being fully realized, I gave Chrona the sign to do her thing. The moment she generated the temporal field, the ritual slowed down to an absolute crawl. The next two seconds of the rite extended out for the next fifteen minutes.
+
+Turns out, Chrona's time powers wrought better results than even she intended. That was superb because the ritual's culmination let out a tectonic boom. Even when slowed down immensely, the shockwave still moved out at a blistering pace, but I caught it in time. Swiping over the ritual once more, the monolith disappeared in a starry portal.
+
+Having contained the resulting burst, I smiled at Chrona as she let out a deep sigh. Chrona wiped her draconic face with her tail, droplets of sweat pooling over her skin,
+
+"Daniel, please give me more warning before we handle something like this again in the future."
+
+"Eh, I'll try."
+
+"Comforting. Very comforting."
+
+Rummaging through my pocket dimension, I found the kinetic blast floating in stasis. Searching through that place was like finding a memory, one you visualized clearly. In this case, it stuck out from recency and the dynamism of the event. Contained within that blight of percussive forces, an object lay at the center.
+
+There it was. Pulling it out, a large, pristine grimoire poured from stasis. Generating crystalized quintessence to get a better look at it, Chrona and I gawked at its pages.
+
+It suited our ancient necromancer well.

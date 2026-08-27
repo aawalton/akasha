@@ -1,0 +1,233 @@
+---
+id: 9533be1e-995e-5221-aee3-7b9c042dec62
+page-type-slug: story-chapter-royal-road
+title: "The Path of Ascension Chapter 349"
+slug: 0047-the-path-of-ascension-chapter-349
+partOf: the-path-of-ascension
+position: 47
+ownLength: 5062
+unit: words
+ownProgress: 5062
+publishedAt: 2024-09-13
+link: "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/1801886/the-path-of-ascension-chapter-349"
+royalRoadId: "1801886"
+markedReadAt: "2026-06-29T19:19:09.347Z"
+---
+
+Chapter 349
+
+Matt wished he could say that he was full of confidence when they exited the Arbitration Convention building, but instead he was just wrung out.
+
+People were ultimately people whether they were high Tier or low Tier and the unawakened proved that to Matt better than any research paper ever could. A few of the leaders seemed like genuinely good people looking out for their countries and its peoples but far too many of them only seemed interested in the benefits the integration to the Empire would bring them personally.
+
+After the shock and disbelief they had shown upon reading the briefing, the majority of Soerilia’s leaders quickly shifted their focus.
+
+Unsurprisingly a few of the leaders seemed to think they could just ignore Matt and Liz’s arrival and spoke of things like closing their borders. Matt tried to impress upon them that such actions wouldn’t be tolerated and they should use the time allotted to get their people used to the Empire as much as possible during the time they had.
+
+Those were put on various watch lists to be monitored by the planetary AI Matt was going to set up between meetings.
+
+Because of course there were more meetings.
+
+The two councilors looked at him like he was crazy when one of his statements implied that the intro meeting would be their only meeting. They quickly informed him that they would need a day, preferably two or three, for everyone to meet amongst interest groups and political affiliations so the Soerilia leaders could decide on their course of actions.
+
+Matt wanted to ask what possible course of action they could be planning besides what was laid out in their introductory docket and the larger, more thorough information packet they were all given, but he realized what that would sound like and so held his tongue.
+
+While he wanted to get back to Lilly so he could start preparing for his guild, he also wanted this transition from Republic veil world to productive Empire world to go as smoothly as possible.
+
+To that end, Matt and Liz agreed to give the various world leaders the three days that Councilor Samuel requested.
+
+They instead went and toured more of the planet.
+
+Their first visit was the Cradle of Empires purely off its name.
+
+The region was a massive desert surrounded by arid plains surrounded further by large mountains that were nearly impassable for mortals outside of a few months when snow didn’t clog the valleys.
+
+The only reason life was able to flourish in the region was the massive river that ran right through the center of the region creating a strip of green across the desert.
+
+The traditional peoples of the region were nomadic and in the winter months they roved through the deserts and plains gathering food from horseback and in the hot summers they moved to the river and settled down waiting out the worst of the heat by the largest source of water.
+
+The reason the place was called the Cradle of Empires was the fact three empires were created out of the region as inevitably a leader united the nomads and led a majority of them out to conquer the surrounding regions.
+
+Amusingly enough the word Matt’s AI translated as ’cradle’ had implications of a place for the elderly to die because those same three empires ended up trying to conquer their homelands a few generations later and were defeated in detail allowing their neighbors to gang up on them and tear them into pieces.
+
+In the current political landscape the region was only considered a mid level country but they had a thriving tourist industry that Matt and Liz wanted to take advantage of.
+
+They were even able to do so for a whole day and a half before they got a call from Councilor Jolene who seemed excited and Councilor Samuel who seemed worried for his life still.
+
+With a thought, they returned to the Arbitration Convention and moved to see what Councilor Samuel was worried about.
+
+He nearly quivered as the two of them walked into his office. “My Lords I…” He swallowed several times before he could continue. “I wanted to inform you that some of the world leaders are intending to do things you might consider against your orders.”
+
+Samuel winced like he expected to get personally blamed but when no reprimand came he heisantly spoke further. “Some of the delegates are intending to set up an organization dedicated to preserving the local cultures. They don’t mean treason. I swear. They just want to protect what is, what was. Please don’t punish them too harshly.”
+
+Matt just blinked at Samuel in confusion, then returned to Tier 26 speeds to talk to Liz, “Seriously, what’s up with these guys? We’re not monsters.”
+
+Both Lizzes shrugged in unison. “I have no idea, but I’m grateful he's at least trying to do his best to protect his people. If we were assholes and found out he was hiding this from us, it would be his head.”
+
+Matt rubbed his temples, but composed himself before returning to a speed that Samuel could perceive. “We’re not upset, Councillor. The degree to which you all wish to preserve your current culture is entirely up to you, so long as it doesn’t violate Empire rules, such as which language is primarily taught in schools. There aren’t many lords that actively support cultural anthropological efforts like you’re describing, but very few forbid it, and we certainly aren’t about to stop you in any way. The echoes of your culture are entirely likely to have their own unique impact when integrated into media or tourism which is a net positive all things told. Who’s trying to spearhead the operation?”
+
+Samuel looked genuinely shocked to which Liz explained further. “Councilor Samuel, you need to take our perspective into consideration. So long as the baseline culture– meaning language, governmental controls, and beliefs– are in line with Empire standard, The Empire as an entity doesn't care about local variations like a society for historical preservation. In a hundred years it will be relegated to something people pay lip service to, in five hundred it will just be a thing people celebrate during local holidays, and in a thousand it will be curiosity. But even in that case, there are plenty of historians who have dedicated eternity to visiting planets and learning their unique histories and keeping them alive in some way shape or form.”
+
+Councilor Samuel went pale at the words, but Liz continued.
+
+“If your people can preserve more of their current culture than that, they are welcome to do so, but that is the problem with mortal populations. They grow old and die. Rapidly. If culture is not controlled and prevented from drift you will have the issue that you currently possess now but across millions of worlds: people who can’t understand their neighbors or can't tolerate some superficial local custom that offends their own local customs. If it makes you feel better, your culture wouldn’t survive more than a century or two on its own before something else supplanted it. By integrating now, your culture is, arguably, lasting far longer than it ever would have on its own.”
+
+Samuel looked depressed at the realization but he nodded to which Matt started speaking. “Tell the leaders who wish to do something like that they should check the packet. There is a section dedicated to the topic on page seven thousand and fifty two and it details the historical best practices and what pitfalls to avoid. They are welcome to take what they want from that or ignore it. While we are handling the integration, we are willing to dedicate…” Matt looked to Liz to get a feel for what was a proper amount, “a billion credits a decade to the effort.”
+
+That brought up a side topic about how they were supposed to handle the integration of credits and the conversion of the local currencies, which Matt and Liz bowed out of. They had a team of administrations hired from a Tier 35 corporation, which would fill the role of administrator assistance once the integration was fully revealed. They had contracted the best of the best, and this was why. They would handle things like switching local economies to the credit system and offering suggestions to the planet in which ways they could best create wealth post integration.
+
+After that meeting they went to Councilor Jolene who was meeting with the three most powerful world leaders. Democratic Republic of Noricum, the Communists of the Greater South Plains, and the Joined Provinces of Turistia.
+
+Matt expected pushback from the strongest local powers, especially considering two of them were at war just days ago, but the atmosphere seemed positive which gave him a glimmer of hope that they would have a good idea or two.
+
+Councilor Jolene stood as he entered and bowed, which was belatedly copied by the others.
+
+The leader of the The Joined Provinces of Turistia, Westley Bakerfield, spoke first. “We have been talking about how best to go about easing our peoples into the idea of magic. Consulting the documents you provided we would like to use the Roland Method as it is already in place for Soerilia so it's as easy as simply activating the plan.”
+
+Matt frowned at the suggestion, which made the leaders flinch.
+
+Liz leaned back slightly signaling that this was his own decision and she wouldn’t interfere.
+
+He appreciated that but things would have been a lot easier if she was willing to just make the decision which would allow him and his personal biases to keep out of the touchy subject.
+
+The Roland Method was one of many, many ways that the Republic used to re-integrate Veil worlds, intended to be the closest thing to a ‘natural’ re-integration that could be feasibly managed. It worked by carefully pulling back regular delves from remote rifts in unpopulated regions, allowing them to break and fill a portion of the world with monsters. Then over time, more and more of the rifts would be unmanaged, allowing for the citizens of the world to naturally fight against and kill the monsters, Awakening and growing in strength until they were able to keep their entire planet in check solely through native efforts.
+
+Its proponents argued for its efficiency as well as the way it could most effectively ease a Veil world into cultivation with minimal outside influence. Matt didn’t disagree, as even his personal favorite - Biplanet Unveiling - still involved unnatural meddling from the outside and a decent bit of shoving around existing cultures to try and make them adapt.
+
+Veil worlds would sometimes technologically advance far enough that they became capable of traveling off-world and establishing a colony on another world in their solar system. Having portions of their population living on two separate planetary bodies, one Tiered and the other not, almost always resulted in the subsequent discovery of essence, and prepared them for the reveal that their main world was itself simply a colony of a much larger multiversal Great Power. Of course, the Republic still would need to intervene before Essence could warp native power structures… but it was about as harmless as it came, and definitely one of the most interesting situations. It just took too long to be practical with the expected Empire timelines of intergeneration.
+
+Matt just found it so interesting. Sometimes there would even be some new and interesting bit of tech that came out of those worlds. There were a fair number of people who were obsessed with ‘mundane tech,’ but even in instances where it wasn’t just a less-efficient way of using mana, it was almost always over-specialized for low-Tier materials and couldn’t scale very well. Mundane tech hit the limit of physics too quickly whereas essence tech had no such limits but that didn’t make the research any less intriguing.
+
+It wasn’t just his personal history of rift breaks on Lilly that led him to dislike the Roland method, but he could also definitely recognize that it was a bias.
+
+Waving to the leaders Matt moved to take a seat. “I’m not angry at your idea but I dislike the Roland Method because of its relation to an incident where I grew up. The world I grew up on is the Empire equivalent of a backward tiny town with only a few dozen million people living there.”
+
+That seemed to shock all four of the Soerilia natives, but he continued without letting himself linger in the memories. “Our local noble was deposed because they allowed a series of rift breaks which devastated several cities as the monster rushed out and killed a majority of people. My parents were part of those lost so my view on deliberate rift breaks is… distasteful to say the least. I would rather just disperse the rifts while slaughtering the monsters but I also recognize that even if it is a method with more losses than others it has been used to great effect a number of times.”
+
+When it seemed like Councilor Jolene was going to backtrack her earlier offer of using the method Matt spoke first. “I won’t say you can’t use it ,but I want you to know what you are getting into. You will lose people. If you are going to use this method, I am going to insist that you have a well laid out plan and only take volunteers.”
+
+Letting his eyes harden for dramatic effect Matt caught the eye of each leader before looking to the next. “When I say volunteers, I mean volunteers. No playing with definitions or using your soldiers because they volunteered to be part of your armed forces.”
+
+Seeing he had made a decision, Liz leaned forward and added her own ideas. “This could even be a useful method to introduce some of the new technologies. The mountains are young and will take a substantial effort to cut through. If you look at the technologies we will be making available, you will see an improved drilling method. It—”
+
+Matt leaned back and just listened, which the others seemed happy to let him do. Instead Matt let his spiritual perception spread to the unclaimed land and searched through the larger half of the continent.
+
+There was a surprising number of natural treasures scattered through the area and while some were obviously placed there when the world was first settled, even more were obviously native to the region.
+
+Nothing was new but there were lots of useful variations he saw. Whoever found the SunSet Marigold would find themselves quite the lucky individual. That natural treasure was rare enough in the Empire that it caused a dust up in any region it was found in as higher Tiers tried to buy it for their descendants.
+
+He did find two rifts that he considered too dangerous to remain and with a thought he drained them of mana until the rifts dissipated and with another thought he killed the monsters that had escaped the rift over the years.
+
+Matt was tempted to do more but he knew that was his past talking. Instead he decided to just let this planet choose its own fate.
+
+They had done so for thousands of years while they were a veil world . Even if they were being integrated into the Empire, their competency hadn’t vanished.
+
+If the three largest countries wanted to use what was left to them by their ancestors that was their choice.
+
+Matt contributed a few ideas for how best to handle the ideas but he let Liz and the leaders make most of the decisions.
+
+He thought that was the end of his meetings but almost all of the country leaders wanted to meet with them before the actual meeting and it seemed like all of the actual decisions were made before the formal gathering.
+
+Thankfully most of the world leaders seemed to fall in line over the discussions and Matt was confident that Soerilia would hit the development milestones they had all agreed on even if he heard whispers about slowing things down. If everything went well in twenty five years the world would go through its official unveiling but most citizens would be aware of magic long before that and he had hopefully made it clear that malingering wouldn’t be tolerated.
+
+Matt and Liz returned to Lilly where they met up with Cato and Isabella who had been coordinating with the various people who had arrived to see them while they had been on Lilly.
+
+Seeing how much extra time they had spent on Soerilia, they contemplated changing their plans, but ended up choosing to keep to their schedule.
+
+With the war over, they needed to visit Ventillyria to complete the promise they had given so long ago.
+
+Thankfully Allie needed to get a new way point for Lilly and offered to jump them to Ventillyria while she toured the planet and waited for a waypoint to naturally form.
+
+It was hard, harder than Matt could have ever imagined, but seeing the survivors who were still alive thank him for killing Maven healed a part of Matt he hadn’t known was still bleeding so many years later.
+
+Personally Matt was just happy that so many of Ventillyria’s people had grown up to be strong enough to protect themselves and their homes. Those who remained were scarred, but they were at least alive.
+
+There were even a few that Matt, Liz, or Aster personally remembered from their time in the camps or shortly after.
+
+It took almost a full month to talk to everyone who wanted to talk to them but it was time well spent and when Allie took Aster and Liz to the Capital, Matt was in a much better mood.
+
+Aster was still busy publicizing her end of war ice cream before her planets arrived and Liz wanted to meet in person with her bloodline research team now that she was free from the obligations of the war.
+
+They might have served their purpose of helping his wife create her ichor mana and bloodline, but their jobs weren’t done by a long shot. Liz wanted their assistance in understanding her new bloodline before eventually turning them into a sort of bloodline version of his guild, wanting to discover and create better things for those with bloodlines in the Empire.
+
+It felt slightly weird to be separated from his family, but they all had their own things to do.
+
+He was in such a good mood that he didn’t even mind when he arrived on the island that was going to turn into his guild's first headquarters and how much it would need to be expanded..
+
+As a rule, rifts could only form naturally if they were more than five miles from the coastline either inland or out in the oceans and this island was just a hair too small for what Matt needed at just over ten miles shore to shore. The Coastal Exclusion Principle might not apply for man made rifts but that didn’t mean they could ignore it or all of their tests could end up being flawed because of their non normal baseline.
+
+There was currently one rift on the island but it was delved down thanks to the efforts of one of the local guilds so there weren’t even any monsters running around the tropical island.
+
+Fifty thousand acres just wasn’t enough for Matt and his guild. Rifts didn’t like to be too close to each other and while you could force them to spawn near each other with formations such actions were not conducive to proper scientific testing which needed to limit variables instead of adding new ones.
+
+To that end Matt was going to double the diameter of the island from a ten mile diameter to a twenty mile diameter which would quadruple the island's size and the available land to create rifts on.
+
+But seeing the almost picturesque island and with his emotions still in flux from both Soerilia and Ventillyria, he found he didn’t want to just dump dirt onto the edge of the island to expand it. The local corals were gorgeous and it would be a shame to destroy them.
+
+There was tons of beautiful life all around the island that he wanted to save if possible.
+
+So instead of just casting [Create Earth] to dump dirt on the edge of the island, Matt activated [Earth Manipulation] and with the bare minimum amount of power, lifted the top layer of seabed up, just enough to get all the local sea life, along with some careful [Water Manipulation] to ensure the fish moved along too and weren’t slammed into the moving ground. This part he actually had to take some real time for, as he didn’t want to kill the sealife from whiplash which would rather defeat the point.
+
+With his power and Tier he could have expanded the island in a few seconds but he would have also sterilized the island of all life larger than bacteria.
+
+As he moved the seabed outward he did his best to put it back down where it fit but resigned himself to the fact that he’d be ruining some sealifes day either way. He was trying his best but any change would hurt something.
+
+Then he used [Create Earth] to backfill the cleared area with bedrock and soil, using [Earth Manipulation] to ensure it was all in the right proportions and places until it breached sea level, using [Water Manipulation] to prevent any excess or excessive waves. He still took his time, because being too cautious was never a bad thing, but he would certainly not allow for any slip-ups.
+
+A few minutes later he had a compact foundation for the newly created land on the island that if not for the lack of plants was indistinguishable from the rest of the island.
+
+Seeing the bald spot on his new island Matt frowned. He wasn’t done with his expansions but he really didn’t like the look of the unfinished area.
+
+After giving the island a few minutes to settle, Matt started scanning his expansion and looking for problems to solve. He had never done this before but he had looked up the typical methods on the EmpireNet and followed them. He could almost hear Luna yelling at him for his work but it was more affectionate yelling than anything as he had done a damn good job if he said so himself. Even with a careful scan there wasn’t anything for him to fix so he moved onto his next expansion.
+
+It took him almost half an hour before it was done to his satisfaction, but when he was finished he had an island surrounded by an empty five miles of dirt which made him wonder if he should have expanded the island from the very center so it was a ring of wilderness along the outer perimeter instead of a dot. The more he thought about it the more he regretted his choice as a lot of that older wilderness would end up being cut down because they would need the center of the island clear for their testing and the guild hall.
+
+The resource he had looked up about the expansion of the island had been about building PlayPens which wanted the extra ground to be near the edge of the islands so housing could be built where rifts couldn’t spawn, not island research groups who needed that valuable inner land to experiment on.
+
+Matt wrestled with the decision but ended up moving the trees and their corresponding wildlife from the center of the island to the new land along the edge in small clusters so the flora and fauna would spread and eventually cover the island once more.
+
+Sighing now that he had gone this far Matt dug through his spatial rings just to find that he didn’t have any fertilizer. The ground created with [Create Earth] was comprised of whatever elements he wanted which meant there were some nutrients, mainly nitrogen, phosphorus, and potassium but if Matt wanted to have an island that didn’t look like an beginner landscaper had expanded it he would need more fertilizers to encourage rapid growth.
+
+Now that the center of his island was clear Matt flexed his considerable magical might into compressing some of the topsoil into something closer to bedrock which would make a good stable foundation for the guild building that would be built here.
+
+After checking his AI he winced as he saw that the construction company he had arranged to visit Lilly had been waiting on him to give them the ok to come to the island.
+
+Watching them work gave Matt a new appreciation of construction Talents.
+
+Just five people came in and in just five hours created the six story compound along with the outlying buildings to the specifications the blueprint he and Erwin had finally settled on along with fitting the building with the basic necessities like food faculties, temperature control, furniture, and things like windows and doors. Everything was made out of Tier 25 materials and would be effectively indestructible to the forces they should be dealing with while working mainly on low Tier items.
+
+Matt had originally wanted to go with a specially designed building so that spies wouldn’t have plans for the structure but Erwin had rightly pointed out that such methods were useless to any dedicated spy as any Tier 44 or below could enter the Empire without the Emperor's notice but still be strong enough to scan the guild building without being noticed.
+
+It was better to just use a standard layout that everyone knew and worry about security in ways other than the buildings layout. There was still plenty of room to show off and customize the building, even within the hundreds of fairly standard variations, after all and Matt went for one with size as the main theme instead of any of the other variations.
+
+Thankfully he didn’t need to deal with that headache himself. A branch of Harper’s spies came through the moment the construction crew was done and did things. Matt didn’t understand the purpose of one of the women making a small hole in the kitchen wall just to mold the wall back into a flat plane when she didn’t add any device or magical effect, but Harper trusted them so Matt let them work.
+
+Compared to the construction crew who finished their work in just hours, it took the spies a full week to finish their business, whereupon a smaller but incredibly attractive man who had introduced himself as Tholly proclaimed their work done.
+
+He would be one of the onsite counterintelligence operators and the only one Matt would know of. He would be working as one of the island chefs, and surprisingly, he was a very good cook.
+
+Matt wasn’t sure if he had a cooking Talent and trained as a spy or had a spy Talent and trained as a cook, but the man was good and highly trusted by Harper as a handler for the spies Matt wouldn’t be told about.
+
+He still wasn’t entirely comfortable with the idea of there being agents he didn’t know of but Harper had beaten the fact that if he didn’t know his enemies couldn’t learn from him. Or it could have been Lyre. When the intelligent mask pretended to be her owner it was impossible for Matt to tell the difference so long as pronouns weren’t used.
+
+Harper may have discarded their gender identity but Lyre was very much a woman despite being a mask and Matt had been forced to listen to her explain the difference during a dinner where he made the mistake of asking the mask about her choice of pronoun.
+
+Part of him wondered if Harper would be acting as a spy in his guild but he eventually wrote that idea off as them being too busy to deal with such a low level job. Even if they could have been Tholly and Matt would have never been able to tell the difference.
+
+Once the spies were done with their inspection of the building they didn’t leave. That would have been too easy. Instead they went through his order of equipment with a fine tooth comb.
+
+Equipment that they had delivered. Tholly explained that they had already gone over the equipment and searched for bugs but one could never be too careful so they were doing it again before anything was installed and would be doing so periodically going forward.
+
+It seemed a bit wasteful to Matt, but considering this would only be his acting headquarters for at least a few years, and hopefully a prominent research outpost for millennia afterwards, Matt still wanted to participate somehow. Even if that just meant he was watching a bunch of spies tear apart equipment and compare it to blueprints by sight, touch, and oddly enough taste.
+
+He understood not relying on spiritual perception for spy devices, if that sixth sense was able to notice anything amiss the spying device wouldn’t be any good but taste? Watching someone lick all of his equipment was just unsettling and he made a note to cast a few cleaning spells when they were done.
+
+It was interesting to see the spies work as they were all clearly masters of their skill set and even with his own counter espionage training Matt could only follow a quarter of what they did and half of that he didn’t understand the mechanics of their actions.
+
+Keeping in mind what Harper and Lyre had said he didn’t ask too many questions but Tholly at least was happy to answer the ones he did ask and Matt learned a few new things which was always fun.
+
+Then as if a switch was thrown, the spies finished their current task and then just flew off within seconds of each other. Tholly then gave Matt the all clear for his guild to move in and it was finally time.
+
+Rubbing his hands together Matt got to work.
+
+Matt had been waiting for this moment for centuries at this point and he couldn't wait.

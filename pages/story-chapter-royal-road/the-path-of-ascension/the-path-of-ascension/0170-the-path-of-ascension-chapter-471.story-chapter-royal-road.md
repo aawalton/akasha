@@ -1,0 +1,429 @@
+---
+id: 4eb257ac-e973-550e-849d-90ff33e722bf
+page-type-slug: story-chapter-royal-road
+title: "The Path of Ascension Chapter 471"
+slug: 0170-the-path-of-ascension-chapter-471
+partOf: the-path-of-ascension
+position: 170
+ownLength: 6449
+unit: words
+ownProgress: 6449
+publishedAt: 2026-01-12
+link: "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/2936771/the-path-of-ascension-chapter-471"
+royalRoadId: "2936771"
+markedReadAt: "2026-06-29T19:33:36.261Z"
+---
+
+Chapter 471
+
+Allie groaned as she slumped in her chair, panting heavily. Sure, fanning herself with Aster's tail was pure theatrics but Matt still made a note to make her a nice basket of pastries in a few months when things died down. She deserved it after her efforts in teleporting them and their items around.
+
+From their chats in recent days they’d long since planned their steps upon returning but they had one important thing to do as the location of their loot was revealed by Allie. Predictably she’d been dropping everything off at Lila’s guild too but that meant their previous unknown loot would be well documented with the mysteries revealed.
+
+Not that they’d be selling any of it any time soon. He didn’t regret Allie skipping the decades-long return journey back to settled space, but by the very nature of the breach attracting the Empire's most affluent, most of the people they wanted to sell their items to were still in deep chaotic space.
+
+As were the items they’d want to buy in exchange.
+
+Matt did, however, want to learn about all of the Natural Treasures they had gotten but couldn’t distinguish at the moment. Especially the ones from the strange realm that had allowed them to customize the Natural Treasures. It had created a plethora of items they hadn’t been able to identify at all or hadn’t been certain of their effect.
+
+In hindsight Matt was doubly thankfully to that strange realm putting him onto the idea of mana storage devices. The gem that was still hidden inside in his chest holding the strange realm’s energy in perfect stasis. The same gem he’d been toying with like a painful tooth since they exited the strange realm. He was almost desperate to get back to his own guild for further testing and investigations.
+
+The energy was still perfectly stable and swirling around without a single fluctuation that might signify its deterioration. Every time he saw that, it only made him want to run experiments he was physically incapable of performing at the moment.
+
+Given how close he’d come to bottoming out on willpower he wasn’t willing to risk using his Domain until he’d fully recovered his willpower. As such, he forced himself to relax and enjoy the process with the rest of the crew as their final activity together.
+
+He was glad he did.
+
+Their sudden arrival in Lila’s guild’s headquarters’ world was met with a rapid but brief mobilization, as every system shouted warnings thanks to their sudden arrival in a place where ships normally exited into chaotic space. Then, upon receiving their identification codes, everyone rushed over anyway, wanting to see why they’d returned so early.
+
+Most of the hangers-on kept a respectful distance, but that was because they were mainly from the other exploration guilds that were also headquartered out of this system. They were only interested in updates both general and about their particular teams.
+
+The Unsparing sent what information they had but otherwise ignored them, instead flying to the space station Lila’s guild used as its headquarters.
+
+Clearly Corporations design with no attempt to blend it in, Matt had heard its origin story more than once. Lila had gotten wind of the Corporations moving a deployable naval dock to the frontlines and stole it, before slipping back into the Empire before the Corporations could respond.
+
+That wouldn’t have been a problem, but the Empire hadn’t been at war with the Corporations at the time, and she’d nearly caused one with her stunt.
+
+That was where the story always differed.
+
+When Lila told the story, she swore that she volunteered to pay the Corporations for the space station to settle the dispute.
+
+When someone like Luna told the story, the narrative was that Lila ran away from Georgios with her hoard for almost a week before he caught up with her, forcibly taking the payment from a temper tantrum-throwing dragon.
+
+Matt knew who he believed, and it wasn’t the famously dragony dragon.
+
+If Lila had wanted to buy a space station, she’d have done so from the outset. Even if she hadn’t wanted an Empire-built station, she, as an Ascender, would have had more than enough influence to get one from a Corporations manufacturer.
+
+Captain Stenson let out a long sigh as he patted the armrest of his chair as they finished attaching themselves to the larger station signifying the true end to their journey. “Ah, it was a good journey, but time to say goodbye once again.”
+
+His melancholy was quickly dispelled when his lieutenant quipped back, “Weird time to say that, given this is one of the few times this ship has returned from chaotic space intact.”
+
+Stenson barked a laugh and brightened considerably.
+
+Seeing the small rush of support staff, Matt swept the guild hall and laughed when he realized everyone remaining had already arrived. Appraisers, however, were far less likely to go into deep chaotic space than most other professions, and the guild’s four permanent appraisers were already waiting for them at the end of the dock.
+
+One woman was even rubbing her hands together, unable to contain her excitement looking at the rear of The Unsparing.
+
+Allie, who had slung herself over Aster's shoulder, garbled, “I wish I could feel ten percent of her enthusiasm.”
+
+Liz raised an eyebrow at the waxy teleporter. “Are you sure you're okay? You look like a candle left out in the sun.”
+
+Allie only seemed to have the energy to make a rude gesture, but that merely got Liz to laugh. “You're the one who insisted on returning as soon as possible. Everyone else was fine with flying for another month or so to let you recover more and shorten the distance. This is all on you and you won’t get any sympathy from us.”
+
+Allie looked to Aster, clearly seeking aid, but Aster was even more heartless. “I will drop you.”
+
+Unable to hide her smile, Allie shot right back as they waited for everyone else to finish the more time sensitive measures before getting off.
+
+A man Matt recognized as one of the guild’s admins approached them the moment they walked inside.
+
+“We set aside one of the ballrooms with your previous umm… delivery. Two of them actually, but one simply has the bulk goods we can sell off at any time you give the word. Everything else but most importantly, the more valuable Natural Treasures, are well preserved and should have no issues remaining until the Breach Exchanges when the deepest explorers return.”
+
+Early explorers rarely sold their most valuable items, rather holding onto them until the deepest explorers returned with hopefully the best items. The event was almost as anticipated as the Breach itself as it inevitably attracted the Empire's most wealthy. More importantly they drew out the oldest Immortals most of whom were older than the current Dynasty.
+
+While most of that type had been purged, either forcibly ascended or killed when Agatha took power, she hadn’t been a monster and those who were willing to follow her new laws and more importantly restrictions were allowed to remain.
+
+Matt had no hard numbers but he knew from talking with Aunt Helen most people who lingered did so for two reasons. They either couldn’t ascend or they had too many attachments to leave. Both groups were interested in breaches, or more accurately the rare and exotic materials pulled out of them, though usually for different reasons.
+
+According to Aunt Helen people who wanted to Ascend but couldn’t, typically fell into two categories. The first couldn’t form their Aspect and therefore couldn’t connect to the realm and pass through its barrier. The second group were those who had their Aspects but also had a growth item below Tier 45 that wouldn’t survive the process.
+
+Both needed rare items often only found in breaches and would spend anything for the possibility of advancement as did those who were looking for items to strengthen their various organizations in a more general sense.
+
+With their age came the accumulation of resources and with such people exiting their seclusion everyone not already involved with the exploration would flock to cater to them turning the exchange into a hyper action and bartering center.
+
+Matt couldn’t wait though he’d have to as while lesser more common Natural Treasures would be sold for market value he wasn’t interested in such items having long since had access to them through the Empire.
+
+Seeing the ballrooms that housed roughly half of what they’d pulled out of chaotic space Matt couldn’t help but be impressed at what they’d managed.
+
+Rows upon rows of floor to ceiling shelves were stacked with preservation boxes all carefully labeled and organized. Each item that required it, which was most of the Natural Treasures showcased in the front, were stored in its own unique enclosure perfectly mimicking the habitat that spawned it. The system was similar to the ship, but far more robust, taking advantage of the looser space restrictions.
+
+The Corporations built most of their space stations as monstrous hulks, and the storage rooms turned ballrooms that were once more being repurposed as storage, were no different.
+
+And they’d managed to fill at least two of them.
+
+Floating over to one of the biggest question marks of their journey, Matt and Liz stopped in front of the Tier 30 Ichor Bonsai Tree.
+
+It was still a horrifying mimicry of a tree, made out of a wereboar’s magical circulatory system with three ‘apples’ that were actually floating light orbs. Worse yet its trunk and leaves still pulsed with the rhythm of a beating heart, its blood vessels carrying golden ichor through golden flesh.
+
+Everyone followed them wanting to know as much as they did.
+
+Skipping past what they knew, Matt found the official appraisal.
+
+Primary effect: Apples appear to be filled with Ichor's full vitality and the ingestor, for an estimated duration of a day, is granted overhealth effects along with a rapid healing factor at little to no cost.
+
+Suspected secondary effect: permanent enhancement in the body's healing ability, so long as the energy isn’t used, but rather allowed to settle naturally. See appendix 3 for full list of possible alternative secondary and tertiary features.
+
+Additional notes: Natural Treasure is draining energy from the ‘soil’ it's planted in. It prefers flesh of high-Tier were-beasts or boars. Other meat types seem to be absorbed at a reduced rate, but no other adverse effects were noted. Ichor mana enriched meats also appeared to satisfy slightly more than untreated flesh but not as fully as boar meat.
+
+Estimated longevity: Unknown. Natural Treasure shows limited and contradictory signs of conventional aging, seeming to grow more robust over time though unknown if such will continue post harvesting. Advancement in Tier is speculative, but unlikely. Rather it is supposed the treasure has an increased chance of the saplings surviving past the normal first few dozen generations that normally limit Bonsai Trees.
+
+Value: Tier 34-38. Alchemical and medical research value is estimated at Tier 37. Direct application use value, Tier 34. Possible longevity speculation multiplies any potential value exceptionally. Synergy with Ascender Legion adds another variable that can’t be estimated leaving the above theoretical.
+
+Liz licked her lips and Matt playfully covered Aster's eyes. “I’m not sure that's an appropriate expression, honey. There are children about.”
+
+Aster flattened her fox ears and let her tail droop, going along without jostling Allie.
+
+Liz waggled her eyebrows right back at him but sighed as she turned back to the tree. “I really want to eat one or maybe two. Okay I want to eat all three so badly. I can’t say that the secondary benefit is accurate, but my instincts tell me it's not wrong. In fact, I’d be willing to bet it's only scratching the surface of what I can get out of those apples.”
+
+Matt too was somewhat interested in eating one, although he had to admit his upgraded [Regeneration] mostly made the effects redundant for him, so he had no interest in fighting over them.
+
+Stepping back, Liz took a deep breath and then turned around. Phoenix Liz was more honest as she used her flexibility to watch the tree while still technically facing forward. Ecstatic for his wife, Matt plucked the raptor from Liz’s shoulder and held her to his chest and blocked the view. The betrayed look tickled him pink, but the bonsai tree was far from the only good reward they’d collected.
+
+Besides, after reading the description he wanted to see how Melinda’s body guard Evelyn would respond to the Natural Treasure. She was the primary test subject of project Iron Vine, an attempt at making an organic growth item that unfortunately was still semi parasitic for now, and already had an incredible healing factor. The resulting combination could be interesting.
+
+If the tree truly didn’t die and could continuously produce more Natural Treasures it would be shoved into Liz’s greenhouse terrarium to accelerate its growth fed by an ocean of conjured ichor and harvested monster meat. It might take decades but eventually they’d have enough for casual testing.
+
+While everyone else split off to look at the Natural Treasures they’d tried to make for themselves, Matt and Liz continued to browse the Ichor treasures a bit more. That was until a very excited Liz pulled him over to what looked like some strange, softly pulsating, golden sponge.
+
+Reading the description he understood her enthusiasm.
+
+Primary effect: When implanted in a person’s bone marrow, it produces enhanced ichor-like blood that vitalizes and strengthens the body on an organic level.
+
+Additional notes: High end body modding typically replaces the blood creation function with a dedicated organ. Reversing this would be required for application. The cascade of other changes will result in the reduction in efficiency with other related modifications. While the enhancements the improved blood brings are likely to exceed this weakening, it is not guaranteed. Caution is advised.
+
+Value: Estimated objective worth: T32, given that all-encompassing physical boosts are rare. Estimated sale price: T37, Ichor based natural treasures are basically non-existent and very prestigious due to association with Ascender Legion.
+
+“You should use this honey. This way you’d also have Ichor blood, or something close to it. I even have some ideas how I can take it and enhance it using my new cauldron to make it even more potent before you implant it.
+
+Matt pulled Liz closer in a small hug before pretending to be hurt, “You just got tired of having a clone hang out in a boring ole blood body and want me to renovate.”
+
+Liz looked surprised at his initial reaction but she played along well enough. “You caught me. I might do a little dusting while I'm inside too.”
+
+Perusing the rest of the ichor items they weren’t overly impressed by any of the Natural Treasures despite them being both valuable and individually powerful. Things they couldn’t directly use were only good for being used to buy things they needed but that didn’t mean they weren't interested or couldn’t be inspired so they took their time looking at each item as if it was an aquarium.
+
+They even saw the phoenix lily they had assumed the effects of but hadn’t been able to fully identify.
+
+Name: Ichor Phoenix Lifeblood Lily. Tier 27
+
+Primary effect: Allows one to convert their bloodline into an ichor phoenix.
+
+Secondary effect: Consume to strengthen existing ichor phoenix bloodline.
+
+Warning: Due to Tier differential, suspected bloodline should be transformed from a standard fire phoenix to a ichor phoenix following the path Ascender Legion already blazed.
+
+Value: Unknown. Estimated Tier 40 minimum.
+
+It was a solid item but without special secondary effects it wasn’t one Liz particularly needed and they didn’t decide how they were going to handle it.
+
+Their next stop wasn’t exactly far away as the guild had generally sorted things by mana types.
+
+No less exciting than the sponge were the six Natural Treasures that all had ichor bolstering properties. The same properties needed when making a potion that could suppress ichor and its various effects. The appraisers couldn’t be sure but the items recorded high matches for the energy types needed to make potions to protect any children they might have before they awakened and could start advancing.
+
+Bloodline children having side effects before awakening due to the parent’s bloodline or its respective mana type, was closer to the norm than the exception. While they were rarely truly dangerous outside of Void bloodlines, they could still be an inconvenience.
+
+As such, potions to moderate those side effects was a very old and mature field of alchemy. Sadly they had known from day one that Ichor was projected to be a rough bloodline to pass on.
+
+Not on the level of Void, but far closer than most bloodlines. There always was a chance the potions wouldn’t work thanks to some unique property of ichor they hadn’t discovered yet, but that was unlikely.
+
+Matt didn’t care about that slim possibility in the slightest. Just having six options took a weight off his shoulders he hadn’t realized had been hanging over him and his concerns for having children. With the main ingredients secured they wouldn’t need to look at the less than ideal alternatives.
+
+They didn’t get much further along their aisle before a hint from Aster directed them at another success they hadn’t realized the magnitude of at the time.
+
+The odd elemental upgrade orbs they’d taken out of the strange realm actually managed to meet Matt’s wildest fantasies.
+
+Primary effect: Upgrades a skill to the appropriate Tier similar to a normal upgrade orb, but will impart a guaranteed elemental effect instead of the random change an upgrade normally is.
+
+Warning: Upgrades are likely still semi-random, but the additional elemental effect is believed to be guaranteed. Elemental conflicts are suspected if opposite elemental types are used together, but without actual tests, all speculation remains so. Several Talent based tests indicate results are more likely positive than negative but caution is advised.
+
+Value: Research value could reach as high as Tier 42. Practical value: Buyer dependent, but estimated to be no lower than Tier 38 for the Tier 14 orbs.
+
+Seeing the rows of various elemental skill upgrade orbs sitting in a protective rather than preservation box, Matt knew what he’d be spending at least some of his willpower recovery time doing at Titan’s Torch. If he could create a rift that dropped elemental upgrade orbs, he’d once more shake the skill industry, but he suspected it wouldn’t be as easy as creating aura rifts had been.
+
+Upgrade orbs only started dropping as rewards at Tier 14, and making millions of such rifts in any kind of large-scale testing was still well beyond the guild’s current scale and knowledge. He could pay for a team or two to do such tests, but Matt had wanted to get his hands dirty in aperology for a while, and that seemed like an interesting enough topic to investigate.
+
+That was, if the guild itself hadn’t made any interesting inventions that might grab his attention. He’d not gotten such non-vital updates thanks to Allie’s prohibition on such ‘boring’ information, but he was confident something had to have happened in the centuries they were out in chaotic space.
+
+Despite all of the hardship the largest hurdle was already done, they knew such special upgrade orbs existed. Once the Empire’s various higher Tiers got their hands on the orbs' descriptions they would be fighting for the chance to expand their arsenal and willing to pay any price for such a limited supply.
+
+That was if they sold them at all.
+
+Matt doubted Manny would do it but he might want to monopolize them for the Empire. They’d be well paid if that happened but personally he wanted to see the splash they’d cause on an auction platform.
+
+They’d need to sell at least half.
+
+Pondering that Matt corrected himself.
+
+They’d need to sell at least a few to establish interest.
+
+Maybe one or two.
+
+In fact… They’d need to use one the orbs to confirm its effects which would theoretically ‘waste’ one of the upgrades but he was still more than eager to get his hands on at least one after they did so.
+
+They had over a dozen but suddenly that felt like far too few and Matt couldn’t wait to advance where he’d have more mana available making such higher Tier aperology realistic.
+
+They were walking through some of the lower Tier items when one of the descriptions caught Matt's eye, as he struggled to remember where they’d gotten the twinkling mote of light. Fittingly enough, its primary effect was on a person's vision.
+
+Primary effect: Lets you see what people are looking at so long as you are looking at the person's eyes.
+
+Warning: limited control over the secondary vision should the other person catch on, as visual illusions are transmittable but other senses aren't.
+
+Value: Tier 26-28. Tier 26 for the base value of the item’s Tier. While there are downsides, the item is still useful at all Tiers as a support item.
+
+Matt didn’t want to use the item, but it was interesting and he understood why Susanne had flagged it as one she was interested in keeping for herself.
+
+Right next to it was an item that caught his eye because of how much he’d hate it.
+
+A colorless Tier 27 flame; the Natural Treasures flickered in a dimly illuminated box and Matt distinctly remembered the strange realm they’d gotten it out of. In and of itself it hadn’t been too memorable, its challenge revolved around elemental manipulation and hadn’t been too hard, but its reward got it seared in their memory.
+
+They’d had good hopes for the reward, only to get a half dozen copies of the same Natural Treasure they hadn’t been able to identify the effect of.
+
+Primary effect: Slightly reduces damage from users' primary mana aspect.
+
+Secondary side effect: Lessens aggression from monsters of that aspect by a small to moderate amount. Makes disengaging from rift monsters far easier if they are of the specified element when combined with typical escape spells.
+
+Warning: Rift monsters are still monsters driven by the rift rage, and this Natural Treasure only dampens it, amplifying the value of other methods; it does not remove it entirely.
+
+Value: Tier 37-38. Allows one to confront the same elemental creatures with a greater degree of safety. With the ability to choose the element the value of the treasure has high variability but estimated value of ten additional Tiers.
+
+Matt didn’t continue reading, knowing the item was one he’d never take but he knew that older immortals would pay dearly for ways to safeguard their less combat capable children. He didn’t so much disagree with the evaluation; rather he felt they were underestimating the value some people would pay to keep their children safe.
+
+If anything, he’d love a controllable version of the opposite, but they hadn’t been so lucky.
+
+Matt made a note to have Cato investigate any methods of inverting a portion of a Natural Treasures effect. It probably wasn’t possible but it was worth looking into.
+
+In the next row, they stopped to join Aster at one of the ice treasures.
+
+A Verglas Violas flower, the Natural Treasure was frozen through and as indestructible as they had been willing to test. Aster had been tempted to use it immediately and Matt understood why. He also started to question if she’d bribed the seekers given how good it was and reviewed how they found that strange realm.
+
+Primary effect: Makes the physical body more resilient the colder it is.
+
+Warning: Unknown effect with elemental bodies or similar type spells, though it looks generally positive.
+
+Value: Tier 31 to Tier 33 due in large part to its life saving applications for most ice based mages. Flagged for as high value for Ascender Wraith.
+
+Aster tapped the box, marking it to be sent to their Empire minders who reviewed any serious adjustments they wanted to make to their bodies. “Do you know how useful this is going to prove if it stacks with [Deathly Cold] and my sash. I might be harder to kill than both of you after that.”
+
+Liz slyly grinned at both Matt and Aster. “We might be in contention for ‘hardest Ascender team to kill’ after this. I like the thought, I can’t lie. That’s a good title to usurp.”
+
+So did Matt.
+
+They were walking along in a small group together when Allie pulled herself off Aster's shoulder and smooshed her face against a Natural Treasure enclosure.
+
+Peeping at the effect Allie tried to cover with her hands he understood her fascination. The Pocket Full of Starlight, was normally used to add an illusionary aspect to one's Domain but came with a secondary effect which made the body’s luminance more sparkly.
+
+“I’m reserving this! I’m sure I can ditch the primary effect or find a way to turn it to my advantage. Hehehehe. If anyone fights me, I’ll start dropping you off a planet or three away from your destination just to be mildly annoying.”
+
+Aster slapped the teleporter with her tail. “Hey!”
+
+Allie didn’t even bother to whisper as she said, “I would never do that to you. Don’t think so little of me.”
+
+“Better.” Mollified Aster skipped the two of them off in another direction leaving Matt and Liz to wander alone.
+
+The next item that managed to catch their eye was because it identified Maya and Sien as possible buyers.
+
+A ball of off-white, wet clay, the Natural Treasure might get visually lost in any craft store, though its effect was anything but conventional.
+
+It even had a name, which meant it was rare instead of entirely new.
+
+Name: Reality Putty. Tier 32.
+
+Primary effect: Amorphous clay that can reshape itself at the absorber’s will, with few limitations beyond true permanence.
+
+Warning: Ultimately limited by its size, even if its expansion abilities are legendary for a reason. Given the initial sample being fist sized it ranks among the larger examples of the Natural Treasure found. Its upper estimated size is a small moon in mass.
+
+Comprehensive Value: Tier 44 based on the item’s Tier of 32 and previous markups. Specialized buyers might pay a premium. The Reality Warper has put out open bounties on similar items. Flagged for Ascender review before sale.
+
+They weren’t the only Natural Treasures they’d found that the appraisers suspected the other Ascenders might be interested in.
+
+Noted as being of possible interest to Wun, Matt’s expectations were high for the tarnished bronze coin whose form and appearance refused to stand still for longer than a heartbeat.
+
+Name: Gamblers Unlucky Coin. Tier 27.
+
+Primary effect: Gathers misfortune to the holder until reaching critical mass depending on the Tier of the Natural Treasure or the user whichever is reached first. Then for a brief moment one's luck surges before returning to normal.
+
+Warning: Repeated back to back use of luck based Natural Treasures has bizarre consequences and is to be avoided. Please see provided warning guide for luck based items for more details.
+
+Comprehensive Value: Tier 37 to Tier 40. Due to its lower Tier the normal upper limit of its value is Tier 34 or so but with Legend Golden Rod buying all luck based items and Natural Treasures has caused smuggling of such items to occur in such quantities that the price of all such things to rise. Flagged for Ascender review before sale.
+
+It was a little low in Tier but Matt was sure they could get the older Ascender to bet something excellent against this item just as Maya would for the earlier putty.
+
+It wasn’t the only luck based treasure.
+
+They even found a tree that produced items, seemingly at random, at the cost of essence stones, like some sort of demented slot machine. It wasn’t even the only Natural Treasure of the same type.
+
+The ‘worst’ of such items was a raspberry bush whose berries gave extra skill slots. Sadly each berry had less than a one in a hundred chance of giving a core skill slot, a one in twenty chance of giving an inner, and the rest of the odds gave the eater an outer skill slot.
+
+It wouldn’t have been too bad if people could eat more than one of the berries, but like most Natural Treasures, they were limited to one.
+
+Still, the berries themselves would sell well for those who wanted to chase their luck. And there were always people with Luck based domains or Talents who thrived on using these, often cheaper, kinds of Natural Treasures.
+
+Seeing if there were any other items useful for the other Ascenders, Matt was pleasantly surprised to see one of their attempts to make a sand based Natural Treasure had paid off with something Lila might find useful.
+
+Name: Dawn’s First Dream. Tier 26.
+
+Primary effect: Allows a person to relive their childhood in perfect clarity condensing the experiences into a skill.
+
+Secondary effect when used by a dragon: Relive an ancestral dragon's journey to the item’s Tier possibly learning one of its skills.
+
+Warning: A skill can only be condensed once even for dragons reliving another's memories. Mental contamination from the ‘memories’ make the item dangerous when used by dragons.
+
+Value: Tier 30. Many, both with and without bloodlines, covet the item. Especially those who didn’t have early access to AI and weren’t able to preserve their earliest memories. Ascender Worldwalker has a standing order for all such items raising the value.
+
+In fact they’d succeeded in making decent Natural Treasures for all of the Ascenders from that strange realm though the rarer the mana types the fewer successes as seen by Sien and Maya sharing more items then not.
+
+Matt didn’t mind seeing the competition as a good way to leverage the prices higher.
+
+Peaking at the erratically bouncing bolt of plasma Matt enjoyed the thought of getting some payback for Eclavorn’s earlier comments. While he might understand why the dragon was wary of him but that didn’t mean he wouldn’t take advantage of having something the dragon wouldn’t be able to pass up.
+
+Primary effect: Imbue a Growth Item under Tier 6 with the power of plasma permanently altering its upgrade path.
+
+Warning: Actual use carries uncountable variables given the uncertainties of growth items but similar Natural Treasures are rarely weak even if not what the bonder wanted. Best usage comes from true rift made growth items but adds another level of variability.
+
+Value: Tier 35-39. While potentially powerful buyers are limited in the Empire preventing the price from rising too explosively. Flagged for review by Ascenders.
+
+Eclavorn had more than enough resources at his disposal to both find and then Tier up a Growth Item in short order making the still unnamed Natural Treasure an irresistible bargaining chip.
+
+Knowing the bond between bonds, Matt knew that meant he would also have the more affable Gideon’s full interest and while their Great Power was new, the two of them were incredibly wealthy.
+
+They even found the honeydew-type plant that had been so attracted to Susanne it danced when she was close enough. Seeing the description he was even more envious of her luck knowing she’d never sell such a powerful item when she could use it herself.
+
+Name: Dragon’s Tears (Variation unidentified).
+
+Primary effect: Instead of giving an intent based on the relevant mana type, the Natural Treasure is believed to act like a Domain passive that gives the following benefit: Cultivators killed via the user's Domain directly will have their essence automatically purified into cultivable essence. Estimated final conversion rate ~15% of absorbable essence.
+
+Warning: Purification of essence is a highly regulated ability for the perverse incentives it gives. Restricted item see more at Appendix A.
+
+Value: Tier 45 minimum. Though all sales of such essence cleansing items must be sanctioned by the Empire. Suspected singular attachment may limit the value of the treasure but its higher than average purification rate ensures it will find a buyer should it be sold.
+
+Aiden was the only person Matt knew who could purify another person’s essence of their Domain and part of him wished he’d gotten something similar. He didn’t intend to slaughter his way through battlefields but when he needed to do so it would be nice if Matt got something out of it.
+
+Both he and Liz cast several looks behind them as they continued along but they managed it.
+
+After congratulating Susanne on her prize, Matt and Liz happily continued along until they stopped in an area filled with poisonous and other rot-based treasures. There they found one that Matt lingered over, given his intentions to improve his body instead of neglecting one of his core advantages.
+
+Name: Vampire’s Lament
+
+Primary effect: Improve natural healing and the body's reaction to physical trauma.
+
+Secondary effect: Minorly reduces draining effects.
+
+Value: Tier 32, reflective of its own Tier and rarity.
+
+It wasn’t too unusual of a power, but Matt thought it might work with his current Natural Treasures and marked it for further review given the obvious synergy with the ichor Natural Treasure.
+
+They then found a section where the guild had placed the hundreds of weapon enhancing Natural Treasures and both of them got lost looking at their respective weapon types items.
+
+Matt picked out several he hoped could be merged with his weapon when he got its material replaced. Now that he had all the materials the Talented crafter had required in payment, he was eager to merge his neutronium ingot into his weapon.
+
+Together with his newly discovered mana crystallization technique, Matt’s weapon was in for a fundamental upgrade and he was eager to maximize any potential benefits via Natural Treasures.
+
+When they were done Matt and Liz met back up with Aster and Allie as they stood in front of an oversized snowflake that burst into snow dust that then recrystallized into a new snowflake pattern every few minutes.
+
+Primary effect: Bringing the snowflake together can boost the power of the next ice spell cast.
+
+Secondary effect: By destroying the snowflake more thoroughly, one can avoid the disruption of an ice or cold based spell.
+
+Warning: This particular variation of a matryoshka treasure has never been seen before and as such much is speculation, at least more so than usual. If, the common rules apply, once absorbed, the wielder will need to manually make and guide the transformations, making things less automated than they might seem. More serious destruction will take months to recover from but is never permanent. Used at an opportune time, it becomes a lifesaving measure.
+
+Value: Tier 35 due to its rarity and potential for skill recovery. Flagged for Ascender Wraith for further review.
+
+Aster frowned at the Natural Treasure seeing their arrival. “I’m not entirely sure I enjoy the idea of playing a minigame every few minutes to get a bonus, but I’m tempted.”
+
+Putting it on a possible list for later, they kept looking for other things that caught their eye in the ice section.
+
+Matt was personally partial to the aptly named Frost Bite though for Aster rather than himself, always happy to see his bond improve her physical combat capabilities.
+
+Name: Frost Bite.
+
+Primary effect: Infuses a canine tooth with ice drain effect.
+
+Warning: Physical biting is usually required for the effect to work. Some skills have been successfully modified to work, but they are the exceptions rather than the rule. See Appendix 51u for more information.
+
+Value: Tier 30 due to its being Tier 28 and its demand.
+
+Susanne, however, found one of the more interesting unknown ones winning their internal contest.
+
+An ordinary looking rock filled with an abundant life force, they’d thought it was a Wood or Life based Natural Treasure, but they couldn’t have been more wrong.
+
+Primary effect: Once hatched, the bookworm will eat one thousand, one hundred and eleven books before turning into a butterfly, then transforming into a golem-esque creature capable of teaching any information it ate or information derived from the information.
+
+Warning: the initial books set the baseline for the golem, but it may develop unexpectedly. Proceed with caution and any buyer will need to follow the Appendixed contingencies for new entities.
+
+Value: unknown.
+
+Matt was confident such an item would start a bidding war when put up for auction and couldn’t wait for everyone else who still had to fly back to return so they could start the auction.
+
+Feeling slightly overwhelmed by incredible items they started skimming the items outside their desired types.
+
+That didn’t mean they didn’t have items that caught their eye.
+
+A Burning Potato was a more literal name than Matt would have called the Natural Treasure but he couldn’t argue its accuracy. Once planted, it would magically raise the temperature of an area until the average soil temperature reached the potato’s own temperature.
+
+According to the reports any reasonable fire cultivator or anyone skilled in manipulating fire could reportedly adjust the potatoes temperature or transplant it. Looking around he found they'd collected several such terraforming Natural Treasures and Matt’s mind couldn’t help but start considering setting up a branch of the guild looking into celestial terraforming.
+
+They’d even found some rarer variants that made small amounts of matter with the essence and mana they absorbed and cycled as part of their normal functions.
+
+Such variants were incredibly valuable and Matt was happy to see them. No one interested in large scale terraforming could have enough matter producing Natural Treasures. Each one was the equivalent of a matter generating specialist that didn’t require pay, only guidance by a lower Tier.
+
+While they were waiting for everyone else to finish up they even managed to find another green thumb Natural Treasure. Matt wasn’t sure how he’d missed it, given he’d already used one himself.
+
+Bumping Liz, he offered, “You can take this and we can match, or I can take it and have two green thumbs.”
+
+“You're joking, but I might do it.”
+
+“Oh?”
+
+Liz nodded. “I’ve got at least one new tree to take care of in the terrarium orb, if not more than that. I’m not going to pass the thumb up.”
+
+Matt tried not to smile as they playfully wandered around until everyone else was ready to leave.
+
+Not that they needed to wait long. They were all eager to return home and not needing to teleport too far, relatively speaking, Allie had no trouble getting everyone home after resting.

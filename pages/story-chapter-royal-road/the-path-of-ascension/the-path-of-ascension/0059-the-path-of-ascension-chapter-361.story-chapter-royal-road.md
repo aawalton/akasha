@@ -1,0 +1,285 @@
+---
+id: efda2687-5673-524a-97b0-dfb47c223613
+page-type-slug: story-chapter-royal-road
+title: "The Path of Ascension Chapter 361"
+slug: 0059-the-path-of-ascension-chapter-361
+partOf: the-path-of-ascension
+position: 59
+ownLength: 5038
+unit: words
+ownProgress: 5038
+publishedAt: 2024-10-25
+link: "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/1868293/the-path-of-ascension-chapter-361"
+royalRoadId: "1868293"
+markedReadAt: "2026-06-29T19:19:37.525Z"
+---
+
+Chapter 361
+
+As Sien led them through the floating city Matt got to see quite a bit of sect life. Not the Empire propaganda, not the Sect propaganda, not movie recreations, or anything but genuine sect life.
+
+It was… strange.
+
+He shouldn't have been surprised, but for the most part Sect people were just… people. They did normal things like anyone else, but there was something Matt wasn’t able to put his finger on that just made everything seem different.
+
+In the end, he tentatively identified it as arrogance.
+
+Everyone was arrogant. At least, all of the cultivators were, and most people on this floating bubble were cultivators, given the entire area was basically just an outpost for mid-Tier delvers clearing the rifts of the gas giant. Of course, delvers brought with them support, and support required personnel. And personnel brought family, so while there ended up being a decent spread of Tiers, the majority were cultivators in some form or another.
+
+Matt was intrigued by the way people seemed to understand who they could be outwardly arrogant towards and who they couldn’t. There wasn’t anything like a CityNet -he’d checked- and very few people were broadcasting their names through their own AIs. His current theory was that it was something in people’s dress that communicated relative social status, given his lessons on Sect culture, but he’d yet to see any noticeable patterns deeper than which sect someone was associated with. He’d also been able to pretty easily glean which sects were local just by watching who was the most arrogant and had the most members strutting around, but there were definitely nuances he wasn’t picking up on.
+
+There were two major sects of the bubble, the Divine Whispering Winds of Human Might, which Matt mentally shortened to the Whispering Winds sect, and their competitor, Earthly Might Overcomes the Dao. Both were feeder sects to a Tier 38 sect known as the Divine Might sect, and had taken their name as part of their own, a common indicator that they’d been founded by disciples of said higher-Tier sect.
+
+Despite ostensibly being in the same organization, the two sects seemed to butt heads at every opportunity in a way that Matt just wasn’t used to in the Empire. If there was an official Earth Might shop, no matter what it was, there was a Whispering Winds competing shop just a building or two away, which often made for interesting interactions.
+
+Just as they were walking to their dinner, they saw an alchemy shop having an open battle between their disciples in the middle of the street. They were each making potions and comparing the results while onlookers watched and commentated. When the Whispering Winds’ shop was defeated, they tried to slink away, but they were instead harangued by both the watchers and the Earthly Might sects people.
+
+It actually got to the point that blows were exchanged, and while Matt wasn’t sure if he’d call it a proper fight, he still kept expecting one of the onlooking higher-Tiers to step in as blood flowed. But they never intervened, carrying on their respective activities even as a man from the Whispering Winds was sent flying through the air. That did seem to mark the end of the scuffle, and the crowd cleared out, but it was still so alien.
+
+Their destination, however, wasn’t involved with either Sect. Their signage proclaimed the restaurant as a branch of the Paradise Bites Consortium, and Sien informed them that the establishment had restaurants all over the equivalent of a kingdom, and were known for only hiring Talented chefs.
+
+The moment they arrived a waiter, a painfully attractive middle aged man in impeccable robes, stepped out and bowed to Sien.
+
+“Lady of Ill Dreams, you honor us with your presence. I trust you will find our humble establishment satisfying, and you may proceed to your dining room as you see fit.”
+
+Sien barely even acknowledged the man, not even turning to look at him as she responded with a simple, “It seems to me as though an appropriate tribute of tea is absent.”
+
+“Of course, Mistress.”
+
+From there, they followed Sien to a secluded room only accessible by a door covered by an obscuring formation that led to a spatially expanded highest floor, not visible to the average customer.
+
+Matt felt like a bit of a voyeur as Sien showed them how they could turn the walls and floor transparent and have an unobstructed view on the lower floors.
+
+Their tea was brought in and served the moment they sat down, and Matt had to admit it was very good tea. His reaction wasn’t as exaggerated as Zack, who promptly bought a fist sized packet of the leaves after his first sip. The waiter simply bowed and said that it would be as he desired, giving Matt the impression he was missing something.
+
+Matt was personally eager to try more authentic Sect cuisine to expand his repertoire.
+
+It took almost an hour, but their waiter came in with a dozen trays floating behind him, and as he set them down, Matt regarded each with curiosity. Oddly enough, he seemed to find information about each dish’s creator, the restaurant’s history for the dish, the cook and their interpretation of the original idea, and finally where each of the major ingredients were sourced appearing in his mind, as though he’d always known. Most of the dishes were placed on the table in what Matt would call family style, with only a few items, such as soups, being given to them individually.
+
+Matt had no problem admitting that the food was better than anything he could hope to make.
+
+But as they were enjoying their food, a show started on one of the lower floors.
+
+A young woman had entered the establishment in the Whispering Winds sect's robes absolutely brimming with arrogance. A quick inspection of her core told the story. She had just broken through to Tier 7, and based on how she still looked like she was barely out of her teenage years, quite swifty too.
+
+A neophyte had just earned her stripes and had come to strut.
+
+Matt found it adorable, and his attention brought everyone else’s onto the girl.
+
+At the front podium, she loudly proclaimed, “I want access to the Wasteland of Water room!”
+
+Her followers stood clustered behind her like they were the ones to receive great honor, each trying to strike a pose without seemingly like they were doing so, but failing on all accounts.
+
+Allie snickered. “Oh, I hope they come up here and try to kick us out. Can you imagine the look on their faces once they recognize any of us.”
+
+Sien chuckled. “That would be entirely impossible. This room is most exclusive, and even requesting this specific room would result in a denial of its very existence. Nonetheless, this ought to present a good show.”
+
+Matt didn’t stop picking over his food as he watched, but did stop watching to glare at Aster, who had stopped grabbing food off the general plates and had started stealing directly off of his own. As if she wasn’t bad enough, both Lizes had started doing the same. His plate, once piled high, was depressingly empty in just moments.
+
+“Core Disciple Xiao Yun, all of our Wasteland of Water rooms are taken. Core Disciple Junming has already claimed the last remaining room just an hour ago.”
+
+“Core Disciple? Doesn’t really roll off the tongue now does it?” Hearing the title, Matt had to ask, but Liz shook her head.
+
+“Check your translation. It’s one word. Translates rather clunkily though”
+
+Sien shook her head. “Indeed, Empire speech lacks many necessary features. It’s a wonder you can say anything at all within its constraints.”
+
+Before anyone could snark back, Sien added context to the situation they were watching play out. “Now, assuming you weren’t paying attention earlier, given your preoccupation with your dining, Zhang Junming chose that room specifically to spite Xiao Yun in an effort to humiliate her. The pair have been feuding for years at this point, though common perception is that Yun is the more talented of the two, being five years younger yet still Zhang Junming’s near-equal. It has been her public plan to, upon reaching Tier 7, celebrate within a Wasteland of Water room, but Junming managed to preempt her acting upon that, potentially costing her a substantial degree of face should she fail to carry through with her stated goals.”
+
+“Do you come here often?” Aster accusingly pointed a chopstick at their guide.
+
+“Oh, most certainly not,” Sien replied with a smile.
+
+“So then how do you know all of this stuff?”
+
+“I am the Lady of Ill Dreams, dear Aster. All who strive fall within my purview.”
+
+“So why is Junming antagonizing Yun? Is it just their sect’s rivalry feeding the feud?” Zack managed to ask Matt’s question, which he was unable to articulate thanks to a full mouth.
+
+Sien took a moment to chew before shaking her head. “Oh, certainly not. This is almost entirely undertaken by them, though I have no doubts that their families may be fanning the flames in some form. I believe there was some form of altercation when they were both children, but my knowledge does not extend quite so far.”
+
+The six of them watched as Xiao Yun marched up to the room in question and kicked in the door. Splinters flew, and as a Tier 26, Matt watched with a bit of amusement as one of the staff instantly replaced the low-Tier door, merely sliding the replacement to the side as Xiao Yun marched through.
+
+Inside the room, a slightly older young man was sitting there being massaged by two incredibly attractive but scantily clad servants.
+
+Almost immediately, the two started posturing with each other. For most outsiders watching from the common seating area, it must seem like Junming was at a disadvantage. But from their higher view, it was clear he was just trying to lead the younger girl into a humiliating position before revealing his own plan.
+
+“How is this sustainable? I feel like these grudges will fester and turn into blood feuds far too easily.” Allie’s question was almost impossible to understand thanks to her mouthful of food, but they managed.
+
+Sien blinked. “They sharpen one another far more effectively than any external force ever could hope. Despite Zheng Junming’s comparative laziness in the matters of cultivation, he has been forced to advance at an appreciable rate nonetheless, if only to stay ahead of Xiao Yun, and grow his own strengths of information-gathering and manipulation to outmaneuver her. Perhaps some day, one shall slay the other, but do such trivialities truly matter? Their feud would leave the survivor stronger for it.”
+
+Matt could understand that mindset in a vacuum, but he couldn’t quite get himself to agree with it. The Empire allowed fighting between entities, encouraged it even, in the case of guild wars. It was a reasonable way to settle disputes, but this seemed more like throwing hungry animals in a box and only opening it when one was left alive, rather than what normally happened in the Empire.
+
+Even nobles could and did go to war with each other, and the sects were the equivalent of the Empire’s nobility, just larger and not family related. But he couldn’t shake the feeling this was somehow more.
+
+Not that his option mattered too much, all things considered. He wasn’t a member of the Sects, and he couldn’t change their culture. But it was good to get a sense of the mindset he’d be dealing with as they got more planets from the Sects for their duchy.
+
+His musings were interrupted by the young man, Junming, who revealed that he was in fact Tier 8, to the horror of the Yun girl’s followers, who had thought they had them at an equal footing for the first time.
+
+“And thus the crossroad approaches. Will the girl bow, or will she fight?” Sien’s smile was positively devious.
+
+“What would you have done in her place?”
+
+Sien looked towards Aster with a raised eyebrow. “Against someone a single Tier above me? I would have blinded him, cut his tendons, then flayed his arms and hung him on a noose made from his own skin in front of his sect for all to see.” Shrugging, she added, “My capabilities were rather limited at Tier 7.”
+
+Core Disciple Yun must not have felt that confident, because she didn’t immediately throw herself at the stronger cultivator. Instead, she scoffed at his advancement and called Junming out for his scheme of taking her room.
+
+Matt expected those watching the show to look down on Junming for his non honorable move, but Sien explained.
+
+“Quite a good move from Zheng Junming. A triple victory, in strength, maneuvering, and intelligence alike. He displayed utter dominance in all fields the two are competing within by drawing her overcommitting and striking with immense force. Now, he is hoping that Xiao Yun must evaluate her compatriots to determine if he possesses any spies within her inner circle, performing diagnosis and surgery upon her own social might before she can safely engage him once again.”
+
+Nodding, they watched as Junming berated the young girl in a well rehearsed series of verbal jabs. Even the onlookers started snickering and adding their own comments, pilling onto Yun.
+
+Matt was going to ask Sien how long the girl would stand there and take it, and if there was an expected amount she was supposed to take when the girl exploded in fury and started shouting back, seeming to lose her cool.
+
+Seeming being the key word.
+
+Matt and the rest of the high Tiers noticed that her heart rate, steady this entire time, never fluctuated and Sien laughed. “And so the second trap closes. She may have taken a faint blow, to be sure, but if she wins this fight, it will be far more valuable by demonstrating her truly superior strength.”
+
+“I challenge you to a duel. I can not abide you gloating with your non-existent strength any longer Junming. It is time for you to learn your place, one way or another.”
+
+Junming laughed so hard he pretended to wipe a tear from his eye before turning to his followers. “The little Bumble Bee wants to try and sting Granddaddy Junming?” His mocking smile turned vicious as he said, “It's your death warrant for challenging someone a full Tier stronger than yourself, but I’ll gladly send you back to your pitiful Whispering Winds sect on a stretcher. Maybe my next challenger will be someone of note.”
+
+He jumped through the nearest window and into the open dining hall of the restaurant, where an illusionary stage appeared over the diners heads, ready to both protect the diners and give the fighters room to battle.
+
+Yun followed through the window just a second later, but Matt refrained from inspecting her any deeper so as to keep a modicum of suspense alive. He had a pretty good idea of what was about to happen, but he wanted to enjoy it before the inevitable victory or defeat.
+
+Both were clearly talented, though Junming less so than Yun. But instead of doing something productive, they were throwing themselves at each other with plots and schemes, trying to one up the other. Though, Matt was sure they saw it as driving each other forward instead, and maybe there was a kernel of truth in that, but Matt wasn’t sure he’d buy it. It was all too easy to get lost in the minutiae of such grudges and not actually grow.
+
+The fight however, started out interestingly enough. Even with a Tier disadvantage, Yun threw herself at her larger and higher Tier opponent with a pair of daggers that earned a whoop of appreciation from Allie.
+
+Matt nodded when he saw Junming taking Yun seriously and immediately readying himself behind his shield, his mace prepared for a return blow.
+
+Being a Tier higher, Junming was faster, and even before Yun got her blades close, he was already side stepping and his mace was descending. Yun seemed ready for the move and exploded into a gust of wind and flower petals that started to swirl.
+
+Matt looked at the skill she was using with some curiosity. He couldn’t trivially identify it, and the girl couldn’t be older than forty, meaning she’d already done so many modifications to her skill that Matt would have called it a Legacy modded skill, if it didn’t feel half-done. As it stood, it turned her invisible and created several illusionary flower petals, then launched them in a very real gust of wind. Wherever the petals hit, so too did Yun, and her daggers flickered out, carving lines of blood into Junming’s reinforced skin.
+
+For all that the skill was quite impressive for a Tier 7, Matt wasn’t sure whether the effect was actually worthwhile given how much work had obviously gone into modifying it. She wasn’t actually wind, and while invisibility was tricky to deal with at lower Tiers, there was still a finite amount of openings that it created for her in what was, ultimately, just a distraction.
+
+Junming had an earth-aspected spell bolstering his physical body, and the moment the daggers landed he clenched up, trying to trap Yun in tight with him.
+
+His shield started to glow an earthy yellow as power built, and Yun was forced to leave one of her daggers lodged in his armor, but she did manage to retreat with one of them. Cables of earth rose out of the illusionary ground and attempted to wrap around Yun, but she managed to dodge even though one of her arms was broken in the retreat.
+
+That seemed unplanned, and for the first time Xiao Yun’s heart rate spiked. She used her skill again, blowing petals into Junming’s face while gaining some distance, then pelting him with some air-slice attacks with the aid of a newly-withdrawn dagger.
+
+“What skill is that?” Zack asked. Matt doubted he actually expected an answer, but Sien spoke up anyway.
+
+“I believe it is a technique based upon [The False Face Presented to Strangers]. It is a curious choice, but I imagine she may intend to eventually merge it with [An Errant Breeze Harkening the Passage of the Soul] to draw the appearance closer to the truth.”
+
+Matt consulted his AI to find the Empire equivalent names, a bit surprised to learn Sien expected the girl to successfully merge [Disguise Self] with [Air Body]. Then he realized the actually surprising part of Sien’s statement. “Wait, that’s a purely illusion skill? How’s it generating the breeze?”
+
+“Through superior Sect techniques,” Sien smugly replied.
+
+“I mean, okay, sure, but how did she do it so fast? There’s no way she’s gotten a legacy that young, right?” Allie asked.
+
+“I would presume it is granted from her Talent as an Innate blessing. It is unlikely that she would have received anything so valuable for such an arbitrary technique were it not innate to her.”
+
+“Hang on,” Aster pitched in. “How’s she going to merge [Air Body] if that’s an innate skill? You can’t merge anything into a Talent-granted skill.”
+
+“For barbarians, perhaps.” Sien dismissed with a wave of her hand. “Our techniques scarcely care about such trivialities.”
+
+Aster perked up, her ears and tail standing on end. “Whoa whoa whoa. Back up. You can’t just say that and nothing else! This is the first I’m hearing that something like that might even be possible, now you’re telling me some random girl in the middle of nowhere might be modifying her innate skill with the expectation she’ll be able to merge it with a skill? Spill!”
+
+“Well, it is but mere speculation,” Sien took a smug sip of tea. “Perhaps she simply intends to utilize the skills in unison. It is, as you pointed out, not an especially well-known ability.”
+
+Left unsaid, but clear enough from the way she carried herself and worded her boast, she didn’t want them telling anyone else about this particular bit of trivia.
+
+‘Ascender’s honor’ was the way Matt thought about it.
+
+Their respective Great Powers were willing to turn enough of a blind eye towards all the Ascenders talking and being friendly, so long as they didn’t spill anything important. Some things, like skill modification tricks and passing restricted items via bets, were really pushing allowable behavior. But so long as they kept what they learned to themselves, it was within acceptable bounds.
+
+At the end of the day and despite all the friendliness, the Ascenders were more than willing to throw down with each other, which was the most important aspect of a supreme powerhouse.
+
+“What’s it going to take for you to spill?” Aster glared playfully at the older woman.
+
+“Hmm, perhaps a wager at some point. It is not merely information, but it similarly requires an object of non-negligible value.”
+
+Matt could feel the glee radiating off of Aster, and that made him start to wonder what he might be able to provide his bond to hop in on whatever bet Sien would make. Technically, it was Aster’s sole responsibility to bring her own stake, but she was his teammate and his sister, Matt wasn’t about to leave her to fend entirely to herself. Sadly, Sien probably already had anything unique she could possibly want that they could easily produce.
+
+That left services or things they could pilfer from Manny’s vaults. And while Matt was sure they could pay for anything out of said vaults, they didn’t have any idea what was there or what Sien would want. Even if they had the key in hand.
+
+As an Ascender, she had probably been given some of the Rank 4 dragons blood after the Sects bought it at the end of the war, so they couldn’t even trade that.
+
+There were probably things that they had access to as Empire Ascenders that the Empire wasn’t keen to sell, similar to the technique in question, but nothing came to mind.
+
+Maybe Sien would like some of Liz’s bloodline oranges?
+
+That actually had a chance of working.
+
+“What do you want in return? I have no idea what we have to offer. I can turn Matt upside down and shake him like a couch cushion, but the only thing that usually falls out is good food.”
+
+Matt glowered at Aster, but she didn’t seem to notice.
+
+Sien, however, just waved Aster off. “You will determine in due time what it is that you can provide, and it will often be variable. With so many Masters from the Empire, it will surely make it more challenging for you, but I am certain you will manage. If you are in a rush, simply join Lila on one of her excursions into the unknown. There exist many treasures in the great beyond which may equal that which you desire, be it for yourself or your children.”
+
+That gave Matt an idea, and he reminded Aster of the royal jelly they had been given. That might work for a wager, or at least part of one.
+
+Instead, Sien turned to grin at Matt still speaking to Aster. “Were it not for your bond’s adorable willingness to give forth information regarding the formation of aura rifts, I am certain that would have been a wonderful stake for such a betting pool. Equal to say, the methods to merge an innate skill.”
+
+That piqued Matt's interest because it ran contrary to what he knew of Sect culture. “Really? I know the Sects don’t have much in the way of Bottled Concepts, so why the turn around on aura potions?”
+
+“Aura is immeasurably useful for many things, and many techniques may benefit or even require it, even well past the phase in which one seeks to develop their First Revelation. Besides, unlike the former potions, Aura produces true Revelations, albeit oft less-impressive.”
+
+Matt really wanted to turn Sien upside down and shake the older Ascender to see what would fall out. From her grin, she knew that, which was why she had mentioned the possibility of things his guild hadn’t gotten around to researching yet.
+
+Zack tried to ask a question about using aura with skills, but Sien simply deflected the question, leaving both of them squirming. The idea also jumped up several ranks on Matt’s to-do list for when he got back to the Empire. Or his guild’s list. He wasn’t about to learn a whole new craft when he could just hire more experts.
+
+That would mean he needed to Tier up again if he didn’t want to cut down on spending elsewhere, but that was what they were working on. And he was sure Zack would be willing to lead the project, which would make things far easier.
+
+His attention was instead brought to the fight, which seemed to be nearing its climax.
+
+Yun was being battered and slowly whittled down as Junming pressed his advantage.
+
+Just as what seemed like the deathblow was descending, Yun once more burst into a cloud of wind and flowers. But Matt raised an eyebrow as, unlike the last few times she had used that spell, she actually fully transformed into a gust of wind.
+
+Junming clearly thought it was just another ploy and slashed down where he thought she was dodging to, but that opened him up to her reformed blade as she appeared next to him.
+
+Her dagger traced a neat line across the Tier 8s throat and blood welled up as his head was nearly cut off.
+
+Sien clapped her hands together in delight. “A marvelous show. Truly, she is an exemplar of her Sect.”
+
+Even as Zhang Junming started to bleed out on the stage, the crowd went wild at the comeback.
+
+Xiao Yun, on the other hand, staggered her to feet from where she tumbled and watched until her opponent was declared defeated and a healer came to save his life. It didn’t look particularly altruistic, though, as the healer was very clearly angling for a favor of some form from the defeated disciple.
+
+She moved to raise a fist, but realizing that was her broken arm, settled for a small verbal cheer.
+
+Sien waved her hand, and their room filled with dense, dreamlike smoke until it obscured everything except for Sien herself, who was illuminated with an ominous red glow. It still left them with an excellent sight-line as Sien wrapped the retreating Xiao Yun in smoke and teleported her into the center of the dreamlike scene.
+
+As soon as the girl was able to process what she was seeing, she threw herself on the floor. “This unworthy one pleads The Lady of Ill Dreams spare her!”
+
+Sien’s response emanated from the coiling shadows, a chorus of whispers in a thousand voices, “You carry yourself well. Yet you are still weak. Your blood stains this realm. What do you have to say in your defense?”
+
+“I am unworthy of your attention, oh great one! I am too weak, I have no defense, I am but a candle before your greatness!”
+
+“Yet you challenge your betters. Why do you do this?”
+
+“I…” Matt smirked as he watched Yun’s face as it changed. “I challenge my betters for that is what it is to be a cultivator! I challenge the heavens and dare them to strike me down. What would I be if I did not challenge an insignificant worm merely because he is superior to me?”
+
+“You insult your foe, yet call him superior within one breath?” It was interesting, watching Sien puppet the shadows. Some of the voices sounded more like distant screams than proper whispers, and it all added up to quite the effect. It wasn’t often he saw higher Tiers work from this side of the screen, and he was very much enjoying it, though he was also worried Sien might traumatize the poor girl if she pushed too much further.
+
+“All my foes are but worms before me!”
+
+“Even me?” Sien spoke with her own voice this time, and a coil of darkness physically grabbed the prostrate girl and forced her gaze up at Sien’s own glowing red eyes.
+
+“I challenge the Realm itself! You are mighty, but…. Yes! I challenge you, Lady of Ill Dreams!”
+
+Matt saw Sien smirk at Tier 26 speeds, but she stayed domineering at the timescales Yun could perceive.
+
+“Bold words from one so, so fragile. If you seek to challenge the heavens, you must first challenge me!”
+
+What followed was what Matt could only really consider training because he’d been taught by Luna, and even she didn’t tend to use mental effects to simulate the pain of particularly gruesome injuries as they were dealt. But eventually, Sien allowed Yun to land a frantic blow upon her hand. And with that, Sien closed off their view of what was going on as the world rushed to collapse on Xiao Yun in a stream of nightmare creatures.
+
+When the smoke cleared a minute later, Yun was gone and Sien was back sipping her tea.
+
+“That was most enjoyable. Mentoring particularly vivacious younglings is such a unique joy. If you haven’t had the pleasure, I recommend you try it at least once.”
+
+“Where’d she go?” Liz asked.
+
+“Xiao Yun has been returned to her quarters in her sect, and shall awaken in the middle of the night with a fright as the illusion of her quarters being empty is dispelled. She will, of course, be fully healed just to make her wonder if it was all real or an illusion. The uncertainty will be delicious until she finds my token, proving my presence wasn’t purely a dream.”
+
+“And you’re not going to tell us what that token is or what it does?” Aster challenged. “Don’t leave us hanging here. I have to know!”
+
+“But of course not,” she smirked. “A lady must retain her secrets.”
+
+Even as Allie laughed hard enough to start snorting, Matt shared a commiserating look with Zack. What was it with wacky mentors?

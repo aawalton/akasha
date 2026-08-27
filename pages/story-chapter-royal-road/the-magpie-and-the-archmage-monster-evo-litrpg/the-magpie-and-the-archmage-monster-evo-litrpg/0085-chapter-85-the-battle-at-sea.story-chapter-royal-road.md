@@ -1,0 +1,201 @@
+---
+id: 2b91aab3-ad53-5a7f-bd7b-b2907926e5c0
+page-type-slug: story-chapter-royal-road
+title: "Chapter 85 – The Battle at Sea"
+slug: 0085-chapter-85-the-battle-at-sea
+partOf: the-magpie-and-the-archmage-monster-evo-litrpg
+position: 85
+ownLength: 2052
+unit: words
+publishedAt: 2026-02-16
+link: "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3058588/chapter-85-the-battle-at-sea"
+royalRoadId: "3058588"
+---
+
+Once all the adventurers got settled on the ship, most lying down somewhere to rest, Liora landed in the crow's nest and took her magpie form, after letting Cee off her back. She did feel a small bit of satisfaction that each ship has a special place called after her corvid brethren. It would have been better if it were called a magpie's nest.
+
+Thankfully, nobody had taken a post there. Likely because there wasn't much point in it. The farther out in the sea they went, the thicker the fog got. Even Liora's superior vision couldn't see through it.
+
+"I can't believe we're actually doing this…" Cee muttered angrily. "This is suicide."
+
+"As I said, we're not here to fight. We're purifying whatever needs purification and then going straight back to the city. These knuckleheads can handle the fighting," Liora said.
+
+"You better keep that promise," Cee hissed. "I enjoy living, even as a spider, thank you very much!"
+
+"Did you hear something?" One of the adventurers muttered from below. "Kind of like hissing?"
+
+"Aren't those just waves?" The other said with a shrug.
+
+Liora and Cee fell silent, not daring to utter a sound.
+
+"Yeah, you're right. It must have been waves. This place gives me the creeps."
+
+"What did you expect? We're not exactly going on a picnic."
+
+"No, I know that. But this gives me more creeps than usual. You know, like during that one time when we came across that cephalosaurus that had gone all black with sludge."
+
+"Oh, yeah. That thing was nasty. Maybe we should have tried to convince the captain to find the holy mage who had cast the spell at the harbor."
+
+"Nah, they were cowards. If they truly wanted to help, they would have joined the expedition."
+
+I'm right here, assholes. Trying to help.
+
+You can't exactly reveal yourself since you're a bird.
+
+I know, but I would appreciate it if they didn't slander me.
+
+"Find another one then? It was very effective against the fog. It likely will be effective on the source as well."
+
+"Yeah, but where are you going to find a mage with holy magic so quickly? There are maybe ten of them scattered throughout the whole country. And I'm pretty sure they'd much rather stay at their cushy, comfortable jobs in the temple. Do you know how much they make there?"
+
+"No. How much?"
+
+"In one month, they earn as much as we would in a year."
+
+"What?! It's not like Morgana pays us poorly…"
+
+"No. I'm rather happy with my pay. I'm just saying that holy mages are on a whole different level. And with Pillar of Lost Magic gone, it's all the more difficult to get someone with holy magic to help."
+
+"Damn, what bad timing…"
+
+Aww, they miss me.
+
+They miss your skills.
+
+But they do miss me.
+
+"Yeah, what are you two turtledoves gossiping about? Back to your stations!" Morgana yelled from the helm, having noticed the two adventurers talking.
+
+"Aye, aye, Captain!" Both replied at once and returned to their respective work stations.
+
+"I suppose we should rest until the ship comes to shore," Liora said, settling down deeper into the crow's nest.
+
+"This will not end well…" Cee mumbled, nervously weaving a small web on which she settled.
+
+Oddly enough, for a long while, the ship sailed the foggy sea mostly unperturbed. There was a bit of a scuffle when the ship came too close to some random protruding rock formation. A whole bunch of them appeared out of seemingly normal. But Morgana navigated it with ease, keeping her eyes locked on the sea and the helm steady.
+
+It was after they passed these rocks that the real trouble began. A little thud against the hull of the ship. At first, the adventurers feared they had hit one of the rocks that might have been hidden underwater. But the ship kept moving forward undisturbed.
+
+Several more thuds followed until Morgana bellowed. "Monsters in the water! Everyone, prepare for combat!"
+
+At a moment's notice, everyone, including those who looked to be completely asleep, was up on their feet, weapons in hand. One adventurer, an archer woman, by the looks of it, was climbing up to the crow's nest.
+
+Liora hurriedly activated Fade, turned to her large form, and grabbed Cee, trying not pierce the spider with her sharp talons. As soon as she was in her grasp, Cee disappeared along with Liora, and the two of them flew a safe distance above the ship.
+
+"A spider's web?" The woman asked in puzzlement, looking at Cee's net.
+
+But she didn't get to ponder for long, a shark-like creature launched itself out of the water right on the deck of the ship. Liora wasn't sure how best describe them. Most of the body was that of a shark, but the monster also had stubby legs, which allowed it to move around with surprising agility.
+
+[Footshark]
+
+Most of the nameplates were orange, with a few rare exceptions being yellow.
+
+Who comes up with these names? Some of them are just lazy, while some are almost scientific.
+
+No clue. The system is the one that determines the names. I suspect that it is a collaborative work of multiple entities due to the varying naming conventions, but I have no clue who they are.
+
+The adventurers weren't at all bothered by the sudden onslaught. Morgana launched the first shot, hitting one of the footsharks straight in its head, making it crumple to the floor in a dead heap.
+
+Others also jumped into action, quickly and systematically getting rid of all of the footsharks that jumped aboard. Liora didn't know much about teamwork. The most she had seen was while travelling with Serena and others. She had believed that they weren't bad. Obviously, there was a lot of room for them to grow, but they really hadn't seemed bad at the time.
+
+But now she understood that they were absolutely and completely newbies through and through. No, compared to Morgana's team, they were no better than toddlers who had just barely learned to walk. Their teamwork was immaculate.
+
+There was a clear structure in how things were done. Mages and archers stayed as far away from the enemy as possible. Those with flexible ranges moved according to the situation, while those in the front made sure that the monsters wouldn't target those in the back.
+
+But the front-fighters never felt like they were in danger of getting hit, despite getting close and personal with the footsharks. The ranged fighters struck them at the exact opportune time to impair their attack and protect their teammates.
+
+Wow, they are good.
+
+Of course, they are good. These are men working directly with one of the Pillars. As reckless as Morgana is, nobody can doubt the fighting prowess of her and her team.
+
+Liora couldn't agree more. Morgana was shooting bullets left and right, not giving the footsharks any chance to attack. If she didn't kill them outright, then the bullet would paralyze the monsters, letting one of her teammates finish them off.
+
+"Get ready! More are coming! We'll likely have to fight our way to the shore," Morgana yelled.
+
+"Aye, aye, Captain!" A resolute answer.
+
+They grabbed the dead footsharks and threw them overboard. Liora gasped in shock as they hadn't retrieved a single glimmerstone from them.
+
+"Cee… How long can spiders hold breath?" Liora asked quietly.
+
+"We breathe quite differently. Water as such doesn't bother me. I can stay in it for a day if I must. I just didn't do it in the marsh because of the king fish," Cee explained.
+
+"I see… Excellent!" Liora smiled and folded her wings.
+
+"Liora?" Cee asked nervously, hurriedly wrapping a few threads around Liora and herself as they fell towards the water.
+
+You greedy, greedy bird!
+
+I can't let those glimmerstones go to waste.
+
+Before anyone could even notice, Liora was underwater, swimming straight after the drowning footshark corpses. But what she saw underneath made her understand why Morgana chose to abandon glimmerstones altogether. She didn't agree with it, but she understood it.
+
+The whole sea, as far as Liora could see, which was rather far, was filled with monsters. Footsharks were just the beginning. She saw octopus-like creatures swimming up from the murky depths, fish-people swimming from the direction of the shore, and a flurry of other weird, fishy monsters.
+
+Cee was panicking on her back, poking and tugging on her feathers, no doubt begging her to fly above the water. But Liora wouldn't give up so easily. She swam to the first dead footshark and it with her powerful talons. Then she proceeded to dig out as many glimmerstones as she could.
+
+She managed to get seven before another footshark swam up to her. Liora pushed the dead footshark towards, while swimming for another one and digging five glimmerstones out of it, before two more monsters got to her. She repeated this process about five times, collecting twenty-four glimmerstones in total.
+
+[Your trait <Fluid Flight> has reached [Novice] level.]
+
+[Fluid Flight – Converts aerial movements and skills into underwater counterparts. At [Novice] level, you can remain underwater for 20 minutes without needing to resurface for air.]
+
+As soon as the notification appeared, Liora instantly felt much lighter. The water didn't slow her movements as much anymore, and she was able to dodge the incoming attacks much more easily. But even so, it was time to resurface as Cee was tugging on her feathers so desperately, she felt she would pull them out.
+
+But Liora wouldn't waste this opportunity. She used Air Slash on as many different footsharks as possible, before emerging into the air, Fading, and flying high above the ship.
+
+"You almost got us killed!" Cee complained quietly, not wanting to alert the adventurers on the ship.
+
+"I had the situation under control. Don't worry! I got you 12 glimmerstones too," Liora said, and materialized her share within her cocoon one by one.
+
+"Thanks, but still… Don't do that again!" Cee said, but greedily grabbed each glimmerstone offered.
+
+I can't believe you're actually sharing glimmerstones willingly.
+
+Hey, sharing with just one spider is much better than sharing with four people.
+
+Valid point. But I always thought that your greed would demand you to grab every single glimmerstone.
+
+Don't make me change my mind.
+
+Okay, okay, I'll shut up. Be sure to share properly with Cee.
+
+"I will do that again," Liora confirmed, watching the battle ongoing on the ship.
+
+The footsharks that Liora had agitated with her Air Slash jumped on the deck, trying to gnaw at the first adventurer they saw. Unfortunately for the sharks, Morgana dealt with most of them swiftly, while her team supported her where needed. Before long, Liora got a flurry of notifications.
+
+[You've assisted in defeating <Footshark – Level 32>. Experience gained.]
+
+[You've reached Level 6.]
+
+[You've assisted in defeating <Footshark – Level 35>. Experience gained.]
+
+[You've assisted in defeating <Footshark – Level 34>. Experience gained.]
+
+[You've assisted in defeating <Footshark – Level 36>. Experience gained.]
+
+[You've assisted in defeating <Footshark – Level 35>. Experience gained.]
+
+[You've reached Level 7.]
+
+Holy experience!
+
+Oh, we're going to take advantage of this.
+
+Absolutely! Involve Cee as well.
+
+Liora hurriedly and quietly explained how much experience she had gained just by grazing the shark with her Air Slash.
+
+"Two levels?! When you barely did anything?" Cee gasped.
+
+"Once they dump the bodies, I'm going to dive again. Be ready and hit as many enemies as you can with your attacks or webs or whatever," Liora instructed.
+
+Cee seemed apprehensive at first, but then nodded. "Okay! I'm going to acquire that magical spider evolution!"
+
+"That's the spirit!"
+
+Liora waited for the crew to finish battling the wave of monsters. As soon as they dumped bodies overboard, Liora Faded and dove into the water, eagerly collecting glimmerstones again.
+
+Cee had prepared a lightning web, which she released into the water and moved this way and that using her front legs. Many footsharks got caught in it, struggling to break free. It couldn't hold them for long, as they tore the webs apart with their teeth. But the damage had been done.
+
+All they had to do was avoid getting hit and then collect all of that juicy experience.

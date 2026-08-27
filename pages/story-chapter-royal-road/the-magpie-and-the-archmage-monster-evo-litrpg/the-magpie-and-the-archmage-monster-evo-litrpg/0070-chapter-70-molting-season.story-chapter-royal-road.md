@@ -1,0 +1,213 @@
+---
+id: e2c84c1c-0bba-520e-a92c-c5728c23ac14
+page-type-slug: story-chapter-royal-road
+title: "Chapter 70 – Molting Season"
+slug: 0070-chapter-70-molting-season
+partOf: the-magpie-and-the-archmage-monster-evo-litrpg
+position: 70
+ownLength: 2094
+unit: words
+publishedAt: 2026-01-12
+link: "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2934576/chapter-70-molting-season"
+royalRoadId: "2934576"
+---
+
+A few months have passed since Liora had split ways with Serena, Kalen, Kiva, and Damien. However, she hadn't been able to move away from Cyene and still remained close to the city, snatching some good food from the humans once in a while. She didn't remain in the city during the day, instead hanging out in the nearby forests.
+
+There were multiple reasons why she lingered in the area for so long. First, her conscience didn't allow her to just leave her party behind. She secretly hung out by the dungeon entrance for the next few days, watching whether Serena, Kiva, Kalen, and Damien would come out.
+
+After three days, just as she thought that she would have to return to the dungeon to save them, they emerged. Battered, bruised, and looking very tired. But alive. None of them looked too pleased with how events had turned out. Damien was cursing out Liora so loudly that she could hear it even from afar.
+
+But she didn't care. Sure, she had grabbed the most valuable thing, but she had actually needed it for a good reason. Obviously, they wouldn't understand it, nor could she try to defend herself by explaining that the stupid mage needed to free himself from a beautiful rocky prison. So Liora didn’t return to the group anymore. They were safe, and that was all that mattered.
+
+After that, Liora started molting in earnest just as she had predicted. Her feathers fell out in what felt like heaps, leaving a pile of them wherever she went. It was absolutely dreadful. Her plumage became patchy, and looking at her reflection, she felt like some half-plucked chicken.
+
+Renir had laughed uncontrollably when he'd seen her at the worst point of the molting process. She had wanted to peck him and throw him into a lake—let him sit there until her molt was over. The problem was that she couldn't swim at all, so it unfortunately wasn't possible. And since those golden lines appeared on his rocky body, she didn't want to peck him anymore. What if he broke?
+
+So instead she gave him a good cawing therapy until the archmage promised not to tease her about her appearance anymore. In either case, Liora didn't dare appear in anyone's sight, sneaking around the city only during the night, occasionally snatching a quest or two from the Guild.
+
+Speaking of the Guild, somehow she had advanced to the bronze rank. Initially, she thought it didn't matter. After all, as a bird, she couldn't make use of the Guild facilities. Especially not when Serena and others were still around. She still saw them around the city and near the dungeon once in a while, although obviously they couldn't see her.
+
+But with her Guild rank advancing, she was able to see the name and general level of monsters she faced. Monsters around the same level as her had their name appear in white. Monsters at a lower level appeared green or blue. Those that were blue were at such a low level that they weren't even worth fighting anymore. Monsters at a higher level appeared as yellow, orange, red, and black, depending on how much stronger they were than Liora.
+
+She honestly loved this new feature and made full use of it. After all, she couldn't just wait two months and do nothing. She snatched quests from the Guild and went to complete them. At least those that didn't require her to deliver anything, so subjugation quests were her go-to since they got set to complete automatically. It was a shame she couldn’t withdraw the reward for them, and she couldn’t take them too often either, otherwise the receptionists would notice that something was amiss.
+
+With monster names having markers for their danger level, Liora only engaged green, white, or yellow enemies, avoiding those of higher levels. She'd seen an orange enemy and flew away. Red enemies, she avoided like a plague. Thankfully, she never even glimpses anyone at a high enough level to be black. Renir said those were either dungeon masters or guardians like the chimera.
+
+In either case, she continued her training while her feathers grew until finally, after two long months, Liora had a completely new and beautiful set of feathers.
+
+"Look at me! I'm pretty again!" She boasted, watching her reflection in the stream while Renir sat by her side in the grass.
+
+"You are so vain! We could have long since left this place and found the craftsman we need!" Renir complained.
+
+"I can't fly long distances and fight as well if I'm covered in pin feathers. Enemies my level—sure. Especially if I know their attacks and patterns. But anything new would be too dangerous," Liora objected. She had mostly kept her exploration to the dungeon forest.
+
+"But you haven't even leveled up that much!" Renir complained.
+
+Liora puffed up in annoyance and brought up her Profile. She felt like she had made a lot of progress.
+
+[Profile]
+
+Name: Liora
+
+Species: Starfeather Corvid
+
+Level: 25
+
+Health: Small
+
+Mana: Moderate
+
+Glimmerstones: 542
+
+Skills (10/10):
+
+Mimicry [Legend]
+
+Lunge [Expert]
+
+Skypierce [Adept]
+
+Air Slash [Expert]
+
+Fade [Adept]
+
+Mana Conversion [Adept]
+
+Poison Shot [Adept]
+
+Holy Light [Adept]
+
+Wind Blast [Novice]
+
+Purify [Novice]
+
+Traits (8/10):
+
+Twilight Vision [Expert]
+
+Treasure Sense [Adept]
+
+Aerial Agility [Expert]
+
+Glimmerlust [Adept]
+
+Shadow Glide [Expert]
+
+Inventory [Novice]
+
+Magpie Disguise [Adept]
+
+Poison Resistance [Adept]
+
+Next Evolution: Requires Level 30 and ??? Glimmerstones to unlock
+
+"Look at all this growth!" Liora bragged, touching Renir so he could see her profile as well and understand her hard work.
+
+"What growth? You've gained six levels in two months. That's abysmal," he retorted.
+
+"Is it all about levels with you? Look at my skills. My Mimicry is now at Legend level. See that? Legend," Liora bragged. This was probably her biggest achievement.
+
+When Mimicry leveled up, the difference in her ability to mimic voices improved dramatically. Not only could she basically say every word that she knew without needing to hear it first, but she could say it in any voice she chose. Renir's, Christie's, Serena's, even Damien's. Didn't matter. If she was familiar enough with the voice, she could speak with it regardless of how many words she had heard that person say.
+
+Mostly, Liora chose to speak in Serena's voice. She had a very nice voice, and she was familiar enough with it to speak in it without any issues. Renir obviously had called it creepy, although he was grateful she wasn't using his voice anymore.
+
+"I suppose it is nice that you won't be failing any mimicked skills anymore," Renir admitted.
+
+"And look—I got a few skills and traits to Expert level. My Magpie Disguise is now at the Adept level. Unless I'm critically injured, I won't lose my disguise. And most importantly," Liora said with a sparkle in her eyes. "Glimmerlust is at an adept level."
+
+"Yes, the boost has increased. 542 glimmerstones with a 0.03% boost means that all your skills receive a 16.26% power and speed boost. Which is starting to make a noticeable difference," Renir admitted.
+
+"See! I am great!" Liora puffed out her chest proudly.
+
+"BUT! You haven't gained any new traits and skills, and you're still five levels away from your next evolution. You should have long since evolved!" He complained. "If you had worked harder, then we would be long on our way to the next city, resonance crystal in hand."
+
+"Neither one of us has hands," she objected.
+
+"You get my point!"
+
+"You humans just don't understand how horrible molting really is," Liora grumbled.
+
+"Alright, fine. But you've molted now. Can we get going?" Renir pleaded.
+
+"Yes!" She confirmed. "Where exactly are we going?"
+
+"Frankly, I don't know. We need to find a place that has an artisan skilled enough to craft a resonance crystal," Renir said.
+
+"Cyene didn't have one," Liora said. She had already investigated this, going to every single artisan workshop she could find. None of them dealt with any magical items, besides equipment or weapons."
+
+"There's not enough material nearby for an artifact artisan to set up a workshop here."
+
+"Could they not get materials from the dungeon?"
+
+"Yes, but it would be inconsistent and expensive, because they would have to rely on adventurers all the time. Not to mention that the Cyene dungeon doesn't spawn high-quality items often. The Pulse Stone is proof of that. In larger dungeons, you can find one in every second chest," he explained.
+
+"Then why didn't we go to those dungeons?" she questioned.
+
+"Because you would get killed the moment you flew in there. You need to evolve again if you want to go into a different dungeon. You never even left Area G in the Cyene Dungeon."
+
+"I wasn't going to risk fighting new enemies with half of my feathers gone."
+
+"Yes, you said that already. But you'll have some leveling to do along the way."
+
+"Along the way to where?"
+
+"I think we'll start with Abylport. It's a city larger than Cyene, which has lots of valuable goods going through. If we can't find a craftsman, there is still a chance to find a resonance crystal in the marketplace."
+
+"OH! And then I steal it, and we break your second seal."
+
+"Empty resonance crystal, birdbrain! But yes, it would be a good start," Renir agreed.
+
+Liora then grabbed Renir, placing him back in her Inventory and dropping her Magpie Disguise. If she was going to fly a long distance, then it was better to use her more monstrous and more powerful form.
+
+So which way are we heading? I'd like to see this new town by morning if possible.
+
+Liora had completely switched to a nighttime regime, sleeping during the day, hidden away in a tree hollow or some other hiding spot, and being active at night. It suited her better, especially since Shadow Glide kept her hidden.
+
+No, we are not reaching Abylport today.
+
+I am a bird. Don't forget how fast I can be.
+
+I have taken your speed into account. But Abelport is even further away from here than your forest.
+
+What? Shouldn't we check a different city along the way?
+
+There are no other cities along the way, only small villages. The chances of them having a resonance crystal are basically zero. And besides, tonight I have a different goal in mind.
+
+Liora didn't like the sound of that. Renir was definitely scheming something.
+
+What goal? Can we skip it?
+
+Don't be such a scaredy bird. It'll be fine. I'll guide you. For now, fly southeast, following the Arcturus star.
+
+Arcturus? You have Arcturus here, too? Which one is it?
+
+It's the brightest star in the sky. The slightly red one.
+
+Liora looked up and searched for Arcturus. It wasn't difficult to spot at all—a bright red dot that shone much brighter than the rest. She had never been an expert on constellations or stars, but Liora was certain that didn't shine this bright on Earth.
+
+I can't believe you have Arcturus here, too.
+
+Wait… Does your world also have the Arcturus star?
+
+Yes, although it's not as pronounced in our world. Sirius was the brightest star from Earth.
+
+Now that has all sorts of interesting implications. It means that your old world and ours are in the same universe, but located at different places.
+
+Still, our worlds have to be quite close if we can see the same stars.
+
+That seems to be the case.
+
+For a moment, they admired the night sky in silence. Liora wondered whether the people she once lived with on Earth were still alive. She couldn't remember them, but could they remember her? Did they miss her?
+
+Are you alright? You feel… sad.
+
+I'm… I'm alright. Just thought about my old life a little bit. But there's not much point in that. I can't remember anyone anyway. Follow Arcturus, you said!
+
+Liora flapped her wings and took off, following the bright star. For a while, they flew in silence, and she could feel that heavy emptiness in herself once again. It's been a long while since she felt it. It was difficult to feel lonely while Renir was constantly talking in her head.
+
+Renir, could you tell me a story while I fly?
+
+Sure, little thief. I'll tell you the best story ever. About a boy who grew up to become the most powerful archmage.
+
+Liora wanted to roll her eyes, but while Renir retold his valiant tales, her heart calmed, and she soon could forget about the pain of memories long forgotten.

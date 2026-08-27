@@ -1,0 +1,65 @@
+---
+id: 671192e2-0294-5a51-9544-f56ff9526ff6
+page-type-slug: story-chapter-royal-road
+title: "86: A foolish pursuit"
+slug: 0006-86-a-foolish-pursuit
+partOf: the-legendary-fool-a-deckbuilding-litrpg-b2-complete
+position: 6
+ownLength: 1130
+unit: words
+publishedAt: 2024-05-13
+link: "https://www.royalroad.com/fiction/60890/the-legendary-fool-a-deckbuilding-litrpg-b2-complete/chapter/1634297/86-a-foolish-pursuit"
+royalRoadId: "1634297"
+---
+
+Tom wore a contemplative expression on his face as he gazed outside the first floor window of an inn he had checked into over an hour ago. Of course, it was not his face that stared back at him, as the faint reflection painted on the transparent glass canvas belonged to an ordinary denizen of the Nameless District who went by the name Zallark.
+
+However, it was not Zallark’s focused visage that had captivated Tom’s interest, as he gazed beyond the reflection.
+
+His breath quickened a pace as he took in the imposing, multi-story structure that blotted out his surroundings, the sanctum of knowledge nestled at the heart of the Academic City, Renovia— The Academy.
+
+Tom found himself both overwhelmed and disappointed as he was confronted by the vista he had required a token of the Nottrakon Family’s Elite Guard, the veritable rulers of the Syrelore Kingdom, to access just the periphery of. Despite his burgeoning Physical, Mental and Proprioception stats, he was slightly taken aback to find that his detection and analytical strength had no effect on the warm, earthen-brown brick walls of the Academy.
+
+The intensity of his gaze failed to pierce through the stained glass windows that were tinged in a plethora of brilliant hues.
+
+The central building was a sight to behold, a tall, mighty structure that was heralded by four spear-shaped pinnacles that looked down upon the entirety of the Noble District from up above, its facade a melange of ornate stonework and breathtaking traceried windows that while breathtaking, also did well to distract away attention from what went on within those storied halls.
+
+Then came the sprawl, a two-storied, L-shaped building that swept through the central building, including it in its wake. Its perimeter on both ends was capped off by two blue stone minarets that forced Tom to do a double-take, as he realised that the stone pillars that were capped off by two pointed, metallic pinnacles were actually floating a little above ground level.
+
+Blinking twice in rapid succession only to be confronted by the same sight confirmed for him that he wasn’t hallucinating, serving to only increase the burning curiosity Tom felt towards the Syrelore academy.
+
+Finally, his gaze shifted to the lone gated, gothic archway providing an opening into the otherwise ten feet tall brick and metal fencing that led into the academy.
+
+Tom’s expression twisted into a grimace as he watched another young Noble Scion leave the academy, flanked by two guards who wore his family’s livery. The Mattlborn Family’s livery, if he remembered right, which meant that the teenager with auburn hair and a lanky build should be Vinari Mattlborn.
+
+“This is impossible,” Tom snarled under his breath, as he watched the Mattlborn Family’s second son unhurriedly take his leave as the two guards behind him, decked in heavy plate armour that seemed almost required to hold the weight of the unrealistically broad greatswords strapped to their backs, saluted.
+
+Naturally, the rapier sheathed at their left and the hunting knife at their right did not escape Tom’s attention, making sure that the Academy guards were prepared to hunt any type of foe.
+
+Each of the Noble Scions Tom had seen leave the academy so far were either accompanied by their family’s own guards or walked back towards their homes in groups of threes and fours. It seemed that the academy encouraged their students to work together, but it was only a source of rising annoyance for Tom.
+
+He couldn’t kill any of the Noble Scions or for that matter, members of their retinue. Renovia was already on alert due to his own actions, which meant that any extended absences would be almost immediate cause for alarm. Naturally, Tom wouldn’t kill anyone to enter the academy, even if it would make things easier— he was no assassin and neither did he have any direct grievance against them.
+
+Impersonating anyone important enough to enter the academy at will was turning out to be a hellish challenge. As for the two guards that barred his entry to the Academy, Tom had already given up on trying to ambush them. It didn’t matter how strong he had become, one look at the well-equipped guards was all he needed to determine that there was no future in which he subdued one guard without alerting the entirety of the Noble District and quite possibly, the Nameless district along with it.
+
+He had been hoping that the inn he had checked into, The Warm Hearth, would offer him an advantage, as it was used primarily by travellers from afar who had come to visit Renovia to check in on their children. The Academy would even go as far as to sponsor the stays of parents who were too poor to afford the inn’s already subsidised rates, showcasing how important the academy students were to the Syrelore Kingdom at large.
+
+Unfortunately for Tom, not only did he have to pay the full, extravagant rate because he couldn’t prove that a ward of his studied in the academy, but he had also arrived mid-semester.
+
+There were no parents for him to knock out and impersonate, not that he would be entirely comfortable with the idea— especially since they more than likely came from humble backgrounds, having braved long journeys to see their children.
+
+Though Tom couldn’t promise himself that he would not resort to such measures, considering he was on a two-week timer, beyond which Nvein would inform his superiors that an Elite Guard of the Nottrakon Family had entered the Noble District.
+
+Two weeks, of which a day had already gone by him, placing him none the closer to his goal.
+
+Just as Tom’s attention began to waiver, he noticed the guards’ attention shift to their side.
+
+‘Oh great,’ Tom thought derisively. ‘Here comes another young scion with his two maids, three butlers and five guardsmen.’
+
+However, that train of thought came to an abrupt halt as Tom took in the visage of the man who pushed open the gate, offered a nod to the guards in an unbroken stride and stepped into the larger Noble District.
+
+His features were too aged to pass for a student, yet he seemed a tad too young to pass for a professor. His salt and pepper hair added to that sprightly charm instead of taking away from it, the coattails of his tailcoat fluttering as he strode forward with purpose. Tom placed the man in his mid thirties, his expression tensing as he watched the gates close behind the purported professor.
+
+Tom had been prepared to wait for a week after he got to know that the professors lived within the academy itself, but the opportune moment had arrived far sooner.
+
+Without hesitating, he left his room in pursuit.

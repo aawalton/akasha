@@ -1,0 +1,173 @@
+---
+id: 1aba49c0-9607-5240-859e-0da7c6357249
+page-type-slug: story-chapter-royal-road
+title: "Chapter 93 – Blood on Feathers"
+slug: 0093-chapter-93-blood-on-feathers
+partOf: the-magpie-and-the-archmage-monster-evo-litrpg
+position: 93
+ownLength: 1842
+unit: words
+publishedAt: 2026-03-06
+link: "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3121731/chapter-93-blood-on-feathers"
+royalRoadId: "3121731"
+---
+
+Liora couldn't believe her ears. Or ear holes to be precise. These bastards really were thinking of creating a corruption dungeon.
+
+"Chill, Franceska. You know it always ends up the same way," the man said nonchalantly.
+
+"Nobody has actually gotten this far before," the woman pointed out angrily.
+
+"That's because these guys came soon after the last ones. The monsters haven't had time to gain levels yet, so they were easier to get through. Don't worry, the skinweaver can deal with them. And if it has some problems, Xernon will help."
+
+"You are far too nonchalant. Do you not realize what's at stake? If we hope to achieve our goal, we're going to need a reliable source of blightstones."
+
+"And we'll get it. Learn a bit of patience. You can't rush this kind of large project. Besides, we're almost done. A few more days and we'll have enough energy to turn this island and the whole of Abylport into the first blight dungeon. Imagine the joy our lord will feel," the man said.
+
+"That's if we manage to create the dungeon. You know what? I can't stand sitting here and doing nothing while Xernon is messing around. I'm going to go and make sure those adventurers don't intervene with our plans," Franceska announced. Liora could see how she headed towards the tunnel, her black heels clattering against the stone floor.
+
+"If you were so worried, why didn't you go deal with it in the first place?" the man sighed.
+
+"Because I still hoped that there might be at least a sliver of usefulness in you two incompetent fools, but it appears I overestimated you."
+
+"Relax, Franceska. There's no need to get your panties in a twist. You know we have been working hard on this. You should relax a little since we are so close."
+
+"I'll relax once it is done!" She struck her heel extra loudly for emphasis and walked out.
+
+"Sheesh… This is why she's still unmarried."
+
+Go after her!
+
+Liora activated Fade and followed the woman. She was dressed in a similar dark cloak to the tattooed mage and held a staff in her hands.
+
+You can't let her discover the corpse. Strike her before then.
+
+Liora turned into her large form before Fade ran out and launched an Air Slash with the full intent of separating the head from her shoulders.
+
+But that didn't happen. Instead, her Air Slash struck some kind of shimmering barrier that lit up for a brief moment. The next moment, the woman whirled around and launched an electric strike in Liora's direction.
+
+Thankfully, Liora managed to weave out of the way, but the magic was so powerful that it took out a good chunk of the cave wall.
+
+She has a barrier set up to protect her from magical attacks. You'll have to use your physical abilities.
+
+I don't have much of a choice. My mana is too low to use any strong magic anyway.
+
+Liora flew at the woman, ready to Rend her body despite the deep distaste that it made her feel at her core.
+
+But the woman muttered something, and an electric field exploded around her, forcing Liora to fly back.
+
+"Garrett, get your ass over here! There's a rogue monster bird in here!" Franceska yelled.
+
+Shit! It'll be harder to deal with two of them.
+
+I can't get close to her!
+
+Try again. She can't just keep spewing the same spell over and over. There's a limit to each one. You need to find the window of opportunity.
+
+Liora tried to fly closer to her again, but just as before, the woman conjured that electrical field. She couldn't even do any of her Mimicry skills—they would be out of range.
+
+"What are you yelling about, Franceska? What's that racket?" The old man called from within the cave.
+
+"Get you lazy, old ass over here! We're under attack!" She yelled.
+
+The electric field disappeared, and Liora flew at the woman, talons outstretched, ready to tear into her flesh. But a woman struck her staff, and sharp metallic spikes erupted from the ground all around her.
+
+Liora watched in horror as several of them flew straight at her. At the last moment, she activated Featherflash. Her feathers shone with a bright light, and she felt her body grow small and light. As a wisp, she went through the sharp spikes. One, two, three, and she turned back into her full bird form.
+
+"What the hell?!" Franceska was rubbing at her eyes, blinded by Liora's defensive skill.
+
+"What was that?" The man finally emerged from the cave, staring at the unfolding scene. Liora flew over the spikes, ready to strike the blinded woman, but the man—he looked to be in his fifties, with a long, greying beard—pulled a wand out of his sleeve and pointed it at Liora.
+
+Out came a brilliant beam of light. Holy Light, Liora realized as she dodged it. So this guy must be the holy magic user of this group.
+
+The second holy magic user that these guys have. Where are they getting them from?
+
+Beats me! I don't have time to worry about that.
+
+Liora Faded, hoping that staying invisible would allow her to injure the woman.
+
+"Defend yourself!" The man yelled.
+
+Franceska activated the electric field. Liora was too close to dodge and flew into it. It hurt, however, not as much as Liora had expected. She was able to retreat from the field safely, unlike that time with the toad when she was rendered paralyzed and flightless.
+
+My training is paying off! Your Paralysis Resistance lessened the damage and prevented paralysis.
+
+Is that what it was?
+
+Absolutely.
+
+Liora swore to train her resistance traits more as soon as she had the chance. While the field still hurt like hell, she managed to avoid the paralysis and retreat to safety.
+
+But she first had to figure out how to get out of this mess. She was surrounded by two mages, each spewing spells at her from both sides. Franceska threw all sorts of electric spells her way while the man used various kinds of holy magic.
+
+Liora was a bit jealous, because he had some kind of holy orb spell that tracked her movements and followed her until she either Faded or cancelled it out with an Air Slash or Holy Light of her own. But she couldn't do much else than that. Her mana regeneration barely gave her enough mana to defend herself with, and there was no chance to attack.
+
+Even Featherflash didn't work anymore. While it did disorient them for a minute and allowed me to avoid those nasty pursuing light orbs, they both quickly put spells to keep Liora away. The woman used the nasty metal spikes while the man erected an invisible shield that acted much like glass.
+
+Liora crashed into the darned thing three times, hoping that if she were fast enough, she would manage to get to the mage in time. But alas, she failed.
+
+Dammit! We can't continue like this. They'll overwhelm you at this rate.
+
+I'm already overwhelmed!
+
+If only you could cast some earth spells. Hey, could you repeat these incantations?
+
+I don't have time for your incantations!
+
+Another electric bolt whizzed past Liora followed by the annoying light orb spell. Frankly, she was starting to run out of stamina. The fight with the shapeshifter had already taken quite a toll on her, and while the potion helped her heal, it didn't restore her stamina.
+
+It's not too taxing a spell… Maybe I could manage it if I timed it right…
+
+Stop mumbling in my head. You are very distracting!
+
+Take me out of your Inventory!
+
+What?! Are you insane? These guys are after you!
+
+It only matters if they survive. We're not letting them leave this place alive. Now, hurry and take me out before they get to you.
+
+Liora had no clue what the crazy gem was planning, but she had to trust him. The mages had her firmly cornered in the tunnel with their spells. While they likely would run out of mana eventually, they currently showed no signs of that, but Liora, on the other hand, was just barely able to dodge their attacks.
+
+She pulled Renir out of her Inventory, grasping him firmly in her beak. Less chance of her dropping him this way. Both mages paused for a moment when they saw him appear.
+
+"What the hell? Is that—" Franceska began.
+
+"That's Renir's gem!" The man pointed an accusatory finger at Liora.
+
+But Renir was chanting a spell the moment he was out. "Earth obey me, rise now free, trap my enemies, forbid their heresies!"
+
+Suddenly, a thick earth wall appeared in front of the man, trapping him away from Liora. She didn't waste time and Faded, flying straight at the woman.
+
+"He used magic?! How?" She fumbled and hurried to raise the metallic spikes out of the earth again. But in her panic, she had rushed too quickly.
+
+Liora activated Featherflash, blinding the woman and, at the same time, safely bypassing her murderous spikes as a mote of light. Once Liora regained her physical form, she was right next to her and Rended the woman's neck before she even had the chance to scream.
+
+[You've defeated <Franceska – Lightning Mage Level 38>. Experience gained.]
+
+[Your skill <Featherflash> has reached <Novice> level.]
+
+[Featherflash – Flash your feathers so brightly that it briefly blinds your enemies. At [Novice] level after the flash, you turn into an intangible mote of light for 4 seconds.]
+
+The wall made of earth shattered soon after, the man looking frantically at the scene. To his horror, he saw Liora flying straight at him while his companions lay dead on the ground.
+
+"You won't get me so easily, stupid bird!" He yelled and conjured his light orb again.
+
+"Keep going, Liora!" Renir commanded.
+
+She obeyed. He must have a plan of some sort. It felt crazy, just flying straight at deadly orbs. However, the moment when it felt that one would crash right into her, it collided with something else instead.
+
+A small round shield, which shattered upon impact. It protected Liora from the orb and allowed her to get close to the mage.
+
+"I leave the rest up to you…" Renir muttered weakly.
+
+Liora withdrew him into her Inventory and tore into the mage with Rend.
+
+[You've defeated <Leonard — Holy Mage Level 44>. Experience gained.]
+
+[You've reached Level 22.]
+
+It was almost laughable how easily humans died. One strong pull with her Rend was enough to kill them instantly, despite their seemingly high level. But she felt no joy in doing this. Liora's stomach churned at the sight. In fact, she could taste their blood in her beak.
+
+Renir had gone silent in her mind, likely having expended most of his energy to help her win this battle.
+
+I don't want to murder people. I didn't want this. All I wanted was to grow my hoard of shinies and eat some nice food occasionally.

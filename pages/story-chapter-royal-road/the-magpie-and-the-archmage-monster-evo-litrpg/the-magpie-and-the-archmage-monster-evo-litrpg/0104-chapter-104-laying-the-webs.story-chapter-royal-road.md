@@ -1,0 +1,173 @@
+---
+id: 5845ed3d-a5a3-5561-acc6-d7b20dad9394
+page-type-slug: story-chapter-royal-road
+title: "Chapter 104 – Laying the Webs"
+slug: 0104-chapter-104-laying-the-webs
+partOf: the-magpie-and-the-archmage-monster-evo-litrpg
+position: 104
+ownLength: 1965
+unit: words
+publishedAt: 2026-04-01
+link: "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3217052/chapter-104-laying-the-webs"
+royalRoadId: "3217052"
+---
+
+"I thought this would be easier!" Cee grumbled, weaving the ritual pattern in her for the tenth time this evening.
+
+"You missed the triangle going through the center," Liora pointed out.
+
+The spider flailed her legs angrily, tearing up the failed web in the process. "Renir, this is impossible! I can't recreate something so complex with just my web. The difference between this and the mana overcharge glyph is astronomical."
+
+"Yes, exactly. Because that was merely a glyph, usually used as a part of a bigger ritual. It just so happens that the mana overcharge glyph can also serve as a makeshift explosion. This is a whole ritual you're trying to recreate and not the most complex one at that," Renir said sagely, observing Cee's practice from the bed.
+
+Liora had settled down right behind him. She didn't dare to put him too far out of her sight. Not just out of fear, but also because he was so insanely pretty. It should be illegal to be so shiny. Liora could stare at him all day.
+
+"Not the most complex! You do it then, Mister Archmage," Cee raged.
+
+"I would if I had fingers. Sadly, I don't. But don't be so downcast. The reason why you're not able to do it is partially that your skill rank is still at Basic. It'll be much easier once you rank up, so keep at it. We're going to need this ritual if we don't want to rely on Morgana," Renir said.
+
+"I can't say I enjoy the current setup. While I do want Liora to heal these people, I don't like how there are always guards around us. As if we're the bad guys," Cee muttered as she resumed weaving the ritual anew.
+
+"The place is too cramped to even fly… Although the food is nice," Liora noted.
+
+"No, staying here long-term is definitely not an option. While healing people is important, you won't be able to heal every corrupted person out there. It's impossible. Sallie will have to come up with a better method. But we can at the very least wait until she returns," Renir noted.
+
+"You think this Sallie will be able to do what Liora can?" Cee asked.
+
+"Hard to say. Sallie often suffers from a lack of belief, especially in her own strength. However, she, without a doubt, is the strongest holy magic user in the whole Velithra, if not the whole continent. Once she sees that a bird can purify a person, then she'll at the very least look into the matter again. Maybe there's another way," Renir said. "The point is that Liora has proven that it can be done."
+
+"I hope you're right…" Liora said. "I'd feel bad for leaving if nobody else can heal the worst cases."
+
+"In either case, for now, we have to focus on attuning the Resonance Crystal and fixing that bracelet. Any powerup our little team can get, we have to take it."
+
+Liora and Cee nodded. After a while, the spider finally managed to rank up her Sigilweaving skill to Novice level. After that, recreating the mana attunement ritual became much easier, although there were still a few hiccups here and there. Given more time, Cee would get it perfect.
+
+Next morning, after having an early breakfast, Morgana, Nord, Donovan, Liora, and Cee headed above the surface. Liora was so giddy at the thought of going outside again that she couldn't help but nibble at Morgana's glove impatiently for her to move faster.
+
+"Okay, okay, beastie. Don't destroy the glove. I only got one with me, and I don't think I could carry you without one. Your talons are like razorblades," Morgana chastised, although she didn't really look mad.
+
+"I imagine it's tough for a bird to be underground for so long," Donovan said.
+
+"Yes, it is!" Liora confirmed.
+
+"Maybe I could stay behind. I don't really feel like fighting a cyclops," Cee muttered while clinging to Nord's back.
+
+The man had grown rather accustomed to the spider's presence and didn't mind her sticking to him for transportation. She wasn't particularly heavy after all, although Liora understood why most people wouldn't like to have a spider on their backs. Especially a large one like Cee.
+
+"Don't you want to get closer to your next evolution? It'll be a good chance to gain experience," Liora said.
+
+"Yeah… I know. But a cyclops sounds nasty."
+
+"Don't worry, beasties. We'll be the main ones fighting. You provide support where you can. Just restraining them with your webs will be a huge advantage for us," Morgana said.
+
+"Yeah, I wish all the monsters we fought got caught in the webs as the shapeshifter did. It made things so much easier," Donovan noted.
+
+"I'm afraid we might have lost more people otherwise…" Nord noted.
+
+Liora remembered the moment the mage Elric was swallowed by the shapeshifter. The memory wasn't pleasant in the slightest. She wished she could have done something to prevent that, but sadly, there was no way to undo death.
+
+The best thing she could do was get stronger herself. After all, if Liora was stronger, then strong monsters wouldn't be a threat to her or the people around her anymore. So this excursion to battle the cyclops was a necessary one.
+
+When they finally emerged from the dark underground tunnel, the first thing Liora did was take flight. The sneaky spider managed to jump on her back right on time, and the two of them soared high.
+
+"Finally! I can fly again!" Liora cheered, letting her powerful wings carry her high.
+
+"Not going to lie, the feeling of flying is unlike any other. Especially from within the safety of your back," Cee said, having already secured herself on Liora's back with her webs.
+
+"Liora Airlines is taking off. Please fasten your seatbelts and enjoy the ride because there might be some fast aerial maneuvers," Liora said with glee and began twirling in the air, allowing the air currents to catch her as she flew in hoops.
+
+"Liora, don't go too crazy! I don't want to lose my breakfast," Cee protested, gently poking at her back in protest.
+
+"Can spiders even puke?" Liora asked.
+
+"I… I'm honestly not sure. I certainly have never puked as a spider."
+
+"Maybe we should find out."
+
+Liora mischievously did a few more aerial tricks, like flying upside down for a moment and rolling from side to side. Cee shrieked when she did, although it was hard to tell whether it was a shriek of fear or a shriek of joy. Maybe both. Like on rollercoaster rides.
+
+Liora, stop bullying Cee.
+
+I think she's actually having fun.
+
+Liora…
+
+Ugh, fine. Spoilsport!
+
+Liora stopped her aerial manoeuvres, and Cee instantly jabbed her with her legs.
+
+"If you do that again, I'm going to bite you!" Cee grumbled.
+
+"Sorry, sorry! I thought it was pretty fun. And you didn't puke."
+
+"I think I was very close at one point. Do you really want spider vomit all over your feathers?"
+
+"No! Okay, point taken. No more loops."
+
+"No more loops! Also, aren't you flying a bit too high?"
+
+Liora looked down and saw that she indeed had flown rather high. It had been so easy to gain altitude with these powerful wings. She could see the whole island from this vantage point. Focusing on the island, she saw Morgana, Donovan, and Nord continuing through the jungle while occasionally glancing up.
+
+She also saw what was undoubtedly the cyclops they needed to fight. It was a good distance away from the entrance to the clinic, located in the depths of the island.
+
+The place had a running waterfall nearby and so many fruit trees that it could be called an orchard. It was a paradise. If you discounted the cyclops and all his giantesses. They were absolutely hideous and trashing up the beautiful place. Bones and other garbage were littered on the ground nearby, along with half-eaten fruits and animal carcasses.
+
+"These guys are ruining the vibes!" Liora said in annoyance.
+
+"What?" Cee asked in confusion.
+
+"The cyclops. Can't you see?"
+
+"No, I absolutely can't see anything from this high up."
+
+Remember, Liora, that you have the best vision among all creatures. Nobody will be able to see as far or as well as you do. I'm seriously going to miss seeing through your eyes once I go back to being human.
+
+Maybe you can magic yourself a magpie body?
+
+All that effort to become a bird? No, thank you!
+
+Oh, come on! You know that being a bird is absolutely superior. Especially being a magpie.
+
+Your magic control says otherwise.
+
+Life is more than just magic. In my old world, there was no magic, and I did just fine. Probably. I don't really remember.
+
+Somehow, I doubt that you were just fine. But enough chatter. Fly back down and report your findings to Morgana.
+
+Liora flew down, albeit at a rather slow pace, allowing herself to circle lazily above the island before she landed on a tree nearby, where Morgana and others were walking. Cee instantly dismantled her web and jumped into a tree, clearly having had enough of flying for one day.
+
+"I saw the cyclops up ahead, deep in the jungle. The terrain seems rather difficult to traverse for humans," Liora said.
+
+"Difficult for humans. I suppose it's no issue for you two," Donovan noted as he cut a pesky vine out of the path.
+
+"Nope!" Liora and Cee replied at the same time.
+
+"How many giantesses are there?" Morgana asked.
+
+"I think there were around a dozen of them," Liora said, recalling what she had seen from above.
+
+"There were only six last time," Donovan noted.
+
+"Damned bastard has grown his harem in such a short amount of time. We can't leave it alone anymore. This might get dangerous. Let's cull him out," Morgana said.
+
+"Aye, Captain!" Donovan and Nord replied.
+
+"I'm going to go ahead and set up my webs," Cee said and jumped away, quickly disappearing in the thick jungle.
+
+"Liora, scout the situation some more for us. Check where exactly the giantesses are positioned. Can we isolate some of them? Any natural barriers in the terrain or perhaps injured individuals? Basically, anything that we could use to our advantage."
+
+Liora nodded and flew off, once again flying high. It was too light for her Shadow Glide to work properly, but she doubted the dumb brutes would care about some bird flying high above the island. After all, there were hundreds of birds here.
+
+Looking at the cyclops's place again, she saw that the giantesses actually had formed three groups of sorts. Three were doing something by the stream, mucking its pristine waters with god knows what. Frankly, Liora didn't want to know.
+
+Most were busy trying to woo the cyclops by doing some kind of weird dance. Liora didn't understand what it was, but she was glad that she couldn't hear them from so high up. The cyclops himself looked bored out of his mind, barely paying attention to the giantess and their fat rolls.
+
+Three other giantesses were some distance away from the others, dispersed in the jungle. It looked like they were gathering fruit. Perfect targets.
+
+She also noted that there was a considerable pile of trash between the cyclops and the giantesses by the stream. It was huge enough that the clumsy creatures likely would struggle to get over it quickly enough.
+
+The best part, however, was something neither the giantesses nor the cyclops even suspected that Cee was nearby. A comparatively tiny spider, jumping from place to place, occasionally disappearing into the shadows. Liora did not doubt that Cee already had her webs spread all over the place.
+
+It's all coming together.
+
+Oh yeah!

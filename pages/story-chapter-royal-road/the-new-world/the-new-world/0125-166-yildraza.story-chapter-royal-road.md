@@ -1,0 +1,273 @@
+---
+id: f79d159c-0f50-5806-9cf7-d228ccb284cc
+page-type-slug: story-chapter-royal-road
+title: "166 Yildraza"
+slug: 0125-166-yildraza
+partOf: the-new-world
+position: 125
+ownLength: 2961
+unit: words
+ownProgress: 2961
+publishedAt: 2018-12-01
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/311509/166-yildraza"
+royalRoadId: "311509"
+markedReadAt: "2026-06-29T21:25:17.891Z"
+---
+
+It took a week of twenty-four hour days to grade the papers. It bled into my psyche, the monotony grinding away my will to live. Of course, my willpower helped, keeping me from slowing down or veering off course. As tedious as it was, I learned a decent amount about magical theory and some other skills. Most of them grading related.
+
+I kept myself intent on finishing the papers during this time. I ended up finishing them before we reached Yildraza. As I sent the behemoth of a file to Torix, I sprawled myself out over the bed. I earned a bit of a rest after all that grunt work.
+
+After a few seconds, I got bored. I opened my status. I had gained over four hundred levels from killing the Skyburner. I had put all the points into endurance before the grading started. After remaking the perception runes one last time, I got to work for the week.
+
+Now that the week was done, I inspected my armor's modifications.
+
+[Modifications - The dimensional fabric composing this structure has been modified with code from the dimensional cipher. With mana, further bonuses can be applied. The bonuses are as follows:
+
++72 Strength, +72 Dexterity, +1,940 Perception, +6,080 Endurance, +3,040 Willpower
+
++100% to effect of legacies, +50% to internal motivation, +25% to sensory range]
+
+The new glyphs already made a difference. In about a month, I gained nearly 2,000 points in perception. The enhanced sensory range was just a bonus. With the damn tests over with, I might even be able to enjoy my senses.
+
+Before getting up, I tidied up the rest of my status. I raised my tier in my Legendary tree with some hard-earned skill points in Hands of a Giant and Efficiency. Turns out grading thousands of papers helps with hand-eye coordination. Who'd of guessed?
+
+Your journals will be looked at as enlightened texts for those that study your profession. Your words will be written down as if spoken from with a golden tongue. You will be worshipped by those that devote their life to your chosen mastery.
+
+Legendary(Tier 4) Unlocked! +80% effect of legendary skills!
+
+This was likely the strongest tree I've unlocked, even outdoing any version of Obliterator. It terrified me how easy it was to become more powerful. I was a rolling stone, and nothing could stop me now. I struggled long and hard to get this strong. It satisfied me to no end seeing the fruits of my labor coming through.
+
+With that handled, I reached the skill menu before opening up the Force of Nature tab.
+
+Force of Nature(lvl 2,667) - You are nature-given fury. Enhances all techniques and application of skills within this ability, including but not limited to: Close Range Combat, Runic skills, Telekinesis, Gravitation, Sensory Abilities, Bearing, and Draining Abilities. Numerical bonuses are as followed:
+
++468 Strength, +468 Dexterity, +234 Constitution, +234 intelligence, +94 Perception
+
++47 to all attributes for having a 2,600+ total in a legendary skill.
+
+Ability Bonus: +297% | Mana Cost Reduction: 59.4%
+
+My mana was endless, enough to destroy cities in seconds. By the time I finished leveling up as a Fringe Walker, I'd be able to destroy worlds. If I fucked up using power like that, I might not just flip a car. I might kill people.
+
+A lot of people.
+
+I shook my head. There was no point in dwelling on doubts and worries. I needed to focus on doing what I can. I moved on to my character screen menu.
+
+Dimension-C138(Level 6,014)
+
+Strength – 6,648 | Constitution – 11,275 | Endurance – 46,053
+
+Dexterity – 2,870 | Willpower – 25,903 | Intelligence – 9,610
+
+Charisma – 1,669 | Luck – 3,246 | Perception – 3,753
+
+Health: 8.56 Million/8.56 Million | Health Regen: 21.42 Million/min or 357,020/sec
+
+Stamina: 5.40 Million/ 5.40 Million | Stamina Regen: 75,623/sec
+
+Living Dimension: 1.10 Trillion/4.30 Trillion
+
+Mass: 523,041 pounds(235,721 kilos~)
+
+Height: Actual -12'7(3.84 meters) | Current - 9'10
+
+Damage Res - 98.5% | Dimensional Res - 49.25%
+
+Phys Dam Bonus – 577,809% | Damage Bonus – 40%
+
+Event Horizon – 20,000 + (100% of your total health)/min
+
+With my perception increasing at such a rapid pace, my charisma followed suit. By now, I'd long forgotten the exact multipliers for the values. Whenever I dug deeper into the numbers, I found dozens of conversions and multipliers. They showed the trees and various perks I got them from, each piece documented in excruciating detail.
+
+Even if the system was based on an absolute, numerical basis, it still floored me. My health regen increased at an exponential rate. I regenerated more than most people's maximum health each second. At this rate, my health regen might eventually outpace an entire planet's population added together.
+
+In fact, I could use my own tenacity as a weapon. My inspiration drew from having my skin glow white hot while not burning me. If I could heat my armor till it shined, I'd be able to scorch anything nearby. I gained a source of light from it, and that's not even counting the intimidation factor. In my enemy's eyes, they'd be fighting a moving star.
+
+It would make me untouchable in close combat. If I was going to use something like that, then I needed to learn cooling magic too. Nearly setting my allies ablaze was enough of a kick in the ass to figure that out. That situation taught me to be more mindful.
+
+I won't lie, the essays didn't hurt learning that lesson either.
+
+Without thinking, I massaged my hand, the memory of cramps still fresh. I sat up, wanting to do something now. After spending a week in isolation, a conversation would do me some good regardless.
+
+I pulled myself out of bed, leaving cuts in the fabric from my armor. I was done giving a shit about this thing. It was more trouble than it was worth.
+
+I walked out of the door, finding Caprika, Kessiah, and Althea sitting down on the couches. Empty bottles and garbage piled up around them. Althea slept on her side, taking up one of the seats. Caprika handled documentation with her status screen. Kessiah sat back, deep in her chair. She watched holographic videos of current events.
+
+I stepped up, creating a dozen gravity wells. The trash in the room lifted up, and I condensed it into a tightened mass. I set it into the garbage, looking at Kessiah's video. There was a mountain with a crater in it. It was the same mountain I fought the Skyburner at. A newscaster's voice talked over the image,
+
+"Reports indicated seismic events leading to an eruption near Mt. Verner. While geologists are baffled as to the source of the explosion, some believe it has to do with recent silver outbreaks. In further news, the tournament looks promising this year. A new face named Daniel-"
+
+Kessiah shut it down, sitting up and looking at me, "Looky here, our resident tank is making waves."
+
+I shrugged, "Can't help it sometimes."
+
+Kessiah nodded, "I know. That's why I recorded it all."
+
+She lifted her obelisk, showing a file of our fight. I raised an eyebrow, "What for?"
+
+"Cause it was awesome."
+
+I stood up straight, "Just be mindful of what you do with it. And, hmmm, send me what you record. I might use it for something. I don't know what though."
+
+She waved at me, "Of course, of course. Caprika over here's been talking like you've already won the tournament."
+
+Caprika stared at her status screen, "After seeing that exhibition with the Skyburner, I'm more than convinced. I've been jotting down the framework of a new legislative system for my old city. It should pan out rather well, preferably lowering the recidivism rate."
+
+Althea rubbed her eyes, "Huh, who's up?"
+
+Kessiah crossed her arms, "We're talking about your boyfriend winning the tournament."
+
+Althea grinned, "Of course he will."
+
+I frowned, "I wouldn't be so sure."
+
+Caprika scoffed, "Really now? You blasted the Skyburner by turning yourself into a meteorite. Afterward, you flew up to us with your skin still molten, and you didn't even notice...What part of that indicated anyone will stand a chance?"
+
+I shrugged, "I've faced people stronger than me. There's plenty of them out there."
+
+Caprika shook her head, "I doubt many of them would come here. Ah, I also went over the evidence you documented."
+
+I raised an eyebrow, "And?"
+
+"And it's without a doubt a Skyburner."
+
+Althea stretched, "What are they exactly?"
+
+Caprika closed her status, "There was a faction of gialgathens determined to stop Lehesion from freeing the espens from slavery. That faction was lead by Emagrotha and her elite guard, the Skyburners. Noone's seen or heard of Emagrotha for over six decades, but Skyburners appear here or there."
+
+Kessiah nodded, "Rumors are floating around that some Skyburners are still trying to put up a resistance. Apparently, the social movement caught some traction a while back when Schema took over."
+
+Caprika nodded, "Many moderate gialgathens joined the remnants of Emagrotha's movement then. It was a movement driven by fear. Most gialgathens are fine with espens being free ants under their feet. They're terrified of them being their equals."
+
+I crossed my arms, "Why didn't Schema make Gialgathens a part of the system then if they're so powerful?"
+
+Caprika winced, "They...they help eldritch."
+
+I shook my head, "What the fuck?"
+
+Kessiah nodded, "Yeah, it has something to do with being one with nature. Gialgathens try to be one with nature. They think the eldritch are nature."
+
+Althea shook her head, "Wow...That's soooo dumb."
+
+I nodded, "Yeah, that's full-on suicidal."
+
+Kessiah shrugged, "At least it makes sense why Schema doesn't help them out if they're like that."
+
+I scratched the side of my head, "Surely not all gialgathens are like that."
+
+Caprika shook her head, "You'd be surprised. There are quite a few gialgathens that help espens and respect us as equals. There's far fewer that believe the eldritch is a threat. Even less are willing to fight them."
+
+I frowned, "They've never seen an Endless Flesh or an intelligent hivemind then. They're both terrifying."
+
+Althea nodded, "Back when I was a mercenary for Yawm, he told me that an Endless Flesh was destroying my homeworld. It was fighting another collection of eldritch lead by a hivemind. Crazy stuff. "
+
+Caprika cringed, "By Schema...I'm sorry to hear that."
+
+Althea shrugged, "Eh, I didn't even know my home world. You can't lose what you never had, right?"
+
+Caprika glanced out one of the cracked windows, "Ah yes...It does take away the sting, doesn't it..."
+
+Althea frowned, "Oh, I forgot you aren't home either. I'm sorry-"
+
+Caprika waved her hand, "It only motivates me to get back. Think nothing of it."
+
+Kessiah looked out the window too. She pointed, "Ayeeee, look at that. It's Yildraza."
+
+We huddled around the window, staring at the horizon. Out in the distance, skyscrapers towered over the skyline. They shot up in different points, giving the city a sprawled out feel. Between the sleek, ultra-modern skyscrapers, stone buildings stood out.
+
+These historical buildings clashed with the new designs, but I liked it. It was like the ancient world was fighting the modern invasion, breathing life into the city. In this case, the old world was the espens and gialgathens. The new world was Schema, coming in to change everything.
+
+My chest filled with excitement, a grin growing on my face. Althea dragged a hand down the glass,
+
+"It looks like so much fun."
+
+I wrapped an arm over her shoulder, "Only if I'm with you."
+
+Caprika and Kessiah gagged again. Torix stepped out of the back, cracking his bony fingers. He wore a new robe, the fabric silky and luxurious. With silver trim flashing, he strode up,
+
+"Ah, we've reached our next destination then. Excellent. I just passed out my finals for this semester."
+
+I grimaced, "How did you even have 18,000 tests? You only have like...3,000 students."
+
+His blue, fiery eyes flared an evil red, "Perhaps I let them pile up for just such an occasion."
+
+My face went deadpan, "Thanks a lot."
+
+He joined us, staring outside, "It's never a problem, disciple."
+
+We got into Yildraza over the next hour. A wall towered around the city, keeping magical beasts out. When the guards saw how tore up our vehicle was, we got more than a few funny looks. They let us through once Caprika showed them our tournament pass.
+
+As drove through the streets, it was utter chaos. Most of the vehicles here lacked self-driving. They rode through sidewalks, destroyed stalls, and forced people to jump out of the way. The self-driving cars went through the madness like clockwork, finding the inches needed to progress.
+
+My heart seized in my chest a few times, old memories of my dad's driving coming back. I ended up closing my eyes and saying fuck it. It wasn't like a crash was going to hurt me either way.
+
+After passing a few dozen blocks, stalls, and stores, we reached the heart of the city. One of the skyscrapers towered over the rest, full of flashing lights and office space. Caprika stood, "This is our stop."
+
+Althea clapped her hands, "I can't believe it. We're staying up there?"
+
+Caprika nodded, "Naturally. Several albony own positions of power in Yildraza. I used a few connections to give us a condo to stay at."
+
+She turned to me, "Consider it a bonus for proving so worthy."
+
+I picked Althea up, "Hell yeah. Let's go."
+
+Althea giggled while I walked up to the doors. Torix snapped his fingers. A portal popped up in front of me, dropping another gray square. My shoulders drooped, "This again?"
+
+Torix rolled his fire eyes, "Of course. We're trying to maintain secrecy for as long as we are able. Wearing a set of armor over yourself is a part of that."
+
+I sighed, setting Althea down. After the armor formed back over me, I walked down the steps and out onto the streets.
+
+A blast of noise assaulted my senses. Rumbling cars, sharp cussing, skidding tires, acrid smog, rancid breath, cinnamon rolls, and thousand other scents poured onto me. Beneath my feet, cool concrete keeping me off the soft ground.
+
+I looked around, finding dirt alleyways leading between skyscrapers. Innumerable people walked around me, dozens of species. Every shape, color, and size of species maneuvered around the madness. Yildraza was a cacophony of sound and a blitz of movement.
+
+It was like the city was alive.
+
+We stepped through the sea of people, my stature and size helping us out. I didn't even have to duck under the skyscraper's doors as walked in. With the others following behind us, I marveled at the craftsmanship.
+
+Granite lined the walls, white streaks flowing across charcoal colored rock. The chandeliers, door handles, even the paperweights were made of gold. The ludicrous display of wealth almost made me laugh. It was extravagant, to say the least.
+
+Once the others arrived, Caprika checked us into the hotel. As she did, the receptionist smiled at us,
+
+"We've been awaiting your arrival. One of the tournament sponsors is waiting in your rooms to settle you all in and speak with Daniel."
+
+I frowned, "What for?"
+
+"Oh, I'm just a receptionist. Mr. Thorn wouldn't tell me something like that. I'm sure he'll discuss it in detail. Have a good day. Next."
+
+We walked off, getting into an elevator. As we did, Torix looked at Caprika. His face was hidden under pure darkness, some magic stopping light from entering his hood. Torix said,
+
+"Who's Mr. Thorn?"
+
+Caprika sighed, "An annoying fellow to say the least."
+
+As we went up the many floors, I turned towards Caprika,
+
+"Hey, where did the car go to park?"
+
+Caprika hissed, "A trash compactor."
+
+"Oh, alright then."
+
+We reached the 2,000th floor before walking out. After walking down a few hallways, we reached our room. Caprika handed us each a keycard before using hers to enter the doorway. As we stepped inside, a view of the city revealed itself.
+
+It was breathtaking.
+
+We saw for miles and miles, all the way to mountains off in the distance. A few high-rises rose up to the sides of our building, but they only enhanced the overall look. After I soaked in the view, I surveyed the apartment.
+
+The entire wall of the expanse was glass, two staircases leading up to floors above. There were four private rooms, each covered in mahogany shaded wood. Off to my right, a kitchen with modern appliances and marble counter tops shined. Off to my left, an entertainment center with screens, games, and holographic projectors glistened.
+
+I whistled, "Damn this is nice."
+
+We took a few steps forward, reaching a set of stairs wide as the room. They wrapped around in a semi-circle, leading down to an expanse with lounging chairs. The stairs acted as bookcases, a library's worth of material hidden in them.
+
+The wall of glass sat at the bottom of this expanse. Looking out at the city, an espen man stood with his hands locked behind his back. He wore a fitted, leather suit colored deep brown. I took a breath. My eyes widened in surprise.
+
+It was tanned gialgathen skin.
+
+Two tails trailed down from the back of his head to his waist. He kept silver collars around them, a classy wealth about them. The silver and brown matched the dull gray color of his skin. He turned, the white spots down the sides of his face sleek.
+
+He turned towards us, a toothy grin aimed at us. With an accent and oozing charisma, he spread out his arms,
+
+"Why hello there. I'm Thisbey Thorn, but you all can just call me Thisbey."

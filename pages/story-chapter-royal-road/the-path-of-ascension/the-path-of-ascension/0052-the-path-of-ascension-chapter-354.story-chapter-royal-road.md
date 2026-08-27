@@ -1,0 +1,377 @@
+---
+id: eea9b2bb-a30c-5530-83ec-d543586c84dc
+page-type-slug: story-chapter-royal-road
+title: "The Path of Ascension Chapter 354"
+slug: 0052-the-path-of-ascension-chapter-354
+partOf: the-path-of-ascension
+position: 52
+ownLength: 6346
+unit: words
+ownProgress: 6346
+publishedAt: 2024-09-30
+link: "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/1828536/the-path-of-ascension-chapter-354"
+royalRoadId: "1828536"
+markedReadAt: "2026-06-29T19:19:21.322Z"
+---
+
+Chapter 354
+
+Matt sat in his office as he tried not to look at the vast fields of rifts visible outside his window.
+
+Things had been going far better than he could have ever hoped. Kees ran a tight ship and kept everything on task, and the things Matt needed to deal with on a weekly basis amounted to a few hours of work, but those hours were precious.
+
+Now that the other aperologists were settled in and working, the guild was crunching through rifts and rift testing at an incredible speed, and they all felt they were close to the breakthrough of creating other types of aura rifts besides those of the basic elements. Team three had been on such a roll that Matt’s competitiveness was nagging him to beat them, and time spent in his office wasn’t conducive to winning.
+
+This was, however, what he had signed up for when he decided to create a guild. And he couldn’t complain too much when Kees was handling ninety nine percent of the work.
+
+And there were some interesting ideas coming out of the various departments.
+
+A few years might not be a lot of time, but a year and a nearly unlimited budget was a recipe to create miracles.
+
+Or at least the seeds of them.
+
+The alchemy team had developed a prototype for a new Tier 10 durability potion that lasted a full four hours, which was a full thirty percent increase of the current potions on the market. Better yet, the only side effect was explosive diarrhea, which they were confident in fixing with some more tweaks to the formula. After that, it was just a process of simplifying the formula and standardizing the steps so Tier 10 or 12 alchemists could produce it.
+
+He hoped they would then be able to downstep the potion to at least Tier 5, but for only having a year of time it was a great first step. Matt had publicly rewarded the team in question with their bonus.
+
+That was exactly the type of innovations he wanted to see.
+
+And innovate they did.
+
+The runic teams had been hard at work, not trying to simplify runes themselves, but their self selected goal was to make enchanting easier to get into. Matt had been surprised at the idea when it was presented to him, but he loved it.
+
+Low Tier professions were relatively expensive. Especially when someone was trying to learn at the same Tier.
+
+After all, a Tier 5 could afford thousands of attempts by using Tier 1 materials, but for a Tier 1, those materials would be considered a substantial investment and risk.
+
+There were three main ways to break into any profession.
+
+The first and easiest method most knew of were post awakening classes. Those who could afford the upfront costs learned the basics at the school. After teaching the basics, they gave the students enough materials to test things. Ten or twenty attempts to learn a crafting method wasn’t a lot, but it was typically enough to give the newly awakened with a knack for the profession a chance to shine, even if they weren't Talented. Combined with a Tier 5 or so established professional, that was enough for most people to at least get their foot into the door.
+
+The second was to join a guild, corporation, business, or rarely a noble house who was willing to sponsor someone. Most of the time, they required someone to have a Talent for the profession or show considerable skill before they were willing to invest.
+
+Finally, the last method was to do what Matt had done; buy the books and figure things out on your own.
+
+But even he had started at Tier 4, and could afford the basic materials or source them from rifts, which let him brute force his way through the learning process.
+
+Most people who took up crafting professions didn’t want to delve for themselves.
+
+The team wanted to try to add a fourth method, and while Matt wasn’t sure it would work, he was willing to throw mana at the issue and see if they could figure something out.
+
+The idea wasn’t necessarily new, but it was interesting.
+
+They wanted to create nearly completed formations, as they were the easiest for beginners to create, or at least more so than talismans and weapons enchanting. The goal was to use incremental steps to teach one lesson at a time, while also giving the budding crafter in question something they could hopefully sell.
+
+That last caveat had caused Matt to go into a tangent of research about just what non-delvers used formations for and who bought them. The answer was a lot, just not what Matt was used to thinking of as enchanting work.
+
+They weren’t making protection arrays to defend from monsters attacking, alarm formations to wake you up when the monsters tried to slip into your camp, enchanting weapons or talismans to better kill said monsters, or any of the combat adjacent uses Matt used enchanting for.
+
+No, the enchantments they typically created were things like essence gathering arrays to boost non-delving cultivation, arrays to light areas in a specific way that the typical store bought lights couldn’t do, hasten the growth of plants, or stop undesirable weeds from growing.
+
+There were even entire formation set ups dedicated to outdoor gatherings. Temperature control disks which could be used outside, and surprisingly, the largest seller in most worlds, bug repellant formations.
+
+With [Cracked Phantom Armor], Matt had never really bothered with those kinds of formations after they had reached Tier 5 and created their Concepts, as he could use them to keep bugs away.
+
+Formations didn’t tend to last very long, as a general rule. Sure, it was possible to make a formation that could last basically forever, same as permanent enchantments, but it was debatable whether such things could truly be called ‘formations,’ as they needed to be custom-built for their one and only deployment location. And at that point, there was no reason to use a formation instead of a proper enchantment. Even the highest-quality formations tended to degrade after a couple of centuries at most, as wear and tear set in, but most lasted decades at best.
+
+As a result, formations had been optimized to be fairly low-cost but temporary and essentially disposable enchantments on an immortal timescale.
+
+The team wanted to create a series of almost completed, but commonly used formations that taught important lessons in enchanting to take a beginner from the academic stages to an acceptable level, while also providing them with a sellable product.
+
+The last company who had tried this had licensed the idea to a number of guilds as training aids, but the idea hadn’t really caught on since guilds were usually able to offer hands-on training to their budding enchanters. They had tried to pivot to academies, but their fees caused the prices of the lessons to reach a level that anyone who could afford the lessons could afford to learn the traditional way, leaving the idea somewhat dead in the water.
+
+Matt’s guild intended to get around the issue of price by just publicly releasing the half completed formation plates’ designs. Even if they didn’t replace the typical lessons academies taught, they could be a useful teaching aid. They weren’t even that complicated or hard to make, and if produced in batches by a Tier 5 enchanter, they could be stockpiled during slower times of the year, even by those same students once they progressed past the bigger phase.
+
+Their main issue was the previous company had a patent on the method, and wasn’t interested in selling the patent for a lump sum. They instead wanted a royalty on every plate created.
+
+Between the idea of a teaching aid being basically unpatentable, their patent being unused for so long, and how distinct Titan’s Torches implementation would be, using public and inhouse developed runes, any lawsuit would be a mostly cut and dry case in their favor if they dared to sue him according to the legal department. Still at Kees insistence, they were making preparations just in case anyway. Personally Matt doubted they would spend that much to try and fight them but it was always good to be ready.
+
+Thankfully that wasn’t his job and he left the legal battle to the lawyers as he reviewed the progress made by the ambient cultivation division.
+
+They had grand plans to make cultivation easier for non-delvers. Though, their efforts were still in the planning stages and it would be at least a decade before they had anything ready, according to Kees.
+
+After finishing up his paperwork, Matt checked in with Kees before returning to the courtyard where Erwin, Aisha, and Theodore were working.
+
+In the last year, they had made substantial progress and they thought they knew where the issue of creating more complex auras came from.
+
+Aura was metaphysical and they were creating rifts in a fairly crude fashion. Nature didn’t need to throw a sword into the area– aura rifts were perfectly capable of appearing naturally, after all– but there were things they could do to try and get there.
+
+First and most ambitious was flooding a mana-less planet with Matt’s endless mana to the point it started to create its own essence cycle. The other aperologists didn’t know the mana sample was Matt’s, but that idea was so out there that Matt couldn’t help but laugh. Maybe when he was a Tier 50 he might do something like that, but even small moons took unfathomable amounts of mana to produce essence, let alone an essence core.
+
+To that end, Matt had five of the fifteen aperology teams working on trying to create specific rifts without items.
+
+Like they learned with the rifts converting neutral mana to all six basic mana types, they suspected that by correctly controlling those mana types, their ratios, and the way they interacted, they could create all types of rifts and possibly reduce de-aspecting on Tier up.
+
+One of the new aperology guild members, Alfonso, actually had some anecdotal evidence that shoving a rift right to the edge of Tiering up with mana, but deliberately keeping it from doing so, and keeping it in an isolation formation, could reduce the chance of de-aspecting on Tier up significantly.
+
+Like most of the aperologist guild members, Alfonso had dabbled in the science after reaching immortality. But unlike others, he was never a delver. He was a bit of a statistical anomaly among immortals.
+
+Alfonso was born on a Tier 28 world in Rusty’s kingdom during Agatha’s rebellion, and had been a typical young adult commoner who had been swept up among the first Sophron dynasties Empresses reforms. As he told the story, he hadn’t cared about the reforms as he never expected to do anything with his cultivation even after he was given the opportunity to awaken.
+
+With a Talent that gave him a small boost to paperwork, he hadn’t expected anything to come out of awakening except a slightly longer and healthier life. If cultivating hadn’t been something of a fad at the time for those who had been denied the option their entire lives, he admitted he might have never bothered. But there are always anomalies, and Alfonso was lucky enough to create his Concept in just a year of work, which let him advance past the Tier 4 bottleneck even though Bottled Concepts hadn’t been available to commoners at the time.
+
+Instead of throwing himself into cultivation and delving like many at the time did once they created their Concept, and paved their way to immortality, Alfonso was happy to plod along and never quit his job.
+
+Living on a high Tier world meant he had been able to stay just ahead of the age curve to the point where he actually reached immortality.
+
+With forever in front of him, he finally quit his desk job, and by his own admission, moved to one of the first formal pleasure planets.
+
+Existing in various forms across all Great Powers, in the Empire their existence was historically a mostly informal affair having been set up by individual nobles to encourage the more indolent immortals to leave more valuable worlds. The fact this helped Tier up lower Tier planets was a mostly incidental side benefit until Agatha formalized and standardized the system.
+
+Now they were Tier 1 or Tier 2 planets that the Empire had to incorporate to catch more valuable worlds as they drifted by in chaotic space to the greater Empire network but otherwise had little use for. Mortals could and did live there but few relished the idea of living on a world where even the most common rift was rare after all. Instead Immortals were incentivised to move there in exchange for vastly reduced taxes, with the only requirement being that they release at least 70% of their mana into the air per day, which boiled down to having a full mana pool most of the day as any excess generation leaked out naturally.
+
+Statistically, most who went to such a world never really pulled themselves out of the rut, but Alfonso grew bored and eventually started dabbling into the various crafting professions. Eventually, he fell in love with aperology.
+
+Used to a slow life, Alfonso was more than happy to make rifts and run a test for a few hundred years before moving onto the next one.
+
+That long term testing allowed him to have evidence that given roughly a decade in isolation, a rift could stabilize enough that its chance of de-aspecting was drastically reduced.
+
+They were actually testing that on the mainland away from all of the testing that happened on the island, but a decade was still a long time for a single test.
+
+Instead, those five teams were trying to artificially recreate the conditions Alfonso saw in his personal testing, namely mana stability.
+
+The going theory was that rifts converted neutral mana into the six basic elements for their internal working like a framework, and used neutral mana to fill in the gaps. As a rift was left alone, it would slowly start converting that neutral mana into elemental mana, which, for whatever reason, took much longer than the seemingly instant process when the rift was initially formed.
+
+They hoped that by creating instances and forcing the rift to spend neutral mana, they could then feed the rift the perfect ratio of elemental mana, which would then be integrated in the place of neutral mana and have the same stabilizing effect. That all hinged on the hypothesis that the rifts didn’t just convert the elemental mana into neutral mana, which they had no way of knowing without first figuring out the perfect ratios and then running tests by Tiering up the rifts.
+
+Matt and most of the Titan’s Torch aperologists believed that was the fundamental truth of rifts, and if they could learn how to manipulate rifts on that level, they could crack aperology as a whole.
+
+Currently, his team was part of the race to create variable aura rifts, but they were closer to cracking the level two mana types more than anything.
+
+The first question about level two mana types was fairly easy. What mana type did you want?
+
+For his purposes, Matt had split the level two mana types into three categories: easy, tricky, and hard. Easy mana types were things like ice and lava, where even vague environmental associations were more than enough to spawn them in abundance. Tricky mana types were things like crystal and sound. They happened, for sure, but only in rare situations, and especially in crystal’s case, overwhelmingly not on the surface of a planet.
+
+Then you had the hard elements. Healing, blackwater, and divination foremost among them.
+
+There were, so far as anyone knew, no natural rifts of those elements anywhere in the Empire. Well, House Alkaza claimed to have a natural blackwater rift, but also refused to let anyone actually verify it, so it didn’t count.
+
+Normally, that was only half an issue, as it was entirely possible to elementally aspect a rift just with sufficient mana of that type… But they’d found that aura was overwhelmingly more likely to spawn in rifts if they adjusted the isolation formations to more closely mimic its natural environment, rather than a blank void.
+
+While Matt would love to produce aura rifts of those mana types he had no intention of starting with the hardest mana types.
+
+So, he’d be starting off easy and going from there.
+
+While elemental rifts were already somewhat in the minority, and most of the remainder were of level one types, level two mana type rifts still showed up with decent regularity. Ice could be found at mountaintops or near the poles, sand was found in deserts, mud in swamps, lava in volcanoes, wood in forests, and so on.
+
+That was where Matt and the rest of the guild thought the answer was and what they were trying to replicate. At least partially.
+
+Matt was, of course, starting with ice rifts.
+
+It wasn’t just because of Aster, though the fact his bond was currently animatedly adding to the discussion going on in the Ascender chat was a factor, but more so that fewer people would complain when an ice rift exploded than when a lava rift did the same.
+
+Even if low Tier lava wasn’t actually dangerous to anyone here, it was more annoying to deal with cooled lava than melted ice.
+
+Cleaning out his dozen rift formations, Matt started filling all of them with ice mana without a sub-aspect.
+
+When rifts formed, Matt waved his hand and dissipated nine of them which hadn’t taken to the mana type he wanted.
+
+Making a note with his [AI] Matt kept filling the rifts until he had twelve Tier 1 ice rifts.
+
+Then, he started to slowly add in air and water mana, the two mana types that created ice mana, into half of the rifts while simply adding ice mana into the remaining six.
+
+The aperologists’ working theory was that the level two mana types seen in nature wasn’t just because the elements existed in nature, but that the constituent parts existed where they mixed as well.
+
+The sample size was too small to really conclude anything, but three of his rifts Tiered up with air and water survived the Tier up without unaspecting, versus the two ice rifts that failed. After uploading his thoughts to the aperology section of the AI, Matt kept creating rifts until he had a full dozen ice Tier 6 rifts.
+
+It was time to see if any of them had aura.
+
+Popping into the rifts one after another Matt cursed, dissipating all of them.
+
+He had felt good about the creation of rifts using air and water mana. So far, that method had been mildly successful, and the single common method that had been used when someone in the guild did create the odd level two aura rift.
+
+Still, it was obvious that they were missing something. Some piece of the puzzle that would allow them to not only create level two aura rifts, but the more esoteric aura types like sharpness.
+
+Not willing to give up, Matt ran through another dozen tests, raising a rift from Tier 1 to Tier 6, hoping for aura, before tossing in the metaphorical towel and going back to the drawing board.
+
+Or just giving up for the day and paying more attention to the Ascender chat.
+
+His mind went to the swords they were using as the rift seeds.
+
+Back when he did these tests as a Tier 6, they had needed the swords to actualize aura, and all of the adamantly rare successes used a weapon. But the more they tried to break into level two mana types, Matt felt the sword seeds were only parity correct.
+
+After running through a few ideas, Matt decided to challenge that initial assumption.
+
+Their initial belief was that a weapon was needed for a way for the rifts monsters to actualize the aura and that seemed true. At least on the surface. Doing everything the same but not having a sword or some weapon, didn’t create aura rifts, so there was clearly something to the theory.
+
+But did it need to be a sword?
+
+A sword was often considered the most generic weapon. Some philosophies upheld it as the weapon, of which all other weapons were mere variations. A straight-blade longsword could be used in infinitely many ways, supporting endless styles within its simplicity. It could be aggressive or defensive, wielded with nimbleness or brute strength, with straightforward honor or tricky pragmatism. It did not ask for much of its user, but gave much in return.
+
+It was, in a word, simple. And perhaps something about that idea was at play here. All six level one elements could be represented by the sword, but perhaps the level two elements required something a bit more specific, a bit more resonance particular to them.
+
+Going back to the basics, Matt tried creating level one mana type rifts with weapons other than swords and different kinds of swords.
+
+He was limited by the weapons he had identical copies of, but he went through a dozen rifts in short order learning a few things.
+
+Aura rifts could form so long as the item was a weapon, but the actual definition seemed… loose.
+
+A shield was a weapon. Matt believed that with every fiber of being, but no matter what he did, a shield never created an aura rift, even when he used an offensive shield like a thrusting shield or shields with spikes.
+
+The realm seemed to disagree, and no matter how much Matt argued with it he made no headway.
+
+He did learn that the weapon in question when used as a rift seed didn’t need to be a bladed weapon, though that seemed to help form the aura.
+
+As Matt ran through endless cycles of creation and destruction, he began paying more attention to the Ascender chat, and just what was going on in it.
+
+Apparently, Maya had gotten her hands on a [Cracked Greater Display Case] skill shard as part of her payment for sticking around at Tier 35 for a little bit longer, and she was soliciting advice from everyone about what she should do with it.
+
+Matt wasn’t that familiar with the base skill, but a bit of research caught him up to speed. Normally, the skill created a box out of panes of force around a single object, protecting it and granting any onlookers a host of divination-based insights into the item on display. It, and its lesser ilk, were popular in auction houses and museums, though only the richest organizations had ready use of the Tier 38 skill.
+
+Maya’s crack, meanwhile, worked on anything rather than just objects, which changed the dynamic in rather interesting ways.
+
+Aster: “And I’m telling you, illusions absolutely require proper knowledge of how to make things work! That’s why she needs to work on improving the analysis it provides.”
+
+Sien: “That would be such an immeasurable waste of such a valuable and unique raw technique. Maya is not so desperate as to require a simple divining effect. But the opportunity to utilize this as a means to capture one’s dreams cannot be overstated. [To See Another’s Innermost Desires] would be perfect to merge with it, and enable marvelous analysis of one’s enemies in a perfectly safe manner.”
+
+Matt piped in while he charged up a rift: “What about turning it into an armor skill?”
+
+Discussing strategy with actual enemies of the Empire had seemed a bit weird at first, but he’d gotten over it. Nominally, none of them were going to be fighting each other any time soon, but in case they did then it would be a waste to make it anything but the absolute best fights possible, with both parties having maximum cool moves to bust out.
+
+Also, it was just fun to discuss powers with other powerful people
+
+Ellen: “Seems like a waste to me. Why not just go with [Force Armor] at that point? Besides, the divinations would just run counter to her illusions.”
+
+Max piped in, seeming to catch what Matt was going for: “The divination effect could be warped. It’s a classic issue that divinations can sometimes interfere with each other, having a constant low-grade divination going on yourself, especially if you control what exactly that divination shows and how it shows it, could be an interesting anti-divination tech.”
+
+Maya: “I already do that, and you know it.”
+
+Max: “More doesn’t hurt. But this allows you to also be tricky with how you display the information. Like, maybe you could make other forms of magical armor appear like weakness to the appropriate senses.”
+
+Krodag: “Is [Greater Display Case] normally able to display the results of its divinations onto nonstandard senses?”
+
+Max: “I think so? At least with mods. For something like danger or weakness sense you might need to use some Mind’s Eye Seeds, but it should work.”
+
+Matt turned away from the chat to take a look at his latest results, lightly pitching in here and there as he continued his experiments.
+
+Curiously, it seemed like while a club only sometimes worked, a spiked club worked just as well as a sword.
+
+The oddest thing for Matt was the fact a rock knapped into a blade worked. At least, it did sometimes. Though Matt suspected the failures were more so in the fact the weapons weren’t as identical as rift-made weapons could be, more so than their nature as sharp rocks.
+
+Matt took the logical leap and expected that a stone blade would work well with earth aura rifts, but in fact found it didn’t seem to have any particular effect. The material seemed not to matter at all so long as the shape and general idea of the weapon was the same in the context of working for a rift.
+
+It brought up a lot of questions about what rifts, or possibly the realm, considered weapons.
+
+What he did learn was that the type of weapon seemed matter. They seemed to matter a lot.
+
+Using a very light and flexible rapier reduced de-aspect on Tier ups for air aura rifts by almost eight and a half percent. Using a slower weapon, a greatsword in this case, had the same effect for earth aura rifts. Water rifts seemed to prefer maces, contrary to Matt’s expectation of whips or something flexible, while fire rifts seemed to prefer, surprise surprise, spears.
+
+Matt made a note to tease Liz about that later, but the discovery sent the rest of the guild into a flurry as they changed up their approach to testing.
+
+Aster: “Matt, can you quickly explain just why that’s such a bad idea to Sien?”
+
+Matt glanced over as the notification popped up: “Sorry, I haven’t been paying attention. Why is what a bad idea?”
+
+Sien: “I am of the opinion that Maya ought to utilize this opportunity to capture dreams of her foes, vague impressions of themselves which she may later experiment with and investigate. With proper care, this can be enhanced over time through additional captured echoes and further mana. In time, this ought to accumulate to the point where their dream-illusions are nearly entirely indicative of the individual, enabling an unparalleled degree of analysis.”
+
+Matt: “Yeah, I get that, but what specifically do I have to do with this?”
+
+Aster: “Because of how much mana that will take! She’s talking about hundreds of millions of mana being contained indefinitely at maximum fidelity.”
+
+Matt winced: “Oof. Yeah. Well, that’s not impossible, but it would definitely require a lot of finicky work… though what Tier are we talking here?”
+
+Maya: “Well, this is my bribe to stay at Tier 35 for a while yet… So that’s the minimum it needs to be useful at.”
+
+Matt: “Right. It should be possible, but if you do decide to go that route, I can give some pointers on how to keep that much mana stable over long periods of time. Working with just tens of millions of mana really isn’t that hard once you understand its peculiarities.”
+
+Zack: “It would also be useful if she utilizes my idea.”
+
+Allie: “Just capturing spells is so boring though!”
+
+Matt let the chat go on while he returned to his experiments. This had already been going on for weeks, he could weigh in more later he was sure.
+
+For now, he needed to figure out how to get more weapons. They just didn’t have enough identical weapons to smooth out rifts absorbing the rift seeds. If a rift ate the weapon and didn’t de-aspect, and they didn’t have a backup like they did with the swords, they might as well destroy the rift. As throwing in another similar, but not identical, weapon almost guaranteed the next Tier up de-aspected the rift.
+
+Matt had Kees change their standing order for sword to any and all weapon types from rifts, but that would take time. He had spent two hundred years buying a single weapon type, and only had a few million units.
+
+One of the aperologist had a good idea they couldn’t act on yet, but went on the ‘list of things to do, eventually’. If they could create rifts that dropped specific weapon types, they could have their eventual rift delving section delving those rifts to supply the aperology department with the weapons they needed.
+
+Kees declined the idea, but said he’d have an alternative ready for Matt’s perusal in a few weeks once they worked out the legality of doing something like that.
+
+With one piece of the rift puzzle sort of figured out, Matt went back to testing ice rifts using a variety of weapons. Metal claws and tooth coverings didn’t work, which made Matt a little sad because he would have loved to tease Aster about that, but he was happy enough to run through various weapons in his testing.
+
+He wasn’t the first one to land on a level two mana type though.
+
+That honor went to a very surprised Ashia, who had created a Tier 6 wood aspected aura rift using, somewhat anticlimactic, a staff.
+
+The combination seemed obvious because it was, and half a dozen of the aperologist good naturedly congratulated Ashia for beating them to it.
+
+With wood aura, they were able to use the Emperor's method to create a Tier 4 wood aura rift. The relief was palpable as the mental barrier was finally broken, and more and more level two mana types rifts started to get their formulas hammered out.
+
+Matt didn’t even get to be the one to create ice aura, which was a bit of a let down, but he didn’t let that show and gave the man who did succeed a pint of Asters personally made ice cream as a show that there was no bad blood.
+
+The actual discoverer, Fel-door, had seemed almost afraid that he had succeeded, but that was what came with an Ascenders reputation, and Matt made a note to try and humanize himself with his guild more often.
+
+The results were interesting though.
+
+Nothing was definitive yet, but their initial testing indicated that ice rifts preferred spiked knuckles, lava used great hammers, lightning liked parrying daggers, metal wanted combat picks, and mist rifts wanted throwing stars.
+
+It was an eclectic mix of weapons that didn’t seem to have any rhyme or reason, which left all of the aperologist scratching their heads.
+
+In the end, it just reinforced Matt’s desire to figure out pure mana aperology like Theodore typically used.
+
+Like chemistry, once they understood the interactions between elements, they could start to target specific reactions and ditch using things like random weapons to create aura rifts, but that was going to be a long time coming, if it ever happened.
+
+Progress was being made however, and that gave the guild a jubilant attitude. It was almost funny to see the typically demure aperologist strutting around the guild. Their success also seemed to light a fire under the other departments, but even Matt could see that was partly Kees fanning the flames, creating light interdepartmental rivalries by publicly rewarding the aperology teams who made contributions.
+
+That led to the other departments going head down, which produced surprisingly good results, and gave Matt a bit of downtime.
+
+Aiden: “What about doing something like that martini glass trick you pulled on me that one time? Could you trap a person or full army in the display case, ship-in-a-bottle style?”
+
+Max: “Hang on, I’m still interested in the illusion-solidifying idea.”
+
+Aiden: “But she already has [Solid Illusion]!”
+
+Max: “And like you said, she can already trap you in a perspective shift. Redundancy is a good thing, you brute.”
+
+Moe: “My title! Nooooo, I’m the only one allowed to be a brute!”
+
+Max: “You can both be brutes for all I care!”
+
+Krodag responded with a stylized comic rendition of himself flexing.
+
+Krodag: “All is right with the world.”
+
+Aiden: “Anyway, what if she combines it with a perspective trick and maybe a Law or two to make miniature terrarium-worlds, with trapped people inside of them? Use it to create areas with fixed laws, making it easier to maintain them? Seems like a winning idea to me.”
+
+Sien: “That would be such an under-utilization of the ways you can make the case practically permanent, though. It would thus become merely another battlefield control technique, and one that doesn’t even leave hazards. Besides, anyone worthy of such a treatment would be capable of escaping it with relative ease.”
+
+Aster: “That depends on how you do it though! Layering a hard wall of the cage with a soft wall of an internal effect could be pretty effective, especially if you make some spatial locks part of it.”
+
+Matt: “Where are we on the idea of making it armor?”
+
+Gideon: “Morphed into making illusions solid, though I’m with you on this one [Display Case] is known for being stupid hard. More armor is always a good thing.”
+
+Brian: “Yeah, but it’s not like Maya’s going to be taking very many attacks head-on. Better to give her more minions of a type people don’t have experience with.”
+
+Matt: “Okay, but what about the atypical sensory feedback?”
+
+Aster: “There’s nothing stopping her from applying it to an illusion of herself, and in that way it could be even more effective.”
+
+Matt: “Okay, but limiting the targeting would make it so much stronger.”
+
+Aster: “Yeah, limiting it to illusions.”
+
+Matt: “Not what I mean.”
+
+Max: “I did some calculations, and I think you could probably hide the elemental force signature if you tweak the divination screen a bit. Here, let me send you my work.”
+
+Matt tried to skim some of Max’s formulas, but quickly found himself out of his depth- he’d never really delved into illusions much, but Aster certainly seemed keen to discuss the finer details with their seniors.
+
+It was a refreshing break when he finally learned that there was some mage-work that he could properly follow that needed his attention, namely the travel mana engine.The team designed a new train engine that could be swapped with current engines that had an insane torque to mana ratio. Oddly enough the engine which used the fastest mana type struggled to reach anything resembling high speeds. That was more a result of the design rather than the mana type and the team was already working on refining their prototype.
+
+The current iteration wasn’t quite good enough to patent it, but it was close. At worst it could act as a spot patent, which would stake their claim to everything up to this point in case they lost the race to a final viable product. But Matt thought that was unlikely at this point.
+
+There were already two high Tier ship engines using travel mana that were better than their commercially available counterparts, but currently the lowest Tier engine was Tier 33.
+
+From what he understood of the reports, travel mana was finicky to work with at lower Tiers and the Tier 5 engine the team had created was revolutionary in quite a few ways that Matt didn’t have the physics background to fully understand. He did however understand that they were doing some innovative things with their enchanting work, and so when they asked for both more space, a few more hands to help, and a larger budget he happily approved the increase in spending.
+
+If they could solve the top speed issue without losing any of the torque to mana ratio the engine would see an almost twenty percent cost reduction for long distance trains across the Empire. Considering it was the single most ubiquitous method of travel for mortals, both in and between cities, that would have a noticeable impact in cost for any place where the trains could reach max speed which was where the savings kicked in.
+
+The travel engine really shined at its top speed which was both higher than the traction engines and cheaper to run at those speeds. The engines did however struggle at the slower speeds which Matt didn’t believe would be easily solved just because of how travel mana worked.
+
+It had one speed, and that speed was fast.
+
+So while the engines might not replace subway engines, or even cars like he had hoped, intercity trains would be falling over themselves to swap their engines out. Those savings would then be passed on to the mortals who relied on those methods of transportation allowing them more opportunities to travel for work or delves.
+
+It was a bit egotistical but Matt hoped that in the coming years Titan’s Torch would continue to be a light in the darkness leading the Empire and the realm itself to a brighter future.

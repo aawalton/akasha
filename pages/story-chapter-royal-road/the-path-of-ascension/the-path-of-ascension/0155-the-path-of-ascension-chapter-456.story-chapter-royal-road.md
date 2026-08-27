@@ -1,0 +1,495 @@
+---
+id: 1392b0a3-54a5-5669-84f9-bb0ec14cf0b7
+page-type-slug: story-chapter-royal-road
+title: "The Path of Ascension Chapter 456"
+slug: 0155-the-path-of-ascension-chapter-456
+partOf: the-path-of-ascension
+position: 155
+ownLength: 6248
+unit: words
+ownProgress: 6248
+publishedAt: 2025-11-07
+link: "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/2741385/the-path-of-ascension-chapter-456"
+royalRoadId: "2741385"
+markedReadAt: "2026-06-29T19:33:05.290Z"
+---
+
+Chapter 456
+
+Emmanuel stood above the wreckage of a continent larger than most star systems, surrounded by clouds of silver mist that hemmed them in. The result of the boss trying to trap him, which continued despite its death.
+
+The boss of this Tier 47 rift wasn’t in and of itself impressive, but its likely rewards looked spectacular, which was why Emmanuel had been running it. He’d even gotten several useful items, but all paled in comparison to the Rank 2 ‘Tyrannical Stygian Ursine’ blood essence. If properly used, it would allow a single person to convert to the bloodline with no outside resources needed.
+
+He wasn’t that interested in it personally, he had no bloodline to convert, but he knew every bloodline-focused family in the Empire and in every other Great Power would pay anything for the ability to recultivate the now-extinct bloodline.
+
+Well, except maybe the dragons, who had been the ones to do the deed.
+
+The Glorious Everlasting Kingdom of Prosperity’s guard dogs had been eradicated defending the crown during the Shattering, but their feats hadn’t been forgotten.
+
+Toying with the idea of creating his own Knightly Order with the bloodline and the implications that might send, he pushed such idle thoughts away and refocused on what he needed to do now that the boss was dead.
+
+Flying down, he landed on the boss and used another one of the Talents he rarely activated.
+
+A pulse of power washed out of him like a pebble plopping into a still lake.
+
+He felt as the power bounced around before culminating on the boss itself.
+
+Pulling mana stones he had made before the fight out of a ring, their mana rushed out like a broken dam and the torrent was sucked in by the hungry ball of energy below him.
+
+The torrent of mana tried to fluctuate widely, even with his Tier 50 spirit clamping down on it, but he managed to keep it under control without too much additional effort.
+
+Such instabilities were starting to become annoying. Currently, he could still multiply Matt’s already prodigious Talent, but the sheer amount of mana was causing phenomena typically only seen at Tier 45 and higher from mages without proper control when casting.
+
+In a few more Tiers, Emmanuel might not be able to control Matt's Talent’s mana output when it was being further amplified.
+
+By that same logic, he’d have more mana than he could control anyway, so it wouldn't matter, but it was becoming a problem he wasn’t sure how to solve.
+
+Mana control was dictated by numerous factors, but one of the most important was spiritual strength.
+
+It was why average mages rarely had trouble controlling their own mana pool unless something went weird.
+
+In Matt’s case, his Talent was doubling out of control.
+
+Matt hopefully wouldn’t run into any truly dangerous situations until Tier 35, according to Emmanuel’s calculations, but nothing could ever be easy.
+
+Thankfully, he had long known this was going to happen and had a backup plan in case Matt himself didn’t come up with a solution. But after dealing with Aiden, he knew better than to try and truly make his own plans when it came to Ascenders. It was much better to get out of their way and have a loose backup in case their original ideas all failed.
+
+He was much better served by sticking to his own plans.
+
+Finally, after an obscene amount of mana, the creature condensed into a ball of the purest teal light.
+
+Grabbing it, Emmanuel tossed it into the reward distortion, letting the power be absorbed without any additional interference.
+
+He’d tried manipulating the process countless times when he first got the original Talent from a passing Tier 12, but he quickly learned any changes ruined whatever process made the final reward better.
+
+That unknown dependence on mana was ultimately what made the Talent normally too dangerous to use on anything higher than Tier 40, as before Matt, he didn’t have access to a truly unlimited source of mana he didn’t have to prepare beforehand. He often wondered if the Tier 3 Talent’s growth factor had been making it more cost effective, as he found it hard to imagine a normal person being able to afford using it after a while. He’d never been able to find out, as the person he’d copied it from had died in a rift long before the time he realized its value and looked into them for an updated version.
+
+Time being one of his most precious resources, he didn’t often have it to spend, but here? Where he was already on a set delving schedule and currently ahead of it?
+
+Emmanuel fully abused the Talent, giving him slightly better odds than he otherwise might have.
+
+Touching the now glowing rift distortion, he grinned as a single ordinary seed fell out of the hidden space, immediately able to feel its complicated mana signature.
+
+Flipping through half a dozen Talents, Emmanuel scanned the seed before carefully storing it so the seed wouldn’t die.
+
+He’d never seen the Tier 47 herb that the seed would grow into before, but its energies were powerful, even while fully contained inside that single seed, which was enough of a reason to treasure it.
+
+Knowing it was the long Monster Collective-exclusive Dripnose Tulasi only made him more careful.
+
+According to the little information he had about the herb, it was one of the main ingredients in a high-Tier magical disrupting poison that had since become exclusive to the Collective.
+
+If Tur’stal could get this single seed to properly germinate, Harper might have a new tool in the future.
+
+Ensuring so wouldn’t be cheap or easy, but the opportunity was only possible thanks to the breach.
+
+Emmanuel wasn’t entirely sure how he felt about the breach. It had interrupted his plans, and in the process, ruined many of them.
+
+If nothing else, it was giving him an opportunity to show himself as a good, or hopefully trustworthy, person for the eventual reveal and fight over Matt’s mana.
+
+As part of his agreement with the other Tier 50s, he had used most of his Talents to assist them in delving. Notably, that meant using some of his aperology Talents.
+
+The most obvious one he used removed the downsides for being over the Tier of the rift, but thanks to a quirk of how the Talent worked, he had to be the one to initialize the rift instance. That had led to some initial stressful moments, but that was far from his only rift-based Talent.
+
+It wasn’t even the only one he used for the other Tier 50s. If they were going to be getting powerful new items he wanted to have an idea of what they might have gotten.
+
+To that end, Emmanuel ‘freely shared’ some of the information his many Talents gave him, providing the other Tier 50s with nice and entirely true reports. Because he believed in a light touch, he rarely hid anything, though he didn’t provide any supplementary information about items, leaving identification to the Tier 50s’ own abilities.
+
+If they wanted additional help, they could pay for the privilege from JR or come pay him should the raven not be able to identify something.
+
+One particularly useful Talent was one his father paid a king's ransom for. It was the Talent from the now ascended, Rebecca Fulmer. Her Tier 1 Talent allowed him to tap into the very fabric of the rift and display the underlying information to anyone he so chose. Her Tier 3 increased the amount of information shown, and before she had Ascended, the Talent had become a well-honed blade.
+
+In settled space, the Talent had been useful but not that strong outside aperology, which Rebecca had no interest in. Rather, she had been an explorer of some renown in her time, and during the breach, her Talent proved invaluable to Emmanuel. Using it, he was able to inspect every rift they all entered.
+
+Once he made it clear he was willing to share such valuable information, everyone had taken advantage of it rather than delve blindly, even knowing he got to see all the same information.
+
+He hadn’t done so to be nice, but instead it had gotten everyone into a good mood while making it clear they couldn’t hide too many rewards from him. If nothing appeared from the rarest drop lists, Emmanuel would know. Anyone who used this as an opportunity to take advantage of him would find him very willing to escalate. Hopefully it wouldn’t come to that.
+
+Thanks to Rebecca’s Tier 3 being so well developed, he was able to see a massive amount of information. Probable monster types, along with their many variations, ranges of what collectable resources might be created by the rift and their estimated amounts, boss types and possibly variations, and finally, because Rebecca had pushed her Talent to its limit before she ascended, he even knew if there were any secret areas hidden in the rift.
+
+It was an incredibly powerful Talent, and he wished he had been Tier 25 when she allowed him enough contact with her spirit to copy her first two Talents, despite the Tier gap. She had long since Ascended, but he still wished he had gotten access to whatever her third Talent had been, having seen the other two.
+
+With his experience with Talents, he suspected it had been the ability to directly manipulate the probabilities her earlier Talent revealed, but he would never know.
+
+Thankfully, she wasn’t the only one with the Talent to manipulate rifts. In fact, he had two Talent sets he liked to use in tandem, which was normally enough to give things a hard shove in his desired direction.
+
+Emmanuel could only hope that perfectly holding up his end of the bargain would pay dividends when Matt’s Talent was eventually revealed. Sadly, he’d only find out in the future and they had other hurdles to overcome before he started worrying.
+
+Namely, his choice of rewards out of the other’s benefits.
+
+He had seen some of the rewards the other Tier 50s had access to, and while there was no convenient description of each item given through the Talent, generalities could be assumed from what little that was provided, and some were powerful.
+
+Full Tier 47 rifts delved without penalties were incredibly profitable and that let his Talents shine.
+
+Stepping out of the rift twenty nine days after he entered, he was on high alert in case he was ambushed.
+
+When he wasn’t attacked, he scanned the planet and found he was the second to exit this cycle. Tobias’ humanoid body was already drinking tea at their gathering island, waiting on the others to return.
+
+With the time acceleration and cut off, they only had a little more than eight years to clear their rift before Emmanuel reset the cycle himself.
+
+Emmanuel had made it very clear from the start, anyone who missed his assistance was shit out of luck. All of them verbally agreed, most stating how they needed to return to their Great Powers, but he was sure two of their number would have started dragging their feet. The rate was calculated to push even them, and as such forced them to rush the bosses. It wasn’t ideal, but it was one of the best ways to counter the two who had undoubtedly smuggled people to the planet.
+
+Tobias, unlike the rest of them, seemed to have zero issue with the time crunch and always exited his rifts exactly twenty eight days after he entered, according to the recording devices Emmanuel had spread all around. Seven and a half years wasn’t the fastest recorded time for a boss rush on a Tier 47 rift, but Tobias’ consistency spoke volumes.
+
+The turtle was far from being alone in his scheming. They were all playing their games, trying to ensure they stayed on or got to the top of the heap.
+
+Taking his normal place on what was becoming ‘their’ island, Emmanuel waited, not bothering to talk to the Monster Collective’s Tier 50, knowing it would get him nowhere.
+
+No, it was better to not foul the small amount of goodwill he built over the small amounts of overlap they had outside the rifts.
+
+He did strike up a conversation with JR about a near transparent variant of iron he found in his last rift after he arrived.
+
+From everything his Talents told him about the metal, it was simply really hard to observe iron ore, but he’d only seen a small amount where he had expected a Natural Treasure to have formed, so he didn’t trust any Talent that said the ore wasn’t special in some way.
+
+Such a clear false negative only proved his Talents couldn’t pierce its peculiarities.
+
+And a metal that was nearly impossible to notice could be very useful should it survive the forging process.
+
+When almost in unison, Virgil and Winter Hornet exited their rifts only a minute before the deadline, Emmanuel prepared himself to get back to work setting up instances in new rifts, while the previous rifts were recharged via formation powered by the rich ambient mana.
+
+It was something they all wished they could do to their own planets.
+
+Except, before Emmanuel could start, Aoife raised a hand. “I wish to propose something. Why don’t we condense a few more Tier 48 rifts? We’ll be removing every rift anyway, so using the ambient mana up faster doesn't really matter. If we distri—”
+
+Winter Hornet interrupted her with a grin. “Based on land size. Where you have the advantage. A feeble ploy. Let us cut to the chase and agree on what we would have anyway. We divide the remaining ambient mana equally and base how many rifts we Tier up by usage. Then we allow people to choose how many rifts they advance themselves.”
+
+Thanks to one of his empathic Talents, Emmanuel felt Aoife’s response be more muted than he expected, leading him to suspect the interruption was little more than a ploy staged between the two.
+
+The question, as always, was why?
+
+Emmanuel thought he saw where they were going, increasing the difficulty of the rifts, the Tier of the rewards, and slightly speeding up the depletion of the Tier 46 world’s ambient mana.
+
+Amusingly enough, destroying the rifts as they left helped the world recover from such mana depletion in a more natural manner. Their total loss would ensure rifts couldn’t convert the world's essence into mana as they tried to bring the system back into balance.
+
+With their absence and lack of intelligent life, the world would naturally produce its own mana through its own cultivation core and the planet’s Tiered wildlife. That would ensure mana did return, but it would be a slower process, taking a century or two. The rifts would start reforming slowly as mana levels rose, instead of pausing the world’s essence accumulation.
+
+Their actions would slow things down in the short term, but in the long term, it was believed to be the least disruptive way to do what they were going to do anyway.
+
+Running through the reasons why those two in particular might want to both speed things up and make things harder, Emmanuel smiled as he agreed.
+
+Tobias and Janet were undoubtedly sneaking other cultivators into their rifts and extracting correspondingly more resources than everyone else.
+
+Allocating the remaining mana to higher-Tier rifts would punish them more than anyone else. The extracted materials weren’t being recycled into essence when the instance ended, which would empty the rift’s internal reserves faster than everyone else.
+
+At least slightly. Each individual rift instance would only lose a little extra essence, but over hundreds of delves, that would add up. Once they started deliberately tracking the mana used, any such discrepancies would become obvious, allowing those remaining to band together against the two rule breakers.
+
+After all, with proper strength, the crime wasn’t in doing something wrong, but in getting caught in the act.
+
+If nothing else, it would force the two to limit the amount of resources they excavated from the rifts. Their materials would be higher-Tier, but everyone excavated some amount of resources. Forcing the two to lower the amount of additional resources they harvested closer to how much everyone else could was a win itself.
+
+Additionally, the stronger monsters would necessitate more babysitting from their respective Tier 50s to ensure their safety, and that would slow them down further. The question was if it would do so more than the added time acceleration found in Tier 48 rifts.
+
+Whether it did or not quickly became irrelevant.
+
+Emmanuel couldn’t pass up the opportunity to delve full Tier 48 rifts.
+
+He could, however, acknowledge doing so would further escalate the general situation from the stability they had found in having an abundance. Scanning everyone told him they all knew it too, but greed at their Tier 47 harvests made them eager for what their imaginations whispered to them.
+
+Seeing no outward dissent to Winter Hornet’s final suggestion, Emmanuel agreed.
+
+He almost instantly regretted it, as he had to wait around as everyone had to decide which rifts they wanted to Tier up. He wouldn’t have minded so much if they didn’t keep trying to get him to predict the outcome of Tiering up a rift.
+
+As every Seeker knew, no one wanted to believe that such Talents couldn’t do everything. In his case, rifts were the worst subject to predict the future of during a Tier up, both due to their innate complicated nature and their Tier making their future hard to see. Together, they made any divination a fool’s errand, but after seeing what he could do with rift rewards, they badgered him all the same.
+
+Seeing the inevitable, Emmanuel put his foot down on checking two rifts per delve cycle, not willing to let the idea twist back around on him.
+
+In reality, he’d be happy to spend a few weeks setting things up properly, but he still saw several things he’d love to get his hands on in the possible rewards.
+
+And frankly, Emmanuel didn’t mind returning to their Great Powers slightly earlier. Plans were undoubtedly twisting and contorting out of shape, but that was an opportunity as much as it was a problem.
+
+A few hundred years of delving and he could return.
+
+It was objectively the blink of an eye.
+
+Nothing could possibly go horribly wrong in that short amount of time.
+
+Checking a newly advanced Tier 48 rift for Aoife, Emmanuel nearly let his shock show upon connecting to it with his rift inspection Talent set. The rift had seemed ordinary until he looked at the rarest bracket of rewards.
+
+He was skimming information he couldn’t easily parse when his attention halted on something he’d never seen before.
+
+At Tier 48 and filled to bursting with mana, there was a small chance for the rewards to be as high as Tier 50. Not the chance at rolling an incredibly rare probability on a drop table, but the distinct chance for rift rewards to be of a higher Tier than normal.
+
+The odds of the rift rewards increasing in Tier were exceptionally rare, but it was the first time he’d ever seen it as a discrete possibility applying to everything else. It almost reminded him of skills and how they could drop before their official Tier, but the rift was operating on entirely different logic to produce the effect he was seeing.
+
+It was more like a mutation to the basic reward drops.
+
+He wasn’t sure why this rift was special quite yet, but had his suspicions. It was a peak Tier 48 rift stuffed full of mana, something none of their planets could sustain without massive, continual, investments.
+
+Spreading his perception, he checked a few other rifts to find his suspicion mildly confirmed. There was something deeper, as about one in four peak Tier 48 rifts had access to those coveted rewards, but it was still good enough.
+
+Emmanuel wanted those rewards.
+
+Even just the tiny glimpses of the Tier 49 and Tier 50 rewards he got to see via the Talent made him salivate.
+
+The question was if he should inform the others.
+
+His first reaction was to say no, but he checked that impulse.
+
+Telling them might be the only smart play.
+
+Any such items would be immediately obvious to the other Tier 50s, so there was no way they didn’t eventually find out now they all intended to delve peak Tier 48 rifts. If he didn’t tell them about the items, their first instinct would be to squirrel them away and try to hide.
+
+They might even succeed, and that was unacceptable.
+
+That was the worst case outcome. They had made an agreement and he was going to enforce it. They were allowed to reserve two items, no more. He was going to take his pound of flesh back for all his efforts.
+
+From that angle, telling everyone about the possibility of such rare rewards would earn him both a modicum of goodwill, and make it harder for them to argue they received no Tier 48 rewards when it came time to pay for his services.
+
+The more Emmanuel mulled things over, the more he liked the plan. Raising his voice slightly, he grabbed the others' attention.
+
+“Everyone please gather. I have something interesting to share.”
+
+Seeing nearly zero reaction from anyone except Aoife, who had been standing nearest to him he added, “What do you all think of Tier 49 or Tier 50 distortion rewards?”
+
+Suddenly, seven people stood around him, not so patiently waiting for his next words.
+
+***
+
+A bleary eyed Tim laughed as he looked at the package which had finally arrived.
+
+Tearing it open, he ignored the warnings the school tried to interrupt him with and looked at the neat rows of coins. Each one freshly minted specially for him via a ducal charter to ensure he could advance his Talent without issue.
+
+It had been such a boon until he had tried to buy this skill, and suddenly all of his lines of credit dried up, but that had just been another roadblock in his way.
+
+He’d overcome it.
+
+He’d succeeded.
+
+Thinking back what felt like decades to the moment he unlocked his fated entry, he almost giggled, still not quite believing it was real.
+
+He had worked so hard for so long for this moment.
+
+He was tired and after this he could finally rest.
+
+It had taken nearly two decades of combining skill entries and pushing himself, but he had something he thought impossible.
+
+Novice Biological Immortality: 0/100 Proficiency — Unlock Cost: 9.7 sextillion credits.
+
+That was roughly three Tier 13 mana stones of value, and it had taken him the last five years of saving to gather that many credits.
+
+If anyone, anyone at all, had been willing to help, he could have done so much faster, but they hadn’t.
+
+The school had outright stated they wouldn’t assist him in pursuing the entry, but neither would they hinder him. He was confident that was a lie, as no one else had been willing to give him anywhere near that amount of money without an interview, and they all inevitably declined after that, no matter how well he prepared himself.
+
+Taking a deep breath, Tim took a moment to collect himself.
+
+Once he had the entry, he could finally relax a little, instead of pushing himself to his limits day after day like a machine. He wasn’t built for that. He couldn’t do it any longer without going insane.
+
+Now that he had succeeded, he could finally spend some time with his friends. He vaguely remembered they had been urging him to attend a… something a few… weeks? Months… years ago?
+
+Tim wasn’t sure how long ago that event had been, but he pushed those thoughts off to the side. The object of his near obsession was finally before him.
+
+He needed it.
+
+He deserved it for having worked so hard for so damn long.
+
+Tim felt it spiritually.
+
+He had to buy the entry.
+
+At this point it represented the obsession that had started him down this path in the first place.
+
+No matter if it was right or wrong, he had to do it.
+
+Clicking the entry and buying it, he felt… nothing.
+
+Not emptiness as in a hollow feeling of dread, but a nothingness that seemed out of sync with what he expected after merging so many body-based entries together.
+
+His previous combined entry, Journeyman Bodily Control, had caused an itching sensation to cross his body, and after years of scrimping and saving, he had expected something.
+
+Checking his Talent once more, Tim was surprised by what he saw.
+
+Novice Biological Immortality: 0.0/100 Proficiency — Age to gain proficiency.
+
+Normally he got some level of understanding when he unlocked a new entry, but this time that hadn't happened.
+
+“You have got to be fucking with me?!?” Tim read the readout, a feeling of helplessness over taking him.
+
+Did he have a bugged entry?
+
+What had he done wrong?
+
+“No! No, no, no, no!!!!”
+
+His initial worry combined with his years of hard work fraying his nerves nearly caused Tim to snap at the letdown.
+
+Exactly five anxious minutes after he initially unlocked the entry, he felt himself grow a few seconds younger.
+
+It was an entirely biological process, there was nothing technically magical about it, but it still shocked him.
+
+His body didn’t revert back in time or anything so world shattering, but he had grown younger.
+
+Novice Biological Immortality: 0.1/100 Proficiency — Age to gain proficiency.
+
+Doing some quick math, Tim realized even if he stopped advancing his cultivation at this very moment, he’d still live forever.
+
+Going through all of the math again with less generous estimates, the results were the same. According to the worst case scaling of his Talent, when combined with his Concept, there was no chance he would die of old age.
+
+As a Tier 8.
+
+He had done it.
+
+He… had cheated.
+
+This wasn’t the immortality he had envisioned. This was a cheap, sloppy, technically accurate answer. It was the type that he hated himself for choosing at what seemed like every turn.
+
+No matter how many times he told himself he’d do better, he was inevitably only able to drive himself forward if he saw… something. He didn’t know what drove him anymore.
+
+Tim didn’t know anything anymore.
+
+Why did he bother with any of this?
+
+What was the point of it all?
+
+Why was he trying so hard if his goal was ashes in his mouth, instead of the sweet rewards he had built up in his mind?
+
+Why?
+
+Tim’s attention was drawn inward as he felt his world start to crumble around him at his realization.
+
+His Concept, like his own self-worth, crumbled before him and there was nothing he could do. Trying to stop the process only accelerated it and as it crumbled, his very spirit tore itself to ribbons.
+
+He begged anyone to kill him and end the suffering, but no one was listening and he slowly grew accustomed to the spirit tearing pain.
+
+Looking in, he found only devastation.
+
+His Domain was thoroughly shattered.
+
+Ruined.
+
+The tears came harder.
+
+He felt himself speaking, but he wasn’t sure what he said as he vented his decades worth of emotions.
+
+The achievement of reaching immortality had been tainted by his own hand, and he couldn’t hate anyone except himself.
+
+Without his Concept forcefully driving him to accomplish his goals, he could see how everyone had warned him about buying that entry, but he had willfully ignored them.
+
+He wanted to blame it entirely on his Concept, but the pain of its shattered fragments gave Tim unparalleled clarity.
+
+It wasn’t anyone’s fault but his own.
+
+He had done this to himself, one misstep at a time, in a desire to reach the goals no one except his own worst enemy demanded of him. When he was given an easy way out, he took it just like he always did.
+
+Like his mother did.
+
+His Concept, which already felt like it was dust, crumbled into even smaller pieces and his crying intensified until he felt completely drained.
+
+Having taken something so precious from himself, he hated the only person he could.
+
+Tim could see it now, but such clarity only worked when he looked backward. The future was a messy jumble of horror with him having to face a decade of delayed consequences.
+
+He’d obsessed for so long, fixated on his unhealthy goal despite everyone trying to steer him elsewhere.
+
+Hindsight made it clear how bad of a friend, a student, a researcher, a… everything. Tim had been a bad everything.
+
+He’d been so worried about everything, so worried about what he thought everyone wanted, he never listened to what they were actually saying.
+
+Knowing his state, he couldn’t let anyone see himself. He needed…
+
+Something.
+
+Tim didn’t know what he needed but he knew he couldn’t be anywhere near the school.
+
+Over the last decade, he had turned the place into a prison, and while he saw through his own misgivings, his reactions were still visceral and raw.
+
+He needed space.
+
+So, Tim let himself run.
+
+He deserved everything that was happening to himself and he hated himself that he wasn’t strong enough to push through and be the person he wanted to be.
+
+With each dark thought, his Concept broke further, and with each twinge of pain, he ran further, the cycle feeding itself until he had nothing left and collapsed.
+
+***
+
+Luna sat on a tree branch a wall away from Tim and winced as she felt the boy's Domain shatter into the finest of dust.
+
+That felt far more violent than she’d expected, but then again, Tim promised to prove everyone wrong at every turn.
+
+Seeing how thorough the destruction was, Luna sighed at the unimaginable pain she knew he would be going through. Larger shards cut the spirit more, but the Concept was more intact making restoration easier.
+
+The dust was the worst of both worlds. Each grain a dagger dragging across the edges of his spirit and nearly impossible to fit back together.
+
+They had tried to steer him off the entry, but it had come at the worst time. Right as the boy looked like he’d naturally relax into a reasonable schedule, the cursed entry had put enough pep in his step to send him off a cliff.
+
+That was the problem with the determined ones. They surprised even her with how far an obsession could drive them beyond their normal healthy limits.
+
+Having immortality as such a focal goal when the entry appeared, combined with the Concept she hadn’t agreed with him being told about, made some form of collapse inevitable. She only hoped they had mitigated the worst of the mental problems with their efforts over the last few years.
+
+Oftentimes, such efforts felt futile, but were the difference between survival and death in such a world-shattering ordeal.
+
+Ultimately, since they had gotten the boy into this predicament, it was on them to help him pull himself out of it, and she intended to deal with it herself. She wasn’t so naive to think she could have prevented this situation, but in hindsight, not intervening directly immediately after the entry’s appearance had been a mistake.
+
+Inspecting the now vacant eyed boy, she prepared to move him into a hospital where they could try to pull him out of mental shock of his Domain shattering. A ward had been on call for the last two years once it was clear they weren't going to be able to fully prevent this. Sh—
+
+Hearing him start laughing made Luna pause. She’d expected him to have passed out. Ensuring something else hadn’t also gone wrong, she scanned him at a much higher perception.
+
+That thorough check revealed to her the smallest movements in the boy’s Domain. A feat which should have been nearly impossible given she had watched his Concept implode moments ago.
+
+Stepping through the wall and into his room, she sat on his nightstand as she inspected him with every sense she had.
+
+Feeling others, the admin in charge of this wing of the student dormitories and the deputy headmaster, both rushing over, she let her cultivation unfurl. Relying on her raw cultivation, she forced them to stop before they reached Tim’s room.
+
+“Do not interrupt.”
+
+Vincent Marcone was normally someone she treated like an equal, given his dedicated efforts to the school, but having seen what she had seen, she couldn’t let them stabilize Tim’s Domain like she knew they were rushing to do.
+
+Feeling him trying to push through her power, she increased it until he was pushed entirely off planet.
+
+Only once he was far enough away that she knew he couldn’t do anything more than observe did she speak. “Inspect his Domain and watch it. Carefully.”
+
+Her warnings were taken with the seriousness she hoped they would be, and she felt a tiny tendril from the Tier 30 inspect Tim’s Domain.
+
+When they retracted a moment later, she let her pressure fade, allowing the deputy headmaster to return to Palustris.
+
+“You could have told me there was a hope for a revival there verbally instead of forcing me away.”
+
+Luna blinked at him as he joined her in Tim’s room.
+
+They both knew he wouldn’t have risked letting Tim’s Domain deteriorate further in those initial moments, but neither said anything else about the topic. That would have been the right call and she couldn’t fault him for it. She could fault him for not listening to her, but she didn’t take that personally, knowing she didn’t put in the effort to gain his trust before this.
+
+That, and he was a good educator. When he left her tutelage, she had a few notebooks for him to work on, but he was good enough for this type of work.
+
+“I wi—”
+
+Just as her opinion of the man was rising, he opened his mouth and she let her gaze turn into a glare.
+
+“You worry too much. Let the boy walk his path. He raced into this head first, despite all of our every attempt to stop him. Let him suffer the consequences and swim for a bit. If he comes through this himself he’ll be all the stronger for it. Some people need to suffer in the mire of their own making before they discover who they really are.”
+
+“And other times they drown.”
+
+Luna snorted, having returned her eyes to the boy's Domain as he babbled.
+
+It churned in a way no Domain should, but that excited her because she had seen it a rare few times before.
+
+Not in those like Aunt Helen. She had needed to manually rebuild her ‘shattered’ Concept because it had been fully disconnected from herself, fully dead, by the time she came out of her grief and moved to recover.
+
+On the other side of the spectrum, Tim’s Concept hadn’t been destroyed, it wasn’t dead. It had shattered, but it was still entirely under his control.
+
+It was still alive and connected to him despite its unfortunate state.
+
+Something had shattered the very core of his being, but not so much that he truly lost control over himself.
+
+That was interesting.
+
+Luna pondered if that was a result of his Talent, but suspected it wasn’t. That power seemed irrelevant as the situation without it was nearly identical to the cases she had seen before.
+
+That chance in no way guaranteed his success in rebuilding his Concept.
+
+Two out of the three people she had seen in a similar condition had failed and been forced to start over. At this point, she could only hope he evened the odds instead of showing the first as an outlier.
+
+She was hopeful though. His connection didn’t seem to be fading. If anything the destruction of his Concept had strengthened his connection with it.
+
+That and there was nothing else anyone could reasonably do.
+
+If they wanted to risk ruining everything, they could tell him about his chances of fixing things. Inform him that it was possible to give him hope. Let him know that so long as he overcame his emotional and mental hurdles, he could manually repair his Concept, but that added pressure nearly always backfired.
+
+She wouldn’t let anyone risk that path quite yet. Even if the boys Talent was helping hold things together, telling him held more risks than simply letting Tim figure things out himself, as he seemed wont to do.
+
+So long as the remnants of his Domain were still connected, she was willing to let things play out.
+
+Ah well, with most everyone either off playing in the breach or busy with the increased workload because of their absence, she only had teasing Ciceron on her schedule, with the occasional nap in a nice warm spot penciled in the rest of her time.
+
+Watching the boy walk out of his room still talking to himself, she jumped onto his shoulder without him knowing. “I’ll watch over the boy and make sure to stabilize the remnants should his journey of self-discovery fail. No need to concern yourself anymore.”
+
+She’d take things from here.

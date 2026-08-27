@@ -1,0 +1,351 @@
+---
+id: 11f47508-a2a2-559c-af06-3b7d3c8dbabb
+page-type-slug: story-chapter-royal-road
+title: "162 Different Stars"
+slug: 0121-162-different-stars
+partOf: the-new-world
+position: 121
+ownLength: 4064
+unit: words
+ownProgress: 4064
+publishedAt: 2018-11-13
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/306579/162-different-stars"
+royalRoadId: "306579"
+markedReadAt: "2026-06-29T21:25:08.766Z"
+---
+
+I walked over, clicking the center of Torix's gray suit. My power armor folded off me. I set the gray square that was left on a night stool beside the bed. I laid onto her. As I did, my real armor molded over us both, creating a sphere. As I pressed against her back, I whispered in her ear, "Always."
+
+Althea giggled, "Your armor's gotten way better at that circle thing since we first did it forever ago."
+
+I smiled, "It had to. Otherwise, we'd be waiting for the metal longer than we spent time actually doing it."
+
+She rolled her eyes, "If only. Your stat sheet isn't the only thing with a lot of endurance."
+
+I snickered while wrapping my arms around her. She smelled my arm, "You smell like iron, stone, and fire. You're like a blacksmith." She squeezed my upper arms, "If I press down hard enough, I can feel the fibers of your armor under your skin. They're like cords of steel."
+
+She rubbed her hand across my arm. I pressed my face into her hair, breathing in, "Well you smell like lavender...Man do I love your shampoo." I squeezed her, "And every part of you feels soft to me. From the top of your sleek shoulders to your nice, sexy ass."
+
+She wiggled her hips, smirking at me with pride. She raised her eyebrows,
+
+"I do a little touch up with my shapeshifting powers."
+
+I raised an eyebrow, leaning up, "Really now? I'd never of guessed."
+
+She flipped over towards me, lifting her hands overhead. I pulled her dress off while she talked,
+
+"I mean its nothing big or anything, just little improvements here or there. I think of it like makeup or exercise."
+
+Her voluptuous boobs bounced as her clothes passed over them. I leaned into them,
+
+"I appreciate the effort."
+
+She coiled her arms around my head, her body shivering at my touch. I dwarfed her enough to wrap one arm all the way around her. Althea loved that though. She told me I made her feel safe.
+
+I let out a deep breath, tracing my lips between her breasts. Electrical sparks shot up her body, her hands and feet twitching. I enjoyed teasing her, relishing in the sensations of her body. She left her hands over her head, closing her eyes. She loved the sense of freedom. I loved the sense of domination.
+
+I pressed my lips onto down her neck, to her shoulders, then her side. Althea was ticklish around her stomach. I took full advantage, kissing down towards her navel. She shivered as I tongued her belly, her mind racing in anticipation.
+
+With a gentle touch, I caressed my hands down hips. Like lightning fired into Althea's fingers, she writhed and grabbed the bedsheets. She let out a soft moan, surrendering herself to me. My own excitement built, my hands moving faster.
+
+A carnal hunger raced up into my head, urging me on. I pressed harder against her, feeling the softness of her skin. She tasted a little salty and sweet, her body warm against me. She arched her back, pressing her most intimate place against mine.
+
+She wrapped her arms around me, nibbling at my neck. I pressed myself against her, her tender body fitting against me. I thrust myself into her, Althea biting her lip and scratching down my back. Her lips quivered as she gasped.
+
+She tightened against me, pulling me in. Sopping wet, she pushed her hips to me. I nibbled on her ear. She rewarded me with several breathless gasps. I sped up my pace, her body sucking on me. She pulled as I pushed. I grabbed her wrist, holding her down.
+
+She wrapped her legs around me, pulling me into her. Her moans turned to yelps as she let go. Her hips rocked with me, the bed shaking. I growled, pressing my teeth against her shoulders and neck. I sucked on her, her chest sensitive.
+
+She bit her lip and panted, "Ah, I love it when you touch me there baby."
+
+I nibbled on her nipples, her body spasming in pleasure. She jolted with each pulse, her body constricting mine. I forgot about everything else, her smell and taste consuming me. I heightened my senses, savoring each move of her body.
+
+She gripped my back, her body tightening. Her moaning gasps quickened before she yelped, her body squirming in place. She placed her hands on my chest, letting out labored breaths. She clenched on me, squeezing me tight. I clenched my teeth, euphoria spreading over me.
+
+I let out deep breaths with my arms shaking. I finished as Althea did, each of us losing tension. I laid on her, supporting some of my weight on my arms and legs to not smash her. She whispered into my ear, "That was amazing."
+
+I grinned, "You were amazing."
+
+I lifted myself up, moving one her boobs out from under me. She giggled,
+
+"I remember when you used to lay on top of them. It hurt so bad I'd squeal."
+
+I nodded, "And it scared the shit out of me too. I didn't know boobs were that touchy."
+
+She played with my hair, "That's not as bad as the time I kneed you right in the balls while I was cumming."
+
+I winced, "Jesus Christ. Don't remind me."
+
+She leaned back laughing. We laid together for a moment, just enjoying the intimacy. After a minute, she grabbed the back of my hair, "Ready for round two?"
+
+A devilish grin ran up my lips, "Let's make it a bit more adventurous."
+
+*****************************************************************
+
+With Althea asleep, I floated myself up out of bed. It turns out that magic and sex made for a solid combination. As I stepped towards a desk in the corner of the room, my armor molded back over me. As it did, confidence surged in my chest. It was my second skin after all, and I was naked without it. Literally and metaphorically.
+
+I sat in a desk in the corner of the room. I pulled my grimoire and set to work. With the extra knowledge Eonoth unlocked, my cipher skills overshadowed what they once were. It was high time I took full advantage of my new abilities even if I feared them a little.
+
+It also helped that my perception was just over 2,500 now. The cipher shored up weak attributes faster than high ones. The dungeon cores helped accelerate this process even further. This rapid attribute gain meant fixing issues with my build proved simple. That's why I wasn't worried about the televised tournament. Only classers would know who I am and that was if they specced into perception.
+
+I doubted that many classers watched tournaments from small towns like Icosah either. They'd be too backwater for them.
+
+Either way, my attribute gain satisfied me for now. I wanted to unlock other parts of Schema's system. His trees and perks gave multipliers and conversions that vastly improved my abilities. If he did it, I could too. Even more so, I might make a new skill or spell that might help round out my build. It never hurt having options after all.
+
+With those ideas bouncing around, I played around with the cipher. Instead of focusing on precision and clarity, I emphasized the fluidity of it. After several hours, I learned a few tricks and tips for creating more efficient runes.
+
+I rewrote my perception runes, plastering them onto my forearms. After I finished the runic work, I stood up and put on my metallic disguise. Torix's power armor folded over me, keeping me hidden. I walked out of our room, leaving a written note. Althea hated waking up alone, but a note helped ease the sting.
+
+I walked around town, buying a few traveling supplies. With Icosah's tournament handled, we'd all be shuttled to the next city, Yildraza. I figured processing some of the logistic work would take the edge off of Torix for once.
+
+After setting down my supplies, I returned to our rented room. Althea woke up as I opened the door inside the room. She rubbed her eyes as I set down an armful of foodstuffs, snacks, and trinkets. I walked over, giving her a morning kiss,
+
+"It's good to see you."
+
+She gave me a lazy grin, hugging her pillow, "Same here."
+
+After an exotic breakfast of Giessian junk food, we trecked to the Empire's branch in Icosah. The receptionist guided us to the back of the imperial building. After passing a few fancy hallways, we got to the armory and integration room. Both of the areas focused on teaching espens the proper use of imperial weaponry.
+
+We reached a meeting room, fancy furniture clashing with high tech gear. Kessiah, Caprika, and Torix talked to two members of the empire. Garnered in fine, flowing robes, they spoke with the same red masks covering their faces.
+
+Both of them outsized Caprika, their features masculine. Collars of crimson wood tamed their wild tufts of fur, the same material as their masks. The tallest of the two wore red, the other green. They both kept their hands hidden under by pressing their sleeves together. As we walked up, they both turned to us.
+
+Caprika paced over and gestured towards me, "This is Daniel, the warrior I selected. This is Althea, a physically imposing assassin."
+
+I raised a hand, "Yo." Althea waved at them.  Caprika pointed to the red-robed one, "This is Muro." She pointed to the green one, "This is Unoc."
+
+Muro nodded at me, "Ah, there you are. This is the warrior we've heard so much about."
+
+Unoc leaned towards me, "Was it magic that let you fell such a titanic beast?"
+
+I nodded, raising a hand, "Yeah. Gravity."
+
+Unoc and Muro nodded to each other in excess while affirming each other,
+
+"Undoubtedly so."
+
+"It's as we predicted."
+
+"Most certainly so."
+
+"But of course."
+
+It got old quick, so I pointed at them both, "Why are they here?"
+
+Caprika sighed, "They're trying to help me win the tournament this year to accrue favor with the royal family. Their concern is kind but unneeded."
+
+She glared at them both as she finished. They both leaned back, Unoc whispering, "You're always such a snappy sister."
+
+"It does your impression in courts no good."
+
+"You've no suitor because of it."
+
+"Even though you're so beautiful."
+
+"It is such a shame."
+
+They finished each other's sentences. I looked at them both,
+
+"You guys are twins?"
+
+They nodded. I gave Unoc and Muro a thumbs up, "Your sister's doing fine." I turned to my friends, "You guys ready to go?"
+
+Torix nodded, staring at this status, "Of course."
+
+Kessiah was reading a local booklet about Giess, "Yeah."
+
+They both lacked agency, but it didn't matter at the moment. Caprika put her clawed hands on her hips,
+
+"Then we'll be using one of our vehicles transport. Will that suit you all?"
+
+Althea nodded. I shrugged, "We usually run everywhere, so this is a step up. It's actually a lot fewer steps, but you get what I'm saying."
+
+Caprika looked up at me, "You...run everywhere?"
+
+I spread out my arms, "We all do. For the most part. Either that or I use my magic."
+
+Unoc leaned towards me, "It takes a mind of steel to transport like that."
+
+Muros continued, "You must have quite the willpower stat."
+
+"It was wise of our sister to choose you."
+
+"She's fortunate."
+
+"Do treat her well, won't you?"
+
+"The empire will reward you handsomely if you do."
+
+I raised my palms to them, "I will." I turned to the others, "Let's go kick some ass."
+
+We walked off, Caprika's brothers doting on her while she tried escaping them. Though annoying, their concern for their sister warmed me up to them for the most part. Once we got rid of them, we walked into a garage at the back of the building.
+
+Inside of it, numerous technicians and mechanics worked on vehicles of varying sizes. The largest car was covered in the skin of some marine animal. I frowned at it,
+
+"Uh, why in the fuck are you guys covering your vehicles with skin?"
+
+Caprika walked up to it, "It's the skin of an octopus native to Giess. It's skin shifts color and even texture rapidly, letting it escape detection while moving."
+
+She crossed her arms, "It's a gift from my brothers. They don't want me traveling without some measure of protection. I'm more than able to defend myself, but they don't seem to understand that."
+
+Althea walked, "They will one day."
+
+Caprika shook her head, "I doubt it, but thank you for the sentiment. This abomination will be what we're traveling in. Once at the regional city of Yildraza, our next series of fights will continue."
+
+Caprika opened the door to the vehicle, the sliding skin showing a sleek interior. Aged wood, silken fabrics, and embroidery gave the car a luxurious feel. Several rooms dotted the inside, sliding doors giving any occupants privacy. Two couches lined the opening room, a hologram projector letting anyone watch anything they wanted to.
+
+After living like a caveman for so long, it left me wincing at the excess. It contrasted sleeping on rock floors quite a bit. Caprika walked inside, opening a cooler full of fresh fruits, meats, and cheesy foods. She gestured to all of it,
+
+"Help yourself to anything while your here. The Empire takes care of our allies."
+
+I ducked as I entered, the ceiling too short for me. I frowned, "Damn. I'm used to eating liquid rations by pouring them over my face."
+
+Caprika gasped, "Truly? Liquid rations...for how long?"
+
+Althea cringed, "I didn't tell you? He did it for years."
+
+I rolled my eyes, sitting down on one of the cushions, "It wasn't that bad. Besides for that, what do you mean didn't tell her?"
+
+Althea shrugged, "Me and Caprika hung out a few times over the last week."
+
+Caprika shrugged, "I've had more free time since I stopped sitting in my throne room."
+
+Torix walked passed us towards one of the back rooms. He looked up from his status, "Excuse my curtness. I have a series of classes to teach before grading an innumerable number of papers."
+
+Kessiah stomped up the steps into the car-mansion,
+
+"What? You're still teaching?"
+
+Torix nodded, "But of course. A University of my own with eager students. It's been a dream of mine for a very, very long time. A few light years won't keep me from it, I assure you."
+
+He walked into one of the rooms and muttered, "Now attendance has dropped 7%. My punishments must become...stricter."
+
+Althea and I smiled at the old bag of bones. His dedication to his students was unquestionable. That's why he took me on as a disciple so long ago. Interrupting my thoughts, Kessiah jumped onto one of the couches beside Caprika. Kessiah put her arm around the albony,
+
+"You've got some soft ass fur."
+
+Caprika's posture straightened in her seat, "I wash and condition it every day. Many albony use our abundance of hair as an excuse to bathe less regularly. Not I."
+
+I pulled my helmet off my face, leaning back into my seat, "Really now?"
+
+She nodded, "Quite. I take pride in representing the Empire and what it signifies."
+
+Althea pulled out some juice from the cooler below us,
+
+"So you're a, er, patriot I guess?"
+
+Caprika hit the top her chest, "Always."
+
+The car wheeled into motion. I crossed my arms, "But the Empire's got problems, surely?"
+
+Caprika shrugged, "Of course they do. Every state or galactic power does, even Schema. What makes the Empire unique is the sense of order it brings to a world or solar system."
+
+Kessiah offered her a drink, "Want some?"
+
+Caprika lifted a hand, "Sure." She popped the top off before a strand of her hair caught the cap. She continued,
+
+"Most states are chaotic. They call themselves guilds, but they are no different in action from the Empire. We don't cower behind some different power system and propaganda as they do, however. We display what we are for all to see."
+
+I cupped my chin, "So, the power is more centralized?"
+
+She nodded, "There's also a class system. There is mobility allowed between of the five tiers, though you can't rise to a tier above your born station."
+
+I frowned, "Let me guess, the albony are at the top?"
+
+She shook a finger, "Not always. We are born in the upper echelon." She slopped her shoulders, her proud posture deflating,
+
+"Though it doesn't mean we may always remain there."
+
+Kessiah took a swig of her drink, "Oof, that sucks."
+
+Althea redirected the conversation, "You can move up though, right?"
+
+Caprika leaned back into the cushion, "Of course. In fact, any class may move up the tiering system. If they reach the upper echelon of their class, their children may be given the status of the tier above them. This increase in status comes with enhanced responsibilities, so it's the child's choice."
+
+I tilted my head back, "Ahhh, that does make it better. It still would take five generations for the lowest of the low to move up to royalty though, right?"
+
+Caprika nodded, "This is true. Such rises are usually fantasy, however. It's quite rare for a family to maintain excellence for five generations in a row."
+
+I remembered my own dad. She was right about that. Caprika continued,
+
+"It promotes a stable, orderly society. Crime on imperial planets is extremely low. Giess has an extremely high rate of crime near cities since it lacks any central, governing structure."
+
+Kessiah nodded, pointing her glass bottle at Caprika, "I actually read about that. The capital is run by a few criminal masterminds or some shit. It's because the espens were ruled over by the Gialgathens for the longest time."
+
+Kessiah finished her beverage, tossing it into a garbage bin, "Since Schema came along, the espens gained a lot of freedom. No one's taken over yet, so it's total chaos. Young, ambitious espens are fighting the old order."
+
+That was perfect for us. We could clear up one of the criminal masterminds in order to get rid of our bounties. If we played our cards right, we could create a lasting bond with Giess and the Empire at the same time.
+
+Caprika nodded at Kessiah, "You're informed."
+
+Kessiah locked her hands behind her head, leaning back, "Nope. I was just bored."
+
+Althea and I laughed before looked at Caprika, "Yeah, I get the order thing. I do. The thing is though, that kind of system stops new talent from rising to the top. Incompetent people can control decisions at that point. On my homeworld, the Roman Empire fell because of that...I think."
+
+Caprika waved away my concern, "Our political system places the most power in the most competent hands of each of the five tiers. We don't have to worry about that?"
+
+I raised an eyebrow, "What if someone in the lower tiers is better at ruling than someone from the upper tiers? It sounds like their talent gets wasted."
+
+Caprika shrugged, "Then so be it. For order."
+
+Althea leaned her elbows against her knees, "What tier would Daniel fit into?"
+
+Caprika grabbed the bottom of her mask. She crossed her legs, "Hmmm, likely within the bottom of the highest tier. He'd be right at home with other albony, and his overwhelming combat prowess would win him favor with the king."
+
+Althea pointed at me, "His family would've been the lowest status tier though."
+
+Caprika shook her head, "That's preposterous. I don't believe it."
+
+I shrugged, "My father lived on welfare and drank like there was no tomorrow. That's where I come from. I'd never be allowed past the bottom tier. I would be a part of that wasted talent I mentioned earlier."
+
+Caprika looked down, scratching the side of her head, "I...I suppose there are imperfections. It's not something I may fix, however."
+
+I raised a fist, "Not until I win this tournament that is."
+
+Caprika leaned on her balled up fist of claws, "I suppose I may be granted that kind of power if we can accomplish the tournament and more. It's wishful thinking for now. We'll need far more than combat prowess for me to be awarded my own city-state."
+
+Kessiah leaned up, clapping her hands, "Alright guys, enough political bullshit. Who wants to watch the tournament right now?" She leaned back in her seat, "I'm guessing everyone."
+
+Kessiah interacted with the hologram projector in the center of the room. After a few clicks, a three dimensional, high-resolution image popped into the center of the room. It showed two combatants fighting with ferocity. I leaned towards the model, stunned by the quality. I shook my head,
+
+"I can't even tell it's not real."
+
+Caprika leaned onto the armrest of her couch, "Once you've watched it enough, you'll see it. It is a rather recently made model, so quality is quite good."
+
+We ended up chatting about the fights and having a few drinks after that. Kessiah talked about how she'd learned a thing or two since Caprika's last fight. After a few verbal jousts, they ended up theorycrafting like two fangirls. It was refreshing to see Kessiah get passionate about something.
+
+After a few hours of unwinding, I looked out of a window behind me. Towering mountains surrounded us with hills off in the distance. Along the distant hills, a metal landscape encroached, pillars of iron rising into the sky. Silvers battled native Giessian creatures to a standstill there. The battle injected me with a growing sense of dread.
+
+Giess's fate was up to chance. On Earth, we had to fight the eldritch or else we would all die. The espens didn't have that problem, so they just let their wildlife take care of it. Whether the silvers, eldritch, or natural wildlife would win or not, the natives left it up to chance.
+
+To me, it was a risk I wouldn't be willing to take. Instead, I'd train up a group of soldiers before fighting the silvers back. As I dwelled on those thoughts, my senses sent out an alarm.
+
+My mythical skill, Hunter of Many, let me analyze my surroundings in detail. While sparse, the scent of espen blood filled into the car. My added perception allowed me to detect it. I stood up,
+
+"Caprika, tell the driver to stop the car."
+
+Kessiah bust out laughing, "Driver? You think people drive cars? Self-driving  happened, like, a thousand years ago."
+
+I waved her off, "Who cares. Point is to stop the car."
+
+Caprika didn't question me as she pressed her invisible status screen. The cars engines flared and stopped us. I jumped down the stairs, the doors sliding open just in time. Althea followed me, her eyes sharpening,
+
+"What is it? Should I make a rifle?"
+
+I landed on crags of rock, "Not just yet."
+
+She and I looked around, searching for some signs of a crash or paths. I looked towards the car, our bus looking like a pile of rocks. It blended in with the scenery making it difficult to see. I turned my gaze behind us, spotting a winding path that weaved between the mountains.
+
+I found no signs of a crash, but the smell of blood lingered. Wind crashed against my face, bringing a bit into the odor. The blood wasn't fresh either. It was the same kind of smell as Springfield after Yawm got a hold of it. In other words, the stench of corpses.
+
+I ran towards the stench, the hair along the back of my neck rising.  I passed a few large boulders, weaving up the side of the mountain. As I closed in, metal grazed metal, and the chewing of meat entered my ears. It wasn't looking too good.
+
+I reached the top of a rocky pit surrounded by large boulders. Althea materialized beside me. She grabbed her nose,
+
+"By Schema that smells like corpses. Bleck."
+
+I rolled my shoulders, preparing for the worst, "Be ready."
+
+I jumped down, the scent singing my nose at this point. I turned towards the back of the pit, finding a monstrosity. I let out a quick breath, wincing while I looked away. I bit my lip, shaking my head,
+
+"Mercy on your poor soul."

@@ -1,0 +1,211 @@
+---
+id: d6cf2140-9543-5ef8-b066-200f0bbcadd1
+page-type-slug: story-chapter-royal-road
+title: "Chapter 168 – Smokey's Evolution"
+slug: 0168-chapter-168-smokeys-evolution
+partOf: the-magpie-and-the-archmage-monster-evo-litrpg
+position: 168
+ownLength: 2291
+unit: words
+publishedAt: 2026-08-26
+link: "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3866225/chapter-168-smokeys-evolution"
+royalRoadId: "3866225"
+---
+
+Liora found Renir wiggling in the sand upside down, not too far from the shark matriarch's corpse. She pulled him free, inspecting him for damage, but thankfully didn't find a single scratch on him.
+
+"You actually did it! I'm proud of you, Liora. Soon not much will be able to stand up to you," Renir wiggled his tiny arms excitedly.
+
+"I didn't even do it. It was Smokey dropping the poison for us. We are still far away from the days when we can defeat anything and everything in our path."
+
+"But you're on the right track. Never thought sharks would be weak to… what was that noise you were making? It sounded like a song but I've never heard one so… violent? No, that's not the right word. Energetic? Strong? Powerful?"
+
+Liora's wings drooped. "Yeah… It's called rock music. It is very popular on Earth…"
+
+"You managed to remember a whole song from your old world? Or was there something missing?"
+
+"Holy smokes, Liora!" Cee came jumping up to her, Smokey following shortly after with his tongue lolling out happily. "I can't believe you were blasting Bon Jovi at full volume on that shark. The sound was so crisp, so perfect, it was better than any loudspeaker I've ever heard."
+
+Liora gave Renir a significant look. "No, as you see, I remember it quite well. Lucien… seems to have opened up the part of my brain which had those memories locked away."
+
+Cee and Renir both deflated upon hearing that.
+
+"Don't worry! Once I'm back in my body, I'll scramble his brain to the point that he'll believe himself to be a toddler. Nobody can mess with my magpie and get away with it!" Renir declared.
+
+"Yeah! Forcing somebody's memories out like that! We'll show him," Cee wiggled her front legs in the air menacingly. "But now, let's turn to more important things. I have something very exciting to announce."
+
+"What's that?" Liora asked, relieved at the change of subject.
+
+"Smokey has reached Level 20 after that single kill! It was instantaneous. He's ready to evolve!"
+
+The wyvern jumped up and down excitedly, although it was hard to say whether he actually understood what that meant or he simply was happy because Cee was happy. Liora was willing to bet on the latter.
+
+"That's great news! How is your Pet Bond skill?" Renir asked.
+
+"It reached Legend level during that fight," Cee said proudly.
+
+"Excellent, then it should be safe to evolve him."
+
+A loud wheezing noise came from somewhere behind the shark, and Liora feared that a new enemy might have appeared while they were distracted with their chatter. But it was soon clear that it was actually Caspian. The poor merman was running, well, dragging his feet through sand, trying to catch up to them.
+
+"D-Don't… just leave… me behind… like that!" He wheezed and gasped after each breath.
+
+"What else am I supposed to do? I can't carry you," Cee snapped.
+
+"You need to train more," Liora agreed.
+
+"I hate… physical labour…" Caspian muttered, finally having caught up to them.
+
+"Yes, that much is evident," Cee said, looking at his flimsy, overly thin limbs. This guy certainly needed to build some muscle.
+
+"Did you gain any experience from that kill?" Liora asked curiously.
+
+The merman nodded, still catching his breath. "I did… Three whole levels."
+
+"Wow! That's quite a bit. You didn't even damage the thing," Cee gasped.
+
+"Experience distribution is a bit different for support classes. They won't be getting as much experience from kills, but they will still gain in, even if they didn't inflict any damage. So long as they contributed to the fight, they will gain experience."
+
+"That's neat," Cee noted.
+
+"Okay, enough about all that. We have an important matter to attend," Liora announced.
+
+"What important matter?" Caspian asked.
+
+"Collecting glimmerstone of course. I'm sensing something very good within this shark. Cee, watch Renir for me. I get a feeling that this will get dirty."
+
+She flew up, assessing the corpse from above. It was huge. Getting all the glimmerstones out would be quite a chore. Liora shuddered to imagine the state of her feathers afterwards. But it was all for the sake of the shinies. She would endure.
+
+Liora then began to systematically dig out every glimmerstone she could find, guided by her Treasure Sense. It was telling her that at the center of the shark there was a lot of glimmerstones, or least that spot felt far more valuable than the rest.
+
+She was tempted to get that first, but she would have to dig through the flesh quite deeply, so she decided to get the easy to reach glimmerstones first. Although none of them were easy to get to.
+
+Liora has to cut through the shark skin first and then burrow well underneath it to get to the glimmerstones. It was an absolute mess. But at least while she was digging for glimmerstones, she also dragged some of the meat into her Inventory. It could always be used for eating later on.
+
+[Your skill <Inventory> has reached [Adept] level.]
+
+[You may now store even more items in your Inventory.]
+
+"That took forever to level up. I hope the space increases substantially. I feel like I'm going to run out soon with all this meat," Liora grumbled as she continued working.
+
+Desert shark juveniles soon began to appear at the corpse, eager to take a bite from their mother. Liora couldn't help but shake her head at their cannibalistic tendencies. Although, maybe this would let the shark matriarch rest easier in death, knowing that her children would grow stronger after feasting on her flesh.
+
+No, that's pretty fucked up.
+
+More and more of the hungry juveniles showed up, and even Smokey began to tear at the carcass, looking jealous that they should eat his kill.
+
+"Smokey, drop it! Some of that meat could be poisoned!" Cee chastised, opening the wyvern's jaw and prying the meat out of it before he could swallow.
+
+Oh, yeah… We likely won't be able to eat this… Oh well, maybe we can use it as bait for other monsters. Throw the meat at them and watch them die of poison. Easy.
+
+With more monsters coming for the carcass, Liora decided that it was time to wrap things up. She made her way to the center of the shark matriarch, to get the large bundle of glimmerstones that she sensed before.
+
+Getting to it was an absolutely pain in Liora's feathers. There were organs in the way, bones, soft tissues and arteries which covered Liora with blood once she cut them. But she persisted and eventually got to her prize.
+
+"Oh my god! I can't believe it," she cheered once she finally got to the treasure.
+
+"What?" Cee called from below.
+
+Liora pulled her prize into her Inventory and Featherflashed out of the shark corpse, emerging clean right next to it. Her feathers still felt a bit grimy, but at least she wasn't covered in gore. She would preen them later.
+
+"You guys, won't believe what I found," Liora announced.
+
+Cee, Caspian and Smokey had scuttled some distance away from the corpse, closer to the oasis. Nobody wanted to deal with the little sharks, not when they weren't even paying any attention to them.
+
+"What?" Cee asked curiously.
+
+"This!" Liora pulled her prize out of the Inventory. It was a glimmercore which she found at the very heart of the shark matriarch.
+
+"Oh! I should have known that such a powerful monster would have one. Let me read the description," Renir waddled over through the sand, placing his tiny hand on the sand yellow glimmercore.
+
+[Glimmercore of Desert Shark Matriarch – this condensed core contains the essence of this rare and powerful monster. By consuming it, one might gain the ability to control the desert sand and obtain the desert matriarch signature skill <Scorching Sands>.]
+
+"It contains a skill!" Liora and Cee exclaimed in unison.
+
+"Obtaining is not a guarantee," Caspian said sagely. "It is only a chance if the individual is compatible with it."
+
+"Caspian is right. I suspect if Liora were to consume the glimmercore as it is, then she would likely not obtain the skill. Maybe you would increase your affinity to earth magic in the process though," Renir exclaimed.
+
+"Well, this is utterly useless then. It doesn't even count towards my glimmerstone hoard. What a ripoff!" Liora complained.
+
+"Maybe I can try getting that skill," Cee said greedily.
+
+Renir swatted at her with his tiny hand. "You haven't even absorbed the glimmercore from before. If you try to consume a new glimmercore, you might literally explode."
+
+Cee backed away immediately. "I don't want to explode…"
+
+"So this is currently useless. I assume you don't want to learn offensive magic, Caspian," Liora asked, mostly out of politeness.
+
+The merman shook his head. "I don't want anything to do with sand."
+
+"Weren't you eager to get to the surface?" Cee scuttled closer and teased him.
+
+"Yes, but I wanted to experience green grass and bright flowers and see the many rivers and lakes of the inland. Not have sand crawling up my… nether regions," Caspian complained, straightening out his web pants.
+
+"Fair enough. I don't like sand in my feathers either. Let's just put the glimmercore away and get back to the oasis. I want to wash up properly," Liora announced.
+
+Others agreed, and soon they were back in the oasis. Caspian healed up any minor scratches Liora, Cee and Smokey still had left from the fight, and then they all relaxed, eating some non-poisoned shark meat from the juvenile sharks.
+
+"So what do you all think? Should we let Smokey evolve now?" Liora asked, after she had mostly eaten her fill.
+
+Everyone looked at the wyvern scarfing down the meat without a second thought. Cee looked excitedly at her pet.
+
+"I say, we evolve him right now! I want to fly on the wyvern's back!" Cee announced.
+
+"I don't see a reason to hold back. The wyvern getting stronger would only strengthen our party, and it would give us the ability to move around by flight," Caspian noted.
+
+"You just don't want to exercise," Liora noted, and the merman looked away nervously.
+
+"There is a risk involved," Renir said. "He might not listen to Cee once he is larger and stronger, but I think we have to take it. We'll have to travel through this dungeon all the way to the other exit. Every bit of strength we can gather is good."
+
+Everyone was in agreement.
+
+"Wait, how do I make him evolve?" Cee asked.
+
+"You should touch him and think of the evolution menu. As his master, you should be able to see it," Renir explained.
+
+Cee walked up to Smokey and touched his head. The wyvern purred with delight.
+
+"Oh, I see it!"
+
+"Tell us the options!" Liora asked excitedly.
+
+[Stormwing Wyvern — This small species of wyvern are masters of the skies. They can zip in air as quickly as a hummingbird, becoming an incredibly difficult target to hit. They have given up the ability to breathe fire, but they can produce powerful air attacks in that place.]
+
+"Small wyvern?" Liora questioned.
+
+"It wouldn't be ideal for him to remain small," Caspain said.
+
+"This is a powerful species, but I agree. Smokey will never be stealthy, he's too dumb for that. There's no reason for us to keep him small."
+
+"Next one then," Cee said, and continued.
+
+[Venomflame Wyvern – This species of wyvern has developed a special organ alongside their fire gland that allows them to produce poisonous smoke and fire. They aren't very large, what they lack in bulk they make up for in cunning.]
+
+Everyone silently shared a look. Then they looked at Smokey. His tongue was lolling out from the side of her mouth, just like that of an oversized, kind dog that the old lady at the end of the street had. You know, the one that always brought cookies and pies to the neighborhood children.
+
+"Uh… I don't mean to be rude, but this wyvernling… Has he displayed any signs of… intelligence?" Caspian asked cautiously.
+
+"I can't believe they actually gave him the smart evolution," Liora said.
+
+"I doubt it will remain smart with Smokey," Renir commented.
+
+"But putting that aside, wouldn't poisonous fire be really powerful?" Cee said enthusiastically.
+
+"Oh, it's certainly powerful. I suspect this evolution will give Smokey the ability to breathe poisonous smoke on its own. How well can you all endure poison?" Renir asked.
+
+Cee and Caspian shuddered. They likely didn't have a high level in poison resistance. Liora, frankly, didn't want to test hers either. Especially if it could be set on fire.
+
+"Let's look at the last option," she suggested.
+
+Others nodded.
+
+[Ironscale Wyvern – This wyvern species cares only about one thing—defense. Strong defense is the best offense in their books, as they have developed large, powerful bodies, incredibly tough scales and special protective membrane on the wings which is far tougher than the one of their wyvern cousins.]
+
+"That's it! A tank. It is exactly what our party needs. A powerful tank that can take the hits. Smokey is perfect for the job since… you know…" Liora said.
+
+She didn't have to finish the sentence. You didn't need high intelligence to be the punching bag for the group. Besides, Smokey always seemed to be getting into trouble. Bulking him up could only be a good thing.
+
+"It's decided!" Cee announced. "We'll be guarding you while you evolve, Smokey. Rest well."
+
+The wyvern looked sleepily at everyone around him, curled up and fell asleep. All they had to do now was await the transformation to finish.

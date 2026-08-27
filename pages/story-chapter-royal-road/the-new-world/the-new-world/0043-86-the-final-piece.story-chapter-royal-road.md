@@ -1,0 +1,123 @@
+---
+id: 27715724-c46b-5940-b6bf-b52724713121
+page-type-slug: story-chapter-royal-road
+title: "86 The Final Piece"
+slug: 0043-86-the-final-piece
+partOf: the-new-world
+position: 43
+ownLength: 2119
+unit: words
+ownProgress: 2119
+publishedAt: 2017-12-09
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/179187/86-the-final-piece"
+royalRoadId: "179187"
+markedReadAt: "2026-06-29T21:22:15.763Z"
+---
+
+Torix pursed his lips, “How exactly does the book allow mastery of those runes?”
+
+I lowered my hand, the grimoire slapping against my side, “There’s a bunch of reasons. For starters, the eldritch runes are smaller and more intricate then the magic runes. Writing them on the page lets me create denser inscriptions.”
+
+Torix let out a hand towards me, so I let him inspect the grimoire as he said,
+
+“That isn’t enough to give you some breakthrough in the subject I fear.”
+
+I weighed my hands back and forth, “That isn’t the only thing this book lets me do. Writing on the book is less awkward than writing on myself. The booklet let’s me save certain inscriptions too. If I need to alter the runes for burrowing, then I can make that happen on this booklet. I can specialize my runes.”
+
+I raised one hand, continuing, “I’ll be able to revise models and mass produce them. I can hook up the entire legion with new rifles empowered by enchantments.”
+
+Torix’s eyes opened wide, “You could mass produce other basic enchantments for rings and the like as well. With the extra Eltari, our fighting forces would no longer be struggling with quarantine. We’ll be able to fight against the infected areas from different fronts.”
+
+I nodded, taking the grimoire as he finished inspecting it. I opened a page, carving out a simple rune. On the other page, I carved out another simple rune. I channeled mana into one page, and the rune floated upwards, glowing red. I did the same with the other page, and the runes floated beside each other. They became one incantation.
+
+I clapped the grimoire shut, “See that? I can make inscriptions and fuse them. I could make a whole alphabet of different phrases then mix and match them for different effects. No matter what the situation was, I’d be able to handle it.”
+
+Torix glanced at the ritual room he had created, “You could replicate this entire structure within the confines of those few pages.” He leaned towards the thick tome in my hands, “There are no limits here.”
+
+I nodded my head. I turned towards the outside of the room, “I’m going to go make the runes for the steel legion right now. Getting them a bit more oomph should be our priority. After that, the Eltari’s armor will hopefully be finished. I’ll make them a few enchantments as well.”
+
+Torix walked back and forth, gesturing with his hands, “I’ll organize the legion for setting up the process. You’ll be able to go through the entire upgrade within a few days. Once that’s over with, we’ll do the same with the Eltari. With the added firepower, overwhelming the quarantine zone will turn into a reality.”
+
+He looked up to me, “By the time Yawm awakens, he’ll have no stronghold and no eldritch to save him. We’ll crush him with our raw numbers. Hah, hah! As a necromancer, I relish in the idea of it. We’ll smother him like a bird with broken wings, trapped on an anthill.”
+
+I nodded my head, “Fuck, why stop there? I’ll give enchantments to some of your summons. I’ll become an enchantment factory all by myself.”
+
+He and I walked out of his lair, discussing the details of our new plans with excitement. The more we discussed it, the better the plan seemed, like a sudden godsend against Yawm. Up till then, we didn’t have some concrete plan to take him down. We were running on faith. All of a sudden, we didn’t have faith anymore. We had a plan.
+
+With that plan as our guide, we set out on doing it. Over the next week, Kessiah trained the new Eltari by teaching them simple combat skills. Torix organized the legion for my runic additions. Althea scouted the enemy, discovering where each of the four followers were and what they were doing. I carved out a dozen complex runic additions, mimicking the additions I made to Althea’s rifle.
+
+After that, the runic enhancement started. A single soldier would walk up, and I would channel mana into my grimoire. Then I set up all twelve of the enhancements, placing them onto the appropriate gear. I made the armor stronger. I made the rifles fire farther and faster. I made the jetpacks on their backs reduce their effect on gravity.
+
+On their dog tags I gave them attribute enhancements in endurance and constitution. Each steel legion trooper carried a steel ring as a sign of their commitment to the legion. On those rings, I gave them enhancements for strength and intelligence. On the Kevlar beneath their armor, I gave healing enhancements and made their armor lighter.
+
+For three days, I worked night and day doing this. I needed no sleep. I needed no rest. I was a machine, creating the enchantments like clockwork. I handled a hundred an hour, pushing through the mental exhaustion with my iron clad will. Once I finished with the legion, the Eltari were next.
+
+They were given steel rings enchanted with speed and silence. They made less noise during flight, enhancing their abilities for guerilla warfare. Upon their newly made dog tags, I reduced their mana costs and gave them access to a few simple spells. It allowed them to learn either a dominion, augmentation, or origin spell, depending on their affinity.
+
+They progressed from untrained villagers into a fighting force within a week. Kessiah whipped them into shape, giving them a basic breakdown on fighting and tactics with Schema. She may lack my technical finesse with fist fighting, but she could teach the basics. Within two weeks of the Eltari arriving, we gained nearly two thousand extra troops while upgrading our own.
+
+My unique skill that helped with crafting, Thaumaturge, raised over sixty points during this time. As it raised, the effects of the enchanted gear increased as well. Knowing this would happen, Torix organized the enchantments in order of importance. The Eltari went last, getting my strongest enchantments. Basic foot soldiers guarding the quarantine zone went first. This wasted none of the needed stats.
+
+Over the next week after that, Torix and I organized strike teams for fighting against the infested areas. The Eltari gained levels at a rapid pace, turning from liabilities to assets. The legion gained levels as well, turning them from useless grunts into reasonable fighters.
+
+During this time, I gained the skill Tactics, raising it over forty levels. My skill Strategy raised as well, letting me organize the troops. I couldn’t match Torix’s prowess in either area, but I acted as an efficient commander who fought with the others on the ground. I helped protect weaker teams and assisted them in leveling faster.
+
+It didn’t take long before we began punching holes in the quarantine zone. As the speed of our assaults ramped up, I no longer guarded the weaker squadrons. The average level in the legion raised from 213 up to 334. Combine that with the runic enhancements, and we turned the entire force from zero to hero.
+
+Once their operations fully functioned on their own with few casualties, I was finally free. I was going to clear rifts. It wouldn’t be every other week either. With all the information Althea and the Eltari gained, organizing the missions simplified for Torix. He no longer relied only on piecing together patches of information from his minions. He had solid, reliable data from a damn near invisible spy.
+
+Avoiding the followers was an easy affair now. After I helped with all the logistics work, I looked forward to some old-fashioned violence. With a waning patience, time closed in on the date. When the day came, a cloudless, sunny sky showed a broad, blue sky. It was a day more at home during Summer. If it wasn’t for a biting cold and leafless trees, I couldn’t even tell the difference in seasons.
+
+The cold and the wind brushed against my armor as I walked towards Torix. He was going to brief me on what was to come for the day. Althea already spied near the rift along with the Eltari, giving us an idea of who was coming. All the followers were far and away from the rift. They only had a few named ones guarding it. This let me act with impunity.
+
+Enjoying the prospect of letting loose, a glowing grin traced my lips as I walked into Torix’s lair. From the lair. Torix’s beetles built an underground network of tunnels. They had spread them all throughout Springfield. Whenever Yawm finally came out, his minions would be caught in these tunnels. The legion would use them as trenches and cover. The framework for stopping him was coming together.
+
+The source of that framework was this unassuming, suburban building. I stepped inside Torix’s lair, papers spread all throughout his room. Numbers, formulas, runes, the papers on the walls carried all that and more.
+
+Red rope connected different papers and images of the followers, detailing their weaknesses. Organized lists of their minions followed near them, along with their alliances. Torix left no stone unturned in his pursuit of killing them. The followers weren’t quite as thorough.
+
+We were lucky in that regard. From Althea’s spying, we discovered that most of Yawm’s minions underestimated us. Earth being a backwater world was a viewpoint shared by more than just the FearFighters and the Enigmatta. As a result, the followers’ response was too little and too late. The rapid cycling of our troops meant they couldn’t keep up, though they didn’t make much of an effort too.
+
+The source of that rapid cycling, Torix, hunched over a holographic desk. A detailed, blue, and three-dimensional map was shifting as it was fueled by information. As Torix’s obelisk received data, the positions of the followers updated along with red lines tracking their trajectory. As they changed positions, Torix updated the mission feeds of troops. It meant the followers were running in circles instead of slaughtering them.
+
+Juggling all this, Torix fiddled with his status screen while glancing at the 3-D model. In this environment, his abilities shined. His charisma assisted with keeping morale high and ensuring the soldiers obeyed him. His intelligence and skills let him think up plans and execute them flawlessly. His willpower enabled him to continue this, and him being a lich meant he never needed food or rest.
+
+If anything, he looked even more excited than the first day he started. He glanced up to me with a grin,
+
+“Ah, Daniel, right on time. Did you read the debriefing I sent you?”
+
+I nodded, “Yup. I’ve got about two hours to finish this rift up. After that, I’ll need to update a few squadrons with some speed enchantments.”
+
+Torix glanced back the map, then at his status. He adjusted the message, sending it before turning to me, “What is your Thaumaturge skill at now?”
+
+“Seventy-four.”
+
+He raised an eyebrow, “Did you hit a breakthrough earlier?”
+
+I shook my head, “Nope. It’s just been a busy week.”
+
+Torix gripped his hand into a fist in front of him, “It’s been exciting. It’s about to get even more exciting after we clear out the last two high danger rifts remaining. We’ll be killing one of the followers, Elijah. Oh how I look forward to playing with his corpse.”
+
+I clanked my fists together, “I look forward to making him into one.”
+
+Torix nodded, sending me a message. My interface updated with the route I would follow to reach the rift. Torix raised a finger towards the air, “You’ve got all that you need now except one thing.”
+
+I raised an eyebrow, “What else is there?”
+
+“You need one other person to come with you. This person hasn’t been as busy as he should have been either.”
+
+I nodded, reaching out with Tactile Cognition. Beneath us, someone hid inside the floorboards. Only one person was dumb enough to do something like that, so I frowned. That frowned devolved into a grimace, “Why do I have to take him along?”
+
+Torix squinted his eyes, “Because I can’t handle babysitting him anymore.”
+
+Hod’s head burst out of the floorboards, “Hod surprise Harbinger. Hod coming to help clear rift.”
+
+Hod raised his arms as I sighed. I dragged my hands across my face, “Are you serious?”
+
+Torix rubbed his hands together, “Oh, I’m dead serious.” He cackled. “Do enjoy the company.”
+
+I turned to Hod, grimacing as he pulled himself out of the floor. Once up, Hod struck a pose like a lame, outdated disco dancer,
+
+“Hod sorry if Hod steal all lady friends during mission. Hod can't help Hod's self.”
+
+It was going to be a long rift.

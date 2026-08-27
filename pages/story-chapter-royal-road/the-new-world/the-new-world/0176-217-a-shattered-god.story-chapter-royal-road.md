@@ -1,0 +1,467 @@
+---
+id: 70908c78-b8fd-5847-97dc-dbab82ac75a1
+page-type-slug: story-chapter-royal-road
+title: "217 A Shattered God"
+slug: 0176-217-a-shattered-god
+partOf: the-new-world
+position: 176
+ownLength: 6311
+unit: words
+ownProgress: 6311
+publishedAt: 2019-07-15
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/382300/217-a-shattered-god"
+royalRoadId: "382300"
+markedReadAt: "2026-06-29T21:26:54.840Z"
+---
+
+As I stared, I analyzed him. He did not stop me from viewing his description. After seeing it, I understood why. He had no reason to hide anything to us.
+
+Lehesion, the Shattered God(lvl 32,092 | Species: Gialgathen | Status: Exiled | Bounty: S) - Lehesion is the mythical creature that is said to control all the life of Giess. He was worshipped as the most potent gialgathen to ever exist, his reign absolute. Once viewed in person, these reports and legends are obviously verified. He far exceeds expectations in most regards.
+
+His mana is endless. His size grants him tremendous vitality, needing no food, sleep, nor air to breath. He is immune to many kinds of damage, and his skin is laced with a crystalized mana that disperses most types of damage. Even more so, his mana shield is one of the strongest ever generated, rivaling spatial fortresses in power.
+
+These characteristics are incredible in their own right, but his offensive potential is unknown. Few have seen his attacks in person, and even fewer have lived after to tell the tale. All that is spoken of is hymned in legends that tell tall tales of his deeds.
+
+The sky darkening before blinding lights bathe the battlefield in destruction, enemies metamorphosing into hideous creatures, even enemy's minds turning to slush, Lehesion has done all this and more. The full extent of his abilities are hard to grasp but know this. You are not ready for such a foe. A team of Overseers aligned with a high-grade guild would be required to compete against this monstrosity.
+
+My stomach sank as Helios raised a hand, his gauntlets coalescing the blue tinted air near him. In a wave of devastation, he unleashed a wave of pure energy. The tide shifted into azure ice, spines of the magic racing towards Lehesion. The golden beast rolled his eyes,
+
+"This again? Do you have no other tricks, or are you actually this limited?"
+
+The ice crashed into a golden sphere of energy around Lehesion. The beast raised a wing, flaming swords forming under the shadow it cast. The swords shot out in every direction as Helios roared out while casting more magic.
+
+From all around, portals to the void appeared. They swallowed the swords that would've landed on allies. Helios closed his hand, the warps condensing into finite points. Helios threw his fist at Lehesion, unleashing blue lightning from the portals into Lehesion's shield.
+
+It absorbed the clash with ease, an explosive boom radiating outwards. Helios howled in frustration, "I killed all that is near us. What well do you still draw this mana from?"
+
+Lehesion scoffed, "There is no 'well' that I draw from, insect. I am without borders nor restrictions. Mortals like you must know your limits, or your limits will let themselves be known by your failures."
+
+The Overseer raised a palm, the lights on his suit glowing. An invisible wave of force clashed against Lehesion's forcefield, the golden aura sinking in before smoothing itself out with a ripple. Lehesion turned to us as the Overseer stated,
+
+"The creature can resist antimatter waves...I don't understand."
+
+Lehesion let out a laugh, "You are no unstoppable force, but I am an immovable object. Crush under my heel."
+
+He lifted a paw and slammed it down. A wave of gravity smashed above us as if we were holding up another planet. Before it overwhelmed everyone, I lifted my hands, creating a gravity well opposite to Lehesion's pull. I held firm, keeping the force from destroying us. Lehesion's eyes widened as he laughed.
+
+"So the little ones defy me? We shall see if your defiance holds under strain."
+
+He strengthened the crushing aura, but I resisted it without a struggle. As the resistance mounted, I dipped into my mana regen. More and more, Lehesion tested my limits. On and on, I exceeded his expectations and prevented us from falling.
+
+At the same time, I lifted out a hand and attempted condensing a singularity inside his chest. The magic failed, so I summoned the same force within the golden aura. The gravitational implosion tore apart a portion of Lehesion's crystalized mana armor. As chips of pure mana rained down, Lehesion's expression shifted into a snarl,
+
+"You've angered me, worm."
+
+His armor regenerated as he ceased his gravitational magic. The Overseer lifted his hand to fire at Lehesion once more. I smacked his hand down before clapping my hands. The metallic ring silenced the field as I boomed,
+
+"We don't have to fight here."
+
+Lehesion raised an eyebrow as a grin grew over his face, "Oh, the wisest of you all decided to bow and ask for forgiveness. How fitting for a Harbinger." Lehesion let out a long laugh.
+
+"Perhaps I am the cataclysm you omen?"
+
+I didn't understand how he knew me but considering his level, it shouldn't be that much of a surprise. I shook my head,
+
+"Bowing might be taking it a bit too far, buddy. All I'm saying is we don't have to kill each other. Why are you attacking Rivaria of all places anyway? I thought you founded the city or something like that."
+
+Lehesion turned to the ruins of rivaria, the frozen bodies of gialgathens acting as statues. Some would never melt, and like ghosts, they'd haunt the city until they were destroyed. Lehesion tilted his head,
+
+"I...I do not know..."
+
+I spread out my hands, "And Sheom as well. She was my friend and your mentor, correct? Why would you kill her as well?"
+
+Lehesion shivered as he listened, and his eyes grew sad. I continued,
+
+"Well then, this seems pretty simple. How about you quit attacking the city, and we talk, eh?"
+
+Lehesion stood still as a statue, not breathing or reacting. Some kind of mental war took place before he twitched his head. He silenced his conscious, snorting out of his nostrils. He crushed some sort of dissonance within himself as he glared at me,
+
+"You...you are the one that won my honoring, didn't you?"
+
+I crossed my arms, "You mean the tournament? Yeah."
+
+Lehesion glanced down at his claws as if blood covered them, yet none was there.
+
+"These...heathens have fallen so low. I am here to cleanse them and you from this world." He gained confidence as he spoke, "From my world."
+
+I waved my arms, "Yeah, see, why do we need to be cleansed though? We could leave if you like. Boom, planet cleansed."
+
+Lehesion blinked, entirely at a loss for words. He shook his head before roaring out, "You will not dissuade me with mere words. I am no poet. I am a warrior. Giess belongs to we gialgathens, yet you espens attempt to usurp us. You attempt to..."
+
+Helios put his arm back in socket and shouted,
+
+"He's gone mad. The imbecile cannot reason at even a basic level. It's rather disappointing considering his otherworldy reputation."
+
+Lehesion turned to him, glaring in disdain, "And so one without reason will be the one feeding your corpse to worms, little cub."
+
+Helios let out a low growl, "Only one person can call me a cub, and he doesn't rule one world."
+
+Helios raised a hand, portals forming around him,
+
+"He rules many."
+
+The Overseer raised his arm, "The tech core verified it. He's being controlled telepathically. We've attempted disrupting the mana flows, but some form of an enclosed neural network is being used. Lehesion is too unstable, and must be eliminated."
+
+I let out a sigh, "I don't understand how they can control him. Lehesion's mind must be powerful."
+
+The Overseer charged mana into his palm, "It does not matter how. It only matters that this is our reality, and it must be dealt with."
+
+I frowned, "Then so be it." I turned to Althea, "I'll try to distract him. Save your strength for after we destroy his defenses."
+
+She gave me a nod before stepping away from our plane and into another like a ghost. I turned to the Breakers in armor, "I don't know if any of you are close combat specialists. If so, stay away from me as I'm fighting."
+
+One of the breakers reached out a hand, "Is there a reason for that?"
+
+I waved around me, "I have an aura that does quite a bit of damage. I don't want to injure you guys."
+
+The Breaker nodded, "Understood. Let's head out."
+
+Lehesion readied another volley of fire swords. Before he released his attack, I reached out a hand and unleashed another stored singularity within his forcefield. Another glowing rain of mana droplets fell, and the behemoth stumbled backward.
+
+Cracks ebbed down the mountainside at his thunderous footsteps while the fire swords scattered into the skies above. The swords hummed, resonating with one another. They detonated, creating a cascading chain reaction of red fire. There detonations engulfing all my sight in brilliant plumes of destruction.
+
+I shook off my awe before dashing forward, my armor glowing yellow with heat as I neared Lehesion. The Breakers followed behind several preparing attacks of there own. Lehesion grinned down at us, his teeth menacing. He swiped a paw and cast a wind incantation. Green sprites ran into us with feathered wings and trails of light behind them.
+
+I held firm with a gravitational anchor, but the others were swept away with the wind. Lehesion rolled his eyes while stomping a massive paw. He grounded the Breakers with a gravity well of his own. They crushed into the icy mountain below, pinned down but still alive.
+
+It didn't matter. I molded Event Horizon over Lehesion as he tilted his head,
+
+"You can affect me from within my domain...Interesting. You mustn't use some trick with the cipher for all your strength as the cub does. It is your own might."
+
+The Overseer created ripples in this golden aura the entire time. Despite the unreal output of energy, the golden energy rippled yet never yielded. Helios waved one arm at the same time, generating a pillar of ice rivaling the size of a small mountain. It rammed into the side of Lehesion's forcefield before shattering in a dazzling rain of purple shards. Helios did the same motion with his other hand, and another mountain-sized pillar appeared. It snapped without effect on the aura.
+
+Before the ice fell, Helios clapped his hands together, the thousands of shards flying towards Lehesion. With another flap of the golden beast's wings, a torrent of wind blew back the incoming ice storm. Helios swung an arm overhead, turning the shards of ice into soft snow. The world ruler generated a dark blizzard around the shattered god.
+
+A dark aura surrounded Lehesion as sparks of golden lightning rippled across the terrain. Like a stormy ocean of liquid gold, Lehesion's protective field billowed without end. Lehesion stared down and let out a long laugh,
+
+"You are nothing."
+
+The Overseer launched waves of antimatter at him, the assaults fizzling into nothing against Lehesion's shield. My singularity's crossed the border, but the mana armor soaked the damage with ease. Every time I landed one near him or even within him, his crystallized armor dispersed the impact, leaving no trace of the attack.
+
+At the same time, Krog and a dozen of our gialgathens flew over Lehesion, breathing elemental fires. They created brilliant swirls of shaded rainbow flame. Acid, poison, ice, death, and decay, all elements intertwined in a violent yet beautiful display of their might.
+
+The Sentinels sent out dimensional rips with their spears during the carnage, creating splits in spacetime. These catastrophic shockwaves pounded against the forcefield, letting out enormous booms that echoed into the countryside.
+
+Even then, it was not enough.
+
+Lehesion drew from endless reserves of mana, his techniques unbeatable. He soaked all of our attacks, glancing down at us as if we were insects. As the realization of our limitations came to the surface, Lehesion began to laugh. It was a haunting laugh, the kind that crushed your spirit and sent chills down your spine.
+
+It crushed our army's morale. Lehesion stood at the epicenter of attacks that could quake planets, yet he did not so much as let out a whimper. He simply glared down at our futility with a disdain fitting for his position. As several breakers lost their reserves of mana, our assault lessened. The gialgathens lost their fire breath and relied on physical attacks. Any contact with the forcefield sent out devastating recoil, ripping them back as if struck by lightning.
+
+After minutes of our blitz, Lehesion stared down at his claws, ignoring us entirely,
+
+"Is this the extent of your abilities?"
+
+Helios grimaced before turning to the Overseer. As the Overseer charged another attack, Helios put up a hand. A portal appeared in front of the Overseer's hand and beside Lehesion's side. The Overseer's hand reached through, letting him place his hand on the mana armor. With contact made, the Overseer's invisible wave punched a hole through Lehesion's chest.
+
+There was no blood nor guts from the impalement. It was clean as if Lehesion always had a missing portion of his torso. Lehesion tilted his head in surprise,
+
+"An actual wound...hm, I'm surprised."
+
+He frowned,
+
+"But now you incite my anger. Feel the wrath of a god."
+
+The giant raised his wings, clouds shifting with each of his movements. The skies darkened as golden energy traveled towards the sun overhead. The aura coated it in its entirety before turning dark as a moonless night. Above us, an eclipse formed over the sun as Lehesions puffed out his chest. The golden beast roared,
+
+"Let the stars bathe this world in their light."
+
+As he finished his words, lights formed over the eclipse as if a piece of the starry sky was blocking the sun. It was surreal as the stars expanded. Seconds later, huge balls of light fell from the sky. Trailing like comets, they slammed into the earth in all directions for as far as the eye could see. The entire landscape erupted into chaos.
+
+One light collided with rivaria below, wiping it from the map with a tectonic explosion. The shockwave sent me tumbling through the air, the sheer destructive might overwhelming us.
+
+Helios attempted forming portals to catch them as he did before. They were too large and too many, so Helios stepped through a portal to evade the calamity. The Sentinals swung their spears, using slices in spacetime to absorb any incoming shockwaves. Likewise, the Overseer mimicked their tactics, his body impervious to the resulting carnage around us.
+
+The others were not so lucky.
+
+Three gialgathens disintegrated in a direct impact from one of the novas. Two more were left broken and bent beneath us, taken out of the fight entirely. One of the two Speakers fell after a shard of debris cleaved his skull in half. Two Breakers were left with missing limbs.
+
+One attack left our forces in shambles.
+
+Lehesion laughed before staring down at us, "In my wake, there is only ruin."
+
+The hole in his chest sealed up as the wires bundled around the wound. Mana siphoned into it these cords, regenerating him utterly. We were going to all die here if this continued. We needed to come up with a plan and fast. I turned to Helios,
+
+"Create a portal for me."
+
+Helios lifted a hand, creating a gateway into Lehesion's sphere of control. I jumped through the portal, coming face to face with the Leviathan. The aura strangled me, leaving me unable to breathe. It was an oppressive amount of mana to be sure.
+
+At the same time, I sustained through its influence. I was used to my own torrents of mana, giving me plenty of experience dealing with it. To move, I created a counterflow of mana, letting my own aura grow outward. Without the golden energy restricting me, I turned to the monster.
+
+I glared up at the beast, his eye the size of my body and his talons larger than my chest. Molding Event Horizon over him, I fired myself towards him like a tank round.
+
+Lehesion rolled his eyes, "And the ant tries to bite m-"
+
+I collided with him, dropkicking him with all my might. I created gravitational flows to enhance my mass and speed. I shifted telekinetic points to reduce the surface area of my blow, turning it into a tiny bullet of impact. I bounced backward, my body aching at the forces rippling through me, but my bones didn't break.
+
+Lehesion stumbled backward, his large frame taking up my entire field of view. As landslides occurred beneath him, he gasped at his broken ribs,
+
+"The little ant has a sting, doesn't he? Let's see if he has a backbone as well."
+
+Lehesion whipped his tail through the air, crystalized mana forming a spiky club at the tip. As it slammed into me, I used a tremendous gravity well to anchor me in place. Using it to ground me, I whipped my right arm with everything I had. The mana exploded over my body with a kinetic conversion. The tail itself was massive and colossal.
+
+Somehow, I held.
+
+I parried his strike as his eyes widened,
+
+"You are no longer an ant. You are a beetle now."
+
+Lehesion's eyes narrowed, "And like all beetles that bother me, you will be stomped under my heel."
+
+His golden aura coalesced over his tail, his protection ceasing for a split second. The energy created waves in our dimension as Lehesion roared out,
+
+"Begone."
+
+The tail made contact, and all went blank. My eyes opened within a crater on the mountain. My body was mess, cracked and broken. I molded strands of my armor, forming splints that jarred my bones in place. As the cracks mended, I pulled myself up, rock melting beside me. As I stumbled up, vibrant energy filled my body, the same as after crashing into the earth or being attacked by Yawm. This was my chance.
+
+I leaped up, a thousand feet of molten rock surrounding me. As I flew upwards, I stared down, finding new scenery.
+
+Rivaria was gone.
+
+It was as if a meteorite slammed into the ground where I landed. I turned back to the battle, finding Lehesion whipping his tail about. His golden aura covered him once more, several holes in his body healing. He sheered through two gialgathens before swinging his tail at Helios.
+
+The two Sentinels guarded him, using their spears dimensional tears to zone any contact. Lehesion ignored them once, attempting to outmuscle the Sentinel's defenses. Lehesion's tail fell into the void before the Sentinel on Helios's right closed the gateway.
+
+Lopping off the limb, Lehesion growled in disgust,
+
+"You have parlor tricks, do you? So do I."
+
+Lehesion's tail regenerated, wires forming a framework that mana condensed into flesh over. Lehesion generated a portal within his golden domain, the same as the Overseer's kind. His tail whipped from behind Helios, but Helios turned in time. He created a counter portal that appeared beside Lehesion's head. The beast's tail smashed his own face with his own tail.
+
+It lopped off his jaw, steel cables keeping his maw hanging from his head. Malevolent strands expanded from his body, pulling it back in place with violent jerk. As it did, the giant to lost himself for a moment. His surrounding aura shivered. All the forces at our disposal unloaded, pelting him with an armada's worth of magic, explosives, and fiery breaths.
+
+It did not touch him.
+
+Lehesion's jaw reformed, his Hybridized body owning a tremendous vitality. The golden beast grimaced and showed his teeth,
+
+"And so, you little ones believe you're clever then?"
+
+I reached beside Helios, standing beside the icy lord. He turned to me, his one exposed eye opening wide as he gasped
+
+"How are you still alive?"
+
+I patted his back, "I'm tough. Real tough." I pointed up at the sky, "When I come down, warp me into Lehesion's aura."
+
+Helios's eyes narrowed, "Is this suicide?" Helios sighed, "Our uncle will be very disappointed, but I understand." Helios put a hand on my shoulder, "Your sacrifice will be valiant-"
+
+I slapped his hand, "What? Hell no. I'm kicking that monster's ass and coming out fine afterward. Are you ready?"
+
+Helios raised his eyebrow, "Oh...Well then, ahem, I am."
+
+I shot up into the sky as Lehesion let out a wave of his atomic breath at Helios. The Sentinels blocked most of the nuclear stream with there spatial slices. The surrounding heat was cooled by the ice magic of Helios. As I rose into the distance, Chrona came into the fray. Her temporal dilation didn't effect Lehesion, the old monster grinning,
+
+"Petty techniques will not affect me. I am above time and above death."
+
+The shiny frog dragon sure had a bunch of one-liners. I wondered if he just sat in front of a mirror and thought them all up. At the same time, I shot myself way up into the stratosphere, reaching into the edges of space. After minutes of rising high, I weighed myself down.
+
+A living meteor, I shot down towards the golden spot under me. Heat built in my skin and bones, a violet radiance washing over me. As I neared the fight, Helios generated dozens of portals at once. He allowed the entire group to assault Lehesion directly, the Sentinels defending him as he did so. The dragon out regenerated their attacks, using his tail whips to suppress any that came close.
+
+Lehesion began casting his starfall magic once more, another volley more than enough to wipe us out. One of the Sentinels leaped into the air, launching himself over Lehesion. With a long swipe of his spear, he created a massive rip in spacetime. Lehesion's golden aura dissipated into the void before the golden beast glared at the Sentinel,
+
+"And that is your last deed here on this plane."
+
+With a thunderous smash, Lehesion smashed his tail onto one of the defenders. The kinetic impact shattered the light blue armor and crushed him into the ground behind the beast. Blood splattered all around its body as the Sentinel twitched like a headless snake over fire. Lehesion lifted his tail and unleashed a finishing strike at his body, crumbling it under the impact.
+
+Bones, plate mail, and circuitry splattered in every direction. The Sentinel's spear flopped towards the mountainside as shrapnel launched in every direction. A chip of blue armor embedded itself in Helio's shoulder, making his right arm useless. Lehesion roared,
+
+"You will all perish here, reduced to powder and ash and nothing."
+
+Helios heaved for breath, exhaustion setting in. Even with infinite mana at his disposal, he still needed mental energy to cast it. Lehesion glared at the Novas, rearing his tail back for another swing. Before it landed, the remaining Sentinel stepped forward. His armor charged as the tail whipped towards him. In a display of pure skill, the Sentinel parried the strike.
+
+It came at a cost.
+
+The Sentinel's arms shattered as his armor crumpled. The spear cracked yet held. The ice pillar beneath Helios and the Sentinel fractured as the other ice columns off in the distance took damage as well. The Sentinel fell to his knees before collapsing. As the others rained down hellfire onto Lehesion, the behemoth raised his tail,
+
+"This is your end, little kitten."
+
+Helios raised his left hand, gasping for breath. A portal formed above Lehesion as I reached him in a blaze of glory. Lehesion looked up as I collided between his wings and against his spine.
+
+All went white as the mountains trembled. The skies ran from the impact, forced by the wind. The others were whipped apart by the decimation, the calamity utter and complete. As the collision settled, my eyes opened once more, finding myself surrounded by meat chunks and misty blood vapor.
+
+Lehesion was a pile of glowing mush and red mist. He was chunk soup as I stood from a red hot crater formed atop Rivaria. The mountain looked like a volcano, a pool of magma surrounding us. More concerning than the cataclysm I wrought was the golden forcefield surrounding me and the corpse.
+
+Lehesion was still alive.
+
+Untold amounts of mana siphoned into his liquid body, wires forming the framework of his bones. He regenerated at a rapid pace, his tenacity exceeding my own. I turned to the others, finding them stunned, injured, and dead tired. It wouldn't take three minutes before Lehesion was back to full strength either.
+
+I turned to the mush pile, creating a singularity at its center as I thundered,
+
+"Kill it."
+
+The mush fell into the gravitational implosion before erupting with the magma. After the shockwave rippled through the remaining golden aura, I drove my hands into the bloody pulp, drilling my armor through Lehesion's body.
+
+Pure yet dark mana flooded my system. It was quenching, my armor grinning over my face. At the same time, there was something eerily familiar about this energy. It was corrupted by some hideous influence, a darkness that couldn't be expunged.
+
+Even then, Lehesion's clout amazed me. The legends of Lehesion's mana being connected with the world were true. He owned a direct pipeline to the planet's mana, and even I couldn't match a mana source like that.
+
+Yet.
+
+That got me thinking, however. At best, we killed Lehesion over the next few hours, but we would slaughter Giess at the same time. At worst, we'd still kill almost the entire planet before dying here like dogs. In fact, we'd probably already slaughtered the entirety of a continent.
+
+As I stood there and soaked that reality in, everyone around me unleashed havoc. My allies created portals into the golden aura, and Althea appeared to fire her arcane bolts on Lehesion's liquified body. Her bolts pierced the aura, slicing through the soupy body. Arcane lightning rippled from her attacks, disintegrating masses of flesh.
+
+At the same time, Helios gave the Overseer full reign, launching one pulse of destruction after the other. The gialgathens attacked with all they had as well. Their fiery breaths caused stone to bubble and the air to squeal. The remaining Breakers shot out energy pulses loaded with Arcane energy.
+
+Even now, with no discernable features of Lehesion remaining, I found no signs of the creature dying. Lehesion's body was still pulsing with vitality, life oozing from it as if it could never die.
+
+My eyes widened. That was just it.
+
+Lehesion couldn't die.
+
+I gasped as I recognized the energy inside of Lehesion. It was the essence of an old one, just like Etorhma's tears in Althea or the time I spoke with Eonoth. An Old One was keeping this golden monster alive. This was why even an Overseer couldn't pass the golden aura. It defied logic because it was being maintained by a being that defied logic.
+
+With my arms and legs lodged in the beast, I bit down on my tongue as frustration mounted. As ridiculous as it sounds, defeating a planet seemed doable. Defeating an Old One? That was a daydream at best and a nightmare at worst. Without waiting any longer, I turned and shouted to the others,
+
+"We cannot win. Lehesion cannot die."
+
+Helios raised a hand, blood dripping down from what remained of his mask. He boomed,
+
+"He is nothing but mush. This is the only chance we have. To retreat now will void all the sacrifices your forces have made. Do you kill your own for nothing?"
+
+I shook my head, "No. I think an Old One is keeping Lehesion alive. Even now, Lehesion isn't any closer to dying. I can feel it. We can't win this."
+
+Helios roared, "You called me here to fight a war I could not win? Do you use your favors so carelessly, or are you simply an idiot?"
+
+I bit my tongue, swallowing a few choice curses to respond with. I sighed before saying, "Whether I am or not is an argument for another day. For now, we have to escape before he's back to full strength."
+
+The Overseer grabbed the sides of his head with his hands, "An Old One...in my sector...Why would one interact so directly here? What does it have to gain from keeping this arrogant fool alive?"
+
+I shouted, "It doesn't matter why. We need a warp to Yildraza. We'll regroup somewhere near there, wherever you think is fitting."
+
+The Overseer took deep breaths, "We die here for nothing.
+
+A portal appeared beside him. Krog growled at me as he flew above,
+
+"I did not take you for a coward, Dark One."
+
+Several gialgathens howled with approval. I turned to Krog, absorbing as much of the mana as I could,
+
+"His mana is endless. Ours is not. We must live to fight another day."
+
+Krog roared, "My comrades died here today. Their sacrifices will mean nothing if we leave now."
+
+My voice echoed over the burning fires and swirling ice,
+
+"Make no mistake, we are not giving in. I will hunt this monster down and kill it. We all will. When we return, it will be overwhelming and in force." I scowled, "But that's hard to do if we die here."
+
+Krog heaved for breath, his eyes full of anger. He let out a howl of frustration before saying,
+
+"Then we shall do as you say, commander." He narrowed his eyes, "But next time there will be no surrender. I will fight till my death."
+
+I smiled, "Of course. So will I."
+
+They flew towards the Overseer's portal, warping away. I turned to Althea and the others. Only two Breakers were left and both the Speakers died. Althea raised a palm,
+
+"You don't have to convince me. If anyone knows how insane Old Ones can be, it's me."
+
+I sighed with relief, "Thank you."
+
+She walked the portal. The two Breakers stared at one another then back at Lehesion and me. The giant beast was halfway reformed already, his ribs and spine the size of bridges. The Breakers jumped into the portal, leaving the battlefield.
+
+I pulled my arms and legs from the beast, turning to Helios and the Sentinel. Helios snapped his fingers, forming a portal besides me. I stepped through it. As I walked near him, the Ruler of Worlds stared at me for a second. He murmured,
+
+"You are immortal."
+
+I pointed at Lehesion, "He is as well. We have to run. We'll regroup and fight him with more assistance."
+
+Helios tried moving, but his knees wobbled. Before he fell, I grabbed his arm over my shoulder and helped him walk. Using gravity, I carried him over to the portal. I did the same with the collapsed Sentinel.
+
+Despite his debilitation, Helios grumbled between heavy breaths,
+
+"Carried by a backwater savage...with no class...My pride will carry scars...from this day."
+
+I turned to him, "I can carry you in my arms if you want. Just saying."
+
+He narrowed his eyes, "I'll kill you...if you dare mention this or that again."
+
+I rolled my eyes as Helios struggled not to vomit from mana deprivation. As I passed over the battlefield, I spotted the smashed corpse of the Sentinel beside the crater in the mountain.
+
+I picked up the body of the Sentinel and his spear with a gravity well. As I passed through the portal, the Overseer put his hand on the Sentinel's body,
+
+"He...he will be missed."
+
+Hearing those words stung. Even if I was casual while talking with Helios, our loss was starting to sink in. We failed, and we didn't stand a chance. Lehesion was stronger than I ever imagined. No, then we ever imagined.
+
+We would need a real plan to fight it out with him next time. We couldn't rush in blind, or we would all be ground to a pulp like we were this time.
+
+As Helios and I stepped through the portal, the Overseer followed. The scenery shifted, and we were in the middle of a field overlooking Yildraza in the distance. Insects chirped, birds sung, and the air was sweet in my nose.
+
+Despite the peace of it all, the sounds of war left a lingering silence in my ears. I'd done everything I could. In the end, it didn't matter. Rivaria was decimated, and we lost good people here.
+
+As I dwelled on the outcome, the Overseer closed the warp behind himself. All the others sat or laid around in a circle atop the hill. Everyone gasped for air besides for the Overseer and me. I set Helios down, letting the ice mage rest. As I did, Helios slammed his hand into the dirt and squeezed a clump of grass in his fist.
+
+"I bring shame to the Novas name."
+
+The others glanced down, each of them counting their mistakes in the battle. I didn't know what to say, my words catching in my throat. We lost well over a dozen of our members. Six of my guild's gialgathens were dead. Three Breakers and both of the Speakers were dead as well. The most significant loss came in the missing Sentinel.
+
+I laid his body down beside a patch of flowers. The Overseer and I stepped up to him. The Overseer, in a rare moment, exposed some emotion. He lunged onto a kneed and placed his hand onto the Sentinel. The Overseer whispered,
+
+"You may rest for all time, brother. You fought the tide, and so it fought you back. Though washed away to sea, you will always be remembered."
+
+He laid his head onto his chest,
+
+"In Eternum, Vive."
+
+I stared at the Sentinel's crushed armor and spear. He reminded me of the first Sentinel I met back in Blood Hollow. Everyone I spoke with told me they were machines. They weren't, not even in the slightest. They felt pain, prejudice, and pride like anyone else.
+
+In the end, I didn't understand what they went through to become Sentinels. What little I did know was that it required sacrifice, diligence, and courage. They were Schema's frontline soldiers, so they fought against the eldritch. Either that or they guarded doors.
+
+On second thought, I really didn't know much about them.
+
+The Overseer stood as I pondered. He placed a hand onto my shoulder,
+
+"You...you can make use of his body, can't you?"
+
+I turned to him, leaning back, "Are you serious? He's your ally, and he just died. Don't you guys have a funeral or something?"
+
+The Overseer shook his head, "When they die, their records are cleansed and their failures erased. The only legacies they leave are the people they save and the armor and spear they wore."
+
+The Overseer gripped his hand into a fist, "He will either be eaten by you or the animals here."
+
+The Overseer gripped my shoulder tighter and stared at me, "His death can mean something, even if only a little."
+
+The Overseer took his hand off my shoulder and stared away, "Though I understand if you aren't willing."
+
+I glanced down at the Sentinel. It had violet colored skin just like a Kessiah or Tohtella. I turned to the Overseer,
+
+"Is he...a remnant?"
+
+The Overseer sighed while taking a step back, "Yes. Most believe they are machines, but this is a misnomer. Their true identity is hidden by Schema. Considering the mental conditioning Schema put them through, perhaps that is better."
+
+The Overseer waved a hand, "A portion of the remnants didn't rebel against Schema. They were rewarded the highest of honors, given the right to be Schema's soldiers. After being sterilized, they were forged into warriors. They carry a great responsibility and great power in equal measure."
+
+The Overseer peered into the distance, "But they are limited in number. Every Sentinel that dies is one less that Schema has in his arsenal. Each of their deaths is a blow to Schema and his forces. There is one great light that shines from this Sentinel's passing, however."
+
+I raised an eyebrow, "What is that?"
+
+The Overseer's voice rang like metal,
+
+"It guarantees that Lehesion will die for this."
+
+I nodded, "He will...I'm wondering why Schema sterilized the Sentinels though?"
+
+The Overseer shrugged, "Perhaps it was fear. The remnants were once complex enough with their knowledge to create Schema. If they created something of such unequaled potential, who is to say they couldn't have crafted another A.I that is his equal, or perhaps his better? We cannot know, and Schema did not want an answer to that question."
+
+I frowned, "So he purged their population and limited it because he was scared? That's cowardly."
+
+"It was calculating." The Overseer sighed, "That is what we must be if we are defeat what we face throughout the galaxy." The Overseer pointed at the Sentinel,
+
+"You must be calculating as well, unless you wish to become like him."
+
+I shook my head back and forth, getting rid of my apprehension. As the others licked there wounds behind me, I kneeled down and placed my palm onto the Sentinel. My armor drilled into the corpse and soaked it up as Helios chugged mana potions and summoned the medical force to assist us.
+
+By the time a nurse reached me, the corpse was gone. The Overseer picked up the armor and spear of the warrior, leaving nothing behind. A blue-skinned nurse with most of her face covered in a facemask walked up to me a few minutes later,
+
+"Do you need help?"
+
+I stared at my hands,
+
+"No...I think I'll be fine."
+
+She narrowed her eyes, "You don't have to play tough. It's ok if you're hurt."
+
+I stood up while rolling my shoulders, "I'll be fine. Er, thank you."
+
+She paced off as a message appeared on my screen. It had been a long time coming, but I prayed it was worth the wait.
+
+Evolution gained. The Living Multiverse unlocked. Evolve Y/N?

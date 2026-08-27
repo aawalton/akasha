@@ -1,0 +1,161 @@
+---
+id: ea3dae76-cf23-5f2a-bf4b-6fa44bd56265
+page-type-slug: story-chapter-royal-road
+title: "152 To Clear an Infestation"
+slug: 0111-152-to-clear-an-infestation
+partOf: the-new-world
+position: 111
+ownLength: 2406
+unit: words
+ownProgress: 2406
+publishedAt: 2018-10-27
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/301542/152-to-clear-an-infestation"
+royalRoadId: "301542"
+markedReadAt: "2026-06-29T21:24:47.221Z"
+---
+
+A spark of heated, red plasma melted through my gray armor. It left no mark on my actual skin beneath it. The gray goblin pulled at me, thrusting a palm at my elbow joint. He couldn't budge me. I glanced down, seeing the plasma. If someone peeked through the whole, they might figure out my identity. That was a much more pressing concern than this guy's attacks.
+
+With a flick of my wrist and a clasp of my hand, I pulled the plasma off. I crushed my gray suit over the gap at the same time, keeping me hidden. The plasma splattered onto Khan's knee, singing through his bulky armor.
+
+He let go of me, taking a step back. He howled, his pain resistance unleveled. Three of his buddies unholstered their own weapons at me. I stomped my foot on a telekinetic pad. It transferred the force of the stomp three different ways.
+
+The three waves of force jerked the guns out of his fellow mercenary's hands. The smallest of the three, an Enigmatta by the look of his suit, caught his finger on the trigger. The gun broke his shoulder out of socket. He gasped, but like a trooper, he grabbed his arm and put it back in place.
+
+Without their weapons, they glared at me but couldn't do anything else. With that handled, I looked down at Khan. The plasma ate away at his knee. His howls could've stripped the paint off the walls.
+
+I shook my head, pulled off the plasma with a bit of magic. I swirling the blob of plasma, condensing it into a ball. I turned towards the bar, pulling out the liquid from the mercenary's drinks. I funneled it over the plasma ball, a wave of steam pluming up.
+
+A blue fire exploded from the plasma ball, the alcohol and other parts of their drinks burning up. It siphoned into the gravity well, creating a mini orbit before bleeding away. It all looked like a magic trick.
+
+I walked up and tore a shoulder pad from Khan's armor. I bent the metal over the still hot ball of plasma. It cooled enough that the metal held up. I tore off Khan's other shoulder pad. I put the plate on the bar then the steel ball on top of it. I leaned over towards Khan,
+
+"You have a drinking problem."
+
+I reached out a hand, flicking him in the nose. His face whipped backward, a bone breaking. He flopped onto his back, unconscious but okay. He'd wake up with a headache, but that was about it thanks to Schema's healing. I stood back up. I looked around, all eyes on me. I put up a hand,
+
+"Are you guys sure it's ok for me to leave now, or does someone else have to shoot me in the knee? No? Good."
+
+I stepped over Khan and walked out of the guild. From my experience just now, it was more like a shitty pub. As I stepped out, a hand grabbed me from behind. I turned around, utterly pissed off. In my mind, with good reason.
+
+It was another Soldier of Fortune. It was an espen, his amphibian hair tail flowing down his back. Unlike the other espen, his black skin had white marks down his neck. They shaped like rhombuses, but his amber eyes were the same.
+
+What caught my eye were the scars on his face. That and his title.
+
+Iasis Klon, Bloodwielder(lvl 5,000 | Head of Icosah Branch, Soldiers of Fortune
+
+I tensed up without meaning too. He might know my titles and status at such a high level. He frowned at me, disappointment spread out on his amphibian features,
+
+"Hey. I'm sorry about Khan. He's an asshole once he starts drinking. He's never done anything like that."
+
+I rolled my eyes in my helmet. I moved Iasis's arm off my shoulder, "I'm sure."
+
+Iasis sighed, looking back and forth on the street, "I get it. This wasn't the best first impression by any means. You can walk away anytime. It's just...I saw you walk in and take that contract."
+
+Iasis stood up, spreading out his carbon fiber covered hands, "No one, and I mean no one has taken that contract. Period. You just walked in and took it like it was nothing. If you're as good as you look, we could use a guy like you in our ranks."
+
+I shook my head, "Yeah, but I don't really need you guys is the thing."
+
+Iasis bit his lip. He scoffed, "Ok, you got me there. Here's the thing. We can offer you more than just extra money. Don't take this in the wrong way, you look a bit stiff."
+
+I raised an eyebrow, "How so?"
+
+Iasis rolled his shoulders, jostling a white rifle on his back, "You're all uptight. You look new here, am I right?"
+
+I didn't answer. Iasis raised a finger at me, "I knew it. You look green." He pointed at his chest, "I can help you out in more ways than one. For instance, keeping your identity hidden-"
+
+I leaned over him, "Are you trying to blackmail me?"
+
+He leaned back, waving his hands, "Oh no, not all C-138. I know a good investment when I see one. If anything, I'm trying to win you over before someone else does. Threatening you is like trying to threaten Yawm. It's bad business."
+
+I looked around. The street buzzed with activity, people passing by. No one came near us though. I turned towards Iasis, "Ok, you've got my attention."
+
+He balled up a fist, "Yes! Trust me, you won't regret giving my offer a chance. Look, I can get you to the capital-" He snapped his fingers,
+
+"Just like that. You're a big name. That has to be where you're headed."
+
+I raised an eyebrow, though he couldn't see under my helmet,
+
+"And if I am?"
+
+Iasis put a hand on his chest, "I can get you there. I can get you talking to some other big names and get you going in a good direction. Before I do that, I need you to do me a favor though."
+
+I sighed, "What is it?"
+
+Iasis opened his status. He flipped it towards me, showing a contract. He pointed at it, "This is the contract you accepted. See, this is about clearing some silvers nearby."
+
+Iasis spread out an arm, "There's been a problem here recently though. Plots of silvers have been popping up everywhere. Nobody knows who is doing it or why. My job is to clean the mess up though. That's where you come in."
+
+I crossed my arms, "I get rid of the silvers, you give me some insider connections?"
+
+Iasis nodded, "You got it."
+
+I scoffed, "So I don't get any rewards for the contracts I complete, and you let your superiors know about a promising new candidate? I'm not buying what your selling."
+
+Iasis's eyes narrowed, "You know I can reveal your identity at any moment?"
+
+I leaned over him, my shadow looming, "I killed the world eater, Yawm of Flesh. He set horizons on fire. He cleaved through dimensions with the spear of a sentinel...He betrayed Etorhma and harvested his tears."
+
+I generated a gravity well in Iasis's head. I pulled enough that his eyes sunk into his skull a bit. His eyelids widened as I continued,
+
+"His legend ended with the beginning of mine. You think I couldn't kill you? Try me."
+
+I held him there for a second before letting him go. I patted his shoulder harder than I needed too, "Take care."
+
+I turned and walked away. Iasis stumbled, falling down. He pressed his fingers on his skull, checking for damage. I left him there, reading the contract I accepted.
+
+A Plague's Beginning(lvl 3,500 requirement, lvl 4,000 Recommended| Recommended Party Size: 4 | Tier: B-) - Throngs of silvers have been spreading in innocuous locations near Icosah. Clear these discovered locations to receive a reward.
+
+Reward: 10 Red Dungeon cores. Goodwill with Giess increased.
+
+The quest looked pretty solid. Ten dungeon hearts amounted to quite a bit of skill points, which would let me fill out my trees much faster. It was something to do while the others goofed off in town. Gaining a few levels would be a nice bonus too.
+
+With that in mind, I opened my status. After selecting the quest, marks appeared on my minimap. They showed areas infected by the silvers. With a clear goal, I walked towards the infected spots. As I did, I passed by the shopping section of Icosah.
+
+I checked everything out, trying to get a grasp on what markets were like here. The standard shops were sprinkled about like clothing, food, and general stores. Far more fanciful shops showed up too though.
+
+Alchemy, Charged mana stones, even wizardry classes, this place had it all. More tech-oriented shops were few and far between. That suited this place since they relied on the magical more than the mechanical. After skimming the titles, I marked a few bookstores and the wizarding lesson classes. They might be useful later.
+
+As I walked out of Icosah, the same abrupt tree line appeared. I glanced along its edge. A faint, crumbling road weaved into the forest line. Lush greenery almost consumed the brick path. Once Schema arrived, walking along these roads became obsolete. Now the ruins were all that remained.
+
+I walked on it, enjoying the aesthetic. After about five minutes, I ran. Why waste time, right? With that mentality, I neared the first spot of silvers on my map.
+
+As I did, a line of metal appeared in my vision. The same metal grass and trees popped up. They refracted light, showing a desolate landscape. Well, bleak for normal life. The silvers thrived. They squirmed, writhed, and all crept along every surface.
+
+I wondered why the magical wildlife wasn't fighting the silvers like on the large, natural borders. I noted that in my memory for later.
+
+When I stepped on the geometric metal, my foot clanked on the steel. Three gray humanoids peaked around a sharp scissor tree. They were the same creatures floating in yellow eggs on that toxic ocean. Long tongues, no eyes, and limbs bent out of shape, they were straight out of a horror movie.
+
+I didn't have a reason to be scared of horror movies though. They charged at me as I analyzed them.
+
+Merject(lvl 1,276 | Classification: Silvers) - Merjects are physically imposing creatures. At first glance, they're terrifying beyond measure. Their odd movement patterns make them difficult to hit. They blend into their surroundings as well, further enhancing their elusive qualities.
+
+This sense of stealth synergizes with the metallic tongues they use as weapons. Within their bodies is a concentrated mixture of arsenic, mercury,  and pollutants. They squeeze their abdomens with powerful abdominal muscles, injecting this cocktail into their victim's mouths. Espens refer to this as, 'The kiss of death.'
+
+Despite the romanticized name, the process is disgusting to behold. Based on your levels and titles, they should fear you.
+
+I grinned, expanding Event horizon over the grayscape. Thousands of notifications appeared in my exp inbox as I did. It was probably insects of all varieties. When Event Horizon reached the merjects, they quivered. From their disgusting tongues, purple gunk oozed out.
+
+They ran towards me despite their agony. One of the merjects jumped from the top of a metal spire. As it reached me, I caught its head in my hand. The animal jittered around, limbs flailing with abandon. Black claws scraped my gray armor, leaving marks. I squashed its head in my hand. The skull squished between my fingers. It was like a shell of ice over water.
+
+A purple slop stuck on my hand as I dropped the corpse. The other silvers scrambled on their feet, turning away to run. I raised an eyebrow. They really were different from eldritch. Eldritch almost never ran, at least not at the death of one of their own.
+
+These things weren't getting away though. I charged mana, walking towards them. They disappeared in a cluster of trees, using the metal as cover. A minute later and I unleashed a gravitational singularity on the hellish place.
+
+The kinetic impact rippled out a shockwave, pieces of metal flying in all directions. I cracked my knuckles, walking into the ashen blot. After covering the area with Event Horizon, the marking on my mini-map dissipated. I grinned at the job. It took fifteen minutes for one mark. I'd clear the fifteen spots within four hours.
+
+I fell into a state of mind as I took on the job. I worked with efficiency, plotting out the shortest complete path for clearing the infestations. The silvers rewarded good exp for their level because of how viral they were. One silver could spread to an entire continent after all.
+
+With that in mind, I traversed through the jungle. I obliterated one silver patch after the other. The strange, alien shapes made it easy. They weren't familiar at all. Compared with killing the zombies from Yawm's plague, this was a cakewalk.
+
+I breezed through the process, reaching the last spot after only three hours. I got better at it as I went. I cleared out the outer ring of the final outbreak. It took far longer than the other areas. This was because of how damn big this silver patch was.
+
+At its center, a viscous lake of muck swayed. I peered at its depths, using Hunter of Many to get an idea of what I was looking at. I squinted my eyes, using the waves of gunk as a reference for what laid beneath. Using the skill, I scoped out a mental image after a few seconds.
+
+Beneath the waves, something monstrous stirred. It shaped itself like a dragon of sorts. Based on what it was in, it loved grime. I walked up to a long barb of metal. I pulled it up, the metal squealing as it split. I aimed at the creature, throwing my spear into the pool.
+
+Wind burst out as the javelin drilled down. It sunk into the side of this monster. The beast shook, raising itself from the abyss. It lifted a massive figure from the slop. The lake convulsed, waves of slime-spewing to the surface.
+
+As the monster spread its wings, I stared agape,
+
+"What the hell?"

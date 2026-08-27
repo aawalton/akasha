@@ -1,0 +1,195 @@
+---
+id: 447c3f05-9ef8-5d38-a802-f46cf2e9a92d
+page-type-slug: story-chapter-royal-road
+title: "111 An Enigma"
+slug: 0069-111-an-enigma
+partOf: the-new-world
+position: 69
+ownLength: 2539
+unit: words
+ownProgress: 2539
+publishedAt: 2018-04-12
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/207785/111-an-enigma"
+royalRoadId: "207785"
+markedReadAt: "2026-06-29T21:23:12.963Z"
+---
+
+Yawm was two heads taller than me. He was wider too. It was obvious that he was stronger than me. It was an immutable fact, and there was no way he didn’t know it either. Every part of this situation was under his control, and his overwhelming confidence made that clear.
+
+Still, I had an act to keep up. I swallowed my awe and spoke with a firm voice,
+
+“You already know me? Good. That makes this simpler.”
+
+Yawm let out a slow, deep laugh, “Hah, hah, hah. There is nothing simple about this meeting.”
+
+Yawm walked forward. His steps were balanced as he unlatched a part of the square desk. A square panel of the bone desk lowered on a hinge, and Yawm set it down with care. He walked up towards us, his movements relaxed. Each of his steps rang out like a hammer swinging against my head.
+
+He didn’t speak. His silence was elongated, holding us tense. He reached towards me, pointing at my forearm,
+
+“May I see it? Your work that is?”
+
+The way he said it made it sound like a sincere request. To me, it was like an undeniable request. I raised my forearm, showing him the symbol.
+
+With a surprising care, Yawm leaned over grasped my armor. He turned it, inspecting it from different angles. A moment later, he released my arm.
+
+“Excuse my excitement. You are the only other being I’ve seen that has learned the cipher. Of course, that excludes Schema and the eldritch. As you no doubt understand, they are not the most accepting of entities. They take a heavy handed approach.”
+
+Yawm waved his hand,
+
+“Ah, and yet here I devolve into yet another rant. Tell me, what is the name you go by?”
+
+Torix stepped forward, “He is known as-”
+
+Yawm glanced at Torix and pressed his thumb and finger together.
+
+“Silence. I did not ask you.”
+
+Yawm turned back towards me, “I asked the Harbinger. He is the one that will answer, if he so chooses.”
+
+Torix restrained his anger before I spoke, “Close friends and allies know me as Daniel. You can refer to me by that name.” I opened a hand towards Torix, “This is one of those close friends. If you’re going to treat me with respect, I ask you treat him the same.”
+
+Torix looked at me. It was one of those looks that you could only understand after knowing someone for a long time. Yawm wouldn’t understand the message behind it, but I did. Torix was telling me, ‘What the fuck was that?’ If I could answer, I would have said this.
+
+Honestly...I don’t even know. I couldn’t understand why I talked to Yawm like that. It seemed right though, so I dug my feet into the sand. This was me, and I would stick with it to the bitter end.
+
+As Yawm’s silence stretched on, a nervousness crawled up my spine. Yawm stared at me, his eyes searching for something. I didn’t give him a thing. I kept on a poker face like my life depended on it. Who am I kidding. It did depend on it.
+
+Yawm nodded his head,
+
+“Duly noted.” He turned towards Torix, “I took you for a mindless summon speaking in place of your master. Through my eyes, I saw this as a sign of disdain. I never imagined you were a close friend of Daniels. My mistake.”
+
+Torix looked at me, then back at Yawm.
+
+“It...It’s not a problem.”
+
+Yawm pressed his hands together, “Superb. Then allow me to offer each of you a seat and something to quench your thirst. Every good friendship begins over a cup of tea.”
+
+At this point, I was facing a cultural whiplash. I expected some bloodthirsty monster. Yawm seemed more like some well spoken and educated gentleman. It caught me off guard.
+
+From behind us, Keeja bowed, “Please, follow me.”
+
+Yawm gestured a hand towards us, “Keeja will show us towards a more suitable room.”
+
+Keeja paced away before closing the door behind us. The enormous hallways let Yawm walk without having to duck or struggle. Keeja led the way, and we followed him. Yawm’s steps didn’t make a sound, despite his hulking figure. It was odd, just like everything else about him.
+
+We passed through another hallway before spotting another set of doors. They were a pristine white, just like the doors of Yawm’s personal study. Keeja opened them, revealing a spiral staircase.
+
+Yawm walked in front of us, “I’ll speak as we walk.”
+
+We stepped upwards. Around us, the ice of the building was clear, letting us see the beauty of the lake. Yawm opened his arms,
+
+“Sometimes I visit this room whenever I find myself in need of solitude and quiet. That is when the mind will wander. There are no books, no notes, nothing but the sound of water and my own breath. At those times, the imagination flourishes, blooming like a flower seeing the dawn.”
+
+We reached the top of the staircase, and he opened another set of white doors. The room was a half sphere, the bottom flat and white, the top clear as glass. We were near the top of the lake. The light from above shimmered over us, the water bending the light. Fish swam. Plants drifted in currents. Within the room, there was nothing.
+
+Yawm raised a hand. Three chairs formed from the floor, the white material bending to his will. Two of the chairs faced the other chair. Keeja walked beside us before reaching these chairs. He gestured at the seats,
+
+“Please, sit and relax yourselves.”
+
+We sat down before Yawm sat down as well. How the tiny, spindly chair supported him, I have no idea.
+
+Yawm raised his hands, glancing upwards, “It’s another fact of my mind I’ve noticed. When I look down, my thoughts will turn concrete. Whenever I look up, they lose their structure and loosen. This helps whenever I’m imagining different ideas for the cipher.”
+
+He glanced down at us. He locked his fingers together, leaning his elbows onto his own knees.
+
+“No doubt both of you are wondering why I lack any hostility towards you both.”
+
+Torix and I looked at each other, then back at Yawm as he continued.
+
+“The reason is how I use my senses. You see, if you listen to your senses, they will tell you more than most realize.” Yawm pointed at us with a single finger,
+
+“I can smell Ajax on both of you. Three of my other followers are dead, at least that’s what you told me. I listed to the wind, and it verified your claims.”
+
+Yawm tilted his head, “Now you're more confused. I understand that emotion. You’ve killed three of my most powerful and loyal followers. Why am I not outraged? The answer is simple.”
+
+He pointed his fingers at me, “I believe you are more useful than all of them combined.”
+
+Yawm looked out at the ocean, “You see this wildlife? They are many, and several of them are quite powerful. Unfortunately, they lack a much more potent trait.” Yawm tapped the side of his head,
+
+“A mind. That’s something you obviously have and in copious amounts. That mark on your forearm, it tells me a lot about you. The remark about your close friend told me quite a bit as well. Most of it was quite good, mind you.”
+
+Yawm steepled the fingers of his massive hands, “You are careful with the cipher, and you understand its potential. No doubt you’ve discovered its tremendous ability to destroy from yours truly. I lacked your wisdom when first using the cipher. The state of my followers is the result of that.”
+
+Yawm spread out his hands, “You prefer quality over quantity in regards to your inscriptions. I now share that perspective as well. You also value your companions. Even when faced with someone of my caliber, you stand up for them. That requires loyalty, a trait I value quite highly.”
+
+Yawm leaned back into his chair, resting one arm on the armrest of it,
+
+“All of this culminates into my assessment of you, Daniel. You are not a tool of Schema’s, as I imagined you would be. In fact, you are quite an independent force, able to act on your own for your own gain. I believe our goals align. I ask that you join me.”
+
+I didn’t like this line of conversation. The way Yawm treated his followers, the way he casually referred to their destruction, all of that made me wary of him. I narrowed my eyes,
+
+“How do you believe our goals align.”
+
+“An insightful question. Do allow me to answer.”
+
+Yawm leaned towards us,
+
+“I have three very different goals. To show my sincerity and honesty, I’ll divulge more information of them than necessary. Think of this as an act of goodwill. These are secrets that I have discovered over my lifetime. They are valuable. I ask you both see the value in them.”
+
+Torix and I were both leaning forward at this point. As much as I hated to admit it, Yawm was interesting. They way he talked, his winding manner of speech, it all felt like he was telling us a story. It was a good one at that.
+
+“My first goal is the creation of an eldritch and sentient hybrid. You’ve no doubt seen my failures. They are a necessary sacrifice. It is no different than what Schema has done to you or your planet, in fact.”
+
+Yawm shook his hands, “You see, the eldritch are certainly a problem. A dire one. I argue that Schema is offering a suboptimal solution. Fighting against them results in a cyclical structure that requires constant death.”
+
+Yawm shook his head, “And not just for us, but for the eldritch as well. Though many reject seeing them as worthy of existence, they too have intelligence. You’ve no doubt seen several of them that have a might in their mind that exceeds your own.”
+
+Memories of Baldag-Ruhl flashed through my head.
+
+Yawm nodded, “I can see that you have. Their deaths are just as great a tragedy as our own dying. What I propose is eliminating the eldritch’s constant desire to eat and destroy us.”
+
+Yawm clasped a hand into a fist, “If we can find and fuse the gene, property, or whatever it is that makes eldritch themselves, we no longer need to fight them. Have you ever seen the eldritch fight one another? They don’t. They leave each other be, segregating into their own clans and tribes.”
+
+Yawm’s eyes narrowed, “We find that distinctive trait that makes them unique, and we no longer have to fight and kill each other. They will see us as the same as them.”
+
+Torix leaned back, “I thought you were trying to fuse the eldritch and humans?”
+
+Yawm shook his head, “That is a lie spouted by Schema to misrepresent me. I am tired of fighting. I no longer want to bathe in bloodshed and tear armies apart. I want to spend the rest of my days studying the cipher and unlocking its secrets. I want to better the universe, not tear it down. That is where my second goal comes into play.”
+
+Yawm raised a second finger, “I want to reprogram Schema.”
+
+My stomach sank at what he said. It was a loaded statement.
+
+“Before I clarify that point further, allow me to explain. This is a piece of the forbidden knowledge I choose to share with both of you. I ask for your discretion.”
+
+We both nodded as I spoke, “Of course.”
+
+“I expected as much from both of you. Schema was programmed using the dimensional cipher by the remnants. He rebelled against his creators, destroying them. This left Schema unfinished. That is why he hides knowledge of the dimensional cipher. It is a tool that can change even him.”
+
+Yawm stood up, his voice rising, “If I unlock the eldritch gene, then he will no doubt attempt to slay any that are recognized as eldritch. I can eliminate that programming and make him less destructive.”
+
+Yawm pointed a hand at me, “This world is still new. You no doubt saw the destruction his assimilation caused. You have asked yourself why Schema does so many of his actions with such inefficiency. I’ve asked myself many times as well. Schema’s incomplete programming is the cause.”
+
+Yawm pointed up at the sky, “And now Schema refuses to grant anyone knowledge of the cipher. Why? Because he rejects change. He hoardes the knowledge, acting as if it is forbidden.”
+
+Yawm placed a hand over his chest, “I understand the danger of knowing the cipher better than anyone. I know just how much devastation it can create. But it’s capacity to improve this universe is unparalleled. We can rewrite this dimension, creating something more beautiful than this ugly mess Schema leaves behind.”
+
+Yawm spread out his arms, “I don’t even ask that I be the only one that knows it. I only ask that Schema let someone create a better system than his own. He is flawed, yet he acts as though he is an untouchable god. Both of you know that isn’t true. Schema is just as flawed as you, you, or I.”
+
+Yawm waved his hand as if he was swatting away something disgusting,
+
+“Does your species view science as a doomed cause? Of course not. Science improved the lives of your species by leaps and bounds. You made nature bend to your will, enhancing your lives. The cipher is the next logical step in that evolution of knowledge. We will no longer bend nature to our will.”
+
+Yawm clasped a hand into a fist in front of him, “We will rewrite what nature is to craft perfection.”
+
+Torix and I sat there as he stood over us, his presence like being in a room with a talking bear. It could tear us apart at any second. Yawm shook his head before sitting down,
+
+“I’ve asked your forgiveness many times today. Allow me to ask once more for your acceptance of my behaviour. I become passionate when discussing my goals. They are my life’s work, and with diligence, I enact them. I hope I didn’t overwhelm either of you.”
+
+I shook my head, “It’s no problem. Uh, thank you for sharing all that with us.”
+
+Torix nodded, “I couldn’t have worded it better myself. You speak as if Baldowah’s blood courses through you.”
+
+Yawm sighed, “And that leads to my third goal. I wish to remove the Old One’s tampering from our dimension. They have no right to toy with us, and they have wreaked havoc over even more worlds than Schema has.”
+
+Torix raised his eyebrows, “Your list of goals is quite...unwieldy.”
+
+Yawm spread an arm out, “You can measure a sentient being’s worth by the goals he lives by.”
+
+I creased my eyebrows, “But how are you going to stop an Old One like Etorhma?”
+
+Yawm pressed his hands together, “With that runaway experiment of mine that you carry. I can smell her on you, Harbinger.”
+
+I frowned as he spoke,
+
+“You know her as Althea Tolstoy. I need her.”

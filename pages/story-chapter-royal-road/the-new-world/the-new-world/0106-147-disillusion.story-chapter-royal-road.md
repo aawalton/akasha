@@ -1,0 +1,137 @@
+---
+id: 85228039-c241-56f6-bffd-0c57cf8208cb
+page-type-slug: story-chapter-royal-road
+title: "147 Disillusion"
+slug: 0106-147-disillusion
+partOf: the-new-world
+position: 106
+ownLength: 2058
+unit: words
+ownProgress: 2058
+publishedAt: 2018-10-22
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/300284/147-disillusion"
+royalRoadId: "300284"
+markedReadAt: "2026-06-29T21:24:36.337Z"
+---
+
+No point in getting ahead of myself though. Same as always, I charged the mana. After a few minutes, I looked at my status,
+
+New skill learned! Mana saturation(lvl 1) unlocked!
+
+Mana Saturation(lvl 1) - With your own flesh and blood as a cage, you extend your mana pool beyond its ordinary means. Increases charging speed and efficiency with level, and also reduces health cost while saturated.
+
+After obtaining the skill, the intense discomfort from charging lessened. I raised a hand, aiming at a cluster of trees. I let the mana go, a singularity forming. It pulled in a few trees before detonating. It pulled inward for far less time than the previous singularity in the fourth floor.
+
+After creating several more explosions, I learned a few tricks. For starters, the gravity wells needed to pull in matter before they exploded. The denser the objects absorbed, the faster the gravity well blew. Whatever fell in fueled the explosion, sending out the shockwave.
+
+No matter what fell in, they left nothing behind.
+
+It was a culling kind of spell. When I used it, this strange pulling sensation passed through me. Along with it, a snap of coldness. Right after the detonation, a flash of heat washed over me. I stared at my status during these moments and discovered the cause.
+
+The cold originated from the tiny, minuscule black hole sucking in heat. After that, it dispersed in a wave of radiation. That created the warmth. Hawking's radiation at work I guess. I honestly didn't know exactly how it worked.
+
+After hours of messing around with the black holes, I got a few level ups in the skill. Compared with most abilities, I gained levels in the talent at a snail's pace. In my eyes, that was fair. Considering what a ridiculous ability it was, I didn't complain.
+
+By the time I finished two of the four farms, I had ended the day's session. There wasn't a real reason to grind like my life depended on it. With that in mind, I headed back up to my room.
+
+I found Althea still sleeping on her side. I walked by her, giving her a morning kiss. She woke up, grinning at me. We enjoyed a simple breakfast together. I used the kitchen at my place, making an omelet and a leafy green salad. I stay away from spinach since it tastes like dirt.
+
+At this point, I didn't need it to be like Popeye either.
+
+After the eggs and a few leafy greens, I went downstairs. I spoke with Torix. In the third floor, Torix sat within an empty classroom. He stared at his status screen,
+
+"It's good to see you, Daniel. What may I help you with?"
+
+I grabbed one of my hands like I was pulling off a ring, "I have to upgrade the gear. I was hoping to get an idea of what to give the troops."
+
+Torix closed his status, turning in his seat, "Well then, I'd recommend something that would enhance their growth. Perhaps something that will give them an extra burst of strength in times of need?"
+
+I tapped my chin with a hand, "Well, how about I create a mana crystal for them and a...hmmm...maybe a medallion that enhances intelligence and perception?"
+
+Torix nodded, "Those stats seem perfect. How would you go about creating mana crystals? They normally need to be harvested from worlds that are dense in mana."
+
+I shrugged, "I remember seeing some people charge mana into gemstones in BloodHollow. Couldn't I do the same here?"
+
+Torix nodded, "There is a cluster of raw amethyst in the mountain that you could use for it. I'll have someone send the jewels to you."
+
+I pointed at Torix, "I'll be in the research area on the second floor. Cya professor."
+
+Torix waved goodbye, still staring at his status. I paced down onto the second floor. Welding torches sent out sparks that arced in the air. I walked towards the back of the tinkering area, walking past the caged eldritch.
+
+Amara spoke to the monsters inside the glass zoo.
+
+She tried convincing the monsters something. As I imagined, they didn't respond to her. I passed by Diesel, his eyes intent on a new design for Althea. He worked on the framework for a prototype. I waved at him,
+
+"Still working on that new design?"
+
+Diesel looked towards me, raising an eyebrow. After seeing me, he waved back, "Ah, you know how it is. These things take time. What are you in here for?"
+
+I kept walking until I reached my own bench, "A reward for those that took part in the battle against Yawm. It's going to take a while."
+
+Diesel wiped imaginary sweat from his forehead, "It makes me sweat just thinking about it. Good luck."
+
+I laughed a bit, "You too man."
+
+I settled in, cleaning off a few wood shavings from my desk. With the gears of my mind turning, I opened my dimensional storage. I pulled out my grimoire, flipping it to a blank page. I outlined a few runes and set to work.
+
+Like with any runes, I began with getting an understanding of what I wanted to carve first. Unlike endurance, intelligence required finesse in its application. To manage that, I dwelled on what intellect was.
+
+I decided smarts came down to dozens of factors. I boiled it down to the most important one - the ability to do. Some people thought of intellect as latent potential. It was this imaginary line deciding how far you could go in a subject. I didn't like that definition.
+
+Did the ability to work hard and stay motivated not fall under intelligence? Hell, finding meaning in something and staying focused was one of the smartest things a person could do. In my opinion, of course.
+
+With that goal in mind, I etched out some inscriptions. After about two hours of carving, I finished a compelling series of runes. I drilled them into my grimoire. After a few refinements, I was ready to mass produce.
+
+With my armor, I molded outwards. I created plates shaped like hexagons. I built one over a few seconds before snapping it off. Within an hour, I piled a massive heap of them beside my table. I set out onto work, grinding off the jagged edges of the medallion's snapped side.
+
+After two more hours, I completed two hundred of the medallions. I dispersed mana into my grimoire. The letters glowed a bright crimson. I set the runic inscription onto a hexagon, the letters forming on its surface. The procedure took about ten seconds apiece.
+
+After thirty minutes, I completed my first batch. I pushed through another bunch of two hundred before the amethysts arrived. A group of five vanguards carried several amethyst geodes. They walked beside me, unstrapped the geodes, and left after a salute.
+
+I thanked them as they did. With my fingers, I snapped off cubic pieces of the jewels. They snapped like breaking off chunks of crystal candy. Creating a pile of them, I separated the pieces of amethyst into large and small portions. I figured the families or friends of our fallen soldiers deserved the large ones.
+
+I charged energy into the amethysts. As I did, the purple crystals turned brighter and into magenta. They glowed at their center, the light fading towards the outside. The shine depended on the amount of mana stored.
+
+They varied. Some gems held two hundred thousand mana. Some held six hundred thousand apiece. They each took a couple seconds to charge. While a hassle, it wasn't too overbearing.
+
+After finishing the pile, I carved them with a piece of sharpened armor. The black metal's hardness far exceeded the amethyst. That let me zip through the process. I sliced indentations into the metal. I then took an amethyst, implanting it into each medallion.
+
+I bent straps of the metal, pinning the gems in place. With the runes and mana finished, the item was complete.
+
+Hand of the Harbinger(lvl req: 400) - This medallion was created as a reward for those that fought against Yawm. It strengthens the user's mind and offers protection in times of need.
+
+Bonuses: Willpower +50 | Intelligence +50 | Luck +25 | Charisma +25
+
+Ability: The Harbinger's Shield - If some kind of damage would kill the user, this medallion floods the user with the vitality of Dimension-C138. This heals the user and fills them with great vigor, sending them into a berserker mode.
+
+I glanced at the emblem, proud of my work. It seemed pretty solid. I finished several dozen more before heading back upstairs. I could push through the process over a few weeks. Once more, there wasn't much need to. I planned on injecting variety into my day, preventing anything from becoming a chore.
+
+With that intention, I spent the rest of my afternoon with Althea. We read together and enjoyed each other's company after dinner. This routine repeated for at least two months. Finishing the medallions took time. Training my singularity skill took time too, reaching the mid 70's in level.
+
+I didn't know much about unknown skills either. Did they have a cap? Where they linear or exponential in growth? Did it get harder to upgrade at a higher level? I had no way of knowing. Neither did Schema's internet.
+
+Anything I discovered came in rumor form like legendary skills. Few people shared their skills unless you paid the price for them. For a mythical ability, the amount was exorbitant and the sources shady. Any posts or videos about legendary skills were from salesman types.
+
+They were more a conman than a fighter.
+
+I didn't let that stop me though. The months flew by, habit taking over. By the time I finished the medals and handed them out, Torix already organized our trip to Giess. He used the same rune setup from before. He tried earlier, but Schema's quarantine ruined his magic. Without a quarantine in place, we could leave whenever.
+
+We just needed a few final details before leaving. We weren't worried about missing leadership either. The soldier's moral was overwhelming. No one expected the handcrafted medallions. They didn't expect the trinkets to be useful either. They were both and more.
+
+The badges offered a second life to most. That kind of benefit suited what we asked of the soldiers. They risked everything against Yawm. They deserved a meaningful reward. It would be a memento, something that gives proof when they tell stories to their children.
+
+While handing the rewards out, I enjoyed my celebrity status. So many thank yous, fans, and bright smiles astonished me. It made the impact of my actions real in a way. After that though, I kept to myself for the most part. I didn't want to make a scene wherever I went.
+
+Like that the days flew by. It was the day before we finalized the details on leaving Earth. Althea and I scheduled a dinner date. Inside our cozy room, we hand-cooked some flank steak and a Mediterranean salad. Althea still struggled a bit with balancing the ingredients.
+
+It was a work in progress.
+
+After finishing the meal, the two of us fell asleep. I held Althea in my arms, my armor surrounding us both. It always did when I laid down with her. I relaxed with my eyes closed, thinking about the last few years. It had been hard, and everything changed. It was an adventure though, and I came out stronger for it.
+
+After three hours of letting my mind wander, I snapped open my eyes. I lifted myself up. I looked around, nothing visible. An itch crawled up my spine, an ominous chill radiating.
+
+There was no need for it. A pitch black enveloped us both, muting all but the sound of our breathing. I questioned my own physical response. For no reason, my heart pounded in my chest like a thudding hammer. My senses fired away like a fire alarm. It baffled me.
+
+A second later, a click muffled out from beneath the bed. Gears spun into place. Chemicals reacted. A kinetic wave smothered the inside of my armor shell, engulfing us in a freezing fire. Just like the sound, everything clicked into place in my head. It was a bomb.
+
+And my armor locked us inside.

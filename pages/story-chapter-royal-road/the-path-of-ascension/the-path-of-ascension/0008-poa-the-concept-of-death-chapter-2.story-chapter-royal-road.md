@@ -1,0 +1,357 @@
+---
+id: 80793fc3-99d3-582e-9f4f-f376b1118540
+page-type-slug: story-chapter-royal-road
+title: "PoA The Concept of Death Chapter 2"
+slug: 0008-poa-the-concept-of-death-chapter-2
+partOf: the-path-of-ascension
+position: 8
+ownLength: 4555
+unit: words
+ownProgress: 4555
+publishedAt: 2021-09-29
+link: "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/758706/poa-the-concept-of-death-chapter-2"
+royalRoadId: "758706"
+markedReadAt: "2026-06-29T19:17:40.565Z"
+---
+
+PoA The Concept of Death 2
+
+Melinda had no idea who the woman was, or why she was even here. Her instincts screamed for her to be wary of the intruder.
+
+She was easily identifiable as over Tier 15. The woman had no darkness around her, like the normal people who still suffered from the effects of aging. No, the woman seemed to radiate warm energy and charisma.
+
+Her team thankfully picked up on her glance as the woman bustled in and pressed a kiss on top of Melinda’s head.
+
+How the woman managed that when Melinda was taller than her was a mystery.
+
+“Well hello, everyone.”
+
+The woman visibly counted each of them and clapped as if she had won a prize when she found them all there. Her next words confirmed that, and immediately caused Melinda to go on the defensive.
+
+“Wonderful, you’re all here.”
+
+Melinda missed what she said next, as she shot a glance out of the still-open door and saw two identical men in suits. They seemed to be standing guard in front of their rented home’s door.
+
+Things had gotten too far out of hand, and Melinda didn’t trust the situation. Being kidnapped was her greatest fear, and no matter how friendly the woman seemed as she smiled, Melinda sent a panicked message to Baxter.
+
+Her heart rate picked up when the woman paused in her speech to look through the wall and smile. She called out, “Baxter! I haven’t seen you in years.”
+
+Melinda looked at her wall and found nothing, but she expected the higher Tier man to come barreling through the door at any moment, and stop whatever this was.
+
+She was sorely disappointed.
+
+The woman cocked her head in a movement that resembled a bird watching prey, more so than Melinda felt comfortable with. The woman only needed to give one of the identical men a look for him to vanish, clearly sent off on some task.
+
+It was only then that Melinda noticed each of the men was wearing a different colored tie. Blue tie was still standing at the door, and purple tie reappeared a moment later, with Baxter held up by his shirt collar.
+
+Melinda’s panic was held at bay when Baxter smiled and warmly greeted the woman. “Aunt Helen. It’s been too long.”
+
+He shot Melinda a death glare over the woman’s shoulder, but returned his smile as he pulled back.
+
+She patted his arm and said, “You run away every time you hear I’m coming to the capital. Don’t worry so much. After all, I promised I wouldn’t make that recipe anymore.”
+
+The man looked like he had been given a stay of execution, but the woman’s next words seemed to be worse than the threat of a meal.
+
+“I’ve been meaning to have a luncheon with your wife. I’ll set that up with her after I take care of everything here. You will be there, won’t you?”
+
+Baxter flinched as if a knife was placed at his throat, but nodded. The woman, Aunt Helen, smiled and turned away. He glared at Melinda with an unspoken message that she would be hearing about this tomorrow, but he didn’t stick around any longer.
+
+The feather-haired woman gestured, and the door shut at her command. She smiled apologetically at them before continuing.
+
+“Sorry, Matt talked so much about you all. I felt like I already know you. I apologize. Let me cook you a meal before I give you the present that young Matthew sent over.”
+
+“You know Matt? How?” Melinda was satisfied that the woman wasn’t a threat, judging from Baxter’s reaction. But she was still trying to catch up with the whirlwind that had descended on her home.
+
+“Oh yes. He’s really come into his own, and I make it a point to visit the future powerhouses of the Empire while they are young.” She then grinned like a kid who got a new toy. “He also made a team with my niece, so...”
+
+That made more sense, and Melinda started to truly calm down. She just wished Matt had warned her that a woman would barge into her house. She made a note to lecture him about proper etiquette when they messaged each other next.
+
+Her husband’s eyes flicked to the kitchenette, and Melinda moved to cut that off. Interacting with higher Tiers never ended well in her experience.
+
+“While we appreciate your graciousness, you don’t have to go to the trouble. Miss…?”
+
+“Oh, I insist. I also insist that you call me Aunt Helen. Everyone does.” Aunt Helen pursed her lips at their kitchenette and continued, “We’ll... have to go to my house if we want a proper meal.”
+
+Finally, Tara couldn’t hold it in anymore and squealed, “You’re Helen of ‘Helen’s Hearth,’ aren’t you?”
+
+Melinda couldn’t help staring, as her normally unflappable teammate seemed to lose all reason.
+
+“Your restaurant is legendary. I’ve heard it costs Tier 40 plus mana stones to get your personally cooked food.”
+
+Melinda scoffed at the idea that food could be worth so much, but the rest of her team seemed to be on board, so she quickly queried the EmpireNet. From the results, she guessed that Tara might have undersold the value of this “Aunt Helen”’s cooking.
+
+She couldn’t find a single person saying that having the woman cook for you was anything less than the best meal of their lives.
+
+Seeing her team looking at her, Melinda nodded, giving her approval. It didn’t seem dangerous, and she hated to deny them.
+
+There was a chorus of cheers, and Tara was already at the door, holding it open for the feather-haired woman.
+
+Mathew moved to take her hand. She leaned into her husband, who whispered, “If Matt knows her, she can’t be all bad. Besides, she said he wanted to give us something.” Even lower, he said, “And her cooking seems to be amazing.”
+
+Melinda stopped herself from making a jab about how he would be eating leftovers if he kept insulting her cooking, even indirectly. She had only ruined meals a few times.
+
+They exited their house to look around, and Aunt Helen pointed up to where a small and quaint cottage seemed to hover in the air. Melinda was impressed, but confused about how such a small house could fit all of them, let alone a kitchen better than their little one.
+
+As they were lifted into the air and walked through the small gate, she got the shock of her life. Where she expected a small area around the house, she found miles of perfectly manicured lawn stretching out in all directions. The house remained innocuous until they entered it, and they found themselves in a formal entrance that could have fit their entire house twice over.
+
+There was another identical man standing at the entrance, who took Aunt Helen’s jacket and disappeared in an eyeblink. The only distinguishing detail that Melinda was able to catch was that this man had a green tie.
+
+Against her better judgment, Melinda found herself gawking like some country bumpkin reaching a city for the first time. She had done that once, and that experience hardly prepared her for this sight.
+
+There was a chandelier that she swore was made from mana stones. How extravagant was that? It didn’t feel like they were low Tier mana stones either.
+
+Melinda was aghast at the extravagance.
+
+“Come, come dearies. I have just the meal for you all.”
+
+With that, they were led through opulent halls that had pictures of young people and groups. Some even seemed vaguely familiar, but Melinda didn’t have time to search the EmpireNet for the information as they were hurried along.
+
+They passed a dozen doors before they entered a banquet hall that Melinda swore was larger than some sports fields.
+
+What’s the expansion ratio in this place? It must be insane.
+
+They were hurried through with a running commentary about some of the past meals that the woman had cooked for people. Melinda didn’t recognize any of the names, but noted them down for future review.
+
+Finally, they passed through a kitchen that seemed endless. After they made their way through the industrial behemoth, they reached a smaller, more cozy area. It contained a kitchen and dining room separated by a half wall.
+
+“Sit. While I cook, we can get to know each other a little more.”
+
+The woman flicked her feathers behind her ears and smiled at them. Tara seemed like she was going to squeal again, but bit a knuckle to restrain herself. The rest of the team perked up in anticipation.
+
+“So Matt said that you all came from the same world. Lily, I believe. I wasn’t in that part of the Empire when it was settled. Dreadful thing that the local nobles did.” She tapped a wooden spoon like she was going to slap them upside the head.
+
+Melinda took it for a comical gesture, but considering Baxter’s reluctance, she revised her opinion about the woman only speaking idly.
+
+Unable to hold back any longer, Melinda asked the question that had been bugging her.
+
+“How is Matt doing? He hasn’t responded to our messages in a while.”
+
+The woman paused and looked down through the floor, like she had done when finding Baxter.
+
+With a bright smile, she laughed. “He’s doing fine. Better than fine. You could say he found a new path to follow.”
+
+That was cryptic enough to cause Melinda’s heart to clench for her friend.
+
+Quickly she asked, “He’s ok though, right?”
+
+Her husband, the traitor, laughed. “I’m sure he’s doing fine.”
+
+Aunt Helen winked at Mathew. “He’s doing great. Recently he was given an opportunity to push forward on The Path, and he took it. Now, he’s in a race to the top.”
+
+The woman had started cooking during the short conversation, and a divine smell wafted out of the half-wall kitchen. Melinda had to wipe her mouth to make sure there wasn’t any drool.
+
+Checking her team, she saw that Tara was the worst, and noticed her visibly licking her lips. While Melinda couldn’t blame her, with all the amazing smells bombarding them, everyone else at least had the self control to keep their hunger under wraps.
+
+“So, have you all decided to take the war declaration?”
+
+That got the team talking, but Melinda noticed how the woman skillfully guided the conversation around, and asked questions of anyone who seemed to get left out of the discussion.
+
+Melinda was taking notes. The woman knew how to be charming, as well as disarming. It made her wonder how this woman would make a blunder like bursting into their house. It didn’t make any sense. But as she was about to question the oddity, their first dish was served.
+
+The soup was the first indication that this wasn’t the simple meal Melinda expected.
+
+No.
+
+They each received a different dish. Mathew had a soup with tomato and potato, as if she already knew it was his favorite. There was even a small corner of golden grilled cheese.
+
+Melinda had a bowl of thick and creamy chicken noodle soup.
+
+The first spoon removed any resistance that Melinda had left. She was returned to her childhood home, and re-lived the memories of her mother feeding her when she was recovering from a sickness, along with the subsequent healing.
+
+Still, the recipe wasn’t the same as her mother’s. As much as she wanted to deny it, this was better in a million different ways, but it didn’t diminish the memory. In fact, it improved it.
+
+Before she knew it, Melinda had finished her bowl and was scanning the table, when a second plate came for them. Everything after that was a blur, as each of them were fed individual, seven-course meals.
+
+The meal ended with a small scoop of ice cream that tasted as if it was freshly made, and Melinda met eyes with their host. She wore a grin that was seven parts confidence. The feather-haired woman had the right to be proud.
+
+Any questioning of the meal being the best she had ever eaten was gone after the soup, and further shattered as each course followed the one before.
+
+Finally, their host clapped her hands and beamed, “Now I believe it’s time for Matt’s gift.”
+
+Suddenly, the woman pulled what looked like a piece of the sky from out of nowhere.
+
+Melinda didn’t know what the thing did, but her Concept tried to reach out for it like a child wanting candy.
+
+Normally, she would resist anything that her Concept wanted, but this particular urge felt benevolent. But she quickly ran into what felt like a wall blocking her.
+
+She received a wink from their cook. “This helps people build their own Concepts, or beyond.”
+
+Melinda’s mouth dropped open, but Vinnie got the question out faster. “How did Matt get that?”
+
+Kyle got to the second thing that Melinda was worried about. “Can we accept that? Since we are on The Path...”
+
+Aunt Helen caressed Vinnie’s cheek and smiled. “It’s fine. You’re both on The Path, so there are fewer restrictions, and I can verify that he got it legitimately. I was there when he picked it up, after all. You are well in the clear.”
+
+The woman shook the shard of cloud, leaning forward and whispering, “I even happen to have a room that the five of you can use to ensure you get the most out of it.”
+
+Mathew cocked his head and asked, “Not all of us?”
+
+Aunt Helen met Melinda’s eyes, and for the first time that night, it seemed like the woman had seen right through her. It was as if the cook knew her better than she did herself.
+
+“Melinda is welcome to use it too. It would help her reach for her Intent as well, but it would just mean less for everyone else.”
+
+The look that followed was one filled with pity, and Melinda knew that the unspoken follow-up would have been, “And she doesn’t want to grow her Concept.”
+
+Melinda nodded, and the woman winked.
+
+Melinda turned to her friends. “Go, take it. I don’t need it, and it’s better to make sure that the advantage isn’t wasted. I can’t imagine these would be cheap.”
+
+It warmed her heart to listen as they protested leaving her out, but Melinda put her best mother’s face on, and marched them into the indicated room.
+
+There were cushions arranged in a circle that was surrounded by a series of lines and candles. When they all took a seat, Aunt Helen placed the sliver of sky into the center circle and stepped back. All the candles were lit, and Melinda could smell that they were special. Her Concept seemed to turn to butter when she got a single whiff.
+
+The shorter woman hooked her arm, and pulled Melinda along and to a cozy tea room.
+
+When she sipped the tea proffered to her, Melinda sunk into the couch and tucked her legs under her.
+
+As they sat in silence, she asked the older woman, “You set up the bursting into the house, didn’t you?”
+
+The woman gasped, and brought her hand to her mouth as if she was shocked, but Melinda noticed the twinkle in her eye.
+
+“Now, why would I do that?”
+
+“I noticed the trance my friends dropped in. It was too fast to be just the candles. It was the meals you made for them. They do something.”
+
+The woman cackled and examined her fingers, which were now talons. “I can’t keep my talons out of other people’s business when I feel it’s appropriate. That’s why I came to see you. I was already planning on visiting, even before Matt gave me the shard for you.”
+
+“See me?”
+
+Melinda couldn’t think why she would need to know the woman.
+
+“Oh, honey. I could feel you across the Empire.”
+
+Melinda was going to interject, but Aunt Helen spoke over her. “Let me get my story out, and we’ll see if that doesn’t answer your questions.”
+
+She cleared her throat, “A few dozen million years ago, shortly after the calamity that destroyed the only great union of cultivators, and killed off the strongest, there were no Great Powers or large organizations. Even planets had more than one faction trying to take over.”
+
+Melinda tried to picture that, but couldn’t. There had always been the Empire. Right?
+
+“It was long ago. As people and factions recovered, they grew in power and expanded out. It’s what we call the unification wars now. Similar ideologies flocked together and joined up. It was around that time when my husband and son died. My son just never came out of a rift, and my husband never recovered. He eventually dispersed his spirit and died.”
+
+The woman looked off to the distance for nearly ten minutes, but Melinda didn’t want to disturb her. She found it hard to wrap her head around that length of time that the woman had lived, but could sympathize with her losses. They were reminiscent of her own.
+
+“What you need to understand is that evolved beasts like me are given a Concept at Tier 5. It’s reflective of our bloodline or elemental affinity, sometimes both. But Concepts aren’t permanent. I never resonated with my fire Concept, so I willingly broke it and formed a Concept around the idea of family.”
+
+“When my family died, I was left adrift. When something like that hits you, and is so dissonant with your Concept, it can shatter. Mine did. And I’ve spent the last few million years trying to rebuild a vase from the dust that has scattered in the wind.”
+
+Melinda blanched at the revelation. “That’s horrible. I’m so sorry. I… ”
+
+The older woman patted her hand and gave her a bitter sweet smile. “I could have dismissed my Concept and started over again. Even made another family Concept. But I chose a much harder route, and slowly rebuilt my Concept over the years. I refuse to give up my last connection to my family. But my age and experience have changed my definition of family. These days, I consider the Empire my family. Now, I can feel when people who will change the Empire are rising up, and get a feeling for what they need. I knew when your friend Matt was leaving the Training planet he was on. He needed a little push, and it was the right time to give it. The Emperor wasn’t happy with how much I gave him, but it’s not like he didn’t get a helping hand in my kitchen.”
+
+Melinda nearly dropped her teacup when the woman in front of her talked so casually about the strongest man in the Empire.
+
+Aunt Helen continued, “Today, I’m here for you. Barging into your house was an accident that happily let me repay a slight. Funny how that happened.”
+
+“But you’re here for me? Why?”
+
+“Oh, I can feel that you hate your Concept. I’m here to tell you it’s okay if you wish to break it and start over. I’ll even show you how. If you don’t want to do that, I’ll act as an ear to talk to who understands. No pressure or judgment.”
+
+Melinda didn’t know why, but she started to cry at the woman’s words. The pain and frustration she had been tamping down further and further all slipped out in a wave of emotion. The more she tried to control it, the more she broke down, until she was a small ball of tears being rocked back and forth.
+
+She managed to get out through her sobs, “I don’t know what I want to do. It feels so evil. It makes me see so much pain in the world. But it also helps me heal. I don’t know... I don’t know.”
+
+“That’s perfectly fine.”
+
+***
+
+The next day, Melinda went to her morning shift at the hospital as if nothing was wrong. She even ate a breakfast that made everything else she had eaten feel like it was prepared by the deaf and blind. She was slightly surprised at the revelation that her friends would be in their trance for at least another two days. Apparently, the formation they had sat in would ensure that they got the full effect from the fragment of the ascension.
+
+Melinda owed Matt.
+
+She knew they were friends, and there should be no debt, but she had worried about her friends not getting their Concepts. It was the final hurdle to immortality. Now, even if they didn’t get their Concepts, they would be halfway through the race. It was invaluable progress, considering they hadn’t even known where the starting point was before.
+
+She stopped by a coffee shop and refilled her cup. Aunt Helen had seen how tired she was, and made her a cup of coffee that tasted like fluffy clouds on a spring day. The one she bought at the shop tasted like dirt in comparison, but it was hot and had caffeine.
+
+As she passed the streets, she saw crime scene barriers blocking off a bakery. A quick search on the CityNet told the story. There had been a series of murders in the bakery last night. Supposedly local crime lords were to blame.
+
+Melinda just hurried her walk into a jog. She had a feeling that would mean the ER would be packed, but when she arrived, there were hardly any people.
+
+Even though she was nearly an hour early, she checked in and got to work. Baxter was there and already glaring at her.
+
+Melinda just smiled at him. After their heart-to-heart, Aunt Helen had told her all about Baxter and how to handle him. The woman had dirt on everyone apparently, and had been happy to share over a night of giggles and whispered plans.
+
+She just smiled and let the man stew.
+
+Melinda felt good. She had gotten nearly zero sleep, but felt like she had made a friend in the older woman. She hadn’t come to a decision about her Concept, but somehow, knowing she could remove it lightened her outlook on the whole situation. Now there was an option, and she wasn’t in a hurry to decide either way.
+
+Aunt Helen provided a valuable lesson. If she broke through to Tier 15, she didn’t have to worry about time, and then Melinda could decide without added pressure.
+
+Her first patient came in while snacking on a box of assorted donuts.
+
+“Eclairs? They’re great. Try one.” Mr. Millson offered one, and as she chewed on the proffered treat, she scanned him for any maladies.
+
+Remembering his idle chatter on the train, she asked, “Did you have your wild orgy last night? You seem chipper this morning.”
+
+“Oh, it was delightful.”
+
+Melinda kept up the small talk as she healed the man’s extensive cancer. She was honestly impressed that the man was up and walking. It was an impressive showing of will power and drive.
+
+He walked out immediately after he was healed, still munching on the savory sweets.
+
+Baxter took that opportunity to speak up, “You know that he’s a contract killer, right?”
+
+She turned and raised her eyebrow at the grumpy man.
+
+“Did you notice the label on the box of eclairs?”
+
+Melinda had to check her AI, but it was the same as the bakery involved in the killings the night before .
+
+She shrugged. “It’s not my business to judge people. I’ll heal anyone who comes in.”
+
+“Does that change if his victims were brought in? What if the person was truly evil?”
+
+“Then I would heal them and happily watch them be handed over to authorities. If you’re so concerned, why don’t you capture the man and send him to prison yourself?”
+
+Baxter just scoffed at her, and Melinda smiled.
+
+Today was a good day.
+
+***
+
+Aunt Helen had been wrong about when her friends would exit their seclusion. It had taken more than the estimated three days. Only after the fourth day passed did they all seem to wake up and stumble out, at nearly the same time.
+
+Aunt Helen, the miracle of culinary perfection that she was, stuffed sandwiches in their hands before sending them off to bed.
+
+The next morning, they were bright-eyed and bushy-tailed. They all had their phrases and ideas on their images.
+
+Melinda kept Mathew busy for long enough that they were catcalled by the others.
+
+She just flipped them all the bird and sat on his lap. They were married, and she knew they were happy for her, but they teased them all the same.
+
+As they sat around the comfy couches, Melinda asked the looming question.
+
+“Are we still doing the war?” She hoped getting closer to their Concepts would mean they didn’t want to, but she knew it was foolish. They all eagerly jumped at the chance.
+
+Sam looked to their host and asked, “Do you know if Matt will be there?”
+
+Aunt Helen laughed, “Oh, he wasn’t given a choice. He’ll be fighting.”
+
+Vinnie looked around, “So what side should we choose?”
+
+Sam kicked him. “The alliance of Queens. Everyone knows Queens are better than Kings.”
+
+Melinda laughed at the reasoning. It really didn’t matter which side they chose. It was largely a nonissue. She had read the provided information while her friends were in their trances, and it seemed like it would be heavily monitored. Points were dependent on participation, so it was what they did that mattered, not who they did it for. Apparently, the AIs watching the event could account for disparity in numbers and such, so it might be better to be on the losing side from a pure points perspective.
+
+But, she still threw her vote in with the other girls. That made it a tie, as the boys used the same logic to say that the kings were better.
+
+Kyle tried to add some logic. “We should choose whatever side Matt is on. If he’s participating, we want to be on his side.”
+
+They all looked to Aunt Helen, who simply sipped her tea. “Oh, that would be telling.”
+
+The older woman winked at them, and Melinda was pretty sure that Tara was uncomfortable.
+
+Sam kicked the balance once again by adding, “Think about it. The Emperor allowed this war, so he must not be happy with the Kingdom. Otherwise, why would he allow this?”
+
+That was enough for Vinnie to change his vote, to the caterwauling of the other two. Melinda gleefully pressed accept and watched it be confirmed by the other four.
+
+Mathew tickled her, and it turned into a little brawl.
+
+Two days later, they were seen off by Aunt Helen, and dropped off at the meeting point for everyone who was on The Path.. According to Aunt Helen, teleporting from planet to planet would be too slow, and they would enjoy this one form of transportation.
+
+Melinda tried to turn Tara around, who hadn’t talked her eyes off the portal Aunt Helen had sent them through.
+
+“You ok, Tara? You’ve seemed off the last few days. Did you not like Aunt Helen?”
+
+Tara looked at her like she was stupid. “Like her? I intend to marry that woman!”
+
+...What?

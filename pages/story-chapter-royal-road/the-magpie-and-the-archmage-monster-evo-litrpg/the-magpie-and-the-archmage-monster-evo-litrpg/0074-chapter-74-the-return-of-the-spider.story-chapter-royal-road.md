@@ -1,0 +1,179 @@
+---
+id: 5ba7516f-effa-598c-90f4-6c2bd6e3a1d1
+page-type-slug: story-chapter-royal-road
+title: "Chapter 74 – The Return of The Spider"
+slug: 0074-chapter-74-the-return-of-the-spider
+partOf: the-magpie-and-the-archmage-monster-evo-litrpg
+position: 74
+ownLength: 2113
+unit: words
+publishedAt: 2026-01-21
+link: "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2963524/chapter-74-the-return-of-the-spider"
+royalRoadId: "2963524"
+---
+
+Liora watched the poisoned dragonflies struggling on the water's surface. It appeared that they didn't have any poison immunity, and before long, Liora was flooded with notifications.
+
+[You have defeated <Giant Dragonfly – Level 21>. Experience gained.]
+
+[You have defeated <Giant Dragonfly – Level 24>. Experience gained.]
+
+[You have defeated <Giant Dragonfly – Level 23>. Experience gained.]
+
+[You have defeated <Giant Dragonfly – Level 21>. Experience gained.]
+
+[You have defeated <Giant Dragonfly – Level 22>. Experience gained.]
+
+Now I just wait.
+
+Liora eagerly waited for the giant fish to suck in the dragonflies and get a good helping of poison in its stomach. Once it did, then the fish itself would die, giving Liora massive amounts of mana and a chance to retrieve her glimmerstones and snatch the ones that the fish had been hoarding. She wanted to laugh with glee at how smart she was.
+
+But as minutes ticked by, Liora realized that the fish wasn't going to swallow these dragonflies. She waited some more, but their dead corpses just kept floating above the murky water.
+
+"Yeah, I tried that too. That fish is too smart to eat something poisonous. I suspect it's the guardian of this marsh," a voice suddenly said from behind Liora, and she took flight, startled.
+
+"Caw! Caw!" She screamed at the intruder, looking around and trying to identify it.
+
+How did a human manage to sneak up on me? My hearing isn't as good as Kiva's, but I still should have heard them coming.
+
+However, there was no human to be seen. Instead, hanging on the trunk of the willow mangrove was a spider. A big spider, easily the size of Liora when she took her magpie form.
+
+"Who the hell are you?!" She screamed at the spider.
+
+"You already forgot me? I'm hurt. I even kept your talkative rock safe for you," the spider put its front leg to its face, wiggling them slightly. Was it pretending to cry?
+
+"Wait… You're that spider?! How can you talk?" Liora asked, flying just a little bit farther away from the tree.
+
+"I evolved. And how can you talk?" The spider shot back.
+
+"Mimicry," Liora replied curtly.
+
+"I have a trait called Vocal Cords, which allows me to talk. Total ripoff in my opinion. Why out of all things did I become a spider?" The spider whined, flailing its front legs miserably.
+
+"You weren't a spider before?" Liora asked, landing on a branch some distance away from the spider.
+
+"No! I was human. I can't remember much of my past life, but I know I was human. But then, somehow, I became a spider. Let me tell you—it was horrible. You were a human before, too, weren't you?"
+
+"Yes. I didn't think there was somebody else like me around."
+
+"Initially, I didn't think so either. All my spider brothers and sisters acted like real spiders. All the animals and monsters I encountered were no different—most were trying to eat. Thank God for the System, or I'd be dead on day 1," the spider said, scuttling to the same branch as Liora.
+
+"You got System on day 1?"
+
+"Yeah, didn't you?"
+
+"No, I had a magical rock install it."
+
+"How does that work?"
+
+"I have absolutely no clue. He's out cold right now, so I can't ask either."
+
+"The rock is out cold?" The spider tilted its head in confusion.
+
+"Long story. He'll come around soon enough. But how come you got the system on day 1, but I remained a magpie for two years without one?" Liora asked.
+
+While she obviously loved being a magpie, there was still some injustice that another reborn human had access to the system, but she didn't.
+
+"Maybe it's because I am a monster spider, not a regular spider," it raised its front legs in an approximation of a shrug.
+
+"Do you remember why you were reborn?"
+
+"Not a clue. But I am honestly glad to see you. You know I wanted to talk to you when we first met, but I couldn't talk back then. And you were kind of giant and scary. I worried you might eat me if I did the wrong thing," the spider said.
+
+"I don't eat spiders if I can help it," Liora said.
+
+There was a moment of silence as the spider seemed to assess her, but then it nodded. "Happy to hear that. I am called Cee, by the way."
+
+"Cee? Like the letter C?" Liora asked, hopping closer.
+
+"Yup. I remember that my human name definitely started with the letter C, but I can't remember the rest of it. So I decided to just stick with Cee."
+
+"Makes sense. I'm Liora."
+
+"Nice to meet you, Liora. I'm surprised you managed to remember something from your last life. Every memory feels so painful and hard for me to remember."
+
+"Oh, no. I didn't remember it. I don't remember any details about myself or my life as a human. It's more general knowledge. The shiny rock was the one who named me."
+
+Liora could see Cee blink all eight of her eyes. "The rock named you? What's up with that rock of yours? Is it another reborn human who was so unfortunate to become a rock?"
+
+"No, he's just a drunk wizard who got imprisoned for being overly powerful or something like that," Liora explained. "In either case, what are you doing here, Cee?"
+
+"Training. I want to evolve and become more human-like. Do you know how difficult it was to learn to walk with eight legs? And how trippy it is to have eight eyes? I mean, I'm used to it by now, but I'd still prefer human legs, thank you very much. Aren't you doing the same thing?"
+
+"Well, yes and no. I am training to evolve, but I don't really want to become human again. I am trying to get the rock to be a human again."
+
+"Even rocks can turn into humans. This world is so weird!"
+
+"I know, right! And everything is constantly trying to kill me."
+
+"Exactly! I mean, some animals in the human world can be scary, but here everything tries to kill you."
+
+"It's like Australia on steroids."
+
+The two of them laughed in their own weird way, Cee's laugh resembling a gentle hissing of sorts. But Liora definitely felt a sense of camaraderie with her. Another human reborn as an animal, struggling to survive in this crazy world. Well, Liora wasn't struggling before, but she was forced to struggle due to a certain shiny rock.
+
+"So you want to team up? I'd love some aerial support in a place like this," Cee said.
+
+"Sure. I wouldn't say no to some help. Especially when it comes to beating those nasty cranes," Liora said, looking at the one, trudging through shallow muck somewhere in the distance.
+
+"Ugh, I hate those guys. One of them nearly ate me," Cee said.
+
+"One of them nearly killed me. It's the reason why my shiny gem doesn't talk anymore," Liora said. "After I tried to save it from a python."
+
+"That ungrateful son of bitch. I'd say some well-deserved justice is in order," Cee said.
+
+Liora nodded, but then deflated. "But even if it's two of us, I don't think I can just attack it head-on. No offense, but you're a spider. Last I knew, spiders don't walk on water. Even if you did, the fish would eat you."
+
+"On my own, I wouldn't be able to do much. I excel at laying traps and weaving webs. However, I can't lure anyone into those webs in this setting since I don't really have a place where to set my feet," Cee explained.
+
+Liora looked at her, and then it clicked. "But I can lure them for you."
+
+"Exactly!" Cee cheered, lifting her two front legs up and wiggling them in the air.
+
+"So what's the plan?" Liora asked, hopping closer to the spider.
+
+Cee then went into intricate detail on where and how she would lay out her webs and how they worked exactly. As it turned out, in her evolution, she had become an Elemental Web Spider. She had wanted to be a mage and went on a long rant about cool and amazing magic. Renir certainly would be happy to talk to this spider once he woke up. But unfortunately for magic-loving Cee, she didn't have any evolution that would make her into a magical spider. Not yet, at least.
+
+But she could pick the Elemental Web Spider, which allowed her to weave webs of various elements. Liora had no clue how that could even work, but this was a magical world where magpies and spiders could apparently become humans if they fought enough monsters. So there wasn't really much that Liora would discount as impossible.
+
+"Alright, so the cranes are birds, right? If we paralyze it with my lightning web, then it will be easy to finish it off," Cee said and then hurriedly moved her front legs, creating a small thread out of seemingly thin air.
+
+Liora looked at it carefully, seeing tiny sparks come off from the nearly invisible web. But as impressive as it was, she shook her head. "I tried to paralyze it, but it didn't work. Don't you have something else?"
+
+"You can paralyze others?" Cee asked in shock.
+
+"I can mimic sound-based moves. I fought these toads back in the day that could paralyze others by croaking. I mimic those croaks and paralyze others. But my skill didn't work on the crane. It has worked on most enemies, at least slowing them down a little," Liora explained.
+
+"Why would a crane be resistant to paralysis?" Cee wiggled her front legs in frustration, throwing the small thread she'd woven into the water.
+
+"I don't know why. I just know that it is," Liora replied.
+
+Cee let out some weird sound, which she imagined was a spider's sound for disappointment, and began weaving a different thread. A few moments later, she presented it to Liora. "This is a frost tread. I haven't used it much before, since paralyzing anything that got into my web seemed faster, but since those webs are out of the question, this is the best one I've got."
+
+"I guess we'll try the frost web," Liora said, although she wasn't sure about its effectiveness.
+
+"Don't sound so disappointed. I'm sure you'll love it once you see it in action. Now let's talk about our battle plan," Cee said, and then she showed Liora how her webs were hidden.
+
+It was a masterful trick of the light. Look at the web at just the right angle, and you'll see the gentle, light blue threads that exude a bit of cold. But looking at the web straight on, you didn't see a thing.
+
+"I'm going to leave an opening for you here, right by this branch. Do try to hit it because it'll be a mess untangling you, and I'm afraid you might lose a few feathers in the process," Cee warned.
+
+"If I lose my feathers, you'll lose a leg. I just went through the most infuriating molt of my life."
+
+"Then don't miss this opening. I'll make it just wide enough for you, but not wide enough for the crane, just in case it follows the same trajectory."
+
+"Alright. Then I'll lure it here and get it into your web," Liora said.
+
+"Yes. I'll be hiding out of sight," Cee said. "Good luck, Liora."
+
+Liora watched the spider hide between the branches, her dark carapace, or was it called chiton? Whatever it was, her body had blended in with the dark bark of the tree quite well. Perhaps, she had a weaker stealth skill of her own.
+
+Meanwhile, Liora carefully chose her target. The crane hunting in the shallow waters would do. It wasn't the same one that had put Liora on death's door. Its name was yellow, not orange. Nonetheless, Liora didn't intend to just announce herself to the crane and let it chase her.
+
+Oh, no. She used Fade to get closer to it, and then just as the skill's effect ended, she recreated the maniacal cackle of the gnoll.
+
+[You've successfully mimicked the skill <Maddening Cackle>.]
+
+The crane staggered and let out an angry screech, trying to peck Liora. But she was already flying towards Cee's web, watching the confused bird fly after her. Its flight was unsteady, and it nearly crashed into a tree at one point. Liora had no doubt that it wouldn't be able to avoid Cee's trap.
+
+The air grew cold as Liora got near the web, Cee looming in the shadows and ready to strike.

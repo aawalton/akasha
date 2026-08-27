@@ -1,0 +1,183 @@
+---
+id: fbd17c17-ea96-5ce3-a871-54e6d94f0012
+page-type-slug: story-chapter-royal-road
+title: "Chapter 116 – Beneath the Waves"
+slug: 0116-chapter-116-beneath-the-waves
+partOf: the-magpie-and-the-archmage-monster-evo-litrpg
+position: 116
+ownLength: 2042
+unit: words
+publishedAt: 2026-04-29
+link: "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3331851/chapter-116-beneath-the-waves"
+royalRoadId: "3331851"
+---
+
+Morgana didn't like this man, not one bit.
+
+That was even before Liora warned them that he had apparently somehow tracked her all the way to the clinic. The fact that he had arrived together with Sallie was bad enough. It meant that he had somehow convinced Morgana's dearest friend that he was trustworthy.
+
+At first glance, he didn't seem like anything special. Just another bespectacled nerd following his own obsessions and ideology. He spoke in lengthy terms when asked to describe the situation in Sunvale, but it could be summarized as the town was slowly dying out because of corruption, but then one day it disappeared.
+
+"Why do you think the corruption disappeared all of a sudden, if it's been strengthening for decades?" Sallie asked, while taking meticulous notes.
+
+Morgana smiled a little. Her friend was always looking for ways to help people, studying hard and learning about things she barely had any understanding of. When Sallie had declared that she would take care of the corruption issue personally after Renir disappeared, Morgana couldn't have felt prouder and offered to help.
+
+"I believe that whatever was the source of the corruption and likely hidden in the Blightpeak mountain, among the thickest of miasma, was eliminated," Dr. Reius said, fixing his glasses in place.
+
+"A source you say?" Sallie said thoughtfully. "But how could it have been eliminated all of a sudden?"
+
+The doctor's eyes lit up. "I believe it was the work of a Divine!"
+
+"Divine?" Morgana and Sallie looked at the man dubiously.
+
+"Yes! A rather young one, likely not yet fully acquainted with its power, but a Divine nonetheless. You see, there was a series of strange occurrences in Sunvale right before the corruption disappeared."
+
+"What strange occurrences?" Sallie questioned.
+
+"It first started with a significant decrease in monsters in the area. People of Sunvale always feared leaving town because of the frequent monster attacks. Not to mention all the damage done to the livestock. It was the reason I was held in such high regard—as a vet, I worked tirelessly to save animals injured in attacks. While not always successful, sometimes saving a cow or a goat ensured that the family wouldn't starve."
+
+"But at one point, the attacks decreased significantly, and soon stopped altogether. It was safe for people to leave the town to gather firewood and whatever little food they could find in the nearby forests."
+
+"I don't see how this is related to a Divine," Morgana said, not bothering to hide her skepticism.
+
+"This was only the beginning. After some time when attacks stopped, a group of mages visited Sunvale, as they tended to do every few months," Dr. Reius continued.
+
+"A group of mages?" Sallie questioned. "They came regularly?"
+
+"Yes. Nobody knew why, but they always demanded food from the villagers, then would head up the mountain and leave a few days later."
+
+Morgana frowned. Mages heading straight into a corrupted mountain. They must have been the goons from the Order of the Night King. Wherever those guys appeared, corruption always seemed to follow.
+
+"In any case, it appeared that something had occurred in the mountains. One day, they were walking around town, searching for a black bird. Birds are not common in Sunvale, but there had been one that had arrived shortly before the mages—a magpie. It had been injured, and I nursed it back to health."
+
+"A magpie?" Morgana narrowed her eyes.
+
+"Yes! An absolutely beautiful specimen. Larger than normal magpies, mind you, and incredibly intelligent. Everyone in town believed it to be a good omen, and it turned out to be true."
+
+The doctor then retold a lengthy and rather hard-to-believe tale of this magpie being captured by the mages and local kids freeing it. This enraged the mages, and they threatened the lives of the kids, only for them to be saved by the very same magpie. Apparently, it had fought the mages and defeated them.
+
+"No way!" Morgana shook her head. "How could a tiny magpie defeat fully fledged mages? That's impossible!"
+
+"I would have thought it impossible too, had I not witnessed it myself. However, that's not all. Shortly after the mages disappeared, there was a bright flash of light coming from the mountain at night. After that, the corruption slowly disappeared from the area. Unfortunately, the magpie disappeared as well, but I believe that it was the one to cleanse the area."
+
+"A magpie cleansing corruption? Do you know how ridiculous that sounds?" Morgana said, slapping her hand down on the table.
+
+This made the man flinch for a moment, but he quickly recomposed himself.
+
+"I agree. It does sound ridiculous, but I believe this magpie is a young Divine that will slowly—"
+
+Morgana stood up abruptly. She had heard everything she needed to hear. "I can't listen to this drivel anymore. We have more pressing issues than dealing with your magpie fantasies. Corruption is a real problem, and we need a real solution!"
+
+"Please listen to me, honored Pillar of Azure Helm. I believe that the solution is already in your hands. The bird that you had with you, had it not shown any peculiarities or signs of increased intelligence? I believe it is  actually the very same magpie that saved Sunvale—"
+
+Morgana let out a loud snort. "Do you require new glasses? My bird is clearly an eagle! Not a magpie. I'm leaving, Sallie. I can't listen to this nonsense anymore."
+
+Sallie nodded peacefully, remaining to talk with the doctor. Morgana stormed out of the room, although she had heavy unease sitting in her stomach.
+
+In reality, she didn't doubt that the magpie from Sunvale was Liora. It made perfect sense. She'd seen her purge the corruption from a proto-dungeon, and she admitted to cleansing a half-corrupted badger before. Not to mention the fact that Liora said that she had met this doctor before she evolved into her current form.
+
+Liora likely had acted under Renir's orders, however if people were starting to notice her presence, it could quickly become dangerous for the bird. Many could crave to obtain Liora for themselves. Or even go down the same path as this doctor, believing her to be a new Divine in the making. In either case, this was troublesome.
+
+"I need to fix that somehow…" Morgana muttered. Perhaps it was time to strengthen their tale about the Pillar of Lost Magic operating from the shadows. That could take some eyes off Liora, at least for a little while.
+
+***
+
+"Underwater? Are you sure?" Liora asked, looking into the waters below. They looked deep… Who knew what kind of monsters lived down there?
+
+"There's literally only two places here: the sea and the sky. I can tell you that the mana didn't come from the sky," Cee said.
+
+Liora let out an angry caw. "Can we even attune the crystal underwater?"
+
+It could be troublesome if we relied on inscription paper, but Cee's webs wouldn't dissolve underwater, would they?
+
+"Renir says you'll have to weave webs underwater," Liora said.
+
+"What?! I can't do that," Cee protested.
+
+"Have you ever tried?" Liora asked.
+
+"Well… No. But it seems so unnatural…"
+
+Worst-case scenario, I can create a small air bubble underwater for a short while for Cee to weave the attunement ritual.
+
+Do you really have enough mana to do something like that?
+
+Not for long. Cee will have to work fast. But we can always try again if it doesn't work out the first time. It's all about trial and error.
+
+"Apparently, he can create an air bubble underwater for a short while, so you can weave your web," Liora relayed the information.
+
+"No! You can't pressure me like that. I am terrible with anything resembling a time limit. It stresses me out and makes me mess up…"
+
+"Don't worry, he said we can try again…"
+
+Liora and Cee let out a collective sigh. This was likely going to be a long day.
+
+"I suppose we should start by pinpointing the mana node first. How do we do that?" Liora asked, mostly to Renir.
+
+Use your Treasure Sense.
+
+Liora blinked for a few moments, then realized that it would indeed be the easiest solution to the problem.
+
+"I'm not sure. It's too blinding for me to be able to tell…" Cee said regretfully.
+
+"It's okay. I'll try using my Treasure Sense."
+
+"But… that's not a treasure…"
+
+"No worries. I've fooled the system before into leading me to the exact thing that I want. I just need to condition myself to believe that mana node is a treasure," Liora explained.
+
+"I mean…" Cee thought about it for a moment. "It is a rare place with loads of mana coming out of it. Certainly treasure worthy. And finding it would improve the Resonance Crystal and the bracelet, so that makes it even more valuable. More value means it is definitely a treasure."
+
+"Yeah! Exactly. You're in the right mindset," Liora said, taking each of Cee's words to heart. She repeated them, believing wholeheartedly and nudging her Treasure Sense to point her in the right direction.
+
+After a short while, she felt it. A strong pull some distance ahead of them, down in the deep sea waters.
+
+"I think I feel it, but… It's rather deep down. Can you stay underwater for that long?" Liora asked nervously.
+
+"How long can you remain underwater?" Cee asked.
+
+Liora brought up the description of her skill to make sure.
+
+[Fluid Flight – Converts aerial movements and skills into underwater counterparts. At [Adept] level, you can remain underwater for 30 minutes without needing to resurface for air.]
+
+"Half an hour, apparently," Liora informed.
+
+"I think I'll be fine. It worked out while we were fighting on Morgana's ship," Cee reminded.
+
+"That's true. But here we don't have the convenience of the ship."
+
+I suggest we make one attempt today. If it doesn't work out, we'll fly to the nearest piece of land and rest there for the night. It's best if we approach this cautiously.
+
+"We're making one attempt today," Liora informed Cee.
+
+"Good. I don't think I could handle more anyway. I'm not a water spider after all."
+
+Liora flew forward, positioning herself so she would be right above the mana node. Once she was sure that Cee was secure on her back, Liora dove down into the water, trying to be as ginger as possible to not throw off the spider on her back.
+
+It was an unpleasant dive, as Cee grasped onto Liora's feathers rather painfully. But once they were underwater, she relaxed her grip. Everything seemed rather empty, aside from a few small fish swimming about.
+
+At least there are no monsters around here.
+
+Don't celebrate yet. They might be deeper down. Swim down carefully, and watch your surroundings.
+
+Liora swam deeper into the water, following her Treasure Sense and desperately hoping that the timer her Fluid Flight gave her would be enough. It was a bit annoying, because the sea appeared bottomless. Above water, it always felt like she could see everything. Her vision here was limited.
+
+It made sense; she didn't have any water-specific adaptations for her vision, and it wasn't that she couldn't see. It just wasn't as good as above water.
+
+For a while, swimming down didn't bring any changes. It was just water, water, water with some occasional fish. Liora was seriously starting to doubt whether she could make it to the mana node. But then she noticed something in the murky depths. Something that looked awfully a lot like a castle. Only made out of smooth rocks and seaweed.
+
+Oh no…
+
+Oh no? Why are you saying "oh no"?
+
+Swim back up!
+
+Liora didn't know what was going on, but if Renir was panicked, then she didn't want to stick around to figure it out. She whirled around and began swimming back to the surface. Thankfully, swimming up was easier than swimming down as her natural air sac made her rather buoyant.
+
+But before Liora could reach the surface, she received a concerning notification.
+
+[Your skill <Predator of the Deep> has reached [Novice] level.]
+
+Shit, shit, shit!
+
+Liora dared a glance down and saw several half-human, half-fish creatures swimming straight at her from the depths.

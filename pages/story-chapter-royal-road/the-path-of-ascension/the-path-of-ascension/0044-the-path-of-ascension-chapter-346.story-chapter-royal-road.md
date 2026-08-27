@@ -1,0 +1,319 @@
+---
+id: 1872edde-6ea0-547b-9315-068d19d6fb0e
+page-type-slug: story-chapter-royal-road
+title: "The Path of Ascension Chapter 346"
+slug: 0044-the-path-of-ascension-chapter-346
+partOf: the-path-of-ascension
+position: 44
+ownLength: 5426
+unit: words
+ownProgress: 5426
+publishedAt: 2024-08-30
+link: "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/1781302/the-path-of-ascension-chapter-346"
+royalRoadId: "1781302"
+markedReadAt: "2026-06-29T19:19:02.240Z"
+---
+
+Chapter 346
+
+Matt and Shadi’s conversation ended up lasting for a full six hours before Cato’s repeated reminders that he needed to mingle with other guests finally built up to the point that Matt couldn’t ignore his duties any longer, and he made his excuses before returning to the party.
+
+By the end of the two weeks, Matt felt like he was crawling naked over poison covered spikes, and was grateful for the Emperor's official return. Let alone the time crunch it put on everyone who needed to return and prepare for the post-war open court.
+
+As they walked into the Moore estate, Matt’s mood finally turned around as he saw two people he was more than happy to chat with.
+
+Mara and Leon descended on them in an exuberant but quiet fashion, which immediately improved Matt’s mood.
+
+It was good to see them again.
+
+They might officially be his in-law’s, but they were the only parents he had left.
+
+Sadly, the duo couldn't stay too long as they were needed to help prepare the open court.
+
+Thankfully, as Ascenders, their participation amounted to showing up and glaring at any nobles who caught their eye.
+
+Manny did have to go and grab Allie, who had tried to avoid the open court, but as the lady of the hour, she hadn’t been allowed to skip out on the meeting. They all thoroughly enjoyed poking fun at her for her trying to run away from a Tier 50 who had her access to her Talent.
+
+Her whining was the only entertainment they had as the Emperor listened to complaints, issues, and self aggrandizing praise from more than half of the nobles. Most of it was completely beneath him, but it was the nobles’ right to speak in open court. That said, the act of airing an issue was usually more than enough to settle said issue between the aggrieved parties. If they couldn't figure it out on their own, that meant it was for the Emperor to get involved, and it became quickly clear why no one wanted that.
+
+Manny was ruthless to anyone who wasted everyone's time, and even dethroned a few nobles for their audacity to bring foolish issues before the court. On the other hand, the few who brought matters of import to his attention were greatly rewarded, though that only happened twice during the entire month-long meeting.
+
+Then it was time for accolades to be given, and Allie’s attitude finally turned around as she was heaped with medals and trophies for her efforts in the decapitation strike on the other Great Powers.
+
+Matt didn’t miss how a number of the nobles flinched when her ability to cross entire Great Powers was implied. Whether it was a guilty conscience or general worry, Matt found it amusing how they reacted, as it contrasted with how Allie complained the entire time about how people would now be asking for her to be a taxi now that her secret was out.
+
+Finally, the open court ended and they were pulled into the palace on Manny’s request.
+
+In the same office they had finished The Path of Ascension in, they sat across from Manny, who looked like Matt did when he saw how much paperwork was waiting for him.
+
+“I even have Talents for doing paperwork, but I swear I never catch up.”
+
+Aster gestured at it. “I can freeze it for you. Then it's basically handled.”
+
+Manny rubbed his temples. “I wish, but it would find its way back to my desk eventually. No, while I appreciate the offer, I’ll handle it. I just wanted to grab you three to reiterate something I’d never thought I’d need to say to Ascenders.”
+
+His gaze turned more serious, but Matt thought he saw a glint of amusement lingering in them. “You don’t need to hesitate or worry about me. I know you all have questions about who is plotting against you, and how you should handle them, but I won’t check. And even if I did know, I wouldn’t tell you.”
+
+Matt’s mouth clicked shut, as that was exactly what he wanted to ask.
+
+Manny tapped the corner of his eyes that pulsed golden for a moment. “Future sight is useful, but it can all too easily become a crutch. Even I use it sparingly, but that's still more than my Father would have found appropriate, and it's his Talent. Do what you want to do without worrying about my larger picture.” Looking directly at Matt, he added, “If a guild, corporation, or even a noble family or twenty get in your way, and you feel the best answer is to stomp them out, then stomp. Don’t worry about ruining my plans. I trust you to do what you think is best, and that is exactly what I want you to do.”
+
+His gaze traveled to Aster, and Matt felt like he could breathe again, despite not knowing when he had stopped. “If you find a particular bloodline still bothering you, or a corporation who tries to steal one of your flavors, do what you feel is necessary. I won’t stop you, and I’ll be there to pick up the pieces if it crumbles.”
+
+Matt felt a pulse of worry from Aster through their bond at the mention of someone trying to steal her unique flavors, and he grabbed her tail to give it a reassuring tug.
+
+Manny’s golden eyes tracked to Liz. “And if people from inside or outside the Empire try to put pressure on you for your bloodline or your noble choices, show them exactly what you are capable of. I’m here to hold up the sky, so don’t consider bowing your head because you think it might be an issue for me. That goes for all of you.”
+
+Manny’s serious expression vanished as he laughed. “I think this might be the first time any Tier 50 has had to remind their Ascenders to do what they want, but it’s damn refreshing. Usually I’m begging, bribing, or beating them to not cause too many issues. I trust you kids, but that's not because I think you will be perfect. It's because I believe in your core characters. You will make mistakes. You will fail. People will suffer because of the choices that you make because you aren’t perfect, but take it from someone who can see the alternatives… people will always suffer. All we can do is learn from our mistakes and try to make fewer of them next time. There is no perfect option, and remember that taking time to think and consider is itself a decision you’re making. Myself and the Royals are here to clean up messes more than anything else.”
+
+After glancing at the stacks of paper, Manny stood and brushed his pants before looking at Matt and Liz. “You two probably need to hurry. The Republic is bringing your first planet sooner than they said. A change in chaotic space currents has let them speed up the delivery. As for you, Aster, your first planet has a little time so you can do whatever you want.”
+
+Aster nodded and tossed a ball of flame onto Manny’s desk, shocking all of them. It failed to light any of the high-tier papers on fire, but a couple of reports did collapse into ash.
+
+Manny cackled. “Ah, see, this is why I love Ascenders. I genuinely did not see that coming.”
+
+His laughter was still echoing in the room as he vanished a moment later.
+
+Aster looked sheepish as she shrugged. “I thought he’d block it if he really didn’t want them burnt. And like he said, it will make its way back to his desk.”
+
+Matt snorted and ruffled his bond’s hair. “You going to stick with us and check our first planet, or do you have something else to do?”
+
+“I don’t want to spoil my first planet, so I’ll wait until my planet arrives. Besides, I can use this time to put together an end of the war ice cream to celebrate. I’m thinking a variation of that almond flavor I made a few years ago.”
+
+Matt had liked that flavor and said so as they walked through the palace to where they caught back up with their seneschal’s.
+
+After saying their goodbyes, Aster flew off with Alice floating next to her. Their duchies were going to be placed next to each other, so they would see each other sooner than later. That just left Matt, Liz, Cato, and Isabella to go to their Horizon class cruise ships that had been docked in orbit since they completed The Path.
+
+They played a quick game that Matt lost, so they boarded Liz’s ship while Matt’s traveled next to them as they moved to the spot where their duchy would be.
+
+Almost two months later, they arrived at one of the closer borders. They were on the frontier border, which meant they would be the nearest planets to unclaimed chaotic space as their duchy filled in, but they were also close to the border regions of the other Great Powers, which made the upcoming transfers easier to carry out. It was just a matter of unlinking the planet from its neighbors and nudging its drift towards their location in chaotic space, which, so long as nothing went wrong, was just a matter of releasing the planets at the right time. They were still getting their fair share of border worlds, of course, but for a variety of reasons, a substantial number of their planets were arriving from afar.
+
+Amusingly enough, Lily arrived before Soerilia thanks to the efforts of a Tier 40 who took advantage of those same currents. As the teleportation nodes were already built planetside, it was fairly easy to retie Lily and its universe into the Empire’s network, and the Tier 40 did it in just a few minutes. Once the teleportation tether was established, a tether of golden white energy pulsed through chaotic space, preventing the world from drifting off.
+
+It wasn’t hard, thankfully, the design being long standardized and almost automatic with the caster only needing to be able to connect the two planets' representations in chaotic space with their spirit. Matt or Liz could have managed to do it, but the Tier 40 was happy to assist and it would have been rude to say no.
+
+Matt and Liz only intended to pop into Lily long enough to check in with Baroness Margaret Thresh, but they were pleasantly surprised to find Countess Abigail Sural waiting with the baroness in her baronial palace.
+
+With their Tier advantage, neither he nor Liz were noticed, and with a glance, they slowed their approach from orbit to inspect the rest of the planet.
+
+“They are celebrating you.” Liz leaned in and whispered in a way that sent a shiver down Matt’s spine.
+
+Phoenix Liz tried to edge in, but got brushed off his shoulder by human Liz.
+
+It was never not amusing to him how Liz treated her two main bodies as separate entities, despite them both sharing a singular mind.
+
+Matt hadn’t mentioned it, but it was a clear fiction similar to how her parents acted around family. He found it adorable and knew any mention of being like her parents would make her self conscious.
+
+And she wasn’t wrong. Lily was celebrating and seemed like it had been for the last few weeks, if not longer. The planet wasn’t trashed, but the remnants of a prolonged celebration was clear from the overflowing trash cans and inebriated people napping in the soft glow of the moon or under the shade of trees, depending on where on the planet they were.
+
+If Matt had any question of what they were celebrating, it was answered by the numerous banners that proclaimed the Matthew Moore duchy, seemingly strung up between every other opening.
+
+It made him incredibly uncomfortable, but Matt hoped this extravagance meant they had gotten the worst of the partying out of their systems.
+
+Flying down to the not so new capital, Matt and Liz pinged Margaret that they were arriving and to please lower the wards. They could have just slipped through, but that would have been incredibly rude and stomping over Margaret’s autonomy as the reigning noble of the planet.
+
+Neither he or Liz wanted to be the type of duke who would do that, and it would make an awful first impression for the soon to be Marchioness Sural, if her presence meant she was taking them up on their offer.
+
+As they entered the entertaining room, Margaret and Abigail stood and bowed, but Liz waved them up before they could go through the full greetings.
+
+“We are in private, please be at ease and forgo the formalities.” Her smile turned into a grin as she nodded to the world beyond. “We saw that the planet seems happy about the change in location.”
+
+Margaret flushed slightly and eventually shrugged with an exacerbated sigh. “Crazy how a home grown Ascender taking their home planet into their duchy will make people go a little wild.”
+
+Matt rubbed a hand through his hair even as both Lizzes laughed. “Ah well, nothing I can do about that. How are you settling into the new location? The connection to Fal’sal seems to work properly.”
+
+“Well enough, I have exchanged a few messages with Baron Ren’kai but he felt it was better to wait for an in-person visit until your graces had settled in?”
+
+There was a lilt in the last sentence that implied a question, and Matt nodded to confirm. “We’d like to use Lily as our base of operation until our actual duchy comes in, so long as you agree.”
+
+“We would be honored, My Lord.” Margaret seemed genuine, so Matt continued.
+
+“In addition, I’d like to set up a guild research spot somewhere.” Seeing Margaret open her mouth about to offer way too much, Matt added, ”We don’t need much. I was going to expand one of the islands in the southern hemisphere. That way, we are out of the way but can still do rift testing. This is still your world, and neither of us want to interfere with your rule.”
+
+Margaret nodded and a small smile crept over Abigail’s face, which reminded Matt of her presence.
+
+Liz, however, spoke first. “It is good to see you, Countess Sural. We take your presence here as your acceptance of our offer?”
+
+Abigail turned a nod into a formal bow. “If the offer is still valid, I will gladly accept. I have already cleared the transfer with Duchess Felicity and have her provisional release and a younger cousin ready to take my throne.”
+
+Matt clapped softly. “Wonderful. Then I—”
+
+Before he could finish, phoenix Liz ‘accidentally’ smacked him in the face as Liz finished his sentence. “I bid you rise, Marchioness Sural. With your rise in rank, we remind you that said rank is to be used for the betterment of the Empire.”
+
+After shooting a dirty look at phoenix Liz, who just groomed a feather as if she didn’t see him, Matt repeated the same thing, completing the ceremony.
+
+As Marchioness Sural rose, Margaret congratulated her. “You deserve it.”
+
+Abigail demurred. “We’ll see. It's a major step up that I will have to work to ensure I don’t waste. I stand ready to be commanded, your graces.”
+
+Matt shrugged her comment away. “It’s not like we have any planets for you to control yet. You are free to do as you wish until then.”
+
+“Then let me act to reign in your soon to arrive vassals. A firm hand will be needed to keep them in line until they have their own lands.”
+
+After sharing a glance with Liz, Matt looked to Cato and Isabella, confirming the assignment.
+
+As the formalities were handled, things settled into a more informal mood and the four of them chatted after Cato and Isabella took their leave to finish settling and preparing for the arrival of Soerilia.
+
+It took another month and a half for Matt and Liz to feel the approach of the world, even while inside Lily’s real space. The presence of another world moving through chaotic space was like the rising tide, and anyone with enough range could sense the turbulence.
+
+After saying their goodbyes to Margaret and Abigail, Matt and Liz ripped their way into chaotic space, with Cato and Isabella following them a moment later.
+
+The four of them waited as a small firefly of light moved closer and closer through the corrosive energies of chaotic space.
+
+Planets with essence became dots of light, embers, or fireflies of light in the swirling darkness that was chaotic space and were typically called a world. Most worlds were their own entire universes, but that was only because a world was created when life on a planet reached the critical mass of mana for essence to form within the core of the world. That didn’t mean only a single world could exist in a universe at a time. You could travel to another star system in real space, create a new essence planet, and therefore another spark in chaotic space. It’s just extremely unlikely that the new node would be usefully close to anything in chaotic space, and they were entirely separate entities. That was the basis of real space crossings, which were used to cross great distances of chaotic space via traveling to a nearby real space star system that was one of the rare exceptions
+
+The term ‘world’ was generally the accepted one because, thanks to the ability to have multiple planets in a single star system, it was more appropriate to use the more generic term. But they were used so interchangeably that ‘node’ had been coming into fashion for any world that was linked into the greater whole of the eight intertwined Great Powers.
+
+Moving a world in chaotic space didn’t change its location in its local universe, and was generally not dangerous, but mishandling by someone a high enough Tier from the outside could all too easily destroy the local star system.
+
+Thankfully, nothing so dramatic happened with Soerilia.
+
+Accompanying the world was a Tier 40 who, after initiating the linkage between Soerilia and Lily, turned and said, “Republican veil world, Soerilia delivered and integrated safely. Do you have any reasons to reject the delivery?”
+
+Liz shook her head. “Delivery accepted in good condition. Thank you and we will take good care of the world.”
+
+The Tier 40 worked his jaw, shaking his head as if arguing with himself, before looking back to the planet and saying, “If you mean that, please remember that their ancestors had good reason to want to escape the rat race. The planet's representative is aware of the truth of the realm and can act as an intermediary. I just ask you to remember you are turning their world upside down, and try to have a little empathy for that.”
+
+With that, the Tier 40 vanished into the swirls of chaotic space and Matt took a moment to mull over what he said.
+
+He knew the Republic had a different outlook on cultivation, and Matt tried to put himself in their shoes.
+
+Giving a veil world to the Empire might feel like the Empire giving a world to the Federation, or to a lesser degree, the Sects. Except it would be even worse, as at least Empire civilians were aware of the greater realm, whilst these people would have no idea that they were just a small blip in the wider realm.
+
+That was where Matt had a disconnect.
+
+Supposedly, these peoples' ancestors had willingly chosen this, as though that was any kind of excuse for hiding the true nature of reality from their descendants.
+
+If the Republic didn’t allow people to shove their heads in the sand, these people wouldn't be having these issues.
+
+Still, the Tier 40’s words resonated with Manny’s.
+
+Matt looked to Liz and saw in her face that she felt the same way.
+
+They had been together so long, they didn’t need to speak to come to an agreement that they should tread carefully.
+
+With a thought, Matt pulled the four of them into Soerilia’s real space, using his Intent to cloak them from any type of surveillance.
+
+He had heard a lot of things about Republic veil worlds, but he had never seen one up close.
+
+As they floated above the planet, all four of them spread their spiritual perceptions across the planet and Matt raised an eyebrow at what he saw.
+
+It was only a Tier 3 world, but he hadn’t expected a population of almost a billion people. That just didn’t really happen on low Tier worlds in the Empire, but then again, that number was slightly artificial, as any planet that had been settled for close to fifty thousand years in the Empire wouldn’t have remained a Tier 3 world. It was still jarring, and took a moment for him to process it.
+
+What was more shocking was that there was a war going on.
+
+The very thought would be anathema on an Empire world.
+
+Sure, there might be a fight, a brawl, two guilds coming to blows, but a genuine war? That would never be permitted among the populous like what he was seeing.
+
+Matt stepped, and with flex of his Intent, arrived on the battlefield.
+
+Explosions went off all around him, but his clothes weren’t even rippled as he got a good look at things. Letting his perception reach Tier 26 levels, Matt let the action slow to a crawl as he stood there and watched.
+
+Why were they fighting?
+
+Just on this battlefield there were 217,159 men and women— men, Matt corrected himself, as the only women he saw were noncombatant healers, fighting.
+
+Having just fought his own way through a bloody war, Matt was no stranger to blood, guts, and gore. But why were they fighting?
+
+Why was a Tier 0 unawakened man pushing through waves of bullets to reach the next berm alone, after most of his group of fellow soldiers had already been felled by the stream of bullets? What drove a man to do such things?
+
+Matt wanted to reach out and stop this foolishness, but he tried to remember that as of yet he was an interloper. He didn’t know these people or why they would fight so fiercely.
+
+As the man fell in a spray of bullets, one which hit him in the chest and shattered the plate of ceramic that covered his torso.
+
+The plate had saved his life, but instead of laying there in the blood and boot churned mud, the soldier grit his teeth, forced his wounded arm under his body, and retrieved a grenade.
+
+He pulled the safety out with a yank of his teeth that cracked two of them, and threw the grenade into the berm where the bullets were coming from.
+
+The throw was almost perfect and bounced right next to the top of the berm and rolled in, even as Matt contemplated stopping the burning fuse.
+
+He wanted to. It would be the right thing to do. Why did these people need to die? What did their petty squabbles matter in the Empire?
+
+That thought is what stopped Matt from just stopping the war outright.
+
+He could do it with a thought.
+
+Unawakened mortals using mostly Tier 1 or Tier 2 materials could do nothing to stop him from ending this fight.
+
+Matt considered it, but instead, he looked and analyzed as his mind raced.
+
+The first thing he noticed beyond the war was the fact these people were speaking two different languages, neither of which were the standard Republican. Matt understood the idea of letting veil worlds develop on their own, but he found it hard to believe that the Republic didn’t even nudge things enough to stop such language drift.
+
+Language was a carefully controlled thing in the Empire, as the basics of civilization was being able to communicate with each other. The Empire would have never let things drift so far out of the baseline. But as Matt inspected more and more, he was shocked to see one of the two sides wasn’t even a republic. Instead, it was some kind semi-oligarchical, semi-communal governing system that he wasn’t sure made sense.
+
+Analyzing more of the world, he was shocked to see there were sixty three major languages spoken across eighty two countries, of which only two thirds of which had any semblance of a connection to the republic standard. The rest were a mishmash of communist, corporatocracy, feudalist, and weird mixes of all three.
+
+Matt just didn’t understand how any Great Power would allow such things to happen inside its borders. What if someone from one of the other government types became a cultivator?
+
+How did the Republic handle that?
+
+How did this not split their society through endless fissures and sub groups?
+
+As the grenade went off, Matt mentality nudged a few pieces of the shrapnel to ensure that no one died from the attack.
+
+Not willing to let such senseless death continue any longer, Matt sent a modest million mana into his [AI] and had it hack all the various nets he found.
+
+It took almost a full second to download and process the entire collective PlanetNet equivalent, but once his [AI] had done so, Matt had it send out orders from the countries’ respective leaders that there was a ceasefire going into effect.
+
+The generals on both sides tried to call their leaders to confirm the orders, but Matt’s [AI] intercepted the calls and faked their leaders' agreement.
+
+Liz appeared next to him, a spear manifested out of feathers clutched in her hand.
+
+“I took care of the other battlefields.”
+
+Her words were terse, but Matt fully agreed with her emotions.
+
+“I just don't get it. Why are they fighting?”
+
+Matt snorted as his [AI] had already processed everything and had given him a ready answer for that.
+
+The two countries had a small dispute that escalated into an ideological war that had already cost close to a hundred thousand lives, and seriously injured eight times that number.
+
+As Liz heard the answer, she shook her head. “This is senseless.” With a sigh she let her spear dissolve and Matt did the same with his buffs. It was just a reflex at this point even if wholly unnecessary against unawakened.
+
+As the ceasefire spread and bullets stopped flying, Matt marked a place on the planet.
+
+It was called the Arbitration Convention, a pseudo government, but not quite. Their stated purpose was to act as a diplomatic and political international organization, with the goal of mediating wars, disputes, and treaties as a neutral third party.
+
+But most relevantly for him, it would be where the planetary representative was. Even though not all of the political forces on this planet were full members of the AC, it was the place where the highest percentage of the planet’s population was represented. Therefore the planetary representative would be whoever was the nominal leader, chairman, councilor, or whoever had the highest authority of the group. It was their job to represent the entire planet in the eyes of the grander Republic.
+
+Matt wasn’t sure how much a mortal with a mortal’s lifespan could contribute to such a system. A single motion could remain in debate for longer than a mortal's entire lifespan let alone their elective tenure.
+
+That was doubly the case when the active Councilor kept changing every handful of years. There were probably five or six people who had served as the planetary representative, all of whom were sworn and bound to secrecy.
+
+Really, the whole thing was much too complicated by far, and wasn’t even in the service of anything worthwhile. People had a right to choose to pursue immortality, not to have some stuffy, overly old bureaucrat decide that no, they did want to make it illegal for anyone with a healing skill to come to the planet and heal people.
+
+Councilor Samuel, the active representative, looked far too old for the job he held, but he was at least alone in his office, which made things simpler.
+
+Matt almost teleported directly into the man's office, but not only would that be rude, he was genuinely worried that Councilor Samuel was old enough he might die from the shock. Councilor Samuel should have been informed about the transfer, but Matt didn’t want to risk it.
+
+With as much control as he had, Matt reached out and politely knocked on the door. He watched as the man swallowed and called for them to enter.
+
+He was actually speaking Republic standard, which Matt was grateful for, as with that, he could be sure there wasn’t any odd language misunderstandings muddling communication. His [AI] was good, but the languages it had processed had almost no relation with Republic standard in either word choice, syntax, or sentence structure.
+
+Matt took the time as he entered the room to inspect Councilor Samuel. Older, somewhere in his late sixties, but otherwise fit and generally healthy. Someone, potentially the Republic T40, had hit the man with a healing spell or two recently. As he wasn’t even awakened, it left no trace on the man’s spirit, but some portions of the man’s biology were in notably better shape than the tissues around them, which he could only really attribute to skills..
+
+Appearance-wise, he was like most darker skinned humans, with no non-baseline features which would have made him extraordinary, but the man had a presence to him that Matt rarely encountered in mortals. Not that he interacted with mortals too much these days, and Matt made a note that he needed to correct that immediately.
+
+“Good day Councilor Samuel, my name is Matthew Moore, and this is my wife, Elizabeth. We are the Empire representatives who have taken ownership of Soerilia. We are Dukes, and if you don’t fully understand that context, we can go over that in a few moments, but we would ask you to call for a gathering of the world leaders. I was informed that power is within your purview.”
+
+“Yes, sir.” the man’s heart rate spiked, “Sire? Your majesty? I… don’t want to offend you, but I don’t know how best to address you. I was given a lot of papers about your Empire, but I haven’t had the ability to read through them all. I mean no offense, sir.”
+
+Matt cringed at the obvious fear Councilor Samuel showed at his misstep. The man must think they were monsters to be that fearful of their reaction to a minor slip up.
+
+Liz shook her head. “We understand you're not fully up to speed with customs and courtesies. We won’t hold that against you, but we would appreciate you calling for that meeting as soon as possible. We have stopped three wars, and are trying to keep any more people from dying, but the fake messages to the generals will only hold up for so long before a real message gets through, so we need those leaders here immediately.”
+
+Councilor Samuel swallowed hard and Matt had a bad feeling about what he was about to say. “I don’t… have authority to call the assembly on my own, and it will be at least three days before they can. But to do that, we will need to bring in Councilor Jolene. She’s my counterpart within the Conventions, and it is her role to call the assembly, not mine. It will be somewhat difficult to persuade her, but… it will be done, ma’am. Sir. Sire? Umm… Lady?”
+
+Matt closed his eyes and considered just pulling all of the world leaders to this AC building, but knew that was the excessive power that would see these people fearing him instead of working with them.
+
+“Then can you initiate that and get the countries actively fighting to agree to a temporary armistice? We don’t care what reason you give, just get them to stop fighting.”
+
+Councilor Samuel seemed like a man spared from execution as he nodded and picked up a device on his desk he used to communicate with others.
+
+While he did that, Matt closed his eyes and counted down from ten.
+
+This was going to be a trial, but he could at least stop the senseless deaths from continuing without making it too obvious.
+
+That was a good start.

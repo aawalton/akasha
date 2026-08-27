@@ -1,0 +1,375 @@
+---
+id: 7b692d1e-f88b-55ce-b2a5-c7359f9674c5
+page-type-slug: story-chapter-royal-road
+title: "178 A Steady March"
+slug: 0137-178-a-steady-march
+partOf: the-new-world
+position: 137
+ownLength: 3247
+unit: words
+ownProgress: 3247
+publishedAt: 2019-01-21
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/326690/178-a-steady-march"
+royalRoadId: "326690"
+markedReadAt: "2026-06-29T21:25:28.799Z"
+---
+
+I raised my eyebrows, "Uh, yeah, I've fought against a so-called god before. He bled, just like anyone...I will admit though, his blood glowed, so you got me there."
+
+Tohtella frowned, "This is serious. Lehesion's legends are told orally across generations of gialgathens. My research indicates he's a level 15,000+ being, someone comparable to Yawm."
+
+I shrugged, "Killed him. I'll kill this thing too."
+
+Tohtella sighed, "If you believe so, then I'll take your word for it. Despite your confidence, I must inform the public."
+
+I raised an eyebrow and crossed my arms, "Hmmm, you sure about that?"
+
+She leaned back, "Of course."
+
+"The thing is, I don't know if that's a good idea. The tension between espens and gialgathens is already high. If you throw something like this out, then it will catch fire. Fire meaning civil war, mass genocide, or something else equally terrible."
+
+She frowned, "You are correct, but if no one knows about this, then no one will prepare. The proper funding won't be provided for enhanced defenses."
+
+I shrugged, "I mean, we can tell them something's up. It's just not a good idea to tell the masses exactly what that something is. Is there some way you could...I don't know, lie?"
+
+Tohtella rolled her eyes, "I've spent all my life practicing to tell the truth."
+
+I raised an eyebrow, "Then why not just tell some of the truth?"
+
+Tohtella looked down, deep in thought. She sighed, "I will...I will do my best." She looked back up at me, "Are you ready to leave? We've done what we set out to do here."
+
+I shook my head, "I'm going to look for some answers. From what I've heard, Lehesion was the good guy during the gialgathen civil war. Him being the cause of all this seems suspicious to say the least."
+
+She frowned, "I can send my team to handle the investigations. When we figure out anything, we'll inform you and your team."
+
+I walked up to the armor of Draygalga, "Even then, I'll do my own inspection."
+
+Tohtella walked up, "That isn't necessary."
+
+I turned my head, peering at her with my body facing the hollowed armor,
+
+"You sound like you don't want me snooping around."
+
+Tohtella's brow creased.
+
+"You have footage already. I want you to use your talents wisely and efficiently. My specialty is intelligence and subterfuge. I can handle this investigation effectively, but I cannot fight Skyburners. You can. I'm of the opinion that you should focus on what you're already good at."
+
+I pursed my lips, "Hmmm...Maybe."
+
+Tohtella pinched the bridge of her nose, "Specialization improves productivity, especially in team environments. If we can synergize our specializations, this is even truer. Allow me to delegate duties and organize this. Please."
+
+I honed in, reading her response. Her palms were sweaty, and her heart beat faster than average in her chest. That could be from the fight earlier though. She met my eye, and her pupils dilated. She didn't seem like she was lying, so I gave her a slow nod,
+
+"Alright...fine."
+
+She jotted a note onto her clipboard, "Good. Thank you. Now, Are you willing to leave now?"
+
+I sighed, "I suppose so."
+
+I lifted us up with a gravity well. By concentrating Event Horizon around us, I scared off most of the silvers. With our safe travel assured, I opened my status. I gained almost 1,000 levels. It was my biggest boost since facing Yawm. I put all the points into endurance as usual. As I selected finalize, I shifted.
+
+My armor cracked, the splits filling in from my regeneration. One of the fractures cleaved one of the cipher marks on my forearm in two. My blood thickened becoming denser than mercury. The fibers and sinews weaving my flesh compressed.
+
+Extra fail safes weaved into my organs. One heart or three, I couldn't tell anymore. The tendons and ligaments lining my bones turned hard as diamond yet flexible as rubber. My own survivability defied my comprehension.
+
+My mana poured within the fortress that was my body. It permeated every pore and cell. The saturation extended until I radiated energy. In seconds, I pulled the energy in, adjusting to it. I squirmed as limitless vitality flushed through my system at every moment.
+
+I felt like a nuclear reactor.
+
+As I writhed, Tohtella  shouted from behind a mana barrier,
+
+"Are you ok? If the silvers infested you, we have removal procedures at my workplace."
+
+I growled, "No...I'm fine."
+
+My voice was deeper than usual, strained during the alterations. I shook off the growing pains, returning to normal. I glanced back at Tohtella, who floated while standing stiff as a board. I laughed, "Are you alright?"
+
+She blinked, "Ahem, of course I am. Your voice...it unnerved me is all."
+
+I rolled my eyes, "It's part of gaining many levels. It should already be normal again."
+
+She looked up, checking out my level. She frowned, "I...I can't quite believe it really. You've gained over a 1,000 levels in less than a week. It's unprecedented."
+
+I shrugged, "There are some real monsters out there. I'm sure plenty outpace me."
+
+Tohtella shook her head, "There are few, if any."
+
+I swatted a giant, metallic dragonfly. The blood and mush splatted outwards and away from my antigravity field that covered us,
+
+"I know one. Althea. She gained 1,400 in one fight. Besides, no one that's gaining levels like this has time to brag about it. That's why you haven't heard about them."
+
+I narrowed my eyes, "They're out there though. I feel it."
+
+Tohtella rolled her eyes as we shot across the metallic wasteland. As we did, I opened my character sheet to check the statistical difference.
+
+Dimension-C138(Lvl 7,467)
+
+Strength – 7,596 | Constitution – 13,107 | Endurance – 55,360
+
+Dexterity – 3,246 | Willpower – 30,099 | Intelligence – 11,133
+
+Charisma – 1,850 | Luck – 3,754 | Perception – 4,070
+
+Health: 11.70 Million/11.70 Million | Health Regen: 34.21 Million/min or 570,160/sec
+
+Stamina: 7.54 Million/ 7.54 Million | Stamina Regen: 108,952/sec
+
+Living Dimension: 1.45 Trillion/4.30 Trillion
+
+Mass: 741,910 pounds(336,524 kilos~)
+
+Height: Actual -13(3.96 meters) | Current - 13
+
+Damage Res - 98.5% | Dimensional Res - 49.25%
+
+Phys Dam Bonus – 884,301% | Damage Bonus – 40%
+
+Event Horizon – 20,000 + (100% of your total health)/min
+
+I passed a few landmarks. My endurance exceeded fifty thousand now, and my health passed ten million. My Living Dimension meter increased by a noticeable amount for once too. Gialgathens must have provided a solid boost since mana saturated them.
+
+All my attributes marched forward as well. Even my lowest straggler stat, charisma, was well over 1,000 now. I lacked many weak points in my build now, though I could always improve. The next goal would be augmenting my crafting since I just obtained Star Forger.
+
+With that in mind, I pulled out a chunk of orichalcum from my dimensional storage. As we floated over the scenery, Tohtella whispered, "It's beautiful."
+
+I nodded, "It is."
+
+She raised her hands, "Your method of travel...It feels so strange."
+
+I raised an eyebrow, "How?"
+
+She pushed up her glasses, "We're flying, yet there is no wind."
+
+I pointed forward, "I'm using two gravity wells to pull us forward. One pulls us forward, the other pulls us upwards. The wells pull the wind along with us, meaning the wind doesn't blast us all the time."
+
+"It's very pleasant compared with most flights I've been on."
+
+"I do it this way out of practicality. That's it...Oh yeah, sorry for being so skeptical earlier."
+
+Tohtella raised a hand, "It's nothing. You should be skeptical of me, of everyone."
+
+I sighed, "It's just how it is. It's like everyone is trying to use me all the time now, like that Thisbey fuck."
+
+She pursed her lips, "Ah, he's an unpleasant fellow. I do despise dealings with him, but he is everywhere on Giess commercially. It's difficult to avoid him altogether."
+
+I turned to Tohtella, "Let me know if he wears his classic leather jacket, alright?"
+
+Tohtella frowned, "Why?"
+
+I grinned, "Eh, you'll see why in the news if he decides to wear it."
+
+***************************************************
+
+We got back to the hotel in a few minutes. I put my gray armor on before we landed, keeping my identity under wraps. By the time I got back, everyone almost finished packing up. As Tohtella and I walked in, Kessiah sat down on a couch, watching tv.
+
+Tohtella glared at Kessiah. The Speaker's disdain oozed as she lifted her nose into the air at the sight of Kessiah. Kessiah turned to her and raised a hand,
+
+"Yo Daniel. You guys made it I see."
+
+I nodded. Kessiah pointed at Tohtella, "What's her problem."
+
+Tohtella uttered, "I see you're allocating your time wisely yet again."
+
+Kessiah pointed to me, "Yup. Hey, you might want to see this tough guy."
+
+I walked up, looking at the shifting holographic projection. A newscaster sat beside a scientist, both of them espens.
+
+The scientist raised a hand, "It's incredible, but another unknown seismic event occurred, this time past the silver's border."
+
+The newscaster frowned, "What does that mean for the people of Yildraza?"
+
+"Well, it could mean nothing. I for one believe some ancient creature is creating seismic events."
+
+The camera panned out, and good old sleezebag mc'fuckface popped up. At least Thisbey wasn't wearing the gialgathen skin anymore.
+
+"Why, if I might be so brash as to offer my own opinion, I believe it was a gialgathen."
+
+The scientist raised his hand to Thisbey, "Of course you would believe that. You're openly racist against them."
+
+Thisbey spread out his arms, "Such harsh words coming from a man who's suggest'in the same thing. You did say it was a creature, correct?"
+
+"Well, yes-"
+
+Thisbey grabbed the collar of his shirt, "Well what other creature could wreck this kind of devastation besides a gialgathen? They're the apex predators of our planet. If a beast is causing this, then it means an old and powerful gialgathen is the cause."
+
+The camera panned in on Thisbey, highlighting him. He turned to the camera, addressing the audience,
+
+"I know my opinion isn't weighed like a fancy scientist's is, but please hear my me out if you wouldn't mind. There are only two gialgathens we all know that can make earthquakes happen on demand. One of them was thrown into silver territory long ago. The other disappeared without a trace."
+
+He raised a hand, "I'm not the only person to suggest this, but I believe Emagrotha has tread out of silver territory. Her body must be full of them disgust'in yana, and they have clustered into an abomination. It's out on the loose, and the gialgathens aren't doing a thing about it."
+
+Thisbey steepled his fingers, "How many times must we bow and suffer before these monsters until we put a stop to it. To every patriot on Giess, I let you give the answer."
+
+Kessiah closed the footage, "See that?"
+
+I dragged my hands down my tinted facemask, "Yup."
+
+Kessiah bust out laughing, "Hah! Your fat ass is making everyone think Emagrotha is coming back. Damn, I knew you were getting up there in weight, but sheesh."
+
+I rolled my eyes, "Oh yeah, go ahead and laugh it up."
+
+Tohtella walked up, her arms crossed, "What is this about Thisbey?"
+
+Kessiah raised an eyebrow at her, "What, asking questions to us lowlifes now? Oof, how the mighty have fallen."
+
+Tohtella frowned, "Please answer my simple question?"
+
+"Sure thing miss high heels. Thisbey's starting rumors that Emagrotha is coming back. From what I've seen on forum posts and a few social media sites, people believe it."
+
+Tohtella cupped her chin, "Really now...I might be able to use him for something useful for once."
+
+Kessiah leaned forward, "Oooh, really now? Do tell."
+
+Tohtella walked back and forth,
+
+"We discovered that Lehesion may be the cause of all the turmoil with the silvers. Informing the public that he caused it would ruin a hero of the espen people, inciting riots and mass hysteria. On the other hand, everyone already villanizes Emagrotha."
+
+I raised my hands, "So we pin it on Emagrotha to stop people from blowing up on the gialgathens."
+
+Tohtella gave a curt nod and one of her amused grins, "Precisely."
+
+Kessiah shrugged, "Better make sure you keep up with the news then."
+
+Tohtella looked down on Kessiah, "And why is that?"
+
+Kessiah scoffed, "Thisbey's going to spin whatever you say to fit his own story. It's going to be a publicity war between you two."
+
+Tohtella's eyes hardened, "I will win it, I assure you."
+
+Kessiah leaned back, crossing her hands behind her head, "Eh, do what you want. Glad to help out my superior."
+
+Tohtella stared at her. The Speaker snapped, "All you did was watch tv. You have no reason to be smug."
+
+Kessiah smirked, "Really? When's the last time you watched tv or checked out some social media?"
+
+Tohtella grimaced. Kessiah nodded, "Yeah, that's what I thought. What about you Daniel?"
+
+I shrugged, "I don't know. Maybe a decade?"
+
+Kessiah raised her hands up, "There ya go. If it was so simple, why didn't you do it first?"
+
+Tohtella gripped her petite hands into tiny fists. She stayed silent though.
+
+"Aaaaand that's about what I expected. Next time you want to look down on someone, just look in the mirror."
+
+I looked between them, relishing in the afterglow of Kessiah's speech. Tohtella sighed, "I...I misjudged you."
+
+Kessiah cupped her ear, "Sorry, I couldn't hear you. What was that again?"
+
+Tohtella announced, "I misjudged you. I thought you were a useless, lazy cyst on society's underbelly. I was wrong. You're a somewhat useful cyst on society's underbelly. There. Happy now?"
+
+Kessiah grinned, "You bet."
+
+Tohtella adjusted her glasses, "Excellent. Now if you both will excuse me, I have a media campaign to organize."
+
+Tohtella turned on her heels and stomped out. As she closed the door, I turned to Kessiah, "Man, you really planned that all out?"
+
+Kessiah smirked, "Of course."
+
+Torix walked down the steps, giving Kessiah a slow clap,
+
+"Oh yes, truly an awe-inspiring display of wit."
+
+Kessiah rolled her eyes, "Looks like you decided and to come and kill the party."
+
+Torix shrugged, "Well as a necromancer, allow me to revive it."
+
+I winced at the terrible joke. The lich pulled Kessiah's remote away from her hand with telekinesis. He grabbed the device and clicked a button on it. A 2-D map of Giess popped up. He pointed at it,
+
+"Here is where we are."
+
+He pointed at a portion of the graph on the line between silver and common ground. Torix gestured far north, "Here is where we are going, the city of Rivaria." A blip on the map pinged, surrounded by white snow and the silvers. Torix crossed his arms,
+
+"It's frigid there, so some winter wear will be necessary. As we travel, we'll be skirting the line of the silvers territory."
+
+Torix pointed at me, "Do you remember how you plotted the point for the first silver base you found?"
+
+I nodded, "Yup."
+
+"Then doing so for the other camps should do rather nicely. Once we've plotted the points, I'll organize with Tohtella to orchestrate rescue missions. We'll be more than able to do so between your tournament fights, Daniel."
+
+I grinned, "Alright, sounds good. Plenty of fighting."
+
+Torix glanced at me as if he peered over a set of glasses,
+
+"Speaking of fighting, I took the liberty to memorize your tournament schedule before we landed there. We wouldn't want you missing out on a mythical skill from forgetfulness, now would we?"
+
+I frowned, "Uh, yeah...probably not."
+
+Torix gave me a quick nod,
+
+"I imagined that was the case. Regardless, with the quest rewards from the mission, we should be able to strengthen ourselves quite a bit. With Althea's new class and your extended level cap, we have quite the force behind us."
+
+He closed the hologram, "We'll find them, and we'll destroy each of the three camps in much the same way."
+
+Kessiah and I nodded. Althea materialized between us before leaning onto me. She smiled at me, "Wow, you almost gained more levels than I did."
+
+I smirked, "I did kill five out of seven."
+
+She rolled her eyes, "Yeah, but I killed the ancient general. That counts for something."
+
+Torix nodded, "Both of you exceeded your goals from the start. Now, are we ready to leave?"
+
+I looked around, "Uh, where's Caprika?"
+
+Torix dragged his bony hands down his face, "She's in her room, preparing herself."
+
+I squinted, "For what?"
+
+Torix sighed, "One of her relatives is coming to watch the tournament fights. In particular, to watch you and see if you represent Caprika well."
+
+Caprika's door swung open, and she walked out in flowing robes. The accentuated her figure, and they matched her hair and mask, both red and white. She glanced between us all,
+
+"Well, is everyone already ready to leave? I didn't realize I was holding...Wait..."
+
+She stepped up to us, her high heels clattering on the hardwood,
+
+"You...You're over level 7,000. I can't see your status anymore either. What happened?"
+
+I shrugged, "Eh, I fought a few people."
+
+She turned to Althea, "And you...You're a Breaker now?"
+
+Althea scratched the back of her hair and raised a hand, "It's not that big a deal...Ok, it kind of is."
+
+Caprika shook her head, her smooth mane rippling, "You two were made for each other."
+
+Torix walked up, "I'm leaving. You're all welcome to join me."
+
+I followed behind him, tired of Caprika's perpetual state of amazement,
+
+"We running this time?"
+
+Torix nodded, "Most definitely. That car was far too slow for my liking."
+
+Caprika looked down at her fancy dress and stilettos,
+
+"Wait...what?"
+
+Kessiah walked up, patting her on the back, "Get used to it. We rough it, Harbinger style."
+
+I rolled my eyes. I walked out of the doorway, all my stuff in my dimensional storage. As I opened the doorway, I received two notifications.
+
+Finished Quest!
+
+Destroying the Fragments of Emagrotha(lvl 10,000+ | Party Size: 10+ | Guild Affiliation: Any) - The reason behind the encroaching infestation of silvers has been determined. Lehesion is leading a group of Skyburners, infecting the land with silvers for an unknown reason. Your intervention has stopped this spread near Yildraza.
+
+While further intervention is necessary to stop this threat, you've made your mark on the cause. Such an initiative is commendable and deserves compensation.
+
+Reward: 1 Blue Dungeon core, positive affiliation with Giess, positive affiliation with Speakers, Speaker class offer.
+
+Bonus: Bonuses are canceled due to party size of 2 or more.
+
+Finished Quest!
+
+An Encroaching Invasion(lvl 8,000+ | Party Size: 10+ | Guild Affiliation: Any) - You discovered the camp spreading silvers near Yildraza. With your combined team, you decimated the cause of the obstruction. Excellent work.
+
+Rewards: 50 red dungeon cores, 1 blue dungeon core, and allows the formation of one guild branch in Yildraza.
+
+Bonus: Bonuses are canceled due to party size of 2 or more.
+
+I raised an eyebrow. As I did, mana coalesced in front of me. Seconds later, a blue, humming sphere of energy radiated out. It was a tiny star floating in front of me. I grasped it, magic swimming up my arm. An icy sensation followed, leaving me numb.
+
+I grinned at its vibrancy, a sense of excitement rushing up my spine,
+
+"A Blue Dungeon core. Woah."

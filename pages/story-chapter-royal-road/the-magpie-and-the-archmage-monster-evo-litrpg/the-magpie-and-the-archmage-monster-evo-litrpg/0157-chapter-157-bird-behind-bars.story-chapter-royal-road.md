@@ -1,0 +1,171 @@
+---
+id: 3520215c-0de8-5496-9530-15d89394f168
+page-type-slug: story-chapter-royal-road
+title: "Chapter 157 – Bird Behind Bars"
+slug: 0157-chapter-157-bird-behind-bars
+partOf: the-magpie-and-the-archmage-monster-evo-litrpg
+position: 157
+ownLength: 2212
+unit: words
+publishedAt: 2026-08-07
+link: "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3780612/chapter-157-bird-behind-bars"
+royalRoadId: "3780612"
+---
+
+"Captured? Liora has been captured?" Cee uttered in disbelief. But how could that happen?
+
+Liora had so many ways of escaping. She was a bird. She was fast and could fool enemies with Decoy Fade. Blind them with Featherflash. Cee was sure that with her talons, Liora could even Rend steel apart, that's how sharp they were.
+
+"Why did nobody tell us when it happened?!" Renir bellowed, his voice surprisingly loud for someone who was trapped inside a shiny rock.
+
+Merfolk guards shifted uncomfortably. "We're sorry… we thought that you were out in the dungeon…"
+
+"Did you even bother to call anyone? Because I sure as hell didn't hear anyone calling and I was in the oasis the whole damn time!" Renir raged. Cee had never heard the man so angry.
+
+"Calm down, Renir. It's not like you could have done anything while I was undergoing evolution anyway. Could you tell us what happened exactly?" Cee inquired.
+
+"We weren't informed of the details. You should speak to Commander Dolphar if you wish to know more. Apparently, he'd been together with her when it happened," one of the guards said.
+
+"Oh! You better believe I'll speak to him," Renir growled.
+
+Cee swam up, heading towards the innermost city while trying not to get lost. It was a bit difficult navigating through such an unfamiliar place, but it was good swimming practice. In fact, swimming was kind of fun in her new form. Her streamlined body made the water flow past her effortlessly, while the "fins" on her legs could propel her forward much like oars would a ship.
+
+Despite Liora's capture, the city itself seemed to be celebrating. Merfolk were rejoicing, and children seemed even more rambunctious than ever. They weren't even bothered by Cee's and Smokey's presence, happily guiding her in the right direction when she asked.
+
+Eventually, she arrived at the main building, where they were guided to Thalzor, the large whale shark merman. Unlike the cheerful attitude going on outside, Thalzor looked thoroughly dejected.
+
+"I'm sorry that we lost Liora. We—"
+
+"Oh, are you sorry? Are you really? You've got a whole damn city full of merfolk. Able-bodied merfolk, might I add. How long have you been plagued by these corrupted sea creatures again?"
+
+"The first incident happened approximately half a year ago…" Thalzor said.
+
+"Half a year. That's a long time. Yet the inner city is absolutely unaffected. Just on our way here, the people were celebrating. Liora is captured, yet they DARE to celebrate!" Renir hissed, his voice sounding as if it were laced with venom.
+
+"M-My apologies. They do not know the details of the incident… You see, just before Liora was captured, she managed to purify the last blight artifact, thus restoring all the sea creatures to normal."
+
+"She saved your city. Saved your people. Single-handedly, no doubt, and you couldn't even protect her. WHY DIDN'T YOU PROTECT HER?!"
+
+Heavy silence descended around the room. Cee didn't know what to say. How to calm Renir down. She knew that the man cared for Liora, but he'd never actually shown how much.
+
+"It was my fault…" Dolphar swam out of one of the adjacent rooms, his eyes downcast and shoulders slumped. "I was right next to her when it happened, yet I couldn't do anything to stop it."
+
+"HOW—"
+
+Cee raised one of her legs, silencing Renir before he could go on another rampage. At this pace, he would just curse the merfolk to nine hells, and they wouldn't even understand what happened to Liora.
+
+"Could you tell us how it happened exactly?" Cee asked Dolphar.
+
+Renir muttered something angrily, but didn't raise his voice anymore.
+
+Dolphar nodded. "We were actually thinking of retreating to let Liora rest for a while. She had purified all but one of the corrupted stone slabs, but it took considerable time and effort. She had to replenish her mana reserves five times with our potions."
+
+"She drank five mana potions?!" Renir screamed.
+
+"Calm, calm," Cee tried to pacify him.
+
+"No, I cannot be calm. Overuse of mana potions can seriously harm the body. Five in a row, no less?!"
+
+"It was not in a row. Liora has an amazing mana recovery rate, so we only supplemented her every few hours. Although I admit that we likely should have retreated and let her rest sooner…"
+
+"Yes, yes, you should have!"
+
+"Renir…" Cee grumbled. "Let him finish!"
+
+Renir fell silent again, although Cee could basically feel waves of displeasure coming off of him.
+
+Dolphar continued. "As I said, we were about to retreat when these weird magic beams were fired at Liora and us from above. Liora believed that it was crucial to cleanse the last artifact because of this intervention, so we continued the battle. It was difficult, but since the magic beam came all the way from the surface, we were able to dodge. However…"
+
+"However?" Cee urged him to continue.
+
+"Just as Liora managed to cleanse the last artifact, she suddenly… disappeared…" Dolphar said and bowed low. "I honestly don't know what happened. It was so sudden. We searched the whole city, the whole surrounding area, but she just wasn't anywhere in the sea anymore."
+
+Thalzor took over the story. "One of our scouts sent to the surface caught sight of a human settlement on an island not too far from here. Near the shore of this island, he found these."
+
+Thalzor said and produced two large iridescent black feathers. There was no doubt as to who they belonged to.
+
+Suddenly, Cee could feel Renir shaking on her back. "It was Lucien… I know it was him. That bastard wants to take away everything from me. I won't let him. Trap me in a rock—fine! Seal my magic—so be it! But I will not let him harm Liora! Cee, we must go to this island at once!"
+
+While his tone was horrifying, murderous even, Cee agreed that they had to go and save Liora immediately.
+
+"Please, show us the island!" Cee asked the merfolk leader.
+
+"I shall show you the way," Dolphar said.
+
+"I will provide you with my best fighters. While they won't be able to help you on the surface, if you lead the enemy into the sea, they will be a huge asset to you even against the strongest of human mages," Thalzor added.
+
+With that said, they all left to rescue Liora. Cee just prayed that Renir wouldn't do anything rash in his rage.
+
+When Liora woke up, she found herself in a dark room without any windows. It was a small, cramped space barely enough for her dracoryx form. No, actually, it wasn't enough. She couldn't even open her wings with how cramped they were. It was because of those horrible metallic bars that separated the tiny room in half.
+
+"How did I get here?" Liora wondered aloud. Last thing she remembered was… Being teleported to the surface right into Lucien's clutches.
+
+Oh shit! This is bad. I need to get out of here!
+
+Liora tried to grab at the bars with her talons. They looked thick, but perhaps with enough force, she could force her way through. However, the moment her talons touched the bars, she was met with a powerful electric shock.
+
+"CAW!" Liora pulled her leg back, cradling it close to herself.
+
+It made sense that there would be measures taken to prevent her escape, but she wasn't about to give up yet. Liora activated Featherflash, turning into a mote of light. It should allow her to pass through unimpeded.
+
+But she couldn't… As if there was some impenetrable wall set up between the bars, even as a mote of light, Liora couldn't pass through. Those undoubtedly were powerful magical wards of some sort.
+
+If Renir were here, he would know what kind of wards they are. Perhaps, he could even break me out somehow.
+
+Liora shook her head. No, it was better that Renir wasn't here. He was safe and sound together with Cee, where Lucien couldn't reach him.
+
+All of a sudden, the door opened, and Lucien strode into the room. "I see you have finally woken up. Good morning!"
+
+He had a smile on his face, but it was a twisted sort of smile. Had Liora been a weaker woman, she might have fallen for his charm, but she was strong. She would not be fooled by him so easily.
+
+"Release me!" Liora used Resonance Mimicry, letting her voice shake the whole room with its strength. Except, it only shook Liora's half of the room. Everything beyond bars remained unaffected, including Lucien.
+
+"Now, now. We both know that if I were willing to let you go, I wouldn't have captured you in the first place. Why don't we talk instead?" Lucien said, and seemingly out of nowhere, conjured a chair and sat in it. Did he just keep it in his Inventory?
+
+"Release, release, release!" Liora continued her Resonance Mimicry assault for a while. She hoped that this way she would be able to establish that she was just a bird who could talk a little, rather than an actually intelligent creature. Perhaps her continued assault could also wear down the wards placed on the room.
+
+"Are you quite done yet?" Lucien said with a bored expression. "You can rage in there all day, but it will not accomplish anything. However, if you do a tiny little thing for me, I'd be willing to let you go."
+
+Liora didn't believe his honeyed smile even for a second. There was no way this guy was ever going to let her go. Nonetheless, she asked, "What?"
+
+"It's a tiny thing. Just tell me where you left Renir," Lucien asked.
+
+Liora wanted to burst out into laughter. Did he seriously expect her to just tell him?
+
+"No," Liora said flatly and set about preening her feathers. They were quite disheveled after the battle.
+
+"I'll give you some food. What do you like? Some raw mutton perhaps? Or do you prefer chicken? Perhaps beef? Any food you want, I'll give it to you."
+
+Now this was just embarrassing. Even a regular bird wouldn't be so stupid as to fall for such a trick.
+
+"No," Liora said, and withdrew a cooked chicken breast from her Inventory. She held it in her talons and took small bites of it. Although at her current size, those small bites meant that the whole leg was gone in less than a minute, bones and all.
+
+They actually added a rather nice texture to the chicken, and the bone marrow inside was quite flavorful.
+
+"You possess an Inventory. How?" Lucien blinked in surprise.
+
+"Renir," Liora replied shortly. He certainly was the cause of her Inventory, but there was no reason to explain exactly how Liora had managed to break the system into giving Inventory to her.
+
+"Fascinating. To think that from a regular magpie, you would grow and evolve so much to become this powerful creature. It really would be such a shame to kill you," Lucien said. Although the pleasant smile never left his lips, his eyes had grown cold.
+
+Liora glared at him. It would take more than threats to make her give up Renir. She remained stubbornly silent.
+
+For about an hour, Lucien would try to coax the information about Renir's whereabouts out of her. He promised her food, treasures, and even shinies. Liora had been tempted just a little when he showed her a chest filled to the brim with precious jewels.
+
+But what would have been the point of taking them? Renir was more valuable than fifty such chests. This guy had really poor bargaining skills. Perhaps, these tricks would have worked quite well on humans, but Liora, the magnificent bird that she was, wasn't phased.
+
+Even when he began to threaten her, Liora couldn't help but say. "Without me, you would never find Renir. You're not going to kill me."
+
+"A very astute observation for a bird," Lucien commented.
+
+Liora froze. Had she shown too much of her intelligence? What did it even matter? It's not like knowing Liora was smarter than she appeared would give them any advantage.
+
+"I tire of these games. If you're not going to tell me where Renir is, I'm just going to have to pry that information out of your head," Lucien said, and stood up, walking up to the bars.
+
+All of a sudden, Liora pushed against the wall with some invisible force. She tried to break free, but her body couldn't move at all. The bars raised into the ceiling, letting Lucien walk up to Liora unimpeded. Then he put his hand up to her forehead.
+
+It was cold and unpleasant. Liora felt as if something was trying to drill into her head. Not physically, but rather mentally. Something, no, rather, Lucien was invading her mind with her magic.
+
+Liora panicked. Was this mind magic of some sort? She had no clue such a thing existed. How was she supposed to fight back against this?
+
+"Let's see what's inside that head of yours!" Lucien smirked, and Liora felt a sharp jolt run through her as he invaded her mind. Her thoughts were being forced open, but there was nothing she could do to stop it.

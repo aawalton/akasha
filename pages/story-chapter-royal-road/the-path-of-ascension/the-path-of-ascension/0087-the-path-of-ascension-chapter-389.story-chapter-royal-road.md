@@ -1,0 +1,371 @@
+---
+id: fc785f61-fa11-5265-b2c2-6a3796c7545d
+page-type-slug: story-chapter-royal-road
+title: "The Path of Ascension Chapter 389"
+slug: 0087-the-path-of-ascension-chapter-389
+partOf: the-path-of-ascension
+position: 87
+ownLength: 5066
+unit: words
+ownProgress: 5066
+publishedAt: 2025-02-17
+link: "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/2073089/the-path-of-ascension-chapter-389"
+royalRoadId: "2073089"
+markedReadAt: "2026-06-29T19:20:42.085Z"
+---
+
+Chapter 389
+
+Aster's capital world was… interesting.
+
+That was the best word Matt could describe it with, no matter how many times he visited.
+
+When he and Liz had been slated a fire aspected world, Aster had been dreaming of an ice version, but that was so improbable it may as well be impossible given that there weren’t any known ice aspected worlds over Tier 15, which would have been the absolute minimum for a primary ducal capital.
+
+She had mostly taken that in stride, which was why she had bought an un-Tiered world and had it delivered to her capital system, hoping Matt could turn it into an ice world someday.
+
+That didn’t mean her world didn’t have its own advantages.
+
+She had gotten a Tier 32 world on the brink of Tiering up to Tier 33 from the Federation.
+
+From their understanding, it had galled the Federation to give up such a high-Tier world but, as one of the three aggressors in the war, they along with the Sects and the Republic had been tasked with giving up the ducal capitals since it was their fault there were any buyouts to begin with.
+
+The logic was a bit muddled by the fact they had officially won the war, but Matt hadn’t gotten a say at the negotiation table and so couldn’t call out the hypocrisy.
+
+Matt liked the joke that, despite getting a normal world, she had still gotten a cold aspected one. The former Federation world had a distinct personality that would take generations to change.
+
+Where most Great Powers were happy to let their people design their worlds to their own aesthetics, a metric more or less governed by their Great Power’s control over culture, the Federation was much stricter in their allowances.
+
+That wasn’t to say that the world was the lifeless, flat, gray city blocks the movies typically portrayed Federation worlds as being dominated by. No, there was more variance and life in the world than that, but there was a kernel of truth in those movies.
+
+The world had been designed from the outset with nearly no allowance for organic growth.
+
+That wasn’t inherently unusual, as most high-Tier worlds had development plans, but the Federation took it a step beyond a simple general plan.
+
+Every street, every alley, every park, and every building had been planned for and then completed to an exacting standard which, from a ground level, gave the world a sense of sameness that those raised in its presence found comforting and those raised outside it uncanny.
+
+From his position as an immortal, let alone a planetary ruler himself, Matt could see what had happened and why.
+
+The world was basically a model for efficiency.
+
+Buildings were arranged in ways which formed communities reflective of the Federation caste system, which allowed each area to specialize to greater or lesser extents with the end goal of making things efficient.
+
+Distribution communities acted as the hubs of a wheel with the spokes being various production lines such as food, clothing, technology, or whatever else the government had decided needed to be produced.
+
+Between areas, in the gaps where something productive couldn’t be easily built, the designer of the planet had designed a variety of parks and other recreational activity spots to give people a place to relax outside their homes. Taking advantage of their unique shapes, the parks were each a work of art, and built to accommodate a particular number of people living nearby according to the design they had planned for.
+
+That was not at all how the Empire built cities or worlds.
+
+The Empire and most other Great Powers were willing to designate areas for particular production, but they didn’t so closely mandate space usage like the Federation did.
+
+That, combined with the Federation's caste system, meant their former worlds often struggled to integrate.
+
+Aster's world had it worse than most.
+
+Being a high Tier, the world was highly populated and, while some of the former Federation civilians had been transferred off world when her world was selected, most of the world's inhabitants had not been so lucky.
+
+Instead, they were left to fend for themselves, and many of them clung to their old way of life feverishly.
+
+Ironically, the Federation’s policy of awakening everyone similar to the Empire had a negative effect, as most of their population on a higher-Tier world was Tier 3 or 4 and had the extended lifespans associated with the higher cultivation.
+
+Aster had followed historical models and chosen a slower method of integration, not because she wanted to copy Matt and Liz’s disastrous efforts on Soerilia, but because Federation worlds were heavily indoctrinated and would lash out in incredibly unified numbers.
+
+The other way to deal with such disturbances was to either forcefully deport everyone and spread them out amount a thousand other worlds to break up their cohesion or direct action with led to a lot of dead civilians and generations of trauma.
+
+Their unity was respectable in theory but problematic in practice as what they lashed out at were things they saw as anathema to their former structured lives.
+
+One such thing being what Aster had complained about recently.
+
+“How have the job relocations been going?”
+
+Matt didn’t ask to make fun of one of her issues, but genuinely wanted to know how she was managing.
+
+The groan told him everything he needed to know.
+
+“Not great would be an understatement. People want to do the same jobs they were doing before they were transferred for some unknown reason. If I try to get them to make something actually useful, they complain; if I try to get them to move onto other things, even things they like, there is pushback. So much pushback. Ugh. If I need to hear that word one more time, I think I’ll pull out all of my hair. It's always pushback. I pushed through my initiative to let people choose their own jobs and a whopping less than one percent took me up on the offer and those people have been basically ostracized by their families.”
+
+Liz winced. “So I take it they didn’t like the idea of them not having state-sponsored jobs very well?”
+
+Aster's tail and ears drooped. “Not taking it well would be an understatement. Almost forty percent of the population simply went to work but sat in front of their machines the day after I floated the idea by local leadership. I even made it clear I wouldn't allow outside businesses to bully their way into the local markets before said local markets got on their feet. At least beyond what local markets the Feds felt was useful to export but noooooo. I’m flat out evil for trying to give them a choice. I swear they can turn anything negative. I had a local former Leader caste dickhead tell me, and I quote, ‘taking away mandatory jobs is taking away guaranteed job security’. I wanted to strangle him. I’m genuinely afraid I’m going to have to wait out the three generations before I can make any substantial progress.”
+
+Matt winced but nodded.
+
+They had dealt with similar things but on greatly lesser scales if for no other reason than it was their vassal’s problems and not their own so they didn’t need to suffer though the minutiae and only got reports.
+
+Listening to Aster's issue, he was happy they had gotten a Sect world for their capital where their overwhelming might had made things as easy as could be hoped for.
+
+Wanting to cheer her up, he said, “If there is any silver lining, it's that most of the Tier 15s and higher stayed behind in the Federation. Think of how much worse it would be if they were here acting as cultural anchors.”
+
+Aster blew out a puff of air that shimmered and sparkled. “I know I should be grateful for that, but I struggle to muster the enthusiasm. Still, we are making progress. Surprisingly, the half caste system for the younger generation was taken pretty well. It will at least ensure the next generation is leaning towards an Empire mindset even with at-home indoctrination. Same with the media deregulation, if to a lesser extent. The kids like shiny new things if for no other reason than their parents don’t. It's a foot in the door at least.”
+
+Their conversation came to a close as they entered one of the rift locations Aster had prepared for them.
+
+Her world being Tier 32 meant it had an abundance of Tier 29 rifts, thus they had their pick of the litter so to speak.
+
+It also had several notable rifts that had reputations.
+
+One such rift was known for its difficulty as well as its mystery; it was their obvious first delve.
+
+The rift being such a high Tier immediately had all three of them on edge from even before they entered, and the sight that greeted them did nothing to lower their guard.
+
+The rift was idyllic.
+
+Not a single thing over Tier 1 was to be found anywhere near the rift entrance. In fact, there wasn’t even a single instance of violence to be seen.
+
+The snake didn’t eat the rabbits it was nestled with, nor did the ants burrow into the tree log; their nest was next to it, but they didn’t carve out a home as their species should.
+
+Odder still was off in the distance: giants of various species, miles tall, walked amongst the landscape, but seemed to not hurt a single thing.
+
+“I don’t sense an illusion.”
+
+Aster's comment was said in a flat matter-of-fact voice that did nothing to ease Matt’s tension.
+
+Something was wrong, and if the illusionist couldn’t pierce it, they might need to leave before they risked getting killed by something they never saw coming.
+
+That would be embarrassing, but they were delving three Tiers up and pushing their limits, and part of that was knowing when to back out of a dangerous situation.
+
+Still, it was too early to give up quite yet and so Matt threw millions of mana into analyzing the problem with his [AI] while feeling their surroundings with all of his senses, as well as all of his manipulation spells, hoping to find anything. Even a single data point could lead to unraveling the whole puzzle.
+
+As he was doing that, Liz leaned forward, spear at the ready, even as her phoenix self fluffed her wings, ready to launch herself forward.
+
+After a brief pause she thrust forward and covered a dozen feet in a blink, driving her spear into a nearby tree, pinning something to the tree that should have collapsed with a thought from a Tier 26 like her with its apparent Tier 1 strength.
+
+Liz winced as if something was screaming, but neither Matt nor Aster heard a thing.
+
+Ripping her spear free, Liz grabbed at something they couldn’t see before she vanished.
+
+Matt felt nothing during the whole thing which only caused his danger sense to spike.
+
+Even his [AI] lost its connection to Liz, and Matt was about to start breaking things to find his own hidden monster, when Aster made an “Oh!” sound, just before vanishing as well.
+
+Grabbing space with his Domain meld, Matt started to pull, and watched as reality started to flicker and distort like a bad hologram.
+
+Just pulling harder wasn’t working, so Matt activated his Intent and concentrated his mana into its black form and activated [Cosmic Pressure] to strengthen the gravity around him.
+
+The ground started to buckle and crack, but he must have hit a critical point because he felt himself pass into something beyond the ordinary.
+
+It took almost a full minute, but as reality started to settle, his most immediate and largest worry vanished as he reconnected with Liz and Aster’s [AI]s. Looking around him, he nodded at the far more normal rift.
+
+Instead of an idyllic meadow, they were in a horrifying nightmare version of the forest they arrived in.
+
+The snake curled around the rabbits wasn’t casually relaxing with them, but instead snacking on them one at a time while watching them where they stood at the rift entrance, with slitted eyes that glowed a bright fluorescent orange. Its Tier was also not the Tier 1 they had seen but Tier 20, not a threat but more inline with the dangerous wildlife one would expect from a rift of this Tier.
+
+Matt also finally got to see what Liz had killed, but couldn’t put a name to it beyond goblinoid.
+
+Green skin and slightly shorter than the average human fit some of the normal wickets for goblins, but it was the shimmering cloak the creature was wearing, which made his senses slip off the creature like water on oil, that really caught his eye. Or as much of it as he could give, as the creature kept trying to blend in with the surroundings, similar to the Republic’s antimemetic effect, but unconnected to a domain.
+
+What did draw his attention were the hands of the creature, which had normal fingers until the final knuckle. It had been replaced with comically large blades, so thin and sharp they caused the light that bounced off them to fractal.
+
+No, Matt realized he had fallen for the trap, as the knives were similar to the cloak the creature was wearing but far more concentrated.
+
+And wicked sharp, going by the deep furrows cut into Liz’s armor.
+
+Aster was the first to speak, however. “So that confirms there are at least two ways to enter this side. Maybe three.”
+
+“And how did you guys enter?”
+
+Aster started bobbing her head before pointing off to the side, where a gust of wind seemed to make reality waver.
+
+“Naturally forming spatial folds.”
+
+“Killing one of the creatures seems to create something similar but more localized. I could have resisted but it caught me off guard,” Liz added.
+
+Matt nodded before repeating his earlier actions long enough to confirm he could rip through space once more to return to the other side.
+
+“Ok, so a dual reality rift. A little strange but we’ve seen weirder. I—”
+
+Matt twisted and threw himself forward, cutting across the space a few feet away from him. Shimmering silver blood arced through the air, but the creature seemed unphased and drove its finger blades at his face and head.
+
+Matt reached up and grabbed its wrists, pinning the creature’s hands together, twisting and slamming the creature into the ground, but all of that proved unnecessary as essence started to pour out of the creature.
+
+Except it wasn’t nearly enough essence.
+
+“Now that's strange.” Liz leaned over to look at the creature as she explained. “I got way more essence than you just did.”
+
+Matt made the connection with a nod. “So, we are supposed to fight these creatures on the other side where they are harder to spot. Interesting.”
+
+Aster tapped her staff to the ground as her crown glowed and two ice golems formed next to her.
+
+They stretched out their hands and gripped nothing and pulled but, even with her boosting their power, they weren't able to rip through reality as Matt had.
+
+Aster rolled her eyes, and Matt took the silent command to tear them back into the idyllic version of the rift.
+
+Back in the pretty forest, they walked down the path that wound its way through the woods, waiting for another ambush that never came. Just as they were starting to worry that they had done something wrong and had walked for almost a mile, one of Aster's golems smashed its hand down, creating a burst of essence before it vanished, being pulled into the other version of the rift.
+
+She resummoned the golem and they continued on, plodding along as they made their way closer to the giant beast that roamed across the landscape. As they got closer to one of the giants, the attacks increased until they were under a constant barrage and they let themselves get pulled to the other side just to have a better idea of what was really going on.
+
+Matt knew he shouldn’t be surprised, but the rift managed it by having the giant elephant actually be a zombie elephant with rotten meat falling off its massive frame. That would have been gross enough, but the creatures they were fighting were also attacking the elephant and trying to rip pieces of meat off its frame even as the elephant tried to walk away.
+
+“Are we supposed to help it?” Liz asked the question all three of them were thinking but Matt didn’t have any more of an answer than she did.
+
+Rifts were weird, and it could genuinely go either way.
+
+While all rift monsters were hostile, not all things that were alive were rift monsters. This wouldn’t be the first rift that had creatures they were supposed to help to unlock other rewards.
+
+Matt punched one of the goblin attackers away that was trying to sneak up on them before pointing at the creatures nearer the elephant.
+
+“Look at those monsters. They look more like orcs than goblins. They also don’t have the hiding effect.”
+
+Liz grinned. “That answers the question then.”
+
+Throwing herself forward, Matt followed her and they cut a swath through the easy to kill stalker enemies.
+
+The first orc-like goblin was an immediate reminder that they were in fact inside a Tier 29 rift.
+
+The creature grabbed Liz’s spear mid thrust, stopping her from skewering it, and lashed out with a bone blade, cutting Liz in half.
+
+Each half turned into a fully formed and armored Liz which started to overwhelm the monster but Matt was too preoccupied by his own fight with one of the creatures to admire his wife’s fighting talent.
+
+His blade flared bright blue as he channeled [Tribulation Strike] through it. The mana stone acted as a conduit for the mana while the braided metal of the blade acted as a faraday cage, keeping everything contained until contact was made.
+
+The strike blew off most of the flesh from the orc’s arms, but it remained standing and even started to heal. Or at least repair.
+
+Matt wasn’t sure he’d call the creature's bones growing and expanding to fill the gaps “healing”.
+
+The lack of muscle didn’t slow the monster down, and it threw itself at Matt with mid Tier 29 speeds.
+
+Sidestepping, Matt brought his blade up, cutting through the orcs flank before twisting and bringing the blade down with all the power he could gather in a [Mana Charge].
+
+The point-blank explosion killed two of the stalker enemies, but not the orc. It remained standing, even though most of the flesh was stripped from its upper body.
+
+Its bones started to grow to reform itself, and it lashed out three times in quick succession, the blows cutting through both layers of [Cracked Phantom Armor], but being stopped by his physical armor.
+
+They were Tier 29’s but, unlike their stealthy counterparts, these creatures seemed more defensive than offensive.
+
+A mistake would still kill as surely as letting one of the stealthy creatures sneak up on him, as two were attempting right at that moment, but their lopsided capabilities made them easier individual prey than they would have otherwise been.
+
+The monster tried to rush and entangle him so he couldn’t respond to the attacking stealthy goblinoids, but Matt had seen enough and didn’t intend to play with it any further.
+
+The second [Tribulation Strike] blew the creature’s entire upper body into bits, and was accompanied with a stream of essence as the blowback of mana killed the two other monsters as they were trying to stab Matt in the back.
+
+Looking over, he saw two Lizzes finishing off another orc while Aster’s golems smashed one into paste. She dealt with another herself.
+
+Her ice spells slowed and constricted the monster but the cold didn’t seem to be damaging the bone that replaced the frostbitten flesh.
+
+An [Icicle] through the head still ended the creature but Matt could tell Aster was miffed at the creature's resilience.
+
+With a wave of her staff, a flurry was kicked up and the mid Tier 29 monster's movements slowed into something closer to early Tier 29.
+
+“I’ll focus on support. Good to get back into the habit of it actually.”
+
+A phoenix Liz settled down on Aster's shoulder to watch her back and the three of them started cutting a path into the swarm of monsters that surrounded the elephant.
+
+It was slow going at first, but, as they fought through, Aster realized that the orc-like creatures were vulnerable to wind magic. Once they all started using those elemental spells, their clear speed increased noticeably.
+
+Most of the creatures seemed more interested in trying to rip meat off the elephant, and only turned to attack them when they were too close or hit by a stray attack.
+
+That limited their arsenal a little, as with their Tier gap they needed to be careful to not get overwhelmed. [Mana Beam] or something like [Breach] might have worked, but the risk was too high with tens of thousands of creatures who might turn on them en masse.
+
+A fear that turned out to be correct.
+
+As they reached the halfway point of total monsters killed, the attacking creatures turned their attention from the elephant to them.
+
+The three of them immediately retreated, and all unleashed their largest area attacks to cover their retreat.
+
+They were effective, but not nearly as effective as they would have been without the Tier difference.
+
+What was interesting was how the monsters’ Domains seemed to perfectly merge together, growing stronger as more and more joined together in their attack. It even got to the point that even a full powered [Mana Beam] just splashed off the leading orc-like creatures, and Aster's ice spells only slowed them down instead of freezing them solid.
+
+Liz’s ichor was mildly more effective, so long as she was able to kill the creature before all of its flesh was gone but even she struggled to burrow through the ever-growing bones if she didn’t take them down quickly enough.
+
+The situation was bad, but hardly untenable, and they were slowly whittling the creatures down as they retreated in the general direction of the rift exit, where they could be reasonably sure they wouldn’t run into more enemies and get cut off.
+
+Aster, however, noticed what was wrong first.
+
+“Look at the elephant!”
+
+Matt exploded upward, sending two of the orcs that had tried to tackle him flying.
+
+Off in the distance, the elephant that had been stripped of flesh was more than fully healed.
+
+It was growing like uncontrolled cancer.
+
+Flesh grew and grew until it popped like a blister before that healed and grew further.
+
+He also noted how the orcs that had been flesh covered were slowly becoming fully bone monsters.
+
+Apparently the orcs, goblins, and elephant had a mutually beneficial symbiotic relationship where they helped each other from deforming.
+
+“If we kite these orcs out enough, they will probably fully calcify.”
+
+Aster pointed out the issue with that option. “We probably won’t get the essence for those kills though.”
+
+Liz made the call. “Then let’s go pop that elephant.”
+
+Matt led the charge through the horde, even as they tried to drag the three of them down.
+
+[Bulwark] made for a plow that pushed aside the initial mass of enemies, and his repulsion effect kept their sides clear long enough to punch through.
+
+Once they were through, it was a foot race, and despite them only being Tier 26 to the monsters’ Tier 29, they were faster.
+
+It was times like this when Matt could fully appreciate all of the resources the army had poured into them to bolster their already impressive natural abilities.
+
+When they reached the elephant, a phoenix Liz slammed into its side like the realms smallest fly when compared to its massive frame.
+
+The phoenix Liz on Aster's shoulder gagged, but before their eyes the elephant’s ever-growing flesh started boiling, even as it turned golden.
+
+For the first time, the elephant screamed, its massive trunk causing a shockwave that took all three of them using [Air Manipulation] to fully block.
+
+The oncoming wave of monsters weren’t killed outright, though that would have been nice, but all of the orcs went down like puppets with their strings cut. Not dead, but disorientated to the point of being rendered ineffective.
+
+Matt grabbed the ground with [Earth Manipulation] and swallowed the closest mass of orcs, who had taken the brunt of the attack, and started squeezing, crushing them.
+
+They tried to fight, tried to merge their Domains to protect themselves, but he was prepared for that and had separated them by pulling some deeper into the ground than others. It didn’t stop them, but it did weaken the connection.
+
+The bursts of essence started slow, but, as Matt killed some, the collective grew weaker, making it easier to crush the rest.
+
+He finished just before the rest of the mass arrived in a frenzy.
+
+Blood, bones, and body parts flew as he, two Lizzes, and Aster’s golems protected her, even as she cast massive debuffing spells to slow their enemies further.
+
+Matt could also feel that she was starting to open her Tier 25 Talent space, though it was slow in the firmer space of the Tier 29 rift. The rift’s dual layers of reality might have made the effort more difficult as well.
+
+The fighting lasted almost an hour until the elephant’s side exploded and ichor started to rain down like acid rain.
+
+The orcs' boney bodies started to melt as flesh replaced the bone, making them easier to kill, and the three of them didn’t waste their moment to take care of as many of them as they could.
+
+The stealthy goblins were ignored, which led to all three of them taking hits, but any one of them was not so easy to kill and each of them could fight without limbs long enough to heal after the fight.
+
+When they finished, the field was littered with bodies up to their knees in the lowest spots and forming hills in the largest.
+
+Matt panted as he looked up at the elephant that was still being corroded by Liz.
+
+Looking over to his wife, he asked. “How fucking big is that thing?”
+
+“Larger than you’d expect. It's got a higher regeneration factor than a dozen damn trolls, making every inch of progress a battle. Thankfully my ichor is toxic to it and I’ll arrive at the brain soon enough.”
+
+Aster gestured with her staff. “Need us to help?”
+
+“If you wanna hit the other side, go for it. It might force it to split its healing factor.”
+
+Matt cast [Portal], putting the other end of it on the other side of the elephant where he, Aster, and her golems started attacking its undamaged flank.
+
+It took almost a day, but they finally burned through enough of the elephant's regeneration that Liz was able to infiltrate the brain and kill the elephant.
+
+The rush of essence they got from finishing off the elephant was like a torrent, but it wasn’t nearly as large as it could have been, similar to the stealthy goblins.
+
+Liz spat to the side. “I’m almost glad that wasn’t the right way to get all the essence. That flesh tasted foul.”
+
+Aster gave the phoenix on her shoulder a scratch. “On the bright side, there are three more giants in view, so you’ll get used to it.”
+
+That earned her a nip, but she wasn’t wrong.
+
+The next giant they started approaching had the stealthy goblins, but didn’t have the orc-like goblins. Instead, there were archers that shot saplings that grew like crazy and tried to burrow into anything they hit.
+
+Liz’s ichor wasn’t as effective as good old fire, but it was a close call, and the two of them burned their way through the hordes with Aster providing wide-area debuffs.
+
+The longer they fought, the more they got used to the pace of the Tier 29 battles, and what had been difficult became routine, though they were still always diligent to not become overwhelmed.
+
+The largest oddity was that, despite clearing all nine of the giants they found roaming the rift, they never found the rift boss.
+
+The reward distortion was accessible, but the boss was nowhere to be found.
+
+Then they saw the rift reward of just three mana stones, which was pitiful for a full rift, and was so unusual they immediately went back into the rift and tried to clear the rift without entering the second layer of reality.
+
+That made the rift a dozen times harder, as they couldn’t see their attackers and so had to fight entirely off instinct. That, combined with the fact that if they killed any of the monsters in close range they needed to stop themselves from being pulled into the other version of the rift, slowed their clear speed down to nearly nothing, but they persisted as they wanted to figure out the gimmick of the rift.
+
+And, to their disappointment, clearing the rift while never entering the second dark realm was not the answer they were hoping for. Once more, there was no rift boss to be found, and, without that, they couldn’t justify clearing the rift a third time while they were trying to advance, considering how much of a rift's total essence was typically in the boss. Without that influx, they weren’t making efficient use of their time.
+
+During that second run, Aster thought she felt the existence of a third and possibly a fourth layer of reality, but even after a full week of testing they weren’t able to figure out how to breach the deeper spaces. Even Matt’s full powered tearing of space simply let him swap between the first two realities, but not the theorized third or forth.
+
+Vowing to return, as well as to never mention this rift to Allie, they decided to move on to one of the other local Tier 29 rifts, one known for its monsters’ teamwork and numerous mini bosses, wanting to advance as far as possible before something inevitably pulled them from their delving.

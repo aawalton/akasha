@@ -1,0 +1,259 @@
+---
+id: 4d94a273-bc5f-55c6-b24d-28590046b0a1
+page-type-slug: story-chapter-royal-road
+title: "Chapter 54 – Return of Narcissus"
+slug: 0054-chapter-54-return-of-narcissus
+partOf: the-magpie-and-the-archmage-monster-evo-litrpg
+position: 54
+ownLength: 2158
+unit: words
+publishedAt: 2025-11-29
+link: "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2802757/chapter-54-return-of-narcissus"
+royalRoadId: "2802757"
+---
+
+The moment Damien made his grand entrance, everyone grimaced. Nobody dared to voice their displeasure aloud, but it was clear even to Liora that nobody was happy to have him back. How did he even get out of prison?
+
+"How nice to see you again, Damien," Clara said, barely able to keep her professional smile. Liora noticed how strained her jaw seemed to be.
+
+"Why, thank you, Clara! I'm most pleased to return and serve people. But I swear, the authorities of this city need to go through the Path of Iron Law once more. You'd think that trained professionals would be able to tell from a glance that a good soul such as myself would never stoop so low as to steal from a respected inspector. The thought itself is ridiculous!" Damien said, completely oblivious to his surroundings.
+
+Liora was surprised he hadn't noticed Kiva, who was unabashedly glaring at him, her ears pressed close to her head. It looked like she would hiss him at any moment.
+
+"How'd you get out of prison anyway?" One of the adventurers dared to ask.
+
+"My, I am glad that you asked. Let me tell you all the details," Damien strode up to the adventurer and then began retelling in great detail exactly what happened to him after the guards took him away.
+
+Serena, Kalen, and Kiva, in the meanwhile, quietly urged Noira to begin the class advancement process. She agreed and invited them to follow her into another room. Damien still hadn't noticed them. It was amazing how he didn't seem to notice anyone around him.
+
+"Liora, come," Serena urged.
+
+But Liora decided to stay and listen to Damien's tale. She wanted to know exactly how he got free and whether she should be worried about guards looking for the black bird.
+
+Serena did look at Liora longingly for a moment, but at Kalen's urging, they followed Noira. Liora landed on a chair near Damien and listened to his lengthy tale. It was actually exhausting. He went into such intricate detail and always painted himself as some kind of a saint. She was convinced that this man should be called Narcissus.
+
+The adventurers who had the misfortune to listen to his yapping looked like they were about to drop dead from boredom. Liora would have left, but she wanted to figure out why he was walking around here as if nothing had happened.
+
+The severely shortened version was thus. Damien was taken to the prison and interrogated about his whereabouts on the night of the theft. He claimed to be on a quest at that moment. After some investigation and digging, it turned out that multiple witnesses had seen Damien on his Delivery quest.
+
+Also, his father, an amazing Elite of some sort, apparently, had come all the way from another city to set his son free. There had been a big scandal, and he called for the Pillar of Iron Law himself. Or Duncan, as Renir had called him.
+
+"How did your father get into the city so quickly? I thought you needed a special pass," one of the adventurers asked, likely hoping to divert the topic.
+
+"What an absolutely dreadful system?! My father couldn't procure a special pass on such short notice and—" Damien went on another extremely detailed, long rant.
+
+But the short of it was that special passes were no longer required to get into the city. Apparently, it had been established by the Lord of Cyene. Once Duncan heard about it, it was instantly abolished. Damien went into a lengthy rant about how he and his father even met with the Pillar of Iron Law, who thanked them for bringing this absurd rule to his attention.
+
+Interesting. So it wasn't Duncan's idea to invent special passes.
+
+I imagine it wouldn't be sustainable long-term anyway. I wish he had noticed this before we arrived, so I didn't have to steal that pass.
+
+Perhaps if you just waited...
+
+The guards were searching for the unusual bird who stole the pass, but not as intensely anymore. With the special pass system gone, it was mostly just a matter of pride for the gaudy inspector. But Liora had no intention of showing her true form inside the city walls again.
+
+[Your skill <Magpie Disguise> has reached [Novice] level.]
+
+[Magpie Disguise – Allows you to assume the form of a regular magpie and masks your profile upon inspection. If your health drops to [Wounded] level, you revert to your original form.]
+
+Well, that's convenient. I can retain my disguise even if I'm a bit injured.
+
+It took an awful long time to reach the new rank. Makes me think that it'll have some really powerful effect at a higher level.
+
+"Ahhh!" Damien screamed all of a sudden and pointed at Liora. "Why the hell is there a bird inside the Guild Hall?"
+
+"It's been sitting there the whole time," one of the other adventurers, a younger swordsman, replied.
+
+"I didn't see it!" Damien said in outrage and waved at Liora in shooing motion. "Get lost, bird!"
+
+"Get lost, bird!" Liora mimicked his voice.
+
+"I don't sound like that!" He stomped his foot angrily. The others gathered around the table looked amused.
+
+"I didn't know she could mimic stuff," Clara leaned over the counter, looking at Liora curiously.
+
+"I don't sound like that!" Liora mimicked again. To her credit, she managed to capture Damien's voice in all its screechy glory.
+
+"Stop it!" He jumped to his feet and reached for his sword. "I'll cut you down!"
+
+"Stop it!" Liora mimicked and flew behind the counter to land on the backrest of Clara's chair.
+
+"Liora is an officially recognized Guild member. You are not allowed to fight with her," Mark said professionally, but it was clear that he found the whole situation funny.
+
+"What?! You're telling me that even a bird can become a Guild member these days?" Damien screeched in outrage.
+
+"She's a magical familiar, and by far not the first one," Clara explained.
+
+"A familiar? That dumpster bird?" Damien asked.
+
+"Caw!" Liora squawked and dove straight at Damien.
+
+The blonde produced a high-pitched noise similar to that of a little girl and fell to the ground.
+
+People laughed at the sight, but Liora decided that it was time to disappear. She didn't want this pompous manchild chasing after her. So she left the Guild Hall through the open window and decided to wait for Serena by their rooms.
+
+They returned some time later, looking excited and more confident than before. Liora flew over to Serena and landed on her shoulder.
+
+"Class advancement?" She asked, mimicking Clara's voice.
+
+"It was great! I feel so much stronger already!" Kiva announced. "I have access to many new skills. I can't wait to earn enough glimmerstones to unlock them!"
+
+Liora grimaced. Spending glimmerstones on skills? Pathetic.
+
+See? This is a normal reaction to the skill shop. You spend glimmerstones to gain skills.
+
+And lose my hoard. Absolutely not! Besides, my skill slots are full at this point.
+
+But you could unlock much stronger skills.
+
+I'm good.
+
+Renir didn't argue any further. He had clearly given up on the matter.
+
+"We'll have to head back into the dungeon," Kalen said excitedly.
+
+"Calm yourselves. We have to be careful in the dungeon," Serena chastised.
+
+"Yes, but we are stronger now, and I have this sword!" Kalen said, patting the sword Liora had given him. It hung snugly on his hip, but stood out against his shoddy armor like a sore thumb.
+
+"I want new daggers, a bow, and clothes!" Kiva announced.
+
+"If anybody is getting anything new first, then it'll be Serena. Her robes are barely holding together," Kalen objected.
+
+"I need a new weapon!" Kiva objected fiercely.
+
+"Calm down! We need to complete more quests before we can afford new equipment," Serena said.
+
+"Liora, can you bring me something?" Kiva looked at her with pleading eyes.
+
+"No," Liora deflected.
+
+"Aww! Come on! I'll share some of my breakfast with you," the weasel girl offered.
+
+This intrigued Liora. She certainly wouldn't mind a bit of extra for breakfast.
+
+"Enough. I'm sure that Liora just got lucky with that sword. It's not like there is equipment just lying around in the dungeon," Serena sighed. "Let's just go somewhere else before Damien decides to follow us."
+
+"Hard agree on that one. I don't want to meet him face to face again." Kiva shuddered.
+
+After that, the group went into a sort of rhythm. They went to the Guild Hall early in the morning. Liora always went ahead first to make sure that Damien was not in there. But they soon figured out that he didn't like waking up early.
+
+Then they would choose quests for the day. To avoid another incident where Liora would disappear in the dungeon, she always took the quest she wanted and let Serena register it along with the quests that they took for themselves. Usually, she undertook bronze quests and headed deeper into the dungeon than their group.
+
+She did stick with them initially, scouting ahead and making sure that they wouldn't be overwhelmed by kobolds. But once it was clear that they could handle matters, Liora would head deeper inside, in hopes of finding the Pulse Stone.
+
+But a week passed, then another, and Liora still hadn't found one. She, together with Serena, Kalen, and Kiva, had gotten the population of kobolds under control by themselves. She even encountered a few corrupted kobolds, but with Holy Light, getting rid of them was easy.
+
+Despite exploring Area G front to back, opening all the chests in each chamber, she never once got a Pulse Stone. She got daggers, which Kiva snatched for herself immediately. She found glimmerstones, some fancy gloves that raised users' attack, and a hairband that raised users' magical attack. Kalen took the gloves while Serena took the hairband.
+
+They even gathered enough money to buy better equipment. Kalen got new chest armor. Serena got new robes while Kiva got new boots. Their overall situation was steadily improving, as were Liora's levels and hoard. But even as she looked at her profile, she didn't feel even an ounce of satisfaction.
+
+[Profile]
+
+Name: Liora
+
+Species: Starfeather Corvid
+
+Level: 15
+
+Health: Small
+
+Mana: Moderate
+
+Glimmerstones: 323
+
+Skills (10/10):
+
+Mimicry [Expert]
+
+Lunge [Novice]
+
+Skypierce [Adept]
+
+Air Slash [Adept]
+
+Fade [Novice]
+
+Mana Conversion [Novice]
+
+Poison Shot [Novice]
+
+Holy Light [Novice]
+
+Wind Blast [Basic]
+
+Purify [Basic]
+
+Traits (8/10):
+
+Twilight Vision [Expert]
+
+Treasure Sense [Novice]
+
+Aerial Agility [Expert]
+
+Glimmerlust [Novice]
+
+Shadow Glide [Adept]
+
+Inventory [Basic]
+
+Magpie Disguise [Novice]
+
+Poison Resistance [Basic]
+
+Next Evolution: Requires Level 30 and ??? Glimmerstones to unlock
+
+At this rate, we'll never find that Pulse Stone.
+
+The chances of it spawning in Area G were low to begin with. I had hoped we might be lucky, but it seems not.
+
+We need to move on to the next area.
+
+Are your friends ready?
+
+That was the main question. They've been making great progress, leveling up and buying more powerful skills. Liora cringed every time they spent their share of glimmerstones on skills. Her instincts screamed that they should be kept safe, never to be used. But she knew that they had the right to use their glimmerstones on what they wanted.
+
+As much as Liora didn't like that. Or sharing the glimmerstones. She didn't mind giving them the equipment. It wasn't shiny, and she couldn't use it either way. But glimmerstones were something she wanted to keep all to herself.
+
+I'll try to convince them to head into Area F. That is the next area, right?
+
+That's right. It has a wider variety of monsters and very nasty terrain. Then again, terrain doesn't matter much to you.
+
+I'm above it. Literally!
+
+This morning, just like any other, Serena and others went into the Guild Hall, ready to undertake new quests for the day.
+
+"Good morning, everyone!" Serena greeted the receptionists when she entered.
+
+"Good morning!" They replied, already used to their presence.
+
+"Have you come for more quests?" Clara asked.
+
+"Sure have," Kalen confirmed.
+
+"Wait, you guys, before you begin, I have to speak to you," Noira suddenly called them.
+
+"What is it?" Serena asked curiously.
+
+"You have completed 20 quests by now, haven't you?" She asked.
+
+"They have. I confirmed it yesterday," Mark said.
+
+"Then you're officially qualified to take the rank advancement quest," Noira announced.
+
+"Rank advancement quest?" Kiva asked, cocking her head.
+
+"That's right! Complete it and you'll be promoted to bronze rank, unlocking all the goodies that come with it," Noira said.
+
+"Yes, we're taking it!" Kalen said excitedly.
+
+"Hold your horses. Let me tell you what you need to do first," Noira chuckled, and brought out a quest note from one of the drawers in the table.
+
+She slid it over the counter, and everyone took a look.
+
+[Rank advancement quest – Locate and defeat Cave Badger]
+
+[Location: Cyene Dungeon Area F]
+
+[Reward: rank promotion + experience]

@@ -1,0 +1,217 @@
+---
+id: 75562c68-3815-5342-bb67-0d9507a8755c
+page-type-slug: story-chapter-royal-road
+title: "91 The Final Rift"
+slug: 0048-91-the-final-rift
+partOf: the-new-world
+position: 48
+ownLength: 3437
+unit: words
+ownProgress: 3437
+publishedAt: 2018-01-01
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/183826/91-the-final-rift"
+royalRoadId: "183826"
+markedReadAt: "2026-06-29T21:22:26.485Z"
+---
+
+Hod raised his wings, “But Hod can fly. Harbinger not able to fly, so Hod go faster than Harbinger.”
+
+I charged my runes, getting them ready for travel, “Well, I got this new skill that lets me move fast. It should level the playing field, and I wanted to see just how much a difference it made.”
+
+Hod clasped his hands into three-fingered fists, “Then Hod crush Harbinger under talon foot...Hod not literally crush Harbinger. Hod figuratively crush Harbinger...Hmmm...What Hod meant-”
+
+I raised a palm to him, “I get it Hod. It’s just some friendly competition. There’s nothing wrong with that.”
+
+I opened my mini-map at the corner of my screen. Since the quarantine zone shrunk so much, we didn’t need to take the sewer for as long this time. We could have a reasonable distance for the race instead of just a few feet towards the nearest manhole. A shorter race suited Hod since he had no ramp up time. A longer race suited me since I got faster and faster with time.
+
+So after letting Hod know where we were going, we both set into our starting positions. He ducked down, raising his wings and head up at a forty five degree angle. I set up in a sprinter’ stance.
+
+“Alright Hod, whenever you jump up, I’ll start running too. Whoever gets there first wins.”
+
+Hod nodded before shooting off the ground. I sprinted forwards right after. Once I got a few strides away from Torix’s lair, I shot off the ground. Leaving a quake and deafening boom behind me, I flew through the air. Hod already put some distance between us, though my leap closed that gap by quite a bit.
+
+Once I dived into the earth and jumped again, Hod stopped flying faster than I was leaping. After the third leap, I closed in on him. Three leaps later and I passed by him. As I did, I passed within earshot of him,
+
+“Who’s got wings now?”
+
+Hod looked at me as I passed by him, a look of utter shock spread on his face,
+
+“Hod not know Harbinger fly too. Hod fly longer though. Hod knows the sky, and Hod knows the wind.”
+
+Hod flapped his wings, flying further up into the sky. By burning through his stamina, he raised himself far into the sky. I dived into the ground before making another leap. As I shot back up through the air, Hod glided downwards. He pressed his arms against his sides and built up speed before swooping up.
+
+He shot over the tops of the houses, just above most buildings. With his maneuver, he shot passed me again. Not wanting a loss, I racked my brain for a solution. Over time, I would beat Hod regardless because of how fast he got. The race wasn’t much longer now though. We were almost to the sewer cover Torix set up for us.
+
+With a split second decision, I landed on the ground before swimming through it. This was my final gambit for the race. Instead of flying out at a forty five degree angle, I kept the angle much closer towards the ground. This meant less of the overcharging was shooting me upwards and more was being used on going forward.
+
+I shot out of the ground, drilling through a few tree branches and the walls of a house. They didn’t slow me in the slightest as my speed increased. The ground came back much faster this time since I wasn’t in the air as long as before. I slid into the ground before making another leap.
+
+A bonus I hadn’t expected with this new method was wasting less mana. I could only overcharge my runes so much before they stopped taking mana in. Since my last stat boost, I couldn’t leap enough to disperse my mana in time. That meant some of the mana was wasted.
+
+With more frequent leaps, the endless spring of my mana could be used to its fullest. I shot in and out of the earth. My speed built several times faster than before, ramping up at a rapid pace before a notification appeared on my screen,
+
+Breakthrough Achieved! The coming Tide(lvl 3)-->(lvl 28)
+
+It was a nice surprise as I slammed against the side of a skyscraper. The windows of the building shattered as my telekinetic wave wobbled the ten floor building. It wasn’t some massive building, but causing it to shift at all was a feat of strength.
+
+Behind the skyscraper, the quarantine barrier went high into the sky. Far off explosions echoed. Bursts of blue and green plasma caused the spreading sounds. Gunfire gave everything a pattern of white noise, almost masking every other normal sound. Beetles drilled through nearby streets, racing off into the heat of battle. Some carried supplies and others were going to kill.
+
+There was a war waging behind me. That knowledge put some fire under my feet. Beneath me was the manhole cover. I jumped off the side of the building, crushing the pavement under my feet like playdough. A minute later, Hod arrived.
+
+He spread his wings wide, the drag on his feathers slowing him down before his feet dragged on the road. He dug two trenches as they tore through the pavement too. Hod turned to me,
+
+“Harbinger fast, faster than Hod. Hod not know Harbinger holding back.”
+
+I kicked up the manhole cover, snatching it with a hand,
+
+“Naw, I just got lucky and got a breakthrough in one of my skills.”
+
+Hod walked up to the sewer cover, “Ahhh. Hod understand. Hod get those all the time.”
+
+He jumped into the sewer before I did the same. As we ran through the tunnels, I asked,
+
+“What kind of breakthroughs are you getting?”
+
+Walking up walls and shooting past concrete and brick, Hod shrugged,
+
+“Harbinger know the easy ones. Hod get Flight skill, Dirk Mastery skill, even the Eldritch Infestation skill. Hod get all kinds of skills since coming to new world.”
+
+I blinked at the sound of the last skill, “What is the Eldritch Infestation skill?”
+
+Hod shook his head, “Hod not really know exact answer. Hod know it as rage. Hod let voices in head take over mind. Voice fight for Hod. Hod take back control after fight over.”
+
+My stomach sank, “Wait a second Hod...you’re letting voices in your head take over your body...then they’re giving you back control?”
+
+Hod nodded, “Hod not think about it like that, but Hod agree with Harbinger.”
+
+I frowned, my brain setting off at the realization. If what Hod said was true, his whole mana poisoning thing hadn’t been mana poisoning. It was the eldritch taking over. If it finished, Hod would become a level 1000+ eldritch running around.
+
+Stopping it wouldn’t be that hard though. Our group already had a resident who was under the constant threat of being consumed by eldritch. Using her as an example, I tore off a strip of my armor as we ran along. I made the strip of armor into a ring, using my flow of mana for added strength as I bent the metal.
+
+After finishing the ring, I pulled out my grimoire from my own spatial ring. I carved a few runic letterings as we ran. Hod badgered me as I did,
+
+“Hod wonder, how is Harbinger writing in book while running?”
+
+I glanced up from the runic lettering, noticing the passing scenery. I glanced at Hod,
+
+“Well, some things you do are very time consuming and difficult. If you can turn those hard things into skills, they don’t take up as much space in your mind. That lets you do more stuff than would be able to do otherwise.”
+
+I stared back down at my grimoire, “In this case, I’m just running with my mythical skill, The Coming Tide. It doesn’t take any thought to make it work. Instead of looking up, I’m using my mini-map as a guide. That lets me write in my grimoire as I run. It saves me some time.”
+
+A burst of white fog emitted from Hod’s eyes,
+
+“Hod not understand how Harbinger so smart. Hod impressed.”
+
+The complement threw me off from my runic carving. I never considered myself as very smart. I could get by with a bit of willpower and some brute strength on most occasions. Outsmarting my foes? That had never been my forte. With the surge in stats, particularly willpower and intelligence, my smarts grew quite a bit.
+
+Interrupting my thoughts, Hod slipped on a vine before smashing into a concrete wall. I dismissed his compliment, remembering who it came from. Hod shook his fist,
+
+“Vine outsmart Hod this time. Next time Hod outsmart vine!”
+
+I doubted the likelihood of that ever happening. I shook my head, homing back in on the runic carvings. Once I finished the basic inscription for a conduit, I channeled a bit of my mana into the grimoire. The letters glided off the page before I imprinted them onto a ring I made for Hod.
+
+The ring ended up doing what I wanted a bit more. I put my grimoire into my spatial ring, being careful with the precious artifact. I let Hod catch back up, tossing him the ring,
+
+“Here Hod. Put this on. Whenever you feel like that black aura is choking you, just put the mana through this. My armor will just eat it.”
+
+Hod put the ring on one his right hand, “Hod like shiny things. Hod thank Harbinger.”
+
+Hod put the ringer onto his finger, but his hand lurched backward.
+
+“Hod not understand why Hod’s hand not want ring. Hod stronger than Hod’s hand though.”
+
+He jammed the ring on his finger. Teeth on the rings inner lining jammed into Hod’s finger as he howled,
+
+“Hod’s finger right. Bad ring. Bad Ring!”
+
+I laughed a bit as we raced forward. The ring biting into his finger was unexpected, but it was necessary. If there was some menacing eldritch trying to kill Hod from the inside, then my armor would handle it. Any kind of energy I sent at my armor, it just soaked that shit right up. It was a nice, reliable way of handling this stuff.
+
+The only problem with my armor so far had been the voice in my head. It showed a lot of similarities with Hod and Althea’s voices. I don’t actually think it’s the armor though. I think it’s just some property of my mana. I rationalized it like this. My armor was something weird. Since that was a part of me, I was weird. Therefore, it made sense that my mana was weird as well.
+
+That meant in great quantities, my mana could take on a life of its own. It reminded me of the ambient mana found in dungeons or that made up the eldritch. With my superior control of mana now though, the voice of the mana was nothing now. It meant I could just overpower it with ease.
+
+Hod and Althea didn’t focus on learning magic like I had. Their own manas were still rampant within them, so they depended on someone else for control. Having that control made me appreciate my inflated willpower and intelligence too. Having a well rounded build came with more perks than just being able to punch harder.
+
+Punching harder was something I would need soon though. As we reached deeper into Yawm’s domain, gargantuan roots reached into the sewer. Veins of green energy pulsed up through the roots, towards some unseen center. Most of the plants wilted towards these roots like they were being drained. What made it strange was how some plants weren’t wilting at all.
+
+Noting that oddity, Hod and I reached our destination. From here, closing in on the rift would require going out of the safety of the sewer. We crawled out as Hod reformed into his stronger, shadow form. He turned to me as we left,
+
+“Hod take lead. Hod quiet.”
+
+I nodded as we skulked through the cityscape. High-rises rose up into the gray cloud beside us. The world tree’s roots, larger than houses, segmented the city into some kind of labyrinth. The gray cloud covering the world tree was like some ominous wall. The largest buildings were halfway outside it like they were struggling to escape.
+
+The roots crawled through the giant structures, like vines crawling through someone’s eyes and skin. They invaded the scenery, pulses of green creating earthquakes each time they pulsed up towards the cloud. Our destination was inside the cloud of gray. Hod shivered,
+
+“This...this is the corruption?”
+
+A wave of fear ran up my spine, “Yes. This is Yawm’s world tree. He’s really fucking things up right about now.”
+
+Hod dashed into the cloud. I followed him. It was the same sensation as entering a rift. The icy needles dashing into my skin, the change in feel, it was all there. As we ran closer, everything lightened. All the roots leading towards the world tree’s center were off the ground. The center of it was off the ground.
+
+After going a bit deeper inside, I found a stone floating in the air. It was a rock in the middle of an alleyway. There was no source for it floating, so I assumed one of Yawm’s followers found us. With Hod and I on high alert, I analyzed the nearby area with Tactile Cognition. Keeping it on at all times would be an excellent use of my time.
+
+I made a note of that, I reached out with the skill and surveyed nearby. There were other stones floating within the buildings and deeper into Yawm’s lair. Once I was satisfied with our security, I let Hod walk up and touch the stone. When he touched it, the stone floated off, like it was weightless.
+
+It pulled back, orbiting some central point before resting back where it remained. It was a surreal scene, even by comparison with some of the crazy shit I’ve seen.
+
+“Hod amazed. Stone learn to fly too. Hod flying no longer special.”
+
+I rolled my eyes as we skulked through alleyways into the masked metropolis. True to what I saw with my skill, other objects floated too. Cars, lights, roots, nothing escaped the grasp of these random fluctuations in space-time. With no idea of what the fuck was going on, we slowed down our pace.
+
+I surveyed everything I could with Tactile Cognition, keeping myself aware as possible. Hod sniffed the air, black drool leaking from his mouth. His unblinking eyes bore into everything around him, like the eyes of a hunting wolf. The deeper we tread, the greater the size of the floating objects.
+
+Without any warning, we passed the wall of gray mist, letting us see ahead. My connection with Schema severed. I hardly even noticed.
+
+Hundreds of feet high, floating islands were kept together by vines and the roots of the world tree. The sky surrounding the islands was red like the other rifts. Each of the islands was covered in lush greenery, tiny jungles forming on each island. Throngs of flying creatures dashed between these islands.
+
+Each of them shifted around, odd and strange, like monsters that crawled out of an abstract painting. They fought amongst themselves, their disfigured forms writhing in flight. Between the islands, the world tree’s roots created bridges.
+
+Giant insects and monsters crawled along those bridges, migrating from island to island. Clouds of mist floated like the islands, creatures reaching out and breathing deep breaths of the wet air. Glancing at the red sky, Hod’s jaw opened as he stared,
+
+“Hod has never seen a place like this.”
+
+I gaped at the sight too,
+
+“Neither have I.”
+
+We walked into the rift. Once the awe of the place faded, Hod turned to me, “Hod going ahead. Harbinger catch up?”
+
+I shook off the shock of the sights, “Yeah, yeah, of course.”
+
+He dashed up, a wave of sound echoing from his feet as he stomped into the ground. There was no message from Torix about the followers, so I charged my runes and leaped up. We reached the first island, our landings causing it to shift off course. The floating island crashed into the one beside it, sending a flurry of birds up and out of their resting spots.
+
+From around us, giant insects crawled out of the earth. The birds swarmed around us, circling us like vultures. Disfigured creatures opened their eyes from within trees. A nearby beetle crawled up to us. It was a vibrant yellow with red eyes. It spread its wings, and as they buzzed, they flashed with light.
+
+As it squirmed around, the monster left after images. Looking at it made me feel drunk, almost throwing me off balance. The two horns on the side of its head grabbed a car covered in forestry. The monster clamped through the steel, the glass windows crumpling before shook its head.
+
+The sides of the car crashed into trees near us.
+
+Adult Solar Beetle(lvl 988) - Thriving on the energy of the sun, these beetles are worthy foes. When found in groups, even veteran sentients should be cautious. Their movements leave after images, creating illusions behind them.
+
+These can cause disorientation, along with a sense of weakness. The shimmering wings act as a second layer to this sensory overload. When utilized in a group, these illusions can become overwhelming. Grown sentients may be brought to their knees by as little as a dozen of these monsters.
+
+Outside of that, their raw power is nothing to scoff at. They lack the same speed of other high level creatures, but the slow approach is made up by their disorientation and raw strength. Once they’ve grabbed a hold on you, the beetles will hold on like bulldogs. Once they’ve piled on you, they vibrate their bodies and roast you alive.
+
+Your willpower is plenty high enough to resist this onslaught on your senses. Based on your current skillset, you can cover your eyes and avoid the disruptive powers of the insect regardless. Respect them, but enjoy the experience.
+
+Several of the other solar beetles crawled out of the ground. Above the circling birds closed the gaps around us, created a picture. It was a shifting, abstract painting that messed with the senses like the beetles did. One of the birds left the encirclement, landing beside us.
+
+The head was like two isosceles triangles jammed together at random angles. The entire thing was sharp, angular, and alien. Two eyes pointed in different directions, the amber irises turning towards us. The monster’s wings were the only part of it that even made sense.
+
+Strong muscles rippled under the apricot colored skin, feathers of the same color making a sleek, efficient wing. A mouth full of jagged, white teeth lined its face. As the mouth opened, it let out a high pitched roar and a smell like death. The system finally came through.
+
+Abstraction(lvl 1103) - A monster built from hyper condensed fragments of ambient mana. They don’t deserve such a high danger rating on their own. It’s what they signal and just how dangerous they are In a group.
+
+When you see an abstraction, the very beginnings of a fringe world are forming. A rift has broken open to a point where closing it no longer sends the entire dungeon back. Whatever spot has been tainted will be tainted until an overseer can come in and fix the issue. If too much time passes, this spot can no longer be completely fixed.
+
+That is why these monsters are given danger level ratings above their abilities. It is to attract adventurers into a dangerous rift and close it before it’s too late. That is unless they are seen in large swarms. These creatures create ambient mana that can speed up the evolution of other eldritch.
+
+Kill them as quickly as you physically can if they swarm around you. Otherwise, they will rapidly develop the enemies around you into monsters you can no longer slay.
+
+On cue, Hods slashed through the face of the abstraction. Dark orange blood gushed from its face, splashing over Hod and I. The solar beetle nearby grew another pair of wings and legs. The head of the creature split open, writhing mandibles reaching for us. The sickening crack and lurching sound of the beetle was like biting into a rock in your food.
+
+Several other beetles crawled from the trees as Hod turned to me, his eyes red,
+
+“Come, Harbinger. Now is the time for slaughter.”
+
+And so it was.

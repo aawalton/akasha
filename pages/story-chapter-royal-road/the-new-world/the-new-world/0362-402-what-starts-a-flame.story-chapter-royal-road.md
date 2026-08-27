@@ -1,0 +1,397 @@
+---
+id: e22fb78a-b7ef-5df5-8f15-47cd436a5b30
+page-type-slug: story-chapter-royal-road
+title: "402 What Starts a Flame"
+slug: 0362-402-what-starts-a-flame
+partOf: the-new-world
+position: 362
+ownLength: 4003
+unit: words
+ownProgress: 4003
+publishedAt: 2025-03-22
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2144374/402-what-starts-a-flame"
+royalRoadId: "2144374"
+markedReadAt: "2026-06-29T21:33:42.588Z"
+---
+
+Florence furrowed his brow.
+
+"You mean Lehesion?"
+
+I grabbed the wall, my fingers digging into the concrete.
+
+"No. I could've smashed him like a bug. I need to kill the so-called gods that protect him."
+
+Florence furrowed his brow.
+
+"And who might they be?"
+
+I spiraled the concrete dust over my palm. It swirled like nebulae in space as I turned to Florence.
+
+"The Old Ones, of course. I'm going to kill them all."
+
+Chapter Begin
+
+Florence watched chips of concrete swirl.
+
+"Are the Old Ones even alive to kill?"
+
+I sighed, pulling my hand back.
+
+"I don't know."
+
+Florence scratched the back of his head.
+
+"It sounds like a rather lofty goal then. Personally, I can't even imagine ending an Old One. From what Obolis said about them, they're not even comparable to the cosmos. Supposedly, they watch us, poking and prodding where they wish without want or reason."
+
+I honed in on Florence. The albony gazed into the distance.
+
+"Ah yes, Obolis once said the Old Ones were from a different dimension. I doubted him then. Now, I realize he didn't know, and I likely never will either."
+
+Florence stepped up to his regal clothes. It would've been hella awkward if not for the fact fur covered his entire body.
+
+"Your goals are easy to understand, at least. If you did slay an Old One, it would be an incredible achievement, something that's never been done. It's a lucrative pursuit as well. They are the only S+ bounties in Schema's system, so the rewards would be endless."
+
+I laughed.
+
+"The Old Ones are much bigger than Schema from what I can tell. I'll need to maximize my system gains before trying to take them on. After that, I'll have to tread into some pretty unmarked territory for quite some time. Combine that with plenty of research to figure out what they're capable of. How they're alive. What they want. Anything I can scrounge up, honestly."
+
+I shook my head.
+
+"It's a lot. Sometimes I feel like I'm in way over my head."
+
+Florence smirked.
+
+"I'd certainly hope so. Otherwise, our resident Harbinger wouldn't have any cataclysm to omen, now would he?"
+
+I gave his shoulder a nudge.
+
+"I'd be hopeless. Lost, some might say. Speaking of which, I'll get lost and let you change."
+
+Florence rolled his eyes.
+
+"Fur covers every inch of an albony's body. If I may be so frank, the clothes situation hasn't ever really made much sense to me. For us albony, that is. You know, this cultural practice of clothing required intense air conditioning during the albony industrialization. Imagine a pre-system albony wearing these robes in a hot, humid area."
+
+Florence winced.
+
+"Blegh. I'd pass out from hyperventilating. One couldn't hope to outpant the heat."
+
+I stepped out with a smile.
+
+"Good luck, Florence."
+
+"You as well. Ah, before you go, may I say something?"
+
+I leaned against the doorframe.
+
+"Sure. What's up?"
+
+Florence nestled his hands.
+
+"Not that I doubt your judgment, but I was wondering why you trust so deeply in Shalahora and Plazia."
+
+I furrowed my brow.
+
+"What do you mean?"
+
+Florence took a breath.
+
+"It's a matter of recourse. Those individuals far exceed the general power standard of our guild. Either of them could run amok and leave us devastated. At the same time, they both come from dubious origins with cloudy, muddled allegiances behind them."
+
+Florence met my eye.
+
+"But there is more. Rarely, I cannot read an individual, yet I can't read either of them in our conversations. It's haunting to me."
+
+Florence shivered.
+
+"And Shalahora, it feels as though he's seen through me at times. I...I trust your judgment in most situations, but these two...Are you not worried they shall defect? Perhaps work against your best interests?"
+
+I considered Florence's words for a moment. The albony raised a hand.
+
+"Pretend I never said anything."
+
+I waved his redaction off.
+
+"You're right to be concerned, and I'm taking a second to pool my thoughts."
+
+A minute later, Florence dressed himself. I turned a palm to him, and my thoughts settled.
+
+"I have three reasons: need, incentives, and understanding."
+
+Florence tilted his head.
+
+"It's good you've given it thought. So how do those factors align towards our gain?"
+
+I counted on my fingers.
+
+"For need, we need them, and they need us. Regardless of Plazia's methods, I do believe him when he talks about his past. I can feel he's being honest, and he's been more than willing to work hard to earn my trust. Shalahora's skills are actually even more necessary, and I believe his situation is far more constrained given he signed a cipheric contract."
+
+Florence nodded.
+
+"You mentioned it, and though I haven't seen the details, I assume it was well thought out. However, what of Plazia? He could be lying to you between his teeth, and you'd be none the wiser."
+
+My mind settled onto the conversation. They inspected Florence's breathing, heart rate, perspiration, and mana flows. I spoke as minds poured over everything I said.
+
+"I'm harder to deceive than I used to be."
+
+Florence's hair stood on end. He gulped.
+
+"Hah. I certainly feel that in our conversations. However, it's difficult to assume the same signs are evident in a hivemind."
+
+"I think it's the opposite because of how Plazia speaks. He pulls minds together, aligns them, and then speaks from a unified front. The reality is that he's a congregation of many different minds that all think differently. As he mulls over the enormity of conversational choices, pieces of his inner thoughts slip. That's one of the reasons he's so rude."
+
+Florence scoffed.
+
+"I thought that was merely a side effect of being an eldritch. Amara is quite the handful as well."
+
+I peered through Florence.
+
+"Yet Other Hod is as polite as anyone I've ever spoken to. In the case of Plazia, he's splintered between many pieces of himself while suppressing a desperate hunger. It also helps to know he could've killed me a dozen times over, considering how long he surveilled Earth before joining our guild."
+
+Florence leaned back.
+
+"He surveilled Earth?"
+
+I spent some time telling Florence the details of meeting Plazia alongside stories of the hivemind's past. By the time I finished, Florence nodded along. The albony cupped his chin in thought.
+
+"Hm. Everything does align with our goals, though from a different angle. Perhaps he's more trustworthy than I thought."
+
+I raised my brow.
+
+"Regardless, I'm coming up with methods and ideas for managing a worst-case scenario involving the guy, but so far, he hasn't given us a reason to mistrust him."
+
+Florence took a breath.
+
+"I'll see if I can't manage some dissent in the guild during my downtime then."
+
+"Dissent?"
+
+"Well of course. You handed an eldritch hivemind one of your guild's highest honors while neglecting to mention what it was that he had done to support us in detail. The people of your guild aren't happy about it, and I'm of the opinion they're rightfully resentful."
+
+I furrowed my brow.
+
+"Why hasn't anyone mentioned it? Hell, no one's even so much as thought about it whenever I'm around. Huh. I might be worse at reading lies than I thought."
+
+Florence shook his head.
+
+"Your aura is palpable, friend. They do not lie to you whenever you're around. They find themselves believing despite themselves. It's once you're gone that doubt settles in like a creeping mold in an old home. I'll find some method of marketing Plazia's more positive traits in the meantime."
+
+"I would appreciate that."
+
+"It's never a problem, and thank you for taking the time to alleviate my worries. Now, I have a bit of business to attend to. There are many factional meetings on my docket, and I'm certain you have much to attend to as well."
+
+I waved a hand.
+
+"Good luck."
+
+"You as well, Harbinger."
+
+After leaving him to his devices, I headed out of the hospital. Before I made it, Echo walked out of its room and stopped in front of me. Its steps left glowing footprints that faded over time, and a subtle streak of illuminated mist followed after it like a plane's contrail. The effect faded over a few seconds. No matter what I thought about their species, the luminari carried a serious visual appeal. They were genuinely beautiful.
+
+Echo raised a palm.
+
+"Wait a moment. I wished to say something."
+
+I raised my brow.
+
+"You finished that quickly. I thought it would take a few weeks. Do you know the cipher that well?"
+
+Echo lowered his hand.
+
+"Our kind reads intent, not words. In that regard, the general consensus of the document was clear. I also think you are correct in your assessments. We can achieve more than we have, and we don't need to rely on outdated Schemic systems to do so."
+
+I frowned, taken aback by his sudden change in demeanor.
+
+"What changed your mind?"
+
+Echo pointed down the hallway.
+
+"A nurse came by my room while you were away. They told me that your species originated on this planet. I could hardly believe it. To think that the Harbinger formed from a barren, underdeveloped, and backwater wasteland like this. It defies all conventions."
+
+He made his opinion of Earth clear. Echo stood tall.
+
+"We will follow in the path you have laid out, one of brutally conquering other races instead of using Schema's tricks. We will walk the bloody path you have set before us."
+
+I blinked as a stunned silence passed over us. I frowned.
+
+"I've conquered no one, and I am the king of nothing."
+
+"Then what of the gialgathens? Are they not required to serve your guild for a hundred years before they are freed?"
+
+I rubbed my temples, searching my mind for the terms he referenced.
+
+"I believe that was two decades, and they live for hundreds of years. I couldn't afford to feed them or house them at the time, so we agreed to a certain amount of guild assistance. They're still paid salaries, given benefits, and can choose what they do when they do it."
+
+Echo laughed.
+
+"Ah, of course! But...They are still required to serve. Correct?"
+
+I frowned.
+
+"Yes. With full pay and no permanent repercussions, caste systems, or daily quests."
+
+Echo crossed its arms.
+
+"hm. Is that the difference, then? It seems so similar to what we've done, but perhaps the light of a situation is found in those details? I'll reassess my revelations, but I also wanted to point something out to you."
+
+It walked into its room and pointed up.
+
+"We luminari are more in tune with the electromagnetic waves of a planet and star system than your kind are. Currently, the sol system appears to be under some kind of unseen pressure, and it is causing the light waves to fractalize and bend in certain places."
+
+I leaned against a wall.
+
+"Fractilize? Isn't that where a pattern repeats forever? How would light even do that?"
+
+Echo lowered his hand.
+
+"It's feasible, if a bit tricky. We use light fractals during union ceremonies to express the harmony between two luminari. The light fractals are created with two beams of light, each one representing one of the two present. The lights then blend together, intertwining as deeply as one may dare to gaze."
+
+I crossed my arms.
+
+"Ok, I'm not a romantic, but I gotta admit that does sound beautiful."
+
+Echo's lights glowed yellow.
+
+"It is. However, these light fractals we create never exist in nature. For light to bend at such angles isn't feasible without intervention, and some strange force is curving it in odd ways. We thought you should know about it."
+
+I gave his shoulder a tap.
+
+"Now that's the kind of teamwork we're looking for. I appreciate the info."
+
+I turned to walk off. Echo's head twitched.
+
+"You should know that this effect isn't isolated to Earth. It is present across the entire Sol system. Be ready for whatever encroaches."
+
+I paused. Echo sat back down on his bed.
+
+"We wish you luck dealing with whatever is causing this irregularity. You may need it."
+
+Dread pooled in my stomach hearing that. I waved a hand.
+
+"Thanks for letting me know."
+
+I walked out of the hospital while considering Echo's words. My gut instinct told me it was related to the uncloseable dungeon in Chicago. After all, those portals meant some dimensional instability was occurring, so light curving all over the place wasn't exactly surprising. However, I hadn't locked that connection point in.
+
+My musings left me swimming for answers and finding none. Once outside the healing center, I opened my status.
+
+The Living Multiverse | Level 24,011 (Cap: 39,000) | Class: Sovereign | Guild: The Harbinger's Legion - Yo, Torix. Is it possible to have you scout out the moon? I just had a warning from a luminari leader, and it sounded nefarious.
+
+A few seconds passed.
+
+Torix Worm, the Harbinger's Erudition | Class: Archmage | Guild: The Harbinger's Legion | (lvl 16,000) - Ah, there have been reports of relatively strange happenings throughout the continents. It's only logical that such a celestial phenomenon wouldn't be limited to one measly solar system, let alone a planet.
+
+I shall attempt to uncover some means or manner of investigating it. Perhaps it's time to remake my previous lunar base? It does have a rather diabolical ring to it that I find quite appealing.
+
+I'll keep you posted on any happenings and the like.
+
+I hadn't checked out Torix's status in a while. He capped his level a while back, it seemed. Checking out my own status, I had a few points lingering, so I put them in endurance and finalized my selection. A subtle energy permeated through me, but it was far more difficult to perceive than whenever I gained a tree upgrade.
+
+An idea popped into my head from that, but I left that for later.
+
+Having crossed out quite a bit on my to-do list, I still had a few errands lined up. I wanted to remake Torix's body, but if I did, it would be outdated soon. The Arming Schema's Warrior's quest would raise my level immensely, and Torix deserved something mint after all his contributions.
+
+Those considerations led me to my golem creation facility. Within its heat-insulating walls, I crafted and molded a couple thousand golems over the next few days. The process gave me time to hone in on my next legendary skill and to consider what unknown skill I'd ask for with my compendiums.
+
+Unfortunately, I found a few problems. A bit of research revealed the legendary compendium's limitations. It required me to already have three mythical skills created, so it only fused the skills rather than building them from the ground up like the mythical compendium had. That being said, the fusing process still gave me a lot of flexibility.
+
+While not directly stated, my reading implied a legendary compendium could fuse any mythical skills regardless of synergy. This was the exploitable element of the compendium, not gaining the actual legendary skill. By forcing skills together, the learning experience could create strange, odd combinations that defied reason, all while filling in missing parts of a build or skillset.
+
+That being said, most of the information I had came from the treasure trove Elysium gave us, combined with some extra learning licenses Amara gave me. More like hacked into my status. Either way, those adjustments let me rummage through various safeguards Schema established on his network. It even let me browse through a few isolated interwebs for other empires and species.
+
+Having a hacker eldritch wasn't too shabby.
+
+No matter what file cabinets I raided or data stashes I uncorked, there wasn't any information on the unknown compendium. In fact, almost nothing referenced them at all. At first, I thought the gaps surfaced because Elysium purposefully neglected those pockets of information, but nothing existed on Schema's network as well.
+
+It was something uniquely mine, so I put that on the back burner for now.
+
+Putting myself back in the present, I gazed at a couple thousand raw golems floating in the facility. Before sending them out, I installed a new runic paradigm revolving around the molerats and luminari, something I was able to do because of Diesel's limiters.
+
+I got them ready for action before beginning the long, arduous process of crafting Schema's proposed gear. Even a simple amulet/ring combo added to the subtotal, so I cranked those out like a politician spouting false promises. Within hours, I hoarded a colossal pile of enchanted rings and chains, though they only had basic enchantments at best.
+
+Taking note of the time required, I crafted about three thousand of them in an hour. That meant 72,000 amulets in a full day. It would be half that because of my nighttime training with Shalahora. I'd need well over half a year to finish Schema's request, assuming my pace didn't accelerate over time. Oof.
+
+Getting after it, I crafted for the rest of the day, the sun setting in the distance. I sent the golems to relevant parties, from established cities from my expansion force to skeptile settlements to Florence. Once finished, I mosied on over to Shalahora's hill. The brutal, genuinely diabolical training continued with only the smallest indications of progress.
+
+Oh, but there were indications. I held onto that as motivation.
+
+By comparison, I kept on crafting the ring amulets until they flooded out in massive waves. To tally up my total for the quest, I had to take the merchandise to our currency exchange center in Springfield. When accepting the amulets, Sentinels arrived before hauling everything away with a few system-approved classers.
+
+The first day took several hours to haul the pendants, but the second took seconds. I got tired of waiting for them to verify the merchandise and ensure it wasn't fake. They could do that on their own time and own pace, not mine. I stopped their warps from closing before hovering my amulets onto their gray vessels. I ruffled a few feathers in the process, but such was the price I paid to not waste my time.
+
+My guild kept busy in the meantime. The skeptiles found a remote location in the Mojave desert, finding an enclave of massive creatures with inhuman claws that left death in their wake. They called them the claws of death. Apparently, they hoarded up near a quarry beside Interstate 15. I appreciated the skeptiles clearing out the problem before it became too big a problem.
+
+At the same time, they established three footholds in the region, using some currency I granted them to shuttle a few skeptiles over. In particular, they loved the Grand Canyon, mentioning how it reminded them of home. To their chagrin, a massive dungeon formed over the area, dozens of dungeons fusing together into a colossal, alien ravine.
+
+The scouts left the fighting to Tera and my followers, but the conflict became more intense than anyone expected. A tribe of locals ruled over the monsters and organized them, and they used guerilla warfare and combat tactics to frustrate our team. To my chagrin, somehow, we lost two of my golems, and someone injured Krog.
+
+That left me baffled. While Diesel and Tera weren't combat specialists, Krog and Chrona were. Considering the average level Earth sat at was somewhere in the high hundreds, my team should've vaporized any resistance with ease. It was like riding into a candy shop with a tank. Our dominance was assured.
+
+Until it wasn't. Something was off, like with the Chicago rift, and it didn't sit right with me. I planned on heading over soon. As for my guild's growth, they established seven footholds in major populated areas nearby. We dispersed serious aid in Toronto, Detroit, Milwaukee, Cleveland, Buffalo, and Minneapolis.
+
+My guild established dominance over the Great Lakes area along with our presence in the American Southwest deserts. This required dismantling local warlords, which wasn't the most difficult task. Most of their levels sat in the low thousands while being unclassed and unfamiliar with true strength.
+
+The futility of resisting our governance destroyed their fear-centric control. More potent than our combat abilities, my guild's consistent donations and infrastructure build-up won over the local people. We didn't have any tribute requirement, instead opting for a reconstruction-based plan. This enabled many of the locals to get back on their feet. It also increased our guild membership tenfold.
+
+Let's just say Torix was a busy man in the meantime.
+
+Two weeks passed in this way, each piece of my guild steadily accruing control over certain areas and places. Because I got a system down, I finished one-tenth of my quest from Schema before getting a message from Tera.
+
+Tera, The World Breaker(Lvl 9,000 | Guild: The Harbinger's Legion | Class: Speaker) - Hello, Daniel. I'm sending an update to let you know what's happening. We've been using the architect golem and Diesel's vast knowledge to establish a new home in what your kind calls the Grand Canyon.
+
+The issue is what you've probably heard about - there's someone controlling the eldritch here. They weren't strong where we first settled down, but closer to the largest parts of the canyon, we can't even approach. It's worse than a fringe world there, and I can't believe your species is managing it. It is impossible to have formed this quickly in such a new world, yet it is here.
+
+The eldritch have strange powers as well, not like others I've encountered. One of Krog's wings was nearly torn off by a blurring figure, and we're worried we'll start losing people once your golems are whittled down. We're sorry to request your assistance, but we need someone to breach the outer line they've established.
+
+We could put down our cities elsewhere, but this place...It's important for us. I think our kind will embrace this new world if we're granted such a majestic new home. It reminds me of our capital before the industrial era of the albony ruined it. It's a place for a new history.
+
+I know you've done enough for us, so let me know if it isn't feasible. Thank you again for everything.
+
+It read like a letter, one I couldn't say no to. I sent a message to Helios for transport before cracking my neck. Hovering out of my golem facility, I landed outside as a portal appeared. Helios walked out, a fresh wound on the side of his face.
+
+He smiled with a frenzy in his eyes.
+
+"Your actions are made known. I've seen your artifacts on the Sentinel's beside me, and considering their ubiquity, you must be pressed for time in making them."
+
+I gestured to his face.
+
+"I'm not the only one juggling a dozen things at once. Where'd you get that?"
+
+Helios touched the trail of blood from the still-bleeding wound.
+
+"I fought a twisted Sentinel. They're powerful opponents, ones without any true weakness. Your gauntlet prevents them from psionically overwhelming me, and the gravitation and telekinetic aspects enhance my mobility. Without the artifacts and the golems, I couldn't kill them as I do."
+
+I raised a brow.
+
+"Them? As in multiple?"
+
+Helios gazed at his claws, his expression bored.
+
+"I fight what appears before me. Nothing more, nothing less."
+
+I gave his shoulder a friendly nudge.
+
+"Oh yeah, real smooth coming from the albony prince that's still bleeding."
+
+He smirked.
+
+"Did my disinterest come across as that disingenuous?"
+
+I scoffed.
+
+"I could see the hidden smile from a mile away."
+
+Helios shrugged.
+
+"Despite myself, I must admit I'm proud of my kills."
+
+He frowned.
+
+"Onto pressing matters. As always, you required me for transport?"
+
+My expression hardened.
+
+"Yeah. Something's happening a few thousand miles from here. I sent you the map."
+
+Helios stood with more confidence as he read the letter from Tera. Helios took a breath.
+
+"Then let's uncover what's stopping our compatriots from advancing, shall we?"

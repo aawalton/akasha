@@ -1,0 +1,235 @@
+---
+id: 35eef6b1-b4f7-5c2d-b9e2-cd28c1fd48d5
+page-type-slug: story-chapter-royal-road
+title: "101 Breaking Through"
+slug: 0059-101-breaking-through
+partOf: the-new-world
+position: 59
+ownLength: 3720
+unit: words
+ownProgress: 3720
+publishedAt: 2018-03-03
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/198237/101-breaking-through"
+royalRoadId: "198237"
+markedReadAt: "2026-06-29T21:22:51.645Z"
+---
+
+I finished my war cry before falling back onto my knees. I glanced around at the destruction. Six blocks were leveled, piles of rubble all that remained of them. Gaping holes littered several stores nearby, and a few houses stood on their last legs.
+
+Of in the distance, Torix’s jaw slowly reformed. His fire eyes were glowing, more like coals than flame. Kessiah was covered in the blood of the eldritch. The wounds on her were few. During my fight, I kept my strikes intent on killing the eldritch armor more than her. She wouldn’t die like she was. There would be plenty of scars though.
+
+Hod might be dead somewhere off in the distance. I was too tired to stand and find out. He was probably just knocked unconscious. Since the eldritch had been Dakhma, we would all gain a ridiculous amount of experience. Before checking out my attributes and levels though, I opened my notifications. Something I’d been working towards for months finally showed up.
+
+Legendary Skill Unlocked! Combines the three mythical skills, The Coming Tide, Volatile Carnage, and Boundless Storm into the single legendary skill called, Force of Nature. Half of remaining skill points in these three mythical skills are rewarded. Total Bonus tree points from fusion | 1352 | Below is a list of the legendary skills other bonuses.
+
+It was by far the longest notification for a skill I had ever received. I must have learned the skill when I felt like everything synced up all of a sudden. After reading over the bonuses of the skill, there was a few solid bonuses to exploit.
+
+The extra attributes were a pleasant surprise considering no other skill gave them. The classes and titles might come in handy later. I would have to wait for those until after facing off against Yawm. They might help me figure out what I’ll be doing after killing the monster.
+
+The extra bonus for magic was an awesome surprise as well. After doing a quick bit of math, I could make molding gravity and telekinesis manaless once I had 10,000 skill points in Force of Nature. Easy peasy. Considering the skill didn’t become harder to learn with level, that might be possible.
+
+Curious about what the skill said, I checked it out.
+
+Force of Nature(lvl 7) - You are nature given fury. Enhances all techniques and application of skills within this ability, including: Close Range Combat, Runic abilities, Telekinesis, and gravitational magics.
+
+Bonus Attributes: 5 Strength, 5 Dexterity, 2 Constitution, 2 intelligence, 1 Perception
+
+Ability Bonus: 5%
+
+Mana Cost Reduction: 1%
+
+First up was the person beside me. Kessiah was still breathing, and after checking her pulse, she was stable. Moving wasn’t so difficult anymore, so I walked over and inspected Torix. He seemed fine, the dim lights of his eyes growing. I paced over towards the house Hod was lodged in.
+
+Low and behold, Hod was fine. Both his wings were broken, and a crack ran up his metal beak, but he would live too. I walked over, tearing off strips of my armor. Getting the armor off was a struggle, but I managed it. I bent Hod’s wings back into shape, using the armor strips as splints. Hod screamed whenever I realigned his bones, but after that he settled down.
+
+I carried him towards Torix, setting them beside each other. Keeping watch of them would be easier with them all beside each other. Since I had some time to think, I poured all my excess mana into the eldritch rune on my arm. It was like agony from way back in BloodHollow all over again.
+
+It made my ridiculous mana generation useful, so I counted my blessings. Once my mana was channeling, I walked over and picked up Kessiah. With telekinesis reinforcing my feet, I carried her over without digging into the ground. I set her beside Torix and Hod before flopping backwards.
+
+I pushed my back off the ground, my legs flat against the ground. I turned to Kessiah, seeing her carbon fiber pouch unharmed. It was a tough damn compound. I grabbed it from her side. I opened it, finding red dungeon cores inside them. I stuck my hand into the pouch, a jolt of lightning radiating up my arm.
+
+I ignored the feeling, absorbing cores as I waved my hand around. I needed these things anyways. Considering I already saved Kessiah’s life twice, I figured I deserved a few dungeon cores anyways. I needed the extra skill points for investing into my new legendary skill too.
+
+Up till now, I saved my skill points for whenever I reached 90+ in a normal skill. Since the least 10 levels were ridiculously difficult to get, they acted like an easy way of avoiding that crawl. This new legendary skill gave some really nice bonuses though. Combine that with the uniform leveling difficulty, and there wasn’t any reason not to invest the points now.
+
+With that in mind, I checked out the number of skill points I had stored up. I found 919 waiting for me. It was a ridiculous number for any skill to reach. I poured them all into Force of Nature. After hitting finalize, I noticed a difference in strength and my reaction speed. It wasn’t an enormous shift by any means, but I appreciated it nonetheless.
+
+I created a gravity vortex over my hand. Unlike the attribute bonuses, the difference in the magic was enormous. I put it over me, channeling a bit mana into the vortex. A moment later, I floated off the ground. I shifted the field of gravity, trying to keep it in front of me. It made me fly around.
+
+One second I was stuck to the ground. The next, I dashed through the air like a bird with no wings. It was like falling in a direction. The sense of levity leaving me, the rush of air on my face, it was exhilarating. I dashed over the pile of rubble for a few minutes, savoring my new ability before settling back down.
+
+I tried the same thing with telekinesis. I grabbed a rock ten feet away and lifted it. It wasn’t much heavier than normal, if at all. I stood up and walked beside a car. I bent down and lifted up, lifting the car up with a telekinetic wave. There wasn’t any desperate struggle. The mental link stood strong and steady, not wavering.
+
+I set the car down before running over and sitting down beside the others again. Not going off and testing out my new abilities was hard, but I discipline myself. There would be time for that later. Besides, there was a massive payload of attribute points waiting for me.
+
+I gained a little over 400 hundred levels from killing Dakhma/eldritch abomination. I glanced around, analyzing the other’s levels. Torix gained over 400 levels. Kessiah and Hod gained 300 levels. Torix was level 1702. Kessiah was 2521. Hod was level 1703. I grinned at Hod being one level higher than Torix. The undead necromancer just couldn’t catch a break.
+
+The boost meant the next follower wouldn’t even be half as difficult. I intended on making a team and a mission for handling it anyways. I wasn’t about to let our group almost get decimated like that again. Torix was right about him having to handle all the logistics. It wasn’t fair to put all that on him.
+
+This influx of attributes would help with all that. Before distributing my attributes, I opened my tree menu. I got an enormous amount of tree points from completing my legendary skill. I could finish Obliterator in one fell swoop. That’s what I did.
+
+You’re horizons are ever growing. If you make a habit of exceeding your limits, then limits cease to exist. Others will box themselves in. Their limits act as comfort, like the walls of a house. You tear those walls down, and you see the world for what it is.
+
+2,000/2,500 milestone reached! II Obliterator unlocked (Tier 4) +100% of total experience gained for levels and skills. This bonus is multiplicative with previous bonuses, not additive. +8 attributes rewarded for every 5 levels over level 1,000.
+
+A boundless sky and a fruitful earth. It is yours for the taking.
+
+2,500/2,500 milestone reached! II Obliterator unlocked (Tier 5) +100% of total experience gained for levels and skills. This bonus is multiplicative with previous bonuses, not additive. +10 attributes rewarded for every 5 levels over level 1,000. Doubles damage when in rifts.
+
+The bonuses were tremendous, as they should be. Doubling my damage in rifts would help if I ever went back and tried killing Etna. It might be a little bit before I could make that happen. With the Obliterator tree finished, I opened my trees menu and checked those out next.
+
+III Vicious(Kill a monster after fighting for over an hour. They must exceed your level by 1000. You must be over level 1000 to unlock this tree.)(0/250) | Killer of Titans(Kill a monster with over 1,000 times your own mass. Constitution over 1,000. Star Matter perk unlocked.)(0/1,500) | Bounty Hunter(Finish an A tier bounty)(0/500)]
+
+The stat trees were interesting. The best bang for my buck would be Vicious, since it increased overall damage. Considering how cheap the points were for the tree, it was an excellent investment. I selected and finished the tree.
+
+Monsters are real, and they look like people. One of those people happens to be you. III Vicious(Tier 1) Unlocked! +3% damage.
+
+Some would say you are the wolf that wears the sheep’s skin. If a being dares to come too close, you tear off your skin and show your fangs. Vicious(Tier 2) Unlocked! +6% damage.
+
+The change occurs in an instant. One moment, you’re as amiable as a gentle giant. The next, and you become the wrath of untamed anger. Vicious(Tier 3) Unlocked! +9% damage.
+
+These two faces of yours compose the whole of who you are. You are neither completely passive nor utterly aggressive. You show the side that needs to be shown. Vicious(Tier 4) Unlocked! +12% damage.
+
+And may mercy be given to those who unleash the monster lying just beneath your skin. Vicious(Tier 5) +15% damage. +5% damage when losing health.
+
+The tree was a basic stat booster, like I expected. Schema’s system was likely balanced around everyone having it, or at least hard asses getting it. The extra damage while losing health was particularly good on me because I was always losing health. With the other Vicious trees, it added up to a 40% bonus in damage all the time.
+
+It was a rock solid addition, especially considering how few points it took to gain the tree. I looked at it like a bargain. With the tree finished, I looked at the trees left. Bounty Hunter looked interesting, but it probably relied on finishing bounties and getting money. Considering I fought with my fists and my armor was my skin, buying things wasn’t going to be the most useful.
+
+With that in mind, I poured all the rest of my points into Titan slayer.
+
+To find a true warrior in the vast cosmos is a rarity. Most prefer tackling a problem from an angle or trying to avoid it altogether. You have chosen to face challenges head on, even when they are larger than life. Killer of Titans(Tier 1) unlocked! +20% to total mass. 2% of total level is given as free constitution.
+
+In the truest sense, you’ve chosen density and size over all else. This road rewards you with skin like metal and bones unbreakable. You’ve discovered the secret of being invincible. Killer of Titans(Tier 2) unlocked! +40% to total mass. 4% of total level is given as free constitution.
+
+If your body is invincible, then it becomes the ultimate weapon. You are a walking wall, an immovable object. Whether wielding gravity or fighting with your own hands, you unlocked the might of a titan. Killer of Titans(Tier 3) unlocked! +60% to total mass. +6% of total level is given as free constitution.
+
+And with the might of a titan, you have chosen to stand on the shoulders of giants. Unlike others, they are not giants that you use. They are corpses you created by sheer size alone. Killer of Titans(Tier 4) unlocked! +80% to total mass. +8% of total level is given as free constitution.
+
+After I finished reading all the notifications, I couldn’t believe them. Whenever I hit finalize on my screen, I would double in weight. Considering the bonus from my legendary skill too, I would be like a different person.
+
+Anticipation for that moment filled my head as I checked out my status screen. I had a lot of attribute points, over 2500 of them. You heard me right, over 2500. Since I had such a well rounded build, I poured every last single one of them into endurance. This amount of extra stats made me nervous. I was a little scared even. I finished getting the points into endurance before hitting finalize.
+
+There was a massive influx of vitality. It was like I could stay in the vacuum of space and be fine. It was like knowing you could walk on the sun and not burn. My body would sustain me indefinitely. I was an immortal being, something that required apocalyptic damage to even harm. Kessiah’s Blood Arts couldn’t even scratch me anymore.
+
+Size came next. It was a flood of mass, a colossal increase that made me writhe on the ground. I drug my hands through the dirt, unable to handle the sheer increase. My blood leaked through my armor, my skin bursting against it. It was like a crab stuck in a tiny shell. I shifted my armor a moment later, expanding it by will. As I did, my body filled into the new frame.
+
+I crushed into the ground, digging into the earth. I weighed too much, like the dirt couldn’t support me anymore. I sunk into it, the dirt wrapping around me. My senses enhanced, along with a surge in strength and power. I couldn’t control my descent during my metamorphosis. That’s what it felt like. I was being recreated.
+
+Even though there was no air to breath, I didn’t feel out of breath. It was like I didn’t need air anymore. Sliding down to the center of the earth wasn’t what I intended on doing, however. I extended the reach of telekinesis, giving myself some footing. I pushed myself out of the ground. Once I was finally out, I took a step.
+
+The ground caved around me in a perfect circle. Within ten feet around me, the ground compressed. Whenever I took a step forward, the telekinetic pad caught on a rock. All the weight of the pad crushed it into dust. I needed something better than a solid plate. I needed a sheet of telekinesis, something that would bend over everything around me.
+
+With that in mind, I reached out with my unique skill, Overwhelming Presence. Within the aura of the skill, I tried distributing the pull of my own mass. It created an oppressive feeling, like gravity was enhanced around me. If anything walked within fifty feet, they would feel an unusual pressure, like something was physically pressing them down.
+
+Unique skill Upgraded! Overwhelming Presence is augmented with your legendary skill, Force of Nature. This converts Overwhelming Presence into Overwhelming Pressure. Overwhelming Pressure retains the same skill value as Overwhelming Presence.
+
+Overwhelming Pressure(lvl 46) - You give off an otherworldly aura, like something both terrifying and powerful. Greatly amplifies your persuasion and intimidation.
+
+The new skill already made the legendary skill’s utility stand out. It not only fixed my too heavy for dirt problem, but it also gave me a nice benefit too. Amplifying a few other skills with Force of Nature was a good idea. I took a mental note of it. The next step was looking at me status. I did so and observed the beauty.
+
+Level 2018
+
+Strength – 1906 | Constitution – 2719 | Endurance – 8488
+
+Dexterity – 657.9 | Willpower – 4335.6 | Intelligence – 1535
+
+Charisma – 169 | Luck – 484.6 | Perception – 277.4
+
+************************************
+
+It was something special, like being accepted to Harvard University despite being from a poor family. I soaked in the moment before I opened up the last iteration of my stats that I looked at.
+
+(Iteration held for 0.4 days)Level 1550
+
+Strength – 1384 | Constitution – 1765.9 | Endurance – 4262
+
+Dexterity – 447.2 | Willpower – 2434 | Intelligence – 892.6
+
+Charisma – 121.3 | Luck – 291.8 | Perception – 204.2
+
+************************************
+
+The jump in my stats was astronomical. Every attribute had a meaningful increase, even Charisma. All the leveling perks and extra stats made me feel superhuman, if I could be considered one anymore. My health nearly tripled, and my health regen over tripled. That was a result of investing only in endurance, and all the level 1000 perks for endurance.
+
+Every 1000 points in endurance I gained, I got a solid boost to my health and health regen. Considering the historic leap in Endurance I just got, the jump kind of made sense. It was still mind boggling, but I calmed down and went with it. The stats were so complicated now that I didn’t have a solid grasp on them.
+
+I did have a solid grasp on endurance being my bread and butter. With the dimensional cipher and my tripled health regen, I could augment my stats over time with it. That would help my progress by leaps and bounds. The other followers were well within my grasp now.
+
+The only follower that concerned me was Ajax. He was over level 4000, and Yawm’s ally since the very beginning. He would no doubt be more than a challenge. Elijah and Etna wouldn’t be by comparison. Etna could dish out damage sure, but I was around 6-7 times tankier than our last bout. Bursting my health wasn’t really an option for anyone anymore, except maybe Yawm.
+
+With that in mind, I glanced around at the others. Torix’s flames were running at full blast, enough that his head snapped back. He pushed against the floor. He shook his head before glancing around. A sense of urgency bolted up his spine as he glanced around,
+
+“Did Yawm awaken? Why is it so heavy?”
+
+I shook my head, “It’s a new skill I got. I’ll explain it later.”
+
+Torix nodded, “What happened? Where is Kessiah?”
+
+I pointed beside him, “Right there. I saved her.”
+
+Torix turned to Kessiah. Her tattered clothes left little to the imagination, but it wasn’t hard suppressing myself. My willpower was just too high for something like that to get to me anymore.
+
+Torix nodded, “My last memory was her fist being slammed into my face. She was taken over by the eldritch I presume?”
+
+I shrugged, “Sort of. It was more like it was using her. I got it out with my armor though.”
+
+Torix stared forward, “So Dakhma is finished?”
+
+I nodded, “Yup. He’s done for.”
+
+Torix raised a hand, causing him to float up and land on his feet. He raised both fists,
+
+“We did it...How did we do it? I can’t remember anything after Malice died...my poor ice dragon.”
+
+He frowned, sulking at the loss. I pointed above him, “Check out your status before you start getting depressed.”
+
+Torix sighed before opening his status. Whenever he saw his level, his jaw dropped. He glanced at me, “What...by Schema...we really did kill him...”
+
+I raised my hands, “We fucking did it man! We kicked his ass!”
+
+He raised his hands, “We did it! We actually killed a follower.”
+
+He spread out his arms, laughing maniacally, “Mwahaha!”
+
+I joined in, “Mwahahaha!”
+
+We laughed for a while before we just ended up laughing at each other’s laugh. It was a post life and death kind of joy. The battle was over, and now we could finally celebrate. We could finally say we succeeded in our first meaningful strike against Yawm. The rest of the assault against him wouldn’t be near as difficult.
+
+We gained many levels and skills. Yawm no longer controlled a huge swath of territory. His troops were dwindling while ours were being enhanced by every death of his troops. With this single move, we laid a decisive blow against him. Even at level 5000 plus, there was no way Yawm would take down an army and us. It just wasn’t going to happen.
+
+That was firm realization for Torix and I. That’s why we could act silly for a second. That’s why I laughed till I cried. It was like all that faith had finally came through. Now it was time to snap Yawm’s empire, one bone breaking blow at a time.
+
+Once Torix and I settled down, Hod and Kessiah woke up. Torix crossed his arms, beaming a devilish grin,
+
+“Looks as though Daniel landed the final blow. It’s hard to imagine you looked at him with disdain once, isn’t it?”
+
+She blinked twice before looking at Hod. Hod raised a wing,
+
+“Everything feels heavy.”
+
+Torix pointed a thumb at me, “It’s him. Don’t mind.”
+
+Hod cupped his chin, “Hod higher level than Dry Man still. Hod prove Hod’s worth.”
+
+Torix gasped, “What? No, that’s impossible. You hardly even participated with killing Dakhma or what he became.”
+
+Hod pointed at his chest, “Hod participate more than Dry Man. Dry Man show up after Hod and get punched in face before Hod. Therefore, Hod get higher level.”
+
+Torix steamed, “A higher level means nothing if you can’t use it.”
+
+Hod shrugged, “Hod not saying higher level mean Hod better and handsomer person than Dry Man, but...”
+
+Torix shook his head, “I don’t have time to bother with you regardless. These status points need attending to.”
+
+Hod nodded, “Hod relate. Hod have more status points to attend to than Dry Man, actually.”
+
+Torix and Hod had their rivalry going strong before I walked over to Kessiah. She stared forward, her expression blank. I leaned over,
+
+“You alright?”
+
+She stared at me and murmured, “I’m done.”
+
+I raised an eyebrow, “Done with what?”
+
+She shook her head, “Everything. I’m not fighting anymore. I’m done.”

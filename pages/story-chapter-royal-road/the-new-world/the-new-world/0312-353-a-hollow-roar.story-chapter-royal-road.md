@@ -1,0 +1,155 @@
+---
+id: 2919b761-19e8-5448-83b3-a33da7475506
+page-type-slug: story-chapter-royal-road
+title: "353 A Hollow Roar"
+slug: 0312-353-a-hollow-roar
+partOf: the-new-world
+position: 312
+ownLength: 2678
+unit: words
+ownProgress: 2678
+publishedAt: 2022-12-18
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/1065701/353-a-hollow-roar"
+royalRoadId: "1065701"
+markedReadAt: "2026-06-29T21:31:52.180Z"
+---
+
+I grimaced, "Then our kingdoms will clash."
+
+Shalahora waved a hand over me, several shades adorning portions of my armor. The Sovereign menaced, "They'll let us communicate and act as your scouts."
+
+I pulled out several dozen blue cores, having them embedded into my armor. While pulling out their mana, I breathed out energized miasma. It floated down, a cloud of crimson red adorning me in a coat like living blood.
+
+I menaced,
+
+"We march to war."
+
+Chapter Begin
+
+I raised my hand towards my director golem, "We'll need our soldiers organized. Get them amassed near the enemy's line of attack. Organize them as we stated before."
+
+My director bowed, navy-colored mana wafting from between his metallic joints, "As agreed - two golems to every five primevals, and the golems stay back to control the charging assaults of our monsters."
+
+I smiled, "After all, that's about what we can expect them to do."
+
+Shalahora's shades intermingled with the various units, becoming scouts and informants to each line. They'd keep the battle organized and under our control. I raised a brow at Shalahora, "Any idea when they'll arrive?"
+
+"An hour at the quickest."
+
+I nodded, bending at my knees, "Then I'll be back by then."
+
+My director golem coughed into a hand, "What are you doing, creator?"
+
+I raised my brow, "Getting ammo."
+
+I bolted through my city's barrier, the ethereal energy pluming out like pierced clouds. While darting through algae and the horizon alike, I rose into the sky. After getting away from my cities, I slammed myself to the ground, and these impacts mirrored my orbital bombardments. In tandem with blasting into the opalescent shards below, I opened my pocket dimension to contain what I could.
+
+I stored as much of the energy of the impact along with the resulting gamma burst. My body disintegrated into nothing time and time again, but with every passing hit, I gained another round for my dimensional shield to explode out. It allowed me to detonate a series of explosions from my pocket dimension in mass.
+
+I called it my dimensional eruption.
+
+While collecting the kinetic blasts and gamma bursts for the technique, I uncovered a nifty trick. Instead of regenerating where I landed, I kept myself in an aetherial state. I pulled my dimensional wake upward, above the algae, before reassimilating my physical form. This gave me a measure of stealth with my assaults.
+
+Instead of waiting at my point of impact, I left only a dark blur that traced down from the sky with my attacks. Having collected several dozen of these impacts, I returned to my set of cities. A mass of primevals raged along the outskirts of the plasma shield, the ascendant psyches hungry and lusting for blood.
+
+My golems contained them, their disciplines absolute, and Shalahora's shades darted along unseen paths and darkened tunnels. Still present, a psionic connection formed between Shalahora's shades and me. They escaped and returned after my orbital bombardments, and from this new connection, Shalahora murmured like a slow toxin,
+
+"He comes in moments from the far western hill."
+
+I bolted into the sky above my city, readying myself for an assault, "Let's do this."
+
+Even from above the thick, kelpy canopy, I spotted the enemy primevals as they hovered or hopped in. The star beasts arrived first, their fleeting forms like living fire. They rode the wind and bolted across the sky, the celestial realm far more a home than the ground ever was. Following them were the gem monstrosities.
+
+These congregations of glowing gemstones existed as both the physical and the incorporeal. Strands of multicolored lightning rose from the bright shards below, feeding those shifting monsters. They rode just above the ground like shimmering shadows, and the air hummed at their presence.
+
+Beyond them, the ice and water primevals arrived next. Those demons carried a wave of fog and mist, coating the battlefield in a literal fog of war. From these clouds, rain drenched down like cold bullets. Lakes, streams, and rivers flowed with these monsters, each of them a storm in their own right.
+
+And the last of these primevals were the stone monsters. They carried forms condensed out of the best and brightest bones of their fallen brethren. They skulked across the horizon like the walking dead, each of them a juggernaut treading the ground with earthquakes in their steps and mountains of strength in each arm.
+
+I don't know who followed after that.
+
+I landed in the middle of them, my body disintegrating in the kinetic aftermath of my collision with the planet. The surrounding area ignited in a flash of white light, and even the far-off algae crisped to ash. The shockwave of my impact left me immaterial, and I flowed through the battlefield like a ghoul. Wielding my mana, I pulled the regenerating primevals into my point of impact.
+
+And the gamma burst evaporated them.
+
+All the while, I collected more munitions for my incoming dimensional eruption. Once the gamma burst plumed, I pulled myself back above the algae. With the black hole Leviathan over my head, I bolted towards the ground, landing with another monumental explosion. In each dive, my body turned into a warhead, a bomb used without limit.
+
+And so, I reaped the benefits of my bodily destruction. The primevals here died in mass, the majority of them not even converted by Valgus. He simply lured them here through some unknown method. However, I turned his tactic into an advantage. I gained dozens of blue cores before he arrived, and his initial force turned into pocket change.
+
+Despite my efforts, the primevals kept arriving in mass. Though they didn't number in the thousands, they did tally in the hundreds. The beasts also changed in form and function. Instead of being purebred primevals, these beasts carried rainbow bones as armor. Spines of the dead eldritch erupted from within, the liquid bone having hollowed out their minds.
+
+At the same time, rulers intermingled with the monsters. Many carried the same rainbow spines, meaning they were already dead. However, many of the rulers were left unconverted. These members rallied and controlled the primevals or their converted kin. They saw my impacts miles before reaching them, and they had already restrategized.
+
+While I darted down once more, the wind whipped on my face. Before I made an impact, I spotted star primevals burning the algae above, giving them a line of sight. As I approached the ossuary's floor, the glowing gemstone primevals congregated nearby. They impaled their arms into the bright bone piles.
+
+Peering at me with energized eyes, they wielded the rainbow bone as their weapon. It opened up where I was about to land. At the bottom of the pit, spines of bone erupted, and a pool of liquid bone oozed up. They intended on psionically killing me, having a trap to ensure I drowned in the shining liquid.
+
+This was far from enough.
+
+With a burst of gravitation, I turned my descent a few degrees. Landing on the side of the pit, I devastated a pack of converted rulers and primevals. In my intangible form, I wafted out of the impact radius using my sense of mana. That gave me a clear, vibrant vantage point, and I admired the cascade of spells coming my way where I landed.
+
+As a dazzling splash of colors, the energies crisscrossed below. The rulers also retreated from the area before the gamma burst ripped them to shreds. This tactical retreat dramatically lowered their losses. Not wanting to give them more time to think, I shot back up. I whirled in the air above the planet, the black hole dominating my skyline for a moment.
+
+Diving down, I turned myself into a dark, thin needle. This visual change let me land in the middle of their forces. Converted rulers and enemies died by the dozen before I made another dive. On my third dive, I shot towards the ground before a colossal primeval erupted from the bones below.
+
+It was an abominable fusion of many primevals, at least twenty of them plastered together into one howling mass. Its screams thronged out before it moved faster than its form should've allowed. A bolt of living lightning, it darted towards my descent before meeting my charge. The rough approximation of a fist met my plunge, and the world whitened in my view.
+
+I lost all comprehension of time and space before coming too nearly a mile away. Disoriented, I peered around and found the star beats burning the kelp far away. The mass of primevals marched towards my cities unimpeded, having already recuperated from my collisions.
+
+I grimaced before rising up once more. I thinned myself to a thread's thickness, and my body stretched to its absolute limit this time. Despite my size and shape, the amalgam found me with ease. The mass of primevals turned and smiled at me, its teeth composed of bones, minerals, gems, and howling beasts. When I flattened my form, it met my charge with its own. My body disintegrated once more, utterly deposed of anything physical. Down to the atom, I dispersed.
+
+However, I kept my consciousness intact.
+
+I floated away from the absurd monstrosity, but it peered up at me in confusion. Swiping an arm through me, it tried to catch what it couldn't see. A laugh erupted from the beast, and the broken bellowing merged with the sound. It was like a festering corpse giggling with glee, both alien and unsettling.
+
+The beast leaned downwards before jumping from a hill of bones. The landscape bent under its might, and it ran through me once more. My mind raced for solutions to retaliate against this abomination. This thing could easily swat me like a fly, and it took my orbital bombardments like a champ. That was my trump card, and it left me rattled that it matched my best efforts with ease.
+
+Mentally slapping myself out of my stupor, I remembered my other trump cards. Regenerating myself, I tried creating singularities in its body. It darted through me, destroying my form and leaving my singularities far behind itself. Despite several of my attempts, the monster flashed through me each time.
+
+The physical forces of the monster exceeded anything I'd ever seen, its charges strong enough to shatter moons. And shatter me. Thinking for a moment, an idea popped into my head. Instead of trying to get some distance, I closed in on the abomination. It spread its arms when I did and laughed with its eerie, unsettling congregation of howls.
+
+It pounded its torso, the kinetic boom destroying the nearby kelp forest. Once I reached within arms reach of it, the beast clapped on my position. Even when immaterial, it left my mind askew and my psyche trembling. It was incredible, far exceeding my orbital bombardments in strength. The sheer scope of the monster's might was unbelievable.
+
+However, it wasn't invincible.
+
+I floated into the godlike creature before pluming out gamma bursts, orbital bombardments, and gravitational singularities. From within, it enveloped in fire, darkness, and light. A cascading, rippling series of explosions turned the entire environment into a playground for physical forces. All life devolved into fuel for these energies, and they swarmed outwards with an eagerness to destroy.
+
+All life shattered, and these elemental forces laughed at the thought of anything other. They were absolute. They consumed. They devoured. They left nothing in their wake, being beyond the physical.
+
+As was I.
+
+I stood from the inside of the creatin, its body being blown apart. Blue cores glowed in the distance, many of them embedded into the rainbow bones. They shotgunned out like shrapnel, each of them invincible. Many of the primevals composing the colossal mass survived my onslaught, but others died.
+
+Before they rallied, I sprung into action. Blots of darkness consumed straggling figures, and bursts of radiation cooked fleeing forms. With an aggressive rage, I tore through the corpse of the colossal monster. I bit, pulled, ripped, and gnashed it apart. The pieces of the beast fought back, becoming like writhing entrails of an eviscerated belly.
+
+They swarmed in from all angles along with other rulers, my own body becoming akin to a distant memory. I flowed like an ocean, my blue cores long lost and my perspective wholly warped. Time lost meaning. My sense of scale lost meaning. I lost myself in the flowing force of war, survival, and desperation.
+
+After an indeterminate time, the battle calmed until I could hold my body together for a time. My senses returned, as did the colossal monster, though it shrunk. Despite that loss of size, it stepped towards me, and the ground for miles trembled and quaked. It spread its arms, a roar erupting from its maw.
+
+Primevals shivered in fear of the apex predator amongst their midst, and the colossal amalgam laughed with broken faces and shattered minds. A wave of fear rode up my spine before I peered around. Behind us, the incoming force of enemies clashed against my city's barrier. They swarmed against the blue core's forcefield, finding it tens of times more potent than before.
+
+My soldiers routed and rallied against them, finding openings and weaknesses where there were none. Shalahora kept the fight under control with his shades while wielding light like an illusion, turning vision and sight into his plaything. He controlled any primevals not already psionically killed, and they turned on our enemy.
+
+However, the enemy swarmed with numbers unending. I turned towards them before the giant mass of primevals cackled out, "You...Stay...Fun not over."
+
+It was like listening to a symphony of screams honed into a voice. A primal fear raced up my spine at the sheer torture of the monster, this battle being its only hope for an end to its excruciation. Wriggling in my vision, the mass of energies and bodies flowed towards me. It popped into my vision before my vision was gone.
+
+Using my mana sense, I hovered through the monster, erupting the same forces as before. It escaped the worst of the attack, leaping from my dimensional eruption. This dance continued, each of us swarming back and forth. The two of us fell into that cadence, our minds grappling with the dynamism and duress of our attacks.
+
+I couldn't even hold a physical form against the beast, but despite that overwhelming advantage, I whittled it down in time. The gargantuan mass turned from a mountain to a hill to a mound. As I destroyed more and more of its body, the creature laughed with a voice relishing the battle. It thrived on the pain, and it gorged on its wounds.
+
+Each blow or strike I landed evoked glee from the monstrosity. In time, its voice constructed into a deeper, more brutal sound. Howls gave way to the sound of iron, ash, and smoke, the sound familiar, one forged in war. The form of an asura took shape out of the primevals, its many arms and red skin smiling down at me.
+
+The sentient wore a frenzied smile and jagged scars across his skin. Captured eldritch swarmed in his armbands as before, but they numbered in the hundreds now instead of the dozens. When patches of his cipheric runes popped up between the eldritch mass, it became undeniable.
+
+Valgus stood in the middle of the primevals.
+
+As an extension of himself, the creatures flowed around him. I tore one of the last of those creatures from him with a singularity before he roared out at me. With the swing of his arm, he smashed a hill of bones apart.
+
+The opalescent shards misted out like powdered glass.
+
+I darted out of that glistening cloud before Valgus leaped from it. The sparkling cloud traced behind him before he wrapped his hand around my helmet. He lifted me up and slammed me into the bones below. Peering down, his hair flowed like a flame.
+
+He spread four of his arms while bellowing over the chaotic hellscape,
+
+"We meet again, blighted one."

@@ -1,0 +1,253 @@
+---
+id: b22415f4-43f3-5cc7-b7a3-4b30594029a2
+page-type-slug: story-chapter-royal-road
+title: "168 Prestige and Prominence"
+slug: 0127-168-prestige-and-prominence
+partOf: the-new-world
+position: 127
+ownLength: 3384
+unit: words
+ownProgress: 3384
+publishedAt: 2018-12-11
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/314487/168-prestige-and-prominence"
+royalRoadId: "314487"
+markedReadAt: "2026-06-29T21:25:22.187Z"
+---
+
+Kiki Mosk floated outside of the arena. As he did, the lights went off. The pre-fight hype started, clips of the fighters showing on the teleprompters. Flashy fights with no substance poured out of the screens. I leaned over towards Althea,
+
+"This seems more like an exhibition than fighting, don't you think?"
+
+Unlike me, Althea relished in the theatrics. She waved me away, "Just relax a little. The montages are awesome."
+
+After a minute of fireworks and a light show, I yawned. A few minutes later and they were still hyping up the fight. I leaned against my armrest, bored out of my mind. At the apex of my boredom, a presence reached out to me. It tapped against my mind, like knocking on your door.
+
+It was a gialgathen, one nearby. I glanced around, finding a dark green beast towering over those around him. He situated himself onto a platform for combatants. He glanced at me, his bearing noble. He waited for my permission, so I let him speak to me.
+
+"Excuse my intrusion young one, but you mentioned this bout as an exhibition?"
+
+I raised an eyebrow, "How did you hear me?"
+
+"Hah! I've honed my senses over the years. It can be a burden at times. You no doubt carry that same awareness. Even as you walked in, I noticed no method of attacking you. Your guard is absolute."
+
+He gave me a nod of approval, "It's fitting for a warrior such as you to defeat Alzoroth."
+
+I frowned, "Are you his friend?"
+
+The gialgathen's head leaned back, "What? Why, I would never even give that racist a second thought! Alzoroth was an uncouth member of our people. Please, do not let his ugliness stain your thoughts of our proud species."
+
+I raised my eyebrows, "Eh, I don't. Is it that common for other gialgathens to be like that?"
+
+He nodded his head, "I will not lie to you. Many of us are. They fight to bolster their fragile egos. I share little with them. To the contrary, I am like you, Gray Giant. I fight for honor, not for fame or fortune."
+
+I shrugged, "I definitely fight for fortune."
+
+The gialgathen turned his head, the black spots on his sides reflecting light, "If that were so, you wouldn't fight for your rewards. You would do business or the like. You're no doubt wealthy already, or am I incorrect in my assumption?"
+
+I cupped my chin. Now that I thought about it, I owned over 100 million credits. No matter how you look at it, that was wealthy. I didn't need to fight for money anymore, yet I still kept fighting. The gialgathen showed his teeth with a grin,
+
+"It was as I suggested! You give yourself too little credit. You battle to sharpen your body and spirit. In my eyes, that is a noble pursuit."
+
+He glanced up, "I'm glad to share some wisdom with such promising young talent. It's good to see I can do some good even after what they've done to  Lehesion's Honoring."
+
+Gialgathen or not, I liked this guy. I raised a hand to him, "My name's Daniel Hillside. What's yours?"
+
+"Eradin. Eradin Forest-Torch. I earned my last name by setting an entire forest ablaze with a single breath." He scoffed, "Though my flames have dimmed with old age no doubt. I'd rather speak of more recent glories, yours perhaps?"
+
+I shrugged, "I'm just here to win the tournament."
+
+He raised his foot and stomped the ground, "As you should be! You're one of the few walkers here that I wouldn't mind winning the tournament. When I was younger, every combatant battled for honor, for glory! Now, look at them."
+
+Several advertisements flowed across the teleprompters. Eradin growled,
+
+"Now they use Lehesion's Honoring to gain fame and fortune. It disgusts me."
+
+I crossed my arms, "You mean the ads and stuff?"
+
+Eradin nodded, "They wonder why we gialgathens win year after year. The answer could not be more obvious. We battle for the sake of battle! We need no other incentive. If they followed the same ambition, they'd conquer just as we do."
+
+As Eradin finished his spill, an advertisement for Thisbey's mining business popped up. Eradin sighed, "Thisbey Thorn. The only memorable thing about that clown is how much of a thorn in my side he is."
+
+I liked how chatty and ornery this guy was. I laughed, "Really now? Why?"
+
+"Because he is at the forefront of destroying what Lehesion's Honoring stood for."
+
+Eradin snorted, "Lehesion was more than just mighty. He was an absolute force. With one breath, he could decimate a dozen Skyburners. A slash of his claws could slice through the sky. A stomp of his foot flattened mountains."
+
+I raised my eyebrows, "Tall praise. Could he actually do that?"
+
+Eradin's eyes watered, "It was a thing of beauty. I saw his first battle against Emagrotha's army of Skyburners. He destroyed them all on his own. When he and Emagrotha fought, their claws sent shockwaves that parted seas."
+
+He was sentimental too. Eradin gazed deep into his memory, "He sent her a message that day. All races deserve an opportunity, lesser or not."
+
+I frowned. The phrase wasn't perfect, but at the time, it was a step in the right direction. At least compared to Alzoroth.
+
+Eradin shook his head,  "I pray for your good luck in Lehesion's Honoring but never forget this. Remember who and what you fight for. It will guide you when you've lost your way."
+
+I nodded. It was a good tip. Eradin glanced down, "Ah, look at what I've done. I've chatted away like a mother with an empty nest. Please excuse me."
+
+I raised up a palm, "Don't worry about it. It was interesting. Plus it's always good to see someone else who likes to fight."
+
+We finished our chat just as the fight hype ended. A fighter walked out of one side of the arena. His face appeared on the teleprompter along with his name, Mell Coff. He was lean with sharp features. Girl espens nearby swooned over him, and he beamed a grin at the crowd.
+
+Beside him, the symbol for Thisbey's mining business appeared. Kiki Mosk pointed towards Mell, "Here's the fan favorite, Mell Coff! He represents the hardworking miners that clean up the city. He's the best of Thisbey's mercenaries. Let him know how you feel!"
+
+The horde roared with applause. He got onto the arena, waving at his adoring fans. I analyzed him.
+
+Mell Coff, the Earth Dancer(lvl 5,000) - A prominent social figure in Yildraza, he represents the elegance of espen magic in many eyes. While his combat abilities aren't lacking, it's the methods he uses that draw so much attention.
+
+Despite his plain name and earth magic, he dances during combat to channel his spells. This creates elaborate displays of skill. While he may be popular, don't underestimate him.
+
+That would be my advice for most, for you he will prove no problem.
+
+Kiki gestured towards the other side of the arena,
+
+"And here is the other contestant, Jilian Krokov! She represents the leader of the speakers centered on Giess. She's been funded by Tohtellah Adair, a speaker like yours truly."
+
+Jillian walked out, covered in black power armor. Grenades, knives, gemstones, vials, and ammo lined her sides. Several weapons were on her back. In my opinion, she looked like a complete badass.
+
+Jilian Krokov(lvl 5,246 | Speaker) - A powerful member of the speakers of Giess. Most speakers specialize in communicative abilities or auras. Jilian is a specialist in gun oriented combat. By taking full advantage of technology and alchemy, she has proven herself to be very resourceful.
+
+Combine this with Jilian researching her opponents ahead of time, and she poses a sizable threat to most. You are a counter matchup to her. Your abilities would overwhelm hers regardless, but the nature of your magic poses problems for her.
+
+The crowd didn't agree with me. They booed as Jilian walked out. She got into her respective corner of the stone arena. Kiki Mosk raised a hand,
+
+"Are both contestants ready?"
+
+They nodded. Kiki Mosk shouted, "Begin!"
+
+Mell Coff sprinted forwards, jumping up. A chunk of the arena popped up under his feet, letting him fly around. He pushed his hands towards Jilian, chunks of sharpened earth flying towards her.
+
+Jilian clicked a device on her side. The spikes of earth bounced off a blue barrier in front of her, electrical sparks flaring. She pulled a rifle from her back, aiming and firing in one swift motion.
+
+Mell covered his hands with hardened soil. As if dancing, he spun and deflected the bullets. They slapped against the edge of a forcefield, blue energy rippling out. As Jilian began reloading, he dashed towards her.
+
+She tossed a grenade at her feet. A plume of yellow smoke billowed out. She stepped through a portal, appearing on the other side of the arena. Mell stopped his chase, dodging the toxic cloud.
+
+I scoffed, "So that's why he's popular and she isn't. He's the flash and she's the fury."
+
+Althea leaned towards me, "What do you mean?"
+
+I pointed at her, "Just watch."
+
+With distance to cover, Mell dived into the arena. He burrowed beneath the ground, trying to reach her. Jilian tossed a vial down, spraying a yellow liquid around her. It soaked into the dirt. Moments later, Mell burst from the ground, using a dirt hunk to keep him moving. The moment he got above ground, Jilian unloaded another clip right at him.
+
+He struggled to deflect the bullets this time. One of them clipped his arms, leaving a dent on his silver power armor. Mell danced again on his platform, summoning a pillar of dirt at Jilian's throat. She sidestepped it, continuing the onslaught of lead.
+
+Althea frowned, "He can't do anything."
+
+I raised my eyebrows, "She took away all his options."
+
+Mell opened his dimensional storage, pulling a vial out. As he did, Jilian unloaded a dozen bullets into the portal. I winced,
+
+"Damn. She's not leaving a stone unturned. You can only store your bodyweight in your dimensional storage. It costs health depending on how much you put in there. He's paying the weight of those bullets in flesh and blood."
+
+Mell kept composed despite the damage. He opened the vial, a shiny dust floating around him. Kiki Most shouted, "And here it is folks. His signature move, diamond storm!"
+
+Mell propelled shining shards at her. They shot against her shield. The specks bounced off before wrapping around her. Mell maintained the spiral of diamonds while dancing and deflecting her bullets. It was a bunch of flashy bullshit, but it was still impressive.
+
+Jilian stayed on point. She took a device from her side, activating it. She tossed it ahead of her, and it siphoned air inwards. Like a vacuum in space, the machine pulled the diamond dust into the portal. She reloaded while waiting for it to do her work.
+
+The second the machine stopped, she fired again. Mell kept dancing and fighting back, but the bout was over. More and more bullets clipped him, slowing him down. The more he slowed down, the more bullets clipped him. The vicious cycle continued until one smacked him in the helmet.
+
+Knocked unconscious, Kiki Mosk snapped his fingers. A shield formed over Mell, stopping his fall. Kiki pointed at Jilian, "And we have a winner!"
+
+The throngs of people booed like there was no tomorrow. Jilian stepped out of the arena, ignoring the jeering like a true professional. Althea sighed at me,
+
+"Well, you were right about her being the fury. What made you guess."
+
+I shrugged, "Jilian was all about the fight. Mell looked more like an entertainer. He reminded me of Thisbey in that regard."
+
+After they stepped out of the arena, lots of people left the stadium. They were Mell's fans leaving. Eradin sent a mental shout at me, "Good riddance! There's no need for casuals here."
+
+A small grin ran up my lips at that. After the next set of ads played, Kiki Mosk gestured towards us, "The next fight is another decisive one. We have a treat for you all. Two gialgathens are going head to head! On the one hand, we have Eradin Forest-Torch."
+
+Eradin opened his jaws and roared out. He flapped his wings, flying up onto the arena. As he landed, he quaked the ground."
+
+I squinted at him, checking his status.
+
+Eradin Forest-Torch(lvl 6,783) - Eradin is an ancient gialgathen, over two centuries old. While experienced, his best days are behind him. With a worsening heart condition, his ability to fight for extended periods of time is lowered.
+
+Even then, his clever tactics and experience make him a harrowing foe to face. He uses his tail as clubbed whip like most gialgathens. The difference lies in his clever usage of angle. This gives him more openings for counter attacks.
+
+You will overwhelm him most likely, though he could pose a challenge.
+
+The crowd booed again. Near us, one of the combatants tossed a mushy piece of food at him. I flicked my wrist, sending the food right back at the combatant. He fell backward, and Althea giggled,
+
+"Did you see that guy? Talk about hilarious."
+
+I smirked, "Yup. It was satisfying to watch."
+
+Kiki Mosk pointed near us again, "And here we have his son, Moran Blademaker!"
+
+Another gialgathen roared. Bright green with black spots on his sides, Moran flew onto the other side of the arena. He was the younger version of Eradin, his frame oozing vitality.
+
+Moran Blademaker(lvl 6,821) - The son of Eradin Forest-Torch, Moran has struggled for many years to prove his worth to his father. This has created a healthy rivalry where each side helps elevate the others performance. Though compliments between the two are rare, there exists a respect between them both.
+
+He lacks his father's tactical prowess, but his raw strength and endurance give him a subtle edge in combat. Just like his father, Moran could prove a challenge given the right circumstances though its unlikely.
+
+It made sense why most espens struggled against gialgathens. Even without the system, they seemed to revolve around level six or seven thousand. It was enough distance that you needed a class to compete.
+
+Kiki Mosk interrupted my thoughts, pointing to each side, "Are both combatants ready?"
+
+They nodded. Kiki Mosk raised a hand, "Then to battle!"
+
+Eradin and Moran bowed to each other, showing respect for each other. The old lizard wasn't joking about honor. Their tails whipped behind them, the air squealing at the speed. They clashed, slapping against each other.
+
+Each tail ripped through the air at stupendous speeds. They clashed several times a second, sending out pounding booms of sound. Each gialgathen kept their necks tucked, ready to lunge out at a moment's notice.
+
+Eradin deflected one of Moran's strikes, sending his son's tail off to the side. The old beast snapped out, his teeth tearing into Moran's neck. Moran shot out his tail, but Eradin cocked his neck back before it landed. Another fierce volley of lashing shot out, the crowd unable to see them.
+
+I saw them in detail, however. They both hit each other with the hardened tips of their tails, forged through years of training. Each attack was done with an angle, never head-on. They weaved each attack into the next, creating no opening for a snap of each other's jaws.
+
+Eradin times another pristine deflection, sending Moran's tail out from in front of him. Just as before Eradin snapped out. Moran countered, snapping his jaws against his father's own. The older gialgathen punished that attempt, snapping his tail onto the side of Morna's head.
+
+The younger gialgathen lost his balance, stumbling sideways. With a brutal flurry of his tail, Eradin tore chunks of flesh fell off Moran. Moran launched a heavy tail whip at Eradin. The old gialgathen snapped his jaws further down his son's tail. This stopped the momentum of Moran's attack.
+
+With one final, blinding snap of his tail, Eradin knocked his son out cold. Kiki caught Moran from falling with the flick of his fingers. Kiki pointed towards Eradin,
+
+"And the father wins!"
+
+Another set of boos roared out. By now, I hated the crowd. Those two gialgathens just laid their hearts out in that battle. It was was a stunning display from both adversaries. No one gave a shit. The crowd just played favorites without any rhyme or reason.
+
+It left a bad taste in my mouth as Eradin flew back to his spot. He turned towards me, breathing heavy, "My son has improved so much since last year. I nearly lost my bout!"
+
+I scoffed, "Yeah right."
+
+Beads of sweat poured from Eradin, "You jest. Look at me. Fatigue almost claimed me. If he hadn't grown overeager, he'd have worn me out with that pace. It's a good battle for him to learn from. He will defeat me next year. Of this, I have no doubt."
+
+He stuck his chest out, his head held high, "He's a good boy, no, a good warrior. He will give my family honor in the days to come. Once he's healed, I'll let him know this."
+
+I grinned at the old guy. He was a great father even if he was a little harsh with his lessons. Just I smiled, the pre-fight hype started up again. Two big names were coming up again. I raised my head up and wheezed out,
+
+"No, not this shit again."
+
+Clips from the last fight popped up along with some I'd already seen before.  At least it didn't last as long this time. With the hype over, Kiki pointed towards one side of the arena,
+
+"And here we have yet another big fight! Here, on the one hand, we have the returning veteran, Jilian Krokov!"
+
+Jilian walked out in her black power armor, stone cold and badass. The booing of the crowd commenced in full force. People poured into the arena once more, wanting to watch the next fight. Seconds later, new clips played on the teleprompter. These videos drew my attention, however.
+
+They showed a guy in gray power armor keeping up with a gialgathen's tail whips. He deflected each attack, pressuring the monster back. As he encroached on his prey, he unleashed a furious assault. The gialgathen didn't stand a chance, and he was launched out of the arena. I frowned.
+
+It was me.
+
+A light beamed onto me from above as Kiki Mosk pointed at me, "And here we have the popular newcomer, Daniel, the Gray Giant!"
+
+The crowd roared as I looked around. I stood up, wondering why the fuck they didn't just give me a list of who fought who. As I pushed my ass off my seat, the entire stadium exploded with praise. I raised my hands and portions of the crowd began a standing ovation.
+
+It was pure madness.
+
+I pumped my fists up and down. The people standing up did the same. I grabbed one leg behind me before hopping on one foot. To my utter disbelief, some people did the same. Kessiah smacked my back from behind me. I laughed before pulling myself up with gravity, floating towards the arena.
+
+Once onto the stone arena, Kiki Mosk pointed at the both of us, "Are you all ready to see the third high profile bout in a row?"
+
+The crowd went crazy again. It was bizarre, out of body experience. Everybody had an expectation of me, and that expectation was who I was. I didn't like it, and I intended on fixing it when I was able to get a speech in. All that would come later.
+
+I rolled my shoulders while cracking my knuckles. I twisted my neck, the crowd stomping. My mana charged, building to obscene levels in seconds. An aura leaked from my armor, whipping wind nearby. Jilian Krokov took a step back, the energy causing her cold persona to crack.
+
+Kiki Mosk raised a hand, "Are both combatants ready?"
+
+I nodded as Jilian sighed. She pulled out her rifle, aiming it at me before the fight started. She nodded.
+
+Kiki Mosk pulled down his hand, "Then lets fight!"

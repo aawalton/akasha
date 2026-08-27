@@ -1,0 +1,153 @@
+---
+id: fc860ed7-0a82-56a0-afbc-b6db7aa7e4fc
+page-type-slug: story-chapter-royal-road
+title: "55 The Might of Progress"
+slug: 0012-55-the-might-of-progress
+partOf: the-new-world
+position: 12
+ownLength: 2391
+unit: words
+ownProgress: 2391
+publishedAt: 2017-10-09
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/167010/55-the-might-of-progress"
+royalRoadId: "167010"
+markedReadAt: "2026-06-29T21:21:07.220Z"
+---
+
+After making sure Althea had her dungeon cores maxed out as well, the three of us left towards the next dungeon. Apparently, it was a wierd, open kind of dungeon that existed within the local sports stadium. The three of us left the house before meeting up with two guards that Torix lended us. After the close call last time, he ensured us that he wasn’t going to hold back any longer.
+
+Being summons of Torix’s, the guards were armored, enormous, and armed to the teeth. One of them wore a helmet with the antlers of an elk jutting from his head and shoulder pads.From under his helmet, the guard stared forward with floating, blue fires for eyes. Unblinking and soulless, he carried a sword ending in a hook in one hand with a chain and sickle that he carried in the other hand.
+
+Aatrox Vernan(lvl 1200) – A summon of Torix Worm, this is a guardian spirit tethered to the corpse of a grand warrior. Using his sword and sickle, his attacks incapacitate foes at a distance before he pulls them in and guts them. Specializing in constitution, dexterity, and strength, his lack of health leaves him vulnerable to high damage per second foes.
+
+The guardian spirit, while loyal in the utmost, lacks the adaptability of most mortal minds. This reduces his danger level drastically, but this summons still reaches the level of 1200 off raw power alone. You would likely die if he was on the other side, so count your prayers that this monster stands with you.
+
+The other guard was a heavily alien with cloven feet and legs like a goat. His own horns twirled out to the side of his head, but a strong, long jaw full of sharp teeth was left unarmored. On its back, two enormous barrels pointed downwards. As we walked up to him, he lifted the cannons upwards in his arms, holding them like two miniguns.
+
+Kade Byle(lvl 1200) – A summon of Torix Worm, this is yet another guardian spirit tethered to the corpse of a grand warrior. Using the two cannons mounted on his side, the offensive potential of this guardian can threaten monsters of a far higher level. Kade lacks any meaningful defenses. He is the epitome of a glass-cannon.
+
+Furthermore, the lack of an adaptable conscious prevents his offensive potential from shining. Everything must be planned with Kade, otherwise he’ll be overwhelmed, either by numbers or by sheer bulk.
+
+Having said that, he could likely blow you away in a few seconds of being exposed to his damage. He will be a strong tool for your arsenal.
+
+All in all, they looked completely badass. As we walked up, I said,
+
+“Who are these guys?”
+
+Kessiah sighed, “Two more summons of Torix.”
+
+I blinked a few times, “How many minions does he have?”
+
+“More than a few, from what I can tell.”
+
+Althea chimed, “It’s his mythical skill. It’s going to be powerful.”
+
+I frowned, “Man. Makes my mythical skill look shitty by comparison.”
+
+Althea rolled her eyes, “He’s had a long time to make his good. Give it time.”
+
+Kessiah hit my shoulder, “You haven’t even seen mine in action.”
+
+I raised an eyebrow, “I thought your mythical skill made you dense or something.”
+
+Kessiah shook her head, “Sorry toots, that’s the level 100 perk for constitution. My mythical skill is Hemomancy. I was born with it.”
+
+“Hell yeah.”
+
+Althea murmured, “Are these two things our guards?”
+
+Kessiah turned to her, “Yeah, they are. Kade and Aatrox. They have names like they were named by some edgy teenager.”
+
+I added, “Yeah, whoever named them has no sense of taste in his naming skills.”
+
+Althea sighed, “Come on…Let’s get this over with.”
+
+Kessiah frowned, “I preferred when you complained a little less.”
+
+“I’m just tired of this. It’s no fun to just wake up, fight, train, sleep.”
+
+I walked forward towards the entrance of a sewer,
+
+“Get used to it. If we can kill all four followers of Yawm, then you can get a Sentinel’s rights. Probably. That’s an easy way out of Schema’s endless war I bet.”
+
+I lunged down and pressed the tip of my armored finger between the manhole and its cover. I popped the lid up and caught it with my other hand. I turned back towards Althea,
+
+“What’s that phrase…Ah yea, where there’s a will, there’s a way. You just have to have the will is all.”
+
+I leapt into the entrance, sliding through the air while smoothly sliding the cover back onto the entrance. My ascendant mana flared, the red light letting me see the coming ground. The circular, concrete walls slid past my face before I my feet slammed into the ground.
+
+The concrete didn’t crack as I landed. The telekinetic field around my feet dispersed the impact. My dexterity let me bend my knees as I landed in a fluid motion. If anything, I hardly even made a sound. I dashed forward, light on my feet as the fervor of ascendancy flowed within me. The others followed a few seconds after.
+
+They caught up before we bolted towards the dungeon. I dashed between the two walkways lining the gray water. I grappled along, using the growing green vines cropped up around bits of light. Hell, on several of the curved segments of sewer, I picked up enough speed to run along the cylindrical walls. It was a blast just moving.
+
+At one point, I had analyzed Althea’s level. She was only level 467. Nearly a hundred levels below me, and that didn’t even account for the distance my mythical skill made. She’d fallen behind. Looking back on it, I kind of saw it coming.
+
+Althea never liked fighting, and she tired of it. If anything, I enjoyed it a little too much. She needed sleep and I didn’t. That’s 8-9 hours every day that I get to train and study without distraction that she doesn’t have. I even get doubled experience from unique bosses, and that adds up over time.
+
+Althea still had her own innate power, but she wasn’t doing much with it. I, on the other hand, well I was thriving. The rift between us was a difference in mentalities in the end, especially considering we both had advantages no one else had.
+
+I wouldn’t slack off though. With my relentless approach to leveling and study, I was covering ground many times faster than a normal person. I wasn’t competing with normal people anymore though. I left that behind a while back. I was competing with monsters now, and that meant I had to be a little bit of a monster myself.
+
+Those thoughts swirled in my head as we reached near the stadium. We reached the entry point where I walked out of the sewer first. Considering how tanky my build was, I was an excellent vanguard for the group. Althea and Kade would sit back, with Kessiah and Aatrox as their protectors. I would run up and make a mess of the enemies ranks, like a distraction from the real threats of our group.
+
+I didn’t mind our setup. I liked being up close and personal when I fought anyways. It suited me, in more ways than one. With that strategy in mind, I reached up above manhole, out into the street. We were three blocks from the stadium, having a few intersections to cross before reaching the building. A minute later, the five of us where up the stadium stairs and walking inside.
+
+Passing through the dilapidated, empty building, there was a slight echo in the distance. As we walked around the circular hallway, the sound grew in intensity. The pillars lining the wide hall shook and cast shadows off light from windows on the outer edge of the stadium. Walking on the checkered tile floor, a giant in a deep-sea diving suit walked up.
+
+His steps caused cracks in the floor, and even the lightest touch from his massive foot shook the earth. From within his helmet, a dozen eyes glowed yellow. Its right arm ended in a drill, the tip of it digging a ditch in the ground. The left arm ended in a massive, gloved hand. Electricity pulsed from it, arcs of lightning streaking into the nearby area.
+
+Along its back, the lightning created ozone that smelled like chlorine in a pool. The monster glanced up at us, the both of us standing still, like both of us stared at dark things. The kind of things you didn’t want to look at, but you couldn’t tear your eyes away.
+
+Mauler, Keemak Juggernaut (lvl 877) – A servant of an undersea emperor of their home world, their kind lives in the dark. Having their kind enslaved by Yawm, they serve as juggernauts in his army. Covered in a thick suit with protective metallic plates, this monster carries two kinds of attacks. The arc reactor on its back powered the left-handed glove, letting it paralyze and destroy enemies at a distance.
+
+If an enemy somehow closes the distance, the drill on its arm acts as a piercing attack, letting it destroy armored foes with ease. Be wary of this foe.
+
+Kessiah pursed her lips,
+
+“Shit…this is worse than I thought. Torix said the eldritch might have guards, but to send the Keemak as guards...”
+
+Althea frowned, “The Keemak?”
+
+Kessiah pointed forward, “It’s that thing.”
+
+The Keemak Mauler revved its drill, the spinning metal blaring loudly. Kessiah put a hand on my chest,
+
+“We’ll let you handle this when you’re ready.”
+
+I pushed her hand off my chest, “It’s not even a boss monster. It can’t be too hard.”
+
+Kessiah glanced at me, her face worried, “It’s three hundred levels over you.”
+
+I shrugged, “I probably have pretty even stats with the thing. I can handle him-“I turned to Althea, “-with a little help of course.”
+
+A reluctant grin grew on Althea’s lips before the Mauler opened its left hand. Lightning burst from it, sparking into the nearby area. Singe marks burnt into the wall. Glass shattered as bolts blasted through them. Trash caught fire, creating tiny plumes of black smoke. I banged my fists together, the sounds echoing.
+
+I grinned before running forward. The ascendant mana flooded my veins like liquid power. The telekinetic fields covered my fists, turning them into piercing drills. With a shocking speed, the Mauler slapped one of Althea’s spears out of the way. My grin grew at the sight of it. This would be a good fight.
+
+I reached within punching range, a few hundred feet from the others. I activated oppression as bolts of lightning streaked towards me. The electricity charged into my armor, traveling deep into my bones. It dispersed through me, almost like I was drinking it.
+
+Skill level up! Gorger of Mana(lvl 2)!
+
+A few more arcs streaked past my head, but my armor devoured the energy, starving for more. I reached the monster. With a mighty swing, the monster launched out its drill towards me. Keeping cold and calm, I diverted the drill, hitting it at an angle to make it slide past me along my armored shoulders. The sparks off the drill danced with the lightning in a display of sound and light.
+
+I torqued my hand, twisting my hip as I turned my fist. With a heavy hook, I drilled my own punch into the side of the monster. The telekinetic point pierced the suit, digging inches into the armor. With my hand lodged in the monster, splinters of my armor expanded, gripping into the flesh of the creature.
+
+As I stepped back and pulled my fist out, the splinters sheared the Mauler’s insides. A thick, blue blood covered my hand and dripped onto the floor as it stabbed its drill towards me. I slammed my front foot into the ground, using the force of the step as I deflected the drill once more with my right arm. A thin sleeve of telekinetic energy eased the process, smoothly gliding the monster’s wild attack away from me.
+
+The drill veered off towards my right side, sparks flying off my armor. The drill left freshly carved trenches in my armor, the drill showing enough piercing power to slice through my armor. It didn’t matter. The monster had no skill, something I was more than willing to exploit.
+
+When striking his drill to deflect it, my arm bounced back. Using that momentum, I ducked down, following the force. As if gliding on my heels, I smoothly guided the inertia from the hit as I lunged up. Keeping my left elbow tight against my side, I rotated on my heels, weight building in my left hand.
+
+Like a train wreck, my left fist punctured the monster’s gut. The spines expanded as I jerked my fist out, turning the monster’s insides into outsides. The organs and blood and bile flopped onto the ground, pouring like thick mush. The monster stumbled backwards, unable to handle the agony anymore.
+
+The generator along its back flared with light, the energy coalescing into its palm. The ball of energy detonated forward, creating a flash of blue electricity. The bolt hit me, burning my armor and searing my flesh. I convulsed, the electricity causing my muscles to tense. As the lightning left me, I fell forward.
+
+Before landing on my face, I caught my fall as I fell into a lunge. I pushed myself up, a quarter of my health missing. Even with my ascendant mana burning in my runes and forearms, my health readily climbed upwards. I smiled at the monster, almost feeding off its fear.
+
+I pushed forward, slamming my fists together. The monster fell onto the ground, blood pouring from it’s the two gaping wounds on its sides. As it landed, the earth quaked. I kept steady, my steps timed before reaching beside it.
+
+It stabbed its drill towards me, but I lifted my foot and stomped on the contraption. The drill and the metal wires along the engine of it caved in, my stomp crumpling the metal. Again I stomped, and again his body caved. The monster whimpered, crushing under the onslaught. Within seconds, it turned into a blue sap spread all over the floor.
+
+I turned back around, facing the group,
+
+“I told you I could handle it.”

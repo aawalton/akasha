@@ -1,0 +1,199 @@
+---
+id: 5681e5bd-e8a1-5134-8cf9-d8fd701df3ee
+page-type-slug: story-chapter-royal-road
+title: "461 The Frostlands"
+slug: 0421-461-the-frostlands
+partOf: the-new-world
+position: 421
+ownLength: 4668
+unit: words
+ownProgress: 4668
+publishedAt: 2025-08-11
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2508228/461-the-frostlands"
+royalRoadId: "2508228"
+markedReadAt: "2026-06-29T21:35:49.110Z"
+---
+
+Chrona smiled at me.
+
+"We'll see how long you can keep up that physical dominance."
+
+She flapped her wings, flying away. I put my hands on my hips.
+
+"Oh, we will."
+
+Peering around, the city came back together quickly. It would be good as new within a few hours at most, and that gave me plenty of time to try and work out where to go next. After all, we were here to uncover the secrets of Amara's past. To do that, we had to scope out the planet and figure out some of its secrets, so I flew up and out of the city's barrier.
+
+It was time to tread paths unseen and explore an unknown world.
+
+Chapter Begin
+
+I bolted out of the city, a gravity well flinging me forward. It was always such a weird sensation to fly by falling forward, and sometimes, I'd contain the gravity well in my body. It would let me feel the wind, and that feedback made the process far more natural. Unlike those leisurely tumbles, this flight held a purpose, one driven by a desire to explore,
+
+It wasn't a rapid transport either. Whenever I turned into a thin needle, I could fly much faster by concentrating my gravity well and building my momentum. I'd then fall into that tiny gravity well, and my body would follow like a train on tracks. While in that needle form, I could control where I went because the system didn't require eyes to see its screens. I could close my eyes and still see my status as an example.
+
+In my case, I'd have my minimap open in my mind's eye, and I would follow that to my destination. For my current mission, my senses were essential. I kept my eyes peeled, scouting out the nearby territories for opportunities. Not long after my aerial ascension, I found some. Around my city, lots of elemental hotbeds brewed on the surface.
+
+Certain spots carried panels of ice that stretched for hundreds of kilometers. Other patches had the unmistakable glistening of rare ores and sparkling gemstones. A piece of that soil-aligned section had diamonds that lined the ground for miles. As I flew above them, the glints of the stones followed me. At first, I thought it was a matter of perspective. Landing down, they erupted from the dirt, colossal elementals of stone writhing out.
+
+They had skeletons made of rare ores, and they dangled the gemstones as bait for anyone foolish enough to come nearby. At level 20,000, they carried the heft and might of mountains. I sparred against them, regaining a sense for physical combat against foes that could rival me. If anything, it freed me to leave the fragility of Earth and come to this absurd place.
+
+I was far more at home amongst these creatures than in my fragile home.
+
+After a few minutes, I walked out of the piles of gemstones, keeping a few for Hod and to sell to the luminari. They'd value the dynamic reflections and mana-tinted hues. From a few of the strongest ones, I found their bodies were hiding dense cores made of condensed mana.
+
+From what I could tell, these elementally charged centers guided their evolutionary paths as monsters. As I tore them apart by hand, my skin and bones exceeded theirs. I cracked them like eggs and robbed them of their cores, finding a feast amidst the feral.
+
+Somehow, they psionically howled in agony as I smashed them. It could've been a ploy to play on an enemy's empathy. Well, it worked, and after an hour, it really bothered me. Killing was one thing, but prolonged bouts of torture were another. That's why I developed a different strategy to save them some suffering.
+
+As I passed by, I snatched their cores from their bodies. Once I was gone, I smashed their lingering mind to bits using Event Horizon, leaving a desolate graveyard of these creatures behind me. After killing a few thousand, I allocated my skillpoints from gained levels and moved on. I found many other elementally imbued eldritch that nestled into their various domains.
+
+As expected, they reflected the manas imbibing their territories. By taking cores and a few corpses for study, I hoped to better understand how they developed, evolved, and changed over time. After all, Amara still wanted to find a way to help the eldritch. While I wanted her to diversify her efforts, that didn't mean she had to abandon all her previous dreams.
+
+After tearing through the nearby territories, I gained a far better understanding of the nearby regions. We had landed in the middle of an intersection point between vast swaths of imbued territory. To the North, the Frostlands stretched for tens of thousands of kilometers. The South held a magma pit that opened up to the bowels of the planet, and it matched the North's staggering scope.
+
+The East was a land of fluctuating gravitation, and the West was the flickering lands of lost time. It left me with plenty to explore and uncover, so I did. Passing through the outskirts of these lands, I actually tried to use my heightened stats instead of letting them waste away. It was a faucet to my system usage that I needed to get in check.
+
+After all, I wielded my physical stats well. In my opinion, at least. Over time, I also took better and better advantage of my mental stats. A Manifold Mind was the start of that process, and Infinity was its end. My cipheric runes, general study, and runic research were a lot to do for anyone. However, other stats existed outside of those.
+
+What about my luck? My perception? I'd let those stats go to waste for a long time. That would be the case no longer. As I traversed through the southern tip of the Frostlands with that intention, a message popped up.
+
+Quest: The Death of The Frostland's Ruler | Rank: S- | Description: There exists a solar-tier threat that has ruled over this area of [Rebirth] for millennia. Showcase the courage and bravery of a Sovereign by slaying the ruler of the Frostlands. In doing so, you will be awarded!
+
+Honestly, the quest didn't change much of what I planned to do here, but it was something to keep in mind. Pulling my thoughts back to the task at hand, I soaked in all the sensations I could. Instead of trying to block the cold and its biting chill, I allowed it to soak into my steel skin and silver blood.
+
+It came with far more than a mere temperature. Like with the ice primevals, a deeper chill manifested, one conceptual in nature. It was a shift in the laws of this region, and it bit down to the bones of existence. I mean, if I thought about it, cold wasn't something as skin-deep as a feeling. Well, I guess it was considering humanity based the concept on our own perspective.
+
+What caused coldness was actually based on how quickly atoms moved. In essence, the slower they shifted, the more chilled something became. To feel that cold, someone's atoms would come in contact with the slower atoms within an object. They then stole the movement of those atoms, resulting in the chill someone experiences.
+
+Here, the conceptual cold was something that bled beyond the atomic level. It affected thoughts, mana, and even gravity. Instead of relegating itself to the speed of just matter, cold seemed to slow everything down. It was kind of like I entered a stasis field, and I bet that some of Schema's own stasis technology was based on this effect.
+
+While flying through the slowing field, I immersed myself in it. It acted as an amazing catalyst for understanding the strange sensation. After all, if it could be made, then it could be wielded. Preferably, by me, so I leaned into the effect. I spent a few hours killing the icy eldritch on the outskirts of this land.
+
+After taking out an army of basic ice elementals, I sat surrounded by their ice cores and in the coldest spot I could find. At the peak of a glacier, I gazed at my surroundings, letting the frigidity leak into my mind. I could accelerate time to counteract the sensation, but I didn't. I let it flow deep into my soul, bones, and blood.
+
+Within that arctic purgatory, I sought out whatever the hell caused this shift in principles. After all, it made no scientific sense. From what I understood, mana manifested as a kind of physical corruption. It molded reality to whatever you thought up, but at the same time, it was limited by that reality.
+
+No matter how much mana someone used, they couldn't bend existence to their liking. I thought that until I got off of L-7 and saw the primevals do it. Despite lacking my level of mana production, the primevals warped the rules of reality around them. It was a power I tasted whenever I helped Torix, but even in my ignorance, I understood how flawed my approach had been. I wasn't bending or changing the rules of nature. I was scrubbing them from a patch of this dimension.
+
+In a way, it was likely a much more difficult feat than simply altering the rules of the world. However, this other approach carried a finesse that I was hopelessly lacking in. It was like a hulking giant slamming a club versus a master fencer swinging their rapier. Sure, the giant got the job done, but it required much more effort than the fencer.
+
+If the giant wielded their weapon as the fencer did, the colossus would always win in a fight between the two. In that way, someone's technique could bridge a gap in ability, and the primevals' reality-bending was a prime example of that. The primevals and, to a lesser extent, this ambient energy were influencing the universe.
+
+I wanted that power as well, so I ravaged myself in it. The discomfort coursed through me in pulsing waves as my mind, soul, and body slowed. In taking in this energy, I exposed myself to anything that'd find me. An eldritch could shatter me to dust, but the risk was well worth it. I wouldn't die, after all.
+
+Even after hours of soaking in the cold, replicating the effect was still well beyond me. I didn't find the basic laws of this place. However, I did uncover their movements. The shifting forces led to different hotspots, so to speak. From those clusters, enormous amounts of this coldness radiated. Finally gaining some semblance of their source, I pocketed the ice cores around me and headed towards one of these clusters.
+
+I reached one within a few minutes. Surrounding a strange shard in the ice, a herd of icy walruses bathed in frigid energy. Perhaps walrus wasn't quite right. They held the rough shape of one, but tusks lined their backs and sides. These teeth glowed a bright white, each shard imbued with the energy of their ice cores.
+
+Their skin solidified into ice until they moved. Like a simultaneous liquid and solid, their bodies crunched about on the ice. Their fins held patches of shifting mana, and they accelerated themselves with those flippers. Lines of runes covered the oldest of them, ancient scars littering their forms. Sitting at around level 25,000, they were immensely powerful and could easily ravage a continent on Earth.
+
+I snuck toward them, keeping my body small and hidden within my held subspaces. As a set of several dark dots, I left a tiny vantage point for my eyes. Watching on, the leader walrus rested over the cluster of shifting laws and leylines. I encroached within a few kilometers, trying to get as close as I could to inspect with more detail. The moment I got within two kilometers of them, they gazed right where I floated in.
+
+And all hell broke loose.
+
+A blizzard encircled them. The structure of reality bent as the group controlled space and time. They funneled that energy to me while I scrambled out of my floating dimensions. Their attack blasted my metal body with a palpable force. My blood ceased its flow, and my mana quit moving.
+
+The antimagical property piqued my interest as they shot into the air, their bodies turning into coursing patches of icy liquid. Bolting my way, their tusks left their sides and became shards of destruction. The glowing shards darted at me, several of the tusks snapping against my skin. A few hit at just the right angle, and they pierced several inches deep.
+
+Their cold was like a poison, and it infested me down to my core as the bombardment continued. I opened my pocket dimension, and I unleashed a devastating wave of force. Not towards them, mind you, but at myself. I shattered, dispersing the collected cold in my body. From the ether, I returned, and my mana flowed like normal once more.
+
+I heated my entire being until I shone a bright blue. Time compressed, my runes glowed, and my armor smiled. I was born anew, my body a destroyer and my mind its master. I jolted to them, crashing through their leader. They tried to splatter in all directions as a liquid, but I was ready. I condensed them with a crushing wave of gravity.
+
+The pressure solidified their body, and my collision reduced them to less than powder. In an instant, their leader died. I pursued the others, tearing them apart with a similar strategy. I sent out a series of jabs and straights. The jabs condensed a gravity well over them, and the straight launched telekinetic bullets their way. As a hailstorm of shattered bodies flooded over the terrain, their blizzard faded, as did they.
+
+Able to see, I leaped towards their resting spot and found one of the many leylines marking the land. It was the source of the manifested principles. It held a resonance like the others, but unlike the ones near my city, this leyline connected deep underground to other leylines. Energy pulsed through this primordial object, and it held the secrets of these shifting spatial laws.
+
+I wanted that knowledge, and so, I listened. Its pulses coursed underground, each of the outbursts heading towards some point far in the distant North. I sent a message to the others to update them before following the coursing pulse. This was going to take a while, and I didn't want them to worry about what I was doing.
+
+I mean, wow, I was so thoughtful. It brought a frozen tear to my eye.
+
+Sarcasm aside, I ended up finding many herds of icy creatures along the way to the pulse's source. From elegant foxes that wrestled amidst frozen realities to rabbits that sacrificed weaker monsters like cattle or said foxes, the Frostlands had it all.
+
+And oh man, I hated those rabbits. They swam in the entrails of other monsters. To my credit, I didn't kill the less aggressive eldritch, and I even got one of the ice foxes to play with me for a bit. Those rabbits? The entire time I hunted them, they squirted blood from their eyes, and they all chanted in harmony.
+
+The blood was an aphrodisiac, and the howling was a psionic attack that put desires in my head. What desire? The desire for rabbits to swim in my stomach. Yeesh. Horrifying. I expunged them from existence down to the last entrail-sucking baby. That debacle aside, I left the land far less inhabited and more peaceful.
+
+Considering what some of these creatures did, I considered it a service to the universe. I mean, those rabbits would haunt my dreams for years to come, and yeah, it was a good thing I didn't sleep. Ah, the blessings of the system.
+
+While purging the land of creepy critters, I harvested a few of the passing leylines. Each one carried more power than the last, but I only took a few of the lighter ones. I also grabbed them in an incremental order. Why? Well, I wanted as many of these leylines as I could find while in different stages of development. It gave me a better understanding of their natural evolution as they gained power and potency.
+
+Whenever I went to make my own in the future, each version would be a useful case study. Well, at least I hoped so. At that point, I couldn't tell what my gains would be from this Arctic analysis. It wasn't a difficult task to get the leylines in a specific order either. As I traveled North, the leylines grew in size, scope, and protection.
+
+Each horde of eldritch steadily rose in power, eventually exceeding level 30,000. The gradual increase in level was perfect for someone who actually wanted to level the normal way. It was something I devoted more time to thinking about these days. Leveling was essential to a guild, from what Opal said, and, well, duh.
+
+While my own system experience had diverged from the norm long ago, I could still study and understand a normal person's experience. Besides, Opal mentioned dungeoneering being essential to any empire's long-term existence. Otherwise, the populace would lack dungeon-clearing ability or military strength, and I'd be left handling the shortfall.
+
+While I didn't mind doing some heavy lifting, I wanted people to pull as much weight as they could. Anytime a guild member handled a threat, it saved me some effort. In that regard, their strength was effectively my time. The more potent my people, the more free time I'd have for adventures like this.
+
+And I couldn't lie - this was fun. Really, really fun.
+
+I needed more of this, so if my guild were competent, I wouldn't need to douse fires all the time. My other reasons for research were more personal in nature. Even more than the freedom, I wanted to understand how Schema's worlds worked. This place had long lost its inhabitants, and that left it uninhabited by any sentient races from what I could tell.
+
+However, the eldritch still hadn't spiralled into a Spatial Fortress. Why? I had no clue, and uncovering that secret could be vital for many of my goals. At the very least, it would help sate my curiosity. The levels I kept gaining only spurred me on as I fought against a growing sensation that pooled in my stomach, and it wasn't dread.
+
+It was excitement. I hadn't fought a normal eldritch in a normal dungeon for a long time. While this wasn't exactly mundane, this was close enough to an average dungeon that I was elated. The best part was the lack of the Old One's influence here. Unlike on Earth, this place didn't harbor the same insidious phenomena.
+
+No matter where I looked or explored, the eldritch took on contained, stable, and overall benign forms. Of course, a few exceptions like the rabbits showed up from time to time, but they were nothing compared to nearly all eldritch on Earth. The more land I passed, the more certain I was of that phenomenon and its supposed cause.
+
+The leylines.
+
+The leylines kept filtering the influence of the Old Ones, and despite having explored quite a vast swath of territory, I'd never really seen these leylines aside from a few sparse, meager ones on Blegara. The presence of these filters raised quite a few pressing questions.
+
+For starters, why didn't Schema use them everywhere? Even from a few cursory glances, I found system-made leylines that harmonized with the other naturally occuring leylines. If anything, it almost looked like Schema went out of its way to get rid of leylines on newer worlds like Earth. That sentiment only became more concrete the more I traveled.
+
+Their density was insane, one of them siphoning mana every few miles. So then, why? Why in the world would Schema stop something like this and effectively neuter the eldritch's influence? This felt like the most obvious and elegant solution I'd ever seen, and I'd be damned if I wasn't going to incorporate these leylines on Earth.
+
+I didn't care if I had to scour this planet down to its bones to get the ones I wanted. I would obtain them, and I'd kill anything that got in my way. Speaking of, I stood over the corpses of pale, shimmering bats. Their rancid breath and chalky skin gave me flashbacks to BloodHollow.
+
+Unlike those pale bats on Earth, these bats could see, warp reality, were the size of buses, and could siphon mana with their gaze. That last ability was particularly nasty. A normal person at my level would've been left utterly helpless if they even locked eyes with one, since each bat stole millions of mana a minute.
+
+To me, it was a drop in the bucket, but for a normal leveler? It would leave them crippled and unable to move. I made sure to write those kinds of situations down in my status while keeping an extensive log of the creatures, their abilities, and dangerous situations here. After all, I intended on colonizing this planet, and so far, it seemed like a nice pitstop between Earth and L-7 for ambitious dungeoneers.
+
+It would be a part of a long-term project to create a dungeoneering advancement program. From one planet to the next, I'd have a fast track with a smooth leveling experience. Well, as smooth as killing eldritch could be, at least. Inevitably, there would be deaths here, on Earth, and on L-7. I couldn't stop that, but I could at least let people come here prepared. My time with Joshua, Jamal, Nissa, and Jasmine taught me that.
+
+All of the research left a lot of unanswered questions, and more kept cropping up. For instance, the closer to the Northern Pole of the planet I traveled, the more signs of leadership and organization I found. Whatever leyline they protected, the eldritch worked together to harvest its resources.
+
+See, the leylines kept building in strength, and with that power came a palpable warping of the environment. As an example, that far North, the ambient cold of the environment exceeded the chill of being surrounded by ice cores. In that perpetual frost, ice mana crystallized, and it would no longer effuse the air.
+
+Eldritch would gather the stones that accumulated beneath each leyline, and their harvested supply would be shuttled to their supposed leader. Even from a cursory glance, I could tell that the workers took a portion of the stones, but they left enough to keep the ruling monster happy. In the same vein, the leader of these enclaves would then take a portion of these crystals before shipping the rest further out.
+
+As with all roads in The Frostlands, they led to the Northernmost tip of the territory. I left a few of these towns emptied of residents and ice mana stones before reaching what would be the first of the great world wonders I found on Rebirth.
+
+The glacial walls of the far North.
+
+Here, the walls of ice reached for kilometers into the sky. Flat Earthers would've jumped for joy at the sight, and the sheer scale of the cliffs left me mesmerized. In many ways, they defied physics, though many things did here on Rebirth. I scaled those immense walls by flying near their surface.
+
+I faced miles of frost as I did, and lost in the endless ice, the eldritch of eons past had tried to feed on the ice mana hidden deep within. The ice froze over the monsters and feasted on them in turn. In a twist of fate, the hunter became the prey. The monsters' fear, their pain, and even their despair scarred their faces even after centuries had passed.
+
+The ice carved itself into them as well. Needles of the hungry substance dug into their bodies and siphoned their life away. A few of the monsters followed my flight with their eyes, and they wished for a death that would never come. I could hardly fathom the sheer volume of suffering, and the enormity of the structure and its consolidation had me wondering what was at the end of all this.
+
+Either way, I would destroy it. As I passed well over a thousand kilometers of ice, I found another wall that went up for kilometers once more. After another hour of travel, another endless barricade stood tall. There were seven of these walls, and they reached up past any sky I imagined this world could have.
+
+It defied all reason, yet it also felt so very right. The mana flowed here from the entire region. It fed on everything, creating some colossus of ice that hadn't yet awakened, but its presence was an undeniable certainty. It left me excited at the prospect of battle, yet resolved to end this horror.
+
+In many ways, these eldritch were pitiable. Their existence had devolved into nothing more than mana batteries for the starving ice. They had survived for centuries in excruciating torture, and I would be the one to end it. So, I prepared myself for a war as I flew over the last ice wall.
+
+The atmosphere here thinned, and all sounds were muted. My sense of taste faded, and my feelings numbed. At this apex, hundreds of leylines clustered together like veins surrounding a heart. They acted as the life force for this sleeping goliath, and it, in turn, fed on the ice energy the leylines created.
+
+This careful harmony was maintained by eldritch from many far-off realms. They all congregated here in varying states of stupor. Most lacked any awareness, their bodies and minds hollowing out in service of the ice. The other eldritch had their minds warped by this tundral king and its control of worldly principles.
+
+The monsters enacted the will of their master, making the other eldritch carry mounds of ice crystals to the living glacier. I passed camps that bred eldritch and placed their children over leylines. They would grow before being implanted into the ice, their lives forfeited to serve the eternal cold. It left me solemn, and my mission took on a different endpoint. Instead of trying to understand this realm, I aimed to obliterate it.
+
+Nearing its endpoint, I found an endless blizzard. I dove into the icy wind, the sky itself spiraling under the strain of energy. Blinded in sight but not from my sense of mana, I passed through winds that could scrape steel from stone. In the end, I reached the eye of this Arctic hurricane. Beyond a wall that enacted stasis on all that touched it, a lone figure stood.
+
+I passed the veil with my dimensional wake, my condensed aura staving off the endless cold. A being with no face held its hands and feet embedded in the ice. Mana coursed into its being from the glacier below, and it fed an unparalleled body. It was the embodiment of stillness, a silencing cold that left nothing in its wake but a haunting serenity.
+
+As I neared it, the being peered at me. It was a color human eyes could not see, but its shape was familiar. It kept bending its form until its body was made of purified void ice, and chilled plasma pulsed through its heart and veins. It ended its reformations once shaped like a wooden ent, one with bent legs and wooden horns like a majestic elk.
+
+Its eyes glowed with a blue deeper than oceans or worlds. My breath seized in my chest as it reached out a hand, and it drew from my memories. It peeled back my mental defenses and found something. It spoke aloud.
+
+"Ah, it's you again, Harbinger. We meet once more, but now upon a plane of ice instead of on the branches of a dying Yggdrasil."
+
+My voice was but a whisper.
+
+"Yawm?"
+
+It smiled.
+
+"In the flesh."

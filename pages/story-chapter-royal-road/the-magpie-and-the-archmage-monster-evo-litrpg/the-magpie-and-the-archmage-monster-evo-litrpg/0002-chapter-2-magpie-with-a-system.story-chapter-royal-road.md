@@ -1,0 +1,253 @@
+---
+id: cb406091-72f0-5745-9753-18f7fa5e1a8c
+page-type-slug: story-chapter-royal-road
+title: "Chapter 2 – Magpie with a System"
+slug: 0002-chapter-2-magpie-with-a-system
+partOf: the-magpie-and-the-archmage-monster-evo-litrpg
+position: 2
+ownLength: 2195
+unit: words
+publishedAt: 2025-08-17
+link: "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2525510/chapter-2-magpie-with-a-system"
+royalRoadId: "2525510"
+---
+
+Chak-chak-chak?" She cocked her head. "What is the System?"
+
+"You must be wondering what the System is! It's like a magical guidance assistant that will help grow, level up, learn skills, and even evolve!" The gem said excitedly. "With it, you'll be able to grow stronger."
+
+That sounds vaguely familiar. Is it a human thing? I feel like I've encountered it in my past life in… what were they called again? Ah! Video games.
+
+The memory made her feel a bit happy and excited. She had played them as a human and, as far as she could tell, enjoyed them. If her human self had liked it, then perhaps it wasn't a bad idea to get this System. Besides, she was curious to see exactly what would happen.
+
+She picked the gem up in her beak.
+
+"Good. Give me a moment while I figure out how to apply the System to you. It's difficult to do anything in this form."
+
+There was a bit of groaning, a bit of moaning, and a lot of other uncomfortable noises.
+
+Humans! Always so dramatic. I wasn't like that before, was I?
+
+"Oh, I think I got it!"
+
+"Chak-chak-chak!" She exclaimed. "Finally!"
+
+"Gosh! That's loud! Don't do it while holding me in your beak."
+
+She felt a mild satisfaction at that.
+
+[System initialization in process. Please wait…]
+
+She squawked in surprise as the weird blue box appeared in front of her, nearly dropping the gem.
+
+"Stay still or I'll have to start anew!"
+
+Settling down, she looked at the box again. It was blocking part of her vision, so she wished the thing would disappear soon.
+
+[System initialization complete. Would you like to view your profile?]
+
+Yes?
+
+[Profile]
+
+Name: —
+
+Species: Common Magpie
+
+Level: 1
+
+Health: Tiny
+
+Mana: Miniscule
+
+Glimmerstones: 0
+
+Skills (1/10):
+
+Mimicry [Basic]
+
+Traits (3/10):
+
+Keen Vision [Innate]
+
+Treasure Sense [Basic]
+
+Aerial Agility [Adept]
+
+Next Evolution: Requires Level 10 and ??? Glimmerstones to unlock
+
+Tiny?! Miniscule?! How dare you, ugly blue box?!
+
+Angrily she dropped the gem, trying to peck the hovering screen, but all of her strikes were futile as they went straight through.
+
+"What are you so angry about? Is it because you're Level 1?"
+
+She let out an angry slurry of chak-chak-chaks, trying to explain to the foolish human how deficient this System was for not understanding her true potential.
+
+"Calm down, calm down! It'll improve with time."
+
+She paused, looking at the gem. So these could be improved? That calmed her a little. Looking at the profile again, she realized there were a lot of things she didn't understand. Like, what were glimmerstones?
+
+[Glimmerstones are cores of monsters which contain their essence. They can be used to purchase skills, traits, and evolutions.]
+
+Oh, it changed when I thought about it. So the blue box isn't completely useless.
+
+"You've brought up a new screen. Clever birdie! Whenever you don't understand some term, you can mentally ask your System and— wait… You can read?"
+
+There was a pause. She puffed out her feathers proudly.
+
+It's because I was a human before. Of course, I'd remember such a rudimentary skill as reading.
+
+"No, how is that possible? Or does the System automatically make it legible even for an animal?" The gem voice suddenly felt a lot weaker than before. She hopped over to it and saw that the shimmering within was duller than before. Something wasn't right. "I-I think… I used too much energy… I…"
+
+The gem went completely silent. She observed it for a moment, then poked it with her beak. No reaction.
+
+Oh well. It's actually much more pleasant when he doesn't talk. Now, how do I get this blue box out of my face?
+
+It instantly disappeared.
+
+Good. I'll inspect this System more carefully back in my nest.
+
+There was no time for leisurely rest by the stream. If the humans survived that boar attack, then they will surely try to find the gem. So she grabbed it and swiftly flew back to her nest, trying to stick closer to the canopy where it would be harder to spot her.
+
+Once she was within the safety of her tree hollow and the inert gem was put in the honored place at the very center of her nest, she inspected her profile again.
+
+Let's check everything carefully. Species, health and mana are quite self-explanatory, although calling one tiny and other miniscule is just insulting! I'm in top shape!
+
+What about skills? It looks like I'm limited to 10, and currently I only have <Mimicry>.
+
+[Mimicry – At [Basic] level, you can mimic sounds that you have heard before and memorize some of them.]
+
+That seems about right. I've always been able to mimic other birds and human words. Every self-respecting magpie can do that. But if this is a basic level, does that mean there are higher levels?
+
+There was no reply from the System, and she let out an annoyed click. So much for explaining everything. She turned her attention to traits next. Reading over the names, it seemed to be related to her natural instincts and physique.
+
+[Keen Vision – At [Innate] level, your vision is as good as it can be, allowing you to perceive small details at great distances and even see ultraviolet light.]
+
+[Treasure Sense – At [Basic] level, you can sense the general area of treasures, artifacts, or valuables.]
+
+Now this is disappointing. I definitely should improve my treasure sense. Imagine all the shinies just sitting somewhere in the dark without anybody to watch over them. Oh, the tragedy! The horror!
+
+[Aerial Agility – At [Adept] level, you can perform various aerial maneuvers such as gliding, diving, swooping, and aerial rolls.]
+
+The System described capabilities rather well. But there was something in her profile that confused her. The evolution.
+
+Magpies evolve? Like those… ugh… I can't remember what they were called exactly, but there was this game with monsters that evolved. But I'm not a monster. Besides, what use would I have for evolving? I'm already perfect.
+
+She puffed out her feathers and dismissed the thoughts of evolution. Being a magpie was great, and there was no need to change it. Time could be spent on much better things, for example, preening her feathers. It was crucial to keep them clean.
+
+Several hours later, her feathers were pristine, but she was getting a bit antsy. Initially, sitting in her nest all day seemed like a good idea. But it was so boring. She wanted to scour the forest for more treasure. Or perhaps learn how to level up.
+
+If her memory served her right, then in video games, you had to defeat monsters to level up. But what kind of fool would throw themselves at monsters? She couldn't do something so foolishly dangerous.
+
+Suddenly, she noticed the shimmer return to the amber gem, and a weak groan came from it a moment later. "That… wasn't pleasant."
+
+Oh, great. This guy is back.
+
+"Are you still here, magpie?"
+
+"Chak-chak-chak!" She confirmed.
+
+"Good. It's a bit dark here, so it's hard to tell. Is this your nest?"
+
+"Chak-chak-chak!"
+
+"Nice. Good call, carrying me away from sight. Those brutes will definitely search this whole forest to find me."
+
+She wondered why exactly those mages cared so much about this dummy stuck in a rock. Why was he even stuck in a rock? How do you even get stuck inside one?
+
+"How long was I out? Long? No?"
+
+"No," she mimicked.
+
+"That's a relief. Did you inspect your profile?"
+
+"Chak-chak-chak," she said approvingly.
+
+"That sounded like a yes. I have no clue how a magpie can read, but it's not like you could tell even if you wanted to."
+
+No, I really couldn't.
+
+Maybe if he gave her enough phrases to mimic, she could puzzle something out. But that could take ages.
+
+"Maybe in time. If I'm not wrong, I saw Mimicry at [Basic] level. Once you improve it, it should be easier for us to communicate. For now, the best we can do is start your training."
+
+She cocked her head. Why would she bother training? That's something humans did.
+
+"No."
+
+"No? What do you mean no? Didn't you agree to get the System to get stronger?"
+
+Not really. I was just curious to see what would happen.
+
+She wiggled her wings, settling herself into the soft moss. While her human self had been happy about video game leveling, the magpie self had no intention of endangering herself. Heck, her human self would be hesitant, too, if she had to fight real monsters.
+
+"You infuriating, little…" The gem muttered angrily, then sighed. "But do you really want to be the weakest magical creature in this forest?"
+
+"No. Weak!" She objected.
+
+"You're a magpie! Of course, you are weak. Could you even defeat a jackalope?" She cocked her head at the unfamiliar term, and he explained, "The small rabbit monster with antlers."
+
+Remembering the jackalope that had shredded those wolves sent a shiver down her feathers. There was no way she could fight a monster like that. It was suicide.
+
+"If you would train, you could defeat it. Wouldn't it be nice to be able to protect yourself?"
+
+It was tempting, she wasn't going to lie. But attacking monsters was far too dangerous. It was better to outfly them. There was nothing they could do to her in the sky.
+
+"Still no?"
+
+"No."
+
+There was a long moment of silence as the gem seemed to be deep in thought. "Wait… You like treasure, right?"
+
+"Treasure!" She responded proudly, nudging the pile of coins she had collected.
+
+"You know, every monster has a glimmerstone at its core. They are considered to be valuable among people. Very valuable."
+
+He had her full attention. Glimmerstones sounded shiny. Very shiny. They would certainly look grand among her treasures. She wondered what they looked like. Which colors would shine within them? She wanted to know.
+
+"Glimmerstone!" She mimicked excitedly.
+
+"Oh, you want one? You'll have to fight a monster to get it."
+
+She was torn. She wanted the glimmerstones, but fighting monsters… It was not something a magpie would do.
+
+"Glimmerstone," she repeated after a brief pause. She couldn't miss this chance to enlarge her hoard. If she got a bit stronger along the way, then all the better.
+
+"Good. So what you need is to find a monster weak enough for you to defeat. Some beetle or frog monster would do just fine."
+
+She thought about it for a moment, then remembered seeing some odd toads near the lake. At the time, she hadn't paid any attention to them—toads were not her food of choice. But if one of them had a shiny glimmerstone at its core…
+
+"Frog monster!" She mimicked, getting up and stretching her wings out for flight.
+
+"Oh, you know where to find one? Grab me along and I'll explain how you can fight it."
+
+She regarded the gem skeptically. She didn't need help in defeating a toad. Besides, there was no way she was taking her most precious, new treasure out of her nest. No, if those humans showed up, they would try to take it at all costs—they had been ready to die for it after all.
+
+"No!" She said, and hopped out of the nest.
+
+"Wait, don't just leave me here! If you die, I'll be stuck in this stupid pile of trinkets forever!"
+
+"Chak-chak-chak!" She let out angrily. "They are treasures! Not trinkets."
+
+The gem kept calling out to her and cursing her out, but she just covered the entrance to the nest and flew away. Hopefully, the fool would shut up soon. He should be intelligent enough to realize that screaming would only attract attention.
+
+I should give him a good peck once I get back. A foolish human stuck in a rock.
+
+Before long, she had reached the lake. It was overgrown with reeds and filled with toads, frogs, and other slimy creatures. She flew over the lakeshore, scanning the shallow water in search for the unusual toads. There turned out to be several of them scattered about.
+
+They were a bit larger than normal toads and their colors were also more vibrant and colorful. Of course, they could not compare to the magnificence of her feathers. But at least it made them easy to spot.
+
+Which one would be the best target?
+
+There was one smaller, oddly shaped toad with yellow markings on its side.
+
+This one is isolated from others, so it'll be easier to pick off in case these toads have some weird camaraderie going.
+
+She circled it a few times, then dove straight for the toad, intending to kill it with an accelerated hit of her beak. However, as she got within striking range, the ugly thing let out a loud, screeching croak which sounded similar to a thunderstrike.
+
+[Spark Toad has inflicted partial paralysis on you.]
+
+She barely managed to flap her wings enough not to smash against the ground. Her landing was rough as she painfully fell and rolled some distance away from the toad.
+
+"CHAK-CHAK-CHAK!" She screeched. "You bastard! Look what you've done to my feathers! You'll pay for that!"

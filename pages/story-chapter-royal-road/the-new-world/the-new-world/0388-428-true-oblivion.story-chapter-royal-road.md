@@ -1,0 +1,413 @@
+---
+id: 66a37ded-68e1-5eea-a354-d73a0cb32016
+page-type-slug: story-chapter-royal-road
+title: "428 True Oblivion"
+slug: 0388-428-true-oblivion
+partOf: the-new-world
+position: 388
+ownLength: 3230
+unit: words
+ownProgress: 3230
+publishedAt: 2025-05-23
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2299034/428-true-oblivion"
+royalRoadId: "2299034"
+markedReadAt: "2026-06-29T21:34:39.234Z"
+---
+
+I nodded.
+
+"Fair enough. I never thought about making a business, actually-"
+
+A notification rang in my ears. I opened a message from Torix, and confusion washed over me.
+
+Torix Worm, The Harbinger's Erudition | Level: 18,000 | Class: Archmage - Now, I do understand that my memory has failed me before, but I must reiterate this point: who is this Marcella Meyor and Rebecca you keep speaking of? I've never heard their names in my life.
+
+Chapter Begin
+
+I frowned at the message.
+
+"That's...Odd."
+
+Althea steepled her fingers behind herself.
+
+"What is?"
+
+I swiveled my status to her. She read the message before scoffing.
+
+"Ok, is he joking about this too?"
+
+Torix and I exchanged a few messages, his irritation growing before he insulted my scholastic capabilities. Either way, it verified that Althea knew Marcella, and no one else seemed to. I double-checked other guild members via messaging, from our scouting operation to our record-keeping corps.
+
+Althea crossed her arms.
+
+"I think that Old One did more than just erase her body. I think...And I know this sounds insane...I think it destroyed everything about her, from her memories to other people's ideas about her."
+
+I murmured.
+
+"It was oblivion. To fade, even from memory, lost to time."
+
+Althea tightened her arms.
+
+"Uh...What?"
+
+I shook my head.
+
+"I don't know. It's just something odd I've thought about arcane mana just now. I always thought it was effectively antimatter or an anti-energy equivalent. Now, I don't know. It seems to be something closer to literal oblivion, as if someone is tearing a being out of space and time on all levels."
+
+She gazed at the clouds.
+
+"How in the hell are we supposed to beat something like that?"
+
+I peered at her.
+
+"I have no idea, but we have a lead."
+
+She sighed.
+
+"Your pocket dimension."
+
+I pointed a finger gun her way.
+
+"That's right. I think my pocket dimension is one of the few places the Old One's can't reach. It could even be why they're nesting their portals all over the place. They're trying to get me to put one of the portals in there."
+
+Althea blinked.
+
+"Oof. Yeah. Bad idea, but it's good we know that now."
+
+I took a deep breath.
+
+"This...This is going to be an uphill battle. Speaking off-"
+
+I tried moving. It hurt everywhere and everything.
+
+"I can't even budge. I'm lucky I can still hold onto these portals at all."
+
+Althea put a hand on my cheek.
+
+"It might be time for a break. Schema knows it's been a long time coming."
+
+I cracked my neck.
+
+"Maybe so. I...I don't want to, but I'm feeling more than a bit off. I'm running on fumes at best."
+
+She put her hand on one of my scars.
+
+"Does it hur-"
+
+"Ow."
+
+She jumped off me, flipping into a persistent hover using her wings.
+
+"That answers that question. I think we need to get you back to Mt. Verner, and you can rest easy until you're feeling better."
+
+I gawked at her.
+
+"Feeling better? I feel fine."
+
+She rubbed one of my marks once more, and I winced. I recoiled after a second, and she rested her hand on my chest.
+
+"Daniel. You need to take some time to heal."
+
+I met her eye.
+
+"There's an out-of-control Spatial Fortress on Blegara. I'm not going to let it consume their world."
+
+She closed her eyes before taking a breath. She reached out and flicked one of my scars. I let out a yelp, the agony surprising and sharp. I twitched before I murmured.
+
+"Alright...Point taken."
+
+After a while, I sent a message to Helios. He arrived several minutes later. Sauntering out, he gazed at his claws before tilting his head at me.
+
+"It would seem the mighty Harbinger needs a ride once...More."
+
+His words trailed off as he gazed at me. Helios gawked despite being blind.
+
+"What...What in Baldowah's name happened to you?"
+
+I spread my hands.
+
+"You can't even see me."
+
+Helios gawked.
+
+"But I feel your mana. You're a shadow of your usual self, like a cinder atop a once roaring fire."
+
+I turned a palm to him.
+
+"Beautiful analogy, but dammit, I'm fine."
+
+Helios shook his head.
+
+"No...No, you're not. Tell me what happened."
+
+I gave him the story that I remembered alongside Althea's talks about Marcella. As we thought, Helios had no clue who Marcella was despite, according to Althea, having known about her for a while. After letting him understand the severity of the situation, he put a hand over his face and laughed.
+
+"Ah, yes. You were smitten by a mad god, and now you rest wounded upon your throne."
+
+Althea frowned.
+
+"Have you been reading literature or something?"
+
+"Shakespeare and Charles Dickens. Human poetry is interesting, and I enjoy hearing it spoken aloud. It sounds far more elegant than the brutish language you all seem to butcher."
+
+I scoffed.
+
+"A spoiled aristocrat, as always."
+
+Helios smiled, his eyes piercing despite the darkness they saw.
+
+"And you're a buffoon who runs into lightning whenever he can. I wonder which of us is less fortunate?"
+
+Althea leaned against me.
+
+"I'd say it's me. I lost both parents and grew up in a research lab. Somehow, I'm less angsty than either of you."
+
+Helios and I stared at each other before laughing. Althea blinked.
+
+"What?"
+
+Helios raised his brow.
+
+"She's right, isn't she?"
+
+I shrugged.
+
+"That tends to be the case."
+
+Helios made a portal.
+
+"We're lucky this space is considered continuous to Earth. Portalling here is rather simple."
+
+I tried moving into it.
+
+"Good, because I feel like hot garbage."
+
+I felt as weak as a puppy, and the dimensions held me in place like spatial anvils. Helios and Althea got behind me and shoved me forward. Despite their aid, I couldn't move. After a few attempts, Helios's gravitational gauntlet gave Althea the grip she needed to get me moving. As she finished shoving me into our top-floor suite at Mt. Verner, Althea wiped her brow.
+
+"You need to get on a diet. Sheesh."
+
+I rolled my eyes.
+
+"I haven't eaten in...Since our last date."
+
+She waved me off.
+
+"You know what I mean. You may need to quit, I don't know, breathing in the universe or whatever it is you do."
+
+"I channel mana into my runes."
+
+She raised her brow.
+
+"Sounds like breathing in the universe to me."
+
+As I sat down on a comfy couch, I thanked my extra set of rings and amulets that gave me enough mana to keep myself afloat. Otherwise, I'd crush the entire building. Helios walked over into my and Althea's room, his concern showing despite his usual sardonic cynicism. He raised a hand after a quiet moment.
+
+"If you need anything, do inform me. I know I can be grating, but I don't want to see our guildleader feel as though he's only appreciated when he's at his apex."
+
+I waved my hands.
+
+"No, no. I'm totally fine. After a few days, I'll be back to normal. You'll see."
+
+He put a hand on my shoulder and gave me a curt nod.
+
+"I'm certain you shall recuperate quickly."
+
+Before he left, I turned to Althea. I tilted my head at the portal leading back to the Shattered Spires.
+
+"As much as I want to spend some downtime with you, Torix is really going to need your help."
+
+Althea blinked.
+
+"What? Absolutely not. You're not leaving my sight."
+
+I gave her a soft smile.
+
+"I'll be fine, and besides that, you're the only one that remembers that Marcella leader person. I'm sure the Shattered Spires is a mess in her absence, and you need to help Torix pick up those pieces."
+
+Althea frowned before kicking the ground. A crack in the concrete raced up the wall before she grimaced.
+
+"I feel like life has a way of pulling us apart sometimes. And uhm, sorry. I didn't mean to crack the wall."
+
+Guilt raged over me in a wave, but I swallowed it down like bitter medicine before grabbing her hand.
+
+"Hey, you know we'll live a long time. Once our situation slows down, we'll be in a much better place. We'll have all the time in the world and then some."
+
+Althea peered at one of my scars.
+
+"Given the Earth's circumstances, that might not be as long as I'd like."
+
+Helios raised a brow.
+
+"Someone's feeling snappy."
+
+Althea looked up at him.
+
+"Oh really? Considering you're the resident mayor of Snappyville, then I guess you'd know."
+
+Helios gawked in awe.
+
+"Where in the world did derive such horrific comebacks?"
+
+She narrowed her eyes.
+
+"Lots of bad movies. Those are my favorites. If you don't watch it, I'll have Daniel start making awful puns."
+
+I narrowed my eyes with her.
+
+"Yeah, puns."
+
+Helios grumbled.
+
+"You both are insufferable."
+
+Althea turned to me.
+
+"Be careful while I'm gone, ok?"
+
+I gave her a playful push.
+
+"You too."
+
+She held my hand for a moment before she turned and left.
+
+"Love you, and thanks for saving the world again. I, uhm, figured someone should say that."
+
+She walked through Helios's portal, and it folded together into a tiny slit before disappearing. Helios walked through his other warp.
+
+"Good luck with your downtime. By now, it might be more painful than your labor."
+
+After closing his portal, I sat on a couch by myself. Elemental runes hummed in the background, their finely tuned algorithms keeping the temperature and humidity perfect. The couch carried further enchantments, its coziness far greater than most normal furniture. It hugged me with the warmth of a home. In fact, every aspect of my surroundings oozed comfort.
+
+Yet a disquiet grew in me.
+
+Like an itch I couldn't scratch, I searched my mind to see what could be done. After having worked for so long, the sheer lack of stimulus was painful, and I wanted, no, needed something on my docket. As I brainstormed, I recognized only seven minds at my disposal. Lacking my normal breadth of mental continuity, I felt stupid, slow, and incompetent.
+
+There was no way I was going to channel runes like this. I'd blow up the building, and I had no clue if I could even regenerate at the moment. I could study the cipher, but it all felt hazy and confusing at the moment. My mind was functional, but it hummed on half a cylinder instead of its normal V8 speed. Well, V8 for me, at least.
+
+After considering my prospects, I summoned forth my obelisk from my dimensional storage. It had been literal years since I touched the damn thing, but it still carried immense utility. Taking a breath, I surrounded myself in its lifelike holographic projection. I found the same forested creek and chirping birds around me from all those years ago.
+
+Unlike before, my augmented perception found gaps in the projection from pixelations to poor sound quality or loops. Spending some credits, I upgraded the package to eliminate some of the discrepencies. Once I attained an acceptable level, I opened Torix's library, the one he gifted me so many years ago. Surrounded by the smell of old paper and lamplight, I opened one of the older books amongst the bunch.
+
+It was time to get educated.
+
+Diesel
+
+Around me, spatial clouds loomed above like icy hailstorms ready to unleash a hellish blizzard. The pavement below my feet carried hundreds of cracks and tiny bits of debris like glass and stone chips. The floating buildings of New York left me floored by their grandiose designs and beauty, and I remembered having studied a few of the buildings for a college project.
+
+But yeah, I never imagined this.
+
+I massaged my temples as I gawked at a colossal hole in The Empire State Building. From what I heard and, well, could see, Daniel and the Seer fought here. I couldn't for the life of me figure out why, though? Even after all the factional interplay and constant tug of war here, no one conquered The Shattered Spires.
+
+It was a genuine anarchist state. One where people fought tooth and nail just to get by, let alone thrive. Despite that, a lot of oddness had come about here as of late. I'm talking about tons of people walking around in uniforms for someone they didn't know. You'd think these people had been born yesterday based on how little they knew about damn near everything.
+
+Lots of signs were posted on portions of the city as well, from infinity symbols to weird, esoteric runes like the ones covering the guildleader. Taking a second, I breathed out a large piece of my frustration. Why was I even frustrated in the first place? It was the guildleader's job to make messes.
+
+And it was my job to clean them up.
+
+Getting to work, I opened my contacts using Schema's messaging system. Taking out an obelisk, I filed through several system tabs before finding the one used for messaging my repair team. By now, we had this down to a science. After getting them on board of an architect, I took out a pencil and bit into it.
+
+The nostalgic taste of wood helped keep me focused. It also gave me something to do so I wouldn't bite my nails. My wife hated that habit, but man if it wasn't hard to quit. Anyway, I got to work on a hologram, my pencil acting as a stencil for my holographic projection. In three dimensions, I cross-referenced previous photos found of the old building.
+
+I'd be damned before this work of art was forgotten by history. We'd rebuild The Empire State Building to its former glory or die trying. To that end, my enchanted compass helped me out, some of its suggestions cutting and others not so much. Even after months of using it, I still hadn't assessed all of its abilities. The powerful mind and overwhelming mana abilities made the compass into an artifact I wouldn't be able to outlevel. Ever.
+
+It still felt surreal. Even as I gazed at it, it reminded me of how far we'd come. Springfield had been a mold-infested wasteland, and we pulled that hollow shell from the brink. Now, my hometown formed the center of a growing empire, one that spanned planets. And, uh, despite everything pointing to how bad an idea it might be, I acted as one of the head honchos of the entire operation.
+
+Yeah, they need better recruiting methods.
+
+Despite my woeful incompetence and inability to handle the tasks at hand, I had to admit one thing - this was my dream job. I loved tinkering around with interesting engineering projects. I have ever since I participated in a class project involving toothpicks. All the kids made all kinds of different shapes to see who could construct the tallest tower and which one could support the most weight.
+
+In the end, I won the height parameter but only got second place in weight bearing. I took a breath, knowing that it shouldn't have bothered me. It still did, but that's also why I made more toothpick towers. I kept on making them until I constructed a tower that reached the classroom ceiling and could hold textbooks.
+
+It took far too long and required an unreal amount of elephant peanuts, but I'd done it. The thing was, I didn't work with toothpicks anymore. People's lives were on the line, and that pressure was a heavy thing. Heavier than textbooks, at least. That's why even as I finished up the first iteration of plans for the building, I knew we'd review and revise several times before finalizing the project.
+
+Speaking of, the team arrived in the distance. I could already see their wind-burned faces, and I smiled. The architect golems traveled fast enough to rip normal human skin off, but systemization gave us the fortitude to survive a trip in their gravity wells. I wish they carried us more like the guildleader because his gravitation pulled the wind along with us. It was more like falling than getting dragged in a rocket car. But hey, beggars couldn't be choosers.
+
+My team came into full view. Thirteen other engineers, ritualists, and runic practitioners huddled into three gravity wells around the architect. The majestic, almost alien architect golem landed beside me, one sharpened foot landing on the ground like a metal ballerina of death. I gulped as it bowed.
+
+"Diesel. It's good to see you once more."
+
+I coughed.
+
+"Ah, you too, Archy."
+
+"I have told you before that I require no name."
+
+"And I told you that it's easier talking to a doom-robot named Archy."
+
+It set the other team members down.
+
+"Then I shall do as you ask, friend of my creator."
+
+I shivered. Even after several months, these golems creeped me the hell out. I'm not saying they weren't helpful, polite, or powerful. On the contrary, this single golem could likely kill the entire city if it wanted to. Somehow, that paled in comparison to Daniel. I could hardly wrap my mind around it.
+
+Interrupting my thoughts, the team walked over on wobbly legs. I held up a hand and shook the hand the tallest one here.
+
+"It's good to see you, Jim. How are the kids?" I said.
+
+Jim let my hand go.
+
+"Oh, same old, same old. They've been studying in one of those schools Althea opened alongside Torix. How are your kiddies doing?"
+
+I scratched the back of my head.
+
+"Oh, they're doing good. Samantha had a fever the other day and we just about died from worrying."
+
+Jim waved me off.
+
+"Oh, don't mind that kind of thing. The system makes sickness less of an issue."
+
+I put my hands on my hips.
+
+"Sure, but not until you're integrated. That doesn't happen until you stop growing."
+
+Scott walked up.
+
+"Oh, come on, man, you know that even small populations can keep dormant versions of diseases alive for long periods. And you know how it is. Even if we're immune, the children aren't."
+
+I raised my hands.
+
+"Listen, I don't need another lecture on vaccines. I get them. I'm just not militant to anyone who doesn't."
+
+Scott sighed.
+
+"You say that until your daughter gets sick."
+
+I sharpened my eyes.
+
+"Bad manners, Scott."
+
+Scott furrowed his brow.
+
+"Huh. It was. Sorry."
+
+I gestured at The Empire State Building.
+
+"We got bigger fish to fry anyway. Guess who did this?"
+
+Scott's eyes grew distant. He murmured, but everyone heard him.
+
+"The Harbinger."
+
+A quiet passed over the others, a solemnity pressing down on everyone. The fear and reverence were palpable, and I let it soak for a bit before I nodded.
+
+"That's right. He's making sure we get to keep our job. Speaking of-"
+
+I motioned my hand at all of this city that surrounded us.
+
+"This...This has got to go. Do you see the transportation system here?"
+
+Jim winced.
+
+"Can you imagine handling sanitation when there are no actual pipelines?"
+
+Scott guffawed.
+
+"Don't get me started on communications or electricity. This is what we call the dark ages, fellas."
+
+I cracked my knuckles.
+
+"Well, now, that's what we're here to fix. Isn't it?"
+
+My team cheered. I flushed a bit from the support before rubbing my hands together in excitement.
+
+"So everybody, let's get this show on the road."

@@ -1,0 +1,335 @@
+---
+id: bc112708-4b38-5c20-b674-1285ae7878ff
+page-type-slug: story-chapter-royal-road
+title: "The Path of Ascension Chapter 439"
+slug: 0138-the-path-of-ascension-chapter-439
+partOf: the-path-of-ascension
+position: 138
+ownLength: 5842
+unit: words
+ownProgress: 5842
+publishedAt: 2025-08-29
+link: "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/2558591/the-path-of-ascension-chapter-439"
+royalRoadId: "2558591"
+markedReadAt: "2026-06-29T19:22:24.002Z"
+---
+
+Chapter 439
+
+Emmanuel flew through chaotic space for what felt like the thousandth year.
+
+He had already done all of the work he could do while away from the Empire proper, and even cleared his backlog of media he was saving up for his next big rift-enabled break, but they were still flying.
+
+Things wouldn’t have been too bad if he’d been alone and only needed to fly, as he could have lowered his perception down to below a mortal's level and sped through the travel, but being so close to all of the other Tier 50s forced Emmanuel to be at Tier 50 perception in case one of them attacked. Not to mention that he had to be on guard for any surprises chaotic space might throw at him.
+
+Which turned centuries of travel into subjective millennia of boredom.
+
+He was so desperate to find something to do, he had even started going over what he knew of the other Tier 50s and was mentally editing one of the papers his father had made him research after he was selected to be the heir apparent.
+
+It had been a series of essays about the active Tier 50s, but given his unique status, Tobias was both current peer and former essay topic.
+
+At the time, Emmanuel had felt so clever in diving deep into Tobias’ history and linking him to the rise of the Monster Collective, but his father had grabbed three histories off the shelf behind him that speculated about that very topic and with far more detail.
+
+With hindsight, he could see how his father guided him into a productive discussion before the two of them went through the books together and debated the contents for the next few days. At the time, Emmanuel had only seen it as a fun activity to do with his father after not doing well on a paper he had worked hard on, and made a mental reminder to try and be as effective as both a mentor and a father as his own had been.
+
+Interestingly enough, with what he had seen in their travels, he’d be able to prove a lot of what had been speculated false.
+
+Tobias, as the younger him thought, had been instrumental in the rise of the Monster Collective, but Emmanuel had to reevaluate just how pivotal his role had been. Everyone had known he’d been important, important enough that all of the Collective heroes had a near unanimous vote to promote him to First Shepard. But most histories accredited that to his standing up against the Federation's former Tier 50 in direct combat as a peak Tier 49 during one of the first pivotal battles, ensuring the other Tier 50s were able to launch their own sneak attacks.
+
+The other three highest-Tier founders later Ascended after the war, leaving the metaphorical throne to Tobias, which is what had sent the younger him digging, thinking himself clever.
+
+In his original essay, Emmanuel had investigated Tobias’ early histories as one of the last generation of bloodline wielders to reach Tier 15 before sanctions limited their less powerful brethren, and would eventually end up oppressing them into slavery, much like the Sects’ practiced but solely devoted to those with bloodlines.
+
+There had been a few records of the Tier 15 Tobias as someone who was a novice explorer and lived a fairly quiet life, which wasn’t uncommon for bloodlines of his age and Tier who were skirting by on the increasing restrictions by being just ahead of the implementation cut-offs.
+
+It was a common story until anyone with a bloodline was enslaved and he, along with a lot of others, vanished until they came back and formed the core of the rebellion. Tobias had been an important, founding member, but he had never been a spokesperson or in the limelight during the early rise.
+
+The histories speculated it was because the rebellion hadn’t wanted to reveal that Tobias was no longer a simple Rank 1 Stone Turtle and rather on the road to becoming a Rank 3 Zaratan. They believed that Tobias was the rebellion’s hidden trump card, and that was why he was given the lead to become the new Tier 50.
+
+That was the accepted answer that even his father believed was true.
+
+Emmanuel was beginning to believe everyone had been hoodwinked by none other than Tobias himself.
+
+The turtle was far too used to flying through deep chaotic space with his real body for his purported experience with the rebellion. It was something typically only done by Tier 50s who couldn’t find materials stronger than their flesh.
+
+That usually went doubly so for those with a bloodline, so it was possible that Tobias had been flying into chaotic space with his body, but it made no sense. It was well recorded by all of the Tier 50s that once Tobias and the other founding members reached Tier 46, they re-entered settled space on the same fleet of ships they had left in, starting the resistance. Combined with the Tier 46 planet that was nearing the Federation causing tensions to run high, it allowed them to get assistance from the other Great Powers.
+
+It was that thought which he couldn’t reconcile with Tobias flying along like this was his second home.
+
+Anytime they hit an eddy, he just closed his eyes and rode it out, letting the stronger energies slam against his shell as he floated by.
+
+It was clear that Tobias being a Zaratan and having a world— and its massive cultivation core— on his shell helped keep the worst of the eddies at bay, but it was more than that.
+
+He swam in it.
+
+That, combined with there being no actual proof that as to what Tobias’ second Rank bloodline had been, Emmanuel started to question everything he knew about Tobias and the rebellion.
+
+Was it possible Tobias was so used to flying through chaotic space, not because he practiced a few times on the way back, but rather because he had been the vessel on which they explored chaotic space for the vast majority of the time they were gone?
+
+It was always a curiosity how the original rebellion had been able to keep their ships going in deep chaotic space for so long, but it had been explained by the fact that the ships were their most important assets, and they treated them that way.
+
+Easy to say, but long term expeditions were risky, as some components were hard or impossible to repair once broken, and there were only so many spares that were possible to bring along.
+
+It had been believable but a noteworthy fact regarding how long the rebellion had been exploring in chaotic space.
+
+Most historians speculated the rebellion had been using spies and sympathizers from other Great Powers, along with piracy, to keep going, but Emmanuel was postulating that might be wrong. He and his father suspected several of the Great Powers of acting to undermine the then strongest Great Power Federation, but they hadn’t done so.
+
+That didn’t mean people in the Empire hadn’t helped. The largest bloodline noble houses had secretly and not so secretly supported the nascent rebellion, as had many individuals such as Mara and Leon.
+
+What if they had stored their ships in spatial rings and Tobias had started carrying the entire rebellion on his shell, reboarding their ships only when ready to return.
+
+The turtle was so comfortable with his real body in chaotic space that such a level of familiarity seemed only possible if he had been their ‘vessel’ to travel between worlds since the beginning of their exodus to chaotic space, right about when their ships should have started to fail en masse.
+
+Finding one of the rare Bloodlines that have an innate resistance to chaotic space was often the easier way and the most common. Though few such bloodlines had more than a passing resistance, that was better than nothing. Those didn’t let one easily travel through chaotic space, but they did extend the time the cultivator could survive in open chaotic space.
+
+It could be the difference between making it to a world before the cultivator died or not, which made even the weakest Bloodlines incredibly valuable, and the most powerful priceless.
+
+Even rarer explorers could find an item that allowed anyone to gain such an effect innately. Items of that option were a near invaluable find. Often only rumored about, rarely confirmed, and never openly sold, which made Emmanuel unable to guess which had occurred.
+
+What if they had found one of them and given it to Tobias? If it happened during their first deep push into the third layer, it would be theoretically possible to pile enough resources onto Tobias that he rose to Rank 3 before things started to wear down.
+
+A much more grim, and probably realistic, thought was that the rebellion might have only found an item or strong Rank 2 bloodline that let Tobias make his body resistant to chaotic space at Rank 2, and Tobias really did only elevate his bloodline to Rank 3 in the final confrontation as they purported. That would, however, mean no planet-sized cultivation core to pacify chaotic space around him and lessen its impact on his shell.
+
+In addition, it meant no world for the people he carried along with him to be safely stowed away. Rather, it would mean cutting into his flesh under his shell and hiding away for the multi-year long voyages.
+
+Even if safe, it would be… unpleasant.
+
+Emmanuel felt his boredom leave him, along with his idle thoughts, as he started kicking himself as he was able to see ahead.
+
+Before them was a particularly bad storm of chaotic energy. If everyone had been conserving themselves, pushing through would have been possible, but given how he and Alister had been coaxing the other Tier 50s into overextending themselves, no one was willing to go on.
+
+The moment Virgil saw it, she sent out a message and everyone else started to move to the nearest world.
+
+Being fresher, Emmanuel and Allister could have pushed through, but then there was a non-zero chance one of the Tier 50s would turn back to target their Great Powers if they tried to monopolize all of the Tier 46 world’s natural resources. It would ruin their own chances, but if they thought they were going to get nothing, they might as well try.
+
+It should have been unthinkable, but they all knew that Emmanuel had Allie’s Talent which would let him recall back to the Empire, even if they could only predict he would be unable to return.
+
+Trying to bait that out was an unlikely strategy, but possible.
+
+There was a larger reason, however, as to why he was unwilling to push ahead, instead agreeing with the others to wait the storm out.
+
+In his idle wandering thoughts spurred on by his musings on Tobias, Emmanuel had begun to create a plan and he was happy to have some time to think it over in some relative peace.
+
+Their planet of refuge was a piddling Tier 4 and Emmanuel expected little, but when he arrived, he was taken aback and immediately pushed his perception, his Talent-abled best, to take in what he was seeing.
+
+There was a civilization below him, but not a natural one.
+
+The first thing he noticed was their technological level, and compared that to the archaeological information he could find.
+
+What he saw was strange.
+
+They had a classically first magical resonance level of technology, which was impressive relative to their society’s age based on growth patterns he could identify. Doubly so when he took into account their conspicuous lack of metal. A perfectly fine enchanting system could be developed without the use of metals, but they made everything a whole lot easier when an enchanter could carve high-power runes into a long lasting and stable enchanting base and melt it down if they messed up, instead of carving them into woods that took time to grow.
+
+That almost explained the nearly zero archaeological presence, but not quite.
+
+When he went looking for why, what he found explained everything else.
+
+First was that the world had been inhabited by humans for millions of years. Even without a lack of metals, that was a suspiciously low level of technological development for the age of some of the earliest few lost cities.
+
+Digging deeper into the planet, he found why, which led him to the world's innocuous-looking moon.
+
+Inside the overly large moon, Emmanuel found the control center for the massive formation inside the planet.
+
+The planet's excess essence had been converted into Tiering up what had probably once been growth weapons, before their owners had died and the weapons had shattered. That explained why the planet was such a low Tier.
+
+In the millions of years the Tiered civilization had been alive and producing an excess of mana on this planet, it should have Tiered the world up higher than Tier 4. Rather, it had been redirected into the planet spanning formations along with the words' self generated essence, forever locking the world at Tier 4.
+
+The essence was spent powering formations that endlessly cycled the essence to the already broken growth items, meaning there was nothing stored that they could release and let the world catch up on its lost potential. A few shards of Tier 18 metal was a sad consolation of their wasted years and needlessly lost lives.
+
+The rest of the essence that wasn’t being pumped into the weapon fragments, was used to create surprisingly robust mechanical armies. Crude in magical technological terms, but mechanically well-iterated upon. They were designed so a handful of types could handle most possible fighting scenarios while still being easily retrofitted to land moving efforts.
+
+Even without accessing the long-abandoned terminals, Emmanuel could read the demented history of this world.
+
+Controlled by the terribly constructed pseudo-artificial intelligence, which was more like a glorified computing system than a proper intelligence, the word had been cleansed time and time again. The controlling units killed most of the population slowly over a decade, forcing people into caves where the mechanical armies ensured nearly all cultivation knowledge was lost while then protecting the humans from rift monsters.
+
+The rest of the army transformed themselves into terraformers and shaped the world in a new way, trying to achieve a new result.
+
+It horrified Emmanuel to see the horror a society of careless immortals left behind.
+
+The controlling logic systems even went as far as leaving specific relics and techniques it wanted to be the new seed items for a generation of cultivation techniques for the eventual survivors to reclaim.
+
+Then, after all of that was done, the remaining robots buried themselves where ore patches should be and decomposed into semi refined metals. The truly excess robots were even sent into rifts, where their matter could be converted back into essence rather than give the people of the world too much metal, ensuring their civilization was slow to grow.
+
+Emmanuel was slightly surprised the people were still close to human standard, but he found that any deviances too far from the original baseline were met with an immediate attack on the populus that changed.
+
+They were slightly different, not because they were a deviant that managed to prosper, but rather because the rest of humanity had drifted slightly over the millenia, making them the new normal.
+
+Looking at the system and its data logs was as easy as scanning the physical structure, but Emmanuel took the time to build a full digital mockup of what he perceived. His efforts turned out to be worth disappointingly little.
+
+Their technological level had been little more than calculators doing semi-complex math, which limited the amount and types of information stored.
+
+Still, the purpose was crystal clear. The civilization who had set this up had done so to try and create new low level cultivation techniques as passively as possible.
+
+Even after going over all of the information, Emmanuel wasn’t entirely sure if they did it because they were a merchant house or they were simply trying to advance the general level of cultivation techniques, but they had traveled from a nearby inhabited world system to this place and essence seeded it. After they terraformed and settled the world, they created the massive array, desiring the world to stay a low-Tier so they wouldn’t need to restart on new worlds after a few tens of thousands of years.
+
+With that desire in mind, they automated the process as much as possible, only needing oversight by a few people from the nearby civilization to direct the progress.
+
+In what Emmanuel could only infer as an effort to show the might of the political entity that built the place, they had made the automation systems incredibly robust. So robust they were still working on tirelessly however many millions of years later.
+
+That explained the rudimentary technology and level of influence. The place was from an immortal civilization and created by their desires for cultivation techniques.
+
+Emmanuel’s political instincts felt the world had been one part political theater, one part recruiting method for a ruling entity given that even robust Tier 4 techniques couldn’t have been worth the effort of establishing an entire settled world, given their magical enchantment levels.
+
+A quick confirmation showed a Tier 12 planet with the wreckage of the closest multi-planet star system. There was even evidence they had immortals of some flavor, if the few bodies still in isolation were any indication.
+
+Perfectly preserved but dead all the same, the bodies that hadn’t let animals or monsters get close were still just as intact as they were the day they died, and served as a reminder of why they cremated their dead.
+
+Better fully gone than still there, lingering for millions of years.
+
+Emmanuel even got a glimpse at the civilization’s fashion. One person, a high-ranking functionary, had been wearing a Tier 15 cloak of some kind with ornate golden thread which shimmered under the caked on dust and detritus.
+
+Sadly, there were no survivors and pretty much everything had long been reclaimed by the world's unchecked rift breaks and ruins.
+
+He did check, but that world's exit into chaotic space was incredibly distant, meaning they truly were stuck until the storm passed outside.
+
+Letting his mind return to the world below, Emmanuel took it as a testament to what essence was capable of.
+
+It was also a testament to what people were capable of, and that was so much worse.
+
+Nothing was as short-lived as the machinations of mankind.
+
+However, none of that offered up a solution as for what they should do. What Emmanuel should do.
+
+Looking over to Janet, he raised an eyebrow as everyone else was flicking through over billions of years of recorded cultivation, inquisitive, wanting to see if there was something truly outstanding.
+
+Sadly, that was proven incorrect with the highest-rated cultivation techniques being some variation of just allocating monster essence as densely as possible, same as they all currently used.
+
+Once they were flying again, Emmanuel would find the time to look through the records and see just how many civilizations had discovered their essence system and if there were any notes about how, because after being bored for so long, that seemed fascinating.
+
+Instead, he just looked at Janet and Tobias, waiting to see what either of them decided.
+
+He couldn’t transport someone away from this world, but the two of them could. Even if the others didn’t know the full capabilities of Janet's Talent, he knew.
+
+Given that the population was mainly human, there was a non-zero chance that Tobias would leave them on the world based on that alone, but Janet could bring them if she willingly revealed her Talent could store living things.
+
+Normally, they could have just been added to Tobias’ people living on his shell, but the turtle had, at least on the surface, already evacuated them before he left settled space. Not only was his shell exposed to chaotic space, which, while not itself dangerous, wasn’t without risk, as any energy from that were to breach inside would be immediately lethal.
+
+Emmanuel suspected just like Janet, Tobias had people hidden away in safety to help their Tier 50 loot the rifts of everything valuable as he delved ahead.
+
+That uncertainty would mean needing to fully clear every rift so their people were not slaughtered by a missed higher monster, but it ensured maximum profit per delve. Something the rest of them couldn’t emulate, which was why he had been contemplating how he could level the playing field.
+
+If Emmanuel could figure out a way to safely bring Allie into chaotic space, he’d have an even larger advantage than them, but the others would have teamed up to kill her if he had done that.
+
+Which was why he had been working on a backup plan to sneak her out into chaotic space with something that wouldn’t be detected by the other Tier 50s. It was very much a work in progress idea, and he still wasn’t sold on it after his first experiments, but still was willing to consider.
+
+This wasn’t the first exploration the Realm’s Tier 50s had done together, even if this was the first one of this generation’s. That meant there was a general understanding that all rifts were to be delved until they dissipated, or were deliberately destroyed, ensuring no one left a contingent of people behind who might start another rival Great Power.
+
+Given that two of the Tier 50s amongst them could do something like that with their Talents, and one had managed to keep secret that her Talent could contain people, the others might have other methods. Spatial items that could store living people or similar items.
+
+With that risk, there was no way any of them without such an ability would be willing to leave a single rift in the system.
+
+Tobias spoke first, pulling his head back into his shell as he seemed to prepare for a nap. “Pitiful creatures, but I cannot take them with me. If I am to fight, there is a chance that I could Ascend, and that would doom those people to an instant death. If you all promise not to engage with me, I can take them and deposit them on a safe moon while we loot the Tier 46 system for everything it's worth.”
+
+Emmanuel was sorely tempted to call the turtle out for lying, but didn’t bother wasting his breath. Either Tobias would continue to pretend and claim the moral high ground, leaving Emmanuel looking like an instigator, or outright admit it and make Emmanuel look like an instigator all the same.
+
+Given how Emmanuel had been half of the instigators leading to them getting trapped on this world, he wasn’t willing to stand out for so little gain.
+
+Instead, he looked away from Janet who spoke, her eyes not leaving the people below.
+
+“I can’t risk my own people's interests in the Tier 46 world’s resources so, despite wishing to assist them, I can’t. However, I will not allow any of you to directly interfere with these people. I intend to stop the mechanized cannibalizing of their world and create enough materials to ensure they can reach the stars. From there, they can see the other world and have a nearby immortal area to strive for. It is the best we can do while still respecting their autonomy. They deserve that much for all of their years of pointlessly being treated like livestock for a society already long dead.”
+
+Emmanuel was tempted to snort and blow her cover, but that was a card better kept to any potential lethal battle they might soon have. He could also admit he wasn’t volunteering to teleport them back to the Empire either, and so had little room to call her out.
+
+After another moment of silence as the others silently conversed, Janet dismantled the world-wide array, finally restarting the process of the world being able to Tier up.
+
+Winter Hornet didn’t seem interested in the conversation, but once he heard that no one was going to take the people, he started singling out exceptional people from the moon's database.
+
+Even without people to do the recruiting, the sensors had been working tirelessly, and the battle maniac had his pick of promising recruits.
+
+Emmanuel was mildly startled to see Winter Hornet give out not cultivation techniques pilfered from the repository, nor show them their own crunch method of cultivation, but rather he started passing out the skill making method.
+
+All of the skills he gave were the basic few Matt had released, but some of the steps had been subtly modified to make them better or stronger in some singular way.
+
+That opened the floodgates, leaving only Janet and Emmanuel to abstain from interfering.
+
+That earned him a strange look, but he just watched the others.
+
+Virgil empowered a few otherwise insignificant people. He couldn’t see how or why she would bother, but she didn’t leave anything behind. When she finished a while later, Emmanuel stopped paying such close attention to the people, noting to check them before he left.
+
+JR, however, was far more lax than even that. He, using a projection of a human, spoke to a few notable inventors. Giving them the hint they needed for their next breakthrough and encouraged them to share what they learned afterwards and to then make as much money as they could.
+
+Tobias, Aoife, and Alister almost looked like they wouldn’t make a move on their own, but each reached out to one of the weaker entities and supported them in various ways, seeming to consider the people or groups they chose to empower their proxies.
+
+Emmanuel couldn’t really fathom why they would bother, but ended up pinning it down to them seeing the winner of the world as a representative of their Great Power, and refused to just not play because it was unethical.
+
+It represented exactly why Tier 50s couldn’t linger. Too long at the top of the food chain and everyone else stopped being real.
+
+He saw a noble or two who seemed genuine enough that Emmanuel would feel confident empowering them with outside knowledge, but he wouldn’t trust that to last more than a generation or two.
+
+That thought left him mulling over the similarities with his own Great Power and if there was an answer that would actually work.
+
+He was pulled out of his reverie when, near the end, he had a thought. With a wave, he undid a few of the key components of damage Janet had done, leaving the massive formation inoperable, but repairable.
+
+On a system cobbled together by copying local methods, Emmanuel left a message letting people know how the formation worked and how they might go about repairing it, as well as the higher-Tier world just a few dozen light years away, framing it as someone who made the device just before they died in the disaster that destroyed the original civilization.
+
+Janet wasn’t wrong about people being able to decide their own destiny, and for all its faults, the formation was a massive undertaking that could inspire and empower the world below them. They had suffered its wrath and they should be able to decide how they wanted to handle it themselves.
+
+Then, in the other inhabited system, Emmanuel put down another beacon, this one of clear Empire make, informing the local civilization group of chaotic space and of modern technology both.
+
+He then further modified the beacon to analyze communication methods so that it would trigger a single broadcast of all of the information across both systems, the moment someone arrived in the other system.
+
+It wouldn’t do to let a single group monopolize the information. In the scenarios shown to him via his future sight Talents, more times than not, it was a recently overthrown group trying to escape punishment who fled to the nearest star system with a habitable world. He didn’t want to empower dictators fleeing prosecution to come back as the oppressors.
+
+It was that decision that made Emmanuel pause.
+
+Giving them the information far enough away in a nearly immortal system would give them an additional goal, which was purely a good thing. It was, however, an action far more deliberate than the ones before. He could have used similar tech and explained more rudimentary advancements, but it seemed unnecessary to make them reinvent however many years of technology just so they could have a chance at reaching the greater Realm.
+
+And that, combined with ensuring his information was distributed in a method he deemed most fair, was a step in a direction he wasn’t sure he had the right to do. Part of himself tried to justify it with that he was only making their lives easier. He even ensured that defensive armaments were half a step better than offensive enchantments and runes, so one side couldn’t just kill everyone by creating an incredibly strong weapon first.
+
+But it was a choice, and that made him feel no better than Winter Hornet or Virgil.
+
+As he left, Emmanuel hoped that he and the others had made the right choices and hadn’t doomed that world with their interference.
+
+He was so bothered that he didn’t do more than scan the cluster of Tier 38 through 41 worlds. Their respective Great Power’s strongest explorers would all be here soon enough to fight over those secondary prizes.
+
+Their prize was the Tier 46 world.
+
+His introspection made him consider something he otherwise might not have, and so after talking it over with Alister, when the eight of them arrived at the Tier 46 world, Emmanuel slowed down, signaling that he wanted to talk.
+
+Under the lumbering mass that was the Tier 46 world’s cultivation core, the surrounding area was nearly as peaceful as their own Great Powers.
+
+At first, it seemed like he would be ignored in favor of arriving first but, when both JR and Winter Hornet slowed to join Emmanuel and Alister, the others did as well.
+
+“What?” Virgil's spiritual sense snapped across chaotic space like a whip, but Emmanuel ignored it.
+
+“I have a proposition for you all.”
+
+Tobias scoffed at Emmanuel’s words, his titanic body making chaotic space around him tremble. “And why would I trust you after your and Allister's stunt? Give me a reason.”
+
+Emmanuel shrugged, not trying to deflect blame. “I tried to get an advantage, but I have an idea that will get all of us, even farther ahead. We are Tier 50s, and obviously won’t get that much out of the raw rift reward distortions, being so over Tier. We will all make far more if we work together. As many of you have all long suspected, I have a Talent set which turns off a rifts penalties for delving down Tiers. If I open each of the rifts, you will all make far more with the potential of Tier 50 rewards and the guarantee of normal full delve rewards.”
+
+Not only the offer, but the admission that he actually had a power that had long been speculated was a cost he was willing to pay. Delving without restriction wasn’t that much more profitable given how low on mana most high-Tier rifts were, but it still helped without making him too much larger of a target.
+
+Winter Hornet smiled as he fluctuated a single word response. “Accepted.”
+
+That caught everyone off guard, and they all shifted their attention to the Sects Tier 50, who just smiled. “I wasn’t able to store people inside of myself, so I will inherently be less productive. No matter how much he asks for, removing the penalty will turn the first dozen delves of each rift into treasure troves. I might as well agree before the price is inflated by attempts at bargaining.”
+
+Tobias looked down at the smaller human. “I don’t have anyone on my world. Is that not enough, Hornet?”
+
+Winter Hornet didn’t back down as he shifted his gaze, his awl already at the ready as he looked at Tobias’ shell world. “I can make that statement true if you’d like.”
+
+His words were punctuated with a calm certainty that only Winter Hornet, one of the Sects’ strongest, could muster when surrounded by other hostile Tier 50s.
+
+Winter Hornet wasn’t so agreeable with Emmanuel because he was being kind. No, what his words failed to mention was that easy acceptance put the onus on Emmanuel to come to an agreement with everyone else. They were very far away from their Great Powers, and anything could happen.
+
+Emmanuel’s intuition told him it was a tightrope, but it would be worth it if he could navigate across without falling.
+
+His father’s Tier 50 couldn’t pierce the fluctuation so many Tier 50s made, but that was why he never fully relied on it.
+
+He was, however, willing to bet that his father's Tier 50 combined with Matt’s Tier 1 and 3 Talents, along with another seeker's Tier 25 Talent, might be able to let him steal the best rewards the others got.
+
+Emmanuel kept his offer short and simple. “I want five rift rewards from your delves. I pick, and you have two refusals. I will also pick in good faith.”
+
+If this worked without blowing up in his face, Emmanuel hoped it could set the stage that he was trustworthy enough to work with instead of fighting when Matt’s Talent finally came out.
+
+There was a long silence as people weighed the disadvantages against the advantages. Could they profit more than the top five items they found if Emmanuel removed the Tier restrictions for them? Was the additional profit for each of them worth more than the edge that Emmanuel would be gaining for the Empire?
+
+He hoped they thought so, because he was willing to bet exactly that.
+
+Finally the silence was broken by JR adjusting the deal with a squawked, “Three refusals and we get to keep three treasures untouchable.”
+
+That counter offer shifted the value weight too much to the others, so Emmanuel countered as well. Eventually, they settled on Emmanuel using his best combination of Talents to form the rift instances while also taking five items of his choice, with everyone only having two reserves and one veto. In addition, he had to promise not to use Allie’s Talent to teleport home, so long as they didn’t come into conflict whilst they delved the world.
+
+Their deal would only come into effect after they cleared the real space universe of monsters and their accompanying treasures, because no one was going to let another person get even a single extra item.
+
+It would be their first collective fight, and there was a non zero chance one of them was forced to Ascend.

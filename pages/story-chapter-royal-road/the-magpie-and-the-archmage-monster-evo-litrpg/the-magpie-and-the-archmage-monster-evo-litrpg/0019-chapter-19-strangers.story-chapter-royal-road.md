@@ -1,0 +1,239 @@
+---
+id: 85f79cb6-828c-561e-8f3a-98d3adb0e5c5
+page-type-slug: story-chapter-royal-road
+title: "Chapter 19 – Strangers"
+slug: 0019-chapter-19-strangers
+partOf: the-magpie-and-the-archmage-monster-evo-litrpg
+position: 19
+ownLength: 2152
+unit: words
+publishedAt: 2025-09-08
+link: "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2583307/chapter-19-strangers"
+royalRoadId: "2583307"
+---
+
+Spending glimmerstones on skills? NO. WAY.
+
+Stop being so stubborn, Liora. You want to get more blightstones, right?
+
+Yes.
+
+To do that, you must defeat corrupted monsters, right?
+
+Yes.
+
+And to do that, you need holy magic, right?
+
+We don't know that. Maybe I had just worn down that corrupted panther. The mage woman was just lucky to finish it off.
+
+Liora…
+
+Liora hopped nervously around the watchtower, occasionally blowing away a large dust mote with her wings.
+
+Yes, alright. Holy magic is super effective against the corrupted freaks. But I don't want to throw out my precious glimmerstones.
+
+You're not throwing them out! You're converting them into something that'll give blightstones.
+
+I don't even like blightstones. They're kinda gross and not shiny at all. I just don't want those hooded creeps to get them.
+
+I swear this will be the only time I'll beg you to use glimmerstones. For the rest of our time together, I will never pester you about it again.
+
+You promise?
+
+I promise! Never again. All the glimmerstones you earn afterwards are yours to hoard and keep.
+
+Liora stopped hopping around. She was tempted to materialize the gem and look in the… well, not eyes, but the beautiful prismatic side from which he could see. But she didn't dare to risk it with those mages around.
+
+You really promise? You'll never pester me about spending my glimmerstones again?
+
+Never.
+
+Liora nodded in satisfaction.
+
+Very well. I suppose I could take a look at those holy magic skills at the very least.
+
+Thank you! To be honest, there's no guarantee that you even have access to them. You can be completely incompatible with holy magic.
+
+Does that mean I just couldn't learn it, no matter how hard I tried?
+
+Yeah. It's unlikely but possible. Command the System to show you the available holy magic skills.
+
+Show available holy magic skills.
+
+[List of available Holy magic skills]
+
+Holy Light – 320 glimmerstones
+
+Restorative Glow – 500 glimmerstones
+
+Liora gaped at the list incredulously with her beak wide open. She couldn't believe the gall of this System.
+
+"CAW, CAW, CAW!" She fluttered her wings in anger. "320 glimmerstones? 500 glimmerstones?! Are you fucking kidding me?!"
+
+Liora, please, calm down! You'll attract unwanted attention!
+
+She did stop screeching, but instead began to angrily peck at the crumbling railing.
+
+This is daylight ROBBERY! 320 glimmerstones for what sounds like the most basic skills ever! How is that fair?! I remember basic wind skills costing like 10 glimmerstones! I don't even have half of 320 glimmerstones.
+
+Calm down. There's a good reason for it. Skills you can easily learn yourself, and you have an elemental affinity for, will cost a lot less. Meanwhile, skills you're not compatible with cost a lot more. We should be grateful that you can learn holy magic at all.
+
+I don't care what you say—I'm not spending 320 glimmerstones on a skill. Glimmerstones, which I don't have, if you haven't noticed.
+
+Yes, that is quite a predicament.
+
+I'll say. What do we do?
+
+I-I don't know… Any chance you could learn to understand magical resonance and its effect on the soul? And then learn to differentiate the magical resonance of each element so you could eventually power your way to holy magic and learn how to apply it to your spells?
+
+I have no clue what you just said.
+
+Yeah, I figured you wouldn't…
+
+Isn't there a holy toad or something whose cry I can mimic? It's not ideal, but it's certainly better than having to pay that exorbitant price.
+
+Wait… that's it! You're a genius, Liora!
+
+Of course, I am! So where do I find the holy toad?
+
+No, not a toad. I can recite the incantation for Holy Light, and you can mimic it!
+
+I suppose that works too.
+
+Liora retrieved Renir from her inventory, depositing him on the floor. She felt wrong putting the beautiful, shimmering gem on the filthy floor. But she promised to snatch a cloth from town and polish him afterwards.
+
+"Listen carefully! If you get the incantation wrong, you will receive a magical backlash," Renir said. It was odd hearing his voice outside of her head after so long.
+
+"What's that?" Liora asked, cocking her head.
+
+"Broken down in easy terms—you will spend twice the mana required and suffer damage," he explained.
+
+"How much damage?"
+
+"Depends on the incantation. The more difficult it is, the bigger the backlash. Are you ready?"
+
+"Ready!" Liora said resolutely, staring at the gem. Oh, how prettily it shimmered. She wished she could polish it in the sunlight.
+
+"Cleansing light, obey my will. Purge this blight and make it still," Renir said.
+
+Liora stared at the gem, expecting something to happen, but seconds ticked by and nothing did.
+
+"Nothing happened," she pointed out.
+
+"Of course, nothing happened! How much mana do you think a rock can have? The best I can do is a small magical shock. Do you remember the incantation?"
+
+Liora thought about it for a second. She had completely forgotten it, distracted by Renir's beautiful shininess.
+
+"No," she admitted.
+
+"Why am I stuck with this birdbrain?" Renir complained.
+
+Liora pecked him.
+
+"Sorry, sorry! I'll repeat it, but you must pay attention."
+
+Renir had to repeat the incantation at least a dozen more times until Liora was able to recite the first half of it. Turns out that while she was good at mimicking bits and pieces of human voice and mishmashing them together, remembering a verse like this was rather difficult.
+
+The magical backlash was… unpleasant to say the least. She had to pause to let her mana and health recover. Each time she messed it up, she felt like her eyes had been forced to stare at the sun for far too long.
+
+It felt rather frustrating, because in her mind, she felt like she knew the incantation, but when she began reciting it in Renir's voice, she forgot. Maybe it had something to do with the fact that she was trying to copy a skill, not just random words.
+
+"Okay, this really is the last time. I'm not repeating it anymore. Cleansing light, obey my will. Purge this blight and make it still," Renir said in an agitated voice.
+
+Liora listened to every word, committing it to her mimicry library. She felt like she finally had it this time.
+
+I can do this!
+
+"Cleansing light, obey my will. P-Purge this blight and make it still," Liora mimicked, fumbling over the words.
+
+[You've failed at mimicking the skill <Holy Light>.]
+
+If Liora let out a sharp caw, as yet once again she felt stabbing pain in her eyes. This would be a long day.
+
+Christie rose in her small bed, the sun shining into the bedroom through a crack between curtains. Without hesitation, she threw off the thin blanket and ran over to her mother's room. But just like every morning, she was already up, tying her hair up in a neat bun.
+
+"Aww, not this morning either!" Christie pouted.
+
+"One day, I'm sure you'll wake up before me," Mom laughed heartily and beckoned her over.
+
+Christie sat down next to her, muttering, "I don't get it. How do you always wake up so early? I'm trying hard to wake up early!"
+
+"Don't worry, I'm sure one day you'll be able to wake up early too," she said and began to comb Christie's hair and braid it. Christie loved when her mother combed her hair, but she missed how her father used to do it. Despite his large, rugged hands, he always had such gentle movements.
+
+Some little voice within Christie whispered whether she'd ever feel those hands on her hair ever again, but she shoved that voice deep inside herself.
+
+"Do you think Miss Magpie also wakes up early?" Christie asked.
+
+"Of course. All birds wake up early," Mom said.
+
+"Oh! Maybe she'll stop by for breakfast! We should get more of those seeds from Dr. Reius."
+
+Mom laughed as she finished tying the hairband at the end of the girl's braid. "You really like Miss Magpie, don't you?"
+
+"Of course! She's the most beautiful bird I've ever seen, and I'm certain that she's brought good luck to our town. She's the best bird!" Christie cheered.
+
+"Alright, alright. How about we eat breakfast and then head out to the market? We can visit Dr. Reius on our way back."
+
+"Yay!"
+
+Christie scarfed down her eggs and toast in no time at all, urging her mother to hurry too. She was a bit disappointed that there was no bacon or sausages. But meat was hard to get in Sunvale. Dad managed to get it from time to time, but it was difficult for Mom as she was busy working most of the day.
+
+Once the breakfast was done, the two of them set out. It was market day in Sunvale. Once every two weeks, a few travelling merchants would come here to sell their produce. Christie was really excited those days. There were lots of things to see in the market—unusual fruits, colorful vegetables, and even meat. Maybe she could get her mother to buy some.
+
+But as they neared the market square, Christie noticed that something was a bit different from usual. Instead of loud chatter, the market was rather quiet, and the people looked stiff as they passed by. She also noticed her mother frowning when they entered the square.
+
+Three strangers stood in the middle of the square, dressed in dark cloaks and strutting around as if they owned the place. The older uncle would occasionally grab a passerby by the shoulder and ask them something in a threatening voice.
+
+"Who are they, Mom?" Christie asked, huddling closer to her mother.
+
+"Those must be the mages people were talking about," she replied, cautiously leading Christie away from the strangers.
+
+Christie felt immensely disappointed. When others were talking about mages, she had imagined people dressed in grand, colorful robes adorned with magical jewels with large, ornate staves in their hands. Like the heroes she heard about in fairytales. These people looked more like thugs than mages.
+
+Miss Magpie is more amazing than this lot. I can't believe I got excited about their arrival.
+
+"Hello there!" The older uncle inserted himself in Christie's and her mother's path, smiling rather creepily.
+
+"Hello. Is there anything we can help you with?" Mom asked stiffly.
+
+"How kind of you to ask!" The woman mage, who in Christie's opinion was dressed quite inappropriately, chimed. "We are actually looking for something."
+
+"What is it?" Mom asked.
+
+"We're looking for a bird with black feathers," the woman said.
+
+Bird with black feathers? That sounds like Miss Magpie.
+
+"I'm afraid I haven't seen any such birds. Birds in general are rather rare around these parts," Mom explained.
+
+"Really? What about you, little miss? Have you seen any birds with black feathers?" The woman crouched down, looking at Christie as if she were some slug on the side of the road.
+
+Christie didn't want to answer this woman. In fact, she would have told these strangers to just stop bothering everyone, including Miss Magpie, and get out of their town. But her mother had taught that it was rude to talk to other people that way, even if she didn't like them.
+
+"Nope! I'd remember a bird like that," Christie said with a firm nod.
+
+"Argh, we're grasping at straws here. Of course, there would be no birds in this dump. I'm telling you that it must have been something else!" The older uncle raged.
+
+How rude! How dare he call Sunvale a dump when he himself looks like somebody who has crawled out of one!
+
+"No, it was most definitely a bird. A crow, most likely, maybe a jackdaw or a magpie," the younger man who was standing creepily behind the other two spoke up. Christie's eyes met with his for a moment, and she flinched back, hiding behind her mother's skirt. Something about those eyes really unnerved her.
+
+"So you say, but those birds aren't even nocturnal! I'm telling you that it must have been an owl! Perhaps one of those razorwings owls. Their feathers are rather dark," the woman protested.
+
+"If that's all that you wanted, we'll be on our way!" Christie's mother said and side-stepped the strangers who continued bickering among themselves.
+
+As they did, the creepy man with a gloomy stare suddenly perked up, looking at the other side of town, towards the Blightpeak.
+
+"The gem! It's nearby!" He muttered.
+
+"Blightstone?" The woman asked.
+
+"No! The Archmage!" The man snarled.
+
+Christie didn't hear the rest of the conversation as her mother steadily pulled her away.
+
+"Don't mind them, Christie. Let's go to the market, okay?" She said with a smile.
+
+But Christie couldn't help but peer over her shoulder and watch how the three strangers ran towards the mountain.
+
+Please, stay safe, Miss Magpie!

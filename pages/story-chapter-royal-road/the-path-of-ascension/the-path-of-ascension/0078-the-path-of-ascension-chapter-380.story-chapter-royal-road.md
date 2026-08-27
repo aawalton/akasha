@@ -1,0 +1,251 @@
+---
+id: 33037bdc-772d-514b-b1f8-149ade39c13e
+page-type-slug: story-chapter-royal-road
+title: "The Path of Ascension Chapter 380"
+slug: 0078-the-path-of-ascension-chapter-380
+partOf: the-path-of-ascension
+position: 78
+ownLength: 4791
+unit: words
+ownProgress: 4791
+publishedAt: 2025-01-17
+link: "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/2015575/the-path-of-ascension-chapter-380"
+royalRoadId: "2015575"
+markedReadAt: "2026-06-29T19:20:21.559Z"
+---
+
+Chapter 380
+
+Rusty watched as a dozen people filed into his throne room. Next to him were Frederic and Tur'stal to round out the meeting. Now that the Emperor had stated this was his final offer to the Knight revival program, they were either going to move forward or the effort would die here.
+
+It had taken almost fifty years after they officially presented the proposal to reach a hopefully mutually acceptable agreement. But now, it was time to convince the stubborn mules that were the remnants of the Orders into actually accepting.
+
+Because things could never be easy.
+
+It was days like this that Rusty wondered why he had ever accepted the mantle of King instead of just remaining a duke,or just passing the title onto a relative and ascending.
+
+Sadly, he couldn't even shunt this off to Frederic and had to host the meeting himself. This was, out of all of their duties, primarily his.
+
+His kingdom's leader two generations ago, King Damian, despite being an Agatha loyalist, sheltered a number of the old Knight remnants in defiance of the overt disapproval of the Empress. With the then Duke Damian protecting the remnants of the Knight Orders, those he sheltered were spared the majority of Agatha’s wrath and they had settled down within his borders. And so, his kingdom had the most Knightly Orders who still knew the closely guarded secrets of just how they could merge Natural Treasures with newborns and make the benefits genetic enough to become inheritable.
+
+Rusty’s predecessor had continued the trend of protecting the Knights even when Georgios wanted the information of how to create elites, but the remaining Orders had made it clear they would rather die than share their secrets with anyone. Georgios had apparently even tried to look back in time to watch the procedure done without their consent, but the time between Agatha’s rise and her outlawing such measures was simply too long, which made the cost impossible to pay when paired with their once-formidable wards.
+
+The Knightly Orders had had very robust anti-divination, anti-clairvoyance, and anti-pre and post-cognition wards around their strongholds, which increased the difficulty exponentially. Combined with the fact it had been a full sixty thousand years, it was probably impossible even once Matt was T50.
+
+Not that he thought Manny would be interested in trying, even if he could.
+
+A stand he personally agreed with.
+
+His own opinions were irrelevant, though.
+
+His faction might not be as traditional as Frederic’s, but even they were nearly unanimous in their desire in taking some power from the Imperial government, which was why he had backed the effort.
+
+Officially, Tur’stal was in a similar political position, but Rusty was pretty sure she was personally invested in creating or taking over an Order around nature, which at least partially fueled her support of the effort over the last fifty years.
+
+Frederic, on the other hand, was a bit of a mystery to Rusty. His faction supported the measure because they were the most traditional, and anything that harkened back to the ‘good old days’ was something they championed, but Rusty couldn’t pin down the man's personal motives.
+
+Was he just doing his duty as a representative of his dukes, or did he have a deeper motivation in backing this motion?
+
+Rusty had his people do their research and he wasn’t sure.
+
+Being the descendants of the factions that had been on Agatha’s bad side, they had historical connections to the Orders, but their practical connections had been fairly cleanly severed when Agatha purged most of the Orders. His people had noted a few of the noble families in Frederic's kingdom probably had existing connections to various orders, whether in the form of having sheltered them, just financially supporting one, or even outright being the remnants of one. However, no hint was found that Frederic’s family had any connection at all.
+
+Rusty knew Frederic fairly well as a politician who had done the impossible and wrestled a kingdom for himself. But once he had his prize, Frederic had been nothing but a model King, balancing his internal faction’s desires and his duties as a Royal perfectly.
+
+That shouldn’t have been surprising as Emmanuel had allowed his coronation, but Rusty had always felt Frederic had layers within layers and plans within plans. And Rusty trusted his gut, which meant if Frederic was backing this proposal… Not just backing, but championing it as he had been the driving force behind the revival efforts, he had to have a reason.
+
+Rusty just didn’t know what it was.
+
+Not that it mattered anymore, the die was cast.
+
+One hundred and sixty three people walked into the throne room and Rusty couldn’t help but sigh at the sight.
+
+The once grand Knightly Orders that had had thousands of branches and variations were reduced to a measly one hundred and sixty three surviving members.
+
+All of them were old immortals from Agatha’s time, thanks to the Order's methods being outlawed and their own reluctance to create new Knights, even illegally, because of Georgios’ ability to peer back in time without significant preparation. Only those who had remained in this Realm and hadn’t died were left.
+
+During the negotiations, almost a dozen had refused anything but a full return to their former rights, privileges, and prestige, and they had been encouraged to ascend. But they were the exception. Most who had waited this long were desperate for any form of legitimacy, as those too proud in the slightest had all ascended long ago in disgust and protest. That, or they had been arrested for continuing to act as if the same freedoms they had under the last dynasty still applied.
+
+Which left them dealing with this motley crew of past glories.
+
+Stella Pattinson was the first through the door, and while she didn’t look physically old, late thirties for a mortal at most, she carried the weight of her history like heavy baggage that dragged down each and every step she took despite being Tier 45 and beyond such frailties.
+
+For all of her melancholy, she was an astute schemer and was a prodigy at pulling strings from the shadows to get her way. It was how she had survived where so many others had fallen afoul of the government or ascended in the last two generations of leaders.
+
+She was powerful, however, as she represented one of the more intact Knightly Orders. The Order of the Final Breath had famously been imbued with Fall’s Final Leaf, a Natural Treasure that increased all aspects of a person the closer they were to death. Her Order’s use of the Natural Treasure shifted what qualified as being ‘close to death’, giving them the significant boost in power without the risks of actually being close to death, and managed to extend this effect to other damage based boosts.
+
+Stella herself was one of the Order's successes who had both a Talent related to her natal Natural Treasure and a Domain in the same vein. A pinnacle elite in her own time, she was one of the driving forces for the Knightly Orders’ revival, and was a perfect showcase of just what could be achieved with their methods.
+
+Rusty didn’t care too much for her, but that was at least partially because she treated him and everyone of his generation like misbehaving children who should default to her older and more experienced judgment.
+
+That was one of the risks of lingering in a Realm for so long. It led to such stagnation and was a potent reminder why all of the Great Powers ensured their leaders cycled.
+
+Ernest Baxter was the second through the door and walked with confidence and pride Rusty knew were both fabricated. A Tier 45, he had been a failure of a Knight in that neither his Talent nor his Domain revolved around the Dawn’s Blossom Natural Treasure his Order espoused. He did have the natal Natural Treasure’s effect spread through his body, which gave him a resistance to light-based attack, as well as a multiplicative damage effect to any light-based spells. But his own inclinations leaned towards being a blade mage who had no real elemental affinity.
+
+A peak elite, he was still a success in that his power had been enough to put him in the second highest rung of combat Tiers besides Ascenders, and he had been influential enough to single handedly turn the Light’s Knights from a third-rate Order into a first-rate one, just before Agatha had usurped the throne and ruined all of his hard work.
+
+Despite his loss of position and the dismantling of his faction, Ernest hadn’t become bitter like Stella, but instead threw himself into securing his and other smaller Orders' survival once Agatha outlawed the process.
+
+A laudable endeavor, but the tens of millennia of effort with no payoff had led to a fairly public nervous breakdown that had seen Ernest bedridden and cationic for almost five thousand years, until he slowly started to pull himself out of his depression.
+
+Now, he was little more than a shell of a man putting on airs to reclaim some manner of dignity.
+
+Personally, Rusty hoped that this step in a direction Ernest had been working for so long would see some level of true return to the man. But if his trembling left hand was any indicator, he was far from truly recovered.
+
+Finally, the last Order leader to enter the hall was the one Rusty wanted to see the least.
+
+Cornelius Ross Jr., Knight Commander of the Order of the Damned, was lucky to be alive.
+
+Officially, he was the returned descendant of his father by the same name born via Natural Treasure solely to his father. But most everyone suspected he was the same Cornelius Ross who had fled Agatha’s wrath into chaotic space, only to return halfway through Georgios’ reign after he changed his appearance and spiritual feel slightly.
+
+It was a bold move, as Georgios had nearly killed the man outright, but had stayed his hand for unknown reasons that even Emmanuel either didn’t know or wouldn’t admit to knowing.
+
+Cornelius Ross Sr. had been one of the most foul and monstrous Knights who led one of the most sadistic Knightly Orders, the Order of the Damned. They had led the way in experiments on the unawakened, using their abilities to create pseudo-zombies to pair with their signature Natural Treasure, Black Bone of Baltha. Similar to void mana, it destroyed the host's body until they had reached immortality and could stop the corruption.
+
+Normally, the Natural Treasure shifted their consciousness from the brain to the skeleton, and was almost exclusively desired by necromancers. But the Order had dedicated themselves to pushing its effects much further, and used it as a means to revive from even complete bodily annihilation. However, much of the time that revival came at the cost of their Squires, many of whom were unwitting commoners thrust into an almost zombified state with little free will, but formidable combat prowess.
+
+Rusty was of the opinion that they should have just killed Cornelius Ross Jr. just to be certain that he wasn’t his father in disguise, but the matter was long since settled.
+
+Cornelius Ross Jr. had also managed to bring back seven other Knights of his Order, which made them the most intact Order by a long shot, and a powerful if marginalized force.
+
+The other Order leaders were all Tier 45s and had, like most successful Knights, never amounted to anything more than a medium-level elite. That would be fine, but ultimately, they were shells of their former selves, and Rusty could see they were desperate enough to take any shelter in a storm.
+
+It would be the three he singled out that they would have to argue with, as they had been the ones corralling the rest into refusing the earlier offers.
+
+Frederic, Tur'stal, and himself had argued with Emmanuel for a number of licenses and exceptions, but they could only do so much, and their ‘victory’ wasn’t the clean sweep that some of the Knights were dreaming of.
+
+Which shouldn't have been a surprise, but somehow was to these ancient warriors long past their prime. This was not their era, and Emmanuel would rather the Orders die out than let their unbridled avarice go unchecked.
+
+A stance that Rusty agreed with.
+
+As the head of the military, he had a different perspective than a lot of his noble peers, both hereditary and non-hereditary. Knights were useful and often hit above their weight, but he had access to the reports from near the end of the last dynasty's reign by the various generals of the time.
+
+A lot of these Knights, or at least their fellows, were prima donnas who thought themselves the most special existences imaginable and balked at any order they didn’t like. They were like Ascenders in attitude, but without the truly prodigious combat power that came with that title.
+
+Rusty would not allow such an atmosphere to grow under his watch. But seeing the relics of the ‘good old days’ gathered in front of him, he suspected that would be easier said than done if they were given too much free rein.
+
+He could see naked hunger in some of these eyes who thought this was their opportunity to return to their oft dreamed-of glory.
+
+Frederic looked to Rusty for permission to address the gathered masses, and Rusty waved him forward. Having seen the Orders, he wasn’t in the mood to politic, even if he should be the one to start this meeting.
+
+Frederic stepped forward off his throne and smiled. “Good day my fellows. As many of you suspect from us gathering you all here, we have just days ago gotten word from the Emperor, who sent back our latest proposal on reviving the Knightly Orders.”
+
+A small cheer went up from a number of gathered Knights, but the more astute realized the other shoe was about to drop.
+
+And Frederic dropped it. “This, however, is his final offer, which is why we gathered everyone once more.”
+
+Rusty nearly laughed as a number of Knights flinched like they had been slapped across the face.
+
+“I believe that you will have the largest issue with the fact that the Emperor hasn’t budged on his insistence that all Knight children are to be given a chance to leave the Order before they awaken.”
+
+There was an uproar among the Knights, but the one to speak was Stella. “That is unacceptable. Our children, our potential Knights, are our greatest possession. What good is it to keep our secrets of imbuing Natural Treasures into ourselves and our young if the Emperor will just steal them right from under our noses?”
+
+Rusty shared a look with Tur’stal and Frederic before Tur’stal stood, taking the floor. “The Emperor has made his stance clear on this. While he is willing to allow some discussion on the exact details on how it is done, he was clear that all prospective Knights and generational squires are to be given the opportunity to leave the service before awakening. He will not steal all of your children, but he is insistent that no one is forced into anything more than giving them Natural Treasures before they are born.”
+
+Ernest stepped forward, clearly trying to placate everyone. “Your highness said that was non-negotiable, but this feels like a way for him to get around our insistence that we build the anti-divination chambers that would prevent him from just seeing how we do the procedure. You must realize our stance of not allowing this secret leak hasn’t changed. If you are bringing this forward, you must have a way that—”
+
+Ernest trailed off for a long second as he struggled to find the right word, before he gestured vaguely to finish his statement.
+
+Rusty stood and walked forward, letting his gaze bounce between Knights. “I think you need to step back for a second and look at the wider picture. You are all from the old dynasty and are used to certain liberties and rights over not only common people, but your own children. This isn’t the old dynasty. Those liberties are gone. You are being given an exception to the experiments on children rule, which let me add, is a rule I and my fellow Royals whole heartedly agree with, because the effects are fairly minor and rarely more negative than a bloodline with damaging properties. However, the Emperor will not allow you unfettered free rein on raising your future Knights. There will be no training camps that start as soon as they can walk. There will be no torture to ‘harden the children for what is to come’. None of us care that you went through similar ‘sharpening’ to reach your current positions. Children have rights, and one of them is choice. If you can’t produce worthwhile elites with all of your advantages while not being so cruel that you abuse your own progeny, then just ascend. Leave and start over somewhere else with people who might or might not tolerate your existence. The Emperor's stance on this is firm and clear. Take it or leave it.”
+
+Rusty earned himself many a glare, but he met each and every one until the Knight in question wilted.
+
+Frederic nodded to acknowledge his words before stepping forward and reclaiming the crowd's attention. “As my fellow Royal so eloquently put it, that is our reality. The Emperor will only let things go forward if the children are given a way out before they go through the majority of the training post awakening. That is his line in the sand.”
+
+Before the crowd could surge, Tur’stal threw them a bone. “Please think this through instead of just being upset you didn’t get a full return to your old rights. Treat your children properly, don’t abuse them as many of you were abused, and how many of them will really want to leave everything they know for the Emperor's offer? I dare say few of them so long as you aren’t psychotic. This is the Emperor's ‘threat’. Treat too many of your children badly and they will flock to his banner for the escape. That limits how much you can get away with even without the oversights we haven’t even gone over yet. And once you look upon it that way, it's simply a challenge to be good parents and guardians.”
+
+That finally shut most of them up.
+
+Cornelius finally stepped forward with a placating smile. “If that is the reasoning behind the ruling, I believe we can accept it. I, for one, think this is an opportunity to step away from our pasts. From what my father said and from the way he raised me, which he called lenient, I welcome this chance to right our ship. Our methods are in the imbuing of Natural Treasures, not in how we raised our children. As King Rusty obliquely pointed out, if we can’t create elites with all of our advantages without giving our children a modicum of a normal childhood, do we deserve to do so? I for one have no desire to force my children into a rift at eight years old, just to see if they deserve to live.”
+
+Cornelius’ smile never wavered, but a number of the other Knights expressions did. Methods like he mentioned weren’t uncommon for the potential squires, but were more rare among the Knight bloodlines themselves thanks to the effort that went into each child. Still, it did happen, and was one of the perversions that the current Imperial government sought to curb.
+
+Stella reclaimed the floor with a glare. “Then let us move on. Do we have funding for Tier 47 wards where we can perform our methods without risk of our secrets being stolen from us?”
+
+Rusty knew this would be the next sticking point, so he immediately answered. “No, and no matter how many times you ask for it, the Emperor's stance upon it won't change.”
+
+An uproar started to build, but he raised a hand and let a battle aura flare slightly. “No, the Emperor isn’t willing to shoulder the expense of a Tier 47 safe area. He is, however, willing to provide the resources for a Tier 46 variant which, while not enough to stop his post cognition, is enough that any attempted breaches will trip warning bells while keeping out anyone else.”
+
+The uproar he had tried to stop still swelled, but with less fervor than he had expected.
+
+Most must have realized that Tier 47 resources were a stretch, considering how limited the supply of those were, and how many other priorities they were competing with. It was foolish to expect the Emperor to concede the expenses that creating such a space would incur, but some still balked at the possibility their secrets would be more vulnerable.
+
+Still, a Tier 46 safe area was good enough.
+
+It was strong enough to stop most other at-Tier divinations methods, which accounted for all loose cultivators and was robust enough that anyone Tier 47 or higher wouldn’t be able to break in without tripping alarms.
+
+Sure, that wouldn’t prevent the damage, but there just weren’t enough high-Tier materials to actually make a higher-Tier safe room.
+
+Not to mention that it needed to be more like a safe warehouse, which just exacerbated the problem.
+
+The Orders demanded safe areas to perform the secret procedures that would infer the Natural Treasures into oneself and make them inheritable, but that wasn’t a one-time procedure and needed to be repeated every generation, which meant the Orders needed persistent safe locations that they controlled. Before the dynasty change, they had about two dozen Tier 46 and 47 areas they shared, but this revival would be more limited, with one in each capital system except the Capital itself. None of the Orders were comfortable being so close to a Tier 50 with post- and precognition with their secrets.
+
+The Orders argued that wasn’t enough, but that was all Emmanuel and the three of them were willing to pay for. Wards of the caliber they needed were incredibly expensive, and at the size they needed, spatial expansion would weaken the wards and so couldn’t be used. It was already stretching their budgets thin to create six such safe areas.
+
+None of that stopped the Knights from bickering and complaining, begging, wheedling, and demanding more.
+
+Rusty hoped things would end there, but when the restrictions about squires came up, there was a new round of complaints once more led by Stella.
+
+“We cannot pay for squires. That defeats the purpose of a squire. They live and die at our whim for good reason. What good are they if we can’t use and dispose of them? There is a reason we used peasants for such positions.”
+
+When they shut that down, the Orders changed their demands.
+
+“We need our ancestral Legacies returned to our hands.”
+
+As the military leader and someone who was actively reported to about the status of the Legacy obelisks, Rusty answered, “A dozen have been approved for return, but that accounts for most of the remaining Legacies which were confiscated from the present Orders.”
+
+The same woman slapped the air, causing a shockwave. “That is wholly unacceptable! We demand they…”
+
+As it sunk in that the other Legacy obelisks had been destroyed via use, she faltered.
+
+“We demand Legacy obelisks be given to us in order to compensate us for the loss of our heritage. Three per Order.”
+
+Rusty rolled his eyes, but let Tur’stal answer in his stead.
+
+“That is a flatly impossible number. The Empire doesn't currently, and in fact has never had, over four hundred unused Legacy obelisks waiting to be used. We can authorize the next dozen to be allocated to the Orders to be used as you all can agree upon, but we just cannot give so many.”
+
+Frederick picked up from there, “In more positive news, we managed to persuade the Emperor to add a tax exemption when purchasing your Orders natal Natural treasure on top of your Right of First Refusal. There are some limitations, but they are not too egregious and should offset a lot of the costs of reestablishing yourself.”
+
+That settled, the conversation once more turned negative.
+
+“These restrictions on following orders must be removed so we can do our job properly. We are elites who do not need such oversight. To suggest so is folly.”
+
+It was there that Rusty finally lost his patience.
+
+Seeing that Tur’stal and Frederic were similarly fed up, he stood and at Tier 47 speeds, stepped in front of Stella up close and well within her personal space, his Stamana flaring hot.
+
+His move startled everyone, and all but Stella backed up from his sudden appearance.
+
+Looking over her shoulder, he spoke to the crowd in little more than a whisper, knowing they could hear. “Enough. You all seem to think this is a return to the old ways, and despite saying it more than once, I don’t know how to make it more clear. This isn’t the old dynasty where you created and expanded your power bases, earning expectations and freedoms until you were a dominant force. This revival is because you have something useful. This revival isn’t you returning to glory and reclaiming everything you lost, it's a last-ditch effort to preserve your uniqueness, nothing more. Such foolish demands will not be entertained.”
+
+Letting his words and gaze sweep across the gathered Knights, Rusty challenged any of them to say he was wrong.
+
+Ernest shuddered slightly, but that wasn’t an uncommon reaction. People either let loose thousands of years of grief and pain, or they turned gazes of hatred onto Rusty for seeming to side with the Empire over their heritage.
+
+Even ignoring his personal feelings that were more closely aligned with the Imperial government, some of these relics didn’t seem to understand that this was truly their last chance at a revival. Ignoring everything else, once Matt reached Tier 35 or so, the Empire would start to undergo vast and systematic changes. It was either get on the train now or be forever lost to the annals of history.
+
+Having made his point and with no one willing to challenge him, Rusty increased his perception to Tier 47 levels and sat back down.
+
+He did note everyone and their reactions, though. They would all be watched in the coming years, as it wouldn’t do to let the obviously unaccepting move unhindered.
+
+Hopefully they would make the smart choice, heed his warning, and ascend after ensuring their Orders were properly revived, but he knew they would have to make an example out of at least one of them before the others listened.
+
+Once the smaller details were settled, mostly about the Empire demanding the potential Knights were given a chance to leave the service of their family, they moved onto something mildly more pleasant.
+
+Tur’stal glided forward. “Now that we have dealt with the unpleasant parts, it is time for a party and some mingling. We have invited the noble houses who are looking to sponsor a Knightly Order, and they are waiting for us in the next room over. This is a time to find patrons or possibly find new Natural Treasures that might lead to either a shift in focus or a branching off for some of your descendants. We have lawyers on standby for anyone who wishes to make a deal sooner than later, but I would like to remind everyone that there is no rush and being a sponsored Knightly Order isn’t to be entered into lightly.”
+
+Rusty was almost tempted to leave, but he didn’t. As much as he wanted to wipe his hands of this, he hadn’t put in so much effort to just allow everyone else to get a portion of the spoils.
+
+He had his eye on an Order or two, and this would be an opportune time to watch them mingle with others.
+
+Nobles who sponsored Orders paid a lot, but they also received a pseudo mercenary corps in peace time that could be useful for all manner of projects.
+
+It would do his family’s long-term development well to tie an Order to them while they were a King-level title for when he ascended and they once more became mere dukes.
+
+Why did he ever bother to accept this title?
+
+It was times like this he generally wondered.
+
+These people were somehow worse than the Ascenders.
+
+And just as he was thinking of them, they appeared thanks to an Allie teleport.

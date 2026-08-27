@@ -1,0 +1,207 @@
+---
+id: cb8d6ece-779f-51c4-85fc-785290ef7442
+page-type-slug: story-chapter-royal-road
+title: "Chapter 64 – Coin Toss"
+slug: 0064-chapter-64-coin-toss
+partOf: the-magpie-and-the-archmage-monster-evo-litrpg
+position: 64
+ownLength: 2118
+unit: words
+publishedAt: 2025-12-29
+link: "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2889054/chapter-64-coin-toss"
+royalRoadId: "2889054"
+---
+
+"Cover me!" Damien yelled as three goblins with shortswords charged at him.
+
+Serena and Kiva reacted almost instantly, one shooting fireballs while the other shot arrows. They hit a goblin each, while Damien mercilessly slammed his shield in the third, defeating it instantly.
+
+[You've assisted in defeating <Goblin Warrior – Level 14>. Experience gained.]
+
+[You've assisted in defeating <Goblin Warrior – Level 12>. Experience gained.]
+
+[You've assisted in defeating <Goblin Warrior – Level 11>. Experience gained.]
+
+"More incoming!" Kalen warned, performing his wide slash skill, injuring three goblins at once. Liora followed up with quick, successive Air Slashes to finish them off.
+
+[You've defeated <Goblin Fighter – Level 12>. Experience gained.]
+
+[You've defeated <Goblin Warrior – Level 13>. Experience gained.]
+
+[You've defeated <Goblin Fighter – Level 14>. Experience gained.]
+
+[You've reached Level 16.]
+
+"Hold the area so Liora can collect glimmerstones and I can recover mana," Serena commanded, and erected spikes among trees, effectively blocking off a portion of incoming goblins.
+
+They had severely underestimated just how many goblins could fit inside one underground forest. The answer was apparently infinite. At first, it was just a group of five goblins, which they defeated with ease, despite the goblins' best attempts to claw out their eyes and bite Liora's leg as if it were a chicken drumstick.
+
+Soon after, more goblins followed the first group. The more goblins they defeated, the more seemed to swarm in their stead, like a hydra that kept regrowing its heads. They had no choice but to enter a battle of attrition.
+
+Serena would use her own Mana Conversion to recover mana. Liora would use it on goblins she couldn't reach in time, although most of her mana recovery relied on the Sunpeak Necklace. In addition, Liora was delegated as the main glimmerstone collector. It was just two per goblin, but with so many of them around, it'd be foolish not to collect them.
+
+Damien activated his taunt skill, drawing the goblins to himself. Kiva snipped whatever goblins she could from behind while Kalen joined Damien in defense. The two men worked well together, as Kalen went for faster targets while Damien dealt with bulkier ones.
+
+[You've assisted in defeating <Goblin Charger – Level 11>. Experience gained.]
+
+[You've assisted in defeating <Goblin Fighter – Level 13>. Experience gained.]
+
+[You've assisted in defeating <Goblin Charger – Level 13>. Experience gained.]
+
+[You've assisted in defeating <Goblin Warrior – Level 12>. Experience gained.]
+
+While Serena recovered her mana, Liora joined others in defense, flying right into their midst and using <Paralysis Croak> to slow their advance. Quite honestly, even with their overwhelming numbers, their group was doing a good job of keeping them at bay.
+
+What Liora feared the most was one of them turning corrupted. That would instantly shift the battle not in their favor. So she did her best to finish off any injured goblins, not giving them the time to become corrupted.
+
+"I'm ready!" Serena called and launched a fireball at one of the goblins trying to shoot an arrow at Kalen.
+
+Thankfully, most goblins were terrible shots, their arrows flying haphazardly, so they weren't high on their kill list. However, then Liora noticed a new group of goblins approaching from behind. They were holding staves.
+
+"Caw! Caw!" Liora warned and hit one of the nearby goblins with Air Slash.
+
+[You've defeated <Goblin Fighter – Level 10>. Experience gained.]
+
+"More coming in!" Serena translated Liora's cry.
+
+"There's no end to them!" Kiva cursed.
+
+"We need to push past them otherwise, we'll be overwhelmed sooner or later," Damien yelled.
+
+That or one of them goes corrupt, and then we're all officially screwed.
+
+They are screwed. Remember that you can always just fly away.
+
+Did you have any friends when you were a human? You can't just leave your comrades behind.
+
+I'm not saying that you should ditch them here and now. Just as a last resort.
+
+Liora hated to admit it, but if worst came to worst, she might have to run away. Obviously, she wouldn't do it if there was a tiniest fighting chance. But if her life were in danger, she would flee. After all, it wasn't just her life she had to take care of. Renir was with her too, and she was the only one who could keep him safe.
+
+But they weren't there yet. So it was time for Liora to show her power and clear a path for her human companions to get through. She took a moment to figure out where exactly the cave badger was. She then positioned herself in front of everyone.
+
+"What's that crazy bird doing?!" Damien asked.
+
+"Liora, get back!" Kiva called.
+
+But Liora was already working on her spell. It was still unpleasant, using so much mana at once. Her body wasn't used to it, especially when she had to use half of her mana for one spell. But this should allow them to flee. Liora flapped her wings and unleashed Wind Blast.
+
+The gales she created were so powerful that the small goblins, especially those closest to her, were sent flying. Those who were farther away scrambled in every direction trying to avoid the spell. Even the trees whined and cracked as the spell tore at their branches.
+
+[You've defeated <Goblin Archer – Level 13>. Experience gained.]
+
+[You've defeated <Goblin Fighter – Level 10>. Experience gained.]
+
+[You've defeated <Goblin Charger – Level 11>. Experience gained.]
+
+[You've defeated <Goblin Fighter – Level 13>. Experience gained.]
+
+[You've defeated <Goblin Charger – Level 13>. Experience gained.]
+
+"Go, go, go!" Serena yelled, recognizing the opportunity right away.
+
+"Go to the front. I'll take the back," Damien said to Kalen, who nodded and rushed ahead.
+
+Kiva and Serena followed after him, while Liora remained near Damien, striking any injured goblins with either Lunge or Poison Slash. She couldn't risk them turning corrupted.
+
+"Grab whatever glimmerstones you can, bird! We need as many as we can manage," Damien said.
+
+Liora felt peeved that somebody would have to tell her to get glimmerstones. Obviously, she grabbed every single one she could reach. But some goblins had been thrown too far away. She couldn't risk going after them.
+
+Kalen, Serena, and Kiva ran forward, occasionally throwing a spell or an arrow at pursuing goblins. Damien got rid of the faster goblins who actually managed to catch up with them while Liora unleashed her full corvid fury.
+
+Skypierce as an absolute display of power, Holy Light as a flashy spell, Air Slash, and Poison Shot for stragglers who tried to sneak from the side. Goblins didn't dare to charge at them so recklessly, and this gave the humans time to push forward. Liora made sure to show that any attempts to pursue them would be met with uncontained avian force.
+
+Frankly, Liora had the forest terrain to thank for it. She was by far the most agile thing here. No matter how sneaky goblins tried to be, they couldn't get past her superior vision. Not to mention that all of their attacks were useless since she could evade them.
+
+Heck, the little nasties couldn't even see her most of the time, thanks to the Shadow Glide and Fade. One moment, three goblins are trying to gang up on Damien. Next—Liora had executed a Skypierce so powerful that all three had nothing but glimmerstones left of them.
+
+[You've defeated <Goblin Warrior – Level 15>. Experience gained.]
+
+[You've defeated <Goblin Warrior – Level 14>. Experience gained.]
+
+[You've defeated <Goblin Charger – Level 13>. Experience gained.]
+
+[Congratulations! You've reached Level 17.]
+
+It still took them a good while to put a distance between themselves and the goblins. They didn't want to give up easily. Only by constantly driving goblins back, and also thanks to the giant wall of fire Serena erected, did the goblins finally drop the pursuit. Liora would like to think it was because the nasty creatures had grown to fear her.
+
+But the burning blaze behind them was probably the real reason they were safe. At least for now. Everyone was exhausted, panting heavily from the battle. Except Liora, of course. Her mana reserves were empty, but it would require more flying than this to truly exhaust her.
+
+But humans definitely needed to rest. They were likely all out of mana, not to mention tired and likely hungry and thirsty. Liora was hungry and thirsty, too. They had been fighting for hours.
+
+"I hate goblins…" Kiva muttered.
+
+"I believe that is something we all can agree on," Damien said, wiping sweat from his eyebrow. "I've never felt this filthy in my life."
+
+"Welcome to an adventurer's life! At the end of the day, we all look like riff-raff," Kalen said, likely recalling the time when Damien had scrunched up his nose when they looked dirty after returning from the dungeon.
+
+Damien frowned, looking over himself. "I'm going to spend a whole day soaking in the bath after this."
+
+"We should head to the bathhouse," Serena suggested.
+
+"Agreed," Kiva said, whipping bits of goblin out of her tail.
+
+"Would they even let you in?" Damien asked.
+
+"Unlike you, most people don't judge me just because I'm a beastkin."
+
+"Caw!" Liora interjected, landing on Damien's shoulders. Best to stop the fight before it breaks out. They had to keep moving forward, not wait for goblins to catch up.
+
+"Get off me, bird!" He protested, waving his arms and trying to shoo Liora away.
+
+She merely flew up and then landed on him again. It was actually quite comfortable. His broad shoulder provided an ample perching space. Not to mention that his annoyed expression was certainly worth the trouble. Damien battled with Liora for a while, but she fluttered around him until he finally gave up. "I don't understand how you can stand this bird…"
+
+"Chak-chak-chak!" Liora laughed.
+
+"You should be honored. She only ever perches on Serena," Kalen said, looking a bit jealous.
+
+"I think she likes you," Serena chuckled.
+
+"She likes his shiny armor, you mean," Kiva laughed, knowing exactly what Liora was attracted to.
+
+The weaselgirl had hit the bullseye. She loved watching how his one pauldron shone, even being covered in grime and muck. Oh, how wonderful it would be to clean it and make it shine in its full glory.
+
+"She likes shiny things, you say," Damien asked thoughtfully.
+
+"Absolutely crazy about them. So if you have something you don't want to part with, better keep it in your Inventory," Kiva warned.
+
+Damien withdrew a shiny coin from his Inventory and twirled it between his fingers. "Hey, bird, do you like this?"
+
+Oh, my! That's very shiny!
+
+"Is that a whole gold coin?" Kalen asked in surprise.
+
+"I've never seen one," Kiva added, looking at the coin with a stare that could almost mirror Liora's greed. Almost.
+
+"Chak-chak-chak!" Liora called, trying to reach for a coin. But Damien hid in his palm.
+
+"Catch!" He said and flung the coin far ahead into the forest.
+
+Liora flew after it and snatched it mid-air. She landed in a nearby tree and admired the coin.
+
+Wow, he really just threw a gold coin as if it were a piece of rock.
+
+Is this valuable?
+
+Very! For a gold coin, you could buy a strong horse for yourself.
+
+What would I need a horse for? I want more of these coins.
+
+Liora struck the coin with her beak a few times. Not too strong, but just enough to make it real. It was.
+
+"You can keep it, bird! But you can't ride on my shoulders anymore," Damien said smugly.
+
+"Is this why you always have a bunch of people following you? You just throw gold coins around?" Kiva asked.
+
+"Money is the strongest language that there is. Look, even your monstrous bird now obeys me," Damien said smugly, earning a frown from Serena.
+
+But Liora obviously had the intention of obeying the pompous blond man just because he tossed a coin away. As far as she was concerned, the coin would have been forever lost in the forest if she hadn't retrieved it. It was lost property. So she stashed it in her Inventory and landed back on Damien's shoulders.
+
+"No! You can't do that! We had a deal!" Damien protested, flailing his arms again in an attempt to get Liora off.
+
+"She's a bird. Did you seriously think she would listen?" Kalen scoffed.
+
+"Chak-chak-chak!" Liora nodded. "Most certainly not!"
+
+Damien groaned but accepted his fate. There was no way he could beat Liora. Not when she was the only one who knew the way to the badger. They were getting closer and closer to it. She didn't even need to see it. They all sensed as the air grew thicker and heavier.

@@ -1,0 +1,287 @@
+---
+id: e2a82f3b-c46a-5ee0-aaf6-e5ccc335ba9f
+page-type-slug: story-chapter-royal-road
+title: "The Path of Ascension Chapter 399"
+slug: 0097-the-path-of-ascension-chapter-399
+partOf: the-path-of-ascension
+position: 97
+ownLength: 5180
+unit: words
+ownProgress: 5180
+publishedAt: 2025-03-28
+link: "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/2157653/the-path-of-ascension-chapter-399"
+royalRoadId: "2157653"
+markedReadAt: "2026-06-29T19:21:05.932Z"
+---
+
+Chapter 399
+
+Matt shot to his feet even as his mind and [AI] raced.
+
+He found dozens, then hundreds, then thousands of news companies reporting on the incident. Currently, everything was limited to Tier 35 and higher broadcasts, but that just meant they could speculate more than the lower-Tier media stations were allowed to do.
+
+That meant they had some time until the information was ‘confirmed’ to get ahead of it.
+
+“What appears to be Ascender Legion performing unethical and disturbing techniques on hapless prisoners found in a hidden bloodline research facility that was just raided moments ago. According to the leaked reports, dozens of low Tiers were captured and illegally used to test various plagues and curses.”
+
+The man's co-host nodded sagely. “If true, this would severely harm Ascender Legion’s reputation, which so far has been quite positive, and undo all her efforts to improve the reputation of blood magic.”
+
+“This could be a government black site, Mitch.”
+
+“A government black site that was capturing people off the street if the leaked identity reports are to be believed. These were low-Tier civilians, not criminals. If Ascender Legion took part in such actions, government involvement or not, it's a blow to the blood magic community and a disturbing look at one of our newest Ascenders.”
+
+Matt flipped a dozen more stations to see most of them were keeping everything speculative, but most was not all.
+
+He watched as one reporter decried the methods she had used to reach Ascender power, and speculated if Liz had performed atrocities like this before which had been swept under the rug by the Path or other sources. Said “other sources” were left up to the viewer's imagination, but it was clear they were implying Mara and Leon might have had a hand in the cover up.
+
+It was so brazen, Matt was genuinely taken aback. How was any of that passing the various censorship and truthful reporting laws? Sure, as Dukes and Ascenders, there was a bit more wiggle room in the laws to ensure negative news about such individuals couldn’t be so easily covered up, but a few of the stations were being beyond brazen.
+
+Thankfully, there were enough stations reporting that Matt was quickly able to get a fairly detailed picture.
+
+Apparently, Liz had been in Kelispo at a secret blood mage research facility for plagues and curses. The recording had come to light when the facility had been raided and the recording leaked.
+
+Matt immediately started looking at the provided information, but whoever set this up had picked a good time for the offence to occur. The recording was dated during a lull of the war when they had been delving via Allie’s teleportations and out of the public eye for months at a time, adding a layer of believability to the farce.
+
+As he was watching, more information was leaked as someone on the raid team dumped the entire data log of the blood mage research facility.
+
+The news stations, moving at Tier 35 if not higher speeds, took off with the information, giving reports while Matt still struggled to parse through the latest updates.
+
+The hottest topic the news stations started to dig into were the fractured financials that had been recovered and where the research had been going.
+
+The first was, from what Matt could tell, fairly well obfuscated. And the needs of his guild had led him to be well versed on money laundering techniques. Mostly, it came in the form of raw low-Tier mana stones or credits which had been moved through a dozen accounts. But the latter was more of a problem, as several data packets seemed to have gone to Liz’s bloodline facility in the Capital.
+
+The fact that such information had been recovered at all, let alone so quickly, was incredibly suspicious, to the point that even some of the news stations pointed it out.
+
+Matt wanted to say those stations weren’t being manipulated from behind the scenes, but they would have to see, as everyone was a suspect at this point.
+
+Their hidden enemies were clearly wealthy and well-connected, which rarely meant stupid enough to burn their own assets in trying to force a narrative.
+
+Still, even if completely faked, it looked bad for them. With the other evidence coming from the raided facility being seemingly legit, it made the accusations coming down on Liz look all the more damning.
+
+Matt was searching for some kind of flaw they could use to prove his wife innocent when she barked a laugh and the flames and lightning that had been radiating off her vanished.
+
+“Greedy fuckers overplayed their hand.”
+
+Matt raised a questioning eyebrow and Liz flicked a finger at the screen, which then played back a spiritual recording of Liz performing the curses and plagues on the victim. Spiritual recordings weren’t perfect, but they could record the unique fluctuations that everyone’s spirit put out. They could be faked, but it was surprisingly hard to do so without specialized equipment, Talents, or time to forcefully change one's spirit.
+
+“Fuckers thought they were smart providing all the data instead of scrubbing everything but the visuals.”
+
+Matt watched for a moment before noticing what Liz meant and chuckling himself, a majority of the stress leaving him.
+
+There was only one spiritual resonance in the video, which for anyone but Liz would have been correct.
+
+Ever since Tier 25, Liz had replaced her circulatory blood with another clone of her in her blood form to increase her power. Normally, it was impossible to tell because of all of her shielding and wards, but the video Liz hadn’t been using anything but the most basic, easily-seen-through ones. Which itself was somewhat suspect, but not nearly enough on its own, so the recording could tell there was only one of Liz in her body.
+
+That was… surprisingly sloppy.
+
+Sure, not many people knew of Liz’s trick with her clones, but Liz was right. The fact that the video had not been better scrubbed had just given them an opportunity to stop this farce in its tracks. Part of information warfare was removing excess information, and that went both ways. Less information might make accusations harder to stick, but too much information in a set up could end up helping the enemy.
+
+Which was just what happened here.
+
+By trying to add too much detail to their ploy, they had overstepped and served them a way to derail this entire thing.
+
+Matt caught himself. It was enough to cast doubt, but some people would just assume Liz hadn’t bothered to double herself up outside combat and it was still her. But those types would never change their minds. It was the best answer they had, as well as the only one right now, so it would have to be good enough.
+
+The next most important question was if they wanted to reveal the information.
+
+Looking at Liz and seeing just how mad she still was despite having an out, Matt decided that yes. They probably wanted to.
+
+“Want me to portal us into a news station? We can blow the top off this right here and now.”
+
+Liz chewed on her lip for a minute. “If we let them keep talking, they might reveal more, and I really want to find out who tried to set me up.”
+
+Matt chose his next words carefully. “Are you sure? Might be better to kick the bucket over and see what, or rather who, tries to clean up.”
+
+Liz opened her mouth to answer but nodded. “That’s a fair point. You brought your spies, let’s ask them for their thoughts?”
+
+Calling a meeting with the spies and their seneschals was basically pointless, as both groups had come running the moment the information hit the news stations. So had nearly everyone else, in fact, which Matt took as a good sign that their people trusted them enough to not believe the information without more definitive proof.
+
+Isabella, despite being the lowest Tier and not the first through the door, was the first to speak. “I would recommend we quash this immediately. The longer this goes on, the harder it will be to remove this from the public perception of you, my lady. Reports are already citing blood mages as being a systemic problem if there is a cabal of blood mages working on plagues in secret.”
+
+Matt felt Liz tighten up at that. He knew she was sensitive about blood mages' reputations with how she had been looked at for having the power when she was younger. It was all tied up in her own more personal issues, but blood mages who didn’t go down the healer route were looked on with mistrust.
+
+Liz signaled that she had heard her seneschal but asked the rest of the room. “I’ll take the hit in the short term if I have to, especially if it means we can figure out who is behind this. What gets us to this goal best? Waiting? Or seeing who starts covering this up if we prove it's false?”
+
+One of the spies that had come with them, Esmeralda, stepped forward. “Both could work, Ascender Legion. It's more a question of how prepared the team who set this up was for rebuttals. If they were prepared, this might be a trap in some way, where they will reveal more information that counters your counter, and just makes you look more guilty. However, if this was a genuine mistake, seeing who starts scurrying when the light gets shined on them would give us our best results.”
+
+Matt wanted to ask a question, but let Liz take the lead. He knew how angry she was, and letting her lead would help her feel in control, which was about as much as he could do at the moment.
+
+“What is your estimation on this? It is sloppy or is it a trap?”
+
+Esmeralda winced. “I was never an analytical type, Ascender Legion. I did field work. But my gut tells me this was sloppy. With the timing being just a week after Ascender Titan’s reveal, it feels like this was rushed, but the question is how. Based off the initial reports, the research facility seems like it was running for a while. Maybe these enemies started with the sole purpose to frame you, Ascender Legion. That's the worst-case scenario, as it means everything will be centered around making you look guilty. On the other hand, our best-case scenario is that they just had a guy on the raid task force and planted the information when they saw the opportunity. It's also possible they had a spy inside the facility and used them to plant the evidence which means it might be far more thorough than we see. They then could have tipped off the local Count to make everything that follows seem more legitimate. This game is all about double and triple guessing and hoping you are right.”
+
+Jericho, the other intelligence agent, stepped in. “I did back-end work for a while before I decided I just didn’t like it after I was tagged, so I have a bit more experience with this kind of stuff. That said, if this is a pretense at being sloppy, it's incredibly well done to the point I believe it was something quickly put together. Which I will note is entirely possible.”
+
+Esmeralda agreed with him, leaving Matt stuck with the feeling of the unknown.
+
+Isabella raised a finger and spoke when Liz nodded to her. “I just got confirmation that your research teams did have what seems to be legitimate correspondence with this hidden facility. Nine messages. The first one is when this team reached out to them shortly after our team was founded, looking to share what seemed to be mundane knowledge about bloodlines in general. As per your orders, the teams declined because of the secrecy clauses in the contracts. The teams were reached out to twice more, where a talk was held about clinical trials for this hidden team’s product, which is reportedly about boosting the power of blood-based potions. But when they couldn’t, or rather wouldn’t, properly identify themselves or reveal the actual product, and more importantly what went into it, the correspondence died out. I would like to note that none of that is truly rare, and the facility gets at least a dozen such offers a year. Most are legit from various alchemical groups, bloodline research groups, and even enchantment or rune-based groups. They are all just trying to keep their secrets close to their chest before they launch a product, but want outside minds to look things over. Others are just trying to sound out what a competitor is working on.”
+
+Liz finished Isabella’s statement herself. “And some are done by people with bad intentions like this.”
+
+Cato took the momentary silence to ask. “While only a side profile was shown, I believe this constitutes impersonating an Ascender, which is a serious crime, as your likenesses are legally protected. Doubly so when impersonating an Ascender while committing a crime. The imperial government takes this very seriously. We could just sit back and wait for the government to dispel this farce.”
+
+Liz shook her head. “Which they undoubtedly know and are prepared for. I’d put money that they are ready for that and at most, we’d find a disposable contractor who will take the fall but ultimately is a dead end. Let the government do their thing, but unless we specifically ask for this to escalate, they will just use regular investigators. And neither of us is interested in bringing a Royal or the Emperor into this. We aren’t children who need an adult to come clean up after us.”
+
+That earned a wince all around, which was almost amusing enough to cause Matt’s mood to lighten.
+
+The Emperor, like his father and grandmother before him, had taken a mostly hands-off approach to things beneath him, but when he was prompted to act, he usually did so with a hammer that splattered everyone involved. Not that Manny couldn’t act subtly, but when Matt had asked him about why he made such decisions, Manny had simply stated it kept people from coming to him for stupid things.
+
+It was funny how much knowing the Emperor personally changed things. Everyone else in the room was probably worried Manny would be angry if he was drawn into such a small incident. When in reality the Emperor had already told them to just do whatever they wanted, damn the consequences.
+
+That tidbit going public would give the various news agencies something real juicy to chew on. Just how much would they dare to speculate on that news? Probably a fair bit less than they were daring to do to his wife, Matt was sure of that.
+
+Still he tried to calm himself down by reminding himself that the stations could be far worse.
+
+Liz looked to him, silently asking for his opinion and bringing him back to the present. Matt made the choice that was best for his wife. Damn everything else, that was what mattered to him most.
+
+“Let's show our proof and see what happens. I agree this was a rush job. Maybe it was something they were preparing for a long time and pulled the trigger on early. That would mean this is a trap, but the timing of this suggests this fiasco was an opportunity they saw when the Count hit the facility and someone jumped on it, but that's pure speculation. Either way, I think it's best we cut this off as quickly as possible.”
+
+Liz grimaced as he said speculation. “I’m really growing to hate that word. But you're right. Let’s just go for it. I want to kick over that hornet's nest right damn now. Everyone, go do what you need to do. In two minutes we will go to a news station. If you need to come, be there. If not, do whatever you need to do.”
+
+The moment they were alone, she took his hand and squeezed it. “I’m sorry they are trying to ruin your moment.”
+
+Matt melted and pulled Liz’s hands up to kiss them. “That's my line. I’m sorry they decided to attack you to try and get at me.”
+
+Liz shook her head. “I don’t think that's necessarily true. Between our suspicions that Aster’s problems are this cabal messing with her and now this, I think it's pretty much confirmed they were always targeting all three of us. My instincts say this ploy was always being set up for me, they just fired it early to try and counter you too. Make it seem like your guild's achievements were also accomplished using unethical methods or some crap like that.”
+
+Matt didn’t like that thought, but he pushed it down as he remembered something he thought of earlier. “That reminds me. Eyria said the training aids for self-made skills deserve to be sold at an exorbitant price, similar to what Aster’s bad actors were saying. It could be obvious bait or coincidence, but distracted with my discovery, I hadn't connected the dots right away.”
+
+Liz growled. “I was already mad at these assholes, but now I’m furious. Hopefully this maneuver kicks up some response and we can drag whoever this is out into the light.”
+
+Matt looked at Liz’s balled up hands, which started to shake and glow more brightly with how hard she was clenching them.
+
+Anything that came to mind just felt like platitudes and he didn’t know what he could say that would make her feel better.
+
+When she unclenched and sat back in the seat with a sigh, Matt pulled her into a side hug.
+
+Together they just sat there in companionable silence until the others returned.
+
+Once everyone who was coming had arrived back, Matt [Portal]ed everyone into one of the expanded buildings that housed a news agency. They didn’t care which it was, so he had simply chosen the closest one to their suite. Going to a more sympathetic station might have given them some small advantage, but for what they were about to do, they didn’t require anything more than a recording station and a licence to broadcast.
+
+The moment they walked through the door, the station started to panic.
+
+It wasn’t surprising with the still simmering anger on Liz’s face and stoney displeasure on Matt’s. People clearly thought they were about to start killing.
+
+Not that they weren’t tempted, but random civilians at a random news station weren’t their targets.
+
+Though, it was amusing to watch as the news anchors who were just discussing how monstrous blood mages guilty of such acts as the recording showed were, go through all five stages of grief live on air.
+
+As they reached the sealed recording studio, Liz kicked the door off its hinges, causing the second anchor to relieve himself.
+
+A quick spell from his cohost saved him from broadcasting that embarrassment to the entire Empire.
+
+Liz growled at him and pointed off the set. “Move, piss pants.”
+
+Or not.
+
+The man scurried off and Liz looked at the vacated chair before kicking it off the set and pulling two chairs out of her spatial ring.
+
+Matt just looked down at the remaining host until he scurried away.
+
+Taking his seat, Matt glared at the director until she stopped hovering over the button that would have stopped the recording.
+
+Using his [AI], he projected a message onto one of the dozen screens next to her.
+
+Seeing it, she and the two aides started nodding frantically as they changed the projecting cameras and framed them better as well as pulling up the recordings he told them to find.
+
+Liz tapped the table, causing the wood to splinter, for ten seconds or so until she growled. “That's enough time. Everyone else can play catch up, and frankly, I’m pretty fucking angry at all of you, so I’m not inclined to play nice. Which is funny, as I’ve been pretty fucking nice every time I went on one of these worm shit shows. I see that everyone is having a lot of fun flinging shit at me. Let me officially quash that.”
+
+Liz paused as they waited until the director signaled they were ready. “What you should be seeing next to my angry talking head is a full spectrum broadcast of my Ascension. I don’t know or care about the source, but you can see there is me and my spiritual signature. Now, onto the next one sometime later, after we took out a supply depot deep inside Republic space. Let's look at the full spectrum recording. My spiritual fluctuations are way more chaotic and mixed. Strange. Did I learn some new veiling technique that disguises my spiritual signature? Now show my next public outing.”
+
+Liz went through half a dozen more recordings pointing out the odd fluctuations in each, but Matt was flicking through the news stations who had universally stopped their discussions of the recording to broadcast Liz’s speech.
+
+He took a smug satisfaction in their obvious nerves, fearing they might come visit their stations next.
+
+“Now look at me.”
+
+When the director started to panic because they were looking at Liz and didn’t know how to do more than they already were, Liz slapped the table hard enough to cause it to crack in half. “With a spiritual camera! Come on! What have I been spouting about for the last two minutes?”
+
+Seeing her view had changed, Liz pointed at herself. “And look at that same distortion. What could it possibly be? What you fuckers forgot when you were tearing into blood mages was that I’m a fucking blood mage.”
+
+Matt sent the director a message, and she quickly projected a real image and a spiritual image side by side on the screen.
+
+Liz reached down and cut her arm, letting her golden blood rush in a wave out of her arm.
+
+Except the ichor didn’t just pool around them, and instead formed into a second glaring Liz.
+
+“I’m a fucking blood mage who uses clones. Of course, I amplified my own powers by using a clone in place of my own blood.”
+
+Matt finally spoke. “And you did so well before this… recording’s purported date.”
+
+He took great pleasure in watching the reaction spread across the news stations that had just been tearing into Liz as they immediately started publishing retractions. They didn’t forget to point out everything had been speculation based on what had seemed like credible evidence.
+
+Cato and Isabella would be throwing the book at all of them. As much as was possible, at least, which was less than they would have liked but more than enough to make their displeasure felt.
+
+The stations that hadn’t bothered to hold back would be hurting in the next few days. As for the stations that had been more analytical and waiting for more information, they weren’t free of sighs of relief or wiped brows, but they would at least escape the worst of his and Liz’s wrath.
+
+“Crazy, that. Honey, how interesting is it that this information came a…”
+
+All of them froze as the entire building lost power.
+
+Matt grinned and ran at his best speed as emergency power came back online, only lasting for a second before it too went out.
+
+Someone had just panicked and tried to shut them down. He was giddy with excitement as he flew down corridors and atriums hardly able to contain himself.
+
+He arrived at the power link in only seconds, only to find the technicians panicking as they tried to close the connection to the mana conduit that ran throughout the city as backup power or disconnect the local backup battery
+
+Matt ignored that and them, instead walking over to the malfunctioning mana battery and slapping a hand onto it.
+
+One of the technicians shouted at him as if he didn’t understand just how much mana was contained inside it.
+
+But he did, and it was nothing to what he generated every second.
+
+Connecting to the battery, Matt found that someone had overridden safety protocols, causing the power regulator inside to think the mana gathering arrays had failed and the building was drawing an impossible large load. Forcing it to draw mana out of the mana stones inside it as fast as it safely could, far more than the building needed. It also reported externally that the battery was empty and needed support. This, in turn, meant the shunt to the public net had opened, adding even more power to the system and triggered every safety mechanism, thus causing a complete shutdown.
+
+The one saving grace was that the mana gathering arrays didn’t care about what the backup measures said, and had gracefully shut down when they detected the system was already overloaded.
+
+It was an interesting attack vector, and not one he would have considered normally viable, but it had worked with what was only a single bypass.
+
+From what he could see, it seemed like a purely digital attack, but the investigators that would come and inspect it later would be able to tell if it was actually done remotely, through spiritual perception range, or locally by one of the technicians. But no matter the method, he was ecstatic.
+
+They had caught someone in the act, and now there was evidence.
+
+Keeping in contact, he wormed his own mana inside and used it to forcefully stop the flow of rampaging mana. His personally aspected mana caused serious damage to the battery bank, but he didn’t care or stop.
+
+With a final thought, he flipped the control to block the battery, letting the backup systems take over.
+
+The entire battery bank would need to be replaced, but that wasn’t his problem as mana was restored to the building.
+
+Grinning, Matt informed everyone they were now in a crime scene, and to cooperate with the police and Imperial investigators, though he doubted they were guilty. This felt even more hasty than the initial attack, which had already seemed sloppy. It was unlikely anyone was turned against them with them in the building, or was already planted into the building before they arrived.
+
+Both were possible, but incredibly unlikely.
+
+Sitting back down next to Liz, he smiled at her. “All fixed. Someone sabotaged the building's local battery bank. I got power back online. Now what were you saying?”
+
+Both Lizzes’ smiles were just as wide as his. “I was just talking about how wonderful my husband is.”
+
+Matt played it up. He couldn’t help it. He understood why Mara and Leon did so, now that he had a taste.
+
+“Oh, that's sweet of you. Please, start over so I can hear all of it.”
+
+“I believe I was saying how interesting the timing of the attack was. Just a month and a half after your Realm-changing announcement. And then boom. Once more, another attack. A sloppy one this time, but I guess they expected us to have to move to a new building or something when they killed the power.”
+
+As she paused, the other news stations immediately started speculating about the hidden entities who were foolish enough to target the Ascenders, as if they weren't part of their previous efforts.
+
+Liz then turned a glare onto the nearest camera. “And I don’t appreciate the slander about blood mages. We get enough grief without assholes talking about how inherently evil our magic is. If a fire mage burns someone alive, no one calls all fire mages abominations. And to answer your earlier speculation which the video tried to paint me as… Yes, I have practiced the less palatable aspects of blood magic. I just did so far earlier than that video showed. I did so while still on the Path, and onto Imperial prisoners slated for death, just like everyone else who needs a human body to work on. I don’t pretend that the darker aspects of blood magic don’t exist, but don’t try to slander me or mine with it.”
+
+Isabella flicked a finger and the second Liz added, “And as for the correspondence between my research facility and this blood magic team. Here. This is all of the correspondence between the two. They reached out in an attempt to get my teams to test things for them and we declined. They reached out a few more times, and we declined. For people who don’t interact with research teams, this is fairly normal and happens dozens of times a year. It's the equivalent of spam mail.”
+
+Seeing Liz was done, he spoke. “To those who are threatening us or feel threatened by what we are doing… You had better hope your layers of secrecy are sufficient, because we are coming for you. You started this when you hit our duchy’s aura potions, but that was a small thing we could have overlooked. This, however, was a declaration of war. If you are smart, you’ll throw yourself on the Emperor's mercy, because if we get to you first, there will be none.”
+
+Together, the three of them stood. The Lizzes merged back into a single entity as they walked away, with their people following at their heels.
+
+The whole time, Matt was checking in with the other news stations and noting how they were reacting.
+
+By now, even those who had taken the most adversarial stances had pivoted and blamed their former reporting on a mistake made in the moment, trying to get the most current information out.
+
+His information people also noted that information bursts through micro portals had spiked once Liz revealed the flaw in the recording. Most of that could be explained away by the news stations sending out retractions to the nearest planets, which would have already gotten the news, but a suspicious amount of information had passed through as heavily encrypted packets.
+
+Data security wasn’t inherently suspicious, but the degree of the encryption was telling, and some of the packets used absolute top-of-the-line encryptions that would be impossible to crack without specialized Talents. Even then, it would be iffy if the other side had their own Talented security.
+
+More importantly, they were able to track the data packet that caused the power shut down. It originated from the neighboring system and bounced between at least five other systems before that, but Jericho was already tracking it down, and in a day or two, they would hopefully have a target.
+
+At the same time, Esmeralda was digging through the initial information that had been found in the raid and forwarded to the Capital news stations. From what she could tell, the information had originated locally inside the bloodline facility, which meant their attackers had physical access to the facility, which was another lead.
+
+For the first time since they had been hit, it felt like they were on the offensive, and it was a fantastic feeling.
+
+It was time they went hunting.

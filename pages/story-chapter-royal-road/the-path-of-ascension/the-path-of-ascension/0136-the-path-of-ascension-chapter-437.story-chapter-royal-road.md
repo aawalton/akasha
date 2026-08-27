@@ -1,0 +1,393 @@
+---
+id: ce37457d-9336-554a-90f3-344e73e569fa
+page-type-slug: story-chapter-royal-road
+title: "The Path of Ascension Chapter 437"
+slug: 0136-the-path-of-ascension-chapter-437
+partOf: the-path-of-ascension
+position: 136
+ownLength: 5415
+unit: words
+ownProgress: 5415
+publishedAt: 2025-08-22
+link: "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/2539440/the-path-of-ascension-chapter-437"
+royalRoadId: "2539440"
+markedReadAt: "2026-06-29T19:34:05.673Z"
+---
+
+Chapter 437
+
+Emmanuel flew through chaotic space, letting the second layer energies batter his physical body directly, unbothered by the small pricks of pain.
+
+Behind him, Alister pushed the two of them forward, using a portion of his stored momentum to give them a slight speed increase.
+
+Neither of them were going all out but the combined efforts of the two of them made traveling through chaotic space easier.
+
+Emmanuel could focus on traveling and calming the chaotic space in front of himself while Alister carried them along. Together, they moved at a carefully controlled speed, faster than most of the others could comfortably keep up with.
+
+Or rather everyone except Tobias, who seemed entirely unbothered by the increased pace despite having the largest size, which should have put him in the most danger.
+
+He and Alister weren't trying to outpace the others. Together they could have easily done so, even if Emmanuel didn’t use any of the better chaotic space Talents he had, but instead they were trying to slowly force the others to dip into their reserves.
+
+If the others arrived at the Tier 46 world with half a mana pool or low mana storage reserves, he and Alister would have a decisive advantage.
+
+Or the others would fall behind and the two of them could arrive earlier and have their pick of the real space world and its many natural treasures.
+
+Even over a few centuries of travel, the difference would only be a few hours or days but that time would be pivotal at their Tiers.
+
+Unwilling to accept that, the others could only increase their speeds.
+
+It was an open ploy but an effective one.
+
+At least that was the idea.
+
+The others seemed mildly annoyed and had used various spells to keep up, but they could have been faking things. At their Tier and experience, they all had backups for their backups.
+
+Except for Tobias.
+
+The Monster Collective’s Tier 50 floated through chaotic space as if it was real space, casually flying with his legs tucked into his shell and eyes closed.
+
+They were just inside the second layer when Emmanuel felt a spiritual perception brush past him. He was about to lock on but before he did, the Tier 33 died.
+
+The monster was a menace that he was about to crush but Winter Hornet had gotten to it first, gathering the monster's valuable parts in one smooth movement even Emmanuel found hard to follow.
+
+As if mocking Emmanuel, the man threw the chaotic space resistance skin over himself, making it effortless for him to fly through space so long as the skin wasn’t fully dissolved.
+
+Emmanuel couldn’t help but lament that Winter Hornet was in his generation instead of Hastor’s.
+
+The two combat maniacs could have tied each other up nicely but instead, Emmanuel had to deal with him alone.
+
+Seeing that things were apparently too easy on the others, Alister sped them up slightly. If they sped up too much, they might get attacked or risk one of the other Tier 50s turning back to threaten their Great Powers, but a small increase hopefully wouldn’t draw out any attacks.
+
+It was all a subtle game of tactics with millennia of experience on all sides.
+
+They still had a long way to go until they felt the Tier 46 world, even with it moving towards them. At their current speeds, they had at least a hundred and fifty years to intercept the world somewhere in the middle of the third layer, and that only held true if the world kept advancing towards them, which was basically impossible. It was already slowing down and would soon be caught in the third layer's eddies and dragged away from them.
+
+They’d still catch up with it, but they didn’t have time to dawdle.
+
+***
+
+They finally were getting to fight, and Matt was ready.
+
+So deep into chaotic space that the danger was nearing the level of the true second layer of chaotic space, they couldn’t really risk fighting outside for long. Sadly, more often than not, it came down to direct boarding sequences to end such battles when the teams were of similar Tiers and one side couldn’t overwhelm the other’s shields.
+
+They may technically be Tier 28, with Aster being Tier 29, but as Ascenders they were capable of fighting two Tiers up. Even lower-level Tier 30 elites were possible, if hard, fights, which meant random explorers were a great opportunity for Matt to test all of the things he had been working on for the last three decades.
+
+If they could bait the teams into close quarters combat.
+
+Their pilot dodged them to the side, keeping the Federation ship from darting in and escaping into real space immediately.
+
+A number of groups, especially those with higher-Tier combatants, would often try exactly that, wanting to force a fight to leave the more dangerous chaotic space where they could leverage their personal power.
+
+The Unsparing wouldn’t mind that, but it would be suspicious if they didn’t move to block at all.
+
+There was no reason to scare their opponents away quite yet.
+
+Their cannoneer fired two mid powered shots, letting it seem like they had used average weapons at their maximum capacity.
+
+The deceptions wouldn’t last for long but this was a great testbed for future fights where they might be fighting dozens of other ships over a world.
+
+The Monster Collective’s ships didn’t follow the typical script and immediately pounced.
+
+Each ship fired massive cannons that should have never fit on ships of their size at both the Unsparing and the lone Federation ship. The Unsparing’s AI identified the ships as little more than floating guns. It was a semi-unique approach to exploration that was usually only used when an entire fleet was mobilized, as in their desire to look as small and unthreatening as possible, they lacked the storage a ship like Matt and team brought along with them.
+
+Which meant they had a flotilla somewhere, and probably very nearby considering the observatory ship that had directed them here in the first place could have passed information to the Pack.
+
+The surprise blow hammered their shields but didn’t punch through. The Unsparing’s shields were top of the line for their Tier and had an unexpected robustness.
+
+The Federation ship, however, wasn’t so lucky and its shields went down after the hit. It only lasted for a few seconds before they reestablished protection. Still, that brief intermission in protection let chaotic space ravage the physical materials of the ship and forced the Federation ship to flee for the safety of real space.
+
+Their pilot immediately followed the move, while their cannoneer fired back at the nearest Collective ship with a near-max power barrage of shots, forcing them to create distance so they weren’t subject to the same fate.
+
+The Collective ship’s efforts failed.
+
+Similar to what happened with the Federation ship moments ago, the mana shield was disrupted, causing immediate damage to the physical ship, leaving them to rush for real space as quickly as possible.
+
+Their cannoneer didn’t bother to fire on the second ship. It immediately followed the first and gave it cover as they entered real space a moment ahead of the Unsparing.
+
+By the time they reached the node and entered the Tier 21 world’s real space, Matt and the others were already near one of the exits in their full armor and ready for a fight.
+
+The armor was all mass produced and effectively disposable but it was meant to be used when fighting in chaotic space. They deliberately chose to wear the armor despite fighting in real space so they wouldn’t reveal their identities too quickly.
+
+The moment they fully fell into real space, Matt cast [Portal], putting them right next to the damaged Monster Collective ship which had already discharged five Tier 30s in matching cheap gear, similar to theirs.
+
+They were already under fire from the Federation team who, after dropping off ten Tier 30s, started attacking the undamaged ship, seeming far more confident in its real space fighting abilities.
+
+With their mana stores near full, the ship would be fine even if they came under direct fire from all three other ships for a short time. That taken care of, Matt attempted to settle himself in the right mindset to try and tap into the second level of his Power.
+
+When just seven of them exited the [Portal] with the fluctuations of Tier 28s and a single Tier 29, all spiritual perception turned to them, assessing.
+
+They must have been found wanting because both sides turned most of their attention to each other. Two from each group of Collective fighters turned to them, as did two from the larger Federation ship, making it almost an even six versus seven fight.
+
+An elk-like humanoid ran at Matt, its antlers lowered and glowing, its hands extended ready to grab him should he try to dodge.
+
+Matt suspected the idea was to press him to the antlers and burn through his magical armor, leaving him open to the Tier 30’s immense physical strength, where he would have little chance but to surrender or risk death.
+
+It would have been a good strategy against a normal Tier 30, let alone a normal Tier 28, but Matt was neither.
+
+He did however need practical experience trying to use his Power, so he didn’t instantly move to defeat his opponent.
+
+Matt brought his blade down at a rate calculated to show that he was doing his best to react to speeds higher than his own Tier.
+
+Seeing that, the Tier 30 got cocky and, with gauntleted hands, reached for his sword, wanting to muscle his way through the fight.
+
+Matt hadn’t been able to add his neutronium ingot to his blade yet, as he was neither Tier 30, and so had no chance of using the sword at what its increased weight would be, nor could he find anyone selling the rare Natural Treasures the three Talented crafters able to add it wanted for their services. Given that two of the three wanted something that could boost their spirit and make it more robust, it wasn’t an easy request.
+
+Hopefully they would find the treasures or be able to trade with people who did find them in the breach.
+
+Still, he was able to fake it and, as the formation activated, his sword increased in weight until it was difficult for Matt to move it around. It wasn’t perfect but it gave Matt a good feeling for what a heavier sword would fight like.
+
+His blade glowed with power as the mana stone at the core of his lattice blade surged.
+
+Matt could have evaporated the hand that grabbed his blade but chose not to.
+
+Instead, he reached inward.
+
+To the core of himself.
+
+To the part of him that was in perfect resonance, like a machine with no wasted movement.
+
+Matt visualized his Power like braids of cable, interwoven and entwined. Each part of himself was a strand of the greater whole. His physical body was one cable but inside that were cables that represented his speed, flexibility, healing factor, and everything else. Every part of himself down to his Talent was a cable and his to empower.
+
+According to Luis, that was a fairly standard visualization but that was where Matt hit a wall and his first real hurdle. Given that the others hadn’t even made that much progress he should be happy with his stuttering
+
+Each braid was in sync and moved in the same direction as the whole, but that didn’t necessarily mean they were perfectly clean and without tangles.
+
+Theoretically that didn’t matter. He was at full harmonization no matter what his mental image might imply, but he struggled to actually empower part of himself.
+
+Not that it was easy. Most never managed the visualization and even more failed to ever exemplify a part of themselves enough to boost it, even with thousands of years of practice, but Matt had higher expectations for himself.
+
+In theory, it was as simple as focusing on one part of the whole, one cable in the strand. But the moment when Matt tried to focus on one of the strands and boost that part of himself, he fell out of harmony entirely.
+
+Being stuck for less than a hundred years on such a step shouldn’t have bothered Matt. Most people who got to the visualization stage stopped right there. But he had never accepted ‘as good as most people’ as a standard for himself.
+
+He always learned best with a blade in his hand and actually pushing his limits, which was exactly why he was so eager to fight opponents who he was fairly confident in beating. He could only hope these opponents of chance and opportunity were good enough to push him.
+
+Concentrating on the strand that represented his body as a collective whole, Matt imagined it pulsing with power. Being a collection of strands, it should have been easier to amplify without destabilizing himself as he was amplifying more of himself, but the moment he tried to push Willpower into the strand in the way he had been taught, instead of becoming stronger, Matt felt himself grow weaker.
+
+It wasn’t much weaker, but it pissed Matt off as he was pulled to the antlers glowing with power. Combined with the smirk on the elk's face, Matt decided to force himself to fight from a disadvantage as penance.
+
+That didn’t mean he’d go down without fighting back. He punched out with his left hand, aiming at the antlers, his weapon kept away from the elk man’s grinning head with a raised hand.
+
+The expression vanished when Matt’s first blow landed.
+
+Like an engine with a clogged fuel intake, Matt once more tried to amplify his physical body. The boost sputtered but Matt shoved Willpower into his body as hard as he could and, for a moment, just a single moment, his body was greater than the sum of its parts without destabilizing the rest of his harmonization.
+
+His opponent was sent reeling back, his right antler shattered as his head snapped hard enough to crack his spine, which made him let go of Matt’s sword.
+
+At the same time, the sputtering engine of Matt’s Power failed and he fell out of harmonization, forced to rebuild his mental image from the ground up.
+
+His opponent's spinal wound quickly healed itself but the elk man's follow-up attack was far more hesitant, as if expecting Matt to lash back out with titanic power once more.
+
+His single rack of antlers continued to glow visually but the feeling they gave off in Matt’s spiritual perception changed dramatically. Instead of absorbing outside energy, it was gathering energy like a mana cannon about to explode.
+
+Matt dodged the reaching hands, keeping his speed a hair slower than the Tier 30’s, letting his battle instincts guide him, trying to speed himself up with his Power but failing.
+
+Still, despite the self-imposed limitations, it was a good fight. They had been delving against monsters for too long, even before their thirty year break, and he had missed this more cerebral back and forth between people.
+
+That pleasure ended as he felt the elk man was growing frustrated and suspected he was about to call for help.
+
+Instead of allowing that, Matt went on the offensive.
+
+Thrusting, Matt slipped past the man's guard, tapping his blade to the man's lower chest.
+
+To his credit, the elk tried to grab Matt’s blade and shove it away at the cost of a hand. In doing so he fell for Matt’s small muscle contractions trap that made it look like he would redirect the attack up to his head, which would have been a lethal strike.
+
+Instead, the moment his blade touched the elk, Matt unleashed his [Mana Thrust], sending out a blade-thick beam of energy that cut through the Tier 30’s armor and body alike, punching over a mile into empty space.
+
+Heart and lungs mangled, the elk started sending signals for help from anyone nearby, including the Federation explorers.
+
+Matt watched the horror in his opponent’s eyes grow as he realized everyone fighting the seven of them was struggling and none of them could help him.
+
+All of the Ascenders were using their opponents as training partners and exploring the things they had been working on during the trip.
+
+Each were taking their time as Matt had.
+
+The exceptions were Rah and Susanne, who were cutting loose.
+
+Susanne, having integrated the Two Pupil Stone, had redefined herself.
+
+While a peak elite from the moment she fell off the Path, she had always been a good fighter, having been considered a pinnacle elite after some training with Lila. Now, after her limited future sight upgrades, she had become a terror.
+
+Relying on the contradiction of her future sight changing based on what she saw, she focused all of her attention on her blade, trusting herself to react to her future self’s actions.
+
+Her new blade style was all about the extremes in its current phase of training.
+
+While still flowing and elegant, Susanne’s writing had diverged from what it once was. Rather than sets of moves that flowed between and blended the lines of offence and defense, Susanne went fully on the offensive.
+
+From their spars, Matt understood why the Federation explorer was delimbed in just three exchanges.
+
+In raw power, Susanne might be weaker than her opponent but her Greatsword manifestation was terrifying and cut through even a Tier 30’s armor.
+
+Seeing her own moves, Susanne had found she was better able to read the flow of battle if she went fully on the attack or kept fully on the defense. Ideally, she’d reintegrate more nuanced moves but she was reinventing her entire fighting style and it would take time for her to reach that endpoint.
+
+Rah wasn’t dominating quite as much but he wasn’t struggling either, given he had used some of his wealth to buy enough essence stones that he was able to reach Tier 28 on their thirty year journey. Few people ever made essence stone essence less dense but the method was easy enough that he managed it in their first few weeks of travel allowing him to cultivate as they traveled.
+
+Since entering their Realm, his fighting style had changed slightly. He currently leaned towards a more front-line fighter, relying on his defenses to take light hits while dodging the bigger attacks, waiting for his chance to land a devastating single blow.
+
+For all that his cultivation method made him inherently weaker at his Tier, he had his own advantages.
+
+His upgraded Talents were the biggest and most important. Already strong, his blades now rivaled the works that even Talented enchanter teams worked to create. Except he made them instantly and changed them out between blows, leaving his enemies guessing as to what would hit them.
+
+In addition, the core of his skills were entirely unique to himself and gave him a decisive advantage against most opponents.
+
+Together with the upgrade to his cultivation base that came from his Ascension, the cultivation technique he and Ciceron created had its own advantages that narrowed the theoretical gap between cultivation styles.
+
+Having learned from Nahla of Waves Rise and her cultivation methods, Rah had copied her Realm’s method of interlocking cultivation layers to make his cultivation more stable, which let him surge his essence harder and longer, letting him fight at peak power for longer.
+
+He had also copied one of their Realm’s former methods of carving runes into their cores. Rah set things up so that when he boosted himself, each part of his cultivation was amplified further by runes carved into his ‘stars’.
+
+Combined with the interlocking layers, that effect would grow stronger as Rah Tiered up. But as of now, it put Rah at something close to a high-level elite and he was growing fast.
+
+As the hole in the elk man’s chest started to heal, Matt darted back in, pressing his advantage, once more trying to feel out his Power.
+
+Vines tore themselves out of the man's veins and lashed at Matt.
+
+They smartly avoided his blade and tried to tangle up his limbs, but Matt fought through them. Using his unempowered body, he tore through them with pure physical might, hoping the struggle could push him to desperation enough that he’d figure out how the second part of a Power really worked.
+
+It didn’t.
+
+All letting himself get tangled did was end up with Matt locked in place.
+
+The elk man, seeing an opportunity, finally unleashed the energy his remaining antler had been charging, but Matt let the spell wash over him, aspecting [Cracked Phantom Armor] to block his particular wood-based mana type.
+
+Interestingly, the man's spell empowered his vines, making them incredibly resilient, instead of destroying them as he expected.
+
+It was a good combination move which would defeat most average Tier 30s.
+
+Matt cast [Dragonflame].
+
+A new star was born and the vines burned away but people had already recognized him and everyone else thanks to [Cracked Phantom Armor] being unmistakable.
+
+No longer bothering to hide themselves, the others started using their signature moves and cut loose.
+
+Zack started casting smaller and faster spells his opponent failed to block or dodge quickly, whittling through their physical defenses and was the next to defeat his opponent.
+
+Allie stopped dodging physically and started dodging magically, letting her land several nearly-lethal blows in rapid succession.
+
+Liz started creating copies of herself and quickly overwhelmed her opponent.
+
+Slowest, but only because she was trying to show off, Aster had her Tier 29 golems beat up her opponent but didn’t let them defeat the poor man. It was almost like how she messed with Gan Le, except the Federation fighter was no defensive power house, and it took everything he had not to die while being pummeled.
+
+Having identified them, people from both sides started trying to surrender, even going so far as to offer unconditional surrenders which almost never happened in an exploration team.
+
+They weren't trying to kill anyone and so let those who were already defeated surrender and retreat but those who were still able to fight were fair game and they rejected their requests as they came in.
+
+That shifted the tide and the former enemies immediately banded together to try and fight back as best as they could.
+
+Part of their surrender rejection had a clause that the better their opponents fought, the less the Ascenders would demand from them after they lost. And it worked exactly as they hoped. Any exploration group would trade a small to medium healing cooldown to keep more of their harvested resources after being defeated.
+
+Joining his now fully-healed elk opponent were two others. One Federation man who was more metal than flesh and a Monster Collective human who had silver lightning flashing in his eyes.
+
+Matt sized them up and decided it was worth a try, throwing himself forward.
+
+He was immediately attacked by the elk man once more, who fired another large spell at him, not seeming to care about anything but hurting Matt.
+
+Instead of a mixed utility spell, he went for a purely offensive force-based blast which was expertly aimed. If Matt tried to dodge, he had a direct line of fire to the Unsparing. It was unlikely the elk had the power to punch through their ship’s shields but if Matt dodged, he risked having their single vessel damaged.
+
+It was a good move, and Matt accepted it as it was.
+
+Taking the blow head-on, Matt reached out with his hand, catching as much of the spell as he could and keeping it away from his body with his Concept.
+
+With a two Tier disadvantage and his identity exposed, the elk had unleashed his strongest blow, not bothering with his defenses at all, relying on the other two explorers to defend him.
+
+Matt let [Cracked Phantom Armor] aspect to the new mana type and tried to boost his very first skill.
+
+It was a thick cord in the mental image of his Power but as Matt tried to empower his spell in the way described, he once more felt like an engine with bad timing. Instead of growing stronger, the more additional power he tried to push into the spell via his Willpower, the weaker it became.
+
+As the beam spell finally ended, Matt immediately came under fire from the other two.
+
+The Federation explorer attacked with an ink-black baton with some illusion properties that tried to make Matt forget it existed. It wasn’t an antimemetic effect in the traditional sense but similar enough that Matt was interested in inspecting it up close.
+
+He got the opportunity almost immediately as the Federation man swung it at him with the force of a falling moon.
+
+Matt broke through the illusion hidden in the weapon to see its true form. It wasn’t a baton but rather a flail that used very well made and expensive cloaking enchantments to disguise its head.
+
+It was a very interesting weapon and hit with a power that pushed the growth item into the peak of Tier 30.
+
+[Cracked Phantom Armor] shattered under the blow, while the second Collective explorer appeared on Matt’s left in his sword's blind spot.
+
+Matt punched out, meeting the six layered [Elemental Fist] with [Fist Blast].
+
+His simpler spell met the layered mana type spell and exploded. Matt stepped forward to both dodge the worst of the back blast, while also getting into a better position to land a counter strike on the flail user.
+
+Matt brought this blade up in a deceptively weak looking angle but the flail user dodged instead of trying to match the blow. Given that Matt had amplified the weight of his sword a thousand times, it was the right call.
+
+Instead of letting the move go to waste, Matt changed the trajectory slightly and unleashed a [Mana Slash] at the fist fighter who had darted in, trying to attack Matt’s head.
+
+The crescent of mana mangled the man's right arm but didn’t stop him.
+
+Matt didn’t stop, either.
+
+As he felt the flail user gathering his Willpower and engaging his Intent, Matt continued his slash until his blade was pointing at the elk once more.
+
+For the second time in the fight, Matt cast [Mana Thrust] at the elk, punching right through the man's already-damaged chest armor.
+
+His blow was in the exact same place as before, below the man's heart. The elk once more sent a request for surrender with a pleading fluctuation of spiritual perception.
+
+Matt accepted it, as it seemed clear these opponents weren’t going to be the one who pushed him into discovering how to make his Power truly work.
+
+That didn’t stop him from beating the other two Tier 30s around in his attempts to figure it out.
+
+They fought on, clearly remembering their promise, but Matt got nothing out of it beyond a good spar.
+
+When he finished, he waited with the others for Aster to finish off her remaining opponent, finally letting them break free of the ice she was terrorizing them with.
+
+“These guys are no fun. Not even low-level elites.” Her comment made the collective group of shivering Tier 30s cringe.
+
+Liz stood forward as her clones stepped back into herself seamlessly. “We are fine with letting both sides go or even repair here after we loot the place. We just want the most valuable item in your cargo or the following five most expensive items. As you guys fought well enough, we will let you pick but if we don’t believe you we are going to go looking for ourselves.”
+
+All three crews must have been expecting something similar as, while they looked upset, they didn’t resist when their leaders offered items. They easily could have asked for more. Most of the time, winning teams, who didn’t simply slaughter the losers to take everything, demanded the right to take half of the gathered loot at their discretion, if not more.
+
+Them demanding the single most valuable item was painful but still a good deal for the teams this early into the breach.
+
+One of the Collective’s ships offered a Tier 7 Natural Treasure mote of light that felt like it would make illusions stronger if Aster’s guess was correct.
+
+After accepting that, they turned to the Federation team where they finally got to see the Halvetic Exploration vessel’s captain. The man was surprisingly clean cut for the grizzled tone he had talked with earlier. But when he could only offer a Tier 8 pseudo Natural Treasure rock that none of them could identify, and which didn't seem that powerful, they were disgruntled at someone trying to take advantage of their leniency.
+
+Allie took one look at it and vanished.
+
+A moment later she reappeared, scoffing. “Your security is shit and you’re poor. Even your hidden compartment doesn't have anything good in it. Can you at least not be a walking disappointment next time we defeat you?”
+
+Halvetic looked angry but said flatly, “That's why we were willing to fight over this world. We didn’t find a non-explored world on our way out. That was mere luck when we stopped to refill our mana reserves on an already explored planet. May we leave now, Slayer?”
+
+Allie teleported back to their ship, leaving Liz to give the man and his team permission to leave.
+
+He immediately did so while the Monster Collective team stuck around long enough to test their ship and ensure any physical damage to the hull and the exposed components from the exposure to chaotic space hadn’t managed to damage something critical.
+
+Even with that delay, they were gone in under an hour, mostly likely to report back to their fleet where they were and the world they had found.
+
+Matt wouldn’t mind if other teams of Tier 30s came to challenge them, but there was the possibility of Tier 35s leading a main fleet like that, and they couldn’t punch up that high even in their dreams, meaning they needed to be gone before reinforcements could arrive.
+
+It was unlikely a Tier 35 would be willing to attack or kill them given their status. They could delay them from going after the resources on higher-Tier worlds, so they didn’t linger.
+
+To that end, they didn’t sightsee.
+
+The moment they were alone, the crew tore into the planet.
+
+Sadly, it didn’t have any strange realms or even any noteworthy ruins.
+
+Still, it was a Tier 21 world that hadn’t been explored in at least a few million years.
+
+They suspected that age because they found a Tier 22 Sun Flower’s First Flame Natural Treasure growing next to an ever-bubbling volcano that towered into the atmosphere. The sunflower grew one additional seed per year that it lived and was exposed to starlight fairly reliably.
+
+Eating a single seed would empower a cultivator's fire aptitude, making it easier to make fire Domains or modify fire spells.
+
+That wasn’t even what made the Natural Treasure so valuable. When properly processed, the seeds could become a core strengthening component of pretty much every fire related potion, usually doubling or tripling the effect, while also keeping the original effect intact.
+
+And with just over 1.1 million Tier 22 seeds, they had hit the jackpot.
+
+They could turn around right then and there and make more than most first layer expeditions made in centuries of searching.
+
+Even with each individual crew members' share being less than one full percent, they couldn’t stop smiling as they dug through fetid pools or pits of magma to pull out the plethora of rare or valuable resources.
+
+There were so many of them, it took almost a full day for the harvesting crew to fully strip the world.
+
+With fifteen Tier 22 Natural Treasures, nine of which they couldn’t identify, a few tons of rare enriched metals, replaced with Tier 1 conjured metals to ensure an ecological balance, over three hundred Tier 21 Natural Treasures, and tens of thousands of lesser finds, they had struck it rich.
+
+But none of them wanted to turn around and go home.
+
+They had just gotten to the edge of the Rasdale breach.
+
+It was time to go deeper.
+
+Much deeper.

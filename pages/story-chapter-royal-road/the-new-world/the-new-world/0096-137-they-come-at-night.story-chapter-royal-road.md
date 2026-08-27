@@ -1,0 +1,173 @@
+---
+id: 516d5f6c-afef-5d57-9f36-752078712ae0
+page-type-slug: story-chapter-royal-road
+title: "137 They Come at Night"
+slug: 0096-137-they-come-at-night
+partOf: the-new-world
+position: 96
+ownLength: 2593
+unit: words
+ownProgress: 2593
+publishedAt: 2018-07-24
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/237264/137-they-come-at-night"
+royalRoadId: "237264"
+markedReadAt: "2026-06-29T21:24:09.944Z"
+---
+
+Yawm turned between the two groups, wondering which he should pick. Yawm placed a hand on the world tree, closing his eyes. With a deep focus, he honed in and listened. Moments later, he raised his head, pointing a hand northwards.
+
+“They’ve told me which group is stronger. The other entity is merely a distraction.”
+
+Yawm bent his knees, the air around us popping like burning wood in a wildfire. At the bottom of his leap, Yawm’s aura condensed over him. At the same time, I charged my runes, setting myself up to follow.
+
+We leapt into the air, though Yawm out paced me with ease. Both of us crushed the wood underneath us at least. As we reached the edge of Yawm’s lush forest, a trinkle of mana poured in. After a second, the drops turned into a stream then a fountain of mana.
+
+I grinned as Amara channeled her mana towards me. I siphoned the excess into my runes, letting it feast on the energy for now. Once the fight started, Amara’s regeneration would be a welcome edge in combat.
+
+Once we reached the skyscrapers and floating islands, Yawm stomped his foot into the ground. The concrete sidewalk crushed under his heel. I stopped my movement by extending my footing with telekinesis. My telekinetic footing took a large circle around me and descended the ground downwards. It was like a giant hydraulic press compressed the dirt around me.
+
+Yawm glanced around, his eyes probing. He murmured, “My brothers told me they were near here. Can you sense them?”
+
+I didn’t even know that plants had genders. I glanced around with my mythical skill, Hunter of Many, extending my senses. I noticed nothing of note. I whispered,
+
+“No. I can’t sense them?”
+
+Yawm narrowed his eyes, “Well that complicates things a bit. To be fair-”
+
+Yawm spread out his hands, “It’s more fun this way regardless.”
+
+I covered my ears with armor as Yawm clapped his hands together. As his palms contacted each other, they released a kinetic explosion. It was like he detonated a missile in his hands.
+
+A wave of sound shot outwards, enough to leave my bones ringing and my feet unstable. The glass along the skyscrapers around us shattered as the wave of sound passed over them. Literal tons of glass clattered against the ground, a symphony of sharp, stinging noise rang out.
+
+Yawm turned around, “There’s no more easy cover, yet they remain hidden. Let’s see them avoid this tactic.”
+
+Mana coalesced onto his palms, the emerald green quaking with unbridled violence. Yawm raised his hands and clapped them together, fusing the balls of energy. He clasped the energy in his hand, popping it.
+
+Bolts of lightning shot outwards from his hand. Thick, crackling arcs of electricity flashed across the landscape, coating the area in singe marks. My ears popped several times, and the air smelled like ozone. As his display of might ended, a group appeared in the range of my senses.
+
+A group of four people stood atop a nearby skyscraper. One mirrored Yawm’s height. They others stood a bit shorter. They all wore armor, and their weapons were smooth and made of single pieces. They reminded me of the rings that Schema gave out.
+
+I pointed upwards at the group. Yawm glanced at them. He raised a hand, the air cackling again. The group moved, shifting away from where they were. The area around entire upper half of the skyscraper disintegrated in a blinding flash of light. The miniature sun disappeared, leaving behind destruction in its wake.
+
+I wish I could say I didn’t gasp or gawk at it, but I can't. Around 40% of the skyscraper disappeared. It was like a giant sphere swallowed the building sending that part to a different dimension.
+
+Along the edges of the damage, magma and molten metal dripped like some kind of orange syrup. A dense powder rose above the building. The smell hit me like acid across my face. I closed my mouth into a frown.
+
+Yawm evaporated the rock and steel. Jesus Christ.
+
+Yawm laughed then roared out, a ragged edge in his voice,
+
+“Come. Fight me. Are you all so spineless?”
+
+No one answered. He glanced around,
+
+“Can you sense them?”
+
+I shook my head. Yawm’s tone turned solemn, “They don’t rely on tech, at least they avoid it in a pure sense. Their more flexible in combat then I imagined.”
+
+A repressed joy leaked into his voice, “Good. Very good.”
+
+Yawm charged his mana, “It’s been quite a few years since my last challenge. It appears these members are quite experienced, unlike the last.”
+
+We looked around for a while. Yawm’s eyes narrowed, “They’re hiding frus-”
+
+A fist appeared as it slammed into Yawm's face. Covering the fist, arcane bolts of lightning shot outwards. As the massive hand crashed against Yawm’s temple, another bounty hunter appeared behind me.
+
+An arcane spear ruptured my armor, digging out through my stomach. Silver blood shimmered on the spear as I reached backwards. Event Horizon shot outwards, covering everyone around us. A shrill voice rang out, but the person behind me dug their spear deeper.
+
+I dislocated my arms and hips, latching my hands onto him. A deep, guttural voice rang out,
+
+“What in Schema’s name is this abomination?”
+
+I shot out spikes of my armor, piercing through the suit that covered him. Deafening blows rang out behind me as the bounty hunter stumbled backwards, landing onto the ground. I condensed Overwhelming Presence, my weight pulling him into the ground. The Breaker roared, kicking me off of him.
+
+I flew through the air, the noise of a plane taking off ringing in my ears. The air and ground revolved around my vision. I gained control of my descent, landing on my feet. As I looked ahead, a vision of our enemies came up.
+
+Yawm fought against a massive remnant coated in a iridescent aura. He stood with the same stature as Yawm, but with a denser frame. White, glowing tattoos covered his skin, the markings charged with mana. A braided beard of white came down towards the middle of his chest. He cut his black, combat fatigues at his sleeves, showing muscled arms. I analyzed him.
+
+Korga Ryker, 99% Match
+
+Class: Breaker | Race: remnant | Lvl:12,000 | Legendary Skill: A Mountain’s Wrath | Guild Affiliation: The Wanderer’s Home
+
+Galactic Synopsis: A strong, able Breaker that is heavily involved in intergalactic politics. Focuses on accomplishing dangerous missions for Schema in order to revoke unknown status for Breakers. Risk taker and unafraid of dangerous combat. Well liked and feared among Breakers.
+
+Specialties: Utilizes antimagic strains of genetic manipulation. Enhances combat with runic carving. Expert grappler. Employs the use of arcane magic in the form of auras and to enhance hand to hand combat. Physically imposing. Inspiring leader of many remnants, ranked highly within the ranks of Breakers.
+
+Guild: The Wanderer’s Home | Tier: B -
+
+He looked like a hulking version of what I imagined Kessiah’s dad looked like. As Yawm used his spells against the muscled remnant, they fizzled out on his iridescent aura. This Breaker did his research. You can’t tank Yawm’s attacks. You have to nullify them.
+
+Nullify them he did.
+
+In front of me, a remnant and another alien faced me. I left holes in the suit of the arcane spear holder. The wholes exposed metal beneath his suit. Runic carvings coated certain spots on his body, maring the otherwise mirror like surface. His angular faced looked like mirrors plastered together at angles.
+
+As the bounty hunter breathed, his polished, steel skin shifted like liquid mercury. Beside him, a thin, spindly alien stood in a black skin suit. It covered him from head to toe, except for tinted glass over his face. Two glowing eyes glared from the murky inside, looking just like the enigmatta from way back. I analyzed the metal one.
+
+Brim, 99% Match
+
+Class: Breaker | Race: Kolm | Lvl:10,941 | Legendary Skill: Forger of Divinity | Guild Affiliation: The Wanderer’s Home
+
+Galactic Synopsis: A Breaker with a natural affinity for building. He’s known as an excellent blacksmith that forges with rare, valuable metals. Known for powerful creation magic that allows him to generate utterly unique metals and stones. He uses his skills to fund various operations lead by Korga Ryker.
+
+Specialties: The Kolm are a species composed of living metal, giving Brim a natural sturdiness. Most of his race’s movements are clumsy and slow, outside the dexterity of their hands. Therefore, they utilize polearms primarily, letting them use their flexible, strong wrists for combat. Kolm’s advanced runic carving, excellent weaponry, and basic mastery of arcane magic make him formidable.
+
+In the hands of Brim, he held a spear made from his body. This extension of him ended with an intricate, arcane blade resonating with energy. Before I analyzed the hazmat guy, the thin alien opened his dimensional storage. He reached into the portal, and Brim dashed towards me.
+
+I gathered mana before the metal Breaker reached me. As he did, he stabbed the spear forward. I deflected it with gravity, a swipe of my hand, and by molding my armor. The blade shifted sideways, and I struck his face with a solid right cross.
+
+The ground quaked under the impact, a wave of dirt tearing the road apart. Brim took the blow like a champ, whipping the end of his spear across my chin. It hit me hard, knocking teeth out of my mouth. They clattered against the ground. A sloshing, snapping sound ebbed out too. I breathed out, a torrent of blood coming out of my nostrils.
+
+The fucker broke my nose.
+
+A hit of such magnitude should of have sent me flying, but something weighed me down. My vision blurred, blood leaking into my eyes. Behind Brim, the thin, suited alien clicked on his status. He placed potions onto his mask, clicking them in place. The liquid in the bottles drained then snapped off. They landed on the ground, the glass shattering on the dirt.
+
+Brim erased himself from my senses. I sunk into the ground. A spear jammed through my chest once more. I dashed away, yanking out the spear. Brim followed through the dirt with ease. I shot up into a skyscraper. The ground detonated under Brim’s heels, letting him skyrocket towards me.
+
+I pierced the building behind me. Brim dashed in, but I outmaneuvered him using a burst of mana. Like a living cannonball, I fired myself at the suited alien. I reached him as he pulled out a vial of black, swirling mana. He tossed it down, teleporting him to another place. I landed in the black smoke.
+
+Looking out of it, I took full advantage of their expectation that the smoke would deform me. I analyzed the tiny fuck in a suit.
+
+Frode Favalsieray, 97% Match
+
+Class: Architect | Race: Enigmatta | Lvl: 8,942 | Legendary Skill: Elevated Promethean | Guild Affiliation: The Wanderer’s Home
+
+Galactic Synopsis: Frode is a technical member of a monolith service team. He assists in maintaining several information systems for maintaining the relay of information along the obelisk’s network. With advanced knowledge for maneuvering through Schema’s system, Frode adds value to his team. That doesn’t even include his wealth, tech prowess, and bioengineering capabilities.
+
+Specialties: Using the enigmatta’s curiosity, Frode acts as an information broker, techy, and group organizer for Korga’s guild. He utilizes consumables, tactics during encounters, and gathers information before combat. Stealths the group, learns the landscape, and assists Brim in combat. A jack-of-all-trades.
+
+Over two seconds, I got the gist of who he was - a conniving little shit. Hiding from me, Frode squatted down behind a car. With Force of Nature rearing at full speed, I sunk into the Earth several feet. I drained the black mana around me, Brim gasping in shock. I grinned, dashing towards Frode.
+
+I smashed through the car, grabbing the skinny alien. I wrapped my arms around him, drilling tendrils of armor through his suit. He shouted in a raspy, high voice,
+
+“It eats eldritch. I repeat, it eats eldritch.”
+
+A burst of writhing black mana spawned from the tears in his black suit. The smoky, dense cloud rushed into my helmet. Like someone shoving their hand down your throat, it dashed into my mouth.
+
+A bitter, acrid taste rippled out, making my eyes water. It reminded me of swallow a log of wasabi. An unbelievable itch spread across my skin. It was the kind of itch that made you jump and tear at yourself. Overwhelmed by the sensation, I shot my armor into my own flesh, ripping myself apart.
+
+The wounds only made the sensation worse. I let go of Frode, and I grabbed the sides of my head. It was like a swarm of mosquitoes landed on my skin, feasting on me. I snapped out of my panic, breathing a few times before shaking my head. With a willpower like granite, I suppressed my itching.
+
+Frode scrambled backwards, getting away from me. I stepped forward, but a spear appeared through my neck. A liquid metal swarmed into the wound, spreading down my throat and up my face. I laughed, letting the metal drown me. Well, Brim thought it drowned me.
+
+My own armor, a metal denser and harder than his own, pierced into the invading fluid. Brim roared, a deep, ringing voice that echoed outwards. He grabbed the head of the spear in front of me, ripping it out. He reached up, slicing his own arm off. He left his left arm behind, my armor feasting on it.
+
+He glared at me with a face with no eyes, “This monster is full of surprises Frode. Be ready for more.”
+
+The light, scratchy voice of Frode replied, “Affirmative. Maintain range. Close combat isn’t recommended.”
+
+I shot towards Frode, staying silent. I didn’t have time for one liners. Instead, I used my head. As I reached Frode, I shot sideways away from him. He already reached into his dimensional storage, pulling out a grenade of some sort. It detonated when I would have reached him, releasing a kinetic pulse in front of him.
+
+I dodged it, dashing back towards Yawm. Regrouping took priority. Brim followed, his left arm regenerated already. At the same time, he looked smaller than before, his black bodysuit baggy all of the sudden.
+
+I didn't have time to dwell. I turned forward, glancing towards Yawm and Korga. They fought on the other side of a skyscraper, their blows making the ground crumble. With Hunter of Many, I sensed past the visual obstructions in front of me.
+
+Two people fought against Yawm. Korga battled up close, pressuring Yawm with grabs. The other hovered nearby, using a jetpack for propulsion. Once I crossed a corner, they came into view.
+
+The hovering member was a slender, womanly figure. A black, carbon fiber suit covered her from head to toe. She maneuvered behind Korga with an experienced, casual grace. In one hand, she carried an ornate, silver staff ending in a block of crystallized bismuth. She smothered herself and Korga in the iridescent aura with it.
+
+I sprinted towards her, Brim and Ford gaining on me. I neared them, a clear view of the fight arising. A few details sprung out to me. Something like sweat covered Yawm, dripping from his shoulders and chin. He heaved for breath, his throat wheezing. Cracks littered his bark skin. This fight, it defied all convention.
+
+Yawm wasn't even winning.
+
+He was losing.

@@ -1,0 +1,173 @@
+---
+id: b0bf1080-92ec-5e47-ae05-698357bbbc52
+page-type-slug: story-chapter-royal-road
+title: "123 Eyes of Eldritch"
+slug: 0082-123-eyes-of-eldritch
+partOf: the-new-world
+position: 82
+ownLength: 1551
+unit: words
+ownProgress: 1551
+publishedAt: 2018-05-24
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/218400/123-eyes-of-eldritch"
+royalRoadId: "218400"
+markedReadAt: "2026-06-29T21:23:40.470Z"
+---
+
+I pulled her up, an uneasy chill running up my spine,
+
+“How is it that everyone knows I’m some harbinger?”
+
+The eerie lips on her face grinned. It was like watching a doll smile with teeth made of glass.
+
+“That’s not all I know about you.”
+
+I raised an eyebrow, “What exactly is that supposed to mean?”
+
+She rubbed her lower jaw back and forth, her teeth grating against each other. As they clanked against each other, they sounded like gears churning in her head.
+
+“You ask many questions, don’t you?”
+
+Her answers threw me off. They weren’t normal, and they had a way of unsettling me. Instead of answering with frustration, I waited a second. This wasn’t panning out like I had hoped it would. Before I continued talking, I changed my approach.
+
+I pulled back my helmet revealing my face. I leaned over her, being a head taller as I inspected her,
+
+“And you don’t have any real answers do you?”
+
+She looked towards Yawm. Her smile shattered like a vase dropping on concrete. She turned back towards me, “I see...Are you one of his minions then?”
+
+Yawm stepped up, “No. He’s an equal and a guest. As a guest of my company, I won’t allow you to treat him in a manner unbefitting of him.”
+
+She turned between us, her pale lips quivering. A strange pause passed over us before she nodded at me with a new grin,
+
+“Ohhhh...Things are not as they seem. Deception. Lies.” Her head tilted as she reached out with a hand towards me. The eye on her palm inspected the runes across my armor, “That rune...it reflects an inner strength...and growth, doesn’t it?”
+
+I’m not gonna lie. At this point, I was getting tired of her cryptic bullshit.
+
+I shook my head at her, “I don’t know if she’s going to be useful at this rate. She’s talking like she’s a living riddle, and we don’t have time for it.”
+
+Yawm raised a palm towards me, “Let’s take our time with the puzzle. Throwing it away so soon would be a waste. Remember, we sacrificed a terraforming golem for it.”
+
+Yawm turned towards Amara, his voice hard, “Though your cryptic manner of speaking is doing you no favors.”
+
+Amara laughed. It was carefree and easy on the ears, like hearing a baby giggle. Considering her monstrous appearance, it only unsettled me more.
+
+“You both are more than you appear...I am eldritch, but I can help you both.”
+
+Yawm and I leaned back, then we looked at each other. This was the first time I’d heard an actual eldritch refer to themselves as an eldritch. Normally they spoke of themselves as wolves and us as lambs. Even Baldag-Ruhl didn’t know he was an eldritch. Amara was different. She knew what she was.
+
+She pointed at my forearms, “I can show you more about that then you know. I can explain what eldritch are. I know many things. I’ll give you pieces if you give me what I want in return.”
+
+Yawm spread out his arms, “What exactly is it that you desire?”
+
+Amara tapped her chest, “I want to be free from the hunt.”
+
+Yawm lowered his arms, “The hunt?”
+
+She nodded, “I cannot fight with power like others of my kind. My strength is with knowledge and how I use it. I want to escape it.”
+
+Yawm waved his hand towards the dungeon core, “We’ll discuss this elsewhere. I’ve tired of this place already.”
+
+She walked up to him, her steps slow and steady. There was no thumping of her feet. She was more like a walking twig. At the same time, there was an energy radiating from her. It wasn’t the same as Yawm’s overwhelming bursts of radiation, but it was a steady river of mana.
+
+It reminded me of my own mana generation, though less volatile. My mana was dominion mana and augmentation mana fused together. It gave my magic an explosive, violent kind of feel. Her mana was a stable flow of energy. I was a coming storm with wind and rain and thunder. Hers was a flood.
+
+Even with that kind of mana, Yawm didn’t fear her. He turned his back to her, his confidence absolute. We walked back towards the dungeon core. As we did, Amara turned her head towards me. Instead of tilting her body, her head just swiveled 180 degrees.
+
+I pointed a finger at her, “You know, you’re like a bunch of horror movie cliches smashed together.”
+
+With sickening pops, her arms dislocated, letting her place the back of her hands on her face. Her eyes faced me as she grinned at me,
+
+“You’re body, the flesh, the skin...It’s like nothing I’ve ever seen.”
+
+I frowned, “Do I look tasty or something like that?”
+
+She shook her head, “No. You are living dirt. You are the inanimate given life.”
+
+I rolled my eyes, “Uh-huh. I had other eldritch tell me the same thing.”
+
+Her eyes narrowed, “They tried eating you?”
+
+I nodded, “Yeah. Anyways, what’s the point of the conversation?”
+
+Her grin curled up higher, the unnatural look of her teeth give her a surreal look. I molded my armor back over my face, making my helmet grin.
+
+“Look, I can do a creepy grin too.”
+
+I clamped the armor’s teeth together, “Mine has a bit more bite though.”
+
+She laughed, the childish giggle gushing out of her mouth like music. I squinted my eyes at her in confusion. She just stared at me for a minute before hissing,
+
+“We shall see.”
+
+Yawm was hunched over in front of us, pointing before tapping his chin. He mumbled to himself, trying to organize his thoughts. What for, I didn’t know. A few minutes later and we reached the dungeon core. With the crimson core’s light still brilliant, Yawm placed his hand over it.
+
+He turned towards us, “Is there anything you may have forgotten, Amara?”
+
+She shook her head, “Not at all.”
+
+The ground beneath us shifted, a blank whiteness bleeding out from the core. Yawm turned towards us,
+
+“Whenever I slayed one of Schema’s sentinels, I inspected his spear. I discovered much about the cipher, and using that code, I’ve given myself this ability.”
+
+After a few moments, the pale ice of his fortress and the water of his lake appeared. He turned towards Amara, “I do hope you enjoy the amenities here.”
+
+Amara quit staring at me, her head turning towards him as her arms cracked back into place. I sighed with relief as Yawm gestured a hand towards her. When he did, his ice chairs coalesced from thin air. I sat backwards, finding a chair for me as well.
+
+With rays of light bleeding from the water above, Yawm steepled his fingers, “Now, tell us a bit of your history, if you would.”
+
+Amara tapped the side of her cheek, “History? You mean my past, the before now times?”
+
+Yawm nodded. Amara crossed her arms, as if she were cold, “I was...not like other eldritch. I spoke, as the brightest of our kind does. Unlike the others, I lacked their insatiable hunger.”
+
+She pointed all around us, “It’s different...everything here. From where I came from, things are foggier, less defined. In order to grow, we would feed on the mana surrounding us. Here, however, the mana is all in one place.”
+
+She uncrossed her other arm, shaping a ball on her hands, “Everything is so...solid and dense. The energy here...it’s changed from mana to a solid fabric.”
+
+I raised an eyebrow, “You mean, like...mana into matter?”
+
+Amara nodded. She inspected the room with a hand while staring at me with the other one. Her head remained unmoving,
+
+“There was only mana where we come from. Once here, it’s like staring at endless delicacies. The living pieces have the best, most dense parts.”
+
+Drool leaked out of her mouth. It was gross as fuck.
+
+Yawm leaned onto one hand, “And your telling us that you’re different and you’re not hungry, is that right?”
+
+A trail of her saliva leaked down her robe as she murmured, “That’s right.”
+
+“Riiiiight.”
+
+It was like Yawm was giving her a slow clap with his tone of voice. He leaned towards her, his gaze piercing,
+
+“Assuming that’s true, what makes you so different from them?”
+
+She reached out a hand, her fingers darting back and forth. It was like she was typing on a keyboard. After a second, a blue screen popped up in front of her. Yawm and I leaned forward, both of us curious. I read closer, seeing a character screen for her.
+
+Level 4,744
+
+Strength – 451 | Constitution – 97 | Endurance – 232
+
+Dexterity – 457 | Willpower – 3,173 | Intelligence – 2,897
+
+Charisma – 2,709 | Luck – 1000 | Perception – 46
+
+Health: 3,821/3,821 | Health Regen: 43/min
+
+Mana: 123,765/123,765 | Mana Regen: 460,301/min
+
+Stamina: 5,093/5,093 | Stamina Regen: 62/sec
+
+Legendary Skill: Sentience
+
+Damage Res - 95% | Phys Dam Bonus – 3,955%
+
+Yawm and I turned towards each other again, then back towards Amara. Yawm lifted his hands,
+
+“A status screen...but you’re an eldritch.”
+
+The creepy ass grin just grew on her face as Yawm’s eyes narrowed,
+
+“You...What are you?”
+
+She giggled, “Something that can help you...if you help me.”

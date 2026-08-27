@@ -1,0 +1,179 @@
+---
+id: a9f60858-191a-5029-b362-52eb898a8cb8
+page-type-slug: story-chapter-royal-road
+title: "Chapter 89 – Self-Sustaining Disaster"
+slug: 0089-chapter-89-self-sustaining-disaster
+partOf: the-magpie-and-the-archmage-monster-evo-litrpg
+position: 89
+ownLength: 2019
+unit: words
+publishedAt: 2026-02-25
+link: "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3090266/chapter-89-self-sustaining-disaster"
+royalRoadId: "3090266"
+---
+
+Corruption dungeon? What is that?
+
+Although even without asking, Liora understood that the implications were ominous.
+
+This is merely a theory since I've never seen such a thing before, but I believe our mage friends are trying to create a reliable source of corruption and blightstones.
+
+Why?
+
+Don't ask me. But clearly, blightstones are a crucial part of whatever they are planning, and they need a huge amount of them. If they manage to create a dungeon that constantly spews corrupted creatures instead of regular ones…
+
+Renir didn't need to finish the thought. It would be all sorts of bad. Those mage creeps would get closer to whatever goal they had; the area would be turned into a death dungeon, while likely no regular adventurer party could deal with it.
+
+What would even happen to the surrounding area? Monsters could and did spill out of dungeons if they weren't regularly culled by the adventurers. Could someone else cull these beasts regularly?
+
+Perhaps at the start, the Night King's mages would harvest the monsters for blightstones, but at some point, they would have enough. What would happen then? Corrupted monsters would pour into the world en masse, ready to destroy anything and anyone in their path.
+
+The remaining people in Abylport would be slaughtered, and then likely the whole nearby region would turn into hell on whatever this planet was called.
+
+We can't let them do this.
+
+No, absolutely not. Let's go back to Morgana. Explain to her as much as you can.
+
+Liora headed back, explaining the situation and Renir's theory to Cee first. She could feel the spider shiver at the horrors that were likely to unfold if this plan of theirs succeeded.
+
+"I really, really don't want to get involved in all this, but if this becomes a national-level catastrophe if not stopped… I mean, anyone who can help and has half a conscience should help," Cee muttered.
+
+"It's a good thing we're not alone…" Liora noted.
+
+"Good luck explaining this to our happy crew."
+
+Liora wanted to sigh. Good luck indeed. Somehow, she had to explain the situation to Morgana without arousing any suspicions towards herself. Easier said than done when the stakes were so high.
+
+Morgana and her crew were gathered at the beach, and a bunch of charred fishmen corpses were around them while a barrier held the incoming horde at bay. Liora instantly rained down her Winds of Purification to give them a chance to breathe.
+
+"Our holy bird returns!" One of the adventurers called, taking a deep breath.
+
+"For a holy bird, it sure looks quite unholy," another noted.
+
+"Is that a spider on its back?" one of the women asked fearfully, pointing at Cee's cocoon.
+
+"Pipe down, you cowards. The spider has been here the whole time. It just never showed itself," Morgana barked, then turned to Liora. "So tell us what you see from the skies. Did you find the boss monsters?"
+
+Liora shook her head. "There's a giant hole in the middle of the island. Lots of monsters are pouring out of it."
+
+"Monsters pouring out of the hole?" One of the crew gasped.
+
+"That almost sounds like a dungeon in the making," Another concluded.
+
+Liora was glad that they got the gist so quickly.
+
+Morgana clicked her tongue in annoyance. "Dungeon with all this miasma going around? Damn, if that's the case, then some powerful mage must be behind all this."
+
+"Captain, what do we do?" The mage asked nervously. "These monsters aren't strong. I'm barely losing any mana while keeping them at bay, but even so… If it really is a mage in the middle of creating the dungeon, then we'll have to descend into the hole and find both the mage and his chosen dungeon master, which I assume is the skinweaver."
+
+"We do exactly what we came here to do. To get rid of the fucking fog. If it means we have to kill a crazy mage in the process, so be it!" Morgana announced.
+
+Adventurers, taken by her enthusiasm and bravado, cheered in response.
+
+The mage, however, scuttled closer to the woman. "Captain, whoever is capable of creating a dungeon on their own must be an incredibly powerful mage. More likely, it is a group of mages, which makes them equally dangerous. Perhaps we need to hire more help?"
+
+"More help? We already got more help right over there," Morgana said, pointing at Liora and Morgana.
+
+"The bird and the spider?"
+
+"You saw what that sneaky bird can do. I imagine the spider has some powerful tricks up its sleeve, or I suppose, legs."
+
+"Can we even trust monsters?" Mage asked, then shook his head. "It frankly doesn't matter. Even if those two are fully trustworthy, what I'm saying is that we need more help. A proper holy mage to get rid of all this fog and what corruption we'll have to face next."
+
+"Are you telling me to run?" Morgana narrowed her eyes and leaned closer to the mage.
+
+"No! No! I would never suggest that!" The mage shook his head fervently, while the other adventurers sighed.
+
+"He ruined everything now…" an older adventurer with a lance said.
+
+"It was nice knowing you guys," a woman archer noted, resigned to her fate.
+
+"I will never run!" Morgana bellowed. "We are heading to the center of the island. Bird, lead us!"
+
+With the ferocity Morgana was exuding, Liora didn't dare to disobey and instead took flight, ready to lead the crew.
+
+She still hasn't changed. It's this exact thing that always leads her to her death. Liora, you'll likely have to save this idiot.
+
+I'll be too busy keeping myself alive. Don't put such a huge task on my wings when I already have to take care of Cee.
+
+Yeah, I know, but I'm quite worried. When Morgana gets like this, it spells nothing but trouble. Be sure to lead them along the safest path.
+
+I would, if there even was a safe path to follow.
+
+Valid point…
+
+Nonetheless, Liora did her best to lead the crew along the path of least resistance. There were lots of monsters everywhere. Thanks to her Guild Ring, Liora was able to assess where monsters were the weakest. Technically, they were all weak because all of their names were green.
+
+It meant that they weren't a threat to Liora, and they most certainly weren't a threat to the crew. In fact, they were so weak that even a Poison Shot from Cee was enough to kill them in one shot. It was like killing helpless prey, not fun in the slightest, and left a nasty aftertaste.
+
+Liora didn't fight them. Her main task was to suck up all the mana she could from the dead beasts and keep the air purified around the crew. The deeper they ventured, the thicker the miasma got. It would be impossible for them to proceed without her purification.
+
+Even with the necklace constantly equipped, Liora was just barely able to keep up the mana cost of Winds of Purification to create safe pockets for Morgana and her adventurers.
+
+"These monsters are more annoying than anything. It was like a swarm of mosquitoes. Their only strength was their numbers," Morgana complained.
+
+She felt mostly useless during the fight against the swarm. Morgana's specialty was dealing a huge amount of damage on a single target and didn't have any skills that would cover a wide area. Thankfully, the mage and other crew members made up for that, killing the monsters with their large area skills.
+
+Liora was surprised to see that even physical fighters could effectively deal with many enemies at once. One from the crew, a large man with an even larger sword, was swinging in a wide arc as if he were holding a scythe with which he cut down fishpeople like grass.
+
+An archer of the group had amazing skills that rained arrows down from the sky in hundreds. Liora made sure to fly low and close to the group, not to get caught by any of them. Even with her Aerial Agility, it was highly unlikely that she would be able to dodge them all.
+
+At this pace, they slowly crept closer to the center of the island. Thankfully, the island wasn't too large, and soon enough, their group stood right by the entrance, monsters spewing in every direction.
+
+The creatures were so confused that most didn't even attack them. They just tried desperately to get away from the hole, occasionally attacking each other to get ahead faster. In fact, there was already a good deal of fishmen's corpses lying around, stinking up the whole place.
+
+"We're going in!" Morgana announced, holding her nose, squeezed shut.
+
+"Captain, are you sure?" One of the adventurers asked.
+
+"Would you rather stay outside with these guys?" Morgana shot back, gesturing to the corpses.
+
+"No, Captain!"
+
+"Then we're going in! Be ready for anything, including traps and ambushes. Bird, you go first!"
+
+Why do I have to go first?
+
+Probably because she doesn't trust you.
+
+How nice!
+
+Liora had no intention of being bait, so she Faded and flew down into the hole without any monsters even being able to see her. Conveniently enough, Cee, who was still on her back, disappeared along with her, and the two of them descended into the pit.
+
+The design within it was strange. It had circular pathways connected to various cave openings. Most of which had monsters pouring out of them and crawling up to the surface. But some at the very bottom were empty and undisturbed. This was likely where they had to go to get answers.
+
+"Chak-chak-chak!" Liora signalled once she had reached one of the bottom openings. As far as she could, and she could see quite far, there was nothing in there.
+
+However, there was a distinct difference between the three monster-free openings. One had a light at the end of it, suggesting human activity. One was spewing out the sickly miasma like some corruption factory. The last one was just a dark tunnel, but Liora's bird instincts were screaming at her to stay away from it. It was likely where the skinweaver was.
+
+Before long, Morgana and her crew also reached the bottom, coughing and wheezing from the miasma. Liora did a small Winds of Purification, using the least amount possible for the spell. The purified bubble was rather small, making everyone squeeze tightly together, but at least they could breathe.
+
+"These three openings seem to be monster-free. Any thoughts on where to go?" Morgana asked.
+
+Liora flew over to the dark tunnel. "This tunnel has a monster."
+
+Then she flew over to the tunnel with light. "This tunnel has people."
+
+Everyone fell into thought.
+
+"Which one do we kill first… Frankly, I'd like to get rid of that blasted fog. We can barely do anything with it around," Morgana complained.
+
+"Captain, I suggest going after the mages first," the mage of the group suggested. "They are likely the ones to blame for the fog, and by disposing of them, we would prevent the dungeon from being formed."
+
+"Isn't the dungeon master more important? Without it, the dungeon cannot be formed in the first place," the man with the giant sword said. "I say we get rid of the beast first."
+
+"If we get rid of the people, we might not even need to fight the beast," the mage argued.
+
+"If we get rid of the monster, we might not need to fight the people," the swordsman argued.
+
+"No, we'll have to find the ones behind all this anyway," the mage argued.
+
+"What if the mages summon the monster? Then we'll have to fight them both. No, we need to kill the monster first."
+
+Oh, great, they're fighting…
+
+At this rate, the mages and the monster both will hear them, and we'll have to fight them both here in the miasma.
+
+Lovely.
+
+Suddenly, Liora noticed a distinct lack of something. She turned around and saw that the cocoon on her back, where Cee usually sat, was empty. Where did the spider go?

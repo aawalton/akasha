@@ -1,0 +1,189 @@
+---
+id: 93e8c1e2-e345-57f2-876f-e8e3084b803f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 55 – Forest Beneath the Stone"
+slug: 0055-chapter-55-forest-beneath-the-stone
+partOf: the-magpie-and-the-archmage-monster-evo-litrpg
+position: 55
+ownLength: 1941
+unit: words
+publishedAt: 2025-12-01
+link: "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2808033/chapter-55-forest-beneath-the-stone"
+royalRoadId: "2808033"
+---
+
+My trustworthy map tells me where Area F is.
+
+Liora, along with Serena, Kalen, and Kiva, stood in the dungeon crossroads (if they can be called that). Serena was holding the map, trying to understand which path to take to reach Area F.
+
+I think you need to take the path to the left.
+
+You think?
+
+It's been a while since I've been here. I need a bit of time to recall the right way.
+
+That is the right way. Right?
+
+I'm like 80% certain it is.
+
+Liora didn't like the odds of that. If Serena and others got lost in the dungeon, then they might run into dangerous monsters, which could end their lives in one swipe. Liora didn't relish the idea of getting lost in the dungeon either, although her Fade and Shadow Glide could at least protect her from being seen. In most cases, at least.
+
+But what choice did she have but to trust Renir? She flew over to the path he indicated, showing it to Serena.
+
+"You think it's that way?" The green-haired woman asked, looking at the path and then peering into the map.
+
+"I say we follow her. She didn't lead us astray last time," Kiva said with a shrug, not at all worried.
+
+"Yes, I suppose we should trust Liora," Serena nodded and folded the map.
+
+No, no. Don't fold the map! I don't trust this wizard!
+
+Hey! When have I ever been wrong? Also, I am not a wizard. I'm an archmage, one of the nine pillars—
+
+Renir went on one of his pride-defending rants again, but Liora ignored him, instead flying over to Serena and tugging gently at the map.
+
+"You're not sure?" Serena asked.
+
+"Not sure," Liora confirmed.
+
+"We can't expect her to know every nook and cranny of this giant dungeon. Besides, doesn't it change over time?" Kalen noted.
+
+"That's what I heard. A dungeon might become completely unrecognizable in a few years. It all depends on the whims of the dungeon master," Kiva said thoughtfully.
+
+"Let's keep the map open then. Just in case," Serena nodded, reopening the map.
+
+They followed the path Renir had indicated, with Liora scouting ahead of the group by some distance.
+
+Shift to Area F should be much more drastic. It isn't like a collection of tunnels, but instead one giant area. I think you need to take a right at the next intersection. The left one should lead to Area C.
+
+Liora flew over to Serena to check the map. Serena pointed out the path they were on, and it seemed like they were following the right road. The group turned left, advancing slowly. Everything appeared quiet, but the cave tunnel was growing increasingly more moist.
+
+"Can you smell that?" Kiva suddenly said, sniffing the air.
+
+"Smell what?" Kalen asked, also sniffing the air. "I don't smell anything. Besides dirt."
+
+"No, not dirt. I smell pines," weasel girl clarified.
+
+"How could there be pines in an underground dungeon?" Serena asked.
+
+I don't smell anything…
+
+That's because you're a bird. But thanks to Kiva, I'm sure that this is the right path. Hehe, to think that even after decades, I'm able to navigate this dungeon. I'm amazing, aren't I?
+
+Sure, sure…
+
+They kept going further, but then Kiva's ears flattened to her head in a clear sign of displeasure. "That smells wrong."
+
+Liora couldn't smell anything, but she too felt the same wrongness. It was the exact same feeling she had felt in Blightpeak. There was a heavy sense of the air itself being poisoned. Although she supposed that it was actually mana that was poisoned, not the air.
+
+"It… It feels wrong. I felt it once before. When we got separated from Liora," Serena said.
+
+"Wrong or not, we have to keep going and find that cave badger. I don't know about you two, but my back is killing me after sleeping in that atrocious bed for so long. I swear, a stack of hay is comfortable by comparison."
+
+Serena and Kiva nodded, rubbing at their lower backs. Liora didn't quite understand their plight, but she didn't like the tiny rooms either. Theoretically, they should be suitable for her, but they reminded her too much of the old watchtower. Sometimes she would even wake thinking of pigeons. And of Christie.
+
+They continued until they finally reached what was, without a doubt, Area F. Liora's breath hitched as she looked at what could only be described as a forest. Underground. But trees were growing everywhere, along with various thick shrubbery. Even the cave ceiling seemed to retreat to make more space for the plant life below.
+
+However, it wasn't exactly like an aboveground forest. The trees looked like pines and spruces, and even Liora could faintly smell the signature pine smell. However, their needles were a bioluminescent blue and turquoise color. There were some trees in the mix with a faint silvery glow.
+
+The most unpleasant thing was the faint miasma fog lingering on the forest floor. It was nowhere near as thick as it had been on Blightpeak. The trees also mostly looked healthy and didn't have a decayed look. But it was clear to Liora that it was only a matter of time before they became the same as the ones on Blightpeak.
+
+This area is corrupted.
+
+Without a doubt. And it appears that the corruption is relatively recent.
+
+Liora had to wonder how recent it could be. Blightpeak had been corrupted for decades. How long had it taken for the trees to reach the horrible state of decay? A month? A year? A decade? Liora didn't know. But she did know that she wouldn't let the blight spread here. She would find the source and purify it.
+
+"So we have to find a cave badger? I wonder how large this place is…" Kalen said, looking into the darkness.
+
+Liora realized that these three couldn't see the true scope of the underground forest with their limited eyesight. She, however, could see that the forest did have an ending. The area was huge, easily several kilometers in diameter. But for Liora, it was a small distance. She did not doubt that she would find the cave badger without much issue.
+
+"Not big," Liora announced, perching on Serena's shoulder.
+
+"Not big? That's a relief," Serena said.
+
+"You think you can find that badger?" Kiva asked.
+
+"Can find!" Liora confirmed
+
+"I almost feel like we're cheating by having Liora. She can see in the dark and fly over the forest to find whatever we need. Other parties don't have such an advantage," Serena said.
+
+"That's on them. They should find their own monster magpie," Kiva retorted, puffing out her chest.
+
+"Liora. Not. Monster!" She objected with an angry caw.
+
+"Don't get mad! It's a compliment. You're awesome," the weasel girl said and ruffled her head feathers.
+
+Serena smoothed out Liora's messed-up feathers, shaking her head at Kiva. "Don't call her a monster. Liora doesn't like that."
+
+"She is a monster, though, and there's nothing wrong with that. Not all monsters are bad," Kalen shrugged. "Maybe she's going to become a guardian later on, and this is her journey to achieve that."
+
+"That would make sense. Guardians are very intelligent, but they can't just appear out of nowhere," Serena hummed.
+
+Could that really be it? I was born to become a guardian?
+
+No, I doubt it. Guardians stick to their region since the day they are born. They don't generally travel. Besides, they weren't humans from another world before. You're some sort of anomaly.
+
+Thank you for the encouraging words…
+
+Don't get all mopey on me. I'm a human stuck in a rock. I think you got the better end of the deal.
+
+Shouldn't have gotten drunk.
+
+I don't think I'll ever be able to look at alcohol once I return to my body.
+
+Liora noted that he said "once" he returned to his body, not "if" he returned to his body. Did he really have so much faith in her? She hasn't even found that Pulse Stone yet. Perhaps, she was looking too deeply into what was a casual remark.
+
+"Liora, if you become a guardian one day, you mustn't forget us," Kalen said jokingly.
+
+"Chak-chak-chak!" Liora responded. "Only if you share your breakfast omelet tomorrow."
+
+"Okay, okay, enough theorizing. We need to find that cave badger and advance our rank. Liora, scout ahead," Kiva said.
+
+Liora didn't particularly want to listen to Kiva, but Serena gave Liora a pleading look. She nodded and took flight, surveying the forest beneath.
+
+There were plenty of monsters there: giant beetles, weird deer with six legs and four eyes, sneaky lynx-like creatures that had pine-like fur. There were also a few groups of green little humanoids that violently attacked anything within sight. Renir explained that those were goblins—similarly to kobolds, their strength came from their numbers. Except goblins had a much nastier temper than kobolds.
+
+However, the one thing she was looking for, Liora couldn't find. Nowhere did she see anything that would resemble a badger. While there hadn't been any badgers in her forest, she remembered from her human life what they should look like. Perhaps they were hiding beneath the tree roots, and that's why Liora didn't see them.
+
+But once Liora reached the far end of the forest, she realized that finding the cave badger wasn't the problem. The problem would be defeating it because this was by no means a normal badger. It was massive—easily the size of a bear. It had claws as large as Liora in her Magpie Disguise, and its fur appeared to be made from bark-like bristles, which no doubt served as powerful defense.
+
+Please tell me that there is a different badger…
+
+No, this is most definitely a cave badger. I had hoped to never meet one again.
+
+The fact that even Renir, the archmage who burned every enemy to a crisp within a second, sounded so concerned made Liora wonder if Serena's group even stood a chance against it. Could Liora even defeat it? Her instincts were screaming that she should stay as far away from it as possible.
+
+How do we even fight it? Can we even fight it?
+
+There is a way to defeat it.
+
+Really? How?
+
+You need to discover it yourself.
+
+What?! Hey, aren't we in this together? You need that Pulse Stone, don't you?
+
+Yes, but I don't need you to defeat the badger or advance your Guild rank. It'd be cheating if I told you how to do it.
+
+What if that thing kills me?
+
+No, it won't. These badgers only fight those whom they consider worthy. Even the dungeon master can't influence that aspect.
+
+It was a relief to know that the badger wouldn't try to kill them. But she still felt peeved that Renir refused to help in this particular instance.
+
+Maybe I shouldn't search for that Pulse Stone at all.
+
+Don't be like that, Liora! I have all the confidence that you'll figure out how to defeat the badger. You're smart!
+
+Yeah! I'm smart!
+
+You're incredible!
+
+Yeah!
+
+You can do it!
+
+Liora felt pleased by the compliments. That's right! She didn't need his help to defeat the badger. They'll figure out something together with Serena, Kalen, and Kiva.
+
+But their current problem wasn't the badger. The current problem was getting to it while avoiding other monsters in the dungeon. After all, what was the point of worrying about the badger if they could get overrun by a horde of goblins? Not to mention the unmistakable taint that lingered in the air. They would undoubtedly encounter a corrupted monster.

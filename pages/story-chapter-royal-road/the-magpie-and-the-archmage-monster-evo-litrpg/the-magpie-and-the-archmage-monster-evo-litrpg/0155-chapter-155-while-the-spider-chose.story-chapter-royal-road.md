@@ -1,0 +1,149 @@
+---
+id: ca7702cb-cfd0-533a-8bc5-6a4a5fe0895e
+page-type-slug: story-chapter-royal-road
+title: "Chapter 155 – While the Spider Chose"
+slug: 0155-chapter-155-while-the-spider-chose
+partOf: the-magpie-and-the-archmage-monster-evo-litrpg
+position: 155
+ownLength: 1954
+unit: words
+publishedAt: 2026-08-03
+link: "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3762121/chapter-155-while-the-spider-chose"
+royalRoadId: "3762121"
+---
+
+That bastard!
+
+Had he been waiting for Liora to tire out before deciding to step in to mess with her? Or did he decide to intervene because Liora was close to purifying all of them?
+
+In either case, he was a nuisance. She could only thank that there was so much water between them that made dodging his beams all the easier for her. But she was tired, and she wasn't alone. The magic beams could hit the merfolk just as easily.
+
+"Watch the surface above to avoid the magic beams. Do not get hit by one!" Liora called out to the merfolk.
+
+"Do you know what it is?" Dolphar asked.
+
+"Unfortunately, I do. It's the man who used to be my master," Liora said. Might as well play along with the lie that Renir made up.
+
+"To think that he would chase you all the way to these depths…" Dolphar noted, weaving out of the way of an incoming beam.
+
+"I don't think he is deliberately chasing me in this case. He was involved with the matters of corruption," Liora said.
+
+"Is that how you know to purify it?"
+
+Liora thought about it for a moment, then nodded. It certainly would make more sense if she said that she was created to deal with corruption, rather than her just accidentally evolving to counter it.
+
+"Are we glad to have you on our side, Miss Bird!" One of the other merfolk said, then glared daggers at the man on the surface, although he likely couldn't even see him. "Should we attack him so you could purify the last stone slab without interference?"
+
+"Do not get close to him! You will be killed! The sea is the only thing protecting us from him right now," Liora said. "We should focus on purifying the last stone slab as soon as possible!"
+
+Liora was worried that the overpowered mage might just figure out a way to safely dive down to their depth using magic. It likely wasn't easy, seeing that Renir didn't even know about the existence of the merfolk cities.
+
+But one would need a way to constantly replenish their oxygen reserves and endure the pressure that would come with the depth. Frankly, it was a surprise that Liora, Cee and Smokey all could endure the pressure. Maybe it was due to their monster physiology.
+
+Wyverns, in general, were very tough thanks to their scales. Cee had a strong exoskeleton that likely protected her from the pressure. Maybe. As for Liora, she attributed it to Fluid Flight.
+
+"Let's hurry!" Liora said and swam towards the last stone slab, escorted by her retinue of merfolk.
+
+However, getting to the corrupted thing was much harder than before. Not only were the corrupted sea creatures concentrating their attacks with only one slab left to defend, but Lucien was also shooting his magic beams into the water. While they were nowhere near as precise as they had been above water, they still interfered with Liora and merfolk.
+
+Liora was already tired, so dealing with the monsters and the magic beams and trying to get to the stone slab was far from easy. Lucien's beam had an annoying tendency to appear exactly where Liora wanted to go.
+
+"Argh! I'm sick of this! Try to stop this!" Liora exclaimed and used Winds of Purification to purify everything in the nearby area.
+
+It purified a good deal of sea creatures, but it wasn't enough to fully purify the nasty slab. It vibrated viciously, sending dark ripples through the water. Lucien seemed to have somehow noticed this as more beams than ever rained down from above, nearly covering the slab like a curtain.
+
+"As if I need to get close to it," Liora hissed.
+
+She had barely any mana left, despite the many potions the merfolk had provided her with. Frankly, she doubted she could drink another one even if she wanted to. It had become increasingly difficult to swallow them. As if drinking too many potions was somehow repulsive for her body.
+
+Maybe it was a sort of defense mechanism to protect her body from overusing the stuff. Nonetheless, this last shot was all she needed. She focused her gaze on the stone slab and launched Holy Light at it, as strong as she could muster.
+
+As it collided with the slab, it burst into tiny pieces, and the remainder of the corrupted sea creatures regained their senses.
+
+"Y-You did it!" Dolphar cheered as did all the other merfolk around Liora.
+
+"Take that, Lucien!" Liora announced proudly.
+
+But all of a sudden, her body was seized by some kind of invisible force. One moment, she was underwater, but the next, she was above it. She recognized this feeling. It was teleportation.
+
+"Hello, pretty birdie!" Lucien said with a delighted smile on his face. "You are quite tough, aren't you? It took me a while to pinpoint your location with how much you were moving about. But now that I have you, I will not let you go."
+
+That was the last thing Liora remembered before the world went dark.
+
+Cee could barely withhold her delight. It was time for her evolution! She was so excited to finally look at the options. She had been holding herself back from looking at them until now, knowing that if she saw something she liked, she wouldn't be able to hold herself back from evolving.
+
+But there wasn't a good time. They've been chased by that stupid, evil mage, and then forced underwater and into this dungeon, which was now Cee's sanctuary. She had laid every spot possible in the oasis with her webs to make sure that nothing would be able to get to her, Renir, or Smokey while she evolved.
+
+"Okay, Smokey, I'm going to evolve now. I might be asleep for a long time, so you're going to have to remain on your own for a little while. Can you do that?"
+
+Smokey just cocked his head derpilly, likely not understanding the meaning of her words.
+
+"Stay here!" Cee said, pointing at a small area she made for Smokey. It was basically like a toddler's playpen. There was a high wall made of non-sticky webbing to deter Smokey from leaving.
+
+He obviously could climb over it if he really wanted to, but Cee hoped that with her Pet Skill at [Expert] level, she would be able to convey her order clearly enough to Smokey.
+
+She also placed things inside the playpen so Smokey wouldn't be so bored. It was mostly food hidden underneath rocks, branches, or little web puzzles Cee had constructed. This would also ensure that the little glutton wouldn't eat all of his food at once.
+
+Cee deliberately made some food more difficult to access, so Smokey should be plenty busy while she was evolving. With that done, Cee herself settled into a special cocoon right above Smokey's playpen, so the wyvernling could see her. There were so many webs around there, though, that no monsters, not even a flying one like Liora, should be able to get to her.
+
+Just in case somebody did manage to get through, Cee had placed a few sigils around her cocoon. Should anyone step on them, they would detonate and send them flying. If they could even survive the blast.
+
+"Okay, okay, time to check those options!" Cee squealed with delight.
+
+"You sure you don't need help choosing?" Renir called from his cocoon, which was hidden in a palm tree some distance away from Cee.
+
+"Yes, I am sure!" Cee retorted and brought up the evolution menu.
+
+[You can choose from one of the following three evolution options.]
+
+[Runesilk Matriarch]
+
+[This spider has mastered the art of weaving magic in its silk. It can not only craft mere sigils, but also turn them into intricate rituals, anchor barriers, traps, and spell formations. Every thread within its web fortress serves as a part of a greater design.]
+
+[Glimmerstone cost: 60]
+
+It was clear why the system offered Cee this option. It was an obvious upgrade to her current evolution. More powerful magic of her webs, as well as the focus on the defensive abilities of the thread. It was a good option.
+
+But this isn't what Cee wanted. Sure, more magical webs sounded awesome, but she would just be a bigger spider. Unlike Liora, Cee wanted to become more human, so she dismissed this option and turned to the next one.
+
+[Sigil Arachne]
+
+[This rare species of arachne possesses a humanoid upper body, which it uses to lure unsuspecting prey into its deadly web. Unlike regular arachne, sigil arachne is a master at weaving magic into her webs to create sigils and rituals.]
+
+[Glimmerstone cost: 120]
+
+Yes, yes, yes! This is exactly what I want! An arachne evolution. I want it, I want it!
+
+The cost was high, but since Liora had been beating monsters of this dungeon and bringing Cee half of the glimmerstones she got, Cee had plenty.
+
+She was pretty sure that she would take this evolution, but out of curiosity, decided to take a look at the last option.
+
+[Abyssal Sigilweaver]
+
+[A spider adapted to life in the sea depths. Its silk is able to retain its properties even underwater, thus this spider is able to construct underwater traps, lures, and protective web fortresses with ease. Gains high affinity to water magic.
+
+It is said that this spider walks the first step toward Divinity.]
+
+[Price: Divine Glimmercore]
+
+Cee couldn't believe her eyes. It was a good thing she didn't have a human mouth otherwise, her jaw would have dropped to the ground. This evolution used the Divine Glimmercore as a price. Did that mean that she could eventually become a Divine if she followed this evolution path? No way!
+
+This was unfair. Cee had made up her mind. She wanted to become an arachne. She wanted to become more human. At least half humanoid. But here she was presented with the option of basically taking a path to godhood. All because she had that Divine glimmercore in her Inventory.
+
+"What do I do? What do I do?" Cee paced around the cocoon, clutching at her head with her front legs.
+
+"Do you need help choosing?" Renir called.
+
+It was tempting to ask for the mage's advice. Renir was very knowledgeable after all. But Cee had this strong suspicion that Renir wouldn't want her to take the Abyssal Sigilweaver evolution. Seeing that the glimmercore provided the user with a powerful evolution, Renir would try to convince Cee not to take it and give the option to Liora instead.
+
+Perhaps Liora deserved the option more than Cee. She was their main fighter, risking life and limb to protect them all. Even now, Liora was fighting to help the merfolk purify the ocean.
+
+But if Cee took this option, she would be able to help Liora. She would be able to move underwater, and best of all, her webs would work underwater too.
+
+There was selfishness to this decision, Cee knew that. It was never within their plans to actually use the glimmercore. It was something they should be deciding together since they obtained it together. But if Cee used up the glimmercore for her evolution, it would disappear, and that would be one less thing the mages could use to track them with.
+
+Before long, arachne wasn't even an option in Cee's mind. She wanted to take this evolution that promised divinity. She also had a strong suspicion that if she could truly later evolve into a Divine, then it would present her with a more humanoid appearance.
+
+"I am evolving!" Cee announced loudly for Renir and Smokey to hear.
+
+Evolve into Abyssal Sigilweaver!

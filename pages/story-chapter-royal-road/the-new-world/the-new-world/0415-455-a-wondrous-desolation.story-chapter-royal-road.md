@@ -1,0 +1,547 @@
+---
+id: 03d8972e-3758-5254-8b1b-8ccf559c0efb
+page-type-slug: story-chapter-royal-road
+title: "455 A Wondrous Desolation"
+slug: 0415-455-a-wondrous-desolation
+partOf: the-new-world
+position: 415
+ownLength: 4695
+unit: words
+ownProgress: 4695
+publishedAt: 2025-07-28
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2471879/455-a-wondrous-desolation"
+royalRoadId: "2471879"
+markedReadAt: "2026-06-29T21:35:37.522Z"
+---
+
+Hod and Chrona glared at each other before they dove at the whale. Chrona wielded time. Hod wielded the shadows. They both cleaved each other's respective sorceries into ribbons as they crossed the few meters to the whale. It diced into many fragments, awash in energies and manas it couldn't hope to withstand.
+
+The whale exploded. Blood, guts, and viscera splattered over me and Amara. Amara hissed.
+
+"And you have chosen these two to accompany you?"
+
+The blood soaked into my skin, and I shrugged.
+
+"At least it'll be interesting."
+
+Chapter Begin
+
+We landed in Springfield, the town still bustling with activity. Moments later, we all filed into the largest warp in the city. It was a large half-sphere of glass that floated over the central glass hub, many enchantments crisscrossing the lower half. Dappling lights danced across it, and the theme changed from oceanic to a desert, complete with holographic sand, cacti, and rolling dunes.
+
+The enormity of warp stemmed from necessity - gialgathens dwarfed the size of most sentient species. The sheer bulk of this unit would've helped me out before I'd learned to alter my size as well. It was yet another reason to keep hauling around my pocket dimensions. We floated or flew over towards it and landed atop the gravitationally hovering platform.
+
+An eltari set of twins peered at us, their dapper vests reminding me of Joshua's bar attire. I really needed to talk to him after this was all over.
+
+Either way, the ionized mist splashed over us, no walls enclosing us from all sides. The smell and sensation were nostalgic at this point, and we crossed many sets of stars before arriving in a large steel room.
+
+The set of shuttle doors opened, and we walked onto a barren planet. White stone stretched out in all directions with crimson streaks tracing the endless alabaster. Heated air miraged off the surface, blurring everything around us. It was somewhere around 80 Celcius, and the air was as dry as cracking mud and good gin.
+
+I raised a hand.
+
+"So, if I'm getting this right, we're meeting with a luminari portalist?"
+
+Chrona walked out of the metal capsule, the barren town beside us being half her height.
+
+"It would seem so. From what I've gathered, Helios and Plazia are far too busy to be our chauffeurs. We'll need to lean on a few of the political connections we've made over the years. Therefore, this meetup."
+
+Atop each building, colossal, circular metal dishes spread outward. They dwarfed everything else, even far out to the flat horizon.
+
+I scratched my head.
+
+"The luminari, hm. I've read the reports since they landed on Earth, but they weren't exactly brimming with detail. How have they held up?"
+
+Hod stared at the sun, his form serene and striking. Taking a step forward, he tripped and fell down the metal staircase leading out of the warp drive. Hod pulled himself up and spit out dirt.
+
+"Hod-Gahhhck. Hod think they do ok. Hod not see many."
+
+Chrona breathed in the strange atmosphere, tasting it with her tongue.
+
+"It's why we're here. This is another planet in the Blegara solar system. It was an unclaimed and uninhabited world. The luminari scoped it out after losing the war with Elysium."
+
+I peered around at only a few buildings off in the distance. To me, this world still looked uninhabited.
+
+"Ah man, they lost the war even with my golems? Damn. I should've made more."
+
+Chrona let out a laugh.
+
+"It is only reasonable they lost. You've fought in wars before, and you put the stipulation on them that they couldn't kill their enemies. It didn't take long before Elysium uncovered that fact and changed their tactics. They used only the, ah, molerats, as you called them, for their battles."
+
+Hod raised a winged hand.
+
+"Hod recall name. Xylojakovichianoradonitises."
+
+We stood still and stared at him. Hod shrugged.
+
+"Hod keep telling people Hod smart. People wise up one day-"
+
+Hod slammed into a metal pole connected to one of the few buildings around us. Chrona and I laughed while Amara let out a low growl. Chrona let out a contented sigh.
+
+"It is not all lost. Like us, the luminari have risen from the ashes of a fallen society, and they lost far fewer of their kin than we have. In that regard, your golems acted as saviors, allowing them to escape the imposed tyranny of Elysium."
+
+I bit my cheek.
+
+"Well, until we find them, that's about all we can do."
+
+Hod pulled himself from the pole.
+
+"Hod...Hod want sit down. Planet mad at Hod."
+
+I smiled his way.
+
+"Not yet, buddy."
+
+The metal pole Hod walked into was a supporting archway. They were reinforcing each building, and they held up the enormous circular saucers rising from them. The largest of these metal basins rivaled the Egyptian pyramids but flipped into the air and upside down.
+
+They were like bright satellite dishes. We walked past them, finding no one in the buildings underneath. At certain angles, I could see the inside of the enormous saucers. Within, thousands of mirrors reflected light downward. They funneled the energy like colossal magnifying glasses, and the energy collected into tunnels leading to the ground below.
+
+It looked like some kind of solar power, though I couldn't make heads or tails of why they used mirrors instead of solar panels. Searching for answers, I extended my sense of gravitation. Below, the weights of objects shifted around in mass. It was strange. Life on Earth wouldn't survive here, yet the luminari chose this place as a new homeworld after losing to Elysium.
+
+Florence had brokered an agreement similar to the albony, and the environment of the nameless world was like Venus if it didn't have a runaway greenhouse effect. So far, it was hot but not oppressive. It was still barren of all life, but for some reason, the luminari salivated at the prospect of settling here.
+
+Why? Well, that's part of why we visited. I pointed around us.
+
+"From the looks of it, this is a solar farm of some kind. Below us, they're all moving around, kind of like ants in a hive."
+
+Amara already sweat from the heat.
+
+"Why in the world would they choose this purgatory to live in? There's no prey to devour or water to drink. There's hardly air to breathe."
+
+Chrona walked in comfort, her durable body coated in mist magic.
+
+"They likely don't need it to survive. On Giess, we knew of elementals that could sustain themselves off the energy of the universe. These luminari might be the same but more sentient. Sapient. Er, enlightened? Whatever you want to call it."
+
+Hod jumped into the air, flying over one of the giant magnifying metal dishes and into the heated locus. He dove down through the middle of the mirrors before catching fire. He swooped around the bottom of the structure before phasing through the tunnel as a ball of shadows.
+
+He landed, those same shadows swallowing the raging flames. Soot covered him from being scorched, but he stood with pride.
+
+"Hod learn it hot there."
+
+Amara shook her hands in frustration.
+
+"Of course it is. Are you an idiot?"
+
+Hod gestured to the solar farms.
+
+"Hod not know. Luminari might make light cold."
+
+Amara shook her head in disgust.
+
+"You expect the least likely of outcomes, and for what reason? Because you lack even basic knowledge of the world."
+
+Hod peered at her, yellow mana flowing through him.
+
+"Hod understand Amara frustration, but Hod have advice. Hod think Amara never learn because Amara never listen. Hod think Amara try listen sometime."
+
+Chrona winced.
+
+"Perhaps we should focus on our mission?"
+
+I put a hand on their shoulders.
+
+"Let's do that."
+
+As if on cue, a light coalesced in front of us. It drained the glow from our surroundings, dimming everything before a glowing luminari stood before us. She was molded in the shape of a beautiful, faceless woman, and her hair flowed above her head like crimson flames streaking back and forth. They bled into a dark gray armor covered by lighter gray markings.
+
+It was a standard Graphene plate mail, and it covered most of her. A cross of light shone on her face, somehow haunting yet familiar. A glowing red skin was covered by disparate plates of gold, all of it ornate and delicately embroidered. It was like staring at a depiction of some goddess for fire and light.
+
+She bowed to me.
+
+"My name is Opal. I am the portalist who's been sent to take the Harbinger and his guildmates to their destination. I was also tasked with assisting your group's needs however I could. You guys look like you fit the bill, so here I am. Tadah."
+
+She moved her hand over her head, a wave of sparkles falling over her. Her voice was light and fluctuated like a melody. Even from just a few words, her personality reminded me of the color pink.
+
+I raised a brow.
+
+"Did you actually learn English for this?"
+
+Her face flushed, the effect coming from an even brighter glow.
+
+"Er, yes. I was told to prepare however I could for our savior, and I figured conversing in your native tongue would be more comfortable for you."
+
+I gave her a nod.
+
+"Consider me impressed. Where are the other luminari? Below?"
+
+Opal stood up, her feet together and her hands at her sides.
+
+"Yes, sir. They're still building out our capital, but it's plenty presentable. Maybe not up to your standards, but that's assuming they're very high. Not saying that you're judgmental but, like-"
+
+I raised a hand.
+
+"That's alright. I wanted to say I'm sorry about how the war turned out."
+
+She stuck out her hands and waved them in duress.
+
+"What? No, no, please don't apologize. We were on the road to extinction. You not only saved our executive branch from destruction, but you also gave us a military force that far exceeded our own. We weren't able to retake our home world, but we were able to evacuate over a hundred million of our kind."
+
+Opal peered down, her shoulders trembling.
+
+"That...I owe you the lives of my family, my friends, and everyone I've ever known. Thank you."
+
+Her sincerity was cutting, and I coughed into a hand.
+
+"Ugh, don't mention it."
+
+She wiped her hand in front of her.
+
+"It doesn't matter why. You did it, and that's more than enough. Now, if you're ready to leave, we can head out whenever you want. I'm ready."
+
+Amara stepped up to Opal. Our eldritch Builder hissed.
+
+"You...We must discuss our builds, strategies in battle, and what our goals are."
+
+The cross on her face widened, and she scratched the back of her head.
+
+"Hah. Oh yeah. Good point. I guess I can start."
+
+She showed us her titles, class, and guild.
+
+Opal Emiciera, the Light Stealer | Level: 15,000 | Class: Fringe Walker | Guild: The Harbinger's Legion
+
+I squinted my eyes.
+
+"You're in my guild? Also, impressive specs."
+
+She nodded with her hair flowing behind her. It was like a mane of fire that traced her movements. Each expression continued after she finished it, her hair a physical echo of her expressive motions.
+
+"Of course. All the higher-level iluminari have been assimilated into your guild by different Speakers. They're handling the missions, training, and other miscellaneous tasks of taking in a foreign force for you. We're signing Schemic contracts, getting checked out by that scary as hell shadow guy-"
+
+Hod stuck his chest out.
+
+"Scary shadow man Hod master. Shalahora his name."
+
+Opal pointed at Hod. Opal gave a thumbs up.
+
+"Yeah, he's not anyone I want to get on the bad side of. But, uh, yeah, guys, I'm a Fringe Walker. I'm going to help you guys out with the wilder side of the universe. I've cleared about seventy worlds over the last few thousand years, and I'll probably be pretty helpful for you all as you travel."
+
+I gestured to her.
+
+"We're making a map of as much of the universe as we can for our own references. Please submit the coordinates for those planets if you can."
+
+She gave me a salute.
+
+"Aye, aye, captain."
+
+Opal pointed one hand at me, then another hand at someone else. She moved them back and forth.
+
+"And, if I'm getting this right, you really are a new guild, right?"
+
+We nodded. She put her hands on her hips.
+
+"That's crazy, guys. You're all so strong. Like, wow. It's cool traveling with people stronger than me for once."
+
+I smiled.
+
+"Appearances can be deceiving."
+
+Opal let out a light laugh.
+
+"Uh, yeah, I don't think yours is. Harbinger of Cataclysm. When did you get that title?"
+
+I peered up.
+
+"Hm. Level 100 or so? It was after my first dungeon."
+
+Her cross widened, beaming more light. Opal put her hands together.
+
+"Woah. Really? You're one of Schema's chosen then?"
+
+I shrugged.
+
+"I don't know. From what I've gathered, I have a lot more strength than I do common sense. However, knowledge is power, so really, I'm just lopsided. It makes running a guild difficult, and I still don't know how to use all the resources at my disposal. I am learning, though."
+
+I put all of my minds into my gaze.
+
+"And my inexperience doesn't make me a fool."
+
+I pulled them back.
+
+"Most of the time."
+
+She swiped her hand.
+
+"That's great since my mediocrity will act as a perfect foil to your greatness."
+
+Amara hissed.
+
+"Cease the ass-kissing. For the love of eldritch and death and my ears."
+
+I peered away, uncomfortable by the rain of compliments. Opal let out another laugh.
+
+"We luminari don't even have asses. We have a phrase like that one, though. It's called shining someone's star. I'm not trying to do that. I mean what I said as literally as I can."
+
+Amara hissed.
+
+"That makes it even worse."
+
+Opal pointed her hand at me.
+
+"Mean eldritch lady aside, you won your lottery, didn't you?"
+
+I nodded. Opal stared at Amara. The luminari Fringe Walker gestured to the barren wastes behind her.
+
+"Guess what? We didn't. We had a few of our highest elected officials come back like nothing ever happened. It turns out they were raving lunatics, and they usurped our established political structure by embedding Elysium agents. So yeah, this guy saved you all from dealing with some horrible, crazy stuff."
+
+Opal sighed.
+
+"So yeah...By comparison, I am pretty mediocre. I'm not exaggerating when I say so."
+
+By now, I couldn't handle the stream of compliments from someone I didn't know. I pointed down.
+
+"Can we see the city?"
+
+Opal stood upright.
+
+"Of course, Harbinger. Let's go."
+
+She walked up to one of the white buildings. She pointed at it.
+
+"These are our harvesters. They collect light from the surface of a planet, and we use it for, well, practically everything. That's why we like Shiza. It's a planet that has a strong magnetic field, a thin atmosphere, and little vegetation or water to deal with."
+
+Chrona leaned over her.
+
+"You all enjoy how dry it is?"
+
+Opal gave her an eager nod. Opal spread her hands.
+
+"Oh yeah. For sure. See, we don't use water, air, or anything but light and mana for sustenance. Our home world was one where we evolved into a low-resource world that was rich with energy. Our compositions came about from the ambient energy gaining sentience and then learning light magic. This planet, Shiza, is like that - rich in mana, light, and nothing else. Just the way we like it."
+
+We stepped through the gateway. As we did, Chrona got stuck on the doors. She let out a sigh.
+
+"Sometimes, I despise being so big."
+
+I helped push her out before Opal coughed into a hand. The luminari floundered.
+
+"Uhm, so, er, you're super thin for your species. You know, like, ultra-elegant, but we're, you know-"
+
+I raised a hand.
+
+"I think I got this."
+
+I took out one of the dimensions I carried. I split it open wide enough for Chrona to walk in. After a bit of coaxing, she went inside. I told her to keep her head out as the portal shrank. I caught the portal in my hands before creating a collar for Chrona. Our temporalist gialgathen had put her life on the line for my trick, but it worked.
+
+She was now a floating head. Woo. Chrona glared at me.
+
+"I'm like a dog on a leash now."
+
+I shrugged.
+
+"You get to see the luminari's world. Personally, I think that's worth a strange appearance."
+
+Chrona narrowed her eyes.
+
+"We'll see."
+
+I pulled the portal along. Opal gawked at me, her composure shattering. She stuttered.
+
+"You...Portal...Tear in space...Collar on giant frog lizard thing...What is happening?"
+
+Chrona narrowed her eyes.
+
+"We're not frog lizards."
+
+Amara smiled.
+
+"You've fooled many people. Perhaps it's more obvious to others than yourselves."
+
+Opal gestured to me a few times.
+
+"Guys. Are you seeing this? This...This is insanity?"
+
+Hod walked over and put his hands on Opal's shoulders. He was much shorter than her, so he once again hung from her like a jacket on the side of a door. Hod's wing set on fire from her hair. Hod ignored it while swinging a wing over the sky.
+
+"Hod let glow girl know something. Harbinger weirdest of all. Harbinger do stuff that not make sense most of time. It normal. When Harbinger normal, then have problem."
+
+Opal stared at him. Hod's entire arm blazed in red fire. Opal deadpanned.
+
+"Uhm. What's going on here?"
+
+I smiled.
+
+"You're getting Hodded. It happens to all of us. All the time, really."
+
+Hod's head was set ablaze by the hungry flames. Hod took a deep, contented breath.
+
+"Hod have that effect on people. Hod smart. Glow girl learn one day."
+
+We washed the fire off him before walking down a winding, spiral staircase. At the bottom of the stairs, we found a landing platform circled by lanterns far below us. Glowing bricks dotted the walls, and unlike on Earth, no moisture collected on the stone or lingered in the air. Having been in caves so many times, I expected the dank smell of mold and mildew. There was none.
+
+The dry Earth and warm flow of air left me hopeful for a change in pace. We leaped down, and I made sure Chrona's head didn't smash into the side of the passageway as we did. After landing on the circular platform, Opal stepped forward to a luminari receptionist. The luminari had dark gray skin and orange fire hair that rested on the sides of her face. She wore a sheening vest, and an X acted as the eyes of her face.
+
+From what I gathered, the luminari carried different facial markings, and they acted as eyes for them. It gave them a mysterious, otherworldly vibe until they began emoting with the glowing mark. At that point, the intangible beings became remarkably human.
+
+Following that pattern, the receptionist seemed like some demigod of the ocean, her hair floating like waves behind her. However, she shattered that initial impression by leaning against her forearm, half asleep. As we walked up, the employee stood at attention. The receptionist gave us a salute, and she stammered her words.
+
+"Opal. My goodness. You were supposed to show up a few days ago. I'm sorry you caught me looking like this."
+
+Opal held a hand to the cross on her face.
+
+"The guildleader was late. He had important tasks that needed handling, so we changed the date."
+
+I frowned. There was so much communication I had to handle in order to prevent inefficiency and general rudeness. If any complications came up while I was following a schedule, which was pretty much always, then I'd have to spend another hour sending messages to people. The idea of that exhausted me, and in trying to stop inefficiency, I'd created it.
+
+I opened my status and, to my chagrin, sent messages to people. Opal leaned away from the receptionist.
+
+"Wait a minute. We weren't trying to criticize you."
+
+I shook my head.
+
+"You didn't have to. It's obvious that this strategy isn't working, so I'm changing my meeting strategies."
+
+Chrona tilted her floating head at me.
+
+"Not that I'm complaining, as I'm often a victim of your lateness, but what's your idea for the changes?"
+
+I sent a text log to several guild organizers, including Torix and relevant followers.
+
+"I'll make it so that people won't expect me at a specific time anymore. I'm going to set up windows where I could show up, along with what to do if I don't. That should stop a lot of waiting around while changing the expectations on me."
+
+Amara shot a glare up at me with her palms.
+
+"So you're making it easier for you and harder for them?"
+
+I peered down at her.
+
+"I'm going to make it so that people aren't expected to stand in attention for no reason and for extended periods of time."
+
+Opal coughed into a hand.
+
+"Ahem. Couldn't you send a message letting people know you won't be able to make it?"
+
+I furrowed my brow.
+
+"Sometimes, yes. Other times, no. Recently, I had to help a friend with a body transferral. If I lost focus for a moment, then they'd have died on the spot. I can't split my focus and send a message when I'm immersed in a task that dire, and if I'm honest, that happens often."
+
+A sly smile crossed my lips.
+
+"And yeah, I also forget all the time despite my best efforts."
+
+Hod flapped his wings so that he could put a wing over my shoulder. He hung from my side while nodding.
+
+"Hod understand. Hod so busy, Hod head spin. One day, Hod have three meetings. Hod hate meetings. Meeting people want seem important, but Hod know they not. Hod know meeting actually pointless."
+
+I put my hands on my hips.
+
+"Tell me about it. Sometimes, I think meetings are just ways for people to try and sell how meaningful their actions have been rather than actually communicating something important. They devolve from important communications into sales pitches for someone to keep their job."
+
+Opal turned to the receptionist.
+
+"We're not going to do that, are we, Sapara?"
+
+Sapara opened her status, sent a few messages, and then she shook her head.
+
+"Oh, no, not at all. There's no way my employers will be angry with me when their most important client cancels the many presentations and meetings they had planned."
+
+Opal spread her hands.
+
+"Since when were you so sassy?"
+
+Sapara raised her hands.
+
+"Isn't that why you hired me?"
+
+Opal turned away, squeezing her hands together.
+
+"Drat. I've been fooled yet again by my desire for interesting personalities. Ah, whatever."
+
+Opal turned to us with her hands on her hips.
+
+"You're all welcome here in Phorescia. I hope you enjoy your stay, however long it is."
+
+I tested my aura for a bit, and it still didn't work at full efficiency.
+
+"I'm actually pretty exhausted after my last test. A few days of rest and relaxation sounds pretty nice."
+
+Amara turned her palms to me, and she snarled.
+
+"Days? We've waited weeks for this already. You want to delay our leaving once again despite its importance?"
+
+I put a hand on her shoulder.
+
+"Amara. We've waited years to do this. If a few days will make a difference, then it is what it is. Besides that, I'm tired. Me. I never get tired, and yet, I am. That means I did something genuinely difficult, and I can't protect you or the party like I normally would while in this state."
+
+I lowered my hand.
+
+"This is all I can do, and I'm asking you to accept that."
+
+Amara's glare softened. She took a step back before giving me a nod.
+
+"I'm sorry. I've...I've been abrasive lately."
+
+Chrona smiled.
+
+"More than usual, perhaps."
+
+Amara gave her a look before turning to me. Amara's voice lightened.
+
+"I really want to leave. I want to know what happened to me. I never thought I would, and now it's so close. I can't help but be impatient."
+
+Opal scoffed.
+
+"Impatience gets guild members killed. I can speak from experience with that one. Anywho, how about we go see the sights and sounds of the luminari capital?"
+
+We followed Opal, crossing a few tunnels lined with glowing mosses. We reached a large set of stone doors, gemstones glistening from spotlights hidden within the walls. It would normally be gaudy to the extreme, but the reverence towards light sold it as a cultural oddity worthy of appreciation.
+
+Opal gestured to the doorway.
+
+"Would you do the honors, Harbinger?"
+
+I stepped up and pushed them open. They slid on well-made hinges. A vast artificial cavern opened up to us all. Across the rooftops, panels of glass let light leak in from above. Just below the panels, several orbs of light spiraled like tiny stars. Walkways lined every portion of the colossal cavern, and across every wall, thousands of different shops, homes, and businesses thrived.
+
+I leaned back.
+
+"How in the hell did you make all of this so quickly?"
+
+Opal hopped on one foot.
+
+"We used your architect golems. We commissioned two of them for a few months, and they let us carve out several vast cities, though Phorescia is definitely the largest. They're not the only innovation we've been able to incorporate either. Look."
+
+Opal pointed to the tiny stars above. Runes lining the walls siphoned off the extra light they emitted, feeding the energy into light stations below. Intricate sigils were carved into these holding cells, and they distributed the shining sparks to many places using glass tubes. Powering this light grid, liquid mana floated in power cells.
+
+Their entire infrastructure was built on this liquid mana source, along with large crystals of quintessence. Opal gestured to the crystallized mana.
+
+"This is all thanks to you and your generous trade agreements. Normally, we would've used a large portion of our harvested light to power the city below. However, your guild sells its energy resources very inexpensively. We're able to support an entirely different power grid because of that."
+
+I smiled.
+
+"Aren't you worried that my guild is establishing a dependence on cheap mana so that we can later gouge prices?"
+
+Opal took a step back, her body language acting aghast.
+
+"What? You'd do that?"
+
+Amara stepped forward onto a walkway lined with faerie lights.
+
+"He cares little for money. If anything, he's feeling oh so great that he's helped your people out."
+
+Chrona raised her horned brow.
+
+"And what's the problem with that?"
+
+Amara frowned.
+
+"When fed well and for nothing, people lose purpose. They become fat and lazy."
+
+Chrona furrowed her brow and went to speak. She took a moment before nodding.
+
+"I wish I could contradict you, but laziness infected the gialgathens after we enslaved the espens. We grew fat on the work of others, and we paid a price for our inaction."
+
+Amara threw her palms in every direction, keeping a lookout for enemies.
+
+"Daniel will do the same to all under him."
+
+I gestured around us. We walked across one of the many walkways lining the cavern. Across every wall, the luminari thrived. I raised my brow.
+
+"My guild makes it so that there's only a portion of the population that needs to fight the eldritch. That doesn't suddenly turn people into lazy piles of slop. It allows people to fully put their efforts into handling other problems outside of survival. E.g., making cities like this, developing technologies, and building up their economies."
+
+Amara eyed it all.
+
+"I will admit...It is stunning to see what they have created."
+
+Opal's cross brightened.
+
+"If it's any consolation, your approach has led to a revitalization of the luminari. I'd love to show you all that we've accomplished with your support."
+
+I spread my hands.
+
+"Then let's see what the luminari are all about."

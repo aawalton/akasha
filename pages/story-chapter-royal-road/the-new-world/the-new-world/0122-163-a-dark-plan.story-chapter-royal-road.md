@@ -1,0 +1,173 @@
+---
+id: 3dff57ef-b8ef-5fce-a57c-67ce2f83a6e9
+page-type-slug: story-chapter-royal-road
+title: "163 A Dark Plan"
+slug: 0122-163-a-dark-plan
+partOf: the-new-world
+position: 122
+ownLength: 2099
+unit: words
+ownProgress: 2099
+publishedAt: 2018-11-15
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/306929/163-a-dark-plan"
+royalRoadId: "306929"
+markedReadAt: "2026-06-29T21:25:11.016Z"
+---
+
+An espen laid hidden by crags of stone. The espens once crimson skin faded to a murky red, his vitality drained. A brand covered his forehead, a symbol etched on the surface. I opened my status, sending Caprika a message along with our coordinates. She might know what the mark meant, giving us a clue to what was going on.
+
+I inspected the horror further, leaning towards the mess. The espen's hands were missing fingernails. I glanced around him, finding scratch marks from where he tried to escape. His jaw hung open, a string of blood flowing down his chest. He killed himself by biting off his own tongue and bleeding out.
+
+I looked further down. His torso was split open, orange egg sacks writhing in his intestines. Silvers squirmed inside the capsules. Tiny, metal insects chewed on his skin and flesh, converting him to metal. They built geometric metal outwards from their host.
+
+I snatched up one of the silvers. It was a Saysha, one of the most common silvers. I squished it in my hand, espen blood pouring out of it. I glanced around, finding no bloody marks or any tracks in the ground. Something dropped him here. I sighed, looking up at Althea, "Do you know anything about the silvers?"
+
+Althea shrugged, "Nope. I don't know if I want to learn about them either."
+
+I frowned, "There's really no need to see this mess then unless you want too."
+
+A set of steps walked up, and a regal voice replied, "What is it then? Did you find a dead animal or something utterly rank? It smells positively appalling."
+
+I shook my head, "No, Caprika. It's an espen."
+
+Caprika leaped into the pit, her hair snapping onto a nearby rock. It lowered her down with a sense of elegance. As Caprika peered at the horror, she turned around and gagged. I stood back up, turning to her,
+
+"We need to figure out what happened here."
+
+Caprika hissed, "Isn't it obvious? He rode into the silver's territory before escaping. He died here."
+
+I shook my head, "No. See these claw marks? He tried to scratch himself out of here. There's no tracks or trail of blood either. He even bit his tongue to kill himself. Something held him down here. I want to know what that something is."
+
+Caprika grabbed the sides of her face, "Your ability to decipher piles of rotting meat and disgusting sacks is truly admirable."
+
+I rolled my eyes, walking over to her, "Come on, princess. Don't make me use this."
+
+I showed her the hand I used to squish a Saysha with. Caprika leaped back, her hair forming into blades aimed at me,
+
+"Ew, ew, ew!" She patted herself off, getting herself together, "You're primitive and repulsive."
+
+"I like to think I'm pragmatic. Come on. The espen has a brand on his forehead. I don't know what it is. You might."
+
+She patted the sides of her face, taking a deep breath. She turned around, her claws fidgeting in her hands. She stared at the espen's face, her disgust fading. She gasped,
+
+"It's a slave's brand."
+
+I creased my eyebrows, "Slavery is on Giess? Really now?"
+
+Caprika shook her head, "Not anymore. To be accurate, there was slavery a long, long time ago."
+
+"With who or what?"
+
+She scratched the side of her head, "Have you heard the story of Lehesion?"
+
+I closed my eyes, searching my memory. I  lifted a hand, "Lehesion, he was a gialgathen that saved espens, right?"
+
+Caprika tilted her hand back and forth, "It's not so simple. He merely aimed for social reform. He still believed that Gialgathens were superior, but he also thought that they should treat their inferiors with dignity."
+
+I pointed at the brand, "So he got rid of slavery? Sheesh, no wonder people hate gialgathens."
+
+Caprika nodded, "To the point, yes, Lehesion did repeal slavery. He preferred indentured servitude. Still a tasteless practice but better I suppose. That's what makes this so odd."
+
+She squatted down, her knees together, "This is one of the old marks I've seen in museums. This simply shouldn't be. Lehesion got rid of slavery 75 years ago. A decade ago, indentured servitude was deemed illegal in most city-states as well."
+
+I crossed my arms, "The answer's pretty simple. Someone still has slaves."
+
+Caprika stood up, "This is...vile. According to what you found, he died a painful death on top of living a painful life. Now his corpse is being used as food for vermin."
+
+I raised a palm, pulling my obelisk from my armor. I snapped several photos of the crime scene from several angles. Caprika stood back with her hands on her hips,
+
+"What would you have us do then, investigator?"
+
+I shrugged, "Evaporate the infestation before getting a specialist to inspect the photos. We can't leave this here, or else it will spread."
+
+Caprika nodded, "I suppose so. I'll send in a team to clear up the mess."
+
+I shook my head, "No need."
+
+I raised a hand, condensing Event Horizon over the corpse and eggs. It disintegrated as if I used transmogrification magic. The body, eggs, and silvers melted into a black mush. This gunk spread outwards, running over my feet.
+
+Caprika squealed, pulling herself up with her hair,
+
+"By Baldowah, do you even know what a warning is?"
+
+I shrugged, "Trying to get this done. I'm not getting paid for this after all. Well, if there isn't a quest for this in Yildraza. Otherwise I am getting paid, but not by you."
+
+The black mush evaporated after a bit more exposure to Event Horizon. I looked up at Caprika, "Get back to the car. I'll be cleaning the area of silvers."
+
+After her gut reaction, Caprika gawked in horror at my ability. Her left shoulder twitched,
+
+"Ahem, is that one of your other abilities? Why didn't you use it in the tournament if you don't mind my asking."
+
+I stared at where the corpse and silvers once were,
+
+"It's not a fighting ability. It's a killing one."
+
+Caprika went silent after that. I turned to her, "I'd never use it against a friend. It's for eldritch and silvers mostly. Just, er, think of me as a Fringe Walker."
+
+She nodded her head, "Oh, yeah, but of course. Ugh, I'll go back to my, I mean our ugly vehicle. You may, uh, eradicate the pests as you see fit."
+
+She scampered off, her discomfort obvious. I sighed as she left, shaking my head. Striking fear in my enemies was awesome. It made me feel powerful and potent. Striking fear in my friends though...It honestly made me feel like shit.
+
+Once I heard the octo-car's door slam shut, I jumped out of the pit. I walked around, my thoughts racing while Event Horizon ravaged any nearby silvers.
+
+It surprised me that she feared me all of a sudden. After I fought the gialgathen, surely she understood I could've killed her at any point. I wouldn't though since I was sane. There was something different about Event Horizon that unsettled her. Since I didn't want to terrify would be friends, I vowed to use it with care from here on out.
+
+It got me thinking about my friends too. Facing off against Yawm meant a dominant fighter was necessary. Now that he was gone, we weren't fighting just to survive. We were fighting to improve our lives as a whole. To my friends, I was a war hero and a competent ally. To newcomers, I was a dangerous liability.
+
+That's close to how Caprika looked at me. From what I could tell, I was a risk to her. When I exposed more of my abilities, it made her realize I was a higher risk then she first anticipated. With a bit of time, she'd adjust. Until then, I'd lay low and let the others enjoy her company. I had other stuff to do either way, and I didn't want to ruin their trip.
+
+With that matter resolved, I finished the silver cleanse. I walked back into the moving mansion. At first, I sat down with the others. The conversation lulled, Caprika turning awkward after our stop. Althea and Kessiah assumed it was from seeing the espen. I knew the real reason though.
+
+Being more tactful than usual, I stood up from my seat, "Yo guys, I'm going to research some runes in the back. Let me know when we arrive."
+
+Caprika gave a curt nod, "We will."
+
+I stepped out, settling in a back room. The soft, muffled sound of Torix's ranting ebbed into my room. It put a smile on my face. He was keeping his students in line at the very least.
+
+With a teacher's presence spurring me on, I walked past the luxurious bed and sat down. Pulling out my grimoire, I set to work. As I went over runic patterns, I remembered the impact of my perception gains. I analyzed the espen's death and perceived Caprika's shift in mood without a hitch. I wasn't like that almost ever.
+
+Look, I'll admit. I can be a brick in conversations sometimes.
+
+If I were lucky, then this newfound tactfulness would rub off on these runes. After a few minutes of work, I learned something fast; that wasn't the case.
+
+The runic inscriptions that enhanced my attributes were brutally mathematical. They involved severe, involved algorithms that applied to nature based on context. Since they impacted every tree or level up, I had to incorporate every tree into their creation.
+
+By the time I finished something resembling an attribute multiplier, it had spanned a dozen pages. Its complexity left me flabbergasted. It took hours to write, and I couldn't get a firm grasp of how it worked. Without knowing the process in detail, I deemed it way too damn risky to use. I scrapped the incantation, running my hand down the pages to erase it.
+
+After another fresh start, I tried again. If there's one thing I owned in spades, it was persistence. I would bang my head against a wall until either I died or the wall broke. This strategy worked out more often than not. While rooted in my work, I snapped my head up.
+
+The scent of espen blood poured into my cabin.
+
+I stood up, walking out of my room. The ladies gossiped, giggling at jokes and the like. They looked up at me, Althea grinning, "What's up handsome?"
+
+I smiled back, "Nothing much beautiful." I looked at Caprika, "Hey, can you  open the door?"
+
+Caprika tilted her head, "Why?"
+
+"There's another one."
+
+Caprika looked down, "Oh...We can stop while you finish whatever it is you're doing."
+
+I shook my head, "Thanks for the offer, but it's not necessary. I'll keep up with the car while doing it."
+
+Caprika looked at the others, "He can do that?"
+
+Althea smirked, "My man can do anything."
+
+I spotted a few empty drinks beside her. I rolled my eyes, "Well your man's about to go be a janitor. See you guys."
+
+The door of the house-bus opened, and I jumped out. I hovered using gravity, keeping up with the pace of the vehicle. I shut the door before leaping towards the source of the sent. Wind whistled in my ear as I flew up and over the rocky expanse. I found another corpse surrounded by rocks.
+
+Fresher than the last, I analyzed the wounds. The silvers still decimated the corpse, but the tendrils of metal hadn't yet spread out. This let me gather essential details.
+
+The first fact I gathered was deep gashes in the espen's shoulders. The eggs in his stomach showed no signs of larger silvers either. The marks on his shoulders were made by a beast's talons, the cuts clean and deep. The four claw marks spread out over his upper back. They came from one paw grabbing onto the espen from above.
+
+Skill unlocked! Tracking(lvl 1) - Though they run, they only delay the inevitable. Further details reveal themselves upon inspection. Higher levels of this skill allow the user to connect details to map a picture of previous events.
+
+Breakthrough achieved! Tracking(lvl 1)--->(lvl 26)
+
+It was a useful notification to get. Using it, I took a deep breath, the smell of rot less overpowering. This kill didn't happen days ago. This espen died recently. Not many silvers flew since they were made of metal. I did know a certain race of dragon-frogs that did fly, however.
+
+And at this rate, I'd be catching whoever did this soon. When I did, they'd pay.
+
+Dearly.

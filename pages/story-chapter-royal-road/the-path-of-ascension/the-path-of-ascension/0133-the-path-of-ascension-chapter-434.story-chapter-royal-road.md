@@ -1,0 +1,299 @@
+---
+id: 4c82c4a8-7af6-5620-9cf2-a05ffae981c4
+page-type-slug: story-chapter-royal-road
+title: "The Path of Ascension Chapter 434"
+slug: 0133-the-path-of-ascension-chapter-434
+partOf: the-path-of-ascension
+position: 133
+ownLength: 5587
+unit: words
+ownProgress: 5587
+publishedAt: 2025-08-11
+link: "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/2510268/the-path-of-ascension-chapter-434"
+royalRoadId: "2510268"
+markedReadAt: "2026-06-29T19:33:59.503Z"
+---
+
+Chapter 434
+
+Matt was still on edge, and he could feel that the others were too, but the older Ascenders seemed entirely unbothered by the earlier incident. Including Aiden and Lila, which Matt noted. Aiden even had the nerve to wink at him.
+
+That actually helped Matt feel a bit more at ease. If neither of them were upset, it was either because they were informed in advance, or that, even surprised as he was by Eclavorn’s actions, he wouldn’t fail whatever test he was being put under.
+
+Amusingly, that made him far less angry than everyone else.
+
+Aster looked cool and collected on the surface, but he could feel her anger simmering like a pot ready to boil over. Liz was not even trying to hide her anger, which led to her glowing slightly as her blood started to pulse with power. Something that normally only happened in a fight.
+
+Knowing that ignoring it would take hours, if not days, for them to naturally calm down, Matt turned and said, “It's fine guys. So long as it's dropped here, I’m okay with just letting it go. Charl was a piece of shit, and in Empire, my Truth is mildly similar. I can acknowledge that much.”
+
+Eclavorn turned his massive head back around and looked at Matt for a moment before nodding slightly. “I realize you younger Alphas never knew Charl, but he was ruining this group even before he was outed as being a monster. Hate me for it, but I will ensure the group can continue to even younger Alphas who might not have any other peers. It was one of our only escapes when we were younger, and I will defend it as any other portion of my hoard. I will not apologize for that. I can, however, admit when I was incorrect.”
+
+The silence after his last word was interrupted by the Maya clone, who walked over and started looking Matt up and down before shaking her head and scanning Liz.
+
+Halfway through, her face brightened up. “There it is. Let me see it.”
+
+Sien sauntered over right behind, looking perfectly composed. “By all means, demonstrate it to us. I have been distraught since you mentioned it.”
+
+Phoenix Liz flared its wings slightly, forcefully cooling herself off.
+
+Gideon interrupted their impromptu circle with a sly grin that only looked a little forced. “Wait, wait, wait. We need to rejoin everyone else, as our thing to share is far more interesting, and so it should go first.”
+
+Sien took the bait, raising a single perfect eyebrow. “Oh, you claim that what you have to demonstrate is far more interesting? Behold, mine curiosity is piqued, for I am certain your news is but a pale shadow in comparison to mine.”
+
+Her easy confidence immediately caught everyone's attention, even those who had walked ahead.
+
+Aiden immediately said, “Two Tier 36 Stellar Sea Star’s that Gideon’s thing is more interesting. The duo called us here after all.”
+
+Wun immediately jumped in. “I’ll join that with a set of Tier 38 Alabaster Wasp Wings.”
+
+Allie grinned, her dagger gone as if it hadn’t been twitching back and forth a moment ago. “I’ll bet the flaw in your merged planet on Sien’s thing being more interesting. Maybe you guys can bet something useful this time.”
+
+The four clones cursed in unison, but finally, Brian offered, “I’ve got a Tier 33 necrotic dragon claw. Best we are willing to offer.”
+
+Allie pretended to think the offer over before nodding her acceptance.
+
+Maya, the one who had started all of this in the first place, gestured at Matt, Liz and Aster to hurry up but, when they looked confused, she explained with a dramatic eye roll. “I need you to pick a side so I can bet on the other side. I want every sample you guys have, as well as the rift itself.”
+
+Sien tutted as she interjected once more. “Tsk, tsk, what unbecoming behavior, attempting to spirit away the prize before we may so much as glimpse it? Alas, if I could bet against myself for insurance. Such a shame that such a thing would be… unethical, would it not?”
+
+Maya, despite being a clone of some type, looked like she was contemplating trying to strangle the Sect Ascender. Finally, she forced out a smile. “We could always take a look first.”
+
+Gideon’s smile turned genuine as he shook his own head. “And now we are stuck in a circle. Le—”
+
+Lila interrupted him with a nod to Sien. “A Tier 38 shield that looks really cool on Sien’s thing being more interesting.”
+
+Sien grinned as if Lila had given her a compliment.
+
+Matt leaned in and, through skin contact [AI] message, asked, “What do we bet? I think Sien is going to win though. She baited this out.”
+
+Aster immediately agreed with him. “I agree on the Sien bet, though the aura sample seems too valuable for this. What about offering the Tier 34 talisman bundle?”
+
+Liz disagreed quickly. “I agree we shouldn’t bet the aura, but the talisman’s still feel too valuable for such a risky bet. Let's go with the Tier 33 cloak.”
+
+When they finally leaned away from each other Liz called out, “We also back Sien and we are offering a Tier 34 Locator Orb.”
+
+Sien’s smile grew even wider as everyone else picked their sides. Oliver sided with Gideon along with Eclavorn, who seemed confident their thing to share was more interesting.
+
+Pulling an ink brush out of her sleeve, Sien conjured a slip of mana into cardstock then artfully wrote a few characters on the card, careful to make sure no one could see what she wrote.
+
+Finally, she moved to seal the card in an envelope but Gideon held up a hand. “Hold on. No putting that inside your own mana. Put it on the table where we can all watch it.”
+
+Sien shrugged a single shoulder while bringing the card up in front of her face, where she folded it while spinning a delicate weave of spiritual sense around the object which would shatter should anyone try to look inside.
+
+Gideon then copied her move and the rest of them all quickly filled to where the others' closest friend or two were waiting.
+
+Introductions were forgotten as Gideon stepped into the air, looking at everyone with a grin.
+
+“I suspect that you all wish to know why we didn’t ask only you to come to the end of this war meeting, but to bring your closest friend or two?” Seeing he had a captive audience, his grin turned more natural. “Originally it was to fleece all of you with the cost of this information, but seeing as how my bond doesn’t know good manners, I’ll share the news for free and consider it our loss. I will sell you something later anyway.”
+
+Eclavorn looked surprised, but Matt didn’t know the dragon well enough to know if it was genuine.
+
+“I’m sure you are also wondering exactly why the Federation and Monster Collective ended the war right now? The Federation's lines were just starting to crumble when we agreed to a peace. So why do that? The reasons are obviously connected.”
+
+Matt reached and pulled a tray of glasses over to himself and passed them out while sipping his own, wondering what Gideon had learned. It couldn’t be about the war because he either wouldn’t share it at all or would happily share it in the Ascender chat. Even if he couldn’t share it through the Ascender chat, it was weird for him to recommend they bring their combat-capable friends.
+
+Gideon smiled as he read everyone's face before saying, “The Rasdale tidal breach is happening exceptionally early and is of an unprecedented size. That's the same tidal wave that sent the Tier 46 planet into Federation space and caused their split. Current speculation is that it’s a third layer breach that pushed an eddy all the way through the second and into the first layer. Highest estimated Tier planet is Tier 40, so there might even be goodies for all of us if we leave ahead of the rush. Given its size and angle, the optimal intercept is five years out. Both Great Powers agreed it was smarter to end the war and grab anything they can before the wave passes back into the second layer, instead of fighting for already exploited worlds.” Looking smug, he added, “The Collective is also getting ten percent value from everything every Federation explorer pulls out of the planets as part of the war concessions.”
+
+Matt immediately brought his perception to his max, processing what Gideon had revealed.
+
+Matt’s first question was why Gideon was willing to share such information at all, but then, he realized it must be being shared between the representatives who were already here. Their advantage wasn’t so much as getting the news early, as it was being able to leave immediately with their normal combat teams the duo recommended them to bring along.
+
+Not that the difference made the information any less valuable. The ability to leave immediately would have been worth a ton. In addition, Matt agreed, Gideon could have fleeced them for the advantage and everyone would have lined up to pay, as no matter what they gave up here and now, they could make it back a thousandfold in the wake.
+
+Tidal breaches happened every so often, but they were fairly rare and small in scale and size. Usually the effects were only felt when a particularly high-Tier world, a world that had rarer Natural Treasures than normal, or when a world had a truly ‘strange realm’ that could produce effects that rivaled Minkalla’s floor rewards in strength appeared.
+
+Normally, encountering one was more luck than science as they happened with zero warning or regularity.
+
+The Rasdale tidal breach was another beast altogether. It not only happened in a semi predictable pattern of every ten to twenty thousand years, it also came in from the same general angle. Some Rasdale tidal breaches might be stronger or weaker than others, but it was always a treasure trove of rare resources compared to what they found in the settled areas of space.
+
+Having ended the Path and gone straight into the war, Matt, Liz, and Aster had missed an Ascender's typical rite of passage, which was to explore chaotic space. That didn’t mean they hadn’t looked into it themselves or that Lila hadn’t talked to them about it, trying to get them to go on an expedition with her, so they were quite well informed.
+
+Chaotic space was massive in a way that hurt to think about. It was also chaotic.
+
+As far as anyone knew, there were no even semi-complete maps or anything so convenient, but they knew some things thanks to Tier 50s. A Tier 50 could feel any other living Tier 46 and higher objects if they wanted to, and that included planets drifting through chaotic space. While Tier 46 objects were so numerous they were ignored, the Tier 50s did pay attention to higher-Tier worlds as they drifted through the Realm.
+
+One of the first people to rise to Tier 50 after the Glorious Everlasting Kingdom of Prosperity fractured had recorded the farthest distance she had ever felt a Tier 46 or higher object away from herself in chaotic space. According to the following records, the distance had never been beaten since; though there was some hesitation in the veracity of the report, it being only slightly younger than Aunt Helen.
+
+Still, it was the best they had and calculations based on that distance were good enough to get a rough picture of the Realm, which was better than no picture at all.
+
+Assuming the Realm was spherical — which wasn’t a given, but it made the math easier — the Great Powers were one hundred thousand times smaller than the Realm itself .
+
+The entire settled area of all eight Great Powers was less than a drop of water in an ocean.
+
+Just the sheer size discrepancy would have made exploration difficult. But the area also wasn’t so easy to navigate: it was called chaotic space for a reason. It wasn’t only the corrosive properties of chaotic space that ate any matter it came in contact with; the space itself was as turbulent as a storm.
+
+Based on the best understanding they had, the Great Powers were at the center of the Realm, what the Tier 50s called either the level zero or core layer. The chaotic space inside the web of the teleportation tethers was as calm as it ever was. Right along the tethers, it was a still pond compared to the choppiness of a creek, which were the more empty spaces between that some people risked crossing to shorten travel time. But even that was nothing compared to what lay beyond the furthest tethers.
+
+The first layer was windy and like a ship at sea. Any ship that wanted to fly deeper into chaotic space proper took risks, like sailing into a storm.
+
+Despite that, the risks were manageable in the first layer.
+
+Mana shielding kept chaotic space from eating a ship's physical form, which meant, so long as a ship never ran out of mana, they could explore safely. The prevalence of low-Tier worlds was high enough that there was usually a place to rest and recharge should a storm sweep by or an exploration team run low on their reserves of mana.
+
+While they didn’t offer much profit for any Tier 15 or higher exploration group, they ensured such groups would have a safe place to harvest the abundant ambient mana and recharge their mana batteries.
+
+It was a good thing too as the biggest killer of explorers in the first layer was an unexpected storm, which could suddenly and rapidly drain a ship's mana reserves. Rift mana stones could delay the process but the costs of using them instead of rechargeable mana was enormous.
+
+The first layer was defined by the range that Tier 15 to 20 cultivators could reasonably expect to survive. It was still quite dangerous, but the majority of properly prepared exploration teams would still make it back safely. Nothing stopped higher-Tier cultivators from also picking over those places, of course, but they rarely bothered.
+
+Not when there were deeper layers for them to venture into.
+
+The second layer was where cultivators between Tier 20 and Tier 30 ventured. Far more dangerous, but far more lucrative. The higher energy of the storm brought in new tides of high-Tier worlds and even saturated the worlds it passed over with all kinds of fantastic anomalies. The ‘strange realms’ it produced were the most noteworthy, places which could operate on fundamentally different rules than most of reality, with corresponding new and unique Natural Treasures formed. Totally unexploited.
+
+It also twisted the already dangerous nature of Chaotic Space into something far deadlier. A normal chaotic space ship would find itself severely stressed if it found its way into the outer edges of a chaotic space storm, but they could be expected to survive. However if that same ship somehow managed to get swept into the second layer, it would last minutes at best in a relatively calm area before its shields were torn through and hours at best before the enchantments gave way and the entire ship was turned into a few exotic forms of spiritual dust.
+
+The higher-dimensional nature of Chaotic Space was whipped into a ludicrous frenzy, making even the best spiritual perceptions incapable of perceiving anything beyond a few hundred miles away. Finding anything required highly specialized skills, an applicable Talent, appropriate Domain, or simply ludicrous levels of luck.
+
+The third layer was even harder to quantify. In part, because it was hard enough to reach.
+
+Tier 30s through 40s exploration teams certainly tried to push past the second layer, trying to find the treasures that the less explored worlds brought with them, but it was a delicate balance. Navigating the second layer deep enough to even get a chance to go deeper was already challenging enough, but the danger of the third layer's average energy levels spiked and spiked hard.
+
+Even a single mistake could cost a Tier 40 exploration team their lives.
+
+It was simply the strange realms, Natural Treasures, and even cracked skills which were occasionally brought back were too valuable and useful.
+
+Lila had described it as a target every explorer shot for. Everything exploration before that was only preparation for the journeys into the third layer. The ultimate treasure trove.
+
+Even Lila, who had been to the third layer a handful of times, said the experience was never the same. The third layer was too big to ever hope to encounter the same thing twice.
+
+The fourth layer was more a myth than a real place, with it being said only Tier 50s with specialized Tier 48 equipment had any chance of surviving inside for short periods of time, let alone long distance travel through the strongest of the Realm’s chaotic energies.
+
+Few, if any, Tier 50s dared to explore such depths, as the danger to themselves wasn’t zero, which might force them to Ascend. When combined with the distance, which could take even a Tier 50 hundreds of years to cross, it became even more risky. If someone attacked their Great Power, they wouldn’t be able to react except in retribution. Which is what happened to the eponymous Rasdale when the Republic Tier 50 spent far too long trying, and failing, to find the source of the breach that would end up named after him.
+
+It still happened— Tier 50s occasionally did explore the fourth layer of chaotic space— but it was rare for them to go into chaotic space at all. The last joint venture into chaotic space Matt knew of was when Georgios went with the Guilds’ former Tier 50 and they dragged a higher-Tier world back for the Guilds expansion effort. As far as Matt understood, they had only gone halfway into the first layer to do so.
+
+A tidal breach was a great opportunity, as it signified an eddy of a deeper layer flowing inwards thanks to the random collision of turbulent energies. If a swirl in the second layer was strong enough, it was possible it could enter the first layer. Along with its stronger energies being tempered by entering the less energetic zones making it safer over all, the tidal breaches generally carried with them higher-Tier worlds that were rare finds in a lower layer.
+
+It was a proverbial gold rush for cultivators of every kind, but explorers most of all.
+
+However, if Gideon was correct, and it was a breach that had come all the way from the third layer, Matt fully understood why two Great Powers who hated each other were willing to put aside their differences and end the war before its true conclusion, so the other Great Powers couldn’t exploit the tidal breach more than them.
+
+Matt’s attention then went to Maya and On The Last Line, who were in a war that had just started. There was a chance they would be allowed to exit the war while the Great Powers focused on the tidal breach, but it was also possible their respective Great Powers would feel forced to continue what they started.
+
+Lila immediately stood to her full dragon size, her wings flaring slightly. “What is the latest telemetry? Send me everything you have.”
+
+Gideon grinned. “There is time. The first to report the phenomenon were Talented Seekers and they are the most inaccurate. As I said, the general optimal approach is still five years out at the earliest. Just enough time for everyone to go home and get ready to meet the breach right as it enters the first layers in a few more decades. As it will cut through a fairly large portion of the first layer, we expect to be able to explore for about one to two hundred years before it either dissipates, and the worlds enter the first layer circulation, or the breach passes back through to the second layer and most will have to retreat.”
+
+Eclavorn snaked his head around so he could get a better look at Lila and the other retired Ascenders. “You are welcome to come with us. We leave in two weeks.”
+
+Lila snorted her derision at the idea of sharing. “I’m leaving immediately. If I leave now, I can beat the rush to enter and hopefully find anything from the third layer that has entered the second. I’ll send my guild to exploit the breach.”
+
+Eclavorn looked forlorn, but Sien smiled. It was a sweet and innocent gesture that shouldn’t have ever existed on a woman as ruthless as her.
+
+“Ah, yet I must present a superior proposition. The third layer holds such boundless potential… we ought to venture into it as a group. Those of us who have retired from the battlefield all have so much expertise to offer. And the potential for such wonderful competition in these opportune times, finding a treasure unlike any other.”
+
+Her words caught everyone off guard, but none more than those who bet against her. The various brought-along friends, all peak or pinnacle elites in their own rights, looked on with great interest, wondering if there truly was an even greater surprise and Sien basked in their scrutiny.
+
+Once Sien saw she had everyone's attention, she smiled. It shouldn't have looked sinister but it did. On anyone else, it would be a slightly cold but welcoming expression. But on Sien, Matt couldn’t help but see a spider grinning at the struggles of a fly in its web.
+
+Seeing she didn’t say anything, Eclavorn snorted. “What do you know that we don’t?”
+
+Sien’s smile turned devilish as she tapped the paper she had written on earlier. “Now is a wonderful time to settle our earlier bet. It was a good attempt, but my news is far more interesting.”
+
+When Sien didn’t move to reveal the information on the card, Gideon reached forward and carefully plucked the protective membrane surrounding the card, causing it to snap.
+
+With a rush, everyone brought their spiritual perceptions over to read the card.
+
+The entire audience, Ascenders included, froze as they processed the message.
+
+Sien had written three characters in the most common Sects dialect. ‘Tier 50’, ‘fourth’, and a character that meant ‘departed in the night’.
+
+Putting things together wasn’t hard for any of them and Sien soaked in the attention, giggling quietly in a way that somehow remained elegant.
+
+Liz leaned forward. “How accurate is that? What is your source?”
+
+Sien beamed as she nodded at Liz. “Thank you darling, that is the question we should be asking. First, let’s settle our most recent bets.”
+
+Oliver spluttered. “Hold on now. We need some proof your information is real. I agree with Liz, what's the source? I’m not paying up for a false rumor.”
+
+Sien’s smile grew predatory. “The nightmares of the mightiest are oft the most realized. And I as a master weaver can take a peek whenever I so desire.”
+
+Matt didn't buy that for a second, but Sien continued before anyone could call her out.
+
+“Yet, I can assure you that all of them have departed. With a week of travel and the speeds which they are capable of traveling, they are… oh, perhaps a quarter of the way to the second layer? I presume that something particularly delectable has drifted into the third layer, and from the dreams I taste on them…” Sien hissed slightly, “Yes. I daresay there are goodies out there just waiting for us to claim them.”
+
+At the small flinches from both Gideon and Eclavorn, the timeline seemed to be confirmed, which made Matt consider if Sien really did have a way to spy on the Tier 50s. It should be impossible, but she was known as the Lady of Ill Dreams for a reason. More likely, she could have figured out a way to spy on someone close to, but weaker than, a Tier 50 who might have a bad dream about their pillar of support leaving so suddenly.
+
+That seemed a lot more plausible and seemingly the answer the others came to as Maya said the same thing a moment later, trying to get Sien to admit she was overselling her abilities.
+
+Sien seemed unbothered by the accusation. “I’m willing to act on the information, which should say enough. No matter my source, my news is more interesting than Gideon and Eclavorn’s. Pay up. Then agree to my proposal so we can start planning what we need for such an expedition.”
+
+Everyone who had bet on Gideon immediately tossed storage rings onto the floor, and people grabbed what they wanted out of the pile.
+
+Matt, Liz, and Aster ended up winning a Tier 33 essence separator, which they would have loved to keep but instead they traded it back to Oliver for a dozen Tier 30 potions that would double their speed for ten minutes. In total value they had been ripped off, but the combat-applicable potions would be far more valuable in any kind of expedition, let alone an expedition as popular as this one was shaping up to be.
+
+Once the bets were paid out, Lila started to shift her weight back and forth, nearly bouncing on her feet, before she said, “Okay. First, if we want to go to the third layer of chaotic space, I need to get my exploration ship moving to meet up with us. Unless one of you were holding out on me, it's the only ship capable of long-term suspension in the third layer, let alone a breach from a fourth. I—”
+
+Matt stopped paying attention as Allie moved to a nearby table.
+
+Their small group of seven quickly sat down, only to be copied by Aiden, who took the nearest table with his own friends.
+
+Aster poked the water mage over the seatback. “Are you even able to safely delve right now?”
+
+Aiden snorted. “Not even a little. It will be a blast. We’ll go in under cover. Might join up with the other two and their people to make a Tier 35 group so we can fight for bigger prizes, but that’s up to them and if they can leave at all.”
+
+Remembering how bad Aiden’s condition actually was, Matt was glad they were in top combat shape and so wouldn’t have to do anything like hide their identities in the exploration. They had done that once in Minkalla, and that had been more than enough.
+
+While there weren't any rules about punching down in chaotic space, there was a general understanding between explorers. Mainly, it boiled down to keeping in one’s general Tier bracket. A Tier 20 shouldn’t enter a Tier 30 world unless they could accept being killed out of hand, the same way they should avoid taking everything good from a Tier 10 world if there were Tier 15 teams who might explore it.
+
+While cross-Tier killings did happen, any killings that were egregious or unwarranted got the slain person’s backing looking for vengeance. And Ascenders were the most sacrosanct of all, with Tier 50s more than willing to kill anyone involved in a punching down death.
+
+The second understanding was to help others who were stranded. If rescue was invoked or needed, one generally paid with quite literally everything they had with the exception of their growth items. But no one wanted to get stranded on a world for possibly ever if the chaotic winds took them away from settled space instead of towards it.
+
+Maya snorted as she and the four Clans Ascenders joined Aiden at his table, having not brought their friends to the meeting as they had not come in person themselves. “Not a chance we let you join us.”
+
+Moe sighed. “If we can even go. We’ve already asked our respective Tier 50 clones but no answer yet.”
+
+Aiden rolled his eyes as if Moe had said something stupid. “They won’t say no. They can’t afford to. I bet they are just trying to work out an armistice and don’t want them to acknowledge their Ascender will be leaving the battlefield. If I’m wrong, that's almost funnier. Wanna bet about it?”
+
+Matt ignored the budding argument and turned to his group.
+
+There were only seven of them and Rah was technically only Tier 27, although he could probably Tier up given a little more time, but they would be an overwhelming force. Less so if they pushed into any Tier 30 areas, but they would still be a strong team even in that Tier bracket.
+
+That didn’t mean they were safe. There were always things that could go wrong in exploration, but if they were going to go into such a dangerous area, these were the people Matt wanted to do it with.
+
+Liz leaned forward, letting phoenix Liz hop off her shoulder and eye everyone. “Is there anyone who doesn't want to go?”
+
+To everyone's surprise, Rah raised a finger.
+
+“You don’t want to go?”
+
+Rah shook his head. “I have only guesses as to what this is and haven’t been able to look it up. My [AI] can’t connect to the network.”
+
+Matt winced as the rest of them had gotten tied into the Corporations space station when they visited it the first time and no one had thought to check in on Rah.
+
+Allie grabbed Max to help tie Rah in while Liz explained exploration. “These are worlds that have possibly never been explored before. That means a planet full of Natural Treasures. Untouched rifts. Ruins. And last but not least, weird shit. When we told you that pretty much everything in Minkalla was replicable outside, a lot of that stuff comes from explored, but unsettled, planets.”
+
+Rah’s interest was visible and he nodded. “Ah, then my assumption that it's like exploring passing worlds is correct. I’ve done this several times when I was in the teen Tiers. I’m willing to join you all if you will have me.”
+
+Phoenix Liz bobbed up and down in excitement that Matt couldn’t help but mirror.
+
+Leaning forward, Allie said, “Okay let's make a list then. What do we need?”
+
+They spent the next several minutes going through a list of things they thought they might need but generally the list was fairly short.
+
+They already delved for extended periods of time while advancing, and beyond the ship, exploration wasn’t that much different.
+
+The ship, however, was going to be their problem.
+
+Lila had actually gifted each team a ship when the war ended, but those were only made for the first layer of chaotic space, which left them in a lurch given they wanted to enter the bubble of layer two space that would be entering the first layer. That process might make the chaotic forces of the second layer a little weaker, but unless they wanted to wait for the energies to dissipate they needed to arrive first, not after things had settled down.
+
+Aster finally leaned forward so she could see Lila, who she threw a snowball at.
+
+As the snow melted down her hide, Lila craned her head back so she could see their table. “What?!?”
+
+Aster batted her eyes and twitched her ears. “Can we have a layer two-capable ship? Please and thank you.”
+
+Instead of rejecting them, Lila hummed. The sound made the entire room rattle slightly and Matt worried about the structural integrity of the space station. Rattling was awful for structures.
+
+Lila finally nodded. “I can loan you one, but I want ten percent of whatever you guys get, goods not value. Oh, and I want you to look out for my exploration team while you guys are out there. I intend to deploy them as a group to mass sweep a region, but I won’t be there to watch out for them. Therefore, you need to help them if someone else tries to put pressure on them.”
+
+Matt figured it would be an easy request, as who would be dumb enough to anger Lila, but her next words were growled out. “Careful out there. Fellow Empire exploration teams give us our largest percentage of casualties. Best to think of this like Minkalla but with less restrictions. Watch your backs or you might find a blade in it.”
+
+Huddling back up, they agreed but negotiated the price down from ten percent to seven percent and with the requirement that it had to be a good ship.
+
+Gideon tried to sell them and Aiden’s groups on ships he had brought with them, but one of Aiden’s friends had their own exploration ship capable of going into the second layer. Plus, Liz was still angry enough she refused to give the duo of Monster Collective Ascenders even a single Natural Treasure and would rather pay Lila more simply to not give Eclavorn anything.
+
+Matt kept out of the argument, but it did make him feel great when the others didn’t even hesitate to lose an additional three percent. Even Rah, who was the newest addition to their little circle of friends.
+
+Lila’s grin was fiendish as she sealed the deal. “Fantastic. Do collect a lot. My old ship has plenty of specialized cargo capacity and I expect you to use it.”

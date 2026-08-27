@@ -1,0 +1,357 @@
+---
+id: 629d677e-6c84-5695-828d-cf029d42e907
+page-type-slug: story-chapter-royal-road
+title: "The Path of Ascension Chapter 3"
+slug: 0003-the-path-of-ascension-chapter-3
+partOf: the-path-of-ascension
+position: 3
+ownLength: 5779
+unit: words
+ownProgress: 5779
+publishedAt: 2021-03-01
+link: "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/639961/the-path-of-ascension-chapter-3"
+royalRoadId: "639961"
+markedReadAt: "2026-06-29T19:17:30.492Z"
+---
+
+Chapter 3
+
+Lying in the dark, Matt cradled the pad in his hands. He had tried to get some rest, but the anticipation and thrill of getting away with the theft kept sleep away.
+
+He looked at his pad again. This was his lifeline. Some part of him kept expecting Benny or the party leader to burst into the room and snatch the pad and skill shard out of his hands. But all was gloriously quiet.
+
+Delving without a skill was common at lower levels, but the casualty rate was much higher for those unlucky delvers.
+
+Matt already decided he wouldn't let this pad out of his sight for the remainder of the year. This skill was near perfect for him. A channeled skill would allow him to use his full 1 mana per second of mana generation while he was under 0.1 mana.
+
+Matt used his PlanetNet voucher time to check on the status of the Glesie public rift. The purchase price for a spot was still ten thousand credits and holding steady. A while back, it had spiked to eleven thousand for a few weeks before dropping to nine thousand for a bit. Now, it was back at its usual price. He then quickly searched for average mana stats for lower Tier mages and found a guide put out by the Juniper family that had the barony over the planet.
+
+The guide was only recommended up to Tier 3, then more advanced versions had to be purchased. It focused on directed mana cultivation and its three aspects: Maximum Mana, Mana Regeneration, and Mana Concentration.
+
+Fascinated, Matt read on. The orphanage hadn’t covered the nuances of directed cultivation. They taught that as you gathered essence from killing monsters in rifts, the person dealing the final hit absorbed the lion’s share of the essence.
+
+Most teams wore devices that automatically divided the essence amongst the rest of the party. Ratios could even be changed so one person could get nearly all the essence, which was how crafters got the necessary essence to advance without having the skills to fight monsters themselves.
+
+Once out of the rift, you would process the essence, allocating it to either your body or mana.
+
+Cultivators could direct how they allocated the essence. Physical and mana were the two sides of cultivation. After that choice, you could target sub aspects of each, which was called 'directed cultivation,’
+
+The other option was to let the essence go where it was needed, called undirected cultivation. It was an easy way to shore up weak areas.
+
+The guide described directed cultivation as making mountains to have specialization and letting the valleys get filled in, raising the baseline to build your peaks even higher, is called undirected cultivation.
+
+All power needed a strong foundation, after all.
+
+None of these details were discussed at the orphanage. They were just told that the group they joined would have their own guidelines and recommendations specific to their position.
+
+The guide said the goal at Tier 3 was to have 1,000 mana and Mana Regeneration of about one mana every two and a half minutes. The guide explained this was the ideal ratio for directed mana cultivation at lower levels, with 70% directed mana cultivation and 30% undirected physical.
+
+The guide strongly warned against attempting directed physical cultivation until Tier 3, and only when the appropriate classes were taken. The guides specifically for it were not available until after the classes were taken.
+
+What's the difference? Why are you allowed directed mana cultivation but not physical at Tier 1? Matt wondered but got back to reading. The information was interesting but not particularly useful until he could collect essence in a rift. It was still something to do, so he kept reading while he couldn't sleep.
+
+The general idea was that a mage would regenerate 576 mana a day. It also wasn't recommended to delve more than once every three days, and delve slots reflected that. That would let mages fully regenerate their mana pool in under two days. That extra mana could then be used for practicing their skills or stored in rechargeable mana stones for quick mana recharges in a rift.
+
+The rechargeable mana stones were particularly recommended. Because it was mana from your own mana pool, there wouldn't be any time needed to aspect the mana to match your natural mana pool. The guide also recommended emptying and refilling any low Tier rechargeable mana stones after a week because the mana would un-aspect, turning into ambient mana.
+
+Un-aspected mana was great for powering devices but was hell on a cultivator's mana channels. Directly using it could cause near permanent damage.
+
+The last and most interesting part of the guide covered Mana Concentration. Allocating any essence into Mana Concentration before Tier 5 was flatly not recommended.
+
+Mana Concentration shrunk your other mana cultivation aspects to make your mana denser and more concentrated. Denser mana gave your spells more power for the same cost, but the returns were terrible.
+
+To double the power of a spell with Mana Concentration, a Tier 5 mage would need to diminish their base Maximum Mana and Mana Regeneration values back to what they had at Tier 1. That was at a 70% essence allocation to mana through all the preceding Tiers.
+
+That brought Matt up short.
+
+What an insanely bad return.
+
+The amount of essence a Tier 5 had would be massive. In the early Tiers, advancing to the next Tier required ten times the essence of the previous one. If it took ten essence to reach the peak of Tier 1, then it took a hundred to reach the peak of Tier 2.
+
+It was why people didn't farm low Tier rifts despite them being safer. The monsters didn't have enough essence to make it worthwhile. Killing a single monster in a Tier 2 rift was worth the equivalent of killing a dozen in a Tier 1 rift.
+
+The amount of mana and Mana Regeneration a Tier 5 mage would have would be insane, completely incomparable to a Tier 3. Doubling the power of each skill would force them to give all of that up to reset back to the base of around 100 mana and one mana every twenty minutes.
+
+Mana Concentration, for all its downsides, was an important part of mana cultivation. Maximum Mana and Mana Regeneration had diminishing returns when applied to the allocated essence after a certain point. The spirit could only grow so much without strain, and Mana Concentration increased that cap farther than the cultivators lost from Maximum Mana and Mana Regeneration when allocating to it, eventually allowing a mage to have millions of mana.
+
+Which just proved going from Tier 5 mana levels to Tier 1 wasn’t worth it. But, then again, this guide was tailored for lower Tier mages. Matt doubted this was the whole truth.
+
+It was a good warning, though. Matt was sure many a young mage would have crippled their mana cultivation early on without that warning. They would be in the same boat as Matt, unable to cast a single spell but without his advantages.
+
+Matt stroked his pad. His Tier 1 Talent wasn't perfect, but this skill shard synergized with it amazingly.
+
+Before falling asleep, he plugged the pad in so the mana battery would charge overnight and tried to drift off.
+
+***
+
+The vibration of his pad woke Matt up. It was 3:55 a.m.
+
+Panicked, Matt clumsily tapped around the pad, finally opening a video to hear nothing. Sighing, he flopped back to his bed.
+
+All was well. The skill shard hadn't managed to run off in the night somehow. It hadn’t all been a dream. Still exhausted, he forced himself to get moving. Midnight had been rolling around when he’d finally fallen asleep.
+
+I can nap during the day in the maintenance room.
+
+Despite his weariness, he arrived at the training room only a smidgeon late. According to his schedule, today was only flexibility training. If it had been a strength training day, Matt didn't know how he would have done anything. Stretching was a perfect way to wake himself up before Dena and Eric came down to spar.
+
+When they arrived, both headed straight to his corner. Matt was surprised. Eric had recently said his control training was almost done, so he was doubling down on the practice to get it over with quicker.
+
+As soon as they got close, Eric announced, “Matt, Dena and I talked it over last night. You have talent, and it's wasted here. We want to help.”
+
+Matt started to say it wasn't necessary. He didn't want to take charity from them. They were too kind. It would make him feel dirty.
+
+He thought back to last night, the skill shard he’d swiped. Did he still even deserve help after that? If it had been theirs, he knew he wouldn't have stolen it. The arrogant stranger was another matter.
+
+Before he could get anything out, Eric continued, “It's not charity. You’re going to earn it in a spar. Unless they have a Talent that boosts physical cultivation, a Tier 1 fighter just landing a hit on a Tier 3 is more than enough to earn them a guild invitation. Anywhere but here, at least. It's actually a pretty standard test in the Empire proper. Though they usually make the fight against a peak Tier 2 with a 70% split.”
+
+Dena returned from the weapons rack with a pair of blunted daggers.
+
+Instinctively, Matt wanted to reject her offer. On the other hand, though, this might be his best shot at escape from this shit hole city. He wouldn't need to spend another nine months slaving away. He could escape with his stolen skill shard all the sooner.
+
+Dena clearly saw his internal struggle because she preempted, “Remember, this isn't charity. You're either going to earn the hit or not. And I’ll be fighting at Tier 3 strength and speed.”
+
+The hesitation didn’t completely disappear from Matt's face, so Eric followed up, “We won't force you, but sponsoring a young talent isn't unheard of. It's really not that uncommon in the Empire proper. You're hardly the first person to ever come out of the Awakening with a…less than ideal Tier 1 Talent. The Emperor doesn't want potentially strong people to languish in the gutters because they were born on low Tier planets or with weak Talents.”
+
+“That's where the Path of Ascension comes in. A sponsor even gets rewarded if their sponsee does well. Make it to Tier 5, we get some small rewards. Make it to Tier 10, we keep getting more and more, all the way up to Tier 25.”
+
+Eric looked wistful as he continued, “The Empire wants powerhouses, needs them. But it also won't waste resources on those who won't put them to good use. This system helps all involved, but we won't recommend anyone if they don't have the drive to advance.”
+
+Matt swallowed. It didn’t sound like he’d be taking advantage of them. But what would happen if he didn't do well?
+
+Dena anticipated his question. “If you stop advancing or die before Tier 5, you simply get marked as a failure. If a sponsor has too many failed recommendations on their record, they lose the ability to sponsor more people. That's really just in place to stop people from recommending everyone they see to play the odds.”
+
+A final bit of reticence held Matt back, so Eric added, “This moment right here, this is exactly how we got started, two street rats from a Tier 5 planet. Someone saw potential and gave us a chance to prove ourselves. There are thousands of low Tier planets in the Empire, Matt. More great people than you probably think come from places like this.”
+
+He and Dena shared a smile, reminiscing on their own beginnings.
+
+That decided it for Matt. “All right. I'll do it. I'll rise all the way to Tier 25 eventually and get you those rewards.” Matt tightened his grip on the training longsword. Who didn't want to complete The Path? Who didn’t want to be a legend?
+
+Dena laughed. “That's the spirit!”
+
+With that, she lunged at him and started the most intense fight of Matt's life. She moved faster than in any previous spar. Matt strained his eyes just trying to make out some of her movements. They were mere flickers that left lines of pain in their wake.
+
+As the five-minute mark passed, Matt realized there wouldn't be rounds between engagements to catch his breath in or rethink his strategy. This would only end when he gave up or landed a hit.
+
+Matt's resolve hardened. He hadn't chanced stealing the skill shard because he was afraid of a risk or a challenge. He could take some risks in a spar. So, he concentrated on keeping his movement defensive, disregarding Dena's strength and speed advantage. Her Tier 5 endurance meant she could just attack at full speed until he collapsed. Even if she kept her speed to a Tier 3.
+
+Matt sent out more attacks, probing his opponent. His was the longer blade, so offense was his best defense. When she closed in, her more maneuverable daggers had the advantage. One could tie down his blade while she got in vicious stabs with the other.
+
+Switching his attacking pattern bought Matt some breathing room. With a moment to think, he concluded Dena’s lack of skill with her staff did not extend to her daggers. The woman had mentioned she preferred them as her main weapon, and it showed. She was intimately familiar with her range and light on her feet, which let her evade every blow as if she saw the future.
+
+Matt stayed patient. He wasn't trying to kill her just land a single blow. Not an easy feat on someone with much higher physical abilities than a Tier 1 like him. While each Tier didn't quite double the power, if two people had the same allocation ratios, the difference was significant.
+
+Higher Tier meant more essence. More essence meant more power.
+
+The golden rule stated total essence distributed equaled increased power. It was the reason the higher Tiers required more than ten times the essence to rank up and was also why the higher Tiers had such massive jumps in power between them.
+
+After another few exchanges, the fight stalled. Dena was content with sending probing attacks or blocking with her daggers or forearm guards.
+
+The more the fight dragged on, the more the fatigue and desperation set in. His energy was flagging. Running himself dry would spell the end of this chance. There was only one choice left; he had to go for broke, attacking with everything he had left at once.
+
+Disregarding defense and leaning to a fully offensive strategy, he no longer conserved his energy and, instead, bet everything on the exchange. He tried to push her into a particular trap without being too obvious. The flurry of blows kept Dena on the defensive until Matt used the rebound of her blocking a side slash to step left and forward, closing in on her. He brought the longsword around with every last drop of power and speed he could muster.
+
+Matt was 5'10, and Dena was only 5'8, maybe 5'9. It meant Matt held the slightest reach advantage even before their weapon choice came into play. Dena was more experienced and faster than him, though. As the blade swept in, she danced back from the blow.
+
+His desperate plan failed. Matt wanted to curse but couldn't waste the breath. As he surged forward to follow up, Dena just kept retreating, holding her hands up.
+
+Matt halted, fear gripping him.
+
+I didn't hit her. Is she just calling it now because I wasn't good enough?
+
+The next words he heard shocked him, “Well done, Matt! I knew you had it in you.”
+
+Off to the side, Eric even clapped a few times.
+
+Matt was flabbergasted. He missed. They claimed it wasn't charity, but what was this obvious faking of a hit? At least they could have made it more convincing.
+
+“I didn't hit you, though?” Matt protested. Somehow, charity from these two felt worse than failure.
+
+Dena grinned broadly and raised her right arm to reveal her side. “Think again! You grazed me right here.”
+
+Matt saw nothing, but Eric nodded right along.
+
+“You don't have to sponsor me. I couldn't make my part of the deal, so you don't have to feel—”
+
+“Matt! You did hit me. Look!”
+
+Dena reached down and pulled the workout shirt over her head. Matt couldn't help but stare, she was only wearing a sports bra now, and she had a light sheen of perspiration on her athletic body that reflected the light. She had freckles that ran down her upper chest down to her—
+
+Matt jerked his eyes up to meet their combined smirks and felt his face flush hot.
+
+Pale skin and a trail of freckles tempted him to look down again but, with an effort of willpower he didn't know he had, Matt kept his eyes on hers.
+
+Dena had righted the shirt and showed him a small mark under the right armpit. Matt had to squint, but he could see it, if barely. A small diagonal line was only distinguishable from the fabric’s weave because it didn’t run parallel.
+
+He had done it!
+
+That was truly the smallest of strikes, but it was all he needed. Relief washed through him. As the stress of failing left him, his body wanted to collapse, being hopped up on adrenaline no longer enough to keep him standing.
+
+Matt turned to Eric and Dena's smiling faces. Eric tossed Matt a small bag he definitely hadn’t been holding before. “Well, congratulations, Matt. You did what most can’t even dream of. Striking a person two Tiers up is one hell of an accomplishment.”
+
+“I don't know how I can repay you both.”
+
+Dena waved him off before he could continue. “Advancing will be more than enough thanks. Let alone the rewards we’ll get the more you progress. But if you really want to pay us back, pay it forward once you get the chance. When you get to Tier 5, you can recommend someone for the same program. Don't waste it, but don't forget about it either.”
+
+“In the bag, I left you more instructions and a train ticket.”
+
+As Eric spoke, Matt managed to turn to him. Keeping his eyes off the woman standing not two feet away was a challenge.
+
+Eric didn’t seem to mind. “Though, you might want to get moving. The train leaves at eight, and the station isn't exactly next door. Unless you’d like to spend more time here, maybe?”
+
+That statement cut through the cacophony of thoughts in Matt's head.
+
+Not next door… That's an understatement. If I leave now, I'll still have to run at least part way to make it.
+
+Matt gaped at them, unable to express his gratitude.
+
+Dena took pity on him. “Best get a move on. I know I look good, but I don’t think I look so good you’d pass up an opportunity to bail on this dump.”
+
+Matt flushed hot again, but her teasing also spurred him into action. Calling his thanks over his shoulder, Matt snatched up the pad from next to the wall and ran to his room. Then he had to find Benny to tell him he was done.
+
+Freedom awaited.
+
+***
+
+Matt dashed down the road. A train couldn’t be seen in the station, and he was terrified it had arrived and left early. Checking the pad clenched in his hands, the time only said 7:32 a.m., but he couldn’t shake the fear he’d be stranded here.
+
+He pulled up to the station with a torrent of sweat rolling down his back. Bouncing on his back was the pack holding his clothes and the few other possessions he had to his name.
+
+He joined the small line at the teller's booth. As he waited, Matt opened the small bag Eric had tossed to him. Inside was an envelope and a few other odds and ends. At the bottom, hidden by the envelope, he found the train ticket.
+
+After retrieving the precious paper, Matt carefully closed the pouch and waited his turn. He'd explore the other contents of the bag later when he could sit and dedicate his full attention to it.
+
+When the person in front of him walked to the waiting area, Matt moved forward and handed the ticket over to the man behind the glass. The clerk scanned it and reviewed their screen. “One cabin to Durham. No transfers. Do you have any luggage you want to check into storage?” The man’s eyes never even peeked away from his screen while he recited the question.
+
+“No, thank you.”
+
+“Well, in that case, you have a four-day trip ahead of you. Two meals will be provided per day. You can choose what meals you take. You'll have to go to the food cars near the front and rear of the train. Any questions?” The man mechanically pushed a new slip of paper out of the small window, his attention still not wandering from the screen.
+
+Matt took the slip, said he didn't, and thanked the man before walking to the seating area.
+
+With no train in sight, he stowed the boarding pass in the pocket with his pad and found a restroom to freshen up. His earlier sparring session and run to the station had left him in a grimy state.
+
+Keeping an ear out for his train’s announcement, Matt hurried through his ablutions, still anxious he'd miss the train. After only another ten minutes of tense waiting, the train finally pulled into the station. Only a few people departed, and then the boarding call started.
+
+Handing his pass to the man at the door, he was directed to car twelve, room two. Matching the room number to the one on his boarding pass, Matt was prompted to scan his pass and pair the door key with his pad or AI to secure the room from unwanted guests.
+
+The room was small but more than enough for his uses. Matt dropped his pack of clothes to the side and carefully poured the contents of Eric’s pouch onto the bed.
+
+Starting with the envelope, Matt opened it and read the letter inside.
+
+Matt,
+
+We are so happy you earned this opportunity. You are hard-working and dedicated to improving yourself, traits rarer than you probably think. We will be leaving as soon as you are on your way, so don't bother trying to find us. It's harsh, but if you have too much contact with your sponsor, it spoils a lot of sponsees. You are meant to find your own path. It's called The Path of Ascension because it's only wide enough for one. Don't be afraid to make unconventional choices. Learn from others but don't treat anyone's advice like it's the only truth, even this advice.
+
+You are on a good start, believe it or not. You may think you’re behind because you spent a year working at Benny's, but most places don't perform the Awakening ceremony until late fourteen at the earliest, anyway, and don't let people delve until fifteen. Emotional maturity will keep you alive in a rift as much as strength once you arrive at the PlayPen.
+
+Matt was struck dumb. Arrive at the PlayPen? It was true, then. A part of him had thought they'd be covering the ten thousand credits to get a delve slot, not getting him into the PlayPen, no matter what they had said. He still remembered how Miles talked about the PlayPen like a desire that couldn't be fulfilled.
+
+He continued reading.
+
+Once you arrive at the PlayPen, take the intro course and what they recommend there. It's been quite a while since we were under Tier 3, so it's a little fuzzy, but only the best are chosen to staff a PlayPen. It's a prestigious position, even on a low Tier world like Lilly. You can trust their advice, though you should think critically about everything you hear.
+
+I do recall you will get a slot in the rift once every three days. Be careful. They will have true healers on staff, but it's expensive. Though you shouldn't have a problem with getting injured with your skills if you are careful and patient. We gave you permission to immediately start delving because, with your combat ability, it shouldn't be hard for you to solo a Tier 1 rift. If you don't get cocky.
+
+Well, and that skill shard you swiped should help a lot.
+
+The letter slipped from his hands. The earlier shock at going to the PlayPen was replaced with dread.
+
+They saw that and still gave me this?
+
+Matt gulped and, with far more nerves than before, continued.
+
+Well, and that skill shard you swiped should help a lot. It's a good skill to pair with your Talent and, no, sponsors can’t see a sponsee's Tier 1 Talent until they are accepted, but we can feel your mana pool when you use items. Eric and I both feel that, even if you don't get a paired Tier 3 Talent, you can strive to get the Tier 25 Talent, even with this handicap. Though we find it unlikely. AND DON'T DIRECT CULTIVATE PHYSICAL UNTIL TIER 3!!!!!
+
+Back to the shard, don't feel bad. You took an opportunity placed in front of you and made it out successfully. Being willing to take a risk is important, and knowing your limits is crucial. You took both into account and won. Besides, if the idiot didn't make a scene and throw a fucking expensive skill shard to start a brawl, he wouldn't have lost it.
+
+That's on him, and if you hadn't tried to get the old man out of harm's way at the cost of your own safety, you wouldn't have been in the position to profit. Karma was working fast yesterday.
+
+The handwriting style changed and became sloppier.
+
+Eric here. That was a slick palming. The only reason I noticed (Dena completely missed it!!!) was because we were watching to make sure no one killed you by accident. But it was a good plan, and well-executed!! Just had to say that. Good luck and visit the—
+
+Whatever the last word Eric had tried to write had been scratched out to the point it was illegible. And the handwriting went back to the loopy style of Dena.
+
+Don't go to places like that. He's just trying to live vicariously through you because he knows if he went to one, I'd go to one in revenge, and neither one of us wants that.
+
+Matt had to pause.
+
+What the hell are they talking about?
+
+Anyway, good luck. You got this.
+
+Best Wishes,
+
+Dena and Eric Thorne.
+
+PS: I forgot because of Eric stealing the pen. Look up 'the curve.' It will be informative. While you're on the train, just focus on absorbing the skill shard. When you get to the PlayPen, buy a newer pad. The ones they sell there are Empire standard, and that means they're twenty-plus years ahead of the best this planet otherwise has.
+
+PPS: Also, the card has a 20k limit, so buy a good weapon and don't be afraid to go into a bit of debt in the beginning. The PlayPen should have a budgeting class. Take it.
+
+PPPS: PSs are fun.
+
+Matt was surprised to hear they’d been watching out for him in the brawl. He hadn't been looking for them but, then again, he hadn't seen them either. It felt good, like a warmth in his chest he hadn't known since before the rift break.
+
+Playing with the piece of plastic, he inspected the credit card. He'd never even thought of owning one before. No bank would risk loaning to someone under Tier 3 or without a backer.
+
+Which I guess I have now.
+
+Now, he had a credit limit twice what it would have cost to buy a slot in Glesie. It felt unreal.
+
+Matt inspected the last few things in the bag. One was the mana control ball Eric had been practicing with for so long. It was a nice gesture, and a good reminder that even if he couldn't allocate into his mana cultivation, he could still work on control.
+
+Once he got more mana, that was.
+
+For the first time, that didn’t sound like an outlandish dream. Two Tier 5s thought the problem would fix itself with his Tier 3 Talent, and he trusted their expertise more than his own.
+
+The last gift was a pair of gloves like the ones he saw Dena use but in his size.
+
+Are they special?
+
+Matt tried them on and couldn't see anything different about them. Knowing those two, though, he trusted they were useful. Even if just as normal gloves, he'd cherish everything they gave him. Because of them, he had a chance at true freedom. Even before the sponsorship and as strangers, they’d treated him better than most people in his life.
+
+Matt repacked the items and went to retrieve his skill shard from his pad but came to the realization he didn't have anything flat and hard enough to pry the back off. After scouring the room and finding nothing, he briefly debated smashing the pad to get the back off to get his skill shard out.
+
+Opting instead to be reasonable, he trekked over to the dining car and, finding it empty, grabbed a pre-packaged meal and utensils. After eating, he dumped his tray into the disposable rack while pocketing the unused knife.
+
+Back in his cabin, the pilfered knife was used to get the pad open and retrieve the skill shard.
+
+With it in hand, Matt reassembled the pad before realizing he didn't know exactly how to absorb the skill. No one ever discussed the details. People acted like it was self-explanatory, but Matt was clueless about where to begin. Fear seeped in that he would somehow ruin the skill by experimenting.
+
+Matt opened the PlanetNet and quickly found a guide. It wasn't free, but only cost one hundred credits. He had six thousand credits saved from Benny's and a credit limit of twenty thousand. Still, he paused.
+
+Why am I worried about such a small price?
+
+With warring instincts, Matt inputted his account information and waited as the purchase was verified.
+
+As Matt read the guide, he was glad he purchased it. The actual process of absorbing a skill was easy, just send a strand of essence to the skill, and it would flow into your spirit.
+
+According to the guide, there were three ways to absorb a skill. Or rather, three different functional degrees of distance you could pull the skill into your spirit, which was the determining factor on how long a skill took to absorb.
+
+The first example was called core skills according to the guide. The number of such skills your spirit could hold depended on Tier but could also be influenced by Talents. However, on average, Tier 1 people could hold two skills in the core spirit.
+
+The limited number was made up for by a notable boost. Skills in the core generally saw around a 30% boost to some combination of their efficiency, power, and casting speed. Being in the core of the spirit also allowed the skill to be modified by the user far more easily. It was recommended that build defining skills or lifesaving skills went to the core spirit.
+
+There was a trade-off, though. Even at Tier 5, most people only had three slots, and then at Tier 10, four. Every tenth Tier after that allowed for one more as the spirit grew with cultivation.
+
+Next was the inner spirit. This was where the average skill was presumed to be added to. At Tier 1, six slots were the norm, with two more being added with each new Tier. The inner spirit was the place general combat skills were recommended. Space was plentiful enough that most wouldn't have enough skills to even fill it as they advanced. It was the average, the baseline everything else was judged on.
+
+The outer spirit was last. By far the largest area, it had room for twenty skills at Tier 1 and expanded enough for five more each Tier. The skills located here were slower and weaker by about half, with the mana cost also going up 50% on average. Non-combat spells like [Purify], [Cleanse], or [Create Water] were often put there. Skills that, while useful, were not time-critical to cast.
+
+According to the guide, while skills could be shifted around the spirit after initial absorption, it took months of deliberate meditation.
+
+Finally, and most importantly, was how long it took to get the skill into each of the spirit’s areas. About a day was required per area it moved through, starting with the outer spirit. That rate would be slightly sped up by Tier. So long as the shard constantly had essence circulating, the skill was considered to be in the integration phase and would slowly move closer to the core region.
+
+The guide explained he should feel the difference as the skill moved along, and its progress through his spirit would give him a good example of the core, inner, and outer regions of the spirit.
+
+Learning all this, Matt was relieved he bought the guide. He'd never heard anything about this and was sure he'd have ended up with his single very synergistic skill languishing in the outer spirit without the guide, losing out on a ton of power.
+
+The guide recommended skills being absorbed should be secured to the body with specially made holders so they couldn't be stolen or dropped.
+
+Matt taped it to his chest.
+
+Once the shard was secured, he directed a strand of essence to the shard and felt the process take over. The skill shard seemed to gently pull his essence while feeding back the essence after circulating through the shard, completely automated. He just had to be mindful of his chest until the skill moved to the core of his spirit.
+
+***
+
+The next day, Matt felt a jolt in his spirit. He instantly knew that if he directed mana through the skill structure still moving in his spirit, he'd activate the skill [Cracked Phantom Armor]. With a day-long grin, he anticipated the arrival at Durham and then the PlayPen in two more days.

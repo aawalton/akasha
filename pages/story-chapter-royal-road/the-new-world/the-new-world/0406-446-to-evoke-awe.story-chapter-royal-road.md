@@ -1,0 +1,405 @@
+---
+id: 34d76a71-73b6-5d9c-ae3f-41ef289c54a2
+page-type-slug: story-chapter-royal-road
+title: "446 To Evoke Awe"
+slug: 0406-446-to-evoke-awe
+partOf: the-new-world
+position: 406
+ownLength: 4520
+unit: words
+ownProgress: 4520
+publishedAt: 2025-07-04
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2407425/446-to-evoke-awe"
+royalRoadId: "2407425"
+markedReadAt: "2026-06-29T21:35:19.464Z"
+---
+
+Torix gazed into the sunset, making sure it glinted on his dark, metal frame.
+
+"Of course not, but it makes for one hell of a line."
+
+I rolled my eyes.
+
+"Let's go fix a planet."
+
+His eyes flared a bright blue.
+
+"It's quite the novelty. I'm far more used to breaking them."
+
+Several of his skeletal and decaying minions walked out of portals around him. They carried various waterproofed ritual supplies. Torix descended into the depths below.
+
+"I'm quite looking forward to the new experience."
+
+Chapter Begin
+
+I dove in right after, and skeptiles, eltari, gialgathens, humans, and Vagni helped the project come together. A dozen inscription circles covered the seafloor, and skeptiles tested different kinds of spirit-making rituals. The largest of the circles spawned phantasms that decayed into what the skeptiles called demons.
+
+The name fit. These wraiths siphoned the life out of an area, feeding on it to make themselves larger. Worse still, they laughed and cackled at the pain they caused, relishing in torture and excrutiation. Letting out a sigh, I washed Event Horizon over a pair of demons, and they evaporated.
+
+Torix telepathically scoffed.
+
+"So all you needed was assistance to polish the rituals?"
+
+I frowned.
+
+"I'm really hoping you can polish a turd."
+
+Torix waved everything off.
+
+"Unfortunately not. It will be thrown out with the rest of this detritus. Shameful, truly."
+
+Torix channeled dominion with a wave of his hand and enveloped the entire expanse with it. Bursts of blue fire encompassed the ritual circles, leaving the area clear and clean. The shamans looked up at him, along with Plazia, whose glare was particularly menacing. As we landed, Plazia stood from a basalt throne.
+
+"The lich has come wearing the flesh of his disciple."
+
+Torix tilted his head.
+
+"And I've arrived to see someone sitting upon a throne and creating trash before calling it a ritual."
+
+Plazia tapped his throne with thrumming fingers.
+
+"This magic isn't structured like other rituals I've participated in. It requires the creation of a mind surrounding a locus of mana. The menace of the mana destroys the consciousness's benevolence after expanding past a certain threshold, resulting in these deformed aberrations."
+
+Torix put his hand up to his mouth, his jovial banter turning serious.
+
+"I can see that. You'll need to employ stabilization measures to achieve any kind of reliable outcome with the ritual."
+
+Plazia rolled his head on his neck as if bored out of his mind.
+
+"Do you think we haven't attempted to do so? Stabilization measures result in the numbing of the created mind's ingenuity. The more stability we generate, the more the mind's power dims. This correlates with the mana's toxicity, resulting in an equilibrium where we spawn demons instead of the so-called spirits the skeptiles are aiming to craft."
+
+Plazia's internal swarm thrummed the water around him.
+
+"We can't be certain that the actual mechanics of the rituals will operate at a higher scale. The skeptiles haven't achieved anything beyond regional success, and even that is temporary. Something within the paradigm needs to change."
+
+Torix's fire eyes flared bright.
+
+"Then perhaps it's time to enact a dash of genius and ingenuity."
+
+They stepped away, chatting about the intricacies of the ritual's dynamics. I let them get a handle on the situation while peering at my status for a moment.
+
+The Living Multiverse | Level 34,281 (Cap: 46,000) | Current Influence: The Rise of Eden | Class: Sovereign
+
+Strength – 732,063 | Constitution – 742,063 | Endurance – 1,139,147*
+
+Dexterity – 495,436 | Willpower – 1,399,992* | Intelligence – 1,025,235*
+
+Charisma – 534,648 | Luck – 689,704 | Perception – 390,879 |Awe - 65,295
+
+Health: 32.8 Billion/32.8 Billion | Health Regen: 7.49 Trillion/min or 128.118 Billion/sec
+
+Stamina: Infinite++++++++++++++++ | Ambient Mana 123,152 Trillion
+
+Mass: 23.04 Billion Pounds(1.047 Billion Kilos~)
+
+Height: 61'00 |18.59 meters | Actual: 13'9 (Infinity/Distributed Matter)
+
+Damage Res - 99.783% | Actual: 99.835% (Infinity) | Dimensional Res - 100%
+
+Phys Dam Bonus – 859.264 Billion% | Damage Bonus – 40%
+
+The Rise of Eden - enhances base stats by 30%, increased to 40% to allies within aura's radius
+
+Mana Conversion(Elemental Furnace Count: 14) - 602.2 Billion mana/min siphoned into runes and armor
+
+I whistled underwater, bubbles flowing from my mouth. Every stat had improved, but a few made leaps and bounds. The most significant of which came from my mass, physical power, and mana. Since the last time I analyzed my stats, my physical capacity nearly doubled. That kind of explosive, exponential rise omened what was to come.
+
+By now, each one of my steps carried the potential to quake the ground, raise the seas, or split the sky. In time, I'd crack entire planets and rive stars barehanded. Physical power wasn't the only rising stat. I passed the hundred billion mana per second mark. I could regenerate my entire body nearly four times a second.
+
+In a pre-system Earth, I had around 750 mana regeneration each minute for every human, assuming ten billion people were alive. In all likelihood, I already had more mana generation than all of humanity, period. My golems and body could power entire planets easily, and I would hold enormous amounts of magic at my fingertips.
+
+However, the surge of fulfillment came alongside a subtle and understated panic. The mana I relied on came from the Old Ones. How was I supposed to kill something like that? It made my goal of 20,000 years seem frivolous and short-sighted. I might need millions of years at this rate, and giving myself such a short time frame left me anxious.
+
+Channeling that anxiety, I sat down in a meditative pose, and time crawled to a standstill around me. It dredged on, becoming a slog while I kept assimilating energy. It was strange. I lived in this insular, internal environment most of the time, and whenever I talked to other people, it was as if I rose above the water to breathe. Each time I dove under, I held my breath a little longer. I was terrified that one day I'd never rise back above the surface, and yet, the suffering and loneliness paid dividends.
+
+I'd gained seventy levels yet gained enough stats for over 7,000. In that manner, I would toil for my guild as I created a body and mind that would challenge the Old Ones. It was a product of my time on L-7, my skills harmonizing into a hellish forge. Again, I dove into that fire.
+
+After hours of sitting still, I pulled myself out of the depths of channeling. I walked over to Plazia and Torix.
+
+"Are you guys done with the planning?"
+
+Torix nodded.
+
+"In the past hour, we constructed a new methodology for the skeptiles' rituals. Your golems shall act as catalysts to help filter some of the energy's volatility. Blue cores shall be supplied alongside the use of various botanical methodologies."
+
+I hid my exhaustion behind a smile.
+
+"Ah, you'll be making fruit trees then?"
+
+A skeptile swam over, its form lithe and shaded an emerald green. It wore an eldritch leather set of swim gear, and various oils covered the surface to stop water from leaching into it. It telepathized to us.
+
+"We've grown many filtration plants that can swallow the corruption. However, it will be challenging to scale up our production to the standard it needs to be."
+
+I reached out a hand.
+
+"What's your name?"
+
+The skeptile grabbed my palm in both its hands and gave a slight bow.
+
+"Yohetah. It is good to meet the savior of our kind."
+
+I raised my other hand.
+
+"Eh, you might be overselling me a bit. I haven't saved anyone yet."
+
+Yohetah smiled.
+
+"You are as humble as Tera has said. Then, we shall get to work in your name. For the Harbinger."
+
+He swam off before Torix rolled his eyes.
+
+"You'd think they worship you."
+
+I frowned.
+
+"The Vagni already do. I'm hoping that's relegated to only them."
+
+Torix cackled.
+
+"I see the standards for a god have lessened over the eras."
+
+I gestured to myself.
+
+"Apparently. Either way, let's get this show on the road."
+
+Torix nodded.
+
+"Certainly."
+
+We began setting up parts of an enormous, palpably complex ritual circle. As we did, I learned quite a bit about rituals from watching Torix set it all up. I'd seen him craft one before whenever we gave him a new body, but I had lacked the prerequisite knowledge to absorb what really happened. With my now rudimentary grasp of the concepts, I could soak in some of the details, and those details told me a single story.
+
+Torix was a prodigy.
+
+He wasn't the kind of genius that couldn't explain their brilliance either. He was the kind that ushered in a revolutionary advancement within a given field while acting as its charismatic figurehead. As he explained each piece he used, the depth of his understanding became all the more obvious.
+
+Torix's first reform was in how the skeptiles drew up their rituals. He categorized the process, turning the wild, hand-drawn circles into structured outlines. He called these runic lines, and according to Torix, they were integral. Apparently, if a ritualist didn't understand them, they weren't worth the chalk they used for their ritual spaces.
+
+That importance stemmed from how essential runic lines were for the incantation's overall impact. If the lines crossed at the wrong points, the manas within would have a kind of friction. By rubbing against each other, they cross-contaminated, leading to far less stable magic.
+
+As Torix explained, Plazia's rituals lacked this key component. While brilliant in his own way, Plazia's enchantments were more akin to Michaelangelo trying to paint out a computer's source code. It could be done, but there were far better methods available. Torix had mastered those better ways, and he served as a kind of evolution for the hivemind.
+
+Instead of battling with his usual sardonic swagger, Plazia acquiesced all control of the project. Torix established that dominance nigh instantly, and he relished returning to an arcane pursuit. His rigidity and logically oriented mind, which had held him back when learning the cipher, now expressed its full might.
+
+How he used those runic lines was a large part of that. Every pathway blended into the others without any bleed-through. The resulting synergy strengthened the ritual by leaps and bounds. His innovations didn't stop there. Torix took these runic lines and began the process of weaving them.
+
+He explained it to me like one of the albony's tapestries.
+
+In a tapestry, each thread was woven into a cord with a singular purpose and color. By taking that strand and binding it to other pieces, a larger picture could take shape. Eventually, with enough layering of different threads, those pictures could tell entire stories. That kind of nested complexity took place in Torix's rituals, and they left me dumbfounded at their intricacy.
+
+Even Plazia, with all of his experience, wasn't able to fully comprehend them. It was like staring at a chalkboard that was smothered in an esoteric proof for a mathematical equation. While awe-inspiring and obviously difficult, I couldn't derive any meaning from it. My lack of understanding aside, I could feel the effects.
+
+Even from basic tests, the revised rituals spawned much stronger, larger, and more robust spirits. Those preliminary tests exposed how much of an impact Torix's changes made, but the final touch that put the rituals over the edge was what Torix called runic pressure. I watched on as he mapped out his runes.
+
+Torix wrote them as he telepathized to me.
+
+"It's a simple concept. The mana flows of a ritual essentially create a kind of pressure on the runes."
+
+I pointed my hand down one of the runic lines.
+
+"It's like a river. As it gushes more water, it erodes the shore more and more."
+
+"Precisely. We're weaving these lines so that the pressures they create help to harmonize the project instead of dismantling it. It's quite simple once you get a feel for the process."
+
+I gawked at a ritual that had become far more complex than a circulatory system or circuit board.
+
+"Yeah. Sure."
+
+"The sensation you're experiencing is the exact sensation I have whenever I stare at your cipheric runes. They're nonsensical gibberish, yet they carry a meaning that's obvious even from a glance. It's simply not obvious to me."
+
+I frowned.
+
+"What? No way. My runes are still, to this day, awful. Even after all these years working on them, they're child's play."
+
+The lich shook his head.
+
+"As are my rituals."
+
+I gestured at one of the lines.
+
+"Are you kidding me? Look here. You're setting this line up so that the friction of this line actually helps to stabilize this other volatile flow. They end up stronger and more efficient without disrupting the meaning behind the project. That's like...Like making furniture without any screws, glue, or bolts. You're just fitting stuff together, and somehow, it sticks despite everything."
+
+Torix's eyes flared white.
+
+"I hadn't explained that process yet. I didn't realize you were paying such sharp attention."
+
+I shrugged.
+
+"I saw you use it earlier. It reminds me of some of my cipher work."
+
+Torix finished another patch of the ritual.
+
+"Perhaps one day you'll understand how to make these kinds of rituals by writing them in the cipher. It should result in more potency and permanence for all of them. Given enough time and an unshakeable onus, you may even exceed your progenitor by doing so."
+
+I leaned back from the project, taking it all in.
+
+"Beating Baldag-Ruhl? I don't know if it'll ever happen."
+
+Torix laughed.
+
+"Never is a long time, disciple, and stranger things have happened."
+
+We continued our pursuit, grinding away at the process over the next two weeks. To help organize the project, we constructed a complex gyroscope as a platform for the extensive incantations. Composed of noncorrosive metals with a sphere at their center, every square inch of the model was smothered in runes aside from one panel at the top of the central orb.
+
+They blended together like a painting, each piece a part of a greater whole, and the energy flowing through the device could rival fusion reactors. It reminded me of Baldah-Ruhl's ritual many years ago. Even at that point, the complexity still seemed so distant.
+
+Remembering that unnerving brilliance, I crossed my arms while inspecting the device.
+
+"Somehow, I doubt I'll ever reach Baldag-Ruhl's heights."
+
+Torix stood up from his work.
+
+"We have his blueprints to learn from. Given our lifespans, we'll be able to devote centuries, if not millennia, to the project, and under the sheer strain of time, his secrets will crack."
+
+"Kind of like this ritual?"
+
+"This is elementary compared to that genius."
+
+It was extraordinary for Torix to give someone the title of a genius. Whether I liked it or not, Baldag-Ruhl had earned it. Still, Torix closed the gap in their ritual magic since I first met the lich. He toiled on his magic and sorcery until it reached another zenith.
+
+That's why I carried absolute confidence in the ritual despite not knowing precisely how it worked. Torix's innate ability was put on full display as he finalized disparate sections, turning a jumbled mess into a smooth machine within seconds. Doing another of his routine inspections, Torix stood straight.
+
+"It's finished. This will work quite nicely."
+
+I opened my status and sent messages to the relevant albony.
+
+"Then let's get this show on the road."
+
+After a few hours of waiting, we gathered the albony chancellors. Torix met them with his steely gaze, the lich's eyes sharp enough to slice someone apart. Torix also gave them an unsettling politeness, knowing the best position to show off the ritual and demonstrate its full effect. As he gave them seating above the ocean, I kept it afloat with a series of saturated gravity wells.
+
+I stood to the side, glad not to be at the center of something for once. I floated over, hearing Torix talk to Alfonso. The lich gestured with his hand.
+
+"It's a matter of necessity and convention. While my runic methodology elevated the patterns the skeptiles initially created, the core, fundamental aspects of their rituals belong to them. They are most certainly critical."
+
+Alfonso gave the lich a sharp glare.
+
+"Are you certain you're not giving false modesty?"
+
+Torix let out a laugh.
+
+"Modesty? I leave that for my disciple and Althea. Given my proclivities, I prefer a bit more showmanship than he does. You all shall see that soon enough."
+
+Alfonso gazed at the water below them. Hundreds of meters down, life flourished in the sea, with the crystal-clear water hiding nothing from the albony. In the distance, the beautiful hues of orange and yellow dimmed over a sunset. They rivaled anything Earth could muster, the sheer expanse of the view giving it an all-encompassing majesty.
+
+It was a quirk of Blegara. The natural humidity of the planet gave the air a kind of thickness. The light of sunsets and sunrises dappled off that humid air and the flowing clouds. Combine that with an uninterrupted horizon, and the arresting beauty stunned even the experienced chancellor.
+
+Alfonso adjusted his monocle at the sight.
+
+"This reminds me why we attempted to settle this planet in the first place. It's a shame what came of it, but that's to be expected given the management."
+
+Torix interlocked his hands behind himself.
+
+"If you're going to act without any moral qualms, you should've done so properly and to a worthwhile end. In that regard, the only thing worse than slavery is poorly managed slavery."
+
+Alfonso raised his brow, the fur on his face ruffling.
+
+"We weren't willing to sink so low as to use necromancy. Aside from that, I'll mention that I oversaw a free planet, one of the few within the Empire."
+
+Torix turned to face his ritual.
+
+"I've done my research on Olstatia. It's a world with a long history, certainly, and plenty of indentured servitude took place there."
+
+Alfonso smiled.
+
+"But not while I governed it. I kept it to trading only. Obolis always wondered why, but I understood that an excess of luxury dampens the mind. That's one of the reasons I was able to keep Olstatia as an economic powerhouse despite the rampant nepotism and crony capitalism. I ensured that struggle was embedded into the inner framework of the system."
+
+Torix turned a palm, his words like knives.
+
+"And yet your dubious policies have killed more allies than my undead magic has killed enemies."
+
+Alfonso smiled, no joy in the expression.
+
+"What's your source?"
+
+Torix pulled out a piece of parchment from his dimensional storage
+
+"Theodore Usarius's study on the impacts of indentured servitude and limited dispersal of dungeon clearing experts along with a variety of peer-reviewed meta-analyses."
+
+Alfonso sneered.
+
+"You listen to that biased bastard?"
+
+"Enough to put action behind the knowledge I learned from him. For your sake, let's both hope that your treatment of your associates has improved since your time under Obolis. Otherwise, you'll deal with me."
+
+Alfonso took a breath before recomposing himself. He gave Torix a slight bow.
+
+"I will keep that in mind, your excellence."
+
+Torix turned his head and glared down at him.
+
+"Hm...You may call me Torix. Work hard so as to not lose the privilege."
+
+They walked away, a slight smile of amusement on Alfonso's lips. As I hovered up, Alfonso turned to me.
+
+"Though the respite from your moon is welcome, we must return to our work soon. When will this ritual be over?"
+
+"In the next hour or so."
+
+Another chancellor peered at the sea below.
+
+"Where are the mana batteries stored for this incantation? Are they underground?"
+
+I pointed at myself.
+
+"You're looking it."
+
+A shorter chancellor gulped.
+
+"Is that, perhaps, safe?"
+
+I shrugged.
+
+"Hell, if I know.
+
+As Torix finished getting the ritualists positioned, I jumped down and took my place at the center of the magical diagram. Though I mentioned not being the center of the project, I meant it in a metaphorical sense. Literally, I was right there in the thick of it. Why? My body was the primary conduit for channeling the mana since my dimensional fabric could contain the vast majority of the energy.
+
+We would've used my own dimensional fabric for that, but it could warp the intent of the mana. I could as well, but I practiced to prevent that by allowing mana to flow through me. After all, I had plenty of time waiting for them to finish the project.
+
+The process of shepherding mana reminded me of pulling it through myself for a simple spell. It was all about intention, and in this case, I could have none. Instead, I let it be. In a normal body, that kind of raw energy would've left a person ravaged. Given the sheer volumes of mana in this ritual, the person at the center would disintegrate.
+
+Given my history, I wasn't concerned.
+
+With everything in place, we began. Torix channeled mana, and it coursed through the ground. I offered his preferred energy, and pure dominion suffused the entire sea. Like a growing cloud of ink, it saturated the entirety of the gyroscope before Torix pulled the staff I made for him to his side. He pulled it over his head, and it siphoned the dominion mana into the runes.
+
+The dark metal glowed, steaming bubbles erupting from it. The energy resonated in the water before unleashing a reverberating echo across the distant seas. It echoed back to us like the low rumbling of tearing metal and a whale's cry. I floated at the center of the gyroscope, generating and directing energy like an electrical conduit.
+
+Torix directed it from outside the apparatus, his deft mana manipulation operating with his characteristic logic and fluidity. A composer of primordial forces, Torix manipulated everything into place, helping the skeptiles handle the building reservoir of energy. That power continued growing until the construct below the sea glowed bright as a second sun.
+
+And Torix was prepared. He already channeled magic over the skeptiles' eyes, preventing blindness. The lich gave the reins to the skeptile as the mana pulled over the sea. They molded and tugged it into shape, forming the mind into something gentle. It drew from surrounding trees encapsulated inside many underwater terrariums.
+
+It was strange to watch.
+
+I'd made plenty of psyches while on L-7. However, they were mindless monsters tempered with force. The skeptiles took the opposite approach, sharing and constituting the formative memories of the giant. Each recollection they shared was one with gentle beliefs and coaxing kindness.
+
+Above the water, a colossal, semitranslucent aura formed. It shifted in shape and composition before materializing as a wave. It continued amassing in size until a vast wall of water covered a patch of the horizon. Kilometers in both height and width, it was a biblical sight, an entity that could swallow mountains within its domain. It reached its peak size before accumulating energy. Pulling from the ritual, its mind came into being.
+
+A simple, benevolent being arrived from the wave. Its eyes opened, the two orbs bright in the seafoam green wave. It blinked with a bright curiosity, turning to peer at the world around it. Wielding its body, it lifted two arms out of the waves. They kept the wildlife moving within, schools of fish shimmering in its depths.
+
+A lattice of glowing lines expanded throughout it. As the sun set and darkness overcame all, the elemental's radiant energy enveloped everyone in a life-giving aura. The blue-green glow cast rippling shadows over the sea, but they lacked the menace of an eldritch. This wasn't something to be feared.
+
+Its gaze was warm and calming, like a Sunday morning. Its water body was warm, like the hug of an old friend. As it drenched all near it in its being, it gave a palpable set of sensations. The aura felt like drinking a deep glass of cool water on a hot, dry day. I hadn't been thirsty in years, and the sensation of being quenched was both alien and nostalgic.
+
+Torix took a step back, and his eyes turned yellow. He put a hand over his face.
+
+"It's been centuries. Hah. I'd forgotten what it was to drink water. How bittersweet to taste it once more."
+
+The albony gazed at each other, taken aback by the scale of the magic. The skeptiles kept refining the forces and flows of the elemental, and it continued to evolve. It took on a more defined shape, reminding me of a bipedal catfish with whiskers and fins to match. It gained abilities and began using them to return the land and sea to harmony.
+
+After two hours of giving it mana, the metal construct below had melted into a pile of slag, and the evaporating water belched to the surface like hydrothermal plumes. I remained the single piece of the ritual circle that hadn't turned to molten goop. Well, kinda. My body glowed blue, and I held my form with gravitation instead of physical rigidity since I long ago liquified.
+
+The pressure kept me solid as Torix ensured the skeptiles' focus. He granted buffs, motivational speeches, and corrections where necessary. Plazia's eldritch died in droves as they helped keep the energy flowing. They protected the skeptiles from the mana they directed, and the ancient shamans struggled to continue their deft work.
+
+The elemental above wobbled, other pairs of eyes forming in its lattice-laden body. The benevolent eyes above fought them to nothing, and the albony above watched with a detached fascination. After two more hours of toiling, the elemental sent out a shockwave that coursed over the entire sea of Blegara.
+
+The demonic eyes within closed, and only the benevolent master remained. It turned to the albony, the colossus towering above them all. It reached out, the albony leaning back in their seats. Many cowered at it, and they hissed out vitriol when it neared them. Alfonso stood up, and he reached out a hand.
+
+As gentle as a mother holding its baby, the elemental touched Alfonso's palm, and as it pulled back, a dark pearl lustered in the albony's hands. Alfonso bowed to the elemental before the colossus turned away. Flowing into a dark sea, it left the ritual circle. It siphoned in the ambient mana around it, creating water, purifying the land of eldritch, and planting the seeds of life.
+
+Blegara would be reborn.
+
+I gawked at it from the depths, my body dimming as I cooled myself down. Even Torix marveled at the sight before he raised his hands. With a telepathic roar, he announced to everyone present.
+
+"We have created one of Blegara's twelve guardians. All hail Poseidon, the Cleanser of Seas."
+
+A chorus of cheers erupted as I lifted myself from the ocean's surface. Water evaporated off of me, and I grinned at Alfonso. He squeezed the dark pearl in his hand before giving me a resigned nod. I put a hand on his shoulder.
+
+"Welcome to the team."

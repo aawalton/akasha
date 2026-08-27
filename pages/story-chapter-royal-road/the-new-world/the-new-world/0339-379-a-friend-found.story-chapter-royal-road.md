@@ -1,0 +1,243 @@
+---
+id: ac102434-bbc7-5252-9414-8d3a42c9b69a
+page-type-slug: story-chapter-royal-road
+title: "379 A Friend Found"
+slug: 0339-379-a-friend-found
+partOf: the-new-world
+position: 339
+ownLength: 1865
+unit: words
+ownProgress: 1865
+publishedAt: 2025-02-26
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2089862/379-a-friend-found"
+royalRoadId: "2089862"
+markedReadAt: "2026-06-29T21:32:52.261Z"
+---
+
+At the same time, I pulled out my grimoire and handed it to Obolis.
+
+"Use this to make the counter enchantment. At the very least, we'll need any cipheric effects voided in this space."
+
+Above us, several screams echoed out. I turned to Shalahora.
+
+"What's happening?"
+
+Shalahora raised a hand.
+
+"The Hybrids are consolidating."
+
+The cathedral's roof ruptured, and several albony royals approached us as Hybridized monstrosities. A freed Victoria glared at us with a wicked smile, and she swung a spear of light behind herself.
+
+"It's time to make our mark."
+
+Chapter Begin
+
+I raised my brow.
+
+"No, it's not."
+
+I peered up, creating a multilayered gravity well over the place. The first layer was a large panel that pulled downward. It was enough to restrain an average person. Anything that kept causing gravitational ripples received multiple plates of gravitation until they quit squirming around. In ten seconds, everything in the building stopped moving.
+
+Aside from Victoria, that is. She stood in crushing gravitation, the rock floor cracking beneath her. She collapsed onto her knees before pulling a metal cylinder from her dimensional storage. Obolis snapped his fingers, the chains reforming over her.
+
+"That's quite enough."
+
+Victoria collapsed before one of the Hybridized royals crawled across the ground. It reached the cylinder before pressing a button. Stopping the worst, I walked up, pocketed the cylinder, and turned to Obolis.
+
+"What was that?"
+
+Obolis walked past the tether of dimensional fabric I left behind like a rope.
+
+"It was a thermonuclear bomb she stole long ago."
+
+I raised my brow.
+
+"It's been set off?"
+
+"Yes. There are many methods of disposal without casualties."
+
+Shalahora tilted his head, tethering to everyone in the building and nearby. He turned to me.
+
+"Their minds are silenced. What should be done?"
+
+I shrugged before turning to Obolis.
+
+"What do you want? This is your city."
+
+Obolis walked up to Victoria. The Emperor narrowed his eyes at her.
+
+"You've been reconstructed by Elysium. You understand that, don't you?"
+
+Victoria growled.
+
+"You don't know anything of what was done to me. They didn't change anything. They made me understand what you've taken from us. What you sold us out for."
+
+Obolis sighed.
+
+"I gave you the greatest upbringing imaginable. Endless texts of value, every weapon and armor piece you requested, and a prestigious university full of like-minded individuals to challenge and encourage you. I gave you many options others dream of. I even granted rare requests for exotic animals and meetings with band members you wished to see."
+
+Even in her recreated state, Victoria's hair rose on end at the last statement. She peered away, flushing red under her fur. Obolis walked up and lunged beside her.
+
+"Are the core characteristics there or-"
+
+Shalahora lowered his head.
+
+"No. She is lying to you to lower your guard and kill you. She remembers who you are and how to weaken you. That is all this is; she presents a shallow facade to have you killed. She plans to shatter Helios's prison to recreate him as she has been. She will do the same to many after that, converting more albony royals to erode your empire from within."
+
+Shalahora's form rippled.
+
+"And that is only the beginning."
+
+Obolis peered away before squeezing his hand.
+
+"Ah...As expected."
+
+Obolis placed a hand on her cheek.
+
+"I loved you deeply. You were the heat to Helios's cold. You both fought like wildfires, each surging the other to greater heights. In that perpetual combat, you found reason and purpose. You were a light to all that saw you, an inspiration of the albony ideal."
+
+Victoria heaved for breath before trying to bite Obolis's hand. The Emperor grabbed her jaw. He could easily break her neck, and the grizzled Emperor considered it. Instead, he set her down and turned to me.
+
+"Can you lessen the gravitation over her?"
+
+I did, and Obolis opened his dimensional storage and pulled out an artifact. The sword of light glistened as Obolis smiled at Victoria.
+
+"This is the sister of your spear. They were found together."
+
+He grabbed Victoria's spear, ripping it from her grasp. A quick push later, and the weapons clicked in place. A halberd spawned from the glow, radiating with intense quintessence mana. Victoria stood up, facing him in her chains. They disintegrated before Obolis placed the weapon in her hands. As she snatched it away, she snarled.
+
+"You finally give it to me after all this?"
+
+Obolis interlocked his hands behind himself.
+
+"It's my final lesson."
+
+She grabbed the halberd, swinging at Obolis. It blurred with excessive speed, but Obolis dodged with ease. The Emperor gazed at the streaks of light.
+
+"What I told you then holds true, even now."
+
+She kept swinging the weapon, and crescents of light lingered from her attacks. They resonated with her halberd, strengthening it with a subtle melody. Obolis turned away.
+
+"You aren't ready for the Shaelance Glaive."
+
+The resonations built as cracks of light spread over Victoria. The resonance destroyed the Hybrids nearby as she screamed out. The gleaming glow encompassed her entire body, and she dispersed as soft petals. They floated away like a torn flower carried by a gentle breeze.
+
+The Shaelance Glaive fell to the ground, and Obolis picked it up while resting on his knees. Shalahora walked up, reaching out a hand. Obolis handed the psionic Sovereign the weapon, and Shalahora marveled at it. Shalahora raised it high.
+
+"A fascinating weapon. Two flows of quintessence must mirror the other, and they build to a blinding crescendo. From their chorus, a resonance of destruction is born."
+
+Cracks spread into Shalahora's arm. He tossed it to me, and I snatched it out of the air. It hummed in my hand. I matched its quintessent rush before giving it a few swings. The light expanded in the Rise of Eden.
+
+It built a strange series of notes. The slicing bolts of light resonated and sang like a throng of warriors. They coalesced into the weapon at its peak, a fierce potential radiating through me.
+
+It faded before I lifted the weapon high.
+
+"Why did you want Victoria to pass with this?"
+
+Obolis let his hands rest at his sides.
+
+"I saved her from that weapon many times, and she never listened to my warnings. She would've rather died this way than be a tool of Elysium."
+
+Obolis nodded before standing. He squeezed a hand where Victoria had been.
+
+"This was the one time I couldn't save her."
+
+Kessiah put her hands on her hips.
+
+"Guys, there's people that need treatment. Let's get this show on the road."
+
+Obolis kept his shoulders low.
+
+"Indeed. We shall treat the treatable."
+
+I handed the spear back, and we headed upstairs, finding everyone restrained by variable levels of gravitation. I released a few guards, and all of them lunged onto a knee facing Obolis. A few scrambled to get their masks back on, apologizing profusely. Obolis dismissed all transgressions, and he turned to the patients here.
+
+They shouldered the lottery's mark, from Hybridization to psionic splintering and fatal wounds. Obolis rubbed a temple.
+
+"How many may be saved?"
+
+Shlahora pointed at three different albony. Obolis nodded before pulling out another artifact from his storage. He pulled out a band of fire, and it slotted around his outstretched hand. Mana siphoned through a few elemental furnaces before Obolis tightened his grip. As he did, fire spawned over the wounded albony, and they faded into nothing.
+
+Obolis pointed downstairs.
+
+"Let's hope that Helios can be saved."
+
+Kessiah stayed upstairs, treating individuals while we headed down. Obolis and I drafted a few cipheric canceling inscriptions while Shalahora guaranteed Helios's mental security. After a couple hours, I called in Plazia to help, the three of us racking our brains for any solution. Plazia and Obolis did most of the technical work, but I wrote out the cipher. My thaumaturgical abilities gave me more nuance than them.
+
+After achieving a practical effect, we established an area that muted a specific cipheric interaction. It duplicated the results of Plazia's Schema removal but not entirely. That variant focused on isolating system-based effects. This enchantment stopped anything that changed what a person was.
+
+That was where I came in. Plazia and Obolis couldn't make that engraving because it lacked the stability to use on a living person. Their attempts resulted in weird, wonky incantations that were wild and unpredictable. I stepped in at that point, knowing how to fix it. After I finished etching into the pages, Obolis peered at my runes.
+
+"It's so strange. You make the cipher look less like a language and more an art form."
+
+Plazia leaned on a throne he had crafted hours ago.
+
+"It is all he may do with the cipher, but it is a unique trait...It happens to suit this circumstance well."
+
+I frowned.
+
+"Let's hope so."
+
+I charged mana into a monolith we marked the inscription on. It was my preferred method, after all. After several minutes, it took hold. As the odd sensation crossed over me, Obolis crossed his arms.
+
+"Did it succeed? There's no change."
+
+I left my body before remaking myself from my dimensional wake. As I did, I tried reforming in a different shape than my usual. I couldn't. Once made new, I turned to Obolis.
+
+"I feel its effects. It works."
+
+Obolis tapped his crossed arms while looking at Shalahora.
+
+"And the mind is secured?"
+
+Shalahora dispersed.
+
+"It is, and there are no other enchantments elsewhere. This place is pure."
+
+Obolis took a breath.
+
+"Then we need to stop the stasis. If you would?"
+
+I trotted up.
+
+"Gladly."
+
+I pushed through the temporal field before reaching Helios.
+
+"So it's the gauntlet, right?"
+
+Obolis nodded. I pushed through, finding Helios's plated arm. Beneath the gauntlet, two gemstones were embedded in the inner palm. One channeled energy from the gauntlet, while the other remained lustrous but unused. I glanced at the Emperor.
+
+"It's the gemstones, right?"
+
+Obolis stepped closer.
+
+"It's one of them."
+
+I raised a brow. Obolis turned a hand.
+
+"They were supposed to assist him with his sight. He turned them into incredible weapons through his own ingenuity. The one siphoning mana is responsible for the stasis."
+
+I gripped it.
+
+"Are we ready?"
+
+Obolis stepped back.
+
+"As ready as we can be."
+
+I dislodged the gemstone. The temporal field dissipated, unleashing all frozen within, even Helios's death throes. His voice filled the cavern, erupting like a pained cry. Obolis peered away as Helios's body funneled down to the bottom of the void ice, most of him blended from yours truly. The blood and chunks froze seconds after, and I shook my head.
+
+This situation was insane.
+
+After the echoes faded, We looked around, waiting for Helios's respawn. Seconds passed like eons. As dread sank in, a flash of mana crossed over us. A muscled albony appeared, black stripes lining his furred body. He glanced around, his eyes pale and blind from birth. He stared at his hands.
+
+"And here I imagined you'd all be too stupid to figure it out."
+
+He squeezed them into fists.
+
+"Looks like I was wrong."
+
+He smiled at us.
+
+"Excellent work, uncle...And Harbinger."

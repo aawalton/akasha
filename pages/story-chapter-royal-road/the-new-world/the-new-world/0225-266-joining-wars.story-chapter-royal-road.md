@@ -1,0 +1,405 @@
+---
+id: 89e9aea6-716a-573b-881e-185665f7d405
+page-type-slug: story-chapter-royal-road
+title: "266 Joining Wars"
+slug: 0225-266-joining-wars
+partOf: the-new-world
+position: 225
+ownLength: 5268
+unit: words
+ownProgress: 5268
+publishedAt: 2020-08-29
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/546379/266-joining-wars"
+royalRoadId: "546379"
+markedReadAt: "2026-06-29T21:28:44.089Z"
+---
+
+Without further delay, Helios lifted his hand and generated a portal with ease. On the other side of the entrance, a futuristic, metallic paneling lined the walls of a large room. It was the inside of a ship, likely a dreadnought class by the look of it. After crushing many of them, I kind of got a feel for their inner architecture, and this fit the bill.
+
+Helios peered around while raising his voice,
+
+"On the other side of this portal is a landing bay for an imperial dreadnought. Here, any gialgathens who are rested may join us."
+
+Helios turned to me, awaiting further orders. I walked up to the portal, waving everyone to come inside,
+
+"Follow me."
+
+Stepping into the steeled inner sanctum, the greenish hue of orichalcum imbued the air. Lines of light traced throughout the compound's walls and floors, some kind of fuel source doubling as a consistent kind of lighting. The pulsing, oozing shine was dampened by thickened plates of tinted glass, but it was so bright it still kept the place well lit despite that.
+
+Beyond the walls, elegant ships made way for enormous battle drones. They used smoother linework for the silhouettes of the vessels when compared to the Adair's ships. From a feel perspective, they seemed less militant and more aesthetically inclined. Whether that translated to effectiveness on the battle, time would tell.
+
+Piloting these ships, albony of all kinds strutted around in various mask colors. Most wore wooden masks without any stain on them, and any member with this kind of cover focused on grunt work. The next tier up where the orange masks, the same as John Mcsmitty's mask. These guys were welders, calibrators, or managers. They handled the technical work that required a bit more skill.
+
+The soldiers that actually piloted the ships themselves were mostly wooden maskers like the grunt workers. A rare few of these soldiers wore red masks like what Caprika wore when we first met. The red maskers rode the best ships, commanded respect from others, and they got the majority of the attention from the calibrators.
+
+As we stepped out, many of those working on the bay level gawked at us. They lunged to one knee, bowing as if their life depended upon it. Helios raised a hand,
+
+"As you were."
+
+The workers jumped back to work, the mass of movement reviving in an instant. Helios pointed at a wider walkway along the back of the bay,
+
+"If you would follow me, I can show you all where the other commanders are situated."
+
+After a brusque nod of approval from yours truly, we walked toward the other members. Following us, Kessiah, Althea, Hod, Florence, and Torix kept pace, and we walked through many corridors with dozens of rooms situated in them. I noted the layout as we made our way, ensuring I wouldn't need help navigating the area again.
+
+We found ourselves on a large, wall-less elevator. Stylish yet functional, it zoomed upwards fast enough that we experienced a G or two of force. Rings of plasma fuel zoomed past our eyes before we rose into a grand entryway. Some craftsmen meticulously carved, etched, and molded the metal into the shape of two albony, their individual hairs made to a lifelike level of realism. They lined a doorway covered in symbols, likely patriotic symbols for the Empire.
+
+Helios stepped up towards a scanner that pulled out a large needle. It took a sample of his blood as Florence turned to us,
+
+"We'll be meeting several other members of royalty here. Alastair is the big one, but he's a gentle giant. Ophelia is a completely ruthless schemer. If you want to know which one she is, just look for the ugly one. We'll also be meeting Victoria. She and Helios have a sort of rivalry for who would be the next successor of Obolis. Recently, she's pulled ahead of my brother in that regard."
+
+Helios glowered at Florence, "As if either of us would ever succeed an immortal."
+
+Florence nudged his brother with an elbow, "You didn't say that when we were cubs. You always dreamed of being the real ruler one day."
+
+Helios stepped through the opening doorway,
+
+"Children's dreams die where the adult world begins."
+
+As we stepped into a fancy control room, Florence mouthed,
+
+"In other words, here's where dreams go to die. Fun."
+
+Peering around, I disagreed. Maybe daydreamers lost spirit here, but for a logistician, this was complete reverie. Monitors detailed many situations across Blegara, showing underwater scenes of chaos. Several obelisks floated near these monitors, interacting with virtualized statuses to organize troops and data. These machines funneled information towards data feeds that scrolled over the faces of a few orange masked technicians.
+
+These orange masks then funneled footnotes of various situations to three albony standing on an elevated platform. These albony wore red masks, each of them standing in front of an expansive glimpse of the world below. My eyes gawked at the planetary view exposing itself in all its splendor.
+
+Blegara was an oceanic world, one with a few sparse islands littering its surface. Along the endless seas, a gradient of shadow drew a line between night and day. In the nightsided half, lights from beneath the ocean lit up in entrancing clusters of glowing radiance. They reminded me of views of Earth's cities during night time, at least before the culling and our Schematization.
+
+My eyes drifted from Blegara to the unsullied view of the stars surrounding the planet. No atmosphere dampened the spectacle here, nebulas splashing like colorful clouds. The stars shined with the radiance of reflective drops, galaxies drifting in colorful spirals. I was left awestruck just as I was when Obolis showed us his own vision when we first met.
+
+Breaking my admiration of nature, a curt, high pitched voice spoke out,
+
+"Are these the mercenaries Obolis contracted?"
+
+Helios stepped forward, his cape flowing over him,
+
+"No. They are our allies. It would be wise to refer to them as such, Ophelia."
+
+A thin albony looked over us, unimpressed by our group. She wore a dress of all things, earrings and jewelry worn to match. A mage's staff hovered along her back, sheathed by a telekinetic force. Her red mask bore black lines on it, maybe some kind of transitionary status between her mask's colors.
+
+She propped her weight onto her hip and jeered,
+
+"And why are you still wearing your black mask? Surely you were demoted to the status of us mere reds."
+
+Helios grinned under his mask, "It is not an action that Obolis deemed necessary. Think of Florence and my new positions as learning experiences. It is more a hard lesson than an outright punishment."
+
+Florence leaned over to me,
+
+"Told you. Ophelia's awful."
+
+Ophelia pointed at Florence, "Don't think I didn't hear that."
+
+Beside them, a monolithic, red masked figure stood upright. Though he lacked Obolis's or my height, he stood wider than either of us, and his armor cast a shadow resembling more a wall than a person. He twiddled his clawed fingers, peering between the two albony,
+
+"Uhm, could we please avoid a fight? We'll have plenty of that once we land."
+
+The last of the three albony stepped forward, her armor shining and imposing on everyone around her. It was ebony with golden trim, a red cape standing out behind her. She wore a black mask like Helios and Florence, and her chest stood upright and tall. Though she looked small when compared to the living wall beside her, somehow, she commanded more presence than the other two albony combined.
+
+She met my eye,
+
+"This is the Harbinger?"
+
+Helios nodded. The heroic-looking albony walked over, pressing her hand against her palm, "May this conversation be fruitful for Schema."
+
+She followed the rules despite her position. That said a lot about her as I raised my brow, "More like may it be fruitful for us. You already know me. Who are you?"
+
+She clanked her heels together while putting a fist on her chest plate, "I am Victoria Novas, the current ruler of Menhir. It is an honor to meet you." She gave me a bow, "Obolis has told me you are to be respected. Ignore Ophelia's entrance. She simply cannot control herself when Florence is around."
+
+Ophelia, the one in a dress, pranced over in heels, "I can speak for myself."
+
+Althea stared at her in disbelief, "Are you actually fighting with us?"
+
+Ophelia kept her chin high, "Of course I am."
+
+Althea furrowed her brow, "Then why are you wearing heels of all things? They're so hard to move around in, and we're about to, you know, fight."
+
+Ophelia put her hands on her hips, "Because I make it a priority to actually look good at all times."
+
+Damn, she was shallow. Althea scoffed, "So you prioritize that over actually surviving, huh?"
+
+Though Ophelia wore a mask and carefully manicured fur over her skin, an intense blush radiated from her. She calmed herself, showing a measure of restraint as she glared down at Althea,
+
+"Ah, so this is the kind of people we'll be working with. Great. Just great."
+
+I spoke up,
+
+"You're not working with us. You're fighting with us. Change into armor. We don't want you to die out there, or worse, have people die trying to protect you all because you chose not to wear armor."
+
+Ophelia peered at Helios and Victoria, waiting for their backup. Victoria gave Ophelia a quick glare,
+
+"Do as he says. Now."
+
+Ophelia swallowed her pride, stepping towards the elevator we just walked out of. As it went down the floors, Florence spoke between cracks of laughter,
+
+"I...I've never seen her get put in her place like that...this is priceless...I can tell, this has already been worth the demotion."
+
+Helios murmured, "For once, we agree."
+
+Florence gave me a pat on the back, "By Schema, I've never seen someone call her out like that. Well done, well done."
+
+I spread my arms, "Wait a minute, you all just let that kind of behavior fly?"
+
+An awkward moment passed over the group, and Victoria stood upright once more, "I...we're sorry."
+
+I pointed down on the planet, "Remember what we're doing here. Letting Ophelia walk down there without protection could end in her death. The Hybrids, if they so much as touch you, you'll need me to dig around under your bones to pull them out."
+
+I glanced at the broad albony, "Whether you're big or not, they'll worm their way in you and parade around in your skin like your just a flesh puppet. Don't forget that. I'm not saying this because I want to be an asshole. If that was the case, I'd let you all walk down there unprepared."
+
+Victoria and the big guy peered down, both of them flushing with shame. I lifted a hand,
+
+"Come on, heads up. We don't have time for pity parties."
+
+Victoria met my eye, restraining her emotions, "Yes. Of course."
+
+I pointed at Blegara, "What's the situation down there? Also, record this and send the talk to Ophelia. We don't want her to miss the conversation."
+
+Taken off guard, Victoria coughed into her hand,
+
+"Ahem, well, the situation is dire. Many of the cities have rebelled, with few choosing to continue servitude under the Empire. This has resulted in guerilla warfare, where it is difficult to re-establish order. Because of that, some areas are being purged while uninfected territories are being secured."
+
+I frowned, "Alright, what does 'purge' mean?"
+
+Alastair stepped forward, his large frame contrasting his gentle voice,
+
+"So, it means we're having to, uhm, wipe the area out. Saving those areas...it costs more lives than it saves. It's a...l-logistical thing."
+
+I sighed, "Fine. We're not participating in that. We're here to wipe Hybrids out, not murder people."
+
+Victoria nodded, "Sir, yes, sir. I'll send what you said over to Obolis."
+
+Helios turned up to me, "Excellent work relaying the gravity of this situation. You shut down their idiocy better than I could have. However, you may have made an enemy of Ophelia. What she lacks in common sense, she makes up for in her ability to control the Empire's courts."
+
+Florence scratched the back of his head, "It might be a good idea to talk to her. You know, make sure she isn't mad."
+
+I frowned, "Is that really necessary? She isn't a child anymore, right."
+
+Florence weighed his hands back and forth, "Well, yeah, it's not absolutely necessary, but it will help you out in the long run. Think of it as insurance from rumors and bad first impressions."
+
+I shrugged, "Eh, I'll take my chances."
+
+Florence nodded, "Suit yourself."
+
+I turned towards Althea, "Hey, thanks for mentioning the heels situation. I didn't even think about it until you brought it up."
+
+She grinned, "Thanks. I just noticed it is all. You're the one that followed through."
+
+I grinned back before turning towards my group members, "You all ready to kick some ass?"
+
+I got several nods, though Kessia seemed chaffed. I raised an eyebrow, "Hey Kessiah, what's going on? Why do you look so down?"
+
+She shook her head, "It just sucks that my friends were spying like that. I thought they were some alright guys. I really did. Turns out their just spineless dicksuckers for Schema. It really leaves a bad taste in my mouth."
+
+She scowled, "And it makes you wonder...if they were spying, there's got to be other people spying in our guild too. Like some of these royals here, maybe."
+
+I frowned, "It's something I never considered, but yeah, you're right. They likely are spying. For now, I don't know what to do about it. I'll try to brainstorm a solution with Torix, hopefully, one that doesn't involve mind magic."
+
+Kessiah sighed, "Yeah. Sounds good."
+
+Victoria walked over towards one of the personnel running the ships data streams,
+
+"Send us down to Saphigia. We'll meet Obolis there." Victoria stepped over, and she put her hands on her hips,
+
+"It's Blegara's capital and where we'll be establishing our beachhead with Obolis."
+
+I crossed my arms, "So I didn't read the briefs you guys sent us. They were over a hundred pages long, and it was more like a textbook than something useful. What kind of planet is Blegara, and what kind of people live there?"
+
+Victoria tilted her head, wrapping her head around what I just told her. She frowned under her black mask, "If you had read the briefs, you would already know."
+
+I waved my hand, "A summary, people. That's all I'm asking for."
+
+"Blegara is an oceanic world with shallow waters throughout. This has left enormous portions of the world covered in coral reefs. We'll be clearing Hybrids out of those reefs with the help of the intelligence units spread across the world."
+
+I pointed at her, "That's what the brief should have said."
+
+She furrowed her brow, "But then...Yeah, maybe so."
+
+The dreadnought class cruiser we rode in drifted down towards Blegara, the planet growing in our sight. I pointed at the world,
+
+"What are the people like?"
+
+Helios waved a hand, "Impudent, ungrateful, and rebellious."
+
+Florence raised his palms, "I've seen the most of Blegara, so I think I can weigh in here." He turned to me,
+
+"The people here are relatively primitive, and I don't mean that in a derogatory kind of way. They have developed simple language systems, and they have traditions, rituals, and even religions. That being said, they're in a pre-technology era. The Empire came onto the world right after they reached fringe world status."
+
+Florence stared down at Blegara, "It's a difficult world to handle because the populace is so...impossible to communicate with. Even with Schema's nifty translations, the Vagni speak in disjointed, jagged sentences. Their species that isn't suited for typical language. To many people in the Empire, they're closer to eldritch than a sentient species."
+
+Torix raised a hand, "If I may interject, why would the Empire choose to establish a world here?"
+
+Florence let out a sigh, "Hm...There are several reasons. The world is rich in certain resources, especially biological ones. Pearls, rare corals, and delicious food could fuel luxury for the albony across the entire Empire. That's not even mentioning the beach resorts or the mining operations in dungeons or under the oceans here. Blegara is a veritable gold mine of high end resources."
+
+I raised an eyebrow, "You seem skeptical though."
+
+Florence winced, "The thing is...they, hm, how to put this...The first colonizers didn't actually think things through in my opinion. This world is in the middle of a dark age. The Vagni had empires and established countries before the eldritch began pouring out of underwater caverns."
+
+He shook his head, "Now the monsters have become entrenched in the Vagni's culture. They've destroyed their civilizations, and being somewhat primitive, they've decided to worship the eldritch as gods. They offer sacrifices, they do blood worship, and they even raise eldritch younglings. It's fascinating, I tell you."
+
+Helios glared at his brother, "It's a destructive cycle. One that must be eliminated from the roots."
+
+Florence raised a hand, his voice rising, "See, that's what everyone seems convinced of. I disagree. The Vagni have actually established a relative balance with the eldritch. Despite having the eldritch infesting their waters, they haven't actually had any world-ending incidents."
+
+I grimaced, "It's only a matter of time before that happens. Besides, they drifted into fringe world status. That means the situation was worsening."
+
+Helios turned to me, "Exactly."
+
+Florence shook his head, "No, no, no, that's a misconception. Schema changed his classifications for fringe worlds, and that's why Blegara fell into that category. I've done my research on the world's history as well, and the Vagni have stories of the eldritch predating Schema's involvement. They're ingrained in the mythos of the planet. Even if the tales of eldritch are oral or primitive, that doesn't mean the events didn't happen."
+
+Florence turned towards the group, "Schema would like us to all believe that the eldritch go from nonexistent to pouring out of the ground like monster geysers, all overnight. I don't think that's the case, and I have a theory that on worlds where the eldritch naturally manifest, they are actually a natural existence that slowly leaks in."
+
+I tilted my head, considering what he said. If I thought about it, humans had all kinds of stories about mythic figures and supernatural beings. Overactive imaginations seemed like the culprit to me. That being said, it wasn't like Zeus or dragons would be any stranger than Schema and the eldritch. If anything, they were far more benign by comparison.
+
+Helios facepalmed before looking up at the sky, "Why do you entertain such thoughts? You have such a gifted mind, yet you waste it away on useless meanderings."
+
+Florence scoffed, "My mind is my own. I dictate whether it's being wasted or not."
+
+Victoria clapped her hands, "That's very interesting and all, but we're piercing through Blegara's atmosphere. Be ready for some turbulence."
+
+I lifted my hand, manipulating gravity without a struggle. Pinning everyone's feet to the floor, I turned to Victoria,
+
+"That will keep everyone grounded while we land."
+
+Victoria looked down at her feet. She pointed her hands at them,
+
+"This...Helios, you said he was fluid with his gravitational magic. To this extent, however, well, I never would've imagined it."
+
+Helios shrugged, "He exceeds even Obolis with it. What else can I say to convey his mastery?"
+
+Victoria listened while leaned backward, so far, in fact, that without her feet being anchored, she'd fall backward. Pulling from her feet, wobbled back and forth, laughing a bit,
+
+"Hah, I can't believe it. This is quite fun."
+
+Remembering where she was, she stiffened back up, "Ahem, as I was saying, good use of your gravity magic and all that."
+
+Althea giggled a bit before grinning at Victoria, "Don't worry, you'll get used to it."
+
+Victoria took the situation in stride, "I would hope so. I wouldn't want to be surprised at all turns. I'd seem even more like a fool than I already do at times."
+
+Hod leaned forward, pulling himself into an awkward position to reach Victoria. The humble birdman patted her shoulder while nodding,
+
+"Hod understand Victoria concern. Victoria not super smart like Hod. Not all people be like Hod. Only Hod be like Hod."
+
+The group laughed besides Torix and Helios, who both grimaced at Hod. That's the kind of person Hod was; you either hated him or loved him. As the group died down, the main elevator rose back up with Ophelia. She changed her wares, garbed in a robe etched with runes. It was by no means shoddy workmanship either, many of the configurations designed for both form and function. They accentuated her curves, and they carried a beautiful gold and red color that conveyed a sense of grandeur.
+
+Caught staring, Althea elbowed me, "Hey, stop that."
+
+I pointed at the robe, "But that robe is put together real well. I can't help but admire the work put into it."
+
+Althea shrunk back, "Oh...I...okay."
+
+I grinned down at her, "Wait a minute, did you think-"
+
+She pushed me, the metal beneath me groaning from the force of her shove,
+
+"Hey, stop that."
+
+I laughed before Ophelia walked up to us. She gave me a subtle glare from under her robe, so Florence leaned over, "Hey, let me be that whole peacemaker thing you mentioned before. I can smooth things over." He pointed at his feet, "And don't worry about the turbulence. I'll be fine."
+
+I didn't like pandering to a brat, but this was Florence's new job. I didn't want to get in the way of his work, so I unlatched his feet. Florence jogged over towards her and wrapped his arm around her shoulders. He waved a hand, "Hey, it's been a while since we had a chat. Mind having a talk?"
+
+"I do. You're awful."
+
+Florence nodded, "True, but so are you. Let's catchup."
+
+They walked off as we pierced through the atmosphere. Waves of heated air streamed past the orichalcum hull, magical runes buzzing to stop the ship from collapsing at the force. I stared at the approaching planet, remembering all the times I'd done this before. I never did this with a ship's protection, however, so it was all very new and fresh.
+
+We reached near the surface after a minute of descending. Passing over a few miles of deep blue ocean, we hovered over a cyan, shallow bay, one at the edge of a crescent moon shaped island. It was a bright and colorful expanse, the fauna brimming with life and fighting for light. No creatures walked or buzzed on the island's surface. Instead, plants warred with one another, their battles stretched out over years instead of seconds.
+
+This island's shores carried moving life in spades, contrasting the barren inland. Fish, crabs, krill, clams, and coral brimmed over one another. These creatures flourished near the underwater city built from the same coral composing the reef. Waves washed over these organic buildings, a sort of harmony with nature established.
+
+Well, harmony outside of the Hybrids whipping the waters.
+
+As my eyes peered into the deeper spots of ocean, battles raged under murky waters. Blood fogged the water along with bits of meat and metal. The spires that covered Giess also spawned here, rising out of the ocean's floor. A variant of Hybrid swam in the waters, more aerodynamic with finlike structure's attached.
+
+These mechanical monstrosities darted through the water at high speeds, biting at albony. The Empire's forces used a variety of gear to assist in the fight, literal propeller packs resting on their backs to assist with movement. Their scaled swimsuits let them glide through the water with ease, and they owned massive lighting structures to help see through the water.
+
+It was losing battle, however.
+
+Their technology didn't outweigh the benefits of evolution, and the Hybrids were faster overall. The water slowed down the average soldier considerably. Snagging one of the breathing tubes also gave them a short-timer before they drowned in the sea. The Hybrids adopted a hit and run tactic because of this. They darted through the water, waiting for munitions to deplete. After doing so, they dashed in, tore the breathing tubes, and zoned the albony so they couldn't reach the surface.
+
+These drowned bodies floated towards the surface after the Hybrid was satisfied with their demise. The sheer number of floating bodies took me by surprise, making the once clear ocean seem more like a swamp of corpses. The giant, writhing spires rose from the depths, picking these bodies up before pulling them back into the deep. They'd be hybridized in an orange soup of nanomachines later.
+
+That is, unless we stopped them of course. I rolled my shoulders as Florence stepped back from the sideline with Ophelia, the last inklings of his conversation bleeding into earshot,
+
+"And that's why he is the way he is. You have to understand, we had every advantage. Our first dungeon was chosen to give us the best chance of going forward. We were granted particular trees that few have access to. Even with leveling support and experience gaining tactics, he still outleveled us."
+
+Florence grabbed Ophelia by her shoulders, looking her in the eye,
+
+"We had equipment. We had support. We had a vast network of people and skills helping us. Daniel, he had none of that, yet he succeeded. Even if he's gruff and a bit too intense sometimes, he's going to keep us safe out there. We just have to trust the guy."
+
+Ophelia gave him a reluctant nod, "No, you're right, you're right. I just need to...adjust. I should've been more prepared. That's all."
+
+Florence gave Ophelia a nudge, "He nearly knocked me onto the ground when we first met too. Literally. I'm sure he does that to all kinds of people too."
+
+"Oh, most definitely."
+
+They stepped up to the group, both of them seeing the carnage through the open paneling. Ophelia's heart rate spiked, and she gulped under her red mask,
+
+"It...It really is different seeing it in person."
+
+I stared out, "We're not in person. Not yet at least. Helios, warp us down."
+
+Helios waved his hand, creating another portal towards an underwater coral cavern. Glass spanned over a few of the organic gaps in the coral's coverage, the jagged encapsulation giving a raw feel for the whole area. A few steel cables lined the inner structure, reinforcing the pocket of air.
+
+Helios stepped into the air pocket, along with Althea and I. Turning towards her, I raised an eyebrow,
+
+"You can breathe underwater, right?"
+
+She lifted her neck, showcasing gills, "Of course. You forgot I'm a shapeshifter?"
+
+"Just making sure."
+
+As I mentioned the water, Kessiah pulled out a ring powered by mana. Putting it on, I recognized Torix's signature carving from the corner of my eye. Torix carried a meticulous precision that reflected itself in his runic work, and I'd notice his style anywhere. The insignia let Kessiah hold her breath. Peering over, I didn't see one for Hod.
+
+I pointed at his chest, "You can't breathe underwater, though, can you?"
+
+"Hod not do it. Other Hod not need air though."
+
+Victoria leaned over towards us, "I'm assuming you've handled the situation as well?"
+
+I pointed at my chest, "What, me?"
+
+"Yes. Of course."
+
+I shook my head, "Air isn't an issue anymore. I'll leave it at that."
+
+Torix cackled, "Hah, he could walk on the surface of stars if he so chose. Water is nothing before him now."
+
+Her eyes widened while she raised her eyebrows, disbelief spread across her face. I didn't pursue the issue further since I had nothing to prove. As we entered the coral capsule, I walked up to a wall and touched it. It was a fragile stone, nothing too sturdy. Turning to the others walking in, I pointed at it,
+
+"This doesn't seem like the most secure place to land for the Hybrids."
+
+Her chest filled with pride, Victoria stepped out with her hands on her hips,
+
+"I can promise you this, there is nowhere safer on this planet."
+
+"Why?"
+
+"Because we have the ultimate guardian. Observe."
+
+From outside the coral cavern, a massive wave of force shot through the water. It created tidal waves around us and rain above us from displaced water. Walking up to a glass panel, I peered outside to see what all the ruckus was about. In the distance, Obolis Novas held a blighted in his hand.
+
+From his fingers, lines of primordial mana oozed like streams of concentrated sapphire. His gray armor carried runic lines of the cipher across it, the primordial mana drenching the inscriptions. That mana radiated from him, creating a sphere of blue mana that created temporal dilation, hastening his movements.
+
+Obolis's energy infected the blighted sea creature in his hands, purifying it from the inside out. An ethereal creature spawned from its insides, made of pure, blue energy. The majestic monster of mana swam through the ocean, culling dozens of Hybrids in its wake, swallowing and liquifying them into water as it passed.
+
+Obolis let the intangible beast do its thing as he darted through the water with absurd speed. Immune to liquid around him, he anchored himself with a gravitational sphere while jerking himself into different positions across the oceanic horizon. Finding a new batch of Hybrids, he lifted a hand, channeling mana.
+
+My hair stood on end as he converted the mana of multiple elemental furnaces, the crackling somewhat muted but still heard through the water. Concentrating the burst, Obolis shot out a red torrent of ascendant mana, and it branched through the water in jagged lines. The geometric strands sought out Hybrids, piercing their chests. Once punctured, the energy expanded in all directions from within, pointed branches of red growing from the insides of the Hybrids.
+
+Leaving the forest of bodies behind, Obolis darted once more towards another group of Hybrids. He channeled his personal mana this time, using quintessence to generate growing trails of ice. The pale, jagged border of ice raced across our entire range of sight, trapping the Hybrids within the ice. Wielding ascendant mana, Obolis drained the energy from the ice, darkening its coloration.
+
+As if stopping the atoms within entirely, it turned into the same void ice Helios used. The negative energy resonated across the expanse, cracking the metal hulls and ravaging the Hybrid's innards. They bloomed into orange, expanding bursts, their deaths all but beautiful.
+
+The carnage was mesmerizing.
+
+In yet another quick burst, Obolis jolted towards us. He launched like a bullet, racing towards our confine. Right before crashing into the wall, he generated a portal fluidly. It teleported him into our space. He used gravity wells of his own to dampen his descent, landing without decimating our room.
+
+Water splashed from his side of the portal, however, but only a small amount. With the puddle spreading out, he turned towards those present,
+
+"It is good to see that my family is well, and my allies safe. You shall need to be, for here lies the ravages of war and the onslaught of battle. Here, each of you will earn your keep and your privilege. Prove your worth, and your actions will echo into eternity, a shout everlasting. That roar grows with every drop of blood we spill."
+
+He spread his arms,
+
+"Who here wishes to roar with me?"

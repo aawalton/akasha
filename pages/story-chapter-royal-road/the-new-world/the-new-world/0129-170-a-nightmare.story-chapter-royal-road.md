@@ -1,0 +1,239 @@
+---
+id: 250bb29d-3eae-58d9-9a94-6ed322165e79
+page-type-slug: story-chapter-royal-road
+title: "170 A Nightmare"
+slug: 0129-170-a-nightmare
+partOf: the-new-world
+position: 129
+ownLength: 3177
+unit: words
+ownProgress: 3177
+publishedAt: 2018-12-20
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/317036/170-a-nightmare"
+royalRoadId: "317036"
+markedReadAt: "2026-06-29T21:36:05.184Z"
+---
+
+Tohtella scoffed, "Really? Perhaps you'd like to offer up that evidence then?"
+
+I went through a few menus, opening the files from Kessiah. My obelisk played out a three dimensional model of the fight. It showed me off in the distance, duking it out with Ryhstrika. As I landed onto the mountain, Tohtella raised her hand,
+
+"That will be more than sufficient. I have a few questions to ask."
+
+I shrugged, "Fire away."
+
+She pointed at the video, "You're only level 6,000. How're you generating that kind of power?"
+
+I shook my head, "Trademark secret."
+
+She nodded, "I had to ask. Next, if you're already so durable, why do you wear armor?"
+
+"To hide who I am. As a remnant, you should know why someone would want to hide their identity."
+
+The same mild, amused grin went up her lips,
+
+"You haven't analyzed me yet? That's polite of you, but do so now."
+
+My eyes widened as I looked at her status.
+
+Tohtella Adair(lvl 9,000 | Speaker | Guild: Head of Speaker's Guild on Giess) - It's rare that Schema rewards a non-combatant with high levels. The reason being that direct combat potential often translates more effectively to destroying eldritch then administrative assistance.
+
+Tohtella is the exception to this rule.
+
+With a rigorous work ethic and absolute efficiency, she's proven herself time and time again. She's organized several problem planets using unconventional methods. Her ability to think outside of conventional norms has given her a remarkable achievement.
+
+She's one of the only remnants without an unknown status. She believes that through hard work and diligence, any remnant can rid themselves of their unknown status. Even more so, she did this without having to battle endlessly for years. She organized raids and revamp efforts on multiple fringe worlds.
+
+She is a shining example of the upper echelon of Schema's system. Look to her history as guidance on how to succeed within the system.
+
+I raised an eyebrow, "Wow, there's a lot there. Can you read my status then?"
+
+She shook her head, "No. I invested only in intelligence, willpower, and luck. My perception is at an acceptable level, but it isn't enough to see your status."
+
+I nodded, "Oh, luck then. Why?"
+
+"Luck gives me opportunities that allow me to show my strengths. Few people invest into the attribute as well, giving me a different utility over most. Mistakes from my subordinates can be turned into advantages for instance."
+
+That might be why she was able to get such a good impression on me. When she put it like that, luck didn't seem like a bad idea for my next attribute to enhance. I tucked that thought into the back of my mind as I raised a hand, "Anyways, you believe me now right?"
+
+She nodded, "Of course. It isn't like I need DNA samples or hard science to prove you're powerful. That much is evident by your bearing."
+
+"All right then. I have a few pictures to show you." I flashed images of the espens used as egg sacks. Tohtella didn't even flinch. I pointed at them,
+
+"The Skyburner I fought was carrying an espen like this one. They're dumping the bodies along the border of the silvers. You see the matrice forming? That extends out and connects with the nearby silver territory." I pointed at the wounds,
+
+"I found the same kind of bodies near Yildraza with the same talon marks."
+
+Tohtella peered at the images, "Are you adept at Giessian history?"
+
+I shook my head, "Not really."
+
+She leaned back into her chair, keeping he back straight, "There was a civil war between the gialgathens nearly a century ago. Lehesion fought for the espen's freedom, though it was closer to second-class citizenship. Emagrotha fought for their enslavement."
+
+Tohtella steepled her fingers, "The Skyburners were a legion developed by Emagrotha to fight other gialgathens. Based on your evidence, it seems as though vestiges of Emagrotha's forces remain."
+
+I nodded, "And they're trying to spread the silvers. Why the fuck would they do that though?"
+
+Tohtella sighed, "It could be an act of spite. It's no secret that the gialgathens look down on other races. Seeing the espens rise to prominence would lower their own statuses by comparison."
+
+I raised a hand and shook my head, "But, why not just sharpen their skills or something? The gialgathens are overwhelming. They could still hold their heads high if they just trained a bit. Problem solved."
+
+Tohtella shook her head, "You have to understand their culture to see the heart of the problem. Gialgathens don't see silvers or eldritch as a threat. They view them as normal parts of nature. This means that they won't fight the eldritch or silvers in most circumstances."
+
+She continued, "They only train to fight other gialgathens. Other creatures are beneath their notice. If the silvers or eldritch did grow strong enough to actually threaten them-"
+
+I frowned, "By then, it would already too late. You can't let an eldritch outlevel you over and over. You'll lose eventually, and then the eldritch eat your corpse and becomes even stronger. It snowballs out of control."
+
+She nodded, "You speak like someone who's faced many of them on many battlefields."
+
+I shrugged, "I've faced a few in my day...Have you tried talking to the gialgathens about it? Maybe showing them what the eldritch are capable of?"
+
+Tohtella's eyes narrowed, "I have tried all manner of displays, exhibitions, and the like. The gialgathens do not take my word seriously. This lack of agency against the eldritch bleeds into espen culture. The espens won't mobilize against the silvers or eldritch until something is done with the gialgathens."
+
+She shook her head, her brow creasing "And...unfortunately, I have no idea how to handle the situation."
+
+I could only imagine how frustrating that must be for her. Tohtella was a world changer according to her status. This wasn't her first rodeo. If she wasn't able to change the gialgathen's minds, I doubted that anyone could.
+
+As I thought about it, she pressed her hand against her lips. She tapped her closed hand against her face, deep in thought. A second later, she lowered her hand and looked me in the eye, "If I may make a proposition?"
+
+"Yeah, sure."
+
+She crossed her fingers in front of her,
+
+"I'm certain that you'll win the Honoring of Lehesion after viewing that footage. I doubt even the strongest gialgathens would pose you much of a challenge. This puts you into a unique position both politically and socially."
+
+I sighed. It was another speech on politics. Fuck.
+
+She continued, "If you mentioned your exploits against the eldritch, your harrowing encounters perhaps, you may convince the gialgathens and espens to fight them."
+
+She looked off the side, closing her eyes, "I understand that what I'm asking is unreasonable. It's your fame and image, and you may do with it as you like."
+
+She looked back at me, "However, I am..." She struggled out her next words,
+
+"Unable to change the gialgathen's or the espen's minds. It is infuriating, but I've tried everything in my power. Nothing has worked in any way. They don't respond to reason."
+
+She looked at me, "They will respond to you. You're strong. You're tall. You even have a good voice. Please consider telling them this during your winning speech."
+
+She was laying the flattery on a little thick in my opinion. Either way, I shrugged, "Alright, maybe. I'll have to think about it."
+
+She raised her palms to me, "Of course. I understand. Do as you wish."
+
+I leaned forward, pointing at her, "I have an idea about the Skyburners though. I know a guy that I think you would make a hell of a team with."
+
+She raised an eyebrow, "Who?"
+
+I grinned, "He's a bony guy, thin as a skeleton. If you two combine your abilities, I think we can wrap this silver case up in less than a week."
+
+She tilted her head, "He sounds resourceful. When could I meet him?"
+
+I straightened up, tapping the desk with my hands,
+
+"Asap, hopefully. This is what I'm thinking, I'll find the Skyburners. You finish what you have to do here. I'll send you a meeting location with this guy I'm talking about. We'll come up with a plan to take down the last part of Emagrotha's forces before going in there-"
+
+I clasped my fists, bending my power armor, "And kick some evil frog-dragon ass."
+
+She frowned, "Will you be able to find where these gialgathens are by then? They're most likely deep in silver territory."
+
+I grinned, "I'll get it done."
+
+She looked me up and down. She blinked, "Then I'll believe you. I'll get things prepared here before seeing you at the agreed upon location."
+
+She looked down, "Ahem, thank you for your help in this matter. I was rather powerless to handle it on my own."
+
+I stood up and rolled my shoulders, "Eh, thanks for handling that paperwork guy. I was powerless then, so it's only natural I return the favor. I'm off."
+
+She gave me a nod, "Then good luck."
+
+I turned around. Tohtella stood up, grabbing my arm, "Wait one moment. We need to exchange contact information for you to send me the meeting place."
+
+"Oh yeah, of course."
+
+She sent me a friend request, and I accepted while using an alias instead of my real name. It made me snicker to myself. Even a higher up in Schema's system still utilized the friend system to handle communication. As I began walking out again, Tohtella wrapped her hands behind her,
+
+"Do you need the receptionist to show you the way out?"
+
+I tapped the edge of my helmet, "Nope. I have a good memory."
+
+She waved me goodbye as I left. After handling the formality, I walked out of the building. I remembered the layout from walking in, retracing my steps using my skill Knowledge Maker. Tohtella sent me a message,
+
+Tohtella Adair(Giess: (3/04/26) | Contract Formation) - I created an official contract for the mission. This will enable Schema based rewards along with recognition in Schema's database. The previous rewards didn't reflect the difficulty of the task.
+
+Quest Request:
+
+Destroying the Fragments of Emagrotha(lvl 10,000+ | Party Size: 10+ | Guild Affiliation: Any) - The reason behind the encroaching infestation of silvers has been determined. Pieces of Emagrotha's army are trying to destroy espen civilization. It's up to you and a team of skilled mercenaries to stop them.
+
+Reward: 1 Blue Dungeon core, positive affiliation with Giess, positive affiliation with Speakers, Speaker class offer.
+
+It was a nice bonus for what was being offered before. With that handled, I sent Torix a message.
+
+Dimension C-138(Giess: (3/04/26)) -  Set up a meeting with you and woman named Tohtella tomorrow. You two make a good combo. Be ready.
+
+I patted myself on the back for the direct, simple message. With a day left before the tournament began, I trecked out of the speakers base.
+
+A half hour later, and I stood at the border between silvers and normal nature. Cool wind splashed across my face, my stuffy armor keeping me from it. As I stepped onto the plates of steel, my footing stabilized some. The sunshine rained down, reflecting off the spires and matrices of metal.
+
+I smacked my fists together, getting ready to kick some ass. Before going deeper in, I plotted points on my minimap of where I found espen slaves. I checked out their relative positions, finding a denser cluster of points North of Yildraza.
+
+With little else to go on, I journeyed further into the silver's territory near that cluster of points. With Event Horizon on, I left a strip of death near me. I smashed engorgs, merjects, and saysha galore. I let my armor eat the bodies, leaving nothing in my wake.
+
+After an hour of traveling, there was no trace of Yildraza behind me. A forest of spires flooded the clouds above me. I was deep in their territory, and new monsters came about.
+
+I found yana worms crawling in silver corpses. They wore them like a puppet, imitating the previous owner. Without fail, the parasitic worms enhanced their host, improving upon their forms. This reflected in their levels.
+
+I found a cluster of Yana worms feasting on a merject. Once I approached, the worms stiffened into a single organism. The infected merject stood up and stared at me with its empty eyes. I analyzed it.
+
+Yana Cluster, Merject(3,201) - This merject corpse has been eaten and imitated by the yana. Without a mind of its own, the yana will act with sub-par intelligence. This is why they prefer keeping their hosts alive. It enhances their intelligence when they operate in conjunction with a living brain.
+
+This should prove as no worthy foe for you, but do not allow the yana worms to infect you.
+
+I took the status's advice. I concentrated Event Horizon over it, the creature writhing in agony. I dashed forward, punching a hole through its head. After a series of hooks, nothing remained of the beast besides mush. I wiped the muck off me, glad I had the gray armor over me.
+
+From above, another tainted merject flopped down towards me. I swiveled on my heels, hitting the beast with an overhand left. The metal beneath my feet dented, sending out a shockwave. Meat chunks landed on my armor. I flicked one of the hunks off of me.
+
+One of the worms lived, however. It crawled over my face mask, eyes all over the nightmarish thing. It whispered in a high pitch voice from its many mouths,
+
+"We can make you...stronger. Wiser. Let us in."
+
+I pulled it off with gravity,
+
+"Uh, yeah. I'm not listening to something that looks like living cancer."
+
+I squashed it with a compressive gravity well and continued onwards. The deeper I dived, the stronger and more prominent the silvers became. From averaging level 1,000, they capped out at around 5,000. The biggest of them abominable, freakish monsters.
+
+One of the species was like a flying whale of flesh. It floated over the metal spires, letting the metal beams tear its belly open. From its insides, trails of sticky blood drained down and scooped up saysha beetles. This blood then slurped back up into the whale.
+
+It made perfect sense why the espens wouldn't want to fight the damn thing. A merject even attempted sucking up the whale's fluids. It jumped on the side of it. When it pierced the whale's skin, the blobular blood wrapped around it.
+
+The merject howled in terror as the blood entered its eyes and ears. The poor creature swelled up like a balloon before its insides became outsides. There were other horrors I found there as well. Massive, metal caterpillars injected their organs into their hosts. Eldritch beasts lay sprawled out, their bodies welded down as their bellies writhed with eggs.
+
+I can't deny it - it haunted me.
+
+This grisly land of living horrors ate away at my sense of calm. It left me stunned at how awful a situation could get. If this is what fringe worlds were like, it was no wonder Fringe Walkers were given so many resources. Having to reverse a planet in this kind of a situation...it was daunting even for a god, let alone a mortal.
+
+I learned something while wandering through those wastelands I would never forget. This was what happened when you let a bad situation spiral out of control. This was what could happen if Earth became a fringe world. The hardest part about it all though was that I was perfect to stop it.
+
+No one else could exterminate the vermin like I could. I crushed through these monstrosities with ease. As disgusted as I was, I wasn't about to let any of these abominations live.
+
+I tore them apart, and my black armor devoured the corpses I left behind. It was a bloodbath, one where I numbed myself to the carnage. It was like I salted the earth, no food left for other creatures. I even sterilized the ground with Event Horizon.
+
+The task weighed on me over time, however. It exposed something I needed to work on. Even if my willpower was sky high, I needed to control my thoughts and mind. I needed to be able to flip a switch to stop myself from breaking down.
+
+In a situation worse then this, I wouldn't be given a chance to hesitate. I needed to pull the trigger so to speak and just go forward. When I got back, I vowed to get something from Torix to help with doing that. The bag of bones would appreciate having something meaningful to teach, no doubt.
+
+Just like that, I drenched the silver's territory with their own blood for hours. The sun set as I stumbled onto my first breakthrough. On the side of a flesh whale, as I called them, the beast carried charred flesh and burns. Simple as it sounds, this was the only hint I needed.
+
+Based on my battles before, the flesh whales never changed their direction midflight. They changed course if something big attacked them or they ran out of spires. Considering no silvers sprayed fire, I connected the dots; a gialgathen burned this damn thing. Armed with that knowledge, I pulled myself to the top of the metal pillars.
+
+The thing is, the flesh whales scraped their stomachs on the spires. This leaves a trail of blood behind. If I followed the path, I retraced the steps of the flesh whale. If I were in luck, I'd find the gialgathens.
+
+Feeling more clever than I probably should've, I shot across the landscape. Fighting the silvers wasn't an option now since it made too much noise. After a half hour of following the silver trees, I found a curve in the flesh whale's path.
+
+I leaped down below the metal steeples, hidden by them. I discovered a path of espen blood at the bottom. I tracked the trail, weaving through shining towers. After evading a horde of engorgs, I stumbled onto an enormous wall.
+
+Composed of welded together spires, the barrier towered over the metal treeline. From inside the expanse, hammering, squirming, and fiery breath echoed out. Espens of some kind grunted. Gialgathens heaved out their fiery breath at something.
+
+It was what I'd been looking for. Planes couldn't come here because silvers would tear them apart. Tohtella would've needed a satellite system to show her the location, which Giess didn't have yet. Finding their base this fast was a huge boon for the plan.
+
+Before turning around, I scaled the wall, aiming to find more information. With the wind whistling in my ears, I pulled my head over the barricade. As I looked down, I soaked the sight in. As I did, my eyes widened, and the hair along my neck rose. My stomach sank as I ground my teeth.
+
+It was evil, plain and simple.

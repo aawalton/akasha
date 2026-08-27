@@ -1,0 +1,181 @@
+---
+id: 3d0dd5e3-8de0-5728-a2af-d5f93daea3b2
+page-type-slug: story-chapter-royal-road
+title: "333 Leviathan-7"
+slug: 0292-333-leviathan-7
+partOf: the-new-world
+position: 292
+ownLength: 3791
+unit: words
+ownProgress: 3791
+publishedAt: 2022-02-15
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/846266/333-leviathan-7"
+royalRoadId: "846266"
+markedReadAt: "2026-06-29T21:31:14.388Z"
+---
+
+5 Seconds remaining...
+
+4 Seconds remaining...
+
+It reminded me of being locked into BloodHollow, where I barely survived and time again.
+
+3 Seconds remaining...
+
+2 Seconds remaining...
+
+But I was a different person than then. I changed from the ground up and inside out. I wouldn't be sitting there, wallowing in a dark pit like before.
+
+1 Second Remaining...
+
+I was the Harbinger now, and it was time to prove it.
+
+Initialization complete. Welcome to the New World: Leviathan-7
+
+Chapter Begin
+
+Panels of energy formed around me, reconstructing my reality. The world warped and changed, the air drying out and the ground hardening. Even when surrounded by rock, radiation bathed over me in its warm glow. Gravity intensified, turning several times more potent, and I burst out of my craggy coffin, peering around.
+
+Above me, a sight of overwhelming majesty overwhelmed everything else. The black hole, Leviathan, took up nearly half of the sky. It siphoned in matter and stretched reality, like an eclipse in the sky rimmed with stretched gold. It dominated the scene and eliminated any doubt of where I was.
+
+Even from this distance, Leviathan radiated out with an intense light, enough to fry most forms of life with ease. Gazing at my surroundings, nothing about the life here screamed average. Clouds of squirming, fleshy kelp floated in the sky, the air here dense as water. The plant strands floated with encapsulated sacks of gas, hovering well above the ground.
+
+The giant glowing disc around Leviathan gave them enough light to live as flying creatures scooped up the plant matter. Quite a few animals used the gas bubble adaptation in the skies. Predators with large teeth and claws aimed at the giant, grazing herbivores. They dove down from above, seeking to pin the grazers to the ground. One of these flying manta rays fought against a cloud of drill-like predators. This herbivore lost, being covered in leech-like drills beasts.
+
+It fell onto the ground, bringing my gaze with it. I raised my brow at the 'trees' on the planet. At their peaks, they used the same gas bubbles to hold themselves upright, along with sharpened spines for leaves. Approaching a patch of these spiny plants, a giant blob swung a single appendage at the gas bubble of the spined plants.
+
+One by one, the 'trees' collapsed under gravity's might after having their sacks burst. Once on the ground, the upward-facing spines flattened. This blob rolled over the plant, peeling off the spines. After clearing it of needles, the blob absorbed the plant's core, leaving the dense wood behind.
+
+I walked up, grabbing the leftover bark. It reminded me of oak, but it interspersed dozens more gnarled spots than average. I crushed it in my hand, finding some resistance. Metal threaded within its trunk. Looking at the dark, rocky ground, this place carried some life, but not as much as I expected.
+
+I hovered myself up into the air, finding it denser than water. If not for my enhanced body, the atmosphere alone would've crushed me to a pulp. Peering around, no clouds dotted the sky, only the fleshy kelp. That clear horizon exposed rolling hills into the distance along with no nearby rulers. As I inspected several colossal craters from afar, one of the flying herbivores floated over.
+
+It floated nearby, curious about what I was. I reached up a hand, finding its body smooth in one direction and rough in the other, kind of like sharkskin. It let out a few high-pitched calls, like a whale with a musical edge. Other flying herbivores came over, flowing around me and letting out a lot of calls.
+
+I smiled as they created a hovering concert, these gentle creatures letting out strange, harmonic music. I let them do their thing for a few minutes before they dispersed back to their feeding grounds. As one herbivore hovered away, another group of predators floated over. They attacked the flying manta ray.
+
+I killed the predators with a wave of Event Horizon. I owed the herbivores that much since they gave me a warm welcome to Leviathan-7. Over my head, A part of the accretion disc around Leviathan swelled and plumed, and it sent out a wave of radiation our way. Interrupting my thoughts, that flashing light clashed into the world.
+
+The hovering clouds of kelp spread out into a vast web over the planet. They darkened the skies, turning day to night, and this vast web trembled. The rays from Leviathan blasted through the dense atmosphere, and in yet another expansive, majestic display of nature, an aurora borealis formed over the entire shaded skyline.
+
+I gawked for several minutes, caught in the beautiful view. It was an otherwordly sight in every aspect.
+
+And yet, it came with consequences. As the wave of radiation passed, the algae condensed into tiny points. Radiation glowed over them before massive creatures plopped out of the sky. These glowings beasts showed many forms, all of them huge and evolved for combat. They left remnants of kelp behind, new webs forming over the sky.
+
+As the just-born beasts landed below, they left the entire planetside covered in scars. Craters formed from their landings, and they irradiated everything they touched or came near. The behemoths stood over fifty feet tall, each of them like walking skyscrapers. The monsters ran and sprinted towards one another, battling for dominance over the surface.
+
+From the ground, other behemoths from the past resurfaced. They joined this wave of combat. As they swung, gnawed, and tore at each other, they destroyed portions of the landscape. Mountains leveled. Canyons formed. Blood vaporized, and air plumed outward.
+
+While Schema didn't tell me, those titans were eldritch and robust ones to boot. Below me, two nearby ones came into focus. A giant, trembling mass of plates fought against a four-legged, armored centaur. They both covered themselves in thick hides, glowing skin oozing from between the gaps in their covers. As they ripped and gored each other apart, splashes of their glowing blood oozed onto the ground. More minor, weaker eldritch came out of hiding and lapped up these pools of blood. Even from a distance, those eldritch evolved at a rapid pace.
+
+They fought one another, the entire landscape devolving into an absolute bloodbath. That's why the normal creatures here survived. They weren't even worth eating when the eldritch contained so much energy. One of those behemoths flew over towards me, able to glide on the dense winds of this world. Four wings spread over its back, bright red patches of skin covering the green glow beneath. It opened a serrated beak, four clawed appendages below spreading out to grab me.
+
+As it got near, I waved an arm in a circle. Testing my new strength, I reared a fist back before snapping a blow into the creature's center. Using telekinesis, I concentrated my fist's impact. I empowered my punch with gravity wells and grounded myself with the same magic. I pulled the creature to me, and I even used a couple furnaces to help me out.
+
+The results boomed across the entire region.
+
+A kinetic bomb exploded inside the raging behemoth, detonating outwards in a spiral. The force alone vaporized the beast into a fine mist. The kinetic bullet raced past it, drilling further into the distance. It diverted or destroyed patches of eldritch algae, creating a patch in the sky. As I marveled at it, the behemoths below did as well.
+
+I rubbed my hands together, Event Horizon's eerie, crimson aura encapsulating me. I propelled myself towards the nearest behemoths, the both of them sheening with latent energy. I tackled into the writhing ball of limbs, and I grabbed them both. Event Horizon assaulted their minds while I channeled ascendant mana within my body.
+
+A monstrous hunger came over me, so I threw one monster into the air. I waved an arm, creating a thin, antigravitational slice as I did. This blade pulled the beast apart, cleaving it in two before I waved my arm several times. More antigravitational blades cleaved it into pieces before my armor shot out bladed plumes.
+
+Like metal ferns, my armor shot into the massacred behemoth chunks. Blood rained over me as I skewered the meat, and the blood evaporated on my glowing skin. I pulled the meat chunks to me, the flesh sizzling. I turned to the other behemoth in my grasp, the beast twice my size yet small in my eyes. It jerked itself away from me, tearing its body away from my grip.
+
+I pulled it to me with gravity, and my armor cleaved it into mush. It growled out in raging agony, and it cooked against my glowing skin. The monster's bones fed my growth, and the beast's body melted into mana. As both the eldritch died, my eyes found other targets in the distance. Giving way to the ascendant flow, I shot towards the creatures while laughing.
+
+A cloud of red and orange miasma fought against an island tortoise and a thin creature made of floating metal pieces. They gnawed at each other, each of them trying to kill the other by eating it alive. I shot through the miasma, Event Horizon disintegrating it as I passed by. I redirected my charge in a sudden jolt, throwing myself against the island turtle's colossal, shelled back.
+
+I smashed through a shell hard as graphene by shoving my feet down. My legs broke against it, but they healed in an instant. I erupted a swarm of armored blades from every part of my body, blending the turtle from the inside. It hollowed out while howling at the other metal behemoth. The faceless collection of metal pieces tilted its head at the turtle's dying face.
+
+My hand shot out of the turtle's throat, pulling the metal behemoth into the blender. I pulled it apart, its body softer than my own. My helmet bit into the metal, savoring the odd flavor before I collapsed the empty shell with gravity. After assimilating that piece, I turned to another group of battling monsters.
+
+I threw my body through a mountain, pluming the monsters in a cloud of dust. Sparks and crimson lightning erupted from within the cloud, the sounds of battle coursing across the hills and horizon. Minutes later, I pulled myself out of the cloud, holding an eyestalk in my helmet's mouth and a leg in my hand.
+
+I found more prey. I darted down underneath the irradiated soil, finding colossal world worms coursing in the ground. One swallowed me, its entire insides full of mana-infused, poisonous teeth. The bladed edges snapped against my skin, and I sent out armored spikes that slit the creature as it passed by.
+
+The sliced remnants regenerated in seconds, drawing in radiation from the nearby ground. I lifted a hand and created an enormous gravity well, my body radiating out with a deep blue color. The eldritch lifted out of the land, forming a canyon beneath us before I pulled it apart. The squirming beast let out blood dry as sand before howling out in a psionic wave.
+
+The noise passed me in a harmless drizzle before I smashed its two writhing halves together. Immense as a mountain, it growled out while crushing under the gravity well's might. Once condensed, I snapped my fingers. A singularity fed on the creature before detonating it from the inside.
+
+It fell in a hollow sphere, forming an eclipse of sand over Leviathan-7's surface.
+
+I spent the next few hours killing massive eldritch. These things rivaled stronger Hybrids, being enormous creatures imbued with lots of energy. The sheer number of mutations defied convention, many of the beasts holding strange powers. One of them even warped around, being difficult to pin down. I would've tried taming the damn thing, but it died in Event Horizon's aura.
+
+Either way, I established a radius absolved of the world-ending horrors. I took a deep breath before nestling myself on top of a mountainside, finding a fantastic view of the landscape. Craters littered its surface, not really from meteorites but from eldritch spawn. They allowed mountains to form under this kind of gravity.
+
+I set myself down from the center of a mountain formed around these craters. Giant slabs of rock bellowed out together, the eruptive clashes nearby forcing the rock higher up. Sitting there, I shifted my mana into a primordial state. The bloodlust of ascendant energy faded, and the precision and perfectionism of primordial mana engulfed me. I let out a long sigh and pinched the brow of my nose.
+
+This simply wouldn't work.
+
+Establishing control of this planet required strategy and finesse. I stared upwards, trying to find some map of the stars using my enhanced vision. Leviathan covered most of the sky, being bright and dark at the same time. The black hole's accretion disc ebbed out underneath the world, casting light from above and below.
+
+The black hole covered three-quarters of the planet's surface, wrapping around it. This planet had no night and likely never would. I tapped my fingers before rolling my eyes. The best place to establish a base would be the worst place to live on this planet. The more devilish and destructive, the better.
+
+To discover my relative location, I pulled myself into the world's upper atmosphere. My golems and I would survive the conditions no matter what, and it gave me plenty of ramp-up time before anyone investigated nearby. Giving myself this enormous momentum ensured other rulers couldn't stop me before I finished my goals here.
+
+The air thinned before the recesses of space came in. The stars hid in a dark veil, Leviathan's glow too bright for them to be seen. Even this distance from the planet, gravitational tides ebbed in from the black hole.
+
+I hovered myself higher, every kilometer up creating drastic differences in how gravity felt. At some point, the tide of the black hole grabbed me over the planet's own pull. I peered into the abyss, wondering what it would be like to just jump into the dark sphere. I reached out a hand before jerking it back.
+
+A strange sensation made me do that, and it reminded me of staring at a cliff and getting the urge to jump. The oddness passed before I turned back to Leviathan-7. Only a subtle curve of the planet showed itself in the distance. I pulled myself up a bit further, having to fight the gravitational tides at this point.
+
+Fearing the fluxes, I pulled myself back to the safety of the world, the black hole scaring me off. It stunned me how gravitational tides shifted so rapidly out here but stabilized near the actual planet. From that ascent alone, I learned this planet rested on a precise, carefully managed orbit. Even just a few kilometers in either direction would result in it being flung off into space or consumed by the abyss.
+
+Warping was the only way out of this place, and since we didn't know the black hole's location, we were trapped. It was as I suspected - Schema imprisoned us here.
+
+As I reentered the atmosphere, I blazed through the dense air and creeping kelp clouds. It tried infesting and gripping under my skin but ended up eaten itself. Once back on the planet's surface, I traversed over the battlefields towards the far South. The black hole surrounding Leviathan-7 showed permanent light from three different angles on its surface. I aimed for the angle with the most exposure.
+
+While I zipped over the radioactive surface, I cooled myself. This prevented me from beaming myself out in all directions and letting far-off rulers find me. I also changed my body's shape to a much thinner, smooth line. The aerodynamic shape let me slice through the wind without making a big fuss as I did.
+
+As I passed, I got a better vantage point of the environments of Leviathan-7. Most portions of the world carried sparse plantlife with dense clusters of eldritch. The pressure vastly exceeded Earth's, and the temperature varied depending on how much the black hole acted up. However, the temperature would've boiled blood at least.
+
+Well, if not for the floating kelp strands in the distance. They contained most of those extraterrestrial forces, converting them into eldritch. While they smothered the planet in bloodthirsty beasts, they enabled life as well. Everything would roast under Leviathan's gaze otherwise.
+
+As I sped past the environments, they flashed in my vision one after the other. Deserts, jungles, forests, plains, and other terrestrial locations covered most of the planet. Everything outside of oceans or lakes. Other oddities stuck out as well. In that regard, I found this planet mirrored Giess in a lot of ways.
+
+Both planets ended up being dominated by the life forms on their surface.
+
+However, the silvers fed on mana pollution. Here, eldritch reigned by ingesting radiation. This gave everything an ambient, gentle glow at all times as the creatures feasted on the plentiful energy source. At certain spots, these radiation sinks formed where the energy piled up into pits.
+
+In those tunnels, dark monsters reigned and roared beneath the ground. They were the dungeons Schema talked about. I always wondered what the eldritch looked like on a planet without Schema, and this answered my question with clarity; the eldritch dominated everything. The everyday life here existed as poor feeding packs for the monsters, a stroke of luck for life here.
+
+If they presented better meals, the eldritch would've eaten the life here to extinction long ago. They hadn't, making this a rich land smothered with cancerous creatures. It left me solemn, finding so many typical life forms trembling under the radiation that fed the eldritch. The regular life here persevered with silent suffering, their hunched backs and deformed limbs telling their story for them.
+
+It left me saddened.
+
+As I entered the far South, the planet's environments ramped up in intensity. The deserts held radioactive grains like tiny bits of colored glass in their red dunes. These colored bits condensed into giant, crystalline clusters between dunes. Curious about them, I landed and tested one of them out. They mirrored the bones of the behemoths spread across Leviathan-7's surface.
+
+I took a few of these clusters with me before moving further on. The forests here let out a permanent glow at all times, becoming irradiated pits. Every creature cranked up its mobility, speed, and power. Trees grew miles high, overcoming the limits of gravity and presenting strange colors. Some plants even grew condensed radiation fruit.
+
+I took a few pieces, trying them out. They tasted like fruity blood and sweetened meat. Grotesque at first, the flavors grew on me after a while, though I preferred an apple or banana if I had a choice. Also, the fruits warmed my skin and stomach when I swallowed them. It was like ingesting a campfire. If I had to guess, the radiation was the cause.
+
+Covering thousands of miles in less than hours, the glow of the black hole increased in intensity as I got further South. It evolved into a blinding blaze in the sky. Overbearing, oppressive, and permanent, it radiated out with a vast accretion disc in the sky. The kelp kept growing in density above until it formed a canopy that contained most of the light leaking in.
+
+A forest formed beneath this cover, the fleshy kelp letting some ambient rays peak through. Those streaks of blinding brightness leaked between these vast shaded areas. This created a multilayered ecosystem. Above, the algae converted radiation into eldritch monsters. Behemoths fell down from the algae at random intervals, fighting in a forest below the algae.
+
+This irradiated battlefield grew at an unreal pace, life-expanding in real-time. The Behemoths wrestled and fought over the growing life, keeping it trimmed. On the surface, the monsters displayed a feast of primordial forces. So much movement, vitality, and chaos, it almost overwhelmed my senses.
+
+I killed quite a few behemoths as I passed, no longer worried about a ruler finding me. This landscape seethed at some absurd temperature. Every square inch of the ground and much of the air smothered in eldritch and dangerous spores. No one in their right mind would want to live in this hellish place.
+
+You know, besides for me.
+
+Crossing to the deepest part of this jungle, I found the harshest part of this planet. This southernmost portion of Leviathan-7 pointed directly at the accretion disc's origin - the brightest chunk of the black hole. This planet seemed tidally locked that way, the black hole remaining a constant in the sky.
+
+No oceans pooled here. They'd evaporate. The water locked into the endless, abundant, and flourishing life here. Above me, multiple layers of the algae forest formed into a four-tiered hell cake. Each section of depth resulted in more energy and carnage. This made Giess look like a peaceful land, and Earth might as well have been dead by comparison.
+
+Thousands of behemoths raged in all directions. Patches of the algae forest exploded and regenerated at all moments. If several of those patches lined up, rays from the black hole stung down like laser beams. The sheer radiation melted the stone at the deepest section, leaving cooling pits of magma interspersed far from each other.
+
+It was...A lot to wrap my head around. The ground at the deepest part acted like a graveyard, the behemoth's broken bones piling up. In a glorious display of beauty, these multicolored shards created rolling, opalescent hills. They piled up like mountains made of prismatic opals, and in this apex of the eldritch, their final forms took root.
+
+But instead of turning into Spatial Fortresses, they condensed into god-like creatures.
+
+They incarnated as different elemental forms. Some radiated like stars, shining into the distance. Others raged as blizzards of ice, no longer corporeal. Featureless, shifting storms of metal feasted on the multicolored bones below. All of these titans did. One of them could've conquered Earth.
+
+But they were in for a rude awakening.
+
+My many elemental furnaces fueled into action, and many of my minds took on different roles for combat. I set up a line of targets, preparing a battle plan. I shifted back to Event Horizon, and I readied several minds for a psionic battle as well. Once my body saturated with mana, a plasma of energy formed around me, melting anything nearby. It was time.
+
+I stared at these horrific monsters, and I pounded my chest to get their attention. They peered at me, and I peered at them. A silence passed over us where I mused where to put the start of my colony.
+
+And so, the roaring began.

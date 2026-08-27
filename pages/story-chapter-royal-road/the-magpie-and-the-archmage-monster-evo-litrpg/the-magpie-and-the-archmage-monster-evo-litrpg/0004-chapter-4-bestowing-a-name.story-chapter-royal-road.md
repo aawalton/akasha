@@ -1,0 +1,243 @@
+---
+id: c0298c9c-9f4a-5cda-9c40-c8fc0bfcada3
+page-type-slug: story-chapter-royal-road
+title: "Chapter 4 – Bestowing a Name"
+slug: 0004-chapter-4-bestowing-a-name
+partOf: the-magpie-and-the-archmage-monster-evo-litrpg
+position: 4
+ownLength: 1995
+unit: words
+publishedAt: 2025-08-17
+link: "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2525562/chapter-4-bestowing-a-name"
+royalRoadId: "2525562"
+---
+
+"Sister, do you know where the humans are now?" She asked her magpie sister. While her own nest was well-hidden in a tree hollow, it wasn't like it was impossible to find. If humans were thorough enough in their search, they'd eventually discover it.
+
+"A few moments ago, they were destroying Brother's nest. He and his mate had just laid their eggs, too," the other magpie said forlornly.
+
+"What?! They destroyed his eggs?"
+
+"They did! He and his mate tried desperately to defend the eggs, but humans threw fire and ice at them. His mate nearly lost her life."
+
+Now this is getting personal. Why would these assholes go out of their way to destroy eggs? To kill children before they are even born. These guys need to learn a lesson. A lesson so harsh that they would never dare to set foot in this forest again.
+
+She thought about it for a moment. Although pecking those humans into submission sounded very tantalizing, she knew that it was too dangerous. Her level was far too low, and even if she tried mimicking that toad's Paralyzing Croak, there was no guarantee she'd succeed.
+
+There was the possibility of asking her magpie brethren for help. They'd surely lend aid to stop these humans from destroying their nests. Together, they could inflict some serious damage. Never underestimate a magpie's beak.
+
+However, in this scenario, it was likely that many magpies would die in the attack. Statistically, some of them were bound to get hit by magic. She didn't want that. If there were a way to get rid of humans without casualties, then she'd rather do that.
+
+Oh! I think I know how to get rid of them.
+
+"I'll take care of them, Sister! Don't you worry," she said to the magpie.
+
+"You have a plan? Oh, I knew you'd come up with something. You have always been the cleverest one. Do you need help?"
+
+"No, I got this. I just need to get something from my nest."
+
+"Good luck, Sister!"
+
+She flew back to her nest, listening carefully to the surroundings and hoping that the mages wouldn't have found it yet. Brother's nest wasn't that far away from her own. Much to her relief, there was no sign of humans when she arrived. Her precious amber gem still sat in the middle of her treasure.
+
+"Oh, you're back rather fast. I thought it'd take you longer," Renir noted.
+
+She grabbed him and left her nest.
+
+"Hey, what are you doing?! Didn't we agree that taking me outside the nest was a bad idea?" He complained.
+
+How else am I supposed to lure those humans to where I need them? They wouldn't chase a random magpie just because I harassed them a little. Good thing I have exactly what they want.
+
+"Magpie, take me back! Right now!" Renir commanded.
+
+She ignored him. It didn't take a long time for her to find the humans. They were close to Brother's nest, digging through the hollow of an owl. The poor bird looked heartbroken, hooting desperately and occasionally dive bombing at the mages.
+
+"My babies! Please, do not hurt my babies!"
+
+Flying overhead, she saw a glimpse of the half-destroyed hollow and small owlets quivering in it. Poor chicks had nowhere to retreat.
+
+"Come here, you little shits! I haven't had anything because of this stupid job. I'll take every bit of meat I can get!"
+
+Oh, no, you don't!
+
+Renir had gone completely silent, probably hoping that the mages wouldn't notice them. But she had different plans.
+
+"Chek-chek-chek!" She screamed, deliberately close to Renir.
+
+"Too loud! I told you not to do that!" He complained.
+
+The mages turned around instantly and saw her sitting on a nearby branch, a bright amber gem in her talons.
+
+"The magpie!" They yelled in unison.
+
+"Traitorous bird!" Renir yelled at the same time.
+
+She didn't wait around and took flight. The mages hurled a few spells at her but missed. She safely flew past them, heading north into the depths of the forest.
+
+"After it!" One of them yelled and gave chase.
+
+Humans were… slow. She had to stop occasionally and wait for them to catch up. Seriously, how were they hoping to get anything from her if they couldn't keep her in their sight for more than a minute? How tiresome.
+
+But at least they obediently followed, like little wolf pups who followed their mother. They never even considered that she might be leading them into the trap. But not all hope was lost for humanity. Initially, Renir was cursing her out, promising to turn her into grilled chicken. But after a while, he caught on that she had something planned. He became silent, observing the situation instead.
+
+Oh, there it is! Old pal still hasn't moved since the last time I saw him.
+
+She sat down on an old, withered-looking branch of her pal and waited for the mages to catch up.
+
+"There! T-There is it!" One of the mages said, wheezing and gasping for breath. He could barely run anymore, and his companion wasn't doing any better.
+
+You guys need to work out more. I barely flew a few kilometers, and I stopped so many times for you. Quite pathetic.
+
+"Don't gawk! Get it," the other mage wheezed, tripping over a tree root.
+
+The first mage unleashed a badly aimed fireball. It wouldn't have hit her even if she didn't dodge, but she flew up anyway to get out of the way. The fireball collided with the trunk of the tree she had been sitting on.
+
+The tree, or rather the treant, did not like that. Its barky eyes shot open and let out an angry growl. Slowly, the old, withered tree rose to life, its branches turning into limbs as it stood up from its resting place. The mages paled at the sight.
+
+"T-treant!"
+
+"Did that magpie lead us here on purpose?"
+
+"Chek-chek-chek!" She cackled while watching the scene from a safe distance, Renir's gem secure in her talons.
+
+"You are a clever bird," Renir praised her, sounding pleased.
+
+"Clever!" She confirmed.
+
+"Don't celebrate too early. They might still defeat it," he noted thoughtfully.
+
+Not a chance. I've seen him fight before. Even the corrupted monsters don't stand a chance against old pal. Best guard one could ever employ.
+
+Treant was the only monster in this forest that she respected. It didn't attack mindlessly like those stupid toads at the lake did. No, he only attacked those who deserved it. Once, while she was still a hatchling, the treant had saved the forest from a salamander that had wandered into the area. As thanks, she and her family occasionally visited the treant and left him little nuts and flowers.
+
+"No. Defeat!" She mimicked and watched the terrified humans fling their weak spells at the treant. They did little more than make him angrier. It lifted its large, rooty leg and bashed it against the ground, causing a small earthquake.
+
+She could feel the vibrations up the tree. The humans tried to remain standing, but the tremors were too strong and they fell to the ground. Then the treant swung down its branches, striking one of the mages. Dead. Just like that.
+
+The other mage screamed, trying desperately to scramble to his feet. He muttered something desperately in the meantime.
+
+"Oh, shit! He's trying to set this whole place on fire!" Renir yelled, recognizing the spell.
+
+"Chak-chak-chak!" She called out to the treant. "Fire! Hurry!"
+
+A sharp branch shot out from the ancient creature, striking the mage straight through the chest at lightning speed. He didn't get to finish the spell.
+
+"Damn! That thing is fast!"
+
+"Fast!" She cheered and flew over to the treant.
+
+"Chek-chek-chek!" She said to the treant. "Thank you, friend."
+
+The treant didn't answer, merely regarded her with an ancient, sleepy gaze. It slumbered over to its sleeping spot and settled its roots down, as if nothing had happened. But she knew that it had heard her. It always did.
+
+She was about to head home, when she noticed something shiny by the mages' corpses.
+
+What's that?
+
+She flew towards the shiny and noticed that there were two glimmerstones by one mage and one by the other, just lying on the ground. Did they appear from their invisible glimmerstone storage?
+
+"Oh, these guys had unspent glimmerstones. Lucky! Grab them."
+
+She didn't have to be told twice and eagerly grabbed all three, depositing them into her storage.
+
+"Shame you didn't receive any experience for it, but we can just go and kill some toads for you to level up," Renir said excitedly. "And you can take me along this time since those bastards are gone."
+
+She wasn't too eager to get her feathers dirty fighting frogs. However, she also couldn't just sit around and do nothing. These two humans probably wouldn't be the last ones to search for her amber treasure. She needed to be better prepared in case other humans came. Not to mention that she wanted more glimmerstones.
+
+After making sure that Renir's gem was secure within her talons, she headed towards the lake again. Smaller birds resumed their chirping, indicating that, for the time being, the forest was safe.
+
+"Magpie…" Renir suddenly spoke up.
+
+"Chak-chak-chak?" She asked. "What is it?"
+
+"Sorry for cursing you out like that. I really thought you would give me up to those bastards."
+
+"Never. Give!" She exclaimed. Why would she ever give up her greatest treasure to bastards who were trying to kill her and destroy the nests of her brethren? Absurd. Did he take her for a fool?
+
+"I get a feeling you're doing it only because I'm a shiny gem, but fine. Whatever your motivations, I'm safe from them."
+
+"Shiny!" She confirmed.
+
+"Hey, you don't have a name, right?"
+
+"No. Name."
+
+"How about I give you one?"
+
+She thought about it for a moment. Magpies didn't have names. There was no need for a name–one's plumage spoke volumes enough. But humans couldn't see the intricate colors within her feathers. He probably couldn't tell her apart from any other magpie. She did have a name as a human, although she couldn't remember it. Perhaps, a name was in order.
+
+"Name!" She confirmed.
+
+"Cool! Let me think of one. I'll give you the best name a magpie could ever have."
+
+There was a moment of pause as he thought.
+
+"How about Obsidara Nightfeather?"
+
+"Caw!" She said. "What kind of a name is that?!"
+
+"No? Then how about Shimmerwing?"
+
+"Caw!" She objected. "Am I your pet or something?"
+
+"Nugget? You like shiny things."
+
+"Caw!"
+
+"George the—"
+
+"Caw!" She pecked him in anger.
+
+"Ouch! What's wrong with George? Wait… Are you a female magpie?"
+
+"Female!"
+
+"Alright, not George, but how about Georgina?"
+
+"Caw!"
+
+"Geez, tough crowd. Let me think about it."
+
+There was a long pause, and she could already see the shimmering lake surface in the distance. Did Renir give up on naming her?
+
+"Alright, you're clearly not just some random bird. You're clever and intelligent, and you did save me."
+
+There was another brief pause.
+
+"How about Liora? It means light in the old tongue. I think it suits you."
+
+She thought it over for a moment. Liora. It certainly had a nice ring to it. It felt foreign, but at the same time, suitable. Liora. The name settled within her. It seemed to fit with her like a puzzle piece. It gave her something that she felt was lost ever since she became a magpie.
+
+"Liora!" She confirmed.
+
+"Excellent. Now, Liora, let's find some of those toads and see if you can mimic their skills. We won't always have a handy treant around to kill our enemies."
+
+[Profile]
+
+Name: Liora
+
+Species: Common Magpie
+
+Level: 2
+
+Health: Tiny
+
+Mana: Minuscule
+
+Glimmerstones: 4
+
+Skills (2/10):
+
+Mimicry [Novice]
+
+Peck [Basic]
+
+Traits (3/10):
+
+Keen Vision [Innate]
+
+Treasure Sense [Basic]
+
+Aerial Agility [Adept]
+
+Next Evolution: Requires Level 10 and ??? Glimmerstones to unlock

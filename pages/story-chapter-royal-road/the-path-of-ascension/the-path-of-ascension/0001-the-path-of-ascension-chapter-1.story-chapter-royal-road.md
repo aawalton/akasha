@@ -1,0 +1,269 @@
+---
+id: 74a3c715-4360-528a-8850-f8ab670426ba
+page-type-slug: story-chapter-royal-road
+title: "The Path of Ascension Chapter 1"
+slug: 0001-the-path-of-ascension-chapter-1
+partOf: the-path-of-ascension
+position: 1
+ownLength: 3826
+unit: words
+ownProgress: 3826
+publishedAt: 2021-03-01
+link: "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/639813/the-path-of-ascension-chapter-1"
+royalRoadId: "639813"
+markedReadAt: "2026-06-29T19:17:26.520Z"
+---
+
+Chapter 1
+
+Matt looked at the result blinking on the screen in front of him. It was unbelievable, unacceptable.
+
+Unchangeable.
+
+He had done everything right. Followed every instruction. Pushed himself until the instructors forced him to rest. When his group of orphans turned nine, and the physical conditioning and rift-training tests began, he never slacked off or skipped lessons.
+
+The one hundred and eighty-seven children of Warrington’s Upper East Side Orphanage #3 had trained hard for their Awakening. Every profession was covered, and every combat role was touched upon. Even the more obscure variations were at least mentioned, if not directly trained for.
+
+Matt could answer any question about any role or their sub-variations. He had studied every extra book his instructor’s thought might be the slightest bit useful. Unwilling to be unprepared for a Talent that could change his weapon of choice, he practiced with every weapon the training armory had.
+
+He preferred a longsword but was familiar with one-handed and shield combinations, dual-wielding daggers, weighted gloves, staffs, and even had practice time with the fake wands that simulated casting spells.
+
+Matt was ready no matter what uses his Tier 1 Talent had.
+
+However, Matt had not prepared for his Tier 1 Talent to be useless. Or worse than useless. He had not prepared for his Talent to be so bad the Empire's AI would officially rate it as ‘detrimental.’ That was a death blow to any potential career with an established guild.
+
+Matt sat in the testing chair, wires still connected to his arm. Staring at the display that doomed him.
+
+Tier 1 Talent determined.
+
+Mana Regeneration inversely proportional to current mana, directly proportional to Maximum Mana.
+
+Secondary Effect: Essence cannot be applied to mana cultivation. Mana Regeneration is decoupled from mana cultivation.
+
+Tertiary Effect: Anomaly detected…
+
+…
+
+…
+
+…
+
+Anomaly processed.
+
+Maximum Mana is substantially below average levels.
+
+Additional review required. Please, wait until a higher authority can be contacted.
+
+Matt felt the blood drain from him. He was lightheaded, couldn’t breathe. The screen blurred, words merging, sealing his fate with their little white proclamations.
+
+Everything was falling apart and there was nothing he could d—
+
+He focused on his primary effect! If that was good enough, then nothing else would matter. Heart pounding, Matt pulled up the complete description of the first aspect of his Talent.
+
+He blinked when, in addition to the paragraphs he was expecting, a complicated mathematical formula and graph popped up. Apparently, the amount of mana he naturally regenerated varied dramatically depending on how full his pool was.
+
+Matt froze when he noticed the percent signs on the graph. His Mana Regeneration was being measured as a percentage of his Maximum Mana. He could generate mana at a rate equal to his Maximum Mana per second while below 1% of his total mana.
+
+What this meant was he could channel mana endlessly at an extremely high rate but any single use mana spells were effectively useless.
+
+That was…insane. At low tiers, Mana Regeneration was usually so slow it was better measured in mana per hour. That was why mages dedicated massive amounts of their cultivation to improving their Mana Regeneration. Improving only the size of your pool and not how fast it filled led to mages constantly running out of mana.
+
+Mages were forced to spend most of their cultivation on three separate, non-physical attributes from all the research he had done prior to his Awakening. This made them physically weaker and more vulnerable to melee attacks, though many considered this a fair trade-off for the ability to summon fire out of nowhere. Matt certainly did.
+
+Regenerating a percentage of his Maximum Mana meant Matt could completely sidestep this issue. By the time he dumped enough cultivation into his Maximum Mana to double the size of his mana pool, he would automatically have doubled the amount of mana he regenerated each second without spending anything on his Mana Regeneration.
+
+Secondary Effect: Essence cannot be applied to mana cultivation.
+
+Just like that, Matt’s fantasy crumbled to pieces.
+
+Before they raised tiers and began cultivating, people could typically hold only 100 mana in their pool, unless their Talent applied some boost to it. Conventional logic said the initial size of someone’s mana pool barely mattered in the grand scheme of things. Even if Matt only started with 10 mana, by focusing a slightly heavier ratio into Maximum Mana, he could just stay at relatively low mana permanently while still casting endless spells. However, conventional logic assumed people could add essence into mana cultivation.
+
+Matt looked back at his projected Mana Regeneration graph hopelessly. According to the AI, he would regenerate at a flat rate equivalent to his entire Maximum Mana per second for as long as his current mana was less than 1% of his maximum capacity.
+
+Starting at zero mana, Matt needed only a fraction of a second to regenerate his pool to 1%. The instant he exceeded 1% of his Maximum Mana, though, his regeneration rate started plummeting below 1% of his capacity.
+
+The AI even provided a little table showing how long it would take to reach certain benchmarks. It would take exactly ten minutes for Matt to reach 10% capacity but reaching 25% or 50% would take him months or years respectively.
+
+While these rates were ludicrous, they were also irrelevant. With normal mages, getting to full capacity was important because it meant more spells to cast during a delve. In Matt’s case, if he could raise his maximum up to 1,000 mana, then he’d regenerate 10 mana near instantaneously whenever he dropped under 10 mana. That was enough to endlessly cast a basic [Fireball] spell with a cost of exactly 10 mana.
+
+No mage could cast any spell endlessly. Even if they had 100,000 mana, it would eventually be exhausted since normal Mana Regeneration was still calculated in mana per minute.
+
+Secondary Effect: Essence cannot be applied to mana cultivation.
+
+Those damning words shredded any hope Matt had still carried. Even melee fighters dedicated at least 30% of their essence to mana cultivation, just so they could use skills in battle. The most aggressive cultivation ratio he had heard of, from an actually successful rift delver at least, was 80% to physical and 20% to mana. And that was only possible because that particular delver’s Tier 3 Talent let him negate the mana cost of skills based on his physical abilities.
+
+Tier 3 Talent. That was his ticket out of this debacle. Matt never heard of a Talent set being purely detrimental. The ones that seemed useless at Tier 1 usually had synergy with that person’s Tier 3 or Tier 25 Talents.
+
+Matt could do thi—
+
+Higher authority reached.
+
+…
+
+Anomaly resolved.
+
+…
+
+Tertiary Effect: Lowered starting Maximum Mana.
+
+Maximum Mana determined to be 1.
+
+Matt felt as if he'd been punched in the gut yet again. A starting Maximum Mana less than what was needed to cast a [Fireball]. And he could never increase it. His stomach roiled with renewed vigor once the reality of his Tier 1 Talent’s secondary effect set in again.
+
+He stood out of the chair once the wires disconnected from his arm and the screen flashed and said, “Please, have a nice day,” as if it was mocking him.
+
+Looking around at the seemingly unfamiliar world, Matt tried to find anything or anyone that could fix him.
+
+Everyone in here was an acquaintance he grew up with in the orphanage, no one who could turn back time. He had been with them since the mass rift breakout five years ago that destroyed half the city and orphaned so many kids like himself. As his gaze wandered, all the people he knew so well appeared alien to him.
+
+They all looked so…happy.
+
+A dozen feet away, Roxanne stood at a recruiter’s desk for Victor’s Elementals, a mage-focused guild that was the husband guild to Estor’s Escalators, a physically oriented guild that acted to round out delve compositions so the parties were balanced.
+
+Every word that came out of the recruiter’s mouth made Roxanne smile more. The paperwork placed in front of her was quickly signed. She’d dreamed of being a mage since their Introduction to Magic class all those years ago.
+
+Matt wanted to feel happy for her, but nausea clawed at his stomach. He looked over to Gavle’s Good Guilders, a respectable Tier 10 guild based on Ilstor, a neighboring Tier 12 planet. As he approached their booth, the head recruiter, Miles, stared at Matt with alarm.
+
+“Ascender’s balls, Matt! What’s going on? I just got a notification saying your Talent isn’t up to recruitment standards.” Miles’s head swiveled around, and he whispered, “Get over here.” He reached out and snagged Matt’s arm and pulled him into a vacant conference room behind the recruiting stands.
+
+“What happened? I can't see the exact details, but your application was just booted back by our AI with…”
+
+Miles held up the pad currently displaying Matt's conditional contract into GGG. He scrolled all the way down to show a flashing red box with the words ‘applicant does not meet minimum requirements.’
+
+“Is it really that bad?”
+
+Matt debated what to tell Miles. He was a good guy who tried to get as many of the orphans into the fairly prestigious guild as he could. With Matt's knowledge and skill with a blade, Miles easily arranged a conditional contract for Matt with extremely good terms that only lasted ten years instead of the standard fifteen.
+
+His percent-based mana regeneration could have been useful, if not for his pitiful Maximum Mana. So, he revealed the worst of it and ignored the solely useless parts.
+
+“Completely unable to cultivate mana,” Matt whispered. Venturing a glance over at Miles, the man had abruptly stopped pacing on the other side of the table.
+
+“Fuck.
+
+“Fuck.
+
+“Fuck.”
+
+Miles pressed his hands together in front of his face and started pacing again. Clearly deep in thought, he said, “There's not much I can do without getting both of us into trouble. If I show too much favoritism, other guilds might think I'm trying to create a spy to infiltrate another guild for us.”
+
+Matt waited and silently hoped Miles could think of a way for this not to be the end of his career as a delver.
+
+Was he finished before he even started?
+
+The nausea resurfaced even stronger than before, gnawing at him as the contents of his stomach fought to escape by any route necessary. With a deep breath and an effort of will, he forced his stomach to settle.
+
+“I know that sounds like an excuse, but it’s happened before. It would end in you getting blacklisted from any guild on this planet, and probably the neighboring ones, too. Even some of the city governments wouldn't allow you anywhere near them.”
+
+The next pause idled for what seemed like an eternity. “All right. The way I see it, you have two options. Well, only one viable option really. The other is a long shot at best.
+
+“Best-case scenario, you somehow find a sponsor for The Path of Ascension. That would come with admission to the PlayPen Island. It's an Empire-run training facility only the best of the best get into.”
+
+Of course, Matt knew of The Path. It was literally legendary; the place where legends were forged, racing through the Tiers to become the heroes of the Empire.
+
+As Matt opened his mouth to state he no longer fit that category, if he ever had, Miles held up a finger. “But there is a second way into the PlayPen. Most city adjuncts get a couple of slots per year to send promising youths. Getting one of those slots is even harder than usual in this city. The adjunct has been using them as political favors for the last ten years or so.
+
+“That’s the ideal case, but 99% of people never even sniff a PlayPen’s air. More realistically, you need to buy a slot in a public Tier 1 rift. It’s what freelance delvers do if there’s too much competition for local rifts of their Tier.”
+
+He pulled his pad out and started tapping on it. “Ah. Here, in Glesie, two cities up the coast. They have a kobold Tier 1 rift, the going price is…”
+
+Miles’s eyes flicked around, scanning as he sucked in a breath. “Ten thousand credits. That’s more than usual, but the price seems to have jumped in the last few years. That's the problem with a Tier 4 planet. At Tier 5, the planet would have far more Tier 1 rifts.”
+
+Miles spun the pad to show the listing that further confirmed his doom.
+
+I’m fucked. It will take years to get that many credits. I’d be so far behind everyone else it would be terrible.
+
+Matt forced himself to drop the self-pity and think about the situation more.
+
+No, I don’t care if I’m older than everyone at my Tier. I’ll still become a delver and stop the rifts from overflowing again.
+
+Earning ten thousand credits wouldn't be easy. That would take at least three years of work at any job willing to hire a thirteen-year-old. Let alone someone without a useful Tier 1 Talent and no job skills besides beginner delver training.
+
+“Is there any chance I could join a lesser guild? Not that I don’t want to join Gavle’s, but it has to be easier to join a guild and get access to their rift than to get ten thousand credits, right?” Matt hoped for it to be true.
+
+Miles's face hardened at Matt’s question. He stared Matt right in the eyes and forcefully said, “Matt, with a Talent rating as bad as yours, it doesn’t matter if your Tier 3 might fix the problem. No one here is going to willingly risk the resources to train you without a near illegal…” he grimaced, “or an actually illegal lifelong contract you’d never get out of. They’d take all your earnings or use some other nefarious deal to suck you dry.”
+
+Matt sputtered for a response, but Miles held up his hand and continued, “This planet is just too new and too poor. Just the teleportation to neighboring planets is too expensive for wasteful transits. Every inch of space is worth its weight in mana stones. A good 80% of the recruits we pick up today are never even going to leave this planet in the next five years. If they don't have clear potential, the Guild isn't going to shoulder that cost.
+
+“Go ahead and try, but don’t sign anything without reading the contract. Every single word. All recruitment contracts have to be in plain text that is easy to understand.”
+
+Miles reached into a cabinet along the wall and grabbed some cards. He held his hand out for Matt to shake and handed the cards over in his off-hand. “These are PlanetNet vouchers. Each card is good for an hour of uptime, and these five should get you through the next few years. The CityNet mostly just has general info, but the PlanetNet will let you check Glesie’s rift status from time to time.”
+
+Miles looked drained all of the sudden. “Good luck, kid. And when you solo delve, play it safe and don’t get injured. Healing will put you into crippling debt faster than anything else. Slow and methodical. Careful. Just be careful.”
+
+With that, Miles turned and trudged out of the room, and Matt took it as the dismissal it was.
+
+He tried to help me, and his advice about the contracts is good to know. Without that warning, I might have jumped on the first offer without looking into it.
+
+For the next hour, Matt traveled from stall to stall seeing if any guilds, corporations, or crafter associations would take a chance on him. But Miles had been right. Few were willing to even talk to him after seeing the detrimental rating for his Tier 1 Talent. Those who were still willing presented him with predatory lifelong contracts, all containing inescapable clauses where at least 50% of all his earnings were owed to the guild, even if he left the guild at some later point.
+
+One particularly heinous contract had a line stating he forfeited ownership of his own body. Matt shuddered to think what people who accepted that contract ended up doing. Illegal prostitution would be the most preferable outcome, if the look the recruiter had given him was any indication.
+
+Matt picked up the bag with his few belongings inside and headed for the door, eager to escape before he lost his breakfast all over the polished floor. The moment he got outside, he fertilized the shrubs next to the front entrance with the contents of his stomach.
+
+After rinsing his mouth out, Matt stood up and headed away from the Awakening Center. He didn't know where he was going, but there was no point in standing around.
+
+This being only a Tier 4 planet meant the resources needed to advance past Tier 3 weren't readily available for the population at large. The only reliable way to accumulate essence was to delve into the rifts and slay whatever monsters you found.
+
+Some of the books Matt read referenced the air on the Empire's Tier 47 capital planet. The atmosphere alone held so much ambient essence people could cultivate without delving into rifts. On this backwater, the ambient essence was near zero.
+
+Transportation off the planet is too expensive. No guild will accept me unless my Tier 3 Talent is synergistic enough with my Tier 1 and lets me accumulate more mana so I’m not crippled.
+
+Or unless I sign my life away.
+
+Matt pondered his next steps.
+
+I need a job.
+
+Thirteen wasn’t technically considered an adult, at least not by the Empire’s normal standards. Starting today, though, they were all on their own. The orphanage just didn’t have the room or resources to spare on older children when most could find employment or an apprenticeship after receiving their Tier 1 Talents.
+
+To relieve some of the crushing stress on the orphanages, both emancipation and Awakening were performed early on Lilly. Orphans were made legal adults at the age of thirteen instead of the usual late fourteen or fifteen when Awakening normally happened.
+
+Matt wandered south. The further he walked, the more lingering damage he came across from the rift break five years ago.
+
+While the debris was mostly cleaned up and repaired on the northern side of the city, the southern section still carried battle scars in the form of the occasional burned-out building still waiting to be demolished and rebuilt.
+
+As Matt passed a crater where some great spell had ripped into the horde of monsters, rainwater filling in the bottom had turned it into a stagnant pool thick with algae growing on top.
+
+Just another sign of what happened when rifts weren’t delved regularly enough. Another bleak reminder of the loss of his parents and the destruction of his city.
+
+***
+
+When searching the CityNet as he wandered aimlessly, Matt found a business called Benny’s Inn advertising an open position for ‘general staff. No skills needed. Room and board included. Pays four hundred credits a month.’
+
+The description was lacking in detail, worryingly so. But with that kind of pay, Matt at least had to try. It offered more than any of the other unskilled labor jobs being advertised.
+
+Matt looked up directions and followed the road for several more miles until he came upon Benny’s Inn. It was right near the edge of the five-mile coastline that served as the safe zone, the water preventing rifts from spawning.
+
+Benny's Inn was situated on the trail leading to the closest Tier 4 rift in the region, the highest Tier available on the planet. It also had the benefit of being near the trailheads leading to the three Tier 3 rifts closest to the city. That made Benny’s the best place for local parties and groups to relax and recuperate between delves.
+
+They say delvers spend way more credits than normal cultivators, so I need to work near delving to reach Tier 3 anytime soon. To reach a city with a public Tier 1 rift, I need money. The ten thousand credits on their own won't be enough. At the very least, I'll also need to buy gear and cover travel money.
+
+What Matt found at the end of the road was a six-story building with a large, garish sign proclaiming the owner's name.
+
+When he opened the front door, Matt found a large common area with a bar at the center surrounded by tightly packed tables and seating. Behind the counter, a big man in a greasy apron gave only a quick glance to Matt in the open door before immediately returning to whatever he was doing behind the bar.
+
+As Matt approached, the man gruffly barked out, “Kid, unless you’re a paying customer, fuck right on off. No charity. No donations.” He never even bothered to look back up.
+
+Matt braced himself and gathered all the cheer he could muster despite the man’s tone. “No, sir. I’m here to talk to Benny about the position that was posted. Can I assume that’s you, sir?”
+
+That got the fat man to look back up. He scanned Matt with squinted eyes before asking “Lemme guess. Shitty Tier 1, kid?”
+
+Matt swallowed hard before answering with what dignity he could, “Yes, sir.”
+
+“Got any inkling what the job entails?”
+
+“No, sir, but I'm willing to work hard. I’m—”
+
+Benny cut him off. “Yeah, yeah. I already expect that, and I won't put up with nothin’ less. What I need is a floater. Somebody who can do any job. Jump between ‘em as needed.”
+
+Benny’s eyes flicked around, and then back at Matt. “Might mean you scrub toilets. Might mean you help the girls carry out food when it's busy. Hours are from five in the morning to midnight, with a two-hour break ‘round noon. You get four hundred credits a month, no tips. I see you take a tip, I kick your ass out.”
+
+Matt ground his teeth as much as he could without letting it show. The old bastard had him good. That kind of pay was excellent, even if it sounded like he’d be earning every credit.
+
+The delve slot in Glesie was ten thousand credits, and that was his last lifeline. Simply too many people needed the low-tier rifts, and there were not enough of them to go around. Slots were bought, then later resold when the delvers team outgrew the rift’s Tier, so credits wouldn't be wasted. Nonetheless, the barrier to entry was high.
+
+A little more than two years. That’s all. Call it two and a half for extra expenses. I can do this.
+
+Matt’s decision was already made.
+
+“Where do you want me to start, sir?”

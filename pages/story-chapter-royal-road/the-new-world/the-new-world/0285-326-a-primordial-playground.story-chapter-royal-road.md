@@ -1,0 +1,207 @@
+---
+id: 92be2a3e-9bc4-5b52-8a21-a3ef3fd341ac
+page-type-slug: story-chapter-royal-road
+title: "326 A Primordial Playground"
+slug: 0285-326-a-primordial-playground
+partOf: the-new-world
+position: 285
+ownLength: 2965
+unit: words
+ownProgress: 2965
+publishedAt: 2022-02-01
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/836623/326-a-primordial-playground"
+royalRoadId: "836623"
+markedReadAt: "2026-06-29T21:30:59.775Z"
+---
+
+I smiled, "Let's say it'll be less a garden and more a home. Eldritch tend to have a nasty reputation, so calling it a garden comes with some unsettling insinuations. Like you're going raid our planet or something."
+
+Plazia beetles hissed, "Wording aside, the point is still the same. Where shall I settle myself in your domain? Anywhere will be suitable for me."
+
+I raised a hand, "Actually, you'll be rooming beside someone I think you should meet."
+
+Before heading to the abandoned tunnel beneath Mt. Verner, I swooped the mass of bugs into my pocket dimension. I walked back up to Torix's research lair as no one recognized what I brought in. After crossing a few doors, we reached past the settled territory of the tunnel. I pulled Plazia out of my dimension, and the patch of insects seethed,
+
+"Where am I? What is this place?"
+
+I pointed at a patch of an unused concrete wall, "This will be your room."
+
+Plazia's slithering ceased, and he reattuned to the new reality. Plazia murmured, "That stasis is true and utter. Having my environment change as such...It is unsettling."
+
+I smiled, "It'll be like that for everyone coming from you know where."
+
+A warmth came over Plazia, and his tone rose, "Hm...It shall be, won't it? They'll cross the veil while separated from time. In one moment, their dimension is collapsing around them. In another, they live without fear."
+
+His patch of insects hoped around, "It will be a sight worthy of etching down to memory. Let's begin."
+
+Plazia's bugs shifted into primordial mana, the forms ethereal and haunting. They mushed into the concrete, melting through solid stone and generating enormous heat. Like an infection, they spread outwards and created more of their own kind. Within a minute, an empty space ample for a two-story house existed. I stepped into it, glad a doorway actually fit me for once.
+
+Once I stepped inside, Plazia's magma insects carved out their runic configurations. Through a psionic tether, he transferred mana to charge it, but at a slowed pace. Giving him a hand, I placed a palm onto the runes.
+
+They flashed into a charged state, the instantaneous flood of mana almost shattering the cipheric markings.
+
+Plazia pulled himself away from the energy flow, and Plazia hissed, "I see you've assimilated many of those furnaces already."
+
+I gave him a nod, "I have." I lifted a hand, primordial mana spawning as my system inputs died out. I gave it a nod, "Yeah, it's back again. You can go ahead and come over."
+
+Plazia simmered his words like burning coals, "Are you certain of my arrival? I'll be nested beside your loved ones, able to kill them at any point. Perhaps giving me that leverage is giving me too much trust?"
+
+I kept my gaze on him, "You've been able to get into this place for a long time already, but you never took us out. Hell, your insect approached me without me knowing."
+
+I swirled primordial mana around me like a dense cloud, "If you wanted to harm us, you would've already done so. It's less I'm putting you in our midst and more like I'm just fully aware of it now. Besides that, Schema exiling me from his system might be a boon more than a bane at this point. We'll have to see, in all honesty."
+
+Plazia cackled before mouthing, "And many believe you're a fool."
+
+I sat down, "I am. I'm just trying to be less of one." I opened my status, sending Torix a message to come over, "I want you and Torix to meet real quick. I think you two will get along."
+
+I peered up, "Well, either that or you'll hate each other. Honestly, I can't tell."
+
+Plazia's insect manifestation swirled about, "It depends on whether he's fine with a mind well beyond his own."
+
+I raised my brow, "Ooh, those are big words. We'll have to see how they play out."
+
+"Oh, we shall."
+
+I leaned forward, "Most certainly so."
+
+"Indeed."
+
+"Yes."
+
+A silence passed over us before Plazia chimed, "Hm."
+
+I raised my brow, "Don't think I'm going to let you get the last word in."
+
+Plazia threatened, "I'll put a portion of my consciousness to the task, and you'll grow bored. This is a war you'll lose...Harbinger."
+
+I narrowed my eyes, "Hoh, you think I can't do the same thing? I got nearly twenty minds working full throttle right now. Continuing a grunt fest like this? It's child's play."
+
+"Then let the playing of children begin."
+
+"Hur."
+
+"Humph."
+
+"Hgh."
+
+"Hurgh."
+
+Torix walked into our room, his hands interlocked behind himself. He peered at the pile of insects and me having a grunting contest. Torix's fiery eyes flared, "Was there a falling out between your message and my arrival?"
+
+Plazia let go, giving me an official victory over the hivemind, "No. He's merely childish."
+
+I leaned back, "What? I'm just having fun." I smirked, "And winning might I add."
+
+Torix stepped up to Plazia's bugs. The lich coughed into a hand, "Ahem...I see your form isn't precisely imposing, but one's physical self doesn't judge the might of their mind, so to speak."
+
+Plazia laughed, his voice echoing in the empty, concrete room. The hivemind scoffed, "You will find I am more than this."
+
+A cleave through dimensions popped up, and Plazia wrenched it further apart. The hollowed Sentinel stepped out, and the hivemind came in while oozing primordial mana,
+
+"I am Plazia-Ruhl, of Many Faces."
+
+I got deja vu.
+
+Torix gave him a curt nod, "And I am Torix Worm, the Harbinger's Erudition."
+
+As the dimensional rupture clashed shut, Plazia peered around. He sat back, falling onto a basalt throne. Mirroring Plazia's attitude, Torix sat down into his own umbral cloud of mana. They both stared at each other for a moment, sizing the other mastermind up.
+
+Torix leaned forward, steepling his fingers, "I can see you're a Ruhl. Legend has it that each member of your kind is a supposed Genius."
+
+Plazia peered down at Torix, "We are."
+
+Torix gestured to me, "Ah, so you're just like the Ruhl that Daniel killed and usurped the plot of? Without experience...Or previous knowledge." Torix's fire eyes narrowed, "Just making sure."
+
+A tense silence passed over them before Plazia leaned onto a hand. The hivemind said, "You smell of pulped paper. Did you leave an ancient library, perhaps?"
+
+Torix's fire eyes flickered, "It was my study."
+
+Plazia turned a palm to the lich, "Ah, so you dabble in ancient, archaic technologies as a past time. It seems you're rather frivolous. I hadn't anticipated such from a necromantic lich. I'll adjust my expectations."
+
+Another silence passed over them before Plazia leaned up. The hivemind tilted his head, "What is that presence?"
+
+Torix lifted an arm, and a primordial blob oozed out of the ceiling. A psionic construct, shaped like a phoenix, landed on Torix's forearm. Torix peered up at it, and the lich chimed, "I saw Obolis use living magic during our stay on Blegara. I wished to use one, and I've practiced the magic since."
+
+Plazia leaned towards the azure, diaphanous Pheonix. The hivemind gave a nod of approval, "Impressive, I must say. It rivals my insects, though more nuanced towards the psionic aspects rather than the physical. Are you attempting to possess individuals?"
+
+Torix lowered his arm, the phoenix perching on his shoulder, "Hm, less that and more so I prefer having these entities go between various summons of mine. It gives me a much more hands-on approach with each city Daniel's established."
+
+Not having time to listen more, I pulled out my grimoire and got to work. I carved out different test runes while awash in my primordial aura. The results showed promise already; my precision improved along with my fine-tuning. It all came together nicely, overall. Plazia peered at my etching.
+
+The hivemind leaned back, "That sigil slicing...It carries the touch of Etorhma, along with a larger edge of someone else. Hmm, interesting." Plazia turned to Torix, and the hivemind said,
+
+"Torix. I have a question for you about mind magic."
+
+Torix peered down at Plazia and scoffed, "And the all mighty hivemind wishes to ask me a question?"
+
+"Of course. Your mind magic is spoken of across the cosmos and on many star systems. While I am versed, I am no expert. I wish to draw from the experience of one."
+
+The flattery destroyed Torix's defensive posturing, and the lich's eyes flared bright, "I do suppose my reputation proceeds me. I may answer a few questions."
+
+Their animosity melting at the mention of magic, their tense talk turning into excited chatter. As they talked away, I willed myself to work. The confidence and coordination of the primordial aura assisted my carving more than I expected it to. Quintessence helped with creative skills and their general power, but this aura eased me into finesse-based tasks.
+
+In general, nothing exceeded the minutia involved with cipher work, so that gave me a leg up. And I needed it too. When I finished the endurance outlines, I leaned back and gave them a cursory glance. The designs operated better than my finished work before, and yet...I wasn't satisfied.
+
+They needed more oomph. A lot more oomph. Taking a more grand approach to my design, I extended my diagrams across several of my grimoire's pages. After finishing it, I tapped my fingers while inspecting the product. Garbage. It carried imperfections across the front, back, and side portions. Therefore, its entirety.
+
+I marked down everything like a drunken sailor in the middle of a storm. The markings flowed together like swallowing broken glass and sizzling acid. Even the book itself bothered me, being a cheap imitation of my current self. On a whim, I grabbed the pages, ripping the entirety of it in half.
+
+The metal squealed, drawing the attention of Plazia and Torix. I raised a hand, "Don't worry. I'm just done using this book."
+
+Torix tilted his head, "Daniel. You seem...Odd."
+
+I raised a palm, "Don't worry about it. It's the primordial aura, and it's good for making runes."
+
+Torix turned back to Plazia, and the lich mumbled, "If...If you say so. I shall let this slide, but perhaps keep that aura on yourself. It gives you an uncomfortable edge."
+
+Ignoring him and moving on, I went back to work. He wasn't wrong about the aura. It left me sharper than usual. On the one hand, I enjoyed the edge. I felt smarter like I caught onto more details. At the same time, it may not be the best friend-making mana mode. Keeping that in mind, I stepped over towards an empty portion of the room.
+
+I immersed myself in a bubble of my dimensional fabric. Once within it, I envisioned the grimoire ritual from before. I let out a dismissive sigh, disturbed by it. It was well made for Torix specifically, but it didn't suit me at all. I waved my hand, starting fresh once more.
+
+I had several minds operating on the task at this point, seven different Daniels, all tweaking different aspects of the runic ritual. I improved my cipheric conversions, getting a more accurate translation from Schema's watered-down text. With that unbutchered vision before me, I went about ripping pieces out and replacing them.
+
+I finished in minutes, having a frankenstein copy of the new grimoire ritual. Using it as a reference, I reiterated it in my own tone of voice, shifting the style of the words to my own. I kept a motive of perseverance, and an enduring nature spread throughout it. At the same time, I interspersed memories of my past that defined me. The translation suffused an emotive edge, becoming less a shabby rework and more a new incarnation.
+
+These simple adjustments turned the grimoire ritual into a different beast. It required trillions of mana at this point, dozens of times more than my previous iterations. Already, the reality of this ritual came into question. I'd create a nuclear meltdown of Mt. Verner if I finalized it here. Everything for ten miles would wash away in the fury of unleashed mana.
+
+I found a solution. Instead of using the ritual out here, I opened my pocket dimension. Taking the fabric already present in the pocket dimension, I worked in the abstract area. Getting out an enormous sheet of the stuff, I sliced in markings using the heated telekinetic points as usual.
+
+The forces operated as I hoped they would, and I finished the runic sheet over half an hour. After getting it thoroughly worked out, I charged the grimoire's ritual over the next half an hour. I used quintessence in place of primordial mana to create more potent objects in general. Upon reaching the ritual's peak, it stalled. It would never finish within that place.
+
+Without time moving it forward, it stalled at this process just before its creation. Unwilling to risk Mt. Verner and perhaps this portion of Michigan, I got out of my dimensional bubble. Ripping a molten section apart, I lifted my head out and peered at Torix and Plazia, both still talking.
+
+Plazia turned a palm to Torix, "So you believe the use of a lich is overplayed then?"
+
+Torix swung a hand, "Precisely my point. Decoy strategies are employed using lich's all the time. They make for excellent pawns after you've located their phylacteries, and risking their lives is a moot point, meaning they are more than willing to throw themselves into the line of fire, so to speak."
+
+Plazia gave Torix a slow nod. Plazia mouthed, "The misdirection may be uncovered via plotting out the density of lich outbreaks. Even across planets, the outbreaks could be charted back to me being the source."
+
+Torix spread out his hands, "It is exactly so. I believe that other decoy methods operate far better. Might I suggest possession using-"
+
+I raised my hand, "Sorry to interrupt. Plazia, can you giving me a warp to somewhere that you don't mind being destroyed? And make it unpopulated. Like, really unpopulated."
+
+Plazia turned, "What would you need to disperse?"
+
+I motioned both my hands, "A huge explosion compressed into a thin line."
+
+Plazia flicked his hand, a portal appearing beside me. It showed a different skyline, one with two moons above along an orange desert. I opened my portal, allowing the mana from my dimension to disperse out. It siphoned out in a thin line, a cataclysmic wave ushering out. It reached far into space, the needle of explosive compression rippling clouds and tearing horizons. The force would've flooded the room, but I stood in the way of the portal. My body stopped the kinetic energy from blowing back into the room.
+
+My skin melted and ruptured across a few points, but Plazia's portal held before becoming unstable. I closed my warp, spending the next few minutes letting portions of the energy drip out at a time. At one point, I tested it on a distant mountain, the desert landscape empty and devoid of life.
+
+The thin line of energy sliced the mountain apart before blowing it up. It left patches of glass across the scenery. It singed dry brushes kilometers in the distance. The sheer absurdity of the energy source blew me away, but I also remembered what it may do if I aimed it at someone. Even from far away, allies could be devastated.
+
+I shivered. Even an ecosystem or region may be disrupted at this point. Torix and Plazia ooh-ed and aah-ed with me at first, but they got bored after I began dripping the energy out over time. Torix silenced my disruptions using his magic even, giving me a measure of quiet. After getting the power out, I returned to my bubble.
+
+I might make dozens of grimoires and laser people down in the future, but for now, I wanted to see what I just made. In the bubble lit by the primordial glow of my runes, I pulled out the grimoire. It was changed, a duality of the two mana types used to compose it.
+
+On the one hand, the coal-colored tome radiated the power of quintessence. In its pages, it promised a bright future, one where growth came unbounded. If I gave it my all, it would do the same in turn, and I liked that. It gave me a general warmth that carried the same energy as quintessence.
+
+After opening the grimoire, the primordial edge came out. I turned the pages, each of them like thick sheets of silver. They wiggled, each of them alive. On the same note, I no longer etched into the pages. Instead, I created a telepathic connection with the book. I envisioned a change, and the living silver molded into whatever I desired.
+
+It worked as an extension of my mind, like downloading an app on a phone but in my head. It coordinated the runic markings, giving me an absurd nuance. It auto-regulated errors in the cipher, automatically editing in real-time. It even carried mental imprints for storing sigils if I wanted to reuse them.
+
+If anything, this reminded me of using an obelisk or computer, but with a neural augment attached. I blinked, kind of stunned that it carried this potential. With it in hand, I recreated my endurance rune off of memory. It arrived, errors and all intact. The sigils smudged with imperfections, and the translation marred. It didn't even reflect my thoughts about endurance properly.
+
+I took a breath, soaking in the primordial energy. I smiled at it, and crystals of the mana grew around me in my hidden sphere. I condensed the primordial aura around me and cracked my knuckles.
+
+It was time to see what I could do.

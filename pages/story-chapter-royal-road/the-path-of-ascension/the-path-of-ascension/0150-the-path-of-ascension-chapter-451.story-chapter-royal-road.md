@@ -1,0 +1,403 @@
+---
+id: 2d02c0c1-1cd9-5f78-9b2b-d8b2d4d5ace2
+page-type-slug: story-chapter-royal-road
+title: "The Path of Ascension Chapter 451"
+slug: 0150-the-path-of-ascension-chapter-451
+partOf: the-path-of-ascension
+position: 150
+ownLength: 6536
+unit: words
+ownProgress: 6536
+publishedAt: 2025-10-20
+link: "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/2691836/the-path-of-ascension-chapter-451"
+royalRoadId: "2691836"
+markedReadAt: "2026-06-29T19:22:51.975Z"
+---
+
+Chapter 451
+
+Captain Stenson had been around Ascenders before. He was one of Lila’s trusted captains, having been with her since her third expedition well before she had founded the guild. He had, with her help, risen from a Talentless but dedicated member of the maintenance staff with grand ambition, to Captain of his own ship.
+
+Like most of the original crew, he had taken up various positions in the now larger guild.
+
+Having lasted with Lila on her ship until Tier 30, when he decided to slow down and better prepare himself and his family for his eventual Ascension, he had seen a lot of strange things.
+
+He had thought he had seen it all but these Ascenders were something new.
+
+Having just taken a loss, he had expected bravado, anger, sullenness, anger, irritation, anger, whining, or even possibly being really mad at them for having possibly witnessed their ‘failure’. He even half expected them to take after Lila. She hadn’t lost often to anything but overwhelming odds. But when she did, the crew had known to keep out of her way for a few days as she could be touchy.
+
+Which was almost funny in its own way.
+
+He’d never seen a fight lost by any Ascender group or solo that he thought he or any of his crew could have participated in so he couldn’t really empathize at all.
+
+Tier 31 pinnacle elites could reliably fight and outright kill an average Tier 33.
+
+Captain Stenson was happy when his same-Tier delves went off without a hitch. Being a long-term explorer, he and most of the crew were stronger than the technical average for their Tier, but it was strange to listen to a debriefing from people who genuinely believed they should have had no issue fighting up two Tiers. That would be ridiculous as Tier 15s, let alone at Tier 29.
+
+It was mind boggling.
+
+What was even more unsettling, was how they openly started discussing what they did wrong in the fight and what they could have done better. Three times they had tried soliciting feedback from the crew but none of them had anything to say.
+
+Captain Stenson understood. What was there to say?
+
+The Ascenders had taken a loss because of a Tier gap and being outnumbered.
+
+That combined with the Ascenders caring to ask what they thought of the fight put most of the crew on edge. They all wondered if some stray comment would result in blame being shifted to them for the loss and no one wanted to risk that.
+
+He would never admit it, but he understood. Lila had never snapped at them, but every explorer had heard stories of army elites hiring teams and treating the general crew as disposable.
+
+No one wanted to find out if the Empire's newest Ascenders had similar tendencies.
+
+Being only a Tier stronger than them, the crew had no illusion that they could put up any resistance if such happened.
+
+He didn’t discourage that fear but he did use it to his advantage, driving the crew to work a little harder for the first few weeks after the loss. Work was ultimately what the crew considered normal and so ensuring they were too busy with their tasks to stress too much, worked well for everyone.
+
+His focus went to figuring out the why of the attack.
+
+Captain Stenson knew desperation when he saw it and he didn’t buy the personal vendetta angle the elites tried to portray any more than the Ascenders did. Two pinnacle elites from different Great Powers attacking Ascenders who were entrenched in a position, relying on nothing but the Ascender’s good will to ensure no one truly died? When the planet was already so obviously plundered?
+
+That might not be impossible, but before the fight, he would have bet all of his family’s savings on that not happening.
+
+Wanting good news when the Ascenders recovered enough to start asking questions, he had the crew start digging.
+
+They intercepted every message they could, cloned them and started trying to break the encryption. Despite having far more mana than he was used to, he wasn’t willing to ask Ascender Titan for assistance until he offered, given that none of the leadership group had said a single word after their debriefing.
+
+Instead, he had his crew do what they could.
+
+They weren’t Ascenders, but they were damn good at their jobs, and with a single oddity they started pulling at strings.
+
+What they found was not what he wanted to hear.
+
+Calling up both Seekers, on a hopefully private channel, he had them each do a test divination.
+
+Watching their auxiliary mana reserves drop, Captain Stenson wanted to vomit when he saw two near-unanimous results.
+
+Both Seekers indicated if they wanted to get the best rewards from the breach, they needed to… return to the world they had just vacated.
+
+He was terrified he knew what was happening, and halfheartedly cursed his ancestors for their crimes, real or perceived, for putting him in this position.
+
+There was a lot of signal traffic, but the majority of it wasn’t what he wanted to know, which meant sorting through the junk. Thankfully, there was a plethora of messages to sort through.
+
+Most exploration groups who didn’t have the space or budget for dedicated chaotic space repeaters repurposed a life pod to act as one, because no one wanted to be unable to call for help.
+
+During a breach, it was something of a vital necessity for groups who wanted to delve a world’s rifts to nothing, to set up an early warning beacon so they knew if another ship approached. Additionally, having a beacon allowed non-hostile groups a way to get messages about potential bandits roving around.
+
+Having lots of experience in deep chaotic space, as well as having delved several breaches in addition to the prior appearance of the Rasdale breach, he wasn’t left helpless when he encountered something unusual.
+
+Finding a Clans deep exploration company he had interacted with before, he reached out and bought their entire backlog of past messages.
+
+The Clans captain was wary at first given the distances involved making trading physical items difficult and dangerous. Digital currency wasn’t much better. If the Unsparing was destroyed and all of them died, the guild would have to cover the payment which might be disputed. But once the other captain knew they had two groups of Ascenders on board, their negotiation style flipped.
+
+From domineering and aloof, they suddenly offered to waive the payment, trying to buy the Ascenders protection.
+
+When he didn’t agree, they settled on something only slightly higher than fair to be transferred when they returned to settled space.
+
+With redoubled efforts, he had the crew start looking for specific messages and they quickly found enough corroborating evidence that he didn’t dare not report to the Ascenders about what he found.
+
+Standing there as the Ascenders honed themselves in their chairs, Captain Stenson coughed slightly, hoping that he hadn’t badly misjudged them. That or be blamed for not figuring such information out sooner, even though that was impossible.
+
+“Ascenders, I believe I might have discovered the reason why we were attacked so… ferociously."
+
+Captain Stenson flinched when one of the raptors' eyes opened and stared at him.
+
+The bird had been sitting contently on Ascender Titan’s shoulder, but the eyes pierced through him like a blade and he was forced to swallow.
+
+Ascender Legion noticed his state but she didn’t retract her gaze as the others brought themselves back from whatever they were working on.
+
+Being stared at by two sets of Ascenders put him on edge, but he kept his body and emotions under control pretending they were Lila.
+
+That helped. Slightly.
+
+He only hoped they wouldn’t blame him but he forged on. “I investigated the previous incident and suspect that Tier 30 planet might be the breachpoint for the third layer planets.”
+
+Seeing all of the leadership group waiting for more, he explained.
+
+“A breachpoint comes in two flavors, the first is when the higher-level energies dissipate naturally, the worlds closest to the edge count as such because people will use them as spring boards to delve the most valuable planets. Much more rarely, the energies condense instead of dissipating gradually. That pulls all of the third layer worlds closer together until they explode outward like a pinata, usually along the line of the first few outside tethers to appear. Which is why breachpoints for a contracting bubble breach are so contested. They allow a connection from inside the higher level area to outside, bypassing the more dangerous energies. Teams will swarm such breachpoints, as it allows them to be close to the explosion of worlds without risking being annihilated by the wave of third level energies that will rush out when it pops. These bubbles are sometimes entered by exploration groups crazy enough to run across the natural teleport tethers. They get an advantage of a year or two because the formation of the tether indicates the explosion is imminent but it is incredibly risky when a small year or two wait will suffice. Many lose their lives to taking such risks. In fact I bet the pinnacle teams were simply trying to cut the line before we could realize the prize we were sitting on. I—”
+
+Captain Stenson froze as all eyes focused on him with a palpable intensity not sure what he had said that earned their ire.
+
+Ascender Titan leaned forward in his chair to ask. “Do we know what causes one type of dissipation to happen over the other? Or why the explosion of worlds is caused by it?”
+
+He was surprised by the question but nodded. “There are no widely-accepted theories as to why one forms over the other. As far as we can tell, it's random. As for the explosion of worlds, we actually do. It happens because of the tethers. Worlds don’t like to get too close to each other in chaotic space, that's why worlds can safely pass through settled space without destroying everything they pass, they repel themselves at too close distances. The tethers, combined with the repelling, shatters the weakened and contracting bubble as the worlds try to create distance. That lets out one final wave of higher-level energy that will wipe out anything too close, which is why groups flock to breachpoints once they notice the energy is contracting instead of dissipating. These variations are rare and I take full responsibility for not realizing what type of world we were sitting on before it was too late."
+
+When he stopped, Ascender Legion waved a hand, urging him to continue.
+
+He did, but felt the Ascenders were having a weird reaction to knowing they had been forced out of such an important world.
+
+“I believe our previous world, the one we just left, is going to be the focal point that allows access to the third layer of chaotic space’s planets. From messages we have been able to crack, there are at least seven Tier 35 guilds heading for a high-Tier world in that vicinity based on their Seekers' predictions. In fact, I had our Seekers check and they indicate we need to return and probably retake that world if we don’t want to miss out. I’m sending what we have recorded about such events now and can answer any more questions.”
+
+Ra'thala, the lower Realm ascender but not an actual Ascender, looked at him strangely. “Is all of this information about ‘naturally forming tethers’ correct? It's… not what I expected.”
+
+Worried he might have messed up, he checked the information but saw it was all correct and said so.
+
+Ra’thala smiled at him as if he had been wishing to hear those exact words. Captain Stenson was confused but didn’t try to interpret as the seven people in control of their expedition discussed privately.
+
+Ascender Legion laughed as she turned to him a few moments later. “That's great news! Allie will teleport us back to the world before its time, so don’t worry about that, Captain. In fact, use Matt’s assistance and narrow down the time frame with the Seekers as much as possible. We want to arrive at least ten percent earlier than the third layer's expected eruption. Then we want you to start spreading the news. Spread it to everyone. Shit, spread it with our name if people don't believe. Once people are distracted fighting over the Tier 30 world, we can go around visiting the less-contested strange realms roaming farther afield than anyone else, giving us the best of both situations.”
+
+Captain Stenson looked to Ra’thala, but seeing the man no longer despondent, combined with the order to return early, he assumed the ascender had some special method to cut ahead of the metaphorical line.
+
+Ascender Wraith was the one to turn and speak instead of Ascender Legion. “Next, start looking for strange realms out here. Use your normal priority searches. No, scratch that, put an extra focus on worlds with cooperative strange realms first. Let's scoop up the most valuable things while everyone else is distracted. Then we can work our way down to friendly competition ones, like our last, and then full on death-match strange realms last of all, if we have time.”
+
+She smirked at the reference to her old title, but Captain Stenson was far too nervous to do more than smile politely.
+
+They asked a few more questions but with directions given, he got to work spreading the information as news as ordered.
+
+That was more familiar ground. At least unlike Lila, they weren’t planning to stay on the planet they were luring everybody to. Those times were nerve-wracking and he always hated the chases that resulted. This more indirect method was far more up his alley.
+
+Almost as if the Realm wanted to punish him, he then had to tell the Ascenders that there weren’t any broadcasted strange realms yet, hoping they wouldn’t react badly. It was after all a reminder that they had been kicked off their resting planet before they intended to leave.
+
+Ascender Legion’s phoenix self seemed distracted as she replied through spiritual perception fluctuations. “Have the Seekers check deliberately for nearby strange realms. A direction is better than no direction but if you need to just get us as far away from the Tier 30 world as possible as fast as reasonable.”
+
+Captain Stenson initially wanted to say that they couldn’t afford that, given they had just made a divination before he told them about the breachpoint, but he checked himself.
+
+Bringing up the Unsparing’s auxiliary mana reserves, he felt his attention go to Ascender Titan for what felt like the millionth time.
+
+One of his great grandson’s inspirations growing up, he had expected a lot of things, but he found Ascender Titan strange.
+
+He was an affable enough person, willing to chat and even take pictures with the crew before they had fully left communication of settled space once the first person asked. The large blond man seemed perfectly content to put his head down and grind away at a task. That in and of itself wasn’t abnormal at all. Most ambitious young immortals, let alone Ascenders, did so. They hadn’t yet reached the point in their own abilities where they couldn’t make much progress.
+
+No, what was eerie was how Ascender Titan kept his Concept going at all times. On the entire crew.
+
+Magnus, having worked with him before, had even quietly shared that the Ascender’s mana-giving Concept was affecting all his animals.
+
+Every day.
+
+For decades.
+
+Even the most blasé of the crew had already gone through the stages of disbelief until they arrived at weary acceptance. Yes, Ascender Titan really did keep his Concept going at all times as a force of habit like the rumors said he did.
+
+The only times they had felt themselves excluded from the additional mana was when the Ascender was out of spiritual range or he was actively fighting.
+
+He had also realized that this ability and willingness to keep his Concept running at all times explained why the Ascender had such a notably powerful Domain.
+
+Captain Stenson had seen Domain specialists, not the best in the Realm Duke Waters himself, but he had seen several of the others. Few could manage the strain of keeping such a powerful Domain ability active, even if they also had a last floor Mind Over Matter making Concept powers near, or entirely, free.
+
+Part of the Ascender group had been firmly identified in Minkalla but their Tier upon finishing had never been officially stated. Official movies either left it a mystery or chose between Tier 11 and 12, depending on the tone the producers wanted.
+
+Most, Captain Stenson included, had thought the four had most likely completed it at Tier 12. But now he wasn’t so sure.
+
+Using a free Domain ability caused spiritual and mental strain given a long enough time. Even the best specialist needed— or at least wanted— a break after decades of expenditure.
+
+He could count the times Ascender Titan had dropped the ability in over a decade on one hand.
+
+The Unsparing, despite only being stopped for a few years and doing two divinations only hours before, was still above seventy percent mana reserves. Donations were frequent as the untasked crew fed their excess mana to the ship, having gotten used to having more regeneration than they were used to. It would probably take some adjusting back after this expedition ended and they lost the boon.
+
+It was, at least on their small scale, an incredibly helpful display of generosity that let the ship run at an output they normally reserved for fights.
+
+Signaling to the Seekers that they could once more cast their techniques, he waited and watched the Ascenders, looking for signs they would lash out, thankful they hadn’t done so yet.
+
+Finally able to settle back down himself once the Ascenders were back to their normal banter, his mind went back to the ship.
+
+Blessedly, they hadn’t needed to engage in the last fight. All involved ships had been hired hands, so both sides had happily agreed to keep their distance before a victory had been decided.
+
+Captain Stenson had explored with Lila before but this was a legendary exploration already and he had to wonder how his guild leader was faring.
+
+The guild leader had, using the Ascenders, informed the guild to get her best ship ready and meet her in the first layer of chaotic space, aiming for the deepest parts of the breach. Knowing her, her attitude, and her Tier, she would be pushing for the biggest prizes and he wished her luck.
+
+When the Seekers’ reports came back, the Ascenders chose a direction and they started moving.
+
+Captain Stenson used the travel opportunity to continue listening to the space chatter going on around them.
+
+The breach was very active, and thanks to guild leader Lila being willing to steal anything she could during a war, the Unsparing had access to elite-grade military communication gear.
+
+Given her absence in the war Tiers recently, they were a generation behind and there were a few notable signals they couldn’t decipher, but most ships bothered to do little more than basic security that they easily broke through. Not that they could legally have actual top-of-the-line military encryption-breaking equipment. The Great Powers preferred to keep such cutting-edge tech out of civilian hands, and definitely not on ships prone to spending long times isolated in chaotic space where they might fall into enemy hands.
+
+The Unsparing was no exception, but being an Ascender’s personal ship, ensured no one bothered looking too closely.
+
+Most information passed along were about advanced groups who had secured a world and were trying to guide the rest of the organization to them. Such information, even if poorly encrypted in terms of communications security, rarely had any actionable information. It usually only had a name and string of confirmation code that would only have meaning to the group that created it.
+
+One interesting piece of information the crew did manage to find out was that two ‘rival’ exploration groups from the Clans had settled down nearby each other and were ‘fighting’. While occupied, they were trying to lure in other interested groups who tried to take advantage of the aftermath of the two groups' rivalry and bait out attacks.
+
+Informing the Ascenders, who were back silently working on their own projects, he asked if they wanted to clean up the groups. Having such a valid excuse, Lila would have, but Ascender Legion waved him down, not caring enough to detour from their path.
+
+As Captain Stenson was giving his attention to his work, Ascender Titan opened his eyes from where he was silently working on something and said, “Send me the files you couldn’t crack. I’ll try to break them, but no promises.”
+
+Captain Stenson almost wanted to object at the idea of trying to personally crack any encryption that the ship couldn’t, but having long learned to accept the impossible when it came to Ascenders, he passed over the files.
+
+When the files were decrypted only days later, it was all he could do not to spiral as he considered how many millions of mana that must have taken.
+
+It was something few of them liked to consider, but once seen in person, it was impossible to not wonder how much mana Ascender Titan’s Concept was giving himself, if it was giving them so much.
+
+Everyone could see Ascender Titan threw around a lot of mana, but what was truly impressive was how well synergized it was.
+
+Ascender Titan had created a brilliant but powerful loop.
+
+Captain Stenson knew some considered Titan’s Tier 25 Talent to recondense his mana back into physical form subpar. But, when combined with the Ascender’s Concept that increased his own mana generation, it allowed him to store mana between fights, letting him throw millions of mana into a spell without blinking an eye.
+
+Or in this case possibly billions into cracking an encrypted message.
+
+It was baffling to watch.
+
+It did however confirm their direction as a Republic exploration team had found a Tier 29 strange realm and were trying to lead their compatriots to them before they got raided or pushed off the world.
+
+The message could have been a lie or an outright trap, but even having been defeated days ago, the Ascenders seemed unbothered by the possibility, and so the Unsparing adjusted course.
+
+He would have been fine returning to settled space now, and knew some of the rest of the crew felt the same, but that was impossible. They had had a taste of incredible luck and now they wanted more.
+
+It was the crux of all exploration teams. Pushing just up to the line before the loss was devastating.
+
+He knew he was a cautious man by nature, but that was how he had stayed alive as a solo captain venturing into chaotic space for so long.
+
+Even with the smaller than usual cut, given that guild leader Worldwalker had sold the Unsparing outright, Captain Stenson and most of the rest of them were set to make a fortune from what they already transported back to settled space via Ascender Shadow.
+
+How everyone would use or spend their portion would be different, but the rewards themselves were already back home, safe and secure, which was a strange new feeling none of them really knew how to comprehend.
+
+Knowing they were all effective appraisers, even if they didn’t have a certification, Captain Stenson had privately asked the harvesting teams what they thought of the Natural Treasures which hadn’t been identifiable by them.
+
+Unanimously they had reported the treasures were only more rare than normal instead of ruined due to the gradient of elemental influences. That was ignoring the value of the most impressive Natural Treasures that had come from the bosses. Those Natural Treasures pulsed with energy so abundant, value was sure to follow.
+
+After the final tally, nearly twenty percent of the Natural Treasures were fully unknown or only had suspected effects because of the blended energies or similarities to another treasure known by the crew.
+
+Thanks to the sheer scale of rewards they had pulled out, so long as some of the odd Natural Treasures were slightly more valuable than the average for their Tier, the crew's portion of that single strange realm would be incredible.
+
+Some of the crew were already talking about buying their own ships. Some were probably even thinking of outright retiring, even if none of them were foolish enough to risk saying such cursed words out loud.
+
+Captain Stenson was personally eyeing a few Natural Treasures some of his descendants might find useful, but with nothing fully identified that was impactful to himself, he started looking for those around him. He was actually a rarity; most of the crew had seen small improvements thanks to the wide elemental net the Ascenders had cast, letting them absorb some of the cheaper identified Natural Treasures immediately.
+
+Personally, he intended to use most of his share to build out the foundations of his family.
+
+More a family clan than a noble family, his ancestors who reached immortality early had pooled their efforts together and tried to help the most driven members of the family through the barrier.
+
+Not long ago, that had been an expensive and thankless endeavor, as otherwise promising family members failed to make a Concept and died at peak Tier 14 one after another.
+
+As someone from a more successful than average second generation, he had benefited and now tried to pay it back as much as possible when he could. So, with that in mind, he planned to take a significant portion of his share as the raw items, using the family to eat the tax implications instead of selling part of his portion as he normally would.
+
+That was if the rest of the more mundane items in his share weren't enough to cover the costs, as Ascender Shadow had allowed them to mostly empty their holds, and if they could fill even partially fill up again, they could truly be set for a long, long time.
+
+Ultimately he didn’t know when, or if, any such rare dual elemental items would be pulled out of chaotic space again. It was better for the family to have the objects which would only become more rare as they were used, instead of taking the money directly, even if that might be more useful in the short term.
+
+Thankfully the Ascenders had agreed to abide by guild charter for the distribution, which prevented any fights.
+
+Anyone who had been in the exploration game long enough to join their guild had long accepted their own mortality.
+
+When they arrived at their target world, Captain Stenson was grateful to hear the Ascenders barter with the occupying Republic guild instead of going in and threatening to eat everyone who didn’t get out of their way.
+
+They were only a Tier 35 guild, but that undoubtedly meant the entire guild would be arriving, given the message that had led them here. He didn’t want to flee from a Tier 35 guild but it thankfully didn’t come down to it, which was the opposite if Lila had been in charge.
+
+As much as he loved his guild leader, she had been more than willing to throw herself at ships from organizations with greater local strength than herself, forcing them to flee more than once. Not everyone survived those trips.
+
+That was another reason why he had taken the offer of his own ship, and why he was suddenly questioning why he had fought for the right, giving up command of his normal ship and crew, to fly with the new Ascenders.
+
+Looking at their formerly full cargo holds, he had his answer.
+
+Greed.
+
+It was also fun to watch the experts in action. He had forgotten about that simple pleasure after being away from the guild leader for so long.
+
+Through repeated exposure, Captain Stenson felt he was beginning to learn what made Ascenders different.
+
+Because there was something different about these Ascenders.
+
+If his normal ship with his usual crew found this world, they might have fought, relying on Lila’s reputation combined with their strength, to earn a use of the strange realm. If he flew with Lila, they would have kicked the other ship off the world and dared their allies to confront them. When they were confronted with more than they could handle, they would have run away, but it felt normal for an Ascender to be so arrogant.
+
+Not that he had anything bad to say about the guild leader’s morals. She was generous and funded most of the guild out of her own pockets through her various media revenue streams, but it was weird to see another way of handling things.
+
+A more… normal one.
+
+These newest Ascenders were different.
+
+Ascenders Light and Shadow seemed more similar to the guild leader and it was never more apparent than when they were negotiating with the Republic ship.
+
+Ascender Shadow tried to egg on a fight, and he didn’t think she was playing. If she was alone or in charge, she’d do all of the things she was saying, acting exactly as Lila did, domineering and forceful.
+
+Ascender Legion, though, seemed to favor a more political approach, which Captain Stenson sometimes felt was the only personality trait amongst the group that lined up with their backgrounds.
+
+The daughter of two Royals was no slouch.
+
+Her negotiation style was however… direct.
+
+She laid out what she felt were reasonable demands, and if the counter offer wasn’t what she felt was in good faith, she was more than willing to pull out her spear and settle the dispute that way.
+
+Thankfully, the Republic team weren’t idiots and didn’t challenge them when the Ascenders offered twenty percent of the loot they pulled out of the strange realm, minus the top few items.
+
+It was closer to the split usually upheld between parties of equal size, but the other side agreed regardless.
+
+Ascender Legion even negotiated [AI] recordings of the strange realm from those who entered already in the Republic team, in exchange for the seven of them sharing what they learned when they entered.
+
+He wasn’t sure how Ascender Legion managed to convince the other captain to share that much information without defeating their combat troops, but she managed it without even overtly threatening them.
+
+According to the Republic team, the strange realm would start when anyone at all touched it, but if multiple people touched it at the same time, they would be grouped together.
+
+Once inside, everyone had to terraform a world from lifeless ball to habitable planet with only the skills and items brought in. Then time would accelerate for the planet and seemingly random things would happen. So long as the world was habitable, it would continue to grow, with conditions happening between time jumps becoming longer or harsher.
+
+The first Republic member to attempt had failed, being a test member of the guard, but the second team had consisted of the harvesting crew, once they were sure the strange realm was safe, where they had learned everything else.
+
+The reward the team had gotten wasn’t amazing, but neither was it bad. The Republic team, if they were being truthful, indicated each member of the party had their spiritual perception strengthened. It seemed like a fixed amount, given the crew all reported similar empowerment, and they suspected that the more iterations the group did, the better the reward would be, but he knew it might manifest in many different ways.
+
+Strange realms sometimes gave entirely different rewards based on how far one made it. It wasn’t often, but it happened enough that people looked into and gave extra scrutiny to any strange realms that seemed like they might do the same.
+
+Seeing there was no size limit, the Ascenders divided the crew in half, trying to balance skills and abilities as much as possible, before they hit the strange realm.
+
+Most of the crew were shocked that the Ascenders were willing to help them so directly, instead of taking only the most helpful harvesting team members whilst going in ‘alone’ to secure the best possible rewards.
+
+Once the teams were divided, Ascenders Titan and Shadow played several rounds of dice games to decide who would enter second, and got to act on any lessons the other team learned the hard way.
+
+Ascender Titan lost and, Captain Stenson being in his team, entered first.
+
+He was treated to a round of what he could only describe as a hard working vacation.
+
+The Ascenders, even Ascender Shadow according to his lieutenant who led that group, followed the orders of the harvesters to the letter, only interjecting when they thought they might have a better way to do something.
+
+With their abilities, both groups made it through over twenty iterations, the other team having Ascender Wraith who must have had a penchant for manipulating weather systems with her ice, air, and winter spells. According to those in her group, she had solved the issue in the twenty third iteration that managed to stump their group, even with their planetary-scale enchantments keeping things on track. When the harvesters from his half of the crew asked for pointers, they could hardly follow half of what she said, not that Captain Stenson could understand it at all.
+
+The rewards turned out to be excellent.
+
+Even beyond the increase in spiritual perception they got for every level, for completing the tenth layer they all got the ability to take a single viable plant seed. The few seeds that they recognized were all incredibly rare herbs that were correspondingly difficult to propagate, and the unknown factor increased the excitement about the others even more.
+
+Reward seeds like theirs were often easier to germinate for a few generations, and so even the cheap ones sold for a premium.
+
+For completing the twentieth iteration, they earned the ability to forcefully germinate a single plant to full maturity. Through their testing, they quickly learned that while the ability was permanent, it came with a fairly long cooldown.
+
+After truthfully reporting what they learned, they left and started looking for their next strange realm, all while watching dozens of groups stream past them to their previous Tier 30 world like locusts.
+
+Best of all, they already had a lead on another strange realm, having traded for it with the Republic team before they left.
+
+***
+
+Lila growled at Wun who trembled before her, looking at the thing that looked like a bird except, according to their Seeker who needed birds to make their Talent function, wasn’t a bird.
+
+Leaning in as everyone else watched, Lila growled as she stamped on Wun as a new rift formed thanks to a last resort, taking a page out of Matt’s book.
+
+Hearing gasps for air that might have been a call for help, Lila paused her smashing long enough to growl. “This will continue, my dear Wun, until a rift forms that has birds. If you hadn’t entered the ruin we told you not to, you wouldn’t have gotten the curse that killed every stupid bird on this planet while we are lost!"
+
+Her words echoed off the mountain walls but no one looked at Wun with pity. They hadn’t even reached their breach proper yet but Wun had managed to stall them three times.
+
+The first time they got stuck, their engine’s polarity had reversed and, to fix it, they had to limp to the closest world on half power while the maintenance people rebuilt the drive, but they had found a hidden pacified ruin someone had been using as a smuggling stash.
+
+From slightly before the Shattering, the materials seemed to be of passing value. Then Wun stepped on a trap door whose hinge had rusted through, allowing him to fall through and get impaled.
+
+Inside, they found nine Tier 26 skill orbs hidden by someone else.
+
+They had forgiven Wun for that.
+
+The second time, his very presence caused a malfunction, their shipboard AI needed to be wiped because it kept adding ever-increasing vectors to the navigation, causing them to drift off course. They found nothing on the world they rested on, despite many attempts to find something useful.
+
+This was the third time, and they were fairly confident this was another repeat of the second instead of the first. After a freak storm that reached energy densities rarely seen outside the deepest parts of the third layer, that managed to mix all of the worlds around them, they had tried to find a world where one of their Seekers, one of the best Tier 45 Seekers the Empire had to offer, found that all of his birds had come down with a disease that paralyzed them. And with the birds unable to fly, he couldn’t divine anything.
+
+That should have been fine, birds were common and his Talent worked on any feathered flying creature, except the only world in range of their scanners’ birds weren’t actual birds, just bird lookalikes, despite being feathered little shits.
+
+She ate several to check, and they even tasted like birds.
+
+After checking every single rift on the planet and the world's three moons, they found that none of them had flying creatures that counted for their Seeker’s Talent.
+
+And the other Seeker, the one who did shorter-term divinations, kept saying the answer lay in Wun.
+
+They were losing their lead, everyone was growing irritated at this point and the culprit wasn’t taking things seriously, which was why Lila had resorted to percussive maintenance.
+
+While she was beating him, the rift in front of them poured out a flock of what looked like bats. No feathers, leathery wings, echolocation and sound abilities, they seemed like bats.
+
+Angry rift bats, but they were Tier 9 and harmless.
+
+They were also apparently birds where all of the other things weren’t, as indicated by the happy shouts of her Seeker.
+
+Wun, seeing that his penance was no longer needed, slipped out of her claw and fully healed himself.
+
+“See. Look, these bats are special.”
+
+Lila inspected the bats but didn’t see anything unique beyond the obvious. They didn’t even taste particularly good.
+
+Seeing the other Ascenders didn’t have strong opinions on the bats, she found one of her people. “Rutherford, grab a breeding pair of bats. Actually go in the rift to get a new set.”
+
+Standing up she looked at her harvesting team half a continent away.
+
+Letting her draconic voice to rumble and echo across the planet she called out, "Once we have a heading, we are gone! Move people, move! I want to regain our lead. Mana teams, I want you packed up in six minutes. It takes seven for Falo to run his ritual. First one done gets a higher-priority loot slot in the next world. Let’s go, people! Move!”

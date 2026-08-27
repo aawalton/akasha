@@ -1,0 +1,275 @@
+---
+id: c15e3232-a208-572e-b610-81fcd08fe789
+page-type-slug: story-chapter-royal-road
+title: "97 Cataclysm Comes"
+slug: 0055-97-cataclysm-comes
+partOf: the-new-world
+position: 55
+ownLength: 4422
+unit: words
+ownProgress: 4422
+publishedAt: 2018-01-19
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/188029/97-cataclysm-comes"
+royalRoadId: "188029"
+markedReadAt: "2026-06-29T21:22:43.174Z"
+---
+
+I raised both my hands, “Wait a second. Calm down, and let’s talk about this for a minute. Where are your guards?”
+
+Torix raised an eyebrow, “What guards?”
+
+I snapped my fingers a few times, finding my words, “Uh, uhm...Aatrox and Kade.”
+
+Torix leaned against his hands, “They are acting as leaders of two battalions right now. Otherwise the followers would have decimated them.”
+
+I spread out my arms, “What about that gaint monster you used once...Moloth right?”
+
+Torix shook his head, “I can send him, but time is of the essence. Moloth is a very slow, fumbling giant.”
+
+I grabbed the sides of my head, “Fuck. What about Althea?”
+
+“The same situation as the guards. She throws the followers off as they travel around.”
+
+I shook my hands, “Why did you send all our fighters off on missions like this? Wasn’t the goal to fight the followers and kill them?”
+
+Torix shouted, “Why haven’t you organized any missions and presented them to me? You have a head between your shoulders. Do I have to command your every move?”
+
+Hod clapped his wings together, “Harbinger and Dry Man. Stop shouting. We need to save Lady Friend number two.”
+
+I sighed, “Dammit...you’re right.” I turned to Torix, “I’m sorry.”
+
+“Likewise. Go and help her.”
+
+Without needing another word, I turned and sprinted out of the house. Hod followed me, stumbling out before flying upwards. Torix howled with his voice unsteady,
+
+“Prepare yourselves. I will stop by once I’ve positioned the troops.”
+
+I stomped my heels into the ground before diving into the ground. I unleashed overcharged energy from my runes, blasting me up into the air. After a few quick dips in the ground, I raced towards the point on my minimap. After a minute of travel, distant, booming echoes radiated from near the steel legion’s training camp.
+
+It was an empty warehouse surrounded by a few tool and car shops. It was convenient since parts could be gathered from nearby. The open areas inside the building where perfect for firing ranges. The enclosure kept most of the noise from firing inside the building. While it wasn’t the same as an underground bunker, it served its purpose well.
+
+Well, for the most part. A follower found the building. That wasn’t what everyone was hoping for. Gunshots ebbed from the building explained why it was found. A giant hole in the side of the building showed where Kessiah and the follower went. I dashed up from the ground, landing beside the hole. Whenever I peered inside the building, horror met my eyes.
+
+Blood drenched every part of the building. Deformed thralls of Yawm feasted on corpses. The squishing of fresh intestines being chewed made my stomach sink. Streaks of warm blood painted the walls and floors. Several dozen summons of Yawm were hunched over corpses, the crunching of bone grating the air.
+
+They chewed on fingers and ribs. Eyes were plastered over their bodies. Blood clotted around wherever their mouth was, whether it was on their face or elsewhere. The thick, pungent scent of organs filled the entire building, wafting out of the hole on the wall. Dozens of soldiers were screaming as their organs were sucked out by abominations of flesh.
+
+Hod dashed into the room,
+
+“Hod save soldiers. Harbinger save Crow.”
+
+I clenched a fist, wanting to dash in there and turn the spawns into pulp. I swallowed that desire before turning towards several other holes in buildings. Several hundred meters away, the booming sound of combat was evident. Kessiah needed me.
+
+I flared my runes and charged towards the fray. I leaped over buildings with torn walls, some flattened down to their foundation. I reached the point of combat a few seconds later. There was the follower.
+
+Dakhma Wike, Blood of Bane(lvl 3,314)
+
+In a city square, Kessiah battled against Dakhma Wike. Four blocks were covered in rubble from collapsed buildings. Several craters littered the ground. Telephone poles and city lights stabbed through buildings or laid mangled on the ground.
+
+With his living cape and hunched back, Dakhma kept low on the ground. Blood leaked from his enlarged right arm. He held his old sword with a firm resolve, however. From under his hood, a malicious grin had spread. The gray armor covering him still shined. He was almost unharmed. Kessiah wasn’t so lucky.
+
+Kessiah limped on a leg punctured by his sword. The sword had stabbed through her shin bone, splintering it apart. The fact Kessiah still walked on it amazed me. Part of her hair had been sliced off, like a new, short haircut. Six stab wounds showed across her chest. Blood squirted from the wounds, but she channeled it into her Blood Arts as she fought.
+
+The black veins spread under her skin, keeping her fighting. I neared them both as Dakhma Taunted in his old voice,
+
+“You remnants have a bit of fight in you after all. It’s amazing what a difference a single talent makes. You won’t fight for long though. Not if you keep relying on Baldowah for your strength.”
+
+Kessiah lifted her hands, spitting blood out from her mouth, “Fuck off.”
+
+Dakhma laughed, his voice like grit, “With it comes a tremendous ability for destruction, but you are undisciplined. You cannot wield it.”
+
+Kessiah shook her head, “Didn’t you want to fight?”
+
+He dashed towards her, his voice bristling across the open square,
+
+“With pleasure.”
+
+Before he reached her, I landed ten meters away. Using telekinesis, I redirected the force of my landing above Dakhma. A telekinetic wave slammed against him, causing his charge to stumble. Capitalizing on my disruption, Kessiah dashed forward and slammed a fist into his face. It looked like a shadow of my own punching but sloppy and wild.
+
+What she lacked in technique, she made up for in power. The speed of her strike was blistering, like a bolt of lightning. After ushering a monstrous echo from the contact, Dakhma shot backwards. His body dug through the ground and pavement. A trench formed before he shot through the wall of a brick building. Slamming into the other side of the small tool store, the entire structure collapsed.
+
+A wave of red dust billowed from it. I ran in front of Kessiah. She gasped, “Ah...fuck, I thought I got him...Thanks.”
+
+I opened the pocket dimension in my ring, pulling out a blue crystal. Torix had given us a guard just in case we needed it. Althea’s had been Aatrox and mine was Kade. Now was that time to use them.
+
+With that in mind, I channeled mana into it. From the crystal, a wave of energy exploded outwards with a cloud of crystalline powder. Kade, a tall guard with two giant cannons positioned on his sides, walked out from the cloud. He looked around, confused and covered in blood that wasn’t his own.
+
+It looked like I plopped him right out of combat. The steel legion would have to make due without him. I tightened my fists and flared my runes. I slammed my firsts together, the telekinetic augments forming without thought, “Let’s rip this guy’s guts out.”
+
+I stomped my foot, exuding Overwhelming Presence and Words of Strength as I roared,
+
+“Come on Dakhma. You wanted a fight, didn’t you?”
+
+A titanic explosion swelled the dust from the brick building in front of us, pieces of brick and debris slamming into nearby buildings. Dakhma stood tall on the ground, his silver armor dented on his face, chest, and right arm. The stunted left arm was nigh useless, but his red cape molded into an even larger limb than his right one.
+
+He leaned over, a gray beard falling onto his chest plate. Menacing and conniving, his eyes and face were hidden beneath the darkness his hood cast. He pointed his sword at me,
+
+“Are you the fighter I spared so long ago?”
+
+I slammed my fist into my chest, the clash of metal overpowering his words, “I didn’t ask for questions.” I thundered, “I asked for a fight. Come on.”
+
+Dakhma leaned back for a moment, along with Kessiah. Somehow my words held no fear. It didn’t even seem like my own voice. It sounded like a bloodthirsty warrior challenging another warrior in combat. In the end, I guess that’s what it was.
+
+Dahkma laughed, “Hah, hah, hah! Finally, an eager opponent.” He leaned over, “I accept your challenge. Prepare yourself.”
+
+I reached out towards him with Event Horizon. He bolted forwards, fast as a speeding bullet. I condensed the aura over the trajectory of his charge. As he entered the aura, his grin turned into a grimace.
+
+He reached me in an instant. It was fast enough that I called it teleportation. As he popped up in front of me, he reared his sword back, trying to knock me aside with his crimson, tattered cape. Like the palm the palm of a giant, it swiped towards my right side. I grinned at the sight.
+
+I stomped my heels into the ground, extending my footing with telekinesis and gravitational magic. Using Volatile Carnage, a gravity warp formed over my left fist, along with telekinetic augments. Boundless Storm let me guide my movements with a pristine grace and deadly intention. Whenever my fist landed, The Coming Tide let me discharge my loaded runes.
+
+The resulting impact was like a holding an earthquake in my hands. The point of contact resulted in a hole being punctured through the cape. Dakhma’s jaw gaped in surprise as he charged into me. The sword stabbed through my stomach, piercing out of my back. I still clasped my hands against his shoulders, gripping as I condensed Event Horizon around him.
+
+Dakhma grimaced before I leaned down. From behind me, Kessiah stepped forward and lobbed her fist at his face. Before it landed, I covered my ears with my armor. Even with the thick plate of metal protecting my hearing, the shockwave of the strike left my ears ringing. I lifted my head after the strike, observing the destruction.
+
+Dakhma crashed through a nearby house, piercing into another one before collapsing the building once more. His attack hardly even scratched the massive pool of health I developed, so I turned to Kessiah,
+
+“Can you go on?”
+
+As if hit by whiplash, she stared at me in disbelief, “How did you block him?”
+
+I clapped my hands, making Kessiah take a step backwards,
+
+“Kessiah. Focus. If Dakhma escapes, we’ll be fighting three followers instead of one. Now’s our chance. To kill him. Can you go on?”
+
+She blinked before nodding, “Of course. Let’s rip him apart.”
+
+I clasped my fist in confidence before charging towards Dakhma, my health regen reconstituting my wounds. Inside the suburban home, Dakhma crashed out of the wall of the building. With blood dripping from his mouth, he howled,
+
+“You meant it when you wanted a fight. I’ll return your intention in kind.”
+
+He dashed towards me, shooting through the air with a burst of speed. As Kessiah’s vanguard, I met his charge. He slashed downwards with his sword from his right hand. I stepped towards his left. His cape moved towards me, the fabric curled into a colossal fist. Before it struck me aside, I used The Coming Tide.
+
+I leaned downwards while sliding two feet deep into the ground. The difficulty of it, like molding the armor on my foot and gravity magic, were eased with The Coming Tide. It made my duck smooth and fluid.
+
+With my feet planted, Dakhma’s cape hit my upper shoulder. As it made contact, I shrugged my shoulder and molded my armor, guiding the strike over my head. Sparks flew off my armor as I unleashed my overcharged runes. My fist struck, and I expanded my footing with telekinetic augments.
+
+My fist slammed into Dakhma’s stomach, creating another dent in his armor. He lifted off the ground a few feet as wind burst outward with a wave of sound. Before he landed on the ground, I stepped forward. My feet lifted out of the ground, smooth and controlled. I feinted another right straight at his stomach.
+
+Dakhma reacted in time, bending his stomach backwards. It was a sublime dodge, perfect for dodging a right straight. Unfortunately for him, that wasn’t the real punch. I shifted on my feet, transferring force from my feet upwards. I dragged my fist into his face, whalloping him with a left uppercut.
+
+Volatile Carnage transferred the force of my punch into a telekinetic bullet. This strike collided into his chin, bouncing my fist backwards. The blow disintegrated his beard and whipped his head backwards. Dakhma flipped through the air before Kessiah charged past me. Dakhma landed on his feet as Kessiah reared back her right fist.
+
+It was an amateurish attack. Sure it held enormous speed and power, but it was predictable. Rearing back a fist during a fight is an easy way of getting countered. Knowing this, Dakhma slipped under the enormously fast strike and impaled Kessiah’s stomach. He lifted her into the air before his cape grabbed her.
+
+It pulled her from the blade before shoving her down into it again. Before it landed, Torix’s guard, Kade, fired of several rounds at Dakhma. Dodging like a dancer, he shifted between the bullets while maintaining his hold on Kessiah. Unlike me or Kessiah, his footsteps never crushed the ground. They were light and effortless.
+
+It was like he was weightless as he spun and swayed between Kade’s bullets. He removed the sword from Kessiah’s chest. His cape pulled her back down into the blade. Dakhma planned on finishing Kessiah off before we comboed him again. As invincible as he was, even a follower couldn’t tank Kessiah’s strikes for free.
+
+Before he could execute on his plan, I stomped my heel and slammed a fist into a telekinetic pad. It transferred the force of the strike onto Dakhma’s sword. The sword drifted sideways, making the cape slam kessiah into Dakhma. They fumbled backwards as Dakhma’s footsteps kept them afloat. Otherwise they would sink into the ground from their combined weight.
+
+I dashed forwards with The Coming Tide, diving into the ground. I unborrowed with a burst of energy from my overcharged runes. I pelted past him, grabbing his cape as I dashed past him. With my runes flaring at full force, I pulled Dakhma away from Kessiah by holding onto his cape.
+
+I landed on the ground, lifting him and kessiah through the air. Dakhma lost his grip on Kessiah, her body flopping through the air. She tackled into the ground, the earth rippling under her mammoth weight.
+
+Dakhma wasn’t so lucky. He slung through the air, like I was swinging a flail over my head. He clashed against a pile of brick rubble, cracks webbing outward. During the entire struggle, I kept Event Horizon on him. He tried standing after the slam. I dashed into him.
+
+We rolled on the ground before I ended up on top of him. I stabbed my feet into the ground, reaching out with tendrils of my armor. Dakhma struggled, his strength tremendous but my hold secure. I lifted a fist into the air. It was like an executioner’s axe.
+
+I slammed it into his face. I lifted my other fist, and I smashed his face once more. Strike after strike, I pummeled him. The crater beneath him expanded after each impact of my fists. The old, wrinkled skin on his face ripped open, fresh wounds forming. His blood coated my hands, smearing across the ground and his armor. With a vicious, animalistic brutality, I beat him with my hands.
+
+Seconds of this onslaught passed before his cape grabbed me from behind. It pulled me backwards before his legs wrapped around my neck. They clamped down, blocking any air from entering my lungs.
+
+The metallic roots I used for planting myself down now held me arched backwards. Dakhma leveraged his legs, bending my spine backwards. My armor stretched before snapping, the pop of bursting armor loud as a bomb in my ears. My spine cracked. My bones broke under his might He lifted his sword impaling my spine, severing the nerves.
+
+My legs went limp before Dakhma spoke, “You have an admirable tolerance for punishment. I’m sure most eldritch couldn’t even harm you.”
+
+He lifted his sword from my stomach, stabbing it through my neck. My arms and chest went limp.
+
+“If an enemy understands how to harm you, your confidence will get you killed. You would be a better warrior if you were under my tutelage.”
+
+He leveraged my back, the sound of tearing skin and breaking bones ringing in my ears,
+
+“I can extend that offer again, if you join Yawm.”
+
+Though my body was numb, the armor over my body wasn’t. I shot out several spines into Dakhma, the tendrils of armor digging through him. Despite the damage he dealt, Event Horizon combined with my insane health regen meant I was recovering. Feeling in my arms came back, so I grabbed onto Dakhma. The tips of my fingers clawed into him.
+
+I opened my mouth, my armor opening with jagged jaws. They clamped into the leg of Dakhma as he howled out. A moment later, he lifted his sword and slammed it towards my head. I spike of my armor grew out, guiding the blade sideways. It stabbed into the ground before Dakhma released his leg’s grip on my neck.
+
+As he did, he pushed himself back, pulling the tendrils of my armor out from under his skin. With blood dripping from his wounds, he grimaced, “You’re not worth of my tutelage. You’re no warrior. You’re a monster and you fight like one, like some demon without honor in battle.”
+
+I pulled myself from the ground, my body regenerating, “This isn’t battle. It’s bloodshed, and there is no honor in bloodshed. You’re just in denial about what you’re doing.”
+
+Dakhma lifted his old sword again, deflecting several of the bullets from Kade’s rifles. He jumped into the air, mana harmonizing onto his blade. The air around us reddened before this red sucked into spear. I jumped up towards him, but he propelled towards Kessiah and Kade. In a flash of light, he passed through Kade.
+
+The guard’s upper and lower halves severed, blood squirting from both sides. The slice of his sword sent out a shockwave a second after he landed. A gust of wind shot up, along with a wave of dust and sound. It was like he went faster than sound, creating a sonic boom.
+
+Dakhma heaved out his breaths, struggling for air as he landed. That kind of burst took a toll on him. Kessiah dashed towards him, putting him on defense. Her strikes pummeled against his cape and sword, fierce and fast. I dashed towards them both before Dakhma deflected a hook from Kessiah with his cape.
+
+In a burst of movement, he pierced her chest again. I reached him, but he released the sword with Kessiah stumbling backwards. As she spit out her own blood, Dakhma spun towards me. He swung with his cape first, but I dived over the giant hand of morphed fabric. I landed on his upper chest, biting into his neck.
+
+Before he slung me away, a tiny rupture in his armor formed. I slammed my fist into the hole with Volatile Carnage activating. It created a hole in his skin. My armor infested his flesh, digging into the wound as he pushed me away.
+
+The tendrils of armor ripped out of his body. From the force of his shove, he broke the ground around us. Fissures crawled outwards as I flopped on the ground. Kessiah pulled out the sword from her chest before swinging it at Dakhma. Dakhma blocked with his cape, the fabric shearing as he stomped forward. Like a chinese monk, he struck into her stomach with his feet grounded.
+
+A crater formed under the feet of Dakhma, the power of his strike undeniable. After flopping through the air, Kessiah hobbled up next to me. She grinned,
+
+“He’s tough, but he’s about out of juice. Look at the bastard shiver.”
+
+She was right. The fist that struck Kessiah shook with several broken fingers on it. The cape was split in two with holes all throughout it. Gashes and cuts covered holes in his armor, and his knees buckled now. He couldn’t stand up straight anymore, and his mana looked depleted. Since the last time we fought, Kessiah was using her Blood Arts and I gained over 1000 levels.
+
+He couldn’t keep this up forever, especially not with Event Horizon chipping away at his health. After killing Kade, his mana was depleted as well. Knowing his fate, Dakhma murmured,
+
+“You know, two of the followers chose to accept Yawm’s gifts and two chose not too. Ajax and I, we wanted to support our master without abusing his gifts. I wanted to help him with my own strength. I wanted him to know that I could and would earn a place at his side.”
+
+He lifted his sword, runes forming over it,
+
+“There exists a greater resolve in my stained soul, however selfish it may be.”
+
+Eldritch runes spread outwards from his armor and cape, covering his body in a dark red light. I dashed towards him. He lifted himself up off the ground, standing his full height. His wounds healed. Red lightning coalesced around his broken sword, creating a sword of crimson. As it finished, a shockwave blew me backwards.
+
+Dakhma lifted his right hand, the distortion within it disappearing. The swollen joints became normal. I dashed towards him again, but he shoved the crimson sword into the ground again.
+
+The red lightning bolted into my armor, paralyzing me and shoving me backwards. I landed on my back, unable to move or do anything. I looked on as Dakhma's ragged fingernails rejuvenated under the healing light of the runes. Dakhma’s odd proportions became normal. His left arm grew in size, bursting from the armor. He lifted his sword, a bolt of white energy coming down onto it.
+
+The crimson melted away, turning his cape and sword turned to a pristine, noble white. It was no longer tattered and ruined. His items and body were rejuvenated over a few seconds. Feeling came back into my body, so I stood up. I dashed towards him, but a bolt of white thunder arced from the sword, stopping me. The flash of lightning pierced through my chest, burning my insides.
+
+Dakhma laughed, his voice no longer old, “Why have I waited so long for his healing light?” He stared at his hands and shining armor, “I am made new once more.” Dakhma pulled back his hood, showing a full beard regrown onto his chin. Dignity spread over his face, a look of confidence beaming out.
+
+He grinned, his teeth no longer yellow and crooked. My chest reformed as I stood there, my confidence in our victory dying out. A new Dakhma would tear us apart with how worn down Kessiah was. As if affirming my thoughts, Dakhma swiped his now white blade of energy.
+
+A wave of light flowed over me, burning my skin like acid. Kessiah ran backwards, hiding behind a car. The melal and glass melted, a sterile scent leaking from the hissing materials. Dakhma raised his sword,
+
+“I am the bringer of Yawm’s light. I will purify the remnant stain hiding from me. With...”
+
+From under his gleaming armor, Dakhma’s chest pulsed outwards. It was a large shift, unnatural and grotesque. Dakhma took a step backwards, struggling out his words, “I...I will conquer these demons...”
+
+A tendril of flesh ripped out from under his armor, plastering over the shining metal.
+
+“I...hear their voices...I will continue, even though the flesh screams so loud...”
+
+His chest pulsed once more. A tentalce of viens and writhing organs spread over the side of his neck. Another polyp of flesh expanded from the wrist holding his sword. Kessiah and I looked on in horror as he continued,
+
+“The voices...they scream so loud...”
+
+His cheeks sunk into his face. The cheeks split, his jaw unhinging. He gurgled out,
+
+“Make them stop...I can’t...” He reached out hand towards us, “Please, make them stop.”
+
+Rows of teeth expanded from his unhinged jaw. They opened up, forming many mouths across his jaw and the skin on his face. I opened my status screen, sending Torix and Hod a message,
+
+The Living Dimension(3:21 P.M. 12/06/00) - Dakhma is too strong. Help.
+
+I finished the message, sending it towards them. Dakhma’s body expanded out his armor, covering it in molded skin, hair, and organs. Like a nightmare of living flesh, the new, noble knight was consumed by his own body. He gurgled in a deformed voice,
+
+“Please, help me. Please...”
+
+The gurgling turned into a muffled howl as the skin on his right hand split open. Bone and meat covered the handle of his sword. He shifted, turning in agony. Waves of white light beamed outwards in every direction. They crashed against buildings, lopping them in two. I burrowed into the ground while Kessiah hid beneath rubble as he did so.
+
+Once the sound stopped, I pulled myself from the ground. Dahkma’s arms no longer grabbed the side of his head. They laid limp at his side as his chest convulsed. Flesh covered the cape along his back, turning it into a writhing, convulsing plate of muscle and veins. Spikes of bone grew along the edge of it. Dakhma lifted his new left arm and smashed his face.
+
+His knees shook as he slammed his fist into his face. Bulbous sores burst, flinging disgusting bile on the ground as he gurgled out a scream,
+
+“Kill me...Kill me...They drown me...I am lost...I...I don’t want to...become them.”
+
+He shook his head, his skin shivering. The convulsing stopped, along with any struggle. Dakhma’s posture straightened. His body relaxed. The fear in him dissipated. The grimaces on the mouths of the creature smiled. The eyes opened wide, curious, and haunting. The mouths spoke in perfect unison as it caught sight of me,
+
+“You...you are not like the other food here or like my brethren. You are something else altogether.”
+
+It took a step towards me, drool leaking from each of the disgusting mouths,
+
+“You still feel like a little lamb...I wonder how you taste.”
+
+I shook out the wave of fear, grinning at the monster. My armor formed teeth,
+
+“Like something you will grow to fear.”

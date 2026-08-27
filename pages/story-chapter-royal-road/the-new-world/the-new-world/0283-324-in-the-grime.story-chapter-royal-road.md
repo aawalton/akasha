@@ -1,0 +1,239 @@
+---
+id: 483cffcb-f247-53b4-861c-6b6a86774449
+page-type-slug: story-chapter-royal-road
+title: "324 In the Grime"
+slug: 0283-324-in-the-grime
+partOf: the-new-world
+position: 283
+ownLength: 3198
+unit: words
+ownProgress: 3198
+publishedAt: 2022-01-08
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/820818/324-in-the-grime"
+royalRoadId: "820818"
+markedReadAt: "2026-06-29T21:30:55.159Z"
+---
+
+I finished my cities for the day, closing in on the border of the Great Lakes. The colossal expanses of water could've been mistaken for oceans, their dominance of the landscape absolute. I flew over them for a while, having an aerial view of the blue expanses. They took my breath away when the sun shone off their calm waters, and I took longer getting back to Mt. Verner than I needed to.
+
+Eh, sometimes a slow drive was worth it.
+
+After our familiar mountain base came into view, the differences my cities made already manifested. Springfield carried a few buildings over its surface, some artsy types getting a hold of the constructor golems. A more sleek, modern appearance came over the new buildings there, various textures used for the housing.
+
+Some carried brick exteriors with polished concrete, and others contrasted glass and steel with geometric patterns to match the hexagonal masses beneath them. Each home boasted silver wiring, the metal conducting mana better than steel. Connected to mana deposits, this power grid lit everything, lamps and mana torches burning across everything.
+
+It was the first functioning electrical grid I had seen since the system started. Outside of Mt. Verner's inner sanctum, of course. In that lit expanse, people established different lifestyles. Signs of advanced civilization came about. People walked pets, some had babies in their arms, and a few even lazed about. It was a privilege at this point.
+
+That ease contrasted my city-building trips like night and day.
+
+Everywhere else, people's living standards plummeted like a bird with broken wings. Instead of working on aesthetics or entertainment, most people struggled with food and sanitation. That and the eldritch, which spread across the terrain and warped most natural ecosystems by now. Lots of villagers worked within that warping force while we ended up crushing it.
+
+After immersing myself in that struggle of the masses, finding the prestige and success here left me whiplashed. I adjusted before hovering back into Mt. Verner. At this point, Mt. Verner already adapted for systemized living. Most people's levels exceeded 500, and they could leap and move like superhumans.
+
+People lept across the green treetops, finding their way to dungeons or to loot old settlements. They came from openings that let air into the mountain base. I hovered in from one of these openings, arriving on the second floor. I waved at workers who preferred the subterranean style here. Not everyone left; people still revved machinery like this place was a big engine.
+
+Along the outer edge of the mountain, I stalked up to the eldritch research facility. Within several tunnels, different containment units lined up. Eldritch monstrosities filled these containment units, most of them the child versions of their fully grown selves. I found two supergolems protecting these eldritch specimens.
+
+A few workers stood beside the glass lining, researching and studying the odd creatures. Beside them, Amara walked in the armor I gave her. She never took it off, the armor like the old rags she used to wear everywhere. She even figured out how to channel mana from it, forming quintessence crystals while I walked up.
+
+She put a glowing, white stone in her cheek, quintessence her favorite flavor. The eldritch hacker then hissed out a command to a scientist,
+
+"You fool. Don't sit there and gawk. Test the acid and the mianoc's response."
+
+A scientist gazed past a glass windowpane reinforced with enchantments.  I found what he gawked at; a miasma cloud of dark energy writhing about as acid melted it. Amara stepped up and pushed the scientist aside, wrenching his notebook from him. She wrote down several mentions about the mianoc and its physical responses.
+
+I stepped up, the physical sludge contacting an invisible form. I raised a brow, "So...What's this all about?"
+
+Amara snapped, "This scientist, or the torture?"
+
+I raised my brow, "Honestly, both."
+
+Amara let the notebook slap on her armor's side, "It's a necessity. The mianoc are collections of dark thoughts generated from spiritual amalgams. Floating fragments of ambient mana leeches into the minds of many around them. This is normally not dangerous in low quantities, but sometimes, the mana may come to life. Depending on what comes out, it may manifest dark potential."
+
+Amara's wire-clad hair dispersed around herself, "The mianoc are pure evil intent turned into a semi-physical body through this process. It's a shame, as there's no saving them. This 'acid' is a non-hazardous material to most physical creatures, and it may be used as an elixir to eliminate these entities from possessed individuals."
+
+I grimaced, the mianoc howling in agony, "It sounds pretty effective."
+
+Amara cringed at the sight, "I hate these methods, but the means are undeniable. A cluster of these entities hoarded in some of the lower embankments of Mt. Verner, and we're tasked with eliminating them."
+
+I crossed my arms, "You know, I could get rid of them instantly. We don't have to go through all of this trouble."
+
+Amara nodded, "As could I, but the point is not to rid these inhabitants of their problem. The true answer is to arm them with a solution to do it themselves. Only by giving them a measure against these monsters may they be able to combat them permanently."
+
+Amara peered up to me using a palm, "I would certainly prefer not assisting these weaklings anymore than I am forced to as well. I won't let a sheep call me whenever they please to solve their problems for them. Isn't that right, Robert?"
+
+The ethically sound scientist behind us flushed red before I gave him a nod. I said, "You're dismissed...And don't mind her. You're doing fine."
+
+He gave me a curt nod, "Uhm, thank, sir, Harbinger, sir."
+
+As he stepped away, Amara snarled, "He's weak."
+
+I shrugged, "You need a balancer like him."
+
+The mianoc's intangible form disintegrated into a dark ectoplasm. Amara grimaced, "And he needs a backbone. Tell me, what is it that you want?"
+
+I put my hands on my hips, "So, I'm trying to get a firm grip on where I'll progress next. I have a lot of options, and I really need to think them through before committing further. To do that, understanding your limitations with system work is necessary."
+
+Amara tilted her head at me, drool leaking out of her maw, "And what-Slll-must you know?"
+
+I frowned at her slurping her drool line up, "Oh man, that's disgusting."
+
+"The same can be said of you. Where you see from, you shove food down your gullet. It's grotesque, and yet I tolerate it. You should do the same for my idiosyncrasies."
+
+I raised my brow, "Huh. That's not the case with me. I never eat anymore."
+
+Amara froze in place before hissing, "Hm...Fine."
+
+She crunched up the crystallized quintessence before pointing her hair down the hall, "Come. Let us speak elsewhere with fewer prying ears."
+
+After getting down the hall, we walked into Amara's living quarters. She repurposed a utility closet, tearing down the wall between it and the one person bathroom beside it. She left the messy whole and bits of concrete. Combine that with the haphazard mess of cleaning supplies, and the place looked like an irradiated wasteland.
+
+Unable to fit through the doorway, I stayed outside while she rested in the corner of the room. She nestled into a ball before tapping the other corner of the room, "Come. This is the perfect sitting spot. I sit here often, and I dwell on many things. We shall dwell together."
+
+I raised a hand, "I...I'm good."
+
+She gave the corner a firm tap, "You deny me this grace? Are you saying my home isn't worthy of living in?"
+
+I sighed before squeezing through the door. The doorframe snapped along one of my shoulder pauldrons, and the cheap ceiling dragged against the uppermost spike on my helmet. Wanting to avoid scraping the roof, I pulled the mass of armor off my face, the metal flowing down my back.
+
+The ceiling wrenched off as I did, pulling the cheap tiles down. In a plume of dust, I situated myself in the other corner of the room, further busting the wall down towards the bathroom. Amara peered around after the dust settled, a fine layer of powder over us both. She drew in that white soot with her hair while saying,
+
+"This...I like the adjustment."
+
+I blinked in disbelief, "Well then...That's good, I suppose. Anyway, how do you interact with the system and whatnot? I need to understand it."
+
+Amara drew the figure of a person, but its guts were getting wrenched out, "I interact with the cipheric flows of Schema. They're evident to me, as they trace outwards from individuals like ripples in a puddle."
+
+I looked above myself, "Is mine normal?"
+
+"It is."
+
+I coughed, powder lifting back into the air. In profound discomfort, I murmured, "Can we...Move out of here?"
+
+"No. I like it here. It's cozy."
+
+I settled in, "Ah man. Ok."
+
+Amara took a breath, "It...This reminds me of my home. Everything your kind crafts is too clean and perfect. This messiness, it puts me at ease. I prefer it to the comfort out there. It's as if people avoid a certain shade of the world, and I feel most alive in that other color. The darker one. The grimier one."
+
+I peered at the wrecked wall, "You know, I kind of understand the feeling. When I was growing up, I slept on the coach my entire childhood until the system collapsed. When I visited someone else's house, I couldn't sleep anywhere besides their couch."
+
+I scoffed, memories flooding in, "Hah, I had two friends, Michael and Kelsey. I slept over sometimes, and they always wanted me to sleep in the guest bedroom. I always told them the sheets were too clean. If felt...It felt like I didn't belong there."
+
+Amara nodded, "You may remove us from the gloom, but we are still shaped by it no matter how far we stray from its source."
+
+Putting me in a thoughtful mood, I gazed at the door opening to the hallway, "You may be right."
+
+A silence hung over us before the light flickered over our heads. Amara's cubbyhole reminded me of a haunted house at this point. She spoke up,
+
+"The cipheric flow isn't the only issue that may be tampered with. You understand that I'll assume?"
+
+I scratched my head, "Yeah, but I'm almost certain it's the answer."
+
+Amara stretched her palm to me, her expressions still guided by her hands, "And why is that?"
+
+I explained the situation with Plazia and my primordial mana. Amara honed in on my words, her intrigue peaking. With her hair bristled, she hummed as I finished my story. She murmured, "That's very strange. The AI has decided you are growing too quickly then?"
+
+I sneered, "Maybe. Either way, he's limiting me. I'm putting a stop to it, and I need your help to stick it to him."
+
+Amara's hair jostled with tiny vibrations, "It acts in self-preservation. You were conscripted by Yawm to enact change onto the AI. Remember that fact. If you can overpower Schema, then you will inevitably change its code."
+
+I scoffed, "It could be a small change."
+
+Amara tilted a palm at me, "Would you be fine with someone enacting small neurosurgery on you? One that altered your personality forever?"
+
+"Ok, probably not. But I could just fix one bug and be done with it. Schema putting training wheels on me doesn't help his situation here."
+
+"In your eyes, that is the case. To it, you may be a looming threat that has finally broached a dark horizon. Perhaps Schema sees your ascent as a sunrise, one that signals the end of its era and the beginning of your own."
+
+I peered down at Amara, "You know, you think differently."
+
+Amara breathed in, "Perhaps. Perhaps not. I did not know you as a human. To me, your meteoric ascent was inevitable from the moment I saw your form...I was terrified, but I've learned you are no illogical beast driven by emotion alone. You control your body and your demons, so I will not be food for you. Not yet."
+
+I blinked, "Is that why you were scared of me when we first met? And still are from the sounds of it."
+
+Amara seethed, "Yes and no." Her tone lightened, "You reminded me of Yawm in many ways. He stole me from one prison and placed me in another. Where I was once a lab experiment, I then became a guinea pig for someone else. Someone other."
+
+She lifted a gauntleted hand, "Now my station is unequaled to any potential I ever hoped for. I deserve none of this, in eldritchian terms." Her voice hungered, "Even if my kind would judge me, let them. I will seize my place off the dirt and grime below where they wallow."
+
+She put a hand on the dirty floor, "But this place where I nest...It's a reminder of my origins, so I may never forget them. I never have. I never will. I'll stay in the grime and dirt where I spawned from. Where all we eldritch spawn from."
+
+I grimaced, "You know, Plazia mentioned going into the other dimension and saving you guys before you're corrupted. That could work in the future."
+
+"But it doesn't save those that still linger here. Do you remember the mianoc outside? There is no method of saving that creature. There's nothing to even purify; its purification results in its death, as it is composed of only filth. I believe we eldritch are the same after having worked with so many since coming here."
+
+I bit my lip before letting out a breath, "Damn...You know, I don't think it's that black and white. You, Hod, and Plazia are examples of the opposite."
+
+"Are we the opposites? You ground that on assumptions. In reality, I have eaten many. Hod even more so. Plazia...That creature consumed species. Trusting it so easily is akin to suicide."
+
+I raised a brow, "But trusting you is different?"
+
+"I am not so clever nor so resourceful as that cretin. He...He is unknowable."
+
+I crossed my arms, "I don't think so."
+
+"And what makes you say that?"
+
+"Plazia's like you. He's fighting some hidden, dark half of himself. Yeah, he's got issues. He's done a lot of harm, I'm sure, but that doesn't mean he can't help people out now."
+
+Amara rested her head against the grimy concrete wall, "We shall disagree then. I'll never trust him."
+
+I waved a hand, "That's fine by me. Anyways, about the system, is there any way for Schema to inhibit my learning? Could it be like the opposite of forming a skill?"
+
+"That...That is perhaps possible, but unlikely. Based on how Schema's operated, he isn't allowed to tamper with sentient personalities. Inhibiting one's learning is, in part, doing so."
+
+The light flickered again before shutting off. I formed a quintessence bulb where the light was, the white glow similar to the fluorescent's shimmer. I peered at it while saying, "Then how is making people learn skills faster not the same?"
+
+Amara hissed, "Schema does nothing of the sort. Schema's skill system operates mainly through the idea of guided learning. Much of one's learning experience is spent experimenting with worthless adaptations. One expends effort learning the useless, then they must toss out the useless once more. Schema eliminates that process, creating precise developments that result in the most efficient gain."
+
+Amara lifted her head off the wall, "This indication is compounded by system augments when one steps closer to perfection. Its idea of perfection. This smooths the process utterly, ensuring a far faster learning speed because of it."
+
+I blinked, "Wow. So it's a carefully crafted facade. In a way, at least."
+
+"Yes. That's not far from the truth."
+
+"Ok, so how would Schema even stop me from manifesting primordial mana in the first place then? It sounds like it wouldn't be allowed."
+
+Amara tapped her teeth together before murmuring, "I don't know. From your description, it's as if it's vanquishing your mana before it fully forms."
+
+I rested my chin on my knees, "So it's like...Anti-mana, or something."
+
+"Or anti-energy."
+
+My eyes widened as I straightened up, "Or an energy source that just destroys it entirely."
+
+Amara scoffed, "Hm. That would work."
+
+I raised a hand, "I know what it is. I think Schema's using entropy mana."
+
+Amara leaned back into the wall, her hair slicing her surroundings. Her voice rose, "That's must be the source. It isn't allowed to dismantle your knowledge or abilities. Instead of that, it may be transmitting entropy in careful doses to quell your abilities. It's a loophole for its programming, but it may be used."
+
+She snarled, "Schema is a clever wolf, I must say. He exhausts his prey's endurance instead of fighting to bite its throat. It may have convinced you that your talent was lacking, given time."
+
+I sighed, "He almost did. The thing is, how are we going to stop entropy? I can't make the stuff anyway. Probably, at least. I need to experience it before I can fight it, assuming it's the thing stopping me."
+
+Amara leaned forward, staring at the dusty floor, "Does Plazia know more about entropy than he let on?"
+
+I wondered aloud, "Huh. I don't think so. Plazia would probably use it all the time if he could. He doesn't pull any punches or hide his trump cards."
+
+Amara tapped her head against the wall, "Then who else would use entropy?"
+
+I tapped the wall with a fist, "You know, based on its description, it sounds like Yawm's abilities or the Overseers' gauntlets. They can make things disappear without a trace sometimes. They say it's antimatter, but antimatter would blow everything up to my knowledge. Well, based on theoretical physics, and ugh, I'm definitely not an expert."
+
+Amara sighed, "They may wield entropy within themselves and guide it via the technological augments...Perhaps you could stretch your relationship with the Overseer to test our hypothesis?"
+
+I shook my head, "The last thing I want to do is screw that guy over. He's done right by me. There should be another way." A moment passed before I remembered the fight Plazia showed me, "Oh, I know an Overseer we could take out without any problems."
+
+Amara mocked, "Ah, so you know of Overseers aside from our own? Did you find it out in the wild or perhaps somewhere in the containment units?"
+
+I shook my head, standing up, "No, this Overseer was Hybridized and strong, but I think we can get its gear no problem. With Plazia's help, we should be able to keep it too by hiding it from Schema."
+
+Amara laughed aloud, more a cackle than a chuckle. She mused, "You would kill a destroyer?"
+
+I smiled down at Amara, "I'd do more than that. I may be able to pull it out of Elysium's clutches."
+
+Amara took a moment before muttering, "You...You want to save it?"
+
+My grin turned wicked,
+
+"And I'll figure out what it knows after I do."

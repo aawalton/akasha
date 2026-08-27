@@ -1,0 +1,389 @@
+---
+id: afd9a904-2b40-50c5-aafa-c65cbb46454d
+page-type-slug: story-chapter-royal-road
+title: "248 An Imperial Overture"
+slug: 0207-248-an-imperial-overture
+partOf: the-new-world
+position: 207
+ownLength: 4495
+unit: words
+ownProgress: 4495
+publishedAt: 2020-02-18
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/458415/248-an-imperial-overture"
+royalRoadId: "458415"
+markedReadAt: "2026-06-29T21:28:04.594Z"
+---
+
+As the cometelias darted around us, they danced among the stars, adding to the moment. I gathered my composure, calming myself down. I turned towards Obolis,
+
+"Thanks for sharing all this with us. It's incredible."
+
+Obolis gestured a hand to me, "Perhaps in our next meeting I may share even better scenery. For now, however, you no doubt are curious as to why I wanted a meeting with you in the first place. You withstand a strained schedule, no doubt, and conceding me your time is a valuable concession. I have no intention of spitting on the favor."
+
+I nodded. Torix paced up beside me, "Indeed we are, though this is a rather extraordinary method of meeting us. Perhaps it's a diplomacy tactic?"
+
+Obolis carried the natural confidence of a ruler. Obolis stepped up to us,
+
+"It is, though, I relish in the same scenery even when doing something as simple as reading. One day, both of you may choose to do so as well."
+
+He turned to Helios, who remained to kneel at his side, "Onto the matter at hand. You remembered to write the contracts I mentioned?"
+
+Helios kept his gaze low as he lifted his hands. His status appeared, showing several documents detailing arrangements between factions. In this case, our factions.
+
+"These are written well. Excellent work as always." Obolis turned towards us, "I've actually been wishing for an arrangement between both our guilds."
+
+Staring around, I murmured, "What could you want from us?"
+
+Obolis scoffed, "You both carry an otherworldly level of humility. Disarming as it is, I need you both to understand the resources you have to offer. Think of this as a gesture of goodwill on my part. Few would inform their dealer of a fortune beneath their feet."
+
+I shrugged, "Unless it benefited them, of course."
+
+Obolis chuckled as the multi-layered obelisk above his palm shimmered for a moment, mana coursing through it. A frosty projection appeared, showing edited footage of our last battle in Fausel. This hologram layered over the more realistic, materialized memory.
+
+In the sub-layered video, cataclysmic detonations echoed throughout a familiar city. I recognized the growing voids and detonations of my singularities. The footage demonstrated the Adair family's fall in absolute clarity. Obolis gestured to it,
+
+"Perhaps the Empire could create a far vaster impact throughout a war. Our resources are vast in that regard." Obolis clasped his hand into a clawed fist,
+
+"However, we could not rival this level of martial might on such a small scale. That is invaluable to my aims in particular." He met my eye,
+
+"I say this in seriousness - this is devastation the likes of which even solar-scale guilds fear."
+
+A chill ran up my spine. I kind of knew we were getting good at fighting, but I didn't understand how good exactly. In a way, knowing this built my confidence but also put even more pressure on me. Having this kind of influence meant any of my mistakes might result in mass havoc.
+
+I didn't want more massacres on my shoulders.
+
+Helios turned to Obolis, the blind ice mage mouthing, "It's remarkable that he's progressed to such an extent since we met. He was an oddity at first."
+
+Obolis turned to Helios, "Caprika informed me of your treatment towards the Harbinger's Legion. We will discuss it in detail later."
+
+I expected Helios to wince. He cowered, his hair standing on end.
+
+Damn.
+
+"Onto more fruitful discussions," Obolis said with a knowing grin. An image of Polydra exploded on one of the projections,
+
+"I've been viewing your battles since the first in Polydra. You've access to several forbidden technologies and techniques. I am curious if you would perhaps share your knowledge with me in that regard."
+
+Obolis, ever curious, pointed at the point of impact for my Orbital Bombardment,
+
+"No matter how many times I survey the broken fragments of footage from your landing in Polydra, I cannot dissect how you created such devastation."
+
+Obolis waved his hands, staring at them for answers, "My mind wanders to nuclear weaponry, yet you're not exiled from the system."
+
+Torix scoffed, "We would never even dwell on such callous tactics."
+
+Obolis pursed his lips, "I expected as much. You both likely know that certain species of eldritch feast on radiation. This gives them a tremendous growth potential after nuclear weaponry has been used. After uncovering that, Schema illegalized them. With that option gone, I wondered if it was a kinetic bomb of sorts."
+
+I pointed at him, "Bingo."
+
+The Emperor's eyes widened at the prospect of learning something new,
+
+"Ah, so my presumption was correct. Allow me to guess how you accomplished the feat."
+
+He covered his mouth with his clawed hand, "Perhaps you took an orbiting chunk of solar debris and pulled it towards a planet's surface?"
+
+I bit my lip for a moment, thinking it over. I mean, technically yeah.
+
+"Uh, yeah, pretty much."
+
+Obolis tapped his chin, "You then created a warp where it would land, redirecting the force?"
+
+Torix laughed to himself, "Essentially, yes."
+
+Obolis narrowed his eyes, "I dismissed such a proposition given more thought, however. Even with unlimited resources, calculating the descent of the celestial body, and within the time frame necessary, was all but impossible."
+
+Obolis shook his head, "And that's assuming your portal creator can get in the required position in time. The frictional heat from the descent of a meteorite can ignite creatures dozens of miles away. The more I dwelled on the topic, the more curious I became."
+
+A look of hunger came over Obolis's face, "How did you two work through the logistics involved?"
+
+I pointed at the city then at me. I raised out a flat palm then smashed my other fist into my other hand. Obolis raised an eyebrow. I shrugged,
+
+"I smashed myself into the ground."
+
+An awkward silence passed through the living memory and the group in it. A look of disbelief crossed over Obolis,
+
+"Wait a moment...you smashed yourself into the ground? That's it?"
+
+"Yup."
+
+Obolis jaw went slack, "And...you lived?"
+
+"Yes."
+
+"You didn't utilize a complex and coordinated series of magical bombardments?"
+
+"No."
+
+"Or perhaps a synchronized portal warping to transport a solar flare?"
+
+"No."
+
+"You just...smashed yourself into the ground?"
+
+"Yes."
+
+Obolis crossed his arms before giving me a slow nod. He shook his head while raising his eyebrows,
+
+"Well...Here I was hoping for some replicable scheme. In many ways, this is even more impressive than trickery, however. You don't need tricks. You simply accomplish your goals with brute force. I admire that, though I prefer different methods. In my long life, I've found that at times, brute force is all but necessary."
+
+Obolis gestured at the contracts, "That's precisely why I wish to create an alliance between us. As you've already surmised, we each carry different talents that are specific to each of us. My information network is vast, and I own decades of experience within Schema's system."
+
+Obolis gestured an open palm to each of us, "On the other end of this spectrum, you both are isolated yet overwhelmingly powerful in a direct confrontation. While I may maneuver myself through different situations using information and resources, there are times where I need a hammer. I'm here asking for your guild to be that hammer."
+
+I raised my eyebrows, "You want to hire us as mercenaries?"
+
+Obolis cupped his hands together, "You saw through my political wording in an instant. Rather blunt, but that's precisely how hammers should be. Heavy. Hard. Unstoppable. I'd be contracting your guild to handle insurrections of my Empire, along with a few specific goals further down the line."
+
+I frowned with my eyebrows raised, "So you'd be like a boss?"
+
+Even with his mask on, I could feel the glare coming from Helios. Obolis peered at me, undeterred. He gestured towards Torix,
+
+"Tell me, are there entities you fear?"
+
+I turned to Torix, who gave the question some thought. I wanted to say there was none, but that'd be a lie. Instead, I let Torix answer,
+
+"Perhaps there are a few enemies in the distance we'd rather not face head-on at this moment, yes."
+
+Obolis nodded, "A wise decision in many respects. If you lack fear, then you'll crash against something you cannot kill before it kills you. Case and point - Lehesion. An Old One. Schema. This concept is precisely why your guild is hiding from prying eyes."
+
+My eyes narrowed, my voice harder than iron"You're going to threaten to expose our guild's location to the Adair family?" A jagged maw tore open across my faceplate, a red miasma leaking from between the teeth,
+
+"That's a dangerous road, friend."
+
+Torix's burning, blue eyes shifted to a blood-red in an instant. Obolis raised his palms,
+
+"Perhaps unwarranted accusations aren't the most amicable means of continuing a discussion?"
+
+I calmed myself down, shaking off the sudden spike in anger. Obolis was right about that. Torix did the same as Obolis gave us the benefit of the doubt,
+
+"I understand your wariness, given your violent situation. To be certain, the answer to that accusation is no. I carry no such intentions, and Schema would eviscerate any guild that did so."
+
+Obolis tilted his head, "However, there are many spies that are attempting to discover your guild's location at this very moment." Obolis turned towards Torix, "You act as the logistician, general, and resource manager, correct?"
+
+Torix lifted his fingers, counting on his fingers. At nine, Torix stopped, "Among other things, yes."
+
+I winced a bit. I had to take some workload off the guy.
+
+Obolis gave Torix a knowing nod, "Surely, you must be struggling under such burdens?"
+
+I turned to Torix, a bad taste lingering in my mouth. I bit my lip, taking a deep breath. Obolis was right about that. Torix managed dozens of positions in our guild, literally. Hell, even when working on the lich circle, he still maintained his duties. I fell behind, overwhelmed by the tasks at hand.
+
+Even if Torix didn't fuck up further down the line, it wasn't fair putting so much work and stress on the guy. After all, you can't be perfect at everything. Obolis spread out his hands,
+
+"Before you is an offer to alleviate much of the tedium in those tasks. We would give you access to one of the galaxy's widest information networks. Security and secrecy would be an issue of the past, allowing you to look towards the future."
+
+I turned to Torix. The lich considered Obolis's proposal for a bit, but Torix seemed unconvinced overall. Obolis grinned,
+
+"Unconvinced? Understandable. There's more I may offer. You'd gain access to resources your guild couldn't even dream of, such as relics lost to time. These artifacts could result in enormous boons for your guild."
+
+I considered Obolis's offer, but after thinking of what I may want, I came up blank. I tilted my head,
+
+"Like what exactly?"
+
+Obolis gestured to Helios. The World Ruler lifted his hand, taking off his gauntlet covered in the cipher. Obolis grabbed it in his hand,
+
+"Given the cipher carved into your own skin, I'm guessing you already know the nature of these runes. You understand the implications of giving you this relic, no doubt?"
+
+I stared at the markings, my entire mindset giving way to greed for a moment. Obolis noticed the subtle shift in my face. As I tore my eyes from the relic, I shook my head in disappointment. It was unlike me to want something I couldn't just make for myself. This right here though, this was an incredible offer.
+
+Within these gauntlets hid the secret for matter conversion. It was the secret Yawm used for his near-infinite mana production, given to him by Etorhma. Wielding this gauntlet, Helios did the same, shoring up any concerns for mana he could possibly have.
+
+The process for that tactic was deceptively simple too. With just a tiny bit of mana, the cipher inscription auto-piloted the splitting of atoms. It then converted the resulting energy into usable mana. Of course, wielding the resulting mana was a volatile, dangerous, and challenging task. I was confident I could control it with a bit of practice.
+
+No, not confident. I was certain.
+
+You'd think I lacked much use for the gauntlet considering my mana generation. Quite the opposite, actually. If the resulting energy from those transcriptions fed into the runic markings of my cipher, I could rapidly augment my stats. As great as my current cipher inscriptions were, I hit a wall in my progress recently.
+
+This would give me another way of breaking through to that next level.
+
+It was an offer I never expected, and Obolis was well aware of how valuable this artifact was. The Emperor turned it in his hand,
+
+"It's a miracle in many ways, isn't it? I discovered this while searching through several fringe worlds outside of Schema owned space. It's interesting to see how the development of the eldritch is viewed in those isolated areas. The entire timelines of the species are different in nature."
+
+Obolis handed the gauntlet back to Helios, who dawned it on his clawed hand again. Obolis turned back to us,
+
+"In many ways, the resulting desperation of those species resulted in ingenuity we cannot match. Their dying civilizations, overrun by monsters, spawned genius. That gauntlet is the result of that genius, and it isn't the only elemental furnace in my possession."
+
+Torix stared between the Emperor and me, "I don't understand how a piece of armor would be so valuable. Perhaps someone may explain?"
+
+Obolis gave me a smile, showing his white teeth, "Perhaps you would elaborate?"
+
+I tapped the cipher markings on my palm, "The gauntlet isn't important. It has a dimensional cipher formula on it that converts matter into energy. It then turns that energy into mana. It's invaluable, like giving us a portable, nuclear reactor for personal use."
+
+Obolis nodded, "You're remarkably well informed for someone so new to the system. You must have been exposed to the cipher early on in your systemization." Obolis eyed me,
+
+"The composition of your body, is it the result of the cipher? I can see no other manner of its creation."
+
+I gave him a small grin, "I'd rather not say."
+
+Obolis gave a curious glance to Torix as well, noting the materials involved. Obolis glanced back at me, "Your frame aside, this deal of ours would compensate you with not only elemental furnaces."
+
+I raised a hand, "So they're called elemental furnaces?"
+
+"Indeed, they are. Now-" Obolis turned a palm to Helios who pulled out two other multi-striped obelisks,
+
+"These are, in a phrase, cutting edge. They use the highest levels of technology currently available to Schema. They use secure databases and operate with absolute security. Given the nature of your foes, this, too, would be invaluable to give you and your lieutenants."
+
+Torix's eyes shifted to green orbs of flame, his envy oozing out. It was my turn to stare at the two of them in confusion,
+
+"So...what's a big deal about these."
+
+Obolis glanced at Torix with expectation. Torix spoke up,
+
+"These allow for far greater allowances with not only management but with overall system functionality. Much of the work I do manually may be managed within that orb's software, from the creation of maps to even advanced simulations."
+
+Obolis stared at the two orbs, "These are personalized models that Helios and I use as well. They carry ingrained AI systems to assist with management details. Much of the work that Torix handles could be optimized, allowing him to focus his efforts elsewhere."
+
+Torix grumbled, "It could even act as a sparring partner to practice my mental magic with. You as well."
+
+Ok, so I might have been a little impressed at this point. I spread out my hands, "Alright, I'll admit it, you've got me interested."
+
+Obolis rotated the obelisks in his hands, speaking with ease, "We could give you these pieces and so much more. Antiques from epoch's past? Done. Secrets that ensure the security of your guild? Within your grasp. Detailed reports on many common threats in the galaxy? Child's play. It is my domain to revel in these intricacies and much more."
+
+Obolis turned to us, "And I am willing to share this all with you. Why? The answer is simple - your guild is a coming calamity. I have seen the omens of the stars, and you, Harbinger, are the cataclysm you omen. Schema was wise in granting you such a title. He saw greatness in you. I see that greatness as well."
+
+He turned to Torix, "And with the wisdom of an ancient lich, you've been given the ability to embody the primal might of force incarnate. I simply wish to have you on my side in the coming days. You are a sword I would never wish to be pointed at my throat. This is a preemptive offer of sorts."
+
+The holographic projection around us shifted into a picture of the Milky Way. Across it, thirteen blips popped up into existence. Hundreds of smaller blips appeared, likely places Obolis visited at one point or another. Obolis gestured to all of them,
+
+"There is so much more I wish to explore. The limits of those exploits are found in the dangers along the outskirts of Schema's system. Your talents are necessary to uncover the clandestine. They are needed to become pathfinders of the unfound."
+
+I felt myself getting wrapped up in his words. Obolis was a damn good speaker, and it made me nervous as hell that we were getting into something over our heads. Torix turned to me,
+
+"I see no reason to refuse his offer."
+
+I related to Torix's giddy enthusiasm. I wanted to accept the offer without thinking it over too. That's actually what set off alarm bells in my head. It was like being conned by a conman. A conman's entire goal was getting you in this state of mind, and the Emperor did it without breaking a sweat.
+
+In a way, that was more terrifying than a deadly battle.
+
+Getting some severe Yawm vibes, I kept myself under my own control. I leaned towards Torix but kept staring at Obolis,
+
+"There's plenty of reasons. We're not making this decision for us. We're making it for our entire guild. Hell, entire species are at stake. Don't forget we're still fighting the Adair Family. This is going to be hard to fit in on the side of all that."
+
+Torix leaned back, stunned by what I said. He shook his head, clenching one of his fists, "Bah. I lost myself. There is still much I must learn."
+
+I set a hand on the lich's shoulder plates, "Hey, that's why we're a team. We help each other out."
+
+I turned to Obolis, " I'm sorry, but I can't give you an answer right now. I need to talk to my guild first."
+
+Obolis gave us each a warm grin, spreading out his arms, "The Empire is a faction gifted with patience and wealth. We are in no rush to finalize negotiations. This discussion was in no way meant as a threat. It was simply an overture between our two guilds. Nothing more, nothing less."
+
+Obolis lowered his hands, and Helios pocketed the multi-layered obelisks into his dimensional storage. Obolis reached up to his own fancy-schmancy obelisk and did the same. The materialized memory faded, returning us to the quarantined cave.
+
+Despite the sudden shift in scenery, I found the dry, musty air refreshing. It helped ground me since this entire experience was a lot to take in. No amount of preparation would've prepared us for it either. It was like learning to swim. You couldn't know if you could swim until your feet were off the ground.
+
+Understanding our feelings, the Emperor gestured towards Helios,
+
+"It's good you're considering the proposal seriously. Hire a few lawyers and have them parse over the contracts. They will find the terms stated simply. We wish for a few rebellions to be put down and for your protection during several of my planned explorations."
+
+Obolis shrugged,
+
+"We'll offer certain artifacts and technology in exchange for the service. The rewards shall be staggered over each clash you assist us with. During artifact hunts, we will split portions of the found relics. I will have first pick considering the effort involved with finding and planning the excursions."
+
+One of the albony Speakers walked up, his robe bejeweled with mana stones. Obolis didn't notice, and he continued speaking until the orange masked Speaker tapped his shoulder.
+
+"Think things over. There's much to consider, and-" Obolis turned towards the Speaker. The Emperor's left eyelid twitched,
+
+"Ah...Odius."
+
+The orange masked albony bowed and cupped his hands, "Ahem, sire, there are a few scientists who wish for your insights regarding the Plaga Ustus."
+
+The Emperor frowned, "Is it pressing?"
+
+Odius guarded himself a bit like he was visibly shrinking, "It involves how the virus spreads. They believe it may be weaponized and may assist with preventing future outbreaks of viral eldritch."
+
+Obolis sighed, "It's pressing then." The Emperor peered back up to us, "It's a shame that our meeting must be cut short like this, but another situation calls for my direct attention."
+
+Torix opened his status, viewing dozens and dozens of messages, "Ah, it would seem the same for us as well."
+
+I blinked, being the only one without some diligent, planned schedule ahead of me. I scratched the side of my head, "Oh yeah, definitely."
+
+Obolis clapped his hands,
+
+"Then we'll reserve a meeting time for your decision. Perhaps the day after Giess is glassed? That may allow for an easier time making your commitments, I assume."
+
+I crossed my arms, "Why?"
+
+Obolis scoffed, "That is the day this small insurrection will die. Each of you will be freed to other tasks at that time."
+
+I pursed my lips, "So why would you think that?"
+
+Obolis glanced at Helios before both of them laughed. It felt just like I wasn't a part of some inside joke. Obolis turned back to us,
+
+"You've never seen a Spacial Fortress, I assume? If you accept my contact request, I'll send you a projection of one. View it when you have time. It will ease your concerns regarding this slight insurrection."
+
+I raised my eyebrows, "It beats Lehesion?"
+
+Obolis stared with absolute confidence, "Outside of another cosmic event on the scale of the big bang, there are only three existences that can destroy a spatial fortress: An Old One, a quasar, and a point-blank supernova. Lehesion is mighty, but Spacial Fortresses are unbeatable."
+
+Obolis spoke while looking into the distance, "There has never been a recorded defeat of a spatial fortress. Sentinels? Of course, you've seen them fall. Overseers? At times, yes, though it is rare. A spatial fortress? They touch the might of gods in ancient religions. They are sights only seen when Schema's enemies have evoked his highest wrath."
+
+Obolis spread out his arms, "I invite you to watch from a distant moon deeper within Giess's solar system. Perhaps seeing it in person will allow you to understand what it is to defy Schema."
+
+Torix turned between us, "They would seem rather rare. I've never even heard the slightest murmur of one before the Overseer mentioned them."
+
+Obolis appeared taken aback,
+
+"I've seen only one, and it was...humbling."
+
+I put my hands on my hips, "Well, shit, that's kind of comforting. It makes me feel better about being the spearhead against this rebellion."
+
+Obolis leaned towards us, "Have you heard rumors of what commoners are calling it?"
+
+Huh, commoners. Never thought I would actually hear that word spoken seriously. I shook off a bit of discomfort hearing the term, leaning towards Obolis,
+
+"Naw."
+
+"They're calling it the Blighted Schism. Poetic, isn't it?"
+
+"I...I suppose."
+
+"Those that are Hybridized are referred to as blighted. Considering the entire rebellion is due to a portion of worlds splitting off, schism is a fitting word as well."
+
+Not knowing exactly what the word meant, I crossed my arms, "Is it? I mean, I sort of know what schism means, but not really."
+
+Obolis raised his eyebrows for a second,
+
+"It's simple. Whenever a group fragments into several opposing factions, it is referred to as a schism. It is a rather dramatic way of wording this rebellion, however. The wording implies tremendous importance for this little event."
+
+Obolis wondered mused, "We shall discover if schism is fitting once the glassing has occurred. I would wager that they shall crumble, as all other rebellions have in the past."
+
+Sensing a bit of bias, I let the issue go. Torix must have figured the same thing, so he simply listened. Before Obolis continued, Odius tapped his shoulder again,
+
+"Ahem, sire?"
+
+Obolis raised a palm, "Thank you for the reminder." Obolis turned to each of us, "It was good meeting the both of you. I hope to hear good news when we meet again. Regardless of the outcome, I hope we'll stay in touch."
+
+I raised a fist, "For sure. This was fun."
+
+Torix steepled his fingers, "It was fascinating in its own way."
+
+Helios stepped beside us, creating a portal. Obolis turned with a deep sigh,
+
+"These scientists better pray to Schema that this issue is half as interesting as my previous company."
+
+Odius began settling the Emperor down, each of them falling into habits for their daily matters. We turned towards Helios, who gestured a hand to the portal,
+
+"Are you ready to return?"
+
+Torix and I stared at each other. I stepped up the portal,
+
+"Yeah, let's head out."
+
+We walked through the portal, reaching back towards Mt. Verner's second floor. Waiting for us, Hod, Amara, Althea, Kessiah, and even Krog discussed with one another. It was a splintered kind of conversation, each party discussing different aspects of the guild.
+
+As the three of us stepped up, I found several members of our guild staring. Each of us caught the eye differently, so I didn't blame them. We needed to get work done even when visitors arrived, however. With that in mind, I clapped my hands,
+
+"Come on, everybody. Back to work."
+
+The workers got back to, well, work. Without needing as many prying eyes, our head guildspeople turned towards me in expectation. I glanced at Helios who raised his hand,
+
+"You all are busy, as am I. As the Emperor mentioned, we'll stay in touch."
+
+I gave him a wave, "See ya."
+
+After Helios warped out, I turned to everybody, "Alright, the Emperor says our guild is good at fighting, so he wants us to fight for him. We'll be quelling rebellions on his worlds and helping him explore the galaxy. Of course, that's if we say yes. I wanted your opinions first."
+
+I turned my head to everyone,
+
+"So, what do you guys think?"

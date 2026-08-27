@@ -1,0 +1,313 @@
+---
+id: 85d4aec6-13c2-5c25-9496-66b6eeabc310
+page-type-slug: story-chapter-royal-road
+title: "359 Amassing Armadas"
+slug: 0318-359-amassing-armadas
+partOf: the-new-world
+position: 318
+ownLength: 4065
+unit: words
+ownProgress: 4065
+publishedAt: 2023-02-23
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/1121199/359-amassing-armadas"
+royalRoadId: "1121199"
+markedReadAt: "2026-06-29T21:32:03.714Z"
+---
+
+"It's time we had a long, hard talk about what the hell's going on here."
+
+My golems arrive in mass behind me, and the twitching primevals skulked outside. The rulers huddled somewhat, hiding behind the guards who were hopelessly outgunned. I let a silence pass over them before announcing,
+
+"You've all been poisoned by this." I opened my pocket dimension and pulled some rainbow bone liquid out. I swirled the beautiful fluid in a gravity well while mouthing,
+
+"And I will figure out who did it before anyone leaves this city."
+
+Chapter Begin
+
+One of the rulers walked up, a guardsman covered in scars,
+
+"So you yank us from our established base before forcing an interrogation on us?"
+
+I raised my brow, "Valgus was coming, so you were all going to die. In fact, you'd likely die in seconds if you even stepped outside here. Your base's location acted as the safest part of the planet, and around these cities are the deadliest. None of you experienced a primeval or the elements here. They'd leave you all with a few casualties, to say the least of it.
+
+A meeker diplomat paced up, "We're on the other side of the world?"
+
+I nodded, "Yes. This is the ossuary. The bones around you are the piled-up remnants of the large eldritch you've seen worldwide. The layered algae created a competitive ecosystem that led to the evolution of primevals. Think of them like the end state of the eldritch on this planet."
+
+I shrugged, "Unfortunately, there are quite a few tools under the surface of this world. One of those 'tools' is a liquid that kills the minds of those that drink it."
+
+The diplomat blinked, "Kills the mind?"
+
+I peered down at the alien, "Yes. You lose your soul, so to speak."
+
+The guardsmen winced, "Sounds like a bad time."
+
+I frowned, "Yeah, pretty much. Someone fed it to you all, which explains why everyone's about as sharp as the flat side of a hammer."
+
+Obolis blinked, "Ah...I've been eating my own supplies rather than the group's rations."
+
+I raised a brow, "What for?"
+
+Obolis raised his brow, "I'm used to poisoning attempts, and it's a habit I picked up long ago. Also, are the mental impairments you spoke of permanent?"
+
+I weighed my hand back and forth, "I don't know, but probably not. I've tried some of the fluid, and I'm no worse for wear."
+
+A wry grin grew over Obolis's lips, "Are you certain of that? You have seemed rather off as of late. I'd have yourself checked if I were you."
+
+I rolled my eyes, but I appreciated the joke. We could use a bit of humor, given the chaotic circumstances. I turned to everyone, "We'll be getting you all into top shape soon, but we have to weed out whoever's behind all this."
+
+I turned to Shalahora, "And uh, yeah, I was hoping you could help me with all that."
+
+Shalahora tilted his head, "In return for what?"
+
+I pursed my lips, "I have no clue what I could offer. Golems, cores, maybe something else?"
+
+Shalahora peered off. He lowered his gaze before seething, "Kill the Old One I spoke of."
+
+Obolis burst into laughter before scoffing, "Ah, perhaps you'd wish for him to change the laws of our universe next? Perhaps reverse time?"
+
+I tilted my head at Shalahora, "Let's talk about this in private."
+
+Obolis raised a brow, "Fair enough, though perhaps you shouldn't negotiate with someone who wishes for the inconceivable."
+
+I walked to a room, "I'll keep that in mind."
+
+Shalahora and I found an empty room nearby, and I struck up a telepathic conversation, "I'm guessing you'd like that commitment to be made in the cipher?"
+
+Shalahora narrowed his eyes, "And you see my request as a joke as well?"
+
+I shook my head, "I think you're making a bet, but it doesn't matter either way. I'm aiming to destroy all the Old Ones, so I'll just put M on the top of my list."
+
+I tapped my side, "But I will need time to handle that kind of request for obvious reasons. I'll also need more than just this request handled."
+
+Shalahora jeered, "If you can kill that insidious, viral entity, then I will do anything you could request of me." Shalahora tilted his head, "Though your chances of slaying it are slim, as you mentioned while stating this would be a bet."
+
+I turned a hand to him, "Yeah, what timeframe are you giving me to handle this? I need more than a decade or two, that's for sure."
+
+"Ten thousand years. Perhaps more."
+
+It was difficult to even imagine that much time passing, let alone having some ticking time bomb beeping at the end of it. I grabbed my chin, "What will I put at stake should I fail?"
+
+"Your free will. If that measure of time should pass without M's passing, you will replace me and my role."
+
+I took a step back, a wave of dread racing over me. My eyes thinned to slits, "So this is why you've been allying with me this entire time, then?"
+
+Shalahora's eyes closed, only a shadow remaining. Shalahora murmured, "I knew I couldn't get you to willingly agree to something so foolish without first understanding you. This is why I've decided to assist you to this extent; only by knowing your needs could I ever offer you something worthy of this trade."
+
+I blinked, "And when did you figure out I could be your replacement?"
+
+"The moment we were taken to the lottery. You're an immortal and carry all the necessary preconditions to become an avatar in my place. I couldn't have asked for a more optimal candidate."
+
+I raised my brow, "Wait a minute...You just don't want to be an avatar anymore? Is that the root of this?"
+
+Shalahora leaned towards a wall, "It is part of it...Before we continue, what do you know or think of avatars?"
+
+I scratched my head, "Well, aside from offers to become one, I know that they enact the will of the Old Ones in exchange for power."
+
+Shalahora pressed his fingers together before swiping his hand across himself like a blade, "You should cease thoughts of power when contemplating the Old Ones. Power without direction is pandemonium. It's destruction. It's carnage. If anything, the Old Ones offer only a sacrifice; give them your ego, and they will give you the ability to influence. They then wield your body and soul like a puppet."
+
+Shalahora oozed his words with disgust, "The strings will seem like circumstance and luck, but they are not. It is the musing of that which we don't understand."
+
+I looked up, "Ah, so it's like exchanging your brain for muscle. You're stronger, but you lose any capacity to use your strength for what you want."
+
+Shalahora leaned back, "That would simply kill you."
+
+I rolled my hand in a circle, "You get my point, though."
+
+Shalahora raised a hand, "I'll assume you understand the nuance of what I've said then. That's what avatars are - degenerated husks filled with the intention of their makers. Valgus holds one within himself, which is why he acts as he does. It's poisoned him from the inside out, yet within the shell likely lurks something far worse than Uuriyah's current form."
+
+I crossed my arms, "Well...That's comforting. I suspected as much, though."
+
+Shalahora waved into the room's shadows, speaking from all directions, "This reality isn't meant to comfort; it is a dive into a cold, dark sea that peers through you. That's what an Old One is and does. Never trust one. Never confide in one in either."
+
+I grimaced, "Or talk with someone who's been tainted by one?"
+
+"Yes...That would be the most enviable position to stay in, but you're not in such an enviable place." His voice heightened, "Are you?"
+
+I considered my prospects, and Shalahora wasn't wrong. At the moment, many people knew about my cities, what was happening here, and the intricacies of Leviathan-7. Even if I eliminated Elysium's agents, they'd simply interrogate one of the surviving rulers to glean the information. Elysium could leak that information further, and other factions I didn't know would begin hunting me.
+
+I stared at a wall facing where the rulers waited for us outside. I could kill them all, but that wasn't how I wanted to handle this. I'd much rather return from here with lots of allies so that I could rapidly expand my empire and get Earth on the right track. Allies, trade, and technology were part of the answers to Earth's current predicament, and when I left here, I could fix all of that and then some.
+
+But these people knew about my cities, so in time, Elysium would send every available resource at their disposal to reach Leviathan-7. Considering their methods, I didn't want to be their primary target, yet I would be. It was guaranteed, but Shalahora was a convenient solution that gave me a way out.
+
+Well, probably.
+
+I pursed my lips, "And what exactly would you do about my current situation?"
+
+Shalahora oozed out of the wall's shadows, "I can splinter the memories of those present here. I can manipulate them entirely, leaving behind what you'd wish to keep. Elysium would be curious about what happened here, but they'd have no means of uncovering what happened."
+
+I blinked, "You want me to promise to kill some otherworldly being in exchange for some memory manipulation? Seriously?"
+
+Shalahora hissed, "Of course not. That would merely be the beginning of what I offer, an introductory gesture. I will be under M's thumb after this, but I can accomplish my duties and use my spare time to assist you however you need it. You know of my talents, and while my combat prowess isn't peerless, my psionic abilities are quite different."
+
+He wasn't wrong about that part. Shalahora raised his giant palms, "I would keep your home planet safe and contain any spreading knowledge regarding it. Rumors would be under your command. Interrogations would be absolute and timely. I could even create a dystopia if need be, one where your citizens live one life yet remember another. Absolute production with absolute elation."
+
+I raised a palm, "Woah now, I don't want to go that far." I grabbed my chin, "But it's a tempting offer for the other stuff. You'd be like a general of mine then?"
+
+Shalahora's eyes widened, "I imagined something more akin to indentured servitude or slavery, but if you gave me such a complimentary title, I would take it."
+
+I leaned back, "Hmmm, isn't your fate tied to your species? Something like that, anyway?"
+
+Shalahora peered off, "In a sense, yes."
+
+I raised a hand, "So by saving you, I'd be saving them too. Shouldn't they be included in this arrangement?"
+
+Shalahora's eyes narrowed to slits, "You wish to enslave my entire race?"
+
+I glared at him before standing tall with pride,
+
+"Enslaved? No. You have an understanding of my base memories and my true character anyways. You know exactly how I treat species that end up under my wing. Look at the gialgathans or the Eltari if you're not convinced...Hell, even the Vagni are far better off, and the skeptiles will be as well."
+
+I leaned towards Shalahora, a few inches from his face, "I do right by anyone under me. I've made sure of that."
+
+A tense silence passed before Shalahora sighed. He murmured, "You're not incorrect."
+
+I let the quiet sink in before I leaned back, "Alright. As long as we're on the same page-" I peered up, "Speaking of which, I do have a lot of races under my wing now. Anyways, I give them all a fair shake."
+
+Shalahora murmured, "To bet with my life is one thing, but to bet with my species is another. Surely you can understand that?"
+
+I tilted my head at him, "What? Come on now. This is ten thousand years in the future, and besides that, I'm doing the same thing. I'm Earth's best chance at making it out of the slave cycle Schema made commonplace. Er, probably at least."
+
+I peered off, "I could drag Elysium to earth and have us all turned into drones. Hm, I'd rather not think about that, honestly."
+
+Shalahora oozed back into existence, "It's true that our threads of fate affect more than just us. They affect anyone who our threads touch. We happen to be in positions of power, allowing us to weave the fates of many. It is our blessing."
+
+I frowned, "Or curse. Depends on your perspective, really."
+
+Shalahora sighed before speaking like a taught wire, "Hah...Then we may include my kind in this arrangement."
+
+I smiled, "Awesome."
+
+Shalahora lifted his shadowy arms, "Do you even agree to it now?"
+
+I tapped my side, thrumming my fingers like a wave, "It's tempting, that's for sure. That being said, we'll have to nail down some specifics."
+
+Shalahora expanded, "Such as?"
+
+I raised my brow, "Well, what exactly does being an avatar entail?"
+
+"It is simplicity incarnate. I enact the will of my patron, M, as you call it. It granted me many abilities over time, which revolve around my responsibilities. I happen to seed chaos, lies, and turmoil across the cosmos. By now, that's all I can think of myself, and I tire of my duties."
+
+Shalahora spoke with a quiet fury, "In fact, I've exhausted my will to continue living, though I cannot choose death for many reasons, least of all how difficult I am to kill."
+
+I pressed my temple with two fingertips, "So M has given you abilities that would let you do what they want you to do, right?"
+
+"Yes. We should also abstain from using that alias anymore as well. It carries intent, and that entity will soon uncover the hidden meaning behind 'M'. We know which Old One we speak of at this moment regardless."
+
+I nodded, "Ah, understood. Well, how much time would you have to help me even if you gave yourself over?"
+
+Shalahora peered up, doing mental calculations, "Hm...I would be able to assist you around half of every second that passed on average. At times I would be gone for several months. I would then return for several months after that. I could have as much as 60% of my time as free if I am militant."
+
+I weighed my hands back and forth, "Ok, so partial use. That's making that time limit seem pretty meh."
+
+Shalahora glared at me, "How so?"
+
+"It's concrete, for one thing, and I also have no idea how possible this really is. So, I think we make it more flexible. That way, it helps both of us."
+
+Shalahora's words dripped skepticism, "Helping both of us? How so?"
+
+"Well, we can set up the cipheric contract so that my time scale revolves around making this happen. If I ever stop working towards this Old One's demise, then our positions could swap right then and there. That could mean you'd be free in a year if I'm slacking off."
+
+Shalahora peered off, "Hm, that would save me ten thousand years of servitude should it happen. How would this benefit you?"
+
+I nodded, "So in exchange, we can extend the contract timeline to, like, 100,000 years."
+
+Shalahora scoffed, "And that's an attractive proposition to me?"
+
+I raised a finger, emulating Torix a bit, "But of course. You're making this deal with me for two reasons - firstly, I'm able to become an avatar. Secondly and most importantly, you also think I have a chance at stopping an Old One."
+
+I turned my raised hand to him, "Therefore, this ensures my goodwill in the contract while dramatically enhancing my chances of success. What if the goal is accomplished in 12,000 years rather than 10,000? Wouldn't you prefer to wait that time to actually accomplish your goal of this Old One's demise?"
+
+Shalahora blinked, "I...I suppose."
+
+I interlocked my hands behind myself, "Just as well, compared to the infinity of being that Old One's servant, what's 90,000 years anyways? It will be a drop, but that drop would be an ocean to me."
+
+Shalahora peered through me, "You sound like someone else."
+
+I smiled, "It's a style of argumentation from an intelligent and wise person I know."
+
+Shalahora dragged his hands down his face, "I'd never make a business deal with whoever they may be."
+
+Missing Torix, my smile tightened, "Let's just say you're better off with a partnership when they're involved."
+
+It would be nice to see everyone once this debacle was over. Shalahora raised a hand, "I'd be willing to double the allotted time limit considering what you've offered in exchange. However, adding ten times the additional time frame is greedy."
+
+"So is asking me to become an Old One's avatar. It's like willingly injecting a virus, one where I'd steadily die over time. I'd cease being my own and become what they wanted of me. Considering every avatar has a long list of complaints, I'd rather not get involved. If it does happen, it will be forever too. That makes 100,000 years mean nothing by comparison."
+
+Shalahora sighed, "I'll grant you 30,000 years. That's my final offer."
+
+I considered as I spoke, "And that would include the species reliant on you right now, correct?"
+
+Shalahora simmered, "If it must be so."
+
+I smiled while reaching out a hand, "Then let's agree on that. I'll draft up the contract and have Obolis look at it."
+
+Shalahora grabbed my hand, giving me a firm handshake in return. As we walked out, Shalahora murmured, "Negotiations aside, I'll wish you good luck with this endeavor you're undertaking."
+
+Remembering my agreements with Plazia and Yawm, I scoffed, "I've already made some pretty big promises. At this point, I need to start taking risks so I can even have a chance to complete any of them, let alone all of them. Your stealth, reconnaissance, and psionic might will be a large part of my future goals. So is your species."
+
+Shalahora murmured, "Do you even know who they might be?"
+
+I leaned back, "Isn't it obvious? It's the shades."
+
+Shalahora winced, his smooth, shadowy form wavering, "Ah...You've uncovered a bit of what occurred to us then."
+
+I nodded, "And we'll see if we can't undo it eventually, though I'll need you all as you are right now for a while." I raised a finger, "Not infinity though, so it's an improvement, I'd say."
+
+Shalahora oozed his words, "And I hope you succeed, else you shall take my place as a destroyer of minds and truths."
+
+Dread swelled in my chest at that thought, but I shrugged it off,
+
+"We'll see what happens."
+
+Stepping back with the others, the rulers had already discussed everything while Shalahora and I formulated our agreement. I was glad I didn't have to talk them through everything, and Obolis saved me some more time by stepping up as their representative. I pointed a thumb at Shalahora, "He's in. Did you guys have anything you'd like to say before we root out any spies?"
+
+Obolis raised his hands, "Yes, we discussed much. They're all well aware of our circumstances, from Elysium's plotting to our fates should this fail."
+
+I glanced at the other rulers, their expressions grim. It was a refreshing change of pace, so I hoped they'd agree to what I was about to ask.
+
+"Alright, cool. We need them to give us access to their memories along with letting Shalahora ensure their not spies."
+
+Obolis blinked, "Would...Would that include even me?"
+
+I spread my arms, "What? Of course. Hell, it could include me."
+
+The rulers glanced at each other for a while, their moods changing instantly. I dragged my hands down my face before stepping over to the edge of my city. Someone needed to drive home the extent of our problems, and it looked like that responsibility fell on me.
+
+I stomped a foot, lifting a pillar of marble from under me. Standing over everyone, I raised a hand for everyone's attention. They quieted, and I said, "You know what's out there now. At least some of it that is. Elysium's infiltrated this lottery and maybe the others that are occurring at this moment. That's why everything has fallen to pieces since this trainwreck started. They've ensured you all had no chance to die or survive here."
+
+Murmuring broke out in the crowd Before I raised a fist. Quiet returned, and I boomed,
+
+"Those primevals out there are strong enough to kill everyone here. Our enemies don't have tens of them or hundreds. They command thousands of them. They'll be turning this planet into a factory for their use, and that is merely the beginning. The war with Elysium will spread outwards far wider than ever before, and you all will suffer the consequences of your detached outlook on it."
+
+I tilted my head, "But we have a chance. Shalahora, Obolis, and I will do everything possible to eliminate Elysium's presence. Once that's taken care of, we must keep all our collected resources. Doing so ensures Your empires will remain your own, and we may actually get out of this situation unscathed."
+
+I raised one finger, "That's reliant on your deference while in my cities. We'll be relying on extreme measures given the situation, though none of you will need to give your lives. In fact, this is likely your only chance at survival on this hell-forsaken planet. This is it. One last roll of the dice."
+
+An aura of dismay settled over the survivors, who considered their options. Obolis stepped forward, his arms interlocked behind himself,
+
+"I'm more than willing to cooperate. Whatever it is that needs doing, I shall strive to see it done."
+
+I turned to Shalahora, and the shade nodded,
+
+"As long as the contract is signed, I am willing."
+
+I raised a brow to the other rulers present, "And you all?"
+
+Alctua stepped up, her icy scales misting cold, "We'll do what we can to not be a burden here." She turned to the other rulers, "Unlike some other people here."
+
+Teraz followed her, the fiery imp's footsteps leaving singe marks in his wake, "We don't have a choice, do we? It's this or death. Or something like it, at least."
+
+The other rulers whispered, many unconvinced by my words. I waved a converted primeval into the city, and it ushered in a temperature change. The icy beast carried its primal might, void ice forming at its footsteps. It peered with six hexagonally distributed eyes over its flattened face, the alien creature looming over the rulers.
+
+I pulled the ascendant psyche out of it while opening my dimensional storage. I left a wisp of consciousness within the monster, enough for it to function at a base level. From my pocket dimension, a flood of rainbow bone splashed over the monster. It swelled with energy, void ice pillaring up like basalt formations nearby. Its roar alone rippled the blue shield before the primeval erupted into an iridescent death bloom. The temperature shift ceased, and its might and will decayed in an instant.
+
+I walked up before flicking one of the spines. It shattered upward, spiraling in the air before I caught it in my hand. I tapped the needle on the monster, "Anyone curious? It's still alive if you want to check. This is what Elysium is doing to all of you. Everyone that's missing has had this done to them."
+
+I crossed my arms, "But that's not quite right." I coalesced origin mana in my palm, generating several panels of glass over the monster. I pointed at it, "There'd be a cipheric seal here to really keep you 'safe.' Me, personally? I'd rather be in more danger, but hey, it's your choice."
+
+I crossed my arms, "I know what I'd do, though."
+
+Reaching out a hand, I smashed the display in a gravity well before pulling three blue cores out of the mess. After heating the pulp into a moldable mass, I pulled it out of my city. A construction golem stepped over and cleaned the singe marks by scraping the stone and making new rock over the torn surface. The rulers gawked before I gave them a tight smile,
+
+"So, who's with me?"

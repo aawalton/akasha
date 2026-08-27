@@ -1,0 +1,349 @@
+---
+id: 4d5fef16-4da8-5f72-8525-3c325bd9c76c
+page-type-slug: story-chapter-royal-road
+title: "The Path of Ascension Chapter 131"
+slug: 0021-the-path-of-ascension-chapter-131
+partOf: the-path-of-ascension
+position: 21
+ownLength: 5832
+unit: words
+ownProgress: 5832
+publishedAt: 2022-05-20
+link: "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/910789/the-path-of-ascension-chapter-131"
+royalRoadId: "910789"
+markedReadAt: "2026-06-29T19:18:09.581Z"
+---
+
+Chapter 131
+
+Matt's next few days were a combination of hectic work and leisure time.
+
+The morning after their arrival, the first thing they did was register for their slots in the tournament with their real identities.
+
+It was an easy process that consisted of a simple examination and demonstration of their skills. At least, the ones they were willing to show.
+
+An hour later, they were finished and able to return to their room, only for Mara and Leon to teleport them to one of the nine planets that were linked to East Flower. From there, they would then hop on a quick teleport back using their false identities.
+
+With their first layer of masks on, they were able to change into their false personas. But with the second, they could create true anonymity.
+
+Matt’s mask was a pitch-black, hard shell covering that seemed to absorb all the light that hit it. All except for a silver, stylized feather pen giving form to his persona's name of Quill. The feather took up the entire left side of his face in a mostly vertical curve that somewhat traced the shape of his face.
+
+Liz had a pale mask that was always flickering with a flame where her hair would have been, giving her a radiant back glow which cast her face in shadows. It gave her an intimidating appearance that she could thankfully turn off if she needed to. Having a glowing light on your head made for an impressive sight, but also told every enemy where to aim.
+
+He quite liked it for its aesthetic purpose, but its secondary function was far more useful. When Luna had delivered the mask, she had explained that it had a false center of power that would let their newly advanced Tier 10 cultivation seem as if it was at the peak of said Tier.
+
+It wouldn't pass a close inspection by anyone over Tier 25, but that was why she would be personally keeping her spiritual sense concentrated on them when they were wearing their masks.
+
+Someone would have to be vastly stronger than her to pass both layers of protection and see their real cultivation. Although she wouldn't tell them the exact number, her cultivation was somewhere around Tier 45. It wasn’t likely that a spy would be able to see through their identities.
+
+Matt had been surprised that she expected spies watching the tournament. Not that he didn’t expect there to be any at all. He was surprised that they would be willing to show themselves somewhere that the highest echelons of the Empire were residing. That seemed incredibly risky, and for little gain.
+
+His manager had explained that the place would be crawling with every spy the other Great Powers could get in. When she added that some of the lower ranks of the nobility had been known to accept bribes for information, he was glad for the multilayered defense.
+
+Unlike their first time registering for the tournament, their cover identities were put under far more scrutiny.
+
+With the masks on, they weren't asked or able to provide an easy information packet of their abilities, which meant they needed a far more intensive screening.
+
+They were quickly brought into a private meeting room, where an unassuming man sat them down and told them that someone would be there to interview them shortly.
+
+Matt had to resist smirking under his mask as Mara and Leon invisibly mimed playing with the man’s suit.
+
+The duo had such a crazy control of their powers that they were perfectly visible to Matt and Liz, but seemingly intangible to everyone else around them as they tagged along.
+
+It only took half an hour before a woman in a smart suit came in and set a pad down in front of each of them.
+
+“Please fill out as much information as you feel comfortable doing so.” Her statement was met with raspberries from the invisible Mara and Leon.
+
+The forms were easy enough to fill out, and less than five minutes later, Matt was done. As he waited for the woman to finish whatever she was doing, he perused the first events that would be hosted during the Tier 10 tournament.
+
+While the solo fights and team fights would only start at the beginning of the third month, the first three weren’t empty by any metric. Everything from speed-delving specific rifts, to finding and completing trap and puzzle rifts was available, but Matt was more interested in the other challenges.
+
+There purportedly was a rift containing three hidden bosses that were hard to find and harder to kill. Rewards were given based on how fast the delving team could come back with the respective remains, and how many of the bosses they had killed. The point structure made it a balancing act, where teams needed to manage their time spent finding and killing said monsters. It could pay off to simply kill one quickly and leave, rather than flounder through the rift and waste time.
+
+The next entry that piqued his interest was the endless rifts. They were a subset of wave rifts that had no limit on the number of combat waves. They were incredibly rare, but they gave no essence during the fights, which prevented skills like [Lesser Sacrifice] from helping delvers endure countless waves. The essence given was limited to the same amount as a standard rifts delve, which made the rifts unpopular for the general public.
+
+It wasn’t just his interest as an aperologist that made him want to look at the rift. The rewards were doled out each month, and increased as the tournament went on. While the rewards during the first few months were decent, by the end of the tournament, they were beneficial to the extreme.
+
+There was everything from special weapons and armors created by Tier 35’s, to greater rewards like true, low Tier spatial rings for the top five finishers. He even saw a portable house listed for first place after the first six months.
+
+Matt wanted that house.
+
+He was tired of mooching off of others when they stopped somewhere, or having to rent a new apartment. If they had their own place, they could have home wherever they went. Including when they delved rifts.
+
+Before he was able to see the rest of the challenges and rewards, they were escorted to a training room with two instructors waiting for them.
+
+The still unnamed woman gestured and said, “These are two Tier 25 testers we have. We need to ensure that you have a minimum level of ability in your chosen skills.”
+
+She looked at the pad that Matt had filled out and said, “Quill, you indicated that you are a talisman user. We will need you to create a series of talismans in front of us, so we can ensure that you’re making your own consumables. Same with you and your potions Torch.”
+
+Matt nodded as one of the men separated and asked, “Who's the mage?”
+
+Matt looked at Liz, and she offered, “Quill is a pure mage, and I'm a heavy melee hybrid, but I still sling fire skills around.”
+
+That same man gestured to Matt and said, “I'll start with you then.”
+
+As they moved to the second half of the room, a barrier of light separated the room into halves, and the man said, “Ok, please attack me as you would in a duel. Feel free to go as hard as you wish. I will be reactive for the second half. I will warn you before I start my offensive. We need to see where you will be placed for the seeded slots in the solo duels. If you want a good seed, show more of your skills. If you want to hide some of them, feel free; I’ll let you know if you don't hit the minimum threshold for competing here.”
+
+Withdrawing his staff from a second copy of his weapon storing spatial ring, Matt pointed his staff at the man and cast [Ice Spear].
+
+The staff was one of his creations, and it took full advantage of his massive regeneration with a series of inscribed spells to add to his skill set. There were even a few tricks that he had added with Erwin's expertise, but he had no intention to show those skills off here.
+
+This was just to test their competency; showing off trump cards would be stupid.
+
+The tester smacked away the shard of ice, but Matt had already moved to the left and cast a second [Ice Spear], and followed it up with a [Fireball].
+
+As the pair of projectiles raced out, Matt used the new spatial bracelet that Jamie had started selling in the last few years to remove a talisman. He had balked at buying a second set of the enchanted items, but had doled out the price to keep his cover identity a little more secure.
+
+The bracelets were produced by the hundreds, and were less conspicuous than the vests they had ordered, despite being much smaller.
+
+With a tiny amount of mana, he activated the talisman and felt a rush of energy course into his limbs. He raced forward, covering the twenty feet to his opponent in an instant.
+
+The effect faded, and Matt drew a second talisman that created a massive burst of mana that shoved the Tier 25 back.
+
+He knew the man had allowed that spell to push him back, but he was happy to see the effect was working as intended.
+
+With two more sheets of parchment pulled from his spatial bracelet, Matt increased his speed and raced away as the second parchment started launching a stream of [Fireball]s.
+
+Taking the time that bought him, Matt pulled out another paper and held it as he waited for the end of the [Fireball]s. When he counted the last projectile, Matt sent a bit of mana into the paper, and a giant bolt of lightning lashed out.
+
+The spell was just a massively overcharged [Jolt], but with Tier 11 materials, he was able to shove thousands of mana into the single spell, to devastating effect.
+
+As befits his Tier 25 status, the tester wasn't even phased, but he nodded in approval as he said, “I'm going to start attacking now.”
+
+To Matt's relief, he was only moving at a physical fighter's Tier 10 speed, which meant he didn’t have to use any more of his speed talismans. It put an incredible toll on his body to increase his speed for even the short two seconds, and his joints were already complaining.
+
+Retreating as much as the room allowed, Matt cast a few spells through his staff while taking out a defensive talisman.
+
+As the man rushed forward and threw a punch at Matt, he activated the talisman, and a barrier of blue mana crystallized around him. It shattered under the higher Tier’s power, but he didn’t press the attack.
+
+Matt used the time to retreat back into the center of the room, and launched another series of attacks while being forced to dodge and avoid the tester’s relentless approach.
+
+When Matt had spent half of his mana usage allotment, the man waved him off and said, “I've seen enough. You hit hard. I have to ask, though. How much harder can you hit? Some of those attacks border on lethal for even Tier 11s. If you can get a lot stronger, We’ll want to prepare special defenses for any time you're fighting other people.”
+
+Matt hesitated before admitting, “If I have a few seconds, I can hit three or four times that hard.”
+
+That earned him a raised eyebrow and a headshake, but the man just tapped at the air before gesturing them to a secondary room.
+
+“Here, we need you to prove that you can create talismans. Feel free to use the provided materials. We need to see you make a version of each type of talisman you intend to use in the tournament.”
+
+Matt thanked the man and got to work.
+
+He would need to create an offensive talisman, a defensive one, a support talisman, and finally, an array talisman to meet those requirements.
+
+The first three were standard enough talismans that anyone could buy or make with the proper tools, but the final one was more specialized, and a much more difficult application of the craft.
+
+At the cost of time and an absurd spike in difficulty, it was possible to link talismans and let their power funnel into a single attack. It wasn't as simple as creating one large talisman, but instead involved mathematically linking a series of smaller talismans to create an array that was able to express more power than the sum of its parts.
+
+The problem was, creating a talisman array was a thousand times harder than a single talisman, and there was no room for error over the seven talismans. Prime numbers being the most stable talisman array formations, Matt usually went with seven or eleven, depending on exactly how much power he needed.
+
+Talisman arrays also had a much longer cast time, as he needed to link the parchment together before casting. So, the larger the array, the longer it took to set up, but there was little that could survive that level of attack.
+
+Using the provided mana from the city, Matt quickly created the first three types of talismans. He went with his easiest skills, a [Fireball], one of his speed talismans, and his [Mana Barrier].
+
+It took him only an hour to complete the three, but close to eight hours to properly plan and create the talisman array. Each imperfection on the parchment needed to be taken into account before he could even start drawing out the lines and engraving the spell lines into the spirit of the material.
+
+Still, he completed the process without an issue, and was even able to keep the talismans he created, to his surprise.
+
+He hadn’t expected that, with them providing the materials and mana.
+
+Liz had long finished her own testing and had proven her alchemy skills, so they were let go after being given a teleportation token.
+
+The man who gave it to them explained, “This will teleport you to a personal room, created for your privacy, from any of the teleportation pads throughout the city. No one will be able to track your movements, and the rooms are perfectly private. When the tournament starts, you'll be issued another set of keys. Even though these are linked to you two directly, I wouldn't suggest losing these. Replacing them isn't cheap.”
+
+They quickly used the keys and found themselves back in their own room at Mara and Leon’s place.
+
+Liz pulled off both of her masks and asked, “What did you do, mom?”
+
+Mara opened the door and innocently said, “Nothing much. We just had the teleportation array link you here.”
+
+Matt didn’t mind that fact, and tuned out Liz bickering with her mother. He had spent quite a few talismans that he would need to recreate before he fought again. He had expected that, and stockpiled a truly massive amount of processed parchment and enchanting liquid, but he wanted to keep his reserves topped off as much as possible.
+
+He only stopped his planning to give Aster a pet as she joined him, sitting on the bed.
+
+Leon reappeared at some point and joined in teasing Mara, but as Matt was planning out his next few days, the absent Luna appeared with a small cough.
+
+Mara and Leon each let out a small scream and vanished, only leaving behind outlines of themselves.
+
+Luna just rolled her eyes, but focused on Matt and Liz. “You two did well in hiding your abilities. Now that you're Tier 10, I have a new training method for you, though.”
+
+She looked to the two still fading outlines and reached through them, pulling back a pouting Mara and Leon.
+
+Luna didn’t give them even a moment to speak. “Show them mana patty.”
+
+Mara turned and looked shocked to see the shorter woman. “Oh, Luna, how nice to see you. It's been too short.”
+
+Leon kept up his pouting, and crossed his arms and legs while being held by the collar, keeping his eyes closed.
+
+Luna shook him and asked, “Aren't you going to say hi as well, Leon?”
+
+The Tier 48 shook his head and murmured, “If I see no evil, there is no evil.”
+
+Luna just threw the man into the far wall and scoffed. “I have no interest in teaching you two idiots. I have new proteges, who aren't giant slackers. Now, stop fooling around and show them mana patty, before I draw up some lessons for you two.”
+
+Seeing their lifeline, Mara and Leon quickly sat in front of each other with only a few feet between them.
+
+Mara was the first to speak. “Mana patty is just like normal patty cake. You create a ball of mana—” As she said that, a small orb of liquid flame appeared in her hands and hovered there.
+
+She then bounced it between her hands as she said, “—then you work on bouncing it around while keeping it in a ball.”
+
+The phoenix repeated that action for a few times before she said, “After you can do that, you start to play patty cake.”
+
+Mara then bounced the ball of mana to Leon, who tapped it back, then created his own ball of mana that looked like a sphere of thunder clouds.
+
+Back and forth, they knocked the balls to each other until they doubled the number. Before long, they had increased the mana balls to two dozen, and their hands blurred to knock each back in time.
+
+Luna nodded along, “This is an advanced application of mana that I was waiting for Matt to have enough mana to actually do. This will help you three learn how to now interrupt each other's spells in combat. It also is a fantastic way to gain a modicum of mana control.”
+
+Seeing his manager look at him, he knew that last bit was meant for him, and nodded back to show he understood.
+
+Kurt appeared and waved, but was interrupted from writing by Leon appearing next to him.
+
+“Ohh Kurt, it's so good to see you. You should serenade me!”
+
+Mara was only a split second behind him, and shoved her husband out of the way to clasp her hands and blink coquettishly at the mute man.
+
+“No, serenade me! He’s just a dumb brute who casts spells.”
+
+Leon jumped back to his feet and shoved his wife down before saying, “That's rich coming from a mage!”
+
+Matt watched the bickering duo while trying not to laugh. They were both mages, and were unable to be serious for more than a minute, it seemed.
+
+Luna waved her hands, and the four of them were suddenly in the training room, where she started to instruct them on how to condense their mana into more permanent forms.
+
+“It's about quantity and control. Throw at least a thousand mana into each ball and see what you can do. If you feel it start to disperse, try to recondense it, or draw the mana back into your core.”
+
+Matt took out a series of mana stones and filled them, before pulling all the mana back into his core.
+
+Taking control of his full mana pool, he sent 1000 mana out of his hand and visually tried to create a ball of mana. His light blue mana condensed for a second before starting to bleed off like water vapor in the desert.
+
+Cursing, Matt tried to pull his mana back under his control, but struggled. When he finally completed the task, his ball was little more than a dot.
+
+Looking up, he found Liz and Aster had both completed their own balls, and while they had had some mana loss before condensing the balls, they hadn’t lost even half of their mana.
+
+Luna didn’t seem bothered and just nodded. “Now try to move the mana ball to the other hand.”
+
+Matt tried to bounce the ball, but it kept its position relative to his hand. He paused and reviewed what Mara and Leon had done.
+
+They had treated the balls of mana as if they were separate entities, independent of their bodies, but he knew that wasn't true. It was still his mana, and he realized that they already had manipulated their mana dozens of feet away from their bodies in countless instances. But now they needed to do it while also controlling their partner's mana, without losing control and letting the mana dissipate.
+
+Concentrating, Matt was able to send his mana towards his other hand, but it dissipated before it moved more than an inch.
+
+Looking up, he saw that both of his teammates had experienced the same thing, and he activated his Concept to refill their mana before trying again.
+
+“Matt, you aren’t holding the mana firm enough.”
+
+“Aster, you aren’t moving the mana so much as transferring where you're projecting the mana ball. You want to move it as if it were a real ball with weight.”
+
+“Liz, good job. You're doing well. Reinforce what you're doing.”
+
+As they practiced, they all made progress, but even as they ended their two-hour training session, none of them were able to transfer the ball in a realistic way. Though, Liz was the closest.
+
+Aster had the best control of her mana ball's physical shape, but her ability to move it was abysmal.
+
+Matt just struggled with everything, showing just how far his mana control had fallen when he doubled his mana capacity.
+
+Mara and Leon finally came in to spectate, and he asked them how much mana they were using to create their mana balls.
+
+Mara shrugged. “Only half a dozen mana or so.”
+
+Thinking it might be easier to control if there was less mana, Matt tried to create a mana ball, but he found that his mana just blew away before he could even begin to control it. He then tried to take advantage of his mana regeneration rate to fill the mana ball, but found that the ball didn’t accept any more mana once formed and outside of his core.
+
+Leon grinned evilly. “Getting the skill needed to create the ball with less mana is a massive pain in the ass, but it’s good practice. Once you get below a hundred mana, you'll be better than ninety-nine percent of mages, even in the higher Tiers. It's really hard.”
+
+Mara sat next to him and positively preened at the implication. Her hair feathers even stuck out and quivered a little, waiting for Matt to realize what that meant.
+
+That feat was impressive enough that Matt had no problem feeding their egos. “Then getting to six mana must be an incredible feat.”
+
+Mara started to wiggle. Leon tried to play it cooler, but Matt didn’t miss the lightning bolts jumping from his eyes as he smiled. “Yes, quite difficult. Practically unheard of, as it were.”
+
+With that inspiration, Matt refocused on his training, and worked to get his mana to condense as Luna instructed them.
+
+Eventually, they ended the training session, and Matt cooked a feast to wind down.
+
+As they finished up, he moved to the library and started perusing the books. The room was deceptively large, more so than some training halls he had been in, but it was still cozy.
+
+Eventually, he wandered into the depths to come back with a fantastic retelling of a Tier 45’s delves.
+
+He was glancing through it to see if he could learn anything interesting about the higher Tiers when Leon came in and sat down next to him.
+
+“Ah, that one's a fun one. Sadly, the veracity of Gilbert's stories are heavily suspect. Still, he's a good storyteller.” The older man sounded wistful.
+
+Matt asked, “What about it is wrong?”
+
+Leon snorted and said, “First and foremost, he has the size of the rifts way off. Ultra and Adam are in a Tier 45 rift, but they fully clear it in just a few decades. That's impossible.”
+
+Matt flipped back a few pages and pointed out, “But they're Tier 46. Seems fairly reasonable to complete it with that power difference.”
+
+Leon nodded at that. “Sure, and I get what you're saying, but it's still impossible. Yes, the hierarchy of Tiers becomes massive where even being in the middle vs. high levels of the same Tier can be an unbeatable difference, but rifts are massive at those Tiers.”
+
+He looked around for a minute before giving up and waving his hand.
+
+On the table, a planet of mana appeared and rotated. “Call this a standard planet with standard gravity. They're generally within a few percentage points of each other in size. Rifts will reach this size at Tier 20. By Tier 25, rifts will be gas giant large, which means at least a thousand times larger in volume. By Tier 30, rifts will be as large as most suns.”
+
+Leon paused to let that sink in, and Matt struggled to wrap his head around the sizes that implied.
+
+Liz’s father eventually continued, “By Tier 35, rifts are around the size of a solar system. By Tier 40, they're a few dozen times that size. By Tier 45, they are as large as a standard galaxy. Rifts become massive, Matt. Mara and I are Tier 48, and with a full Tier over the highest Tier rifts in the Empire, it takes us a little over a year of flying to just reach the final bosses of a Tier 47 rift. We can fly really fast, Matt, but they're just that large. And the gap between a Tier 48 and Tier 47 is massively larger than a Tier 46 and Tier 45. There’s no way Ultra and Adam fully cleared the rift that quickly.”
+
+That seemed unrealistic, but he knew better than to doubt the man. “How do you get anything done then? It seems like you would go into a rift and take forever to advance. And how many rifts do you even need to clear at that point?”
+
+Leon grinned, and Matt realized that this was the most serious he had seen the man.
+
+“At Tier 47, it took us close to nine thousand rifts, with just me and Mara, to reach Tier 48. And that was with us fully clearing out each rift personally, killing literally every single thing inside them. Most higher Tier rifts work in two ways. Single team delves, and mass delves.”
+
+He waved at his chest. “Mara and I are Tier 48, and not looking to advance with lesser essence, so we don't take any of the essence from our kills. But we also don't run a lot of rifts anymore, and donate our rewards, which is the only reason we even delve them at all. That means we enter a rift with a few dozen Tier 46’s who are looking to advance, and let them have free reign as we go and kill the boss. The others pay for a slot in the rift, and help the rifts handle more rapid delving. On the capital, it takes about two decades for a rift slot to be cycled because of how much mana they need to run, and how long it takes to recharge naturally. The cycle time for an instance is still ten minutes, but the rifts need far more mana to run. Selling a ton of slots lets the Empire farm more rift rewards, but that isn't the only way it works. You can also fully fund the rift yourself, and earn the right to fully clear it yourself. We did that to advance. After learning how the rift works, you can get quick at clearing them, but it still takes centuries.”
+
+Matt paused and did some math. Mara and Leon weren’t nearly old enough to have spent centuries in rifts.
+
+“But you guys aren't that old.”
+
+Leon winked at Matt. “Good catch. After Tier 25, rifts start to have a slight time dilation that grows with their Tier. We're a lot older than we seem. You can expect a higher Tier rift to take a few centuries to clear out, but you'll only take a few decades of real-time. Otherwise, no one would even see the higher Tiers. When I said it takes us about a year to fly to the rift boss, I meant in real time. In subjective time, that's closer to a hundred years.” He paused, "And while there are ways to speed that up they are expensive and not worth it unless you are trying to advance quickly like when a new Emperor is raised up. Then you can get to and kill the boss, while clearing a decent portion of the rift in less than two weeks real time being at Tier 47. If you are Tier 49 you can cut that down to days."
+
+Matt digested that, and it brought up one of his problems with the Empire in general. “Why isn’t that public knowledge? This feels like important information.”
+
+Leon sighed but answered, “In subjective time, I’m well over a hundred thousand years old, Matt. It's not easy to remain connected to humanity after so long. Mara and I goof around because it keeps us centered. We go out on dates and enjoy time spent with normal mortals because that's how we keep our humanity. More than one old bastard has turned into little more than an AI piloting a meat suit. They become so distant from what it means to be human that the general population has incredibly adverse reactions to learning about it. It's been tried and seen. The mortals are better served to have limited information until they reach Tier 15, and they earn their own immortality. Even then, from Tier 15 to Tier 35, you’re treated as a second class of citizen. The only truly important people are those who have passed the barrier, and are past the mundane wars, stepping upon the final stage of this realm.”
+
+Leon looked off into the distance, and for the first time, Matt imagined what it would be like to live for millions of years. He wasn't sure that he even had a frame of reference to begin to understand the man's experiences.
+
+“I know it's frustrating. I felt the same way, but with age and experience, I can honestly say that a lot of information is restricted because it's good for normal people to only learn it when it truly affects them.”
+
+Matt looked at Leon and asked, “So the goofball personality is just how you deal with being super old?”
+
+Leon grinned. “It's also fun, but as you spend time with immortals, you will learn that we all have our quirks. Do you know the number of people to make it to just Tier 15?”
+
+Matt didn’t, and shook his head in the negative.
+
+“It's something like six percent of the population that’s expected to reach immortality.”
+
+Leon’s statement shocked Matt. He had expected it to be far larger.
+
+Seeing his skepticism, Leon continued. “Really. A large portion of the population don't want to advance Matt. They don't have the drive or the mindset. They want to live their lives, and that's it. Immorality is one massive draw that makes quite a few people push until Tier 15. But even to do that, you need the ability to fight and kill monsters. That’s a full-time commitment. Not a lot of people can do it. Now, what portion of those that reach Tier 15 do you think hit even just Tier 20?”
+
+Matt tried to analyze what Leon had told him, and finally guessed, “Half?”
+
+Leon smiled as he clapped. “Close!. It's around forty percent. Now, of that forty percent, do you know how many hit Tier 45?”
+
+That was beyond Matt, and he just shrugged.
+
+Leon didn't make him wait, and filled him in. “It's close to eighty-five percent, when you ignore the people who die along the way.”
+
+“Why the large difference?” As Matt asked the question, he realized the answer and hurriedly added, “Because those that reach that far have the drive. Right? They've already stood out from the general population, and those people have something pushing them forward to delve day after day for thousands of years.”
+
+Leon looked absolutely proud of Matt as he said, “Exactly right. And most of us have oddities that put a red hot poker under our butts, forcing us forward. That usually means we have odd personalities. As you grow old, Matt, you'll become more of yourself. You should do things that will help you become what you believe you want to be. Mara and I want to be easy-going and casual. We enjoy playing around and goofing off. We're the type to work for days to avoid half an hour of work. As we get stronger and our abilities grow, we've embraced our unique individuality. Everyone else might be different, but it's a trend you'll notice more and more as you advance. People get a little weird if they have what it takes to reach our level. It's inevitable, and more a question of finding how it manifests than if it manifests.”
+
+Mara came in with a plate of steaming cookies and two large glasses of milk. Using the opportunity to lighten the mood, Matt asked, “Is that why you stole the planet that Liz and I had sex on?”
+
+Leon and Mara both had exaggerated looks of shock on their faces, and the phoenix put her hand to her throat as she said, “Oh no! Not at all!”
+
+Leon shook his head as his wife added, “We didn’t steal the planet because you guys had sex. No, no, no, not at all…”
+
+She slapped Leon's hand that had, at some point, stuffed his face full of cookies until he looked like a chipmunk.
+
+“We took the planet because you two committed yourselves to each other. Sex is just sex. Who cares about that. No, we wanted to make a shrine because of your commitment. That's beautiful, and something to be preserved.”
+
+Matt had no idea how to respond to that, so he just took a page out of Leon's book and shoved an entire cookie into his mouth, smiling around his bulging cheeks.
+
+It was almost worse to have such a sentimental reason to have taken the planet, but he didn’t feel comfortable telling them off like Liz would have.
+
+Aster followed her nose into the library and hopped up into his lap, saving him from having to answer. When he could speak, he moved the topic back to safer waters, and asked Leon about what his favorite book in the library was.
+
+He had had enough of heavy conversations for one day.

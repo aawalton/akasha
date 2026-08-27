@@ -1,0 +1,437 @@
+---
+id: 21b5042c-a537-595a-8cec-af0f8782dc12
+page-type-slug: story-chapter-royal-road
+title: "466 Firamnia, the Implacable"
+slug: 0426-466-firamnia-the-implacable
+partOf: the-new-world
+position: 426
+ownLength: 5947
+unit: words
+ownProgress: 5947
+publishedAt: 2025-08-23
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2540476/466-firamnia-the-implacable"
+royalRoadId: "2540476"
+markedReadAt: "2026-06-29T21:35:58.786Z"
+---
+
+It reached the peak of the mountain before an explosion of telekinetic force rocketed it away. A tiny dot fell from him, and I snatched it out of the air. In my palm radiated the blue core the vanguard carried and charged up. I let the moment pass.
+
+"Well, that just happened."
+
+I gazed down.
+
+"Alright then. Let's see what's in the pits of hell besides beauty."
+
+Chapter Begin
+
+I bolted downward, accelerating like a dimensionally loaded artillery shell. Where I passed, the wind whipped into a frenzy, the phoenixes glaring at my rudeness. After passing several kilometers, the pressure and heat surged. The surrounding stone melted into a quasi-liquid state. It all bled together, everything in a state of deliquescence.
+
+The phoenixes couldn't live here; their nests were far above. They still dove down to this abyss, finding prey for their young to feed on. Tiny armored worms writhed in the liquified rock, feasting on the magma and eating the warmth. Along the sides of the pit, tremendous side passages lead to entire caverns with unique ecosystems.
+
+A few of them carried mines that snaked for hundreds of kilometers, and others glistened from the overwhelming pressure that turned coal into diamonds. I dove into one of them, finding these stones far less animate than the last patch I fought against. Most of the rocks radiated with the same energy as the miasma around us, so I darted through several of these side passages.
+
+I harvested the unique crystallized mana until I had an enormous reserve of crystals at the ready. Finishing my personal mining operation, I continued my descent. Further still, strange metals formed in the blurred abyss. They held many properties, a few even manifesting an ice affinity. However, the vast majority still had fire lingering within them, and I took a few of those metals as well.
+
+By then, I was well over sixty kilometers down into the colossal mountain. The air shivered from the warmth, and the stone groaned against the overwhelming strain. Pinging cracks echoed all around as different creatures infested these caverns. A few munched about. I inspected these green, mushy caterpillars. They had blue heads covered in small beady eyes and mouths of circular teeth.
+
+They moved near mana-charged metal and stole the energy. After soaking in the resources available, they turned around and expelled all over the metal. A quick molt later, and the caterpillars turned into butterflies that embodied whatever unique quality the metals once carried. The butterflies came together, fusing into piles of eggs that hatched into more worms.
+
+In essence, they converted precious ores into stinking piles of refuse.  Before I expunged them, I continued exploring since each patch of infested ore exposed different states of decomposition and development. Some segments had portions where the rubbish soaked into the metal somewhat.
+
+The oldest sections of steel had soaked in the refuse and shells, the two divergent materials fused by pressure and heat. That changed the metal to a green color. In fact, it was a familiar shade of dark green. A quick bout of gravitation ripped a chunk of the metal off, and I gawked at its exposed composition. This floating chunk possessed antimagical qualities.
+
+My face wrinkled like a raisin.
+
+"This...This is orichalcum. Wow."
+
+The fusion process cleansed the ore of any lingering smell, and the insects' ability to absorb magic seemed to carry on into the metal. The longer it soaked into the orcichalcum, the greater the effect. Taking a minute, I inspected one of the writhing caterpillars.
+
+Ancient and Elementally Imbued Orichalkipillar | Status: Protected | Level: 22,019 - This variant of the orichalkipillar is one of the most sought-after eldritch in Schema's known space. It can turn enchanted metal into the heavily sought-after orichalcum. The more magic in the metal it feasts upon, the greater the resulting antimagical qualities it manifests thereafter.
+
+Many hypothesize the method it uses, but few know of its unsanitary origins. Regardless of how the metal is constructed, it supports entire empires and industries alike. Orichalcum is seven times stronger than steel, with a tensile strength that easily triples it. However, orichalcum is most famous for its ability to ward off a percentage of any magic sent its way.
+
+The better 'forged' the metal, the more powerful this antimagic effect is. Throughout Schema's known space, few materials carry this innate quality, and that makes the demand for orichalcum extremely high. This is one of the few eldritch that you are not allowed to hunt down. They are to be reported to the nearest Overseer/Sentinel to be harvested for Schema's use.
+
+As the finder of this resource, you will, of course, be compensated. Any samples are worth ten times their level in credits. Queens and colonies can be worth well over that due to the ability to breed more of them.
+
+Note - If a sentient steals this resource for their own purposes, then they will be fined and given a bounty from the system. This is to protect both you and the system, sentient!
+
+Be wary of greed's folly.
+
+I read over the message, learning a bit about the industry. Finishing the message, I gawked at the creatures, their poor hygiene changing from a dirty secret into a pleasant hum. Suddenly, their writhing sounded like money printing machines. This was especially useful for my burgeoning empire.
+
+After all, my worlds didn't need orichalcum at all since I could supply a near-infinite amount of my dimensional fabric. That made this a harvest that could make for an incredible economic backbone for my populace, one that didn't require my direct input. I took notes of all this as I traveled down. All the while, I harvested many of these worms by putting them into my pocket dimension.
+
+After a few hours, I found more phoenixes diving downward. They kept plucking worms off the walls, but I couldn't bring myself to cull the horde. While still eldritch, the phoenixes hadn't attacked me on sight. Instead, they guarded their home as any animal would. I found myself observing a nest, the mother and father cooing over a pile of ash as one of them was born.
+
+After a short while, I took a breath. It was a shame, but I had run out of time to dawdle. I turned my descent from an explorative tour to a blistering fall. After well over a hundred more kilometers, the magma streams solidified. After a thousand, they sparkled. The pressure turned even the falling stone into diamonds and other gemstones, and five thousand kilometers down, they began to explode.
+
+I laughed at the sight where the temperature ignited the precious crystals. A wall of detonations appeared in my sight, the sparkling rain turning into a writhing, kinetic mass. It was madness, an absurdity for anyone or anything. I dove through the pulsing fires and pulsing waves, finding an end to this volcano.
+
+It arrived with the end of all the treasures as well. Every valuable stone or chunk of orichalcum stored in the streams of lava was destroyed by the explosions, and they released the red mist that every creature subsisted on. It all pooled over a circular platform surrounded by magma. A hurricane spiraled over it as a miniature hurricane, reminding me of Ghelid's blizzard.
+
+At the edge of the storm, I met a wall of laws demanding immense sacrifice. Instead of using my wake, I stepped across the veil and allowed the principles to course through me. I felt a wave of vitality swell, the sensation almost euphoric. Once past the torrent, I found my goal. A core rested at its center, lava circling the space. The radiant nucleus did what radiant nuclei should - it radiated out, a star given form and an eclipse given light. It supported the entire mountain above. A gorgeous phoenix circled its wings around the precious nucleus, gorging on the power within.
+
+Firamnia, the Holder of Sacrifices | Level 57,030 - Firamnia was an entity that existed on [Rebirth] since its inception, along with the other pillars of the eldritch here. Firamnia is unlike her other eldritch kin. She is proactive in protecting her territory, and she was once a warlord of this world.
+
+Long ago, she held complete control over this mountain's rare metals and gemstones. Using this forgotten trove's wealth of resources, she killed any opposition on the planet to her mining industries, creating a monopoly over all of [Rebirth]. Wielding this enormous leverage, she extracted endless piles of wealth for her absurd desires. She wasted it away, gambling on arenas of battle.
+
+Eventually, the planet's history changed its trajectory. Events occurred that ruined the world she ruled, and with no outlet for her endless avarice, Firamnia turned to hoarding. She has a stockpile of objects once considered valuable in a pre-system era...
+
+I kept that in mind for later.
+
+...but they are of little value now. Her immense powers over the passion of others and herself shouldn't be underestimated. She can sacrifice her nigh-endless longevity for bursts of power that even Overseers fear.
+
+Should you fight her, prepare for war.
+
+I hovered down, walking up to Firamnia. She rested at forty feet tall, and her wings shimmered as if made of shining daggers. Etheral fire smothered her, the raging furnace creating a plume of rising air around her. Though a beautiful creature, she lacked the refinement I expected. I didn't mean that as an insult, either.
+
+If anything, looking at the powerful creature made my blood boil. It reverberated in the melody of the other phoenixes, but this was the orchestrator of everything, a wager of war. Scars traced up and down her body, telling tales of bloody battles she fought. Each feather glinted like a crystal knife, and they turned her wings into serrated blades. Her beak glowed, containing the force of stars within, and Firamnia's gaze mirrored that sharpness. Even her voice cut through reality.
+
+"Ah, Harbinger. We meet at the bottom of the world."
+
+I smiled back.
+
+"Awesome. This is going much better than when I fought Ghelid."
+
+The phoenix's gaze sharpened further.
+
+"You're the entity that killed it? I assumed as much, but it's good that my assumptions were verified. After a bit of inspection, I could've guessed. You carry other realms wherever you walk, and you hold many magics working in tandem. I haven't had a true battle in a long time, either, so this is quite opportune."
+
+I let out a laugh.
+
+"It is opportune, but not from the prospect of battle. I'm not here to destroy all of you and take your lands. I am here to try to help a friend. Nothing more and nothing less."
+
+"Helping a friend? You've killed Ghelid and speak of peace in the same breath?"
+
+I paced to the front of her, and her talons soaked in the magma's energy as if feeding on the world. I gestured to her core.
+
+"The way he made his core was irreconcilable, and you sound as if you've met him before. Do you think I could've allied with him? After what he had done to anything he could get his claws in? To anything he could get his ice into?"
+
+Firamnia's laugh was like the clatter of knives.
+
+"Perhaps not, but our fight will be different."
+
+"It would be, but that's not what I'm trying to discuss. Why do you want to fight me?"
+
+Firamnia spread her wings.
+
+"Many reasons. I love battle, and I wish to prove that I am above Ghelid. He put the scars across my chest and tore out my feathers for his children. He deserves the death he got, and I hope it was agonizing. Still, I respected him as an opponent, and to see his slayer only makes me want battle even more."
+
+I furrowed my brow.
+
+"How about this, I'll promise a battle if you share some of your past with me."
+
+"There is little to say. I was an empress of this mountain, a monster that ruled for epochs. The others came here, and they exchanged their energy and wealth for my crystals and metal. I turned that wealth into experiences. Before long, there was nothing left to experience."
+
+My eyes narrowed.
+
+"Did you kill them?"
+
+"I had no need to. The violet-skinned ones with white hair...They killed each other. Plagues. Wars. Machines and metal. They undid one another far better than any monster could."
+
+I frowned. She talked about the remnants, and it gave me more to chew on than I had ever heard.
+
+"Did they have Schema before or after the fighting?"
+
+"Schema?"
+
+"The machine."
+
+"Oh." Firamnia adjusted her wings. "Yes, that invasive aura. It came and settled in long ago. Many, many millennia have passed since then. In many ways, time has lost meaning from its incessant march, its continuation undoing its importance."
+
+I raised a hand.
+
+"Philosophy aside, did Schema turn on the remnants, or did they turn on it?"
+
+Firamnia laughed.
+
+"The remnants created Schema to kill each other. It was their most perfect weapon, one that has destroyed while trying to keep them alive. It is a mother who breaks the wings of her children to keep them in her nest. It traps and bite and maims. All for the purpose of its makers."
+
+I winced.
+
+"Do you know why they made Schema that way and how he evolved into his current iteration?"
+
+Firamnia's body swelled as energy piled into her frame.
+
+"They waged war, and war catalyzed their technology. It was the fire of purpose, and they burned each other to embers in its glow. My children above would peer onto the dying world above, a smoking pile of cinders. It held the secrets of their race."
+
+Firmania let out a burning laugh.
+
+"Those were secrets of how to destroy. They spread plagues, altered genes, and sterilized their people. We monsters peered at them, our own defilers made into weeping mockeries of their brutality. Now, I have told you of my life. You will give me the battle I seek."
+
+I held up a palm, energy snapping into my limbs.
+
+"You will find no victory when you face me."
+
+"I am unlike Ghelid. That beast tried to live by forcing others to carry its burdens. I am a different breed, and I have thrived on my own sacrifices."
+
+I rolled my shoulders.
+
+"I've seen the abilities of your kin, and if my guess is right, you'll be easier to deal with than Ghelid. You may carve me into pieces, but that means little. You'll try to burn out my lifespan, but that means even less."
+
+I oozed mana, the sacrificial red carved apart by Event Horizon's deeper crimson.
+
+"For I am eternal, and your sacrifices against me will be in vain."
+
+Firamnia let out a fierce cry that burned the space around us.
+
+"I am blessed by the energies of worlds beyond this realm. I have evolved into an ever-growing god that once lorded over your races. I remember those days. If not for the coming of that accursed machine, then what would we worry about? You would be less than nothing, as those that walked this world were."
+
+I spread my hands, letting my aura dwindle.
+
+"I'd love to keep talking about those old days."
+
+Firamnia tilted her head.
+
+"What would a warrior want to know of those dead? Of those that undid themselves?"
+
+My eyes widened, and I smiled.
+
+"Anything. I'll take anything you're willing to share."
+
+Firamnia peered up before looking back at me.
+
+"They're all dead. As you will be."
+
+I frowned.
+
+"Yet I've killed someone you couldn't."
+
+"Oh, so you think I'll die here? No. I will be reborn from my ashes, and I will try again. You think you're eternal, but I have lasted many eons. This will be no different."
+
+I scoffed.
+
+"We can fight without killing each other."
+
+"Must I incite your rage?"
+
+I gazed at the sacrificial mana coursing around us.
+
+"There's no reason to."
+
+"You reek of fear. Do you not believe in your immortality? Perhaps you fear mine."
+
+Event Horizon crashed against the writhing energy, and I sapped the clouds will. The mana flooded my frame, and I closed my eyes. Cracks appeared over my skin as my lifeforce burned away.
+
+"You won't revive if we fight."
+
+"And why is that?"
+
+"There will be no ash because not every death is from fire. Some deaths are from the starving darkness of gravitation. Other demises are from kinetic splintering so absolute that you disintegrate into nothing. I can do both and more."
+
+The phoenix spread another pair of its wings, revealing four, then another, making six wings in total. It was like a flaming seraph from biblical texts, and it radiated with the energy of one. I kept siphoning in the mana around us, getting a feel for the strange energy,
+
+"We don't have to do this. We don't have to put our lives on the line here."
+
+My breath carried enough mana to poison a city. The phoenix let out a laugh, her voice like the hum of flowing magma.
+
+"What makes you think that this is anything less than the most serious of matters?"
+
+I raised my hand, and Firamnia's eyes widened. In my palm, a purple core hummed with spatial laws.
+
+"Because I know you're a mirage that's connected to your real body. Because I know deep down, you're afraid, and you're trying to find my weak underbelly. You're going to find it hard to fool me."
+
+Firamnia lowered her wings.
+
+"How did you know?"
+
+I spread my hands.
+
+"Do you think I'm an idiot? I saw your phoenixes traveling here. It's not difficult to graze their minds and gather the context behind their thoughts. Panic. Dismay. Worry. They warned you about me, and they should have. I plowed right through this region, but it wasn't to declare war. I was merely feeling what the region was like."
+
+"You killed my people."
+
+I furrowed my brow.
+
+"They are mindless monsters. I never killed a phoenix unless they attacked me."
+
+Firamnia laughed.
+
+"Perhaps I have no anger over the rampage you carried out. Still, I desire a battle. I wish to prove myself by burning away in a glorious battle. Can you offer me that?"
+
+"I don't want to."
+
+"But you will. If you do so, I will grant you what you want. What, precisely, do you desire of me?"
+
+"It's simple. Cooperation. Unlike Ghelid, you haven't resorted to disgusting means for power. That left you with less energy than your brethren, but that actually works in your favor here."
+
+She puffed out her chest, her wings tucked.
+
+"I am stronger than Ghelid."
+
+I narrowed my eyes.
+
+"Or you've taken your region's core and started absorbing it since he died?"
+
+Firamnia took a step back.
+
+"That's a simple deduction. A child could surmise as much."
+
+I tossed the spatial nucleus up and swiped it out of the air.
+
+"Yes. I also know you're traveling to my city, but this will get me to you before you can reach my allies. Otherwise, Ghelid wouldn't have had one of these in the first place."
+
+"What if I am far faster than he?"
+
+I circled her, my gaze predatory.
+
+"Remember that machine you cursed? It lets me message people, and those messages are instant. That's part of why I took my sweet time landing here; I gave them time to get to shelter. My allies have been in my city's walls for a while now."
+
+I glared at her.
+
+"You can try to destroy that barrier, but I used ten radiant blue cores to reinforce it. Fully charged, thats over a trillion mana, and unless you can blow this entire planet to smithereens, you won't puncture it before I get to you. My dimensional fabric and the system's augments also make the forcefield abnormal, but if you want, give it your best shot."
+
+The mana around the facade cascaded outward in a wave. It swallowed the air, rendering it into a boiling venom. Firamnia's form enlarged, two heads taller than me.
+
+"Tell me, child. Can you survive an armageddon?"
+
+I shrugged.
+
+"I think so, yeah. I'm still wondering why you want me to be your enemy?"
+
+Firamnia scoffed.
+
+"What I said earlier still holds true."
+
+My body rippled, and my armor grinned. I raised a hand with my gauntleted fingers outstretched. The tips of the gauntlets sharpened to claws.
+
+"Do I look like I'm afraid of you? Of your kind? Listen to me. I am offering mercy. Please, take it. If you back down immediately, then I can let you live."
+
+The phoenix took a deep breath.
+
+"I have seen untold ages pass. I have ruled this world and let that dominance fade to nothing. Do you believe you strike fear into my heart? A heart that has seen death a thousand times and survived?"
+
+I frowned.
+
+"Only a thousand deaths? Those are rookie numbers."
+
+"You may tell tall tales, but I have lived them. You will be but another passage in my story."
+
+My helmet flowed off my head. I ruffled the hair on my head in frustration.
+
+"Come on. I'm trying to give you a chance here. You're not pure evil. I haven't seen anything that's remotely irredeemable. I want to know about the old world here. About its history. We could just talk about that instead of fighting to the death. We don't have to act like animals here."
+
+She narrowed her eyes.
+
+"And what is wrong with animals? They operate on instinct, and they are pure. They live within their means and serve a function they were born into."
+
+I shook my hands.
+
+"My point is that we can communicate. It doesn't have to end this way. Don't force me to kill you."
+
+Firamnia snarled her words.
+
+"Ghelid sent us messages embedded within ice crystals. It showed us how it begged for you to let it live, and you chose to kill it regardless."
+
+I pressed my hands against my temples.
+
+"Firamnia. He's different. He tortured his entire populace for millennia. Why can't you guys get that? Why does everyone want me to kill them?"
+
+Firamnia seethed.
+
+"I will not put my life in the hands of someone who would not accept a ceasefire."
+
+I shook my hand in front of me.
+
+"Your life was always in my hands, but your decisions chose what I'd do with it. I can't let a rogue element try to hunt my people down."
+
+"You butchered Ghelid, so you speak nothing more than empty words, hollow as a burned tree."
+
+I breathed in the coursing, orange mana of sacrifice. My life bled away in my hands, but it burned from an endless well. As my eyes widened, I glared at her, my gaze predatory.
+
+"Then you'll see why I begged you for your life and not mine."
+
+I squeezed the purple core in my hand, and it crushed like a ball of crispy ash. It was oddly satisfying. The laws of space rippled outward, infusing into my body in mass. I lost all semblance of orientation as my vision blurred. The phoenix shot at me, the mirage carrying all the power of the real entity. I took a step forward, and we clashed.
+
+I dashed forward for kilometers, crashing into the side of the mountain. Firamnia's mirage body held firm, and she burned through her life force to create unrealistic strength and durability. I opened my minimap. Even as space turned into putty around me, my status screen remained unaffected. I kept my eyes on it before turning to my city.
+
+I took another step, and instead of teleporting, I shrank the space between me and my goal. It reminded me of dashing in a video game as everything flowed past my vision at insane speeds. If not for my absurd durability, even the air itself would've crushed me. I crashed through kilometers of it and rock alike, bursting out of the ground. Another step taken, and I found myself deep in the Firelands. Another stride and another set of regions passed my eyes. Like some psychedelic trip, I flowed past the Firelands in a matter of seconds.
+
+A minute later, I reached the beginning of the clashing center of Rebirth, where my city resided. The spatial fluctuations were fading from my body by then, and I peered at my status updates. Opal already sent a ping notification letting me know Firamnia's current location. I darted forward, finding the eldritch's true form. She traveled as a blinding sun, her body like the surface of a star.
+
+But I had wielded stars, so what was the mere sight of one?
+
+Using the last bit of spatial juice, I smashed into her, both of our bodies colliding. Like her mirage, Firamnia met my charge by crossing her wings. She howled.
+
+"You think you're clever?"
+
+I answered her words by spreading my hands, glowing as she did.
+
+"You should know that some mistakes can't be undone."
+
+A singularity swarm encompassed us both, and Firamnia faded into an insubstantial form. I wielded Event Horizon, siphoning her mana and consuming her mind, but she hadn't used mana for her transformation. She carried her region's core and drained its energy with each movement.
+
+Taking a deep breath, I sent out strike after strike. I bolted around, jerking myself at unrealistic speeds using my gravity wells. The forces defied convention, not requiring any kind of flow or muscular exertion. Like a pinball bouncing around, I shot and bolted towards her as explosions of physical force erupted from yanking my body around.
+
+And yet, Firamnia was faster. She raged, feathers withering off her body with each passing second. Every time she landed an attack, grazed my body, or wielded enormous plumes of fire, the heated mana of her realm soaked into my body. It imbued power into me, but it also burned through my resources. Health splintered. Stamina eroded. Mana melted.
+
+I bled through my brio, but Firamnia's poison only augmented my abilities, and with every passing moment, Event Horizon whittled her health and mind apart. Despite my advantages, I couldn't strike her. Firamnia's speed reached a cosmic level, the kind of pace that could traverse the distances between planets. After all, she nearly passed the entire distance between her base and my city in minutes.
+
+That speed wasn't only relegated to traveling. She remained agile, mobile, and in deft control with every slinking motion. Her dance of motion held as much technique as Opal and destruction as Althea. Even without the movement, Firamnia's magic was devastation incarnate. It was armageddon. It was an obliterating, cleansing force that left nothing in its wake.
+
+Every swing of her wings melted entire mountains and burned entire forests. Every brandishing of her claws carried flaming waves that burned our horizons. They scorched the clouds and melted the earth. All her movements held the same effect as her magic. The unburned patches of forest near her would wither from burning through their lifespan so quickly before desicating.
+
+Any animals in the way aged into decrepit, elderly versions of themselves in an instant. That mana coursed into my body, far exceeding the amounts I gained from my trail of carnage. It gave me a strength I had never known. My hands crushed the skies, and my feet destroyed the lands below. If not for my barrier, I would've lost myself in worry for the others.
+
+But the barrier was there, so I could burn through every bit of myself. I could live for this moment and this moment alone. Gone were the crushing responsibilities of my empire and of holding my species afloat. I no longer had to stop Elysium or even destroy the Old Ones. I existed in the present and lived for every instant. I let out laughs of joy as I pressed my advantage over Firamnia. She laughed in turn, and we burned through all that we were as we fought.
+
+Her feathers dulled. Her bones creaked. Her skin thinned, and her heart slowed. As gray found its way onto her feathers, I winced.
+
+"It's a shame you can't continue. This...Was fun."
+
+Firamnia spread her wings, burning even brighter. We clashed for several minutes before one of my fists pierced through her chest. I smiled at her.
+
+"Sorry, but this has to end."
+
+I threw her aside, holding her region's core in my hand. Every fiber of my being desired it, and my cells writhed in hunger and want. Satiating their desire, I swallowed the core, and a warm sensation coursed through me before Firamnia imploded. She howled out.
+
+"There were five, and one tried to unite us. They failed, the power overwhelming them. Now they watch and wait, biding their time. You will fall in the same way."
+
+My thoughts went wild with her declaration, and I imagined an entire history of what took place in an instant. Before I could properly digest her words, she desiccated. Firamnia turned into ash before she fell as a radiant egg. I reached out a hand and created a singularity swarm, but she once more imbued her mana into herself.
+
+Like watching a sped-up video, she aged into her prime before dashing out of the way. She flashed in front of my eyes.
+
+"I hope I can take both of our cores back by cracking you open."
+
+She slammed her wing down, tearing my body apart. I melted before flooding over her. I solidified and enveloped us in singularities, but her form dematerialized. She wasn't able to fully utilize the magic as Event Horizon stole her mana. At the same time, I crashed through her mental defenses with each passing second.
+
+However, I couldn't help but wince. I'd been using Event Horizon and my psionics since the start of the fight, but psionics were useless against her. She was like Valgus, and her entire sapience relied on a coalescence of mana. Unlike Valgus, she didn't use mental defenses at all, instead letting her mind form and reform time and time again.
+
+I couldn't psionically drown that kind of mind with chaotic thoughts because she was already chaos given life. Firamnia operated on her emotions moment to moment, and those feelings guided her mind against me. Her attacks expanded in scope, becoming lethal. She tore through her lifespan with every strike, and that sacrifice gave her an unbelievable power. My body became a soft, molten material, struggling to maintain a solid form. I crushed under her swipes, and I melted into puddles at her feet.
+
+Yet I returned. And so did she.
+
+In time, every attack she unleashed resulted in another death. She sacrificed her entire lifespan in a strike of her wings. Explosion after explosion detonated from her, and she went berserk against me. Her dedication and sacrifice were like a reflection of my own fighting style.
+
+As she had, I fought with my body on the line, and I had no qualms about embracing death. Firamnia was the same. We tore, gored, and gnashed one another time and time again. We continued our onslaught, turning the realm into a crushed, devastated hellscape of fire and gravitation. The torrent of assaults left the entire area beleaguered in perpetuity - the wounds would last for centuries.
+
+After many hours, Firamnia's physical body was no different. She was an opponent whose physical endurance mirrored my own, being something beyond material in nature. However, she had exhausted her mind. She was unable to continue her persistent wave of emotion against me.
+
+Hatred, anger, and even desire required fuel. They needed the fruits of a mind to keep them burning, but she was without one. Event Horizon devoured every lingering thought and emotion, hollowing her out into a husk. Lacking that directing modus, her battle fury lost its luster. She no longer had death in her strikes or fury in her magic.
+
+Her movements became stilted and jittery. The magic that once burned entire regions became nothing more than directionless waves of dispersing heat. As they wilted, she collapsed, heaving for air underneath me. She struggled to move, but despite her weakness, she pushed through all pain and despair, while searching only for victory.
+
+A victory that would never come.
+
+My psionic strength held. My minds sprinted at her in a stream of psionic cruelty. Over and over again, I washed her mind away to nothing more than a babbling baby. Watching her writhe for a moment, I felt like a monster, but it was what I had to be to keep my people safe. No matter how I rationalized what I did, it still made my insides squirm.
+
+Squirm or not, I didn't regret my decision. Firamnia was an enemy that would've left Mt. Verner as a pile of ash. After facing her, I had no doubt that she could pierce the barrier of even my strongest cities within a day. They might not last that long, and even Shalahora would've struggled against her.
+
+Firamnia had been an all-around fighter. She was a warrior who put everything on the line, wielded it well, and abused her advantages to the fullest. I mean, a phoenix that used its lifespan with her attacks? It was honestly genius, and using her mana as an aging element against her enemies gave her another avenue of attack that was as unconventional as it was effective.
+
+Her lack of reliance on her base mind also made her ferocious in psionic combat. True, her offense lacked any edge in that department, but she wasn't vulnerable either. It made her one of the strongest foes I'd ever faced, and she was far more powerful in a direct confrontation than Ghelid had been. That cruel coward had run the moment it faced me at full force.
+
+Firamnia had faced me and charged. In a way, it felt unfair that she never even got close to genuinely hurting me. I simply operated on an axis she couldn't touch, so fighting at her level posed no threat to me. That was why I wanted her to avoid fighting me altogether. In the end, it devolved into a battle of matchups.
+
+Such was life.
+
+Wanting to end her suffering, I swallowed her in a singularity swarm, but she returned from the ether as I would. My eyes widened as Firamnia drooled on the ground, her eyes reflecting agony. A surge of panic rose within me. Did I have to torture her for eternity? I calmed down. Of course not. I opened my pocket dimension, ready to put her inside.
+
+I'd hold her until I found a way to kill her. Hm. Unless another strategy would work. Something was tied to her being, a rebirthing mechanic that seemed to work without any regard for matter or mana alike. That meant it was likely built on some weird law mechanic like Ghelid's stasis. Taking that approach, I turned my pocket dimension to her and unleashed the shearing forces of colliding dimensions.
+
+She was not killed, but a primal fear surged in her chest as the laws surrounding her dispersed. I swiped my hand, singularities encompassing us both. As I strode out of nothing, I was alone once more. I smiled. Unlike most other foes, I wouldn't forget Firamnia. Whether we agreed or disagreed on how we lived, we were aligned in how we would die.
+
+In all regards, she was a warrior worthy of respect, and she would be remembered. I raised a hand and squeezed it into a fist.
+
+For the phoenix who wouldn't quit, even in death.

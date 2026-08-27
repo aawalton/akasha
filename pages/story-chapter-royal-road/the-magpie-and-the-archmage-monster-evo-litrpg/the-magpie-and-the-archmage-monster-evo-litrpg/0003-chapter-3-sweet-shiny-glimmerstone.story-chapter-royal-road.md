@@ -1,0 +1,231 @@
+---
+id: ff2b4a38-8d42-5e73-bdab-335341b08261
+page-type-slug: story-chapter-royal-road
+title: "Chapter 3 – Sweet, Shiny Glimmerstone"
+slug: 0003-chapter-3-sweet-shiny-glimmerstone
+partOf: the-magpie-and-the-archmage-monster-evo-litrpg
+position: 3
+ownLength: 2234
+unit: words
+publishedAt: 2025-08-17
+link: "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2525542/chapter-3-sweet-shiny-glimmerstone"
+royalRoadId: "2525542"
+---
+
+Her beautiful feathers were covered in mud and some lake gunk. This was horrible. Fighting was horrible. She wouldn't let the ugly toad get away with what it had done. There would be vengeance.
+
+Determined to dispose of the toad, she tried to take flight. The partial paralysis the ugly thing had inflicted upon her sent odd twitches through her wings. While they didn't stop her from moving, they wouldn't allow her full aerial mobility.
+
+But that wouldn't stop her, because she was a magpie. She didn't even need her wings to outspeed this fat toad. She ran towards it, determined to pluck its eyes out. However, the toad let out the same kind of thundering croak as before. She jumped back, narrowly avoiding what looked like a small field filled with little sparks.
+
+So that was the attack that paralyzed me? I can't get close like this. It might fully paralyze me if I get hit again.
+
+But she didn't despair. Instead, she put some distance between the creature and looked through her surroundings. The toad jumped lazily after her and released its long, disgusting tongue. It was surprisingly fast, and she just barely managed to hop out of the way.
+
+So you want to make this difficult? Very well. I can make this difficult, too.
+
+She began to circle the toad. Even with the occasional twitch from paralysis, she was much faster. Once in a while, she darted away to pick up a pebble or rock and threw it at the toad. Most of the time, she missed—it was hard to aim and avoid tongue's tongue at the same time, especially with partial paralysis. However, when she finally hit it, she followed up with a quick dash and a merciless peck.
+
+[New skill acquired – Peck.]
+
+[Peck – At [Basic] level allows you to inflict 150% damage by attacking an enemy with your beak.]
+
+Not now, blue box!
+
+She barely managed to jump back from another thundering croak, the outer layer of the field, grazing the tip of her tail feathers.
+
+That was close! Stupid blue box. Why would it appear in the middle of a battle?!
+
+However, there was no time to dwell as the toad continued shooting its tongue at her. Her Peck hadn't been enough to defeat it. Its skin was much tougher than that of a regular toad.
+
+Maybe I can wear it down?
+
+She continued her rocky barrage, but it didn't yield any results. The toad was determined to ignore the rocks and keep her at a distance, and in the end, she ran out of things to throw.
+
+I need a different strategy.
+
+There was a croak from some distance away, and the toad responded to it. Was it calling for help? If more of these uglies came, then there was no way she could defeat them all. She'd be forced to flee. But she can't let this creature get away with marring her feathers. There must be something she could do.
+
+Another croak, from a different place this time. The toad responded. She was running out of time. But an idea flashed in her mind. She darted into the nearby bush, hiding from the toad's sight. It hopped after her, but she had long since made her way to a different bush.
+
+Then she activated her <Mimicry>, replicating the toad when it was responding to its friends. The fool instantly jumped in her direction, believing that one of its allies had already arrived. But as soon came close to the bush, she ran out, Pecking it mercilessly.
+
+This time her beak sank deep into the toad's skull, killing it in one hit. It surprised her how much stronger it was. The System really had made her stronger.
+
+[You've defeated <Spark Toad – Level 1>. Experience gained.]
+
+[You've reached Level 2.]
+
+Eww, I have toad guts on my beak! Disgusting! Why does it smell so bad?
+
+She hurriedly went to rinse off her beak in the lake and returned to the toad's corpse.
+
+I was promised glimmerstones from defeating monsters. Where are they?
+
+Carefully, she poked and prodded around the toad until she found her prize. Something small and glimmering was hidden in the toad's throat sack. Using her beak and talons, she got it out and flew away before the other toads could find her.
+
+[You've acquired a glimmerstone.]
+
+At the same time, a message appeared, and the glimmerstone disappeared from her beak.
+
+"Chak-chak-chak!" She screamed. "Where did my stone go?"
+
+[You currently have 1 glimmerstone. Would you like to retrieve it?]
+
+Retrieve it? So the System stashed it away somewhere? Give me the stone.
+
+As she thought that the stone reappeared in her beak.
+
+Put the stone away.
+
+It disappeared again.
+
+That's neat! Portable glimmerstone storage. I won't have to worry about anyone taking them away. I wonder if I could stash that talking gem in there, too. That would be amazing—I wouldn't have to listen to its constant yapping anymore.
+
+For a moment, she was tempted to go back and hunt more of those toads. But her feathers were dirty, and the paralysis hadn't yet fully worn off, still causing her to twitch occasionally. So after a quick wash in the stream, she flew back to her nest.
+
+"You're back! Oh, thank all the high gods, you survived," the gem exclaimed the moment she returned.
+
+"Caw!" She exclaimed angrily. "Of course, I survived. It was just a toad."
+
+"Reckless birb. You're all wet. Pick me up, so I can view the System logs. I want to know what happened."
+
+She felt like the request was odd, but she certainly didn't mind picking up the beautiful gem. Oh, how it sparkled and shone, its color akin to gold.
+
+"What's with that look? I almost feel violated…"
+
+"Chak-chak-chak," she laughed.
+
+"Not so close! Geez, let's look at your profile and logs."
+
+There was a moment of silence, then the gem sputtered. "You fought a Spark Toad?"
+
+"Spark Toad," she confirmed, putting the gem down on top of her stash.
+
+"You crazy bird. That is literally the worst one you could have picked. Even at Level 1, they can paralyze you, did you know?"
+
+"Know!"
+
+"And you defeated it by just pecking it? How did you get close? Wait, logs show you used <Mimicry>!"
+
+"Buh-rup!" She mimicked the deep croak of the Spark Toad.
+
+"It's creepy how much like the real thing it sounds."
+
+"Chek-chek-chek!" She laughed. "You're just jealous of my superior skill!"
+
+"I wonder what else this skill of yours could achieve… Hmm… Take me along next time you leave. I want to see it in action."
+
+"No," she mimicked his voice.
+
+[Your skill <Mimicry> has reached [Novice] level.]
+
+[Mimicry – At [Novice] level, you can mimic sounds that you have heard before and memorize them.
+
+There's a 20% chance of mimicking sound-based skills. An appropriate amount of mana will be consumed for each attempt.]
+
+"Wait, wait… Mimic sound-based skills? If incantations are included in this, then that's unbelievable. How come a bird gets such an amazing skill?"
+
+"Chek-chek-chek!" She lifted her beak proudly. "Oh-ho! You're finally starting to realize how truly amazing magpies are."
+
+"We have to go test it!" The gem said excitedly.
+
+We? I'm not taking you anywhere.
+
+Her cold stare was answer enough.
+
+"C'mon! I want to see it. Let's go find another Spark Toad and try mimicking its <Paralyzing Croak> skill. I need to know whether it'll really work."
+
+She ignored the gem and began to preen. There was no way she'd get into a fight with wet feathers. Instead of providing smooth gliding over air currents, they'd slow her down and make her flight more unstable. No, unfortunately, her sweet glimmerstones would have to wait until tomorrow.
+
+The human continued begging and bargaining with her, but she just ignored him. At one point, he was cursing her out, which quickly turned into desperate whines as he cursed every god for putting him into this horrendous situation.
+
+What a whiny baby! Is there no way of shutting him up?
+
+Suddenly, through his wails of despair, she heard distant footsteps in the forest. She pecked the gem mercilessly.
+
+"Hey, what was that for?!"
+
+"Chak-chak-chak," she said quietly. "Listen, you fool!"
+
+Thankfully, the gem quieted down, and the sound of footsteps grew louder. Then came the voices.
+
+"There is no way we're going to find that one particular magpie that took the gem. This forest is full of magpies."
+
+"We don't need to find the magpie, just the nest. That's where those pesky thieves stash everything they've stolen."
+
+"Even so… Finding a single nest in this entire forest could take forever. Can't we use a tracking spell?"
+
+"As if the higher-ups would give us a mana signature for something so important!"
+
+"Then they can come and get it themselves!"
+
+"Shut up! Did you already forget what happened to Hector? Just search for the stupid gem. The sooner we find it, the sooner we can go home and relax."
+
+The voices grew distant again as the mages retreated, walking past her tree. Neither she nor the gem said anything for a long while. Only when it was starting to get dark did the gem dare to speak up.
+
+"Seems like it was the right call for me to remain here…"
+
+"Chak-chak-chak," she responded quietly. "Of course."
+
+"I… Thank you. You really saved me back then. I'm afraid to think what would have happened to me if you hadn't snatched me away from those bastards."
+
+She puffed out her feathers happily.
+
+Finally, some recognition. It was about time. Not that I did it for your sake. I just couldn't let this shiny beauty go to waste.
+
+"Let me introduce myself properly. I am Renir, one of the nine Archmages of Velithra Dominion…"
+
+Ugh, really, you're going to tell me your whole life story now? I'm just going to sleep.
+
+With Renir rambling in the background, she fluffed up her feathers and tucked her beak underneath her wing. Before long, she was sound asleep.
+
+"Wake up!"
+
+When she opened her eyes next, the sun was rising above the horizon, indicating that she had slept a whole night.
+
+"Oh, finally! I can't believe you'd just fall asleep while I was talking. I swear, birds have no manners."
+
+Why should I abide by silly human manners? I am a magpie.
+
+She got up and began to stretch her limbs. It was time to get some breakfast, and after that, she'd go and hunt for more glimmerstone. The day was shaping up to be a good one. She was salivating at the idea of filling her nest with shinies.
+
+"Hey, Magpie, concentrate!" Renir called out angrily. "I understand you can't take me with you, at least not for now. However, you need to be careful. Avoid those mages at all costs and level up. That is my best chance of survival!"
+
+If you weren't a shiny gem, I wouldn't care for your survival.
+
+"Spark Toad," she mimicked his phrase from yesterday.
+
+"Fight some other toads first. You might not survive an encounter with a higher-level Spark Toad. Oh, the thing about your Mimicry skill. If you try to reproduce that toad's Paralysis Croak, then know that there is a possibility of magical backlash."
+
+"Magical backlash?" She cocked her head quizzically.
+
+"Your mana is minuscule, right?"
+
+"Caw!" She huffed angrily. "You didn't have to remind me of that!"
+
+"It means that the amount of magic and skills you can perform is very limited. Each time you try to copy a skill with Mimicry, it will cost you mana."
+
+I understand that. Who do you take me for, human?
+
+"But if you don't have enough mana to pay for the skill, you can receive horrible magical backlash. The bigger the mana deficit, the bigger the backlash. In the worst-case scenario, it can even kill you."
+
+Okay, that is actually scary. I'll have to be careful if I try to mimic skills. Best to do it if I'm certain it can give me an edge or if there's no other chance of victory.
+
+With a nod of her head, she left the nest, once again carefully covering the entrance, and flew towards the direction of the lake.
+
+But the forest wasn't the same as before. It was much too silent. The little birds didn't drown the forest with their annoying chirping as they looked for their mates. Her brethren were also strangely silent, as not a single one of her sisters had greeted her this morning.
+
+Just as she was nearing the lake, she noticed another magpie sitting in the canopy of a large pine, mostly hidden from sight. Curious, she flew to the magpie and realized that it was one of her sisters. The one who hatched in the same brood as her.
+
+"Chak-chak-chak!" She said. "Hello, Sister! Is something the matter?"
+
+"Chak-chak-chak!" Sister replied. "I'm so glad to see you safe, Sister!"
+
+"Did something happen? Why is the forest so silent?"
+
+"Humans, Sister! They are digging through our nests and nests of other birds as well and destroying them. Our eggs, our home, our treasure!"
+
+"They're even destroying the eggs?!"
+
+This was bad. She could not let these humans destroy all of their nests, especially when the thing that they wanted was hidden in her nest. She had to get back to her nest before they found it.

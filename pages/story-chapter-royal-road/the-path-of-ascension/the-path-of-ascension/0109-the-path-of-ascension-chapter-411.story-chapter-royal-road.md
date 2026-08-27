@@ -1,0 +1,289 @@
+---
+id: 4d315016-a7ba-5296-9b59-7ac3efebeea1
+page-type-slug: story-chapter-royal-road
+title: "The Path of Ascension Chapter 411"
+slug: 0109-the-path-of-ascension-chapter-411
+partOf: the-path-of-ascension
+position: 109
+ownLength: 4423
+unit: words
+ownProgress: 4423
+publishedAt: 2025-05-16
+link: "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/2284363/the-path-of-ascension-chapter-411"
+royalRoadId: "2284363"
+markedReadAt: "2026-06-29T19:21:34.011Z"
+---
+
+Chapter 411
+
+Emmanuel was surprised.
+
+It was quite the strange feeling, given his frequent use of his father’s Tier 50 Talent for future sight, but he had been genuinely caught off guard when Carissa used the emergency contact while he was occupied. Upon returning to the Empire, he was immensely happy she had done so, but that only contributed to his surprise.
+
+His Ascenders had created a mess.
+
+No, mess was the wrong word.
+
+They had done something unexpected and unaccounted for.
+
+It wasn't what he had expected to happen. What he had seen.
+
+When he had divined the future for the children and their conflict with the cabal, he had seen a fairly straightforward cat and mouse between them until the cabal was slowly unveiled and the battlefield shifted more into the open. And it had continued along those lines right up until the moment Matt and Titan’s Torch had released the information about the skill creation method.
+
+Looking back, he could see how he had underestimated its impact, leading to his surprise.
+
+The method in and of itself had limitless potential, and was guaranteed to change the Realm. That was hardly a shock, but its impact proved wider and deeper than his initial glimpses into the future had suggested.
+
+The skills were always going to change the face of the Realm; they influenced the lower Tiers too much to not do so. But in his original predictions, while the skills ran rampant through the Empire, it was supposed to take longer for the results to truly show themselves.
+
+In a vacuum, that might have held true, and yet the Realm was anything but, which was what made future sight so finicky.
+
+Instead, the skills’ reveal had triggered trillions of individuals' futures to change, which, in turn, propagated further until the waves ruined nearly all of his past predictions.
+
+The consequences of which would need to be teased out of the jumbled mess that was the future, but that was just a matter of finding the time and mana to spend. He had already checked, and both the best and the worst things coming were still on track, though their timings had shifted.
+
+With Matt having Tiered up recently and having doubled his mana again, Emmanuel’s own theoretical maximal regeneration had increased; though he still desperately wished for Matt, Liz, and Aster to advance faster.
+
+The selfish part of him was tempted to go and strangle their problems in the dark, ensuring they had nothing occupying their time and thus allowing them to delve, but he wouldn’t do so.
+
+Even ignoring the fact the conflict had gotten Matt a possible Truth far earlier than he would have otherwise… if he did interfere, then how would he be surprised?
+
+As a Tier 50, let alone a Tier 50 with future sight, there were few things that surprised him. The longer he remained in his position, the more he enjoyed the unexpected, good or ill.
+
+He hadn’t foreseen ‘Marquess Galip’ being caught so soon. That whole fiasco had originally been slated to be the whetstone for one of the Empire’s next generation of Ascenders as the old dynasties shadow faction rose up and tried to maneuver themselves into positions of power, taking over several duchies and making a bid for a kingdom, similar to Frederic.
+
+His Grandmother genuinely hadn’t been able to fully root out the old dynasty, but that was hardly a fault of hers, given the old dynasty’s ties with the Sects Tier 50 at the time, who sheltered them. That act of ‘benevolence’ had allowed them to spread through the other Great Powers and establish their own little shadow organization with the goal of reclaiming the Empire's throne.
+
+In fact, there was still the younger sister of the former Emperor alive and well, pulling the strings from where she thought she was safe and secure.
+
+Their plans might have worked if Emmanuel’s father hadn’t had the power of future sight and ensured they never got any true victories, any meaningful momentum, in their attempts.
+
+Georgios had told Emmanuel his plans for the old dynasty and Emmanuel had agreed, continuing to allow them to seep into sectors of the Empire, particularly those of the Keepers of The Golden Age. Rot infesting and accumulating more rot, allowing for the entire mess to be collected and thrown out all at once, instead of needing several efforts, which would just splinter the groups further.
+
+It would have been a marvelous stroke of planning and foresight but it was, at least partially, ruined by the efforts of his current Ascenders.
+
+It wasn’t just Matt, though his contribution was outsized, but all of them working together which jumbled the future and bent it to their will.
+
+If Matt hadn’t been so selfless with his releasing of the aura rifts creation method, Nardo da Molin’s Concept wouldn’t have shattered, allowing him to finally confront his past and see the error of his thinking. If they had confronted the version of Nardo who didn’t have his Aspect and his way out of the Realm to avoid the consequences of his actions, he would have never turned on any of the societies, let alone his.
+
+If Allie hadn’t been able to teleport the group across the Empire effortlessly, they would have been too late to even talk to Nardo, and would have missed out on the opportunity altogether.
+
+If Liz hadn’t had the group pause as Nardo was reveling in the success of his Aspect’s creation, he would have Ascended before anyone could have stopped him, just wanting to leave before being confronted with an ill-spent lifetime's consequences.
+
+If Aster hadn’t stopped Nardo for selfless reasons, he wouldn’t have subtly updated the information he passed on to contain the secret of Marquess Galip being a traitor, along with a few other key secrets of the Keepers of The Golden Age.
+
+So many things had to go just the right way for Nardo to truly turn on his society so deeply. But they had, and so he had.
+
+Which left Emmanuel surprised and amused.
+
+Even Aunt Helen had gotten her dream of wholly repairing her Concept almost a full five years earlier than she, or he, had originally thought possible. The woman of the hour was now enjoying invites from everyone who was anyone, including a particular bird who still had a clone dancing on the border even after she had thanked him personally. But Emmanuel simply wished her well. She, if anyone, deserved to celebrate so much hard work.
+
+Though he was really going to have to chase away that pigeon if he didn’t leave the border. It might be innocent in nature but having a Tier 50 so close to his space did not put Emmanuel in a pleasant mood.
+
+Now he had to pivot his plans on the fly, but that was… workable.
+
+The old dynasty would retreat into the shadows again. There were good odds they failed and their ploys were dragged into the light, but there was a thread of hope for them in the current iterations he had seen, though it was temporary. Even if they managed it, he would root them out when the inevitable true war happened, if it didn’t happen before that.
+
+The odds were in flux, and with a Tier 46, particularly her, leading the effort, there was a good bit of uncertainty in the predictions, even without everything else being in such turmoil.
+
+Either way, it would be fine. His father had already made ample preparation and he hadn’t slacked on his own.
+
+This generation of Ascenders might just clear out the worst of the societies themselves, even if they didn’t take out the festering remnants of the old dynasty at the same time.
+
+Emmanuel had originally planned on using that source of conflict a few more times, but as things were escalating, that seemed unlikely.
+
+Executions, at least state done ones, were like celebrations, and that was reflected in the atmosphere simmering in the Capital. Every noble who could make it to the Capital in time did so, and that led to parties and celebrations, as people wanted to mingle and feel good about the triumph. Even if they hadn’t done anything.
+
+Amusingly, his Ascenders, the cause of the event, were intending to arrive late, but a quick message solved that.
+
+He didn’t order them to arrive early because of his future sight showing him anything, but because he wanted them to enjoy the celebrations. That, and if his plans were going to be ruined because of them, he was going to make them suffer a tiny bit in return.
+
+A little harmless fun. The societies were too busy burning anything they thought might be compromised so the children would make no more progress on that front for a while. And given what he saw for the cabal’s eventual return strike, they could use the celebration.
+
+Still, there was time.
+
+On the scheduled day of the execution, the Capital bustled as people jockeyed to get a glimpse of the now-revealed Marquess Galip.
+
+Personally, Emmanuel would have preferred to keep an execution quieter and more lowkey, but he had seen the old dynasty’s way of ruling and its consequences better than most.
+
+When he fell off the Path and his father started preparing him to take on the burden of the throne, he had been forced to review every piece of media they had about the old dynasty. From documentaries about specific issues, diaries of the commoner serfs, to firsthand accounts from people of all walks of life who were still alive.
+
+The old dynasty deserved to be eradicated, and so he’d allow the public to vent.
+
+He was hardly present as he went through the initial motions, instead working on all of the paperwork he had missed while he was busy. But when the moment came, he brought his full attention to Galip as he changed his Talent set.
+
+“Do you have any last words you wish to say?”
+
+Galip glared up at him, venom in his gaze. “One day your dynasty will fall just like th—”
+
+Emmanuel cut him off with a pulse that disrupted his brain enough to stop the words from forming, but without harming him. It wouldn't do to allow him to invoke the name and call her attention to them. It was almost a clever idea, but one that Emmanuel was long prepared for, and it would ruin some of his preparations, and some of his future fun, if she knew he could block her Talent.
+
+Besides, he didn’t want her getting such an intimate glimpse of the proceedings. Better to let her stew on it all with only carefully curated recordings to satisfy her.
+
+Leaning down, he spoke so only Galip could hear him, letting a hint of theatrics slip into his voice. “Don’t bother with your games. I already know it all. I know how the second one made you back out of every room facing them or they would attack you. I know how the fourth one made you serve in those outfits. I know that the first prefers orange juice to grape juice. I know she still burns with indignation that her brother was chosen to take over the throne instead of her, and then lost it all. I know it all. Now, any last words?”
+
+He wasn’t intentionally cruel to just be cruel. Emmanuel wanted to ensure he got everything out of the man before he killed him and the Talent combination he was using was better with strong emotions and wandering thoughts.
+
+Galip’s mouth moved before he croaked out one word. “Why?”
+
+Emmanuel wanted to roll his eyes, but instead smiled. “A bogeyman is useful, but do you know what is more useful than something that goes bump in the night? The hero who slew said bogeyman.”
+
+That proved to be the right thing to say, and his Talent combination was able to dig deep into Galip’s history, getting around the barriers she had created to ward off Georgios’ Talents.
+
+Being used as a known stepping stone must have been a more prevalent fear in the man's mind than Emmanuel had expected, or possibly even the old dynasty loyalists as a whole, given the rush of information he received.
+
+Standing, Emmanuel made the kill clean, disintegrating the man's brain faster than he could process, all while talking about the glory of the Empire and the Sophron dynasty.
+
+When all of the Royals confirmed the burst of essence that signified the traitor's death, Emmanuel waved a hand and disintegrated the rest of the body.
+
+Turning to his Ascenders, old and new alike, he smiled. “Well, haven’t you been busy?”
+
+***
+
+Melinda sat in the grass of the estate she and Mathew had been given once it became clear that finishing her Intent wouldn’t quite be as easy as she had hoped.
+
+As the door to the courtyard opened and Mathew walked out carrying a tray of snacks, she smiled up at him. “Thank you.”
+
+She wasn’t particularly hungry, but she knew if she didn’t eat now, she’d get distracted and find herself ravenous. But her husband always knew what she needed when she needed it. She refused to do the modifications that made her desire for food completely go away, instead opting for the one that turned it off for a set amount of time. But even then, she hated doing it. Eating was part of what kept her grounded to herself and to life itself.
+
+Sitting next to each other, they watched as Palustris rotated above them.
+
+Poking her husband, she asked, “What are you thinking?”
+
+Mathew took a few seconds to chew as he thought before he responded. “Just considering life. Ours and others. A few hours ago I was hanging out with Matt, when bam! They’re off capturing traitors and making Tier 45s ascend. I know they are important figures, but sometimes it takes me out of it when it happens right in front of us.” His gaze turned strange as he added, “And even you. You’re being groomed to become one of the Empire's leading healers. It's just not where I thought we would be when we were younger.”
+
+Looking into his face, Melinda tried to figure out if he was worried about them as a couple. Things weren’t always easy with the expectations the Empire put on her, but her main priority was her family.
+
+Sure, she didn’t get to see the others quite as much as she’d like. Allie offered and did teleport her or them when asked, but it wasn’t the same, as none of them wanted to really lean on her. Allie never complained about helping them out, but Melinda knew the teleporter really truly hated to be taken for granted, and the others just weren’t familiar enough with her to feel comfortable to ask her unless it was important.
+
+At least Mathew was generally kept near her and given rift slots when she was busy, when he himself wasn’t busy running his training hall.
+
+He was actually Tier 24 and equipped with an Intent, ready to step through that barrier whenever she was, but he was willing to wait for her.
+
+She considered trying to get him to advance further once more, but suspected it would be a futile effort, even with her making appreciable progress on her Intent.
+
+Melinda well knew the Empire, or rather Moon, would be shoving her into another cleared out Tier 47 rift the moment she completed her Intent so she could pack as much medical advancement into her spirit as was possible, and she was not looking forward to the extended time again.
+
+She couldn’t deny its usefulness, but it was brutal work that drained her.
+
+Hopefully, she could argue for a slower pace to Tier 25. She knew the Emperor was hoping her Tier 25 Talent could heal spiritual damage, and was in a bit of a rush to find out without ruining her Tier 3. It wasn’t that she didn’t agree and didn’t want to reach Tier 25 herself, but she doubted her Talent would be so convenient.
+
+The more she learned about overhealth, and her Talent in particular, the more she learned that it was about reading a person's spirit to heal the body, rather than interacting with the spirit itself.
+
+A pity, but Melinda secretly relished the idea of a limit to her Talent.
+
+She was constantly surrounded by great healers who were astounded by what she could accomplish, but the reality was they weren't impressed with what she could do, just her Talent. She wanted to heal, she liked healing, and she was grateful that her Talent let her do more with less. But she also wanted to show her own abilities.
+
+She was a damn good healer. She had not only pushed her Talent, she had learned every skill that could be expected of a healer ten Tiers higher than her. Yet it was often overlooked or just entirely unneeded because of her Talent.
+
+And so, a part of her wanted her Talent to be something else less perfect.
+
+Melinda wouldn’t be mad if her Talent ended up being spiritual healing, but she wouldn’t be upset if it didn’t either.
+
+Still, she kept that part to herself, knowing how selfish that desire was.
+
+Even just the unfortunates Matt had sent her medical records of could use the help, let alone the countless others who had spiritual damage they either couldn’t heal or would take hundreds or thousands of years to repair on its own.
+
+That had been a bit of an eye opening experience, even beyond the inspiration to her Domain, but seeing the reports of the other healers and their results had been inspiring. And once her Intent was created, she intended to leverage her efforts in the direction of less direct spiritual damage.
+
+Still, none of that answered Mathew’s concerns. “I don’t think it's a bad thing. We are friends with them despite them being, well, Ascenders.”
+
+Mathew nodded. “I just sometimes feel like we can’t repay what they give us. I know the arguments about it being easy or not costly for them, but I still feel bad sometimes. I know it doesn't make sense and they don’t see it that way, but any time I hang out with them I can’t help but feel they are wasting their time doing so, and could be doing something more important. It’s dumb but I… I just. Ugh.”
+
+Melinda understood, as Mathew had said such things before, but she didn’t see it that way. Matt, Liz, and Aster, let alone Allie, Zack, Susanne, and everyone else of higher station than themselves, were their friends because they still treated them like normal people, despite their status. Mathew tried to understand, but having not really lived with that experience, didn’t realize just how valuable that was.
+
+She deeply understood, but that might be part of the problem.
+
+Rubbing his arm, she prompted him on one of the ideas he had been bandying about.
+
+“What about your idea to expand the training hall with a skill creation branch? Dedicated trainers help a ton over self-study. At a minimum, the time savings are valuable for the kids and you might discover something yourself. How cool would that be if people started using a skill upgrade path thingy that you yourself made?”
+
+Mathew shook his head slightly.
+
+“I have b—”
+
+Melinda knew what he was going to say and shoved her head into his broad chest, groaning playfully.
+
+“Please don’t say you're not good enough.”
+
+Laughing, he let himself fall to the ground where they were able to cuddle.
+
+After considering her words, she said, “You're underselling yourself, honey. I won’t force it, but I really think you ought to pursue it.”
+
+Mathew sighed. “Love, I know it's impressive I made all five skills in just seven years, but that's not the fastest. It's decent, but there are thousands of decent people with the new skills. Why do they need me to throw my hat into the ring? It’s better I keep quiet and ensure there is more space for the truly exceptional.”
+
+Sitting up, Melinda gave Mathew a hard look. “Stop selling yourself short. I want you to go for it. I—” he opened his mouth to interrupt her, but she put a finger to his lips so she could finish. “You’ve gotten in your own head. I need you to trust me and just go for it. You have a lot to offer if you would just try. You don’t need to be the best, that's not what the people you help need. They just need help, and you are head and shoulders above that standard.”
+
+Seeing him force out a grin, Melinda retracted her finger to replace it with a quick peck.
+
+“Maybe you are right. I just sometimes feel like I’m out of my depth, you know?”
+
+Melinda blew a raspberry on his neck, causing him to squirm. “Yes, doofus. I do know the feeling. And if you’d open up to Matt and the others, I’m sure they’d say the exact same things.”
+
+“They would jus—” stopping, Mathew caught himself. “I’m doing it again aren't I?”
+
+“Yes, but you are learning.”
+
+“Maybe I should expand the school. I do think the skills will be impactful. Even now they are making waves, but I think it's only the beginning. In another hundred years I think things will really start to change, and I can’t even predict what low level delving will look like past that.”
+
+Poking him in the rib, Melinda encouraged him more. “Then rise with the tide. Push the limits and then maybe you can even teach the guild something about the skills.”
+
+Mathew cackled at the idea. “Now that would be funny. Could you imagine Matt’s face if I was giving a lecture on the skills when he came back.”
+
+Together, they relaxed for a few more hours before she had to go back to working on her Anchor.
+
+Her vain hope that she’d just run into the perfect monster or something like that hadn’t panned out.
+
+All of the monsters felt partially right, but none of them were perfect, which told her she was once more close to the right idea, but not quite there yet. With that in mind, she had recently been considering different Anchors.
+
+Her current idea was a seed that blossomed into whatever she needed, but it still wasn’t quite right.
+
+The second half of the idea, her Anchor being malleable, felt right. But the first half, the seed, was only close— not exactly what she needed.
+
+Flying down to Palustris and donning a mask to conceal her identity, she visited random seed and flower shops, just trying to see if any of the new stock called to her. But despite visiting over fifty shops, nothing clicked.
+
+She contemplated visiting Aster’s capital, weighing the discomfort of the architectural designs the Federation had made with her effort levels.
+
+Eventually, she forced herself forward.
+
+Aster’s capital was objectively fine, and neighboring Palustris, as well as five other Empire worlds, was leading to distinct changes, even less than a hundred or so years into the integration process. But everything still felt slightly alien.
+
+Making her way to a local flower shop, she was distracted by a small healing clinic with half a dozen people inside waiting to be seen.
+
+Unable to stop herself, she entered the clinic and stepped into the back, waiting for the healer, a Tier 8, to finish with their current patient before introducing herself.
+
+She was looked at with suspicion, as she didn’t show her Tier or real identity, but rather one of the many false healing identities she had, not wanting to get too entangled.
+
+After proving she was competent and able to prescribe the proper medicine to a father and his daughter who had both come down with a variation of whooping cough that had lingered for two months already, she was given leave to see patients so long as she ran her diagnosis through the healer.
+
+Internally amused, she didn’t complain and just fell into the rhythm of being a local healer.
+
+It was nice. She wouldn’t say she preferred it, but she didn’t mind it. Hospital work was frantic, with something new every day as injuries and rare cases were sent to them, which kept things interesting. But it was sometimes nice to just help people by prescribing a new diet, suggesting a new workout regime that would be less impactful on their aging joints, or just walking a young teen through the embarrassing facts of puberty and how best to handle all that was coming.
+
+While she wanted to be able to heal the worst of the injuries, this was also an important part of being a healer.
+
+When the backlog was cleared up, she quietly slipped out, looking while she went to check a few flower stores.
+
+In her walk, she paused as her gaze was caught by one of the Federation playground devices. Someone had gathered a tube of algae that absorbed sunlight and released it at night for a soft but inviting glow.
+
+She had considered algae before and discarded the idea, but seeing the functional art piece, she reconsidered.
+
+Still not perfect, she continued on until her eyes were drawn to the small expansion joints in the sidewalk, where small amounts of life thrived even under the feet of thousands. A few hardy grasses, but mainly the fungi and mosses.
+
+Both were part of the ecosystem just as much as flowers and trees.
+
+Why should she choose?
+
+She wanted life, not a specific kind of life. She had seen the many things life could form from death in the rifts Matt was kind enough to build, but it was as varied as the real world.
+
+Maybe her answer was as simple as that?
+
+Life was life and propagated and spread in all manner of ways and forms.
+
+Stepping to the side, she held out her hand and pictured a seed— not a particular seed, but a generic one, the idea of a seed, which could birth anything from a creeping moss to a towering tree.
+
+Melinda didn’t instantly form her Anchor, but she felt—no, she knew— that she was on the right path.
+
+It was now just a matter of time and effort.
+
+She had never been afraid of those though.

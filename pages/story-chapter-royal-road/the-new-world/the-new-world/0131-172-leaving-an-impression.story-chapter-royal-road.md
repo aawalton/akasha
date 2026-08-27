@@ -1,0 +1,265 @@
+---
+id: 554cf1ed-81c9-5b6c-beba-e79cd596e1e5
+page-type-slug: story-chapter-royal-road
+title: "172 Leaving an Impression"
+slug: 0131-172-leaving-an-impression
+partOf: the-new-world
+position: 131
+ownLength: 3053
+unit: words
+ownProgress: 3053
+publishedAt: 2019-01-04
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/321048/172-leaving-an-impression"
+royalRoadId: "321048"
+markedReadAt: "2026-06-29T21:36:09.220Z"
+---
+
+Torix nodded his head, "He is quite resilient."
+
+Tohtella sighed, "Then if you all agree with his plan, I will trust in your competence as a whole."
+
+Torix turned to me, "I will blanket the landing position with darkness. This will prevent us from luring in a horde of angry silvers."
+
+A message popped up in front of me,
+
+Torix Worm, of Darkhill(Giess: 3/04/26) - It will hide your identity. I will give another spare suit of armor. Put it on before you leave the magic field.
+
+I grinned, holding down a laugh, "Alright, sounds like a good idea to me."
+
+Tohtella gave us a curt nod, "I'll organize the necessary medical supplies for treating the yana infestations. The slaves will need immediate detox and surgical treatments."
+
+I frowned, "That was something I've meant to ask. How are the slaves able to live there? I saw them eating that sludge. There's no way they should be alive."
+
+Tohtella bit her lip. She adjusted her glasses, "Part of my work involves researching the silvers. One of the most reliable sources of information involves old legends from gialgathens."
+
+She waved a hand, "Particularly in regards to the yana worms. Gialgathens view yana as mythical, terrifying creatures. They are one of the only silvers that can threaten gialgathens. Though it isn't widely known, the highest punishment in gialgathen culture involves the yana."
+
+Tohtella jotted something on her notes, "They would infest a traitor with the worms and throw them deep into silver territory with clipped wings. This is a slow death sentence, one where the beast loses its mind as the yana take over."
+
+I grimaced. The first zombie gialgathen I fought on Giess was a result of that punishment. Well, probably.
+
+Tohtella continued, "They learned several characteristics about the yana during those punishments. The host feeds the yana sludge. The yana then excretes nutrients in turn. My own findings verified this."
+
+Althea shook her head, "That's disgusting."
+
+Torix nodded, "Indeed it is, but it's useful information. Are the gialgathens doing this as well?"
+
+Tohtella shook her head, "There metabolisms can tolerate silver flesh despite it being loaded with toxins."
+
+I raised my eyebrows, "Wow. Alright then, well that's even more reason to kill the Skyburners then."
+
+One of the bottom floor doors opened. Kessiah walked out, her veil covering her. Tohtella turned to her. After a few seconds, her gaze turned sharp,
+
+"You didn't tell me that you had another remnant with you?"
+
+Kessiah raised a hand, "Yo, who are you?"
+
+Tohtella crossed her arms, "I'm Tohtella Adair. You may call me Miss Adair."
+
+Kessiah rolled her eyes, "Ok Miss Adair. I'm Kessiah Crow. Looks like you saw through my disguise right away. Sucks I had to put it on."
+
+Tohtella adjusted her glasses, "It's due to your low level."
+
+Kessiah tilted her head, "Low is a little harsh, don't you think?"
+
+Tohtella raised a hand to her, "No. It's not. The Crow clan is famous for their physical augmentations and Blood Arts. Not even level 3,000 is a travesty considering your birth."
+
+Kessiah crossed her arms, walking in front of Tohtella, "Oh, so you know a thing or two?"
+
+Tohtella raised her head, her chin high, "Yes. I do know quite a bit, like how you're a rather bitter disappointment."
+
+I turned to Tohtella and snapped,
+
+"Kessiah's a friend. You shit on her, then you're shitting on me. Understand?"
+
+Tohtella glared up at me. She sighed, composing herself, "It's...I'm sorry. Please excuse me."
+
+Tohtella waved her hands, "This discussion is over either way. We've formulated a plan. I will go about handling the details. Will tonight work for you all?"
+
+We nodded. I kept my gaze on Tohtella as she walked out. As the door closed, I turned to Kessiah, "Any idea where that came from?"
+
+Kessiah shrugged, "I don't know. She's got problems though, that's for sure."
+
+Torix sighed, "It's best we do not assume much. Now, I'll go prepare the necessary scrolls, gems, and supplies. You all do as you will."
+
+Althea stood up, weaving between furniture to me. She wrapped her hands around me, "Hey big guy. That was sexy standing up to her like that."
+
+I smiled at her, "Eh, I try."
+
+Althea raised her eyebrows, "Oh, wait a minute. Did you forget what today is?"
+
+I creased my brows, "Er, maybe."
+
+Althea smirked, "I'll give you a hint...tournament."
+
+I smacked my facemask, "Oh fuck. I completely forgot."
+
+I hugged Althea, "Sorry, got to go."
+
+She giggled, "Try not to crash through a wall getting there."
+
+I opened my dimensional storage. I tore open three packs of rations, pouring them down my throat. I tossed the bags into the garbage, running outside. I dashed into the elevator, tapping my foot with impatience. After reaching the bottom, I leaped over a crowd of people in the lobby.
+
+After swishing through the doors, I pulled myself up over the crowds with magic. I floated over the hordes of espens and aliens, reaching the stadium in seconds. I ran inside, running out the bleachers. I looked around, finding the seating for combatants.
+
+I jumped over the crowd, keeping myself light with a touch of gravity magic. I landed in my previous chair. I leaned back into my seat, opening my status. I checked the tournament rankings online with my obelisk. I tilted my head back, sinking into my chair with relief. There was still a fight left before I was up.
+
+As I relaxed, Eradin shouted at me from afar, "Here I believed you might miss our fated duel?"
+
+I shook my head, "Almost. I had some business to take care of earlier today."
+
+Eradin chuckled, "Good. I hope you're ready for a friendly thrashing."
+
+I laughed back, "Only if you are too."
+
+I watched the next fight while keeping my eyes closed. This trained Hunter of Many. At the same time, I heated and cooled my favorite chunk of orichalcum. Putting myself under some stress, I trained my mental skills at the same time as well.
+
+With all that going on, the fight in front of me dragged on forever. Two fighters like Jilian fought one another. They both unloaded hundreds of shells at each other. I tuned it out after half an hour, focusing on my own skills.
+
+My mind wandered as I adapted to the mental stress. The entire tournament progressed oddly. It wasn't straightforward with one person versus another. It involved an intricate set of branches, each designed for an outcome.
+
+For example, every gialgathen began the tournament by fighting another gialgathen. This halved the pool of gialgathens that other combatants had to face. Whoever organized the competition did everything they could to make the gialgathens lose.
+
+I stopped my exercises, ready for my next fight. I scrolled through the previous tournament's rosters. For the last decade, every one of them involved gialgathens facing each other exclusively. This meant only one gialgathen fought on into the upper ranks of the tourney.
+
+I frowned at it. It was a biased schedule that tried eliminating the gialgathens. The gialgathens were so strong, however, that it didn't work. A Breaker would need to join the tournament to win. I doubted many of them found the time between completing bounties.
+
+I closed my status, irritated at whoever ran this thing. I sighed, calming myself and readying myself for the next fight. Mental Preparation leveled up as one of the gunmen collapsed from exhaustion. Kiki Mosk raised a hand,
+
+"And that is Kelevar's defeat. Give a hand to Moisc!"
+
+Next to no one cheered. For once, I sympathized with the crowd's reaction. Neither fighter stood a chance against a gialgathen. They wasted the crowd's time with an hour-long bout of boredom. It let me level a few skills at least.
+
+With the snooze fest over, Kiki Mosk raised a hand, "And now for the final four fights for the Yildraza sector. After this, the winner will go on to compete against the best of the best in Giess's oldest city, Choria! There, the tournament's victor will be decided."
+
+He gestured towards me, "We have an exhibition of talent on display today. We have the unstoppable Daniel Hillside, a newcomer with a brutal reputation of dominance."
+
+A light flashed over me. I sighed, going through the motions of raising my hand and riling up everybody. Kiki continued,
+
+"He'll be fighting four combatants in a row today to test if he's as invincible as they say! After all, the true test of a fighter is overcoming adversity."
+
+I rolled my shoulders. If I were struggling, I'd call bullshit on this kind of thing. As if though, I counted my blessings. This meant I didn't need to spend forever waiting for my fights anymore. I could finish this in one hour if I hurried.
+
+I jumped into the arena, clasping my fists. Kiki roared out, "And he looks like he's itching for a fight! The first combatant will be the winner of the last bout, Moisc!"
+
+He didn't even announce his last name. Covered in gray power armor. He got back onto the arena's stage, still out of breath from his last fight. It sucked he had to fight me while exhausted. I'd win either way, but he couldn't give his best. As a guy who's competed before, I sympathized.
+
+As we faced each other, I gave him a short bow. He did the same. I raised a hand and shouted, "Sorry you have to fight like this."
+
+He shrugged, "Eh, I knew I wasn't winning the tournament anyway. I'm just here for the experience. I got further than I ever expected anyway."
+
+I liked his positive attitude. Kiki Mosk raised a hand, "Are both combatants ready?"
+
+We nodded. Kiki swung his hand down. I stomped the ground, lifting a panel of stone between Moisc and I. With Hunter of Many, I tracked his location from behind cover. I raised a foot, kicking forward. I extended my reach with telekinesis, busting his shielding.
+
+Moisc already fired at me, unlatching a grenade. I thumped the projectile with telekinesis. The bomb smacked the forcefield around the arena, letting out a vibrant, blue fire. With crowd letting out a cheer, I kicked again, shattering Moisc's secondary mana shield.
+
+Moisc opened his dimensional storage, his desperation building. Before he pulled something out, I launched a short uppercut. A telekinetic pulse smashed into his gut, knocking him upwards. Spit flopped out of his mouth as he couldn't breathe.
+
+He tumbled from above, stunned and gasping for air. I caught him with a gravity well. At the same time, I kicked the block of stone between us back onto the arena. Kiki raised his eyebrows,
+
+"Yeesh, that must of hurt. On to Daniel's next opponent!"
+
+Moisc's breath returned to him as the medics came up. He let them carry him out on a hovering stretcher. My next opponent flew up from the stands, a large gialgathen. He wore armor over his neck and chest. With red skin and black spots, he glared at me. He growled,
+
+"Filthy dirtwalker. You will not play with me as you did Alzoroth."
+
+I nodded, "You're right. I won't. I don't have time too."
+
+He narrowed his eyes. He breathed in as Kiki raised a hand, "Are both combatants prepared!"
+
+We gave the nod, the gialgathen still breathing deep. Kiki raised a fist, "Then go!"
+
+I snapped a kick upwards, hitting a telekinetic panel. A portion of the force converted, hitting the gialgathen's chin as he breathed fire at me. The green flame dispersed on the arena's invisible barrier, creating a light show. The crowd boomed out, in awe at the display of light and power.
+
+I wasted no time. As the gialgathen's breath sputtered out, I reached out a hand. I jerked the gialgathen's head towards me, accentuating my pull with gravity. His head whipped down while I launched myself upwards. I lifted my knee, landing the blow flush on his jaw.
+
+My armor creaked as the bones in his face cracked. Several of his teeth shattered, tumbling against the arena. Knocked out cold, his head flopped to his side. I caught it, preventing him from suffering more damage. As I set him down, the crowd went quiet.
+
+Even Kiki looked affected. He pulled at his collar, "Well...that was something." A drop of cold sweat fell down his face, "Ahem, the winner!"
+
+The throngs of supporters burst into applause, giving me a standing ovation. I gave them a wave while lifting the gialgathen out of the arena with magic. Medics tended to his injuries while I cracked my neck. I growled, "Come on. Who's next?"
+
+Kiki raised his eyebrows, "The next victim is a veteran of the tournament. We have Eradin Forest-Torch!"
+
+Eradin flew up into the arena. As he landed, the old beast sighed, "And here I believed I might win Yildraza's selection this year."
+
+I shrugged, "You can still win."
+
+He shook his head, a toothy grin on his face, "I do have two eyes, young one.  What they just saw gave me a clear message."
+
+His tail whipped behind him, picking up speed as he continued, "Eradin, you should've retired before this last fight."
+
+I raised my hands, "Eh, we'll see."
+
+Kiki Mosk raised a hand, "Are both combatants ready?"
+
+We nodded. Kiki swung his arm down, "Then begin!"
+
+I gave Eradin a bow, and he returned the favor. The crowd booed, wanting more drama. I rolled my eyes as I charged mana. Eradin stepped forward, whipping his tail towards me. I slammed my arm into his attack, knocking it down onto the arena.
+
+The arena crumbled, a plume of white powder rising. Eradin flicked his tail slamming it towards me again. I detonated my runes, dashing forward as he did. Eradin pierced deep into the arena as I bolted towards his face. With momentum behind me, I slammed my fist into his face
+
+The old gialgathen's head whipped back. He stumbled, still conscious. Eradin's eyes glazed over as he fell. He crashed off the arena, a clash of sound rippling out. He tried getting back up, but he was too disoriented. I looked up, waiting for Kiki to end the fight.
+
+He didn't.
+
+The crowd chanted, "Finish him. Finish him. Finish him." The old gialgathen shook his head, getting a sense of where he was. He looked around, his eyebrows creased. I waved my hand, shouting at Kiki,
+
+"Just end the fight already. Eradin doesn't even know where he is."
+
+Kiki shook his head, "He can still battle. Just listen to the crowd."
+
+Kiki grinned, a sinister edge in his voice. I frowned as Eradin locked eyes with me. He stared a for a moment before his huge eyes widened. He glanced down,
+
+"I...I lost, didn't I?"
+
+I nodded. Eradin raised a wing, letting out a mental shout, "I surrender. He has beaten me. Honor to him and his clan."
+
+The crowd booed, their hatred for the gialgathens coming out. A few people shouted,
+
+"Where's the blood?"
+
+"I wanted to see some more missing teeth."
+
+"He's crushed dozens of espens with his bullshit tail. He has it coming!"
+
+The crowd's reaction disgusted me. A few people tried throwing food and drinks at Eradin while he was down. I shot out a wave of gravity, slamming the food back into the arena.
+
+This shit was getting old fast.
+
+Kiki sighed, "Well, it's well within tournament regulations to surrender."
+
+He raised a hand to me, "To the victor!"
+
+The crowd changed on a dime, giving me an enormous hoopla. The mob repulsed me at this point. I just wanted to win the mythical compendium then get out of here. All this easy fame and status came from their hatred of gialgathens. My integrity wouldn't let me accept it.
+
+With those thoughts swirling in my head, the crowd calmed back down. Kiki raised another hand, "And now we have the final fight for the Yildraza sector. The last gialgathen and last year's winner, give a hand for Derlilath, Lady Of The Yellow!"
+
+A chorus of boos echoed out as a yellow gialgathen flapped her wings. Old and muscled, she landed in front of me. She almost glowed with energy, her armor encrusted with gemstones. She grinned at me, her voice commanding,
+
+"It's good to see they've brought a worthy warrior this year."
+
+I grinned back, "Likewise."
+
+Unlike the others, she looked like a serious challenge, so I analyzed her,
+
+Delilath, Lady of Yellow(lvl 10,031 | Unknown Status) - Once a general of Lehesion's army, Delilath worked as one of the gialgathen's most powerful mages. She's placed in the top five of the tournament for the last seven years since she's decided to compete.
+
+Though she once fought to help the espens, public opinion turned against her. Numerous campaigns by prominent figures such as Thisbey Thorn or Azakus Riola ruined the reputation of Lehesion's followers. With rumormongering and propaganda, they've turned Delilath from a celebrated hero to a scorned symbol.
+
+Regardless of her affiliation with politics, Delilath's competence in battle is undeniable. She wields ancient magics only known by the gialgathens. By drawing mana from her surroundings, she opens up her own mana pool to enhance her tail swipes. This combination of control-oriented sorcery and physical ferocity makes her threatening to almost anyone.
+
+Be careful and tread with caution.
+
+I smiled, my blood boiling at her status. This would be an actual fight, and that prospect excited me to no end. I pounded my fists together, denting my gray armor and letting out an echo. Delilath channeled her energy, soft, yellow spheres forming around her.
+
+Dozens of yellow stars formed beside her, a sweet-smelling wind rushing over me. I followed suit, charging up my own mana. The air around us saturated with energy, our auras intermingling. Sparks of red lightning shot from me, my blood permeated with volatile energy.
+
+Kiki backed away, raising his eyebrows, "Well, both combatants look as though they want to tear each other apart."
+
+A happy grin grew over his face, "Excellent! Are both combatants ready?"
+
+With her chin held high, Delilath nodded. I shook my fists, mana saturating my frame. Kiki laughed, "I'll take that as a yes."
+
+He swung his hand down, "Let the battle to decide who represents Yildraza begin!"

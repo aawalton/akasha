@@ -1,0 +1,285 @@
+---
+id: cb5762d2-a6e1-5ac0-bc52-57d9dd2c8924
+page-type-slug: story-chapter-royal-road
+title: "189 A Close Call"
+slug: 0148-189-a-close-call
+partOf: the-new-world
+position: 148
+ownLength: 3764
+unit: words
+ownProgress: 3764
+publishedAt: 2019-03-03
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/339273/189-a-close-call"
+royalRoadId: "339273"
+markedReadAt: "2026-06-29T21:25:52.841Z"
+---
+
+Torix floated over towards me, his arms crossed. One of the blue mage-frog-dragons stammered, "I...we were sent here by Lehesion to spread the silvers."
+
+I waved my hand in a circle, "Anything else?"
+
+The mammoth beast squeaked out, "Lehesion told us that Giess had drifted from the olden ways and needed to be cleansed."
+
+My shoulders drooped, "What the fuck?"
+
+The blue mage nodded, "Lehesion understands that we gialgathens are superior to the espens. That is why he fought for their freedom. He understood that they would never be capable of freeing themselves as Emagrotha touted."
+
+The blue gialgathen stood up, his knees shaking, "Now that the espens are gaining power, Lehesion is restoring balance to Giess. We can live with the silvers around us. Espens cannot. They shall cleanse the espens, and then we will remain, victorious and overwhelming."
+
+Torix pinched the bridge of his nose while staring down, "And tell me, did Lehesion ever mention how you'd rid yourselves of the silvers once they covered Giess?"
+
+The blue mage froze in place, a wrench thrown into his internal logic. He stammered out, "I...I am certain that Lehesion understands the implications and has a plan set out to fix them."
+
+I shook my head, "You have no idea how hard it is to get rid of them. You have to strip the metal from the ground and kill the saysha beetles. Otherwise, they just grow the metal right back. Now do all that bullshit while the silvers attack you from all sides. It's nearly impossible."
+
+Torix sighed, "You'd need a talented Fringe Walker to make any progress. Even then, it would be slow and hard work."
+
+The Eclipse Maker shouted with a hoarse voice, "I am but an ignorant acolyte of Lehesion. Such intricacies are beyond me."
+
+One of the mages waved his tail in a circle. I kept my eye on him as Torix continued, "Your ignorance is his manipulation. Lehesion is using your talents to further his own agenda. You have a choice here. If you prove useful, we can use you all to further our needs."
+
+Torix gestured to all of them, "All of you will need to cast aside this...religion you have with Lehesion, however."
+
+Another gialgathen swung his tail in a circle as well, some mana welling above us. I whispered, "They're trying to kill us...again."
+
+Torix whispered back, "Pin them down."
+
+The two beasts waving their tails heard us, each of them roaring out. Before they finished their spells, I reached out my hands. I clasped my fists, jettisoning out immense rivers of mana above the two gialgathen's heads. Above them, the rock melted, splashing over them in scalding lava. I hardened the rock, forming rock around them.
+
+Torix lifted his staff and swung it in a circle at the same time. A spiral, darkwave erupted from the icy cane. Before it crashed into the galvanized gialgathens, Torix tossed his staff up. He pointed his two palms at the calcified mages. A celestial light illuminated from the cracks in their stone prisons before the black mana blade severed them.
+
+A head flopped onto the floor as Torix snatched his staff out of the air. The headless body stayed standing, held up by the igneous prison. The other mage's entire chest split and slid apart, bisected like an anatomical cadaver. Red blood leaked out from the many open veins, covering the organs and bone. It turned into a mess in seconds.
+
+I paced over, sapping the corpses of their vitality. As I did, I turned to Torix,
+
+"You want to use some of the bodies for summons?"
+
+The lich shook his head, "Without their minds, these gialgathens are rather useless. I'd much rather have a few Skyburners under my wing since their bodies hold together far better."
+
+The blue gialgathen with a loose tongue murmured, "Show us mercy...Please."
+
+Torix rolled his eyes, "You will be given mercy should you earn it. Now, as you were saying."
+
+The blue gialgathen nodded, "Of course. One of you dirtwalkers helped Lehesion. They..."
+
+Several beeping sounds buzzed in the heads of the four remaining Eclipse Makers. They looked around, one of them mouthing, "That beeping sound is so loud. It's like it's inside my hea-"
+
+All four of their skulls exploded, mush splattering onto the rest of the walls. A hunk of brain landed on Torix's forehead, scalp and blood splashing over him. The lich reached up, wiping a thick layer of the gialgathen brain from his face. Without saying a word, he flung the gunk off his bony fingers.
+
+He turned to me, "We tell no one."
+
+I raised both my palms to him, "Absolutely. Not a soul."
+
+I walked up to him, "Can you hold yourself back? I can pull that shit off with a gravity well."
+
+Torix leaned back, bracing himself. I took the cue and created a well in front of him. Torix's clothes fell sideways, his robe drawn to the well. The lich kept himself strut by forming ice over his feet and staff while holding it.  The muck pooled into a wobbly sphere over the next minute.
+
+After getting a good portion of the guts off him, I said,
+
+"About to cancel the well."
+
+Torix gave me the ok. As I did, the mage took a deep breath of relief, even though he didn't need to breathe. Maybe the sound made him feel better. Once he collected himself, Torix looked around, "After a good washing, this should come off. Now, to find some evidence of what happened here."
+
+I pointed at the headless group of gialgathens, "What about them?"
+
+Torx sighed, "It seems as though someone planted bombs in their heads for just such an occasion. I found the timing uncanny, as they could have done the same before we discovered those tidbits about Lehesion."
+
+I cupped my chin, "Sucks too. It seems like someone's using Lehesion as the figurehead while they handle the operation."
+
+Torix looked around at the devastated cavern, "What I don't understand is why they would do it here? These locations... they're seemingly random and disparate. Why not infest a chokepoint and actually deal a blow to the infrastructure of Giess? As they are, their rather ineffective."
+
+I shrugged, "Maybe they don't want to deal a blow to Giess's infrastructure."
+
+Torix crossed his arms, walking back and forth, "Indeed, that seems to be the case...In fact..."
+
+Torix paced up to a charred bookcase, "The goal of Lehesion might be to destroy Giess. At the same time, the true orchestrator of this might have a different goal altogether."
+
+I scratched the side of my head, "Huh, like making gialgathens look bad or some shit?"
+
+Torix nodded, "I wonder who would want to do that exactly?"
+
+I scoffed, "Yeah, do you know any prominent figures that hate gialgathens?"
+
+"One does come to mind. That snake will be our primary suspect for now. We simply need to prove our hypothesis and find incriminating evidence. Perhaps there's something here among this debris..."
+
+Torix picked up a larger than life book. Along the edge of the book's spine, a ribbon loop sprung up. It looked perfect for a gialgathen to lift the tome up with their tail. Torix opened the pages, many of them burned all the way through.
+
+Realizing the conversation was over, I sprung into action. I consumed the carcasses, leaving nothing behind. After soaking up the blood from earlier, I walked around, trying to gather something valuable. To be honest, there wasn't much left after the silver brigade and singularity.
+
+Combined that with all the fire breath, and this place looked like a giant smashed it under its heel. Still, this was one of our best chances of finding some clue to take back with us. After about an hour of searching, we hit our lucky break.
+
+A boulder from the cavern's roof fell onto a desk, smashing it beyond measure. I lifted the crag and tossed it aside before searching the chipped pieces of wood. Inside a crumpled steel safe, I discovered several shattered obelisks.
+
+One survived, unharmed amongst the shattered, glass orbs. As I pulled it up, Torix turned to me, "It looks as though there isn't much to use here."
+
+I dusted off the functioning obelisk, "Maybe not. This looks like it's still good."
+
+The transparent sphere still had its metal ring of transistors attached to it. I pressed the edges of the transistor ring, allowing me to access the crystalized data. A message popped up,
+
+Access denied. Encryption code necessary for data access. Seek administrator of original data logs for further information.
+
+I sighed, shaking the damn thing, "Yup. It can never be too easy."
+
+Torix paced up to me, reaching out a hand for the obelisk. I handed it over before sorting through the rest of the safe's contents. I found shattered bulbs and a few data drives that might work with my own obelisk. I plugged them in and checked out the info.
+
+I found detailed data spreads about silvers and their biological functions. After storing a few of these, I opened an actually useful drive. It held information about how a hybrid could function between silver and eldritch. A few illustrations even showed how to incorporate the harvesters with the saysha beetles.
+
+I pocketed the info in my storage before walking up to Torix. The lich dripped with frustration, his impatience obvious. He turned to me,
+
+"This encryption code is absolutely superb. There's no one we know that could hack something of this magnitude. It's many orders above my own understanding."
+
+I crossed my arms, "Maybe we could send it to the Overseer? He might know a guy who can help us."
+
+Torix shook his head, "Impossible. He's far too busy working with Speakers to manage the affairs of many worlds. Calling him for this would be the same as Althea calling you to guard her on a trip to the candy store. Just as that task is beneath your notice, our problem is beneath him."
+
+I scratched the side of my head, "Well...fuck."
+
+Torix let his hands flop onto his sides, "Well fuck indeed."
+
+The both of us stared down, defeated by a tiny glass sphere. After a moment of sulking, I puffed out my chest and pat Torix on the back, "Come on. Let's keep searching."
+
+"The obvious recourse."
+
+Before we began, however, a message from Althea popped up in the corner of my vision. I opened it.
+
+Althea Tolstoy, the Shapeless Arbiter(lvl 6,221 | Class: Breaker | Giess: 2:41 A.M. 3/18/26) - Another bomb in room. Caprika hurt. Help.
+
+My stomach sank as I read the message. I turned to Torix, who was reading her message as well. He closed it while snapping his grimoire shut,
+
+"We need to leave. This will have to wait till later."
+
+I bent my knees, "I'm rushing there."
+
+With a titanic leap, I shot upwards and crashed through a wall of rock above me. As I erupted from the mountain's surface, I created a powerful well in front of me. I shot into the ground again while charging my runes. As I detonated them, a burst of strength let me burst from the earth with speed.
+
+In seconds, I picked up tremendous speed. My stomach knotted up as I imagined all kinds of scenarios. One of them involved our identities being discovered. With that in mind, I pulled a gray square out of my storage and pressed it onto my chest. The gray disguise covered me, preventing me from exposing us.
+
+Panicked or not, there's no excuse to be an idiot.
+
+Half an hour later, and Rivaria's mountain came into my view. Like a bullet, I  sliced through the air hell-bent on killing whoever planted this bomb. As I rose through the cloud line, I pushed clouds aside from the wind off my ascent. I slid past several flying gialgathens, sending them spiraling away from me.
+
+As I landed in front of the Hall of Heroes, a portion of the staircase collapsed under my feet. The two guards mashed into the walls beside the doorway, my landing knocking them off their feet. I stormed through the open hallway before finding Malakai surrounded by several gialgathens. They dwarfed the collapsed door leading to our room.
+
+I came close, shoving two gialgathens aside. I found Malakai covered in burn marks along one half of his body. One of his wings was amputated, the crispy remnants of it laying on the ground a ways away. The old beast groaned on the ground beside a collapsed wall, unable to breathe without wheezing. He'd live though.
+
+I glanced between him and our room, a cold sweat pouring down my head. Most of the wall was blown out, black scorch marks covering nearby. From what Althea sent, the majority of the damage came from a bomb, an incendiary one considering the scorch marks.
+
+Nothing I looked at boded well fro anyone inside. With panick welling in my chest, I entered the hallway leading to our personal rooms, a crowd of people congregated around a body. Most of them wore medical uniforms, potions and equipment in hand. They stuck tubes and medical instruments onto the red blotch on the ground. I stormed up to them, dwarfing everyone present.
+
+Everyone besides Helios.
+
+The massive albony turned towards me as I looked over the chaos. He kept a palm over the red blotch, healing it. As I looked closer, my jaw went slack. The bloody mess was Caprika, most of her luscious hair burned off. Portions of her bones were left exposed, the burns deep. A part of her mask singed off, some of her jawbone uncovered.
+
+Most of the damage was on the surface, taking her skin away, however. Well, most of the damage I could see. Despite her severe wounds, she wasn't the woman I was worried about though.
+
+I growled at the group, "Where's Althea?"
+
+The entire room went silent, everyone staring up at me. Helios pointed towards where Althea and I slept,
+
+"That monster is fine. I came here just as she reformed her arm into a mutated sack and cut the assassin apart. Caprika is the one knocking on death's door."
+
+I stepped through everyone, knocking people over before I slammed open our entrance. Althea heaved for breath, a cleaved corpse laying beside her. Most of her jumpsuit singed, leaving her upper shoulders and side exposed.
+
+She looked fine, but her clothes carried deep burn marks. If I guessed right, the bomb blew over half her body to mush before she reformed. To make sure I got in front of her, intent on asking a question. Instead, I gasped with relief,
+
+"Thank god you're ok."
+
+Althea nodded, one of her hands coated in congealing blood. I took a second glance at the corpse on the floor, finding two wounds. It looked like Althea forced her arm through the assassin's chest before slicing her in two. Our resident Breaker lived up to her name, tearing the would-be assassin apart.
+
+I lunged down, grabbing Althea's shoulders. As I did, she looked up at me, and I hugged her. She squeezed me before I locked eyes with her, "You are ok...right?"
+
+Althea nodded, her eyes glazed over, "Yeah...a bit shellshocked, but I'm ok."
+
+I put a hand on her cheek, "What about Kessiah? Is she fine."
+
+Althea nodded again without changing her expression, "Yeah, she...she went out. Caprika and I were here."
+
+I pulled some water out from my dimensional storage, welling it in a circle. With technical prowess, I smothered the blood on Althea, cleaning her. As I moved it onto her face, I whispered,
+
+"Close your eyes."
+
+She did as told, going through the motions. The blot of clear water blurred red before I tossed it aside. The liquid splattered onto the ground and reddened a nearby carpet. I could've given two fucks about a rug though.
+
+I grabbed Althea's hands, "Caprika needs my help. I can stay here if you need me to though."
+
+Althea raised both her hands, "Uh, I'm fine. Go help her out. I'll stay here. You know...collect myself."
+
+I hugged her again before standing upright. I walked back over towards the crowd of doctors. As I did, Helios supported his head in a massive palm. His other hand cast some healing magic on Caprika, keeping her from dying. Helios sighed,
+
+"To think she was this...unable to handle even a non-classer. It mars the Novas name."
+
+I stepped up beside him, leaning over towards her. Helios scoffed, "Ah, good to see her representative cares about her health. What tipped you off that she was injured? The fourth degree burns perhaps?"
+
+I inspected Caprika, finding more wound than person,
+
+"Priorities. I take care of my own."
+
+"Obviously."
+
+I ignored his jab, focusing on Caprika. The medical personnel struggled to whip out their medical supplies to suture the open veins shut. I grabbed several of the potions I stored, pouring them over the most grievous wounds. After getting her somewhat stabilized, I pinched several of the largest arteries shut with little gravity wells. It took next to no force. Her heart was weakening by the second.
+
+As I inspected the rest of her wounds, Caprika stopped breathing. A few seconds later, and her heart stopped beating. Flashbacks of Delilath flared in my memories, spurring me on. I resolved myself to save Caprika. Failure wasn't an option this time.
+
+With Hunter of Many, I got a rough model of what her insides were like. With an idea on what was going on inside, I raised a hand, opening her chest with an antigravity well. Air went into her lungs before I collapsed them with a gravity well. I alternated between the two, making a kind of CPR.
+
+There wasn't enough mouth for more conventional means.
+
+Once I stabilized her breathing, I formed another gravity well at the center of her heart. It compressed, pumping blood through her system. I held her other arteries shut, keeping the blood from pouring out of her body.
+
+A bead of cold sweat poured down my head as I balanced dozens of gravity wells. The precise work challenged me, but it was either this or watch her die. Helios lifted his other hand, opening a portal in our room. From it, several more workers walked out, carrying supplies. Helios rolled his shoulders,
+
+"This place is filthy. It doesn't matter if we save her from bleeding to death. She will die from infection."
+
+I wracked my brain for some kind of solution. After a few seconds, I activated Event Horizon and molded it over Caprika. I worked the aura like a surgeon, sterilizing the air and ground near her without actually touching Caprika. I did so among a flurry of steady hands, every practitioner here doing their best to heal her.
+
+I held up the effort, stabilizing her breathing and heart rate, praying they restarted. A few minutes passed, the doctor's faces turning grim. Even Helios's heart rate accelerated and his breath shortened. He leaned over and reached out a hand towards Caprika.
+
+As he touched her fingertips, he whispered,
+
+"Please...come back."
+
+Another minute passed like an eternity. One of the doctors dropped his tools, putting his hands over his face. He gave up. Helios wouldn't let him. The giant stood up and snapped at the doctor like thunder,
+
+"I didn't say you could stop, now did I? Continue before I flay you alive."
+
+The doctor stammered to pick up his tools and continue working. From behind us, Torix floated into our room. The magician stepped off his dark cloud, landing beside us. He glanced down,
+
+"Is that...Caprika?"
+
+Helios growled, "Of course it is. Help her."
+
+Torix opened his grimoire, channeling several spells at once. After a few seconds, Torix raised a hand and shot a spark of lightning into Caprika's chest. She convulsed before taking her own sharp breath of air. Her heart started in her chest, moving on its own.
+
+Helios dropped to his knees, his hands shaking. He looked around for a moment before squeezing his hands into fists. The giant stood up, his composure already back to full force. With pints of blood being pumped into Caprika's body, her health regen roared back up again, her health ticking back up.
+
+With tools at their disposal, the doctors began suturing her open arteries shut. At the same time, they wiped antiseptic over her wounds. Some of them even placed a gel that hardened over some of her wounds. With all the support, Caprika's health ticked up at a slow, steady pace now.
+
+She was going to make it.
+
+Helios pointed at the doctors, "We're taking her to a hospital. Now."
+
+The titan opened a portal and pointed at it. Without any hesitation, the medical team placed several metal spheres around Caprika. A stretcher formed underneath her, letting them pick her up. The albony doctors lifted her up and pulled her towards the portal.
+
+As it closed, Helios turned towards us. He looked between Torix and I,
+
+"It seems as though I've underestimated your...resourcefulness. Your assistance is noted. However-" He pointed a hand at Althea, "You both will explain to me why she is unknown and what you're hiding. If you wish to deny me an explanation."
+
+The stone around Helios's feet cracked as he glared at us, "I will use all of you as mana batteries. Is that understood?"
+
+The way his voice came out was like icicle spears stabbing into my bones. It left me stunned by the absolute nature of it. There was no question of how or when. If we defied him at that moment, he'd destroy us with everything he had.
+
+Torix placed a hand on my arm, worried I might say something stupid. I spoke aloud,
+
+"Of course."
+
+Helios turned towards his portal, his cape flaring. Stepping through it, the behemoth was gone along with all the medical personnel. He left us in an awkward kind of silence.
+
+Torix let his hands drop onto his sides, "Here I imagined you'd be cheeky with him like you were before. What changed your mind this time?"
+
+I pointed out where Helios was before, "Seeing him use Yawm's magic. That shit's terrifying."
+
+Torix fell back into a chair of mana, letting his limbs drop to his sides,
+
+"At least you know when to fear." He leaned back his head, "And here I imagined the undead couldn't be tired. Alas, I never lived a Harbinger's lifestyle."
+
+I grinned, "Eh, you get used to it."

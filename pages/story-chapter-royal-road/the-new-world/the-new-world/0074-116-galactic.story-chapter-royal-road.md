@@ -1,0 +1,157 @@
+---
+id: e299ba4e-4486-5cb9-94d5-414d9b9ec31b
+page-type-slug: story-chapter-royal-road
+title: "116 Galactic"
+slug: 0074-116-galactic
+partOf: the-new-world
+position: 74
+ownLength: 2421
+unit: words
+ownProgress: 2421
+publishedAt: 2018-04-30
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/212295/116-galactic"
+royalRoadId: "212295"
+markedReadAt: "2026-06-29T21:23:23.932Z"
+---
+
+The black vial exploded in front of me, cloaking me in a dense cloud of black smoke. I was right. Something changed their minds about leaving me alone. What exactly? I didn’t know. I did know they just tried murdering me. Those vials were dangerous after all. They mutated someone on touch. My armor made me different. It meant I didn’t burn and die in the charcoal cloud.
+
+The acid was different. It hissed on my armor, melting through it in places down to my skin. The thicker blobs of it dug deep into my flesh, carving their own way towards my bones. The minor spike of pain didn’t make me mad. My pain tolerance kept me stable. On the other hand, the smell of my own burning muscle and skin did.
+
+Seconds later, I stepped out of the thick cloud of miasma and acid. My health regen outpaced the acid’s damage. As I reformed. I lifted up a hand and clasped it into a fist harder than learning quantum physics,
+
+“Compared to that, this is mercy.”
+
+I meant it too. Yawm intended on tearing them apart in a lab. This was a better way of dying. Besides, I was angry at them. I was human after all, and someone throwing acid on you tends to do that.
+
+I kneeled over, a crisp, cool wind brushing against my armor. The acid burns already healed. The pavement beneath my foot was soft, like pushing against peanut brittle. As I pounded my heel into the ground, the pavement crushed underfoot. The rush of wind splashed against my face as I neared the four of them.
+
+They didn’t let me approach. The alchemist reloaded his pistol, firing it at me. I splintered the vial before it could reach me. The others fired at me, but I molded my armor and shifted myself to deflect their rounds. Using the alchemical cloud as cover, I shifted down into the ground.
+
+Four rounds dug into the dirt above me. Rumbling above like a train passing beside me, their jetpacks fired into action. Using my unique skill Tactile Cognition, I extended my senses. The mage ran into a building nearby. The others put themselves ran in another direction.
+
+I rushed down the gunmen and alchemist first. The mage could warp away. The others couldn’t. As the ground rushed around me, I slid through the earth while charging my runes. Once full, I unleashed them in a massive burst of energy. Like a rocket, I shot through the air towards them at a blistering pace.
+
+The alchemist ran towards me. The cleric stayed within the range of Event Horizon, the both of them feeding my mana. The cleric turned through the pages of its grimoire, the panels of its power armor smoothly shifting. The letters grew bright before an aura of power condensed over the alchemist.
+
+I reached him as he reached me. We clashed together. I weighed more than many, so I overwhelmed his charge with ease. Grasping his neck, I forced him into the ground as he opened his dimensional storage. I crushed with my hand, going for the kill. Potions of all colors spilled out, each vial clanking against other vials and the ground.
+
+As my hand crumpled the armor, no blood gushed from the power armor. The mage warped away. A moment later, a kinetic burst exploded the vials. A flash of white engulfed me. My senses faded. Everything around me turned numb.
+
+A second later, I opened my eyes. 40% of my health was missing. A plume of dust surrounded me. The soft earth pressed against my back. I pushed myself off the ground, my hands wet. Around me, craters scarred the ground like a blast zone. I stood, my footing firm with the aid of telekinesis.
+
+I reached out. The levelers retreated atop a skyscraper, joining the mage. Making out their actions in detail was impossible at this distance. I leapt out of the dust cloud, the thicker parts of the air sticking against my skin. I landed on a sidewalk, the large slabs of concrete cracking underfoot.
+
+Two railgun shots fired towards me. I deflected the first one, my instincts well beyond a normal human’s potential. The other bullet sliced into my left shoulder. I reached into the wound with my armor, pulling out the rod of metal. It clanked against the ground as the gunmen unloaded another round of bullets.
+
+I shot sideways, dodging them by inches. The wind of the bolt brushed against my face before I leaned down. With my runes charged, I fired myself upwards before piercing through the windows of the skyscraper. A rain of broken glass pelted onto the ground as I dug through the concrete floors of the building.
+
+I neared them. The mage hid deeper in the building, the others standing near broken windows. I dashed between them, getting within range of my gravitation magic. Using a burst of mana from my healthpool, I jerked the mage from his hiding spot towards me. The alchemist dashed towards me, his rapid footsteps echoing down the empty office hallways.
+
+With no lights around me, I used my gravitational awareness for sensing their movements. The riflemen lifted their weapons towards me. The alchemist neared me, the cleric not far behind. The mage crashed through the thin, spindly walls of the skyscraper.
+
+In the next moment, a leveler fired a railgun bolt at me. I acted on intuition. I deflected the bullet, but I aimed it towards the mage. I pulled him with my gravitational magic, jerking him into the trajectory of the diverted railgun slug. The metal rod pierced through three walls of a cubicle, spearing the mage. I released my hold on him, letting his body pin against a wall.
+
+He hung there in the darkness, blood gushing from his mouth. He pulled out his grimoire. I jerked it from his hands with a telekinetic pull. The alchemist reached the room I was in. Without his dimensional storage ring, he lacked his alchemical explosions. He wasn’t even in power armor, only a camouflage suit that disguised him in the darkness.
+
+I sensed the heat of his breath, the pulse of his heart, and the quiet thud of his footsteps. He was as easy to see as a bonfire in my eyes. Not only that, he was too close to me. I reached out a hand and clasped it. A gravity well formed over his chest, crushing down on him. Another aura condensed over him, giving him a red glow.  My magic weakened, no longer able to hold him.
+
+He dashed towards me, antimagic protecting him from destruction. I shot out a jab. He countered, his movements crisp and practiced. His fist landed against my face. On that fist of his was a metal machine. It was some hydraulic press, and it unloaded onto my face. The plate of metal pressed against my nose.
+
+I gritted my teeth, my neck staying firm. The metal caved against my face, his hand’s armor crunching under the sheer force. Stuck against me, he pulled at his fist, trying to escape. He couldn’t get out in time.
+
+I torqued on my feet, slamming a fist into his stomach. The kinetic bullet blew out his back, his body exploding like crushed fruit. A liquid splashed against my face. My armor sucked it in. I shivered in disgust before turning towards the others. Before I left, the alchemist fell against the ground and his helmet fell off.
+
+He mumbled in a deep voice, “I...Schema...why didn’t he warn us? Did he want us...to di-”
+
+His head flopped against the ground, the skull bouncing against the thin carpet. His head laid still as I stared at his decimated corpse. Before my thoughts wandered, two railgun bullets crashed towards my helmet.
+
+With practice from spars with Althea, I deflected the bolts, each of them piercing the walls behind me. I looked around. I was in an office cubicle, blood splattered against the walls. Besides for dust, there was nothing changed since Schema’s system. It looked largely maintained.
+
+I shook the eeriness off before leaning over. Turning towards the gunmen, I charged my runes. The cleric escaped my grasp, trying to save their mage. I ignored her for now and focused on the gunmen.
+
+They reloaded before I shot towards them. The walls between us shattered as I barreled towards them. I was a raging bull, ripping the building apart.
+
+They timed their shots as I reached the maximum velocity of my dash. The bolts pierced through me, gouging out my back with tiny hooks lining their surface. It meant nothing. As I passed by them, I latched onto them with gravity. Falling from the skyscraper, we both built speed towards the ground.
+
+I landed against the ground, ushering out a shockwave before each of them crushed against the ground. They splattered against the ground like falling tomatoes wrapped in aluminum foil. I stood up before cracking my neck. I walked towards them, inspecting them for anything of value. I didn’t enjoy scavenging, but I wasn’t so prideful that I’d say no to free loot either.
+
+The two gunmen I splattered against the ground were nigh unrecognizable. I couldn't tell what species they were. Their blood was red at least. After finding their dimensional storage rings, surveying my surroundings. Fifteen minutes later, I found the alchemist’s storage ring as well. It was lodged into the broken window pane of a minivan.
+
+As I pulled it out, the glass fragmented against my touch. Besides for that, the car was...short if that makes sense. I was double its height, maybe even a bit more. Everything if it was too small and too frail for me by then. It was a surreal moment.
+
+After soaking that sensation in, I dived back into the skyscraper. I pulled Event Horizon inwards, preventing it from evaporating anyone left in the building. Seconds passed before I found the alchemist’s butchered body. After taking two more black vials from his chest, I walked over towards the mage. He was still alive, the cleric channeling a spell.
+
+Before it cast, she turned towards me. A ball of light passed over me. It singed my skin and the blood within the room. I walked out of it, unharmed and clanking my fists together. The cleric channeled another spell. I snatched my hand back, snapping her neck. She fell down, her legs not working. As I passed by her, I caved her skull in with quick stomp.
+
+Since she hadn't healed him, the mage was dilapidated. Coagulating blood dripped from his power armor. He was half my size at most, like a normal man. These aliens were bipedal and human like. Curious about his real appearance, I lunged down onto one knee. I still looked down at him as I pulled off his helmet.
+
+His face contorted in pain, and his jaw and neck were covered in congealed blood. A small horn jutted from his chin, and armored plates ran down the back of his neck and head. Scales made up his eyebrows and skin, and his teeth were sharp, making him appear fierce. He looked like a reptile race mixed with an armadillo.
+
+His voice was catching in his throat, like he was thirsty,
+
+“You...You’re here to finish me then?”
+
+I nodded.
+
+“Good...This is the most pain I’ve felt in years. End it.”
+
+“I will, but that’s if you can tell me why you decided on attacking me. Otherwise I’ll make this worse.”
+
+The alien spit out a mouthful of blood. He spoke with a clearer, raspy voice,
+
+“There was...A message from Schema. He gave us more than just a chance at the royal guard...He offered us sentinel rights. We could go anywhere...do anything...”
+
+I sighed, “So you and your friends got greedy then?”
+
+He nodded.
+
+I frowned, but he couldn’t see my face under my armor,
+
+“Still, this was a death sentence. You analyzed me, right?”
+
+The mage nodded, “We did...you’re message and level was deceptive...Schema undervalued your strengths...you’re level is a mockery of a level’s purpose...how were we supposed to know that a level 2,000 sentient would fight like an eldritch twice his level?”
+
+I tapped my chin, “You weren’t...And I was supposed to kill you then, like lambs to the slaughter.”
+
+The mage laughed, a bit blood splattered out of his mouth,
+
+“I suppose...”
+
+We stood there for a second. I clenched a hand,
+
+“I can save you.”
+
+He closed his eyes,
+
+“You can’t...There’s poison on the bullets they fired...I’m already dead.”
+
+I bit my lip. I raised my hand, “What was your name?”
+
+“Skyns.”
+
+“I’ll remember it.”
+
+A small smile traced his lips, “Tell them I gave you hell.”
+
+“I will.”
+
+I smashed my fist into his head, destroying his face. I shook the chunks of bone from my hand right after. As I took his grimoire and spatial ring, I sighed. They were baited into this by Schema. Why exactly? I didn’t know.
+
+What I did know was that this was over with. I stood in the office, the red light of my runes waning. I jogged out of the building before landing on the ground. After sending out a shockwave around me, I ran towards Yawm. He inspected the entire event at his leisure, his vision sharp enough to see for miles. His level didn’t betray him in that respect.
+
+He rested in a chair of ice that sat upon a parking deck. It was a mile away from where the fight took place. His fingers were crossed as he kept his elbows on the armrest beside him. With the backdrop of a blue sky, he looked out of place, like some deity on earth.
+
+The green energy still pulsed under his skin as I approached. Once I reached him, he stood and clapped his hands,
+
+“I enjoyed the fight. It was both brutal and satisfying.”
+
+I spread out my arms, “It wasn’t much. They weren’t the most challenging foes.”
+
+Yawm nodded, “A sentiment I rather agree with. So much so that I’m left pondering something. Would you mind clarifying my confusion?”
+
+Yawm was speaking with his mask on. It left a cold, calculating edge on his words, so I kept my answer casual, “Yeah, I’ll answer what I can.”
+
+Yawm tilted his head and narrowed his eyes, “How did weaklings like them so much as touch you? You have me doubting your strength, you see.”
+
+I shrugged, “For the hunt.”

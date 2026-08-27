@@ -1,0 +1,203 @@
+---
+id: e6260052-ffdc-50b7-b1a0-38eda06f6e12
+page-type-slug: story-chapter-royal-road
+title: "Chapter 161 – Curse"
+slug: 0161-chapter-161-curse
+partOf: the-magpie-and-the-archmage-monster-evo-litrpg
+position: 161
+ownLength: 2163
+unit: words
+publishedAt: 2026-08-14
+link: "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3811779/chapter-161-curse"
+royalRoadId: "3811779"
+---
+
+"I can't get through that hole!" Liora said.
+
+"We'll just have to go the other way then," Cee said.
+
+"That's were Lucien is! He is currently a bit occupied with corrupted monsters, but I don't think it'll keep him busy for long," Liora said.
+
+"Shit!" Cee cursed.
+
+They both looked ruefully at the hole which was steadily spouting more water into the building. Cee could fit through it, just barely, but for Liora there was no chance.
+
+But facing Lucien… that an action equal to suicide.
+
+"Cee… carry us out of here!" Liora announced, although she didn't like this plan.
+
+"What? Are you sure? I'm not yet that confident in my swimming abilities," Cee said.
+
+All of sudden a beam of magic shot through the room. Liora just barely managed to dodge. On the far side of the room, she saw Lucien swimming towards the. He didn't appear to be a good swimmer, and the water bubble had shrunk to encompass only his head.
+
+But even so, Liora didn't want to take him on. So she shrank to her magpie form while clutching Renir tightly in her talons. The water current threatened to sweep her away, but Cee grabbed her with one of her eight legs and swam for the hole.
+
+"I will not let you get away!" Lucien raged.
+
+Liora saw mana energy gathering around him in huge streams. He was preparing a truly devastating attack.
+
+"Swim faster, Cee!" Liora screeched.
+
+"I'm trying!" Cee called back, diving into the hole and pushing with her legs and much as she could.
+
+The current inside the hole was strong. Cee used three of her legs to hook onto the rocky side and other four to propel herself forward, but even so the progress was slow.
+
+Lucien followed them, positioning himself right above the hole. The magical energy around him was growing more and more intense, glowing with purple light.
+
+"Scream, Liora!" Renir commanded.
+
+Liora used her Resonance Mimicry, producing the loudest explosive sounds she could think of. Renir likely amplified her attack with magic, making the whole tunnel shake violently.
+
+Too violently, actually. The walls were beginning to rupture and pieces of rock were breaking off.
+
+"You two overdid it!" Cee shrieked, desperately trying to swim down and out of the tunnel.
+
+Rocks and debris pummeled towards Lucien, who had to release his spell or risk being killed by the debris.
+
+BOOM!
+
+A powerful blast threw out of the tunnel. Or rather it shot them as if they had been placed inside a cannonball. Cee and Liora both hit the wall multiple times on their way out.
+
+Liora hid her head as much she could while covering Renir with her body. Cee had her legs wrapped around them, as she herself tried to shrink down to the size of a ball. Even so they both got hit many times, Cee taking the brunt of the blow.
+
+"Cee, are you alright?" Liora asked once they had been thrown out of the tunnel and into the sea below the island. It looked like an underwater cave system of some sort.
+
+"Oww… ow.. ow.. Everything hurts…" Cee whined. "My health is down to Critical."
+
+Liora checked her status.
+
+[Status]
+
+Health: Wounded
+
+Mana: Drained
+
+Affliction: Cursed
+
+She wasn't doing great, but better than Cee at the very least. The cavern walls were still shaking from whatever crazy magic Lucien had unleashed. It was good thing they had managed to disrupt him enough not to receive the direct hit of that blast.
+
+Liora turned into her dracoryx form since there was more space around now, and grabbed Cee who looked to be barely holding onto consciousness.
+
+"I'll get us out. Don't worry, Cee!" Liora said and swam deeper into the cavern. To her displeasure, there were multiple paths where she could swim down to.
+
+Renir wiggled his little arms. The air bubble that had previously allowed him to talk had burst during the explosions. He was pointing to a specific cavern. Liora followed his directions. Thanks to those, Liora was able to swim out into the open sea before long.
+
+To her surprise, she was greeted by a bunch of merfolk, Dolphar swimming at the front.
+
+"They are injured! Bring potions immediatly!" The merman commanded.
+
+Liora and Cee were instantly surrounded. Cee was given potion to bring, as was Liora. She allowed herself to relax. The merfolk gently took hold of her and Cee, and together they all swam back to their city. Liora felt so exhausted that at some point, she fell asleep.
+
+When she woke up next, she found herself in the dungeon oasis. Her first instinct was to look around, searching for Renir.
+
+"I'm right here," she heard his voice come from right beside where he was standing on his stubby, little legs. "How are you feeling?"
+
+"I…" Liora tried to stand, feeling horrible pain in her right leg. Looking down that it was festering with purple ooze, raw swollen skin screaming angrily with pain. "What the hell happened to my leg?"
+
+"That's what I want to know! I saw some weird black thing latch onto your leg, but what even was that?" Renir asked.
+
+"I have no clue… but it was definitely something corrupted. Very corrupted," Liora looked around and saw that Cee was laying not too far away from her, in something akin to a hammock.
+
+Smokey was laying on the ground underneath her. Occasionally he would lift his head and whimper sadly as he waited for his master to wake up.
+
+"How is Cee?" Liora asked nervously. Her health had descended to Critical after all.
+
+"Don't worry. The merfolk patched her up good. She just needs rest. I think we need to worry about your leg more. No potion the merfolk used could heal it," Renir said, worry clear in his voice.
+
+"My status screen did say that I was cursed or something," Liora said.
+
+"Cursed? Dammit, it all!" He wiggled his arms angrily.
+
+"Is it bad? I can just remove it Purify no? It works on curses too, if I remember correctly," Liora said and tried to Purify her leg.
+
+The festering purpleness did disappear and for a moment she felt relief. However, it was just for a moment. The pain quickly returned and she could see that her leg was slowly turning purple again.
+
+"What the hell?" Liora squawked nervously.
+
+"That's what I was afraid of. Your Ailment Resistance should have protected you from any minor to medium curses. But this is a very powerful one. You need a stronger skill to cleanse it."
+
+"What do you mean stronger skill? Purify is already at [Legend] level!"
+
+"It appears it needs to be even stronger than that. It honestly quite terrifying. I felt that it might be a strong curse, but I had hoped you would be able to cleanse it with Purify."
+
+"What do I do then? I can't just… continue on like this," Liora looked ruefully at her leg.
+
+"Well, we do have a few options. First would be to evolve again. Evolution removes all illness, status ailments and heals all injuries. Naturally any curse would also be removed."
+
+"I'm 39 levels away from my next evolution. I can't have this… festering leg the whole time. It hurts you know!"
+
+"I know, I know… The other option would be to keep casting Purify and hope that the upgrade will be strong enough to break the curse. But we don't know how long that will take…" Renir said.
+
+"Is… Is there any other option?" Liora asked. Training up Purify might take a really long time. She would like to get rid of this thing as quickly as possible.
+
+"We have to find somebody who is good at breaking curses. Sallie should be able to break it."
+
+"She's on the other side of the country," Liora said and slumped.
+
+"There, there. Don't give up so fast. I already spoke with the merfolk and they said that they do have somebody that can break curses in their midst."
+
+"Well, what are they waiting for? Bring him here!" Liora cheered.
+
+"Apparently, he's a bit of an eccentric," Renir said evasively.
+
+"What does that mean?"
+
+Renir sighed. "Apparently, he wants to travel above the surface."
+
+Liora stared at Renir. She couldn't believe her ears. "A merman… wants to travel above the surface? But… they can't survive without water, can they?"
+
+"Nope, they definitely cannot."
+
+"So… how does he intend to do that? I mean… seas are vast places. Much bigger than the surface. Surely if his goal is to explore, there's plenty of exploring to do down there. I mean… I'm not quite sure about this world, but on Earth the depths of the ocean are the most unexplored places. Barely anything is known about them."
+
+"I wasn't even aware of such large merfolk cities existing, so the oceans are definitely very unexplored. Frankly, I don't know what weird seaweed this merman is eating, but he is a very powerful healer. Apparently, he had been the reason why this city was able to resist corruption for so long."
+
+"How come I never met him?" Liora asked.
+
+Renir wiggled his hands in his approximation of a shrug. "I don't know. I really don't. But let's hear him out. Your wound… it looks quite bad…"
+
+Liora looked down on her leg. It was almost completely purple again and hurt immensely. She used Purify on it again, which provided only a brief moment of relief.
+
+"Okay, okay! Let's talk to the weirdo! I don't want this curse to spread higher up," Liora conceded.
+
+After about an hour, Cee woke up too. She appeared sluggish, but thankfully, she wasn't affected by any curse like Liora was. Cee did wallow in despair when she saw that some of the desert sharks had made their way through the webbing to take quick drinks at the oasis.
+
+Oddly enough, they didn't fight. Even Smokey growled at them angrily, the sharks and other monsters too just took a quick drink of the water and then disappeared just as quickly.
+
+When Dolphar arrived with some other merfolk and they asked them about this, he said. "Yes, weaker monsters unusually don't fight at the watering hole. They drink and get out quickly in order to avoid the truly dangerous monsters when they come for a drink."
+
+"The truly dangerous monsters? And what if it came by while we were here!" Cee grumbled.
+
+"You would just go into the water and come to our city. You would be fine," Dolphar said, almost dismissively.
+
+"What if it followed?" Cee shot back.
+
+"No, that's impossible. This creature cannot survive in seawater," Dolphar explained.
+
+Liora was curious to know about this creature. What kind of terrifying beast it must be for all the desert sharks to just take a sip and then run for their lives, fearing they might run into it.
+
+Best not to think about it. If it can't follow us into the sea, then there is nothing to fear.
+
+"Did you bring the healer you mentioned earlier with you?" Renir asked, changing the topic.
+
+"Your purification wasn't enough?" Dolphar asked.
+
+As a demonstration, Liora Purified her leg again. Just as before, it seemed to be better for a moment and then the purpleness spread again.
+
+Dolphar frowned. "The curse must be very strong indeed. We have brought the healer with us, but…"
+
+The merman looked deeply uncomfortable, perhaps even ashamed, because he bowed his head at Liora. "My apologies. We tried to talk him out of this madness, but… well, he refused to offer help unless you took him along on your journey."
+
+Liora narrowed her eyes. "Take him along? How exactly? Carry him around in a fishtank? Absolutely not!"
+
+"Liora saves a whole damn merfolk city yet he refuses to break her curse. What a jerk!" Cee comments angrily moving her front legs.
+
+Suddenly a bunch of algae appeared in the water next to Dolphar and began to rise up to be the surface. Liora backed away, pulling Renir along with him. But as the algae rose, Liora realized it was no algae at all. It was hair.
+
+Underneath a green mop of algae-like hair appeared a man's face with distinctly blue eyes. Liora hated to admit that his face was handsome in its own right. Not quite to Liora's taste, but she could see how many human women might appreciate him.
+
+The weirdness part however was his tail. It wasn't like a typical merfolk tail. Instead it was long and slender, almost like a snake's tail, except it was slightly curled and covered with long algae-like fins. Was that supposed to be the tail of a leafy sea-dragon?
+
+"I'm afraid that this jerk is the only one who can help you now," the merman said smugly, which instantly sent Cee fuming.
+
+At that moment, Liora thought that perhaps, she should just fly all the way back to Sallie, instead of dealing with this lunatic.

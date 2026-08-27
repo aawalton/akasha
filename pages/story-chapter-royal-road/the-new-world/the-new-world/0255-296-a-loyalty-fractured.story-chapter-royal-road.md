@@ -1,0 +1,269 @@
+---
+id: 72608dfb-8ddd-52c6-96e0-9cb308afd5ef
+page-type-slug: story-chapter-royal-road
+title: "296 A Loyalty, Fractured"
+slug: 0255-296-a-loyalty-fractured
+partOf: the-new-world
+position: 255
+ownLength: 4213
+unit: words
+ownProgress: 4213
+publishedAt: 2021-03-22
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/651105/296-a-loyalty-fractured"
+royalRoadId: "651105"
+markedReadAt: "2026-06-29T21:29:53.152Z"
+---
+
+The Overseer peered up at me, "To think that you'd come this far as quickly as you have." The Overseer opened his status, viewing my class and whatnot, "It's been a long time since a Sovereign was made, and with your stats no less. Excellent work."
+
+Not expecting a compliment, I beamed with some pride, "Well...thanks. I appreciate the recognition."
+
+The Overseer turned to the Sentinel, "Further talk must wait until after his service has transpired."
+
+The weary giant walked over to the fallen Sentinel's armor and spear, but I stopped the Overseer with a hand on his shoulder, "I already paid his respects."
+
+The Overseer stood taller as if a weight was taken off of him, "Ah, then that is good...Very good."
+
+I let my arm down while the Overseer stared down at the corpse. His gaze lingered, and thoughts of all kinds boiled beneath the surface. The Overseer remained solemn as he muttered,
+
+"Of all the people I imagined to honor us in death, you were among the last of them. Did you have a change of heart due to Schema's awards, perhaps?"
+
+I raised an eyebrow, "What was my opinion before just now?"
+
+"Spear tells me of your disdain for Schema. I imagined it would extend to us as well, as we are representatives of the AI."
+
+My eyes widened as I remembered my remarks to Spear. After the situation with the Spatial Fortress and Althea, keeping my cool regarding Schema grew difficult. I might've been more scathing than I intended, so I kept the Overseer's words in mind moving forward. If Spear relayed my chats to others, then I'd watch what I said around him.
+
+I raised a hand, "There's been a misunderstanding. I'm not trying to act like Schema's evil or that I hate him. I'm just aware of his shortcomings. That's all."
+
+I pointed at the Sentinel's armor, "And to say I don't respect someone like that, a soldier that dies in battle for what he believes in...that's disingenuous."
+
+The Overseer leaned back, "I'll take your word for it. Worthy of note, you've gotten better with words. In our first meeting, you once sounded like a simpleton. Now you speak with purpose...and the mark of intention."
+
+He narrowed his eyes at the last few words, but I shrugged it off, "Eh, it's the class talking."
+
+The Overseer gave me a slight nod, and his guarded nature waned. He rolled his shoulders as he loosened up some. He even let his hands clank against his sides. He seemed 'off' like something bothered him. For an average person, I'd have ignored signs this subdued. However, the Overseer showed little emotion, so even subtle cues hinted at larger issues beneath the surface. Trusting my instincts, I frowned,
+
+"Hey, you alright?"
+
+A touch unbalanced, he peered up at the shifting, underwater seascape, "Does it matter?"
+
+"Depends. If you want to perform on your job, then yeah, it does."
+
+He sighed before shaking his head, "I...I just need to rest."
+
+I stomped the ground, generating two blocks of stone. I sat down on one of them, "Why not take a break here? You look like you need it."
+
+He glowered at a Hybrid in the distance before one of my super golems destroyed the abomination. Watching one of the disgusting monsters be rived in half, the Overseer let out a melancholic laugh,
+
+"This is as good a place as any, I suppose. I do enjoy watching those beasts die."
+
+We sat under my base with the war waging over us before I leaned forward, "So, how's Schema doing against Elysium?"
+
+The Overseer put a hand on the side of his head, "Less than optimally. We, his soldiers, are faring even worse still. Our forces have been pushed further back than our projections initially indicated. They send wave after wave of Hybrids at us, and that result is in an endless wave of casualties for both sides."
+
+I nodded, "Torix predicted that they'd do that. It isn't like silvers or the eldritch are in short supply, and that's what Hybrids are made of. Althea confirmed it."
+
+"Those are banes, yes, but now their disease, Hybridization, it spreads to even us. They've begun turning our own soldiers into vessels that are awe-inspiring in their power and might."
+
+The Overseer glared at the dimensional slicer beside us, "That is a fact you are well aware of. I can see you've already handled one of our converted members."
+
+I frowned, "Yeah, he had to be put down. Or she. Honestly, I couldn't tell you what it was after Hybridization."
+
+"It doesn't matter what it was. It matters what it is now. That corruption spread through it, and so now it must be culled. I wish that I could say that is the only Sentinel we've lost, but that is far from factual. We've never suffered this many fallen Sentinels, not since Schema began recording our fatalities centuries ago."
+
+The Overseer shook his head, "Even more so, we lost an Overseer the other day to Lehesion. That is the rumor spreading through our ranks."
+
+Staring at the Overseer's many wounds, it was only a matter of time before one of them fell. You could only work someone so hard before they tumbled apart. I winced at our Overseer, "Damn."
+
+"This is the first time in Schema's history that one of my kind has been killed. It brings home a stark reality for all of us. We may perish at any moment."
+
+I remembered Alpha, "That's true. We all can."
+
+"It is different for me. One of the benefits of becoming an Overseer is immortality. You're guaranteed to live forever. With this war, that is no longer the case, and my coming mortality makes me dwell on my life. Did I live it well, or do I carry regrets with me that I refuse to acknowledge?"
+
+He peered at a cluster of Vagni being huddled to safety, "As an example, since this war has started, I've killed civilians like them. Others have replicated that same evil, their beings drenched in blood and their paths marred by corpses."
+
+Visions of cities being disintegrated in balls of fire and light passed over my eyes. I envisioned the millions I killed on Giess during my nightly bombings of their metropolises. Yeah, I was one of those people the Overseer talked about. The Overseer continued, his words like a dagger between my ribs,
+
+"Wars bring about the deepest horrors of those that fight in them."
+
+I swallowed a sickness in my stomach, "Huh...yup."
+
+The Overseer waved a hand, "Not, not to criticize you or your efforts. You killed the enemy. That constructs you in the image of a hero, and you are one of Schema's greatest assets. That makes you one of our greatest assets as well."
+
+It was a weird way of wording a compliment, but I took it to heart, "Yeah, it's easy to forget I helped anyone sometimes."
+
+The Overseer pointed a massive finger at me, "Your decisive action against the rebels delayed their initial offensive, and that resulted in several planets not being overrun during their original blitz. Throughout the conflict, those planets inevitably fell, but you gave them time they wouldn't have otherwise had. Save that guilt for another time or for tangible mistakes because killing those monsters wasn't a mishap. It saved billions of lives."
+
+"Holy shit. Billions?"
+
+"Yes."
+
+"Woah...Still, it sounds like my bombing of Giess didn't matter in the end. The planets still fell."
+
+"Evacuations were more complete, and fewer casualties occurred. That alone is more than most of my actions have amounted to."
+
+I never fully considered the results of my decision to bomb Giess. For me, it equated to mass murder, but hearing about evacuations and fewer deaths bolstered my own spirits a bit. That encouragement faltered as the Overseer rubbed his missing eye without thinking about it. As he did, blue, humming nanomachines kept most of his body intact at this point, glowing over patches of exposed skin.
+
+The suit could only stop so many of the impacts he suffered from. Some of his exposed, tar-ish skin revealed a nasty wound on his shoulder, the nanomachines unable to fully protect him any longer. It made his doom and gloom attitude fit his appearance. That culminated in his brooding sense of mortality that now loomed over him.
+
+The rebellion changed him. Instead of being an invincible, almost robotic director of affairs, he now carried a weakness and vulnerability. He no longer spoke with absolutes, and his faith was shaken to its core, giving way to doubt. It made him more human, and it warmed me to see him show some emotion.
+
+But, it also made me somber. The Overseer was kind to me in his direct, no-nonsense way. His advice helped, even if it was often blunt like a hammer. Before I ruminated further, the Overseer caught himself rubbing where his eye once was, and he pulled his hand back with a quick jerk,
+
+"Despite those setbacks, we have ceased Elysium's advancements, for now. They took the planets they initially targeted, but their success came from their original strategy. By choosing vulnerable worlds, they ensured a high chance of success. After those easiest of worlds were taken, they now lack any firm grip on other planets. That we know of."
+
+He reminded me of Althea's report on Gypsum. A place like that was just begging to breakaway from Schema, and I imagined there were plenty of other planets just like it. I peered around at Blegara,
+
+"Yeah, kind of like this place, huh?"
+
+"Indeed. You've managed to establish a place of relative safety here. It's dreamlike that such serenity can be achieved amidst this mayhem. It's thanks to those constructs, as I understand it."
+
+He pointed at Alpha's memorial. I nodded,
+
+"Our progress is definitely because of them."
+
+"It would serve you well to remember that. Many in positions of power forget those that are under them. In many ways, that is what I am experiencing now. Schema is leaving us to fend against this army by ourselves."
+
+"Isn't he sending classers to help?"
+
+The Overseer stared down at his massive palms, "Yes and no. Some classers still decide to help, but they will abandon us if the situation becomes remotely dire. That is exacerbated by Schema's lack of tactical utilization. We, Overseers and Sentinels, are being thrown in lines of fire where we are killed in mass. This leads to inefficiency, and by now, we could've achieved far more with the lives we've lost."
+
+"It sounds like you have your own ideas of how to fight Elysium. If that's the case, why not let Schema know about them? It couldn't hurt to get a new perspective."
+
+The Overseer scoffed, "You've attempted discussing your viewpoints with Schema before, haven't you?"
+
+I grinned, "Like talking to a brick wall."
+
+The Overseer shook his head with a laugh. He raised a hand, turning serious, "Humor aside, I commanded troops in my past. I fought against Yawm and his kind, and I learned how to wage war. That put me in a position to judge how Schema fares at the task. I believe that we are strong, but our enemies are endless."
+
+He turned a palm to me, "You understand this, but you are fortunate enough to retain the tenacity to fend off wave after wave of enemies. We are not in such a fortunate circumstance. Sentinels and Overseers are explosive, powerful, and quick. Each member is akin to a moving bomb, one with high initial resilience and a tremendous output of force."
+
+The Overseer waved his hands, "Your golems, they are more reminiscent of a hurricane. They slowly but surely march forward, whittling the enemy down one at a time. This means they are similar in their abilities when compared to a Sentinel, but instead of explosivity, they shine in their resilience."
+
+"Yeah, endurance is my specialty, and since my golems are made of me, they're no different. Our team actually honed in on that longevity, making them durable killing machines. We even designed them with mind magic augments, so they're difficult to subdue from multiple fronts. That stops them from being taken by the enemy."
+
+"There is wisdom in your approach. We are different. Our capacity for mind magic was severed, along with many other abilities. Eliminating our mental sorcery made us easier to control for Schema, but now that limitation makes us easier to subdue for their psionics. That aged safety precaution has rebounded on us in this conflict, exposing one of Schema's weaknesses. Even more so, that magic isn't the only sacrifice we've made."
+
+The Overseer rubbed his neck while staring down, "I am pressed between two walls closing in, and now I am at the cusp of being crushed by both of them. I am given no choices, which means I walk a predetermined path, one I cannot change. Indeed, your golems may be more sentient than us."
+
+Those words sank in with silence. A solemn moment passed before I raised a hand, "But you still talk to me like a normal person. I think you're selling yourself short here."
+
+He let out a deep sigh, "Yes. You're correct. My negativity stems from being pushed to my limits, both mentally and physically. Cracks from that pressure are showing themselves now, and that is why I talk like this."
+
+"It sounds like morale's pretty low."
+
+Needing an outlet, the Overseer glared off in the distance, "It is the lowest it's ever been. I speak from my perspective, of course, so I may be off base. My sentiment can be summed up, however. We fight tirelessly for the ideal Schema represents, and in the end, we help all sentients. Schema does not reciprocate our sentiment, and so, our lives are thrown away."
+
+The Overseer squeezed a hand into a fist, "This conflict, it will result in an enormous price to pay. I fear that Schema refuses to give even a cent to that cause...And in turn, we shall pay that price for him."
+
+His words clopped down like lead blocks landing on the ground, and I grimaced at his predicament. Damn, I was glad I hadn't become a Sentinel or Overseer earlier. It was noble in a way, sure, but I couldn't manage that kind of personal sacrifice. Just as concerning was putting my life in someone else's hands. It rubbed me the wrong way, and it didn't help that the Overseer mentioned a growing number of casualties either.
+
+Empathizing some, I crossed my arms, "Man, I can't imagine what it's like having your comrades thrown away like that then having to honor them after the fact...over and over and over again. It must be hard."
+
+The Overseer leaned back in his stone chair, peering at me, "It's strange that I'm discussing all of this with you. I shouldn't disclose my doubts like this at all, most of all with a usurper. Perhaps your obstinance is why I've decided to do so. You, of all people, wouldn't report my words to any higher-ups. You also understand some of my past, so perhaps your judgment will be tempered by mercy."
+
+I wrinkled my brow, "I didn't think there were members higher up than you?"
+
+"You've much to learn still. There are forces higher than Schema nested in the cosmos. He simply keeps them covered, and they choose to play along, remaining hidden. When you meet Baldowah, you will come to understand that."
+
+I spoke with confidence, "I've seen Old Ones more than once. They are overwhelming in many ways, but for the most part, they are limited. Maybe not where they come from, but here, in this dimension, they can only do so much. That means I just have to understand their limitations and work around them. Old Ones aren't so bad if you do that."
+
+The Overseer steepled his large hands, "Yes, but understand that you don't have access to what their limitations are. It is akin to cutting wires to a bomb. You never know when your actions will inadvertently cause it to explode."
+
+I narrowed my eyes, "I'll make sure to watch my step then."
+
+"I mean no offense with my statements. They are simply realities for you. If anything, I am simply warning you because you remind me of myself. I was in a similar position to yours when I became an Overseer. Schema offered me a deal, and at the time, I couldn't refuse. I took on this duty. In time, I completed my task of killing Yawm and avenging my species."
+
+The Overseer pushed his fingertips together using more force, "And now that my revenge is over, my species is still left shackled, but now I am bound along with them. The shackles are simply harder to see."
+
+It was a strange metaphor, but I shrugged, "It sounds more like your growing cynical. I get that. You're in a precarious position, so you're not in the best state of mind. It might be a good idea to take a step back and breathe."
+
+The Overseer leaned towards me, his voice rising, "Before I turned into this, I became a Breaker to kill Yawm. After many years of hunting and searching, I cornered that monster. He trounced me in combat and gave me mercy. Do you know why?"
+
+I dwelled back, thinking of the intimidating figure,
+
+"I don't know. He probably thought you were useful."
+
+"That is correct. Yawm's mercy acted as a message to my kind. He howled that he was above us, both in ability and character. That message stayed with me until his death, keeping me in stasis until you killed him. It was as if I was frozen in time, my goals single-minded and my paths narrowed. When he died, my perspective reopened, and new possibilities came to light."
+
+The Overseer tapped his neck, "But this will never allow me to escape my previous decision. I will work for Schema until time ends or death, whichever comes first. There was a time I dreaded that eternity of servitude, but hearing of a fallen Overseer, it makes me fear my mortality once more and for the first time in ages. Perhaps I should appreciate that fear. It shows I am still alive."
+
+I furrowed my brow, "Maybe one day you'll get out of that suit. You never know."
+
+"It is as much a part of me as that armor is of you."
+
+I lifted a hand, slicing my wrist with a heated blade of my armor. Silver, reflective blood leaked out as I smirked,
+
+"You sure about that?"
+
+The blood coiled back around my wrist, healing my wound. The Overseer let out a shallow laugh, "Perhaps not."
+
+A peaceful silence passed over us before the Overseer raised a hand to me,
+
+"What of your new status as Sovereign? Have you began planning out any political moves?"
+
+I shook my head, "No. I'm trying to make the most of this next week before I go to fight Plazia."
+
+"You should keep your new council position in mind when doing so. You could meet many people who rule many worlds. They would be similar in stature to Obolis, or far greater if they are ancients within the system. Some have lived for thousands of years, growing the entire time."
+
+A chill ran up my spine at the thought of ancient rulers. I lifted an eyebrow, my curiosity rising, "How would I size up against them?"
+
+The Overseer scoffed, "You're a big fish in a small pond." He leaned forward, "However, that council isn't an ocean. It's more akin to a large lake, one with sharks ready to bite. If it were up to them, they would swallow you whole as a hearty meal, but you won't need to hide for long before you exceed them, given the trajectory of your growth. It's what comes after your rise that I find interesting."
+
+He leaned back, "Schema didn't name you the Harbinger of Cataclysm without reason."
+
+Thinking of all the possibilities on my plate, a growing sense of unease passed over me. I raised my eyebrows, "Do you have any advice? For me, that is. It's not often I get to talk to anyone that understands my position and isn't trying to take advantage of me." I pointed at him, "At least I don't think you are."
+
+The Overseer tilted his head, "You want consultation from me? One of Schema's dogs, hmm?"
+
+"You're more like a guard or assistant. Besides, dogs are awesome. Anyway, I need some perspective. Considering the places you've been as an Overseer, you're offering plenty of that."
+
+The Overseer dwelled over my words and mulled them over in his head. Finalizing his thoughts, he stated, "Then listen well. I'd recommend three courses of action." He raised a large finger, "The first is to treat your allies well and use their full potential. You can give those around you an enormous boost in their aptitudes. Wasting that is like throwing gold into a dark well without a bottom. To see that come to pass, it would be a shame."
+
+"Note taken. What else?"
+
+"You must learn primordial mana. Given your unique situation, that energy will serve you best over the long term."
+
+He was telling me something I already knew, but I pushed down the urge to be a smartass,
+
+"Alright. Done."
+
+"And lastly, know your worth. Many will wish to tie you down from here on out and use your abilities for their own benefit. In terms of combat, you will be unique in the future. Don't give those tools to someone else. Let them be your own, and use them as you see fit."
+
+"Now that sounds like my kind of advice."
+
+The Overseer peered off, "Good. Keep those reflections in mind moving forward, and you shouldn't be in too conflicted a position."
+
+A blip popped up in his red status, causing the Overseer to stand up, "Your future aside, I must leave. There are many I must help, and time is finite." He stared at me, "For most of us."
+
+I pulled myself up, "Ok, well, I got some advice for you too before you head out."
+
+The Overseer leaned forward, "Ah, surprising. I will listen."
+
+"There was a point when I was forced to fight Yawm, and there was no way of defeating him in front of me. It was hopeless, but I managed to make the best of a bad situation. Of course, I made mistakes, and my situation isn't perfect, but I'm in a better place than I was then. Knowing what you've done and been through, I know you can do the same. Hold onto this idea, and you'll make chances where there are none."
+
+"Chances where there are none...Hm, that's true. That arises from hope, a powerful emotion, and it's pulled me through many a dark time already. It may do that once more." He lifted a hand, "I'll try to heed your words if you heed mine."
+
+I reached out a hand, "Then it's a deal."
+
+The Overseer gave my hand a firm shake before peering up at the colony, "Good luck with your siege of this planet. You shall need it, should Lehesion arrive." The Overseer raised a fist, "We will do our best to keep him busy in the meantime."
+
+I grinned, "Good. Keep fighting."
+
+The Overseer picked up the Sentinel's armor and spear before heading out. He stepped through the veil, leaving a lingering weight behind him. One could imagine that weight manifested from the severe conversation or perhaps from the Overseer's harrowing report of the war front. For me, that wasn't quite the case. Those factors left their impacts, but another reason pressed down like anvils on my feet.
+
+As the Overseer left, I waited for a few minutes with cold sweat dripping down my brow. Not real sweat but the metaphorical kind. At the same time, I kept my breaths measured, not expecting my circumstances to play out so well. After fifteen onerous minutes, wild excitement raced up my chest.
+
+The Overseer had made a mistake.
+
+I floated myself over towards Alpha's memorial, hovering above the action.  I scanned the ground for remnants of my battle with the twisted Sentinel. I found chunks of glass, rubble, and debris scattered about, but none of that mattered. Minutes passed, and I wondered if I'd misremembered. As I began to doubt myself, I found a violet shard sticking out from a pile of rubble.
+
+Perfect.
+
+I darted over, wrapping my hand around the humming, heated blade. It still sizzled with arcane energies, the intricacies hidden within its depths unknown to me. Pulling it close to my eyes, ancient incantations of the cipher sprawled over the surface of the spear shard. This was the fragment that snapped during my battle with the twisted Sentinel.
+
+I'd thought about taking a piece from a Sentinel before, but uncovering their secrets would've only resulted in being exiled. With my new Sovereign class, that wasn't the case any longer. I could research forbidden tech until my heart was content.
+
+And that forbidden tech started here, with my own dimensional slicer.

@@ -1,0 +1,85 @@
+---
+id: 7ee108d9-bac7-502f-924a-a1cc72a735db
+page-type-slug: story-chapter-royal-road
+title: "90: Professor, Thomas Lowe"
+slug: 0010-90-professor-thomas-lowe
+partOf: the-legendary-fool-a-deckbuilding-litrpg-b2-complete
+position: 10
+ownLength: 1036
+unit: words
+publishedAt: 2024-05-17
+link: "https://www.royalroad.com/fiction/60890/the-legendary-fool-a-deckbuilding-litrpg-b2-complete/chapter/1640535/90-professor-thomas-lowe"
+royalRoadId: "1640535"
+---
+
+Tom had a relaxed expression on his visage as he walked towards the Academy entrance with his head held high.
+
+“Good morning, gentlemen,” Tom greeted as he waited for a different pair of guards to open his way to the academy.
+
+“Professor Neliel,” One of the guards acknowledged, without making any move to open the gates.
+
+“We were informed that you would be returning in a few hours, which should have been yesterday evening. Is everything alright?” The second guard asked, his expression stony as he faced down Tom.
+
+“Ah,” Tom muttered under his breath, feigning forgetfulness the best he could. “Yes, yes, I had some personal matters to attend to. Now, gentlemen, if you would let me pass— I have a class to prepare for,” Tom dismissed their concern with an air of casualness.
+
+“Forgive me, Professor. New orders call for a quick sweep to be done on any anomalies. Arriving half a day later than you originally told us falls under this criteria. Would you allow us to do a quick sweep?” The guard that originally greeted him asked, his tone polite but firm.
+
+Tom’s flickered with realization, though he let none of his surprise show on his face. “By all means, good man. I have nothing to hide. But please be quick with it, as I really do have a class to prepare for,” He offered, stretching his arms wide to show that there were no weapons or the like concealed on his person.
+
+Three cards were pressed against his chest in quick succession and then withdrawn with similar quickness.
+
+Both the guards saluted him, before moving to open the gates.
+
+Appreciating that they had actually listened to his request, Tom politely nodded to them in acknowledgement before moving towards the Academy.
+
+‘That sure was a close call,’ He thought. ‘Well, I knew that they wouldn’t see through the Fool, but my own facial expressions… I suppose I did well enough.’
+
+Tom had deliberately chosen to arrive an hour earlier for many reasons. The first was of course, to get things in order for the class. The second was to prepare for the ambush. Only one of the four students Aleph believed capable enough to know the Greater Control Glyph was in his class, but he was grateful enough for that coincidence.
+
+He took classes for the first and second years, while three of the four students were already in their third and fourth years.
+
+And he had already excluded one of them from the list of possible targets.
+
+Knocking out Valeria Nezarie could have too many unforeseen consequences. Some of them might work in his and his party’s favour, but Tom wouldn’t be able to gain her trust in any of those scenarios.
+
+However, the third, least important reason was also ironically, his biggest motivator in arriving early.
+
+Tom really wanted to test out the Rune-Powered Elevator once he got to know that it existed.
+
+His first class was on the third floor, so he had good reason to as well.
+
+“Professor Neliel,” A sweet, chirpy tone greeted him from behind.
+
+Tom turned to face a blonde woman who wore an effortlessly pleasant smile, her tall frame wreathed in an enchanting floral dress that caught his attention even as he tried to pull it away.
+
+He turned his gaze towards the foyer he found himself in, taking in a painting that seemed to have some sort of mesmerizing effect— the longer he gazed at the cave mouth depicted in the painted, the more it felt like he was closer to reaching the light at the end of the tunnel.
+
+Tom had an inkling though, guessing that it would never come. It was a curious thing. Was it a painting depicting a nihilistic worldview, as it seemed on the surface, or did it conceal a deeper meaning? He was gazing at the tunnel from outside, after all. There was plenty of light in the foyer. Why should he search for light down the narrow path, when there was so much illumination out in the open?
+
+Deciding that he liked the ‘make your own path’ interpretation more, Tom wrested his gaze away from the painting with barely any difficulty.
+
+“Greetings, Professor Sheil,” Tom offered, his gaze drifting past the woman in her early-thirties and admiring the perfectly laid white-marble tiles with golden inlays running along their edges as he frantically tried to remember if she was part of the conspiracy.
+
+“Heading for class?” She asked, eyeing the pulled elevator lever before refocusing her attention on him.
+
+“You caught me,” Tom raised his hands in mock surrender. “I’ve got quite the lesson planned today, so I need to prepare early for it, you see.”
+
+“Oh? Do tell me more, please,” She asked, her eyes gleaming with curiosity.
+
+The chime of a bell interrupted their conversation, their attention turning to a construction of a dark, eye-catching wood, stained glass and glowing runes.
+
+“After you, Professor Shiel,” Tom gestured with his hands.
+
+“Awfully formal today,” She replied as she strode past him.
+
+Tom joined her in the magical escalator and watched as she pulled the lever back to the corresponding angle where the number ‘3’ was written on it’s base.
+
+“Well Shiel, this new teaching methodology I’ve been experimenting with has me a little on edge,” Tom sheepishly admitted. “Do forgive any faux pas I make today, I didn’t get a lot of sleep last night.”
+
+“Is being a tease part of those faux pas?” She asked, more playful than annoyed.
+
+“It’s centered around tapping on the students’ inner potential over imposing my understanding of Arcane Histories on them,” Tom explained as the chime of a bell saved him from further small talk. “I’ll explain it to you in more detail tomorrow, I promise. Well, if it’s not a complete disaster, anyway,” He explained, before stepping out of the magical elevator.
+
+“I suppose I have no option but to settle for that. Disaster or not, I want to hear more about this experiment of yours. Oh and good luck, Nel,” Professor Shiel offered him another one of those genuine smiles.
+
+Tom offered her a friendly nod in return, before deciding to make his way to the class.

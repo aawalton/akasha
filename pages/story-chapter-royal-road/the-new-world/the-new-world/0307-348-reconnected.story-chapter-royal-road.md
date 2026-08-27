@@ -1,0 +1,267 @@
+---
+id: cc8a6309-97b6-528e-8f66-6f80e4385c38
+page-type-slug: story-chapter-royal-road
+title: "348 Reconnected"
+slug: 0307-348-reconnected
+partOf: the-new-world
+position: 307
+ownLength: 4601
+unit: words
+ownProgress: 4601
+publishedAt: 2022-08-07
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/965653/348-reconnected"
+royalRoadId: "965653"
+markedReadAt: "2026-06-29T21:31:42.897Z"
+---
+
+A few rulers laughed at that, which was surprising since I didn't really think that was funny. One thing I appreciated was how everyone stopped gawking in amazement. Most of these people accustomed themselves to the unusual because of their station. It made me stand out less compared to home. Either way, I cracked my knuckles and got to making guardsmen golems next.
+
+It was time to turn this place around.
+
+Chapter Begin
+
+I clapped my hands, having created a dozen guards to protect the director here along with the giant mana battery. They gazed at me, shields on their arms and spears in their other hands. Quintessence coursed through them, keeping aggression low but combat ability high. These soldiers gazed forward while saluting me, and I appreciated the loyalty.
+
+Beside us, Entilla created connection points throughout the leader's room, and the director golem operated the terminal I made for him. The battery manager distributed power across the facility, lessening the need for a constant power supply. The other rulers gawked at what and how I handled everything, from the storm cores to the shapeshifting production methods.
+
+It all culminated with a changed mood across the rulers. Instead of doubt or disdain, a burgeoning hope grew in everyone present, including those that resented me at first. A clear sign of that mental shift, the rulers walked over without any jabs or comments when I called them. No one argued with me. Instead, they listened when I pointed them over to Entilla and commanded,
+
+"You four, help him with that. Get others on the job if you can."
+
+The ensemble of aliens and diplomats did so, hurrying over to Entilla, who stripped the floor and installed the new wiring in the building. Adding structure to the room, I pooled a thick slab of my dimensional fabric over the upper portion of the ruler's base. At the same time, I generated an elementary golem core to give the walls life. It managed a singular directive: eat radiation.
+
+It did so, the walls moving and shivering a bit while devouring the ambient rays. The effervescent warmth faded into a radiant cool, and the walls soaked in unseen rays. At this point, a few rulers marveled at my building material, and one of them murmured,
+
+"How does he keep creating more of it?"
+
+Having heard, I raised a hand, "It's actually mana converted into a physical form. I'm using blood magic...And before you ask, no, I'm not giving you any of it for research. That goes for everybody."
+
+A collective sigh oozed through the collective, but they silenced when my guardians slammed their spears down, each of them reminding me of a Sentinel in Schema's universe. They shouted psionically and in unison, "They will obey, creator. As you will it, it will be so."
+
+Walking around, a wave of gravitation sifted through the building, weighing everyone down. A few rulers groaned, though my antigravity well helped take the edge off. Wanting to further facilitate the comfort, I walked over towards the mana battery. Two hours later, I constructed four constructor cores. A quick snap, pop, and runic adjustment later, and the mana battery contained four constructors obedient to the director.
+
+The guardians lacked that obedience, and they held their own prerogative. This prevented any actual weak points in this system of golems. They'd need to take on the director and the guardians as separate forces, which contained a chokepoint in my system's operation.
+
+That handled the top floor, so I used my elevator to move downward. Entilla's ensemble followed me, everyone putting in solid work. Before we headed down, Shalahora floated over towards the elevator. As he did, the rulers gave him a wide birth, several of them even dripping with cold sweat.
+
+Before heading down, I waved the shadow Sovereign over. I raised a hand to him, "I think you'll have to sit this one out. After what you did to Malos, everyone's on edge. They won't be able to work while you're around."
+
+Shalahora murmured,  "Then I shall leave, though I'll still watch from a distance."
+
+"Sounds good. We can come up with a plan for Valgus after I finish crafting."
+
+While I headed over to the elevator, Shalahora dispersed. When he disappeared, a collective sigh rippled through everyone present, and I couldn't blame them. Shalahora seemed more volatile than I expected, but he was still a powerhouse with useful skills. Having him on my side versus Valgus was important at the moment.
+
+Regardless, we lowered to the next floor, and I tested the terminal I left behind on the elevator. The terminal operated for me, but it still needed some kind of language augments. Otherwise, the controls might confuse a nonstandard race.
+
+Despite those constraints, we shuttled down with the gray insect. After stepping onto the artificing floor, I peered around. This wasn't the best place for a building center, and in general, this base lacked any affordable housing. Before handling that, I reached up a hand, tearing through the wall and sliding a thickened cable of dimensional fabric it.
+
+With Entilla's help, we connected the colossal mana battery to the primary power source of the mages. As the psionic flow began, I reached up a hand and sliced through their main power cable. Seamlessly, the director golem above managed the energy flow, ensuring the ice cloud and fiery furnace continued operation.
+
+The many aliens here awakened from their deep, meditative states, many of them having sat there for days or longer. Many blinked out tears from the acrid stench engulfing them, and others threw up bile from their bellies. In a wicked wave, I sterilized the air around them with Event Horizon once more, and the others present gained some immediate relief.
+
+Before anything else, I stepped over to the edges of the room. While I plated the outer portions with my dimensional fabric, the sorcerers recuperated. They stood, stretched their legs, and regained their full faculties. In minutes, they cleared this place's reeking odor while cleaning themselves and handling their basic hygiene.
+
+They still stumbled while I walked up to Alctua and Teraz. I waved an arm, and the artificers stopped their work. Teraz eyed me with suspicion, and the fire imp growled, "Are you the one that stopped the ambient radiation?"
+
+I gave him a tight smile, "Yup."
+
+"And you must've stopped the gravitation as well."
+
+"Yup."
+
+Teraz turned to the cable I installed into their primary battery. The small alien shrugged while simmering, "I admit I was wrong about you. Happy?"
+
+I shook my head, "Naw. You were right to doubt me. I was a stranger arriving with big promises and a limited timeframe." My smile loosened into a wry grin, "But yeah, you'd be wrong to doubt me anymore."
+
+The imp waved a hand at me, "I take it all back."
+
+Alctua raised her scaled brow, "Hmm...This mana is much more volatile yet somehow...tainted and tamed? I can't even describe it."
+
+I flicked the wires leading towards her, "They're full of pure quintessence from actual blue cores. A golem of mine is controlling distribution, so neither of you will have to struggle with all of this now. Go buck wild with it, but make sure you don't let the mana overwhelm you."
+
+The fire imp crunched his brow, breaking the solid, stone surface of his skin. Magma dripped down like glowing, orange blood before solidifying. The imp snapped,
+
+"Oh, is this a test?"
+
+I put my hands on my hips, "Didn't you just say you wouldn't doubt me again? No, I'm not testing anyone."
+
+The fire imp smiled, "Remember, I took my words back."
+
+Alctua reached over and flicked him, breaking his skin once more. Teraz looked up, seeing his fresh wound. He grabbed the edges of his face and ripped his entire face off. The exposed magma solidified, the smooth portion turning into a sleek, black mask of stone.
+
+The fire imp cracked it while opening his mouth. He devoured his peeled face before licking his fingers. He saw me staring, so he grumbled,
+
+"What? You've never seen someone molt before?"
+
+I shrugged, "Honestly? Not like that I haven't."
+
+The icy lizard put her goggles back on, "Thank you very much. We'll get back to work-"
+
+I raised a hand, "When I finish, your workflows will change entirely. Until we know what you'll need to handle, take off and rest. After I'm finished, you can continue handling what needs to be done, but it won't be maintenance supplies anymore. Most likely, at least."
+
+Teraz fell back, spreading his arms wide. He groaned, "Gah, finally."
+
+Alctua pulled her goggles off and shivered before stepping up to the fire imp who snored already. She used his sleeping body like a campfire, warming herself up before she smiled at me,
+
+"Thanks."
+
+I gave her a thumbs-up, "No problem."
+
+Behind me, Entilla stared at us. Well, more like he outright gawked at Alctua. He looked stricken with her, and instead of ignoring his plight, I considered it. If I helped him, he might help me further down the line. Entilla was one of the few rulers with some initiative, and modern tech would help my cities after people settled on them.
+
+With all that in mind, I walked over and called him aside. Once at a distance from the others, I struck up a telepathic conversation,
+
+"Hey, we get it. You like her, but you're making it too obvious."
+
+Entilla stared at me with surprise before snapping, "What? No, I don't, and no, I'm not."
+
+I raised my brow at him, "Ohhh, really now?"
+
+His face wrinkled, "My feelings are my matters. Leave me be."
+
+"I'm not here to pour ice water over you or anything. I'm just letting you know I'm here to help if I can."
+
+Entilla pointed at a portion of the floor as if we talked about wiring specifics, "Is there any reason to trust you with anything?"
+
+I raised my brow, "I want you to help install some tech in my settlements after this. This is supposed to be a gesture of goodwill, but if it isn't helping, then I'll leave."
+
+Entilla narrowed his eyes and crossed his arms. His mind toiled with thought before he scoffed, "Fine...I like her. So what? She seems pretty cold towards me. I've tried talking with her before, but she hasn't even told me her name yet."
+
+I ruptured the floor, pointing at random parts to help fill in our cover for the conversation. I murmured, "She likes competence and being helpful. That's all I know, but also, I'm no competition. You don't have to worry about me."
+
+Entilla jeered, "As if she'd ever go for someone without any scales."
+
+I molded the surface texture of my skin to mirror a lizard's skin, a nice sheen glossing on the slick metal. Entilla saw Alctua peering over, and he waved his arms, "Ok, ok, point taken."
+
+I normalized myself while laughing, "Hah. Anyways, good luck."
+
+As I walked away, Entilla coughed into his hand, "Ahem, thank you. I'll probably need some luck to get a chance, and I'll see if I can help with your connection issues later."
+
+Stepping away from him, he clapped his thin hands and got back to work. I walked past Entilla and Teraz. She still warmed herself while giving Entilla a second look. I gave her a gentle, telekinetic nudge, "Interested?"
+
+She frowned, "I was just thinking how pathetic he was."
+
+Ouch. Poor guy. I pulled down my helmet while scratching the back of my head, "He was one of the first volunteers to offer help with my remodeling. He's a big part of why I'm this far along already."
+
+Entilla stood around a group of the wizards, rallying a team of helpers to hasten the wire installation. Alctua tilted her head, and she licked one of her eyes with a long, forked tongue. She shrugged, "Hm...At least he knows his place."
+
+Not knowing if I was helping or hurting, I coughed into a hand, "Well then...Cya later."
+
+She gave me a look, "I look forward to seeing what you'll do next, Harbinger.."
+
+I got out of there before helping Entilla install wires. He stuck with smaller wires while I implanted thickened cords throughout the building in cardinal directions. These cables acted as thick branches that Entilla spread the thinner threads from. Once I saturated the floor's wiring, I worked my way towards the heating furnace and the icy blizzard over Alctua's head.
+
+I worked with the stove for a few minutes, and I found many enchantments augmenting my handling of heat. Alctua let me borrow her ice storm, and it also gave me a better grip on cold magic. Unlike the furnace, the blizzard leaked lots of energy out while I used it. That's why Alctua struggled with keeping herself warm.
+
+Considering she was cold-blooded like Entilla, she pushed through a lot of hardship to keep everything up and running, so my respect for her leveled up. Having gained an understanding of the tools they used, I designed, wrote, and implemented a cipheric slab for a better furnace.
+
+Unlike their current design, mine allowed either of them to operate in both frigid or sweltering conditions. Having used the blizzard myself, I kept the containment of the workstation as a top priority. These rulers lacked my durability, so their tools had to do a lot more than just help them work. They needed to protect them as well. Ensuring that shielding, I created a fine mesh of wire that acted as a tarp while they worked.
+
+The nets used a weird, mana plume skill I made a while back, the webbing of the wires mirroring the leaves of a fern. These nets absorbed radiant heat and cold, working towards a moderate temperature at all times. As a final note for safety, I gave them enchanted gauntlets that distanced them from their tasks. Physically speaking, that is.
+
+The gauntlets require some practice to use, but once mastered, they let anyone use the heated telekinetic points I used in my own crafting. It wouldn't match the specificity or power I wielded, but the gloves made a problematic task far less dangerous. After connecting those gauntlets and tarps to a mana siphon, I placed blue cores into each apparatus.
+
+This served several purposes. It granted the furnace power even if someone broke the cables leading to it. It also stabilized the psionic flow, which was essential. These two would be wielding a lot of energy, and that mana carried with it a measure of will and intent. The blue cores stabilized that chaotic flow, letting them use more safely.
+
+Lastly, the cores spawned a shield over their station, the writhing energy bubble insulating them from the rest of the Survivor's base. All of this gave the rulers much-needed space, something they didn't think they needed. They were wrong. These people required R&R more than they needed basic supplies.
+
+Giving them that, I stepped out of the blue core shielding and spawned 'beds' where the sorcerers once channeled energy. I kept these beds simple, using steel grids covered with soft, lush plant life and soil. To keep the plants alive, I connected the beds to the mana grid and put in simple water creation runes. These sigils converted mana to water, and they helped clean the air.
+
+Finishing the effort, I erected steel walls around each bed, creating a framework of boxed-in cubicles. Sprucing them up, I connected a simple tube to each water sigil, letting someone shower in them. Testing it out, it operated, but the water came out cold as ice. I put in ambient warmth runes over the showerheads, and it came out nice and warm.
+
+Getting caught up in the project, I put shelves along the walls, nightstands on the bed, and a desk in the open space left. In all honesty, those parts took seconds to add, and they made each place look far less like prison cells. Completing that idea, I gave each steel box a door with a gravity well lock.
+
+The gravity well unlatched with a ring's mana signature, each one written with a unique series of Schema-based runes. While handing out the jewelry, I made each ring with a few extra augments for willpower, regeneration, etc. Considering how many rings I'd already made, the task took little time or effort. Despite the ease of making them, the difference those circlets made was palpable.
+
+Aliens stood taller, crawled faster, and rested easier. Most of the wizards lacked the energy or wherewithal to thank me with gusto, but the little gusto they had left was used to display palpable emotion. Shock, tears, and disbelief, the rulers showed feeling with a vibrance akin to a rainbow, each shade as striking as the last.
+
+At the center of it, I relished the sight. Even if I did this for my own gain, helping people felt good. It was a really underrated pastime, and more people should try it out. In many ways, assisting others offered meaning and purpose to life. In my case, it happened to give me money too.
+
+Anyways, I gained plenty of rapport while turning the lives of the rulers around. Even if I enjoyed the process, I maintained a professional attitude. Before handing off the rings, rulers signed the cipheric contract I made. The circlets gave access to the power network as well, along with the means of contacting the director overseeing the entire base.
+
+It made the whole process streamlined compared to a more traditional building scheme. Having finished a hundred rooms, I rode my elevator back up before handing the rulers their rooms and rings. Many followed me down, listening to my explanation of the utilities within. This eroded the mountains of doubt they had for my abilities, and most of the holdout rulers signed the contract.
+
+Those that sided against signing lacked access to the power network, the rooms, and all other utilities. It was their choice.
+
+I rode down towards the barracks of this place, having many of the rulers enter their new living quarters above. Though the new layout distressed some, gaining privacy emboldened most. The mercenary leaders, military contractors, and royal guards entered the cipher contract without much resistance. Only the most die-hard rebels went against me, and once again, that was their choice.
+
+Cracking my knuckles, I went about ensuring they regretted that decision.
+
+Taking out blue cores, I constructed weapon after weapon made from my dimensional fabric. Simple swords and heavy hammers gained life from cipheric etchings and humming cores. These simple cipheric augments evolved the weapons into destructive forces, each weapon fitted for the one that wielded them.
+
+I lost a few rulers because I constructed the weapons out of, well, me, but I was happy to see them refuse to sign. If all it took to stop them was an unordinary building process, then they lacked a mind open enough for what was to come. With willing subjects at my fingertips, I tested out my golem-based mechs.
+
+All they needed to do was put themselves in a golem's body and deal with the psionic implanting process. Yeah, unpleasant, but it let them gain a titan's body without having to learn any fancy control scheme. It would be like a second body, one superior to their own.
+
+And yeah, it stopped me from having to install fancy monitors and modern tech. I could do a lot, but that was beyond me.
+
+Finishing twenty golem pilots, I rubbed my hand down my face. It was an attempt to wipe away my general fatigue, but to my chagrin, it didn't work. It never did. My time magic made everything much harder, the perpetual psionic dying turning into a tremendous burden over time. However, this all acted as a training exercise for me.
+
+I'd be living in a temporally accelerated world for a long time. Adjusting to its eccentricities gave me options, and mastering simple, everyday tasks saved time. I repeated that to myself over and over because I turned what was supposed to be a rejuvenating break into another trial by fire.
+
+But I needed to keep pushing. Exhaustion was no excuse to stop, and neither was the desire for comfort. The more comfortable I tended to be, the worse my life ended up becoming. In the trenches of hardship, I found meaning. On the battlefield of unease, I learned how to stand tall.
+
+So I did so. Without taking a break, I armed this place with golem mechs, weapons, and basic armors. I kept the plate mails thin since my armor weighed most people down. Those that withstood the pressure were better for it, the additional resistance being an excellent training stimulus. The armors granted all the benefits my equipment always gave as well: mana, regeneration, and simple abilities.
+
+The entire time, I talked with the rulers and discussed their preferences for their weaponry. This personalized creation meant each piece had a specific owner. Using my patented ring system, I made each cored weapon reliant on a ring's stimulus to activate. Otherwise, it would psionically attack whoever tried moving it.
+
+They were like modified core golems but shaped like weaponry. Having living weaponry stopped rulers from stealing my stuff. It could still happen, of course, but the director above would take care of finding and hunting anyone who did so.
+
+And I mention these precautions were for rulers stealing from rulers. No one, and I repeat, no one would steal anything I made here. I addressed all of that in my contract. Stealing of my property would lead to at least two deaths, and everything must be left behind on Leviathan-7 when the lottery ended, including the base itself.
+
+This prevented people from turning in my hard work as their own. It also gave me more leeway in what I gave to the rulers. That's why I used just over two hundred blue cores for the remodel already. I'd get all of it back by the end. Getting ready to invest even more, I shuttled down towards the terrarium floor.
+
+The blast of cool air from the plants refreshed me some as I reached the center of the room. To my left, Drelex sat in an algae pit, the humidity high and his catfish whiskers wilted. He leaned his head back, looking at peace with the world. He murmured as I walked nearby,
+
+"You work fast...I'll get to the language ciphers once I've recuperated fully." He sank deeper into the pit, "Which, ahhh...Could take a while."
+
+I gave him a nod before getting to the task at hand. This floor required the most basic sigils yet. Air, water, and plant generation were all these people needed from here. Of course, my artificial creations lacked the flavor or texture of the real thing, but they acted as a reliable food source. Fruits and vegetables proved easy to make in mass. Meat was a different story since my origin mana made cancerous creatures.
+
+People could eat it...Uhm, if they wanted to.
+
+However, they weren't this desperate, so I only made a few pens of the mutants before grabbing everyone's signatures for the contracts. With the signs in tow, I rode up my elevator to help Entilla. He installed the wiring for lighting and for recharging stations. He even created obelisk charging ports, and many rulers lined up for them.
+
+In fact, many rulers joined Entilla in his remodeling. With access to power and relief, the constructive might of these rulers bloomed. They constructed a network for the place, letting everyone connect to one another. They created psionic relays that conditioned the mana for their personal use. Hell, the rulers even made recreational stuff like spas, gameboards, etc.
+
+While I installed wiring, several individuals implemented programs onto the new network. They automated problems with daily life. From holographic projectors to real-time maps of Leviathan-7, they gave everyone usable, practical utilities. They even created a behemoth tracking system. In hours, these people turned this hellhole into a bastion of technology, the fruits of their labor ripening all at once.
+
+And I wanted some of it for my cities.
+
+After we finished the terrarium, I stepped up to Entilla. The blue lizard ruler created a heating suit for himself, having traded favors with a tailor-based ruler. I admired the tech for a moment before raising a hand to him,
+
+"Yo, Entilla. Do you mind talking after we finish here? I might have a job for you after this is done."
+
+Entilla raised his scaly brow, "Oh, really now? Do you need my help of all things? And here I thought you had a kingdom already."
+
+I waved an arm while rolling my eyes, "Pshh, come on now. I was just trying to make sure I wasn't shaken down the moment I stepped into this place. It wasn't like I was trying to make anyone else look bad."
+
+Entilla grabbed the edges of his tech-laden jumpsuit, "I suppose I can look past your transgression and help you...If I find the time."
+
+He coughed into a hand, "Ahem, but in all honesty, when would you like to talk about it?"
+
+I shrugged, "A few hours from now. I have no idea how long it will take to handle the last floor."
+
+Entilla scratched the side of his neck spikes, "That's where the most complex machinery is. I would've insisted we helped them first, but most of their immediate needs were handled by you up top, like gravitation or radiation. If I were giving you an estimate, a few hours seems about right."
+
+Entilla gave me a friendly shove on my shoulder, "Oh yeah, I was wrong about you. I, hm, I had a real chip on my shoulder, and you knocked it off. I figured I'll say what everyone else is thinking-"
+
+Entilla smiled with sharp teeth, "It's good to be wrong sometimes."
+
+I reached out a fist, "Thanks, man. Let's go clean up the last floor and get this over and done with."
+
+Entilla looked at my hand before trying to emulate my gesture. He couldn't make a fist because his fingers ended with pointed claws. Doing the best he could, he made a loose fist and reached out. One of his claws caught between the plates of my gauntlet. When Entilla pulled his hand back, one of his nails pulled off.
+
+Entilla reached his hand up to his face, his eyes wide. He stammered, "Agh, huck. Gahh."
+
+I pulled the missing claw out while holding down a laugh. He snatched his nail from me while snapping, "Every time I try to give you an inch, you make me regret it."
+
+A snicker escaped me before Entilla tossed his claw into an algae pit. He shrugged, "Anyways, let's get back to work. I'd rather deal with wiring issues than that demonic gesture of yours any day."
+
+We rode the elevator down while other rulers followed behind us. In the medical bay, Iona walked around, panicking between patients. Several monitors buzzed and squealed out with high-pitched, panic-inducing sounds. I flung myself over with a localized gravity well, landing with a dull thud. I raised a hand to her, "What's up?"
+
+Iona raised her hands and wings in tandem, "They're dying from barotrauma."
+
+Answering my confused expression, Iona snapped, "You depressurized everything too quickly. Their tissues were already weakened, and they ruptured when you fixed everything so fast."
+
+I tilted my head, and my eyes turned to slits, "Oh...Really now?"

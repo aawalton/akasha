@@ -1,0 +1,159 @@
+---
+id: 8dbcf659-b753-50da-b533-0ab671d179ae
+page-type-slug: story-chapter-royal-road
+title: "Chapter 80 – Fight for Renir"
+slug: 0080-chapter-80-fight-for-renir
+partOf: the-magpie-and-the-archmage-monster-evo-litrpg
+position: 80
+ownLength: 2105
+unit: words
+publishedAt: 2026-02-04
+link: "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3010941/chapter-80-fight-for-renir"
+royalRoadId: "3010941"
+---
+
+The king fish was swimming towards her, its mouth wide open. It was then that Liora saw its nameplate in bright red color.
+
+[Bowfin Ravager]
+
+But the fancy name meant nothing, especially if its eyesight was so poor. It failed to deduce that there was no way it could swallow her whole. Not anymore. As lumenwing aethral, Liora was probably the biggest flying bird in existence. By Earth standards at least. She didn't yet know what the biggest bird in this world was.
+
+As the king fish swam towards her, Liora braced herself, preparing her talons and beak. It crashed into her without slowing down, mouth wide open as it tried to suck her in. But Liora sunk her talons into its flesh, surprised by how easy it felt. It was as if her talons were finely sharpened knives filleting a fish.
+
+The fish didn't like that and began thrashing wildly, trying to free itself of her grip. But she wasn't about to let it go scott free. She Lunged at it with all her might, making sure to use her new beak to its full capacity.
+
+[You've unlocked a new skill – Rend.]
+
+[Rend – A powerful beak strike that tears into flesh, which at [Basic] level deals 200% damage to the target and inflicts <Bleeding> affliction.]
+
+Liora didn't hesitate to put her new skill to use. Without mercy she tore at the king fish, biting out a chunk of its flesh near its head and causing the whole surrounding water to turn red.
+
+Water near the fish began to vibrate with energy, and Liora quickly tugged on Cee's web, thus signalling the spider to pull her up. She was pulled almost instantly, and yet it wasn't a moment too late.
+
+The king fish unleashed some sort of strange attack which caused a giant whirlpool form around it, pulling everything inside it. Including Renir.
+
+NOO!
+
+Liora could only watch as Renir disappeared in its mouth along with some small fish which were unfortunate enough to be close at the time. But she at least was pulled up to safety, Cee looking down at her with concern from her tree branch.
+
+"Did you get him?" The spider asked.
+
+"No! The stupid fish swallowed him. I'm going back in," Liora announced, flying up some distance.
+
+"Wait, wait, how do you intend to fight it? You can sort of swim, but you're by no means an aquatic creature," Cee said, holding her thread nervously.
+
+"I'll let my instincts guide. I feel that this new evolution of mine is meant for battling fish."
+
+"Catching fish, more likely!" Cee objected.
+
+"Whatever. It swallowed Renir. There is no way, I'm letting it leave," Liora said and dove back into the water.
+
+It appeared that the fish was waiting for her. As soon as she dove into the water, the fish latched onto her leg and dragged down to the very depths of the marsh. It was trying to drown her.
+
+Unfortunately for the fish, Liora still had solid ten minutes before she would need to resurface for air, so she used Rend again, deliberately aiming for one of its front fins and tearing it off. This prompted the fish to release and then smash her mercilessly with its tail, sending Liora some good distance away from it.
+
+The hit was powerful, nearly knocking all the air out of lungs. She definitely couldn't allow herself to be hit with more of those. But had no intention of doing so. Liora flapped her wings, testing just how quickly she could move underwater.
+
+The fish tried to do another full body tackle on her, but her Fluid Flight skill turned out to be quite useful even at Basic level. She was able to move out of the way and maneuver in water. It wasn't nearly as comfortable as in the air, but she was by no means defenseless.
+
+As she turned to give chase to the fish, Liora saw how it had swam to the bottom of the swamp and kicked up all the sand and much from the bottom, creating a near invisible barrier. Even with her amazing vision, she couldn't through and before long, the whole area was completely covered in sand and grime.
+
+She didn't want to fight the fish at such a disadvantage, but what if it tried to get away. Liora had to make sure that it wouldn't escape. So she stood still and waited, expecting the fish to strike. Her heart hammered as she waited. How many more minutes could she remain underwater?
+
+Then she sensed movement near the tip of her tail and whirled around, instantly opening all of her talons and striking with her beak with intent to Rend whatever it was that happened to be in her path.
+
+The fish likely hadn't expected such a quick reaction, and tried to pull free. In its moment of panic Liora tugged on Cee web and hooked around the fish's remaining fin. Then with a powerful flap of her wings she swam up until she was back in the air.
+
+"Cee, get ready! I hooked the fish," Liora warned as soon as she got a breath in.
+
+"You hooked the fish to my web?" Cee exclaimed in horror, nearly dropping the web. "If it pulls me underwater, then it'll eat me in one gulp."
+
+"I just need to make sure it doesn't run away. Can you attach the web to my foot?" Liora asked.
+
+"I can, but you'll likely get tangled in it underwater since it's sticky now."
+
+"Okay, then jump on my back."
+
+"What?" Cee screamed in shock.
+
+"We'll track the fish. If at any point it feels like it'll pull you under, then let go. I just need to pinpoint its location."
+
+Cee looked torn for a moment, but then she jumped, landing on Liora's back. The spider was extremely careful with the web, making sure that it wouldn't get tangled in her wings.
+
+"So, where is it?" Liora asked.
+
+Cee tugged on the web and indicated a direction with one of her front legs. "Over there."
+
+Liora flew over to the spot, and then Cee indicated that the fish was swimming away. For a while they kept up this chase as it was clearly trying to free itself from Cee's web. But it wasn't able to and Liora wasn't against wearing it down a little. Flying felt so effortless in her new form.
+
+After a while, however, the fish clearly grew tired of the chase and began pulling the web underwater. Liora flew until the web in Cee's legs was completely vertical. The fish was right underneath.
+
+"Jump, Cee, and let go of the web!" Liora said.
+
+Cee instantly obeyed, leaping to the nearest willow mangroves. Liora folded in her wings and dropped. She wanted to test whether she could trigger Skypierce to work underwater. Like a bullet Liora dove underwater.
+
+She expected the water to slow down her descent, but even underwater she kept going. Liora could only deduce that Fluid Flight allowed Skypierce to function underwater too. When she struck the fish, it wasn't as powerful as it would have been above water, but it was still a massive impact that left a injury all the way to the bone.
+
+Liora wasn't going to give it breathing room. She latched onto the king fish's back and used Poison Shot at near point blank range. Most of the poison dispersed into the water. But some definitely went into the fish's injuries.
+
+It began rolling wildly in the water, spinning both itself and Liora like crazy. But Liora ignored it. Her talons kept her firmly latched onto the fish so all she had to do was keep Rending bite and after.
+
+She did feel like she would hurl at one point. But the fish eventually slowed down. The combination of blood loss, poison and Liora's relentless tearing was too much. Although it was the king fish of this marsh, it was wholly unequipped to deal with a creature like Liora.
+
+[You're defeated <Bowfin Ravager – Level 35>.]
+
+[You've reached Level 5.]
+
+Liora swam up to the surface, dragging the dead fish along with her. She needed to get Renir out of its stomach. The thing was heavy, but Liora's new strength allowed her to pull it up successfully.
+
+"Cee! I need to secure this thing so it doesn't sink!" Liora called out.
+
+"I'm on it!" Cee said, swiftly jumping down on the fish's body and tying her thread around its head and fins. She then jumped back on the tree and began pulling.
+
+Liora took flight, also pulling the fish higher up, and Cee then proceeded to fully secure it. She jumped from the fish to the tree, then back to fish, while masterfully weaving her web.
+
+At the end, they had the king fish hanging on the willow mangrove branch like a fisherman's trophy.
+
+"What a catch!" Cee announced in satisfaction. "I got three whole levels from that thing, and I barely did anything."
+
+"I got five," Liora bragged, landing on the fish's body and allowing her Treasure Sense to locate Renir, her most precious treasure. She sensed it inside the fish's gullet.
+
+Her first instinct was to dig into it with her beak like she had done before when retrieving glimmerstones from monsters. But her talons were so sharp now. Perhaps she could just cut the fish open.
+
+Experimentally, she sunk her talon into the fish's belly, watching with morbid curiosity how easily it sank in. Then she pulled it down, effectively cutting its belly open. Guts, small fish and other garbage fell out and down into the water. Renir was among them so Liora swooped down and caught him before he could disappear into the swamp again.
+
+"Gotcha!" Liora cheered, quickly dunking him into the water to wash off fish-guts.
+
+"Don't gotcha me, you insufferable birdbrain! You dropped me into the water!" He yelled angrily. "Do you know how horrible it was? I thought I would have to spend eternity underwater. I couldn't even see anything around me, and then stupid fish swallowed me. Why do they always end up swallowed by monsters?"
+
+Renir kept ranting for some time, describing in visceral detail how the inside of the fish's stomach looks and complaining how Liora would never understand how truly horrible it was. In the meanwhile, she landed on the king fish and meticulously dug out the glimmerstone, taking one for herself and tossing another to Cee. In total she dug out fifty glimmerstones, many of them hidden under scales. A new record!
+
+"...and then the feeling of sliding out together with all the guts. Did you know that I've developed more of a human sense since breaking the seal. I can feel stuff better now and—"
+
+Renir suddenly paused his rant, as if realizing something. "You evolved?!"
+
+"You only just noticed?" Liora accused. "I was evolved the whole time I fought the fish underwater. Didn't you see?"
+
+"I told you that I couldn't see anything. Unless I'm in your Inventory, I don't have your godly vision," he said. "But an aquatic evolution. That's perfect. Exactly what we need for where we're going next."
+
+"Where are we going next?" Cee asked.
+
+"Oh. The intelligent spider still hasn't ditched you for your stupidity. Your kindness knows no bounds, lady spider," Renir said graciously. Liora could almost imagine him doing a noble flourish.
+
+"How come you're only rude to me?" Liora accused, landing on the branch next to Cee. It was a bit tricky to navigate among the tendrils with her large wings, so she took her magpie form. It was strange how in an instant the world felt so much bigger.
+
+"Because you're the one who dropped me."
+
+"After you said that you'd rather have Cee find you and not me," Liora noted bitterly.
+
+There was a moment of tense silence, during which Cee awkwardly shifted with her legs.
+
+"I… I apologize. I didn't mean it. Well, that isn't to say that it would be bad to be found by Cee. But it wasn't bad to be found by you, Liora. You've saved me a lot of times. I really do appreciate what you're doing."
+
+Liora puffed out her feathers proudly. It was nice to receive some praise and recognition.
+
+"Although you created a lot of those messes yourself. Like the time with the gnoll and—"
+
+Liora tuned him out and turned her attention to Cee. "We're going to Abylport next. A human town. I'm going to show you all the good food."
+
+"Finally! I can't wait to leave this stupid swamp!"

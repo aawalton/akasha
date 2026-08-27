@@ -1,0 +1,233 @@
+---
+id: f6981533-4baf-51d9-82cb-7befd1bc2712
+page-type-slug: story-chapter-royal-road
+title: "Chapter 88 – Evolved Spider"
+slug: 0088-chapter-88-evolved-spider
+partOf: the-magpie-and-the-archmage-monster-evo-litrpg
+position: 88
+ownLength: 2199
+unit: words
+publishedAt: 2026-02-23
+link: "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3082853/chapter-88-evolved-spider"
+royalRoadId: "3082853"
+---
+
+The preparations for the island raid went full swing. The mage kept the barrier steady while Liora kept the air inside pure, helping the adventurers to truly recover their strength and plan for the attack.
+
+They expected the island to be filled with monsters since fishmen apparently bred at an astounding rate. Thankfully, they shouldn't be too high-level since the previous expeditions must have culled them down somewhat, but the fact was that there would be quite a bit of resistance before they got to the source of the corruption.
+
+Liora wondered whether the source was the shapeshifting monsters, which she initially thought would be the worst case scenario. A shapeshifting monster powered by corruption.
+
+No, that would actually be pretty good actually. Skinweavers are so strong because they are smart and use opponent's weaknesses. If its mind has been taken over by corruption, then it'll likely keep shifting without analyzing enemies properly.
+
+Yes, but it would be stronger.
+
+With your holy magic and Morgana's grit, I'm sure you would pull through.
+
+The other scenario was that the corruption actually came from a divine artifact just like in Blightpeak. This would mean that Liora would have to locate the corrupted thing and purify it.
+
+She would much prefer that this was the case. Finding the artifact should be easy with Treasure Sense, and Purify, cleansing it shouldn't be a problem.
+
+Morgana's crew was also hopeful. They had all worked out each other's weaknesses and ways to cover it. Somebody feared snakes, so they worked on a way to best defeat a snake. Somebody else had strong aversion to fire, so they worked on a way to douse the flame and fight it effectively.
+
+At one point they even asked Liora.
+
+"Hey, Bird! What are you scared of?" Morgana called, while Liora diligently sat watch and guarded Cee.
+
+"Cramped spaces," Liora replied.
+
+"That makes sense… But then again, I don't see how a shapeshifter could take advantage of that," she muttered.
+
+"It could turn itself into a giant dome of sorts, but it would leave it exposed to our attacks and rather immobile. I don't think we have much to fear in this regard."
+
+Liora, why do you lie?
+
+I didn't lie.
+
+Yes, you did. Your biggest fear is losing shinies.
+
+It's not like the shapeshifter can suck glimmerstones out of me, so I think I'm good.
+
+When it came time for the mage's four hours of rest, Liora would also join in the ship's defense. Her main focus was always to keep Cee safe, but there weren't any enemies to even try crawling up the crow's nest.
+
+But there were plenty coming aboard, and this time, Liora decided to use her talents above water. She would strike the fishmen with Skypierce and then allow the crew to take care of the rest. She used Poison Shot on everything that had a visible wound, and Rended those that didn't.
+
+Focus on the skills that are lower level to improve them. Most importantly, don't forget Mana Conversion.
+
+Liora did exactly that, by the time the wave of fishmen was defeated and the mage was well-rested she had made substantial gains. Three more levels, Skypierce and Poison Shot reached Expert level while Rend reached Adept level. It was amazing progress.
+
+Glimmerstones were… more sparse. She grabbed what she could before corpses were thrown overboard, there wasn't much time with the amount of fishmen coming again and again.
+
+"Okay, we're settling down for the night. Rest well, because we are going to explore that island tomorrow and find the source of this damnable fog," Morgana announced after dinner.
+
+Liora slept in the crow's nest, next to Cee and hoped that her evolution would finish in time.
+
+"Rise and shine, sleepyhead!" Cee poked at Liora's cheek.
+
+"Wait, you already evolved?" Liora exclaimed, fluttering her wings in surprise.
+
+She assessed Cee carefully, but overall, she didn't look much different. There were some bluish lines on her carapace and legs, but they were barely noticeable.
+
+"You don't really look very different," Liora noted.
+
+That explains why evolution happened so fast.
+
+"No…" Cee said dejectedly. "I wanted to look more like a human somehow…"
+
+"How would that even work?"
+
+"You know how in Japanese folklore they have a spider with the upper body of a woman?"
+
+"That's almost scarier than being just a spider…"
+
+"Yeah, but it would be a great transitional stage," Cee countered. "In either case, I feel great, because I can finally do proper magic!"
+
+How? Please ask her to explain the sigilweaver!
+
+"Don't keep the suspense. Evolution must have done something!" Liora urged.
+
+"Sigilweaver. This evolution allows me to turn my webs into ritual circles. By using elemental thread I can either enhance the ritual of the same element or mix elements."
+
+That is amazing! Rituals in general are very powerful, but mixing them with elemental threads… I want to study this in intricate detail. It's like a whole new field of magic.
+
+"What did Renir say?"
+
+"He's going crazy from excitement… Wants to study it in intricate detail," Liora said.
+
+"You should pull him—"
+
+"Absolutely not!" Liora shot the idea down before it even left Cee's mouth.
+
+Yes, it's too risky. We have no idea whether somebody in Morgana's crew might be cahoots with the Night Order. Heck, Morgana herself hates me more than anyone else. If she somehow figured out that I was here, she would grab my gem and smash to pieces.
+
+"Renir agrees with me. It's too risky. We'll do it once we're safely away from any humans."
+
+"Okay… Although I'm not quite sure how these new webs work. I have a new skill called Sigil Weaving, but I'm not sure how to use it…" Cee muttered.
+
+Sigil Weaving… I've never encountered such a skill. Could she read the description?
+
+"Could you read the skill?" Liora asked.
+
+"Sigil Weaving. Allows you to weave sigil into your web. Sigils can be combined into a ritual or activated remotely at your command," Cee read.
+
+Fascinating. So Cee's web basically acts like mana ink allowing her to draw sigil. But it appears that she needs to actually know the sigil to use them.
+
+Liora repeated Renir's thoughts Cee.
+
+"But I don't know any sigils…"
+
+Yes, this is troublesome. I obviously know how more sigils than one could ever count, but I have no way of demonstrating them…
+
+Maybe you could tell me how to draw one and I could show Cee.
+
+It's not so easy. Sigils need to be precise to work properly. If you draw it wrong, then it won't even work or worse could even backfire.
+
+Then what was the point of her becoming a sigilweaver if she can't use her new skills?
+
+"I picked the wrong evolution…" Cee cried, poking dejectedly at the wooden boards.
+
+"No, you didn't. You just need a book to study it from," Liora tried to console the spider.
+
+"I don't think there are any books here…"
+
+Wait, I got an idea. A sigil Cee should have no issues creating and which would be a great asset in the upcoming battle.
+
+"Oh, it appears there's a sigil Renir can teach you."
+
+"Really?" The spider perked up.
+
+Yes. It's called a shatterweave sigil. What it does is create tension points in the air condensing mana into thin strings. When a burst of mana is introduced, then these tension points detonate creating a small mana explosion. Best of all, this sigil doesn't have to be perfect. The main point is that it looks like a spider's web where the repeating circles command mana to condense but the line in between serves as tension points.
+
+Wait, slow down. Let me tell all that to Cee.
+
+Liora recited Renir's words and added a bit more magical techno-babble that described the look of the sigil.
+
+"So there's sigil that looks actually like a spider's web," Cee said in amazement.
+
+Yes, but you mustn't go beyond four rings yet. I'd recommend going with three since that is the minimum for this sigil to work. You need five tension lines in the middle, seven in the inner ring, nine in the outer one and then increase by two with each new ring.
+
+Liora told Cee that.
+
+"Okay, I think I got it. I wonder if we can try it out somewhere," the spider wondered.
+
+"Not on the ship. Morgana would shoot us if we caused any trouble."
+
+"Maybe I could throw it into the sea?"
+
+"Maybe let's wait until we get on land."
+
+"Okay," Cee agreed somberly, although she was clearly itching to try out her new skill.
+
+"Hey, beasties. Time for breakfast!" Morgana called, pointing at another footshark cooking over the fire.
+
+Liora flew down, took a piece for herself and Cee and flew back up. The two of them ate, as did the crew.
+
+With Cee's evolution complete, battle strategies discussed and everyone mostly rested, the group headed to the shore. Liora didn't bother waiting for them. Instead, she and Cee flew to scout the island. As much as they could at least, as quite a lot of it was covered in thick miasma.
+
+It was difficult to breathe, so Liora would occasionally use Purify to clear the air around herself and Cee as she scouted.
+
+"Am I glad not to have a nose right now. Can you even breathe this?"
+
+"Just barely. I purify a lot of the air I breathe."
+
+I'm proud you've learned to adjust your mana input for the spell, you don't spend so much. Your control over magic is increased.
+
+I'll be honest, I'm going completely by feel here. Don't ask me to understand what I'm doing.
+
+That's fine. You have good instincts. Sometimes it's better to use those than to rely on your head. Especially if that head is filled with nothing but shinies and treasure.
+
+They are crucial.
+
+Of course, of course…
+
+The flight around the island showed that it wasn't actually that big. Not bigger than Abylport. However, the amount of monsters here was staggering. Wherever Liora flew there were monsters. Fishmen, giant toads, reptiles, bugs and all sorts of other nasties that enjoyed the noxious air.
+
+However, she didn't see anything that she would describe as the boss monster. Obviously, the shapeshifter could be any of these creatures but how could they figure out which one.
+
+Her Treasure Sense also didn't trigger. It remained silent thus claiming that there was nothing of value on this island. But that wasn't right. The corruption needed as a source.
+
+Something isn't right here.
+
+I'd say a lot of things aren't right here.
+
+No, I mean even for a corrupted area. I don't see the boss monster and neither do I sense the source. I'm concentrating on it, but no—I just can't find it.
+
+Hmm… Something fishy is going on here. Besides the fish.
+
+This is no time for puns.
+
+"How come there are so many monsters in one place? Shouldn't those previous expeditions have cleared away at least some of them? Also none of them ever spoke about huge swarms of monsters. Is this something new?" Cee mused aloud.
+
+"It must be, but in that case they appeared within the last day or so."
+
+Almost as if someone tampered with it on purpose. Be very careful on this island.
+
+You don't have to tell… All of this just gives me a horrible, horrible feeling. I'll fly to the middle of the island.
+
+Liora did just that, watching the monsters swarm below. At least there were no flying monsters so she didn't have to worry about getting attacked.
+
+However, as she got closer to the island's center, the monsters were clustered together so densely that they were stepping on top of each other. They were all coming out of some sort of the hole which appeared to be positioned right in the center of the island.
+
+The miasma was seeping out of it in giant clouds, so thick and so dense that Liora was constantly purifying air she breathed. At this rate, she would run out even if the Necklace of Sunpeak equipped.
+
+"Dammit, how can we deal with this when I barely have enough mana to breathe…" Liora complained.
+
+"Even I'm feeling a bit queasy from all this miasma," Cee admitted.
+
+Go back to Morgana's crew. This will not be easy, but perhaps we can leverage Winds of Purification to our advantage to clear enough of an area to proceed.
+
+Proceed where? Into the swarm of monsters?
+
+It's just fodder. One good large area spell or even Cee's shatterweave sigil, and you'll have a hundred dead monsters on your hands. But I am worried about the one creating them. It almost looks like they're trying to turn this island and the surrounding area into a dungeon.
+
+Is such a thing possible?
+
+Yes, but then you'd have to meet certain requirements. Large area, abundant in mana, a monster intelligent enough to the dungeon master, because humans can't be one.
+
+Wouldn't that super smart shapeshifter qualify?
+
+It would, but I'm not sure if there's enough mana. The place is abundant with corruption but… Oh no.
+
+What?
+
+I think they're trying to create a corruption dungeon here!

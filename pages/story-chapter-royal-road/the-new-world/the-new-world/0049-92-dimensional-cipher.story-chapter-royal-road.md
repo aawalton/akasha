@@ -1,0 +1,191 @@
+---
+id: edd81adf-b032-5579-9f94-37f54c5a431e
+page-type-slug: story-chapter-royal-road
+title: "92 Dimensional Cipher"
+slug: 0049-92-dimensional-cipher
+partOf: the-new-world
+position: 49
+ownLength: 3620
+unit: words
+ownProgress: 3620
+publishedAt: 2018-01-05
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/184799/92-dimensional-cipher"
+royalRoadId: "184799"
+markedReadAt: "2026-06-29T21:22:30.279Z"
+---
+
+My ascendant mana flared into my armor as I reached out with oppression. My armor grinned with me, The beetle charged towards me, but I pivoted on my feet while dragging a fist from behind me. Volatile Carnage and Boundless Storm synergized, creating a massive impact as my fist collided with the beetle.
+
+My fist bounced off the telekinetic pad, shooting a small, dense bullet of kinetic force into the creature. This bullet punched a hole in the monster’s armor, dispersing the force inside it. The monster’s disgusting body exploded. The flashing lights and odd illusions faded away. Before the other beetles joined into a single creature, I covered my eyes and ears with my armor.
+
+Using a sense of smell, I created a map of what was going on around me. The solar beetles swarmed from all sides, like a swarm of scarabs. The abstractions flowed through the air, turning the air dense as the ambient mana pooled. Hod’s scent lessened, as if the shadow was overwhelming him.
+
+A torrent of the mana poured from the ring’s connection with me, verifying my thoughts. Before any more damage could be done, I shot forward into the swarm of beetles. Without my eyes and ears, my precision lacked. My new mythical, The Coming Tide, let me pierce through the trees, roots,and vines with ease though.
+
+I reached a cluster of the solar beetle’s scent. A pair of mandibles shot out towards me. I twisted on my heels, driving a fist straight into the monster’s attack. A splash of wet blood covered me. Another pocket of beetle scent came closer. I ducked under the smell, stomping on a heel and twisting an uppercut into the scent.
+
+Another splash of liquid poured over me. Fresh and warm, my armor soaked in the wet feeling until I was dry again. I smelled further, picking out the shapes of the monsters. The slight variations in heat made their mark, letting me pick out their shapes. I waved oppression over the blots of heat near me. I felt the vibrations of screaming through my armor.
+
+On my mini-map, Hod was a good distance away, letting use all of my skills. Three of the beetles snapped towards me at once, two from my sides and one from in front of me. I fell into the ground, ducking under their attacks. Using The Coming Tide, I shot out of the ground and grabbed the two beetles at my sides. I clapped them together over my head, using a gravity vortex to smash them together.
+
+A rain of blood pouring over me. From behind me, a much larger beetle came out of the trees. It may have been a warrior variant. It didn’t matter. This large beetle and the beetle in front of me pincered towards me. I lifted my legs and kicked off the beetle in front of me using the coming tide. While movement was its main use, the impact was a worthy weapon regardless.
+
+The beetle crumbled under my heels, firing me into the larger beetle behind me. Warmth and wetness covered me from all sides. I swam through its flesh, gliding through just as I glide through the earth. As I burst out of the creature, I landed onto its back. Two beetles flew away from me, their scents waning.
+
+I jumped with The Coming Tide, the large beetle beneath me turning to mush. Firing up, I stiff armed both the beetles. I molded my armor as if I was slicing through the ground. This let me cleaved the beetles in two, their bodies no longer holding their insides. As I fell back down to the ground, I uncovered my eyes and ears.
+
+Breakthrough achieved! Tactile Cognition(lvl 42)-->(lvl 67)
+
+A rush of senses came from my eyes and ears. I decimated the beetles in seconds, their corpses spread around us. Hod killed the abstractions one by one, slicing them apart with his shadows. With piercing, sharp cries, the abstractions poured ambient mana into him. As they did, the mana fed from my ring.
+
+If I hadn’t of made the ring, Hod would’ve died many times already. With that tiny bit of foresight, I turned one of Hod’s biggest weaknesses into a strength. The extra ambient mana was like a stream of infinite mana, empowering Hod’s shadows. I shifted oppression onto the low flying abstractions, joining in on the fun.
+
+They cried in pain like a chorus of breaking glass. I shot off the ground, slamming myself towards them. They dispersed around me, avoiding my attack. They didn’t avoid my gravity wells. I pulled a cluster of the abstractions down onto the earth, like two nets full of fish. I landed on the ground, pulling the wells behind me.
+
+Before the abstractions landed, I ended the two gravity well’s pulls. The abstractions collided with the earth as I dashed towards the cluster to my right. One of the abstractions lifted itself off the ground. The odd, angular body looked around, its eyes darting around on its head. Once they saw me coming, the monster clamped its mouth towards me.
+
+My fist bounced back off a telekinetic field I placed right on its face. The telekinetic bullet broke the monster’s jagged teeth before the monster’s skull blew backwards. Other abstractions crawled towards me, snapping at what they thought was a meal. How wrong they were.
+
+I spun on my heels and slid on my feet as my fists beat them to pieces. I weaved between their attacks. I kept within my range of attack, timing my punches with a pristine clarity. I shot int and out of the ground, the entire battlefield my playground. I dragged the monsters into the dirt, choking them in it. I fed the floating island their gunky, apricot colored blood.
+
+They stood no chance, their lean forms unable to withstand the brutal hammer my own body had become. It was a weapon I wielded, and I wielded it with deadly intention. Once they were culled, I leapt up and dragged another group of the monsters down with me. With Hod and I slaughtering them from above and below, we left them no escape.
+
+The beetles kept coming from other nearby islands. Between our massacre of the abstractions, Hod and I crushed the beetles in waves. The numbers were endless. As time passed, I grew worried that the followers would come. Torix kept them busy though, keeping our losses minimal no doubt.
+
+The killing turned routine after a while. Hod gained levels and allocated his points in the middle of the fight, letting him kill more and more. I didn’t need the attributes yet, letting me focus entirely on slaying the hordes. Hod overloaded on his mana the entire time we fought, but my ring kept him from turning.
+
+Eventually the bodies turned into nuisances. The piles of corpses were like some maze made of flesh. At the apex of the problem, I changed my killing tactics. If I could, I would drain the enemy with my armor while it was alive. In between the incessant fighting, I cleaned up the corpses, giving me room to fight.
+
+In the end, it didn’t matter. My mythical skill let me burrow through the corpses without struggle. After diving into the last body of an abstraction, I burst out of it from the inside. I never imagined using The Coming Tide like that, but the effect was too devastating to miss out on. As the guts of the monster splattered around me, Hod landed beside me.
+
+Black drool dripped from his mouth, and his chest heaved. He seemed fine though as he spoke in a low growl,
+
+“Hod fine. Hod not like flying monsters. Flying monsters make voices scream in Hod’s head.”
+
+He lifted his hand, the ring biting into his finger. Black blood dripped from his hand, “Hod thank Harbinger for bad ring. Bad ring save Hod.”
+
+I devoured the bodies around me with my armor, “I’m glad you talked about it earlier, otherwise I’d have to fight you...Damn that would suck.”
+
+Hod shivered, “Yes, Hod not want to fight Harbinger. Harbinger too brutal for Hod.”
+
+I soaked up another body of an abstraction, the ambient mana dense as honey. I frowned, “Well damn. I’m not that bad...am I?”
+
+Hod walked with me as I cleaned up the corpses, feeding my armor,
+
+“Well, Hod believe Harbinger precise. Harbinger fight like warrior, just monster warrior, not human warrior.”
+
+I shrugged, “Eh, we all fight like that, except Torix of course. Fighting him is like fighting a textbook.”
+
+Hod turned to me, a look of dead seriousness on his face, “Then Hod struggle against Dry Man the most. Books are too hard for Hod.”
+
+I laughed as I finished cleaning up the battlefield. I glimpsed at Hod. He was level 1331, around two hundred levels higher than when he first arrived on earth. He outleveled Torix now. Seeing his spike in levels, I looked at my own. I was level 1500, a nice, clean number for once. I gained a fuckload of levels from fighting these things, the abstractions and enhanced solar beetles paying off in spades.
+
+It almost shocked me how easy gaining levels was right now. I remember struggling just to gain a single level when Schema first arrived. This ease made some sense once I thought about it for a bit.
+
+Abstractions were considered unknowns, and the first tier of Obliterator doubled my experience from them. The quarantine zone doubled experience gained too. To top it all off, my new Obliterator tree nearly doubled my total experience gained. That wasn’t even including my Ancient tree bonus.
+
+I was gaining about five times the experience of a normal individual. If I wasn’t gaining levels fast, than a normal person might as well give up on leveling. Someone like Torix, with his experience penalties might as well laugh at the idea of leveling. Even with all my bonuses, the experience would no doubt slow down from here on out.
+
+Killing lower level enemies simply wasn’t an effective way of gaining levels. By level 1600, I would need to kill a hundred abstractions for a single level. In order to keep gaining levels, I needed stronger enemies to fight.
+
+In this case, the followers would be my next big step. Readying myself for that, I checked out my status and poured all my attribute points into endurance. They clinked into place before I selected finalize.
+
+Every aspect of myself improved. My strength, my mind, the vivid sharpness with which I controlled myself, it all enhanced. Spread throughout every part of my flesh, the arcane chains ebbed a faint glow. It was a subtle difference in how I looked, but I understood the significance behind it.
+
+Soaking in the changes, I opened my status screens.
+
+Level 1500
+
+Strength – 1353 | Constitution – 1721 | Endurance – 4006
+
+Dexterity – 430 | Willpower – 2319 | Intelligence – 831.2
+
+Charisma – 102.4 | Luck – 273.3 | Perception – 199
+
+My regeneration stats and health skyrocketed as usual. Since I hit 4000 endurance, my regeneration stats scaled better. That meant my health regen was even higher now. Eager to test it out, I flared my runes.
+
+After ramping them up for a few seconds, they overcharged in a few seconds. Before I realized it, the runes covering my body cracked. No longer able to hold the flow of mana, they shattered. The flood of ascendant mana ebbed from me, lightning arcing in every direction. A deep, dark fury filled my blood and bones in an instant.
+
+I wanted to kill and crush. I wanted to maim and murder. I wanted to rip out guts and drink blood. The roaring voices of my own mana filled my mind, echoing like a storm in my head. The rush of strength that came from channeling the runes dissipated though, leaving me weakened. With a burst of willpower, I silenced the fervor as I died down my mana.
+
+Hod jumped backwards while raising his hands, “Hod wonder why Harbinger so angry? Did Hod walk too funny for Harbinger?”
+
+I shook my head, shaking out the injection of anger, “No Hod, you’re fine. My runes broke I guess. I honestly don’t know.”
+
+I lifted an arm, inspecting a rune. The edges of the runes were marred, the runes caving in. Whenever I tried pouring mana into them, the mana just ebbed outwards. I frowned, wondering if it was my armor. I regenerated my armor, healing the runes into nothing. With a blank slate before me, I carved a basic rune for power into my arm.
+
+A second later, I flared mana into it. The outer lining of the glyphs cracked. The mana flared out. This time I was ready for the anger, so I smashed it with my will while sighing. I opened my spatial ring, pulling out my grimoire. Hod paced up behind me, looking over my shoulder,
+
+“What Harbinger doing?”
+
+I molded my left hand into a pen of sorts, “I’m going to write some more runes. I wouldn’t normally mind, but doing it in the middle of a rift isn’t very convenient.” I glanced around at the other floating islands, “Especially when we’re pressed for time.”
+
+Hod grabbed his beak, “Hod wonder, Hod wonder...Harbinger read Dry Man’s message? Dry Man promise three days. Dry Man reassess assault and use Lady Friend for gathering information.”
+
+I frowned, looking Hod over. With shadows covering his enlarged body and the red sheen on his eyes, he was an intimidating figure. Those were superficial differences though. I took a long, hard look at him. More meaningful differences cropped up.His posture was different, along with how he spoke and how aware he was.
+
+This version of Hod was cunning by comparison, and he stood up straighter. I assumed that was from being stronger, but after hearing him for a bit more, I doubted it. He remembered things a bit too clearly, especially for the normal Hod. I narrowed my eyes,
+
+“I don’t think you’re Hod...Not when that mana’s coursing through you at least.”
+
+Hod didn’t react at first. I kept looking at him, my gaze piercing. His left arm twitched before I stepped up to him. I was half a head taller than him now. Hod stumbled back,
+
+“Hod not know what Harbinger mean. Hod still Hod. Hod promise.”
+
+His breathing was ragged now, like I was pressing on a nerve. I shook my head glancing off at a floating island, “Yeah, alright. Maybe I’m pressing too hard. I can get paranoid sometimes, especially with how ridiculous everything is.”
+
+I looked at him, “It can just be hard to choose who to trust is all.”
+
+Hod nodded, staying quiet. His head lowered with his shoulders. It was like a child being caught stealing. I stepped away from him, letting him breath like normal. The eldritch side of him hadn’t betrayed me yet, and I didn’t want to give him a reason too. I did want to make it very clear that I knew he wasn’t Hod.
+
+If he knew that, he would be less likely to act out any nefarious plots he was planning. Perhaps I was being a bit too cautious, but I didn’t want him turning on me at random. With that handled, I went back to carving as we walked.
+
+We walked along the vines of several islands, finding quite a few islands now empty. Our fight attracted many of the denizens on nearby islands. The smaller, less violent life remained after. Several of the flowers had piercing colors. So piercing that they didn’t even look real. It’s hard to even describe.
+
+It was like my brain was trying to perceive a new color, but it couldn’t. Nearby plants and fruits moved towards us as we walked by. A purple monkey with red skin on its face swung from a tree before swallowing one of the fruits coming near us. Blood poured from the monkey’s mouth before it fell down. The roots from nearby trees dug into the eyes and mouth of the monkey.
+
+It drained into a dry husk. I sighed before opening up oppression. The aura killed the plant life and weakened creatures on contact. I didn’t want normal people near any of this. Hod murmured under his breath,
+
+“And the Harbinger leaves death in his wake.”
+
+I rolled my eyes. I preferred the ridiculous, fun Hod rather than the melodramatic, edgelord Hod. This version was the better fighter though, so I dealt with it. After reaching about ten islands deeper into the dungeon, Hod spoke,
+
+“Hod is tired. Hod need rest.”
+
+I bit my lip before turning to him, “Can it wait till after the dungeon?”
+
+He shook his head, “No. Hod can barely stand.”
+
+I tapped my teeth together before sighing. I nodded, “Yeah, yeah, sorry. Go ahead and sleep. I’ll keep guard while you rest.”
+
+Hod nodded before breathing out a plume of black smoke. He fell sideways, sprawled out on the ground. As he snored, I kept oppression on around us. I didn’t want beetles digging into his insides while I was carving my runes.
+
+The red sky dimmed, turning a deeper red before becoming night. With insects chirping around me, I flared the ascendant mana into my helmet. My eye slit bathed the book in a deep red, letting me see in the dark. With some free time on my hands, I would be putting my first real dent into the eldritch runes tonight.
+
+I kept studying them all this time. Of course I devoted most of my time to fighting and other pursuits, but this was a black eye for me. Every other facet I tried at, I excelled. The eldritch runes kicked my ass at least five times now though and for months on end. I wouldn’t let that continue.
+
+Spurring me even further was the limits of my current runes. Torix must have never ran into the limits of the runic language for magic. That’s why he never needed to learn the eldritch runes. I needed them though. They were the next step in my progress.
+
+Unfortunately for me, progressing with normal methods wasn’t working. If I was going to get anywhere, I needed to take some risks and experiment. If that meant I would need to take a limb off or the like, then so be it.
+
+With that resolve planted into my head, I opened a few screens from my obelisk. I ran a few comparisons between the runes found in BloodHollow and the Sandworm desert. After brushing up on the basics, I carved out a huge rune in the book. The detail required for these runes was infinitely greater than normal runes. Etching large letters gave me the breathing room I needed.
+
+So I carved. On the first letter, I spent nearly an hour of time. My hand cramped from how subtle my movements needed to be. Once I finished with the edges, I focused on filling in the inner lining of the rune. That was an advantage of the grimoire. The book’s flat page offered depth in my carving somehow, like the page was six inches deep.
+
+With the ease of carving, the detail of my markings improved. As I etched into the sides of the carving, I concentrated on giving the rune meaning. The carving I was attempting was supposed to be about solidity and strength. I needed the same traits if I wanted to finish this text. I breathed out a deep breath, like I was trying to breath out my own weakness.
+
+I eliminated everything else from my mind as I outlined the details into the rune. This rune was all that mattered. Everything else, the sights, sounds, and sensations fell away. All that mattered was this letter taking up a fourth of a page on this book. Making it perfect was everything at that moment.
+
+Months of failure amounted to this. Months of trying, months of struggle, and months of frustration culminated in a single mark on a single page. It was like the stars were aligning as I continued. The rune took shape, becoming whole. Within it, something shifted around me. I couldn’t exactly put my finger on it, but where I was changed.
+
+It was like there was an electricity in the air. A moment later, the rune clicked in my head. It came to me like a rush of comprehension. What the rune was, what it meant, I understood what I was trying to write.
+
+With the obsession of a madman, I marked into the page with flowing streaks of my hand. As I did, a tug at my mana began. This tug turned into a violent pull as my mana streamed into the grimoire. The single letter feasted on my flesh, gorging itself, satiating its hunger. I wrote through the process, my writing growing in speed and confidence.
+
+Another hour passed before I finalized the lettering. As I did, the space around me shifted. The pull on my mana was even greater than my own generation of it. It wasn’t enough to threaten me now, however. My health pool stopped draining downwards at the halfway mark. I pulled up the page, into the red light of my slit. There was an eldritch letter.
+
+Unknown skill unlocked! Dimensional Cipher(lvl 1) - Knowledge of this skill is prohibited by Schema. Using this skill is forbidden, and knowing this skill is forbidden. &$%ERROR
+
+You have broken one of the primary tenants of Schema’s system. Sentient rights have been revoked. Leveling and further data uploads are hereby locked. You have been exiled.
+
+Oh fuck.

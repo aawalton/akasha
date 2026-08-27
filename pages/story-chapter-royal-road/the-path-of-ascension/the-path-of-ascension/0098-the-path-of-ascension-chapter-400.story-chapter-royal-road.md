@@ -1,0 +1,363 @@
+---
+id: 4294dc24-edba-5153-96ae-56faea6efaa5
+page-type-slug: story-chapter-royal-road
+title: "The Path of Ascension Chapter 400"
+slug: 0098-the-path-of-ascension-chapter-400
+partOf: the-path-of-ascension
+position: 98
+ownLength: 5943
+unit: words
+ownProgress: 5943
+publishedAt: 2025-03-31
+link: "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/2164097/the-path-of-ascension-chapter-400"
+royalRoadId: "2164097"
+markedReadAt: "2026-06-29T19:21:08.003Z"
+---
+
+Chapter 400
+
+Matt and Liz were going to split up to both hit the location of the blood magic research facility and chase the saboteur’s signal down, but the answer to their problem was sitting in their suite’s living room when they stopped by to check in with the rest of their people who hadn’t followed them.
+
+Allie waved, but the action was made less friendly than it would have otherwise been by the dagger spinning between her fingers, in a way that was only possible for someone who played with space the way she did.
+
+She wasn’t alone, and Susanne waved at them from the kitchen where she was making herself a smoothie.
+
+Matt half expected Zack to be there as well, but Susanne answered his unspoken question. “He’s elbow deep in some magical condenser thing and it will take him at least a week to safely disconnect himself from it. Allie will grab him then. Speaking of getting people, it's probably time to get Aster.”
+
+Allie flickered and returned with a fully kitted out Aster, who pulled Liz into a hug the moment she arrived.
+
+“Sorry I wasn’t here.”
+
+Liz grinned. “Don’t be. We already kicked their teeth in. Now it's time to start stomping.”
+
+Aster’s eyes flicked from side to side before she nodded. “Good. They deserve it.”
+
+Allie tossed her dagger into the air before launching it into the far wall, where it bounced back to her hand, leaving not even the slightest scratch on the Tier 45 material.
+
+“Let's get to stabbing. Who do we want to start with?”
+
+Matt looked to Liz, letting her take the lead. But she must have been thinking what he was because she said, “As much as I really do appreciate your guys' help, I’m not sure you want to get drawn into this. From what we have been told about these kinds of fights, anyone who helps us becomes a target themselves. I don’t wa—”
+
+Allie blew out a raspberry, while Susanne just gave Liz a flat look as she said, “We know that.” Looking to Allie, Susanne corrected herself. “Or at least, I did. Still, if they think they can mess with one of us with impunity, they have another thing coming.”
+
+Allie flipped to her feet. “Of course I’d help. If they really want to fuck with me, of all people, I’m more than happy to make their lives miserable.”
+
+Matt felt the need to be a downer. “Do remember that this group seems ready for everything we’ve been doing. They are probably ready for you to start poking around, Allie. Don’t fall into a trap, please. These are probably experienced Tier 45s, if not Tier 46s. They have the resources to actually trap you, as they won’t need to follow the Tier rules we dealt with in the war.”
+
+Allie rolled her eyes. “I’m well aware. I haven’t just been slacking off in the last few years.” She eyed the three of them and sniffed. “Though apparently, I did fall slightly behind in Tier.”
+
+Susanne hmmed in agreement, and Matt noted that both women were only about eighty percent through Tier 26, unlike their fresh Tier 27. Matt wasn’t sure what deal she’d struck with the army, but instead of sitting at Tier 25 as a pinnacle elite, she was pushing through all the way to Tier 35.
+
+The difference was minor, but not nothing, and he’d bet the two would be pushing to catch back up sooner than later.
+
+Despite that, he was relieved that they weren’t doing this alone.
+
+Seeing they had a quick ride across the Empire, Matt pinged Esmeralda, who they had intended to bring to the raided facility. She was Tier 30, which would push Allie’s limits with her teleports, but it shouldn’t be more than she could handle.
+
+He contemplated bringing others, but decided less was more.
+
+They were just minutes after their counter, and less than an hour after the initial reveal after all. Most of the guild’s PR people who had come to the Capital were still frantically trying to put out fires, some more literal than metaphorical.
+
+Esmeralda was enough, and Jericho needed to stay local to keep tracking down the signal from the metadata they had acquired from the portals the command went through.
+
+Once the former spy arrived, Allie pulled all of them across the Empire with a wrench.
+
+They were only two worlds away from the world in question, which they quickly traversed via real space and using the teleportation network, it being faster than teleporting through chaotic space directly for Allie.
+
+When they arrived, there was a noticeable air of fear and unease on the world. A lot of it was directed at Liz, and a quick check of the local news stations showed they were still reporting the leaked news about Liz being involved with the hidden facility.
+
+Matt considered how it would be best to react.
+
+The fear could be useful in getting people to capitulate to them, but by that same token, people might not work with them if they thought they were trying to cover up Liz’s atrocities.
+
+Between that last option and just not liking how the higher Tiers shied away from his wife, Matt activated the micro portals connecting the planet to the Capital for a few seconds, allowing data dumps to reach everyone.
+
+As it was currently the biggest news story, the information proving Liz’s innocence was a large portion of what got sent over.
+
+Once the initial bits of information were verified, the news organizations started paying for their own micro portals and Matt let his channel end.
+
+He then watched in real time as news organizations stopped their dissection of the recordings to start showing the interview they had just left, along with the inevitable fallout of the power station being attacked.
+
+Through these local news stations, Matt was able to see some of the Capital’s more recent speculations.
+
+Some of them were interesting.
+
+Most had pivoted to the attack on the power system and were using that as proof of their own beliefs.
+
+Those that still felt they were guilty used Matt’s appearance and interference as him covering up the attack he himself created, but from the snippets he saw, they were in the minority. Most news stations seemed to be taking the Empire’s very swift and angry descent onto the building as proof of there being bad actors targeting him and Liz.
+
+Paying the costs once more, Matt requested an update on the Empire's investigation and was surprised to see he had actually been cut off from the official reports. As he considered, it actually wasn’t too surprising as he had intervened and could be a possible suspect. But it did tell him the Imperial government wasn’t happy that someone had messed with critical infrastructure like that.
+
+Not that he would complain if their hidden attackers got themselves in trouble.
+
+That would all take time to progress, and so Matt turned his attention back to the situation at hand.
+
+People were still looking at them with fear, but he had hopefully blunted the worst reactions.
+
+Phoenix Liz gave him a small head nuzzle for his efforts, which made it all worth it.
+
+Once they left the planet's atmosphere, Matt used [Portal] at his maximum range to cross a decent portion of the star system without wearing Allie out more than they had to.
+
+It was mildly slower than rapid fire [Teleport]s but not by much, and it wasn’t like he was going to need the mana.
+
+The casting also served as good practice for his mana control, which had become clumsy thanks to his latest doubling.
+
+The bloodline research base was hidden deep inside a Tier 2 gas giant, right between the inhabited planet and the fortress world.
+
+Matt had to admit that it was a good location for a hidden base, thanks to the massive size of the world and its Tiered gaseous cloud layer disrupting casual spiritual scans.
+
+Checking the report, it was more a fluke that the base had gotten caught than expert work from the resident Count. A local detective had noticed that every dozen years or so, right when the gas giant was farthest away from both the inhabited world and the fortress world, a Tier 20 would come through and he eventually, over the course of several more decades, tracked the man to the gas giant.
+
+The story seemed incredibly suspicious, and Matt wondered if the detective was a plant from their mystery attackers. But reading into it more, that conclusion was brought into question.
+
+Instead of the detective randomly noticing the Tier 20, he had been watching the man thanks to reports of a Tier 20 fitting his general description being wanted in a kidnapping case five hundred years ago, when the detective was a rookie in a neighboring Count’s world.
+
+If true, it was an incredible series of coincidences, but very much plausible. Matt noted they needed to talk to this detective, Mike Danson, but suspected he would be where they were heading, or near enough to not make a difference.
+
+Diving into the gas giant didn’t bother them at all, but the planet was so large, it took them almost ten full minutes to actually fly down to the base. It was quite easy to locate thanks to the plethora of guards and other officials loitering around the base.
+
+One of whom was the Count and ruler of the system in question, who was not happy to see them.
+
+“I must protest. A suspect in th—”
+
+Allie held up a finger. “Check the news before you say something you regret.”
+
+It would have been a normal enough gesture, except she still had her dagger in her hand, which put the threat to her words.
+
+Count Rilki swallowed, even as the guards around him tightened their grips on their weapons.
+
+Thankfully, before things could spiral out of control, the Count raised a hand. “It seems things are in question. Still, I must insist that you let the process proceed on its own without interference. I do not want to be involved with whatever spat you have gotten yourselves into, nor do I wish to have Imperial investigators knocking because I allowed you to interfere with an official investigation.”
+
+Liz floated forward and just stared at Count Rilki for a long moment before saying, “I understand your position and that you are stuck between a rock and a hard place. I am happy to work with you and your people, but I need access to the facility to find as much information as possible about who tried to set me up as fast as possible.”
+
+Count Rilki didn’t back down. “I am formally informing you that you are overstepping your bounds as a Duke and as an Ascender. You have no authority here, and if you do not desist your actions and leave, I will be forced to speak to Marchioness Tallow, Duke Tadakuni, and Monarch Harper.”
+
+Liz shrugged as they flew past him. “Do so.”
+
+Matt stopped next to the Count. “Where is Detective Danson? We would like to speak with him.”
+
+Count Rilki glared at Matt. “I will not assist in this flagrant violation of my sovereignty, nor allow you to badger one of my people. The more you push, the more I am forced to believe that you are here in bad faith.”
+
+Matt just caught the man's eyes and stared. He wasn’t trying to intimidate the Count. Not exactly, at least. He was more trying to get a feel for if the man was playing a part or not. He could appreciate the Count trying to do his best to remain impartial and keep himself out of it, but this stance could just as easily be the guilt of someone involved in the conspiracy trying to cover their own ass when the five of them appeared far earlier than expected.
+
+“Count Rilki, I can appreciate your position being untenable. If you are innocent in all of this, you have been put in an awful position. You were simply trying to keep your front lawn clear of disreputable garbage when you stumbled into something bigger than yourself. The issue here is that we are on a very time sensitive task. Every second counts when it comes to this kind of thing. Frankly, it's already probably too late to actually find critical evidence, but we have to try. So protest. Lodge the official complaints. We are more than willing to pay reparations when it is decided by the Royals, and it won't be seen as a bribe. But the thing is, we will be gone faster if you assist us. Do so under duress so those watching know you aren't playing ball with us, but please don’t drag your feet. We can and will force this, either through our noble titles or Ascender rank. We just don’t want to do so because we aren't assholes.”
+
+Count Rilki almost looked like he was going to cry out of frustration, but eventually nodded.
+
+“I cannot find fault with your logic. I will comply because I have no other option. Detective Danson is on-world giving a full debrief, but it should be over sooner than later.”
+
+Matt smiled. “Thank you. Next, have you identified who leaked the falsified video?”
+
+Count Rilki growled his response. “I have not, but once I do, I will be quite thorough with them to ensure they know what kind of shitstorm they have dropped on my lap.”
+
+Matt just studied the Count before nodding.
+
+“Thank you. If your people could forward all reports to me, we will only ask you to step away for a short while. We will probably want to speak with both the first responders and everyone who was involved, including those found at the facility.”
+
+Thankfully, the news had leaked soon after the raid and most everyone except the prisoners, who had already been transferred to the inhabited world, were still at the scene.
+
+Matt then entered the once-hidden facility and let his senses roam through the building.
+
+The outer layer was made out of Tier 2 materials, which seemed odd because to protect the low-Tier material from the harsh conditions of the gas giant, a constant low level of mana had to be fed to the metal to feed repair enchantments. Using that as a pseudo-natural disguise was a good play, Matt had to admit, as a higher-Tier metal would have stood out more and run the risk of someone noticing.
+
+Inside that layer was more of what Matt expected, with a Tier 25 metal shell not dissimilar to a ship's hull in its composition and magical structure.
+
+As for the facility, it was pretty much exactly what he expected of any research center. Clean, organized, and packed with equipment and supplies.
+
+That told him this was an actual research facility, and not someone's attempt at making a horror show.
+
+Poking around in a few rooms, he found most of the data servers had been destroyed but he took scans of them and let his [AI] see anything could be reconstructed. Unlikely, but entirely possible.
+
+Matt did stop by a small apartment area that had housed the captives and scanned it.
+
+Not that it made what had been happening here any better, but he noticed that the accommodations were… humane. If not for their location, the rooms could have been in any Empire apartment.
+
+Looking to the side where one of Count Rilki’s guards watched him, he asked, “Were the captives recovered alive?”
+
+The guard looked torn before she nodded. “Most of them, Ascender Titan.”
+
+“Oh?”
+
+“A number didn’t—” She looked pale, but after swallowing, continued, “—survive leaving their rooms. We didn’t know they had been infected with things that only reacted once they entered normal air. We believe it was an anti escape measure but we aren’t sure.”
+
+Matt felt himself growing angry but nodded to the guard. “Thank you for informing me. I assume they have all been removed to a hospital for evaluation and healing?”
+
+To his surprise she shook her head. “No, Ascender. There was a worry that the others might contain more delayed pathogens, and so they were moved onto a ship and are being kept in isolation. All of us who were part of the raid have been kept back from Kelispo on the same worry that we might have been infected. Likewise with the few researchers we captured alive.”
+
+Matt sighed but realized it was a good precaution. He knew as well as Liz did the horrors a skilled blood mage could unleash if they wanted to.
+
+They would also need to undergo decontamination procedures, but theirs would involve less waiting around and more teleporting into the local star and letting it roast them inside and out for a few minutes, before being teleported into a secure location on the Capital where they could be examined by one of the Imperial healers.
+
+Checking a hunch, Matt actually found none of that would be necessary, as Melinda, her bodyguard, Evelyn Nore, and Harvest Moon would actually be arriving shortly, according to Count Rilki’s initial reports.
+
+That actually caused a spike of worry to hit Matt. Just what had been going on here to bring in the head Imperial healer and the single best healer in the Empire, Melinda?
+
+Checking a few more rooms, Matt made his way to where everyone else was, which seemed to be a lounge of sorts.
+
+He didn’t miss the other guards, who were unobtrusively watching their group, but didn’t say anything either.
+
+Walking up to Aster, he bent down and inspected the formation nexus she was looking at. “Find anything yet?”
+
+“Yeah, they are using a millennia-old enchantment style for practically everything.”
+
+Matt nodded as he saw what she was saying. Not that enchanting had massively changed in the last thousand years, but it, like everything else, had fads and things came in and out of fashion. This style of enchanting was from roughly a thousand years ago, which implied the creator of this facility was either that old, the facility was built back then, or somebody was trying very hard to make it seem that way.
+
+Aster pressed her hand to the formation and pulled, and lights sparkled between her hand and the metal like taffy.
+
+Blowing on the physical lights, Aster caused snippets of the records to appear before them as illusions.
+
+There was no sound or spiritual resonance, but the image itself wasn’t useless, as it clearly showed four people, three women and one man, standing over a curled-up teenager.
+
+The male researcher nodded as he tapped the air several times, calling out something in a rhythmic cadence.
+
+Finally, one of the women who must have been in charge said something, and the second and third women moved. The second held the teenager down while the third injected her with a small vial of something neon-orange in a tiny syringe.
+
+Nothing happened in the short time the pulled-out illusion had left, but Matt knew whatever befell the kid wasn’t good.
+
+“Did you get a feeling of the time frame that happened in?”
+
+It wasn’t Matt who asked, but Esmeralda, who didn’t even blink at the atrocity they had just watched.
+
+Aster shook her head. “No, not really. My best guess would be between a year ago and a decade ago. I can’t get more specific than that.”
+
+The guards watching them looked suspicious, but neither Matt nor anyone else bothered to explain how Aster was using her illusion skills to pull out residual information lingering in the enchantment’s mana.
+
+It wasn’t an unknown application of illusion magic, but it was a rare one due to the finesse it took.
+
+Once Aster was done with it, Matt took his own crack at the enchantment.
+
+When the base had been raided, the facility's failsafes had kicked in and wiped everything. But using his [AI], Matt was able to recreate the burnt-out enchantments and even rebuild a few of them.
+
+The information taken from them would be suspect, but it was better than nothing.
+
+He hadn’t used the technique since his training with Luna, back when they were on the Path, but he hadn’t had much reason to use it during the war. On the bright side, his enchanting skills were night and day better than they were back then, and when combined with his much stronger [AI], he was able to restore a few of the facility’s capabilities.
+
+That was great, as they got access to some of the backup storage systems that hadn’t been physically destroyed, but what they learned from the stored information was anything but good.
+
+It was, in fact, bad enough they felt compelled to call Count Rilki and explain to him what they found.
+
+“So you're telling me that they were developing bioweapons intended to mentally compromise mortal populations?”
+
+“The reports state that as just the latest thing they were working on. They were also working on a variety of other projects we don’t have much information on. The only other experiment we recovered anything concrete about was a plague that would cripple a world's low-Tier mortal populations, as they are laid up in bed from a highly contagious form of the common cold. This facility has been operating for at least a minimum of a few hundred years, and they seemed… productive.”
+
+Count Rilki chewed on his lip for a few moments before he sighed. “I will report this up the chain of command, but I don’t believe this changes anything in the immediate reaction. I will, however, call in additional guards for the prisoner researchers.”
+
+Liz shook her head. “No. That risks bringing in more unknown elements. If you didn’t deliberately release the information, someone somewhere on your team is either a direct mole for our enemies or unscrupulous enough that they are willing to break protocol to share information of an open investigation. Not once, but twice. We can’t risk them acting again.”
+
+Count Rilki looked like he wanted to spit fire, but nodded.
+
+Susanne grabbed Allie and dragged the teleporter to her feet. “We’ll guard the prisoners.”
+
+Allie looked like she wanted to protest, but she showed uncommon restraint as she was dragged along.
+
+Susanne must have caught onto something, but she didn’t share and Matt didn’t ask, not being sure of any of their communication methods in an enemy base.
+
+Matt went back to work as Esmeralda took a crack at trying to dig up more information from the facility. Her methods were more esoteric, but they proved effective as she was able to fill in once-lost information obtained from the surviving machines.
+
+Matt even learned a few things watching her work, but they were interrupted two days later when Detective Danson arrived.
+
+The man was painfully average looking with light mahogany skin, medium length unkempt hair, and of average height. He could easily be dropped into almost any planet in the Empire and not stand too far out. He was the perfect detective in that regard, but his brown eyes were razor sharp and seemed to notice everything, ruining the image.
+
+They didn’t really want to bring the Tier 15 into the facility, but until they were cleared for decontamination, they couldn’t leave, and they still needed to investigate the man and his story.
+
+Liz tried to force out a smile, but considering everything they had found over the last few days, it was painfully fake. “Tell us in your own words what happened that led to you discovering this facility.”
+
+Detective Danson rubbed his eyes. “We need to go back to when I first became a detective. I was part of a team that was trying to take down a kidnapper. His signature was what appeared to be a sword box that he carried around. We believed it was a spatial item that could house living people, but we never caught him, and so I can’t definitively state that assertion was true. He kidnapped over a dozen people from what we know for a fact, and there were another two dozen suspected disappearances that we think he was involved with, but could never prove. For obvious reasons, I remember the case. Both the actual case and the case we suspected he smuggled people in. I moved here to Kelispo four hundred years ago, and I’ve served as a second classed detective for that whole time.”
+
+Aster nodded with a more real smile. “You have a glowing record of service and you've been up for promotion half a dozen times, but you’ve turned them all down.”
+
+“I don’t want to work at a desk. I want to keep my rank but Tier up. Sadly, so does most everyone else, which is why I was just accumulating merit until I could force myself to a Tier 20 world at my same position. To that end, I try to keep my finger on the comings and goings of Kelispo. About eighty years ago, I noticed the anomaly of someone with a suspicious box of nearly the same dimensions entering the world and then travelling towards the gas giant with no records of departing. It was always hit or miss after that, with me only hearing rumors of his arrival days or weeks after he left. The last time he came through, we were too late in getting onto their trail and lost them in the outer system despite being so close. Just slow enough that we weren’t able to properly follow the individual to the hidden base. When I personally saw them take flight from a park, I reported them, and this time we were better able to track the individual who led us to the facility.”
+
+“An individual who got away in the raid.”
+
+Matt’s comment seemed to strike a sore spot for Detective Danson, as he nearly cracked a tooth as his jaw clenched shut. “That is correct, Ascender Titan, as much as I don’t want to admit it.” He seemed to mull something over before he added, “Taking that into account, and having had some time to see how things played over the last few days, I suspect that we were set up. Deliberately led to this facility with a lookalike to kickstart this fiasco.”
+
+Liz hardly moved as she prompted him to continue, “Oh?”
+
+“First of all, the timing was wrong according to their last appearance. Also, the last few times the person came through, they were quick, hard to follow, and slippery as shit when we did chase them down. This time, they were less so. It wasn’t suspicious in the moment, as we were ready for their evasive maneuvers, but looking back, it feels more like we were allowed to follow them. Also, once we were close enough to find the base, the individual in question vanished. Initially we just thought they were trying to keep themselves safe after realizing they couldn’t escape into the shields and hide from us, but with the leaks…”
+
+“Just left? The report says they fled the scene and the chasing team decided to investigate the larger prize.”
+
+Detective Danson sneered. “A flowery way to say the perp was faster than us. One second they were just barely holding on and the next...” The detective opened his fists. “Poof, they were gone. Either they were a speed-based cultivator or a much higher Tier than the Tier 20 they projected.”
+
+Matt agreed it seemed suspicious as could be, but that was only if the detective wasn’t compromised, which would make everything a dance played and nothing more.
+
+They spent another two days going through everything until Melinda, Evelyn, and Harvest Moon arrived.
+
+Except, they didn’t arrive alone.
+
+An Imperial investigation team consisting of five Tier 40s and over twenty Tier 35s disembarked with them. But instead of being from the crime department, they were from the much scarier Health and Safety department.
+
+While they were rarely deployed, the Imperial Health and Safety department had near impunity when investigating. They could and would tear through even a duke's territory if someone was messing with biological weapons. He hadn’t been able to recognize it at the time, but they were the ones who had investigated the rift breaks in his first Minkalla life when he was infected by an undead sickness.
+
+Matt suspected it was their last reports that had brought them down, but the timing didn’t quite make sense for that.
+
+Two days was just too soon for them to have covered so much ground, even if they were using Tier 45 ships.
+
+Still, it was good to see familiar faces.
+
+Harvest Moon sniffed. “You three idiots have made a right mess of this.” Seeing they had brought Esmeralda, he corrected himself. “Six idiots. Bring the other two idiots here.”
+
+Melinda took his drifting attention to give them a small wave.
+
+Turning to Count Rilki, he commanded, “Count Rilki, have your people turn their posts over to mine while you are all deconned. Normally, I would be congratulating you for your bust of this magnitude, but your little leak managed to bungle it.”
+
+Count Rilki looked like he wanted to complain, but Harvest Moon glared at him. “Count Rilki, your next words had better be considered very, very carefully.”
+
+Count Rilki growled right back at the Tier 46. “I did my job and have been put in between forces much larger than me.”
+
+“That is to be determined.”
+
+With a flick of his finger, the Investigators started deploying a massive pillar that only fit inside the control room because of an odd spatial compression laid upon it.
+
+Harvest Moon opened his mouth to say something, but Melinda beat him to it with a quiet command. “Out.”
+
+Like ice cream left alone near Aster, the Investigators vanished, taking everyone except Susanne, Esmeralda, Allie, Aster, Liz, Harvest Moon, Evie, and Melinda herself.
+
+Harvest Moon waved at Matt. “Power it up.”
+
+When Matt just raised an eyebrow, Harvest Moon barked. “Chop chop kid. Seconds matter.”
+
+Melinda stepped forward and smiled at Matt. “Please. This is a time reversal pillar and the seconds truly do matter as it gets exponentially more expensive to turn back time the longer it needs to reverse.”
+
+Eyebrows rising into his hairline, Matt spread his spiritual perception to see similar but smaller pillars being set up in a sphere around the building.
+
+Matt was almost more surprised by Melinda's seeming level of command than Harvest Moon's foul mood. His oldest friend had seemingly grown up. Even if she was still only Tier 21 and vastly weaker than everyone else present, she held her own.
+
+Pressing his hand to the pillar, Matt started with a small trickle of mana. Just a million mana a second. Getting a feel for what the pillar in front of him could handle, as well as its sphere of supporting pillars and their interlinked formation, Matt started ramping up the mana.
+
+The device capped out at only fifty five million mana a second, but even that was a massive draw that would be impossible for most mages to keep going for long.
+
+Melinda patted an irritated looking Harvest Moon on the shoulder and walked over to the pillar and tapped the crystal in the center of the device.
+
+Inside, an image of them and the building appeared and quickly started to run in reverse, showing Melinda and Harvest Moon's arrival. Time kept flowing backwards and they watched themselves investigating the facility.
+
+Seeing they would have some time, Melinda looked up and to the rest of them. “Sorry about that. We have been busy and Moon is grumpy. I’m sorry people tried to tie this to you, Liz. I take responsibility for it coming this far, and for that I apologize.”
+
+Liz waved Melinda’s apology off. “I’ll make them pay once I find them. These people included.”
+
+Melinda shook her head. “That's not what I meant. We have been tracking this group for almost a year now, and this is actually their third location we have hit in that time. If we had been better, we might have found it earlier, preventing this fiasco.”
+
+Liz latched onto the pertinent information like the raptor she sometimes was. “So you know of them? Who are they? What are their goals?”
+
+“We know a little. Far less than we’d like. We were given a tip about a shadow organization working on blood plagues about a year or so ago, and were given the location of a single facility. The group wanted a bounty for the other locations. The Emperor put me in charge, giving me full authority to handle it as I saw fit. I could have paid the group for the information, but I chose to believe that we could dismantle the group ourselves. We believed… I believed that this blood research group was fairly small. But the more we learn, the more that assumption is proving false.”
+
+Matt was busy making sure the device that was showing them the past didn’t overload, but he immediately noted the pertinent bit of information that someone had known of this group before, making Detective Danson's earlier supposition they were led to the facility all the more likely.
+
+“Who was the grou—” Allie tapped her dagger onto the pillar, which earned her a glare from Melinda and made her slink back, bumping into Evie whose form rippled on the contact. “Sorry. Sorry. As I was saying, who was the group that was trying to sell the information? Damn girl, when did you get so feisty?”
+
+Melinda pressed her palms into her eyes. “Sorry, I’m very stressed and this time reversal formation is quite literally unique. And if you break it, it's just gone. So just don't. Please.”
+
+Allie’s dagger vanished, and she stepped back further.
+
+Taking the move for the surrender it was, Melinda explained. “We don’t know much. The group identified itself as an organization that was doing some corporate espionage when they discovered the information about the blood research groups and felt compelled to report it. They did so while demanding three Tier 38 upgrade orbs with no room for negotiations for the information, which speaks of their relative power if they are willing to risk the Emperor's ire over that demand.”
+
+That took Matt aback and brought into question who their attackers were. There was always the chance they were the blood research group, but it seemed more likely they were the extorting group Melinda mentioned.
+
+It could be that their attackers had been behind the research bases, but that was growing more unlikely.
+
+The hasty setup on Liz was obviously rushed, which didn’t fit the timelines of the facilities. Combined with this, the guts to extort the Empire itself of one of the most valuable items it had, that fit far more in line with the earlier attacks being hidden and calculated. Tier 38 upgrade orbs were strategic assets for a Great Power and not something just given away. Even as Ascenders, they had only been given three of the orbs.
+
+Three was truly extortionate, and Matt understood why Melinda had declined. The Empire might only have half a dozen orbs on hand, if they had any at all after both their and Zack and Allies recent ascensions, and giving away half of them would be a hard pill to swallow even with Manny’s backing.
+
+He was about to ask a question when the image in the crystal reached the raid and pulled their attention.

@@ -1,0 +1,271 @@
+---
+id: ab6cdc59-552f-5634-b906-b7a52fa8363c
+page-type-slug: story-chapter-royal-road
+title: "The Path of Ascension Chapter 428"
+slug: 0127-the-path-of-ascension-chapter-428
+partOf: the-path-of-ascension
+position: 127
+ownLength: 5059
+unit: words
+ownProgress: 5059
+publishedAt: 2025-07-14
+link: "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/2435228/the-path-of-ascension-chapter-428"
+royalRoadId: "2435228"
+markedReadAt: "2026-06-29T19:22:14.627Z"
+---
+
+Chapter 428
+
+Tim looked at his familiar apartment door with shock as adrenaline flooded his body and made him shake as if he had just had a near death experience.
+
+Which might be true.
+
+Carefully reaching out to open the door to make sure he hadn’t been hallucinating, he paused as he stared at his hand shaking like a dog shitting razor blades.
+
+Why a dog would eat razor blades, or how they could get all the way through a dog's digestive tract to be defecated, remained a mystery. It was one of the more colorful descriptors his mother liked to spout when he was younger, and had stuck with him for just how damn accurate it could be.
+
+She used to be eloquent like that before the alcohol had really gotten to her.
+
+With an effort of will, Tim carefully reached out to the doorknob and slowly twisted it.
+
+Blinking up at one of the most recognizable faces in the Empire, Tim swallowed and wondered if it was possible that the person in front of him was an imposter.
+
+Ascenders' appearances were legally protected, and while people could naturally have similar faces, anyone who deliberately changed their appearance into a likeness too similar was just begging to be fined into the ground. Or at least, that was how he understood the law was written from his school days. But that same lesson had mentioned how so long as the person in question wasn’t trying to make money off the appearance or pretending to be an Ascender, enforcement was fairly lax.
+
+That might have explained the man outside, but he wasn’t just similar to Ascender Titan, the person in front of him was the spitting image of the face Tim had seen in his history books. So he was either the real Ascender Titan or a near perfect lookalike, which was most certainly illegal.
+
+As no one was arriving to arrest the man or whatever, Tim’s disbelief increased further and further until the man smiled as Tim's pad pinged softly.
+
+When the man silently pointed to where Tim had previously tossed it on the counter, he just swallowed.
+
+Hands rock steady, as his brain simply didn’t have any more adrenaline to dump into his body, he saw an AI verification message from the LocalNet, CityNet, PlanetNet, and two EmpireNet relays all confirming the person in front of him was truely who he appeared to be.
+
+The message itself could be fake, but the amount of effort and power needed… if they could do that, they wouldn't need subterfuge to get anything they wanted.
+
+Which meant Tim was starting to believe the man in front of him was actually who he looked like.
+
+Tim felt like his brain was going to melt as Ascender Titan smiled. “Hello, Timothy. Mind if I come in to chat?”
+
+Tim instinctively said, “Tim, please.”
+
+It was only a moment later when Ascender Titan smiled that he realized that he had corrected an Ascender.
+
+Instead of getting angry the giant just smiled. “I tell people to call me Matt all the time, however it never works. I’ll extend the offer to you as well, if you feel comfortable with the idea. I do get the whole name thing. It's just generally better to assume the full name rather than call someone the wrong one. Mind if I step in?”
+
+Tim couldn’t quite process that Ascender Titan had just told him he could address him by his first name, but that felt like calling Garrett’s mother anything but Ms. Torres, or a teacher by their first name. Weird and uncomfortable. Except a million times worse.
+
+Realizing that he hadn’t spoken to answer the last question, Tim stepped back and Ascender Titan strolled inside the apartment, entering the little seating area that separated the kitchen from the living room.
+
+It was where Tim had set up his alchemy equipment, and the area was usually only a little cramped, but Ascender Titan was huge and took up a lot of the available space.
+
+Tim wasn’t used to being towered over, but Ascender Titan had several inches on his six foot one and the man was wide, with shoulders that looked like boulders.
+
+“Nice setup. The Anderson line. I remember when Liz used a similar model. She either blew it up, or we sold it by accident. Honestly, I don’t remember which.”
+
+Chuckling, Ascender Titan sat down in one of the chairs and the easily distracted part of Tim’s mind noticed how the chair didn’t creak, which it most definitely should have given the man's size, let alone his weight.
+
+“Okay, I’m sure you have some questions.”
+
+At Tim’s nod, Ascender Titan continued, “Mind if we try something first? I think it will make things more clear.”
+
+The Ascender waved, and a small handful of fifty credit coins appeared on the table. “Let's call this my payment for barging in. Absorb ‘em if you will.”
+
+Tim swallowed, realizing the Ascender was here for his Talent. He didn’t think it was so impressive as to require a duke, let alone an Ascender, to intervene, but Tim knew he had little choice but to comply and so did.
+
+Except, one of the coins remained sitting on the table.
+
+Tim blinked even as Ascender Titan clicked his tongue. “Well damn. Okay, first let me explain a little something. The duchy has a small counterfeiting problem. It’s actually small. Significantly smaller than the corresponding counterfeiting rings that infest pretty much every duchy, but I don’t like it.”
+
+There was a layer of steel in those last words that made Tim nod along. He wasn’t sure if he was agreeing with the Ascender or proclaiming his innocence in the matter, but he nodded all the same.
+
+Ascender Titan picked up the coin Tim hadn’t been able to absorb and started to let it run over his fingers. “This is a counterfeit coin. It's a literal perfect replica. This counterfeiter makes such perfect copies that even I can’t tell the difference. Or so we believe, given the serial numbers and such. You got flagged when you started withdrawing large numbers of coins and they didn’t hit circulation.”
+
+Tim felt his heart somehow go into his throat and his stomach try to sink to his feet, but Ascender Titan waved at him. “No one thought you were involved or anything. It was pretty clear that your Talent was eating the coins in some way. A fairly rare side effect, but not unheard of, and one of the reasons we keep the stupid physical currency. Originally, I was hoping you might be able to identify counterfeit coins and I’d hire you, but I assume you can’t spit those coins back out?”
+
+Tim could only shake his head, not able to speak with his lungs somewhere in the next city over, but Ascender Titan didn’t seem bothered by that.
+
+“That's what I figured, having seen you absorb the coins I brought to the bank. Yeah, I brought the coins you absorbed earlier. Given that and your potion skills, I figure you have an innate knowledge Talent. Seeing that, I’m even more interested. Want a sponsor?”
+
+Tim’s mind struggled to process everything Ascender Titan had said, but the final words jolted him. The Path? That deathtrap? He’d looked into it back when his only priority was leaving his mother’s home, but seeing the statistics made him scrap that option. He wanted independence, not a funeral. No hair on his head wanted a part of it. But how could he say that to somebody who actually finished it without sounding like an ass?
+
+“I’m sorry, Ascender Titan, but I’m already too old for it.”
+
+Instead of looking mad, the Ascender just waved. “Bad choice of words on my part, sorry. I meant a ducal sponsor, or guild sponsor if that suits you more. I sponsor you in the early Tiers, help you advance, and then you can pay it back once you are a higher Tier.”
+
+Tim finally thought he understood, and that helped center him. “I’m not sure I’m cut out for that. I’m not like you. I’m hardly a fighter. I just want to reach immortality and live forever.”
+
+Ascender Titan smiled. “Self-preservation is a laudable goal regardless. I won’t push on that, given how you do seem to delve at-Tier safely enough. If you really aren't interested, I can leave and we can pretend we never had this conversation, but innate understanding Talents can be incredibly strong if you are willing to push them. Jack of All, the Ascender from the Clans, has one that she pushed into being a monster. I don’t know what yours does, but seeing your records and you absorbing money, my gut says it's strong and I’d be happy to help you a little as part of a program we are spinning up.”
+
+Having accrued so much proficiency in the last ten years, Tim was quite aware of how strong innate understanding Talents could be.
+
+He had worked incredibly hard to slowly but surely increase his skills while grinding his Tier in the rifts, but even then, his progress had been less than ideal.
+
+According to his calculations, he was still fairly well on track for the needed speeds if he really wanted to reach immortality with any amount of certainty. The costs of all the things he needed to buy had slowed him down, as well as all of the proficiency grinding he had to do between delves. But while he had lost ground, he hadn’t fallen off entirely.
+
+It was a slow grind, and having done it for the last decade, he understood why so many people joined guilds and other cooperative organizations. He had made fun of it before when he was in high school, but on the other side, he got it. It was hard to keep up the motivation to grind day in and day out without severe burnout or getting yourself killed by making a careless mistake.
+
+Garrett was the only friend from high school he still talked to regularly, and even that was becoming harder with him taking over more responsibilities from his mother, having reached Tier 3 himself not too long ago with a group of fellow crafters’ children. Garrett would slowly advance further but he would no longer be getting carried through rifts to speed that process up.
+
+His friend, like so many others, just didn’t have the drive to make it all the way to Tier 15.
+
+Some days, Tim wasn’t sure why he wanted to be immortal, but it just seemed like the first real goal he could set for himself. Once he had all the time in the world, he could truly take his time. But until then, old age hung over his head like a sword.
+
+It wasn’t impossible by any means, but having someone like a duke, let alone an Ascender, backing him could let him rocket ahead.
+
+He could also possibly learn new entries that would have taken him decades to otherwise get his hands on.
+
+It wasn’t just access to the skills themselves, but being able to see higher Tier skills was part of his Talent that he’d never really been able to truly leverage before, but it might be an untapped gold mine of proficiency.
+
+Seeing Tim was interested, Ascender Titan said, “If you don’t mind talking about your Talent, let’s start there.”
+
+It was a bit of a gamble, but it was one Tim was willing to take.
+
+Maybe.
+
+***
+
+Matt looked on as the kid’s mind worked overtime trying to process everything.
+
+He had deliberately come in quick and fast, but he didn’t intend to actually sign anything with Tim here and now. He mostly wanted to shake him loose from the routine he had been in.
+
+And he hadn’t even lied. There was another young man who had made his way to Palustris via Mathew and Vinnie’s delving prep school, Stewart Reynolds, who had a Talent that let him absorb the full effect of a potion.
+
+It seemed like a simple Talent, but he had come up with ideas of how he could grow the Talent, and Matt and Liz were more than happy to help someone so dedicated. Making the test group larger didn’t really change those plans, and Matt hoped the two could feed off each other and encourage the other to grow.
+
+But a lot of that depended on Tim’s Talent and how it actually worked.
+
+“My Talent is about proficiency. I spend money and unlock the ability to grow the entry. I, umm... It also simplifies the skill. So my current potion, the healing potion, shows up like: ‘Beginner Alchemy(Healing Potion | Variant Calafor): 0/100 Proficiency — Unlock Cost: 100,000 Credits’. Then when I pay the unlock cost, it wants me to make soup, or stir soup actually, and that feeds me some information about the potion. Then once I get the full proficiency, I get what I estimate to be a decade’s worth of information about the skill. I… Yeah, that's kinda it. Oh! Actually, my Tier 3 Talent lets me merge bought skills. It creates a new proficiency to grind out and costs more money to unlock, which has been the real issue. I’ve only used it for my endurance and running proficiencies. I just unlocked the healing and strengthening potion mix before buying the skill creation method for [Solar Flare]. That's what I did with the money you brought. I… okay, that's kind of it for real this time.”
+
+Matt smiled, but his mind was racing the entire time.
+
+Tim’s Talent was stronger than he expected. Much stronger if it was just able to create entirely new recipes or learn a simplified method of skill creation.
+
+If.
+
+That was the question.
+
+Matt personally doubted the Talent was creating entirely new information out of nothing. That would be incredibly rare for an innate knowledge Talent, but few things were truly impossible with Talents. Given that his Talent did seem to have a downside, with needing to pay money, it was possible it was just that strong.
+
+Doubtful, but possible.
+
+He suspected that someone somewhere had mixed the two potions together and either tossed the recipe into a closet, or was producing it only for themselves if it was truly a useful potion. Most of the time, multipurpose potions were weaker than just taking two of the normal potions, but a healing and strength mixture was one of the more common combinations because of the panic factor.
+
+As for the skill creation insights... Matt forcefully pushed them out of his mind until they could return to the guild and they could properly study the process.
+
+“That's very interesting. A powerful Talent. Have you found any limitations to it so far? If you don’t mind sharing, that is. I might ask, but feel free not to answer.”
+
+Tim shook his head before nodding. “Maybe? I’ve never found a breathing proficiency. I’ve got one for breath control and one for holding my breath, but no proficiency for actually breathing. That's the most obvious thing that just hasn’t appeared for me yet, but it's possible there are others I’m not seeing. Oh, walking. Same thing with that. Same with thinking, now that I think about it. I’ve never gotten a mental proficiency to like… make me smarter or anything.”
+
+Matt just nodded along. “That's very interesting and sounds like an obvious place to start pushing your Talent. That's really what I want out of you, if you take my offer. Push your Talent in an environment where you have good trainers and the like.”
+
+Tim perked up at the suggestion. “I’ve pushed my Talent a ton. I’ve found it's a little flexible. I have a proficiency ‘Apprentice Herb Harvesting(Common): 542,230/1,000,000 Proficiency — Pick weeds to gain proficiency’ that I’ve been grinding out every time I enter a rift. I learned that the definition of weed is pretty much whatever I deem is unwanted, so after I clear the rift I just start picking everything I can. Even still, it takes forever and I’m not really sure it's worth the effort. I…”
+
+Matt momentarily increased his perception as he was startled at the revelation that Tim’s Talent was Categorizing.
+
+That was fairly rare, but its utility was obvious and had been adopted by games and the like. Or that was one of the prevalent theories, given there were records of such Talents and said records went back at least three cycles of Great Powers. At the same time, so had games of one sort or another.
+
+[AI], the skill, ensured that nearly all civilizations followed similar coding principles, meaning some games, if recovered intact, could even be played. They served as fantastic learning opportunities for those interested in the past civilizations, but it presented a chicken and egg conundrum.
+
+Most of the time, the Talents that showed such detailed descriptions followed a fairly strict categorization of common, uncommon, rare, epic, legendary, ultra-rare, mythical, godly, and finally transcendent, but there had been variation, making some question the veracity of the Talents and their choices. And of course, the open question, as with all Talents of the style, was that the actual limit, or were there even higher ranks once you reach Tiers beyond the current Realm.
+
+Matt had, however, been interested in such Talents since he had learned about them from Ciceron, and having one in front of him with so much extra utility, if his merger thing worked properly, it made his mind race.
+
+Tim was a treasure trove of information, and Matt was more than willing to sponsor the kid to Tier 15 so they could excavate everything possible with his Talent. The proficiency scaling if it followed a one hundred times increase would start to get aggressive in another level or two, but Matt had ideas.
+
+First was the most obvious. Once Tim was immortal, any arbitrary number became nothing more than a time sink, which Matt suspected correlated into some scale of how much time it would take someone else to reach that level of competency. If a decade of information was given to him at level one, Matt had to wonder if it was two decades or a century at the second break point.
+
+Assuming it was an actual decade, then centuries worth of experience. With how young Tim was and how unremarkable his history had been, Matt was somewhat dubious he had the experience to make a call like that. One more thing to test for.
+
+Either way, he hoped the scaling would be the second, but was prepared for the knowledge scaling to be a flaw of the Talent and need to be boosted.
+
+The second way to get around the scale of large numbers was to push the Talent and find ways to increase the proficiency gained per action.
+
+He had ideas for that, but it would take testing.
+
+Letting his perception drop back to Tier 3 levels, Matt heard Tim finish. “But I haven't been able to get the Talent to absorb mana stones as currency. It's really annoying, but no matter how much I push, I can’t manage it. I can assure you, I don’t like going to the bank to get money out any more than they like me bothering them.”
+
+The money might seem like the largest hindrance for the kid currently, but Matt… Matt was Matt. His bank account, in credits at least, could say whatever he wanted it to. He was not only a duke who could mint coins with any value he desired, but he also had a connection with Manny, who could just send him any number of credits he required.
+
+Not that Matt wasn’t thinking about the Talent that way. He could already see a Talent training plan where Tim grew his similar to how Susanne had hers. They’d probably need to start by getting his Talent to absorb variations of currency if it couldn't already. It was legal tender, but Talents could be picky. After that, they’d push to other Great Powers’ currencies. The Corporation credit was the first and most obvious other currency to use, but after they went through them all, the Talent should have expanded enough to accept rift mana stones.
+
+If it didn’t, they would need to find a new incremental step depending on the results, but Matt was confident they could manage it.
+
+And once Tim could just absorb them to unlock his proficiencies, Matt could just hand him a ring full of mana stones.
+
+Was all that work really necessary when Matt could just print off the currency? Undoubtedly so. It wasn’t just about growth for growth's sake, but what happened if Tim got stranded somewhere without an Empire bank or where the banks ran out of physical currency?
+
+What happened if Matt got his wish and banned physical currency in his duchy, leaving nothing left for Tim?
+
+That last one was unlikely, and Matt knew it, but he was in a good mood and could wish.
+
+Matt couldn’t help but smile as he looked at Tim, realizing this was probably how Luna felt when she found a promising student to teach. Full of energy and ready to find out just how much they could learn together.
+
+“I think we are going to have fun, Tim. That is, if you are interested. I just sent over the contract. Look it over and go wander around and have a lawyer look it over if you want. The main points are as follows: I will assist in your advancement in cultivation while trying to assist you in growing your Talent, providing whatever reasonable items or resources you need. You also get a flat wage based off of your Tier, as well as pay based off of your contributions. In your case, research information given to you by your Talent. In return, you are accruing debt equal to seventy five percent of the resources given to you, as well as the training, but not either of the wages. You can withdraw from the program at any time with no penalty. Training lasts until the Tier 5, 10, and 15 breakpoints based on need. After that, the ducal house, my guild, or Liz’s research station will happily offer longer term contracts.”
+
+It was an incredibly kind deal for the cultivators in question, but that was the point. After meeting Eirene and helping her through her situation with Duke Innes, Matt and Liz had formally set up this project. They weren't trying to make money, but instead give Talented people a method to truly come into their Talents in a safe manner, so they were willing to operate at a slight loss to set the standard for anyone looking to copy the program.
+
+Not that their ideas of getting Talented people when they were young was in any way new. But they, unlike most, were willing to let them go instead of locking them into long-term contracts from the outset.
+
+Matt and Liz hoped that their generosity would be reciprocated in kind to them with the people in question willing to work for them afterwards, but it was only a matter of time before someone decided to leave.
+
+Which was fine.
+
+The program was meant to help people, not necessarily help him and Liz.
+
+Seeing that Tim finished reading, Matt gestured to the alchemy station. “Want to try your new recipe?”
+
+“I haven’t gained my proficiency yet. I need to make vegetable lentil soup first.”
+
+Matt just raised an eyebrow, silently questioning that statement. It wasn’t that he didn’t believe Tim, but more that Tim seemed to be missing the obvious.
+
+Except, Tim just stared back at Matt growing more and more uncomfortable.
+
+Matt finally relented and asked, “The combined proficiency thing, did it give you the recipe? How does it work? Can you try it first? See if your proficiency from the other two skills help without you needing to grind to novice.”
+
+“I um… call them entries. Skills already mean something else and skills can be represented in the Talent, so um… yeah.” Tim looked down as if he had made a mistake correcting Matt but his mind had caught onto what he said about skills.
+
+“You can see skills? How does that work?”
+
+“Um... Well, kind of. I can see all of the skills you published in my Talent. On that note, uh… Thanks? People are really happy for them. Even people like my mom who never actually did any of the delving part talked about how cool your skills were. But I can see them, and I umm... Is it illegal to watch other people use skills and get something out of it?”
+
+Matt smirked. “So long as they were in public you are fine. Unless you want to confess that you are a peeping Tim?”
+
+Tim waved his hands. “No, nothing like that! Someone was learning how to use an [Air Manipulation] skill in the park for a few weeks on and off. I, like pretty much everyone else, hung out while they were doing it. It was fall, so the leaves moving enabled us to see what they were doing. During that time, I actually got an entry for [Air Manipulation]. It's just that it costs nearly two trillion credits. One trillion nine hundred billion to be exact, which is pretty much the cost of getting the skill itself.”
+
+Matt checked the current records of sales and found that while the listed price was nearly that, the skill typically went for four or five Tier 8 mana stones, which would have been closer to two trillion five hundred billion on the lower end. What was more interesting was that the price was only that low because the neighboring planet had four rifts that dropped [Air Manipulation] as part of their common drop table.
+
+Matt had to resist the urge to just hand Tim two trillion credits. He didn’t have that many physical credit coins on him, but part of him knew he could get Allie to deliver him that much and more. Or better yet, just teleport all three of them back to Palustris where Matt could turn on the credit printer.
+
+However, he wanted to help Tim grow, and unending and unearned handouts were a good way to ruin someone. Especially someone like Tim, who, for all Matt could tell, was smart enough he found no challenge, and so had never had to push himself.
+
+Motivating the kid might be tricky, but Matt was willing to put in the work. And best of all, if he really needed help, he could pester the cat who hadn’t left one of Palustris’ lava vents for the last hundred years.
+
+If Luna could teach Mara and Leon literally anything, she could surely motivate someone like Tim if Matt couldn't.
+
+But Matt doubted it would come to that.
+
+Tim just needed to be carefully pushed and prodded, but once he got going, Matt was sure he’d find his own inner drive.
+
+“It's not illegal, but it is very interesting. I wonder if you buy the skill if it just gives it to you. You said you saw the entry methods for creating the skills. Do they give you the skills? From the name you mentioned, it sounds like it doesn’t, but what if you watch someone casting those spells? Can we create copies of rare or even possibly cracked skills with your Talent?”
+
+Matt grinned at Tim’s shocked expression at his rapid fire questions, finally shrugging as nonchalantly as he could. “I have no idea, but it would be cool to find out. Now why don’t you try making the potion? If it gave you the recipe that is.”
+
+Tim nodded before thinking. Matt couldn’t see his spirit shifting or doing anything unusual, but Matt could tell from his biological signs that he was in his own mind. Or Talent if his description of an AI-like display wasn’t just a hallucination his mind used to better understand his Talent.
+
+Finally Tim started going through his kitchen, pulling out a few herbs and finally looking up. “I need to go get three types of herbs that weren't in the original healing recipe.”
+
+Matt just nodded and stepped out of the apartment, letting the kid lead him to the nearest alchemy store.
+
+He wasn’t paying too much attention to Tim, given that the kid was quietly trying to steal looks at Matt, who had disguised himself as they left. Instead, he just observed his citizens going about their daily lives. Baron Dalru’s efforts in leading his people were noticed with excellent marks all around, and Matt started writing up a small congratulatory note for the man.
+
+It wasn’t quite as useless as a piece of paper; it also came with Matt and Liz willing to foot the bill for either a project or license for something Baron Dalru wanted for Calafor’s development, as well as a personal commendation for when he stepped down. Ultimately it would be up to the baron to properly take advantage of the offer, and Matt was honestly interested in what the man would come up with.
+
+Once they had made the purchase they needed, Matt then suggested Tim buy the ingredients he needed for his soup while they were out, which seemed to surprise the kid. Matt noted it down as a thing to hit later, but didn't want to distract him.
+
+Instead, he waited as Tim tried to concoct the merged recipe while recording every step to send to Liz via the Ascender chat later. If she had wanted truly up-to-date information, she could have waited around with him instead of leaving.
+
+Grinning at his payback, Matt wasn’t at all surprised when Tim failed his first three attempts.
+
+It wasn’t that he didn’t know what he needed to do. Apparently he did, he had a mental recipe of the new potion, but he hadn’t worked on his alchemy fundamentals nearly enough. Though it was clear he had some skill with the devices.
+
+Which was fascinating to Matt and he wanted to start understanding the intricacies of Tim’s Talent but in the end it would depend on if Tim agreed to the contract, but he was hopeful.

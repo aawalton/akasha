@@ -1,0 +1,209 @@
+---
+id: 3faf091a-b6be-5a83-bb6c-b67466de2cd5
+page-type-slug: story-chapter-royal-road
+title: "Chapter 119 – Guardians of the Cavern"
+slug: 0119-chapter-119-guardians-of-the-cavern
+partOf: the-magpie-and-the-archmage-monster-evo-litrpg
+position: 119
+ownLength: 2045
+unit: words
+publishedAt: 2026-05-06
+link: "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3361098/chapter-119-guardians-of-the-cavern"
+royalRoadId: "3361098"
+---
+
+"I shall find the treasure!" Liora announced and swam directly into the cavern.
+
+She was taken by surprise for a moment, as the water was cut off suddenly and fell. Obviously, a few quick flaps of her wings were enough for Liora to land safely on the rocky cavern floor.
+
+"There might be some monsters in there, but I don't think they are very powerful. I'm sure capable monsters such as yourself can deal with them," Calypra called, her voice sounding somewhat distorted since Liora wasn't in water anymore.
+
+"You didn't say anything about monsters!" Cee accused, flailing her front legs angrily. "This is cheating!"
+
+"The spider really does talk," Varrex noted, his voice also distorted. "It's much cuter than I thought."
+
+"My voice is not the point here!" Cee objected.
+
+"Sorry, little surface critters. We would have cleared this place ourselves if we could. But our physique makes it rather impossible to travel any deeper inside this cavern," Calypra said. "The task should be simple enough. Treasure is located at the very bottom of the cavern. Perhaps you can fly to it and grab it, without even needing to fight."
+
+As things currently stood, the cavern was too narrow for Liora to fly comfortably in her aethral form. Perhaps she could switch to her magpie form once she was out of sight.
+
+"We'll be waiting for you to return with the treasure," Varrox said while emphasizing the word "treasure". It was clear that they wouldn't be able to leave without giving them the treasure first.
+
+Liora was already thinking about whether there was a way for her to keep the treasure, whatever it was, to herself. Sadly, as far as water was involved, it would be impossible to beat these merpeople.
+
+"Very well. We'll get going then," Liora said and turned to look into the cavern.
+
+There was a singular pathway which appeared to be winding down, deeper underground. Liora hated the thought of heading deeper inside, but there wasn't much of a choice. With measured footsteps, Liora stepped into the narrow path, followed by Cee.
+
+"I don't like this place," Cee muttered, once they were far enough from the entrance.
+
+"Neither do I… It's so cramped," Liora whined. Throwing a glance back to make sure the merfolk couldn't see them anymore, Liora turned on her Magpie Disguise.
+
+The relief was instant as her body shrank down to be the same size as Cee, making the place not feel so narrow anymore. She could even fly without worrying about hitting her wings against the cavern walls.
+
+"Much better," Liora exclaimed.
+
+"Good thing you can turn into a magpie. You get rather weird wherever narrow spaces are involved," Cee noted.
+
+"I am a bird! I need a LOT of space. These kinds of places are suited for moles or spiders," Liora shot her companion a glance.
+
+"No way! This place smells of mold and is all wet. I don't think I could even climb the walls comfortably with how slippery they are. Dry places for me, please," Cee protested.
+
+"Let's just agree that this place sucks. Although I can feel that the treasure beneath is amazing!" Liora exclaimed happily.
+
+"I wonder what it could be…" the spider pondered.
+
+It must be more than just a regular shiny trinket. If a group of mages came here and were ready to die for it, then it likely has some unusual ability. Perhaps keeping it away from the merfolk was more important than bringing it back to the surface. Creating a permanent magical space such as this one must have used most of their life force. It's almost like a proto-dungeon.
+
+"Bleh!" Liora exclaimed, remembering the corrupted proto-dungeon on the corruption island.
+
+"What?" Cee asked, confused by Liora's sudden outburst.
+
+"Renir says that whatever the treasure is, the mages sacrificed their life force to keep it away from the merfolk and created this proto-dungeon," Liora explained.
+
+"Doesn't Renir know what the merfolk would want?" Cee asked.
+
+"No. He says that this is the first time he's seen a merfolk city," Liora said.
+
+Cee suddenly stopped walking, forcing Liora to land and look at her.
+
+"He's… never seen a merfolk city? Despite being a Pillar? Despite the mana node being at the very center of their city, acting pretty much like a beacon to anyone with Mana Perception?" Cee said.
+
+"Yes! I found that odd, too. Somebody must have discovered this place by now," Liora nodded in agreement.
+
+A feeling of dread suddenly came from Renir.
+
+"What? Don't just send these dreadful emotions at me without explanation," Liora grumbled, although the same feeling had been in the pit of her stomach this whole time.
+
+"I think we all already know exactly why no human knows about this city…" Cee muttered.
+
+Liora didn't want to admit it. She hadn't wanted to even think of the possibility. But the answer was rather obvious.
+
+They must be killing any human that approaches…
+
+"They are killing anyone who dares to approach…" Cee said at the same time.
+
+Liora nodded. It was likely that they would have been killed too if they were human. But being monsters, the merfolk must have given them the benefit of the doubt. Or perhaps, they just believed that it would be far easier to exploit monsters than humans. Give them what they want, get them to retrieve the treasure, and then kill them.
+
+"I don't like—"
+
+Liora didn't get to finish her sentence when a loud hissing noise, mixed with odd rattling, came from behind. Whirling around, she saw an animated skeleton running straight at her.
+
+HOLY LIGHT!
+
+Liora fired Holy Light at the skeleton instantly, managing to hit it right in the skull with the light beam. It pierced straight through it, despite being weakened by her magpie form. The rest of the skeleton disintegrated into black dust, which fell to the cavern floor.
+
+[You've defeated <Skeleton Warrior – Level 23>. Experience gained.]
+
+"What the hell was that?!" Cee screeched. "A walking skeleton?!"
+
+Undead… the worst kind of enemy to face… Under normal circumstances. I think you're actually going to be fine. These things are incredibly weak to holy magic.
+
+"Undead?!" Liora exclaimed. "I don't want to fight skeletons and zombies. They are terrifying!"
+
+"There's going to be zombies too?" Cee cried out.
+
+More rattling and hissing noises came from deeper within the cavern, coming closer to them.
+
+"No, no, no! I am not fighting that," Cee shook her spidery head fervently, scuttling backwards.
+
+"Those mermaids are going to kill us if we return empty-handed!" Liora pointed out.
+
+"They'll likely kill us either way."
+
+"Yes, but I'd rather take my chances with the skeletons. Let me give you holy affinity," Liora said, and chanted the incantation for Holy Imbuement.
+
+She touched the spider, a gentle glow coming from her body.
+
+"Wow… That felt weird…" Cee muttered.
+
+Imbuement won't last long on Cee, so you'll have to renew it every 20 minutes or so.
+
+Got it!
+
+More skeletons came into the cavern. Liora equipped her Necklace of Sunpeak for improved mana regeneration and the Holy Wand to increase the power of her holy magic. Then she just blasted every skeleton that appeared with Holy Light.
+
+It was super effective!
+
+[You've defeated <Skeleton Warrior – Level 25>. Experience gained.]
+
+[You've defeated <Skeleton Warrior – Level 23>. Experience gained.]
+
+[You've defeated <Skeleton Warrior – Level 27>. Experience gained.]
+
+"Do I even need to do anything?" Cee asked. "You seem to have a good handle on the situation."
+
+"They are rather weak," Liora noted. "But wait… where's the glimmerstones?"
+
+Undead don't have glimmerstones. Only living creatures have those.
+
+"WHAT?!" Liora screeched.
+
+"Let me guess—undead don't have glimmerstones," Cee said.
+
+"No, they don't! What's the point of even fighting them? This is the worst place in the universe," Liora grumbled.
+
+"At least there's treasure at the bottom," Cee noted.
+
+"Oh, it'd better be a good treasure, otherwise there will be a price to pay!"
+
+"Remember that we have to give it up to the merfolk."
+
+"Like hell I will. If I have to fight a horde of undead, I will take the reward for it, and those merpeople can go suck a coral for all I care!" Liora announced.
+
+Oh dear…
+
+Cee gave the spider equivalent of rolling her eyes, which mostly involved rolling her head, but didn't comment on it. The spider likely knew that any arguments would be useless at this point.
+
+As they kept heading deeper into the cavern, more and more undead appeared. Initially, it was just the weakling skeleton warriors. Then zombies began to appear.
+
+They were absolutely foul. The sight alone was enough to make Liora puke. But the smell was even worse. The stench of rotting corpses filled the whole cavern and got worse the closer the zombies came. Even Liora, with a rather poor sense of smell, felt like she wanted to gnaw her nostrils out.
+
+Cee, on the other hand, was completely unbothered.
+
+"Can't you smell that?" Liora exclaimed, desperately trying to wave the nasty stench away after she blasted the zombies with Holy Light.
+
+"No. Spiders don't smell stuff the same way other animals do. We have to touch things to smell them," Cee exclaimed.
+
+"That's so unfair!" Liora whined.
+
+"Hey, at least you don't have to constantly smell dirt underneath your feet," Cee shot back.
+
+"Dirt smells absolutely like heaven compared to this! I wish I could cover myself in dirt, so I couldn't smell this!"
+
+Continuing down, the cavern grew wider, and the enemies also grew stronger. Skeleton mages joined the fray, often flinging fireballs or icicles at Liora or Cee. The spider finally had to join the fighting, weaving webs that were imbued with holy magic.
+
+They turned out to be extremely effective, stopping the undead in their tracks and slowly eating away at their bodies, disintegrating them to dust. Regular skeletons and zombies didn't pose a threat at all. They only needed to be wary of the projectiles flung by mage skeletons.
+
+Is it normal for undead to be this weak?
+
+Against holy magic—yes. Physical attacks are absolutely useless against them, and most magic, except for fire magic, won't do much damage either. This is a very favorable matchup for you.
+
+Liora wasn't going to complain about that. Not to mention that the deeper they went, the stronger the signal from the treasure was. Treasure Sense was basically salivating at the promise of the treasure.
+
+Having dealt with another nasty group of undead, the passageway widened even further, leading into an open cavern where the bottom was filled with shallow water, no deeper than human ankle height.
+
+"Why is this place filled with water?" Cee complained, shaking her legs up in the air, each in turn.
+
+"We were previously completely submerged in water. How is this worse?" Liora asked.
+
+"No, being fully underwater is definitely worse. I feel like I can't do anything," Cee corrected. "But this place will make it difficult for me to lay any webs…"
+
+Suddenly, the ground shook, creating little waves of water on the cavern floor.
+
+Liora looked around, hoping that perhaps she could grab the treasure and retreat before facing whatever guarded this place. Her Treasure Sense indicated that it was located on the far side of the cavern. There was a small rocky shrine there that looked like a seashell. Next to it were half a dozen statues, each seeming to represent a different battle class.
+
+Right next to the shrine, there was what was clearly meant to be a warrior and paladin, and after that followed a mage and likely a priest. At the far sides were an archer and a gunslinger.
+
+"I don't like those statues…" Liora muttered.
+
+Another powerful tremor resounded through the cave.
+
+Prepare for battle!
+
+Liora looked around, wondering what it was that she would be fighting. Cee jumped onto the ceiling, just barely able to hold onto its slippery surface.
+
+All of a sudden, the stone statues began to crack, the rocky outer coating crumbling and peeling away bit by bit. Another tremor, and most of the rocky shell fell away from them, revealing the zombified creatures underneath.
+
+They screeched an ungodly scream and charged at Liora and Cee. All six of them at once.

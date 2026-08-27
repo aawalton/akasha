@@ -1,0 +1,459 @@
+---
+id: ac76fe3b-23a9-593f-a331-b76dcd2d453d
+page-type-slug: story-chapter-royal-road
+title: "432  A Sweeping Reform"
+slug: 0392-432-a-sweeping-reform
+partOf: the-new-world
+position: 392
+ownLength: 3902
+unit: words
+ownProgress: 3902
+publishedAt: 2025-06-01
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2321133/432-a-sweeping-reform"
+royalRoadId: "2321133"
+markedReadAt: "2026-06-29T21:34:48.676Z"
+---
+
+As I gazed at my palm, I felt a resurgence of memories alongside my healing. I had gorged on the interdimensional energy for a long time, and in turn, the faculties of my armor expanded. It felt good, like becoming something greater. In tandem, a sadness spurred forth. I would only get further and further from a life like this as time passed.
+
+A part of me accepted that. Another part raged against this machine made of momentum. Either way, as Joshua left his bar's main room, I turned to the wall, gazing at the blank stone. I could only take every day one step at a time, by grounding myself, I could achieve a sense of purpose in my life.
+
+And my purpose was to move. It was time to enact change.
+
+Chapter Begin
+
+I hopped up out of the cot, trying not to let myself get caught on a snag in the worn mattress. After passing the rooms and out of the bar's central entrance, I experienced a sleeping city. Here, in the outskirts, the gloom of a twilight left activity far lower than during the day. As I closed into the central parts of Springfield, light and life washed over the city.
+
+Bars had music once more, the thrumming base and hypnotic sound muffled from the walls of the buildings. Multicolored lights beamed from within, and the rumble of a crowd carried through the glass windows like a stampede. Many people congregated and talked along the parks of the city, the seating arrangements hosting a different clientele than we first imagined when building them.
+
+Business people spoke through mana-based radios, each of them carrying a series of rudimentary enchantments to do so. Other young levelers lived the high life, stepping past clubs and hangouts designed for their entertainment and credits. A few less scrupulous individuals even sold selective ingredients along the streets, though none of them touched anything directly illegal.
+
+Beyond the shops and downtown, I passed toward the true heart of the city - Mt. Verner. In the air, I never noticed the differences here. On the ground, they were undeniable. The density of enchantments, magic, and machines rose as I got closer to the peak. Wealth from the college, mechanical industries, and medical centers poured into these communities.
+
+The same banisters below Mt. Verner hung from walls and pillars alike, though their density paled in comparison to the underground area. As they garnered enormous wealth, the prolificism of machinery also expanded. No one owned cars, but a few owned mana constructs that helped ward the home or clean up the nearby street.
+
+At night, I found ethereal entities mirroring skeletons. They wielded scythes and wore straw hats. While their owners slept, these apparitions cut their grass, pruned their hedges, and helped plant flowers or weed gardens. The work that once was handled by a class of manual laborers was replaced by magic entirely.
+
+Aside from the apparent wealth, the bolder designs emphasized the use of enchantments in the designs. One home floated off the ground entirely, only held aloft by gravitation and a single spiral staircase leading upstairs. A dry set of sand and stones spread out beneath the home, and the Japanese dry garden caught the eye like an amethyst surrounded by jade.
+
+Another home had a spherical pool, one held together once again using gravitation. It spiraled above the house, and a set of enchanted armbands would help keep anyone on the pool aloft. A few fixed seating spots would help guests lounge in the pool while creating waves in the floating blue marble. When undisturbed, the waves continued in an eternal set of spirals around the water. It was utterly stunning.
+
+After walking beyond the base level of Mt. Vener, I tread past the guardian golems. They saw right past my cloak, and once inside, I headed into Torix's college. The grandiose hallways had changed from raw rock to embroidered brick or sculptured stone. I never noticed as I simply swam from one place to the next, but this was no longer an underdeveloped hiding place from Yawm. It was the center of a burgeoning empire.
+
+My empire.
+
+An intense feeling of inadequacy flooded over me, and I held back my knee's sudden urge to wobble. I gulped before taking a breath and silencing the wave of emotion. Stepping past it all, I walked back into the third layer of the underground fortress. At the entryway to Torix's college, a set of enchanted doorways were closed.
+
+Above them, on a set of molded marble, a set of mana engraved words read:
+
+Tread forth whilst others idle, and separate yourself. Go forth into that unknown, and in your enlightenment, bring the world alongside your discovery.
+
+Ad Infinitum.
+
+It was an inspiring quote, likely written by the founder himself. As I opened the doorways, I entered a permeation of additional buffs. When fully revved, I hardly noticed them, but in my weakened state, they increased intelligence, willpower, and perception. I wasn't the only night owl enjoying the buffs, either.
+
+Many students walked about, none of them idle or sitting still. Here, amongst the intellectual elite of the guild, most took the willpower perk that eliminated the need for sleep altogether. They never even considered resting when there was work to be done, and their sheer excitement for academia and study ignited my own desire for understanding.
+
+But it wasn't the time to read or research. As I walked in, I suppressed the enchantments on my cloak. My presence and aura surged, and the busy library went silent. No steps walked or paced amongst the hallways, and the flipping of pages quieted. I spread my hands.
+
+"Hello, everyone. I'm Daniel, your guildleader, and I have a mission for any who are eager to listen."
+
+Over the next few minutes, a group formed, and I paced back and forth while using my speech voice. I detailed three different missions, each of equal import but carrying entirely diverse skill sets. The first mission involved the study of the permanent portals from Marcella's Infinity Plaza.
+
+I wanted to create a mission to research and develop those portals across every planet I owned in my empire, and I would fund any research into the matter. If we gained that technology, we could eliminate the persistent warping costs from using Schema's portalling systems. Any local industries could be expanded and proliferated across every world, enabling far easier access to goods, including defensive treasures that would keep people alive.
+
+The second mission detailed the creation of a runic inscription company. I would be creating a guild-led organization that sold defensive talismans, prearranged runic configurations, and stabilized mana stones for generic power needs. This would help modernize the outskirts of my guild while filling in a need that hadn't been shored up for or by adventurers.
+
+The last request I made was for the creation of a guild-led alchemical company. We had the rare advantage of being able to maintain dungeons long-term, resulting in a much better understanding of the eldritch under our purview as a whole. Using that knowledge for empowering elixirs, concocting cocktails, or portioning potions could help fill in the other gaps for our guild's industries.
+
+I found a receptive audience from a backend standpoint. It took a while to wear down their oppressive sense of awe before I began getting honest answers as well. No one here wanted to stop their research, but they relished a sense of direction and purpose for the fields they were already interested in. I recruited those already involved in the fields I asked for or those interested in learning the fields.
+
+After organizing an initial set of groups, I messaged Torix about the operations while telling them that I'd be here at the same time tommorrow. The more students and competent professors they could inform, the better. It only took two hours, and I constructed a firm framework for these future organizations.
+
+And this was merely the beginning.
+
+After leaving the college, I paced over towards the dungeoneering branch at Mt. Verner. As was the case with most organizations, their headquarters rested on the second floor. There, I found a nearly sleeping receptionist who almost relieved themselves at the sight of me. A quick conversation later, and I had Isa Antoun, the dungeoneering lead, heading to her office.
+
+I stepped past the hallway, and I couldn't help but appreciate the rustic approach she took to the dungeoneering main branch. A few taxidermied eldritch hung on the oak walls, and the subtle scent of tanning agents lingered from them. A few odd chemicals escaped my knowledge, likely a treatment designed to keep the eldritch from reviving.
+
+Beside me, maps and charts covered the walls alongside experimental armor or weapon pieces. A few dots detailed dungeons, and the data points changed color depending on the severity or need for clearing. The grizzled dungeoneering veteran approached while wearing her leathers coated in the same materials.
+
+Sleep still sank its claws into her eyes, but despite her weariness, Isa sharpened at the sight of me. She reached out a hand.
+
+"Daniel, it's good to see you again."
+
+I grasped her hand.
+
+"You as well, Isa. Sorry for waking you and calling on such short notice."
+
+She shook my hand before scoffing.
+
+"I understand how tumultuous your schedule is, sir. There's never a need to apologize for doing so much for the guild. After all, it's better I work around what you're doing than you work around me."
+
+A pang of guilt hit me, considering how lazy I'd been the last few weeks.
+
+"Don't mention it. Now, I've got a few guild operation expansions I wanted to run by you."
+
+"What did you have in mind?"
+
+I raised my hands.
+
+"I'm planning on making a forestry clearing operation."
+
+Isa crossed her arms, the muscles rippling in her forearms.
+
+"Really? We already cleansed the largest of them."
+
+I nodded.
+
+"We have, but we need to dispatch the middle-tiered ones as well. I had the idea of having my golems carry search parties out into the wild and have groups of adventurers clear them out."
+
+Isa winced.
+
+"Sounds like a lot of work."
+
+"I'll have the Speaker's offer up contractual rewards. We also need to help get people to actually fight the monsters instead of only trying to harvest goods from dungeons."
+
+Isa flushed red.
+
+"Oh, so you've heard about that?"
+
+I smiled.
+
+"I've lived it. Recently, that is."
+
+She eyed my cloak.
+
+"So that's what this is all about. Hm. We can definitely make it happen, though I'd prefer a more organic approach. Forcing the issue doesn't lead to the change we're looking for, usually."
+
+I stepped to my side, bumping a chair. It flung away before I grabbed it, cracking the wood.
+
+"Dammit. Anyway, get people who are willing to fight and have the awards exceed the payments for simply returning goods. We need people to get leveled, asap."
+
+"Is there a reason? It helps motivate those asking questions if I can give them an answer."
+
+I gazed at a set of maps.
+
+"There's going to be a massive expansion in the danger of different dungeons here soon. I need as many prepared people so that I won't have to spend all my time protecting them."
+
+Isa's eyes widened.
+
+"Do you think there'll be an invasion by Elysium?"
+
+I shook my head.
+
+"No, but it could be worse. We're working with a lot of unknowns, but suffice it to say, we're going to need as many strong individuals as possible. That also means keeping the forests and terrain as clean as we possibly can so that our world isn't overrun. Can you do that for me, Isa?"
+
+She gave me a salute.
+
+"Absolutely."
+
+I raised a fist.
+
+"Good. Start harvesting more from the eldritch, like energized portions of their bodies. We can use them to create a backbone for an alchemy industry. I also want to start up armory competitions with rewards rivaling dungeon clearing. Upper-tiered smiths will even get my legacy and rings as awards."
+
+Isa spread her hands.
+
+"But your golems create all the mana we need, and your armor exceeds-"
+
+I met her eye.
+
+"Isa. Listen to me. I can't be there for everyone. I will lead billions and then trillions of people in time. If my guild can't fend for itself without my direct support, then we'll lose large portions of the population if anything happens."
+
+Isa leaned back, and she gulped as if waking up.
+
+"I...You're right. Of course, you're right. I'll get on that as quickly as I can."
+
+I put a hand on her shoulder.
+
+"You've done well for my guild. I trust you to handle this promptly, but right now, you need rest. Get some sleep and start hacking away on the project tomorrow. I would've waited, but right now happens to be the only time I'm free."
+
+She shook her head.
+
+"You live an insane life, sir."
+
+I scoffed while lowering my hand.
+
+"A little, yeah. You do as well, though, don't you?"
+
+She smiled, the expression full of menace.
+
+"Killing monsters is my every day, sir. Nothing strange about it."
+
+I turned away.
+
+"It was good seeing you again. Take care, alright?"
+
+She saluted.
+
+"Of course, sir. You as well."
+
+After heading out, I passed by the stone masonry along one wall and a slab of granite on the other. The contrasting materials gave it greater variety and more visual fullness. I never noticed those details as I rushed back and forth like a madman, trying to finish everything all at once. At the end of the hallway, I walked down the stairwell before heading back outside the mountain proper.
+
+Passing the wealthy suburbs of the town, I enjoyed watching two hummingbirds play with a mana construct, the energized being looking like a miniaturized hawk. By now, the sun crawled up overhead, covering the growing city in shades of orange and yellow. Passing the beautiful shades and vistas, I walked back into the Northern edge of town where Joshua's bar resided.
+
+There, I headed down the stairs to find Joshua up and handling a shipment of different brews. A man in uniform carried a platform holding a dozen cases, and an antigravitational panel kept it afloat. As I passed by, I eyed a few of the drinks.
+
+"What are those?"
+
+Joshua gave me a nod of recognition.
+
+"These? They're the standard local beers, wines, and meads we like to buy weekly. Recently, the meads have been flying off the shelves."
+
+I nodded.
+
+"Are the bottles enchanted?"
+
+Joshua and the uniformed man laughed. Joshua nudged the delivery man.
+
+"Can you believe this guy?"
+
+The delivery man's hands shook, more as a feature than out of nervousness.
+
+"He's got a...A good sense of humor."
+
+Joshua gave the delivery man a shake.
+
+"Hey, take care, Micky. Say hello to the kids. We can have dinner on Thursday."
+
+Micky gave Joshua a jittery nod.
+
+"Absolutely. I'll let them know you'll bring the c-candy they like."
+
+After he headed out, I helped Joshua tote the caskets inside. As I carried three of them, Joshua sneered.
+
+"Show-off."
+
+I pointed down.
+
+"Sorry about that. I can just put them here, then?"
+
+Joshua recoiled.
+
+"Now, I didn't say all that."
+
+I smirked. We headed inside, and Jamal was already up, planning the rest of the day out. As I paced down, he turned and spread his hands.
+
+"Ah, Daniel, it's good to see you."
+
+I walked by, letting my feet creak the boards.
+
+"Good to see you too. Let me offload these."
+
+I set the caskets near the bar where ice enchantments helped a series of fridges stay cool. Beside them, blocks of quintessence powered the enchantments. Jamal eyed them.
+
+"It's hard to buy quintessence like that. It works far better than normal origin mana, and it's more stable, too."
+
+I pushed each casket in front of each fridge.
+
+"I thought the golems handed out these crystals like their candy?"
+
+Jamal rolled his eyes.
+
+"They do, if you can get their attention, but there's thousands of people flooding into Springfield every day. They're spread a little too thin to just hand out mana all the time."
+
+I wondered about building a mana-based power network, but I put that on the back burner for now. Once finished moving the stock beside its appropriate place, I walked in front of the bar.
+
+"What are you working on?"
+
+Jamal covered a set of documents.
+
+"Woah, now. These are top secret until the other two wake up."
+
+Speaking of, Nissa and Jasmine walked out, their expressions a mixture of vampiric apprehension for light and being poisoned. Joshua trotted over, and he made four glasses of his tonic this time. As I grabbed my glass, I gave everyone a cheers as Joshua stocked the drinks. As the day started, Jamal moved his documents and spread his arms.
+
+"Behold. Profit."
+
+The guy had already inventoried our gains and sold off quite a bit of our haul. He'd done such an extensive and rapid job of it that I couldn't help but think the guy was a natural merchant. Jamal raised three fingers.
+
+"Guess what this is?"
+
+Jasmine leaned against her hand.
+
+"How many brain cells you have?"
+
+Nissa raised a hand.
+
+"How high you can count?"
+
+Joshua and I stifled a laugh before Jamal gave them both a tight smile. Jamal nodded.
+
+"Oh, you both are so very clever. Truly, I'm blessed to be with you both."
+
+The ladies high-fived while drinking their tonics. Jamal shook his hand.
+
+"This is the number of digits we gained from our last mission's profits. 120k in total."
+
+Jasmine nearly spit out her drink. Her eyes widened before she gulped down as if swallowing a stone. She sputtered.
+
+"No way. 120 grand? The fuck?"
+
+Jamal put his hands on his hips.
+
+"That's right. We just made more than we have in the last six months."
+
+I kept looking. Jamal frowned.
+
+"Ahem?"
+
+I turned to Joshua.
+
+"I think he's talking to you."
+
+Joshua facepalmed. I pointed at myself.
+
+"You mean me? What?"
+
+Jamal pinched the bridge of his nose.
+
+"It's a lot of money, man."
+
+My eyes widened.
+
+"Oh. Ohhh. I see. Good. That's, it's good."
+
+Jamal shook his head as if dealing with an idiot. Perhaps he was. He raised a hand.
+
+"I figured we should give the new guy a sign-on bonus. A gesture of goodwill, so to speak."
+
+Jasmine nodded.
+
+"I don't see why not. He played his part."
+
+Nissa sighed.
+
+"If we must."
+
+I blinked.
+
+"Sign on bonus? I thought I was being tested."
+
+They gawked at me in disgust. Nissa murmured.
+
+"You expected not to be paid? Ew."
+
+I peered back and forth.
+
+"Not really, no. I expected you guys to go out on a limb, and trust me. This is my repayment. I'll take a portion of the next haul."
+
+They laughed far harder than they should have before Jasmine wiped a tear from her eye.
+
+"Time after time."
+
+Jamal took a satisfied breath.
+
+"The guy is a joke machine. A real comedian, I tell you."
+
+Nissa shook her hand.
+
+"It's the timing that gets me."
+
+I waved a hand in frustration.
+
+"Alright, whichever way you guys want to split it, I'm good."
+
+Jamal broke down the profits for a while, and he gave a detailed set of documents showcasing where and how he sold everything. After getting it handled, he showed the 127,291 credits. He gave me a 38k cut while they each got 30 thousand. I tried my best to get them to not give me anything, but they wouldn't accept it.
+
+It felt like stealing from the poor, as self-serving and arrogant as that sounded. Either way, I hadn't wanted to take the money, but there was no genial means of stopping it. After Jamal distributed the credits, he raised his hands with excitement.
+
+"So, I've been thinking of how to use this sudden influx of cash flow."
+
+Nissa shook her head.
+
+"Absolutely not."
+
+Jasmine leaned against the countertop.
+
+"I'll listen, but don't expect much."
+
+I sat down at the bar as Jamal raised his hands.
+
+"I want to start up a sub-guild here at Joshua's bar."
+
+As if someone defecated on the floor, the ladies' faces crinkled up. Jamal crossed his arms.
+
+"Ok, so what in the hell's the problem?"
+
+Nissa leaned forward.
+
+"This money is going to my bookshop, period."
+
+Jasmine shook her head as if tired of the conversation before it even began.
+
+"Jamal. I'm going to travel with the money. You know that. I've been wanting to see the eight world wonders after systemization since it started. I want to see what's changed."
+
+Jamal's eyes dimmed a bit.
+
+"That's...I can see that. But here's the thing, if we invest in a sub-guild, we can get new perks and get other adventurers working under us. The passive income could support those, er, loftier pursuits."
+
+Nissa massaged her temples.
+
+"I never wanted to be an adventuring guild head."
+
+Having hopeful eyes, Joshua peered at Jamal. The barkeep raised his hands.
+
+"I won't say any more than this, but everyone needs a home. Guild or not, you all are always welcome here."
+
+Jasmine reached out and grabbed Joshua's hand. Jasmine smiled.
+
+"Thanks. After I finish seeing the world, I know where to come back to."
+
+Joshua peered away, his eyes itchy all of a sudden. He coughed into a hand.
+
+"As long as you know."
+
+Nissa grinned.
+
+"You know, you've always been a big softy with us. Why is that?"
+
+Joshua gulped.
+
+"You three remind me of some people I used to know. That's all."
+
+A depth resided in that statement, the hurt, longing, and scars intermingling into something sacred. Jamal shook his hands at Jasmine and Nissa. The leader blinked.
+
+"Guys, neither of you is ready to leave the Earth or travel to its dark corners yet. We have to get some levels, maybe even some classes before we're prepared to do something like that. In the meantime, we can use the sub-guild as a way to officialize our status. It'll give us access to better missions and more profits in the meantime."
+
+Jasmine raised a fist.
+
+"You don't get to reach into our pockets and decide what we do with our money."
+
+Nissa sneered.
+
+"We all risked our lives out there. We all contributed. It's not right to tell us what to do here after it's all said and done."
+
+Jamal shook his hands.
+
+"I'm telling you both, this isn't just for me. It'll help us all."
+
+Nissa stood up.
+
+"I'm about to say some things I'll regret. Excuse me."
+
+Jasmine furrowed her brow.
+
+"You can't keep telling us what to do all the time. We never elected you as our leader or our tyrant."
+
+Jamal hit the bar.
+
+"Oh, come on. We barely talked about."
+
+Nissa raised a hand.
+
+"We've talked this over so many times. Stop acting like we're not exhausted with it. By now, you know what we think. You're just trying to wear us down."
+
+As Nissa took a step away, Jamal turned to me.
+
+"Before you go, let's hear what the new guy has to say."
+
+I gulped as they all turned to me. Jamal gave me a nod.
+
+"Well?"
+
+I blinked.
+
+"Me?"
+
+Jamal gave me another hurried nod.
+
+"Yes. You."

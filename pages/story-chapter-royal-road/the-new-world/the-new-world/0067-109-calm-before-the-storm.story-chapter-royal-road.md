@@ -1,0 +1,257 @@
+---
+id: a8e65223-e4f6-599a-97cf-a0c7d4fe4b2e
+page-type-slug: story-chapter-royal-road
+title: "109 Calm Before the Storm"
+slug: 0067-109-calm-before-the-storm
+partOf: the-new-world
+position: 67
+ownLength: 3410
+unit: words
+ownProgress: 3410
+publishedAt: 2018-04-09
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/206873/109-calm-before-the-storm"
+royalRoadId: "206873"
+markedReadAt: "2026-06-29T21:23:08.440Z"
+---
+
+Ajax looked at me then back at Hod. He cupped his chin,
+
+“Are...” He spread out his arms, “Wait, is this a human custom?”
+
+Althea bust out laughing before I shook my hands back and forth, “Don’t worry. It was just a terrible joke is all.”
+
+Torix massaged his temples with his bony fingers, “Hopelessly terrible jokes aside, I’ve already received the meeting date for you and Yawm meeting each other.”
+
+Ajax crossed his arms, “Already?” He leaned against the rock wall, “When exactly are they to meet?”
+
+Torix snapped his fingers, a white panel forming beside him. He pushed Hod off of him. Using a finger coated in mana, he wrote out the key points of his words. It was like black ink on white paper.
+
+“What I’ve devised is a meeting three days from now. Daniel will walk with two other messengers of my choosing. The best approach I concocted for handling the conversations with Yawm involved three key concepts.”
+
+Torix pointed at a portion of the white field, words popping up,
+
+“The first is mystery. Daniel should keep his past and the vast majority of who he is hidden. Approaching the situation as if he’s only trying to gain Yawm’s knowledge will net the best results. The less he knows about us, the better. Outside of that, creating a web of lies will be nigh impossible to maintain.”
+
+Torix spread out his hands, “The second pillar of my strategy is curtness. You must be rude to Yawm. Do not entertain his requests for conversation outside of learning the eldritch runes. His words are like medicine. Too little, and you gain nothing. Too much, and you succumb to the potency of them.”
+
+Torix shrugged, “And the third implementation is to not die. Do try and avoid it.”
+
+Ajax glanced at me, “Do you believe you can do all this?”
+
+I squinted at the white field with Torix’s writing on it, “For the most part, yeah. It doesn’t sound crazy hard. What are you guys going to do while I’m away?”
+
+Torix raised a hand, “Quite an excellent question. Allow me to answer.”
+
+Torix pointed at Althea, “Althea will be hiding here. If Yawm unleashes minions that are stronger and can restrain her, this will all be for nothing. Therefore, she should stay near the group.”
+
+Torix pointed at Hod, “Daniel will be representing the human race, meaning all other species can do as they wish. If the legion attacks, Yawm will assume Daniel has a hand in it. If other species do, Yawm will be far less quick to assume this. Armed with that knowledge, we may attack the sentries without provoking his wrath.”
+
+Torix pointed towards Ajax, “If I may make a suggestion of how you spend your time, I would suggest spying on Daniel and Yawm. If Yawm captures Daniel and uses him for experimentation, you will be able to get him out. This decreases the risk of the mission dramatically.”
+
+Ajax nodded, “I can do that.” Ajax pushed himself from the wall, “If I save you from Yawm, you clear out the rest of my infection. I agreed to sealing Yawm elsewhere. I didn’t agree to fighting head on against him.”
+
+I scratched the side of my face, “Yeah, I can do that. Let’s hope it doesn’t come down to that.”
+
+Ajax’s eyes narrowed, “Good. I’ll leave you all to your own company.”
+
+Ajax walked onto another plane, his existence disappearing.
+
+Torix stared at where Ajax was, “Unnerving how he does that, isn’t it?”
+
+Hod nodded, “Hod not like Tree Man.”
+
+Torix grinned, “At least I’m not the only one with a ridiculous nickname.”
+
+Hod shook his head, “Hod not think of Hod’s names as nicknames. Hod’s names more true to person. Hod think Torix Worm ridiculous name. Hod know Dry Man a dry man, so why Hod not call Dry Man by Dry Man’s dryness?”
+
+Althea and I laughed while Torix grimaced, “Following your internal logic is like following a maze with no end. It’s meaningless dribble.”
+
+Hod nodded, “Hod relate. Hod think the same thing when Dry Man speak.”
+
+Torix sighed, “Despite what this bird with a atrophied brain may think, how does the plan I devised sound to you two?”
+
+I turned a palm to Torix, “I think it sounds pretty good. Giving me a few days notice is nice too. Helps with getting ready for the big meeting.”
+
+Althea frowned, “It sounds like we’re doing nothing while Daniel’s risking his life.”
+
+Torix pointed towards his white field, “Ah, but you see, this plan involves the least risk towards all the members of our party as a whole. It also gives us the opportunity to gain resources from Yawm instead of only losing them.”
+
+Althea shook her head, “I’m not saying it’s not the smart plan. It’s more like...It’s more like it’s unfair, I guess.”
+
+Torix raised an eyebrow, “How so?”
+
+Althea spread out her arms, her long, purple hair shifting behind her,
+
+“If you think about it, Daniel is the only person to go out during these kinds of missions. He was the guinea pig for you and Kessiah’s tearing of dimensions when you first arrived. He and I are the ones who cleared out the first rift and all the other ones. Daniel is the one that found and fought the freedom fighters.”
+
+Althea raised her arms, “If you think about it, all the plans just boil down to Daniel handling everything. He’s had to do all of the suicide missions. It isn’t fair.”
+
+Torix peered off, looking away, “We each have our own set of skills. Daniel’s are very conducive to going into dangerous situations.”
+
+Althea bit her lip, “When does that stop being a reason and start becoming an excuse? You have the experience. I’m sure you have an acting skill. Why don’t you walk up and be the person that talks face to face with Yawm?”
+
+Torix waved his hands as he spoke, “You see, I’m the strategic leader of the operation. While in theory I could speak with Yawm, it really isn’t tailored to my skill set. Daniel has his aura’s, tremendous mana generation, and other qualities that make him appear even more powerful than he is.”
+
+Torix tapped his temple, “All of my power is locked away here, in my mind. It’s a kind of power you can’t show people. It lacks the same effect that a more physically imposing fighter like Daniel has.”
+
+Torix walked up, placing a hand on Althea’s shoulder, “I understand that you care for Daniel. I do as well, but there are times where we must silence our emotions. If we don’t use the tools we have, then we will die here. That is the cold and harsh reality we face.”
+
+I walked up, “Besides, he’s not even taking advantage of me anyways. The way I see it, this is the best chance I’ve got at living. Schema trapped us here, so there’s no escape. Even if there was, I don’t know if I’m comfortable letting someone else completely destroy earth.”
+
+My eyebrows creased, “If anything, I’m glad I get the chance to show Yawm a taste of his own medicine. The man likes turning planets into hell? I’ll send him to a different hell before he gets the chance.”
+
+Althea viewed the ground, “I...yeah, ok. I’ll deal with it.”
+
+Torix lowered his hands, “Good. If you can offer a safer plan that does what we need, any of us are more than willing to listen.” Torix opened a shadow portal, “I need to update the positions of Yawm and inspect what he’s doing. The situation in general has become more...volatile.”
+
+Torix paced into his portal, teleporting away. Althea looked up at me, “Can we just, I don’t know, have lunch or something?”
+
+I grinned, “Yeah, sure.”
+
+Althea carved us a table out of stone. We sat on chairs made the same way. She had gained a spatial ring after reaching level 1000 just like I did. Within it, she carried food with her, keeping it cold and fresh. She wore a skin tight, black suit. It was made of carbon fiber no doubt. I didn’t really notice that though. I noticed her curves.
+
+Once we finished the food, Althea leaned over her strawberry covered yogurt and vented. Althea was a ball of frustration at this point. Most of it was from not having someone to talk too. Some of it was legitimate irritation too though. She called Kessiah, Torix, and Ajax cowards. She hissed about Torix avoiding real conflict.
+
+She seethed about having no free time. Most of what she griped about didn’t bother me. Some of it was venomous, however.
+
+“Kessiah acted like she was a fighter and we weren’t this whole time. She’s been all cocky and confident, even when you were obviously gaining ground on her. Now after one real fight, Kessiah’s pretending like she’s some damsel in distress. Where’s the tough girl act now, huh?”
+
+I grimaced, “Yeah, it was a real one eighty. Some people can’t handle that kind of stress though. If anything, I think she understood that about herself, deep down. She was strong physically, but from what Torix told us, she was born that way.”
+
+I placed a finger onto my forehead, “She didn’t have the toughness in mind. I think the whole ‘tough’ persona was more of a cover for it. It’s not the worst thing in the world though.”
+
+Althea leaned against her hand, “I think it’s infuriating. When we talk now, she still treats me like I’m a kid.” Althea pressed a hand against her chest, “Can you believe that? I’ve died at least seven times to you alone. After one close call and she’s done, yet she still has the gall to talk to me like I’m a child.”
+
+I laughed, “It reminds me of a lot my teachers and my parents. I can’t even tell you how many times I was told, ‘You have to listen because I’m the adult and you’re the child!’ The moment things turned sour, they’d let that mask come off.”
+
+I spread out my hands, “They would scream, yell, and shout. Sometimes my dad would throw a tantrum like a spoiled brat that wasn’t getting his way. After doing all that, he would expect me to treat him like he was the adult and I was still the child. Everything was just supposed to reset like nothing ever happened.”
+
+I crossed my arms, leaning back into my chair, “Fuck that whole point of view. It’s like expecting respect without any kind of responsibility.”
+
+Althea leaned towards me, “And that’s what bothers me with Kessiah. She wants to throw jabs at me all through our conversations together. It’s not near as bad when we’re in a group, but when we’re alone, it’s bad.”
+
+She spread out her arms in exasperation, “I don’t want to make it into a fight, but it becomes frustrating after a while.”
+
+I raised a hand, “Well, you could try calling her out on it.”
+
+“Calling her out?”
+
+“Yeah. When she says something like that, mention that it’s bothering you.”
+
+Althea spread out her arms, “Yeah, but then she just says she’s playing around or that it’s not a big deal. Either that or she tells me to quit being so sensitive.”
+
+“What’s something she’d say?”
+
+Althea waved her arm, grasping for an example, “Uhm, let me think...One time she said that you were racist against aliens, and that you wouldn’t ever date an alien because of it.”
+
+I raised an eyebrow, “I wonder how that got brought up? Where you talking about me dating aliens?”
+
+Althea flushed before swiping at me, “It was girl talk.” Althea frowned, “Kessiah laughed like it was a funny joke, but it was just...awkward. Like, painfully awkward. It was a couple of weeks ago after we got back from Hod’s rift.”
+
+I shrugged, “Yeesh, she’s salty. Anyways, tell her that it’s a big deal to you when she says shit like that.”
+
+Althea leaned toward me, “She’ll just tell me to man up and quit being a baby.”
+
+I uncrossed my arms, sitting up, “Then just leave.”
+
+Althea frowned, “Leave? You mean, like, leave the conversation?”
+
+“Yeah. That’s what I’d do at least. Yenno, if I could. Sometimes you just have to bite the bullet. If it’s only when you two are talking alone, then you don’t have to hang out with her.”
+
+Althea sighed, “Yeah, then I’ll be lonely.” Althea laid her chin onto the table, “I need more friends.”
+
+I rolled my eyes with a mischievous grin on my face, “Tell me about it. I have this alien chick who won’t quit asking me for homemade lunches. It takes up sooo much time.”
+
+Althea pursed her lips, “Oh whatever...cut me some slack.”
+
+I stood up, “If I cut you more slack, then you’ll hang yourself.” I sighed, “For real though, I have to go. There’s a few things I really need to sort out before seeing Yawm.”
+
+Althea reached out for me, “Before you leave, make sure to stop by my room. I want to have one last lunch before you leave. In case things don’t work out with Yawm.”
+
+I grinned, “I’ll be fine. I always am.”
+
+Althea gave me a grin, but it was a false smile. It was one of those smiles you wear when you’re trying to look happy for someone else, but deep down, you’re hurting inside.
+
+I nudged her shoulder. I pointed my index finger at her while raising a thumb. It looked like I was pretending my hand was a gun.
+
+“If you don’t cheer up, this will be the last grin you ever smile.”
+
+Althea raised her eyebrows, “Is that supposed to be a gun or something?”
+
+I shook my head, “Oh no, this isn’t supposed to be a gun. This is a gun. Now put your hands up!”
+
+She raised both her hands as she laughed, “Uh, ok. There’s something I need to tell you first.”
+
+I narrowed my eyes and raised my my eyebrows, “What is it, missy?”
+
+She pointed one of her fingers like a gun too. She pointed at my gun and made a pew sound. The imaginary bullet streaked through the air before dislodging my imaginary gun from my hand. I opened my gun hand, grabbing my wrist as if she had shot the gun from it. I glanced at my palm, then back at the pretend gun in hers.
+
+“How did you hide that imaginary gun?”
+
+“That’s none of your business. Now put your hands in the air!”
+
+I raised both my hands. She stepped closer. Without an imaginary gun in my own hand, I couldn’t fight back. She walked up and raised her hand. She placed her fingertip against the bottom of my chin. With one squeeze, I would die, even if it was just pretend.
+
+She whispered, “Lean over.”
+
+I did as the gunwoman commanded. She continued in a hushed tone,
+
+“A little more.”
+
+I bent over until I was almost eye level with her. She kept her finger tip against my chin,
+
+“Now stand still, or else I’ll fire.”
+
+She raised up onto her toes before pressing her lips against mine. My first reaction wasn’t shock at her kissing me, but a shock at just how soft her lips were. They always looked soft, but I never imagined they would be like velvet.
+
+She reached her other arm around my neck, the kiss growing longer. It was warm and delicate. The taste on her lips was sweet, a bit of the strawberry lingering from her meal. She pressed her body against mine. Even thought it was against my armor, I felt her as if I was touching her with my bare skin.
+
+I breathed deeper. I wrapped my arm around her waist without thinking, pulling her to me. I laid a hand onto her cheek. As I did, my armor molded away from my hand. For the first time in months, my fingertips touched something. It was something soft and smooth.
+
+I leaned into the kiss. We wrapped around each other, exploring the others body with excitement and pleasure. It was a release of tension. We both wanted each other for so long. Althea took the first step, and now I was struggling not to just fall into deep water with her.
+
+We grew passionate. My hands wandered across her. Her own hands went over my own body. As she touched me, my armor flowed around her. It let her touch my bare skin, the electrifying sensations like fireworks. We both yearned for each other. We both wanted each other like a starving wolf wants meat.
+
+Before I knew it, we were moving towards her room. She had made her own cavern by slicing through the stone. Within it, there a cozy bed and the warm light of an old lamp. It smelled of earth and stone. We walked into the room, our bodies tangled together.
+
+She fell onto the bed, her voluptuous body bouncing in the all the right places. I fell onto her, my armor molding away from her, letting us touch. My skin pressed against hers, Althea’s warmth seeping through where we felt one another. Without my armor, I felt exposed. Everytime Althea touched the fresh skin, goosebumps raised over me.
+
+It was like pulling off a bandaid and touching the new, healed skin. It was sensitive and new. I expected intense discomfort from removing the armor. As Althea took off her own clothes and pressed her body against mine, another sensation took control.
+
+It was like I was starving, and an enormous buffet was laying in front of me. My armor peeled off me, covering the entire bed. It even wrapped around Althea, as if we were in our own little world.
+
+Like that, we stared at each other for a minute. She stared at me, her cheeks flushing,
+
+“That was...wow.”
+
+I grinned, a cocky look on my face, “Eh, constitution has its perks.” I looked at Althea, her body’s curves like a painting. I pressed against her, and she shivered,
+
+“Besides, you don’t look too bad either.”
+
+She swatted at me, her fingertips grazing my skin with a gentle touch. I kissed her lips, the sensations like lightning. I felt her body, the soft, seductive places pulling me in. I grabbed her wrist, pushing it down as she whispered in a shaky voice,
+
+“Please slow down. It’s my first time.”
+
+I kissed along her cheek, then down her neck, then I reached her chest. She shivered again as I kissed her. I whispered back, my voice more careful than I imagined it could be,
+
+“I’ll be gentle.”
+
+My body fell into hers. Her warmth surrounded me, softer than silk. She shook as I tasted her, her excitement overflowing. As sex absorbed us, the carnal sides of us both took over. Althea moaned, her nails scratching along my back. Her breath, hot and heavy, brushed against my ears with the sound of her pleasure.
+
+I enjoyed myself too. I kept my touch firm but not forceful. I kept control, but I let her move and shift as she needed too. I pushed into her, keeping a steady rhythm. She wriggled back and forth as I kept myself controlled. Her body tightened as I continued, each a pulse pleasing us both.
+
+She grabbed my back, wrapping her legs around me. She moaned and shook her hips with mine. Her back arched as she pressed herself against me, her body tightening on me. She gasped, overwhelmed as her legs pulled me against me. The jolt of bliss flooded me too.
+
+I finished before laying against her. We both heaved for air, more from the excitement than the actual exertion. I laid my hand against hers, and our fingers intertwined. She nuzzled her cheek into the nape of my neck, a euphoric smile plastered on her face.
+
+She whispered into my ear, “That was heaven.”
+
+I grinned, “Tell me about it. That was amazing.”
+
+She giggled before we laid with each other for a few minutes. After the comfortable, warm silence, Althea whispered,
+
+“I love you.”
+
+Hearing the words melted my iron heart. In the moment, I whispered back, “I...” The words caught in my throat before I finished them, but when I said them, I meant it.
+
+“I love you too.”

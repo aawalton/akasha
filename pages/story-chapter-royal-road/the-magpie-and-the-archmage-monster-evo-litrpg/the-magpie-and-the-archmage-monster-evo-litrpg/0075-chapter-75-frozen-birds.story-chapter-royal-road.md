@@ -1,0 +1,189 @@
+---
+id: a6e95e02-fc8f-523b-afe3-e7832c915ff0
+page-type-slug: story-chapter-royal-road
+title: "Chapter 75 – Frozen Birds"
+slug: 0075-chapter-75-frozen-birds
+partOf: the-magpie-and-the-archmage-monster-evo-litrpg
+position: 75
+ownLength: 2063
+unit: words
+publishedAt: 2026-01-23
+link: "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2970286/chapter-75-frozen-birds"
+royalRoadId: "2970286"
+---
+
+Liora had expected something to go wrong. She changed into her magpie form to better fit through the small opening in Cee's net. The crane tried to follow after her, but it was still under the effects of the Maddening Cackle, so its trajectory wobbled and it flew straight into Cee's net.
+
+Ice encased the bird, spreading from the areas where the crane first touched the net. Or rather stuck to the net. The crane thrashed wildly, trying to get free of the frozen trap, but the more it moved, the more ice spread over its body.
+
+"Attack!" Cee declared from her hiding spot and rushed out, nimbly walking on her own net without triggering the icy effect.
+
+Liora shifted back to her true form and flew over the net so she could reach the crane again. It was almost completely encased in ice, only its head still moving around, thanks to the length of its neck. Liora Lunged at the crane, making to land a hit on its head.
+
+But that wasn't enough to defeat it, and she was quickly met with a long, powerful beak that nearly struck her wing. However, while Liora had fought with the head, Cee had snuck up on the crane's leg and bitten into it.
+
+"Fall back!" Cee declared, and Liora obeyed.
+
+"Poison?" She asked.
+
+"Poison," Cee confirmed.
+
+Both of them returned to the safety of the mangrove willow and waited. There was no need to put yourself at risk when the crane would eventually succumb to poison. No matter how much it struggled in the net, it couldn't break free of the ice. Eventually, its movements slowed until finally Liora received a notification.
+
+[You've assisted in defeating <Marsh Crane – Level 24>. Experience gained.]
+
+[You've reached Level 27.]
+
+"I leveled up from that!" Liora cheered.
+
+"I leveled up twice," Cee wiggled her front legs in delight.
+
+"Wow, what level are you now?"
+
+"Twelve," Cee said, somewhat dejectedly. "It's been so hard to gain more levels after evolving. What about you?"
+
+"I'm level 27," Liora replied, proudly puffing out her feathers.
+
+"Wow! How did you get to such a high level? You're nearly ready to evolve again."
+
+"Most of it I gained in Cyene Dungeon."
+
+"A dungeon? That's an actual thing?" Cee asked in surprise, scuttling closer to Liora.
+
+"Yes! Let me tell you everything about it," Liora said, but then remembered about the crane. "Just let me get glimmerstones from the crane first."
+
+Liora flew up to the frozen crane, and using her Treasure Sense, identified that it had four glimmerstones—two on its feet and two hidden in its wings. It was a bit of a struggle to get through the ice to the frozen wings, but in the end, Liora managed to get the glimmerstones.
+
+She put two in her storage, then flew back to the tree and offered two to Cee. If she hadn't traveled together with a human party (and Kiva), then she likely would have kept the glimmerstones to herself. But sharing with just one other person, or rather, a spider, wasn't nearly as bad. Liora almost didn't mind it.
+
+"It had so many glimmerstones on it? Wow, so lucky! Not every monster has them," Cee said, grabbing the glimmerstones. A moment later, they were safely tucked away in Cee's storage.
+
+"What do you mean? Every monster has glimmerstones," Liora shook her head.
+
+"What? No, they don't. Only some species do," Cee turned her head curiously.
+
+"No, every monster has glimmerstones somewhere on its body. Sometimes you just have to dig it out."
+
+There was a moment of silence, after which Cee flailed her legs in frustration. "Why did nobody tell me that?! I must have lost so many glimmerstones by now. I could have long since unlocked the Shadow Walk skill."
+
+Liora shuddered. She didn't even want to think about the possibility of not collecting glimmerstones. What was the point of fighting monsters if you didn't get the glimmerstones?
+
+"Good thing I have Treasure Sense," Liora muttered.
+
+"Treasure Sense?" Cee questioned.
+
+"It's a skill that helps me find valuable stuff. Or things I consider valuable. I can bully it into finding stuff I need the most," she said, puffing out her chest once again.
+
+"Wow! That sounds useful. I wish I had a skill like that," Cee said, somewhat dejected. But she perked up quickly. "But if we stick together, then you'll find all the glimmerstones."
+
+"Yes. We'll split them in half."
+
+"Sounds fair. That will probably be more glimmerstones than I'd ever need. So let's go get a few more of those cranes?" Cee asked.
+
+"After you, mighty spider," Liora said, but then paused. "How do you even get around this place? Can spiders swim?"
+
+"No, and even if I could, I'd never go into that water."
+
+They both looked at the murky waters, then at each other. No, nobody wanted to go anywhere near those waters. Not until they figured out how to deal with the fish.
+
+"So how do you move around?"
+
+"It's easy. I jump," Cee said, scuttled back and bit, and then disappeared. Liora looked around in surprise, searching for Cee, but the spider was nowhere to be seen.
+
+"Over here," Cee called from somewhere farther away, and Liora looked in the direction of her voice.
+
+Somehow, the spider was sitting on a mangrove willow, two trees away from the one where Liora was currently. She flew over to Cee. "Did you really jump all the way here?"
+
+"Yup! I have the skill Enhanced Leap at Expert level," Cee announced proudly.
+
+"That's scary. Can you leap on flying enemies?"
+
+"Easily. Although it's a bit tricky if they move very fast."
+
+"Am I glad you recognized me and didn't attack me…" Liora said, thinking of that scenario. If she saw Cee coming, then obviously she could dodge with her superior Aerial Agility. But if it were an ambush…
+
+"I am also glad, because with such a level difference, I really don’t stand a chance."
+
+"I've defeated a monster in a higher evolution tier than myself, so don't dismiss yourself so quickly."
+
+"What? Really? What did you defeat?" Cee wiggled her legs in surprise.
+
+"Rock wyrm living in the Blightpeak," Liora said, shuddering as she remembered the encounter.
+
+"That giant thing? I saw it once and boy was I glad that I was still a tiny spider not even worth its attention. How did you defeat it?"
+
+"Poison."
+
+Both of them nodded in understanding. It truly was such a great weapon.
+
+"In either case, let's get to hunting. I have a feeling we'll get to use more poison," Cee said, and Liora nodded.
+
+After that, the two of them set more traps for the cranes. Cee would make the ice web, Liora would lure the cranes in, and then they'd finish it off while it struggled in the net.
+
+This strategy worked so well that by the end of the day, Cee had gained three more levels and Liora had gained one. Not to mention, they got a whole bunch of glimmerstones.
+
+Cee was quick to buy the skill she had been saving up for. Apparently, it allowed her to disappear into the shadows for about half a minute, thus remaining not just hidden but also completely protected from any hits. The only weakness for this skill was obviously bright light. Like, for example, Holy Light.
+
+But Liora didn't reveal her holy magic skills just yet. There was no need to reveal all her cards. Not like she knew every skill that Cee had, either. So after the two have trained and eaten some bugs with great reluctance, the two of them went to sleep, hiding in the mangrove willow.
+
+As they drifted to sleep, Liora watched the overcast clouds. It was the middle of the day, but the weather was so dark and gloomy. Normally, she wouldn't mind the gloom—it only made it easier for Liora to hide. But the absence of the sun also reminded her that Renir was still missing, his familiar voice gone from her mind.
+
+Please wake up soon, Renir.
+
+The morning, or rather evening, came sooner than Liora would have liked. Cee poked her awake with her many legs.
+
+"Rise and shine! We have hunting to do," Cee said in a cheery voice.
+
+There was a small relief in Liora that she wasn't alone, but she couldn't deny the disappointment she felt. It wasn't Renir waking her up with his annoying demands. It had been days since she last heard anything from him. Would he even wake up? Was there something she could do to wake him up?
+
+"Hey, are you okay? You seem… sad?" Cee said.
+
+"I'm not sad!" Liora jumped up, puffing out her feathers angrily.
+
+Cee backed away from the sudden outburst. "Sorry, you just seem like you were. You know if there's something bothering you, you can tell me. As a fellow reincarnator. Who else would understand us if not each other?"
+
+Liora thought about it for a moment. Should she? Liora had known Cee for barely a day. But what if Cee knew something that could help Renir wake up? Or had a skill like that? It seemed highly unlikely, but at the time, she could maybe help somehow.
+
+"Remember the shiny rock?" Liora began.
+
+"The one I guarded and who gave you the System? I remember," Cee confirmed.
+
+"It's just that he still hasn't woken up, and it's almost a week now. He did faint once before, but then he was out for a few hours," Liora said.
+
+"That is concerning…" Cee muttered in agreement. "Can you show him? I feel there's not much we can do if he's just sitting in your Inventory."
+
+Liora hesitated. She didn't like taking Renir out of her Inventory; it was always a risk. She liked the idea of showing him to someone even less. He was her precious treasure after all. But Cee was right that they couldn't do much while he was in her Inventory. Not to mention that it was highly unlikely that there were humans anywhere near the Hell Marsh.
+
+Reluctantly, Liora withdrew Renir, clutching him tightly with her talons. The gem still looked muted, its vibrant colors gone and washed out into dirty brown and pale yellow.
+
+"For a supposed shiny rock, he isn't very shiny," Cee noted.
+
+"Exactly! But he was the shiniest thing I'd ever laid my eyes on," Liora agreed.
+
+"How did he lose his shine then?"
+
+Liora retold the story of how the crane had attacked her, badly damaging her chest, likely breaking either a few ribs or the sternum. How she was bleeding out and likely would have died if Renir hadn't chanted his healing incantation.
+
+"Do you remember the incantation?" Cee asked.
+
+"I… No. It all happened so fast, and I was in so much pain. I just know that it was quite long. Even with my Mimicry skill at Legend level, I think it would take me several days to properly remember it," Liora admitted.
+
+"Very long chant. Must have been a very mana-demanding spell. What I'm surprised about is that your shiny rock can use magic," Cee said.
+
+"Nothing in this world can surprise me anymore. There's not much sense where magic is involved."
+
+"On the contrary. Magic makes a lot of sense. The difference is that Earth didn't have any, but this world does. If he used up all of his mana to restore your health, then to wake him up, we just need to restore his mana," Cee said sagely.
+
+"Restore his mana? How do we do that?" Liora asked, looking down on Renir's gem.
+
+Cee pressed her front leg on her mandibles, deep in thought. "I don't know. Perhaps there's a skill for it?"
+
+"I have Mana Conversion, which lets me convert mana from defeated enemies into my own, but nothing that would let me inject mana into others," Liora said.
+
+"But you can put this guy in your Inventory, right? Why don't you try to move the mana you absorb into him?" Cee suggested.
+
+"Would that work?"
+
+"There's only one way to find out."
+
+The two of them shared a look and smiled as much as their animalistic features allowed them. It would undoubtedly scare any human children to tears, but Liora didn't care. It was time to hunt some more cranes.

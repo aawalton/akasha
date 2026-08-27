@@ -1,0 +1,185 @@
+---
+id: 5ef2e472-5a84-5507-8fe1-632e7aa56ca1
+page-type-slug: story-chapter-royal-road
+title: "Chapter 22 – Draconoid vs Bird"
+slug: 0022-chapter-22-draconoid-vs-bird
+partOf: the-magpie-and-the-archmage-monster-evo-litrpg
+position: 22
+ownLength: 2182
+unit: words
+publishedAt: 2025-09-15
+link: "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2601339/chapter-22-draconoid-vs-bird"
+royalRoadId: "2601339"
+---
+
+"CHAK-CHAK-CHAK!" Liora screeched. "It's the wyrm!"
+
+Fade! Fly! Get away! If it eats you, then I'll get eaten with you!
+
+In her panic, Liora fluttered around for a bit before activating Fade and disappearing. This confused the wyrm for about half a second. Then it jumped straight after Liora, trying to catch her in its jaws.
+
+How can it see me while I'm Faded?!
+
+She just barely flew out of the way, performing an aerial somersault in her haste.
+
+[Your skill <Aerial Agility> has reached [Expert] level.]
+
+[Aerial Agility – At [Expert] level, you can easily perform various difficult aerial maneuvers, including backflips, somersaults, and others.]
+
+It must have a thermal sense or something similar. You can't rely on Shadow Glide or Fade.
+
+The wyrm gave chase, its long body coiling behind it in a snake-like fashion. But thank god, or rather, thank the System, that her Aerial Agility upgraded. Her wings and body felt stronger, and their movement was more fluid than ever. As the monster tried to grab her, she just flew backwards.
+
+Hahaha! I can fly backwards! I always wanted to do that.
+
+I'm happy for you, I really am! But how do we deal with this thing?!
+
+The wyrm kept chasing after her, but she had no trouble dodging it anymore. That didn't mean she wanted to linger around. She tried to descend the mountain, but the wyrm coiled its long body in her way.
+
+She couldn't fly too high because of the miasma, and whether she flew lower, the wyrm instantly blocked her path. The look in its red eyes suggested that it was very hungry. Clearly, food didn't wander up the mountain very often.
+
+"Chak-chak-chak!" Liora tried to reason. "What is the point of you eating me? I'm so small it'll barely feel like a light snack."
+
+But the wyrm wasn't persuaded. It dug its massive claws into the cliffside and then flung rocks at Liora. She just barely managed to squeeze herself between two incoming rocks by folding her wings.
+
+If Liora wanted to avoid the wyrm, she had to fight. But what could she even do? Air Dive was out of the question due to the miasma, so Liora tried to Peck wyrm's body several times. It didn't so much as flinch. In fact, when her beak collided with the scales, it felt like she was trying to beat on steel.
+
+My Pecks don't do anything! I should try Air Slash.
+
+Don't bother. Your measly gust of wind won't do anything to this guy. Better spare the little mana you have left.
+
+Liora pondered what she could do in between dodges. She tried to weave beyond the wyrm to escape it, but it blocked her every time.
+
+Persistent overgrown snake.
+
+Without many options left, Liora decided to mimic the gnoll's confusion skill, letting out the signature hyena-like cackle.
+
+[You've successfully mimicked <Maddening Cackle>.]
+
+The wyrm began coiling backwards and shaking its head from side to side. The confusion was working. Liora swooped past the wyrm, fully intent on flying straight down the mountain.
+
+But she didn't manage to get far as a flurry of rocks rained down on her. The barrage was much denser than before, forcing Liora to push her Aerial Agility to its limits. She wanted to squeeze past the barrage, but it was far too dense. Liora had no choice but to back up to avoid getting hit.
+
+Dammit! That thing is persistent. Even when confused it just won't let me go.
+
+Wyrms are known to be persistent hunters, rarely giving up their kill.
+
+Thank you for that bit of knowledge. It certainly makes me feel better. How about some info on how to defeat it instead?
+
+The wyrm shot another barrage of rocks at Liora, preventing her from flying down. It also tried to find her, thrashing about wildly and sniffing the air.
+
+A dragon's real weak spot is its insides. Its scales are far too tough for a little creature like you to deal with.
+
+You want it to eat me first? Oh, yeah, that will certainly be productive!
+
+No, you've got to aim for its mouth. Poison would be the best option.
+
+That actually would be a good idea if she had poison on hand. Getting it in the wyrm's mouth might be tricky, but with her improved Aerial Agility, it should be doable. She just had to find something poisonous.
+
+There were plenty of poisonous toads at the foot of the mountain, but the problem was getting there. She had to break past this stubborn lizard. But it just kept throwing rocks to block her path. Its movements were becoming more coordinated by the second—the confusion was wearing off.
+
+But it hadn't worn off yet. Liora began making a terrible racket. She screeched, she cawed, she croaked, and she barked. All the loud animal noises she knew, she made while flying around the wyrm. It roared angrily and swatted at her with its claws, trying to stop the noise.
+
+Enjoy the headache, ugly worm!
+
+This is giving me a headache, too!
+
+Liora ignored Renir's complaints and Faded. The moment of confusion and her sudden disappearance gave Liora enough time to fly down the mountain before the wyrm could release another rock barrage. After that, it was easy—she hurried down full speed.
+
+The wyrm chased after her, roaring and growling. It was very fast, but not fast enough to catch up to Liora's flight speed. Nonetheless, it kept her in its sight, showing no signs of giving up. It crashed down the mountain after her, scaring awake a herd of snake-goats. Seeing the wyrm, they ran for their lives, bleating fearfully.
+
+Oh, come on! Those goats have way more meat on them than me.
+
+Liora would have groaned if she had the time to do so, but she had to concentrate on flying down without crashing into anything. Unlike the wyrm that brought half the mountain down with it as rocks rolled down behind it, causing a small rockslide.
+
+There were moments when it seemed that the creature would get swallowed underneath, but it just dug into the mountain with its sharp claws and emerged a short distance behind Liora. Every second mattered.
+
+When they reached the foot of the mountain, she flew straight at one of the toxic puddles where the giant toad was sitting. The overgrown thing first shot its tongue out at Liora, but the moment it noticed a wyrm chasing after her, it hurriedly jumped away.
+
+Coward!
+
+Liora looked at the poisonous muck in disgust. Her instincts were screaming at her not to touch it. But the wyrm was fast-approaching, so she suppressed the feeling and swooped down, grabbing a branch sticking out of the ooze.
+
+Good, now get it in its mouth.
+
+Easier said than done! I don't want it to eat me.
+
+The wyrm flicked its tail against the ground, creating a giant cloud of dust. Liora was left half-blind, while the monster would be able to find her with its thermal sense. This would be bad if she weren't a bird.
+
+Liora flew up, above the dust cloud. The wyrm, realizing its misstep, lunged after Liora, hastily trying to grab her with its mouth wide open. Liora almost laughed at how easy it was. All she had to do was release the toxic branch and let it fall inside the wyrm's mouth.
+
+"Chak-chak-chak!" She cackled. "Enjoy your meal!"
+
+The wyrm snarled and spat the branch out.
+
+Wait, no! You can't do.
+
+It most definitely just did that.
+
+Dammit! I need it to swallow the poison!
+
+Liora swooped down and this time grabbed a nasty, slimy rock that was covered in the toxic ooze. It should go down more easily than a branch, but even so she had to think of a way to make it swallow the rock.
+
+The wyrm snarled viciously and then opened its mouth. But instead of trying to swallow Liora, it lit up, and a burst of flame came out.
+
+"Caw!" She cried out, desperately flying out of the flames' way. But the wyrm followed her flight, redirecting the flame at her. She could feel the heat against her skin. The fire was far too close to her tail feathers, and it felt like she would catch fire herself at any moment.
+
+The surrounding landscape got scorched as a result, burning up the withered trees, scraps of grass, and effectively evaporating the toxic puddles, leaving behind a thick cloud of smoke and poison.
+
+Okay, this thing is taking its grudge way too far. What did I even do to it? Refuse to get eaten? Excuse me for not wanting to become someone's dinner.
+
+Annoyed, Liora flew high up, preparing for her signature Air Dive. The wyrm followed her from beneath and unleashed another flurry of fire straight up in the sky.
+
+It went so high that she had no choice but to dodge out of the way. The long pillar of fire illuminated the whole sky, but at least the wyrm couldn't control the flames so reliably at this height.
+
+For a while, they continued this fiery dance as Liora tried to swoop down, but the wyrm would block her with flames. The wyrm didn't let her get close anymore, opting to attack her from a distance.
+
+Alright, I'm getting tired of this. Eat this, you stupid reptile!
+
+Liora released the poisonous rock she'd been holding this whole time. The wyrm opened its mouth to unleash more flames again. She wasn't going to wait this time. She took aim and unleashed Air Slash at the rock, using her last bits of mana.
+
+She hit it, and the rock flew straight into the wyrm's mouth, accelerated by both gravity and the skill. It was down the wyrm's gullet before it had even realized what had happened.
+
+As the poison entered the wyrm's system, Liora felt a sort of twinge in the back of her mind as some understanding snapped into place.
+
+[New skill acquired – Poison Shot.]
+
+[Poison shot – At a [Basic] level, allows you to shoot a poisonous substance at your enemy. You can choose the poison from those you've encountered before. The cost of the skill depends on the amount and the type of poison shot.]
+
+There was a tense moment of silence as Liora stared down at the wyrm from the safety of the sky. The wyrm stared up at her. She thought it would continue spewing flames at her. But then its body convulsed. It began roiling and coiling around itself and hacking, desperately trying to get the rock out of its stomach. But in the end, the poison turned out victorious.
+
+[You've defeated <Rock Wyrm – Level 24>. Experience gained.]
+
+[You've reached Level 18.]
+
+Holy! Three levels from just this one wyrm.
+
+It was a whole evolution tier above you and a rather high-level at that. But sadly, it had no resistance to poison whatsoever.
+
+That's some deadly stuff just lying around here. Also, I got a new skill.
+
+So you did! I mean, Holy Light would have been better, but hey, Poison Shot is useful too. You're turning into an assassin-type bird.
+
+Is that bad?
+
+Eh… I guess not. It's a suitable fighting style for you. I'm just afraid it might lock you out of those holy skills that we need.
+
+Liora wasn't too worried about that. She could mimic Holy Light if it was necessary. A skill would be better since she could improve it, but 320 glimmerstones was too high a price. Speaking of glimmerstones…
+
+Liora flew up to the dead wyrm and began searching for the shinies around its body. They were well hidden under the scales on its forehead, shoulders, and back, but thanks to her Treasure Sense, Liora managed to get her talons on ten glimmerstones.
+
+Wonderful haul! Just two more levels and I'll be able to evolve and leave this dump behind!
+
+She would miss Christie, and the activities of those mages in the mountains were worrisome. Not to mention that enticing treasure at the peak. Liora really wanted to get it, but what could she do? She was a magpie. Without Holy Light, there was no way for her to clear that miasma.
+
+Maybe I could try cleaning it slowly, over time? Clean just a little bit each day until I get to the treasure.
+
+The miasma might come back faster than you can clear it. It's clearly been spreading.
+
+Oh hush. Don't ruin my daydream with facts.
+
+Liora hummed at the thought of shiny treasure as she flew back towards the direction of the town. The night was quiet, and there were no monsters in sight. It took Liora a bit too long to realize how odd that was. It was far too quiet.
+
+She landed on a branch, hoping to observe the surroundings, but felt something pull underneath her foot. Next thing she knew, a net fell onto her body. She plummeted to the ground, unable to hold the net's weight.
+
+"We got you now, bird!" Beatrice said with a malicious cackle.

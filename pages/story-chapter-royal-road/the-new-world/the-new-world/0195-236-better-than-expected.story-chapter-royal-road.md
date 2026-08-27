@@ -1,0 +1,501 @@
+---
+id: c55bbae6-e942-50e6-a606-ec492376be53
+page-type-slug: story-chapter-royal-road
+title: "236 Better Than Expected"
+slug: 0195-236-better-than-expected
+partOf: the-new-world
+position: 195
+ownLength: 6996
+unit: words
+ownProgress: 6996
+publishedAt: 2019-10-31
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/418455/236-better-than-expected"
+royalRoadId: "418455"
+markedReadAt: "2026-06-29T21:27:37.846Z"
+---
+
+Knowing Hod, it could be pretty bad. I calmed myself down as I sent messages towards the guild.
+
+The Living Multiverse(Lvl 10,250 | Guildmaster: The Harbinger's Legion(S-) | Titles: The Harbinger of Cataclysm, The Cleanser of Polydra | Cities: Mt. Verner, Elderfire) - I'll be arriving in a few minutes. I need to meet with Hod and Amara. I won't be there long, but it'll be nice to see Earth again.
+
+After sending the message, I took a deep breath. I gave a thumbs up to the Sentinel's guarding the warp drive, and they activated the teleportation device. Electricity rang in my ears as a blinding light encompassed my vision.
+
+I blinked away the blindness as sights of my base splashed in my eyes. They put this teleporter inside the second layer of the mountain where industry thrived. As I remembered it, machines bustled in the background with welders hard at work. At the center, a pillar of stone acted as the heart of the floor.
+
+Surrounding it, a variety of different departments exposed themselves. Aiming to inspect them further, I stepped out, shaking off the rematerialization. I'm guessing that's what teleportation was. Either way, it made me woozy for a few seconds. Glancing around, the room's machinery and welding stopped. I found a factory floor full of people gawking at me like a lion walked inside. I raised a hand,
+
+"Uhm, hello."
+
+The crowd exploded with activity, swarming me from all directions. They reached the height of my waist, so they stared up at me. A cacophony of questions burst forth from all directions. The attention caught me off guard, overwhelming me for a moment.
+
+I lifted my hands, saying over the crowd's rumble,
+
+"Everyone, one question at a time."
+
+I answered a few basic questions about Giess and my adventures there before a familiar face walked up from the crowd. I raised a hand, "Hey Diesel. How've you been?"
+
+The inventive engineer squeezed past two people lifting up a grimy hand. Several people backed off from the guy, giving him some space. I stepped past the onlookers, reaching him and reaching out a hand,
+
+"Good to see you. Have you come up with any new blueprints lately."
+
+He shook my hand with a bit of gusto,
+
+"I've got a few new designs lined up."
+
+I turned towards the crowds, spreading my arms, "Everyone, I've just come back from Giess. I'll be looking around to make sure everything's running smoothly. Get ready for that."
+
+I clapped my hands for some emphasis, "Alright, let's move."
+
+The crowd rustled into activity, everyone moving towards their allotted stations. Diesel walked off and gestured for me to follow. Past the metal girders and steel piping, I found myself squeezed into a cubbyhole Diesel used for his diagrams. The guy worked with me on creating Althea's new cannon models. Now he worked on designs that might help the entire colony.
+
+I glanced around, impressed by the sheer complexity of a few of the inventions,
+
+"Damn...this is good work."
+
+Diesel scratched his chin, a five a clock shadow covering it,
+
+"Heh, that's rich coming from you."
+
+I turned to him, my helmet peeling off my face,
+
+"Hm?"
+
+"Oh come on. Everybody saw your fight at Polydra. Talk about crazy." Diesel gestured with a swing of his arm, "I could hardly believe when you punched through a ship's barrier. My favorite part was when you stood over the evil guy and said-"
+
+Diesel put on a serious face,
+
+"You've done well in creating this hell. Now let's see if you can fight here, where the monsters come out to play."
+
+It had been a while since I'd been embarrassed on any level. Having Diesel fanboy over my own fight like this, it would've made me redder than a tomato. Right now, my gray skin and metal body prevented that, but the shame still stung all the same.
+
+I raised a palm, "Please, stop. Mercy."
+
+Diesel blinked, "What? Oh, sorry. I don't know what it is, but when you showed up, I feel full of energy."
+
+I raised my hands, "That's an aura I have. It's called Rise of Eden, and it boosts your stats."
+
+"Ah, that's why it felt like I leveled up. Here I thought you were just that inspiring."
+
+I rolled my eyes. At this point, Diesel was just teasing me. It felt good having someone feel at ease around me, though. I wasn't some deity, and it grounded me when someone talked to me like this. After joking a bit back and forth, Diesel turned severe as he crossed his arms,
+
+"So, why are you back?"
+
+I pointed around at the base, "I'll be needing to install some defenses. I've made some enemies on Giess, and I don't want them attacking Mt. Verner."
+
+Deisel raised an eyebrow, "I've actually got a few turret models you might want to have a look at. Not all of them are great, but I could show you the best of them and see what you think."
+
+"Sounds good, though I probably don't have time at the moment. I'll get someone to review it for me though..." I peered around at the walls of stone, "It's good to see things have been moving well without me here. Of course, I still miss Earth sometimes."
+
+Diesel took a deep breath, "Man, I couldn't even imagine staying at Giess. That's like...lightyears away. Literally and figuratively."
+
+I cupped a chin, "What is life like here, anyway?"
+
+"It's bland, I guess. Ever since you guys left, there hasn't been the same kind of grind there was while you were all here. Everyone's sort of laid back. That could just be things settling down, though. We can't stay in do-or-die mode forever."
+
+I raised an eyebrow, "Yeah, that might be asking for a bit much." I saw the sheer volume of activity around Diesel's cubbyhole,
+
+"At least people are still alive. I half expected Hod to have already killed everybody."
+
+Diesel scratched the back of his head, "Hah...yeah..."
+
+I narrowed my eyes at him, "What's that supposed to mean?"
+
+"Look, man, I'm not supposed to be telling you this, but some of those intelligent eldritch escaped."
+
+I gritted my teeth, "Really now?"
+
+Diesel raised his hands, "They found all of them and got rid of them before they became a problem. I'm just letting you know security wasn't airtight. We were able to handle it, but we lost a few people."
+
+Diesel narrowed his eyes, "If I'm honest, I think we should get rid of Amara. That monster couldn't give two fucks for any of us...Not to question your judgment sir."
+
+"Where is she?"
+
+Diesel scratched the side of his head, "Hm...I think she called Hod in from Giess to guard her as she talked to someone."
+
+"Alright, thanks. I'll check it out and make sure the situation is stable. A reminder of who Amara's working for might be in order as well." I rolled my shoulders, "I can be intimidating when I want to be."
+
+Diesel scoffed, "That's an understatement, sir."
+
+Being called sir still weirded me out some, though not to the extent it used to. I pointed at the designs, "I'd love to talk more about this stuff, but I have to head out. It was good catching up."
+
+Diesel stepped back, giving me some space to move out of his workspace,
+
+"Sure thing, sir."
+
+I stepped out onto the second floor. Here the merits of industry shined. We developed some laser and plasmic weapons while I left, several individuals using them on a shooting range. The plasma, in particular, looked useful against eldritch. It clung onto whatever it hit, singing and melting until nothing remained but a puddle. Considering how virulent eldritch could be, that thorough destruction was invaluable.
+
+It kind of disappointed me finding only a few elemental weapons left. Their designs mustn't have been very efficient when weaponized, considering no one used them anymore. For the most part, the main difference in their weaponry stemmed from a shift in mentality.
+
+All this gear worked against eldritch. Acid, plasma, and kinetic firearms were the name of the game. Our soldiers used these in conjunction with each other for maximizing their effects. I learned these tactics while walking towards a few darkened rooms with chairs for sitting.
+
+These dark lit rooms made the perfect places for sitting down in an obelisk. Those devices encompassed their users in light. The dark made them easy to spot, so you didn't run into them. Using a preloaded program, they built a few simulations for testing these weapons out.
+
+I found a line of people running through artificial dungeons. Above them, a screen exposed their current positions and POVs. These soldiers worked together, tossing out grenades and using harpoon cannons. The ballistic weapons left massive wounds on the eldritch. They would heal these quickly if not for the backup troops behind them.
+
+This other set of soldiers behind the ballistics corp fired the acid and plasmic weaponry into the wounds of the monsters. This halted regeneration while inflicting massive internal wounds. The strategy seemed sound, safe, and sane when compared to my own methods.
+
+At the same time, this teaching method wasn't without its problems. I watched one of the procedures from start to finish. A few of the troops goofed around, teabagged the eldritch, and took it as a playful exercise. That kind of attitude resulted in death further down the line. They also ran the same simulations with only subtle variations in it. That wouldn't work in the real world.
+
+Every dungeon was different. Learning to adapt to wildly varying scenarios was the name of the game. Besides these trainees, an instructor dripped cold sweat. I turned to him,
+
+"You oversee this?"
+
+The mustached man stood up straight, giving me a salute, "Yes, sir."
+
+I waved a hand at it, "This is a great strategy. It makes killing certain eldritch a cakewalk. At the same time, this might be too easy. What kind of other simulations are there?"
+
+The officer waved his hands, "The technology department hasn't made any other virtualizations since this is relatively new. We're working on a few other scenarios as we speak."
+
+"Good. I'd recommend giving the troops a scenario without weaponry. Avoiding the eldritch or learning to compete against weaker ones without weapons is essential over the long-term. Otherwise, they're very dependent on their gear to survive."
+
+I counted on my fingers, "If they run out of ammo, someone sneak attacks them, or any number of situations occurs, these guys are dead. Not every fight will be clean and dry like this. Some are messy. They should be ready for that kind of a mess. Otherwise, they'll die."
+
+The officer blinked, "Uhm, yes sir. Of course. I'll pass it along to the tech department."
+
+"Overall, you're doing well. Keep it up."
+
+The officer nodded, "Thank you, sir."
+
+I waved a hand, "Uh, as you were."
+
+The officer turned towards the people in the simulation while shouting, "Get to work maggots! I want to see some sweat."
+
+I walked off, not sure if I helped the situation. After passing the weaponry department, the construction portion of Mt. Verner revealed itself. The implementation of mana changed every aspect of technology. With a reliable, clean energy source at our disposal, power constraints like batteries ceased existing. Instead, runic inscriptions allowed the conversion of mana into electricity. They used all kinds of methods for this conversion to handle a lack of skill on the user's part as well.
+
+Some worked like engines, converting mechanical force into electricity. Others required the direct input of lightning, using discharging overloaders to redistribute bursts of power. As complicated as that sounds, it only held an overabundance of energy to prevent the circuitry from frying.
+
+Past these smaller devices, the larger vehicles and power armors lined up. A few of the vehicles mirrored the machinery on Giess, using crystallized mana of some sort. After sending a few messages, I found the head of the vehicle department.
+
+A chubby, rotund man wobbled up out of his office using an uncomfortable jog. He reached out a hand as he neared me, "Hello there sir. I am Mike Mcgusto."
+
+I gave him a handshake using two of my fingers, "I'm Daniel Hillside. I wanted to talk to you about these new vehicle designs. How do they work?"
+
+Mike jimmied a fancier uniform that still carried a layer of oil and grime on it,
+
+"We've been experimenting with the use of external mana outputs you see. These here are some of the prototypes for that very design. While not perfect, they might allow us to use vehicles that don't strain a person's mind while driving them."
+
+I put a hand on his shoulder, "I'm halting research and development of this technology in the guild. Immediately."
+
+"W-w-what sir? But these will make transport simpler, and there's plenty of mana to be found in the dungeons we've conquered. Why would we abandon something that could revolutionize our lives forever?"
+
+I stood up straight, "I've visited Giess, and I've learned that using that mana creates mana pollution. It's hard to get rid of, and nasty creatures can feed on it. If I had time to go into detail about it, I would. Suffice it to say, this will cause more harm than good."
+
+"I...I" Mike's arms flopped against his sides, "Understood, sir."
+
+I pointed at the tech department, "This is all very impressive. I'll have Torix increase your funds to compensate for the wasted research and development. That should make this setback easier to tank."
+
+Mike nodded, his mood reversing the moment money was mentioned,
+
+"Of course sir. That would be amazing."
+
+"Alright. How about two million credits yearly?"
+
+Mike took a step or two back before falling backward. I caught him with a gravity well before he busted his ass. I raised an eyebrow, "Are you ok?"
+
+"Y-y-yes. Very." He got back onto his feet, "That's simply quadrupling our funding. It took me by surprise."
+
+I shrugged, "I'll pay for it personally. Also, increase Diesel's budget. He gets one-tenth of that."
+
+"Absolutely sir. Perhaps you'd be interested in seeing our selections of power armor?"
+
+"Yeah."
+
+We walked across a series of forklifts and engineering panels. Situated into the wall, dozens of different power armors covered the walls. They used the same discharger design, converting raw mana into power using a variety of different methods. Some even used a technique I'd never heard of, the elemental muscle design. EMD for short.
+
+It was something Diesel came up with. Specific individuals had affinities for different kinds of elements or elemental forces. By implanting those elements into the joints of power armor, a mage could use them to manipulate the suit. It acted like a muscular system and required years of training to master.
+
+At the same time, the maneuverability and power of these devices were unmatched, at least for other armors. Even better, the user's level-ups enhanced the plate mail as well. This was because their mastery of mana and the element increased the control and force they could use with the devices. In fact, it mirrored my own use of gravity in combat.
+
+I enhanced my movements with gravitational flows. An ice bender would do the same technique but by jerking icy blocks hidden in the armor. My method skipped the whole armor and elemental grafting part, but not everyone could use gravity like I could. This let someone cleverly overcome physical limitations.
+
+My instincts about Diesel were right. After getting showed a few more experimental and less practical designs, I worked my way towards the eldritch holding cells. Here I found a few surprises. The first involved Amara and Hod, both of them talking with a feminine blob of sorts.
+
+Hod reminded me of his previous self, though his demeanor changed a bit. He stood eleven feet tall, a bit of a shadowy aura ebbing from him. The birdman looked tense, ready to strike at any moment. Amara stood at ease, trusting Hod with her protection as she faced her palms to Wrath.
+
+On the other hand, the dark, gray-blue blob spoke with quiet confidence. The humanoid figure's words echoed across the rooms with an absoluteness to them, the same as Helios or Caprika.
+
+Yup, she was royalty. What kind of royalty I couldn't say.
+
+As I stepped up, I analyzed her.
+
+Wrath, Queen of Svia(lvl 12,837 | Class: Fringe Walker | Race: Ahcorus(Otherwise known as slimes)) - Wrath is the queen of the Svia sector of the slime's home planet, Slus. She earned her name by conquering several of the nests that surrounded her before Schema assimilated her planet. Since then, she's proven very effective at cleansing worlds of eldritch infestation...
+
+They all stared at me as I walked up, each of them looking confused. I waved,
+
+"Hey guys. I'm here to visit. Did you get my message?"
+
+As I stepped up, I outsized them all, though Wrath carried a weight to her presence that made up for that. Well, that's not factoring in my auras. Before the queen responded, Hod raised his hands,
+
+"Harbinger back. Hod miss buddy."
+
+He ran up, giving me an awkward hug. I hugged back with one arm,
+
+"It's good to see you too..."
+
+About seven seconds later, Hod still held on.
+
+"So, uh, are you going to let me go?"
+
+Hod pulled himself back, a look of satisfaction coming over his face.
+
+"Hod understand Harbinger's confusion. Hod's brilliance hard to understand. See, Hod not know how long hug last. Sometime long hug. Sometime short hug. Always hard work telling which hug should use."
+
+Hod tapped the side of his head,
+
+"Hod discover secret. If Hod hold on until ask to stop, Hod not have to tell which hug type is. Hod activate easy mode." Hod lifted his chin, pleased with himself,
+
+"Hod outdo himself sometimes."
+
+Amara stared down, even aiming her hands down as her long, wispy black hair covered her expressionless face. It impressed me that Hod evoked shame in an eldritch. Socially speaking, it was an achievement. Wrath walked up, ignoring them both. Her steps were silent, akin to a predator. She turned between the both of us,
+
+"You must be the guild leader here? How do you know who I am?"
+
+I pointed between us, "We met before during my interview with Chrona. I'm the 'Gray Giant.' This is me without the disguise."
+
+Wrath tilted the rough approximation of a head, "So you hide your true self in a shell, like a hatchling before birth. Why?"
+
+I waved my hands, "It's complicated. Thisbey used my identity for his own means. I didn't agree with those means, so I separated my personal identity from the Gray Giant. Either way, it's almost irrelevant at this point, but please, don't go spreading it around."
+
+Wrath lifted her arms, each of them ending with four fingers and golded claws,
+
+"You are a predator with many faces. I understand the concept, though it sounds exhausting. I prefer the simplicity of a single face. Otherwise, I am lost in a web of lies of my own making."
+
+Wrath carried a strange dialect and wording that took some getting used to. Still, I got the gist of what she meant.
+
+"I get that. It wasn't easy, but at least I don't have a ton of bullshit associated with my name now. Reputational blowback sucks to deal with. Either way, what are you here for?"
+
+Amara walked up, her eyeless face as unnerving as ever. She peered at me, the eyes of her palms inspecting me with a bit of fear. The small hairs across her body stood on end as she said,
+
+"Wrath came here to understand her enemy. To understand us."
+
+I glanced between them both, "Yeah, that's not ringing any bells."
+
+Wrath raised a hand, squeezing it into a fist. Her claws retracted, she moved her fist sideways in a long arc. The alien hand gestures mismatched what followed,
+
+"When we met many moons ago, I asked for your teeth in facing Svia's greatest threat - Plazia-Ruhl. The hivemind harbors in the center of my homeworld. It sucks the life from my homeworld. We need an eliminator to cull its kind from us."
+
+I raised a palm to her, "First off, don't worry about using hand gestures with me. I can tell they're awkward for you, and I want you to just relax."
+
+Wrath let out a big sigh like I just took a massive weight off her shoulders. I continued,
+
+"Second off, I can help you with that. It'll be at least a month before I can fight it directly though."
+
+Wrath pointed her finger at Amara, "That is the true reasoning for my hunt here. This...eldritch is known as an expert on intelligent eldritch. Plazia-Ruhl is a tactical genius, making maneuvers at every turn. His armies of insects plague our planet, and his presence shades our world in darkness. He must be killed."
+
+A bitter memory of being locked in a cave and at the mercy of a hivemind flashed before my eyes,
+
+"Wait a minute...Plazia-Ruhl...You sure about that last name?"
+
+"It is an ancient enemy of our species. Forgetting its name is difficult even after our kind dies. That abomination bends the rules of the universe, toying with what should not be toyed with."
+
+My stomach sank after hearing that. I fought Baldag-Ruhl a long time ago, and his genius with the cipher is what made my armor. If Plazia-Ruhl rivaled his intelligence, killing him would be a tall order. Hell, it might be impossible at this point. Learning from him might even be an option further down the line, however.
+
+Either way, it was definitely interesting, to say the least. I made a mental note of that before turning to Amara,
+
+"So, you're a known expert on eldritch now, huh? How does that work?"
+
+Amara cackled, "My knowledge is not as limited as one might think. I use the laws and rules of hunger to keep myself alive. Whoever comes here needs my expertise. Killing me results in them gaining nothing."
+
+Hod's head twitched as he mouthed, "Hod not take well to any hurt for Amara. Amara beautiful."
+
+Amara steepled her hands, "Hod defends me with totality. It serves well in my meetings with others. As my reputation grows, I garner more resources for my...research. The cycle continues, giving me more material to work with."
+
+I spoke to Amara, "Yeah, I'm going to need to see this research in detail." I turned to Wrath,
+
+"Alright, we'll help you after agreeing on the rewards. I'm sorry, but outside of that, I can't promise much. I need to cut this conversation short cause I'm in a hurry. As for Plazia-Ruhl, I have a few tips."
+
+Wrath sighed, "Then your assistance is appreciated, but your knowledge of Plazia-Ruhl cannot outdo my own. He is an enemy of epochs, one who has existed since ancient times. We've fought with him more than any other foe, and we've learned of his trickery."
+
+I counted on my fingers, "Well, a reminder never hurt. First, don't walk into traps. Second, get an expert in runic knowledge. Third, don't give him a lot of time to plot and plan. Keep it busy, or it will gut you while you sleep."
+
+A phantom pain ran up my spine, "With a bit of time, the guy can craft some pretty unimaginable horrors."
+
+Wrath stepped up to me, raising her clawed hands,
+
+"You understand our enemy well, better than many of our world. I too have warned the other queens of giving Plazia time to fester. They neglect the diligence to quash this enemy. That abomination has blighted our worlds for long enough. We must destroy him before he is given a chance to do the same to us."
+
+Wrath paced back and forth, "The others ignore my worries. They say I am a bloodthirsty razor queen. Though truth soaks their words, my bloodthirst has yet to cloud my judgment on this issue. I know this to be true. Plazia is plotting something. We must strike before that monster finishes his plan. Otherwise, we may be the ones who are eaten in its place."
+
+I frowned, "If you ask me, your planet is already doomed. If it's anything like Baldag-Ruhl, it's far too late to recover now."
+
+Wrath stopped pacing, turning up to me, "You'd say Plazia's jaws are already around our neck then?"
+
+I shrugged, "Well, the situation probably isn't that bad. It just sounds like the situation has gotten complicated. If that's the case, the more intelligent someone is, the better a chance they have at succeeding. That's why I recommend smashing someone like Plazia before that ever happens. Otherwise, your chances of winning begin to dwindle."
+
+Wrath peered down, "I will use your omen to sway the other queens. Perhaps your reasoning will bolster my own claims. Time will tell."
+
+I turned to Amara, "So, how about you show me your research?"
+
+Amara grinned at me, "You will be pleased I would think."
+
+Wrath and Hod followed, the four of us passing over towards an orichalcum bunker. The green metal served as a reinforcement to the eldritch's prisons, runic markings suppressing them. After stepping up, I pulled open the doorway, making a note of the security involved.
+
+Once inside, a metal hallway lined with clear, crystal glass kept the eldritch at bay. Finding a panel near me, I inspected the glass. At a touch, I learned it wasn't glass at all; it was some kind of polymer composite. Upon closer inspection, I found tiny strips of gray crisscrossing the glass.
+
+Amara stepped up behind me, her hands clasped behind her,
+
+"It would seem that you are curious. I shall explain. This uses strips of graphene to strengthen the cleared crystal. While not wielding the same strength as orichalcum, it allows us to study the eldritch."
+
+Behind the panel, a ravenous, acid hornet stayed locked in a nest of its solidified saliva. It glared at us, its glowing green eyes piercing and loaded with malice. I peered back, Event Horizon saturating my frame.
+
+Its bravery crumbled as it skulked into the back corner. Wrath and Amara turned to me. Amara murmured,
+
+"That is...impressive. That's the Blight Wasp. It's a sample we found forty miles south of here. Her kinds saliva solidifies into materials harder than steel. It's the strongest adhesive we've found. The acid breaks it down, though it also breaks anything else down as well."
+
+"Huh, interesting."
+
+We continued down to the next containment cell. From within, a shapeshifting being tucked itself into a corner. Its body wriggled back and forth, struggling to take a set form. I turned to me, locking hollowed eyes with mine. It's frame expanded, cracking as wood covered its skin. Glowing green veins streaked across a now muscled frame.
+
+A mane of flowing leaves reached its waist behind the creature as it reached out with a massive palm. Larger than life, its voice echoed through the chamber and glass,
+
+"It's good we meet once more, Harbinger?"
+
+I took a step back, fear racing up my spine. The spitting image of Yawm laughed before stepping forward with its arms spread wide,
+
+"I still see you own the same fear as before. Good. Your fear will keep you alive. It shows you when you're outclassed, and at this moment, it is ringing in your ears, isn't it?"
+
+With absolute confidence, Yawm steepled his hands, "I suggest you listen to it. Otherwise, you might find yourself shattered and broken, a corpse among the many."
+
+My heart pounded in my chest until I could hear the pulse in my ears. I turned to Amara, "What the fuck is that?"
+
+Amara seethed, "It is a shapeshifter that mimics your greatest fear. I despise the creature. It is a coward that relishes in the fear of others."
+
+The shapeshifter glared at Amara, its form changing once more. Bark turned to metal, and biological panels of darkened steel formed over its frame. It increased in size further, an aura of red saturating its structure. This suffocating, weighted presence soaked over us, permeating every crevice of the room.
+
+A spitting image of me, the shapeshifter crossed its arms and leaned towards Amara, "You think I'm afraid of you?"
+
+Amara's face wrinkled all over as she frowned. She kept herself composed as she turned to me, however,
+
+"It's ability to read into the mind of anyone that locks with its eyes is invaluable. The ability to reform is useful for several of our members as well."
+
+The shapeshifter took a few steps forward until it stood inches from the glass. It glared down at Amara, a sinister smile of jagged, metal teeth forming on the helmet,
+
+"Are you ignoring me?"
+
+Amara's breathing hastened. It continued,
+
+"I'm your only hope to survive, yet you think you can ignore me?" It banged a massive hand against the glass. Amara whimpered, taking a step back. The shapeshifter goaded,
+
+"I can melt you with so much as a thought. Be careful, or you'll be locked in one of these cages next." It turned to me,
+
+"Isn't that right?"
+
+I grimaced while showing it what the real thing was like. With a wave of Event Horizon, its hand evaporated into mana. I frowned at the eldritch,
+
+"Fuck off."
+
+The shapeshifter scampered back to the back of the compartment. It shivered with fear as I turned to Amara,
+
+"You think I'm scarier than Yawm? Really?"
+
+Amara twitched, "Please speak on this later when other hunters aren't here."
+
+I turned to Hod and Wrath, "Alright, if you say so."
+
+Wrath glanced up at me, "You fear that being of wood the most?"
+
+I shrugged, "Uh, I guess so. It makes sense to me. When we met, I was as helpless as I could be against Yawm. I had to lie to him over and over just to survive. Otherwise, he'd use me as an experiment or mana battery. At this point, he wouldn't be able to lord over me like that."
+
+I sighed, "But...I still remember what that was like I suppose."
+
+Wrath tilted her head, "You're open with your weakness. Few would do the same in Svia. As queens of many, we must feel no fear and relish in devouring the weak. Otherwise, the other ahcorus will believe we are frail. The frail are fed to the strong in Svia."
+
+I raised my eyebrows, "That's a way of living, I guess. As long as the weak contribute, I'm fine with them doing whatever personally. Anyways, someone mentioned eldritch escaping here. What escaped and how?"
+
+Amara grimaced, "An incorporeal eldritch escaped its containment through one of the guards. They ended up devouring several other guards before we could respond. Seeing the swollen belly of a possessed human...it left a mark on many who saw it."
+
+The image of a fattened zombie popped into my head. I gestured towards the cells, "What do you do now to prevent that?"
+
+We stepped towards a cell. Two mages stood guard of a shadow wisp floating under florescent lights. One of the guards slept while the other suppressed the wisp. Amara spread her arms to them,
+
+"Torix has been teaching many students the art of mental manipulation. Using those students, I created a rotating set of guards. They keep the shadow wisp confined to this space, and they reap the rewards for it. We keep the controller since it gives insights into mind magic and possession."
+
+Amara met my eye, "Considering the enemy we face on Giess, it is invaluable to learn what we can, any way we can. Otherwise, we will be hunted."
+
+I nodded, "Alright, that makes sense. Set up a few more guards along the outside of this place to contain any events of contamination. Give a stipend to the guard's families, and have a reward ceremony and burial for each of them. Make it clear how much their sacrifice helped the colony. That should help ease the grief if only a little bit."
+
+Amara bowed to me, "It will be as you requested."
+
+I turned towards the doorway, "I'm setting up additional defenses for this base. You'll be safe, but if the eldritch leave this facility, they will be disintegrated. Just letting you know."
+
+"Understood."
+
+"Alright, see you guys later. Sorry I couldn't talk more, but I'm in a rush."
+
+Hod stepped up, so I turned to him, "What's up?"
+
+"Hod...Hod sorry for eldritch threat. Hod not prepared. Hod not let happen again. Hod protect home."
+
+I put a hand on his shoulder, "It's alright. You guys did a good job holding this place down while I was gone. Everything's coming along nicely, and there were only a few mistakes. I doubt I'd have done a better job in all honesty."
+
+I turned around, waving to them, "Keep it up, guys."
+
+As I left them, Wrath and Amara gushed about the eldritch, though they kept their tones different. Wrath focused on killing them while Amara concentrated on understanding them. They complemented one another, each of them offering something new.
+
+After stepping out of prison, I made my way towards the third floor. Along the massive pillar of stone at the center of the mountain, orichalcum bonds reinforced the structure. While not as robust as my armor, it held some antimagic properties, and it was harder than steel. Combine that with murals of runic work, and the defense here wasn't bad.
+
+It could be better. It would be better.
+
+As I stepped out onto the third floor, the curved bookshelves met my eye. They oriented themselves around the colossal pillar, giving easy access to students studying on the third floor. Stepping out, I drew in another scene's worth of people, but I expected as much. After handling a few questions, I hovered myself up towards the top of the pillar.
+
+There I intended to create the runic inscriptions and positioning of the blue core. The central position was at the deepest part of Mt. Verner. This made coating the mountain with a forcefield the easiest it could be. Hovering up there along the high roof, murals of battle covered the ceiling. A few of the art students must've been commissioned for the work.
+
+A few segments of the painting depicted our battle against Yawm. Other portions showed my fight against Polydra, the paint still drying in a few spots. The flowing art style gave a dramatic feel to the equally dramatic events. I liked it a lot.
+
+After appreciating the aesthetic, I sliced into the stone using a blade of thermal energy. It melted the rock into a thin slice of magma. I pulled the chunk of stone out of the pillar, using a gravity well to stop magma from dripping below. Once inside the support, I hollowed out a portion of the support by melting it. I pooled the magma outside, freezing it with bursts of icy energy.
+
+Once I hollowed out a sizeable space, I reinforced this inner sanctum with the molten portions of my own armor. A thick plating of the dense, dimensional fabric kept the chamber safe. After adding a few more supports, I kept the overall structure safe.
+
+With safety ensured, I pulled out one of my blue cores. With it, I created the specific zone needing the core's protection using the menu. I created the area necessary for the eldritch facility, and I gave Amara immunity to the core's defenses. After finalizing a few more details, I finished the defense system's creation.
+
+The hexagonal patterns dispersed around Mt. Verner, though I missed the sight deep within its depths. Sitting there, I charged the blue core while stepping out and inspecting the magical area. Before leaving, I resealed the stone doorway, knowing no one needed access.
+
+I found several new areas here. Instead of having the old world magical feel of before, quite a bit of tech crept its way in. One of the departments used the same virtualizations as the previous floor. After making the same comments as before to this area, I explored further.
+
+Along the northern side, sorcerors refined their magic in surprising ways. They used runic weapons, pistols with barrels and handles lined with inscriptions. These runes gave them superior balance, aim, and power for their own magic. Some even assisted the conversion of mana into their own elemental forces.
+
+Further within, I found sparring matches within the armors that Diesel designed. Like golems fighting, they practiced wielding EMD's by wrestling. Jerky, unrefined, and raw, they needed quite a bit more experience before they were ready for an actual dungeon.
+
+Still, it was a start.
+
+Outside of that, I found the elemental weapons department. Turns out mana acted as an excellent catalyst for elemental casting. Weaponizing it proved far more effective than using conventional means. Room-clearing acid bombs, blinding spore gases, origin mana overloading mines, insanity potions, hell, they even had tranquilizer darts that turned you into easy to kill animals.
+
+The creativity at work defied convention. Compared to my own use of magic, it almost embarrassed me. I took a few mental notes as I passed, impressed by the work on display. The most impressive sight was when I passed the sparring room. A young, orange-haired mage sparred against three other sorcerors. None of them wore armor, each of them preferring the mobility of robed combat.
+
+I gazed at the battle as the three mages attacked Mr. Orange Hair all at once. Mr. Orange Hair created a panel of violet, arcane energy in front of him. The other energies fizzled against it, the arcane energy dispersing as Orange Hair shot out a few blips of the volatile energy.
+
+The other mages blocked using created matter. I nodded as I saw that. It was a tactic I used as well. Arcane energy disintegrated anything it touched, meaning something as simple as dirt was a highly effective defense. These mages took full advantage of the opening that defense offered, pummelling orange hair with a variety of spells. Orange hair rolled sideways before standing upright with two hands raised.
+
+Violet spears formed, each of them about six feet long. I nodded with a grin. Clever. If matter blocked arcane energy, then the longer the bolt, the more piercing power it had. Orange Hair feigned against the two outer mages. They rolled out of the spell's way, both of them crumbling under pressure.
+
+As they stopped, Orange hair ducked under a bolt of lightning while slinging the spears. They stopped inches in front of the chests of the two mages. After that, the middle mage and Orange Hair exchanged a few spells. Within minutes, Orange Hair suppressed them.
+
+Impressed by the display, I walked into the sparring area. Within it, I remembered who Orange Hair was.
+
+"You...You're Alexander, right?"
+
+Orange Hair turned to me, "Uh, yes. It's good to see you, commander."
+
+The four of them bowed to me, but I raised a palm, "Guys, at ease. Anyways, that was impressive. Just stopping by to let you know to keep up the excellent work.
+
+Alexander beamed a grin at me, his chest puffed, "Of course sir. Ah, my pain tolerance is seventy-six. I didn't let that lesson go to waste."
+
+I grinned, "Get to the upper eighties soldier. Dismissed."
+
+Alexander went back to help his fellow fighters while I finished my inspection of Torix's university. It was in excellent shape. With that finished, I took a tour of the fourth floor where the logistics for the guild was handled. All kinds of accountants, managers, and organizers worked here.
+
+Along with handling the logistics, other shops popped up in the floor. They sold exotic alien goods that were traded in for Earth's pre Schema goods. These oddities filled in all kinds of needs, from eldritch goods to specific tech for obelisks. After passing that floor by, I moved up to the fifth floor where the garden flourished.
+
+Strange plants of all kinds covered the area, many new types prospering. They offered exotic fruits with unique properties for alchemy. Many expanded faster than typical plants, their actual growth evident in real-time. Either way, they fueled the growth of the colony, and that was the general message since coming here - the situation was pretty damn solid.
+
+If anything, Torix managed the facility with a deft hand and great care. It surprised me, but it also put me at ease. Having somewhere to return to made traveling more comfortable. It kept me grounded. With those thoughts swimming through my mind, I sent a message,
+
+The Living Multiverse(Lvl 10,250 | Guildmaster: The Harbinger's Legion(S-) | Titles: The Harbinger of Cataclysm, The Cleanser of Polydra | Cities: Mt. Verner, Elderfire) - The base is looking good. Keep up the excellent work.
+
+With everything handled, I traveled back down towards the residential ground floor. As the giant elevators at the center of the facility hummed, I noticed a holographic screen in the elevator's room. On it, an edited video of my battle raged on screen. Several others riding the elevator peered back between the fight and me.
+
+I ignored the attention until something unexpected popped onto the screen. Images of the dreadnought's underbelly flashed with a black and white filter. Torix edited the footage to show the horror that Tohtella committed. I winced at the footage, the brutality cutting like a knife.
+
+It reminded me of what I was fighting for as well. Well, that and the fact Tohtella would be pissed when she saw that footage being spread around. As I stepped up past a few onlookers and into the warp, it felt good having somewhere to come back too. My helmet crept over my face as I glared forward.
+
+This place was my home, and I'd do everything in my power to keep it that way.

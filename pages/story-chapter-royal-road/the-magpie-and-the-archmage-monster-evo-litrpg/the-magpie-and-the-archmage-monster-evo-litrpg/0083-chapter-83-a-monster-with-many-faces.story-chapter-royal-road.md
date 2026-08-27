@@ -1,0 +1,173 @@
+---
+id: 1fe10a92-90f6-5a4d-bca8-2b71d0497e60
+page-type-slug: story-chapter-royal-road
+title: "Chapter 83 – A Monster With Many Faces"
+slug: 0083-chapter-83-a-monster-with-many-faces
+partOf: the-magpie-and-the-archmage-monster-evo-litrpg
+position: 83
+ownLength: 1909
+unit: words
+publishedAt: 2026-02-11
+link: "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3035374/chapter-83-a-monster-with-many-faces"
+royalRoadId: "3035374"
+---
+
+When Liora returned, the spider was already waiting for her on the roof, waving her front legs impatiently.
+
+"Where were you? I thought we were supposed to gather info in the Guild," Cee complained.
+
+"I did, but there were literally two people there. I learned what I could from there and then went to check something else for a second," Liora explained.
+
+"What did you check?"
+
+"Liora then proceeded to tell Cee about the expeditions that had been sent to likely deal with the corruption, only for most expedition members to end up severely injured or dead. She also described what she saw at the port and the horrible state the adventurers were in when they returned.
+
+"Even whole expeditions of adventurers couldn't deal with whatever caused this? Isn't that really bad?" Cee asked nervously.
+
+It certainly is bad. Likely, they haven't yet discovered that the corruption is weak to holy magic. It's quite rare after all. But completely wiping out a whole team of skilled adventurers. Let me tell you that adventurers in Abylport are on a whole different level than those in Cyene.
+
+Cyene has baby adventurers, which I would rank at 2 or 3 out of 10 if I had to. Adventurers in Abylport are a solid 5, and quite often, stronger fighters come through because this is a central hub for adventurers.
+
+"Renir says that's really bad since adventurers here are really strong," Liora said to Cee.
+
+"Damn… That's not all. Listen to what I found out," Cee said.
+
+Apparently, Cee had managed to sneak into the Guildmaster's office using her Shadow Walk. He had said that they requested help from the Pillar, but if they deem that the mission is too dangerous, then Abylport will be lost and abandoned.
+
+"I'm just not sure what this Pillar is," Cee said.
+
+Liora then proceeded to explain what she knew about the pillars, that they were rulers of sorts and supposedly the best in their respective fields. The one currently on the way to Abylport was the master of seas and sailing.
+
+"This whole thing sounds dangerous. I say we get the hell out of here," Cee said.
+
+"No, we're not," Liora responded resolutely. "We're going to join the expedition!"
+
+"What?!"
+
+What?!
+
+"You heard me. These humans don't even know that they need holy magic to fight corruption. I'm going to show them what they need, and then they'll find a strong holy magic expert," Liora said.
+
+"Show them? I dunno if you noticed, but you're a monster. They'll attack you on sight," Cee said, pointing her front leg at Liora.
+
+"What are you talking about? I'm just a magpie. Chak-chak-chak," she cocked her head innocently.
+
+Liora. No. I know that you like helping people, but this is way above your level, even after your magnificent evolution. These are experienced adventurers who are being wiped out. Even with a holy magic advantage, what hope do you stand against overwhelming force?
+
+"No, you two don't get it. I don't intend to fight the corruption monsters. I'll wait for the expedition to arrive, and then I'll use Winds of Purification to show them that they need holy magic to combat the corruption. They'll get an expert mage, and defeat the big bad, freeing the city from blight, renewing trade, and giving us a chance to get that Resonance Crystal," Liora puffed out her feathers proudly.
+
+That won't work.
+
+Sure, it will.
+
+"I don't know… I don't want humans to attack us."
+
+"You don't have to do anything. Just stay in the shadows, I show the holy magic, then disappear using Fade. They'll never know what happened. All we'll have to do is sit back, relax, and wait for things here to get back to normal. Maybe we can even get you one of those Guild Rings and take on some easy quests," Liora said.
+
+"I'd certainly love to have a Guild Ring. People wouldn't attack me anymore, would they?" Cee asked.
+
+Hey, don't make promises you can't keep. I don't know if I can attune a Guild Ring to Cee. That is far more complex than just registering a quest.
+
+Haven't you regained more of your power?
+
+I have, but—
+
+Then I'm sure you'll figure something out. You always do, Renir. I have faith in you.
+
+Renir didn't respond, but Liora could feel that he was pleased by her words. It wasn't that she was flattering him either. She had full faith that Renir could do it. He brought her back from the verge of death after all.
+
+"What does Renir think?" Cee asked.
+
+We can try showing them that the corruption is weak to holy magic, but I don't think it'll help much in this scenario.
+
+"He said okay," Liora said.
+
+I did not!
+
+"Did he really?" Cee poked Liora with her leg suspiciously.
+
+"He said it in a longer way than that, but he did say that it's alright to try. I mean, worst case scenario, I fly us out of here."
+
+"That is so convenient," Cee noted, pressing her front legs to her mandibles in thought. "Fine, let's give it a try. But if there's anything even remotely dangerous, we are out of here."
+
+"You wouldn't have to tell me. I don't enjoy getting killed," Liora nodded.
+
+You do enjoy putting yourself in danger.
+
+It's all for your sake, dummy.
+
+Don't blame it all on me. I've warned you plenty of times.
+
+And said it's fine, just as many. Renir, your information is outdated.
+
+I… That is… Shut up! I'm not that old.
+
+It appeared that she had touched a weak spot. She was curious how old he was exactly. He had never told her, so she suspected that he was an old man still clinging to his youth. Maybe he was like those wizards in fantasy books. They reached the grandpa page and then remained that way for hundreds of years.
+
+"There is another problem we have to solve," Cee said.
+
+"What?"
+
+"I'm hungry…"
+
+Unfortunately, for the two with most of the people gone and the market non-existent, there wasn't much food to be found. Even bugs didn't enjoy living in the city, so the best they could scrounge up was steal some old bread and super dry jerky from a few people.
+
+It appeared that there simply wasn't any fresh food in the city, as even the fish had left her harbor. Not that fishermen could venture far from shore, with the corrupted fog being even thicker there. It was already difficult to breathe in the city, although Cee wasn't really affected thanks to the weird way spiders breathed.
+
+But even if there wasn't anything great available, they were still eating the meal gratefully. After all, stale bread and tough jerky were far better than nasty, crunchy bugs. Neither one wanted to eat those anytime soon.
+
+The next few days, the two of them spent inspecting the city and gathering the information about the corruption. They found that it came recently, about five months ago, but spread at an incredibly rapid pace, unlike the corruption in Sunvale, which settled slowly over the decades.
+
+Initially, people regarded it as nothing more than a strange fog from the sea. It wasn't a rare phenomenon after all. But then it only got worse, and people were beginning to fall ill. First victims were elderly, children, and pregnant women—those with already weaker immune systems. They developed cough, runny nose, and other respiratory problems, which they attributed to a new plague.
+
+After that, many people fled the city, and far fewer ships came in with their goods. However, as the fog thickened even further, it became clear that it was the source of all problems, so the adventurers followed the source, where the fog was the thickest.
+
+The result was the dead expedition members and not much information on the beast that caused it. Even the survivors couldn't describe it very well. Some said it was as huge as a mountain, making the earth shake with each step. Some said it was a small and incredibly nimble creature attacking from the shadows.
+
+Some said it was a humanoid creature, some that it was more like a dragon, others that it was an abomination consisting of various monsters. The only consensus was that there was no certain one appearance that everyone could agree on.
+
+This might be worse than I initially thought.
+
+Renir had remained mostly silent while they gathered intel, but by the third day, it was clear that they wouldn't find out anything new. Mostly because they had already stalked every person who, for some reason, decided to remain in the city.
+
+What?
+
+With everyone saying something different about the monster, it is most likely a shapeshifter of some kind. It appears that this one fights by trying to exploit people's weaknesses and fears. A nasty opponent. Even if its level isn't very high, it could take out many strong opponents.
+
+Liora didn't like the sound of that. She reiterated Renir's words to Cee, who didn't look too pleased.
+
+"We should just get out of here. If the monster exploits our weaknesses then it'll just turn into a fire-breathing monster and fry me to a crisp. I don't want to be a fried spider," Cee complained.
+
+"We're not fighting the monster," Liora said. "We're just showing that the holy magic can be used against it. We have to wait for this Sea Pillar to arrive."
+
+Pillar of Azure Helm.
+
+Whatever.
+
+"You mean the Pillar of Azure Helm," Cee asked.
+
+"Yes, her. We show her the stuff, then we get out of here," Liora said.
+
+"You promise?" Cee asked.
+
+I don't know if Morgana can deal with such an intelligent monster. Her strength lies in quick attacks from afar using magical pistols. She wields them like no other, and she is uncertainly unmatched. But if she can't even see the enemy, then they won't be of much use.
+
+I'm sure she'll find somebody suitable to help.
+
+She is prideful as all hell, though. Never was one to ask for help, even when the enemy was about to kill her. I had to save her skin twice. Duncan saved her at least five times. Killian–at least two dozen times.
+
+How is this woman still alive?
+
+Pure, stubborn determination. If there is an entity that enforces death, she must have screamed at it until it gave up and decided to come another day.
+
+"Liora?" Cee asked nervously, breaking their inner dialogue.
+
+"Sorry. Renir distracted me," she apologized. "We'll wait for that expedition for now."
+
+But would it be alright to entrust this matter to this Morgana? She didn't sound like the most reliable sort. Then again, she couldn't trust Renir's words completely either. Maybe, like most of his information, this was outdated. Maybe this Morgana person had changed over the years after so many near-brushes with death.
+
+Maybe there was a new Pillar of Azure Helm. One could never know. Liora was determined to trust her own eyes and decide what to do once she understood the situation better.
+
+Two more days later, the expedition finally came to Abylport. They were very easy to spot. A large group of people, all armed to the teeth, with several supply wagons behind them. In front of them marched a tall woman who was dressed like a pirate, complemented by two impressive pistols on her hips.
+
+It was Morgana, the Pillar of Azure Helm.

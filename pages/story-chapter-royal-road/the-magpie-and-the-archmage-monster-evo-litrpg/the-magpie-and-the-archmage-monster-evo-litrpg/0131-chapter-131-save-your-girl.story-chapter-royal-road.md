@@ -1,0 +1,215 @@
+---
+id: 1e031027-6db6-5e0d-85b8-9a38924dbb47
+page-type-slug: story-chapter-royal-road
+title: "Chapter 131 – Save Your Girl"
+slug: 0131-chapter-131-save-your-girl
+partOf: the-magpie-and-the-archmage-monster-evo-litrpg
+position: 131
+ownLength: 2080
+unit: words
+publishedAt: 2026-06-03
+link: "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3486004/chapter-131-save-your-girl"
+royalRoadId: "3486004"
+---
+
+Liora was somewhat reluctant. This man wasn't leading her into a trap, was he? But if it was a message for Renir, it was important to hear what it was. Did he have a cult of haters chasing after him or something? That would certainly make sense. Renir created trouble wherever he went.
+
+Go with him. I'm curious, and I don't think he would try anything. He's one of Morgana's Elites.
+
+Oh, really? How come he didn't present himself as one? I thought it was a big deal.
+
+Perhaps the man doesn't like to brag.
+
+Liora decided to follow him, although she was ready to use Featherflash at any moment to get out of the place. When the man approached one of the rooms, Liora slowed down a little, wondering if it was warded.
+
+"It's not warded. It merely has a soundproofing charm placed upon it," the Guildmaster said.
+
+It certainly wasn't the same room Liora was trapped inside before, but she proceeded cautiously, looking around carefully and pecking at the door and wall a few times. Not that it would help understand whether the room was warded or not. But she did watch the man's reaction.
+
+When he didn't appear bothered by her "checks", she decided that he likely wasn't trying to capture her.
+
+"So what did you want to tell m-my master?" Liora stuttered.
+
+"You mustn't tell this to anyone else!" The Guildmaster warned.
+
+"I shall not," Liora confirmed. "Who would I even tell?"
+
+"Pillar Morgana, but her knowing wouldn't be a bad thing either. I digress. Here's the message to Pillar Renir. Mage school has been discovered not too far from Abylport after an unusual rise in monster activity. We have suspicions that the school is linked to the Order of the Night King."
+
+What?! I thought it was Merlin. Night King goons are getting sneakier.
+
+This is actually more concerning. Serena is there! With those Night Order freaks.
+
+"I shall give him the message immediately!" Liora said, already turning towards the exit.
+
+"Please do. We would be grateful for any assistance as we are unsure how to proceed. We shall contact Pillar Merlin as well," the Guildmaster said.
+
+No, no, no! Merlin is the last guy who needs to know about this. We still can't rule out that he's involved in this.
+
+"No!" Liora said sternly.
+
+"What?" The Guildmaster looked surprised.
+
+"Master wouldn't like getting others involved. He'll look into the matter on his own. Do not tell others!" Liora spread out her wings for effect. "Shall Master require Pillar Merlin's help, he will get in contact with him himself."
+
+"I… I understand. Very well. But please, deliver the message soon."
+
+"I shall set out on the way immediately," Liora assured.
+
+"Shall I guide you to the door… or window?" The guildmaster offered, pointing at the window
+
+"Window is preferable," Liora confirmed.
+
+The Guildmaster opened the window and stepped aside.
+
+"Thank you kindly," Liora inclined her head and flew out of the window. Before she flew off completely, she turned away and addressed the Guildmaster. "Please keep the window open for my friend, Cee. She is very shy."
+
+The Guildmaster nodded as Liora flew off, heading back to the forest where Cee waited for her.
+
+"Well, how did it go?" Cee asked nervously.
+
+"All good. The Guildmaster left the window open on the second floor. You can get in through there."
+
+"Oh, good. I'll get going then," Cee said and sprang away.
+
+Liora, meanwhile, sat down on the branch, turning to her magpie form and pacing around nervously.
+
+Renir, what do we do? Serena is in that school, and now it turns out those corrupted mage freaks are there. What if they start turning students into corrupted people?
+
+Calm down a little. If they really are involved with this mage school, then it is far more likely that they are searching for mages to recruit for their cause, not turn them into corrupted. Although I suppose it can't be completely ruled out with the patients appearing in Sallie's clinic.
+
+Right?! We need to go back and rescue Serena.
+
+Are you insane? People there saw you! They will recognize you on sight.
+
+No, they saw my aethral form. Nobody saw an innocent little magpie.
+
+These are mages we are talking about. The headmaster might be able to recognize you by your mana signature.
+
+Mana signature?
+
+Each person, being, and monster has their own unique mana… aura, I suppose you can call it, around them. After reaching a certain level of proficiency, a mage can tell people apart just by this aura.
+
+Oh, great. Another way to see me despite me being in disguise! This is bullshit. I want a stealth skill that hides me from anything forever.
+
+We can certainly look into more stealth skills. But let's focus on the problem at hand. We can't go back to that mage school—
+
+But Serena!
+
+Let me finish. We can't go back to that mage school. But that doesn't mean we can't contact Serena and warn her.
+
+What's your plan?
+
+Normal schools in Velithra have a new term at the start of the year. I suspect this school is no different, simply to blend in with the others. That means there's approximately two weeks left until the new term.
+
+How do you know that?
+
+I noticed a calendar on the wall in the room the Guildmaster took us to. He had conveniently crossed out the previous dates.
+
+Oh… That's convenient. So what's your plan?
+
+We intercept the Stolte boy once he leaves the academy and pass the message to him.
+
+What?! No! I don't want to talk to him. How can we even trust him to get Serena out of there?
+
+Liora, it'll be much safer for us, and I'm sure he will protect Serena. He trudged all that way to that school for her. I don't think you need me to tell you that Cyene isn't exactly close.
+
+Liora hated this idea. She really did. Talking with that blonde, pompous ass. But she had to admit that Renir was right. It would be much safer to pass the message to him outside the school, rather than risk being discovered by that scary headmaster.
+
+Ugh… Fine. But what about the school itself? It felt like the Headmaster wanted you to do something about it.
+
+What am I supposed to do? I'm still a rock stuck with a bird. Until I regain at least more of my magic, the best I can do is keep looking for ways to break my seal. Besides, we already warned Sallie, did we not?
+
+Yeah… I guess that's true.
+
+Good, now let's wait for Cee to get back with her Guild Ring and then try to find the Stolte boy. After that, we're heading to search for a fire node.
+
+"Maybe we missed him?" Cee suggests, peering down from Liora's back.
+
+"This is the only path that leads from the school to any sort of civilization. If he walked anywhere near it, I would have spotted him. Unless he somehow managed to get all the way to Cyene during those two weeks of training."
+
+Impossible. They didn't have horses. You can cover the distance it would take them a week to walk in a few hours. Don't worry, we'll find him.
+
+"Doubtful. Humans are so slow…" Cee added.
+
+They had been flying along the forest path that led to the mage school for several days now. Some people were coming and going from it, but they hadn't spotted Damien yet. It was honestly starting to grate on Liora's nerves. She hated staying in one place for too long. At this rate, they would get discovered anyway.
+
+But thankfully, they didn't have to wait much longer. A few hours later, around lunchtime, Liora finally spotted the familiar blond man striding down the road in his loud clanking armor.
+
+"Is that him?" Cee asked.
+
+"Yeah! Finally. I'm going in!"
+
+No, stop! Wait until he is alone.
+
+We can't let him go too far. He needs to go back.
+
+Just a bit longer.
+
+Liora barely suppressed a groan, but eventually relented and waited. When they were finally sure that there was nobody nearby, Liora flew to him in her Magpie Disguise. Cee meanwhile hid in the forest. There was no need to subject her to this unpleasant man.
+
+But obviously, Liora couldn't just fly up to him normally. Instead, she flew behind the man for a while, wondering whether he would notice her. He didn't. She was only about a meter behind him, but the man was completely oblivious. Could someone like that really protect Serena?
+
+Eventually, she got bored and landed on his shoulder.
+
+"Hello, Damien," she said sweetly in Serena's voice.
+
+"Serena, what are— WHAT THE HELL?! You stupid bird!" The man freaked out, flailing his hands in the air like crazy.
+
+"Chak-chak-chak!" Liora laughed, genuinely enjoying his panic. She once again used a rather seductive version of Serena's voice. "What's wrong, Damien, darling?"
+
+To her delight, his face grew red with embarrassment. What do you know? Renir was right. He was totally head over heels for Serena.
+
+"You nasty little bird! I will cut your head off," Damien reached for his sword.
+
+"Calm, calm! I actually have come for a good reason. Aside from teasing you, that is," Liora said, landing on his broad shoulder again.
+
+"Do you have to keep using Serena's voice?" Damien growled.
+
+"I'm most comfortable with it. Not to mention that Serena has such a pleasant voice," Liora said.
+
+"She does…" Damien agreed, then glared at Liora. "What do you want, bird? You have five seconds before I cut you to pieces."
+
+"You need to head back to the school and get Serena out of there," Liora said firmly.
+
+"Yes, yes. You already said that. Infusion can damage her body. But Serena isn't stupid. She won't do the mana infusion. There's still a lot to gain from that school," Damien snorted.
+
+"This isn't about the infusion. I've learned new information. A dangerous sect of mages is operating within the school, trying to select and recruit new members," Liora said.
+
+Damien burst out laughing. "A dangerous sect of mages? What kind of nonsense is that?"
+
+This dude is useless. I knew it! We'll have to go and get Serena ourselves.
+
+Don't give up yet. Mention the Order of the Night King. Maybe he'll recognize the name.
+
+"It's the Order of the Night King," Liora said, her feathers puffed out in annoyance.
+
+"What?" The blond man's expression instantly grew serious. "How do you know that name?"
+
+"I told you! I am the magical familiar of the Pillar of Lost Magic. There are lots of things that I know," Liora said. "How much do you know about them?"
+
+Damien took a look around as if to make sure that nobody was listening in. Obviously, there was nobody around. Liora had already made sure of that.
+
+"Honestly, not much. But I did once overhear my father talking about them and something about corruption. I didn't understand it initially, until… Well, I'm sure you remember what happened in Cyene dungeon," Damien winced.
+
+Liora nodded. She remembered all too well how she had to purify this guy from the wounds he sustained from the corrupted wolf deers. Thinking about it, Damien was actually her first human patient. Funny.
+
+"If you are aware, then do you really want Serena to stay anywhere near them? Or worse, get recruited by them?" Liora prompted.
+
+Damien paled. "Where have I taken her… I thought this would be a great school for her to learn magic…"
+
+"If you are aware of your mistake, go fix it. Save me, Damien!" Liora taunted.
+
+"Will you STOP using her voice?" Damien raged, trying to hit Liora.
+
+Obviously, she flew up, dodging him with ease. "Are you going to get Serena out of there or not?"
+
+"Of course, I will!" Damien said firmly.
+
+"Good, then go get her!" Liora urged and watched as Damien turned around and ran towards the school, his armor making a terrible racket all the while.
+
+I really hope this works.
+
+This is the best we can do for now. Go find Cee. We have a fire mana node to find, and I have a good idea of where we might find one.
+
+Liora flinched. She remembered well what Renir had told her before. Fire nodes tended to appear either near hot springs or volcanoes. In either case, it was trouble.

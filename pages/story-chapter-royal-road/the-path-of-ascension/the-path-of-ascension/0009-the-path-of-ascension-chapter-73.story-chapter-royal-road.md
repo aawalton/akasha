@@ -1,0 +1,249 @@
+---
+id: cc9e1175-a3ea-5591-8c70-2871175a0979
+page-type-slug: story-chapter-royal-road
+title: "The Path of Ascension Chapter 73"
+slug: 0009-the-path-of-ascension-chapter-73
+partOf: the-path-of-ascension
+position: 9
+ownLength: 4916
+unit: words
+ownProgress: 4916
+publishedAt: 2021-10-08
+link: "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/763724/the-path-of-ascension-chapter-73"
+royalRoadId: "763724"
+markedReadAt: "2026-06-29T19:17:42.650Z"
+---
+
+Chapter 73
+
+Matt looked to Liz and Aster, and in unison, they all Tiered up. There was no need to go to a higher Tier rift and use its essence to help with compressions. After all,they had already delved a Tier 7 rift. Their cores were as compacted as they could be at Tier 5.
+
+Looking inward, he inspected his recent cultivation. He had been allocating most of his directed cultivation to mind, senses, and proprioception. Now, his greatest problem was keeping up with his boost from [Mage’s Retreat]. It would only get harder from here, as he would be able to pump more mana into the skill as he Tiered up.
+
+In the past month, he had gotten the skill into his core spirit, and was slowly expanding its capabilities to increase his endurance when using the skill. Once he was done, he would take the skill out of his core spirit, and start absorbing the other skills he had collected. He planned to try and make them cheaper, so he could use them earlier.
+
+With the three of them now Tier 6, they quickly packed up their camp and flew into the air. Matt took one last look at the island they had camped on, and the neighboring one where they had done their rift experiments.
+
+It was a bittersweet sight. He felt like he had passed a pivotal point in his life. Money and essence no longer meant as much to him as they had before this moment. His time experimenting had also given him a better impression of enchanting and of its benefits.
+
+He felt like he was a different Matt altogether compared to when he arrived on this planet, only a few short months ago. It only took a glance to see the half dozen rifts that he’d left. They were the best of his creations, and it gave him a bit of satisfaction to think of how valuable the island would be in the future. Especially once people saw that there was both a Tier 7 rift, and a rift capable of producing endless Tier 5 natural treasures for mana cultivation.
+
+One would eventually Tier up the planet, and the other would create near-endless wealth.
+
+The other rifts were the ones that produced growth items most often, or consistently had valuable rewards. Liz’s herb rift would probably be a hot commodity in the future for an alchemy guild.
+
+He smiled as he thought of the faces of the people who would find their little retreat.
+
+With a thought and flex of his spirit, Matt turned and flew towards the gathering point. It was set in the middle of nowhere on the planet’s fourth continent. It was a weird location, but he assumed that it was selected by the imperial army, instead of the kingdom. Otherwise, it would’ve been in one of the two teleporter cities.
+
+It would take them a few hours to reach their destination, but the message calling them together had a countdown timer. They had nearly a full day until the countdown would reach zero. Neither he nor Liz had any idea what the counter represented, but they didn’t want to get caught out of the city if it indicated the invasion point and start time of the war.
+
+Matt didn’t think it likely, as this was more a training ground than a real war, but they hurried anyway.
+
+As they flew, Matt increased his max mana pool to 80 mana, and then immediately downed one of Aunt Helen’s mana concentration potions. He almost fell, but was able to keep his flying sword steady with the aid of his AI. After checking and finding that his mana concentration was now 1.3, he was slightly taken aback. The potion had given him an increase of 0.15 mana concentration, even more than the 0.08 that the first one had provided at Tier 4.
+
+After reflecting, it made sense that a Tier 30 plus mana concentration potion would do more than a max mana of 20 could handle. With the realization that he would get more out of Aunt Helen’s potions when he had more maximum mana to sacrifice, he decided to save the potions for the higher Tiers, and slightly regretted his decision to take the potion now.
+
+Putting it out of his mind, he focused on returning his maximum mana to his new cap of 80. The doubling of mana gave him a massive amount of wiggle room in his spell casting.
+
+A quick test of [Hail] showed his AI that he could create a much larger area of coverage. When given a larger portion of MPS, it also created more ice. By doubling the initial mana cost, the radius increased by forty percent, which equaled a near doubling in overall area of effect. That was nice, but what made it amazing was when he noticed that the increased ice density remained without increasing the upkeep cost. When he increased the channeled mana to his full mana generation of 80 MPS, the skill appeared more like a wall of ice than a natural storm.
+
+Aster took control of it from his backpack and created a few ice sculptures that floated around the flying trio. He didn’t miss that most were rabbits and hearts, but he laughed at her antics.
+
+From her mental pushing, he knew that he would be making rabbit rifts for her anytime they stopped in a single location for too long.
+
+He was also tempted to instantly absorb [Fireball], just so he had a skill to cast like a normal mage. He would need to use the mana stone trick that he had with [Hail], but the idea was so tempting. In the end, he decided to wait until [Mage’s Retreat] finished its modifications, and was out of his core spirit.
+
+It would still be much faster to modify the skill when he absorbed it, rather than doing it the slow way. The small voice that said he could buy another [Fireball] was easily crushed. Even if he could do that, it was just too wasteful. The skill once used was gone forever, and as much as he had changed, he still remembered the lack of skills on Lilly.
+
+I can change that.
+
+Matt didn’t know what he would be doing in the near future, with their management team still being assembled, but he started listing reasons in his AI about why going to Lilly and making some low Tier rifts for the populace was a good thing.
+
+He brought his mind back to his skills. [Mage’s Retreat] had already been calculated out, but with his increase of mana concentration, it was nearly thirty percent more effective at increasing his strength for the same mana cost. The same logic applied to [Cracked Phantom Armor]. Matt sighed as he realized that while he would have the advantage in mana concentration at the lower Tiers, he would fall behind at the higher Tiers due to his reliance on potions. That is, if his math was accurate.
+
+Matt quickly searched for the actual scaling for mana concentration. Finding nothing, he turned to ask Liz, “Do you know the actual way mana concentration works on skills?”
+
+She shook her head. “No, I just know it's good.”
+
+Turning back to the KingdomNet, he finally found a source that seemed well rated, and spent the money to get hard numbers for his math.
+
+As it turned out, his notion of how mana concentration worked was slightly off. The math behind it was log10(concentration) + 1. Which meant instead of him having a boost of thirty percent, it was closer to eleven percent. That realization caused Matt to sigh in relief, as it meant he wouldn't be that much weaker than the mages of his Tier when he got stronger.
+
+Before he knew it, they were nearing the marked location, and both he and Liz paused in their flight. The others that had been flying near them did the same at the impressive sight in front of them.
+
+Where there should have only been an unexplored continent and a grassy plain, there was a massive city built of stone. It was a few dozen times larger than the cities that the seven suns kingdom had built around the teleporters.
+
+At first, Matt swallowed. If this was the queendom’s invasion force, they were well and truly screwed, but he quickly noticed the flying patrols were all in the army’s color-shifting uniforms. Even with their camouflage disabled, they still seemed to blend into the background, making them hard to notice at first, and harder still to keep an eye on.
+
+“What is this?”
+
+Liz was close enough to hear his question and called out, “I don’t know, but it’s impressive. I can’t imagine how difficult it would be to create a city that large in that time frame, but only the army could do it. Look at the wall. It’s covered in defensive formations.”
+
+Matt caught the faint shimmering of the enchantments, and nodded as his eye caught something else as well. “And look at their cannons. They’re massive. I think I could stand up inside of that barrel. What are they expecting?”
+
+Liz circled back to him and shrugged, “Maybe it’s a show of force to the vassals. Something like, ‘Look at how strong we are, don’t try and fuck with us.’ I don’t know for sure, though.”
+
+“Well, it’s working on me. The walls must be two hundred feet tall, and the buildings make them seem small.”
+
+Matt was thoroughly impressed. Even from here, the city was all a uniform brown that implied that it was created with [Earth Manipulation]. Before he could look into it deeper, he saw that his AI had registered an EmpireNet. They hadn’t had access to once since they left the vassal kingdom’s capital.
+
+They followed the stream of people entering into the city, and Matt ogled the triple layers of walls, each over fifty feet thick. From the surrounding sounds of water, he assumed that there was a moat above the tunnel and between the first and second wall.
+
+It would have all been useless if not for the flight inhibiting formation over the entire city. Liz tried to peek over the crowd, and found that while her flying device worked, it only got her an inch above the ground before she was shoved back down.
+
+The expense was mind boggling. Excluding everything else, just running the formation must cost thousands of mana per second for a city four hundred square miles, by his AIs calculations. Matt wasn’t thrilled about the implications of needing a city this large, but he still asked Liz about it, while she was pressed against him in the crush of people.
+
+“How many people are they expecting to show up?”
+
+He had to repeat himself another three times before she nearly shouted in his ear, “Gotta be ten million-plus. Have you checked the CityNet?”
+
+Matt hadn’t explored it yet, so he did so at Liz’s suggestion, and quickly saw what she meant. The CityNet was tied in with the EmpireNet, but it had more local information. Everything seemed to be about people taking sides in the upcoming war, or trying to find ways to profit from said war. There were thousands of stores and individual crafters trying to sell their wares or services.
+
+But what caught and held his attention was the information that listed the war’s rules of engagement.
+
+This city was a designated neutral site, and all fighting was prohibited under imperial law, except in designated fighting arenas. No one would be allowed to break the peace, and the army was there to ensure that the rules were followed.
+
+The second thing was that all newcomers from The Path of Ascension would be entering through the city, before either side would be able to recruit or transport their personnel. It was also the location of all reward distributions for every participant.
+
+As Matt was looking for more information, he received a message from Juni with a location to meet at. If he was reading the message right, the kingdom and queendom had set up buildings across the street from each other.
+
+It screamed of creating conflict and trying to ensure that people fought, but Matt assumed the Empire knew what it was doing. It couldn’t be the first time they had done this, after all.
+
+The location they needed to reach was so deep into the city, they decided to take a flying cab. The price of a Tier 6 mana stone to go anywhere in the city made Matt’s inner poor kid cringe, but he still paid it. It let them escape the mob of people, instead of trying to move through the street or waiting for public transportation. Once they were in the air, he was able to see how the crowd quickly dispersed into the massive city, once the area surrounding the gate was cleared. As they flew through the highrises, the true scope of the city came into perspective, and Matt disregarded the expense.
+
+The city was gorgeous. There were flying islands that looked like parks and meditation areas. Some even seemed to be elementally aligned, and he made a note to find one for Aster to play in. Even if the aura wasn’t any good for refining her mana, she would still enjoy spending time with other ice aspected people.
+
+As they flew, he saw massive floating platforms that were clear combat arenas. Unlike the normal standard arenas he had seen, these were scenario-based ones. From the few he saw, he could tell there was a variety of combat arenas from false cityscapes to elemental battlefields. Each one was hundreds of feet wide, and several of them held people actively fighting. He tried to get a better look, but the cab moved too quickly, and the buildings cut off his view as they sped along.
+
+The use of all available space was impressive, and Matt couldn’t help but stare.
+
+When they started to descend, Matt noticed what he thought was a massive teleportation area. But instead of having runes, it was a clear area that was nearly a mile wide in the middle. No teleportation platform could be that big. The larger they were, the greater the cost, and that was thousands of times bigger than the ones that jumped between planets. It would bankrupt even the Emperor if it was a teleport formation.
+
+The building they were meant to enter was obvious when he saw it. It was a mirror to the building on the other side of the cleared area, and colored in the Seven Suns Kingdom’s colors of gold and dark red, while the Queendom’s building was colored in silver and light purple.
+
+There were also guards in each of the factions’ respective colors, which Matt assumed were from the respective kingdoms. The fact that there were people manning the queendom's side was slightly alarming. Had the invasion already started, or were they an advanced party sent as an emissary.
+
+Matt was constantly thrown off by the fact that this wasn’t a true invasion. If it was a real war, they would break through at the teleport location and build a teleporter of their own, so that more troops could be quickly funneled into the planet.
+
+Matt thought about the notion, and decided that wouldn’t be right either. The higher Tiers wouldn’t travel through established connections unless they had to, since they could travel through chaotic space. Or…
+
+Matt shook himself out of his pointless musings and climbed out of the cab to march up to the Seven Suns building. It wasn’t like the Empire would publicize how they attacked people in a real war, so it was pointless to check.
+
+They were stopped at the stairs by the guards and told to wait until someone could vouch for them. After a message to Juni, they were immediately let through with an apology.
+
+They were given directions to a room in the middle of the massive building that was so awkwardly located, Matt wondered if Juni had a falling out with the Prince. To his surprise, they found a massive topographical table map of the planet, with hundreds of fortifications of different designs and colors, with a dozen or more small groups inspecting various parts of the map.
+
+Matt and Liz walked around the set-piece while Aster curled up in the backpack, uninterested in the boring human goings on. Juni quickly came over and shook both of their hands.
+
+“Thanks for getting here early. Things are a little crazy right now.”
+
+“Yeah, we noticed with the out-of-way location.”
+
+Juni flinched hard and said, “Don’t mention that. Even though the Prince isn't here he’s a little touchy about that. We’ve also had a few...” He paused, “Incidents. Princess Sara, the Queendom's leader, is Tier 7 like the Prince.”
+
+Matt was shocked by that and checked Juni. He found that the Prince's right hand was now Tier 7.
+
+He interrupted by asking, “Sorry, but you advanced? I thought you both had quite a bit more to go.”
+
+Juni laughed at that, “The King is giving us everything we can think to ask for, and the army said we couldn’t bring more Tier 7’s to the planet. They said nothing about making them here with essence stones. Apparently, the Empire is reimbursing everything they spend on this, and the better the battles and war, the more the kingdom will be rewarded. If the rumors are true, that extends to both personal rewards for the king, and rewards for the entire kingdom. He’s sparing no expense and giving everything he can, and plans to advance a lot of people. Last I heard, the king intends to move up something like twenty million Tier 5’s and 6’s.”
+
+Liz whistled, “That’s a lot of people. What are they all going to do?”
+
+“Fight, I suppose, I’m sure the king would send more, but that’s the limit for the kingdom to send. Anyone else will need to be recruited from the Pathers. Speaking of Tier, I see you all worked hard. From mid Tier 5 to Tier 6 means you were busting ass.”
+
+Juni looked around and then pulled them to the side. “But back to my point, the queendom's leader is a Tier 7, Princess Sara. They had a meeting last week where she instantly and very publicly declared that she would marry the Prince.”
+
+The man looked incredibly awkward as he finished. “The Prince tried to play it off as a joke, but she bet him that if she won the war he would have to go on at least a dozen dates with her. To the Prince's dismay, both sides’ parents agreed to the condition. I believe the king wants to pressure the Prince to not lose, and it’s working. The problem is, for as much of a physical monster as Princess Sara is, she’s unexpectedly crafty for someone of her damage potential.”
+
+“She’s already gotten packages into the Prince’s bedroom twice, and crashed meetings like this with extravagant gifts four times in the last week. In fact, just this morning the Prince woke up to find his room filled to the brim with roses.” The man was looking more frazzled the longer he talked. “We still haven’t a clue how she did it.”
+
+Matt had to give credit where it was due. “That’s impressive.”
+
+“It is, but it's also a sore spot for the Prince, so we’ve been moving meeting locations to random rooms, and it seems to have worked. So far, at least. Just don’t mention her, please. Especially around the Prince when you see him later.”
+
+Moving the conversation along, Matt pointed at the map and asked, “What are the little castles?”
+
+Taking advantage of the change of topic, Juni smiled. “So while the Empire hasn’t released any information officially yet, we know a few things. The army is busy building locations that have strategic value, or at least simulated strategic value. However, they’re still finishing with a few locations. It will be reminiscent of a game of capture the flag, where the longer one holds the location, the more points that side accrues. It’s technically a secondary objective, but not to the king. In fact it’s his highest priority. The war ends when one side controls the entire planet for a full month. But from a few rumors, some of the prizes are allegedly worth more than the Tier 20 planet to the kingdom, so it’s of vital importance to hold the positions. The king has even said that he’d rather lose the war, if we got him enough points.”
+
+“Is there not a bonus for winning?” d Juni nodded in response.
+
+“Of course, but the problem is that no one knows how much it’s worth. It could be worth millions, or five mana stones. That’s too far above us, though. As long as you’re ok with it, you will be back with the team that assaulted the golem fortress. We’ll be filling out the group to about five hundred over the next few months, with the best of both Pathers and kingdom fighters. We’ll be acting as the quick reaction force, and doing a lot of the hard work when it comes to taking and holding important locations. I suggested to the Prince that we take the fighters from the golem war and make them our team leads for the best fighters. So we want you three to lead one team.”
+
+Matt shrugged, it seemed like a good opportunity to earn more points. He said, “We don't mind taking a team leader role.” He looked at Liz, who nodded at his unspoken question. “This just feels wrong. I get that this is a curated war, but it feels a little too much like a game. The queendom is already here. Why wouldn’t they just attack?”
+
+Juni looked tired and sighed at the question. “Yeah, but we can’t do anything about it. When the countdown ends tomorrow, we believe the war will officially start. The queendom will appear in the city that correlates with their teleport location, and they will start moving in. We don’t know exactly where that is yet, though. And we’re unable to preemptively take control of any of the valuable points. We’ve been limited to the areas near our cities, but that leaves nearly two-thirds of the planet uncontested. Once the war starts, we’ll be scrambling to try and block the queendom off, and it won’t be easy. They can appear anywhere and attack a single location with their full force, but at least our defending advantage won’t be completely nullified with the Empire’s restrictions in place.”
+
+Matt took a look at the map and noticed that the cities with the teleporters were surrounded by blue forts, while the rest of the map was gray. There were also larger, city-like structures strewn about. There was one on each of the five continents, and one near an isolated archipelago chain on the other side of the planet
+
+“What are they? Fake cities?”
+
+Juni shook his head. “No, they’re cities that the army made like this one, only a lot smaller. They also have teleportation formations in them that will allow the cities to reinforce themselves. We expect that the queendoms’ teleport location from their planet string will drop them in one. Sadly, they can only be teleported to when the war starts, and they’ve already been captured by one side.”
+
+Matt tried to take it all in but was distracted by the sheer scale of it all. Twenty million people were being brought in for the first wave, and that didn’t even account for the Pathers that the Empire would be shipping in.
+
+To his surprise, he was actually excited and itching for a fight. Unlike with the golem fighting, lives weren’t on the line here, and there were goals to fight for. He didn’t miss the forts situated around rift clusters and natural resources. If his guess was right, there were a few artificial resource nodes in areas that would otherwise be unimportant.
+
+His competitive blood boiled, and he wanted to get out and take the fight to worthy opponents. Matt had no doubt that there would be strong people in both the vassal forces and among the exceptional Pathers.
+
+Juni kept telling them about what to expect, but it all amounted to not much of anything. They would have to wait until tomorrow for the truth of the situation, when the war would officially start.
+
+“What should we do now?” Liz’s question re-focused him once Juni excused himself to make more preparations.
+
+“Well, we don't have any responsibilities until the war starts, and our team isn't assembled yet, so I doubt we’ll do anything tomorrow. This all seems to be progressing much slower than I would’ve expected. We have a room set up, but I’d like to visit one of the enchanters around the building. I want to get a second opinion on the pattern I made for my sword, so I can enchant it before the fighting starts tomorrow.”
+
+“Welp, let's go. Our room doesn’t seem to be in a dorm-style, so at least we can enjoy our off time in between fights.”
+
+She stretched, showing a bit of her midriff where her shirt rose up. “That is, if we have much down time. Somehow, I expect this will be more like the golem war, and we’ll running from place to place to put out fires.”
+
+Matt laughed and shook his head. “Yeah, but without the risk of death, this should be pretty fun. There’s gonna be plenty of other Pathers to fight, and lots of vassal people to round out the numbers.”
+
+Liz shrugged, and they wound their way out of the building to find one of the Tier 7 enchanter locations. Unable to find one near them, they wandered in the direction of the crafter's district, until Aster leapt out of Matt’s arms and scampered off into the packed crowd.
+
+Following his connection to his bond, he found her hanging off a man’s red and bushy fox tail, who looked at the arctic fox with bemusement.
+
+He met Matt’s eye and chuckled over Aster's growling. He shook his tail, causing the fox to sway. The man lifted his tail to waist height, bringing the troublemaker attached along with it.
+
+“I take it she’s your bond.”
+
+“Yes, I’m so sorry. I have no idea what got into her. She’s never done this before, I swear.”
+
+Matt moved to pull his bond off the man’s tail, and noticed that he was wearing an army uniform, and was traveling with a squad of others. Of course, Aster had to attack a Tier 15 or above soldier.
+
+“It’s fine. I’m assuming I’m the first firefox she’s met, and our elements clashed. I can’t blame her. If I did, I would be a hypocrite of the highest order.”
+
+Matt finally wormed his finger into his bond’s growling jaw, and finally freed the man’s bushy red tail from her teeth. Even if Aster couldn’t hurt the man, it was incredibly rude to bite someone, so he scolded Aster telepathically as he apologised to the man outloud.
+
+“Really, I’m so sorry.” As Matt was going to continue, the man shrugged and scratched Aster’s ears.
+
+“Don’t worry about it. Once she calms down, she’ll have better control over it next time. I remember my first time meeting an opposite element. I bit his ankle and refused to let go. Good times.”
+
+With that, the man left, and Matt looked to a mortified Liz.
+
+“Do you know what that was?”
+
+“Sadly, yes. Opposite elements can have reactions of hate and anger. Fire and ice in this case, but I didn’t think Aster would be affected like this. She’s never reacted to me, and my bloodline is fire-based. Sorry, I never even thought about it.”
+
+Probing his bond, he could tell that the problem mostly stemmed from the man being a fire aspected fox, rather than being a fire aspected individual in general.. She clearly felt that all foxes should be ice aspected, and anything else was bad. It was all that she was thinking about.
+
+Matt soothed his bond until she calmed down enough for him to get a message through to her.
+
+“Aster, you can't do that. You can get hurt or in trouble. You had me worried!”
+
+“Fox ice. Fire bad. Fox ice!”
+
+With as stern an emotion he could push to her, he said, “Aster no. Foxes can be anything. They don't have to be ice aspected.”
+
+He was interrupted with an inquisitive, “Aster fox. Aster ice. Ice good.” Like she had explained the most obvious thing in the world.
+
+Matt wanted to pull out his hair.
+
+Is this how it feels to raise a kid?
+
+Suddenly, he was happy to have been fined for having his birth control implant missing. It would have been incredibly unlikely, but if this was how it was to raise a child, he wanted nothing to do with it.
+
+With a sigh, Matt and Liz tried to explain how not all foxes were like her, and that she needed to treat them all with respect, and especially not bite them.
+
+She insisted that she was right with the inarguable logic of repeating herself endlessly.
+
+It was a long walk to the enchanters building.

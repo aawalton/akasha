@@ -1,0 +1,99 @@
+---
+id: 3a0fa4a0-7b2f-5808-ab14-ee04df0a88af
+page-type-slug: story-chapter-royal-road
+title: "133 The Coming Tempest"
+slug: 0092-133-the-coming-tempest
+partOf: the-new-world
+position: 92
+ownLength: 1383
+unit: words
+ownProgress: 1383
+publishedAt: 2018-07-07
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/231667/133-the-coming-tempest"
+royalRoadId: "231667"
+markedReadAt: "2026-06-29T21:24:01.595Z"
+---
+
+The bojokans cowered in fear, all but their leader. The steel wires wobbled along his skin, the monster trembling. The force in his words slammed into me. I stayed steady, my will like iron. Yawm turned towards me,
+
+“You still stand? Ah yes, you invested into willpower perks. A spirit like yours fights against suppression. These eldritch on the other hand are akin to animals.”
+
+He gestured at them, “They shudder, terrified of a meaningful presence.” He stared at the bojokan boss, his eyes drilling into its mind. He spread his hands, “And you still defy me?”
+
+Yawm took a step forward, and the metallic bojokan wilted, cowering in terror. Yawm laughed, and the bojokan stood back up straight. The eerie grin on its face transformed into a scowl. The monster twitched at random, its nerves overwhelming it. I stared at it, analyzing it.
+
+Bojokan Originator(lvl 2,623) - Damn this poor bastard. Looks like he’s about to get humiliated in front of his underlings. Man, I’m sick of these statuses not working.
+
+The ruined analyses bothered me now. Without their concise explanations, understanding the eldritch took time and observation. My lips pressed into a thin line while I watched Yawm step towards the eldritch boss.
+
+The originator lifted its shaking arm. Its mouth and lips quivered, clanking its teeth. For the first time, a lump of pity formed in me over an eldritch. I never imagined that happening, but there’s a first time for everything.
+
+I leapt over Yawm, sailing over him and over the rows of chairs around the theater. As I reached the originator, it slashed towards me with clawed hands. Burning a jolt of mana, I directed its attack away from me with a stream of gravity. The mouth of the monster flew forward, its maw gaping in shock.
+
+With a slicing kick, I ripped a telekinetic bolt through its mouth. Its bottom jaw dislocated, popping out of socket with skin tearing right after. It fell sideways, crashing against the theater. My mass outdid the monsters. I was heavier.
+
+I landed onto the wooden boards of the theater, dispersing my weight outward. I shot forward, detonating my runic energy. I pulled my leg back, flying through the air. I kicked at the bojokan’s face. My foot rushed into the upper jaw of the monster, snapping teeth. The telekinetic bullet fired right into the skull of the monster.
+
+As it did, I transferred my body’s inertia. I stopped moving, but the metal skull of the monster slung backwards into the edge of the building. A hole punctured through its head, like I planted a shotgun against it and fired.
+
+Steel ruptured. Bone cracked. I landed on the theater with grace. The originator’s mind suffered from fear, preventing it from defending itself. In that state of mind, it posed no challenge to me. It disappointed me a bit more than it should have.
+
+More concerned about the world eater, I raised an eyebrow at Yawm,
+
+“So why exactly are you tormenting these damn things? Just kill them for god’s sake.”
+
+Yawm waved away my concern with a flourish of his hand,
+
+“These eldritch didn’t reproduce rapidly, their need for food stifles their longevity, and they lack intellect. What quality do they have that deserves dignity or respect?”
+
+I waved my hands around, “Well, I don’t know, maybe because they’re alive?”
+
+Yawm laughed, “They would offer you no mercy if the roles were reversed. In fact, they relished in the thought of inflicting anguish on us. Bojokans are notorious for torturing their victims. I treated them as they would treat me, with cruelty.”
+
+I shook my head, “Just because they’re evil doesn’t mean we should be evil.”
+
+Yawm jumped onto the stage,
+
+“Evil is a relative term. I promise you, they view my evil as strength. They view your virtue as weakness, and they’ll stab your back for showing that weakness.”
+
+I banged my chest, “Then their knife will break on my skin before I kick their asses into oblivion.”
+
+Yawm chuckled, “Then we’ll disagree on this.” He peered at the bojokans quivering in the corner of the stage. Yawm rolled his eyes, the glowing green orbs shifting as he sighed, “If I could be candid, they’re not quite right for what we need, are they?”
+
+I shook my head. Yawm walked off, “Do as you will with them.”
+
+Once Yawm turned his head, the bojokans stood up. They skulked towards me, pushing their luck. Drool dripped from their jaws, and they leaned closer, sniffing at me. With each step Yawm took away from them, they walked one step closer. I blinked, flabbergasted at their sheer stupidity,
+
+“Did you guys not see what I did to your boss? I made mincemeat of him in seconds. Do you honestly think you’re any different?”
+
+My words fell on deaf ears. Yawm left the theater, and they pounced. I stepped backwards, the first monster smashing its face into the stage. Another snapped its jaws at me, but I dashed forwards. The wind off its bottom jaw brushed my cheek as the first bojokan raised its head from the stage.
+
+Several planks of wood stuck out of its mouth. I kicked one of them, launching it into the monster’s throat. It choked, leaning backwards and exposing its belly. With a swift overhand right, I smashed a fist into its potbelly.
+
+The swollen stomach sunk in, the monster’s spine erupted from its back. The third bojokan rushed into the body of the first one. It bit into the monster’s insides on accident. With disgust, it spit out the mush from its mouth. I hopped up, planting a foot on its bottom jaw and my arms on the roof of its maw.
+
+I pressed up and stepped down. The monster’s jaw ripped out. It howled in agony, falling backwards. I kicked the amputated jaw, flipping it upwards. The second bojokan pounced at my back, but I grabbed the jaw and swung it in my hands. The edge of the jaw landed into side of the head of the monster.
+
+The jaw bone pierced into its skull, the eyes of the monster deadening. The sickening crack radiated through the theater. It slapped into the theater, cracking boards of wood. I shot out my armor into the corpses, draining them in seconds. They lasted less than two minutes.
+
+After finishing them, I searched around the room, looking for treasure. I found nothing except the dungeon core. I reached my hand into the dungeon core at the center of the stage. The iciness leaked into my hand, but sensation diminished when compared with before.
+
+As I generated more mana, the mana of the dungeon core phased me less and less. I grasped the core with a firm grip, pulling it out of the spiral of white energy. Yawm leaned back into the room,
+
+“Ah yes, the dungeon core. I forgot all about it.”
+
+The familiar blue squares formed all around us, the sign of a cleared dungeon. My armor wrapped around the core. Needles of it pressed against the reddish, black sphere. Moments later, the spines impaled the sphere. Like a drowning child, the core sunk into my armor. My armor devoured the core, leaving nothing behind.
+
+Yawm jogged up, jumped back onto the stage. He tilted his head at me,
+
+“This armor of yours, it engulfed an actual dungeon core?”
+
+I shrugged, “It’s a first for me. I don’t know anything about what it’s doing.”
+
+As the blue squares altered the reality around us, little changed from before. The theater still surrounded us. Once the dungeon completed its subtle transformation, a portal opened beside us. My heart sunk in my chest, a wicked realization dawning on me.
+
+With my jaw opened wide, the overseer stepped out of the portal. He stood the same height as Yawm, the both of them staring at one another. For a while, we all sat like that, soaking in this tense atmosphere. The sudden sharpness of the situation stung, like a bee sting. I grimaced under my helm, a deep unease pressing into my gut.
+
+Yawm opened a hand towards the overseer, shattering the silence,
+
+“Ah, one of Schema’s dogs. I never imagined I’d meet another of your kind so soon, especially not one so familiar.”

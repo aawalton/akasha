@@ -1,0 +1,213 @@
+---
+id: 7b9cd851-b6da-52a8-8510-e287a5723b9b
+page-type-slug: story-chapter-royal-road
+title: "Chapter 141 – Broken Seal"
+slug: 0141-chapter-141-broken-seal
+partOf: the-magpie-and-the-archmage-monster-evo-litrpg
+position: 141
+ownLength: 2248
+unit: words
+publishedAt: 2026-06-26
+link: "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3592616/chapter-141-broken-seal"
+royalRoadId: "3592616"
+---
+
+Liora looked back in horror at the flames gathering in the wyvern mother's maw. She barely had any mana—it wouldn't be enough to protect herself with Aegis Cyclone. She couldn't use Featherflash either without abandoning Cee.
+
+Take me out, Liora!
+
+Liora hurriedly withdrew Renir from her Inventory, holding him in her beak. At the same time, fire erupted behind her. It engulfed Smokey and flew straight at Liora.
+
+"Water Shield!" Renir called, and a watery barrier appeared behind Liora at the very last moment. When fire collided with it, there was a violent hiss as the water rapidly evaporated, turning into hot steam. In a matter of seconds, the barrier was gone, but thankfully, by that point, the mother wyvern had run out of fire.
+
+"Hot, hot, hot!" Liora whined as the tip of her tail had been hit by the hot steam.
+
+"Smokey!" Cee called, looking desperately into the steam cloud.
+
+After a moment, the little wyvern emerged from it, wobbling clumsily from side to side as he tried to remain in the air. Despite being hit by the fire, he looked completely fine. Liora couldn't help but feel a bit jealous at how fire-resistant he was, even as a juvenile.
+
+But there was no time to think about Smokey, as the mother wyvern was once again approaching them, a fresh bout of fire ready to erupt from her maw.
+
+"Renir, can you do another one of those barriers?"
+
+"I'm out of mana," he cried.
+
+"FUUUU—"
+
+Liora was about to dive into the seawater below when a loud noise echoed from behind. Liora didn't recognize the noise at first, so deafening and overwhelming it was. But the booming was followed by a steady rumbling noise.
+
+Liora didn't dare to stop, but she did glance behind her as she flew. The volcano had erupted. A stream of lava shot out of the crater while a giant cloud of smoke rose into the air, quickly covering most of the island. Flaming bits of rock and magma were raining down from above.
+
+The mother wyvern, seeing the catastrophe, completely disregarded Liora and Smokey and hurried back to the island. Her hatchling was still in the nest, and while they were resistant to fire, Liora doubted that the hatchling could survive being buried by tons of molten rock.
+
+"That eruption actually came at a good time…" Liora noted, relieved at their narrow and lucky escape.
+
+More than that, she was relieved that she had managed to retrieve the Resonance Crystal before the eruption. She had a strong suspicion that the volcano would erupt soon, but to think that they managed the timing so perfectly.
+
+"Chak-chak-chak!" Liora exclaimed happily.
+
+"We got the Resonance Crystal, and Smokey can fly!" Cee cheered too, flailing her legs happily in the air.
+
+Even Smokey let out a cheerful growl and nearly fell as his wings buckled dangerously. Thankfully, the juvenile managed to steady himself, but Liora doubted he'd be able to keep up the flight for long.
+
+"Let me help you, you silly little thing," Liora said, withdrawing Renir back to the safety of her Inventory and circling back to fly right above the wyvern.
+
+He looked up rather nervously, his wings clearly straining as he flew lower and lower.
+
+"Let Liora help," Cee called, in an attempt to calm Smokey.
+
+Liora slowly descended to the wyvern and gently grabbed him by his wings, near the shoulders. She did her best not to injure the wyvern with her sharp talons, although the feeling likely wasn't very pleasant. Smokey tried to squirm away at first.
+
+"Smokey, please! You can't fly all the way to the shore, and I don't want to leave you behind," Cee pleaded.
+
+Smokey looked up at Cee, as well as he could, and calmed down.
+
+"Maybe you can climb down and put some of your webbing around my talons. I imagine it's not very comfortable having them dig into his flesh," Liora suggested.
+
+"I should have thought of that myself! Yes, I'll do it at once," Cee said, climbing out of her safety cocoon. Obviously, she secured herself to it with several strong webs before climbing down to Liora's legs. "I have to say, it feels much safer doing this since you're larger."
+
+"Bask in my superior might! Chak-chak-chak!" Liora laughed.
+
+"You vain bird," Cee muttered, but got to work, carefully wrapping her webbing around Liora's talons one by one. She also secured Smokey to Liora by adding a web underneath the wyvern and connecting it to Liora's body.
+
+Liora had no doubt that should anyone see this setup, they'd be extremely confused. Spider riding on a giant black bird while she carried a wyvern juvenile in her now baby-proofed talons with webbing securing both of them. Frankly, the person was more likely to believe they had gone insane.
+
+But at the very least, they had a comfortable flight. Carrying Smokey while he had his wings open turned out to be rather easy; he didn't weigh her nearly as much as she had feared. Not to mention that it was a valuable and safe flying practice for him.
+
+As it turned out, Liora's new body was very well suited for long flights. Her wings were huge, which made sustained long-distance gliding very easy. She didn't have to flap her wings much at all and could leisurely enjoy the flight as if she were nothing more than a passenger herself.
+
+It took them a while, but eventually they reached the coast. Looking at the map, Liora saw that it was quite a distance away from Abylport, to the south. The climate was noticeably warmer, as the harsh chill of winter was barely felt here.
+
+Landing was a bit of a hassle, since Cee had to untie Smokey first. The wyvern was also squirming a lot, likely still feeling quite a bit of discomfort from being carried by Liora in her talons. Baby-proofed or not, those talons were unlikely to be pleasant.
+
+"Sweet, sweet ground that isn't on fire! How I missed you!" Cee said, jumping down from Liora's back.
+
+"I thought you wanted to stay on the island for a few more days," Liora teased.
+
+"Yes, I get it! That wasn't very smart of me. I just didn't want to leave Smokey behind," the spider said and went to pat the wyvern.
+
+"Smokey is with us, so all is well and good, is it not?" Liora said.
+
+"You were going to leave him behind!"
+
+"Only because he squirmed and wouldn't let me carry him initially."
+
+"You can hardly blame him for being afraid. You're a ferocious-looking bird."
+
+"I look completely harmless when compared to his mom."
+
+"That's true…"
+
+Can we stop this and get to the important matters?
+
+Renir sounded incredibly impatient, and Liora couldn't blame him. He had been waiting a rather long time to attune the Resonance Crystal to fire.
+
+"Okay, okay. Renir wants to break his seal already," Liora said.
+
+"Now? But I'm tired…" Cee whined.
+
+I've been waiting for so long!
+
+"He won't let me sleep at this rate. Let's just get it done. It shouldn't take long," Liora said.
+
+"Fine, fine. But straight to sleep after that," Cee relented.
+
+Liora withdrew both Renir and the Resonance Crystal from her Inventory. She placed the crystal on the ground while holding the Renir in her beak.
+
+"That Resonance Crystal is very pretty," Cee noted. "Shame I didn't manage to attune the Bracelet of Four Elements…"
+
+"Maybe if he happened to stumble on an easy fire mode. Going out of our way just to charge the bracelet seems a bit much," Liora said as she watched the crystal shimmering beautifully, illuminating the nearby area.
+
+She really, really wanted to keep it. It would be such a beautiful treasure to keep…
+
+"Liora, please," Renir begged, likely having guessed her thoughts.
+
+"Okay, okay! You promise that there's some good stuff in your treasure trove, right?"
+
+"I promise you'll be pleased!" Renir confirmed.
+
+"Let's do this!" Liora announced and pressed Renir against the crystal. Cee ushered Smokey back, who looked at the scene with great interest.
+
+The glow from the Resonance Crystal intensified.
+
+"Let go, Liora!" Renir warned, and Liora released him, taking a step back.
+
+The glow grew more intense by the moment, until Liora couldn't look at it anymore, forced to shut her eyes. There were sounds of disgruntled displeasure coming from Smokey and Cee as they shuffled away from the bright light.
+
+The surrounding air also grew thick with energy. Mana, Liora realized, as the feeling was very familiar to the one she had felt near mana nodes. Some muttering could be heard from Renir as the mana grew thicker and thicker until suddenly it all seemed to stop.
+
+Cracks resounded through the area, and the bright glow disappeared, as well as all of the mana, as if it all had been sucked out of there. Then there was another loud crack and the sound of something breaking.
+
+Liora looked at the scene before her and saw that the Resonance Crystal was gone, nothing but a small pile of crystalline dust left in its place. But more worrisome was the large crack right in the middle of Renir's gem.
+
+"Renir!" Liora stepped closer and saw the crack expanding.
+
+"RENIR!"
+
+Liora feared that the gem would break in half, but just as the crack was expanding, something was rushing to fill the space left behind. Little crystals that grew right before Liora's eyes, expanding and mending the broken gem.
+
+But the cracks didn't stop, spreading more and more through the gem as the crystals rushed to fix it and reshape. Liora felt queasy watching Renir undergo the horrendous process.
+
+Several minutes passed until the last of the cracks subsided and crystals filled in the last of the gaps. What was left behind was completely different from the gem Liora had known.
+
+The gem was much bigger now, the size of a large apple. It wasn't uniform either, with two small protrusions at the bottom and two at the sides, as well as some oddly colored marks in the middle.
+
+"Renir?" Liora called, turning back into her magpie form and gently nudging the gem. She didn't want to break it by using her large, even if Smokey did eye her suspiciously.
+
+A weird noise came from the gem, and the markings began to glow gently. Liora watched intently as they formed two bright orbs. Were those supposed to be eyes? More surprisingly, the little protrusions on the sides moved ever so slightly.
+
+Liora, Cee, and Smokey all backed away from the gem.
+
+"It moved! You saw it too, didn't you, Liora?" Cee shrieked in panic.
+
+"I saw it! I saw it!"
+
+"Don't yell! Everything hurts…" Renir groaned, and the protrusions moved some more.
+
+Liora, Cee, and Smokey watched in horror. The gem was moving, the face on its surface becoming clearer. Why did a gem have a face?
+
+"Renir… do you feel any different at all?" Liora asked cautiously.
+
+"Yeah, I feel like it hurts. The feeling of pain was certainly not something I was eager to get back," Renir noted, the little limbs flailing some more.
+
+Heavy pause descended as they all waited for Renir to come to a realization. The gem still, and then the little limbs wiggled again.
+
+"Wait… I have legs and arms?"
+
+"Kinda…" Liora noted. "Why the hell do you have arms and legs?! And a face!"
+
+"I have a face?!" Renir shouted, wiggling his limbs furiously. "Wait, I can't get up. Can you help?"
+
+Cautiously, Liora hopped over to Renir and gently nudged him to an upright position.
+
+"Wow… this is weird…" He noted.
+
+"You think? What the hell even is this? You're some kind of a gem monster now," Liora said.
+
+"This is seriously weird…" Cee added, and even Smokey seemed to agree, taking a step back.
+
+"This is unprecedented, you know. I certainly didn't expect to become… whatever this is, but it's not so bad. I can walk now!" Renir announced and tried to take a step forward, only to fall to the ground. "Ow…"
+
+"I don't think you can walk quite yet…" Liora said.
+
+"This is too much weirdness for today. Renir is fine, another layer of seal is broken, so we can rest for today and figure out our next steps tomorrow," Cee suggested.
+
+Renir tried to say something, but his voice came out muffled since he was technically lying on his face. Could it be called a face?
+
+Liora nudged him upright again, and Renir said. "I have already worked out that for the next seal we need to perform a ritual. It'll require some rare ingredients, and we'll have to find the book that has it drawn so Cee could draw it with her sigil webs, but it is very doable."
+
+"We've barely broken your current seal. Give us a brief moment to rest," Liora chastised and touched Renir with all the intention of withdrawing him into her Inventory.
+
+But nothing happened.
+
+Liora tried again, but once again was met with no result.
+
+"What are you doing? Why are you poking me?" Renir complained.
+
+"Renir… I… I can't withdraw you into my Inventory."
+
+Another moment of heavy silence.
+
+"Oh no…" Renir groaned.
+
+Liora wanted to scream. Protecting Renir now would be much harder, not to mention that he could be tracked by the Night Order mages. The things just got so much harder, and there were still seven seals left to break.

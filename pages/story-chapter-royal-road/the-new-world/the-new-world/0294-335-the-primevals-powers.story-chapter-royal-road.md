@@ -1,0 +1,183 @@
+---
+id: d7deb080-c0b8-5aac-a14f-07f2b15dfbb6
+page-type-slug: story-chapter-royal-road
+title: "335 The Primevals' Powers"
+slug: 0294-335-the-primevals-powers
+partOf: the-new-world
+position: 294
+ownLength: 4221
+unit: words
+ownProgress: 4221
+publishedAt: 2022-02-23
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/851806/335-the-primevals-powers"
+royalRoadId: "851806"
+markedReadAt: "2026-06-29T21:31:18.114Z"
+---
+
+No fragment of the monsters remained. No limbs, blood, or breath. Only the blue cores hummed beside me, my senses fuzzy and strange. Everything unveiled around me as gravitation or mana, no physical feelings rushing in. Turning my awareness inward, I found no physical body. I existed as my dimensional wake alone, having disintegrated into nothing.
+
+And from nothing, I returned.
+
+My body reconstituted, phasing into existence. I stood among the liquid pit of dead behemoths and primevals. I soaked them in while turning in every direction. Nothing nearby dashed or darted around, so I pocketed seventeen more blue cores. Other monsters in the distance stared at me. From their gazes, fear replaced hunger as their perspective changed.
+
+My fight left a scar over this slice of their ecosystem. It tore entire miles of plant life to nothing, leaving me in an empty patch of cleared kelp. Above, Leviathan beamed down with its radiance. In its glow, I spread my arms and boomed for all to hear.
+
+"I'm the Harbinger of Cataclysm."
+
+Mana crystallized around me, siphoning into a chaotic storm of violence and energy and power. I seethed,
+
+"This is where I'll prove it."
+
+Chapter 335 Begin
+
+My supergolems dashed overhead, each of them vaporizing patches of the algae. Behemoths crashed against them, the giant monsters charging into my supergolems. Each crash added a cacophony of booming echoes while teeth, claws, and bone slammed into runes, metal, and mana. As clouds cleared, my golems showed their worth by purging the behemoths above.
+
+With a patch of the algae-laden sky opened, I let out a warcry. My large body and metal makeup turned my human howl into a metallic roar, one that stretched out for miles. The primeval eldritch stormed over, and they gouged the dirt and our surroundings to attack. I funneled mana through every inch of my body, energy crystals delineating and filling out over me.
+
+They surged with flashes of light before crumbling into powder. The powder charged further, melting to plasmic streams. A miasma of energy floated off of me, responsive to my will like an energetic expansion of my mind. Amassing a large pool of this dense plasma, I reached out my hands and rained singularities in all directions. Incoming primevals vaporized.
+
+From my hands, frenetic explosions expanded. Light and darkness filled the skyline. Surging echoes rained. Dollops of darkness consumed patches of my vision, chaos surrounding me. It all drained into the siphoning quiet. My blood and bones ignited as colossal flows of mana flooded through my body.
+
+The runic marks sizzled and hummed as the sheer volume of energy overwhelmed all in my sight. Whether it was living or dead, it didn't matter. It all fell, the primevals included. They crushed and pulped. They perished in a symphony of darkness and light, and my horizons shattered into fragmented, white ignition points.
+
+It culminated in a kinetic harmony, a sonic wave that vaporized my surroundings. Dozens of massive craters formed in the rainbow bone field below. It was like an angry god scooped out the earth in a fit of rage. Awash in bloodthirst, the primevals darted and rushed around the leftover, hissing destruction.
+
+They flowed over with elemental shockwaves ushering off their bodies. Embodying dozens of elements, they equaled my physical strength but not the will of my mind. Wielding my advantages, I lunged to a knee and primordialized myself. In silent pulse, I sent out a psionic ripple through the unguided mass of opal bones beneath me.
+
+The enormous, ancient consciousness roared out in anger. The fields of shining bones gained life, melding into a fluid mass that writhed and billowed like a shining sea. I peered up as the first primeval arrived. IT was a monster of mana, its plasma engulfing my body.
+
+Pure energy converted matter to a vacuum. Another beast rushed forth. A root mass crawled through my flesh and bones, trying to sap me of life. It planted seeds in my body before a void ice monstrosity froze us both. Encased in the hardened mass, a sonic monster hummed into the capsule and shattered me into tiny fragments. I clattered onto the bones as they gouged each other for my remains.
+
+The butchery continued. The primeval eldritch smothered me from all angles, and I stayed in the mass of enraged bones. Energy amassed below us all, the iridescent remains enraged. This ancient monster pooled planets worth of raw power, the bones shimmering. Above the ticking time bomb, my body disintegrated from a dozen different angles, everything in my sight becoming teeth, stomach, acid, and drool.
+
+I turned into a rippling ocean, my entire being a wave amongst primal forces. Ripped. Torn. Rived. Pulled into pieces and chewed on. Bitten and swallowed. My whole being fueled the hunger of many, my body's energy turning into a culinary delight to the monsters swarming me. They engulfed me in a fury that overwhelmed my senses from all angles.
+
+And yet, I came no closer to death. They feasted on an immortal.
+
+The bone below supercharged into liquid light. I warned my supergolems to hide within their enemies as protection. Below me, the rainbow bones snapped out. A layer of spines wrenched into the primordials like roots from a tree, piercing those below. Those iridescent spines hummed with reality-warping violence. Just before the abyssal below detonated, I recollected my body and thinned it down to the size of a needle.
+
+Flowing out and around the elemental constructs, I rushed above the horde. After a few seconds, an engulfing, absolute, and destructive plume of energy expanded. Radiation erupted, and a gamma burst fired off from the bones. As it passed, it decimated everything it touched. Once more, I hid behind my dimensional shield. Blocking a direct hit, the side burst still made contact.
+
+It wrapped around me, an invisible wave that expunged all life. It stripped and bubbled my skin before scorching my bones. The raw radiation heated every shard of metal that made me. It disintegrated my exposed innards. It cooked my body. My golems fried within opposing behemoths, but those giant flesh shells absorbed most of the radiation.
+
+As the burst of energy passed overhead, Leviathan's radiance beamed down above me. With my surroundings quiet, I pulled my shield down and admired the destruction below. A dozen ancient eldritch died, glittering blue cores sizzling above the opal ossuary. Those orbs cackled and hummed over the eerie silence.
+
+As did three primevals, three different star variants of the primevals remaining. They soaked in the lingering radiation to restore their bodies, becoming whole once more. Before they restored to full force, I reached out with my arms, ripping more singularities through the eldritch masses. They dispersed and refocused on regeneration, giving me valuable time. Slicing through the air, I bolted from blue core to blue core, scooping up dozens in the blink of an eye. I tossed them into my personal dimension like a greedy child pocketing their favorite candy. While I flicked the last core into storage, a star eldritch rejuvenated.
+
+Its form billowed rays of light, each wave like solar flares scattering into the distance. Those light flows expanded over the sky, particles erupting in different colors of light. Aiming itself at me, the primeval fired towards me in a violent, ripping dash. I reacted to it after it happened, the monster faster than my eyes could see.
+
+I stared down, a glowing hole remaining in my chest. The creature whirled around and pulsed through me once more, another gaping chasm forming in my body. It turned into an explosion of light, each pass leaving glowing singe marks through me. Like gleaming swiss cheese, the star eldritch left me impaled from all sides.
+
+I stood, a glowing titan, as shockwaves erupted from each impact. Each collision colored the same shade as the primeval. The red hues molded with the sparked remnants, turning into a fireworks display. The other primevals joined, and the destruction multiplied. Orange and yellow hues culminated with the red, and a vibrant sunset of sparks erupted from me each passing second.
+
+Unperturbed by the onslaught, my body regenerated with absurd vitality, each second containing a millennium's worth of healing. I observed the intensity of the light swarms enveloping me when my eyes allowed it. My death would've been beautiful, at least. As I tried swinging my arms, the primevals ignored my physical attacks. I let out a mental sigh, wondering why I even attempted such a simple solution to such a complex problem.
+
+After all, these monstrosities were more than a handful. I took a second to think and shifted back to the Rise of Eden. Wielding quintessence, I generated a liquid coating of shining, polished metal over myself, and I hoped to reflect the monsters. The lustrous layer left no impact on their piercing attacks, the light creatures impaling through my shields with ease.
+
+Trying a different strategy, I surrounded myself with a dense sphere of lead. The primevals still ignored the shield, but I found a separate utility from my approach; the globe cloaked my movements. While piling the lead high, I psionically wielded this section of rainbow bone. The ancient, unformed mind rumbled beneath me, annoyed but not enraged.
+
+Well, not yet, at least. Wielding the shining landscape, I wrapped a layer of bone over me. The star beasts bounced off the illuminated surface, struggling to pierce the outer layer. I piled the opal shards overhead, and the primevals bounced, thrummed, and pulsed over the shield of shining bones. They couldn't beat me while within here.
+
+Sitting inside the protective bubble, I collected more mana. Planning on a mental onslaught, I shifted to Event Horizon. I filled my refuge with crystallized ascendant mana. Minutes passed, and more layers of bone rushed over me to keep me isolated from my surroundings. I kept piling more and more mana on myself, turning the mana into dense plasma.
+
+The wafting energy compressed down, becoming a writhing liquid of sentience. Using my primordial form, I turned the newly formed, chaotic mana into a thoughtful servant with mind magic. Taking a breath, I opened and closed holes in the rainbow bone shield at random. These tiny pricks allowed only one star beast to enter at a time, ensuring a one on one scenario.
+
+A few minutes passed before one of the star monsters squeezed into this tiny rainbow cave. I shut its exit behind it right as it snapped inside. Once within, the primeval zoomed around inside the bubble, bouncing around from all angles. Cracks ebbed in the rainbow bones as intense forces erupted in the tiny cage. It vaporized me like we lived in a miniature stellar core.
+
+I tolerated the exposure, the mana-lit gloom turning into a fury bright as a blinding sun. I linked with the star beast and wailed at its mind from all directions. In tandem, the mana plasma soaked into the monster. The star beast writhed back with intense, overwhelming waves of psionic strength. It lacked any understanding of what it did, but its mind still carried a primal power.
+
+Supporting my mana minion, I took on those crashing waves of the primeval's conscious. Other minds of mine slammed into the beast with my own psionic strikes. The ascendant plasma kept oozing in, and the star beast lost control over fractions of its body. With each piece that saturated, the primeval lost more and more cognition.
+
+But it died in a blaze of glory. It pounded, howled, and raged like a hurricane. We tore each other apart like three honey badgers locked in a cage. We gouged and gashed and ripped each other apart in a frenzy, but
+
+as the psionic dust settled, we were winning. After a few hours, the primeval beast's control faded.
+
+The monster's ebb and flow of control devolved into the steady descent of this monster's ego. Its orange fury gave way to the chaotic lightning of my ascendant mana. The star beast turned into an ascendant celestial, one controlled by me. Taking a moment to observe, I looked at it while keeping our opal shield intact.
+
+The star eldritch was the same as before, a red sun with waves of energy erupting at all times. However, the hum and crackle of ascendant lightning showed its mental change. It oozed a darker crimson light as well, the beams almost soaking sunshine inwards instead of emanating it. The arcs of electricity even gave the monster an electric charge, and as a final touch, it opened a jaw mirroring my own helm's toothy maw.
+
+Satisfied with the results, I stuck with this capturing technique. I saturated the inner bone bubble with mana once more. After gaining control of another mana blob, I opened other pockets within the bone sphere around us. More minutes passed before I snagged the next star eldritch. With me, the ascendant star beast, and the mana against it, we dog piled the star eldritch and converted it over the next hour. The last and final star eldritch lost its will the same way.
+
+With the three star beasts converted, I pulled the rainbow bones off of us. Our group stood in the only desolate zone for thousands of miles. The kelp grew towards our open patch, but my surviving supergolems wiped out the algae as it returned. Peering around, these moments were precious downtime, so I used them to handle critical business.
+
+I sent my converted star beasts towards the surface, having them assist my super golems with destroying the kelp as it grew closer. At the same time, I needed some peace and quiet to work, so I created an overhang of opal bones before encapsulating myself. Under Leviathan's dimmed radiance and surrounded by dead behemoths, I opened my grimoire and got to work.
+
+And I stared at the pages, a blank sensation coming over me. What was I supposed to work on? Something primordial, surely, but I lacked faith in my current direction of building cities and fighters. While overwhelming under most circumstances, my golems lacked the oomph to survive here. It left me stunned.
+
+On Leviathan-7, my super golems required constant maintenance and guarding to keep alive. Even with my intervention, a quick telepathic check showed just that, a golem's silence meaning a golem's death. I winced at the loss, the time invested in them wasted. They died because the enemies here overwhelmed even me at times.
+
+In fact, each of these eldritch could destroy entire planets on their own if unleashed somewhere normal. To have my soldiers fight back, they needed that kind of world-ending power as well. While considering their next upgrade, I pulled out one shining blue core from storage, which would be the key moving forward.
+
+Inspecting the ball, the perfect sphere mirrored a tiny gas giant with many strata spiraling around it. It was a tiny, electric-blue Jupiter in my palm. It even turned and cycloned like Jupiter, mana storms littering its surface. It reminded me of the energy stored within my mana crystals, but these storms set into inviolable forms. In a sense, they seemed...incorruptible.
+
+As a comparison, mana crystals blew up if a person bumped them wrong. By contrast, the energy in these cores felt like they'd survive the death of stars. Hell, studying these things could help me take my mana manipulation up a notch. That stability could make an excellent foundation for a golem's mind since it reduced the risk of bloodthirsty insanity.
+
+The cores even granted an endless power source, though my golems didn't lack in that department. Those factors culminated until the dungeon hearts looked like perfect golem cores. Etching the cipher on an ever-shifting surface was a problem, however. Taking a step back, I considered my other prospects before continuing my research.
+
+On my arrival to Leviathan, I wanted to establish control of the planet to come back. That was still my number one priority, but other concerns surfaced since I arrived. If I kept brute-forcing my initial goal, I'd just slow myself down. Instead of plowing ahead, I realigned my priorities, which meant studying time magic.
+
+If I gained time magic soon after arriving, I could make the most out of every second afterward. Time spent on learning about time magic might end up being time saved. Another priority would be creating a growing boundary for my cities. A defended zone wouldn't be enough; my claim here needed to be absolute.
+
+Taking a moment to consider those possibilities, I decided to take a risk by learning time magic first. Since I understood this planet to some extent, I also had a good idea of what I needed to do going forward. I thought I'd get a few golems up and running to conquer this place, but that wouldn't work. I'd expand after learning how to compress time.
+
+To that end, I set myself up for success. I made a set of thinking chairs, an obvious necessity. I also installed a workbench with a pile of steel plates beside it. I melted words into the metal slabs, and they recorded details about the dungeon hearts, Leviathan-7, and the weaknesses of certain eldritch.
+
+I also established names for everything here. I kept the terms I used in my head for the most part. The newly spawned eldritch from the sky were called behemoths, and the ones below were primevals. For the kelp overhead, I named it spawn algae, and the rainbow bones kept that name too. I also created divisions for the zones.
+
+The top zone became the void because life thinned to nothing above the spawn algae. The first layer below the algae became the breeding grounds. As for the bottom layer smothered by opalescent skeletons, I named it the ossuary. It held the bones of the dead, so the name fit. After getting everything set up and recorded, I stared around me.
+
+This was, by far, the most comfortable I'd been since I arrived. With information recorded and my priority list squared away, I sat down and contemplated my lessons from Chrona. Based on what Chrona explained to me, time manipulation required grasping at my surroundings and bending space.
+
+I tried that before, and I failed each and every time. These weren't subtle failures either - each attempt was like smashing my face against a metaphorical wall. Having thought about it for a while, I struggled because I was a separate dimension. Since I existed outside of my surrounding space, I played by different rules.
+
+Everyone else, including Chrona, blended into this 'other' surrounding me. This caused some kind of rejection when I attempted to wield time. This resistance mounted more and more as I developed my armor and myself. Every bottleneck I experienced had a familiar culprit behind it.
+
+Me.
+
+I mean, yeah, it's kind of obvious, but it wasn't a limit in my abilities, talent, or understanding. In reality, I'd systematically stifled myself to retain some semblance of humanity. Tapping the edge of my head, I remembered my fighting style and different kinds of magic. Fighting with my fists didn't even make sense anymore, and neither did keeping a human form.
+
+But...I couldn't let it go. I couldn't move on from who I was to who I had to become. All this time, I was afraid of something. I always thought it was of my power and potential, but that wasn't it. It was the absurd changes that bothered me. I had an idea of who I was, but I wasn't that person anymore. I couldn't be that person anymore.
+
+The simple-minded Daniel that beat monsters into submission, it was fun being that guy. Hell, I built a lot of confidence and progress with that persona. I stood by my guns and plowed forward without looking back. I made mistakes, but I did my best to fix them. That was the issue. I couldn't afford to miscalculate anymore.
+
+In my hands rested the lives of billions. A quick squeeze and they'd die.
+
+So...I couldn't live a simple life with simple dreams. Beating monsters apart didn't make a galactic empire great. I needed to be someone else entirely, which I'd made great strides in. I'd amassed the skills to use my abilities, but I never recognized the personal sacrifice required.
+
+I'd never go back to being a child in Springfield with small worries. My concerns would expand and grow. In many ways, I came to a crossroads in life. On one road, I could grow with my worries. On another road, I could watch my anxieties slowly overwhelm me. If they ever did crush me, I'd like to know I put it all on the line with no excuses left. Otherwise, my own guilt would outweigh any burdens I bore.
+
+Because whether I wanted those burdens or not, they would come.
+
+Staring down, the signs of what I changed into manifested in many ways. For instance, I no longer lost my senses when destroyed, even down to a puddle. When Eonoth roared and saved Lehesion from the Spatial Fortress, I uncovered that fact. The Old One created a dimensional wave, one I wasn't a part of. As those timelines collapsed into one, I existed outside of them, so the dimensional ripple smashed me from all sides.
+
+Being mushed and living was one thing, but it hadn't even knocked me unconscious. I remained fully aware without a body. Staring down at my hands, a shiver raced up my spine. No human could do something like that, and the longer I ran away from that reality, the less I could do in the meantime. So taking a moment, I accepted that I wasn't this body anymore. I was the dimensional wake around me more than anything else.
+
+Blegh.
+
+So, to master time, I had to master this...space I'd evolved into. I crossed my legs, placed my hands on my knees, and closed my eyes. I stretched out my primordial wake, the aura enveloping my surroundings with a sense of cognition and control. Going further, I took a breath before pulling my consciousness out of my body, and I responded in kind.
+
+To my chagrin, my awareness trickled out from my physical shell and into the space around me. Despite that subtle expansion, most of my perception lingered in my head, meaning I couldn't escape my physical confines just yet. Meditating on the exercise, I fell into a pattern of reaching out my awareness. With each attempt, I gained greater control up to a point.
+
+Eventually, my brute force approach quit giving me gains. I smiled at myself, remembering how I tackled my way through my early ventures without having to overthink. That wouldn't work here. Taking a more cerebral approach, I tackled the issue from a different angle. I detached from my physical senses, as much as I could, at least.
+
+Touch, sight, and sound all faded into nothing as my psyche floated outwards into the ether around me. Like a fog of consciousness, I dispersed into my dimensional wake. I maintained awareness through my mana and gravitational senses. They didn't come from physical organs or anything, so I kept them even without a physical body.
+
+Those senses gave me a different, strange view of the world around me. Tiny fluxes rippled about while moving objects created subtle shifts in an endless void around me. I interpreted these ripples, converting their esoteric machinations into a more visual understanding. Below, the planet stamped a gravitational blip on this place.
+
+In the distance, the gravity well of Leviathan caved inward to a bottomless pit. It acted as a landmark, easing this visualization process. Gazing at the nulled center, gravity stopped holding meaning near the black hole. By becoming infinite, it stretched beyond the limits of interpretation.
+
+Weird.
+
+Surrounding Leviathan's pit, colossal strands of space rippled out in destructive waves. Sensing below that madness, this planet orbited the black hole at a breakneck pace, traveling on a stretched avenue of space. It mirrored how a satellite orbited the earth. We fell towards Leviathan at an absurd speed, but we also circled faster than we fell despite being in the Event Horizon.
+
+Well, sort of.
+
+The planet traveled a bit slower based on our time's standards. Still, with how stretched time was here, we ended up experiencing that acceleration several times before the outside world experienced it once. If I guessed right, that's how Leviathan-7 was this close yet not within the black hole. However, I wasn't a physicist, so this was my simple observation.
+
+Regardless, this planet was a bullet in an endless vacuum, finding an equilibrium in the utter destruction around us. Back in the physical world, my hulking body stayed stationary and lifeless below. The runes dimmed, and all motion ceased.
+
+I took a moment before trying to rematerialize outside of my actual body. Instead of making a new body, I snapped back into my own shell, giving the husk life once more. As my eyes snapped open, I winced. I suppressed the urge to vomit, and a splitting pain pierced my head. It faded as quickly as it came while I gasped at the surreal experience.
+
+I waved off some lingering motion sickness, and I shook my head before resolving myself once more.
+
+Again.

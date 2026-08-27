@@ -1,0 +1,235 @@
+---
+id: 58634efb-6948-5ddb-b0cf-79e4db621f70
+page-type-slug: story-chapter-royal-road
+title: "74 Corrupted Ruin"
+slug: 0031-74-corrupted-ruin
+partOf: the-new-world
+position: 31
+ownLength: 4920
+unit: words
+ownProgress: 4920
+publishedAt: 2017-11-09
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/173375/74-corrupted-ruin"
+royalRoadId: "173375"
+markedReadAt: "2026-06-29T21:21:49.369Z"
+---
+
+Althea sighed, "At least we'll see them coming."
+
+I nodded, “Keeping it positive. I like that.” I turned towards the edge of the mountains. Unlike the other rift, there wasn’t any obvious barrier. The red sky stretched endlessly, no white tendrils locking it in. The sand dunes stretched up high to the horizon, but we could see the end. It would take maybe a few hours to reach the mountain tops.
+
+The goal was to reach somewhere with food, water, and shelter. Food and water was asking a bit much though. Outside of the immediate short term, the faster gained our skills, the quicker we could leave. With that in mind, I pointed out into the distance, “Can you fly high then check out the nearby area? Once we know what's around, we’ll go from there.”
+
+Althea nodded, flapping her wings before shooting into the air. Her flight was a handy piece of utility, and maybe that was why she didn’t invest into constitution. It gave her a level of mobility I dreamed of. To be fair, I could tank at least 100 times more damage than her, so it was a give and take kind of situation.
+
+She careened into the sky, flying with ease. I took a breath. I didn't remember it being so hard just to breath. With each breath, that difference in density became clearer. I adjusted my breathing along with my rolling my shoulders. A couple pops ran through my back. I swallowed, my ears popping, the kind of pop you get when rolling down the window in a car.
+
+My body weighed into the ground more, my own body pulling me down. My extra constitution and strength minimized the difference between this world and the last, but my perception made the difference obvious. This planet was bigger than earth for one. By how much, maybe a third more gravity. I clapped my hands, wondering if sound traveled differently here. It did. The echo created a visible wave through the air, echoing faster than on earth.
+
+If it wasn’t for my enhanced physique, I’d be breathing in a toxic atmosphere, denser than I could breath. Other planets may have environments too hostile for me. It would be hard to tell until I was there. Even if the atmosphere was corrosive, if it had oxygen, I’d be fine. I learned that during research some research with my obelisk.
+
+I was curious about drowning, wondering what would happen. After all, if it inflicted damage, I might sustain that damage forever. Unfortunately, it worked differently. Drowning inflicted unconsciousness then growing % based true damage. I could sustain through about fifteen minutes without air, all while unconscious and underwater. Someone could resuscitate me during that time, but he true damage would eventually kill me though.
+
+Seeing Althea float upwards, it made me wonder if the air was choking her a bit. She never complained, so I assumed she was fine. With how she drifted through the air, she didn't look like she was in pain. She looked free, circling higher and higher before taking a nosedive downwards. A few seconds later, she landed on my shoulder with her talon laden feet.
+
+“The mountains are farther away than we thought. I flew up longer than I would need to on earth, which means those mountains are really far away.”
+
+I frowned, “Well fuck. Might as well get started.”
+
+She nodded, so I glanced at the sand surrounding us. No life teemed, not even the slightest wink of it. No wind slid through the valley either. Weird as it was, other marks in the sand stuck out more than anything alive. Vast, massive chunks of sand were missing from dunes in the distance. It looked like something took a bite out of the dune.
+
+Those marks scattered about, once every ten or so dunes. It reminded me of the Freedom Fighters incident. More than likely, I could take on any dangers here. That didn't mean I should though. Being more away of my mortality, I kept cautious. I stomped the stone I stood on. Cracks formed underneath my feet, stone splintering up as my foot dug into the rock.
+
+Grabbing a piece of stone the size of my forearm, I stepped forward and tossed the rock with all my might. It flew several dunes away before slamming on top of the sand. Sand erupted from the impact as Althea gripped onto my shoulder to hold on,
+
+“What are you doing?”
+
+My eyes narrowed, “Playing it safe.”
+
+A few seconds later, the ground pulsed. A wave of kinetic energy shook through the sand before a monstrous worm monster flew up and out of the ground. Larger than a football field, it snapped up the stone. Even without Schema’s help, I could tell this thing was over level 2000.
+
+As it passed, the jagged, coarse lining of its throat glistened with clear, crystalline teeth. They lined the monster's maw all the way down our line of sight. They shined red from the light, showing creeping parasites that lived in its throat. These bulbous, deformed, and horrible insects and slugs squirmed on the inside of it. Many of their eyes followed the sight of us, looking for prey.
+
+Unlike the insects, the colossal worm shifted through the sand like birds swimming through the air. It took seconds for it to pass by.
+
+Before it finished, Althea murmured, “Oh…good thing you played it safe.”
+
+I nodded. I needed to cross the desert without touching the sand, so I jumped up, landing on a telekinetic pad I created. Instead of diverting the energy beneath me and into the sand, I shifted it behind me. I made this second panel massive, which gave me enough resistance to stomp onto the first plate.
+
+Using the density of the air to my advantage, each of my steps created a storm's worth of wind as I bounced forward. My feet snapped off the telekinetic planes, letting me bounce across the air. If I kept up with this level of stomping though, I would run into the sand eventually. I needed to stay up and off the sand without touching it, otherwise I'd be worm's food.
+
+To keep it up, I stomped on the pads with my ascendant mana coursing through my runes. Without the enhanced strength, I couldn’t keep up with the task. Creating new pads, each reinforced and stable enough to hold my stomping weight turned something that should be easy and turned it into something hard. The extra weight amplified the complexity of it. I adjusted to this soon enough, but the enormity of the task came down on me after a while.
+
+Strengthening the panels for my stomping took a toll on me. For some damn reason, Althea freeloaded on my shoulders too, which sucked pretty bad after a few kilometers into the run. Her stamina wasn't like mine though, so reserving some strength was probably a good idea. Doesn't mean I wasn't a bit sour over the whole thing.
+
+Once I got over myself, I learned that making a panel too strong wasted effort and mana. Making it just tough enough made the task much easier. Learning this required a bit of trial and error though. After reducing the strength by tiny smidgens for a while, I snapped through a plate. Before falling into the sand, I created another panel to prop myself back up with.
+
+I stomped into the plate, struggling to keep myself from falling into the sand. Althea swung her wings, pulling me back upright. Once stable, I strengthened the panels a bit before heading out on my merry way. The only reason I even tried that was because Althea offered a safety net. As I got used to measuring the strength of the panels, it got easier and easier.
+
+By the time the mountain grew in my vision, I was a certified pro at it. Glad to be near it, the immense mountain covered most of my vision by then. The whistling of wind glided across the top of the mountain. It looked like all the wind blew up high, near the top of the mountain. That explained why I saw bite marks on all the dunes.
+
+Around the peak, a group of decaying birds flew across the sky, riding that wind. Metallic plates helmeted their heads, like their beaks never stopped growing and eventually covered them. Black drool leaked from their mouths, and a black aura radiated off their talons eyes. Black miasma created umbral contrails behind them, like black smoke that faded. As they flapped their molting wings, pieces of flesh and skin falling from them. Beneath the flesh, tumors grew.
+
+They cawed at us, flashing their talons towards us. We had a few seconds to watch them dive towards us. When the group slammed into us, I side stepped them while shot off my shoulder. When she met them, Althea ripped them apart with her own talons.
+
+Her strength in her form shook the enemies to their cores. Each swipe held a certain intention, like something changed in her. She used to just flay her arms around, more to get someone away from her than to kill them. These new strikes, while wild and inefficient, where loaded with a vitality and frenzy in them. With her absurd strength, she sundered the monsters apart.
+
+As she slaughtered them, I bounced back and forth on my telekinetic pads while catching and consuming the corpses. On the last bird, one of my panels snapped. I gyrated in the air before flopping onto the sand. I pushed myself up, running forward and snatching up the falling corpse of the bird. After my armor absorbed it, I sprinted forward towards the mountain.
+
+Althea flew above me, so I ran up to the top of a sand dune before leaping. Once flying, she gripped her claws into my shoulders. I stomped my feet into telekinetic pads, going upwards. Beneath us, a wave shifted through the sand. We rose higher and higher, the rumbling surging beneath us. The vibration of the rumbling shook my hands it was so violent. A growl like thunder roared beneath us, a sickening gurgle following. We needed to hurry.
+
+Changing tactics, I let the force smash of the telekinetic pads smash into my shoulders and stomach instead of the wind. The blows hurt like kicking a cinderblock with your toe. Not bad with my pain resistance, but it ate into my health. After a few more stomps, an entire dune exploded out from beneath us. Panicking a bit, I smashed my feet into the pads, spurring me forward. The new feeling was more like kicking a cinderblock and peeling your toenail back during the process.
+
+Thank Schema for pain resistance. Panicking a bit herself, Althea flapped her wings with a burst of effort, letting me speed up just a pinch more. The worm reached us. With teeth the size of trees, the mountainous mouth clamped shut. The wind off its bite blew on my back as it bit through one of my feet. Several of its teeth cracked, but my leg tore off like biting through aluminum foil. With its prize in its mouth, it dived back into the sand.
+
+The shrieking of shredding metal ebbed from its insides, like a trash compacter crushing a car as disappeared. I hobbled forward on my telekinetic pads, struggling for a minute as my foot regenerated. Once my leg was back, I returned to jogging. I sighed with Althea, giving her a much-needed rest. I moment later, I lifted an arm up,
+
+“Thanks. You saved my ass there.”
+
+She clapped my hand with a talon foot, laughing at the absurdity of it all,
+
+“Yeah, I didn’t think they were that dangerous. They’re a lot bigger up close.”
+
+I shook my head, “Hell yeah they are. Those worms must be level 3000. Hard to say. No wonder Yawm and his followers aren’t coming close to them. They’re ridiculous.”
+
+She nodded, looking up at the mountain, “Let’s hope the other monsters aren’t as dangerous.”
+
+I agreed before we fell back into the smooth motion of running on the wind. Once over the mountain, Althea jumped off my shoulders and glided beside me. I turned to her, “Why did you make me carry you?”
+
+A bit of shame in her voice, she murmured, “My stamina can’t keep up with flying. It's fun but exhausting.”
+
+I nodded my head. She didn’t have the regeneration stats that I did, including stamina regeneration. That was something I took for granted often. Because of my endurance and the determinator tree, my stamina had never been and likely never would be a problem. Sometimes I felt the tug of exhaustion, but it never lingered for any meaningful length of time. Combine that with my high willpower, and I moved like a machine.
+
+That may be what alienated Althea from me for so long. I kind of enjoy the thrill of fighting. She struggled finding any real reason too. Up till meeting us, her life was either being in a lab or bounty hunting. Battling twenty-four seven wasn't much better. Thinking back on it, the way we met and the lifestyle she had led up till that point was unbelievably hard. It must have sent her spiraling into depression.
+
+I already knew about all the good stuff outside of the drudgery of Schema. Althea though, she didn’t.
+
+A pang of guilt rippled through me. If I handled us meeting better, maybe even treated her with a bit more humanity, she’d be doing better. Not just more powerful, but happier and more content as well. I may could have saved Michael and Kelsey too if I gave it my all. The problem is, I would never know now. It was regret, and regrets have a way of growing with time. Maybe I wouldn't have heard that voice a while back either if I just thought things through more.
+
+Those thoughts left a bitter taste in my mouth, so I vowed to think things through a bit more before acting. I may end up with better results with whatever I was doing, for me and whoever I was in contact with. Who knows, I might not end up falling into another eldritch's trap again either. Preserving my humanity was a plus too.
+
+No matter how humane I acted in this rift, I doubt any of that would be given in turn though. We reached the mountain, landing on the hard stone with loud cracks. Althea's feet turned normal, her wings returning to arms. Since we met, those abilities turned from monstrous abominations into fully formed, working limbs. It looked like she studied the anatomy of birds and applied it to herself, making the transformations elegant and natural.
+
+This newfound care amplified her skills as well. Making full use of those powers, Althea amplified her hearing as we walked towards the mountain. Her ears grew longer, twitching at slight sounds. As she glanced around, she looked like a blueish gray elf.
+
+She led the way up the mountain. As we moved up the pile of brown rock, features popped up. Hidden crevices lined the mountain, each of them covered in something clear like glass. All of them angled towards the inside of the mountain. The uniform formation drew our interest, so we checked it out.
+
+Althea and I crawled into one of the caverns without a glass pane over it. Along the walls of these crevices, sharp, clear crystals lined the rugged rock. Once we walked into the mountain, Althea kept clear of them, worried of nicking her clothes. No doubt we'd be here for a while, so whatever she broke, she'd have to live with. On the other hand, I just let them scrape me. The glassy stuff broke against my armor.
+
+Once we neared the end of the tunnel, I was surprised at how well-lit it still was. The light never waned, no matter how deep we went. Once near the end of the tunnel, Althea and I peeked our heads through the narrow entrance. Althea scooted closer to me than she needed to, but I didn’t mind. I was too busy seeing the inside of the cavern.
+
+Unlike the dilapidated ruins of the last eldritch cavern, this was a grand city. A cavern, miles long and wide, situated itself within the hollow mountain. Beams of light leaked in from crevices all along the walls and roof of the cavern. A realization popped in my head. The spikey crystals lining the tunnels refracted light, bending it into the mountain from outside.
+
+Some of these beams met into other crystals in rivers and waterfalls flowing inside the city. From those sky-blue shards, a light blue beamed. Above the ruins and roadways tracing the city, lanterns of orange hovered. Within them, orange opals hummed a quiet sound. Combined with the gentle humming of the water's flow, and the city calmed me.
+
+The buildings crushed that peaceful atmosphere though. They were built along a hill at the center of the hollow mountain. These buildings were warped in strange ways, doorways and staircases facing unnatural directions. Upside down, sideways, there wasn't any rhyme or reason too it.
+
+Other houses were disfigured, stretched into wild shapes, like some nightmare given life. The pleasant sound of gems buzzing and water flowing took on an eerie tone because of this. It contrasted the ominous, empty buildings, like opera music blaring during a gory murder. The dissonance unnerved me, but it did worse to Althea. A bead of sweat fell from Althea's brow.
+
+I wouldn't let a chill running up my spine stop me though, so I paced forward into the unknown. As I neared the city, I found bridges and walkways sprawled across the village. Using them, I passed a river before nearing the closest building. I glanced into the building, no doors or windows on it. Like the other rundown ruins, it was just plain rock with walls and a roof. You could hardly call them houses really.
+
+Within the near empty buildings, markings and runes were etched into the walls, roof, and floors. While somewhat like the runic language of magic, these letters grated me more. They didn't seem smooth and easy to understand. Instead, the chaotic inscriptions felt beyond me. It was like staring at complex, mathematical algorithms. It all just jumbled together.
+
+Intent on discovering what they did, I stepped into one of the buildings. The difference was palpable. It wasn’t like stepping into a room with enchantments or effects. No, it was like stepping into a different eldritch rift. The air surrounding me decompressed as the air pressure lightened. My feet lightened. Hell, the air lightened. Inside this tiny ass building, gravity was different. I waved Althea over,
+
+“You got to try this.”
+
+She glanced around, looking nervous, “I don’t know Daniel. This seems dangerous.”
+
+I rolled my eyes, “Everything here is dangerous. Might as well have some fun while we’re at it.”
+
+She pursed her lips, walking up to the doorway. She glanced towards one of the beams of light, “It’s pretty.”
+
+I walked over and pulled her by the hand into the room. She breathed in, gasping at the sudden shift. She looked around,
+
+“How….” She turned to me, “What in Schema’s name is going on?”
+
+I shrugged, “Don’t know, but it’s cool, isn’t it?”
+
+She nodded, a wide grin on her lips. I walked over towards a square patch of the wall covered in runes. Glancing closer, they seemed familiar. I couldn’t pin the similarity down though. I studied them while Althea hopped around, toying around with the shift in basic physics. I snapped my fingers,
+
+“None of the letters are the same. On them are two different sets of layering, one for the curvature of the letter and another for the indentation…These are like Baldag-Ruhl’s runes, the ones he used to tear open dimensions.”
+
+Althea turned to me, giggling as she moved her hand in and out of the building, “So what?”
+
+I narrowed my eyes, “So that means these runes are causing the crazy shift we’re feeling.”
+
+She turned to me, “Really? Those runes are doing all that?”
+
+I nodded, “If you think about it, the runes for magic can cause massive changes in how something works. Who’s to say there isn’t a set of runes for something, uh…” I scratched my head, “Something weird like this.”
+
+She frowned, “Want to explore the other buildings?”
+
+I stood up, turning to her, “Hell yeah.”
+
+We paced out of the room, gravity pulling harder once we left. We walked towards the next building over. Within it, something even odder happened. Time slowed. The sensation was strange and distant. All of the sudden, my thoughts went way faster than my movement. It gave a sort of trapping sensation, like I didn’t have control of my body anymore.
+
+After glancing at the runes in that room for a bit, I turned to Althea behind me, “What do you think?”
+
+As I spoke, my voice sounded much deeper. Althea busted out into laughter, but her voice deepened as well. I cracked up too, laughing my ass off at her gorilla voice.
+
+I clapped my hands together, deepening my voice, “I am the evil lord Baldowah.”
+
+The ludicrous voice made a nice combo with my waving fingers.
+
+“Beware, little girl. I’ll destroy everything, even Torix’s bad habit of overly elaborate explanations!”
+
+We laughed for a while before getting out of the room. From there, we explored many rooms. Some of them were fun and interesting. Some of them contorted reality a bit too much for Althea's liking. For some reason, these places didn’t affect me, but they sent Althea reeling, like some drug induced stupor. Whenever I concentrated at the runes within these faulty areas, subtle inconsistencies formed.
+
+I still couldn’t quite get it, but the runes felt off compared with the other, more stable room's runes. The lines of them were too smooth, not structured enough. That lack of structure bled into the runes effects. After interrogating Althea about it, she explained that in some rooms the gravity and time shifts were consistent throughout. The rooms with messed up runes had crazy fluctuations from one part of the room to the next. It made the whole experience nauseating for her.
+
+Unlike her, the runes didn’t affect me unless they were pristine and perfect. My guess was that it stemmed form my immunity to corruption. The messed up runes corrupted the area. Flawless runes changed the area. It was like the runes were code for a computer. If you messed up even the smallest thing, you'd get all kinds of errors. Due to my immunity to corruption, the code I was made of wouldn't process those errors. I ignored them entirely.
+
+I got the immunity to corruption a long time ago though, even before getting my armor. Considering Baldag-Ruhl made the armor with these runes, it affecting me meant this armor was perfect. Even though the incantation was massive, he made no mistakes. That bug man was smart as fuck apparently.
+
+Those thoughts tumbled in my brain as we explored the rest of the ruins. Most of the buildings were messed up, but Althea still had a lot of fun despite that. She lowered her guard for a change, enjoying unique sensation each room offered. I couldn’t blame her. It reminded me of going to a carnival and looking through a house of mirrors. Odd and strange, but a little bit captivating nonetheless.
+
+Once we finished moving through the rooms, something like night time came through the room. The beams of light waned, and the orange lamps dimmed. The beams of light lessened. She and I enjoyed a dinner together, each of us chatting about the ridiculous rooms and new world. We ended the conversation when Althea Yawned.
+
+Once she was asleep, I kept guard. I’m sure it made her feel better about the whole being in a different world thing. Once she soundly slept, I went into one of the corrupted rooms and studied the runes. So far, I only studied the perfect runes of Baldag-Ruhl in detail. While they gave a good idea of the finished product, I couldn’t tell what got them there. It was like looking at a finished building. I couldn't tell how it was made from start to finish, just like I couldn’t see how the perfect runes were created.
+
+The messed up runes, however, were full of holes to see into. With that in mind, I found two rooms with similar enchantments, one perfect and the other corrupted. They both warped gravity, but one of them, according to Althea, felt like walking on hills even on the flat ground. The gravity was that inconsistent. These two rooms were the base of my learning.
+
+I took pictures of each room with my obelisk. After that, I analyzed the differences in the languages. I went back and forth between each of the rooms, deciphering what I could. After four hours of the searching for the peculiarities of each room, I made my breakthrough. I discovered a key fact about their similarities.
+
+There were none.
+
+I mean no exact similarities between the two. Some of the symbols were almost identical, but a few notches made a decisive difference. Anytime I attempted replicating them, all I got were duds. After another two hours, I gained a bit of understanding about them.
+
+It seemed like two similar codes, just interpreted differently. One person was giving their take on the language, and the other a different take entirely. That meant none of the runes worked unless you wrote them through the same perspective as the person who wrote it. In order for the runes to work, they needed a consistent way of looking at the world. Otherwise, the inconsistent and incomplete world view made inconsistent and incomplete runes.
+
+It made some sense. Magic runes required mana to fuel their enchantments. They structured the use of magic, giving it a specific purpose and form. These runes didn't bend magic. They seemed to bend the very fabric of reality, allowing for insane creations like these rooms. Someone would need a solid, fleshed out understanding of reality before they could tamper with it.
+
+Since most of these runes lacked that, they resulted in unfinished incantations. Not only did the runes have to be accurate and precise, they needed a concrete view behind them. It was like visualizing a building before making it. I needed to have something in mind before I went off and made a building. Otherwise, the building would fail in a spectacular fashion. These runes mirrored that.
+
+For me, I considered this realization a breakthrough. So far, copying and repetition failed as learning methods. Instead, I would try to get an idea of the runes by carving out my own runes. I would use these other sets as references, but I wouldn’t copy them anymore.
+
+That’s what I did for the rest of the night. Carve, carve, then carve more, I found an empty spot of wall and etched until my hand should have fallen the fuck off. Each time, I tried to make the runes echo my own thoughts and beliefs more. These eldritch runes would allow it. The magic runes allowed echoes to form of memories and thoughts. With the eldritch runes, I could make the memories and thoughts real.
+
+At least that was the working theory. As consumed as I was with the process, I didn’t even notice Althea sneaking up on me. When she slapped her hand on my shoulder, I flinched.
+
+She giggled a bit, “What are you doing?”
+
+I turned to her, then back to my runes, “Trying to learn the runes better.”
+
+She raised an eyebrow, “Looks more like you’re trying to imitate a crazy person.”
+
+I cupped my chin, “Maybe that would work. I can’t tell right now.”
+
+She took a few paces back, “Aren’t you supposed to be learning gravity magic?”
+
+I facepalmed, “Ahh, yeah, I am. Fuck.” I glanced around, “What about doing the training here? We don’t have any extra food, but we have shelter and maybe water further down the line. Seems good enough.”
+
+She shrugged, “Seems pretty decent.” She glanced outside for a second, “Perfect actually.”
+
+A grin slid up her lips, so I replied, “How so?”
+
+She sprouted wings before flapping towards one of the exits, “I have to learn stealth. If I could fool the sandworms, then maybe I’ll get a unique skill and finish my mythical one.”
+
+I nodded, “Having houses with different gravities is perfect for me too. Makes feeling the difference between gravities simple. We’ll set up shop here then. I have about three month’s worth of food. You?”
+
+She landed on one of the crevices, her voice echoing through the cavern, “About two months. We should have about three if we can, I don’t know, filter the water or something.”
+
+I already had a perk making me immune to disease, so we probably had at least 4 months total. I nodded before heading back up to the gravity houses. That’s when I set a schedule. During the mornings, I’d practice feeling gravity. During the evenings, I’d practice the runes. As I reached inside the house, I grit my teeth and clenched my teeth. I was in this for the long haul.
+
+It was time to dig deep.

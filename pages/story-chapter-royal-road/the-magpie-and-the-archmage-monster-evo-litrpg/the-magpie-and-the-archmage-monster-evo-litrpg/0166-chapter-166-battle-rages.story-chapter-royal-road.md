@@ -1,0 +1,163 @@
+---
+id: aed56d6d-c2db-5b48-92b9-f30d131350bf
+page-type-slug: story-chapter-royal-road
+title: "Chapter 166 – Battle Rages"
+slug: 0166-chapter-166-battle-rages
+partOf: the-magpie-and-the-archmage-monster-evo-litrpg
+position: 166
+ownLength: 1989
+unit: words
+publishedAt: 2026-08-22
+link: "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3846826/chapter-166-battle-rages"
+royalRoadId: "3846826"
+---
+
+The giant desert shark let out a loud grumbling noise. So loud in fact that the sand around it was vibrating. No, not just vibrating, it was moving upward.
+
+"That shark can control the sand. Be careful, Liora!" Renir called.
+
+A moment later, a burst of sand shot straight at Liora. Liora dodged it and flew upwards. The sand followed, occasionally lashing out, in an attempt to strike at her faster. But Liora was too quick, too nimble. Her Aerial Agility was at Legend level after all. There was nothing in the sky faster than her.
+
+Curiously enough, at some point, the sand stopped chasing her. It was like it couldn't move up past a certain altitude. Or perhaps that was simply the range of the desert shark's skill.
+
+"It appears I'll be safe at this distance," Liora noted.
+
+"Yeah, but now it's moving towards the oasis again. You need to distract it so Cee can set up as many webs as possible. Without them, there is no chance that we could defeat a monster as powerful as this one," Renir said.
+
+"But my attack didn't do anything," Liora muttered. She had really hoped to do some serious damage with Meteor Impact. It was her strongest move. But it hadn't done anything.
+
+"It wasn't that it didn't do anything. The shark just protected itself in time. You need to find an opening when it is not using its sand as a shield."
+
+"Oh, and how do I do that? Just fly up to it and ask nicely. Hey, Mrs. Shark, I want to kill you, so could you please lower your sand shield? Thank you!" Liora quipped.
+
+"No need to get so sassy! Try to combine your Meteor Impact with Air Slash. If your attack gains the wind attribute, then you might be able to break through the sand shield."
+
+"You'd better be right about this!"
+
+The Shark Matriarch began to lower itself back into the dunes, so Liora had no choice but to strike. She tried to imagine what a combined Meteor Impact and Air Slash could look like. How it could behave. But she couldn't imagine it.
+
+Air Slash required her wings to attack, but Meteor Impact utilized her beak. The fact that one was a ranged attack and one a close-combat one wasn't helping either.
+
+"I can't imagine it!" Liora screeched during her descent and, in the end, struck with just a regular Meteor Impact.
+
+Just like the first time, sand rushed to cushion the blow and protect the giant monster. Could the monster really sense Liora so well, or was it an automatic protective trait?
+
+The sand then rushed at Liora, trying to surround her, but she flew up to avoid it. It was persistent, chasing Liora until she was out of range again.
+
+"It's useless! I need to try something else," Liora huffed.
+
+She wanted to try Air Slash, but at this distance, the spell would lose its power before it could even reach the giant shark. Getting closer without an aerial dive would be extremely difficult, since the shark had been alerted to her presence.
+
+Although it clearly didn't regard Liora as a real opponent, it continued on its way to the oasis. As if Liora were nothing more than an annoying mosquito. Liora took offense to that! She would show this oversized fish exactly what she was capable of.
+
+Liora activated Decoy Fade and allowed her decoy image to remain where it was, hovering high in the air. Meanwhile, the real Liora flew down towards the desert shark matriarch. It appeared none the wiser about her approach, so when Liora got close enough, she unleashed Air Slash straight at the monster's fin.
+
+To her surprise, the attack actually did damage. There was a noticeable gash where Air Slash had struck, and the shark bellowed in pain and rage, sending sand flying everywhere.
+
+Liora avoided the sand and used her invisibility to get closer to the giant shark's head, launching an Air Slash straight at it. Sand rushed to protect her, but it appeared to be unable to repel wind-based attacks, so Air Slash went through and left a scratch on her head.
+
+But obviously, this kind of damage was the human equivalent of getting a papercut. Annoying, but not actually dangerous. Even if Liora did a hundred such slashes, it would hardly do anything to the shark. But it had abandoned its advance to the oasis.
+
+Liora flew to the back of the shark, using the last precious moments while her Decoy Fade was still activated, and launched as many Air Slashes at the shark as she could. As soon as Liora was visible again, the giant shark locked onto her and let out an angry growl.
+
+Sand launched up at Liora in a giant wave. If previously it felt like the shark was just lazily swatting at Liora to get her away, this time it intended to kill her. Her speed was enough to outmaneuver the giant waves of sand closing in on her.
+
+So Liora activated the Aegis Cyclone and flew up. The sand was blown every which way, unable to get through Liora's protective barrier. But the huge amount of sand, her mana was being drained at an alarming rate. By the time she got out of the shark's range, her mana was almost depleted.
+
+[Status]
+
+Health: Healthy
+
+Mana: Trickling
+
+"Great… I'm basically out of mana. Now what?" Liora grumbled.
+
+"The shark is still focused on you. Just stay up here, let it rage. You're still buying time by doing that. It'll give you a moment to recover mana as well."
+
+While it was a bit frustrating, just hovering in the air and watching the shark rage, it turned out to be a very effective strategy. It was extremely pissed, throwing sand and growling and doing everything it could to get to Liora. But it didn't matter how large the shark was. It couldn't fly.
+
+[Your trait <Prismfeather Mantle> has reached [Novice] level.]
+
+"Oh, nice! Prismfeather Mantle leveled up. More mana recovery," Liora cheered.
+
+[Status]
+
+Health: Healthy
+
+Mana: Steady
+
+"Should I hit that thing a few more times? It looks like it's about to calm down," Liora asked.
+
+"Where is Cee?" Renir questioned.
+
+Liora looked towards the oasis, searching for her spider friend. She was jumping from tree to tree, making some sort of web barrier between them. It didn't look like she was ready, so Liora employed the same strategy as before.
+
+Decoy Fade, Air Slash to annoy the shark, then retreat to safety in the high skies. This time, she retreated right away instead of waiting for Decoy Fade to run out. She didn't want to use too much mana, but instead gave it time to recover.
+
+The shark raged again, sand shooting high up into the air as it once again focused on Liora. It appeared that large size didn't equal greater intelligence. The overgrown beast raged for a good long while before it settled down again, resuming its way to the oasis.
+
+"Cee should be ready by now, shouldn't she?" Liora asked.
+
+"I think so. Let's follow the shark and see what happens from above. We'll act depending on what happens. You'll likely have to draw away the attention of mother shark," Renir said.
+
+Liora nodded, following the shark from above. She watched with anticipation, waiting for one of Cee's traps to trigger.
+
+The shark matriarch dove under the sand, likely thinking that she was being slick, but her advance was stopped as her fin caught onto Cee's patented magma webs. No, wait. It wasn't just magma webs. They were crackling ever so slightly, signaling that these were, in fact, magma electric webs.
+
+Sand swirled around the webs, a clear attempt to remove them, but the webs just slid through and kept clinging to the shark's skin. Liora was about to cheer when she noticed that the shark continued its advances. Was it not bothered by the heat? Its movements haven't slowed down either. Liora would have expected it to be paralyzed.
+
+"It appears that it has high resistance to both fire and electricity," Renir said.
+
+"Should I draw it back so Cee has time to set up different webs?" Liora asked.
+
+"I doubt she would have prepared only a single type of web."
+
+Just as he said that, the head of the shark came into contact with an ice web. Was it just an ice web? Liora couldn't tell from a glance whether it had a secondary attribute.
+
+The important thing was that the shark didn't like them. It began thrashing violently, sand going everywhere. This quickly reduced the visibility to zero, so Liora couldn't even see what was going on around the oasis. It was just a giant sand cloud and lots of angry growling.
+
+Smokey's squeak resounded at one point, and Liora was worried that the poor little wyvern might have gotten caught up in the whole mess. But it was impossible to see anything.
+
+"Is it possible it's making it difficult to see on purpose?" Liora asked.
+
+"Without a doubt. Sharks have other ways of detecting their prey. Vibrations, for example. It is to the shark's advantage for everything to remain covered in sand."
+
+Liora felt frustration bubbling within her. What was she supposed to do in this scenario? She couldn't just fly in there blindly and hope to do some damage to the shark. She might even get tangled up in Cee's webs.
+
+Suddenly, Cee jumped out of a sand cloud with Smokey following closely behind her. The spider noticed Liora and quickly waved with her front legs. Was she trying to tell her something?
+
+"Follow me?" Liora guessed.
+
+"I think so," Renir said.
+
+Liora followed the spider from above, while Cee jumped some distance away from the oasis, Smokey doing his best to keep up with her.
+
+The shark matriarch followed shortly after, emerging from the sand cloud and then diving into a dune. Its body was partially covered with Cee's icy web, and it looked like it was doing some damage. The skin underneath had become white, and some of its scales were flaking off.
+
+Soon, Cee reached a particular spot in the sand that seemed to encompass a large circle. It was difficult to see, but obviously Liora could spot it. The raging shark likely would not. Whatever Cee had prepared would be a perfect opportunity for a strike.
+
+"Renir, can you give Meteor Impact the wind attribute?" Liora asked.
+
+"I can, but it'll take all of my mana," Renir said.
+
+"Do it!" Liora commanded as she watched the shark enter Cee's prepared trap.
+
+BOOM!
+
+The shark matriarch was hit with a powerful, giant blast of Mana Overcharge. The sand around it was acting erratically as it tried to guide to a more vulnerable spot for protection.
+
+BOOM. BOOM. BOOM!
+
+A chain reaction was triggered, surrounding and striking the giant monster again and again at different angles. It appeared that Cee had worked really hard with her traps. They could win this.
+
+Liora dove down at the shark as Renir chanted some kind of incantation. She was aiming for the head at a particular spot where more of the shark's scales had peeled off, revealing the raw flesh underneath.
+
+We can do it!
+
+It was a direct hit. The shark bellowed in agony. They were actually doing damage to this thing. They could defeat it, they could—
+
+An explosive burst of scorching hot sand surrounded the shark, striking Liora and everything else in the near vicinity. She hurriedly activated her Aegis Cyclone for protection, but the attack was so powerful that some of the larger grains of sand were getting through her shield.
+
+While they were minuscule, they were incredibly hot and painful.
+
+"Get out of here, Liora!" Renir yelled, but with each grain that hit Liora, she could feel a portion of her health sap away.

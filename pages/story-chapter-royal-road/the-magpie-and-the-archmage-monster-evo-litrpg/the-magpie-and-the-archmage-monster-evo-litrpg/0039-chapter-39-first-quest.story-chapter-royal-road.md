@@ -1,0 +1,207 @@
+---
+id: 38184855-7373-5569-a630-7666b0a0bcc6
+page-type-slug: story-chapter-royal-road
+title: "Chapter 39 – First Quest"
+slug: 0039-chapter-39-first-quest
+partOf: the-magpie-and-the-archmage-monster-evo-litrpg
+position: 39
+ownLength: 2138
+unit: words
+publishedAt: 2025-10-25
+link: "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2703226/chapter-39-first-quest"
+royalRoadId: "2703226"
+---
+
+I should warn them about those guards.
+
+How exactly?
+
+Liora didn't know exactly how, but she decided to try at least. She flew back to the stables and knocked on the entrance door with her beak. Serena looked at her.
+
+"What is it, Skye?"
+
+Liora circled in the air a few times, let out warning caws, and fluttered in the direction of the main building.
+
+"You think this is about those guards?" Kiva asked.
+
+"It must be," Serena agreed.
+
+"Stay calm, Kalen!" Kiva said sternly.
+
+"Why are you telling me?"
+
+"Because you're the jumpiest here. Don't say anything, let them do their search and act like you know nothing." Kiva poked his shoulder.
+
+"Yes, let me handle the talking," Serena agreed.
+
+Before long, a few ironclad guards came in the direction of the stables and ordered the trio to come out. Liora observed the scene from a nearby tree. There was no way she was showing herself to them.
+
+"Empty your Inventory!" One of the guards ordered sternly, stretching out some sort of weird stone towards them.
+
+They obeyed, touching the stone. The moment they did, all the things in their Inventory were forcibly pulled out, making them wince in displeasure at the forceful gesture. Their meager camping equipment, a few spare clothes, and some leftover venison were all sprawled on the ground. They really didn't have much to their name.
+
+"Is that it?" The other guard asked in disbelief.
+
+"They're Commons. What did you expect?" The other one scoffed.
+
+Kalen gritted his teeth at this proclamation, but didn't say anything.
+
+What is Commons? It feels like they used it as a slur.
+
+Coming from their mouth, it was likely intended as a slur. Commons are the people who aren't part of the order—usually newbie adventurers, farmers, craftsmen. You know, the simple folk. Although these guys are probably lower Elite, not the high Elite like the Lord that you robbed.
+
+Are there lower and higher elites? Geez! Talk about the segregation of society.
+
+It keeps everything in order.
+
+Keeps everyone in control, you mean.
+
+A few minutes later, the guards had gone through all of their belongings and concluded that they indeed didn't possess a pass. They gave a last appraising look, as if they didn't want to accept that they found nothing. But in the end, they were left to pester other adventurers.
+
+Liora, having seen that her companions were alright, flew out into the city. The stir was quite huge. More ironclad guards were searching seemingly every corner for the possible thief. She couldn't help but laugh that the actual thief was flying right above their heads.
+
+I think it is safe to say that they will not find out who stole the pass.
+
+Stay vigilant. Elites do not give up until they have achieved what they want.
+
+Liora wasn't really worried. Everyone had already been searched. What else could they do? Even with Liora on their shoulder, they already confirmed they don't have a pass. And nobody would think that a bird could possess an Inventory.
+
+After watching the ironclad guards go on a few more rampages, Liora decided to return to the stables. Her Treasure Sense was going crazy again, making it difficult for her to keep her talons to herself.
+
+Morning came early. Apparently, sleeping in the stables wasn't too comfortable for humans or weaselkin. Especially weaselkin. Kiva was constantly whining about the smell, even after they had cleaned everything. So they were up in the early morning, eating the last remains of their venison in the Guild Hall.
+
+"So what kind of quest do you think we should take?" Kalen asked.
+
+"Something with a good reward," Kiva said excitedly.
+
+"We'll start with something simple we can complete today to complete our registration," Serena said as she cut the venison into tiny pieces and presented it to Liora.
+
+"Okay…" Kiva said. "But we have to pick up a quest with a good reward afterward."
+
+"Yeah, we can't exactly hunt in the city…" Kalen nodded.
+
+"First, we worry about the roof over our heads, then the food. Does that sound good? Perhaps, we can hunt something in a dungeon," Serena said.
+
+"I wonder what dungeons are like," Kalen said.
+
+"I heard they're giant mazes filled with monsters, traps, and treasure," Kiva explained.
+
+Laughter resounded from a nearby table, and they turned to look at the source. It was a pair of adventurers, two rugged men with scars all over their arms and faces.
+
+"It's always funny to see newbies excited about their first dungeon," one of them said, taking a sip of beer.
+
+In Liora's opinion, it was far too early to be getting drunk.
+
+"What's wrong with that?" Kalen asked.
+
+The men laughed in response again, then one of them leaned closer, his expression turning stern. "Boy, if you treat it like some game, the only one making it out alive will be the bird. Never underestimate a dungeon, not even a beginner dungeon like the one in Cyene. Especially when you don't have proper equipment to protect yourself."
+
+The adventurers sneered at Kalen's armor, which was rusted in places, and Serena's patchy robes. Liora had the urge to peck them, but Kiva beat her to the punch.
+
+"Mind your own business!" The weasel hissed.
+
+Talk about buzzkill.
+
+He is right, though. You've faced monsters on Blightpeak, and you wouldn't say that it was fun, would you?
+
+No! Monsters suck. If it weren't for experience and glimmerstones, I never would have bothered fighting them.
+
+Exactly. Now imagine a real dungeon, with more monsters, more traps, and no way out.
+
+Now I don't want to go.
+
+Don't back out on me now. You just have to remain vigilant. Stay with the group, fight when you see an opportunity, and most importantly, do not get hit. If your true form is revealed, then we can say goodbye to the Cyene dungeon.
+
+The breakfast continued in sullen silence, after which the group hurried to the Quest Board before too many other adventurers woke up. There were so many of them, Liora didn't even know where to look.
+
+Quests came sorted in several categories—Subjugation, Gathering, Escort, Exploration, Delivery, and Rescue. On top of that, they were also separated in ranks, starting from copper and ending with adamantite. Whatever the hell that was. Liora decided that it was some unobtanium-type of metal in this world.
+
+Kiva's eyes instantly went to gold and higher-ranked quests, looking mostly at the rich rewards. Kalen looked unsure, but his eyes mostly wandered to the Escort and Rescue quests. But they weren't even officially registered yet, so they could only take copper rank quests, which instantly eliminated the quests they had been looking at.
+
+"Delivery and Gathering quests look the safest, but I think we should try to level up as much as possible while getting a decent enough reward," Serena said, pointing towards a Subjugation quest—kill 5 kobolds.
+
+Are kobolds strong?
+
+Individually, they're no stronger than the chimera goats. But their strength comes in numbers. Where there is one kobold, there are likely ten more.
+
+Liora didn't quite like the sound of that, but it wasn't like she could object. She could only watch from Serena's shoulder as the group approached the Quest Assignment receptionist.
+
+"Hello! My name is Clara. How may I help you today?" Said the woman with long platinum hair, her voice perfectly rehearsed.
+
+"We'd like to take this quest," Serena said, showing the receptionist the quest note.
+
+"I assume it's to complete your Guild registration."
+
+"That's correct," Serena confirmed.
+
+"Excellent. Will you be taking this quest as a party?" Clara asked.
+
+"Yes."
+
+"Wonderful. Completing quests as a party will grant you bonus experience. For this particular quest, you must head to Area G of the dungeon. Be careful not to accidentally wander into Area C, as monsters there are much higher level."
+
+"Area G? How do we know which area we are in?" Kiva asked.
+
+"You'll be granted a map upon entering the dungeon," Clara explained. "I also recommend purchasing some basic gear and health potions before entering the dungeon. While this is a copper rank quest, in large groups, kobolds can be dangerous."
+
+"We don't have any money for that," Kalen admitted sheepishly.
+
+The professional smile on Clara's face wavered for a split second. Liora couldn't quite catch what it was—disappointment or worry or something else entirely.
+
+"Do be careful. And in case you decide that the quest is too much, you may always return and choose a Gathering or Delivery quest," Clara said.
+
+Liora looked at the quest note from atop Serena's shoulder. Five kobolds. If they were as strong as chimera goats, then Liora should be able to handle it alone. Then why did she get this really bad feeling in her gut?
+
+As it turned out, the dungeon wasn't strictly speaking in the city but rather some distance outside of it. However, a special underground passage had been dug underneath the city, leading straight to the dungeon entrance. According to Renir, it had been made so that adventurers could quickly reach the dungeon in case of emergency.
+
+Liora had wondered whether it also wouldn't work in reverse as a convenient access tunnel for all the monsters. But apparently, there were some magical defenses set up against that. Layers of some fancy wards and a fail-safe that would collapse the tunnel if everything else failed.
+
+In either case, Liora wasn't a fan. It was narrow, damp, and smelled of mold and sweat. Due to the early morning hours, there weren't many people there yet, but apparently, it got so cramped that sometimes people barely had space to walk. She couldn't help but remember the cramped metro she used to ride as a human.
+
+When we are getting out of the dungeon, I'm flying. I'm not going through this place again.
+
+What are you whining about? You don't even have to walk yourself.
+
+While that was true—she was comfortably situated on Serena's shoulder—but she still didn't like the tunnel. Birds had no business going underground. Blue skies were her domain, and that's where she wanted to be. This felt almost like a prison.
+
+After what felt like far too long, Serena, Kalen, and Kiva reached the actual entrance to the dungeon. Liora couldn't help but gape in awe. A large cavern was dug out underground, secured from all sides with thick metallic beams to prevent any cave-ins. The cavern easily had enough space for several hundred people at once.
+
+On the sides, there were smaller caverns which housed shops—potions, weapons, equipment, and even one for stuff like backpacks, torches, and other knick-knacks adventurers might find useful.
+
+But the most surprising thing was the dungeon entrance—for there was no mistaking where it was. A large opening on the opposite side of the cavern had weird blue light swirling around it, which emitted a low buzzing sound—like electricity. Liora could feel the mana coming from it–it made her feathers stand on end.
+
+"So that's a dungeon… wow…" Kiva echoed what everyone was thinking.
+
+"It feels… powerful," Kalen said.
+
+Serena's gaze grew more serious as she observed the entrance. "Remember that whatever we find inside will be dangerous. We need to stick close to each other, work together, and watch each other's backs. Survival takes precedence over anything else."
+
+Kiva and Kalen both nodded, then Kiva pointed at Liora. "Are we going to take her with us?"
+
+Serena looked at Liora with a torn expression. "I'm not sure if we should."
+
+Oh, no, you're not leaving me behind.
+
+Liora flew towards the dungeon entrance, letting out a determined chak-chak-chak.
+
+"I think she wants to go," Kalen said.
+
+"It's not like she's helpless. She can use magic," Kiva said.
+
+"But she's so small. It might be too dangerous." Serena didn't look fully convinced.
+
+However, Liora wasn't having any of it. She was going to enter that dungeon with them or without them. She would gain levels, get more glimmerstones, and find that Pulse Stone for Renir. Nobody would stand in her way. Liora flew towards the dungeon, ready to dive in, startling the guards standing at the entrance.
+
+"Wow, what's with that crazy bird?" One of them called, trying to shoo Liora away.
+
+"I'm sorry. She's with us," Serena and others hurried to the entrance.
+
+"Your familiar?" The guard asked.
+
+"Not mine, but we're currently taking care of her," Serena explained, and outstretched her hand for Liora to perch on.
+
+"Lost its master? Shame, but it does happen," the guard said and pushed his helmet higher to take a better look at the group. "Are you all newbies?"
+
+"This will be our first time in the dungeon," Kalen confirmed.
+
+The expression on both guards grew dark as if their fate had already been sealed and they were doomed to die.

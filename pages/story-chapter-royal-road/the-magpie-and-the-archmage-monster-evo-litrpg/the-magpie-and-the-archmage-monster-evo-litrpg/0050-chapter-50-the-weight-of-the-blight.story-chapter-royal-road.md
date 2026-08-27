@@ -1,0 +1,245 @@
+---
+id: dc80df1d-80c3-5629-8fcd-24a4b12854e2
+page-type-slug: story-chapter-royal-road
+title: "Chapter 50 – The Weight of the Blight"
+slug: 0050-chapter-50-the-weight-of-the-blight
+partOf: the-magpie-and-the-archmage-monster-evo-litrpg
+position: 50
+ownLength: 2054
+unit: words
+publishedAt: 2025-11-19
+link: "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2773854/chapter-50-the-weight-of-the-blight"
+royalRoadId: "2773854"
+---
+
+The gem crabs have officially become the most annoying enemies in Liora's book. She absolutely hated them.
+
+It was impossible to counterattack when about twenty crabs were constantly shooting pressurized bubble jets at her, able to destroy even rock in their path. She couldn't allow herself to get hit and had to dedicate herself fully to evading the attacks.
+
+The moment Fade was available to be used again, a few minutes later—which felt like an eternity—she used it and attacked whatever crab she saw with Poison Slash. It was effective at slowly wearing the crabs down, but none of the ones she had poisoned were defeated yet.
+
+This isn't going to work. I need to get closer.
+
+Liora swooped down, dodging the incoming bubble barrage, hoping to get closer. But once the crabs noticed what she was doing, they stopped spewing their bubble jets and began frothing the bubbles in their mouth. One by one, they would grab the bubbles and throw them in the air, letting them float around them.
+
+"Chak-chak-chak!" Liora laughed. "Don't think that your little bubbles will stop me!"
+
+Liora, don't touch those bubbles no matter what!
+
+I'm not that stupid. Obviously, those aren't normal bubbles.
+
+But she wasn't going to give up. She concentrated and released a Poison Slash at the floating bubbles, hoping that the attack would penetrate them and reach one of the crabs.
+
+But the moment her attack hit the first bubble, it exploded like a grenade, sending Liora back. Thankfully, she wasn't all that close to it, but she realized that there was no way to get to the crabs unless she wanted to turn herself into minced bird meat.
+
+Dammit, what can I even do here?
+
+Yeah, these guys are tough. I don't think you're equipped to deal with them right now.
+
+Thank you for your keen observation, Mister All Useless Archmage!
+
+Hey!
+
+Help me! You're the one who needs the Pulse Stone. Not me.
+
+There was a pause during which Liora fluttered around, trying to find a way to attack the crabs. Annoyingly, they were all sticking together, creating more and more of those explosive bubbles. Were they trying to make the whole cavern into a minefield? What if she could somehow move the bubbles without touching them directly?
+
+Renir! You said I have a high affinity with wind magic, right? Teach me gust, hurricane, or some other similar spell.
+
+What do—Oh! Yes! I know just the thing. It'll eat up half of your mana pool, but—
+
+Less yapping, more teaching!
+
+Imagine creating a powerful gust of wind with your wings. Since you're a bird, it should be easy to imagine just creating a gust with each flap. Let the mana flow inside each of your wingbeats.
+
+Liora wanted to shake her head—his explanation sucked. But her bird self understood what he meant on a fundamental level. She beat her wings with deliberate intent to create a strong gust with them. She imagined pouring mana into each wingbeat, imagining it getting more and more powerful.
+
+It was actually unpleasant to pour so much mana into a single attack. Almost like vomiting. But the result was that each flap of her wings created a stronger and stronger gust.
+
+[New skill unlocked – Wind Blast.]
+
+[Wind Blast – At [Basic] level, inflicts 50% base damage on a wide area. Nearest enemies receive more damage than enemies further away from the origin of the attack.]
+
+The powerful gale surged forward and pushed the explosive bubbles back without destroying them. The crabs stopped making the bubbles, instead moving their claws nervously and trying to scuttle away from the area.
+
+Unfortunately, three poisoned crabs among them were too drained at this point to move. They clogged up the formation, slowing them down considerably. Then two of the bubbles collided.
+
+BOOM!
+
+The explosion set off a chain reaction of bubble explosions. Liora was thrown against the cavern wall, earning her a nasty bruise on her back. The whole place shook and crystal began falling from the places, crashing into the ground.
+
+[You've defeated <Gem Crab — Level 10>. Experience gained.]
+
+[You've defeated <Gem Crab — Level 13>. Experience gained.]
+
+[You've defeated <Gem Crab — Level 12>. Experience gained.]
+
+[You've defeated <Gem Crab — Level 11>. Experience gained.]
+
+[You've reached Level 7.]
+
+Ten more such notifications appeared, and as the dust settled, Liora saw that the remaining six crabs were barely alive. Most of them had their limbs blown apart, and the cavern floor looked like a fridge in a seafood restaurant had exploded.
+
+Liora didn't allow the remaining crabs to recover. She struck three with Holy Light, then, having run out of mana, used Lunge on the remaining three.
+
+[You've defeated <Gem Crab — Level 13>. Experience gained.]
+
+[You've defeated <Gem Crab — Level 11>. Experience gained.]
+
+[You've defeated <Gem Crab — Level 10>. Experience gained.]
+
+Before they dispersed into dust, Liora used Mana Conversion to recover half of her lost mana and got her glimmerstones. Two from each crab, each embedded in each claw. Although it was a bit difficult to collect them all since some limbs had flown to the other side of the cavern during the explosion.
+
+What a mess…
+
+Don't worry. It'll clean itself up.
+
+As if on cue, the crabs turned to shimmering dust and were absorbed by the dungeon. Much to Liora's delight, a chest appeared in the middle of the cavern. This one wasn't locked and looked much more ornate than the previous one. She felt it was strange that the wooden box would be locked while the ornate one could be opened so easily.
+
+Or so she assumed but the lid was so heavy she couldn't lift it.
+
+"Caw! Caw!" Liora cursed. "How the hell do I open this?"
+
+Aww, poor little baby can't open the lid?
+
+I will toss you into a chasm.
+
+We both know you wouldn't.
+
+Liora raged and resorted to her favorite attack—Skypierce. Metallic though the box was, it couldn't withstand the concentrated power of her bird fury. Obviously, it didn't shatter like the wooden box, but she had managed to pierce a hole in the lid through which Liora was able to glance at the contents.
+
+Wait, that's a sword. What am I supposed to do with a sword?
+
+She reached her leg into the hole, grabbing the sword carefully by its hilt. But it was way too heavy for her to lift.
+
+It's so heavy, too! All this effort for nothing!
+
+Don't be so grumpy. Just put it in your Inventory. You can, or I suppose your human friends can, later sell the sword to the Guild Merchant. Dungeon equipment is quite valuable.
+
+Liora still felt annoyed. It was valuable—sure, but she couldn't even lift it. But thinking about it, maybe she could give this to Kalen. His sword was barely anything more than a glorified toothpick, given how dull it was. With that decided, Liora dragged the sword into her Inventory.
+
+I'm tired. I think I'm heading out now.
+
+Wait, check your quests before you go.
+
+Begrudgingly, Liora commanded the System to check the quests.
+
+[Quests]
+
+[Gather Gloomshrooms – Complete]
+
+[Defeat five caster Kobolds — 3/5]
+
+You need to find only two more caster kobolds to complete the second quest. Do that, and then we can leave.
+
+Liora wanted to rest, but decided that two kobolds weren't too bad. They were weak anyway. But she wouldn't be fighting any more crabs.
+
+As she sneaked her way to the main kobold hub, Liora felt that her wings were getting heavier with each flap. Her vision was getting blurry, and she found it difficult to breathe.
+
+Liora, are you alright?
+
+No. I don't think I am… I suddenly feel like I'm about to fall unconscious.
+
+Stop somewhere and check your status.
+
+Liora found a dark ridge, far above the heads of kobolds, and perched there. She couldn't help but open her beak in an attempt to gasp for air. Why was she suddenly feeling like this?
+
+[Status]
+
+Health: Scrapped
+
+Mana: Steady
+
+Affliction: Cursed
+
+Cursed? Why? How did that happen?
+
+I don't know. We need to get someplace safe so I can check your System logs.
+
+Then I must leave the dungeon.
+
+Can you make it?
+
+I don't think I have much of a choice here.
+
+Liora mustered her strength, Faded, and flew straight towards the dungeon exit. The distance that had previously seemed easy appeared more difficult with each flap of her wings. She wanted to close her eyes and rest.
+
+Check your status again.
+
+[Status]
+
+Health: Wounded
+
+Mana: Steady
+
+Affliction: Cursed
+
+Is it draining my health?
+
+Dammit! You must hurry!
+
+I'm doing my best here.
+
+Liora was grateful that her Shadow Glide was the kind of ability that naturally kept her hidden. Many times when she came across a group of adventurers, she felt so ill that she didn't realize to activate Fade. There were times when somebody noticed her for a moment, but thankfully, the darkness hid her quickly enough that they wouldn't be able to pursue.
+
+Once she painstakingly reached the dungeon entrance, Liora Faded as she flew past guards and the entrance area. Thankfully, there were fewer people there and once again, the dark was playing to her advantage, keeping her hidden.
+
+The hardest part came after as she tried to fly as far away from the dungeon and the city as possible. She didn't want to risk anybody detecting Renir, but she was steadily running out of strength.
+
+This is fine, Liora! Land!
+
+We-We're not… far enough… yet.
+
+Even her thoughts were muddled, and just barely did she manage to bring up her Status screen.
+
+[Status]
+
+Health: Critical
+
+Mana: Steady
+
+Affliction: Cursed
+
+Land now!
+
+Renir's inner voice carried strong authority that left Liora unable to disobey. She fluttered towards the nearest tree, trying to land on its branches, but missed it and instead crashed into the grass.
+
+Withdraw me from the Inventory!
+
+She did so, holding him firmly in her talons. He was muttering something, likely looking through the logs, then he cursed.
+
+"Get those blightstones out of your Inventory RIGHT NOW!" He ordered.
+
+"But…"
+
+"Now!"
+
+Too weak to argue, Liora obeyed and withdrew all 13 blightstones. When put together in a pile like that, they looked atrocious. The aura they radiated was heavy, as if riddled with poison. The grass around them withered almost instantly.
+
+Liora, on the other hand, felt like the heavy thing that was suffocating her had finally let go. She blinked and then jumped away from the pile of blightstones, pulling Renir along with her.
+
+"These things were making me sick!" She complained weakly and checked her status. The cursed affliction was gone.
+
+"Apparently, carrying more than ten at a time will give you a cursed affliction, which in turn can do various nasty things. In this case, it was slowly draining your health," Renir explained.
+
+"I can't carry those around if they'll keep cursing me!" Liora said, glaring at the blightstones. She had a strong urge to use her new skill and send these cursed stones straight to hell. If only she had enough strength for it.
+
+"No, but we can't just leave them here either. Do you see what they're doing?" Renir said.
+
+Liora did see. It wasn't just the nearby grass that withered. The rot, or whatever it could be called was slowly spreading further and further.
+
+"What do we do then?" Liora asked.
+
+"I think we should test that theory, whether blightstones can be purified. We blast them with Holy Light," Renir suggested.
+
+Liora nodded. She wouldn't say no to that. She mustered her strength and used Holy Light on the blightstones. There was a bright flash when the attack connected with the blightstones, but much to their disappointment, nothing happened.
+
+"It didn't do anything," she huffed.
+
+"Don't give up yet. Keep using Holy Light."
+
+Liora did just that. One Holy Light. Two. Three. Still no result. She was growing increasingly frustrated and tired. She decided to combine Holy Light with Air Slash just to give the attack a bit more punch.
+
+[You've successfully formed a skill <Light Slash>.]
+
+A loud crack came from one of the blightstones as Light Slash collided with it. The stone continued cracking, and she thought she saw something light glimmering between the cracks. Was it working?

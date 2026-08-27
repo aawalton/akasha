@@ -1,0 +1,265 @@
+---
+id: 273215e4-fef6-5b42-a151-b41cf5a2b34f
+page-type-slug: story-chapter-royal-road
+title: "284 Amassing Many"
+slug: 0243-284-amassing-many
+partOf: the-new-world
+position: 243
+ownLength: 5116
+unit: words
+ownProgress: 5116
+publishedAt: 2020-12-16
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/600968/284-amassing-many"
+royalRoadId: "600968"
+markedReadAt: "2026-06-29T21:29:25.834Z"
+---
+
+-Althea-
+
+I pulled myself out of the warm corpse of a monster, having torn out its ribs by hand. Slinging blood from my arms, I let out a gasp of disgust while throwing a thick entrail off my shoulder. Killing monsters was the worst thing ever, and this was why. I somehow always ended up covered in monster guts.
+
+I threw the body sideways, having just killed this giant, roaming salamander eldritch. It found me taking an afternoon nap under a tree, so it swallowed me whole. I woke up and gave the beast some severe indigestion, and now I found myself soaked in purple-colored blood and guts. It didn't smell like normal blood, at least. This was more like just cut grass, and to me, that smelled a whole lot better overall.
+
+Not knowing what would happen if this stuff dried onto me, I ran through the forest and found a stream. A quick dive later, and the muck flowed off me. The water was a bit chilly, yeah, but it was more than worth it. After running through the trees some, I wind-dried my jumpsuit and hair. Once done, I swung the mess on my head around a bit. Stepping up to a puddle, I gave myself a look-see.
+
+It wasn't my best look, but I could pull this off.
+
+It was time for me to meet with Florence and Helios, both of them escorting Amara over the countryside to this location. We stuck with realtime travel because it wouldn't set off any warp searching magic. To me, those royals were way overqualified for this job, but getting Amara here was pretty important. Cause I mean, our whole operation pinned on her infiltrating Elysium's system.
+
+That's why this meetup was super important. Though a bit late, I wasn't that behind schedule, so I skulked across a few plains and snuck my way up to our meeting coordinates. Maybe they'd be late too. Turns out, they weren't. Florence, Helios, and Amara sat around a creek, each sitting on rocks along the stream's flood bed. Not wanting to eavesdrop, I kept a bit of distance before attempting to de-stealth. Unfortunately, I somehow heard them talking. And I happened to see them too.
+
+Whoops.
+
+Helios stared off in the distance, bitter as usual, "It's obvious to me that the competition between us is your victory."
+
+Florence leaned back, on his rock, casual and confident as could be, "What do you mean competition? Were we competing?"
+
+"Don't pretend that you don't remember it. Daniel made it clear that we'd serve whoever did a better job of helping his guild. Already, you've established such a clear lead that I'm unable to match you anymore. My failure is inevitable, and it's a bitter pill to swallow."
+
+Florence's natural swagger dampened, his concern for Helios showing. Even if he was a complete jerk, he was still Florence's brother. The talkative royal sat up straight, coughing into a hand,
+
+"I, uh, I think that oftentimes, when forced to accept something difficult like this, it's oftentimes like medicine. It's usually the antidote we need most but want the least. In that way, this situation might be showcasing a weakness you need to work on."
+
+Helios glared at Florence, his eyes hidden under his mask,
+
+"Weakness, hm? I'm doubtful. This clash of ours has simply proven that I am unable to match you. That's right - you of all people. I'm being forced to admit you're my superior. It's obvious I've fallen into pits so deep I doubt I will ever crawl out of them."
+
+Florence frowned but stayed positive, "You haven't fallen lower. I've simply risen up."
+
+Helios shook his head, "But you've been an example of failure, time and time again. Have things changed this much from just a subtle shift in circumstance? You honestly believe your place changes that easily?"
+
+Florence narrowed his eyes, somewhat peeved, "No. My rise in potential is a matter of the place, not the situation. I simply mesh better with this new guild than you do. Think of it like this - it's obvious to anyone who's attempted many things that they cannot be the best at every one of them. That is the case here."
+
+Helios stared at the flowing water as Amara sat in silence. Helios murmured, "I've been thinking of our places as of late. I've known you were always in my shadow, and I became comfortable with that reality. I exceeded your performance in every situation, yet now I am the one who walks in your shadow. I believe it's not like the shadow you walked in, which was perceived. My walk in the dark is genuine."
+
+Florence's curiosity peaked, "What do you mean by shadows?"
+
+Helios shook his head, "These events have forced me to confront an uncomfortable truth - I was never your superior. Our family put you in a small box, and you couldn't escape it. Over time, you and I believed that box to be the real you. In the end, it was an illusion. Obolis saw the situation clearly, as always."
+
+Helios met his brother's eye, "It turns out that you're talented in certain respects. Perhaps that is why I despise you. I'm told you're a pathetic waste of space, yet you're my better in many ways."
+
+Helios reached out a hand, freezing a portion of the stream beside us,
+
+"If you are useless yet my superior, then what does that make me? I've been wondering that lately."
+
+Florence's voice rose, "You keep thinking of me as some inferior. By doing that, you're dragging us both down. We each have pieces of us that excel in certain places. Instead of constantly comparing us, how about you try using what you're good at? That's what I've been doing here, and it has worked wonders. I haven't felt this good in decades."
+
+Florence stood up, "It's as simple as this. My time here has taught me that what our family says about us doesn't define who we are. It's...it's like how everyone thinks of me in our family. Just because they believe I'm useless doesn't make it so. In this new place, I am a potent force. I simply needed the space to showcase that."
+
+Florence pointed at his brother, "You are the same."
+
+Helios rubbed his temples, "That is my problem. I've already been a success. There is no opportunity to rise here. Instead, my fall from grace since talking to that damn guildleader has been steady and steep. Now I'm wallowing in death threats instead of redeeming my past shortcomings."
+
+Helios tapped his head with his gauntlet, "My frustration leaks out in my words, and then I simply dig myself into a deeper hole. It's my fault, and I understand that. That frustrates me further, and I feed this vicious cycle."
+
+Helios sighed, "It's like the tables have turned, and now I am the one who is destined for failure while you're now destined for success. As your brother, I should be happy for you...But I'm not. To me, that's pathetic."
+
+Florence spread out his hands, "I resented you for a long time as well, but I came to the understanding that comparing myself to others is losing game. No matter my success, it will pale when compared to others. That is a simple truth of existence. The Empire bolsters that style of thought and treats it as just. It's a toxic wasteland of thought if you ask me."
+
+"And I am trapped in that frame of mind. At least it feels that way."
+
+Florence tapped the side of his head with a claw, "Come now, there's great power in your perspective. If you change your outlook here and now, things will change for the better. Think of this as an opportunity to discover parts of yourself you didn't know you had. Try something new, something bold."
+
+Helios stared at the water as it overflowed the ice he made earlier, "I...I suppose I could. My situation could always change. It has before."
+
+Florence gave Helios a pat on the back, "Exactly. You're the albony that made everyone around him appear incompetent and ineffectual by comparison. Don't forget the past battles you've won. This is perhaps a hard-fought clash, but you'll be victorious in the end. If you can't believe that, then trust me and my belief in it."
+
+Helios stared at his hands, and the cipher inscribed gauntlet glistened under the sun's light,
+
+"Hmm...Perhaps I'll actually listen to you this time. I've tried this before, and your consultation has led to disastrous consequences. That being said, it isn't as if anyone can misadvise all the time...Though you've tried."
+
+Florence grinned at his brother, the smile evident even under his mask, "Well, you see, there is an art to failure. I'm quite practiced in it, and that allows me to see it differently." Florence lowered his hands and stared out at the riverbed,
+
+"When someone has failed utterly, they are both at their lowest and their most powerful state. The weakness is obvious and needs no explaining. The reason you have power, however, is because people are impressed by success despite your circumstances. It is when someone has failed time and time again yet persevered through their missteps and continued until success, that is when people are most affected."
+
+Florence swung his fist, "You are in a position to show not just competence. You get to show something more important: your character. That's far more difficult to express, but it's also far more valuable. For those reasons, don't give up or give in."
+
+Florence stared his brother in the eye, "Pull through and be all the better for it."
+
+Helios let those words soak in for a second before staring forward. He stood up and nodded, "I...you may be right. I, I'll need to think about it more."
+
+Florence backed up, "Of course. Take your time. We've got all day with how late Althea is."
+
+I frowned. I'd been here for like fifteen minutes by now, but this was too good to miss out on.
+
+Helios gave his brother a shove, "You know, I thought of you as the lowest, most shabby albony I'd ever seen. I may have been wrong all this time."
+
+Florence put his hands on his hips, "Really now? You've finally changed your mind about me?"
+
+Helios grabbed his brother's shoulder and gave him a shake, "You're not quite the most pathetic. You're merely one of the most."
+
+Florence shoved Helios before the two of them began some kind of pushing contest. They went back and forth, following some clearly defined yet mystical set of rules as they did. It reminded me of some child's game they played when they were younger, and only the two of them understood it. After a minute of watching, I walked out of the bushes so they could see me.
+
+As I stepped out, Helios stiffened back up as if someone zapped him with lightning. Florence lowered his hands,
+
+"Bah, you're no fun."
+
+Helios pointed at me, "You saw nothing."
+
+I smirked, "Oh, of course not. I definitely didn't record anything. Not at all."
+
+Helios flushed under his mask, and steam might as well have been fuming out of his ears. For the terrible things he'd done to me, I had to admit, Helios wasn't entirely awful. He seemed like a guy who really wanted the pride and admiration of his family. He just learned how to get it in the wrong ways, and I didn't know if that was his fault or the Empires.
+
+It was probably a little bit of both. Either way, Florence covered for Helios, walking up to me,
+
+"It's good to see you again, Althea. How are things going in your mission?"
+
+I raised an eyebrow, "I sent you a debrief? Didn't you read it?"
+
+"I-I prefer hearing it in person."
+
+Helios chided, "He was simply too lazy to read it."
+
+Florence turned to his brother, giving him a quick glare. Helios actually laughed under his breath as Florence turned back to me, "Okay, he's right. I'm sorry."
+
+I rolled my eyes, "Well, at least you admitted it—sort of. Anyways, we're doing pretty good, I guess. They don't seem suspicious of us, and we've got some licenses that will let us warp around. Getting Amara through is going to require some finesse, but we should be fine with some of Hod's shadowy magic."
+
+I propped my weight onto my hip, "After that, we're going to need some luck. Hod's shadowy magic stuff isn't going to last very long. We'll need to get somewhere safe, or else Amara will pop out of someone's shadow in the open. If the situation starts spiraling, we won't be able to send messages and get feedback since they block Schema's system on their planets."
+
+I grimaced, "We'll be in the dark."
+
+Florence put his hands on his hips, "You'll all be fine. You're a competent team, after all."
+
+Helios walked up, his cape draped over him now, "I suppose you can say that. Competence is relative, after all."
+
+I leaned back, "Oh, okay. So we must be really competent to you then?"
+
+He deadpanned, "Not exactly."
+
+Florence raised his hands, "Come on, guys, let's keep this civil. We're here to pass over Amara. Speaking of which-" Florence looked around, "Where is she?"
+
+Amara's dry, raspy voice echoed out from behind me, "I'm here."
+
+I jumped up, scared out of my mind. After a quick yelp, I pointed at her, "I thought you said your stealth skills sucked?"
+
+Amara lifted her palms, staring at me with her weird eyes, "There is more to being unseen then simple skills, little lamb...But yes, I can be seen easily once exposed."
+
+Florence had his hand over his chest, "You scared me as well. It looks like we won't have to worry about you all being found. Good luck."
+
+I crossed my fingers, "Oh man, I am hoping that'll be the case. We're going to need it."
+
+Florence gave us a nod before racing towards off towards the forest. Before he left, Florence passed me several rings Daniel made. They were the same kind he crafted for Ophelia, and when I put it on my finger, it gave a rush of stats like all his items did. It also hefted my hand down, the tiny thing weighing like twenty pounds. Daniel was pretty dense, figuratively and literally, so I guess this was appropriate.
+
+Either way, I turned to Amara, "Are you ready to warp tonight?"
+
+She winced, "I am ready as I shall ever be...It's rare for one to walk into a lion's den, yet we do so willingly. Are you...certain, this is a good plan?"
+
+I gave her as confident a smile as I could,
+
+"Uh...yeah...Of course."
+
+-Daniel-
+
+With Florence and Helios sent away, I got my mind for mass golem creation. That was my number one goal right now, so I used an app in my status to create a list of goals. Starting with speed, I brainstormed a few ways of getting faster at making golems. The first idea involved a time analysis where I understood what took time to make a golem. The idea for this kind of thing came from Torix. It sounded like something he'd do, that was for sure.
+
+Either way, after uncovering the major time sinks, I wrote them down. There were three main time-stealing culprits: runic charging, harvesting skin, and elemental furnace production. For the charging bit, I needed more mana and more efficient runes. I detailed a work schedule where I spent several hours revising my runes for better mana efficiency, along with time for carving. The skin harvesting was a bit wonkier to think over.
+
+I never, not in a trillion years, would've imagined that harvesting my skin would be a problem I needed to face head-on. Yet, here I was, thinking it through. I always sort of handled it with a quick, violent, and sheering pull. This ripped out random patches of armor on my arms, which worked well enough up to this point. I needed many, many times more of the stuff now, and my current system wasn't going to hold up.
+
+With that in mind, I ran a few tests on my skin. When hot, cold, or even superheated, my skin remained resilient. It maintained form even under extreme stressors and gravity. When I finished all my basic attempts, I moved onto more drastic measures. I took an enormous hold of mana and used a gravitational well for ripping one of my arms off. A quick metallic thud and cord-ey rip later, and my arm was out of its socket.
+
+It healed back within a minute. Being a dimension had its perks.
+
+This new strategy of entire limb harvesting functioned much better than my previous attempts. Now I thought that the arm wouldn't meltdown like my skin would. It was flesh and bone to me. Turns out, I was dead wrong about that. My body was made of dimensional, er, stuff down to the cells themselves, so the entire arm boiled down no problem.
+
+In fact, it wasn't much different from the skin I used before. The only real difference was a better density overall from my bones. I didn't even need to melt my blood either, the liquid already quite warm. Well, relatively speaking. It was difficult to know how hot or cold I was now, my own understanding of temperature being so warped.
+
+It reminded me of my stay in space for a bit. It was cold there, but apparently, it shouldn't be since there wasn't anything for my body heat to convect to out there. I didn't know how any of that worked exactly, but maybe measuring my body temperature would help me figure out what was going on. I put that at the very bottom of my extensive to-do list, and I moved on to ripping my arms off.
+
+You know, the important stuff.
+
+Pooling double my bodyweight's worth of dimensional fabric in my various storages, I moved onto the elemental furnace issue. So far, I took out a substantial amount of mana from this ancient ciphering device at all points. This revolved around my Congruent Mind Strain ability. My main problem revolved around the amount of mana harvested from the furnace while doing all that.
+
+When I backlogged the furnace process, the amount of mana I gained dropped like a bowling ball off the side of a building. In the end, I got less than half the net potential of the furnace. I mean, that made sense since revving the device at full throttle required tremendous focus. Pulling more focus into that process meant less concentration was left for the manufacturing of the golems themselves.
+
+This left me at an impasse. On the one hand, a large portion of my time could be saved from using the furnace to the fullest extent. On the other hand, my crafting suffered when I put less than one hundred percent of my attention to it. Thinking things through, I came up with a solution.
+
+I took a few tests of the time required for the runic charging and making the golem. The runic powering took around twice as long as the molding process did. With that in mind, I put more and more of my mind's abilities into the furnace charging. After a while, I reached an equilibrium where the molding took just as long as the charging process.
+
+With that, I shaved about 17% of the time off of making the golem.
+
+It wasn't an enormous, earth-shattering gain, but this was a part of the process. Every innovation and efficiency gain I made added up over time.  Just as well, I didn't enjoy being this analytical, but I learned from Torix and Obolis that methodical approaches worked wonders. At least when it came to production like this.
+
+Moving on, I pulled out some screenshots of my grimoire and pulled them all up in my status. Staring at them all, I found a few kinks and flaws in my translation that needed work. The initial, non-ciphered runes weren't structured as efficiently as they could be either. That probably was because I asked for them on such short notice.
+
+Either way, I fixed those issues before moving onto the ciphered sections. Finding useless segments, I eliminated about a fifth of these texts over the next three hours. These weren't content changes per se, but more so concision improvements. After all, most of any language was formalities and non-content words. By eliminating all but the necessary stuff in work like this, I made the passages meaning clearer and shorter at the same time.
+
+That meant less charging and a better golem.
+
+By now, the sun began setting in the distance. Handling all those improvements, I got to the meat and bones of this operation - making the actual golems. My changes sped up my work by quite a bit, having found a nice balance between charging, forming, and building. I also fell into a flow of sorts, getting involved in my work's details.
+
+I gave myself breaks every few hours, and during that downtime, I searched for ways of improving productivity. Many searches popped up on Schema's web, and I used a few of the most commonly referenced tips. The most mentioned one was goal setting, which I used right away. Using many hours and all of my mental processing power, I came up with a very pivotal and challenging to comprehend goal.
+
+Make more golems.
+
+I know, I know, revolutionary stuff.
+
+Jokes aside, it worked to my favor. A week of this crafting passed, and my golem creation's speed improved by leaps and bounds. On the first day, I made four golems. On the second, I created five. I capped out at six on the third day, unable to break that plateau by the week's end. Doubling my production speed was more than adequate enough for me, however.
+
+I ended up making thirty-nine super golems. Including Alpha, Beta, my third golem, I had forty-two total. It was a military force of exceptional might, vastly exceeding our guild's previous net potential. They actually worked like Breakers in overall power, meaning we could tear battalions down with ease. It was like we gained a thousand systemized gialgathens overnight.
+
+Speaking of which, I wasn't the only one hard at work over the last week. Chrona and Krog went into a full-on general mode, whipping the gialgathens back into shape. The break was over, and it was up to them to get the gialgathens systemized. That required clearing many dungeons, and so they did that in spades.
+
+Using teams of three, Chrona and Krog sent out gialgathens towards the North, making sure they stayed very high in the air. We didn't want everybody seeing them all the time, so they rushed over clouds. Being in the upper stratosphere made even the enormous beasts appear small like a falcon or eagle. Perspective was funny like that. Get close or far away from something, and it looked completely different.
+
+They used that for their stealth. Going North meant the chance was even lower that they'd be found by Elysium forces. That risk couldn't be eliminated either way, not without forcing the gialgathens underground. Suppressing them in caves was like never letting a bird leave its cage. In Krog's own words, 'A life without flight was a life not worth living.'
+
+I disagreed, having walked around for the most part up till recently. That being said, I soared around the sky when traveling around Mt. Verner. While surrounded by white clouds, a blue sky, and the horizon beneath me, I had to admit there was something special about flying. Going back to a life without flight would be damn hard, so I understood the gialgathen's fears.
+
+Their concerns were grounded in a reality where they were robbed of something important. Because of that, I didn't fight them much on the issue, and neither did Torix. Gialgathens were akin to level capped Speakers in power as well, and with the need for a large, effective army, some risks were worth taking. This extensive use of flight and organized teamwork let them clear and map dungeons far away from where we lived as well.
+
+This exploration gained us a better grip on the conditions North of Mt. Verner, our excursions leaking into what was once Canada. What surprised me most while reading reports was the population density around there. Though fewer people lived there than before, it was kind of comparable to before Schema's culling.
+
+Personally, I expected a massive drop off in the number of people there. I mean, the winters in Michigan and Iowa were challenging to deal with, but Canada was on a whole other level. My dad actually grew up in Canada, and the guy experienced some cold winters. He told me a story once from one of those times.
+
+Apparently, there was a goggle warning where you couldn't walk outside without, well, goggles. If you did, your eyeballs would freeze in your skull because the wind was so fast and cold. It was a crazy account of how cold it got, and that story really stuck with me. It turns out, Schema's system allowed people to survive those winters.
+
+The resistances gave species a much easier time handling more extreme environments. This meant there was enough people out there that it was worth saving them at some point. The gialgathens also ended up clearing out a lot of the eldritch North of the Great Lakes. We weren't sanitizing the entirety of the area, but thinning out the hordes helped those there.
+
+We passed over a thousand systemized gialgathens during this time, which was a real milestone for the guild. They worked with Torix's mind mages to create units that thrived in the air, sort of like dragon riders but on gialgathens. This gave them mobility and meant the Blighted weren't as effective against them either. Mind mages were lethal against those monstrosities in that way.
+
+We aimed for fighting on Blegara, however, so Chrona and Krog taught them tactics for underwater combat. Chrona and Krog had lived for centuries, and in their backlog of information, they read about ancient tactics from their species. Long ago, they fought the leviathans under the seas, and those same tactics then proved useful now. This gave the gialgathens profound confidence, which bolstered morale overall.
+
+Outside of those efforts, Torix progressed with the Omega Strains during this time. I only supplied a couple dozen to him, but Torix used them to their fullest potential. Using more stringent guidelines, he progressed the shabby group I first saw into an elite, anti-Hybrid force. This specialized unit worked with the golems I created, generating battalions that decimated the Adair's forces.
+
+Torix lined one super golem per unit of three soldiers. With tactics taught by the lich himself, these soldiers implemented strategies against the Hybrids, Blighted, and their behemothic pillars. During my breaks, I read these reports and viewed footage sent my way, and they impressed me. Even if they weren't quite as effective as I was, they were damn good in their own right.
+
+This gave us a solid backbone for retaking Blegara one city at a time. We weren't ready for the unreal swarms Elysium produced, but this was a fine start. Once we got on Blegara, we'd expand the Omega Strain divisions to number the thousands, and I'd keep making golems in the meantime. Once we had several hundred of them, holding a large territory wasn't out of the question.
+
+Once held, the gialgathens could live there, have families, and settle down. They could get back to something commonplace, and this vision of a future motivated them more than merely surviving. We'd expand afterward with golems keeping the countryside clean of eldritch and Hybrids alike. This let people move and trade, keeping an economy formed.
+
+We'd even up the ante on our recruiting once we established this kind of protective influence. I could run through a higher leveled fringe world and harvest blue cores to create secure cities. The perfect place for that was actually the Ahcorus's home planet, where Plazia Ruhl dominated. Reaching him would require clearing high-level dungeons, which carried high-level cores. Now, I owned a few places where I could actually put the blue cores to use.
+
+These factors were recognized by more than just me. Torix mentioned a few of these reinforcers in ad campaigns, and our mountain-based hummed with optimism. Helping people, saving planets, and expanding territories got people motivated. That motivation led to more outstanding production, innovation, and good times all around.
+
+All this hinged on the mission to the Elysian world, however. The others went dark for the last week, but we were confident they'd succeed. We sent Hod and Althea, and they'd done this countless times before by now. Infiltration, completion, and then escaping was something they did daily. These thoughts drummed in my head as our week of work ended.
+
+Everything finished on our front, so now many of the guild's elite were with me as we waited on the Western front of Mt. Verner. An expansive view of the countryside rolled beneath us, and this was where we agreed to rendezvous. I missed Althea, and any information on Elysium would be a massive boon for the guild. All that left us buzzing with enthusiasm.
+
+That enthusiasm dampened when the time for our meeting passed. In all honesty, the team being late wasn't that unexpected. Complications were bound to occur at some point. We still kept our assurance level high. Of course, their five minutes late turned into fifteen. After thirty minutes, the people around me grew nervous.
+
+I relaxed on a gravity well, knowing these kinds of issues come up all the time. An hour passed. By now, most of those around me twisted like knots. By then, a sinking feeling crawled up my chest too. Two hours went by, and now I joined the anxiety of the crew, though I kept it to myself. When three full hours flashed by, a haunting realization popped up in our minds.
+
+We weren't worried anymore that they'd be late or even fail the mission. None of that mattered to me anymore. I just wanted them back. I wanted Althea back. I'd gotten so used to success I'd forgotten we could fail. As four hours passed, that understanding was like a nail being driven through my jaw. They still weren't back.
+
+And it didn't look like they'd be back anytime soon.

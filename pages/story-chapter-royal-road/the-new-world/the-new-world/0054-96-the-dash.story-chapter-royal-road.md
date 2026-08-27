@@ -1,0 +1,161 @@
+---
+id: c92ffa28-87a7-59e3-925d-64260c7bfc22
+page-type-slug: story-chapter-royal-road
+title: "96 The Dash"
+slug: 0054-96-the-dash
+partOf: the-new-world
+position: 54
+ownLength: 2195
+unit: words
+ownProgress: 2195
+publishedAt: 2018-01-16
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/187374/96-the-dash"
+royalRoadId: "187374"
+markedReadAt: "2026-06-29T21:22:40.937Z"
+---
+
+The rest didn't last mostly because I didn’t want to sit there forever. I pushed myself up with my arms before dragging my legs from between the crystal plates. Once on my feet, I looked around for the dungeon core. I couldn’t find it. Before I panicked, the orb lifted from the palm of one of my hands. It sent ripples through my armor like it was lifting out of black water.
+
+I clasped it, lifting it over my head with a bit of celebration. I turned towards Hod, walking over. He pulled himself off the ground before shaking the dirt of his face. He looked up at the world tree,
+
+“Hod think Yawm come from tree soon now. Tree Man no longer hidden in Tree. Hod and Harbinger leave?”
+
+I nodded. We hopped out of the crevice at the side of the lake. On one side, the crystal plate was exposed. A giant root blocked the opening from sight, wrapping around the entire crevice. There wasn’t any gaps left for viewing from the outside. The only way someone could see this opening was from an aerial view.
+
+Hod and I landed on those roots before glancing around. The blue squares rippled through the rift, just like a normal dungeon. The blue squares couldn’t affect the floating islands or the world tree, however. The only substantial change was in the horizon. Before the blue squares passed, a gray mist covered everything. Now Springfield was open for our viewing.
+
+Besides for bombs detonating in the sky, we couldn’t see past the skyscrapers blocking our view. The sudden burst of wind and the blue sky was the largest change. Before Hod and I could leave the rift, a ripple in space time formed. A crack appeared from it, and our overseer walked out.
+
+He glanced at us, “You again.” He looked at the world tree. The overseer clenched a hand into an enormous fist before letting it go. He turned towards me, “If you are able, make his death painful.”
+
+After a deep breath, I rolled my shoulders, “I’ll give it my best shot, but uh, why you aren’t gunning for him right now? I get that rifts stop you and Schema from doing anything, but the rifts gone.”
+
+The overseer lifted his hand. He pressed his fingertips together and spread them apart. From the tips of his fingers, a ripple formed in gravity. This expanded into a tunnel that traveled through the air and towards the world tree. A tiny, infinitely dense point of gravity formed beside the world tree.
+
+It was a tiny black hole. It sucked in the air around it, vaporizing the matter around it. The overseer spread his fingers, the orb of gravity reversing. An explosive force shot outward from the dense point, reversing the pull of energy. The destructive attack didn’t even leave a scratch on the surface of the world tree.
+
+The overseer turned towards me, “Yawm has learned of ways to meddle with an overseers tools. It was one of the secrets he stole from Schema before leaving the system. His own mastery of the dimensional cipher makes him almost immune to our interference when in this form. Once he is out of the tree, he is a warrior we fear.”
+
+The overseer’s voice filled with a deep, seething hatred, “That is why I cannot harm him. The strength I have is Schema’s. Yawm owns his own strength, and it exists outside the system’s limitations. That is one of the reasons that he is so dangerous.”
+
+I turned a hand to the overseer, “Well damn...Sounds like a tough situation.”
+
+The overseer sighed, “Indeed it is. Having someone who led the species that enslaved you so close, yet being unable to harm him...it is profoundly humbling.” A bomb exploded in the distance, gaining all of our attentions.
+
+“It seems as though your planet has decided to finally fight.” The overseer turned towards Hod, “The...what were they called...Ah yes, the Eltari. They seem to be helpful.” He glanced around, a few squadrons of flying eltari bombing nearby clusters of Yawm’s spawns. “Very helpful. It is good you decided to keep them alive.”
+
+The overseer opened his status screen, pressing different buttons on it, “That is yet another rift cleared then? You could be a candidate for a Fringe Walker at this rate. You have the tenacity for it.”
+
+I raised an eyebrow, “What’s a Fringe Walker?”
+
+The blue squares eliminated the last remnants of the gray haze. A crystal plate formed over the lake, leaving the lone island at its center uncovered. It acted as the entrance for the dungeon. The overseer closed his status screens,
+
+“It’s a fighter used for eliminating fringe worlds. You see, Schema expands outwards. As he expands, Schema prefers all the planets within his domain to be free of eldritch, or at least handled to some extent.”
+
+The overseer raised his massive hands, “As you may imagine, this isn’t always the case. Some worlds deeps within Schema’s grid falter then fail. They become breeding grounds for the eldritch. Once fully converted, certain higher level species of Eldritch can be spread through interplanetary launching. They will spread their demonic spawns offworld.”
+
+The overseer smacked a fist into a palm, “And if one of those spawns lands on an uninfected planet, that world is almost certainly doomed.” The overseer lowered his hands, “Schema is fortunate that Earth isn’t positioned like that. It’s a border world, meaning it lies on the outskirts of Schema’s grid.”
+
+The overseer pointed towards me, “Take full advantage of that fact. Yawm assumed your world had no strong fighters. Strike strong and heavy before he awakens, else you and your species will die. Either that, or you will become the flesh that Yawm molds for his own ends.”
+
+A shiver ran down my spine as I frowned, “Damn. I’ll keep that in mind...” I raised a hand, “Ah yeah, I almost forgot. I met a guy called Tera. He was a Speaker for Schema. He mentioned a level cap. If I was a Fringe Walker, what would my level cap be, and would that get rid of my unknown statu?”
+
+The overseer leaned his chin against his right fist,
+
+“Well, well, Tera told you more than I expected he would. You will learn about the inner workings of Schema eventually anyway. You will receive a heightened level cap of 15,000. That is, if you continue your progression. You may be staring too far ahead.”
+
+The overseer shook his head, “By Schema, I pray you don’t stagnate like the necromancer or remnant. They stalled before coming to full fruition. Let us hope you are different in that regard.”
+
+I shrugged, “I just want Yawm killed and my unknown status revoked. After that, I’ll figure out something to do. Maybe that will mean fighting all time, maybe not. We’ll see.”
+
+The overseer glanced at the rune on my arm. With a nigh reverent tone in his voice, he spoke,
+
+“Interesting...It’s true then...You actually learned the Dimensional Cipher already.”
+
+I inspected the dual eldritch rune on my left arm as I spoke, “Well uh, not really. I know two letters, that’s it.”
+
+The overseer laughed, his deep, artificial voice both commanding and dominant.
+
+“That is all you need to know. With the obscene mana generation from that integrated dimension, you’ll reap many benefits from the cipher. That separates you and Yawm in many ways. While he had time on his side, you have tools he never had. Use them well.”
+
+I pointed a finger at the overseer, “What do you mean candidate?”
+
+The overseer boomed another laugh, “You will learn in due time. Be ready for it when Schema comes calling.”
+
+The overseer opened a portal in space-time, walking through it and disappearing. I raised my hands in frustration, “Why would he do that? Why not just tell me instead of leaving me hanging?”
+
+Hod walked up and placed a hand on my shoulder, “Because Harbinger not where Harbinger needs to be to know what Harbinger needs to know. Harbinger learn in time. Harbinger and Hod need to go back to Dry Man, not learn what Hod and Harbinger not ready to learn.”
+
+I shook my head, shaking out my irritation, “Yeah, you’re right...Let’s go.”
+
+Leaving the lake, Hod and I shot off towards the sewer indicated by our minimaps. I dived through the metal plate on top of it, drilling into the sewer. Leaving Hod behind, I shot through the walls of the sewer and the ground. With The Coming Tide, traveling through this terrain was nothing.
+
+Within minutes, I reached Torix’s base. I shot out of the ground, landing on my feet before jogging inside the building. I ducked under the doorway, turning sideways so my shoulders didn’t catch on the doorframe. It was something I got used to as my height increased. I paced up towards Torix as he frantically interacted with his status screen.
+
+Whenever I reached him, he turned towards me. His head tilted sideways. I frowned,
+
+“What’s wrong?”
+
+Torix pursed his lips, “You seem different. You are exerting a...I can’t quite put a finger on it...pull is the best word for it, I suppose.”
+
+I shrugged, “I got an evolution in my armor. It involved becoming a living dimension this time. Crazy, I know.”
+
+Torix shook his head, “Well, there is no reason for your unreasonable progression to cease. Where is Hod?”
+
+Torix raised his hand, a giddy grin forming on his face, “Tell me, did he not make it?”
+
+I rolled my eyes, “He’s alive. I travel through the sewers faster than he does is all.”
+
+Torix’s hands flopped against his sides as he glanced at the dusty floorboards, “Oh...really...Perhaps he will die at a later date. One can hope.”
+
+Hod stumbled inside, feathers falling off everywhere, “Hod back!”
+
+Torix let out a deep, disappointed sigh, “We see that.”
+
+Hod stood up, grabbing his chin. If it was anyone else, he would be mocking Torix.
+
+“But...but Hod thought Dry Man not able to see. Dry Man have blue fires where eyes are supposed to be.”
+
+Torix slapped the sides of his face, “I can see with these fires, you idiot.”
+
+As if discovering something profound, Hod stared at the ground, “Hod ask Dry Man...” He glanced back up, “Does that mean all fire see like Dry Man?”
+
+Torix dragged his bony hands across the wrinkled, dry skin on his face, “The fire I use is an enchantment. It comes with being a lich. I maintain it since it enhances a few of my senses. Unlike my eyes, most fires are simply inanimate byproducts of combustion. They are not alive like I am.”
+
+Hod nodded his head, “Hod thank Dry Man for explanation. Fire confusing to Hod.”
+
+Torix pursed his lips and lowered his hands, “Well then...you’re welcome.” Torix narrowed his eyes, staring at Hod, “You...you’re a higher level then me now as well. That explains why you don’t seem quite as...infantile.”
+
+I looked over Hod’s face. He was sitting at level 1401. I forgot to check out my own level and put points into my stats. With that in mind, I opened the status screen. I was level 1594. I put all my extra points into endurance. There was no rush in power. It was a steady crawl as I expected.
+
+I closed my status screen, seeing Hod do the same. Putting points into my attributes reminded him about his own stats. After finishing that process, a cockroach crawled along a wall nearby. As organized as Torix was, cleanliness wasn’t on the top of his priorities. I reached out with Event Horizon, disintegrating the cockroach instantly.
+
+Torix’s head whipped up towards me, “What was that?”
+
+I raised an eyebrow, “What do you mean? I used oppression.” I shook my head, “No, wait a second, it’s called Event Horizon now.”
+
+Torix grimaced, his voice solemn, “That aura...it feels like an Old One.”
+
+I bit my lip, “Really?” I blinked, “That’s unnerving. You’re supposed to be the Old One here, not me.”
+
+Torix’s lips curled up into a slight grin, “Hah, that’s true I suppose. You’re still Daniel, though a bit more menacing now.”
+
+He opened his status screen, sending two messages over the next few seconds. Hod slammed his fist into his outstretched palm,
+
+“Ah, Hod get it. Dry Man old, so Harbinger say Dry Man supposed to be the old person, not Harbinger. Of course.”
+
+I rolled my eyes, “Yes, Hod. Exactly.”
+
+Hod wiped at his nose with a smug satisfaction, “Hod pretty smart, Hod have to admit.”
+
+Torix took a step back, his blue fireball eyes growing in size. He turned his head, reading a message. After he finished, his hands shook. He turned towards us and shouted,
+
+“Silence.”
+
+He created two messages before sending them towards us.
+
+He stared holes at us, the fires looking like wide eyes as he yelled, “Follow those routes immediately.”
+
+I raised an eyebrow, “What is it?”
+
+Torix raised his hands, panic leaking into his voice, “A follower has found the training center of the Steel Legion. Kessiah is fighting as we speak.”

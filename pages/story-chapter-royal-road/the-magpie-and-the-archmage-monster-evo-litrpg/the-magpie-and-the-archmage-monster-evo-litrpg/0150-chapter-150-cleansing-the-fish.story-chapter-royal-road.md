@@ -1,0 +1,135 @@
+---
+id: 0a586bdf-09a4-5039-afd4-9a40277890bc
+page-type-slug: story-chapter-royal-road
+title: "Chapter 150 – Cleansing the Fish"
+slug: 0150-chapter-150-cleansing-the-fish
+partOf: the-magpie-and-the-archmage-monster-evo-litrpg
+position: 150
+ownLength: 1954
+unit: words
+publishedAt: 2026-07-22
+link: "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3709415/chapter-150-cleansing-the-fish"
+royalRoadId: "3709415"
+---
+
+Liora's disappointment was immeasurable. She improved her vision to a degree that would let her perceive Renir's true beauty even better. Why was he even so beautiful with those minute wisps of rainbow swirling around him? Why did Cee have a subtle blue aura? Was it because she was a magic spider?
+
+That would make sense, especially seeing that Smokey didn't have a single wisp of magic to his scales. The merfolk had varying degrees of what was like a mana aura or something of that kind. Some had a more intense presence, usually with blue being the dominant color. Some had a smaller aura, and a rare few had a wisp of green or yellow mixed in.
+
+But Renir was the only one with a beautiful rainbow. Frankly, she just wanted to sit all day and admire him, watching the colors swirl. Unfortunately, she couldn't even manage a conversation with him to ask what these colors were all about.
+
+"You've rested well, I hope," the whale shark merman said, although his face showed that he didn't really care much whether Liora and her friends had been comfortable or not.
+
+"Well enough," Liora replied curtly.
+
+"Good. Then we shall test you. Whether your words are true," the whale shark merman said and looked at one of the dolphin merman, nodding at him.
+
+The dolphin merman swam away and returned after a moment, followed by a group of merfolk, who all held a rope in their hands. The rope was connected to a small fish, which was so thoroughly bound that Liora could barely even see a speck of its body. But what little she did see was black and corrupted.
+
+The fish was gnawing desperately at the bindings and thrashing about, trying to break free. Despite how small it was, it still looked like the merfolk that were struggling.
+
+"Do you need this thing alive afterwards?" Liora asked, pointing at the disgusting, corrupted fish.
+
+"You said you can cleanse it. I don't count killing it as cleansing," the whale shark merman said, glowering at Liora.
+
+"No need to get all grumpy. It will get purified either way, but if I'm not careful, then live creatures can be turned into blightstones," Liora explained.
+
+"Blightstones… I have no clue what you're talking about, but I wish for this fish to be cleansed and alive," he said impatiently.
+
+"Fine, fine! No need to get your fins in a twist. Renir, help me out, okay?" Liora asked, swimming up closer to the corrupted fish.
+
+"Of course," Renir confirmed, wiggling his stumpy arms ever so adorably.
+
+The corrupted fish locked onto Liora and opened its mouth as if threatening to bite her. Not sure what it was trying to accomplish, since it didn't have any teeth. Nonetheless, Liora wasn't about to underestimate a corrupt opponent.
+
+She used Purify on it, watching the corruption retreat. All of the corrupted energy instantly began to concentrate into a blightstone. At that point, Renir took control of the situation with his magic. Frankly, she wasn't sure exactly what he was doing. Taking control of her mana? Distributing it? She didn't know enough about magic to explain it.
+
+But just like with the corrupt patients, thanks to Renir, the fish was spared the fate of becoming a blightstone, and soon, with their combined efforts, the fish was turned back into its boring and much less vicious self. The merfolk stared at the fish in disbelief.
+
+"Untie and examine it carefully!" The whale shark merman commanded.
+
+The guards who were holding the ropes untied the fish, revealing that it indeed was cleansed without a single scale of corruption on it. It looked around, opening and closing its mouth in the derpy way most fish did it.
+
+"As you see, a fully cleansed fish. As good as new," Liora boasted, wondering if perhaps this fish could be their lunch, instead of the sandy seaweed slop they were served in the morning.
+
+"Amazing… You weren't lying…" The whale shark merman swam forward in disbelief.
+
+"Of course not. Why would I lie about this?" Liora glared at him.
+
+To her surprise, the whale shark merman bowed to her. "My apologies… I have treated you unjustly because you are a surface dweller, but it appears I have wrongly applied the sins of humans onto you. I have been incredibly rude."
+
+The other merfolk around Liora also bowed, and she felt herself puffing her chest out in pride. That's right! They should be sorry for treating her so unjustly. It felt nice to finally receive some recognition.
+
+"My name is Thalzor, and I'm the leader of this city. Please, share your names with us, surface dwellers," Thalzor said, his expression finally softening.
+
+"I'm Liora, the spider is named Cee, and the wyvern is called Smokey," Liora replied.
+
+"Don't forget about your bonded partner, Renir!" Renir added.
+
+Liora wanted to peck him. Over the night, she had managed to blissfully forget his grand tale of romance. Now that she was reminded of it, Liora regretted thinking of him as beautiful. Okay, not really, but she was mad about this whole charade.
+
+"It is a pleasure to greet you in our city, and as much as I would like to show you proper hospitality of our people, you don't really feel very comfortable underwater," Thalzor said, his gaze drifting to Smokey, who looked like he wanted to be anywhere else but here.
+
+"Yeah, constant staying underwater isn't pleasant for us. Although I'm not sure if it would be safe for us to return to the surface yet," Liora said, thinking of Lucien.
+
+"Your master, yes, I imagine it would be best for you to stay hidden for some time longer. I believe I can provide you with a solution that would be comfortable for you, but I do ask for your help in return," Thalzor said.
+
+"Let me guess. You want me to solve a problem relating to corruption," Liora prompted.
+
+"That's correct. There's a weird facility on a difficult-to-reach island. As merfolk, we cannot reach it since it is on the surface. From this facility, weird, magical artifacts are being thrown into the sea. These artifacts, when they come into contact with live creatures, corrupt them, turning them into the hideous monsters you already saw."
+
+"We've been doing our best to dispose of these artifacts, but it proves difficult since touching them leads to… "
+
+The whale shark merman trailed off, and all the merfolk gathered around looked somber.
+
+"I guess I can go take a look, but I can't promise anything, given that I don't know how big this facility is. I can heal the people who have been corrupted. But not if you keep us in that abysmally dark cell and feed us seaweed this sand," Liora quipped.
+
+"It is supposed to be a prison," Thalzor explained, although he did look a bit guilty. "But as I said, I believe we have a place you would find most pleasant. Dolphar, would you be so kind as to take them to the grove?"
+
+"At once, leader," Dolphar, the dolphin merman that had led the group that found Liora, gently took hold of Smokey and motioned Liora to follow.
+
+Liora really hoped this place would be good, because the whole underwater space was becoming more difficult for her to handle by the minute. She just didn't enjoy being underwater for so long, flapping about like some penguin. Imagining just how horrible Smokey and Cee felt, who couldn't even do that much, made Liora shudder.
+
+If only that damned evil mage wasn't so keen on killing Renir…
+
+With merfolk not eager to kill them anymore, Liora would have loved to just leave, but it was best to be cautious and remain underwater for some while yet. Although she wasn't eager to deal with more corruption stuff. It was always a pain in the butt, not to mention the guaranteed involvement of the Night Order mages.
+
+Heck, wasn't it possible that Lucien was the one responsible for them? There was no way Liora could do anything to help the merfolk then, except heal their corrupted comrades.
+
+But that was a worry for another day. Dolphar led them all in the opposite direction of the prison to what appeared to be a training area. It looked completely different from the training grounds near the Adventurer's Guild. It was more like an underwater obstacle course; the many merfolk engaging in it with weapons in hand made the purpose quite clear.
+
+Swimming past that, they reach some kind of odd gate, carved out of rock. Unlike everything else in the city, this one actually had a large door in front of it as well as several large shark merman guards stationed at each side. Their looks alone, with many scars and slightly grizzled fins, made Liora not want to go anywhere near them.
+
+"Wh-What is this place?" Liora dared to ask, trying not to meet the eye of the shark guard who was glaring right at her. As if daring her to do something bad.
+
+"This is a dungeon," Dolphar answered.
+
+"What?" Liora, Cee, and Renir all looked at him in surprise.
+
+"I didn't know that there could be a dungeon underwater," Renir mused aloud.
+
+"They are not common, but there are a few. This dungeon is the reason why our city has been able to prosper. Let's head inside," the merman urged.
+
+"Wait, aren't there monsters there?" Liora asked.
+
+"Don't worry, you'll see once we go inside," Dolphar urged.
+
+Liora wondered whether the merfolk had just decided to get them killed. Dungeons came in a variety of flavors, and Renir definitely had no clue what was inside this one. Technically, even in the dungeons where he had been before, he wasn't able to provide much help besides navigating the corridors.
+
+But what choice did they have? Either follow the merfolk into a possibly deadly dungeon or head back to the surface, where Lucien was likely searching all over for them. She just had to hope that this dungeon had monsters that she could handle.
+
+The two shark guards swam over to open the large doors. Liora felt like she was being sucked into them. She tried to resist it at first, flapping her wings, but seeing that Dolphar was taking Smokey and Cee inside, she reluctantly allowed the water currents to drag her inside the narrow door opening.
+
+It felt like being washed down a giant drain, as she was unceremoniously tossed and flipped on her head until the crazy current finally stopped. To her displeasure, Dolphar, Smokey, and Cee looked unperturbed, somehow having gotten through the violent current without being tossed around as Liora did.
+
+"Swim up," Dolphar indicated, and swam with Smokey and Cee in tow.
+
+Liora noticed that this area was much lighter than the merfolk city. It was as if they were much closer to the surface. She swam after them and before long, her head emerged above water. Looking around, she saw that she had ended up in a place that could only be described as an oasis.
+
+Palm trees were growing all around the lake where they had ended up, alongside large banana trees among many, many colorful flowers.
+
+"This is a dungeon?" Cee exclaimed in shock.
+
+Smokey, for one, didn't waste time and scampered onto the shore, moving his wings clumsily to get away from the water as quickly as possible. Liora didn't waste time either. With a strong flap of her wings, she was out of the water and grabbed Cee out of it, too.
+
+Dolphar, however, remained underwater. "If you wish to get out, merely swim back down and you'll return to our city. Good luck!"

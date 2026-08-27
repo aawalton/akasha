@@ -1,0 +1,233 @@
+---
+id: ee96297a-dc26-5f39-8b86-c6fcd783d65c
+page-type-slug: story-chapter-royal-road
+title: "75 Who Goes There"
+slug: 0032-75-who-goes-there
+partOf: the-new-world
+position: 32
+ownLength: 3520
+unit: words
+ownProgress: 3520
+publishedAt: 2017-11-14
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/174198/75-who-goes-there"
+royalRoadId: "174198"
+markedReadAt: "2026-06-29T21:21:51.501Z"
+---
+
+So that’s what I did. The priority turned to sensing gravity, even the smallest fragments of it. I had to learn to walk before I ran, so to speak. After brainstorming some solutions for a bit, I sat in a room with gravity that was slightly off. I cleared my mind, directing my attention to my senses. Instead of thinking about it, I would discover it over time.
+
+About fifteen minutes into the venture, a notification popped up.
+
+Data Upload…Delay of ten minutes for each skill and level up. Skill Learned! Meditation (lvl 1) – Clearing the mind broadens the senses. +1% to regeneration when meditating. Senses outside of sight enhanced by 3%.
+
+The skill was just what I needed. Using it, I stretched out my other senses. Smell, taste, touch, the senses I had without any skills behind them were the first culprits for easy skills. Over the next three hours, I gained the skills Feeling, Smelling, and Tasting. Using the sense of touch, I attempted to feel the subtle fluctuations of gravity around me.
+
+Overtime, the process became more familiar. Even the smallest object exudes gravity after all. Being able to sense that would make manipulating it much easier. I ended up creating a sort of scan of the room I was in, like creating a picture without my eyes.
+
+The wind shifting around could give me an idea of where the windows were. I perceived the slight change in temperature from the top of my head and my feet. Hot air rises, and cold air sinks, creating a difference even over short distances. I opened my mouth, tasting the air. If I tried to focus in my senses, bits of the air would taste different.
+
+It smelled different too. Homing in on each breath, I began noticing differences in the smell of each breath. Some were fresher, more loaded with oxygen. Other breaths were stuffy, like someone had breathed them. The subtle differences leaked into my awareness, but only if I magnified them with my enhanced senses.
+
+A few more hours, and other sensations came into focus. Drops of water splashing in the distance, the flow of liquid, falling and shifting outside the room, I even perceived Althea’s breathing from across the cavern. She tried keeping her footsteps quiet, but the rang out loud and clear as being beside me. Even the waves of sound became clear. Rocks and other obstacles muddied my image, but I pieced it together.
+
+Sight of her surroundings came into focus. The stalactites dotting around her, the lamp floating above her head and its gentle hum, it came into my mind. Layers of this kind of perception came in, giving me a detailed idea of my surroundings. I tapped the ground, and that bit of noise gave me an even clearer picture.
+
+I tapped my fingertip again, my awareness turning clearer. Over the next few hours, I tapped my fingertip against the rock. The wave of sound turned clearer, along with the shifting of air and temperature around me. I stood, relying on the new awareness. I walked around while tapping two of my fingers together. Relying on the timing of the sounds echoes, I walked around the room.
+
+Within this room, many square blocks etched themselves out of the brown rock. Artificial and precise, these formations served no purpose, at least to my knowledge. Giving them one, I worked on avoiding each of the blocks relying only on the sense of hearing, taste, and touch. I bumped into more blocks than I could count, but I got the hang of it eventually.
+
+For my efforts, I got a nifty little skill.
+
+Data Upload…Delay of ten minutes for each skill and level up. Unique Skill Gained! Fuses the skills Tasting, Feeling, Smelling, Meditation, and Focus into Tactile Cognition. Total points possible from these skills was 500. Half of the incomplete total is rewarded, 176 points received.
+
+Tactile Cognition (lvl 1) – Others may have better senses. Few will use them better. Enhances information gathered from all senses.
+
+That was my reward for one day of intense concentration. Leveling the skill would be difficult on my own. Fortunately, I had a partner who was working on a similar skill. That partner already went to sleep and woke up during my session. She was working on sticking to the cave wall without stabbing her hands into the wall. The results were mixed so far.
+
+Walking up to her as she hung against one of the walls, I waved a hand,
+
+“Hey, want to have an exercise.”
+
+Althea turned to me, a grimace plastered to her face, “For the love of Schema, tell me it isn’t sparing.”
+
+I rolled my eyes, “It isn’t. I was going to try using one of my new skills and practice it. You’ll try and sneak up on me during the meantime.”
+
+Althea dropped from the wall, landing on her feet, “Uhm, that sounds fun. Working all by myself gets boring after a while.”
+
+I nodded, “Tell me about it. We should schedule some stuff like this in throughout our day. It would let us be more productive while we work.”
+
+She grinned, “Yeah, that sounds cool…So uh, how do you want to do the exercise.”
+
+I pointed at a bridge over a waterfall, “I’ll sit there with my eyes closed, and you try to sneak up on me.”
+
+She smiled, “You sure about that? That’s a terrible spot for listening.”
+
+I shook my head, “I think it’ll be the exact opposite.”
+
+Althea shrugged before running off into the city of abandoned buildings, “I’ll start over here. You shout when you’re ready.”
+
+I nodded, running over towards the bridge. Three minutes later, I sat cross legged across the walkway of stone. Over the next few minutes, I surged the skill Tactile Cognition. Within a minute, Althea’s movements came up. She skulked closer, but she didn’t do so quietly. Her feet made a scraping sound with each step.
+
+Whenever she reached past a house and neared my bridge, I shot out a telekinetic panel towards her. Not enough to slam into her chest, but enough to let her know I found her. She scoffed as I grinned with my eyes closed,
+
+“I assure you, my eyes are closed even if the slit of my helmet isn’t.”
+
+Althea sighed, “The slit’s closed. I know your eyes aren’t opened. It makes this hard to handle. How did you know I was here?”
+
+“Your steps are loud.”
+
+She frowned, lifting both hands, “Really? That’s what I’m working on the most.”
+
+I shrugged, “Eh, practice makes perfect. Let’s hop to it.”
+
+We continued the exercise for an hour. After a few mishaps, Althea learned that she wasn’t lifting her feet up enough. She was dragging her feet, leading to the scraping sound. After she discovered that weakness, she caught me a few times without me sensing her.
+
+One hour of practice turned to three. Althea developed tactics for making less noise, like holding her breath. Her big breakthrough came after she made her feet the same texture as wool socks. Her transformation ability made her steps dead silent. I relied on her body creating ripples in the air afterwards.
+
+She made her figure more aerodynamic, slicing through the air instead of pushing through it. Without the shift in the air, I focused on the temperature of her skin. She let off enough heat that I could discover her even without those other signs. Whenever she made her blood the same temperature as the air, I couldn’t sense her. Even with all the will in the world, my ability couldn’t find her.
+
+The third time in a row that she caught me, she jumped for joy halfway through. I stood up,
+
+“What’s up?”
+
+She giggled with delight, “I got a unique skill. It’s called Stealth Form.”
+
+I sighed, “Yeah, it’s kicking my ass. I can’t find you.”
+
+She nodded, the grin still on her lips, “I know, right? It feels good to finally beat you at something.”
+
+I rolled my eyes, “We’ll pick this up tomorrow. I’ll see if I can’t catch up somehow.”
+
+She grabbed her hands together behind her back. She leaned towards me, “Good luck.”
+
+It would’ve been a cute gesture if she wasn’t quite so deformed. Her reformations didn’t bother me like they used to though. Probably because I was less normal now, in my own eyes at least. Thinking back on it, my own weirdness may have helped her accept this bizarre side of herself too.
+
+We talked about that and the buildings during lunch. We ate our meals together, those events being a rare moment of rest and relaxation. After finishing the meal, I went off towards one of the rooms and tried figuring out the runes. Twelve hours later, and I carved out at least a dozen pages of the runes in excruciating detail. Didn’t get much from it though.
+
+My willpower kept me from going insane though, so I met up with Althea once more. During this training session, we changed things up a bit. I searched for her instead of her approaching me. We thought up the game with the intention of mixing up our use of our skills.
+
+I hunted for her throughout the ruins, finding it more difficult than I imagined. For starters, using my Tactile Cognition skill while moving was much more difficult. Second, Althea’s lightness made her like feathers with feet. Her new form made no sound, no heat, no nothing. No matter how much I homed in on my normal senses, I couldn’t find her.
+
+Repeatedly, she executed stealth attack after stealth attack. Without oppression as a line of defense, killing me would be a simple affair for her. Knowing that made my skin crawl. All the distance I made between us was closed in one fell swoop, all in one skill. It was humbling to say the least.
+
+In my mind, the distance was huge. Reality came crashing down on those thoughts like a sledgehammer though. She just needed to use her talents more effectively to beat me. I wasn’t the kind to take an ass whooping lightly though. Over the next week, we continued the game. With every loss, I honed my efforts. With every failure, I pushed my senses further.
+
+During the morning of one of our exercises, a sort of awareness came over me. At the limits of my feeling, I sensed a pull on all sides. Subtle and small, the pull was so small, you could argue it didn’t exist. It did though, I could feel it. The water followed this pull as it flowed. The buildings pulled on the roof as the roof pulled on the buildings. Off in the distance, Althea exuded this same pull as well.
+
+Data Upload…Delay of ten minutes for each skill and level up. Skill Learned! Gravitation Sensor (lvl 1) – Most only sense gravity through its largest effects. You discern it through honing your perception instead of broadening it. +1% to accuracy of gravitational reading. +1% to range of gravitational reading.
+
+Using this sudden sense, I shot a wave of telekinesis at her. She flopped backwards, her smile turning to a frown. She leaned up off the side of a building,
+
+“How did you find me?”
+
+I grinned, “Feeling for your gravitational pull.”
+
+She raised an eyebrow, “Really?”
+
+I nodded my head, “Yup. Good luck getting rid of that. Game over.”
+
+And game over it was. No matter how little she evaded my other senses, she couldn’t erase her mass and weight. It was impossible. She tried reforming herself into odd shapes to throw me off. It worked a few times, but once I sharpened my sense for gravity further, I found her every time.
+
+Althea grew frustrated, but it was a different kind of frustration. She didn’t just shut down and try the same shit over and over again. She widened her approach instead. Our game turned tense as strung wires as we both tried harder to outdo the other. Competition spurred our progress, creating rapid improvement from us both.
+
+She tossed rocks and other objects once she came near to me, throwing off my new sense. She stretched herself out, flowing through channels of water to mask her mass and weight. Over the next week, she learned to disperse herself over wide areas. Utilizing the absolute maximum of her transformational ability, she stretched herself so thin that she felt like a thick patch of air.
+
+As my awareness of gravity leveled, I gained the tools I needed for fighting against her. Once I was feeling my own pull of gravity with deep clarity, I attempted pulling it. Like a waking dream, the gravity around me relented to my will.
+
+Skill Gained! Gravity Shaper (lvl 1) – Through a profound understanding of gravity, you’ve learned to wield it. Unlike most, you bend gravity instead of creating it. +1% to ease of manipulating gravity.  -0.5% to mana cost to warp gravity. You may manipulate space-time up to your own current mass without a mana cost.
+
+It wasn’t some cataclysmic bending though. I tweaked it a bit, sending a ripple out. With another attempt, I rippled gravity once more. With a wide grin, I turned towards Althea’s own gravitational flux. I was situated in a small alleyway, sandwiched between two houses. She approached from overhead. Althea made herself into a cloud that hurt like hell to breath.
+
+It was a feat of her power that I didn’t quite understand. Fighting her in the form though was almost impossible without using oppression. Telekinesis and punches had little to no effect on her. This new gravity magic hopefully would pack more of a punch.
+
+I crushed my hands, sending a moderate pulse of gravity right at her center. The pull of gravity rippled out, pulling her cloud form inwards a little bit. I pursed my lips. I hadn’t maintained the field, so it only created a jerk rather than a steady pull. If Althea reached me, she’d condense behind me and put a hand knife against my throat. We considered that a game over.
+
+With her being several feet away now, I reached out and clamped my fist shut. I sent out a larger, steadier wave of gravitation this time. Her form compacted towards its center, but without the speed I’d like. With further strain, I tightened my fist, making it hard as a ball of iron.
+
+My mana burned as the pull-on gravity strengthened. Althea’s cloud form came together, her normal form integrating from the air. Once Althea turned back into a person, she balled herself up into fetal position. Letting her go, I smiled. Pacing up to her, I put my hands on my hips,
+
+“Counter achieved. Take that you cloud monster.”
+
+Althea sprawled out onto the ground. She pulled herself out and gasped, “What…how did you do that?”
+
+I raised hand, forming a gravity well above her. The pull straightened out her back, removing the slouch. She frowned, “What the hell?”
+
+I grinned, “I finally learned how to use gravity.”
+
+She looked up, “Woah…Cool.”
+
+I nodded, my hand relaxing. I created another well right above her. Taking my cue, Althea reached up her hand to the center of the well. She pulled herself up with it. Once up, I strengthened the gravity well. I lifted my hand, lifting her in the process. She glanced at me, her feet waving through the air,
+
+“You can do this?”
+
+I laughed, “Hah, Apparently I can. Let me see…”
+
+I moved her around, jerking her through the air. I tried shifting her liked a rollercoaster, causing Althea to scream with laughter. Shifting her wasn’t like using telekinesis. telekinesis pulled on me, shifting gravity didn’t. Besides for that, it took zero effort to throw Althea around with the power.
+
+After a few minutes of messing around with the skill, I could chain the wells to accelerate her to swift speeds. The range was limited though. As I made the fields further away from me, they grew weaker for the same amount of effort. As I made them closer, they became stronger. To combat this, I kept Althea turning into a circle around me. Once I got her going too fast, she yelled,
+
+“Please let me down now. I’m getting nauseous.”
+
+“Oh…Sorry about that. Got caught up playing with the new toy.”
+
+I slowed her down with a few wells before catching her as she fell. I set her back onto her feet, holding her steady by her shoulders,
+
+“There yah go. Hope it wasn’t too bad.”
+
+She shook her head, smiling, “Honestly…it was pretty fun.”
+
+I let her go once she quite wobbling. I stepped back, “Do you mind if I try some stuff out with the gravity magic for a bit?”
+
+Althea’s eyes narrowed, “As long as you don’t send me in circles again.”
+
+I shrugged, lifting my left hand and sending her off the ground with a gravity well, “Eh, who knows. We’ll have to see how it pans out.”
+
+She threw her fists at me, smiling despite my teasing. I laughed a bit before trying to create a gravity well with as much pull as she had. After a bit of tweaking, Althea floated through the air, nigh weightless. She waved her hands, giggling like crazy at the new sensation. She waved her hands,
+
+“This is amazing.”
+
+I grinned, “Yeah, it’s pretty damn awesome.”
+
+Unlike telekinesis, gravity moved like I wanted it to. Molding it wasn’t some hellish undertaking. It was as natural and easy as blinking or breathing. Figuring out a few of the intricacies of it might take a while, but making the gravity wells took little to no effort.
+
+With that in mind, I dispersed the field holding Althea. Instead of pinning her at the center tightly, she weighed back down to the ground slowly. With a bit of effort, I compacted the field of gravity. Althea jerked back up to the center, holding there tightly. Dispersing would only be useful for extending the outer reaches of gravity’s effects, not for much else.
+
+I kept condensing the field before the familiar pull of burning mana started. A second later, Althea shouted out. I stopped the field before she landed on her feet. She shook her head,
+
+“What did you do then? It felt like I was in a trash compacter.”
+
+I frowned, “Sorry about that. I was trying to see how much I could condense. It seems like a pretty solid amount.”
+
+She narrowed her eyes, pointing at me, “Test that on something like rocks. Keep the fun stuff for me.”
+
+I nodded, “Sure thing. Want to try out the game again?”
+
+She grinned, “Yeah, I think I have something new to try out.”
+
+She disappeared from sight. I blinked, not believing my eyes. A second later she appeared beside me with a knife dagger against my throat,
+
+“Told you. I can learn too.”
+
+I raised my eyebrow, “Damn girl. You’ll be outdoing me here soon.”
+
+She put her hands on her hips, smiling from ear to ear, "I researched animals on your planet, and I found something called a cuttlefish. It's an octopus that changes color. With a few tweaks, I can do the same thing. With it, I'll be able to beat the crap out of you soon."
+
+I jerked up both my hands, waving my fingers, “That is, if you can even stay on the ground.”
+
+She reached towards me, but it was too late. She frowned before forming wings on her back. With a mighty flap, she pushed against the gravity well. Another flap, and she resisted even more. On her third flap, I canceled the first well and created another one in the direction she was flapping towards. She shot forward, stumbling across the ground a few feet.
+
+I busted into laughter. Her expression soured, “Thanks a lot.” She dug her hand into the ground. A tentacle wrapped around me leg before pulling me backward. I slammed into the ground, echoing a loud boom before she stood up while laughing back at me.
+
+“Hah! Not so fun is it?”
+
+I pushed myself off the rock floor, chips of stone falling from my shoulders,
+
+“Eh, I had that one coming. Another round?”
+
+She nodded, giving me time to heighten my senses. The fluctuations of gravity became apparent once more. Althea’s pull came into focus, but more so, a set of breathing sounded off in the distance. I turned, seeing one of the tunnels beaming light from the outside. Someone in a gas mask with red tinted lenses starred at me in the distance.
+
+At its sides two hooks were hanging. A cape draped down its slender shoulders, ragged and covered in holes. It tilted its head, curious instead of threatening. It raised a hand towards me, feathers covering its arm. With a talon at the end of its finger, it squawked at me. I raised an eyebrow. The thing lowered its arm, standing still.
+
+Data Upload…Ancient Language detected. Reviving dormant directories…Message received and decoded.
+
+“Come.”

@@ -1,0 +1,213 @@
+---
+id: e01ab38e-f35e-5acd-9be9-a29d0c7f83d8
+page-type-slug: story-chapter-royal-road
+title: "84 Finalizing Details"
+slug: 0041-84-finalizing-details
+partOf: the-new-world
+position: 41
+ownLength: 2822
+unit: words
+ownProgress: 2822
+publishedAt: 2017-12-06
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/178529/84-finalizing-details"
+royalRoadId: "178529"
+markedReadAt: "2026-06-29T21:22:11.492Z"
+---
+
+Kessiah propped her weight onto one hip, “He’s actually serious?” She reached over and flicked Hod at the tip of his metallic beak, “I’m not Lady Friend number two. I’m Kessiah Crow.”
+
+Hod grabbed his nostrils, “Hod sorry. Hod not mean to hurt Crow’s feelings. Hod thought Crow not bird like Hod. Hod see now. White hair of Crow like feathers. Crow’s Violet skin like…Hod give up. How is Crow bird and not person?”
+
+Kessiah blinked, “Wait…My last name is Crow, I’m not an actual crow. How do you even know what a crow is?”
+
+Hod raise a hand, “Hod use blue box’s help. Box tell Hod what Crow is.”
+
+Torix cupped his chin, “Assuming you can’t read, you must have discovered the audio function preset into the system. You might not be as idiotic as your speech implies.”
+
+Hod shook his head, “Hod think Dry Man think too much about Hod speaking. Hod speak strange, true, but Hod use words to speak. Words not good for speaking. Actions better, because actions speak alone. Actions not need Hod to speak for them.”
+
+Torix lowered his hand, “Quite a strange observation. I can’t tell if that was incredibly intelligent or incredibly stupid.”
+
+I tilted my hands back and forth, “Take everything Hod says with a grain of salt.”
+
+From beside me, Althea materialized out of thin air. She raised a hand, “Hey guys. It’s good to be back.”
+
+Kessiah and Torix froze in place. Unlike them, Althea’s appearances didn’t surprise me anymore. Anytime I didn’t use my skill for sensing gravity, Althea could erase herself from my senses at will. Neither Torix or Kessiah had seen it in action though. Torix gasped,
+
+“Althea…You disguised your mana? How?”
+
+I turned to her, curious as well.
+
+“Oh yeah, I forgot I was doing that. Uh, well, Daniel and I trained a lot by playing a game, kind of like hide and seek. He would try to find me while I hid. I came up with all these different ways of hiding, some of them worked and some didn’t. Mana was one of those ways of hiding.”
+
+She raised a hand, “Hmmm…What’s the best way to say this...Ok, you can sense mana anytime it’s regenerated or is full, right?”
+
+Torix nodded, leaning closer to her, “Of course.”
+
+I raised an eyebrow, “Why exactly?”
+
+Torix pointed a finger towards the sky, “The reason for sensing a filled mana bar is the over capped mana creates an aura you can sense. The reason for regenerating mana is the fluctuation of mana. If someone’s mana pool is altering in size, it distinguishes itself from ambient energy. It’s similar to a camouflaged animal moving.”
+
+Althea nodded, “So with Arcane Blood, my magic is like health. You can’t sense it being made, because it’s just health regen. The hard thing is finding a way of keeping my health uncapped all the time.”
+
+With a vigorous nod, Torix tapped his chin, “That’s very true. Daniel couldn’t disguise his mana signature at all. His method of dispersing it is…vibrant to say the least.”
+
+I shrugged, “I didn’t know you could even sense people’s mana like that.”
+
+Torix grinned, “I planned on showing you later. You’ve been rather keen on developing your own skills in your own way. I decided to let you develop yourself organically.”
+
+Althea pointed at me, “The thing is, unlike your health build, my build is strength, dexterity, and perception. I’m an assassin, and I don’t have some ridiculous value for my health regen. To keep my low regen from capping out my health, all I have to do is make it equal to my mana consumption. It uh, strengthens the stealth form and makes my mana signature harder to detect.”
+
+Torix nodded, “But how do you use your ammunition? To my knowledge, it requires mana to make?”
+
+She glanced at the ground, “That’s uh, well, Daniel gave me a ring that lets me use his mana for that.”
+
+Torix grinned at us both, “Both of you working together has improved our fighting potential drastically. This is precisely what we needed out of Althea for killing a follower. I do wonder, however.”
+
+He pointed a finger at me, “How are you sensing her then?”
+
+I tapped temple, “I’m sensing her fluctuations in gravity.”
+
+Kessiah frowned, “What? Bullshit. That’s impossible.”
+
+Torix nodded, “I have to agree. That shouldn't be possible. I told you to feel the fabric of the dimension you were in, not tiny fluctuations in it. That’s overly precise. It shouldn’t be possible for a warrior bui…Ah. Your enhanced perks.”
+
+I grinned, “Exactly. All the extra leveling perks let me do stuff like that when other builds like mine shouldn’t be able to.”
+
+Hod interjected, “Friends discuss complicated things. Complicated things leave Hod behind. Hod think complicated things better saved for later. Now we handle simple things, like what Hod do now.”
+
+Torix opened his palms to Hod, “Ah yes, what to do with you. You must be bored with our discussion. It involves words with more than two syllables.”
+
+Hod nodded, "Yes."
+
+Torix opened his arms in exasperation, “The Eltari will be used for handling reconnaissance and guerilla warfare. The gift of flight will allow us to strike at different areas of the quarantine zone and cull the infected there. You will lead the strike forces during those operations.”
+
+Torix turned to us, racing through his words to get rid of Hod, “During this, Daniel and Althea will be destroying opened rifts. It will be a two-pronged assault.”
+
+Althea offered a hand, “I can spy on them using my stealth form. I could gather intelligence or something like that on the enemy.”
+
+Torix pointed at her, still racing through his words, “Good. You will gather details on the enemy’s habits, weaknesses, anything you may find. Daniel can focus on clearing rifts.”
+
+Slowing him down just to tease him, I shrugged, “I could do some scouting too with my sensing abilities. I mean shit, I can sense Althea even in her stealth form. Someone still needs to clear rifts, so I’ll upload data about what I sense above me as I travel.”
+
+Torix frowned, exasperated by our interruptions, “That's just dandy. I'm certain that extra information will be useful. Regardless-”
+
+Kessiah nodded, interrupting him, “It sounds pretty good I guess, but we haven’t even grilled these two on what they learned yet. How long were you guys gone exactly?”
+
+I shrugged, “I don’t know. Maybe three or four months. It was a pretty long time.”
+
+Torix sighed, giving up on rushing through the conversation, “You both must have found a rift with a rather intense time dilation. It’s only been three days since you both left.”
+
+Kessiah stepped closer to me, looking up at my face, “Yeah, in three days you’re even taller now. Like six inches taller.”
+
+I stared at one of my hands, checking out the size of it, “Yeah, I guess it comes with the whole leveling thing.”
+
+Torix pressed his hand into the air, fiddling with a status screen none of us could see, “Speaking of which, let’s see what we’re working with.” He glanced up at me, his jaw dropping, “Since when did you become a higher level than even me?”
+
+I raised an eyebrow, “Wait, what?”
+
+I analyzed Torix again,
+
+Torix Worm, of Darkhill (lvl 1341) – A powerful necromancer who has lived for a very long time. Taking a calm, patient approach, Torix Worm has slowly accrued an army of summons that he may use. Instead of focusing on leveling, Torix is a seeker of knowledge. He jumps from one interest to the next, gaining mastery of each magic or tactic he leaves behind.
+
+While his pursuit of knowledge is admirable, knowledge does not result in the death of Eldritch. His level is far below what his volume of skills would indicate, and his ability to use those skills in combat is limited as well. His assortment of skills is like a swamp, wide and varied, but lacking in depth.
+
+Make no mistake, however, those skills become deadly when used over time. Torix’s ability to weave intricate strategies that make use of his many skills are second to none. Combine that with his usage of fortress tactics, and you have a difficult foe to kill indeed.
+
+I pointed at his status above his head, “So why are you not that high a level given how old you are?”
+
+Kessiah elbowed Torix, a malicious grin growing on her lips, “He doesn’t like fighting. He’d rather sit in a library and read a book.”
+
+Torix rolled his eyes, “The undead receive experience penalties. Outside of that, I believe I make good use of my level, unlike some high leveled remnant I could mention.”
+
+Kessiah crossed her arms, “Oh really now? At least I was willing to go out there and kick some ass to get to my level. You’re almost out of dungeon cores for Althea and Daniel already.”
+
+Torix chided, “Oh yes Kessiah, we’ve seen how effective you are given your level. I recall Daniel nearly defeating you with a what, a 1500 level disadvantage? Makes you wonder if my disciple would even falter now. I’m sure he’s developed his skills instead of lounging around and relying on his innate talents.”
+
+Althea stepped up, “Will you two please stop acting like children.”
+
+Althea wasn't the kind of person to say that, so she got their attention. Kessiah and Torix stared at each other before Kessiah frowned at Althea,
+
+“Are you saying we're children now? Don't get a big head just because you gained a few levels."
+
+Althea stood her ground, “It has nothing to do with levels. Try to think about this like we're a team, because that's what we are now."
+
+She pointed at Torix, "Torix has a lot knowledge. If we use that, we can get a lot out of it.” Althea pointed a hand at Kessiah, “You’re really strong. If we use that right, we can get a lot out of it too.” Althea clapped her hands together,
+
+“But if we use them together, we can cover a lot more ground than either could cover alone. It’s kind of like me and Daniel. We have our differences, but those difference make us better together, not worse. Both of you could do the same thing if you just stopped fighting all the time.”
+
+After the outburst, we all stared at her. Althea speaking up like this was like a rare event. It didn't happen often, and that made it stand out. As Althea blushed, I stepped up,
+
+“In other words, stop jabbing at each other. I get why you guys dreaded working together, but come on guys. You’re like a thousand years old or something, right? Live up to it.”
+
+Torix narrowed his eyes, gripping his hand into a fist before sighing. He turned a palm to Kessiah, “As much as I hate admitting it, I agree with them. We're being petty. The bad history between us has a way of bringing that out. We can set it aside until after Yawm dies.”
+
+Kessiah pursed her lips as she crossed her arms, “It was just a little bit of fun. It's better than just doing everything like we're robots, or even worse, Daniel."
+
+I rolled my eyes, "That would just be terrible wouldn't it?"
+
+Torix shrugged, "Few things would be worse."
+
+I patted Althea’s back, “I didn't think you had it in you to stop these two.”
+
+Althea blushed a deeper shade of violet as she glanced at the ground, “Just trying to help.”
+
+Kessiah walked up, pressing a finger to my chest, “Don't think you're off the hook. I remember what you said. It sounded to me like you were trying to start a fight.”
+
+She clenched a fist at her side. For a second, I thought she was serious. After looking a little closer, it wasn't that she was actually trying to fight. It was like she was testing me.
+
+Taking a gamble, I shook my head, “Start a fight? Not really.” I gripped my hands into fists, “Always ready for one though.”
+
+My armor grinned as my unique skill, Overwhelming presence pervaded outward. Kessiah's glare deepened. She held me in suspense for a moment before slapping my shoulder,
+
+“Damn, you really grew a backbone while you were gone.” She glanced at Althea, a teasing grin on her face as she ruffled Althea’s hair, “You both did.”
+
+Using her long, purple hair as a curtain to hide her face, Althea flushed further. Despite her embarrassment and curtain of hair, I could tell there was a reluctant smile on her lips. The group let her relish in that feeling for a minute before Hod opened his wings towards us all,
+
+“Hod feel left out. Hod go to new home. Hod tired.”
+
+As he walked off, I waved a hand, “Good luck Hod. Be careful.”
+
+Hod shook his head, “Hod more careful than even Dry Man. Cut Hod some slack.”
+
+He paced a few feet before leaping into the air. He glided upwards in a circle, following a blue screen in front of him. Hod must have already uploaded a map to his new house. He dived toward the direction his map indicated. In classic Hod fashion, he slammed straight into the side of a brick building. He might have been staring a bit too closely at that map of his.
+
+Almost like a cartoon, he fell from the wall, leaving an imprint of himself in the brick. Althea giggled while Kessiah busted out laughing. Kessiah even pointed at him while slapping her knee. Torix and I just sighed in disappointment. Hod pointed at us, cawing, “Map dangerous. Hod know now.”
+
+He jumped back up and glided away. That’s how the other birds left as well. It didn’t take long before the crowd of birds dispersed. Torix walked up to me, placing a hand on my shoulder. I turned back around to face him,
+
+“What’s up?”
+
+Torix pointed back at his laboratory house, “Before I begin on the logistics of this situation, there’s something I’d like to show you. If you have the time that is.”
+
+“Of course I do. Let me say goodbye first then I’ll go with you.”
+
+After saying some goodbyes to Kessiah and Althea, Torix and I traveled back to his home. I ran while he floated on a cloud of black mana. As we traveled, Torix went into a spill,
+
+“You know, your capacity for leveling is highly unusual. I thought it would take at least another few years before you out leveled me, yet here you are, having already done the impossible. I suppose centuries spent inside a dusty old library didn’t do me as much good I thought it did. Regardless-“
+
+He turned towards me with a glowing smile, “I’m proud of you.”
+
+Fortunately for me, my helmet was on. Otherwise Torix would’ve seen me blush. I shook out my own embarrassment, “Thanks Torix. That means a lot.”
+
+Torix faced forwards again, “As it should. I don’t give out compliments lightly. I don’t give out gifts lightly either, but I believe you’re ready for one when we get back. It should be a key component of your future progress.”
+
+“What is it?”
+
+Torix rubbed his hands together, “You’ll see when we get back.”
+
+Within minutes, we reached back into Torix’s base of operations. The tunnels, wires, and runic inscriptions had slowly but surely turned this suburban home into an evil lair. As we paced inside, Torix announced,
+
+“While you were gone, I went about creating your new gift. I was planning on giving it you as a means of furthering your runic studies. They seem to be the focal point of your current interests. Instead of trying to refocus your learning on necromancy, letting you traverse further into the runic arts would do you more good. It is by far your most advanced magic after all.”
+
+I shook my head, “Not quite.”
+
+Torix opened the door, turning to me, “What do you mean?”
+
+I walked up to a nearby tree, just big enough for your average guy to wrap his arms around it. I set up my telekinetic augments, firing my ascendant mana, and drove my fist into the nearby tree all at once. Before my fist landed, a gravitational vortex snapped right were my fist was headed. As my hand impacted the vortex, my hand blew backwards like firing a cannon. The impact shot through the telekinetic augment, firing a bullet of kinetic energy at the tree.
+
+The tree blew up. The entire trunk evaporated, splinters and sawdust floating through the air. The tree fell towards the house, but I grabbed it with telekinesis. Using a gravity warp for assistance, I pulled the tree sideways. As it fell to the ground, Torix froze in place.
+
+I turned to him,
+
+"It's called Volatile Carnage."

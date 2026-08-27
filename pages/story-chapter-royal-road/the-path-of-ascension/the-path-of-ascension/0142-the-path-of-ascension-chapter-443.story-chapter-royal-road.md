@@ -1,0 +1,339 @@
+---
+id: 7ec38432-690b-57c6-8d34-a4671732102d
+page-type-slug: story-chapter-royal-road
+title: "The Path of Ascension Chapter 443"
+slug: 0142-the-path-of-ascension-chapter-443
+partOf: the-path-of-ascension
+position: 142
+ownLength: 5570
+unit: words
+ownProgress: 5570
+publishedAt: 2025-09-15
+link: "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/2602915/the-path-of-ascension-chapter-443"
+royalRoadId: "2602915"
+markedReadAt: "2026-06-29T19:22:33.116Z"
+---
+
+Chapter 443
+
+Tim grunted as his hands landed on the wooden pole in a steady pattern.
+
+Each strike was accompanied by pings of pain, but the increases from five years of grinding his ‘skin hardness’ entry as he tried to puzzle through his Concept had pushed the masochistic training all the way to apprentice.
+
+He didn’t have much time alone, but grinding up one of his hardest entries was one of the excuses no one ever called him out on, and it gave him time to think.
+
+Tim had been restless for what felt like forever at this point. Being a peak Tier 4, he had been slamming his head against the wall of his elusive Concept entries for years. The researchers had expected him to unlock the entries with the explanation, but when that had failed after six months of coaching, they gave him the option of using a potion and seeing if it unlocked the related entries.
+
+Tim should have accepted immediately. Or at any of the other numerous times they had reoffered the deal.
+
+It would have been the smart thing to do. Nearly everyone at the academy used aura potions at first. They then either directed the already-desired element into a more fitting form, or broke it and made their own Concept when they were immortal at Tier 15.
+
+It wasn’t even that most people who did that ended up making similar Concepts, as the ‘temporary’ Concept had tainted their spirits and slowly brought them in line with what they had originally seen as a stopgap measure.
+
+No, Tim had been fine with all of those downsides.
+
+With his Talent, he’d surely have made even the worst Concept robust, given some time, but he had still refused, leaving him stuck at Tier 4 as everyone else Tiered up. They were only Tier 6, but the distance was growing.
+
+Tim wished he could say he had persisted for a noble reason, but he… didn’t want to be like everyone else. He wanted to be one of the special few to make their own Concept at Tier 4.
+
+Like Ascenders Titan and Legion had managed.
+
+He wanted the limelight, he wanted the applause, he wanted the recognition, even if just for a moment. Most of all, he wanted to live up to the Tim everyone said he could be ‘if he just applied himself’.
+
+Except, that moment of bravery and determination had long faded, and it was simple pointless pride that was keeping him going, and even that pool was almost empty.
+
+Despite all of his work, he hadn’t been able to figure out a Concept that was good enough to either form it or reveal an entry to create it.
+
+Letting the small pin pricks of pain lull him back into a sense of calm, he focused on what he wanted his Concept to be and his mind couldn’t help but to make its way back to that imaginary Tim everyone else seemed to see except himself.
+
+If he could attain that he’d be… He didn’t know, but he’d be better he was sure.
+
+He… Tim felt a soft ping as he felt a new entry appear in his Talent.
+
+Mentally bringing it up, expecting to once more be disappointed by other unlocks, he froze when he finally saw what he had been waiting for.
+
+Beginner Concept Actualization: 0/100 Proficiency — Unlock Cost: 300 Billion Credits.
+
+That wasn’t entirely out of his price range, being the cost of half a Tier 8 mana stone in raw credit value, but Tim simply didn’t have that many credits. His current savings, thanks to his various crafting pursuits, were quite healthy, but nowhere near even the billion mark.
+
+Pivoting, he sent several messages to friends and the relevant authorities, all while hoping the school would let him take a loan out against the balance. They had done so before, and he was sure they would let him here. But as the secretary explained when he complained, ‘they made it annoying on purpose so people stop asking for loans they didn’t need.’
+
+Tim was so happy, he didn’t even mind filling out the fifteen pages of questions and answers that he had long grown accustomed to zoning out and going on auto pilot for the process. It was amusing, but a few years ago, before he got stuck at Tier 4, he never could have imagined how his bank account could waffle from crippling debt to overabundance seemingly overnight.
+
+Thankfully, the school didn’t charge interest unless the student was expelled with extreme prejudice. Usually, that only happened if someone did something incredibly illegal, and at that point, they had far worse things to think about than a small interest rate on a loan kicking in.
+
+That, and the guild paid well, with his research having helped a few groups make minor breakthroughs on their projects, triggering small but impactful payouts. That, combined with the fact he would finally be able Tier up, would hopefully balloon his loan limit enough he could push through a few more loan applications as well. But Tim would wait and see how the reception was to this first large-scale purchase.
+
+He foresaw no problems.
+
+His idea seemed perfect. A Concept shaped the person, and if he saw himself as his own Concept, he could slowly become the best version of himself.
+
+It was also apparently the right decision, as seen by his Talent picking up on the idea and finally giving him his entry.
+
+After this push, he could finally settle down and focus on reaching immortality where he could relax a little.
+
+***
+
+After hitting the second world on their list, and with months of flying before they encountered another wave of worlds, Matt finally had some time to himself, which allowed him to consider the implications of what he had realized thanks to his and Allie’s little stunt.
+
+He worked hard to ensure his skills kept up with his ever-doubling mana pool, and had thought he had done fairly well when it came to his combat or highly-used skills.
+
+Not perfect; there were a few things that needed modifications still, but Matt was pretty proud of his efforts. The issue was simply his Talent’s scaling growing to insane levels as he neared Tier 30. Most of his skills were lower-Tier and struggled to handle millions of mana, let alone ten or a hundred times that. It was why he modified all of his skills to make them better suited to his new mana output.
+
+For his channels, he usually raised the ceiling on where he started to hit diminishing returns. It wasn’t necessarily a difficult modification, but it was time consuming. He did the same for all of his skills and thought he did a good job, despite all of the other things demanding his time.
+
+That was until Allie opened his mind up to the rest of his skills he was ignoring.
+
+He cast [Portal] fairly often, at least once a month on average when they weren't stuck on a chaotic space ship, more if he was actively travelling across the Empire. Despite that familiarity, he had never once challenged the fact that he never used the skill to its full capabilities. Or that he could potentially expand those capabilities.
+
+He was apparently content with doing the skill really well, and better than most, but hadn’t considered the inherent limits.
+
+Matt wanted to say that he shouldn’t have needed to consider that his portal's theoretical range was much larger than his spiritual range, but as an Ascender, he should always be looking at how he could best improve.
+
+Allie's maneuver had opened his eyes to a new conundrum.
+
+Normally, when he had trouble casting a spell, it was a consequence of him trying to send too much mana into it. Rarely did he have a problem with his Tier being what limited him, as in the case of his spiritual range, but apparently that was because his imagination was too limited.
+
+Considering things and talking through it with the others, Matt came to a conclusion. He didn’t necessarily want to be able to cast things outside his spiritual range. While impressive, it simply wasn’t that useful most of the time. Rather, he wanted a way to make his casting of all of his spells unshackled from both his Tier and his spirit, to have them solely based on his mana generation.
+
+However, that wasn’t possible. Spells were cast through the spirit and without a dedicated Talent, there wasn’t even a credible rumor of someone having that ability.
+
+The next best thing was mimicking that effect.
+
+Matt needed an scalable way to make it so his skills could better handle the amount of mana he generated. That wasn’t really possible in the way he wanted— inherently flexible spells that perfectly adapted to his mana generation— but a similar effect might be theoretically achievable.
+
+Liz’s idea was physical refinement. She reasoned that if he could make his body so robust, he could just push through any issues he encountered. And if he got that effect on a growth item, he’d avoid a lot of the hassle going forward.
+
+While that might be an interesting answer and something to look into, Aster gave a much more realistic suggestion.
+
+Use the breach to find as many Natural Treasures as they could which could boost his spiritual strength. Such things were beyond rare and he already needed similar items for the craftsmen who could adjust material of his sword before he got one for himself.
+
+That was actually Zack’s idea: Turn his sword into a casting implement. With his neutronium ingot’s increased weight came similar levels of durability. With Matt’s control over his sword, he could turn its various forms into spell amplifiers.
+
+Matt had already been considering the durability increase but was leaning in the opposite direction. Enchant the sword and abuse [Sword Twin], turning his sword projections into very dangerous minions or missiles, depending on what he needed at the moment. If he did that right, he would also end up with a very strong sword that could rival the sword built for him by the Army when he was at Tier 25.
+
+Rah, however, offered the most unique idea when Matt tentatively mentioned it around the one person in their inner circle who wasn’t aware of his Talent.
+
+“What about a modifier spell like [Barrage]? Surely there has to be a skill that exists which can increase the mana a skill can handle, if [Barrage] exists.”
+
+Matt hadn’t realized Rah missed those skills existence or didn’t realize Matt was already using them wherever and wherever he could and replied, “They do and I use them already. Sadly, they don’t work well enough in a unique situation like my own.”
+
+Rah looked at him strangely before smiling and saying, “Apologies. I wasn’t clear. I was more inspired by the strange realm we just visited. We could find what you need on any of these planets. There is an appeal to that and why I think most people truly explore. Anything, no matter how wild, could be out there."
+
+It was a good idea, and one Matt spent a few idle hours picking at a skills-based solution with Rah. But given their location in deep chaotic space, they didn’t have much to go off of or do beyond theory craft, and they all eventually turned their attentions back to other projects.
+
+Matt could only hope the Rasdale Breach would deliver him the items he might need, or at least give him inspiration on what direction he could go to solve an issue that would only get worse as he Tiered up.
+
+The breach was his best, but far from only hope.
+
+Usually during such events, it was a scramble to loot the surface worlds of the unexplored worlds before everyone else arrived. But once that was done, people started delving, and most importantly traveling, between strange realms.
+
+Strange realms weren’t like rifts, they could only be used once by each person, furthermore they could only be delved until they eventually dissipated. Some strange realms were theorized to be as old as the Realm itself, usable any time its world was found by explorers, and others broke after the third use.
+
+There were no publicly known strange realms in settled space, even with the constant influx of new worlds. Eventually, they all dissipated after use, no matter how carefully they were used or maintained.
+
+Which was why breaches turned into races of who could enter the realms. Most strange realms didn’t allow concurrent use, leading to cycles of brawls as people fought to get inside.
+
+Or that was what most elite fighters did, and exactly what his group intended to do once things settled down.
+
+Still looking inward, Matt once more tried to get his Power’s second stage to activate, while also trying to help the others with their Powers at the same time. Most of them had gotten at least part of the way through the first stage, but as a whole, they were having even less success than he was with the second stage.
+
+Matt couldn’t help but feel like he had been going about it the wrong way, despite doing what both seemed like the most logical approach and what everyone’s guidance said worked. As Aiden often proved, that didn’t necessarily make it right for the individual, but Matt couldn't identify what he would do differently.
+
+There was a reason that people often tried empowering smaller aspects of themselves. Smaller starts led to smaller collisions when things inevitably blew up upon a failure. He also liked his visual of braided cable enough that his other ideas inevitably shifted to the cables again.
+
+Despite the failures and both slower and smaller advancements than he would like, Matt was making progress. He could now boost his arms' physical strength for a moment fairly reliably, and he improved that even further in the remaining months of travel.
+
+Their seekers had found four worlds of high value mixed in a half dozen of more speculative fortune. In an ideal Realm, they could have slowed down and hit all of the worlds, but their time, more specifically their lead on other explorers, was running out.
+
+The first world they decided to enter was a Tier 12 world and they grabbed everything they could before leaving as fast as possible to reach a Tier 23 world before anyone else could arrive.
+
+Fast as possible wasn’t quite fast enough.
+
+They had only been on the Tier 23 world for two hours when another ship arrived in the real space.
+
+It was a Corporations ship that, upon seeing them, left after informing them more people were behind them aiming for this world.
+
+Their message proved true. And the next ship decided to stay after seeing them.
+
+It was, like the Unsparing, a Tier 30 ship registered to a small, one-ship adventuring crew from the Clans with a fairly notable reputation, according to Lila’s guildmates.
+
+Merdrakes Marauders was suspected of taking out several Tier 30 ships as both the defenders and the aggressors in the last few centuries. With the Tier gap, they could possibly beat them, but it would take time, if they could win at all. It was more likely the two groups ended up fighting to a draw, unable to easily win but not in danger of losing themselves.
+
+Exchanging spiritual perception fluctuations, Liz offered up sixty percent of the yet un-looted areas. That only amounted to thirty percent of the total loot, but it was generous for people who had arrived after them.
+
+The Clans ship hesitated before they responded with a counteroffer that saw them taking ninety percent of the world's remaining Natural Treasure, but nothing else.
+
+Merdrakes Marauders were challenging them. They had three options: push back by standing firm, reduce their starting offer and continue negotiating, or back down and accept the counteroffer. That might or might not lead to further exploitation from the other exploration team, but it might not.
+
+Liz didn’t hesitate, fluctuating her spiritual sense directly at the Clans ship invading their space. “Unacceptable. Why don’t you move along or wait until we are done? You can have the delves and share the scrap.”
+
+The Clans ship’s reply was swift. “Do you think this is the Empire, or that we will play nice according to war rules, pups? We won’t let you play the lower Tier card here.”
+
+When the bluster didn’t end there, and it was clear neither side was going to be able to come to an agreement, Matt stopped what he was doing and compressed space, stepping next to Liz. The other five of their inner circle joined them moments later, not letting the ship or its crew descend and start gathering resources before an agreement came to a head.
+
+Thanks to the early warning, they were all ready for the fight.
+
+One of the rival adventuring party’s ship hatches opened and nine dwarves along with seven humans, all in well-made Tier 32 gear, exited. They were all peak Tier 30s with powerful spirits which they used to try and overawe them as they formed a battle line. Their ship, on the other hand, flew back, not trying to engage with their ship at all.
+
+That usually meant a fight to surrender, as the Clans group wasn’t trying to destroy the other’s escape route.
+
+That didn’t mean a death couldn’t happen. They were still going to fight, and that wasn’t fake.
+
+Matt would have preferred not to fight with a wealthy and well-equipped Clans adventuring team, but it was that or roll over and possibly have to flee again.
+
+One of the larger humans shouted back with an aggressive spiritual fluctuation, “Are you sure about that? I—”
+
+His words were cut off by Allie's dagger appearing next to his throat and causing a defensive shield to spring into existence, preventing his decapitation.
+
+He didn’t get off uninjured, but a slit throat meant little for any combat-capable Tier 30 and the team's healer immediately started fixing it.
+
+Matt felt Liz pull a chunk of mana from their teleportation ring and quickly diverted a stream of mana into it. In rapid succession, she flashed forward, covering the distance, pushing through the teleportation wards their mage had cast through sheer mana expenditure.
+
+When she was close enough, she split into three, with all copies of her darting towards her attackers, her weapons obviously aimed at their weak points well in advance, with skills building power.
+
+Just before she arrived in melee range, Matt swapped places with one of the Lizzes. That Liz then swapped with one of the other Lizzes who then swapped for a third time, changing which Liz was attacking the adventuring party members, causing their blocks to fail.
+
+Able to prepare, Matt had [Barrage]d [Tribulation Strike], stacking [Mana Charge] and [Mana Slash] atop it, with his latest and most powerful iteration of his sword yet.
+
+It was now slightly larger to help simulate the additional weight his weapon would be once he integrated the neutronium ingot into the sword, but to also help stand in for the metal's higher durability.
+
+He had wanted to [Barrage] [Sword Twin] and reinforce his sword with all of the clones to ensure he didn’t fundamentally damage his weapon by sending that much mana through it, but even with a regular cast and merger it should be fine, even if not ideal.
+
+The mana stone glowed with empowerment runes carved through its structure in graceful and flowing lines, using runes to create greater formations. It was a technique Rah learnt during his education catch-up that he willingly taught Matt, guiding him through the complicated process.
+
+Matt’s combined attack took serious preparation, only possible thanks to the standoff and large distance between the teams. Combined with Liz and their ring letting him arrive at the perfect moment, the seven of them had been confident Matt and his alpha strike could remove one of the Clans members in a single attack.
+
+During their few moments of deliberation prior to the confrontation, they chose to aim for the most dangerous of the frontliners, the team's main tank.
+
+Kieran O'Donnell, the team's second-in-command and main tank, had been recorded fending off several Tier 31 opponents during an ambush just outside settled space. If they were to defeat the marauders quickly, they needed to remove him first and foremost.
+
+Matt’s blade crackled and popped with lightning and two streams of mana, while the phantasmal copies struggled to remain overlaid on top of each other. The sword kept there only through Matt’s Domain.
+
+Ready for the swap, he was already swinging at Kieran. Not from the best angle possible from Liz’s lunge, it was an overhead blow to remove the tank’s head via bypassing his shield.
+
+Instead, Matt took the second best target and slammed his blade into the point near the bottom of the shield, aiming to dodge the most reinforced center of the shield.
+
+His empowered blade was intercepted by an illusionary shield that activated the moment before he made contact, forming a protective projection, adding a critical final layer of defense.
+
+It didn’t help.
+
+The projection vanished as quickly as it had appeared, as did the lower half of the shield along with Kieran’s legs.
+
+Kieran immediately flew back, understanding he had been spared what would have otherwise been a lethal blow. The rest of his team didn’t hesitate and turned on Matt, trying to punish his all-out attack.
+
+Most attacks were easily blocked by [Cracked Phantom Armor], but some got through.
+
+Thankfully, it was less than it would have otherwise been, due to Liz’s unflinching, obvious attack paths changing at the last moment. That change allowed each of her attacks to land with perfect accuracy, causing serious injuries in two additional frontliners, while engaging with a third. The last Liz, who remained in Matt’s original position, moved to protect Aster and Zack in the rear from the stealth crossbow wielder, who had been taking pot shots at the two mages while trying to not get caught by either.
+
+Matt’s sword glowed from the last attack, still trying to dump the residual heat anywhere it could, the repair runes drinking millions of mana a second to fix the structural damage. Making his sword stronger, merging the skills, or ideally both, would have let him put even more power into the spells. But then again, throwing that much mana around had caused mana leakage all on its own, and that was something he noted as another possible problem as his mana continued to increase.
+
+Even as he was retreating back into their own offensive line, he took an anti-armor dagger to his chest. Thanks to its higher-Tier enchantments, it was able to punch through both layers of [Cracked Phantom Armor] and carve a deep gouge through his physical armor that just barely breached the skin.
+
+Not that Matt minded, which was why he hadn’t blocked it.
+
+The wound simply allowed Liz to grab a stream of blood and sent it rushing up the weapon to follow back to its owner's hand.
+
+Matt didn’t have another convenient Liz to attack the rapier-wielding dwarven man who thrust his own copper-covered blade into Matt’s bicep, the glowing effect letting it bypass [Cracked Phantom Armor] entirely.
+
+The moment the blade was in his magical armor, Matt felt a magical force tighten around his biceps like a wire garrote.
+
+The resistance of his armor bought him enough time to flare Millennium Willow Lifespan, along with all of his body strengthening spells.
+
+The spell caught on his reinforced flesh for a moment, which was all Matt had been looking for.
+
+Dropping his inner defenses to his normal level, Matt let the magical garrote slice through his arm, the wire trying and failing to curse the wound to prevent healing. He took that opportunity to send a pulse of [Mana Beam] at the man's throat in return.
+
+One of the backup tanks arrived in time to intercept the blow, having to extend their shield at an awful angle but managing to block the deadly bar of mana.
+
+Matt’s sword finally stopped diverting mana to repair itself. Its length once more cool and perfectly formed, three [Sword Twin] blades formed next to it and immediately slammed into the physical blade mid-swing, when he used to deflect another empowered thrust from one of his attacker.
+
+As two additional people rushed at him from the side and rear, one with a glowing net, Matt twisted his already seamlessly re-attached right arm to the attacker’s clear surprise, firing off a pulse of [Mana Beam] to halt their charge.
+
+Matt didn’t directly follow that attack up and rather cast [Cracked Air Slide], using it to escape the encirclement. He arrived next to the woman with the energy net, blade already falling to take her head off in a single swing.
+
+Twisting, the dwarven adventure put her net between them and Matt felt his blade scream as it tried to suddenly slow down to nearly nothing. The harder he pushed, the stronger the resistance.
+
+Annoyingly enough, the net was like taffy and clung to his blade, not letting him retrieve it easily.
+
+In the moment the net wielder expected him to drop his blade or retreat in another manner, Matt did the opposite and leaned into the lunge, giving it everything he had.
+
+Flaring his physical boosts, Matt pushed Willpower into his Power, trying to focus on growing physically stronger.
+
+It took all of his concentration, but his strength increased by twenty percent.
+
+The net was made from Tier 32 materials and enchanted to the gills, but thanks to a well-timed dispel from Aster, Matt punched through the restrictions with sheer brute force, frying the item's enchantments.
+
+Matt’s blade continued and cut deep into her helm.
+
+The wound would have only been damaging, as it didn’t fully pierce the helmet’s final enchantments, but Matt overpowered her Domain’s shielding effect and cut deep into her scalp in a blow that could have easily been lethal.
+
+He accepted her surrender, but had to twist as two others attacked him from the rear.
+
+In front of him, Rah fought two of the dwarves, clearly feeling out fighting the unfamiliar-to-him Great Power’s people, adjusting to their better-than-average gear and unique skills.
+
+He was on the back foot but in a stable defensive stance, hardly flaring his cultivation core, making him seem like an exceptionally weak Tier 28. That deceptive nature unfolded like a snake striking as mid-swing, Rah surged his cultivation, amplifying his power.
+
+His white marble blade glowed with golden runes as the weapon was flash-enchanted in real time with Rah’s upgraded Talents.
+
+Thanks to the Tier gap, his blade didn’t manage to pierce far into his enemy’s armor, but he did mangle their shield arm, forcing one of the others to stop their three versus one assault on Susanne to assist.
+
+A blast of wind washed over the battlefield for a moment before being shattered by a silent thunderclap from one of the support mages on the adventuring team.
+
+The two support mages on the other side had been trying to keep Aster from debuffing their side, but even with the two of them, they struggled to keep the battlefield from icing over every few moments, giving Matt and team’s side brief but distinct advantages.
+
+Matt blocked two incoming attacks, one wielding a viciously-barbed spear and the other a rare glowing energy gun like weapon whose bullets seemed to do no damage or massive damage - never anywhere in-between.
+
+Being pushed back, Matt circled around Susanne’s fight, trying to regroup with a Liz, but saw an opportunity for them to help each other.
+
+Susanne, having long adjusted to her Two Stone Pupil, was fighting two dwarven mage hybrids and holding her own now that she was only outnumbered two to one, before creating her own clones with her Domain and evening the field.
+
+Slashing out with a tiny but precise [Mana Slash], Matt caused the flame-engulfed man to stutter step as he debated if he could trust that Ascender Titan’s attack was really as simple as it seemed.
+
+That delay allowed Susanne to dart forward and bisect the man just above the waist, a copy of herself similarly equipped with her manifestation great sword creating a massive pair of scissors, using the insane shear force generation to cut through his higher-Tier armor and force out a surrender.
+
+Susanne immediately took the opening and darted forward toward the gunman just as Matt hoped she would.
+
+Unlike him, who needed to treat every bullet as if it could be one of the strong ones, Susanne relied on her future sight's depiction of her blade, allowing her to know if she needed to dodge or not.
+
+Not that she needed to dodge. She could have just as easily used her floating shield manifestation to block the projectiles, but she was using it to protect her flank.
+
+The result was the same. She ran forward, blocking or dodging the dangerous attacks in a deceptively casual way, only belied by the blood that trickled out of the corners of her eyes and flaked off in the cold of space.
+
+Matt halted his own retreat, darting forward on the man who had been fighting Susanne and was closest to him with the other man who had flown out of the way. They instinctively turned to try and protect the gunman from Susanne, but that left their backs exposed to Matt.
+
+He didn’t hesitate.
+
+[Cracked Air Slide] brought him in range and he slammed his left palm into the man's back, digging into the metal with his near-invulnerable hand.
+
+Once he had a good grip, Matt cast [Mana Beam], punching a hole right through the man's chest, forcing the halberd-wielder to choose between taking Matt’s attack and helping block Susanne, who was nearly on top of the gunner.
+
+The halberd-wielding human made the right call of ignoring Matt, trying to save the stronger adventurer, but they failed to account for just how strong his [Mana Beam] was. Even with a four Tier gap, the armor only lasted a moment before it started to melt under the foot-wide bar of mana.
+
+They tried to dodge and spread the heat and damage out, but Matt had far too much practice at countering that, and only used their movements to target even more vulnerable spots.
+
+Matt was just in time to see two Lizzes fighting four Clans fighters, using the flames they produced to fuel her Ichor. With that small advantage, the Lizzes managed to hold on, but they were slowly losing their momentum and the fight was turning into a slug fest.
+
+A fact which was slowly becoming true for all of their fights. They were still outnumbered and that hurt them.
+
+Looking for where he was needed, Matt saw that Allie was assisting Zack and Aster, harassing the mages and supports and forcing the other side to dedicate two melee fighters to their defense, further helping the front line.
+
+Seeing they had that handled well enough, Matt moved to attack the rear of one of the enemies fighting a lone Liz.
+
+Matt took a surprising face full of mana when his [Tribulation Strike] reflected back at him, but he managed to distract the man enough with his self-attack that Liz was able to drive a spear into his chest and force their healer to stop healing the man Susanne was tearing into, doing their best to keep their team going.
+
+An explosion of mana signaled the end of the mages’ duel with Zack, which made it clear there was no saving the fight, and Kieran called for a full retreat rather than an outright surrender.
+
+Letting them go, Matt focused on quickly regaining control of his body’s various functions, all the while ensuring his Concept kept topping the others up. That made each moment of recovery far more valuable for them than for their opponents, and he wasn’t afraid to show it, knowing it would deter any further acts of aggression.
+
+It had been a hard-won fight, and everyone except himself and Liz still had visible wounds that were only slowly closing now that they weren’t mid-battle.
+
+Finally, after a moment, a fluctuation arrived and the Merdrakes Marauders adventuring team retreated deeper into the real space outer system, giving them uncontested access to the remaining resources but asking not to be pushed out entirely until they had recovered.
+
+Liz easily accepted. Once the Clans people were healed up and combat-capable again, they might choose to remain and try to claim the world. They would only be able to delve the rifts now that the overworld loot would be fully taken by the Unsparing, but Matt doubted they would stay.
+
+For all that the fight had been bloody, neither side had been going for lethal blows, which meant most wounds were relatively easily healable and the armor and equipment only needed to be repaired rather than replaced outright.
+
+If their logistics were as robust as their fighting contingent, the Merdrakes Marauders would be back in chaotic space in less than a week.
+
+The Unsparing would be long gone before that, though, racing ever forward trying to keep as much of their lead as possible.

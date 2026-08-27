@@ -1,0 +1,495 @@
+---
+id: 1e6d293f-9825-5682-8cfb-2a636b15ab93
+page-type-slug: story-chapter-royal-road
+title: "424 A War Waged"
+slug: 0384-424-a-war-waged
+partOf: the-new-world
+position: 384
+ownLength: 5530
+unit: words
+ownProgress: 5530
+publishedAt: 2025-05-14
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2277926/424-a-war-waged"
+royalRoadId: "2277926"
+markedReadAt: "2026-06-29T21:34:30.553Z"
+---
+
+Eonoth left me stunned at his environment's hostility, but I endured the beating.
+
+"Agh. Eonoth. You've got to work on your reception. This place is hell on Earth."
+
+"Is it truly that intolerable?"
+
+I raised a melting hand.
+
+"Yes. Now, what are you doing here?"
+
+Eonoth laughed, its voice excruciating to hear or experience.
+
+"To watch the show."
+
+Chapter Begin
+
+I put my hands on my hips.
+
+"A show? What kind?"
+
+Eonoth's voice was a roar through the cosmos. It quaked all from the swirling stars to the fabric of atoms.
+
+"The happenings of your planet. They interest me, as you have and do."
+
+I sighed, expecting another esoteric, pointless conversation where an Old One revealed nothing.
+
+"So what's happening? Are you just interested in the road conditions this time of year?"
+
+"If they were being used, then perhaps. What I'm entranced by is the instability. It's growing as forces encroach. I watch in anticipation for what is to come."
+
+I narrowed my eyes.
+
+"You...You're speaking far more clearly, kind of like Etorhma."
+
+"As are you."
+
+"I got more than one of me to help with talking. How did you improve your diction?"
+
+"Through an equilivant exchange. An individual traded their language in order to gain an inkling of my influence. I allowed it as it enabled me to speak with your kind and understand languages as a whole. I had never experienced such novelty across all of my times alive, you see."
+
+"Old Ones don't speak to each other?"
+
+"We are isolated beings, not creatures of serendipity as you are. This allows us to encompass far more than you may imagine, yet your imagination enables creation and novelty. That is part of why we are so curious about your kind. It is another part of why you are anomalous to us in your weakness as we are anomalous to you in our strength."
+
+Then Rebecca or Marcella traded their ability to speak as a part of their contract with Eonoth. I raised a melting hand.
+
+"How are Marcella or Rebecca able to talk then?"
+
+"They traded a language, not their ability to speak. They knew of other languages, and Schema converted their words accordingly. It is no loss to them."
+
+Ah, that made perfect sense. In essence, they stole from an Old One. From what I'd heard, no one else accomplished that feat and walked away unscathed. Then again, neither had Marcella or Rebecca. I gazed at the star, my retinas a total mess.
+
+"You mentioned anticipating some instability. Is that why you and all the other Old Ones are dogpiling Earth with portals and avatars?"
+
+"It is. A horror is coming. It craves your planet's dimensional instability. You carry a shard of it with you. You cease its spread, but there are others, some unseen while others are undeniable."
+
+I blinked, tears of metal streaming from my eyes.
+
+"So...The Earth's underlying fabric of reality...How unstable are we talking?"
+
+"Unstable? It's shattering apart at this moment. It had no stability."
+
+I looked at the ground, glowing droplets all around me.
+
+"And is that why Schema's struggling to hold the Earth together?"
+
+"Yes and no. Something is vastly accelerating that decay. It presses like a mountain splattering a corpse."
+
+I waved my hands in frustration.
+
+"Is that why everyone keeps warning me about something? That thing is trying to destroy Earth?"
+
+"Far more than a mere planet, but yours is a piece of its puzzle. A pivotal shard, even."
+
+I calmed myself down, my thoughts swirling as a storm. Eonoth's voice radiated from all directions.
+
+"Did you believe that only the eldritch suffer during a dimensional collapse? They were akin to you before their traversal. It is between spaces that they are changed. In that regard, you are not special. You are not innate. Fragility is in your nature, and you are beholden to it, as is your world."
+
+My eyes widened. Of course. Plazia mentioned how he remembered a time before he was corrupted. His dimension collapsed from under him, giving way to the interdimensional energies. That exposure transformed him into an eldritch, and as the dimension landed on ours, Schema transformed it into a dungeon.
+
+That could happen to our reality as it had happened to his. I put my hand on my head.
+
+"How do you know all this? Old One tentacles? Maybe Sauron's eye?"
+
+"It would be more of a question of how I wouldn't. I feel the nature of your reality with a depth I cannot describe, nor can you fathom. Needless to say, that makes describing the concepts a chore. You...You are but a child even in terms of your own kind. How am I to inscribe those concepts within you with mere words?"
+
+It rumbled.
+
+"No. I would need an exchange for that. I am willing to offer one."
+
+I pressed my temples.
+
+"In the end, you Old Ones want to watch something come and ravage my home planet then?"
+
+"Baldowah wants the finality and consequence. Etorhma wishes to proliferate secrets and pockets of knowledge. Mesmera desires for there to be lies and deception. I search for the disturbances across time and space, as they please me. I can...Reach deeper in those spaces without destroying your reality."
+
+Dread pooled in the pit of my stomach.
+
+"Why haven't you all just splintered everything by now?"
+
+"Many reasons. We wish to continue this little game of ours. We still lack fundamental answers to your existence, and we will have them. It will take the time we've never experienced as you have. It is us becoming proximal to something tantalizing. In that regard, we cusp on limits. We also wish to follow our accord."
+
+"Can you, I don't know, tell me more about that accord?"
+
+"Baldowah has touched upon it before with his simplistic understanding. It is enough."
+
+"Ah. You don't like him either?"
+
+"Hah. Him. You personify so that you can understand. Small. Petty. No. I don't like Baldowah. Its aims are a bore in all regards. Etorhma is the same. A weakling. Pathetic."
+
+"And what are you?"
+
+It chuckled.
+
+"I am Eonoth. I am strong. Petty accords mean little to me. I only fear one."
+
+"Who?"
+
+"I cannot say."
+
+I turned a hand to him.
+
+"Polluterix?"
+
+"Silence."
+
+Eonoth's voice turned me to a pulp, its volume like a supernova passing over me. After a moment, I pulled myself back together. Even if Eonoth didn't say, he verified my assumption. Apparently, this Polluterix was the big bad of the Old Ones. I shook off some residual mental damage before turning a palm to the radiating star.
+
+"Is the accord made so that you guys don't ruin this playground you all found?"
+
+"Indeed."
+
+"If that's the case, wouldn't forming all these portals and tears in space rip our reality apart? It sounds like that's going to end us pretty quickly at this rate."
+
+"It destabilizes the stable. However, it won't hasten the fall of your planet. Yours is a fate sealed. We merely spread where opportunity resides. Humans are such a greedy, ignorant, and arrogant species, so they are rife for exchanges. We need only honey our wine but a little, and your kind will drink deeply from tainted goblets."
+
+I couldn't deny that we had plenty of bad apples in humanity. I reached out a hand to the star.
+
+"Can I stop this falling apart of space? If so, how?"
+
+"I cannot say. The only entity that has cared for such is Schema. Speak with it. Perhaps it may illuminate your understanding should the AI's fear not itself."
+
+Eonoth let out a sardonic laugh.
+
+"Though it knows fear now. So much of it. Petty machine. It leans to us, and we beckon to it. It will fall from its supposed throne, one made of illusions it casts to protect itself. But you all do so, do you not? All of you are similar, even that which you create. You live by delusion, but you die to change that which is ineffable."
+
+Even though Eonoth carried his classic sadism, a fact remained - this was one of the most fruitful conversations I'd ever had with anyone or anything. Eonoth gave me information on so many questions I'd had for a long time and without any recourse. It left me suspicious.
+
+"Why are you telling me all of this?"
+
+"The other Old Ones try to adhere to the accord out of apprehension. I fear nothing. For that reason, I don't worry about this information proliferating. You may know everything at my disposal. However, omniscience is not omnipotence. All of you will experience that. You will learn that as well whenever a droplet of time passes, and then, Mesmera shall seize your mind, body, and soul."
+
+Eonoth's sea stormed above.
+
+"That contract with Shalahora has guaranteed it. Fool."
+
+I smiled.
+
+"30,000 years. It's a droplet of time to you, but I operate on a different scale."
+
+"You know nothing of time. It is unfortunate, but you also don't understand us. You are not even an ant to us. You are a poorly scribbled picture of an ant, and you are the size of an atom. We are the artists that shift all you preside, creators of what you experience."
+
+"Yeah, yeah, I'm nothing, no one, and nowhere near you guys. I get it already. You call Baldowah boring while you just rant on and on about us being impotent."
+
+I tapped my side.
+
+"But, if you're so certain of that, then you wouldn't mind sharing how I could kill one of you."
+
+Eonoth's sea calmed as if something dove into it.
+
+"It's...An interesting question. You would need more. Much more, and in all regards. I couldn't call you nothing then, but a threat? It seems unfeasible as you are. You need mastery of many fields of magic. More than mastery. You must become the zenith, a beacon of absolute control over everything that you survey. More. You must be able to conquer more than exists and with ease. In less than 30,000 years. That is nothing, less than a moment."
+
+The sea let out a single wave. Amusement grew in Eonoth's tone.
+
+"Expand. You may then touch us. Otherwise, we will never fear you."
+
+"Then why was Etorhma so nervous about Yawm?"
+
+"Etorhma's fear was misplaced. He...Hm, jumped at shadows? Is that your phrase for anxiety? That is what Etorhma did. It overreacted to a subtle and unlikely outcome, entrenching itself in an unneeded solution. That is all."
+
+I took a step forward.
+
+"So Yawm was a threat?"
+
+"No. Yawm's ideas were, and only to our accord, not us. Yawm wanted to fuse eldritch and sentients into a singular entity. That idea lacks basic knowledge of the concepts he was trying to blur. For that reason, he endangered much with the little he was trying to accomplish. Etorhma intruded before chaos erupted, as unlikely as that was to pass."
+
+"Why did Etorhma feel the need to stop Yawm?"
+
+Eonoth's voice lowered in volume.
+
+"Yawm was a being enraptured with an idea. Possessed in its allure, yet blinded by its folly. He is what happens to a mind when seized by an unchanging principle. Though we understand little of your realm, we understand that in great detail. It composes the fabric of our being."
+
+From what Eonoth said, ideals made up the Old Ones. Great. Just great. It wasn't much to go on, but it was a start. I gestured around us.
+
+"Is that why you guys make these spaces? They all have a theme. Your ideals, as you called them. Do they help you manifest or something?"
+
+"Yes. About this dimension, do you like it? I'm trying to create a calm and hospitable arena for conversation. I've done well, to my estimation, as you have survived while here."
+
+An enormous solar flare scorched a planet to pieces in the distance.
+
+"Huh. Yeah. You're doing a great job. Is that why there's so much mana here?"
+
+Eonoth's ocean boiled.
+
+"It is a point of anger. You're dimension is so energy-depleted. It is as if nothing has ever existed there, and the matter is so disparate. We try to bridge the gap between us as hospitably as we can, yet you all break so easily. This is such a calm, serene place, yet your kind can't even enter it."
+
+I furrowed my brow.
+
+"There's a difference between feeling hospitable and actually being hospitable."
+
+Eonoth's ocean simmered.
+
+"Your kind exists a few degrees from atomical stillness. It is not my ignorance that causes you to burst from even a subtle variation in temperature, pressure, or all forces that exist."
+
+That perspective unnerved me because I understood it well. I constantly had to pull and restrain myself when around anyone, and if I ever slipped up, I'd kill thousands in an instant. I winced before I pointed at the ocean above.
+
+"You mentioned our weakness being a point in our favor, though."
+
+"It is. This feeling of...Frustration. It is new to me. Novel. That is something I've lacked for all my eternities."
+
+I scratched my head.
+
+"Why haven't other Old Ones asked for languages from their followers? I mean, you went from the hardest to talk to Old One to the easiest."
+
+"The accord. Fear. Stupidity. We are all knowing to our domain, but we know nothing of yours. To learn is outside our natures, as we are solidified already. You all are everchanging, like hazy memories. You...Your kind is like air and we are stone."
+
+I turned a hand as a wave of radiation passed over me.
+
+"How in the hell did you make a deal with Rebecca and Marcella here?"
+
+"They spoke through the entrance, not within it. It took them many processes to speak with me."
+
+If anything, Marcella was resourceful. I raised my hand higher.
+
+"If you're able to tell me so much, what's stopping you from telling me about that thing that's coming?"
+
+"We are all-knowing. All-powerful...But you've spoken a name. Search it out, and it will give you the answers you seek."
+
+Polluterix seemed to be the end of this rabbit hole. Fair enough. Above me, dark figures flowed in the distance. They let out sonic resonances that left my bones rattling. Eonoth's voice pierced the sound.
+
+"I may offer you much, should you seize it."
+
+I let my hands drop to my sides.
+
+"You already know my answer."
+
+"That is the allure. I do not."
+
+"It will always be no."
+
+"Unless I send one of my incarnations to offer a shorter contract than Mesmera? Correct?"
+
+"Eh, take a few years off and see how it goes. It also depends on who they are."
+
+Eonoth chuckled.
+
+"It will be what is needed most when you expect salvation the least."
+
+One of the figures in the ocean created a tsunami in the distance. The wave crashed into the planet's surface, devastating all it touched. I sighed.
+
+"I think that's my cue to leave."
+
+"Or stay. Let it envelop you."
+
+An intrusive thought entered my head. If I pressed Baldowah's dimension and Eonoth's together. They would battle, the same as earlier. Would that even help my situation? I had unleashed Baldowah on Etorhma since that prick's avatar hurt Althea. However, Eonoth had never done the same. Sure, he had crushed me to a pulp on multiple occasions, but that didn't really bother me.
+
+One side benefit involved slowing the Old One's down. If they fought amongst themselves, then they might have less energy for Earth. At the bare minimum, it would stunt their outreach to Earth and give me some breathing room moving forward. It didn't even incite the wrath of Kryyah or whatever encroached on Earth since I wasn't the one closing the portals. Still, it could anger Eonoth, and he had no qualms with destroying me.
+
+That's why I left it up to him.
+
+"Would like to see Baldowah?"
+
+Eonoth laughed.
+
+"Ah, to see one of my own? Hm. Why not? We've never met in this place. Perhaps he shall enjoy what ensues."
+
+I opened my palm, Baldowah's dimension within. Unlike in Etorhma's domain, Baldowah remained silent. Eonoth let out a laugh to shake the cosmos. Eonoth ushered its words.
+
+"Baldowah? Where has your courage gone?"
+
+Baldowah answered, its voice muted.
+
+"We do not fear. You know this."
+
+Eonoth laughed as portions of his universe flowed into Baldowah's domain. The sheer cosmic outpour of energy, wrath, and impact passed through my hands and into the portal. It rumbled the fabric of my being to its core. Eonoth rumbled.
+
+"And yet, you seem to embody fear as we speak. Don't you desire finality? Consequence?"
+
+Baldowah let out a low voice.
+
+"Harbinger...I have chosen to give you my favor after the encounter with Etorhma. This will rescind my glory."
+
+I furrowed my brow.
+
+"Glory? You mean like what happened to Valgus?"
+
+Baldowah ushered out its words.
+
+"Of course. I may embolden you far more than I did to that creature."
+
+I grabbed the edges of Baldowah's portal before tearing them open further. It dug into my skin and leached in odd energies. As their infestation spread, it sizzled the air near me. My vision blurred before Baldowah connected to my mind and pressed.
+
+"This is no fight you wish to wage, little one."
+
+I smiled, my expression calm.
+
+"You're destroying my planet. This is how I fight back."
+
+Eonoth's mind connected to mine. As it did, a vast clash formed. Baldowah's energies spiraled against Eonoth, and they gored one another along an unseen battlefield. A brimming wave of blood ushered in my mind, visions passing over my eyes as Baldowah raged.
+
+"You've chosen to defy me."
+
+Eonoth roared, its voice like infinity.
+
+"He gave you what you yearn for. How is that defiance?"
+
+I trembled as two entities larger than galaxies fought while connected to me. The ground across both planes tremored. Stars in the distance bloomed, supernovas passing over countless stars. Red blood pooled over them, drowning the endless fire in seas of red. Calming waters of blue diluted the blood, purifying its brutality.
+
+The echoes radiated in all directions, each sound looming like an elderly man beset by the reaper. They destroyed reality and remade it in kind. My entire being throttled under the untold pressure, my existence an afterthought while they clashed. It left me trembling in fear as a wave of emotions overcame me.
+
+I grabbed my sides, and the shaking became something palpable. My entire body rippled, and I couldn't suppress an unstoppable wave of raw emotion. It rattled through me as if I where an insect in a child's shaking jar. The core of my being would never rest here. I couldn't even breath or think any longer. I gasped as a strange, odd piece of my mind awoke, and it glared at the beasts above.
+
+It was the same part of my mind that ate the remnants of Valgus. As the battle waged above, shards of the Old Ones fell. I salivated as they did. Drool gushed from my mouth, and my mind reached out to grab ahold of the precious shards. The beautiful, alluring fragments of eternity. The hunger of my mind tore into the chunks, and it engorged on the enormous spoils from their mental battle.
+
+Baldowah's voice echoed, and it strained out its words.
+
+"This...This is what you wish to spur forth?"
+
+Eonoth answered the call.
+
+"You ask, and I will not answer, as I answer to no one."
+
+Baldowah laughed.
+
+"You answer to him."
+
+Eonoth's words boiled.
+
+"Ah, you personify it as well? How belittling of you and our kin."
+
+Baldowah's voice sputtered.
+
+"I have learned from my encounters."
+
+Eonoth rumbled.
+
+"Not enough. Let me show you."
+
+I could hardly make out their conversation. My armor grinned over me, and I was unable to suppress it. It let out laughs, its voice like the clanging of metal and the cold of hatred. Every piece of my mind tried tearing away from the battle to overcome my armor. It crushed my resistance, my armor acting as a wall.
+
+All my faculties seized from me. A sense of terror and panic burned over my being as my armor feasted. It came alongside rage. I would not be outdone. I rallied. I put every ounce of grit into wrestling control from my own desire. As I had with Shalahora, I flooded out over my armor, and it trembled.
+
+Like a beaten dog, it let out psionic whimpers at the onslaught, yet it continued eating. It could not stop, its own faculties as taken from itself as mine from me. It was as if some control code switched, and the armor kept gorging all the while. Moments passed, and I began overwhelming the armor. Even as I did, it snapped for the last bits of whatever psionic poison the Old One's effused.
+
+In a silent surge, I pulled myself from the brink. My agency returned, and I pulled my mind away from the Old One's battle. In the distance, blood seeped from stars and replaced the calm, sedating waters above. Within the portal in my hands, the sanguine sea altered into blue waters of serenity.
+
+If the clash between Baldowah and Etorhma was rain, then this was a storm, and it caused the fabric of my dimensional wake to quiver. It left me ailing, and I trembled. I felt something close to snapping, so I pulled myself out of the battlegrounds using the portal to Eonoth's dimension.
+
+Once outside, I found the room encompassed in the ultramarine aura of Eonoth and the deep crimson of Baldowah. I siphoned the energies away using Event Horizon before peering at the battlegrounds.
+
+Baldowah let out laughs, its voice full of fear and the underpinnings of something else. It gurgled on its own waters.
+
+"This...This is war?"
+
+Eonoth spoke in a strained voice.
+
+"It is slaughter."
+
+As their battle mounted, more energy pooled in. It caused the reality here to shimmer, bend, and break. Patches of reality tore, releasing interdimensional energy onto Earth. The air howled, and the stone walls opened eyes that peered into an unseen abyss. In a panic, I leaped into the portal of clashing Old Ones.
+
+I ran through an enveloping wave of mana, dense as magma. After getting through the wave, I grabbed Baldowah's portal. I jerked it back towards Eonoth's opening. Waves of cascading power crushed me as I dragged myself back onto Earth.
+
+I walked onto our planet, my body alight in mana. I layered the portals, one facing the back of the other. Like closing a sewer lid over a manhole, the squealing surges of mana stopped. As I did, I heard their battle. Baldowah's voice had changed. Elation replaced his fear. Joy joined his rage.
+
+"This...This is everything I have ever dreamed. Thank you."
+
+Eonoth roared.
+
+"I will remind you what you are, Baldowah."
+
+Baldowah laughed. His voice was bloody but unbowed.
+
+"And I shall show you who I am, just as the mortals have shown me."
+
+The portal closed, a massive gush of energy palpating onto our reality.
+
+I fell down, heaving for breath. I had rushed, but all around me, the entire cave corrupted into a hellish wasteland. Despite the urgency, a wave of palpable exhaustion overcame me.
+
+I stared at the room. I had no idea how long I remained embroiled in the Old One's battle, but it left my thoughts and mind hollowed out like a carved pumpkin. Around me, the corpse of the eldritch queen lie splattered across the walls. Beside me, the Old One's battle waged in a rippling of universal forces. The portals contained it for now, but I had no guarantee it wouldn't spill over. Either that or an Old One might move one of the openings.
+
+It was a perpetual threat, and even without contacting Helios, I knew this new portal wouldn't close. I pulled the edges of it together, creating a long, thin line. I folded the line a few times like tying a long cord to save space. Afterward, I left a tiny gap that I plugged into my dimensional fabric. It began dissolving and leaking primordial ooze, so I reinforced it with my wake.
+
+It mirrored the effect of Baldowah's dimension, but it carried around 30% more energy within. The warring forces furthered that, making it about three times stronger overall. Before I finished the project, I adjusted my dimensions so that the Old One's battle would gush into one of the pocket worlds.
+
+It prevented their contained battle from leaking out onto our plane so easily. Despite locking them in, they still suffused energy at all times. I soaked in the mana, and while a boon to my reserves, I despised my situation. The Old Ones wanted access to me, and these portals granted just that.
+
+I could try to think of the situation as a steady increase in mana, but that was foolish optimism. They were trying to corrupt me. Based on how my armor acted, they were getting closer to doing so. I gazed at my hand as that thought passed over me. This metal that laced all over my skin, it was how I achieved my goals. At the same time, it robbed me of agency at critical moments.
+
+I grinded my teeth. For the first time in a long while, I wanted my armor off. I grabbed my forearm and wrenched away, peeling the metal off my arm and my skin along with it. Silver blood congealed into new metal as quickly as I could peel it away. I grabbed the helmet over my face and wrenched it off, patches of my face taken alongside the helm.
+
+I howled before throwing the helmet away. It crashed into the side of the rock, creating an earthquake. Cracks rippled all across the underground cavern. I winced. I forgot to hold my strength back, and my feet cracked into the ground as my control over gravitation lessened for a split second.
+
+I hit my head in frustration. A shockwave ushered forth, cracking the stone around me further. The cavern began collapsing before I raised a hand. My gravitation supported the space before I sat down on a large stone. Of course, I reinforced the rock using gravitation. Even now, sitting to rest was merely a facade. It relaxed me about as much as a mirage sated a starving man's thirst.
+
+In my own skin, I felt trapped, and there was no way out of this body now.
+
+Torix shouted from the cavern above.
+
+"Are you quite alright? It sounds as though the battle is rather fierce."
+
+I couldn't help but laugh. Battle. If hitting myself counted, then sure. I shouted.
+
+"It's done. Just cleaning up."
+
+I gave my cheeks a few slaps, and I made the conscious choice to end the pity party there. As I moved up, I struggled against the weight of the Old Ones' portals. They added to a growing stockpile of alternate realities I lugged around. Speaking of, I took a few minutes and got used to hauling them around, needing nearly twenty minds working together all the time.
+
+It ate away at my mana assimilation, stopping me from gaining as many stats. Despite losing my psyches to that passive chore, I didn't actually lessen my channeling speed. After taking a moment, I found another forty minds waiting for me in my mind. Even if my armor robbed me of agency in the fight, it had given me more agency outside of it.
+
+I peered down, and my sense of confinement faded. This wasn't all bad. Besides-
+
+Skill Level Up! Dimensional Weight | Lvl 138->Lvl 139
+
+My notifications kept me going.
+
+Skill Level Up! Dimensional Saturation | Lvl 157-> Lvl 158
+
+At the end of the day, this was all an investment. Speaking of, I didn't want Althea or Torix to waste any more of their time here, so I dragged the dimensions along. I reached the cavern's end. Behind me, the pulped eldritch queen's legs occasionally twitched. Shaking my head, I let out a sigh.
+
+A large part of the Shattered Spire's economy rested on that thing, and I obliterated it without a second thought. Now, their swords were limited, as were their portal expertise and armor. That wasn't all. On my back, I assimilated a huge pipeline of primordial mana, stopping its insidious poison from corrupting this place further.
+
+However, Marcella's guild relied on Eonoth's dimension to sustain the surveillance tree, the eldritch, and probably most of what made the city unique. It left me wondering if this was the right path. Before moving on, I brainstormed a few solutions. The easiest involved putting the portal back and repairing the queen.
+
+That wasn't gonna happen.
+
+Getting rid of her operation would create a power void. Crime would rise. Considering the sheer amount of roaming scavengers outside the city, that might be an enormous burden on the city and its occupants. A bit of thought dispelled that worry. Considering Marcella's abilities, she allowed the scavengers to raid as they did.
+
+She could've wiped them out easily. After all, she dive-bombed me and Althea within seconds of entering her territory. That kind of omni-awareness should've allowed her to secure the entirety of her domain. Despite that, she chose not to. Thoughts raced through my mind as to why she wouldn't.
+
+It might've been because of my guild's influence, which could've constrained her to a smaller area. Hm. No, Marcella had been anything but passive. A dark thought passed over me. She might want the scavengers roaming the outskirts of her city while having arrangements with them. I frowned in disgust.
+
+Not only did she lure dungeoneers to their deaths, but then she collected more of their loot as they tried to leave. Absolute pond scum. Ugh. The more I thought it over, the less I liked her entire arrangement. She strong-armed everyone into bowing to her, and she used an Old One's volatile energy to do so.
+
+Sure, she had a history and past. So did Althea, but you didn't see Althea going around and experimenting on people. She did the opposite, and that was because there was a difference between being capable and being good. It wasn't really something I'd had much time to consider since the system arrived, but it was something that crept up more and more into my thoughts.
+
+I'd become strong enough to consider more than how I'd gain power. I had time to consider when and where to use it. Pacing out of the room, I disintegrated the eldritch corpse. I could've healed it with Kessiah, maybe even made it into something similar to a mana battery or converter. Yeah, I wasn't going to do something like that. Humanity and The Shattered Spires would be better off forging their own path.
+
+Did that mean my armor and golems were the only way forward? No, but they'd play their part. Eldritch held so much instability and danger, but they were still alive. They could feel pain and suffering. That queen had existed for years, crying out with a broken mind as its body was beholden to forces it couldn't stop.
+
+Remembering my armor taking over, I could relate to that distress.
+
+In the end, the eldritch queen's suffering propped up the Shattered Spires. It was a crutch that would only weaken the populace. Their struggle in the dungeons would be where they found strength and fortune, and I would help them stay alive as they searched out unseen lands.
+
+Before I floated up the tunnel leading out of here, I filled in the cavern using rock. That stopped this cave-in from destroying buildings or tunnels above. After all, if this place was anything like the Grand Canyon, then this entire subspace wouldn't fade from removing Eonoth's portal. Even a few updates in my status verified as much as the skeptiles successfully conquered new portions of the Grand Cayon's remains.
+
+It left me wondering how to handle this place as a whole. As ideas popped into my head, I strode out of the cavern with confidence. I met up with Torix and Althea, each of them playing bingo while Torix chatted about his students. Walking up, I leaned against a wall before Althea spun the bingo cage.
+
+She took the first ball that fell out. She read the number before falling to her side with a groan. Torix stood upright, both hands raised and his head crashing into the ceiling.
+
+"I've done it! Hah. Eat the dirt from which my hands have crushed out of stone."
+
+Torix's eyes flared red. He put his hands on his hips.
+
+"Ah. It is a good day to be alive."
+
+Althea groaned before throwing a rock at him.
+
+"You're undead."
+
+The rock clattered off of Torix. He pointed at her.
+
+"Don't discriminate. My unlife is worth just as much as yours. Anywho-"
+
+They turned to me. Half of my runes glowed red while the other half glowed blue. Torix cupped his chin.
+
+"You look rather...Ahem, odd."
+
+I took a long breath, my voice heavy.
+
+"It's a long story."

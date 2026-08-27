@@ -1,0 +1,239 @@
+---
+id: e6f4fda7-96d5-588a-b041-e8feef0ede8f
+page-type-slug: story-chapter-royal-road
+title: "The Path of Ascension Chapter 414"
+slug: 0113-the-path-of-ascension-chapter-414
+partOf: the-path-of-ascension
+position: 113
+ownLength: 4923
+unit: words
+ownProgress: 4923
+publishedAt: 2025-05-26
+link: "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/2307695/the-path-of-ascension-chapter-414"
+royalRoadId: "2307695"
+markedReadAt: "2026-06-29T19:21:42.700Z"
+---
+
+Chapter 414
+
+A few days later when everyone was tired of losing to Liz, Manny, and Yilek over and over again, they split up. Most just hung out in the room, simply turning the back portion of it into a lounge, but Matt had other plans.
+
+As much as he hated it, he needed to venture into the horror of the open floor.
+
+He, however, wasn’t alone. Carissa stepped beside him as he moved to leave the room.
+
+While he wouldn’t mind her addition, he raised his eyebrow, silently questioning her action. He was fairly friendly with her, having met her a few times, but he was more familiar with Manny.
+
+“I figured your upcoming chats will be more interesting than listening to Allie badger Manny to find out where he was.”
+
+Matt rolled his eyes. “She started that up again? She can’t be that interested.”
+
+Carissa just shrugged in return as they entered the floor. The moment they did so, a cheer spread out as Matt was invited to half a dozen groups, which only multiplied as more groups saw him or heard others call for him.
+
+Seeing that Carissa wasn’t noticed by anyone else, he shot her a dirty look, to which she smiled cheekily back at him.
+
+Declining the invites, Matt made his way to the closest of his targets, regretting not just summoning the people he wanted to talk with to a private room. That had just felt too clandestine and heavy handed for what he wanted to do and for his guild.
+
+“Oh, you are going to visit Ernest first?”
+
+Matt gave the Empress a questioning look even as he moved through the crowd. “Is there a reason I shouldn’t?”
+
+“Just an interesting first choice is all.”
+
+“I don’t think so. His Order is one of the most influential, but they haven’t been complaining or trying to bypass the rules that the Orders now labor under, like Stella’s has, and he isn’t as suspicious as Cornelius. I don’t know if I’d go as far to call him a loyalist or the like, but it's behavior I’d like to reward and encourage.”
+
+Carissa hmmed in a tone that forced Matt to ask for clarification. “Do you disagree?”
+
+“Not really, it's interesting logic is all. Few at your Tier, let alone your occupation, would have the power to truly mean what you say, let alone be accurate in their assessment. No, my interest is more that I know how much you hate the political aspect, but your choice is a good one that shows you are considering the political side of your actions. That kind of surprises me, is all.”
+
+Matt scoffed, acting it up a little. “I’m offended. But you're not wrong. I don’t like this stuff, but I… I want to be a helper, not a hindrance. I know how much Ascenders historically mess things up, but knowing the bigger picture, I want to be helpful rather than harmful, considering what is coming. Strategically talking to the Orders I already intend to open specific aura rifts up to just seems smart.”
+
+“Is that why you are offering it up at all? You could have easily just said the one for the guild was just a favor to Helen. Few would complain too loudly at that reasoning.”
+
+Matt shook his head even as he grabbed two non-alcoholic drinks from a passing waiter. Carissa, being a Tier 47, could control her body well enough that drinking alcohol wouldn’t bother her child. But she had said earlier she’d rather be safe than sorry, and Matt didn’t mind joining her.
+
+Handing her the other drink, he answered her earlier question. “I’ve been considering it as a move for a few months now. People don’t know about our deal, and so funding has become a worry of the non-scientific guild members. It's a small matter now but being able to remove that weight off their shoulders is important to me. Besides, this was always part of the plan.”
+
+Carissa seemed genuinely surprised at his statement. “Was it? I figured you would have fully stuck to free rifts. That seems more in line with your goals and desires.”
+
+Matt nodded along. “Ideally, I would love to keep everything free and open for everyone, but I’m not sure that's realistic. Your average person will be perfectly fine with a general fire aura potion. Maybe a hyper-specific Fire of the First Flame aura based off the Natural Treasure might be better for them, but the actual market for something like that will be less than one percent of one percent of fire users. That means those rifts, if they would exist at all, would be incredibly rare, which means few would put in the money to make and maintain them. Let alone research the method to make them in the first place. So yeah, I don’t necessarily think it's a contradiction to let them keep their secret aura rifts. It's not like they are demonstrably better than a more general aura potion for the average cultivator. If they were, I'd care a whole lot more.”
+
+Slowing down slightly, Matt added, “Also, part of the scientific method that works for me is having a direction. Having commissions to work towards will teach us different things as we find ourselves needing specific methods or items to reach that goal.” Grinning, he added the bigger reason. “That, and it seems really cool to make bespoke rifts of any type. A lot of the higher Tiers have specific family styles they try to get passed down, and this is the best way to get my hands on a lot of that. Some of the most fun I had making rifts was when I was using Melinda’s goop to try and make a lower-Tier healing skill. That’s how we got the first ever Tier 8 healing skill. So, if I'm going to be doing it anyway, why subsidize it when I can get others to open their pockets?”
+
+Carissa laughed. “So that's it! You just want to play with other people's unique powers.”
+
+Matt didn’t reply as he arrived in front of Ernest Baxter’s group, who were chatting against one of the balconies overlooking the dancing floor, where tens of thousands danced. Many, most of them in fact, were courtesans of the highest caliber. Their Tiers varied as did their Talents and Domains, but a majority of them had sex or other social Talents, which made the mass of them a sight to behold.
+
+Nothing progressed so far on the dance floor as to be untoward, but courtesans were happily led off to private rooms where they and their catch could bleed off some steam that had been building on the dance floor.
+
+Matt knew that many new connections would be made tonight, which was exactly why they fought to come to parties like this.
+
+Matt knew Allie happily dabbled, but he and Liz were happily monogamous, as were Zack and Susanne, so he didn’t actually know many people who indulged. Even Aster wanted a monogamous relationship, and while he supposed it wasn’t impossible she would take a professional courtesan for that position, he personally didn’t think they were her type. Especially given how mercenary some of them became towards relationships.
+
+Carissa laughed as she followed his gaze. “I remember when Manny and I first started dating. This was before I knew who he really was, obviously. A socialite Talent girl hit on him hard while we were delving in a Tier 12 world and I got incredibly jealous. I was sooo worried he would see her as more desirable than me because of her Talent and Domain and all of that. It wasn’t helped by the fact he just couldn't understand why I was worried, which made me mad because I thought he was trying to blow me off. I didn’t get that with him having been taught from such a young age how to deal with such abilities, he really didn’t find her as titillating as I feared he might. It's funny to look back on, with hindsight.”
+
+Matt tried not to smirk as he pictured a young Manny cluelessly not understanding why an equally young Carissa was upset and promptly ignoring all the times that he or Liz had done something similar.
+
+As he reached Ernest’s group, they widened the group slightly so he could fit, but Matt stepped deeper and shook the Tier 45’s hand. “I wanted to talk with you about the bespoke aura rift you asked about. I’ve decided to open up commissions and I wanted to bring it to you second.”
+
+Ernest went through a dozen emotions, flashing too fast across his face for Matt to really follow, even as everyone else in the group split off and reformed a few feet away, giving the two of them the illusion of privacy.
+
+Given everyone's Tiers, true privacy was impossible, but the gesture was noted. The volume of the music even lowered around them as the venue automatically controlled how much sound could reach them.
+
+After his momentary shock, Ernest smiled. “That is the most wonderful news. I also appreciate that you are offering it to me and mine. It could significantly help. Or at the worst, it can't hurt. Most of our first generations have failed to create appropriate Concepts to fully utilize their inborn gifts. Unfortunate, but that is how it goes for a lot of us. I myself never managed it, and while I successfully forged myself into a powerful fighter, it can eat away at you. I remember how disappointed my parents were when I didn’t have an appropriate Talent and how much pressure there was to form an appropriate Concept at the very least. A suitable aura potion would be lovely, if for no other reason than to stop that cycle from continuing.”
+
+Matt agreed. “If we can manage it. Though I’m hopeful. Your order uses the Dawn’s Blossom right? I assume you guys want a light-based aura? Maybe a wood, or a wood and light combo aura if that's possible?”
+
+Ernest’s smile turned awkward before he shook his head. “I’d not say no to any combination of those. Those of our order who only have the bodily effect of the Dawn's Blossom will surely relish the opportunity to have an applicable Concept. For them, a mixture would be best, but either of the other two would also be acceptable. Some type of healing-based light aura or the like would be best of all. But for our successes who have an applicable Talent, I believe that something more about reflections or mirrors would be most ideal. Not crystal, however. It does need to be light. Historically, something like that would be one of the strongest ways to magnify the successful Talents we have come up with.”
+
+As if worried Matt might take that the wrong way, he quickly added, “Not that we won’t take anything, but that's what our best did, and I can’t really see a mass applicably way to do better. I re—”
+
+Matt nodded along as he thought about how they would go about getting those types of aura and the types of Concepts they might make.
+
+They had learned a lot about aura, aura potions, and the types of Concepts the various combinations of those three ingredients made in the last century, given the potions’ wide adoption and feedback.
+
+A fire aura rift didn’t just make ‘fire aura’, at least not typically. There was more depth to aura and their resulting potions, but it was up to the alchemist to really bring out or suppress those natural secondary effects. A fire aura rift might make an aura that, when properly alchemized, could end up with a fire Concept that leaned to the ‘heat’ side of fire instead of a truly generic ‘fire’ Concept.
+
+Both methods had their own advantages and some of the aura producers were already starting to offer a small number of specialized potions for those who wanted to target more specific Concepts. Many had partnered with higher-Tier alchemy guilds and corporations in their efforts, which Matt didn’t mind at all. The prices for the few successes were sky high, but he wasn’t going to stop them from advancing the field of study, even if he wished they were sharing those potion recipes freely.
+
+Ultimately, Matt just didn’t care so long as the basic, and most importantly, cheap potions were still actually attainable for Tier 4s. In that regard, the specialized potions were driving the prices down as more and more investment was given to the field of study, which led to better general aura potions using more efficient methods.
+
+The specialized potions didn’t always work, either because the person truly didn’t resonate with that type of Concept, or a mistake in trying to shape the more specific Concept. But for those rich enough to afford the advanced potions, it wasn’t too onerous for them to destroy the Concept and to then take a second, third, or fourth potion until they got what they wanted, or gave up and shifted gears.
+
+According to the reports Titan’s Torch had gathered, the Orders who had corresponding elemental auras already did exactly that, making up for specialization with numbers and-or money.
+
+“Mirror is interesting. Trying to do it without involving any crystal mana will be challenging, but it’s the kind of challenge I’m certain someone will love to undertake. I’ll figure out who’s interested, and keep you updated. We’ll try mana-only first, but I may need to get some Dawn’s Blossom if that doesn’t seem promising, so if you can set some aside for me that would be beneficial.”
+
+Ernest eagerly agreed. “I understand it won’t be cheap or quick, but with our bans lifted, we have been able to start delving openly once more, and I believe we can afford your prices. As for the time, your efforts are still more effective than seemingly everyone else who has attempted to replicate your success for themselves.”
+
+Matt smirked at the not-so-subtle attempt at flattery. “Yes, many people have tried, but it's not so easy. I know people don’t believe me when I say it, but I genuinely wish them luck. Sometimes just knowing something is possible is enough to make a breakthrough, and competition is a good thing.”
+
+“That is generous of you, Ascender Titan. Many have approached we higher-Tier Orders hoping for funding, but the few who have accepted said approaches have only seen their money thrown into a fire.” Ernist then looked awkward as he tightened his grip on the surroundings, ensuring less people could eavesdrop. “About the formula for the rifts. How do you intend to handle that, Ascender?”
+
+That was a good question, and one Matt had futilely hoped wouldn’t be asked.
+
+Ignoring Carissa’s laughter that only he could hear, he waved away the privacy, not minding if everyone else heard.
+
+“I’m open to suggestions.” Seeing the surprise on everyone's face, Matt smiled as he continued, “I know everyone sees me as someone who gives everything away. I’m not blind or dumb. Frankly, with something like a general light aura, I do intend to give away the formula for free. It's too broad and applicable to too many people to allow to be locked up in someone's vault. I can't see myself allowing it to be restricted. As for the more specific aura types, like reflection, I’m not against ensuring that only the purchaser has the formula. I'd prefer some provision allowing outsiders to be able to buy some amount of the potion, or a time limit being placed on the exclusivity, but it's not a hill I'm willing to die on. Frankly, the generic potions are good enough for someone to reach Tier 15, and once they are immortal, they can destroy their Concept and build a more perfectly fitting one if they really want to.”
+
+His comment spread like a wave as the Orders, and everyone else who wanted a bespoke rift from Matt, realized that he wasn’t going to demand that anything they wanted from him be shared freely.
+
+Matt knew how they saw him as ‘wasteful’, but he hoped that publicly stating he was willing to play the game of politics and resulting interest would ensure that anyone on the fence about becoming his enemy would land on the correct side.
+
+He was sure his hidden enemies were at this very party and doing their own networking, but Manny had refused to capture and execute them all when Aster had asked just before the execution of the former marquess.
+
+After a little more discussion about what other aura types Ernest would find acceptable, Matt moved onto his next target.
+
+That one was once more a political choice, as he visited both Stella Pattinson and Cornelius Ross Jr., finishing out the trio of the strongest Knightly Orders.
+
+After that, he searched the party for the leader of the Knights Of Autumn’s Breeze.
+
+His reason for selecting them was three fold. First, they used a Natural Treasure he actually had experience with, a Talaria Seed, which Susanne had gotten her hands on in their Minkalla run and Aster had gotten when they completed the Path. And second, the group was generally fitting in well with the new restrictions the Orders were operating under.
+
+The third reason Matt wanted to pick this Order was that both Susanne and One Step Behind, the Guilds Ascender, wanted a speed aura to play with. And if he was going to work on it for them, he might as well get this order to foot some of the bill.
+
+Their leader, a Tier 40 named Victor Abod, had a haunted look seemingly permanently etched in his eyes. He looked as if he didn’t believe it when Matt introduced himself and his purpose for visiting.
+
+Victor was more than happy to get access to a speed aura, but he also asked if Matt could create a breeze variation of a wind aura if it couldn’t be its own full aura type. He also asked for something Matt hadn’t considered initially, a stamina recovery aura. Given that the Talaria Seeds drained the user’s stamina, it made sense and gave Matt a few other ideas, such as aura that might make sustained movement easier or cheaper in some way. He even pondered basing it off of the travel mana engines.
+
+Not that he thought there was a chance to make travel aura until they had a much better understanding of the underlying mechanics, but getting a similar effect might be possible, and Victor seemed more than happy to hear about the possibilities, happily talking Matt’s ear off.
+
+He was going to talk to an Order he wanted to reward for good behavior, as they had called out one of their fellow Orders for trying to skirt around the various restrictions, earning the ire of many, but Carissa’s warning saved him.
+
+“That whole thing was a setup, an elaborate ploy between half a dozen Orders to get at least one of them ahead. I won’t say you can’t help them, but if you do so for that reason, be aware.”
+
+Matt tsked as he changed his path. “Thank you. I really thought that was legitimate. Ok, let’s move on to one of my backups.”
+
+The Order of Deep Insight wasn’t a particularly notable Order, but it was one Matt had been interested in. They used the Dew of Deep Insight Natural Treasure, which as a baseline gave a very strong mana and essence sight to anyone who absorbed it. It was similar to Matt’s Sliver of True Night's Sight and Ironsight Salt, which respectively gave him mana sight and improved his vision, but a tad more specialized.
+
+With the Order’s ability to imbue Natural Treasures into their bodies, they typically got the basic effects along with a dash of divination powers, depending on how well the Treasure took to the child.
+
+Talents withstanding, they generally used their improved vision to become fantastic ranged combatants.
+
+Their order master was more than happy to pay for any kind or aura that might be applicable to sight in any way, but Matt freely admitted that he had no idea if that was possible, and so was asked if a divination aura was achievable.
+
+Matt wasn’t sure of that either, but he was willing to try, and that was enough for them.
+
+Carissa's comment nearly made him give away her presence as he almost turned to face her directly. “Well done. They will side with you in the coming years. I’d say they will be your loyal dogs if you manage to produce their specific aura type, but few people remain loyal once the goods are in their hands. Far too many start reevaluating past relationships and wondering if they can come out further ahead if they decide to turn on the one who helped them.”
+
+As Matt moved between groups, he nodded. “I’m sure many of them will do exactly that, but that's why they are the second round of helpers. In a thousand years, things may either be similar, or they will be so different they will never consider siding with my enemies. We'll have to see how things play out I guess.”
+
+He half expected Carissa to laugh at him or the like, but instead she agreed with him. “Well said.”
+
+From there, Matt went and mingled with a few of the noble families who he knew wanted aura types.
+
+He didn’t want to take orders from them quite yet, but he did want to make it clear they were next up on his list.
+
+Matt’s main targets were the stronger ducal houses, but that made things easier in this case, as he actually knew most of them with them recently or being in the process of taking over their families’ titles.
+
+In an interesting turn of events, he would have talked more, but the atmosphere in the private wing was off. And so after making polite small talk for half an hour he made his excuses, tossing Aster under the metaphorical bus to escape.
+
+“Was it just me, or was there a weird air between Sciath and Dominus? I know the two dragon clans are usually at odds with each other, but they are usually polite in public. They either weren’t speaking or acknowledging each other at all, or snapping like cats.”
+
+Carissa snickered as they walked away. “What if I told you that Sciath and Dominus are mad at each other because they just fucked each other’s brains out a couple of days ago at the start of this little party and don’t know how to process it or how to deal with it?”
+
+Matt nearly walked off an open balcony at the comment. “You nearly got me, but there’s no way. Sure there are privacy wards on the rooms, but they wouldn’t stop even a Tier 40 who really wanted to get through them, let alone the plethora of Tier 46s and Tier 45s who are here. And if they had even gone into a room near each other it would be the talk of the venue, yet there isn't a peep. Sure people might be afraid of their families, but to the point where not a single person has mentioned it? I don’t buy it.”
+
+Carissa shot him a wicked smile before she kept walking. “Sure would make for an interesting rumor wouldn’t it? But who knows if it's true.”
+
+Hurrying to catch up, Matt wanted to know if it was true, but Carissa just mimed zipping up her lips and refused to talk about it.
+
+He cursed the fact that he had no idea if she had actually seen, and possibly protected, the illicit couple if the fact that no one else had noticed meant what he thought it did, or she was just messing with him to get a reaction out of him.
+
+The worst part of it all was that Matt couldn’t even tell Liz or Aster. Aster because he knew she was a blabber mouth and would immediately go and ask the duo, wanting an answer as badly as he did and Liz because she would do the same but with more tact by going and trying to talk to them and see if she could gleananything.
+
+Instead, Matt just made a mental note to catch up with both Sciath and Dominus in the coming years in more one-on-one encounters to see if he could wheedle out the truth.
+
+He normally didn’t like noble gossip, but he actually knew the two of them and thought he might be able to see something between the two. Rivals to lovers was a well-trodden path, and one fraught with drama he wanted to get a front row view of.
+
+Mission completed, he escaped back to the private room where he joined Mara and Leon in trying to build a tower out of the ruined playing cards to keep his mind occupied.
+
+They did not succeed. Aiden and Lila both tried and succeeded in knocking the tower down with their own pile of cards, but it was a fun joint activity that lent itself to idle chatter.
+
+Days later, when the party was winding down and they were getting ready to leave, Matt, Liz, Aster, Zack, Susanne, and Allie ambushed Manny.
+
+Before Liz could speak, Manny held up a hand. “I won’t tell you who is attacking you. It's good training. Look at Matt with his Truth already.”
+
+Liz crossed her arms, her phoenix self giving Manny an imperious look. “I wasn’t going to ask that.”
+
+“Yes you were.” Manny tried to hold back a smile, but he failed as Liz shook her head.
+
+“Nope. Can’t prove it. The question I was definitely going to ask, and was always going to ask, is simple. Are there any lines you don’t want us to cross? Any threads we find that might be better left unpulled? Currently, there are more than a few people or groups who deserve to get a spear to the head, but we know you have plans within plans and don’t want to ruin them.”
+
+Manny’s jovial demeanor faded as he slowly nodded, and his eyes glowed golden for the briefest of moments.
+
+Shrugging, he surprised them all. “Eh, why bother? Do what you want. Dig into whoever you want to, or don’t dig at all. My plans will survive or be unneeded. I’m more interested in what other things you all kick up as you dig. Just try not to kick up inter Great Power incidents without letting me know first, but I’ll back you guys up even if it happens.”
+
+That wasn’t exactly what they wanted to know, they really had wanted a list of people who had attacked them, but it was more than enough for them to not hesitate when they did something in the future.
+
+And ultimately, that was what they were truly asking.
+
+Leon, who had approached silently along with Mara as they spoke, added in a more serious tone than Matt was used to seeing, “You kids can handle it. We believe in you.”
+
+Matt tried to inspect his father-in-law, but wasn’t sure how to read the confident expression.
+
+He well knew how protective Mara and Leon could be, but he also knew that they were perfectly happy to let their children fall on their faces and make mistakes. They would be there to pick up the pieces, but they wouldn’t coddle any of their family by just solving the issues.
+
+To Matt, that meant their battle with the society and possible Winter Wolves hadn’t escalated to a point where their lives were in danger, which surprised him. He at least considered the assholes involved having long since crossed his bottom line, but Mara and Leon’s stance made him reconsider that.
+
+Was it possible he was willing to make peace with his enemies?
+
+It was possible, but he couldn't easily imagine how that was plausible.
+
+Though, he considered that the opposite was possible as well, and that his stalwart stance meant there was no room for negotiations. And so, there was no reason for Mara or Leon to step in, because it would do nothing but remove a pyramid of obstacles for them.
+
+The more he considered it, the more he believed it was the second reason as to why they were so calm about people attacking and slandering them.
+
+Ultimately, they were adults who could handle the issue on their own, even if it was slow and painful. That also tracked with Manny’s stance of letting them suffer a little to grow faster.
+
+A quick scan of the room showed the other Royals seemed just as ambivalent, but Lyre, once more acting as Harper's mask, manifested a hand and gave Matt a not-so-subtle thumbs up.
+
+Matt wanted to agree, but really needed to know if Manny was prepared for the mess they were going to make. If they were truly let off the leash, he wasn’t going to let any of their leads go.
+
+“And you're sure? Like really sure? You won’t say this now and then get mad later when we kick over something or someone we weren’t expected to?”
+
+Manny just waved them off with a smirk. “Yes, yes. Ok, goodbye now.”
+
+A moment later, they appeared on Palustris. Or more accurately, on Titan Torch’s guild moon.
+
+It was time to get several balls rolling.

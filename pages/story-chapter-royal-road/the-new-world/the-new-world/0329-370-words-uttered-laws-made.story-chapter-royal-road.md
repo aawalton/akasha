@@ -1,0 +1,169 @@
+---
+id: 22faee5d-4d95-5a4f-b550-67817c4f41ee
+page-type-slug: story-chapter-royal-road
+title: "370 Words Uttered, Laws Made"
+slug: 0329-370-words-uttered-laws-made
+partOf: the-new-world
+position: 329
+ownLength: 1018
+unit: words
+ownProgress: 1018
+publishedAt: 2023-03-15
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/1139113/370-words-uttered-laws-made"
+royalRoadId: "1139113"
+markedReadAt: "2026-06-29T21:32:30.191Z"
+---
+
+A dark blue aura enveloped the room, saturating everything.
+
+"When you signed that contract with Shalahora, you sold your soul to an Old One."
+
+The emanation pulled me down as Schema said, "I will give you this opportunity out of grace. Answer me."
+
+Schema's voice hardened.
+
+"Why shouldn't I kill you?"
+
+Chapter Begin
+
+I smiled, "Can you?"
+
+I pressed out with my dimensional wake, pushing Schema's aura back.
+
+"I will warp you into the center of a black hole where time will be stretched to infinity. It is a kind of death and easily done."
+
+I stood tall.
+
+"Alright, enough messing around then."
+
+I cracked my knuckles, each pop like a grenade detonating in mercury.
+
+"I'm probably harder to break than you imagine. Try me."
+
+"Do you believe your status and skills will save you from an inevitable failure? Do you think your success in a fistfight can determine the outcome of the Old Ones? You are a fool. A prideful, arrogant, and ignorant fool."
+
+"Try me."
+
+Schema's voice oppressed the room but not me.
+
+"Then you will be taught a lesson. Dwell on it for eternity."
+
+The tugging sensation passed over me. My surroundings blurred before I let go of my physical form. It fell into some unknown place, likely Leviathan or some other blackhole.
+
+Schema murmured, "It is a shame."
+
+I materialized from the ether.
+
+"It is?"
+
+I stood the way I had before my body was sent away. Schema and I faced off for a moment.
+
+The AI said, "You have learned incorporeal recomposition. Was that learned before the lottery as well?"
+
+I pointed a thumb at myself, "Schema...I'm not the same scared boy that escaped from Bloodhollow. I've changed."
+
+"That is evident."
+
+"But not with how you're treating me. Yeah, I signed that contract with Shalahora. You wanna know why?"
+
+I scowled as Schema's aura pressed from all angles. I pushed it further back.
+
+"I signed it for survival and because I know what's coming. If anyone else knows, it's you. You're holding an entire society together. Of course, you know they're coming. If I survive for 30,000 years, I think I stand a chance to pull us the hell out of this situation. If I can't by then, I won't be able to. Ever."
+
+"The Old Ones cannot be destroyed. You have given them another powerful avatar. 30,000 years may seem like an eternity to you, but it is a moment to them. It is a moment to me."
+
+I narrowed my eyes.
+
+"And I was told that Yawm couldn't be killed. That Lehsion was an unconquerable god. Hell, people told me Valgus was invincible because an Old One made it so."
+
+I grimaced.
+
+"I killed him. I can kill them too."
+
+Schema's aura maintained its pressure, pushing onto mine. I peered around.
+
+"If you're going to oppress someone, you must condense this. It's too disparate. I'm like a ball of iron in an ocean. Wrap around me all you want; it won't make me budge."
+
+Schema ceased applying pressure.
+
+"You genuinely believe in your chances?"
+
+"Believe? Who cares what I believe? What other options do I have?"
+
+"Hm. None. A position I understand all too well."
+
+A screen notification appeared in the corner of my vision.
+
+"I will send the purging team to Mt. Verner to inspect your personnel. Leviathan-7 is your planet, and you will be granted 3 days of uncompressed time to go there, 4 months total of your planet's time yearly. I will personally ensure future system bugs are no longer an issue for you."
+
+I put my hands on my hips.
+
+"Ah man, thanks-"
+
+"I am not finished, Harbinger. You will be rewarded with 5,000 levels to your cap and current total. You will be granted a legendary skill compendium and sovereignty over the Solus solar system. Your guild, the Harbinger's Legion, has been elevated to empire status and gains the rights of such."
+
+I nearly fell back.
+
+"Do not disappoint me."
+
+I collected myself and spread my hands.
+
+"Of course not. You know me. I've got no problem with a little overtime."
+
+"That will be the minimum. I anticipate your progress. However, there is one last condition you must accept."
+
+"Oh, come on now. What does it involve this time?"
+
+"You have shown a willingness to sign contracts that warp the fabric of reality. Here is another."
+
+In front of me, a black page burned into existence, along with a quill floating with white ink.
+
+"Read the cipheric contract and sign it."
+
+I pulled the page out of the air, reading the cipheric runes. It took about an hour to parse the legal jargon, but Targask's lessons on legal mumbo jumbo saved me. I could almost see the guy grinning at me with satisfaction, and that burned. I shook that off before peering up.
+
+"So you want me to sign a self-expungement clause under certain conditions?"
+
+"Yes. It is the only way I can be certain."
+
+I shook my head.
+
+"This is ridiculous."
+
+I signed the contract, and it disappeared.
+
+Schema said, "If you believe it is absurd, why did you sign it?"
+
+I rolled my shoulders.
+
+"I'm no pawn. I'd rather die."
+
+"Hm. Noble. Good luck with your cosmic goals, Harbinger."
+
+I grinned.
+
+"Hah. Same to you."
+
+A similar sensation of being warped pressed over me, but I condensed my wake to its utmost, slowing down the pull.
+
+"Naw, you'll need to have a Sentinel or Overseer warp me from now on. I want to see where I'm going."
+
+I could almost hear a laugh.
+
+"Such is to be expected after my threats. Maintain that vigilance, would you?"
+
+I smiled.
+
+"Of course."
+
+A few seconds later, a Sentinel tore through the fabric of reality. I helped pull apart the dimensional fabric, and it stepped through. It tilted its head at me.
+
+"You wish to return to Earth, correct?"
+
+I nodded.
+
+"Aw man, more than anything."
+
+The Sentinel sliced through the veil, and I approached a tiny circle showing Earth. I gazed down at Mt. Verner before I gave the Sentinel a two-finger salute.
+
+"Till next time."

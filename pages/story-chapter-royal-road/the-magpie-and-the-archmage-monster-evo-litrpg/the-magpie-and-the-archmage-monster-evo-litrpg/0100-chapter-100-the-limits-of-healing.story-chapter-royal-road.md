@@ -1,0 +1,161 @@
+---
+id: f329a7fc-1f20-558e-b84a-c9854d94a6ff
+page-type-slug: story-chapter-royal-road
+title: "Chapter 100 – The Limits of Healing"
+slug: 0100-chapter-100-the-limits-of-healing
+partOf: the-magpie-and-the-archmage-monster-evo-litrpg
+position: 100
+ownLength: 2105
+unit: words
+publishedAt: 2026-03-23
+link: "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3182532/chapter-100-the-limits-of-healing"
+royalRoadId: "3182532"
+---
+
+Liora looked around the room, then picked out a woman who looked to be in the most pain. She was sweating profusely and screaming through the gag. The corruption also seemed to be receding at a much slower pace than with other patients. It looked like she wouldn't be able to endure it much longer.
+
+She flew up to the woman, causing a stir among the healers who regarded her fearfully. But to their credit, they didn't stop their work. Her magpie form would likely frighten them less, but she didn't want to reveal that she could change her appearance as she pleased.
+
+Liora sat at the end of the bed and activated Purify, concentrating on cleansing the blight. The woman seized up, struggling against the restraints that were holding her in place.
+
+"Stop this bird at once!" The healer, trying to deal with the woman, shouted.
+
+But nobody managed to react in time as the corruption began to recede from the woman's limbs. Liora used Purify again, driving out the rest of the blight. She slumped on the table in relief, pain likely disappearing from her body.
+
+"Done!" Liora announced.
+
+Everyone was staring at her, even the healers who were previously busy with their patients. The healer at the healed woman's table was the most surprised of them all.
+
+"How? How did you do it so easily?" he mumbled in disbelief.
+
+Why is everyone so surprised? I merely used Purify. Please don't tell me that it's some super-rare skill.
+
+No, it's not. It's one of the most basic holy spells. I initially thought that any holy magic would be able to purify the blight, but it doesn't seem to be the case. It must have been your previous evolution. If I remember correctly, then it gave you the ability to purify corruption more effectively.
+
+This ability must have carried over when you evolved further, likely even strengthening it. So your Purify is likely so much more potent against corruption specifically.
+
+Liora thought about it. There certainly had been something in the system description about purification, but she didn't exactly remember the details. It was ages ago.
+
+"Well, look at that. It's even more effective than I thought," Morgana said, appearing proud.
+
+"Lady Morgana, just what is this bird?" The leader healer walked up to the table with the healed woman. She inspected her carefully, searching for any residual corruptions, but obviously, she couldn't find any. After all, Liora had cleansed a dungeon core. Half-corrupted humans were easy by comparison.
+
+"Frankly, I don't know. The bird and her spider friend sneaked their way on our ship and helped us cleanse the source of the corruption. It wasn't actually I who removed the miasma. It was Liora," Morgana explained.
+
+The lead healer walked up to Liora. "Liora, was it? You can understand me, yes?"
+
+"Yes! Cee and I can talk. We have skills that allow us to do so," Liora said, and Cee, who had been staying by Morgana's side, waved one of her front legs.
+
+"On your way to becoming beastkin then… Frankly, you being able to talk while still looking like monsters is a mystery in its own right, but that is not what matters right now. Liora, would you lend us your strength? These people need help and it appears that you have a much stronger ability to purify the blight than any of us."
+
+"Please, help us cure them," the woman said and bowed low. The slouching man next to her also bowed as did the healer by the table.
+
+"I'll help as much as I can. But you must promise us freedom afterwards! I will not stand being put into a cage or made into a magical familiar!" Liora said, throwing an accusatory look in Morgana's direction.
+
+"Hear, hear! We're not pets!" Cee added, wiggling her legs to drive the point.
+
+"Lady Morgana," the head healer looked pleadingly at the woman. "I beg you. As odd as these monsters are, I believe that the help they can provide is far more valuable than trying to understand exactly how they came to be."
+
+"Why do you think I brought them here first instead of the Pillar of Mystic Prism?" Morgana shrugged.
+
+She considered taking you to Merlin? Holy shit, that's quite a bullet you two dodged.
+
+What? Why?
+
+Merlin is the other pillar residing over magic. But unlike me, who learns about true magic, the unknown, uncontrollable, wild, and basically all the most unusual and fun aspects of it, Merlin is a studious old man who believes magic is a science that has to be dissected and understood.
+
+If he got his hands on you two, then I have no doubt he would have locked you up in his hidden laboratory and performed all sorts of tests to satisfy his "scientific" curiosity.
+
+Liora shuddered. She didn't want to become a laboratory experiment. No way! Would Morgana really have taken her and Cee to this horrible man if she didn't find them useful in the whole corruption healing case?
+
+The lead healer looked at Liora and Cee piteously. Just how bad was this Merlin person?
+
+"Please, leave them with us. I assume… are they not aggressive?" she asked.
+
+"We won't hurt you unless you try to hurt us," Cee said.
+
+"Or take us to strange people," Liora glared at Morgana.
+
+"Fair, fair! I promise I won't take you to the Pillar of the Mystic Prism if you do a good job here and don't endanger anyone. But the moment you get aggressive…" Morgana smiled, her hands going down to her pistols.
+
+"Caw!" Liora protested.
+
+"Lady Morgana, please don't provoke them. Liora, if you would be so kind, could you help us with the healing some more? And Cee…"
+
+"I can weave strong webs that can work as restraints!" Cee said, making everyone in the room flinch at hearing the spider speak.
+
+"Th-That would be most helpful…" The lead healer said awkwardly.
+
+After that, Liora and Cee got to work. Liora went from one patient to the next, healing them of the corruption, while Cee demonstrated her webs to the slouching man, showing how they can be both rigid and stretchy, sticky like glue, and smooth like silk.
+
+It appeared that Liora could fully heal five people of corruption before her mana ran out. Although the number wasn't reliable. Some people were good after just two doses of Purify, while some needed as many as five. It depended on how far the corruption had progressed and where it was.
+
+As the day progressed, Liora learned that limbs were by far the easiest to heal. Torso came next although there was a difference. If the heart and lungs were affected it was much harder to purify. It was just the stomach, then it was easier. But far the hardest thing to heal was the head.
+
+None of the patients had their heads fully corrupted. At most, it was half of the face, but even that was much harder and mana-intensive to heal than the rest of the body combined.
+
+The healers were writing this information down religiously. While they had drawn similar conclusions before, it was easier to observe when done quickly.
+
+Cee's help turned out to be crucial as well. While Liora was busy healing people or recovering mana, Cee was going into the cells with the fully corrupted people. Not without insurance, of course.
+
+Morgana, along with her team, went as well and restrained the corrupted people who were all too eager to bite and attack someone. In the meantime, Cee strategically placed her webs, securing their limbs, torso, and head so they wouldn't be able to hurt neither others nor themselves.
+
+Lunchtime came all too soon, and it felt like they hadn't really made much progress in their work. Liora had managed to heal the people that were in the healing room when they initially arrived, but that was it, while Cee managed to restrain about six people.
+
+Healers, in the meantime, managed to collectively heal eight people, which was more than Liora, but that was when all dozens of healers were working together. Seeing Liora heal people quickly changed their attitudes towards her. By lunchtime, they were already singing her praises and warning Morgana that if she did anything to their "monster friends," that there would be hell to pay.
+
+During lunch, they all went out of the patient wing as it was called and to the rest zone. The other side of the underground was made into living quarters for the healers, and it included its own cafeteria with a professional chef.
+
+When Liora and Cee first entered, it caused quite a stir, but with Morgana and the healers vouching for the two, it was quickly calmed down. Liora and Cee were both given a hearty meal which they both devoured without hesitation. Healing people was hungry work.
+
+Liora, you should try healing one of the fully corrupt people.
+
+Shouldn't I focus on the healthier ones first? It'll be easier to heal them while the corruption is still in its beginning stages rather than to let it spread.
+
+No, as an experiment. I want to see whether they can be healed. I mean, all the fully corrupt monsters turned into blightstones once you cleansed them.
+
+Liora shuddered. Renir was right. All fully corrupt monsters turned into a puddle of sludge, leaving only blightstones behind. It was horrible to imagine that the same thing would happen to people. If Renir's theory was correct, then it would be like her killing another person.
+
+I don't wanna.
+
+What?
+
+I don't want to kill anymore people.
+
+I don't think you can call a fully corrupt one a person anymore. If it turns out that, for some reason, people don't turn into blightstones, then you could save lives that were previously thought to be lost. Morgana did say that they currently can't heal the fully corrupt ones.
+
+Even if they could, they don't have enough resources to spare on them. By the looks of it, they have their hands full with partially corrupted cases.
+
+"What's wrong, Liora? You're making quite the grumpy face," Cee noted.
+
+"I… I think we should check whether I can heal a fully corrupt person," Liora said.
+
+The head healer who was sitting nearby widened their eyes. "Would that really be possible?"
+
+"What's up?" Morgana perked up. She was sitting at a table next to Liora's. To keep an eye on her and Cee. Friendly though they were, nobody was willing to let monsters roam around without some strong security.
+
+"Liora mentioned that she could try healing a fully corrupt person," the head healer said hopefully. "Perhaps, it would be possible with her capabilities."
+
+"Let's take this someplace else. Too many ears around here," Morgana said, hurriedly drinking the remains of what Liora assumed to be beer within her cup.
+
+Morgana, Liora, Cee, and the lead healer, whose name was Terenezza, as Liora had learned, headed to a small private chamber.
+
+"Okay, birdie. What did you say about healing fully corrupt people?" Morgana resumed the topic.
+
+"I do not doubt that I have the power to purify them. The problem is that I don't know what will happen to the person. I… I have previously defeated corrupted monsters and… nothing remained of them afterwards," Liora said.
+
+The healer grew pale, while Morgana scratched her chin in thought.
+
+"Monsters and humans are quite different though. We can't say that the same thing would happen to humans. I say it's worth a shot," Morgana said confidently.
+
+"But… But if it isn't different. The person might die," Liora muttered.
+
+"You also have to pick who to experiment with. It feels kinda wrong," Cee said.
+
+"I'm honestly surprised to see that two monsters care more about human well-being than you, Lady Morgana," Terenezza said.
+
+"These beasties are soft towards humans. I suspect they were raised by a mage, hence why they are so friendly. Unfortunately, their master has gone missing."
+
+"Yes, that's it!" Liora and Cee replied mechanically. Technically, they were raised by humans. But in another world. And they happened to be humans themselves at the time. But who cared about details, right?
+
+"That certainly explains a lot. As much as I would love to reject this idea, we currently have not even a clue how we could save a fully corrupt person. All our previous attempts ended in failure. Even if there's a chance that the person we try this on might not survive, I believe the chance that it might work and later save other fully corrupt people is worth the risk."

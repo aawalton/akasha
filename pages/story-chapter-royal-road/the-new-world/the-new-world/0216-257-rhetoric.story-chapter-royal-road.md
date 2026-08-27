@@ -1,0 +1,283 @@
+---
+id: aa7a7afe-d908-575e-814e-d4c5305420cd
+page-type-slug: story-chapter-royal-road
+title: "257 Rhetoric"
+slug: 0216-257-rhetoric
+partOf: the-new-world
+position: 216
+ownLength: 3224
+unit: words
+ownProgress: 3224
+publishedAt: 2020-05-25
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/501117/257-rhetoric"
+royalRoadId: "501117"
+markedReadAt: "2026-06-29T21:28:24.860Z"
+---
+
+- Helios -
+
+It was time for our meeting, and I was never one to keep Obolis waiting. He took poorly to delays of all kinds, especially the avoidable setbacks. Given our positions, it would be a severe misjudgment to disappoint him.
+
+And so, I hurried.
+
+The guards made way, our positions sure. Crossing over onto the outer world, I found myself stepping out of a portal of my own design. I landed onto a series of floating stones, overlooking a world of waterfalls and mist. Above the display of nature's fury, I found the floating islands of Grangea.
+
+Here Obolis took to another one of his outings. He was ever curious of the world and what lied in the stars. I could never tell if I admired or hated him for it. On the one hand, it gave us and our family positions of power, worthy of even the gods. On the other hand, it chained me to my post as a ruler of worlds.
+
+Still, I despised the prospect of lowering my place in society, if even a little. Given my missteps against the Harbinger, I needed to tread lightly. Mistreating his significant other was a folly I wouldn't repeat again. With each passing battle we viewed from his live streams, of that folly, I became more certain.
+
+By now, Daniel could overpower me, even with an elemental furnace at my disposal, among my other resources. Our Empire kept me safe, but that safety came at a steep cost, given my recent failings. I shook off this unease as I stepped onto the main island of Grangea.
+
+Despite my nervousness, the serenity of this land calmed me. I wished I could stay here, lay down, and go to sleep. I could not. Every day, I moved forward with my eyes wide shut, hating what I must do yet compelled to do it. With that umbral monstrosity waiting in the dark, my commitment to the Empire was even more absolute.
+
+It was no longer a choice to serve. It was now my only path.
+
+Those thoughts tumbled in my mind as I stepped up to Obolis as he observed a tablet etched with the cipher. He leaned towards it, his innate curiosity spurring him towards viewing its contents. I recognized him not by sight, however. It was his mana that was unmistakable, the dense primordial energy blinding among the darkness of the world around him.
+
+That mana sense was the only reason I could handle the elemental furnace on my hands. Most who attempted to wield these devices of mass destruction ended up destroyed and maimed, their own faults causing their downfalls. My ability to see mana, a gift given by my blindness, enabled my control of the energy.
+
+It would otherwise manifest as a nuclear blast, a lethal blow to whoever was wielding the furnace. Thereafter, it would spawn twisted eldritch that would be difficult to kill and even more virulent than usual. That was why Obolis remained steadfast that few could be given the furnaces.
+
+I was one of those few.
+
+Wielding mana of such volumes required labor to use them, however. The conversion of the mana, the intricacy of the mental handling, even guiding it into the runes, it all required absolute focus. It left me with blunt magic that could level mountains. At the same time, precise, intricate magic was beyond my grasp while using it.
+
+I appreciated the device nonetheless, the apparatus enabling many of my powers. I told Obolis that giving a furnace to Daniel was a mistake. That monster dabbled in the cipher without even needing to raid ancient tombs. He did so of his own volition, his knowledge of it perhaps rivaling even our Emperor.
+
+I couldn't deny Daniel's utilities, however. He would act as a deterrent for the eldritch. Within Schema's controlled sector, the monsters weren't that difficult to handle unless one stayed on a fringe world. Here, along the outskirts of Schema controlled space, they were far more challenging to handle.
+
+Centuries of evolution would do that, and having a trump card like Daniel allowed us to worry far less about those abominations. It enabled more dangerous raids with less planning. That would over double the speed we procured resources, making it a worthy investment. The other members of his guild may be equally valuable as well.
+
+Althea can phase off our plane into some...other place. That alone was frightening, but if what Daniel said was true, then she was an assassin without equal. The other member, the shadowy figure that darted across the field in their last bout, he too seemed like quite the force. The ability to warp across shadows alone was valuable, but tearing others apart from their shade alone?
+
+It was worthy of fear.
+
+That fear was why I was stepping up to Obolis. Reaching behind the old man, he turned towards me with a wise smile but piercing eyes,
+
+"It's good to see you again, Helios."
+
+As always, he peered through me, as if I were easily unraveled. In response, I kneeled with a deep bow,
+
+"You as well, uncle."
+
+The Emperor interlocked his hands behind his back, walking up to me,
+
+"I've told you time and time again, you need not bow before me."
+
+I stayed in position, "And I shall do so without order, out of respect, not fear."
+
+Obolis kept a grin on his face, lifting his hands, "Then rise, and I appreciate the gesture."
+
+I did as he commanded, keeping my gaze low. Obolis looked at the waterfalls beneath us, "It would seem your brother is still struggling with the rebellions on his world."
+
+I narrowed my eyes, burned by the mentioning of him,
+
+"I would expect as much."
+
+The Emperor tilted his head, "Please, Helios, give him mercy. A struggle is to be expected. The rebellions, they've worsened since the Blighted Schism began. It's as if the individual rebellions are feeding on one another. It is a bizarre thing, seeing the commoners attempt to displace their standing."
+
+His aged and scarred eyes narrowed, "They wish to usurp the order we've garnered. No longer do they struggle with eldritch. No longer do they suffer from roaming monsters or slave traders. I still have yet to understand their defiance, but perhaps, one day, I will, in time."
+
+I grinned under my mask, my own sentiments mirroring his own. Obolis sighed,
+
+"Yet such is life. I've been watching the battles on Giess. The ones where Daniel and his guild do battle. They're interesting, aren't they?"
+
+I winced, remembering my failures,
+
+"They are."
+
+"I've been thinking...Torix, was it? He's been using mind magic to control the enemy. Given how the rebellions are, in fact, our own citizens, perhaps he could assist us in suppressing them?"
+
+I nodded, "A wise suggestion."
+
+The Emperor spread his arms, "It is difficult to send our military to kill our own people. Doing so with mind magic is far more humane by comparison, and it's far better than asking our kind to kill their own kin. I'll ask if I may commission the necromancer for the task."
+
+I kept my gaze downward, "Perhaps an exchange is in order?"
+
+Obolis scoffed, "In time, yes. I doubt giving their guild too much will serve us in a meaningful manner, however. We must control the rewards we grant. Otherwise, we will be left with nothing to give and nothing gained."
+
+"Of course. If I may interject, I doubt Daniel would appreciate this use of mind magic. From my meetings with him, he seems like a blunt individual that prefers direct confrontation. Toying with the minds of anyone, even commoners, would likely anger him."
+
+Obolis's eyes narrowed. He bit his tongue, holding something back,
+
+"I shall take that into consideration, though perhaps I should consult Caprika on how to exchange with him. She's generated positive relations between us, unlike some."
+
+I remembered encasing Althea in ice. Like someone stabbed a razor through my heart, I wheezed out in pain,
+
+"I...Of course."
+
+Obolis's brow furrowed as the hardness masking his expression faded,
+
+"I...I didn't mean to chastise you so harshly. You simply did what you believed best. Fate decided how it was handled thereafter."
+
+He gave me too much grace.
+
+"Thank you."
+
+"Now, I shall call them for that proposition along with perhaps a few other ideas I thought up since we last met." He stared at his status, "You may stay and listen if you like."
+
+"I would like that."
+
+Staying allowed me to gauge my position and whether it was secure or not. If Obolis decided to undermine our relationships to bolster his friendship with the Harbinger, then at least I would know as well. Either way, staying only assisted me should I avoid being an idiot once more.
+
+Those thoughts raced in my mind as the Emperor opened a call. From the visual screen, a vast party showed itself in a heavily jungled...desert? Trees bloomed from dry sand. Vines traced under an arid sky. Even the gialgathens seemed peeved by the dryness.
+
+Daniel was no worse for wear, his metal frame tall and imposing. Without his helm, he carried a gruffness all his own. Small, minuscule scars traced his face, none of them marring him, yet they showed the markings of many battles. He wanted nothing more than to finish the task before him, then find another task as fast as he was able.
+
+This was a large part of his rise to power, yet he somehow avoided the bureaucratic burden I found myself saddled with. It...annoyed me, but I would not speak on it. He earned his position, and that was worthy of a measure of respect.
+
+Obolis shared that same freedom he owned, and they had a curious kinsmanship spawn from it. That came across with every word as Obolis said,
+
+"It is good to see you enjoy yourself after the battle. I watched most of it while sorting through a document I discovered. It was enjoyable to view."
+
+Daniel sighed, a dark look looming over his face,
+
+"Yup. We killed a lot of people."
+
+The Emperor winced, "Ah...The Hybridization must be close to completion, I imagine."
+
+That instant intuition was why the Empire was so successful. It gave me pride in being Obolis's kin.
+
+Daniel shook his head, "Yeah, and it sucks. It's more like we're just going in and destroying everything now. I'm fine with tearing some eldritch apart. People? Man, it's hard to rev myself up for it."
+
+I remembered my culling of Rivaria. It was not an easy thing. That same burden caused someone so steadfast in their goals to show doubt. In a way, it was humanizing. It made the young prodigy seem more mortal.
+
+Noticing his own weakness, Daniel took his gauntleted fist and tapped it against his forehead. It left a dull ring, like two chunks of metal banging against each other. He continued, his vigor renewed,
+
+"But we have to do what we have to do. These are bad people, and someone has to put them down. We're the ones to do it."
+
+Ah, as expected of him. That humanity faded as fast as it cropped up. But of course.
+
+Obolis scoffed at the warrior,
+
+"What are your rewards for taking that mantle, I wonder?"
+
+Daniel pointed above his head, his title evident,
+
+"250 levels per city conquered. I'm also saving the gialgathens." He turned his perspective, showing some sort of party in the background. A birdman bounced up and down, his belly jiggling like an overstuffed sausage.
+
+Blegh, grotesque and ugly. What an idiot.
+
+The Emperor laughed,
+
+"Hah, feasts and plenty. They are their own reward, I suppose. I was actually hoping for a bit of a discussion on rewards and deals, in fact. You see, we've been struggling with insurrections recently."
+
+Daniel nodded, "The rebellions?"
+
+"It is as you say."
+
+"Heh, I've been struggling with a rebellion too, but you've probably already heard about it."
+
+The Emperor gave him a knowing grin, "And given your expertise, I was wondering if we may commission assistance with our own squabble."
+
+"Commission, huh? What kind of terms?"
+
+"Torix has shown himself adept at mind magic." A cross look came over Daniel's face, and the Emperor took note, "I was wondering if we may use it to stop the riots in our cities. It would be far more civil then using the military to achieve our aims, you see."
+
+The Emperor turned to me, giving me a look of appreciation. I beamed with pride, smiling under my mask. Daniel scratched the back of his head,
+
+"Why not negotiate then?"
+
+Obolis's smile dampened, "They wish for more than I can give."
+
+"Like what?"
+
+"They want an equivalent status to the albony, and the albony want the mask system I put in place centuries ago to be dismantled."
+
+"That...doesn't really sound like much if I'm honest."
+
+The Emperor struggled to keep his expression amicable, but he managed the feat. I did not, my grimace palpable even through my mask.
+
+"There is far more at stake than those simples adjustments would imply. Our entire society is built off a foundation of order and rulings. Without them, the resulting chaos results in victory for those that would reap the benefits of turmoil. In this case, the eldritch."
+
+Daniel stared down and to the side, deep in thought. He nodded slowly,
+
+"Yeah, my own homeworld is struggling with them."
+
+The Emperor tilted his head, "Wait a moment, I thought your world was new? If it has champions such as you at its disposal already, then how can the eldritch be a problem?"
+
+Daniel sighed, "It's a long story. The short of it is that my guildmates and I needed to get rid of our unknown statuses. Now we're wrapped up in everything going on here."
+
+He stared off, "If I'm honest, I'd like to go back to Earth and help settle everything down. It would be nice to go home."
+
+He turned back to us, his gaze like iron, "The thing is, humanity isn't on the brink of extinction like the gialgathens are. I'm going to help them right after I finish helping these giants, though. I'm not one to leave something unfinished or with regrets. If I let them all die here, I definitely would."
+
+A slight grimace crossed over his face. Perhaps he failed to save others before? I couldn't tell, but Obolis might have deciphered the meaning behind his words. Regardless, Obolis gave a concerned look,
+
+"And living without regrets allows you to look forward to the future. With regret on your back, you'll stare into the past instead. Wise of you to handle yourself in such a manner despite being so young. I only wish I had done the same."
+
+I remembered the bloodbaths on Ostaltia, and the carnage Obolis wrought there in his younger years. To this day, he is worshipped as a deity there. Perhaps the Harbinger wished to avoid those same titles. I couldn't comprehend why, but he carried his own reasoning, no doubt.
+
+The umbral knight spoke,
+
+"Yeah, not piling up regrets is easier said than done...Is that all you wanted to talk about?"
+
+Obolis shook his head, "Not quite. I wanted to offer you and your compatriots passage upon one of my private vessels. I intended to watch Giess's glassing, though I understand if you'd rather not see it."
+
+The Harbinger's eyes narrowed, "Do you think that's safe? The shockwave could destroy the vessel, right? And if the glassing goes wrong, we'll be pretty close."
+
+Obolis waved his hands, "Oh, by no means shall we be within the shock radius. We'll be planets away, deeper into the solar system. That will allow us to look onward with safety."
+
+Daniel tapped his chin with the knuckle of a finger, "Hmmm...yeah, we could do that. I'd have Spear there in case we needed a quick warp out, though Helios could help with that too."
+
+He gave me a glance, "Good to see you're not looking too bored."
+
+I gave a solemn nod, "You as well."
+
+The guild leader turned his attention back to the Emperor,
+
+"It sounds interesting, I guess. It would at least give me closure for this...mess of a situation."
+
+The Emperor pressed his palms together, "Then, until then, I pray for your victories and wish against your defeat."
+
+Daniel scratched the back of his head, "Uh, yeah, you too."
+
+If there was one thing that dimensional, metal monster could work on, it was his goodbyes. Obolis closed the call and turned his gaze towards me,
+
+"That was an interesting series of events. He seemed almost sad despite his many military feats. Perhaps he is unsuited for war?"
+
+I shook my head, "He prefers situations that are black and white, good and bad. It lets him act without reservation, and this situation is far from it."
+
+Obolis picked up the cipher inscribed tablet in his hands, "Indeed. It does put one at a disadvantage when their resolve is muddied by uncertainty. In time, the results of his valor will show themselves. Of this, I have no doubt."
+
+I frowned as every victory the Harbinger won was yet another strike against me. His success was my failure now, and it acted as a catalyst for my removal from my position. I seemed safe for now, however. Obolis sighed,
+
+"We've compiled the documents of the cipher, correct?"
+
+I nodded, "Yes, Valencia handled them."
+
+The Emperor shook his head in disbelief, "She is a gem of our empire, isn't she?"
+
+I suppressed a wince. I hated Valencia.
+
+"Indeed, she is. We are lucky to have her."
+
+"This document should act as another temptation for Daniel or anyone else interested in the cipher. I've begun scoping out other parties interested in my guard deal as he's been slow to respond. It will do us no harm in either regard."
+
+I turned a palm to him, "Their shadow slicer was a menace on the battlefield, wasn't he?"
+
+Obolis pepped up, "Or she, we honestly have no idea. Regardless of his origin, he struck fear in the hearts of many. It was quite the display, showcasing his ability to tear people apart through their shadows."
+
+I raised my other hand, "Perhaps a field of light would stop him?"
+
+Obolis leaned over, "He seemed able to suppress light for short spans of time. That alone would give him all the time he needed to enact his judgment."
+
+I leaned back, "But surely the ability carries limitations?"
+
+The Emperor weighed his hands back and forth, "Perhaps, but assuming it's so simple as...wait a moment, I just received an important call. It's an emergency."
+
+Obolis opened his status, showing a control room on one of our worlds. An orange mask grabbed the sides of a camera, shaking it as he shouted,
+
+"They're here. They've come. We can't stop them. They're eating us."
+
+Obolis's eyes widened, "Who is eating whom? And where? You're an officer. Calm yourself and explain so that I may act."
+
+The orange mask quivered, "The Hybrids. They're here."
+
+I took a step back, my blood freezing in my veins. Ice expanded from my feet as even Obolis blinked in disbelief. Obolis murmured,
+
+"We...have been attacked?"
+
+The orange mask rasped,
+
+"They've come for us. The Empire is under attack."

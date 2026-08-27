@@ -1,0 +1,271 @@
+---
+id: 5af27099-e7f3-5d24-a87a-936838084154
+page-type-slug: story-chapter-royal-road
+title: "174 Coming Together"
+slug: 0133-174-coming-together
+partOf: the-new-world
+position: 133
+ownLength: 3587
+unit: words
+ownProgress: 3587
+publishedAt: 2019-01-09
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/322574/174-coming-together"
+royalRoadId: "322574"
+markedReadAt: "2026-06-29T21:36:13.390Z"
+---
+
+Thisbey nodded, "Let's be precise here. My boys have run the data and done the research. A single gialgathen can destroy a hundred square miles of land over its lifetime."
+
+He leaned back into his chair, letting a hand flop onto his armrest,
+
+"Now while I might be a biased source, something has to be done about this mess. Otherwise, every man, woman, and child on Giess will drown in this here filth."
+
+Thisbey's voice turned sharp as a razor,
+
+"And why? For what cause? So that these beasts can look down on us? So that they can whittle away our planet's resources just to fuel their own arrogance? I say that's some poor reasoning. I say we put a stop to it."
+
+I narrowed my eyes, "Well then, how would you get rid of the problem exactly?"
+
+Thisbey waved his hands, "If it were up to me in totality, my solution would be simple in practice. We eliminate the cause of pollution. Seeing as that isn't an option you'd consider, how about we find a compromise so to speak?"
+
+I thumped my fingers against my armrest, my impatience growing. I'd heard more than enough of Thisbey's bullshit at this point. Thisbey spread out his arms as if he had nothing to hide,
+
+"I just need you to tell the espens that drawing mana from nature is foolish. There's a large portion of espen society that still does so. You'd be the one to put a stop to it."
+
+He leaned back in his chair, a smile growing on his face, "It has nothing to do with the gialgathens. I'm self-aware enough to know that I'm biased. Despite that, I'm willing to work with my compatriots. That means I'm willing to work with you."
+
+I leaned back into my chair, "Where are you getting the data and research from?"
+
+Thisbey shrugged, "A reliable and neutral source, I assure you. Most of what I know isn't public knowledge. Find someone who researches the silvers. Anyone worth their salt can tell you this much."
+
+I looked down, diving into thought. Thisbey was full of shit for sure, but he raised a few points I should research on my own. His growing desperation to convince me also taught me something. If I shifted something the wrong way on Giess, I could wreck the whole planet.
+
+My decisions mattered. I affected people, a lot of people. Up till now, it was like I was running away from all that. It's a lot to take on, and it's not something I'm good at either. If I kept fumbling in the dark though, I might end up slaughtering people, my friends included.
+
+Killing Delilath drove that point home.
+
+With that in mind, I took a deep breath, centering myself. I was scared of all this new responsibility and influence. The more I avoided it though, the larger a problem it would become. It was time I stopped running away. I put that fear behind me, using it to spur me forward. It was time to man up and get this shit done.
+
+I first needed to get a solid understanding of the situation on Giess. Once I got an idea of what I was working with, I'd come up with a plan. The quicker I did so, the better. At this rate, people might even think I was siding with Thisbey. The guy was a genocidal maniac. Not my cup of tea, personally.
+
+I stood up from my chair, "I'll talk to someone else about it. I have a lot to do. Goodbye."
+
+Thisbey leaned his head back, "Could you at least consider the idea of my proposition? What is it about me that throws you off to such a degree?" He frowned, "Am I too lowly for you? Is that it?"
+
+I raised an eyebrow. Thisbey snapped at me. I was done playing nice with him, so I gripped the edge of my chair's armrest,
+
+"Tell me, what animal did you get this leather from?"
+
+Thisbey blinked, "Well, it's a trade secret."
+
+I crushed the armrest in my hand, smearing the wood and nails like playdough, "See, that's why I won't consider what you're saying. You're lying to me."
+
+Thisbey's brow creased, "Now there's no reason to get uncivil here. These are ungrounded accusations. Any proof behind them?"
+
+I was done with his politician talk. It was time to be blunt. I leaned over Thisbey,
+
+"I'm done playing these little games of yours. Let's just be honest, alright? I hate your guts. You get other people to do the dirty work for you. Why? Because you can't stand a little dirt under your fingernails."
+
+A blood vessel throbbed on the side of Thisbey's head. He stood up, pressing a finger against my chest,
+
+"Now I've been as kind to you as my own son. I've paid for hotel rooms. I've done charitable work in your name. I've done nothing to deserve this kind of judgment, let alone condemnation...Especially from you."
+
+I scoffed, "Ever since we met, you've been trying to use me to orchestrate genocide."
+
+He frowned, "It's not genocide. It's saving Giess from an environmental crisis. I'll have you know my intentions are pure at heart."
+
+I raised an eyebrow, "Really now? No hidden agenda there?"
+
+He gripped the collar of his leather suit, "Of course not. I'm a man of my word."
+
+I grabbed his skin jacket,
+
+"You're still trying to play games with me, Thisbey. You're wearing gialgathen skin. I can smell it. I can feel the mana in it. How the hell am I supposed to trust you when you can't even own up to that much?"
+
+He knocked my hand aside, "You don't know me. You don't know my history."
+
+I scoffed, "You're wearing another sentient species' skin. What else do I need to know about you before I can tell you're a bad person? That you eat children?"
+
+Thsibey's face went dark. He glared up at me and seethed,
+
+"I will ruin you for this. Do you hear me? I built you up and I'll tear you down. That reputation of yours, I'll flip it in seconds. I'll turn you into a demon instead of a hero."
+
+I rolled my shoulders, "Just like you did with Delilath? I already told you. I couldn't give two fucks about fame."
+
+He spread out his arms, "At the very least I didn't kill her like some savage. Your big, brutish hands can't do much else but smash, can they? I wonder what you've done to that woman of yours with those big old hands? Probably beaten more than once or twice."
+
+I wrapped my hand around his shoulder. My palm rested over his chest, and my fingers wrapped around to his back. I compressed his torso, his bones creaking,
+
+"You mean these big, brutish hands?"
+
+Thisbey paled, anger draining out of his face.
+
+I tilted my head, "Answer me this, smooth talker. Do you wear gialgathen skin because you're afraid? Does it give you control over them? Do you think it gives you control of me?"
+
+I cracked my neck, the bones in my neck sounding like steel. Thisbey's knees shook as I glared back down at him,
+
+"Tell me...do you feel in control?"
+
+I held him there, giving his chest the slightest squeeze. My fingers were steamrollers, squeezing the life from him. A bead of cold sweat dripped down the side of his face. He shook his head and mumbled,
+
+"I don't."
+
+I nodded, "Didn't think so."
+
+I let him go, patting his shoulder,
+
+"Hey, just a heads up. If I see you wearing gialgathen skin again, I'm feeding you to an organ caterpillar. They're deep in silver territory."
+
+His heart pounded in his chest, his pupils dilating with fear. I turned around, walking out. As I opened the door outside, I turned to him,
+
+"They're a nasty bunch, so you shouldn't have any problems fitting right in."
+
+I closed the door behind me, done with that guy. I lifted my arms over my head, stretching out my back. As I did, the muscles in my back popped like iron cords. I ran forward, jumping up. I pulled myself along with a gravity well, reaching our hotel.
+
+As I entered our room, I found Tohtella and Torix discussing details of the plan. They both stared at a series of holographic projection of the Skyburner base. They organized portal locations, supply chains, and portal locations.
+
+They looked at me as I walked up. Tohtella crossed her arms, "Good to see you're well. Did you win? It doesn't look like it."
+
+I frowned, "Yeah, I won. It wasn't easy though."
+
+Torix scoffed, "I assure you, that's quite apparent. Here-" He opened a portal, pulling out another gray square of armor.
+
+"I only own seven more. Do try to keep them safer would you?"
+
+I took the gray square, "Yeah, yeah. I'll give it my best." They looked back at their projection. I put hand on Torix's shoulder, "Hey, I need both of your help before I let you guys do your thing."
+
+Tohtella pursed her lips, "What is it?"
+
+I raised my hands, "I need resources on Giess. Culture, environment, etcetera. I'm trying to get a grasp of what's going on."
+
+Torix's fire eyes flared, the fires growing brighter, "That's rather sensible of you. Would you mind discussing what spurred you into action?"
+
+I frowned, "I killed someone at the tournament."
+
+Torix leaned back, "Oh...Well then..."
+
+Tohtella pursed her lips, "Who was it?"
+
+"Delilath, Lady of Yellow. I didn't mean to. Our fight dragged on for hours. When I finally got the upper hand, she snapped her jaws at me. After that, well."
+
+Torix shrugged, "You punched her to death. Alas, such is the circle of life and combat."
+
+I raised my eyebrows, "Her family flew over. They wept."
+
+Torix nodded, "It's difficult, I know. It's a series of fights, however. You're not able to guarantee that every combatant will be safe, let alone over many tournaments."
+
+Tohtella glanced at her clipboard, jotting a note down, "She was a general for Lehesion's army. It's a shame she passed. Will you be able to fight at full  power tonight, or should we delay the operation?"
+
+She glared up at me, her eyes keen. I shrugged, "Eh, I've been through a lot worse. I just want to know more about Giess so I don't end up fucking something else up. Simple as that."
+
+Tohtella raised her eyebrows, "Well then. I may assist you."
+
+She typed in her status. Seconds later, a dozen messages appeared in my inbox. She gave me an amused grin, "Those documents should give you a general overview of several factors of Giess."
+
+I scrolled through them on my status and grimaced, "Oh man. This is just hundreds of research papers. Fuck."
+
+Tohtella scoffed, "It's basic reading. I included many of my own notes for you to use at your discretion."
+
+I raised my eyebrows, "Thanks. This is ridiculously helpful."
+
+Tohtella gave me a curt nod, "You're offering your services to me. The least I can do is offer the same courtesy."
+
+Torix turned back to the holographic projections, "Now in order to keep the espens safe, I propose cryogenic storage."
+
+Tohtella rolled her eyes, "The water in the espens will expand, rupturing the cellular lining throughout their bodies. We'll be taking back a bunch of preserved corpses."
+
+Torix shrugged, "What's wrong with that?"
+
+I walked off, shaking my head at our necromancer, "I'll leave you both to it then."
+
+I floated up to my room, walking in. Althea was gone, doing something with Kessiah no doubt. Their relationship improved since coming to Giess. Either way, I appreciated the alone time. I sat down on one of our fine, wooden desks. I laid opened my status, flipping and folding the menu till it was shaped like a book.
+
+As I flipped through the virtual pages, I figured out three important facts. First, Thisbey wasn't lying about the mana pollution. Tohtella's research and reports verified it. He exaggerated the gialgathen's mana footprint, however. Gialgathens took up one fifth of the mana pollution. Espens took up two thirds of the mana footprint. The rest were ordinary animals.
+
+Thisbey was stretching the facts quite a bit.
+
+The second piece of info involved silvers consumption of mana pollution. The saysha beetles spread out the metallic grid. They were the only known kind kind of silver that actually reduced mana pollution. Little research had taken place on more advanced silvers, however. Scientists hoped to find better eaters of the sludge.
+
+The third fact revolved around silver hunts. Giess's leveling occurred faster than a normal planet. This wasn't just due to the mana strengthening the local animals and fauna. After the first year on Giess, Schema changed the silver's status to that of eldritch.
+
+This meant that there was an enormous amount of monsters to kill in order to level up. I struggled to level for that reason. It was hard to find monsters above level 5,000. On Giess however, they were everywhere in silver wasteland. This made reaching the level cap simple, though it wasn't easy by any stretch.
+
+All these factors gave me a better understanding of Giess. I came up with a three-step plan to save the planet. They needed to find an efficient sludge eater from the silvers. After that, they should invest in using Schema's system to learn and use internal mana. During all that, they should spread awareness of mana pollution.
+
+It wasn't that complicated to be honest.
+
+The social issues threw a wrench in any reform though. Gialgathens didn't see silvers or the eldritch as a threat. Most espens still looked to the gialgathens for guidance. Therefore, most espens followed that line of logic. Tohtella tried changing the gialgathens minds in a variety of ways.'
+
+They never listened to her.
+
+That's why Thisbey and Tohtella asked me to give a certain kind of speech. My raw physical strength forced the gialgathens and espens to listen. This gave the social breakthrough required for reform. The issue came in the kind of reform I would cause.
+
+Thisbey wanted me to demonize the gialgathens and make them out as weak. I didn't know exactly how he planned on using that to kill of the gialgathens. I assumed that giving that kind of speech would elicit that kind of reaction.
+
+Tohtella wanted me to bolster Schema's appeal by hyping up self mastery. It was a simple, effective way of reducing mana pollution. Now that I comprehended the situation, I stuck with her plan. It seemed pretty damn solid.
+
+With all that bullshit handled, I closed my status and leaned back in my chair. I let out a long sigh, thankful that it was over with. It only took about eight hours of unrelenting, tedious research. As painful as it was, it was necessary.
+
+It gave me a foundation to act on.
+
+Armed with insight, I stood up and pulled out my chunk of orichalcum. With another few hours before the operation, I tested my next ability. Over the last few days, I leveled up thermomancy to 50. I let the orichalcum float over my hand, holding it with a gravity well.
+
+During some of my free time, I theorycrafted ideas for Thermomancy. The first idea to come up was crafting with my armor. If I melted the metal, I could manipulate it far better then when it was solid. It gave me a level of precision I couldn't match in other way.
+
+We were also heading out later tonight. If I could arm Althea and the others with something, it might even save their life. I had no clue honestly, but it was an idea worth exploring.
+
+With those intentions, I channeled my mana, generating a concentration of heat. In seconds, the orichalcum melted. With a pool of molten metal hovering above my hand, I spun it around using a gravitational vortex. The glowing ball flattened out, the heat off it heating the air in the room.
+
+I played with the metal, changing its shape. I got the hang of shifting it with gravity wells. With a clear picture of what I wanted to make, I molded it into the shape of a knife. Once I had the outline of a knife, I pressed and prodded the goop until clear, sharp lines came up.
+
+Once I created the handle and guard, I cooled the metal until it was white hot yet solid. With the softened metal in front of me, I etched runic glyphs with telekinetic pulses from my fingertips. I sharpened the edge, using my unique skill, Hands of a Giant. I even incorporated dimensional cipher runes on the handle.
+
+I wasn't finished though. I aimed to improve my creation process from last time. An issue with many of my weapons was wear and tear on the runic glyphs. In order to hide them and reinforce the blade, I decided to cover the base of the knife with my molten skin. It would become the first knife made of dimensional fabric.
+
+With that in mind, I tore a piece of my real, charcoal colored armor off. With a burst of mana, I melted it. I molded it into a long, flattened strip. I wrapped it around the handle, creatinga helix of melted armor hovering around the grip. Using another burst of energy, I tightened the helix of my armor over the blade. At the same time, I cooled the metal.
+
+The result was woven plate of blackened armor over the hilt. This served several purposes. It prevented the runic inscriptions from deforming. The sheath protected others from seeing the runes as well. It even reinforced the blade since my armor was much harder than orichalcum.
+
+Taking another strip of my charcoal armor, I melted another strip of the metal. I folded it around the shape of the blade, creating an other loose helix around the edge. Using the same tightening and cooling method, I tightened the helix around the blade. With careful scraping, I sharpened the edge on the casing till it could swipe through steel.
+
+I gave it a bit of decoration with a few simple markings. I pulled my creation back, hovering the dagger in front of me. I grinned, impressed at my progress.
+
+Dimensional Slicer(lvl requirement: 5,000) - Hiding forbidden runic glyphs, this reinforced blade is a beautiful bringer of death. Dimension C-138 utilized a cocktail of different skills to craft this masterclass of weaponry. The bonuses are as follows:
+
++100 Strength, Consitution, Endurance, Willpower,
+
++50 Intelligence, Perception, and Luck
+
++125% Critical Strike Damage | +Extra damage against other metals
+
++10,000 health | +1,000 health regen per minute
+
+-10% to Charisma | -10% to Mana Regeneration
+
+Note: Bonuses doubled for a member of Harbinger's Legion. Bonuses don't stack with copies of the Dimensional Slicer. Excess mana is siphoned to Dimension C-138.
+
+I put my hands on my hips, admiring my work. I planned on using thermomancy for heating myself up. After a bit of thought, crafting popped up as a creative way of using the skill. If I refined the talent enough, I'd become a blacksmith of great renown. Well, probably.
+
+With that in mind, I went to work on the next knife. Three hours into the night, I crafted three more knives giving me four knives total. I'd give two to Althea and one to Torix and Kessiah. I weakened the runic markings for Kessiah's so that she could actually use it.
+
+I adjusted the cipher markings to each person. If the use channeled the weapons, it would draw out their individual strengths. Althea's enhanced her critical strike damage and her slicing through metals. Torix's augmented his summoning capabilities. Kessiah's improved her technical abilities while slugging it out.
+
+It was satisfying seeing my work come to fruition. I was glad the knives enhanced the user's tankiness too. Since I was total ass at protecting people in a fight, these knives would have to do. As I finished the fourth blade, a notification popped up.
+
+New Skill Gained! The unique skills Thaumaturge, Thermomancy, and Hands of a Giant have combined into the mythical skill, Thaumaturgical Blacksmith! Half of unearned skillpoints rewarded( 63 treepoints)
+
+Mythical Skill Interaction! The Mythical skill, Thaumaturgical Blacksmith integrated the normal skill, Living Forge, enhancing the skills abilities!
+
+Legendary Skill Interaction! Force of Nature enhances the mythical skill Thaumaturgical Blacksmith, evolving the skill into Star Forger! This gives the skill increased ease of use when incorporating telekinesis or gravity!
+
+Star Forger(lvl 1) - Many bend metal to their making. You choose to bend the stars, crafting masterpieces with ease. Enhances metal manipulation, self-forging, runic carving, blacksmithing, enchanting, temperature manipulation, and dexterous ability with gravity and telekinesis. Effect enhances with level.
+
+I shook my head, amazed I gained a mythical skill without meaning too. I was using several of my unique skills at once when making the blades. Most of the unique skills were very high level as well. That eased the process, giving me a leg up when combining them.
+
+Before I gave the daggers to the others, I checked out my trees. I grinned. I had enough points to reach the final tier in my tree, Legendary. I put all my points into it, a sense of excitement building. As I finished it, a notification popped up.
+
+As I read it, I raised an eyebrow.
+
+New skill level unlocked!
+
+Sovereign tier skill now unlocked!

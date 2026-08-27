@@ -1,0 +1,505 @@
+---
+id: c0940c96-baf5-5a60-858f-2187eef488df
+page-type-slug: story-chapter-royal-road
+title: "415 A Dark Fantasy"
+slug: 0375-415-a-dark-fantasy
+partOf: the-new-world
+position: 375
+ownLength: 4954
+unit: words
+ownProgress: 4954
+publishedAt: 2025-04-23
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2223599/415-a-dark-fantasy"
+royalRoadId: "2223599"
+markedReadAt: "2026-06-29T21:34:11.477Z"
+---
+
+This was the same kind of split, but it wasn't a clean, sterile kind of cut; this jagged mark would leave a nasty scar. It sat in the center of the darkness like a jagged splintering of reality, stretching out in every direction. As I got near it, my armor trembled over my skin. It drank deep from these waters, ingesting the most delicious of flavors.
+
+It disgusted me, but I allowed it to do this. This energy hadn't hurt me in the slightest, though the effects were as difficult to place as they had been the first time I'd felt them in BloodHollow so many years ago. Taking a moment, I grabbed the edges of the alternate reality, getting ready to heave it away from the moon's surface.
+
+As I did, a voice radiated from the other side.
+
+"One that withstands the blood?"
+
+My armor smiled, and I frowned. The strange voice oozed its words.
+
+"No...A being that indulges in it."
+
+Chapter Begin
+
+My armor's runes glowed with anticipation. I telepathized to it.
+
+"I'm suppressing the urge to jump the gun here, but who are you, exactly?"
+
+A being without a solid form crawled out of the space. It held a cerulean orb at the center of shifting silver blocks. It spoke with an elated voice made of many whispers in my mind.
+
+"Who? I'm more and less than I was, but who I am doesn't matter anymore. In the end, I am no one. It's a subtle detail many forget. We all fight to stay alive, yet we die all the same. Some of us simply die before we rest in a grave."
+
+I raised a brow.
+
+"That doesn't answer anything I've asked."
+
+"You don't care who I am. You're more interested in why I'm here and what I'm trying to do. Aren't you?"
+
+I frowned, drifting away from the rupture.
+
+"True, but I'm trying to be polite here."
+
+Its voice bounced in my mind, a congregation of whispers.
+
+"Politeness will only serve you well amongst politicians. I am here as a surveyor, so there is no need for you to act as anything more than an obstacle in my path."
+
+I scoffed.
+
+"Obstacle, huh? I don't have to be. Communicate, and we won't have to fight. Now tell me, what are your goals?"
+
+"It doesn't matter. Step aside."
+
+I narrowed my eyes.
+
+"Oh, I think it does. I'll move if you give me a reasonable explanation of what's going on. Otherwise, we'll come to blows."
+
+The entity floated down to the moon's surface.
+
+"This is quite the corruption, isn't it? It seems as though this rip is wide and over a hemorrhage. It will do nicely. Perhaps...Perfectly."
+
+I tilted my head as the entity regained its physical form. The cerulean sphere turned to me, and a vertical slit formed on its center. An amber eye gazed at me, and it held a depth and coldness. It created visions of a dark ocean covered in ice.
+
+A series of sub-spaces opened around it, condensing into tendrils that moved the main body. The tentacles were liquified amber that squirmed around its central body. It held flayed faces in the amber, each patch of skin smiling. It laughed.
+
+"You seem befuddled. Is it so strange that other things can sustain themselves between realities?"
+
+I walked around it in a slow trot.
+
+"You're the first thing I've seen that's not bending into some unrecognizable monster from that energy. Color me surprised."
+
+"I couldn't accomplish my goals if the blood corrupted me. That being said, you're different. I avoid touching this energy. You're swimming in it. Oh ho, you're drinking it. What a grotesque creature.
+
+"You have the torn faces of victims in those tendrils. I'd argue that's a bit worse."
+
+"These are physical decorations of those that defied me. They're nothing more than mementos. To wallow in this ilk and survive...That's far more abhorrent than any physical creation."
+
+I kept circling it.
+
+"I need answers, Mr. Smiles."
+
+It laughed, the expression carrying madness.
+
+"How are you still so sane, given you drink from the origin of insanity? It is a paradox."
+
+I shook my head.
+
+"I'll exchange an answer for a question. All this is unstable energy. All I do is make it stable before absorbing it."
+
+"Ah, really? Thank you for saying so. It's hard to discern much about this darkness since I've never touched it."
+
+"How about you return the favor? Who are you?"
+
+"I'm Kryyah. I'm an...Accountant, surveyor, and pathfinder, you could say."
+
+"What and who are you accounting for?"
+
+Kryyah snapped one of its tendrils against the rip in spacetime.
+
+"These. You wouldn't mind if I left this here for later, would you? I'll need to have this investigated."
+
+My eyes sharpened.
+
+"I can't let this thing stay here. It has to be contained."
+
+"Oh, now that won't do. You're not clearing this space anytime soon, given you haven't been able to close this already. If you'd like, I can keep this stable and not let it grow further. I'll be back with help after a while."
+
+I shook my head.
+
+"This won't be here when you get back. I have the means to close this, so I will."
+
+The eye peered into mine, brimming with hostility.
+
+"Is there a set of words I can say that'll convince you to let this rupture grow?"
+
+I shrugged.
+
+"Mey, maybe, but I'll need a pretty compelling reason to leave this eyesore here."
+
+It paced over to me, indenting itself onto reality.
+
+"You seem like a being of force. Know that I'm a messenger at most. Think of me as a weak, pathetic minion for someone larger than myself. You'll be tasked with answering to my superior if you interfere with my mission here, assuming you can even stop me."
+
+I opened a recording stream in my status. I condensed my wake over my skin as mana flooded into my body. I cracked my knuckles, everything awash in eerie silence.
+
+"Is that it? Any other reasons?"
+
+It whirled a tendril above itself, reality shivering above its head.
+
+"As a being of force, I'll speak in a language that even you can understand. You can't stop me even if you tried. I'm trying to give you the option of saving your pride or your odd life. You normal species are all about that, right?"
+
+I squeezed my hands to fists.
+
+"It sounds like I have my answer then."
+
+It snapped the spacetime whip at me, and existence caved around the tendril. I pulled myself back, and it snapped into the ground where I was. Instead of tearing rock, it wounded reality. The rock wept and howled in silence, the space a deformed, horrid abomination. I reached out a hand, and gravitation exploded over the entity.
+
+It remained unaffected before laughing.
+
+"So that's it? Are you using physical forces on something that treads the interdimensional spaces between realities? Wow. You mustn't engage with entities of my scale often. Allow me to enlighten you to what we are."
+
+It snapped towards me, traversing hundreds of feet as if it were an inch. Its voice whispered from all directions in many voices.
+
+"You're facing something of a different league."
+
+It snapped its reality whip on my head, but it bent around my dimensional wake. I grabbed the tendril, reinforcing my grasp with Event Horizon. As I squeezed my hand, it howled out in agony. I frowned.
+
+"Is it the Little League? Because you're throwing some softballs for someone talking so much."
+
+I tore the amber limb off, and purple tears gushed from the amber eye. Kryaah's voice grew jagged.
+
+"So you're more than a brute. Good. I wouldn't want this to be easy."
+
+I whipped my dimensional wake like a hammer, smashing it into the moon's crust. It crunched into the stone before snapping out of the ground. It dashed in different directions, passing distances as if skipping spaces entirely.
+
+These leaps ignored the fundamental laws of reality as if they molded reality to move around. It hurled two more tendrils at me, and they met my wake like a wall.
+
+It howled in my mind.
+
+"What are you? How is the space around you so dense?"
+
+I snapped Event Horizon over it like a pair of jaws.
+
+"You're the expert. You tell me."
+
+Its tendrils stopped my wake's teeth before it slid out of our reality. It murmured across the viel.
+
+"Are you some kind of dimension eater? A parasite, perhaps. Disgusting."
+
+I kept quiet, trying to find its presence. It reminded me of Althea, this thing having tread onto a different reality where I wasn't. Despite that distance, it could still interact with this space. After a moment, it snapped out its tendrils like a drill.
+
+It burrowed through my back and out my chest, my armor nothing more than paper matches to its attacks. However, it dug deeper than a physical attack. It damaged the actual space I occupied, breaking the laws that allowed a physical form to exist. As it jerked its tendrils away, I couldn't regenerate my body. It laughed.
+
+"Robust, but you're unable to fix that, I gather? How many holes does it take to kill you?"
+
+With my wake, I smothered the desolate space. I reconstructed the reality with my own, and my body returned. It popped out of existence once more, and more tendrils drilled from above, leaving no time for me to react. In a rapid set of stabs, it pierced me into a fractured, loose set of metal shards.
+
+It hissed.
+
+"Come on then. Mend the unmendable."
+
+I liquified, pulling myself back together in a different spot. Its voice dimmed to a murmur.
+
+"You're more than meets the eye, aren't you?"
+
+"Like a transformer, some might say."
+
+"What is-"
+
+I charged at it. It shot out with another tendril from the void. One of my minds found it, locking against its psionically. At the same time, I ducked under its attack and jutted my hand where the tentacle originated. I grasped the cerulean orb and pulled it out of the other plane it occupied. It squirmed in my grasp.
+
+With a quick swipe, I tucked its body into my pocket dimension for safekeeping.
+
+Or I thought I had. It abandoned the cerulean sphere, losing its physical form. It now hovered as an amber all of energy. It sighed.
+
+"I'm guessing you're not going to give me my shell back?"
+
+I hurled my mind at it, finding a consciousness far larger than even Shalahora's colossal mind. It laughed.
+
+"That's not a game we play."
+
+Around its colossal consciousness, a dozen different minds existed. Instead of creating a mind without gaps like Shalahora, this construct used swollen, immortal minds as a defense. Even a slight graze exposed how these things had lived for millennia. Those millennia were spent learning about all the details of mundane histories, arbitrary sciences, and useless logs of data.
+
+This didn't refine the psyches in any way, but it left them bulging at the seams like enormous, swollen monstrosities. I lobbed a mind at it, and it carried no effect. It was an odd defense, yet its effect was palpable.
+
+Kryyah scoffed.
+
+"What was that? Did you just kill your mind to try and disorient mine? You're suicidal."
+
+I sent a wave of fifty minds. They crashed into an unbroken wall. It shivered.
+
+"Ugh, grotesque. You're a hivemind. Great. Just great."
+
+It kept itself within its psionic shielding, and I continued whittling at the defenses. It circled around me, unperturbed by my progress.
+
+"You're trying to stop something that required thousands of years to build."
+
+I narrowed my eyes.
+
+"Every wall is broken one brick at a time."
+
+"You think I'll let you spend a hundred years on this?"
+
+"I won't need that much time."
+
+I changed my attacks. Unlike Shalahora, Kryaah didn't defend itself at all, so I wasn't outclassed. In a group, I sent consciousnesses into the vast memory piles, having them hack away. This augmented my progress tenfold.
+
+It laughed.
+
+"Oooh, only a decade of tireless assaulting now. I'm certain you'll keep that up."
+
+My gaze remained hardened, my resolve already set. Its laugh dimmed.
+
+"You're an annoying thing, you know that?"
+
+Kryyah snapped at me, spinning in a circle. Its tendrils fused into a halo of dimensional erosion. It crashed against me, and my wake met the charge head-on. We cracked and crushed against each other, and its tendrils regenerated using the space around us.
+
+I pulled from the well of my wake, and the waters never ran dry. It continued boring down, the eye at its center thinning to a slit. It hacked out.
+
+"You know...This is like when an immovable object meets an unstoppable force."
+
+I furrowed my brow.
+
+"You talk a lot."
+
+"It passes the time."
+
+The reality around us thinned until cracks from the rupture behind us expanded. They rippled outward, finding the weakened remains of the reality around us. Kryyah hummed with glee.
+
+"Hah! This is incredible. I've never seen a reality splinter so easily. So quickly. Now, this will be useful."
+
+It pressed its attack further. Not wanting to destroy the moon, I turned myself into a liquid. I flowed around it, keeping my wake around me. I wrapped myself around the ethereal entity, and it shot out to escape. It bounced against my dimensional fabric, unable to find a weak point. It murmured.
+
+"You're more than annoying. You're dangerous."
+
+I pressed down, the space within compressing to a small point. I squeezed the creature, and Kryyah let out a cry of anguish. In my mind, I sighed.
+
+"Tell me why you're here, and I'll stop."
+
+Kryyah gasped out.
+
+"To take this tear away from here."
+
+"For what?"
+
+"For someone you'll never know the name of. It's that simple. If you let me go now, I won't tell my superiors about this world and what rests here."
+
+"I don't believe you. Not for a second."
+
+It laughed.
+
+"It was worth a shot, wasn't it?"
+
+Kryyah's amber eye spread until it connected to the disparate dimensional ripples around it. The coloration of the being shifted to purple, and it spiraled as a drill. It released a blinding flash before ripping out of my containment. The light left my liquified form glowing, and even the half-second of exposure left a dense, lingering warmth after I chilled myself. I rematerialized and grimaced.
+
+"Radiation. Ughck."
+
+Kryyah returned to its amber form.
+
+"I didn't want to make this planet uninhabitable without reason, but you're not giving me any options."
+
+Amber energy consumed its body once more, and it generated enormous amounts of radiation. The moon beneath it melted, the stone evaporating into the thickest fog imaginable. The stone mist condensed further from the entity, raining as shining crystals. Those gemstones spiraled around the being before swarming toward me.
+
+They crashed against my body, a shining storm erupting from the surface of my skin. I stepped through the glistening tempest.
+
+"Physical forces? Didn't you mention you're in a different league?"
+
+The carbon crystals around me ignited before the entity shot back towards the interdimensional rip. I bolted towards it, cracks erupting over the moon and to the horizon. As it squirmed into the warp, I followed its descent. Icy energy smothered my body, a paralyzing sensation creeping over me.
+
+Something was wrong here. No eyes opened around me, but I could feel them bore down from all directions. From the ether, Kryyah whispered.
+
+"You can survive even when immersed? Hm, but for how long?"
+
+It shot back out of the rupture, its form turning back to its purple, intangible state. In seconds, the dimension wielder closed the gaping chasm in our reality, and it tried locking me in purgatory. Once the chasm was the size of a manhole, Kryyah shouted into the endless darkness.
+
+"It's been fun, but I've had enough of this. Goodbye."
+
+It slammed the dimension shut. Well, it tried to. I left a thick cord of my dimensional fabric coiled around the entrance, and I reinforced it with my wake. Unable to cleave it apart, Kryyah roared.
+
+"You...Gah, it's like killing a horde of vermin or something. You're a plague, for Baldowah's sake."
+
+I bolted back to the entrance, building mana in my body.
+
+"Remember, even vermin have teeth."
+
+"Rats do enjoy feasting on corpses. You're the same."
+
+Unable to break me in its purple form, it turned amber once more. It fired a beam of condensed radiation at the safety cord I left behind. It snapped, my fabric melting. Kryyah tried closing the warp again, but my wake withheld its pressure. Kryaah scoffed.
+
+"You're like an eldritch virus or, or some twisted idealogy that takes people's minds. Cancer maybe? A dimension cancer."
+
+I reached the warp, putting my hands against the tear in reality. I pulled it apart before snapping a jab forward at Kryaah.
+
+"Yeah, I'm hard to kill. It's a trademark at this point."
+
+I smashed my fist against the being, but I met a physical wall. It manipulated its density, becoming as heavy and dense as a star's core without the same impact on gravity. My fist crumbled as force rebounded into my hand. Kryyah shouted.
+
+"You're a small, pathetic-"
+
+My palm crashed through its unbelievably dense body, shattering the reality warper. As cracks of amber fell, its broken form bolted away from me. It let out a cry.
+
+"You...How?"
+
+I held Baldowah's dimensional opening in my palm.
+
+"If you break the rules, so can I."
+
+Before it could escape, I scooped up the amber shards from beneath me with my pocket dimension. I bolted myself towards the entity, slamming another heavy strike at the creature. It ducked sideways, but I pulled its body towards me with immense gravitation. On contact, I spiked the well's density, and a tiny singularity spawned.
+
+It pulled the amber creature and my fist together. As it snapped outward with kinetic force, Baldowah's dimension slammed into the amber creature. It cracked, splintering outwards as only a small blot of amber energy. A dozen singularities flickered between us, and I disintegrated to nothing before rematerializing in less than a second.
+
+I wiped my brow, having put my furnaces into my pocket dimension a moment before the battle began. As Kryaah made evasive maneuvers, I took as much of its body within my pocket dimension as I could. The leftover shards I missed snapped back together before the entity warped back to the rupture in spacetime. It slipped into the endless darkness and howled out.
+
+"I'm alone now, but you will know that I exist within a myriad. Remember me, virus. Remember this choice."
+
+It slipped away, and I followed, forcing myself through the small spatial rupture. As I gazed into an endless, undifferentiable darkness, I sighed. Holding onto the dimensional opening, I dragged it around, searching in the endless dark for a while. Finding nothing to signal Kryyah ever existed, I hit myself in the head.
+
+Agh. I wanted to end it before it could escape, but the damn thing was resourceful. That, and it could leave whenever it wanted to. Pulling myself out of the void, I held the dark rupture. Taking a while, I jerked the edges of reality shut. However, the amount of energy it siphoned out never changed, and the corrupting energy plumed out in a violent eruption like an oil seep.
+
+I plugged the vomiting dimension with my hand. It seeped its poison into my armor, the icy sensation like breathing in menthol. At the same time, the space around me still carried a deep corruption. Taking a minute, I attempted to heal this tortured realm with my dimensional wake.
+
+To my surprise, I healed it by passing through it, but it required multiple pass-throughs. Starting with Event Horizon, I siphoned the latent, lingering energy that maintained this volatile area. Once I cleared it out, the Rise of Eden built the space back up from zero. The last step required a wave through with my primordial wake. It completed everything, making it just right.
+
+As I passed the vast region like a spatial lawnmower, I found a massive mess on the surface of the moon. I refilled the scars I left on the moon's surface with white stone. After several hours, I took the enormous, gaping chasm the dimensional rupture left behind and filled it with a normal reality. Wiping my brow of imaginary sweat, I leaned against the edge of a crater.
+
+Kryyah left me swirling with questions and no real, tangible answers. Despite the lack of concrete info, I found a few tantalizing bits here and there. Kryyah called this place a hemorrhage, and it thought of the dark energy as blood. If I had to guess why, it revolved around how the energy was made.
+
+I mean, we knew another dimension was collapsing into our own. That's how the eldritch and dungeons kept coming. As it shattered, what happened to the space that couldn't maintain itself? Well, reading into Kryyah's words gave me the answer. The dimensions bled into a form of dense, chaotic energy. If that was the case, then it guaranteed the eldritchs' origins.
+
+Their disconnected spaces were being exposed to the interdimensional energy, corrupting everything within the unprotected spaces. This also explained why Schema made dungeon cores in the first place. They were condensed orbs of interdimensional energy. There was plenty of energy to go around, and it let Schema avoid having to power everything himself. If I stretched my logic a bit, I could assume Schema organized his dungeons and stabilized their space around the cores thereafter. This saved him time and effort, and I marveled at the efficiency. At the same time, I still wondered how cores spawned on L-7. A not-so-educated guess was that the eldritch managed to absorb enough energy that they began to stabilize their dimensional energy into something more physical.
+
+I wasn't so certain about that explanation, but I lacked any obvious answers. I took a second to organize my thoughts into a message format alongside the footage. After sending my findings to relevant guild members, I sent another note to Helios.
+
+As the grizzled albony arrived, he reminded me more of Obolis. He replaced most of his royal garbs with Graphene plating and portions of my own armor. Several weapons rested over his back, with his gauntlets glowing from latent mana. He cast an orb of gravity over himself to counteract the decompressive force on the moon, and a see-through sphere covered his face.
+
+I peered at his title, and I raised my brow.
+
+Helios Novas, the Harbinger's Courier(Lvl 20,000 | Class: Fringe Walker)
+
+"You gained a new title? And you extended your level cap, too? Oh man, Schema must be lowering his standards."
+
+Helios smiled.
+
+"Hm, or perhaps the AI's aligning its rewards with greatness for once."
+
+"Or it could be a glitch."
+
+Helios raised a brow.
+
+"Hm, perhaps so, given the excessive evidence of its gross negligence."
+
+I pointed at the tear in spacetime in my hand. The opening vomited out enormous amounts of interdimensional energy.
+
+"Can you close this? Or, you know, make it smaller."
+
+Helios cracked his neck while stepping forward.
+
+"If another Old One deigns it to be so, then perhaps not. However, this feels different, so most likely, yes. I can close it."
+
+The tear in time belched out enough energy every second to leave Helios as a twisted abomination. He gawked at it.
+
+"What in Schema's name is this? Are you trying to kill me?"
+
+"Not quite. Give me a second."
+
+See, Helios had to work on the rupture from the open direction. To even get near the rupture, the amount of energy had to be reduced to zero. I liquified myself before heading into the void. Inside the dark ether, I absorbed as much energy as I could using Event Horizon. Helios still required a thickened plate of my fabric to stop him from being corrupted, and he worked parallel to the thinnest part of the tear. At least the energy plumed away from him from that position.
+
+The dangerous, difficult work tested our resident warper. A few times, a bit of energy touched his fur, and he tore it off in an instant. The hairs ate one another, having gained tiny teeth and miniature mouths. Helios murmured.
+
+"Ah, yes. I should've anticipated that this mission would somehow be far worse than the last."
+
+I grimaced.
+
+"Oh man, don't tell me this is uncloseable too? If so, then come on, man. What am I even paying you for?"
+
+"You don't, and this warp is closeable, but in another vein, it isn't. Even from a cursory feeling, there's a kind of splintering of reality here. If I heal this wound, the surrounding space will be weakened in the process. It will tear in a few hours once more. It could result in multiple tears, actually."
+
+I sighed.
+
+"So I have to plug it up, essentially?"
+
+Helios peered at a gauntlet.
+
+"That happens to be the case, though you likely intended to keep this, right? You have an irrepressible urge to stick your hands in jars of snakes after all."
+
+I gazed at the endless dark within the rupture.
+
+"It's how I'm immune to these snake's venom. But this time, no. I didn't intend on keeping this warp. I'm fine with my armor taking in ascendence or the eldritch. This stuff, though? And a continuous, long-term exposure at that?"
+
+I pulled one of my hands through my hair.
+
+"That...It seems aggressive."
+
+Helios crossed his arms.
+
+"You? Calling a course of action aggressive? That's a first."
+
+I breathed in the dark air and breathed it out like fumes from a burning tire.
+
+"Hey, even I have my limits."
+
+Helios sighed.
+
+"Oftentimes, those limits are set for the express purpose of breaking them. I'd say you treat rules and apprehension more akin to suggestions than actual boundaries."
+
+I peered up, the only light coming from the stars of the portal.
+
+"This happens to be a line I didn't want to cross."
+
+Helios stepped away from the nickel-sized hole.
+
+"Unfortunately, this isn't a time where you have a choice."
+
+I liquified and drained myself out of the rupture. I put a piece of my armor into the void along with my wake. With a shaking grunt, I hauled it around. Unlike the other warps, this wasn't a dimension per se. Instead, I carried some enormous, unseen wound that rested under the surface of our dimension.
+
+In a sense, this spot was the weakened space around the hole and the tear itself. Fortunately, Helios condensed it into a small section, and I kept it that way with some jury-rigging of my armor. It required my all to lug the heavy thing around since it had a lot of...Hm, friction is what I'll call it.
+
+It dragged against the dimension around me, though it didn't injure our reality. Otherwise, I'd have to drag it somewhere out in the middle of space. That carried a host of its own problems, considering the dimensional energy could spread unchecked in the ether. That assumed some Old One wouldn't come down and stop me from closing this gap. That left absorbing the gunk as my only option, so I did.
+
+Helios watched me master the moving of the space, and whenever I regained something akin to normal movement, he gave me a derisive smile.
+
+"It seems as though I'm not needed, considering you're able to hobble around once more."
+
+I did my best not to hobble to him, but I think I only made it worse.
+
+"Look, man, I'm doing my best."
+
+Helios laughed.
+
+"It's as if you wear crutches."
+
+I frowned.
+
+"I don't see you moving three dimensions with you all the time."
+
+Helios shrugged.
+
+"It's not something I've chosen to bear. I could close one of those dimensions, and we could throw the other two into your pocket dimension if you so chose."
+
+A rumble echoed from Baldowah's dimension. I winced.
+
+"The last thing I want to do is give Baldowah express access to that space. I also have no clue what someone like Kryyah may do if they got a consistent access point to my pocket dimension."
+
+Helios shrugged.
+
+"Perhaps. Or perhaps you simply enjoy the struggle. We don't know what will occur from you soaking in the spewing forces of either of these tears."
+
+I kept practicing moving around.
+
+"It's not something I want to find out, honestly."
+
+"Hm. I can't blame you for that. That space of yours is one of the most private places in the universe. Even the Old Ones seem to struggle to see its inner workings. It would be a shame to lose that home, wouldn't it?"
+
+"Yeah, that, and I don't want that thing implanting something on me."
+
+Helios gestured at the opening.
+
+"You mentioned an entity called Kryyah. It should be able to return at any point. Given its abilities, it may attack us through the void."
+
+I shook my head.
+
+"Naw. I placed its opening in the same direction as the back of Baldowah's dimension. It's like a dimension stack of pancakes, and Kryaah can't break it since the Old One wants it to exist."
+
+Helios leaned back.
+
+"That...That's clever."
+
+I smirked.
+
+"I have my moments."
+
+"Speaking of, I was wondering if you'd be willing to offer me some assistance."
+
+I raised my brow.
+
+"Oh yeah, how's the siege of the albony's planets going? Did you guys hold Elysium off?"
+
+A dark cloud loomed over Helios, exhaustion pouring over him. He let out a long sigh.
+
+"It's all but done, and Elysium has won."

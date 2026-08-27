@@ -1,0 +1,333 @@
+---
+id: 82ff4d8e-7225-5d84-992f-9e722554e531
+page-type-slug: story-chapter-royal-road
+title: "243 A Discourse"
+slug: 0202-243-a-discourse
+partOf: the-new-world
+position: 202
+ownLength: 3642
+unit: words
+ownProgress: 3642
+publishedAt: 2020-01-24
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/449073/243-a-discourse"
+royalRoadId: "449073"
+markedReadAt: "2026-06-29T21:27:53.488Z"
+---
+
+Torix -
+
+As the resonance finalized, I stared forward with invigorated senses. Strength. Power. Might. I was all these things and more. Is this what Daniel felt at all times? The sheer vitality and mana generated defied all convention. It was as if I siphoned into the body of a deity, stealing all that came with said implication.
+
+In order to test my newfound capacities, I stomped my heel onto the metal flooring of the silver's territory. It caved underfoot, and my dominion mana flowed with the fluidity of mastery. The sheer volume of mana coursed into the land, drenching it in my abyssal influence.
+
+I seized control of the bodies, each of them coming to life. Given form anew, they rose with utter allegiance. I stood tall, my confidence soaring towards the heavens.
+
+I spoke with a new voice,
+
+"I am undeath given form. From my darkness, blight will follow in my wake."
+
+Daniel stared at me, his stoic persona cracking with a semblance of emotion. Taken aback, I composed myself. Now was not the time to be overwhelmed. An example must be set, and I was the one to do it. I turned to him.
+
+"Let us show them what occurs to those that oppose us."
+
+Daniel raised a hand,
+
+"Hell yeah man, we did it. It's about damn time."
+
+I followed suit, raising my arm,
+
+"But of course. What else is to be expected of us?"
+
+We clapped our hands with enough force to crack concrete. I recoiled from it, taking a step back. Grabbing my wrist and staring down, visions of a snapped arm terrified me. I envisioned my bones shattering into a thousand pieces, yet my new arm held strong. It absorbed the force without worry.
+
+I stared at my palms, the bones interlocking smoothly. I clenched my hand into a fist, stunned by the sheer forces I dealt out at every passing second. I peered back up to Daniel,
+
+"Is this what it's like at all moments?"
+
+Daniel gave me a matter of fact glance,
+
+"Yup."
+
+Concise and straightforward as always. I took a moment, staring at the army around us. I bent over, inspecting the metal I broke through with a stomp. In the heat of the moment, I did such a thing. It astonished me now. Even my system enhanced body could never have handled such forces. Now I played with metal as if it were putty.
+
+No scratch littered the surface of my foot, either. I was even more resilient than expected. Excellent. I grabbed the steel, peeling it in my fingers as if it were moist dough.
+
+I cupped my chin, "Well...perhaps there were merits to being physically imposing after all."
+
+Daniel patted my back, "I can't wait to see what you can do now."
+
+I raised myself back up, "I as well. Thank you for this, disciple. A master could ask for no greater gift."
+
+"Eh, I do what I can."
+
+With a moment of silence passing between us, I turned towards the monolith's previous position. As the ritual dictates, there my phylactery sat exposed to those around us. It was strange. Even in the open, it felt far more secure than my previous one had. Considering the tenacity of the material that composed it, I was likely right in that assumption.
+
+I grabbed the dodecahedron, tossing it over towards Daniel. He put it in his pocket dimension. As I dwelled on the ability, the utility of it astounded me. Smuggling, absorbing energy, even deflecting strikes, it was an awe-inspiring talent.
+
+I peered down at myself, wondering if I owned similar abilities. The closest phenomenon I garnered was a sensation of ownership over the space I occupied. It felt as if I 'owned' an area around me. Upon closer inspection, I comprehended my misunderstanding. The space I owned was subservient to a much larger force.
+
+I peered up at Daniel. Ah, of course. His aura.
+
+He created a far greater stranglehold than I could enact. He was the origin of this material. It seemed more than likely that he acted as the premier space owner. In fact, this body of mine was a mere shadow when compared to the original.
+
+A realization sparked in my mind. This pale imitation extended my own abilities by leaps and bounds. The distance between us...it mirrored the difference between an ant and a lion. While mind-boggling, I found those thoughts comforting.
+
+This apprentice and ally of mine, he carried this kind of frame. Now I owned something similar. New possibilities popped into my mind as Daniel pursed his lips,
+
+"Alright, what next?"
+
+I steepled my hands, "We should replan our battle stratagems. This new body of mine, it has extended my abilities by many orders of magnitude. It allows us to battle differently than before. I may now join the fray on the frontlines without much in the way of risk."
+
+Daniel nodded, "Yeah, sounds about right. We'll be getting a new tactician on the ground, which helps a lot. I'm a lead by example kind of guy, but actually managing the troops is difficult."
+
+Daniel was wrong about that. His tactical prowess showed itself in the last battle with his newfound mana bombs. That alone saved many of our soldiers. I shook my head,
+
+"I believe you'd be more than capable of doing so, but you already bear a tremendous burden in regards to our martial might. By alleviating that burden, I may unleash both of our full potentials, one tactical and the other militant."
+
+Daniel rolled his shoulders as if getting ready to fight at that moment,
+
+"Yeah, let's hope so. I mean, just imagine having each of their dead give us a new soldier. That'll show the Adairs what it feels like having their own turned against them. It will be a taste of their own medicine."
+
+I cackled, "Oh, there will be much to discuss, but before we do so, I must access my status. There are notifications to parse through and little time to do so."
+
+"I'll make some bombs or something."
+
+He prepped mana bombs while I opened my own status. I made sure he could view it at the same time. As I stared at the literal first number I found, I fell backward.
+
+It was incredible.
+
+Torix Worm, the Harbinger's Erudition(lvl 9,000)
+
+Strength – 2,132 | Constitution – 2,419 | Endurance – 4,160
+
+Dexterity – 1,104 | Willpower –19,702 | Intelligence – 28,052
+
+Charisma – 14,264 | Luck – 11,153 | Perception – 6,829
+
+Health: 1.2 Million/1.2 Million | Health Regen: 2.4 Million/min
+
+Mana: 3.8 Million/3.8 Million | Mana Regen 4.4 Million/min
+
+Stamina: Infinite | Mass: 601,302 pounds |Height: Actual - 9'6 (2.74 meters) | Damage Res - 97.5%
+
+Phys Dam Bonus – 32,092% | Damage Bonus – 45%
+
+I stared in utter disbelief. Daniel squatted down, resting his arms on his knees. He inspected my status,
+
+"Huh... You've gained more willpower than anything. It actually looks like my multipliers for my stats carried over for you. That's gotta be a nice bonus. Didn't expect that."
+
+I gestured to my status with a hand, "How did my willpower over double? That's absurd."
+
+Daniel shrugged, "There are all kinds of perks and multipliers involved with my status. You didn't have them, now you do. If I'm honest with you, I've always wondered why Schema was so damn generous with stats to me. This explains it."
+
+He banged his chest as if knocking on a door. It let out a metal ring,
+
+"This stuff, it's easier to manipulate than what a normal person is made out of. I mean shit, the bonuses carried over to you. If that's the case, then the bonuses must be pretty easy to maintain and keep up. That also explains why Schema's ok with me abusing my Orbital bombardments."
+
+Daniel stared up at the sky, "I'm easy to keep and hold onto, I guess."
+
+He offered me a hand, so I accepted said offer. After rising, I attempted to compose myself,
+
+"While perhaps unbefitting a lich, one cannot blame me for reacting in such a manner. I am over forty times more durable, my mana pool tripled, and my mana regen increased by twentyfold. This...this is unbelievable."
+
+Daniel gave me a nod, calm as always, "Yup. Did you get any other notifications along with them? You never know what else carried over."
+
+I peered at my status updates once more. I found surprises in spades.
+
+New Body Gained! The Following bonuses have been unlocked!
+
+These additions explained much of the nonsense on my status sheet. I cupped my chin as I read through them,
+
+"Ah...yes...This would explain most of this insanity."
+
+I peered at the final notification.
+
+New Trees unlocked!
+
+| Archmage(0/5,000) |
+
+I crossed my arms as I spotted this new tree. Five thousand entire points for a single tree? It was absurd on many levels. It outdid my class unlock for becoming a speaker. Perhaps that was precisely what it was - another class for me. Considering the level limit of being a Speaker, this would suit me quite well and extend my limits.
+
+I selected it, having already cleared out my remaining trees long ago. Having been obsessed with learning for ages paid its dividends, after all. I earned many skill points over the years, which in turn gave me many treepoints. This was how I unlocked a class before Daniel. I simply had more skillpoints earned over my lifetime.
+
+Up till now, I never owned enough skilltrees to invest in, however. Schema tended toward unlocking trees based on achievements. This meant I lacked many trees to place my horde of treepoints into.
+
+This, in turn, suited me quite nicely in that regard.
+
+Without a word, I placed 4,281 points into the tree. While not owning all the points for it, I held more than most. The refreshing sound of Schema's voice boomed in my mind, his prerecorded messages refreshing to hear after all these years.
+
+This world is one dictated on the principle of knowledge. Knowing an enemy is understanding their weaknesses, strengths, and essence. You've understood this concept for many years, your diligence for study impeccable, your intention for research unwavering. This will prove your greatest asset in the trails to come.
+
++ Doubled ease of creation for unique magical skills
+
++ Doubled ease of creation for mythical level magical skills
+
++ Doubled ease of gaining magical affinities
+
+The nature of your mind gives you a sensitivity for the subtle. Details that appear meaningless to others evolve into vital insights when seen through your eyes. These insights are gained not through talent alone; they are the result of study. In any undertaking, your skills will prove critical.
+
++ Doubled ease of creation for magical Legendary skill
+
++ Doubled learning speed of magical legendary skills
+
++ Doubled learning speed of magical mythical skills
+
+Others decided they would swing swords or fire bullets until their hands bled. You read until your eyes bled onto the page. Anyone may swing a hammer or block with a shield. Few carry a devotion to diligence. Few carry a resolve to learn.
+
+In a vast sea of complexity, you are the beacon that guides the blind to shore, a harbor for lost minds and lost souls.
+
+This is power incarnate.
+
++ Doubled ease of gaining higher tier magical affinities
+
++ Doubled ease of Grimoire use
+
++ Unlocks advanced spell formulae for Grimoires and spellbooks
+
+The payoff remained at the very end of the tree as it had with the Speaker tree as well. Even considering that these benefits were superb. Developing affinities was by far the most elusive magical endeavor, my own mastery of origin and augmentation lacking in many regards. Easing that process might allow me to create the primordial mana that Chrona uses. Perhaps even the ascendant mana Daniel implements.
+
+One may dream.
+
+The spell formulae remained the most immediately useful benefit. Developing complex spells within a grimoire was a foolhardy venture. The sheer complexity often overwhelmed even the most studious individuals. It was the same as explaining to a child how to walk. The intricacy involved was simply too much.
+
+I found far better success merely allowing the children to gain a 'feel' for walking instead. This tapped into a primal part of the brain controlling motor function. This composed much of the mental power in sentient species, and tapping into it was a wise choice. This was actually how Daniel progressed in his own magic.
+
+Speaking of which, I glanced back up towards the titan. He patiently waited on my status updates. He raised an eyebrow as I met his eye,
+
+"What did you find?"
+
+"Much that will be useful for us. I believe I've unlocked the class of an Archmage. I will need more time to fully unlock it, but it appears interesting, to say the least. If my assumptions are correct, then it is an upgrade to the Speaker class."
+
+He put his hands on his hips, ""Huh, you can upgrade classes?"
+
+"I would assume so given the nature of this skilltree."
+
+Daniel sighed, "Yeah, I've got a class to unlock too, and it is a pain in the ass to finish."
+
+I dragged a hand down my face, "Tell me about it. It seems we've come to the same conclusion regarding class unlocks. They're more than merely frustrating."
+
+Daniel grabbed his fists, one after the other. It was a subconscious habit he developed long ago, and I doubt he was fully aware of it. He turned towards the edge of the silver's territory off in the distance,
+
+"Let's stop there. Complaining's a bad habit. You ready to head out?"
+
+I nodded, "But of course, though, I believe there are a few reports from Althea I must parse through. They're listed as urgent."
+
+I opened the status, and as I read the reports, my jaw went slack,
+
+"This is...unfortunate."
+
+Daniel -
+
+Ah shit, bad news. I crossed my arms, preparing for the worst.
+
+"What went wrong?"
+
+Torix shook his head, a bit of his new dark aura blurring the air around him,
+
+"It states here that they've found circumstantial evidence that's rather critical of Schema."
+
+I frowned, "Circumstantial evidence that supports a biased position? That just means bullshit."
+
+Torix waved a hand, "While normally I would agree, this report includes some of Schema's wrongdoing that we're aware of."
+
+"Huh, really now?"
+
+"Indeed, it mentions how certain worlds are being eldritchified to get rid of unwanted races or influences."
+
+I scowled, "Like what happened to Hod's homeworld?"
+
+"Precisely. Since we know that at least one of the propositions in these documents is true, it means the other proposals gain validity."
+
+I shook my head, "Damn...Alright, what's left then?"
+
+"There are two other claims here. The first I'll mention is the mana farms. Here it mentions many high profile mages disappearing at random. All of them carried tremendous mana generation, and therefore it concludes they are being used to power Schema's system."
+
+I scoffed, "Uh, no. That's impossible."
+
+Torix leaned back, "To dismiss it so rapidly, perhaps you may explain where your confidence stems from?"
+
+I pointed at myself, "My mana generation is literally thousands of times higher than anyone I've ever met. From what we've seen, I'm very responsive to Schema's alterations too. Despite all of that, it takes an enormous amount of time to implement even small adjustments onto me."
+
+I lowered my hand, "If that's the case, then there's no damn way normal mages could power the system. If anything, I think Schema is burning matter for energy like Yawm or Helios. If that's not the case, it's coming from a different dimension or something like that."
+
+Torix nodded, "Hmm, a logical manner of thinking. I would agree, yet I find myself wondering how you understand the mana constraints involved with system augmentation. Is there an elaboration is in order?"
+
+I pointed at my runes,
+
+"This is what Schema's using to enhance people. Runes. The big AI in the sky probably has a huge database with specific cipher inscriptions for every individual. He pumps mana into those inscriptions based on the amount of 'experience' someone's earned. I can't think of any other way he does it, at least."
+
+I tilted my head, "That's actually why I think Schema increased my level cap. He's pumping the same amount of mana as he would for a normal person. I just end up using it more efficiently. Once again, just a guess."
+
+I raised my eyebrows, "I mean, if we use that line of logic, it's also why you have my bonuses. Your new body just uses mana and the cipher better."
+
+Torix's jaw went slack. He stayed silent for a moment. I waved a hand over his face,
+
+"Uh, you ok?"
+
+"Ahem, certainly. I was simply astonished. I've never deduced such a likely method of Schema's enhancement. It was a mystery for me until you just dissected it in front of me with ease." Torix stared at me,
+
+"To have gained such insights into the inner workings of Schema, and to do so from such disparate observations...I must say, I'm impressed."
+
+I coughed into a hand, a bit embarrassed by the compliment, "I mean, I wouldn't say it's perfectly accurate. Schema might be using something else. That's just my guesstimation."
+
+Torix waved a hand, "Please, don't belittle your findings to me. That was a very sound and logical method of handling system augmentation. In accordance with Occam's Razor, that's almost certainly correct. I do find myself wondering what you meant by a cipher, however."
+
+I scratched the side of my face. It might be time to tell him about it.
+
+"It's a code that lets you change the laws of our universe. I use it. Don't learn it, or else you'll be exiled from Schema's system."
+
+Torix raised a hand, "Ah, that's why you've never spoken of it. Forbidden knowledge. I will pursue it no further per your wishes."
+
+I turned towards where Spear waited for us to return,
+
+"Let's talk while we walk."
+
+"Let's."
+
+I turned towards the army before jumping from the ground. Torix paced onto a condensed ball of dominion mana, pulling himself up with it. We reached Spear, who helped us warp everything here to begin with. He meditated at the top of a flattened spire.
+
+Several saysha beetles crawled over his armor, each of them confused by his existence. As we approached, Spear awakened. He stood, turning towards us while brushing the Saysha beetles off. Spear looked Torix up and down. Spear crossed his arms,
+
+"Hm. You might be more imposing. Time will tell."
+
+Torix steepled his fingers, "Indeed, it shall."
+
+Spear stared for a moment before giving Torix a slow nod. Spear turned to me, "I like the change already. The lich is more confident, and confidence leads to victory."
+
+I pointed towards the army, "That's exactly the plan. Those guys are going to help us out with that, but we have to get back to Elderfire."
+
+Spear gave a curt nod before leaping down onto the metal below. He crashed into steel, the matrices caving under his heft. After walking over towards the army, he cleaved through space-time. As the soldiers walked towards an empty side of Elderfire, I turned to Torix,
+
+"Alright, so what else did they find in the reports?"
+
+"Ah, yes, the reports." Torix skimmed through them, "It also mentions that Schema is purposefully stalling eldritch research."
+
+I yawned, "Yeah, and?"
+
+Torix fumbled his words, "W-what do you mean yeah and? This is a revolutionary discovery."
+
+"I'll be honest, I've thought that ever since I met Yawm forever ago. He hypothesized the same thing, and his logic was sound. Considering how limiting Schema's research and whatnot is, it only makes sense that he's doing it for a reason."
+
+Torix waved a hand, "Then why haven't you disclosed this information with us? Also, why haven't we done anything about it?"
+
+"Schema exiles anyone that doesn't do what he wants when he wants it. I didn't want you guys involved, and the information isn't exactly helpful. I mean, at best, we risk our guilds and lives for a chance at changing Schema. At worst, we're all exiled before we even get the chance."
+
+I shrugged, "It just seems like a lost cause. I mean, look everyone who's tried. Yawm was a monster. The Adair Family is turning people into monsters. Everyone who's tried ended up going way past the deep end. They're insane, and not because they know Schema isn't perfect."
+
+I rolled my shoulders,
+
+"They're insane because of what they're willing to do to change the system in place. That's why we're working hard to stop them. How much do we need to know about them before they're considered enemies?"
+
+Torix cupped his chin, "Hmm, perhaps you're correct on that account. I understand the need to put them down. I was simply feeling a bit left out is all."
+
+I grinned, "Now you know what it felt like when you streamed my fights without telling me."
+
+Spear turned towards us, "I find it odd. You both are very critical of Schema."
+
+I raised an eyebrow, "I understand what he does is hard. That's why I'm helping out. I just understand where he could use some improvement. That's all."
+
+Spear put his spears back into their magnetic sheaths along his back, "If so, then that is reasonable." He turned to the shrinking horde, "The army is almost back in Elderfire. What's the next course of action?"
+
+Torix walked up to the portal, the desert contrasting the metal hellscape of the silvers. His legion of infused undead covered several dunes worth of sand, their numbers many. The lich turned towards us and cackled,
+
+"We sharpen our claws and bloody our teeth for war."

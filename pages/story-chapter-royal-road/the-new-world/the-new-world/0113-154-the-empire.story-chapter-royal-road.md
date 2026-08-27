@@ -1,0 +1,215 @@
+---
+id: 521733c6-508a-5b5c-a2d1-979e6da662ef
+page-type-slug: story-chapter-royal-road
+title: "154 The Empire"
+slug: 0113-154-the-empire
+partOf: the-new-world
+position: 113
+ownLength: 2020
+unit: words
+ownProgress: 2020
+publishedAt: 2018-10-29
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/302052/154-the-empire"
+royalRoadId: "302052"
+markedReadAt: "2026-06-29T21:24:51.146Z"
+---
+
+I brushed the guy's hand off my shoulder, turning towards him, "So you're telling me you speak for the entire empire?"
+
+The lanky green alien looked away from me, looking around at the guards, "Well, uhm, no. Not exactly."
+
+I waved my hand in a circle as I shook my head, "Then you're talking for someone. Who is it?"
+
+The lanky alien coughed into his hand, caught off guard. He must have expected the whole empire shtick to rattle me more than it did.
+
+"I speak for, ahem, for Duchess Caprika. She is the duchess sent here for controlling this town. She told me to summon you."
+
+I scoffed, "Tell Caprika she needs better manners."
+
+The guards looked at each other. The lanky alien scratched his bald head, "Ok, so I must've given the wrong impression. I didn't mean this meeting as a threat. In fact, I'm quite nervous. This is my first time speaking with someone Caprika spoke so highly of."
+
+I glanced at my friends. They shrugged. I turned back around, "Ok...I can accept that, though I have no idea why I'm so highly valued."
+
+The green alien raised a hand, "One of our scouts saw the devastation of your last mission."
+
+I nodded, "I guess that makes sense."
+
+The messenger waved his hands, "Let's restart this. I'm Aric. I'm the assistant for Caprika. I'm her messenger for asking for your assistance with a task."
+
+I sighed, "And what would that be?"
+
+Aric shrugged, "Caprika neglected any details, but suffice it to say, you will be generously compensated for your time."
+
+I turned towards the others, "You guys think this is a good idea?"
+
+Kessiah waved at me as she turned around, "You do you. I'm going to bed. I'm tired after a long day of shopping."
+
+Althea looked away, "I could come if you want."
+
+I shook my head, "I was asking more so if it was a good idea rather than if you guys would come with me."
+
+Torix raised a finger, "If I might interject, I believe it is. The Empire owns over 12 worlds. Their reach is expansive, and when they say generous compensation, they mean it."
+
+I turned back towards Aric, "Alright, I'm game. I'll see what it is that she wants. I need to turn in a quest first for the Soldiers of Fortune first though."
+
+Aric clasped his hands, bowing at me a bit, "Ah, they've already closed. If you'd like, we'll accept the contract and pay you twice the share that they were offering. Think of it as a gesture of goodwill."
+
+I raised an eyebrow even though he couldn't see under my helmet,
+
+"Alright, I'm fine with that."
+
+Aric bowed, "Then I'll take you to her if you wouldn't mind leaving at this moment."
+
+I shrugged, "Yeah, sure. Why not?"
+
+Torix walked up beside me, "I'll accompany you. I enjoy watching your method of handling these types. I expect it to be amusing."
+
+Aric looked between us, "Then we'll be off?"
+
+We nodded, so Aric turned around and walked towards the Empire's guildhouse. His guards stayed beside him, so I tried analyzing them. I couldn't since their perceptions were too high. I activated my personal intercom system,
+
+"Looks like their pretty high level."
+
+Torix whistled, "They are indeed. Both of the guards are over level 2,500. We would disintegrate them at a moment's notice in combat, however. So far, we've nothing to worry about. I'll inform you if we do."
+
+"Sounds good."
+
+We paced up the castle. At the doorway, Aric pulled out a crimson card from his own galactic storage. A glowing panel beside the doorway passed a bright light across the red ticket. It blinked, and the wooden doors opened. It didn't look half bad.
+
+The inside carried the same rustic appeal as the outer castle walls. Polished wooden beams supported tapestries and trophies from hunts. Spikes, teeth, skulls, claws, bones, scales, everything a creature can leave behind, they had it mounted up. They spaced everything out, making it look clean and dense but not cluttered.
+
+As we walked through the bright hallway, we reached a split in the hall. At this split was an espen receptionist sitting at a desk. As ancient as the stone table was, a modern touchscreen display was at the receptionist's disposal. She wore a headset, several holograms over her eyes. I enjoyed the aesthetic, to be honest.
+
+While I looked around, she looked up at us, her holograms dissipating. She smiled, her teeth sharp, "It's good to see you Chancellor Aric. What may I help you with?"
+
+Aric smiled at her, his mouth full of horse teeth, "I'm here to show this warrior to Duchess Caprika."
+
+The holograms appeared over the espens eyes. The receptionist typed into a projection, looking back up at us, "Caprika will be seeing you now. Do you need directions?"
+
+Aric shook his head, "Of course not. Good day to you."
+
+She sipped some kind of root juice from a mug, "Same to you. I hope he's better than the last candidate."
+
+Aric's eyes widened, "You and me both."
+
+He turned towards his left. We walked down the hallway, paintings and fancy jewelry set up for display. Alric raised a hand, looking back at us but still walking forward,
+
+"For the sake of brevity, allow me to discuss some history with you. How much do you know of Giessen history?"
+
+Torix answered for me, "Very little."
+
+Aric nodded, looking back forward, "Then let me tell you some precursory knowledge. I neglected these details with the last promising candidate. He was made out to be a fool by Duchess Caprika. I don't wish for the same embarrassment for you."
+
+I frowned, " So she likes humiliating people? Sounds like an asshole."
+
+Aric coughed into his hand, "Acgh. Could you perhaps avoid referring to her with vulgarity?"
+
+I figured I should be honest.
+
+"No."
+
+Aric scratched the back of his bald, green head, "Well, do as you wish. I will warn you, there may be consequences for speaking in such a manner to a Duke of the Empire."
+
+I rolled my eyes, "I'll take my chances."
+
+Aric sighed, "Very well then. It's your life your risking. Anyways, I'll give you a quick rundown of some relevant details. Giess is home to two primary sentient races. You've no doubt seen the espens. The gialgathens are much rarer, though equally prominent."
+
+I raised a hand, "Aren't they large, four-legged, flying amphibians?"
+
+"Ah, well yes."
+
+I lowered my hand, "Then I killed one earlier."
+
+Aric laughed, "That's what the scout reported. Anyways, long ago, The espens and gialgathens fought one another. A gialgathen named Lehesion brought peace to both races. He's now worshipped as a god by both races."
+
+Torix chimed in, "He's much like Xyjalus Moranor of Deprima then."
+
+Aric raised a finger, "A perfect example of the same effect. A mortal becomes deified for accomplishing something extraordinary."
+
+We passed by several doorways as I cut on my intercom, "Who is Xyjalus Moranor?"
+
+Torix turned to me, "He's a magician from my home world. He's quite famous across the galaxy for his deeds."
+
+"Why did you never mention him?"
+
+Torix shrugged, "I was far too focused on what was happening in front of us. It's quite difficult to discuss history while making it."
+
+I laughed, "Good point."
+
+Aric looked back and forth between us, "Are you two done speaking with one another?"
+
+I closed my intercom, "Yeah."
+
+Aric looked forward, a bit miffed, "Anyways, since then the gialgathens and espens have lived in a relative harmony. Schema has done much to displace the previous balance of power."
+
+I interrupted, "You say anyways a lot."
+
+Torix nudged my elbow, "He does, doesn't he?"
+
+Aric sighed, "As I was saying, in honor of Lehesion, there is a tournament hosted across all nations. Each town hosts their own tournament, deciding on a single victor. These winners are sent to the capital, letting them battle one another. The victor is rewarded with a religious artifact of Lehesion."
+
+I nodded, "And Caprika needs somebody to go in there and represent the Empire?"
+
+Aric turned down a corner of a hallway, "You've gotten it."
+
+We reached a set of golden doors. Literal gold, not sort of gold. I laughed at the ridiculousness of it. I turned to Torix. I spoke in a mock rich person's accent,
+
+"Oh, as you can see, they've spared no expense in their doorways."
+
+Torix picked up on the joke, making his own mocking voice,
+
+"Oh most indubitably."
+
+I held out a pinky like I was holding tea, "The sheen is simply sumptuous."
+
+Torix did the same, "And the craftsmanship splendiferous, truly."
+
+I nodded, "Ah yes, truly."
+
+Aric let out a fake laugh, "Oh hah hah, you're both hilarious. You should both straighten up your act. Beyond this door is Caprika's meeting chamber. Here she will test you both."
+
+Torix raised a palm towards Aric, "Don't mind us. We're just having a bit of fun." Torix turned back to me, "It's rejuvenating to let loose after all these years."
+
+I grinned, "I know. At this rate, you might even make Kessiah laugh at some point."
+
+Torix waved away my concern, "I'm not a miracle maker, disciple."
+
+Aric tilted his head, his eyebrows creased,
+
+"Caprika is a high ranking noble of the Empire. She can give you both tremendous status and many rewards. This is golden opportunity for you both. Take it seriously, or else you risk wasting Caprika's time."
+
+I shook my head, "Here's the thing. If she can't handle being spoken to like an equal, I don't think I'm the one wasting her time. She's the one wasting mine."
+
+Aric raised both his hands, "The issue is in how the Empire handles these matters. You both are newcomers. Your status is the lowest of the low. To interact with royalty, you need humility. Not just in your wording, but in the language of your body."
+
+I stepped up, pushing open the doors, "I don't plan on being disrespectful or anything. Relax."
+
+The doors opened, revealing a throne room. Above the archways, several overhead lights landed on a golden chair. Gems encrusted it, each of them charged with mana. On the seat, a giant, furred creature sat.
+
+Its hair was white, and the mane covered everything besides its claws. She had a feminine figure, though pretty bulky. As she shifted, muscles rippled beneath the surface of her skin. She was a beast through and through.
+
+A circular, red mask covered her face. Holes were bored into it. No light entered the mask, leaving her face darkened. She propped her head on her right arm, looking lazy and uninterested. With her left arm, she tapped her red claws on the throne, her boredom apparent.
+
+I analyzed her,
+
+Caprika Novas(lvl 5,000) - An actual member of the Empire's origin species, the albony, Caprika is strong. Their species natural strength and sharpened senses enhance their overall cunning. Combine that with substantial investment in charisma, and the albony can be imposing, to say the least.
+
+Being a member of the Empire, status represents everything to Caprika. That is why she was sent here. She failed an ascension mission for a ruling prince of the Empire. With no way of moving up, she's become desperate and bored.
+
+Her combat abilities don't match yours. Don't underestimate the threat she can pose given time, however.
+
+I raised my eyebrows, "She's more impressive than I thought."
+
+Torix nodded, "And a real albony in the flesh. It's been centuries."
+
+Caprika sighed. She raised one finger, pointing at Aric, "Leave."
+
+Aric bowed, closing the doors.
+
+With a relaxed and commanding voice, Caprika continued, "You are the warriors that the scout informed me of?"
+
+I shook my head, pointing at my chest, "Not both of us, just me."
+
+Caprika looked me over, reading a status. Her claws stopped tapping on the throne. She sat up, leaning towards the invisible status in front of her. The albony looked between me and her screen. She leaned back into her chair,
+
+"Interesting...It's good to meet you, Harbinger."

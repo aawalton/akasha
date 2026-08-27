@@ -1,0 +1,143 @@
+---
+id: 941ac7e7-5217-58dd-869f-aeae9d929172
+page-type-slug: story-chapter-royal-road
+title: "3: Analyse"
+slug: 0003-3-analyse
+partOf: the-legendary-fool-a-deckbuilding-litrpg-b2-complete
+position: 3
+ownLength: 1051
+unit: words
+publishedAt: 2022-11-16
+link: "https://www.royalroad.com/fiction/60890/the-legendary-fool-a-deckbuilding-litrpg-b2-complete/chapter/1041967/3-analyse"
+royalRoadId: "1041967"
+---
+
+What Tom had perceived as the forest’s eclectic beauty now came back to haunt him. The tall trees made it impossible for Tom to get a clear line of sight, making him unable to decide which direction to go in.
+
+His discomfort grew, for the longer he thought about it the more he knew something was amiss. His body had felt cleaner, purer, yes… but that did not explain why the dull ache in his right joint was gone. That did not explain why he felt so spry, so… energetic. With trembling arms, Tom cupped his face in their embrace.
+
+There was no rough, croppy stubble. There was no incongruties upon its face, its surface as smooth as it was soft. He glanced at his hands, the burn scar upon his right hand replaced by blemishless skin.
+
+A thought ran through his mind, but he quickly dismissed it. That was…..im…possible?
+
+Tom had just seen a man rip apart the time-space continuum with a children’s toy- a card. Who was he to say what was impossible?
+
+He needed a mirror. But, before that… Tom thought about [The Fool] card, envisioning it in his mind’s eye. The card had disappeared when he’d landed here, but he knew it would answer his call— it was now part of his soul… whatever that meant.
+
+His anxiety flared as he saw the Jester image staring back at him, followed by a burst of anger.
+
+This damn card was the source of all his fucking problems, yet it was his own smirking visage that glared back at him.
+
+He didn’t know what its [Unique-Legendary] rank meant, but it sounded a helluva lot better than [Rare]. The bearded man had mentioned the [Traveller] card that gave him the ability to traverse the frickin’ universe, but his [The Fool] card had given him a lame [Shroud] ability that was likely going to be the death of him.
+
+No, no, there’s got to be something more to it. There had to be.
+
+“Shroud,” Tom whispered aloud, channeling his focus and concentration towards the card.
+
+Nothing happened.
+
+“Fuck,” Tom groaned under his breath.
+
+Don’t panic. Think.
+
+He had just taken down a gun-toting psychopath less than an hour ago. This couldn’t faze him.
+
+Okay, maybe he was hyperventilating a little.
+
+But… the bearded man seemed to be confident in Tom’s ability to survive wherever he landed, as long as it was within… what was that kingdom called again? Syremore? No, Syrelore.
+
+So…. the danger shouldn’t be that high. No more than a stroll in the woods in rural america— sure, there was a chance of being clawed by a bear or run over by a Moose, but that didn’t stop people from venturing into the woods, right?
+
+Shut up, brain. I’m going with that assumption.
+
+Okay, now, the [Divine System] had mentioned an [Inventory].
+
+“Whoa!” Tom exclaimed way louder than he’d have liked, stumbling backward on his feet. Before him stood a small tear in the void, much like the portal the bearded man had opened, but it was far smaller and less impressive in comparison.
+
+Normally he would bolt the other way but…. He felt no threat from the cosmic tear. As if it belonged to him.
+
+‘Am I seriously considering this?’ Tom thought to himself, as he walked closer.
+
+Closing his eyes, he reached his hand into the portal, expecting it to rip his arm off. The sensation was as if his hand was passing through a viscous liquid, before a small room became visible in his mind’s eye.
+
+[Your inventory is empty. You may store any non-living object in your inventory, besides cards].
+
+Startled by the prompt, he yanked his hand back.
+
+That… was an experience.
+
+“Okay, this isn’t gonna help me,” Tom whispered under his breath, before his attention shifted to the next item on the agenda.
+
+“Please,” he whispered, before thinking about his [Player Statistics.]
+
+[Name: Thomas Lowe.
+
+Age: 18
+
+Soul Card: The Fool [Level 1].
+
+Statistics:
+
+Physical: 6
+
+Mental: 9
+
+Proprioception: 5
+
+Soul Power: 35/35
+
+Deck Cards: -
+
+Knowledge flowed into Tom’s mind, a detailed explanation of how the system was supposed to work floating in his mind. There was a lot to unpack but before that, Tom focused his mind on his Soul Card and a new screen popped up.
+
+[Soul Card: The Fool.
+
+Rank: Ephemeral [Legendary Unique]
+
+Level: 1
+
+Ability:
+
+Passive Shroud [Level 1]:
+
+It is not in The Fool’s nature to allow himself to be perceived by others. An illusionist’s greatest trick is to deceive the world, to prey on the weak and give shape to their foe’s greatest fear. A paltry trick, a blase deception.
+
+The Fool on the other hand, only seeks to deceive one entity, the only one that matters:
+
+Himself. ]
+
+“The fuck does that mean?” Tom spat out with disgust. What was he supposed to do with this riddle.
+
+Wait. It said ‘Level 1’. Does that mean there’s ways to improve it?
+
+Tom wasn’t sure how accurate the [Divine System’s] translation was, but it seemed logical that the card would have more abilities.
+
+And how could he improve Shroud’s level, if it didn’t do anything in the first place?
+
+So confusing….
+
+An animalistic growl woke him awake from his reverie, startling Tom.
+
+Panic gripped his entire being.
+
+How long had he just been standing there, freaking out?
+
+Adrenaline pumped through his veins as he swiveled his neck with urgency, gripping the antique rapier in his hands tightly. His soul card fell from his grip, but Tom wasn’t concerned— it would revert to his soul even if he threw it away.
+
+[You have identified a Native Monster of Artezia! Attempting to Analyse….]
+
+[Your Soul Card Level is sufficient to Analyse this Monster. ]
+
+[Analysis Succesful].
+
+[Monster Species: Ankra Beast
+
+Soul Card: The Flame [Common]
+
+Soul Card Level: 1
+
+Statistics cannot be learned.]
+
+A small creature stood twenty meters away from Tom, reminding him of an oversized rodent. It’s fur was an ugly, mottled black that had bits of dirt and other debris trapped within, it’s beady orange eyes reminding him of a rabbit’s. A long, fleshy tail that made Tom want to vomit swayed behind the foul creature, seemingly assisting its balance.
+
+Then it revealed a set of sharp, angular teeth that sent a chill down Tom’s spine.

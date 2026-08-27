@@ -1,0 +1,245 @@
+---
+id: 04f0a98c-7222-53ae-80e3-085625c4941e
+page-type-slug: story-chapter-royal-road
+title: "67 Those Left"
+slug: 0024-67-those-left
+partOf: the-new-world
+position: 24
+ownLength: 4061
+unit: words
+ownProgress: 4061
+publishedAt: 2017-10-27
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/170587/67-those-left"
+royalRoadId: "170587"
+markedReadAt: "2026-06-29T21:21:33.829Z"
+---
+
+Sensing my discomfort, Torix grinned with evil on his lips…at least to me it was evil.
+
+“Does the prospect of giving a speech seem so bad?”
+
+I rolled my eyes, “It’s not something I’m used to. I’d rather fight giant monsters. I’m more in my element there.”
+
+Torix turned and walked towards the command center of the steel legion. I followed beside him as he entered lecture mode,
+
+“That is precisely why we’re doing it. The other unique skill I can show you is called Words of Power. You’ve felt it before from Elijah...” Torix coughed into his hand like he was embarrassed, “And, myself as well. It’s a useful power, especially whenever working in the galaxy. Most fighting types won’t even notice you using it.”
+
+I tapped the edges of my armor, “I’m more of a do it myself kind of guy.”
+
+Torix nodded, “One cannot fight against the might of many. It’s a fun idea, but it doesn’t hold up to scrutiny. You need to learn how to speak with others. Especially in the galactic environment. This is actually the perfect opportunity for a history lesson.”
+
+We passed by a pile of bones crushed against the brick wall of a suburban basement. We both ignored it, such a sight being normal by now.
+
+“Earth will become more and more integrated as time passes. People will select their builds and use the strength of Schema to achieve unimaginable feats. Your species will survive without Yawm destroying them. Over time, the dungeons will become training grounds, and the strongest will rise and rule. Governments will form as fragmented factions.”
+
+He spread out his arms, “Wars will come between these factions. Once those wars settle and nations reform, the charisma builds will rise. One charisma build can convince an entire nation of his correctness. They can form cults, mold nations, and lead entire races. A warrior, no matter how strong, cannot match that level of influence.”
+
+He lowered his hands, glancing at me as we walked, “In order to compete in that arena, you will need general competence with your wording and with leadership. The other two unique skills will give you just that.”
+
+He turned forward, “In fact, that’s why charisma is fed by both chains of stats. Within Schema’s system, very few people were willing to invest into charisma. It’s easy to understand the value of strength. Swing harder and faster to crush a monster’s skull. Charisma? That’s a far more intangible attribute with less obvious benefits. Once someone’s gained too much of an edge over you in the attribute, you become their puppet.”
+
+I shivered as a chill crawled up my spine. I shook my head, “Damn. You could have done that to me when we first met then.”
+
+He nodded, “Indeed I could have. I could also summon monsters stronger than you, so I didn’t see the point in having a mindless puppet. Regardless, Schema rebalanced the system so that each chain of stats fed into Charisma after the problem came to its apex. They call it the Great Equilibrium. It was an interesting time, to say the least.”
+
+We reached the steel legions outpost, quality, gray tents bracing against the wind. Almost everyone slept, besides for a few guards and supply men. They kept the camp lit during night using tesla coils contained in glass. Electricity would spark from them in every direction, giving everything a whitish hue. The coils had the advantage of being working defense turrets as well.
+
+Most of the camp was set up within a few empty lots that were side by side. A few of the surrounding buildings were commandeered for use, however. One of those buildings was an old, three story tall bank. This was where the administrative center, armory, and the bombs were located. The bank vault was where the majority of that was held, being one of the few secure areas that wasn’t a dungeon.
+
+We walked through two clear glass doors, passing two guards who gave Torix a salute. He held up a palm to them, letting them relax before we stepped towards a receptionist. It was human girl, almost dressed like someone normal. It was a blast from the past, coming with an ensuing wave of nostalgia.
+
+She smiled at us, though the hairs on her neck stood on end,
+
+“Hello. What can I help you with today?”
+
+Torix answered, “I need to speak with corporal Briggs.”
+
+“Of course, sir. This way.”
+
+She walked off, maybe a bit faster than she should. We walked with her, making her fast pace seem needed. Both Torix and I were taller than her, so her strides had to keep quick or else she’d fall behind. At the rapid pace, we passed two hallways before reaching the vault doors.
+
+The receptionist signaled for the door to open, but I stepped in front of the door,
+
+“Yeah, that won’t be necessary.”
+
+A giant beam of steel had been the lock for the door. I walked over and pulled, unlatching the mechanism. A few hydraulics pieces shifted before I grabbed the vault door and opened it. With a bit of weight to my pull, the door swung with a reasonable effort. It was like opening one of those heavy doors you almost faceplant, mainly because you didn’t know it was going to be heavy.
+
+I did know though, so once the vault doors opened, rows of deposit boxes covered the walls. Steel reinforced the concrete walls, and a machine was placed in the back that looked like a dehumidifier. It probably gave the room fresh air and oxygen, working like a rebreather you see on tv.
+
+There were several desks, along with quite a few valuables. Most of it was sensitive looking tech, the kind that wouldn’t be easy to replace. Besides for that, there were strange looking minerals, stones, and gems placed around. Some of them glowed, others absorbed light. A few were contained in capsules of glass, holding in storms of lightning.
+
+Torix ignored all that and walked right up to a desk near the back. A blue man with hair like tentacles sat over a desk. He looked exhausted, just worn out beyond measure. Bags under his eyes, dark circles, and his face nearly on his desk, he looked like the hunchback of Notre Dame.
+
+Unlike that hunchback, the hump on his back was muscle, and rippled as he moved his enormous hands to write on the paper. It looked out of place, like it shouldn’t be. Fingers of that size were meant for violence, not something so precise. There they etched in elegant handwriting on the papers.
+
+He kept writing while glancing up. Once he saw Torix, he set the pen down and stood. With purposeful steps, he reached us and gave a quick salute,
+
+“Good to see you sir. What is it that you need?”
+
+Torix placed a hand on my shoulder,
+
+“Hello Briggs. This is Daniel, my disciple. He needs to learn about the freedom fighters and a few of the surrounding towns. Give him the intel he needs for gaining their allegiance.”
+
+I turned to Torix, my helmet snapping off my face,
+
+“What do you mean gaining their allegiance? The fuck?”
+
+Ignoring my refusal completely, Briggs set off towards his desk and rummaged for papers. As he did so, Torix grinned,
+
+“Well there are three things for the words of power skill that you need. First, the persuasion skill. Second, the debate skill. Third, you you’ll need to use those skills along with speech craft, listening, and intimidation all at once. Can you name a better method than by getting us allies along the way?”
+
+I glanced between Briggs and Torix, “Can I just…I don’t know. Threaten them?”
+
+Torix shrugged, enjoying my squirming, “We’ll keep going through these different kinds of tasks until you get the words of power skill.”
+
+I sighed, putting my hands on my hips. I took a step away from Torix, turning and walking in a slow circle. I reached back to him and lowered my hands,
+
+“Man…fuck. Alright, I’ll do it.”
+
+Torix nodded, “As I knew you would.”
+
+Briggs had several disks in his hand, each them looking like cd’s with pulsing green lines on them. He reached me and held out four them, each held between his fingers. I grabbed them,
+
+“What are these for?”
+
+Briggs stood up straight into a salute, “They are disks of monolith. They’re storage devices supplied by Schema. You can absorb them into your obelisk, sir.”
+
+The obelisk raised from my hand, the glass sphere reflecting the florescent lights. The band of gray steel at its center shined a bit too. I’d always wondered where the fuck stuff went whenever it sunk into my armor. Even with such precise handling of it, I still didn’t quite know.
+
+That didn’t stop me from using it. Whenever I placed a disk onto the obelisk, the green lines drained into it. After doing this with each of the disks, the band at the middle of the obelisk shined green. It drained over the next few seconds. Once it emptied, a notification appeared in the corner of my screen.
+
+Download Complete.
+
+Simply and very effective, I grinned at Briggs, “Thanks man. Good to see there some steel legion members who know how to get stuff done.”
+
+Briggs stuck out his chest some and scratched his nose, “I do take pride in my work after all.”
+
+Torix nodded, “Indeed he does.”
+
+Briggs exhaustion seemed to wane with our words, like he just needed a bit support to shine. He glanced at Torix,
+
+“I was wondering sir, why are you asking uhm…Daniel to do this?”
+
+Torix raised a finger, “Excellent question. He is, in fact, a human.”
+
+Briggs shook his head before refocusing on Torix,
+
+“Daniel is in the unique position of being a figure head for them. It wouldn’t be a stretch of the imagination to say he’s the strongest human alive, or at the very least one of them. That means he can act as a bridge between the steel legion and the other human parties.”
+
+My head raised, “Ahhhhhhhh. I get it. I’m not a member of the steel legion, so they won’t look at me as a traitor. I can just say the legion are a necessary evil to fight off the big bad Yawm.”
+
+Torix nodded, “Something akin to that. You’ll be able to leverage your title of rift closer and your unknown status I’m sure. Get them to accept the steel legion’s help. Draft up a compromise. Something.”
+
+Briggs nodded, “We’ve tried everything sir. Humans seem to be averse to differences in species. It’s rare to see such a hostile and violent species. Perfect for Schema’s system, but not the legion.”
+
+I shrugged, “Eh, stereotypes and racism are for dumbasses. Having people like that on our side will be a bigger disadvantage than benefit anyway.”
+
+Torix shook his head, “There are reasons they fear the legion. They look at them as invaders. It wouldn’t be an unreasonable stance if it wasn’t for Yawm. His interference is an invasion in the truest sense, and unity will be required to beat him.”
+
+I tapped my chin, “And now it’s my job to set everything straight…ok. I’ll see what I can do.”
+
+Torix turned and walked out of the vault, “Finish the task before the next five days. You and Althea need to enter the rift by then. While you and she are training your abilities there, Kessiah and I will organize the effort up here. Once you come out. We’ll stage an assassination of a follower of Yawm. If all works well, Yawm will awaken without anyone but us to greet him.”
+
+I gave Torix a tiny salute with my hand, “Sure thing, professor Worm.”
+
+He grinned as he walked off. I turned to Briggs,
+
+“Must be hard serving him.”
+
+Briggs nodded, “He works me to the bone.”
+
+I grinned, “Looks like he wants another skeleton.”
+
+Briggs let out a chuckle. I pat one his shoulders, “You got this man. Once we kill the shit out of Yawm, I’m sure you’ve got a few promotions lined up. Every step you take now is worth miles in the long run.”
+
+Briggs nodded, raising his chest a bit. Looking less defeated, he gave me a salute, “Thank you sir. Good luck getting us reinforcements.”
+
+I nodded, leaving him in the vault. As I left, I shouted at him, “Any eldritch powerful enough to kill you can get through this door. There’s really no point to keeping it closed.”
+
+Briggs glanced around, before nodding, “Of course sir. Thank you for the help.”
+
+As I walked away, I could see why he was doing some simple-minded stuff. He looked nervous as an unprepared student on exam day. Easing some of the pressure off him was a good idea. Having me handle the diplomatic stuff killed three birds with a single stone. Briggs could work better, we get new allies, and I get another unique skill. Hopefully at least.
+
+With that in mind, I sifted through the new data given by Briggs. Apparently, the freedom fighters weren’t annihilated by Yawm, which was a relief. The freedom fighters were spread out near the creek in the forest. Most of them had left the town and tried making bases of operations out there. Of course there wasn’t too much food out there, so they had to be getting supplies from somewhere.
+
+It was my job to go out there and get them to organize with the steel legion. If they’d allied themselves with another town nearby, then getting them to join was just icing on the cake.
+
+With that in mind, I sprinted off towards the city. I already had a few ideas for motivating the other troops. As I did so, I checked out my other skill trees. I hadn’t selected another one after finishing Cosmic Soul.
+
+[Tier I Invincible (Take over 10,000 points of damage, with capped resistance in the damage type, and live)(0/250)]
+
+[Fearless (Battle an enemy over 1,000 levels above you and live)(0/250)]
+
+The selection of choices thinned out quite a bit by now. Both Fearless and Invincible sounded pretty solid, but I decided on taking invincibility. It sounded like something that would help make me tankier, which would synergize with my build.
+
+After placing my remaining thirty-seven points into the tree, I reached through the quarantine zone. It didn’t take long before I found a few zombies nearby. Instead of killing them outright, I smashed the host they carried. I wrenched the insects from the mounds of molded flesh. The ball of legs crawled in my hand, but it couldn’t get through my skin.
+
+After getting five of them, I ripped off a plate of my armor and wrapped it around the bugs. Making sure it was airtight, I carried it under my arm. Not wanting to waste any time, I pulsed my ascendant mana until it matched my health regen. My new runes filled to the brim, a surge of might filling my bones and blood.
+
+The rush was even better than before. I forgot I carved them again, making them better. It let me use all the hidden potential behind my enormous ebb and flow of mana. Like breaking a damn, it flowed through my veins. The liquid power didn’t flow out of the new runes either. There was no mist or steam coming out of them.
+
+Instead, the air hummed like electricity was dancing in the air. A second passed before a spark of carmine colored lightning shot out from my armor. Another spike of electricity shot out of my armor, then another still. Focusing the power, not letting it intoxicate me, I honed the energy down into the runes.
+
+The lightning stopped, letting the energy stabilize to its entirety. No more wasted dispersal. I would control it with an iron fist. Setting up my telekinetic augments, and idea struck me. So far, I’d set up several telekinetic pads to create points at the ends of my fists. It helped pierce enemies, but whenever I struck with full force, the pads shattered. I couldn’t maintain them.
+
+I needed a simple and more effective solution. I let the pads disappear before making a pad on my hand. Visualizing another pad on my hand, I created a flat pad over my fist. Instead of redirecting it, I imagined a much smaller pad right past it. Instead of creating these elaborate telekinetic spikes, I would just make the force condense into a smaller point.
+
+It’s kind of like putting on a pair of telekinetic brass knuckles, except all the force would condense into one point. In theory, the constructs should be much stronger than the elaborate points since they were closer to my hand. It would make my fist punch holes into whatever I hit, letting me handle armored foes much better. That, and my armor could get a hold in them and tear their organs out.
+
+Once I did that, it would be over. Plus, I wouldn’t have to spin my damn hands when trying to punch. Doing that shit was hard as hell in the middle of a fight, and I couldn’t do it from certain angles. With that in mind, I set my case of armor onto the ground. I reinforced it with three more layers of my armor. I did not want those insects getting out once I was outside the quarantine zone.
+
+I walked up to the brick wall of a chimney. I stomped my heel and pivoted a hook into the side of the chimney. Instead of letting my arm crash through brick chimney, I let the force go through the telekinetic pad on my hand. As the force of the strike transferred into the chimney, my hand bounced backwards.
+
+It felt like I was launching a telekinetic bullet with my hand. It didn’t end up like a bullet though. It punched a hole through the chimney wall, leaving the wall I hit intact. The other side of the chimney though, it wasn’t so lucky. It exploded outward like a bomb went off inside it. I transferred all the force of my strike into what I hit instead of on the surface of it.
+
+The brick wall my hand rested on had a three-inch-wide breach with a couple cracks around it. Walking up towards another chimney, I shot out another punch using the new technique. This time however, I released writhing, hooked tendrils of metal as my fist landed. The shifting storm of black blades detonated into the chasm I created. When my fist bounced backwards, the metal tentacles caught on the chimney.
+
+The effect was chimney detonating from the inside. One side from the raw, kinetic energy and the other side from the metal tendrils pulling it apart. If that was a person, their insides would be blended. In a single word, devastating.
+
+If that could hold up at full strength, then the telekinetic augments would be complete. Satisfied with the result, I picked up the metal ball of insects. After wrapped it around tied it to my back with a metal cord, I sprinted out of town at full speed. The Phaser ability was put to full use, allowing me to bolt from the town at a blistering pace.
+
+Once I reached the forest, I dashed past trees and broke through briars. The wind whistled in my ears, the sheer speed of my travel amazing me. It felt like riding a motorcycle straight through the dense underbrush. The dark of the forest cast calm onto the scene, like ambient music given a physical form. Whenever I reached the creek, a few nightingales flew off a branch. My speed startled them away.
+
+By the time I reached near the supposed base, my mind was wary for any danger. Unlike before, I wouldn’t be caught by surprise. Catching up towards the blip on my mini-map, I found a village of huts and tents.
+
+It was a miserable sight. There were only four guards, and only two of them had guns. One of the others held a bloody pipe and the other some forest bow and arrow. They looked desperate, dirt on their faces and thousand-yard stares latched on their eyes. They were nothing like I hoped they would be.
+
+There were still about three hundred in the camp. Even the weakest child can become a cold-blooded killer if you give them a gun. Put armor on them, and you could hardly tell the difference between them and adults. This number of people would bolster the current legion’s numbers by maybe a fourth. Maybe it would change their mind about what happened.
+
+As I reached the encampment, I slowed down and quit using my ascendant mana. Instead of walking up at night, I would wait until the morning to act. I figured a bit of light would help them with the whole not panicking thing.
+
+It wasn’t long before the sun peaked over the horizon. I’d burrowed myself into the ground and covered myself in leaves using telekinesis during the meantime. Spying on them only revealed how terrible the living conditions were still. Buckets for holding water, having a hole in the ground to shit in, and looking bony, these guys were living it up.
+
+Convincing them to stop looked like it would be easier than I thought.
+
+With that in mind, I walked up with a steady and slow pace. Not wanting to startle them, I wanted to look like a messenger. My name helped with that, being a Harbinger of Cataclysm. Playing off the title would help as well.
+
+As I neared the camp, the guards panicked. Each of them weren’t even level 100. No one in the camp was, at least from what I saw. Seeing someone with 740 above their head in purple text was no doubt intimidating. That didn’t even include whatever my notification told them.
+
+By the time I reached them, the guards had their guns raised. Once I was within fifty feet, one of the guards shouted,
+
+“Don’t take a step closer or else I’ll open fire.”
+
+I kept my voice steady as I thundered, “You already know that isn’t enough to even touch me. If you fire, I will retaliate in kind.”
+
+Had to keep the evil guy shenanigans going. Once I reached up close, the two guards petrified at the sight of me. One of them was a taller, thin guy and the other was a short woman. Neither of them were ready for something like me.
+
+I couldn’t blame them for being scared. I was trying to take advantage of my imposing figure. Without the telekinetic buffers, my steps shook the ground. I was over a head taller than either of the guards. Pulling back my helmet, I revealed my face to them, scars and all.
+
+The girl whispered, “He’s one of the grays.”
+
+I raised an eyebrow, “What’s a gray?”
+
+They glanced at each other. It took them a bit before one of the guys spoke,
+
+“It’s uhm…It’s what we call people who are gray…It’s a compliment.”
+
+I rolled my eyes, “Alright, that doesn’t tell me anything. From what I know, the gray comes from constitution. You hardly need even forty in the attribute for that gray coloring to set in.”
+
+They turned to each other again, both looking like they were dancing in the middle of a minefield. The girl turned to me, her eyes were in utter terror. I gave her no reason to be scared, yet here she was shitting herself at the sight of me.
+
+My senses clicked at that moment. Something wasn’t right. My eyes narrowed and my helmet slid back on. I listened close, hearing the brushing of leaves from within the tented encampment. All the steps sounded the same. Well, all except for one pair of footsteps. This pair of steps were quiet as falling snow.
+
+I shot my hand out towards my left, grasping at the soft sound. My fingers wrapped around a neck. I turned my head at the thing I held onto. The invisibility field faded, revealing a woman in a black suit of some kind. I turned to her, grinning with my armor forming teeth,
+
+“Well then, what do we have here?”

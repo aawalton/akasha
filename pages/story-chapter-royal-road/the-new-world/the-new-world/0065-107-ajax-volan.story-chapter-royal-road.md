@@ -1,0 +1,399 @@
+---
+id: afaf2a56-e0bb-5f0f-9255-4d1ec024bbf9
+page-type-slug: story-chapter-royal-road
+title: "107 Ajax Volan"
+slug: 0065-107-ajax-volan
+partOf: the-new-world
+position: 65
+ownLength: 4153
+unit: words
+ownProgress: 4153
+publishedAt: 2018-04-01
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/205020/107-ajax-volan"
+royalRoadId: "205020"
+markedReadAt: "2026-06-29T21:23:04.334Z"
+---
+
+I watched the ball of light float over the city and reach the legion’s battle. Whenever the light hit the ground, I lost my vision. My vision returned a moment later. The light singed my eyesight. It was brighter than the sun.
+
+A plume of dust rose above the point of contact. Another wave rippled across the city as the clouds above the impact zone expanded outwards in a circle. Another shockwave hit me, though this time it wasn’t nearly as powerful as before. Above the energy ball’s impact, a mushroom cloud gushed into the air.
+
+It rose high, higher than the clouds above Springfield. I heaved a breath before someone placed their hand on my shoulder. I turned around, finding Ajax staring at me,
+
+“Stand and run. To run is a victory.”
+
+His words snapped me back into reality. I reared back my own fist before punching myself in the face. I growled before shaking off my jelly legs and standing. I turned and sprinted away from Yawm. Ajax and I caught back up with Althea and Hod before reaching the outskirts of the city.
+
+Once we were a reasonable distance, we reached a cluster of woods with a cabin inside it. The walls were dusty and unused. The air was dry, the smell of wood and dirt thick in the air. I checked my status, hoping for a message from Torix or Kessiah. I found one.
+
+Torix Worm, of Darkhill( 4:03 P.M. 01/04/01) - We escaped. Regroup a day from now at quarry at 4:00 P.M. New plan needed.
+
+Dimension C-138(4:04 P.M. 01/04/01) - Althea, Hod, and I are fine. We’ll brief you on what we know. See you then.
+
+I closed my status screen and turned towards Ajax, Althea, and Hod. Before I spoke, I glanced back at my messages. I was considered dimension C-138. It was an odd feeling. It made the whole being a dimension real. I wasn’t human anymore, that was certain.
+
+It made me wonder what Baldag-Ruhl had intended with his original carapace. Why the fuck would he want to be a dimension? If I could figure out why, maybe I could discover the motives for the eldritch in general. I mean, if Baldag-Ruhl created a dimension, why couldn’t I at some point?
+
+There wasn’t a reason against it. It might be a good long term solution for the eldritch. Instead of killing them or destroying where they came from, we could funnel them into a different place. They could start fresh, and we would never clash with them.
+
+I silenced that wishful thinking as I focused on the here and now. Ajax was inspecting the inside of a cabinet. Althea had her hands behind her as she glanced around. She tried looking busy, but it was obvious that she felt awkward and bored. Hod just stared at a spider,
+
+“Hod wonder if creature talks as Hod does.”
+
+The spider turned it’s walk, reaching into the shade of a corner,
+
+“Creature likes shadow as Hod does.”
+
+Ajax murmured in his metallic voice,
+
+“Your world is odd.”
+
+A bit of irritation bled into my words I raised my hands, “We won’t have a fucking world with that thing running around. What the fuck are we even supposed to do against that?”
+
+Ajax turned towards me, letting the cabinet close, “I can tell you how to finish him.”
+
+I spread out my arms, “I’m open to ideas.”
+
+Ajax tapped his chest, “Cleanse me first.”
+
+I shook my head, “That wasn’t the deal. Tell me everything then I will.”
+
+Ajax’s eyes narrowed, “Understandable...Then I will start at the beginning.”
+
+I sat down, creating a gravity warp that suspended my weight. I did the same under Ajax. He glanced down then back at me before sitting down on the gravity flux.
+
+“Deft handling. I’m surprised. You’re world isn’t as primitive as Yawm had us believe.”
+
+I shook my head, “No, we’re pretty primitive. I know that Yawm’s using something nuclear, however.”
+
+Ajax nodded, “Indeed he is.”
+
+Althea sat down in a chair beside us. She put up an attempt at hiding her obvious anger at Ajax, but she just seethed,
+
+“He needs to die.”
+
+Ajax laughed, “Other beings that are far beyond your own means have tried. They have all failed. Killing Yawm isn’t an option. Ask your Harbinger.”
+
+I shook my head, “It’s a no go. He’s over level 14,000. We don’t stand a fucking chance.”
+
+Althea’s anger drained as she paled, “What?”
+
+Ajax nodded, “Ah, levels. It’s been a long time since I’ve had access to Schema’s system. I don’t need to know Yawm’s level to know you both are no match for him.”
+
+He leaned towards us, propping his chin on his arms and his arms on his knees.
+
+“I listened to your lich’s plan of throwing Yawm into a different dimension. I believe that is the best course of action.”
+
+Althea frowned, “I don’t really see how we’re going to get him anywhere near a rip in dimensions.”
+
+I lifted a hand towards Ajax, “Besides, doesn’t he have a sentinel’s spear? He can just cleave his way out.”
+
+Ajax shook his head, “I am Yawm’s spear.”
+
+Althea and I leaned back. Ajax raised an elongated, wooden finger, “He fused it with me during our experimentation. He understands the dim-”
+
+I cut him off, “Just call that, uh, language the eldritch runes. For Althea.”
+
+Ajax shrugged, “So be it. The eldritch runes as you call them, Yawm understands them. Quite well in fact. The spear uses that same language for slicing through dimensions. All that the machine does is powered by that language.”
+
+Ajax tapped two fingers together, “He is reconstructing the fabric of your dimension for his own means. Yawm wants to do the same thing, but in his own vision.”
+
+My thoughts clicked into place. That’s why he outlawed other people knowing about it. That’s why the dimensional cipher increased my stats. Schema was doing the same thing with the cipher as I was. How he got the stats to people exactly, I didn’t really know still.
+
+Ajax looked up at the roof, “And he has been battling that AI since his own exile from the system. We can use his own goals against him.”
+
+Ajax looked down at us,
+
+“I am how Yawm escapes his planets. Without his attention to my own experiments, the eldritch within me will spread and kill me. I do his bidding now for this reason. I am a bartering chip now, however.”
+
+He pointed a finger at me,
+
+“You can say that you have captured me and placed me within a dimensional rift. We will lure Yawm into the rift before we force him into a dimensional opening I create. Once over the dimensional line, Yawm will live out his immortality with the monsters he so wishes to call brothers.”
+
+I frowned, “How in the hell are we going to shove him into a portal?”
+
+Ajax shrugged, “I’m the one slicing dimensions. Surely you can shove him into it?”
+
+Althea spread out her arms, “How are we even supposed to get near him? The guy blows cities up for Schema’s sake.”
+
+Ajax raised himself off of his arms, “With a deal.”
+
+I raised an eyebrow, “What kind?”
+
+Ajax’s eyes narrowed, “One that involves me being used at collateral.”
+
+Althea and I leaned back in our seats. Ajax back and forth between us,
+
+“I am the spear that lets him leave worlds. Without my talents, he’ll be stranded here. Once the overseer discovers that, turn the surface of this world to glass. Even Yawm lacks the abilities to survive that.”
+
+I nodded, “So we’ll use you as a bargaining chip for something that he has.”
+
+Althea murmured, “Then we lure him somewhere and shove him into portal.”
+
+Ajax raised a hand, “That is my plan. Yawm cannot see the levels of individuals as you both can. He will assume your strength is a reflection of your aura and energy output.”
+
+He pointed his raised hand at me, “That means you will be able to falsify your own strength. Your mana generation is unparalleled, and your aura is powerful. You’ve even discovered a few of the eldritch runes. That can be our primary deal maker.”
+
+Hod whispered from the side of the room, “Harbinger learn evil from evil...Hod not like this plan.”
+
+I frowned, “You mean I’ll walk up and ask him to teach me about the eldritch runes in exchange for freeing you?”
+
+Ajax nodded, “That is correct. If you don’t ask for anything, Yawm won’t trust you. You need to have something compelling to ask for. The eldritch runes are the perfect catalyst for this arrangement.”
+
+Ajax stretched his neck as he continued, “You will speak with him directly. Yawm is a sentient. He thinks and can be reasoned with. If anything, he will try and convert you over towards his side.”
+
+I grimaced, “Ugh, that sounds awful.”
+
+“It will be. Yawm disguises the truth of his words with honeyed lies. He plants seeds of doubt that will flourish in your mind. Once their ripe, he’ll take everything from you. I am the perfect example. Be wary of him.”
+
+Althea leaned towards me, “I never met him, but I heard what he’s like. If you’re doing this, don’t talk to him about anything but the runes. Ever.”
+
+I raised my eyebrows, “What if Yawm just blows me up before I can?”
+
+Ajax rolled his head like he was rolling his eyes, “Then you all die, after your death, obviously.”
+
+Althea shivered, “That’s not very comforting.”
+
+Ajax turned towards her, “It’s not meant to be. Yawm isn’t patient. He will be wondering where his other followers are and what happened to his army. Since that lich of yours decimated it, Yawm will be wary of making his first move.”
+
+He turned towards me, “But once he does know, he’ll strike hard and fast.”
+
+I leaned towards him, “Is he going to unleash the plague again?”
+
+Ajax shook his head, “No. That’s for protecting the intail world tree from hostile life on a new world. It’s unfortunate that it wasn’t necessary for your world yet still happened. I had no say in it.”
+
+I seethed, “It’s a bit more than unfortunate.”
+
+Ajax nodded before turning away, “I agree. It was a casual genocide. I’m sorry.”
+
+Althea rolled her eyes, “You sound so sincere.”
+
+Hod nodded, “Hod know he is.”
+
+Ajax turned towards us, steepling his elongated fingers. He sat still for a few seconds before continuing,
+
+“The abomination is right. There’s more to apologizing than sincerity in words. I’m offering you all a way of ending Yawm. My offer stands as the sincerity of my apology. What is your reply to it?”
+
+I raised a hand, “Can you give us a few minutes to think about it?”
+
+Ajax shrugged as he stood from the gravitational warp, “Remember that they are precious minutes that you need.”
+
+He walked out of the room before Althea turned towards me,
+
+“I don’t like his plan. It feels like a trap.”
+
+I frowned, “I can’t tell. He’s an alien. I can’t tell if he’s lying or not by the tone in his voice. He sounds more like a businessman than anything else.”
+
+Hod turned towards us, “Tree Man speaks the truth.”
+
+Althea spread out her arms, “How do you know?”
+
+Hod shrugged, “Hod not know how Hod know. Hod only know that Hod know.”
+
+I bit my lip. Learning the eldritch runes from a master like Yawm was tempting. This seemed like our best gambit for escaping the situation as well. If I could get Yawm caught up in teaching me, it could buy us some much needed time too. It seemed solid the more I thought about the plan.
+
+Hod’s intuition had never been wrong since I met him either. He leveled perception, letting him get a grasp on situations like this really well. Listening to him was a better idea than Althea and I, who were all about combat.
+
+“I think we should join Ajax. It’s our best bet.”
+
+Hod raised his wings, “Harbinger trust Hod?”
+
+“Well, more than I trust myself when it comes to this stuff.”
+
+Althea sighed, “We’re going to trust the bird that slams into a wall every other time he flies.”
+
+“Hod getting better. Hod slam into wall more like every three times Hod flies now.”
+
+A reluctant smile crept up Althea’s lips, “Heh, that’s a start.”
+
+I nodded, “Just like this is a start against Yawm. As we need to, we’ll change the plan. Until then, let’s organize this and make it happen.” I raised a hand and clasped it into a fist,
+
+“We’ll learn everything there is to know about him. Once we’ve gotten what we can, we’ll send him to hell and highwater.”
+
+Hod nodded, “Hod think if Super Tree Man like monsters so much, Super Tree Man should live with the monsters.”
+
+Althea grinned, a malicious note infecting her voice, “I like the idea of him suffering for a long, long time.”
+
+“Then we agree.” I shouted, “We’re done ajax.”
+
+Ajax opened the door before pacing in, “What’s your answer?”
+
+I rolled my eyes, “Yeah, based on your history I’m sure you weren’t listening from the start.”
+
+“Hah, I might have told you more about myself than I should have.”
+
+I shook my head, “I think it was just enough. We’ll work with you in the plan.”
+
+Ajax raised his hands into fists, “It’s a rare sight to see reason. Now heal me.”
+
+I shook my head, “Not until after we’ve completed the plan.”
+
+Ajax’s eyes narrowed, “I told you everything. Heal me and I will help you further.”
+
+I raised my eyebrows, “Do you take me for a fool? The moment I take out that eldritch from within you, you can teleport away forever.”
+
+Ajax puffed out his chest, “I would never abandon my word.”
+
+I turned to Hod, “Is he lying?”
+
+“Hod know Tree Man lies. Tree Man leave us after cleansing. Hod sure of it.”
+
+I turned back to Ajax, “There you go.”
+
+Ajax clamped his hands into fists, “This isn’t a part of the deal.”
+
+I spread out my hands, “Look, I’ll clear out all the eldritch after we finish all of this.”
+
+Ajax slammed his hand into a table. It burst through the wood with a loud crash,
+
+“Then what? I’ll be used just as I have been by that insane worshipper of the void?”
+
+I shook my head, “Worst case scenario, you end up having to do my bidding instead. Let’s face it, my track records a hell of a lot better than Yawm’s.”
+
+Ajax growled, “I just want to be free. I just want to be able to wander and do as I want to. Why is that such an overwhelming demand?”
+
+I frowned, my voice turning cold, “Because you decided to follow someone who was insane. You told us about redemption? This is the closest thing to chance you’re going to get.”
+
+Ajax grabbed the sides of his head, the scratch of wood on wood ebbing,
+
+“I don’t have time to do that. I will be consumed-”
+
+A portion of Ajax’s neck bulged out under his bark skin. Ajax shook his head, the deformity dying down,
+
+“I don’t have time to wait until after we’ve banished Yawm. I need cleansing now.”
+
+I stood up from my gravity warp, “Then I can reduce the infestation. Does that sound fairer?”
+
+Ajax’s eyes narrowed, “What? Reduce it?”
+
+I nodded, “Yeah, I’ll take most of it out, but I’ll leave little left as collateral. It isn’t like you have to be at the brink of death during the entire mission. We just need to make sure you won’t teleport away.”
+
+Ajax shook his head, his eyes widening, “You can control how much you cleanse?”
+
+I spread out my arms, “Yeah, of course I can. Hell, I can offer you other stuff as the plan goes further along.”
+
+Ajax’s face tilted sideways, “Really then...that sounds...better. I can deal with that.”
+
+“Exactly. Come on, let’s get that shit out. You look like you’re in agony.”
+
+I walked up to Ajax, but he took a step back.
+
+His eyes narrowed, “I’ve seen you suck the life from monsters...Why should I trust you?”
+
+“I can’t do anything worse than what Yawm’s done to you, can I?”
+
+Ajax glanced down, “Fine. Get on with it.”
+
+I grinned, “This is going to hurt.”
+
+“I’ve dealt with pain before.”
+
+I shrugged, “We’ll see.”
+
+I walked up and placed a hand onto his shoulder. My armor dug into his skin. I controlled what it soaked up though, going for the collections of ambient mana in him. It was like removing dozens of growing tumors. Ajax kept the extent of his condition unknown to those around him. Underneath his skin, the condition was rampant.
+
+It was disgusting. As my armor dug deeper, Ajax’s eyes creased,
+
+“What are you doing?”
+
+“I’m finding the tumors and killing them.”
+
+The needles of armor sapped at the eldritch tumors, destroying them. Several minutes after the process started, Ajax fell to his knees. His hands shook as he seethed,
+
+“It’s worse than I imagined it was. When your armor reformed, was it like this?”
+
+“I imagine it was the same.”
+
+I cleared out the infestation from his head first, several tumors pressing against his eyes and brain. After that, I cleared it out of his organs and muscles. His blood was next. The only portion of eldritch I left was stored inside his bones. It would take a few weeks for it to seep out. That would give Ajax plenty of time to heal his injuries.
+
+Like with the other followers, I found the eldritch runes carved into his bones. It was a way of keeping them hidden from plain sight. It also let him carve the runes on a sturdier surface than someone’s skin. That’s why Yawm did it like this.
+
+By the time I finished the process, a sheen of sweat poured from Ajax’s forehead. Once I finished the process, I took my palm off his shoulder,
+
+“There’s still a little left. Once we kill Yawm, we’ll finish the process.”
+
+Ajax grunted, “Good...I need some time to heal.”
+
+Althea crossed her arms, “How long will that take?”
+
+Ajax murmured, “A few hours in sunlight. I’ll function at full strength by tomorrow morning. Until then, I’ll be crippled.”
+
+Hod nodded, “Hod tired too, so Hod rest.”
+
+Althea yawned, “I’ll take a nap too.”
+
+I nodded, “Alright then. I’ll have a voice chat with Torix and see if I can’t get a grip on what’s going on. We’ll talk in the morning.”
+
+I waved Althea and Hod off. Ajax walked outside before sitting beneath a tree. I followed him. The glow that ebbed from his skin dissipated as rested. His back and legs dug into the dirt as his eyes closed. Moments later, he looked like a deformity on the surface of the tree.
+
+It was a quick, effective means of hiding himself while resting. I walked back inside before walking into Hod and Althea’s room. We all understood that I would be guarding them while they slept. It would stop Ajax from grabbing either of them and teleporting them to Yawm. That’s why Yawm came here in the first place anyways.
+
+It was to get back Althea. I wouldn’t let that happen unless it was over my dead body. To really drive that point home, I widened my awareness with Tactile Cognition. It let me get a grasp on Ajax’s position. If he decided to disappear, I would run off with Hod and Althea in that instant.
+
+Once in the room upstairs with the others, I raised a palm. My obelisk melted up and out of my armor. I opened it, a sphere of white surrounding me. Once the screen loaded, a green forest with a chattering creek surrounded me.
+
+With the sounds of crickets in my ears, I said aloud, “Call Torix.”
+
+The obelisk obeyed, calling him while I waited. Seconds later, a portion of the screen opened. Torix’s dry face and fiery blue eyes stared at me. He raised an eyebrow,
+
+“Level 2,406? So you did slay Elijah. Excellent.”
+
+I nodded, “That’s nothing compared with Yawm.”
+
+Torix frowned, “Indeed it isn’t. He destroyed Moloth and a few other of my pets with his attack. The Steel Legion and I escaped, Kessiah as well.”
+
+I raised my eyebrows, “How did you get out of there?”
+
+Torix moved his hands together, “I forced the army into the space where I store my summons. It wasn’t a fun time for them, but they are alive. Using one of my imbued flies, I showed them the wreckage Yawm left behind. That silenced any complaints about sleeping with my monsters.”
+
+“I imagine so. We met with Ajax. I don’t know what he’s been doing, but the Ajax you’re following isn’t the real him?”
+
+Torix cupped his chin, “Really now? Odd...It must be a doppelganger. It was my mistake in intelligence.”
+
+I raised a palm to Torix, “I wouldn’t go that far. Ajax has been spying on us since we were in BloodHollow. I can’t stress how much he’s seen of us. I couldn’t even sense a gravitational flux in his mass. I’m guessing he slips in and out of our dimension or something like that.”
+
+Torix frowned, “Well...that’s difficult to even imagine.”
+
+I spread out my arms,
+
+“It’s real, real as the air we’re breathing...well, that I’m breathing. Regardless, he wants to help us kill Yawm. Apparently he’s the sentinel’s spear that Yawm owns. How? I have no idea. Here’s the thing.”
+
+I raised my hands in front of me, “He’s infused with eldritch, and Yawm sustains him. That’s why Ajax does his bidding. Ajax has become angry, and he saw me cleanse Kessiah of the eldritch. I’ve already cleared some of the eldritch form from him-”
+
+Torix’s eyes narrowed as he snapped, “You didn’t cleanse him entirely, did you?”
+
+I shook my head, “Hell no. I’m not that naive.”
+
+“Excellent. As expected of my apostle.”
+
+I shrugged, “More like of someone who’s dealt with people like this before. Anyways, we’ll be laying low for a few days on the...Northern side of town. We’ll rendezvous once Ajax and the others have slept. Does that sound good?”
+
+Torix raised an eyebrow, “You mentioned killing Yawm...How?”
+
+I weighed my hands back and forth, “Not really killing him. Ajax will rip open dimensions, then we’ll shove Yawm in there. It’s like our plan, except way more mobile since Ajax can teleport and go unnoticed.”
+
+Torix frowned, “How is anyone supposed to shove Yawm exactly?”
+
+I pointed a finger up, “By bartering with Ajax’s life, even Althea’s if we have too, though I’d rather not. After that, I’ll learn some eldritch runes from Yawm before pulling him into a trap. I just need help with talking to Yawm...yenno, without dying.”
+
+Torix glanced off in the distance, “Well, it looks like we’ve hit an impasse...I think we could send a messenger before your arrival. One of us could approach him and warn him of your coming. I have many summons that could do the job. Once he knows, you can walk up and speak with him.”
+
+I nodded, “I’m thinking of playing myself off as someone like Yawm. Ajax recommended that approach.”
+
+Torix frowned, “I wouldn’t trust everything that Ajax said.”
+
+“I don’t. I trust him like I trust an eldritch.”
+
+“That’s the correct approach. You mentioned him being infested with them. They could have planted themselves into his mind. Considering how malignant the eldritch are, I wouldn’t put anything past him. Be ready and waiting for chaos.”
+
+I raised a fist, “I am. Good luck torix.”
+
+Torix nodded, “Good luck Harbinger. We’ll discuss the rest of the details after each of us has some time to dwell on the matters at hand.”
+
+Torix snickered at the term while I rolled my eyes at his sarcasm. I closed my obelisk before glancing at the eldritch runes on my left forearm. It had been a long time since I could work on the runes. After seeing a few of Yawm’s creations, I gained a better understanding of what they did.
+
+They didn’t influence reality. They changed it. With it, I could create anything. With how my current rune setup worked, I transfered my mana into extra stats over the long term. My mana generation would increase over time, so why stop there?
+
+Schema created all my trees, stats, hell he created everything with the dimensional cipher. He created the sentinels and spears that could cleave through time and dimensions. Extra stats were child’s play compared with that. Schema was recreating the fabric of reality with the dimensional cipher. I could as well. I wasn't changing the fabric of space-time.
+
+I was changing me.

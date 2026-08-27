@@ -1,0 +1,343 @@
+---
+id: 5d713b62-7fef-5311-944c-fcc92dd3f5fb
+page-type-slug: story-chapter-royal-road
+title: "388 Artifacts and Delegation"
+slug: 0348-388-artifacts-and-delegation
+partOf: the-new-world
+position: 348
+ownLength: 3774
+unit: words
+ownProgress: 3774
+publishedAt: 2025-03-07
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2108878/388-artifacts-and-delegation"
+royalRoadId: "2108878"
+markedReadAt: "2026-06-29T21:33:12.304Z"
+---
+
+Before moving on, I had my extra psyches inspect my different status screens further. I might be missing something they'd find. They handled that while I returned to my current task - making the amulets for everybody. This would ensure their safety while I left, letting them go anywhere without worry.
+
+I pulled out a dozen blue cores, my list of deserving guild members, and the cipheric carving I handled while Hod trained with Torix.
+
+It was time to deck my guild out.
+
+Chapter Begin
+
+Checking out the carvings I made, I copied most of Elthara's amulet sigils while leaving certain sections blank. This ensured all amulets gave generic buffs, but I could add what I wanted for each team member. In the empty spots I left behind, I filled in different parts that my guildmates might need.
+
+After getting my planning set up, I began carving out the quintessant cores. They were the easiest to make. Mild-mannered and motivating, they supported whatever buffs I put onto an amulet, ensuring the individual shined.
+
+The other mana types proved more finicky, just like with the golems. Primordial amulets wanted to change the wearer, but I contained their urges by putting many hard stops in place, similar to the executive golem. Even more challenging to manage, the ascendant cores siphoned the wearer's mana and health, trying to kill them.
+
+Instead of smothering their urge to commit evil, I redirected it. The new strategy worked better than the restrictions but still proved volatile. When I used both strategies together, I got the results I wanted.
+
+With the cores tamed, I tried making the quintessant amulets as practice for the more complex dungeon hearts. Starting with Krog, I molded a tail band. For a gialgathen, Jewelry lacked the utility of raw metal since the band's heft could be a weapon. The flying amphibians' tail attacks would have added weight, even without magic like gravitation or telekinesis.
+
+For Krog's band, I focused on giving him more control of sound and vibrations. I put a stabilization rune for tones in the band. This allowed Krog to hold a note in his roars more easily. Hypothetically, he could resonate the pitch with an enemy, building vibrations in them until they disintegrated. It would be like an opera singer breaking a glass but with enemies' bones and bodies. I'd need him to test it out.
+
+With plenty of supervision, of course. Safety first.
+
+I also gave the band gravitation, telekinesis, and standard buffing. Krog could manipulate his weight and redirect his physical attacks, adding a new dimension to his physical combat. Time would tell what he'd accomplish with it, but I was excited already.
+
+After finishing Krog's band, I moved to Shalahora's trinket. I went with a pair of earrings instead of an amulet. Aesthetically, it suited the shadow much better, and I put a blue core in each of them, knowing Shalahora could handle two.
+
+Instead of amplifying his strong skills, I tried filling in what he couldn't do. After all, Shalahora's mind magic was absolute, so I couldn't improve it further. By contrast, when he handled the Shaelance Glaive, Shalahora couldn't control the quintessence flow. These earrings would allow him to do that or any other random magic he happened to need.
+
+I couldn't add magic I didn't know about, but I had now developed a wide array of skills. Gravitation and telekinesis were the most manageable powers to add, but I piled on others. Temperature manipulation, matter generation, elemental magics, and even unguided mana flows, I kept piling on different sorceries until I hit a threshold. By now, the item's complexity scared me.
+
+Perfect.
+
+I grabbed the earrings, trying to use them. Most of the magic worked at a decent level. For the last test, I made matter with them. Any material would do, so I didn't direct the ornaments in any way. I let the earring choose its core attribute, expressing its central being. Great idea on my part. Profound, even.
+
+With a tremendous flow and immense force, a wave of crabs erupted onto the side of Mt. Verner. Coconut crabs, Dungeness crabs, Chesapeake blue crabs, and even Tasmanian giant crabs flooded our surroundings in a veritable crabocalypse. They snipped like nobody's business and crushed trees below with immense, crabby weight.
+
+Truly crabtacular.
+
+Before they snapped the slab of stone we rested on, I made a gentle gravity well over us. The crabs congregated into a mass before I pulled native wildlife out of the bunch. Once I got only crustaceans, I evaporated the poor guys with Event Horizon.
+
+Althea pulled a straggling crab out of her hair.
+
+"What was that?"
+
+I frowned, gazing off into the distance.
+
+"Sorry, guys. I was-"
+
+I narrowed my eyes, solemn as stone.
+
+"Feeling crabby."
+
+After a series of boos and having crabs thrown at me, I moved on to the next amulet. Well, artifact, honestly. Sticking with Florence, I made another set of earrings. Undoubtedly, the guy could pull these off, and I set them as weightless and quintessant. Florence wouldn't want to fight his artifacts all the time.
+
+They amplified his general aura and charisma while letting him speak at different volumes. I combined it with several psionic defense systems, ensuring his mental security. The last part would be an intimidation aura. Ascendant mana would've been much better at that specific skill, but this would suffice.
+
+The last quintessant core was for Kessiah. I gave her a belt buckle, knowing she always wore different ones. This one helped with regenerating blood, her most pressing bottleneck. It also helped with stability, calmness, and general power. While handling her healing, she could stay still in unstable areas. I also installed some primary psionic defenses like the other members.
+
+Moving on, I made the ascendant cores next. These would be risky but high value, and I knew certain members could handle them. Starting with Helios, I designed a gauntlet to counter his current one. He'd already shown the ability to wield multiple artifacts fluently, so I built this one with that in mind. In particular, I wanted him to take full advantage of his void ice.
+
+This ascendant amulet would give him telekinetic and gravitational abilities. The force of their application dwarfed my previous incarnations, and unlike the other charms, this focused on casting magic rather than adding generic skills. It still buffed him, but that wasn't the emphasis.
+
+This specialization amplified its effects. Even a few test runs could uproot trees and launch them like spears. I couldn't get the finesse of my magic out of the gauntlet, but it handled tasks like moving a single stone or hitting one from afar. It was up to Helios to learn these tools and use them.
+
+Knowing the guy, he would use them well.
+
+The following ascendant construct was for Althea. She entered a berserker state when using her chems or Kessiah's special blood types. I wanted Althea to learn how to control that via an ascendant core. At the same time, the dungeon heart carried powerful psionics to help her out. The goal would be to stop anything from vaporizing her memories and psionic sanctity.
+
+It also included telekinesis and force redistribution. Althea hit hard with all her general strength, but her body's frailty held her back. This amulet would help her apply that strength at a range while controlling the rebounds so she wouldn't shatter from the blowback. It telekinetically redistributed the reverberations across her body instead of just her hand or foot.
+
+Once she mastered it, this core would magnify her offensive potential. As for the dungeon heart vessel, I was at a loss. Althea constantly shifted shapes, so I couldn't decide what would suit her most. I decided to just ask her what she wanted later.
+
+Moving onto the next core, I went with talon covers for Hod. That part of his body changed the least when he turned from Hod to Other Hod. The ascendant construct would serve two different purposes for his duality.
+
+For Hod, it acted as a general guide that assisted with accomplishing different tasks. An ascendant core worked best because it was the mana of initiative. It gave more direction while quintessence would've laid back and offered simple suggestions.
+
+I installed directives into the ascendant construct specifically for Hod to take advantage of that. The three main ones were psionic training, cipheric learning, and exploration of his unique magic. This gave Hod a path without being overbearing. I'd adjust it as needed, but before giving it to the guy, I placed the talon covers in my hands and tried them out.
+
+Initial tests were promising. The covers sent out random goals that seemed doable and constructive. After a few minutes of wearing them, it changed its suggestions to stuff I considered worth my time or valuable. From what I could tell, this was one of the strangest aspects of ascendant-based cores.
+
+They came from the bloodthirstiest kinds of mana, so I expected a Valgus clone. When unshackled, they were. After applying all the fail-safes and stop gaps, they became goofier, playful personalities. The ambition gave way to excitement, and the battle thirst turned into adventure seeking. It was a welcome and helpful surprise.
+
+As for Other Hod, the core gave him a psionic training partner for his future growth, and it offered a lesser version of Helios's gravitation/telekinesis. Other Hod needed as much training as possible to unlock his potential and Hod's in the future. The amulet even buffed the guy. It was almost too much for a single core but proved stable. After all, structuring a charm for both Hods wasn't easy.
+
+Trying the primordial cores next, I set up the easiest of them - Torix's staff. This artifact would be a counter perspective for the lich to discuss with when needed. I put only a few restrictions on the primordial core to make that happen. Letting it run loose would give Torix's primordial magic a boost and provide him with someone to direct as he saw fit. In that regard, I trusted Torix to mold the core to what he needed.
+
+Chrona's tail band came next. I set up a temporal manipulator within, requiring every ounce of power the blue core could muster. Using this would be arduous without understanding time magic, but that wasn't a problem for Chrona. She'd be using this in only a few days, tops.
+
+The last three instruments took hours each.
+
+The first was an engineering compass for Diesel. The guy earned his chops a while back, and I aimed to give him his just desserts. I gave him a dual-core setup of quintessence and primordial manas to make his artifact shine. I couldn't manage the tool's complexity with just one core otherwise.
+
+In this case, the quintessence took the edge off the primordial's need for control. After all, I didn't want this tool to destroy Diesel's mind. The compass's dual-core nature also gave it the creativity and ingenuity the other instruments lacked.
+
+Ultimately, the compass mirrored an architect golem, and it would be as if Diesel always carried his one with him. He'd be floored when I gave that with the personalized AI I planned on giving Diesel.
+
+Probably. You never know for sure how someone would respond to a gift.
+
+The next artifact was Plazia's primordial shoulder pauldron. I set this one up to help the hivemind establish control over areas via spatial magic. Well, that's what I think it did, but I was expanding into fields I didn't fully understand. The way I had it handle spaces involved leaning into what the material was made of - my dimensional fabric.
+
+The way I did it was simple. See, my armor always carried a kind of personality, one that wanted growth and food. Instead of fighting that, I pulled as much of those aspects out of the material as possible. This amplified the natural properties of the dark metal.
+
+I would never hand this to other guild members, but Plazia was an enormous psionic entity. Even from the few times our minds grazed each other, I could feel how monumental he was. He rivaled my psionic magnitude, if not a good bit higher. Because of that, his artifact didn't require extreme stability.
+
+On the contrary, he would be that source of stability.
+
+That left the most challenging construct: Amara's cipheric assistant. I attempted to create a core that helped her operate with the dimensional cipher. To call it a success would be like calling dough bread. I didn't know what would happen until it got out of the oven. Even my initial tests were spotty and confusing. It was still ready to ship, at least.
+
+But, uh...Let's just say I put a lot of fail-safes on that one.
+
+Once I finished making the artifacts, I walked over to Hod, Althea, and Shalahora. I'd been here for over a day, and they'd left and returned to this spot to train. Interrupting everyone, I handed Shalahora the earrings. He snatched them out of the air.
+
+"What have you given me?"
+
+I smiled.
+
+"A surprise. Try them on."
+
+He placed them where his ears should've been, and I explained how to use them. As they came to life, each core shifted from blue to a starry white. The ethereal glow contrasted his gloomy form, making him less sinister. He created a few balls of fire or ice before peering at me.
+
+"Thank you, Harbinger."
+
+"No problem. Let me know if anything goes awry."
+
+I turned to Hod, handing him the talon covers. They snapped onto place via gravitational wells, their red runes ominous. Hod walked around with them like a waddling duck for a bit. As ascendant energy built in them, Hod hopped around, able to fly and control his descent using the dark armor plates.
+
+He ran up into the air, testing out the telekinesis. He hopped around, flipping on air before kicking at a wall. It exploded, the telekinetic powers holding up well. Hod scratched behind his head by just moving his leg up and down.
+
+"Hod never reach itchy spot. Hod must admit...Hod impressed. Itchy spot Hod worst enemy."
+
+He bowed to me.
+
+"Hod thank Harbinger for backscratchers. Hod never forget."
+
+I smiled.
+
+"Hod, never change buddy. Never change."
+
+I turned to Althea, holding up the dimensionally enveloped ascendant core.
+
+"I couldn't think of what to make this into for you because of your transformations. I'm open to any suggestions."
+
+She frowned.
+
+"You didn't want to make an amulet?"
+
+I waved my hands.
+
+"I just didn't know if you wanted something different. I'll get it done."
+
+I turned to make it before she hopped up onto my shoulder. She leaned in and whispered.
+
+"Can...Can you make it one of those neck things?"
+
+"A necklace?"
+
+"No, the ones that sit higher up on the neck."
+
+I furrowed my brow before snapping my fingers.
+
+"Oh, a choker."
+
+She put her finger against my lips.
+
+"Shh. It's embarrassing."
+
+I nodded before she hopped off with an elegant flip. I got the measurement of her neck a few seconds later. After getting some black silk from a store in Mt. Verner, I started making the choker. Oddly enough, the store obtained the base material for the silk from Althea's eldritch reformations.
+
+It was a small world.
+
+I set the fabric as the choker's base before making a small chain around it. I didn't want the chain to be uncomfortable or inelegant, so I kept the interlocking segments soft and flattened. It made the process ten times more difficult, but the result looked like jewelry, not shackles.
+
+Making the metal weightless, I finished it with the red core at the center. Returning to Althea's training spot, I handed her the choker, which she tried on.
+
+It was too loose, hanging like a necklace at first. She pursed her lips.
+
+"Huh. That's disappointing."
+
+I went to help her take it off before the metal tightened around her neck. It gave a slight squeeze, and Althea leaned back before stumbling. I caught her, and she grew a foot taller in my arms. Her jumpsuit tore in a few places, and she blinked before staring at me.
+
+"Wow. That's a rush, huh?"
+
+I frowned.
+
+"It's not too tight, is it?"
+
+She rubbed her neck, her eyes soft when she smiled.
+
+"Hmm...It's just how I like it."
+
+I had to calm myself down before letting her continue her training. After a goodbye, I flew over to the forests of Mt. Verner. Instead of spending all my time handing out the artifacts, I called over the executive golem.
+
+It walked up, a foreboding presence that stalked out of the trees.
+
+"Ah, creator. It's great to see you again."
+
+I pulled up the pile of artifacts with a gravity well.
+
+"I need you to hand these to certain guild members for me."
+
+The executive tilted its head.
+
+"Wait a minute. Those?"
+
+It stepped closer.
+
+"Wow, those are incredible. They'll make each of your elites far more powerful."
+
+It wiped a hand over one of the artifacts.
+
+"But, creator, do you mind if I challenge your perspective?"
+
+I gestured to the artifacts.
+
+"Go ahead."
+
+The executive rubbed its fingers together.
+
+"There's dirt all over these, and they're haphazardly piled up. Let's take a moment and imagine with me for a second."
+
+It waved its arms overhead.
+
+"Think of it. Specialized containers for each guild head's enchanted artifact. They're in their different colors, and we've cultivated a space to hand them over with. No, even better, we can have the guild watch as you hand over these life-changing artifacts. They feel the impact of each one as you give them away."
+
+I furrowed my brow.
+
+"That, uh, sounds like a lot."
+
+The executive waved a hand.
+
+"If it feels overwhelming, know that I can arrange it all at a moment's notice. I could have it happening by tomorrow with a bit of hustle, actually. In fact, we should do that."
+
+I frowned.
+
+"I'm going to be busy tomorrow. For a while, actually."
+
+The executive leaned forward.
+
+"Might I ask what it's about?"
+
+I described my plan for conquering Earth along with the need for golems. The executive clapped his hands together.
+
+"That is genius, creator. It really is a solid, well-put-together plan. Now, I know it may feel like a lot, but do you mind if I mention an iteration to said plan?"
+
+I got the feeling I'd hear that kind of phrase a lot from this golem. I shrugged.
+
+"Why not? In fact, always let me know if you have an idea or improvement on something I've said."
+
+The executive snapped his fingers with gusto.
+
+"You show your mental resilience with your every word, creator. So, here are my thoughts - the plan is strategically sound but neglects the human element of the equation."
+
+I raised a brow. My golem lectured me on the human element of a plan. There was an irony here somewhere.
+
+"What do you mean? I've got the guild members helping out."
+
+The executive raised a hand.
+
+"That's right, and yeah, we know they'll help. You're the Harbinger of Cataclysm, for Schema's sake. What you say goes, but hear me out here: we need to give the people a reason why they should leave their homes and fight the good fight. It'll make enrollment much better and more satisfying."
+
+I spread my hands.
+
+"Ahhh, I get where you're going with this."
+
+The golem made finger pistols at me.
+
+"Can you tell me what you're thinking?"
+
+I smiled.
+
+"We'll use the gifting ceremony you mentioned earlier to announce the guild's conquest of Earth."
+
+The executive raised his hands high.
+
+"Come on, make it better."
+
+I nodded.
+
+"Alright, I'll make a bunch of gear and show the guild what they can earn while they head out with a golem. The better they do, the more they'll get. We'll have Speakers design quests, and they'll see how effective the artifacts are when I gift them to each follower."
+
+The executive clasped his hands to fists, shaking them.
+
+"Now that's a damn plan!"
+
+I gave him a high five before the executive swung a fist.
+
+"I'll arrange everything with an architect while you prepare the golems for the announcement. We'll need to strike while the iron is hot."
+
+I grabbed my chin.
+
+"If we have a stockpile of golems, we can have people sign up immediately. I can even have the piled-up goods behind us during the ceremony."
+
+The Executive pointed at me.
+
+"Perfect. I couldn't have said it better myself."
+
+The golem's dual manas flared out of it like the depths of an ocean on fire.
+
+"This has got me completely fired up. I'm canceling all my other plans for the next hot minute and getting this show on the road. Creator, we will make big things happen here and fast. Trust me on that."
+
+I believed it. The executive lifted a hand, a gravity well launching it into the air. It jerked its other hand, propelling its body to Mt. Verner's lower side. As it disappeared, I dwelled on the executive's personality.
+
+Somehow, it felt like a hype man more than a domineering jerk. In fact, I couldn't believe it operated so well, to the point it felt like talking with someone more than a thing I made. It left me wondering if that's what having a child was like, just in slow motion. I winced, knowing I'd probably never know that for myself.
+
+I was likely sterile.
+
+I sighed before turning around. Seconds later, the executive landed in front of me.
+
+"Oh, creator, I forgot to mention something. You never visited the Eltari you made appointments with."
+
+I closed my eyes.
+
+"Dammit."
+
+The executive put a hand on my shoulder.
+
+"I had it rescheduled for tomorrow morning and managed the fallout by giving them new houses with an architect."
+
+It gave me a thumbs up.
+
+"Let's just say there's going to be many more people hoping you don't show up when you say you will."
+
+It gave me a salute before launching away once more. I ogled where it once stood, stunned by how it handled things I'd forgotten. Shaking out my surprise, I looked around, finding the guild coming to life. Architects built in the distance, the blue core's barrier sheened over the horizon, and my vanguards carried back useful eldritch.
+
+It left me basking in a quiet but boiling excitement. After setting the alarm for tomorrow morning with my status, I cracked my neck.
+
+It was time to mass produce a golem army.

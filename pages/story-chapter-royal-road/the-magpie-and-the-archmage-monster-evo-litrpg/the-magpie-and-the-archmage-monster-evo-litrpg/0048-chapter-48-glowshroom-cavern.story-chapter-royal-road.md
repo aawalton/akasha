@@ -1,0 +1,191 @@
+---
+id: 2c6e0d03-7881-5759-b357-9ad181d5cead
+page-type-slug: story-chapter-royal-road
+title: "Chapter 48 – Glowshroom Cavern"
+slug: 0048-chapter-48-glowshroom-cavern
+partOf: the-magpie-and-the-archmage-monster-evo-litrpg
+position: 48
+ownLength: 2065
+unit: words
+publishedAt: 2025-11-15
+link: "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2762692/chapter-48-glowshroom-cavern"
+royalRoadId: "2762692"
+---
+
+Liora's first instinct when she saw the corrupted amalgamation of kobolds was to fly away. The sense of wrongness and disgust that was invoked within her couldn't be compared to anything else she had felt in her life. She'd gladly eat a whole bucket of maggots and rotten eggs if it meant that she wouldn't have to face this abomination.
+
+Renir…
+
+There was a brief, heavy pause in Liora's mind. She could feel the same sense of disgust and even a bit of fear coming from Renir. Or were those her own emotions? It was hard to tell.
+
+Yes?
+
+There are others here who could deal with this thing, right? Strong, experienced adventurers.
+
+There was another heavy pause.
+
+There are plenty of experienced adventurers passing through Cyene or some who have come to oversee the progress of their junior party members, but…
+
+But?
+
+Cyene dungeon is essentially a beginner dungeon. Area G in particular is treated almost like a training zone. Usually, only newbies come here.
+
+The corrupted kobolds' amalgamation moved, not stepping but rather sliding across the floor, pulling itself along with a set of bloated limbs. Liora wanted so badly to fly away.
+
+So nobody would come here?
+
+Eventually, this… monstrosity would be noticed. But I suspect many young adventurers would lose their lives before that happens.
+
+Liora wanted to scream. She… She was just a magpie. There should have been more capable people to deal with this. Yet there wasn't. She would rather fight three of those rock wyrm. Heck, even fighting against the chimera guardian seemed smarter than trying to beat whatever the hell this thing was.
+
+But thinking of anybody dying in the clutches of this thing made Liora convinced that she couldn't just leave it here. She had to at least try.
+
+With her resolve sealed, she withdrew Holy Wand from her Inventory, clutching it tightly in her talons. Then she flew towards the abomination while chanting, "Holy light, obey my will, purge this blight and make it still!"
+
+[You've successfully mimicked the skill <Holy Light>.]
+
+The bright light ray exploded from the wand and flew towards the corrupted kobold mass. Liora didn't know whether it even noticed the attack—could it even feel anything at all? But the place where the light collided with the corrupted flesh sizzled and burned while the creature let out an unholy screech, which made Liora's soul tremble.
+
+However, it wasn't enough to defeat it. Not even close. The abomination rushed towards Liora, pulling itself along the tunnel floor at an astounding speed while leaving a trail of blackened sludge behind itself. It basically threw itself at Liora, trying to reach her with its various limbs.
+
+She weaved out of the way, but as she passed by its sludgy form, more limbs and tendrils shot out, trying to grab her. If it wasn't for her Aerial Agility, she'd likely already be part of the abomination. At this proximity, Liora, even with her limited sense of smell, could discern the smell of sulfur, rotting flesh, and decay.
+
+As soon as she had put some distance between herself and the monstrosity, she mimicked the chant for Holy Light again.
+
+[You've failed at mimicking the skill <Holy Light>.]
+
+Not now, stupid System! I'm fighting for my life here.
+
+As if some higher power had heard her, another System notification appeared.
+
+[Repeated use of skill <Holy Light> has enabled you to unlock it early before the normal unlock threshold at Level 10.]
+
+[New skill acquired – Holy Light.]
+
+[Holy Light – at [Basic] level produces a ray of light which inflicts 100% holy damage on the target. It also weakens curses.]
+
+Liora didn't even bother reading the whole message. She gripped her wand tightly, pulled the Necklace of Sunglow out of her Inventory, and began blasting the abomination with one Holy Light beam after the next.
+
+It was so much easier to do without needing the lengthy chant. Skill's cooldown was minimal, which meant that the corrupted kobold mass had no time to recover. It screeched and wailed, helpless against the beams of holy magic which were strengthened further by the Holy Wand.
+
+Nonetheless, it took all of Liora's mana and a bit of recovery time with the necklace to finally eliminate the abomination. With each hit, it moved more slowly, its ghastly wails grew quieter until it was reduced to a puddle of black sludge, which coalesced and formed ten nasty blightstones.
+
+[You've defeated <Error Er—*&%&^%^&>. Experience gained.]
+
+[You've reached Level 6.]
+
+Ugh, I really don't want to collect those. I feel like I will throw up...
+
+We can't have somebody else have them. Especially not those Night King freaks.
+
+No…
+
+Liora didn't want to touch them, so she just pressed her talon against each stone and commanded it to be put into her storage. But the feeling she got once she collected all ten blightstones was… nasty. If three blightstones sitting in her Inventory weren't noticeable, then with thirteen, there was a notable difference.
+
+It was as if something deeply unpleasant was hanging over her entire being, weighing it down.  Like any happy feeling she could dare to have would be sucked away and turned against her. Liora shuddered.
+
+They feel so gross!
+
+They… do.
+
+You feel it too?
+
+Yeah. We need to figure out what to do with these as soon as possible. I don't think keeping them stored inside your Inventory for a long time will be good for you.
+
+Yes, do please do something about them. Ahhhh, why couldn't they just drop glimmerstones?
+
+Hmm… In essence, they are glimmerstones that got corrupted. Maybe we could try cleansing them just like we did with the necklace.
+
+Oh! Now that's an idea. Let's try it right now… is what I'd like to say, but I need to recover mana.
+
+Liora didn't want to linger around this place, so instead she flew back to the intersection and perched on a craggy protrusion on the cave wall. She watched as the adventurer parties went to and through, taking various pathways, often consulting the map to decide their path.
+
+Thanks to the Necklace of Sunpeak, it didn't take long before Liora's mana was back to full and she could return to questing. Blightstone cleansing would wait until they were out of the dungeon.
+
+Is there perhaps another way to access Area G? I don't want to go near that sludgy place again.
+
+Sure, you can take the upper tunnel over there and go through Area C.
+
+Oh, really? Sweet! Imma do that.
+
+Stop and think for a moment, birdbrain.
+
+What?!
+
+How do you think the zones of these dungeons are named?
+
+After letters, duh!
+
+And why would they use letters?
+
+Because it's convenient and easy to remember?
+
+But how could you make sure that your everyday newbie wouldn't wander into Area A when they need to go to Area G? Could there be some system in place? Some correlation between the letters, perhaps?
+
+Liora felt like Renir was mocking her. But it didn't take long for her to realize what he was alluding to.
+
+Zones are named in the order of difficulty, aren't they?
+
+Exactly! Do you really want to head through Area C?
+
+Liora thought about it for a moment and realized that she didn't. Fighting monsters above her skill level wasn't fun, and it would be foolish to rely on Shadow Glide to keep herself hidden. Far too often, monsters had different ways of detecting her.
+
+No…
+
+Glumly, Liora flew back into the kobold tunnel, making sure to fly past the puddle of ominous, decay-smelling sludge as quickly as possible. Part of the tunnel ahead had collapsed, but some of it had already been cleared away—just wide enough for a kobold-sized creature to squeeze through.
+
+Looking at the opening, there were vicious scratch marks as if it had tried to make its way inside. Maybe it had been the abomination chasing after other kobolds. Thankfully, it didn't manage to get through. Liora shuddered to think what would have happened if more kobolds were sucked into that mass.
+
+She flew through the hole in a quick swoop, tucking the wings close to her body to prevent them from getting caught on the rocks. On the other side, she found the huge cavern filled with a bunch of kobolds.
+
+Fearing detection, Liora activated Fade and flew to the highest and darkest point in the cavern, hiding out of sight. There were a lot of kobolds. She could easily count several dozen in the cavern, and they were coming and going from one tunnel to the next all the time.
+
+It's an infestation! What's happening over here?
+
+So this isn't normal?
+
+No! How do you think any newbie is supposed to deal with this? No, this used to be a rest zone.
+
+Rest zone for whom? Kobolds?
+
+It appears that this is what it has become.
+
+So what do I do? Even if they are weak, I can't deal with all of them at once.
+
+We need to see what's going on deeper inside. They have turned this into a hub of sorts. Go into that tunnel across from here—it should have the glowshrooms for your quest.
+
+Liora waited a moment for the cooldown for Fade to pass, then activated the skill and flew into the tunnel. It was much higher and wider than the one leading up to the kobold cavern, so she stuck close to the ceiling and hoped that the Shadow Glide would keep her hidden.
+
+Thankfully, it did. Kobolds continued with their weird activities, none the wiser that Liora was flying just above them. It appeared they didn't have any weird senses to detect her with.
+
+She still didn't dare to linger too long and flew quickly. The kobolds became more sparse until the tunnel once again led into a different cavern. Or perhaps, it was best described as a different biome altogether. Long thin strands of something—Liora didn't know what—hung from the ceiling like hair. It created weird, curtain-like structures in caves around which some kind of bugs were buzzing.
+
+The strands glowed faintly with eerie green light, and small berries grew on them. They were the reason for bug activity—they were eating them. Some kobolds were near these carpets, shooting out their tongues to catch the bugs and eat them.
+
+There! Those are the mushrooms that you need.
+
+It took a moment for Liora to realize what Renir was talking about, but then she saw the glowshrooms. They were much smaller than she thought, no higher than ten centimeters, but their glow was unmistakably the brightest thing in an otherwise dim cavern. Like little electric lights, they shone and illuminated the area.
+
+I guess I'll go collect some glowshrooms.
+
+Before you go, you need to know something.
+
+What?
+
+The moment you cut the mushroom, it'll glow with blinding light. Keep your eyes closed.
+
+Damn! The moment I cut it, all the kobolds in the cavern will attack me.
+
+Yes, that too.
+
+Liora looked around carefully, flying close to the cavern ceiling—away from the luminous strand curtains—to figure out exactly how many kobolds there were. She counted over twenty. However, it wasn't like the cavern was homogeneous. There was a chasm right in the middle of it, so there was no way all twenty kobolds would be able to reach her at once. Not to mention that she could hover above the chasm to stay out of their reach.
+
+With a plan ready, Liora flew towards the glowshroom, which had the least amount of kobolds nearby, and then plucked it out of the ground. As Renir had said, it exploded with blinding light immediately, but she had shut her eyes and put the glowshroom in her Inventory straight away.
+
+Obviously, this alerted the kobolds. The nearest ones were rubbing at their eyes, blinded by the mushroom. But the ones further away were running towards her, screeching ferociously. Liora wasn't too worried, instead disposing of one of the nearest kobolds with a powerful Lunge.
+
+[You've defeated <Kobold – Level 5>. Experience gained.]
+
+These guys are too weak if one Lunge is all it takes to defeat one.
+
+But Liora quickly proved that she was overly confident. A rock flew in her direction, and she just barely managed to dodge. Looking around, she realized that one of the kobolds was holding something akin to a wand.

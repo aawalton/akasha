@@ -1,0 +1,447 @@
+---
+id: 6c3d1c76-de88-5276-b7eb-ce34107ad145
+page-type-slug: story-chapter-royal-road
+title: "The Path of Ascension Chapter 391"
+slug: 0089-the-path-of-ascension-chapter-391
+partOf: the-path-of-ascension
+position: 89
+ownLength: 6456
+unit: words
+ownProgress: 6456
+publishedAt: 2025-02-24
+link: "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/2087242/the-path-of-ascension-chapter-391"
+royalRoadId: "2087242"
+markedReadAt: "2026-06-29T19:20:46.911Z"
+---
+
+Chapter 391
+
+Having settled on an initial method of settling the ownership of the planet, Matt did something he didn’t think he’d ever end up actually doing.
+
+Leaning into his Ascender status.
+
+They needed a lot of people to contend with the masses of Corporations mercenaries and the few tens of thousands that had gathered at Duke Plessi’s call weren't nearly enough.
+
+At least not for the type of competition they had settled on.
+
+Mass exploration and exploitation methods weren’t rare, but they were definitely less favored than a straightforward combat method, usually a tournament of some kind, if for no reason other than the people participating in such events were entitled to keep what they extracted from the world. It greatly lowered the initial surplus the winning Great Power got out of the planet and no one wanted that.
+
+Things got interesting when the actual make up of the participants was considered. The Corporations had easy access to a number of mercenary corps who were at least soldier-level combatants with a decent sprinkling of low- to mid-level elites in their ranks. The Empire, unless it was allowed to use its own standing armies, didn't have such ready access to elites who could stack the metaphorical deck in a tournament.
+
+Still, the Empire had its own advantages.
+
+First, the Empire’s population, especially their Tier 15 population, ensured they had a much deeper pool to pull from even if they weren’t all local. Quantity had its own advantages, especially when it came to things like exploring a planet-wide ruin, which was why Matt had been so willing to use that method when Clyde suggested it.
+
+Second was their pull as Ascenders.
+
+The Corporations might be able to bring up mercenary corps, but they, like all of Corporations society, were primarily driven by profit. Which meant unless Clyde wanted to fund the expedition personally, it would be harder to bring in as many people as their fame could. Even if the potential numbers of each side were even, which they most certainly weren’t, with each new mercenary corps that arrived, the pie got smaller, making joining a less attractive proposition, which explained why no extra mercenary corps had shown up in the last few months.
+
+As if thinking about him summoned him, Clyde appeared next to the area the Empire had set up in and Matt directed more attention to the Tier 40 as Liz moved to speak with him.
+
+He quickly lost interest when it became clear he just wanted to try and get them to budge on their originally agreed upon timeline as he saw the numbers flocking to the world compared to the lack of numbers showing up to his own side.
+
+Matt instead returned to his own work.
+
+As the only person who had any understanding of rifts beyond the basic 'go in, kill things’, Matt was excavating pathways into the ruins below.
+
+Clyde had originally wanted to just drill down to a few dozen spots across the planet and call it good enough, but Matt had put a stop to that immediately.
+
+They needed to be careful as to not break the ruin, a task which was made harder by the ever-shifting rooms the ruin consisted of.
+
+It could have been an impossible task, but after questioning the original Corporation exploration team, he learned that the ruin would never shift a room that had people inside of it and a connection to the outside. A fact which had been the main hindering force in their own investigation as they didn’t want to risk getting whisked off deeper into the ever shuffling maze.
+
+With some exploration, Matt found a spot where the ruin was exposed to the outside, thanks to a cave system that touched the ruin, and discovered there was a naturally formed safe room similar to a rift’s entrance. Or at least something close enough to only be an academic difference.
+
+A little testing showed that the rift could and would form new safe areas, but the process was slow, or at least limited, as each new entrance took longer for the ruin to create a safe room and instead just allowed the monsters to pour out like a leaky bucket until the room was finished converting.
+
+The easy solution that the ruin just needed more mana to make the change wasn’t the case, which left them with a theoretical ten entrances for a stable setup.
+
+Not really enough for proper coverage of a ruin so large but more than enough for deciding who got to keep the planet.
+
+Stepping over to the gathered people, Matt reported his findings to everyone.
+
+“Ten locations. I propose we choose where they are distributed in an array that will best serve the planet as a whole in a long term capacity.”
+
+Clyde huffed. “Ascender Titan, don’t think to pull the wool over my eyes. I noticed that the ruin entrance moved to be farther away from each entrance you made during its resets.”
+
+Matt turned and met the Tier 40’s gaze before continuing as if he hadn’t spoken. “A distribution as I have shared, would maximize land usage around each entrance and likely move the ruin’s reward under the deepest ocean. That should, if my preliminary understanding the of the ruin is correct, lead to the largest ratio of rooms from the entrances which will lead to faster reshuffling of the deepest rooms. The rooms farthest away from the boss room and therefore closer to the tunnels might struggle with the respawns of their monsters, but I believe that should be solvable by simply shunting more mana underground. Here are the [AI] models I’m using and everyone is free to play around with other distributions, but I believe this is the best layout.”
+
+Clyde huffed and puffed his annoyance but eventually gave his assent to the distribution of locations after pushing one location a few miles away from a wetlands, which Matt was happy enough to do.
+
+With the ten spots selected, Matt chose not to put them directly where cities should have formed. He wasn’t sure if a city’s worth of people living above the entrances could be dangerous, either to the people or the ruin itself, but it was best to treat it like a particularly dangerous rift and keep it close but not directly inside city limits.
+
+City limits that didn’t exist thanks to the world being unsettled. Still, it wasn’t too difficult to estimate where cities would naturally settle based on historical figures.
+
+That, and Matt knew anywhere the ruin entrances were, the cities would form around them. That was even true for the Corporations and their insistence on living in space as much as possible. Rifts would require ground-side construction if only for the teams delving the ruin, let alone the planet's rifts, and those locations should mostly correspond with the locations Matt chose.
+
+Digging the tunnels down was more fun than it could have been, as it gave Matt a chance to flex his creative side, something he rarely got to do when using his manipulation skills since leaving Luna’s clutches.
+
+Matt started each location by digging a large spiral shaft down the distance between the surface and the ruin, creating a pathway which would hopefully initialize whatever process the ruin had for making safe rooms, then he started getting it ready for what a heavily-utilized ruin would need in its entrances. Mainly a stairway wide enough for five or six people to walk abreast and tall enough that even the largest Tier 15 animal forms could walk up or down comfortably.
+
+He also turned the central shaft the stairs spiraled around into a hollow tube that an elevator could be installed into when the planet was settled.
+
+Together, they would allow both higher Tiers to move quickly via the stairs and groups to move either wounded comrades out of the ruin without jostling them too much, or large loot that wouldn't otherwise fit into a low-level spatial item.
+
+To ensure everything was stable and could handle the weight of teams that might be carrying things in spatially-expanded backpacks that didn’t perfectly isolate the weight of the objects inside, Matt compressed the ground into the tightest form he could while also threading a lattice of Tier 25 steel through everything.
+
+And Aster made fun of him for carrying large amounts of raw materials in a spatial ring just in case they needed them.
+
+He even took the extra few minutes to create murals running down the entire length of the stairwells.
+
+He intentionally kept them fairly generic and without any political aim or slant, just chronicling the repeated rises and falls of the Realm, continuing to raise its peaks as time advanced.
+
+That wasn’t to say he didn’t sneak in a few hidden things for the close observer to discover.
+
+A small scene of himself, Aster, and Liz when they had first met was tucked into the corner of two other murals, as well as slightly higher than average concentration of phoenixes and foxes in general. And one small, extremely grumpy-looking black cat hidden in a corner just in case Luna ever passed by this world and inspected his handy work.
+
+By the time he finished, he found that everything else was pretty much ready for the final batch of Tier 15s to arrive. Of which he saw a gratifying amount of Empire Tier 15s. They might have genuinely cleared out almost the entire sector's Tier 15 population, leaving only those who couldn’t leave their jobs.
+
+Had they made the rewards too valuable?
+
+Well, his [AI] hadn’t yelled at him and neither did Cato, so even if they were slightly too generous, it couldn’t be that bad.
+
+He really wanted to keep looking at the ruin and see if he could glean any more things out of its history, but that would be pushing the rules until the planet’s ownership was settled.
+
+If worse came to worst, he could always just get the Corporations to let him study the planet. It would cost him, but he hoped it wouldn't come to that.
+
+Liz joined him on top of a mountain to enjoy the sunrise. “I like what you did with the tunnels.”
+
+“Thanks. I think they will hold up well.”
+
+“That's not what I meant, doofus.”
+
+“I know.” Matt winked at her, and they sat there, just having a moment with each other.
+
+Once the sun had fully risen, Matt sighed. “Whoever gets the world is going to need to adjust that.”
+
+This time it was Liz’s turn to groan. “Maybe we can just get Clyde to do it now? Or him and Alice? Together the two of them should be able to speed up the rotation safely. Someone will have to do it, so it's not like he can say it's not his job. It might be if he wins after all. Doing it now is… I don’t have a good excuse at hand, but I’d like someone to fix it. It's only off by a few minutes, but it's really messing with me.”
+
+Matt proffered a hand and pulled Liz to her feet and helped her brush the dirt off her clothes, earning himself a wink for his efforts even as they lightly heartily complained about the planet's rotation.
+
+The moment they arrived at the central camp, the two of them were greeted by Clyde. “I wanted to talk about the distribution of the Tier 15s. Are we going to do a back and forth draft, or something more interesting?”
+
+“I assume you ask because you have something in mind?” Matt asked.
+
+Clyde’s smile was filled with hidden meaning, but Matt didn’t mind spicing things up if his idea was actually good.
+
+“One side picks two sets of starting locations while the other side gets to pick which of the two sets they want. Force both sides to think about the other's perspective.”
+
+That was interesting enough Matt was willing to consider it, so, after a quick check with Aster, he and Liz agreed to the suggestion.
+
+After some back and forth, and not quite liking Clyde’s proposed locations, they ended up offering their own selections which put one side slightly more centralized, with all three of their starting stairs together in a cluster, or a set slightly farther apart but with a slightly better shot to the ruin’s final room.
+
+Clyde accepted their layout and chose the three closer together locations, which was what the three of them expected him to do.
+
+With his mercenary corps’ more limited numbers, his people linking up was a good bet to consolidate their strength, while the Empire and their larger number of people would hopefully be able to take advantage of their better starting locations to find the final room first.
+
+Still, with their own agreed upon limited interference, it would ultimately come down to those that chase to participate.
+
+***
+
+Alice Everdon was not easily swayed.
+
+It just wasn’t in her nature.
+
+Her peripheral friends called it determination, but her closest friends called it what it was: stubbornness.
+
+She had been stubborn enough to pursue a career in delving when her parents had warned her not to. She had been stubborn enough to continue despite not vibing with any of the pick-up groups that had been looking for another person when she wanted to get started. When that proved impossible, she worked two part time jobs while actively recruiting for her own team. When she had inevitably lost an arm because she and her ragtag team were woefully unprepared to delve actual rifts, she hadn’t given up, but instead learned to fight with her off hand until they earned enough to get her arm regrown.
+
+When her team had wanted to scale back, she had been stubborn enough to demand they not sell the slot, but let her delve solo, paying them back for their shares in the slot little by little. It had slowed her down, but she had managed, despite all of the troubles.
+
+When she reached Tier 5 and learned about Concepts, after having taken a bottled Concept, she had proclaimed she would create her own before she needed another bottle at Tier 10.
+
+She had done it, too.
+
+The fact that her Concept was about her being stubborn wasn’t exactly flattering, but it was true, and that gave her power over people who settled on Concepts that were just ‘good enough’ but more flattering.
+
+So when Alice saw the message putting out a recruitment for volunteers that would see her gallivanting off into unknown space for a fool’s errand, she had ignored it.
+
+She had just bought a new delve slot in a low Tier 16 rift, and she intended to delve it, not be dragged off with the promise of riches that had no guarantee of profit or benefit.
+
+No, it didn’t matter that her rift slot had a year and six month waiting period before she could actually enter it, she wanted to be close in case there was an opening and she could get in sooner, and if anyone left, she’d get her chance.
+
+There was no reason to go careening off into the unknown for unknown riches.
+
+Until the second announcement.
+
+That swayed her.
+
+Maybe.
+
+Ascenders Titan, Legion, and Wraith had put out an announcement calling for all Tier 15s to come to a possible new world and fight for the Empire to claim it over the Corporations. Those details didn’t bother or entice her, but the rewards the Ascenders promised were… generous.
+
+Not extravagant, but well above average and enough to pull most fence sitters onto a ship.
+
+A Tier 18 mana stone per person who showed up and participated as a baseline would already cover most of her loan, as well as give her a comfortable nest egg, but that wasn’t it.
+
+There was a scaling reward system based on contribution that could go as high as a rare Tier 20 skill shard for those who did exceptionally well. Based on the attached document, it didn’t even seem that hard to earn enough to reach that metric.
+
+The announcement also said they would be preventing deaths, so it was actually less dangerous than a typical delve, even if it was against other people.
+
+The offer seemed far too good to pass up, but doing so would mean she lost her chance at the rift slot.
+
+That in and of itself wouldn’t be too bad, but with the influx of Tier 15s from nearby worlds responding to the Ascenders’ call to arms, combined with everyone already local flocking to the call, it might take a substantial amount of time to get another slot once everyone returned.
+
+Rift slots weren’t allowed to sit open after all, and someone would buy them while everyone else was gone.
+
+The question came down to if she wanted to be one of the people who went or one of those who stayed.
+
+In the end, despite all of Alice’s stubbornness, the promised rewards were just too tempting to pass up and she decided to take the chance.
+
+She would never admit it, but the fact she might get to see Ascenders in person tipped her over the edge. If she managed to talk to them it would be the best story to tell in the future, hands down. No one she knew could top that, meaning she’d win every drinking grandstanding forever.
+
+The first bit of good news was that the Ascenders had sprung for the good transport ships as, instead of all of the traveling Tier 15s being shoved in empty airless holds, they were provided with actual rooms aboard the carriers, free of charge.
+
+Sure, the rooms were small, but it was at least some modicum of privacy and more than she would have been willing to pay for if she had been traveling on her own mana stone.
+
+Alice wanted to be unimpressed when they arrived at the world in question, but it was hard. It was a typical Tier 15 world, as far as she could tell, but completely untouched. There were probably Tier 20 mana stones worth of materials just ripe for the taking on the planet below. Ignoring those untouched riches, she tried to look cool unlike the gawking crowds around her, but her indifference was tested when Ascender Legion appeared standing before the exit of the ship.
+
+Looking at the Ascender felt like staring at a star, making her eyes want to water and blink.
+
+She carried herself with a confidence that Alice felt jealous of, but didn’t know how to copy without looking like a pale imitation, like a child putting on her mother’s dress.
+
+The comparison was unflattering, and Alice shoved it down and mentally stomped on it a few times.
+
+“Thank you all for coming. You all are the last group to arrive before we begin, so I’ll be transporting you to the staging area myself so we can get started.”
+
+Everyone around her started to murmur, but before they could say much, a wave of golden flame engulfed the group for a brief instant and they found themselves somewhere else.
+
+On the planet was obvious, but whether it was dusk or dawn was hard to tell without a few minutes of movement from the local star, but they were surrounded by a lot of others loitering around the cleared-out valley they had been deposited in.
+
+Ascenders Titan and Wraith floated midair next to a man her AI only registered as ‘Corporations Leader’. He was strong enough that Alice couldn’t feel anything from him, but that only meant he was higher than Tier 20. It was a large range, but it was also irrelevant to her situation.
+
+Seeing their arrival, Ascender Wraith turned and waved which pulled up a few cheers and whoops from some of the gathered Tier 15s, but they at least had good sense to keep things appropriate.
+
+Watching someone commit suicide by Ascender might have been amusing, but Alice’s nerves were way too high strung at the moment to enjoy such a show.
+
+Instead of admiring the trio of Ascenders, Alice took the opportunity to look at their competitors.
+
+Across the valley, Corporations mercenaries were arrayed in neat and orderly groups.
+
+Not quite military formations, but close enough she couldn’t pinpoint the differences beyond different.
+
+They looked competent, which was possibly a good thing as it meant hard fighting, which would mean a higher chance to showcase her abilities. That meant a higher chance at earning a Tier 20 skill shard. On the other hand, it might mean ‘dying’ early and earning nothing beyond a month-long timeout in the worst case scenario that it was a quick wipe.
+
+As a man next to her pointed out to his nervous looking friend, “Look at the number disparity. Even if every one of those mercenaries is an elite, which is outright impossible, their arms would fall off before they managed to cut through everyone on our side, even if we didn’t fight back.”
+
+That was a bit of an exaggeration, but Alice couldn’t help but admit there was a kernel of truth in it.
+
+As she inspected them, a murmur caught her attention and she honed in on the conversation.
+
+She recognized one of the voices.
+
+Olivia Heydon was a bitch of the highest order, but she was an older Tier 15 and had served in the military during the last war. She might have insights others lacked.
+
+Whether or not those insights were true was another matter, but her rotten personality didn't automatically mean the other woman was a liar.
+
+“I was part of the cleanup crew for one of their battles at the end of the war. In fact, it was the final battle of the war.”
+
+Alice's bullshit meter immediately started sounding alarm bells, but she wasn’t actually part of the conversation and so just listened.
+
+“I saw the damage they did to the ship. Yeah that massive ship the reports were on about. That’s the one. I was there and saw it in person as the salvage teams worked to tear it apart. Or more apart than it already was. I’m sure everyone saw the recordings of the battle when Titan got into the ship, but what the news reports didn’t mention was that the ship was made out of Natural Treasures. When Ascender Titan tore through the ship, he wasn’t just tearing through at-Tier metal, but at-Tier Natural Treasures composites.”
+
+One of the men standing next to Olivia snorted and called her out for the lie that was.
+
+“And we are supposed to believe you? I’ve heard grade schoolers tell better stories. I—”
+
+Before an argument could kick off properly, the sun fully rose and the Ascenders and the Corporations leader took to the sky, where they had a commanding view of the valley.
+
+Ascender Titan rubbed his hands together and smiled.
+
+His good looks made the move endearing, and Alice felt herself flush as his gaze swept by her.
+
+“It's good to see everyone, and I’m gratified that you all arrived so promptly given such short notice. The reason we gathered you might seem obvious, but it’s not quite as simple as it might appear on the surface. A Tier 15 world is valuable, yes, but this one is unique.”
+
+Titan smiled as people murmured about his word choice. “I don’t use that word lightly. It might not look like it, but this world might just be one of a kind. Spread your spiritual perceptions downward, please.”
+
+Alice did so along with everyone else. It was difficult to push through the ground, but she managed it. As she did so, she continued to find nothing, but just as she was about to give up she gasped inadvertently.
+
+She wasn’t the only one, but she was one of the first, and that earned a nod from Ascender Wraith.
+
+Alice was no fan girl, but she had made eye contact with an Ascender who had acknowledged her.
+
+That was amazing and possibly worth the trip in and of itself.
+
+Still, that didn’t overwhelm her surprise at finding a massive underground network of rooms a mile deep.
+
+Titan smiled and continued as the stragglers finally arrived. “And that, everyone, is the reason we are here. Your initial assumptions are probably correct, the ruin extends across the entire planet staying about a mile below the surface. The Corpies have a claim on the world and so does the Empire, and ultimately, we have decided to fight it out via the ruin itself. We have a year to gain control and hold the rift ruin boss room for a continuous week, or whichever side does best. Frankly, I want to win so I can explore this planet further. Given my love of aperology, that probably doesn't surprise many of you, but I want to make it clear: I have a personal interest in the world. That means I ask of you all that you give it your best with the knowledge that we are here to ensure that none of you actually die in the fights that happen below. There are only two rules. No infighting. I don’t care about the reason, none will be tolerated. Second, don't try to kill the ruin. I want it intact. Also, any items, Natural Treasures, or general valuables are yours to keep as part of our deal with the Corporations.”
+
+Alice wasn’t easy to sway, but she felt her heart slamming in her chest with each word.
+
+She was itching to get inside and start delving.
+
+Then, in unison the Ascenders gestured and everyone vanished in waves.
+
+Alice felt small pellets of ice hit her face like tiny hail drops, but by the time she registered the feeling, she was standing somewhere else along with a third of the gathered Empire Tier 15s.
+
+They were near a hole freshly carved into the ground that spiraled down into the ruin below.
+
+Whoever had carved it had taken the time to etch patterns into the stone that clearly explained the dangers within in a wordless form.
+
+Olivia floated into the air and started barking orders. “Everyone report in on your specialties and if you are part of a team. Also, note any secondary skills such as crafters. A year might not be the longest time, but being able to repair gear and such will probably prove useful.”
+
+A part of Alice hoped someone else would tell Olivia to sit down and shut up, but no one did so, and instead people started shuffling around.
+
+Giving into the inevitable, Alice sent in an overview of her abilities.
+
+She didn’t like giving even that much to Olivia of all people, but with the Ascenders’ guarantee, she had no worries about a back stab. It was more her dislike of the woman herself rather than anything else.
+
+It took a minute, but then Alice’s AI pinged her that she was being tied into a PlanetNet.
+
+Not a normal one, but instead one made to run this little game.
+
+Her every action was being watched, analyzed, and then converted into contributions points.
+
+A comforting realization since it removed any possible personal bias.
+
+Or most of them.
+
+Olivia called out her name as well as a dozen others.
+
+“You twenty are the strongest solo delvers, and so I’m designating you as scouts. I’ve been in ruins before and they typically block or greatly reduce AI comms, meaning making maps with just our spiritual perception and sending it back to base will be greatly limited, if not impossible. You should try to avoid fighting when possible, but if you need to, pull back to the outposts we’ll start setting up. We don’t know where the others are, and so we’ll need to find them before we can start making dedicated pushes.”
+
+Alice spread her spiritual perception, wanting to see if there were any teams nearby, but after a few hundred feet she found her senses hitting a wall she couldn’t pierce through.
+
+The same went for her AI.
+
+It could connect to the points system, but nothing else was available.
+
+The Ascenders must have done that for a reason, but it was mildly concerning.
+
+It was rare to be so isolated.
+
+Still, Alice had signed up and wouldn’t back down now.
+
+Olivia grabbed her arm as she moved. “Hey, I know I screwed you over by selling to Joan’s team, but let's try to put that behind us for now. I’ll apologize properly after this is over, but I don’t want it to interfere with the Ascenders’ business.”
+
+Alice snorted. “Give your apologies to someone who wants to hear them.” Pausing just before the entrance to the ruin, she added, “That said, this isn’t the time to be bickering.”
+
+Descending into the ground, Alice started running before realizing they were extra wide and tall to facilitate flying, and switched to that method of travel.
+
+It was draining on her willpower to fly at such speeds, but time was of the essence and she needed to move.
+
+Five of the other twenty copied her, but they must have been the only five who could fly, as none of the others did so and instead started using the walls to run off and speed up.
+
+When she reached the end of the stairs, Alice dropped to the ground and readied her weapon, a mace that absorbed some of the light from the ruin.
+
+Almost immediately, she noticed three things.
+
+First was that her spiritual perception was limited to just a few hundred feet, which wasn’t even enough to fully cover the room they were in. The second was that flying with her Concept was extraordinarily expensive inside the ruin. Not impossible, but too much to keep up for any length of time. Third, there was thankfully natural light.
+
+This room, its walls made from carved stone instead of simulating a natural cavern, had an ore that gave off a soft green light. It wasn’t much, but it was enough to give her Tier 15 eyes enough light to see in.
+
+With their glow, she could see six archways. Two walls had two halls, but without the light stones, it was hard to see where they went or if they converged further down their depths.
+
+That was if the ruin followed normal spatial principles, which Alice knew it might not.
+
+Picking a hallway, Alice took off in a sprint.
+
+None of the other flyers followed her, for which she was grateful, but given that there were six of them, it would have been dumb to double up.
+
+As she entered the hall, her eyes quickly adjusted to the much dimmer light, but she also slowed down.
+
+Her caution paid off when she felt a click under her feet and barely managed to raise her shield in time to catch a stone spike with it.
+
+Pulling a chisel – she didn’t quite remember why she had it – out of her spatially expanded bag, she marked the ground and moved onward, this time tapping each stone floor tile with a stick.
+
+That slowed her down, but she was okay with that given the circumstances.
+
+She was caught up by two of the other scouts, who took turns searching for traps.
+
+One of them, another woman, was far too incautious for Alice’s tastes, but they made it through the corridor without getting hurt.
+
+They sprung half a dozen traps, but there were probably at least one or two that they had missed.
+
+They immediately slunk back into the hall just a second after they entered the next room and saw what it was filled with.
+
+The room was comparably small, maybe two hundred feet to a side, but it was packed with dog-sized spiders with glowing blue abdomens, skittering across all the surfaces of the room like a nightmare carpet.
+
+One spider came and inspected the hallway, but they had already moved back down and quietly communicated through their AI by holding hands as a way to talk without speaking out loud.
+
+‘Who can tank them?’
+
+The other two looked pointedly at Alice and she felt herself wanting to complain, but she held herself back and asked herself how she would deal with this if it was a rift she was delving.
+
+First of all, she’d never enter a rift that she didn’t know the monsters of and their corresponding weaknesses, but she pushed through that thought and forced her mind to really consider.
+
+They had already seen the monsters could enter the tunnel even if they didn’t seem too inclined to do so.
+
+“Let's draw them into the tunnel where we can smash them easier. They are the size of dogs, so even if they stick to the ceiling, we should be able to hit them. With them having so much obvious mana in their bodies, I’m going to operate under the assumption they are mana resistant.”
+
+Near the entrance, Alice raised her shield and carefully tapped her mace against it until she heard skittering.
+
+Movement confirmed, she started backing up.
+
+A lone spider entered the tunnel long enough to look down the hall, but its vision or something with the ruin must have kept it from recognizing her as a threat, and so she was forced to move forward.
+
+Heart pounding, she did so until the monster skittered and its mandibles glowed blue, and an oversized version of its fanged mouth launched itself at her.
+
+Raising her shield, Alice was shoved backward two steps as her boots struggled to find purchase on the stone floor.
+
+An arrow flew over her shoulder and took the spider in the thorax, but that just caused it to screech, which pierced into her ears like nails.
+
+Still, Alice kept her head up and watched out for another attack.
+
+It was a good thing too, because the spider's next attack was aimed lower at her unblocked legs.
+
+Dropping her stance, Alice blocked without doing something as stupid as directly lowering her shield.
+
+The blow didn’t send her sliding back, so she charged the spider.
+
+That was just in time to see three more spiders rushing into the tunnel.
+
+Her mace caught the second spider, which threw itself at her, in the large blue abdomen.
+
+Her mace thankfully did what it did best and ate the mana it contacted like a dry sponge.
+
+The spider screamed even louder than the one that was now looking more like a porcupine, and Alice was almost surprised to find essence rushing into her from the dead monsters.
+
+Not one to look a gift spider in the mouth, she blocked a second lunge and smashed the third spider.
+
+This one was hit in the body and didn’t instantly die, but a redirected second blow took care of that. Her mace was more than half full of energy and she was forced to unleash the gathered energy before more spiders rushed her.
+
+That, as she feared, turned out to be a bad call, as the spiders grabbed the wave of mana and, legs spinning, gathered and then threw back the mana.
+
+Alice was fast enough to dodge by dropping to the floor, but the reckless woman that was fighting alongside her was sent sprawling backwards, and it was only the archer who saved her from an early extraction by shooting one of the spiders out of the air.
+
+Farther forward, Alice was left to her own devices and smashed three more spiders in quick succession, but instead of sending the next burst of mana out in a wave, she slammed her mace into the ground and let the mana loose there after calling out.
+
+It caused a mini earthquake which hurt them more than the spiders, but her shout had warned the others enough to let them keep their balance and the spiders didn’t get the chance to grab her mana.
+
+Ten minutes later the three of them explored the spider's lair and found seven green glowing eggs they were pretty sure weren’t filled with baby spiders ready to eat their faces off.
+
+Mostly because that wasn’t how rift monsters worked, but also because they could sense the positive magical effect of the sacks.
+
+Given her performance and taking the vanguard, the other two didn’t mind letting her keep the extra, giving her three to their two.
+
+One room down and three Natural Treasures.
+
+Alice carefully tucked them into her bag and took the path the others didn’t take.
+
+Her next room wasn’t as dangerous, nor as profitable.
+
+There was simply a massive black pillar in the center of the room she didn’t dare get too close to or damage.
+
+It was probably valuable, but she didn’t want to risk messing with it and instead picked one of the connecting halls and looked for her next encounter.
+
+Ten rooms later she retraced her steps, her left arm dripping blood but her pack stuffed with mushrooms she felt were some kind of poisonous Natural Treasure.
+
+The damn bears guarding them hadn’t been very happy to have her steal their goods and had chased her nearly halfway through the corridor, but she was faster and so had gotten away mostly unscathed.
+
+When she returned to the room they first entered, she found the start of a proper base with a healing station right next to Olivia’s not-so-impromptu command station.
+
+As much as Alice hated to admit it, the other woman was doing a good job and took her debriefing as she was healed.
+
+She also passed on what little of a map they had created from the other two scouts who had already returned and gone back out.
+
+A picture was slowly forming and the dedicated delving teams started to move into further rooms to secure more territory, but ultimately, it was up to the scouts to find not only their other teams, but the enemy too.
+
+Without knowing the distribution of groups, they were groping blindly in the dark until they linked up, but they also weren’t alone down here, and the mercenary companies could be who they encountered first if they were unlucky.
+
+Alice only had to look at her bag to see just how valuable this all could be, though, which galvanized her to keep pressing forward.
+
+It was just a question of if it was going to be enough, because there was still an overarching prize to be seized, and she wanted a piece of it.
+
+Picking a direction she hadn’t gone down before, she started running.
+
+She was going to find the damn boss room first if she had any say about it.

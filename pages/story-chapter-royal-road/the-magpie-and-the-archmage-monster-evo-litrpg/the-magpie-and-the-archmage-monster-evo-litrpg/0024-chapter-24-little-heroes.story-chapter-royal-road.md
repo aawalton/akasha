@@ -1,0 +1,217 @@
+---
+id: bf77bf40-aa42-507f-9bce-605192d590ff
+page-type-slug: story-chapter-royal-road
+title: "Chapter 24 – Little Heroes"
+slug: 0024-chapter-24-little-heroes
+partOf: the-magpie-and-the-archmage-monster-evo-litrpg
+position: 24
+ownLength: 2150
+unit: words
+publishedAt: 2025-09-20
+link: "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2614709/chapter-24-little-heroes"
+royalRoadId: "2614709"
+---
+
+Morning came far too soon for Liora's liking. She kept wondering what kind of torture the freaks would enact against a bird. Every scenario she came up with ended with her in a world of pain or giving up Renir. She wondered how far she was ready to go for him. Was being tortured and possibly mangled worth it just so she could keep her shiny treasure?
+
+Yes, it was worth it. Renir wasn't just any shiny treasure. He was the best magical treasure in the world. Encyclopedia of magical knowledge with apparently vast political influence and large hoards of treasure. People were ready to die to get their hands on him. A bit of torture to keep this treasure was a cheap price to pay.
+
+Or so Liora told herself. When the man with the crooked finger sneered at her in the morning, she felt a strong chill pass through her body. He would most definitely enjoy torturing her.
+
+"Be ready, bird. Once the breakfast is over, then so will be your life," Walter laughed.
+
+"We cannot kill the bird," Arvid reminded, looking as if he hadn't slept a wink.
+
+"Sure, but it doesn't need its wings anymore, does it?"
+
+Liora glared after him. As if she'd allow them to have their way with her. She feared that they wouldn't let her out of sight, but the fools just left her alone in the room.
+
+Now's your chance to escape!
+
+Liora nodded and prepared to strike the cage with Air Slash. She concentrated on the sharpness of the blade, imagining it cutting through steel. However, once she unleashed her attack, her Air Slash harmlessly dispersed as soon as it hit the metallic bars.
+
+What?! It just disappeared?
+
+The cage must be warded against magic. No wonder they felt so confident just leaving you alone in here.
+
+Dammit! I hoped that I would be able to escape before they returned.
+
+Liora felt herself growing more panicked. The flimsy cage had given her hope of escape, but it was gone. She couldn't help but think of Walter's threat. The thought of having her wings removed sent her into panic. She was willing to endure the pain, but losing her wings—no, she couldn't even bear the thought of that. She was nothing without her wings.
+
+I need to get out! Let me out!
+
+She fluttered her wings around the small cage and pulled on it with her beak, trying desperately to break free.
+
+Liora, calm down! You're being too loud! They'll return!
+
+No, no, no! I can't lose my wings! Anything but my wings!
+
+Snap out of it, birdbrain!
+
+Renir's yelling did little to calm her down, but the doorknob suddenly turned. Liora froze up, staring at the door. She went over her list of skills she could use in defense. Perhaps if she used Poison Shot at the mages, then she could get away.
+
+Much to Liora's surprise, it wasn't one of the mages who came into the room. It was Christie. The little girl looked around nervously, but broke into a big smile once she saw Liora.
+
+"I found you, Miss Magpie! You're alright!"
+
+No! Why is this child here?!
+
+If she gets caught, those punks will kill her on the spot!
+
+But Christie misunderstood Liora's frantic wing fluttering as cries for help and snuck up to her cage.
+
+"Don't worry, I'll get you out of here! Once I heard that these mage bullies captured you, I came straight to your rescue!" The girl said with determination.
+
+I really appreciate it, Christie. I do. But you're in danger! Please, run away!
+
+But Liora didn't dare to voice her concerns aloud. Any noise might attract the thugs who were eating their breakfast. They would likely be done any minute.
+
+Christie tiptoed into the room and grabbed Liora's cage gingerly. "You have to be real quiet now, Miss Magpie!"
+
+Liora didn't have to be told that. She didn't dare to move a muscle, except for her eyes. She kept checking the entrance to see whether one of the mages would show up.
+
+Much to her surprise, Christie didn't head back for the door, but instead made her way to the window. Slowly, she pried it open. The hinges were old, so it took the girl a bit of effort, and a fair bit of screeching noises came from the old wood. Liora winced at each louder noise, nervously looking at the door.
+
+She felt more afraid for the child than she did for herself. What would those animals do to Christie if they caught her? Liora almost decided to talk with Renir's voice and tell the girl to get out. But the window was open, and Christie swung the cage outside. Below waited a group of children around Christie's age.
+
+"Give her here!" The tallest boy reached his hand upwards, but was still a good distance away from reaching Liora's cage.
+
+"Let me climb on your shoulders!" Another, smaller boy with dark purplish hair said.
+
+Is his hair purple?
+
+Have you never seen anyone with purple hair? More unusual hair colors mean good aptitude for magic. There are plenty of people like that in Velithra.
+
+What's Velithra?
+
+The country we're currently in! Do you know nothing?
+
+I am a magpie. I do not care for human politics or names.
+
+The kid is about to drop you!
+
+Liora nearly squawked when Christie dropped her cage. The purple-haired boy caught her, but nearly fell off the shoulders of the bigger boy. Luckily, the other kids managed to steady him just in time.
+
+"Come, Christie! Jump!" The oldest boy urged as soon as the smaller one had scampered off him.
+
+"I-It's very high… Maybe I can just sneak out the way I came…" Christie said, fearfully peering down the windowsill.
+
+"Don't be stupid! You'll get caught! Jump! We're going to catch you!" The boy urged.
+
+"Chak-chak-chak!" Liora agreed. "You must jump, Christie!"
+
+"If Miss Magpie says so, then okay…" The girl finally relented. She scrambled onto the windowsill, took a deep, shaky breath and jumped. Several of the boys tried to catch her, but in the end, she just fell on top of them, making a big heap of children.
+
+The boys groaned, but Christie looked unharmed.
+
+"What was that noise?" Walter screamed from within the inn.
+
+"Shit! It's one of those mages! Scram!" The oldest boy commanded.
+
+Christie instantly grabbed Liora's cage and ran as quickly as her little legs allowed her. Which, unfortunately, wasn't very fast.
+
+They're going to see her at this rate.
+
+Touch Christie and Fade! If you concentrate on making her disappear along with you, then the skill might work on her too.
+
+"The bird is gone!" Liora heard Walter shout. She was nearly out of time.
+
+Liora put her beak on Christie's little fingers that were poking through the cage bars and imagined herself Fading together with Christie. She could feel a heavy mental strain, like the skill was trying to resist her command. Liora pushed against the mental wall and imagined Christie turning invisible along with her.
+
+[Your skill <Fade> has reached [Novice] level.]
+
+[Fade – At [Novice] level momentarily dims your presence and the presence of one person/creature touching you, making you both invisible and muting your footsteps, flight, and voice.]
+
+It worked?
+
+We'll see…
+
+Liora watched in horror as Walter's enraged face appeared in the inn's window. He scanned the surrounding area, but his gaze went completely over Christie and Liora as if they weren't even there.
+
+"You damned kids! What did you do?!" He screamed at the boys who were scattering, each in a different direction.
+
+Liora didn't get to see what happened next as Christie dove into a side-alley and ran deeper into town. The poor girl was wheezing from exhaustion, but eventually she made it home safe and sound without any mages in sight to follow her.
+
+"Haha! I did it! You're safe now!" Christie cheered, pressing her hand against the cage.
+
+"Chak-chak-chak!" Liora muttered quietly, not daring to complain too loudly. "What were you thinking, child? Involving yourself in this mess for my sake! Those men could seriously hurt you!"
+
+But Liora's angry lecture went completely over the girl's head as she interpreted it as Liora being nervous.
+
+"Don't worry, you're safe here! They'll never find you here. We're going to be changing your location every day until those bullies leave," Christie said resolutely.
+
+We? Oh, no. She must be talking about the other children.
+
+This is really bad. Even if they didn't see you and Christie, they saw the other kids. I have no doubt that they'll go and harass them and their families until they find you.
+
+Liora shuddered. Who knew what those lunatics would do to the townspeople?
+
+I need to get out of this cage!
+
+Liora began pecking incessantly at the lock, hoping to break it. Maybe it was warded against magic, but it sure didn't look to be warded against brute force. Eventually, she'd break out of here.
+
+"Oh, I can get you out! Wait a little here," Christie said and hurried outside. A few minutes later, she returned with large pliers in hand.
+
+She positioned them over the lock on the door. It took Christie a few tries; pliers were too large for her small hands, but eventually she managed to break the flimsy lock open.
+
+Liora instantly squeezed herself out of the tiny cage opening and flew towards the door, tapping on it with her beak.
+
+"No, you can't go outside! Those bullies will find you again!" Christie protested.
+
+"Chak-chak-chak!" Liora protested. "If I don't do this, then those freaks will start murdering children left and right."
+
+I'm worried. This town doesn't have any proper fighters or mages. If those three decide to enact their own twisted justice, then nobody will be able to stop them. While these children had the best intentions, they made matters much worse for everyone.
+
+It's okay. If they see me, they'll leave the townspeople alone.
+
+"No, Miss Magpie! You must stay here where it's safe!" Christie shook her head angrily.
+
+I didn't want to do this, but I'm left without options. It's alright if it's Christie.
+
+"Your friends are in danger. I'm going to help them," Liora said and winced internally. She was mimicking Renir's voice, which meant that she sounded like a man.
+
+Christie froze and stared at Liora with eyes as wide as saucers.
+
+"You can talk?" Christie gasped.
+
+"Yes. Please, let me out. I want to help your friends," Liora said. "They might get really hurt if I don't go."
+
+"I… I don't want you to get hurt either. You're my friend too! And my other friends are really fast. They won't get caught easily!"
+
+Bless this child's pure, kind heart!
+
+She must be protected at all costs.
+
+Absolutely!
+
+"I'm stronger than I look. Please, open the door, Christie," Liora asked again.
+
+Christie thought about it for a moment.
+
+"You promise that you won't get hurt?" Christie asked.
+
+"Chak-chak-chak!" Liora replied. "I promise to try."
+
+"Okay… I'll let you out! But you must come back safe and sound, Mister Magpie!" Christie said and picked Liora up, gently hugging her.
+
+I'm not a Mister.
+
+That's what you get for using my voice, Mister Magpie.
+
+I will drop you in a mud pile once this is over.
+
+Liora gently nuzzled against the girl. While what she and her friends had done was incredibly stupid and put everyone in danger, it was coming from good intentions. Thanks to Christie, Liora was free. If she had been a bit more selfish, she would have just left Sunvale altogether. But she couldn't leave these people to fend for themselves.
+
+As soon as Christie pulled the door open, Liora flew back towards the direction of the inn. It didn't take her long to get there. The sight before her made her blood boil. Children were lined up on the streets by the dozen, some bloody and beaten, most crying in fear while their parents groveled on the street before the three mages.
+
+"I will NOT ask again! Where is the magpie?! If you do not bring it before me this instant, you thieving little shits, then I'm going to kill this brat!" Walter bellowed and grabbed a boy by his hair, pulling him painfully.
+
+It was the same purple-haired boy that had held her cage for a moment. His mother was begging on the ground, tears of desperation streaming down her face.
+
+"Please, don't hurt my son! I beg you!"
+
+Walter kicked her roughly in the stomach, making the woman bend over in pain. "You think you can steal from me and live? You should have taught your children better than to get involved in adult matters!"
+
+Oh, that's it! It's time to put an end to this madness!
+
+Liora flew high up in the sky and took aim. Then she dropped.

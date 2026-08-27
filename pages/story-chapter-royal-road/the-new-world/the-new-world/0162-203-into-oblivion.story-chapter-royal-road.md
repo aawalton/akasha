@@ -1,0 +1,345 @@
+---
+id: f5216c6c-b02b-5016-8963-752dd977c1d7
+page-type-slug: story-chapter-royal-road
+title: "203 Into Oblivion"
+slug: 0162-203-into-oblivion
+partOf: the-new-world
+position: 162
+ownLength: 4535
+unit: words
+ownProgress: 4535
+publishedAt: 2019-05-09
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/360244/203-into-oblivion"
+royalRoadId: "360244"
+markedReadAt: "2026-06-29T21:26:24.543Z"
+---
+
+"As for learning of the remnant's secrets..." the Hybrid cackled, "I devoured one and assimilated its memories."
+
+Althea kept her gun pointed at the monster, "Spit it out then. Who organized everything?"
+
+"A member of that coalition of mind mages. She's the most prominent member of the Adair family."
+
+I whispered, "Wait...the Adair family."
+
+"That is correct." The Hybrid lifted a hand, "Tohtella Adair."
+
+Chapter Begin
+
+Torix sighed, "And my suspicions were well placed. If anything, I anticipated her hiding her involvement better. Perhaps her time was spent elsewhere."
+
+My body vibrated with mana pulsing through my veins as I pointed at the Hybrid,
+
+"Can you decipher the code and show us how too?"
+
+The Hybrid shivered, "I...I may with time. It is too complicated for me now. I cannot manage it without assistance."
+
+"Hmm, then perhaps you-" Torix said.
+
+All at once, the many mouths over the Hybrid let out a loud lamentation. Its wails pierced into my brain like knives through meat. It sounded like a symphony of voices, all those that died here trapped in the hybrid's body. They wanted an escape, their bloodcurdling cries carrying a deep sadness.
+
+It hit me like a coffee table to my shins, causing me to lunge onto one knee. As I did, other mouths appeared on the Hybrid, each of them bellowing out like storm sirens. A cacophony of screams erupted, blending into a meatgrinder of noise.
+
+These outcries resounded off the walls, intensifying with each echo. My teeth rattled as I slowed down, the others behind me crippled. My arms and legs numbed, unable to withstand the oscillating sound waves. Blood poured out of my eyes and ears, my body melting as I struggled against the Hybrid's adaptation. The mana I welled for my singularity dissipated, my concentration all but broken.
+
+Behind me, Torix created a dampening field around the others, saving them from the brunt of the attack. The sound still leaked in, incapacitating the others. I forced myself to my feet, meeting the Hybrid's attacks. I ducked under a strike, stumbling back. The Hybrid lunged forward, smashing my face into the ground. My skull cracked, white lights flashing over my eyesight. The monster dashed towards the crippled group, its stomps shaking the entire chamber around us.
+
+I tried getting up, but my body wouldn't listen to my demands. I created gravity well after gravity well, dipping into my health pool. I formed molten pits under its footsteps. I only gave the group a few seconds. I watched as the creature reached Torix and the others. I wanted to scream, but my voice would be lost in the reverberations.
+
+Torix was the only one unfazed by the vibrations. Using the little time I bought them, Torix channeled the rest of the mana in his gemstones. Torix coalesced the blood red energy into a spear of dark mana. With finality, he roared out.
+
+"Be silent."
+
+His voice left the room in silence, stopping the growing malignancy of the Hybrid's screams. Torix threw out the spear, impaling the Hybrid's torso. The beast's mouths closed, the black mana oozing throughout the hybrid. Torix stopped the crippling might of its howls, quieting the room to the calm of a winter's night.
+
+The monster was still charging. It reached Torix as the lich swung his staff with all his might. The blackened club bounced off the Hybrid's head to no effect. The monster wrapped its arms around Torix, crushing him inside the tarnished armor. Wires ingrained into the lich, drilling through bones and cracking him apart.
+
+Torix shouted, "I've other bodies hidden on my home planet. I will come back. Finish this battle without-"
+
+The Hybrid assimilated Torix's body in seconds, destroying the lich in but a moment. It happened so fast, I couldn't believe it. One moment Torix was there, the next he was gone. As the black plates of his armor clattered against the ground, my mind raced to rationalize what just happened.
+
+He mentioned having other bodies, and he was a lich, so his soul was just planted onto the dried out husk we remembered seeing. That was just the container he used to hold his soul. He'd be fine, but he wouldn't be able to help us fight any longer. The others didn't have time to think about the situation, however.
+
+Althea injected the rest of her stimulants all at once, her pupils dilating as her muscles tensed. Chrona grabbed Krog and flew from the hybrid, both of them getting away from it. As the Hybrid turned towards Althea, she turned and growled out,
+
+"Die."
+
+My eyes widened in fear at her voice, her deformed body shouting with a distorted sound. She wrapped a massive, gray hand around the Hybrid's head. Before it implanted itself into her, she whipped it through the air like a ragdoll. She slammed it onto the ground, stunning the creature and its progress. Over and over, Althea roared out while clobbering the Hybrid into the dirt. Enhanced or not, the floor crumpled into a fine powder as she thundered,
+
+"Die. Fucking. Die."
+
+At the end of her blitz, she held the Hybrid up in one hand. It drilled a few wires into her arm, but Althea generated a plethora of sharpened spines into the monster. The Hybrid retracted itself, impaled in six different places. Althea grabbed the bottom half of the abomination and pulled the beast apart, its orange blood drenching over her in a literal bloodbath.
+
+Each piece of the creature impaled itself into her again, but Althea was ready. She swung around in a circle, picking up speed and centripetal force. As the speed of her throw built up, I got back up on my two legs again, able to move again. Althea threw one half of the Hybrid at me before tossing the other half to the other side of the room. Divide and conquer. I liked it.
+
+I launched an overhead right, nailing the torso of the Hybrid with a heavy hand. As I smashed it into the ground, the destroyed room crumbled further. Before it could escape, I grabbed the thing with both of my hands, compressing Event Horizon over this piece of the beast. I dug needles into it, holding it until my hands numbed from my hold.
+
+I turned my body into a furnace, heating until I was the surface of a star.  What little that was left of my helmet shattered as the mouth plate of my armor opened. With jagged, glowing teeth, I tore into the monster beneath me, devouring the beast. It let out ear-piercing howls of indignation, but I gnawed into its metallic flesh, tearing it apart. As it disappeared into a pool of orange blood in my hands, I drained it dry. This piece of the Hybrid died just as it had killed all the others.
+
+It was eaten alive.
+
+I stood tall, turning towards the other half of the Hybrid remaining. It ingrained itself into the wings of Krog while Chrona smashed her tail into the monster. It ignored her onslaught, drilling itself into Krog. I stomped my heels onto the ground, dashing towards the beast. Before it reached Krog's body, Althea created a circular disc of bone in her hand.
+
+She growled out as she turned full circle, heaving the sharpened bone at Krog's wings. The projectile cleaved off Krog's wings, the wounded gialgathen scrambling away from the Hybrid. I reached the regenerating blob of wires, smashing my hands into it.
+
+As I drilled my hands into the monster, it scrambled towards Chrona, dragging me along with it. It reached her foot, digging into her body. Without hesitation, Chrona whipped her bladed tail through her foot, lopping the limb off. She flapped her wings while jumping, crashing into a wall and falling over.
+
+Ungraceful as her escape was, it was enough; I was upon the creature now. Without any means of escape, the Hybrid jerked and twitched in my grasp. It attempted splitting apart, but each piece that escaped was killed with an arcane bolt by Althea.
+
+And so, I wrapped around the monster like a Lovecraftian creature. It wailed. It howled. It bellowed for release. I gave it none. With my prey in my hands, I strangled the life out of this abomination until nothing was left but its screams. I took a deep breath, pounding my chest while letting out a roar. The yellow, glowing teeth of my armor split spread apart as I drowned out its death throes with a warcry of my own.
+
+As the echoes faded, I took a few deep breaths, calming the furor of battle. A notification appeared in my vision as quiet descended onto us once more. I glanced at it, inspecting the message. It showed the exp from the kill.
+
+The Hybrid was dead.
+
+I turned towards the gialgathens, their wounds manageable though deep. I walked up to them, but they scrambled away from me. I glanced at my hands, taking a step back from them. I was still glowing hot. After cooling my armor to black, I walked back up to them, but he scrambled away again.
+
+Krog growled, "What are you?"
+
+I rolled my eyes, "Daniel."
+
+Chrona and Krog stared at me, terrified for a moment. Chrona hissed,
+
+"And why did you hide that you are a monster as well?"
+
+I pointed at Emagrotha, "I helped find her and stopped that thing from eating her, and you have the gall to call me a monster still?"
+
+Chrona stared at me than the pit of lavender slush. She took a moment to collect herself, her breath slowing down. She murmured, "We...we were just surprised."
+
+Krog snapped, "You form changed as the Hybrid's did. Did you expect such tactics to fall on blind eyes? We saw what you were. Keep your distance."
+
+"Calm yourself," Chrona said. "He simply fought as he had to. If anything, let's be thankful he didn't do that to us in our fights."
+
+Krog stared up at her, a tense moment passing. He lost the staredown, ripping his eyes from her gaze, "I...Perhaps you're right."
+
+Chrona looked back to me, "Please, accept our apology."
+
+I scratched the back of my head, looking away from them,
+
+"Well, it isn't like my fighting style is pretty. I can't blame you guys for being put off by it," I glanced back to them. "I had to pull all the stops against him though. Otherwise, our group would be splinters of what it is now."
+
+Krog grumbled, "A warning would be nice before turning into a beast."
+
+Althea walked up, her body morphing back to her elegant self, "It isn't as if we had a choice. You wouldn't be nearly as open to helping us if you knew what we were. Even after saving your warrior goddess, you still were scared of us."
+
+Chrona's eyes widened, "Emagrotha."
+
+The gialgathens scrambled over to the pit, glancing down at it. A pair of eyes stared back at them, a mouth grumbling, "Yes, I can hear you just fine, even if I am like this."
+
+Chrona gasped out, "I can't believe your alive."
+
+Emagrotha rumbled in her deformed voice, "Neither can I. After what that self-absorbed idiot did to me, I'd rather have perished long ago, however."
+
+"How are you still sane?" Krog said.
+
+"Do you not remember me for what I was? Though degraded into this gelatinous mess, I still remain a paragon of will. It will take more than this to break me," Emagrotha touted.
+
+It glanced to me, "Though perhaps I have given up on death after all these decades..."
+
+The depth of her pain radiated outwards in that last piece. Stable or not, this experience took its toll on her. She could feign strength to her subordinates, but it was evident to me; she was done living like this. I walked over, lunging onto one knee,
+
+"You don't have to pretend like this was easy."
+
+Emagrotha's eyes turned to slits, floating on the pit of muck,
+
+"I need no pity from an earthwalker like you."
+
+I frowned, "I'm not giving you pity. I'm giving you a chance. Do with it what you will."
+
+Emagrotha stayed in the pit, silent as she pondered her response. A few moments later and she closed her eyes,
+
+"I've lived lifetimes here. So much time has passed. It has been so very, very long..."
+
+Chrona and Krog stared down at the ground, unable to meet her gaze. I barely knew this once mighty symbol, but even I struggled to watch her suffer like this.
+
+"Lehesion turned me into this. I am nothing, yet I still live. I am sickening, but I cannot die. Eons will pass, but I will still be here, producing filth as my body degrades my once proud memory."
+
+Chrona yelped, "Your legacy is still one to be proud of. Those loyal still remember it."
+
+Emagrotha said, "Hush child. I know what is said of me. Though ensnared by my tormentors, they told me of what happened outside my new world. They believe me a slaver, one who binds others to my will. I wanted to curate the espens into a people that stood on their own."
+
+She rumbled, "My view matters not. History is written by the victors. Lehesion did more than kill me the day of our battle. He shrouded my name in a dark blight, one that will stretch far longer than my life. When my memory fades to oblivion, it will be a blessing."
+
+Chrona and Krog winced as they heard her. Though they tried staying composed, this was a nightmare for them.  Their idol was a broken shell of what she once was, her iron-clad will rusted over time. I couldn't blame her either. I didn't even want to imagine what this was like.
+
+Emagrotha interrupted my thoughts, "This is why I ask that one of you kill me."
+
+Chrona shouted, "What? No. I will not allow it."
+
+Krog Borom turned to his ally and growled, "She's done all that she can. Let her rest."
+
+Chrona showed her teeth, "We finally find our paragon, and you wish death on her within moments of our meeting?"
+
+"No. I wish for her to rest after decades of being this creation at the bottom of a toxic sea," Krog said.
+
+Chrona shook her head, "She's simply delirious. We can give her a far better quality of life outside of a facility. We can offer her a measure of comfort in Rivaria, where many are loyal to her."
+
+Emagrotha said, "Chrona, I am far too large to move, and more still, I am the cause of this ocean you see around me. Rivaria would be converted into an eruption of filth, my mountainous body deforming the beautiful ranges of ice and stone. I would never allow such a fate to befall my beloved city."
+
+I took a few steps back from the conversation, let them talk it out. It wasn't something I knew enough about to interject.
+
+"That is why I wish to end my life here. This new body of mine is immortal and undying. I know not how I could be killed, but I ask that you attempt to do so."
+
+Chrona stood tall, "That...That isn't something I will be apart of."
+
+"Those with us may possess the ability to destroy you," Krog said while tilting his head to us.
+
+I closed my eyes, taking a deep breath. This wasn't something I wanted to be a part of. Not wanting to be disrespectful, I turned to them. Althea walked up to them, her rifle pointed up. Krog said,
+
+"What would you have us do?"
+
+Althea pointed at her chest, "Uh, me?"
+
+They nodded.
+
+She let out a sharp sigh, "Hm, I think you should try to live on. I know it's hard, trust me, I do. You have to push through until you get to brighter days though. Things could change for the better, and faster than you think."
+
+Emagrotha snapped, "Do not claim to understand what I've been through. This is no the normal torment of someone who's civilized. This is the wracking torment of nature in all its fury. You cannot comprehend the vast swaths of time I spent here. Do not claim to do so."
+
+I frowned as she said that. Althea was the only person qualified to talk to her about this since she was once on the brink of deforming into a monster at every moment. It took her time, but she got a handle on her darker nature, turning it into a potent weapon. Maybe that's why she was suggesting Emagrotha should press on. I mean, if Althea could do it, so could this goopy idol, right?
+
+That was Althea's logic if I guessed right. They continued the conversation, both sides getting heated.
+
+"I was deformed for a long time too. I learned to control it. Maybe you can too. Have you even tried?" Althea snapped back.
+
+"Of course I have, child. Decades of practice and I am not more than slush in a stone pit. This is no gift in disguise. This is a cursed fate worse than death."
+
+I had to agree with her there.
+
+"Don't you think these people helping you out would make the difference?"
+
+"A team of researchers attempted 'helping' me. I will have no more help of that kind anymore," Emagrotha said.
+
+Althea let her hands flop on her sides, "Well, don't ask me to help. I'm not enabling you to off yourself."
+
+Emagrotha hissed, "Good. I wouldn't want your assistance either."
+
+The argument got petty quick, neither side getting along with the other. Krog shook his head, "That worked far less than I imagined it would. What of you, darkened one?"
+
+"You mean me?" I said while pointing at my chest.
+
+"Who else here is a walking shadow of metal? What do you think of this?"
+
+I put my hands on my hips, walking back up to them, "I...I don't know. I was almost turned into something like this one time. A hivemind almost made me into a carrapace. I can tell you this much about it. If it actually had happened, I'd of wanted someone to kill me too."
+
+Althea crossed her arms, glaring at me, "What, you too?"
+
+I scratched the back of my head, "I mean, I want to live a certain way. If I were a shell for someone else, I'd be at their beckoning every moment of every day. It isn't a real life, and that's kind of what Emagrotha's situation looks like. She's at the mercy of anyone that comes in contact with her."
+
+I continued,
+
+"Besides if she's immortal, we can't guarantee her safety forever. What if a thousand years from now, some Old One's cult hauls her off to god know's where? She could be tortured for centuries without any ability to respond. I...I'm not willing to take on that kind of responsibility."
+
+Chrona's chest deflated as I said that, "I...I wasn't thinking that far ahead."
+
+Althea rubbed her forehead, looking frustrated, "But after all that's happened, anyone would be on the brink. We feed into this impulse instead of letting her think this over, and we might lose someone who could help us later. Just like Hod or me or Amara. People deserve a second chance, even if they don't want to take it."
+
+"Look, I agree with you. That's why I didn't kill those people off when I was given a chance. The difference here is that if we leave Emagrotha alive, other people could use her to make more Hybrids. One evil organization having that knowledge is plenty enough if you ask me."
+
+Althea spread out her hands, "What if Schema can use her to help cure the eldritch or something?"
+
+"Ok, you're not reasoning here." I raised a hand and counted on my fingers.
+
+"First off, I'm damn certain that Schema would order Emagrotha to be killed off. Period. She's a risk that isn't necessary. Second off, what if your right and Emagrotha is put in a research lab for all eternity? I don't think that's a good life for her. You of all people know what that is like."
+
+Emagrotha shouted, "Shove me into the void between the stars. Throw me into the sun. By my ancestors, leave me here to rot if you will. Anything is better. Anything but that. Please, not that."
+
+Althea looked back at Emagrotha. A bubble popped along the surface of her mush body like a boiling pot of lavender Pepto Bismol. Althea bit her lip, "Ok fine. I get it. Becoming a lab rat would be horrible. I was a lab rat too once. You don't want that again. I wouldn't wish that kind of thing on my worst enemy either."
+
+Althea pointed at Emagrotha, meeting her eye, "I'm with Chrona though. I don't want to be a part of this, even if Schema considers you an eldritch or whatever. I know you're not, and I'm not a murderer. Find someone else who's willing." Althea turned to me,
+
+"I already know someone who'd probably do it."
+
+I spread out my hands, "Jesus, do I look like a demon to you?"
+
+"You did earlier," Krog mused.
+
+Chrona slapped her tail on his side, "Your interruptions are unnecessary."
+
+Krog rolled his eyes, but he stayed quiet. I peered at the pit, crossing my arms, "I can probably kill you, though it might take a while. If you're ok with that, then I can make it happen."
+
+Emagrotha said, "As long as you don't drain me at the rate I regenerate as the beast was, then by all means begin."
+
+I turned to Althea, "You mentioned Schema considering her an eldritch, right? You sure you don't want the experience?"
+
+Chrona's eyes widened, "To speak of her in such a manner-"
+
+Emagrotha growled, "Silence. He is a pragmatist, as I once was. Let them gain value of my death. Better my saviors benefit from my demise."
+
+Althea shook her head, "It's not worth it to me. I can level up pretty easily by completing bounties or contracts from Schema. I don't want blood on my hand from this. Besides, I'm out leveling you already."
+
+She finished with a slight smirk. To verify, I glanced up at Althea's title, and my jaw dropped.
+
+Althea Tolstoy, the Formless Arbiter(lvl: 9,414 | Class: Breaker | Guild: Harbinger's Legion)
+
+I spread out my hands, "Man, I missed out on so much experience. Shit."
+
+"Yeah, well I'll miss out on some too. You can go ahead and do whatever with Emagrotha. I'll help give first aid to the wounded here."
+
+"Alright then. I'll see you when I see you I guess."
+
+Althea's chest drooped, "Just...try not to make it too painful, please?"
+
+I nodded, "Eh, I'll do my best."
+
+After the others stepped out, I turned back to Emagrotha. The two eyes floating on the mush sunk back into the slush. She stayed silent for a bit, and I gave her some space to think. As she did, I analyzed her to see what Althea was talking about.
+
+She wasn't kidding. Schema considered her a massive threat.
+
+Emagrotha, the Twisted One(lvl: 18,131 | Species: N/A | Guild: Hybrid) - This twisted abomination is all that remains of the once proud, factional leader known as Emagrotha. After losing her battle with Lehesion, she was turned into a being that was part silver, the two biologies sinking together into an absolute mess.
+
+According to written accounts by espen chroniclers, this occurred at the end of the gialgathen civil war, 75 years ago. Since then, a research facility was built around her after Schema assimilated Giess a quarter century ago.
+
+Little else is known about Emagrotha's new self. Her body produces enormous volumes of toxic sludge, and she has tremendous vitality. Her unusual makeup allowed the formation of numerous Hybrids. Without any means of fighting back, her threat level was determined to be so high due to her potential harm case.
+
+If studied, she may create beings that lead to the destruction of innumerable worlds. She must be destroyed at all costs and immediately.
+
+As I finished reading, Emagrotha spoke up,
+
+"Thank you for listening to reason. They'd allow me to be tormented for all time."
+
+"I can understand where you're coming from." I looked at her, "If you feel half as bad as you look, you must feel like shit."
+
+Emagrotha let out a laugh. "Humor. A rarity in this abyss." Her voice turned melancholy,
+
+"Perhaps it's almost fitting that I die like this. I was worshipped as a goddess during my days in the sun. I enjoyed decades as one unrivaled, aside from Lehesion. Now I've spent an equal time wallowing in a shadow."
+
+I charged mana in my blood, keeping the conversation casual,
+
+"What was Lehesion like?"
+
+"Bleck, a complete egomaniac. You'd think he'd walk with a mirror at all sides with how much he loved himself. I've never known a being with such a complete and utter lack of self-awareness. His mind was strong in some respects, however, and I'm not devoid of respect for him," she mused.
+
+"He did betray how your fight was supposed to go though, didn't he?"
+
+She let out a long sigh, "Indeed he did. Its the one blemish on an otherwise fairytale ending of his legacy. He disappeared after doing this to me. I've long wondered why. At first, I believed he did so out of embarrassment, unable to face what he did. That would be a fleeting motivation, however."
+
+"Really now?"
+
+"Shame fades given time. Guilt only grows until you actively face it. Lehesion never faced guilt as he never made a mistake up until that point. I believe he faced a dichotomy in his life, a schism in belief. On the one hand, he was a god, the brightest of all of us. On the other, he cheated to win a losing fight and did horror that to this day lives on."
+
+"Yeah, that sounds hard to deal with," I said with my voice shaking from my building energy.
+
+"For him. I know my faults and own them. He denies any mark that may mar the facade he chooses to maintain. At least he did when I knew him. Time may have changed him. Maybe he's reflected on his actions and decided to redeem himself if he even believes in his own redemption."
+
+I didn't tell her about how one of the Skyburner's mentioned Lehesion leading the effort to destroy Giess. Letting her die in a blissful ignorance would be better.
+
+"Yeah, that's might be it. Time will tell," I said while reaching out a hand.
+
+"It will, but only for you. This is the coming of my death and the end of my long life."
+
+"Are you ready?"
+
+"I am."
+
+I steeled my resolve, ready to finish killing her no matter what it took,
+
+"Then I'll make this as quick as I can. Goodbye, Emagrotha."
+
+For the first time, Emagrotha let out her words with a measure of content and peace,
+
+"May my afterlife be more merciful."
+
+The mouth closed,
+
+"Goodbye."

@@ -1,0 +1,233 @@
+---
+id: b1ed1a06-4efb-549c-963b-9aae03c519e7
+page-type-slug: story-chapter-royal-road
+title: "Chapter 7 – More than a Magpie"
+slug: 0007-chapter-7-more-than-a-magpie
+partOf: the-magpie-and-the-archmage-monster-evo-litrpg
+position: 7
+ownLength: 2137
+unit: words
+publishedAt: 2025-08-17
+link: "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2525592/chapter-7-more-than-a-magpie"
+royalRoadId: "2525592"
+---
+
+"Chak-chak…" Liora let out weakly. She had been running on pure adrenaline before, because once she returned to her nest, the pain hit her like a truck. The giant one that carries cement blocks or something. Because damn, did it hurt!
+
+"You don't sound good at all…" Renir noted nervously. "We should initiate your evolution as soon as possible."
+
+"Caw!" She screeched. "I'm a bit busy here."
+
+Her leg was bleeding horribly. A good chunk of her nest and treasures had already been stained with blood. She hadn't thought that the situation was this bad. It was merely a broken leg, no?
+
+But the amount of blood she was losing was really concerning. Liora tried pressing moss against the wound, but the pain was too much. She couldn't hold the pressure on it for more than a few seconds.
+
+"Alright, enough. We're doing that evolution before you bleed out on me. I don't want to sit in this hole, watching your corpse rot and be eaten by maggots!"
+
+"Chak-chak-chak!" She retorted. "How nice of you!"
+
+I got injured to save your stupid ass and this is my thanks. If that gem wasn't so beautiful, I would have just given it up to the hawk and lived with no worries.
+
+"Stop whining and ask the System to show your evolution options. Make sure to hold me so I can see them too."
+
+Liora grabbed the gem and settled him by her side, the unbloodied one, and brought up the System screen with the evolution options.
+
+[You can choose one of the following three evolutions.]
+
+[Runefeather Magpie]
+
+[Your feathers become highly attuned to mana, allowing you to increase the potency of your magical attacks and learn the arcane arts no normal corvid can. Allows you to purchase a wide variety of basic spells.]
+
+[Cost: 6 glimmerstones]
+
+"That's a great option! A fully specialized magical bird. You should pick this evolution!" Renir said excitedly. "Imagine the possibilities. I wonder if you'd gain more access to more specialized air and sound-based spells, or will it give more general options, like fire or ice?"
+
+"Caw!" Liora reprimanded. "Calm down, silly human! I haven't even seen the other options yet."
+
+Also, I'm rather suspicious of the "purchase" bit of that description. It appears I'll have to spend glimmerstones to get these magic skills. But what if I don't want to do that? I'll be stuck as a magical magpie that can only Peck and Air dive. Also, six whole glimmerstones to evolve into this magical bird? No, thank you!
+
+[Steelbeak Raptor]
+
+[Your beak, talons, and feathers will resemble steel as you cut through your enemies. Rule the skies with power comparable to the strongest of predators.]
+
+[Cost: 4 glimmerstones]
+
+"The brute option. I suppose it makes sense—every evolution or advancement has one. I'd skip it if I were you," Renir commented.
+
+I actually have to agree. While it is cheaper, it is trying to turn me into a murder machine. Also, judging by the name, it'll change who I am, turning me more similar to that accursed hawk. I want to remain my beautiful corvid self.
+
+[Duskwing Magpie]
+
+[Fly without producing a single sound, unheard and unseen by anybody. Shadows will shield you from sight. Nobody will see you until it's too late.]
+
+[Cost: 5 glimmerstones]
+
+"Sounds like an assassin bird? Well, it'd certainly suit your fighting style. But think about this carefully—don't you want to learn magic? Create hurricanes with just a wave of your wings. Or produce your own electricity just like those toads! Imagine becoming an electric thunderbird? Nobody would be able to stop you," Renir raved.
+
+That guy is definitely biased towards magic. But he is right that this would suit my fighting style. Being silent and unseen? Yes! I definitely want that. Nobody can ambush me like that hawk if I'm invisible. It's a shame that it's a bit more expensive than the raptor, but I guess I can accept that slight difference.
+
+Liora felt herself grow faint. She was losing too much blood. There was no time to ponder the choice any longer. Liora decided that stealth was the right option for her.
+
+"Chak-chak-chak!" She announced. "I choose to become a Duskwing Magpie!"
+
+Before she even realized what had happened, she passed out. The last thing she heard before her head hit the moss was Renir.
+
+"Make it out, Liora. Without you, I'm as good as dead."
+
+Liora had no clue how much time had passed. But when she woke up, it seemed like nothing had changed. It looked like it was afternoon, just like before. She certainly felt much better, so Liora tried getting up. Looking around the nest, she saw the blood had gone dark and hard, indicating that a good while had passed.
+
+"Chak-chak-chak?" She questioned, scanning the nest for the gem. Liora almost panicked when she couldn't find it, but then she felt something sharp in her side.
+
+Right, I put it there so the human could see the System screens.
+
+"Finally! I thought I'd die of boredom," Renir grumbled. "The evolution looked like it finished half a day ago, but you just wouldn't wake up, even when I called you."
+
+Her body felt stiff, as if she had slept for far too long, which was probably true. But she wasn't in pain anymore. She looked at her broken foot to find it in perfect condition. No blood, no mangled fingers.
+
+But there was something different about it. It seemed a bit longer, and her talons looked sleeker. She scratched them against the tree and found them cutting through it with ease. There was no way she could do something like that before.
+
+"How do you feel? Good? Bad? I have to say it was absolutely fascinating observing evolution so close. Watching how your body subtly changed. I wish I could have taken notes, but I did memorize the process to the best of my ability."
+
+Gross! That feels like an invasion of privacy!
+
+Liora tentatively moved her body to see what had changed. It felt stronger, sleeker, and better. Also, a bit bigger as she couldn't fit into the tree hollow as snuggly as before.
+
+"Good," she mimicked, and stretched out her wings.
+
+Liora could see that her wings were longer in proportion to her body. Her feathers also had this odd misty effect. She couldn't quite explain—in a way, their color hadn't changed, still being the beautiful iridescent black with green, blue, and violet flashing throughout.
+
+But it was harder to see them. It wasn't a problem with her eyesight either. Everything in the nest looked so much clearer than before. But her feathers had an almost ethereal quality, wishing to remain unseen.
+
+"Duskwing Magpie, huh? It's a subtle difference, but you certainly look more… mysterious. It suits you," Renir hummed. "Now, open your profile. I want to see what new abilities you gained."
+
+[Profile]
+
+Name: Liora
+
+Species: Duskwing Magpie
+
+Level: 1
+
+Health: Small
+
+Mana: Meager
+
+Glimmerstones: 60
+
+Skills (3/10):
+
+Mimicry [Novice]
+
+Peck [Basic]
+
+Air Dive [Basic]
+
+Traits (4/10):
+
+Keen Vision [Innate]
+
+Treasure Sense [Basic]
+
+Aerial Agility [Adept]
+
+Night Vision [Basic]
+
+Next Evolution: Requires Level 20 and ??? Glimmerstones to unlock
+
+"Free night vision trait—not bad," Renir said.
+
+Liora, on the other hand, wasn't so impressed. Sure, her health and mana have improved somewhat, going to small and meager, respectively. But when somebody said evolution, she was expecting something more than just Night Vision.
+
+"What's with that look? You don't seem very impressed."
+
+"Not impressed," she agreed.
+
+"That's because you're Level 1, you dummy! You think you'll be handed all the strong abilities right from the get-go? No way. Of course, if you'd be willing to spend some glimmerstones, you could get some awesome skills right away."
+
+"No!" She objected.
+
+"But, but, but… the skills… Don't you want to get stronger?" Renir exclaimed in frustration. It was an odd thing—seeing a rock be angry at you.
+
+"Want," she replied.
+
+"Then buy a skill!"
+
+"No!"
+
+"You stupid, treasure-obsessed birdbrain!"
+
+[New skill acquired – Glimmerlust.]
+
+[Rewards your desire to hoard glimmerstones. At [Basic] level gives you a 0.01% power and speed bonus to all your skills per glimmerstone owned.]
+
+Liora grabbed Renir's gem so he could see the notification. At that moment, she wished she could see Renir's face, because she was certain the expression would be priceless.
+
+"D-Did you just get rewarded for not wanting to spend glimmerstones?"
+
+"Chak-chak-chak!" She laughed deliciously.
+
+Liora was really starting to like this System. It understood the importance of saving shinies. Unlike this human. How could he not get it that treasure had to be hoarded? He was a treasure himself, for crying out loud.
+
+No matter. I'm sure that eventually he'll understand. Once I'm able to mimic human speech better, I'll explain to him exactly how great treasure is and how crucial it is to have as much of it as possible.
+
+A loud groan came from the gem. "I can't believe it. I swear this thing has become sentient at this stage."
+
+Liora cocked her head curiously, not understanding what he was talking about.
+
+"Never mind that. Something I hadn't expected, that's it. Let's return to important matters. Because, quite honestly, both of us are currently in deep shit."
+
+"Chak-chak-chak!" She protested. "What are you talking about?"
+
+Sure, her nest was dirty from all the dried blood, but that certainly wasn't something to flip out about.
+
+"The hawks! You were out for a whole day. I'm certain that there's a whole bunch of them patrolling this forest, looking for that one magpie with an amber gem."
+
+Oh, right! I felt so happy about not dying that I forgot about that.
+
+"We can't stay in this forest," Renir said.
+
+"Caw!" She screeched. "You want me to abandon my home? My nest?"
+
+"You're angry that I want you to leave the nest, right?"
+
+"Nest. No. Leave!" She said, mimicking bits and pieces of Renir's words.
+
+"We have to. You can't just sit holed up in here forever."
+
+"No. Leave. Nest!" She objected.
+
+Liora was ready to stay holed up in here if there was no other choice. She had Night Vision, so it was possible to get food at night. But then again, those weren't normal hawks. Who was to say that they didn't have Night Vision, too?
+
+"Okay, let's play out this scenario. You stay holed up in this nest. No idea how you intend to get food and water undetected, but for the sake of the argument, let's say that it is possible. What do you think those guys will do?"
+
+Liora thought about it for a moment, falling silent.
+
+"Who do you think will suffer? Them?"
+
+No… It'll be the forest. Those mages are ready to do anything to get Renir's gem, even die for it. They'll start hunting every magpie they see. Heck, I wouldn't be surprised if they decided to burn the whole forest to the ground. After all, the gem wouldn't burn.
+
+"Forest. Suffer," she said, her head downcast.
+
+"Yeah, good. You catch on quick. If you care about your bird friends, we have to leave."
+
+He's right. But we can't leave silently, otherwise they'll just keep harassing this place. They need to see us leave.
+
+Liora began rummaging through her treasures. She was sure that she had it here somewhere. Before long, she fished out a little gold-colored satchel that could be closed by tightening the thread on the top. Carrying the gem in her claws was tiresome, and she was scared of dropping it during a fight. This was by no means an ideal solution. The gem would still weigh her down. But it was better than just keeping it exposed.
+
+"What's that for?" Renir asked curiously.
+
+In response, Liora opened the bag using her talons and beak and slid the gem inside.
+
+"Hey, I can't see anything like this!" He complained.
+
+How can you even see without any eyes?
+
+"But this isn't a bad idea. I assume you agree that we need to leave. Yes?"
+
+"Yes," she said, sadly.
+
+Liora hopped to the entrance and threw a glance back at all the treasures she had hoarded. Her heart clenched at the sight—she wanted to stuff as many of them as possible into the little pouch. But she wasn't willing to risk getting weighed down any further.
+
+She was also sad that she'd have to leave all of her magpie sisters and brothers behind. They had been good to her, and she had developed a strong sense of camaraderie with them. Looking out into the beautiful forest, she realized how much she'd miss it.
+
+But if she stayed, then the forest and her brethren would suffer. She had to leave, and she had to lure the enemies after her. It was time to try out her new wings.

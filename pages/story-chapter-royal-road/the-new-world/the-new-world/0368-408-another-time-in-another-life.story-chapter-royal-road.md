@@ -1,0 +1,671 @@
+---
+id: 7b1bb91b-6439-5a0a-9bd1-4d1736ce9381
+page-type-slug: story-chapter-royal-road
+title: "408 Another Time In Another Life"
+slug: 0368-408-another-time-in-another-life
+partOf: the-new-world
+position: 368
+ownLength: 4627
+unit: words
+ownProgress: 4627
+publishedAt: 2025-04-06
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2177905/408-another-time-in-another-life"
+royalRoadId: "2177905"
+markedReadAt: "2026-06-29T21:33:56.627Z"
+---
+
+I flicked his forehead again. Neel rubbed the spot.
+
+"It'd be real nice if a sexy grandma was rubbing my damn forehead instead of little ole me. Hell, it'd be even better if she rubbed somewhere else-"
+
+I raised my hands.
+
+"Will you shut the hell up?"
+
+Althea burst into a fit of giggling. She kept laughing until tears ran down her eyes. She wiped a tear.
+
+"Oh, I wish Kessiah was here."
+
+I dragged my hands down my face.
+
+This was going to be a long trip.
+
+Chapter Begin
+
+I walked over and helped pull Neel up.
+
+"Don't you have to go pack or something?"
+
+Neel grabbed my hand and jerked himself upright.
+
+"You're right about that. I'll give you two lovebirds a minute while ole grandpappy gets a move on."
+
+He gave my shoulder a pat.
+
+"You did good, son. Like, real, real good."
+
+He walked off towards the rehab center while shouting.
+
+"I'm gonna have grandkids, everybody."
+
+Althea shook her head with a smile on his face. I frowned. Althea turned to me.
+
+"So what's going on here?"
+
+I turned a hand to her.
+
+"I was actually going to ask the same thing. What are you even doing here?"
+
+She pointed at a building right beside the rehab center.
+
+"I was checking out the educational and orphanage programs here in Chicago. So far, so good, but there are a few details I had to help them iron out. Anyways, lots of people ran in talking about how the Harbinger of Cataclysm was visiting the rehabilitation center. I went to check it out before seeing you and Neel."
+
+I nodded, a mischievous grin on my lips.
+
+"Ah, so now you're spying on me? Rude."
+
+She smirked.
+
+"Only when it's convenient."
+
+She hit my arm.
+
+"Speaking of, when did you plan on telling me about Neel? He seems like a great guy. Also, you're pretty mean to him. I heard you in the dungeon."
+
+My eyes dimmed, a shadow looming in me.
+
+"I've told you about my mother and father. Neel knew about what happened, and he never visited after my mother died."
+
+Althea furrowed her brow.
+
+"Oh...That's pretty unkind of him."
+
+I nodded.
+
+"We really needed his help then, and he let us down. He abandoned my grandmother as well to go off and get high. If anything, he's crumbled under even the slightest modicum of responsibility anytime it rears its ugly head in his life. He's just like my dad that way. Neither of them could handle pressure."
+
+For some reason, I shivered. Althea put a hand on my shoulder.
+
+"I know it's hard to talk about."
+
+I smiled at her.
+
+"It's nothing. Anyway, enough about my melodramatic sob story. We haven't talked in a bit, have we?"
+
+She smiled up at me.
+
+"We've both been pretty busy. I know you've been helping out with the golems and all that other stuff. It's honestly been pretty crazy out there. The dungeons, there changing into this entirely different, er, thing than what they were before."
+
+I peered at the spatial fog.
+
+"I know what you mean. It's like they're dropping slices from other worlds right on top of Earth, and we just have to deal with the outflow of monsters that flood out."
+
+Althea put a hand on her hip.
+
+"We got it covered, I think. It's just a bit...Worrisome, you know?"
+
+I remembered my visions from Baldowah.
+
+"Oh, trust me, I do."
+
+Neel jogged up, having packed in only a few minutes. A dimensional storage ring carried that kind of advantage, but he strapped down plenty of gear to himself. On his sides, two knives made of my dimensional fabric oozed ascendant mana. He carried a series of vials full of different energies alongside a set of scrolls over his chest. It was like a wizard's bandolier.
+
+Althea smiled at him.
+
+"You look prepared."
+
+He grinned her way.
+
+"And you look stunning. Compliments aside, you can never be too careful. I remember this one time in Nam where six Viet Cong stormed our encampment at night. I was the only one in my troop sleeping on my rifle, and that's why I'm still alive while my buddies aren't."
+
+I furrowed my brow.
+
+"That's hard. It's not wonder you wanted to forget it all."
+
+Neel waved his hand.
+
+"The saddest part wasn't the Viet Cong coming at us. It's that I killed three of my pals when I panicked. See, I had done the right thing by putting my rifle under my pillow, but I hadn't mentally prepared myself to use it. That's why you can't just have a contingency plan. You gotta have the resolve and composure to carry it out even under duress."
+
+Althea put her weight onto one leg.
+
+"That's wise of you to say."
+
+Neel stood taller. I frowned.
+
+"You were high on meth, weren't you?"
+
+Neel shrugged.
+
+"Guilty as charged. Are we heading out?'
+
+Althea shrugged.
+
+"It's up to Daniel. I just handled my business and don't have anything I need to take with me."
+
+I turned to her.
+
+"You're coming with?"
+
+She pursed her lips.
+
+"Of course. Unless you're so ashamed of me that you don't want me to see your family."
+
+I leaned back.
+
+"Of course not."
+
+She tilted her head, her hair swinging behind herself.
+
+"Then prove it. I want to meet them. If we ever get married, they'll be the closest thing to relatives we get."
+
+I winced at the prospect. Neel walked up and smirked.
+
+"Honey, let's just say you ain't been missing much."
+
+Althea smiled, the expression lethal.
+
+"I'll be the one to decide that."
+
+Neel gulped. He adjusted his potion bandolier.
+
+"We gone then?"
+
+I answered him by casting gravity wells over each of us. Althea and I elegantly hovered up while Neel scrambled back and forth. Neel shook his hands in frustration.
+
+"I'm a bit too old to be carried around like some toddler-"
+
+A loud, shearing crack echoed from his back. Neel nodded as his eyes closed.
+
+"By god. My back hasn't felt this good since this one time two soldier buddies put me on a medieval torture rack. Painful, but by golly, it was worth it."
+
+Althea and I stared at each other before looking back at him. Neel rolled his eyes.
+
+"I lost a bet, but I had the last laugh...It ended up curing my sciatica."
+
+Althea giggled before we flew up and out of Chicago. I couldn't travel as quickly as normal since Neel had wicked motion sickness. That gave us a few hours to chat. We found a conversational flow that usually entailed Neel telling an insane story before Althea laughed at my reaction to it. Despite myself, I had to admit it was so, so much more fun than spending my days alone crafting golems or training my mind.
+
+But I never stopped training my excess minds. Not for a single moment. I was always tired, but my mind expanded to the point where I could handle it. Besides, it wasn't as if I needed all of myself to chat, and even having a single mind enraptured in the levity of conversation...It was an antidote to my disillusionment.
+
+It reminded me of what I fought for and who I was amidst the mind-bending shenanigans I found myself knee-deep in all the time. As with all good things, it came to a close as we passed towns under siege. While passing any cluster of eldritch or struggling settlement, I landed, made a golem or two, and donated a ton of generated supplies.
+
+Althea paired that with knowledge about how to contact our guild's services alongside a care package of common antidotes she made on the spot. Even Neel offered a course on basic defense skills and easy trees to gain. It was the grunt work that felt oh-so-fulfilling amidst this broken world.
+
+My expansion mission gave us the means to help out the more densely populated parts of the world, but we lacked the manpower to arm every town with a helper. A part of me wanted to drop everything and just fly around beside Neel and Althea, helping people out and talking our days away. It was fun, light, and a change of pace.
+
+But I would never let it happen. I was a golem of my ambition, and I would see it done.
+
+After a week, we crested onto the beginning of the rocky mountains. The snowcapped bulwarks stood the test of time or the panic of an apocalypse, their appearances unchanged from when I last saw them as a child. Seeing the sheer height and size reminded me how small Mt. Verner really was. The majestic feature also exposed how beautiful Earth had been before every damn landmark was turned into some eldritch-infested hellhole.
+
+Denver spread out beneath the peaks, parts of the skyscrapers torn apart by some unknown beast. It still carried that scenic vista if you ignored the plumes of smoke and distant roars from enormous monsters. As we came closer to Castle Rock, Colorado, Neel spat down on the ground.
+
+"Ugh. I hate this town. I hate the Hillsides, too."
+
+Althea frowned.
+
+"What's wrong with this place?"
+
+Neel took a breath.
+
+"It's the strangest damn thing. Castle Rock ain't the richest part of Denver by any stretch, but if you come from the boonies, they had a habit of looking down on you like nobody's business. That was my experience, anywho. It was kind of like they moved this far up in elevation just so they could look down on everywhere else."
+
+Althea's eyes widened.
+
+"Where did you come from?"
+
+Neel smirked.
+
+"Lousiana. Bayou country and the world's hotspot for grilled gator. I got a mean recipe if you ever want to try it."
+
+Althea murmured.
+
+"Huh. Maybe Castle Rock doesn't like gator that much."
+
+Neel laughed.
+
+"They just like living up high so they can look down low, is all."
+
+I raised my brow.
+
+"Are you sure their judgment wasn't just a side effect of how you chose to live your life at the time?"
+
+Neel frowned.
+
+"Maybe. Maybe not, but I'll say this and drop it - they sure as shit judged you, too, didn't they?"
+
+My eyes grew distant, and Althea peered at me, her eyes piercing. I sighed.
+
+"Let's just get this over with."
+
+As we went over the Southern part of Denver, the namesake of Castle Rock rose up like a bad punchline. Even as a child, I always saw the tiny hill and boulder on it as a distraction from the majestic mountains in the distance. It felt like the town itself was trying to steal a glory that wasn't their own, in a way.
+
+Of course, those thoughts stemmed from my childish ideas at the time. Apparently, Neel agreed. He took a breath and opened his status.
+
+"So the lead I got was from this guy called Billy-Bob. He was a guy I met in-"
+
+Althea pointed at him.
+
+"Nam?"
+
+Neel leaned away from her.
+
+"What? No. Billy-bob was a stockbroker from New York. He was one cutthroat guy before he lost his wife in a car accident. He moved out here afterward and basically turned into a hippy. We met when I tried finding a dealer in the area. It turned into a lifelong friendship after we got high on shrooms one time."
+
+Althea's eyes widened.
+
+"Shrooms? Like the eldritch?"
+
+Neel scoffed.
+
+"If they send you to another world, then sure. Why not?"
+
+Althea put a fingertip to her chin.
+
+"They do teleport a lot, but they're not high-level enough for planetary travel."
+
+Neel frowned.
+
+"Then they ain't got nothing on good ole shrooms. Psilocybin is a hell of a drug."
+
+Althea rolled her eyes.
+
+"Psilocybin isn't even that effective. It's not even that great at inducing hallucinations in monsters or for elevating pain tolerance."
+
+Neel shook his head in surprise.
+
+"You know about psilocybin but not shrooms? What in tarnation."
+
+Althea pulled several syringes out of her backpack. Each vial glowed brightly.
+
+"Yeah. I work with a ton of compounds. I use them to help me fight."
+
+Neel's eyes widened in terror as she flashed the syringes. He turned away.
+
+"That's...That's good for you. We should focus on the mission, though."
+
+Althea formed angel wings on her back before diving down over the city.
+
+"Sure. I'll search for the leaders and try to establish some kind of contact here. It shouldn't be that long before we find who's who and learn the lay of the land or whatever you guys call it."
+
+I peered at Neel, my gaze scathing and full of menace. Neel wasn't even aware of my glowering since he wrestled down some demons of his own. He sputtered out.
+
+"Let's do that. Daniel and I will go talk to Billy-Bob."
+
+We split up, and the further we got from Althea, the more relaxed Neel became. As we arrived at a suburban home amidst the dilapidated residential areas, Neel landed without a care in the world. As we stood in the street, I stared at him with all my minds gazing his way.
+
+"What was that reaction to her methods of battle?"
+
+Neel blinked before laughing sheepishly.
+
+"Oh, come on. It's crazy seeing someone carry around a bunch of glowing vials. And, uh, I just didn't expect little ole her to use something like d-drugs to fight. It just caught me off guard, is all."
+
+I narrowed my eyes.
+
+"You sure about that?"
+
+He took a breath and met my eye.
+
+"I am, son. I am."
+
+I nodded before giving his shoulder a pat.
+
+"Good on you, man. I was worried you were having an enormous wave of temptation at the sight of a few compounds, but obviously, I was overreaching. Anyways, let's go meet this guy."
+
+Neel let out a held breath.
+
+"Yeah, it's about that time."
+
+As we stepped forward, Neel let me take the lead. I turned back.
+
+"You're his friend, right? Shouldn't you be the one chatting it up?"
+
+Neel rolled a hand.
+
+"You tend to make a more lasting impression."
+
+I raised my brow before stepping up the driveway. As I walked up the stairway, a hidden beatrap closed onto my leg, the bricks unleashing a set of metal teeth. They shattered against my shin plates, and I kept walking up. At the doorway, two logs exploded out of hidden pockets, each plank of wood thick enough to crush through car windows.
+
+They pulped against my face, not even a mark left on me. As sap dripped from my cheeks, I turned to Neel.
+
+"You never mentioned a ton of traps in your introduction to this guy?"
+
+Neel hid behind me.
+
+"It's just a part of meeting old friends. Can you knock on the door?"
+
+I did, and three hidden compartments opened as a shotgun, a high-caliber sniper rifle, and a minigun fired at me. The bullets crumpled to dust against my metal skin, and I reached out a hand before pinching the barrels of the minigun together.
+
+The metal squealed in agony before I wrenched it out of the wall. I ripped half the door out and shattered the stained glass holding it together. I continued pulling the metal weapon into my hand, feeding it into my palm using my fingers. It scrunched together like wadded paper before I tossed it behind me. After it let out a deep thump on the ground, I turned to Neel.
+
+"So you're on good terms with this guy?"
+
+Neel spread his hands.
+
+"I mean...In a manner of speaking, sure."
+
+I turned forward before walking through the doorway. It gave way under the weight of my momentum, and I entered the living room like a breaching round. I raised a hand and snapped my fingers. The chimney at the center of the rusticly decorated space exploded, revealing a soot-covered individual. A short, fat man covered in dark dust shivered. He murmured to himself.
+
+"The Vietcong...They're going to get me."
+
+I turned to him.
+
+"You said that Billy-Bob wasn't from the army? You lying sack of sh-"
+
+Neel shook his hands.
+
+"Hey, it felt bad to be that predictable, alright? It isn't like I want to be a stereotype."
+
+Billy-Bob turned to me, and he winced.
+
+"They...They're finally here."
+
+I set him down on an antique sofa.
+
+"Hey. We're just taking a moment to look for some people."
+
+Billy-Bob trembled.
+
+"They've come. They're here."
+
+I turned a hand to him.
+
+"You've really outdone yourself with this source, Neel. Grade A Stuff, I got to admit."
+
+Neel raised a hand before lunging to one knee. He got close to Billy-Bob, and Neel put a hand on Billy-Bob's cheek. Neel put his forehead against Billy-Bobs.
+
+"Listen to me. You're just fine. I'm here with you."
+
+Billy-Bob shivered for a bit before calming down. Neel pulled his face back and lowered his hand before smiling.
+
+"We were wondering where the Hillside family was. Any ideas?"
+
+Billy-Bob blinked before nodding.
+
+"They...They. I can hear them."
+
+I walked forward before ascendant mana surged in my runes. A menacing smile grew over my helmet before I siphoned the mana out of Billy-Bob using Event Horizon. He stopped moving and collapsed before Neel stood up and turned to me.
+
+"What in the hell are you doing, boy? I'm about ready to smack you."
+
+I turned to him, my voice heavier than iron.
+
+"You forget yourself."
+
+Neel blinked before taking a step back. He clasped his hands to fists.
+
+"Gah. Just say what you're doing before you do it."
+
+I narrowed my eyes.
+
+"You've seen my guild and how I conduct myself. Show some trust while I save a tortured soul."
+
+Billy-Bob stopped trembling before a wave of clarity washed over him. He took deep breaths before he peered up at us. He spoke in a New Yorker accent.
+
+"I haven't felt this clear since the 2008 financial crisis."
+
+Neel smiled at his old friend.
+
+"You're looking like dirty, chewed-up shoe leather."
+
+Billy-Bob took a breath before standing up. He brushed himself off.
+
+"And you look like Colonel Kurtz if Marylyn Brando was anorexic."
+
+They clasped hands like in an 80s action movie before Neel raised his brow.
+
+"I missed you, you sonofabitch."
+
+Billy-Bob looked up at me, fear palpable in his eyes.
+
+"You don't have to worry about missing me for long. This right here's my sleep-paralysis demon. Just when I thought my head had finally cleared up, the vision's more realistic than ever."
+
+Neel walked over.
+
+"Demon? No. This is my grandson, so show some respect if you don't mind."
+
+Billy-Bob nodded before reaching out a hand.
+
+"Billy-Bob Delacroix."
+
+I shook his hand.
+
+"Daniel Hillside."
+
+Billy-Bob's eyes widened.
+
+"You? You're Daniel? That little shit?"
+
+I smiled, but the expression didn't quite reach my eyes.
+
+"In the flesh. More like steel at this point, though."
+
+Billy-Bob took a step back. He eyed me up and down.
+
+"Of all the people to succeed in the apocalypse, you were the last person I expected to see."
+
+I frowned.
+
+"Is that right?"
+
+Billy-bob nodded.
+
+"Oh yeah. I thought you'd go full psycho and kill your whole hometown."
+
+A bit of mana leaked from my runes. Neel clapped his friends back.
+
+"Billy-Bob's just regained his consciousness after a long sleep. He's not thinking with his right mind."
+
+Billy-Bob blinked before looking up at me. As if realizing how physically imposing I was all at once, he fell back onto the sofa. He stammered.
+
+"I...I-I'm sorry, Daniel, sir. I didn't mean any disrespect."
+
+His fear gave me no joy, satisfaction, or contentment. If anything, I felt cheated out of confronting this asshole. Now, he wouldn't give me the chance to say my piece. Instead, he'd be whimpering out of fear the entire time. As if sensing the tension, Neel spread his arms wide.
+
+"How in the hell did you fix him up so fast anyway? I always thought it was the Agent Orange that made him all loopy like that."
+
+Billy-Bob shoved Neel's arm. Billy-Bob scoffed.
+
+"You always think it's Agent Orange."
+
+Neel's eyes narrowed.
+
+"Cuz it almost always is."
+
+I turned a hand to them both.
+
+"I did a psionic checkup. He was struggling with mana poisoning. He had an embedded consciousness that was wrestling for control. I took it out by sapping his mana."
+
+I pulled my helmet off my face, my appearance no longer as threatening.
+
+"And you must have some pretty gnarly sleep-paralysis demons."
+
+We took a few minutes to let Billy-bob relax, brew some tea, and get the guy hydrated. He'd crawled up his chimney in a panic after we arrived, and the ascendant mana drove his paranoia through the roof. He thought he'd contracted schizophrenia forty years ago when he was a teenager, but apparently, he'd managed his condition until the system started.
+
+That fired off alarm bells. He shouldn't have had ascendant mana inside his mind until after the system started. To fix my curiosity, I sat down on a gravity well, and they were on the sofa. I leaned forward.
+
+"I'm glad you guys are catching up, but we have some people to hunt down."
+
+Billy-Bob frowned.
+
+"Ah, is it the Hillsides? Are you here to even the score against Deryll after he smacked you good that one time?"
+
+I raised a brow.
+
+"You mean the backhand? No. I'm here to find my father."
+
+Billy-Bob shook his head in disgust.
+
+"Oh, Jacob's still alive? It's crazy how the worst of us seem to die last. He passed through a couple of years after the system started. I heard he escaped with some hussy into the Rockies."
+
+I couldn't help but pity that poor woman. I glared at a window.
+
+"We'll need something more specific than that. Do you have any more details?'
+
+Billy-Bob scratched his chin.
+
+"Huh. I don't know anything about Jacob, but I do know where the Hillsides settled down."
+
+Neel scoffed.
+
+"Sorry, Billy, but we're in a rush, so let's cut to the chase. Where'd they go?"
+
+Billy-Bob shook his head.
+
+"They settled down in Cherokee Ranch and Castle from what I last heard."
+
+I opened my status.
+
+"Isn't that a museum? Or like a wedding venue, right?"
+
+Billy-Bob threw his hands up.
+
+"What can I tell you? The original owners and a few other settlers died during the system's initial outbreak, and they were the first to take out the dungeon in the area. I actually think Deryll's the one that made it happen."
+
+Neel frowned.
+
+"Ugh. Piece of trash who beats on kids."
+
+Billy-bob furrowed his brow.
+
+"Didn't you do that too?"
+
+Neel waved him off.
+
+"But Jacob had it coming."
+
+The simple statement was a reminder of who Neel had been and likely still was. I stood before rolling my shoulders.
+
+"Come on. I don't have time to waste here."
+
+Neel turned to Billy Bob. My grandfather smiled.
+
+"It's good to see you're doing better than I expected."
+
+Billy-Bob coughed up some soot.
+
+"You weren't expecting much, were you?"
+
+"Not a bit. Take care of yourself, you hear?"
+
+"You too, and don't ever forget the vision we saw."
+
+"I couldn't if I tried."
+
+They clasped hands one last time before we headed out. As we walked onto the street, I turned to Neel.
+
+"What was the vision you both had?"
+
+Neel peered at the sky. He pointed up.
+
+"See that there? There was a moon and an ocean of wine. There was something spiritual about the place. A voice told us to embrace consequence and finality. The certainty in that voice let me move on from the war. I felt like I could trust it."
+
+I narrowed my eyes.
+
+"When did that happen?"
+
+"Ooh, probably the summer of 82. The hippy thing was long past its prime, but we were keeping it alive."
+
+I smiled, the expression menacing.
+
+"I've heard that voice too."
+
+Neel leaned back.
+
+"Really now? Did it help you move on from something hard, too? It doesn't look like it."
+
+I scoffed.
+
+"It gave me the courage to challenge beings greater than myself."
+
+In the middle of the street, Althea materialized. Neel tossed one of his knives at her before she caught it between her fingers. She grinned.
+
+"Did I scare yah?"
+
+Neel's hand shook before he let it down.
+
+"Sorry about that, but it's not the best idea to sneak up on veterans. We have a habit of reacting with force."
+
+She tossed the knife back at Neel. With inhuman accuracy, it snapped into his sheath as she laughed.
+
+"I'll take my chances. But uh, what did you guys find?"
+
+I pointed off in the distance.
+
+"Where the Hillsides are. You?"
+
+Althea frowned.
+
+"I learned how greedy people can be when you offer help. Again. These people asked if I could rebuild a ski resort. You'd think they lost their minds."
+
+I shrugged before pulling everyone up.
+
+"They might have, or maybe they were looking for the sweet taste of nostalgia."
+
+Neel adjusted himself for a second.
+
+"I think I'm getting the hang of this-"
+
+He leaned over and vomited for a bit. He wiped his mouth.
+
+"For sure. I definitely am. The projectile vomit lacked the same force, yunno?"
+
+Althea laughed as I shot us forward. By now, Neel didn't want to throw up every thirty seconds as we flew. In ten minutes, we neared the supposed castle. It was an inspired design and rested on a hill that overlooked the rocky mountains. I will say calling it a castle felt like a bit of a stretch.
+
+As we neared it, I shrank to someone a bit shorter than Althea. I molded my armor as much as I could before turning to Neel.
+
+"Do you have extra casual wear of some kind?"
+
+Neel scoffed while opening his personal storage.
+
+"What for?"
+
+I grabbed a T-shirt and jeans and began putting them on. After getting them over me and molding my helmet down, I looked as normal as I could. I floated ahead of Althea.
+
+"How do I look?"
+
+She smiled.
+
+"Like a handsome soldier who needs more constitution."
+
+I frowned.
+
+"Ah, and girls say height doesn't matter."
+
+Althea raised her brow.
+
+"Most of them are lying, but I think it's a sweet thing to spare some feelings."
+
+Neel grunted.
+
+"As sweet as honey laced with Tylenol."
+
+I frowned.
+
+"That's a pretty specific example."
+
+Neel narrowed his eyes.
+
+"I had this lady try and poison me with it one time. She had me drunk before handing me some honeyed coffee to sober up on. The Tylenol was there to induce liver failure or something."
+
+I raised my brow.
+
+"Did it work?"
+
+Neel frowned.
+
+"Like a charm. I barely made it out of that lady's grasp alive. You see, she was necrophiliac. Wanted a big lug to hug her no matter what he wanted."
+
+We neared the castle grounds, more like an excellent wedding venue than a european castle. After landing in the front, I gestured to Neel.
+
+"Do you mind being the lead on this one? I want to lay low for now."
+
+Althea turned to me.
+
+"Would you mind explaining what the disguise is for? You're usually not someone who avoids making a splash."
+
+I met her eye.
+
+"I don't want to terrorize them when we meet. I feel like if I did, I'd lose this opportunity to confront my past."
+
+They nodded, not needing another reason. We walked to the front entrance before Neel knocked on the door. After a minute of waiting, a large, burly man opened the door. Instantly, I got flashbacks as I saw his hand. The guy still wore his graduation ring and the same shit-eating grin.
+
+"My name is Deryll Hillside. Who might you three be?"

@@ -1,0 +1,275 @@
+---
+id: 402673a6-68c3-569c-b243-dc0498344cc6
+page-type-slug: story-chapter-royal-road
+title: "The Path of Ascension Chapter 387"
+slug: 0085-the-path-of-ascension-chapter-387
+partOf: the-path-of-ascension
+position: 85
+ownLength: 5292
+unit: words
+ownProgress: 5292
+publishedAt: 2025-02-10
+link: "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/2059583/the-path-of-ascension-chapter-387"
+royalRoadId: "2059583"
+markedReadAt: "2026-06-29T19:20:37.212Z"
+---
+
+Chapter 387
+
+The Dobrescu duchy was a two month jaunt across the Empire, but that was only because Matt was able to use a real space crossing they controlled to cover most of the distance. A border duchy between Rusty’s and Harper’s respective kingdoms, they were in a strategic economic zone for goods that came from the border regions to the Capital.
+
+Something they had done as much as possible to take advantage of their various shipping ventures that moved goods to and through their lands. And as one of the strongest and most influential duchies in the Empire, a lot of trade moved through their holdings, if for no other reason than to tap into their network of trading partners.
+
+There were also rumors that they had a sponsored pirate fleet, which doubled Matt’s interest in talking to them. Even if the rumor was false, they had more experience in dealing with pirates than he did.
+
+When he entered their duchy capital, he was immediately contacted by a representative of the household stationed at one of their extensive space platforms.
+
+As he responded with the purpose of his visit, Matt looked to the infrastructure with a critical eye.
+
+As a noble who had been dealing with trade, he had a new appreciation for the space stations and the various methods they used to move goods around.
+
+He could see Tier 15s flying with spiritual items, fast ships with expanded holds meant for shorter-range ventures, and lastly, massive mundane ships that moved slowly between points with gargantuan cargo holds wrapped in just enough metal and enchantment to keep them together.
+
+Each had their use cases, but what caught his eye was how organized it all was.
+
+That, combined with the mile long ships that docked at the various space platforms to dock and transfer goods and people both ways, gave the area an almost ocean-like feeling to the sight.
+
+He was appreciating the ease at which a fifteen mile long cargo ship swung itself into place, guided solely by a Tier 15 pilot, when a pulse of spiritual perception brushed up against him.
+
+“You aren’t here to break anything, are you?”
+
+The tone of the message was playful, but there was an undercurrent of wariness which pulled his attention away from the sight and down to Silvia Dobrescu, who was ascending from the planet below.
+
+“What would give you that idea?”
+
+Seeing he wasn’t angry, Silvia seemed to relax and gestured to the largest station. “One of my retainers was convinced that you were here to cause trouble and hit the proverbial— and literal I guess— panic button.”
+
+Matt rolled his eyes and let her see it.
+
+“I told him that I was here to ask you a few questions, and I didn’t lie. I—” Matt paused as he realized how they must have interpreted that. “I really only wanted to chat. I needed an outside perspective and you seemed like the right person to talk to.”
+
+The Tier 22 inspected him for a moment before nodding. “I’m willing to chat, but you must realize how on edge everyone is with your recent actions.”
+
+“Apparently not.” Matt couldn't help grinning.
+
+That earned a snort, and the two of them descended to the Tier 33 planet below.
+
+When they entered the flying island, Matt was impressed by how austere it was. Not that it wasn’t nice, but with the Dobrescu family background as a former corporation who had taken over a duchy, he had expected more of a corporate vibe. Instead, the entire island had an understated elegance about it.
+
+Matt could feel several higher Tiers circling around them and tracked one that was moving to intercept them.
+
+“That's slightly eerie, I must say.”
+
+“Hmm?” Matt looked over to Silvia.
+
+“They way you are tracking my guards. I know you can’t feel them via the normal senses, but you are locking onto them a little too well.”
+
+As she said that, a dour looking man Matt identified as Silvia’s seneschal entered and finished leading them into a sitting room that was prepared with finger food and a variety of drinks.
+
+“An instinct of sorts. Similar to combat senses but more esoteric. Always good to know where a threat might be, after all.”
+
+“A laudable goal and a necessity for one in your position. You said you wanted to talk to me; last we talked, you didn’t want a trade deal but has that changed?”
+
+Her small smile told him she knew all about his troubles, so he didn’t bother to beat around the bush.
+
+“Not exactly. I wouldn’t mind working out a trade deal, but I came more to bounce ideas off you after my latest troubles and see what you think?”
+
+“And you think one such as I can help one as august as yourself?”
+
+Matt sighed as she dodged the question. “Yes, but if you don’t want to help, I'm not going to overstay my welcome.”
+
+Silvia’s friendly demeanor slid away until she had a blank, unreadable expression on her face.
+
+A moment later she said, “You are an enigma, Ascender Titan. Very well. I will help you, but in return I want a favor. How large can depend on how helpful you find my advice.”
+
+Matt grinned as they cut through the bullshit. “I won’t do anything I don’t agree with. But if you can accept that stipulation, sure.”
+
+Silvia’s smile was genuine as she reached across the table and shook his hand.
+
+Matt didn’t miss the nervousness of the guards he could feel circling, but didn’t comment.
+
+“Your ‘troubles’ are quite interesting, Ascender Titan. I must ask, do you know what you have done?”
+
+Matt played dumb. “I know exactly what I’ve done, but I can’t say how others are interpreting my actions.”
+
+Silvia's smile looked like she had caught a fish, and he was reminded that she was, in fact, a heron bloodline.
+
+“And they say Ascenders can’t play politics. That was a good answer. If you are coming to me, you must realize that you are being targeted by an unknown force, but since you didn’t start blasting the moment you arrived, you must not think we had anything to do with it. Given the rumors about our family and pirates, which I can assure you are false, you must want my thoughts on who might have such power to pull off the attacks, yes?”
+
+“It's a good start.”
+
+“I’ll be direct as that seems to be your style: I don’t know.”
+
+Matt frowned at the answer, but Silvia continued. “I may be wrong, but I sincerely doubt anyone with direct connections to the shipping industry is responsible. It would be too easy to trace back to them, where someone who had few if any direct connections to the shipping industry can act with more indiscretion if they have enough resources.”
+
+“I’ve considered that, but all four attacks on me have been space-based. That could be bait, but it's the only lead I have to go after. With that in mind, you must see why it seems that whoever is behind this has control over space-based travel.”
+
+Silvia nibbled on a piece of cheese before saying, “Must I? Maybe it's because I and my family have a vested interest in commerce, but because of that, I know how easy it is to throw money around and get things done. Space-based shipping is one of thin margins, high volume, and high expenses. Anyone willing to throw enough money around could easily do everything they have done so far. I can’t speak to them knowing where your aura potion shipments were going, and if so, that means you have a spy. But if I wanted to strike at your aura potions, I wouldn’t need a spy. I would simply contact the ships who regularly move between your duchy and offer them a little insurance fraud. Sure, their reputation would take a minor hit. But so long as it's rare and done cleanly, they get paid by their insurance company and myself. Best of all, it completely circumvents the need for a dedicated spy in a sensitive area. Not that the aura potions are that secret. As an industry, we treat them as the high-value goods they are. But frankly, they are Tier 4 items and numerous, with the distinction of not being created by the Imperial government itself or at its direct behest. I wouldn’t be surprised if most companies just aren’t bothering to code them as high priority items, and instead list them as mid or even low. Saves quite a bit of shuffling and therefore money.”
+
+Matt frowned. “We’ve done audits of our shipping partners, which I would like to think would catch any such behavior.”
+
+Silvia nodded along. “Along the contracted allowances I’m sure. The contracts may say the audits can be done at any time, but there are a number of ways to delay those audits long enough to ensure the records are squeaky clean. If you haven't encountered that yet, you undoubtedly will as you deal with the various shipping companies besides my own.”
+
+Matt thought hard and threw his full mana generation to his [AI], letting it go through the admittedly limited information he had with this new perspective.
+
+Nothing came up, but that was mostly because he lacked relevant information.
+
+“Good to know. And the breaking of contracts with my guild? Any thoughts on that as a merchant yourself?”
+
+Silvia waved the question away. “Clearly a threat but not a particularly hard one to set up. My information channels say they all used their normal exit clauses. To me, that says they are proxies who were paid to make a move. Not an uncommon move if you can afford it when attacking another business.”
+
+“So my opponent is high Tier and wealthy. That narrows it down.”
+
+Silvia grinned. “And that is the problem of being on the defensive against a careful opponent. You don’t know what you don’t know.”
+
+Just as Matt was about to speak, a slightly older version of Silvia stepped out of nowhere and joined them with a smile. Silvia flinched, but Matt just nodded at the former duchess.
+
+“Ah, and here I was hoping for a larger reaction. Rhea, a pleasure to meet you, Ascender Titan,”
+
+“Why would I be surprised? You’ve been following me since I passed through the real space crossing.”
+
+That caught both mother and daughter off guard, and Matt smiled. He had felt someone had been trailing him, but his statement had mostly been a bluff to see if it had been her.
+
+Rhea smiled as she took a seat next to her daughter. “I hate to intervene between the bonds being forged through deals, but I would also like to ensure everyone understands what is going on. Ascender Titan, I get the feeling that you don’t really understand what you have done in recent days.”
+
+That was an interesting way to phrase it. “Please enlighten me then.”
+
+Rhea put a hand on Silvia’s arm, silencing her as she said, “Let's start at the beginning of this little kerfuffle and use it as an example of how to deal with Ascenders. We noble families, higher-Tier corporations, and guilds, have an understanding of how to deal with an Ascender, and so far your opponents have played the game exactly as I would have. But you haven’t.”
+
+Seeing his surprise, Rhea smiled. “Your first move to hunt down the bandits was calculated to both waste your time and piss off a lot of people, while opening you up to the second move of tying you and your guild up in legal matters. That was the real test, and one you reacted to interestingly. Do you know the common understanding of how to handle Ascenders who are bothering one's business interests?”
+
+Matt let his smile fade to a flat expression. “Enlighten me.”
+
+“Make things difficult enough that they can’t be bothered. One must be careful to not overstep, or the Ascender might bite back. But if handled correctly, you can prevent them from encroaching into your business. When Duke Waters’ business was encroaching on a number of other courier services, they undercut him and started poaching his best people. They successfully annoyed him into backing down.”
+
+Matt knew that story from Aiden himself. “Aiden also killed a dozen people who were responsible for killing one of his couriers. To quote the man, ‘An Aqueduct must not have its foundations tampered with’. I’m pretty sure he thought he was making a pun, but those people still died.”
+
+“The risks of pushing too far, sure, but they were one business out of over a dozen that teamed up to tackle him. Those are good odds.”
+
+Rhea must have read his expression as she continued with a smile. “I assure you those are good odds. One out of twelve or the almost guaranteed loss of your business, and therefore your path to advancement, so don’t think it's just easily gained money being lost. Most business-oriented immortals advance their cultivation by paying exorbitant fees to be carried through rifts to supplement their ambient essence cultivation, or pay even more for essence stones or high-Tier cultivation resources. That incident did, however, escalate things. And for almost a decade, Aqueduct's courier service was hampered at every turn. Aiden eventually struck a deal with the other companies to limit the size of his company so that everyone had a piece of the pie. Effectively, he took over the area of the company he gutted.”
+
+Matt frowned as he didn’t like the implications Rhea was making about his own situation.
+
+Rhea waved a hand and continued, “Lila had a similar incident, though her reaction was far more bloody, befitting her no nonsense nature. She ate the entire leadership of an exploration guild who attacked one of her teams. Publicly. That started a decade-long war in deep chaotic space so bad that Georgios himself was forced to step in and mediate, as the battles were hampering the Empire's exploration and resource extraction efforts. Lila refused to back down, and Georgios sided with her for obvious reasons, and those responsible of a Tier she couldn’t personally eat were removed. As part of that deal, she swore to not interfere unless things got bad. But after that, she mostly lost interest in the guild and rarely checks in anymore.”
+
+Matt hadn’t heard that story from Lila, so he didn’t know anything more than the snippet he had been taught in school so many years ago, but he believed it. Or, he believed most of it. She had most certainly not lost interest in exploration itself, as was evidenced by her trying to get him and all of the younger Ascenders to go on a venture into deep chaotic space. That said, she seemed to have a lot of time for a guild leader of one of the largest exploration guilds, as seen by her taking naps on stars.
+
+Though, as Matt thought about it, he realized that incident might have been the catalyst for her interest in taking them out in a sort of rekindling of her passion with her younger peers.
+
+As interesting as the history lesson was, Matt wanted to cut to the chase. “And this has to do with me how exactly? Are they testing my limits? See where I’ll snap at them? See if I’ll roll over and give up?”
+
+Rhea nodded sagely. “Correct, except you surprised everyone. Or at least myself and the other old fogeys who are watching, drinks in hand.”
+
+She raised a hand, and a cognac appeared in her hand with a swirl.
+
+“I feel my actions were justified.”
+
+Silvia snorted a laugh and Rhea leaned back in her chair giving her daughter the floor. “Justified or not, do you know how much trouble you should be in?”
+
+Matt just blinked at her, not sure how to answer.
+
+“If I had gone to over ten other fiefs and attacked anything larger than a fly on their planets, I would be standing before the collective Royals who would be asking some very pointed questions at why I hadn’t followed proper procedures. If that wasn’t enough, and I had gone to another duchy and publicly destroyed a private rift, I would have started a interducal war. Beyond that, I would have been strung up by my heels for going around the Royals in such a deliberate way. Attacking thieves is at least morally justifiable, but attacking a fellow duchess like that would have kicked off a war between the two of us. At least if it was me who had done so. You on the other hand… Let's just say everyone I know is not only surprised that you had the balls to do so, but that there hasn’t been a whisper of complaint from anyone. Even if the Royals ignored the issue, or if Mara and Leon were covering for you, the nobles themselves would have used this as a method to kick up a fuss and earn a little political favor in return. But not a whisper from anyone involved. Even if there was a coverup, it wouldn’t be this silent. That's strange and no one can quite figure out the discrepancy.”
+
+Matt frowned and didn’t bother to hide the expression. He had known he was stepping on their toes: officially, inter-ducal problems should go through their respective Royals who were to mediate the issue, but he hadn’t even considered going through the official procedures. He had known the Royals wouldn’t do more than yell at him for his actions given his status, let alone his mana, but he hadn't quite realized how quiet it had been, which was strange.
+
+“So why did they go through the effort of baiting me into kicking up a fuss if they didn’t have anyone ready to complain?”
+
+Matt was more wondering out loud, but Rhea nodded. “And that is the question. If I had wanted to bait you into a trap, I would have ensured that all parties would kick up a hissy fit, but the fact they didn’t speaks volumes of its own, does it not?”
+
+Matt agreed. “My attackers aren’t willing to show themselves so easily and were possibly hoping the individuals themselves would kick up the fuss. I guess it makes sense. I was restrained.”
+
+Rhea laughed so hard she clutched her stomach before wiping away a tear. “Oh, thank you. I needed that laugh. I can assure you, Ascender Titan that no one, and I mean no one, expected you to go and rip Falker’s lead scientist out of the rift. That isn’t just ballsy, it's inspired lunacy. Beyond a war, the upset that should have started for doing such in another duke's fief would have no one consider doing such a thing. Using the mortal exceptions was a good play to speed up proceedings, kudos to you for thinking of that, but they were ready for some maneuver, which is why they sent the man into the rift where he would be out of contact. I guarantee you that whatever your enemy's plans are, you just threw a massive wrench into them.”
+
+Having gotten so much candor from the older Dobrescu, Matt decided to be candid himself. “So let me ask you, as I asked Silvia, how would you react to these provocations?”
+
+Rhea shrugged as she stood to leave. “I think it's clear we think very differently, but I would start squeezing the moment I found a pain point until they begged me to stop. But that's just me. If I were you, I’d squeeze until I got tired of squeezing, but I feel that you’ll go farther than that, won’t you?”
+
+Turning back around at the door, she added, “Let me add this before I go. In these battles there are rules, even if mostly unspoken. Dukes attack dukes, corporations attack corporations, guild attack guilds, people attack people. Try not to be the first one to overstep one of those lines. That means they probably won’t attack your holdings directly, at least not until things escalate much further. I know because that is how my ancestors earned this duchy. That said, you can and should bring in your friends and family, within reason, but know that opens them up to retaliation. Though, it’s most people’s first move in these sorts of games. Depending on who your enemy is and their inclinations, they might never attack them or they might target them early. You not knowing your enemy also means others might target your friends, wanting to escalate things further from the sides. That is why I would recommend bringing them close to you now instead of waiting. From everything I’ve seen and heard about you, you seem to truly care for them, and I think it would be best for everyone involved that you were prepared for that now instead of when it's too late.”
+
+Matt frowned but nodded and thanked her as she exited the room.
+
+He didn’t like what she had to say, but she was entirely right, and he immediately sent a message to Liz that they should gather everyone close to them to their duchy. They would be interfering with their friends' lives in a way they really didn’t like to do, but if anyone, his enemies or some unknown bystander wanting to stir the pot, hurt his friends, he would go on a rampage.
+
+He would also have to make sure that he got that information to his enemies.
+
+“I would appreciate it if you spread the word through your contacts that I will play this game. But if they touch my friends, I will pull in every favor I have to not just burn them down, but salt the earth.”
+
+Rhea waved her acknowledgement even as she sauntered down the hall.
+
+Silvia smiled as his attention returned to her. “In this instance, I must agree with my mother. Best to be ready for escalation while not seeking it yourself. Still, you seem to be handling yourself well.”
+
+“As much as I appreciate the kind words, none of that really helps me with my current issue. My guild lost several important shipping contacts, I apparently can’t trust my duchy’s largest export shippers, and I have a mole in my guild who is able and willing to pass on sensitive information.”
+
+When Matt moved to stand, Silvia raised an eyebrow. “Isn’t that why you came to us? I half assumed your previous comments were a front to get in the door and a better starting position. ”
+
+“Not particularly. When we talked last, you said your company wasn’t looking to expand into my region of the Empire. I assume that hasn’t changed. I just wanted to pick your brain about the attacks.”
+
+Silvia refilled his wine glass where it sat on the table. “Things change constantly. You were an unknown variable a century ago. While you are still a conundrum, I have learned several important things.”
+
+“So you are willing to make a deal?” Matt sat back down as he asked.
+
+“Let me answer your question with a question. Two questions, actually. How far are you willing to go to defend your guild, a guild that makes you no money and is from all reports a money pit?”
+
+When she stopped after one question, Matt gestured for her to continue, but she waved him on, not speaking.
+
+Sighing, he met her eyes. “Do you know why I care? Why I throw money at charitable endeavors that have little benefit to me? Why I don’t try and make any kind of a profit with the inventions my guild makes? Why I made the aura rift creation methods free instead of selling them? First and foremost, I could have been the people they help. I was them. I was given opportunities thanks to a lot of people. Not all of them were selfless, but they were still there and gave me the ability to take advantage of further opportunities. Part of it is wanting to pay that back. But another part is, I just want to make things better. I have power, and want to use it for good. I also just enjoy aperology and sharing my creations, like any artist. People don’t seem to believe me, but it's really that simple. So to answer your first question, I will fight this fight until I have nothing left to give, and it's not so easy to wear me down.”
+
+They sat there for a long few moments before she said, “A good enough answer. My second question isn’t meant to offend, so don’t interpret it that way. But are you willing to throw the established industries a bone if something big enough comes across? You clearly care about the lower Tiers, but if you were to discover something similar to the aura rifts, but with an already established interest... Are you willing to work with those established in the industries?”
+
+Matt frowned and let her see it. “My initial answer is no, but frankly, it depends. I’m not stupid enough to say it can’t happen, but it's unlikely. I think my opening of patents has been generous, as it allows more competition and design variation, letting businesses that would never be able to afford such patents a leg up. But at the same time, I also realize I live in the real world and have agreed to oversight by the Empire itself. So yes, I can take a step back if needed, but I wouldn't do so for a business deal, if that is what you are implying.”
+
+He figured that would disqualify him from working with her, but that was fine. He hadn’t lied when he said he had only come for information and to see what she thought about his attackers.
+
+However, Silvia surprised him by smiling. “I can work with that. I don’t ask because I want you to keep things secret or anything so droll, but rather that I don’t want to work with someone who can’t see the real world for what it is. And frankly, some of your actions could be construed as such.”
+
+Matt wanted to take offence, but thinking about the Ascenders he knew, that wasn’t a far-off description.
+
+“That said, I frankly offer a lot in this agreement where you don’t and can’t. Aura potions are nice, but they aren’t worth rerouting even a single ship over to your region of the Empire. I need at least five percent over the standard shipping agreement for all goods moved, and a ten percent discount on all goods bought in your duchy. Secondly, I’d want ten million aura potions, types to be specified later, to be buyable at cost.”
+
+Matt scoffed even as he leaned back into his chair for a long debate.
+
+“I’d rather publish the shipping records myself so bandits can steal them all rather than be fleeced like that. My duchy may be new and out of your company's typical range, but you aren't our only option. I know people in the space industry.”
+
+“Oh please, the Mallick clan? They could stuff their holds with every aura potion they can fit and not make a dent in what your duchy makes, which my ships could move. In fact, they are welcome to take what they can. One of the agreements in signing on with my family is that we don’t have exclusivity clauses. We have minimums to ensure that our time and mana is respected to make the trip worth it, but we don’t care about the leftovers.”
+
+“I could start my own company.”
+
+“You could, and I’d wish you the best of luck in that. The expenses are enormous and don’t really pay off if you ever have a hold empty. There is a reason we always buy something when we sell something. A new company bleeds money for a long time. Five percent discount on goods bought in your duchy. My price is fair, as it would allow you access to our many partners which would solve your guild’s supply problem.”
+
+Matt waved that away as if he truly wasn’t concerned. “I already have a solution for that.”
+
+“Oh really?” Silvia leaned forward and batted her eyes, calling his bluff. “I’m listening. Impress me, Ascender Titan. As far as I know, most of the contacts that were cut, while not particularly rare, aren’t easily replaceable either. At least not in a duchy so young as yours.”
+
+“Self sufficiency is a laudable goal after all. One everyone should strive for.”
+
+Silvia snorted. “Specialization is how one becomes a master for a craft and makes the best items. Nine million aura potions sold at cost.”
+
+“You only say that because that lets you move said items around. Five million aura potions sold at a five percent markup, since you like the number five so much.”
+
+Their bargaining went on for another hour before they settled on a deal.
+
+The Dobrescu trading company would add Matt and Liz’s duchy to their trading routes and were contracted to move a majority of their aura potions from the duchy to their business partners at the various regional capitals.
+
+To make their trips worthwhile, they would be given a mild tax exemption for goods they bought and sold for the first century, so long as they didn’t undercut the local markets. They would also be given five million aura potions at a three percent markup per year, which would help round out their profits for the first century.
+
+The deal would also let him order a lot of the goods his guild needed through them, which would actually save them slightly thanks to the Dobrescu’s only acting as a go-between with their trade network of partners.
+
+That went both ways, however, and Matt was expected to prioritize others in the network for selling and buying goods where reasonable. That clause took almost a full ten minutes to hash out, because Matt refused to be held hostage with such a deal, and they went over each line with a fine-tooth comb, adding exceptions where he wanted.
+
+In the end, it wasn’t too onerous, but it was a commitment he’d need to remember, especially if he or his guild produced a product they wanted to sell. And given Silvia’s second question, he assumed this was her reason for asking it.
+
+Depending on what it was, Matt wasn’t against showing some mild favoritism to her network, but he also made it clear it was unlikely they’d ever actually sell anything. But she insisted it was a risk she was willing to take.
+
+The deal was more expensive than his previous ones, but Silvia assured him the goods would be protected both ways, and that if anyone struck out at her company like they had his previous suppliers, they would find the Dobrescus much harder nuts to crack.
+
+It wasn’t a declaration of undying and unyielding friendship, but it was what they needed here and now, and would act as a good stop-gap as Matt worked on his other project.
+
+Bespoke rifts had been on a bit of the back burner for a while now, but once he Tiered up and increased his mana generation, he was going to start prioritizing them.
+
+To do that he needed to get the rest of the way through Tier 26, which meant it was time he started delving seriously once more.
+
+If his enemies thought he was going to sit around while this lawsuit was ongoing, they had another thing coming.
+
+It was time to return to his roots.
+
+Delving like it was his job.

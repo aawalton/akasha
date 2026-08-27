@@ -1,0 +1,279 @@
+---
+id: 7ebcbd3a-4e77-5fb3-a6f9-02df664fe71f
+page-type-slug: story-chapter-royal-road
+title: "The Path of Ascension Chapter 44"
+slug: 0006-the-path-of-ascension-chapter-44
+partOf: the-path-of-ascension
+position: 6
+ownLength: 4755
+unit: words
+ownProgress: 4755
+publishedAt: 2021-06-25
+link: "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/705643/the-path-of-ascension-chapter-44"
+royalRoadId: "705643"
+markedReadAt: "2026-06-29T19:17:36.564Z"
+---
+
+Chapter 44
+
+The following day, Matt hand-fed Aster a select package of rabbit that Aunt Helen had prepared. She would be coming out of her stupor soon, and he wanted to see what changes she would experience.
+
+Once his bond was fed, he knocked on Liz’s door, and they made their way up to the train car with a breakfast bar. They sat down and watched the plains turn into deserts. The hills slowly transitioned to more sand than dirt.
+
+It made a nice addition to their breakfast view. His relaxed state of mind was short lived, as Matt felt a hovering presence a few moments later. When he looked, he found Camilla standing there with a plate of her own food.
+
+To give an overture of peace, he kneed the swivel chair next to him, causing it to spin toward her. She sat but perched at the edge as if ready to defend herself at any moment.
+
+Matt played with his omelet. The cook must have been drunk because the omelet was nearly burnt on the outside and close to raw on the inside, while also heavily under-seasoned. If it had been intentional, it might have been good, but it was mostly just disappointing. Still, he plopped a forkful into his mouth. At least it was hard to mess up pre-cooked ham and mushrooms.
+
+“I’m sorry.”
+
+The apology was abrupt, and he and Liz turned to face their breakfast companion.
+
+“I have been staying with Aiden for the last few years, but I couldn’t sit around anymore. So, I made a deal with him. If I wanted to come out, I needed to stay with you guys or have a bodyguard. And I really don’t want that.” Camilla swallowed hard and squeaked out, “Or go back, but I need to get out and stretch my legs.”
+
+She finished with a half-hearted shrug. “I’m sorry for being curt with you two yesterday. I just have a hard time not seeing someone else in you.” She nodded to Matt as she finished.
+
+Liz spoke up, “Thank you for apologizing. If you want to” –the blood mage twirled her spoon around—“join us, even if it’s just for a while. But we don’t know you or anything about you.”
+
+Camilla opened her mouth to say something, but Liz spoke up first, “So, we figure we should try and spend time together. At least while we travel. We can all make a better decision when we reach the vassal kingdom. What my uncle wants is irrelevant.”
+
+That ended the conversation, and they finished up their food in a more companionable silence. Camilla walked to the front of the train, while Matt and Liz returned to their rooms. They needed to start the process of learning their new skills as they had a short window to do it if they wanted to expand the skill before the end of this train ride.
+
+Matt sat with Aster as the veil of grogginess started to lift away from their bond. He threw Liz a message saying that Aster was waking up. A moment later, she entered the room, only to find the fox scratching at her neck where the AI was implanted.
+
+From their bond, Matt got much more feedback. More emotion, and even the start of what almost felt like words. It was like a thin pipe had been replaced with a much larger one, letting more of who Aster was in. Her small form repeated what she did when she had first hatched and explored everything around her.
+
+Matt got the sense that new ideas were forming from the old scents and objects. Liz talked to her in the yips and clicks that made the beast language, which made Aster flick her ears, and her tail poofed as if she was startled.
+
+Matt patted her and ran her tail through a hand until she defluffed.
+
+It’s not like she hasn’t heard this before. She uses Liz to ask for ice cream all the time.
+
+The idle thought was the wrong thing to say, as the fox perked back up when he thought the words ice cream. The fox was at the door in a flash after a moment of stillness. Matt felt her push ‘Ice cream!’ through their bond.
+
+Liz simply laughed while he sat there and contemplated pounding his head against the wall.
+
+“The first thought you have is of ice cream? I feel betrayed.”
+
+Aster cocked her head and yipped at him. Liz’s giggle continued while a picture of a heart and a questioning color was pushed through to him from his bond.
+
+“I don’t have a heart for you to eat either. You’re a glutton. But, okay, let’s go see what they have.”
+
+They made their way back to the food car. Walking through the halls made Matt feel exposed, as though someone would try to steal the skill shard in its bracelet. He knew it was locked down tight, but the lingering fear remained. The skill was worth too much for him to be comfortable until it was absorbed properly.
+
+When they arrived at the food car, they found Camilla sitting at a table on her own. She didn’t have a plate, so Matt wasn’t sure what she was doing, but she glanced at the opening door and smiled at the bounding white fox. The look of happiness at the sight of Aster bounding toward the ice cream was a look he never expected on her cold face. Camilla’s gaze rose from the small fox, up to the accompanying humans, but when she saw Matt, her face froze, and the smile became brittle.
+
+At Aster’s insistence, they all got bars of various kinds of ice cream. On a whim, Matt snagged a bar for Camilla. She took it but was clearly more entertained at Aster’s antics than the snack.
+
+The fox in question devoured her own bar, then tried to steal pieces of Matt and Liz’s ice cream, too.
+
+They let her have a bite or two, but Camilla’s slow pace was her undoing. Aster saw the bar with only one nibble and gave the dark-haired woman a pleading look.
+
+To Matt’s surprise, it won the woman over, and she offered up the bar after looking to him and Liz for confirmation that it was okay. As Aster ate, Camilla ran her hand over the fox’s fluff, clearly enjoying the silken fur.
+
+The smile Camilla gave Aster made Matt feel like she wasn’t all that bad. She clearly had some trauma to work through. He had seen similar sights growing up, but he had no idea what her issue was from their brief interactions and didn’t want to presume to know until he got her story from her.
+
+Aster was no help in that endeavor, as she just discovered a new best friend, and didn’t seem at all biased when pushing Matt to keep the woman around. He probed their bond, and found the fox thought she smelled nice.
+
+As he thought over the information she was sending to him, he mulled it over. Nice wasn’t the right word. Kind was closer but even then, he wasn’t sure it was right. Aster liked Camilla, and that was all she needed to know to want to keep the woman around.
+
+Having Aster seemed to break the tension, and Matt felt Camilla open up slightly during the time they sat around. She even chimed in with a few interjections of her own while he and Liz bickered about random things.
+
+It wasn’t much but it was progress.
+
+***
+
+Two days later, as the train was approaching the station, Matt and Liz sat next to each other in their room. Their [Endurance] skills were about to breach their core spirits and fill the third and final skill slot. They would then be immediately removing the skill and putting it back to their Inner spirits to free up the slot, but they needed the skill in the Core spirit for the modifications they wanted to do.
+
+Matt also wanted to improve [Mage’s Retreat] but as it was already settled into his spirit it would be a much slower process. According to Madam Delver’s guide, he could improve the Durability boost to half as strong as the Strength boost with the right changes to the skill’s structure. It was a nice adaptation that could make him harder to kill, which was something he very much wanted.
+
+He wasn’t that happy with being forced into a pure tank and support role, but he didn’t have a viable ranged attack skill that he could use.
+
+At Tier 10, I’ll potentially be a better mage than Liz and Aster. Let’s see how they like it when I kill everything in the rifts myself, and they’re the ones left trying to scramble and catch up.
+
+Matt brought his attention back into his spirit after daydreaming about the distant future. [Endurance] was about to cross the dividing line, and when it did, he acted.
+
+He had practiced this so many times that it was second nature, but he was still nervous.
+
+The skill structure was an incredibly complex 3D lattice formation that interwove itself in hundreds of places, but Matt didn’t hesitate as he started grabbing and expanding spots of the skill with strands that channeled mana.
+
+In his mind’s eye, they were pipes that handled water and the junctions where more than one pipe met up had incredibly complex functions, so he was extra careful when manipulating the skill near them.
+
+It was hard work, and he nearly messed up a few times, but his practice paid off. Without knowing exactly what the final result was meant to be, and without hours of repetition, he knew he would have ruined the skill. He would have either crippled its functionality or shattered the skill completely by adjusting the wrong part.
+
+Matt tweaked the pipes, and while his muscle memory took over, he examined the skill as a whole.
+
+Skills came in four main categories.
+
+The first were skills where the mana cost was up front. Those were where the skill was instantly formed in the mana pool and immediately cast. That instant forming was why he couldn’t trickle feed a normal skill, like [Fireball], the 10 mana it needed to cast. It was the same reason he needed to fill his mana pool to cast [Hail].
+
+Channel skills were the second type of skill. They came in two different versions, one was like [Mage’s Retreat] and functioned like an expanding balloon. The cost scaled exponentially to increase the size of the balloon, though because Matt’s mana regeneration would also scale exponentially, he expected those channel skills to remain a core part of his fighting style.
+
+The other type of channel skills was like [Hail]. Those typically had an initial cost but needed a continuous mana input to maintain the effect. They had malleable ‘pipes’ that could expand to handle more mana. They couldn’t expand infinitely, but they typically scaled linearly which made them more popular uses for large amounts of mana. It also made them much more flexible, since the effect could be scaled to the current threat, unlike a standard [Fireball] which needed months of work to change significantly.
+
+The third type of skills were reserve skills. They took a chunk of mana, and locked it away, though some percent of it was expended in order to instantiate the skill. They generally created fake essence to improve an aspect of cultivation, or some other effect with the locked down mana. The normal [Mana Strength] that melee fighters used worked like that and it was hugely popular.
+
+[Phantom Amor] also worked like that third type. Mana was reserved to protect the caster against one strike. His [Cracked Phantom armor] was a cracked skill and had more of the properties of the second type of reserve skill. The pipes could expand, but they weren’t like [Hail]’s where they expanded freely. The pipes of [Cracked Phantom Armor] were instead like steel. He had to slowly expand them through long meditation, advancing his cultivation, and pushing the skill through practice.
+
+The final type of skills was the entirety of manipulation skills. They were similar to the second type of channel skills but were considered a distinct category. In addition to the fact, they could expand infinitely, the vast majority of enchantments, skills, Talents, and similar effects treated them as separate from other channel skills. A staff that improved lightning skills wouldn’t affect [Lightning Manipulation] unless that effect was separately added in.
+
+As the final moment came, Matt brought his attention back to the task at hand.
+
+With a mental effort, he mentally ‘blew’ into the skill, expanding all the pipes. That final bit was at Aunt Helen’s suggestion and would help the skill handle more mana from the onset. She figured that he’d be spending a lot of time getting his type two channel skills to handle his absurd mana input especially at the higher Tiers, and if he helped [Endurance] now he could be a step ahead.
+
+It only took a moment for [Endurance] to settle down after the agitation caused by the manipulation, and he opened his eyes. When he pushed mana through the newly adjusted skill, he felt rejuvenated. All his aches and pains disappeared with a cool, refreshing wave.
+
+The original skill was only good for muscle fatigue, as that was a subset of the cultivation aspect, Regeneration. The skill [Regeneration] could regrow limbs with enough mana, and when upgraded, wouldn’t cause strain on the body like normal healing spells but [Endurance] wasn’t nearly that strong even after their modifications.
+
+Overhealth was amazing like that, and [Endurance] didn’t get that effect even when using an upgrade orb on it. Not that he had an upgrade orb to use.
+
+That didn’t mean the modifications he had done were useless. When the skill was expanded upon like he and Liz had, [Endurance] bolstered the body’s natural healing. Meaning it was the best self-heal that was available at Tier 8. Traditional healing spells didn’t start dropping until Tier 14, after all, and were incredibly rare at that. This was still amazing, and with Matt keeping them full of mana, they could in theory go for days without sleep. It wasn’t recommended, but it could be done, giving them one extra tool in their toolbox.
+
+Liz finally opened her eyes, and from her sitting position, lunged into a hug, knocking the napping fox off her lap.
+
+“Ha! [Endurance] changed with my Talent into [Blood Endurance]. HA!”
+
+From over her shoulder, he asked, “How can you figure out what that does?”
+
+She let go and scooped up the fox and fell back on the bed, wrapping her up in another hug. “Uncle Manny had a message queued for me. I got a report of what it does from him. I get all the normal benefits from the expanded [Endurance], but it also boosts my blood regeneration through the roof.”
+
+Matt was going to ask how she knew that but realized that the Emperor must have taken her Talent and tested many skills for compatibility issues.
+
+“Did he test other skills?”
+
+“Yup! He said he tested anything that could change and thought I would get my hands on. Apparently, some skills just won’t change at all, some will become non-functional, and there’s others that could actively harm me. He said that he updated my AI with preloaded messages for skills that will hurt me which is helpful.”
+
+Matt was shocked. He understood that she grew up with the man, but him being able to do that meant he had absorbed each skill with Liz’s Talent active. He felt like the Emperor had to have had better things to do with his time.
+
+Shaking away the thought, and with [Endurance] running at a small trickle, Matt felt ready to move.
+
+Their train was about to reach their stop, and the three of them met up with Camilla where they found her shuffling around their common room. “I’m not sure how you want to handle rooms.”
+
+Matt thought about it, but Liz just charged ahead. “We might as well just get a three-room suite. That way we can spend time together and get to know each other better.”
+
+“We usually watch a movie or something most nights. It would be good if you join us. I also cook for us when we have time.” Matt added that last bit to try and get the clearly conflicted woman to agree.
+
+“Okay. That…” she swallowed hard, “sounds nice I guess.”
+
+As they exited the train, Matt probed Camilla for the first time with his spiritual sense. He found that she had a different type of false Concept.
+
+Now that he had his own, he could feel Concepts in others, but it was one he hadn’t felt before. As much as he wanted to ask, he didn’t.
+
+It was far too soon to ask, and he assumed that she had gotten something good from Duke Waters. It just felt like it was more real than the others he had felt.
+
+Matt turned and said, “Well, I need to go see TrueMind. I’ll grab some fresh ingredients on the way back. Camilla, are you allergic to anything?”
+
+With her no, Matt and Liz went to TrueMind, while Aster went with Camilla. Matt was slightly hesitant at letting his bond go with her, but Aster clearly wanted to, so he didn’t push.
+
+Aster said that she smelled nice and therefore was a good person. Matt wasn’t sure that was how it worked, but he trusted her combat prowess.
+
+He was more suspicious that the greedy fox was trying to get the new addition to the party to buy her ice cream.
+
+Arriving at TrueMind, Matt was quickly escorted into the lab, and had his AI linked into their testing. They started with the usual mundane checks, but the techs were much nicer this time.
+
+The man, Oliver, was chatting with Matt while the results came in.
+
+Feeling much better about the environment, Matt asked, “So, why were the other Technicians at the last test tutting all over their pads?”
+
+Oliver spun his pad and showed a screen with more data and charts than Matt could quickly read. “So, your AI is a rewrite of the older, original AIs.”
+
+He peered at Matt and asked, “You know how AIs were made, right?”
+
+“Not a clue. Someone smart?”
+
+Oliver smirked. “No… Well yes. But also no. AIs are actually a Tier 26 rift reward. They were originally a skill like any other with the small addition that they were unique in being a channeled skill that had no real strain on the spirit of low Tier people. It was a huge advantage for rich people to give their kids. Still is, to be honest.”
+
+Matt cocked an eyebrow at Liz, who was looking bored. She shook her head, so he made a note to ask her later.
+
+“But they took the skill structure and made it simple. Simple enough that they could recreate it, but that came with losses. Do you know the saying, “Good, fast, or cheap. Pick two.”? Our AIs go fast and cheap. Yours is throwing cheap out the window and going for fast and well. But it’s not doing it well. Or…it is for its Tier, but it’s doing it in an extremely inefficient way. Sometimes it’s trying to get to step three by going from step one to step seven and doing calculus to get back down.”
+
+Oliver shrugged. “It’s great for its Tier. Your search function is indexing in a very interesting way. Also, the way it locating special identifiable features is great. I can’t tell you why they were acting like that, but your AI is a great low Tier data point.”
+
+That raised a question Matt hadn’t thought of. “Am I not the only one with it? At my Tier, at least?”
+
+Oliver waved him off. “Of course not. But you are the only one I know of that isn’t being supported by TrueMind. Most need mana to keep the AI running, so they’re focused on making them more effective. Your AI hasn’t decreased usage in the slightest. That’s why it’s such a great data point. Your testing of our simulations is going at more than twice the speed we thought it would.”
+
+“So, how is my AI different? I never got an answer for that when I got it.”
+
+“Easy. Your AI is just a rewrite of the original skill. A reset to zero, if you will. The new AIs are so many generations old that we started using two letters. Your AI is closer to the skill itself, though with some rather notable bits chopped off to get it to work for low Tiers. It’s still based on a Tier 26 skill, and we can’t replicate something that advanced with mass produced means.”
+
+Matt questioned the helpful tech a little more as he was a wealth of information he had been wanting to know. “Is there anything else I could work toward? I never got any of the extra modules like the ID function, and I felt kinda dumb that I didn’t even think to buy that.”
+
+Oliver waved his hands around wildly. “No! No. Don’t do that. If you use the premade modules, your AI will change them for sure, but it won’t be as interesting for us as your AI recreating them from scratch. If you want some suggestions on what to make, have it start learning about whatever profession you like.”
+
+“Yeah, I was looking into an enchanting module, but they are way too expensive.”
+
+Oliver looked aghast. “Noooo! I can’t stop you from doing that, but just buy and download the books, then have your AI simulate the results from the lessons. I’m sure you’ll learn a lot, and so will your AI. This is a really unique data point here. Please don’t ruin it with the store-bought stuff. And if it doesn’t work well, you can always buy the module later.”
+
+Oliver then launched into a tirade about how a different approach could revolutionize the computing fields.
+
+Matt thought it over while tuning the man out as he strayed off topic.
+
+The idea had merit. The AI modules would help someone enchant with overlays and show where to carve or embed mana. But they were restricted and ruinously expensive. None were on the open market, and they were all made by various companies, organizations, noble families, or guilds and each was said to work differently, and have their own advantages.
+
+Some were better at weapons enchantments, and others were better at larger defensive formations. Each was made for the guilds that used them, which led to them being jealously guarded. Rivals could glean a lot from knowing what their AI guides did.
+
+Smithing techniques and other professions were mostly open at Tier 5 and below, as it was mostly mundane materials being used. But the higher the Tier, the more exotic the materials were, and the more ways there were to use them and that’s when things became hidden and proprietary information.
+
+Not a single power wanted to give all of their hard-earned secrets away. Matt could understand that, but he really didn’t care about the intricacies of enchanting. He would love to automate it with his AI, and only provide the mana.
+
+He would never get a cooking one. He had talked to Aunt Helen about it. She wasn’t as dismissive as he thought she would be, but she pointed out that a lot of cooking was doing things to taste. You could measure and be perfect all day, but then everything would come out the same.
+
+Each piece of meat, vegetable, or other ingredient was different, and should be treated as such. He knew the same applied to enchanting, but he really didn’t enjoy it. Everything in his life was about producing mana.
+
+It was nice to have something not dependent on it for once.
+
+“Oliver, is there anything else?”
+
+While the man was rambling and Matt ruminating, the chair was beeping at him to get up and leave.
+
+The technician coughed slightly. “Ah. Go ahead. Sorry. Your AI is so fascinating, I could talk about it all day.”
+
+Saying their goodbyes, they left TrueMind and meandered back to their suite for the night.
+
+“So, what was that about not getting the AI skill?”
+
+Liz shrugged. “One. I was on the path. Two, I and most other kids born from higher Tiers get special AIs made from our parents’ AIs. The AIs become unique and better at the higher Tiers when there’s been time for them to grow and evolve. Over Tier 25, maybe up to Tier 30ish, no one sells that info like you did. Too much can be gleaned by the shape of the AIs structure. My parents had an AI made for me when I was conceived. I had it implanted from birth. It was just inactive. That’s why it didn’t convert when I got my Talent. It was already there.”
+
+Matt thought it over. “This isn’t a mark on you, but that feels like such bullshit. Isn’t the whole point of The Path to stop that?”
+
+Liz looked awkward, and Matt had to tamp down on his annoyance. She didn’t choose who her parents were, and he couldn’t say he wouldn’t try to do the best for any future children. Ascenders knew that his parents tried their best.
+
+It still grated the wrong way to find out that there was yet another advantage from having higher Tier parents.
+
+“Is there anything else that comes from having higher Tier parents?”
+
+Liz looked wronged, so he rubbed his face. “Sorry, that was accusing. I just don’t like finding out that I’m starting even lower.”
+
+He gave her a smile, and the tension disappeared.
+
+“Not really. The only other thing is really just the basis of knowledge that I have. Also, having parents over Tier 15 means that the child will be perfect. No genetic imperfections at all. The same will happen when you reach Tier 15, and the mind takes control over the body. So, it is a temporary advantage at best. Also, my body, mind, and spirit are closer to a Tier 15s than a Tier 0s.”
+
+Matt wanted to snark back that it was an advantage at the lowest Tiers, where it would make the largest difference.
+
+He stopped himself. That really wouldn’t be fair to Liz.
+
+“Sorry. I guess now that we talked about dating, I really feel our different social statuses.”
+
+Liz hooked his arm, and they turned into a produce store.
+
+“Well, please don’t take it out on me. I didn’t choose it. And don’t put yourself down. I might have started higher, but we both know that with your skillset, you’ll be there eventually. And on your own merit.”
+
+As he pulled items for a pasta dish, he thought over his response. “I don’t want to be like that. It’s something I’ll need to work on. And I would never leave you and Aster behind.”
+
+They chatted, and when they made it back to their rooms, Matt cooked while Liz and Camilla half-watched him and half-watched an action movie.
+
+Matt served them, and they watched the movie in a pleasant silence. He noticed Camilla looking at her cleared plate and said, “Don’t hold back. There’s enough for more than two platefuls per person.”
+
+She murmured quietly, “Thanks, you are a really good cook.”
+
+He wouldn’t say that she was a friend by the end of dinner, but the hard, jaded image he had of her was replaced with a woman who had issues. She seemed like a skittish animal expecting the next blow to come from anywhere.
+
+Matt supposed that was close enough to the truth. He just wasn’t sure if this was the true her, or an act to get back into their good graces.
+
+The only upshot was that they weren’t just there for the rifts, but more so the natural treasures that existed on a planet that didn’t have humans curating it. Best case, Matt found a Tier 5 treasure that would boost his Mana Concentration so he could save the potions that Aunt Helen had given him.
+
+They would just have to see what the planet brought them.
+
+But before they did that, Matt wanted to see the woman in combat.

@@ -1,0 +1,107 @@
+---
+id: a2011f25-99eb-5bd0-8088-08433446efb7
+page-type-slug: story-chapter-royal-road
+title: "89: I believe I have a class to get to"
+slug: 0009-89-i-believe-i-have-a-class-to-get-to
+partOf: the-legendary-fool-a-deckbuilding-litrpg-b2-complete
+position: 9
+ownLength: 1673
+unit: words
+publishedAt: 2024-05-16
+link: "https://www.royalroad.com/fiction/60890/the-legendary-fool-a-deckbuilding-litrpg-b2-complete/chapter/1638692/89-i-believe-i-have-a-class-to-get-to"
+royalRoadId: "1638692"
+---
+
+“What do I even do about this,” Tom muttered under his breath, his expression, or to be more accurate, the academy professor’s visage that he wore, visibly dismayed.
+
+‘Maybe the question I should be asking myself is, what can I even do about it?’
+
+If he decided to intervene in the matter, then he would no longer be dealing with the likes of academy students. As powerful as some of them, like Zenakris, could be, ultimately they were only students.
+
+The matter he had inadvertently uncovered by forcing his way to the Astral Gold star had blown up in his face rather spectacularly and unfortunately, there was no way for him to get rid of that knowledge.
+
+And if he decided to interfere in the matter, he would be up against the Family that even one as resolute as Zirel feared and the chief culprits behind the fall of the Noble Longstradia Family.
+
+Tom reached for the small notebook he had purchased from the receptionist, dipping his feather pen in a vial of ink before he resumed his note-taking exercise.
+
+The mind-map that he had penned down across two adjacent pages had become increasingly expansive, allowing Tom a clearer view of the overall situation.
+
+“I see now,” He muttered under his breath as he drew circles around the conclusion he had reached at the end of the mind-map. He had arrived at the conclusion primarily due to the memories contained within the Astral Gold star, allowing himself to use the knowledge Zirel and Aleph had granted him to fill in the gaps in his knowledge.
+
+The Nottrakon Family ruled the Syrelore Kingdom, subject to the oversight of their Ancestors or some manner of other, higher powers that resided in the Aerianiculumn. Valerie Nezaria was the daughter of Lord Ramav Nezaria, the Noble responsible for trade and finances and the King’s Right Hand man.
+
+On the surface, it did not make any sense for the Nottrakon Family, or rather, the King, Covan Nottrakon I, have the daughter of his own right hand man assassinated. However, the concept of monarchy that the Artezian surface world followed was very different from Earth’s.
+
+The King was subservient to a higher power, but it was not the constitution. So it was neither a true monarchy nor a constitutional monarchy. However, the advantages that came with the position of King were undoubtable, considering how through a job the Nottrakon Family had done at amassing both strength and financial resources.
+
+It was thus, inevitable that the monarch would change every few full cycles, or every few decades, in his old-world terminology— if only to assuage the other Noble Families and prevent infighting. Each Noble House had one vote to cast and Covan Nottrakon I had seen enough to know that the winds of change were here.
+
+Lord Ramav Nazaria was considerate, reasonable and possessed a surprising amount of resilience in the face of challenges. As the Noble responsible for trade and finances, any decision he made would directly affect the interests of over a dozen Noble Families.
+
+It was undoubtedly a poisoned seat that the king had offered to Lord Ramav, albeit one that offered an even greater opportunity. Not once did the Nobleman consider to use the expansive powers granted by distinguished post to further his own family’s businesses, leaving him above reproach for the most part of his tenure— much to the chagrin of Covan Nottrakon I, of course.
+
+Covan Nottrakon I had glimpsed the winds of changed, already having determined that his Family would not garner enough votes after his tenure ran out. The Royal Heirs, while powerful, had turned out to be disappointing. They possessed the cruel edge of their father without possessing his wisdom, cunning and ruthlessness.
+
+Compared to the Nezarie Family’s only child, they were far too lacking.
+
+That was why, Naliel, a second cousin to the scion of a minor Noble Family, had been required to swear fealty to the Nottrakon Family in exchange for the post of academy professor.
+
+Since he had achieved that coveted post, Naliel had seen many changes in his life. He no longer had to worry about living expenses, because the academy covered it all for him. Within the Noble District, he was afforded great respect by the naturalized citizens and even the Minor Noble Family he was only tangentially related to now spoke to him with great respect, even sending him valuable gifts only a month or so ago.
+
+As for Valerie, she was a talented student, sure. Naliel held no grudge against her or the Nezaria family. However, the way he saw it— the academy was already run by the Nottrakon Family and the assassination was going to go through with or without his cooperation. Sticking his neck out would only mean one more name added to the scapegoat assassin’s list and Naliel quite liked living.
+
+“That’s annoying,” Tom muttered under his breath, his gaze drifting over to the actual professor, who was still rendered unconscious by the reagent he had administered.
+
+The professor’s thought process wasn’t just annoying, it was despicable. If he couldn’t shelter his students from harm, the very least he could do was stop himself from conspiring against them.
+
+“I see why the Nottrakon family managed to eradicate the Longstradias with such ease now,” Tom grimaced, his expression indicating the distaste he felt. “But getting involved in this mess now only risks derailing my plans with Aleph and Zirel. Unless…,” Tom’s eyes widened in realization before he flipped the scribbled over pages to fresh ones.
+
+He began to write in a rough scrawl that was more than likely only legible to him, his expression tense as he finally drew circles on the conclusion his calculations were leading him to.
+
+‘Civil War’.
+
+If Tom saved Valerie Nazeria from the assassin and told her the truth, the first thing she would do would be to report to her father. And Valerie, as her only heir, clearly mattered a great deal to him.
+
+Professor Neliel was of the opinion that the death of his daughter would send Lord Ramav Nezeria into a murderous rage and once he found out who was, falsely responsible, for the assassination, he would damage both the Nezaria and Zenari family’s reputation, resources and wealth.
+
+Leaving behind no worthwhile candidates for the position of the next King.
+
+If a civil war was fated to happen regardless of what Tom did… then why not steer it’s course in a more satisfying direction?
+
+Aleph hated the Nottrakon Family and Zirel would pay good coin to see his hateful siblings in turmoil. His allies held no love for the King and as for Tom, he had always been a simple sort of man.
+
+Aleph was his friend and she had done more for him than most of the people he had known back on his old-world. The King had taken from his friend everything that she had ever known, ever loved.
+
+For that, now that Tom had the means to achieve such a thing…
+
+The Nottrakon Family could pay for their sins.
+
+Tearing out a piece of paper from the notebook, Tom began to write a note in a delicate, formal cursive.
+
+‘To Professor Neliel,
+
+Do not be alarmed by the actions we have taken under your guise in the past twenty four hours. Your loyalty to the family, along with the loyalty of the select few that have full knowledge of the plan, has been tested under His orders and no traitors have been found within our ranks.
+
+Do not stray from the orders and do not speak of this matter to anyone, including our allies. It is only because you are judged trustworthy, He has ordered us to divulge this information, so you understand the nature of what has transpired and do not deviate from the plan, now that no traitors have been found.
+
+Regards.’
+
+Naturally, Tom did not expect his letter to fool anyone smart enough to become an academy professor. If it were not for his ace in the hole, he would have had no idea what to do. The disguise Active Shroud offered him only lasted twenty four hours, after which he would revert back to his normal appearance.
+
+The assassination, on the other hand, was to take place in a week. If one of the three professors that would be overseeing the practical examinations outside the Academy were to disappear, then the assassination would be called off. If the professor found himself knocked out in a random inn, the assassination would again, be called off. Even if Tom were to go as far as to kill the professor, which he would not, the assassination could still be called off.
+
+That could not be allowed.
+
+He had to save Valeria if he wanted her to trust his words.
+
+Otherwise the assassination would simply be rescheduled from a different attack vector and Tom would be helpless to stop it.
+
+A grin crept up on his features as Tom withdrew the Nottrakon Family’s Elite Guard Crest. Placing it gently on a cloth, he took the vial of ink and then began to pour ink on its surface until it was fully covered.
+
+He took a few minutes to let the excess ink drip away onto the now drenched cloth, before walking back to the table. He placed the cloth to the side and then, pressed the now ink covered crest against the paper’s surface.
+
+“There, that should do it,” Tom grinned as he placed the letter on the unconscious professor’s chest. “There’s no way he doesn’t recognize the Elite Guard of the Nottrakon Family and their crest considering Nvein did, without being pledged to the King’s family. And considering how intimidating they are, this coward should be too scared out of his mind to doubt its veracity.”
+
+His deception complete, Tom walked towards the sole window in the room and peeked behind the curtains, glimpsing at the first rays of dawn.
+
+“Now, I believe I have a class to get to.”

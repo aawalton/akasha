@@ -1,0 +1,235 @@
+---
+id: e26aeea4-5f65-5dc2-8ebc-d96592f8d0fe
+page-type-slug: story-chapter-royal-road
+title: "132 Expedition"
+slug: 0091-132-expedition
+partOf: the-new-world
+position: 91
+ownLength: 2919
+unit: words
+ownProgress: 2919
+publishedAt: 2018-07-03
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/230492/132-expedition"
+royalRoadId: "230492"
+markedReadAt: "2026-06-29T21:23:59.524Z"
+---
+
+I scratched my cheek, “How exactly are we going to hunt for the cipher?”
+
+Yawm leaned back in his chair, “I gave the issue some thought, and I came to a realization - you learned the cipher from rifts.”
+
+I opened my hand, turning it in circles,
+
+“Uh huh.”
+
+Yawm raised a hand,
+
+“This gives a practical idea, especially after discovering Amara’s existence. The eldritch know the cipher on an intrinsic level. Learning it from her and my own musings is frustrating. My motivation is waning. I believe that my own indignation is stifling my progress.”
+
+Yawm pointed outside, “You see, I’ve spent far too much time within the confines of my own castle. I’m losing my passion for my own goals, partly because of the length of my journey, but also because of the tedious nature of it.”
+
+Yawm clasped his pointing hand into a fist, “I was not made to sit inside a room and study a cryptic language everyday. I was made a warrior. When I battle, I am most alive. That is when my mind is most active. That is when I thrive.”
+
+He lowered his fist, “In order to regain that spark of life, I devised a solution. I can go hunting within rifts for fragments of the cipher.”
+
+I tapped my chin with a loose fist, “So uh, you figure you’ll learn about the cipher while fighting eldritch?”
+
+Yawm raised both his hands, spreading them wide, “You followed my line of thinking to perfection.” Yawm glanced around, excitement tracing his words,
+
+“Your fight against the eldritch here made it clear. They’re no challenge for a warrior of any true caliber. In order to remain protected, I’ll need more than just a horde of fodder. While I explore the rifts, I’ll find eldritch that can repopulate my own rift. With them, I’ll generate a more powerful army at my disposal.”
+
+Yawm raised a fist to me, clasping it with vigor, “Since you’ve been keen on killing them, I figured that I would offer for you to join in on the fun.”
+
+I nodded, “Ah, so I’ll still get to relax and fight some, but I won’t decimate the population of your current eldritch.”
+
+Yawm clapped his hands once,
+
+“Isn’t the prospect exciting? You’ve even found portions of the cipher you could learn from. If my hunch is correct, you’ll have an eye for finding the portions of it that we may harvest.”
+
+I raised a finger, “Give me one second to think about this. I gotta troubleshoot it for flaws and what not.”
+
+Yawm leaned back into his chair, “Take your time. Skepticism is a shield against foolishness. Your skepticism shows wisdom.”
+
+I crossed my arms, glancing down. I held back a smile. This was a golden opportunity. I hadn’t refilled my dungeon cores in forever. I needed hundreds of them. I could level up, get those dungeon cores, and stop eldritch at the same time.
+
+I looked back up at Yawm, “I mean, that seems a like a pretty decent idea in my opinion. There wasn’t any glaring flaws in it.”
+
+Yawm stood, the chair behind him falling backwards, “Then we leave at once.”
+
+I stood, but I didn’t send my chair flying. Yawm laughed,
+
+“I’ll create a core right now.”
+
+I raised a hand, “Why not just go find rifts around us?”
+
+Yawm’s grabbed his chin, “Why not use my core generation abilities?”
+
+The main reason was because I wouldn’t get any cores like that. I wasn’t telling his ass that though.
+
+“You said you were cooped up in this place for too long right? Staying in this room and teleporting sort of defeats the purpose of this entire process.”
+
+Yawm face palmed, “Of course, this city is barren. The dungeons here have likely already fallen into dilapidation, turning into rifts. If we walk outside, the rifts will be there, plain to see.”
+
+Yawm walked towards the doorway of the room, “Let’s find one.”
+
+I jogged outside the room, catching up with Yawm. We walked outside his palace, reaching the exit of his palace. After diving through the bubble room, we swam towards the surface. The eldritch writhed in the water, an obvious fear permeating them. Yawm terrified them, even I did.
+
+We paced out of the lake, water pouring off us both. We ramped up our speed, running out of the rift. Past the floating islands surrounding Yawm’s world tree, the gray cloud loomed overhead. It acted as the edge of Yawm’s domain. With the same crisp iciness, we pierced the cloud, getting outside the rift.
+
+As we traveled, I pointed and described various buildings. Yawm paid close attention, a deep interest showing in how our world was. I pointed at a museum, the marble columns holding the entrance up,
+
+“Bigger buildings are almost always home to dungeons. Since you like learning about the world, we’ll explore a rift while walking past an exhibition of humanity’s past. Sound good?”
+
+Yawm leapt over a convenience store, landing beside a utility pole. His feet crushed through the concrete sidewalk, the stone like putty. He reached up, stopping the pole from landing on him. With his arm outstretched, he grabbed halfway up the pole with ease.
+
+With a flick of his wrist, the power pole timbered in the other direction. It fell, crashing onto the convenience store. The rippling, alien sound of cords snapping echoed out as Yawm peered around,
+
+“This world’s constructs are so...flimsy. They’re ancient it seems.”
+
+I laughed, “I guess they are. We weren’t even close to exploring space.”
+
+Yawn chuckled, “I assure you, that was evident.”
+
+He walked by a car, over twice its height. Without bending over, he grabbed under it. His fingers crushed the metal, shattering the glass windows. He lifted it, glancing under the vehicle with a tilt of his head,
+
+“Your species doesn’t even use graphene reinforcements for metal.”
+
+I frowned, “Ok, I get it. We’re not space people. We didn’t really start learning science until a few thousand years ago. Cut us some slack.”
+
+Yawm stared at the intricate series of metal pieces under the sedan.
+
+“Your species developed quickly then. I know of hive oriented species that required tenfold that time for development. You’re society must orient itself around competition then?”
+
+I took in a deep breath, “We used too. Good old capitalism.”
+
+Yawm nodded, “Excellent for growing into a self actualized society. Not quite the best model for staying there.”
+
+I raised an eyebrow, “What do you mean?”
+
+Yawm flicked his wrist, sending the car flying. It landed onto the convenience store, barreling through the building. It collapsed in a wave of dust. At it settled, Yawm turned towards the museum,
+
+“Capitalism promotes competition and incessant growth. As society develops, technology advances. This eliminates lower level employment, creating economic displacement. Until the necessity of work is voided altogether, social pressure rises.”
+
+Yawm walked and talked,
+
+“Often times this creates entire classes of people left behind in the wake of advancement. As you can imagine, those classes of people aren’t the most pleased. This social unrest can create violent uprisings, destroying stable societies.”
+
+We reached the wooden building, the brick entrance leading up to a tall entrance. Yawm shrugged at the foot of the stairs,
+
+“Of course, these are only my own musings on the issue. Like anyone else, I very well could be wrong.”
+
+I walked up the brick steps, “Eh, it’s interesting hearing your opinion anyway. I’ve never even thought about it that deeply in all honesty.”
+
+I glanced around. This history museum once was a plantation home. After being converted into a state building, they retained its classic touch. Tall ceilings, tall doors, all designed for hot summers. As we reached the doors, Yawm stared at the door handle,
+
+“Do you grab it?”
+
+I shook my head, “Not for us.”
+
+I walked through the doors, the wood crumbling while I spread my arms. My face crashed through the doorway, the drywall crumbling. Just above my head, the tallest spine of my armor scraped the ceiling. I turned towards Yawm,
+
+“Ducking under it over and over sounded frustrating.”
+
+Yawm leaned forward, resting his body weight onto his knuckles. It was reminiscent of a gorilla. Yenno, besides for the pulsing green energy, wooden skin, runic carvings, and mane of leaves behind him. If anything, his new posture intimidated even more than before.
+
+“Is that how you’re supposed to walk?”
+
+Yawm shook his head, “No, but porytians can walk this way. Since our species is symbiotic in nature, one of us evolved from herbivores and the other from predators. Walking on all fours was an evolutionary trait gained from when we were four legged creatures.”
+
+I walked into the museum, the reception area rising just enough for me to walk at full height. Yawm kept hunched, walking with all the pressure on his knuckles. We paced through the hallway, reaching the exhibits.
+
+Cannons, swords, and flags lined the wall. Natural light leaked in from windows, leaving shade in corners of the room. With a much taller ceiling, Yawm stood his full height. Further inside, we reached a row of empty exhibits. Yawm pointed at them,
+
+“What weapon of war is missing here?”
+
+I shook my head, “It wasn’t for war. This was a general museum. This was where dinosaurs were located.”
+
+He turned towards me, “Dinosaurs?”
+
+I nodded, “Yeah, dinosaurs. They were giant reptiles covered in scales.” I touched the struts that once held the bones in place, “Now why exactly are the bones missing, well I don’t know.”
+
+A shriek ebbed from deeper within. Yawm turned towards the sound,
+
+“Let’s have faith that a dungeon is here.”
+
+We jogged towards the howling. We reached another room missing exhibits. At the center of the room, a pitch black, furry animal writhed on the floor. The creature writhed, squirming with violence, but it lacked any finer details. It turned towards us, the lump of hair sticking out on end. I analyzed it.
+
+Baby Bojokan(lvl 467) - This thing has uh, black hair. It looks pretty mean too. I hope it doesn’t come at me like a parasite or something. That would be super gross.
+
+Getting exiled had its problems after all. I sighed, venting frustration while the air crackled. Goosebumps welled across my arms as the aura of green condensed around Yawm. With a massive hand, Yawm flicked a finger,
+
+“I can relate to your frustration. This is a weakling, and I don’t have time for it’s noise.”
+
+The eldritch popped like a firework covered in rotten tomatoes. From the shadows, other bundles of fur expanded. The missing exhibits covered them, like an exoskeleton of petrified bone. They fitted into the skeletons like they were made for them.
+
+Adult Bojokan(lvl 1,892) - Honestly, I was hoping for a bit more from these dungeon monsters. I mean honestly, a fucking dinosaur furball. Wow-
+
+I closed out the analysis. Following my line of thought helped no one. I clasped my hands into fists, and Yawm sat down. As his ass landed on the ground, the building quaked. I turned to him,
+
+“What the fuck are you doing?”
+
+Yawm shrugged, “Fighting them would be boring, wouldn’t it? I’ll let you handle it and watch. That sounds far more entertaining.”
+
+I turned towards the bojokans,
+
+“If you say so.”
+
+I charged my runes in seconds. Three bojokans surrounded me, each stored in a different dinosaur. The T-rex one shot towards me, moving fast as cars on an interstate. I rotated on my heels, firing a left hook into its nose. The poor bones disintegrated into powder, the monster splattering beneath the fur.
+
+It fell sideways, my streams of gravity shuttling it away from me. Another bojokan rushed in, this one guised in the bones of an ankylosaurus. The tips of fur pushing out from between bones turned red. A viscous liquid covered them, making them slippery.
+
+Whenever it reached me, I shot forward. I slammed my feet into the ground then slammed my fist into its face. With a bit of gravity, I pushed the viscous fluid away. My fist unleashed a kinetic bullet into the center of the creature. It swelled up like a balloon, the bones cracking.
+
+As it deflated, a fountain of blood gushed from entryway of my kinetic bullet. With Hunter of Many, my armor shot into the abomination, sucking the life out of it. The blood never touched the ground as a forest of needles shot out in every direction. The other creature, a stegosaurus wannabe, ran towards me.
+
+It growled with wrath, white, glistening teeth contrasting with the darkness. The spiny plates along its back glowed a bright orange. Vibrant arcs of orange electricity shot outwards, like an augmenter’s mana. It barreled towards me. Instead of punching it, I welled mana into my hands.
+
+With a third of my health, I unleashed a torrent of gravity. The creature bowed, unable to withstand the onslaught. The concrete cracked. The legs of the creature broke. The red colored bones popped through tears of its skin. Blood gushed as its organs pulped.
+
+I grimaced before leaping towards the creature. I landed on it, stomping its skull. My foot was the wheel of a car and the monster’s head was a squirrel. After a not so satisfying squish, a splash of blood splattered over me. I wiped my face,
+
+“Blegh. Man, fighting these guys was fucking gross.”
+
+I banged the side of my head, my helmet echoing against my gauntlets, “I’m an idiot. Duh.”
+
+I gripped a hand, a wave of gravity pulling the coagulating slush from me. I reached out my arms, siphoning the monster mush from the edges of the room into a ball of meat. Using my armor, I devoured it. Yawm watched, his eye searching,
+
+“It’s tremendous. You’re armor trumps even the eldritch.”
+
+I shook my head, “If the eldritch is dangerous, it can eat me. I think I’m more like a crab. The shell seems invincible until it meets a rock.”
+
+Yawm tapped the side of his face, “I suppose...” He stood up, “This was a disappointing departure from the norm. It remind me why I gave up on hunting in rifts a long time ago.”
+
+I pointed around us, “Those weren’t even the dungeon bosses. Besides, they were about as strong as the solar beetles anyway.”
+
+Yawm shook his head, “The beetles reproduced via sunlight. They don’t require actual sustenance. That is why I chose them as guardians. By the teeth on these animals, I’m guessing they’re carnivores. They won’t last long before spreading outwards from my rift.”
+
+Yawm’s steps resonated through the room as he paced deeper inside, “It isn’t like I want to wreck more havoc than I need to. I’ve already done more than enough already. Seeing this derelict city reminds me of that.”
+
+A bitter disappointment drenched his last words. Not knowing what to say, I stayed silent and I followed him. We both us made our way into the depths of the building. We found an empty elevator shaft. We leapt down the metallic pit. I reached out with both hands, my fingers scraping the iron edges of the chute.
+
+Sparks shot out from contact, the sharpened tips of my fingers slicing the steel. Yawm crushed the elevator blocking our way outside like stepping on an empty can. He kicked it, the squished block of metal tumbling through the next room.
+
+The block of steel trampled into the nearby hallway, caving the wall in. As cracks expanded from the wall, Yawm stepped out, looking around. The hallway split down the middle, one entrance leading towards a theater and the other towards a maintenance room.
+
+I pointed at the theater, “The boss is going to be in that room, for sure.”
+
+We walked through the hallway, dust falling from the roof. Yawm’s elevator kick shook the entire building, making the aged structure grumble. We reached the doors, Yawm stepping through them as if they never existed. With the pop of bending steel, we entered the theater.
+
+Inside the dark room, a crowd of bojokans surrounded a mass of gears and hair. Wires stretched out from it, digging into the floor and walls nearby. These tendrils of metal siphoned energy from nearby. Atop this mountain of metal and fur, an enormous bojokan looked at us with no eyes.
+
+Upon its gray, metal face, etchings of the cipher glowed white. It smiled at us, a wicked, terrible kind of smile. The wires and cords traced under its skin, like a cyborg. It stood, its sloped shoulders rising high. With no real neck, it tilted the mass of muscle and metal around its head.
+
+Behind it, the dungeon core radiated simmered with power. The reddened core strained, holding in a mountain of energy. Soon it would shatter.
+
+Yawm turned to me, “In most instances, the eldritch refuse to listen to reason. Allow me to show you how I’ve managed to domesticate the eldritch near my own rift. Consider this a lesson in intimidation.”
+
+He turned towards the eldritch, his voice like an abyss,
+
+“Kneel.”
+
+The bojokans squealed at him, their shrill laughter echoing through the chamber. Saliva dripped from their frothing mouths. Their pot bellies shivered in delight at Yawm’s declaration. The air around us sparked, ozone tracing the air, bitter and acrid in my nose.
+
+With the air warping around him, Yawm raised a hand. As he spoke, a primordial dread dug deep into my bones.
+
+“I. Said. Kneel.”

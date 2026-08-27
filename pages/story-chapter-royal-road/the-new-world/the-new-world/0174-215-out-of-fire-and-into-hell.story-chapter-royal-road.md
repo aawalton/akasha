@@ -1,0 +1,135 @@
+---
+id: ea5356f0-8057-51ab-a619-d548abaf4275
+page-type-slug: story-chapter-royal-road
+title: "215 Out of Fire and Into Hell"
+slug: 0174-215-out-of-fire-and-into-hell
+partOf: the-new-world
+position: 174
+ownLength: 2472
+unit: words
+ownProgress: 2472
+publishedAt: 2019-07-09
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/380196/215-out-of-fire-and-into-hell"
+royalRoadId: "380196"
+markedReadAt: "2026-06-29T21:26:50.575Z"
+---
+
+The mana driven elevator rose as my two hybrids stopped that butcher in female form. She shifted into disgusting shapes as she killed, some twisted polymorphic reaper. She was nothing but a disgusting monster.
+
+I leaned back against the cold rock behind me, gasping for breath with my hand over my chest. I failed. My plan had been foolproof. Perhaps I gloated more than I should've, but every piece was there. Those heathen abominations weren't normal in any sense of the word, however. I'm not even talking about Hybrids either.
+
+The Gray Giant chomped into the damn Hybrids...It's not that I won't comprehend it. It's that I can't. Hell, most warriors can't even get near an eldritch without getting some parasitic infection. Hybrids are far worse, and that armor wearing idiot devoured one? It makes about as much sense as Emagrotha's whole philosophy.
+
+That is to say, none.
+
+I slapped my forehead a few times, my hair flattening from my sweat. A group of mind mages had failed to overwhelm that degenerate cannibal as well. They rendered his female friend unable to move an inch during the entire journey, yet he was only stunned for a few seconds. That let him break her capsule somehow. I lost my life for that.
+
+Fortunately, I'd yet used Schema's revival. As my mind went blank, I stared at the blood caked on my hands. It was my blood, and that was why my palms shook with fear. That cannibal nearly ate me alive with jaws dark as the sea at night.
+
+If he showed that side of himself to the public, perhaps he might not be quite as popular. He made my entire media campaign difficult. Up till now, I struggled just to keep him from turning against me. To think he had the foresight to record a video of that interview. I kept information channels limited, but there's only so much that can be done. The truth speaks for itself after all.
+
+After learning he recorded it, I told Tohtella to corrupt the file on his obelisk. She told me that it would compromise our information channel. Thinking about it gave me a bad taste in my mouth, so I spit. It was red as wine, so maybe the bad taste wasn't from thinking about her after all.
+
+I cursed that woman with my every breath. She came to me promising a plan for the ages. I was to become the central power on Giess and eliminate those filthy gialgathens at the same time. Now my throat thickens as my own blood jellies in my throat. It was a waste of pure blood. There were few pure espens left these days.
+
+I dragged my hand down my face, refocusing on the issue. I, Thisbey Thorn, had been taken for a fool. Never again. Once I re-established my base of power here, I'd hunt her down like the dirty pig she was. In fact, I'd do away with her entire pig race.
+
+Sometimes, filth needed to be cleansed. Turns out, I'm the only one willing to do the cleansing.
+
+Heh, maybe not the only one. The Gray Giant was giving me a run for my money with how he tore through those Hybrids. For a moment, I thought he was a demon come to life. In fact, his being a demon is about the only thing that makes sense about this entire situation.
+
+I licked my lips before shaking my head in disgust. Tohtella's mind mages were as useful as starting a fire by rubbing ice cubes together. Relying on them in any capacity had been my downfall. Now our base of operations was destroyed, and our unity was decimated.
+
+With my eye for talent, I could salvage the situation, however. This wasn't the end by any means. I still had control of the Hybrids, and even if only a few of them were left, they'd be plenty for my purposes. I'd been lower before, and I'd rise up now as I did then.
+
+As the damn elevator finally reached the top of our cavern base, I whistled out. From the dark two Hybrids skulked up, their bodies disgusting and grotesque. I suppressed the urge to vomit at the sight of them before pulling a hover pad from my dimensional storage.
+
+The cube of silver expanded, becoming a comfortable size and easy to balance on. Why any idiot would ever waste time on learning to fly was beyond me. After all, I had lofty ideals unlike most. Purity was my absolute goal, yet few understood my ambition.
+
+I put myself back into this moment. As the hoverpad fired up, I stepped onto the stabilizing platform, gravitational restraints making the device easy to use. Otherwise, it would take the agility of the damn theonostra, and those deep dwellers were about as trustworthy as an Old One.
+
+After flying up a few feet, I thought over to the Hybrids to make them obey my will. Even so much as touching their minds made my skin crawl, but to clean up a mess, sometimes you needed to get your hands dirty.
+
+Without any real face to speak of, they kept their mishappen heads staring at me. I pointed at them and snapped my fingers,
+
+"If you two could grow a brain perchance and listen for a second, I'd be mighty grateful."
+
+They kept staring at me, silent as the night. I narrowed my eyes, glaring between the both of them, "So the both of you are staging a mutiny as well now? Who'd of thought you imbeciles could muster up an ounce of defiance. I must say, I'm impressed."
+
+In my mind, the image of Tohtella appeared. Her repugnant violet skin and nasty white hair made me want to vomit once more. I'd had plenty of practice containing my nausea each time I stared at her alien face, however.
+
+I glared and thought to her,
+
+'What's the meaning of this?'
+
+'Precisely what it looks like. You've outlived your usefulness as you might have already suspected. These two will take care of you.'
+
+My face reddened as I hissed in outrage, "Who are you to double cross me? I sacrificed everything for you. My reputation, my businesses, even my rebellion. My chance is gone because of you."
+
+Calm and collected, she gave me her amused smile, 'I care about results, Thisbey. You know this. Unfortunately, you've given me quite the opposite.'
+
+I roared aloud, "Your mind mages were overwhelmed by a warrior. A dumb, idiotic barbarian. He has no technical knowledge. He's a goddamn caveman, a backwater savage, a...a chunk of iron without a brain. For espen's sake, you couldn't even use those advantages to come out on top."
+
+Tohtella's smiled turned into a frown, 'My bug only allows me to view his messages, not his status or other information. He even created a telekinetic network, further muddying my informational timeline. As a team, we planned based on his abilities given the nature of the tournament. We could not have predicted his resilience to mental magic.'
+
+Tohtella sighed, 'His mind is as strong as his body it would seem. I will act accordingly to kill him shortly. You will not.'
+
+The Hybrids lunged to me, but my hover pad propelled me into the air. I spit at them, "You filthy, disgusting animals couldn't catch an ice snail let alone little ole me. Know this. I ain't dying here. I can guarantee that. There's too much dirt I need to wash away before I pass. Purity will prevail."
+
+Tohtella's amused grin returned, 'I will enjoy seeing you die. The delusional musings of your cleanliness and our filthiness will not be something I miss. Goodbye.'
+
+Her connection snapped, and my head rang like a bell being hit by a cannonball. Blood dripped from my nose as images of horror spread over me, putting me to my knees. I bit through my lip, the twang of my blood keeping me awake. It was the pain really, as the blood from my nose was more than enough to make me gag.
+
+The synaptic infusion had been a mistake. I knew it the moment I agreed to the procedure, yet now it was far too late. Control of the Hybrids was too much to pass up on, but they've robbed me of even that. Advanced usage of mental magics or not, the cost was being at those pig's mercy.
+
+Once I established myself once more, I needed a surgeon to flush out my spine before they turned me into a full-blown simpleton. My IQ already lowered just speaking with them, let alone sharing a neural network.
+
+With my body and mind crippled, I used my willpower to push myself up. I was the Thisbey Thorn. A little discomfort was no impingement to me. I'd been through pain, and I learned that hard times had not come to stay.
+
+They came to pass. For me that is.
+
+I'd rise up after escaping this miscarriage of an operation. I floated above the surface, surrounded by the only thing worse than the gialgathens - the silvers. I willed my way above the spire forests, keeping far away from the most nauseating beings in existence.
+
+Beneath me, the worst garbage squirmed in all their filth. They'd be cleansed after we expunged the gialgathens and those filthy remnants. It would take time, but it would happen. I would make sure of it.
+
+To do so, I needed the big bad himself if I wanted all that to happen. I flew over to Rivaria, intending on persuading that mindless puppet over to my side. With his brawn and infinite mana, I could make miracles happen.
+
+Within a few feet of the cavern's entrance, another headache exploded through my brain. Each pulse of my head beat against my eyes as if pushing them out my head. My hoverboard clipped the sharpened top of a spire and ripped the machine's guts out. As it crashed, I fell down with my stomach rising in my chest.
+
+The metal ground grew closer before I clunked against the edge of a spire. My vision flipped as I vomited up my guts. I crashed into the metal ground, my sight spiraling. A spike of agony stampeded up my leg as warmth spilled over my left foot. All went black.
+
+As I woke up, I glanced down at my leg. A horde of saysha beetles crawled across the wound, sipping at the red blood. I screamed with enough force that spit flung from my mouth,
+
+"Get off me you filthy, disgusting mongrels."
+
+They didn't shift an inch. I moved my arms, and the beetles scattered away from me. Good riddance. I glanced around, hearing the haunting echoes of silvers from the metal forest. Across shining spires, my reflection sheened back at me. I met one ugly mug staring back at me.
+
+Scabbed blood, marred hands, and a split lip formed a rather handsome face given the circumstances. I glanced down, waves of pain riding throughout my entire body.
+
+I tried moving, but my lower body didn't respond. I crawled with my elbows a few feet before my twig arms turned to jelly. I hit my hand onto the metal ground, and something in my wrist popped. As a sharp pang rose up the limb, my throat clenched up. My eyes burned. Tears fell down my cheeks as I shouted out in frustration.
+
+In the distance, something stirred. I turned my head, expecting a merject to come end my misery. I wasn't so lucky. Some kind of squirming, fleshy mass slithered towards me, about the size of a fat child that overate candy. It writhed in a translucent sack, its organs shifting within it.
+
+My stomach sank at the sight of it, my breath catching in my throat. I crawled away from it, my arms gaining back some strength. It was incredible how much desperation acts as a motivator. My dread mounted as I dragged my legs behind me. The thing approached closer, saysha beetles scurrying away from me. I reached a spire as above me, something lunged down, landing in front of me.
+
+At eye level, a merject slammed into the metal, its breath disgusting. It lapped its tongue over its eyeless face, tasting the air near it. I shook my arms and growled out,
+
+"Come and get me then."
+
+I spit at it, but the monster lapped up the bloody gunk off its face. The merject tilted its head before leaning its head back. Before the beast plunged its iron tongue into my skull, a drizzle of red, singing slime landed onto the creature. The merject howled out in anguish, the acid melting its skin and pulling it up into a red mass of jellies above me.
+
+I let out a gasp of relief as I was saved once more. It was my destiny to keep on living after all. I pulled myself up to the spire and leaned my back against it. Exhaustion took over as I stared up at the sky. Some kind of giant, fleshy monster floated along. As it moved, it tore its belly open, and its blood devoured merjects beneath it.
+
+What a filthy world I lived in.
+
+My eyes widened as something walked onto my legs. I glanced down, finding the writhing, fleshy mass having reached me and crawled onto my body. I reared back my fist and slammed them down onto the organ sack. It was like slamming my hand into clay, leaving tiny indents but no real damage. A growing sense of horror rose in my chest as I panicked. I tried pulling away, but the fat thing was too heavy for me.
+
+The end of the creature opened up, revealing a ring of teeth. I screamed for mercy as it dug its mouth into my stomach. The beast stabbed into me, and pain erupted like a fiery eruption going into my belly. I lifted my head, trying to slam it into the pillar behind me. I was dead, but I didn't want to die like this. I planned to knock myself unconscious.
+
+My head crushed a saysha beetle behind me, keeping me alive. Before I reared my head back again, the fleshy sack wriggled and twitched about. A slimy mucus sprayed over me. I mashed my head against the pillar, but the gel kept the impact low. I stayed conscious.
+
+As the reality of my situation dawned upon me, I hyperventilated, breathing in the mucus to strangle myself. I didn't lose my breath. I was still alive, the mucus somehow breathable.
+
+Trapped under its bile, the beast squeezed its body with rings of muscle. My belly swelled as it shoved its organs into my chest. The pressure mounted yet I did not die.
+
+Someone, please kill me.

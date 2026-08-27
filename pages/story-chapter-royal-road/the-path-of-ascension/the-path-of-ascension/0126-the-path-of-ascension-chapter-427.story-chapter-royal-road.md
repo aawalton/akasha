@@ -1,0 +1,357 @@
+---
+id: feb5958c-a51f-576f-9e97-7a8b2586eda4
+page-type-slug: story-chapter-royal-road
+title: "The Path of Ascension Chapter 427"
+slug: 0126-the-path-of-ascension-chapter-427
+partOf: the-path-of-ascension
+position: 126
+ownLength: 4759
+unit: words
+ownProgress: 4759
+publishedAt: 2025-07-11
+link: "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/2427614/the-path-of-ascension-chapter-427"
+royalRoadId: "2427614"
+markedReadAt: "2026-06-29T19:22:12.285Z"
+---
+
+Chapter 427
+
+Matt stood just outside the atmosphere of Tolraubos and watched patiently as the oncoming wave of energy raced to the planet at near light-speed.
+
+A neighboring Tier 0 star twenty light-years away from Tolraubos had decided it was time to die, and it chose to do so in the most violent way it could: ejecting its outer layers into the vastness of space.
+
+A supernova reaching an inhabited star was hardly a rare occurrence on the scale of the Great Powers, and thankfully always came with decades, if not centuries, of warning. It was, in fact, one of the reasons a Duke in the Empire needed to be Tier 35.
+
+Beyond the war Tiers, Tier 35 was considered the Tier where an average cultivator could deal with such celestial phenomenon and protect the worlds they ruled over.
+
+It was, however, Matt’s first time dealing with such an event, but it was one he had been looking forward to since the upcoming supernova was first added to their ducal calendar.
+
+Tolraubos was a Tier 4 planet, so it could survive the expanding shockwave just fine, but the planet itself wasn't the issue. Rather, it was the much more fragile ecosystem living on its surface, including the mortals, who would be scoured by the immense explosion if someone didn’t intervene.
+
+Which was Matt’s job.
+
+Or at least, he was going to attempt it.
+
+Being mid Tier 28, the six of them had finally run out of steam and stopped delving after so many years. In the midst of dealing with ducal affairs, he had taken this job as an excuse to get out of the office, saying he’d be able to resonate his Domain with the event.
+
+Having worked so hard in the last 70 years on his Power’s second stage, he was hoping that overpowering a literal dying star would be the impetus that finally allowed him to truly master that ability.
+
+It was unlikely, and both he and Liz knew it, but it was an excuse she couldn’t really trump, and so he had gotten the job.
+
+He had suggested they both go and use it as a bit of a vacation, but she had rightly pointed out that they couldn't take a break when both of their seneschal’s were taking their own well-deserved breaks, which was why he was out there alone.
+
+Or not so alone.
+
+Just a minute before the impact, Matt felt Aster’s presence through their bond go from impossibly distant to right below him, and a quick scan showed Allie had brought everyone anyway.
+
+Inwardly complaining that he had had to travel the slow way, Matt turned his attention to the oncoming wave after checking that the Tier 35 guard was ready to step in if his Tier proved a limiter, and he was unable to fully protect the world below.
+
+Matt really hoped that wouldn’t happen because he would be incredibly embarrassed, but he wasn’t going to let people suffer if he did, in fact, overestimate himself.
+
+Thankfully, Tolraubos was only Tier 4 and didn’t have any off-planet industry, so Matt only had a single planet to protect and the other Tiered celestial objects would survive just fine on their own.
+
+Bracing himself, Matt pushed with his Domain and mana alike, forming truly massive shields with a several times [Barrage]d [Bulwark]. Not enough on their own, he further solidified the dozens of spell shields with his Tier 25 Talent before recasting the combo again and again until he had an umbrella protecting the planet. He even went as far as filling in the gaps with more solidified mana.
+
+Finally, with his Domain, he pushed at the oncoming wave with his Concept’s repulsion effect, while just behind that effect and the barrier of mana he had created, he used his Intent to lock down space, preventing any leakage.
+
+When the wave arrived, Matt grunted as the backlash of the blow hit him. It didn’t hurt him. With all of his physical empowerments, he could have stood a mile away from the exploding star and taken the brunt of the supernova’s shockwave with just [Cracked Phantom Armor]. But blocking its might thoroughly enough to protect an entire planet was another matter entirely.
+
+It was a star's dying struggle that sought to take as much with it as possible.
+
+Except it was merely that.
+
+Just a star.
+
+And Matt was so much more.
+
+He was a white hole and a black hole, and both of those two celestial bodies stood above a mere B class star, let alone a dying one.
+
+Matt felt his entire Domain shift and grow slightly as he felt himself connecting with his Images in a new way.
+
+He felt all three portions of his Domain strengthen, as well as his yet unformed Aspect’s Truth, as he pushed them in new ways.
+
+It was effective enough training Matt started considering putting the word out that he would gladly pay any other dukes to take their place or assist if they had any incoming supernovas. He was getting lost in scouring reports about supernovas when he remembered what he had promised Aster.
+
+For a moment he considered being a brat and not letting through any radiation, as she and everyone else had taken the Allie Express when he had to fly through chaotic space. But knew she’d be sad if he did and ultimately they were busy enough that travel would have been impossible, so it was nice enough they came even via Allie.
+
+So with a careful effort of will, he let through a tiny amount of energy from the supernova, guiding the energy so that it impacted the magnetic field of Tolraubos in a way that it would create a planet wide aurora.
+
+Just when he was feeling smug about a perfect success, he nearly lost his control over everything as he felt Aster’s emotions through his bond.
+
+***
+
+Aster breathed in deeply as she saw the world ignite in an aurora as Matt shielded Tolraubos from the oncoming wave of light, or rather radiation, that would have otherwise killed everyone on the world.
+
+Allie, despite saying she was on teleportation strike, had acquiesced when Aster said she wanted to see the aurora from Matt’s shielding of the world.
+
+He had promised to send her the recordings, but Aster wanted to see it in person, to bathe in the actual wonder itself.
+
+And at that point, it was easy enough to get everyone just to piss Matt off a little bit.
+
+The five of them were in hiding on-planet, though, having taken a clearing away from any of the major population centers.
+
+Even on the ‘night’ side of Tolraubos, it was as bright as day and everyone was celebrating, having watched the event grow closer for the last twenty years.
+
+In fact, Tolraubos had millions of extra people who had flooded over to witness the once-in-a-lifetime arrival of a supernova and see their lord and Ascender protect the world.
+
+It was also why they were hiding out so far away from everyone else.
+
+Even as Aster felt Matt gathering his strength to block the oncoming wave, Aster widened her eyes and spiritual sense alike, not wanting to miss a moment.
+
+Having felt her arrival, Matt deliberately let a small amount of radiation impact the atmosphere.
+
+It was… glorious.
+
+The magnetic field of Tolraubos ignited in a way that was often only seen near the magnetic poles of worlds.
+
+It wasn’t dangerous. Matt had more than enough control to ensure that, but it was beautiful.
+
+It was everything Aster had dreamed of.
+
+A world full of aurora.
+
+People everywhere started celebrating with bottles of expensive drinks opened and people who thought they were important giving speeches, but they only earned a small amount of Aster’s attention.
+
+Instead, her gaze went to the wildlife and the children.
+
+Both parties reacted similarly.
+
+Tiered animals reacted as their instincts demanded of them, something she had just enough memory of to understand. Some fled into their dens or under cover, while others interpreted the event like an oncoming earthquake and fled anywhere ‘away’. However, many just watched, able to understand there was no escape.
+
+A pack of woodland wolves started howling, scattering a herd of deer-like creatures. A bear only seemed to notice something was amiss when it rolled over and scratched its back, laying there watching the sky shine in a unique display.
+
+The children were more vocal in their distress.
+
+Many parents deliberately had their children nap so they would be awake for the event, and Aster watched them smile and laugh as they ran around under the lightshow, just enjoying the moment.
+
+It was pure and simple innocence. Something that life often wore down and eroded as people grew up and experienced more, slowly becoming numb to lesser wonders.
+
+Then there were the children who were scared. They saw something new and with no frame of reference, reacted with fear.
+
+That too was natural, and many who retreated inside to avoid the now alight sky peeked through windows and opened doors, feeling safe with a layer of cover between themselves and the oddity.
+
+It was all… Life.
+
+Aster didn’t have a better word for it, but she…
+
+Aster felt her pupils constrict as she felt… something happening.
+
+Trying to chase down that feeling, Aster let herself sink into the depths of her own mind.
+
+The scene around her was beautiful, stunning even, but it was…
+
+Aster realized with a start it was her as she was. It was Aster, the former simple ice bloodline, who had added air, illusion, and a touch of space to herself. A brutally hard step for sure, but not where she wanted to end up.
+
+Aster wanted to move beyond aurora, just as she had moved beyond being an ice fox.
+
+But change was scary.
+
+That in and of itself didn’t scare Aster. She had failed many, many times in the course of her life, and she had long accepted it as part of the learning process. She was confident enough in herself to not stumble upon the mere thought of failure.
+
+No, she was realizing that she was afraid of what would happen if she succeeded.
+
+Aurora existed. Maybe not in fox form, but it existed.
+
+Her proposed space ice didn’t.
+
+It would be a step into something no one had any idea about, and laying there as she watched an aurora wash over Tolraubos and its people, Aster realized she was at a crossroad.
+
+She could continue as she was, which was already good enough.
+
+It was Ascender level.
+
+It was impressive.
+
+It was…
+
+It was contentment.
+
+It was a lullaby sung by the most dangerous siren of them all. Her own ego and long-standing effort having resulted in nothing so far. She hadn’t stopped working on her idea, but it had been pushed further and further down her list as other things and responsibilities piled up.
+
+That wasn’t what Aster wanted.
+
+Aster wanted the chase as well as the prize.
+
+Maybe not always or in everything, but she wanted it for her bloodline.
+
+It may have been the overconfident declaration of a fox hardly out of the shell, but the her of yesteryear had been like the children playing under the dancing sky, free and unfettered.
+
+If there was no path forward, she would plot her way further.
+
+Aster felt herself lighten and her spirit naturally slip out of her body as she nearly communed with the Realm itself.
+
+Aster didn’t try to fight it or force it along, just letting it happen even though she wasn’t entirely sure what her Inspiration was about. She hadn’t figured anything of note out.
+
+Or she didn’t think she had.
+
+Was it really as simple as just recognizing her motivation had been wavering and resolving to continue? She had to smile ruefully at that. And here she had thought Rah’s Inspiration about ‘standing still' had been a bit silly.
+
+Now look at her!
+
+Even if her initial dreams of a mana type that can freeze even a universe with essence was childish and most likely impossible, Aster would not give up on chasing them. Her final destination might not be what she conceived of as a child, but that was okay. She was sure she could advance farther than she was now so long as she kept pushing forward.
+
+The Inspiration that was on the verge of initiating finally fully materialized, and Aster felt as all of the essence of the planet and beyond started to rush into her. When it became clear that wasn’t going to be enough, space itself tore and energy from elsewhere started to pour in.
+
+It wasn’t essence. At least not at first, though the energy started to convert the moment it fully appeared in real space.
+
+It also wasn't chaotic energy, but it felt similar.
+
+Aster almost smiled as she remembered thinking similar thoughts when it was Amelia Galley’s Inspirations which caused a moon to Tier up multiple times.
+
+Tolraubos also benefited, as the world went from the middle of Tier 4 to low Tier 5 from the wave of essence that poured down from the nothingness.
+
+Opening her eyes, Aster laughed as she pointed at Allie who was nearest. “Ha! I beat you to Tier 29! I beat all of you! Eat my dust!”
+
+Aster also sent a round of messages into the Ascender chat, wanting to brag further.
+
+Instead of sniping back, Allie pulled Aster into a hug just a moment before everyone else joined in and started congratulating her, as well as pestering her with questions. She even felt Matt sending her a mental hug through their shared connection which made it all the better.
+
+***
+
+Feeling his bond undergo an Inspiration on such a low-Tier world and pull in massive amounts of essence from beyond the Realm, Matt knew what would happen as the world Tiered up.
+
+He only had to look to the guard he had brought along, and they raced downward and were in place to destroy the monsters which broke from the rifts, as every rift on the planet Tiered up with the world itself.
+
+Knowing all of his friends were on the world and more than able to handle it, he still sent the guard down so his friends could simply focus on Aster, celebrating her monumental achievement.
+
+Feeling her spirit settle down, he sent her a hug through their bond, even as he still protected the world from the rest of the supernova.
+
+The worst of the blast had passed and Matt simply needed to keep up his efforts for a month or three, which he didn’t mind in the least. Even after the initial clash, his Domain was still growing, albeit slowly. After that, the Tiered atmosphere and magnetic field of the planet could shield against the rest. Especially now that the planet was Tier 5.
+
+Aster and the other four teleported up next to him and Matt spared what concentration he could to congratulate his bond.
+
+Aster immediately said, “Ha! I’m now stronger than you, so you need to do whatever I say! I want my room to be twice the size it is. I need the extra space to fit my ego. Then I need a whole ice cream factory put into the house. No more excuses! Then I—”
+
+Matt just rolled his eyes even as he ignored her increasingly ridiculous demands.
+
+She finally only stopped when she got a message from Tolraubos’ baron, who was requesting she come and give a speech so the people of the world could thank her for elevating their planet's Tier, as well as giving them incredible notoriety that would undoubtedly serve as a tourism base for years to come.
+
+Matt, left floating above the world, could only wonder if he was chopped liver in comparison, having been seemingly completely forgotten.
+
+Still, Aster deserved her moment, and so Matt continued in his duties and ensured the planet would still be washed in just the right amount of radiation to create auroras but not be dangerous.
+
+It was truly already good enough that Aster had had an Inspiration, let alone one on a low enough Tier world that she was able to force the Realm to protect the planet.
+
+Matt was personally more upset by that.
+
+He had never expected to experience such an event again, but now that he had, and one where he had been so close to it when it happened, his interest was beyond piqued.
+
+Except, he hadn’t been able to divert much attention away from the world-destroying supernova, only able to look just enough to want to see more.
+
+Not that he had been able to see much with his spiritual power being unable to push through the tear in reality to look outside.
+
+The energy that had entered the Realm was truly from beyond the Realm, like what happened during an Ascension, but there was a subtle difference he wished he could investigate.
+
+Unlike during an Ascension, it had converted itself into essence in a process that seemed entirely natural, but also so incredibly complex, Matt didn’t have even a chance of understanding even the smallest piece of it.
+
+Still, he wanted to know more and his mind went to piecing together if he could form a guild team to investigate the phenomenon.
+
+He’d first need someone who had an Inspiration and was actively holding it back, as well as a low-Tier world. The latter was easy to find, but the former wasn’t so easy. Most people who knew they were having an Inspiration had no reason to postpone it and let the revelation happen immediately.
+
+Even then, those who could actually stop their Inspiration were few and far between.
+
+That didn’t mean it was impossible.
+
+If Matt put out the call and was willing to pay enough, it was possible.
+
+Difficult, but possible.
+
+The issue was, he didn’t know what purpose the research would be good for.
+
+While Inspirations that triggered the defensive mechanism of a planet and Ascensions were rare, they had been happening for untold aeons. Many, many people had tried investigating them before him, attempting to figure out a way to permanently keep the passageway open.
+
+Most who did so simply wanted a never-ending stream of the strange outer Realm energy to make forming Domains easier, as well as making Talents better. But others wanted passageways to higher Realms, hoping they could get information from them or the like, but not a single one had been successful in any way, shape, or form.
+
+Which meant there was likely no reason for Matt to invest in such a project, but the ability to safely Tier up planets for effectively free was a lure he found hard to resist.
+
+His realistic side took over and promptly shoved the idea into a box and locked it while throwing away the key.
+
+Sadly, while he was still protecting Tolraubos, Liz, Aster, and everyone else had to leave to return to what they had been doing before what was only meant to be a few hour excursion turned into a week-long celebration.
+
+It was during that time Matt got to see the effects of Aster’s Inspiration, as the aurora, which should have only lasted as long as Matt allowed the right amount of radiation to hit the magnetosphere, lingered.
+
+It wasn’t enough to aspect the planet, but it did give him some interesting ideas to try for making aspected planets down the line.
+
+Not that Matt minded, still having a stop on his journey back to Palustris he needed to complete before he returned.
+
+Calafor was a Tier 5 world which had been brought from another dukedom when his and Liz’s had been formed, and had been one of their least problematic worlds.
+
+Baron Negui Dalru was a steady man with a long history, having earned his non-hereditary title, working at a Viscount’s side for nearly five thousand years, and had a stellar record after taking over Calafor.
+
+He was in one of Matt and Liz’s favorite group of barons because neither of them ever had to interact with the man.
+
+Or, that was the case until a few years ago, when one of his local banks had started making off-schedule requests for physical credits.
+
+In and of itself, that wasn’t that surprising. No bank was always perfectly accurate in their predictions of how much currency they would require, but with Matt and Liz’s limit on physical credits, they had needed to fill in much stricter request forms to receive the extra currency. After the third such request in short order, it had been brought to Matt and Liz’s attention.
+
+At first, they had hoped it was connected to the counterfeiting rings that had continued to operate in their duchy as another lead would be immensely helpful, but it quickly became evident they weren’t so lucky.
+
+Rather, all of the withdraws had been from one Timothy Bao, a Tier 3 who had been making the withdraws with zero attempt at subterfuge.
+
+Normally, given such information, Matt and Liz would just wipe their hands of the venture, but what was strange enough to pique their interest was that none of his withdrawn credits ever appeared in circulation, which spoke of a Talent.
+
+And a Talent that destroyed credits in some way was interesting enough that Matt was willing to make a detour to deliver them himself, since Calafor was on his way back to Palustris.
+
+Two weeks of flying later, he arrived at Calafor and slipped in unnoticed, having disembarked from his ship in chaotic space and entering real space while ensuring no fluctuations were made.
+
+The first thing Matt did was the first thing he did whenever he entered a world under the command of one of his people: he scanned it from pole to pole.
+
+Matt was mainly looking for flagrant abuses of their people, but it was also a good way to get an unadulterated view on Empire civilian life in his duchy.
+
+What he saw made him happy. Calafor was peaceful and nearly fully inhabited, with the largest three continents completely settled and rifts pacified, even if some areas were less populated than others. The smallest two continents were only settled on their coasts, with a few island chains having been artificially raised connecting the two of them.
+
+Acting as something of a nature preserve, those two continents had most of the world's Tier 5 rifts, which would have normally made them the economic hubs of the world. But the former custodian of the world had deliberately set things up that way to help make settling the larger three continents easier, as well as having wild monsters available to hunt in a safe manner. It wasn’t a bad idea by any means, and plenty of planets followed such methodologies, though such concentration of rifts was more detrimental after Tier 10 or so, when a more dispersed layout was better for economic growth. Calafor however had a long time before it encountered that problem which made continuing perfectly acceptable.
+
+What made Matt happiest of all was what he saw his baron doing when he arrived.
+
+The man wasn’t idling his time away, even if Matt wouldn’t have blamed him for that, given how well his world was run. But rather, he was helping set the foundation pillars for a new railroad bridge that would span the distance between the two sets of continents.
+
+Many Tier 15s would have just hired the work out and watched on, but it spoke well of the man that he was taking such a direct hand in his world's development even if it was as grunt labor miles underwater.
+
+Pinging Baron Dalru, he gave the man leave to continue working but wasn’t surprised when he still excused himself and quickly made his way over to Matt.
+
+Knowing there was no way to avoid it, Matt let himself be shown around and made the appropriate noises at the projects and works.
+
+Once he felt like they had seen everything, Matt excused himself, citing the matter with Timothy to be dealt with.
+
+Baron Dalru just nodded, and seeing Matt wanted to handle it himself, informed him of where the Tier 3 was currently living.
+
+The baron looked like he wanted to say something more, but refrained himself when Matt didn’t question him further.
+
+He had traveled all this way, and he wanted a surprise.
+
+It was rare that Talents made themselves this well known.
+
+After changing his appearance with a mask, Matt pretended to be a simple courier making the requested delivery.
+
+Finding the bank which had made the request, Matt gave them the three requested 100,000 credit coins, replacement currency for the coins that had been removed from circulation, and finally enough credit coins that they could service the growing trend for at least a year, so long as it followed the growth model of withdrawals.
+
+Normally such an order would have just come from the nearby Viscounty, but the small delay hopefully wouldn’t have caused any undue hardship on the kid.
+
+Amusingly enough, he needed to use his ducal access to override the bank’s verifications, as he didn’t have a prepared identity. That would have been fine, but the more stringent requirements for physical currency he and Liz had enacted meant his quick fix tipped off the bank manager, who suspected something was wrong.
+
+Matt even got to watch as the emergency message was routed through all of the proper authorities, and detecting both his presence and the priority he had assigned currency related issues, arriving in his own inbox.
+
+Not having expected to run into such an issue, Matt waited for Baron Dalru to arrive, who vouched for him. Matt then had to reward the manager for doing as he had asked, not wanting to set a bad precedent. He did use the excuse to slip into her office and hide out there until the commotion of the baron arriving settled down.
+
+Only once the coast was clear did he go to a nearby cafe and order a light snack while he waited for Timothy to arrive.
+
+It took a few hours, and Matt had to resist the urge to backtrack the kid’s path in the city as Timothy happily withdrew the three 100,000 credit coins.
+
+Matt had gone through a few scenarios of how he wanted to play the situation, but they were mostly thrown out the window when Timothy absorbed the coins into his spirit the moment they were inside his pocket.
+
+It wasn’t the absorption that surprised Matt. Such Talents that needed to absorb physical currency were rare, but did exist, and were one of the reasons he couldn’t just get rid of the problematic physical currency. No, what surprised him was how the Tier 3’s spirit twisted and morphed upon the act, almost like a lizard shedding an old skin.
+
+Then the Tier 3 started to do small aborted movements with his hands, almost like he was doing a martial art, but what was more interesting was how his spirit shifted with each movement.
+
+It looked a lot like someone performing the first steps of creating a skill in one's spirit, but not any of the actual steps as described in the manuals. Weirder still, with each movement of body and spirit, the kid's spirit pulsed slightly.
+
+Choosing to wait a little longer, Matt followed Timothy until they reached his recorded place of residence, wanting to see if he could glean anything else while looking up his public history.
+
+Given the way he had withdrawn credits then seemingly overnight become a passable alchemist in several potion types the next day, Matt was pretty sure the kid was a variant of an innate knowledge Talent.
+
+After his interactions with Ellen and learning just how strong her Talent was, Matt waited for Timothy to enter his apartment before pressing his doorbell politely then using his Concept to mimic a knock when the doorbell proved to be broken.
+
+He could have appeared inside the room with the kid, but he wanted to try and play it straight without the subterfuge he had needed to use with Ethan and Eleanor when recruiting them to the Path.
+
+His smile froze as the door slammed in his face just as quickly as it was opened, and he had to make an effort to not laugh out loud at the look on Timothy’s face.

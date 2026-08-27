@@ -1,0 +1,167 @@
+---
+id: 665365d5-e2ec-51a7-9562-c945c353ff4c
+page-type-slug: story-chapter-royal-road
+title: "Chapter 91 – Which One Bleeds?"
+slug: 0091-chapter-91-which-one-bleeds
+partOf: the-magpie-and-the-archmage-monster-evo-litrpg
+position: 91
+ownLength: 1943
+unit: words
+publishedAt: 2026-03-02
+link: "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3107241/chapter-91-which-one-bleeds"
+royalRoadId: "3107241"
+---
+
+Liora squawked in astonishment. "I'm the real one!"
+
+But the shapeshifter instantly said," I'm the real one."
+
+"No, me!"
+
+"Me!"
+
+"Why can they both talk?" The swordsman grumbled, looking from Liora to the shapeshifted aethral.
+
+"Must be some evolved form." Morgana clicked her tongue in annoyance.
+
+What the hell?! They can't even tell us apart. I was clearly on this side this whole time.
+
+You were literally tumbling in the air with your talons locked with that thing. How was anyone supposed to follow that?
+
+"Cee, you know I'm the real one, right?" Liora said, looking hopefully at the spider. However, the spider had once again disappeared somewhere, likely using her Shadow Walk.
+
+Nonetheless, the imposter cried out too. "No, Cee, I'm the real one!"
+
+"Shut up, fraud! Nobody can compare to my beauty!" Liora cawed and shot a beam of Holy Light at the shapeshifter. This should be proof enough that she was the real deal.
+
+Predictably, the other bird avoided the hit, but then it also shot the same kind of light beam at Liora. She dodged it at the very last moment, but couldn't understand what had happened. Morgana and her team were equally confused.
+
+"It can copy birds' attacks?! Just how advanced is this thing?" The mage cried out, his staff going from Liora to the fake bird, unable to decide who to attack.
+
+How is this possible? How is this fair? Can it copy my attacks, too?
+
+No, it can't. That kind of skill of copying other skills on the fly doesn't exist.
+
+My mimicry can do that.
+
+It can only mimic vocal skills; it's much more limited than you think. Not to mention that your Mimicry isn't perfect. It can only copy skills at their basic level, and that isn't something that is going to change.
+
+This shapeshifter is mimicking your attack, but not in a way you think. It isn't actually producing Holy Light but rather the illusion of it.
+
+So that means that the attack won't actually do anything to me.
+
+Oh, it'll certainly do something. It's merely masking its real attack with an illusion. If you get hit, it'll most definitely hurt.
+
+Motherf—
+
+Liora didn't get to finish her internal curse when Morgana shot two bullets simultaneously, one out of each of her pistols. Much to Liora's dismay, one of the bullets was aimed at her.
+
+"Caw, caw," she protested.
+
+"Traitor!" The imposter called.
+
+"Captain?" The archer asked in confusion.
+
+"This monster is far too dangerous to be left alive. Sorry, birdie. I like you, and I would prefer to work together with you. But I can't tell you two apart, and this monstrosity has to die, no matter the cost," Morgana said and shot two more bullets.
+
+Liora Faded. If there had been time, she would have flown up to Morgana and left a nasty scratch on her arm. Or perhaps, Rended her pistols. She seemed to cherish those. But as much as Liora hated to admit it, Morgana had taken the right approach. This shapeshifting monstrosity needed to be stopped.
+
+The impostor repeated her trick, but not really. The shapeshifter, despite its illusory abilities, couldn't turn invisible. She could see a tiny fly buzzing in the air. It was her time to strike.
+
+Except when Liora flew towards the monster, a loud bang resounded from the room right above the fly. The cave ceiling fell, about to crush the fly. With the corner of her eye, Liora saw Cee sticking to the nearby wall and waving her spidery legs victoriously.
+
+Cee is already making good use of her glyph magic. I'm proud!
+
+The shapeshifter was forced to change forms. Liora didn't see what it changed into as the monster covered in the rubble.
+
+"It's under the rocks! The one over there is our bird. Quickly, somebody tie a ribbon to their leg or something," the swordsman called.
+
+"Traitors!" Liora accused them, but readied herself for when the shapeshifter emerged.
+
+She did not doubt that it had some kind of form that would help it get out of unscathed.
+
+"Focus! Prepare attacks once it emerges!" Morgana barked orders.
+
+Everyone readied their weapons while Liora kept a vigilant watch on the rubble. Cee, meanwhile, was running from one part of the ceiling to the next. It looked like she was panicking, but Liora knew better. The spider was undoubtedly crafting yet another trap.
+
+However, the more they waited, the heavier the silence got. The rubble didn't move. One might have interpreted it as a good sign if there wasn't one clear fact. Liora hadn't received a kill notification, and she doubted that the shapeshifter decided to go for a nap.
+
+Suddenly, before anyone could even do anything, the ground beneath the mage shifted, and giant, monstrous jaws closed around his whole body, swallowing him whole. The man didn't even get to scream when the giant worm had already eaten him.
+
+"Elric!" The archer screamed.
+
+Morgana began blasting one bullet after the next at the creature. A few of her bullets actually connected, making it thrash and howl in pain. The cave shook, and for a moment, Liora thought that the whole ceiling would come crashing down.
+
+But then the creature shifted into a falcon again, flying straight at Morgana. Liora didn't hesitate and gave chase, allowing her Aerial Agility to guide her wings. As she flew towards it, she also used Poison Shot, in hopes of weakening it a little.
+
+The agile little bugger whirled around when it noticed her attack and once again shifted to look like Liora.
+
+"It won't work again!" Liora announced and Faded.
+
+The shapeshifter looked confused for just a split second, but it was enough. Liora managed to close the distance between them and let out a loud, hearty "Buh-rup!"
+
+[You've successfully mimicked the skill <Paralysis Croak>.]
+
+The shapeshifter seized up, falling to the ground. At the last moment, it shifted into a white fox with nine tails and began spewing flames all around it. Although it couldn't move, Liora and everyone else were forced to back away.
+
+She suspected that this was another one of its illusory attacks, because she didn't feel any of the heat one would expect from this amount of flames. But Liora couldn't risk getting hit. Who knew what actually hid behind those flames?
+
+But even through all the ongoing mayhem, Morgana's team wasn't sleeping. Morgana was shooting bullets, the archer was firing arrow after arrow, while the swordsman and lancer were tossing knives and rocks from afar. The archer in particular seemed almost manic, her eyes filled with rage and tears.
+
+Liora suspected that she was close to the mage. But it wasn't the time for mourning. Paralysis wouldn't last forever. Liora decided that it was time to pull out her trump card.
+
+She flew up as high as the cave ceiling allowed her and dropped. Skypierce. She allowed gravity to strengthen her fall and let out a piercing falcon-like screech as she fell.
+
+The fox stopped spewing flames and hurriedly tried to change into a wyvern. However, it was too slow, and Liora struck it mid-transformation. She wasn't sure what she had struck. It didn't feel like either the tough hide of a draconic creature, nor like the hide of a mammal. It was as if she were sinking into clay.
+
+It shaped and stretched around her, trying to avoid the powerful hit. But there was no avoiding Skypierce. Whatever kind of natural skin this creature had, Liora had managed to get through. Green ichor poured from the wound of a half fox, half wyvern abomination.
+
+It howled an ungodly screech, its form twitching and converging. Liora knew that she couldn't stay close and tried to back away. But the rhinoceros horn formed right under her and struck her. She couldn't dodge it. Not fully. The horn cut her breast and nearly tore off her wing as she flew backwards.
+
+The swordsman had rushed forward and struck the shapeshifter with his giant weapon, making it stagger backwards. If it wasn't for that, Liora was sure that she would have lost her wing entirely.
+
+But the injury was too severe for her to fly off. The best she could manage was land behind some rocks for cover as blood dripped down her chest.
+
+Status!
+
+[Status]
+
+Health: Wounded
+
+Mana: Steady
+
+Affliction: Bleeding (minor)
+
+Fuckk!
+
+This is bad! You need to heal! Potion!
+
+While Renir was panicking in her mind, the shapeshifter changed into a worm and dove underground, thus avoiding the swordsman's and lancer's attempts at attacking it. Green ichor flowed from its side, but it was clearly determined to kill her.
+
+Liora tried to take flight, but she could barely move her left wing. There was no way she could fly. What could she do? Morgana or anyone else from her crew was too far. She wouldn't be able to get a potion from them in time.
+
+"Over here!" Cee called and threw a web not too far from where Liora was. "Grab it!"
+
+Liora ran over to the web, ignoring the pain in her chest and wing, and grabbed Cee's web with her talons and in her beak. The ground rumbled beneath her, and she could feel the earth shift underneath. Did Elric the mage also feel it before his death?
+
+Sharp teeth appeared through the rock, and Liora thought that this was it. She would die, and Renir would be once again stuck in the gullet of some monster. But Cee pulled on her web, dragging Liora up to safety.
+
+The worm sprang out and shifted into a wyvern, flapping its wings as the ichor dripped down its leg. It tried to reach Liora and Cee, who were now huddled away in a corner of the cave.
+
+However, the wyvern's wings got tangled in Cee's masterfully woven webs. Obviously, the creature hadn't seen them. Even Liora only noticed them once she was already pulled away to safety.
+
+One of the wyvern's wings was tangled in an electric web, which sent visible sparks at the wyvern. The other web had frozen its wing over completely, making the creature wail and thrash in despair as it tried to break free.
+
+Morgana took the opportunity and shot her bullets at the creature. Liora noticed that they had either a distinct yellow or blue hue, and if one struck, it would either apply mild shock to the area or a thin layer of ice. Liora suspected that Morgana was further strengthening the elemental effects of Cee's webs.
+
+More ichor poured from the shapeshifter's wounds, and it began thrashing violently and spewing flames around itself. It looked like they should burn Cee's webs away, but just like before, there was no heat, and her webs kept a firm hold on the shapeshifter.
+
+Even when it tried to change forms, the webs wouldn't let go, making it stretch and bloat in odd, disfigured shapes.
+
+"Take that! I made those webs extra sticky!" Cee announced proudly.
+
+"It's time to put an end to this!" Morgana announced with a satisfying grin and aimed with her pistols. It was without a doubt that the next shot would kill the accursed thing.
+
+But all of a sudden, a dark flame swept through the room. Not a fake one, but an actual black flame. It headed straight for Morgana, who was forced to jump back to avoid getting burned, and then switched its trajectory to Cee's webs. The flames burned them away in a matter of seconds, freeing the injured shapeshifter.
+
+Liora gaped at the cave entrance. A mage dressed in all black stood there, a large grin on his tattooed face.

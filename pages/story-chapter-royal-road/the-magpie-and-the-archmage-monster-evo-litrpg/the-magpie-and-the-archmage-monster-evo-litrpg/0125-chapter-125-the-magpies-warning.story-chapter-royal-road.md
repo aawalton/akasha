@@ -1,0 +1,229 @@
+---
+id: 6e497f76-2c27-5b9c-80e0-2a1823b968be
+page-type-slug: story-chapter-royal-road
+title: "Chapter 125 – The Magpie's Warning"
+slug: 0125-chapter-125-the-magpies-warning
+partOf: the-magpie-and-the-archmage-monster-evo-litrpg
+position: 125
+ownLength: 2251
+unit: words
+publishedAt: 2026-05-20
+link: "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3421291/chapter-125-the-magpies-warning"
+royalRoadId: "3421291"
+---
+
+"Are you sure about this, Damien?" Serena asked her blonde companion dubiously.
+
+"Do you not want to get stronger?" Damien shot back.
+
+"O-Of course, but going to a school… What about Kalen? And Kiva? And what will you three do while I study?" Serena asked nervously.
+
+This hadn't been the first time Serena had expressed this sentiment, but even now, after more than two weeks of intensive travel through the forested hills with the school being nearly in sight, she still doubted it.
+
+"For the hundredth time, Serena. He and Kiva are going through training in Cyene as we speak. You saw it with your own eyes, did you not?" The blonde man stopped, looking at his companion.
+
+It felt somewhat surreal to Serena. It hadn't been that long since she met Damien. Yet after what they had gone through together in Cyene Dungeon, they had developed a strong understanding. They understood just how weak they were.
+
+They just barely managed to get out of the dungeon. Even after following Liora's trail of magic-infused pinecones, using up all the resources and healing potions Damien had, they just barely got out alive. The realization that a bird had been the one to keep them alive the whole time was humbling to say the least, and since then, they have been searching for ways to improve themselves.
+
+"I… did. But I'm just worried. It's the first time I've been separated from my brother," Serena admitted.
+
+Damien put his hand on her shoulder. "I get it that you two are close, but you can't keep him in your skirts forever. He has to grow into a man. Not to mention, he's inside the city. What can even happen to him there?"
+
+"Those instructors you arranged looked tough…" Serena noted.
+
+"Of course, they are tough. He's learning how to fight, not bake cookies. Now, come on. We're almost there," Damien urged Serena to keep moving.
+
+"But…" She began, earning a slightly annoyed glance from Damien. "Won't this school take a long time? Being away for a year or even more…"
+
+"You're acting as if I'm dropping you off on some alien planet. Weren't you eager to learn magic?" The blond man asked.
+
+"I am…"
+
+Damien turned around and walked up to her, grabbing the much smaller woman by her shoulder. He bent his knees, so they would be at the same eye level—an unusually attentive gesture. As Serena had learned over these past few months, Damien wasn't exactly as pompous as he first appeared.
+
+Arrogant due to upbringing with more confidence than one person should ever have. Yes. But not unkind.
+
+"Then take this opportunity. We need to get stronger. I want to travel with you. I want to stay in the same party as you, Kalen, and even the weasel girl, as annoying as she can be at times. But we won't get anywhere if we don't train," Damien said firmly, then straightened, muttering something inaudibly.
+
+"What did you say?" Serena asked.
+
+"I…" He ruffled his hair, then muttered. "I don't exactly want to leave you in some mage school for over a year either. You know. I'd much rather stay together."
+
+Serena smiled. It really was amazing to see how much Damien had changed. It was a big change from the pompous Damien Stolte she first met in Cyene.
+
+"Who are you and where is Damien Stolte I know?" Serena teased.
+
+He shot her a glare, then whirled around and marched ahead. "Let's get going! It's already getting dark. I don't want to camp out in the woods again."
+
+"Very well. Let's—"
+
+BOOM! BOOM! BOOM!
+
+Flashes of bright light came from somewhere ahead in the forest, appearing for a brief moment and then disappearing again. Damien instantly withdrew his tower shield from his Inventory and jumped in front of Serena. She withdrew her staff and looked around the forest, watching for more explosions.
+
+Seconds ticked by, and nothing happened as they both held their breath, expecting monsters to leap out at them. When several minutes passed and nothing else happened, Serena dared to say, "What was that? Did it come from the school?"
+
+"Maybe it was a training exercise?" Damien guessed.
+
+"This late into the night?"
+
+"There must be some lessons held at night. After all, an adventurer has to fight in various conditions."
+
+Serena nodded at that. It seemed logical. Nonetheless, they didn't withdraw their weapons and instead walked at a slowed pace while scanning their surroundings twice as carefully.
+
+BOOM. BOOM. BOOM.
+
+More flashes of explosion, but this time they came from the left rather than ahead of the trail.
+
+"That was in a completely different place," Serena noted, holding her staff high.
+
+"I retract my previous statement. This isn't training," Damien said, his expression hardening. "What do we do?"
+
+"We shall proceed to the school as planned. Staying alone in the forest is too dangerous in the dark. These explosions might attract and wake up monsters that would normally be sleeping at night.
+
+BOOM. BOOM. BOOM.
+
+More flashes, and this time much closer than before. In fact, it was close enough that Serena had to shield her eyes from the brightness. She could even feel the tremors as they shook the ground.
+
+"Is it getting closer to us?" Damien growled. "Can you run?"
+
+Serena nodded, and they ran. Despite being dressed in heavy armor and carrying a tower shield, Damien could run at a decent pace, his armor clanging with each step. She was struggling to keep up, but as more explosions resounded around them, she managed to force her legs to move.
+
+The bright explosions kept going for a good half an hour, appearing without much rhyme or reason. Some were closer to the school, some were further away. Serena was wondering what could be happening. This didn't seem like something caused by monsters.
+
+But for explosions to be happening this randomly in the forest at night. She just couldn't figure out what it could be. As she ran, she tried keeping track of the explosions, noting their location. There was always an interval of silence between them.
+
+However, she thought she heard something in between these moments. "Damien, stop!"
+
+"What?" Damien stopped, whirling around, his sword up and ready to strike.
+
+"Listen…" She whispered.
+
+BOOM. BOOM. BOOM.
+
+"Yes, that's rather hard to miss…" he noted.
+
+"Shhh!" She put a finger to her lips.
+
+The man went quiet, and for a moment they both listened. Damien's expression was confused, clearly not hearing anything. But Serena heard it. In the distance.
+
+Damien narrowed his eyes, his expression confused until finally he heard it too. Disgruntled chatter in the distance. Low growls and displeased hisses.
+
+"Monsters," he concluded. "What now? We can't just go charging blindly at them.
+
+"Staying here is still too risky. That school must have some sort of defense and walls, no?" Serena asked.
+
+"It'd be crazy if it didn't have people guarding them. But we can't charge forward blindly either," Damien noted.
+
+"We'll go through the forest, away from the explosion sites. Follow me," Serena noted.
+
+"I swear we have the worst luck in the world. To end up coming here on a day when apparently somebody decided that poking sleeping monsters would be a fun activity."
+
+Serena couldn't help but internally agree with Damien. Things have been mostly calm since their narrow escape from Cyene Dungeon. Maybe it would have been better if they had remained in Cyene.
+
+"Stop!" Somebody suddenly called.
+
+Serena and Damien both startled. Not because of the sudden noise, but rather at the fact that the caller's voice sounded exactly like Serena's.
+
+"Who is there?" Damien called, brandishing his sword as he searched for the source.
+
+"Caw!"
+
+Before he could react, something appeared from the darkness, as if she had been part of it, and landed on his shoulder. It was Liora. Serena would recognize the little magpie anywhere.
+
+"Liora!" Serena called out happily.
+
+"AH!" Damien screamed and shook violently while waving his sword around in an attempt to hit Liora. But obviously, he couldn't hit the agile little bird who just flew from one of his shoulders to the next, until finally she settled on his head.
+
+"As rude as ever," Liora noted, still using Serena's voice.
+
+"Stop talking like Serena, you creepy bird! And get off my head! I'm going to turn you into a roast magpie and feast on your flesh. You nasty little traitor! We nearly died in that dungeon after you ditched us there!" Damien swore.
+
+She pecked him on the helmet repeatedly, not to actually hurt but to annoy the man. Serena had to admit that she was rather successful as her companion was quickly turning red in the face.
+
+"Calm down, Damien! She's not exactly our babysitter. Besides, I believe it was an eye-opening experience," Serena said, extending her hand for Liora to land on.
+
+The magpie swiftly flew over to her, landing on her hand. Oddly enough, she felt heavier than before, although she looked to be the same size. Serena was almost straining to hold her up.
+
+"It's nice to see you well, Serena," Liora said, using Serena's own voice. Although Serena believed that the magpie was making it sound more melodious than it actually was.
+
+"It's nice to see you too, Liora," Serena said, patting her head affectionately. She did miss this adorable little magpie.
+
+"Stop using Serena's voice! And give us the Pulse Stone you stole from us," Damien demanded, sounding almost petulant.
+
+"Stop using Serena's voice!" Liora mocked, mimicking Damien's voice, although she definitely made it sound more screechy and high-pitched than it was. Her control over her Mimicry had definitely grown in spades since they last met.
+
+"Damien, please! Calm down. I'm sure Liora had a good reason to do what she did," Serena said, looking at the magpie.
+
+She would be lying if she said that she wasn't hurt when Liora left them so abruptly in the dungeon. So she desperately hoped that there was a good reason for it.
+
+Liora looked to the side, appearing somewhat ashamed. "I apologize. I needed the stone for my m…master."
+
+"Your master? Your master orders you to steal loot from adventurers?" Damien snorted.
+
+"My master is Pillar of Lost Magic," Liora announced.
+
+Serena and Damien both blinked in shock.
+
+"W-What?! You mean Archmage Renir? No way! He's been missing for more than half a year now." Damien shook his head.
+
+"Not missing. He's working hard to help people. I'm doing my best to help m…master," Liora said.
+
+"What are you doing here?" Damien demanded impatiently.
+
+Liora ignored him, instead looking up at Serena. "You mustn't go to that magic school."
+
+"What?" Serena asked in confusion.
+
+"The school is bad."
+
+"What does a bird know about a magic school?" Damien growled, glaring at Liora viciously.
+
+"M-Master says it's a dangerous place for young mages. They force them to infuse mana," Liora explained.
+
+"Infuse mana?" Serena cocked her head.
+
+"You stupid bird. Infusing mana makes you a stronger mage. The school was built this far away exactly so it could take advantage of the wind mana node in the area and strengthen the students even further," Damien announced proudly.
+
+"CAW!" Liora flew over to Damien and began pecking his helmet. "You stupid lout! You were going to hurt Serena! Asshole! Dirtbag!"
+
+Liora kept slinging insults at Damien, while he desperately tried to get the magpie to back off.
+
+"Stop! I'm trying to make her stronger. Ow! I would never hurt… Ow! Will you stop it?!" Damien growled.
+
+"Infusion is bad! It oversaturates the body with mana. It can hurt and even kill Serena. You want her to die?! Asshole, asshole!" Liora continued her merciless pecking.
+
+"Wait, stop! What do you mean by die?" Damien looked horrified.
+
+"Master says mana infusion is extremely dangerous! It can kill you or cripple you so you can never use magic again. You mustn't go to school, Serena!" Liora said, flying up to Serena. "Please, don't go. I don't wish you to get hurt."
+
+Serena allowed Liora to land on her hand again and pet her feathers gently. "Okay, Liora. I promise I won't go to school."
+
+Damien gave her a dubious glance, but Serena shook her head, indicating for him to remain quiet.
+
+"You really won't?" Liora asked.
+
+"I really won't," Serena confirmed.
+
+"Thank you," Liora said, nuzzling against Serena.
+
+"Now you suddenly care," Damien scoffed.
+
+"Caw!" Liora flew up to Damien. He raised his hands in defense, expecting more pecking, but instead, Liora said. "You'd better protect Serena!"
+
+"Of course, I'll protect her! I'm not like you, who just abandons everybody in their time of need," Damien shot back.
+
+Serena thought she saw a flash of guilt appear in the magpie's features. But before she could look more closely, Liora had disappeared into the night.
+
+"I don't trust that magpie. Archmage Renir's familiar? Like hell! Something is very wrong with that bird. I'm telling you," Damien snarled.
+
+Serena didn't answer, instead continuing her way through the forest.
+
+"Are we going to school?" He asked, looking far less confident than before.
+
+"I think we should at least see what is going on. We've come too far to just turn back now."
+
+Damien nodded. "Yeah. Although… if the infusion can actually lead to death… I don't want you to try it, Serena."
+
+"I won't. I just want to see what's going on there with my own eyes," Serena said as another series of explosions resounded in the distance.

@@ -1,0 +1,425 @@
+---
+id: b11264d0-85e9-572d-8f55-85ffb55fedfa
+page-type-slug: story-chapter-royal-road
+title: "420 The Shattered Spires"
+slug: 0380-420-the-shattered-spires
+partOf: the-new-world
+position: 380
+ownLength: 4264
+unit: words
+ownProgress: 4264
+publishedAt: 2025-05-04
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2253318/420-the-shattered-spires"
+royalRoadId: "2253318"
+markedReadAt: "2026-06-29T21:34:21.833Z"
+---
+
+Althea murmured.
+
+"What's got it so mad?"
+
+I grabbed the portal I wouldn't let close. I jerked it back and forth above my head.
+
+"This."
+
+Like Plazia warned, maintaining a moving portal demanded a lot of the spears. They kept shining brighter before electrical sparks erupted from their surfaces. In flashes of light, each spear ruptured from overloading. As they did, I placed a powerful gravity well inside the Seer. The shards of each spear funneled into the behemoth as it howled out. The portal closed, amputating both its arms.
+
+I smiled.
+
+"And that."
+
+Chapter Begin
+
+The Seer's arms melted into a dense ectoplasm. Seconds later, another warp opened. Unlike the surgical opening of a Sentinel's spear, this vast rip in spacetime exposed a cataclysmic battle. Etorhma's form gushed blood from every piece of flesh, and an ocean of rich, dense mana formed below it. Etorhma's eclipse formed, a hole in the galaxies surrounding the ocean.
+
+The eclipse echoed out a hollowed laugh.
+
+"To transport a mere avar, you risk an entire world?"
+
+Etorhma rumbled.
+
+"It is of no consequence to me."
+
+Baldowah laughed as one of Etorhma's planetary shards exploded.
+
+"Oh, but that is where you're very wrong. This is no longer a place of meaningless learning and futile knowledge. It is a place of carnage. A land of relentless death and fervent rebirth."
+
+The Seer stepped through the vast spatial rip, and it closed seconds after. The citizens of the city panicked as troops from Marcella stormed out. The Seer growled at me.
+
+"I'll tear you apart."
+
+I reached out a hand, forming singularities over its body. At the same time, I jerked several hundred people away from its colossal body. The Seer planted in a place with some kind of antimagic, destroying my singularities in tandem. Rethinking my plan, I grabbed Althea and propelled us toward the city. The Seer raised a hand, forming a of its unique mana, and it hurled a bolt of it at us. I blocked the javelin with my personal storage.
+
+My pocket dimension gobbled up the attack before I generated another gravity well near it. Unlike before, it left no impact on the Seer. However, the shards of its spears gouged out of its body. They fell into a cluster near me that I scooped up inside my pocket dimension. It dashed towards us before we darted into the spatial fog surrounding New York City.
+
+In the distance, the Seer roared at us, but it wouldn't leave its bridge. Something pinned it there. Likely, Etorhma.
+
+Althea frowned.
+
+"What was that?"
+
+My face wrinkled.
+
+"For the first time, I got back at the Old Ones."
+
+Althea peered at the colossal stone titan.
+
+"Huh. Was it worth it?"
+
+Even as a seed of doubt nested into my chest, I smiled down at her.
+
+"Yeah. It was."
+
+She smiled back.
+
+"Good."
+
+We rushed back over towards the bridge several minutes later. Even as I walked, I wondered whether I handled the situation in the right way. Probably not. Enraging an Old One could only lead to more problems further down the line. Still, this wasn't some zero-sum game, either. After all, I gained favor from Baldowah in the process.
+
+I winced. Was that even a good thing? Hell no. I blinked, wondering if Baldowah hating me would be a bad thing. I genuinely had no idea. Baldowah's idea of an award would probably be a near-death battle. In fact, what would Etorhma's idea of consequences even be? I remembered my previous award, and I shivered. I never wanted another entity siphoning knowledge into my head again.
+
+That was one of the largest issues with the Old Ones - they didn't seem to understand the context behind what we considered good or bad. They operated on esoteric, random whims, and one person's award could be another's torment. Etorhma may come after those close to me, yet it may not. Did Etorhma even understand what a friend or close one was? I couldn't say for certain.
+
+The more I thought about it, the less sure I was. Still, setting the Old One up was reckless, and I'd need to let everyone know I angered the entity. I did so using the messaging system. Keeping small, I let Althea cover me in a cloak while she stealthed around. She materialized far from the Seer, and we walked around the thousands of people walking in and out of the Big Apple.
+
+It was easy to escape notice since they gawked at where the cataclysmic rift in reality had formed minutes ago. Most of them had no clue who we were either, but whispers radiated through the crowd from explorers of distant lands. They spoke of the Harbinger and his inevitable arrival. In the privacy of their minds, a few of the residents here even prayed for someone to free them.
+
+From whom or what? I didn't know because they didn't either. It was an esoteric feeling, not something concrete. To me, that made no sense whatsoever. It was like something suppressed their ability to recognize why they felt what they did. In their bones, they experienced the sensation still, so everyone here endured a persistent, low-level cognitive dissonance.
+
+In that dichotomy, they lived one way while believing something else entirely.
+
+The dystopian city sent a chill up my spine. Despite this internal suppression, a feeling of defiance resonated within many of them. They wanted out. Based on what I'd seen here, I'd probably be giving them an escape, but I couldn't be too sure until I inspected how well-run everything was.
+
+I wasn't a mindless conquerer, after all. I took charge when the situation called for it, but ruling people as Marcella did wasn't my style. As Althea and I crossed the rest of the George Washington Bridge, we funneled through a tunnel made of thick spatial fog. It was the same mist covering New York City from the outside. After passing the entire length of the expanse, light from the metropolis leaked onto the bridge through a small gateway. It was more of a tunnel at this point.
+
+We crossed that gateway, breaching into the dungeon, and a different kind of city dawned on us. In the sky, the sun shined from above with two moons dancing around one another. The skyscrapers floated in the air, each one resting on a different island suspended by torn gravitation.
+
+Below, fragmented streets connected the entire expanse in a vertical, 3-D archipelago. Over the whole expanse, an immaterial, blurry tree shaded everything. Its bark was like an icy windshield on a cold day, and the tree blurred light that passed through its branches, bending the harsh rays into a pleasant warmth. The colossal, energized structure wrapped around the entire metropolis for many miles.
+
+Grazing it with my Dimensional wake revealed its composition - it was the same fog that isolated this space from the outer world. However, someone condensed that mist down into a thicker material. Even more impressive, the tree reached into innumerable strands across an enormous area. These tendrils thinned until the strands exited the city.
+
+I shook my head at the enormous display of mana and competence.
+
+"So that's where the invisible webbing is coming from."
+
+Althea let out a gasp.
+
+"It's...It's like staring at a Spatial Fortress again. I can't believe someone's casting that magic."
+
+I nodded.
+
+"Or something."
+
+Below the mass surveillance of the guardian tree, different factions commanded the many high-rises, establishing their dominance over their respective islands. They flaunted their many flags or insignias over their conquered spoils, but every icon carried the infinity symbol hidden upon it. Though rulers of their territories, they still acted subservient to Marcella.
+
+These factions guarded the skyscrapers for a few reasons. They wanted status, real estate, and the pre-Schema goods still within the buildings, sure, but the real prizes were the dungeons inside. Each panel of glass exposed a different view into another world. Many dungeons exposed idyllic circumstances.
+
+With few monsters but many valuables ripe for the taking, the skyscrapers held enormous potential. To get at those resources, people from all walks of life lined up and paid tolls to enter the skyscrapers' hidden depths. People ran into them with optimism and energy. They drudged out with treasure and scars alike, either weary smiles on their faces or grimaces of harrowing loss.
+
+The factions took portions of their loot, leaving most of the harvest for the adventurer. That initial generosity was skin deep. Fights broke out over the best pieces, the scavengers trying to escape while hiding their hidden gains. If the scavengers happened to get away from the protecting faction, Marcella's guards sprung into action.
+
+They warped in from all directions, having an ironclad grip over the entire area. Their swords cleaved people apart before they took all they had escaped with. If anything, the factions reminded me of tax collectors, but the actual boss was Marcella Meyor. She ruled by an iron fist.
+
+Hopefully, she wouldn't mind having her rule taken by one.
+
+Considering the scale of her webbing magic, I could see why people succumbed to her rule and abilities. After all, if she wished for it, she could have anyone killed from anywhere. Despite all of the discord and chaos, the enormous, sprawling city showed promise. People worked and toiled here with a fervor I'd never seen in small towns.
+
+That energy reminded me of my visits to Chicago pre-system. The residents carried a fire in them, and they wouldn't let someone get in the way of them making it. Case and point, their levels exceeded the average I'd seen by nearly threefold. Most of the New Yorkers sat around level 3,000-4,000. It wasn't matching mine or anything, but it did match my guild's average warrior.
+
+It was an incredible feat considering these people lacked the organized support my people had. To be fair, we fought wars while these people raided dungeons. One was more difficult than the other, but I digress.
+
+Even a cursory glance at tall-ish buildings exposed well over a dozen dungeons apiece. The largest buildings held hundreds of rifts, the loot limitless. It was the lifeblood of the city, and everything revolved around them. Althea gawked with me, each of us stunned at the sheer levels of activity.
+
+It made our guild's efforts seem small. Althea squinted at one of the towering high-rises.
+
+"It's more than I expected."
+
+I nodded.
+
+"Same here. I'm like an ant."
+
+"A fifty-foot tall one."
+
+I rolled my eyes.
+
+"Ok, but still. There's a lot here."
+
+We walked across the makeshift streets on the city's fractured floor. Whenever the buildings rose up above into floating islands, they took lumps of earth with them. This left a cratered expanse below. Tunnels darted across it like an opened ant bed, and people found a thousand winding paths between popular destinations.
+
+Here, the average person lived. Shops, restaurants, and attractions dotted the tunnels by the dozen, and people advertised with gusto. They didn't use the term New York City either. Althea read a sign.
+
+"The Shattered Spires cafe?"
+
+I gazed up in awe.
+
+"So they call it the Shattered Spires now? Hm...Fitting."
+
+While we walked, we got stares and whispers the entire time. While a city as large as this had plenty of strange people, we found a way to stand out. I was twice as tall as most, and Althea was a head taller than most as well. I was of dark metal and Althea held an ethereal, intangible beauty. Guys openly gawked at her, some people's jaws agape. I couldn't blame them, though I wanted to.
+
+We stopped by one restaurant, and I ordered something for Althea. It was a cheesecake slice with a jam made from a fruit I'd never seen, alongside some coffee. While we found some seating, more onlookers gawked. Whenever I sat down, some people winced, peering away and expecting my chair to shatter.
+
+I shrank and suspended myself, looking the part of a metal behemoth but of the appropriate size for this establishment. Even then, people peered my way, all of them on edge. I leaned over to Althea.
+
+"We're getting more stares than normal."
+
+She frowned.
+
+"It's your dimension thingy. I can feel it too, but I'm used to it."
+
+"Is it painful or something?"
+
+"No, but it's... It would be like sitting beside an Overseer. Er, so you know the Overseer's not going to hurt you, but it's...You know...Scary. For you, it's much worse. While you think you're feeling something with the Overseer, you actually do feel something with you."
+
+I frowned.
+
+"So I'm like a monster then?"
+
+She peered back and forth.
+
+"Uhm, I didn't mean it like-"
+
+I raised my arms like claws.
+
+"Rargh."
+
+She let out a sigh of relief before feigning terror.
+
+"Ah, the monster's come to kill me."
+
+She ate a piece of the cheesecake and talked with her mouth full.
+
+"Whafever shall I fo?"
+
+She took another bite.
+
+"Wow. This is so good."
+
+I watched a cloud drift into a skyscraper.
+
+"It is. I'm glad to see the situation here isn't abysmal."
+
+She peered at the enormous spatial tree expanding over everything.
+
+"That thing does put me on edge and a lot more than your aura does."
+
+I scoffed.
+
+"Me too. Let's go see what that's all about."
+
+Althea picked her food up and dumped it off her plate. She put her other hand below it as if holding an invisible plate. I made a marble slab in her palm, and the food landed in pristine condition. Standing up, Althea slung her emptied plate across the dining area. Her dish slid onto those piled high for cleaning, and not a sound was made when it landed.
+
+After doing the same to her silverware, Althea got some applause from onlookers. She bowed before we stepped away, having paid in credits earlier. We spent a while walking toward Marcella's lair, following the branches of her immense tree and its tethers. The closer we got to it, the more warped and spatially rendered the areas became. Unlike the moon, humanity cultivated these oddities in the only way New Yorkers would.
+
+For capitilism, baby.
+
+Spaces with faster time acted as shops that advertised their services to help procrastinators. Areas with slower time had signs about how short the wait could be for the next big thing, given someone pays a price. Lesser gravitation had jumping parks and higher gravity held gyms for those trying to build muscle.
+
+It left a smile on my face seeing how deftly people adapted to the harsh circumstances. My optimism faded at around the three G's of gravity mark. A no man's land formed here, one where few people tread. Trails cut through these harsh conditions, and people avoided the severe alterations entirely. I cut us through the spaces, not wanting to shove us into the tiny walkways. Once again, people stared.
+
+I frowned.
+
+"I thought they'd be busier here."
+
+Althea sighed.
+
+"We might as well get used to it. Come on. Let's have some fun."
+
+I raised a brow. Using her choker's magic, Althea leaped around in elegant circles. A gravitational dancer, she wielded the force with a deft hand, balancing it and herself through acrobatic displays. I followed suit, throwing myself around and trying to keep up. As I did, I experienced the way she moved, and it left me stunned.
+
+She jerked and pulled herself around as if made of cloth, every piece of her body bending to whatever force coursed over her. Through her. Around her. She was a sharpened blade that bent and snapped at anything nearby and light sheened off her glossy hair. I followed in her stead, a dull hunk of metal struggling to emulate her grace.
+
+She smiled at me while upside down.
+
+"You learn fast."
+
+I flipped through the air.
+
+"Well, I have a good teacher."
+
+We danced and somersaulted through the spatial distortions, my wake leaving us protected. After passing a dozen floating islands, the air of the Shattered Spires thickened. An opening appeared in the city with no skyscrapers in sight. I flipped under Althea before she hopped on my back. I peered down at the patch of green.
+
+"So...That's Central Park."
+
+Althea jumped up.
+
+"It's, uh...Not quite what I've read up on."
+
+"Huh. Me neither."
+
+A colossal rupture in the earth cut through the remains of Central Park, and it held monsters and men alike. Against walls of black stone, insectoids scrambled along the rift's outer surface, each bug the size of a large truck. Bipedal and humanoid, their broad shoulders held arms that ended in serrated claws. Their elbows ended with familiar black, chitinous blades.
+
+I nodded.
+
+"That's where the swords came from."
+
+One of the insects sliced sideways, its arm rupturing spacetime. The insect hopped through its own portal seconds after. I blinked while Althea pointed.
+
+"And there's the portals."
+
+These insects skittered about, each of them driven by an intense sense of purpose. Their hurried movements yielded the strange coordination of a hive. I couldn't discern what they jerked around for, but their colony impressed me in other ways outside of transportation.
+
+The species had an overwhelmingly vast network of dungeons below, the breadth rivaling the endless expanse of the Grand Canyon. The pit of the dungeon descended for miles below, an endless abyss that capped itself with a pit of gray fog. From the center of the bottomless expanse, an enormous droplet rushed upwards past it all. That dimensional dollop glided upward before colliding with the sky.
+
+A huge plume of gray, dimensional mist expanded out of the falling droplet. A spatial ripple coursed over everyone; no one was affected but me. I staggered as space wobbled around me from all sides. It was Deja Vu from the time when Eonoth saved Lehesion from a Spatial Fortress but far less overwhelming.
+
+Althea grabbed my arm, helping stop me from falling. The ground under her feet cracked.
+
+"You ok?"
+
+I pulled myself upright.
+
+"Yeah...That's happened one other time."
+
+"When?"
+
+"The gala that Obolis threw for Giess's glassing. It was whenever the Spatial Fortress exploded."
+
+Althea frowned.
+
+"You became a puddle, right? So, uhm, are you ok?"
+
+I looked up at the dispersing cloud.
+
+"I am. This was nothing compared to that."
+
+She watched the fog siphon into the tree.
+
+"That's what's keeping this situation the way it is. It looks like we're getting a lot of answers here, huh?"
+
+I looked up at the tree's roots.
+
+"Yeah, but we've got even more questions now."
+
+Above, some of the dimensional dollop diffused into the surrounding sky, keeping the Shattered Spires encapsulated within a rift. Althea turned to me, and a portion of her faded into another plane. She smiled.
+
+"How about I get us some more answers?"
+
+I squeezed my hands to fists.
+
+"Sounds good, but we should probably try diplomacy first...But we have to find the guild's headquarters. Where to start? Hmmm."
+
+Althea raised a brow.
+
+"It's in that big building over there where the tree's sprouting out."
+
+I crossed my arms.
+
+"Oh really? What makes you so sure?"
+
+She drew a sideways eight with her hand.
+
+"The giant infinity symbol over it."
+
+I frowned.
+
+"Well...I thought it was advertising."
+
+She tapped the side of my head, and it rang out like a bell full of water.
+
+"You can be so dense."
+
+I gestured at the tree.
+
+"It just seems too obvious, doesn't it?"
+
+Althea laughed while I smiled. We darted through the Shattered Spires, each of us jumping from island to island like the residents. In the distance, a flow of those people coordinated like bees in a hive. A man in orange armor misplaced a foot before stumbling off a rock. He fell fifty feet and landed hard on the stone below.
+
+He raised a thumbs-up, his voice cracking.
+
+"I'm...I'm good."
+
+It was a perfect transportation system.
+
+We passed the enormous split in the earth, finding people exploring different dungeons near the surface. Closer to the depths, the insectoids ruled the roost, and nothing approached them. I analyzed one of them.
+
+Malformed Eldritch | Lvl 9,000~ | Status: Unknown | - This malformed eldritch isn't a consistent creature, lacking the uniformity of other monsters found in dungeons. Originally an insectoid variant, this bipedal, intelligent species has many adaptations to survive within a larger body than most insects.
+
+Those adjustments gave way to strange mutations. Organs within its body produce constant streams of primordial mana, and they ooze outward in every direction. This allows groups of these malformed eldritch to construct different realities given enough of them.
+
+They also wield the primordial mana within blades across their bodies, allowing them to manipulate different forces of nature with strange precision. Combine their general physical abilities alongside their spatial prowest, and they are a devastating foe for most.
+
+It would be recommended to eliminate this variant immediately.
+
+I furrowed my brow.
+
+"They seem dangerous."
+
+Althea tilted her head at them.
+
+"And weird. Portals aren't something eldritch usually throw around like that."
+
+I pulled my wake over the space, and it carried a strange weight to it.
+
+"That and spatial magic as well. Hell, I think they're manipulating time, too."
+
+Althea sighed.
+
+"It looks like we have another dungeon to clear on our to-do list."
+
+After passing the rest of the gap, we reached the source of the colossal tree. I looked up at it.
+
+"The Empire State Building...Schema has a thing for landmarks."
+
+Althea jumped from one island to another.
+
+"I remember talking to Torix about that. He said it was because Schema knew the resident species would search out those places. It was predictable too. It makes the worst rifts less likely to go unseen or something like that."
+
+I marveled at the immense trunk of the surveillance tree.
+
+"That's...A good idea, actually. I guess Schema does get it right from time to time."
+
+We reached the beginning of a line of people waiting to go into the massive building. By now, we stared down at the rest of the city, well above the tops of most buildings. The thin air aside, the view was incredible. I turned to Althea.
+
+"How did you guys figure out that Marcella was an avatar anyway?"
+
+Althea tapped her chin with a single finger.
+
+"We guessed. According to the rumors, she's unbeatable for a bunch of reasons, but the big sell was that she had a blue aura."
+
+I gazed at the enormous skyscraper. It radiated with a subtle, primordial mana.
+
+"What made it different from someone using normal mana?"
+
+Althea put her hands on her hips.
+
+"Hers could be moved and manipulated a lot, kind of like Lehesion. She was also considered immortal and couldn't be killed either."
+
+"Immortality, huh? It could just be rumors."
+
+She pointed at the building, the infinity insignia, and the hundreds of cappers protecting it.
+
+"Those don't look like rumors to me."
+
+I remembered the truth behind Yawm, Lehesion, and Valgus.
+
+"Well, looks can be deceiving. Sometimes, at least."
+
+We waited in line, and even when standing twenty feet tall, the Empire State Building towered over us with ease. The monolithic structure reminded me of humanity's prosperous past, and so did the people pacing out of it.
+
+When walking in, these people were beaten down, scarred, and lost. Life put them in its jaws, chewed them to a mush, and spit them out. When walking out, they stood with confidence, their postures tall and formidable. In fact, they were over a head taller, reminding me of my legacy and my ring's effects.
+
+A subtle aura permeated them, and whenever I grazed their minds, they locked themselves away from me. None of their eyes darted from my gaze, and their stares carried a weight to them. Unlike the normal citizens here, they held an awareness of who and what we were, not simply ogling like star-struck fans.
+
+This created an unspoken tension, one where they squeezed their brandished blades tight when passing me. I frowned.
+
+"She's doing something to their minds, implanting them like Elysium does."
+
+Althea shivered.
+
+"Ugh. I hate these kinds of enemies. Why can't we fight a big brute or something?"
+
+Remembering Valgus, I shrugged.
+
+"It can be more difficult than you'd think."
+
+An hour later, we reached the outskirts of the monument. The guards stood in an intimidating formation, around a hundred guarding the entrance alone. They waved us over. Once close, Althea walked into the primordial aura. I could not.
+
+It waved around me, pushing me away with more than enough force to hurl me backward. But I wasn't only my own weight. I held the momentum of several anchoring dimensions, and they carried me through the sheer blowback. The primordial aura stretched for a moment while I reached out a hand. One of the guards yelled.
+
+"Hey, what are you doing there? Stop that."
+
+I lowered my arm, taking a step backward. As I did, the primordial ether bent and bowed like an old home's floor giving way. It pried open, cracking in a cataclysmic splintering of mana, and shards fell away from where I stood. The rupture spread across the building's entrance until it faded to nothing, only a memory of something that was.
+
+At least it lingered across the rest of the building. As the cracks spread, that reprieve faded as quickly as the rest of the building's protection. As it crumbled into nothing, I coughed into a hand.
+
+"So...That was more fragile than I thought. My bad, guys."

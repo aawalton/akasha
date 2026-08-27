@@ -1,0 +1,307 @@
+---
+id: eb76d42e-e01c-55e2-a453-6502b6ba9174
+page-type-slug: story-chapter-royal-road
+title: "The Path of Ascension Chapter 408"
+slug: 0106-the-path-of-ascension-chapter-408
+partOf: the-path-of-ascension
+position: 106
+ownLength: 5907
+unit: words
+ownProgress: 5907
+publishedAt: 2025-05-05
+link: "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/2257762/the-path-of-ascension-chapter-408"
+royalRoadId: "2257762"
+markedReadAt: "2026-06-29T19:21:26.881Z"
+---
+
+Chapter 408
+
+Returning to the Empire, Matt prepared himself for a much larger round of quarantining. But after being checked out by the healer on duty, he was told, “If Cosmind did something to your mind, we would have no real hope of fixing it, assuming we could even identify what she had done. If you feel outside impulses, report it; but there isn't anything we can really do.”
+
+Slightly bemused, Matt underwent a typical three month quarantine, practicing the skills he had learned before he spent a few more months traveling back through the Empire to return to Palustris.
+
+Instead of finding Liz, or even Aster, he found a mountain of paperwork that had built up in the last few years while he had been gone.
+
+There were clear signs that Liz had been doing some during whatever downtime she had, but she and Allie had identified two of Raffi’s associates and raided them, pulling at threads and trying to find which spider was spinning the web. Or, rather, they raided the remaining bases, as the people in question had gone underground around the time Raffi had been caught. Since nothing was ever truly deleted, they were able to find bits and pieces with each new person they found.
+
+It wasn’t particularly fun, but Matt got to work and blew through the entire backlog in just nine months.
+
+It was actually decent practice at keeping his mental defenses sharp during even the most boring of tasks.
+
+When he was done, he immediately regretted having notified his and Liz’s nobles that he would hold an open court where they could come and air their grievances, as nearly three quarters of their nobles were waiting for him.
+
+Thankfully, there were no emergencies that needed his direct attention, and the month-long open court was more an extended but relaxed social engagement.
+
+There was even a suspected unique area forming on one of their planets, with an area of a mountain range having everything mirrored: left became right, up became down, forward became backward. Only time would tell if they would need to destroy the area and rebuild it, or if it would turn into a local attraction as the odd effects increased. That was a question for the future though as such areas could take thousands of years to develop into their final form.
+
+The moment open court ended and Matt had seen the last of their vassals off, he finally allowed himself to check on Titan’s Torch and Rah. He hadn’t done so before because he knew that once he did, he wouldn’t want to go back to his actual work. He had been wondering how everything had been going since he left quarantine almost a year ago.
+
+Rah and Ciceron had been making excellent progress on categorizing the other cultivation methods, and they were about to start dissecting their unique abilities to see if any of the effects could be transferred to Rah’s method going forward.
+
+Rah was quite hopeful that, with two different styles of cultivation reaching all the way to Tier 45, he would be able to plan out his cultivation as a cohesive whole. But the actual work needed for that would be extensive, with decades if not centuries of simulation and iteration required before he even started messing with his personal cultivation.
+
+Once he had satisfied his curiosity, Matt turned his attention to the rest of the guild.
+
+From the initial reports, it was clear that as an organization, Titan’s Torch was doing well. But Matt wanted a more grounded take, and so made his way into the administrative section where Cameron, Aster's Magma Otter friend, had taken a job.
+
+With a thought, the mask he always wore changed its appearance into a more nondescript form that wouldn’t attract so much attention from the other staff members.
+
+It wasn’t a secret that Cameron was a friend of Aster’s, but with how open Titan’s Torch was with things like performance reviews and promotions, there was, at least according to Cameron and Kees, little to no grumbling.
+
+Knocking on her open office door, Matt sent her a message with his [AI] as he stepped inside.
+
+Eyes wide, she shut the door with her Concept.
+
+“What are you doing?”
+
+Matt shrugged as he gestured to the seat across from her desk. “Do you mind?”
+
+Cameron spluttered before she got control of herself. “It's your moon, let alone office and chair. Why are you asking me?”
+
+Plopping down, Matt shielded the room from prying eyes and spiritual senses with an effort of will.
+
+“How are you doing, Cameron?”
+
+The question only seemed to stress the otter out more as her hair flared into pure flame for a moment.
+
+“A minute ago, great. Now? A little stressed. You said you’d treat me like anyone else, and I thought we were doing really well at that. I don’t want special treatment, and you popping in feels like special treatment.”
+
+Matt waved the concern away. “I assure you, no one beyond upper management has any idea I’m the one who entered your office, and they are part of what I want to talk about, so I’m not particularly concerned with their opinions. Besides, I'm not here to give you anything. Instead, I want to pick your mind and get your perspective.”
+
+Sighing, Cameron relaxed slightly, the fires in her hair dimming. “That's not awful then, I suppose. You could have messaged me, you know? Meeting on Palustris would feel less… I don’t know, singled out.”
+
+Matt shook his head. “Sorry, but I just escaped Palustris and I don’t want to go back right now. I’m sure the paperwork is accumulating as we speak. I wanted to ask you how the guild is progressing. You're on pretty much the bottom rung of the guild, and I wanted to get your perspective on how things are running. The good, the bad, and the uncanny.”
+
+Cameron pursed her lips, staring at Matt for a long moment before answering. “Things aren’t bad by any means. I wouldn’t be surprised if the guild is being used as a textbook example of a well-run company or guild structure. Anything I might mention will be nitpicks at most. But since you asked, I might as well mention the things I’ve noticed. The biggest issue in the guild currently is a toss-up between you yourself, and the guild itself.”
+
+Matt hadn't expected that answer from her. “Oh?”
+
+He had been warned of such things, but wanted to see her take on it from a ground level perspective.
+
+Cameron, with determination, dropped a binder on her desk. “So, in my time off, I’ve been tracking some things. Efficiency tracking stuff taught in college mostly but trying to keep my less used skills sharp. I was hoping to use this as a way to stand out when a promotion opens up, but I can show you. First of all, turnover rates. The guild has historically high levels of turnover. Part of that is your fault, and to be expected with any Ascender. People just want to work for you, and then use that to catapult their career. That is compounded by the guild itself. Titan’s Torch is throwing around a lot of mana. That means even otherwise long-term employees are being poached by other entities trying to ferret out the magic of this place. That has led to an even higher turnover, which has contributed to a fairly large rift between newer and older employees. If someone hasn’t been here for at least a decade, they are considered temporary by everyone else, because chances are… they are. It's not bad, there isn't any bullying or the like, but it's a trend and it undeniably contributes, even if only to a small degree, to the turnover, as new employees aren’t made to feel as welcome as they otherwise could.”
+
+Clearly worried he might have taken the information badly, Cameron quickly added, “Don’t think this is a massive problem, but in the absence of bigger messes, even the dust behind the shelves gets noticed.”
+
+Matt hmmed along to show her he was still listening, as he cross-referenced that with his access to the guild’s internal auditing department.
+
+Everything Cameron said was noted, but it wasn’t on anyone's priority list. It was also exactly why he had come to Cameron herself, because he wanted the upward perspective instead of the downward one.
+
+“Okay, noted and good to know. Anything else? Problems with management?”
+
+Cameron pulled out a separate binder. “No, management is fairly well controlled. The transparent review policies allowing everything to be scrutinized ensures things are mostly fair, which is good enough for most people. There also isn't any blatant favoritism aside from yourself and your friends’ funding of projects, which isn't even really favoritism as it's your guild and your budget. If anything, management is kept on an incredibly tight leash, and the one instance of unwanted advancements from a manager ended with them gone within the day. Vice Guild Leader Kees has kept one watchful eye inward, without micromanaging anyone or interfering with daily operations, to an impressive degree.
+
+“The only other thing I’d mention is related to the guild itself, and how many things the guild is just giving away that would otherwise be core secrets of any entity. There is a worry that, if the developments slow down or end, the guild will lose its funding without more typical revenue sources. Imperial favor, even for an Ascender, can be a fickle mistress. I wouldn’t really call it that big of an issue, but it's also an issue that is basically impossible to solve without entirely reworking the guild from the ground up. Which, let me be clear, no one wants. Despite me bringing up these issues, everyone here, even the new hires, are happy to be working here, where it feels like we are making a real difference to the Empire as a whole. Even us in the offices, or the maintenance people, or the cleaning staff, or the groundskeepers, are all really proud to be a part of Titan’s Torch. We are happy that we can contribute, but there is a small but impossible to quash fear that it might all vanish one day.”
+
+Matt took the second binder and started flipping through it at Tier 27 speeds. It was rude to increase his perception like that with a Tier 17, but something like this was exactly what he had been looking for when came to Cameron. As far as he knew and he had reviewed the guilds things to note on his way back into the Empire and this wasn’t something anyone else had reported. He suspected that was because the higher management were either higher Tier, and therefore more financially independent, or had better resumes, which equated to the same thing; they just didn’t have the same concerns.
+
+A lot of what Cameron had were just snippets of conversations she had been a part of or overheard, so it could have been an unfounded worry, but Matt trusted her instincts. Not because she was Aster's friend and he knew her, even though he did, but because putting himself in a typical guild member's shoes, he could see himself worrying about his job vanishing one day.
+
+Admittedly, he didn’t have a lot of experience in normal jobs, but if Benny’s was operating as a charity where the funding could vanish any day, he’d have worried about his job a lot more. He might have gotten fired if he messed up, but the business wasn’t suddenly going to vanish one day even if he did everything right.
+
+He didn’t want that for his people.
+
+Everyone working at Titan’s Torch was at least Tier 15, which meant they were immortal and theoretically beyond such monetary needs, but that was a very limited viewpoint.
+
+Tier 15s had expenses. Lots of them in fact, especially for those who lived on higher-Tier worlds like Palustris.
+
+Cameron was actually the exception in that she was a capable delver, meaning she could safely delve at her own Tier and sub-bracket of her Tier. For her, transitioning into a full-time delving career wasn’t desired, but it was a fallback in case everything else failed for her, ensuring she had a way to not only support herself, but still advance.
+
+Most of the other Titan’s Torch employees didn’t have that to rely on. In fact, most Tier 15s didn’t.
+
+While Matt rarely interacted with them, the majority of immortals were considered non-combatants, meaning they couldn’t delve at their own Tier with a measure of safety. Most had advanced through ambient essence cultivation assisted by elixirs, potions, and formations, supplemented with being carried through rifts. All paid for by their salaries.
+
+Salaries they were worried about vanishing.
+
+“Okay, this is exactly what I wanted to know. That might not have made its way up to me, and you know Aster and I have a lot of the same blind spots. And I might have more than her.”
+
+Snapping his fingers, he said, “This reminds me. Aster mentioned that she wanted to get you to a higher Tier sooner than later, but given what you said about people feeling insecure I also think it's a good idea, and could be expanded on. How do you think a Tiering up system for the guild personnel would go over? Something like guild-based carrying teams who, in their off time, help guild members Tier up?” Fearing he might be misunderstood, he corrected himself. “The guild members’ off time. The delvers would obviously be paid. It would increase the guild’s members’ long term viability, while also increasing their supplemental income if their rift carries are paid for by us.”
+
+Cameron didn’t look nearly as happy as Matt expected at the idea. “If it's seen as a guild expense, then I’m afraid it might just feed into the fears about funding. I think people would much rather see a source of revenue that isn’t subject to vanishing than getting more benefits.”
+
+Matt paused for a long moment as he thought about a possible answer, but nothing came to mind.
+
+Changing tack, he asked, “What about the scientist teams? Do you interact with them enough to give an idea of how they feel about this?”
+
+Cameron shrugged. “Not like I do with the rest of the guild staff, but from what I’ve picked up, this is a worry they always have, since they work on contract and funding might be cut at any time, so this isn’t anything new for them. And, frankly, their job security since working here is far better than anyone else's, as a dozen organizations will happily pick them up for even a chance at the guild’s secrets. This guild has started a bit of an aperology revolution, and these researchers are quite literally some of the best in the field, at least most experienced. They might be some of the best non-Talented ones in the Realm, given the abysmal state of the discipline which just makes them all the more hireable. Even the non-aperology researchers are fine, since they were good enough to get hired here, they can get a job in about thirty seconds if the guild goes under. They worry for the guild and the opportunities it brings them, but not for their livelihood.”
+
+Matt asked a few more questions, but let Cameron get back to work before wandering around the guild headquarters, letting his spiritual perception spread and feed him information from the public goings on.
+
+As Cameron said, things were generally good, and people were positive, but things weren't perfect either. He didn’t expect perfection, but he didn’t want to rest on his laurels either.
+
+Circling back around to the head offices, Matt entered his office and grabbed Kees, where they discussed several strategies to combat the issues Cameron raised, and the ones management had noted themselves.
+
+The only one that was viable in the short-term was putting a decades’ worth of everyone's wages in a publicly viewable account, to try and mitigate some of their fears, but that was still a massive step that came with numerous downsides, making it something to be considered but not implemented immediately.
+
+Other ideas were bandied around but, like Cameron said, there was no easy answer that wouldn't destroy the heart of the guild’s ethos.
+
+Almost like someone was playing a prank on Matt, he had to cut seven projects from final funding approval, as the guild, despite not ever needing to worry about running out of money, didn’t have unlimited money to spend all at once.
+
+The earlier talks made each decision even harder, but Matt still pushed several interesting ideas down for another decade.
+
+On a more positive note, he reviewed the impact reports about the skill creation method and was relieved to see that, as a whole, the Empire was reacting well and in line with the guilds predictions.
+
+Already, a Tier 40 corporation had created a roughly Tier 14 variation of [Solar Flare] and put it up for sale. It was a good first sign that high-Tier corporations were putting in the work to develop them, as they clearly saw a long term market in the new skills.
+
+The corporation in question was selling it for a king's ransom when adjusted for Tier, but Matt didn’t intervene and instead congratulated the group, using the opportunity to remind everyone his guild wasn’t about making products for the higher Tiers. He had inspected the skill structure, and it was functional, but only barely, being far worse than a moderately modified [Fireball], let alone a [Fireball] that had an upgrade orb used on it.
+
+Still, it was the start of what he had expected when they released the information about the creatable skills, and he was sure other variations would follow as people become more familiar with the skills, and people naturally developed them.
+
+The most interesting development was the skills appearing, or rather failing to appear, naturally in rifts.
+
+[Physical Empowerment], [Lesser Fire Weapon], and [Fury of the Blade] all appeared as Tier 8 skill shards. Whatever mechanism the rifts used had adjusted them, ‘optimizing’ them and therefore removing or changing many of the structures that made them so easy to create by hand, but were redundant to the actual functioning of the skill. The problem was that, in doing so, it didn’t bring them, at least in power, on par with other Tier 8 skills, meaning they were still weak Tier 8 skills that had lost their main advantage of simplicity.
+
+Ironically, after an early premium as researchers bought them up in bulk to study and use as inspiration for the created version, the price cratered to well below what most would expect for a Tier 8 skill. The optimizations, despite improving the skills’ power slightly, made them currently completely incompatible with all modification guides for the created version on top of competing with a free alternative. Personally, Matt expected the price would stabilize higher than it currently was, as said researchers started to show results and the modification field had more time to mature in general, but only time would tell if he was correct or if they would drop even further.
+
+The same could not be said for [Solar Flare] or [Hand Shield] which, as far as anyone knew, had never appeared in a rift. Most theorized it was because they were too similar to [Fireball] and [Mana Shield] respectively, but they had no way to prove or disprove that hypothesis.
+
+Overall the Empire was taking to the skills beautifully and Matt just took a few hours to revel in the unmitigated success. He even went as far as sending out a few guild wide messages and scheduling a week off as well as a party to celebrate.
+
+While the Empire was reacting, they weren’t the only ones.
+
+Each Great Power reacted differently, but all had embraced the skills after their internal audits and tests.
+
+Officially, the Corporations didn’t react, but their companies were running with the methods in their own ways, which just meant that, similar to the Empire, the effects would take a while to truly show themselves, but they undoubtedly would.
+
+The Guilds were surprisingly willing to dive into the method, and took to the five skills seemingly overnight. As a whole, they seemed to be more interested in the method behind their creation, and they had started looking at trying to make truly bespoke skills, similar to the Sects.
+
+Matt wished them luck, but he doubted they would make significant progress. Skills weren't as simple as enchantments and runes, or they would have released more than five of them.
+
+The Clans, however, took to [Lesser Fire Weapon] and [Physical Empowerment] with a fervor. Not just for their delvers, but for their low-Tier crafters as well, who were already testing how the skills could be used in smithing. His reports spoke of rumors of some of their clans working on modifying [Hand Shield] to merge multiple castings together, forming a wall of overlapping and amplified shields. He was deeply dubious of their veracity, even if he hoped they could manage to make the infuriating skill more applicable.
+
+Similarly the Monster Collective, like the Empire’s bloodline populations, took to [Lesser Fire Weapon] and [Physical Empowerment] as low-Tier skills. The latter more so than even the former, as it could be used to enhance their often much larger and more powerful bodies further, giving them even more bang for their mana. The reports said they had even taken to using the water and earth variations of the former, after having gotten the structures from the guild’s public archives and created their training regimens for them.
+
+The Federation almost seemed like they weren't going to react to the news at all but, just months ago, things started to change according to the Empire's spies. They had initially rolled the skills out in a small number of their warrior training facilities, but once the methods proved effective, they had stopped.
+
+Reports were now hinting at the Federation looking to entirely rework their mortal populations. Those same reports spoke of six connected planets deep in Federation space destroying massive amounts of Tier 4 rifts and seeding them with aura rifts, as well as purging any information about natural Concepts. Those same planets had also rolled out modified skill creation methods en masse before severing all but one tether to the rest of the Federation leaving them an isolated cluster.
+
+Matt tried using his Ascender status to get access to more of the spies' information, but the changes were new enough that that was all they had, so he instead requested to be kept looped into any further developments. The spies were also having to be careful, as the Federation had locked down those worlds and purged any spies they could find poking around them.
+
+He had known he couldn’t stop others from abusing the information he spread with his guild and use it for ill, but eventually he would be in a position that he could extract payment for each infraction.
+
+Still, it pained him to see it happening so quickly.
+
+The Sects, however, were almost his biggest supporters, with the guild receiving tens of thousands of official ‘thank you’s from the most influential sects. Where the Federation seemed to be trying to keep things under wraps while embracing the skills, the Sects were making the five basic skills Matt had shared as widely available as possible. Though Matt was fairly sure that was only because they realized the futility in trying to keep it concealed with the information freely available in most of the other Great Powers.
+
+At the same time, the Sects were still working on bespoke skills, as well as simplifying each sect’s unique skills into easier Tier 0 starting points. They were making fast progress according to the reports, though there was nothing confirmed in just five years and only rumors of rumors.
+
+The Republic, however, was having a bit of a crisis, with a few of the upper echelon factions pushing to reduce the amount of low-Tier worlds that were allowed to become veil worlds, and instead wanting to turn them into low-Tier havens. The unsaid bit was them wanting to make awakening cheap enough so they could copy the Empire. Or rather, unsaid by the project's supporters, and widely shouted by the effort’s detractors.
+
+Time would tell, but the contrast between them and the Federation due to their centralized and decentralized power structures was stark. Still, Matt had more hope for the Republic in the long run.
+
+Once he finished that, he went and set himself up with Erwin, Aisha, and Theodore, who were working on trying to push aura rifts into the higher Tiers. Namely, the aura types that the other Ascenders had been pestering him about, with Max and Sien as top priority. Though, as his personal team and friends, they were able to and did go on tangents.
+
+The guild had discovered steam, illusion, and precision aura, with his team being personally responsible for the last, when Theodore had a hunch that the three of them were able to follow to a success.
+
+Matt, having been out of the loop for so long, was more relegated to an assistant position than he would have liked when he returned. But he didn’t truly mind, as he got caught up while at least getting his hands dirty, which was all he had really wanted.
+
+Just a month into the work, he was interrupted by Allie popping into existence next to him. “What are you doing free? I figured they would have shoved you into quarantine for at least a decade after you returned.”
+
+“No real way to stop Max if she did want to do anything according to them, so after a scan or ten and the normal three months, they let me go.”
+
+“I actually hate you. Ugh, here.”
+
+Vanishing, she appeared a moment later with Melinda in tow.
+
+“I’ll check back in later. Byeeeee!”
+
+Turning to face the still reacting healer, Matt lowered his perception to her Tier. “Hey Melinda.”
+
+Growling, she cursed at Allie. Or where Allie had been. “Stop doing that!”
+
+Turning back to Matt, her face softened into a ‘I want something’ smile. “You are just the person I wanted to see.” She leaned in for a quick hug. “Thanks again.”
+
+Matt, bemused, raised an eyebrow. “You’re welcome?”
+
+Grinning, she said, “Okay, step back for a moment. I’ve been looking over the information you sent me about the spiritual damage between our last raid and looking for other bases. It's very interesting. It was also the last bit of information I think I need to form my Intent, but now I need your help to push through to the finish. Or at least I think I do.”
+
+Matt hadn’t expected that, and was genuinely happy for one of his oldest friends. “Congratulations! What do you need my help for though? I can’t really imagine how I can help, but I’m willing to do whatever I can.”
+
+“It's a rift, Matt. It's always been the rifts, but I couldn’t really see it.”
+
+“Really? Back when we were Tier 6? You were actually right in your Phrase and Image?”
+
+Melinda stopped as she looked at him as if he was crazy. “What, no? I was super wrong back then. If I had known what an Anchor was and tried to make an Intent, I would be dead— dead— with how wrong I was. No, I was referring to the cycle. The way rifts breathe life into nothing while being fueled by death. My Concept’s Phrase is Death but my Intent’s Phrase is ‘Feeds Life’. ‘Death Feeds Life’ being the culmination. My Intent’s Image is more amorphous, but it’s a myriad of things growing from the miasma goop my Concept creates from the things it kills. Fungi, plants, and life itself can come from the death of the old.”
+
+It was uncommon for someone to have a Domain that so obviously fed on the previous parts, but it wasn’t unheard of by any means. It also worked with her ideas of the cycle of life and death. Or, that was how he interpreted everything she had said.
+
+“What, no meld then? I can attest that it's very useful. And the power boost is fantastic, as well as all of the ancillary effects that come from the half stage Domain.”
+
+Melinda gave him a weird look. “No, thank you. I’m not crazy like you. First, I don’t even want to know what would happen if you merge Life and Death directly like that. It’s not a road I want to go down. Seems necromantic at best, and I’d prefer to save people, not use their corpses. Second, have you seen the odds on successfully managing a meld? Frankly, I’m happy this way. My Concept, even as repugnant as it is, will hopefully be able to feed my Intent, Which I see as a positive. Instead of just being there, but opposite of what I actually want, which is a healing Domain, it can be useful. I knew this would be hard when I chose not to break my Concept, but I think this is the best outcome. Life from death, happiness from tragedy. Cycles, and all that stuff.”
+
+Rubbing his hands together, Matt acquiesced to her choice. “Well, what can I do to help?”
+
+Melinda’s excitement dimmed significantly, but she gestured around. “Rifts. Or at least I think I need them. My gut tells me they will lead to my Anchor, one way or another. Life and death, all stemming from my Domain.”
+
+Waving Erwin, Aisha, and Theodore down, Matt explained what Melinda needed and, when they agreed to help, they started testing.
+
+Melinda felt they needed a rift made entirely out of her Domain, but that was easier said than done.
+
+The first thing they did was create a Tier 1 rift and let her kill a monster with her Concept.
+
+Harvesting the goop, they analyzed it.
+
+Having not seen it since he was a Tier 6, Matt didn’t expect much from it, but got a pleasant surprise as he inspected it.
+
+Having dabbled in natural environmental cycles after his failed expansion of Titan’s Torch’s guild headquarters on Lilly, he knew a little about what made a good fertilizer, and the goop was pretty much picture perfect for a soil additive.
+
+No, that wasn’t quite right. It was entirely possible something, the right something, could grow in the goop itself.
+
+Matt figured that perfect something would make for a pretty good Anchor candidate.
+
+Apparently, she and Allie had already visited a dozen botany stores and even Liz, who let Melinda try her bloodline tree, but none of them felt right for her Anchor.
+
+There not being a mana type for Melinda’s Concept goop, Matt, Erwin, Aisha, and Theodore just started throwing stuff at the wall, looking for anything that created a themed rift.
+
+Aisha was the first to have a mild success from mixing poison and mud mana in near equal measures.
+
+It wasn’t exactly what Melinda wanted, as the monsters were more tentacle horror that resembled plants than actual plants, but it was a step in the right direction.
+
+Theodore was a close second by using healing and decay mana to create a rift with unique slimes made out of some version of Melinda’s goop.
+
+Erwin, on the other hand, was eating her goop and seeing if he could create anything with it as a base, seemingly not bothered by its source, its taste, or everyone else's expressions.
+
+As a whole, the guild hadn’t even really started to dabble with anything higher than Level 3 mana types, but Matt had always been attracted to the artistic side of aperology more so than the scientific. Between that and the fact he was footing the bill for all of the testing, Matt had no issues in going straight to life and death mana as the sources for his rifts.
+
+Level 3 mana types were incredibly complex.
+
+Death mana, as an example, was made out of shadow mana as the primary, with a secondary mana type of decay mana. As if that wasn’t complicated enough, it also had supporting mana types of wood and blood that stabilized the whole structure like a physical molecule.
+
+Except, none of those were level one mana types except shadow mana, meaning each mana type was made up of its own mana types, further complicating everything. Decay mana was level two and made out of shadow and earth, while wood was made out of earth, water, and light mana at level 3, and blood mana was also a level 3 mana type made out of water, healing and decay.
+
+And all of that went into each and every unit of death mana, each ripe for pairing off and forming other mana types in the pressures of creating a rift, or just mixing badly with Melinda’s goop.
+
+Not that life mana was any less complex, with it being made out of healing, wood and light mana.
+
+Worse yet was that the two mana types were polar opposites, and didn’t typically play well together, even if popular media did exaggerate just how badly the two conflicted.
+
+Trying to create a rift out of the two mana types was an exercise in frustration, but Matt felt it would ultimately lead to the most fitting possible Anchor for Melinda.
+
+His initial creations were just the typical low level monster rifts, but after blazing through a few hundred attempts, Matt finally got something unique.
+
+The monsters inside the rift were vine monsters of exuberant life surrounding a core of death at their heart.
+
+A mouse the rift had created that dared to leave its cave was snapped up and shoved inside the vines, just to be quickly melted and its flesh converted into nutrients, which empowered the plant.
+
+The moment Melinda saw them, she immediately identified them. “This feels like what I need.”
+
+“Is your Anchor the rift monster?” Matt had to ask.
+
+It wouldn’t be a first, but it was rare for anyone to have a monster as their Anchor. Most who went down that route had Created Anchors and just made a facsimile of the creature in question.
+
+“No, but it feels like a step in the right direction.”
+
+Stepping, Melinda crossed the Tier 1 rift to arrive before the boss in an instant.
+
+It was a similarly large version of the monsters, but with a cartoonishly large fly trap-type head filled with razor sharp teeth.
+
+Its vines couldn’t even approach them, but, for a Tier 1 team, it was both strong and fast enough to make it a fatal threat.
+
+“Want me to kill it?” Matt asked.
+
+Melinda just waved, and the boss disintegrated into goop.
+
+“Let's start over with this as the base. My gut tells me this is right, but I need to see different monsters. Can you make a few hundred new rifts for me, please and thank you?”
+
+Matt didn’t argue, and instead started making rifts out of the new goop.
+
+If they didn’t need to push into the higher Tiers, it wouldn’t be too hard or even take too long to just make hundreds, if not thousands, of variations.

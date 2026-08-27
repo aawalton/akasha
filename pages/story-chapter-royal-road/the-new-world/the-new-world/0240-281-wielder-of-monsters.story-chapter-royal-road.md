@@ -1,0 +1,307 @@
+---
+id: acf94b15-53fd-57f0-ad98-d942797b9372
+page-type-slug: story-chapter-royal-road
+title: "281 Wielder of Monsters"
+slug: 0240-281-wielder-of-monsters
+partOf: the-new-world
+position: 240
+ownLength: 5365
+unit: words
+ownProgress: 5365
+publishedAt: 2020-11-29
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/592614/281-wielder-of-monsters"
+royalRoadId: "592614"
+markedReadAt: "2026-06-29T21:29:19.215Z"
+---
+
+-Daniel-
+
+I peered at Torix out of the corner of my eye while keeping my concerns to myself. The lich seemed overeager for this experimentation with the crystals, though that made sense given his chosen profession. He turned himself into a lich after all, so this was just an everyday thing.
+
+Reaching the elevator at the center of Mt. Verner, Torix took us down towards the old tunnel leading to Springfield. Our guild used it a long time ago to escape from Yawm's influence without him knowing where we were. Now it was left abandoned, or so I thought. As we got to the aged, dusty place, I found signs of new construction there.
+
+Glancing at new metal doorways and added lights, I turned to Torix,
+
+"So you built new rooms here, eh?"
+
+Torix smiled, "You're not the only one with access to credits. I simply use mine in other ways aside from dungeon cores."
+
+We paced up through the tunnel before reaching the thick, plated doorways. Torix raised a palm. A blot of his premier, dark mana bobbed over a scanner of sorts. It checked his mana signature, and the door's locks popped open. Stepping through a damp tunnel lit by some strange kind of fungus, I looked around.
+
+Vines grew in this place, a flow of air present here. Aside from that, this place reeked of death and decay. Torix worked on his necromancy here by the looks of it, and he did so in secret. I understood why, but I still spoke out,
+
+"I guess you're still someone who likes keeping a few secrets here or there."
+
+Torix interlocked his hands behind himself, "Not necessarily secrets per se, but yes, I do enjoy a mystery at times. For this, however, I simply am applying a bit of my knowledge for our gain. I always assumed you'd rather not be bothered by this nastiness."
+
+The thick smell of rot and putrid flesh filled my nose as I frowned,
+
+"Eh, true."
+
+Torix opened one of the doorways here, solid concrete walls keeping this place bunkered down. Within the cell, human skeletons hung from walls, each splayed out by chains. Oddly enough, it actually smelled better here than the other rooms, this place having dried out. They were still human skeletons, so I eyed the lich with suspicion. He raised a hand,
+
+"I assure you, this was done post mortem. I'm not torturing humans here. I'm merely reviving corpses to use them after death, and with their permission when they were once living. In this situation, they've prevented us from risking ourselves, and so they've done a great service here."
+
+I raised my eyebrows but said no more. Torix stepped up to one of the skeletons while hovering the magenta-colored crystals towards the structure. As the gemstone made contact with the bone, its formation shifted instantly like the jaws of a shark. The crystals sunk into the bones using needles. Spreading like wildfire, the jewel thinned into a near translucent coating over the arm of its host.
+
+If left a magenta hue, turning into sharpened apparatuses at the end of the skeleton's hand. We stared for a moment, but the crystal did no more than that. I put my hands on my hips,
+
+"This stuff is definitely alive."
+
+Torix leaned forward, "In all honesty, I doubt it."
+
+I raised an eyebrow, and the lich answered my unspoken question,
+
+"It's strange, but this seems more like a crystallized contagion of sorts designed to react to organic matter. Now how this came about, I've no idea. Given the rapid metabolization of its body, it would appear eldritchian in nature."
+
+Torix shook his head, "But that simply doesn't explain why it hasn't eaten the skeleton left here. If it were eldritch, it would've devoured it to strengthen itself...Hmm, where did you discover this?"
+
+"Along the outskirts of Saphigia. It rested at the bottom of the trenches surrounding the city."
+
+"Well then, I'm honestly at a loss here."
+
+I raised a hand, "Wait a minute, that's not all I found there. I discovered the largest rift I'd ever seen, and it leaked in water from a dead world in a dying universe. I think that these crystals might've come from somewhere on that world. The creatures were strange, after all. There's no telling what they would've evolved into just to survive."
+
+I gestured at the viral formations, "This might be something adapted to a world with no food."
+
+Torix tilted his head, "Ah, that's interesting. Very interesting. Were eldritch located there?"
+
+"Not directly eldritch creatures, no, but they might as well have been. I wouldn't want them touching anyone here, that's for sure."
+
+"Ah, they operated like Endless Fleshes then?"
+
+"Yeah. They just spread like a...well, virus...Huh."
+
+Torix shrugged, "That could be what this is - a virus. Viral creatures can be crystalline such as this, and they require a host. They lie between life and death as well, making them difficult to discern. At least from a cursory glance."
+
+I put my hands on my hips, "Well, this could be a kind of symbiotic, uhm, thing? I mean, that world was starving for millions of years. This crystal or virus might have evolved to combine with nearby creatures and give them an edge. By the time I found them though, these crystals might be all that was left from, I don't know, an evolutionary war?"
+
+Torix leaned back, "Huh, interesting hypothesis. I do suppose that symbiotic relations do occur."
+
+Torix paused, and we both dove into deep thought. This thing reminded me of the eldritch that Obolis controlled when we first met. Checking my status, I analyzed that eldritch virus and brought back up its status screen. Plaga Ustus showed up, and it could strengthen its users before causing them to combust. This might do something similar. I pointed at it, making my status visible to Torix,
+
+"This sounds familiar?"
+
+After reading the documentation, Torix nodded, "Indeed, it does. Unlike the Empire's scientists, we lack the same equipment to study this disease. At least on hand. I'll get a team of biologists here and see if I can't uncover this thing's secrets. For now-"
+
+Torix raised a hand, and his eyes flared while he granted life to the skeleton,
+
+"Let us see if the crystal reacts to a living mind."
+
+The skeleton animated itself, peering up at us. Turning to the crystal, the body looked back at its shackles. The magenta gem expanded towards the handcuffs before touching the metal. As it did, it infected the metal, racing up the iron chains. Having expanded, the crystal regrouped with its central mass, covering more of the skeleton.
+
+After finishing the next shackle, the skeleton fell from its restraints. Two sharpened, magenta spines covered its arms, making the otherwise frail and useless minion appear quite dangerous. I whistled at it before grinning,
+
+"Now that...that's pretty nifty. It looks like it eats metal."
+
+Torix's eyes flared red, "Indeed."
+
+The skeleton ran towards me before reaching a hand backward. Using the sharpened, glass-like spines at the ends of its arms, it smashed its arm against my chest. As it made contact, it snapped into several pieces. The broken shards hissed and shook on the ground before the bright, violet hue left their crystalline forms. The leftovers looked like long shards of broken glass now.
+
+I lifted a broken piece with gravity, the skeleton drove back by the rebounding force of its blow. Using the now clear shards, I flicked a finger at the minion, using a gravitational well to lob the crystal at the thing. It blocked the sharpened piece with skill, and the broken piece snapped against the still charged crystal on its arm. I turned to Torix,
+
+"So this stuff is harder and stronger when it's still...alive, I guess."
+
+"I would suppose so. It also seems that once shattered off the main body, it dies. Of course, we'll verify, but if that is so, this is quite a useful property to have. We could convert Hybrids into glass using this."
+
+I crossed my arms, my mind racing with possibilities, "Some parts of them, that's for sure. I think it would be useful against the silver's territories."
+
+Torix nodded, "Good point. Good point."
+
+The skeleton charged forward once more, undeterred by its ineffectual attack. It swung its crystal-coated arm once more, but I grabbed the limb and redirecting the force of its swing. Using that force, I palmed its ribs. The living bones evaporated into a fine powder at my touch. The bit of skeleton left was held in my hand.
+
+Holding the crystal, it attempted to eat my skin. That didn't pan out, so it retreated. Regrouping into a glowing gemstone, it shifted into a central mass indistinguishable from the other crystals. Once collected together, it smacked onto the concrete ground, leaving a bit of crushed dust under its impact.
+
+I leaned back, "Alright, I think I have a few ideas with this."
+
+Torix rubbed his hands together, "As do I."
+
+I picked up the gemstone, and it shivered on contact with me. I pointed at Torix, "I need to know if this stuff reacts to my disconnected fabric the same way as it does me. Do you mind touching it?"
+
+Torix nodded, "I, in fact, do. This would be a rather anticlimactic end for this body you crafted."
+
+"Eh, alright." I opened my dimensional storage and pulled out a bit of my dimensional fabric. After condensing it, I generated a different block of iron in front of me. Testing if it ate all metal on contact, I tossed the gemstone onto the metal. In an anticlimax, the magenta mass clanked off the iron without any reaction. I raised my eyebrows before using the skeleton arm in my hand to prod the gemstone.
+
+It jolted back onto the organic matter, crystalline needles centering themselves in the bone. By now, the aged arm was cracked beyond all reasoning, but the living gem held it together. After reacclimatizing to the limb, I dropped it back into the metal. This time it engulfed the steel in seconds, eating the metal with hunger. The same hunger that the old creatures of that dying world had.
+
+The crystal used the extra mass it gained to its advantage. It molded into a walking platform for the hand. Lifeless and cold, it protected the limb as I flicked stones at its host. Walking back up, I took the hardened piece of my dimensional fabric and tossed it at the gemstone. On contact, the jewel shivered in fear. It abandoned the arm, reverting back into its previous, gemstone form.
+
+To be fair, it was bigger than last time. I turned to Torix, "Mind touching it now?"
+
+Torix tilted his head, "It does seem rather safer now, doesn't it? Even just a piece of your skin sent it reeling. I suppose I will. Do save me if it decides I'm not quite as intimidating as the real thing."
+
+I smirked, "Of course, of course."
+
+Torix deadpanned, "Very funny."
+
+The lich paced over before picking up the gemstone. It shivered at his touch as it had mine, and it showed no signs of trying to eat him. Torix sighed before bringing the crystal close to his eyes and inspecting it closely,
+
+"It carries a few unique characteristics. Let's see what it does with something actually alive."
+
+I followed Torix as we walked out of this chamber. Passing into the glowing fungus hallway once more, Torix showed me the way to the next room. As he opened the doorway, a birdcage of sorts showed itself. The opening proved more than large enough for many of our native avian species. The lights in the concrete room offered plenty of luminescence to inspect each animal, even midflight. The variety of hanging branches built for the birds kept them comfortable and let them live like normal.
+
+Torix admired the creatures, his hands behind himself,
+
+"Aren't they simply stunning?"
+
+I raised an eyebrow, "I wonder if old people always watch birds? Maybe I'll end up watching them too one day."
+
+Torix's fire eyes narrowed at me, "Old, am I? Perhaps I've merely a more refined appreciation for nature."
+
+I nudged him with an elbow, "Have you gotten the urge to sit on rocking chairs lately? Maybe put plastic over your furniture."
+
+Torix scoffed, "Plastic would prevent dust from getting on the furniture, and that would save me time cleaning...If I presumed it was worth doing so."
+
+I laughed when I picked his line of logic apart. The whole point of furniture was to look good and be comfortable. Covering it with a thin film of plastic ruined both its aesthetics and any warmth they offered. It made houses feel more like hospitals, and that kind of defeated the purpose, in my opinion.
+
+Torix eyed me closely before waving off my laugh, "Regardless, one of these creatures should prove an exemplary specimen." Torix lifted a hand and a finger, a red robin perching itself on his outstretched limb. Torix eyed the beauty, giving it a pet along the top of its feathered head. Torix sighed,
+
+"Ah, I hope you're ready for a bit of pain, little one. I'm sorry."
+
+Torix pulled out his other hand, and I placed the crystal on it. I winced as Torix put the bird in contact with the gemstone. It flooded around the bird, forming a cocoon of sorts. Instead of piercing every bone, the gem inspected the creature with tiny needle prods. As it found the spine, it impaled the beast.
+
+This magenta mass reconfigured itself into three rib-like semicircles around the creature. The poor thing squawked the entire time, but it didn't resist. Torix suppressed the panicking bird while it served as our guinea pig. Within a few seconds, the bird returned to normal, not hampered by the crystal whatsoever. It was a definite, positive outcome so far since I was sure it would get eaten by now.
+
+Torix let the bird fly off, and it soared through the containment unit. The crystal on its ack formed magenta-colored wings, and they aided its ascent. Once over towards a makeshift branch, the gemstone wrapped itself around the wood, stopping the bird from falling. The bird looked around unperturbed, and the crystal remained behind it. I lifted my brow,
+
+"Well, I'll be damned...that's...smoother than I expected."
+
+Torix scoffed, "I anticipated more blood and screaming as well. Interestingly enough, the crystal hasn't affected the mind of the bird whatsoever. How that is...I've no idea. It's merely augmented its nervous system to include proprioception of the newly added, crystalline limbs. That and a moderate hunger for metal."
+
+Torix shook his head, "Marvelous, I must say. I've never seen anything quite like this. It's as if this crystal is a symbiotic lifeform designed to enhance creatures it attaches to."
+
+I crossed my arms, "Let's see what it can do."
+
+I lifted a hand, generating an iron spike from below the bird. On route to pierce it, the spine reached within a foot of the bird before the crystal lurched in place. Four prongs stopped the metal in its tracks before assimilating the metal. Once it finished eating, the gemstone condensed into its previous form, no larger but denser than before.
+
+I crossed my arms, "So there's a limit to the size of the crystal bearer. Maybe it has to do with brain size or something?"
+
+Torix pointed at the bird, "Would you mind feeding it more iron? I'm left wondering how much it can eat."
+
+A few more spikes later, and we learned that the crystal definitely hit a saturation point. It could only absorb about ten times its host's mass in metal based on the birds. After that, the sheen of the gemstone maximized, and it could no longer feed. I took out a bit of my dimensional fabric and tossed it at the bird. The crystal shifted to the bird's defense, but after making contact with my dimensional material, it retreated back into crystal form after making contact with my armor.
+
+I grinned at Torix, "This is going to help against the Hybrids, eh?"
+
+The lich cackled before steepling his fingers, "Oh, I'm brimming with ideas, all of them unpleasant."
+
+We brainstormed for a few hours, trying out a variety of gemstones I had on hand. Each one absorbed different amounts of metal and took on different shapes when put on various birds. These shifting forms resulted in many different incarnations of the crystals. Some operated like ribs surrounding the birds, each one acting as an extra limb. Other birds gained a flowing tendril of crystal, giving it extraordinary single target abilities.
+
+One of the crystals created an armor protected and molded around the bird as I attempted hitting it. That was the strongest incarnation of the crystals so far, acting as an extension of the bird's body. It also became evident that each crystal varied in its impact on a bird's mind. The stronger the crystal's effect, the stronger it affected a bird's mind. No matter what kind of addition it had, it beefed up the birds quite a bit.
+
+I couldn't help but think of the eldritch while seeing these things in action. We didn't know the long term effects of the crystal on animals yet either, but they seemed beneficial so far. That might not be the case long term, but I left that studying to Torix. He engaged with this kind of research far better than I did, after all. I looked away when he put crystals on birds. The old necromancer didn't so much as flinch while a bird screamed.
+
+Either way, I left Torix's hidden research labs with a feeling of resounding success. The crystals rested at the bottom of the trenches in Blegara, and I didn't think Obolis knew about them. For the first time, I might be able to understand more about something than he does. Thinking of that and the struggling forces in Saphigia, I sent the Emperor a message to see if he could meet with me soon. I wanted to renegotiate our deal, and I made that clear.
+
+Well, it turns out he could meet, and a bit too soon, actually.
+
+Obolis Novas(lv ??,??? | Finder of Secrets, The Carnage of Olstatia, The Emperor... | Guildleader: The Empire |...) - As I understand it, there's been much discourse and results from your battles on Blegara. The position since our initial charge has changed most certainly, and I agree, we should discuss further details regarding the planet's future.
+
+If you are able, I'd enjoy a meeting immediately. I've found an inkling of downtime, and making it purposeful would please me greatly.
+
+I look forward to your reply.
+
+I put my hands on my hips, thinking for a moment. Yeah, I could meet up right now. We sent a few messages back and forth before Obolis gave me the coordinates for one of his private chambers in Olstatia. With that in tow, I let Ophelia and Chrona know I'd be late. Finishing the planning required, I walked towards the warp outside of Mt.Verner.
+
+Stepping out of the white mist leftover from warping, I turned to look at my surroundings. I was already here, Obolis approving my travel to this place. I found myself surrounded by torches and stylish stone from all sides. It was a kind of red marble littered with gold streaks, the strands showcasing the same color pallet I expected from Olstatia by now. If anything, this marble probably inspired the look Olstatia went for.
+
+Above me, a pillar extended upwards via an ancient, well-worn spiral staircase. This spiral staircase carried many walkways leading to other tunnels in this underground labyrinth. The number of resources required for this place dwarfed even a planetary scale, several colonies worth of marble, gold, and gemstones needed in a hideaway of this size. The many walkways here, no doubt, hid away an innumerable number of treasures, maps, and personal chambers for Obolis.
+
+Speaking of which, I followed the directions he sent. I paced up the spiral staircase several flights worth before walking down the twenty-seventh walkway. After recounting several times to make sure I wasn't going down the wrong walkway, I explored a hallway littered with low-lit torches. The orange lighting cast the displayed treasures here in dramatic luminescence.
+
+A flask of Plaga Ustus was here, the glowing and white virus swirling in its containment. Several other vials showed themselves as I walked past, each brilliant different colors. Peeking at a few of the descriptions, they showcased other unique varieties of eldritch. A few weren't even monstrous in nature, holding mostly positive effects on those infected. The Empire might be using them on their forces already.
+
+On the other side of this viral showcase, a few captured Hybrids stayed suspended in stasis. There was an enormous exhibit of a blighted one, the gialgathen's body distorted into its new, abominable form. Cords reached out from its throat mid-bite, and orange pustules glowed over its frame.
+
+The nanomachines fluid gave the monsters their tenacious recovery, and suppressing one of these creatures was no easy feat. The standard Hybrids also exposed themselves here, having been captured at some point by the Empire's forces. Past that, rare varieties of eldritch existed within preserved tubes. All of these monsters were volatile, dangerous, and majestic, their ferocity both horrifying and praiseworthy.
+
+Hiveminds, endless walls of flesh, glistening miasmas, living suits of armor, even converted albony exposed their forms for curious eyes here. Armors, knives, swords, guns, shields, ores, gemstones, jewels, stones, teeth, horns, skulls, plants, and elemental furnaces lined up in perfect, preserved spaces. The sheer variety overwhelmed the senses, each piece valuable and rare in their own right. In this kind of lineup, they all looked familiar, however.
+
+The sheer wealth and prominence on display here boggled the mind. It left me floored as usual, but I collected myself before meeting the Emperor. He had used this tactic several times, showing off before we talked to put me off my game. It was an attempt to leave me startled before we spoke, so he was at an advantage. In this case, awareness alone canceled out this tactic.
+
+Using that knowledge, I silenced my awe and surprise. This was an inevitable amount of wealth he accumulated over centuries. By comparison, my guild hadn't existed for even a decade, and when we hit our hundredth year, we'd dwarf this fortune a hundred times over.
+
+I mean, probably...
+
+Finding a bit of solace in those thoughts, I paced into Obolis's chambers. I cursed under my breath as I walked in. He did it again, and the displays took my breath away. The ceiling rose over a hundred feet above the generously spaced hallway behind me. Obolis's greatest treasures showed themselves here, only the rarest of his collection on display now.
+
+On the left, a horde of insects swarmed with a lesser Ruhl at its center. It reminded me of Baldag-Ruhl, but nowhere near as ancient and worn down. This was a younger Ruhl, one fresh out of being formed. Panels beside the Ruhl showcased a variety of rare gemstones that glowed different colors.
+
+On Obolis's right, many vials of blood were lined up, each with a remnant family inscribed beneath them. He harvested remnant DNA to reverse engineer their secrets. Considering how powerful individual remnant families were, the idea was sound, albeit illegal. At its top piece, he lacked a few families of remnants. The rarest of which was the Adairs, of course.
+
+Behind Obolis stood a tan tree by spotlights. It had a white trunk with black stripes, like a birch with orange fronds acting as branches. These fronds ranged in color from yellow to red to orange. Its fallen leaves created an elegant walking space right behind Obolis, who stared at the plant with adoration.
+
+I pointed at it as I walked in,
+
+"Is that the tree you guys use for masks?"
+
+Obolis turned in his chair, the cushion space supported by some gravitational instruments,
+
+"Indeed. When cut and preserved, the wood turns different shades depending on the age of the tree. The older the tree, the darker its coloration. As you may have imagined, orange masks are the younger ones, red some of the oldest. Only the most ancient trees gain the charcoal coloration you'll see worn by the elite albony."
+
+Obolis gestured at his prime specimen, "This tree is one of the most ancient of its kind found in a dark forest. I brought it here after exploring one of the oldest and most worshipped woods on my home planet of Olstatia. It creates a natural ambiance I find...calming."
+
+Obolis turned to me, "It also reminds me of the ways of my ancestors. They forged the path I now walk, leading the albony into the future. Unfortunately, a grim one at that."
+
+Obolis stood up, his form imposing as always. He walked from behind a desk of black wood, dozens of hidden electronics lying beneath its surface. It was no doubt the same charcoal wood he used for the elite masks. Walking along his marble floor towards me, Obolis spread his arms wide,
+
+"And now our future is in a darker place than I imagined. You've no doubt noticed that our support on Blegara, it's been ineffectual. It is the planet I value the least, yet it is the most contested of all my planets. I believe that Elysium wishes for that planet since its easily obtained territory relative to the other places under my rule."
+
+Obolis gripped his hands into fists, "Yet, I find myself in a precarious position. On the one hand, I don't wish to lose the territory I've invested in. There are resources on Blegara I wish to retain, and my Empire's reputation is on the line here. On the other hand, Blegara is still a relatively underdeveloped territory."
+
+Obolis stared at the swarming hivemind trapped in a stasis pod of sorts,
+
+"That planet was considered a worthwhile risk due to the rarity of aquatic resources. Its water is shallow across most of the word, meaning it carries much more usable, aquatic territory than is normally possible. The organic resources there are tremendous because of that. It carries enough water to terraform a few planets as well."
+
+I frowned, "But now you're wondering if it's worth holding onto?"
+
+Obolis winced, "That is precisely correct. You've been fighting there for several days now, on the ground. You understand as well as I - the planet is doomed to be taken. Whatever we conquer, it is retaken during the night. I do not wish to be trapped in a perpetual war with the Hybrids where I alone carry the tools to destroy them."
+
+I raised a hand, "That's what I was going to talk to you about. We won't be able to hold the capital for long. Even if I reconquered the entirety of Saphigia in a day, the Hybrids would retake it overnight. I won't be able to hold it down unless I stay there permanently, and I'm not willing to do that."
+
+"Neither am I."
+
+"That's my point. We won't be able to retake Blegara at this rate without a hard push from your end. From what you just said, you're not willing to do that."
+
+Obolis raised his eyebrows, "I find the matter settled by basic economic theory. Blegara is simply too little gain for too much loss. From an opportunity cost perspective, it's by far the worst investment left at my disposal, and I'm tempted to rally my resources for preservation elsewhere. That is the position I find myself in."
+
+Obolis glared at the Adair's missing vial of blood, "I...I put my bets on Schema and lost. Now I must suffer the consequences for my failure, and I believe that by trying to keep all of my territories, in the end, I will keep none. At this rate, I'll be losing several planets because of this rebellion, and that is a loss of several centuries of work, time, and diligence."
+
+Obolis's face grew grim, "Yet more may be taken if I cannot cut my losses here. Elysium may not be as large as Schema, but militarily speaking, they are a similar force. As is, my Empire is akin to a solar system in scale. These enemies of mine, they are galactic in nature, and I cannot compare. You've noticed that difference in military might. That's why you called this meeting."
+
+Obolis closed his eyes, "I understand if you need to call off your involvement on Blegara. I will not pursue your involvement further, either; I know a lost battle when I see one. Shameful as it is, I believe we should move forward with the plan to kill Plazia-Ruhl. While I'm not willing to lose this many troops in this war, the Ahcorous are. Those bloodthirsty creatures should prove perfect for our needs."
+
+I shook my head, "That isn't necessary. I think we can still win, and quick too. Hasn't Florence told you about our plan for subjugating the Vagni?"
+
+Obolis's eyes darkened, "No. He did not."
+
+"Oh...Well, we're going to show the eldritch on Blegara worshipping me. Since the Vagni worship the eldritch, they will hopefully worship me after that. Once we get the Vagni on our side, the Adairs will lose the locals' support. Holding the planet should be much easier after that."
+
+Obolis steepled his fingers, "I still believe holding Blegara will prove impossible even with the locals' support. They aren't a powerful military force, and they are primitive. That shouldn't make enough of a difference."
+
+I raised three fingers, "There are three reasons we'll be able to hold Blegara. The Vagni and the eldritch will help us more than you'd think since both will be involved in this. The second reason is we can use super golems to hold down certain districts of towns."
+
+Obolis nodded, "Ah yes, Alpha, was it? That was a powerful soldier, and it was designed with killing Hybrids in mind. They would assist us greatly in controlling the territory. That wouldn't give us the ability to control more rural areas, however. You simply cannot produce enough of the super golems to do so."
+
+I pointed at him, remembering the magenta crystals we found, "That may be true, but I think we've found something recently that will give us an edge against those monsters."
+
+Obolis's eyes lit up as he detected a secret, "Ah, you've uncovered something that could be a dagger in the Elysium's side...interesting."
+
+Obolis's eyes dampened, "But that does not change the economics of controlling Blegara. I could buy your super golems, certainly. I could also purchase this new means of defeating Hybrids from you as well. I would never, not even over centuries, be able to earn that money back from Blegara. It offers pearls, corals, and beach resorts. That does not equate to trillions of credits, unfortunately."
+
+I stood tall, "I think Blegara is worth saving."
+
+Obolis peered down, "Hm, so you've grown attached, have you? Hmm." Obolis bit his tongue for a moment, appearing peeved, "You know...I expect some conniving plots from my children. To have it occur from Florence, however...that's unexpected and disappointing. I expected loyalty from him, given the opportunities I've allowed him to have."
+
+I scoffed, "None of you, not a single Novas, understands the guy. Florence is more than just useful. He's a serious asset worth keeping."
+
+Obolis raised his eyebrows, "Hm, perhaps that is so. I've seen the talent in him, and yet I could not give him what he needed to succeed. On the other hand, you've weaned more use out of him than we have in years. If you have done so with Florence, you may be able to wean more use out of other resources as well."
+
+Obolis turned a hand to me, "I've read through reports from Victoria that you've enjoyed your stay at Blegara. Is that true?"
+
+I nodded, "Eh, yeah. It's a cool place."
+
+Obolis grinned, "How would you like to own the planet?"
+
+My eyes widened,
+
+"Uh...What?"

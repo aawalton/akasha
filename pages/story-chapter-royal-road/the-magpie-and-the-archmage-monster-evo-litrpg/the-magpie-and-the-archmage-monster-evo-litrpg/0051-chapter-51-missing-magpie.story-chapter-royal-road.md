@@ -1,0 +1,279 @@
+---
+id: 32671b32-3525-56f0-84c6-633a2af5050c
+page-type-slug: story-chapter-royal-road
+title: "Chapter 51 – Missing Magpie"
+slug: 0051-chapter-51-missing-magpie
+partOf: the-magpie-and-the-archmage-monster-evo-litrpg
+position: 51
+ownLength: 2041
+unit: words
+publishedAt: 2025-11-22
+link: "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2782731/chapter-51-missing-magpie"
+royalRoadId: "2782731"
+---
+
+The cracks on the blightstone spread, revealing more and more of the glimmering inside. Liora gaped at it, feeling giddy anticipation building within herself.
+
+Suddenly, there was a loud boom and an explosion, which sent all the blightstones flying in every direction. Dust and dirt were flying everywhere. Liora had flattened herself to the ground, carefully peering at the place the pile of blightstones used to be. A shimmering glimmerstone sat on the ground in a small crater.
+
+[New skill unlocked – Purify.]
+
+[Purify – Remove negative status ailments, including curses on a target. Success rate and number of ailments removed depend on your skill level and the strength of ailments on the target.]
+
+"It worked?" Liora asked, rising from the grass. She grabbed the new glimmerstone, inspecting it from all sides. It felt completely normal, not even a sign of corruption left on its glimmering surface.
+
+"Ow…" Renir's voice resounded from some distance away.
+
+Liora was shocked to discover that in the explosion, he had been blown some distance away, along with the other blightstone. Panicked, she flew up to him immediately, frantically checking every side for any cracks or blemishes.
+
+"Caw, caw, caw!" She squawked. "Oh no! Oh no! Are you alright? Did you break? Please don't tell me that you broke."
+
+"Stop squawking at me. I'm not broken, but… Ugh, that didn't feel nice," he muttered.
+
+"I'd better pull you back in my Inventory," Liora said, grabbing him in her talons. The gem disappeared, and Renir's voice reappeared in her mind.
+
+But you can purify blightstones. That's huge!
+
+Hell yeah! No more nasty, grimy blightstones. I'll Purify them all.
+
+I am worried about your skill slots, though. Do you even have any left?
+
+We can check.
+
+[Profile]
+
+Name: Liora
+
+Species: Starfeather Corvid
+
+Level: 7
+
+Health: Small
+
+Mana: Moderate
+
+Glimmerstones: 278
+
+Skills (10/10):
+
+Mimicry [Expert]
+
+Lunge [Novice]
+
+Skypierce [Adept]
+
+Air Slash [Novice]
+
+Fade [Novice]
+
+Mana Conversion [Novice]
+
+Poison Shot [Novice]
+
+Holy Light [Basic]
+
+Wind Blast [Basic]
+
+Purify [Basic]
+
+Traits (8/10):
+
+Twilight Vision [Expert]
+
+Treasure Sense [Novice]
+
+Aerial Agility [Expert]
+
+Glimmerlust [Novice]
+
+Shadow Glide [Adept]
+
+Inventory [Basic]
+
+Magpie Disguise [Basic]
+
+Poison Resistance [Basic]
+
+Next Evolution: Requires Level 30 and ??? Glimmerstones to unlock
+
+I'm out of skill slots!
+
+As I feared…
+
+What do I do? I won't be able to learn any new skills!
+
+You should focus more on developing the skills and traits you already possess. Most of them are at either Basic or Novice level. It's frankly embarrassing.
+
+Liora let out an undignified squawk.
+
+Excuse me, I'm an Expert at Mimicry and Aerial Agility!
+
+But you could be an Expert at many more things. Besides, you should also get more comfortable with combining your spells on the fly. Pun intended.
+
+Liora wanted to roll her eyes at the mage. But although she hated to admit it, Renir was right that she was having trouble combining her skills. Perhaps, focusing on that for the time being was the right decision.
+
+But what would happen if I were to unlock a new skill? Can I never unlock anything new?
+
+You can, and you'll receive a notification just like before. But you'll have to remove one of your previous skills first, and sadly, you won't be able to relearn it ever again.
+
+No! That's so unfair. Should I try combining something to free up a spot?
+
+Not now. I think you have a good, wide variety of skills at your disposal right now. In either case, you should purify those blightstones first.
+
+Liora had almost forgotten about the nasty things. But thinking that they could be turned into nice glimmerstone instantly lifted her mood. The Necklace of Sunglow was steadily recovering her mana, so she began blasting every blightstone with Purify.
+
+Oddly enough, not every blightstone was made equal. Some of them were really easy Purify—one time was all it took. A few were a bit harder and required several Purifies until they were nice and shiny again.
+
+Fascinating. I suspect that the blightstones obtained from more advanced monsters are harder to purify.
+
+Then how come they don't give me more glimmerstones? That's unfair.
+
+Be grateful you can Purify them at all. What would we do if we couldn't do that?
+
+Liora didn't even want to think about that scenario. She wouldn't be able to keep more than nine in her Inventory, so what about the remaining blightstones? Just let them poison the environment? Or drop them in front of the Night King mages and cheer that she's making their evil plan easier?
+
+But thankfully, she didn't have to worry about that scenario. Instead, she had to worry about recovering.
+
+[Status]
+
+Health: Wounded
+
+Mana: Trickling
+
+She couldn't go to the city in this form. Not when she had been clearly identified as the thief of the pass. It did make her wonder what had happened with Mr. Asshole. Has he already been judged guilty? Did he have to pay some hefty sum? Or serve some time in prison? She had no clue what kind of punishment was inflicted upon thieves in this world.
+
+Serena is going to freak out when I don't return in the morning.
+
+It can't be helped. Better she freaks out for a day thasn you get caught.
+
+***
+
+When Serena woke up, she found Kiva pacing around the room.
+
+"What's wrong, Kiva?" She asked, rubbing the sleep out of her eyes.
+
+"Liora is gone, and she's been gone the whole night!" Kiva said.
+
+"What?" Serena was instantly up on her feet, frantically looking around the room. Obviously, there was no sign of the magpie.
+
+"Yeah. I noticed her leaving last night, but I figured the free spirit that she is, she just went for one of her nightly flights. But she hasn't returned."
+
+"Maybe she flew to Kalen's room?" Serena asked hopefully.
+
+"It's possible, I suppose. Let's go check," Kiva urged.
+
+They left their tiny room and headed to Kalen's room which was a few doors away from their own. Serena knocked and heard a sleepy grunt come from within.
+
+"Kalen, wake up!" She said.
+
+"Sister, is that you? Just come in," he muttered.
+
+Serena sighed and opened the door. There wasn't much space where to come in—Kalen's tiny room was smaller than theirs with barely any walking space.
+
+"What is it so early?" He muttered from underneath the sheets.
+
+"Have you seen Liora at any point?" She asked.
+
+"The bird? No. She sleeps in your room," he said, burying himself deeper into the rough sheets.
+
+"She's been missing the whole night!" Kiva added.
+
+"So what? She likely slept in a tree somewhere," Kalen muttered.
+
+"I guess that is a possibility…" Serena admitted, although she didn't feel any less uneasy.
+
+"I don't think that gluttonous bird would miss out on breakfast," Kiva pointed out.
+
+"Yeah. Liora really likes our food," Serena agreed.
+
+"So what? Are we supposed to search for that bird? No way we're going to find her in this city. Just wait for her to return," Kalen said dismissively.
+
+Serena felt her little brother was right. Even if something had happened to Liora, how could they hope to find her? She could be beyond the city border in a matter of minutes, and it was almost certain that nobody had seen her.
+
+"How about we go get some breakfast and check out the Quest Board? Maybe Liora will show up at some point during the day," Kiva said hopefully, placing a hand on Serena's shoulder.
+
+She nodded. They couldn't just mope around. Their wallets were still painfully light. They need to keep doing quests and level up. Hopefully, when they're strong enough, they can take on better quests and maybe move into a better place.
+
+One had to wonder how long the Guild was willing to accommodate them. The rooms are meant as temporary resting spots, not long-term living quarters. Serena's back certainly wasn't impressed with the hard mattress, if it could even be called that.
+
+By the time they were done with breakfast and got to the Guild Hall, it was bustling with life. Adventurers were much more cheerful than before, chatting among themselves and eagerly looking through newly posted quests. Some were also looking for new party members. Overall, the atmosphere was pleasant.
+
+"Are you doing another Delivery quest today?" Kiva asked.
+
+"I think we should until we can reach Level 10 and advance our class. Ideally, we should save up some money for new equipment," Serena said.
+
+"My sword is barely better than a dull knife at this point," Kalen said glumly.
+
+"I wish I could have real arrows instead of these makeshift ones…" Kiva agreed.
+
+They all sighed. Poverty was a heavy curse that kept hanging over their heads. Serena picked up one of the copper Delivery quests, this time to deliver some ore from the mines to the blacksmith. She took it to Clara, who greeted them with the same professional smile.
+
+"Good morning. Nice to see you three again. Where's your magpie?" Clara asked as she took the quest note.
+
+"She's… flying around somewhere this morning. We're not quite sure," Serena admitted.
+
+"Can't expect a bird to sit still," Clara nodded. "My, you three sure have been busy—undertaking all those quests."
+
+Serena cocked her head. They have been taking one or two quests every day, but she wouldn't say that it was keeping them too busy. They were mostly running from one end of the city to the next.
+
+"Brave of you to attempt a quest with caster kobolds. But I suppose you must be confident in your magical ability. I'm sure you'll manage to get those two kobolds today," Clara said.
+
+Serena didn't even register the quest notification that appeared in front of her, dismissing it immediately.
+
+"Kobolds?" Kalen cocked his head quizzically.
+
+"Yeah, for your quest," Clara said.
+
+Serena's mind went into overdrive at that moment. They hadn't undertaken any quests for kobolds, and especially not for caster kobolds. Judging from Kiva's and Kalen's stupefied expressions, neither did they. How could they? They had been together the whole time. But if they hadn't done it, then who…
+
+Serena just barely restrained the horror of the realization from showing on her face. Instead, she tried to keep a calm expression as if it all made sense.
+
+Serena didn't know how Liora had managed to do that. Did she have a human disguise, too? Or did she sneak her way past Clara? Serena had no clue. But if she didn't want for Liora to get exposed, she couldn't act like the fool here.
+
+"Yes, of course. We'll dispose of them in no time," Serena said with a calm smile.
+
+"What?" Kalen gaped at her in shock.
+
+"Did you already forget? I swear, my brother can't even remember his mother in the morning," Serena laughed.
+
+Kiva quickly caught on and laughed alongside Serena. "Yeah! You killed a kobold yourself. Did you forget?"
+
+"Thank you for your help, Clara! We'll be going then," Serena said, and pushed her confused brother towards the exit.
+
+"What's going on?" He whispered.
+
+"I think… I think Liora somehow has taken quests," Serena said.
+
+"What?" Kalen exclaimed.
+
+Kiva elbowed him in the ribs, and both women pulled away from any prying ears, towards the relatively empty training grounds.
+
+"How can she take a quest? She's a… you know," Kalen whispered.
+
+"I don't know, but maybe that's the reason she hasn't returned," Serena suggested.
+
+"Can't we check our quests? In that Guild Status Screen?" Kiva suggested.
+
+"That's right!" Serena nodded, and hurriedly commanded the Guild Profile screen to appear.
+
+[Guild Profile]
+
+Name: Serena Rembrack
+
+Race: Human
+
+Class: Mage
+
+Rank: Copper
+
+Party: Kalen, Kiva, Liora
+
+Active Quests: 2
+
+Completed Quests: 3
+
+Serena couldn't believe her eyes. Not only had Liora's name been changed from Skye, but they had one extra ongoing and completed quest than they should have had. She willed the system to show her the ongoing quests. One was the Delivery Quest they just undertook, and the other was a Subjugation quest for caster kobolds.
+
+However, it had stopped on three kobolds defeated instead of being marked as complete like the other extra quests, which apparently involved collecting glowshrooms.
+
+"Something must have happened to Liora!" Serena exclaimed in shock. "We have to head to the dungeon!"

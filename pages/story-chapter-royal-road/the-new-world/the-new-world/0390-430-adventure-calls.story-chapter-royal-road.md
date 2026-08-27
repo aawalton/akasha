@@ -1,0 +1,501 @@
+---
+id: bd430a91-535c-51ce-a264-1ef3be3a6b4d
+page-type-slug: story-chapter-royal-road
+title: "430 Adventure Calls"
+slug: 0390-430-adventure-calls
+partOf: the-new-world
+position: 390
+ownLength: 4461
+unit: words
+ownProgress: 4461
+publishedAt: 2025-05-27
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2310465/430-adventure-calls"
+royalRoadId: "2310465"
+markedReadAt: "2026-06-29T21:34:43.637Z"
+---
+
+I raised my hands, and beyond the concealing magic of my cloak, the bright scars still traced my skin. They reminded me of my mortality, the wounds from a mad god. They were reminiscent of moon slices spreading over dark steel. Before this trip, I worried about being able to recover to my full might.
+
+However, my wounds gave as much as they took. Today, I was a normal man, or at least closer to one. I held down a laugh as I relished in the weakness these scars gave me. It was like entering a world where others could see me for who I was, not what I could do, and that was a refreshing feeling. As I settled into slumber, I found more empathy for the Old Ones.
+
+And I could see why they wished for weakness.
+
+Chapter Begin
+
+I drifted into a deep sleep, my mind clear and serene. For the first time in years, I dreamed while I rested as if nothing weighed on my shoulders. As I paced through a blur of images and feelings, something stuck out to me. Blurry, undefined images of the interdimensional behemoth arose in my memory.
+
+I felt the presence of its mind trying to claw me to pieces. It ravaged the memories I cherished, and it left me hollow as a husk. The impending panic and terror bloomed alongside rage and hate. As I readied to retaliate, my eyes opened. I pulled myself up and opened my status. Four hours passed, and the others stayed asleep.
+
+By now, the bar had emptied, and no one else remained conscious. To pass the time until they awakened, I looked through the details of their dungeon map and the data set they acquired. I used an alias in my status in the meantime, similar to a username and also a function I never considered even looking for. It wasn't anything that unusual, apparently, and it let me open several info-laden files they sent me.
+
+It would be an underwater dungeon, and I'd be well within my ability to handle if the situation went South. However, I didn't want to reveal my powers or abilities. Working within the confines of my level, I drafted up a set of plans. Once the sun rose, I stopped by several nearby stores and stocked up on an assortment of supplies. After getting it all collected, I headed back to Joshua's pub and did the necessary mental prep for any situations I may find myself in.
+
+As I toiled away in my room, a hand tapped against the exposed earth. I already knew who it was, but I gave them a nod of recognition.
+
+"Come in."
+
+Jamal stepped inside, and he whistled.
+
+"Wow, you're up and planning already? No wonder you said you'd be ready at any time. You'd make it happen even if it meant not sleeping."
+
+I smiled.
+
+"I have the willpower perk."
+
+Jamal leaned against what was supposedly constituting as a doorway.
+
+"That doesn't mean you can't sleep. It means you don't have to. Most people I know with the perk still get several nights of sleep a week."
+
+I smiled.
+
+"Then they're wasting a lot of its potential."
+
+He walked over.
+
+"We'll see about that. What are you working on?"
+
+I pointed at the map.
+
+"I'm scouting out a few exit paths, alternative routes, and finding environmental oddities to take advantage of."
+
+Jamal nodded.
+
+"Damn. Smart. Most dungeoneers wouldn't consider that until they arrived."
+
+I shrugged.
+
+"I have the data, and I'm a frugal guy. I don't like it when I let what I have go to waste."
+
+"I can see that. So then, Mister Frugality, we'll be ready later today once you've finished your prep."
+
+I drew on the map, making a line from one room to the next.
+
+"Won't you all be hungover?"
+
+"Probably, but Joshua has a mean tonic to help with that."
+
+I peered up at him, gawking in surprise. Jamal waved my disbelief off.
+
+"Oh, come on. You got to let us live a little."
+
+I held my tongue before letting out a sigh.
+
+"It's your lives on the line, so do as you will."
+
+He slapped my shoulder.
+
+"You're pretty intense, you know that?"
+
+I frowned.
+
+"Unfortunately, I've had to be."
+
+Jamal gave me a slight shake. I allowed him to move me. He said,
+
+"That's in your head. You take on responsibilities that aren't yours, and no one even asks you to."
+
+I peered up at him.
+
+"You know, I thought you were the leader of this bunch. I'm surprised you have such a lackadaisical approach, considering you've taken that position of your own accord."
+
+He walked over to a wall, a kerosene lamp lighting the room.
+
+"It's not what you're thinking. See, you imagine it as if I'm setting us up for failure. It's the opposite. By letting my mates have some fun, they get to enjoy life. The more they enjoy life, the harder they'll fight to keep it. If all they do is train and live in drudgery, they'll go insane."
+
+I wrapped the map before tucking it under my arm.
+
+"Kind of like The Shining?"
+
+Jamal met my eye, a mischievous grin tracing his lips.
+
+"All work and no play makes Jack a dull boy."
+
+I shrugged.
+
+"If you say so."
+
+He tilted his head.
+
+"I'll go get the others up and see if Joshua won't give us that tonic. We'll be ready in a few hours."
+
+I nodded before he left the room. I pocketed all of my supplies using a normal-dimensional storage ring. The capacity was sorely lacking, and every time I connected to the estranged space, I was reminded how disconnected from me it was. It was like a new pocket dimension every time, and I had to reorient myself whenever I opened it.
+
+Using it at a rapid pace was damn near impossible since I had no sense of what lay within it. Either way, it served its purpose as I walked out into the bar. Nobody entered a pub at this hour aside from us, so Joshua scribbled out accounting expenses on a sheet of paper in a booklet. Jamal scoffed.
+
+"I can't believe you're still using paper to handle your accounting. They have software packages for that, you know."
+
+Joshua licked a finger before turning a page.
+
+"Too bad I ain't usin'em."
+
+In front of the counter, three bubbling seltzers carried small hints of quintessence alongside a cocktail of herbs. They smelled like pine needles and campfire smoke. As Jamal picked them up, he tilted his head at me.
+
+"What about Daniel?"
+
+Joshua looked at me, and a knowing smirk grew on his face.
+
+"He looked fine enough to me."
+
+Jamal shrugged before heading back to the backrooms. I pointed back at them.
+
+"Those drinks smelled pretty good. I'd be fine with ordering one."
+
+Joshua raised his brow before letting out a sigh. He took out several bottles, one of them a ten-gallon jug full of pine needles. He took a tall glass and sliced up a mint, a block of white powder, salt, and an herb I didn't know about.
+
+After prepping the ingredients, he piled it into a glass and grabbed it in his hand. A small bit of quintessence surged from his palm, and it enmeshed the ingredients. He handed it to me.
+
+"That'll be twenty credits."
+
+I exchanged the currency via status menus, and I raised a brow at the brew.
+
+"Was that quintessence I just felt?"
+
+Joshua crossed his arms.
+
+"You must've imagined it. That's why I always recommend adventurers get enough sleep."
+
+I was aware of the entire building and everyone inside it. Joshua had been awake whenever I slept and whenever I woke up. I raised the glass.
+
+"I'll take that to heart then."
+
+I sipped it, and a blast of flavor erupted like a wintergreen breeze and a chilly morning mug of coffee. A touch of smokiness lingered as the aftertaste. My eyes widened.
+
+"Wow. This is great. What did you make it with?"
+
+Despite himself, Joshua grinned, the expression sincere.
+
+"It's a trade secret. I'm glad you liked it, though, and you can have as many as you can buy."
+
+I took a swig before letting out a contented sigh.
+
+"I might have to take you up on that."
+
+I piddled before Nissa and Jasmine dragged themselves over to the countertop. Each of them carried their glasses in their hands and sat down at the bar. In tandem, the ladies chugged their drinks down, and as the blast of magic swirled through them, they hit their hands on the wooden bar.
+
+Nissa let out a whoop.
+
+"It wakes me up like a good book every time."
+
+Jasmine shook her head.
+
+"Like a fresh liver to warm you up in winter."
+
+I held down a bit of surprise before Jamal gestured to his sister.
+
+"She's a hunter, and she hunted well before the system arrived. Whenever you kill most animals, certain parts start spoiling right away. The heart, kidney, and liver, in particular, are best eaten hours after the kill. Ergo, she really likes fresh liver, and anytime she hunts anything, she sits down with her cast iron skillet and cooks it right away."
+
+Jasmine opened her bag and pulled the cast iron skillet out. She brandished the enchanted iron.
+
+"You wouldn't believe how good the seasoning on this sucker is."
+
+Jamal nodded.
+
+"It's a gift. Really, it is."
+
+Nissa blanched.
+
+"Please. No. Don't remind me of that time you held a deer heart near my face."
+
+Jasmine put her iron skillet on the countertop. She moved it as if cooking.
+
+"It tastes great in fajitas. You liked it before you knew what it was."
+
+Nissa leaned away.
+
+"Oh god, you're going to make me sick again."
+
+I walked over.
+
+"I've never even had venison, and I've definitely never tried heart or anything like it."
+
+Jasmine raised a hand.
+
+"That's a real shame. Organs are by far the healthiest meats. They're one of the few sources of antioxidants outside of vegetables and fruits, and scientists theorized they were a major spurring agent for why humans evolved as we did and as quickly as we did. They're like little experience bombs for our bodies since they act as the storage places for nutrients."
+
+She shook the hand, an obvious passion oozing as she spoke.
+
+"It's likely why most eldritch ingredients are organs as well. They store their energies in those places as we have, and that's why learning to harvest organs is essential for any good hunter or scavenger. You leave a lot on the table otherwise."
+
+Jamal crossed his arms.
+
+"Isn't Nissa supposed to be our group's nerd?"
+
+Nissa adjusted her glasses.
+
+"You already know I'm far nerdier than Jasmine will ever be. But yeah, if you get her talking about the carnivore diet, then we might all get drowned in studies and details."
+
+Jasmine opened her mouth before Jamal put his finger over his lips. He mouthed.
+
+"We need to focus on the mission, guys."
+
+They settled down, and we locked in for a while. Jamal had come up with a plan for clearing the dungeon out. The entire expanse was an underwater cavern, and several people died in the dungeon recently until one explorer came out and explained why. It turned out that even without eldritch trying to eat you, underwater caverns were insanely dangerous.
+
+The first issue revolved around nitrogen narcosis. It was the saturation of your bodily tissues with nitrogen. This occurred while breathing underwater if you used the wrong magic and usually led to a drunken state. Several people tried rebreathers and visual lenses, but they ended up getting loopy to the point where they no longer understood the severity of their situation. In the end, they drowned in the depths of the flooded cavern.
+
+Eldritch devoured their bodies, but they left the unenergized supplies behind. Afterward, several individuals actually went underwater cave diving before the system arrived. They put up warnings for this particular dungeon. After it was cleared a few times, several people started going missing once more.
+
+Jamal and the crew wanted to cash in on the hefty award for clearing the area. Nissa even had the technical skill for the correct pressurization of air while diving. Aside from that, they had cleared it before, though it had been well over a year ago by now, so I didn't count their experience for much.
+
+Dungeons evolved all the time, and month-old data could be out of date, let alone year-old experiences. Either way, it bolstered the group's confidence, to my chagrin. At least the map was new. Either way, with that false confidence in reserve, we readied ourselves before leaving the tavern while stocking a few extra tonics from Joshua.
+
+We journeyed through the newer city, many of its nooks and crannies known by the team of three. Like a parkour training group, they bolted around the tops of buildings and swung across steel railings made for that express purpose. I followed them, but I kept my leaps and jumps simple.
+
+I didn't want to expose my identity via complex gravitation. I kept to small panels and telekinetic supports when needed. After we parkoured through the outer city, we reached where buildings and encampments weren't fully realized. Here, along the outskirts of Springfield, temporary encampments awaited my architect golems' time and attention.
+
+I gestured at the camp.
+
+"Why are they living in tents when they could just build a house out of stones? They're plenty strong and fit enough to do it if they wanted to."
+
+Nissa sneered.
+
+"Why would they when they could just wait for The Harbinger's puppets to do everything for them?"
+
+Her words cut more than they should've. I frowned.
+
+"Do you think it's a bad thing that he offers to build housing?"
+
+Nissa sighed.
+
+"Not necessarily. That is to say, it doesn't have to be, but at the same time, it's hard to get the gumption to do something when you know you can just wait long enough, and it will be handled for you. We don't think along those lines, but most people do. That's why you have this huge group of homeless people awaiting their silver spoon."
+
+I furrowed my brow.
+
+"Why doesn't anyone, I don't know, start up a construction company or something to fill the void?"
+
+Jamal laughed.
+
+"Good one. What will they sell that outdoes the free palaces The Harbinger gives us?"
+
+I took a sharp breath.
+
+"Fair point."
+
+After we walked up to the border patrol, I ogled at a guardian golem covered in Shalahora's shades. As people passed by, the shades flew off the golem and phased through the immigrants. When the specters did, they inspected their minds and ensured no Hybrids settled inside them. Moreso, they checked for altered psyches that were reconstructed from Elysium's digusting bone cipher techniques.
+
+Jamal and the others felt a shade pass through them, and each of them shivered. The same happened to me before the shade gave me a nod of acknowledgment while the others weren't looking. Whenever we passed the guardian golem, it eyed us, its glare menacing.
+
+Nissa trembled under its gaze.
+
+"Jeez. We've already been cleared, so why is it staring at us like it found a pile of smuggled fentanyl?"
+
+I smiled up at it.
+
+"I don't know, but it won't stare for long."
+
+It turned away, having heard me. As it did, Jamal let out a long sigh.
+
+"Dude, whenever I see those absolute monsters, I can't help but wonder what the real Harbinger is like. I've heard he's even taller and stronger than the golems."
+
+Nissa chided.
+
+"I've heard that too, but it could also be that he's an excellent crafter and not as much a fighter type."
+
+Jasmine walked, her steps lithe like a tiger.
+
+"I doubt it. I knew some friends who fought in the Elysium Wars on Blegara. Apparently, they watched him fight a silver infested town for hours. He was a living calamity, and he ripped and tore them apart without rest like some possessed demon. He would actually rise into the air and smash himself into the ground like an asteroid just to kill them faster."
+
+Nissa rolled her eyes.
+
+"Like an asteroid, or, you know, a falling brick. Even a child could think of that."
+
+Jamal adjusted one of the straps that held his mana stones.
+
+"But I've never seen another high-level person do it. I think the only reason he can is because I've heard he's unkillable."
+
+I murmured.
+
+"No one is immortal."
+
+They turned to me as if I just appeared out of nowhere. Jamal laughed.
+
+"I've never even seen him injured."
+
+I smiled.
+
+"You might have. You just never knew it."
+
+Jamal hit my shoulder.
+
+"Oh, ok. Sure. I missed the steel Godzilla human."
+
+My smile dampened.
+
+"Easier than you think."
+
+We left the border patrol, and everyone stuck to a trade route for quite a while. The idle chatter and jovial tone put a smile on my face. It was an easy thing for them to relax on the road my guild maintained. As Diesel said, vines and ivy-covered an endless row of mana lamps, and they connected the larger nearby settlements to Springfield.
+
+Dark metal bricks covered the ground like a smoothed cobblestone road of steel. Despite being dark, they cooled my feet as I walked. They installed temperature controls to stop this place from becoming insanely hot. Cooling us further was a golem flying overhead. Every few minutes, they passed by, and their bodies ushered forth an enormous burst of wind in their wake.
+
+As Nissa held her stave, she let out a grumble.
+
+"Why do they have to fly so fast?"
+
+Jamal frowned.
+
+"Because they're strong, Nissa. Strong as hell."
+
+Nissa shook her head.
+
+"I don't understand why The Harbinger makes them that absurd. It's complete and utter overkill."
+
+I clicked my tongue before coughing into a hand.
+
+"I don't know. Maybe it's easier for him to make them that way?"
+
+The group let out another hoopla of laughter. Jamal smacked my shoulder.
+
+"You are too much sometimes. Your jokes just come out of nowhere."
+
+Jasmine wiped away a tear.
+
+"And he's so dry with it. Like, how do you say that with a straight face?"
+
+I had a thin smile on my face.
+
+"Who knows?"
+
+After we reached the last bit of our trade route, we gazed at a forest. Primordial and ancient, the old wood expanded into taller spires like pillars of brown. Bushes and brambles clogged up any further running, and a thousand creatures' cries blended into a melodic hum. It was nothing like the forest of my childhood, more akin to something out of a fantasy.
+
+Before even stepping off the road, Nissa took several minutes setting up rituals and buffing magic for all of us. I raised my brow before Jasmine gazed with pride at Nissa.
+
+Jasmine gestured to her friend.
+
+"Nissa's attended Torix's academy. She's related to someone from the first platoon."
+
+I scratched the side of my head.
+
+"What's the first platoon?"
+
+Jasmine leaned back.
+
+"You don't know? They're the original legion that helped kill Yawm of Flesh. They own some of the best houses and horde most of the resources you can find in Springfield. If you can get a solid relationship with just one of them, then the sky is the limit."
+
+Nissa adjusted her glasses as she flushed red.
+
+"I'm just lucky to have an aunt who fought with her life on the line."
+
+My eyes grew distant.
+
+"Those were...Dark times."
+
+They gazed at me. I coughed into my hands.
+
+"For the guild."
+
+They nodded to each other. Jasmine scratched her cheek.
+
+"But yeah, Nissa was pretty skilled even for the school's absurd standards. One of the professors even offered for her to be an intern."
+
+Nissa pointed her stave at Jasmine.
+
+"Be quiet before I put silencing magic on you."
+
+Jasmine wiggled her hands.
+
+"I know sign language, girl. You can't silence this."
+
+They kept cutting up until the moment we stepped foot into the forest. At that point, the chatter ceased. A cloak of eerie dread poured over us all, and I kept quiet alongside them. Jasmine took the lead, and everyone traced her steps and movements exactly. Our rate of travel slowed to crawl, literally at times, and no one said a single word under that dark canopy.
+
+It drove home how dangerous these outskirts still were. My golems and guild cleared out the truly dangerous eldritch, but mid-level monsters still roamed the badlands. Even without saying anything, I could tell this experienced group of adventurers genuinely feared for their lives here, and I aimed to fix that problem once I got back to the guild.
+
+Along the route to the dungeon, we passed a variety of detours, foreign species, and odd geographical markings. Several valleys, rivers, and mountains dotted the landscape, and I was certain they never existed in Michigan. In fact, Mt. Verner was a geographical oddity, yet we found mountains that exceeded its height and size often.
+
+While passing one, I sent a message via my alias of Daniel.
+
+Daniel | Level: Unknown - I could've sworn that Michigan never had these kinds of mountain ranges. They remind me of the Rockies.
+
+Jamal McGuire | Level 2,481 | Guild: The Harbinger's Legion - Quite a few dungeons have fused with their surroundings. From what I've heard, people have actually been able to feel a significant increase in gravity, but some magical force is beginning to counteract that pull. There are some rumors about the planet eventually rivaling larger worlds like Jupiter. There's even one wild story about how other kinds of moons are going to form.
+
+Daniel | Level: Unknown - You got to be kidding me. Why do people think there's going to be another moon?
+
+Jamal McGuire | Level 2,481 | Guild: The Harbinger's Legion - If you look at it, the moon's actually become bigger in size. Apparently, it's closing in on Mercury's old width, whatever that was.
+
+Daniel | Level: Unknown - What do you mean by old size?
+
+Jamal McGuire | Level 2,481 | Guild: The Harbinger's Legion - So, apparently, all the planets are getting bigger, at least according to some astrology nuts I've chatted with a couple of times. Even abnormalities are being seen in the sun.
+
+Daniel | Level: Unknown - you probably mean astronomy, and yeah, what a time to be alive.
+
+Jamal McGuire | Level 2,481 | Guild: The Harbinger's Legion - It is, isn't it? How about we keep it that way.
+
+Daniel | Level: Unknown - Alright. No more distractions. Let's keep it centered.
+
+After a few more hours of traversal, we found an incredible entryway to a subterranean world. Several new rivers poured out over a massive cavern and into an abyss. Moss and ivies draped over the edge, their leaves glinting in the light like tiny mirrors. Beams of sunshine danced off the misting waterfalls, and birds flew below.
+
+Their singing echoed throughout the chasm, the opening enormous. Further inside, the water glowed from ambient mana flows, and kelp rippled in the water like rhythmic gymnasts fighting for our attention. It reminded me of an enlivened BloodHollow, and a wave of nostalgia passed over me. I murmured.
+
+"This takes me way back."
+
+Nissa shoved a spider off her shoulder.
+
+"Uchk. Gross. Not you, by the way. Did you like spelunking or something?"
+
+My eyes grew distant.
+
+"For a time, I did. It's been quite a while since I've been able to do it recreationally. Unfortunately, anytime I've entered a cave has been for pure business since the system arrived."
+
+Nissa clapped her hands before spreading them. Her grimoire appeared, and I could see why she'd done well at Torix's academy. At the very least, she had style.
+
+"It doesn't look like that trajectory is changing anytime soon then. Let me set us up before we head in."
+
+After a full hour of waiting, Nissa established a dozen rituals for empowering us. She also cast an ensemble of buffing magic, from depressurization magic to oxygenating masks to sound-transferring bubbles over our mouths and ears. As the magic enveloped my face, I spoke into it like a radio.
+
+"Pshh. Can you hear me, over?"
+
+Nissa sighed.
+
+"Oh, this is going to get annoying."
+
+Jasmine nudged Nissa's elbow. Jasmine's wooden beads jostled as she said,
+
+"Come on, let him have some fun."
+
+I leaned over, speaking into my hand.
+
+"Pshh, Nissa doesn't know what the word fun means, over."
+
+Jamal and Jasmine laughed while Nissa rolled her eyes. We all settled down a moment later, and everybody gawked at the enormous dungeon. The sight evoked a growing sense of unease that arrested all of us. Well, most of us. The dungeon seemed as if it was classified in the upper middle of rifts, though I wouldn't struggle if push came to shove.
+
+Like, at all.
+
+Jamal, Jasmine, and Nissa didn't know that. Nissa closed her grimoire before it faded into an ethereal plane. Her hands shook, and a bead of cold sweat dripped down her face. She let out a long sigh.
+
+"Remember, Nissa. This is for the bookstore."
+
+I furrowed my brow.
+
+"Why didn't you just open one using an architect golem?"
+
+Nissa frowned.
+
+"And what, join a huge repertoire of mediocre competitors? No thanks. Whenever I open my bookstore, it's going to have scrolls from across the cosmos. You'll be able to find ancient texts from lost empires or esoteric, befuddling runes. Mana will drip from bottles of ichor, and mana constructs will sing on the shelves."
+
+My eyes widened.
+
+"That sounds amazing."
+
+Jasmine held down a laugh.
+
+"And expensive. I can respect the hustle, though."
+
+Nissa held up a hand.
+
+"Thanks."
+
+They high-fived before Jamal pulled out two daggers imbued with origin mana. The cyan blue energy hummed as a gentle blue covered his hands. Jasmine pulled out a bow. It oozed a poisonous smell, an acrid stench like chlorine and acid. Nissa's stave glowed a bright blue as heat coalesced over her as a thin shield. They each put a dozen talismans over them alongside life-saving enchantments.
+
+I did none of that. They gawked at me. I shrugged.
+
+"I use other stuff to survive, alright?"
+
+They rolled their eyes. Nissa let out a long sigh.
+
+"You're like one of the guildies, always acting like you're invincible."
+
+Jamal met our eyes.
+
+"Let's hope he is. Is everyone ready?"
+
+We nodded. Jamal flashed a roguish grin.
+
+"Then let's see what's changed in a year? From the looks of it, I'd say just about everything."

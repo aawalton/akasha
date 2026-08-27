@@ -1,0 +1,249 @@
+---
+id: e0942c93-0240-570f-9805-773a44f15f9e
+page-type-slug: story-chapter-royal-road
+title: "127 Duplicity of a King"
+slug: 0086-127-duplicity-of-a-king
+partOf: the-new-world
+position: 86
+ownLength: 3661
+unit: words
+ownProgress: 3661
+publishedAt: 2018-06-08
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/222566/127-duplicity-of-a-king"
+royalRoadId: "222566"
+markedReadAt: "2026-06-29T21:23:48.844Z"
+---
+
+I frowned at Yawm,
+
+“What kind of contract?”
+
+Yawm spread out his arms, “A contract written in the cipher. You’re actually the first being I’ve tried making one with.”
+
+I narrowed my eyes, “Why exactly?”
+
+Yawm pointed at me, “You’re the first sentient I’ve had the need to create one with. Therefore I might have made errors in the text. You may take your time deciphering through it.”
+
+I leaned over it. I gave it a cursory glance before looking back up at Yawm, “Could you give me a hint about what it says?”
+
+Yawm pointed at the first line of the contract engraved in the marble, “This clause states that neither of us will kill the other until the requirements of the contract are fulfilled.”
+
+As he spoke, his markings of the cipher became clearer. By understanding his intention when writing the markings, they became much easier to read. That may be why it’s so difficult to learn the cipher. It could also explain why Schema’s ok with me running around with the cipher on my back. Unless I tell someone what the inscriptions mean, they can’t learn from them.
+
+Yawm interrupted my thoughts by pointing at the next line of the contract, “The first line is obvious with its meaning and intention. This next clause is where it becomes interesting.”
+
+Yawm moved his colossal finger along the plate as he spoke,
+
+“Dimension-C138 will reprogram Schema as he sees fit within the next thousand years. Otherwise, Dimension-C138 will be disintegrated.”
+
+My head whipped up like I just took a mean uppercut to the chin,
+
+“Wait, what?”
+
+Yawm widened one eye and narrowed the other, like he was raising an eyebrow,
+
+“Is there something unclear?”
+
+I shook my hands, “I understood what you asked. I’m asking why in the living hell did you put that in the contract?”
+
+He held up a loose fist, “I understand that you don’t believe in my goal for creating an eldritch hybrid. That’s why it goes unmentioned, as does changing the Old Ones. However, reprogramming Schema to an extent should be well within acceptable terms. It’s also well within your abilities.”
+
+I shook my head, “Fighting Schema is like telling someone to kill an Old One. It’s a lifetime commitment. Don’t you think that’s a bit much to add onto a contract that I’m assuming I can’t break?”
+
+Yawm sighed, lowering his hand, “I understand the monumental nature of my request, but you’re asking a tremendous amount from me as well. By letting you live, I’m allowing someone within Schema’s system to evolve into a true threat. By ending you now, I can save myself trouble over the long term.”
+
+Yawm raised his hands, “But I don’t want to kill you. Despite your affiliations, you’re intentions are forced on you and even noble in some respects. That moral compass combined with your limitless potential, and you can change this galaxy for the better.”
+
+Yawm narrowed his eyes, “But Schema is manipulating you into a machine of his own making. This contract will ensure that he will never take full control of you. Also, you’re current goal involves tearing my heart out. I believe setting up safeguards for myself is wise.”
+
+I cupped my chin, “Doesn’t the whole ‘not killing you’ part cover that?”
+
+Yawm crossed his arms, “It does, but you see, I am in a position of leverage.”
+
+Yawm clasped his hands into fists, “So I intend on using that leverage for my gain.”
+
+I frowned, “So I have to take on your goals or else you’ll kill me?”
+
+Yawm uncrossed an arm, shaking his hand, “Not at all. The contract states that you may change Schema in a way that you see fit. I also gave you a rather lenient time frame. 1,000 years should be plenty of time considering your current rate of growth.”
+
+I weighed my options. If I signed this contract, I would become an enemy of Schema. More than likely, it would boot me from the system. That might not even be a concern over the long term since we met Amara. I could hack myself back into the system just as she has. Besides all that, a part of me wanted to fight Schema.
+
+The quarantine was bullshit since it forced us to fight a hopeless battle against Yawm. We had no chance from the start. Schema killed a lot of people with how he handled the tutorial too. If he gave Earth just a ten year notice, Earth would have avoided most of its growing pains. Something that simple would make a night and day kind of difference.
+
+That wasn’t the only problem either. The whole unknown status was a serious point of contention. Torix, Althea, and Kessiah would struggle with their unknown status forever. What Schema did to the remnants was twisted too. Hell, Schema destroyed Hod’s home race for trying to learn a cipher. To my knowledge, they weren’t even a part of the system yet.
+
+The more I thought about it, the more I thought about what I would make different. I mean think about it. Guilds coming in and enslaving entire races didn’t seem like the best way of modernizing planets. Why didn’t Schema offer lessons and education to new planets before the system activated? Why didn’t he at least give everyone an obelisk so they could figure out what was going on beforehand?
+
+With all that in mind, I came to a conclusion. Yawm was probably right about how to handle it. Schema’s tutorial and assimilation for new planets was almost certainly hardcoded into the AI. Otherwise it wouldn’t be so damn inefficient. That meant the only way of fixing it was going in there and changing the code that made it that way.
+
+Still, having a time limit put on my life was disconcerting to say the least. I also didn’t enjoy being forced into bad situations on principle. I put my hands on my hips, a bit disgruntled,
+
+“So if I went out and changed the way Schema assimilates new planets, that would count for this, er, clause?”
+
+Yawm raised both his hands,
+
+“It would. That is the precise kind of change I hoped for when creating that piece of the contract. You remember the problems involved with planetary assimilation as it was recent for your kind. Your perspective gives you clarity. Armed with that clarity, you can advance Schema for the better.”
+
+I bit my lip before sighing, “I suppose fighting Schema over the next 1,000 years is better than fighting you right now. I can handle that, I guess...What’s the next line of the contract?”
+
+Yawm pointed a finger at the third and last line of the cipher on the stone,
+
+“Dimension-C138 will not serve the will of any Old Ones until this contract is fulfilled.”
+
+I reached out a hand to Yawm, “You know you’re busting my balls, right?”
+
+Yawm pointed above and behind him, “There are two fates for those that serve the Old Ones. Either you end up turning into something that is unrecognizable from who you were, or-”
+
+Yawm pointed at himself, “You end up hunted like an animal by those that became unrecognizable. I assure you, Harbinger, that is not a fate you want for yourself. That isn’t even the fate you would want for your worst enemy.”
+
+I turned my eye towards the roof, “What if I already have a mission to kill you. What am I supposed to do then?”
+
+Yawm pushed the contract towards me, “You’ve been offered a quest by an Old One. Think of the offer as an initiation into their world. You’ve yet to take it.”
+
+I didn’t think the situation would play out that cleanly. I sighed, staring at the tablet, “Is that it?”
+
+Yawm nodded, “That is all that I require. I believe it’s a lenient request considering your circumstances.”
+
+I scratched the side of my head, “Do you mind if I take a few minutes to think about this?”
+
+Yawm opened a hand towards the ice chair behind me.
+
+“Take your time. This is a life altering decision.”
+
+As I walked over, I loaded up my message towards Torix and the others. I had no intention of taking on commitments like this just to get Yawm out of my hair. It was like jumping out of the frying pan and into the fire. The strategy wasn’t sound.
+
+A chill ran up my spine, however, stopping me from sending the message. I looked back up at Yawm. He was observing me, an eerie nonchalance emanating from him. Once I looked closer, I found no emotions from him. I couldn’t read through his poker face at all, not even 1%. I raised an eyebrow at him, giving him a questioning glance.
+
+Yawm sat into his chair, steepling his fingers,
+
+“I’m just wondering what decision you’ll make. I assure you, regardless of what you decide, I’m more than ready. I will act accordingly.”
+
+He was in complete control, and he knew it. He was stronger, faster, and better at combat than me. His confidence was terrifying. It made me want to send the message and get out of here asap. It made me want to run and hide in a hole.
+
+My gut was telling me that sending the message was a terrible idea though. Up till now though, my gut never betrayed me, so I listened to it. There was something not quite right about how Yawm was sitting. He was expecting something. I couldn’t tell what exactly. After another minute of thinking, something simple snapped into my head.
+
+Yawm was waiting for Ajax to appear so he could capture him.
+
+It all made sense. If anything, Yawm could’ve observed me the entire time I was here. I didn’t know if he had or hadn’t. I didn’t even know if he couldn’t see Schema’s messages as I wrote them. The guy talked to trees and plants. It’s not a large stretch to say he had plants int my room that acted like spies.
+
+Yeah, maybe a bit paranoid of me to think that, but it was definitely possible. I mean, Yawm’s charisma was incredibly high. He could be putting on a false act so I lower my guard. He could be lying about everything, there was no way of me knowing.
+
+The fact I let my guard down so completely was a testament to that. In fact, he reminded me of this one story I read about in history class. I was reading about a German interrogator during WWII. This guy was the best of the best at his craft, squeezing information out of his enemies like no one else. I thought he was a torturer, but no, he killed them with kindness.
+
+He would isolate spies for prolonged periods then talk to them. Apparently he was friendly, funny, and charismatic. He would become their friends while they were in prison, their only human contact. Once they were buttered up, the spies would let the information slip.
+
+This situation with Yawm was eerily similar. The more I thought about it, the more likely it seemed. If anything, I stared at the contract and reviewed it once more. It was carefully designed. It was just good enough that I could accept it in theory yet just bad enough that I wouldn’t.
+
+Yawm knew me pretty well after all. He knew what I would accept and what I wouldn’t. I tapped my teeth together, deep in thought. Yawm didn’t just know me well, I knew him well too. That was a tool I could use to my advantage. After brainstorming for a bit, I remembered one thing about Yawm I knew for certain. The guy was greedy.
+
+That’s why his goals were they way they were. Even after a damn eldritch told him that making an eldritch was impossible, he just scoffed. Amara understood more about the cipher and how it worked. She was the best possible resource for checking how realistic his goals were. Despite all that, Yawm just blew her concerns off.
+
+The reason was because he thought he could have it all. Armed with that realization, I tried a different line of thought. I put myself into Yawm’s shoes and wondered what the most he could gain from us was. It wasn’t pretty.
+
+If he captured Ajax, he could interrogate the protytian and find the others at our base. He’d capture everyone. He could experiment further with Etorhma’s tears on us. He could gain us as his new followers using contracts like the one in front of me. Considering that’s how he arrived, it wasn’t much of a stretch to guesstimate his goals like this.
+
+Skill gained! Empathy(lvl 1) - By seeing the world through others eyes, you can use their perspective to gain insight. +1% to understanding others emotions and thoughts.
+
+Breakthrough Achieved! Empathy(lvl 1) -->(lvl 26)
+
+I didn’t let the skill notifications distract me. For Yawm, That was his best case scenario. That was the thing about Yawm that I could use against him. He didn’t want a good scenario. He wanted the best scenario.
+
+Just like with the eldritch, he didn’t want us to fight them off better. He wanted us to not fight at all. Every solution he thought up was grand, inspiring, but most of all, unrealistic. He was betting that I wouldn’t sign this damn contract. He was betting that he would capture Ajax. He was betting that he would make contracts and have us all sign them.
+
+This whole time, he wanted me to believe he was a good guy so that he could get information. He succeeded, but he wouldn’t continue succeeding. I stood up, armed with my new awareness. I walked over towards the contract. I pointed at Yawm,
+
+“Do you mind if I add one extra clause to this contract?”
+
+Yawm raised an eyebrow, “I...I suppose you can.”
+
+If anything, I stared at the contract and reviewed it.
+
+It was carefully designed, just good enough that I could accept it in theory yet just bad enough that I wouldn’t. Yawm knew me pretty well after all.
+
+Skill learned! Tact(lvl 1) - Some conversations are like surgery. Others use an axe. You use a scalpel. + 1% to handling of delicate situations, especially social ones.
+
+Using my bettered knowledge of the cipher, I carved a few symbols into the stone. It took about half an hour, but I got what I wanted onto the tablet. I pointed at it,
+
+“Do you want to read this?”
+
+Yawm stood, walking over,
+
+“Of course.”
+
+I pointed at the beginning of the clause, “Neither Dimension-C138 or Yawm of Flesh will alter this contract in anyway once it has been signed. This will be the first and final contract between Dimension-C138 or Yawm of Flesh. No more contracts will be allowed between them.”
+
+Yawm raised his head, tapping his finger over the last clause, “Why did you add this final piece?”
+
+I opened a hand to Yawm, “Because I didn’t want anymore contracts after this one.”
+
+Yawm shook his head, “You honestly believe you’re in a position to make demands of me? You sincerely believe that?”
+
+There it was. Yawm was leaking out from under his mask, even if only a little.
+
+I nodded. “No, but I think your the kind of person to accept requests like this. You’re not a bad guy after all. It isn’t like I’m asking you to never make a contract with anyone again, just contracts between me and you. That’s all.”
+
+Breakthrough Achieved! Tact(lvl 1)-->(lvl 26)
+
+Skill Gained! Deception(lvl 1) - Those talented in lying know that the best lies are simply half truths. +1% to your likelihood of deceiving someone.
+
+Breakthrough achieved! Deception(lvl 1) -->(lv l26)
+
+Yawm tapped his finger against the stone. The gears in his mind turning. For once, he wasn’t in control. I was. Yawm was surprised, but he hid the emotion completely. That’s how I knew he was acting, however.
+
+In this situation, he should be responding with some emotion. Curiosity, anger, perhaps even shock, it didn’t matter what emotion persay. He didn’t have a single exposed feeling, meaning he was hiding them. His emotions were almost always delayed, meaning they were planted for a certain response.
+
+In this case, he was still trying to keep up the nice guy act. When he did meet my eye, he raised an eyebrow, “Why wouldn’t you want another contract between us?”
+
+I pounded my hand against my chest, “Because we’re warriors and friends. We don’t need contracts between us. Besides, this is probably going to boot my ass from Schema’s system anyways. We won’t be enemies then.”
+
+Yawm nodded, “That’s very true...This version of the contract is acceptable then. I do hope this agreement doesn’t create bad blood between us. It’s a means of guiding you in a direction while ensuring I’m not killed. Given your undeniable potential, I’m sure you understand.”
+
+I raised a hand, “Yeah, it’s not that big a deal regardless. It’s more of a timeline for what I had planned anyway.”
+
+What I said was true to some degree. I did plan on resisting Schema at some point. A 1,000 years was more than enough time for fighting him thanks to the cipher on my armor. Once I was finished giving Schema a few tweaks, I’d give Yawm a makeover. I’d make sure it was with my fists though.
+
+I quelled that bit of anger as I pointed at the contract, “How do we sign it?”
+
+Yawm pressed a finger against the cipher, creating a long line, “On this line, you create a signature mark that represents you. The marking will reflect your name written in the cipher.”
+
+When I looked at the contract, what he said felt right. I grasped it on an intuitive level. It’s not that I could tell if he was lying. I could tell he couldn’t be lying. I leaned over the contract, “Can you give me an example?”
+
+“Of course.”
+
+Over the next hour, Yawm etched in his name onto the contract. As he carved, it the air around his crackled many times, letting him feed mana into the contract. It was enough mana to blow Springfield off the map in his hands . Once he finished the marking, I had to admit it. His etching really did reflect him.
+
+The mark was strong like steel and explosive like fire. It was gnarled up, unafraid and unashamed of its own inner demons. It was an inexhaustible curiosity mixed with a bloodthirsty hunger for change. It was deceivingly light yet undeniably heavy, like iron in your hand. It represented a misguided force of entropy, dead set on changing the world. It was Yawm.
+
+I walked up, Yawm looking at me,
+
+“Are you certain you’ll take the contract as it is?”
+
+“What made you think I’d have any doubts?”
+
+“Even I have doubts about something this final, yet it seems like the only nonviolent compromise.”
+
+I raised an eyebrow, “What will the contract even do exactly?”
+
+Yawm pointed all around us, “The cipher rewrites the space we inhabit. In this case, this tablet will enforce itself in the same manner. Whatever space that is considered us will be altered if we fail the contract. Other than that, nothing will change besides whats mentioned on the contract.”
+
+I leaned against the ice table in front of me, staring at the contract, “So it works like anything else made from the cipher. The bigger the change, the more mana needed. Efficiency is also very important for it as well.”
+
+Yawm took a step back from the contract, “It might take a tremendous amount of time for you to fully charge it in fact. It shouldn’t be too strenuous considering your circumstances....I will admit, however, you seemed like someone who’d rather not be controlled. I didn’t anticipate you to agree to the contract so easily.”
+
+I began my marking, “Eh, we’ll just have to see how it plays out in the long run. A thousand years is a long damn time to make something happen.”
+
+Yawm crossed his arms, “How well I know.”
+
+Unlike Yawm, I carved my marking into my grimoire. As I carved my marking, my mana siphoned into the marking like a drain. It wasn’t as much as I imagined it would be though. Since discovering the cipher, I learned quite a bit about it. That allowed me to adjust my carving for efficiency.
+
+I added extra details, mentioning the finer details of who I was. I didn’t just stop along general guidelines, I dug deep into my history. Where I came from, what I’d done, and who I wanted to be, it was all there. It was fun, kind of like writing an autobiography. When I finished the marking, it wasn’t what I expected.
+
+The mark was like metal, but it was flexible as air. It could bend and warp with ease. It made the inscription malleable yet unbreakable at the same time. There was potential in the marking as well, like it wasn’t quite finished. In a way, that seemed just right for me. I wasn’t quite finished either. There was a lot left I planned on doing.
+
+And like that, I finished marking it down. After ten more minutes of giving the marking mana, the contract clicked into place. Something shifted, like a gear clicking into place. After that, there was nothing new. For something that sounded like a life or death ultimatum, it didn’t have much shock and awe.
+
+Life Oath accepted! You have now been contracted by Yawm of Flesh to alter Schema’s baseline programming. If alterations aren’t made within 1,000 Earth years, Dimension-C138 will disintegrate into the space of dimension-C137.
+
+You have broken one of the primary tenants of Schema’s system. Sentient rights have been revoked. Leveling and further data uploads are hereby locked.
+
+You have been exiled.

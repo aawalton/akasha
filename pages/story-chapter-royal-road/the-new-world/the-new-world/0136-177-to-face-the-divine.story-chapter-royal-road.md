@@ -1,0 +1,223 @@
+---
+id: 50d759b1-1ca9-52fd-8f04-7ae976edf785
+page-type-slug: story-chapter-royal-road
+title: "177 To Face the Divine"
+slug: 0136-177-to-face-the-divine
+partOf: the-new-world
+position: 136
+ownLength: 2420
+unit: words
+ownProgress: 2420
+publishedAt: 2019-01-18
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/325594/177-to-face-the-divine"
+royalRoadId: "325594"
+markedReadAt: "2026-06-29T21:25:26.641Z"
+---
+
+The air around me burst outward as I unleashed a singularity in the center of a Skyburner's chest. Its ribs snapped. Its armor ruptured. Its smooth skin split. The gialgathen sunk into the abyss, the creature caving in on itself. Air siphoned into the singularity before it devoured all the sound around it.
+
+All went silent, the battlefield quiet as a graveyard. In a flash of light and radiation, the singularity imploded. Another discharge of energy rippled outwards, sending spires of metal out like spears. The shockwave left another pit of raw ground in the steel. It left liquified metal and stone behind it.
+
+The scenery itself deformed in the singularity's wake.
+
+The two Skyburners tumbled through the silver infested scenery, both of them blown away. The orange and white Skyburner rolled through shards of metal. It stood up, its limbs shaking and one of its wings snapped.
+
+The other Skyburner, purple and black, limped with a broken front leg. This beast spread its lilac shaded wings, trying to fly away in time. Before it escaped, I leaned over and jumped towards the creature. It took off, but I landed onto its back, smashing it back down.
+
+The metal dented beneath us, my mass overwhelming the monster. I raised my right hand, a white aura leaking from my fist. Using the overkill damage from my initial impact, I clubbed my hand onto the Skyburner's head. It squished like an orange under a steamroller.
+
+The blowback rattled through my bones, my entire frame ringing. I held together, standing up as another shockwave spilled out over the wasteland. Even silvers ran off, flocking for escape from the carnage. Beneath me, the gialgathen's body shivered, nerves firing off as a plume of blood shot out from it.
+
+It sprayed over me, the liquid evaporating in an instant. A fine, red mist floated where the beast's head once was. I turned towards the last remaining gialgathen. The once noble Skyburner quivered, its will to fight broken beyond repair.
+
+I rolled my shoulders, walking over to it. As I did, I tore off strips of my own metal skin. As it regenerated, I lifted the pieces and melted them, collecting a ball of molten metal. As I neared the final beast, it turned and fled. I reached out with both my hands, jerking the creature back to me.
+
+It clawed at the metal, tearing long slash marks as it scrambled to get away from me. I shot the liquid metal, splashing it over the creature. The Skyburner raised its head, pure agony consuming it. Before the beast died, I raised my hand, cooling the molten metal.
+
+Encased in obsidian metal, the gialgathen writhed in its casted cage. With severe burns and a broken will, the beast ceased its struggle within seconds. I stepped up to it, the monster froze in place. Its head reared into the sky, only its jaws and upper mouth free.
+
+It turned its eye to me, its eyes widening as I stepped up. It gasped out,
+
+"You...you are a monster. You have broken me."
+
+I shrugged, "I can do a lot worse if you don't tell me where the other camps are."
+
+The Skyburner's pupils narrowed, true fear spreading over its face. It coughed, "No...No...I will never expose my brothers and sisters. We are one, and we are many. I will not let you find them, Harbinger."
+
+I raised a hand, heating the metal around him. It scorched his flesh in a few places, causing him to roar out in anguish. I snapped,
+
+"Look, I'm not into this whole torture thing. You'll find I'm a damn quick learner though if you don't let me know what's going on here."
+
+The Skyburner heaved, "No...It will not come to pass. What you will unleash onto me will never rival the wrath of the one I follow. "
+
+I heated the metal again, and he squawked like a chicken having its feathers plucked, "Yeah, we'll see about that."
+
+Before I committed to the interrogation, I looted the battlefield. After recording footage of the aftermath and the corpses, I harvested the carcasses.
+
+Well, the carcasses that I could harvest.
+
+The two Skyburner's I smashed on impact left little for my armor to eat. Each of them disintegrated into a fine mist. Same story with the one that died to a singularity. The other corpses were different, they even uncovered a few interesting details of the fight.
+
+The ancient general, Ghaikhag Monothos, was decapitated. His neck was cut clean, so clean that it bisected, showing an anatomical graph of a gialgathen's neck. I found one more Skyburner just outside the crumbled walls of their base, its head lopped off in the same manner. Althea assassinated both of them, leaving me plenty to drink up.
+
+After eating them, I ran past the final body. I punched its head off, leaving plenty left for my armor. I walked back to the encased Skyburner, finding Tohtella and Althea gawking at it. As I paced up, Tohtella turned to me and raised a pistol at my head. I rolled my eyes while she gasped in relief once she recognized me. Tohtella turned to the Skyburner, her hands on her hips,
+
+"I underestimated both of you if I'm honest. To think you both held such destructive potential. It's terrifying."
+
+Althea shook her head, "Here I thought my dual assassination was impressive."
+
+I spread out my arms, "What? It was impressive. You insta-killed a level 10,000+ enemy. That's insane."
+
+Althea scoffed, "Uh, it doesn't quite have the same wow factor as blowing the entire base up. You obliterated two of them right after that as well."
+
+I shrugged, "We had time to plan and got the jump on them." I turned to Tohtella, "Did the slaves make it?"
+
+She nodded, "We lost a third of them. The yana worms inside them frenzied once we teleported the slaves out. Torix improvised, freezing all of them. This put the espens and worms into cryogenic sleep. It's unfortunate, but some of them will die from that as well."
+
+Althea bit her lip, shivering, "That's better than watching those worms eat them alive."
+
+I nodded, "Well, we did our best. I killed five of the Skyburners. I'm killing this last one as well. Better than wasting the experience."
+
+Althea scoffed, pointing above her head. I glanced, and her title appeared.
+
+Althea Tolstoy, the Shapeless Arbiter(lvl 6,201 | Class: Breaker)
+
+I grinned, "What? You're a Breaker now?"
+
+She puffed out her chest, "I've been working on the tree for a while now, ever since we fought Yawm."
+
+I shook my head, "Wow. How did you get so many skill points so fast?"
+
+She shrugged, "I've had a ton of extra points ever since I unlocked my legendary skill forever ago. I used them along with a few extra skills I've been training on Giess."
+
+I raised my eyebrows, "Looks like I won't be outleveling you for long."
+
+She rolled her eyes, "Uh-huh. You'll get a class here soon. Besides, your hustle will get you level capped pretty soon."
+
+Tohtella looked between us. She shook her head, "She's a Breaker now?"
+
+Althea put her hands on her hips, "Yup. I'm not as strong as Daniel yet, but I'm keeping up...mostly I guess."
+
+Behind us, the Skyburner roared out, "Such drivel. Silence yourselves or silence me. I will not waste away here as you all-"
+
+I raised a hand, heating his armor up. He bellowed out, his voice echoing for miles. I snapped,
+
+"Yeah, we'll talk as much 'drivel' as we want too."
+
+Foam dripped from the edges of the Skyburner's mouth as it glared at me. I turned towards Tohtella and Althea, "I'll worm the information out of it. You two can go help Torix."
+
+Althea nodded, but Tohtella shook her head. She adjusted her glasses, "I'll stay here and assist you."
+
+Althea leaned over her, a head taller than Tohtella,
+
+"Just so you know, you touch my man like that again, and that General isn't the only one I'll break."
+
+Tohtella gave her nod even as she blushed, "I promise you that it was a momentary lapse in professionalism. I was only curious about the armor's properties."
+
+Althea poked her chest, "You get curious about his 'armor' again, and I'll get curious about what your insides look like. Ok?"
+
+Tohtella sighed, "Understood."
+
+Althea pursed her lips and crossed her arms, "Good." She looked up at me, "You better tell me if she does anything."
+
+I rolled my eyes, "I'll bring you the hand she does it with, alright?"
+
+Althea nodded. She looked between us one last time before disappearing like a ghost. I turned back to the Skyburner, and I frowned,
+
+"Look, I don't want to torture you."
+
+I heated up the armor. He howled out, but I growled over the beast,
+
+"But I will do what it takes to stop this bullshit. Understand?"
+
+The Skyburner glared at me,
+
+"Kill me Harbinger. Tormenting me only belittles the standing of someone like you."
+
+I narrowed my eyes, "How do you even know I'm called the Harbinger?"
+
+The beast let out a pained laugh,
+
+"Hah, do you not recognize what you are? When I first laid my eyes upon you, fire cycloned around your frame. You paced from the burning crater you left behind, and I understood what you were. It required no introduction. It required no words."
+
+I frowned, "Hmm. Weird."
+
+A few minutes of torment later, and I gained a skill I never thought I would.
+
+New Skill Gained! Torture(lvl 1) - Some bring their enemies to death in an instant. You bring your enemies to a line between life and death, bringing hell to life. +1% to physical pain caused to others.
+
+I closed my eyes, grimacing at the skill. I sighed, turning away from the Skyburner. Tohtella adjusted her glasses, "What is it?"
+
+I shook my head, "I'm not cut out for this. Let's just put him out of his misery."
+
+An amused smile trailed onto her face, "Kind of you. Allow me to continue the interrogation."
+
+With cold eyes, Tohtella opened her dimensional storage. She pulled out a jar full of yana worms, the same pot from behind her desk. She channeled her mana, zapping the fluid in the jar. The worms writhed, eyes opening all along their writhing bodies.
+
+Tohtella walked up to the Skyburner, "Hello there. It's good you can understand us."
+
+The Skyburner snapped at her, "Begone, weakling. You are nothing but a leech on the underbelly of this world. You feast upon the scraps of great warriors."
+
+She kept her amused grin on her face, "Oooh, really? Good. This weakling has something like a leech in this jar. Care to take a look?"
+
+The Skyburner peered down at the vial. His pupils turned into slits as he howled, "Accursed Yana? You wouldn't dare...I've done nothing to deserve their desecration. I've done nothing that warrants such a trail."
+
+"You and I disagree on the matter. Tell us the location of the other camps. Otherwise, I will dip just enough yana into your mouth that you'll barely be conscious. We'll dump you out into silver territory, and your kind will remember you by your zombied corpse."
+
+He frothed out, "There are three other camps such as this. One lays by the mountain of red and fire and ash. Another rests by the ocean of green and blue and the River of Tears. The last camp resides on the remains of Lehesion and Emagrotha's great battle."
+
+Tohtella nodded, snapping her fingers. The jar cooled, the yana's eyes closing. She glared up at the beast, "See? All you had to do was follow orders."
+
+Tears poured out of the Skyburner's eyes. He wailed out, "I am a betrayer of many. Kill me as I deserve it."
+
+Tohtella turned to me, "Do as you will."
+
+She walked past me, looking away from the Skyburner. I kept my eyes on her, a different, icy side of her showing itself. She turned back to me, her eyes empty,
+
+"What is it? Is there something on my face?"
+
+I frowned, "No...Not really."
+
+I turned back to the Skyburner, "You resisted for a long time. There's no shame in dying in battle."
+
+He gasped, "I died no such death."
+
+I melted and pulled the encased armor out from around him. After singeing him a bit, I jerked the metal back to me. My armor reconstituted it, the molten mass sinking into my skin. The Skyburner gasped,
+
+"You...you give me a warrior's death? For what reason?"
+
+I raised my fists, "It's all I can give you."
+
+The Skyburner lowered his head. After a moment of thought, he peered up,
+
+"My name is Draygalga Fire-Swallow. Tell my brothers that I fought with bravery. Tell my sisters that I was noble in defeat. Would you do this for me?"
+
+I nodded, "Yeah, you have my word."
+
+He nodded, "No matter the Yana nor the agony rendered unto me, I would expose nothing. This, I give to you as payment for my debt."
+
+I raised an eyebrow. Draygalga gasped out, "The one that leads us cleaved the sky with a swing of his claws. He is the oldest and strongest of our kind, the mightiest of us all."
+
+Tohtella jotted a note onto her clipboard, "Tell us. Now."
+
+The Skyburner's eyes narrowed, "He is known as Lehesion, the Army of One."
+
+My eyes widened as Draygalga leaped towards me. He snapped his maw, but I shifted on my heels, sidestepping him. His jaws clanked, sending out a shockwave in front of him. It left a dent in the metal as I countered with a left hook.
+
+His bottom jaw dislocated turning sideways. He whipped his tail at me, but I deflected it with my forearm. I hammer-fisted the back of his head, slamming his face into the ground. As I raised my foot, he gurgled with his broken face,
+
+"I return to Giess, honor to thine name."
+
+I squashed his skull under my heel. I lifted my foot and squatted down, I placed my hands onto his neck. My armor devoured him, thousands of needles sapping his strength. After he died, I turned to Tohtella,
+
+"Did you hear him?"
+
+She looked at me, her expression frozen in place,
+
+"We must warn the public. Lehesion has returned. We need to evacuate areas near the base and arm cities."
+
+I frowned, "Is he that big a deal?"
+
+Her eyes hollowed,
+
+"He is a living god."

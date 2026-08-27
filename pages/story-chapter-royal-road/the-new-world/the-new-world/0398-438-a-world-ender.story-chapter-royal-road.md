@@ -1,0 +1,305 @@
+---
+id: bebd95d5-8fe4-593b-99a8-a6e7fb8e9093
+page-type-slug: story-chapter-royal-road
+title: "438 A World Ender"
+slug: 0398-438-a-world-ender
+partOf: the-new-world
+position: 398
+ownLength: 3608
+unit: words
+ownProgress: 3608
+publishedAt: 2025-06-15
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2357731/438-a-world-ender"
+royalRoadId: "2357731"
+markedReadAt: "2026-06-29T21:35:01.538Z"
+---
+
+I cracked my neck.
+
+“From what I can tell, there isn’t much of a difference between the two, but if I’m going to be an idiot, then I’ll at least take the good that comes with the bad.”
+
+Plazia gave me a slow nod.
+
+“Hm…Then do so. We need more idiocy in this world.”
+
+I smiled.
+
+“That’s what I’m here for.”
+
+My armor bristled with a palpable energy.
+
+“Now enough talk…Where is this monster?”
+
+Chapter Begin
+
+Plazia brandished his spatial slicer, the Sentinel’s spear radiating with an ominous energy. It crackled, the plasma alive and full of destructive promise. It bathed a magenta light over the hivemind, his form a colorful nightmare.
+
+“I can warp you closer, but I will not run near its jaws or mind.”
+
+I gave him a thumbs up. My runes charged with mana, and the air flowed over me, blurring from the heat, and our hivemind carved apart spacetime. The dimension cleaved in two, echoing out in a reverberating howl, and I jumped through the rended reality, finding myself well above the surface of Blegara.
+
+Before I got a good look at everything, Plazia put a hand on my shoulder. The Hivemind squeezed his hand.
+
+“I…I can assist from a distance if needed.”
+
+I raised a fist.
+
+“Warp out if it starts looking dangerous.”
+
+We leaped through the portal, and beneath us, a vast, planetary-sized wall stretched out to the edges of the horizon. The wall of basalt stood several kilometers high, and it held back the endless oceans of Blegara. Those waves clashed against the stone barricade, but it held firm against the tidal forces.
+
+Beside the wall was a moat of magma that stretched down to the mantle of the planet. This endless lava pit rumbled and churned, water pluming over the wall at points. When the water hit the magma, colossal clouds of steam burst forth, leaving patches of solidified stone that remelted within seconds.
+
+Above that, another planetary wall emerged, equaling the colossal barricade beside it. Beyond that bastion was an expanse of horror. The mass stretched across the entire horizon, a sea of flesh covering every inch of the planet below it. It mirrored the sea’s depth, over a kilometer deep. Muscles rippled under its surface, bones crisscrossing under and over its skin.
+
+They held many shapes. Skulls burst from wriggling femurs. Writhing bodies and anguished faces howled out in blood-drenched agony. Organs pumped phlegm and bile through the creature, and it rippled about like a violent sea of screaming corpses and writhing meat. To gaze upon the carcass, the living death, the abyss of memory and body alike...It defied anything I imagined.
+
+Yet more horror hid within. Deeper into the internal structure of the monster, wires and orange pustules entangle inside it. They carved into the sea of flesh, the thick cables larger than skyscrapers or mountains. They submerged into island-sized orange pustules, the colossal organs pumping vibrant mana and energy into the world ender.
+
+It writhed from the expansive intake, its body growing by the second. Each bellowing wheeze left the world's air more barren, and it fed into the sky via tentacles covered in blood-dripping pores.
+
+I winced in disgust.
+
+“Elysium is trying to make this a Hybrid.”
+
+Plazia seethed.
+
+“They’ve succeeded, but this abomination isn’t under their control. They’ve swallowed a beast, and it devours them from within.”
+
+Growls, screams, and howls ushered forth from the flesh sea’s surface like an orchestra composed of pain. It reeked of blood, bile, and vomit. The slimy, shiny texture reminded me of a raw oyster, and it radiated intense humidity and heat. Water dripped off of me, condensing onto my and Plazia’s colder bodies within seconds.
+
+I frowned.
+
+“Well…This is repulsive.”
+
+Plazia simmered like a pot of boiling water.
+
+“We are caught in its breath, its belly opened for all to see. I despise it.”
+
+“I despise this thing, too, but do you mind elaborating on why you do?”
+
+Plazia's insect swarm writhed within his armor.
+
+“It’s a reminder of my final devolution. We all evolve into that. The question is one of when, not if. To gaze upon my finality is the same as gazing at a maggot-filled corpse.”
+
+I leaned back.
+
+“What? No. Hell no. You choose that, whether you like it or not. It’s a decision each and every time an eldritch succumbs.”
+
+Plazia scoffed.
+
+“You think I hide from the truth? Foolish. You are the one who oversimplifies for your comfort, as it is easier to hold onto hate than to forgive and understand.”
+
+I remembered all the excuses I’d heard all my life from my family and friends. Anytime someone failed me, they bombarded me with rationalizations. They never returned my calls because I always had bad timing. They never helped me because I always asked at the worst of times. I had to suppress a burst of anger as I sighed.
+
+“I just want accountability. That’s all. Failure’s fine. Lying isn’t.”
+
+I pointed at the writhing sea of flesh.
+
+“And it works both ways. You chose not to be that. We are not what we could be. We are what we’ve done. Anyways-” I gestured to all of it. “I’m going to start attacking it.”
+
+Plazia's voice echoed.
+
+“Death is a mercy for a wolf that consumes its own limbs. To...Help, I shall stay within my casting range.”
+
+I pulled out my false dimensional tear, leaving it floating in space.
+
+“Actually, you can hide within this subspace I’m carrying around. It lets you stay closer while being more secure.”
+
+Plazia slinked into the portal.
+
+“I will flee if it begins flowing inside this space.”
+
+I let the portal’s opening shrink to a pinprick.
+
+“I’d hope so.”
+
+I sealed it with my fabric and dimensional wake. For a last security measure, I aligned its entrance with my pocket dimension, the openings of the portals facing each other. The abomination could come no closer, whether I died or not. With Plazia secured, I gawked at the largest enemy I’d ever seen up close.
+
+This dwarfed the enormous eldritch Elysium used during their battle with Schema. It pulled onto everything around it, a hunger hidden under its surface yet palpable to all that beheld it. Despite its body being born for destruction, pity welled in my chest. It screamed in agony, its body no longer allowing it to enact its will onto the physical world.
+
+It carried a mind, perhaps many, but all were trapped within a vessel that inflicted it with desire and pain. It knew of nothing else, and even grazing its mind told me all I could bear to hear. Despite the unending torment, it held a will to survive. That radiated as it scrambled to escape its prison, but the walls held firm.
+
+Whenever its vast body crashed through cracks in Plazia’s containment, it would flood into the magma below. While enormous, it could not cross the moat of magma. Upon contact, its blood boiled, and it exploded in a red mist that reeked of sour iron. To cross the threshold, it adapted other means of proliferation.
+
+Spores floated from its body, trying to cross the border between it and Blegara. Plazia’s insects fought above the wall, the minions single-minded and resolute. Tooth and nail, blood and bone, they ravaged the spores that attempted to spread across a verdant world. The chaos left me stunned for a moment, and I soaked it all in, beholding a planetary chaos.
+
+I would stop this. How? That was the question.
+
+I floated over the surface of Blegara, a giant of metal. Pulling my mind from my body, I let my form fall. From nothing, I emerged full and whole and complete. I regenerated in less than a second, and I dropped another of my corpses. A rain of falling titans, I bore down million-pound steel slabs from above. A minute passed before they crashed into the surface of the abomination.
+
+Light consumed all they touched. The kinetic energy rivalled enormous explosions, and they devoured the monster’s entire form. At the same time, I enacted magical destruction. I aimed the might of my mind, unleashing a storm of singularities below. They ripped the entity’s body apart, the darkness starving and feasting on the infinite being.
+
+As I scratched it, it scratched back. Enormous, writhing tentacles arose from its body. Mouths full of splintered teeth formed and tried to snap up the falling metal. I left my falling corpses searing to the touch, the bodies glowing white hot. The monster’s mouths, like a hydra swallowing a hot coal, plumed with steam and agony. It raged. It roared. It…Screamed. It's agony was a palpable thing, but I could offer it no mercy.
+
+And it would be a long death.
+
+To silence its cries, I assaulted its mind. I found nothing left to ravage. It was a desultory mess, nothing left of it but discordant, fractured thoughts pulled together by instinctual urges. It let out the cries of the damned within, and it left no sanity in the wake of its will. I closed my eyes, hoping to kill it soon. Looking behind me, it would take weeks of this assault to destroy it, but it couldn’t resist me in the slightest. I gazed down, letting out a long sigh.
+
+Meeting my gaze, an enormous eye opened below me.
+
+It directed a mass of mana, the clouds around me pulling away. I braced for an impact and found none. Nothing harmed me, so I unleashed mana through my palms. Energy remained within my frame, yet no energy was unleashed. I gazed at my hands, wondering what had happened.
+
+The iris of the eye contracted to a minuscule point, each iridescent strand of muscle below as large as a canyon. It warped everything around me, energy pulled to nothing, mass turned to dust. It siphoned all that was and would be, its body and mind directed to only hunger. Only starvation. Only feasting. I bolted down to it, my body cracking and breaking under the unseen pressure. Near its surface, I put Event Horizon over the monster.
+
+It recoiled. It bent reality at me, but I sheared reality at it. We waged a war, and the air blurred between us. Water shifted its form, turning from mist to ice to water once more. The air siphoned to a vacuum, like some kind of void formed between us. We indulged in the matter, both of us feasting on the other.
+
+It exceeded my absorption, my body steadily turning to a gray ash. As it crawled up my fingers, I gazed at a crumbling hand. A spark of menace erupted in my mind as I used all of my abilities. I took the psionic hunger and indulged it with the sludge of its mind. It continued biting at me, and I fed on its mind, body, and soul.
+
+And my jaws were greater.
+
+I tore into it, bolting through its mass. I left it pluming out with red steam in my wake. I tore and gored and gouged. A sea of blood formed behind me as gravity became a meat grinder, converting a living mass into a blended corpse. As its gore formed a cloud, red rain drenched Blegara, the ocean world becoming crimson like some gaping, open wound.
+
+Hours passed. Days began to blur. A week later, I had devolved into a torrential beast of hunger. My armor glowed as mana flooded in. My armor let out laughs, its body a creation of destruction. I exerted control of the maw, and it had become more of a void than something alive. Event Horizon lived up to its name, turning the monster into mulch for a garden of steel.
+
+Interrupting the revel of my armor, something rumbled from above. In the distance, the goliath began pulling away from me. I raised a brow. That didn’t make sense. This was a mindless beast, the truest definition of such. As I came closer, enormous patches of the colossus pulled away into some kind of ball.
+
+It fell instead of flying, gravity bending and allowing it to leave this planet. Within a few minutes, much of its body had escaped Blegara, becoming a flesh moon above our planet.
+
+I gazed at a beast larger than Mercury.
+
+“We may have gotten it off the planet at least.”
+
+Plazia murmured.
+
+“If only its hunger was so easily abated.”
+
+The moon-sized colossus rumbled from above, its mind restructuring under its surface. The orange, psionic fluid pumped in untold volumes through it, pulling it into an unseen web. I groaned as a familiar presence overcame the body. Above, portals formed. I watched a portion of Elysium’s fleet swarm over towards the monster.
+
+My armor bristled over my skin as the eldritch condensed, metal swarming over its body like seas of steel. It molded into a monolith of Elysium’s sins. It swarmed as a planetary horror, one that could exceed a Spatial Fortress. Elysium’s vessels congregated along its western side, getting a better grip on its mind.
+
+The screaming silenced. The abyss settled. It held the grotesque body of a Hybrid on a scale never seen. It became a blight on worlds. This creature would be a guillotine held over the head of Earth. I knew it. Elysium knew it. That dread welled up in my bones as if poison robbed my strength and put fear in its place.
+
+I could kill it, but by the time I dismantled it to the atom, this abomination would’ve killed all life on Earth. It would flood every dungeon and other plane on our planet, converting all life into the mindless, screaming mass above me. And I would watch it happen, fighting in futility. My stomach sank in my chest, and my hands swung at my sides.
+
+For a moment, it was as if I watched myself from afar, wondering why a poor, high school dropout was here, pretending to be some harbinger and fighting this beast. I was nothing more than a beaten child, and it was only right that I had to watch as I lost everything I had. After all, I had never deserved it in the first place.
+
+Interrupting my despair, Plazia spoke over the perpetual roar.
+
+“Elysium will gain its greatest weapon, one made from my kind and used against your own.”
+
+He stated the obvious, but it still made it real. It knocked me out of my self-doubt and self-pity. I had no time for it. I smacked my hand into my head in frustration.
+
+“Dammit. I know that…Think. Think. You have so many minds. You can come up with a solution.”
+
+Plazia’s voice was a low growl.
+
+“We cannot stop the beast, but we can stop Elysium.”
+
+I pulled open the portal restraining Plazia.
+
+“Of course. Can you warp us-”
+
+He sliced his spear above my head, the blade humming with violence.
+
+“It is done. Go.”
+
+I let the portable portal shrink before diving into the fresh warp. As I did, the vessels of Elysium floated over me. They hovered in the distance, and a portion of the Hybrid bubbled out towards the ship. For a moment, it looked as if the giant would destroy the vessel, but this was no mutiny. A vast rip in space opened behind me, and the end state eldritch flooded towards the enormous warp.
+
+Like water pouring through the tiniest crack, it would leave Blegara and become Elysium’s hound, if not their Cerberus. Like that dog, this Spatial Fortress would guard the hell Elysium wanted to create. It would lash out and destroy anyone who dared challenge them, and their silence psionic poison would spread.
+
+I raised my hands, and mana siphoned into my palms. A seething rage fueled me, and I pulled my elemental furnaces out of my storage. They fed on my flesh, and I turned my own body into fuel. I burned through all that I was, pulling from the vast energy flow that always suffused me. The energy spiraled in an expansive, chaotic flow, its voice like some distant echo of a monster.
+
+Fifty minds crushed it down and directed the shifting mass, my psyches swarming to contain the enormity of this power. As the mana bubbled out, I held my body together with gravity. I melted before unleashing a hurricane of singularities. The vessels of Elysium imploded into globules of darkness. The mana hungered, and the mana feasted.
+
+The sorcery unleashed a kinetic hate, one that let Elysium know what would come to them when they neared me and my planets. It compounded. Light cascaded onto light, the points of physical outburst bleeding into an enormous cloud of white in all directions. Above me, I spread my hands. I cast a shadow shaped like a cross, and a star of destruction plumed overhead, its light a purging destruction, a cleansing glow, a smothering oppression. It left nothing behind but disparate clouds of debris.
+
+I let my arms fall down, and the portal fell apart above me. Millions of lives ended in an instant, and their souls, if they were real, scattered around me. I ended all of them without a moment of doubt or hesitation, and I closed my eyes. The horrors of Giess flooded through me. The twisted bodies of Springfield dragged themselves through clouds of petals in a remembered distance. I looked into the eyes of the Rulers of Leviathan-7 and watched Hybrids crawl from their necks, the rulers’ spines in their jagged maws.
+
+I breathed in that carnage, becoming one with it. This was a part of who I was. I was not only a beginning. I would be an end as well. More would need to be done, and vessels opened around the body of the monster, but on the other side of it. More of the ships arrived at an angle, and more still at another point.
+
+With them arrived a psionic link that formed with me. A new voice funneled through.
+
+“Harbinger. We are removing this threat from your planet. Where is this hostility coming from?”
+
+My voice was ice and blood.
+
+“I will give you no weapon against me.”
+
+“If we wanted to destroy Earth, we could’ve done so already.”
+
+I laughed, the expression hollow and full of menace.
+
+“I have no reason to believe anything you say or will say. You have no reason to believe yourself. Elysium has crossed a line. They’ve stepped over the sanctity of a person’s soul, and they will reshape everything until it bends to them. Until it is broken. How can you support them still?”
+
+“You’re talking about the lottery, aren’t you?”
+
+I threw my hands out.
+
+“What else? You know what you’ve done. You tried to take my body. Well, you’ve planted seeds, and now you reap what you’ve sown.”
+
+The voice sighed, and the biomass above me ceased its movement. The beleaguered general spoke out.
+
+“This…This must stop. You’ve already killed hundreds of thousands.”
+
+Mana oozed from me like a dripping venom, volatile and menacing.
+
+“If you ignore me, then my actions will speak louder than my words. I will kill millions. I’ll purge worlds. I’ll leave skies red and the ground molten. I told Elysium to never come near me or my planets, and you chose this path. I am the one who will walk it.”
+
+The general's voice stayed calm.
+
+“We’ve done nothing of the sort. We have ceased this Spatial Fortress from smothering your planet.”
+
+I kept my eye on their vessels. They didn’t budge.
+
+“You know that’s a lie.”
+
+A pause. The voice murmured.
+
+“Does it matter? We’re eliminating it. Let us handle our business, and we’ll leave you alone.”
+
+More lies. I raised my hands.
+
+“Why does Elysium want to stop Schema so desperately? What could possibly justify all of this? The lengths you’ve all dedicated yourself to, and for what? To try and make improvements to Schema’s system? Surely there’s a better way than stealing a person’s soul and carving the cipher onto their bones?”
+
+Another silence passed over us. The general let out a sigh.
+
+“Have you ever wondered where mana comes from?”
+
+A dread pooled in my stomach. I winced.
+
+“It’s the manifestation of a mind’s will. It’s from the mind.”
+
+“You existed on a planet before Schema’s invasion. Did your people manifest supernatural phenomena before Schema’s arrival?”
+
+“There were people who claimed it, but nothing definitive.”
+
+“Then where does mana come from if not the mind?”
+
+I blanked.
+
+“I…I don’t know.”
+
+The voice spoke like stone.
+
+“But we do. We know exactly where and how it's derived. We know when it came into mass use, the history of why the knowledge spread, and why it’s something every Schema user wields. We know Schema’s end game, and it’s far worse than what we’ve done.”
+
+I narrowed my eyes.
+
+“What could possibly be worse than what you’ve committed?”
+
+The voice spoke in low tones.
+
+“There are slices of what Schema’s been commissioned towards, and they are worse than nightmares. They are purgatory, a hellish destruction we want no part in.”
+
+I snarled.
+
+“Get specific. Vague rambling will get you nowhere with me.”
+
+“I can show you, if you let me.”
+
+“I’m not leaving with you anywhere.”
+
+“Then understand at least one thing. We know that Schema isn’t what you think it is. We know that it’s a pawn to the Old Ones.”
+
+That gave me pause.
+
+“Schema defers to them, when necessary, but a pawn? What makes you say that?”
+
+The voice radiated with certainty.
+
+“A simple question. Where does mana come from?”
+
+Understanding washed over me.
+
+“It’s…The Old Ones.”

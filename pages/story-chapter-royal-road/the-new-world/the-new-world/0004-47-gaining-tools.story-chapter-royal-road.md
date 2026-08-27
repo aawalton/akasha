@@ -1,0 +1,237 @@
+---
+id: d78f4d64-4836-5761-ba31-33d455e71ed3
+page-type-slug: story-chapter-royal-road
+title: "47 Gaining Tools"
+slug: 0004-47-gaining-tools
+partOf: the-new-world
+position: 4
+ownLength: 3837
+unit: words
+ownProgress: 3837
+publishedAt: 2017-09-10
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/161315/47-gaining-tools"
+royalRoadId: "161315"
+markedReadAt: "2026-06-29T21:20:49.331Z"
+---
+
+The voice in my head rang, "He will obliterate you, Daniel. I will save you. Please, let me."
+
+"Find someone who needs saving."
+
+My heart racing in my chest, my thoughts raced even faster. At that moment, a realization snapped in my head like a whip across someone's cheek. My armor was a part of my soul. That meant it was a part of my will and ambition. In other words, this voice in my head, it wasn't some darkness trying to creep in. It was the darkness in me trying to creep out. It was mine.
+
+So instead of fighting the voice, I embraced it. The frenzy of before came over me, like a rush of hatred. The voice laughed in my mind like a mantra of madness. It threatened to consume my mind like a flood of fury. I refused to yield to it.
+
+"Why do you refuse to surrender?"
+
+"Because nothing will control me. Not you. Not Yawm. Not Schema. Nothing."
+
+I crushed the wrath under my will and wielded it. The frenzy bent under the heel of my mind, like Atlas crushing under the sky. I dragooned the fury like a hammer driving a nail into wood. I commanded the insanity to obey. It would be my rage. It would be my savagery.
+
+The voice roared, "You will not suppress me. I am the darkness that cloaks the hunter. I am the wolf that eats the stag. I am the lion that tears the zebra. I am the bear that rips the throat of the lion. I am the might of the hunger that eats the world. Defy me, and I'll smash your mind to pieces. I'll cave your head in."
+
+"And I'm Daniel motherfucking Hillside. Go fuck yourself."
+
+The red mana surrounding the discordant energies melted into them, molding them, crushing them. The red mana overwhelmed the other colors of mana, turning them crimson. Still contained within the shield, the mana stayed silent during the entire process. After a moment, the mana stabilized.
+
+Unique skill gained! (Requirements: High affinity in both augmentation and dominion magic) Fuses the skills Augmentation, Augmentation Manipulation, Dominion, Dominion Manipulation, and Primal Frenzy into the unique skill Ascendant. Gives half of missing tree points from skill fusion.
+
+Ascendant (lvl 1) - You rise by crushing aspirants under your heels. Augmentation and dominion magic fuse into ascended energy. Ascended energy contains the properties of both augmentation and dominion styles of magic as well as the capacity for corruption.
+
+The mana sunk into the palms of my armor, melting into the dominion inscriptions I placed there. With the mana came the same rush as augmentation magic, along with the frenzy of the voice. Unlike the augmentation runes that hummed when charged, these runes sounded like silence. It was like they drowned out any white noise around me.
+
+With the mana charging my palm, I reached out my hand, willing the man to be quiet.
+
+New skill unlocked! Telekinesis (lvl 1) - You mold your world with the might of your mind. +1% towards strength and ease of telekinesis.
+
+The burning sensation of using mana flowed up my limbs as I poured all my strength into pinning the man down. I couldn't have him shouting and exposing me, even if the fucker wanted to. As the mana channeled, the man froze in place, unable to move an inch.
+
+Besides for his eyes. His eyes glanced around the room before glancing at me. As frantic as a rabid dog, they darted in his skull like a hornet caught in a jar. More and more of my mana poured into keeping him quiet as Ajax lifted his head off the wall. He headed back up the stairs, his steps heavy and downtrodden.
+
+After hearing his steps creak the wood above me, he left through the front door, slamming it. I waited a few more seconds before releasing the man in front of me. Like a ragdoll, the guy flopped downwards. He didn't make any attempts to stay up. He was a puppet with his strings cut.
+
+I was still reeling over the whole endeavor, so I walked up to him. I grabbed his shoulder and whispered,
+
+"You alright man? Sorry about that. I couldn't let old badass reaper guy kill us back there." I let his shoulder go and reached out a hand, "The name's Daniel. Good to meet you."
+
+He didn't reply. His eyes were empty. His skin blue. For some reason, it was like I was rejecting the obvious. Looking back on it, of course he was dead. We held our breath for over six minutes. Way back when I unlocked the endurance perk, it halved the requirements I needed for living. That included air, so I could hold my breath with the best of them.
+
+This was just a normal guy for the most part, probably level fifteen or so. I hadn't kept him quiet. I choked him to death. That realization stunned me, so I stood there until someone else walked down the steps.
+
+I figured out who when Kessiah grabbed my shoulder,
+
+"Hey, you alright?"
+
+I was fine, physically speaking. I should have been mentally too, but up till now, I hadn't murdered anyone. Sure, I killed tons of zombies, maybe even a few normal stragglers with oppression even. That wasn't the same as purposely willing them someone to die.
+
+Even with Michael and Kelsey dying, a part of me just rationalized the entire thing. I told myself that I couldn't have known. I told myself they were dead anyway. Saying that stuff helped. This guy though, I killed him just to eliminate the risk of dying.
+
+What made it so awful though was the look in his eyes. He was staring at me from where I stood, unblinking and cold like ice. I wanted him to look away, but that couldn't happen. If I looked away first, it made the whole thing real.
+
+Before I could get a grip, Kessiah grabbed my hand and pulled me,
+
+"Get your ass moving. We have to get out of here before that thing comes back."
+
+Midway up the stairs, I came to my senses. I shook the shock out,
+
+"Oh fuck. Uh, sorry. I can go on. Just stunned for a second."
+
+"Well get un-stunned. We gotta get out of here."
+
+We raced up and out of the restaurant before heading back down into a sewer pipe. After sprinting for a few minutes, Kessiah opened her obelisk as she said,
+
+"Excuse me, you two. I've got a skeleton to verbally abuse."
+
+Without her there, Althea and I stood there alone. I glanced at a palm, wondering what the fuck I'd done. Althea walked up,
+
+"You look bad. What happened?"
+
+I frowned, "Uh...I killed somebody, I guess."
+
+"You kill people all the time. What's the big deal now?"
+
+"I don't know. It doesn't make much sense to me either."
+
+After another minute of standing there, Althea shrugged, "Well, you'll learn to live with it. I did. Kessiah did. Everyone does. Give it time, and the wound will heal."
+
+I nodded, "Thanks. Yeah, I think you're right. I just need to give it some time."
+
+A minute or two of silence went by before Kessiah's obelisk closed again. She put her hands on her hips,
+
+"I just gave Torix a piece of my mind. He apologized and said that one of Yawm's followers broke off from the world tree and sprinted right over here. He honestly thought we were dead, but apparently not. Neither of us know what's going on."
+
+I sighed, "Well, Ajax made a lot of noise in the bar I was in. After that, he walked downstairs and leaned on a wall. It looked more like he was frustrated than angry. I'm guessing our tearing up the district wasn't what made him come over. Maybe it was more like we were unlucky?"
+
+Kessiah glanced down at her obelisk. She waved us over, so we walked beside her before opening it up. We were surrounded by sheets of metal and windows that viewed into space, Kessiah's background looking gorgeous.
+
+Over an intercom, Torix spoke to us,
+
+"I'm leaning towards what you claimed, Daniel. Ajax wasn't searching for anyone in particular. I think he was trying to find somewhere quiet to think."
+
+Althea murmured, "Who's Ajax?"
+
+Torix said, "He is Yawm's first of his four followers. I know little of his history outside of his exploits with Yawm. He assisted with destroying the Bracken who attempted invading his homeworld. They both shared a similar goal after that."
+
+Kessiah nodded, "Yeah, I've heard stories about Ajax too. He wasn't far behind Yawm when it came to crazy bullshit. There were rumors he blew up a moon when he got pissed one time. No one really knows though."
+
+I cupped my chin, "Do you guys think there could be some interpersonal strife in Yawm's camp now?"
+
+Torix replied, "Hmmm. If that were the case, then this presents itself as an excellent opportunity. We'll need to know more before we act, however."
+
+Althea chimed, "What if this happens again?"
+
+With annoyance leaking into his voice, Torix said, "What do you mean by this?"
+
+"Us almost dying. Again."
+
+"There's something you must understand Althea. This is a risky mission, regardless of how many safety nets I put up for you all. Perhaps if you spent less time relying on me for all your needs and more time learning to fend for yourself, then you wouldn't have to worry about dying, would you?"
+
+She didn't reply before Torix continued, "Good. We understand one another. Now, I will inform the three of you with greater speed next time. I'd recommend moving towards this zone now. Goodbye."
+
+My own mini-map changed. It showed a route towards my old high school. Kessiah put a hand on Althea's shoulder, "Don't worry about him. He's just being an ass since he's stressed. It happens to everyone."
+
+Althea frowned, but didn't reply. Like most shy people, she just balled up when she was hurt. In my eyes, she should just grow thicker skin. I didn't expect people to carefully word things just for me. I did expect to handle my own reaction to what they say though. I pushed that expectation onto Althea. Besides, if it really bothered her, she could talk to me or Kessiah about it later.
+
+It wasn't time for being hurt by words. We needed to get a move on, so we shot towards the next area with Kessiah leading the charge. She grinned and laughed,
+
+"What a time to be alive. I haven't been this close to death so many times since Torix and I waged a war on Alpha D-9. Eldritch and war machines and chaos. It was so much fun."
+
+Althea rolled her eyes before we reached the next location. After crawling out of the sewer, we reached one of Springfield's several schools. It had been my school back before Schema. With shattered windows, the occasional streak of blood, and flipped cars, it was like watching the setting of a horror movie unfold.
+
+Despite how central the school was in the city; the place was calm. It was like the forests shot up where people were, using their corpses for growth. No one was in the school though. No bodies, no scenes of horror. If anything, everything looked clean by comparison. We killed a few spawns here or there, but nowhere near the frequency that we'd seen before. When we reached the school's interior, an explanation surfaced.
+
+It turns out that the school was a dungeon. Considering the high school's size, it was a big one too. After a second of thought, I face palmed myself. Of course the eldritch were still here. Just because Yawm invaded doesn't mean the dungeons weren't expanding. The deeper we reached into this dungeon, the bloodier things became.
+
+We reached into a hallway lined with lockers. In our standard formation, we explored the area. Our caution levels were sky high though after meeting Ajax. Out of nowhere, a door shot off the hinges of a room in front of me.
+
+Out of the doorway, a serrated scythe chopped into the ground. A bipedal thing lumbered out. With gray, decaying skin and no cheeks, the scythe wielder was unnerving. What took the cake was how the top part of his face flattened out in a semicircle, like one of those chinese hand fans.
+
+He lifted one of his hands towards us, the three fingers black and grimy. At the center of his palm was a closed eyelid. The eye opened, searching the room for intruders. It stepped forward, dragging its scythe that shot sparks throughout the air. I cracked my neck as I readied myself for what was to follow.
+
+SoulKeeper(lvl 442) - As dungeons develop, certain subspecies of creatures will harness the planet's populace for power. This is one such entity. This particular species will absorb the radiant energy of human souls for strengthening itself. It casts illusions that will draw in weaker minds, and then slay them with its enchanted scythe.
+
+This is a stronger member of the species, having had plenty of time to absorb souls due to the inherent chaos nearby. Unlike most SoulKeepers, this particular member is holding far fewer souls than would normally be required for such a high level.
+
+This is indicative of it following a SoulSwallower, which will be far more powerful than a mere keeper of souls. The danger levels reflecting the overall prowess of these enemies are inflated due to the disastrous consequences should an adventurer fall to one of them.
+
+In your case, however, this specimen will struggle just to harm you. Crush it.
+
+I charged towards the thing, ready to meet him head on. The monster waved its scythe, a green wave of energy following the strike. I slid on the ground, ducking below it. Another slice of the scythe, and another wave shot towards the ground I was on.
+
+I pressed a heel into the tile ground, the momentum of my slide slinging me upright. I leapt up, the energy slice clapping against the ground where I was. The tile ripped off the ground, revealing the concrete underneath as I flew up and over the destruction.
+
+With my enhanced weight carrying me, I shot up through the roof. It was one of those cheap, acoustical roofs. The flimsy material relented as I passed through it, and several spear bolts shot under me. The monster howled beneath me, its unearthly wails like a living nightmare.
+
+I passed by several strings that kept the cheap ass ceiling tiles up before passing through it again. I landed on top of the SoulKeeper, pushing it to the ground. Two speakers were lodged in each of its palms. The scythe lay beside him, no longer in his hands.
+
+I reared a fist upwards before slamming it down. My fist hit a barrier of made of mana. I grinned with my armor following suit. It was time to pummel this piece of shit. Swing after swing, I rained down a series of blows. Cracks formed in thin air, right above the creature's face. The mana shield couldn't withstand the onslaught for long.
+
+A cold, lightning sensation shot through my back, but I pushed through the sudden discomfort. The cracks grew before my armor chomped forward. The jagged teeth screeched against the invisible shield before it shattered. A few bites later, and the monster died surrounded in darkness since Althea shot its eyes.
+
+I stood up before Kessiah snapped into existence beside me. She tapped my shoulder and pulled the cold sensation from my back. I turned around, and a scythe was in her hand. I put my hands on my hips,
+
+"How in the fuck did that stab me?"
+
+Kessiah glanced at the scythe and kept her hand away from it as if touching something fowl, "The SoulKeeper used telekinesis and stabbed you with it. I'm surprised you didn't keel over. The scythe attacks your mind instead of that burly body of yours. It means you don't have any resistance to it."
+
+I shrugged, "My armor effects that kind of resistance too."
+
+Kessiah frowned, "Why would armor affect that kind of resistance?"
+
+Althea walked up, "Maybe because it enlarges his soul or something like that?"
+
+I glanced at the corpse of the SoulKeeper. A spike of armor expanded from my palm and pierced it before draining the corpse to nothing. I turned back to them,
+
+"Eh, I think that's probably it. That and maybe it means I have an expanded mind, so there's more to damage or something like that. I used to think the armor was something else, something trying to control me. Now I just think it's a different side of myself that I suppress. I could totally be full of shit though. Who knows."
+
+Althea nodded, "I get that. I feel like that sometimes too. Uh, with my eldritch blood instead though."
+
+Kessiah grabbed both our shoulders, "Enough contemplating stupid stuff." She pointed her finger forward, "Onward into adventure!"
+
+Althea and I rolled our eyes before continuing forward. After passing through another hallway, we met two SoulKeepers standing guard at the lunch room's doorway. I dashed towards them as two bolts from Althea stabbed through their spear holding hands. They both dropped their spears as I reached them.
+
+The one standing on the left side of the door reached out its right hand, the eye opening as it faced me. I stomped my heel, stopping myself just short of the palm. I jerked my left hand, grabbing its upper arm and forcing it up. With my right hand, I turned his arm so that his elbow faced the ground. With a quick jerk, the monster's joint snapped as I pulled the broken limb towards the other monster.
+
+The SoulKeeper on the right side of the door had reached out its left palm towards me during my attack. With another quick pull, I tore off the broken arm of the injured SoulKeeper. Using the jagged side of the broken bone, I stabbed the arm into the open eye of the other SoulKeeper.
+
+Blood burst from the monster's hand, gushing like water out of a broken pipe. I grabbed its arm with my left arm and snapped its joint just like I did the first one’s arm. Pulling back towards the left most SoulKeeper, I jabbed the arm through the face of the creature. I grabbed that monster's neck them tore off its skull with my left hand.
+
+Grabbing the head like a club, I smashed the other creature's face to mush with the skull, bits of bone splintering as both skulls caved. With unnecessary violence, I kept crushing until nothing was left.
+
+The body wilted then lost all animation as the creature died. I stepped one foot backwards, pulling my weight with me. I spun around, letting my arm drag behind me. The force of the blow smashed the last SoulKeeper through the wall they guarded.
+
+A detonation of sound, louder than a gunshot, echoed through the empty hallway. After waiting for the dust to clear, I absorbed the bodies with my armor. The strange part was, the scythes remained. I picked them up.
+
+SoulSlayer(lvl Requirement: 400) - This is a weapon that attacks the will and mind instead of a physical body. As a side effect, willpower and mana act as the health of the enemy. Arcane blood users are unaffected by this, instead taking damage to their health like normal.
+
+This weapon can also carry the souls of slain creatures. This weapon steals the mana of the user, turning it into ambient mana instead. Skill level with normal scythes will carry over to this weapon's effectiveness.
+
+Current containment: 440,425 Ambient mana stored.
+
+I grabbed a hold of the blade and drained the mana stored in the glowing blade. The sheen of the weapon died down until it was dulling after a few seconds. I tossed it onto the ground and picked up the other one, draining it like the first. I turned back, Kessiah holding the spear of the first one we saw.
+
+I raised a hand, and she tossed it towards me. A few seconds later, and the mana was mine. These enemies made the whole escapade much more useful than before. Of course, this once was human mana, but the scythe disintegrated it into ambient mana. That meant the souls had already been torn apart. In a way, I thought I was giving the old souls new life.
+
+Existential rants aside, I crouched low as I walked through the hole in the wall I made. Stepping out of the other side, there was something sinister on the other side.
+
+Imagine a SoulKeeper but gorged on souls until it was twenty feet tall. Instead of thin, wiry limbs, this monster was well muscled. With scythes jutting from its elbows and blades for fingers, the monster turned towards me with an eerie smile.
+
+Its ragged mane of hair reached halfway down its chest, black like a raven. The gray skin of the other SoulKeepers was the same on this creature, though darker in shade. At the center of its chest was an eye with a contracted pupil, as if it was staring at the sun. The eye teared up, causing a sort of irritation in my own eyes.
+
+The monster spread open its hands, revealing eyes at the center of its palms. A set of black raven wings spread wide, like some sort of fallen angel. The shackles on its hands and legs clattered against the ground as it moved. With movements faster than its large frame should allow, it whirled the chains around its hands.
+
+Gorged SoulSwallower, Chained (lvl 600) - A powerful SoulSwallower, this monster has feasted on thousands of souls from its SoulKeeper minions. This has allowed it to gorge on the souls, making it stronger.
+
+The blades on its fingers and elbows can consume mana. The chains around its wrists and ankles suppress its power. Once the SoulSwallower has consumed a certain number of souls, these chains will shatter, revealing its full power.
+
+This foe will be incredibly difficult to kill, regardless if it is unchained or not. Be wary.
+
+With a flick of its wrist, one of the chains around its wrists snapped into one of the tables of the large lunchroom. The table cracked, splintering in half as a crater formed on the ground. The grin on its face lengthened until it was too wide for its eyeless face.
+
+Its words smoldered like hot coals,
+
+"You have...a mighty soul...I will enjoy its flavor as I swallow it, as I swallow you."
+
+The runes on my arms and legs charged, my new red mana replacing the orange. A surge of power and fury filled my limbs as I grinned back at the beast,
+
+"I warn you, I'm hard to chew. You might even choke."

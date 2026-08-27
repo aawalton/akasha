@@ -1,0 +1,251 @@
+---
+id: 316bc454-17a5-5c1c-afd1-9abb3b3d9d09
+page-type-slug: story-chapter-royal-road
+title: "The Path of Ascension Chapter 216"
+slug: 0032-the-path-of-ascension-chapter-216
+partOf: the-path-of-ascension
+position: 32
+ownLength: 8373
+unit: words
+ownProgress: 8373
+publishedAt: 2023-04-07
+link: "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/1161742/the-path-of-ascension-chapter-216"
+royalRoadId: "1161742"
+markedReadAt: "2026-06-29T19:18:34.400Z"
+---
+
+Chapter 216
+
+April arrived back in the Minkalla system with a sigh.
+
+It wasn’t that she disliked the place. No, she rather liked the atmosphere that permeated the carved out section of space, populated with all of the entrants of Minkalla that returned. Mostly old Tier 14s who had just gotten their Concept and were now Tier 15 and immortal. There were also teams of Pathers who went in at Tier 12 and came out with more items, skills, and abilities than they knew what to do with. The members of the military who went in to hunt down enemy combatants and protect their own side’s people were also peppered in. And finally, the scions of the rich and famous who went into Minkalla for the thrill of adventure without their immortal minders watching over them made up the remainder of the gathering.
+
+Anyone who came out contributed to the atmosphere of celebration and joy. Anyone who wasn’t so lucky was in no position to sour the mood.
+
+All in all, the place was bustling and frenetic, two things April enjoyed.
+
+She just wasn’t excited for her actual job.
+
+Luna had saddled her with a rather hefty list of goods and items she wanted procured for the team. In and of itself, that wasn’t unusual, but the manager had also left a large amount of the items to April’s own discretion, which screamed test.
+
+And passing Luna’s test was vital to April's career as a liaison, trainer, and manager in her own right.
+
+Luna was known in the Pather manager circles, and April already had three pending offers from other managers once she finished with Matt, Liz, and Aster, all as a fairly senior liaison or as a trainer’s assistant. Considering she was relatively new to the liaison position itself, that was an incredible step forward for her career.
+
+But that all hinged on her successful completion of this assignment.
+
+Which meant the free reign Luna had given her was just as much rope from which she could hang herself.
+
+Many of the items were fairly standard. Skills of various stripes, a few natural treasures, some utility gear, maybe a backup weapon or two. She was instructed to get beneficial cracks when possible, and to keep an eye out for ‘anything which would be particularly impactful,’
+
+It was that last part which really was the issue. There was a truly unlimited number of possible items which had the potential to help her team, and just as many which would look useful, but in truth would not suit them for some subtle reason.
+
+Just about anything could help Matt, but at the same time, there was nothing that would be a perfect fit for the boy. Aster was a fairly typical ice mage, but was trying to branch out into some spatial and illusion capabilities for her planned evolution into an Aurora fox and beyond. Accordingly, treasures to help the girl develop her bloodline wouldn’t go amiss, but were nigh impossible to find. If there were ever a time to gain an aurora-aspect natural treasure, though, now was the time.
+
+Liz, though, was the trickiest. She was a blood warrior and mage hybrid, boasting a 50/50 essence split thanks to Back to Basics, but wasn’t content as just that. Blood magic, at a minimum, was too distinctive for her to use in public, and that led to her utilizing water-colored blood, or even just fire whenever she was trying to hide her identity. Honestly, the girl was an utterly fantastic kineticist. Her fire magic as a secondary element, one which her mana aspect and Talent actively penalized, was better than many pyromancers fifty times her age. She’d also recently lost her primary source of kinesis material, with her spatial storage glove having been destroyed in Minkalla.
+
+Fortunately, Minkalla served as one of the largest hubs of inter-Power trade in the entire Realm. Desperate Tier 14s spending all their wealth on gear to assist their delves into Minkalla, and successful delvers flush with treasure from the planet all had money and treasure to burn. Hearing that wealth begging to be spent, the Corporations answered.
+
+Massive companies within the Great Power had dedicated their entire existence to catering to those entering and leaving Minkalla, with piles of skill shards and natural treasures being shipped in weekly alongside custom-ordered gear and even growth items. That drew even non-delvers that were in search of rare commodities to the Corporation’s moon, and they were, in turn, catered to with additional valuable goods from the traders’ wares.
+
+It was a massive, mostly-peaceful, thriving hub of trade that drew people from even the furthest reaches of the Great Powers. Tariffs and import treaties prevented it from being outright overrun by guilds and internal companies, but for delvers and their managers, it was a functionally bottomless well of valuable resources.
+
+April and Jeremiah stepped out of their ship onto the Empire’s moon, with the massive, clockwork planet hovering ominously in the sky. The eternal parties of newly-minted Tier 15s raged on in the background, with their choruses carried on distant winds over the din of the spaceport. Delvers jubilant and somber alike loaded onto the ship they’d just left, not wasting a single second in transporting as many as possible in and out of the mana-starved system.
+
+Registering their presence was trivial, and from there, they loaded onto a Corporations shuttle branded with the MinKouriers logo, and flew to the other Great Power’s ‘moon.’
+
+It wasn’t a proper moon in the truest sense. It was no planet drawn from a high-Tier rift, or even a coreless world from one of their systems. Instead, it was an utterly massive space station, artificial from its core to its surface, and held together through unimaginable amounts of engineering and artifice. The entire structure catered around it being made of Tier 0 materials, so it was never degraded by Minkalla’s habit of eating the essence out of its surroundings. The simple scope of it was difficult to properly visualize, but it held party venues, skill exchanges, auction houses, ship ports, and life habitats that a mortal could spend their entire life in and never see everything.
+
+Their transport ship nestled into a massive missing chunk of the station facing away from the moon, and they joined a line of other visitors seeking much the same as them. The line moved swiftly, as the Corporations knew the value of even an immortal’s time all too keenly, and their procedures were simple and orderly. An AI-backed declaration of presence, affiliation, and intentions, a quick donning of the Empire’s insignia, and they were in. The guards, decked in shining power armor and wielding the glowing rifles that mages in the Corporations favored in place of staves, barely even gave them a glance as they passed, instead constantly vigilant for anyone foolish enough to try something, or missing their insignia.
+
+Everyone was required to wear some form of signifier to their affiliation, be it a badge, medal, armband, coat, or as one dwarf in classic plate armor had chosen, full heraldry. Off to the side, an array of stalls and storefronts sold a number of premade items for all the Great Powers, all boasting low prices and quick custom work.
+
+Both she and Jeremiah had known what was coming, of course, and donned their respective signifiers. April used a simple black and white armband with the Empire's emblem emblazoned on it. Simple, effective, and not too flashy, but more than enough to meet the requirement.
+
+Jeremiah, on the other hand, went with a half cape with the insignia on his back. She considered it a bit too much, but said nothing. The other liaison had been incredibly helpful during their short time together, so as much as she disagreed with his fashion choice, she kept it to herself.
+
+They followed the hallway and the flow of people deep into the bowels of the station. Spatial expansion this close to Minkalla would be exorbitant to try and maintain, with the greedy planet constantly seeking to drain the mana from every last rune. Eventually, the expansive tunnel, lit as much by the gleaming, illusionary advertisements for vendors as by the overhead lights, gave way to a truly massive exchange floor. From above, it looked like a hive of so many ants, teeming with skill traders moving from station to station, buying and selling skills in a bid to earn consistent profit.
+
+As an outside agent, April didn’t much care about all the endless deals and methods that traders used to try and leverage the simple exchange of goods into wealth. All she cared about was turning her rings full of Minkallan loot into Corporation Credits, and those credits into gear for her charges.
+
+It was here that she and Jeremiah split off, melding into the human mixing pot of the Great Skill Exchange.
+
+Nearly every skill in existence of Tier 32 or below could be bought and sold here, though April needed a constant stream of translations from her [AI] to understand what was going on. She was certain that [Channeled Projectile FI14-RN] and [Channeled Element OZ14-EL] were perfectly informative to those used to them, but they just weren’t memorable in the same way [Flamethrower] or [Mud Manipulation] were.
+
+They sold just the same, though.
+
+Most combat-relevant Tier 8 skills went for a few Corporation kilocredits, the Tier 14 skills about three to five times that, and the Tier 20 skills three to five times that.
+
+For anything beyond that, prices tended to skyrocket, as various militaries tended to monopolize the majority of skill sales, but they could still be purchased. [Regeneration], or [Self Heal HE32-RG] may be on sale, but it would cost her 25.3401… megacredits to actually buy. The exact price kept fluctuating, but it was stable enough with its low volume.
+
+The reverse was also true: there were high-Tier skills that were so obsolete, they were cheaper than even some Tier 8 skills. [Inventory] was one such skill, a Tier 20 skill which had been on par with [AI] for must-have skills until storage rings were invented, which allowed for nearly all the uses of the skill with none of the exorbitant reserved mana costs.
+
+In contrast, [Bandage] commanded a price just shy of two megacredits, but the price history of the skill showed it was on a steady if slow decline. That told her more of the skills were leaking out of the Empire, but that was both inevitable as people resold for a profit and spies collected them. In the end, it wasn't her job to stop Realm-wide trade of new and exclusive skills. She just noted that she had a way to earn some more money for the kids if she needed to with the few [Bandage] skill shards they still had.
+
+No matter the odd Tier-agnostic pricing that was everywhere, it made selling off her mountain of skills easy and fairly lucrative. A trip to the nearest exchange broker, a long time next to a skill scanner, and all of her basic skills were translated into 39.65 megacredits.
+
+Next on the list were the endless piles of non-skill gear that they’d found in Minkalla. Fifteen sets of armor with a water-resist enchantment, seven swords enchanted with [Fire Weapon], thirty-nine wands with spell accuracy arrays, nine hundred and forty-two swords enchanted with sharpness and durability runes… the list went on. Much of it was ruin-made and while not worthless, wouldn’t command a premium price. Others, like the boots imbued with the ability to walk on any surface, or the throwing knife that would teleport back to the thrower’s hand, were custom-made gear and were where most of the real money was to be made.
+
+There were plenty of low-level auctions going on at all times for just that sort of thing, and plenty of auctioneers ready to take on her commission for a ‘small’ fee. She ended up finding a middleman who promised results with a refund guarantee that also possessed several prestigious certifications, and unloaded much of the bulk loot on her. The middleman would run around and sell her payload for a 5% fee. April knew she’d lose far more than that if she tried to navigate the treacherous floors herself, and this way, she could attend the auctions that actually showed promise as a buyer, not a seller.
+
+After that, she stopped by a different middleman to offload most of the houses and spatial items the children had obtained. The houses would take a bit of time to get appraised and sold off at auction, but it would be a large source of credits to translate into more directly usable items. Fortunately, the more numerous spatial items had more static prices per unit of usable space, and it was very nearly painless to sell them to the half-metal spider behind the counter. Spatial rings usable by low Tiers were quite difficult to make, so the rings taken from fallen delvers formed a considerable portion of the final credit tally.
+
+With a mostly-emptied spatial ring and no particularly promising auctions in the near future, April made her way to the skill exchange, now as a buyer. The price of individual skills may have been universal, but the fees associated with getting them weren’t. If she could find a vendor with a given skill in stock, there were far fewer transfer fees involved, and if she could find several of the skills she was looking for as part of a single transaction, so much the better. She may not have come with a massive set of skills that she was tasked to get, but every centi-credit she could save was that much more she’d have for the auctions that she had her eye on.
+
+[Shadowstrike], or [Weapon Empowerment DK14-SE] was the first skill she found a good deal on. The vendor she’d tracked down had just gotten a couple from another delver, and so was willing to sell to her for nearly market rate. It created a semi-real illusion of a lengthened blade limned in darkness that could actually cut, and most importantly, carried the enchantments of the underlying blade. Granted, both the copying and the cutting power was lessened due to the quasi-real nature of the projection, but that could be taken care of with some modifications. And if April understood the nature of Matt’s Courtly Warfare boon correctly, he could probably leverage it into projecting the illusion at an angle from the ‘main’ blade, giving him extra flexibility with the skill.
+
+Her next stop was getting medical skills for the team.
+
+[Directed Heal] was technically on her list, but wasn’t actually something she needed to buy thankfully as the damn skill was far, far too expensive. The team had found three shards of it within Minkalla, and while one went to Susanne the other two were earmarked for Liz, one for her inner spirit and one for her outer spirit. She’d passed on them during their initial picking-over of loot, but Matt’s ‘abysmal’ mana control made him ill-suited to be a healer, whereas Liz’s blood magic would make her an excellent one. So, she was just keeping the two skill shards unsold, and would be presented to the girl along with a pair of other healing skills to get her started as the team’s dedicated healer. Luna was probably planning on literally beating sense into the girl if she kept refusing on principle, but hopefully it wouldn’t come to that.
+
+The first supplementary healing skill for the girl was [Rehydrate], with the hope it would convert to some kind of [Blood Transfusion]. [Medical Scan], meanwhile, was to be her ‘you will become a healer now’ skill, and would help Liz become a competent one in years rather than decades. Though by Luna’s standards, it would probably be centuries until she was ‘passable’. But April knew this would make things faster and easier, which justified its insane cost. Especially in the other Great Powers where healing wasn’t free, the skills were always in demand making them sell for a premium at the best of times.
+
+She then got lucky and found a vendor specializing in ice-aspected skills. Why someone would specialize in a specific element for selling, let alone selling said skills for below-market rate, escaped her. But she intended to capitalize on her find. Thanks to the oddly-dressed person clad in full arctic gear that also had ice clinging to its edges, [Glacial Spear], [Meadows of Rime], [Floating Snow], [Polar Beam], [Glacial Strike] and [Sheer Cold] all came off her list. And though the last of those wasn’t strictly on Luna’s list for Aster, it was too perfect a skill to not get for Matt. If it was too perfect for Luna to allow him to use, well, she could live with that; it was a damn good skill not usually seen in the Empire.
+
+Like [Breach], a skill she knew Matt had been eying, [Sheer Cold] was sometimes called a channeled-charge skill, where after an initial cast it could accept more and more mana to strengthen the eventual effect. In [Sheer Cold]’s case, the initial cast created a sphere of ice over the caster, and channeling mana into it caused it to get colder. Once released, it would snap-freeze a wide area, with the initial casting cost determining how large of an area it affected, and the amount of mana channeled in afterwards increasing just how cold it got.
+
+[Glacial Spear] was largely a supersized [Ice Spear], and while its exceptionally long cast time made it impractical to utilize on anything but massive or especially tough targets, it would make an excellent finisher for Aster. Even unmodified, it summoned train-sized chunks of ice and slammed them onto its targets, crushing them and freezing them if its jagged tip didn’t impale them from the start.
+
+[Meadows of Rime] was usually only found in the Clans, Federation, and Republic, but it was still for sale here. The skill wasn’t a terribly popular one due to its lack of protection for allies, but for as long as it was sustained, it would spread a creeping frost centered on the caster, slowing down anyone in the area and freezing the ground and air into razor-sharp points that would cut any inside of it. The slowing effect could be modified to exclude certain targets, but the cutting edges couldn’t. Its resulting lack of popularity mostly balanced out the premium inherent to any Clan-locked skill.
+
+The same couldn’t be said for [Self Movement IC20-TX], also known as [Snowdash] or [Floating Snow On A Windy Frozen Night]. [Floating Snow], as the Empire had named it- which got the idea across just as well in far fewer words, in April’s opinion- was an excellent escape skill. It turned the caster into a flurry of snowflakes, allowing them to drift to a nearby spot before reconstituting back into themselves. The only real downside was the inability to cast any other skills during the five-second transformation, but it was still an invaluable protection against many physical attacks.
+
+[Polar Beam], [Freeze Ray], or [Ranged Attack IC14-EB] was a favorite in both the Corporations and Guilds, with a price to match. The attack bore a few similarities with [Ice Spear], but it didn’t use a physical projectile. Instead, it was a freezing ray that froze a single target solid. Most conventional armor did nothing against the ray, and only those which specifically protected the wearer against cold could stop the attack.
+
+[Glacial Strike] was the last ice skill on her list, an ice meta-skill that would coat the target of whatever skill it was cast alongside with a coat of ice, weighing and slowing them down substantially.
+
+As she was wandering through the crowds, a notification pinged her AI that a set of fire-based natural treasures had sold at auction, helping her recoup some of her losses with the ice skills. She noticed a caped Guild man yelling at a bored-looking teen about skill exchange rates as she wove through an open spot in the crowd, but didn’t stay to watch the debacle, as a pair of armored guards were already on their way to break up the altercation.
+
+Most likely, the brightly-clad man would get a fine and either a warning or an ejection from the trade hall that might last for a few weeks at minimum. The Corporations had very little tolerance for abuse of any sort from either side, especially when it made them look bad, as this current commotion did.
+
+She made it to the first auction that held any promise just as a leaf-bladed growth dagger was sold to a Federation woman with silver lines tracing her cheekbones, and just before the bidding for a ring with a massive diamond set on it began. According to the itinerary and the announcer, the Tier 5 item could store a single spell from either the wearer or another person and release it later. She’d considered it for Liz, but her mild interest quickly fell off as the price rose beyond her discretionary budget for the moment.
+
+That same discretionary budget rose as a notification informed her the kids’ Dew of the Last Dawn natural treasure sold at a separate auction room, but the ring still wasn’t worth the price tag as it swiftly rose through the megacredits. Two Empire shoppers were locked in a bidding war, and it didn’t look like either were about to back down as the price rose beyond anything reasonable.
+
+Eventually, it sold for a truly ridiculous sum, and a pair of clawed gloves with an armor-piercing effect were up next. Again, it was potentially decent for Liz, but not worth joining the bidding war between a bearded sect man in their ridiculously baggy robes, and an anthropomorphic fox only wearing a kilt that confirmed their allegiance to the Monster’s Collective.
+
+As a void blackberry sold in the interim, April set out once again on her quest for new skills. The auctions were ongoing and she had the itinerary up on her [AI], so she could see if anything that might be useful for her team came up.
+
+[Mist Manipulation] and [Steam Manipulation] were some of the final Tier 14 elemental manipulations that Matt didn’t have yet, and they were about as expensive as April had expected. Still, she was a bit annoyed that she’d gotten the former when she did, as the skill dropped a whole two kilocredits in price just a day after her purchase.
+
+She did manage to intercept an ongoing trade between a Federation man with vividly green eyes and a skill vendor, after she overheard the former list [Weapon Empowerment NM14-ES] as one of the shards he was trying to sell. [Heart-Piercing Stab], as she knew it, was a slight improvement to a simple [Mana Thrust], in that it could be directed in other directions after it was cast. And as a skill without an innate mana aspect, it stood a decent chance of surviving the conversion to Liz’s inner spirit. In any case, she managed to buy the skill off the Federation man at market rate, making it a better deal for both of them.
+
+[Like A Reed In Spring] was harder to find a good deal for, and she eventually had to settle for buying it from a skill merchant who didn’t even have it in stock, and had to order up a shard from the grand exchange. Still, the ability to make a polearm shaft flexible was too high on her list to pass up just because she had to pay ‘normal’ rates. A similar fate befell [Scatter Shot], which was basically an earth-aspected volley of [Fireball]s, but at least the Tier 14 skill wasn’t too expensive to begin with.
+
+A bracer capable of summoning a mana-construct elephant finished its auction for a bit less than she’d hoped as she settled into an auction room, but it was still enough to stretch the budget for a couple of natural treasures.
+
+A Mirage Shadow was a treasure earmarked for Aster, and the shimmery, ethereal substance would act as a second mind of sorts when controlling illusions, giving it the benefit of her full attention while requiring no concentration on her part. April got it fairly cheaply after the Corporations woman bidding against her suddenly ran out of the room in a small panic.
+
+A Cinder Heart was for Liz, which would enable her to store and later release flames from her own body. She might not have much use for her Torch persona, but little was not none, and while absorbed, it would provide her with additional defense against ice and cold besides, giving her a bit more of a buffer from the backsplash from Aster’s wide-scale spells.
+
+The Profound Snowflake, which would help Aster in splitting her attention between ice skills, was a harder fight than April had expected, but she’d won out against a Federation woman in red. She lost the first Shimmering Bloodcrystal to a Clans spearman. The crystal would provide a wave of healing proportional to the amount of blood ‘stored’ within, so she felt fortunate that two more were on the docket. She was able to get the second one, letting another Empire shopper acquire the final one.
+
+The Dewdrop Jadechip would turn Matt’s thumbnail green until he reached Tier 15 and could suppress it, but it would aid him in any mana manipulations involving physical contact with the digit. Unfortunately, The Last Gleam of Sunset went out of her allotted budget after two Guild shoppers, a man and a woman in white and black respectively, got into a bidding war. Each of them seemingly was more interested in ensuring the other wouldn’t get it than actually winning the item for themselves. The woman won in the end, and she outright cackled in victory, claimed her winning, then dashed out of the room with the man in hot pursuit.
+
+The Golden Apple of Abador didn’t go over her budget, fortunately, and she happily claimed the fruit and its ability to enhance self-cast healing spells for Liz.
+
+Stygian Gossamer did go a little over budget, but the Monster Collective humanoid bird she’d been facing had bowed out right as she placed her last bid. It would render any part of the body it was draped over and fused with practically invincible, or it could be processed for a universal durability boost. Which way Matt went with was up to him.
+
+The Infinite Diamond was more straightforward in its use, simply boosting the power of neutral-mana skills used by whoever consumed it. Fortunately, it could be ground up into a powder and drunk with water, though missing even a single speck of dust would render the entire treasure useless.
+
+The Crimson Dawnflame was for Liz, a treasure well-known for its use in aiding the bloodline growth and cultivation of phoenixes. While the crestfallen look that appeared on the Monster Collective phoenix she was bidding against each time she raised her own bid nearly persuaded April to just let the poor creature have it, she hardened her heart with the reminder that Luna had sent her to get gear for the kids at any cost. The bird was escorted out after a heart-wrenching cry accompanying its loss for ‘attempted emotional manipulation,’ but that just caused April to want to deck the arrogant Empire man who laughed at its misfortune. She knew she might be being played but it seemed like honest desire and loss from the bird and she could only hope another Dawnflame came up for auction soon so it might get the treasure.
+
+April restrained herself— after shooting the man a glare— well enough to get Aster her Breath of Boreas, which would help the fox further develop her own winter affinity, and she nearly cheered when a Fragment of the Rainbow Bridge appeared in an auction itinerary and that she was able to afford it, her only other contenders being a Corporations man in a white lab coat and a Federation woman wearing an iridescent set of armor.
+
+Unfortunately, it still finished off her ‘natural treasure’ budget, and she moved on as one of her own items, a nugget of heavy iron, came out onto the auction table. She had more skills to buy.
+
+She found a ‘hologram’ store selling illusion skills, and picked up [Illusion Manipulation], [Cast Illusion], and [Afterimage] for Matt and Aster. The first two were a basic part of any illusionist’s kit, enabling them to create and then control illusions, while the third was a Tier 20 version of [Mirror Image] that created an entire series of illusory duplicates in the wake of swift movement. But with [Illusion Manipulation], they could be manipulated into running in different directions and generally causing a ruckus. Aster also got [Illusory Summons], [False Skill], and [Solid Image], letting her create illusions of monsters or cast skills, then provide actual substance to the illusions. They wouldn’t do much damage, but any opponent that didn’t realize they were dealing with illusions could still be knocked around.
+
+One of the masterwork suits of armor went through on its auction, giving April a new influx of cash as she tracked down a good vendor for [Diffusion Shield], a defensive skill which was meant to be cast in conjunction with other defensive spells as it spread out the penetrative power of an incoming skill over a larger area. The skill would make it easier for self-regenerating shields, like all of Matt’s defenses, to take on armor-piercing skills. A few modifications would also make it work with outgoing skills too, and make it even easier for Matt to utterly annihilate weaker enemies. It might not be on Luna’s list, but she bought it nonetheless.
+
+She bought [Illusory Fang] from the same vendor, after a bit of consideration. Someone must have just sold an absolute mountain of the skill somewhere, because the price crashed while she was watching, and she was able to get it for less than a single kilocredit. It was an illusion skill, which made it decent for Aster, and made a single bite illusionary, dealing no damage in the process. It instead inflicted a fear effect that mostly just discouraged those afflicted from attacking the caster. Not a truly useful skill, but one they expected Aster would get good use out of for practice, if nothing else.
+
+The Iron Bamboo she had up for auction ended up paying out far more than she had anticipated, and with some of the surplus credits, she got Liz [Create Blueprint] and [Whirling Charge]. The former would help with the blood mage’s internal alchemy, letting her conjure up an entire set of ingredients for a potion using her [Blood Copy], without having the real ingredient on hand. If she could get [Library,] that would be even better to pair with the other two, but that was unlikely. The Tier 32 skill was for sale, but it was in such high demand by organizations and immortals with eons worth of data to efficiently store and categorize that the price was well out of her range.
+
+[Whirling Charge], meanwhile, was a short-range dash that shot out a blade of air right ahead of the caster with enough power to either push back or outright cut through some weaker foes, and she seriously hoped that Liz’s Talent would properly convert the skill. A razor-sharp arc of blood leading a rapid charge would leave quite the impression on anyone foolish enough to get in range of the blood mage.
+
+Similarly on the list of ‘skills that they hoped would survive the transition’ was [Will of the Millennium Oak], whose Clans-exclusive status and generally desirable effect of rooting the caster to the ground in exchange for enhanced vitality, durability, and mana regeneration made it her most expensive skill purchase yet. It was to the point where she wondered if Luna was betting too much on it surviving the conversion, and if the manager should refund Liz if it ended up breaking.
+
+April was more confident in her next two purchases, [Inventory] and [Hypertension], as ways that Liz might be able to partially offset the loss of her glove. The former was a reserved skill that would ideally enable Liz to keep a mass of blood in a dimensional storage space that would hopefully still count as a part of her, as the glove once did. The latter was already a Tier 26 blood skill- with a price tag to match- which compressed more blood into the same space. Most people used it to give them additional energy and resistance to bleeding out, but Liz would be able to leverage it into more blood for her reserved blood skills, her alchemy, and more.
+
+As far as movement skills went, April barely made it to the auction for a [Cracked Air Slide] that sacrificed cost for better speed and cooldown. Matt wouldn’t care at all about the mostly nominal increase in mana cost, but would be interested in skating across the ground with the wind at his back at high speeds in the middle of a fight.
+
+She ended up in a bidding war with a young Corporations man who looked like he’d quite recently come out of Minkalla himself over the skill. But she had credits to spare thanks to a bulk sale of lightning-enchanted spears that had just gone through, and once it reached nineteen percent over market value, he backed out. He was a lot more insistent about the subsequent [Tailwind] that empowered all wind spells cast in the area, in addition to its normal effects, albeit for a double mana price. April eventually let him have that one at two and a half times the normal sale price of the skill.
+
+An array of cracked skills that she didn’t care for were up next- a [Cracked Shadow Dagger] that both had a decreased mana cost and could be applied to larger blades without losing potency, a [Cracked Puddle Jumper] that worked on water instead of air for a single-digit mana cost, a [Cracked Rain of Fire] that lingered for hours post-casting, a [Cracked Venom Strike] which transferred lost coordination to the caster, a [Cracked Firebolt] that was more of a siege-class spell than anything practical for delving…
+
+Eventually, [Cracked Shatter], the skill she had her eye on, came up for bidding. This version of the ice-aspected skill, instead of simply breaking ice, detonated it, creating a frozen fragmentary grenade of whatever it targeted. She actually got into a three way bid for that, but she eventually outbid both the Clan man in yellow and Republic woman in a black coat, securing it for herself. Either Aster or Matt could use that skill, and she knew it was worth the sky high price she paid for it.
+
+After leaving the auction, she picked up a non-cracked [Tailwind] to compensate for the cracked variant she didn’t purchase, and from the same vendor- an eager evolved wolf quite willing to make small talk- a [Dispelling Wind], two [Air Body]s and a [Water Body].
+
+That left a single skill remaining on her list- [Dispelling Edge], a simple skill that helped the user cut through a skill and dispel it harmlessly instead of, for example, detonating a fireball. She sent a message to Jeremiah asking if he’d found a good seller, but he replied that he’d gotten a Cracked variant earlier in the week. As such, he hadn’t bothered looking for a good source for the skill. He did send her a list of weapon skill vendors, and April eventually settled on the third person in the list, after the first two stated they were saving their supplies for a projected price increase. She couldn’t imagine why, as the skill was already the second most-expensive one she’d bought this trip. Did they really need to wait for a few more kilocredits?
+
+After she had checked off most of the combat items she had on her list, April made her way over to the crafting and utility item vendor sections. The items they sold may have been less directly combative, though that seemingly didn’t reflect in the attitudes of the people buying there. From what she could see, there didn’t seem to be any actual fighting, but a dwarf woman was screaming at a man until she was red in the face over what seemed to be a substandard grade of copper, and a pair of armadillo men were arguing furiously about some minutia of enchanting that nobody else seemed to care about.
+
+Not wanting to engage with that at the moment, April stepped into a small venue for home goods, and quickly parsed through what was on offer with her [AI]. Three copies of the “homemaker bundle” went into her virtual shopping basket, a collection of skills aimed at making domestic life easy. They were made up of a handful of skills for cleaning, massaging, and generally translating small amounts of mana into a basic but useful task, all for a fairly reasonable price. They had been pushing themselves hard for years now, and they all deserved a taste of the finer things in life.
+
+Also, if she had to watch Matt manually manipulating water and soap to clean the floors one more time, she would drag him to the nearest skill vendor herself so he could get the proper tool for the job. They had too much money not to pay for small luxuries. With that in mind, she put some wheels of good cheese, wine, tea, and coffee into her basket before finalizing the purchase and moving to the next area, casting only a brief glance at two Sect men, one in pure white robes and the other in a red and gold outfit, locked in a shouting match about their ‘honor’ and respective families.
+
+In the enchanting area, the number of databases for sale was staggering, covering fields as disparate as civil engineering and veterinary care. She added a number of Tier 15 and under rune catalogs to her slate of things to get for Matt, but her attention was drawn to some of the Sect modification scrolls that somehow hadn’t been bought out by the Sects themselves. That was quite the find, and she homed in on a scroll for modifying [Analyze] before bringing it up to the merchant with the cybernetic eyes.
+
+April listened patiently as the woman talked about how the scroll would describe how to modify [Analyze] into an enchanting workhorse, giving incredible detail on the mana flows within an object, but she had to prevent herself from cackling as the merchant continued on to say how the first stage of the modification would drastically increase the maximum cost to nearly nine thousand mana per use. Yes, for a normal enchanter, that was quite the drawback, but she happened to know someone who wouldn’t mind that tradeoff. Keeping her face steady, she haggled the woman down to throwing in a few enchanting skills at a discounted price to make up for the shortcomings of the skill modification, before finalizing the deal and walking out feeling like a bandit.
+
+Her next few stops were uneventful, and she was able to translate a portion of her remaining credits into a variety of skills and tools for potions, cooking, and resource collection. Nothing terribly exciting, but the suite of skills would give them a better basis for taking their crafts to the next level.
+
+With that taken care of, April made her way to the main auction room. Unlike most of the auxiliary auction rooms, which she’d been visiting throughout her time at the moon, this one was reserved for the biggest-ticket items, was held once every three months, and always had the best stuff. Fortunately, most of her auctioned items had either already sold or were slated to appear during this auction.
+
+That latter data point earned a smile from her, and she opened up the ‘Review Me’ page of the auctioneer she’d hired and gave him a five-pointed star. She had plenty of money, and most of her shopping was already done.
+
+If there was anything excellent for her charges, she’d be able to afford it.
+
+She settled into the auction floor, finding a booth towards the middle of the rows of chairs. Strolling onto the stage was a man wearing a shiny silver bodysuit with the MinkallAuctions logo on each arm and on his chest, like some kind of parody of the Guild woman seated next to her.
+
+“Goooood evening, ladies and gentlemen, noble beasts and mighty dwarves! I am Erik Voltax, and I will be your presenter and auctioneer for this auction, brought you by MinkallAuctions: your one stop shop for the grandest treasures the Forge has to offer! We have a wonderful selection of items for you this month, courtesy of the first waves of delvers emerging victorious from the depths of Minkalla! If you haven’t already been able to download the bulletin for today’s auction, please see an attendant! They will be happy to help you with any problems you may have. As always, we ask that you restrict your sphere of awareness to just your booths. A full, detailed breakdown for every item on sale is linked through your bulletin, and if you have any concerns about the veracity of the items you purchase here today, please contact the customer support line, whose contact information may also be found in the bulletin. And just as a reminder, all bids are final and you will be expected to settle your bill before leaving. As a courtesy notice, our lovely neighbors are often surprised at the conversion rates we offer for foreign currency, and we encourage you to check them and ensure you possess sufficient Corporation Credits before placing your bid. For more details, see our customer disclaimer which can, once again, be found linked to the auction bulletin.”
+
+With a clap, the lights around them cut off- pure showmanship, as anyone here and with the funds to buy anything would be able to see in the dark as though it were bright sunlight- and spotlights illuminated the stage as a podium rose from the ground.
+
+“We will begin our auction tonight with a Tier 14 void bracer, capable of sending out a Void Bubble Shield, currently cataloged as [Bubble Shield NM8-FF-CVZ1079]. It’s mana hungry, but serves as a nigh-impenetrable shield around the caster. Bidding will begin at one megacredit. Perfect if you have a loved one thinking about heading into Minkalla in the near future.”
+
+It wasn’t useful to her, so April leaned back and watched the opening bids fly. Nothing appealed to her that much in this first wave of items, as they were all Tier 14 items primarily aimed at incoming teams trying to get the best gear they could before entering Minkalla, but it was still useful to gauge the mood of the crowd.
+
+It didn’t take long before her first item for sale here appeared onstage, a Tier 14 mace with an extension enchantment on the haft that could extend out to a full seven meters, and an enchantment that empowered any metal-aspected skills cast through the weapon by thirty percent, or twice that if they were also delivered by the weapon.
+
+She had other items that came through and were sold, each adding a tidy sum to her credit account, but it wasn’t until the natural treasures started coming out that she really started paying attention again. The first item on the docket was certainly starting off strong, and sent murmurs through the crowd despite the muffling enchantments liberally lining the booths.
+
+A Leaf of Eternity.
+
+The natural treasure was one that could grant the digester an extra two thousand years of lifespan, and represented a chance for many of the Desperates to avoid Minkalla altogether by outright tripling their lifespan.
+
+The bids eventually settled on a truly astronomical number, well beyond her total proceeds thus far. Her own natural treasures didn’t sell for nearly as much when they came up, though the Deep Prismatic Agate was a clear forerunner in that respect. It single handedly managed to cover the cost of any two or even three of the natural treasures she’d bought earlier.
+
+Eventually, the growth items took the stage. There were a couple clearly from Minkalla, sitting at Tier 14 already, but most were imports from outside the system, as seen by their lower starting Tiers. They were ready for bonding to either rich delvers who just exited, or rich delvers who wanted to place a finger on the scales of fate, and choose at least one item they could take into the depths with them.
+
+The first promising item was a chain mail shirt that increased the power of all elemental transformation skills- [Body], [Form], and [Spirit]- and while the price swiftly grew past what April was willing to pay, now she was on the hunt.
+
+A growth shield that could be mentally controlled as though affected by an animation spell caught April’s eye, and she put in a few eager bids before calming herself. Liz had used a shield towards the end of Minkalla, yes, but that was in large part due to her missing arm, and April didn’t want to affect the girl’s fighting style in such a dramatic way as to introduce an entirely new tool to her arsenal. Fortunately, she was quickly outbid by a green-bearded dwarf and so didn’t need to deal with Luna’s displeasure at bringing back an ill-suited growth item.
+
+She could have justified the item at the bargain bin price, but not anything above that.
+
+A torch that could freeze fire spells cast through it to form the head of a mace caught her eye, as did an icicle-wand which drastically increased the control the caster had of a skill post-usage. A growth pendant which improved all bloodline powers sparked an incredibly fierce bidding war, until it was eventually won by a dragon five rows in front of April after he tripled the latest bid alongside a show of force.
+
+He’d flared his presence for a brief moment, showing off his Tier 40 status as he raised his bid, blatantly breaking the rules of the auction. Despite Erik giving an extra-long opportunity for anyone to outbid the dragon, none took up the offer, and the dragon won his prize, much to the obvious displeasure of the crowd. April could practically feel the smug aura the dragon was exuding, even as a pair of Tier 42 guards showed up to escort him out. He’d received the item, but April couldn’t help but wonder if he’d still be smiling after he paid whatever fines were levied against him, and he’d learned how long the ban from the Corporations would last.
+
+Judging by his attitude, he might not even care.
+
+That had led to some discontented muttering from the crowd as well, leaving a bit of a darkened mood across the auction hall. It also prompted a couple other high Tier 30s and low Tier 40s to try their luck as well, but they made the mistake of not also raising the bid by an incredible amount, and wound up being escorted out the moment the bid was raised again. In one notable instance, they didn’t even wait for the bid to be re-raised, instead force-marching the loudly complaining Guild man out the door, ignoring his shouts about how they ‘hadn’t seen the last of Doctor Impossible (the second)!’
+
+That raised everyone’s mood a couple notches.
+
+Then, she saw her prize. It was a staff, long and largely unadorned, made of some unidentified dark wood. It enabled the caster to control any of the four level one elements- Fire, Water, Earth, and Air- with any manipulation skill the caster had, even those of higher-level elements. It would be relatively easy to get a Talented crafter to affix a spearhead to it, and while the spearhead wouldn’t be growth, the staff’s effect would.
+
+Even some kinesis skills would work if the original and resulting elements were similar enough. The example given was utilizing metal skills with earth affinity, but April already knew what it would be perfect for. It would allow Liz to control water or even air with all of her blood skills, utilizing her masterful kinesis abilities on a substantially more abundant element: something very important now that she’d lost her glove and accompanying blood reservoir.
+
+On top of that, it would empower Torch a truly incredible amount, giving Liz a substantial boost compared to using [Fire Manipulation] in her outer spirit. Granted, between the lack of the young phoenix’s bloodline not properly applying to [Blood Manipulation], even if it was controlling fire, and the inherent inefficiency to the staff, it would ‘only’ be more of a two to three times multiplier all told. But it was still an incredible boost to her versatility. Even if she didn’t want it, and chose to delve exclusively into blood magic, Aster and even Matt could benefit from the incredible versatility the staff offered. It would transform an elemental specialist into an omnielemental specialist, and that was no mean feat, particularly as they began building their Intents.
+
+Bidding was fierce, as she expected, but April had money to spare, as the mountain of loot her kids had brought out of Minkalla translated into pure credits. Even as the price rose, and rose, and rose, she matched and outbid every other contender. The Sect woman in multicolored robes, the red dragon in golden Clan armor, the stern-looking woman in Federation military garb, they all challenged her and lost.
+
+It might have been the kids' money she was spending, but she felt invigorated by her victory.
+
+Still, it took nearly everything she had left, with only enough for a Tier 20 skill and two Tier 8 skills with her spare change, to be exchanged on the Empire market for contribution points, but she had won.
+
+Now, she just needed to return to Luna and see if she had passed this test.

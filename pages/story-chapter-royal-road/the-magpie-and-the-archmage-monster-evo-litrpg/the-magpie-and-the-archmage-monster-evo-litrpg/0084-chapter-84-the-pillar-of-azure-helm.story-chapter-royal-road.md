@@ -1,0 +1,203 @@
+---
+id: 1c73ad72-7288-523e-85a7-8d05985e7e5b
+page-type-slug: story-chapter-royal-road
+title: "Chapter 84 – The Pillar of Azure Helm"
+slug: 0084-chapter-84-the-pillar-of-azure-helm
+partOf: the-magpie-and-the-archmage-monster-evo-litrpg
+position: 84
+ownLength: 1971
+unit: words
+publishedAt: 2026-02-13
+link: "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3049204/chapter-84-the-pillar-of-azure-helm"
+royalRoadId: "3049204"
+---
+
+Liora and Cee looked at the arriving expedition from a safe distance, hidden in the shadows of a side street. Frankly, Liora felt somewhat disappointed. When Renir spoke of these Pillars, she expected something of a king or queen, dressed in amazing clothes and having a presence of some sort.
+
+Well, okay, Morgana certainly had a presence as she yelled at her subordinates to keep moving while kicking a stray glass bottle out of the way, making it smash against a nearby wall and shatter into a thousand little shards. That was something a local scoundrel would not do as a ruler.
+
+This is the so-called Pillar? Renir, I'm not impressed in the slightest.
+
+Pillars are the people who are the absolute best in their field, and there is nobody better than Morgana when it comes to sea, marine combat, and the like.
+
+But she's so…
+
+Yeah, I know.
+
+Are you sure she can deal with it?
+
+No.
+
+No?
+
+If the monster they are dealing with is indeed a shapeshifter, then I'm pretty sure that it will outsmart her.
+
+Renir!
+
+What? It's not like I can do anything about it.
+
+"What's wrong, Liora?" Cee asked in a whisper.
+
+"Renir doesn't believe this Morgana can deal with the monster if it's a shapeshifter," Liora replied just as quietly.
+
+Cee took a long look at Morgana and the other adventurers with her. They certainly looked strong, but it wasn't that previous adventurers on the expeditions had looked particularly weak.
+
+"So what do we do?" Cee asked.
+
+"I'm going to show them the holy magic powers once these guys understand the situation a bit better," Liora said.
+
+They followed the adventurers and Morgana to the Adventurers Guild, Liora following from the air while Cee sneaked her way through the shadows. Liora was grateful to have such a reliably sneaky companion. Recalling Damien and his inability to avoid the noisy, crunchy pinecones made her feathers shudder.
+
+The group went into the Guild, remained there for about an hour, then headed towards the port. Liora was surprised that they were going so quickly. Far too quickly. Didn't they need to rest after traveling to recover their strength? Or ask around to figure out what the monster was like?
+
+Morgana…
+
+Renir let out a mental groan.
+
+What?
+
+She's just going to head straight to the monster without asking around or anything. The woman always believed that if she shot things enough times, it would solve all her problems.
+
+I mean… Most of the time, it certainly would.
+
+After all, things that were shot couldn't oppose others very much.
+
+Even you're not this reckless.
+
+Hey, I'm not reckless at all. I always weigh my advantages and only fight enemies I know I can defeat. Unless a certain someone pushes me to do the opposite.
+
+Unless shiny things are involved.
+
+Liora couldn't deny that. But in this case, there was nothing shiny involved. So there was no need to risk her own skin.
+
+Alright, we'll have to rush with the plan, but I think it'll work just fine anyway.
+
+Liora flew ahead to the harbor, picking one of the warehouses the expedition group was likely to pass by. Cee had managed to keep up with her thanks to her amazing jumping skills.
+
+"They sure are rushing. I think it's either now or never," Cee said.
+
+"I agree. Let me do it," Liora jumped to the edge of the roof and took her large form.
+
+Slow and steady. Don't release too much mana at once.
+
+Liora acknowledged Renir with a nod and then focused on combining Wind Blast with Purify. Once again, she noticed how the large amount of mana was drained from her, making her feel a bit queasy. But just as the first time, she persisted and kept a strong hold on the mana while focusing on using both skills at once.
+
+[You've successfully formed a skill <Winds of Purification>.]
+
+She flapped her wings, and powerful winds filled with shimmering light spread all through the port. It was far larger than the one she had used on the badger, which surprised her at first. Then she realized that she had since evolved and become much stronger.
+
+The adventurers gasped in awe as the previously fog-ridden port was now clear, soft shimmering light descending down on the ground. The air instantly felt so much clearer for the first time in a week, and Liora dared to take a deep breath of fresh air. As soon as she Faded, Cee Shadow Walked away from the rooftop.
+
+They had no intention of exposing themselves.
+
+"What the hell just happened?" One of the adventurers gasped in surprise.
+
+"Part of the fog just vanished," another one said.
+
+"Who the hell did that?!" Morgana yelled, her voice surprisingly deep for a woman. Liora wouldn't exactly call it a man's voice; it was too high for that. But at the same time, it was deeper than most would attribute to a woman.
+
+She grabbed one of her pistols and shot a bullet, which appeared to be made out of pure electricity. It whizzed by so quickly that if Liora had blinked, she would have missed it. But obviously, Liora and Cee were gone from the rooftop, so the bullet just harmlessly dissipated in the air.
+
+Are those magic bullets?
+
+Yeah. Morgana's specialty. It's how she's so successful. She's able to switch them to the right element after identifying the opponent's weakness.
+
+Oh, good. Then she must have a holy bullet, too.
+
+Silence.
+
+Renir?
+
+No…
+
+Liora didn't lose hope. The adventurers were riled up searching for the source of the spell, but obviously, they would never find it. Liora and Cee were just too sneaky by human standards. They just casually watched them scream and search the warehouse, demanding the guilty party to appear.
+
+They kept at it for quite some time actually, really trying to get to the bottom of it. But eventually they gave up. Liora was sure that they would now return to the Guild and request a mage specializing in holy magic to help.
+
+"Curses! We don't have time for this nonsense. Everyone, to the ship!" Morgana commanded.
+
+"What?!" Liora and Cee exclaimed in unison. Then, they hurriedly moved to a different building when a few heads turned their way.
+
+"Didn't they see the obvious holy magic display? Do they not know it is holy magic?" Cee asked in an agitated voice.
+
+Morgana isn't that stupid. She certainly knows how to tell holy magic apart.
+
+Then why isn't she going to get a mage?! Do they have one among them?
+
+Not a holy mage, I suspect.
+
+Then?!
+
+I had a feeling it would go this way, although I hoped it wouldn't. Morgana believes that she doesn't need holy magic to defeat the monster.
+
+Liora hurriedly repeated Renir's words to Cee.
+
+"But why?" Cee asked in outrage.
+
+Yeah, why? You said she fights by exploiting weaknesses.
+
+Yes, but she also believes that she has everything she needs. The dummy thinks she can defeat anything if she is persistent enough.
+
+Liora wanted to scream from frustration. Why couldn't they have sent someone smarter to deal with this huge problem? This is a big port city. They should care more.
+
+I need to get out of this gem as soon as possible. The moment I got trapped, everything went to complete shitter.
+
+Yeah, you better fix this. Your colleagues are horrible.
+
+For a moment, Liora and Cee just stared, hoping that perhaps Morgana would come to senses and turn around. But obviously, she did no such thing, no matter how much Liora prayed in her mind.
+
+She and her crew got on one of the nicer ships in the harbor and prepared it to set sail.
+
+"Okay, we tried our best. Time to get out of here and get to the next city. How far was it again?" Cee said, lifting her front legs in a shrugging motion.
+
+This will be a pain… The next big city closest to here is twice as far as Cyene. Even while flying, it'll take us a long while to get there. Not to mention that winter is almost here, which makes finding food in the wilderness all the more difficult for you two. Can't stock up in Abylport either.
+
+Worst of all, the dungeon in that city is way above your level. The only way you could safely level up would be by snatching quests from the Guild. Even then, the number of suitable quests would be minuscule.
+
+"Renir says that the next city is very far and the monsters there are way above our level," Liora repeated in a half-daze.
+
+This didn't feel right. Just abandoning a whole city. Let it forever sit in corruption. There could still be a chance that Morgana could defeat the source of the corruption.
+
+But then Liora realized that, no, not really. Not without holy magic. Even if by some chance this woman was strong enough to defeat a monster powered up by corruption, she couldn't purify it. It didn't even seem like she cared.
+
+"I guess we'll have to train somewhere along the way. Maybe the marsh? As much as I loathe to suggest it," Cee said.
+
+The best way to get stronger would be back in Cyene dungeon, but that would take forever. We would never get a Resonance Crystal at that pace.
+
+"We're going with them," Liora suddenly announced.
+
+"What?!" Cee screeched, a spidery hiss escaping with her scream.
+
+Yeah, I figured you would.
+
+Renir wasn't surprised in the slightest, apparently having accepted it as an inevitability.
+
+"They need holy magic to purge the corruption. I…I can't just allow the whole city to remain like this," Liora reasoned.
+
+"This is something professionals should do, not monsters. If you had forgotten, if they see us doing our monstrous things, those adventurers would turn their weapons on us. I don't know about you, but I don't want to be shot," Cee argued frantically.
+
+"But this is the whole city we're talking about. Besides, if we fix the corruption, the people will return, trade will resume, and we'll be able to get what we need without travelling half the country."
+
+"That could take ages. And that's assuming we actually managed to remove the corruption. What if—"
+
+"Listen, we don't even have to do much fighting. Let the adventurers deal with that. All we're going to do is swoop in, launch Winds of Purification, and get out!"
+
+"You said we would do that now," Cee countered.
+
+"Yes, but I didn't expect the Pillar of Azure Helm to be recklessly stupid," Liora shot back.
+
+"But Liora!" Cee whined, then poked her angrily. "What does Renir think? And don't you dare to lie to me."
+
+Renir?
+
+Your Winds of Purification are quite powerful. You've already purified a half-corrupted monster with it, bringing it back to its senses. Not to mention that it has clearly gotten stronger since your evolution. I say we at least give it a try. I don't want to leave Abylport in this state either.
+
+Liora reiterated his thoughts word for word. Cee moved all eight of her legs in tandem, throwing a mild tantrum.
+
+"No, no… That sounds so dangerous…" Cee whined.
+
+"We can always get out if things get too bad. Remember that I can fly," Liora assured.
+
+Cee didn't look relieved at the slightest, but eventually let out a sigh of resignation. "Fine, fine. But if something goes wrong, don't say I didn't try to talk you out of this."
+
+Liora nodded, then turned into her large form so she could carry Cee on her back. Cee once again made a safe cocoon on her back and hid inside. Once the ship left the harbor, Liora followed it from above, its passengers none the wiser about her presence.

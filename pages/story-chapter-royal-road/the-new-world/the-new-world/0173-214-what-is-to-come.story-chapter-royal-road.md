@@ -1,0 +1,155 @@
+---
+id: 197f6614-04e2-5a17-92bb-a6a46109112e
+page-type-slug: story-chapter-royal-road
+title: "214 What Is to Come"
+slug: 0173-214-what-is-to-come
+partOf: the-new-world
+position: 173
+ownLength: 2669
+unit: words
+ownProgress: 2669
+publishedAt: 2019-07-05
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/378898/214-what-is-to-come"
+royalRoadId: "378898"
+markedReadAt: "2026-06-29T21:26:48.435Z"
+---
+
+I clamped my jaws downward, but before the jagged teeth of my armor separated flesh and bone, a wave hit my mind. A sharp, harsh slice split my mind, tearing into my thoughts. The fiery burn exploded in my head like dipping a wound in salt. It stunned me, loosening my grip on Thisbey.
+
+The slimeball crawled out of my grasp before scrambling away. I blinked attempting to mold Event Horizon over Thisbey. Several forces berated my mind all at once, a fire erupting throughout every cell of my body. They wrestled for control of my entire being, my ability to function crumpling.
+
+Unable to fight off the Hybrids and the mental attacks, I retreated into a corner of my mind, regrouping and restructuring my sense of self. As I looked forward, Thisbey heaved for breath. He wiped the cold sweat from his forehead,
+
+"Did you honestly believe that I'd fight you with just a few brutes?"
+
+I growled, but words didn't leave my mouth. The cessation of control was mounting as if I fought an army of wills all my own. I fought back, blasting raw, unshaped mana back at the assailants. The tethers connecting our minds wobbled but held firm.
+
+From around me, my armor stopped growing into the Hybrids as they drilled into my bones. Event Horizon's reach rippled, their influence interfering with my ability to function. The Hybrid's overwhelmed me, devouring my body.
+
+Thisbey scoffed, "You might find me lacking in any kind of combat, but you won't find my allies lacking."
+
+Matrices of metal crawled over my vision, their wires stretching over my eyes. Blood seeped into my mouth and out of my eyes, blurring my already blocked sight. I took a deep breath, my lungs filling with the stench of silver's blood and iron. I made one last push of raw mana against the assailing minds.
+
+Skill unlocked! Mental Defense(lvl 10) - Others defend their home and their body. You defend that which matters most: your spirit. +10% to mental defenses.
+
+Several of the mental tethers snapped. Even if I knew nothing about mental magic, my mana was a potent tool all its own. Just as it made Althea jittery and ready to kill, it would do the same to my attackers.
+
+To my knowledge, that wasn't the best mentality for mind magic. Just a guess.
+
+As my grip over my mind expanded, I acted. Tearing through wires, I grabbed two Hybrid's heads and smashed them together. Event Horizon stabilized over the group once more, sending the Hybrids back into a state of panic. My mountain of willpower kicked into high gear, giving me the ground I needed.
+
+As more mental tethers ruptured, I stopped breaking them. I reached across the links, slamming my mind into theirs by launching an enormous blot of mana at them. Unyielding and prepared, a group of souls met my assault like a brick wall. Unable to advance, I swung my arms, smashing my fists into the nearby Hybrids around me. My armor pierced into the wiry masses as well, feeding me the health I needed.
+
+The mass of minds sent out another blitz against my thoughts. I met their charge, and they crashed through me. My retaliation slowed their onslaught, allowing me to hold onto my core functions. Before they attempted another devastating attack, I sent out another mental barrage. The random, disjointed attack did little against them. It was like a child swinging his arms in a frantic rush to defend himself.
+
+It was enough.
+
+Skill Unlocked! Mental Bombardment(lvl 10) - Many would crawl into another's mind. You collide without restraint, overwhelming with raw will. +10% to effect of basic mental attacks.
+
+The Impenetrable wall they composed trembled, but my attack did not even leave a crack on its surface. It lessened their attack, however. Without being able to go all out in their mental assaults, the pressure decreased on me, restoring even more control. After one more blast, they disconnected entirely, leaving no more mental tethers.
+
+Without the restraints on me, I jerked myself away from the Hybrids towards Thisbey. The espen turned and ran, cursing under his breath, "These damn remnants are useless. To think a dozen of them can't overwhelm one big ape."
+
+After dislodging myself from the Hybrids, another cord of metal wrapped around my leg. I tripped, falling forward. As the orichalcum dented beneath me, Thisbey ran towards Althea's containment field. As I glanced up at him, a bolt of bone drilled straight through his head and out the back of his body.
+
+Arcane bolts of violet lightning rippled across the nearby machinery, disintegrating it at an atomic level. A gaping hole the size of a softball clapped against the green tinted floor, blood splashing onto the ground. From above, Althea aimed her reformed arm at the Hybrids, ripping out a series of five shots.
+
+They landed flush through their chests, the arcane spikes searing through their flesh. I expanded my armor and condensed Event Horizon over them, the Hybrids struggling against me. The piercing headache ceased as mental tethers snapped in an instant. As they did, Althea howled out in agony.
+
+Without the mental tethers connecting me and the mind mages, I turned towards the Hybrids, raising my fists. I couldn't help Althea with physical fighting, but getting rid of these Hybrids might make her job more manageable. As I turned to them, they flailed their wiry arms like windmills. I weaved between the rain of strikes, bolting blows through them with precision and deadly intention.
+
+Without my magic, my blows lacked their usual devastation, crippling them momentarily. Althea's screams fed my growing sense of desperation, my attacks throwing caution to the wind. I tore through the masses of wires and orange sacks. I chomped into their flesh, feasting on their bodies. They drenched me in their orange blood, their life force sustaining me.
+
+Minutes passed as I killed two of the Hybrids. Three more crashed through the doorway sealing us inside Althea's containment unit. I roared, "I don't have time for this."
+
+I turned back to Althea and Thisbey's body, but my eyes widened in surprise. Thisbey's body was gone. I facepalmed before a Hybrid slammed his fist into my side. I smashed my fist into the edge of its jaw before rearing my head back and slamming it into the creature's skull. It gushed out, the orange sack within splattering like an egg under an anvil.
+
+Thisbey had used his revive from the luck perk. It was just like the fight with the Breakers against Yawm. Yawm had to kill everyone twice to win. He was still alive.
+
+I didn't have time to dwell on my mishap, however. I grabbed the shoulders of the headless Hybrid and bit into the thing's chest. Tearing through wires and orange pumps, the creature gurgled in agony as its brethren reached me.
+
+Taking a page from Yawm, I picked up the headless Hybrid by its leg and swung it at the reinforcements. A titan among men, I stood several feet over them as I quashed them with a corpse. With the Hybrids unable to withstand my full might, I crippled two more of them and killed another.
+
+As I stepped onto the rough approximation of a skull, the mental attacks returned in force. Ready and waiting, I met their assault with a mental wall of my own. I kited backward, keeping the approaching Hybrid at bay while focusing on psychological warfare. While I couldn't create a tether of my own, I could use their own tethers against them.
+
+With their minds split between Althea and me, I bashed the raw might of my mind against them. While inexperienced, my sheer willpower and mana reserves made the crushing blows against their mental defensives effective. Without being able to suppress Althea in her entirety, she ceased her screams and stood.
+
+With bloodshot eyes, she heaved for breath before groaning out,
+
+"I...I'll kill...Thisbey."
+
+I shouted, "Go. Kill him."
+
+She leaped from her containment unit, shattering the glass confines. Speeding like a bullet, she dashed towards the Hybrids blocking the doorway out. As she did, I charged forward into the room full of prison cells. At the same time, I launched another mental assault. Their attention divided, the incoming Hybrids scrambled without any true concentration. Likewise, our mental assailants didn't manage to block me and cripple Althea at the same time.
+
+Althea disappeared into the facility, the screaming of scientists echoing into the prison cells. The Hybrids turned to them, attempting to defend their creators. Before they could do so, I reached the center of the mob, using Event Horizon over the crowd.
+
+They turned to me and attacked. Surrounded on all sides by a mass of deformed monsters, I lashed out with abandon. They tore and gashed through my body, their attacks many. My endless vitality sustained me, their health-enhancing my regeneration further. An army of one, I ripped and tore through the Hybrids around me.
+
+In the other room, the splashing of blood and the crunching of bone resounded into my ears like a symphony of carnage. The fervor of battle consumed me, all becoming a shifting blur of destruction and death. A reaper of machinery, I pulped the Hybrids into a mound of orange wires beneath me.
+
+Their abundance fed my health, giving me enormous regeneration. No matter the number, the Hybrids could not outdo my restoration. I culled them from this plane. I left them a mess of blood and bodies. As the mound piled beneath me, my armor crawled out like a growing shadow, darkening the room.
+
+Althea did worse, enacting slaughter in the next room. Ignoring any Hybrids, she dashed throughout the facility. Fast as a bullet, she ran through the bodies of researchers. Her arcane magic left the scent of singing flesh enter my room. Leaving clean, angular sliced chunks of people behind her, she was a surgeon of death.
+
+Within half an hour, the entire facility quieted. I absorbed the mass of dead Hybrids while Althea searched out every living thing in this base. Not even the Harvesters were left alive as I returned to Althea's containment unit. I pulled the blue dungeon core from above Althea's containment, soaking in energy. Waves of white energy consolidated into my frame as I reconnected this place with Schema's system.
+
+After destroying the rift, I sent a message to the Overseer about the new facility and the attack on Rivaria. Before searching deeper into the facility, I hunted for the mind mages. They must have been outside of the facility, allowing them to perform the mind magic. If they were still here, killing them would be a massive boon for our efforts.
+
+I tore through the orichalcum floor, sheering it away with raw strength. I burrowed through the ground around the headquarters, using a periodic burst of mana to speed myself along. After leaving the mana restricting zone, my channeling returned to full force. I could even generate gravity wells within the facility from the outside.
+
+That's how they intended on killing us. Using the remnants with mind magic, they intended on pinning us down before mauling us to death with Hybrids. Even if I was strong, I wasn't supposed to be able to brawl it out with those abominations.
+
+They didn't predict my willpower being so high, and they also didn't know they extent of my armor's virulence. As for being able to connect using the mind magic, I didn't understand how that worked exactly. If I had to guess, the anti-magic area prevented me from forming and manipulating my mana.
+
+If that was the case, there tethers acted as pipelines that guided my mana in place of me. Even if I couldn't make my mana shape properly, I could still make it blast down those pipelines. The tethers did the rest, making them take the raw brunt of my mind and mana. I'd need some reference and research in the topic if I wanted a better understanding then that.
+
+In fact, mind magic might be potent for me considering how high my willpower stat was. I tucked those thoughts into the back of my mind as I drilled through the rock around the base. Using the vibrations off my armor, I gained an idea of my surroundings based on the reverberating sounds. I discovered a room above Althea's holding chamber.
+
+After bursting through the metal confines, I found a small area covered in runic work. The enchantments enhanced mental magics and deterred detection. Empty mana potion bottles littered the floor along with a few singe marks. Considering there was no entrance outside of the one I just made, someone warped them in and out of this place.
+
+Whoever warped them might have teleported Thisbey from the area as well, though that wasn't guaranteed. Considering how unstable he was, he might be outliving his usefulness for this shadow group at this point. I didn't have enough information to tell though, so I didn't cross his death out just yet.
+
+With that lead gone, I smashed my way back into the facility, finding the Overseer standing beside terminals. Running beside him, a group of guildsmen Speakers and technical workers ran about. They grafted cables and used various devices to infer the state of the place. At the same time, two giants nearly the size of the Overseer walked about, clearing the facilities anti-magic runes.
+
+Watching the activity, the Overseer held his head up with a heavy hand. I walked up, Althea standing beside him and covered in blood. She dragged three scientists behind her, wrapped up in torn orichalcum from the walls. I grinned,
+
+"Looks like you got them all."
+
+Althea frowned, "I missed Thisbey. He escaped through the elevator while two Hybrids stalled me."
+
+I raised an eyebrow and crossed my arms, "I doubt he has the means to survive on the surface without guards."
+
+Althea glanced down and to her side, "I don't know about that."
+
+The Overseer sighed, "So the scale of this operation expands further...to think this level of mutiny continues under our noses" The Overseer banged his fingers against his helmet, the pang louder than a sledgehammer on an anvil,
+
+"We. Will. Kill. Them."
+
+The Overseer looked up before glancing up at me, "It seems as though you've been busy as of late."
+
+"I have been. So has she," I said while pointing to Althea.
+
+Soaked in blood, Althea gave me a thumbs up. That was my little devil.
+
+"I can see that," the Overseer said. "Now there is the matter of killing Thisbey and Tohtella whom you both failed to destroy."
+
+I rolled my eyes, "Sorry I couldn't do your job better. My bad."
+
+A few Speakers stared at me, stunned I spoke to the Overseer like that. The Overseer crossed his arms, "Manage multiple armies worth of classers and speak with me of my inadequacies."
+
+I turned towards Rivaria, "I'm working on it. In fact, I have to go keep the army I'm making. Something big is coming to Rivaria."
+
+The Overseer opened his red status, "There is an enormous energy signature over Rivaria..."
+
+The Overseer took a step back, "It...it appears larger than a spatial fortress."
+
+I narrowed my eyes, "Wait...spatial fortress?"
+
+The Overseer shook his head, "A piece of Schema's galactic forces. It's one of the stronger warships at his disposal, and it's used to combat threats that are solar system-wide in nature. The issue is that this thing dwarfs one."
+
+I turned to Althea, "We have to go."
+
+She gave me a nod before a message appeared in my inbox. It was the quick, short kind of message you send out in the heat of battle. As I finished reading the words on my screen, my blood ran cold.
+
+Helios, Ruler of Worlds(lvl 15,000 | Guild: The Empire | Ownership: Belka-623(planet), Meliton(planet) | Class: Fringe Walker | Titles: Winter's Wrath, Cold of the Void) - Cannot contain the threat. Need help.

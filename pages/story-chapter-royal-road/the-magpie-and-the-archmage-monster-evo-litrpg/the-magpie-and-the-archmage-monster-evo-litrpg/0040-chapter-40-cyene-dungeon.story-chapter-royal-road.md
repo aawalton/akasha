@@ -1,0 +1,219 @@
+---
+id: 9ff3ca53-580a-5a13-a3fa-8592bab0367d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 40 – Cyene Dungeon"
+slug: 0040-chapter-40-cyene-dungeon
+partOf: the-magpie-and-the-archmage-monster-evo-litrpg
+position: 40
+ownLength: 2121
+unit: words
+publishedAt: 2025-10-27
+link: "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2707937/chapter-40-cyene-dungeon"
+royalRoadId: "2707937"
+---
+
+Liora couldn't help but glare at the guards. Serena, Kalen, and Kiva didn't react to their dark expression, or perhaps they just didn't notice them.
+
+Why is everyone acting as if we're already dead?
+
+Your friends have shoddy equipment, no health potions, and barely any experience fighting monsters. Statistically speaking, newbie adventurers like that don't make it out alive.
+
+What?! Then why aren't there regulations or something to make sure people don't throw their lives away?
+
+Never thought that you'd be one supporting regulations. But I get your point. Realistically, young adventurers first go through rigorous training in the academy and get good equipment to protect themselves.
+
+"Good luck, lads. Here's your map. You've taken a quest, right?" The guard asked.
+
+"Yes. We're supposed to head to Area G," Serena said.
+
+"Kobolds, huh? Be very careful, and don't forget—there is no such thing as a lone kobold," he said sternly.
+
+All three of them nodded and proceeded towards the entrance. Liora could feel the moment they passed the dungeon threshold—it was like gentle mist had washed over her feathers. But just as they headed deeper in, she heard the guards mutter among themselves.
+
+"I hope this group does better than the last one."
+
+"Were they ever found?"
+
+"No…"
+
+Liora felt a cold chill run through her feathers. If a group of adventurers had already disappeared here, then why just let anyone waltz in here?
+
+Ugh! Humans! If somebody has already gone missing, then close the damned dungeon.
+
+What are you all riled up about? If they closed the dungeon, we wouldn't be able to get the Pulse Stone.
+
+Then let in more experienced people. I'm sure I could deal with a few kobolds, but I can always just Fade and fly away if things get dangerous. These guys can't do that. Guards should be more selective about who they let in.
+
+But think about it through Serena's and Kalen's perspectives. If they couldn't go into the dungeon, they wouldn't be able to earn any money.
+
+What's the point of money if they are dead? Shiny stuff is only good if you're alive to admire it.
+
+Their inner bickering stopped as they finally reached the real dungeon. Describing it as an underground maze was an insult. Instead of narrow cave corridors that Liora expected to trudge through, they stood before a gigantic underground cavern with a high ceiling where colorful stalactites hung, several larger ones emitting a light glow. The bottom was a maze of pathways that led into different tunnels.
+
+Liora imagined that this would be a human's nightmare. There was no way to know where each path led, not to mention all the levels. Liora could count about eight different ones, each with at least five paths. They probably couldn't even see the whole scale of it because of the poor lighting.
+
+"What the hell?!" Kiva exclaimed in horror. "How are we supposed to navigate through this nightmare?"
+
+"Don't worry, Kiva. We were given a map," Serena said, and unfolded the map the guards had given. They all stared at it in horror.
+
+It didn't look like a map, but rather a whole atlas squeezed on a singular giant piece of paper in the tiniest possible font. The supposed entrances were marked with numbers, and there were arrows pointing from the main map to the smaller maps. Basically, it was an incomprehensible mess.
+
+"What is this?" Kiva asked, peering at it from all angles.
+
+"Sister, please tell me you understand what's going on there…" Kalen looked at Serena.
+
+Serena stared at the map for a long while. "I… It might take a while to understand where we need to go. I think this is supposed to be Area G."
+
+She pointed at one of the smaller maps to the side.
+
+"Okay… So how do we get there?" Kiva asked.
+
+Serena's eyebrows furrowed in concentration as she tried to understand, and she, along with Kalen and Kiva, went into a lengthy discussion as they tried to understand it.
+
+Ugh, this will take forever.
+
+Yeah, it took me a while to understand that map too. But I've been here so much that it's basically etched into my head now.
+
+Wait… You know where we need to go?
+
+Of course, I do! Just take that path with the blue stalactite hanging above it.
+
+Oh my God! Thank you!
+
+Liora took flight and headed straight for the path Renir had indicated.
+
+"Wait, Skye! Where are you going? It's dangerous," Serena called frantically.
+
+"Stupid bird! Get back!" Kiva yelled.
+
+"Chak-chak-chak!" Liora said. "You're the stupid one. I have a mage-map in my head!"
+
+The trio hurried after Liora frantically, calling out to her, cursing and shouting, but she ignored it all, just flying ahead to show them the right path.
+
+"Sister, we can't just blindly follow Skye. We'll get lost and die!" Kalen objected.
+
+But Selena was carefully studying the map as she followed Liora. "I think… I think Skye is leading us down the right path."
+
+"What?! How is that possible?" Kiva asked in shock.
+
+Serena rechecked the map, then nodded. "Yes, it is definitely the right path."
+
+"Do magical familiars come with some secret navigational magic?" Kalen sighed, looking suspiciously at Liora.
+
+"Chak-chak-chak!" Liora laughed. "This one does. Bow to my superiority!"
+
+It's all thanks to me, birdbrain.
+
+Hey, I did say thank you.
+
+"Do keep checking the map," Kiva noted. "I don't trust that bird. She's too smart."
+
+"I think you should be more grateful. Skye is showing us the right path, and you two are just complaining," Serena said with a huff.
+
+"Sister, no matter how much you like cute things, you shouldn't defer to the judgment of a bird," Kalen chastised.
+
+"I double-checked the map," she retorted.
+
+"Ah, whatever. Let's just go and find the stupid kobolds," Kiva groaned, pressing her ears against her head in annoyance.
+
+Liora led the way, listening to Renir's instructions while the other three followed behind, occasionally peering into the map. Once they reached the first tunnel, Liora noticed that the walls weren't exactly like those of normal caves. It was made of what looked like polished black rock. It reflected the light from the torches, making it easier to navigate.
+
+However, at the same time, it seemed clean, just like Cyene itself. There were no bugs or critters, and nothing grew on the rocks, not even moss or mushrooms. Liora's magpie instinct was telling her that this wasn't the kind of place where magpies should go.
+
+Something feels off…
+
+No, this is how all dungeons feel. An overabundance of essence gives you this strange feeling. But keep your eyes open. I think we'll be running into some monsters soon.
+
+Liora slowed her flight and peered into the distance, searching for any signs of movement. She saw some uneven crevices in the wall further ahead, but thought nothing of them. That was a mistake. When they got closer, part of the wall moved at lightning speed. Liora flew back and threw an Air Slash at the thing that came from the wall. It was a direct hit.
+
+It turned out to be a black snake with scales that looked exactly like the stony wall. It was completely unharmed by Liora's attack and merely hissed at her in agitation, its scales making it hard to discern where the snake ended and where the wall began.
+
+"What the hell is that?!" Kalen yelled.
+
+"I don't know, but don't let it hurt Skye!" Serena said and launched a fireball at the snake.
+
+It moved out of the way, effortlessly sliding up on the stone wall and hanging down from its ceiling.
+
+"It can stick to walls?" Kiva exclaimed in shock.
+
+This is bad…
+
+Oh, don't exaggerate. It's just a snake.
+
+No, Liora, that's not just a snake. That's a stone serpent–it's the same evolution tier as the rock wyrm, and completely immune to all poisons.
+
+The stone serpent let out an angry hiss, and rocks separated from the nearby cave wall and flew towards Liora and her group.
+
+Don't let it leave even a tiny scratch on you! Its poison is so potent that it can kill you even through the tiniest of wounds.
+
+Liora hastily dodged the barrage of tiny rocks, using her Aerial Agility to its maximum potential. Kiva retreated with surprising speed, moving out of the range of rocks while Serena erected a magical shield. But Kalen, despite his best efforts to dodge, got hit by one of the rocks.
+
+"Are you okay?" Serena asked nervously.
+
+"It's just a scratch!" He scoffed.
+
+No! That scratch is already enough to kill him.
+
+As if to prove Renir's thoughts, the serpent lunged straight at Kalen.
+
+The serpent lunged at Kalen at incredible speed. Liora could see that it was forming a Poison Shot in its mouth, no doubt aiming for the scratch on the boy's cheek. She flew after the serpent and Lunged at it from above, hitting the serpent on its head.
+
+It didn't do much damage—in fact, the hit felt much weaker than when she practiced it. However, it had been powerful enough to ruin the snake's aim, and the glob of poison flew past Kalen.
+
+"What the hell?! It can spew poison?" He called out in shock.
+
+"Cover your wound! It must have aimed its poison at it," Serena barked out.
+
+Kalen hurriedly covered his wound, but the snake had already chosen its target. As soon as it landed, it began slithering towards the boy. He swung his sword at it, but he had trouble seeing the black snake as it camouflaged against the equally black rocks. Apparently, humans couldn't see the gentle blue sheen on its scales that Liora could.
+
+But prompts him, Kalen didn't give up. He kept his barrage of strikes until the sword finally collided with the snake. Liora celebrated inwardly, but then saw how his sword slid off the scales and collided with the rocky tunnel floor instead.
+
+"What?!" He exclaimed in shock.
+
+Their scales are incredibly tough. Regular swords wouldn't be able to pierce it.
+
+Oh, now you tell me!
+
+It's not like you can relay that information!
+
+The snake hissed, and the rocks around them vibrated and separated to strike at them. Most of the rocks were clearly concentrated on Kalen, but this time, his sister erected a barrier around him, protecting him from the worst hits. But her shield wasn't perfect, and a few rocks did make it through, striking Kalen's arms and legs.
+
+It wouldn't be a problem if he had actual armor, but his old, rusted gear did little to stop the attacks, resulting in more injuries.
+
+Annoying snake. I'll show you!
+
+Liora flew closer to the serpent while it was preparing to lunge at Kalen again, and mimicked toad's Paralysis Croak.
+
+No, stop it, you fool!
+
+[You've successfully mimicked the skill <Paralysis Croak>.]
+
+Liora wanted to puff out her feathers proudly, but she realized her crucial mistake. Kalen was within the range of her attack and was partially paralyzed, along with the snake.
+
+"Skye… W-What did you do?" The boy whined.
+
+"Chak-chak-chak!" Liora apologized. "Sorry!"
+
+However, the snake was also paralyzed. Kiva, who had been standing a safe distance, took the opportunity. She ran forward and stabbed the snake with a dagger. It slid off just like the sword, so she switched tactics—grabbing the snake by its neck instead.
+
+It coiled angrily around her arm and began spitting poison left and right. It was too powerful for the weasel girl to hold for long, so Kiva threw it in the air, almost knocking Liora out of the air.
+
+"Caw!" She protested, dodging out of the way. It was a good thing she was so agile. A little bit of the poison did hit her feathers, but didn't reach her skin.
+
+[New poison acquired – Stone Serpent Poison.]
+
+Oh! I guess I can use this for Poison Shot now.
+
+"Sorry!" Kiva shrugged.
+
+Thrown to the ground with its belly up, the snake hissed and coiled, not quite able to get itself upright due to partial paralysis. Liora noticed then that its belly was a distinctly different color than the rest of its—the milky white color stood out like a sore thumb against the dark rock.
+
+There! A weak spot!
+
+Liora didn't have to be told that to know it. She used Air Slash on the snake before it could set itself straight. But much to her surprise, her attack barely did anything, even against the soft underbelly.
+
+What's going on? It's like my attacks don't do any damage.
+
+It must be because you're in your Magpie Disguise. It must be weakening your combat capabilities.
+
+Dammit! Then what am I even supposed to do here?

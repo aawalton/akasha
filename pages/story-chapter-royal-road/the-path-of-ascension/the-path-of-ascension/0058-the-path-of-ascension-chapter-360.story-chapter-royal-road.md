@@ -1,0 +1,365 @@
+---
+id: 55691cbb-b681-524f-bc78-2309202449c1
+page-type-slug: story-chapter-royal-road
+title: "The Path of Ascension Chapter 360"
+slug: 0058-the-path-of-ascension-chapter-360
+partOf: the-path-of-ascension
+position: 58
+ownLength: 6241
+unit: words
+ownProgress: 6241
+publishedAt: 2024-10-21
+link: "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/1861766/the-path-of-ascension-chapter-360"
+royalRoadId: "1861766"
+markedReadAt: "2026-06-29T19:19:35.005Z"
+---
+
+Chapter 360
+
+The rift was dark and oppressive, filled with smoke that caused no end of interference with Matt’s spiritual perception. There was also a pervading aura of fear, the entire area almost dreamlike in quality. He half-jokingly checked to see if Sien had followed them into the rift, but of course, she hadn’t. It all just felt a little too in theme for her favorite rift for there to be zero chance she was pulling a fast one on them.
+
+Now that they were out of the public eye, flashes of light came from his teammates as they began donning their gear and casting their buffs, feeling out the respective spells to ensure everything was working as expected.
+
+For Matt, that began with pulling his newest set of armor out of storage. Sadly, it wasn’t the hyper-awesome set of power armor that he’d used in the war, but a new set he’d commissioned for himself now that he was Tier 26. In theory, if they were to start a new war right now, he’d go back to using his power armor. But with centuries of peace for the Empire ahead of them, that wouldn’t be happening. The maintenance of the armor made it impractical to use in normal delving, and it wasn’t technically his anyway. He could push that fact if he really wanted to, but… eh. He had used others' old weapons and armor and that was only possible if the Empire had them ready to loan out.
+
+Anyway his new armor was fine. He had a deep rock obsidian breastplate that enhanced armor skills, silver nickel bracers, a gold dust helm that enhanced self-buffs, and feather walker boots that enhanced movement spells.
+
+With his armor secured, [Cracked Phantom Armor] was his next step, the blue light seeping out of his skin and hardening into a solid mana construct. He’d long since optimized the first layer of the spell well enough that he looked like some kind of abstract mannequin, with a blank face and unremarkable limbs. Atop that, the second layer of the spell pushed its way out in the form of a more typical set of Empire armor. Then Matt activated his Tier 25 Talent, and the blue mana became glittering crystal. He didn’t know exactly how the mana crystal around his joints stayed flexible enough that he could move just fine, but he was glad it worked.
+
+Talents were weird like that.
+
+The armor clinked faintly as he ran through his stretches, making sure his body was still in peak condition before he started cranking up the mana running through [Regeneration]. He’d had it running the entire time, of course, but only at a low rate. Still, there hadn’t been anything unexpected, which meant his body was working just fine. He stretched his arm out a good ten feet, flexed his hand into a bladelike shape and locked it there with the aid of his Rubberfruit, Chameleon Vine, Lockjaw Crystal, and of course, his Stygian Gossamer, making his knife-hand nearly impervious to meaningful damage.
+
+He released the minor body-morph and fired up [Archmage’s Presence]. Power erupted from Matt’s core, but was constrained by his armor to not spill out into his surroundings but it made him feel like he could crush anything put before him.
+
+Everything the spell touched was instantly magnified, and the world began to move in slow motion as his senses sharpened tenfold. His perception was so finely tuned that he could feel [Cracked Phantom Armor] redoubled in durability as subtle flows of mana shifted into more optimized patterns, then reinforced even more by [Archmages Presence] directly. At the same time the enchantments on his armor gleamed brightly as they worked overtime, and his body surged with power.
+
+As he flexed, he made sure to feed some mana to the invisible runic tattoos across his body. They might have only been Tier 25 in potency, but they’d still been made by some of the best tattooists in the Empire, and if he kept throughput low, then he shouldn’t burn them out too quickly.
+
+[Barbarian’s Hide], [Ranger’s Sight], and [Sharp Mind] were next. While their ostensibly primary effects of boosting his durability, senses, and mind cultivation were entirely subsumed by [Archmage’s Presence], those three had upgrades that Matt found useful, as they enhanced his resistance to debuffs and magic, helped him see directly through some obstructions, and further hardened him against mental effects respectively.
+
+[Flight] lifted him a few inches off the ground and Matt quickly rotated his personal gravity around him to ensure everything was working as expected, flickering his personal weight to get a sense for the respective mana costs. It wasn’t likely that anything weird would come up, but rifts could have odd effects and Matt wasn’t going to let himself be caught off-guard.
+
+Next, he started [Afterimage]. It didn’t do that much most of the time, but leaving a trail of illusionary bodies could do a decent job of drawing attention away from the rest of his team, and as their only truly dedicated tank, even minor distractions could add up. He could also hand control of the illusions off to Aster or Zack if need be, who had their own respective tricks they could pull with a bunch of illusionary Matts.
+
+With his personal buffs taken care of, Matt withdrew his trusty growth sword. He hadn’t used it in the war, but he had personally enchanted it with runes in all of its forms. Thanks to a bit of shenanigans with an [Overcharge]d [Sword Twin] and its ability to create four copies of the blade, he’d melded the best of its five forms into a single longsword that had the potency of dagger armor-piercing and the spell empowerment of a glaive, all further empowered. He swept the re-merged blade through the air, feeling out its weight and adjusting his [Archmage’s Presence] strength boost until it had the right heft to it.
+
+[Reinforce Mana] capped it all off, and to save time, he simply used [Barrage] to cast it on all of his active spells at once. For the most part, it just improved their efficiency to variable degrees, but [Cracked Phantom Armor] also got the benefit of its crystal being physically tougher. [Sword Twin] would also be physically stronger if he un-melded the blades, but he wasn’t sure if that would happen in this rift.
+
+As he continued testing of his other skills, he felt magic from Aster begin to wash over him as she cast her buffs. [Tailwind] made his limbs feel lighter, [Swift Strides] gave him the sensation of stored power in the balls of his feet, [Strike With The Wind] empowered his blade with a layer of cutting winds, and [Cracked Ice Canopy] created a bubble of ice over his armor. Around him, the air grew thick with shimmering colors, thick snowfall, fierce winds, and mana-scouring skills as she layered dozens of battlefield control spells on them. It would have been entirely impossible to see through it if she hadn’t used a particular application of skills built on [Uncertainty Principle], to make the skills seem illusionary and transparent to her allies alone.
+
+Liz signaled to him that she was ready for his buffs by landing a phoenix body on his shoulder, and he narrowed his mana regeneration aura down until it was focused exclusively on his wife. That particular trick, started by Folded Reflections decades ago, had blossomed into an incredibly potent focused buff that dramatically improved not only mana regeneration and physical capabilities, but also mana control for large-scale workings. He’d flicker around its target as needed simply as a matter of course, but Liz was his default for many reasons.
+
+Even as he noted that thought, a cavalcade of buffs landed on him from Zack. While the man wasn’t much of a support mage, he had a number of interesting and unique buffs that he could provide, though Matt wouldn’t say he was especially good at using them to their maximum.
+
+Once he felt he was in perfect sync with Liz and Aster, then he’d drill more with Zack. That might be a few centuries away, but he was immortal. He had time.
+
+To cap off his preparations, Matt directed his Domain to reinforce his defenses and activated his repulsive armor, then started feeding [Tribulation Strike] into his sword, making the blade crackle with lightning.
+
+The others finished their respective preparations a few moments later. Aster’s illusionary fox self hopped up onto the back of a lumbering ice elemental, Liz’s five human bodies broke apart from their ritual-casting circle, Allie had practically turned into a two-dimensional shadow, and Zack was surrounded by a blazing spell array, focusing his spells in ways Matt didn’t fully track. He’d heard about the spell array, as it was Zack’s favorite bit of loot from his buy-out, but this was the first time he’d seen it in action.
+
+The moment they left the safe zone near the rift entrance, they were attacked by… something. It was made out of seemingly ordinary gray smoke, though a simple golden feather launched from phoenix Liz killed the monster, which spoke of how little physical durability it had.
+
+What was more interesting was the absence of essence flooding into Liz after she killed it. Something flowed into her, but it wasn’t anything good. It was dark and smoky, like the monster themselves, and felt more like a curse to Matt. But it wasn't quite that either.
+
+Seeing Liz’s joy and everyone else's irritation, Matt didn’t worry about it and instead quipped, “Okay, I’m ready to hear how this works.”
+
+Allie cackled as she dragged Aster and her golem behind her as they flew into more of the dense dark smokey fog. “Kill!”
+
+Matt rolled his eyes at the response.
+
+Instead, he tried to spread his spiritual perception out but found his range incredibly limited. Instead of being able to cover planets, he found himself limited to a mile at most before his perception started to break down, and over the course of another mile, it completely fell apart. At their Tiers, a mile was practically nothing.
+
+The aperologist in him noted this rift must have had a lot of shadow mana influencing it, which only made him eager to explore their first Sect rift. A favorite of Sien as well, which told him the rift might have hidden depths or a more ethereal aspect.
+
+Not particularly worried about a simple rift, Matt charged up a [Breach] and then [Barrage]d it to send out three massive projectiles that cut swaths of clarity through the smoke and clouds, just wanting to get a feel for the lay of the land.
+
+It was in the small moments where the projectiles passed that Matt got a view of the actual rift they were in, and it wasn’t what he was expecting.
+
+The rightmost revealed area had been wide open fields of trees, as contradictory as that sounded. The middle shot revealed a desert of sponges filled with cactus made from coral. The leftmost shot revealed an ordinary building interior, and Matt immediately darted into the pseudo illusion before it could fade and be replaced with something weirder.
+
+As he entered its range, he felt the rift try to bind and restrict him in subtle ways, but that was easier said than done. It didn’t want him to fly? Good luck. It wanted to limit his power? His power, by definition, knew no limits.
+
+Interestingly enough, the rift seemed to sense it wasn’t able to make him conform to its rules, and thus changed the layout around him. The typical office building of dark smoke twisted, and when it stopped swirling, Matt found himself in a cave layout.
+
+He was impressed when the walls of the cave system were entirely impenetrable to his spiritual perception, but he didn’t let that slow his reactions to the demented goblins that lunged at him from thin air.
+
+Their bodies were wispy, but his blade cleaved them in two as if they were real, flesh and blood Tier 28 monsters, and they died all the same despite not having organs to rupture.
+
+Curiously, instead of essence flowing into him as the bodies discorporated, the smoky substance spiraled into his spirit and weighed him down, restraining his cultivation. “Is this like a rampage rift?”
+
+“Nice warm-up, wouldn’t you say?” Phoenix Liz called back. “But it gets better!”
+
+Darting forward, Matt activated [Mana Beam], letting the beam play on any monsters that were outside the immediate range of his blade, but that just wasn’t enough. [Mana Beam] had plenty of damage, but it was line of sight limited, and in this convoluted cave system, that just wasn’t far enough.
+
+Instead, Matt switched to just increasing his physical speed to the absolute limit. [Cracked Air Slide] already sacrificed mana efficiency for speed, and in the decades he’d had it, Matt had pushed it even further. It was to the point where only his old Herald of Winter bonus finesse to air spells even let him steer to any appreciable extent. But with his mana regeneration entirely unimpacted by the rift’s limits, he could keep fighting just as surely as before. That was a good thing, as while each kill and its corresponding restriction wasn’t instantly crippling, Matt was racking up kills at a ferocious rate, and he could see how other cultivators struggled with such a rift.
+
+That was one of the defining features of a rampage rift– once you started killing, you needed to keep killing faster and faster, until it was downright impossible to do so anymore and you triggered the second phase of such a rift. There was always a limit to how fast the rift could force one to go, but it was rift dependent, and sometimes not even those stronger than the rift could manage. Matt had more faith in himself than that and killed to his heart's content.
+
+As Matt entered a wide open cave, nearly a thousand goblins greeted him, each holding some weird mana cannon-like object, but one distorted and twisted into something that should have never functioned.
+
+They activated their constructs the moment Matt entered the room, but instead of dodging, he activated [Bulwark] and crystallized the mana he fed the spell. The spell's blowback caused the cavern to fill with smoke and debris, but he didn’t wait for the room to clear to launch his counter attack.
+
+Matt hadn’t realized how much he missed fighting.
+
+This wasn’t like the war, where there were consequences measured in lives for each and every action. This was a good old fashioned slaughter against monsters. Clean and simple.
+
+Laughing, Matt pointed with his left finger and swept it across the room. [Mana Beam] cut a swath right through the arrayed goblins, but instead of continuing, Matt switched to [Cracked Dragonflame].
+
+Those goblins who hadn’t been cut in half by the [Mana Beam] were washed with flames of blue that crystallized into solid mana, trapping them under the weight of Matt’s endlessness.
+
+Their end came just a moment later when Matt punched the newly formed crystal, shattering it and everything inside.
+
+The wash of negative power was like putting on weighted clothes, but instead of resisting it, Matt leaned back and reveled in the pressure.
+
+Taking a deep breath, Matt slowly let it out, feeling the curses starting to tick down to their second phase now that he hadn’t killed something in a moment.
+
+“Faster! If you don’t speed up I’ll beat youuuu.”
+
+Unwilling to let this opportunity to challenge his wife pass, Matt launched himself forward down the tunnels, slaughtering everything he came across. All the while, the smokey shackles grew denser and denser over his spirit until they covered it like a swarm of locust.
+
+By the time he reached the end of his little illusionary rift and found a ten foot tall hobgoblin, Matt was feeling very nostalgic. Instead of just overwhelming the boss and its dozen monsters, he decided to return to his beginnings.
+
+Flicking the blood off his blade, Matt got into a ready stance and stepped forward, left, then shifted right with a flourish, and just like that, the hobgoblin boss had lost three of his subordinates.
+
+Knowing he was on a timer, Matt lunged forward, stopping just short of the hobgoblins maximum range, letting his sword get swatted to the side from its slash. Going with the movement, Matt brought his blade down in an overhead chop that pushed through the monster's upraised sword and cut deep into its shoulder.
+
+As the boss dissipated, Matt frowned slightly. He hadn’t intended to kill it in one blow, but the nature of this rift, all out attack in exchange for zero defense, didn’t let him relive any nostalgia.
+
+As a newer and larger shackle appeared on his spirit, Matt found the world of smoke twisting around him until he appeared on a platform with Allie.
+
+She was dancing around, her daggers flashing, killing monsters as they came in from the roiling darkness held at bay by the platform they were on.
+
+“Finally! Yall are too slow. Just kill the boss and move on!”
+
+Matt wanted to complain that he hadn’t known what was going on, but considering he had deliberately set that up, he thought it was smarter to keep his mouth shut.
+
+Instead, he just focused on killing any monsters that entered the platform so as to keep his shackles from solidifying.
+
+He had beaten Liz and that was the only thing that mattered even if it did mean he had a pouting bird on his shoulder.
+
+Zack, Liz, and finally Aster arrived just a few moments later, but instead of the next phase of the rift initiating, they were left killing random monsters as they drifted in.
+
+Aster kicked Allie as she danced by and gestured around them. “Okay miss know it all, what’s next? This is fun and all, but should we continue on? Or should we let the shackles manifest? Sien said she explained the full rules to you.”
+
+Allie popped to her feet and dropped the act, even as her blade danced around the battlefield, cutting down wisp monsters the moment they formed. “Eh, Sien said it was kinda up to us. Most people who make it to this stage choose to let the shackles manifest so they can fight the boss and get essence. They can then do that up to five times to fully clear the rift.”
+
+“And the alternative?”
+
+Allie nodded to her partner's question. “We need to continue killing on this platform until we exhaust the rift's supply of monsters. Considering this is a Tier 28 rift, that might take a while with you slowpokes.”
+
+Well, that sounded like a challenge, and Matt wasn’t about to back down.
+
+Turning, Matt looked to Zack, whose small smile would have been the equivalent of a manic grin for anyone else. It was good they were on the same page, even after a decade apart.
+
+Matt let a mana stone crumble in his hands, just in case there was somehow someone spying on him, and unleashed massive amounts of mana into their surroundings.
+
+Once the area around their platform was saturated, Zack twisted the affinity, kickstarting a cascade. But instead of dropping his connection to the mana, Matt kept throwing mana at the problem, like someone trying to outrun speed wobbles on their flying sword by accelerating through. There were only two possible results, you outran your problem, or spread across whatever was under you.
+
+And Matt was nothing if not fast.
+
+The resulting explosion lasted for almost an entire minute, and was bright enough to dissipate the surrounding gray smoke like fog under the morning sun.
+
+Once the attack settled down, Matt felt thousands of shackles cinch down onto his spirit. And from Zack’s small wince, he must have encountered the same.
+
+Turning to the pouting Aster, Matt winked. “Your turn.”
+
+She instead turned to Allie and shook the teleporter by her ankles. “Something impressive fall out.”
+
+“I’m not a jack in the box! I’m a precision fighter, not an AoE kinda girl. Stop shaking meeeee.”
+
+Aster turned to Liz, who turned away whistling. “How many clones do you have stuffed inside you right now? Can you throw a few dozen out there?”
+
+“I could, but any blood that goes out there feels icky, so I'd rather not.”
+
+Aster opened her mouth to say something, but nodded and gave up. “And I'd rather not sit around with our collective thumbs up our asses for the next week, or however long it takes for monsters to trickle in. Fine then.” Glaring at him and Zack, she imperiously waved. “On with it then, minions. Chop chop. But don’t hog all the kills.”
+
+Zack’s newest toy, his spell array, helped him use all sorts of external focuses to influence his spells even more than he already could, giving him a frankly absurd amount of versatility in his casting. But even without that, they’d had plenty of ideas for combining Matt’s overwhelming power with Zack’s exacting control during the war, lots of which they hadn’t been able to try at the time.
+
+But rift monsters, unlike soldiers, weren’t up to date with the latest in countermagic.
+
+Matt fired a massive [Mana Beam] at Zack, who intercepted it with his fiery spell array, filtered it through a dragonscale, and unleashed a massive, elongated snake-dragon upon the monsters around them, laying absolute waste through the physical embodiment of Matt’s ludicrous power.
+
+That wasn’t sufficient, or at least using only that would have been boring. So over the next day, they tried out a bunch of their more outlandish combos. Some, like trying to turn Matt’s [Tribulation Strike] into gravity, literally blew up in their face, but others were much more promising.
+
+Fortunately, with the final monster’s death, the shackles fell off their spirits, relieving a tremendous amount of spiritual pressure on him and Zack alike.
+
+Taking a deep breath, Matt was about to say something when a plethora of blackness rushed out of all of them to form a massive humanoid figure that had to be a mile long.
+
+Its form twisted and blurred, going from snake-like, to a bird with comically small wings, to a humanoid figure, to a many armed ball of nightmares, before it finally settled on a normal sized humanoid.
+
+Instead of being wispy like all of the other monsters they had fought in the rift, this creature had a serious weight to it in Matt’s spiritual perception.
+
+The monster looked at them, its head cocked to the side like it was inspecting an interesting ant, but instead of stopping there, its head continued to rotate until it was upside down, complete with the cracking of breaking bone and tortured flesh. From the mangled throat, a pair of fleshy fingers ripped their way through the smoke and tore themselves free, like a demonic baby bird to reveal a humanoid with no skin.
+
+“Ok, that was kinda awesome.”
+
+“Agreed.”
+
+“Yup!”
+
+“I thi—”
+
+Liz’s comment was cut off when the boss monster pointed its left pointer finger at them in a very reminiscent move, and Matt immediately threw himself forward, [Bulwark] materializing and solidifying in its wake.
+
+The creature’s [Mana Beam], despite nearly coming apart at the seams from Aster’s [Dispelling Winds], punched right through Matt’s first line of defense, and might have gone straight through him if he didn’t raise his hand in time. But even as it broke through [Cracked Phantom Armor], it stopped on Matt’s invulnerable left hand. Even with the stygian gossamer protecting him, Matt could feel the energy prickle his skin and begin to faintly burn. It was the first time the rift had actually presented an actual threat.
+
+And it felt fantastic.
+
+Matt started pushing upstream through the [Mana Beam], but the moment he did so, the monster moved in a flash.
+
+Now wielding a naginata that was clearly a mix of Liz’s spear and Allie’s dagger, the fleshless creature appeared behind Zack, its blade already mid-motion and just a hair's breadth away from taking his head off.
+
+Zack never turned around and instead blurred forward, travel mana carrying him away. But instead of cleanly escaping, the monster blurred with him, its blade creeping forward and still aimed at his neck.
+
+Were he entirely alone, Zack might have some difficulty escaping the deadly blade. But Ascenders weren’t so easy to kill, and Zack certainly wasn’t alone.
+
+A fresh blast of sparkling cold air slammed into the monster and bound ribbons of white around its limbs, just as a pair of daggers drove into its empty eye sockets.
+
+Smooth armor that Matt recognized as an imitation of [Cracked Phantom Armor] sprang up to ward off the blow, actually managing to deflect Allie’s blades, but vanishing shortly after she was turned aside. Allie wasted no time, turning the deflection into her new angle of attack and teleporting to attack alongside a Liz.
+
+Liz darted forward with her spear moving to take the creature in the lower back, but instead of blocking, the creature created another hand out of its back and tried to grab the spear from Liz’s control.
+
+Liz responded by throwing herself into the attack, discorporating the spear into the feathers it was made from and turning into ichor. The boss’ claws swatted at the semi-liquid body of Matt’s wife, only to find its flesh burning and melting under Liz’s far more caustic form of life.
+
+Matt lashed forward, timing his blade to arrive a moment after a pair of wood aspected [Wind Scythe]s landed.
+
+They didn’t quite manage to cut through the Tier 28 monster’s version of [Cracked Phantom Armor], but they did enough damage that Matt’s [Tribulation Strike] punched a hole in the monster's chest and obliterated a portion of its side.
+
+His disappointment that the fight was going to end that quickly was quashed as the flesh of the boss started to knit back together in a very familiar way.
+
+Unable to contain himself, Matt laughed. It was good to be able to cut loose like this.
+
+He had never considered being able to fight against an amalgamation of all of them, not just at their Tier, but at a Tier disadvantage.
+
+Ignoring the blade that cut through his chest, Matt brought his blade across on the boss’ flank, wanting to see if it would trade with him. It did, which was a mistake.
+
+Liz drove her spear into the monster’s neck, and Allie plunged her daggers into the base of its neck, an apparent weak point in [Cracked Phantom Armor] Matt made a note to adjust immediately. Meanwhile, Zack sent dozens of [Mana Bolt] of different elements at the boss and Aster created chains of ice around its limbs, restricting its attacks.
+
+They landed a dozen blows in quick succession, and each of them penetrated deep into the creature, but each wound inflicted was healed just as quickly as they appeared.
+
+Allie cursed as she dodged a [Mana Whip] made of crackling mana that the boss cast. “This is your fault, Matt!”
+
+“Sorry, not sorry.”
+
+And really, he wasn’t. This was turning into a great fight.
+
+Slipping left, he dodged the naginata just to thrust a [Mana Charge] and [Tribulation Strike] infused blade at the monster.
+
+The blow had enough power behind it that Matt actually felt the blowback through [Sword Twin], his growth blade absorbing the detonation into itself, but taking a good bit of strain in the process. He’d need to improve the enchantments meant to mitigate that, because he was apparently outgrowing his own growth sword.
+
+It wasn’t his fault his Talent grew so quickly.
+
+Deflecting another blow, Matt stepped forward and took a [Piercing Blow] that was aimed at Zack. It punched a hole in his chest, but his flesh knit back together in moments, and it didn’t stop him from unleashing a flurry of blows at the boss.
+
+Alas, the novelty wore off relatively quickly.
+
+While the boss undeniably was copying their respective styles, that didn’t make it anywhere close to a cohesive threat as it drew from their respective specialities.
+
+Matt was also pretty sure that the boss had taken from them unequally, depending on the amount of shackles they had gathered in the rift. That meant it was taking more from himself and Zack than the others, leaving it disappointingly torn between two incompatible styles of magic, only further diluted by the tidbits it copied from the ladies.
+
+That was never more apparent than when it went to restrain Liz. Instead of just moving in for overwhelming power, it tried to use one of Aster’s ice skills despite only having shallow copies of them, as her role as a support meant she had less total kills before the end. It also didn’t seem to have any of Aster’s wind, winter, or aurora spells, which Matt wasn’t quite able to puzzle out why. Aster used those just as often as her ice spells and it seemed to be copying based on usage but there had to be a hidden metric he didn’t understand.
+
+The same went for Liz’s powers. Instead of taking advantage of her amazing abilities, the boss simply tried to create new limbs, but even then, it never maximized the advantages such an ability could have given it. It barely took anything from Allie, or at least nothing useful. While it did teleport once, it was so blatantly telegraphed that the most it managed was to practically trap itself, all of them attacking it right as it appeared. Though, even it could learn from such a painful mistake.
+
+Once they’d figured out its limits, the only reason the fight had lasted more than a few seconds was the massive difference in Tier, but that had never stopped Ascenders.
+
+Allie landed the final blow with a tricky series of strikes that all seemed like they were going to hit its limbs, but with small teleports that led the blows directly to the boss’ brain. The boss, for all its copying abilities, didn’t have Matt’s Talent and simply didn’t have the energy to heal through that much concentrated damage on its brain.
+
+Matt was going to make a quip, but was shut up as an avalanche of essence hit him, and he was busy directing the essence before it overflowed from his spirit. A Tier 28 rift's worth of essence was a lot even when split five ways, and it moved him noticeably deeper into Tier 26. He’d still need hundreds, possibly thousands, more delves before he got anywhere close to finishing the Tier, but the simple fact he could actually notice a difference was already fantastic for a warm up rift.
+
+If a full clear was always like this, he could see why it was a favorite of Siens. Anyone with enough power could clear the rift in hours, instead of days or weeks, like some of the larger, more spread out rifts might take.
+
+Once the stream of essence ended, Matt wiped some of the blood and charred remnants of his clothes off of him before calling it a lost cause and just using [Create Water] to form a mini shower for himself and clean his own viscera away.
+
+Liz had things so much easier, as any ichor that she couldn’t trivially reabsorb into herself had flashed into golden plasma long ago.
+
+Aster tried to steal his shower, but he had been in enough water with her to know she preferred it frigid. To save himself that pain, he quickly let her have it.
+
+With a fresh set of clothes pulled out of the house, he moved over to join Allie, Zack, and Liz, who were watching the rift distortion.
+
+“I wonder what it will be?”
+
+Allie poked at it without disrupting the membrane, which would have condensed the reward. “Gotta be something good, right? We did the perfect run, just like Sien said. I swear if we just get mana stones, I’m going to dissipate this rift.”
+
+Allie leaned in and started whispering mean things at the rift distortion while Matt and Liz tried not to laugh.
+
+How Allie would replace the rift's lunch with plain cheese sandwiches was a mystery, but he didn’t doubt she would do something if the rewards were bad.
+
+When Aster came out of the shower area a few moments later, they all waited around while the rift distortion flickered and pulsed.
+
+This was a tradition they had established when they had been advancing through Tier 25 during the war. Matt and Allie were firmly in the camp that believed that dispelling the reward at the right time mattered just as much as anything else, and so they had come up with this tactic to maximize their luck.
+
+Matt moved forward, but when Allie didn’t follow, he retracted his hand.
+
+A moment later, Allie moved but Matt wasn’t feeling it. Almost a full two minutes passed before Matt was feeling it again, but this time Allie was moving with him and they dispelled the reward distortion together.
+
+Three items tumbled out of the rift distortion and a cackling Allie scooped them up before anyone could get too good a look at them. That was also part of the process, but one that only Allie enjoyed.
+
+The gremlin liked to inspect the shinies before sharing.
+
+The first thing she proffered was a thumb sized piece of smoky quartz embedded in a surprisingly nice looking necklace.
+
+“Pretty necklaces, but I can’t tell what the enchantment does.”
+
+Zack took the jewelry and inspected it for a moment before passing it over to Matt to do the same. “I believe it will boost the wearer in their tailoring skill. Doesn't seem to have a lower limit, which is actually kind of interesting. Or that's how I’m reading the enchantment.”
+
+Matt nodded because that was exactly what both his experience and [AI] said the item did.
+
+Kinda useless for them, but they cou—
+
+Aster snatched it and put the item on, twisting and showing it off. “It matches my tiara.”
+
+Everyone ignored her preening to look at the next object. It would still be sold, just once Aster got bored with it instead of immediately.
+
+Allie surprised them by proffering both items with a smile. “Rocks! Two of them, but I can’t tell what either does.”
+
+Matt took one of the rocks as Zack took the other.
+
+With it in his hand he noticed that it was more pumice than rock, but the description still technically held true.
+
+He probed the natural weave of magic and tried to parse the effect, but was still in the process when Zack tossed his rock to Liz.
+
+“I believe that this is a universal alchemic neutralizer. Not exactly expensive, but useful.”
+
+“Oh, that’s cool. Any chance the other one is the same, Matt?”
+
+Matt shook his head. “It's definitely not that. In fact, I think I know what this does, but I’m not sure I believe it. It's kinda random as hell.”
+
+“Oh?”
+
+Allie butted heads with Aster as they both leaned in to get a good look at the rock.
+
+“I think it's a portable volcano.”
+
+“What?”
+
+Even Zack looked confused at the suggestion, and Matt could only shrug. “That's what I’m reading. Maybe I’m wrong, but… I don’t know how else to describe it. It might also be able to absorb a volcano, but it's a really strange rock to be sure.”
+
+Allie poked it with a finger like she expected a volcano to appear on his hand.
+
+Liz shrugged. “I’m sure someone will pay out the nose for something like that, right? The Sects love mountains. Maybe we can sell this to a sect without one?”
+
+“I’m not sure a volcano is the same as a mountain.”
+
+“I’m with Liz on this one. Close enough, right?” Even Matt looked at Aster weirdly after that comment.
+
+Allie just rolled her eyes and tossed it to Zack after teleporting it into her hand. “Have fun, buddy.”
+
+Her partner snagged it in his spell array and began running bits of mana through it, seeing how it reacted to the tool. Something that powerful would probably do something interesting, but whether it was something unique or useful remained to be seen.
+
+They exited the rift to see Sien mid-sip of a cup of tea, which she quickly set down as they strode out. “An impressively rapid showing. Was thy attempt entirely successful?”
+
+Allie immediately started preening. “A perfect full clear.”
+
+“Fascinating, and truly well-accomplished. You have very nearly overcome my personal record.”
+
+“Wait, what do you mean almost? No way we didn’t beat your record.”
+
+“Perhaps someday my greatness will be surpassed by the likes of you, yet it is not this day.”
+
+Allie immediately started mocking the older Ascender, which got her shadow to reach up and start trying to strangle her, but that didn’t even faze her.
+
+“Now, have any of you regained your appetites as of yet? The next rift will not be prepared for some weeks yet, and in exchange for Matt’s provisions I wish to present Sect cuisine for thy consideration. There exists a nearby delver’s bistro with weeklong courses, which I insist we visit in the intervening time.”
+
+Never one to turn down new food, Matt readily agreed to Sien’s offer.

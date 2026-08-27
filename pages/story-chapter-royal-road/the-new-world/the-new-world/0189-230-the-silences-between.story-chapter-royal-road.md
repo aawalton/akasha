@@ -1,0 +1,351 @@
+---
+id: 8bc52fa3-5334-56a4-a3a3-45842b9d4c60
+page-type-slug: story-chapter-royal-road
+title: "230 The Silences Between"
+slug: 0189-230-the-silences-between
+partOf: the-new-world
+position: 189
+ownLength: 4235
+unit: words
+ownProgress: 4235
+publishedAt: 2019-10-06
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/410575/230-the-silences-between"
+royalRoadId: "410575"
+markedReadAt: "2026-06-29T21:27:23.742Z"
+---
+
+Kaios glared between us both, "You intend to incite the eruption prematurely? How?"
+
+I pointed at him, "I'm going to hit the mountain hard. To get that done, I'll need that dreadnought out of the way. Otherwise, a wave of arcane magic might even kill me as I come down."
+
+Krog peered at the wounded gialgathens, "We'll need it disposed of to escape as well. I doubt the Adair family will give us the couple hours required to destroy this dreadnought once more as well. If other forces arrive in tandem, we will face obliteration."
+
+I cupped my chin, "Alright, then we'll need a more stealthy approach. Not my strong suit, but maybe...hmmm..."
+
+After diving into my thoughts, I snapped my fingers, "I got it. You used your illusions to distract the dreadnought's crew before, right?"
+
+Krog nodded, "It was difficult, but yes. I was correct in assuming you only needed a moment of respite."
+
+"Good call. I'm wondering if you could make afterimages of me throughout the city. Yenno, masking my presence or something."
+
+Krog tilted his head, staring up, "Hm, good question. I believe I could quite easily, though masking your mana signature and gravitational mark is far beyond my capabilities. An auditory and visual illusion will be child's play, however."
+
+I tapped my head, forcing myself to engage with this situation. If I didn't think this through, people would die. I could run through this problem, but other people couldn't. Using Rise of Eden, I compressed my hands together, along with all of my mana. Checking out my status, I found myself level capped at 10,000. I raced through a quick investment into constitution, mentally clicking finalize.
+
+A rush of mass flooded my frame as I condensed and expanded. My metallic body adjusted fluidly to the augmented size, no odd fluctuations anymore. Once the size shift finished, strength rushed in. Another wave of adaptations rippled through me. The metallic fibers shifted to create higher output with less energy.
+
+As it finished, I turned to everyone, "Invest in your statuses now. We need every edge we can get here."
+
+A few of my guildsmen nodded at me, the reminder necessary to these newer members of Schema's system. After a minute, I lifted a chunk of radiating, crystallized quintessence. The broken, shivering stone of white wasn't made well; it carried many imperfections. These flaws worked for our goals, however.
+
+Shifting to Event Horizon, I saturated a gravitational aura over it. Using my sense of the natural force, I mirrored the imprint my mass left behind. Once soaked into the white, glowing gemstone, I tossed it to Krog. He wrapped his tail around it, inspecting my handiwork,
+
+"This will work well. A truly great tracker would note the difference. The analysis of a machine will not...Though perhaps something more stable shall prove safer?"
+
+"No, this is perfect." I pressed my hands together again. "I'll set these crystals to blow once someone tampers with them. All you need to do is destabilize them a bit. I'll make a few for both my mana types. That should throw them off plenty."
+
+Krog closed his eyes, channeling his mana towards an illusion over the quintessence I handed him,
+
+"They shall act as landmines then. I'll mask it with your presence and demeanor."
+
+Kaios turned to me, "What do you intend to do with the distraction?"
+
+I pointed up, "There's a massive starship above. I'll be unloading a gravitational bombardment into it. I got the general gist of the ship's insides from the last one I tore apart. I'll be targeting those areas to cripple it."
+
+Krog scoffed, "You shall decimate it within minutes if you're left uninterrupted. The others and I shall help distract them as well."
+
+I shook my head, "I appreciate it, but we have other priorities. We're aiming to gather up the gialgathens. Everyone we save is one less they get to turn. That's the mission, not destroying the enemy. The illusions will be more than enough help for me."
+
+Krog blinked, "Then it is as you say, Harbinger."
+
+After a bit of queasiness at the respect Krog gave me, I turned to Kaios,
+
+"I was wondering a few things about Polydra. How many of the espens are against the gialgathens? I'm wondering if we should try saving some."
+
+Kaios gave me a repressed glare, annoyed at Krog's high regard of me. I ignored his hostility as Kaios said,
+
+"Polydra is a city with a mangled history. It was formed as an important strategic stronghold and resupply depot during the war against the leviathans. Afterward, the noble gialgathens saved we poor espens from true slavery. Polydra was where much of the espens' reconditioning took place. This, ahem, process lifted our race from tadpoles in pools to powerful and educated beings."
+
+Kaios threw his up hand in disgust, "But we espens took the gialgathens' benevolence for granted. The espens of Polydra despised the gialgathens for this necessary act. Ever since bad blood has boiled between the groups."
+
+I turned to Krog, "Reconditioning, huh?"
+
+Krog stared down and to the side, "We...we were still primitive and brutal."
+
+I raised my eyebrows, "Well, that explains why so many espens joined Tohtella's little rebellion. Yenno, outside of the slavery thing." I turned to Kaios,
+
+"If I had the time and resources, I'd try to get some of the espens out of here. The gialgathens take priority. I know they'll be loyal. The espens, not so much. Giving Tohtella free spies would be crippling, and I can't screen them."
+
+I took a deep breath. My eyes went distant, "They'll all die, but at least it will be painless."
+
+Kaios stared between Krog and me, "Wait a moment. You intend to destroy Polydra without saving us?"
+
+I finished my mana crystal, tossing it over to Krog. I stepped up to Kaios, "Yes. They've shown which side they're on. Actions carry consequences. Considering the chaos above, we're saving them from being food for the Hybrids."
+
+I spoke with a resolve even I wasn't expecting. Kaios spread out his hands while turning to Krog, "If anyone understands why the espens must pay, it is I. However, for all of them to die? That is...it's-"
+
+Krog laid his tail on the shoulder of Kaios,
+
+"You've acted as the guardian for Solis for decades. It's been a long time since you've left here. You cannot comprehend the comings and goings of the surface. What is being done above here...It is unfathomable."
+
+Krog turned to me, his head held high, "We aren't murdering anyone. We're giving them mercy."
+
+That's what I hoped it was at least. I hardened myself, speaking with a voice like stone,
+
+"Each Hybrid is a risk to an entire world, this world included. I'm sorry, but I don't have any means to stop the Hybrids before Lehesion arrives. If that demigod shows up-"
+
+I leaned over to Kaios, "You're all dead. It's as simple as that. Unlike the painless death I'm offering, you'll be turned into footsoldiers."
+
+Kaios took a step back, turning between the two of us, "What of Solis? This place is sacred. It must be preserved."
+
+I finished another gemstone, tossing it over to Krog,
+
+"I am here to prevent a genocide, not protect an old jail and its warden. I am also not here to argue my methods. You haven't seen what's up there. I assure you, it's worse than this prison being destroyed."
+
+Kaios nodded, his doubts fading, "I...I shall take your words on faith then."
+
+I pressed my palms together, generating another white gemstone. As I did, I went to walk around,
+
+"I'll be checking out the runic work here while making these crystals. As I do, prepare the soldiers for our next offensive."
+
+Krog did so, starting up a telepathic conversation with the others. As I inspected the runic work, I committed all of it to memory. It was rare I found runic achievement that exceeded my own abilities, and this was ancient and powerful stuff. I ran a hand across the etched surface, the variable depths masterfully made.
+
+A sickening sort of mana radiated from it. I closed my eyes, sensing a bit of the structure beneath. Huh. Traced beneath the surface, a dual-layer of runes eased the depth work involved. I pushed through the wall, the thin structure crumbling. Peering behind the wall, I stepped over with a glowing palm.
+
+The runes were completed on both sides. The exposed layer acted as the core function, while the sub-layer acted as the subordinate helper. This process deepened the meaning of the messages ingrained within. The sheer extent of the message's meaning...It was stunning.
+
+Along the outer edge of this hollowed hallway, a familiar miasma emanated. I took a deep breath, familiar and volatile energy permeating the fabric of reality here. While I wasn't some mana sensing genius, I already familiarized myself with this guy.
+
+It was Eonoth.
+
+The Old One had been on Giess for a long time it turns out. Even more worrisome, these structures reminded me of Baldag-Ruhl's carvings. I raised my eyebrows, and I shook my head. Naw, that couldn't be right. After giving them a closer look, the sheer precision rivaled the old hiveminds. It was no perfect mirror, but the similarities piled up enough to make me nervous.
+
+I scratched the side of my head. There was no way an Old One taught Baldag those runes. There was no reason too. Besides, Alfred and that hivemind worked on that runic formation for centuries. They did it themselves.
+
+But to say I understood the motivations of the Old Ones...I had about as much confidence in that as I had in romance. If an Old One was involved, Baldag-Ruhl might've been a pawn in their plan. If he was, well, I might be a pawn too, running down some predetermined path. The idea of that unnerved me.
+
+I mean, I wasn't much of a faith and fate kind of guy. I always prided myself on my sense of initiative and on my use of opportunities. Having all that dictated by some unknowable god robbed me of that. I based a decent chunk of my identity on that shit. Having that taken away in a fell swoop would suck. After all, curating my meeting with Baldag didn't exceed an Old One's capabilities.
+
+I shook my head, silencing those thoughts. I didn't have time to think about it. Anyone could philosophize their way into inaction. I prided myself in not doing that. With that in mind, I finished my inspection of this place walked back out of the hidden hallway.
+
+Instead of spending my time on airy, philosophical thoughts, I honed in on the mana channeling process. This mana crystallization took quite a bit of effort, though I'd done it a bit before. It was like an advanced version of a Mana Saturation, the skill I used to maintain enchantments.
+
+Mana Saturation lacked the free form abilities of crystallization. Saturation played out an already existing magic. This crystallization required more mana for one, but it also took a cleared mind. If I grafted intent onto the mana, it created a specific effect. The training with Serenity helped me out here, allowing me to keep an empty head.
+
+As I created more of the crystal, a bit more depth revealed itself. For starters, different mana types resulted in various gemstones. Creating the pure mana was painless in the appropriate Dimensional Wake as. The energies molded to my touch, giving me a bit more finesse with it.
+
+By the time I finished the tenth crystal, I had chopped a lot of time off the process. It also carried a trigger for its release. Contact with telepathy was all it took to blow. The psionics would make the mana detonate when they attempted using it.
+
+Unique skill gained! You discovered the unique skill, Mana Crystallization from no basic skills! 100 skill points rewarded!
+
+Mana Crystallization(lvl 10) - Your mind tempers the wild flows of mana around, harnessing it in physical form. +10% to the ease of mana crystallization. +10% to the potency of created crystals.
+
+Well, that was a nice boon. I turned to Krog, "Hey, let me remake all the crystals I just handed you. I got a skill, and it should make the process better."
+
+Krog sighed as his current illusion fizzled, "If you must..."
+
+I put the nine crystals into my dimensional storage, noting how useful they might be in the future. Storing hundreds of these crystals could give me a massive burst of mana in a fight. The options were endless.
+
+I tucked that away in the back of my mind, getting back to the problem at hand. After remaking the crystals in half the time, I turned to Krog, "Where's the Sentinal?"
+
+Krog pointed towards the peak of Polydra, "Torix told us that his utility for mobility was far too valuable to risk on a direct assault. We left him along the route of our escape, far from this conflict."
+
+I frowned, "Well, fuck. The Sentinel would've been useful here." I took a deep breath, "Does anyone have a layout of Polydra?"
+
+Krog nodded, pulling up an ancestral map covered in concrete dust. He murmured,
+
+"We found it within a decimated museum. I know it isn't perfect, but it may prove useful."
+
+Glancing close, I remembered most of the districts matching up from above,
+
+"Hmmm, seems close enough, I suppose."
+
+My approach involved running and destroying everything. Maybe that would work out for me, but other people could die. Instead, I thought of what Torix would do here. He'd place the illusions at critical points to distract the dreadnought or something like that. No, he'd do even more given this chance to plan.
+
+Not only would he distract them, but he would aim the mana crystals to blow up and cause as much damage as possible. A couple minutes later, I clapped my hands echoing a metallic ring. With everyone's attention, I pointed at the map,
+
+"Alright, so here's what we'll do."
+
+Our guildsmen gathered. I pointed at a few essential points on Krog's ancestral map,
+
+"You all remember where the spires were?"
+
+A few of them nodded. I turned to Krog, "Mark them on the map."
+
+Krog pressed onto different marks on the map, piercing the old paper with precision. These points clustered close to where the spires were around the city. The spots had no distinct pattern besides being on the outskirts of the town. I pointed at the center,
+
+"This is where the dreadnought will be."
+
+Krog narrowed his eyes, "It's a ship. It can move. How do you know it will be there?"
+
+I waved my hand in a circle of the spires, "The spires are to stop gialgathens from escaping. They want them in this dreadnought. A central location lets them do that quickly."
+
+Krog nodded, "A workable assumption."
+
+I drew another circle with my hand around the city, "This, this is where we'll put the illusions and crystals. Our goal is to bait the spires into attacking the illusions. We'll cripple the spires from the resulting detonation of mana."
+
+Krog's eyes widened, "Ah, that's clever."
+
+I nodded, "We still want the distraction element, however. We want to hide the illusions where they aren't too obvious, but at the same time, still findable. That will buy me a few minutes and let them gather their forces around these illusions. During that time, I'll send an artillery strike at the dreadnought."
+
+Kaios glanced between the map and me, "Where would this 'artillery' come from exactly?"
+
+I raised a hand, "It's in my blood." I turned to my guildsmen, "Are you all ready to go back in?"
+
+They gave a roar of approval, the jitters from battle fading as I expanded The Rise of Eden over them. I formulated my best commander's voice. Confident. Decisive. Driven. Come on, Daniel, you can do this. I pointed at the gialgathens,
+
+"You all will be tasked with defending these illusions from oncoming ground forces. If a Hybrid triggers one of these things, that's one more spire you guys have to deal with. Understood?"
+
+They spoke out in a telepathic wave, "Yes, sir."
+
+Another chill ran down my spine from the sir. I shook it off. After all, sometimes I had to fake it till I made it. I turned to Krog,
+
+"We'll be leaving in fifteen minutes."
+
+"Yes, commander."
+
+I walked off to the steps around the room. I created a few more mana crystals during the short downtime. As I did, Kessiah walked up and sat down beside me. She gasped while leaning back against the stairs,
+
+"I've never worked this hard in my life. Fuck."
+
+I scoffed, "Yeah, you're definitely right about that one."
+
+She turned to me, frowning, "Ok, thanks for that. Real supportive."
+
+"I do my best."
+
+She stared forward, glancing at the gialgathens, "Man, shitty one-liners do make me feel better. Makes me forget about what we're doing for a bit."
+
+I shoved another quintessence crystal into my pocket dimension,
+
+"Yeah, same here. It breaks the ice before the battle. It makes it less...terrifying, I suppose."
+
+Kessiah rolled her eyes, "You? Terrified? Yeah, ok."
+
+I turned to her, "What, you think I don't feel fear anymore?"
+
+"Why would you? You can't die."
+
+"I'm hard to kill. There's a difference."
+
+Kessiah shrugged, "If you ask me, you crossed the line between mortal and immortal a while back. Now you don't even seem real sometimes. Like, at all." She stared off in the distance,
+
+"Shit, I remember when we first met. You were just some edgelord brat who thought he had it hard. I could've snapped you between two of my fingers. Well, turns out you did have it hard. I, er, was part of that. I kind of threw all that on your shoulders. Sorry again for that."
+
+She shook her head, "Now, well, you wouldn't even need to look at me to kill me. Watching you change, it's been humbling and inspiring both. That's for sure."
+
+I thought about Delilath dying, the gialgathens I couldn't save, and Springfield being destroyed by Yawm. I frowned,
+
+"Even if I can't die, I'm no god. I still fail all the time." I turned and gave Kessiah a pat on the back,
+
+"This healing thing you got going...I'm, uh, proud of you for it..."
+
+Kessiah bust out laughing, "What was that supposed to be? Inspirational?"
+
+"Just trying to, er, communicate, I guess."
+
+She laughed, "Heh. You're doing a pretty shit job."
+
+I shrugged while lowering my hand, "Eh, doing my best here. That's all I got."
+
+Kessiah stretched, "For real though, you're doing a great job. After that fight with Dahkma, I broke down. You stood up and took the brunt of what I didn't want to deal with.  Now look at you. You're doing pretty ok at this whole commander thing." She pointed at the gialgathens, "These suckers are eating it up."
+
+I narrowed my eyes, "For now. We'll see how long I can keep the act up."
+
+Kessiah pushed herself up, "Don't worry about it. They've seen you fight. If they aren't willing to follow you, then they wouldn't follow anyone. That's when you're at your best - tearing shit up."
+
+I stared at my hands, "Yeah, that's the easy part. It's the silences between the battles that get me. The echoes reverberate in my ears and mind. Doubts pile up. Blagh." I looked up at the gialgathens as Krog rallied them,
+
+"It's a loud kind of quiet. It keeps getting louder if I ever sit still. Eventually, it turns into a deafening boom in my ears."
+
+Images of the dreadnought's underbelly flashed in my eyes. Memories of the spored people resurfaced in my mind. Before the memories consumed me, Kessiah kicked my side,
+
+"Cheer up. You're doing better than you think. "
+
+I gave her a slow nod, "Yeah." I stood up, "I hope so."
+
+Kessiah stepped forward with a wave of her hand,
+
+"Do what you can, even if it isn't much. I remember some armored guy telling me that a while back. Helped me. Might help you."
+
+I rolled my fingers in my hand, making and loosening my fists in waves,
+
+"Yeah. I'll do that."
+
+I stepped forward, "Thanks for the pep talk. Needed it."
+
+Kessiah grinned, "Aye, aye, captain."
+
+She took a few steps before wobbling. I reached out a hand, catching her with a well of gravity. I narrowed my eyes, "You alright?"
+
+Kessiah shook her head, "Yeah, just a little woozy. It's anemia from all the blood loss. I'll be fine."
+
+I opened my dimensional storage, a 2-dimensional portal that mirrored liquid space. I pulled out molten metal I stored earlier. Using this melted dimensional fabric, I split it apart with my finger tips into five molten blobs. I spun them in circles with five gravitational vortexes. Once dispersed into flat circles, I worked on my first three pieces.
+
+With a few adjustments, I thinned out three of the orbs into rings. I turned to Kessiah, "What's your ring size?"
+
+"Uh, eight."'
+
+I glanced back at the rings, changing their sizes. Once made, shifted to The Rise of Eden. I solidified the rings with an injection of icy energy before remelting their surfaces with a thermal jolts. Taking a deep breath, I created raw, telekinetic energy for precise contact points. Wielding them with care, I carved out the runes needed.
+
+It was anything but easy. I struggled through the process, wielding Star Forger with quintessence instead of ascendant mana. It was worth it, however. The Rise of Eden made anything I created far better. Even with a cruder set of tools, the raw materials were so superior it didn't matter.
+
+Knowing that, I finished off the ring after a minute. The next two rings didn't require the same amount of time as I got into a rhythm with it. After finishing off the three rings, I channeled the next blob of molten metal into a bracelet of sorts. It was basically just a big ring. I eyeballed its size for Kessiah's wrist before etching in similar runic work.
+
+All the wording involved regeneration and hemonic generation enchantments. This was all supposed to ease Kessiah's burden for healing. After finishing up the bracelet, I generated another one that mirrored it for her other hand. All of ten minutes passed, the enchantments rather basic yet effective for what she needed.
+
+I clustered the objects into a gravity well before tossing them to Kessiah. She caught two of them before the other jewelry clattered onto the floor. I walked over, picking them up with her,
+
+"Ah fuck, I don't why I threw five things at you to catch. That was dumb."
+
+Kessiah frowned, "Eh, I just suck at catching stuff."
+
+I watched her pick up the jewelry. Her hands shook as she dropped one of the rings. She bit her lip before grabbing it again, this time her grip firm. I raised an eyebrow at her, meeting her eye,
+
+"Is shaking like a leaf a symptom of anemia too?"
+
+She grabbed her wrist, staring away, "I'm fine."
+
+I frowned, staring at her. She was terrified. I picked up the jewelry an handed it to her. As I did, I waved The Rise of Eden over her. She took a sigh of relief,
+
+"Thanks. Whatever that is it feels great."
+
+I waved at the metal rings and things,
+
+"Put those on. You'll feel better."
+
+She did, and they boosted Kessiah's regeneration as all my items did. Kessiah rolled her shoulders,
+
+"Damn. I'm already feeling way better. Thank you. I should've asked for this stuff forever ago."
+
+I waved a hand in circle, "All my armors boost a person's regeneration, endurance, and constitution. I'll be honest here, if I knew you were this effective at healing, I would've already made them for you."
+
+She rolled her eyes, "Yeah, sure."
+
+I met her eye, "Hey, I'm serious. Give yourself some credit. You've changed. Stop pretending you haven't and own it."
+
+She blinked, stunned for a moment,
+
+"You really think so?"
+
+There was a hint of desperation in her voice. She wanted to believe my words even if she didn't believe them herself. I shook my head,
+
+"Think? No, I know so. You capped your level. You healed my sponsor. Hell you're even fighting in a war. You are not the same Kessiah that ran away when we faced Yawm."
+
+I raised a fist, my voice firm, "You've become a warrior in your own way, working around your own limits. Take pride in that."
+
+She nodded, feeling the gray metal on her wrists, "Thanks...Heh, looks like you're not the only one that needed a pep talk."
+
+I scoffed, "Eh, you gave it first." I turned to the gialgathens, "Let's go. We need to get back out there."
+
+Kessiah nodded, her eyes steeled and her hands clasped to fists as we rejoined the group. Krog finished up his tactical orders, our guildsmen split into ten groups. A few healed and willing gialgathens joined them, bolstering our forces. Behind them, ten illusions of me stood with the mana crystals beneath them.
+
+I turned to the group,
+
+"Are you ready?"
+
+"Sir, yes, sir."
+
+I walked towards Solis's exit, the roar of battle growing in my ears,
+
+"Then let's go tear them apart."

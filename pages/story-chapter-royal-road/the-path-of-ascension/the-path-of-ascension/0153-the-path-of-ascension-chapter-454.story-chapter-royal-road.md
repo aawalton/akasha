@@ -1,0 +1,577 @@
+---
+id: 151d6748-f668-56ef-81fd-12f242da2fdb
+page-type-slug: story-chapter-royal-road
+title: "The Path of Ascension Chapter 454"
+slug: 0153-the-path-of-ascension-chapter-454
+partOf: the-path-of-ascension
+position: 153
+ownLength: 8064
+unit: words
+ownProgress: 8064
+publishedAt: 2025-10-31
+link: "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/2720764/the-path-of-ascension-chapter-454"
+royalRoadId: "2720764"
+markedReadAt: "2026-06-29T19:22:59.099Z"
+---
+
+Chapter 454
+
+Hunkering under a tarp in a hole that had long since filled with sand around his still form, Matt waited, not even blinking more than he needed to.
+
+The caravan had to circumnavigate a small mountain range to leave the desert. Once past their desolate embrace, they would enter a scrubland that would eventually turn into a forest.
+
+The caravan leader had repeatedly warned them about the strength of the monsters they would face once they left the barren desert.
+
+Both the warning and the knowledge that the caravan would be slowly circling around terrain those on foot could cover more directly allowed the most combat-capable of them to venture out.
+
+As they had learned the hard way, for every attempt at enchanting, they needed to kill one of the light creatures.
+
+Once they cleared the monsters still attacking their shielding, ten of them had ventured out.
+
+Matt was ready to attack any monsters chasing their bait.
+
+Hearing a call from above, Matt saw a pair of rounded fox ears poke themselves out of the sand a few dozen feet away.
+
+A moment later, Aster wiggled the rest of the way out of the sand and Matt followed her example.
+
+As he got a better angle, he could hear sharp cries and he took off in a dead sprint.
+
+His efforts were thwarted by the loose sand, but his cultivation had returned enough that he was nearly Tier 2, which let him keep Aster and Susanne in his sight even as they pulled ahead.
+
+Being on four legs gave Aster an advantage that was second only to Liz, who lazed about on the hot updrafts when not fighting, giving them aerial surveillance.
+
+Susanne was able to outrun Matt since her boots were from her family, letting her run in the desert unabated. They hadn’t given much weight to the rumors, but the moment Susanne stepped on the loose sand, her boots magically hardened a portion and turned it into sandstone, ensuring every step was perfectly firm.
+
+In and of itself, it was an interesting method to solve an undoubtedly annoying issue, but like all of the enchantments usable by the physical cultivators, the boots burned their bodies’ energy to power themselves. As the mages needed to spend their mana carefully, the fatigue the enchanted items left could be lethal.
+
+So far, they hadn’t figured out a way to bypass that limitation, so useful noncombat enhancements were being set aside in favor of preparing for the longer expedition.
+
+With each day they traveled, they gathered more and more energy, unlocking and converting more of their cultivation bases.
+
+Finally cresting the final hill, Matt launched himself off a small cliff. Rolling to burn off most of his momentum he bounced back into his normal sprinting stride without slowing.
+
+Activating the enchantment implanted in his wrist, Matt slashed out with his nigh weightless blade.
+
+As it hit the golden insect-like body, the energy drain spiked. Instead of lodging in the monster's flesh as his metal blade would have, it cut through cleanly. The solidified light that composed the monster parted before the energy blade with only the burst of increased energy drain from Matt’s sword to mark its passage.
+
+Ducking a twisting slash from a large creature with scythe-like mantis arms, Matt aborted his cut to its abdomen. to kick at a nearby spider creature instead. Aster’s wave of frost landed a moment before Matt’s foot did, and the monster shattered like a crumbling hollowed out building.
+
+That move opened Matt up to the scythe light monster, but one of the crew members that was good with a bow put an arrow in its chest, distracting it. That bought Matt enough time to turn his blade back towards it.
+
+Aggressively lunging, Matt body slammed the creature, driving his sword forward with a grunt of effort.
+
+The sand under him gave way and the two tumbled down the sand dune. Matt only took a few glancing blows from the flailing scythes as the creature died.
+
+Jumping back to his feet, he relaxed as he saw the last monster fall and Liz circling in a pattern that indicated there weren’t any other threats around.
+
+Looking down at the light creature, Matt reached down to his waist and uncorked a bottle all of them now wore. Like the caravan leader's bottle, it absorbed the light creatures' corpses like a vacuum. Unlike the caravan leader's horn, which could hold hordes inside, Matt’s bottle could only hold a single monster.
+
+Shaking the bottle, Matt looked at the golden sparkly sand, enjoying the visual for a moment before putting it away and getting back to work.
+
+Seeing they finished cleaning up, Liz swooped down, landing on top of a dune, and they loaded the three filled vials into her vest made for this purpose. Four more monsters wasn’t enough to satisfy the crafters, but it got them closer to their goal of having a physical cultivator on the expedition from the crew with at least one proper enchanted weapon.
+
+If they wanted to leave the forest, they needed everyone to reach Tier 2. Every day they delayed the monsters got stronger, and this was their last large hurdle.
+
+Sifting through the sand, Matt picked up both portions of the arrow shaft. The wood was valuable enough to recover on its own, but the real prizes were the feathers.
+
+Donations from Liz’s early domination of the skies, they only had so many and weren’t confident they might encounter more birds to help their cause. The other object he cared about was the arrowhead itself.
+
+Like the swords, they allowed the physical cultivators to deal damage at range. Even if they weren't as good as the blades, they kept the crew safe and allowed them to participate so they were collected wherever possible.
+
+A cry from the air had Matt looking up to see Liz circling in a new pattern.
+
+It was in her ‘investigate’ loop, but Matt couldn’t be sure what she could have possibly seen in that area already. They had already come from that direction and hadn’t seen anything.
+
+Climbing up to the top of another dune, Matt and the others saw nothing where she indicated.
+
+Seeing their reactions, Liz wiggled her wings incessantly. Unable to communicate beyond that, Matt looked down to Aster who was hiding in his shadow, already panting heavily due to the unrelenting heat.
+
+Cocking an ear and listening to Liz’s cries, the sand in front of Matt transformed into recognizable Empire words as Aster acted as a translator. Without their magic to bridge the gap, those in beast form found it impossible to directly communicate in the methods they were used to, leaving only Aster and a few others with the ability to translate.
+
+“Liz. Says. Something. Vanished.” Matt read out the translation using his bond to ensure he was communicating Aster’s actual intent.
+
+Looking up, Matt found Liz flying away satisfied they were properly investigating.
+
+She’d drop off their vials then continue to scout for them, reducing their danger, but he wasn’t sure what they were supposed to be looking at. It was a sand dune like any other if a bit less sandy.
+
+The sunblasted desert was so barren, there wasn’t much of a threat beyond the sun creatures, but the wandering light monsters were strengthened by their exposure to the sunlight. After noon, they became fearsome enough the team preferred to sleep through that portion of the day.
+
+That seemed unlikely today.
+
+Crawling around the series of dunes Liz had noticed something in, it took her return and aerial perspective to guide them through the formation-created illusions, revealing a small hidden scout’s outpost built into the side of a lone stony outcropping.
+
+Its wards flickered, and the roof had already entirely deteriorated, its flickering being what Liz had noticed from the air.
+
+Aster immediately started growling the moment the illusion fell and they all took that warning to heart.
+
+The sand in front of them shifted until it spelled out, “Wolves.”
+
+The single word was all they needed to know. Instead of rushing forward, they circled up before moving deeper.
+
+Susanne used her boots to climb the side of a still mostly intact wall, throwing them a rope which they used to climb up on.
+
+Inspecting their surroundings, the wolf call was obviously correct. Bones of all shapes and sizes littered the area, some with flesh on them but others long-since cracked open or destroyed by the exposure to the wind and light.
+
+Seeing half busted open crates, Matt carefully perused the closest one careful of a trap.
+
+All he found were weapons.
+
+Rusted to uselessness, but unmistakably swords and short spears, they found nothing else of value in the room.
+
+Rah gathered some of the more intact scraps for later study, but their efforts were halted by the wolves.
+
+As desert wolves, they were smaller than their forest cousins. Except similar to rift monsters, these ‘natural’ creatures were full of inexorable rage that drove them forward onto their blades.
+
+Using a crumbling wall as a barrier, Matt shrunk the size of his energy blade and fought with the other frontliners.
+
+Panting, he struggled to adapt to no longer having access to his mana.
+
+Instead of being irritated by the loss of his powers, he had come to enjoy this restriction.
+
+It pushed him in ways that he normally found hard to do.
+
+Wanting to upgrade his weapon, Matt used this as a way to reconnect with his blade.
+
+As blood splashed, Matt found he missed this more simplistic fighting style.
+
+Returning to the basics of melee-only fighting forced Matt to pull out moves he hadn’t needed to worry about in centuries.
+
+Trading a serious wound for a minor wound was normally an easy decision, given how fast he could heal, but without his mana he was forced to fight perfectly.
+
+Matt couldn’t say he loved the restriction, unlike Susanne, who relished the chance to hone her sword skills. He embraced the opportunity all the same even if with slightly less enthusiasm.
+
+Focusing entirely on his swordsmanship, he narrowed down on his practical abilities.
+
+It was nice to finally give this part of his abilities some time and dedicated to improving. Normally, he struggled to fit such training into his schedule when other avenues offered more power for the same amount of effort. Now, being forced to only use his body gave him a chance to rectify that lack and he wasn’t going to pass it up.
+
+In addition, he found being limited made working on his Power much easier.
+
+At least when it came to pushing his willpower into his physical body. The strange realm couldn’t block him from enhancing those parts of himself he didn’t have but it was simply a waste of willpower. He’d tried more than once, hoping to circumvent the strange realm’s restrictions on his mana pool to no avail.
+
+His physical empowerment, on the other hand, was much easier.
+
+Matt wasn’t sure why that was, but the difference was immediate.
+
+Using that, he worked on empowering his torso and legs at the same time as his arms.
+
+Despite his mental image changing to the much more fitting river of stars, Matt found expanding his empowerment into other parts of himself difficult. It felt more like removing a blockage from a sewage pipe than the smooth mental image of a flowing river of stars.
+
+Flaring his Power in his leg, Matt lashed out, caving in the chest of a wolf when he realized there weren't any more wolves racing at them.
+
+Aster yipped at him as she pawed at the body of the largest wolf, asking for his help in getting to its heart. While the human members of the team couldn’t collect more than meat and pelts, the crew who had chosen to strengthen their bloodline and were in beast form had learned over the last few days that they got additional energy when they ate the mundane creatures' flesh.
+
+Their current consensus was that it was a bit of an exploit due to how normal beast biology interacted with the strange realm’s rules. Regardless of the why, they took the advantage and ran with it.
+
+All of them had been ecstatic at the news, which was why Matt wasn’t surprised when Liz landed and hopped over, fighting with Aster for the remaining hearts.
+
+One of the crew members finished turning the surviving boxes into torches and they immediately pressed forward.
+
+Liz flew off to get more of the crew in case there were more wolves, but they weren’t needed for their spears, rather their backs. They didn’t find weapons inside the looted halls, but they did find a supply area that had bars of refined metals laying around.
+
+Heavy enough that few other groups would bother taking them, the Unsparing’s crew eagerly grabbed the ingots, intending to turn them into enchanted weapons.
+
+Matt instead spent his time searching the rest of the ruins.
+
+They were about to leave when Allie and Aster found a secret compartment where they discovered what Matt could only describe as bottled moonlight.
+
+The bottles looked old but their shells were clear, allowing them to see the ever-moving liquid inside.
+
+Only after they were fairly sure there weren’t any additional traps, Allie reached out to grab the bottles. When her finger touched the first one, all three vanished, leaving them waiting for a trap of some kind.
+
+Allie was about to vent her frustration but her expression froze. However, Matt couldn’t pay her any more attention.
+
+Shivering, Matt felt a new type of energy try to slither into his cultivation base and do something. Except as it ran into his Genesis Energy it failed to do anything.
+
+That sensation of the energy trying to find a way into his cultivation felt like worms crawling down his spine until it spent itself pushing his cultivation further instead of bolstering what was already there.
+
+From the twitches Aster and Liz went through, he was sure they had experienced something similar to him.
+
+Allie and all of the crewmembers Matt could see clearly had the opposite reaction as they sighed in contentment.
+
+“Please tell me you guys got something more useful than the shivers?”
+
+Allie grinned as she looked around for confirmation. “That gave me about half a Tier’s worth of essence unveiled. I’m willing to bet that everyone got the same amount. I also got a small improvement to my converted essence.”
+
+Despite not getting that second part, Matt was happy for them, hoping he’d get such prizes once they surpassed their accumulated Genesis Energy.
+
+Shoving past him, Allie tossed Aster out of the hole, earning herself an excited yip before she clambered out with Liz hot on her heels and Matt following behind.
+
+Matt was just happy to leave the desert now that everyone was past the Tier 2 threshold.
+
+***
+
+Rah watched the terrain change unnaturally rapidly in the moonlit night as the caravan trundled along. As he kept an eye out for any new predators now that they were leaving the inhospitable desert, Rah mulled over the realization he had come to during the last fight.
+
+He could admit when he was wrong. Usually internally, but he’d never been the type of person who couldn’t apologize when he did verbally express something he felt remorse for.
+
+However, his willingness to admit when he was wrong didn’t make him perfect by any means.
+
+A part of him, the prideful part that kept his feet moving down the causeway of life, had wondered if the nigh mythical Ascenders could truly live up to their reputations. Cultivation reset strange realms had been notoriously difficult in his own Realm, and that reputation hadn’t seemed to change by ascending.
+
+Being something of an oddity himself, the Unsparing’s crew were far more willing to talk to him casually than most. And while he had kept his mouth shut, he hadn’t quite understood why the crew had been so thankful for the Ascender’s teams to be willing to take them through the strange realm.
+
+Yes it was nice the command team wasn’t willing to hang the rest of the crew out to die, and Rah didn’t need the crew telling him the Ascenders were the exception that proved the rule to know they were impressive.
+
+Yet they blew his already high expectation out of the water all the same.
+
+While he couldn’t say for sure, Rah doubted most of the groups who had entered the strange realm had taken over fifty hangers-on, all a Tier higher and with less combat prowess, which made him afraid of the eventual scaling.
+
+When Captain Stenson tentatively brought up that aspect of the strange realm, showing the Ascenders that he and the crew wouldn’t be upset if the command team wanted to run it alone, neither team seemed interested in taking him up on the offer.
+
+Rah being the weakest of the ‘leadership group’, as the crew called them, wasn’t going to suggest otherwise, but he had been worried for his own sake that they might be unable to progress at all with the difficulty spike so many entrants would cause.
+
+However, seeing the Ascenders in action proved him wrong on both accounts. Which was exactly why he normally kept his opinions to himself unless he was confident about the words that crossed his lips.
+
+Once uttered, some words could never be retracted and that was a lesson he had learned the hard way.
+
+Seeing the Ascenders fight firsthand, in bodies that weren't truly theirs, he was shown an additional facet of why they excelled. Another reason everyone in this Realm seemed to chase upon their heels instead of overtaking them.
+
+Where the more average crew members needed to group in threes and fours to take down one of the roaming light monsters, the Ascenders threw themselves at the monsters even when they were outnumbered.
+
+Such risky moves should have cost them their lives, or at least limbs, but instead they cut their way through their opponents with unerring precision and ferocity before immediately moving onto the next.
+
+Matt, having chosen his physical core, suffered the worst, with only the simple enchanted weapons. But even with that, his kills weren’t that much slower than Susanne’s despite the disparity in weapons.
+
+While Rah rarely got to see it, normally the limits on their power reinforced how deep the normally affable man’s foundations really were.
+
+Zack, on the other hand, terrified Rah.
+
+While normally standing idly in the fights, conserving his now very limited mana, when Zack did act, it was almost always a lethal move. Whether he blew a spell up in the enemy’s face or guided a spell that might have otherwise missed its target to a weak spot, any time he acted, a monster had died.
+
+Having rarely encountered pure mages of the type in his Realm, Rah was glad the man was a friend. Because having a spell taken over mid-flight and redirected back at the caster was a horrifying prospect he’d watched play out over and over.
+
+Not that Allie was much better.
+
+Liz had tried to tempt him into a bet on whether or not the teleporter would choose her magical or physical core, but Rah refused the sucker's bet of physical cultivation. There was no way the teleporter would do anything except strengthen her main skill given her previous actions.
+
+Not that having a weak physical body hampered her any more than not having access to her Talent did.
+
+Like the assassin he was sure she could be, and probably was, Allie appeared in the fights for only an instant at a time. When she teleported into position, her dagger was already moving with full force, and the moment she retracted the blade, she was gone once more.
+
+Limited by her mana pool without her Talent, Allie picked and chose her targets more than normal, but she was still effective.
+
+Even Aster and Liz, the two locked in their bloodline bodies, still managed to have more of an impact than any of the crew.
+
+Liz was nearly single handedly protecting their heads while also offering the best scouting services any low-Tier could ask for. Given how many ambushes she had prevented, combined with their lack of spiritual perception range, she might have been the most important person on the team, even without her ferrying of goods between groups.
+
+Aster, on the other hand, had the much harder job of keeping them all safe in the moment to moment combat. And despite her limited methods, managed it better than the healers.
+
+The two healers might have been her biggest fans thanks to her efforts saving their meager spell casts.
+
+Rah knew he wouldn’t do much better than the crewmembers without his Ascension improving him so foundationally, but that was part of why he had been so eager to enter this strange realm. It was also why he hoped the Ascenders could make the difference for the larger than normal group and at least carry the group to Tier 5 or so.
+
+Anything more would be wonderful, but if they made it that far, he’d be ecstatic.
+
+Seeing how well the two groups did made that selfish part of Rah regret not entering in with a smaller group.
+
+That was a thought he wasn’t particularly proud of, but such thoughts didn’t rule him.
+
+Not that having the crew was without its positives.
+
+For all that it made the strange realm harder, they were still competent Tier 30s. In fact, two of the maintenance crew had been the ones to crack the more advanced enchanting method that Susanne’s weapon used, which was why they had spent their days out in the desert under the scorching daylight.
+
+In retrospect it was obvious, but to make the fully light-based weapons they needed the light energy sources everything in this strange realm ran off.
+
+Having chosen his magical core, Rah didn’t need the upgraded weapon as he still had access to his Talent and his core spells allowed him to create his own weapons and armor.
+
+Why some people had their Talents but others didn't, Rah had no idea. He was simply grateful that he got access to his at all as it let him fool around with the local enchanting method more than most thanks to failed attempts at enchanting with his Talent didn’t use any resources beyond his own mental energy.
+
+Sadly, while the enchanting method needed to harness the strange light dust was interesting, the logic was so twisted, he doubted there were any ways to recreate this in the real world.
+
+According to everyone else, that was normal enough, but Rah still pondered the lessons held within those tangled logic webs.
+
+In fact, he had several new ideas for rune variations inspired by the methods used here.
+
+He had tried to share his findings with Zack and Matt, but it had been less fruitful than he had hoped. While the two of them would happily talk about the new runes or the logic of how he got there, the moment he tried to talk about the strange realm’s original runes themselves, they seemed to lose interest.
+
+It was his consideration of that oddity which made him realize something he now couldn’t get out of his head.
+
+The Ascenders were young.
+
+It seemed obvious in retrospect, but he realized why he sometimes felt out of place with them.
+
+Logically, he knew they were less than a thousand years old, but they didn’t normally act like it.
+
+They normally behaved like seasoned immortals who had long since learned how to navigate forever. At other times, they caught him off guard and this was one such time.
+
+Rah believed part of it, maybe a large part, boiled down to the fact the Ascenders had both the martial might and societal respect that few challenged them relative to their ages.
+
+His early years had felt like an endless string of challenges as he struggled to make headway. Those experiences had tempered him.
+
+The Ascenders reminded Rah of competent heirs from large organizations mixed with the most successful and ruthless independent cultivators from his Realm. Not the common wanders, rather the types who rarely had to deal with new trouble because they had climbed over a mountain of bodies to reach their positions and weren’t afraid to do it again.
+
+Most died when they ran into something or someone truly out of their league, but the ones who survived had a presence around that ensured few bothered them.
+
+It was absolute confidence that stemmed from their personal power.
+
+That same power was what had caused Rah to miss the obvious.
+
+During the voyage out into chaotic space, it was understandable for people to go head down and work on something for a decade. There was little else to do during the downtime and so it was the perfect opportunity to catch up on projects or rest as the cultivator saw fit.
+
+That was normal according to Rah’s lived experiences.
+
+The same went for rifts; having learned about them and delved many himself, Rah understood why the Ascenders rarely delved the same place twice. Complacency kills more often than anything else, and getting into a routine when it came to combat was asking for trouble.
+
+Rah understood working during the safe moments of a typical delve same as he did when traveling.
+
+Inside this strange realm, he had expected the Ascenders to be as interested as he was.
+
+The crew were.
+
+Almost all of them met up in the early evenings and traded information they learned about the strange realm as they kicked off their journey. Even the ones occupied at the time found time to circle around the group and chat for at least a few minutes daily. It was a simple exchange of information, a little jovial interaction that Rah believed was vital to a society of immortals.
+
+On the other hand, the Ascenders were so young and so powerful, they hadn’t yet realized that these moments, the slower ones with friends, were the things that made them full and complete people.
+
+It wasn’t the battles and the fights, at least not alone. Healthy people needed more than that.
+
+Rah had learned that lesson the hard way, and saw little reason they needed to go through that themselves.
+
+There were times when Tier and distance were important, but there was no reason to brush off inspirations derived from the strange realm just because the magic wouldn’t work outside.
+
+Rah didn’t think it was arrogance, not inherently even if their actions were, but rather the result of them still being so damn young.
+
+They all still had multiple avenues of growth with no outward roadblocks. He suspected they had never truly slammed into the wall where they couldn’t progress in any fields.
+
+Rah had met many people who, when they hit that wall and finally came up for air, found their lives empty and hollow, having only gone through the motions of life instead of living it properly.
+
+Such revelations had ended more than one life of someone Rah was fond of, and he didn’t want to see that happen to his friends.
+
+Relatively new as they might be, he considered the six of them true friends, which was why he was so confused about the whole situation.
+
+He hadn’t met them often, but all of the Royals, especially Emperor Emmanuel, had seemed to understand that truth. While it was possible the Emperor had some way to mitigate the risk of the Ascenders burning themselves completely out, Rah doubted it .
+
+The Emperor lamented missing his weekly meal with his wife, which told Rah everything he needed to know about this Realm's views on immortality.
+
+It looked like to him they were simply waiting for both sets of Ascenders to burn themselves out and then offer advice the older immortals were clearly already doing.
+
+That was the only thing that made sense, considering Liz had grown up with two of the Royals in question. They should have learned this lesson long ago.
+
+The smartest answer would be to mention his concerns to King Leon or Queen Mara privately, so he didn’t overstep his bounds as a foreigner. However, they were far away, and he didn’t think Allie would appreciate being used to herald in her own shortcomings. Combined with the timing of his realization, the two reasons ensured that idea wasn’t on top of his list.
+
+Some people might need to learn such lessons the hard way, but it seemed pointless for them.
+
+Rah acknowledged he might be wrong, but he didn't think they needed to run into that wall to learn that lesson.
+
+Upon his initial arrival to this Realm, it had been good to surround himself with such driven individuals. As much as they had rubbed off on him, reinvigorating his aged bones, he wouldn’t feel right if he didn’t say something after having noticed the problem.
+
+That would be a betrayal.
+
+That was why the morally right choice would be to immediately damn the repercussions of disturbing a Tier 50’s plans and bring it up during the strange realm.
+
+Such a drastic move might break the Ascender’s focus, and Rah knew he couldn’t risk the rewards of a strange realm that was this precious, all because he thought he knew enough to interfere with prodigies. Maybe he could if they were alone, but with the rest of the crew’s fates hanging in the balance, that choice felt even more wrong.
+
+Rah had never been a prodigy, but he had been a friend before. After weighing the pros and cons, he decided he’d tell them the next time they got a few leisure days. Probably after they returned to settled space. But he wouldn’t delay it too long beyond that should an opportunity not arise before then. Such actions would turn his goodwill into something else he didn’t like the idea of.
+
+He hadn’t known what to expect given the cultivation differences for this strange realm, but having experienced the first bit of power returning to him, he knew he needed to do his very best in this strange realm.
+
+Such cultivation resets had been something of a fever dream in his Realm, where a mistake as a Tier 1 could block someone's advancement to Tier 15. Everyone knew someone who knew someone else who had been into a place that reset their cultivation. Or that was what they claimed. When pressed, no one could provide concrete information about the mythical effect.
+
+While the Inspiration that led to his Ascension had corrected all of the mistakes he had made in his cultivation journey, it only corrected the framework. It didn't improve upon it.
+
+In his own Realm, Rah had only personally seen a single Natural Treasure that could allow for limited adjustment for allocated essence. Its sale had caused three wars and millions of deaths, but most considered it a small price.
+
+As the people in this Realm didn’t use the cultivation techniques Rah was used to, that aspect of a cultivation reset was lost on them. But he loved the strange realm for that.
+
+Using a tiny bit of the power that revealed his cultivation core, Rah had been changing his cultivation. Nothing major, he didn’t have that level of control in this body even if he wished for it, but when he had taken his first enlightenment pill, he had gotten an idea.
+
+Based on the information passed on from Nahla of Wave’s Rise, Rah had considered condensing his core down to a compact ball like this Realm preferred to do. The power gained from such an action would be undeniable. Like her, Rah didn’t want to give up his life's hard work.
+
+Unlike her, he was willing to do it, but it was his last resort.
+
+Having used his first enlightenment pill to ponder the problem, Rah had a method, but he wasn’t sure if it would work.
+
+Ideally, he wanted to keep his technique. It was personal to him and he had two ideas on how to improve it to a level where he could compete in raw power with the cultivators of this Realm and beyond.
+
+The best answer, a way to cycle fully compacted rift monster essence, seemed entirely impossible. Still, the pill had given Rah a glimmer of another idea.
+
+A risky one, but maybe possible.
+
+Based on Nahla of Wave’s Rise’s original cultivation, Rah was now considering condensing his existing essence while not destroying the empty pathways that traveled through his cores. His ideal outcome would be fully compacted earth-aspected essence replacing those channels. If things turned out as he thought they might, that would still let him pulse power through the pathways of different essence to achieve a similar effect to what he had now, only with the same amount of essence everyone else had.
+
+He ultimately wanted to turn his entire cultivation, both of his cores, into something that might resemble an enchantment more than his original cultivation technique. It was a crazy idea that he would have been ridiculed for back in his own Realm. If it was possible, Rah might be able to blend his previous method and current alternative into something truly unique.
+
+Something singularly his own.
+
+Advancing would become exceptionally harder as he would need a source of elemental essence that was not only the right Tier but the cultivation technique would become something truly personalized. No one without all of his advantages would be able to follow that pathway if such ambitious ideas were possible at all.
+
+That ambition was why Rah didn’t want to risk disrupting the group's strongest fighters with his theories.
+
+No matter his plans, Rah needed them to advance as far as possible so he could improve his earliest Tiers of cultivation.
+
+Drilling through his earliest allocated essence, essence that had been with him since he first started his journey, Rah started building new pathways. New channels for power to flow.
+
+It wasn’t an ideal technique, no new Tier 1 could learn this, rather it was a blueprint based on Rah’s countless years of toil and hardship perfectly suited to what he wanted and needed out of his cultivation.
+
+It was the chance to redo things with his current experience.
+
+That was something Rah wasn’t willing to jeopardize without a good reason even if he disliked how calculated that made him.
+
+Pushing down those thoughts, he peeled his eyes as they entered the forest properly. Trees loomed and their path was made with trampling feet and blades.
+
+***
+
+Only hours after entering the forest, they were attacked by a boar the size of a horse.
+
+Without one of the bloodline cultivators who smelled it, the caravan would have taken devastating losses, but that was why they were waiting in ambush for the second time in as many days.
+
+It took until the sky was lightening for the boar to return, but Matt felt the urge to curse as he saw it.
+
+Five feet at the shoulder was underestimating the behemoth in front of them. Rather than blaming the crew’s report, Matt simply noted the creature had grown significantly stronger over a single evening.
+
+That would be good to know for the next boss.
+
+Not that it changed anything for the boar.
+
+They were going to kill this creature if they could.
+
+They’d actually considered that they weren’t meant to kill the boss at all, and were meant to avoid it instead, but they wanted to at least try, not knowing what rewards it might give them.
+
+That, and it was better to attack on their terms.
+
+The moment the boar stepped onto the designated spot, Matt launched himself out of his pit, his sword already summoned.
+
+Roaring, he was gratified to see the boss turn its gaze at him.
+
+Its tusks glowed with building power, but Matt continued his charge as if he didn’t notice at all.
+
+Sliding under the boar, Matt tried to disembowel the creature.
+
+Instead, the boss jumped into the air, its back arching as it prepared to come down on Matt with its still glowing tusks.
+
+Flaring his Power, Matt punched the ground hard enough to send himself vertical. Once on his feet, he jumped out of the way as the boss slammed into the ground hard enough that several trees fell.
+
+Thankfully, while the opening gambit had failed, the Unsparing’s crew immediately adapted to the back-up.
+
+With five melee fighters cycling in and out of combat, the mages and archers scaled the trees and used the height advantage to rain down attacks.
+
+Susanne nearly hamstrung the boss and Liz pecked out one of its eyes, but Matt felt himself enter a strange sort of calm as he swapped places with one of the crew as Susanne stepped back.
+
+They weren’t in a rush and Matt didn’t race forward as he might have if he had access to his mana. Instead, he kept his place in the defensive line, doing his part.
+
+Matt didn’t mind that though he led the group of four crewmembers.
+
+He’d take the boss’ attention from them as they started to grow overwhelmed while the archers and mages carefully balanced which side was attacking the boss at any given time, ensuring it spent more time trying to track them than fight the melee fighters.
+
+It wasn’t often Matt had to resort to such normal boss strategies, but he knew the theory as well as anyone else.
+
+Implementing it, however, was another topic. Matt found the boss fight strangely invigorating.
+
+It didn’t have anything to do with the fight at all, rather his Power.
+
+Fighting with only his melee abilities resonated very well with his Power, but Matt sensed that was only part of the whole.
+
+His initial gut instincts told him that fighting in melee was easier because he was missing most of his Power. Prodding that feeling, he decided that solution wasn’t correct.
+
+Matt couldn’t put his finger on why until after he was shoved backward due to his blocking a hit when the boss tried to gore the woman next to him. As he was shoved away, he instinctively lashed out, leaving a deep furrow that slipped between its ribs, exposing the boar's lungs.
+
+The only reason he had been able to do so was that for a moment, his willpower flowed smoothly through his arms and legs, with his torso seamlessly transferring power between them.
+
+It wasn’t until that moment that Matt understood why activating his Power had felt so wrong for so long.
+
+As Matt cycled out of the frontline, he let himself ponder over what he had discovered.
+
+He realized he had been negligent with his physical training efforts. Despite wanting to upgrade his sword, Matt had been half considering if he should convert the weapon into more of a casting implement.
+
+That wasn’t wrong if he only wanted to be what his Talent made him, and with hindsight, he realized how foolish that desire was.
+
+While his magic offered easily accessible power with each Tier up, it was also why he was having such a hard time actualizing his Power’s second stage.
+
+It was because he had been neglecting his body in his training efforts.
+
+Like a house left without maintenance, things backed up until they were solid, unable to flow. Looking inward and pushing his willpower through his magical buffing channels, he found it much easier. Instead of carving new tunnels through stone, it was like washing away a small layer of twigs to show a well-used avenue.
+
+He hadn’t been utilizing his body’s advantages to the extent he could have been. Just because his body was stronger than most people wasn’t a reason to not work on improving that aspect of himself.
+
+If he truly ran into diminishing returns of his mana growth and he couldn’t grow stronger by his magic, he would curse himself for not having acted to strengthen his ‘weakest’ aspects when he could.
+
+Wanting to slap himself, Matt’s self-recrimination paused as his attention went from the physical and magical rivers that represented the core of his many available powers.
+
+His Talent.
+
+Most Powers could boost a Talent, but Matt felt a sharp sense of danger the moment he even considered trying to empower his Talent.
+
+Matt couldn’t know what might happen when he tried to empower that most central aspect of himself, but he knew it would be bad if he wasn’t properly prepared.
+
+Stepping back into the fight, Matt worked at unclogging his mental barriers about his fighting style.
+
+Solely relying on his body and his sword, he fought with the others until the boss was nearing its death.
+
+Pushing a burst of willpower into his legs, he launched himself forward as he had at the start of the fight. Instead of leading with his blade, Matt drove it into the ground, halting his forward momentum.
+
+The boss, having seen the attack before, jumped into the air trying to dive on Matt’s sliding form.
+
+Instead, it nosedived into the spikey ground.
+
+Ice, hardened wood, shards of stone, none of them alone did much to hurt the boar, but it was the perfect opportunity for the mages to unleash their fury.
+
+Feeling itself bound to the ground, the boss struggled, trying to pull its nose free from the trap. It tried to retreat, but its brute strength ripped off part of its snout in its struggles, causing it to scream in pain and anger.
+
+Its life ended as Matt and the others front liners hunkered down, letting the archers have clear firing lines now that the mages were done. They waited motionlessly until their duty to protect the others was confirmed by the reward.
+
+With its death there was a burst of energy that brought Matt all the way up to the middle of Tier 2 from the quarter mark.
+
+What was even more interesting to Matt was that his converting energy, the main reward of this strange realm, had improved with the boss's death.
+
+The energy was more concentrated than it had been before.
+
+A purple darker than what had come before.
+
+Eventually, they learned the hard way why there was a reward for killing the bosses.
+
+After failing to kill the boss in their second leg of the journey, but still making it to Tier 3 and being given the option to end their expedition, they had expected a harder second half.
+
+What they hadn’t expected was that only hours after they left the second city as Tier 3s, they were ambushed by the area’s boss monster. Except instead of arriving alone, it came with half a dozen mini bosses, making that first unexpected rematch a desperate struggle they only survived thanks to Allie leading the boss away from the caravan which let them ambush it the next day.
+
+Their best guess was that the strange realm needed to advance time for some reason every time they Tiered up. That idea also helped explain why the cities were old and established, when seconds before they were setting down the first tents.
+
+While the mages had been instrumental at the start, it was the fully enchanted physical fighters who carried the last few Tiers. Whatever the strange realm did to their new bodies, the physical cultivation enchantments seemed to scale with the strength of the light monsters, ensuring the weapons kept up with their foes, unlike their own cultivation.
+
+With every physical cultivator armed and armored, they made it through nine more biomes, advancing to Tier 9 before they finally called it and permanently halted the caravan by telling the current leader they were done. Having lost more than half of their numbers against the Tier 7 rat boss, they had known they were gambling to push another Tier, but with a near unanimous vote by the remaining crew, they pushed ahead a final time.
+
+What remained of the crew had been killed, taking out the Tier 8 checkpoint skeletal knight and leaving only the seven of them battered and bloodied to defend the caravan on the final day. Due to the requirement of having everyone alive at the next Tier to advance, it was only a single day of effort.
+
+Not that they made it through the boss fight unscathed themselves.
+
+As Matt found himself ejected from the strange realm, he smiled as he looked at his physical cultivation core.
+
+His first five Tiers were golden Genesis Energy, but Tiers 6 through the middle of 8 were now a deep purple color that shimmered like light passing through water. Being so close to the center of his core, the power was multiplied by both the Genesis Energy below it and the normal essence above.
+
+Seeing the difference between entering and exiting, Matt felt every mile walked without his Talent had been worth it.
+
+What made Matt even more happy was his Power.
+
+In the nine months they spent trudging across the strange realm, he had managed to fully excavate his Power.
+
+All of the channels were now available to him, even though he didn’t dare use them all at once. He didn’t have anywhere near enough willpower to risk that, nor could he balance that many boosted parts of himself at the same time.
+
+Finally, Matt inspected the bonus to his body given by the secondary reward.
+
+It was impressive; the quantity, or possibly the quality, they had been awarded was more than any of them had expected, even accounting for their larger than normal group. It wasn’t a scaling reward, the improvement of his physical body was flat and static, unable to grow but that didn’t make it weak. Rather that portion of the strange realms reward would only remain relevant until Tier 35 or so before he outscaled it.
+
+Seeing everyone's excitement, Matt looked outward.
+
+Scanning a crewmember who he knew had died early, Matt saw that their purple converted essence was slightly less concentrated. Their converted essence was less dark purple than his was, possessing a more violet hue, but the difference wasn’t too large.
+
+Best of all, they still had nearly seven Tiers of essence converted. The early death had cost them a little, but the added bounties they had collected at each stage of the journey had mitigated the worst of the losses.
+
+That made Matt consider how far the truly exceptional Corporation teams might have gone. Ultimately, he didn’t see how they could have made it too much further than their run. The scaling of the strange realm was simply absurd. Additionally, most teams didn’t linger at anything but a break point, so most elites would have run it at Tier 30 if not higher.
+
+Mulling over everything they had experienced, Matt was fairly confident no one had been able to do higher than Tier 10 without a Talent that broke the strange realm.
+
+Not that he cared too much. He was pleased with their result and not much else mattered.
+
+Unit per unit, Genesis Energy did more to help Matt, but his new purple essence was no slouch. Concentrated by every boss they killed and every ruin they looted, it was quite a bit better than the initial reports had indicated.
+
+Given that converted essence was one of the few things that scaled better the farther one climbed, Matt was excited to have nearly a third of his tiers' were now converted into something other than monster essence.
+
+Few could claim that, let alone have the best conversion and a top contender combined.
+
+He was giddy to have a go with someone, preferably Remi since the pinnacle elite was a dick, but they didn’t have any time to waste on side objectives. Not yet anyway.
+
+Once the corporation running the strange realm saw they had exited, they were immediately but politely hurried along.
+
+After checking that their ship hadn’t been tampered with while they were inside the strange realm, they left. They still wanted to hit a few other strange realms before they needed to teleport back to the breachpoint.
+
+That, and they still had to prepare for their upcoming return to the planet.
+
+It would be rude to show up empty handed.

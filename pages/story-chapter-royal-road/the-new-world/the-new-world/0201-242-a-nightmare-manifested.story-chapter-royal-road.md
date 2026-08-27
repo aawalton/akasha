@@ -1,0 +1,201 @@
+---
+id: bc1d05d6-f27a-519f-9055-8b554afe3b27
+page-type-slug: story-chapter-royal-road
+title: "242 A Nightmare, Manifested"
+slug: 0201-242-a-nightmare-manifested
+partOf: the-new-world
+position: 201
+ownLength: 3294
+unit: words
+ownProgress: 3294
+publishedAt: 2019-12-13
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/434200/242-a-nightmare-manifested"
+royalRoadId: "434200"
+markedReadAt: "2026-06-29T21:27:51.370Z"
+---
+
+-Daniel-
+
+I grabbed the back of my neck, shaking out some mental exhaustion from the past three days. Turns out, setting up a necromantic ritual was hard work. Now that I understood the process, it made Torix's first blood sacrifice all the more impressive.
+
+Even against mindless silvers and a few not so mindless eldritch, the setup proved difficult. It began by setting up a three-mile wide circle of runic inscriptions. To my surprise, the metal matrice that the silvers created actually made that part much more manageable. Dirt would've washed away before we finished. Metal stayed strong even when stomped on.
+
+Without having to worry about the markings, I finished that part in half a day. On the other hand, gathering some semi-intelligent eldritch proved difficult. I actually had very few suppressive techniques at my disposal. For the most part, I specialized in lethality when interacting with eldritch.  Finding the right mix of toughness and intelligence was trying for that reason.
+
+Torix scoped out a few prospective dungeons with our limitations in mind. After passing through four of them, we found targets suiting our needs. Within the countryside of Giess, a few stone angels actually enslaved a village of espens.
+
+These eldritch put the espens through pretty brutal living conditions, mirroring labor camps. These were relatively strong eldritch, sitting around the level four thousand mark. For me, it was child's play to beat them down into submission.
+
+I simply floated over the village before landing in its center. Even without Event Horizon's crushing aura, my presence proved formidable. Wary of me, the angels attempted some intimidation.
+
+Said intimidation failed.
+
+A few cracked faces and broken noses later, they fell in line. That worked to our favor since the stone angels suited the ritual for a variety of reasons. They each owned undying bodies, meaning old age wouldn't get them any time soon. They proved plenty killable though as long as enough trauma was inflicted.
+
+On the other hand, that immunity to father time gave the angels tremendous vitality and loads of memories. That worked to our favor regarding Torix's ritual. Without needing to find any other groups of eldritch, we transported them towards the ritual site via Spear's warps. Once there, we prepared the mana for the ritual to take place.
+
+It took a few hours, and Torix was once again floored by my mana generation. At this point, he argued it was a selling point for the guild as a whole. I could fly in, charge a blue core, then zoom out before the day was over. Profitable business strategies aside, the final portion of the ritual was the most straightforward pat.
+
+Torix needed a tough, mana pliable object for his phylactery. I took out a chunk of myself and melted it down into a dodecahedron. Once made, the ritual was ready to take place.
+
+Around us, we surrounded ourselves with the dense, abundant life of the silver's territory. We cleared the field of spires within the ritual site, giving an open view of the sky. Around us, Torix controlled a vast army of silvers on the outskirts of the ritual site. I created golems of metal using quintessence for him to drain from. Combine that with the gargoylic angels, and the sheer volume of life mirrored a compact city.
+
+I extended the Rise of Eden outward, using life creation all around us. A swarm of color expanded from the metal as quintessence rushed into the expanding jungle around us. After several minutes of growing a field of developing life, I added to this density further. The Rise of Eden even strengthened those here, giving them more life force.
+
+Torix took the dodecahedron towards the center of the site, getting his mindset ready for the transferrence. I followed him, choosing to stay silent so he could organize his thoughts.
+
+Torix floated the dodecahedron onto the monolith's centerpiece. It hovered over the central pillar, the red steeple made of congealed bloodstone, a kind of organic crystal. Intricate linework traced its surface with deeply etched lines spreading out from it. As the centerpiece, it acted as the ritual's heart.
+
+Both of us standing beside it, Torix inspected the dense jungle around us,
+
+"You've become rather adept at creating life. It's rare for an individual to create it with this sheer amount of volume. In fact, creating your forestry in these barren landscapes, it feels surreal as if living out a dream at times."
+
+I raised my eyebrows, "I just have a lot of mana to swing around. I'm honestly not all that technical with quintessence yet."
+
+Torix peered around,
+
+"Perhaps, though it's impressive nonetheless. I know that individuals with large mana pools tend to struggle with finesse in regards to their sorcery. It's the same as coordinating an army of a hundred versus an army of ten. The more you have to control, the more difficult control becomes."
+
+I cupped my chin, "Maybe that's why I make too many crabs sometimes."
+
+Torix cackled before scoffing, "You're more crustacean than human if we dwell on the topic. Your armor is a shell at this point, guarding the softer insides, much like an exoskeleton."
+
+I shook my head, "It's more than a shell now. It's my blood, my bones, and my skin. I am it, and it is me."
+
+Torix tilted his head, "How does your heartbeat then? Sweat as well, how does that work?"
+
+I shrugged, "I haven't sweated really since my last evolution. I don't think there's an ounce of water in me anymore. Besides all that, what about you? Do you really know how you stay alive in a body like that?"
+
+Torix stared at his dry, cracking form, "Hm...Perhaps some questions are better left unanswered. Now, we've prepared the recipients. The more living individuals we may fit within this circle, the better. You obviously took that candidly considering the throng of individuals here."
+
+Torix gestured towards me, staring down, "I understand this last requirement of the ritual is staggering, yet I still ask it off you. The final piece of the phylactery process will require a primary energy source to act as an impetus for the process."
+
+I rolled my hands, "Yeah, you said something about some lifespan, right? I'm ready for it."
+
+Torix met my eye, "That is precisely correct. This will require upwards of a thousand years of your lifespan, Daniel. This is a serious commitment. You could easily die despite your vitality. I wouldn't ask this off you, but hopping between the bodies will be impossible otherwise. I simply lack the skill I would otherwise need."
+
+I waved my hand, "It's actually not that big a deal. I got this perk forever ago. It gives me one year of life for each eldritch I kill that's over level 1,000.  I'm sure that counts for silvers and Hybrids too. In fact, I think have more than one. It's hard to remember. Either way, I got wayyyy more than a thousand years left in me regardless."
+
+Torix coughed into his hand, "Ok...Well then, I suppose it will sting a bit. What are a mere thousand years in the face of the Harbinger of Cataclysm? Nothing, apparently. I assume we'll begin the ritual now then?"
+
+"Sounds good."
+
+Torix pulled out his grimoire, turning towards me. A few pages later in Torix's tome, and he began the ritual to lichdom. A hollow, draining sensation encompassed me as a dark aura gripped my soul itself. Torix murmured,
+
+"This is a dark medium used to channel the life force. It acts as a 'room' for my soul to inhabit within the phylactery. The more you feed it, the more it will grow. This strengthens the structure of it, allowing me to expand my potential over time. Just feed it the bare minimum for now. We can develop it later if need be."
+
+I gave him a thumbs up, "Of course."
+
+The dark thing began siphoning energy, expanding with each bit of life force I gave it. It burned a bit, like stepping into bathwater that was too hot. In classic Daniel fashion, I stuck to a reasonable amount of life force. With a connection fully established, I gave it a substantial chunk of my life force.
+
+I underestimated how much I had at my disposal. A wave of vitality deluged towards the phylactery. Torix strained out his words, "I told you to send as much as it needed."
+
+I let my hands slap against my sides, "Look, man, I didn't even give it half."
+
+The phylactery laughed with glee. A few thousand years, and it began choking on the flood. After about twelve millennia's worth of life later, give or take a few centuries, the medium could take no more. Waves of blue mana flooded out of the monolith, falling into the metal below. Torix scratched the side of his head,
+
+"Huh...that was...fast. Any estimates on the life force?"
+
+I gave Torix a thumbs-up, feeling a bit drained, "Plenty."
+
+Torix shrugged, "I'd rather you not overdo it, but I'll accept any extra you've given. Now, let's begin the controlling process. With two minds, this will prove simpler than me finagling this medium on my own. This is dependent on the amount of life force-fed to the creature, however. You fed it more, so it will prove more difficult than normal."
+
+I pointed at the translucent, spooky specter, "Do we like...suppress it?"
+
+"Ahem, essentially, yes."
+
+My armor grinned at the ghoulish ghost, and I molded Event Horizon over it, condensing the aura over the thing. I thundered while pointing at the soon-to-be phylactery,
+
+"Get in there before I make you drown in your own ectoplasm."
+
+The spirit backed into the geometric object. It infused into the structure, permeating the metal as if its life depended on it. Torix shook his head,
+
+"This entire process is far more anticlimactic then when I first accomplished it centuries ago."
+
+I shrugged, "Eh, I'm not here for theatrics."
+
+Torix brandished a hand, "Neither am I, though I do enjoy them at times. Now-" Torix looked at his status,
+
+"A few new reports from Althea, hm? I'll read them over once we've completed the ascension. Now, I will transfer my soul into this object. The chance of success is higher than normal, considering the power of the object and the amount of life in it. Your restraining tactic seemed rather potent as well, so it shouldn't require much to resonate."
+
+Torix took a deep breath before holding it up and staring at me, "If I dissipate, then I'll return to my own original phylactery. If you can pick up the phylactery and hear my voice, then it was a success."
+
+Torix's current form cracked, his bones ebbing out darkness. The phylactery hovered over the monolith. I pulled myself out of the massive circle's range, making sure I didn't catch myself in the ritual.
+
+It wasn't because it would kill me. Quite the opposite, actually. My high willpower and sheer volume of mana acted as a stonewall against the ritual's process. It basically peeled the minds, memories, and mana from the individuals within the circle, leaving husks behind. This took time and required the mental effort of the creator of the phylactery.
+
+One by one, Torix needed to strip the minds of each individual trapped within the zone. Of course, for weaker minds this was simple. The stronger the mind, the more difficult this process became. Finding the right balance between mind's worth taking yet soft enough to wrestle down was essential. It made Torix's previous effort all the more impressive.
+
+He must have really hated that rival clan. Like, really hated them.
+
+That aside, I watched as the ceremony began. From the outskirts of the massive circle, darkened mana crept into the runic lines of the ritual. The aura of the ritual carved into the sky, the darkness eating the light.
+
+With each moment, bodies fell one by one. The artificial life fell, no fight in them to hold on. The silvers proved similar, their grotesque, instinctual natures crumbling to the calculating, developed mind of Torix. When the angels began falling, Torix's pace hardly slowed. That surprised me the most.
+
+The insidious, practiced ability reminded me where Torix planted his roots. A necromancer through and through, he ripped the souls and minds of his victims apart. Within a few hours, he completed the ritual, his mind magic unbelievable.
+
+Each conquered mind funneled into the monolith, the crystallized bloodstone radiating. From each body, more blood drained into through the engraved cracks in the metal. From the monolith, the souls coalesced into a shifting orb of liquid blue. The dozens of mana stones littered about drained into the ritual as I fed dominion mana into the site.
+
+Torix laid on his knees at the monolith's foundation. As if worshipping, he prayed to it before his body crumbled into ash. The shifting orb of blue rippled before siphoning into the dodecahedron of metal. In a masterful display of control, he funneled mana without excess or waste despite the overwhelming volumes of mana at use.
+
+As it came together, the bloodstone beneath it cracked. It cracked, leaking blood onto the ground of the ritual site. A pool of blood spread from the melting pillar. It was time.
+
+Flying over, I pulled Torix's new body from my personal storage. The darkened metal lustered in the sun, polished more than mirrors. I hovered over the pool of blood, waiting for a moment. A telepathic tether inched into my conscious, and Torix beamed,
+
+"We succeeded. This phylactery dwarfs my previous incarnation. My mind can expand without bounds, and I will face no limit. I will be eternal."
+
+Torix's voice carried the edge of unrestrained joy. It was an almost manic happiness, the kind only seen once in many years. I couldn't help but get a giddy grin on my own face hearing how damn happy the old guy was. I pointed at the darkened skeletal construct,
+
+"Are you ready?"
+
+"Yes. Now is the best time to achieve resonance. Dip the body into the blood. I will do the rest."
+
+I did so, and the body submerged into the pool as if dipping it into a bottomless depth. I hovered towards the phylactery before placing it over the blood pit. Right as I lowered it into the blood, Torix murmured,
+
+"Wish me well, disciple. It is my time to ascend."
+
+I gave him a nod, "Good luck."
+
+As I set the phylactery into the pool, I hovered away from it. Seconds passed with nothing happening. I glanced around, wondering when the process would begin. Wondering if the operation failed, a plopping sound echoed into the open field of metal.
+
+A bubble of red burst. The blood boiled. The sanguine pit released a red vapor into the air above. The ground around me quaked, the metal around the hole shifting in color. The light dimmed, eaten by the forces within the blood pit. I gave the abyss more space. As I flew off, the air around the ritual spiraled.
+
+The clouds dispersed from above. As they splintered, light did not leak down from above. An umbral pillar radiated down, permeating the pit in the dark. Dominion mana rippled out in waves, world bending to the primal might of the ritual.
+
+This metamorphosis continued expanding in influence. In a circle around us, a shadow grew over the forest of spires. Glistening metal turned into shaded spines. The horizons faded as the darkness crept over the space around us. Time shifted, slowing down. The world itself protested at the aberration taking place, a low howl echoing in the wind.
+
+This howl evolved into a percussive drone. The droning rippled across the countryside, pounding in my ears like a chorus of wailing. It devoured the other sounds, sending chills up my spine. I shivered, a coldness leaking into our surroundings. A looming shadow of death crept over the long shadows of the land.
+
+It infected every creature and mind for miles. I shook my head, a smell of iron, blood, and death reaching me. The cold wind seeped through my armor, into my skin, and deep into my bones. It was the kind of cold you couldn't fight. It was the kind of chill that dimmed your vision and numbed you.
+
+The pit of sanguine stood out among the blot of black. Clear as the sun in the sky, this red blot etched shrunk into a finite point. From the pit, the construct rose. Surrounding the skeletal frame, the light around it darkened. The mere presence of it altered day to night.
+
+Far above us, black lightning erupted from the clouds in the distance, draining life and vitality from everything it touched. The droning ceased. All sound for miles ended, my ears left ringing. A dense miasma crawled over the surface of Torix, the runic carvings bleeding darkness that sapped the life around it.
+
+When the blood drained into the steel, Torix's soul bonded onto the metal. The dark skeleton convulsed as Torix strained under the pressure of the dominion magic. He fought with the defiance of a warrior. He stood against the flood of energy, a conqueror in his own right. Minutes passed before I grew worried.
+
+I landed beside him, walking up to help. The construct raised a hand, a shiver racing up my spine. A voice replied,
+
+"No...I am worthy...I am able."
+
+It was Torix, no doubt, but it sounded altogether different. It was as if someone alloyed his voice with aged iron, making it command respect.
+
+I took a step back, respecting his wishes. As the volatile miasma sunk into the blackened bones, it looked as if it would consume him. For a moment, despair crawled out of my chest as my stomach dropped.
+
+It lasted but a moment. A wind erupted from the darkened skeleton, Torix's soul snapping in place. The resulting shockwave sent an impact that bent spires for miles in every direction. I withstood the impact, anchoring myself with gravity. The deafening boom radiated outwards like a meteorite striking Earth. The clouds in the sky bent outwards in a circle, giving way to the finalization of Torix's reformation.
+
+The skeletal figure fell down onto the ground, light peaking from the sky above as the ritual completed. Standing from the sand, darkness radiated out of Torix's new body. He ebbed an aura of absolute death and carnage. A darkened warlord and archmage, he stood, a preeminent figure amongst the endless spires.
+
+As he rose, Torix lifted a hand. Dominion welled into his palm as he let out a haunting laugh. It continued until it echoed onto the horizons around us. Fear raced up my spine, but I smiled all the same. This was it. This was who Torix really was.
+
+The metal lich glanced around, his figure imposing. I pulled the cloak I made for him from storage. He took it, brandishing the cape over his shoulders. He raised a foot before stomping into the metal. It tore under his heavy heels, dominion magic seeping into the ground.
+
+Around us, the field of corpses rose from the ground. Summoned from death, they turned towards Torix, lunging onto one knee. The summoner held his head high as he stared at his forming army. The silvers carried tracing lines of dark mana. The stone angel's skin cracked, exposing their darkened insides.
+
+They bowed to their leader. They carried the marks of Torix's reformation, their frames radiating with mana. Torix turned towards the horde and me, spreading his arms. He commanded,
+
+"I am undeath given form. From my darkness, blight will follow in my wake."
+
+He turned towards me,
+
+"Let us show them what occurs to those that oppose us."

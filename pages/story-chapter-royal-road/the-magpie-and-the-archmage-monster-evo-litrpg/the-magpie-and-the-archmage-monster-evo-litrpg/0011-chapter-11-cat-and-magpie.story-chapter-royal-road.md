@@ -1,0 +1,167 @@
+---
+id: 235824c5-54d1-533a-b10a-c105b5e73948
+page-type-slug: story-chapter-royal-road
+title: "Chapter 11 – Cat and Magpie"
+slug: 0011-chapter-11-cat-and-magpie
+partOf: the-magpie-and-the-archmage-monster-evo-litrpg
+position: 11
+ownLength: 2209
+unit: words
+publishedAt: 2025-08-20
+link: "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2532460/chapter-11-cat-and-magpie"
+royalRoadId: "2532460"
+---
+
+The corrupted, nasty hyena charged at Liora so fast she barely had the time to take flight. Its giant maw closed on the very tip of her tail feathers.
+
+Ew, ew, ew! That will get infected now for sure! Will I have to cut off my tail to keep it from spreading?
+
+"What is going on?" Renir demanded.
+
+"Chak-chak-chak!" She exclaimed. "How am I supposed to explain this to you?! My mimicry library doesn't have enough human words yet."
+
+"None of that magpie talk! What's with that wrong-feeling mana? Is it one of those hyenas?"
+
+Liora considered just showing him, but decided it would be too risky. What if she dropped him by accident? So instead, she flew some distance away from the hyena and sat down in the tree. It still chased after her, but in flight, she was much faster than even this corrupted monstrosity.
+
+The brief moment gave her enough time to gather her wit and piece together an explanation for Renir.
+
+"Hyena, injured. Now corrupted!"
+
+"Corrupted? Are you sure?"
+
+"Sure!"
+
+Just as she said that, the hyena slammed itself into the tree she was sitting on, smashing its trunk into pieces. Liora squawked and took flight.
+
+This is WAY above my pay grade! I'm out of here.
+
+Liora changed her direction to head back to the safety of the watchtower. But she quickly realized she couldn't do that. The landscape was barren enough that the hyena would easily be able to track her flight if the nasty thing could even see her through those hollow sockets.
+
+In either case, it had a way of tracking her. Bringing this monster into town was absolutely out of the question. Everyone would just get slaughtered, including that nice girl and her mother.
+
+"What to do?" She asked helplessly.
+
+"Don't ask me. I'm just a rock!" Renir responded.
+
+Utterly useless, this guy.
+
+Liora decided that she should at least try to get rid of the monster. She turned around and aimed an Air Slash at it. The blade of pressurized air hit the hyena square in the face and… did absolutely nothing.
+
+"Caw!" Liora exclaimed in shock.
+
+It should have done something. A scratch at least. However, the hyena remained unaffected. Or to be exact, it appeared more angry, running towards Liora and letting out that loud, hyena-like cackle. But it wasn't exactly like it. It sounded wrong and distorted.
+
+Liora found her wings growing heavy and her thoughts muddled. She wobbled in the air, nearly falling to the ground. The hyena let out the ungodly sound again, and she lost control over her body completely. Her wings seized up, and she fell straight down into the hyena's open maw.
+
+"SNAP OUT OF IT!" Renir yelled, and Liora felt a sharp jolt come from the gem.
+
+"CAW!" Liora squawked and hurriedly beat her wings to avoid the hyena.
+
+It was an extremely close call. She could feel the heavy, dark aura coming from the monster. She could smell its foul, rotting breath.
+
+"Stay out of its range. That thing must have a confusion skill which appears to be amplified by the corruption," Renir explained as Liora flew up.
+
+Wonderful! Not only is it super fast and super strong and doesn't fear anything, it can also confuse me to the point I don't know how to fly anymore. How the hell could I get rid of this thing?
+
+Liora didn't have a clue, but for now, she decided to fly away. Not towards the town, but deeper into the mountains. It couldn't follow her forever, right?
+
+She deliberately flew above the most difficult and craggy paths where most reasonable creatures wouldn't follow. But the corrupted hyena chased after her completely unbothered by rocks and ledges, just jumping up like some supercharged flea.
+
+"Where are we going, Liora? I can still hear that crazy hyena," Renir asked.
+
+"Up!" She responded.
+
+"Wow, no! Stop! If you climb too high, you're going to run into something much worse than that hyena," he warned frantically.
+
+What choice do I have? This thing is hellbent on chasing me. I can't even scratch it, but if I get high enough, then maybe I can make the gravity do all the heavy lifting for me.
+
+Liora peeked hopefully behind herself when the hyena slipped on some rocks. Unfortunately, even after slipping on the rocks and tumbling down a short distance, it always got up and followed Liora.
+
+"Caw!" Liora screeched. "Piss off already!"
+
+That was the wrong thing to do. Liora was already a good distance up the mountain. Just as Renir had warned, the monsters there were stronger. Somewhere further ahead, she saw a large panther-like creature skulking about. Liora wondered whether she could force the hyena to switch targets. That large panther definitely stood a better chance than she did.
+
+Just as she was about to fly towards the panther, she noticed something jumping straight at her. Liora swerved up and away from the mountain just enough to stay out of the path of her sudden attacker.
+
+It took her a moment to realize that what had attacked her was a black cat. It stared hungrily at Liora, as if she were a flying snack for it to catch.
+
+Is that the baby of that larger panther up the mountain?
+
+Liora looked up, wondering if the panther would descend to assist its child. But it looked wholly uninterested in their scuffle and went the other way. Maybe monster babies had to fend for themselves. That hardly seemed fair, seeing that the little panther was no larger than a house cat.
+
+Liora didn't get to ponder more about the cat, since the hyena was catching up to Liora, scrambling up the mountain while letting out its confusion cackles. She listened to the sound closely, committing it to her Mimicry library. Much to her surprise, the skill disoriented her for a moment even from this distance.
+
+But the hyena wasn't her problem anymore. The cat was closer, and it let out a vicious snarl at the hyena, warning it not to approach. Or Liora assumed that. She didn't speak cat. She could only understand birds and humans.
+
+The hyena wasn't at all bothered by the cat's warning, and just kept charging ahead, its giant maw pooling with the black sludge. It ran straight at the feline, intending to bite it. Liora felt a little bad for the cat, but it was either it or her.
+
+However, the cat proved to be far too agile to be caught by the clumsy hyena. It made a huge leap to a different ledge. The hyena went after it, falling and tumbling halfway through. But its blind perseverance managed to keep it on the mountain as it bit into the hard rocks to keep itself from falling.
+
+"Chak-chak-chak!" Liora screeched at the hyena. "Bloody hell. That thing cannot be allowed to roam around."
+
+"Mreow!" The large feline added. The two looked at each other momentarily. There was higher intelligence in the cat's eyes, just like in the spider's. An understanding formed between them. Together, they would get rid of this abomination. Although Liora wasn't sure how much the little cat could help.
+
+The hyena made its way to the panther, intent on biting into it. But before it could, Liora let out a well-aimed Air Slash. It didn't hurt the hyena, but it did disorient it for a split second. That was enough for the cat to strike the hyena with its claws and send it tumbling down the mountain. It was more powerful than it looked.
+
+Unfortunately, this didn't do much to the hyena. It was lucky enough to slide down onto a large ledge from which it began to scramble up again. This time it kept repeating its disorienting hyena cackle, forcing Liora to back off. The cat let out a displeased mewl, trying to cover its ears and shake itself free from confusion. But the closer the hyena got, the stronger the effect.
+
+I cannot let that cat die. Without it, I don't stand a chance against that stupid hyena.
+
+So Liora flew up high, as high as she dared with the mountain wind howling around her. The cat swatted at the hyena, managing to beat it back. Liora folded her wings and dove. Like a bullet, she hit the hyena while it was trying to scramble back up to the cat.
+
+The impact was impressive, sending nearby rocks flying in every direction. The abomination froze for a few seconds after impact. But then it oriented itself and ran straight after Liora. As if her hit had been nothing more than a small pebble.
+
+Liora tried to get away, but the strong mountain breeze blew her straight into the hyena, making it difficult to fly higher. In panic, she threw hastily formed Air Slashes, but missed. The time slowed, and she thought that this was it. That this was where her life ended. Chewed to death by some abomination of nature.
+
+But the cat jumped into action. Literally. She leapt onto the hyena and slashed at it mercilessly with its razor-sharp claws. Liora did not doubt that under normal circumstances, the cat could easily dispose of a whole horde of these hyenas.
+
+But as the feline's claws dug into the abomination, it began to ooze the same nasty sludge that came from its mouth. It jumped back with a yelp, its fur sizzling and burning where it had come in contact with the liquid.
+
+What do we need to do to kill it? My Air Dive barely stunned it, and even when the cat damaged it, it oozed some poisonous gloop. What can we do to keep it down for good?
+
+Fire came to mind, but she couldn't breathe fire, and she suspected that neither could the feline.
+
+The hyena got up again, oozing even more sludge than before, leaving a nasty trail behind itself. It once again fixated on the cat, letting out its confusion cackle. The cat mewled helplessly, unable to withstand its effects and thrashing around wildly.
+
+It bumped into a rock, sending it tumbling down the mountain. As the rock tumbled, it dislodged other rocks, sending a small group of them down onto the unsuspecting monsters and animals below.
+
+Wait! That's it!
+
+Liora flew higher up the mountain and searched for a suitable rock. She had to hurry or the cat would be turned into sludge. There! A cluster of rocks sitting conveniently on the ledge.
+
+She took careful aim with her Air Slash—she had enough mana for maybe a few more of them—and hit the rocks. They moved closer to the ledge, but didn't roll down. She Air Slashed them again, and again and again, using every bit of her remaining mana.
+
+The smaller rocks began to tumble down, and the larger ones rolled after them as they lost their support. Liora didn't wait for them to gain momentum. She flew back down the mountain, aiming straight at the hyena. It had nearly reached the confused cat.
+
+But Liora managed to hit it with an Air Dive. Unfortunately, some of the sludge got onto her wing feathers, creating a nasty sizzling sound as it ate right through them. But she had distracted the hyena enough for it to stop its howl.
+
+The cat blinked in surprise, regaining control of its senses. Seeing the increasingly growing barrage of rocks coming down the mountain, it leapt away. That was all Liora had wanted to accomplish. She flew the other way—her flight a bit wobbly from the holes in her feathers. But the damage wasn't bad enough to stop her from flying completely.
+
+The abomination had no clue what hit it. Mostly because it couldn't think anymore. Rocks rained down on it from above and pulled it into an increasingly larger rockslide. Before long, it disappeared beneath the rocks, unable to withstand their might.
+
+Liora watched the whole scene from one side while the panther watched from the other. Once it was clear that the hyena would not survive, they looked at each other.
+
+"Mreow!" The cat said and limped away.
+
+"Chak-chak-chak!" Liora responded. "Thank you, too!"
+
+They were both injured but alive. Most importantly, the abomination was dead.
+
+"Is it over?" Renir asked cautiously.
+
+"Yes," Liora said, gliding down the mountain, letting the breeze carry her.
+
+It was a bumpy ride—those holes ruined her perfect form. Liora was so mad that she flew down to where the rockslide had stopped at the foot of the mountain and screeched at the pile of rocks.
+
+[You've defeated <^&*%& &*^%$ – Level 5>. Experience gained.]
+
+What the hell is wrong with its name? Did the corruption make the System glitch? Bleh, I don't even want that experience. It feels dirty. Can I give it back?
+
+She shuddered from the feeling, then saw how something was beginning to ooze through the rocks. Liora gaped in horror at the scene.
+
+No, that can't be. If the System says it's dead, then it's dead, isn't it?
+
+"Liora, stay back!" Renir warned, his voice uneasy.
+
+She flew up higher, watching in horror as the black ooze began to converge into a single spot. Melding together and forming something. Something that shouldn't exist.

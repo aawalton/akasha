@@ -1,0 +1,193 @@
+---
+id: 73e3531b-1380-5b4d-a770-ac88f1ee5de8
+page-type-slug: story-chapter-royal-road
+title: "Chapter 151 – Safety, Sharks, and Shinies"
+slug: 0151-chapter-151-safety-sharks-and-shinies
+partOf: the-magpie-and-the-archmage-monster-evo-litrpg
+position: 151
+ownLength: 2433
+unit: words
+publishedAt: 2026-07-24
+link: "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3717852/chapter-151-safety-sharks-and-shinies"
+royalRoadId: "3717852"
+---
+
+"They really are going to ditch us here," Cee confirmed.
+
+Several minutes had passed since Dolphar had left, and by then it was clear that he would not be returning.
+
+Liora looked around again. The place was truly beautiful. Oasis was filled with an all-you-can-eat fruit buffet. It had several water reservoirs around it. The one leading to the underwater city was devoid of any life, likely because the seawater was mixed in with the freshwater.
+
+But other water reservoirs were filled with fish and water plant life. Dragonflies (normal-sized ones, not monsters) were buzzing about, catching up smaller insects. Signs of mermaid activity could be seen here, as there were a few nets cast into the nearby reservoirs. Parts of the original sea reservoirs had been dug up and secured with some plaster-like substance. Or perhaps it was clay? Or something else altogether.
+
+In either case, the weird material had been used to separate the seawater reservoir from the other ones. Some of the banana trees looked to be completely harvested, including much of their bark.
+
+"Okay, it doesn't look like they will abandon us here randomly. They seem to be coming here regularly themselves," Cee pointed out.
+
+"It's quite beautiful here, too. And there's a bunch of food. I suppose they won't have to worry about serving us any of that nasty seaweed," Liora said. "You know what? I actually don't mind. This might prove to be a great training place. Best of all, it is completely devoid of weird mages, since the entrance is underwater. Chak-chak-chak!"
+
+"You're celebrating too soon…" Renir said, sounding much more dejected than they.
+
+"What's wrong with you?" Liora asked. "Should I polish you some more? Did seawater harm you?"
+
+She already withdrew her cleaning cloth from the Inventory, but Renir wiggled his arms angrily at her. "No, it's not that, you shiny obsessed bird! This is an oasis."
+
+Liora and Cee shared a look.
+
+"Yeah…" Liora agreed, not sure what he was getting at.
+
+"You know… A rare place in the desert where water gathers."
+
+"Yes…"
+
+"A place where many animals and monsters alike would gather to drink water!" Renir pointed out.
+
+"Ohhhh!" Liora and Cee exclaimed in unison.
+
+"That's pretty bad…" Cee said.
+
+Liora was about to agree, but then an idea crossed her mind. She smiled at Cee. Or whatever bird approximation of a smile was.
+
+"Why are you looking at me like that? You're scaring me!" Cee scuttled backwards.
+
+"Cee, you're the perfect solution!" Liora announced.
+
+"Hmm… This area is quite large. Cee would have to make a lot of webs…" Renir noted.
+
+"Wait, you want me to lay webs around this place?" Cee said.
+
+"Yeah, make it into an impenetrable web fortress!" Liora announced.
+
+"Do you know how much webbing that would require? It doesn't appear out of nowhere, you know. I need to make it with my own body!" Cee protested while wiggling her legs from side to side.
+
+"Well, it's a good thing we have an abundance of food here! Get to it!" Liora announced.
+
+With much grumbling, Cee got to work weaving a web fortress around their new oasis home. Liora was fully convinced to turn this place into their base of operations for the foreseeable future. She wanted a safe place to train skills. To think that the merfolk had brought her to a dry, not underwater place, where there were no Night Order mages. It couldn't get any better.
+
+While Cee worked on her traps, Liora set out to guard her. Smokey was kind of trying to do that too, although most of the time, Liora had to shoo the little wyvern away so he wouldn't get tangled in Cee's secret traps.
+
+They technically shouldn't be secret to him. He and Liora both saw Cee weaving the webs, laying them onto the sand surrounding the oasis, and then carefully covering them. Apparently, these traps wouldn't work on tinier creatures unless they were unlucky enough to step on more exposed webs. These were supposed to tangle larger opponents that would sink into the sand with their weight.
+
+This task alone took Cee the better part of the day. Liora had to fight several monsters who had come to the oasis to have a drink. Some weird shark abomination that swam through the sand as if it were water.
+
+[Desert Shark Juvenile – Level 32]
+
+The name was displayed in yellow, which made Liora worry a little. If these were just juveniles, then what were the adults like? Thankfully, they weren't very sneaky. Their dorsal fin (did they even need it in the sand?) was sticking out of the sand, making it easy for Liora to spot them from several kilometers away. No, that was not an exaggeration.
+
+After that, all she had to do was fly high and drop on the heads of these sharks with her Skypierce. Their skin was surprisingly tough, so it never resulted in a one-shot kill. But the damage was devastating. The sharks, caught completely unawares by the sudden aerial attack, couldn't respond in time before Liora tore them to shreds with Lunge and Rend.
+
+Since they weren't yet that big in size. Well, they were about as big as Smokey, but Liora could still carry them while flying. So she brought the sharks back to use as food. Sushi for everyone! Smokey was a fan. The first shark he devoured all on his own, liking his chops in great pleasure once he was done.
+
+"This is unfair!" Cee complained when they stopped to eat some shark for lunch.
+
+Liora used her talons to get to the inner parts of the sharks. The outer bits were too tough and thoroughly covered in sand. They tried eating the shark raw at first, but it didn't taste much like fish. The flavor between the desert shark and the footsharks they ate before was completely different. Frankly, it was too chewy to be enjoyed raw.
+
+So they fried them on Cee's magma webs and covered them in a bit of salt. Fried, they tasted like a weird mix of chicken and cooked salmon. It took some getting used to, but it wasn't bad at all.
+
+"What's unfair?" Liora asked, taking a bite of the desert shark.
+
+"All I'm doing is making webs, while you're out there collecting experience…" Cee complained. "I want to finally evolve!"
+
+Liora realized that this was true. She had gained three levels today, reaching Level 8, and collected over two hundred glimmerstones. Of course, she shared the glimmerstones with Cee to repay her for her hard work. But she wasn't gaining any levels.
+
+"But… wouldn't it be dangerous to evolve in the oasis without your web protection?" Liora pointed out.
+
+Cee raised one leg, then lowered it dejectedly. "You're right…"
+
+"Hey, nobody says you have to evolve the moment you reach the required level. The first web traps have been laid. I say that Cee should also train a bit, reach Level 40, and then continue making the webs around the oasis," Renir suggested.
+
+"That's a surprisingly thoughtful idea coming from you," Liora said.
+
+"Hey, what's that supposed to mean?  I am thoughtful!" Renir protested.
+
+Liora, Cee, and even Smokey—most likely just mimicking Cee—all shook their heads.
+
+"Really? Even you, Smokey?"
+
+"It's not a bad idea," Cee said. "I would feel more comfortable if I could evolve at any moment."
+
+"Then it's settled. Let's get it done!" Liora announced, spreading her wings wide.
+
+With that decided, after lunch, they set out to train Cee. The biggest issue turned out to be Smokey. The wyvern desperately wanted to follow Cee everywhere, but they couldn't bring him into a fight. The clumsy hatchling was barely able to walk in the sand, as parts of his wings would often get caught up in the sand, making him fall and tumble down.
+
+It took Cee a considerable amount of time and bribing for Smokey to finally remain in the oasis.
+
+"I feel bad for Smokey…" Cee said as she hung onto Liora's back. "Maybe he should train a little bit too."
+
+"Oh, really? So you're going to carry him, or do you expect him to keep floundering through the desert and eventually get eaten by sharks?" Liora pointed out.
+
+The sharks were actually everywhere. The few that had come to the oasis were only a small percentage. Liora suspected they didn't need to drink all that often, which was likely true for most desert monsters. They were actually good at remaining sneaky.
+
+Of course, Liora could see them occasionally surfacing above the sand before quickly disappearing underneath again. Was there a reason they were doing that? In either case, the shark fins were appearing with an alarming frequency, suggesting that a large number of them were hiding in the sand.
+
+Liora shuddered to think what would happen to any poor creature that would be unlucky enough to be in their path. Thankfully, that was not a problem for them.
+
+With her vision, Liora could easily spot the sharks in the sand. Not just because of their fins. The real reason it was so easy for Liora to spot them was that they had light wisps of yellow mana surrounding them.
+
+"Say, Renir," Liora asked as she flew around, trying to choose a good target shark. It was some distance away from the others, so they shouldn't get swarmed.
+
+"What?" Renir asked from his web pouch, hanging around Liora's neck.
+
+"How come you're so pretty?"
+
+"Liora… I know you're in love with everything shiny, but shouldn't we focus on the task at hand?" Cee grumbled.
+
+"I am pretty, aren't I!" Renir replied arrogantly.
+
+"No, it's quite hard to explain, but ever since I got Prismatic Twilight Vision, every living being, no, even the surroundings, have been looking different. Cee has a very distinct blue aura coming out of her, for example."
+
+"That must be the Divine glimmercore. It likely is overpowering Cee's natural aura," Renir explained.
+
+"What? I have a blue aura? Is that how the school headmaster perceived it?" Cee asked.
+
+"No, I suspect that Liora can already perceive mana aura much better than even trained mages, since it is a specific body-enhancing trait. Humans as such have very few traits, and they can't do such drastic body enhancement. But the headmaster certainly must have noticed it," Renir said.
+
+Liora nodded, satisfied. To think that she was better even than trained mages. Being a magpie truly was superior. Chak-chak-chak!
+
+"Okay, Cee makes sense then. The sharks have a slight yellow aura," Liora continued.
+
+"That likely means they have an aptitude for earth magic. You have to be careful not to be caught by it," Renir said.
+
+"Okay, there's also this weird glow in this whole place that wasn't underwater. It's very faint, and it's hard to explain, but it reminds me of the slight shimmer of snow you see during sunny winter days."
+
+"That is likely the aura of the dungeon itself. This place is filled with mana after all."
+
+"Okay, but I don't understand you. You're shining in every color of the rainbow. Why is that?" Liora asked, looking down at Renir.
+
+"I am just that amazing!" Renir replied proudly.
+
+"And this is the exact reason why you were turned into a gem in the first place," Cee sighed.
+
+"Okay, okay! Geez, no need to get all grumpy. It's because I have mastered all types of magic. Be it fire, water, ice, wind, holy, or other, I have it mastered. That is just a fact."
+
+"No dark magic?" Liora asked. There was a distinct lack of any black or dark colors in Renir's aura.
+
+"Oh, no. That is one field of magic I don't wish to dabble in. Necromancy and corruption and all that stuff are just… distasteful. Not to mention that I don't like seeing corpses," Renir said.
+
+Liora and Cee both agreed. As far as they have seen, dark magic only created those corrupted creatures and people, destroying environments. Liora didn't want anything to do with it either.
+
+Eager to forget about the distasteful topic of corruption, Liora finally picked a target shark and dove. She made the first strike with Skypierce and allowed Cee to finish off the shark.
+
+The experience was shared, not fully Cee's, but they both agreed this was better than having Cee fight alone. While Cee certainly could finish the sharks with her own strength, it would require more time since the spider relied more on traps and poison. Liora's fighting style was more straightforward, since she was larger and stronger.
+
+It didn't take long for Cee to gain the three remaining levels necessary for her evolution threshold. Liora, in the meantime, gained only one level, but that was alright. She also got some glimmerstones out of the deal.
+
+With this task out of the way, Liora and Cee returned to the oasis. To their surprise, Dolphar was there, poking his head out of the water and staring distrustfully at Smokey. The wyvern looked like he wanted to bite the merman, but couldn't reach him in the water.
+
+"I see you are enjoying your stay in the dungeon," Dolphar noted, although from his expression it was clear that he didn't like being out of the water at all. Even if it was barely his head.
+
+"Yes, this is quite a nice place," Liora replied.
+
+"I am glad. I came to ask when you would be ready to help us with the blight plaguing our sea?" The merman got straight to the business, his expression stern.
+
+Liora thought about it for a moment. There was no point in Cee or Smokey going. They couldn't move around underwater, nor did they have the holy magic necessary to purify the corruption. Not to mention that Cee needed to evolve.
+
+"Cee, how long would it take you to make this place into an oasis where you felt safe evolving?" Liora asked her spider companion.
+
+Cee thought about it for a moment, pressing her front leg against her mandible. "It's hard to say… I haven't made a huge nest, but it will likely take a few days."
+
+"There's your answer. Once Cee feels she is safe here, I can go," Liora said.
+
+"Very well. I suggest you train in the meantime. There are human mages involved after all," Dolphar said and dove underwater.
+
+Liora wished she could just… not involve herself in the matter. But thinking of the horrors those crazy mages could bring. What were they trying to make? Something akin to a corruption dungeon again? No, Liora couldn't allow that.

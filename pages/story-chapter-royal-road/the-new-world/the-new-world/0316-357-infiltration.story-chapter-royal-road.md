@@ -1,0 +1,271 @@
+---
+id: 130e6438-4e39-582e-b90a-763c5275474f
+page-type-slug: story-chapter-royal-road
+title: "357 Infiltration"
+slug: 0316-357-infiltration
+partOf: the-new-world
+position: 316
+ownLength: 4128
+unit: words
+ownProgress: 4128
+publishedAt: 2023-02-17
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/1116449/357-infiltration"
+royalRoadId: "1116449"
+markedReadAt: "2026-06-29T21:31:59.718Z"
+---
+
+Valgus turned around, and I thought to Shalahora, "Baldowah didn't pass over us, right?"
+
+"If he did, I felt none of his presence - not even the smallest inkling of it."
+
+Valgus leaped across the shining hills of the horizon, and I raised a brow, "Can you have a shade follow him?"
+
+"I already have one doing so."
+
+I turned towards the chaos left behind by the clashing armies, "Well then...We'll see where he and the others are holed up after we clean up this mess. And yeah-"
+
+I grimaced, "It looks like someone's convinced Valgus that they're Baldowah."
+
+Chapter Begin
+
+I winced at the prospect of someone controlling that oaf before peering at my city's remains. The barrier still held though the color dampened into a semi-translucent sheen. The outside faired far worse, becoming a cratered warzone for several miles. Sifting through the chaos, I gave it a closer look.
+
+Deep craters and carved valleys stretched in random, disparate directions. They held no set pattern, and bodies of other rulers sprawled out in the distance. We annihilated them, and my golems picked them up for looting later. Following one of those golems, I flew into my city with Shalahora.
+
+A pile of those bodies amassed, and my director observed it in silence. Several golems' bodies joined the mound, their cipheric centers torn apart. Only the blue cores remained, and the director stared with a stoic gaze. I put a hand on the primordial golem's shoulder, "It's ok. You've done the best you could."
+
+The director gripped his arms behind himself, "And it's also an observable reality that my best wasn't good enough." His head twitched before the director shook it off. He glanced, "I'll see if I can't improve my management until occurrences like this are no longer the norm."
+
+Shalahora faded in beside us. The shadow murmured, "There is nothing normal here. It is all chaos, but that is no fault of your own."
+
+The director sighed, "But...Chaos is simply how we describe unknown patterns and unforeseen outcomes. If I knew-"
+
+I squeezed the shoulder pauldron, "Enough. Quit beating yourself up. Undeserved guilt is a useless emotion, and it wastes time."
+
+The director squeezed a hand into a fist, "Yes, and perhaps using my time more efficiently now may save more of my kin later."
+
+I let his shoulder go, "Are these the spoils of the war?"
+
+The director let his hands down to his sides, "Yes, along with our casualties. I was hoping you could give them a kind rebirth with a new body. They'd carry on the legacies of their forefathers."
+
+I nodded, "I'll remake every last single one."
+
+The director peered down, staring at the lowest bodies, "That...That would be much appreciated."
+
+We gave the bodies a moment of silence before separating them into two piles: rulers and golems. I helped process the rulers, peeling off helpful tech, gear, and runic markings. This passed the time for the next few hours after the battle, giving me a good idea of how much we collected.
+
+A lot of it looked more valuable than it was, but Drelex and Entilla would help me sort the wheat from the chaff. As for the cipheric inscriptions, a lot of them involved combat-related utilities. Rapid communications, internal maps, and data recording intermingled with generic augmentations like speed and strength. The rest of the loot involved blue cores in abundance.
+
+The battle involved hundreds of deaths, and most of them were primevals. With all of it said and done, we gained 543 blue cores. It dwarfed any expectations, but we left with losses this time. 48 cored golems piled up with a few more missing. We lost even more converted primevals, but they weren't a priority.
+
+Shalahora inspected the damage without the same sadness, though he held a meeting with his shades before we moved on. With the damage sorted through, I handed off the tech to Entilla and Drelex. After hearing a few half-hearted complaints from them, I left and met with Shalahora outside my attacked city.
+
+I peered at the shadowy Sovereign, the craters surrounding us, "You ready to find where they're hiding?"
+
+Shalahora lifted an arm, a shade whispering to him, "This way, Sun Swallower."
+
+Shalahora assimilated the shade while saying, "We are all prepared for what is to come. Follow."
+
+We darted across the landscape, both of us avoiding primevals. After a few minutes of passing the shining horizons, we neared the edge of the desert. At the cusp of the endless sands, we landed at the sight of some fallen kelp. The stuff died all over the place, but the large eldritch always ate the dying algae.
+
+I grabbed the edge of the leathery plant matter, "This isn't fresh. It's sun-dried and weathered like an old boot."
+
+Shalahora molded himself under the fallen algae before standing beneath it. He turned to me like some child in a creepy sheet costume for Halloween. He tossed it aside like a stage cape, "It covered the entrance. Let's go."
+
+We walked through a tunnel into the great labyrinth beneath the shining hills. After crisscrossing a dozen forks and diverging paths, converted primevals began intermingling with the other eldritch.
+
+Shalahora cast us in darkness, and we kept moving around the beasts, though it slowed our pace quite a bit. As we skulked beyond a pair of primevals, Shalahora thought aloud,
+
+"What did you think of Valgus?"
+
+I raised my brows in the gloom, "He was a pitiful, broken man with no future and a destroyed past."
+
+We snuck past a room shaped like a bottle with three primevals. Descending into another winding tunnel, Shalahora murmured, "Did you fear him?"
+
+"No."
+
+Shalahora stood still, peering at a converted primeval, "I did."
+
+My lips thinned, "Uh, why? He couldn't even touch you."
+
+"There are three things all fear: the past, the present, and the future. I have nothing to fear from what Valgus has done, and he may not harm me in the present. However, I believe he may omen my future."
+
+I blinked, remembering how Shalahora mentioned a rough past and having to meet with the Old Ones. He could be in an irreversible situation like Valgus, so I frowned,
+
+"Are you a prison too?"
+
+"No, and I could never be one."
+
+"Then what's got you so melancholy?"
+
+"It's that Valgus seemed stripped of who and what he was. I worry I will be the same."
+
+I blinked, ruminating for a bit. I scratched my neck, "Yeah, I worry about that too sometimes."
+
+Shalahora let out a joyless laugh, "You are still free. I am a shadow in both form and function. I linger like a corpse of my old self, and Valgus was no different. Even now, I wonder if I am a puppet to forces I don't understand."
+
+I peered up, not knowing what to say. A couple minds went to work, and I leaned into their thoughts on the matter, "We're all puppets in some way, but it sounds like you're worried about which strings are pulling you...Right?"
+
+Shalahora peered through me, "An odd way of putting it, but yes. I am being pulled by many strings I no longer wish to bear."
+
+I shrugged, "That's the thing - I think most of those strings are a choice."
+
+"But choice is often an illusion."
+
+"You're right about that one."
+
+"Would you choose your species' continuation or your own dilapidation?"
+
+I frowned, "My species, of course."
+
+Shalahora spread his arms, "Then what comes after that is no longer a choice, but a series of outcomes disguised as choices. I worry that those consequences will continue their unstoppable march until they chain me as they have chained Valgus."
+
+Shalahora dropped his hands and peered off at a converted primeval, "He and I will become brothers in bondage, each of us different sides of a hollowed husk."
+
+A silence passed over, the remaining primeval stone still like a statue. I grimaced, "I've met a lot of Old Ones, and I've tried to limit my contact. However, they always seem to leave a mark on me somehow no matter what I do."
+
+Shalahora peered back at me, "Hm...Then what mark did Baldowah leave?"
+
+I remembered my new goals and glared at a wall, "A mark he'll come to regret."
+
+Shalahora nodded before turning forward, "I hope you're correct about that. If anything deserves retribution, it's those entities haunting our worlds." He molded into the gloom, "Come. The faster we find them and scout, the quicker we may leave."
+
+We rolled through the tunnels, passing around a dozen sets of guards. After reaching past them all, the tunnels widened until they mirrored caverns. The cave rooms molded into massive entrances, all leading to a single place. Shalahora and I stepped out to it and marveled for a moment.
+
+The opal shards thinned, becoming like colored glass. Patches of this glass shifted the shades of the light of Leviathan. They mirrored stained windows, the expanse larger than any church. Sand dappled those rays, creating majestic mirages of light. Those beams radiated onto rolling hills of smoothed bone since this tunnel was made of a single piece of the stuff.
+
+We stepped into the enormous, underground world. A charged wind rolled through the tunnel, and each gust swelled with rippling energy. It was more miasma than air as cyclones of sand rolled across the smooth floor. My hair charged with static, and in the distance, a crackling boom thundered across the tunnel.
+
+I peered out as lightning struck the sand. It melted the sand and bones below. A glossy, smooth, and glowing texture pooled up in its aftermath. I smiled, now knowing the cause of this smoothed interior. Shalahora and I skulked into this otherworld, keeping ourselves hidden as the temperature rose.
+
+In time, it sweltered like a furnace, the air blurring in the distance, and the environment remained consistent until we found an oddity. A series of rectangular shapes rose from the ground on one edge of the grotto. We made our way there, seeing people inhabiting the rectangles.
+
+Rulers huddled into the chambers of Rainbow bone, but whenever we closed in, we found no home here. Someone trapped the rulers within these rectangular cells, and the capturer implanted strands of rainbow bone to pin the rulers in place. Worse still, opalescent spines pierced out of the rulers from within.
+
+They were all psionically dead.
+
+No enemy rulers or primevals guarded the place, so I walked up to one of the cubicles. I met an invisible wall around it. The entire area was sealed off from its surroundings. If I pressed on the invisible barrier, it didn't budge, and a knowledgeable individual carved cipheric inscriptions on the walls. Those markings soaked in the air's energy to fuel their effects. Beneath it all, dozens of blue cores helped hold everything together.
+
+Peering at the prisoners, they held them here like artifacts in a museum. If anything, the constraints were excessive; they already drank the liquid bone until their minds died. Peering closer, they all still breathed. I peered off and blinked a few times, trying to clean my eyes. Someone had them drink the bone and huddled them into these cells while alive.
+
+Valgus wouldn't have done this. He'd have just killed them, but someone convinced him not to. I rubbed my temples while wondering why do all this and for what? To hold them here? It made no sense, and Shalahora thought over to me,
+
+"This is such a strange prison they've created. Why have Valgus's company killed these rulers and strapped their bodies into these...These pillars?"
+
+I shook my head with a hand on the runes, "I have no clue, but they're not dead."
+
+Shalahora murmured, "It would be better if they were."
+
+I nodded in agreement while thinking of how to free them. I scratched through a few of the runic markings with telekinesis. Before I did any real damage, a few wild primevals flew by us, each looking at the prison cells. I stopped tampering with the prisons, knowing my pocket dimension was filled to the brim already. I couldn't save them anyways since they were all dead where it mattered.
+
+Shalahora and I kept moving forward, finding more of the cells. They were put at even intervals, and we passed hundreds of them. Nearly all of the missing rulers were stuffed into these states of comatose. The more I looked at it, the stranger I found the entire prospect. I couldn't even imagine a reason for it, but regardless of the motive, the ruthless nature of it sent a chill up my spine.
+
+That didn't stop us from heading through the cavern, finding a few mindless primevals and rulers. After a few dozen miles, the cavern angled downward, heading deep under the ossuary. We traversed the smooth tunnel as if diving through the throat of some colossal beast.
+
+The flowing energy turned into a rich, overwhelming aura. It left my skin tingling and my hair frazzled up. The light dimmed, and no primevals made it to these depths. However, the rulers colonized this space, and a few weren't converted either. Gazing at them, these were the monsters I expected from the lottery at the start of it.
+
+I couldn't see their levels, but they exuded enough energy to efficiently dispatch a primeval. To further that point, these rulers fought and wrestled primevals for entertainment in a carved-out arena. One of the weakest of the unconverted rulers proved his worth, facing an eldritch in the ring.
+
+The stone primeval slammed a clubbed arm into a treant's side. That bark-covered ruler sent a shot of panic through my chest, not from the treant's strength but because of who it mirrored. It was a treant without any facial expressions, its skin glowing like Yawm. The entity lacked the same cipheric carvings and crumbling skin, however.
+
+This plant creature was a vision of vitality and power, its form rippling with energy. It caught the stone primeval's arm before roots expanded from the treant. As the eldritch jerked its arm away, its hand crumbled from the root's infestation. The treant followed the primeval's pull, and the planted creature spun in a circle before slicing the stone beast's chest apart.
+
+Dust plumed into the air before the primeval molded its body over the treant. It smothered the plant, both sides writhing. The treant reached roots through the eldritch's body before charging with violet mana. The arcane energy coursed through them both, and after a few minutes of struggle, the treant was victorious and bloody.
+
+Its wounds leaked sap onto the ground, its body falling apart before another member walked over. The ruler helped the treant up, their comradery evident as they joked. A wave of envy coursed through me for a moment, but I turned away. It wasn't my place to watch. I was here to uncover what the hell was happening.
+
+To further that end, I observed a few of the others. Many rested at the center of the cavern, each person trying to assimilate the coursing energy there. A few talked or handled food, though no one here would've complained about burned meat or dirty water. These were the uncivilized conquerers that rode across the universe.
+
+They took what they wanted, and these rulers didn't worry about maintaining what they stole. In a way, it made perfect sense why they allied with Valgus - why fight the strongest person here when they could just coast along with him? Shalahora and I would probably throw a wrench into that line of thinking, but it made sense regardless.
+
+The shadow and I kept heading deeper into the cavern until we neared the heart of their camp. No one piled up the resources like they had at the survivor's faction. Instead, only the bare minimum beds and shelters lined up as flattened sections of the walls or floor. Valgus kept a sizable pile of resources, primarily blue cores or psionic fluid.
+
+That 'camp' lounged beside a pit leading towards the center of Leviathan-7. A dull sheen ebbed from that place, and near the entrance, Valgus argued with a remnant. Around them, an army of converted rulers and primevals idled like zombies. After a few minutes, a kinetic wave pulsed out. The rhythmic quaking was like the heartbeat of a planet.
+
+If I guessed right, this led to the center of the rainbow bone beast. The kinetic shockwaves from its heart would've disintegrated steel, but knowing Valgus, he should've dove in already. Wondering why he hadn't, I stepped forward before a shadowed hand rested on my shoulder.
+
+Shalahora murmured in my mind, "This is as far as we go. I cannot hide us should we get closer."
+
+I nodded before Shalahora raised two coalesced hands. The shadow channeled mana while saying, "But, I may be able to hear whatever they speak of. One moment-"
+
+An aura passed over us, one like Torix's hearing magic but far more palpable. It turned the waving wind in the tunnel to a deafening roar, but Shalahora adjusted the volume of different sounds. In a few moments, the remnant and Valgus's conversation oozed into our sphere of veiled magic.
+
+"-You've made this far more complicated than it needed to be."
+
+I didn't recognize the voice, but it was a woman based on her pitch. The other voice rasped, "It was for battle, and that is why I live...And why is storming in and killing them not what Baldowah would want? Surely you'd understand my reasoning as a fellow avatar?"
+
+I dragged my hand down my face, recognizing Valgus by what he said and his voice. The woman snapped,
+
+"We needed his alliance further down the line. This was a once in an eon kind of opportunity. How are we going to fix this? No, how are you going to fix this?"
+
+I turned to Shalahora, my face smeared with confusion, and Shalahora peered back with bafflement. We listened as Valgus destroyed a primeval with a swipe of his hand. The Asura howled,
+
+"And what is there to fix? Since when has Baldowah ever wanted us to make friends rather than destroy? It never has, not even once in the centuries of life I've lived."
+
+In the distance, I saw the remnant rubbing her temples. She sighed, "Sometimes making friends results in more conflict than making enemies."
+
+I blinked at that, remembering the past toxic relationships I'd seen. For a moment, I wondered what my dad's life would've been like without my mom. Those thoughts passed over me as Valgus scoffed,
+
+"There's nothing insinuating that this is that sort of situation."
+
+The remnant shook her head, "He's our ticket on and off this hell hole, and there's a lot we want to take back with us. That's why we didn't attack him until you wasted a fifth of our forces to set us back." Valgus grabbed and pulled his hair, "Agh, but for what? And besides, how could I have known it was him anyway?"
+
+The remnant pinched the bridge of her nose, "You could've talked to me. That would've been a pretty simple fail-safe."
+
+"But I have failed nothing."
+
+The remnant frowned before glaring at Valgus. She murmured, "You fought a battle but avoided a war. That is not what Baldowah wants. Think of it like this - why did Baldowah leave Schema to his own devices?"
+
+Valgus contemplated for a moment before crossing his arms, "To ensure a perpetual conflict with the eldritch."
+
+"Yes, and Baldowah has loved that war, even relished in it at times. How did that war come to be?"
+
+Valgus's eyes narrowed, "Er, Baldowah ceased fighting Schema so that the AI could muster its strength against the eldritch."
+
+I had no idea Schema duked it out with Baldowah before even fighting the eldritch. That sounded nothing like Schema's official story, but Torix had mentioned a conflict with Baldowah a long time ago. Based on what these two said, the timeline of everything I knew was a wash. Then again, Schema lying about a few specifics of his early years didn't surprise me in the slightest.
+
+It was kind of like how dictators presented their rise to prominence as some noble feat. The reality of their ascensions usually involved assassinations, betrayals, and plenty of outright murder. Schema's rise was likely no different. Interrupting my train of thought, the remnant raised her hands in frustration,
+
+"Yes, but why would Baldowah let Schema regain his strength?"
+
+I frowned at that. It sounded as if Baldowah was winning the conflict, though that's probably what any of its avatars would say. Valgus shrugged,
+
+"The Old One's ways are more than I understand."
+
+The remnant shook her hand at the Asura. She fumed, "Baldowah understands that for the absolute maximum level of conflict to occur, there must be two sides with each of them on even footing. The forces also need to be as large as possible. Without those two pieces present, there's no hope for a war of any size."
+
+Valgus furrowed his brow, "But there is nothing wrong with a massacre, is there?"
+
+The remnant slowed her words as if speaking to a child, "A battle will lead to one massacre; a war will lead to many."
+
+Valgus's eyes widened with comprehension, "Ah...And that is why we wanted to ally with him." Valgus smiled at the remnant, "You are truly remarkable, a servant of Baldowah with a mind made for war's creation rather than war itself. Truly brilliant."
+
+At this point, I frowned at the conversation since much of what they said had implications. For one, Schema might've fought a losing war before even trying to face down the eldritch. Baldowah stopped tearing the AI down because he wanted Schema to fight monsters. After a bit of thought, I put my hand up to my temples, other unsettling realizations passing over me.
+
+First off, Baldowah was a professional at turning people into machines of war. Its avatars even fought over how to accomplish just that. Secondly, Baldowah would only make contact with Schema to create more war. Assuming Baldowah won, that could explain a few of Schema's inefficiencies since they tended to result in more conflict overall.
+
+Thirdly, any attempts I made to stop the current, perpetual bloodshed would be met by Baldowah and his avatars. They'd fight me every step of the way, so we'd clash in time unless I played their game. Knowing I'd need some means of dismantling these avatars' immortalities, I resolved to explore my options.
+
+In my final thoughts, the amount of destruction that Baldowah wrought onto everything defied any expectations I had. The more I thought about it, the more problems Baldowah could've caused. He was like growing, malignant cancer, and the other Old Ones would be no different. Taking me out of my contemplation, the remnant chided Valgus,
+
+"So whenever you attacked the Harbinger's camp, you set us so far back that we may never ally with him again. Doubly so since he's weird; he seems to value his ability to position more than being in a good position. I can't understand him rejecting three Old One's blessings already."
+
+I tapped my chin with a knuckle, not even having wondered about who they were trying to ally with. It turned out it was me, and the remnant was right about one thing - I had no intention of associating with these monsters. Valgus frowned with distaste, "And this was to help us start a war, allying with that weakling?"
+
+We would see who was weak in the end.
+
+The remnant smiled, "No, it's to continue a larger conflict. The Harbinger is the only person who will have a reliable means of getting on and off this planet. That's why he made those cities in the first place."
+
+Shalahora's eyes widened as he gazed at me, "Ah...That's why you made Schema promise to officiate your self-made cities during your introduction. He'll establish hubs with his warping systems in place."
+
+I sneered, "Yeah. I didn't think it would make these two lunatics aim at me."
+
+Valgus blinked a few times, the explanations overwhelming him, "So...The...Er...We need the Harbinger to bolster a weaker side of a war."
+
+The remnant put a finger in Valgus's face. She menaced, "The primevals, the fluid, even this giant bone beast could be game-changers. We need this planet if we're going to uproot Schema. Lehesion isn't enough anymore."
+
+I froze in place, my brow raised, and my jaw tightened. Shalahora sensed my unease as he turned to me, "What has unsettled you so?"
+
+I bit my tongue before omening out in my mind,
+
+"She's with Elysium...And Baldowah might've allied with them."

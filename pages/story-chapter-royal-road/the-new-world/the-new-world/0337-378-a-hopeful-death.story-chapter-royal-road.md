@@ -1,0 +1,459 @@
+---
+id: 30a9efbd-639c-57ef-8ccc-1ab69ca2f683
+page-type-slug: story-chapter-royal-road
+title: "378 A Hopeful Death"
+slug: 0337-378-a-hopeful-death
+partOf: the-new-world
+position: 337
+ownLength: 2800
+unit: words
+ownProgress: 2800
+publishedAt: 2023-04-03
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/1157382/378-a-hopeful-death"
+royalRoadId: "1157382"
+markedReadAt: "2026-06-29T21:32:48.252Z"
+---
+
+I rolled my eyes and picked her up with a gravity well. I pointed at the vessel.
+
+"Can they warp us there?"
+
+"We need a main drive. There's one at Saphigia's center."
+
+I pulled us out of the area before one of the soldiers pointed at the body I had left behind. They shouted.
+
+"What are we going to do with this?"
+
+I waved a hand, pulling it with me. Kessiah crossed her arms.
+
+"What the hell happened at the lottery?"
+
+I winced.
+
+"It's a long story."
+
+Chapter Begin
+
+I gave Kessiah the cliff notes before we landed near the monolith of Saphigia. Kessiah rubbed her temples.
+
+"So, you're telling me that you've been scrambling your mind to squeeze time, you have a bunch of minds, and lots of them die all the time?"
+
+I shrugged.
+
+"Yeah. Pretty much."
+
+Kessiah's arms flopped on her sides.
+
+"What the hell are you doing to yourself?"
+
+"Isn't that obvious? What has to be done."
+
+Kessiah furrowed her brows.
+
+"None of this is your responsibility. You're just a kid from some backwater world at Schema's edge. Even if you've forgotten that, I still remember it. This isn't your fight."
+
+"It is now."
+
+"Why, though? And besides that, nowadays, I can't even relate to half the bs you're telling me anymore."
+
+I frowned.
+
+"No one can."
+
+Kessiah's expression softened.
+
+"Hey, I didn't mean it like that."
+
+I peered off.
+
+"I know."
+
+She raised a hand.
+
+"Look, my point is that you don't have to be the person to do all of this. You can just look after yourself. Sheesh, even I know you've done enough to deserve that much. Just, I don't know, let people handle themselves. That includes Schema."
+
+I peered at her, my eyes piercing.
+
+"From the ashes of every fallout, I rise. The aftermath is more silent each time. What makes you think that will change?"
+
+Kessiah leaned back. She reached out before opening her mouth. No words came out. She winced.
+
+"Ah. That's a lot, isn't it?"
+
+I pointed at the warping receptionist.
+
+"It is. We have to go."
+
+We walked toward the clerk, and I had no idea where we were going. I pursed my lips before Kessiah leaned to the receptionist.
+
+"Yo, we're going to Ostaltia. It's the capital of the Empire."
+
+The clerk smiled at me, and a screen popped up. I gazed at hundreds of warp locations. I pushed away at the screen.
+
+"What the hell is this? Agh, my eyes, they burn."
+
+Kessiah swam out of the gravity well before pushing me aside. Well, I allowed her to move me, but you get the point. Kessiah clicked a few of the status screens, heading toward the specific subsector of Ostaltia we needed. She hopped back into the gravity well, and I walked us to the warp drive's queue.
+
+As we waited in line, Kessiah tapped her sides.
+
+"You remind me of myself."
+
+I raised a brow. Floating in the gravity well, she crossed her legs.
+
+"I don't mean our personalities or anything. I'm talking about how we handle stuff."
+
+Thinking back, I disagreed.
+
+"Really? How so?"
+
+Kessiah pointed at me.
+
+"It's our mess-ups. You already know, but I killed my parents whenever my blood arts went out of control."
+
+I nodded.
+
+"Sorry for your loss."
+
+She waved her hand.
+
+"Yeah, yeah, I get it. Anyways, I felt awful for decades about that. I couldn't get this...This overwhelming kind of guilt out of me. It ate away at my insides, and I rotted to my core."
+
+Remembering her general cynicism when we first met, I concurred with a nod. Kessiah frowned.
+
+"You didn't have to agree that quickly."
+
+I shrugged.
+
+"If the shoe fits."
+
+She shoved me, moving her away.
+
+"Whatever. The point is, I couldn't use my skills for combat, and I still struggle to. Now I'm healing, and it's really helped to do something about that guilt. I'm not a waste of space anymore."
+
+"Your point?"
+
+"I hate to say it, but I think you might be doing the same thing I did."
+
+Finally being our turn, we walked into the warp drive. The doors closed, and a while passed. I tapped my foot.
+
+"When are these things going to open?"
+
+Kessiah laughed before giving my shoulder a pat.
+
+"Hey, I'll drop it, but think about what I said. You might be holding onto responsibilities that aren't yours...Just saying."
+
+We shifted positions, and the slabs of steel slid open. I ran out onto a giant colosseum. Pillars of marbled stone stood over a hundred feet into the air while holding up a spinning series of copper and bronze wheels overhead. They flashed light, their entire expanses smothered with patriotic symbols of the Empire. All around, albony and other alien races oriented themselves like people in an airport.
+
+I flew us over the masses, not wanting to crush them. We bolted between the marble pillars, racing over the city. Individuals zoomed by me, some of them giving me dirty looks. Kessiah nudged me.
+
+"You're not following flying conventions."
+
+Staring at an endless city, I spread my hands.
+
+"Where do we go? There are buildings everywhere."
+
+Kessiah pointed at a tall cathedral in the distance.
+
+"It's that-"
+
+We bolted over, and I shielded us from the wind. After landing near the enchanted entrance, I nudged at the doorway. Schema-based runes and locks protected it, so the door bounced back. Several albony guards walked up.
+
+"Halt, show us your credential-"
+
+I suppressed them in gravity wells before elongating a finger. I heated it, slicing through the orichalcum locks. I jerked the massive doors open, and the machinery that opened the doors broke. I sighed, getting frustrated with how fragile everything was. Not letting it get to me, I looked around.
+
+Underneath the light of the enormous cathedral, dozens of injured albony lay on different stone beds. Unlike the outside, cipheric inscriptions smothered the place, and the entire area shined with crystallized manas, rare minerals, and beautiful works of art.
+
+Below, the stench of entrails, blood, and decay dispersed in the area.
+
+Many clergymen cast holy spells for healing, their appearances mirroring a priest fused with a surgeon. They operated on dead albony, trying to revive them despite their grievous injuries. Most of them carried Hybridized tissues, and even a psionic glance told me their minds were brutalized beyond repair.
+
+Elysium ensured their deaths.
+
+However, a few albony royals held onto life. They spoke with garbled words and a chaotic cadence. I sent a message to Shalahora detailing my coordinates. Seconds later, a rip in spacetime appeared from a Sentinel's spear, and Plazia peered through the expanse.
+
+"The data was accurate. Ahhhh. So this is the matter."
+
+Shalahora molded through before Plazia cackled.
+
+"A gruesome sight. Good luck."
+
+The rip closed, and several guards peered at us. Inspecting Shalahora's level, they gave up any pretense of defenses. I gestured at a wounded albony.
+
+"Can you save their minds, or are they done?"
+
+Shalahora placed a hand on one of their heads.
+
+"This one is broken in darkness. Drowned into oblivion, he will live in purgatory forever."
+
+Kessiah gawked.
+
+"Well damn, you're giving up that quickly?"
+
+Shalahora tilted his head at her.
+
+"Imagine a finely blended person who died weeks ago. Under the sun, their insides festered and rotted into a bloated pulp. You are tasked to revive that."
+
+Kessiah winced. Shalahora pointed at the albony.
+
+"That is what her mind is."
+
+One of the albony surgeons peered up from the subject.
+
+"A-are you sure? It doesn't seem that bad to me."
+
+I pointed at Shalahora's titles.
+
+"Look at his level, and you decide."
+
+The surgeon gawked before we walked up to another albony. We passed several, all of them being operated on. After assessing them, we headed into the catacombs of the cathedral. Even more ornate than the top level, multicolored fires cast golden hues over the polished stone here. The stench of corpses built in the space, and we found Obolis carrying a gilded bag.
+
+He pulled artifacts out of it, different ones for different situations. I raised a hand.
+
+"Hey, can we help?"
+
+Obolis turned to us, and he tilted his head.
+
+"How did you-" He tapped his forehead. "Ah, Kessiah. You've intercepted her call here. I'm trying to access this situation and save the highest-tiered royals here. Few will make it from what I've gathered."
+
+I looked around, recognizing Alastair and Victoria. The big guy had his chest shelled out, and his entire corpse Hybridized into a blot of machinery and wires. Victoria wore ethereal chains, and she spoke as if nothing was wrong. A cursory glance exposed her mind had been converted into something unrecognizable.
+
+Shalahora shook his head.
+
+"She's gone."
+
+Midway through taking out an artifact, Obolis froze in place. He turned to Shalahora.
+
+"You...You mean to say there is no possible means of regaining her?"
+
+Shalahora flashed over, placing a hand on Victoria's head.
+
+"Hm...No. To her core, she is the chattel of Elysium. Her inner thoughts revolve around them. Her beliefs stem from them. Even her dreams are inspired by them."
+
+Victoria smiled at Shalahora.
+
+"What? I'm no one's slave...And take these chains off of me. I am more than fine."
+
+I rubbed my brow, "How the hell is it even possible to do something like that?"
+
+Obolis's hands shook.
+
+"We don't know."
+
+Obolis's eyes rested on Victoria for a moment. Obolis growled.
+
+"All I see are the talking corpses of my family."
+
+Obolis turned and threw an artifact at a wall. Shalahora flashed over, intercepted the artifact, and flashed back to Obolis. Shalahora placed the relic in his hands, holding it there. The shadow murmured.
+
+"Be calm."
+
+Obolis squeezed his hands around the artifact and nodded. We walked through the room before I peered around.
+
+"Where's Helios?"
+
+Obolis closed his eyes.
+
+"He is dead and alive."
+
+Kessiah put her hands on her hips.
+
+"Huh. That's a first."
+
+Obolis pulled us aside. We paced to the next floor, another layer deep in the catacombs. Mirroring the floor above, flames flared out with golden light. A giant bloom of void ice wafted out at the center of the room with chilling mist. Within the violet cluster, Helios gazed out with a pale, blinded eye. His mask shattered, and the other eye was missing.
+
+I flinched as Helios's actual state soaked in. A Hybrid exploded out of the back of his neck. His body was missing an arm and a leg, his blood frozen within the void ice. After calming myself down, I scratched my head.
+
+"So yeah...He looks, uh, pretty dead."
+
+Kessiah winced.
+
+"Oh yeah. He's dead."
+
+Obolis walked up to his nephew and interlocked his arms behind himself.
+
+"He is most certainly passed, but dead? Not quite. You see, Helios is the only member in a state of suicide."
+
+I raised a brow.
+
+"Helios? Committing suicide?"
+
+Obolis moved his hand.
+
+"Yes. He likely found the situation so dire that he decided to reset himself."
+
+Kessiah snapped her fingers.
+
+"Ah, the feisty cat never used his luck revival, huh?"
+
+Obolis sighed.
+
+"It's a last resort for a reason, and even now, Helios still hasn't used it."
+
+I walked up.
+
+"And we're figuring out why?"
+
+Obolis nodded. I got closer before pulling my wake over the area. It molded away from the void ice and Helios. My eyes widened.
+
+"Oh man, that's some intense time dilation he's in. What is this, a stasis or something? It's got to be artificial."
+
+Obolis leaned toward me.
+
+"It's true stasis, not the tricks you'll see the Force of Iron or Schema play. I found that artifact two centuries ago in Argos. I gave it to Helios as a gift a decade ago. He used it as he died."
+
+Kessiah shrugged.
+
+"Maybe he wanted to be reincarnated here instead of at the lottery?"
+
+Obolis turned to her.
+
+"I thought the same. We've placed him down here while we operated on the more pressing individuals above. However, I wished to have an experienced psionic inspect Helios before we wiped him. It's due to the other royals showing signs of mental tampering that we can't seem to undo."
+
+Shalahora stepped up.
+
+"I shall see what may be done."
+
+A minute passed. Shalahora shrugged.
+
+"I cannot pierce the stasis."
+
+Obolis winced.
+
+"This is what I feared."
+
+The Emperor created a stone and tossed it toward the void ice. It froze in the radius of the stasis. Obolis shook his head.
+
+"This is an absolute death as time has stopped its passage entirely within this sphere. We can't kill him and reset his ruined body."
+
+I turned to Obolis.
+
+"What do you mean?"
+
+Obolis turned a palm to the void ice.
+
+"Death requires time. There is none there."
+
+I raised a hand.
+
+"One moment."
+
+I walked up to the stasis before putting my hand on the aura. My hand stopped, unable to enter the stasis whatsoever. I gawked at it.
+
+"This is insane."
+
+Obolis nodded.
+
+"True stasis, as I've said."
+
+I condensed my wake before pulling my hand out.
+
+"Wow. I gotta say, that is one powerful artifact. Crazy stuff, for sure."
+
+Obolis tilted his head, his eyes wide. I cracked my knuckles before rolling my shoulders.
+
+"Wish me luck."
+
+I pulled my wake over me before rearing my hand back. I jammed my arm into the aura, pushing through the stasis like someone wrestling through a pile of glue and sand. Obolis's jaw slackened before I turned to him. I frowned.
+
+"Yeah, this reminds me of Chrona's time magic, but many times stronger. Tough stuff, I gotta say."
+
+After pushing through the aura, I dove my arm deeper until I made contact with the void ice. It took a few minutes because of the stasis, but I cracked through the stuff before reaching Helios. I turned to Shalahora.
+
+"Hey, you can reach him now, right?"
+
+The shadow nodded, and Shalahora paced up. He touched my shoulder, using me to link to Helios. After a minute, Shalahora stepped back.
+
+"Aside from intense duress, there are no signs of tampering with his mind."
+
+Obolis smiled. The expression was irrepressible.
+
+"What? You're certain?"
+
+Shalahora oozed.
+
+"I don't tell lies."
+
+Obolis walked over.
+
+"Ah, my apologies. I meant no unspoken accusations. Can he be healed?"
+
+I shook my head.
+
+"He's dead. There's no lifeline whatsoever, and most of his organs are Hybridized. He needs a full reset for sure."
+
+Obolis let out a sharp sigh. He held his hands together.
+
+"Gah, one. A survivor. Thank you...Thank you."
+
+I shook my head.
+
+"Don't thank us yet."
+
+Obolis's brow furrowed.
+
+"We just need to pull him out of there and evaporate his physical form. He'll return unharmed."
+
+I tapped my teeth together.
+
+"Now, if there's one thing I've learned from fighting Elysium, they are always three steps ahead."
+
+I dug several wires of Dimensional fabric through Helios.
+
+"And I also know they use tricks to get what they want. Like-"
+
+I split open one of Helios's shins, tearing his armor apart like a tin can. Obolis winced as I drained the blood over Helios's bones. The Emperor leaned back.
+
+"Ugh, must you consume his corpse?"
+
+I pointed at the shin.
+
+"I'm not. I'm getting it out of the way."
+
+Obolis inspected close, and horror spread over his face. I pursed my lips.
+
+"See what I mean?"
+
+Cipheric inscriptions laced the entire surface of Helios's bones. Obolis spread his hands.
+
+"What is this?"
+
+I sighed.
+
+"It's a way of corrupting someone's physical form. I remember Yawm tried using it with insidious effects on his Followers. Elysium's taken up the mantle, and they're doing, er, something with it, I guess?"
+
+Obolis leaned closer.
+
+"This...An implanted restructuring enchantment?"
+
+I shrugged.
+
+"Honestly, I have no clue, but it's there."
+
+Obolis turned a hand.
+
+"We'll have it canceled before having him reset."
+
+I dug through the corpse before I shook my head.
+
+"This is what I mean by three steps ahead."
+
+I cracked open the shin bone, and underneath the marrow and blood was another layer of dual-sided runes. I nodded.
+
+"They thought they had us this time, but not on my watch."
+
+After memorizing them, I smashed the cipheric inscriptions, blending Helios's bones to nothing. Somehow, this helped him. At the same time, I pulled out my grimoire and handed it to Obolis.
+
+"Use this to make the counter enchantment. At the very least, we'll need any cipheric effects voided in this space."
+
+Above us, several screams echoed out. I turned to Shalahora.
+
+"What's happening?"
+
+Shalahora raised a hand.
+
+"The Hybrids are consolidating."
+
+The cathedral's roof ruptured, and several albony royals approached us as Hybridized monstrosities. A freed Victoria glared at us with a wicked smile, and she swung a spear of light behind herself.
+
+"It's time to make our mark."

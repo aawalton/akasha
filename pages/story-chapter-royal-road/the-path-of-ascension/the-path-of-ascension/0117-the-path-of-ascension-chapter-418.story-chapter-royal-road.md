@@ -1,0 +1,309 @@
+---
+id: 1aec258c-6dfb-5529-a870-8e1b74a5b2a8
+page-type-slug: story-chapter-royal-road
+title: "The Path of Ascension Chapter 418"
+slug: 0117-the-path-of-ascension-chapter-418
+partOf: the-path-of-ascension
+position: 117
+ownLength: 5295
+unit: words
+ownProgress: 5295
+publishedAt: 2025-06-09
+link: "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/2343309/the-path-of-ascension-chapter-418"
+royalRoadId: "2343309"
+markedReadAt: "2026-06-29T19:21:51.992Z"
+---
+
+Chapter 418
+
+Five years passed in the blink of an eye, with Susanne, Zack, and Allie each reaching Tier 27 and all six of them pushing deeper into that Tier.
+
+They had been pushing themselves to the limits. They didn’t delve for fun, for profit, or even to gain combat experience but instead for efficiency, which meant they just rushed from the entrances to the exits, only deviating for any mini bosses they found along the way which were better sources of essence per time spent.
+
+Given that they were delving Tier 30 rifts, being three Tiers lower meant brutal fights.
+
+Still, it worked well enough as it got them together and used to fighting as a group again, which would help them as they went to visit the Clans to delve their rifts for a few decades.
+
+Personally, Matt was fairly happy to be leaving the Empire for a bit.
+
+Things had settled down slightly, especially on the Duke Innes and Eirene front. With Duke Innes truly not reacting whatsoever, Eirene had been free to ply her trade for the last few years. While low in Tier, she had been making money hand over fist as she signed a contract with a potion manufacturer that made low-Tier but specialty products where her efficiency was able to truly shine.
+
+With her income, she was reportedly living quite well and able to take care of her parents and a non-bloodline trio of ferrets she adopted.
+
+According to Cato, there were already a dozen other companies and corporations lining up to buy her contract out as she advanced in Tier. On that front, she was a little slower after taking at least some of Matt’s advice to heart.
+
+Having been fully carried through rifts, she had a lot to catch up on in the ways of combat, but following the typical carry build of a support mage, she started learning how to fight. Or what passed for fighting as someone who typically got escorted in a rift, but it was an improvement and one that at least had a path forward, which was good enough for Matt.
+
+The second positive thing was that Luis Westermen had arrived and was assisting the teams assigned to his rifts and had indicated he was also open to consultation for their Power training.
+
+Matt had expected Qin Jiang himself to come but apparently he had considered his time better spent managing the guild for at least the next dozen or so years given his long absences to forge the circlets.
+
+Luis admitted that while he was no expert in Powers, he had one and was happy to help them while he was there. They intended to take him up on the offer, but the six of them were too occupied with their delving to really give the lessons the time they deserved and so only got a few things to think on, such as what they thought a comprehensive combination of their Talents, Domains, and if they had them, bloodlines would be.
+
+After their final delve, they split off for a month to take care of everything they needed to do before they left the Empire and to relax a little.
+
+Just as they were about to leave, Matt got a message through the Ascender chat from Wun Miloan, which stumped him.
+
+Turning to Liz, he asked, “Do you know why Wun is asking us to bring the house?”
+
+Liz shrugged as she inspected her helmet for issues. “I have no idea. Maybe because the accommodations are sized for dwarves and the others are going to play a trick on us by giving us them instead of human-sized stuff?”
+
+Matt considered it and decided not to care. “Seems as likely as anything else I can think of.”
+
+That made getting ready far easier, as if they were taking the house it meant packing was as easy as putting the house away.
+
+Before he did so, Matt created two new rooms for Zack and Susanne, and Allie respectively. While it would be funny to see the other three struggle to live in such short accommodations, they all had the power to just make their own houses if it really came down to it, so he wasn’t really sure why they needed to bring the house.
+
+Still, he wasn't going to complain. It was always nice to be able to bring home with them, given they hadn’t seen it once since they had started delving.
+
+Allie arrived snacking on a delicious smelling cantaloupe which she only shared with Aster just to piss everyone else off.
+
+A teleport later, they arrived at Galmor’s Rest, the home of the Clans’ Ascenders.
+
+Unlike the Empire that let their Ascenders spread out, the Clans had a specific planet made for their Ascenders to live on.
+
+The Ascenders weren’t the only ones who could live there— that would have left the place empty— but it was officially their planet and all Ascenders jointly owned it.
+
+The first thing Matt noticed as they appeared in the local real space was just how jarring it was. He knew the quilt effect was deliberate but it was even stranger to see it in real life with all of his senses.
+
+Perfectly square forests bordered similarly shaped seas which pressed up against a desert which neighbored tightly packed cities. Each square was perfectly laid out but not with obvious formations or anything that would have made sense or been practical. No, instead the world wasn’t just a single world, it was instead a dozen or more worlds superimposed on each other with specific sections being allowed to phase into the real world, making the grid system.
+
+Matt had heard of the Clans’ Ascender world in his lessons with Luna and had seen pictures but feeling the world with his spiritual sense gave a whole new picture he hadn’t really expected.
+
+“Pretty, ain’t she?”
+
+Wun leaned over Matt’s shoulder, peering up at him.
+
+Not bothering to brush the man off, he just nodded. “It's genuinely impressive. I really don’t get how the planets are being safely overlapped like that. Sadly, I fear it’s Talent work, isn't it?”
+
+“Sure is!” Wun didn’t seem as bothered by it being unreproducible as Matt was but he seemed satisfied and vaulted off Matt’s shoulder and landed in front of the six of them.
+
+“Welcome one, welcome all. It is I—” Wun blinked several times, his arms still thrown into the air. “It is I—. I forgot my own stage name. Fuck. Whatever. It is I Wun Miloan, the greatest showman. Let me present to you all the Clans’ Coolest Example of Cool Shit: A Planet— The Second Attempt!”
+
+Aster snorted with a grin. “That can’t really be the name?”
+
+A purple-skinned woman popped up next to them. Mastermind, AKA Jack, AKA Ellen Noivah, grinned manically as she answered. “It actually is! We renamed it officially and everything. Really pissed a lot of people off, but it's not wrong. They don’t share it around, but the first attempt at making a Patchwork World resulted in an asteroid field the size of a dozen planets when they tried to share the same physical location. Crazy how the math maths out.”
+
+Liz and Zack winced in unison even as Allie clapped. “Anyone got a recording of that? Honestly, it seems fun to try. Telefragging can be tricky and messy, but I’ve never done it with anything that big before. I love bad ideas!”
+
+Moe Greathammer lumbered out of the folded space a moment later, the dwarf’s voice rumbling in agreement, “Ah keep askin’ if I cen punch a decently-tiered world as hard as ah cen. Not even wit’ mah hammer, tha untiered ones always break so easily. Bu’ they’ll never let me.”
+
+Krodag was the next out, a golden-bearded dwarf lightly bickering with Brian, currently inhabiting the body of a semi-humanoid skeleton with black bones.
+
+Letting his voice spread to all of them, Brian stage whispered, “Krodag the redrunkless walks forward, each step making bottles tremble in fear that he will find them—”
+
+“Shut it! I swear I’m going to twist your head off, Boney!”
+
+Brian pulled his head off and tried to hand it to the dwarf but messed something up in the attempt and started clutching at his throat as if he was choking.
+
+Ellen started cackling as she pointed at his struggling form. “And that's what you get for trying to raid my music collection. I put a silence curse on your neck so if you tried to take off your head, you can’t speak. Talk shit about my tastes again and see where it gets you.”
+
+All the while Wun held his pose until in a delayed explosion, cheese rained over them all. “No, wrong ring! Not my good cheeses!”
+
+As Wun scrambled to collect his spatial ring’s contents, Zack raised a finger requesting permission to speak.
+
+When Krodag nodded to him, he asked, “I think your… someone, isn’t too happy. They are turning purple.”
+
+The Tier 45 dwarf man was in fact turning purple, seemingly stressed at the group's antics as if they were aimed at pissing him off instead of their Empire guests.
+
+Ellen just waved behind her. “Meh. Whatever his name is, he can deal with himself.”
+
+That seemed to finally piss the man off enough that he started moving. Waving a hand, he bundled the four Tier 35 Ascenders together and physically tossed them down to the world as if he was throwing them into the trash.
+
+Reaching out, he proffered his hand to shake with a forced smile. “My name is Ugnud and I’m very sadly the four idiots’ wrangler. I will also be your liaison while you are here in the Clans. Please, if you have any needs, just let me know and I can take care of them. Personally, I’m excited to meet you. I’ve heard reports you all sometimes actually listen.”
+
+Allie waggled the hand that wasn’t being shook. “We can act up if you’d feel more comfortable with that.”
+
+When Ugnud looked like he was going to have a heart attack and die on the spot, she backtracked. “Joking. Just joking. Mostly. Are you ok?”
+
+Pulling out a lightly glowing canteen, he took a quick swig before waving the question off. “Those four are incredibly stressful and with the upcoming war with the Republic, they are intractable and are taking it out on me. I’m hoping that with your arrival, you’ll bleed off some of their energy and make it easier for me to deal with them.”
+
+Aster pulled out a cup of ice cream and proffered it as he moved to shake her hand. “Have some ice cream. And thank you for having us. We’ll try to not make that large of a mess.”
+
+Taking the ice cream and tentatively trying it, Ugnud went back in for a second larger scoop. “This is actually quite good. Thank you. And we understand that Legends can be… Can make waves as they pass through but we can handle that. Given that you didn’t cause an inter-Great Power incident in the Sects of all places, I believe you will be fine here.”
+
+After they had all shaken the man's hand and made introductions, they were led down to a floating island that looked eerily familiar.
+
+Wun whistled as he floated over on a cloud. “Yes, that is an Empire ducal floating island. Some old Legend or another grabbed it in some war or something. I don’t remember exactly. Ancient history and the present is far more interesting than the past. Honestly, all of the worlds here are prizes from some war or another. We’ve cycled them in and out as things get stale but really it all gets stale, given there are only so many naturally occurring biomes that mesh well together.”
+
+Ugnud really looked like he wanted to say something but instead just disappeared into a small house on the edge of the island, closing his door with a bang.
+
+“Rubbing his hands together, Wun patiently waited for Matt to bring out his house. Wun looked back at the foreign Legends as they looked at him strangely, almost as if they could hear his inner monologue.” Reaching out and tapping the air, Wun stage whispered, “Test. Test. I’m speaking out loud, aren't I? Sorry, it's kinda funny and after mocking Krodag with it, it kind of becomes second nature.”
+
+The other four popped out of the ground where they had been hiding at the mention of the house.
+
+With all eyes on him, Matt held up a hand. “Hold on for a minute here. What is so interesting about my house? I don’t want it damaged. It's a house and not cheap to fix if it needs special materials.”
+
+Moe blew a raspberry, “We ‘on’t break anythin’ intentionally.”
+
+Matt narrowed his eyes at the other Ascender. “Yeah, it's the stress on that last word that has me worried. I don’t want my house broken at all.”
+
+Ellen gestured for him to get on with it. “We have a bet, and it's not about breaking the house. Come on, stop teasing us. Show us! Pleassssseeee!”
+
+With a thought, Matt plopped the house down on a clear patch of the flying island just to hear curses.
+
+“I ‘an’t believe he ‘idn’t lie.” Moe looked like he had been poleaxed.
+
+Krodag instead looked at Matt, trying to see through the veil he always kept up. “Maybe it's a fake growth item?”
+
+Brian shook his head, trying to speak but was still unable to get sound out. Finally he resorted to an army of skeletal rats that crawled out of a building and started spelling his words in real time. “No way. The bond is obvious on the house's side. He's actually got a growth house. Son of a bitch didn’t lie.”
+
+“Hey, my mom wasn’t a dog!”
+
+“No, she just got up to a bunch of monkey business.” Ellen snapped right back, causing the older Ascender to clutch at his chest.
+
+Moe sauntered up to Matt and looked up to him. “‘An we go inside? Pleaseeee.”
+
+Matt still didn’t really get it but just nodded. “Sure, everyone's welcome. Come on in.”
+
+As Ellen walked in, she hopped up to what Matt would consider a normal height and looked around. “This place is swanky as fuck.”
+
+Brian tutted his way, inspecting the foyer, “And here I thought Aiden got the best growth item out of Minkalla with his boots but this has it beat hands down.”
+
+Krodag hadn’t bothered to levitate himself and instead bent over to inspect the baseboards.
+
+“The whole fuckin thing’s a damn growth item. What the shit is this? I half expected that it would just be like the bones of the damn thing but no. Even the cabinets are part of it. What the fuck, Wun? Why couldn’t you have given us some of this luck before we, ‘ent inna ‘Innkalla?”
+
+Matt and Aster shared a side eye at the dwarf forgetting to use his accent until the very end but neither could convince the other to comment on it and the moment passed.
+
+Wun just seemed smug as he buffed his nails on his shirt. “Pay up, shits for brains. I told you, and none of you believed me.”
+
+The four didn’t even argue as they each tossed Wun a spatial ring.
+
+Always happy to show off their not so little any more house, Matt asked while quickly tidying up a tad, “Do you guys want the tour?”
+
+Allie, Zack, Susanne, and Aster, having been in the house many times before or having lived inside of it, just made themselves at home, Allie going as far as to raid the fridge, loudly complaining to Aster about their selection of beverages, while Matt and Liz gave the tour.
+
+That was normal enough even with exaggerated reactions Matt was half sure they were playing up to amusing themselves but he was still proud of his house and the work he, Liz, and Aster had put into it to make it the perfect home away from home.
+
+It was all in the little touches like the layout and exact shape and size of the hallways which tied everything together and he couldn’t help but preen as the other complemented all of their design choices.
+
+That was until they reached the spot where Liz’s terrarium was situated next to its door.
+
+“And here is my Growth Item that’s linked up. It's kind of just a garden so not that impressive unless— and they are already inside.” Liz sped up as she finished.
+
+Even Wun seemed shocked as he entered right behind the others.
+
+Krodag sputtered, “It can eat other growth items? This might even beat Aiden’s boots.”
+
+Matt corrected him, not wanting them to worry he would eat their items. “It's not eating them and it doesn't really work for everything, just temporarily absorbing spatial items and integrating them into the house. That said it can eat household objects, so don't leave a favorite chair or anything like that unless you intend to leave it here forever. Really, it's a good house.”
+
+The moment he finished speaking, Wun immediately threw down one of the spatial rings he had just been given and Matt blinked as he felt what had been added to the house's inventory.
+
+Waving, he created another door next to Liz’s garden and opened it just so he could check its contents.
+
+“One collection of… Trash. All I can see is trash.” Matt looked at the other Ascenders to make sure he wasn’t being pranked.
+
+Brian gasped, then gasped at realizing he could speak once more. “It's not trash, it's vintage scrap from the destruction of Vultro 6 from the movie set of Destro Man Reborn. This stuff is worth a fortune or three and I never would have bet it if Wun didn’t make such a ridiculous bet like a friggin’ growth item house.”
+
+Liz pointed at an actual trash can filled with trash on a pedestal of Tier 15 marble. “That is an actual trash can.”
+
+Brian nodded. “It's one of three trash cans you can see in the film that survived them actually blowing up the planet, making it a centerpiece of the collection.”
+
+Wun grinned. “I now own two out of three. Soon, I’ll get the third and complete the set.”
+
+Brian looked like he wanted to argue but instead went and carefully polished a specific corner of a painting that was half burned. “I’m going to miss you all until I can win you guys back.”
+
+Krodag instead just pulled out a beer, cracked it open with a twist and emptied it with a single long pull. “This migh’ well be the single bes’ growt’ item ah’ve ever seen. I am now comple’e an shall now sink into deep depression, knowing that all else shall never compare to its majesty.”
+
+Wun sighed. “Even I’m jealous. How come I can’t be this lucky?”
+
+Ellen looked pleadingly at them with watery eyes. “Can we stay here with you guys?”
+
+Matt looked to Liz. Seeing she didn’t mind and given how much they seemed to like the house, Matt nodded. “Sure but I’ll need a little bit of time to expand the house. Though I will reiterate my note that if you have any items you really care about, you shouldn’t bring them. I can actively stop the house from eating things, but anything like a bed or whatever will get eaten if left alone too long and I stop paying attention.”
+
+Krodag slapped his stomach as he started coughing. “It can absorb items too? Is ‘ere anyhing the ‘ouse ‘an’t do?”
+
+Matt chuckled, “It’s a house. There’s lots it can’t do. It’s not a ship or fortress, we tried letting it eat both of those, and it didn’t work.”
+
+Liz hooked an arm with his. “He says it like he’s upset but he was quite happy when he couldn’t turn the house into a weapon.”
+
+Matt thought he would have to defend himself but instead all five of the Clans Ascenders nodded.
+
+Brian nodded. “I’m incredibly jealous. Umm. I mean, I get it. A house is a house. It wouldn’t be a house if it was also used for combat.”
+
+Aster asked the obvious question, “Why don’t you just… commission one? I’m sure you could find someone that could make you what you want.”
+
+Ellen scoffed, “Boney would never let it bond to anyone else, and there’s no way I’m letting my house be run by Boney. He once made us a campsite entirely out of skeletons and tendons, and never again.”
+
+“Why not just get multiple houses, one for each of you, then?” Allie swooped in for the kill.
+
+“I just told you. I’m not living in a house run by Boney. Now, if it was Bottle that would be different. Bottle runs a tight tavern, which I’m cool with. Liquor cabinets to raid for days!”
+
+“Then…”
+
+“No way it could ever happen, not in a million years. Now, a million and three, we might be in business,” she huffed slightly, “Which is how long it might take us to figure out how to catch up to Aiden. That cheater. I’m the universal expert, not him!”
+
+“Hey Miss Universal Expert, toss me a drink!” Wun piped up, “And don’t miss this time!”
+
+“That was once!” Ellen protested, spinning an open tankard into reality with her fingers and throwing it underhand to the other Legend. Midway through the air, the tankard seemed to strike something invisible and shattered. The liquid inside still flew in a perfect arc, dunking Wun in beer without a single drop going elsewhere. Wun spluttered, but Ellen cut him off, “As requested, I didn’t miss.”
+
+She winked and spread her hands, “Behold the might of a useless Talent, eh?”
+
+“Useless, huh?” Allie poked, “Not from what I hear.”
+
+“Bah, you Empire peeps could never understand. Your Talent scanner actually works.”
+
+The phoenix-Liz in the corner self-immolated as she held back laughter.
+
+“Poor poor me, with a Talent readout of just ‘Ancestral Knowledge,’” she shook her head. “There I was, a bright-eyed little girl hoping to learn what she was good at, only to be told that it was nothing. According to the public Talent evaluation, I had a Talent that did literally nothing.”
+
+“Ancestral Knowledge is what you call Innate Understanding Talents, right?” Matt confirmed.
+
+Ellen nodded, “Yep. I always liked your guys’ name for it better, it feels more accurate. Anyway, our scanner tries to explain what we can do with a Talent, lets people know what they’ll be good at. But it’s hilarious what it’ll diagnose sometimes. Usually it’s pretty straightforward, Boney’s good at necromancy, Lug’s good at breaking stuff, and Bottle is good at skills. But as you can infer, if something’s good at many things, it’ll pick out whatever it’s best at and spit that out.” she mimed wiping away a tear, “I was told I was best at nothing, poor, poor me.”
+
+She shook her head sadly, “And it’s true, no matter how you look at it. There’s nothing that my knowledge helps me with more than anything else. I was obviously doomed to be a shadow of myself, because everyone knows that if you have Ancestral Knowledge, you’ll never get good at whatever it is that your Talent does all the heavy lifting for.”
+
+“Yeah. Like us. Lug does all the heavy lifting, so we never get good at it ourselves,” Brian quipped. Matt got the impression that Ellen told the story like this regularly, because her teammates seemed to be engaged in some silent competition revolving around mirroring her and winning opportunities to interrupt her as a result.
+
+“I’m not sure I really buy that,” Matt tossed in, thinking about how many people he knew who had pushed their Understanding talents pretty far. Susanne was obvious, though she only really used her Understanding to make her swordfighting be ‘calligraphy’ for the purposes of her Tier 3 and 25 Talents. Ai’la and Joy were much more straightforward examples, and lots of crafters had a career built on their innate understanding.
+
+Then again, Team Zero might not have been the best example, but they also weren’t the only ones who he knew with one, “I’ve got a friend from early on who’s got a Talent she uses for archery, and she’s… well, she’s at least ten Tiers weaker than me by now, so I don’t know if she’s better than me, but certainly Tier-adjusted she’s amazing.”
+
+“I’m sure she is,” Ellen replied with an audible eye roll, “Has she ever described what it’s like for her to use her Talent?”
+
+“Like muscle memory,” Matt recalled, “Not the actual memory, just sort of being capable of doing what she needs to do to accomplish a certain result as though she’d done that exact shot a hundred times before.”
+
+“So she’s got a decently strong one. Good example, then. Some still need a couple of goes to really get into the swing of things. But she wants to shoot something. So she listens to her Talent, and boom, she knows exactly what she needs to do to make it work. It’s like you’ve got a giant library on a certain subject in your brain, and the ability to speed-read to learn that subject whenever you want.”
+
+Ellen nibbled on a cracker, cantaloupe, and cheese sandwich before saying, “It doesn’t matter if it’s how to shoot with a bow, how to make a basket, or the history of your hometown, but the example I always like to use is math. Talents being Talents, there are always weird caveats and such but math is something that starts simple and gets very complex as you delve deeper, but you’ll always have access to the books in your head. You can look it up at any time, instantly get it. So it doesn’t matter if you were only taught addition and subtraction in school, you can suddenly just look at advanced calculus and thanks to the massive stack of books in your head, you can now find the function of a non-linear slope; even if they might still need a pen and paper to do it, they understand it and the logic of how to do it all. Sure, they might need a bit of time to puzzle through abstract algebra, but they’ve got all the books in their head, ready to go at a moment’s notice. They’re already a good mathematician, and know everything there is to know about the subject. There’s nothing more to learn or comprehend.”
+
+Ellen snapped her fingers making a nearly painfully sharp sound. “And that's the trap. Why bother studying the books if you already know it all? You just run on autopilot, never understanding it, because you already know it like that. So you never actually get good at anything, you just coast through on what your Talent dropped into your head. Static and unchanging, no matter how hard you work, you’re already as good as you’ll ever be.”
+
+Susanne added, “I still don’t know if that’s a great analogy. I mean, I’ve got an innate understanding for a particular type of calligraphy, but I definitely didn’t know how to write with a sword at the start. That took more than a century of work.”
+
+Matt nodded as it fit with what he understood of the Talent type.
+
+“Sure but that only proves my point. It took work to grow it. Work you didn’t have to do to use the Talent in the way it was intended.”
+
+Ellen paused her explanation trying to steal another piece of cantaloupe but continued with a glare as Aster and Allie devoured the last few pieces. “Now, some knowledge Talents are really powerful, and others are kind of weak. There’s not a direct correlation between scope and strength, but there’s a bit of a link. Like if your library goes really in-depth on a certain topic, you’ve got that many more books to reference. But if you’ve got a lot of different books on various subjects, they can’t be as focused on one thing. Your friend, who’s got archery knowledge, is she limited to one type of bow or something? Or a certain type of archery? ”
+
+“Nope,” Matt replied, “All ranged weapons.”
+
+“Really?” Ellen sounded impressed, “That’s cool. Wide scope and strong effect, good for her. Perfect example as to how it’s not a perfect link. If you don’t mind, could you send me her contact info? I wouldn’t mind swinging by for a chat next time I’m in the Empire. Anyway, my Talent is really ‘weak’. I don’t even get a book or a chapter of additional information on any given topic. I get the next singular word.”
+
+Finishing she shrugged, “And so, I got slapped with the official, Saint-approved label of ‘Useless.’ Because my Talent isn’t better at anything, and I guess they knocked a couple points off because ‘everyone knows’ that knowledge Talents mainly breed slackers, so they didn’t even say I was good at learning, which to be fair I wasn’t until Tier 3 which lets me learn faster but didn't give me more innate knowledge but I was able to learn how to learn better even before that so really it should have counted.”
+
+Moe reached over and lightly punched Ellen on the shoulder. “An’ our Jack proved ‘em all wrong.”
+
+Brian laughed, “Do you remember our first instructor? The one who said that even a Talent with drawbacks would give something good, a Talent that’s good at nothing would be worse than even that? Ha!”
+
+Krodag snorted as he laughed. “That reminds me. I need to send him another stink bomb. I’ve had one fermenting for the last decade.”
+
+The four of them laughed at the shared joke and Matt tried to picture them as younger kids being head strong enough to not listen to their ‘betters’.
+
+Ellen winked, “But yeah. Stupid buggy Talent scanners. One of the biggest benefits I get from my Talent is that it helps me with anything, no matter how niche. So, I turned it on itself. I learned how to learn, learned how to exploit my Talent, learned what my limits are so much better than the scanner could ever do. And I kept pushing myself, making sure that if my library was only going to be slightly more in-depth than what I knew… that it was going to be pushed in breadth and width. The hardest thing was learning how to learn how to learn. And honestly a lot of my improvement came post Path where I was able to actually dedicate the necessary time to learning everything and could just walk into any given university and have the professors fall over themselves to teach me. But these days, I can learn from anyone, understand just about anything, making inferences and deducing from the slightest clue and movement.”
+
+“Even Aiden?” Allie questioned.
+
+“Define understand,” Ellen squinted, then looked at Susanne with a gleam in her eye. “But you, you’ve got a style of calligraphy you use as a style of swordfighting and I’ve been eager to feel your understanding out in person. Recordings can only do so much.”
+
+When Susanne met her gaze, Ellen’s grin got wicked, “Care to show me? If you show me yours, I’ll show you mine.”
+
+Susanne just shrugged. “What do you have in mind?”
+
+Ellen popped to her feet. “A quick, friendly spar. You’ve got the sword, I’ve… also got a sword. Let’s see whose is mightier!”
+
+Susanne levered herself to her feet with a glint in her eye.
+
+“Let’s.”

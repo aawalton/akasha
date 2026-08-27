@@ -1,0 +1,273 @@
+---
+id: 6d5eee4b-eac9-5f29-9597-0e48a4be9669
+page-type-slug: story-chapter-royal-road
+title: "The Path of Ascension Chapter 347"
+slug: 0045-the-path-of-ascension-chapter-347
+partOf: the-path-of-ascension
+position: 45
+ownLength: 5400
+unit: words
+ownProgress: 5400
+publishedAt: 2024-09-06
+link: "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/1791368/the-path-of-ascension-chapter-347"
+royalRoadId: "1791368"
+markedReadAt: "2026-06-29T19:19:04.632Z"
+---
+
+Chapter 347
+
+The four of them watched Councilor Samuel call up his younger counterpart, Councilor Jolene.
+
+She was obviously confused as to why Samuel wanted to call for a last-minute full assembly, but her insistence that she was going to come to talk to him in person caused him to break out in a cold sweat, fearfully looking up at Matt and Liz.
+
+It was so dramatic that Matt had to wonder what he had been told to be so fearful of them. Or was it just the natural fear of someone who had grown up not knowing of cultivators?
+
+Councilor Jolene walked in and stopped upon seeing the interlopers to Councilor Samuel’s office. Cato and Isabella were invisible, of course, but Matt and Liz looked quite imposing on their own.
+
+Her back stiffened and she opened her mouth to call for security, but Matt gently pulled her into the room and closed the door with his Concept.
+
+Samuel thankfully started speaking the moment the door closed, though with how much of a rush he was in, Matt wasn’t sure it was entirely coherent to someone who didn’t already understand.
+
+Liz raised a hand mid-ramble and Samuel’s mouth clicked shut hard enough to crack a tooth. The man trembled at the upraised hand like it was the guillotine that when he descended would spell the end of his life.
+
+A thought from Matt healed the tooth before the pain could even register for the older man. He and Liz shared a look at the obvious fear the man felt, but they were on a countdown.
+
+Liz looked to Councilor Jolene and spoke in her local language thanks to their [AI] translating for them.
+
+“I know you don’t understand, but there is a war we are preventing currently and we need you to call for a summit of world leaders so we can officially end the war and explain. Please make the call, and then we can explain. Seconds matter.”
+
+When she didn’t immediately agree, Councilor Samuel snapped. “Jolene. Just do it. Now.” When that didn’t work, he pivoted to pleading. “You know me. You don’t need to trust them, but you need to trust me. Do it.”
+
+That seemed to work and Councilor Jolene walked over to Samuel’s desk and without a word to them, picked up the phone and made a few calls about a need to assemble the council.
+
+Matt nodded and added. “Now, please call the leaders of the two countries at war. They will have no doubt noticed that their generals have received cease fire orders from them that they didn’t send. Please ensure that they do not reignite the battles until after the meeting.”
+
+Councilor Jolene gave him a hard look that made Councilor Samuel tremble but she didn’t seem to notice.
+
+“You seem oddly misinformed about how much authority I have over them.”
+
+“I don’t care what you have to say. Tell them whatever you need to, just get them to stop the fighting until after the meeting.”
+
+“Fine. But the two of you have a lot of explaining to do.”
+
+Matt smiled having already done a small check up on the councilor’s personality from past records. “And we will. The war needs to end, and this is the first step. Unless you don’t mind pointless deaths?”
+
+Those calls took substantially longer, but she got there in the end. It no doubt helped that Matt encouraged her to allude to some kind of new technology responsible for their existing communication breakdowns, but she eventually managed to wrangle both leaders into appearing at the upcoming world summit and not countermanding the ceasefire orders until after.
+
+Only time would tell if the people on the other side of the phone would hold to their supposed promises, but even through the fairly crude phone lines, Matt could tell they sounded genuine.
+
+With the immediate issue taken care of, Matt summoned chairs for Liz and himself out of his spatial ring. They didn’t need to sit, but summoning the chairs was obviously magical and sitting down should hopefully help with Samuel’s worries.
+
+Both Lizzes thanked him and Matt sat down a moment later, making sure to keep all of his movements within Tier 1 perceptions.
+
+“Who are you and what have you done to Samuel?” Councilor Jolene’s eyes had gone wide at the chairs appearing out of nowhere, but she ignored that, backing up and crossing her arms over her chest in a defensive posture.
+
+Matt gestured to one of the chairs in front of Samuel’s desk. “This is a long conversation, so you might as well be comfortable. First introductions. My name is Matthew Moore, and this is my wife Elizabeth. We are the new owners of Soerilia and Dukes in a multidimensional monarchy called the Empire. I—”
+
+Councilor Jolene interrupted him with a snort as she turned to Samuel. “What kind of joke is this, Samuel?”
+
+Samuel shuddered as she interrupted Matt and watched Matt like a dog expecting a beating.
+
+Matt wanted to sigh, but he knew Samuel would misunderstand the gesture and instead leaned back in his seat motioning for Samuel to explain.
+
+“Jolene, shut up! You need to listen to them. They aren’t lying.” When she opened her mouth to interrupt him, he raised his voice to cut off any interruption and sighed. “When I was first elected, I was informed that we’re but one of countless worlds within something known as The Everlasting Republic, some kind of crazy multidimensional and magical power with what are… well, frankly unimaginable amounts of strength. And I… am the contact point for them. Then, a few months ago I was informed that because they’d lost a war, our planet was going to be transferred from their management to… they just called you the Empire?” he asked, and Matt nodded. Nobody ever used the full title for the Empire, and some of the words didn’t translate cleanly into the local language anyway.
+
+Gesturing to Matt and Liz he finished, “These two are our new rulers. They own this planet. Th—”
+
+Hearing that Councilor Jolene stood up in denial. “I’m not sure what nonsense you’ve been fed, but obviously these two have done something to you. You’re talking nonsense, Samuel. Empires? Planetary rulers? This isn’t something that you can decide on without my approval, let alone without a full referendum.”
+
+She turned her gaze to Matt and Liz and then to Samuel before her eyes came back down to settle on the two of them.
+
+“I think you two need to leave before this farce progresses any further.”
+
+Samuel nearly had a panic attack at her words, but Matt looked at him which caused the man to freeze. “Councilor Jolene, your counterpart has not lost his mind. While oversimplified in a few ways, nothing he said was incorrect. The Republic has hidden the true nature of reality from you for countless generations, hiding essence and cultivation from you,” Matt used the Republic words for the concepts, which Samuel clearly recognized, but Jolene simply sounded them out in a bit of confusion. “With that said, your disbelief and confusion is entirely understandable, and even expected. These are going to be trying times, and we’re reasonable besides, so we won’t hold it against you, but this isn't something you can just reject. It will happen no matter how much you rail against it. We are here to ease your transition into greater reality as best as we can, and that will be made much easier if you cooperate.”
+
+Councilor Jolene stiffened as a thought came to her and she looked to Samuel. “If you have known about this for years why wasn’t I informed? Our positions are equal. We are peers, damn it!”
+
+“They only have one representative. I tried to argue we should both represent this world, even if we only had one vote between us, but they were very firm when insisting there only be one and my Chair is the senior one by their metrics. When I tried to argue it…” Samuel paused as he searched for the proper word before his eyes flicked to Matt and Liz. “The immortal who did my debriefing made it very clear there was no room for negotiation.”
+
+Looking to Councilor Jolene, who clearly didn’t believe anything that she was hearing, Liz tried to get them back onto a useful topic, “Your confusion is understandable, but please realize that what Councilor Samuel is saying is true. If you have questions, please feel free to ask, but we would ask you not to act rashly.”
+
+Jolene's heartbeat doubled as the reality of her world set in, but Samuel’s next words seemed to ground her at least a little. “Believe me, the things I’ve seen are… immense. Usually, I’ll just get a message, a couple of times I’ve actually gone off-world for a few days, and it’s, well, incredible. I met a member of our local clusters government, and it’s something to see someone who looks like they’re in their twenties casually discuss helping our ancestors first settle our planet thousands of years ago.”
+
+“What, they’re immortal? That’s impossible. Even more impossible than all of this. You can’t just live forever.”
+
+Seeing that she started believing, or at least wasn’t resisting with such hostility, Matt leaned back to give the two natives of Soerilia the space to speak.
+
+Samuel went through the world's history and his personal involvement as the planet's representative to the Republic, which Matt found intriguing as it was from a perspective that he hadn’t ever encountered.
+
+His retelling of their planet's history was also interesting, to say the least. The way Samuel framed it was that their ancestors wanted an escape from the ‘horrors of cultivation’ and so petitioned to settle Soerilia as a veil world after it was integrated. Matt knew the world had only been grabbed to act as a springboard to another Tier 13 world that had been drifting by, but Samuel seemed to not know anything about that or why the low Tier planet had been grabbed at all.
+
+Jolene listened, but even Matt could see she didn’t believe anything she was hearing, so he wasn’t surprised when she turned to Matt and Liz and said, “I need proof. Beyond the obvious. I've never seen someone with your skin colors, but that doesn’t mean much with plastic surgery and how fast tech advances. You guys keep speaking of magic and while you pulled me into the room that can be done a dozen ways with stage tricks I was too panicked to notice. Do you have some proof I can see? That I can touch?”
+
+After checking with Liz, Matt shrugged and held out a hand and cast a simple [Fireball] with a paltry 10 mana. Samuel flinched back but Jolene leaned forward and inched her hand forward.
+
+“It's hot, but you could have a stream of oxygen in your sleeves for all I know.”
+
+Matt felt that was a little illogical, he wasn’t wearing gloves and his shirt sleeves weren’t baggy enough to hide something like that, but he tried to put himself in her shoes where this was all so new. They were showing her things she had spent her whole life believing only existed in fantasy stories or their local equivalent of movies.
+
+With that thought in the forefront, Matt nodded and gestured for her to stand. “Stand and I can float you. You can obviously tell you aren’t hooked up to any wires, magnets, or strong air currents.”
+
+Councilor Jolene watched him like he might bite her, but after a moment of contemplation she stood arms extended as if he was going to pick her up by under her arms.
+
+With a thought Matt carefully lifted her so she could just reach up and touch the ceiling if she wanted too.
+
+“Ah! Oh shit! Fuck! Ok, I believe it! Can you put me down without breaking my legs?!?!”
+
+Matt did as she asked where Jolene started patting herself down before moving onto the chair and then the floor where she panted.
+
+“This is impossible. How can there be magic? It's a thing of fairy tales and stages.”
+
+Matt looked over to the side where Samuel had a potted plant of some kind.
+
+With a thought, he brought it over to his hand under the scrutiny of Samuel and Jolene.
+
+“I obviously didn’t bring this in, so watch.”
+
+Matt caused the loose and slightly rocky surface soil of the plant to float before him in a slow cloud of debris that pulsed in sync with her heartbeat. He also subtly slowed the rhythm down, hoping it lowered the woman's racing heart to something more manageable.
+
+As he did so, Liz gestured at it. “Feel free to touch it. This isn't fire and won’t hurt you. If seeing isn’t believing, feeling should be.”
+
+Matt made the dirt spin and twist around Councilor Jolene’s tentatively extended hand.
+
+After she seemed to have her fill, Matt compacted the dirt until it was a perfect replica of the very chair she was sitting on.
+
+That somehow seemed to finally convince her more than anything else.
+
+“It's all real then. So what happens now? We are part of a galaxy spanning monarchy? Will we have to move?”
+
+As Liz leaned forward, phoenix Liz jumped to his shoulder with a quiet squawk of indignance. “From the perspective of what we call Realspace, what you know as your observable universe, nothing has and nothing will change, physically speaking. At risk of getting too technical, what was moved was the node, or access point of this planet through Chaotic Space, which you could think of as spiritual space, a higher reality. That node was moved into the Empire’s territory, which is how the world was transferred. That means inter-world travel will be different, but for anyone staying on this planet, nothing changes.”
+
+Jolene shook her head, and Matt was going to ask what she didn’t understand of that explanation when she asked, “Empire. Why are we transferred to a monarchy? We are a mostly free people, with elected officials, people who represent their constituents. How can we become a monarchy? No one will accept that. Can we go back?”
+
+That question seemed to be a deep and burning desire of hers. But as much as Matt wanted to not hurt these people, that was no longer a possibility. While he knew integration could be rough and painful for veil worlds, he also believed that it was a net positive, as just knowing and having access to cultivation made life so much better. Maybe that was just because he grew up under the Empire’s governance, but the Empire allowed civilians to live unabated should they want to do so. They also allowed the more ambitious to rise above their mundane beginnings, which was impossible in a veil world here.
+
+If he had been born on a world like this, Matt knew he would have never been able to reach the heights he had. He knew change could be hard, but this was a massive improvement if handled correctly.
+
+“It's already done. People stronger than you, or even I, have made this choice. Our Great Powers recently fought a war and part of the peace treaties were that a number of planets were transferred to the Empire. Liz and I are the ones who are receiving a portion of those worlds.”
+
+“So this Republic lost a war and now we are being thrown away to the wolves?” Jolene seemed genuinely angry at that fact, but what Liz said next didn’t help.
+
+“Technically, the Republic won. The planetary transfer was the result of a related, but separate secondary treaty, not the peace treaty itself.”
+
+Even Samuel looked shocked at that revelation, and Matt tried to soften the blow.
+
+“Liz and I aren’t cruel. We wish to integrate Soerilia as gently as possible. That is why we wish to gather the world leaders so we can discuss how to do so with the smallest degree of —”
+
+Jolene leaned forward and pleaded, “Then please leave us alone. Just leave us be. It seems like you have the power to just walk away. Just do it. Go. Please.”
+
+Matt shook his head. “No. That’s not an option. But, I recognize that you’re in a very trying time, and I understand why you think you want to stay separate, but your lives will be far better in the Empire. Magical healing, like the sort that Councilor Samuel seems to have received, is quite common in the Empire, and free for civilians. Our technology is substantially more advanced than what you have here, and everyone will be awakened for free- that is to say, become a cultivator. Even just awakening comes with several health benefits, so you can expect a global increase in life expectancy, and that’s not even accounting for those who decide to actually delve and cultivate, who will have a distinct possibility of becoming immortal. Even without that, simply reaching Tier 3, which will be possible without ever leaving this planet, will give you an average life expectancy of a hundred and thirty, with better health for much more of that time. And that’s simply the start of it.”
+
+Jolene slowly processed that before her eyes sharpened. “Wait. When you say immortals, do you just mean very old, or do you mean actually immortal? As in truly never aging?”
+
+Liz nodded. “Matt and I were both born about three hundred years ago, but we’ve spent considerable amounts of time in places where time passes faster, so biologically, we’re closer to five hundred. My parents are about thirty thousand years old, and one of my aunts can have her age measured in millions of years. Though it’s still possible for us to be killed or to end our own lives, reaching Tier 15 makes us truly immortal. Or unaging. My [AI] is telling me there is a difference in your local language, but in Empire standard it's the same word.”
+
+Jolene rubbed her face before scrunching up her face. Matt didn’t miss how her blood pressure started to rise to a dangerous level.
+
+Matt stood up, and Liz followed him. “I think there has been enough stress for the day. Let us take a break and reconvene the morning before the general meeting. I hope you can ensure all leaders are here, now that you fully understand the reason behind this meeting. If you have an issue or wish to contact any of us, I have some tablets which you can use to contact us and are preloaded to translate all of your languages. They also have a small amount of information about typical Empire integrating plans.” Matt paused as he mulled over that information. “We intend to go through with a slower than normal integration, as we recognize that while the standard Empire method is expedient, it can be hard on the people involved. Instead, we would like to use a more Republic method that is slower and hopefully more gentle. Otherwise, try to have as good of a day as you can.”
+
+Samuel looked like a weight had been lifted off his chest and slumped into his chair, while Jolene had a thousand yard stare as if she had just experienced her first life and death battle.
+
+It was not a good sign for what was going to come.
+
+Instead of leaving through the door, Matt created a [Portal] to the airspace above the Arbitration Convention and made a small show of stepping though. The skill was one he picked up after the war when he realized he’d be without the Allie Express and needed a way to get around that used his mana instead of willpower.
+
+Matt let out the sigh he had been holding in since they had arrived. “I feel like an asshole.”
+
+Liz groaned while Pheonix Liz started grooming an errant lock of his hair. “I know. We stopped this stupid war, but what is the point if these people don’t want to know the truth? I want to say that realizing the truth is nothing but a good thing but Jolene nearly had a heart attack and Samuel cowered at every word we said.”
+
+Matt pulled Liz into a hug and they floated there for a minute until they pulled apart and looked at their seneschal’s together.
+
+“Any thoughts?”
+
+Isabella nodded slowly. “I’ve looked over the information about veil world integrations and there are two main methods. Fast and abrupt or slow and steady. The Empire favors fast because while it's rough in the early decades it's simpler and comes with less long term issues. But having seen these people… It seems very… Rough.”
+
+Cato just blinked at their gazes and shrugged. “It is what it is. If you slow down, those children who would have been born with an Empire education and Empire opportunities would have lost them. The slow approach extends any suffering just as much as it reduces the initial shock. What is right or wrong matters little. All that matters is how you wish to handle it. The best thing the lord and lady can do is pick a method and stick with what historically works. In a thousand years, it won’t have mattered how the integration happened except as a footnote in the local histories. It is neither cruel nor kind. It simply is.”
+
+Matt processed that information slowly before nodding. Cato wasn’t wrong, even if he pointed out a harsh truth.
+
+A thousand years could pass and none of this would matter, so long as the population at the time was properly integrated into the greater Empire. At least while that might be true on an Empire wide scale, but Matt was here now. He could see these people, his new people, and he wanted to do right by them.
+
+It only took one glance at Liz for them to affirm their decision. Slow and steady was the right path forward. At least it was here. They couldn't change everything, and Matt was sure some of the integrations would go badly for the local populace. It was simply the truth of large numbers, but Matt wanted to do his best.
+
+Liz made a small noise, and Matt followed her spiritual perception to a nearby city where a seemingly abandoned building had a rift inside it.
+
+Out from the rift, a group of five walked out. Delvers.
+
+With another [Portal], Matt delivered the four of them in front of the building which he noticed looked like an abandoned apartment complex.
+
+It wasn’t quite at the level the rift break damaged buildings in the outer city of his home had experienced, but it was clearly unfit for habitation. There was even a formation that would make anyone without cultivation feel uneasy in the area of the building, and would feel downright uncomfortable if they entered.
+
+Combined with the rift being in a hidden but well warded and defended room off one of the secondary bedrooms, the place was practically mortal proof thanks to using Tier 3 material and a number of immolation formations which would kill any monsters that might escape during a rift break.
+
+It wasn’t exactly what he would consider a good rift policy, but it clearly worked. And with a few delving teams, they could easily keep the rift controlled and the mortals uninformed.
+
+The Republic had three types of delvers on veil worlds.
+
+The first and rarest were retirees who reached a point in their cultivation where they wanted to stop before immortality and wished to retire to a veil world. They would live as a mortal and ensure any rifts in their section never broke, delving them as needed to keep them safe. As they were always at least three Tiers stronger than the planet they were stationed on, there was little danger to be had, but so too was there no reward.
+
+That position was rare, though, and strictly controlled. The Republic was quite serious about keeping cultivators away from mortals.
+
+The second type of delvers were low-Tiers from offworld, delving the rifts normally to keep the risk of rift breaks low while advancing. They were only usually used when the planet itself didn’t have very many local cultivators, which was where the third type of delver came in.
+
+Locals. People born on the planet, who lived on the planet, and who would probably die on the planet. Depending on the local regulations and whatever agreements had been established during the world’s founding, those cultivators might live entirely cut off from the rest of their planet or be something of an open secret. In some places, they lived entirely openly, with only knowledge of the greater Republic being restricted to either cultivators only, or cultivators of a certain level of strength.
+
+Late stage veil worlds were weird, and Matt couldn’t really understand the purpose of such societies, but that was the Republic not the Empire.
+
+Now that he thought about it, it wasn’t even that different from normal Empire life on low Tier planets. Most people never thought about their greater Great Power in any real sense, and never left their world of origin. It just didn’t matter to them in their short lives.
+
+That statistic held true in the Empire on lower Tier worlds like Lily as much as it did on veil worlds like Soerilia. The average person, even the average delver, was happy to live a content life with a moderate amount of work in return for enough wealth to see them comfortable and able to afford the luxuries they desired.
+
+Even the price of teleportation in the Empire, while expensive, was only a moderate barrier even on Tier 4 or lower worlds that needed the teleports fed with more than ambient mana. Your average Tier 3 or Tier 4 delver could save up enough to transport a team in a year or two of average delves, with no exceptionally valuable rewards like growth items.
+
+It was why The Path worked so well. It found those with ambition and gave them a clear direction to run with few hurdles to trip over.
+
+“Hello, my nam—”
+
+Matt stopped speaking as the door was slammed shut in his face.
+
+From the other side, he could hear angry whispers about how no one should be there and they hadn’t felt anyone, and how much trouble they would be in after they reported this up.
+
+Speaking loud enough to be heard through the door Matt said. “Hello. My name is Matt and I’m the new duke of the area and wanted to talk to some of the locals to get a feel for Soerilia and its people. Would you open the door, please, so we can chat politely.”
+
+The door opened, and in halting and frankly bad Republic standard one of the women, the group leader Matt assumed, said, “Inside. Hurry.”
+
+Matt and Liz slipped through, to be followed a moment later by Cato and Isabella.
+
+In the local language the woman had spoken with earlier behind the door Matt said, “As I said, my name is Matt, this is my wife Liz, and our seneschals. We just had a chat with some of the local leaders but we wanted to meet with a few of the local delvers and you guys were the first we encountered. Would you mind answering a few of our questions?”
+
+The woman swallowed before nodding jerkily.
+
+Seeing this woman was also afraid of him, Matt changed the question he was going to ask. “What have you heard of us? So far, everyone in the know is terrified of us, and that feels like a bit of an overreaction if I do say so myself. Speak your mind. I promise we won’t take offense.”
+
+The woman glanced at her team and they shared a few hard looks before she sighed and turned back to face Matt. “We’ve heard a lot of things about the Empire. Little of it is good. We also heard of you two personally and that you are Gladiators and more than capable of killing anyone at your Tier with a thought.”
+
+Liz gestured for her to continue. “What about the Empire? Anything in particular?”
+
+One of the men behind her spoke first. “I heard that the Empire forces people to awaken even if they don’t want to so they have enough people to delve rifts.”
+
+The second woman shook her head and corrected the man. “No, Eric said the Empire made people awaken so that they could earn more money off people.”
+
+The second and third men of the group shared a look and at Matt’s nod the second one added. “I heard the Empire forces people to reveal their Talents to get jobs.”
+
+Seeing they didn’t react badly, an outpouring of half truths came out of the delvers’ mouths.
+
+Few things the group mentioned were outright wrong, but a lot of things seemed to be either deliberately twisted into the worst explanation or mutated as the fact turned into rumor through word of mouth.
+
+Once the group seemed to run out of steam, Liz thanked them and proffered them two items. “The skill shard is a simple [Fireball]. The rings are an enchantment that once worn will pull the spear back to its wielder. More mana into the ring will strengthen the attraction, but it's useful if you normally throw that spear, which judging from its balance, it looks like.” Once the team carefully took the items, she continued. “I assure you that those rumors are mostly that. There are some kernels of truth in there, but most of what you have learned is exaggerated at best and misleading in the rest of the cases. Let me put to rest some of your concerns. The Empire does awaken everyone, but that’s mostly to cut down on abuses of power. Talent readers don’t show your Talent to other people, just an estimate about how strong it is, and it’s illegal to require Talent readouts for job applications. Though some guilds and corporations have minimums set in their contracts there are always caveats for demonstrable skill . Taxes might be higher for high-Tiers, but it’s certainly not burdensome.”
+
+As the group digested that, Matt asked his own question. “If you heard so many bad things, why stay? We were led to believe that the Republic allowed any cultivator who wished to relocate to do so.”
+
+The leader's answer was quick and firm. “This is home. We wouldn’t leave if things are about to get worse. We know we can’t do much but we can stop a rift or two from overflowing.”
+
+That was a good answer.
+
+Matt grinned as he nodded along. “That's as close to a right answer as I could imagine. Can you direct us to the local delvers’ organization? We have a few days free and while we intend to spend some of it exploring the world we want to meet with more delvers as we travel.”
+
+Snapping his fingers as if he had just remembered, Matt asked, “Do you guys have a way to monitor rift mana levels?”
+
+The leader nodded. “There is a device at the local Forum. You can also send a message to all local delvers and I assume Director Frank can give you more information about other locations.”
+
+After saying their goodbyes, Matt pulled the four of them to the newest location. They had three days before the Arbitration Convention and it would only take a second to traverse the entire planet if they really needed to return. With that time, Matt wanted to get a better feel for the lay of the land, so to speak. For all the advantages of the Empire, their efforts in uniformity and cohesion meant there weren’t so many local cultures to create new variations of ideas and customs.
+
+Learning more about the people of this world would only help as they met with the leaders, which after the reactions so far, Matt was sure would be less than a smooth experience. He’d need to talk it over with the others but he was starting to formulate an idea of how best to get all of the disparate world leaders on board without too much push back.

@@ -1,0 +1,287 @@
+---
+id: 10ac94af-0369-504a-b4aa-9369b7c42af7
+page-type-slug: story-chapter-royal-road
+title: "The Path of Ascension Chapter 412"
+slug: 0110-the-path-of-ascension-chapter-412
+partOf: the-path-of-ascension
+position: 110
+ownLength: 4765
+unit: words
+ownProgress: 4765
+publishedAt: 2025-05-19
+link: "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/2291255/the-path-of-ascension-chapter-412"
+royalRoadId: "2291255"
+markedReadAt: "2026-06-29T19:21:36.349Z"
+---
+
+Chapter 412
+
+Qin Jiang brought his hammer down on the circlet in slow and steady beats, following a rhythm he felt more than heard.
+
+It was instinct and experience merging into one in a familiar rhythm he had done a thousand times before.
+
+More than that really but Jiang liked how the round number’s cadence fit with his own hammering.
+
+It may have been hundreds of thousands of years, but when he was alone for long stretches like this last forging session, he tended to slip back into an antiquated dialect of Sect he grew up on instead of Guild common.
+
+The circlet wasn’t hot but he also wasn’t forging it in the traditional way; and what he was hammering wasn’t its physical form but rather its spiritual form, to link it with every other circlet.
+
+A part of it felt like wasting his time given he, and therefore the guild, had thousands of circlets, but creating more ensured that the guild could operate for longer even once he eventually Ascended. He wasn’t planning on it anytime soon, but it was a habit at this point more than anything.
+
+It was relaxing and served to remind him why they did what they did. Creating more circlets also strengthened his own Domain in subtle ways that other developments didn’t quite replicate.
+
+Checking his [AI], he was pleasantly surprised.
+
+It had only been three hundred years but he had managed to create ten more circlets.
+
+He was getting faster.
+
+Instead of immediately leaving, he pushed his power into his own circlet, just enough to harmonize, but not so much that he connected to the others.
+
+Despite that, he felt there was another circlet in the link.
+
+Brimming with happiness, he started playing some music, in Guild standard to get himself thinking in that language again, as he cleaned up his forge area.
+
+A quick pulse through his circlet ensured everyone who was close would be coming back, so he took his time making sure everything was in order to give them some time.
+
+A day and a half later, he stepped through the stone corridor, letting the door slide shut behind him. He noticed that the corridor was recently cleaned but it wasn’t that surprising all things considered as he had given everyone a warning of his impending exit. He was still half convinced they let his hallway fill with dust when he was deep in his work but he had never caught them yet.
+
+These deepest portions of the guild still held traces of their time as a sect from what felt like eons ago but Jiang liked those touches.
+
+It showed their progress, even if he was only one of two in the guild who were still alive and in this Realm from that time.
+
+Liu Wei— Luis Westermen, Jiang corrected himself— was the first to meet him, as he was standing at the end of the hall in a lounge dress outfit that Jiang didn’t recognize the style of, which meant it was new and a subtle rebuke from one of his oldest friends.
+
+In Guild, Luis said, “Ah and here he is. The guildmaster himself finally deigning to come out of his cave. If you hadn’t come out in two weeks, I would have dragged you out. There is big news.”
+
+Jiang raised an eyebrow at the rebuke. “Has it been so bad?”
+
+Luis gave him a flat look. “Yes.”
+
+He held it for a moment before he cracked and laughed. “But really, it's good to see you. We have two new members, both of whom are here and they are eager to meet you.”
+
+Jiang perked up. “Two, that's amazing.” Then realizing what that also meant he frowned. “Who died?”
+
+He had only felt one additional circlet.
+
+Luis sighed. “Charlotte. She was taking out a ring of people trying to poison a world's water supply. To make a long story short, she had to choose between stopping the leak or protecting herself. She chose as any of us would have. The local healers just weren’t able to stop the toxins before they reached her brain.”
+
+Jiang turned left instead of right at the first junction, heading back deeper into the guild into a place even better protected than his forge.
+
+The memorial hall.
+
+He spent a few moments passing by each name and engraved face, letting his thoughts linger on them and their sacrifices before he landed on the last one. The newest one.
+
+‘Charlotte Pin, here she lies in memory, if not in form. Let her not be forgotten by those before or after and let those who come after to hope to perform as well as she in her final moments. “Fear not the reaper. Fear the inaction at its sight.”’
+
+Jiang sighed, seeing all that remained of her.
+
+After spending half an hour grieving, he stood where Luis was waiting for him at the door. “Was the incident handled in her passing?”
+
+Luis simply nodded and so Jiang asked no more, instead moving onto happier topics.
+
+“Anything interesting happen while I was working?”
+
+Luis snorted. “You won’t believe me if I tell you, so let us wait until after you meet the newest guild members. They have been dying to meet you. Tier 6 and Tier 17 respectively.”
+
+Jiang smiled at the news. It was rare but there had been instances when he came out of seclusion to find the guild was fewer in number than when he left it and those were always hard times. Losses were to be expected given their self-imposed duties but that didn’t make it any easier.
+
+Entering the central foyer that could hold thousands, but rarely held more than fifty if everyone was present, Jiang took in a deep breath before letting it out as the sunlight washed over him.
+
+Stepping forward, he drifted down to the central area where he noticed fifteen of his brothers and sisters were sitting, including the two newest members.
+
+After the initial greetings with familiar faces were out of the way, he stopped before the more senior of the newest members.
+
+A woman with dusky skin and slanted features that flickered with pulses of darkness.
+
+An unusual but far from unheard of choice to be able to bond with a circlet but justice could and often did, come in many forms.
+
+“It is an honor to meet you, Sister. Tell me of yourself.”
+
+Her grin was infectious. “Victoire, Tier 17 and Crowned in Darkness to bring what lurks there to Justice.”
+
+The circlet resting on her brow, silver with an onyx gemstone so dark it seemed to drink in the light, pulsed connecting to their shared Domain pool, allowing him to feel her unique take on Justice.
+
+It felt… strong.
+
+It was a little slippery; he felt that Victorie might cut a corner to do what she felt was right, might break a rule, ‘overstep her bounds’, or do something outright illegal but she would always, always be acting for the betterment of the world around her.
+
+It was a good Domain to have and one that fit well in the guild.
+
+A quick check told him that his suspicion that she had used a Bottled Concept at Tiers 5 and 10 was correct but not too unexpected given his short forging session and her current Tier.
+
+Clasping arms with her, he smiled. “I have tasted your Domain and find it exceptional to add to our power. May we all be stronger for your support.”
+
+“And may our support right the endless wrongs.”
+
+Jiang smiled at her slight change to the return phrase. He liked it and her.
+
+She was truly a good addition to their ranks.
+
+Moving onto the next member, he gave the youngest member of their guild a once over.
+
+He was taller than Jiang by almost half a head but hadn’t quite filled out. Young if he wasn’t mistaken, less than fifty which was fast for someone to both reach Tier 6 and have been able to create a Domain that was accepted by a circlet. His lighter skin was striped with darker more tanned striations that seemed genetic; Jiang made a note to look into that later, as it was an interesting trend, and if it was widespread, he’d like to visit the planet that started it and immerse himself in their culture.
+
+“It is an honor to meet you, Brother. Tell me of yourself.” Jiang repeated himself but was happy to do so.
+
+The boy's smile was a bit more subdued than Victoire’s had been but there was a core of strength to it. “Mathias, Tier 6, and Crowned in Flame. My flame will bring justice if nothing else will.”
+
+His circlet, larger, more robust than the shape Victoire’s had taken, housed a large but vibrant ruby that pulsed with power as he connected to the shared pool of power the circlets formed.
+
+Jiang nodded as he felt it. That was a more typical Domain. Straightforward and effective. Mathias wouldn’t hide behind schemes or subterfuge if a more direct option would work. Many of the Brothers and Sisters past and present had had similar Domains and it was a welcome addition to the shared power pool. One day, when he became stronger, it would serve as a core, a touchstone for everyone, allowing them to know if their cause was still just as someone like Mathias would never waver.
+
+It was also…
+
+Jiang didn’t quite have the word for it.
+
+He wanted to call it artificial but that was wrong. It was a Concept like any other but it felt like it was still growing into the ideal that Mathias championed, yet not in a normal way of a Domain growing stronger through time and lived experience. It was more like a bottled Concept, except that was entirely wrong as it wasn’t a dead thing shoved into the place a Domain should be but instead a living thing just not yet fully realized.
+
+The core of the idea was there but it was still forming.
+
+It almost reminded Jiang of a crystal formation in an oversaturated solution. The crystals had already started to form but they hadn’t quite completed the process and there was still some solution left in the dish just waiting to be converted.
+
+It was incredibly interesting and he could feel all of the older members watching his introduction with Mathias, which meant they had known about this and were expecting him to notice something.
+
+Not that he would break protocol. Despite not holding any official rank or the like, Jiang was the single person who forged their circlets, as well as the founding member. He also knew he was something of a legend, given how much time he spent in seclusion forging new circlets. Undoubtedly, Mathias had been worried about his introduction if there was something odd about his Concept, and might have worried that he would be treated differently, which Jiang wouldn’t do.
+
+But Jiang didn’t see this new type of Concept as a bad thing at all. He wished with every fiber of his being the guild could find new members. He knew if he checked outside, he would see the outer guild filled with millions of people he wished he could call brother or sister but whose Domains simply wouldn’t be acceptable to the circlets. People who had passed the rigorous personality tests and proven themselves time and time again but who simply couldn't form a Concept that resonated with the specific meaning of Justice the circlets demanded.
+
+If there was a controllable way to bypass that requirement, Jiang was very interested in it.
+
+Clasping arms with Mathias, he smiled. “I have tasted your Domain and find it exceptional to add to our power. May we all be stronger for your support.”
+
+Mathias’ grin turned a tad more natural as he replied with the traditional response. “And may our support right the many wrongs in the Realm.”
+
+Jiang gestured to the seats. “Sit and let me prepare some refreshments. Tell me of your happenings.”
+
+The two newest members seemed caught off guard that Jiang was going to be the one doing the ‘menial’ task of serving them all but he just smiled at the expression. It was as close as they came to hazing the newest members.
+
+No one expected the oldest and most senior member of the guild to enjoy making drinks but he did and would fight anyone who tried to muscle him out of that job. Which led to a small surprise for new members. It also served to break down their perceived social barriers.
+
+As they each spoke of what had been going on in the meantime, Jiang was caught off guard almost immediately and had to ask. “The Empire has two new sets of Heroes? Duke Waters has an Authority and has reportedly had it since he was Tier 31?”
+
+Luis chuckled as he took a drink from the tray Jiang brought around.
+
+“I told you you wouldn’t believe it.”
+
+And he was right. Checking with his [AI], he found everything they said to be true and couldn’t help but feel… many things.
+
+He did not like Heroes.
+
+They were more often than not just as bad, if not worse, than the evil his guild was meant to destroy but they were also just as often the strongest people in the Realm and without having a several Tier advantage on them, there was no surefire way to kill them.
+
+Even the Guilds’ current one, One Step Behind, was little more than a necessary evil whom Jiang barely tolerated. He wasn’t the worst of the worst but he also had slaughtered people just because they were connected to the killer of someone he cared about, not caring that he was just furthering the cycle of violence.
+
+The Empire having not just one new set of them but two in short order was not welcome news.
+
+He tried to reserve judgment, but it was hard. There had been Heroes who truly lived up to the name but they were few and far between and he often found the Sect word for them to be more fitting. Master. Those who stand above and outside the natural orders, and that was no complement.
+
+Aiden Waters he knew of. The man had reached out to try and convince Jiang to attempt to make a Domain-boosting artifact for him but he had refused. First, his Power that allowed him to create growth items that boosted a Domain, let alone let one that allowed people to share a Domain power, didn’t allow him to create such artifacts for just anyone or any Domain. Second he had seen Aiden’s Domain, though it was when the man was Tier 25 and so he ‘only’ had an Aspect at that time.
+
+Duke Waters’ Domain was not the Domain of a good person. It was the Domain of a psychopath, of a killer on a leash of twine, of a monster who simply hadn’t decided to come out from under the bed.
+
+Even if he could, he would have never made that man an artifact that could boost his Domain. But now hearing he had already created an Authority, something only rumored from ages long past or from descenders, Jiang was doubly glad he couldn’t, for allowing someone like that to gain even more power would be a mistake.
+
+Items that interacted with Domains were almost unheard of on their own, but his were quite literally the best in the Realm.
+
+He shuddered at the very thought.
+
+He wasn’t the only one, but it was mainly the oldest members.
+
+The newest members looked all too enthused, no doubt not having learned of the cruel reality of those who truly stood above everyone else. Jiang wouldn’t disabuse them of that notion, but time and experience surely would.
+
+Except the words out of Victoire’s mouth were not about Duke Waters. “Hero Shadow is a menace. You should have seen it. The reports came in like a breaking dam. The war was slowly grinding in the Sects, Federation, and Republic’s favor but then bam! Out of nowhere, three dozen pinnacle and peak elites, dead or captured. Just like that, the war ground to a halt as the fuckers tucked in their greedy little fingers, not wanting them to get chopped off. I really want to have a chat with her about her usage of shadow magic to assist in her teleports. She’s said that the Shadow facade wasn’t entirely a facade, so I’m sure there is a ton I can learn from her.”
+
+Even Mathias nodded as he gushed with the exuberance of youth. “And Hero Legion. Forging her new mana type in the middle of a fight. Blood, Fire, and Lightning all harnessed. I’ve seen a sample of it, and it crackles with power. If I could find a way to harness even a fraction of that kind of oomph, I could burn down anyone.”
+
+Victorie said something Jiang didn’t catch, his mind going over the monsters that Heroes often were but brought his attention back as Mathias disagreed with a shake of his head. “If I could meet only one of them, it would probably have to be Titan. The aura potions, let alone the skills. I respect someone like that.”
+
+Jiang thought the youngest Siblings were just caught up in the propaganda but seeing the reactions of the other Siblings, he decided to check. Even in his brief perusal, he was taken aback by the reports he saw of the Empire's newest Heroes.
+
+Hero Shadow had been bought out of the war but he still saw the horror she represented. Realm-wide teleports with her seemingly only limitation being Tier. That was horrifying and he would have bought her out as well. He was half surprised no one had made a move to kill her but the Ascendancy of the Sun had done that previously and been summarily destroyed for it. Not that it was any loss, even if what replaced it was scantily better.
+
+Still, Jiang wouldn’t trade the Corporations for the Ascendency any day of the week.
+
+Though if anyone would be killed for their Talent, he could see it being Hero Shadow. That was terrifying.
+
+Hero Waters might be scarier as an individual but Shadow removed the main limitation of a Hero, in that they couldn’t be everywhere at once. If they went ‘right’ the opposition could pull back. But with her, she could be —and bring dozens of similarly strong people with her— left, right, center, back, and front in seconds of each other.
+
+A quick check showed the Guilds were still officially allied with the Sophron Empire and for once, Jiang was glad for it.
+
+He had pushed against that move when it was proposed a few years back but he had been one voice drowned out by the many who believed that this new dynasty would truly be different from the ones that came before. He didn’t believe so but history seemed to prove him wrong.
+
+Even his level of access, second only to the Tier 47s, showed the Empire had been an erstwhile ally, which surprised him. The Empire he knew was never a good place to live and the Sophron reforms seemed so extensive he assumed they were performative, but he also hadn’t paid that much attention.
+
+Looking deeper, the other Heroes were similarly impressive.
+
+Hero Light, Shadow’s partner, might not be as splashy but Jiang suspected he was the true powerhouse on the team in actual combat. That level of manipulation was impressive but in a quieter way, which was weird to say for a mage.
+
+The second and newest team was interesting.
+
+Just as he was looking into them, Luis sent him a message containing a recording.
+
+Hero Titan, a large man in armor similar to a Paladin’s, killing a Sect Dao Child. Jiang had no love lost for his former home, having been one of the high-Tier figures who pushed for the separation as the cultures diverged in the early days of the reconsolidation wars, but that was how he knew how strong they were. He almost wasn’t surprised to watch a Hero monologue to a corpse but it was the subject of the monologue that caught his eye and Luis had provided a second cut together clip that explained how Dao Child Maven had assisted in a series of coordinated rift breaks on a civilian planet.
+
+Her end couldn’t be more fitting.
+
+What was most interesting of all was this Ascender Titan.
+
+Unlimited Aura potions. Even from just the headlines he skimmed, it seemed… too good to be true.
+
+“Are these artificial Aura rifts and their potions better suited then the natural ones we’ve tried in the past?”
+
+Jiang was hoping to see nods, but all of the oldest members shook their heads.
+
+Mathias was the one to speak, however. “The potions are useful. I used one myself but they aren’t a guarantee. I already resonated with a fire Concept similar to what I ended up with, having been trained by the outer guild, but I still needed to work while forming the Concept to get it to land on the Justice that the circlet demands.”
+
+Jiang sighed. “Pity that.”
+
+Therese, a Tier 28 he knew fairly well, raised finger. “I still think it's an opportunity. His guild already released several new variants of Aura, if they could create one suited for our understanding of Justice…”
+
+Cedric, a Tier 34, shook his head. “It's not worth the effort or expenses when the odds are so small. The circlets require a very specific understanding of Justice, far more specialised than any of the Aura variants released so far. It's not a matter of sharpness or hammer or some other weapon variant. It’s deeper than that. I don’t think it's possible to replicate it. Trillions of people in our outer guild have spent centuries trying and failing over the years. How many of them created versions of Justice, Assistance, Good, Decency, or other positive helpful Domains but couldn’t bind to a circlet? I can’t see a rift managing the specific aura we would need. I’m sorry, it just seems like another pipe dream where we end up with nothing but ash.”
+
+Jiang didn’t interrupt and listened to the seemingly familiar arguments until people started making the same points for a second or third time. It was only then that he asked, “Walk me through these new potions. Your experiences with them. How they are made. The like.”
+
+He could just as easily look it up, but he wanted to hear his Siblings’ takes on them rather than dry reports.
+
+Luis started. “We’ve always known of aura and aura potions but they have always been small-scale.” Jiang nodded, being even older than Luis, but he was correct in that they were rare and niche products. One in five hundred thousand planets might have a single aura rift. “Hero Titan, after the war, opened his guild and then released the method to create rifts that reliably produce aura potions. For free, mind you. He even did so in unregulated mana stones for ease of distribution. Together, they allow for aura rifts to be made reliably. They have exploded in popularity and are quickly going to replace Bottled Concepts. They already have, for a lot of low-Tier cultivators, as they are cheaper and you get an actual Concept out of it, even if it’s a tad generic as a baseline. But in another few thousand years? I doubt there will be even a single Bottled Concept left.”
+
+Gesturing to Mathias, Gram, the only other person over Tier 40, added, “Mathias here is the exception to the rule. Instead of just getting a fire Concept, he got a fire Concept related to his perception to Justice but he didn’t do anything unique or at least identifiable that is replicable. If we could have identified something that useful, we would have ten thousand Crowned, not ten.”
+
+They were technically closer to a hundred than ten but it was a near thing and Jiang took the point as it was meant.
+
+Victoire rolled her eyes. “And I’m saying if we just ask, Hero Titan might be not only willing but able to help us. It doesn’t hurt to ask even if we are rejected.”
+
+Several of the older members moved to speak but Luis beat them to it. “Heroes are fickle beasts. They are often against our own virtues more than with and if we could slay them, we would. Hero Titan may indeed be a good person but he is young and we have seen little of him.” Holding up a hand he placated the younger members who both looked like they wanted to comment. “I do concede that what we have seen is a good start. But I’m wary as is everyone else. We have trusted and been proved wrong before.”
+
+This time it was Mathias that spoke with a hard look in his eye. “And Hero Titan is different. How many others, let alone Heroes, would have shared the aura potions rift design. How many more would have done so while ensuring anyone could get the single required ingredient for free? How many others would then go on to revolutionize low-Tier delving.”
+
+A small ember of flame appeared in his hand, causing Jiang’s eyes to go wide.
+
+That was not a [Fireball].
+
+“What is that, Brother?”
+
+Seeing his surprise, Mathias beamed. “[Solar Flare]. Hero Titan’s latest product. Skills simple enough that even a Tier 1 can create them given a little time and a lot of effort. All shared for free across the entire Realm. It's this, this is why I agree we should ask. If he can’t help us it's no loss but if he can make a rift that better corresponds to our needs. Can we afford not to?”
+
+Jiang nodded slowly as he thought it over. Young Mathias was wrong in his assertion that asking and failing would cost nothing, as the highest Tiers the political favors he would need to call in to get a meeting with a Hero weren’t small, but the boy had the right idea of it.
+
+“Is there any indication that they can do that? All the aura rifts I’ve heard of were elemental or related to vagaries like sharpness or the like.”
+
+At that, even the older members nodded and sent him various reports, smaller in scope but larger in implication, about follow-up rift creation methods for all types of aura. Numerous aura’s were there, which was damn impressive, including auras he had never considered possible, like movement or precision. Most importantly, the latest reports even spoke of multiple Level 2 mana types being created, allowing for more complex auras and in turn Concept potions.
+
+Jiang was always hesitant to call any Hero good, even if occasionally he had been convinced, but this one had at least veered away from the typical with his generosity.
+
+No, philanthropy might be a better word.
+
+In his millions of years, he had seen few who were so willing to give away what could have made them wealthy but more importantly, powerful. Anyone who controlled either method could have made themselves a powerhouse in their Great Power, a cornerstone that would last long after they Ascended.
+
+This Hero Titan might have alternative motives but the facts spoke for themselves. People were helped and while that wasn’t exactly the driving motive behind Those Crowned in Glory, they were more there to ensure evil was rooted out, it was a good preventative measure to ensure people didn’t turn to lesser evils that grew into larger ones.
+
+“I am willing to entertain the idea but it will take time to get the agreements needed to enter the Empire. Interacting with one of their Heroes will undoubtedly make that even harder.”
+
+To his surprise, Luis shook his head. “Entering the Empire has never been easier. Helen has completed her restoration of her Concept, and since she is willing to vouch for us, we old fogies have been given carte blanche to travel to and from the Capital so long as we don’t do anything untoward. We leave in three weeks.”
+
+Qin Jiang stood before he realized he had moved at Tier 46 speeds.
+
+Coughing slightly, he said, “Then gather up everyone who can make it back in the next two weeks. It's time to congratulate an old friend on an achievement long overdue.”

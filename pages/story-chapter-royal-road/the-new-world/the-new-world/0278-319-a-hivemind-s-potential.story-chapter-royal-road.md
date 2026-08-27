@@ -1,0 +1,167 @@
+---
+id: ce041bbe-00a6-5ac4-947d-6e4259e820f6
+page-type-slug: story-chapter-royal-road
+title: "319 A Hivemind's Potential"
+slug: 0278-319-a-hivemind-s-potential
+partOf: the-new-world
+position: 278
+ownLength: 2546
+unit: words
+ownProgress: 2546
+publishedAt: 2021-09-28
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/758264/319-a-hiveminds-potential"
+royalRoadId: "758264"
+markedReadAt: "2026-06-29T21:30:44.693Z"
+---
+
+I gripped my hands into fists, "Not if I carry the keys to connect those worlds. I'll have to figure out how Schema's holding me down and stopping my abilities. At the same time, I'll need to know how to use primordial magic and well. You'll be helping me, Plazia. You'll be my tutor, and we'll cross these limits Schema imposed on me."
+
+I raised a hand, primordial mana oozing out of my palm. The dense streaks crystallized on the floor like dark blue gems,
+
+"And we'll be doing it whether that AI likes it or not."
+
+Chapter Begin
+
+Plazia tapped his throne, "You'll be testing and developing your magic via the dimensional connection we have planned, correct?"
+
+I swirled the primordial mana, reveling in my control of it, "Yeah. That's the idea. I'll need time magic first. That takes priority over everything else."
+
+Plazia stood and snapped his fingers. The floating warps and dimensional construct withered while the temporal field dissipated. Plazia turned towards me, "Chrona Carsiary knows more of time manipulation than I do. As for warping, the same may be said of Helios. There are few authorities on dimensional creations, but we may find those dispersed across the galaxy."
+
+I pointed where his dimension was, "You just made one. You could give me the basics, right?"
+
+He waved his hands, "I am versed in it but still no expert. You saw how exhausted I became after creating even a small domain. A larger one may overburden me and destroy my entire body."
+
+I peered at his Sentinel armor, "That's what you're using as your carapace, right? I'm guessing you killed a Sentinel for it?"
+
+Plazia tilted his head, "I killed no one, but I created the circumstances leading to the guardian's death."
+
+I deadpanned, "That's the same thing."
+
+Plazia raised a palm, "What you've said is true, but it isn't as if the Sentinel treated me with any fairness or equity. It attempted to eradicate me, so I enacted the same will unto it. In the end, we were enemies, and I, the victor. His death leaves history while I still live to create my own."
+
+I leaned back, "Speaking of plans, when are you taking out the Elysium camp? It's been a week, but I figured getting out of Svia was the main priority for you."
+
+Plazia met my eye, "It will be finished later this day on Earth, moments from now, actually. I needed several days to establish the insinuating circumstances to derail Elysium's investigatory attempts. They'd uncover your intentions otherwise, and so, I've established a suitable excuse for their outbreak."
+
+I raised my eyebrows, "Like what, exactly?"
+
+Plazia raised a hand, generating a viewpoint maintained by magic. Plazia gestured to it, "I researched your planet's previous infrastructure for nuclear power sources, finding many nearby along the great lakes. Within the cook and palisades plants, I commandeered the nuclear power sources. I planted them onto a dungeon near the Elysium camp."
+
+Varying viewpoints appeared in the portal. An overhead map of the Elysium hub popped up along with the surrounding area. Plazia gestured at several coordinates near the headquarters,
+
+"Once made, I created a breeding ground for exceptionally powerful eldritch. After feeding and implanting them with my insects, I'm having the beasts raid the encampment using a variant of metal eaters. They'll naturally be drawn to the Hybrids, and with my assistance, it shall be a slaughter. Casualties will be minimal as I've devised a specific countermeasure to ensure no deaths result."
+
+Plazia shrugged, "I targeted my assault around the circumstances, ensuring even a poor escape will be highly successful. In fact, the incompetence of our enemy will never come into question. It is a moot point."
+
+I furrowed my brow, "That's...Impressive."
+
+Plazia waved his hand, "I've done something akin to this many times. Manipulating a system-based society is actually quite simple, should you pursue the viewpoint of those dwelling within it. The same may be said of the eldritch, but their needs are far more virulent. Controlling them is the true difficulty."
+
+I leaned towards the camp, "Are you actually going there?"
+
+Plazia scoffed, "There's no need." He rumbled, "I've planted several eldritchian generals to lead the charge, each of them controlled by psionic constructs. You've seen those constructs interspersed throughout Svia, but they carry on more purposes than merely bringing magma to life."
+
+Plazia spread his arms, an image of the camp coming up, "If you wish to watch, you may. This is my design brought to life. It will be a demonstration of sorts."
+
+I peered at Plazia, an inkling of fear forming in my chest. Even if I outdid him in direct strength, which wasn't a certainty by any means, Plazia's wit outdid mine. In fact, Plazia seemed even better at tactics and strategy than Torix even. Torix's logistics probably matched Plazia's own, but the hivemind carried more options at his disposal. More importantly, Plazia read people like a book.
+
+And I worried I was one of those books on his shelf.
+
+Reading my mind, Plazia tilted his head down at me, "Intimidated?"
+
+I frowned, "Of course. This is a lot to organize in a few days. It beats what I could do."
+
+Plazia shook his head, "You constructed well over a hundred golems. They've dispersed across the Northwest region surrounding Springfield. You established the largest settlement for hundreds of miles. That was done in the same time frame, and That exceeds what I've done, to my estimations."
+
+I peered at the visual of the Elysium camp, "We'll see about that."
+
+We gazed at the viewpoint created by Plazia. The Elysium headquarters expanded since I last viewed it, though not by leaps and bounds like Mt. Verner. We signed ceasefire a few weeks ago, not months, so Elysium hadn't bolstered the encampment's defenses yet.
+
+That being said, the Hybrid production area reached up and out. Matrices connected large pillars of steel. The disgusting monsters leaped within the contained field at an alarming density. They no longer moved as individuals, the various races devolving into swarms. Peering at the people within the camp, most of them had Hybrids.
+
+Children rode on the back of the abominations, the kids kicking their feet on the Hybrid's shoulders. The abominations carried produce and goods in mass. They offered power, pulled cars, and constructed an entire way of life. People put enchanted flowers over their faces, many wearing wreaths over their necks.
+
+They gentled into domestic oddities compared to the monstrosities lingering in my own memory. Plazia silenced at the sight of them, one of his hands squeezing into a fist. The insects within Plazia's armor writhed in torment as the hivemind seethed,
+
+"And they call us cruel...To them, death is mercy, and life is pain. I will work towards their eradication after this ploy of ours plays out."
+
+I winced as memories of what Elysium did to eldritch and silver alike flashed in my mind. I grimaced, "Maybe I could've kept fighting them. It's...It's hard to look at."
+
+Plazia let out a hollow laugh before turning his head to me, "I never said anything about you, did I, Daniel? You carry guilt like a cloak, establishing responsibility for issues outside your control. It's a quick, fierce method of self-hatred and agony. It also speaks to true arrogance."
+
+I furrowed my brow, "Huh. Maybe. I think I haven't used my time and abilities perfectly. And no matter how you phrase it, I could've done better, and that much can't be argued against. If that's the case, I hold responsibility for that difference."
+
+I met Plazia's eye, or at least the approximation of his eyes, "So when I feel bad about something I haven't done, it's not because I think I'm unbeatable. I know my potential, and I won't cut it short so that I don't feel bad."
+
+Plazia turned towards his viewpoint, "It's an interesting perspective, even if I disagree with it. Regardless, let's see what my psionic constructs devised."
+
+I pointed at some Hybrids, "How are you going to break their link to people? Severing them? Maybe overriding it with the psionic bugs?"
+
+Plazia shrugged, "I'm using a simple method. Death."
+
+I nudged the hivemind, "Hah. We're not so different after all."
+
+Plazia tilted his head at me, "At times." He peered at his portal, "Now let the show begin."
+
+On the horizon of the camp, a plume formed above the forests. It evolved into a tornado of dust and dirt, a magical siphon. It sucked in trees and boulders, flinging them about. As it barreled towards the camp, guardsmen rang out alarms. People shouted commands and orders. Magicians, remnants, and Hybrids mobilized into a lethal fighting force. They lined up outside of the encampment's outer border, making for an intimidating wall of soldiers.
+
+The controllers of the Hybrids stayed far back, well outside any range of conflict. Remnants guarded them, but the primary defense force was composed of the monsters of metal. The sorcerors channeled mana in mass, splitting up the parts of the magic. They used rituals to help control the sheer volumes of mana, and mana 'producers' generated the majority of the energy for the ceremony itself.
+
+This streamlined the enormous constraints involved, letting them create an opposite tornado to the incoming spiral. As their tornado built, Hybrids ran and held the line against the incoming maelstrom. They extended out fans of wires, using the orange pustules inside their bodies to fill in the gaps. These glowing, pulsing wings caught the wind, and the Hybrids entrenched themselves in the ground using wires.
+
+As if catching the tornado, the units held it back before the new tornado clashed with Plazia's one. The forces collided with a thunderous boom. The sky over the battlefield darkened, turning into a gloomy shade. Lightning struck. Thunder radiated and boomed across the dim skyline. The forces of nature extended outwards in hectic, chaotic streaks.
+
+Remnant guards caught incoming trees and debris, using discount dimensional slicers to cleave apart stone and wood. The sorcerers focused their efforts, sweat pouring from the magician's faces. They scrambled to organize and hold the line as the enormous plume of wind sliced into the defensive units.
+
+A Blighted One flew from the encampment, out of a secret, underground area to my disgust. After flying over, it channeled the wind with its wings, a creature of the air despite its ruined form. The twisted gialgathen turned the tides. The warring forces overwhelmed the tornado, turning the unclean air into a distant memory. They celebrated, sweat sheening on their faces after doing an excellent job defending their city.
+
+A ruined city.
+
+Behind them and the blare of the wind, the metal eaters already swarmed the town. They ran through streets and devoured Hybrids in mass. Enormous, house-sized iron swallowers gulped them down whole, acid spilling from their mouths. Even from a distance, several ahcorous looking entities swarmed between the metal eaters.
+
+These eldritch caught and plopped humans into a large pile. My eyes narrowed at the collection before Plazia raised a hand, "Just watch."
+
+The defensive forces found their encampment being decimated, and they sprinted towards the base. As they ran across the wooden housing, giant eldritch insects poured out of the earth.
+
+Plated beetles, flaming mantises, icy cicadas, lunar moths of enormous proportion and filled with magic, an entire ensemble of insectoid creatures rose from the ground. They culled the Hybrids and remnants, decimating the forces to dust. No humans died, however. Instead, the insects piled the entirety of them into a single accumulation.
+
+Over it, a necromancer arose. Like a cheap, Torix knock-off, the robed skeleton floated over the armada of insects and metal eaters. It cackled out with a generic, evil laugh. That laugh, recognizable or not, radiated across the entire landscape. At that moment, the absolute terror of its grip pronounced itself to the heavens. This was no joke, and these people would die.
+
+The necromancer spread its arms out, generating a ritual of flames around the piled humans. My face gnarled up as I simmered, "You know, I'm still watching."
+
+Plazia turned a palm to the magical vantage point, "Then think about the forces at play."
+
+The necromancer continued his ritual, channeling runes and attempting to create a blood sacrifice. Many minutes passed, and in that time, the necromancer decimated every inkling of the Hybridization, the silvers' established environment, and the buildings. Nothing remained of Elysium's camp outside of the humans.
+
+An enormous eye popped up over them, and it gazed down in an umbral shade. It cast vast magic over the land, covering it in darkness. That shade siphoned into a singular point, and the magical eye closed itself. As it did, a light coursed from its eyelids onto the humans. I wanted to act and get over there right then and there, but I rested across the cosmos, far away.
+
+Before the ritual was completed, a red aura passed over the horizon. Volatile energy warped reality, and a crimson portal appeared over the magical eye and the necromancer. From it, an enormous figure paced out. It mirrored the size of an Overseer, both in form and function. Its gauntlets radiated out with ascendant mana, its entire body oozing mana from every pore.
+
+Its body bulged from the Hybridization within it. A puppet of meat, the once blue lines between its plates sheened crimson. A plume of living steel floated behind it, a thriving mass. Plazia gestured to the gray,
+
+"They are nanomachines."
+
+They coated the twisted Overseer, cracks of red lightning booming from it. The necromancer lifted its hands and shouted, "I am beyond death-"
+
+It disappeared.
+
+The Overseer lifted its hand, and an antimatter wave obliterated the necromancer's entire body. No trace of existence remained, the destructive entity evaporating into an awful memory. The insects below lost any semblance of orderliness, each of them peering around in confusion. The metal eaters followed suit.
+
+Energy cackled. Furnaces hummed. The twisted Overseer moved its hand, generating wave after wave of silent disintegration. Patches of monsters disappeared with each motion of its hand. Portions of the Overseer's gauntlet heated and glowed brightly before flesh dripped from its hand. Its arm musculature pulsed and exploded with violent eruptions. Blood oozed out from between its joints.
+
+It continued attacking.
+
+Its Hybrid half reconstituted flesh as it deconstructed. An incarnation of destruction, it decimated the entire camp's invasion, and Plazia hissed,
+
+"That...That is a new weapon I've seen reported by others. It's fearsome...And useful."
+
+After having the entire landscape leveled, the twisted Overseer peered at the decimation. A spare ruin or two remained from the camp, each piece of marred stone or uplifted rock a rarity among bare dirt and glowing craters. The Overseer turned, floating back into the portal it arrived from. It faded from existence, the crimson aura over the battlefield disappearing.
+
+A silence crossed over the entire landscape. The humans remained piled up, dazed yet unharmed. All traces of Hybridization dissolved. The lich eradicated the remnants, and the silvers expired down to the last fragment. I gawked at the display, and Plazia spread out his hands,
+
+"No casualties. No Hybrids. No infrastructure to build back upon. That is my design."
+
+Plazia turned to me.
+
+"Ahh. Perfection."

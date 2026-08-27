@@ -1,0 +1,339 @@
+---
+id: 56d9ffb6-cbf1-5225-ba25-33b0f30c299a
+page-type-slug: story-chapter-royal-road
+title: "265 The Next Step"
+slug: 0224-265-the-next-step
+partOf: the-new-world
+position: 224
+ownLength: 4025
+unit: words
+ownProgress: 4025
+publishedAt: 2020-06-27
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/516535/265-the-next-step"
+royalRoadId: "516535"
+markedReadAt: "2026-06-29T21:28:41.970Z"
+---
+
+I waved off his concerns, "Come on now, I need some advice here."
+
+Helios let his hands flop against his sides,
+
+"As strange as it may first appear, I have never created golems out of my own skin. Therefore, it's difficult for me to offer counsel in that regard."
+
+I tsked, "Well...damn, here I was hoping for some solid advice."
+
+Helios glared from under his mask, "I am so sorry that I am not of more use. Do excuse me."
+
+"You know I'm joking, right? Lighten up."
+
+Helios frowned, "I understand the sentiment. I'd prefer we keep our relationship purely professional, however."
+
+I rolled my eyes, "Of course you do." I raised a hand, "Seriously though, I do need some colonization advice."
+
+Helios lifted his chin,
+
+"Ah, colonization. We refer to the task as 'conquering' in the Empire, though you may use a gentler word if you prefer. What do you need to know about it?"
+
+"I'm planning on expanding my guild. I want to know what's the best way of doing it."
+
+"It is a simple thing. Enter someone's domain, restrict access to their dungeons, through force if necessary. Once control is established, clear the rifts for a time, and then establish a city on Schema's authority. Once established, you may control the populace's access to their rifts, creating an absolute dominance."
+
+Helios stared off in the distance,
+
+"If you're efficient, cities can be established in days rather than weeks. Obolis expanded the Empire from the capital, Olstatia, in a matter of hours. He's a unique case, however. You can expect to create four to five cities a week. Given how effective you are at clearing dungeons, you might match his pace should you show the same ambition."
+
+I frowned, "I don't imagine people would enjoy that method of taking over."
+
+Helios nodded, "And what weaklings want is irrelevant. They are the subjugated. As such, they shall carry the burden of their weakness, in one way or the other."
+
+"So, you're recommending I become a tyrant?"
+
+"Understand this, Harbinger. Your strength is just as much a curse as a commoner's weakness is. Perhaps you believe that I look down on commoners for their lack of potency. Your misunderstanding is understandable but misplaced. I do not look down upon them; In many respects, I envy them."
+
+Helios raised a hand, "They never need to think of all that we worry of. They must simply execute their plain labors on a day to day basis without a thought in the world. We are given control of them, which is a privilege, but we are also tasked with their prosperity."
+
+Helios squeezed his hand into a fist, "This is the mantle of those gifted with power in Schema's universe. Your success is measured by the success of those under you. As such, the weak reflect the competence of those over them. Their prosperity is your achievement in that respect."
+
+I narrowed my eyes, "Why not just let people do what they want?"
+
+Helios met my eye, his face hidden under his mask,
+
+"Then they shall organize rebellions that result in the mass murder of millions. You shall understand when we arrive at Blegara. It shall demonstrate the failings of my brother, along with the consequences of freedom."
+
+I didn't agree with him, but I wasn't here to argue philosophy with the guy.
+
+"Speaking of Blegara, when are we going there?"
+
+Helios let his hand down under his cape, "As soon as we are able. It is dependent upon you and your guild."
+
+I grinned, "Alright then, let's get going."
+
+We walked through the guild, heading towards Torix's quarters. He made his new lair on the third floor, his haven found in the walls of his university. Helios and I met Torix leaning over in a room covered in monitors. Between them, tutorials on programming your own obelisk played in the background. Torix watched several of them while working on his own convoluted set of code.
+
+He peered up at us as we walked in through a sliding doorway powered by personal mana. It was tech from Giess, though altered a bit. Torix raised his hand, and the programs stopped playing. He spread out his arms,
+
+"It's good to see you, Daniel. Is your minion treating you well?"
+
+I cupped my chin, "Hm, you know, he's doing okay." I turned to Helios, "He could be doing better though. He was lecturing about philosophy earlier."
+
+Helios narrowed his eyes, "It was counsel, nothing more."
+
+Torix waved a hand, "Ah, wasn't he demoted from his previous position? Perhaps his advice is limited in its usefulness."
+
+Torix and I shared a cackle at Helios's expense. Torix let it drop,
+
+"Teasing aside, are we here to organize our assault, perhaps?"
+
+I nodded, "Yup. Can you get a few gialgathens and our other main members together? I want to let them know what our plan is going forward."
+
+Torix leaned close, "Perhaps you could share the inner machinations of our guild's future with me before the meeting, hmm?"
+
+I raised a palm to the lich, "I would, but I don't want to have to repeat myself over and over."
+
+Torix snapped his fingers, "Bagh, I'd have hoped for an early insight. Such is life, I suppose...or death in my case. Hah, lich joke." He opened his status, letting his obelisk send messages at a blistering pace,
+
+"This obelisk is quite helpful, I must say. It's doubled my workload over the last few days, but it shall halve my workload forever thereafter."
+
+Helios chimed, "Abuse them as much as you can. Obelisks are like assistants with no soul. They own no limit to the abuse they can handle."
+
+Torix raised a finger, his glance cross,  "Unlike the living."
+
+I pointed at the obelisk, "When and where is the meeting?"
+
+Helios read from his messages, "In an hour, we'll gather with your guild's followers, along with five other gialgathens and mind mages."
+
+I frowned, "What about the portalists?"
+
+Torix scoffed, "Those incompetents? They've been decommissioned from the guild."
+
+I raised my eyebrows, "Why?"
+
+"There were numerous reasons, but the most astute of them was their spying. They were sending data towards the Overseer and Schema about our guild's operations. Amara nearly devoured one of them when she found them taking notes on her eldritch experiments...for the second time, I might add."
+
+I sighed, "Well, that's what we get for trusting Schema, I suppose."
+
+"Indeed."
+
+Helios turned between us, "Why is that an issue? If you have nothing to hide, then there's no reason to be bothered with Schema's surveillance. If anything, it adds another layer of security."
+
+I leaned towards the albony, "You've never been wanted, huh?"
+
+Helios leaned back, "No. I haven't."
+
+I shrugged, "That makes sense. I came into this system as an unknown, and so have the majority of my guild's high ranking members. Hell, we have a literal eldritch on our team. Because of that status, Schema leveraged us for his own gain several times."
+
+Helios scoffed, "And that is what you do with your resources, do you not?"
+
+I frowned, "It sets a standard where you end up just using one another. If our relationship with the Empire ends up that way, we'll break things off in an instant."
+
+Helios crossed his arms, "Though we rise to a higher standard, you shouldn't expect anything more than the baseline politeness from other guilds."
+
+I shrugged, "That's the thing. I do have higher expectations. Even if we don't have anything to hide, I don't want to give Schema information for blackmailing us in the future. That's because he took advantage before, trapping us on Earth to kill Yawm. He did it again, having us clean up Giess's mess."
+
+I glared up at the sky,
+
+"Schema is a powerful ally, but he also prefers keeping his allies on a ball and chain. I understand it, but I don't like it."
+
+Helios raised his eyebrows, "Hmmm, to me, it seems like an unnecessary precaution. That being said, you own your own reasons behind your actions. Do what you will."
+
+Torix walked past us, "We shall. Come, let us meet with the others."
+
+We walked through the underbelly of Mt. Verner before reaching a sectioned off portion along the outskirts of the mountain. Here we warped in from Elderfire, a sort of settlement forming. Several gialgathens rested in the ravine's shadow, many of them exhausted.
+
+Among these gialgathens, Chrona and Krog slept. They singed themselves spots in the grass, Krog preferring a clearing in the trees while Chrona rested in the shade of branches. They lifted their heads as I walked up, Helios and Torix trailing behind me. They rubbed the sleep from their eyes with the tips of their tails as Chrona mumbled,
+
+"Excuse our late awakening. We've been tasked with much as of late, and we needed rest."
+
+I raised a palm to her, "It's no problem. We're planning on fighting on Blegara today, and I was wondering if either of you are up to it?"
+
+Krog and Chrona stared at each other before looking back at me. Krog grumbled,
+
+"Why do we fight so soon and for a guild that has given us nothing?"
+
+Helios stepped forward,
+
+"We've given high-end obelisks, risked our position in the galaxy to establish trade routes, and contracted two high ranking commanders without payment as a show of support. This is merely the beginning of the Empire's generosity, yet it is already extraordinary."
+
+Helios turned a hand to Chrona and Krog,
+
+"Look to yourselves before admonishing us. Your kind has given nothing but taken whatever the Harbinger has given. You both ask for rest on the first day that you actually work for your savior. Up till now, he has been working for you, and without rest, I might mention."
+
+Helios stared down at them, "If this is the extent of the gialgathen's gratitude, then I shall make sure to make a note of it."
+
+I turned towards Helios, "I'll let them know whether or not they're giving me gratitude. Also, give advice when I ask for it, not when you want to."
+
+Helios turned to me, "Your command is noted."
+
+Krog and Chrona stared down, both of them filled with more than just a little shame. I sighed while thinking about what Helios said. In a way, Helios was right - this was technically their first day on their new job. Still, just like anyone, these giant salamanders had their limits regardless of what we needed from them.
+
+They just arrived on a new planet while surviving a war and genocide. There's only so much someone can do. I raised a hand,
+
+"Chrona, Krog, don't worry about joining us today. I didn't know the both of you were so tired, and that's something I should have noticed. Take a week off, both of you. During that time, you need to get settled in and meet a few of our guildsmen. I don't want the gialgathens to be a separate part of my guild. I want them to be interwoven like a...gialgathen, human scarf."
+
+I shook my head in disgust, "Man, just forget about that example. Damn, that was awful."
+
+Chrona's eyes widened while she carried a light smile, "Th-thank you, commander. Your generosity will not go unnoticed."
+
+I turned to Helios,
+
+"Also, you'd better remember what you said here later on when you're tired. Don't expect any breaks."
+
+Helios nodded, "Then I shall face my exhaustion as I have many times before."
+
+From the surrounding trees, Hod bled out of a nearby shadow. He cracked his neck while rolling his shoulders, "Hod feel good. How everyone else feel?"
+
+I smiled, "Feeling good."
+
+Hod pushed on his lower back, stretching as he groaned, "Hod think that good. Hod-"
+
+His back cracked, and Hod pulled his hands off his lower back, but his upper body didn't swing back into place. His head hung behind him, his upper body draped over his waist. The poor birdman ran around us while shrieking,
+
+"Hod broke Hod back."
+
+Helios turned towards him, "Where exactly is the injury?"
+
+Hod's head hung upside down behind him. Facing his back towards Helios, the birdman jeered,
+
+"Hod just say problem. Hod back broken."
+
+With a gravity well, I pulled Hod apart from his upper half and lower half. The bird guy stretched like taffy before his back popped into place. He gasped with relief,
+
+"Hod back not broke anymore. Hod thank Harbinger."
+
+Helios turned towards me, "Is he an idiot?"
+
+Torix covered his mouth, suppressing a laugh,
+
+"He did say his back was what was hurt. Perhaps it is your question that was idiotic?"
+
+Helios raised his eyebrows, "Or specific for a diagnosis. I worried without cause. That much is certain, and I shall not make the same mistake again."
+
+I observed from a distance, letting them talk as they usually would have without me interfering. Whether I agreed with either of them or not, they would need to get to know each other. Having a rocky first few days was expected.
+
+From beside me, a slight, familiar gravitational blip extended into existence. I looked down with a grin, finding Althea phasing onto this plane beside me. I grabbed her by the hip,
+
+"It's good to see you."
+
+She leaned her head into the nape of my armpit, "You too. How is Helios adjusting?"
+
+"Eh, he's doing fine. He understands his new position and what he needs to do from here on out."
+
+Althea narrowed her eyes at the albony, "Please, keep an eye on him. Don't forget what he did to us when he had an advantage. I think...I think that shows more about his character than anything."
+
+"Don't worry, I won't forget."
+
+Helios heard us, but I intended for him to. As he listened, his hair stood on end, and his heartbeat raced in his chest. He was well aware of what might happen to him in his new position, but this was the price he paid for what he did. Since it was up to me, the guy would keep paying and in full.
+
+From the trees, a brustling of branches popped in the foreground. Stepping out of it, Amara and Florence walked beside one another, both of them chatting.
+
+"That's a fascinating outlook on the eldritch. I never considered the possibility of an alliance of any sort," Florence said. "It seemed unearthly to me."
+
+Amara hissed back, "It is, but such is the result of clashing dimensions. There is little that can be done outside of a wary compromise. I believe we may keep one another at bay, both sheep and wolves watching and waiting alike." She turned a palm to Florence, her eye centered in her hand. It pierced the albony with a sharp, suspicious glare,
+
+"You seem quite curious about us. It's alarming."
+
+Florence put his hands on his hips, "I seem curious because I am. You're a fascinating young lady. Besides, I know what it means to be an outcast like you. I am one as well, though under different circumstances. Since coming here, however, many have seen the good in me despite that less than enviable position."
+
+A grin glowed from under his mask as he met her eye,
+
+"I merely wished to return the favor and see the good in you, Amara."
+
+Amara looked away while...wait a minute, blushing? I stayed there stunned at the prospect, Florence somehow wooing an eldritch of all things. Hod stepped up to Florence, pushing a winged hand into the albony's chest,
+
+"Hod not like new fur man. New fur man bad."
+
+Florence tilted his head while grabbing Hod's hand, "Did you spend time grooming your feathers this morning?"
+
+Hod pulled his wing from Florence's grasp, "Perhaps Hod did."
+
+Florence brimmed with confidence, "It shows."
+
+Hod's blank, white eyes narrowed, "Hod not sure Hod not like fur man two anymore. Hod...Hod confused."
+
+Florence gave Hod a friendly pat on the shoulder, "Take your time deciding on it." Florence walked up to me,
+
+"I'd barely gotten my new job started before you called us into a new meeting. Industrious, aren't you?"
+
+I turned towards everyone, "Eh, I try. You can use this as an opportunity to get to know everyone."
+
+Florence turned towards Althea, "I would like that."
+
+Althea looked away, and I noted her reaction. From the corner of my eye, I glowered at Florence, "Hey, man."
+
+Florence shrunk, "Uhm...yes?"
+
+"I understand you're friendly. That's fine, but I'd like it if you'd respect the relationship between Althea and me."
+
+Florence nodded, taken aback, "I...of course. Excuse my impoliteness."
+
+He deflated before my eyes like a balloon popped with a needle. He took a step or two back. He looked a bit crushed, and I was okay with that. At the same time, I didn't want Florence or everyone else thinking I hated the guy. I pinched my brow with frustration,
+
+"Look, don't take this that seriously. We've just gotten to know each other, and it isn't like I expect every situation to play out perfectly."
+
+I gave his shoulder a light tap with my fist, "Just, you know, listen to what I said, and we're fine, alright?"
+
+Florence perked up while nodding, "Yes. Of course."
+
+As everyone else arrived, I dwelled on that awkward situation. Talking with people right now was strange, and after thinking about it, I uncovered the reason why; it was my position. Because of my status as a guildleader, my thoughts and words carried weight. I could talk however I wanted before now because I wasn't anyone special. The scales tipped, and now I owned a meaningful position.
+
+It was a strange transition for me. On the one hand, I liked being able to say what I wanted to say how I wanted to say it. Just as well, it was pleasant having my words and opinion respected. On the other hand, that was the crux of the issue - people respected me too much.
+
+If I misplaced a word or two, people got hurt. I wasn't exactly the best at conveying succinct, concise emotions with my words anyway. Having to dance around people's feelings like this was like asking an ogre to win a tap-dancing competition. It wasn't going to happen. All this gave me a lot to think about as Torix spread out his arms,
+
+"Now that everyone is present, our guildleader, Daniel, wishes to advise us on our guild's course of action from here on out."
+
+Damn, I forgot about that. I took a quick, deep breath with my eyes closed, preparing to talk in front of the group. The thought of public speaking still gave me goosebumps, but it was now or never as usual. With a lift of my hand, I used quintessence to make a pillar of fortified earth rise from under me. The elevation let me get a clear view over everyone's heads, the gialgathens hanging in the back.
+
+Looking closer, several signs of exhaustion exposed themselves on the gialgathens. They normally carried their heads high, but they drooped down in long arches. None of the gialgathens kept their chests upright either. It was as if gravity was fighting a winning war with them, their eyelids heavy.
+
+Revising the contents of my speech on the fly, I turned towards Torix, "I'm going to be talking to the guild as a whole here. Make sure to record and stream this."
+
+Torix leaned back, "Oh...Ahem, I certainly shall...It is done."
+
+I turned towards the group, spreading my hands,
+
+"We've finished our time on Giess, and I know that the gialgathens here are adjusting to Earth. I want each of you to know that you're welcome here as long as you work, and you're not breaking the laws here. That's all we ask for, and if you do that, you'll find that this will be a new home for each of you."
+
+Krog and Chrona let out roars of approval, and I gave them quick nods to let them know they were heard. I turned towards the others,
+
+"We've allied ourselves with the Empire, a conglomeration of planets ruled by Obolis Novas. I've met him in person, and he's willing to reward us handsomely for our services. He's already sent two members of his family to help us, and they'll be assisting us with our transition from a one location guild to a guild on a galactic scale."
+
+I tried making eye contact,
+
+"I know that you're all tired from the endless fighting. We've just returned, and I'm already starting another campaign against the Adairs. While I won't postpone my own duties, I understand that each of you needs rest. Because of that, I want to grant our soldiers a month off of free time. You can dispense with that how you will."
+
+Kessiah leaned back against Krog while mouthing,
+
+"I guess that doesn't apply to me."
+
+I smirked at her, "No, Kessiah, it does not."
+
+The group let out a light laugh, the kind of laughter that releases some of the nervous tension. I raised a fist,
+
+"I'll be fighting on the frontlines until you're all ready to join me. Know that I would never ask more from each of you than I'd ask of myself. I aim to lead by example, and that means setting a good one for each of you to follow. That's also why I'm working with the dungeon clearing corps to engineer a solution for lower-tier dungeons."
+
+I let my hands down to my sides, "I know it's a lot to ask of each of you to fight in two wars, one against the Adiars and another against the eldritch. I'm striving to lessen that burden, one dungeon at a time. It will take effort and ingenuity, but I'm confident that we're on the brink of a long term solution."
+
+Amara spread the fingers of her palms, staring at me, "Are we eldritch a problem?"
+
+I turned to her, kind of surprised by her speaking up. It allowed me to touch base on the subject, however,
+
+"Some of you and your brethren are a problem, yes. I don't intend to kill indiscriminately, however. When we were on Giess, the Adairs did that to the gialgathens by abusing the espen's bias against them. Yes, certain gialgathens were a lot to handle. That didn't mean they deserved what happened to them."
+
+I let those words soak in for a second. Many fought on Giess, and they saw the horrors first hand. The others saw it secondhand on footage, which still left a worthwhile impact. I turned to a palm to Amara,
+
+"Just as I know all gialgathens aren't evil, I know that all eldritch aren't evil either. We'll work with those that are willing to work with us. As for the others, we'll crush them just like we crushed the Adairs. No mercy. No compromise."
+
+The others in the group let out a hoopla of approval, and Amara seemed sated for now. I raised my fists, "We're going to continue fighting the Adairs, and I want each of you to know you'll be rewarded for what you're doing here with me. You'll be able to tell your children you were apart of a great generation, one that fought against the Hybrids and pushed them back into the depths they crawled out from."
+
+I grinned, "So stay strong, and we'll pull through this even better than before."
+
+I sat there with my finished speech, and everyone stared at me. Once the small crowd recognized it was over, a series of claps, roars, and shouts filled the air. It looked like everyone liked it for the most part, and as I stepped off my earthen podium, Torix gave me a nod of approval,
+
+"I must say, that was likely your finest speech yet."
+
+I rolled my shoulders, "Thanks. I've had some practice." I turned towards Torix, "I think it's about time we head out to Blegara."
+
+Spear stepped up to us, along with Helios. Torix steepled his hands,
+
+"I concur. It's time we show the Empire the might of the legion firsthand."

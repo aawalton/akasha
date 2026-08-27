@@ -1,0 +1,315 @@
+---
+id: cd0fbe93-673e-57c0-bb7d-568cf97d1b55
+page-type-slug: story-chapter-royal-road
+title: "The Path of Ascension Chapter 341"
+slug: 0039-the-path-of-ascension-chapter-341
+partOf: the-path-of-ascension
+position: 39
+ownLength: 6291
+unit: words
+ownProgress: 6291
+publishedAt: 2024-08-12
+link: "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/1755521/the-path-of-ascension-chapter-341"
+royalRoadId: "1755521"
+markedReadAt: "2026-06-29T19:18:50.604Z"
+---
+
+Chapter 341
+
+Kai sighed as his view changed from the brief stint of sunlight back to the monotonous stone of the tunnel. As he shifted in the very comfortable train seat he contrasted it with the uncomfortable lobby chair he had been sitting in almost a month ago with a snorting laugh.
+
+Contrary to the consistent low level excitement he felt now, he had been filled with trepidation.
+
+He had thought it was his moment, his big break, his time to shatter the shackles of mediocrity. He had just needed to perform well in his interview and everything could be his.
+
+Looking back it was almost funny how much he had invested into something he hadn’t even signed up for himself.
+
+His mentor, Professor Jhall, had suggested he apply to the Young Architects Great Redesign thanks to his Masters final project and how he incorporated the newest structural materials to come out of the War Department. While it was the first in its field he knew others were already copying his designs and that any pause would see his ideas overtaken. He had felt it was a bad idea and declined.
+
+Looking back he could now see that Jhall hadn’t taken it well, but Kai had figured the subject was closed after the application date passed by with only a few more pleas for him to change his mind.
+
+Or so he thought until he was called down to the dean's office, who profusely congratulated him for his passing the preliminaries and bringing attention to their small university.
+
+Kai had been stunned until he saw the smug face of Professor Jahll, who simply hung back and smiled. It didn’t take a genius to understand what had happened, and Kai had been too shocked to do anything but nod along at the time and afterward he had felt far too awkward at the thought of disappointing everyone by mentioning the misunderstanding.
+
+Everyone else in the program were the children of established architects, who had connections and illustrious careers even before they graduated, helping their parents on much more important projects.
+
+Then, there was Kai, the only child of a single mother who had worked two jobs to send him to secondary school, taking a place among the twelve slots.
+
+It was a great honor, but he had also taken the slot of someone more worthy and he couldn’t help but worry about underhanded schemes such as claiming he had stolen someone else's work or the like. It was unlikely, but even the accusation would ruin his career and prevent him from working in the field.
+
+He had never encountered it himself, but he had heard rumors of such things happening to anyone without a sufficient background who tried to break into the upper echelons of academia.
+
+It was almost funny to think about how far he had gotten into his own head but with the advantage of retrospective Kai knew he had just been covering for his own self doubt and wanting to assign any bad things to a perceived boogeyman. Not that such things didn’t happen, he was sure they did but the Young Architects was hardly the place for such underhanded tactics to go unnoticed. A dozen newspapers reported on each stage of the event and any such drama would be endlessly speculated on and taint the eventual winners’ careers irreparably.
+
+And he had done well. His third round submission, a redesign of the Belfor Bridge that had been destroyed in the war with Tiefland, had actually been accepted and approved for construction which Kai had never expected.
+
+He had been in school for so long and his first real build was going to be a bridge that was the lifeblood of the country.
+
+That win also secured him a spot in the finals. The top three.
+
+The final task was to redesign the Capitol building, which had reached its hundredth year standing and was slated for renovations. When the Democratic Republic of Noricum had been established, the Founders declared that every hundred years the youth of Noricum should be given the opportunity to direct their country and keep the old and stodgy from stagnating the country.
+
+Part of that was that all elected leaders over forty years old had to step down after their latest appointment and that all major governmental buildings should be redesigned as a symbolic rebirth of the country.
+
+It was a noble aspiration and Kai was incredibly proud that he could have even a small part in the second such rebirth.
+
+To that end, he had put everything he had into the project.
+
+He had been a nervous wreck as he presented his design, doubly so when he realized that three of the five architects on the committee were part of the established upper echelon architects.
+
+Bradin Tru was a bit of a legend as his mother had designed the tunnel system through the Palatine mountain range, opening up the gentler coast of the continent to Noricum and her allies just twenty years ago. Untold riches were pulled out of the untamed wilderness, which had made the country one of the wealthiest in the world.
+
+Next to him was Hallie Adam, whose grandfather had designed the interchanging dual lock system of the Tunja canal which had almost entirely eliminated water loss of the pinnacle lake and her family was elevated to the highest rungs of society thanks to the wealth the rebuild brought them.
+
+Finally, there was Yagat Gall, who was the oldest architect there and without a doubt the most notable thanks to her design of the Ballar Wall, which had been the main reason Noricum had been able to resist the invasion from the Tiefland communists in the south twenty years ago.
+
+The other two, while not part of the upper echelon per se, had deep connections to them via their working at their firms in the past and they collectively overawed Kai.
+
+With his notoriety at an all time high, Kai had finished his Masters and started looking for jobs, even though the places he had interned at politely declined his applications.
+
+Believing that the entrenched architect families were trying to strike back at him for competing by preventing him from getting an architect job Kai slipped through the security doors at a firm he had interned at to go to find one of his direct bosses who had seemed to like him while he was an intern, Jeremiah.
+
+Without even bothering to say hello, Kai burst into the office and asked. “Why was my application rejected out of hand?”
+
+Even thinking about the memory caused Kai to blush but the train was dim which prevented anyone from seeing the darkening of his cheeks.
+
+Jeremiah had at least rolled with the sudden interruption and was a straight shooter.
+
+It was just that Kai didn’t get the answer he expected. “Kid, after your success at the Young Architects competition, no one expects you to stay here. This is a third rate city existing only thanks to the old dried up steel mine. We don’t have a ton of growth opportunities here. The city isn’t growing so fast that someone with your skills can stick around in a company and move up. Everyone expects you to take a job at one of the top five. Anyone who even gets into the preliminaries of the Young Architects does. Someone like you who got to the top three? Our firm isn’t going to waste a month onboarding you for you to just leave when they give you an offer we can never match.”
+
+He and Jeremiah talked a bit more, but the shock and anger had at least given way to understanding and his mentor had been proven correct.
+
+He placed second in the competition. His design was flawed, but he had done well enough that news outlets started running biopsies about his life's story as a sort of zero to hero story. Amusingly enough none of them had even bothered to ask for an interview but then that wasn’t the point of the articles.
+
+The day after the results were announced, his life changed in a far more measurable way.
+
+Dozens of first rate architect firms in the three largest cities reached out to him offering jobs with yearly salaries higher than his mother had made in the last decade. There were even promises of guaranteed promotions and raises built into the contracts which meant even with the higher cost of living in the cities he would still be well into the upper brackets of earning potential.
+
+If only one had come in, Kai would have jumped on it and thanked his ancestors for their accumulated luck but with dozens of them, he was so numb to it all that he was able to look through them without getting overwhelmed.
+
+None of those offers were the ones that caught his attention.
+
+The coastal cities were long since established with little room to grow his skills unless he wanted to design highrises or suburban homes for the rest of his life. If he wanted to push himself he needed to look to the center of the continent where Noricum was trying to push back the aggressive wildlife. It was dangerous but the thought of being at the forefront of such exploration and settlement sounded… enticing.
+
+From the reports that make headline news there would be dozens of challenges for a young architect to overcome. From creating buildings for living in a dozen different conditions, to diverting rivers, or repairing the walls of Gates Rest. It would push him in ways he hadn’t known he had wanted until he was presented with the opportunity.
+
+Looking through his offers he found seven that were related to the center of the continent but five of those companies only seemed interested in trying to capitalize on the increased settlement of the coastal side of the Palatine mountain range. It was no doubt safer but it was also more of the same he could do in any other city.
+
+That left just two final offers and Kai spent almost an hour going over everything he could find out about the companies.
+
+The offers were a little less grandiose, with bonuses barely breaking the hundred thousand mark which was less than half of what some of the larger firms had offered but that was more than he had ever expected to be offered. It was also more than he needed.
+
+Thanks to his mother’s efforts he didn’t have much university debt and this was more than enough to not only pay that off but buy a house in a nicer part of town, away from the haunted mansion down the road, as well as give his mother enough savings that she could go from working two jobs to working part time if she wanted.
+
+While he had never been bothered by the supposedly haunted house his mother talked about how odd it made her and everyone else feel when she was younger. The feeling had seemed to go away twenty or so years ago but that didn’t stop her from consistently warning him from getting too close.
+
+Like any kid had done the exact opposite and he had seen a few things he had no explanation for.
+
+Still starting over in a place of supposed endless opportunities seemed… freeing. It was like he could leave everything he was behind and turn into something he wanted to be instead of remaining as the poor kid who had only ever had barely enough thanks to government or neighborly assistance. That identity felt like a wet sweater that he just couldn’t shed if he remained at home.
+
+Decision made he accepted the offer and at the insistence of Professor Jhall, he even took a first class flight to the Palatine mountain range. Having not only substantial room in his chair, but personalized service by a flight attendant attractive enough to grace the cover of a magazine was a new experience, and Kai was sure he had stuttered more than a few times when ordering his in-flight refreshments. All of that had been overshadowed by the sight of the Palatine mountain range as they came in for their landing.
+
+Large, huge, and massive were all descriptors that might be technically correct, but they vastly undersold the majesty of the mountain range. The average peak was just over twenty thousand feet with the tallest mountain reaching a massive thirty two thousand feet, and all of them were, at least in geological time frames, new mountains that were still growing taller as the two continental plates slowly pressed together.
+
+The Palatines were not just the source of large quantities of metals pulled from the depths of the planet bringing riches and resources to Noricum but they also cut the Susran continent in two unequal halves.
+
+While mountaineering experts had crossed the Palatines even as early as the Founding of Noricum, they were few and the ones that returned were fewer still. It wasn’t until technology had progressed enough that helicopters and airplanes were able to reach the heights necessary to cross the mountain range that they could facilitate large scale crossings.
+
+The first three attempts at a coastal settling, done by Noricum’s southern neighbor, had failed spectacularly as the beachheads had been overrun by beasts of uncanny strength.
+
+While the coastline of the continent was moderate in both flora and fauna, the other side of the Palatine range might well have been another planet. The wildlife was incredibly dangerous, with academics suspecting that the isolation created by the Palatine mountain range had allowed for a brutal ecological arms race, creating more and more ferocious predators and stronger and tougher prey animals until they reached the seemingly monster-like fauna of today. Even to take this train he had had to sign over a dozen forms stating he knew the risks that were shown on a hour long video he had to sit through.
+
+It wasn’t until Noricum had completed the tunnel that the continent truly opened up. That was just twenty years ago and it had taken almost a decade to finish creating a single well defended settlement on each side of the Palatine tunnel protecting said tunnel.
+
+Showing his architect schooling once Kai boarded the train he had marveled at the construction necessary to facilitate the crossing. The tunnel through the Palatines was six hundred miles long and almost entirely underground. That caused the five hour train ride to be done in sealed cabins as there was just too much rock overhead to bring enough air down.
+
+That had been one of the largest hurdles the original digging of the tunnel had faced and the few disasters had been well taught in Kai’s early years of his architect degree.
+
+Still that was only so interesting and why he let his attention drift.
+
+In the dim light of the cabin his across the seat neighbor flipped a lighter and a small ball of flame appeared in his hand.
+
+Kai’s mind stuttered as he analyzed the brief instant of image that he had seen before the flame went out but he hadn’t seen a lighter.
+
+His attention was pulled away from the man's hands to the woman next to him who backhanded his chest. That movement caused her chest to ripple in a way that made his mouth go dry. He didn’t know what it was but he had been seeing more pretty women in the last few days than he had seemingly seen in his life. As he noticed that he also noticed that the man was uncommonly attractive, clean skin, symmetrical features, and piercing eyes meant he could have graced the same covers as the woman without batting an eye.
+
+He was sure the woman diagonal from him had her own story but Kai couldn't understand why someone who had chiseled abs even when sitting down combined with such a beautiful face would be going to such a dangerous area instead of taking an easier path through life.
+
+He must not have been as subtle as he tried to be as he caught a smirk on the woman's face the one time he looked away from the window when their in-travel meals came. The woman after finishing her meal started eating her dessert of caramel popcorn one at a time darting her tongue out to grab each kernel at a time. It might have been innocent enough if she didn’t watch him the entire time.
+
+Kai almost got up and ran as the teasing reached a tipping point but thankfully she ran out of popcorn and pulled out a pillow to take a nap.
+
+Not having brought his own pillow, Kai did his best to copy her. He wasn’t sure when he fell asleep but he was awoken with a metaphorical punch to the face as daylight returned to the world.
+
+His breath wasn’t stolen by the light however, but the sight of the forest on the other side of the Palatine that they could see below the city. The train made a few long and slow switchbacks to reach the lower elevation of the city, which gave Kai almost half an hour to gawk, but he couldn’t help it and he wasn’t alone.
+
+It was truly like entering another world. The trees he could see were all on average at least twice the size of normal trees on the other side of the Palatines and here they seemed to stretch out forever.
+
+When the train car unsealed, Kai got a second shock.
+
+He felt like the air was hyperoxygenated as the first breath seemed to course through him like a shot of the first true breath he had ever breathed. The feeling faded quickly, but it was a better pick me up than any coffee he had even choked down during his studies.
+
+He wanted more, but no matter how deep he breathed he found there was nothing extra like there had been in that first breath.
+
+His phone pinged and directed him to where he met his guide, who took him to the Falkner Architect firm. The building itself was simple and coarse like most other buildings in Gate’s Rest, but Kai didn’t miss how well built they were. The outer walls are a full three feet thick and the outer doors made of heavy steel and no glass but a peephole. He also noticed the windows had interior shutters made from the same material and with similar sturdy construction. He had read there were attacks on the city but he still swallowed at the thought of what such sturdy defenses were meant to keep out.
+
+The woman who greeted him was a bit of a surprise with lighter skin tone than the typical dark chestnut of most citizens of Noricum, more reminiscent of the old continent countries around Arilanding and their burnished oak skintones.
+
+“Bree Falkner, nice to meet you.”
+
+Proffering his hand to his new boss, Kai tried not to let his surprise show, but Bree clearly noticed. “Yes, my family came from the old continent. I emigrated shortly after the Palatine mountain range was opened up for the opportunities this offered. I even have Noricum citizenship. Any more questions about me or can we start the onboarding?”
+
+Kai felt himself blush for what felt like the dozenth time today but pushed through it. “Sorry. I just never meant anyone from the old continent. They are so insular after the last world war and all. But it’s nice to meet you and I’m ready to start working. I have all of my credentials if you’d like to review them.”
+
+Bree waved him off before gesturing for him to follow. “You’ll need to send copies of them to the city council but we already did most of the paperwork for you. I’d love to spend a few months getting you settled in and I would for someone less capable but we are both short staffed and incredibly busy so I hope you swim because you're getting thrown into the deep end.”
+
+Kai rubbed his hands together. “I’m ready. Toss me in.” Pausing, he added. “Um you don’t mean literally right? My swimming is more like doggy paddling. I won’t drown but um, yeah.”
+
+Bree chuckled. “It was metaphorical more than literal, but you should take a few lessons. The rivers around here move fast, and being a strong swimmer is never a bad thing.”
+
+Kai nodded at the information and filed it away on his list of things to do.
+
+After an hour of paperwork Bree helped guide him through, Kai signed documents he had seen a dozen times about his responsibilities for things he designed or approved, when he was done Bree waved him to his feet.
+
+“Let me treat you to a meal. I wish the rest of the teams could join us but we are fairly small and everyone else is out of Gate’s Rest at the moment.”
+
+Seeing that was the second time she mentioned it, Kai asked. “What are they doing? If you don’t mind me asking.”
+
+“It's not like it's confidential. Falkners specializes in durable construction. We work with the city to ensure the wall stays in good condition and more often we assist teams in setting up outposts in the forest or beyond. That's where everyone else is.” She gestured to the forest side of the city. “Two of us are with teams scouting for potential base locations and the other three are with new settlements and setting up their fortifications.” As if knowing what he was about to ask she added. “It's dangerous but each of those jobs pays in the hundreds of thousands.”
+
+Kai felt his mouth water at the thought but did his best to not let his greed get the best of him. “How dangerous is it?”
+
+“We don’t normally die if that is what you are asking. We haven’t lost anyone on a mission for five years except Erx. That idiot went off to take a piss outside the perimeter and got ripped to shreds for his idiocy.”
+
+Kai didn’t want to disparage the dead but that seemed as ill advised as Bree implied.
+
+The thought of death was at least dispelled by some pleasant conversation and good food, but what shocked Kai was that almost everyone he saw walking past were openly holding weapons.
+
+Unlike the rest of the Republic, where only soldiers were allowed to have weapons, they were plentiful.
+
+As if the world was listening to his inner monologue and wanted to make a fool of him he found out why they were so armed the hard way just as they were finishing up their dinner.
+
+Alarms started sounding and having been informed about this in his initial paperwork that he had just signed a few hours ago, Kai remained in his seat. He expected everyone else to do the same which was what they were supposed to do but everyone, Bree included, sprung into action the moment the first alarm sounded.
+
+A full dozen patrons moved for the windows and shut and secured the shutters while two muscular adventurer diners went to the door and took up positions with their weapons scanning the sky as a few people rushed into the restaurant.
+
+The instant the alarm sound changed, the two adventures retreated and slammed the door shut, engaging the heavy locks with speed that seemed uncanny.
+
+Kai was nervously worrying away at his table cloth until Bree came back to the table with a sigh. “Hell of a first day but what can you do? Best to have your first wave with me.”
+
+One of the adventurers upon hearing it was Kai’s first beast wave sauntered over and slapped him on the back. Kai couldn’t help as his eyes were drawn to the long puckered scar that stood in stark contrast to the man's dark skin.
+
+“We all have our first.” Tapping his scar the man added. “I wasn’t so fast during my first attack and was locked outside. I survived and got some things out of it but had to fight for my life all because I didn’t follow the rules.”
+
+Kai felt a little queasy at the story and the man laughed seeing that and waved to the staff who were still rushing about. “Bring our Fishie a drink.”
+
+Hearing that seemed to settle the atmosphere of the restaurant and a few people raised their own drinks to toast Kai as he choked down the shot of amber liquor.
+
+It hit harder than anything he had ever drunk before but as the fire spread through his limbs he almost felt like he had when he took his first breath of the air of Gates Rise.
+
+Letting the liquor do its job he sat and listened to the other patrons swap stories and the television for updates even as he tried to ignore the roars of beasts and the crack sounds of weapons being fired even as they sounded like they were right outside.
+
+It took almost an hour for the all clear to sound and Kai hoped everything would be normal but it was anything but.
+
+When Kai exited the shop he saw bodies everywhere. He shouldn’t have been taken aback but he was.
+
+Most of them were of a bat-like creature with exaggerated metal teeth and silvery strands of shimmering metal hanging from the rear of their wings, but a few were human. There weren’t many, just three, but it was three more bodies than Kai had ever seen. One civilian who, for whatever reason, had been too slow to enter one of the secured buildings, and two adventurers, if their arms and armor were any indication.
+
+People's lives being snuffed out was bad enough but they hadn’t just been killed. They had just been shredded and partly eaten if the clear bite marks in the flesh were any indication.
+
+He didn’t know why anyone, let alone himself would sign up for this but he was regretting his decision. He wasn’t built for violence like this.
+
+Kai turned to the side and vomited out what felt like everything he had eaten in the past year as the thoughts churned in his mind. Just as he was wiping his mouth he did so he caught a man jumping down from the top of a nearby building.
+
+The twenty six foot drop should have shattered his legs but he seemed to step on… nothing. The air shimmered almost like the ripples of a puddle and the man’s downward momentum was halted for a moment, letting him drop the remaining ten feet without issue.
+
+Kai almost didn’t believe what he was seeing, and even as his mind started throwing up doubts and questions, he tried to reaffirm that he knew what he had seen, but it was futile. He was a logical person and he knew that what he had thought he had seen was impossible.
+
+People didn’t have a double jump like in some video game.
+
+That wasn’t how the world worked.
+
+He had seen things that make little sense but this was the first time that he had seen something that was blatantly impossible. The time he had seen a woman entering the haunted house pulling out a sword from a seemingly normal backpack could be explained by a sectioned toy sword. He didn’t know why someone would do that but it was explainable. The time he had seen someone run faster than a speeding car could be explained by his perspective being higher than the action and being far enough away that things were hard to see. Or like the time he had seen a person vanish into a dead end alleyway. That seemed impossible but he had been twelve at the time and hadn’t actually checked the alley for any kind of recessed doors or the like.
+
+It all seemed impossible but they had reasonable, logical, mundane explanations.
+
+Except all of that was thrown into chaos as he watched a man drop down almost thirty feet and pause mid air. Kai was vomiting and his worried mind tried to rationalize it away but there was no way to do that. He knew what he had seen but he couldn't explain it.
+
+He tried to mention it to Bree but he was so distraught with the attack he was mostly incoherent in his ramblings.
+
+Thankfully as part of his contract he had a room in an apartment just two blocks down from their office building. It felt a little sterile being a pre furnished apartment but it was more than enough for him and he distracted himself by putting away his clothes before crawling into the shower then bed.
+
+When Kai woke up in the morning he had a better idea of what he needed to do.
+
+First thing he did was get breakfast downstairs where he saw the streets were cleaned up as if nothing had happened.
+
+Second he got Bree’s help and bought a pistol and signed up for classes on how to use it. The gun was a little expensive, and the fact he could buy one at all was still a bit of a shock, but the beginner classes were at least free.
+
+Kai took the advice of his fellow architects who he had finally been able to meet as they prorated back into Gate’s Rest and also took a few lessons about knife fighting. They were scary and brutal, but as they pointed out that most beasts weren’t going to polite enough to just wait to be shot at range and having a knife and knowing how to use it might save his life.
+
+He didn’t like it, but he took the lessons and then signed up for twice a month practice sessions.
+
+Work at least was a distraction as the attack opened up opportunities for the Falkners firm and it allowed Kai to get his first opportunity to do some real architect work. It was under the purview of one of the other, more senior, junior architects, Lor’tu who needed the break after his last scouting mission, but it was still real work that he got to take the lead on.
+
+As he had later learned the attack hadn’t just been done by the bat-like creatures, but there had been a number of boar-like creatures with some sort of parasitic plant-like creature fused onto its back who attacked the walls at the same time. The vine’s had given the boars the ability to scale the walls by driving into the micro cracks of the concrete, which threatened the stability of a large portion of the wall if left unrepaired.
+
+It was Kai and Lor’tu’s jobs to plan the repair and a countermeasure to ensure that the same method of attack wouldn’t work again. Being so near the walls made Kai deeply uncomfortable, but after the first days he spent working on site he learned to deal with it.
+
+Not ignore it, the danger was an ever present, niggling thought in the back of his mind but anything can become mundane given enough time and exposure.
+
+Over the next month Kai even started to feel at home at Gate’s Rest. Even the semi-frequent beast attacks became something he dealt with just by making sure he didn’t go too far from the safe areas of shops and homes which kept their front doors unlocked so long as someone was home and awake.
+
+On the other side of the Palatine mountain range the slogan 'safety takes teamwork to work’ would have sounded corny but here it was a real and palpable creed to live by.
+
+What shocked him more than even the beast waves was that he was even able to send his mother enough money that she didn’t need to work for at least a year for less than a month's wages thanks to the large bonus he earned from the city for designing the method to stop the boar things from being able to scale the walls again. The danger was phenomenal on this side of the Palatine mountain range but the pay was correspondingly high.
+
+Kai didn’t really understand why, but the bodies of the beasts were valuable and people bought them any time they were available for exorbitant fees. He better understood the ingredients that were pulled out of the forest being valuable, rare plants were said to be useful in pharmaceuticals, but the sums made no sense. He had seen a single lightly fluorescent flower sell for over a million, and that was far from the most expensive thing that moved through the city.
+
+By the end of his second month he actually started liking living in Gate’s Rest.
+
+It was dangerous, but exhilarating in its own way.
+
+It would have been perfect if not for the oddities.
+
+They seemed like they were everywhere.
+
+A regular at his breakfast dinner who one week before had been missing his arm suddenly had it back. Yet, when Kai asked him about it, he simply played dumb. Kai could see in his eyes that he was blowing Kai off but it wasn’t like he could shake the truth out of the man no matter how much he wanted to. He was an architect and the man was an adventurer who could probably break Kai over his knee without breaking a sweat.
+
+Then just a day later a woman climbed out of the solid concrete street, brushed herself off, and went about her business without giving a second look to anyone who watched on the street. Kai knew he wasn’t seeing things because even his table neighbor had seen it but none of them could explain it as anything but a hoax.
+
+Except Kai knew it wasn’t a hoax. He had seen the designs as Bree was the one to design that street after it had been destroyed in a beast attack a few years ago. There was no secret tunnel for her to climb through. It was six feet of compacted stone with a foot of reinforced concrete poured on top. The only gaps in the thing were the expansion joints and they were far too small for a grown woman to climb out of.
+
+It was impossible but he had seen it with his own two eyes.
+
+What he didn’t understand was how others just shrugged it off as non important to their lives.
+
+That was only possible until the evening of his two month mark in Gate’s Rest. Just as the sun was setting in a gorgeous spray of reds and yellows while the twin moons hung large and illuminated the evening in a cool white light, Kai felt the world tremble from his second floor balcony.
+
+Having been near some of the stronger beasts, Kai had experienced something similar so he was aware enough to keep control of his initial panic. Being around them gave one a sense of visceral fear that seemed to weigh on one like a blanket but with a firm enough will it was possible to push through it.
+
+The feeling that pressed down on him was like that except not at all. It was only similar in the same way that a spark was similar to the sun at high noon. They might both be ‘fire’ but they were on two different impossible to compare scales.
+
+It took everything Kai had, but he looked up, and there, he saw it, saw him.
+
+A man with paler skin and hair than anyone Kai had ever seen stood miles above the air like some foreign deity with a sphere so dark floating behind him that it seemed like a black hole. Even through his rising panic Kai knew that was impossible, a black hole of that size would destroy this entire star system. Secondly, there seemed to be blinding white light leaking from the edges of the black hole like a solar eclipse, which wasn’t how black holes worked.
+
+It was impossible, but there it was hanging in the sky.
+
+Kai’s eyes couldn’t help but go to the man in question, trying to find some information in a futile method of trying to piece together his and everyone else's fate, but the man was far enough away that he couldn’t read his expression. Kai could however read the man's body language, which radiated anger or maybe irritation even as he stood there miles above the ground.
+
+Screams rippled out from the city and Kai was almost sure he heard the roars of beasts whimpering in pain from beyond the city walls.
+
+The pressure grew strong enough that Kai couldn’t move even a finger and silence took over the night. Kai instinctively knew it all came from this man. How was a mystery, but he knew it with every fiber of his being, even as fear turned into raw unadulterated terror.
+
+He wanted to join those who had been screaming a few moments ago but he could hardly breathe, let alone scream.
+
+He was sure they were about to die.
+
+That belief was reinforced as a fractal of blue light traced itself outward from the man's feet where they seemed to stand on nothingness itself and grew in both size and complexity until it stretched over the horizon farther than should have been possible for any light show.
+
+Kai was sure this couldn't be real, but he had no other explanations for what he was seeing and feeling.
+
+A voice echoed into his ears like there was someone next to him speaking the words, even though that was impossible.
+
+“People of Soerilia, hear me and listen.”

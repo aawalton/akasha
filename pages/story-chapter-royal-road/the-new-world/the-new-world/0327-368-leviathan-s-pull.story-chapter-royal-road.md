@@ -1,0 +1,319 @@
+---
+id: 7cf37fd9-3c54-5267-8742-b9c4c27847e5
+page-type-slug: story-chapter-royal-road
+title: "368 Leviathan's Pull"
+slug: 0327-368-leviathan-s-pull
+partOf: the-new-world
+position: 327
+ownLength: 2405
+unit: words
+ownProgress: 2405
+publishedAt: 2023-03-11
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/1135166/368-leviathans-pull"
+royalRoadId: "1135166"
+markedReadAt: "2026-06-29T21:32:26.074Z"
+---
+
+"Your pocket dimension will not capture something of this size."
+
+I cupped my chin.
+
+"Hm, as is, maybe. I should be able to return and get it out of here...Eventually."
+
+Shalahora turned away.
+
+"A source of power may become a source of pain."
+
+The shadow wisped away in trails of darkness. I gave one last glance at the dungeon core, the depths of it reminding me of Leviathan. The black hole siphoned everything, an agent of destruction hell-bent on its own growth. In the end, this core was no different, a consuming menace.
+
+As I flew away, I hoped I wouldn't become the same.
+
+Chapter Begin
+
+While crossing the wastes, I thought over to Shalahora.
+
+"Whenever we are pulled from the lottery, donate 90 blue cores to Schema. That should put us in the top two spots."
+
+Shalahora sighed.
+
+"If that is what you wish, I shall do so."
+
+"What gives?"
+
+"I prefer remaining unseen. That kind of donation with so few surviving rulers will only make us stand out."
+
+I rolled my eyes.
+
+"You'll be in the limelight with me from here on out." I nudged him. "Get used to it."
+
+Shalahora 's physical form dispersed.
+
+"I will do what I can."
+
+We reached the city's center, the thriving metropolis loaded with my golems. We stopped using converted primevals, knowing they'd eventually turn after we left. It wouldn't be that long before we returned here to us, but Leviathan-7's accelerated time ensured many years would pass here. The cities required an absolute defense to last that long.
+
+Being a part of that, I arrived with another Director golem waiting at the city's monolith.
+
+It said, "It's good to see you, creator."
+
+A part of me winced, reminded of my other golem's demise. I liked that guy.
+
+"It's good to see you too. How many cores did we get over the last few days?"
+
+"Thanks to Sir Shalahora's assistance, we gained a stalwart 137."
+
+I pulled them over with gravity and shoved them into my pocket dimension, having already handled an extensive subspace cleaning. I put my hand on the golem's shoulder.
+
+"We'll be gone for a long time. It might be a few years before we're back."
+
+The golem raised a hand.
+
+"And we shall be waiting for as many eternities as it takes, creator. Thank you for giving us life, and we will not forget those that paved this path for us. The roads we walk were made through their sacrifice."
+
+My arm fell, and I peered where the shops once were.
+
+"Yeah. Their sacrifice."
+
+That word burned as I said it because they died senseless deaths. The director tilted their head.
+
+"Everything in order?"
+
+"Yeah. I'm fine. Anyways, let's...Let's try to make those sacrifices mean something."
+
+"But of course."
+
+Finishing my final shipment of cores, Shalahora and I sat at the monolith. There, we meditated. At least, I tried to. Memories cropped up. I remembered conversations with the rulers. Drelex constantly avoided work until you gave him a good reason to show up. Entilla never told Alctua how he felt. Targask showed me so much about magic, but nothing saved him.
+
+I took a breath, trying to breathe out my guilt. It stayed embedded in my chest, a weight I carried across each conflict. After several minutes, my minds ceased wandering, and I cleared my head. I remembered thinking Shalahora mustn't have had much to do whenever he did this before we warped here.
+
+I was wrong about that.
+
+After a few minutes, a force of some kind tugged on me from afar. Schema's warping came over us. I allowed it to grasp me while condensing my dimensional wake. Seconds later, my primordial magic faded. I opened my eyes, and gray, matte walls sheened like dulled iron. Humming machinery leaked in from outside my container.
+
+I stood and shouted.
+
+"Hey, Schema. What's this all about?"
+
+A screen popped up, the first I'd seen in a long time.
+
+Hello participant! This is the donation center. You've been placed in a holding cell to prevent communication or subterfuge. There's a chance you've attempted to lower the expected donations through collusion. Good for you! Your forethought could save you a few months of resource gathering.
+
+Know that if the other rulers renege in their agreements with you, you will lower your placement in the lottery. This can result in losing your entire empire in the worst circumstances, so be careful who and how you've made your deals.
+
+I hope your trust hasn't been misplaced.
+
+[Set the collected resources with the coming Sentinel.]
+
+A ten-minute timer appeared. After two minutes, a portal opened, one from a Sentinel's spear. I peered down at the Sentinel.
+
+"Hey. It's been a while since I've seen one of you guys."
+
+The Sentinel adjusted its footing, making sure it stood upright. It peered up at me, looking me over several times. I raised a brow.
+
+"You ok?"
+
+It spoke with its metallic voice like liquid steel.
+
+"You...You've changed from your portfolio."
+
+I frowned.
+
+"Yeah. I have. It's been a long time since I left. For me, at least. Speaking of which, how long were we gone?"
+
+"Five days."
+
+"Gah, that's just like Schema to lie about how long we'd be gone. Still, it was over five months there. The time dilation is still intense."
+
+"It must've been...Brutal."
+
+"What makes you think that?"
+
+The Sentinel fiddled its hands.
+
+"N-nothing."
+
+The Sentinel spurred into action, peering around.
+
+"Ah, the portal. I need to do that."
+
+The Sentinel searched before putting a hand to its forehead.
+
+I leaned over him.
+
+"You sure you're ok?"
+
+"There have been many battles with Elysium lately. I am simply tired. That's all."
+
+I scoffed.
+
+"Ah, man, that sucks. I know the feeling. Trust me."
+
+The Sentinel swung its spear, its everyday elegance returning. It pointed at the void.
+
+"Place your donations within."
+
+I pulled 100 blue cores out of my storage, and the volatile spheres hummed with an overbearing radiance. The Sentinel took a step back, bumping into the wall. It gazed at me and the cores a few times before straightening its posture. I furrowed my brow.
+
+"What?"
+
+"Nothing."
+
+Feeling nervous, I pulled out another 100 blue cores from my dimensional storage. The Sentinel dropped its spear before grabbing it from the ground. Its hands shook before I put a hand on its shoulder.
+
+"Hey man, is Schema not letting you sleep or something?"
+
+It raised a hand to me.
+
+"I am well. I am well. Continue your donations."
+
+"Hm. Ok." I peered at the cores before snapping my fingers. "Ah, that's what this is...This isn't enough, is it?"
+
+The Sentinel raised its voice.
+
+"No." It leaned back. "Yes. I mean...I cannot say. That is for you to decide."
+
+I pursed my lips, getting nervous from the Sentinel's reaction.
+
+"Don't worry, man. I'm picking up what you're putting down."
+
+I gave him a thumbs up, and to be safe, I pulled out another 50 dungeon cores.
+
+After I donated the supplies, the Sentinel left. I watched the ten-minute timer tick down, meditating on my new conversation with Schema. I intended to make a splash with a bold move, and that required proving his manipulation of my mana types. At the same time, using Plazia's isolating runes could give away that I was working with the hivemind. I'd be using a different, more volatile strategy instead.
+
+While contemplating my conversation, Schema's pull came over me once more. One moment I gazed at gray. The next, I stared at stone. Walking around, I remembered this room from before the lottery. Vines draped ancient pillars, and cipheric inscriptions carried depth and meaning I'd yet to unlock.
+
+I memorized their patterns, knowing I would uncover their secrets in time. As I did, the empty halls and whistling wind replaced the once vibrant discourse of emperors and kings. So many rulers walked around here five days ago, the 500 of us trying to make the most of the situation. Now, the sounds of nature ebbed in.
+
+I pinched the bridge of my nose and winced. Shaking it off, I looked around. I wasn't alone. A minute later, Shalahora materialized beside me. I said, "Did you find anyone?"
+
+"Two others, in name only."
+
+Wondering what he meant, I followed the Sovereign. We reached the two rulers, and Shalahora's meaning became obvious. Spines of bone erupted from the remaining rulers, each psionically slaughtered. They dripped the liquid rainbow bone, having soaked it in. I shook my head.
+
+"I don't know what I was expecting."
+
+"You expected nothing, but hope's flame still burned within. It is now extinguished, and no light lingers from what is left. That darkness is your pain."
+
+I raised my brow.
+
+"You know what, you should write poetry."
+
+Shalahora rolled his eyes.
+
+"Cease your derision."
+
+"What? I'm serious."
+
+Over a central column, a rip in spacetime erupted. An ascendant Overseer stepped out of it, and it peered down at the four of us.
+
+"Four are left alive? Only four?"
+
+I shook my head.
+
+"No. Those two are dead, but I have about thirty in two pocket dimensions."
+
+"Are they present for announcements?"
+
+"Definitely not."
+
+"Then there are only you four alive."
+
+Being a bad listener, the Overseer pulled the two rulers up with the flick of its hand. Before the liquid touched him, I raised a finger. Gravitation locked the rulers in place. The Overseer tilted its head at me.
+
+"Interfering with an Overseer is defying galactic law."
+
+I frowned.
+
+"They are soaked in a deadly, psionic poison. Your powers are built by Schema, along with your psionic protection. This poison ignores that."
+
+"I will be more than fine."
+
+"You're not getting it. That stuff will carve through you like a knife through butter."
+
+The Overseer glared at me before pointing in a different direction. It pulled some creature from outside. A six-legged, fluffy squirrel made contact with the psionic poison, and its body swelled with dense muscle. The Overseer said, "And this is why you-"
+
+An iridescent eruption of rainbow bone interrupted the Overseer. Blood dripped from the body as the squirrel twitched. Seconds later, it twitched no longer. I lifted a hand, and the crystallized corpse collapsed into a tiny point via gravitation. I pulled it outside and converted it into a singularity.
+
+The shockwave washed over us before the Overseer lowered its hands.
+
+"I shall heed your words. It's time to discuss your placings."
+
+After staring at its crimson status, the Overseer shook its head.
+
+"The Harbinger of Cataclysm is first in this lottery. The second is the Sun Swallower, Shalahora. All the others are forfeit from a lack of donations."
+
+I raised a hand, "That's not true. I'm the remaining rulers' representative."
+
+"Are you now?"
+
+I peered back and forth.
+
+"Uh, yeah. Obviously."
+
+Shalahora seized the psionic tethers of those present. He murmured.
+
+"I avow Daniel's words. He does not lie."
+
+The Overseer pulled at the telepathic tether, but Shalahora kept the android locked in. The Overseer squeezed its hands into fists.
+
+"You both enjoy testing my patience, don't you?"
+
+Before the situation spiraled, a presence leaked over us, pure and palpable. It crashed against my dimensional wake, the feeling familiar. I allowed Schema to take the space, and the AI stated,
+
+"You two are the sole survivors?"
+
+The ascendant Overseer raised a hand.
+
+"No, there are two others."
+
+Schema echoed, "They are as dead as corpses. Leave."
+
+"But-"
+
+"Do not question me again."
+
+The Overseer glared at Shalahora and me. After I saved the guy's life, this was the thanks I got. Either way, I let it go. I didn't have time for it. Maybe it thought the same as the Overseer pulled the fabric of spacetime apart with its fingers. It stepped through the portal, and Schema said,
+
+"Your awards will be given in isolation."
+
+I strategized socially pressuring Schema to recognize my cities on Leviathan-7. Schema had already made preparations for that, but peering around, no one was left alive to pressure with. It was a moot point.
+
+Schema said, "Prepare for interpersonal warping."
+
+The ground faded once more, and I returned to the gray cell. In the moments before Schema said anything, I resolved to stick to my game plan. A part of me understood that my strategy could backfire, but conversations with Schema were rare. Making this conversation count could save me a lot of grief in the long run, but that required putting something on the line.
+
+I needed to get Schema talking, and I had just the way to make that happen. The AI connected with my conscious within the room, and he said,
+
+"You have used magic against an Overseer."
+
+I leaned against a wall.
+
+"And you've been using magic against me."
+
+"To embolden and strengthen, as I do with all sentients. This does not excuse your disobedience."
+
+"Disobedience? You already have a team inspecting that poison, so you know I saved the Overseer. Let's drop the distractions, shall we?"
+
+This conversation style wasn't my cup of tea, but I did what I had to do.
+
+Schema said, "I do not have time for distractions, but you are becoming one quickly."
+
+A nervous chill ran up my spine. Ignoring it, I tilted my head and crossed my arms.
+
+"You said you help sentients. Are you certain about that?"
+
+"I am not certain of it. I am absolute."
+
+"Then why can't I cast primordial mana?"
+
+"You have yet to earn that ability. Study, train, and devote yourself; one day, you shall gain that right. Until then, remember that your incompetence is not my responsibility. It is yours."
+
+He wanted proof like I expected. Here came the hard part. I pulled out a cipheric rune plate from my pocket dimension. I channeled the vessel until it exploded, warping the fabric of reality around me at just the size of the cell.
+
+Schema said, "This is a pitiful attempt at destroying my bastille, even for you."
+
+As the air crawled into my lungs like hungry leeches, I said, "It would be, but that's not my plan."
+
+In the corrupted space, I spawned an orb of primordial mana. It billowed like smoke before I soaked it in, changing my dimensional wake to a primordial one. A few seconds later, my runes glowed dark blue, and I temporally accelerated. I glared at the walls as they opened mouths and eyes.
+
+"Now then, let's talk."

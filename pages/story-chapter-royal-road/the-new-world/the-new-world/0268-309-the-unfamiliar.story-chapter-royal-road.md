@@ -1,0 +1,313 @@
+---
+id: d63910ee-24dc-5d7f-8f73-0fd8139fdeae
+page-type-slug: story-chapter-royal-road
+title: "309 The Unfamiliar"
+slug: 0268-309-the-unfamiliar
+partOf: the-new-world
+position: 268
+ownLength: 4973
+unit: words
+ownProgress: 4973
+publishedAt: 2021-09-09
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/747874/309-the-unfamiliar"
+royalRoadId: "747874"
+markedReadAt: "2026-06-29T21:30:23.102Z"
+---
+
+The cloud warped, wisping to a singular point of water. That liquid plopped to the earth, my view of the sun cleared. I gawked at the display, the range of my abilities far exceeding what I believed of them. Dwelling on what I was capable of, I allowed my mana to effuse ever so slightly. The air around me blurred from it, the dimension around me warping.
+
+I hoped Plazia was ready for me.
+
+Because I was ready for him.
+
+Chapter Begin
+
+An hour later, and I prepared for the Ahcorus's homeworld with my team. Most of my followers stayed here, our guild needing them for different operations. Torix handled the expanding infrastructure around Mt. Verner and Blegara. He even expanded the policing, education, and conscription duties to various divisions of our guild. That included the Vagni.
+
+On the other hand, Kessiah kept in her realm of expertise, healing many of our troops. Even if our casualties were low, the injury rate was not. Getting them back into shape took a lot of time, and Kessiah went after it like an animal. As for Hod and Althea, they needed a break. Torix and I worked them to the bone during our fights with Elysium, so time to decompress was necessary.
+
+Others fell under similar reasoning. Chrona and Krog began turning the top of Mt. Verner into a neoteric sanctuary for the gialgathens. They named the peak New Rivaria after their ancient refuge on Giess. They began remaking the old with a dash of new. Those acts established tablets etched with poetry, open homes, and even the never-melting ice sculptures they loved.
+
+They performed music with molded glass, which echoed out like wind chimes and gentle winds. The gialgathens played games across Mt. Verner's peaks, showing their aerial mobility off in spades. They even pooled mist near the mountain's surface, offering moisture for their amphibious skins.
+
+It made me smile seeing them and knowing I helped give them a place for this kind of thing. Other members of our guild lived the way they wanted as well. Diesel and other engineers focused on constructing fresh bunches of buildings, farms, and utilities on Mt. Verner's surface. My constructor golems helped them make changes in real-time, shortening the entire development immensely.
+
+They didn't coat Mt. Verner in a city overnight, but they gained more ground than I'd expected. On the other hand, a few of my battle golems patrolled around Mt. Verner and cleansed the land of any aggressive eldritch. To Amara's chagrin, that meant all of them, but even she accepted that most eldritch couldn't be socialized.
+
+It was just a part of their nature.
+
+Either way, combining all of those jobs and duties took up immense amounts of time. With everything squared away, only three people left with me: Helios, Florence, and Amara. Helios was the most important member, as his warping saved me so much time. He also intended to give me a few lessons on warping while we traveled the ahcorus's homeworld. I looked forward to it, as warping would make me an absolute, utilitarian beast.
+
+Florence came with us as well, the brothers getting along better since they had a talk a while back. The more social albony of the two wanted to speak with the razor queens and learn about their cultures. Florence figured he could create an alliance with trade deals and everything included if we played our cards right. I hoped he was right.
+
+The last to join us was Amara. She wanted to gain levels by eating other eldritch and speak with Plazia. I wondered why, but Amara explained that Schema never gave her attributes for free. Schema simply recorded her evolution, raising her threat level as she strengthened herself.
+
+As an eldritch, she didn't really need Schema to get stronger. That augmentation ability came wrapped into her being, as all she required was organic matter to eat. That growth potential could be why the eldritch were so hated to begin with. Schema preferred people needing him, and if you could avoid his system, he acted dicey.
+
+Schema aside, our group of four readied ourselves along Mt. Verner's edge. We stood at our base's warp site, putting armor, tools, food, dungeon clearing gear, and enchantments into our dimensional storages. My gravity rings floated some of the equipment for them, as I gave each of them an enchanted circlet as I had my own troops. For Florence and Helios, I even granted them some spare, protective plating of my armor.
+
+Even if they brought it to the Emperor for experimentation, I was ok with that risk. I didn't want either of the two exposed while we were fighting Plazia. They could be eaten in a second, especially Florence, and I didn't want to bring an empty casket back home.
+
+Completing the armor and rings required little effort, as did the packing, so I made my minds work elsewhere. Seven elemental furnaces forged matter into energy under my skin, each of them nestled into safe patches of my mass. They channeled enormous plumes of mana into my cipheric carvings, and those detailed etchings gave me attributes in turn.
+
+Knowing their full impact, I inspected the difference even a few hours made on my cipheric augments sheet.
+
+[Modifications - The dimensional fabric composing this structure has been modified with code from the dimensional cipher. The rewards are as follows:
+
++7,121 Constitution
+
++27,414 Endurance
+
++5,557 Perception
+
++6,271 Willpower
+
++1,777 Luck
+
++72 Strength
+
++72 Dexterity
+
++100% to Effects of Legacies
+
++ 50% Internal Motivation Multiplier
+
++1.4 Trillion Ambient Mana]
+
+Over the last few weeks, I generated an enormous amount of bonus endurance. These gains mounted until they exceeded my recent level-ups from Schema. By a lot, actually. With all the excess mana flowing in from the furnaces, it wouldn't be long before my runes eclipsed the AI's gains, and threatening exilement wouldn't be an issue.
+
+Of course, I wanted to remain on good terms with Schema, so I'd stay in line. It was just a comparison I noted in my head. Beyond that, I inspected my status sheet, figuring out the specific amount of mana I generated from my furnaces. As expected, the matter conversion gave me a lot of energy to work with.
+
+The Living Multiverse(Lvl 18,506 (Cap: 26,000) | Current Influence: The Rise of Eden | Class: Sovereign)
+
+Strength – 97,153 | Constitution – 121,977 | Endurance – 251,245
+
+Dexterity – 50,992 | Willpower – 208,645 | Intelligence – 129,009
+
+Charisma – 50,715 | Luck – 71,488 | Perception – 39,307 |Awe - 5,201
+
+Health: 1.08 Billion/1.08 Billion | Health Regen: 40.67 Billion/min or 677.7 Million/sec
+
+Stamina: Infinite | Ambient Mana 5.402 Trillion
+
+Mass: 24.28 Million Pounds(11.0 Million Kilos~)
+
+Height: 18'03 (5.56 meters)
+
+Damage Res - 99.28% | Dimensional Res - 100%
+
+Phys Dam Bonus – 139.5 Million % | Damage Bonus – 40%
+
+The Rise of Eden - enhances base stats by 30%, increased to 40% to allies within aura's radius.
+
+Mana Conversion(Elemental Furnace Count: 7) - 56.4 Billion mana/min siphoned into runes and armor.
+
+I shook my head in disgust at the furnaces' mana production. The overwhelming amount of mana increase put me at an absurd rate of stat augments as well. Even better, multiple furnaces laid unused in Elysium's treasure. I kept them tucked away in my dimensional storage, handing one off to Torix earlier if he wanted to try using one.
+
+If he blew himself up, I'd make him a new body when he arrived back here from his phylactery. Everyone else simply couldn't handle a furnace yet. If they could, I'd spread them around to more potential members. Unfortunately, most would evaporate themselves and an entire region if they tinkered with one. Keeping them hidden for now kept most of the guild safe from their fallout.
+
+And yeah, maybe I was a bit greedy with them. Eh, nobody's perfect, right?
+
+Anyways, I inspected a few of my skills along with other parts of my status. With how many numbers interplayed together, it became easy to have certain aspects fall to the wayside. I imagined status accountants that helped manage someone's build and upgrades further down the line. Experienced, researched individuals could streamline the process, and maybe Obolis could recommend a few.
+
+My own analysis proved fruitful, however. I found three skills working together that could be fused. The first of those three was A Manifold Mind. It would absolutely be integrated into my sovereign skill because its potential was limitless, and it amplified every ability I had.
+
+The second skill humming along was Matter Conversion, the skill used to power the elemental furnaces. I leveled it quite a bit as of late, and getting more of them operating at once only gave me more potential. If anything, I may one day have hundreds or thousands running at once. At that point, who knew what I was capable of.
+
+The third skill amplifying the others was Hunter of Many. I gained the technique a long time ago, and it drew out clear maps of my surroundings using my senses and powers. It also gave me some nuance with gravitation and telekinesis. These three mythical tier skills could combine fluidly without much interference, which meant they'd mold into a legendary skill soon.
+
+I simply needed A Manifold Mind to use the furnaces while having that same skill scope out my surroundings with Hunter of Many. That combination granted me a pristine awareness of my surroundings, many furnaces firing at once, and plenty of mental room leftover for other tasks. Considering the sheer utility of a legendary skill like that, it was a no-brainer moving forward.
+
+It did leave me wondering if I should postpone the legendary skill's creation until I unlocked primordial mana. After all, I'd gain the mana type eventually, and I wanted it fused together with my sovereign skill. A bit of arguing between minds, and I dismissed the idea. While primordial mana may be a path of improvement for me, it would never be one of my primary strengths.
+
+It just didn't come naturally to me at all, and that meant learning its advanced techniques would be a desperate struggle as well. Now, I'd push through until I got it, but taping that lagging skill to my affluent ones could be a bad idea. It might not enhance my understanding of primordial mana at all, or worse, it may drag my best abilities down.
+
+Even if that wasn't the case, I'd gain three legendary skill slots once I established my sovereign skill. Primordial mana could be used in one of those three openings, along with some of its advanced techniques like temporal dilation.
+
+Having reached a decision, I ramped up my elemental furnace production while scoping out my surroundings. This gave me a pristine picture of Florence and Helios arguing behind me while Amara bit into some crystallized quintessence. It was her favorite flavor. They already finished while I pushed more food into my own pocket dimension.
+
+Here at the edge of the mountain, the trees wafted in the wind as scents of rich earth, morning dew, and pure sunlight poured in. Tasting the air, I spread out my hands for a second. Having so much perception allowed me to appreciate the beauty of nature in depth. I thanked that boon from my status and skills, just soaking in the sheer thrill of an untamed forest.
+
+And then Helios snapped, "Florence, you're weak. A speaker is useful elsewhere, not on a fringe world with an ancient, abyssal entity under its surface. You're going to slow us down."
+
+Florence rolled his eyes under his dark wood mask, "Pshh, what? I'm plenty strong enough, and with a group such as this, there's nothing to worry about. Just look at Daniel over there. Imposing, isn't he? I can't imagine someone bullying me while he's around."
+
+Helios dragged his hand down his mask, "Bullying? An insect will crawl down your throat and devour your organs. Bullying is the least of our concerns."
+
+Florence pointed two finger guns at Helios, "But you'll help pull it out of me before it can eat all my insides, right?"
+
+Helios deadpanned, "I will tear it out, along with any guts it's attached to."
+
+Florence gave Helios a quick pat, "There you go. That's all I'll need. Besides, I'm taking the risk on myself. I don't need your chiding to remind me of that."
+
+Helios's pulse quickened as Florence touched the real issue. I smiled under my helmet, recognizing Helios's dissent as carefully disguised worrying. Helios let his hands flop against his sides while hissing, "Don't complain to the Emperor when I pull your liver out then."
+
+Ahh, now that was brotherly love.
+
+I waved at them both, "Hey, stop that. We're about to leave, and I don't want them to think we're unprofessional." I stared forward, spotting Amara clanking her teeth on a mana crystal, "Even if we are."
+
+Helios stood up straight, more than able to play the part of the cold, calculating pro. Florence lacked that same ruthlessness while Amara kept chewing at the crystal-like it was an oversized jawbreaker. It gave us the impression of a rag-tag group of misfits, which was pretty on point. Eh, we usually made our most significant statements with actions anyway.
+
+We reached the warp-drive with our supplies in tow before Helios raised a hand, "If I may offer a counter-proposal, I may warp us directly to Reason's lair."
+
+I leaned back, stunned he already memorized the coordinates, "I thought it took you weeks to get a new planet down for warping. What gives?"
+
+Helios raised his eyebrows under his dark mask, "It does take that long, but I was well aware we'd be going here for a few weeks before now. I simply put time into studying those coordinates, so adjusting a few calculations to Reasons' domain is a simple task."
+
+I gave him a nod, "Alright then. Let's go warp directly there."
+
+With satisfaction, Helios raised his arm and generated a portal. Beyond its veil, a stary sky spread over an empty horizon. A cold, desolate land peaked in from beyond the gateway, and craters lined the surface of its icy grasp.
+
+Air howled into the other planet's atmosphere, the empty place hungry for our prosperous planet's air. I scoffed out loudly, "Oh yeah, it's looking very lively over there. You sure you have the right coordinates?"
+
+Helios raised his unarmored right hand, my ring humming as it granted him better breathing, "I am. This is their homeworld, Svia."
+
+I stepped through the portal. Florence, Amara, and Helios followed in my wake. Peering up, the stars glimmered down like silver coins amidst splashes of misty lightning. They carried many colors, this thin atmosphere poor for breathing but excellent for stargazing. Finding different lights, I picked up many of their individual features. Perception aided that process, making great views even better despite it being my lowest attribute.
+
+Below this wide, expansive skyline, the pressure here mirrored a moon more than a planet. It wasn't as decompressive as space was, though it came closer than Giess or Earth did. The gravity proved looser here and less of a constant pull, more of a slight tug.
+
+I spread my right hand out, lifting one of the stones below us into my hand. I crushed it to powder before the dust lingered in the air. Taking a step forward, the crisp, crunchy ground let out a soft warble of sound. The thin air didn't carry noise well.
+
+Amara hissed, her voice muted, "This world is uncomfortable. Why they live here is a mystery to me, for there is little here beyond dust."
+
+I gazed at endless, rolling hills of white stone, "Tell me about it."
+
+Using my sharp sense of pressure, I created tiny gravity wells over each of my team members, mirroring Earth's atmospheric pressure. Florence gasped in relief, "That is much better, thank you."
+
+I rolled my shoulders, "No problem. Let's go."
+
+Helios raised his eyebrows, "Where, exactly?"
+
+Peering around, I had no idea. Little exposed itself here, outside of endless wasteland. A piercing quiet crushed in from all angles, creating a heavy cloak both comfortable yet suffocating. It dulled my senses, but I leaned onto my gravitational awareness to compensate. Bending my knees, I pushed my heels into Svia to jump.
+
+The crackling rock crumbled under the pressure of my feet, enormous cracks radiating from the ground. I lifted myself further with gravitation before inspecting at a higher vantage point. Everywhere on this dead rock mirrored what we found below, all except specific burrow openings.
+
+These apertures glistened from the intense solar energy that reflected off their surfaces. Something caused that blinding sheen, but the glow masked the details of the chasms. Landing back below, I stifled my meteoric impact by lifting myself upwards.
+
+This prevented me from hurting my team. Once down, I pointed where one of the burrow openings exposed itself, "There's something out there. Let's go."
+
+Having practiced with my rings, Helios and Amara propelled themselves from the ground. Helios did so with ease, having mastered their use already. Florence floundered behind us before failing his enchantment altogether. Without turning back, I stopped his faceplant into the white stone with a smile,
+
+"You need to practice."
+
+Florence smiled back, "Oh, but I'm simply too busy working for your guild. There's no time for developing the ring's use, and I'm certain you understand the sentiment."
+
+Helios massaged his temples with his fingertips, his fur bristling along his face, "And to think I ever believed you competent."
+
+I picked Florence up before setting him down. He ran below us while we hovered above. We slowed down for Florence, but I didn't mind the downtime. I moved a book under my helmet out of my view for a minute or two while we flew. With my actual eyesight, I relished in the spectacle of stars, galaxies, and nebulas above.
+
+By now, my eyesight mirrored a weak telescope if I genuinely focused. That gave each glowing sphere depth, and I lost myself in those sights. Well, I did that while reading reading the ancient book hidden under my facemask. And I also channeled the elemental furnaces. Oh yeah, and I poured that mana into my cipheric carvings as well. When I say it like that, it seems like a lot.
+
+But I got lost in those stars, let me tell you.
+
+Anyways, we landed near one of the reflective patches. This sheen spawned from a thin membrane lying over a burrow's opening. It was the colony entrance for the ahcorus. Considering how thin this atmosphere was, it made sense they wanted some shelter. Around the membrane rested smooth, tan-colored stone. It looked like a patch of polished teeth, both grotesque and pleasing to the eye at the same time.
+
+I walked through the membrane, always leading our group in case traps erupted from the cavern's walls. I figured if those snares or pits killed me, then everyone would've died disarming them anyways. They'd need to be rather explosive either way.
+
+No traps triggered, but the membrane did cover me in a sterile, clean smell like rubbing alcohol. I absorbed the organic sheathing, but the others didn't. Peering at the tunnel below, I found struts of smooth, flowing enamel interlacing polished stone. It looked like someone installed bones into a dug-out tunnel before smoothing the rock with a chemical.
+
+It lent itself to an alien but fascinating design. I rubbed a palm against this silky stone, the minerals smoother than glass in some spots. That polish exposed the rock's true beauty underneath. The mineral layers piled together like a tall cake of crystal.
+
+Interrupting my inspection, several green blobs rolled up nearby. They showed see-through membranes covering their gloopy centers. Suspended in their bodies, they carried rocks, debris, and some kind of fungus that glowed. That same fungus offered light throughout this expanse and the tunnels below.
+
+Once they sensed us, these tiny green slimes rolled away, their outer membrane circling an immobile center. This moved them along as if they were encompassed by a moving treadmill track. I gawked at the sight, mystified by the creatures. After they disappeared, two enormous, azure-shaded slimes came from the tunnel below.
+
+These monsters stood twelve feet tall, carrying enormous claws, plates of bone, and thin tendrils that served as antennas. They pooled themselves into four limbs, their front paws swelling as they neared us. Those swollen limbs generated spikes and serrated teeth in the slime centers of the beasts. These weapons emerged onto their epidermal linings, likely for smashing us.
+
+The thorny limbs paired well with the acidic drool dripping from toothy openings in their cytoplasmic innards. They charged us, but I encompassed them in Event Horizon. I eliminated the damaging drain of the aura, keeping the pressuring effects unmitigated. Despite the dimensional wake, their will to fight didn't wane in an instant.
+
+The guards of this colony worked with a tireless pursuit, and they kept moving forward until they crashed into my opened hands. Like a child running into a steel wall, their bone plates shattered, and their charges ceased. I leaned over them, their hulking frames smaller than mine,
+
+"I said stop."
+
+And they did.
+
+Their forms shivered before they pulled away from me. I pointed deeper into their tunnel, "Take me to Reason. I'm here to meet your queen."
+
+The two defenders stared at one another, no eyes or sensory organs in place for understanding me. Their thinned tendrils sprinkled against each other before they turned back to me.
+
+Knowing words wouldn't work, I created a telepathic connection with them both, their minds relentless and hungry. It impressed me to find them so defiant despite the overwhelming odds against them. I nodded in approval, sending over my impression of them. They sent vague appreciations back, finding me a fierce warrior in my own right.
+
+Instead of giving them a message to meet Reason, I sent over the urge to see others like them. Understanding the simple statement, they ambled back into the tunnel, urging me to follow. I stepped forward while Florence frowned,
+
+"Hm, they don't seem like a very social sort."
+
+As we wound our way down, we traveled deeper into the colony. With each step, airflow grew denser, and oxygen came with it, along with activity, abound. Jade shaded blobs rolled across the tunnel's surface like a moving forest, each of them carrying a different green coloring. They managed and expanded a complex tunnel structure around us.
+
+This inner sanctum dwarfed Mt. Verner. Even with my height and size, this underground space gave me plenty of breathing room. Many massive tunnels linked into this vast cavern, and with those tunnels came swarms of other slimes.
+
+And the deeper we went, the greater the density became. Most of them were the worker slimes we first encountered, each of them green. These drones always encompassed rock, ores, gems, and enamel sheets. Those toothy sheets coated the tunnel's surface with greater density until no rock exposed itself at a certain depth.
+
+Additional struts and supports offered stability at greater depths. Light radiated from blue, green, and mauve fungi attached to the burrow's ceiling. These lichens symbiotically thrived on several of the slime's oozes, the workers feeding them to exchange light.
+
+Besides these basic, greenish drones, other slimes toiled. Lumbering bruisers, like those we followed, trudged through this underground maze. They carried the carcasses of eldritch, the different monsters covered in slashes and acidic burns. These guardian slimes threw these corpses to the other blobs to feast, who did so in seconds.
+
+More slimes showed themselves in these feeding frenzies. These slimes carried all kinds of colors, and they often led groups of green drones. These specialized slimes applied adhesives, sprayed acid on rocks, or coated eldritch in enzymes for digestion. They always ended up producing something in their plasmic centers, and whatever they made helped the colony in some way.
+
+This made the entire expanse mirror a beehive, fervent with activity but organized by intent. Most of it, anyway. The giant slimes took us to a cavern lined with even more fungi. Here, the lichens expanded with drooping vibrissae. They ended up swollen bulbs of the liquid light, and they waved around as if blown by a gust of wind. When a bulb hit another bulb, the glowing spheres clanked out a bell chime.
+
+This gentle sound contrasted the brutal display below. Many specialized slimes watched an arena of sorts where other blue slimes mauled one another in a carved-out space. Two of them did so now, each of them dripping acidic innards. A brighter, cerulean blob sat along a far wall of the colosseum. There, it generated spikes of enamel and lobbed them out at its enemy.
+
+Facing it, a steel blue slime swung large, blunt hammers of bone at the incoming spears. It deflected the masses of spikes, being pierced many times as it closed the gap. Those gushing impacts made the other slimes slither in appreciation. Even without sight, the living goos experienced the vibrations of power and the series of collisions.
+
+Once the steel blue slime reached its brighter opponent, it swung its hammer down. The other glop splattered across the arena, coating the environment in sizzling acid. The surrounding oozes leaped down, devouring the corpse of their fallen warrior. I gawked at the display, "That's...pretty brutal."
+
+Florence typed into his status, "Noted, casual cannibalism. Fascinating."
+
+A familiar body rolled up to us. Turning before it spoke out, I raised a hand, "Yo, Reason, it's good to see you again."
+
+Reason turned from a ball into a snake shape, slithering the last bit of distance to us. Two large, lumbering guardians trailed beside her. She sent out some kind of pheromone mist, and the guardians bowed to her in reply. They stayed behind her while Reason came up and spoke out in our language,
+
+"You infiltrated my domain via the surface. Interesting. I would've estimated our warp would've been a simpler point of entry, but perhaps you did so to throw Plazia off your trail."
+
+Our group stared at Helios, who shrugged, "I never said that warping was necessary. I merely mentioned I could."
+
+Amara stepped forward, and the guardian slimes beside Reason gurgled out with sizzling spit. The Razor queen swelled up beside her guardians, getting close to our friendly eldritch. Reason chimed, "You are not of the Harbinger's kin or any sentients for that matter. You are the one who walked about at the party."
+
+Reason shivered, "Is she your pet, Harbinger?"
+
+I sighed, "No, she's not. She's our technician."
+
+"Oh. I never realized an eldritch could be technical."
+
+Amara hissed at the arena behind us, "And I never estimated that races could be more primitive than even the lowest eldritch. We are both surprised this day."
+
+Reason's inner green markings trembled, "Those are my children. Speak well of them, or I will allow them to speak poorly to you." The guardians beside her presented their claws for Amara's viewing. Reason grumbled, "And they prefer speaking with action."
+
+I raised my palms, "We're not here to fight. You know that."
+
+Reason kept her form near Amara as a tense moment passed. My helmet's aura flared red before mana oozed off my frame,
+
+"Unless you'd like to, of course."
+
+Reason shifted away from the energy before shivering, "No...Not at all. We'd rather not."
+
+Florence pointed at the colosseum behind us, "They seem as though they'd love to. Perhaps an explanation is in order?"
+
+Reason coursed her way along the floor, her form stretching into a thin line before collecting back into a more giant ball. Crystalline shards pierced and submerged into her skin as she gazed at two more of the blue guardian's battle.
+
+Reason pointed with a see-through claw, "They battle for mating rights with me. The strongest of them holds the right to create our next brood. After we have mated, I devour them to fuel the next batch of offspring."
+
+Amara pointed her hand at the battle, "That seems brutal and unnecessary, hm?"
+
+Reason laughed with a cutting edge in her voice, "No, it is the opposite. Eldritch devour each other for their own gain. We do so for a different reason. You see, there is no greater honor than bringing the colony to greater heights. Many methods exist to do so, but few are as pronounced as strengthening the next generation of our young."
+
+Reason spread herself thin, making herself appear enormous, "But that kind of sacrifice is lost on your kind, isn't it? Perhaps that is why you believe it unnecessary, hm?"
+
+Amara scoffed, "The eldritch fight to uncover who is the strongest amongst us. Look to Plazia if you must remind yourself of how effective that strategy may be."
+
+I turned to them both, "We get it. You hate each other. Deal with it until we leave."
+
+Florence shook his head, "Gah, right as it was getting interesting."
+
+Helios spread his arms, "Could we, perhaps, be pointed to the direction of our mission? Is there a colony that is closer to Plazia's home, or is this the nearest one? I'd like to finish this quickly if at all possible."
+
+Reason recollected into a ball, her form trembling before she laughed. The snickering expanded and echoed through the cavern, many of the walls rebounding it into a maddening cacophony. As her outburst abated, Florence pulled back some,
+
+"So...what does that creepy laugh mean, exactly?"
+
+Reason rumbled like thunder in the distance, "There is no colony where you will not find Plazia."
+
+Helios tilted his head, "Does Plazia carry that many spies?"
+
+With a crystalline claw, Reason pointed down, "No. Plazia is the ground beneath us."

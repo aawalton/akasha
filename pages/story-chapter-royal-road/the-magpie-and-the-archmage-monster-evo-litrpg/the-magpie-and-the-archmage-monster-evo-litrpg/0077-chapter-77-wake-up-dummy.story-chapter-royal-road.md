@@ -1,0 +1,177 @@
+---
+id: ae103bcc-17cc-5dd3-9fa2-0bc3154f12b2
+page-type-slug: story-chapter-royal-road
+title: "Chapter 77 – Wake Up, Dummy"
+slug: 0077-chapter-77-wake-up-dummy
+partOf: the-magpie-and-the-archmage-monster-evo-litrpg
+position: 77
+ownLength: 2044
+unit: words
+publishedAt: 2026-01-28
+link: "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2986841/chapter-77-wake-up-dummy"
+royalRoadId: "2986841"
+---
+
+Liora didn't know much about the king fish which was readily approaching her from the marshy depths below. But she did know one thing. It didn't like poison.
+
+As the air bubbles increased in intensity, Liora hurriedly unleashed her mana and focused on combining two skills—Wind Blast and Poison Shot. They resisted at first since Liora wasn't sure whether she was supposed to imagine her poison spraying in a multitude of shots or just create a giant poisonous cloud.
+
+However, when she imagined a cloud, it felt easier to pour mana, so she stuck to the image and unleashed poison all around her, both in the air and in the water.
+
+[You've successfully formed a skill <Poison Fog>.]
+
+"What the hell?!" She heard Cee exclaim.
+
+Liora wasn't worried about the spider. She could jump away to safety at a moment's notice. Unfortunately, the Poison Fog wouldn't affect the python, but this should save Liora from the nasty fish.
+
+She wasn't a moment too late with her attack because just as the Poison Fog dyed the already murky water a tinge more purple, she could see a giant gaping mouth swimming right at her from below.
+
+For a second, Liora's heart stopped, and she thought she would be eaten. She considered withdrawing Renir and throwing him away to safety, but in the split second, she managed to keep enough wits to realize that being stuck on the bottom of the swamp for all eternity would be a more miserable fate than just dying.
+
+She flailed her wings like crazy, using them as makeshift oars to pull herself closer to the mangrove willow. But thankfully, the gaping mouth never reached her. The fish must have swallowed a good chunk of poisoned water, and swerved away from Liora instead trying to smack her with its tail.
+
+It narrowly missed her and created a wave that pushed her closer to the tree roots. Liora grabbed onto one with her long legs and pulled herself up, quickly hopping higher.
+
+But in her haste, Liora had forgotten about the python lurking in the tree. At some point, it must have gotten free of Cee's webbing. Now it had lowered its head from the higher branches and was aiming its giant open maw straight at her. Liora shot Air Slash straight into its mouth out of pure instinctual panic.
+
+Her Air Slash normally wouldn't be considered a strong move. Not against a python that was several likely in a higher evolution tier altogether. Yet against the inner mouth of the python, it had proved very effective, cutting a deep, painful gash in its throat.
+
+The python hissed and curled up violently in pain, blood dripping from its mouth. At that point, Cee jumped onto the python's head and began to bind webbing around it. Before it could do anything about Cee, she was already done and jumped away, leaving the python with a bound muzzle, thrashing wildly and trying to break free.
+
+Liora didn't sleep on the opportunity. She jumped from branch to branch, still too wet to fly, and Lunged at the python whenever the opportunity presented itself. Just because she couldn't fly, it didn't mean she would just lie down and do nothing.
+
+Cee, too, would occasionally join in biting the python with her mandibles. It took a long while and involved much frantic hopping, but eventually they received a notification.
+
+[You've defeated <Marsh Python – Level 32>. Experience gained.]
+
+[You've reached Level 29.]
+
+Liora suspected that it was actually loss of blood from the internal injury that defeated the python, not their pathetic pecks and bites against its thick hide. But a win was a win nonetheless.
+
+"Holy shit! That was intense," Cee exclaimed, poking at the dead python that was hanging in the branches of the willow tree. Looking closely, it appeared to have been tangled up in its tendrils, parts of its hide torn off and bleeding.
+
+Liora and Cee were used to avoiding the sticky tendrils, but it appeared that the python lost all its common sense once Liora injured its throat.
+
+"I thought that stupid fish would eat me," Liora admitted, looking at the purplish water. The king fish was gone now, and unfortunately, still alive.
+
+Poison definitely was its weakness, but it hadn't been enough to outright kill it. It was a shame, but it was a good thing to just get out of the encounter alive.
+
+"I thought the python would eat you," Cee said, then gasped. "Quickly! Absorb its mana into Renir!"
+
+Liora gasped, having completely forgotten their original goal in the mayhem. She withdrew Renir and then activated Mana Conversion, drawing the remaining mana out of the dead python. She once again accidentally drew some into herself, but managed to redirect most of it to Renir.
+
+The gem regained more and more color. Liora looked at it hopefully, expecting him to talk in his annoying voice yet again. But the gem remained silent.
+
+"It wasn't enough…" Liora slumped, then angrily cawed at the gem. "I got my feathers wet for your sake! Wake up already!"
+
+"There, there. I can see we're making good progress. Also, we can collect all the glimmerstones from this python now," Cee pointed out.
+
+"Let me do that real quick," Liora said, hopping onto the python's body.
+
+Her Treasure Sense went off, and she began digging out the glimmerstones. One, two, three, five, ten, twenty. Twenty glimmerstones were hidden within its body, which she didn't mind sharing with Cee. Not a single monster before had so many glimmerstones in it.
+
+"This is amazing! I can afford that Shadow Walk skill now!" Cee cheered, and a moment later disappeared into the shadows.
+
+Liora looked around, searching for her, but couldn't find the spider. Moments later, she reappeared right behind Liora, letting out a soft "boo".
+
+"Don't do that! I almost pecked you," Liora huffed, shaking the marsh water from her feathers onto Cee.
+
+"Ewww! Don't spray sewer water on me!"
+
+"That's what you get. But couldn't you have gotten the Shadow Walk or whatever skill by training it?" Liora asked, shaking more of the muck out of herself.
+
+"Training it? You can't train a skill you don't have yet," Cee said, dipping into the shadows again and emerging some distance away. "The range of this skill is quite short though…"
+
+"No, but I mean you can try to do the skill, and then the System will give it to you if you replicate it enough. That's how I've gotten most of my skills," Liora said. "Lunge, Mana Conversion, Air Slash."
+
+"Wait… You didn't buy them at the skill shop?" Cee looked at Liora in shock, blinking all of her eight eyes in disbelief.
+
+"No. I haven't spent a single glimmerstone in the skill shop. The only thing I ever bought was the Inventory, but it was necessary so I could store more treasures," she puffed out her chest proudly, while preening the moisture away from her feathers.
+
+"You can buy Inventory?" Cee said in shock. "How much?"
+
+"Fifty glimmerstones, if I recall correctly."
+
+"Fifty?! That is daylight robbery!" Cee shrieked.
+
+"I know, right! Finally, somebody understands!"
+
+"But wait… If you haven't spent any glimmerstones on the skills, then where have you been putting them?" Cee asked.
+
+"Hoarding them, of course. I need them," Liora said. She decided not to tell about her Glimmerlust trait. While part of her definitely wanted to brag about the boost she had, she didn't reveal that she had a trait that powerful. Not to mention that she didn't want to say how many glimmerstones she had either.
+
+Fellow reborn human or not, she didn't know Cee well enough to entrust her with such information. Actually, it might be because she was a human that Liora didn't trust her. They were quite good at backstabbing each other.
+
+"Hoarding? Is this because you're a magpie?" Cee said, looking a bit disappointed.
+
+"No, because it's a waste to spend them on skills when you can learn them on your own."
+
+"I highly doubt it's so easy to learn every skill you want on your own. Especially the stronger skills."
+
+"You can always combine skills if you want to have a stronger one," Liora shrugged.
+
+"Wait, what? Combine?" Cee cocked her spidery head to the side.
+
+"You don't know, do you?" Liora grinned.
+
+"No?"
+
+"Let me tell you all about skill combining, my young disciple! Chak-chak-chak!" Liora let out, feeling happy to teach something smart to Cee.
+
+Liora and Cee spent some time talking about skill combining and how it worked. Liora did her best at explaining, but Cee unfortunately wasn't quite able to combine her skills. Perhaps it was that the skills weren't suited for combining. How does one combine webbing skills with Shadow Walk?
+
+Image was crucial when using and combining skills, and if Cee couldn't imagine what her combined skills could look like, then she couldn't expect System to understand what she wanted. In the end, Liora said that Renir would be much better at explaining it, and the two of them set off to hunt more potential mana targets. As soon as Liora's feathers were dry.
+
+They, however, didn't risk going for another python. They decided that it was enough high-level targets for one night and instead hunted for cranes and dragonflies, converting mana slowly and absorbing it into Renir.
+
+[Your skill <Mana Conversion> has reached [Expert] level.]
+
+"Just how much mana do you need?!" Liora complained, after converting yet another crane's worth of mana into Renir. "Mana Conversion has reached Expert level from all the converting I've been doing."
+
+"I dunno, but it looks to me that the gem hasn't changed much," Cee said, scuttling closer to Liora and looking at Renir's gem. It was shining brilliantly in the moonlight, golden lines running through his body.
+
+"He looks normal. I'm not sure what's wrong…" Liora muttered. "What if he never awakens…"
+
+"Your rock friend means quite a lot to you, doesn't he?" Cee asked.
+
+"I mean… He's my most precious and beautiful treasure," Liora responded.
+
+"Sure, but if it was just about the material worth, then you wouldn't really care whether he talked or not."
+
+Liora thought about it. Previously, she had wished that Renir would shut up and she could just enjoy his brilliant beauty. But for some reason, that had changed at some point. She didn't want Renir to remain forever silent.
+
+"I guess he does mean a lot to me. I'm not sure why."
+
+"Does there have to be a reason? He's your friend. Friends care for each other," Cee said.
+
+"Yeah. I suppose you're right. Renir is my friend," Liora muttered. "Please, wake up, you dummy…"
+
+"I swear if I could cry right now, I would…" Renir suddenly spoke up, startling both Liora and Cee. She nearly dropped the gem into murky water, barely able to keep hold of him with her talons.
+
+"You've been awake!" Liora accused.
+
+"Holy shit! Don't do that!" Cee angrily moved her mandibles and flailed her front legs.
+
+"Well, I haven't been awake for long. It's been a bit difficult to understand what's going on. You've been flying about taking me out and putting me back into Inventory. This weird talking spider was with you. I decided to lie low and understand what was going on first. But then you got all sentimental. Awww…. I knew that you cared, little thief!"
+
+"Go to hell, Renir!" Liora cursed and promptly stashed him back in her Inventory.
+
+Don't be like that, Liora! I really appreciate—
+
+No! Shut up, shut up, shut up! You didn't hear anything. I'm not talking to you!
+
+But—
+
+No! I swear to God if you talk to me now, I will throw you into the water.
+
+Renir did shut up, but she could still feel the amusement coming out of him. It annoyed her to no end. How dare he listen in on their conversation like that?!
+
+"You're rather shy, aren't you, Liora?" Cee snickered.
+
+"No! He doesn't deserve any attention. Let's go train. I want to evolve and get out of this swamp," she huffed.
+
+"Agreed. If you become a bigger bird, can I hitch a ride on your back?"
+
+"Sure."
+
+So, can I ask about the spider yet?

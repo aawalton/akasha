@@ -1,0 +1,381 @@
+---
+id: 2eaf52f8-8f8d-594d-876e-70048477e97c
+page-type-slug: story-chapter-royal-road
+title: "145 Let Loose"
+slug: 0104-145-let-loose
+partOf: the-new-world
+position: 104
+ownLength: 3858
+unit: words
+ownProgress: 3858
+publishedAt: 2018-09-26
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/293903/145-let-loose"
+royalRoadId: "293903"
+markedReadAt: "2026-06-29T21:24:26.646Z"
+---
+
+I shrugged, "Yeah, sure."
+
+Torix pointed upwards, "Let's go up to the fourth floor then."
+
+I turned towards Althea, "How many floors are there?"
+
+She raised a hand and counted on her fingers, "There's five. They're called the residential, tech, magic, logistics, and sky floors. They're pretty self-explanatory honestly."
+
+Torix nodded, "The fourth floor's name is where we'll discuss plans and hold meetings. That's where we're headed next."
+
+I gestured forward, "Lead the way."
+
+We walked out of the dueling area and through the study. After reaching a series of elevators on the floor, Torix waved a hand at them,
+
+"The first three floors are public access. The fourth and fifth floor require clearance."
+
+Two of the elevators carried runic inscriptions along their edging. Laminated with glass, the runes powered the lift. The inefficient etchings required quite a bit of mana. Torix walked up, placing a palm on the doorway,
+
+"The mana requirements act as the preventative measure."
+
+The door slid open, and we all walked in. After elevating up, we walked out of the runic doorway. As we walked out, the lack of light stuck out. I turned around, glancing at the supporting pillar. All across it, a dozen plasma screens covered the column.
+
+They streamed the view of many scouts. Most of them were out in nature. A few of the screens showed our agents visiting other towns. They acted as ambassadors for my guild, spreading the word about our stronghold. Considering we had weaponry and knowledge, the offer must be tempting.
+
+Torix nodded at the structure, "This keeps us up to date on the comings and goings of scouts. It allows us to better organize them and create an up to date map of our surroundings."
+
+I frowned, "This seems like a bit too much surveillance."
+
+Torix shook his hand, "Do you see the dark screens?"
+
+I nodded. About 30% of the screens were blank.
+
+"Those screens indicate that a scout has shut down their video cameras. Most scouts opt into the recording process for safety reasons. It's much easier to send pre-emptive help in real time, something which is otherwise impossible."
+
+"Oh..." I cupped my chin, "How are the other towns doing near us?"
+
+Althea chimed, "I've seen a lot of it myself while flying around. Most towns are really well off. So far the average level is about 80 at this point. People have organized town governments and are even fighting for dungeons."
+
+She shook her head, "I couldn't believe it at first, but...yeah, humans were killing each other."
+
+I shrugged, "Eh, if anything, it's a good sign."
+
+Torix nodded, walking away, "I agree entirely. This means that humanity isn't struggling against normal eldritch growth. Quite the opposite."
+
+As Torix walked out, I observed the rest of the room. Circular desks lined the middle pillar, much like the study below us. The difference was that almost everyone used an obelisk. Situated inside spheres of white, they operated within a digital medium.
+
+Compared with the previous floor, this one oozed data, charts, and numbers. The last level oriented itself around experience, emotion, and magic. The granite floor and jet black walls emphasized this shift. It closed the room off as if the only way out was with a connection to outside.
+
+Torix pointed at the various desks, "These members of the legion handle distribution of income, resources, and logistical difficulties. Having workers with independent thought helped more than I imagined it would in that regard."
+
+Torix flicked his hand in disgust, "No matter how long I attempted training my summons, such tasks were beyond them. These men and women took to the challenge with gusto by comparison."
+
+We walked past the series of desks. Rooms lined the wall like in the previous floor. These rooms had different purposes, however. Meeting rooms, personal offices, and summoning ritual rooms were placed here. Out of those three kinds of places, one didn't fit.
+
+I pointed at the conjuring room, "Uh, why are personal offices and monster summoning rooms right beside each other?"
+
+Torix raised a hand, "Excellent question. What you see below is where the most magic takes place. Unlike most magic, however, summoning is more of a science. Instead of 'feeling' your way through the spells, you must act with precision."
+
+Torix spread out his hands, "That kind of procedural thinking aligns better with data sciences than actual magic. Most of the summoners under my tutelage agreed with me."
+
+Althea jumped up while spawning wings. She flapped them beside me, whispering in my ear, "Trust me. Torix is an expert at making magic boring."
+
+I snickered with Althea while Torix rolled his eyes,
+
+"Laugh if you must. Summoning must be performed with great restraint. Otherwise, you may bring over something that is more than you can chew. Unlike you, the monster will have no qualms or worries with chewing you."
+
+I nodded, "That makes a lot of sense."
+
+Torix gestured at one of the offices, "Now that you've seen the floor, for the most part, let's discuss our plans in the meeting room."
+
+We walked into the meeting room, the doors sliding on the ground as we opened them. As they closed, the air sucked into place. This made the space airtight and soundproof.
+
+Around us, numerous blackboards lined the walls. A square desk sat in the middle of the place. At the center of the office, a three-dimensional projector was waiting to be used. In front of every seat around the table, a touchpad was present. Beneath that, a notebook was available with pens.
+
+Torix sat at one of the chairs. Torix pointed at the other chairs, "Go on and make yourself comfortable."
+
+I walked over and sat down. Althea sat down beside me. Torix opened his status screen, sending a series of messages. Althea sighed, and I raised an eyebrow,
+
+"What messages are you sending?"
+
+Torix raised his wrinkly eyebrows, "Oh, that? It was a message to Hod's caretaker. You see, Hod rarely if ever responds to my inquiries. I gave him a responsible assistant who will help get him here on time. I send her the messages rather than Hod for obvious reasons."
+
+I chuckled a bit before Torix raised a finger, "As much as I despise admitting it, Hod is a valuable asset in discussions. His perception is by far the highest among us. His intuition gives him answers to the most difficult questions."
+
+The meeting room door opened. A large, female Eltari tossed Hod into the room and slammed the door. Torix steepled his fingers, grinning with glee,
+
+"Oh, how I do enjoy her way of handling things."
+
+Hod scrambled to his feet, "But Hod having fun with lady friends."
+
+He turned towards us, several kiss marks and scratches on his metal beak. I turned towards Althea,
+
+"Are those...human lips?"
+
+She grimaced, "By Schema...I think so."
+
+Torix narrowed his eyes, "I see your slaying of Yawm has assisted in your love life."
+
+Hod shook his head, "Hod already popular with ladies. Ladies attracted to strong, handsome, and smart male. Hod think ladies attention only natural."
+
+Torix's blue fire eyes flared orange, "As natural as my disdain for you."
+
+Hod walked up, flopping into a seat, "Hod wonder what Dry Man favorite sandwich is?"
+
+Torix's eyes narrowed, "Why do you ask?"
+
+Hod raised a finger, "Hod wonder why as well. Hod already know Dry Man's favorite sandwich. Peanut butter and jealous flavor."
+
+Althea and I sat flabbergasted for a second. The joke was so dumb and so meandering that I didn't get it at first. When we did, Althea and I bust out laughing.
+
+Torix looked at us, "Oh hah hah. Very humorous."
+
+Hod nodded at him, "Hod agree."
+
+Torix pinched the bridge of his nose. He snapped his fingers, dimming the lights of the room. I turned towards him,
+
+"Where's Kessiah?"
+
+Torix looked up at me, "Oh, her? She's training soldiers here."
+
+I looked at Althea then back at Torix, "Why not include her in the discussion?"
+
+Hod looked up, "Hod know why. Lady Friend #2 not want to meet Harbinger."
+
+I looked at them both, "What did I do?"
+
+The room went silent. Torix sighed, "Hmmm...Well, Kessiah is as you know, a remnant. Korga Ryker was actually one of her childhood heroes. While you didn't kill him per say, you didn't save him either."
+
+I scoffed, "So it's my fault that Yawm killed him? That seems kind of ridiculous."
+
+Althea put a hand on my shoulder, "I talked with her. She already knows it's unfair. Kessiah's just getting past it is all. Please, give her some time."
+
+I looked at Althea. I sighed, "Yeah, I get that."
+
+Althea hugged her arms around my waist, "Good."
+
+Torix leaned his elbows on the desk in front of him, "Now let's begin our discussion."
+
+Torix gestured his hand outwards at everyone, "You all saw the quests granted to us, I presume?"
+
+We all nodded.
+
+"Excellent. I'll write the tasks down for reference."
+
+Althea and I sat facing Torix while Hod sat on his own side of the table. Torix flicked his fingers, a piece of chalk writing on a blackboard. On the bottom of the table with no one sitting, Torix wrote out the quests gained from Yawm's death.
+
+They didn't have the sentinel rights or Fringe Walker quest lines. Torix did have the unknown status and bounty quests though. They were the quests up for discussion.
+
+Torix looked at everyone with his hands spread out,
+
+"Of course we should finish these quests as a team. We can all agree on that?"
+
+We agreed with curt nods.
+
+Torix pointed at the quests, "I am of the opinion that we should handle our bounty questline first."
+
+I raised an eyebrow, "Why?"
+
+Torix waved an arm at the entire room, "Our bounties put targets on our backs. This compounds itself with our unknown status. Lawful organizations, in particular, will aim to gain favor with Schema by eliminating us."
+
+He raised a single finger, "But if we attack an illegal organization first, then our endangerment doesn't increase with our bounties. This makes attacking the criminal organization the least risky endeavor."
+
+That line of thinking fell right in with what Torix usually suggests. Torix valued safety above all us. Time or efficiency didn't matter since he was effectively immortal.
+
+Althea leaned against the table, "Why wouldn't an unlawful organization want to get our bounties too?"
+
+Torix leaned back into his chair, "They've already shown that they care little about Schema's favor. Why would that factor change?"
+
+Hod spread his wings, "Hod thinks criminals hard to find."
+
+I leaned forward in my chair, "Good point Hod. How are we supposed to find these criminal organizations without the help of locals?"
+
+Torix waved off the concern, "I'll gather intel and Althea will scout for us. I assure you, discovering their location will not be an issue in the slightest."
+
+I tapped the table. My finger echoed pit like someone dropped a fridge with each tap. I stopped, the sound distracting me.
+
+Torix's idea was safe, but it didn't seem practical to me. I narrowed my eyes, deep in thought. For some reason, my mind wandered towards Yawm. Before we killed him, he didn't just want to escape Earth. He wanted his followers back too.
+
+I called his strategy 'layering.' You could also call it killing two birds with one stone. In his case, Yawm's greed and arrogance ruined his plan. Learning from him was a good idea though.
+
+I leaned onto my elbows and steepled my fingers. I tried negotiating like Yawm for a second,
+
+"How about this instead. We make contact with some Giess, then we offer to take care of a criminal or organization as a gesture of good will?"
+
+Torix's eyes opened wide as I continued, "We can bridge the gap between our worlds, build our relations with them, and we can finish both quests-" I snapped my fingers,
+
+"Just like that."
+
+Torix leaned back in his chair, "I quite like this scheme of yours."
+
+Althea raised an eyebrow at me, "Won't it be crazy dangerous walking into some alien city with our bounties so high?"
+
+I raised a finger, "Maybe, but I doubt it."
+
+I placed a palm on the touch screen in front of me. I looked at Torix,
+
+"How do I use this thing? I think it'll help me make my point."
+
+Torix sat up, tapping his console,
+
+"Oh, the hologram projector. Ah yes, it works like your obelisk does. It integrates with your interface, allowing you to project your thoughts into reality. It takes a bit of finagling, but most get it within a few minutes."
+
+Torix flicked his fingers, dimming the lights. The projector opened, showing a galaxy using shades of blue. Tiny, microscopic lasers beamed up, building the image in real time. After making a few rocks and random foods, I developed back up the galaxy.
+
+I pointed at a random location,
+
+"See this. Let's say this is Earth, right?"
+
+We closed in on it. I moved one hand across the image. A blue wave passed over Earth, "Let's say this is Schema's, er, assimilation range."
+
+Torix raised an eyebrow, "What?"
+
+I waved my hand back and forth, "Like, it's a line showing where his influence is. He's always expanding outwards right?"
+
+Torix nodded. I continued, "So Earth is relatively new. Geiss is the nearest planet to us that has life."
+
+I pointed at where it might be, "Based on Schema's rate of expansion, there's no way that Geiss has been around for a long time under Schema's system. That means we won't be dealing with a bunch of level 12,000 Breakers."
+
+I leaned back against my chair, "At most, we'll be contending with people at level 3,000 or so if I had to guess. Someone should fact check me there though."
+
+Torix waved a finger, "That's quite correct. Geiss has been within Schema's system for about twenty five years or so. The highest level sentient there is level 9,000, so it lacks Breakers, Fringe Walkers, etcetera. Of course there may be some ancient creatures there that surpass that barrier. We won't likely run into them given our mission."
+
+Hod pointed at himself, "Hod kill Yawm. Yawm over level 14,000. Hod scare off fighters."
+
+Torix rolled his eyes, "We would all scare off anyone looking for a fight."
+
+Hod waved his hand at Torix, "Hod think Dry Man underestimate Hod. Hod intimidating."
+
+Hod raised his wings, flexing his arms. They were like toothpicks, thin and wiry. His derpy eyes and thin shoulders didn't help either. Althea giggled at Hod, and I let out a smile,
+
+"Make sure you intimidate them in your shade form. I feel like that would work better."
+
+Hod squinted his eyes at me, "Hod think that not necessary." Hod struck a disco pose, "Hod sight to be seen after all."
+
+Torix laid his face into his hands. Althea snorted a little bit as she tried suppressing laughter. She looked away,
+
+"He's killing me. By Baldowah I love Hod."
+
+Torix lifted his head and exhaled, "Outside of that concentrated dose of idiocy, I agree with the points made."
+
+I clapped my hands, "Then that's what we'll be working with. Sound good?"
+
+Torix nodded. Althea shrugged, "I guess it's a good plan. We may need to flesh it out later though."
+
+I weighed my hands back and forth, "It's a work in progress. I think of it like this is the skeleton of the plan."
+
+I pulled with a hand, making Ajax float towards the center of the room. The holographic projection dissipated, and the lights brightened. Althea pointed at Ajax, "So uh, what's the plan with him?"
+
+Torix frowned and interlocked his fingers, "Unfortunately, we've had numerous issues with Ajax."
+
+I shrugged, "I figured something was up. You didn't free Ajax in the fight versus Yawm."
+
+Althea leaned against one of her hands, "Yeah. There's a pretty good reason for all that."
+
+Torix nodded, "On numerous occasions, we found Ajax acting bizarre than dangerous. It began benign enough. A few legionnaires found Ajax torturing eldritch. After that, he broke down and attacked several of our mages."
+
+Torix weighed his hands back and forth, "He killed them, but I couldn't reprimand him. Ajax's abilities are...impressive to say the very least. Yawm kept him in check with extreme methods. Without any limiters on his behavior, however, I suspect Ajax will spiral further out of control."
+
+I looked at the porytian suspended in the green sphere, "Damn...What else did he do?"
+
+Torix sighed, "He injured Kessiah and Hod at one point."
+
+Hod raised a wing at me, "Hod still believe Hod assaulted!"
+
+Torix sat up in his chair, "For once, I agree with the bird. Ajax overreacted to one of Hod's 'hoddities.'. Kessiah still has the scar on her face."
+
+Torix tapped the table, "So several counts of murder, torture of animals, and numerous assaults. In my eyes, Ajax is obviously untrustworthy."
+
+I frowned at him, "Jesus. I thought he wasn't so impulsive."
+
+Althea frowned, "Yeah, me too. You have to think about it though. He joined Yawm. He let Yawm experiment on him for more power. There's no way he thought that through."
+
+Althea spread out her hands, "For real though, the way he joined us was the same way. He didn't really help at all versus Yawm. He just jumped in on a whim. If you think about who and what Yawm is, Ajax's plan wasn't very foolproof."
+
+I leaned towards Ajax, "Yeah, not the sharpest tool in the shed I suppose. He's even killed our own. What do you think is making him act like this?"
+
+Torix swished a hand, "I hypothesize that the eldritch energy within him has corrupted his mind." Torix leaned back into his chair, "Either that or he's just a genuine psychopath."
+
+Torix pressed his chest, "That's coming from me, mind you."
+
+I scratched my head, "Well shit. You know it's bad when the lich is dishing out moral judgment. Why did he attack Kessiah exactly?"
+
+Torix rolled his eyes, "She made a pass at him."
+
+I creased my eyebrows, "The fuck? Really?"
+
+Althea squinted her eyes at Ajax, "I'm sure Ajax has plenty of morning wood to go around."
+
+I turned towards Althea, my jaw slack. She lifted herself up off the table, looking at everybody, "What? I've been reading human novels on my downtime. I can make jokes too."
+
+I scoffed, "Yeah, of course. The joke just surprised me is all."
+
+She pointed at Ajax, "The point is, he sliced half her face off for making a pass."
+
+I glared at Ajax, "Ok, so no one mentioned the severity of the wounds."
+
+Torix shrugged, "What does it matter? With healing magic, even a fatal woun-"
+
+I snapped, "He used magic on her. Dimensional slicing magic. If he's just throwing that shit around, then he's dangerous as hell. Period."
+
+I shook my head, "You guys are out of touch with this kind of thing. To me, that's way over the line."
+
+Torix tilted his head, "Are we? Hmmm, I suppose we could very well be. After seeing you be torn apart for sparring, our sense of danger may be blunted."
+
+I pointed at Ajax, "Then we kill him?"
+
+Althea shrugged, "Yeah, I'd say so, but how? Ajax can teleport and phase through dimensions." She waved her hands around, "He just blips in and out."
+
+I grimaced, "Oh yeah. That's tough to beat."
+
+Torix leaned toward me, "What about the technique you used to crack open the sphere holding you? Perhaps that may work."
+
+I pushed myself up, "That's a good idea. I gotta try and make it happen again though. It's going to take a second."
+
+Torix stood up with me, "Let's go and try this within the fifth floor. It better suits our purposes."
+
+We walked out of the room. After reaching the final elevator, we reached the last floor. The doors of the lift opened, revealing beams of sunshine. The entire level was a garden, a glass roof letting in light. Inside it, fruit trees, crops, and all kinds of blooms grew.
+
+Torix spruced the greenhouse up with all kinds of exotic plants. Flaming flowers, burning buds, and reflective leaves, every type of plant grew here. Handlers of the crops walked around, tending to them. Some of them wore mages robes. Others wore power armor.
+
+Torix waved his hand at all of them, "Here we grow the food and alchemical ingredients for the refuge. As you may have noticed, both mages and technicians benefit from the resources."
+
+I took a deep breath, the air sweet,
+
+"Yeah, it's pretty damn nice."
+
+We walked forward, towards the most open area inside the hollow mountain. Using a portion of the open air here, we stood near the center of the expanse. With soft earth beneath our feet, Torix pointed up,
+
+"Here's a large, open area for you to illustrate your technique." He turned towards everyone else, "If anyone would like to see this event, do shield yourself. You've been warned."
+
+I charged my mana. The energy built into my blood and veins. I struggled to keep it in, sparks of the energy firing outward. I gritted my teeth and clasped my hands into fists. I shook, and after a minute, I hummed with turbulence.
+
+Torix raised an eyebrow at me, "What is your mana generation now?"
+
+I grumbled, "Nine million a minute."
+
+Torix took a step back, gasping in open shock,
+
+"That's...that's over a hundred times my own."
+
+I grinned, "Specialization is king."
+
+I kept focused, blocking out his voice after that. Maintaining mana of this magnitude required intense concentration. After five full minutes, I resonated with my own energy. It dealt damage to me, so I raised a hand at the ceiling. With absolute fixation, I compressed a gravity well.
+
+With all the mana discharging, a dense well of gravity formed. Air from all around the room sucked inside like I tore open a hole in a space shuttle. Loose leaves, bits of dirt, and mulch funneled into the single point. A moment later, the gravity well collapsed.
+
+A shockwave ebbed outwards, shattering all the glass above the room. The metal supporting the glass bent outwards. Dust and rock ricocheted like shrapnel, sinking inches into stone. Trees uprooted. The spell left a crater underneath the attack.
+
+We all gasped at the sheer might of the implosion. A notification appeared in the corner of my vision.
+
+Unknown skill unlocked! Gravitational Singularity(lvl 1) unlocked! 500 tree points rewarded for unlocking hidden skillset.
+
+Gravitational Singularity(lvl 1) - You wield the laws of nature, akin to a god. Allows the user to create singularities.
+
+From behind us, Amara roused up from her comatose. She pulled a rock out of her arm and gasped,
+
+"Is this how you choose to wake me?"
+
+She looked around at the destruction,
+
+"Did Yawm do this? Were you all that idiotic to let him live?"
+
+She looked up at us, and we turned towards her. The others shook their heads, pointing at me. I scratched the back of my head,
+
+"Whoops."

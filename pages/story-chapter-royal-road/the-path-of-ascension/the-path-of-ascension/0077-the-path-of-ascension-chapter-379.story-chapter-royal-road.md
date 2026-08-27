@@ -1,0 +1,293 @@
+---
+id: 3da8a7ee-a7f5-5848-8328-e0ca4b5ec99a
+page-type-slug: story-chapter-royal-road
+title: "The Path of Ascension Chapter 379"
+slug: 0077-the-path-of-ascension-chapter-379
+partOf: the-path-of-ascension
+position: 77
+ownLength: 5304
+unit: words
+ownProgress: 5304
+publishedAt: 2025-01-13
+link: "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/2008235/the-path-of-ascension-chapter-379"
+royalRoadId: "2008235"
+markedReadAt: "2026-06-29T19:20:19.352Z"
+---
+
+Chapter 379
+
+Ra’thala had never minded fights, spars, battles, or even death feuds where only one side could walk away. They were a part of gathering power and influence. Friendly fights could also be a good way to learn about someone, and these Ascenders seemed interesting.
+
+If he was understanding the bits and pieces of information he had picked up correctly, these people were the strongest fighters in this Realm at their cultivation level. That would have been reason enough to fight them in normal circumstances, but Ra’thala wanted to see for himself just how much his power had increased with his arrival to this Realm. It had felt like a complete fundamental reworking of himself in the moment of his Ascension, but he had nothing to base the feeling off of.
+
+Another part of him wanted to see just how well his Celestial Guides stood up to the absurdly simple method these people used. It was undeniable these people were more advanced in many ways than his own, but it would be foolish to extrapolate that to mean everything about them was more advanced. Their way of guiding essence might work, but it was the epitome of simplicity, to the point that he couldn’t believe it was effective. Everything he knew said that such a system couldn’t be very powerful. He also suspected that they had similar thoughts, but neither side really had a frame of reference until they were able to test things.
+
+The Librarian seemed certain that their peoples had used similar methods before, but that time seemed so long ago that it was of dubious authority. And the best way to find out was to throw themselves at each other and battle it out.
+
+After he agreed, he felt the world warp around them, and once more he was pulled across the stars.
+
+This being the second time he had gone through this, he felt that he could have resisted the movement with either his Sky— Domain, or even a few of his skills, which gave him a degree of security being in a foreign Realm with still unfamiliar people.
+
+His gut told him that these people weren’t bad, but he was still firmly in the trust but verify stage he was in anytime he went to an unfamiliar location or world.
+
+Even the strongest people could get caught off guard if they weren't careful.
+
+Looking around, he found himself in an area not too unfamiliar from what he was used to, which both caught him off guard and made him feel a bit more at ease. There were only so many ways to safely fight in an inhabited environment, and it seemed their peoples agreed on wide open areas protected by imbuements— skills, or no, enchantments, Ra’thala was pretty sure that was the correct translation.
+
+He would have preferred a layer of sand to coat the ground, but the rough-cut stone would act as fine footing should flight be disabled.
+
+The six started bickering before the fox-featured woman, Aster, if he remembered correctly, turned away from their huddle to where he stood waiting.
+
+“As the guest who everyone wants to fight, how do you want to do this and who do you want to fight first? We can tell you a bit about ourselves first if you want to make a more informed decision, or we can go wild and just brawl randomly.”
+
+Ra’thala considered that for a moment before clenching his fist and feeling even more power than he had had before he ascended.
+
+That gave enough confidence to just brawl but caution prevailed. “I understand this Realm has a great peak of power and this world feels firm, but is there any risk of our fighting damaging things, each other, or bystanders?”
+
+All of them assured him that wasn’t possible nearly on top of each other, so Ra’thala decided to follow their lead.
+
+“If so, I’m fine with fighting any of you. One on one seems acceptable as a friendly spar. As for my opponent…”
+
+Ra’thala let his eyes wander over the people who had picked him up with a critical eye as he had done previously.
+
+Allie, or Ascender Shadow, caught his eye once more. Her skin being a tapestry of stars helped in that, but he was starting to get used to it. Either way, she wasn't an ideal first opponent if the daggers at her hip were any indication. The same could be said for Zack, Aster, and Liz, whose non-standard combat styles he hadn’t encountered before thanks to the lack of a cultural driver pushing everyone to use swords.
+
+That didn’t mean he couldn’t or wouldn’t fight them, given the chance. Seeing someone at his level of power who specialized in the spear, a weapon he hadn’t used since he became a Celestial— a cultivator— was a fun idea, but it wasn’t where he wanted to start. No, it was better to start with something he was more familiar with.
+
+Which meant he had Ascender Titan— Matt, he reminded himself— or Susanne who, if he understood things correctly, was one step weaker than the others.
+
+Part of Ra’thala wanted to start with Susanne and move his way up to the peak, but his surging power demanded to dive right into the best and see where he stood.
+
+Interlocking his hands, he flexed politely; he knew they probably didn’t have the same customs as he was used to and he would eventually get around to learning and adopting them, but he wanted to do this right.
+
+“I’d be honored to fight you, Ascender Titan.”
+
+Matt grinned with what Ra’thala could call smug satisfaction as everyone else started to heckle him. They spoke a little faster than the spell was quite comfortable translating, but it wasn’t so bad that he couldn’t get the gist that Titan had been arguing a similar logic to Ra’thala’s own for why he should get to fight first.
+
+Summoning a blade with his Stone Creation Con— skill, he reminded himself. [Stone Creation] was one of his personally-modified spells taken and honed until he could create armor and weapons out of stone at his own Tier with ease.
+
+Thanks to his Talents being upgraded via the Ascension, he was able to imbue— enchant— both items into complicated works that would have taken him a decade or more of effort in a single instant.
+
+Even better was the fact that both items being made of stone interacted with his Tier 1’s new effect that made them nigh indestructible.
+
+A claim the machine made that he was eager to put to the test.
+
+Ascender Titan stood forward with a blade that looked more ornamental than anything he had seen before. Instead of a solid bar of steel, the blade looked like it had been hollowed out into something like an interweaving lattice of strands, almost like a loosely woven reed basket.
+
+Just as he was wondering how that was practical, the blade filled in with solidified star power, mana he reminded himself, to make a uniform whole.
+
+Huh.
+
+Titan grinned as he wiggled the blade. “I’m still working on this new application, but don’t worry about it breaking or anything. It's not so easy to destroy.”
+
+Agreeing, Ra’thala flared his cultivation, sending his essence swirling through his celestial passageways before he activated his buffing skills, [Strength of the Mountain], a spell he had created based off the remnants of a Celestial Guide he found in an old clan’s stronghold. It increased his strength and durability together to ensure he could handle the rigors of a melee fight. [Speed of the Breeze] boosted both his reaction time and movement speed, while [Breath of the First Rain] increased his healing and self-recovery abilities.
+
+Having brought himself into a full combat-ready stance, he nodded to Matt, who had just waited for the brief instant that Ra’thala used to get ready.
+
+Except, his opponent hadn’t gotten ready. Ra’thala didn’t feel his cultivation surging, or spells being cast, and was about to gesture for a halt when Titan moved.
+
+It wasn’t the fastest he had ever seen someone move, but it was close, and with no warning from his lack of surging cultivation, it caught Ra’thala off guard for a moment. Though being caught off guard didn’t prevent him from being able to react in time, and he brought his blade up to block Titan’s simple thrust.
+
+Deflecting it to the side, he slashed upward, aiming to cut Titan’s chest.
+
+As a man of roughly similar size, Ra’thala expected Titan to dodge to the side and was already preparing a spike of earth to impale him should he react that way, but Titan just summoned a simple and unadorned blue armor skill that deflected the unempowered thrust.
+
+Seeing that he couldn’t easily overwhelm his opponent, something that hadn’t happened for centuries before he reached the peak of power in his old Realm, Ra’thala settled in and activated one of his oldest skills from his very first celestial guide, [Fury of the Blade].
+
+Every swing of his blade sent out shockwaves of mana that would cause damage to anyone who got too close to him. In the case of those using skill armor like Titan was, such constant damage was a good way to wear through their mana pool. Physical armor often fared a little better, but the blades of mana were sharp enough to damage even the best armor, which was all a swordsman of his level needed to bypass such defenses.
+
+With that first cast, he was able to get a feeling for the changes his ascension had wrought.
+
+It wasn’t what he had expected, such as a flat increase of power. Instead, despite the contradictory nature, he felt that his oldest spell was stronger than ever before and weaker at the same time.
+
+His gut told him that at least part of that feeling was that because he was in a new, stronger, tougher Realm. Where his [Fury of the Blade] would have torn holes in reality before, they simply cut through the air similar to when he was a God. Logically, it made sense, as he was only halfway through the power scale similar to as he had been when he was a simple God. But it made him feel like his skill was weaker, even though it wasn’t.
+
+It wasn’t that he just wanted to believe the skill wasn’t weaker and was deluding himself, he could feel the difference through the resonance and see the difference in the pulses of mana. Each cut was thinner, faster, cheaper, and felt more dangerous than what he was used to.
+
+The same went for his other skills which, now that he was pushing himself, he could get feedback from. Each of his boosting skills felt fifteen to twenty percent stronger after his ascension and made moving feel like flying.
+
+Wanting to test that more, and seeing that Titan wasn’t struggling to deal with his moves, Ra’thala increased his tempo once more, reaching seventy percent of his maximum.
+
+As he slashed out with an [Avalanche], he let the wave of formed earth crash down on Titan, ready to un-bury him should he need to, but that proved wholly unnecessary.
+
+While his skill did pierce Titan’s armor, it hadn’t collapsed it entirely and the armor quickly reformed, which was impressive and spoke to a well-modified skill. Or a very high level one; with their ability to pull skills out of rifts, he couldn't really judge things like that without a better understanding of the baseline of each and every skill.
+
+A daunting task he knew he’d need to settle eventually.
+
+Just a second after kicking his way free of the stone, Titan’s left hand started to glow with the light blue color indicative of mana.
+
+Ra’thala felt a great pulse of danger from the spell and instinctively summoned a wall of earth out of the ambient essence to block whatever attack Titan was about to use.
+
+Having heard these people were the strongest members of their Tier, he had expected a lot. But he wasn’t prepared when the beam of mana Titan cast blew through his wall. Even if it was a hastily made one, it was if it hadn’t been there at all.
+
+His flash-made constructs were one of his signature moves, and he had turned the tides of battle more than once by creating them around his enemies. So to see it crumple under a single blow was a bit of a rude awakening.
+
+That shock compounded with the fact that he still couldn’t feel Titan surging his cultivation to fight at this level. It wasn’t hard, not for one of Ra’thala’s level who had fought all of his life, but he knew some cultivators who couldn't keep their cultivation at a peak level for even a few hours and started showing fatigue quickly. Despite knowing Titan didn’t have a cultivation to usher forward, it felt like he was being toyed with or otherwise not being taken seriously.
+
+Dodging the beam of mana before it could sweep at him, Ra’thala cut out using [Silence of the Fallen Snow] to sever the connection of the skill in Titan’s spirit, forcing him to drop the spell. He had traded away a fortune and a half to get a copy of that Celestial Guide as a Divine, but it showed its worth once more, even in this new Realm, as the beam of mana petered out before cutting him in half.
+
+Thrusting out, he launched himself forward in conjunction with [Rhino's Charge], accelerating him into a blur.
+
+His marble blade met surprising resistance as it pierced through the blue armor Titan had conjured. When he flash-enchanted the weapon, he had made it incredibly sharp, and when combined with his buffing spells and [Rhino's Charge] with its armor piercing effects, he expected to have pierced through any such conjured armor with ease.
+
+Still, he managed to impale the man and, after anchoring himself to the ground with his Concept, he twisted and wrenched to cut Titan in half.
+
+They said they had good healers on staff, so it shouldn’t be a dangerous blow, but it wo—
+
+Ra’thala nearly caught a blade to the head as he paused upon seeing Titan still standing there, already fully healed. He had encountered a few fighters who went into a full self-regeneration style, allowing them to trade blow for blow in combat. But most of them had to sacrifice other aspects of their cultivation to achieve such levels of physical regeneration, which was why Titan’s healing caught him off guard after feeling how physically and magically strong he was.
+
+Even as Ra’thala’s mind was reeling over the decades of downtime such an injury should incur, and Titan ignoring it all, his opponent seemed to speed up even further. His blade, or rather the solidified mana inside of it, started to glow with a truly massive amount of mana as an attack that made his spirit tremble was readied.
+
+Ra’thala used [Pebble Bouncing] to dodge the initial swing, but he was too slow to fully dodge the wave of mana that arced out and felt some of his armor crack and wounds open up all over his body as the tremors rattled him silly.
+
+[Mud Mends] fixed all of the surface level wounds in an instant, but the deeper level wounds would take longer.
+
+Not that they would stop him.
+
+Ra’thala hadn’t gotten to where he was without learning how to fight while wounded.
+
+Still, that was an impressively strong spell, and Ra’thala was starting to understand his new opponent, which was the most important aspect of any fight.
+
+Titan kept up the pressure of his offensive and his blade came down once more. This time, it crackled with lightning that Ra’thala was able to redirect into his Concept, where it dissipated harmlessly and invigorated him as he took the power for his own.
+
+He used the moment that bought him to cut upward, wanting to remove the offending arm, but Titan reached out and grabbed his blade with his hand.
+
+The deceptively thin blue armor was penetrated with the now familiar resistance, but his blade stopped dead when it came in contact with the flesh of Titan’s hand.
+
+Through the contact, Ra’thala could feel some sort of secondary effect, as found in rare items, bolstering the hand, but he had never encountered the Treasure before and didn’t know how to circumvent the effect. Unwilling to let an enemy grip his blade, he wrenched it back, letting its pristine blade turn jagged, hoping that might help pierce the unnaturally tough flesh.
+
+It didn’t, but it was indicative of the fight in general.
+
+Despite hearing these people were the best in this Realm, Ra’thala hadn’t really believed it. But he was starting to understand. Or at least he thought he was.
+
+Titan seemed like the children of Origins who had been given every item they could possibly want, need, or use, making them far stronger than they should be at their Tier. He had dealt with those before, but the gap had never been quite so big.
+
+It made him eager to defeat Titan.
+
+As Titan pushed him back step by step, Ra'thala analyzed his opponent. Titan was good with his blade, not the best he had ever seen, but he was good enough there were no flaws he could exploit for an easy win. As was sometimes seen with those with lots of Celestial Guides, Titan seemed to rely on spells for most of his damage and effects, but he wasn’t one dimensional with physical flaws, as seen by him matching Ra’thala blow for blow.
+
+This was a well-rounded opponent who he was glad he wasn’t actually fighting to the death, and was instead having a friendly spar with.
+
+Ra’thala thought his main victory condition was that Titan didn’t seem particularly tired or pressed in the fight: he was clearly trying, but he wasn’t going all out. As Ra’thala was also holding back a portion of his power, there was an opportunity to go all out in an instant and try to overwhelm his opponent before Titan realized what was happening.
+
+In a real fight he would do exactly that, but he was trying to feel out this new Realm and where he belonged in it, so he decided to take the slower approach.
+
+Tapping into his Aethe— Intent, he pushed a wave of high mountain fog at Titan, wanting to obfuscate him. A physical fog was created around them that blocked all types of observation that was at least twice as strong as it had been before. Another benefit of his ascension, no doubt.
+
+While his six senses were blocked, his connection to the fog let him feel as Titan hurtled forward to his last location, letting out another arc of mana that expanded to twice their heights as it passed through where he had been standing. Ra’thala had already dodged to the side, having expected a move like that, but was thoroughly impressed by this Titan’s general prowess.
+
+Throwing his Concept out, Ra’thala commanded the battlefield to Tremble.
+
+Spells faltered, weapons grew weaker, and stamina was sapped from everyone he designated as an enemy.
+
+Titan slowed and Ra’thala slashed upward, sending a wave of earth at him. Instead of being a loose collection of earth, it formed into sharp projectiles that he flash-enchanted to drain mana from everything they touched.
+
+It was an old tactic he had learned when fighting the Silent Silhouette Organization when he was Tier 8. It typically ended most fights on its own, but was always good enough to stop their magical armor, and he was confident in the same outcome.
+
+He was already rushing forward, a gathering of essence forming around his blade and enlarging it as he prepared for a heavy slash as a truly monumental amount of mana poured out of Titan.
+
+The flow cut off fairly quickly as the enchanted stone melted under the influx, but Ra’thala was already bringing his now massive sword down onto Titan, ready to cleave him from shoulder to hip.
+
+Just as his blade was about to hit him, there was an impact as an unseen force pulsed outward. It didn’t stop the blade's descent, but it did slow it enough that Titan only lost his left arm as he dodged.
+
+Ra’thala let the extra growth fall off of his blade and brought the now light blade up and around. The severed arm was already regrowing with a speed Ra’thala had never seen before, not that Titan seemed particularly worried about its loss, as he brought the crystal filled blade around and unleashed a point-blank spell not seeming to care about the back blast that would hit him.
+
+Encasing himself in stone, Ra’thala took the hit, wanting to inflict more damage, but staggered as he was sent flying backwards from the spell. He caught himself with a flex of his Concept, but the lapse was enough for Titan to finish healing himself and rush at Ra’thala.
+
+On the back foot once more, Ra’thala felt a mounting pressure as Titan pressed him. But after a good parry, he regained his momentum and decided it was time to show the rest of his hand and end this fight before he was too tired to fight the others.
+
+Gathering more and more power into his blade and using the opportunity to change the enchantments he had laid upon it to ones focusing on magical armor penetration, Ra’thala cast his penultimate skill, [Collapse the World].
+
+Space and time froze for an instant as the blade rose and fell, it being the only thing that moved.
+
+Ra’thala expected to cut through Titan in a single blow, but the simple armor he had been dealing with turned incredibly ornate as a second layer formed, which seemed twice as strong as the first layer. His blade still cleaved through it, but the strain was palpable and he grit his teeth as he put everything he had into the swing, letting his cultivation surge with all the brilliance his stars contained.
+
+The blade was two fingers width through Titan’s shoulder and he was hopeful he could continue his cut all the way through when the blade encountered a stopping force from Titan’s Intent.
+
+Intents being fairly rare in his Realm, even for Tier 20s, Ra’thala didn’t have that much experience fighting opponents with them, but he had encountered a few before. He had never felt one quite like Titan’s. It had a flavor he couldn’t quite identify, but he pushed that idle thought to the side as he threw his own Intent at Titan’s halting effect and tried to pry his enemy’s metaphorical fingers off his blade to allow it to finish its cut.
+
+Except the moment he tried to do that, he felt a twisting sensation as there was suddenly no space left in the world for his Domains to exist and his blade fully stopped.
+
+Knowing he was defeated, Ra’thala jumped back and held his hands to the side.
+
+“A wonderful fight that shows me just how much I have to learn in this new Realm.”
+
+There was a clamoring from the others as they all wanted to start their own spars, but Ra’thala had to hold up a hand. “I am a little low on sta— mana from my last fight. I will need some time to meditate and recover. I—”
+
+He stopped as he felt a wave of mana start to fill his mana pool. It was like his mana pool was being stimulated to produce more mana, but it wasn’t like him meditating and stimulating that portion of his cultivation. It was more like an outside force doing all the work, leaving the mana in his pool in a strange way he struggled to put to words.
+
+Following the trace of power, he looked over to Titan as a few things clicked in place.
+
+Titan confirmed it a moment later. “My Concept has the effect of allowing me to increase mana regeneration for those I choose. I can and do often keep this up at all times, so feel free to spend as much mana as you want. We can…” He looked over to Shadow, the teleporter who vanished for a second to return with a small device and a few small stones. “Set you up with a rapid mana converter, which will let you refill even faster when I’m not around, though at a cost.”
+
+After being shown how to use the device, Ra’thala was mildly perturbed as he heard from where these mana stones normally came from.
+
+An Origin family, a Tier 20 family, from his own Realm had been known for being able to have seemingly endless star power thanks to devices they implanted next to their hearts that used crystalized star power.
+
+No one had known where they got their source of crystalized st— crystalized mana, but Ra’thala was now pretty sure he had just had it confirmed they were delving rifts. Even if they weren't absorbing the monster essence, they had learned that there were rewards at the end of those locations and had kept the secret to themselves.
+
+A quirk of the family he and everyone else he knew had just written off as oddities thanks to how random Talents were was seemingly explained away with a piece of knowledge these people considered common.
+
+He would never call himself a people person, but it was becoming clear he had been a bit too much of a recluse if there were all these secrets that he had never encountered, despite being one of the strongest people in his old Realm.
+
+A decision he felt he needed to rectify immediately.
+
+He had come to a new Realm where he could start over, and he promised himself he would do exactly that.
+
+Part of that meant making new friends, and from the previous display, these seemed like important people who it would be good to be at least friendly with, even if they didn’t become close friends.
+
+Nodding to the others as he felt his mana reach an acceptable level, he started sparring with each of the Ascenders.
+
+He lost every fight, though some seemed a little closer than others, but the reason as to why was shown when he asked when he ranked in their Tier for relative power.
+
+It took a little back and forth before Zack said, “I would rate you at a mid-level elite. Maybe a weak high-level elite.”
+
+After a little more back and forth, Ra’thala had an understanding of what that meant and he couldn’t help but feel a little disappointed. But at the same time he couldn’t help but be excited.
+
+As Liz put it, “If you're this good without all of our advantages, you can possibly reach peak or maybe even pinnacle level elite given enough resources and training.”
+
+It was a good point, and Ra’thala wanted that. Not just to climb to the peak of power, but to show that his methods worked.
+
+He also understood that he had a lot to learn, and so took the offered opportunity for a small tour around the Imperial Capital before they went to dinner at a luxurious restaurant. The food was kind of strange and new, but he enjoyed sampling everything and had a good time as he learned more about the people who picked him up.
+
+Ultimately, it solidified in him that he was going to push himself here in this new Realm, and that started with earning money.
+
+In his old Realm, he had been wealthy thanks to his long accumulation of not just material goods but knowledge, and if he needed wealth there were numerous organizations that were nothing but blights on their surroundings that he had no issues with wiping out for money. None of that seemed true here, and with such a seemingly strong government, it would probably not be tolerated.
+
+Matt had, however, spoken of his guild and their willingness to pay well for information about his homeland and their various differences.
+
+Even just his enchanting knowledge would be completely unique and novel which, even if it was limited in Tier, should be valuable. He knew his people would have clamored for such novel information. Even if it had only been of low-Tier enchantments, they could have built off the unique foundation.
+
+Combined with his deal with the Librarian, that should be enough to get him started.
+
+He also needed to have a better understanding of this culture and the ins and outs of its peoples. Things seemed good from what he had been shown, but that was only that, and things could be irredeemably bad once the surface was peeled back. He wouldn’t willingly stay in a place like that, but he’d need time alone to learn such things.
+
+That gave him a few smaller short-term goals, but his main long-term goal was making his next cultivation levels, which wouldn’t be easy. Oh, it wouldn’t be that hard if his only goal was to continue what he had been doing, cultivating ambient essence, but he had learned first-hand that despite its simple nature and slower progression, there were significant advantages to absorbing the monster essence instead of letting it disperse.
+
+Before he continued onward, Ra’thala wanted to create a hybrid method that could give him the best of both worlds, and that would be anything but easy.
+
+It would also be expensive to do the testing he suspected would be necessary. In his own Realm, he knew of rare items that allowed one to shift their cultivation, and he could only hope that they had similar things.
+
+Still, despite the hurdles, he was excited as he turned to Matt and started hashing out a deal for his knowledge.
+
+Even as he chatted his mind went to the duels. He might have lost all of the battles, which wasn’t too surprising given what he had encountered with Titan, but his reality was shattered when the Ascenders started a duel among themselves at the end.
+
+It hurt his pride, but when they went all out, Ra’thala knew he would have been defeated in moments should they have done so from the start.
+
+They were truly in a league he had never thought possible before.
+
+It wasn’t just that they had better items and skills, though they surely had them. But more than that, their combat instincts were honed to an edge that he just couldn’t match even with his years of combat and lived experience.
+
+It was a league he wanted to reach.
+
+If that was possible. He wasn’t sure about the translation magic, but there was a tone of finality about becoming an Ascender he didn’t have the cultural understanding to follow but he knew that few things were truly impossible given enough time and motivation.
+
+Turning to Susanne during dinner he asked, “Is it possible to reach their levels?”
+
+Susanne nodded. “It's extremely hard, but possible. Rarer than Ascenders themselves really. Yun Me is the most famous one due to how long she has been doing it, but there have been others. It's not easy, but nothing is impossible if you work hard enough.”
+
+Ra’thala could tell she was talking more to herself than to him in that moment, but he took the words to heart and made a mental note to look up this Yun Me for himself once he absorbed the [AI] skill shard he had been given.
+
+As he had learned thanks to his inspiration that had forced him to ascend, having no goals or aspirations led to stagnation and he refused to fall into that pit once more.
+
+Goal: Reach Ascender power level.

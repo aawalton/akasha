@@ -1,0 +1,283 @@
+---
+id: a914d29e-8450-5711-86b9-a87975631e5a
+page-type-slug: story-chapter-royal-road
+title: "167 Thisbey Thorn"
+slug: 0126-167-thisbey-thorn
+partOf: the-new-world
+position: 126
+ownLength: 3223
+unit: words
+ownProgress: 3223
+publishedAt: 2018-12-06
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/312662/167-thisbey-thorn"
+royalRoadId: "312662"
+markedReadAt: "2026-06-29T21:25:20.005Z"
+---
+
+Caprika walked up, "Ah, Thisbey Thorn, it's a joy to meet you."
+
+As Caprika walked up, I glared at her. Seconds ago she was annoyed at him. Now she acted like best buddies. Being two-faced didn't sit well with me, friend or foe alike.
+
+I made a mental note of that as the albony offered Thisbey a hug. The gray espen raised a palm to her,
+
+"I prefer to keep business associates at a distance if you wouldn't mind. Deals flow better that way."
+
+Caprika lowered her hands, caught off balance, "Oh, of course."
+
+Thisbey locked his hands behind him, walking up the steps and past Caprika,
+
+"Now, it is so good to meet you and your dash'in company. It's always good to meet competent fellows such as yourselves."
+
+Torix nodded, "Likewise."
+
+Thisbey placed a hand over his chest, "You treat me too kindly. Does this humble home suit you?"
+
+Althea nodded, "Yeah, it's amazingly beautiful."
+
+Thisbey gave her a slow nod, "Good, good. I had hoped that it would fit good people of your stature. In fact, I prayed that each and every one of you found your accommodations welcoming. It's good those prayers weren't done in vain."
+
+I didn't like this Thisbey fucker. He reminded me of Yawm.
+
+"If any of you wouldn't mind, I'd adore a one on one chat with the Gray Giant."
+
+I crossed my arms, "For what?"
+
+He spread out his hands, "Why, to congratulate you of course. It's rare that someone defeats a gialgathen in combat." He pulled on his suit for emphasis,
+
+"Even more so when that combat involves their fists. That's the kind of man I like to see, one that can speak with actions instead of honey laced words."
+
+I frowned, "Have you looked in the mirror lately?"
+
+He gave me a warm grin, "My words are my only weapon. I've found that the strengths we disregard the most are the strengths we own. That's why I find your strength...Real strength, so compelling."
+
+I had to admit, he knew how to flatter. It wasn't getting to me though. I kept my guard up,
+
+"Yeah, we can do that. Be quick though, I have a tournament to win soon."
+
+He gripped his hands together in front of him, "I promise you newcomer, I am not here to dissuade you from winning this here tournament. Quite the opposite, actually."
+
+I said my goodbyes to the others, each of them going into a room to settle down. Once they were gone, Thisbey walked over towards a cabinet in the kitchen. He pulled out a bottle of liquor along with two glasses. He poured two glasses of it like he was a bartender.
+
+I walked up, and he lifted both glasses. He raised one to me, "You look world-weary. Was the trip here harsh?"
+
+I grabbed the glass and shook my head, "Naw, it wasn't too bad. I graded a bunch of tests for our wizard. It sucked ass."
+
+He laughed, "Well I'll be, you're his assistant? I took you as the bonafide leader of this here party. Was I mistaken?"
+
+"I'm not the leader."
+
+He grinned at me, swirling his glass. He looked at ease no matter what I said. It was like the conversation was a joy for him no matter how it twisted and turned.
+
+"I can tell you're not lying. You honestly believe that. I know a leader when I see one. They come in many sizes as well. Some are spiritual guides, emotional anchors, or fear makers. If you don't mind me saying, I believe you're the group's backbone."
+
+I raised an eyebrow, "Why'd you guess that?"
+
+He nodded, keeping his warm grin on his face, "You've got that air about you. Tough. Eats nails for breakfast. You're a man's man, a warrior through and through. Your fine company would run with you through a gialgathen's fiery breath. On this, I have no doubt."
+
+I shrugged. He continued, "You're a symbol. You inspire them, whether you see it in yourself or not doesn't matter. Your ability to evoke action in others is what truly matters."
+
+I rolled my hand, "Ok, get to the point."
+
+He turned the glass up, taking the shot of whatever it was. He set his glass down, oozing patience and calm. He gestured for me to follow him. We walked up to the edge of the glass paneling. He pointed out into the distance,
+
+"Do you see that there over yonder hills?"
+
+I narrowed my eyes. Off in the distance, spires of metal rose up over mountains. I frowned,
+
+"Silvers."
+
+"Mighty fine eyes you've got there. That they are. They've been encroach'in on Yildraza for a long time. Many of the espens here aren't willing to take a stand against them. From your astonish'in level, I can gather that you've seen what silvers or eldritch can do?"
+
+I nodded. Thisbey sighed, "Many espens haven't. They don't recognize what a threat they present. The espen people still believe that the gialgathens will take care of our problems. I want you to inspire them, to spur them to action against this invasion."
+
+I raised an eyebrow, "How am I supposed to inspire them?"
+
+He gestured to me, looking up at me, "By winning the tournament and giving them some enthusiasm to fight."
+
+I shrugged, "Why're you asking me to do this?"
+
+He put his hands on his hips, "Did you know the gialgathens have won this here tournament for over a decade now? You want to know why they do it?"
+
+Thisbey raised a hand, accentuating his point with his body language,
+
+"They win year after year to send a message to the espen people."
+
+Thisbey reached his other hand, wiping his fingers like he was crushing a bug
+
+"They're tell'in us this: You. Are. Beneath. Us."
+
+He stood up straight again, wiping off his leather jacket. Knowing what it was made of, it made the gesture even more fitting.
+
+"Many of our kind believes it. I don't share their sentiment. When the great Schema came, it acted as an equalizer. We're no longer second-class citizens. We're of the same class."
+
+I stared at the silver's spires in the distance, "Yeah, I can agree with that."
+
+Bitterness leaked into Thisbey's voice, "See, gialgathens don't think as we do. They look down on us, and they remind us of their imposing statures frequently. You've fought one, a riveting bought in any regard. He spoke with you."
+
+I bit my lip, "Yeah, he wasn't the nicest guy."
+
+Thisbey nodded,
+
+"I tell you from a place of deep understand'in - they're all the same in that regard. They've destroyed the confidence of the espen people. If you win this tournament, you will be the hero we need to renew that confidence."
+
+He gripped his hands into fists, "You'll prove to so many that the espen people aren't beneath the gialgathens. You'll show them that those beasts aren't the gods that some people believe them to be."
+
+I shrugged, "Look, I'll be honest with you. I'm winning the tournament regardless. You don't have to motivate me for that."
+
+He shook his head, "The people will look to you for guidance, Daniel. They'll look at you to help uplift them. I want you to tell the espen people to rise up and realize their potential. To fight the evils knocking on their door."
+
+I rolled my eyes, "And let me guess, you'll be the leader?"
+
+Thisbey spread out his hands, "It could be anyone. I'm not asking to be wealthy or powerful. I have both of those qualities in spades. I'm done looking after my own wellbeing. I'm looking after the wellbeing of my people now."
+
+With utter sincerity, he locked eyes with me,
+
+"Can you do that? Not for me, but for young espens looking to make a mark in this world?"
+
+The will behind his words was overwhelming. They saturated with charisma and purpose, a lifetime of work behind them. He commanded the room. If I hadn't met Yawm, he'd have swept me off my feet.
+
+I had met Yawm, however. His words crashed against a brick wall as I said,
+
+"Yeah, maybe. I'll think about it."
+
+Absolute delight spread over his face as he walked up, slapping a hand on the side of my arm. He shook my hand, his fingers just barely big enough to get around my palm. He laughed,
+
+"Daniel, you won't regret hearing me out. I promise you on the name Thisbey Thorn that you will always be welcome here on Giess. Thank you, thank you very, very much."
+
+He leaned back, giving me a good look, "You really are larger than life now that I see you in person." He gave my arm a friendly pat, "You will not regret it, I promise you that. We're going to help lift up the espen people, together."
+
+He turned, walking out of the room. I stood there, frozen in place. I shook my head, looking around the room. I murmured,
+
+"What the fuck just happened?"
+
+In the corner of my vision, a tiny orb showed itself. It was Kessiah's obelisk. She walked down the steps, grinning at me,
+
+"Looks like our tough guy got wrapped up by a salesman."
+
+My shoulders drooped, "Oh come on. That motherfucker had to be a politician. Besides, I didn't make any promises."
+
+Kessiah shrugged, "Eh, you said enough that he could spin it that way. Be careful with those types. They're too slimy to get a hold of."
+
+I pointed at her obelisk, "You look like you have a plan for that. I see you recorded us?"
+
+She shrugged, "Eh, just figured it might be helpful to have some documentation. It's a trick I got from Torix."
+
+I scoffed, "Yeah, I'm starting to think your warning at the bar had some merit."
+
+Kessiah shrugged, "Told you so."
+
+After I rolled my eyes, our team got back together. We chatted a bit about Yildraza, one of the biggest cities on Giess. It wasn't the political center of the world, but it was the economic one. It was because Schema spawned three teleporters here when he first arrived.
+
+With so much alien tech and resources coming in, the city boomed. It flourished as several young business leaders rose to prominence. Thisbey Thorn was the defacto leader of those young business people. He owned dozens of companies, and his reach was as broad as an ocean on Giess.
+
+He made most of his money in the silver mining. Not the metal but the creature. He hired teams of mercenaries to go out and excavate the steel and other resources. He also dumped most of the city's pollutants over there as well.
+
+It was a one-two punch of productivity and activism. Combine that with Thisbey's sheer charisma, and he was a massive celebrity. Wearing another sentient race's skin didn't bode well with me though.
+
+After our chat, Kessiah, Caprika, and Althea went on a lady's night out. Caprika knew a few places, and she wanted to share the delights of a big city. I stayed in the hotel room with Torix. I wanted to learn something before the biggest fights of the tournament.
+
+I walked up the steps, reaching his door. I knocked, and he let me in. Each room had its own air conditioner, and he kept it at a chilly 50 degrees. He planted piles of books and graphs all over the tables and beds at his disposal. Within seconds, he turned the hotel room into an evil lair.
+
+It was just like Torix.
+
+As I walked in, he closed a holographic interface. He sighed, looking up at the ceiling, "I despise teaching the lazy and the unmotivated."
+
+I grinned at him, "That's perfect. I actually had something I wanted you to teach me."
+
+Torix snapped his head at me, his blue fire eyes flaring to purple,
+
+"What? Really?"
+
+I scoffed, "Yeah, really."
+
+He clapped his hands, "Yes, yes, of course. As your master, I must teach you when you're ready to learn. You're a rather independent student, so it's rare I get the chance to pass knowledge on to you."
+
+He walked up, generating a magical chalkboard. With mana condensing over his fingertip, he puffed his chest out,
+
+"What is it that you've been curious about? Perhaps magical theory? Maybe on the mathematical conversions behind mana usage?"
+
+I winced, "Uh, not exactly. I was hoping you could teach me thermomancy."
+
+Torix's chest wilted, "Thermomancy?"
+
+I nodded. He sighed, "You wish to learn the art of heating and cooling? Really now?"
+
+"Yeah. I do."
+
+He pointed at the chalkboard, "The sensation of heating and cooling is the rate of particle movement within the matter. Some matter is more resilient, meaning more energy is required to destroy the bonds connecting it. This leads to melting."
+
+He snapped his fingers, creating ice, "Some materials are elementary to make melt, such as water. Others, like granite, require extreme temperatures before the crystalline bonds break. This is the cardinal understanding of thermomancy."
+
+He melted and unmelted the ice, "Armed with this understanding, all you must do is channel mana to either speed up these molecules or slow them down. For you, this should be rather simple. Most students believe this branch of magic is oriented with origin. This false."
+
+He circled his hand, "Unlike with pyromancy, you don't need to generate matter to fuel a chemical reaction. You must simply supply energy to cool or heat a substance. It's really quite basic for anyone skilled in dominion styles of magic."
+
+Torix put his hands on his hips, "So why do you wish to manipulate temperature?"
+
+I raised my hands, excited like a kid talking about a new idea,
+
+"I'm going to heat my armor up till it's white hot. I'll be able to fuck people up then."
+
+Torix dropped his chalk, his face going deadpan. He whispered, "Really? You're going to hurt your enemies by setting yourself...on fire?"
+
+I shrugged, "Pretty much."
+
+He raised a hand. Before he got anything out, he let the hand plop against his side, "I would tell you how truly, deeply idiotic that plan is, but I've been wrong about your progression on more than one occasion. Do as you will. I am certain you will turn that...rudimentary tactic into a devastating force, just as you did with your fists."
+
+My chest swelled with pride at the backhanded compliment. Beggars can't be choosers.
+
+"Thanks, Professor. That should really help me get started. Cya later."
+
+He nodded, "Make me proud."
+
+I grinned, "Always do."
+
+With two days left until the fights in Yildraza began, I practiced and practiced. To get the Heating and Cooling skills, I froze and boiled a cup of water. I visualized the tiny particles in the liquid speeding up and cooling down. Once I got it, I focused on the basics.
+
+With my nigh limitless mana, I could turn simplistic skills into useful powers. In this case, getting some finesse with the changing temperature was necessary. I needed to get a firm grip on both the heating and cooling parts of the skill. Otherwise, I might actually boil my own blood.
+
+Just like that, I spent my first few days in Yildraza. I huddled in my and Althea's room, messing around with water. I gained two other skills in Thermic Expansion and Thermic Compression. By the time the day of the fights arrived, I was on the brink of creating another unique skill.
+
+Instead of driving, we walked to the fight. It was staged in a stadium nearby with tens of thousands watching. I was in my own world while I walked through the crowd. I held a glass of water, changing the temperature as I walked.
+
+Althea and the others guided me while I honed in on the task at hand. Fights or no fights, this water wasn't about to boil itself. With that relentless focus guiding me, a notification popped up.
+
+New Unique skill gained! By combining the skills Heating, Cooling, Thermal expansion, Thermal Compression, and Mana Theory, you gain the skill Thermomancy! Half of the ungained skill points in the fused skills rewarded: 162 treepoints!
+
+Thermomancy(lvl 1) - As a mage, you wield the laws of nature at your fingertips. +1% to temperature manipulation through mana.
+
+I pumped my fists, letting out a mental roar of triumph. I glanced up, gaining awareness of my surroundings. Like waking up from a dream, I found myself situated between Althea and Caprika in the stands. Around me, thousands of aliens chatted and talked with one another. I frowned.
+
+I was in the stadium.
+
+It was a weakness of mine. I zoned out when I absorbed myself in a task. It helped more than it hurt most of the time. In this case, it caught me by surprise. Still, I wasn't nervous about my next few fights. If anything, I was itching for them.
+
+The spectators shared my sentiment. We situated ourselves in a portion of the stands dedicated for combatants and their teams. Portions of the stadium were dedicated for gialgathens. Single combatants had groups of people with papers and data-charts. They discussed what to do versus each combatant.
+
+Vendors of all kinds walked around them, feeding the crows snacks. Thousands of obelisks floated in the air as well, posting onto their social media. Not one second of any battle would escape their prying eye.
+
+Despite the publicity, my identity would stay hidden for the most part. My perception sat at just over 3,800 now. It was plenty high to keep me from being discovered with Torix's spells and my armor. I relaxed, sitting back into my seat. I glanced over at Althea, noting how beautiful she looked in her veil.
+
+"Hey. You look amazing."
+
+Althea turned to me and grinned, "Hey! You're back from your...training I guess?"
+
+"Yeah, I got a unique skill for thermomancy. Next up, I'm going to incorporate it into Force of Nature for a free boost."
+
+She rolled her eyes, "Always expanding your horizons. We all had fun eating out and going places. They had a dancing combat sport here just the other day. They fought with ribbons. Judges rated their performance afterward."
+
+She raised her hands, "You should have seen it. It was amazing."
+
+I raised an eyebrow, "Really now?"
+
+We chatted until the announcer, Kiki Mosk, came floating over the arena. Four gigantic teleprompters flashed to life with a burst of light and sound. A track played, hyping the crowd up. Always the professional, Kiki Most soaked in the atmosphere. As the throng of people hit a fever pitch, he raised a hand,
+
+"Are you ready to see fights and fury!"
+
+The crowd boomed from all angles. Kiki Mosk pulled on the collars of his insane, rainbow suit,
+
+"Then do we have at treat for the each of you today. This is considered the most competitive regional center on Giess. From a pool of over 500 million combatants, the tournament has culled the weak. Now you all get to see the strongest of the strong face off in brutal bouts! Are you ready for war Yildraza?"
+
+Once again, the crowd exploded with applause. Kiki Most floated around on a hovering disk, eyeing the congregation,
+
+"Then let's get's ready to see some brutality and battle!"

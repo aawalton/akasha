@@ -1,0 +1,231 @@
+---
+id: 148f4759-faed-5330-95e6-04314ec43d22
+page-type-slug: story-chapter-royal-road
+title: "331 The Lottery"
+slug: 0290-331-the-lottery
+partOf: the-new-world
+position: 290
+ownLength: 3327
+unit: words
+ownProgress: 3327
+publishedAt: 2022-02-11
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/843733/331-the-lottery"
+royalRoadId: "843733"
+markedReadAt: "2026-06-29T21:31:10.288Z"
+---
+
+My armor grinned as the energy writhed inside my blood and bones. The ascendant mana shouted out with madness, wishing for death and destruction. I tilted my head at the noise before quashing the lunacy of the tiny mana blot. I raised a hand, the ascendant mana flooding into my palm. I smashed it in my hand, arcs of lightning streaking out.
+
+I took a breath, mana flooding into my body. I pulled my helmet off my face, breathing out the red mist. I smiled at everyone, a glint in my eye,
+
+"I'm Daniel Hillside, the Harbinger of Cataclysm, but you can all just call me Daniel for short."
+
+Chapter Begin
+
+The ascendant mana oozed into the air, forming spirals and static that left the air crackling. A few gasps rang out across the rulers, the younger and lower leveled ones impressed. Most of them remained composed, and a few of them even rolled their eyes. Some murmured,
+
+"Show off."
+
+"He thinks we're impressed."
+
+"And what, we're supposed to react to that?"
+
+I restrained myself, keeping calm and confident. The ascendant Overseer tightened and loosened his hands in a nervous gnarling, peeved about me disrupting his panel of energy. A miasma of mana suffused his surroundings as the entity glowered at me. That aura reached my space, and it oozed into my skin.
+
+No matter how I looked at, the guy attacked me. Annoyed by his impulsive reaction, I looked at him with a raised brow. I dispersed Event Horizon over my general vicinity. My dimensional wake's density exceeded the Overseer's mana. With that barrier between us, I spread my hands to everyone and stated,
+
+"My guild is the Harbinger's Legion. We're new to the galactic scene, but we still intend on making a big splash. That doesn't mean any of you have to get smothered by our waves, however. Know that I'm not here to make enemies. Quite the opposite, actually."
+
+I turned my gaze as I spoke, keeping eye contact with everyone, "Our primary objective is to establish ourselves over a large domain of fringe worlds. We'll also be focusing on terraforming worlds to become habitable for high levels of solar system density. We have the skills and abilities to clear those places out or bring barren wastelands to life, and we intend on using them."
+
+I lowered my hands, "If any of you has a fringe world near your colonies or you own a terraformable planet, send me a friend request. We can negotiate a deal. After all, I'm guessing only a few of you want to actually colonize those worlds, so we can arrange something that works for both of us. If any of you want my help in other ways, then, by all means, I'll hear your requests out."
+
+I gave the crowd a wide grin, "You've all seen the war. I defeated Lehesion, and I'm an excellent fighter. You can lease my golems as well, and I can work with cipheric runes-"
+
+I gestured to the glowing runes over myself, "As you can all see, I'm willing to put those runic markings over my own body. I'm confident I can help with a wide variety of problems. In fact-" I raised a fingertip, quintessence forming over it, "I can sell mana as well if you'd like."
+
+I crystallized the quintessence into a large, jagged sword. Taking a hand, I carved into the sword, giving it a few enchantments by absorbing mana away from the blade. I swung the edge, and it left a lingering aura, mirroring a pale glow etched in the air.
+
+Once stabilized, I opened my pocket dimension. I placed the sword into the space before pulling it out. The blade came out coated in the dimensional fabric like dipping candy in chocolate before I flash froze it. The material released a soft squeal and hiss before I etched in more simple cipheric augments.
+
+As I crafted, I talked, "I'm good enough to produce pretty solid artifacts without any time commitments. I know what I'm worth, however. Come to me with a compelling offer because I'm not offering a charity here. If you treat me well, however, I'll do the same in turn."
+
+I lifted the sword before channeling the mana within it. Its sharpened edge glowed a bright white, the dark matter contrasting the blade's neon glow. I generated a block of steel before slicing through it. The blade left melted metal as I stated,
+
+"So yeah, I'll keep in touch with any of you that feels we can arrange something that works for both of us."
+
+A few rulers' eyes widened as the display of economic might. Crafting an artifact of this quality while delivering a speech, it sent a message. Taking that message to the next level, I highlighted it with one last addition. I grabbed the blade, and I grinned, "But yeah, I don't like to keep junk like this lying around."
+
+I snapped the blade in half, gasps echoing across the room. As I melted it down, a few people gawked in horror. Piling the molten fabric back into my pocket dimension, I took a breath, "That's all, guys. Have a good one."
+
+I turned to leave. The Overseer raised a hand as I descended, and it generated another panel of ascendant mana less than an inch from my face. Before I hovered into it, I frowned and simmered, "So what's all this about?"
+
+The administrator simmered, "Schema will speak for you now. Remain here until I say otherwise."
+
+Peeved by his attacks earlier, I reared my hand back before jamming it through the panel. A high-pitched echo reverberated through the cipher-laden ruins, silencing the crowd. Lighter, pink cracks fissured through the plate before writhing wires shot out of my arm. I engulfed the mana while turning to the Overseer.
+
+I narrowed my eyes, "Really now? I'm stuck until you say otherwise? You'll attack me again if I move?" Elemental furnaces revved into action under my skin, and my words rumbled like quakes in the ground,
+
+"These little jabs haven't gone unnoticed, and they're not so funny after the first time. You do anything like that again, and I'm retaliating. Understand?"
+
+The Overseer glowered at me while seething, "And what if you did?"
+
+A fierce smiled spread over my lips. I spread Event Horizon over him, suppressing his mana entirely. My tone rose in volume,  "I'd break you and rip you out of that armor of yours."
+
+The Overseer squeezed a fist, a tense silence passing between us. I spread my hands, waiting for him to attack me, and he did nothing. I turned while letting my hands down, "Alright, it's good to see you can be civil."
+
+The Overseer lifted a hand. His gauntlet coursing with ascendant energy while it growled at me. Ready and waiting, I kneeled behind my pocket dimension's opening, the starry warp capturing the invisible power of the Overseer.
+
+I stood back up, lifting an arm. Seven furnaces hummed along with my own mana, and a guillotine of gravity clamped over the crimson automaton. The Overseer froze in place, its ascendant energy wrestling with my own. While suppressing it, I grimaced and pooled Event Horizon over the entity. I shouted,
+
+"So this is how you treat a new council member during their first galactic meeting, huh?"
+
+I squeezed my hand, the metal plates whistling and bending under pressure unreal. I growled, "Come on them. You wanna have a go, then let's go."
+
+The Overseer groaned before Schema radiated into our surroundings. The AI stated like a disappointed parent, "Don't you think that's enough, Daniel?"
+
+I narrowed my eyes, "He launched an attack at me. He's lucky to be alive."
+
+Schema continued, "But there's no proof of that, is there?"
+
+I opened my pocket dimension aiming it at an empty patch of rock. The Overseer's caught attack lobbed out, punching a hole into the stone. A few of the less experienced rulers gasped, but most stared on in amusement. I raised my brow,
+
+"As I was saying, that was an attempt to kill me. Why didn't its killswitch activate?"
+
+A tense quiet passed before Schema said in a calm voice, "It's a simple error in its programming. Your guild will be suitably compensated for the offense."
+
+I lowered my hand while keeping the gravity well over the Overseer, "Like what kind of compensations, exactly?"
+
+Schema sighed before saying, "We can offer a personal Overseer over your home planet."
+
+I tapped my side before raising a hand, "Thanks for the offer, but we'll pass. How about you recognize my guild's structures as cities? I'll call us even then."
+
+Schema's presence spoke with annoyance, "You generate too many cities to extend that many warp centers and yearly credit incomes. Offer different terms that are reasonable."
+
+I spread my hands, "But you still haven't offered us anything for our contribution during the war with Elysium. You won't recognize my established cities either, and your Overseers are attacking me." I put a hand over my chest,
+
+"Exactly what am I supposed to think?"
+
+A few whistles rang through the room, along with some satisfied laughter. Some outraged gasps dotted the room along with the low rumble of general chatter. People talked, and Schema listened. The AI stated,
+
+"Like most outbreaks, the rewards will be dispersed after the war is over."
+
+I pointed a thumb at my chest, "Isn't there usually an option to pay up early? There was whenever we fought Yawm and contained that quarantine."
+
+"Indeed there was."
+
+I shouted, "Then recognize my establishments as super cities at least. Take clusters of ten different towns, all of them evenly spaced, and ball them into one region. That can count as a single city. That should make it a lot easier to handle for you, and my guild gets official recognition along with all the perks like warping and galactic exchanges."
+
+Another tense silence passed over us before Schema spoke, his tone unchanged, "Those terms are...Fair. We shall proceed in that manner going into the future. Your rewards for the war will be revoked, however."
+
+Knowing I squeezed 'rewards' out of thin air, I dropped my hands, "That's fine by me."
+
+I ended my gravity well over the AI's administrator. The ascendant Overseer gasped out with its metallic voice, able to breathe again. The Overseer turned to me again, still angry at the situation. Schema spoke out as if chiding an unruly child,
+
+"You're decommissioned from this assignment."
+
+The ascendant Overseer pointed at me, "He is working with a-"
+
+The Overseer's words voided, no longer leaving the space it existed in. Schema's presence muted him, the AI's control of the area profound and dominant. The Overseer lowered its hands, its anger fading. It trembled before murmuring where we could hear, "Yes, Schema."
+
+A tear in dimensions opened, and a different Overseer walked out of a portal beside the ascendant. This new Overseer looked like a normal one, the pale blue armor covering it from head to toe along with the wires and large gauntlets. It shoved the red Overseer into the portal. The regular Overseer seethed,
+
+"You're a fool. Be glad you're not dead like you should be."
+
+The warp closed behind him before the Overseer floated over towards me. He extended a hand, "It's good to see you again."
+
+Recognizing his voice, I smiled while grabbing the Overseer's hand, "Ah, it's good to see you too. How've you been?"
+
+The Overseer turned, pinching where the bridge of his nose would be, "Awful. Plazia-Ruhl created hundreds of thousands of de-systemized pockets on Svia, and I'm the one tasked with cleaning them up."
+
+I let his hand go, and I winced, "Ah man, sounds like a lot of busywork."
+
+The Overseer leaned to me, "You wouldn't happen to know anything about it, would you?"
+
+I shrugged with a mischievous grin, "What, me? Pshh, no. That's a hell of a mystery. You should get someone smart to help you with that. Me? I'm just a backwater savage. Don't let Schema forget it either."
+
+The Overseer shrugged back, "Then if you happen to know whoever's responsible, give them my thanks. The time spent on that planet is time I'm not spending in the war."
+
+Our regional Overseer spread his hands to everyone, "This is a mishap we apologize for. The ascendant variant of Overseers is based on new technology, and that particular model was obviously defective. It will be handled."
+
+The Overseer turned its armored head to me, "And the terms were agreeable for you, correct?"
+
+Calm and collected, I stated, "Absolutely."
+
+The Overseer gave me a curt nod before spreading his hands out to everyone, "Then contain rumors to this space, or else there will be consequences. I must go back to cleaning up an absolute mess, so excuse me."
+
+A few rulers waved at the Overseer, some of them rooted in our region of the galaxy. I took note of who they were, along with their faces. As I put their titles to memory, Schema announced throughout the realm,
+
+"That model will be taken care of. Moving back towards introductions, this is Daniel Hillside. His home planet is Earth, and his age is 24.7 galactic years."
+
+Even compared to suppressing the Overseer, the ruler's reactions exploded. Most rulers stared at me in confusion, wondering how a Sovereign came about at such a young age. Others opened their statuses, researching and uncovering exactly where Earth was and what state it was in.
+
+Those that researched changed how they looked at me in an instant. Before, I stood out as a rising oddity among the rulers. Maybe I'd be powerful long into the future, but for now, I was an arrogant youngster rocking the boat. In their eyes, I simply lacked perspective, and meeting other rulers would fix that.
+
+But knowing my world hadn't even left its protective phase? Even a fool could think ahead enough to uncover my meteoric rise. The confusion turned into a sharp skepticism. Even more so, genuine interest spread throughout the room. A couple bings rang in from my side, and I stared at my notifications.
+
+A series of friend requests poured in from a variety of rulers in the room. Forming this many connections like this exceeded any expectations I had coming here. At the same time, I swallowed down some frustration. Schema didn't expose anyone else's homeworld, which put Elysium's sights on me if that information left the area.
+
+Peering around, I let out a breath out full of annoyance. Containing 500 different rulers wasn't about to happen. I'd have to deal with it after getting back to Earth.
+
+Schema continued, "The Harbinger's Legion defeated an S- tier bounty while still in its formative stages. It exposed Elysium's plot for a rebellion, and the legion offered further military assistance for a time against the rebels. Despite its short time on the galactic scene, the legion has left quite a mark. Given his age and humble origins, the Harbinger is deserving of respect."
+
+Schema chimed, "Treat him well."
+
+Before Schema's presence left the area, I reached out with Event Horizon.  My dimensional wake met Schema's dominion in an unspoken and unseen clash. We wrestled for a moment before I got control of my immediate vicinity. It required condensing my aura and its effects, but I established my own sanctity over myself. He couldn't mute me like everybody else.
+
+Satisfied with that result, I let the aura fizzle, giving Schema its dominance back. The quiet victory was plenty for me. Having a better idea of my galactic position, I pulled myself back into the Rise of Eden. It suited meeting people better than the bloodthirsty Event Horizon.
+
+I lowered myself back to the ground, returning to Shalahora's side. The misty aberration murmured,  "It would seem you wished to be the one most remembered."
+
+I put my hands on my hips, "It's more like that Overseer had a problem, so I had to act. I'm just glad I turned my situation into an advantage this time."
+
+Shalahora simmered, "That Overseer affected everyone that stood on that panel to assert its dominance. You earned friends by confronting it."
+
+I peered up, "That's good to hear."
+
+Shalahora murmured, "And yet...You made enemies as well."
+
+I peered around, "As always, right? Let them come."
+
+Schema's words erupted from all sides once more, "Now, let's attend to the source of this meeting."
+
+I took a breath, expecting the worst. It arrived with force as Schema stated, "A galactic wide conscription will be taking place. Guilds will be assimilated into Schema's primary guild, the Force of Iron. This will be a temporary measure until Elysium's been taken care of."
+
+Disgruntled rulers snapped out,
+
+"What? That's ridiculous."
+
+"You never defended any guild when they needed protection. Why should we offer the same to you?"
+
+"I spent my life putting my people in a place where we could live without fear. You're tearing down everything we've built since the culling."
+
+Schema silenced the space around the rulers as it had with the Overseer. The AI stated, "You built your empires on my shoulders. Never forget that. I gave you system advantages from leveling to perks, and I enabled your economies via mass warping. I have even given you all protection from galactic horrors you know nothing about."
+
+Schema stated like stone, "And you will never know about them if I am successful in the future. I monitor trillions of lives. Septillions of sentients have been saved by me. I need to call on a few of your strengths for a time. That is all, and it shall not go without an award."
+
+I winced, knowing the reward paled when compared to the risk. Schema announced, "We'll be offering doubled experience and quest completions."
+
+People sprang up in a silent uproar, everyone outraged but unable to speak. Shalahora linked up to me and said telepathically, "You know that those conditions are a paltry compensation for going to a war...What one gains is far less than what one loses."
+
+I gave Shalahora a tight grin, "It's like I said earlier. We never got doubled experience or quest awards. They didn't send us reinforcements either. We were on our own."
+
+Shalahora froze in place before turning towards the center of the room. The Sovereign menaced, "It would seem Schema is more desperate than I first envisioned...To abuse a newcomer to the system for its own gain...It is beneath one of Schema's stature...It abused the most vulnerable among us."
+
+I frowned, and Shalahora raised an umbral arm. It hummed, "Schema's actions speak more to its character than your own...There is no shame in being ignorant."
+
+My eyes hardened as I mouthed, "I'm not as ignorant anymore. I'm not fighting someone else's war for free again."
+
+Schema spoke over the throng of rulers, "There is still a method of allocation regarding this conscription. Certain members will receive higher drafts, while others receive less stringent ones. That is what the lottery is for."
+
+Most of the rulers calmed down. Their anger still surged, but they listened close to the AI's announcement. Schema said, "You will all be placed onto a fringe world of an enormous caliber. The requirement is to collect a cipheric artifact hidden within the world's largest dungeon. Those that bring back artifacts of value will also not be conscripted as heavily. The ten highest placing members of the lottery will not be forced into participating within the conscription, and they will still receive the awards from the war."
+
+The runic markings across my armor glowed as I simmered, "Ah...Then I can't lose."
+
+Shalahora crowed, "Neither may I."
+
+Schema radiated, "The period of this test will be three months within a gravitational sink. Minutes will pass here, and your guilds will be fine. However, the fate of your futures will be determined by your ranking."
+
+Schema's presence left the area,
+
+"So let the lottery...Begin."

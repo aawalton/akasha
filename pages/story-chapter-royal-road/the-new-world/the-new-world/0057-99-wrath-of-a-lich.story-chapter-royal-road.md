@@ -1,0 +1,181 @@
+---
+id: 886345fd-5944-507a-9023-db9c8cb97737
+page-type-slug: story-chapter-royal-road
+title: "99 Wrath of a Lich"
+slug: 0057-99-wrath-of-a-lich
+partOf: the-new-world
+position: 57
+ownLength: 2909
+unit: words
+ownProgress: 2909
+publishedAt: 2018-02-08
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/193129/99-wrath-of-a-lich"
+royalRoadId: "193129"
+markedReadAt: "2026-06-29T21:22:47.486Z"
+---
+
+The eldritch laughed, its wounded body shaking. It lifted its hand, glancing at its torn wrist,
+
+“I do ponder in my own manner...Why am I not regenerating my wounds?”
+
+The eldritch looked at me, my body healing what should be fatal injuries in seconds. The eldritch’s eyes narrowed,
+
+“You own quite the life force for a being that tastes like dirt. We could combine our strengths. Would you be willing to join me and my many minds?”
+
+My eyes creased as I seethed, “Hell no you disgusting fuck.”
+
+The monster took a step backwards, its face and eyes riddled with confusion, “Why do you treat me with disgust? You are a living golem...an entity that should not exist, an entity that cannot exist.”
+
+Torix waved his arm, ice spears colored a deep blue forming over his head,
+
+“And yet here my disciple stands. Cease with your esoteric chatter.”
+
+Another leg of the white monster came out of the portal. Torix clapped his hands, opening the portal wide. The head of a reptile came out. As it did, the air turned frigid. The ground around us turned icy. The blood around us froze, except for my own silver blood. Wings spread out wider than a city block. A whipping tail, ending in an icy scythe, slung around tearing through the rubble.
+
+It was an ice dragon. A few things were off about it, however. The jaw of the creature extended past its throat and down into its belly. Above the jawline, thick, pearly scales covered its back and wings. Below the extended jawline, thinner, glassy scales coated it. Beneath these thinner scales, the monster glowed a deep blue. It looked like it was storing liquid oxygen.
+
+The eldritch dashed towards us, and the dragon breathed out a frigid, white mist. It hit the eldritch monster like frozen fire. Torix channeled his grimoire, covering us in an insulative shield. His grimoire flipped once more, darkening the surrounding area as it glowed black. The deep blue icicle spears zipped through the air.
+
+The mist cleared, showing the skin of the eldritch frozen on its surface. It took a step forward, that skin cracking. The icicle spears pierced into these cracks, digging into the creature. The dragon shot out streams of the blue liquid within the beast’s belly. Whenever the streams stopped, the eldritch was frozen solid. I analyzed it.
+
+Endless Flesh(lvl 3646 | Growth Rate: Exponential) - This is a failed experiment of Yawm’s tampering. This is what he is trying to do, fuse sentients with the eldritch. The folly of his efforts is obvious. The overpowering energies of the eldritch have consumed this poor fool’s soul. Now he is a shadow of what he was, nothing more than a brute.
+
+And a powerful brute it is. With acid, several limbs, and a shining sword of coalesced ambient mana, it is to be feared. It’s regeneration is remarkable as well, giving it excellent longevity, and its health pool is massive given that each and every cell has a working brain and heart.
+
+That being such, the creature must be killed in its entirety for death. Even a single living cell could spread outwards, consuming nearby life and becoming a tremendous problem. Fortunately, this superorganism strifes for unity. It will not willingly disperse into many small pieces. It’s threat level would be much higher then.
+
+It can mold its body at will. Getting close to this creature will cause many problems for closer range combatants if it restricts movement. It can assimilate someone’s body while they are alive, turning them into its own flesh. Even saved allies can be consumed by living cells that linger within them. Some kind of cleansing is necessary to prevent their eventual consumption from the inside.
+
+You must stop its regeneration, it’s assimilation abilities, and its devastating energy sword attacks. Otherwise it will slowly whittle you down to nothing over a long term battle. Strike it fast, hard, and continuously until nothing is left.
+
+Recommended Level: 3000+
+
+Recommended Party Number: Less than 6
+
+Recommended Tactics: Larger parties may make destroying the creature more difficult. Dense parties with no weaker members are highly recommended. Long range disposal is highly advised.
+
+I almost read the entire page in five seconds. My perception let me do so. The passage explained why we were struggling so much against this thing. We were out leveled, it was a bad matchup against us, and we didn’t prepare against it. We couldn’t have given the circumstances.
+
+Torix’s attack was well suited for killing it though. The ice dragon emptied its pouch of blue liquid, sending a plume of it at the monster. The moment the liquid hit the air, it turned into a white mist. Torix raised his hand, a blue fire forming,
+
+“Do you know why I prefer liquid oxygen for my freezing attacks versus liquid nitrogen.”
+
+Hod, Kessiah, and I just stared at him in disbelief. Leave it up to Torix to find time in the middle of a life or death battle for a lecture. He continued,
+
+“Because liquid oxygen oxidizes the surface of whatever it touches. It leads to explosive results.”
+
+He flicked the blue fire at the creature. The blue dragon flapped its wings, sending the collected mist towards the eldritch monster. The moment the blue fire left the insulated shield, an enormous explosion surrounded us. Torix lifted his hands, laughing at the destruction,
+
+“Hah, hah, hah. I love watching a good fire burn.”
+
+He lowered his hands as his eyes narrowed, “Especially when it scorches something so filthy.”
+
+A white smoke covered were the eldritch had been. There was no notification for experience in the side of my vision. It still lived, even after all that. I dashed out of the forcefield before the dragon opened its mouth to fire off another plume of liquid energy. The eldritch shot out of the smoke cloud and into the dragon’s mouth.
+
+The dragon tried biting into it, but the monster just forced itself down the dragon’s throat. The dragon tried breathing, but it couldn’t. I turned around, running towards the dragon before blood spurted out of it. It’s massive jaw opened, showing the eldritch spreading all throughout its insides. It was trying to eat the dragon from the inside.
+
+I moved Event Horizon over the dragon, causing it to scream. Torix howled, “Get off of my pet.”
+
+Torix’s grimoire turned its pages, the runes sucking in the light around them once more. At the center of the eldritch’s writhing mass, the air condensed. It was like the the single point was eating all the nearby sound. For a moment, all was silent.
+
+A kinetic detonation imploded the eldritch from the inside. It’s body deformed before I jumped onto the eldritch. The disgusting ball of flesh stuck to me, trying to crawl between the kinks in my armor. It found nothing to seep into. I breathed deep and coated myself in the armor.
+
+It was airtight, locking the monster out. In fact, my own armor dug into the flesh of the eldritch, devouring its vitality. I tore at it, ripping the beast’s exposed body apart. The shifting eldritch spread faster than I and Torix could tear down. Torix shouted,
+
+“The dragon is no longer under my control. The eldritch severed the link between us.”
+
+A giant set of claws latched onto my back, pulling me out. I opened my armor, letting me see and hear. It lifted me out of its mortal wounds, giving me a view of the beast. The dragon turned into a shifting abomination as its body spilled out of its scales. It was like watching a candle melt as the magnificent scales were corrupted.
+
+The dragon grinned, many eyes and tiny mouths forming over its face. These human sized mouths spoke in unison,
+
+“Come here morsel.”
+
+It lifted me above its gargantuan mouth before chomping down. Teeth grated against the armor of my back,it chewed, the disgusting saliva and blood surrounding me. I lashed out, expanding my armor into its cheeks. I gashed at the inside of its mouth. After breaking many of its teeth on my back, the monster spit me out.
+
+I flopped around, my vision spiraling before I dived into the ground. A stream of liquified oxygen struck the ground above me before I burrowed back at the beast. I shot out of the ground, a cool rush of air flowing over me. My fist clashed with the flesh dragon’s scales, cracks forming on its chest.
+
+The monster spewed the cryogenic fluid, towards me, but I shifted its trajectory back at it with gravity. Doing so burned through my health, but it covered the dragon in its own liquid. The monster howled out, the roar breaking nearby windows. I covered my ears in the nick of time, the sound rattling my bones.
+
+It whipped its long tail towards me, the icy scythe shimmering in the sun’s light. I deflected the blade with ease. It dug into the earth before I dug into the ground as well. I grabbed the tail, dragging the dragon into the dirt. My sheer mass let me pull it halfway down before I could no longer move downwards.
+
+I turned upright, reaching out with Tactile Cognition. Hod was tearing at the dragon’s tail, severing that piece from it. Torix shot out fire spells. I darted up and out of the ground, aiming at the dragon’s head. It’s bottom jaw grew in my sight before I smashed the monster’s skull.
+
+Like a wrecking ball slamming into it, the dragon’s jaw whiplashed. A backbreaking recoil radiated up my arm, but my bones and skin held together. The sound was like a seismic wave, a noise I felt more than I heard. We picked the beast apart like this. I distracted the monster, dealing damage while the others jumped in when it was busy.
+
+Over time the monster was hobbling on its last legs. Torix’s spells lost their flare, his mana waning. The shadow claws of Hod were no longer menacing. My own energy was endless, however. I maintained my full fury during the entirety of the conflict. Torix would normally do the same by summoning, but this eldritch would just eat anything he conjured up.
+
+Without those monsters, the eldritch lacked anything to eat. Blood poured from it by the truckload, red ice forming over the entire block. Hod destroyed the monster’s wings and tail, making it useless against me. I pummeled it as the others rested behind Torix’s shield of mana. Event Horizon and my regen sustained me, blocking the monster from doing the same.
+
+The monster’s movements turned into lashings. It no longer controlled itself with any measure of finesse. Without any technique, I abused the monster’s sloppy movements. I leaped over strikes, drilling strikes into its ribs, joints, and jaw. I sidestepped bites and tore out its teeth. My fists were steam rollers, crushing its body in a slow, agonizing manner.
+
+The haughty arrogance faded into fear as the dragon frothed at its mouth. Even though it stole the dragon’s body, it was still limited by the abilities of its host. The dragon couldn’t maintain this kind of effort for so long. The many fleshy eyes covering it face strained, turning bloodshot. The monster heaved for air as I relentlessly assaulted it.
+
+Not a moment of my time was wasted. I kept this thing moving. After whipping a hook into its broken jaw, the monster coughed up blood over me. It fell over, the limbs flopping over each other. A writhing ball of flesh exploded out of the dragon’s back. It was much smaller than the eldritch’s first form over Dakhma.
+
+As it dashed out, spears of bone pelted outwards from the dragon’s steaming corpse. I blocked my face, the bones spears lodging an inch deep into my armor.
+
+These spears crashed into and shattered Torix’s mana shield. The ball of flesh rolled towards Hod, Torix, and Kessiah. Over the course of my combat with the monster, they recovered some of their manas. Hod created a shield made of shadow streaks. From behind it, Torix shot out an eruption of blue fire.
+
+Before the blast landed, Kessiah stood up, her body at an awkward angle. She reared back and struck Torix across the side of his ancient face. Torix’s jaw snapped, a cloud of dust swelling from his face before Torix flopped into the shadow streaks. Torix balled himself up, his robe fluttering as he crashed against the streaks.
+
+The shadow streaks shattered along with an invisible shield laying over Torix. Torix rolled on the ground, dirt covering his neat robe as his grimoire flopped over the ground. Hod slashed towards Kessiah as he howled,
+
+“Hod thought you friend. Hod trust you.”
+
+Kessiah grinned,
+
+“She’s not a friend of yours anymore.”
+
+The black veins spread across her body. Hod slashed towards her, but she punched at the claw marks. Her fist crashed through the shadow claws before slamming into Hod’s stomach. A shockwave ebbed from him, the crack of bone following not far behind. The black blood of Hod’s combat form exploded out of his mouth.
+
+Kessiah’s fist blew backwards, and so did Hod. The Eltari warrior shot into the side of a house in the distance. The ball of flesh flopped onto Kessiah. It covered her, molding into new muscle and skin. At the very least, it didn’t absorb her. It just covered her, giving her an exoskeleton of the eldritch.
+
+It all happened over a few seconds. I grabbed the sides of my face, “Why the fuck won’t you just die?”
+
+Kessiah lifted a hand. The fleshy exoskeleton condensed into a black metal, mimicking my own armor. Several slits formed over the face, along with many sets of jaws. They spoke in unison over Kessiah’s voice,
+
+“Let’s see if you can handle me when I have armor like yours.”
+
+I shook my head, “Wait a second.” I pointed at her, “You’re still in there?”
+
+Her head twitched under the armor, her body struggling underneath the armor. She strained out a few words without the mouths and eyes speaking with her,
+
+“I can’t...control it...I don’t know what it’s doing.”
+
+The eyes turned towards her, the mouths whispering, “Do you not remember what these people have done to you? Torix lured you here, trapping you on Earth for his own twisted experiments.”
+
+Kessiah gritted her teeth, straining out her words, “And what did Daniel do to me?”
+
+The mouths hissed, “This inferior creature rejected you and your body. He treated you like a freak. The dirty earthling tried overpowering you and dominating the group. It is time to take back control.”
+
+I frowned as I spread out my arms, “What the fuck are you talking about? That...that’s so stupid. I was trying to survive. I didn’t control anyone.”
+
+The voices seethed at her, “Now he dismisses your own thoughts. He is a filthy back worlder who thinks he is above you. Like a snake, he will strike the moment you turn your back to him.”
+
+I roared back, “If I had a problem with Kessiah, I would tell it to her face. Hard to do when you’re covering her with your ugly ass, so fuck off already.”
+
+The mouths hissed as Kessiah laughed underneath the mask. The eyes squinted at me, “You taste of dirt, little lamb. You hold no sustenance. You are less than even a worm. I’ve peaked through this remnant’s mind. She believes you are inferior as well, nothing more than a lesser being.”
+
+Kessiah grabbed the edges of her helmet, “Stop peeking through my head. These are my thoughts. Mine.”
+
+I rolled my eyes, “Yeah, sure. Kessiah definitely thinks I’m some monkey on a backworld. That’s why she hit on me and gave me a spacial ring.”
+
+The mouths mumbled something, but I slammed my gauntlets together. The clang overwhelmed their voice,
+
+“Enough talking. How about we fight like monsters instead of fighting like lawyers.”
+
+The eyes squinted at me. Hatred dripped from their voice as they spoke,
+
+“We are a monster. You are trash.”
+
+I dashed towards Kessiah as she struggled against the influence of the eldritch. Even with her resisting, the eldritch and her Blood Arts made her movements like tidal waves. The sheer speed and strength of them were far faster than her old ones. Even with their wild, unstable form, her first strike caught me by surprise.
+
+Her fist crashed against my face like a rock slapping against the back of your head. I dragged ten feet back, my feet digging me into the ground. My helmet was ruptured, exposing my mouth. My silver blood leaked from my torn cheek. The mouths on her helmet smiled,
+
+“Well then, walking dirt...you can’t even fight us with her resisting.”
+
+I condensed event Horizon over the skin of Kessiah, instead of all throughout her. The finesse strained me a bit, but killing her wasn’t the plan. I would peel that monster off her and make it suffer. The monster didn’t want to play nice, then neither would I.
+
+I clenched my teeth, breathing out. Blood squirted out from between my teeth, dripping down my chin and neck. My cheek regenerated before I wiped the blood off my face. I molded my helmet back onto my head as I rolled my shoulders. I walked towards the eldritch, cracking my neck,
+
+“Trust me. I’m just getting started.”

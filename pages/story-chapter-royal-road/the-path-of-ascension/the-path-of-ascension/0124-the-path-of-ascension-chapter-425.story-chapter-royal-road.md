@@ -1,0 +1,279 @@
+---
+id: 87401298-20db-543e-a6d8-883daf35b72d
+page-type-slug: story-chapter-royal-road
+title: "The Path of Ascension Chapter 425"
+slug: 0124-the-path-of-ascension-chapter-425
+partOf: the-path-of-ascension
+position: 124
+ownLength: 5195
+unit: words
+ownProgress: 5195
+publishedAt: 2025-07-04
+link: "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/2409417/the-path-of-ascension-chapter-425"
+royalRoadId: "2409417"
+markedReadAt: "2026-06-29T19:22:07.713Z"
+---
+
+Chapter 425
+
+Matt and Liz threw themselves into paperwork as they returned to their duchy, and there were sadly several things they needed to address.
+
+First and foremost was the counterfeiting problem.
+
+Despite all of their efforts, another group of counterfeiters seemed to have sprung up and had been adding their false coins into circulation.
+
+Digging deeper into it, Matt found that several of the most affected businesses were the various gambling halls, and he briefly considered if they were actually in cahoots with the counterfeiters.
+
+It wouldn’t be the first time someone cried foul while punching themselves in the face, but if they truly were working together, there was no real evidence beyond his semi hopeful hunch. Even digging into their records and reviewing the reports, attempting to track the counterfeit money came up with little.
+
+One man in particular had his steps traced by the investigation team going back weeks, following the man's counterfeit credit, but he had picked it up as a tip from his sex work job. Given it had been a tip, no one had looked that closely with the main payment having come in the form of the much easier to trace and infinitely harder to counterfeit digital transaction.
+
+Rather, the woman who had given the tip in question was also unlikely to be involved with the actual counterfeiting ring, having owned a low income laundromat on a former Corporations world.
+
+That was basically a dead end to the investigation, as former Corporations and Republic worlds, veil and non-veiled alike, loved physical currency and were some of the slowest to convert to a mainly digital economy.
+
+There were millions of reasons as to why they preferred it, but they were also the worlds that had the largest amounts of counterfeiting operations, as the operations were more easily able to slip their counterfeits into the economy.
+
+Matt finally had to give up and sent an order to the local rulers prodding them to do their damn jobs, warning them that if he had to come and deal with it himself, they wouldn’t like the fines he’d levy at their personal accounts.
+
+Then, because Liz was messing with him, his next case was on the production of physical currency.
+
+All minted coins were made at the ducal level, and were officially under the purview of themselves as the duchy’s rulers. Most rulers just foisted the responsibility on their largest banks who printed the coins in their name and wiped their hands of the matter, at most checking in every once and a while.
+
+Matt and Liz had originally done the same, but had retracted said rights when the counterfeiting started gaining a foothold in their duchy. It might have been an overreaction, but they were deliberately trying to limit the amount of physical currency in their lands to hurry up the planets who were dragging their feet to convert to digital currency was slowly removed.
+
+Then, in return for Liz’s antics, he slipped a report about Soerilia into her pile.
+
+It was a generally positive report, given that Baron Hastra had had time to both quell the unrest that their fumbled integration had caused, and the intervening time between their last meeting, but it was still nice to check in on their first world.
+
+Things had been rough for a while, but they had turned around fairly well, with the world having a high Empire compatibility rating just a short hundred years later.
+
+The world even had a small but notable cultivation supply industry that was making enough for Baron Hastra to consider exports if the trend continued.
+
+Matt had already looked over his plans, and while it was a bit of a stretch given the level of the product, if it worked, it would give the otherwise unremarkable planet an export, even if only a local one.
+
+That report inevitably made Matt think about the guild and the similar investigations he had authorized before leaving for the Clans.
+
+Having already dropped off almost two decades of mana production, Matt made a mental note to talk to Frederic about his mana and where it was going at the upcoming millennia open court the Emperor was going to hold.
+
+It was a few hundred years out, but he wasn’t in any particular rush. He was just hoping to hear some nice things during something he knew would be otherwise annoying, and a question now would hopefully prompt the newest Royal to prepare a list.
+
+Or something. Matt wasn’t sure what he was expecting honestly. He wanted to know where his mana was going and knew he could just look it up, or if he really wanted to ask Frederic he could just ask Allie to teleport him. But he didn’t care that much, which he realized was weird, and he took a few minutes to ponder that feeling.
+
+He didn’t have any great revelation, but came to the same conclusion. He wanted to know but didn’t care enough to actually look for the information.
+
+That was interesting in and of itself, and he felt like his Truth should have some reaction to such a thought, but he felt nothing and eventually concluded that his reasoning was twofold.
+
+Frederic wouldn’t do anything as dumb or obvious as steal the mana or let it slip, and secondly, most of his mana was probably being spent on general things like subsidies. Which was fine. Good even. Those things were important for life on higher-Tier worlds, given that on such worlds, most people used more mana than they produced in their daily lives, unlike on lower-Tier worlds. It was also boring, and unless he was going to audit where his mana was going, he just didn’t care that much, which put him in a weird spot.
+
+And weird emotions were good. If he was lucky, feeling something strongly would let him discover another part of his Aspect.
+
+Sadly there were no deeper insights, and seeing there was nothing important left on their docket, Matt let his train of thought return to Baron Hastra’s report on Soerilia’s possible export.
+
+His guild had several teams who were all trying to improve or outright invent items that would make ambient cultivation more effective.
+
+Unlike aperology, it was a well-developed branch of research, and Matt had little doubt that the lowest hanging fruit had long been picked, leaving hard work and lots of research as the only viable methods forward.
+
+Or luck.
+
+There was always someone trying to pull something interesting out of a rift and turn it into a viable product, and while more times than not they failed, the successes were usually notable.
+
+And theirs was a guild about aperology.
+
+Which was exactly why Matt had teams on both sides working on the problem. Though the aperology teams were more focused on trying to create a mythical garden rift that was more ideal for crop production.
+
+According to their latest reports, the best they had gotten was a rift that seemed to mutate plants. It mainly did so to make them dangerous and produce diseases that infected the weirdly mutated rift-life, but it was still interesting, even if mostly useless.
+
+The rift, of course, had been fully quarantined with strict protocols surrounding it, and Matt wasn’t entirely happy even with that, given the potential for harm if an outbreak happened. After a quick check with his spiritual sense, he gave the team five years to make some progress or to destroy the rift and make new attempts.
+
+They were one of his better aperology teams, and he didn’t want them getting stuck on such a product when their goal was unlikely to be found inside such a rift.
+
+Though Matt did agree with the team's initial report in that their balance of earth and life mana types and sub-aspects was on the right track. Theoretically.
+
+The teams working on the more mundane approaches of assisting ambient essence cultivation hadn’t made much, if any, progress, but Matt still read up on their works.
+
+One team had what they thought might be a replacement for a secondary ingredient to a Tier 5 and below potion that made compressing ambient essence easier, which had the potential to open up a side patent to the already existing product. As it wasn’t one of the main ingredients, it couldn’t be considered its own product, and as such, would fall under the umbrella of the original patent. But it was still progress and he was more than happy with it.
+
+The other team on the alchemical side was working on the ambient essence attraction aspect, which was normally handled by runes but supplemented by pills to speed up the process. Their theory had been trying to match runes with pill types for better effects. It had been done before to mild success, but their approach was deliberately using differing business’ products to achieve the same effects with minimal modification.
+
+There was a third team working on trying to make a better rune for collecting essence that had had zero appreciable progress, but Matt had never expected that to be a quick project and so just skimmed their reports.
+
+Not all of the teams had so little to report.
+
+Three teams had finished their missions. One in success and the remaining two in failure.
+
+The failures weren't that unexpected, and Matt liked how the teams voluntarily ended their projects when it became clear they had truly hit a dead end. Agreeing with Kees’ proposed rewards, Matt happily approved them.
+
+The success, however, was more interesting. A mechanical team had been working on a cheaper auto-harvester for automated crop production, but were struggling when trying to avoid using the existing, and therefore patented, harvesting manipulators. Through their tinkering, they accidentally created a new type of anti-fouling coating. They had been trying to create a slightly sticky but non-clingy coating which they spectacularly failed at, instead creating a coating that actively rejected anything resembling dirt; but the new invention had some theoretical uses.
+
+After a series of tests, they had both confirmed the product's safety and lack of existing patents for it, which was the largest shock. Discovering an already invented product was hardly a new outcome for such research and wouldn’t have been unexpected, but instead it was confirmed that no one had patented the product.
+
+Given its peculiarities, it was unknown if it would find commercial application, as there were existing products that did the same thing with long track records. But Matt still agreed with Kees and approved one of the highest payout in Titan Torch’s short history.
+
+He’d much rather support such developments than stick them in a closet somewhere.
+
+A few other teams had made progress on their projects but nothing was prominent enough to catch his eye.
+
+Though Matt did have something to do so he just couldn’t relax, and once he and Liz were done with their ducal work they teleported back to the Capitol, where Liz introduced her bloodline research facility’s new product to the Empire.
+
+While more limited in scope given its much weaker effects, bloodline holders everywhere seemed excited at the prospect of a new product which could help them improve.
+
+Liz was the lady of the hour, and Matt found that he quite enjoyed watching her get praise heaped on her until she begged Allie to get them. It served her right for all of her poking when he complained about his endless interviews.
+
+He, however, was magnanimous and only teased her a little.
+
+In what he wished he could have said was an unexpected move, several companies came forward and tried to get Liz to give them exclusive rights to produce the new potion, offering various promises.
+
+Liz was nicer than he would have been, simply reminding them of the new ingredient list they would need to start growing if they wanted to start producing the potions.
+
+She was even given an award from several beast bloodline groups who thanked her for allowing the non-wealthy to get anything at all.
+
+Which was really where the potion shined. Similar to the mana potions they had made for Liz and Aster, the new bloodline potion would allow a cultivator to not use as much essence on deepening their bloodline every Tier.
+
+The rich would still use the original potions, which were ten times more effective, but for those who would have never been able to afford even one of those potions before they died of old age, Liz’s potions were their method of closing the gap.
+
+That, more than anything, moved many to effusive thanks, which Liz struggled with, and Matt always enjoyed watching, given how many times she made fun of him in similar situations.
+
+Matt mostly got to hang back, but he did pull a few strings and got a group of various fire bird type bloodlines children to mob Liz right after one of her presentations. He didn’t even get pecked for it, as Liz split into a dozen copies of herself as she happily gave each of them a little personal time.
+
+While he was laughing, a small, chicken-like phoenix appeared in front of him just long enough to give him a feathery hug and a wink before vanishing once more.
+
+It happened so fast, Matt didn’t know if it was a clone or the real Mara, but his question was answered when both of the elder Moores had clones waiting for them in their suite later that evening. They had gotten Manny to teleport their clones to the Capital for the evening so they could celebrate with their daughter on her and her research team’s achievement.
+
+Seeing the ecstatic Liz made Matt’s century and gave him a better feeling than his own big announcements.
+
+Returning to Palustris just a week before their return to delving, the six of them gathered around Susanne, wanting to see how her eye had developed as well as wanting to get their first Power lesson from Luis.
+
+Matt pushed Aster’s fox ears down, peering over her head to look at Susanne’s perfectly normal eye, just to have phoenix Liz jump onto Aster's head and block his view entirely.
+
+Aster swatted at the bird even as she asked, “So how's it feel? How's the effect? Can you change the aspect of the eye?”
+
+Matt added his own question. “Any new vision or colors? Apparently, it was a fairly rare effect of the original.”
+
+Susanne shook her head, unbothered by everyone trying to peer at her perfectly normal looking eye. “Honestly, it's less useful than I’d have thought.”
+
+Allie scoffed. “Stupid dwarven rift. I say we go ask for a refund!”
+
+Susanne continued unbothered. “It feels like any normal eye Natural Treasure. Activating it is a little straining on my spirit, but it's not that bad. Also, once I aspected the eye, I couldn’t change it, so it only works on bladed weapons in the same family as a greatsword, which makes it even more limited than we thought. As for its effect being weaker, that's more a me problem and not the eye’s fault. It's…” Susanne paused for a moment before finishing, “Hard to get used to. First, I don’t entirely trust it. Allie can do something that makes her entirely invisible to it, and that’s just the start.”
+
+That didn’t really surprise Matt. Precognitive abilities weren’t common, but at the level of Pinnacles and Ascenders, it kind of was. Their reliability ranged from things like [AI]’s simple mathematical models, to sensing incoming danger with spiritual perception, up to Manny’s future sight. Aster was the one who usually took the role of shrouding his and Liz’s actions from that sort of thing, so Allie being able to bypass the Eye didn’t surprise him too much. It was a game of play and counterplay, with the only clear winner being Max.
+
+“Second, I find that my own blade gets in my way, future sight-wise,” Susanne continued. “The eye really wants to predict my blade's future, and while I can force it not to, it's straining, and I feel like I’m not using the eye properly then, which makes it entirely useless if the opponent doesn't have a blade.”
+
+Matt mulled that over, thinking back to some of his conversations with Max. “I remember talking to Max about something similar. About how she avoids future sight paralysis. Her answer was that she doesn’t really encounter it, as she can always find a method of victory, which then allows her to simply choose the correct future. Can you maybe do something like that?”
+
+Susanne slowly shook her head. “Maybe, but I don’t think so. At least certainly not yet. I’ve never really interacted with future sight like this before.”
+
+Liz offered her own suggestion. “What about widening what you consider a greatsword similar to what you did with your Talent and pens? Maybe then you can simulate more?”
+
+Once more, Susanne disagreed. “It's based on my Domain manifestation greatsword and I’m not going to change that for the eye.”
+
+Zack, after tapping his chin, asked, “What if you focused more on your own blade?”
+
+That was an interesting idea, and Matt and Susanne quickly exchanged a few blade strokes before she nodded.
+
+“This might actually work. If I solely focus on my blade, I can predict the flow of a battle fairly well, and it might mean I can predict enemies who aren’t using greatswords or closely bladed weapons. Mace please, Matt.”
+
+Matt pulled out a mace and moved to attack Susanne.
+
+Her first block was a little clumsy for her, but after a few exchanges, she started to feel her new eye out.
+
+What Matt found interesting was how her style started subtly shifting.
+
+Susanne was generally a fairly aggressive fighter. It was a combination of her Talent making her more dexterous, as well as letting her leave patterns in the air which would cut anyone dumb enough to try and push through without proper defenses. But as Susanne pushed herself and her new eye, her style started changing.
+
+Matt wasn’t sure he’d call it more aggressive, but it started to turn that way.
+
+It wasn't that Susanne started going for more risky attacks, but she started attacking more in general.
+
+It opened her up to a few attacks Matt was able to take advantage of, but with each failure, Susanne’s style seemed to shift a tiny bit more.
+
+The evolution was fascinating, and Matt wanted to keep fighting, but they had to stop when Susanne’s eye started bleeding.
+
+Grinning, she kissed Zack, which nearly killed Aster and Allie who hammed up the rare occurrence of public displays of affection.
+
+“Brilliant idea.” Her voice was quiet, but her smile was genuine.
+
+Liz spoke once the moment passed. “So, what's it like? How is the difference?”
+
+Susanne nodded to Matt. “It was half Matt’s comment about Max. At first I thought it was kinda crap advice, but it's not. I may not quite be Ascender level, but I’m good. Good enough to know there is always a way to win, and I can do it. So by concentrating on that and my own blade and its future, I can react to what I see my blade doing and then calculate what is going on in the battle around me. I can then react to that, which changes all of the predictions, but that just allows me to do it all again. It's sadly a little straining on my eye both spiritually and physically. I lost thirty percent of my vision in our fight near the end there, but this is definitely more useful than trying to predict others’ weapons.”
+
+Matt shrugged, not quite following what Susanne meant there at the end, but happy for her.
+
+Allie chewed on her lip as she said, “So what you really need is spiritual strengthening Natural Treasures.”
+
+“New ones, but yes. I already had a lot during the war, but more, and eye ones in particular, would probably help.”
+
+Using their Ascender access, they found there were precious few such items available, and none were so useful they were worth trading for.
+
+Instead, they put out alerts for any such items, as well as getting several potions that helped alleviate spiritual strain, with Matt lamenting that he wished he could have gotten his hands on such when he was on the Path.
+
+Still, instead of pushing ahead, they contacted Luis, who had been helping the teams assigned on their rift while they were at the Clans.
+
+The Guilds man smiled as they approached. “Ahh, nice to see you all again.”
+
+There was no animosity to his tone, so Matt just smiled. “I hope you are happy with your accommodations.”
+
+Luis grinned as he rubbed his cheeks. “Honestly, I spend most days down on Palustris relaxing in one of the hot springs or bothering Helen. This was the break I needed after running the guild for so long. As for helping here, it's quite interesting and gives me something to do. I personally have a good feeling about this.”
+
+Matt had already looked at the team’s reports, and they had managed to create a few variations of elemental aura rifts based off some of the other guild members’ mana types. Luis had brought several aspected mana stones with him to Palustris, giving them a steady supply when needed, though none of their results were quite what they were aiming for.
+
+Still, the team, along with all of the teams on bespoke aura rifts, were learning a lot about how rifts functioned and they were fairly confident in getting something to work eventually. It might take a few hundred or thousand years, but it was all progress.
+
+Matt personally agreed with the teams that it was ultimately only a stepping stone, and they needed to learn more about how Domains interacted with rifts and aura rifts in particular, but that discovery was probably even farther off.
+
+Not that Luis was bothered.
+
+Or any of their clients.
+
+Matt had half expected to receive angry messages upon returning to the guild and not having anyone’s bespoke aura rifts completed, but he didn’t have a single such complaint. He had underestimated just how long of a view older immortals had for such things.
+
+Rubbing his hands, Luis sat them all down. “Okay, so, a Power. What do you guys actually know about a Power? What is a Power to you?”
+
+Everyone looked to Matt, who just shrugged. “It's a combination of a person's Talent, Domain, and, if they have it, bloodline. It's a unified whole which can amplify them to make the sum greater than their constituent parts.”
+
+Luis’ smile faded as he looked around at the others before shaking his head. “A perfectly textbook answer and correspondingly unhelpful. So I ask again. What is a Power?”
+
+Liz offered, “It's about harmonization?”
+
+“Better, but not quite. Anyone else?”
+
+When the others' answers weren’t really any better, Luis gave up. “That's partially a trick question. A Power is all of what you all mentioned, including the textbook answer. Except, it's so much more. Powers are their person in totality. If you had two theoretically identical people who lived theoretically identical lives, their Powers would still be different. It's one of the reasons those from the Guilds, those with Powers, have an easier time in the Folded Reflections challenge. It's hard to change any aspect without changing everything about the Power.”
+
+Matt puzzled those statements over, not contradicting the older man but noting his questions for later.
+
+“Now, the concept of a Power isn’t new. It’s not simply the result of how you engage with your Domains, a basic ability based on the foundation of your approach, like you Empire-types moving objects around. It’s more fundamental than that, more primal. Hard to find, if you don’t know what you’re doing, but always there. But, because of its power and utility, we obviously prioritize its spread and usage. Because culture shapes personality, and personality shapes your spirit, most people in the Guilds have at least a basic Power, meaning they are part way through stage one. And just like all of you were correct yet only scratching at a greater truth, so too are all of the parts of a Power adding together and harmonizing, knowing one another truly into creating the true whole that is you. When I was young, it was simply called resonance.”
+
+Holding up a hand, Luis added, “Now, to be clear, this isn’t a matter of asserting yourself onto the Realm, like you tend to view the Domain as doing. This is simply a matter of being. You can’t push a Power into existing, it either is or it is not.”
+
+Looking to Matt, he gestured. “A useful metaphor is finding your specific frequency and bringing everything in line with that. That often results in additional strength that is ultimately a byproduct, not the actual goal. I’ve personally seen it where people don’t get stronger by creating and using their Power’s first stage. I doubt that would happen to any of you, but it’s possible and illustrates a useful point. As for the Power, there are generally four stages of its growth. First is Harmonization, which is exactly what it sounds like. Finding your resonance and getting everything to beat to the same rhythm. It's the easiest and hardest step. I’ve heard of people being able to instantly figure it out and go through all of stage one in an afternoon, but that's rare. Most people either slowly harmonize themselves, like a filling cup, until they reach full harmonization, or they fully harmonize for brief moments which they slowly increase the time of until they are able to hold it constantly. From my understanding, Hero Titan was either the first or the second type, in that he did it instinctively or slowly harmonized himself in a natural and gradual process. But so long as you get there, it doesn't really matter how you did so.”
+
+“Now, most Guilders accomplish harmonization, because our First Expansion is already taught to be built in resonance with the rest of us. This is what people are referring to when they call Powers the Guilds’ equivalent of your telekinesis or the Clans’ Wakes. Far fewer, however, manage to take it any further to stages two, three, or four because it gets harder and harder as you go along. Historically, Heroes either see decent power spikes from this step or none at all, depending entirely on themselves and their unique situations.”
+
+Aster raised a finger and Luis nodded to her, giving her the floor. “Is it possible to get weaker at this step?”
+
+Luis chewed his lip before shrugging. “Perhaps? I can see it theoretically if someone is, say, an ice mage but has a fire bloodline. If they somehow manage to bring those opposites in harmony it’s possible they get weaker, but honestly, it's more likely they either can't make a Power or the contradiction empowers them like a Domain Meld, since they were able to work through it. So it's presumably possible, but I’ve never seen or heard of it.”
+
+After seeing she was happy with his answer, Luis continued. “The second stage is Amplification. It's what used to be considered the first step in a ‘fully formed’ Power, and is something that very few people manage, even in the Guilds. That’s only possible because every individual part of you exists in perfect harmony, each Natural Treasure, skill, Domain ability, essence distribution, even growth items, all of it needs to be in perfect resonance. At that point, you can learn to put the whole of your being behind a single action and let it soar. It’s… incredibly difficult, and very easy to hurt yourself while doing it.”
+
+Matt slowly nodded, finally having a path forward.
+
+After waiting for them all to signal they were ready, Luis shrugged. “And that's all I can really talk about. As for the third stage, I don’t have it and no one with it will tell anyone what it is until after they figure it out for themselves. It's similar to a Domain stage where knowing about it too early can actually make it harder or impossible to advance further. Stage four, however, I do know but can’t do until having fully completed stage three. It’s permanently amplifying all parts of oneself similar to in stage two.”
+
+Allie whistled at the words. “Who has either of those? Anyone we know?”
+
+Luis shrugged. “I know Hero One Step Behind has reached stage four. Though it’s hardly a surprise, given he claims to have mastered all general Domain techniques, including ones from lost ages. Qin Jiang also has the third stage and manages to achieve the fourth while he’s in the flow of forging, but not yet outside of it. I can direct you towards various resources that speculate, but as for individuals you might know, I’ll simply let you know that Hero Waters most certainly doesn't have a Power. I was there when he came to try and get Qin Jiang to make him a Domain amplification item. Once he was denied, he was quite proud to explain he didn’t have or need any such tricks to be so strong in his mastery of Domains, and would continue to be the best without any item. He… certainly proved Qin Jiang and I wrong on that front.”
+
+Matt immediately messaged the other Ascender and got a near instant response with an accompanying picture of Aiden lounging on a beach.
+
+“Yeah fuck that gimmicky shit. All of the so-called Great Power manifestations are crocks of shit. I wouldn’t waste your time with any of them, Matty boy. Just hone your weapons so when someone comes in front of you, you can just stab ‘em. Be the best at one thing. Except Domains. Or Domain stages, because I’m already the best there, so you should try for something else. Really, I’m the best at Domains in general, and so you should listen when I talk about them and say that Powers are crocks of shit. They are all crocks of shit, but that Power stuff doubly so. Come learn under me. Become my protege. I can teach—”
+
+Seeing Aiden was going to keep talking about how everyone should learn from him, Matt just closed the window. If Aiden was talking about Domain, it was safe to just ignore or outright invert everything he said.
+
+The man was so bad at teaching Domains that he wasn’t to be trusted at all.
+
+“Well, Aiden says Powers are shit, so what can you teach us? How do they start intentionally harmonizing and how do I amplify a part of myself? We’ve got a week before our next delve, and there is no better feeling than proving him wrong.”
+
+Luis laughed out loud and started instructing them.
+
+Sadly, none of them made any appreciable progress during the week, but that was to be expected with something as complicated as a Power. Still, they all intended to work on it as they delved for Tier 28.

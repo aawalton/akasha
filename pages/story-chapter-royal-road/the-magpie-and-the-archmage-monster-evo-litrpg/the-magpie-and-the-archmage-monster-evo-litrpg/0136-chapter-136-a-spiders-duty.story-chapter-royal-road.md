@@ -1,0 +1,163 @@
+---
+id: b82509be-fda1-567e-8a3c-dca49d547d11
+page-type-slug: story-chapter-royal-road
+title: "Chapter 136 – A Spider's Duty"
+slug: 0136-chapter-136-a-spiders-duty
+partOf: the-magpie-and-the-archmage-monster-evo-litrpg
+position: 136
+ownLength: 2141
+unit: words
+publishedAt: 2026-06-15
+link: "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3540869/chapter-136-a-spiders-duty"
+royalRoadId: "3540869"
+---
+
+This was boring. Of course, Cee had expected this to be boring. She was on guard duty for Liora's sake, making sure that nothing would disturb her during evolution.
+
+She wasn't alone, but the air between Cee and Renir got a bit awkward. The first day, they had talked a lot about possible training routes Cee could take. He had suggested that she focus on her elemental webs, especially since the Bracelet of Four Elements was almost fully charged now.
+
+[Bracelet of Four Elements]
+
+[Artifact made by the Divine which embodies the power of the four elements within its gems. Red represents fire, green—air, blue—water, and yellow—earth. The one wearing this bracelet will be blessed by these four elements.]
+
+[Effects: Provides a significant boost to fire, air, water, and earth skills as well as a resistance to attacks of these elements.]
+
+[Warning: This artifact has lost its Divine power. It currently provides a moderate boost for earth, water, and wind skills.]
+
+They had pondered the topic of creating wind elemental webs, but somehow that turned out to be even more difficult than magma webs. If magma was something Cee could latch onto and imagine having a thread-like structure, then with wind… she just couldn't imagine it.
+
+Renir had also never encountered webs made of wind before, so it was something new for him as well. They had tried various options. Webs that would slice with wind energy when touched. Super-light webs that could fly. Webs that would cause a small tornado when touched. But none of them worked.
+
+Either wind webs were impossible or more likely—their image was too far removed from the real thing. They also discussed what Cee could do while they were waiting for Liora to evolve. Initially, Renir had just wanted to watch and observe the evolution process.
+
+However, Liora had curled up into what could be described as a ball of black feathers. Her head was hidden under her wing, and her legs under her body. The ball of feathers had grown a bit bigger during the first day, but besides that, they couldn't really observe any changes.
+
+Cee tried to coax Renir to teach him more sigils, and they had earnestly tried for a good half a day. However, describing something you had to draw turned out more difficult than Cee had initially thought. The way they thought was different as they were people from two different worlds.
+
+Renir called forms referencing plants Cee didn't recognize and letters she didn't know. As it turned out, this world didn't use English letters. That wasn't really surprising, but Cee hadn't questioned it since she could read System messages just fine.
+
+But as Renir explained it, System messages would always be displayed in a form that the individual would understand best. Renir saw the system in his written language, and monsters more likely perceived the system completely differently. Perhaps more like an instinctual thing than actual system screens.
+
+Renir also described that his system screens weren't exactly screens. They were like pieces of information displayed on paper. Cee suspected that Liora saw the screens much like Cee did, with maybe some differences in their appearance. Was it because they were both exposed to video games?
+
+So many questions, yet so few answers. For example, how come Liora and Cee understood Renir perfectly but couldn't read this world's language? It wasn't the same language, that was for sure. Renir guessed that they must have picked it up naturally, but Cee felt it had been too smooth for that.
+
+But pondering it didn't bring her any closer to the real answer. Nor did it do much to make the time pass more quickly. She couldn't do any real training, besides weaving her webs to increase the skill level. Granted, at this point, with her Elemental Web skill at Legend rank, the gains were minimal.
+
+It was amazing that this skill had gotten so far without the need to figure out how all elemental webs worked. Maybe it just didn't matter what kind of elemental webs she used. Maybe she could come up with some other kind of web to use? What could be a good web?
+
+"Cee, did you hear something?" Renir asked all of a sudden.
+
+The noise startled her. They had been sitting in silence for several hours now. Any attempts at small talk quickly petered out as they didn't seem to have much in common.
+
+Frankly, Cee believed that Renir was far too arrogant. She felt like he was looking down on her. Maybe not as much as he looked down on everyone else. But he certainly held Liora in higher regard, Cee felt.
+
+"What?" Cee said, looking around.
+
+The beach was dark, with a few obsidian crabs scuttling about. But besides that, Cee didn't notice anything.
+
+"Looks the same as usual," Cee said.
+
+"No, no, listen carefully," Renir urged.
+
+Cee stopped and tried to listen. It wasn't exactly easy, given that her hearing worked differently. She didn't have ears after all, but she could "sense" sound with the many tiny hairs on her body. When she had just become a spider, it had been overwhelming to adapt to this new way of perceiving the world.
+
+She was used to it by now, but it didn't change the fact that what Renir and Liora heard likely wasn't quite the same as what Cee did.
+
+But then she sensed it. A powerful, loud noise. It wasn't anywhere nearby, she could tell that, but it was very loud.
+
+"I-Is that the wyvern?" Cee asked.
+
+"Sounds like it… Odd, it had remained mostly calm until now," Renir noted.
+
+"Let's just hope she doesn't come here."
+
+Another half a day passed in complete boredom. Cee was also getting tired. She only dared to take short moments to sleep, but even those Renir would cut short. The man, or gem, was very worried about Liora.
+
+It was kinda cute how much he cared for her. Although Cee wished he would let her sleep for a bit longer. He could just alert her when something happened. He couldn't sleep after all. She was about to complain about it when he had woken her up again, but this time, it seemed to be for a good reason.
+
+She sensed something. Very near.
+
+Cee strung into high alert. Immediately, she began weaving her ice webs, preparing to use them at a moment's notice to restrain whatever had dared to wander too close.
+
+An odd sound came from somewhere between the rocky outcropping. It seemed to be similar to the growl of the wyvern, but not quite as powerful. It almost sounded like a whimper.
+
+"Cee!" Renir called in a panicked voice.
+
+"I heard it!" Cee hissed, crawling closer to the source of the sound using six legs while holding her webs in her front two. Benefits of having many limbs.
+
+She climbed higher on the rocky outcropping to keep the height advantage. With her eyes adapted to darkness, albeit not as well as Liora's eyes, she scanned the surroundings, slowly getting closer to the source of the noise.
+
+Then she saw it. A wyvern.
+
+Cee nearly panicked and jumped away. It took her a second to realize that it wasn't the adult wyvern. It was small. Well, relatively small. It was still as big as Liora. However, it looked rather pathetic. There were bruises on its body, and its wing membrane looked torn in places.
+
+It was mewling pathetically on occasion, letting out a frustrated roar at another. Cee couldn't help but feel a bit sorry for it. Had the mama wyvern rejected this youngling?
+
+Cee observed it for a while longer, wondering if it could somehow pose a threat to Liora. If it found her, then the young wyvern certainly would have no qualms about eating the magpie. But it was wandering around rather aimlessly, occasionally trying to climb up, only to fall again.
+
+If it came closer, then Cee would worry in earnest. But she just felt too bad to attack. The poor thing was abandoned by its mom and then killed just because it wandered too close to an evolving monster? No, that was just cruel.
+
+"I'm back," Cee said when she returned to Liora's evolution spot. A quick check under the webs confirmed that Liora was still in place, evolving in her ball of feathers.
+
+"What was it? What did you find? Did you kill it?" Renir asked nervously.
+
+"It was just a juvenile wyvern, wandering in the outcroppings. Looked like its mom had abandoned it."
+
+"Oh, that is quite common among wyverns. Any runts of the litter are either eaten or, if they are lucky, thrown out of the nest. This one got lucky," Renir explained. "Easy glimmerstones and experience if nothing else."
+
+"I didn't kill it."
+
+Renir didn't have eyes. Nor a face. He was a gem. But even so, she could easily imagine the judgmental expression just from the heavy silence that had descended upon the area.
+
+"Y-You let it go?" Renir shrieked.
+
+"It seemed so pitiful. It felt wrong attacking that helpless creature," Cee shrugged.
+
+"That helpless creature would eat Liora if it found her. She's a feast sitting still for it and unable to fight back. Cee, you have to dispose of it!"
+
+"You're too jumpy whenever things are related to Liora. She's hidden under my perfect camouflage!"
+
+"Wyvern can sense heat sources if they are close enough!" Renir protested.
+
+Cee thought about it. That did sound problematic. But just killing it…
+
+"I'll lay out more webs around here. If it gets tangled in one of those, then I'll deal with it," Cee said, and began spinning her webs and laying them in a perimeter around Liora's evolution spot.
+
+"Cee!" Renir said warningly, but she was already gone.
+
+She didn't know why, but she just didn't want to kill that juvenile wyvern. It was strange. She never would have considered sparing the adult wyvern. In fact, she hated all creatures that could spit fire. But seeing the little wyvern so miserable… It reminded her of the time she had just been reborn into this world.
+
+A small, lonely spider, often injured. Nobody to talk to, nobody to watch out for her. Oh, there was the wyvern again. It had come closer. Was it really sensing Liora?
+
+It was still whimpering and mewling pitiably from time to time. But certainly was getting closer to Liora. Cee couldn't do it.
+
+"Hey, you!" Cee called from her place on the rocky outcropping.
+
+The wyvern snapped its gaze up at Cee.
+
+"You can't go there! Go away!" Cee said. She knew that the chances of it listening to her were abysmal. Wyverns couldn't understand human language. Even if they could, why would they obey?
+
+The wyvern hissed at Cee and tried to… what was it doing? It opened its mouth, and it felt like it was trying to spew fire. But nothing came out but a sad whimper.
+
+"Go away! I don't want to kill you, but I can't let you go further either."
+
+The wyvern hissed again, scratching and trying to crawl up to where Cee was, using the hooked claws at the end of its wings for grip. Unfortunately for the wyvern, it wasn't a good climber at all, tumbling down from the rocky cliff.
+
+It curled up in pain, whimpering so miserably that Cee's heart clenched. She couldn't stand to watch this. It didn't seem fair to this creature. It wasn't like it had asked to be born a wyvern to a bad wyvern mother who had decided that it was unworthy to be raised properly.
+
+It had no home of its own, nothing to eat because—well, what was it supposed to eat on this island? All the monsters here were too tough for a juvenile to handle. It was doomed to starve to death the moment it was ejected from its nest.
+
+"Here!" Cee said and dropped some of the crab meat from her Inventory on the ground next to the wyvern.
+
+It perked up at the smell of food instantly, looking up and then devouring the crab meat in less than a minute. Once done, it gazed up at Cee expectantly.
+
+"What? You want more?" Cee asked.
+
+It mewled in response, looking at her with huge puppy dog eyes. It was kind of cute. The juvenile didn't have the nasty, menacing look the adults possessed. Its features were also much softer.
+
+"Fine, fine! I guess I could always get more…" Cee sighed and emptied her stash of crab meat. Perhaps, if the juvenile felt full, it would leave Liora in peace.
+
+"I wish we could be friends. You're kind of cool. If only you wouldn't threaten to murder us…" Cee muttered to herself.
+
+[Would you like to purchase the skill <Pet Bond> for 150 glimmerstones?]

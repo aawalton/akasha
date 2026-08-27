@@ -1,0 +1,259 @@
+---
+id: 76ab6f17-5a6b-5ea4-a11a-8c65976478b9
+page-type-slug: story-chapter-royal-road
+title: "113 Fundamentals"
+slug: 0071-113-fundamentals
+partOf: the-new-world
+position: 71
+ownLength: 2962
+unit: words
+ownProgress: 2962
+publishedAt: 2018-04-19
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/209240/113-fundamentals"
+royalRoadId: "209240"
+markedReadAt: "2026-06-29T21:23:17.174Z"
+---
+
+I nodded, “Yeah, I am.”
+
+Yawm leaned back all his weight onto his back foot, giving him room to peer at me,
+
+“No fear? That’s disappointing. The most fearful candidates tend to last the longest.”
+
+I raised an eyebrow, “Candidates?”
+
+Yawm nodded his head, gesturing towards the doorway,
+
+“Of course. Come to my study. I’ll discuss it there.”
+
+We walked out of the viewing room and down the spiral staircase. As we did, Yawm spoke.
+
+“You aren’t the first entity I’ve tried teaching the cipher.”
+
+“How did the other guys work out?”
+
+“I could sum up their responses in a metaphor. The cipher is like an ocean. Up to a certain depth, you can hardly notice it. Afterall, water won’t drown you until it is over your head.”
+
+Yawm pressed his fingers together, “Some beings panic once the water became to high. They would drown in water before it even crossed their neck. They were weak of mind and spirit, but they sought after power they could not understand.”
+
+Yawm opened his hand, “Some would handle the cipher well until they submerged themselves. Once their feet left the ground, they found that they couldn’t swim. I tried helping them, but they swallowed the water before I could get them out.”
+
+Yawm sighed, “And the most disappointing of the groups would swim out into the ocean. They would wallow in the cipher, relishing it. They were masterful, learning the cipher’s secrets with a depth even I couldn’t match, but...they could never find their way back to the shore.”
+
+Yawm glanced at me for a moment, “Knowing the cipher is understanding existence. Everyone has asked why we are here, what are we doing here, what is our purpose? If you dive deep enough, you’ll find the answers within the cipher.”
+
+Yawm turned forward, “Some questions are better left unanswered, however. I’d recommend taming your curiosity. It’s a difficult prospect for most sentient races. Curiosity is the largest driving force for most species. We’re wired so that new information gives us pleasure. In nature, it was always a good thing during the evolution of our species.”
+
+Yawm walked towards his desk. He notched a hinge, walking into the center of it, every side surrounding him once inside. It was a giant, hollow square essentially, giving him lots of room for doing his work.
+
+Yawm kept glancing at the pages on his desk,
+
+“In this age, there’s more information than anyone could ever hope to absorb. Information without a purpose is meaningless. It’s like learning sixty languages,yet only ever speaking one. In essence, knowledge without action is a vice.”
+
+Yawm waved his hand, “Do excuse my tangent. It’s rare I can discuss my thoughts with anyone, let alone someone who rivals my own strength. Tell me, what do you think about learning?”
+
+I turned towards Yawm, “Well, I haven’t thought about it that much. I guess I take a...a lean approach. I do first then learn about it later. I found I get more done that way.”
+
+Yawm widened his eyes, “Do first then learn later?”
+
+I walked up to the desk, “Uh, yeah. Think about it like this. What’s the fastest way to learn how to do something 99% of the time?”
+
+Yawm tapped his desk, “It depends on the task.”
+
+I shook my head, “From my experience, it doesn’t really. The best way to learn is to do it. Wanna cook better? Cook. Want to be better at math? Do math.”
+
+“Hah, then you aren’t going to enjoy how I begin my teaching.”
+
+I opened my palms to him, “Trust me. If you can tell me anything about the cipher, I’m all ears. It was a bitch to learn.”
+
+Yawm nodded, “Hah, hah, indeed it was. It must have been more so for you than me. A few of the principles I began with from Etorhma helped my progress tremendously. You lack them, making your progression stunted. Allow me to enlighten you.”
+
+Yawm raised a hand. Several green sparks radiated, casting the room in a green shade.
+
+“Don’t worry about the aura. It’s merely the radiation I use to drive my magic. Porytians source of mana is external rather than internal. I can store some within me, but I can’t actually produce it.”
+
+Yawm squeezed his hand, lifting several pages from the table. Before he began his first lesson, I leaned against the bone desk,
+
+“Can I ask a few questions first?”
+
+“Of course. I’ll do my best to answer them.”
+
+“Alright, cool. First off, how did you get everything in this room back to normal?”
+
+Yawm tapped the side of his head as a few piece of paper circled above him in the air,
+
+“Back during my days within Schema’s system, I gained many ‘perks.’ One of those perks involved photographic memory. Quite the useful thing, photographic memory is. I created a room I most enjoyed, and now I recreate it anytime that it is destroyed.”
+
+He waved his hand, a table and chairs appearing out of thin air beside him. He waved his hand again, making the objects disappear. Watching my wonder, Yawm spoke with excitement,
+
+“Do you see that ring on your finger?”
+
+I lifted my left hand, the one with Schema’s dimensional storage. Yawm pointed at it with his free hand,
+
+“I’ve torn one of those rings apart. Beneath the metal, there exists many lines of code from the dimensional cipher. Schema creates a folded piece of space time within the confines of the ring. Doing so is actually quite simple, but the other requirements of the ring aren’t as simplistic.”
+
+Yawm pointed in directions, making spheres of water appear and disappear, “Using the knowledge I gained from the ring, I created several pocket dimensions for my own use. Within those dimensions, I store items I want to keep. Even though it may have seemed like it, I did not reverse time. I haven’t discovered that trick just yet.”
+
+Yawm shook his head, “No, I simply use stored materials in conjunction with my photographic memory to recreate this space.”
+
+I’m not going to lie, I gawked a little at the explanation. As I tried to suppress my awe, I shook my head,
+
+“Damn...So that’s why Schema made it illegal to look inside the ring or tamper with it. He doesn’t want anyone knowing that the cipher is right there.”
+
+Yawm clasped his fist, destroying all the created blots of matter.
+
+“Schema doesn’t want anyone knowing that they are wearing utilities made from the cipher. Curious, isn’t it?”
+
+I nodded, “Yeah, it is. Ok, what about the green aura. What is all that?”
+
+Yawm glanced around, “This is the byproducts of nuclear fission. I create a controlled splitting of atoms then harness that energy for mana. That drives my own magic, my attacks, healing, everything.”
+
+I blinked a few times, “Damn...That’s broken.”
+
+Yawm laughed, “You’re own production of mana is far greater than any other living creature I’ve met, aside from Old Ones. That in itself is broken in its own right.”
+
+I smiled, “I suppose. Alright, I’m all out of questions.”
+
+“Then the lesson will begin. Remove that black helmet of yours.”
+
+“Uh, why?”
+
+“Communicating with a mask is irritating. I can’t read any of your facial features, and most of communication is nonverbal regardless.”
+
+I shrugged, “Alright.”
+
+I peeled back my helmet, revealing my face to Yawm. He inspected me for a moment,
+
+“I imagined you weren’t a member of this species. Your progression since Schema assimilated this world...it must have been accelerated.”
+
+I weighed my hands back and forth, “Eh, sort of. I met an eldritch and a dry man that helped me along the way.”
+
+“An eldritch helped your evolution?”
+
+I raised a palm to Yawm, “That fucker did not mean to. Anyways, let’s start the cipher lesson.”
+
+Yawm shook his head, “Greedy for knowledge, aren’t you? I am as well, in many respects. Then let’s begin with something simple.”
+
+Yawm tapped moved his hand, the floating pages connecting together. This super page stretched for dozens of feet, wrapping around Yawm. As he spoke, an image appeared on the page in front of me. The pages circled around Yawm, creating a moving mural that looked like stop motion animation.
+
+“The first, fundamental principle of the dimensional cipher is that it changes space-time. It requires an actual space to act itself out. This was no doubt the largest obstacle you had in learning the language.”
+
+I sighed, “Yeah, unfortunately.”
+
+On the giant page streaking across my vision, several characters of the cipher appeared. They were all fuzzy until they formed a cube with the characters. All of a sudden, black ink filled the characters, and the box changed. Flowers sprouted from inside the box of characters on the page. It was incredible to watch.
+
+“It’s a difficult concept to understand at first, but it works in practice with absolute certainty. If you try writing out the characters on the pages of a book for example, they do nothing. If you do the inner or outer lining of a barrel, then the effects of the runes will take place inside the barrel.”
+
+Yawm moved his hand sideways, the circling of the pages speeding up.
+
+“The second fundamental concept is the idea of perspective. The runes represent your own understanding of your reality. In fact, they have little to do with anything that is actually real. If you can believe in something and imagine it as so, then the runes will...shape reality into your vision.”
+
+A drawing of a brain appeared in front of me. Above the brain, there was a thought bubble of lightning. An arrow pointed from the brain to an empty box.
+
+“If your vision is clear and unchanging, then the runes will come to life.”
+
+The empty box filled with lightning, the bolts jumping throughout it.
+
+“If your vision is clouded and uncertain, then the runes will deform.”
+
+The image of lightning turned distorted. As it did, the lightning within the box became distorted as well. The box itself broke, the abomination growing. Yawm stopped the pages and sighed,
+
+“And that is why I have failed in my own attempts. I don’t fully understand what it is that makes the eldritch different from us. Despite this, I try.”
+
+The runes along Yawm’s right arm glowed, ending the green glow around us.
+
+“I’m able to greatly enhance my own magical abilities, and therefore increase my physical ones as well. Unfortunately, my goals aren’t quite so simple. Due to that, I’ve created many...failures.”
+
+Yawm’s voice was bitter at the last few words. He sat in silence as he stared at the ground. He shook his head after a moment,
+
+“But failure isn’t falling down. Failure is staying down. Many of the sacrifices that I and my followers have made will be meaningless if I give in now. Regardless of my own misgivings, the third principle behind the cipher is the simplest.”
+
+The pages moved again, creating a picture of a burning fire.
+
+“They require tremendous mana to create change. This is different from external energy, however. I’ll begin my explanation with a simple yet profound question. What exactly is mana?”
+
+I thought about it for a moment before answering,
+
+“Well...Mana is energy for one, but it’s my own energy. It doesn’t just happen. I have to make it happen.”
+
+Yawm spun the pages once more. A stick figure formed, and the fire was within the stick figure’s head.
+
+“Not quite. Mana is the will of your mind and soul. It is a physical manifestation of your desire to change the material world. The greater the will of an individual, the greater the mana they can produce. That desire is what fuels the cipher.”
+
+The fire within the stick figure’s head grew.
+
+“That is why in Schema’s system, willpower determines a sentient being’s mana generation. The larger someone’s soul is, the greater their capacity for generating mana. That is why your internal mana generation is so vital.”
+
+Like gears clicking into place, my mind raced to several conclusions. I always wondered why my armor enhanced my health generation. Now it made sense. The armor started out as an augment to my soul, meaning as it grew, my soul grew too. They were one and the same after all, and as my soul grew, so did my mana generation.
+
+Yawm raised his hand, lowering the pages.
+
+“You have an enormous potential to use the cipher. I rely on other creatures to channel me their mana to use the cipher. That is part of why I go from world to world. Without the world tree, I can’t utilize my mana, but you...you produce the mana on your own. As I teach you, we’ll abuse that.”
+
+Yawm inspected me, “After seeing your mana generation, it’s almost as if you are a level 15,000 player, and you invested only into willpower. There’s no possibility that you’d have a build that is so rudimentary, however. That would be foolish.”
+
+It was like he was making fun of me and my investments into endurance. I pushed myself off the desk,
+
+“The thing is, endurance feeds into the other stats. You’re not going to be able to match the raw stat total with any other stat besides for constitution.”
+
+Yawm waved away my argument by brushing a hand,
+
+“You can’t create synergy in a build like that.”
+
+I shook my head, “I disagree. All you need to do to create synergy is have plenty of bonuses for investing in endurance.”
+
+Yawm turned towards me, “Is that how your own build is structured? I’m curious how you gained so much strength within the confines of Schema’s system.”
+
+I shook my head, “I’d rather keep that private.”
+
+Yawm sighed, “Perhaps you’ll share the details with me one day.” He looked at the doorway of his room,
+
+“That will conclude this lesson about the cipher. I’d recommend writing as many pages as you can of what you know. After doing so, we’ll meet again tomorrow.”
+
+Keeja, the weird looking abstraction, opened the door. Yawm gestured towards him, “Until I finish instructing you about the cipher, you’ll stay in a room here that Keeja will grant you.”
+
+I raised an eyebrow at him while frowning, “What? I have to all of the sudden?”
+
+Yawm waved his palms at me, “No, no, not at all. It’s just that working on the cipher while within Schema’s domain can be quite detrimental. It can be far more problematic as well. If Schema discovers that your working with me, then you will be exiled immediately, I assure you.”
+
+Keeja walked up with his sunken in eyes. It bowed to me while pointing towards the hallway.
+
+Yawm walked up and placed a hand on my shoulder, “I won’t require you stay here, but I highly recommend it. You won’t dislike your room either. I treat guests with the utmost respect. You will be no different.”
+
+Imagine a viscious, thirty foot long crocodile. Now imagine that it’s mouth was open, and your chest was between its jaws. With one move, this crocodile could clamp down and crush your organs out of your body.
+
+That’s what Yawm’s hand felt like. It was an enormous set of jaws. Despite that, I kept cool,
+
+“Alright. I can do that. It doesn’t really matter anyways.”
+
+Yawm released me and pat my back, “Excellent! Keeja will prepare a meal for you and have it sent into your room at later hours. After you rest, we’ll have breakfast and the tea I mentioned earlier. Relax and enjoy your study while you stay here.”
+
+Yawm walked back and unlatched his desk. He opened his hand, the green aura smothering the room. A feather pen materialized above his hand, along with a vial of ink. He dabbed it into the vail before writing out a few characters. Already engrossed in his work, he turned towards us,
+
+“Keeja, Show him his room.”
+
+Without a word, Keeja walked me through the hallways of Yawm’s ice mansion. After taking a few stair flights down, I reached the bottom of the lake. There was a layer of crystal at the bottom, just as before. Light beamed from the bottom, illuminating my room from a glass floor. One of the walls of the room was a window, showing the view of the lake.
+
+Besides for the bed, desk, and a shelf of books, there wasn’t much in there. It was more than enough though. Considering I didn’t need clothes, it was perfect. Hell, I didn’t need the bed either. I walked over and sat on the desk. As I did, I extended my aura, Overwhelming pressure outwards. It let me sit on the desk without crushing it.
+
+I glanced at the aquarium, seeing the shifting shapes of eldritch. I still didn’t understand how Yawm controlled them. I guessed he may answer that question tomorrow. My mind was sifting at the possibilities of the cipher.
+
+After a few minutes, I turned around. Keeja was still sitting there, staring at me. His eyes were sunken in, hollow things. They had a way of looking through me. I frowned and stood up,
+
+“Why are you still here?”
+
+A second later, tears poured from the eyes of Keeja. They poured from the black holes in his head. Keeja’s mouth struggled open, the jaw shaking. Beads of sweat formed on it’s angular forehead. It’s thin knees wobbled before it scraped out a sound,
+
+“Ra...”
+
+I walked closer,
+
+“Are you alright? This is freaking me the fuck out.”
+
+Keeja gasped out another sound.
+
+“Nnn...”
+
+Seeing it struggle, I didn’t know what to do. Before I could decide, Keeja lifted one its wiry arms and pointed at me. In a raspy, weak voice, it seethed,
+
+“Run...”

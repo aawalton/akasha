@@ -1,0 +1,135 @@
+---
+id: 961ffe7d-82f3-5c6b-8e6d-4e858374fa79
+page-type-slug: story-chapter-royal-road
+title: "Chapter 66 – The Unyielding Badger"
+slug: 0066-chapter-66-the-unyielding-badger
+partOf: the-magpie-and-the-archmage-monster-evo-litrpg
+position: 66
+ownLength: 1967
+unit: words
+publishedAt: 2026-01-02
+link: "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2900571/chapter-66-the-unyielding-badger"
+royalRoadId: "2900571"
+---
+
+Liora had known the size of the badger. She had seen it after all, if from afar. Liora knew how nasty the corrupted monsters could get. She had faced many of them and survived. But nothing could have prepared them for what was waiting for them in the deepest recesses of this dungeon forest.
+
+The air grew heavier and thicker with miasma the closer they got to the badger. It felt like Liora was inhaling something she shouldn't. Like the fumes were leaving permanent damage in her body. All she wanted to do was turn around and leave.
+
+Others had a similar reaction. Serena had even gone as far as to create makeshift nose and mouth covers out of cloth. Although judging from the deep creases in everyone's forehead, they weren't helping much.
+
+"This feels wrong…" Kiva said, fearfully looking around, her ears pressed close to her head and her tail tucked close to her body. "Unnatural…"
+
+"Something definitely isn't right," Kalen agreed.
+
+"Perhaps, it is part of the challenge," Serena said.
+
+"I doubt the Guild wants to send their young adventurers to their deaths," Damien said bitterly.
+
+"Chak-chak-chak," Liora agreed.
+
+"Even the bird knows something is up," Kalen let out a sigh.
+
+"You don't have to be particularly intelligent to know that," Damien tried to quip at Liora, but his voice didn't have the necessary edge. The situation was too tense for anyone to be in a real joking mood.
+
+Liora just kept her eyes focused ahead, trying to find the badger. They must have been getting closer, as was evident from the pines that were becoming increasingly more decayed and less bioluminescent. Liora worried that the humans would need torches at this rate, or they wouldn't be able to see anything at all.
+
+Then, suddenly, they heard a loud crack that reminded Liora of the sound of a large tree breaking. Everyone stopped and listened, trying to discern the direction of the noise. The cracking continued until finally the poor tree was broken and fell to the ground with a loud thud. Guttural snarling noises followed, along with the sound of nails scraping against the wood. Very large nails.
+
+Everyone looked at each other in fright. Nobody wanted to face the monstrosity. But they had to. Liora figured that the humans were mostly driven by the wish to improve themselves. She wanted to put an end to the blight in the dungeon, so corrupted creatures wouldn't attack young adventurers.
+
+Liora flew ahead and finally saw the corrupted badger. But it wasn't quite like other corrupted creatures she had seen. Those were always covered with nasty sludge, and their eye sockets were hollow. But the badger wasn't yet fully corrupt. One of its eyes was still a clear brown color, and most of its body still had the tough black and white hide characteristic of a badger. Only its left front paw and half of its face were the typical corrupted color, and only one eye socket was hollow.
+
+It's not fully corrupted? How is that possible? All monsters we've seen so far became fully corrupt in less than a minute.
+
+Looking at the miserable expression on the badger's face and how it clawed at the corrupted side, Liora could tell that it was in pain.
+
+I don't know. But it appears that badgers are so tough that even corruption can't take over them so easily.
+
+But what do we do about this?
+
+Our goal doesn't change. The badger has to be defeated either way. Let's just hope that the corruption hasn't boosted it too much.
+
+While Liora did feel sorry for the creature, Renir was right. At the end of the day, they would have had to defeat the badger either way. If anything, she should be grateful that it wasn't fully corrupt—it might be easier to defeat. Not that she believed that it would be easy, even for a moment.
+
+Liora flew back to the humans and landed on a tree in front of them. She then shifted to her true form and, with her beak, indicated the direction of the badger.
+
+"Everyone ready?" Serena asked.
+
+"As ready as can be…" Kiva whispered. Kalen and Damien nodded in response.
+
+Liora nodded too. She withdrew the Holy Wand and then flew towards the badger. She would rush ahead and try her Holy Light on it to see how effective it was.
+
+The badger didn't notice her approach, Shadow Glide keeping her safely hidden, so she used Holy Light, aiming for its corrupted eye. She feared that the badger would have the same super speed that the lupus deer had possessed. But no—her attack struck true, and the badger let out an angry snarl.
+
+I can't believe it! This is going to be so easy.
+
+Don't celebrate yet.
+
+But Liora couldn't help but feel happy. After all, for her, the most dangerous opponents were those who were faster than her. Everything else, she felt she could handle. Or at least so she had believed until she saw that despite her attack connecting, she didn't see any damage on the badger.
+
+The corrupted part of its face looked like it hadn't been hit at all. Instead, the badger had its good eye glued to Liora as it let out an angry snarl and charged. Liora had never felt happier about being able to fly than at that moment. She flew up as high as she could while the badger crashed into a tree near where she was, dislodging it out of place as it had been made of foam.
+
+Holy Light didn't do anything!
+
+It must be because of how resilient badgers are. I'm sure the Holy Light did something, but not as much as it normally would. It also might be that it being only partially corrupted means that it is not as weak to holy magic as fully corrupted creatures.
+
+How is that fair? How do we defeat it?
+
+"Over here, you overgrown rat!" Damien taunted, banging his sword against his shield, thus activating his taunt skill.
+
+The blonde man probably hadn't discerned the badger properly in the distance, daring to actually taunt it towards himself. The badger didn't appreciate that, turning towards him with an annoyed grimace. It at least looked annoyed to Liora.
+
+"Run!" Liora warned the fool, hoping that he'd move out of the way.
+
+The next moment, the badger charged towards Damien at full speed. It didn't care that there were trees in its way. Those were either casually pushed aside with its giant paws or shoved out of the way like toothpicks.
+
+At some point, Damien realized that he'd bitten off more than he could chew and scrambled out of the way. Not that he had any chance of outrunning it, but thankfully, Serena was smart and conjured sharp rocky spikes, which should have forced the badger to slow down. Should have.
+
+But it was a badger. The thing didn't intend to calmly get impaled on spikes. Clearly, its mind was still clear enough to recognize such danger. Other corrupted monsters wouldn't have thought twice and charged into the spikes, consequences be damned.
+
+But this monster began burrowing with its giant claws, tossing dirt and rock aside at such speed that it might have been diving into water. Next time Liora blinked, it was gone, only a distant sound of burrowing, an indication of its presence.
+
+Kiva looked at the ground nervously, her ears moving side to side as she tried to determine where exactly the badger had gone. Liora watched the weasel girl like a hawk. Out of all of them, she was the most likely to hear the badger's approach.
+
+"Incoming right beneath you, Serena!" Kiva yelled and hurriedly pulled on Serena's arms.
+
+The next moment, the badger emerged right where Serena had stood, snarling and growling viciously. Liora took advantage of the short moment of confusion and Skypierced the badger, aiming for its skull. It was a direct hit. It was a direct hit?
+
+Liora sat on top of the badger's head, expecting a giant hole. Perhaps even the brain matter. She expected the beast to stagger and stumble over and fall. At the very least, there should have been blood gushing everywhere. But there was none of that. In fact, all she had managed to do was shave a bit of the badger's fur off its head. It had a small bald spot.
+
+The monster roared in outrage and shook violently to get Liora off its head. She was pleasantly surprised that the badger couldn't reach the top of its head with its massive claws. But she hadn't gotten a good grip on its head, so she was promptly flung off.
+
+Liora didn't waste time and promptly put distance between herself and the badger. But not before she unleashed a loud Buh-Rup.
+
+[You've failed to mimic the skill <Paralysis Croak>.]
+
+Dammit! It still fails sometimes. Renir, what do I do?
+
+First off, imbue everyone with holy magic. Even if it's not super effective, it should still do some extra damage to the corruption.
+
+Obviously, the badger had no intention to wait for Liora to do the incantation. It charged at Damien, whose taunt skill likely still kept the monsters focused on him. Maybe it worked on sight?
+
+"Impenetrable Defense!" Damien roared, slamming his skill into the ground. A shimmering, barely noticeable barrier of some sort appeared. The badger crashed into it with incredible force.
+
+Liora feared that the poor guy would be turned into minced meat, but the barrier held. The badger snarled and slashed, but couldn't get through. However, such a powerful skill obviously wasn't free. Liora could see the man strain with each hit.
+
+"Don't just stand there!" Damien growled in between hits.
+
+Kalen, as if coming out of a daze, grabbed his sword and sped towards the badger, striking at its back. But just like Liora's Skypierce, the attack didn't do anything, sliding across its hide harmlessly. Did it even feel Kalen's attack?
+
+Kiva responded after Kalen, dipping her arrow into some sort of liquid that hung in a small bottle by her waist and aiming for the badger's head. Perhaps she was trying to hit the eye. But as the badgers thrashed around, still trying to get past Damien's barrier, its back was mostly turned towards Kiva. When she released her arrow, it missed the eye, hitting the back of its head instead. The arrow just bounced off.
+
+The last one to attack was Serena. Once Kalen was clear out of the way, she launched a fireball at the badger. This did get a reaction. The badger's fur sizzled and burned, and the monster roared out in pain. It whirled around and roared, then switched its target to Serena.
+
+While this whole chaos was unfolding, Liora was already chanting her Holy Imbuement chant. Thankfully, nobody seemed to hear her with the monster snarling so loudly.
+
+[You've successfully mimicked the skill <Holy Imbuement>.]
+
+Liora then flew at Kiva, momentarily landing on her shoulders and imbuing her bow. Then she flew to Kalen, touching his sword with her beak, and to Damien, touching both his shield and his sword.
+
+"What are you doing, bird?" Damien asked in confusion.
+
+But there was no time to worry about what he thought. The badger was quickly approaching Serena. She was launching one fireball after the next, but this stopped it for just a moment and made it much, much angrier. Liora launched herself up and then plunged, this time combining Holy Light with Skypierce, hoping that the combined attack would at least stop the badger from crushing Serena.
+
+Like a bolt of lightning, she struck the badger on its corrupted paw, hoping and praying that it would inflict at least a bit of damage. For Serena's sake.

@@ -1,0 +1,187 @@
+---
+id: b8d8958a-50bc-503e-987f-8167126952b8
+page-type-slug: story-chapter-royal-road
+title: "130 Hunter of Many"
+slug: 0089-130-hunter-of-many
+partOf: the-new-world
+position: 89
+ownLength: 2913
+unit: words
+ownProgress: 2913
+publishedAt: 2018-06-22
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/226884/130-hunter-of-many"
+royalRoadId: "226884"
+markedReadAt: "2026-06-29T21:23:55.368Z"
+---
+
+The insects neared me, their shining mandibles clapping with enough power to split cars apart. It wouldn’t even hurt me, but I decided on practicing my skills. I leapt, dodged, and dashed between the insects. Kinetic Leviathan throttled them, pulling them off balance. Combined with my speed, they couldn’t even touch me.
+
+The unique skill was pretty damn good. If I could actually outweigh Yawm by a decent amount, it would be invaluable against him. So good that I experimented on Gorger of Mana with Force of Nature.
+
+Enhancing a skill was simple so far. I just needed to use Force of Nature to augment a different unique skill. It was an intuitive, natural process. In my eyes, augmenting Gorger of Mana would be much the same way. Since Force of Nature revolved around close combat, telekinesis, and gravity, mixing it would be simple.
+
+While dodging the beetles, I pushed and kicked off of them at times. During these light touches, I pulled them towards me with gravity wells. I would puncture them with sharpened spines of my armor. Before I pushed off them, I would stab my armor inside and drain what I could.
+
+After a few hours of practicing this, I got a good handle on it. The solar beetles leveled up along with me, letting the challenge remain constant. It was invigorating and fun for many reasons. These beetles once posed a serious challenge for me. Now they were mere fodder.
+
+I could’ve crushed them all in seconds. Event Horizon would drain their souls. My fists would crush them to powder. Their teeth and claws would shatter against my skin. With my magic, I could set them floating helplessly off the ground. Seeing my progress was a solid moral boost.
+
+Against Yawm it was different. We were so far apart that I couldn’t even see my progress. These beetles were different. They crumbled with ease. After a while, I wondered why Gorger of Mana wasn’t being enhanced by Force of Nature. I was shifting with fluidity and even grace. I was well past the point of augmenting.
+
+My status disagreed with my sentiment. Several more hours passed before I began thinking skills couldn’t be enhanced anymore. I was a renegade of Schema’s. It didn’t surprise me that a few things didn’t work right. Even if that was the case, learning all this would help me in the long run.
+
+I’d just have to do it the good old fashioned way. I kept engaged and involved with what I was doing, ensuring a steady progress. As I did, I fell into a rhythm, a sense of ease falling over me. It was like breathing or counting your steps as you run. If you think about it, it reminded me of running.
+
+As a baby, humans can’t even crawl. The idea of running is daunting to say the least. As we progress, we gain finer control of complex movements. Eventually it culminates in dextrous and difficult activities. The skills in Schema’s system were similar. They combined as I learned them, turning into tasks just like walking or jumping.
+
+In this case, it was fun to just get lost in the process. I theorycrafted with the cipher for weeks on end. Getting some quality time killing eldritch was like ice cold water on a hot summer day. Damn it was refreshing compared with sitting down, hunched over a book for hours.
+
+For that reason, I don’t know exactly know how long I spent dodging beetles. I stopped every few hours, getting some distance between me and them to chug some rations. After that, I jumped right back into the thick of it. Once the beetles were worth killing, I turned around towards them.
+
+As they evolved, the grew ugly. Their shells thickened until they looked like shambling chunks of yellow pavement. Their mobility was lessened, interfering with their sleek, aerodynamic shells of before. This rendered them unable to fly anymore. What they lacked in mobility, they gained even more in strength.
+
+Imagine you injected a vial of steroids into a beetle and it swelled up. Yeah, combine that with a few spikes and you had these new solar beetles. Their disorientation tactic suffered from this as well, making their previous light display far less blinding. With Restless Senses on high alert, I hardly noticed when I closed my eyes for it.
+
+The abstractions were frenzied, their abstract forms shivering with energy. The entire time I avoided the eldritch, their tornado of energy condensed. It was a physical wall of lightning at this point. The energy looked delicious, so I reached out with Event Horizon.
+
+I stretched the aura out to its fullest extent, a cascade of mana coming in. It was like standing under the force of a waterfall. It converted straight into my cipher, the rune devouring the mana with hunger. I no longer dodged the beetles as I passed them. I let my armor kill them for me.
+
+Tendrils of it shot outward, puncturing through their hard shells. As solid as their shells were, my armor skin made their hide seem soft. These armored spines stole their life force, taking their mana from them as I passed by. As I gained more and more control of that function, I used my other skills with Gorger of Mana.
+
+With my streams of gravity, I held beetles in place, preventing them from escaping. With my enhanced senses, I dodged them, letting my armor rip and tear at all angles. I was a ball of hungry spines, puncturing them with needles that sucked out their mana and health. When surrounded, I was a nightmare to deal with.
+
+I culled the horde with a steady, slow pace. Not even a drop of mana was wasted. I wrung them dry, like squeezing blood from a stone. If they clamped their mandibles on me, I detonated my runes in timed bursts. This gave me the strength to tear their teeth apart.
+
+The abstractions even dove at me from above. They were mana sponges, letting me absorb their vitality. It was satisfying because I was getting the most out of the monsters. At the same time, it was eerie. Why? Because it was something that Yawm would’ve done.
+
+These eldritches were out to kill me though, and they wouldn’t hesitate to do the same to me. They weren’t intelligent either. I wouldn’t do something like this to a crowd of people for instance. Maybe I would though, given the right circumstances.
+
+Enough with ethical dilemmas. I finished the last of the high leveled beetles, enjoying a bit of silence. I invested all my excess points into endurance, handling the issue with little thought. After that, I ate, exploded out a shit real fast, then jumped right back into action.
+
+That’s how literal days passed before I even thought of stopping. Before I knew it, I wasn’t even thinking about using Gorger of Mana with Kinetic Leviathan. It all just clicked. Once the entire process grew a bit tedious, I finished off the last bit and ran back to Yawm’s.
+
+As I did, I jumped from the side of a skyscraper. I landed onto a mini-van, my feet slicing through it with ease. I burrowed into the ground before catapulting myself from the earth. I landed on the ground, running out my momentum. As I did, a notification appeared.
+
+Mythical Skill learned! The unique skills, Kinetic Leviathan, Restless Senses, and Gorger of Mana all combine into Unescapable Hunger! Half of unearned skills are rewarded as tree points: 68 tree points.
+
+Skill augmented! Force of Nature enhances the mythical skill Unescapable Hunger, evolving it into Hunter of Many! The new skill retains its previous skill value.
+
+Hunter of Many(lvl 1) - Your pursuit is unending. Your hunger is everlasting. Your jaws are wide and your teeth unseen. Your bite is horror for those that see it. Your bite is death for those that feel it. The effects are as follows:
+
+A wild grin spread over my face. I didn’t expect a new mythical skill like this, but it was always welcome. The formatting of the skill was better too, giving me a clearer idea of what the skill does. What the skill did was pretty damn good too, giving me a plethora of useful bonuses.
+
+Speaking of bonuses, I opened my status screen. I gained 340 levels in total over about three days of hardcore training. It probably would take exponentially longer to gain levels since the beetles stalled out at around level 2,500. Any higher than that took minutes for them to gain a single level.
+
+That may not sound like much, but when you’re thinking of adding a thousand more levels, time adds up fast. Before closing my status, I checked out my augmentations on my armor. They were starting to make a difference.
+
+[Modifications - The dimensional fabric composing this structure has been modified with code from the dimensional cipher. With mana, further bonuses can be applied. The bonuses are as follows.
+
++72 Strength
+
++72 Dexterity
+
++360 Endurance
+
++36% to effect of legacies
+
++180 Willpower
+
++18% to internal motivation]
+
+I also opened up my legendary skill, Force of Nature to check out the bonuses again.
+
+Force of Nature(lvl 1,011) - You are nature given fury. Enhances all techniques and application of skills within this ability, including: Close Range Combat, Runic abilities, Telekinesis, Gravitation, Sensory Abilities, Bearing, and Draining Abilities.
+
+Bonus Attributes: 100 Strength, 100 Dexterity, 40 Constitution, 40 intelligence, 20 Perception. +10 to all attributes for 1,000 in a legendary skill.
+
+Ability Bonus: 100%
+
+Mana Cost Reduction: 20%
+
+This reminded me why I focused on skills instead of my cipher. The cipher might pay off in the long run, but I gotta survive today before I survive tomorrow. I needed Amara’s help to really take advantage of the cipher. With her giving me a boost, it might not even be a full year before I can take on Yawm.
+
+Amara already started the process. Despite being an eldritch, she was a trooper. She sent me a dozen messages during my training session. I skimmed through them as I fought, but none of them were urgent. They were basically just telling me how I should write in the cipher.
+
+I would read them in detail once I got back. Before I did get back though, I invested all my attribute points into endurance. I selected finalize, and the jolt rippled through my skin and veins. The cells in my muscle multiplied, condensing till they were hard as iron. Hell, they were probably already as hard as iron. It was hard to tell at this point.
+
+Mana flooded my system too, the energy dense enough to feel liquid. As I increased the flow of mana into my cipher, I passed a threshold. I channeled more mana than during the display with Yawm. The next time I trained like this, I would invest my levels as I went.
+
+It may have resulted in only one more incarnation of the cipher, but that might make the difference later on. Before checking out the changes on my character screen, I checked out my tree menu. I put all my points into my current tree, Immense, and a notification appeared. I finally got enough points for it.
+
+You are a behemoth with flesh of metal and blood of iron. They try and shatter your skin. Your laugh echoes over the sound of their fire and fury, like an omen. They feel your voice in their bones. Immense unlocked!(Tier 1) 5% of your total mass is added to your physical bonus damage. Unlocks the unique skill, Mass Manipulation.
+
+Unique unique skill unlocked! Mass Manipulation!
+
+Mass Manipulation(lvl 1) - Your will warps matter in its wake. Allows the user to increase or decrease the density of mass. Level of control varies by level.
+
+Whenever the notification sounded, there was a flood of strength. I didn’t think 5% of my mass would be that big a deal, but it was a colossal increase. It overwhelmed me, like adrenaline flowing into my veins.
+
+I grinned, my hands clasping into fists. My arms thickened. My back broadened. I shifted my toes in my armored boots. They let out echoes, like hammers smashing against metal. I gripped my hands together, squeezing them with all my might. My armor bent under my grasp.
+
+I laughed, relishing in the sudden explosion of vigor. A couple more ranks in immense and I might even be stronger than Yawm. With that fervent excitement, I checked out my character screen.
+
+Level 3,466
+
+Strength – 3,010 | Constitution – 4,720 | Endurance – 18,336
+
+Dexterity – 1,119 | Willpower – 9,441 | Intelligence – 3,207
+
+Charisma – 297.5 | Luck – 996 | Perception – 435.7
+
+Health: 1.78 Million/1.78 Million
+
+Health Regen: 2.10 Million/min or 34,957/sec
+
+Stamina: 1,066,041/1,066,041 | Stamina Regen: 16,301/sec
+
+Living Dimension: 0.32 Trillion/4.30 Trillion
+
+Mass: 120,688 pounds(54,858 kilos~) | Height: 9’7(2.9 meters)
+
+Damage Res - 98.5% | Dimensional Res - 49.25%
+
+Phys Dam Bonus – 58,247% | Damage Bonus – 40%
+
+Event Horizon – 20,000 + (100% of your total health)/min
+
+I shook my head for a moment, flabbergasted at my health regen. It was something else altogether. The other dramatic increase was in my physical damage bonus. After crunching a few numbers, I understood why.
+
+Immense gave me around 6,000% more physical damage. Combine that with my three times multiplier for the stat, and the difference was, well, immense. Knowing all that, I cracked my knuckles while walking towards Yawm’s palace. A realization stunned me.
+
+I was taller.
+
+It wasn’t a dramatic difference, but Yawm would notice. That would make him suspicious. When Yawm was suspicious, he made people sign contracts or worse. I sighed, a lump of frustration welling up. My eyes widened as I remembered the second part of the skill tree.
+
+I gained a unique skill called Mass Manipulation. I reached out a hand, trying to condense myself. A few seconds later, an odd sensation crossed up my hand. It was like banging my ulnar nerve, sending pins and needles up my hand. There was no visual difference in my arm, but the sensation was distinct.
+
+I reached out, amplifying that sensation in my arm. As I did, the sensation expanded up my arm and into my shoulder. I grit my teeth, hardening my mind. There wasn’t time to spend learning this skill. I needed proficiency in it, enough that I wouldn’t even notice it being on.
+
+I turned around, walking back towards the beetles. I sure as hell didn’t feel like fighting them again, but I had to hide myself somehow. It would take at least a few hours of messing with this skill before I had it down enough to keep myself smaller.
+
+Just like that, I found some more damn beetles and started the chase once more. The abstractions circled me as I honed in on densifying myself. It sounds as hard as it was. The pins and needles faded with time at least. As I leveled the skill, the difficulty of it faded, letting me get the hang of it.
+
+It helped that Hunter of Many made dodging the beetles a breeze. I kept sapping the poor beetles until I leveled Mass Manipulation to 15. Once that was done, I reached out with Event Horizon. Something I noted was that it wasn’t working like before. It didn’t drain half the damage it dealt.
+
+It drained more.
+
+That’s when it clicked. Hunter of Many enhanced draining effects. That included Event Horizon. When I opened up my status, I couldn’t find an exact value per say. It was enough to notice the difference at least.
+
+So I closed my status and finished off the last fleet of beetles. They were all level 1,500 or so. Even after killing a hundred of them, I only gained a paltry for levels. It would be slow going for the levels now. At least Mass Manipulation let me disguise my gains from Yawm. That enabled me to pull this whole plan off.
+
+With all that finished, I invested my attribute points and headed back to Yawm. By the time I reached his ice castle, the sun was setting. It was hard keeping track of time since I didn’t sleep anymore. I mean life was just one long day. Without all the willpower, I wouldn’t be able to take it.
+
+But I did have all that nifty willpower, so I put it to good use. I swam through the ocean, manipulating my body with gravity wells. I remember the process being demanding and difficult. Now it was easy as blinking.
+
+I floated into the air bubble on the far side of the pale fortress. I walked through the doors, a bit of water dripping off my armor. I stepped forwards, towards my room. As I passed by Amara’s room, Yawm walked out. He sighed, his lumbering shoulders wider than a fridge.
+
+“Ah, it’s good you’re back Daniel.”
+
+I raised a hand, “It’s good to be back. I got caught up in the whole process.”
+
+“Hah hah, it’s easy to do.” Yawm crossed his arms and leaned against the doorway. “I just finished a lesson with Amara. It wasn’t particularly helpful.”
+
+“Heh, she’s by no means a natural teacher. At least from what I’ve garnered from her.”
+
+Yawm nodded, “My sentiment is the same.” He squinted at me,
+
+“Wait a moment...are you...shorter?”

@@ -1,0 +1,169 @@
+---
+id: dc2860c5-ebea-5e6a-8e4c-ec25d8e57ed2
+page-type-slug: story-chapter-royal-road
+title: "Chapter 134 – The First Option"
+slug: 0134-chapter-134-the-first-option
+partOf: the-magpie-and-the-archmage-monster-evo-litrpg
+position: 134
+ownLength: 1985
+unit: words
+publishedAt: 2026-06-10
+link: "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3517692/chapter-134-the-first-option"
+royalRoadId: "3517692"
+---
+
+"What the hell?! This is just as bad as fire!" Cee screeched while Liora executed some of her craziest aerial maneuvers to avoid the hot jets of boiling water.
+
+But Liora wasn't about to let these crabs get their way. No! She's had it with these crustaceans, thinking that they could get away with their dirty fighting tactics.
+
+Liora opened her mouth and made a loud, reverberating BOOM, BOOM, BOOM noise. The effect was instantaneous as the crabs' aim went all over the place, shooting their jets haphazardly or some even stopping altogether.
+
+Liora kept up her barrage of loud, explosive sounds until the moment she Faded. The crabs were completely disoriented, stumbling around as if drunk. She used this chance to Rend two of them using her sharp talons. Crabs were incredibly tough, but by nudging her talons into the right nook between the shells where they were connected, she was able to crack them open.
+
+[You've defeated <Obsidian Crab – Level 33>. Experience gained.]
+
+[You've defeated <Obsidian Crab – Level 32>. Experience gained.]
+
+As soon as Fade ended, Liora used Resonance Mimicry again to produce the loud, reverberating explosion noises. BOOM. BOOM. BOOM. Frankly, the noise was disorienting even her a little bit. But it was working way better on the crabs.
+
+The monsters were so confused by her racket that they sniped each other with their sharp pincers, doing half of the work for her. It made it all the easier for Liora to finish them off with Rend or Lunge, until eventually she had a nice pile of dead crabs in front of her.
+
+[You've defeated <Obsidian Crab – Level 30>. Experience gained.]
+
+[You've reached Level 37.]
+
+"Woo! Only three levels to go. What about you, Cee? Managed to snag some experience for yourself?" Liora asked, looking at the spider on her back.
+
+To her surprise, the spider had gone completely limp on her back, held in place only thanks to her sturdy cocoon.
+
+"Cee?! Are you alright?" Liora asked, fearing that her Resonance Mimicry might have done some serious damage to her friend. She would have expected the spider to remain largely unaffected, since the resonant waves were aimed at the crabs.
+
+"P-Please don't make those noises while I am on your back…" Cee muttered, her leg twitching.
+
+"Sorry, Cee!" Liora apologized. To make it up to Cee, Liora collected all of the glimmerstones from the crabs herself and still gave half to Cee, even though she hadn't done anything in this battle. Liora got a nice haul of 140 glimmerstones, which left Liora with 70 glimmerstones for herself.
+
+Every glimmerstone would be precious now. Renir was more than eager to spend them on skill upgrades. Liora prayed that she wouldn't be able to max out skills anytime soon, but she got a feeling that wouldn't be the case. Fade and Lunge were at [Legend] level, and she was using them quite often.
+
+"Next time, before a battle, drop me off on the ground," Cee grumbled as she stashed the glimmerstones in her Inventory.
+
+"Got it…" Liora said guiltily.
+
+"Now, how do we cook these crabs?" Cee asked. "I don't think they'll be as good raw."
+
+"You got those magma webs, no? Maybe you can set them up between some rocks, and we toss the crab meat on them?" Liora suggested.
+
+"Oh, splendid idea. Maybe it will train my skill levels while we are at it," Cee cheered and set up some of her magma webs between two larger stones on the beach.
+
+Liora could see that Cee was still struggling with her magma webs. While she had gotten over the impossibility of creating fire webs, thanks to Renir's mentoring, she still hurried to place fire webs down as quickly as possible, worried they might burn her.
+
+But the webs came out of… her business district. Surely if they could burn her, they would have burned her from the inside. Or was the flaming aspect applied only once they left her body? Frankly, Liora felt it was better not to know.
+
+But much to their delight, when Liora threw the pieces of octopus meat on the magma webs, it began to sizzle.
+
+"It's working!" Liora cheered and hurriedly withdrew salt.
+
+How are you going to spray salt on the meat if you have no fingers?
+
+That was a problem. Her talons were made for tearing things, and she didn't exactly want a beak full of salt.
+
+"Cee, can you spray the salt on?" Liora asked.
+
+"Let me try."
+
+As it turned out, Cee's nimble legs were good at handling small things, salt included. She was able to spray tiny amounts of salt on the crab meat. It wasn't as precise as with fingers, but it was good enough. After a while, Liora used a stick to flip the meat to the other side.
+
+Some pieces did get a bit too charred, but the overall result looked good. Soon enough, they had a bunch of crab meat cooked and ready to eat. To their surprise, it was actually… good.
+
+It wasn't great. Obviously, this crab meat would taste better if it were prepared by a real chef. But for something cooked by a spider and magpie—it was great. In fact, it was wonderful. Liora and Cee were so proud that they cooked up another batch and placed it in their Inventory to eat later.
+
+"Wouldn't it hurt to stay here for a bit longer?" Liora prompted.
+
+"Yeah, I suppose not. I do like that it's not cold here, although it's the middle of winter," Cee noted.
+
+"We could stay here until spring," Liora suggested.
+
+"With that wyvern around? No, thanks. Now let's find a safe hole to hide in. I don't want to be around when the wyvern wakes up."
+
+Several days pass with Liora and Cee training on the volcanic island. They remain active during the night and sleep during the day. That's when the wyvern was active, and they sure as hell didn't want to run into it.
+
+But during the night, they were mostly safe. The weird lava-eating armadillos were tough opponents to beat. They spewed lava whenever somebody approached and had a shell tougher than the crabs without the obvious weak points. Liora's Resonance Mimicry once again proved to be a crucial weapon.
+
+As it turned out, creatures with ears really couldn't handle these kinds of attacks very well. In the worst case, it confused them, disrupting their attacks. In the best cases, Resonance Mimicry would do outright damage. Breaking the shells of the armadillos was still difficult, even when they were confused and not spewing lava.
+
+Rend wasn't quite strong enough to break through right away. She had to Rend at the same armadillo several times before the shell would give way. But Liora's efforts were rewarded.
+
+[Your skill <Rend> has reached [Expert] level.]
+
+With that boost, Liora was able to break through armadillo shells in one go if she angled her talons correctly. She felt sorry for any creature without armor that would have to meet with her talons. These things were horrifying. Even she was a bit afraid of them.
+
+Thankfully, while not hunting, Liora could revert to her magpie form and not worry about any deadly talons.
+
+With armadillos and crabs mastered, it was time to move deeper inland. Liora and Cee proceeded with caution. Before engaging any monsters, Cee would riddle an area with her webs, while Liora would use her superb agility to lure enemies into them. Same strategy they had used in the marsh, and it worked just as well.
+
+The bats were an annoying enemy to fight. They were resistant to Liora's Resonance Mimicry and instead would try to confuse them with sonic screeches of their own. But they weren't very smart. When Liora flew away from them, doing her best to ignore the horrible screeching noises they made, the bats followed her in pursuit.
+
+That ended as one would expect—with bats tangled up in Cee's webs. Easy experience for both of them. Granted after fighting a few small groups of bats, Liora and Cee called it quits. Their screeching caused horrible headaches.
+
+After a week on the island, Liora finally received the long-awaited notification.
+
+[You've reached Level 40.]
+
+[You're ready to evolve. Would you like to see your evolution options?]
+
+"I can finally evolve again!" Liora declared as she picked out the glimmerstones from the dead bat.
+
+The glimmerstones they've gained over this week were no joke. Liora obtained over 200 glimmerstones, which she added to her hoard.
+
+"Excellent! Then let's settle into our cozy rocky nook and check them out. I bet there must be something good in there," Cee cheered.
+
+Liora also had a good feeling about this evolution. Previously, she would have been reluctant to evolve, but none of her evolutions so far had been disappointing. She had become a bigger, stronger bird. While nothing could beat the elegant beauty of a magpie, she did like having a powerful battle-ready form alongside her convenient magpie form.
+
+I feel like a proud father. To think you would be excited to evolve. It brings a tear to my eyes.
+
+You don't even have eyes. Also, did you just admit to being old?
+
+I AM NOT OLD!
+
+Sure… I bet you're actually a wizard with a long grey beard, all wrinkled in the face.
+
+I do not have a beard, and my hair is a beautiful red color.
+
+Anyone can color their hair. I meant your natural hair color.
+
+It is natural!
+
+Sure, and I'm a seagull.
+
+Liora flew back to their hiding spot, although it was clear that Liora wouldn't be able to evolve there. While sleeping, Liora took her magpie form, which was much, much smaller.
+
+"There aren't any holes big enough for me to evolve in?" Liora noted with worry.
+
+"How about I make you one?" Cee suggested.
+
+"Out of webs? That isn't really much protection…" Liora noted.
+
+"No, but it might work as camouflage. Watch this." Cee hurriedly wove a small bit of dense web, then scurried over to the nearby beach, grabbing some of the volcanic sand. She then proceeded to cover the webs with it.
+
+"Oh… This could blend in well," Liora agreed.
+
+"Told you so. It's not perfect, but on this island, I think it's the best we've got. I suppose we could go back to the mainland if you really want to," Cee said.
+
+Liora thought about it for a moment, then shook her head. "No, I think that will do. You'll watch over me, won't you?"
+
+"Of course. Albeit, if the wyvern finds you, then I'm sorry to say that we're both dead then," Cee said with a shiver.
+
+With that said, Liora and Cee worked for quite a while to create a perfect "evolution tent". They created it on the edge of the beach, near the rocky outcropping. It was a low and secluded location, not even the crabs came there often.
+
+Nonetheless, they made sure that it was well hidden and hard to spot both from the ground and from the air. Cee even walked on it to make sure that the webs could endure the weight of a small monster. They could, but obviously, anything heavier would break them.
+
+"Okay, enough of the suspense. Tell me your evolution options!"
+
+I'm also dying to know.
+
+Liora was equally curious and ordered the system to show her the evolution option. However, her beak opened in shock when she read her first option. She hadn't been ready for this choice. Not yet.
+
+[Umbral Harpy]
+
+[You are on your way to becoming a real beastkin. While not yet humanoid, Umbral Harpy has a more humanoid build with long, sleek legs, arms, and torso covered heavily with feathers. The head remains like that of a bird and can perform feats of Mimicry other monsters couldn't even dream of.]
+
+[Cost: 70 glimmerstones]

@@ -1,0 +1,367 @@
+---
+id: 97f5f990-9ca3-5899-85d9-7703610f216c
+page-type-slug: story-chapter-royal-road
+title: "The Path of Ascension Chapter 197"
+slug: 0026-the-path-of-ascension-chapter-197
+partOf: the-path-of-ascension
+position: 26
+ownLength: 5817
+unit: words
+ownProgress: 5817
+publishedAt: 2023-01-23
+link: "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/1095265/the-path-of-ascension-chapter-197"
+royalRoadId: "1095265"
+markedReadAt: "2026-06-29T19:18:20.586Z"
+---
+
+Chapter 197
+
+Matt’s spiritual sense didn’t even have enough time to properly register what was in the safe room before he rolled to the right. At the same time, Susanne’s and Aster's AI linked with his own, giving him a wealth of information.
+
+He came out of his initial dodge and kept sprinting to the right while arrows and spells peppered his newly-resummoned [Cracked Phantom Armor].
+
+He appeared next to the Clan’s gathering point, so while the attacks weren’t absent, they weren’t full-on either.
+
+Thankfully, once he neared the Empire’s portion of the safe area, he was able to slow to a walk and join his Power’s side.
+
+This wasn’t a surprise, and it was exactly why they set up this contingency before they left.
+
+The first people into the safe room would be those that weren't going for the theme reward. While that population predominantly featured Tier 14s, it also included a fair number of Tier 12s and 13s from the other seasons that just wanted out, whether or not they had enough for the exit reward.
+
+With the exception of the Sects, each Great Power had managed to convince enough of the people that were exiting to stick around for three hours in their own ‘territory’. If only to give additional protection to those taking the theme challenge as they reoriented themselves to their real bodies.
+
+There would be no repeats of the previous floor’s safe room if Matt could help it.
+
+Three hours, translating to three months in-challenge, should be plenty for most people to get their upgrades and move on.
+
+Anyone who took longer than that was on their own.
+
+Matt noted that Liz wasn’t here yet, which implied that she ran into some difficulty, but he wasn’t overly worried.
+
+Jill wasn’t out yet either, while Bradley was chatting with the first-place solo winner of his own Tier 10 tournament, Statue.
+
+The woman was a metal mage as well, but had gotten a [Metal Body] ability far earlier than Bradley, and had used the impressive amount of control she had over the nigh-invincible state to great effect.
+
+Statue saw Matt appear, and after inspecting him and nodding, she turned her attention back to the surrounding Great Powers.
+
+Aster exuded smugness at her growth item’s upgrade, but as they had decided to lean into the idea that she was Susanne’s bond, didn’t jump into his arms.
+
+All of them wanted to show off their new abilities, of course, but by prior agreement, they would hold off until all four of them were together.
+
+He did feel out the Boon settled into his spirit, familiarizing himself with it. It felt like… well, like a new limb. Something that hadn’t been there before but was wholly one with him.
+
+Its effects surprised him though. He had gotten a far stronger reward than what they had recorded. He’d expected a better than average reward but something this good was beyond his expectations even after single-handedly powering the faction to victory but there were harsh diminishing returns on the favor to final Boon conversion so he hadn’t expected anything quite so impactful.
+
+Matt had heard that very rarely, an upgraded [Manipulation] skill could gain a truly incredible amount of finesse and feedback while becoming almost free to use, and he was reminded of that as he tried out his new abilities.
+
+[Ice Manipulation], [Air Manipulation], and [Shadow Manipulation] still cost the normal amount to use, but they were responsive in a way he’d never felt before.
+
+As a quick test to check the changes he could fell, he made himself an finger sized ice sculpture of a songbird, and found that not only was he able to effortlessly imbue it with detailing on each feather, but he could make the ice flex and flow in a way that it could flap its wings and fly like a real bird without cracking and shattering like normal ice.
+
+There was more to it as well, but before he could experiment and find out how else the Boon had impacted his skills, Liz appeared right outside the Federation’s territory and was bombarded by attacks. Fortunately, when people were put into the spatially expandable safe area, it was a good distance away from other people, so no one would appear inside anyone's formations. Thanks to the degree of separation, Liz was easily able to escape the attacks and join the Empire’s group. With her there, the four of them wasted no time in racing to the pillar leading them to the next floor, and were quickly whisked away in a swirl of motion.
+
+***
+
+Luna was watching a woman celebrate exiting Minkalla after an inspiration to Tier 15 when she felt the ripples of space fluctuate around all eight Great Powers’ moons, and ripped a hole through reality at the same time.
+
+She and every other high Tier were caught off guard at the sudden influx that implied that the fourth floor had been conquered. Normally, that took at least six months when there were only two courts. A two-court fourth floor was… unlikely. And even then, it had only been three months.
+
+Something had happened, and she had a good inkling of what exactly it was.
+
+She and Carol moved, appearing in the midst of a small crowd of incoming cultivators and diverting more teams to the space she had chosen, until she had about a hundred in total. She gave her chosen mouthpieces a few moments to orient themselves to being outside of Minkalla before she spoke, with her Domain leaving no room for misinterpretation or delay.
+
+“Explain exactly what happened. All at once and leave nothing out.” To ensure there wouldn't be any complaints, she pulled a Tier 20 mana stone out of one of her spatial rings for each of them, and placed her bribe in front of each respective ‘volunteer’.
+
+It only took a second for all of them to start rambling over each other.
+
+At Tier 43, she had no issues hearing and dissecting each and every one of the delvers’ stammering, cutting out the wasteful information, and gathering the pertinent bits she wanted.
+
+She felt a smile creep over her face as she got a jist of the situation.
+
+The children had gotten a four seasons theme for Courtly Warfare, beyond perfect for Aster.
+
+As more people chattered, she started to paint a better picture.
+
+Seemingly out of nowhere, Winter had attacked Spring and took the city in a surprise ambush.
+
+They thought it was a fluke, but the season had a general before anyone else, and then turned and attacked Fall.
+
+While it had been a harder fight, they had defeated a General in a great battle that wrecked a sizable portion of the city.
+
+That information caught her attention, and an eyebrow rose as she heard of the General's prowess.
+
+The pinnacle fighters having most of an Intent was stronger than usual, but nothing she hadn’t seen before in a Courtly Warfare floor. Minkalla never made any monster stronger than Tier 14, which meant if it wanted to make a real challenge, it was limited in its ability to do so.
+
+It also couldn’t, or at least had never, made a monster with a full Intent, but making monsters with some combination of Phrase, Image, and Anchor wasn’t unusual. Though a monster of that ilk appearing at floor four was rare indeed and a monster with a strong pseudo Intent was unheard of on the fourth floor.
+
+Still, from the babbling of the cultivators who exited, she was able to determine that her charges were part of the team that defeated the General, and that they hadn’t taken any casualties.
+
+Susanne and her Queen identity had been identified and targeted, but she was alive and well. While unfortunate, her cover being compromised was entirely expected. She would’ve been hard pressed to kill everyone who saw her Concept manifestation.
+
+She kept an ear out for anyone talking about a blood mage, but no one mentioned it, which meant that Liz had managed to remain hidden thus far, which was good.
+
+It would’ve been better if she had stuck to fire skills, but with the talk of a water mage fighting the general, she suspected that the girl needed to bring out her real skills, even if hidden. Though she couldn't be certain of that as water mages were all too common of an archetype to identify one of them as Liz from the third or fourth hand descriptions.
+
+There were rumors that Quill had been in the fight as a massive ice spell she recognized was used to battle the General but that seemed more rumor than fact and she had fully expected the children to be pegged for their masked identities.
+
+That was their purpose after all.
+
+With her curiosity sated, she provided each of them with their promised mana stone and allowed them to go on their way. They could now go Tier up and enjoy their immortality. The smart ones would buckle down and progress as fast as possible, but that wasn’t any of her concern.
+
+The children were.
+
+And things were going well on that front. Now they just needed to see what the latter half of Minkalla would throw at them.
+
+She chuckled as she thought of the fact that Kurt and April might miss them coming out because of the incredibly fast fourth floor.
+
+With a flex of her Domain, she returned to her house and her vigil, Carol joining her a moment later.
+
+This time, she was in a much better mood. Her little monsters were growing up and showing their fangs.
+
+Killing a peak Tier 14 with most of an Intent?
+
+Winning Courtly Warfare in a fraction of the normal time?
+
+Her smile only grew as she thought over the debrief she would get when they came out.
+
+She could not be more pleased.
+
+***
+
+When they landed, Matt cast [Cracked Phantom Armor] and [Bulwark], preparing for any attacks, but none came.
+
+He noticed what was wrong at the same time as everyone else.
+
+Their skills were slowly, but noticeably becoming more expensive.
+
+Dropping his active skills, Matt cursed, but Aster said it first with a sad whine. “Taxing Skills confirmed.”
+
+That reminded him to drop his AI and he knew he wouldn’t be able to understand his bond for the foreseeable future.
+
+Taxing Skills would increase the cost of their skills the more they used them, and Minkalla had the habit of throwing huge groups of monsters at people to force skill usage. Fortunately, none of them were completely dependent on skills, like a pure mage would be, though Aster was the worst off. Bloodlines and Concepts weren’t affected, which, in their case, just lowered the burden that Aster and Liz would need to put on their mana for their skills.
+
+Still, the reward would be very useful. Especially for Matt.
+
+At this depth and Tier, Matt expected to get three extra Core skill slots, fifteen Inner ones, and forty Outer slots from the reward, and not a second too soon. Constantly delving fully-charged rifts meant that they were flush with skills, and Luna expected him in particular to be proficient with so many of them. Most of his Manipulation skills were in his Outer Spirit, and if he could just bring a handful of those into his Inner Spirit, he’d already be much better off.
+
+There were only a few other floors that Matt would rather have gotten over Taxing Skills for its reward. Its floor restriction on the other hand was going to pose a serious challenge.
+
+Liz tapped her leg and asked, “Chances Minkalla shuts down our talismans again?”
+
+Matt thought for a moment as he scanned their surroundings. “Not sure. I think a total shutdown is unlikely, but they might get less effective if we overuse the same ones.”
+
+They were in a narrow corridor with brass walls covered in tubing boxing them in on each side, but it was open to a dull, violet sky above. Matt flexed his Concept, trying to get airborne, but his feet stayed planted on the ground.
+
+“Can’t fly with my Concept. Cover me as I try a flying device.”
+
+As Matt spoke, the other three changed positions to cover him, but it turned out to be useless.
+
+The instant he brought his flying sword out, it clattered to the ground.
+
+Liz looked back and cursed. “A labyrinth? Fuck me sideways. Well, this is quite the pickle.”
+
+Matt couldn’t help but agree. Labyrinth rifts and ruins were annoying at the best of times, let alone in Minkalla, when time was of the essence.
+
+Susanne shrugged. “It could be worse. At minimum, we shouldn’t need too many skills for a maze, and at best, we might be able to totally bypass it.”
+
+Liz was already one step ahead of them, feeding an essence stone into their seeker-compass and waiting for it to settle. Matt, meanwhile, pulled out the key they’d found at the same time, seeing if it had any resonance with their surroundings. It didn’t, so it returned to his ring a moment later.
+
+Aster pointed out the problem with their compass even though Liz had to translate, “How much could it really help? Pointing to the most valuable thing may almost be bad, because of how many treasures would be in the middle of this place. And even then, it won’t tell us the correct path.”
+
+Liz sighed as she put down the compass and asked, “Well, how did everyone do with their upgrades and Boons? Everyone get something good?”
+
+As they went around and explained their upgrades, Matt inspected his own sword. As the old man Jeffrey said, he was able to change his weapon's enchantments with a thought. Or rather, it was like the blade in his hand had two different spirits that he could swap out at will.
+
+It was something like flipping a switch, and when he did, the melee-focused abilities that he had enchanted the blade with vanished to show his longsword clean and pristine.
+
+A little poking around the weapon’s enchantment capacity also revealed that he had more room to enchant his weapon than he had before, even if it was relatively minor in comparison to the ability to swap enchantment sets all together.
+
+“I’m going to need a little bit of time to enchant my weapon once more. I can store two forms now, but the second one is blank. I got more room with the upgrade too, so I’ll need to re-enchant the first form anyway.”
+
+Liz looked around at the gleaming walls. “How long do you need?”
+
+Matt thought for a second before saying, “Give me five hours. I want to fix the blade up half decently, since it can help counter spells getting more expensive. But I don’t want to take the half a day that it would normally take to really plan everything out correctly.” Thinking about it some more, he changed his mind. “Actually, I don’t want to change the current enchantments with the floor theme. So, for now, I’ll just add spells to the other side.”
+
+Before he got too far into it, he pulled out a stack of talismans and handed them out, saying, “Attack talismans.” He pulled out some of the items he had prepared for Minkalla in case they got this floor and continued, “And attack items. The bracelets have simple [Mana Bolt] enchantments, but if we play it slow, it should be enough to not rely on our skills at all. I have staves with more varied skills. Let me know if you want them instead.”
+
+Liz mirrored his action with a few potions. She didn’t have that many universally applicable ones, but not many still wasn’t none, and they could use all the versatility they could get.
+
+He wasn’t willing to use his AI on this when it could be such a decisive advantage against other delvers in the very near future, but Luna had seen to it that he could make something worthwhile without it. A few additional spells added to his suite could help out immensely here, and it wasn’t like they hadn’t prepared for this floor beforehand.
+
+For the time being, Matt applied a few temporary enchantments to his blade, free handing the runes required by copying them straight off of a spare staff. They weren’t his best work, not by a long shot, but they’d serve him well enough for the time being as a backup, just in case they ran into any more spatial locks.
+
+His first choice was [Fireball]. It was a simple spell that had endless uses, and he actually knew the rune form of the skill without the assistance of his AI, since he used it more than a few times with his talismans.
+
+His other choice was [Mana Barrier]. It wasn’t a flashy spell, but he wanted a defensive spell in case Minkalla decided that his use of talismans was cheating once more. As far as he knew, items were never hit with the same restrictions as consumables, and were the main way people dealt with the floor.
+
+Matt finished up with a bit of a grimace. It was far from his best work, and half the runework had a decent shot of blowing out, even if Minkalla didn’t impose any restrictions on them. But he didn’t want to hold them up any longer. His crafting skills were already taking up a truly obscene amount of mana with each cast as Minkalla began exacting its toll. The others had spent the time familiarizing themselves with their Boons and new growth item features as well, but none of them could really afford to waste skill casts at the moment.
+
+Further unfortunately, none of them had gotten any Boons or growth item upgrades that would help them in this situation. Liz’s Boon gave her skills something of a mental effect which made it harder for people to notice they were bleeding or feel the wounds that her blood inflicted on them, Aster got the ability to affect more kinds of ice with [Ice Manipulation] in a way that Matt didn’t fully understand but was assured was quite important, and Susanne gained the ability to ‘cut’ light with her Concept sword, making herself invisible for brief periods of time.
+
+Matt still hadn’t figured out what his Boon did beyond the upgrades to his Manipulation skills but he could feel it was there.
+
+Still, they would make do. It was a slow trek, as labyrinths and traps were nearly synonymous, and none of them were crazy enough to walk forward without checking for danger.
+
+Liz took point, using her elephant summon to lead the way in the hopes it would trigger any weight-based traps. Matt, meanwhile, used a fifteen-foot pole to probe suspicious-looking spots while Susanne and Aster watched their rear, keeping an eye out for illusions.
+
+It didn’t take them long to encounter their first trap.
+
+As the elephant walked over a seemingly normal spot of floor, there was a loud crack in the air as a flurry of spikes appeared embedded in the wall, causing a few metal chips to ping against Matt’s armor and causing the elephant to dissipate in a burst of mana. The holes they had flown out of definitely hadn’t been there a second ago.
+
+Considering that Matt couldn’t even scratch the wall with [Metal Manipulation], those spikes weren’t normal, and neither was the trap.
+
+Carefully, he tried to use the holes they created to get a grip on the walls of the labyrinth, but once more, his spell slipped off as if it wasn’t metal at all.
+
+Susanne whistled. “Well fuck that. How quick was that attack? A millionth of a second? No way to react to that at our Tier.”
+
+Matt shrugged; he simply didn’t have an answer for her. None of them kept their AI running, as even reserve AI would slowly increase in cost, so wasting that build up time would be stupid this early.
+
+After checking the area for even more traps, they found nothing, and they stopped to look at the trap's mechanism.
+
+Even after checking the holes in the wall with a mirror and seeing they were empty, Matt felt incredibly uncomfortable being in front of them. Thankfully, they weren’t attacked when they removed the spikes or when they passed the holes in the wall.
+
+To their surprise, when they passed the danger zone, they actually felt a small stream of Genesis Energy flow into them from the walls of the labyrinth.
+
+Being rewarded for passing the trap successfully wasn’t unheard of, but it was surprising.
+
+It also caused their wariness to increase a hundredfold. The mirror that had broken every illusion they encountered beforehand didn’t even react, which meant that the traps weren’t hidden with magic. Either that, or they were simply stronger than the mirror. Matt added on a possibility after a little thought; Minkalla could just be suppressing the mirror to ensure that its challenge was completed without their bypassing the true nature of the test.
+
+Matt shifted his grip on his stick and moved forward, checking each step until they had walked hundreds of feet forward in the plain, concrete hall.
+
+It felt like an eternity, but they eventually found themselves at a crossroad as the path they were walking ended suddenly, prompting Aster to hop up and make a mark on the wall with a bit of chalk.
+
+Everyone looked at Liz as she consulted her spherical compass. “It’s pointing in a sort of right direction.”
+
+She hadn’t sent her elephant more than half a dozen feet down the new corridor when a stream of flame came out from the floor, scorching and burning the elephant half to death before it managed to escape.
+
+They shared a glance as Liz dismissed and re-conjured her summon, and Matt tapped the newly-revealed rune with his pole, prompting another plume of fire.
+
+Liz retrieved a few handfuls of dirt from her spatial garden and tossed it onto the ground. With a pulse of his Concept, Matt sent the loose soil skittering across the ground, unveiling a checkered pattern of runes across the floor.
+
+Liz took the lead, with her phoenix bloodline giving her the best chance of skill-less fire resistance. She tiptoed across the safe zones with a [Water Bubble] talisman clenched in her hand, reaching the other side after only a few hair-raising moments.
+
+Before the others followed, they double-checked that the runes hadn’t moved, which, they were happy to see, had not. With Matt and Susanne’s superior physical cultivation, jumping between safe zones was eminently doable.
+
+Once they had reached the far side, Aster whined and tapped her paw twice on the floor, indicating that she had something she wanted to say. Susanne pulsed her AI on to receive the message, and smiled as she translated, “All this stress is bad for my fur. Can we go back to killing monsters?”
+
+Matt fully agreed. He was decidedly not having fun with this ruin.
+
+It seemed that Aster had jinxed them, as not long after she said that, a horde of Tier 14 kobolds came bursting out of the wall and attacked them.
+
+Seeing them, Matt cursed the other portion of this floor theme and how it changed their encounters. Monsters would come in packs to push them towards using spells in their engagements.
+
+Matt cast three [Fireball]s with his sword before he swapped the form over into his old melee enchantments.
+
+Cutting down, he cursed the fact he hadn’t left either [Mana Slash] or [Mana Charge] in the melee form, as he was reduced to using his sword as a mundane blade while casting [Mana Bolt]s with the bracelet on his left wrist.
+
+Thankfully, he and Susanne were able to fight the monsters with assistance from Liz and Aster as they cast basic spells from behind.
+
+The kobolds did have spells of their own, but Matt and Susanne both had plenty of experience fighting the little monsters. Despite them being Tier 14 inside Minkalla, they didn’t have any new tricks; just their normal arsenal of [Mana Claw], [Bite], and [Fire Breath]. With that small collection of spells, as long as they were on their toes and ready to dodge, they were able to retreat and avoid every attack.
+
+Which was exactly how they handled the two dozen little monsters. With Liz and Aster watching their retreat to prevent ambushes, and keeping them out of the flame runes, they were as safe as possible while also not using any spells that would increase in cost.
+
+Matt did use his gauntlets twice to prevent attacks from landing on Susanne, and his own repulsive field once when he was too slow in dodging, but they still made it out of the fight without taking a single hit, which he considered a win.
+
+As they cleaned up the battlefield, Matt smiled as they got four essence stones, two items, specifically a spear and a ring, and a skill. For being nearly swarm level, the monsters were generous with their deaths.
+
+Aster chortled as she used the mirror to inspect the area the monsters had come from, where a hissing, mechanical room expanded from the labyrinth's normal tight corridors, and a decently large metal box sat conspicuously in the center.
+
+Inside sat a greataxe enchanted with [Mana Slash] and [Acrobat’s Finesse], which Liz tossed into her ring alongside what the kobolds themselves dropped, for later depositing into their loot vault.
+
+After about a day of maze-hunting, Liz called their attention to her compass, which was flickering between two different directions as though it couldn’t decide which was more valuable.
+
+Matt wasn’t surprised that they’d run into another group- floor 5 was small, usually about the size of an average moon- but that they had both appeared in the same ruin as them was a bit unusual.
+
+Carefully, they crept up to the intersection and checked for traps, not wanting to use the elephant in the hopes of not giving away their presence.
+
+They didn’t find any, but Matt used a small mirror to check around the corner. A few hundred feet down the corridor, there was a team of Monster Collective delvers.
+
+Two were beasts, a very obvious lion and a deer, while the two humans with them were basic, as those things went.
+
+Pulling back, they had a whispered conversation and decided to announce themselves in the hope of avoiding a fight, which was likely to happen if they kept quite this close to the other team.
+
+Liz directed her elephant to audibly approach the intersection, its footfalls preceding its entry to the intersection of the two corridors. Once it actually entered into the open space, a voice called out in the beast language, “Who is there?”
+
+Liz responded in the Empire standard, “Empire delvers.”
+
+There was a long silence, but eventually, the same voice called out and Liz translated for them, “We don't want a fight. Who moves first?”
+
+“You can go ahead, and we'll move back into our corridor further so there’s no suspicion,” Liz called back, directing her elephant to return to them.
+
+It took a few seconds, but the other voice called out, “Ok, that works.”
+
+After the lion checked that they had in fact moved back with a quick peek around the corner, the team moved across the hall after checking the ground for traps.
+
+The four of them waited until they couldn’t hear the group moving forward anymore.
+
+Matt used his pole to stretch the mirror around the corner, where they met eyes with the four delvers who had decided to wait in ambush.
+
+With their trap exposed, Matt opened the fight with a pair of talismans, bathing the corridor in flames as he cast [Fireball] through his sword. The deer’s antlers sucked in the fire and came alive, flickering like they themselves were red-gold tongues of flame.
+
+Then, the fire rebounded, and a wall of red-gold fire flew down the corridor at them.
+
+Matt gritted his teeth and cast [Bulwark], blocking the attack in exchange for functionally weakening the skill for the rest of the floor.
+
+Then, he let the barrier fall, and he and Susanne rushed forward, using their physical boosts to close the distance. Susanne pushed past him with a burst of wind, her sword aimed at the lion. It dodged the attack and pounced on Matt with a single movement, claws glowing, but Matt sidestepped the attack with a flickered teleport and brought his sword down on the lion’s head.
+
+Flesh and bone split under his blow even as he flicked both layers of [Cracked Phantom Armor] for half a second, blocking the knife the second human was driving into his ribs.The second layer of his spell blocked the attack, and his gauntleted fist hit the man in the face, crumpling his helmet and sending him tumbling into the wall.
+
+Susanne engaged the deer, blocking a pair of attacks before swinging her sword in an odd way that seemed to obscure Matt’s view of her, vanishing into thin air.
+
+A [Blood Bullet] from Liz whizzed by him and struck the deer on the flank. It didn’t react, preoccupied as it was with looking for Susanne and bathing everything in front of it with golden flames, but it still met its end a moment later as she appeared behind it, grabbed a hind leg, and hacked it in half with a few brutal chops with her sword.
+
+The final man tried to run, but Matt made a quick calculation and shot him with a [Cracked Mana Spear].
+
+There was no retreat after trying to kill his people.
+
+After the man fell, he got back up to his knees, but a [Mana Bolt] from Aster caught him in the heart and through his spine, ending his life.
+
+Kicking the lion's body, Matt asked, “Why be greedy? We were nicer than most. Fucking idiots.”
+
+He knew why, but he was still angry.
+
+The Monster Collective wasn’t hostile to the Empire, which didn’t even give them the excuse that the Republic, Sects, or Federation cultivators had. They were just greedy, and confident in their combat prowess.
+
+Too confident, as it turned out.
+
+Grabbing the lion's body, he felt around the mane and looked for the spatial item that he assumed was there.
+
+It was a necklace, as he suspected, and he sent a thought into it to find a relatively normal assortment of items for beasts, along with a number of natural treasures and other items from Minkalla.
+
+Aster ripped a similar necklace from the deer as Liz came back with the ring and gear of the man who he shot.
+
+“Can you help me? The antlers have some special metal on them, and it seems like I can’t just pull it off.”
+
+Matt wasn’t happy with mutilating a sapient's body for their items, but he still brought out a small hand saw and cut the antlers at the skull. If they didn’t take it, Minkalla would just eat the items, and he really wanted to know if the antlers and their fire absorbent properties were a natural treasure, or something more ephemeral.
+
+He continued his search for whatever the compass had been pointing for, and found a loaded skill shard holster. His curiosity got the better of him, and he pulsed his AI to try and identify it. Annoyingly, it took a few seconds before his AI returned any results, pulling up a secondary data pack that Kurt had passed him in preparation for Minkalla.
+
+[Kar’tan Greets his Foes] was an air-aspected area debuff skill, usually only found in the Monster Collective, but had been picked out as especially good for Aster. It was like the opposite of [Tailwind], inhibiting the motion of enemies even if they tried to use their Concept to part the air in front of them.
+
+He happily tossed the shard to Aster as he continued his search, eventually coming on to a small ruby containing an even smaller flame within. None of them recognized it, but it was packed with enough essence to warrant later inspection.
+
+The humans didn’t have anything so impressive on them, so the four of them continued their trek into the labyrinth.
+
+After another day of spotting and avoiding traps, fighting monsters, and navigating the maze, their compass suddenly started spinning like it couldn’t figure out where it ought to point. It took about an hour, but they eventually uncovered a hidden trapdoor set into the floor below them, opened by turning a nearby pipe knob three and a half times exactly.
+
+It swung open, revealing a lush, green room containing a single, larger bush sitting atop a small hill. It bore a single blackberry streaked with a lighter purple.
+
+Liz was the first to say something, though from Aster’s whines, she probably had recognized it about the same time. “Oh! A void blackberry! That’s a nice find.”
+
+“A what now?” Susanne poked her head in.
+
+“A void blackberry,” Liz repeated with a smile, before relenting and elaborating. “It helps with internal void resistance. Lots of people with void-aspected bloodlines or who otherwise have void affinity can suffer from health problems, but void blackberries help mitigate them… a lot, actually. It’s also key in a lot of potions and enchantments that utilize void mana, makes them more resilient and less likely to corrode. Really good alchemists can even brew void resistance potions from them. So yeah, it’s nice and valuable.”
+
+Matt quipped, “Also, the flavor is apparently divine. I’m almost tempted to take a nibble just to find out what all the fuss is about. It wouldn’t lose much from one single drupelet missing I’d bet.”
+
+Liz whirled on him. “Don’t you dare!”
+
+He laughed, “I’m kidding, I’m kidding. None of us would do that. That means you, Aster.”
+
+He nudged the fox away from the trapdoor before her drool could drip down onto the bush below, and she tapped twice on the ground while yipping. Liz translated her message this time, “It smells like cold and sharpness and ice and nothingness and ice cream and…”
+
+Liz dropped down into the room below, carefully coaxing the bush into her garden orb. In the instant before it vanished into the expanded greenhouse, it dropped its fruit into Liz’s hand. He couldn’t tell if the bush itself had survived- natural treasures were notoriously difficult to transplant and grow- but he hoped it had. Maybe Liz would be able to crossbreed it with normal blackberries, preserving the flavor if not the magical effects.
+
+He was really curious about what made it taste so good.
+
+Reaching down he gave Liz a hand back into the main labyrinth, and they carried on their quest for the exit.

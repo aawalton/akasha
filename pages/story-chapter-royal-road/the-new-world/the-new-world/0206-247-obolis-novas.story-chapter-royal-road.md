@@ -1,0 +1,213 @@
+---
+id: b4277f68-d677-5ea5-88d2-a9ccb7fc6b6b
+page-type-slug: story-chapter-royal-road
+title: "247 Obolis Novas"
+slug: 0206-247-obolis-novas
+partOf: the-new-world
+position: 206
+ownLength: 2921
+unit: words
+ownProgress: 2921
+publishedAt: 2020-02-07
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/454247/247-obolis-novas"
+royalRoadId: "454247"
+markedReadAt: "2026-06-29T21:28:01.913Z"
+---
+
+Stepped through the blue warp, following Helios,
+
+"Obolis? That's his name?"
+
+Helios replied as Torix followed through the gateway. I didn't hear Helios. The stark contrast between the rooms hit me like a truck as I stepped into a different space.
+
+Decrepit, dusty, and old, we entered into a set of ancient ruins. The constant pressure over us let me know we walked deep underground, miles in depth probably. Staring around, multicolored mana crystals dotted the cavern walls. Strips of a red metal traced the walls, reinforcing it with runic markings carved in metal.
+
+Some kind of lichen traced between the crystallized mana and the red metal. Pulsing with life, these lichens channeled the mana towards the runes, powering them up. Glancing around, a few skulls and mummified corpses sat out in the open. By the looks of it, this was some kind of aged bunker. It held up to the test of time, the lichens powering it even after the civilization collapsed.
+
+Around us, scientists and archaeologists of all kinds inspected the surrounding work. They carried lab samples of the lichens, red metals, and pictures of the runic work. They set up a variety of lighting, the fluorescent, sterile white contrasting the more subdued, natural tones of the cavern.
+
+In the distance, a variety of tents were set up, some kind of reinforced plastic set up in the middle. Helios stepped forward, gesturing towards the quarantined area,
+
+"They've discovered a viral eldritch entity, one without a cure. Neither of you should be susceptible to a viral infection given your anatomies, however."
+
+If we were, I'd just sterilize it with Event Horizon. Stepping past dozens of people in power armor, we found a dozen guards standing around the tent. Before being allowed in, Helios walked between two of them. An Albony with an orange mask inspected him with some kind of technical wave of sorts.
+
+The dispersed, holographic scan passed over him before the orange mask nodded,
+
+"My sire, you're welcome within."
+
+Helios walked forward with practiced ease. I got a bit nervous as I stepped up, waiting for the same kind of scan. The orange mask did the same to me before giving me a bow, his voice raspy,
+
+"Honored guest, we detected no viral programs on your person, however-" He gestured a hand to me, "Your defensive software for your person is rather outdated. If I may make a recommendation, I can suggest a few more cutting edge programs you may utilize."
+
+I turned Torix, "Uh, yes, please do."
+
+The orange masked albony took a step back, closing his hands together, "Thank you, sire. Please, the Emperor awaits your company."
+
+Torix followed suit, being scanned over the next few seconds. We passed through the plastic lining that protected the area. The decontamination area didn't go off, though. After stepping into the zone, we found dozens of garbed scientists researching with tech I'd never seen.
+
+They stuck to two general styles of machinery. One used mana and the other used electricity. For the most part, they analyzed the data from two different perspectives, one magical and one more conventional. Torix almost walked over towards the magically inclined lab, his curiosity burning as he said,
+
+"Now that is rather interesting. I've never seen anything quite like that if I may say."
+
+Considering the lich's experience, that spoke volumes to the level of resources the Empire had in hand. Walking further into the encampment, we passed a few more plastic linings. Helios led the way, ensuring we didn't get lost in the quarantined labyrinth. Once within, we walked into the central space. I recognized the Emperor immediately.
+
+He held a squirming, neon white eldritch in his hand. The writhing, viral liquid restrained itself to his demands, the Emperor enacting his will on it without effort. It struck me as odd. Viruses were pretty damn primitive. If even it understood to obey, the Emperor must be using some kind of aura similar to Event Horizon to command it.
+
+More questions and fewer answers I supposed.
+
+Soaking more of the sight in, I noted a few more oddities. Besides the Emperor, a cracked, spherical crystal laid cracked on a pillar in front of him. It looked like that glowing white muck came out of it. Staring at the ground, I found dozens of lichens leading to the pillar. They channeled the naturally congregating mana into the sight, keeping the area protected.
+
+The Emperor broke into this vault and discovered some kind of new eldritch species. The guy had balls, that was certain.
+
+As Helios walked up to the Emperor, Helios bowed to him. Despite the wriggling eldritch in the Emperor's hands, Helios's confidence in the Emperor didn't so much as waver. He trusted the guy would hold the eldritch in absolute control to an extent where he didn't even wear protective gear.
+
+Even having just met the guy, I shared that confidence with Helios. The Emperor stood a head taller than even Helios, his frame like a living fortress. As he met my eye, his gaze was piercing. Obolis didn't look at me, the guy looked through me. It was as if I was a walking biography, and he had read the contents a dozen times over.
+
+I didn't like the sensation, but there wasn't much I could do about it. This guy's perception was so damn high it was literally tangible. I didn't even need to see the guy's status to know that.
+
+At the same time, the Emperor didn't lack in other areas either. He wore gray armor, the design old and angular. If I guessed correctly, he found it in some vault like this one during his travels. The relic oozed mana, the kind of mana that Lehesion carried. I looked it over, seeing traces of an Old One there, not one I'd met before.
+
+It looked light as a feather, the dull gray substance harder than steel. If anything, it rivaled my own armor in hardness, though it lacked the same weight to it. My gravitational sense told me that much.
+
+Noticing my overview, the Emperor grinned, his teeth predatory and menacing. Three scars traced his face, one through his lip, another over his eye, and the last one across his neck. The most prominent feature wasn't any of these distinct aspects of the guy.
+
+It was that he was the only albony I'd ever seen who didn't wear a mask.
+
+The Emperor raised a hand towards Helios, his voice deep but not harsh.  It was listening to three-hundred-year-old brandy,
+
+"Helios, I've told you not to bow to me before. Why do you do so now in front of guests?"
+
+Helios murmured, "To show them the appropriate behavior towards our  Empire's ruler."
+
+The Emperor turned towards us, some kind of constricting atmosphere passing over us. He grinned with a spark in his eye,
+
+"They'll bow if they so choose."
+
+I'm not gonna lie, his presence overwhelmed. I almost stepped back, but I stayed standing despite the sudden pressure. Torix couldn't withstand it, new body or not. He fell onto a knee before hitting the ground and cursing,
+
+"Dammit."
+
+The Emperor met my eye, the pressure building. I gave him a smirk, my own confidence building. If this was it, then he was in for a rude awakening...Probably.
+
+I reached out with Event Horizon, deciding to join in the Emperor's little game. The scientists and guards overlooking the area shook with fear before staring at the both of us. They fell down as I increased the pressure, ramping Event Horizon up.
+
+Understanding the unspoken competition, the Emperor raised an eyebrow, his unseen aura becoming palpable. A navy blue aura ebbed from him, drenching his surroundings in a cloud of mana. I followed suit, the air tinting red from Event Horizon's influence. We augmented each of our respective auras until I maxed out Event Horizon, and the air quivered in response.
+
+I condensed the aura over the Emperor, taking a more targeted approach. He seemed at ease, but he still gave me a knowing nod,
+
+"Well, well, it does seem as though Caprika found someone interesting, didn't she?"
+
+I spoke without too much of a struggle, "I'd hope so. Why else would you want to meet us?"
+
+The Emperor pulled back his aura, so I did the same. The people around us breathed, having held their breaths the entire time of the battle. Torix stood up before putting a hand on my shoulder,
+
+"That was...difficult to withstand."
+
+The Emperor offered a hand to Helios, who accepted the gesture. Helios pulled himself up, looking at Torix,
+
+"Your disciple's more of a monster than I expected."
+
+The Emperor lifted the shivering, white eldritch to me, "Would you like to inspect it? It's far different from most viral eldritch. This society's efforts to hide it were more than merely justified. It showed great wisdom."
+
+I raised an eyebrow, taking the eldritch from his hand. I kept Event Horizon's mental effects over it as I commanded, "Stay still little guy. Wouldn't want me to hurt you, would you?"
+
+The blot of white shivered in response. I analyzed it,
+
+Plaga Ustus(lvl 15,000) - Plaga Ustus is a variant of viral eldritch entities found deep with Vivaria's depths. Discovered by Obolis Novas, this virus was named with its general functions in mind. Plaga Ustus is a variant of burning diseases. It feasts on the carbon within its victims, oxidizing them and absorbing the byproducts of the resulting combustion.
+
+This casts the victims in a vibrant, white flame. Turned to ash afterward, the pool of mush that remains after the viral infusion is the grown virus. This rapid destruction of organic tissue makes Plaga Ustus challenging to combat as it's infective results are in real-time. Even more concerning is the concentrated mana stored within its body.
+
+This makes the virus difficult to detect in planetary custody and inspection. This is further exacerbated by a primal intelligence rivaling small children. As the virus pools together, the nuclei stored in the cells congregate into a core in its center. Hidden in the coagulated membranes, this core commands the viral entity.
+
+This means the virus can remain hidden and inactive in its hosts. Even worse still, the virus can also strengthen its user, misleading its host to its true intentions. Often times, this leads to sudden spikes in power for the individual who's infected before they die.
+
+All of this information was uncovered by Obolis during his relic hunt on Vivaria. For further questions, contact the Empire's Viral Containment Unit. They may assist if the user is currently infected.
+
+I lifted the Plaga Ustus up, looking at is under the light. Yup, the core was hidden but visible since it wasn't as translucent as the rest of it. Handing it over to Obolis, I noted,
+
+"It sounds like a double-edged sword if anything."
+
+Obolis nodded, inspecting the creature with fascination, "It carries many traits I wish to take advantage of in the future. If tamed, it may even act as a super serum of sorts for our soldiers. It may be used as a biological weapon against our adversaries, or lesser eldritch as well."
+
+Obolis lifted it up, giving the pale blob a gentle caress,
+
+"And perhaps it may be a pet for those that are worthy. Time will tell."
+
+This was not how I expected my first meeting with this guy to go. Well, the aura part sort of, but no this. I raised a hand, "So what did you want to meet for?"
+
+Obolis set the eldritch back onto the pillar, the slime crawling back into its prison. He gestured towards us both,
+
+"A more formal greeting is in order before we continue. I am Obolis Novas, the Empire's ruler."
+
+Torix's blue eyes flared, "I am Torix Worm, of Darkhill."
+
+Obolis nodded at him, "You withstood my aura for far longer than most. If you master your own dimensional abilities, you'll become far more difficult to suppress."
+
+Torix looked at his hands, "Wait a moment...I have dimensional abilities?"
+
+Obolis glanced between the both of us, "You're constructed from Daniel's strange matter. You share many of the properties he owns. In fact, your ability to broaden your mind's abilities is largely due to this connection point."
+
+Torix stared at the Emperor, "How did you understand all that with a glance?"
+
+Obolis tapped his temple, his white fur ruffling, "I am a perceiver of the unknown, the finder of what is hidden. It is simply my domain to understand what I see, and I have seen the both of you." Obolis turned to me,
+
+"Though you both are, in many respects, still enigmas."
+
+I had to admit, I was pretty impressed already. Obolis knew more about Torix's abilities than Torix or I did, and he just met us. If anything, it made me wonder what else he could tell us. As if reading my mind, he gave me a knowing smile,
+
+"In many ways, I am likely an enigma to both of you as well. Come. Let us discuss this elsewhere, somewhere more fitting for such honored guests."
+
+We walked out of the room, and as we did, they didn't scan Obolis. On the other hand, they did check Helios then Torix. As they went to examine me, Obolis lifted a hand without looking at us,
+
+"He is a sterile existence by nature. Therefore, he doesn't require any scouring. "
+
+The orange masks bowed, speaking in unison, "Yes, Emperor."
+
+A moment later, we stepped through the quarantined area. As we passed, the scientists quit working, giving Obolis a bow. They didn't resume working until after he left. Obolis didn't even note the shift in attitude. It was palpable for me though.
+
+After walking out of the area, Obolis reached out a hand, a spacey portal opening. Obolis pulled out an obelisk, though the crystal orb looked different from the ones Torix gave us. Instead of a bright glass orb with a stripe of electronics, this obelisk carried dozens of strips of electronics within it. They radiated out from the center like a gyroscope.
+
+Powered by his mana, the obelisk dispersed a holographic projection into the entire room. As it did, I took a step back, the boundless sights around us taking me aback. Torix did the same, the ancient lich having never seen these sights.
+
+Below us, a blue star flared. It carried violet tendrils of energy, solar flares stretching out into the infinity of space. Around us, swarms of astral creatures flew through the vastness of the great void. They shifted coloration as they moved, each of them waving through different light spectrums.
+
+What stunned me most was the new color they had. It was impossible to describe, but I can try. Imagine staring at something bright, full of life. This color carried that kind of impression. It reminded me of staring at a more powerful light on the electromagnetic spectrum. To me, it's what I envisioned radiation might look like if it was an actual color.
+
+Regardless of our reactions, the Emperor seemed taken aback, his glance carrying the weight and distance of nostalgia. He walked forward, touching one of the creatures. A moment later, he turned to us, his feet standing on space,
+
+"Would you like to touch them as well?"
+
+I turned to Torix. His jaw was slack, the lich's senses overwhelmed. I shook off the feeling of disbelief as I walked forward. Reaching out, I touched the living painting. I blinked as I could actually feel it as if it where there. I turned to Torix,
+
+"Torix. You can actually touch the thing. I don't know how the fuck he's doing it, but you can actually touch it."
+
+Like a warm grandfather, Obolis gestured to the spectral creature,
+
+"Come Torix, if you would."
+
+Torix fumbled over before reaching out. As he touched the creature, he stuttered, "How is this possible?"
+
+Obolis grinned,
+
+"It's not a simple illusion, I can guarantee you that. I'd heard of these creatures during my travels. They're called by many names, though I prefer referring to them as cometelias, the flowers of comets."
+
+Several of the cometelias flew around Obolis as he reached out his hand to them. He closed his eyes, staring upward,
+
+"This is a physical manifestation of one of my memories. I picked one of the more visually tremendous recollections."
+
+Staring around me, the detail of the memory was stunning. Nothing about it was foggy, even in the slightest. It was clearer than crystals in its clarity, like viewing HD footage. No, it was more than that. This experience carried other senses other than sight and sound. The entire experience rushed in.
+
+The endless space, the deep cold of the void, even the waves of shifting heat, they wrapped over me as if I was there. I might as well have been. Staring in awe, I murmured, "This is incredible."
+
+Obolis grinned, "Isn't it? It was well worth the trip. The magical incantations necessary to survive the journey were well worth the investment, though you wouldn't require the same protection. Chaining together these kinds of experiences is what I live for. I'm glad to share them with each of you."
+
+The Emperor turned to me, "Though a proper greeting is in order."
+
+I turned to the Emperor, kind of blown away at this point,
+
+"I'm Daniel."
+
+He smiled with the wisdom of ages past in his eyes,
+
+"It's good to meet you, Harbinger. I am Obolis, the Finder of Secrets."

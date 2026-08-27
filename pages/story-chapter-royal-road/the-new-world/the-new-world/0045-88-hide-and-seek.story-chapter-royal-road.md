@@ -1,0 +1,127 @@
+---
+id: eb5d7457-f3f3-5c23-9189-296232bbea8a
+page-type-slug: story-chapter-royal-road
+title: "88 Hide and Seek"
+slug: 0045-88-hide-and-seek
+partOf: the-new-world
+position: 45
+ownLength: 2810
+unit: words
+ownProgress: 2810
+publishedAt: 2017-12-12
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/179927/88-hide-and-seek"
+royalRoadId: "179927"
+markedReadAt: "2026-06-29T21:22:19.852Z"
+---
+
+Hope you guys enjoy the chapter as always.
+
+Before sprinting away, I checked around me. Whatever it was that was chasing us, it was powerful. If anything, it was a follower. They found us because we left something behind. Whenever Hod ran up to slice apart the stone eater, he left polished footsteps behind him. That must have given the follower the evidence they needed for coming in.
+
+Out speeding one of them wasn’t very likely either. To get away, we would need some kind of distraction, and we needed to cover our tracks. With that in mind, I turned towards Hod,
+
+“Hod, fly away instead of running. That black fire is leaving tracks behind us. We’ll meet up near the dungeon core in three hours.”
+
+Hod glanced towards the ground, heaving a breath. He hit himself on the forehead, shaking his head in disgust,
+
+“Hod apologize. Hod not mean to lead them to us.”
+
+“Shit happens. It’s fixing it that matters right now.” I pointed at a group of the ruins near the white beam of energy firing into the red sky, “We’ll meet there. Good bye.”
+
+He opened his muscled arms, feathers of black reaching outward. He stomped onto the ground, propelling himself upwards before he shot off into the distance. The sound of rumbling ebbed through the stone tunnel that held the rift’s entrance. Lava covered the entrance, muffling the sound of a follower landing.
+
+Before they got out of there, I turned and sprinted away. As I did, my feet cracked into the stone. I left footprints as obvious as a trail of slime behind me. My mind raced for solutions. If the follower was faster than me, I was dead if this continued. Veering off into a cluster of rocks, I stomped my feet until I reached a tunnel leading beneath the rocky ground.
+
+Instead of going into it, I jumped up before walking on the air. It was the same tactic I used for crossing the sandworm’s desert. A problem presented itself. I was slow as a snail. It was like I was running over trampolines, bouncing from one step to the next. It would get me somewhere eventually, but it wouldn’t get me there quickly.
+
+Sweat poured down my forehead as an enormous explosion echoed behind me. I wasn’t far enough to be out of sight yet. I turned, glancing at the tunnel. A massive plume of dust and blue fire covered the entire entrance. There was no way the follower could see my yet. I still had a chance.
+
+Beneath me was a stream of lava. The thought of bathing in liquid rock never appealed to me before, but all of a sudden it didn’t seem like such a bad idea. I bounced on the air, diving straight into the lava. A hellish heat surrounded me from all directions. The problem wasn’t that I couldn’t sustain the damage. It was that my blood was evaporating inside me.
+
+As the blood expanded, it bent my armor and exploded out the sides. As it did, the crystalline faced monsters shot into my insides. Using the Earth Glider skill, I shot through the earth before entering rock again. The friction of the stone rubbed the rock off me. I impaled my armor through my own body, killing the crystalline parasites.
+
+Despite all this, not even a tenth of my health was gone. It refilled again after I cleared out my guts. I molded my armor to get the crystal magma fish away, another explosion quaked the ground. Using Tactile Cognition, I learned that the follower already blew up the decoy I used before.
+
+This told me two things. The follower’s destructive potential matched Kessiah if not exceeded hers. Second, this follower was fast and angry. They didn’t waste time like Elijah or Ajax. If so, that meant it was Etna.
+
+I guessed because Torix gave us all a rundown on the four followers and their traits. Etna was a fire based mage that used burst damage and massive explosions for her damage output. She was the second strongest follower, right behind Ajax. Being over level 4000, fighting her would have meant death.
+
+So the dive into the magma had been the smart decision, oddly enough. It left no visible tunnel into the ground behind, and I was able to dig deep enough to mask the sound of my burrowing. Seeing as she was a heat mage, Etna could probably see us using thermal senses. With the ground and a stream of magma above me, Etna sensing me was impossible.
+
+On the other hand, Hod was a different story altogether. The ground rumbled above me. A kinetic explosion radiated from behind me. The wave of force rattled my bones and armor before another bombed where I was. Another came my way, but I kicked upwards with all my might. It was the same kinetic dampener tactic I used against the sandworm.
+
+The damage lessened before the rock beneath me turned hot. With Tactile Cognition, I gained a sense of my surroundings. Beneath me was a lake of magma. I could dig no deeper. With no way to go but to run. I slid through the ground with all my might.
+
+More explosions rattled above me. Each time they passed through me, the surrounding rock rippled like an earthquake. The sheer might of the explosions amazed me. I had no idea how she found me, but I kept racing away. Blood poured places it shouldn’t as the ripple of crushing energy lessened.
+
+As I burrowed further away, the explosions dampened. They no longer cracked my teeth and fractured my bones. As I traveled further, I distanced myself from the source of the explosions. This gave me time to think. Etna didn’t know where I was. She was just launching explosions near the tunnel from earlier.
+
+The fact I was so far away yet she still did some damage to me was amazing. I mean I was a tank through and through. I had health you could expect from a level 3000 fighter for fucks sake. I suppose my health never dipped below the halfway point during her assault though. This follower likely lacked the durability that several of the other followers too.
+
+Hod and I may be able to get out of here by taking full advantage of that. Meeting up with him was a must though. Doing anything against her while alone was a death sentence. With that in mind, I surveyed my surroundings.
+
+As I escaped from Etna, I ended up going the opposite direction of the dungeon’s center. I turned myself around, making sure I kept a reasonable distance from me and the follower. As I traveled through the dirt and stone, progress was slow. With nothing to see or hear, I grew bored after only a few minutes.
+
+Earth Glider worked better through the sand then it did through this hardened rock. Sprinting above would be my best bet for escaping this place in a reasonable time. The longer we stayed here, the more likely this follower would call for support anyways. What if a guardian blocked the exit for us when we came back? I didn’t want to ever know that answer.
+
+So time was of the essence. I shot myself out of the ground, landing on telekinetic pads that moved the wind. Off in the distance was the stream of white energy from the dungeon core. Another glowing pool of orange was near that. It was a massive, fresh lake of lava. Etna made it with all her tectonic fire blasts.
+
+I didn’t even know what she looked like. After seeing what she left in her wake, she probably looked like some horrific monster. A tiny blip of orange floated over the glowing pool of orange. It must be Etna. From above, keeping an eye on us wouldn’t be a problem. Her position gave me a damn hard choice to make.
+
+I could burrow through the rock with Earth Glider. This stopped Etna from seeing me, but it made me slower. If she called for another follower while I was going at half speed, Hod and I were fucked. The other option was running at full sprint. The chance of her seeing me was far greater.
+
+The catch was that even if she called for backup, they may not make it in time to guard the entrance. The choice tumbled in my head for a bit before I made my decision. I would do both. I sprinted at full speed, keeping a gravity vortex above my head. This lightened my footsteps and let me run faster.
+
+Whenever I reached an opening, I dove into the ground and burrowed past it. Once I reached another cove or giant rock to block me from her sight, I shot out of the ground. This stopped me from giving away where I was, but made me faster as well. In order to curb a minutes off my travel time, I incorporated a few tricks as I ran.
+
+I created gravity wells that would slingshot me around curves. As I stepped, I gave myself firmer footing by dispersing my steps with telekinesis. I jumped in and out of the ground with Earth Glider, moving through the transitions with ease. I quit being so stingy with my mana too. If I needed a strong pull of gravity, there wasn’t a reason not to use mana to make it happen.
+
+That proved true for telekinesis as well. With such a massive mana pool, I flared my ascendant mana while within the ground. If the cover was big enough, I surged the mana above ground too. With the enhanced strength, my options for telekinesis widened.
+
+I grabbed far off ledges with telekinetic tethers, letting me pull myself over obstacles. I would stomp against walls many feet away, letting me reach over gaps. I jerked myself with both my arms and legs, extending myself with telekinesis. This quieted my running since I wasn’t on the ground as much.
+
+If somehow gravity and telekinesis weren’t enough, I molded my armor to fill in the gaps. With all these factors coming together, I floated over the terrain, gaining speed as I went. As I gained more speed, I molded my armor into a more aerodynamic form.
+
+The technical difficulty involved weighed on me though. Balancing all these techniques and skills strained me to my limit. Veins pulsed on my forehead and sweat poured from me. As I ramped up my consumption of mana, my runes arced lightning from me. As the energy pulsed, the coursing energy dispersed.
+
+Sure, that sounds cool and all, but it means energy was being wasted. The runes couldn’t keep up with my mana production anymore. As it overflowed, the energy dispersed in its raw form. Even with a nigh perfect runic combination, the flood of mana overwhelmed them. It was like a damn letting flood water pour over it.
+
+Wasting that energy irked me. It was like some sudden, arbitrary limit was being placed onto my mana. I suppose the runes did seem a bit stressed before I even killed the sandworm. Combine that with a much greater flow of mana, and the runes couldn’t keep up. Wasting that energy sucked though.
+
+Instead of letting it disperse, I redirected it into my armor runes. I overcharged them, condensing the dispersing mana. I forced the red electricity back into the runes. The energy spilled over. Overcharging resulted in spikes of speed that were impossible to control. That wouldn’t work. As I traveled further, Etna fired off towards the dungeon core.
+
+My mind raced with a singular thought - shit. The implications flowed through my head. All of sudden, I understood what she was trying to do. If she took the dungeon core, then the dungeon would reform. The overseer would come, reform the dungeon, then a sentinel would stand guard. If she went outside the portal, then Hod and I would be stuck here until another rift form.
+
+That’s if one did. Her blistering speed outpaced mine, like a missile beaming through the air. It was like a clock ticking. Time was of the essence now. Being subtle would get me trapped in this hellhole for who knows how long. I needed speed and I needed it now.
+
+With those facts pounding against my skull, I brainstormed for some solution. Almost a third of my mana was just dissipating. Solving that would strengthen me a bit. Without the follower of Yawm surveying her surroundings making noise wasn’t a problem anymore either.
+
+I got a crazy idea then. I would overcharge my man and release it in timed bursts. During each of those bursts, I would send myself flying at a high speed. It would be like lobbing myself over and over.
+
+With that in mind, I channeled the excess mana into my runes. It was like ice skating for the first time, any shift in balance causing me to bust my ass. After a minute of working with it, I overcharged the runes till they hissed with the unstable energy. Whenever I dispersed it, I slammed my feet into the ground.
+
+The rush of acceleration pulled on my skin. My stomach sank as the rocks beneath me grew smaller. Up high I soared, like a stone shot through a cannon. If it wasn’t for my Aerial Strike skill, I’d have fumbled through the air like a total dumbass. Instead I shot through the air with a serene grace.
+
+Now the landing was a different story. I smashed into the ground like a meteorite. I pierced into the ground for a few feet. The kinetic force dispersed after that, ripping the earth around me apart. Pushing myself form the compacted earth around me, I looked around. I created a crater the size of bus with my landing.
+
+I didn’t have time to dwell on this new method of transport, if you could call it that. I overcharged my runes again as I picked up speed again. This time I unleashed the force onto a telekinetic pad beneath my feet. Just imagine giant, telekinetic snowshoes. That’s what my telekinesis was doing.
+
+The rock wasn’t hard enough to absorb the impact of my feet as I jumped. I widened that zone of impact with a telekinetic augment. It was exactly what snowshoes do to snow when you wear them.
+
+With more grip beneath me, I shot through the air with wild abandon. My armor held, staying firm despite the ridiculous demands I placed on my armor. After crash landing again, I set back into another run. Whenever I jumped this time, I molded my amor into a more aerodynamic shape. I was like a metal bird cutting through the air.
+
+Whenever I landed this time, I widened the impact with yet another telekinetic pad. A fracture formed up my shin, like kicking a coffee table as hard as you kick a soccer ball. My pain tolerance stopped me from crying as I didn’t fall. My muscles cramped and my bones bent, but I didn’t fall.
+
+I kept running forward before overcharging and leaping once more. The process turned fluid after a few more leaps. With each deafening boom of my leaps and landings, I gained skill and understanding. Instead of overcharging my runes completely, I restricted the flow a bit. This allowed me to leap more.
+
+As I flew through the air, I charged my runes instead of being overwhelmed by flight. This meant that when I landed, I could leap once more. As I leapt again and again, I felt like the hulk, jumping from one place to the next.
+
+Unique Skill Gained! Fuses the skills Overcharge, Aerial Strike, Ascendancy Mana Manipulation, Discharge, and Soul Siphon into the unique skill Meteoric Rise! 500 points possible, 227 points earned. Half of unearned points rewarded, 137.
+
+Meteoric Rise(lvl 1) - By utilizing explosive bursts of your mana, you gain the ability to jump extreme distances. Allows fluid use of vast leaps to cover distance.
+
+The skills linked into place, turning into a solid, reliable method of movement. By the time I unlocked the skill, Etna reached the dungeon core. The follower was nothing but a tiny blot of orange over the stream of white energy. That orange shined until it was a like star right beside the ground.
+
+A moment later, an immense plume of fire erupted from the ground. The pulse of energy forced clouds away, like the impact of a tiny nuclear bomb. An invisible wave shot passed the entire dome, a blast of wind following in its wake. After the wave passed and the fire dispersed, a black bird flapped its wings near Etna. Fire covered the black bird as streaks of shadow flowed behind it.
+
+It was Hod.

@@ -1,0 +1,533 @@
+---
+id: 1635f1b3-efaf-519a-ab17-bbc09c92ac68
+page-type-slug: story-chapter-royal-road
+title: "400 Tera's Return"
+slug: 0360-400-tera-s-return
+partOf: the-new-world
+position: 360
+ownLength: 4270
+unit: words
+ownProgress: 4270
+publishedAt: 2025-03-18
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2135435/400-teras-return"
+royalRoadId: "2135435"
+markedReadAt: "2026-06-29T21:33:38.241Z"
+---
+
+A rush of emotion coursed through me, but it was primarily fear. Months passed since making the deal with Obolis for the skeptile's freedom. Since then, the skeptiles had waited on me to arrange their transit, and I kept pushing it back for other matters. I did have my guild send consistent aid in the meantime, but aid wasn't a new home.
+
+I wouldn't blame him if Tera was pissed about twiddling his thumbs for so long. Without any reason to postpone the matter aside from dread, I let out a sigh.
+
+"Then let's give them the warmest welcome we can."
+
+Helios grinned.
+
+"I can't wait to see you get screamed at. It's actually one of my favorite pastimes."
+
+Primordial mana hummed in his hands.
+
+"Now then, let's cross the viel."
+
+Chapter Begin
+
+Helios tapped into an unseen barrier before folding it, connecting the points, then splitting apart spacetime. As his warp opened, a desert world blew dry sand and harsh wind onto ours. I stepped onto the top of a dune. Orange rock and teal sand covered the horizon. The simple color shift alienated the dunes, and the place was as bizarre as any planet I'd walked on.
+
+Well, aside from L-7. It was in a different league.
+
+Walking across the dune, I peered up at two suns, one red and the other orange. Several moons floated over the sky, each floating orb midway through waning and waxing. They were like an unfinished cake buffet with different slices left behind. Below them, the constant wind scrubbed this planet's rocky surface into sand.
+
+Helios gasped while stumbling onto the planet, and his portal clapped shut with an eruption of sound. I gazed at him.
+
+"Are you ok?"
+
+Helios nodded.
+
+"Of course...This planet is simply far away from Earth. It's on the other side of Schema-owned space, so it's far more arduous to arrive here."
+
+"Yet Obolis and the Empire found it? That's odd."
+
+Helios pulled himself up, his mane following the wind.
+
+"My uncle invested heavily in the scouting of weakened or vulnerable planets. This one's ecological disasters gave way for profit at first, and in time, the trickling of slaves followed."
+
+I hovered us up.
+
+"Ah, man, what a great guy. Let's get the skeptiles out of here."
+
+Darting across the skyline, we passed dunes before reaching a canyon. It stretched for dozens of miles, a majestic piece of nature rivaling the Grand Canyon in our world. Sea-green sandstone layered between carrot-colored limestone, and a murky river carved itself across the place. That river supported all life in the area, including the resident skeptiles.
+
+It was worse than I expected. The skeptiles huddled into a colossal, overcrowded city shoved onto one side of the canyon. Much of the skeptiles' architecture mirrored Eltari designs, but unlike our flying friends, these guys kept lower to the ground with a greater emphasis on sunbathing spots.
+
+Each home competed against other sun-laden lounges. From piles of shining stones to arranged eldritch teeth to even modeled broken glass, the roofs of every home carried the soul of their family. Aside from the artwork, their dilapidation exposed itself like dirt under fingernails.
+
+Devoid of technological or magical means, the skeptiles lived in overt poverty, rivaling a third-world country. Only a few signs of civilization stuck out, like Schema's facilities at the town's center or a few futuristic cargo hulls carrying the massive village's food supplies. Considering the lack of life or water, these people needed exports from other places to survive.
+
+Helios murmured.
+
+"Ugh. I should've left the Empire for this, not my own betrayal."
+
+I set us down at Schema's warping and currency centers.
+
+"You're telling me. Were you aware of what this was like?"
+
+Helios eyed two skeptile children, their bellies bulging and their limbs like dried kindling.
+
+"I had heard rumors, but to see it is a different matter altogether."
+
+Dread pooled in my stomach like acid as I sent a message to Tera, letting him know we were here. These people could've been starving because I spent so long on other tasks. I swallowed that anxiety.
+
+"Well, we're here to fix this."
+
+A violet portal opened, and Tera, the World Breaker, stepped out. Teeth of eldritch he'd slain clattered as he jogged up to me. He flashed sharp teeth before spreading his claws. I expected this after having waited so long to pick him and his people up, but it was still going to hurt.
+
+He hugged me.
+
+"It's good to see you well, you pushy metal bastard."
+
+I peered back and forth.
+
+"It's...It's good to see you too."
+
+Helios's smile dampened like a fire covered in soil.
+
+"No screaming then? Hm, is that disappointment I taste. Alas, what a familiar flavor."
+
+Tera grabbed my shoulders.
+
+"You've shrunk in size. Did you want to be able to walk amidst the masses?"
+
+I weighed a hand back and forth.
+
+"More or less. How are things going?"
+
+I winced as Tera clapped his hands together.
+
+"I'd like to show you if you have the time to see."
+
+I turned to Helios. The albony frowned.
+
+"I'm not particularly pressed."
+
+I turned a hand.
+
+"Lead the way."
+
+We walked through the slums of the village, many shacks stacked on top of one another. Each hut lacked a door, cloth hanging and separating the spaces. We passed a few desiccated corpses, each of them having dried out long ago. Every time we passed one, Tera placed his middle finger against his thumb in a circle while stretching his other fingers out. He pressed the hand symbol to his chest with reverence.
+
+Finding me staring, Tera frowned.
+
+"Those are the ones who chose to starve in order to save their family or their children. We honor them as we walk by."
+
+I glared at Helios. The albony winced.
+
+"Yes, yes, I'm awful. Let's concentrate less on what's hurting them and more on helping, shall we?"
+
+I frowned.
+
+"You have to know where wounds are before you can heal them."
+
+Helios hopped onto a roof.
+
+"Despite my being blind, even I can see what they need here." He gave me a tight smile.
+
+"But I appreciate the reminder."
+
+Tera shrugged.
+
+"Life was this way before the albony. To place the blame of our barren planet onto them is to deny our clan's legacy and history. This is a place of starvation and hardship, and because of that, one cannot escape it while they're here. It will cling to you like a curse from an old enemy."
+
+I scratched the back of my head.
+
+"Why'd you seem so happy when we arrived if the situation is this dire?"
+
+Tera's grin showed his many sharp teeth, like a smiling scarecrow with hay for teeth.
+
+"There are far fewer corpses than before. These are not new, as you saw, and even in passing, you've done much. Come. I'll show you."
+
+After a few minutes of running around, we reached the edge of the canyon. The largest of the huts was embedded into the wall, mirroring a Peublan cliff dwelling home. They weaved the teal lines of stone into the walls before polishing the stone to bring out its colors. It glistened inside their home.
+
+Once nearby, Tera landed on his home cliff with a heart-stopping thud. Helios and I touched the ground with finesse before a dozen skeptiles ran out of their home. The children lacked the starving features of the street urchins, their frames normal and their eyes clear.
+
+I gestured to them.
+
+"Your family?"
+
+Tera nodded.
+
+"My kin. My center. My bedrock. Without these hatchlings, I'd be nothing, like some mother hawk without a nest."
+
+Tera pointed at me, his voice stern.
+
+"He is the one I spoke of. Say hello."
+
+They walked over, their eyes wide. Standing two feet tall, their species lacked humanity's size, but their sharp claws, horns, and teeth gave them a natural weaponry we lacked. Their thick, multicolored scales gave them the same vibrance as gialgathens, though they lacked the same glossy sheen on their skin.
+
+Their dull scales mirrored their backgrounds - tough and humble with depth under the grime.
+
+Having prepared for the event, I handed them rings on necklaces. They each took the gift with looks of awe and fear on their faces. Whenever one put their amulet on, they grew. The first writhed on the ground for a minute, his body molting seven times in the process. Standing several feet taller, the child rivaled their adults after manifesting the attribute gains. Tera marveled.
+
+"By Schema...You're like a god."
+
+Helios stared at his nails.
+
+"Oh, if you only knew the extent of that hyperbole."
+
+Tera watched another child molt through its growth. Tera smiled.
+
+"That depends on what kind of god we're discussing. Is the Harbinger a god of greater principles such as light or mass? Perhaps not. What of lesser principles, such as ice or fire? I think Daniel rivals them and their myths."
+
+Helios raised a brow.
+
+"Your kind believes in many gods, not the one?"
+
+Tera covered his mouth as he laughed.
+
+"We do. I noticed you said the god. I always found that amusing. Our gods are lesser, but they are not meant to be almighty. They serve as lessons to those of us who are still learning the ways of our ancestors."
+
+Helios lowered his hand.
+
+"Our god created the cosmos and knows all. As for your religion, I am left wondering how your kind is able to come to terms with the modern world. How are you able to see magicians like Daniel and I, yet you still believe in lesser gods?"
+
+Tera's eyes rippled with violet energy.
+
+"I may ask the same of you. This god you speak of, it must pale in comparison to the Old Ones. If your god created the cosmos, then the Old Ones must dwarf it. Despite that, you speak as if you're a man of faith."
+
+Helios raised his brow.
+
+"More so a man raised in a family of faith, though I see your point."
+
+A skeptile child grabbed some of Helios's fur, tugging on it.
+
+"You are fluffy."
+
+Helios peered down at the reptile.
+
+"And you are filthy. Are showers against your culture?"
+
+The child's eyes widened.
+
+"What's a shower?"
+
+Helios's eyes narrowed.
+
+"Ah, there's my answer."
+
+Tera smiled at the child. He lunged down.
+
+"A shower is where you use water to remove dirt, germs, and filth from your body."
+
+The child laughed at Helios.
+
+"Hah! Silly cat. We cannot waste something like water on a thing like that."
+
+Tera walked over, scooping the child onto his shoulder.
+
+"Excuse this one. She's always curious. Aren't you Tyga?"
+
+She giggled as he tickled her underbelly. Interrupting the heartwarming scene, an adult skeptile walked out of the home.
+
+"How dare you all tug on our company. Come, come. Please sit inside. The sun must be brutal out there."
+
+It wasn't, but we appreciated the offer. Stepping inside, light pierced the loosely boarded roofs in several places, and sand molded into whatever specific item they needed, from chairs to tables to dishes. Several skeptiles sat together, chatting around an open balcony while spitting into piles of sand. They molded the material into various needed goods for the home.
+
+A child shattered a plate before a skeptile rolled their eyes. They grabbed the shards, shattered them further, and put them in a pile for reuse. Another skeptile worked their current object into another plate, replacing it from scratch.
+
+Tera spread his hands.
+
+"These are my wives. They are my light and joy."
+
+They stood and bowed to us, their scales glinting in the light. They shined more than the males, having taken the time to polish their scales to a sheening perfection. The smaller eyes and shorter horns along their brow also gave them a gentler appearance, and seeing these guys let me determine which gender the kids were.
+
+Tera pointed at them.
+
+"They live because you took us in before we were forced to fight Elysium. We would have been led to the slaughter against them. Your deal on Blegara saved my family and the lives of this community."
+
+He met my eye.
+
+"Thank you."
+
+Helios frowned.
+
+"Why would Obolis send you all against Elysium? You're unable to dish out even a modicum of resistance, and you'd all become fuel for the Hybrids."
+
+Tera walked down the stairs.
+
+"There is a simple answer. If one cannot buy victory, what else can they attain through battle?"
+
+I sighed.
+
+"They can buy time."
+
+Terra grinned, his expression sharp.
+
+"And to your kin, our lives are cheap. Aren't they?"
+
+Helios closed his eyes before frowning.
+
+"To most, yes. Not all."
+
+Terra tilted his head.
+
+"Ah, but to you, we must be cheap. Otherwise, you would've taken us out of our squalor, correct?"
+
+Terra glared and Helios couldn't find an answer. The Speaker scoffed.
+
+"Own what you've done and what you haven't. Otherwise, you live in a world of denial."
+
+Terra kept walking, but Helios stayed in place. Helios's hands loosened as he gazed at the ground. I waved a hand at the guy.
+
+"Anyone there"
+
+Helios's voice was like a dead, dried stump.
+
+"Yes. I'm...I need a moment."
+
+I left him, knowing he never experienced the full brunt of the Empire's underbelly. Digesting these facts might take a bit. Leaving him to his devices, I walked downstairs. Here, we found Tera's wealth. A thousand parts from a thousand eldritch hung from every inch of the place. Preserved eyes, ears, noses, teeth, skin, hearts, organs, talons, claws, horns, and diagrams covered every square inch.
+
+A few dozen bottles of eldritch energy sat on the countertop. Tera grabbed them.
+
+"Do you mind discarding these? They can be difficult to get rid of, and you found them useful before."
+
+I raised a hand, and Tera tossed them to me. Uncorking the bottles in tandem, I released the dark plague. Tera's eyes widened, and he raised his palms.
+
+"Wait. I've been saving those for years. We're in danger-"
+
+Within seconds, the mist soaked into my armor. The echoes of screams faded from the room as I squeezed a hand.
+
+"Thanks for the snack."
+
+Tera gawked.
+
+"No...No problem."
+
+I observed magical runes and diagrams on every part of many eldritch sub-types, along with potion formulas for many of them. I grabbed one of the potent mixtures.
+
+"So you're an experienced alchemist?"
+
+Tera scratched a scaled cheek.
+
+"It's a necessary evil. I don't wish to use the bodies of those I kill in such morbid ways, but I lack the potential for victory without them. Aside from that, I have never been able to afford potions or healing from experts. This is how I've diversified my skillset. Otherwise, I would've been completely subservient to Phillip Novas and, by extension, the albony. You've seen where that gets you."
+
+I winced at the prospect. Tera opened a cupboard before pulling out several dimensional storage rings. He tossed them to me.
+
+"These have food and other necessities you may need. I know it isn't much, but it should be able to handle the costs of moving us."
+
+I checked their contents, finding enough food to feed an army. I smiled.
+
+"I appreciate the offer, but I'll be taking a different form of payment."
+
+I tossed them back, and Tera's eyes narrowed.
+
+"Does that mean you're expecting a subspecies contract? We will not sign another of those cursed things."
+
+I furrowed my brow.
+
+"I'm going to be hiring you and your elite. They'll be able to join my guild and work for me. Everyone else is free to do whatever, given they follow a few rules. You know, don't kill, steal, all the basic ethical necessities required for a functioning society."
+
+Tera's irises slimmed like the eyes of a viper.
+
+"What percentage of our earnings will you be taking?"
+
+I scratched the side of my head.
+
+"What does that even mean?"
+
+Tera rolled his eyes.
+
+"You play coy, but I shall play along. You shall give us a quota of missions. We finish them for your members. We keep some of what we pillage, and you take the rest."
+
+I inspected a row of bottles holding miniaturized natural elements.
+
+"That's not gonna happen. Well, maybe the quota, in a way."
+
+Tera stepped up.
+
+"Stop playing games. This is our livelihood you're talking about. I appreciate what you've done, but I understand that no meal is given. It is earned, and we are more than willing to earn our keep. I want to know how much of our hunts you want to take."
+
+I met his eye.
+
+"Hm. About 0% of them, actually."
+
+Tera's horned brow furrowed.
+
+"That doesn't make sense."
+
+I moved my hands.
+
+"So think about it like this. I'm not here to get you to work jobs for me. It's more like...Hm, I'm directing you guys to accomplish certain tasks I want done. You do them, you keep the rewards. In return for choosing to follow my directives, I'll pay you guys for finishing those quests instead of handling other quests."
+
+Tera's face scrunched up in disgust.
+
+"You...You're paying us to finish quests for ourselves? How...How does that even make sense?"
+
+I shrugged.
+
+"No one on my planet wants to live in a desert. They're considered wastelands. You guys are going to be in those remote regions, killing and destroying eldritch. Do that, and I'll provide resources, support, whatever you guys need in the meantime."
+
+I spread my arms.
+
+"Think about it like this. I'm having you guys mow a lawn for me or something. After you finish, the lawn is yours."
+
+Tera stared at his clawed hands.
+
+"That's not right. You're paying us for landscaping our own yard. A-And you're giving us a yard. We don't own a yard."
+
+I made the walls of a box with my hands.
+
+"Oh, but see, that's where you're very, very wrong. You do, in fact, own a yard. Now, the thing is, your yard has to be in a certain spot. That's why I'm paying you guys. That makes sense, eh?"
+
+Tera's eyes hardened.
+
+"We're not a charity."
+
+I lowered my hands.
+
+"And I'm not a philanthropist. Those eldritch will run wild and scour the land for food if we don't have them handled at some point. Having you guys there eliminates them as a threat, and we may even be able to terraform the area over time if we play our cards right."
+
+Tera turned a clawed hand to me.
+
+"I'll believe this deal when I see it. That said, you plan on terraforming your own planet?"
+
+I weighed my hands to and fro.
+
+"You know, I haven't given it a ton of thought. The way I see it, there's a complex relationship with nature that I don't actually understand. Despite my appearance, I never graduated from high school, let alone college. What I do know is that land needs water. In that case, I could make plenty of water to land on the place as rain, but-"
+
+Tera waved a hand.
+
+"The oceans would rise. You'd become like Blegara in a few myriad years."
+
+I pointed at him.
+
+"Uh, sure. Tell me, do you know something about terraforming?"
+
+Tera smiled.
+
+"I do. It's a pastime of mine. I love the interplay of forces that generate the geology of a planet. You know, the lay of the land. It's a harmony not unlike music. Each twist and turn leads to a singular rhythm. Once you've found that rhythm, you can adjust it however you please. It's a thing of beauty."
+
+My eyes widened.
+
+"When did you learn all that?"
+
+"On Absolon-22. It's part of how I managed to get the planet under albony rule. I found several species of eldritch that produced a few natural forces. After getting them coordinated and breeding, I worked with a few albony scientists to release them in certain areas. That collapsed several of their planet's farming structures.
+
+I then leveraged their poverty into financing accounts for the empire. It also required working with a few Schemic lawyers to arrange the contracts beforehand so that the albony could get their due."
+
+I nodded in awe.
+
+"Wow. You really took them for all their worth, huh?"
+
+A sad smile spread over Terra's face.
+
+"No. I showed them the desperation of poverty and the evil of greed...But I did it for my family, and I'd do it again in a heartbeat for the hatchlings. For my people. Tearing their planet down kept us breathing. It's why this city has grown to such a majestic sight."
+
+From his workshop, we got a great view of the expansive city. It was a series of poor, rundown slums. I kept my own judgments to myself as I nodded.
+
+"Yeah. It's great you gave your all this for a planet."
+
+"Speaking of, whenever we get to your planet, I'll have my team and me act as your skeptile squadron."
+
+I waved a hand.
+
+"Eh, that won't be necessary."
+
+A smirk grew on Tera's face.
+
+"Oh, but it will be."
+
+I leaned against one of his workstations.
+
+"What makes you say that?"
+
+Tera stepped up.
+
+"I've been thinking of how to help your guild since you offered us so much support. I have a few ideas."
+
+"Such as?"
+
+"First, you need an economist with global experience. I have that, and I can arrange for the needs of a population to be met."
+
+"That's...Highly useful. What else?"
+
+"Second, I know how to use different eldritch for potion ingredients or other useful products without having them come back to life later. I can share my knowledge with your guild."
+
+"Hell yeah, that's also pretty useful."
+
+"Third, we can help terraform regions. We skeptiles stay close to the ground, and we can speak to the spirits that rule over lands. We can harmonize those forces so that a place can become fruitful."
+
+"Spirits, huh? I didn't know they existed, but it wouldn't be the craziest thing I've seen since joining Schema's system."
+
+"It is as true as the sands of time. From this barren rock, we've reaped impossible harvests, and that is how we can work with the land to bring the most out of it. I'm sure you're able to handle food from what you've said, but we're able to do that without interfering with the soil over the long term. Our methods help hold the careful balance of nature."
+
+I leaned forward.
+
+"Is that how you feed the people here?"
+
+"It is. We manipulate the climate with ritual magic. Once cast, we'll need a continuous flow of mana, but we have plenty of people willing to man the shift for such a job."
+
+I scoffed.
+
+"Mana will never be a limiting factor again. Instead, your problems will start to revolve around not blowing everyone up."
+
+Tera smiled.
+
+"Too much power, hah. It is a good problem to have. We can start now if you'd like. All we will need are the initial funds to warp to your planet. I am ashamed to say that we lack the ability to warp so many, considering we have so little accrued wealth in our clan."
+
+A glimmer shined in my eye.
+
+"Oh, don't worry about that. I've got a chauffeur."
+
+Tera gazed at the ground.
+
+"You're sure that's fine?"
+
+"Of course. I don't want to leave you all high and dry."
+
+"To the contrary, we skeptiles prefer that kind of position."
+
+I laughed.
+
+"It's a phrase. I'm not leaving you all on a new planet without support."
+
+"But we can handle it."
+
+"That's the thing, you won't have to. Besides, getting you guys going would help me accomplish my goals faster anyway."
+
+"Help. Like us managing our own lands for your profit?"
+
+"Profit? Probably not."
+
+Tera pinched the horns of his brow.
+
+"I cannot fathom why you're doing this for us. It...It makes no sense. You have nothing to gain."
+
+I waved my hands in circles.
+
+"Think of my goals and aims as being the mysterious desires of the Harbinger."
+
+Helios walked downstairs, having heard us. The albony held a witticism waiting under his breath, but he chose to stay silent. I let him be before turning a palm to Tera.
+
+"You have your elites gathered, right?"
+
+Tera nodded.
+
+"As much as I'm able."
+
+"Then let's go."
+
+We stepped out before each of us flew over to the center of the city. After passing a variety of slums in different states of disrepair, we stood beside the warping station and currency market. Schema's hirees peered at us, worried as a hundred skeptiles mingled about. The veterans under Tera, these individuals wore the scars and wounds of war, and they sharpened weapons made of bone and teeth as we arrived.
+
+We landed amongst them. In silence, they grouped up behind Tera, who stood a head taller than the rest. What Yawm was for the porytians, Tera was to the skeptiles, but Tera led his race from abject poverty to prospective wealth. Unlike Yawm, Tera wouldn't be corrupted during his rise to the top.
+
+I'd make sure of that. I raised my brow.
+
+"Are you all ready?"
+
+Tera gulped.
+
+"Of course."
+
+Helios took a deep breath, his mood like sour milk. He stretched out his hands, and our dimension bent. Springfield stood on the other end, and one of my architect golems waited for their arrival. Helios and I walked through before we turned to the skeptiles on the other side of the warp.
+
+I gestured to the city.
+
+"Alrighty then. Welcome to your new home planet - Earth."

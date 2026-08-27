@@ -1,0 +1,117 @@
+---
+id: 63ebfb37-c9af-5d31-8e43-056f77e7dc89
+page-type-slug: story-chapter-royal-road
+title: "98 To Corrupt"
+slug: 0056-98-to-corrupt
+partOf: the-new-world
+position: 56
+ownLength: 2337
+unit: words
+ownProgress: 2337
+publishedAt: 2018-02-04
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/192025/98-to-corrupt"
+royalRoadId: "192025"
+markedReadAt: "2026-06-29T21:22:45.307Z"
+---
+
+I dashed towards the monster as it swung its sword of coalesced energy at me. Before the wave of blinding light washed over me, I dived into the ground. I drilled around and shot up from under him. I slammed a fist against his chest, but the skin and flesh was hard to the touch. It was like striking steel.
+
+The bones in my armor buckled at the impact, rebounding force radiating up my arm. My armor held me together before the creature buckled over. I sliced another snapping hook into his jaw, the telekinetic impact sending blood in every direction. I swiveled on my feet, firing another hook into the side of the creature.
+
+The armor on my knuckles split. The skin on the creature did as well. He swiped his sword towards me, but I ducked under the swing and drilled another hook into his side. The cape of flesh followed the slash, crashing against my side. I flopped through the air, my vision spiralling as I did.
+
+Through all that chaos, I angled my hands and head so that I drilled into the ground once I met it. I burrowed into the ground, spiralling in a circle before attacking the monster once more. Using The Coming Tide, I bursted up and out of the ground. As I did, the eldritch abomination swung its sword downwards towards me.
+
+I lifted my striking hand, my right fist making contact with the eldritch’s sword hand. All the propulsive force was overpowered, shoving me back into the ground. The swing drove me five feet into the ground, my right arm shaking as it stopped his sword arm. Kessiah finally dashed in from the side, but the monster used his flesh cape against her.
+
+She punched the writhing mass, slamming her fists with tectonic collisions. The blood of Baldowah coursed through her, fueling her monstrous strength. As I held the eldritch there, she delivered punishing blow after punishing blow. Her fists turned into speeding blurs as bones in the flesh cape broke.
+
+Despite the enhanced attribute of this thing, it lacked Dakhma’s finesse. Without his techniques and skill, the battle turned into one of attributes versus attributes. Since Kessiah’s Blood Arts enhanced her strength by an immense magnitude, it gave us an edge.
+
+Using that edge, Kessiah launched an earth shattering strike into the flesh cape. The veins and flesh holding it together ripped open, blood coursing out in every direction. It splattered over Kessiah, covering her eyes. The monster slammed his arm into the side of my chest, knocking me a few feet sideways.
+
+My ribs broke as I lost my breath. The sound of his strike busted my eardrums as I fell towards one knee. The eldritch monster turned around in place, slicing his sword at Kessiah.
+
+The coalesced energy sliced halfway through her chest. Blood spurted from Kessiah’s mouth and nose before the monster grabbed her with his cape. The horns clasped onto the sides of her face as the cape dug veins and flesh down her throat.
+
+It was trying to drown her in its body. Before it did so, I stood up and shot towards him. With my runes overcharged, I struck the side of the monster. The monster kept the cape on her face as she struggled. It was like watching a bear trap close through someone’s face.
+
+Kessiah’s body convulsed, her throat swelling as the flesh invaded her body. Hatred seethed into my limbs as I lashed out at the monster. My strikes turned vicious, my aim immaculate. I evaded each of the monster’s attacks, ripping powerful blows into its sides. The more I assaulted the creature, the less it mattered.
+
+The monster’s body absorbed the punishment, grinning at me despite the damage I dealt. Blood leaked out of Kessiah’s eyes as she scrambled for air. The fleshy tendrils poured out of her eyes and nose, squirming deeper. She used her arms, slamming her fists into the cape holding her. It wasn’t enough damage against this thing.
+
+Desperation leaking into Kessiah and my movements. The monster’s resilience kept it alive as Kessiah’s stomach swelled. My own strikes continued growing in intensity, my own ferocity growing as I struggled. Every ounce of my might aimed at stopping the ongoing horror. A monster of flesh was going to kill Kessiah. I wouldn’t watch her die. I refused.
+
+My strikes blended together, molding into a single movement. All of my skills came to one, becoming something undeniable. With each passing second, The monster’s movements slowed compared with my own. I perceived the attacks of the creature before they were thrown. The desperation ebbed away as conviction replaced it.
+
+It’s vitality was tremendous, higher than even my own. Killing it was like moving a mountain. It was a time where I had no choice. I stood up to the horror in front of me and faced it. I dedicated myself, honing my mind and movements into a single entity.
+
+The monster was faster and stronger, but I shifted and weaved around its strikes with grace. It belched acid at me, but I used gravity as I struck it to move the acid away. It struck towards me, but I molded gravity to misdirect its strikes. It opened its chest at me, flaring a nest of spikes at me. I moved myself with telekinesis away from it, ripping strike against it.
+
+The monster stepped back, no longer able to handle the onslaught of strikes. Even with its massive level lead, it couldn’t stop me. I was a force of nature. I tore through it with a relentless, unstoppable rush. It couldn’t touch me any longer. It didn’t take effort either. It was a relaxing feeling, like liberating myself. That relaxation let me think, even as I destroyed the monster.
+
+With tiny optimizations in how I hit and punched, I added a large advantage over time. The monster kicked at me, but I leapt over its attack. I bounced off a telekinetic pad, slamming my foot into the head of the creature. Teeth fell from its face. Blood shot out from every angle of torn skin. It was only a matter of time before I killed it.
+
+But time wasn’t something we had. Kessiah’s struggling slowed down as she couldn’t fight anymore. Her life force waned as her chest convulsed for air. I berated the monster with my strikes, unleashing torment. I shoved spines of my armor into the beast, tearing it apart. I impaled spikes of my armor into it, ripping through it and gouging out its organs.
+
+Yet it continued. Frustration leaked into my strikes, the weight of them growing. With wilder hits, I let the monster slice at me with his sword, the blade carved inches deep with each cut it made. It was a calculated risk I took. With this sudden ease in combat, I had the option of thinking. Using this new ability, I devised a plan in seconds.
+
+In the corner of my vision, Hod was flying towards us. If we wanted to kill this thing, we needed the energy sword in its right hand. Armed with that knowledge, I angled my strikes, loosening the monster’s grip on its blade. Its body had molded over the handle, making it nigh impossible to knock it out of its grasp. It was my only hope of saving Kessiah though.
+
+At the fever pitch of the conflict, the eldritch slashed downwards at me. I caught his arm as he forced it downwards. This was my last chance. I dug into the ground before he slammed his left fist into my right side. Blood bursted from my insides, but it slowed down his flesh cape. As he struggled against me, he no longer dug deeper into Kessiah mouth.
+
+The monster didn’t leave me unpunished either. With each strike, he whittled at my health. With each mammoth collision of its hand, my bones rattled. Blood burst from my mouth, my body disintegrated under the onslaught. I kept my hold of him firm. I opened the jaws of my armor and clamped down on the wrist of his sword hand.
+
+Event Horizon helped sustained me, sapping his health as he struggled. Kessiah’s arms fell limp against her side as her struggling stopped. A pang of fear jolted up my spine. If Kessiah died like that, I would likely die as well. We could hardly handle this thing with the both of us. It was too bulky and too strong. The sword did unbelievable damage, and it could drown close range targets with its body.
+
+I didn't even know if I had to breath anymore. My blood was metal. My skin was too. I hadn't sat down and looked at myself for a long time. I didn't even know if I could peel back my armor anymore.
+
+I crushed those fears and doubts under my heel. I didn't have time to ponder. I would win. I had to win. It wasn’t the time for fear. It was time for action. I resolved myself. I wouldn’t leave Kessiah here, dead or alive. Who knew what they would do with her body if I left. I didn’t want to find out. I would stay here and fight until this thing died. I had to.
+
+As a hole ruptured in my side, silver blood leaking out. Like mercury leaking down my side, it gushed. The eldritch stood still for a moment and licked some silver blood from off his fist. His many eyelids wrinkled in disgust,
+
+“You taste like dirt and stone...What are you?”
+
+It was the opening we had been waiting for. From above, there was a whistle in the air. Hod dived down, using charged shadow claws to slice at the flesh cape. He cut into the tendril of flesh digging into Kessiah’s throat. His sword wielding arm was still pressing down on me, so I let it crash into my collar bone. It cracked the bone as I bit deeper into his wrist.
+
+Tendrils of armor leaked out from my teeth. I grounded both my feet and slammed my fists into the wrist holding the energy sword. The eldritch stumbled just enough for Hod to slice twice more with this shadow claws. He finally severed the flesh cape, separating Kessiah from the monster’s main body.
+
+Hod dragged Kessiah away before the eldritch turned and reached out for them.
+
+“That is my food, not yours.”
+
+As the eldritch dashed towards them, I dug my feet into the ground and bit down hard on his wrist. As I pulled back, my teeth dug into the bone of his arm, severing the ligaments holding him together. After two more tugs from it and I, I amputated his right sword hand.
+
+Without my own mass pulling against him, the eldritch charged into the ground. I stood up. Before anything else, I dashed towards Kessiah. I reached her unmoving body, the tentacle down her throat blocking her breathing. Hod struggled at what to do, so I shoved him aside before grabbing the tentacle.
+
+I pulled at it, the tentacle staying inside her more than I thought it would. I grimaced before putting a foot on Kessiah’s chest. I yanked the tentacle out, Kessiah’s body deflating as I removed the tendril. After a few more tugs, it was all the way out. Kessiah wasn’t breathing though.
+
+I removed my helmet, putting my lips against hers. I breathed into her chest. After two breaths, I pressed against her chest in timed intervals. I alternated between breathing and pressing onto her chest. I turned desperate before a black portal opened beside us, Torix stepping out.
+
+He glanced around, “I’m here. Kade disappearing from his post took maneuvering to fix, but I found a...”
+
+He glanced at Kessiah, his jaw falling open as horror spread across his face. I shouted at him,
+
+“She isn’t breathing. Do something!”
+
+Torix breathed out with a remarkable calm. He pulled his hands apart, arcs of lightning coursing between them. Once fully outstretched, his grimoire floated out from under his robe. It flipped open before static built in the air. He pushed his hands together, a ball of explosive lightning pooling in his right palm.
+
+He lifted the finished sphere, grunting out his words, “I am the only dead one in our group Kessiah.”
+
+He pressed the ball into Kessiah’s chest. She flopped upwards, her limbs flailing around. Torix howled, “You don’t die unless I kill you. Do you hear me?”
+
+She still didn’t breath before Torix raised his palm, mana infusing his palm. Torix thundered,
+
+“You will answer my question. Do you hear me?”
+
+He slammed it into her chest once more. Torix’s blue fire eyes turned red as he lifted his palm once more. Kessiah’s eyes popped open, a plume of blood tearing out of her chest. Using gravity magic, I pulled the blood from her throat, my finnesse amazing me. After removing a gallon of blood, Kessiah gasped for breath.
+
+She rolled over onto her hands and knees, vomiting up blood before breathing deeply. As she coughed right after, the eldritch monster had already stood and stomped towards us. It’s flesh cape was severed. It’s right sword hand was rived from its body. Blood spurted out of its wounds as its many voices gurgled out,
+
+“You’ve earned my respect, little lambs. These injuries will heal whenever I feast on you bodies. You all walking corpses.”
+
+Torix stepped in front of us, his grimoire glowing bright,
+
+A dark portal opened above Torix. A white, scaled arm the size of a bus landed beside Torix. As its claws dug into the ground, the air around us cooled. Pillars of ice jutted out of the ground. The portal stretched open, revealing a massive eye. It glanced around before spotting the eldritch. It pushed against the portal, revealing a smiling mouth full of teeth.
+
+A maniacal grin grew on Torix’s lips, “The only walking corpse is right in front of me, I assure you.”

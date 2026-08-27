@@ -1,0 +1,153 @@
+---
+id: 13a7ab7e-0ccd-5e66-8a4f-70392df46115
+page-type-slug: story-chapter-royal-road
+title: "Chapter 76 – The Marsh Bites Back"
+slug: 0076-chapter-76-the-marsh-bites-back
+partOf: the-magpie-and-the-archmage-monster-evo-litrpg
+position: 76
+ownLength: 2056
+unit: words
+publishedAt: 2026-01-26
+link: "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2979791/chapter-76-the-marsh-bites-back"
+royalRoadId: "2979791"
+---
+
+Setting up another net and catching a crane was easy. Cee and Liora had worked out their hunting strategy quite well, and while cranes were strong, they weren't too smart. Liora baited one straight into Cee's net, and before long, they had a frozen crane trying to peck itself free of the ice.
+
+"So how do I pull mana from the crane into Renir?" Liora asked, holding Renir at the ready in her talons. "Mana conversion supposedly only works on me. I think. Let me read the System description."
+
+[Mana Conversion – At [Adept] level converts 50% of the remaining mana of a defeated enemy.]
+
+"It doesn't mention that only you can use the converted mana. If there was such a limitation, I'm sure the System would have mentioned it," Cee said, hopefully waving her legs. "My guess is that you can direct the mana you convert into where you want to put it. If you concentrate, you should be able to direct it into the gem."
+
+"Okay, let's do this!" Liora said, clutching Renir.
+
+"I'm finishing the crane off. Be ready," Cee said, and leapt onto the crane. She bit mercilessly into its flimsy neck, killing it instantly.
+
+[You've assisted in defeating <Marsh Crane – Level 22>. Experience gained.]
+
+The moment Liora saw the notification, she concentrated on her Mana Conversion skill. Ever since it reached Adept level, she never really thought much when using it. It was as natural as breathing, quick and easy. But now she thought hard of guiding the mana dispersing from the crane into Renir.
+
+The mana seemed confused as she had instinctively drawn it into herself initially. But halfway through, she managed to guide its flow to the gem, watching how the color returned to it ever so slightly.
+
+"I think it worked," Liora cheered, admiring Renir in the brilliant moonlight.
+
+"I told you it would. But it seems like we need more. Frankly, I don't think these cranes have a lot of mana. We need better targets," Cee said.
+
+"All the other targets are in water," Liora pointed out.
+
+"Yes, so we need to lure them out. I say we try for the pythons. They are sneaky but greedy. We need to find a good bait for them," Cee said, pressing her front leg to her mandible in thought.
+
+"I won't serve as bait for a python," Liora said firmly, putting Renir back in her Inventory. "I say we continue doing what we've been doing, but with extra steps. We catch a crane and then use it to lure a python or perhaps even the mega fish."
+
+"Hmmm… That will be tricky since they have such long necks. I don't want to be turned into a spider skewer while trying to tie the bird up," Cee pointed out.
+
+"I'll keep it busy while you restrain it, it's easy as that," Liora said.
+
+"Do you have any restriction skills or something like that?" Cee asked.
+
+"Uh… No. But my talons are quite strong. I'll try to clamp its beak shut."
+
+Cee gave Liora an odd look, narrowing her many eyes at her. "If the crane so much as glances my way, I'm jumping away."
+
+"Fair," Liora nodded.
+
+They set up another one of their traps, some distance away from the previous one, and once again, Liora, using her magpie form, baited a lone crane into the frozen web. The crane thrashed wildly, trying to get free, but Liora, having reverted to her true form, used Lunge to strike its head and stun it momentarily. After that, she grabbed its beak with both her talons and held it shut.
+
+"Now!" Liora yelled. The crane struggled against her, trying to open its beak and shake her off. But Liora wasn't so weak to be just blown off. She wouldn't be able to hold for long, but for a few minutes, she would be able to keep the crane's beak safely away from Cee.
+
+That was all that the spider needed. She wove a thick webbing and surrounded the crane with it, ice and all. Its struggles grew more restrained until finally Cee ran a few loops of her webbing around the beak, securing it to its neck. This way, it wouldn't be able to harm them anymore.
+
+"We got it!" Liora cheered.
+
+"Yeah! Let's find a nice spot and lower it onto some shallow island. We need the python out of the water to properly fight it," Cee said.
+
+"Why don't we hang the crane on a tree branch? Force the python to come out completely," she suggested.
+
+"You think it would come out? If I were a python, I wouldn't risk it."
+
+"Yes, but you're smart. Python is not," Liora noted.
+
+"Aw, shucks! You know how to make a spider blush. It doesn't hurt to try. If it doesn't work, we can always lower the crane into the water later," Cee said.
+
+"Exactly," Liora agreed.
+
+Cee pulled the tied-up crane up and hoisted it onto its butt. While the bird wasn't exactly the biggest creature out there, Cee wasn't that large herself. In fact, she was twice as small as the crane, yet was able to hold it up with no problem.
+
+"How are you so strong?" Liora asked. "I was sure that we'd have to drag it around together."
+
+"I don't know. It's really weird. Being a spider overall is weird. Not recommended," Cee shook her head.
+
+"Hey, but you're the cute kind of spider. And you have those really useful webs, and can jump super far," Liora noted.
+
+"Yeah, that's cool, but you know what's also cool. Not having mandibles for a face. It still feels weird to eat with them. Also, I miss human food…"
+
+"Yeah, me too…"
+
+The two of them sighed and decided to focus on the task at hand. Liora flew around the marsh, looking for the pythons to figure out their general location. She spotted three surfacing for a brief moment to take a breath, and told her findings to Cee. Together, they decided on a spot where they could hang the crane, but both remain hidden.
+
+They waited. Nothing happened for the longest time. The water beneath would occasionally stir, making both Liora and Cee flinch. But nothing made their move for the bound crane.
+
+"Why is nothing happening?" Liora asked, peeved by the inactivity. "Should we place the crane in water?"
+
+"It's too soon. Let's wait a little longer," Cee said.
+
+They waited some more. Liora had a hard time sitting still, occasionally hopping from branch to branch to move her body. Cee, on the other hand, was much calmer, remaining still and busying herself by weaving an ultra-thin thread.
+
+Liora didn't know how much time passed—it must have been hours, but at one point, a python finally appeared. It poked out its large, rounded snout out of the water and flicked its tongue up, as if to taste the crane who was still bound and struggling in Cee's web.
+
+The python disappeared underwater for a moment, and Liora feared that their plan had failed. But soon enough, it resurfaced again, slithering up the willow mangrove roots and searching for a way up to the crane. They didn't attack it right away, instead waiting for the python to make its way up the tree. The farther away it was from the water, the better it was for them.
+
+However, as the snake emerged from the water, Liora realized that they might be quite outmatched. <Marsh Python> was written in rather bright orange letters, and the thing was absolutely massive. It could likely swallow Liora and Cee whole at the same time and not even feel it.
+
+"Maybe this isn't such a good idea. The thing is much higher level than us…" Liora whispered to Cee.
+
+"Don't get cold feet on me. Don't you want your gem friend to recover?" Cee prompted.
+
+"I do, but—"
+
+"Don't you want the glimmerstones this thing has?"
+
+Liora paused. The python must have a fair share of glimmerstones. Its body was long with plenty of space where it could be hidden. Frankly, Liora felt she hadn't been getting enough glimmerstones in this swamp since a lot of them were unfortunately lost in the water.
+
+"I do," Liora said.
+
+"Then let's do this. You begin, and I'll follow," Cee said.
+
+Throwing another glance at the python, who was still blissfully unaware of their presence, Liora decided that it was at least worth a shot. In case things went south, both she and Cee could get away with ease. She wasn't locked into battle like she would have been together with humans.
+
+Relying on Shadow Glide, Liora took flight, positioning herself above the slithering python. It appeared completely oblivious to her presence, but she wasn't going to take any risks. Activating Fade, she dropped down, ready to strike the python with a powerful Skypierce.
+
+However, she didn't even get to attack the snake when it suddenly changed its trajectory, sticking its head up and hissing straight at Liora. It had seen her. How?
+
+Wait! I'm so stupid. It's a snake. It can sense my heat. It doesn't even need to see me to know where I am.
+
+Before Liora could attempt to stop her descent, the python shot some sort of glob straight at her. There was no way to dodge the projectile, not when she was plummeting down at full speed. It struck her, covering her whole body in nasty, stinky much.
+
+Afraid it was likely a poison of some sort, Liora shut her eyes so it wouldn't damage them. However, she couldn't see where she was going. The best she could do was flap her wings and try to regain altitude. The poisonous muck clung to her feathers, not allowing for smooth flight. She couldn't even tell which way was up anymore.
+
+"Liora! It's right next to you!" Cee screamed.
+
+Out of desperation, Liora mimicked the gnoll's "Maddening Cackle", hoping it would at least temporarily confuse the snake.
+
+[You've successfully mimicked the skill <Maddening Cackle>.]
+
+An angry hiss resounded somewhere nearby—far too close for comfort. Liora tried to get away, but either she had crashed into a snake, or perhaps the snake had crashed into her. In either case, she was struck and flung straight into the murky waters below.
+
+Shit, shit, shit!
+
+While the water was the last place she wanted to end up, it did wash off the nasty, poisonous muck the python had shot at her. Her skin did sting in places where it had managed to get through her feathers, but overall, it hadn't done too much damage thanks to her Poison Resistance.
+
+"Get out of the water!" Cee screamed, and Liora saw how the spider had woven several strong threads around the python, making it writhe and thrash as it tried to get itself free. But the threads wouldn't hold such a massive creature for long. Liora had to get out.
+
+Unfortunately, magpies weren't good swimmers. In fact, all they could do was helplessly float atop water, kept up purely due to their light build and weight. Liora tried to flap her wings and force herself into the air, but her feathers were wet. She couldn't fly.
+
+The more she struggled in the water, the wetter she got and the less she could fly. It was at that moment that Liora realized how vulnerable she truly was without her wings. Nothing more than a snack for other monsters to enjoy.
+
+Don't panic. You have to get out of the water. You have to dry your wings. Think, Liora. What would Renir do?
+
+Liora's mind instantly went to her skills. One of them must be able to save her from this mess. To get her out of the water safely before the python got to her. One of Cee's threads just as she thought that, and the snake dropped down, closer to the water.
+
+Think, think! Which skill could save me? Or a combination of skills?
+
+As Liora was trying to figure out a solution, she saw a few air bubbles surface right in front of her. Her blood ran cold. With her thrashing and flapping, she had attracted the biggest monster of them all. The king fish. If she didn't get out of the water, she would become its next meal.

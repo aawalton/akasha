@@ -1,0 +1,275 @@
+---
+id: b3c49e99-f025-5e16-82f0-30779a112d41
+page-type-slug: story-chapter-royal-road
+title: "369 Schema's Will"
+slug: 0328-369-schema-s-will
+partOf: the-new-world
+position: 328
+ownLength: 2127
+unit: words
+ownProgress: 2127
+publishedAt: 2023-03-14
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/1137301/369-schemas-will"
+royalRoadId: "1137301"
+markedReadAt: "2026-06-29T21:32:28.049Z"
+---
+
+As the air crawled into my lungs like hungry leeches, I said, "It would be, but that's not my plan."
+
+In the corrupted space, I spawned an orb of primordial mana. It billowed like smoke before I soaked it in, changing my dimensional wake to a primordial one. A few seconds later, my runes glowed dark blue, and I temporally accelerated. I glared at the walls as they opened mouths and eyes.
+
+"Now then, let's talk."
+
+Chapter Begin
+
+Before Schema could talk, the walls bellowed, the quiet rumble of machinery replaced with the low growl of hunger. Stretching out my dimensional wake, I killed the creatures, air, and space with Event Horizon. As the last death cry dwindled in, I waited.
+
+A minute later, Schema said, "You have learned much from going to Leviathan-7."
+
+"I learned this well before the lottery."
+
+"Why did you not inform one of my AIs?"
+
+"I'm being limited by you. I decided against telling you until I understood more about it."
+
+"What did you learn?"
+
+I shrugged.
+
+"Nothing outside of using illegal methods to escape the system. The thing is, I still want to be on your side. You're not making it easy, though."
+
+Nanomachines reconstructed the area, ridding it of the living walls and air. Seconds later, the space began purifying. I soaked in the sight, knowing few beings could wield dimensional magic so casually as Schema did.
+
+Minutes stretched on as the machines eroded the warped space. I shook my head.
+
+"Schema...I want to help you contain the eldritch and destroy Elysium, but you'll have to meet me in the middle. I can't like this. I have way too much to do, and right now, your system and you are becoming more of an inconvenience than a motivator."
+
+I snapped my fingers, my dimensional wake desaturating. Time returned to normal. A moment later, Schema said, "This is likely a glitch of some kind. It will be rectified."
+
+My eyes narrowed. Schema almost always talked in absolutes, but he didn't right then.
+
+"Alright. I get it. When can you get the glitch fixed?"
+
+"Within several years."
+
+I blinked.
+
+"You can't be serious?"
+
+"I am joking. It is already fixed. What will you do about this ruined space you created?"
+
+Ok, I hadn't expected this. I shrugged.
+
+"You've nearly fixed it already. Besides, you can use this as a torture room, right? I'm sure you have far worse already in this place, wherever we are."
+
+"You assume correctly."
+
+His words hung over me like a bladed pendulum.
+
+"Anyways, where are the rewards? Isn't there going to be a screen or something?"
+
+"Your rewards are flexible given your unique position."
+
+"Unique how?"
+
+"You are the leader of all the lotteries."
+
+In a galaxy of trillions? Pshhh.
+
+"What? No." I shook my head. "No way. Impossible."
+
+"You show genuine surprise. You have learned to lie well."
+
+I furrowed my brow. "How the hell am I lying?"
+
+"After killing, enslaving, and robbing every ruler in your assemblage, you act as if your leading position isn't expected. That is a poorly constructed lie."
+
+I winced.
+
+"Huh. You really don't know what happened there, do you?"
+
+Machinery rumbled. My eyes widened. "You sent us somewhere you'd never been."
+
+"Enough. State your rewards."
+
+I raised a hand, "First, unshackle me from those system restraints."
+
+"There are no restraints. The glitch has been cleansed, and how it came about is being investigated."
+
+This entire talk went smoother than I anticipated. I planned on Schema lying and needing a big show of force to call him out. By the sounds of it, Schema wasn't lying at all. This had all gone unnoticed, but that could be a convenient excuse.
+
+Still, it was an excuse. I waited for the space around me to be fixed. Once it was, I lifted a hand to channel primordial mana. The aura smoked out of my hand, a thickened, coursing energy. I gave the all-present AI a nod.
+
+"Hell yeah. That's much better. Now, the second part I want involves my cities being recognized on Leviathan-7."
+
+"If I am to offer you that right, you must explain what that poison is and other details of the planet. Once inspected, other conditions will need to be addressed as well."
+
+I handled my first goal, having my limiters removed, so I temporally accelerated. Several minds jumped into high gear, considering what was said. Based on what Schema had said so far, he knew next to nothing about the situation on Leviathan-7. He wanted information on what kind of dangers the world presented. If I exposed even a fraction of what was on the planet, Schema would isolate me from the place for safety reasons.
+
+Honestly? Understandably so.
+
+However, my plans for independence from Schema and other forces depended on that planet. The blue cores were that critical, but I wasn't alone in wanting those glowing spheres. Schema had already gained the 250 dungeon hearts I donated, so he learned how many I could harvest. He wanted that planet as much as I did.
+
+I just needed to give him a reason to hand it to me first.
+
+I said, "The poison was Elysium's attempt to kill me."
+
+Schema's presence intensified.
+
+"Elysium didn't follow their treaty?"
+
+"Not even a little bit. The moment they saw an opportunity, they went for my jugular...And they nearly succeeded."
+
+"In killing you? There's only one likelihood, then."
+
+"What?"
+
+"They infiltrated the lottery before it occurred. Your destruction would require planning."
+
+"It sounds like you've thought about it."
+
+"Of course. I have kill protocols for every notable sentient. You are no different."
+
+"Apparently, so does Elysium. I figured that part out the hard way, and that's why only Shalahora and I came out. We have a few more rulers in some pocket dimensions, but that's it."
+
+"I will suspend the ruler's sentencing for one month's galactic time. You have until then to rectify their positions before any settlements are incurred."
+
+Another notch in my belt for the conversation.
+
+"Got it. Now, about the planet-"
+
+"A full investigation of the proceedings on the planet must be agreed upon."
+
+"I can't do that."
+
+A pulse of pressure squeezed around me.
+
+"What reason could you possibly have to renounce my right to inspect a domain under my control?"
+
+I prayed this argument would work as I raised a hand.
+
+"Elysium has infiltrated your communications. It knows about system-wide events before they occur. They could've created that 'glitch' in your system without you knowing. Hell, your information leaks killed nearly every one of the rulers in my lottery. I knew those people, and I could've saved them if it weren't for your failure. That's on you, not me."
+
+I let the news soak in. I threw my arm aside in frustration.
+
+"Investigation? I might as well be inviting Elysium back onto the planet."
+
+I held my breath, waiting for Schema's answer. He said,
+
+"That is logical given the circumstances."
+
+I held in shock, not expecting Schema to give an inch on this. I couldn't believe this was working.
+
+I said, "And I also managed to somehow beat every single ruler in the galaxy-"
+
+"Curb your arrogance. The lottery was not system-wide. It was a relatively small event."
+
+"Huh...That's why I stole the victory then, but the lottery's small scale exposes your informational network even more. All this after you revealed my home planet's name during my introduction to the other rulers. This new planet is the only safe place I have left."
+
+That was a bold lie considering how hostile the place was. However, Schema wasn't fully aware of that.
+
+"Anyone that knew about your position on Earth is dead."
+
+I shook my head.
+
+"There was time after your announcement. Messages were sent, and Elysium knows where I am now. This is my only way out of the fallout you created. I think I earned this."
+
+"You earn what I dictate."
+
+"So what exactly are you dictating?"
+
+"I dictate that you can establish a planetary safe haven under certain conditions."
+
+I smiled. I got my planet. Everything else in this talk was gravy.
+
+"Then what do you want?"
+
+"The logistics around warping to and from Leviathan-7 are arduous and resource-consuming. Each warp will require 100 blue cores to justify the expense."
+
+My jaw slackened.
+
+"You sent 500 people there without even having a warp station. You're telling me that cost 50,000 blue cores worth of resources?"
+
+"It is the cost you will incur. That is my offer."
+
+"So is that cost per individual or what?"
+
+"Yes."
+
+I shook my head. "Come on now. That's ridiculous."
+
+"You can carry many individuals per trip through your personal pocket dimension."
+
+I tapped my teeth together. Schema called out my plan in an instant.
+
+"Ok, fine. 100 blue cores per trip."
+
+"You will work with more restraints. You may only stay for two and a half days in uncompressed time. This totals to just over three months on the planet each year."
+
+I raised my brow. "Do you have this many 'restraints' on other colonies?"
+
+"Other colonies do not bring back a deadly psionic poison from an untouched planet before demanding I relinquish any right to inspect its creation."
+
+Touche.
+
+Schema said, "The lottery will be considered this year's excursion. Next year, on this day, you will be allowed to warp there once more. Anyone you bring within your pocket dimension must be inspected by a team before arrival and upon return. These are simple scans of the mind and body for Hybrids."
+
+My left eye twitched. Memories of the Hybridized rulers passed over me.
+
+"Would you mind sending someone to Mt. Verner to scan us?"
+
+"It does not matter where it is handled. You must have it done."
+
+"No, I mean, I want it done on everyone in my camp immediately."
+
+I blinked a few times, feeling sick to my stomach. Schema's voice softened.
+
+"Elysium's attempt at your life. What did it require?"
+
+"Let's, uh, let's just say it wasn't an actual death per se. Something worse, you know?"
+
+"I do not. If you inform me of what occurred, I can assist you. In the dark, I can do nothing."
+
+I weighed my options. After some thought, I said, "They tried to turn me into an avatar of Baldowah."
+
+The area trembled, something shifting in the space. I peered around as the walls rumbled. Schema said, "Then they did so with Valgus. To do so, they passed through his telepathic restraints. Hm. That is alarming. I'll assume you detained him within the radius of Leviathan? Nothing else could've stopped his return here."
+
+"No. I killed him. Really more of an it, honestly."
+
+"You...Killed Valgus Uuriyah?"
+
+"Yeah."
+
+"That...Noted."
+
+The air electrified before Schema said, "Daniel. I need to tell you something."
+
+A chill ran up my spine.
+
+"You are a suitable host to entities I cannot contain nor stop. They will come for you like a moth to a flame, and I repeat to you this - I cannot stop them. However, it is within my power to stop you."
+
+"Er, how?"
+
+"By killing you. Do you recall when you first left BloodHollow? I considered killing you then and there."
+
+Schema's words spawned fear in my chest.
+
+"I decided on giving you a chance to live despite your high likelihood of corruption. After the dimensional tearing incident, I considered doing so once more. You remained stable, and you overcame Yawm. That is why you survived my gaze. If you escaped from Earth somehow instead of destroying that abomination, I would have killed you."
+
+I nestled my hands.
+
+"Remember that I gave you that title - The Harbinger of Cataclysm. I understood exactly the outcome of your status multipliers. I understood your propensity for combat. I even understood your will of iron and drive to succeed. Crawling out of that cave with your life was all the verification I needed for that."
+
+Schema's presence pulled down on me like a rain of iron.
+
+"So, despite your arrogance, I allowed you to sign that first contract with Yawm since it was well within my control. A permanent change to me can be as simple as an adjustment to a sorting algorithm for status management. However, you have done far more. You chose to defy entities you don't understand. That we don't understand."
+
+A dark blue aura enveloped the room, saturating everything.
+
+"When you signed that contract with Shalahora, you sold your soul to an Old One. I have considered your ability to destroy lesser beings, but a true Old One? You are nothing. We are nothing."
+
+The emanation pulled me down as Schema said, "I will give you this opportunity out of grace. Answer me."
+
+Schema's voice hardened.
+
+"Why shouldn't I kill you?"

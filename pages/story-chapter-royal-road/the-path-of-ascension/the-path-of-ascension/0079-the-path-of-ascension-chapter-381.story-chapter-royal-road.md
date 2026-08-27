@@ -1,0 +1,303 @@
+---
+id: 889b6067-8ea3-5afa-8677-e989e7b6764d
+page-type-slug: story-chapter-royal-road
+title: "The Path of Ascension Chapter 381"
+slug: 0079-the-path-of-ascension-chapter-381
+partOf: the-path-of-ascension
+position: 79
+ownLength: 4740
+unit: words
+ownProgress: 4740
+publishedAt: 2025-01-20
+link: "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/2020798/the-path-of-ascension-chapter-381"
+royalRoadId: "2020798"
+markedReadAt: "2026-06-29T19:20:23.720Z"
+---
+
+Chapter 381
+
+Matt had to rein himself in after their spar with Ra’thala, and he could tell that everyone else felt the same way.
+
+The fight had been so… different, they all wanted to go another round or five.
+
+Ra’thala’s spells felt unique, and each cast carried with it a surprise as their patterns of energy differed from what they were used to, not to mention just how strong some of the spells were.
+
+His big attack that warped both time and space was something Matt really wanted to see pop up in a rift, but knowing his luck, it would be a Tier 50 skill which they would never encounter. At least not for thousands of years, but he really wanted to play with it now. Few attack skills interacted with space, let alone time, in the way that Ra’thala’s had shown itself to do so.
+
+He also wanted to see what would happen when they shoved an upgrade orb into the skill.
+
+It would also answer a question he had been thinking over as he watched the fights.
+
+What Tier did a purely self-made skill count as?
+
+Was there a possibility for them to abuse self-made skills that were unique to use both a Tier 14 upgrade orb and a Tier 26 upgrade orb on a skill that was clearly beyond those Tiers in terms of complexity and power?
+
+If he could, that was awesome, and it lent itself to further exploitation. And if he couldn't, then why not?
+
+People did create skills in this Realm, even if rarely, but Matt had no idea how upgrade orbs interacted with them and he wanted to explore the possibilities.
+
+Even a failure could teach them a ton, and Matt’s pockets already hurt as he anticipated the tests his guild would want to run on this idea.
+
+What if they learned something unique about upgrade orbs from this?
+
+Or skills themselves.
+
+Having seen the skills in action, Matt was already formatting a directive for his guild to start creating their own skills that would be useful in the Empire.
+
+If they could simplify Ra’thala’s method a little, as it sounded pretty complicated, they could change the landscape of low Tiers and their relationship with magic.
+
+That was if Ra’thala’s ‘ease’ of creating skills wasn’t a function of his cultivation method.
+
+For all of his strengths, Ra’thala’s cultivation method left a lot to be desired, at least from a pure combat perspective. Its complicated nature and less total essence meant he had to spin up his cultivation cores to fight at a peak level, which took both concentration and effort that could be better spent elsewhere.
+
+That, if nothing else, killed Matt’s desire to look into the method too much. Oh, he’d happily fund both Ra’thala’s efforts and anyone else in his guild who wanted to test methods like it, but his personal interest evaporated upon learning it had such a major weakness.
+
+It also explained why they all had to shift into something closer to a mid-Tier 25 perception speed when talking to Ra’thala. His baseline was a step lower until he spun up his cultivation cores.
+
+Matt did intend to talk to Luna about the method of spinning one’s cores, as it was similar to the method she had taught them about pushing through cultivation suppressors. But he wondered, or rather hoped, that if there was a shared origin there might be a more advanced version that could not just reduce suppression effects, but boost cultivation in a similar way to what Ra’thala used. It was unlikely that there was a known method, otherwise they would have already been taught it either on the Path or in the army, but it was something to look into.
+
+That, and he was sure that if anyone could help in Ra’thala’s desire to reach the pinnacle elite stage, it would be Luna. If he survived her tutelage at least.
+
+From what he understood, she had retreated back into her house for a ‘nap’ once the war ended, and hadn’t been heard from since. He normally wouldn’t trust such simple information outright, but considering that it came from a ‘fearful’ Mara, Matt believed it.
+
+Still, none of that mattered right now. Ra’thala was still new to the Realm and needed to settle down.
+
+To that end, after they ate dinner, they escorted Ra’thala to the room he had been given in the palace.
+
+Eyes turned to Allie, who correctly thought everyone was about to ask her for teleports and vanished. Teleporter having escaped, Matt turned to everyone else and offered access to their suite, which was closest to the Palace, for a place to relax until Ra’thala was ready to go out again.
+
+Allie reappeared the moment they decided to hang out and demanded they watch one of the newer Ascender movies.
+
+Aster immediately pouted as her favorite actor and friend Cynthia Sinclair hadn’t played her in this latest movie, and she insisted the new actor hadn’t captured her subtleties in the same way Cynthia could.
+
+Matt couldn’t tell the difference and he knew Aster better than anyone else, but his comment had only earned him a glare, then lecture, when he mentioned it.
+
+Thankfully there was an easy way to distract Aster and he offered they watch Cynthia’s new movie instead of the new Ascender movie.
+
+Cynthia felt now that the majority of Ascender movies that would be made had been made fifty years after the war, she was able to start taking other roles.
+
+Having played an Ascender more than any other single actor, she had long become a household name and had her pick of movies, which was why most were surprised when she personally funded a lower budget script and elevated what would have been a small single-planet movie into an Empire-wide production.
+
+Matt did understand why she took the role however, as it was the complete opposite of everything she had been doing while acting as Aster. According to the synopsis they had been given, instead of an incredibly powerful cultivator, Cynthia was portraying a weak low Tier who seemed to be always at the whim of fate until she started taking measures into her own hands.
+
+Except her efforts must have proved for naught because the ending of the story was spoiled by the first line of the synopsis. “She died while achieving nothing”.
+
+It was genuinely interesting and Matt had been forced to dedicate actual effort to not have the movie spoiled thanks to the amount of buzz it had generated while they were on their reconnaissance mission.
+
+Aster jumped on the offer, which led the seven of them to a private theater where they watched the movie.
+
+Matt shouldn’t have been surprised, but it was genuinely good. The story was complex enough to keep the viewer interested but simple enough to make watching easy. It also trope dodged his expectation of not actually killing the titular character and true to the movie's message, the main character struggled and achieved nothing despite all of her efforts.
+
+It was nihilistic to the extreme but so incredibly well done that Matt understood the hype around the movie after they watched it.
+
+Matt was tempted to go back to their suite to get a little work done, preparing his briefs to his guild about all he had learned while it was fresh, but Aster, Allie, Liz, and surprisingly enough Zack demanded they go and congratulate Cynthia in person for her stellar role as not-Aster.
+
+Just months after the movie's release, Cynthia was still in her press tour and on Rusty’s capital, which would have normally meant they could only send a message but Allie happily teleported them there without a single complaint.
+
+Scanning the planet, Matt pushed a dozen return probes away but paused upon feeling a trio of familiar spiritual perceptions brush against his own.
+
+Rusty, Tur’stal, and Frederic were all gathered within Rusty’s palace? And in a meeting of some sort of — Sensing the people around them Matt understood they were dealing with the Orders.
+
+He had almost forgotten about the Orders with how many roadblocks they encountered when promoting the venture, but from the gathering of Knights and nobles, it seemed like they were finally about to start the program.
+
+Receiving a message to join them if he had time, Matt sighed knowing he would need to mingle and play nice with not only the gathered nobles but also the Orders.
+
+That many people just seemed like a headache waiting to happen but Matt knew what he was getting into when he signed on.
+
+Before he could reply, Allie teleported them once more but this time to Cynthia’s location.
+
+That they appeared in the middle of a live talk show was probably a bonus for Allie and Aster who enjoyed the fame, but Matt felt his social batteries take a hit immediately as every eye and camera shifted to them.
+
+Smiling, he waved at the camera before retreating slightly even as Allie and Aster squee’d all the way up to Cynthia who was still processing their sudden arrival.
+
+The host was smooth and with an easy grin, he turned to the camera and said, “And we were just talking about what Ascender Wraith thought about the movie. I think we have our answer.”
+
+Cynthia wiggled in excitement as she smiled at the exuberant Aster but Matt’s bond was shoved out of the way as Allie and Liz wanted to congratulate her, which caused everyone in the audience to laugh at their antics.
+
+The host, one Brian O’Conner, wasn’t someone Matt knew well but his [AI] pulled up enough information to let Matt smoothly answer in a way that best fit the situation. “The movie was quite the treat. I doubt anyone needs us to say that, but it's worth saying, and definitely worth seeing.”
+
+That earned another cheer from the audience which helped cover the excited chatter coming from the astonished fans. Thankfully one of the producers had the good grace to mute Cythina’s sound, which prevented the live audience from hearing everything they were saying.
+
+Not that anything they said was sensitive or even negative, but it was private, even if they had barged into the middle of her public interview to give their congratulations.
+
+Sure, this would top the headlines, but Matt still felt bad about it derailing her interview.
+
+A lot of people’s plans had just gotten thrown into a trash can but what was done was done.
+
+Brian, however, just rolled with it and to his credit didn’t fawn over them as Ascenders and instead asked them about the movie, diving into what they liked and didn’t.
+
+The interview ran long, but no one rushed them out and instead they happily chatted for almost half an hour before the conversation naturally ended and all of them took the Allie Express out of the studio.
+
+They didn’t go far, just to a restaurant, but Matt took the opportunity to slip away and visit the still ongoing meeting with the Royals and the Orders.
+
+He’d much rather stay behind but Aster was having fun with her friend, and as supporters of the initiative one of them needed to poke their head in or risk coming across as rude.
+
+Fifty years ago, Matt would have shrugged such concerns off but recently he had been getting hit with issues that stemmed from his unwillingness to mingle properly and he had been trying to be better about such things.
+
+The moment he entered Rusty’s palace, he was redirected to a side room where he found all three of the Royals waiting for him.
+
+Squinting, Matt flexed his Meld and was disappointed that none of them so much as flinched. He had hoped the oddity of his Meld would be able to jump Tiers considering it felt like the clones were made with what felt like either Concepts or Intents.
+
+Rusty rolled his eyes at the test. “Yeah, we are clones. Can’t exactly leave the party.”
+
+Matt contemplated before asking for and getting a better set of protection in the room before he spoke.
+
+“We got a new ascender.”
+
+All three Royals clearly twitched as they increased their perception before lowering it to Tier 26 levels once more, giving him a very confused look.
+
+Which was exactly why Matt had worded it that way.
+
+“Ascender as in ascended from a lower Realm,” he explained, eliciting a spark of recognition from his listeners. As Matt explained the adventure they’d been through, including how they’d last-minute needed to swipe the man from the Federation, Rusty belly laughed, not his clone but his real body, who waved away the person he was talking to to replace his Domain clone in the room.
+
+His fast move earned him dirty looks from the other two Royals, which Rusty ignored.
+
+“Ok, this is too good to pass up. Continue on with the story. I wanna hear this in person.”
+
+Matt did so and expected Rusty to make another quip but Tur’stal was the first to speak. “Now this is interesting. Making skills. I really want to get my hands on that create matter spell. Using ambient essence to condense into a temporary form at-Tier would mean less mana to reinforce the material than the normal create branch of spells make. Just how versatile is the skill creation process?”
+
+Matt shrugged because he had no idea. “You’d have to ask Ra’thala himself, but he implied that it was a personal skill. Which I understand means he’s unlikely to share how it works. Better odds on it being a skill drop that starts to show up.”
+
+Frederic surprised Matt by disagreeing. “I don’t dispute your comment about him not wanting to share but I doubt that Tur’stal has the time nor the inclination of trying to learn how to create new spells. Far easier to just commission Ra’thala to make what she wants and transfer it to her. I’d also assume that he might be willing to do that even if he isn’t willing to share the exact creation method.”
+
+Matt opened his mouth to explain how that wouldn’t work, but he didn’t have one. Blank skill shards were pretty much useless, and he had nearly forgotten they existed and hadn’t put two and two together in this context.
+
+It was actually a really good idea, but not for buying spells.
+
+If Ra’thala could create skills as easily as he said, he might be able to make the most simple physical boosting spell again, but instead of just delivering one copied spell, he might be able to pause mid-way at important breakpoints and create a permanent record of how to build out the skill by storing each step in a blank skill shard.
+
+Though his skills being slightly larger than average might make that impossible. Matt had no idea if blank skill shards had capacity limits, and made a note to get his hands on a few to find out.
+
+Still, Tur’stal had given him a very interesting idea he was keen to look into more, but now wasn’t the time for that and Rusty pulled him out of his musings.
+
+“Interesting timing with this, don't you think?”
+
+Frederic nodded in agreement, but Tur’stal disagreed. “It can't be possible. Even if the Emperor had warning, his future sight wouldn't pinpoint the arrival time of the ascender until they had arrived. Future sight doesn't work without all the information. Coincidence, nothing more.”
+
+Matt raised an eyebrow indicating his confusion and Rusty leaned over and faux whispered, “The Emperor pushed a final proposal to us just a week before this guy ascended. Feels like a really good distraction, not an accident.”
+
+“But we’ve been on the lookout for over a year now. Seems like a coincidence to me.”
+
+Rusty shrugged. “And I don’t buy that for a second. We’ll likely never know but it's a good reminder that future sight or no, Emperor Emmanuel is a force to be reckoned with.”
+
+Frederic nodded at the statement before saying, “True enough, and a good warning to heed. That said, we all need to get back to the party. Matthew, thank you for passing on the news. You are welcome to join us if you’d like.”
+
+None of them seemed to expect Matt’s agreement and they all gave him odd looks when he started walking down the hall towards the party instead of away.
+
+Tur’stal asked, “Are you looking to sponsor an Order yourself?”
+
+“No, not really. I’m already a bit stretched thin as-is these days. The guild got sued again for a perceived infringement. It will probably fail even before it sees a courtroom, but something Kees said stuck with me. If I, as a guild leader and a noble, worked on forming connections then less people would be willing to cross me socially now that it's clear I won't just murder anyone who tries to sue me.” Matt gestured to the ballroom they were heading for, “So I’m trying.”
+
+To that end, Matt joined the gathering and mingled, doing his best to be friendly and open.
+
+It wasn’t easy.
+
+Almost immediately half a dozen nobles— weaker dukes— sidled over to him and tried to strike up a conversation.
+
+He deeply, desperately wanted to blow them off but instead spent some time chatting with them before he saw a Knight he actually wanted to talk to and made his excuses.
+
+Jophseph Ior was the Knight Commander of the Arcane Order, an Order which specialized in neutral mana attacks thanks to their signature Natural Treasure, an Infinite Diamond. It being a Natural Treasure he had taken and used himself had given him an interest in the Order.
+
+Stepping into the circle of participants, Matt was amused as the closest two people, a Tier 45 Knight and a Tier 37 duke, both shifted away from him despite his vastly lower Tier.
+
+When he had first interacted with the Knights, he had expected them to look down upon him for both being lower Tier and being not of hereditary noble background, but his status as an Ascender overwrote any of his otherwise perceived flaws. For some it went even further than that and they treated him like a dangerous animal they didn’t want to be too close to.
+
+Part of him was almost insulted by that but considering how these people treated anyone they saw as lower than themselves, Matt was happy they treated him with fear rather than disrespect.
+
+Most of these Knights were not good people. In fact, few of them were even close to being decent people and Matt could only hope the next generations were better.
+
+If not… well, he’d deal with it if it came to that.
+
+He wouldn't allow a monster to be created under his watch, let alone help resurrect one.
+
+Jophseph wasn’t that bad according to his information, however.
+
+They had only talked once but the reports Matt had read on him stated his main face had been trying to keep his Order intact after Agatha’s purges, but part of the reason they had survived at all was that they hadn’t been that bad in the first place.
+
+Not that bad in the context of the old Orders wasn’t a great look but Matt was at least willing to give them a chance.
+
+Once there was a natural break in the conversation, Matt stuck out a hand to shake. “It's nice to see you again, Jophseph. And in better times, with the successful deal being worked out.”
+
+Jophseph smiled and while he could have been faking, Matt thought he saw true happiness in his eyes as he said, “Much better. It's been a dream of mine to see our Orders no longer ostracized, and with our status restored, it's like a weight has been lifted off my chest.”
+
+Matt smiled and nodded while keeping his thoughts to himself.
+
+Instead he said, “Now is the fun part where you get to rebuild.”
+
+It was amusing as the Knights flinched at his comment like he was about to demand something of them but that wasn’t what Matt wanted here.
+
+“Your Natural Treasure, the Infinite Diamonds, are powerful but fairly undirected in how they manifest, correct?” Jophseph nodded but was waiting for the other shoe to drop. “I won’t call myself an expert by any means but as someone who has used the Treasure, I’d be interested in an exchange of information. I’ve pushed my Infinite Diamond in unique ways and I’m sure that you yourself have done the same and your new generation of Knights will do so as well. It could be good to see what we can learn from each other.”
+
+Matt could see Jophseph felt like he was being pressured by some combination of Matt’s status as an Ascender and his political importance so he didn’t let the moment linger even if he would have enjoyed seeing the Knights squirm. “I’d be willing to pay for the exchange or at least swap some of the Diamonds I have.”
+
+That caught the interest of everyone in the circle and Jophseph vibrated as he increased his perception to a higher Tier for a moment to give himself longer to think. “An acceptable offer, Ascender Titan. I can’t agree to anything specific at the moment but I am interested in working with you, both in general and in this particular instance. Your methods share some overlap with a few of my former fellow Knights that are sadly lost to us. At least in some small ways.”
+
+Another Knight also of the Arcana Order snorted. “Like he has any knowledge of value to offer.”
+
+Matt turned his smile onto the woman in question. “You think I don’t know any interesting tricks, Knight Sara.”
+
+I’m sure you know some things. I just doubt you know anything us of a 200,000 year old lineage doesn’t.”
+
+A number of people had been listening in and even those in their little circle took a step back to clear themselves from any potential lines of fire.
+
+Not that Matt would try to fight the Tier 45 who specialized in large scale magical attacks.
+
+That didn’t mean he would back down. “I like to think otherwise. Not many people use neutral mana in quite the way I do after all.”
+
+There was a long pause where no one said a word but after a moment Knight Sara smiled. “While that may be true, not many is not the same as none. I know of at least one, Charles the Endless Blade, who was also part of our august order some 100,000 years ago. ”
+
+“We shall see then, once we have compared some notes. But now I must continue my rounds. I hope everyone has a fruitful exchange.”
+
+As much as he wanted to leave immediately then and there, he didn’t want to look like the exchange had impacted him and instead moved to another three groups chatting about anything and everything.
+
+It wasn’t fun or easy but his careful handling of Knight Sara’s provocations hopefully earned him some respect, not just from the Knights but from the gathered nobles.
+
+His trek came to another halt when he saw a familiar face. Several in fact. Dominus Maniake stood with Sciath hEachaidh, Kiri Winiata, and Marco Winiata. All nobles who were working to take over their parents' fiefs in the coming years.
+
+With an actual smile, Matt moved over to join them as they talked about the Orders they were interested in potentially sponsoring, their parents having left the decisions fully in their hands.
+
+Matt and Liz weren't interested in fully sponsoring an Order but, as he had set up here, they were willing to tie some level of connections to the Orders. His current idea was more centered around his guild in fact.
+
+These Orders burned through a lot of Natural Treasures. Not necessarily more than any other large organization like the army, but they burned through one or two specific Natural Treasures at a rate that was unlike any other organization.
+
+It was a bit far-fetched of an idea but Matt hoped his guild would eventually reach the point where they could create specific enough rifts that they could allow for target farming of Natural Treasures either through rift rewards or creating the correct rift environments that allowed for the Natural Treasures to naturally form. Both were possible but so far the guild hadn’t even fully cracked Tier 8 skill rifts, let alone anything more complicated, but they were making progress and it would be both helpful to the Empire and the Orders as a whole if they were able to achieve any more success.
+
+He wouldn’t mind selling Natural Treasure rifts to specific Orders to make them more self-sufficient. It would also allow him a degree of leverage over the Orders which would help keep them inline more than an iron fist would.
+
+Carrots were just as important as sticks.
+
+Thankfully his excuse to leave came before too long as Allie signaled she was about to leave and he didn’t want to get stranded halfway across the Empire.
+
+Back at the Capital, they spent a few more hours dithering in their suite before they met back up with Ra’thala who was absorbing his [AI]. Being a Tier 26, he was more than capable of doing things while absorbing a skill and so they spent the remaining two days the skill would take to fully absorb exploring the Capital.
+
+Having visited a number of times and lived on-world for a few years, Matt was mostly immune to the sights that made up the Capital and its massive ever-present city but with Ra’thala leading the exploration, it was fun to view things from his perspective.
+
+It brought back a sense of awe Matt hadn’t realized he had lost.
+
+And Ra’thala found the most unusual things interesting.
+
+Yes, he was impressed by the spatially expanded buildings, and spent half an hour talking about the enchantments and how they were implemented. But they then spent two hours going over the metallurgy of the framing used to build the building. His people had discovered steel and its more common composites but they hadn’t seemed to delve into metal layering like the Empire used for super massive skyscrapers and he seemed eager to get his hands on some of the stuff.
+
+That led them to a smith where they hit their next unexpected roadblock as Ra’thala started comparing the tools used to what he was familiar with.
+
+Not everything was so flattering.
+
+Ra’thala was thoroughly unimpressed with the Empire's stance on things like office work. While he wasn’t dismissive and Ra’thala clearly understood the need for such jobs, he saw them as useless at the scale the Empire used them.
+
+Matt could sort of follow the logic but people needed to do the jobs even if they weren't glamorous and people needed money. Both sides got what they wanted, which was where Matt typically stopped thinking about such matters.
+
+Ra’thala was even amused by the idea of things like public libraries that housed most non-cultivation knowledge, but freely shared that such places wouldn’t have existed in his Realm and that their cultivation manuals were far more readily available. At least a number of basic ones were so widely spread they were practically the beginner’s choice.
+
+Overall, it was a fruitful and interesting two days that abruptly stopped when Ra’thala’s [AI] finished being absorbed.
+
+Pausing, Ra’thala wobbled slightly before looking around. “Now that is interesting.”
+
+Flexing his hand, he started feeling his way through the various functions while they called out helpful tips and tricks.
+
+New toy in hand, they spent another day getting Ra’thala up to speed on his [AI] before Ciceron nabbed him to complete a more thorough debriefing that could now be backed by [AI] oaths.
+
+Aster, despite being interested, ended up being the first to leave as she got a priority message from her just-formed duchy that two of her nobles were feuding and needed her to intervene.
+
+Matt and Liz took the free time to go on a few dates and just relax but even that ended when Ra’thala was freed from his obligations a week later and was able to travel.
+
+His first stop was Matt’s guild, which was exactly where Matt wanted him. They had so many things to go over.

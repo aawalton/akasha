@@ -1,0 +1,255 @@
+---
+id: 33d73568-9dda-5678-b3aa-9a6625fb7bd7
+page-type-slug: story-chapter-royal-road
+title: "PoA The Concept of Death Chapter 7"
+slug: 0015-poa-the-concept-of-death-chapter-7
+partOf: the-path-of-ascension
+position: 15
+ownLength: 5915
+unit: words
+ownProgress: 5915
+publishedAt: 2021-12-08
+link: "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/802899/poa-the-concept-of-death-chapter-7"
+royalRoadId: "802899"
+markedReadAt: "2026-06-29T19:17:56.242Z"
+---
+
+PoA The Concept of Death 7
+
+Melinda spent ten awful hours purging the contaminants from their systems, but she considered herself luckier than Sam and Mathew. Their suffering lasted a full two days, where they had to get the much larger dose of depleted copper out of their systems. Neither were willing to speak of their time in quarantine, only stating that it had been rough.
+
+They did find out that there had been a slew of changes to how the point system worked after the first day of fighting. They were now earning points every day based on their ranking, which was nice.
+
+They weren’t the only ones to have some troubles. To their surprise, Matt and his entire team had died after taking a fort. She, of course, healed them at Matt’s request. They were all healed perfectly by the Empire healers, as she expected, but she discreetly removed their healing cooldown. Matt had messaged her that he would act as if that hadn't happened, but was thankful to know they were ok.
+
+They even sparred with Matt’s squad twice. It was yet another learning experience for her team. Discovering that they had taken out two hundred people while defending a fort that they had just taken had been mind blowing. But the fight didn’t go as badly as she had feared.
+
+Her team actually had better coordination than the three teams who were mashed together. They just didn't have the raw power of the other party. With their newly absorbed skills, they fared better, but even with light sparring, it was clear they were still out of their depth.
+
+That was when her husband had a bright idea to hire trainers with the slow, steady income of points they were earning.
+
+Jacob was a Tier 11 they found on the CityNet who was willing to teach them team tactics and give them pointers on how to improve.
+
+It wasn’t pretty.
+
+After having them fight him, he told them that they needed to start dueling other teams. It was his easiest suggestion but not his only one. He had them rent time in a simulation chamber to hone their skills with various simulated team mates. He also had them simulate solo fights, so that they could always defend themselves should they be away from one another.
+
+Fighting without her team was enlightening. She was so used to them following her commands without hesitation. Half the time, they already knew what needed to be done, and her commands were redundant. The simulated teammates were often recalcitrant towards her, demanding detailed reasoning for any and all of her orders. Other times, they followed her orders too well. If she said ‘move right’, they’d sprint in that direction nonstop, and even throw themselves off a cliff if she didn’t stop them.
+
+Worst for her personally, these teams rarely tried to protect their healer. If an enemy moved to flank the back line, her allies just ignored it, focusing only on the opponent in front of them. Without [Bolt], she would have been completely defenseless. With it... she was still mostly defenseless. Her solo simulations were also a dissapointment; her mace skills were pretty rusty. Melee training had fallen by the wayside in the last few years. It was just another thing she had to add to her already full plate.
+
+Baxter was helping her with her Concept, and with training her Talent to heal the spirit damage that her Concept inflicted. But the progression was so slow, she wasn't sure that it was doing anything. The only good news was that she had gotten a bright idea when studying the effects of natural treasures, and while hearing a probably not so offhanded comment from her mentor.
+
+“The Tree of Perfection was quite a boon for Matt. If only everyone could get Tier 15 bodies so much sooner. It’s essentially the opposite of your Concept, or at least, it’s function is the direct inverse of your Concept’s.”
+
+To her eternal shame, she hadn't even registered the importance of the comment at the time. She’d only asked how he knew about that. Apparently, Baxter made a point of checking up on Matt’s team. He knew that she’d be beside herself if they suffered any catastrophic injury while she wasn’t there to help. It was actually very thoughtful and reassuring. So reassuring in fact, that she overlooked the part about Tier 15 bodies until two weeks later, while she was in the shower.
+
+It came back to her as she was washing the shampoo out of her hair. A realization struck her so hard, she nearly slipped and cracked her head open. She wanted to heal old age, and a Tier 15 body was unaging. Yet Matt was able to get that immortal body at a much lower Tier. If it could be done to him, could it be replicated in anyone else? A burst of excitement led to her jumping out of the shower and calling for Baxter. She managed to slip on some damp, sudsy pajamas before he appeared.
+
+Her mentor smirked at her state, but he did explain more about what had been done to Matt. “Not quite. Eating the tree’s root brings someone’s body to the razor’s edge of Tier 15. But technically, it's still at Tier 14. Besides, it’s not a cultivator’s Tier 15 body that makes them immortal, but the essence in their cores. The body just becomes hyper-efficient, and stronger in every way. Nonetheless, it’s not a bad starting point if you still want to try healing old age.”
+
+The problem was, Melinda felt really uncomfortable asking Matt for even more help. It just felt wrong after just vowing to be more self-reliant. She did appreciate Baxter letting her know, though. He obviously thought it was a waste of time, but he did try to assist her. That was worth being grateful for. But how do you ask a friend, who had already given you so much, to let you try extracting and producing a personal aspect of themself.
+
+After a big group dinner one night, she finally worked up the nerve while their teams were headed to catch a movie after. Matt seemed to think it was no big deal, but he hadn’t thought that all the skill shards he’d given them were a big deal either, so his opinion was suspect. Regardless, she was thankful. Inspecting Matt didn't suddenly result in amazing, new progress, or instantly reveal exactly how to replicate what the natural treasure was doing, but she got a general idea of what was happening.
+
+When she asked her husband for a baseline example of a Tier 6 body for comparison, he teased her about comparing his to Matt’s. Bad jokes aside, she did learn a few things.
+
+In a lot of ways, the natural treasure was still inside Matt. What it was doing there was interesting to say the least. There was essence cycling throughout his body. That in and of itself wasn’t very special. Whenever someone was injured, the essence they allocated to regeneration was cycled through the body, slowly healing any damage. Even when someone was perfectly healthy, a small amount of essence still cycled, repairing the everyday wear and tear. In Matt’s case, the amount of essence cycling through him was abnormal. Honestly, she was surprised that he was still standing. That amount of cycling essence usually indicated some sort of body-wide infection, but according to her Concept, he has never been healthier. She just couldn’t figure out why.
+
+The next evening, she met with Baxter for her Concept training. Before he could even say hello, she had a million and two questions for him. The man who had untold lifetimes of experience as a healer; it was time to cash in on that.
+
+“What would happen if Matt lost a limb? Would that limb not have the effect? Would having a Tier 6 arm on a Tier 15 body cause problems? Would the effect just expand into the new arm over time? What about the severed arm? If Matt loses a limb fighting, I’ll have to ask him to let me look at it. Also, why wasn’t I able to notice any of the tree’s effects on Liz or Aster? The effects on Matt were pretty obvious. Can someone recreate the effect of a natural treasure like that? I feel like it should be possible. People should be working on that. Why aren’t people working on that? Who do I need to talk to about working on that?”
+
+Finally, Baxter just forcibly shushed her with a flex of his Concept. He pointed at a boar that had been attracted by Melinda’s tirade, and was now charging at them. “Melt that first, and I'll answer some of your questions.”
+
+Seeing him ignoring her, she uncaged her Concept in the direction of the boar. A grotesque minute later, they studied the clawing destruction and blight that it left behind. This practice was draining, but she had to admit that it was a good way to improve her willpower capacity. The passive effect wasn't a burden anymore, even in a large crowd. Turning it off was still beyond her, but she didn't get the headaches from perpetually overdrawing it anymore.
+
+“Your friend would be fine if he lost a limb. In fact, it would have helped him.” Seeing her incredulous look, he rolled his eyes. “There’s been a lot of testing with a lot of different items—even the Tree of Perfection. Remind me later, I’ll find the old studies and send them to you. Read through them; maybe you'll learn something. But I doubt it. ”
+
+Melinda still intended to read those studies, just in case there was something useful. But she had to admit that it wouldn’t be simple if even the Empire's best couldn't copy the effect. Her Talent did grow as she pushed it, so maybe it had the flexibility to copy the effects of the Tree of Perfection’s root.
+
+“You can't see what’s going on with the other two because you’re too weak. I’m not being derisive, that's just the way that cookie crumbles. Normally, you shouldn't be able to see what’s going on with Matt. But your Talent is a giant cheat. The ability to see the physical effects of the Tree cannot be understated. Also, the root’s effect on the body is the most obvious of the three. Mind and spirit are trickier to detect. The Tree changes the spirit so it reflects the aspect of the Tree that they ate.” He chewed on his lip for a minute. “Well... You normally might have been able to see the effect of the leaf. But with Liz, she shouldn’t be getting a ton out of it, so it's more subtle.”
+
+“What’s that supposed to mean?”
+
+Baxter poked her nose. “Think about it. Aren't you the one who’s all about growing and being self-sufficient now? Figure this one out on your own little chick. Spread your wings and fly before I give you the boot.”
+
+She ignored the jab and pondered what he said. After a minute, the dots finally connected, and she felt a little silly for not getting it sooner.
+
+The Tree of Perfection was exactly that, perfection. Perfection was Tier 15. Children of Tier 15 parents would be the offshoots of perfection. Presumably, they would have less to fix than the children of imperfect, mundane mortals.
+
+“She had parents over Tier 15?” Baxter just shrugged, which she took as confirmation. “I would have thought that there’d be more advantages. Or are there?”
+
+Baxter barked a laugh at that. “It's not some cheat, unlike a certain someone’s Talent. It's a head start. If having immortal parents was the end all be all, no mortal-born cultivators would ever be able to keep up. You know that’s not the case. In the end, it's just a slight advantage until Tier 15, where it equals out.”
+
+“But why has no one created a pill or something to mimic the effects of a natural treasure?”
+
+“What's to say that they haven't?”
+
+That shocked Melinda dumb. She just stood there as she imagined the nobles keeping the secret powers that they showered on their children to themselves.
+
+Reading the expression plain on her face, he smirked at her. “Once again, it's not what you’re thinking. What do you think bottled Concepts are? What do you think that half the potions out there are? Most potions were originally derived from natural treasures. Bottled Concepts in particular. We had a treasure, someone figured out how to recreate its effects, and then they mass produced it. Well, not ‘we’; it was done well before my time. It was before the current dynasty as well. To be honest, it's really old tech. Cultivators have been around for a very long time, and all the low hanging fruit have long been harvested. There hasn’t been a new discovery made in millennia.”
+
+“Oh.”
+
+Melinda flushed and glared at Baxter a bit. That made far more sense. It also explained why bottled Concepts only targeted one aspect; they were derived from natural treasures. She paused... why was it like that? It wasn’t hard to imagine a natural treasure that targeted multiple aspects. She thought about the bottled Concepts that her friends had to choose from. “Why aren’t there bottled Concepts that target multiple aspects?“
+
+“There are, but the bottled Concepts that are sold on the regular market only target one aspect of cultivation at a time because they’re way easier to make. The price doesn't feel like it, but it takes a Tier 25 or higher to make a Tier 5 bottled Concept. The Tier 10 version takes a Tier 35 or higher. Both obviously need an Intent. The Empire gives a tax credit to anyone who produces enough of them. As to why they do a single thing, that's easy to answer. It's a pain in the ass to make them with more. To add context, at the last auction they sold a bottled concept with three aspects. Do you know how much it sold for? Or how much it would have on the open market?”
+
+Melinda had no idea and said as much.
+
+Baxter chucked. “It was the most expensive item in the entire auction. It would have taken a Tier 45 with an Aspect and masterful control to make one of them. If three or four a year appear on the market, it would be a miracle. On the open market, the King of this little shithole wouldn’t have been able to afford it if he shook down everyone in this vassal state.”
+
+“Still, that feels like a cop-out. It can’t be that hard.”
+
+“Ha! When you’re Tier 25, I'll remind you about this, and you can see for yourself. I look forward to watching you fail a few thousand times.” Baxter grinned off into the distance.
+
+“Still, no one has recreated a natural treasure in how many millions of years?” Melinda wasn’t sure if she should be proud of the milestones that she would hopefully, absolutely accomplish one day, or if she was just embarrassed for all the slackers that came before her.
+
+She liked the idea of inventing something new. Something that would change things for the better. There was something thrilling about the thought of it.
+
+***
+
+A week later, the Queendom launched a massive campaign against the Kingdom without warning, causing a rush of attention. They were moving in on a Kingdom city. Early speculation implied that the city would fall easily and quickly. The city was under-defended, and The Princess had clearly found a chink in the Kingdom’s armor. After an easy conquest, she’d have a staging point to march on a key location further into Kingdom territory.
+
+That’s not what ended up happening. Instead, there was a mass mobilization of millions of Queendom troops to the ‘quick’ city siege that was supposed to have ended days ago. Even the Pathers were mobilized in force. They arrived to find thousands upon thousands of tents surrounding a battered city of stone. She and her team joined the western gate, where all of the Pathers were being funneled.
+
+It was a madhouse.
+
+The ground was churned into mud except where earth mages had created paths. It still left everyone trekking through ankle-deep muck to get nearly anywhere except the chow hall. The sanitary situation was equally bad, with latrines being dug out and then too quickly filled by the multitudes crammed into the encirclement around the city. Showers were nonexistent, and the rare Pathers with [Cleanse] were charging a premium to use the skill. Her and her team made due with the refilling canteens and using damp cloths to approximate a facsimile of cleanliness.
+
+Melinda loathed every minute.
+
+Things couldn’t be worse. Or so she thought, until seeing the situation inside the city itself. The once majestic walls were being pounded into rubble when they first arrived. But things suddenly escalated after the Kingdom trapped and eliminated a number of their elite Tier 7 fighters using a trick with the city’s shield.
+
+Everyone in the vassal state’s military was out for blood after that. Over the course of a few hours, the artillery tactics went from a gentle bombardment to maintain valuable infrastructure to a brutal salt-the-earth campaign. The nearby forest was logged flat to construct even more trebuchets and new housing for yet another wave of new troops. The Pathers were in a weird situation, as the normal army was either unwilling or unable to order them to attack. From what Melinda gathered, it had something to do with the new war rules that prevented Pathers from being sent on suicide missions. Whatever the reason, they mostly sat around until the Queendom’s losses built up, and they started offering lucrative rewards to join the assault.
+
+Having done nothing for the last few days, most Pathers eagerly volunteered, filling out a full seven regiments for the attack. Part of her wanted to suggest that her team sit this one out, but if they wanted to get stronger, they needed to make the best of the opportunities that the war provided.
+
+They needed this experience, no matter how much she dreaded it. So when the time came, they went to their assigned positions and joined the siege.
+
+It was everything she’d feared and more.
+
+Standing in the formation with her team around her, she could only think how haphazard and uncoordinated they all looked compared to the standardization of the Queendom regulars. Those battalions were full formations of shield-bearers or archers, with the random mage or two to round them out. The menagerie of two hundred Pathers they’d been assigned to was more akin to a very well armed mob. The man next to her seemed less confident by the minute, with eyes nervously drifting down to the whip in his hand. She didn't blame him, you couldn't block much with a whip.
+
+The orders came down to advance, and she was bumped from behind before she started moving on her own. A tightness in her stomach grew as they approached the city walls.
+
+They hadn’t looked very imposing when viewed from the safety of camp, behind the lines of battering siege engines. As their formation marched closer, the walls seemed to grow until they towered over them. The smell of blood permeated the air, and the churned, cratered earth below their feet began shifting to ominous hues of black and dark red.
+
+The source of the dark red was obvious from the smell alone. They walked on the blood of the fallen, and Melinda was glad that they didn’t have to walk over bodies. The origin of the black coloration was made clear when a mana cannon flared to life and shot fiery death towards them.
+
+The attack blazed into their formation and seven people instantly vanished. Where they were standing had become a blackened crater.
+
+Melinda reached out and grabbed Mathew and Kyle in front of her. Their shield and massive sword were raised, but a flat piece of metal wouldn’t do anything against such a strong blast. No one here could stand up to a hit like that.
+
+A ballista bolt flashed forwards and impaled the whip wielder. There was nothing he could have done to survive it, even with a different weapon. It was horrifying. The man was left gaping at the massive bolt lodged through his lower torso. The army likely didn’t whisk him away immediately because the wound wasn’t instantaneously fatal, and he was so lucky to be standing within 10 feet of a healer, her. Melinda could have helped, and should have helped, but she was too terrified of leaving the safety of her team. She met his desperate, pleading eyes as he finally looked up from the wound.
+
+Before she could finish second guessing herself, the man was gone. At least it was out of her hands now. Her relief only lasted a split-second, as more attacks rained down on them. Luck, more than anything else, was keeping her friends alive.
+
+It sure wasn't anything that she did. All she could do was hide in their shadows and question the decisions that brought her here.
+
+The situation only worsened as arrows started to rain down upon them, with a smattering of other skills mixed in. Screams and cries for a healer were drowned out by the beating of her heart echoing inside her head.
+
+Yet one unwelcome sound rang louder than everything else.
+
+“Charge!!!”
+
+Melinda took off in a gallop with everyone else. Getting through the latest rain of death was a harrowing experience. Yet it was only an appetizer for having to fight their way into the breach in the wall. Death hailed down from above as they struggled their way to the front. There, they found a crudely made stone wall with Kingdom defenders viciously hacking and slashing at anything that dared approach them.
+
+Mathew and Kyle attempted to attack the people reaching over the berm with their respective weapons. Kyle’s oversized sword was actually effective, and they were able clear the area long enough for Vinnie to bore a new breach in the wall. A new breach forming seemed to signal a rush from both sides, attackers and defenders alike. The Queendom was forced back within moments. With Tara and Sam assisting from the rear, Melinda kept her team healed from the numerous small wounds, despite them being on the back foot. Once evicted from the breach, they were pressed left by the crush of bodies in the mad melee.
+
+Tara was the first to realize that the Kingdom had blitzed them because they’d been doing something right. A quick AI message put everyone on the same page. They kept creating holes in the fortification, only to be rebuffed by a tide of Kingdom soldiers. But every time they were driven back, they still left another breach behind for the Kingdom's exhausted earth mages to deal with.
+
+Their team was hardly alone in that feat. Holes were opened then closed in quick succession, as the defenders learned that they weren't the normal fighters they had been fighting up until that point. What the Pathers lacked in uniformity, they made up for in individual power.
+
+A chubby Tier 6 man next to them single-handedly broke through the Kingdom’s barrier while wielding a short spear with an oversized blade. He hacked his way through bodies with the weapon. Melinda’s team didn't need orders to help him. His literal size and presence created an unusually large breach, and they needed to jump on the opportunity.
+
+They weren't the only ones with the idea. A massive tortoise with a purple-haired woman at his side slid right in with them. Lightning flashed from the tortoise's shell and zapped three forward-rushing defenders with an ear-splitting crack.
+
+A ballista bolt stuck out of the tortoise’s shell, so Melinda steeled herself and raced over shouting, “Healer! Hold the lighting!”
+
+The last thing she needed was sustaining a preventable friendly-fire injury to waste her mana healing.
+
+The woman turned and met Melinda with maroon eyes as she leaned over to better grab hold of the bolt, not needing the plan to be spelled out. As the woman yanked out the projectile, Melinda sent a [Ranged Heal] into the shell, letting it eat up the larger mana cost. She knew nothing about tortoise biology, and couldn't waste the time figuring it out with a [Directed Heal]. That was the main strength of indirected healing. You didn't need in-depth knowledge to cast the spell; it was completely automated. Which was also why they had hard boundaries that they couldn’t push. At least, that was the common perception. With her Talent, Melinda was able to cast and forget the spell, watching as flesh and shell knitted themselves back in moments.
+
+Leaving the laughing turtle that sounded more like rocks grinding as he thanked her, she returned to her team.
+
+The chubby man was littered with wounds as more and more defenders gathered to overwhelm him. Through her Concept, she could see the shadow of death closing in around him just a tiny bit more. She cast a second healing spell and grinned as the defenders cried out when they saw their work being undone.
+
+Her celebration was premature, as an arrow sprouted from her neck. Melinda calmed down, she was used to healing injuries, and when it was herself, it was no different.
+
+Before she started to heal herself, she messaged her team that they needed to cover her, and she started to pull back with them. It wasn't worth dying for a closing breach in the fortifications.
+
+With a quick jerk, Melinda broke the fletching off and pulled the arrow through, immediately casting [Directed Heal]. She quickly stitched up the small hole going through her flesh. They were about to push forward again when a retreat order came through their AI. When she looked behind them, there was a distinct lack of people in the reserve. Where the multiple two hundred man formations went was a question she didn't dwell on. She was just once again grateful that they didn't have to see the corpses of the fallen.
+
+The turtle, woman, and chubby man were running next to them. Running back through the attacks from the archers and siege engine was far more nerve wracking on the way out. It didn't help that the muddy ground was again churned up by their boots on the initial charge, and once more by the many boots that had walked the path since.
+
+Still not believing their luck, Melinda had to pat herself down and check for wounds. She couldn’t fathom that they had made it out with mostly scratches. They had been sitting down for only a moment when screams started to ring out.
+
+As she tried to stand, Melinda nearly collapsed as her legs refused to hold her weight. But a steadying hand from the woman whose name she still didn't know gave her enough support to pull herself up. They looked to their rear, and in between their position at the west gate and the south gate, thousands of Kingdom fighters and Pathers were rushing into the camp, killing or destroying what they could.
+
+They could already see that the attackers were turning and running before the Queendom had time to mass a proper defense.
+
+Melinda plopped back down, nonplussed by the mud that seeped through her clothes. She was just too tired to care.
+
+She had nearly nodded off when the turtle, in a voice like grinding granite, said, “Xander thanks you for the heal back there. That bolt was mighty uncomfortable.”
+
+The woman leaning on Xander’s shell wiggled her fingers in the air. “Lena.”
+
+“Teddy.” the short spear wielder nodded from where he had fallen a step away from them.
+
+Sam looked slightly green, so Melinda scooted over until she was able to wrap an arm around the woman. Kyle and Mathew were both on their backs, puffing heaving breaths up in the air.
+
+Everyone was exhausted. And they fell into a stupor quickly.
+
+***
+
+The next days were a blur to Melinda. They repeatedly charged into the breach, and she was repeatedly surprised when they made it back out. She wished it was from them growing stronger, but she knew that it was mostly luck. Even then, Sam and Kyle were forced to stay outside, as they were both on the edge of the healing cooldown. Any more damage would count as a death. Mathew was close to the line as well, but he wasn’t in quite as much danger. They decided that it was better to have the two of them stay out of the further fighting, instead of risking their points.
+
+When a mana cannon aimed at someone, they died. That was all there was to it. But if they so much as took an arrow, they would be out.
+
+During their fourth big attack, they actually managed to create a permanent beachhead past the walls, and Queendom soldiers streamed through in an unending tide. Everyone there celebrated taking the city, but Melinda couldn't help but stare out into the landscape of rubble.
+
+She was sure that there wasn’t a single stone remaining in its original position from before the siege. It was like standing in a worse version of the city she grew up in. The rest of her team were just happy that they were alive, and joined in the cheering as they watched scores of Queendom regulars stream by. However, it was a sobering realization that they were capable of doing such damage on their own.
+
+Once the Kingdom defenders were pushed back into a corner of the city, Melinda had some downtime to walk around and heal a few people. The Queendom wasn't able to force her away from her team healing role, but she was being provided the mana, and hated to see people in pain.
+
+While recharging her mana, she joined a fascinating conversation with a worn-out healer about someone she was pretty sure she knew.
+
+“I'm just glad to be off the east gate. It was a fucking slaughter over there, a wet, icy hellhole. No matter how much we pushed, we were always a step behind the other sections of the wall.” The young man was so tired, his hand was shaking like a leaf in a hurricane as he brought up a canteen to his lips.
+
+A second healer, an absurdly pretty woman with silver eyes, said, “That's bullshit. We all had a tough time. Your side was just lazy.”
+
+“Fuck you, Jen. We worked twice as hard, took more casualties, and got maybe half the fucking results, and that’s probably being generous. It's all their general’s fault. We started called him “Ateleos”. You couldn't batter him down. You couldn’t get past him. The crazy bastard stood in the way of everything we attacked him with. Everything. Nothing ever phased him.”
+
+“Starting rumors to excuse your incompetence? If your section sucked, just own it. No need to make shit up. And I doubt that he's anywhere near Ateleos levels of power. Ateleos fought for decades, not a week.”
+
+Melinda interjected, “This general… “Ateleos”? Was he covered in ghostly blue armor? Wields a longsword? Tall and imposing?”
+
+The healer man sat up, “Yeah! You saw him too, didn’t you?” He glanced down at her armor and answered his own question. “No wait, you couldn't have been posted there. You’re on The Path, and they kept your teams apart from us. But yeah, he stands there, just like Ateleos was said to. Someone jokingly called him that on the first day, and since he never went down, the name spread.”
+
+Melinda hoped Matt hadn't exposed too much of his secret, so she tried to tread carefully. “We were at the same PlayPen.”
+
+Now even Jen looked interested, but the man asked first, “How is he such a monster? Do you know? He's fucking unkillable. I have quite a few friends who died facing him, even more that died running from him. Which, by the way, was the smart thing to do. They said nothing that anyone did could hurt him. Even Earl Benedict’s sons, the Twin Swords, couldn’t break through his armor, and their entire gimmick is destroying armor.”
+
+It sounded like they didn’t know much, but the man hadn't mentioned the other defenders lasting so much longer than expected. She knew that Matt had revealed his Concept to his team, but she was hoping that was all he had revealed.
+
+“He’s always been strong. Whooped my entire team of five even as a solo fighter with a cultivation handicap. I’m not exaggerating, it wasn’t even close, and he wasn’t even trying. And we’re not pushovers either.”
+
+“I'd believe it. He never stopped or took a break. We kept waiting for him to. Every attack, he was there to meet us, and he just never went down. A wall for us to break on. There’s no holding him down. So we thought we’d just overwhelm him. Durability doesn’t matter if you can’t move, right? Well it turns out, he can punch through anything short of Tier 8 armor. And when I say punch, I mean with just his hands, not that longsword he wields. ”
+
+Jen rolled those pretty eyes. “It can’t be that bad. There is only so much any single person could do.”
+
+Melinda‘s lips quirked at that. If Matt was only relying on his Concept, then he was actually sandbagging, and was probably doing more than she could imagine. She doubted that the Queendom would have ever broken the city’s shields if Matt had been using his Talent to power them.
+
+“Shut up! You don't know half of it. It wasn't just him. There was ‘The Blood Beast’, that reformed from the blood of our fighters every time someone destroyed it. If you bled, you were just feeding the Beast. How can you fight without bleeding Jen? ‘The Winter Rose’, who created an ice garden from the corpses of our fallen. “The Tribulation”, who struck us down with lighting as if cast from Leon himself. And “The Swarm”, who controlled insects and sent them upon us like a plague, eating us from the inside out. You weren’t there, so shut up.”
+
+“OK, jeez. Calm down, I get it. You had it rough. They were probably just Pathers. They aren’t harbingers of the apocalypse.” Jen put her hands up trying to appease the hysterical healer.
+
+Based on what she’d heard so far, it wasn’t just Matt getting attention. It didn't seem like Matt’s secret was out, so she let the conversation continue, but it was interesting to hear the misconceptions about his team and the other Pathers around him. She doubted that her team would ever get cool titles from the Kingdom fighters.
+
+Later that morning, a long series of explosions rocked their gatehouse, and they heard a report about a man with ghostly armor riding a mana cannon amongst the retreating group of defenders.
+
+Melinda met the eyes of her team, and they shook their heads. They weren't dumb enough to try and attack the man using a mana cannon with unlimited ammo.
+
+They were happy to sit this one out and join the ongoing fight they could hear outside their gate.

@@ -1,0 +1,291 @@
+---
+id: ee48bbea-4258-5369-bf14-b0f06b48c479
+page-type-slug: story-chapter-royal-road
+title: "The Path of Ascension Chapter 394"
+slug: 0092-the-path-of-ascension-chapter-394
+partOf: the-path-of-ascension
+position: 92
+ownLength: 5780
+unit: words
+ownProgress: 5780
+publishedAt: 2025-03-10
+link: "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/2118068/the-path-of-ascension-chapter-394"
+royalRoadId: "2118068"
+markedReadAt: "2026-06-29T19:20:54.165Z"
+---
+
+Chapter 394
+
+They had been gone for a little more than a year and work had piled up, all of which needed to be cleared out before they could dive back into delving. The moment they arrived home, they all split up, having decided to dedicate a month to catching up before going back to advancing.
+
+The first thing he and Liz did was visit their capital island, which was still floating in the ocean.
+
+Isabella and Cato both immediately went to check in on their respective people, while Matt and Liz went and talked with the nobles who had been waiting for them. Thankfully, none of the meetings were urgent, and it was mostly a few of their nobles trying to petition them to move against their rivals or the like.
+
+Only one, an initiative by one of their Viscounts, caught their eye.
+
+Viscount Mathias Harte had been encouraging a yearly competition of crafters in a few of his larger cities, and had seen great results as the various people pushed their skills to new heights. In turn, his actions had made their crafted goods more valuable, giving his otherwise unremarkable world an export. These were all fantastic things, but he, or rather his crafters, were running into the end of the publicly available crafting and enchanting methods.
+
+He was asking for Matt and Liz to assist in the negotiations for the licenses that he was looking at purchasing. Interestingly, it wasn’t a question of money, or at least not directly. The companies he was looking at didn’t like their methods being so open or easy to spread without certain guaranties. They wanted their standard contracts to apply to anyone who selected one of their products as a reward, which would have, at most, allowed masters to teach their journeymen and apprentices, and would incur burdensome costs for all parties involved.
+
+Viscount Harte was willing to pay a higher upfront premium to remove that clause, but the companies in question wanted what could only be considered an extortionate amount of money. Their stance was clear: they didn’t want to accept, but were unwilling to directly refuse, whether for his own status or fear of Matt and Liz’s backing.
+
+Both Matt and Liz liked the program and the results Viscount Harte was seeing, and so agreed to assist in the next round of negotiations, but also offered their own alternative licenses for him to consider.
+
+What he was trying to do wasn’t unheard of, but was rare thanks to the expenses involved, and most nobles instead entered into partnership agreements with the licensing companies. That route was cheaper, but it also came with the downside of effectively locking the entire planet into a single company's crafting methodology. That could limit their upward potential due to incompatibilities and other companies’ unwillingness to sell to known practitioners of another method, which was something none of them wanted.
+
+One of their primary ducal initiatives was to prevent limiting their people like that, so they were willing to go to bat for him.
+
+If the program was successful in the long term, they might even consider expanding it, but that was unlikely.
+
+Most similar programs ended up self-destructing, as the competition, instead of being a method to push oneself forward, became a limit to the potential of the crafters as they sought to become better competitors instead of better crafters. The entire purpose was to make his world's practical crafters better, not to make people good at taking tests.
+
+Still, Viscount Harte had put in a few good safeguards they were hopeful would show results. And if worse came to worst, and they didn’t work, then the Viscount could just end the experiment when the cracks started to show and little would be lost.
+
+Once that was handled, Matt and Liz both took off and flew to the guild's moon, where Rah was, as well as Luna and Ciceron.
+
+When they landed in the compound set aside for Rah, they heard a whispered snort. “A pitiful display. Shameful even. I know I taught you two better. And Aster is avoiding me? How unsurprising.”
+
+Matt grinned and looked at the familiar face of their former manager. “It's nice to see you too, Luna. How have you been?”
+
+At the same time, Liz blew her a raspberry. “You know you missed us.”
+
+Her facade cracked with a smile. “I’ve been worse. Rumor has it you secured us a new world with a unique ruin.”
+
+Liz shot right back the moment she saw an opening. “Is that what you are calling Ciceron now? That doesn't seem nice.”
+
+Matt couldn’t help but chuckle at the narrowed, slitted purple eyes. “Someone is feeling feisty. Do we need to see how far you have slipped since leaving my claws, Elizabeth?”
+
+Liz grinned. “I'd love to prove you wrong, but sadly, we are due for more advancement in just a month, so we hardly have time to play.”
+
+“Indeed.”
+
+Matt threw his own brag into the pot. “Tier 29 rifts. Peak mostly, if that wasn’t obvious.”
+
+Luna’s predatory grin turned into a real smile, and she nodded. “Acceptable, but I’m sure you can do better. Tier 30 at bottom Tier 27 would be quite the feather in your hats. At the peak of Tier 26 would be even better. Show improvement rather than just treading water even if at the Ascender level.”
+
+Phoenix Liz patted herself as if looking for a hat, which caught Luna’s attention. “You won’t be wearing the hat, little bird. We'll need to source the feathers from somewhere.”
+
+Phoenix Liz flew into Matt’s arms where, once she felt safe, she started chirping at the older cat, much to his amusement.
+
+“Speaking of feathers in our caps, how is Rah progressing?”
+
+Luna gestured to the side, where they took their seats and Matt called for drinks to be brought. “Quite the fascinating project, that one. Not quite a blank slate, but having learned under a completely different methodology his actions, reactions, and skills are wholly unique. Interesting thing about the skills as well. I’m curious to see what becomes of the methodology once you release the information. Personally made skills being incorporated into people's journeys will most certainly have side effects on the skill modification side. I postulate we might see more Sect-like specific modifications pop up as it takes correspondingly less effort to learn such methods.”
+
+“Have you tried your hand at it yet?”
+
+Luna denied his question with a shake of the head. “Not yet. I will, but I’m in the process of moving two skills out of my core spirit to make room, and that will take a while longer. I don’t actually need any of the proposed skills, but I do need to learn how to do it if I am to teach others.”
+
+Liz agreed with their mentor. “Same issue for us, really. We can't justify moving things out of our core or innate spirit slots while delving. Still, it's quite fascinating when you think about it. Instead of not having skills and so developing more technology to compensate, Rah's realm instead started developing their own skills, bypassing the issue.”
+
+Luna tapped the table to emphasize her point. “It's quite interesting, but doesn’t exactly follow what we know of the higher realms. Or rather, thought we knew. Did you know that we actually don’t know if the higher realms follow the standard skill distribution? Ciceron had to go looking, but none of the data dumps we have records of actually states a skill’s Tier. Oh, they talk about skills; we know for a fact at least two of the three Tier 100 realms our people commonly end up in use [Fireball] as a common beginner skill. But none of the data dumps rely on a Corporation-like organizational system, so we only have their commonplace names to go by. We had just assumed things were the same, but Ra’thala’s presence brings many things into question.”
+
+Matt was stumped by that, as he had never considered that a possibility. But there was no reason to assume the realms operated under exactly the same rules, even if they were generally similar.
+
+That devolved into a conversation about the realm itself that went on until Ciceron and Rah came out of the estate’s library, where they had been working on trying to make a cultivation method that used rift monster essence. Matt didn’t even have to ask to know that it had been a failure.
+
+Ciceron wore his emotions on his face and wasn’t jumping around.
+
+That turned into a small melee egged on by Luna, who proceeded to ruthlessly criticize all parties involved.
+
+When they had a minute, Matt patted Rah on the back. “It's not so bad. She's good at what she does. I can see serious improvement in your style already. Just the two Natural Treasures you already absorbed are making a noticeable impact, and you are using their effects well.”
+
+Rah sighed but nodded, wiping the sweat and blood out of his eyes as his scalp knit itself back together. “She is a good teacher. I would have to be blind to not see that, but she is…” he looked over to Luna who was staring them down before finishing, “Abrasive.”
+
+Matt just laughed. “Ahh, Luna is a big softie, don't let her exterior fool you. Also don’t bother to whisper. She can hear your cells dividing, let alone your whispers. She doesn’t take offense to speaking ill of her, and no matter how she plays it, as long as you genuinely give it your best she’s willing to explain something a million times.”
+
+Liz made a note of disagreement, causing them both to look away from the glowering Luna to her. “Don’t forget about that time she tried to teach Aster math. She threw the calculator at her.”
+
+Matt laughed. “I had forgotten about that. True. Still, poor Aster was only at like three or four word sentences at that point. Feels more on Luna for rushing the process.”
+
+Luna finally caved and walked over tutting. “She was at seven or eight word sentences at that point. Besides, I was trying to prepare her for success, but she didn’t want to get ahead of her education, and instead was content with just meeting the standards. Shameful really. Maybe I should bring her some textbooks and see if she's been slipping on her more esoteric disciplines.”
+
+Knowing Aster would hate it, Matt nodded. “You definitely should do exactly that. Just record it, please.”
+
+That earned a smirk from Luna but she waved them up. “Ok, let's start round two. Ra’thala you keep favoring your right side. I know you are mainly used to fighting swordsmen, but you’re going to get your head cut off if you can’t adapt. Liz, I want you using a longer spear. Punish his weak side. Matt, I want you to use a large warhammer. Something of that size should mess with his perceived timing. Once you get used to fighting against these types and learn their basic fighting styles, we’ll have you start learning each of those same weapons yourself. That will widen your horizons and ensure you are better prepared when encountering such opponents.”
+
+Clapping, she got them up and moving.
+
+It was quite fun.
+
+Though, he and Liz did play up some mistakes to give her someone else to yell at every once and a while, as poor Rah was getting a truly undiluted Luna experience. Luna was very good at what she did, but they could also see that the constant critiques were getting to Rah.
+
+Not that Luna couldn’t, but like boiling a frog, she seemed to be trying to see just how far she could push the ascender before he snapped.
+
+Matt half wanted to see just how far that was, but Ciceron eventually ran into a problem on his models and interrupted the sparring to have Rah test one theory or another.
+
+“What about cycling the essence through one of these corkscrew cycles? Didn’t you say it bolstered the effect of the essence in the Tier 15 layer? Why can’t a variation work here?”
+
+Ciceron shook his head before nodding. “We tried that, but while it works, it clashes with his Tier 25 cultivation. There isn’t an easy way to cycle up the essence between layers with that structure, which is critical to bolstering the technique’s power.”
+
+Matt shrugged and Liz threw up her hands. “Rah I say this in the nicest way possible, but this shit is insane. I have no idea how your people developed these methods.”
+
+Instead of looking offended, Rah smiled. “Time and lots of failures.”
+
+Liz snorted. “And people smarter than us and I say that deliberately. Ciceron is a hoarder of knowledge and therefore one of the smartest people in the realm, and Luna is one of the best trainers in the realm. She's just sitting there quietly! She never does that!”
+
+Luna snorted right back at Liz. “If one has nothing constructive to add, it's worth keeping quiet.”
+
+Ciceron killed whatever weight her argument had when he said, “If we truly followed that we’d be sitting here in silence. Speculation is all we have and fresh sets of eyes can’t be worse than us at this point. We are going to need decades to sketch out a working model at this pace.”
+
+His eyes seemed to shine even as he said that though.
+
+“It's such an interesting problem. Rah can you tell me the story about Yh’ull the creator again? I feel like there might be an answer in his story. Something with his methodology.”
+
+Matt and Liz really wanted to help, but they would need decades of research before they understood enough of Rah's realm’s method to comment on making an entirely new Tier of cultivation for him. Let alone one that used rift monster essence rather than ambient essence, which was the ultimate goal.
+
+And they just didn’t have that much time on their hands.
+
+Once they finished chatting with Luna, Ciceron, and Rah, they separated. Liz went to go relax, since the Palustris Planetary Relaxation Resort For Fire Bloodlines had opened a new lava spa, and Erin and Leah had invited her to a private suite they were renting out. But Matt stayed at the guild, even if he would have liked to join them. There were too many things he wanted to get done in the remaining two and a half weeks before they got back to delving.
+
+First was checking in on the aperology department, and personally sharing the news.
+
+Everyone who wasn’t in a project they physically couldn’t leave arrived to go over the scans and readings of the planetary ruin, and they spent an exhilarating two days debating the possible formations of the ruin and how they might best recreate said conditions.
+
+It came to a head just before Matt finally caved, and he agreed to buy a planet that they might try their more dangerous experiments on.
+
+He was also able to deliver the good news that the ruin world would be stopping by Palustris for five or so years, while the chaotic space currents shifted. They would only have that long before it would take its final travel to deeper in the Empire, where it would fill in a gap for one of Tur’stal’s duchies.
+
+Matt didn’t quite understand the logic with it going there, and not to either Zack or Allie, whose duchies were still forming, but he also didn’t care since they didn’t care. He had already worked out a deal with the duchess who was getting the world to allow a research and monitoring team to reside on the world for the first century or three, in return for a minor favor.
+
+The guild’s aperologists doubted they would learn anything immediately useful, but it did bring up questions about the nature of ruins; mainly how and why they inverted. Rifts were seemingly perfect in most aspects; their energy to energy conversion, as well as their matter to energy conversion, were as close to perfect as was measurable, and could seemingly operate forever with apparently unlimited instances all inside the same small slice of reality.
+
+But then, there were cracked skill shards which were, as far as anyone could tell, effectively a flawed creation of otherwise ordinary skills. Why did, every once in a rare while, a rift break seemingly fail and invert into a ruin? Why did rifts, when naturally forming, form at a Tier according to the minus five rule of the planet's Tier, but when they created rifts manually, they started at Tier 1?
+
+If rifts were ‘perfect’, then why the flaws?
+
+That brought up an even more interesting question. What did it mean if they weren’t flaws?
+
+Most of the guild’s aperologists had another interpretation: they weren’t flaws, but actually part of the mechanics behind rifts.
+
+Matt wasn’t quite sure he agreed, but he couldn’t refute some of their arguments, such as ruins being the realm's way of repopulating a planet that had essence but no life. They also postulated that cracked skills weren’t actually normal skills that had a flaw in their creation, but rather existing variations that weren’t unique enough to constitute becoming their own distinct skills.
+
+That second argument had less supporters, but it was still enough of a discussion to spark half a dozen new research proposals.
+
+Proposals that the guild just couldn’t afford until Matt Tiered up, and once more doubled his mana production.
+
+Matt did take the time he had off to enter the mana concentrator again, which was just as unpleasant as always, but there was zero reason to refuse free mana concentration. Sure, his Intent slowly condensed his mana, but unless he wanted to wait tens of thousands of years between Tier ups, the cruncher was just more effective.
+
+Though, interestingly enough, he was building resistance to the machine.
+
+He had built up considerable resistance when he used it dozens of times at Tier 25 during the war, but upon Tiering up that resistance had vanished. Now that he was using the device every time his spirit was recovered enough to manage, that resistance was building again.
+
+It would take a few more Tier ups to see if the resistance was completely reset or lingered between Tier ups, but it was something they were worried enough about to bring it up to him.
+
+The researchers were also starting to worry that, since his mana pool doubled each Tier up, the machine might not be able to concentrate his mana completely without accidentally crippling him. That was less of a problem, as it just meant slowing down the process or doing smaller concentrations, but Matt wasn’t exactly looking forward to the added torture.
+
+Most of them seemed to forget the device was quite literally a torture device, but he sure didn’t.
+
+Not that something as small as mere agonizing spiritual pain would stop him from entering the device.
+
+No, the power was well worth all of the side effects and costs, and he was confident that, with the Emperor's backing, they could overcome any issues that were present. It was just a good reminder that his power wasn’t free.
+
+To that end, he also took his time of recovery to make the announcement about the blank skill shards and the method of how to create skills inside them safely. Rah’s initial method had been slightly improved on – mostly just rewritten and reframed to better fit existing empire methods and terminology– with five years of dedicated and systematic iteration helped along by the man himself, who still insisted on being kept out of the announcement.
+
+The news wasn’t as impressive as the aura potions, and didn’t create massive waves, but it did cause waves. Mostly in academic and research circles who had a desire to create skills, but that was still a sizable demand.
+
+They then went looking to buy blank skill shards, only to find that few places had more than a handful left.
+
+It was then that Allie, Aiden, and Lila dumped their gains back on the market through a dozen intermediaries.
+
+People definitely suspected Matt had been the one behind the market manipulation, but surprisingly enough, most news stations just shrugged it off as the discoverer's first mover advantage. Part of that was definitely because the trio had only charged twenty percent over the typical price, but Matt suspected that they thought he had bought a lot to create the method of how to make rifts that could make blank skill shards and sold what he had left after he figured it out.
+
+Matt had actually discovered that way back as a Tier 6, but he didn’t correct them, and instead just raked in the positive publicity for releasing the rift creation formula for blank skill shards as well as the money the other Ascenders sent him.
+
+He also learned from Sien that there had been a Mourning Dew’s First Blossom Sect that had apparently known the trick, and had sworn a blood feud with his guild due to the revelation. If they survived the Sect infighting that the news had kicked up, he might be mildly worried, but they were being attacked by several of their contemporaries who had been fleeced by the guild using the safe skill creation method in the past.
+
+He and his inner circle had debated whether or not they should tease the reveal of the skill creation method, but they had decided that worrying about their hidden enemies wasn’t worth changing their methodology. Or at least, not for something like this.
+
+In fact, they were kind of hoping their enemies took the news as a reason to attack again, as that would let them have another data point they could start chasing down.
+
+At the same time, Matt went and got an update on the skill creation teams.
+
+Last time Matt had checked in with them, they had settled on five distinct skills they thought would cover most situations Tier 1 and 2 delvers might encounter.
+
+[Fury of the Blade] was a decent area of effect spell that would help melee fighters cover their single-target weakness, as each swing of their weapon would cause blades of air to shoot out semi randomly. They managed to tighten the skill structure a bit by using modification methods from this realm, which got it just inside the standard size. But more importantly, they managed to write a skill modification guide to be used after it was created that added a modest homing function to the projectiles.
+
+[Draw Heat of the Stars] was being renamed to [Lesser Fire Weapon] and did exactly what the new name implied. Amusingly enough, the researchers were only able to make minor modifications to make the skill easier to make, with just how simple the skill already was. In fact, it was so simple, they found the skill worked with anything being held in one's hand, or, if nothing was in the hand, the hands themselves.
+
+Anyone who wanted to use the skill would need to invest in fire resistant gloves, but the skill was cheap, effective, and just worked.
+
+Instead, they spent their time using this as a jumping off point into a more major modification, trying to outright swap the element used. They had some minor but real progress on using air instead, but water and stone were still elusive. Matt had gotten quite excited when he first heard of it, but upon reading the report, his enthusiasm was doused somewhat. All of the projections suggested that at the kind of lower power that these easy to make skills had, air, water, and earth spells didn’t do much more than as a fire spell; except with higher mana costs, thanks to needing to create and move real material instead of just making energy around the blade in question.
+
+They would publish the variations, but they doubted many would choose them over the fire version.
+
+Still, it was a good learning exercise that rounded out the guild’s knowledge with this new type of skill archetype.
+
+It might take a while, but Matt was actually confident in what the team had created. Any melee fighter who wanted to add an elemental skill to their arsenal early would be well served to spend the time to make [Lesser Fire Weapon] or one of its variations.
+
+However, [Star in My Hand], new prospective name [Hand Shield], was proving to be a bit of a problem child. The original skill, which Rah shared, conjured a small, plate-sized shield of mana on the caster’s hand and acted like a typical mana shield.
+
+The team in charge of that skill had wanted to take the obvious route and turn the skill into a more typical shield spell that could latch onto a physical shield. Except, nothing they tried worked. Or, more accurately, anything they got working was so complicated it was beyond even a practiced Tier 8 to make, rendering it ineffective.
+
+Then they tried to shape it into a more useful shape, like a gauntlet, plate body, or helmet. Matt was quite excited at the idea, hoping that maybe one day they could make a full body armour skill for low Tiers. After all, [Cracked Phantom Armour] was core to so much of his success at the early Tiers and beyond. Staying alive was the best way to learn from mistakes and low Tier mistakes were some of the hardest to recover from, since they lacked the breadth of abilities higher Tiers had.
+
+Unfortunately, on top of any attempt at a shape or location modification ended in abject failure. The skill structure either destabilized or collapsed entirely. The former ballooned the mana cost while also making the skill so weak the caster might as well wear regular gloves for all the protection it offered, while the latter resulted in spiritual damage to the researcher testing the modification as the skill fell apart.
+
+Even Rah couldn’t suggest any modifications, and stated it wasn’t a very popular skill in his home realm for those same reasons they were running into. The only reason he shared it at all was because it was the only magical beginner defensive skill he knew. Even the more advanced skills [Star in My Hand] was typically built into were broadly subpar in comparison to this realm’s skills at the same estimated Tier, when factoring in ease of creation, cost, and durability. The sheer time to first make [Star in My Hand] and then modify it to the more advanced versions alone made it extremely unappealing for long term investment.
+
+The team wasn’t giving up, but they had hit a roadblock and Matt was ultimately forced to make the call and put [Hand Shield] on the axe list for further development.
+
+While he believed in the team working on the skill, and had promised them full funding until the skills went live, he had also made the decision that if they didn’t make significant progress, they had better things to spend their time and his mana on.
+
+It was no better than a buckler shield, except a buckler shield doesn’t cost mana.
+
+Maybe one day, as the field became more mature, they’d manage to get something useful out of it, or just create an alternative from scratch, but that day was not today. Hopefully those few who chose to invest their time into the skill could make something of it.
+
+None of that made it any easier to make the call, but he still did it.
+
+In a similar spot was [Physical Empowerment], a simple all round boost to all physical attributes. In a bit of a twist off the typical for their realm, it seemed to work more off of physical strength rather than a pure cultivation boost, which had two side effects. The first was that physically fit people got fantastic results even at the lower Tiers. The second was more of a downside, in that it physically exhausted the caster similar to a hard workout.
+
+Not the worst side effect, but it was something they were only able to note and move on from.
+
+It was definitely good enough to be released, but being based on physical muscle rather than essence made the skill structure exotic enough that the team hadn’t really made any useful progress on modifying it before or after creation. Ultimately, that was the death blow for the skill’s long term viability, as it meant it fundamentally became less useful as muscle became less relevant compared to essence.
+
+To make matters worse, Rah himself had never learned anything that built on it, so he couldn't point them in the right direction as he hadn’t learned this variation until later in his cultivation journey, when he already had better, essence-based, boosts. He knew there were some skills that build off of it out there, giving Matt hope that someday, somebody, could make something from the skill. But until then, the skill was only really useful until someone reached Tier 8, or maybe Tier 10.
+
+The crown jewel of the lot was undoubtedly [Sun Flare]. It was basically a crippled [Fire Bolt] or half powered [Fireball], but Matt was sure it would become a mandatory skill in all beginning mages' arsenals who couldn’t just buy [Fireball]. At 6 mana a cast, it wasn’t much cheaper than a proper [Fireball], which wasn’t ideal, but also not a deal breaker. They had wanted to make the skill mergeable with [Fireball] or [Fire Bolt], but it used a completely different skill structure, making them incompatible.
+
+[Sun Flare]’s advantage was that adding power was as simple as adding loops into the skill structure. Testing had shown that while the power to mana cost scaling wasn’t great, it was good enough. Without any other more complicated modifications, [Sun Flare] could reach [Fireball] power at just 13 mana.
+
+With the mage in question having spent years, if not a full decade, with the skill by the time they got to Tier 7, where they could buy [Fireball] proper, they should have been able to lower [Sun Flare]’s mana consumption to 10 mana or below. And all of that only through the natural growth that skills went through when being used in a cultivator’s spirit, which made that ‘problem’ not really a problem. If they deliberately worked on lowering the cost it could go even lower making it a just out right better [Fireball] for those who put in the time.
+
+In fact the skill was so malleable that Matt authorized research into other elemental types, hoping for a better outcome than [Lesser Fire Weapon], but only time would tell how it turned out.
+
+Still, the progress was so good, Matt was willing to tease the information, and he put a tentative release date of five or so years, or when they came out of their next delve session.
+
+That should put them at Tier 27, and with the additional power, he would have more mana to throw around, which could be explained away as rewards for this new method by Manny.
+
+But that meant actually delving again. Thankfully, they had a perfectly good planet under them just waiting to be delved, and they had reserved several of the world's more interesting rifts to hit after a refill on mana.
+
+Just before they were to start delving once more, Matt got an update on Titan’s Torch’s court case.
+
+Judge Hatfield had officially ended their suit.
+
+He hadn’t ruled in Falker’s favor, but neither had he ruled in Titan’s Torch’s.
+
+While the jury had been skeptical about Falker’s team's credibility, there hadn’t been enough proof to definitively show they had stolen the research.
+
+The ruling meant they were getting a split patent, but their ability to spread the patent freely would only kick in after a hundred years.
+
+It wasn’t perfect, but it was slightly better than Matt had expected, as it came with signatures from Judge Hatfield’s superiors, meaning anything short of an appeal to a Royal or the Emperor himself wouldn’t be reversing the decision. A good enough resolution that meant Falkers couldn’t try to tie them up in litigation to extend the deadline.
+
+Interestingly enough, several news stations were covering the case, taking incredibly negative slants, citing Matt having used his influence as an Ascender to abuse the court system. Matt noted each of those stations down and immediately set his guild's newest department to investigate them.
+
+Tholly and his spies were good, but they ultimately worked at the behest of another. The imperial government, sure, but Matt didn’t directly employ them and so had Kees start up their own small group of spies.
+
+Matt wasn’t blind to the fact Tholly and his people were the ones initially vetting them, which left them open to corruption on that front, but they needed to start somewhere. It was best to have trustworthy people to start with, as any clandestine organization was the best place to put a spy, so it was ultimately a price they had to pay. That, and the people they had recruited were Tholly’s former colleagues, so he was as good a person to vet them as anyone.
+
+Not that they were that clandestine. Or spies for that matter.
+
+The new group were more information gatherers than anything else. Unlike most who created such departments, Matt wasn’t trying to act behind the cover of anonymity. If someone irritated him enough that he had to act, there was zero reason to hide behind proxies. No, their jobs were to simply reveal his enemies so Matt could crush them himself.
+
+A sucker for the classics, Matt had been tempted to call them janitors, but they weren’t assassins and instead just called them what they were: Investigators.
+
+They were starting small with only four people, two men and two women, all of whom were former spies for Harper who had left the life for not so various reasons. Spies who were identified via less obvious means were sometimes impossible to employ in covert actions. Harper usually found them other places, but some people were unwilling to leave the life and instead became a variety of things that still allowed them to use their skill set.
+
+Corporate espionage and corporate counter espionage were fairly common answers.
+
+Each had their own expertise and reported directly to Matt and Kees.
+
+Time would be the ultimate determining factor of their success, but Matt was hopeful that by the time they stopped delving, he’d have a better picture, if not a target.

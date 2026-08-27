@@ -1,0 +1,479 @@
+---
+id: fa1cdb73-ecf0-582d-8067-3e5b4fa799f3
+page-type-slug: story-chapter-royal-road
+title: "The Path of Ascension Chapter 452"
+slug: 0151-the-path-of-ascension-chapter-452
+partOf: the-path-of-ascension
+position: 151
+ownLength: 6719
+unit: words
+ownProgress: 6719
+publishedAt: 2025-10-24
+link: "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/2702117/the-path-of-ascension-chapter-452"
+royalRoadId: "2702117"
+markedReadAt: "2026-06-29T19:22:54.396Z"
+---
+
+Chapter 452
+
+Matt found he quite enjoyed strange realms.
+
+Having visited several, he could confidently say that.
+
+He would even go as far as saying he recommended people visit true cooperative ones.
+
+They were little more than fun games with a twist that ended with a near-unique reward.
+
+The Unsparing had visited three pure cooperative strange realms over the last nine years and Matt had enjoyed each and every single one.
+
+Their current one might be his favorite yet.
+
+It was effectively a game of Catch the Spy. As the name implied, there were the quintessential two sides of spy and guard, each with their assumed roles in the scenarios the strange realm built.
+
+Which came down to why they had chosen this strange realm when the Monster Collective group controlling it started selling uses, over the dozen competing ones they might be able to visit instead.
+
+The rewards.
+
+They were exceptional.
+
+There were in fact three roles for the strange realm: spy, guard, and civilian, and each had their own rewards for how well one played their role.
+
+For Matt, the more common civilian role had the best reward. For each successful round, the strange realm made it harder to see through subtle disguises one used. Importantly for Matt, it counted the veil he kept over his spirit at all times.
+
+Not that the other rewards were bad.
+
+They simply weren't as personally useful for Matt, and they were why everyone else had been excited to visit the strange realm.
+
+Catching ‘civilians’ or protecting the objective as the guard made piercing others’ magical disguises easier. On the other hand, catching civilians as the spy and completing the mission, made creating more complex disguises easier.
+
+For the winning side, the reward was fairly substantial, but Matt appreciated being able to get so much of the ‘weakest’ reward.
+
+So, unlike some of the others, he put his everything into his civilian roles.
+
+The civilians were mingled in with other ‘humans’ that moved around the scenarios internally, being judged on their acting along the roles assigned by the strange realm.
+
+Similar to how the spies and guards would be given information about the surrounding area to the thing they were supposed to guard or sabotage, the civilians were given information about tasks they had to do in the world.
+
+As both sides would get additional portions of the reward for it, the successful side generally tried to hunt down as many of the civilians as they could.
+
+Those additional rewards were why Matt worked so hard.
+
+His veil was so good that each of the ‘small’ improvements would have taken centuries of his effort to match the amount of progress.
+
+Which was why Matt happily skipped along, giggling with the other kids in a park, playing the same three minute portion of a game he didn’t understand.
+
+He had absolutely no idea where they were, the information he got as a civilian was less than what spies and guards got, and spreading one's spiritual perception was one of the easiest ways to get caught. So instead of satisfying his curiosity, he followed the directions given to him when he awakened in this body and played with the other children.
+
+Between cycles, everyone who entered the strange realm were given a few minutes to mingle, which let them spread information, and Aster had given them some tips Matt was trying to implement.
+
+Half of the Unsparing’s crew had entered the strange realm, the other half having locked down the ship, same as the three other independent exploration vessels, giving them a little more than two hundred participants in total. Their payment to use the strange realm had entitled them to preliminary information on the strange realm, but they learned much more by having Aster participate once.
+
+A fair hand at illusions herself, Aster was a menace in this strange realm.
+
+In her first round, she discovered something the other team hadn’t shared, if they had known it themselves. As a civilian, if you can successfully identify another civilian, you could also get additional portions of the reward.
+
+Incorrect guesses were dangerous. Too many and the guesser wouldn’t get their next reward at all.
+
+The issue was the strange realm wasn’t too picky about what it considered a guess. Oftentimes being a little too sure about a hunch was more than enough to count as an attempt. A single failure was rarely critical, but few admitted to having more than three incorrect guesses before being ejected into the waiting room.
+
+Aster had only failed before she learned the general threshold, but Matt had mostly given up after two failed attempts ended up costing him his reward.
+
+No one Matt had previously encountered was distinguishable to his eyes, even this many games in. As experienced explorers, everyone took the strange realm seriously, wanting to maximize their individual reward, and they all had perfect control over their bodies.
+
+Whether it was a side effect of the strange realm or a consequence of his long training, Matt didn’t know, but he didn’t suffer from the fact he was no longer in his own body. He had zero issues adapting between rounds, not that the tasks they were given were difficult.
+
+Most of the time he walked around in large looping patterns, delivering endless packages to the same people hour after hour, repeating the same lines the same way every time as the spies and guards dueled around them.
+
+So instead of trying to identify people, Matt concentrated on his role.
+
+But something about the strange realm this time was different.
+
+He hadn’t figured it out yet, but he felt he had an opportunity near him. Watching him.
+
+Inspecting the other children he was dancing with, Matt evaluated the scenario around him.
+
+He was in a seemingly normal child's play area, complete with sand pit, slide, and climbable objects, but from what his dictated actions allowed him to see of the scenario, he believed they were underground.
+
+That in and of itself wasn’t too strange, but something else was weird.
+
+As he played and laughed at the appropriate times according to the instructions, he tried to inspect his surroundings with his peripheral vision.
+
+The seesaw caught his eye at first. Something about the underside, where a worn out tire had been bolted into place as a spring, made him suspect it was out of place. However later in his cycle, when he was able to look directly at the seesaw, he was able to see it was ordinary.
+
+Matt’s initial instinct was to dismiss the feeling, having confirmed things were safe, but after a few moments, he felt his suspicion grow once more.
+
+Paying even greater attention, Matt tried to focus through the laughter and chatter of the other children around him.
+
+He could almost hear it.
+
+Like a dog growling quietly, he felt the sound more than heard it. As people passed the tire, the sound resonated. Like a balloon being touched by a needle and popping it, Matt saw through the illusion of the scenario.
+
+Panic flooded his body as the world froze around him.
+
+The birds, the trees, the other civilians, everything froze, no matter what they were doing, the color drained from them leaving mannequin-like remnants.
+
+The only other things with color in the world beyond the child's body Matt inhabited were the tire still bolted to the underside of the seesaw, and a door at the top of the nearby hill.
+
+Even with the panic flooding his unfamiliar body, Matt didn’t immediately run.
+
+Instead, he waited to make sure that there wasn’t another layer to this game.
+
+There wasn’t.
+
+A face opened up on the tire and smiled as it blinked, its bug-like eyes focusing on him. Its smile parted to reveal massive pointed teeth.
+
+It didn’t speak, but a moment later, the seesaw itself had a face that licked its lips, hoping to devour Matt.
+
+Taking off in the best approximation of a sprint that his child body could muster, Matt felt his heart start to thump crazily, completely out of his control.
+
+He hadn’t noticed it before being an immortal, but the body before this had no issues doing strenuous activities for hours at a time. None of his bodies had. He hadn’t considered it strange when it wasn’t his body, and anyone could be a participant. But now that the effect was gone, its loss was devastating.
+
+His heart thumped painfully as fear grabbed him and ruined his attempts to steady his breathing. In fact, the more the world around him started to be converted into grinning faces, the more his temporary body tried to rebel from his control.
+
+Matt hoped that was the ultimate test of this psychedelic nightmare he found himself in. He wouldn’t trust any strange realm to be non-lethal enough to stick around and watch himself get eaten.
+
+With adrenaline pouring through his veins, he wrenched control back from the strange realm and drove his body forward.
+
+He’d never been this unfit when he was a child, and he cursed as he felt trembling in his limbs as this body experienced its first life-or-death adrenaline rush, making running without tripping an exceptionally difficult task.
+
+Gasping for breath as he fled, he didn’t slow as he threw himself through the door head first.
+
+Matt found himself ejected from the scenario, confused about what had happened.
+
+He could tell he was missing a part of his memories.
+
+Something was suppressing his emotions, trying to make him brush it off, but Matt forced through the obstruction. His eyes widened as he regained his memories and checked himself over.
+
+Looking inward, he had an extra portion of the civilian reward in addition to something else; a pile of something he hadn’t been able to sense before.
+
+He wasn't entirely sure, but he was fairly confident that his reward for finding the oddity and escaping from the trap made it harder for others to possess his body without his consent.
+
+He hadn’t been particularly worried about being possessed any time soon, but Matt was never going to turn down such easy additional defenses.
+
+That was part of the reason he was so shocked the strange realm had bothered to edit his memory.
+
+That wasn’t a normal habit of a strange realm.
+
+They didn’t care, they shouldn’t try to protect Matt from the panic crisis he had pushed through. There had to be another reason why it, or possibly the face itself, bothered to mess with his mind, and he wanted to find out.
+
+Given that he had been additionally rewarded, Matt believed he had uncovered a huge hidden secret.
+
+When Aster and Liz appeared, they looked at him expectantly.
+
+Still excited, Matt said, “Guess what I learned?”
+
+Aster, gleeful, asked, “Strange spaces with faces? Yeah, we’ve been trying to get you through the mental barrier for three rounds now after each failure. Failure erases the memories without the chance to stop it. So does succeeding really, if you fail to prevent the memory wipe, but we aren’t sure what happened that caused you to fail after so many successful runs.”
+
+Matt dug through his now unblocked memories deeper, looking for any anomalies and cursed. “Okay, that wasn’t even fair. First round after you told us I didn’t encounter one. The second one however, I was a ninety year old man, my heart gave out and it was considered a failure. How is that in any way fair? I want a retry.”
+
+Aster snorted, thoroughly enjoying his misfortune, but Liz leaned in and kissed him on the nose, knowing it would needle him further. “I believe you, honey. Now come help us explain to the others while we have time.”
+
+Matt broke first and grinned as he helped them try to awaken anyone else from the crew. “For the record, I am telling the truth. Fun strange realm though, I like that there is a hidden layer for those who can break through.”
+
+Aster bounced on her toes as she agreed. “It's so cool. I wish we could take it with us. I considered making a game of this when we get back, but without the rewards, I don’t care enough to bother.”
+
+Liz laughed. “Could you imagine Annie in here? She’d be the perfect spy.”
+
+“Oh yeah, sh—”
+
+The three of them bantered back and forth as they searched the crowd for the rest of the crew.
+
+Allie, Zack, Susanne, and Rah would be with the second group to enter the strange realm, as someone had to guard the ship, so it would be nice to be able to tell them before they went in. Since other members of the crew were still entranced, they had to redouble their efforts.
+
+With so many people, they weren't able to explain it all, so they resorted to just shouting the information.
+
+After a few rounds of that, people started to come forward and corroborate their statements, but most people were unable to keep their memories intact for longer than a few rounds.
+
+Matt, despite a few close calls, never failed again, and so gleefully rubbed it in when Aster got her own rotten luck situation. She found out the hard way that the stroller her baby body had been rolling around in was the location of the hidden face.
+
+With her ability at seeing through illusions, Aster immediately ‘popped the bubble’, the term they had been using to describe the description of being pulled into the face challenges.
+
+Being a baby, she was unable to walk and came out of the round with her memory wiped. It only took a single round until she broke free, but Matt thoroughly enjoyed being able to return her earlier needling.
+
+When he finally got his own turn at being the spy, Matt had little issue in identifying over fifty civilians before tampering with the ‘printing machine’ and triggering the end of the round without ever being caught.
+
+His guard round was more eventful, with his opponent being very competent. They nearly managed to slip a handful of impossibly sticky sludge on the track before the bobsled Matt needed to defend.
+
+It was only because he ordered a last minute change to the lineup that he managed to divert their scheme, but it had been nerve-wracking on the other side.
+
+The moment his team made it through the gate successfully, the round ended and everyone was once more shuffled into the cycle.
+
+Multiple days later, everyone exited the strange realm, even those who had never broken free of the memory erasers, finding their memories returned but with no additional rewards.
+
+After telling the other half of the crew and explaining the best practices, Matt and the others watched over the ship while the rest of the crew used the strange realm.
+
+Observing that, Matt was impressed the strange realm was still active.
+
+It allowed a new group to enter three times a day. While the Tier 35 Pack that claimed ownership of the realm worked to cycle only once a day, it handled hundreds of people without issue, still looking perfectly stable.
+
+They had only experienced one strange realm closing on them when they exited, but its energy patterns had been unstable before they entered and its fate was inevitable.
+
+When the second half of their group came out and they handed over the last of the Natural Treasures they had agreed to trade for the opportunity, they immediately tore their way back into chaotic space.
+
+Grumbling, Allie queued up a message explaining the trick of the strange realm, but didn’t send it out.
+
+It truly wasn’t worth making new enemies for such a small gain. Instead, they infected the beacon outside the strange realm to silently transmit corrected versions of the rules to any group entering the node.
+
+Looking at their Seekers, Matt frowned when they shook their heads.
+
+Both Seekers had needed to start defining their questions to ask about ‘second best locations’ and such, because otherwise, the divination told them to start traveling back immediately so they would arrive in the next ten years.
+
+They intended to at least check the breachpoint via the waypoint Allie had established but the Talent’s didn't seem able to account for that. That let them roam further afield and away from the Sects, who had arrived in force.
+
+Since amassing a year before, they had claimed nearly a fifth of this bubble of higher layer energies.
+
+According to some of the messages they intercepted, they had even sent a larger expedition to the proper second layer, where they intended to loot the much larger swath of worlds dragged in from the third layer.
+
+Knowing Lila was on her way to those same worlds, Matt wished them luck, aware of what was coming their way. At least Lila’s ship had Sien, so hopefully the arrogant armada wouldn’t get bullied too badly if they tried to steal any of the dragon’s loot as they reportedly did in their segment of the breach.
+
+In their bubble, those who tried to refuse the wave of Sects ships found themselves challenged by wave after wave of cultivators, each subsequent one a higher Tier than the last until they agreed to pack up and leave.
+
+Or, that was what they did for the teams strong enough to fight to the end.
+
+There were rumors passing between ships and waypoints that any group too weak had simply been culled by the passing Sects armada.
+
+Matt wouldn’t put it past the Sects and their callous stance on life and power imbalances.
+
+Following their Seekers’ best guidance, they were flying away from them, but things were starting to come to a head as the other assorted powers started forming a coalition to keep the various sects in their claimed territory. The Unsparing had already picked up several of the larger groups nearest the sects banding together and forcing them off the border worlds.
+
+Currently, there hadn’t been any large-scale battles, but from everything they overheard, tensions were high and only rising.
+
+Not that the other groups were doing it out of the goodness of their hearts. They didn’t return the liberated worlds to the original owners and instead secured them for their own factions, happy to have the Sects do the dirty work.
+
+Following their path away from their eventual destination, the Unsparing hoped to hit more strange realms while everyone else worried about the breachpoint.
+
+Sadly, two of the nearest strange realms had already collapsed during their travels, but they were able to pivot into less desirable strange realms.
+
+One was slightly too low-Tier at Tier 27, but the other was simply not all that standout compared to some of the others they had entered.
+
+Both were of the more standard slay monsters for a benefit, but only the lower-Tier one allowed them to absorb the essence, which they wouldn’t do. The reward from the first strange realm had been equally uninteresting, but the second strange realm had given them an unidentifiable bottle of ten pills, one set each, leaving them unsure how to feel.
+
+The originally stated reward had been a short-term and single-use general comprehension boost. They had gotten that, but it was a much weaker version than what they expected for how well they did.
+
+That strongly implied the pills were an additional, better reward, but they didn’t dare take them. The pills each of them got were unique, but the energy patterns of each pill were so complex, they needed to be professionally inspected.
+
+Instead of Allie teleporting them back to the Empire, they had a solution which would actually tell them what the goods were right away.
+
+Three expeditious corporations had, upon taking over a well-located Tier 25 world, established a deep area trading hub.
+
+Bringing in three additional well known Tier 35 mercenary companies, they offered a safe place for anyone to trade their finds while taking only small fees. It was their ultimate destination, wanting to see if they could trade some of the loot they had picked up in the last several strange realms for information about any others remaining nearby.
+
+The corporations used the platform to not only make money on the general market but they cornered exactly one market few others cared about.
+
+Large scale material extraction.
+
+Paying just under the settled world standard prices they bought haulers full of base high Tier metals extracted from rifts. The groups could have gotten better deals but then they would have had to leave their worlds uncontested while they escorted the batch of resources home. Instead for a small profit loss they managed to empty their holds knowing they could delve longer to fill them up over and over. Then on the last one the groups could leave and sell the final haul at a more favorable rate in their original Great Power.
+
+Able to double dip by getting others to help protect the trading hub the three corporations spread the location of their hub to every other major faction turning into a default gathering point further boosting their revenue.
+
+They had been focusing on hitting the cooperative strange realms early, knowing they would vanish quickly, but even with the ‘taxes’ they were paying to use the strange realms without a fight, goods were once again filling the ship’s holds.
+
+Cooperative strange realms might offer less loot for a single small group from succeeding, but if a ship the size of the Unsparing had everyone work together, the rewards could be substantial.
+
+Having gone through so much as they delved the strange realms with the crew of the Unsparing, the seven of them had already agreed to change their initial loot distributions to the standard one.
+
+It would eat into their personal profits, but they were confident the crew would ensure the seven of them got any of the materials they wanted, even if they had to pay. It wouldn’t be right to take advantage of such kindness.
+
+Not that it was only out of the kindness in their hearts. That played a role, but all seven of them were hooked and were thinking about future adventures.
+
+With a professional crew already familiar with them, they could potentially use the same crew members until they reached Tier 35. Only then when they wanted to start exploring the third layer of chaotic space would they need a new ship and crew.
+
+Considering none of them had technically left the first layer, they wanted to keep these people around and willing to go on adventures with them, possibly on short notice.
+
+Allie’s waypoints wouldn’t disappear, and eventually they would have a half dozen waypoints scattered in various points through chaotic space.
+
+It wasn’t really plausible, but Allie audibly daydreamed about the day when she could teleport to any world she wanted, having a waypoint close enough to manually teleport the final distance herself.
+
+Chaotic space was too big for that to be reasonable, unless Allie wanted to stall at Tier 45 for a few million years, but Matt got starry eyed himself hearing her wax on about it.
+
+It was a nice thought, and in a few thousands of years, when the worlds hopefully made their way to the second layer, they might be able to have an even more advanced version of what the Sects were now able to do.
+
+When they arrived in the trading hub's real space, Matt was stunned at the level of activity.
+
+There were over a hundred various exploration groups loitering around the system, each keeping a respectful distance from the bustling ship at the center of everyone's attention.
+
+Matt had never seen a ship whose sides were removable, allowing it to turn into an open space station, but it was marvelous.
+
+Every floor was packed with people trying to sell their goods they lugged in from settled space for a fortune, or trying to buy rare materials on the cheap from teams who already filled their holds.
+
+Matt even noticed there were merchants from every Great Power acting as both buyers and sellers. He also noticed several representatives from some of the Empire's noble families and newly reformed knightly orders. A quick check told him they were being smart. They were offering to buy any Natural Treasures they wanted or found useful, at settled space prices.
+
+He didn’t know how successful they had been, but it was a good idea.
+
+In fact, Matt’s [AI] noticed dozens of the largest organizations with their own stalls or private areas, allowing them to make deals between each other and the smaller organizations that had gathered on the less-valuable worlds.
+
+He was thoroughly impressed and immediately started looking for anything they could sell.
+
+The first thing being advertised as an immediate buy almost made him laugh out loud.
+
+When the others looked at him, Matt flicked a finger. “Look at this advertisement. ‘Buying rift mana stones. Top prices.’ Why don’t we empty our reserves and replace them with more valuable things.”
+
+Aster chortled but Allie nodded and blinked a few times, coming back with bags full of mana stones.
+
+Shrugging, she innocently asked, “What? I’ve saved most of my rift mana stones since we met. I might as well cash in now that the price is this high.”
+
+Matt met unabashed eyes and laughed at her audacity. If they weren't such close friends, he probably would have taken offense, but it wasn’t like he wouldn’t share with her if she asked. Best of all, it gave them play money that wasn’t his mana stones.
+
+Seeing he didn’t mind, Allie’s grin turned devilish. “Let’s take their shirts! I bet we can set up our own scheme here!”
+
+Liz leaned forward and whispered in Allie's ear.
+
+Allie looked surprised before laughing and vanishing once more.
+
+Matt was about to ask Liz what she had suggested, but Allie came back with a string of spatial rings.
+
+Spatial rings full of rift mana stones.
+
+Everyone but Rah quickly told Allie where their stashes of mana stones were, and Matt could only look on in mild horror as even Aster shrugged at him and whispered a location to a now haggard looking Allie.
+
+“Why am I the only one who doesn't have a secret stash of valuables? Me and Rah, that is!”
+
+Rah shook his head, distancing himself from Matt with a smirk. “Oh, I also have one. But I only have the one, so I’ll take the theoretical loss on this venture.”
+
+Phoenix Liz patted Rah on the shoulder, transmitting, “It's okay, Rah, we can loan you some money.”
+
+Human Liz turned to Matt and smiled as he recognized some of the rings, putting on her best innocent Aster impression. Not letting that distract him, he realized he had been with Liz when she bought them shortly after they reached Tier 15.
+
+As Matt tried to place the other rings, Liz must have thought he was actually upset and whispered, “It’s not like we really use them. I figured they might come in handy on a rainy day.”
+
+As droplets of water began to land on their heads, Matt snorted as he checked the rest of the rings. A quick peek showed him rings packed full of mana stones of all Tiers.
+
+“I feel like I should be collecting interest, but whatever.” Still bemused at their shamelessness, Matt pointed at the nearing station. “Okay. Let's get moving. Bunch of misers.”
+
+Captain Stenson stepped forward and redirected them. “Ascenders, before we spend that vast fortune, might I suggest we go to an information broker and use these resources to buy information about the most valuable strange realms nearby. I know one of the smaller ones. He's not cheap but his information has always been good.”
+
+Seeing the chance to prevent them being scammed, Matt immediately agreed.
+
+Not that the others disagreed, but they complained about Matt ruining their fun the whole way.
+
+Once they were in the bazaar, Matt had to slap away a hand that tried to reach into his storage ring unnoticed.
+
+The Tier 27 looked terrified as he saw exactly who he had tried to pickpocket, but Matt didn’t do anything more than shoo the weaker man away.
+
+Along the way to the information broker Stenson knew, Matt saw several things he wanted. His investigative efforts were aided by the merchants holding up their best wares, trying to entice them to their stalls.
+
+Thankfully, the information broker was far more controlled.
+
+Their room wasn’t large, but they were immediately led inside and given refreshments as a manager was fetched.
+
+The man was painfully attractive and his smile was laced with as much charisma as someone without a Talent or Domain for the effect could manage.
+
+In perfect Empire, he said, “Good day, Ascenders. My name is Jairo, from the Weaver’s Web. It is lovely to have you grace my humble store so far away from civilization. Do you come to sell or buy? I have…” His grin widened as he leaned forward and finished speaking much quieter, trying to entice them, “Things you can scarcely imagine.”
+
+The captain stepped forward and coughed slightly, gaining Jairo’s attention.
+
+Upon recognizing him, Jairo grinned as he dropped the act. “Last time I talked to you, I remember you saying you swore off traveling with Ascenders.”
+
+Captain Stenson smiled back, reaching out and shaking the Tier 20’s hand. “I was slightly inebriated at that time, but I was good until now. What can you tell me? What do we want to know?”
+
+Matt watched as the two acquaintances chatted about old times. Listening, he was fairly sure both sides were quietly probing each other with the stories they told and making sure they were who they said they were. He didn’t know why they went through such efforts, but trusted the process.
+
+When they finished, Jairo had relaxed and now lounged in his chair like his bones were made out of liquid.
+
+After summoning an attendant to bring in refreshments, he said as they picked at the food, “I assume you have heard about the breachpoints?”
+
+“Plural?”
+
+Jairo nodded. “Two verified, with a third suspected, but it's on the far side, so we aren't sure if it's a true breachpoint. Which one do you want information on? I’ll sell it to you at only slightly above what I bought it for.” Seeming unable to fully give up the businessman routine, he added with a tantalizing smirk, “It's worth every credit, on my honor.”
+
+They had already decided how much they wanted to share, and so Captain Stenson waved Jairo’s offer away, surprising the salesman.
+
+“We were originally there in the first place. I’m surprised word hasn’t reached you of the fight.”
+
+Jairo’s eyes narrowed and he shook his head. “Not a whisper. Now that is interesting. Speak. I’m willing to buy. What do you know about the breachpoint?"
+
+“We have nearly a decade of relay scans, as well as full data maps of the breach world.”
+
+They could all see that Jairo wanted that information, but instead of agreeing, he started bartering. “That information isn’t worth a ton, but I'll take it off your hands for old times’ sake. What about—”
+
+Captain Stenson seemed to transform as he crossed verbal swords with the information broker.
+
+Eventually, Jairo put his hand down. “I can’t agree until I see the information. Your price is too high if it's not fantastic quality.”
+
+When Allie nodded, Captain Stenson shared the information and Jairo froze.
+
+Finally he whistled. “Okay, this is valuable. Fuck you, you lucky duck. Hmmm. I don’t know how to handle this.”
+
+Rubbing his chin, he stared at them before he shrugged. “I have an offer. I normally wouldn’t sell this for the life of me, but I don’t have anything else of equal value to offer for those telemetry readings. The top exploration groups will pay a lot for even the hint at possible world placements, and this much data will let them chart fantastic maps.”
+
+Tapping at the air using his [AI], Jairo finally withdrew a data crystal from a slot in the table, tossing it to their side.
+
+“Thats all I’ll share because it's only useful to half of you, so I don’t know if you want it. If not, you'll need to give me a few months to liquidate things or allow me to start shopping the information around first.”
+
+Given the secrecy, Matt was expecting a lot, but he wasn’t expecting a strange realm that allowed people to upgrade their essence.
+
+It was considered a secret to the guild in question, but they had been selling slots now that most of their elites had gone through already.
+
+Its Tier was perfect at Tier 28. Not that such mattered too much, given that it was a safe strange realm and no one had made it past Tier 5, given the difficulty of the cultivation reset. However because of their Tier they would get a harder challenge than someone of the right Tier but the rewards were reportedly the same.
+
+As Jairo said, it was perfect for all of them except Matt, Liz, Aster, and Susanne. As the guild found out the hard way when it sent a member who had a floor 5 Genesis Cultivation, the reward didn’t stack with Genesis Energy. Made worse by how their Back to Basics pulled it down to the lowest Tiers, Matt, Liz, Aster, and Susanne were ineligible for the reward unless they were lucky enough to advance past their converted essence.
+
+If they made it farther than Tier 5, where their Genesis Energy ended, and were lucky enough to have the reward start working, they’d make out fantastically. But if they failed, they wouldn’t get anything from the strange realm at all.
+
+Matt still agreed without hesitating. Information about such a strange realm, let alone a ticket they didn’t need to barter for, was valuable.
+
+He was fine with that trade.
+
+From there, they then bartered for the information on all the strange realms Jairo had before they moved on, but neither side put up too much of a fight and they paid in rift mana stones, which sold for a premium.
+
+Having finally arrived somewhere nice, they gave the crew two months off to relax in the various shops and bars. Or that was their excuse for why they stayed around for so long, as Allie naturally formed a waypoint without stressing her spirit too much by speeding the process up.
+
+Everyone except the occupied teleporter shopped the various stalls.
+
+They took the time to get several items appraised, but none were more impressive than their seeds and the pills.
+
+The seeds were all rare Tier 30 herbs needed for high-level alchemy that Liz was more than happy to get her hands on. Given their abundant energies, they would be fertile, leading to generations of excellent ingredients.
+
+In fact, two of the seeds were nearing the level of pseudo-Natural Treasures, given their rarity, but they didn’t sell or use any of them, even with the fairly reasonable prices they were offered. They intended to shop around for the right buyer who would be willing to pay more than market value. Someone, somewhere would pay a premium for such seeds and that was who they intended to sell to.
+
+They weren’t storage limited after all.
+
+The unknown pills they got, on the other hand, were far more personally practical.
+
+It had taken three Tier 35 appraisers over an hour, but eventually, they figured out the pills' effects. There were no offers to buy them, but that was only because the pills were perfectly customized to their bodies and would probably kill anyone else who tried to use one.
+
+So long as the appraisals weren’t entirely wrong, each of the ten pills would give them incredible comprehension for whatever they were working on when they consumed it. Each was only estimated to last fifteen minutes, but the potency of the pills was reported to be extraordinary.
+
+Someone had to test the reward, so Matt took one of them while working on his mana control exercises.
+
+Almost instantly, he felt the pill sublimate into his flesh, then his mind, and finally his spirit. Honestly, it didn’t really feel like very much was happening.
+
+Except his mana wavered slightly, as though it were trying to metastasize into a new element. Did it always do that? How did he only now notice?
+
+All thoughts about the pill’s function were cast aside in favor of this new mystery, as Matt began to study his mana with renewed interest.
+
+He intentionally allowed his mana control to slacken slightly with the goal of getting two streams of his mana to overlap, studying the resonance. He’d always held them apart before, because otherwise all kinds of crazy things could happen, but he’d never really studied the collapse before….
+
+So then why did that strand over there cause destabilization all the way over there? There didn’t seem to be any connection between them….
+
+Oh now that was fascinating. Could he replicate it?
+
+Better yet could he change his methodology and figure out the storage gem from the earlier strange realm?
+
+And then if he, if he… Matt grasped for the remainder of his thought, only to come up empty and with his mind feeling oddly drained. And the chair he’d been on was gone. Were the walls always that color?
+
+He groaned slightly as he got to his feet, his muscles protesting an action for the literal first time in… centuries?
+
+If he had any doubts about the pill working, they had been well dispersed. Though he could barely remember what all had happened, and reviewing his [AI] recordings were less than illuminating - half-finished notes and contextless clips of random things abounded - but he could feel the difference in his mana already, which on its own was astounding.
+
+He hadn’t been willing to test such an unknown on something more valuable, like advancing his skills or trying to explore his Power, in case there were long-term side effects but he was much happier now.
+
+And there were side effects, as the appraisers had warned.
+
+About an hour after taking the pill, he suffered from incredible spiritual strain as he paid the price for all of the accelerated learning. His spirit felt shrunken, twisted, battered, and bruised, but all of that had been more than worth it, as he could tell his spirit was already healing all on its own.
+
+Taking more than one pill at a time or back-to-back might do irreparable harm, but using them one at a time seemed to have no downside.
+
+After his success, everyone else was eager to try at least one of the pills, but after that one use, nearly everyone agreed they would wait until they returned to the Empire to use the rest. The pills would be best used when they couldn’t make any meaningful progress on a skill or profession instead of speeding up ordinary training.
+
+That and the crew were already speculating what other potions or pills they could take at the same time to maximize the comprehension effect. Adding even an extra five minutes would be worth nearly any price given that the pills were unique and irreplaceable.
+
+They then spent their last weeks buying anything they could for mana stones. So long as it would sell for a better price in settled space, they were willing to make deals others considered bad.
+
+Allie egged them on as she forced the waypoint to form faster than normal, challenging them to buy more things than she could easily teleport back.
+
+The moment she finished, they wrapped up their efforts and once more tore into chaotic space. They had over a year of travel to reach the strange realm, and they didn’t want to risk it dissipating before they arrived.
+
+They still had a few more years before they needed to return to the Tier 30 breachpoint planet and they wanted to maximize their efficiency before the final rush.
+
+Jairo had known of several other still-existing strange realms and they hoped they could hit at least two additional ones before they were dissipated from use or the Unsparing had to return.

@@ -1,0 +1,247 @@
+---
+id: 2ddccca7-abfa-59e3-9298-bb6fff7142e2
+page-type-slug: story-chapter-royal-road
+title: "169 Weaving Threads"
+slug: 0128-169-weaving-threads
+partOf: the-new-world
+position: 128
+ownLength: 3070
+unit: words
+ownProgress: 3070
+publishedAt: 2018-12-18
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/316366/169-weaving-threads"
+royalRoadId: "316366"
+markedReadAt: "2026-06-29T21:25:24.526Z"
+---
+
+Jilian fired at me, but I condensed my weight, no longer dispersing it. I sunk into the ground like diving into water. I burrowed at her while charging my mana. Jilian threw a bottle of the toxic, yellow gunk at the arena again. I grabbed it with telekinesis, preventing the container from shattering.
+
+I tossed the vial aside. I detonated my runes, giving me a surge of strength. I propelled out of the ground, drop kicking at Jilian. Her blue energy shield shattered. It redistributed the kinetic energy outwards, canceling my kick's momentum. This stopped her from being flung backward while flinging me back.
+
+I rolled onto my feet as I hit the ground. I slammed my heels into the ground, the arena crumbling. Without her shield or distance, Jilian pulled out two plasma daggers. I shot up to her front, sending a heavy left hook at her gut.
+
+She crossed her arms, blocking the blow. The armor on her forearms split, revealing charged gemstones. A mana shield generated, preventing my strike. My fist shattered the second line of defense. The thunderous, rippling sound echoed throughout the arena as it sent out another kinetic pulse.
+
+It bounced my fist back. With a chilling calm, Jilian took advantage of my position. She sliced one of her daggers towards the left side of my throat, trying to end the fight. I raised my left shoulder while leaning towards my right side. My shoulder pad knocked her hand up, causing it to swing over my head.
+
+With her body exposed, I turned on my heels and sliced a tight right hook at her gut. Using Force of Nature, I slammed my fist into a telekinetic pad just shy of her armor. This converted the force of my strike into a kinetic bullet. It slammed into Jilian, puncturing her armor and sending her sailing through the air.
+
+I sighed with relief. It was just enough force to do her in but not kill her. Unconcious and flailing, Jilian's head dived towards the rock floor. I stood upright, raising a hand. I caught her with a gravity well, stopping any further damage. I set her down. I banged my fist together, sending out a shockwave of force.
+
+As I lifted my fist in victory, the mob shouted until the stadium rumbled. Many of the espens gave me a standing ovation, and Eradin roared out. With the fight over, Kiki Mosk boomed,
+
+"And it's a wrap, folks. Can anyone even stand a chance against the Gray Giant? So far, no luck!"
+
+I tapped a telekinetic pad, tapping Kiki on the shoulder. He looked around, his eyes narrowed. I cupped my hands around my mouth, "Yo Kiki."
+
+He turned down, his expression softening,
+
+"Ah, it's you, Daniel. I'd love to chat, but I'm busy at the moment."
+
+I raised a palm, "I need the schedule for the tournament."
+
+Kiki facepalmed, a grimace forming on his lips, "They didn't send you one? Wow. Ok. That's totally fine. I hope the director wasn't planning on getting a promotion anytime soon."
+
+He fiddled with his status, mumbling under his breath,
+
+"Idiots. The whole lot of them. I don't need to fire someone. I need a firing squad."
+
+A notification for a file popped up. I opened it, seeing a list of battles and dates. I gave Kiki a thumbs up as I walked off the arena. Kiki wiped his forehead and smiled, "Excuse me, folks, there were some technical difficulties. Now, who wants to see the next brutal battle?"
+
+A few medics ran up, getting Jilian out of the arena. I jumped back into the crowd, landing beside Althea. She stood up and gave me a hug, popping my back six or seven times. I grunted,
+
+"Thank you for breaking my spine."
+
+Althea giggled, "Oh, sorry about that. You really taught her what's up."
+
+I shrugged, "Sometimes, I just can't help it."
+
+Eradin nodded towards me, "It was a good fight. You should be proud of it."
+
+"You should too old man. You staved off the younger talent like a pro."
+
+He chuckled, "It's my duty as a gatekeeper." Eradin stood up, "It's time I go see my son in fact. He should be waking up anytime now. It would be a shame if he didn't see his father's smiling face."
+
+I smirked, "Or heard a little teasing."
+
+Eradin grinned, "Naturally."
+
+He flew off, leaving the arena through the open roof. I sat down, glancing at the tournament's schedule. It seemed strange that Jilian would fight me right after fighting Mell. I shrugged it off as coincidence.  I leaned back from my status in disgust, seeing that it was two days before I battled again. I gave Althea a pat on her shoulder,
+
+"Hey, I'm going to go do some stuff. Let me know if you get bored. We can explore Yildraza or something."
+
+She gave me a sly grin, "Maybe something else later tonight?"
+
+I pressed my face mask against her forehead, "Definitely...I wish I could give you a kiss."
+
+Kessiah shouted from behind us, "Please leave already."
+
+Althea laughed, and I skedaddled out of there. After passing through crowds of fans, I stuck to the alleyways. It suited me better since there were fewer people. Using my minimap, I found a quest board located in one of the Steel Legion's branches here.
+
+No one gave me any trouble with my heavy presence this time. After walking up and downloading all the top quests, I skimmed through them. I shook my hand, clasping it into a fist as I discovered the highest tier one.
+
+An Encroaching Invasion(lvl 8,000+ | Party Size: 10+ | Guild Affiliation: Any) - Reports of silver outbreaks have been flowing in. This spread of silvers is challenging to stop, as cleaning out an infested area proves difficult even for high-level sentients.
+
+For those gifted in AOE combat, clear out the border near Yildraza and nearby towns. FInd the culprit(s) of this expansion and eliminate them. Considering the sheer number of silvers, a large group of sentients is recommended, preferably a guild part of some sort. An investigator specialist is recommended for the party.
+
+If any information of who's causing the outbreaks is found, report to Tohtella Adair. As head of the viral and parasitic research operation, she'll be seen in the Speaker's headquarters of Yildraza.
+
+Rewards: 50 red dungeon cores, 1 blue dungeon core, and allows the formation of one guild branch in Yildraza.
+
+It was the perfect questline. We came to Giess for three reasons. First, establish positive relations with the planet. Second, we needed to clear a criminal organization of some sort. Third, we had to create an alliance with the Empire and the Steel Legion.
+
+This quest might help me with both if there was some association behind the spreading silvers. With that in mind, I scrambled my way out of Yildraza. I shot through the alleyways, leaping over the crowded streets. I got a few weird looks, sure, but I saved a bunch of time.
+
+Half an hour later, and I blazed across the wilderness. As I traveled, I practiced Thermomancy. Within minutes, I neared the silver's border. Towards the West, an industrial town situated itself along a cliffside. Covered in Thisbey Corp's symbol, they mined minerals and dumped sludge to the silvers.
+
+Towards the east, the border expanded out. The silver spires didn't tower over the nearby woods here. This meant it was newer territory for the silvers. I dashed towards it, beginning my search there.
+
+My first objective was to push back the silvers some. Using Event Horizon, I cleared out all the Saysha crawling around. The tiny beetles gave me the creeps, so I was glad to be rid of them. As I passed over the fields of metal, I smashed any Merjects I ran across.
+
+Merjects were odd creatures. They hid along the silver spires, blending in with the shining metal. They always ambushed from above, trying to stab their needle mouths into the back of my neck. If they had their way, they'd slurp my brain up like a smoothie.
+
+I hit them as they jumped down, sending out shockwaves that attracted larger silvers. Engorgs rolled towards me, their bodies rolled up into metal balls. If they smashed their prey, they unrolled, revealing thousands of squirming legs.
+
+Needless to say, they didn't handle my strikes very well.
+
+Just like that, I spent two hours cleansing the border. I cleared out a broad swath of silvers, giving nearby villages some breathing room. It wouldn't last unless I did something to prevent silvers from coming back.
+
+With that in mind, I tore a wide strip of metal from the ground. Since this was a new area, the metal was thin, making this pretty easy. I flew back and forth, tearing out tiny strips of the metal. I felt like a gigantic printer, going back and forth.
+
+A few hours later, and I cleared the ground of the silver's stain. The only thing left of their ilk was the spires. I tore these pillars up, lobbing them like silver spears back into their territory. With a gorgeous sunset in the distance, I kicked back and looked at my handiwork.
+
+I cleared out several mile long stretches of farmland. The exposed, dark earth looked perfect for planting crops. With that handled, I ran along the border of this newly cleared ground. Just as I expected, I found espens scattered along the edges of silver's territory.
+
+With brands on their foreheads, they held egg sacks in their stomachs. I cleared out dozens of these atrocities, documenting evidence with my obelisk. I cleared out the entire expanse near Yildraza. I found the same talon marks left by the last Skyburner.
+
+It left a bitter taste in my mouth, finding such damning evidence against the gialgathens. Considering the hatred for them, leaders like Thisbey might take actions against them. That was if this information went public, however.
+
+I didn't intend on stirring up a political shitstorm. With the first part of the questline completed, I headed back to Yildraza. I followed the quest's advice, going toward the Speaker's Guild there. Using an online guide, I dived deep into the city. Not long after, I found the Speaker's place surrounded by modern buildings.
+
+The Speaker's guild looked more like a fortress than a base. I found the entrance after walking down a set of underground steps. The opening was a massive vault door made of orichalcum. After verifying who I was, they let me into the bunker.
+
+I stepped into the bright steel room. With harsh, blue lights beaming from above, I glanced at a wall of glass. Behind it, a worker operated a company computer with a headset. He clicked a button, sending a mist into the area.  After passing a sterilization check, he spoke into an intercom sir,
+
+"Hello, Gray Giant. We want you to feel welcome here, but we need to verify that you don't have parasites or viruses on you. Remove your armor and let an expert check you out please."
+
+I shook my head, "I can't do that."
+
+With a bit of snark, he mouthed, "Sorry sir, but it's just protocol."
+
+I sighed, "Look, throw a parasite or a vial of some deadly virus in here. I can show you why I'm sterile. Will that work?"
+
+"Of course sir. We'll need to go through the proper channels of communication. Given a few weeks, we might be able to handle the right forms."
+
+I raised my head, "Ok, I just cleared out several miles of silver territory before coming here. Surely it's on the news or something."
+
+"I'm sure you can do that sir, but we're going to need a few memos verifying all that first. After we clear out the A1 forms regarding toxic form removal, we'll get those B3 forms started for verification. It should only take Cindy two or three months for that."
+
+I grabbed the sides of my head, "What the fuck? How does it even take that long?"
+
+"Calm down sir. It's just standard protocol."
+
+I spread out my arms, "Its should take seconds. You send the email then Cindy responds. Boom. Finished."
+
+He shook his head, "Uhm, sir, if you could just calm down and let us do our jobs, then that'd be greeeeat."
+
+Thoughts of murder and destruction flashed across my eyes. He leaned towards me,
+
+"Looks like somebody's in a rush. Have a bad day at work? My advice should have followed protocol."
+
+I pointed at him, "Ohhhh, I know what your doing."
+
+"Do you sir? I'll give you a hint, it rhymes with swallowing ethanol."
+
+A door beside him opened. A remnant woman walked in, her white hair wrapped into a bun behind her. She stared down at her status and a clipboard. She wore fitted business attire with a pen in her hand. She looked up, her glasses shining.
+
+The piece of shit worker stiffened up, his back straight as an arrow as she walked in. He mumbled, "Uhm, Miss Adair, what are you doing here?"
+
+Miss Adair stared at me. She pointed her pen at me, "Turn around."
+
+There was a commanding tone to her voice. She was the boss her for sure. Not wanting to reveal my identity or wait several months for paperwork, I did as she said. She turned towards the nervous worker,
+
+"Henry, You're fired."
+
+His shoulders fell as his jaw went slack. He mumbled, "Uh, but why-"
+
+She pointed at me, "He has no breaks in his armor. He's been sterilized. That means he has no parasites. Your duty is to process visitors quickly and efficiently, not heckle them and waste their time."
+
+Henry raised a hand, "Bu-"
+
+Miss Adair raised a hand, pressing two fingers together, "If you wish to speak about your dismissal, do so with the guards. Otherwise, empty your desk and leave. Before you ask, no. I will not give you a recommendation letter."
+
+Henry stared at his workspace, his eyes hollow. I'm not going to lie, I was more satisfied than I should be. Miss Adair pointed towards me, "You're Daniel, correct?"
+
+I nodded. Miss Adair handled work as she continued, "I am Tohtella Adair. You may refer to me as Tohtella or Miss Adair, whichever you prefer."
+
+I crossed my arms, "I'll stick with Tohtella."
+
+She gave me a curt nod, "You wished to speak with me, correct?"
+
+I nodded again. Tohtella turned and walked into the building. "Meet me in my office. A more useful employee will guide you there."
+
+As she stepped into the building, the steel doors slid open, letting me walk in. I walked into a receptionists hall. An espen woman stood up and walked up to me. She gave me a bow, "I'll take you to Miss Adair's office at once. Please excuse your previous experience with our guard."
+
+I shrugged, "Eh, it happens."
+
+I followed her through a winding labyrinth of tunnels. We passed a laboratory full of silvers and vials of sludge. Scientists studied saysha, merjects, and other live silvers here. They even had a tube full of yana, the parasites that infected the first gialgathen I fought back in Icosah.
+
+After a few minutes, we reached the end of a hallway. On a reinforced metal door, the name 'Tohtella Adair's Office' was imprinted. The receptionist gave me a bow. As she left, I knocked on the door. Tohtella shouted,
+
+"Come in."
+
+I opened the entrance, finding an everyday, regular office. So ordinary, in fact, that it seemed off. There was no dust, no disorganization, and no disorder. The only strange part was a jar full of yana worms. My guess was she kept it as a reminder of what she was working against.
+
+As I stood in front of her, she stared at me, her eyes piercing. She pointed at a chair, "Please, sit. Does it bother you if I work while we talk?"
+
+I shook my head, "Not at all. Does it bother you if I practice magic?"
+
+She gave me a small smile like she was amused. When I got a good look at her, it shocked me how attractive she was. She hid it beneath her persona and workwear, but it still beamed through if you looked close.
+
+I already had someone special though, so I leaned back in my chair. I pulled out a lump of orichalcum from my dimensional storage. I heated and cooled it as I talked,
+
+"I'm here for a quest."
+
+She operated several windows of her status, "Which one?"
+
+"An Encroaching Invasion."
+
+Tohtella froze for a second. She looked me in the eye, "What did you find?"
+
+I sighed, "Is this conversation at all confidential?"
+
+She nodded, steepling her fingers and turning towards me,
+
+"You have my word it is. Speakers are a neutral faction. We only aim to further Schema. Nothing more, nothing less."
+
+She meant it too. From the beginning, everything about Tohtella screamed integrity. From the way she handled her office and workers to her candidate Jilian, Tohtealla wanted to do a good job and get results.
+
+However, I kept myself skeptical even if my gut reaction was good. I pulled out my obelisk and recorded our conversation. I turned to her,
+
+"You don't mind?"
+
+She waved her hand, "Of course not. I have nothing to hide, and documentation is almost always an excellent idea."
+
+I flipped the orichalcum in my hand, "Good. I figured out who's spreading the infestation."
+
+Her eyes widened, and she leaned towards me, "Who?"
+
+I frowned, "I think it's a faction of gialgathens."
+
+She raised an eyebrow, "What makes you believe that?"
+
+I sighed, "I found espen bodies implanted with eggs. They were covered in the same slave brands that Emagrotha used forever ago."
+
+Tohtella narrowed her eyes, "And? Anyone that knows those brands could plant that kind of evidence."
+
+I shook my head, "I fought a Skyburner."
+
+Tohtella blinked. She peered off to her side. She pushed her glasses up. She looked back at me, "Ahem, I understand that you are a contender in the Honoring of Lehesion, but-"
+
+I shrugged, "I have video evidence of me kicking its ass. I can show it to you if you'd like. I'm the reason Mount Vernon has a new crater."
+
+She blinked, "Wait...that crater wasn't an eruption?"
+
+I shook my head,
+
+"No. It was me."

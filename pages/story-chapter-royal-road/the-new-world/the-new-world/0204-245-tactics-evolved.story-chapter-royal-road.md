@@ -1,0 +1,253 @@
+---
+id: b49ed34b-e462-539c-8ca8-f7186fbf25bf
+page-type-slug: story-chapter-royal-road
+title: "245 Tactics, Evolved"
+slug: 0204-245-tactics-evolved
+partOf: the-new-world
+position: 204
+ownLength: 4155
+unit: words
+ownProgress: 4155
+publishedAt: 2020-01-30
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/451584/245-tactics-evolved"
+royalRoadId: "451584"
+markedReadAt: "2026-06-29T21:27:57.574Z"
+---
+
+Motivating through fear, the gialgathens under our wing roared in approval. Without needing more preparation, Torix sent a few messages all at once, interacting with multiple statuses. Our forces moved all at once in an outpour of motion.
+
+Chrona stood beside our primary gate along with Spear. Krog, Kessiah, and Schema's troops stood in front of a legion of our own. Splitting into four battalions, I glanced at each of them with some confusion. Torix turned towards Spear,
+
+"Slice it where we suggested."
+
+Spear walked over towards the marking on the ground while waving his spears. With a wicked slice, he cleaved reality. Torix turned to me,
+
+"We'll need your might, Harbinger."
+
+I paced over before pulling the tear further apart. Torix lifted his hands, "That is enough for now. Warp specialists enter."
+
+They walked through the gateway, an open field of flowers present. Torix followed, and I stared into the opening. For miles, there was nothing but flowers. Beside them, another eldritch den was locked behind a dungeon's doors. It confused me since we weren't near Fausel at all.
+
+In a spur of genius, Torix generated a portal as far as he could. Layering their gateways, the other warp specialist closed miles and miles of distance in seconds. They continued until their portals reached a waypoint outside the city. Torix turned towards me,
+
+"We'll be entering an auditorium. You and I shall cull the Hybrids and other forces that lay within its bounds. Are you ready?"
+
+I stepped forward, shaking off my surprise,
+
+"Of course. Let's go."
+
+The blue flames expanded over Torix as he stared down for a moment. A tense silence passed over the entire field and soldiers behind us. Torix stared up, sending several messages,
+
+"Open the launch zone."
+
+A warp specialist lifted a hand, creating an opening into an auditorium in the city. Torix and I stepped in, finding a dozen Hybrids within its confines. Without waiting, I ran forward, grabbing two of them and smashing their skulls together.
+
+At the same time, Torix pointed his hand at two of espen soldiers near the back. They convulsed immediately, overwhelmed utterly. Two of the Hybrids turned towards the others, dashing towards them. They rolled towards me, and I stomped them into pulp while crippling the others with Event Horizon.
+
+Torix followed up, finding several other espen controllers. Torix stared at one of them at a time. Within a second each, he devastated their minds, forcing them to kneel. Their controllers crippled, the six Hybrids I killed then stood once more. Dominion mana oozed from their frame as the forces in this room stared at Torix, waiting for further commands.
+
+I stared at the guy with newfound respect. We annihilated their installment in an instant.
+
+The lich walked forward, his presence leaking into the entire room. He turned around, the espens opening their statuses. Torix peered at me,
+
+"They've sent reports of how the auditorium is empty. I'll also tamper with a few of their information channels. Considering they use psionic telepathy for communication, this should prove simple."
+
+I raised an eyebrow, "You can beat the entire psionic congregate?"
+
+Torix raised a hand, "Oh please, I could never. These are fragmented intranets used in each commanding battalion. As long as they miss any differences in these individual's mentalities after my takeover, we shall be fine. They will miss us entirely as if we were passing ghosts."
+
+I slammed my fists together, "Alright then, let's go tear them apart."
+
+Torix turned to me, "Before we do so, give each of these individuals a few of your mana bombs."
+
+My eyes widened, "They'll be suicide bombers."
+
+Torix cackled, "Precisely. This ensures a measure of precision that would otherwise be impossible. It also gives us ample time to enact other measures."
+
+The auditorium's occupants lined up, and I handed each of them three mana bombs apiece. They hid them under clothing or in their stomachs. Torix turned towards our portal,
+
+"And so, it is now time to impart our forces across the city."
+
+Torix sent a few messages. Spear walked into the auditorium with the three warp specialists. The warp behind us faltered, disintegrating into nothing with a quick siphoning sound. Spear cleaved through dimensions once more, opening the portal without delay.
+
+I followed suit, ripping the tear further. The three warp specialists lined up, and Torix raised a hand towards me,
+
+"They may only open a single portal at any one point in time. This utility is tremendous, however. We may launch in four different areas. Now, to the next zone. It shall be a closed stadium. Are you ready?"
+
+I grinned, "Always."
+
+The warp specialist took a deep breath, his breathalyzer humming in his suit of power armor. With another, far quieter sound than Spears portals, a portal opened up into an empty bathroom. Torix stepped through with me. We paced out into a hallway, dispatching several guards.
+
+Torix didn't so much as maintain eye contact. With a mental will that was downright frightening, he walked with a casual air, our enemies falling as he passed. Passed the shaded hallway leading into the stadium, thirty or so espens with hundreds of Hybrids skulked about.
+
+Torix's blue flames rose out from him as he turned to me,
+
+"Each of them commands several Hybrids. We need not kill them, merely knocking them unconscious is all that is necessary. Given I cannot take on so many at once, dispatch of as many espens as you can."
+
+I stepped up to the edge of the hallway's shade. Camouflaged from the enemies, I reached out my hands, taking a moment to focus. My mana glowed red as I sensed each of the espen's locations. With a burst of effort, I swung my arms outwards, using a rapid jolt.
+
+Dispersed across twenty different locations, telekinetic impacts jostled each of the espen's jaws. Whiplashed into unconsciousness, they tumbled to the ground. Their Hybrids glared around, no longer controlled.
+
+Before chaos erupted, Torix already suppressed half of the remaining espens left. I took another breath, using another quick snap of my arms. Two of the remaining espens tumbled before Torix conquered the rest of them. One by one, the subconscious espens rose from the ground.
+
+Torix cackled, "Who would've guessed you could simply knock them unconscious? I'd have anticipated something closer to decapitation."
+
+I rolled my shoulders, stepping out onto the grassy field, "I could say the same for controlling so many people at once."
+
+Torix followed me, the small army of individuals assembling in front of us. I stared at them in amazement,
+
+"I never would'be imagined you'd be this damn effective with your mind magic. This is incredible."
+
+Torix scoffed, "You knocked twenty individuals unconscious with a flick of your wrists. Without that, they'd have informed their chain of command already."
+
+Torix's blue flames expanded further, "In essence, our teamwork enables this profound effect to manifest. Now, it is time to decimate their forces further."
+
+More warps opened after Torix sent a few messages. We rinsed and repeated this process two more times, taking over a hotel lobby and a wedding venue. At that point, Torix's blue flames radiated with such intensity that I gave the guy some space. Otherwise, I'd develop a ringing headache.
+
+Standing there with a bit of difficulty, he raised shaking hands, "Who'd of estimated that only ten thousand minds was my effective limit...for now."
+
+He opened his status with a bit of difficulty,
+
+"I won't be able to maintain this large a force concurrently. Due to that fact, I'll be implementing suicidal tactics for the controlled members. As well, it has been less than an hour since we've touched down, yet the mana crystals are in place, and our four launch zones are ready."
+
+Torix turned to me, "We only need you to station yourself atop the Eridian Tower. It gives an excellent view of the city, and it enables you to dismantle their dreadnought forces using your singularities."
+
+I gave Torix a nod. A few minutes and warps later, I found myself on top of said Eridian Tower overlooking the entire city. The flowering fields in the distance contrasted the blighted city. Hybrids skulked across the streets, each of them covered in debris. Hidden in pits, the gialgathen citizens were put into the orange soup and converted into the Adair Family's denizens. Yeah, it would feel good taking these guys out.
+
+After getting a grasp of the city's layout, I put up a few pieces of furniture to disguise the glow of my mana, but I could still see the entire city. A few seconds later, Torix sent out a message,
+
+Torix Worm, The Harbinger's Erudition(lvl 9,007 | Guild: The Harbinger's Legion) - Whenever you launch your first singularity, we shall bite into their exposed neck so to speak. Act whenever you are ready.
+
+I took out about a hundred condensed mana crystals of raw ascendant mana. A pile of blood-red gems sat in front of me, darkened lines tracing each jagged gemstone. With the volatile energy source right in front of me, I raised a hand and charged a singularity.
+
+They and Torix were in for a surprise.
+
+Ten seconds later, I lobbed the first singularity at a dreadnought's arcane cannons. The moment I finished the hungry void, I assimilated ten more crystals, draining them with my armor. My skin radiated heat as billions of mana coursed through my veins. A lesser creature would've evaporated just handling this mana. Dimensional in scope, I used the energy with fluidity and precision.
+
+The crystals wisped out of existence, and I lobbed another singularity at a different dreadnought. A living, breathing gravitational cannon, I shot out a dozen various shots at the battleships, taking aim and firing without taking time between each shot. It was a new tactic I thought up a while back.
+
+And with it, I shattered the horizons.
+
+Each cataclysmic jolt of gravitational energy rocked the ship and nearby buildings. So many dynamic, contrasting forces erupted that entire blocks of Fausel were flattened. The sheer volume of noise shattered every glass panel across the whole city. The land itself quaked under the monumental destruction. The clouds above ran from the outbreak, the sky blown outwards from the city.
+
+The destruction itself wasn't the only impressive part. I aimed each shot at the powered cores and command decks of each vessel. Having been in them several times made this much more manageable. Practice also made perfect, and that let me tear the ship's guts out.
+
+This meant each of the dreadnoughts fell without so much as a fight. At the same time, my other mana bombs erupted across the city. These proved far more effective than before. From within the massive, moving spires of Hybrid flesh, our suicide bombers hit them at their source. It wasn't from a point near the root. The explosions ripped out from within them.
+
+This was the difference between swallowing a grenade versus having one blow up in the room beside you. One carried a chance at life. The other ensured an instant death. Between the singularity shower and the mana bombing, we eliminated their entire fleet in less than ten seconds.
+
+Their forces weren't prepared for what was to follow.
+
+As deafening booms echoed into the distant plains, our forces mobilized. From our three other strongholds, gialgathens flew out of the buildings. Torix's silvers ran out onto the streets, catching espens and Hybrids off guard. I even opened my dimensional storage, two dozen gialgathens flying out from the umbral portal.
+
+We covered the skies with wings of wrath. From our forces, the enemies crumbled. The ferocity and speed of our attack, it rivaled a lightning bolt in intensity. Our enemies never stood so much as a shadow of a chance at even fighting back. Even without my intervention, the enemy forces crumbled. It was an instantaneous victory from the onset.
+
+Our aerial superiority caused most of this. On the ground, gialgathens were clumsy, immobile things. In the sky, they might as well have been dancing by comparison. This gave them the ability to stomp out the Blighted Riders who crawled out of the dreadnoughts. They roasted in plumes of iridescent fire.
+
+Since the enemy forces were crippled, I looked for Torix. I expected some sort of unexpected mishap, but no, our army didn't need me to fight. Lacking a direct need for a juggernaut, all I needed to do was follow behind Torix's rush. Before leaping out of the building, I inspected my surroundings.
+
+I discovered a grounded dreadnought behind me. With an explosive dash, I shot out of the Eridian Tower. As I did, I cleaved the building apart, causing the massive, metal pillar to fall. Aiming its descent, I created another catastrophic blow to the enemy. The tower landed on the grounded destroyer, rupturing its forcefield.
+
+Leaving that chaos behind me, I found Torix riding on the back of a Hybridized gialgathen. When and where he took the damn thing over, I didn't know. All I knew was that an ancient lich riding a cybernetic dragon was just...awe inspiring.
+
+Around the dimensional necromancer, several dozen Hybrids ran out towards the orange pits. They tore open the orange slop and pulled gialgathens out. It was a clever workaround. Unlike our forces, the Hybrids were immune to the slop's effects. This meant they could pull the injured out easier than we could.
+
+Torix wasted no time with this process, however. Instead, he moved onto the next pit the moment he finished. It was like watching an assembly line as Krog landed behind him in front of the piles of Hybridized gialgathens. Taking a deep breath, Krog unleashed a sonic roar that blew the orange slop off of the injured.
+
+The healers and Kessiah leaped off Krog's back right after, running up to each individual. Kessiah tore open a dozen blood bags, healing several gialgathens at once. The other healers followed behind her, stabilizing the gialgathens.
+
+The wind whistled in my ears as I slowed my descent. Landing near them, I sprinted up towards Kessiah's injured. She looked up at me, pointing at the healed gialgathens behind her,
+
+"Just take the Hybrid out of them. That's all you need to do."
+
+I gave her a nod, and she refocused on healing wounds. I honed all my intents onto removing the Hybridized parts of them. This was a necessary adjustment. Ever since Polydra, the gialgathens we saved were more and more hybridized. This left fewer and fewer gialgathens alive after we got them back to Elderfire.
+
+To counter this, we needed a more effective and less haphazard rehabilitation process. With a near factory line level of efficiency, we achieved just that.
+
+We saved hundreds of them.
+
+Moving from pit to pit, Kessiah and I burned through the injured gialgathens. We took a broad stroke approach, doing as much as was needed for the gialgathens to live. The healers behind cleaned up any missing parts we left behind. This high octane, rapid approach over doubled the speed of our healing.
+
+Even better, the silvers that Torix controlled carried the healed back through the open portals. Of course, the enemy forces attempted stopping us, but we implemented yet another new strategy of Torix's making. This plan was simple yet stunning in its effectiveness.
+
+It came in three parts. The first part needed aerial superiority, which we established instantly. With it, our gialgathen forces could comb the city and use their flames at a distance. This kept an appropriate distance from the flyers and the Hybrids. Distance meant the close combat capabilities of the Hybrids were a moot point.
+
+The next part of the strategy involved tactical use of the silvers and Hybrids that Torix controlled. Given his inability to control an infinite amount of them at once, Torix regularly sent them to their deaths. He then conquered more forces as needed. This tactic reduced the enemy's troops on two fronts.
+
+At the same time, this recycling wheel of new troops meant Torix never needed to control tens of thousands of individuals at once. It worked around his limitations, letting him focus on his other responsibilities. It also fed into the third part of the plan.
+
+By creating chokepoints of controlled troops and enemy troops, Torix generated clusters of enemies. Given our gialgathens could see these clusters, they set fire to every monster fighting in them. This decimated entire legions of troops as a group of gialgathens passed above. It let them scorch the earth and all the enemies involved. Mitigating contact, this approach saved most of our forces.
+
+All these factors culminated in a ruthless war machine. Three hours of well-oiled destruction passed. By then, Torix, Krog, Kessiah, and Schema's sent troops stood near Fausel's auditorium. We were moving out the last of the injured gialgathens through opened portals.
+
+I walked up to them, dragging a Hybrid behind me. It reared back to life in my hands before I smashed its skull in my fingers. In front of me, Torix sent several messages a second. He controlled the troop's escape with an enviable serenity. There was no nervousness or doubt; Torix understood what was needed.
+
+In many ways, the battle acted as a turning point for the necromancer. Several of the people gathered here doubted him in the past, Spear in particular. Watching Torix in his element could change even the most biased party, and that's precisely what happened.
+
+The entire group looked at him differently, Spear and Krog, in particular. It was like they looked down on Torix before, and now they looked up at him. Subtle as that change was, it stuck out to me. Even Kessiah, a long-time friend, seemed moved by Torix's display of competence.
+
+In fact, the only person that didn't look at him differently was me. The reason for that was obvious - I never lost faith in the guy in the first place. Stepping up, I held back a few 'I told you so's.' Before I could congratulate Torix, One of Schema's troops walked up. Staring at the lich with reverence, the faceless trooper saluted Torix,
+
+"If I may sir, I wanted to say this was a slick operation. The Overseer said we'd be with the best of the best. He wasn't exaggerating."
+
+Torix closed his status, staring at him for a moment,
+
+"I merely gained the correct stage to showcase my talents...but thank you for the recognition."
+
+Torix turned towards the destroyed city, "I must say, replicating this should prove feasible. In many ways, we've cracked the code for dismantling the Adiar's operations."
+
+Spear glanced at the warp specialists then back to the lich, "Layering the portals in such a way...That was smart."
+
+Spear and Torix locked eyes for a second. It was one of those stares where a conversation took place. To me, it looked like Spear ate a fresh, delicious slice of humble pie. Torix saw through this as well. Torix's blue eyes flared brighter as he looked down on the Sentinel.
+
+For a trice, it looked like Torix was about to give Spear a lecture on respecting his elders. Before Torix did, the lich peered at me for a split second. Torix clenched one of his hands into a fist before letting it go. The ancient necromancer turned a palm to Spear,
+
+"It's an idea I've used to mobilize my undead armies in the past. It would be impossible without your warps."
+
+Torix turned towards the entire group,
+
+"In essence, all of your talents culminated in our victory here today. Without each of you, this would've been impossible. As your commander, I wish to tell each of you that I could never have asked for a better fighting force."
+
+Several of the people here cheered. I smiled at the guy, proud of him. Glancing above his status, I found he made progress. He deserved it.
+
+Torix Worm, the Harbinger's Erudition(lvl 10,000)
+
+Good feelings aside, we prepared to get out of here. Spear cleaved apart dimensions, and I pried it further apart. As we did, another portal opened in the distance. It was golden-hued, sending a chill up my spine. I turned towards everyone present,
+
+"Enough chatter. Let's move."
+
+Those here ran through the portal as Lehesion's mammoth claws sliced our dimension apart. His golden maw reached out, one of his eyes meeting my own. I turned around, giving him a wave of my hand as I stepped through the portal.
+
+Like bandits, we got the hell out before the cavalry arrived. Our army amassed in the jungled dessert, I glanced at everybody. Everyone stared at me with expectation. Not wanting to let them down, I raised a hand and thundered,
+
+"We won."
+
+Simple as the words were, they carried a tangible impact. The gialgathens raised their heads, roaring out. Krog joined them, his entire demeanor changed from before. He looked hopeful and young as if the fight shaved a few decades of age.
+
+That same feeling applied to every gialgathens here. We were guerillas before this fight. We might save some gialgathens, but everyone understood we weren't actually winning the war. With Torix's arrival, the situation changed, along with the mentality behind it.
+
+Once the cheer ended, we handled the rest of what was left to do. The first part involved handling the injured and new members of Elderfire. Considering the size of the city, finding them homes grew in importance.
+
+With that in mind, Torix and I handled the logistics involved. He registered the new members so we knew who was here. After that, we created homes for them. With my quintessence, I molded houses of stone, keeping to general, vertical layouts. I usually reinforced the walls with steel for stability. Combine that with a bit of added nature, and they had an Aztec feel to them.
+
+Once stowed away, Torix organized a few meetings with them. Getting them accustomed to life here was an important task considering. Organizing food and other resources meant provisional efforts were needed as well. I handled most of the production efforts while Torix dispatched the resources.
+
+Settled away, the gialgathens would begin life here. Torix actually gave them regimented schedules to remain here. I discovered the details as we constructed the homes. To get the gialgathens into Schema's system, Torix created a dungeon a day protocol.
+
+Spear would warp the gialgathens into a silver infested territory and let them handle an eldritch infestation. This gave them experience and allowed us to gain more usable soldiers. Just as well, it was better than each of them wallowing at home.
+
+In a way, I couldn't blame them for that struggle. After all, this transition was difficult for them. Their lives flipped upside down after the Adair Family made its move. Because of that, they grappled with the sudden shift to military life. Sitting at home didn't seem to help them transition, and we couldn't afford that level of care either. Just as well, I recognized this wasn't the best treatment for them. The thing was, it was the only kind of treatment we had. Desperate times called for desperate measures after all.
+
+Several hours after the battle, we handled those here. Finally able to sit down and think for a minute, I walked up towards my temple cove. It was near Torix's evil lair, a few rooms down. I had nothing in the place outside of a few pieces of unfinished metal works.
+
+For the first time in a long time, I laid down on my back, wishing I could sleep. Instead, I closed my eyes for a minute, clearing my mind. Even with my eyes closed, my status popped up in my line of sight. Someone sent me a message. I considered brushing it aside.
+
+Pushing through the mental fatigue, I took a deep breath before opening my eyes and getting back to work. I could rest when I was dead anyway. I opened the message. It wasn't what I was expecting, not by a longshot.
+
+Helios Nova, Ruler of Worlds(lvl 15,000 | Guild: The Empire | Ownership: Belka-623(planet), Meliton(planet) | Class: Fringe Walker | Titles: Winter's Wrath, Cold of the Void) - Daniel. The emperor wishes to meet you and Torix after your battle at Fausel. He understands if you lack the time for a meeting. That is why he wants to visit you. We lack knowledge of where you're situated, however. That is why I'm asking for the coordinates.
+
+I understand if you're wary of open communications. Considering all that you're involved in, perhaps a personal meeting to discuss the details would suit you better? Inform me of where you would need to meet for your convenience.
+
+I closed my status and stared at the wall for a moment. It looked like my appointment with the emperor came early. Why exactly?
+
+I had no idea, but I was about to find out.

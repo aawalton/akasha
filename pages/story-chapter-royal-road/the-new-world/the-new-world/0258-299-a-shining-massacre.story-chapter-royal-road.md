@@ -1,0 +1,199 @@
+---
+id: 9125a7af-3855-5f03-90b2-59a5158d5fee
+page-type-slug: story-chapter-royal-road
+title: "299 A Shining Massacre"
+slug: 0258-299-a-shining-massacre
+partOf: the-new-world
+position: 258
+ownLength: 4261
+unit: words
+ownProgress: 4261
+publishedAt: 2021-04-06
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/659398/299-a-shining-massacre"
+royalRoadId: "659398"
+markedReadAt: "2026-06-29T21:30:00.613Z"
+---
+
+Lehesion took a step onto the seafloor, and it cracked as he grimaced, "You shall try, but you shall fail, as all have failed before you."
+
+My armor grinned, "From how I see it, you've lost against a Spatial Fortress already. You lost yet again on Gyspum if not for their nanomachine construct. What makes you so certain I'll fail if you've been at the mercy of two already?"
+
+His eyes turned to glimmering coals under his brow, "You question that which you don't understand, child."
+
+I growled, "Then come and test yourself. Let's go."
+
+Lehesion roared out with enough force to silence the region. It bounded past me, rolling off my shoulders like water dripping from an umbrella. Beside me, Helios fell to his knees, blood dripping from under his mask. Lehesion seethed, "You feel that? That is my scope. That is my magnitude. You will never exceed it."
+
+"Quit stalling and fight."
+
+Outrage surged over Lehesion's face before he condensed his aura into his body. The energy flowed without end as he bolted towards me through the water. Gritting my teeth, I met his rush. The behemoth collided with me, exuding enough force to crush mountains, but I withstood it. My arms didn't crumble, they stayed strut, and my legs didn't break. I still stood on solid ground.
+
+But Lehesion kept applying pressure, pushing me back with a clawed hand. Both my arms pressed against his scaled armor. As he crushed me into the sandy stone, he laughed,
+
+"It is as I've said. You are an insect."
+
+My armor laughed as mana saturated my frame. The will to destroy inflamed me, a point of ignition. My hands gripped his crystalline plates. Supergolems to my left and right raced outwards to evacuate civilians and Vagni while I kept Lehesion planted with my hands. I grasped harder and harder still, my muscles tightening like cords of steel.
+
+His condensed mana armor cracked then snapped, and my living armor flooded in. He kept stomping down onto me, his massive palm sinking lower. I did not descend. I sank up. His flesh and skin softened from our last bout, neither part of him as dense or overwhelming. He didn't crush me under his mass. He didn't even cause my knees to buckle.
+
+No, my hands seeped into his, and I sapped his blood, flesh, and bone. Event Horizon poured over him, the aura condensing over his skull. He grimaced, but I wanted him to hurt. I opened my armors jaws and bit into the saturated meat before me. Lehesion pulled his hand back out of reflex. My jagged jaws tore him open, and he found chunks of his golden body gored out.
+
+The delicious meat hung from my dark, metal hands and my jagged, dripping maw. As his flesh soaked into mine, I leaned down and shouted,
+
+"Come on then."
+
+Lehesion's eyes widened before he took a step back. Behind me, Helios pulled himself up from the mental whiplash of Lehesion's roar. The golden gialgathen's eye crossed over to my ally, and I grimaced. Lehesion might aim for my team instead of me. Ensuring that wasn't a possibility, I bent down and shot forward, telekinetic pads synergizing with heavy gravity wells.
+
+Lehesion whipped his tail towards me. I used my pocket dimension, his whipping limb sinking into the starry abyss. Reaching him, I grabbed the underside of his jaw, my fingers extending into bone and skin alike. He roared and whipped away, a chunk of his face tearing out as he did. Reacting in pain, he side-slashed a clawed hand. I didn't dodge away.
+
+I closed in. Ducking under his arm, I turned on my feet. Turning my hand into a dark spear, I slammed my hand into his chest. Tendrils of armor spread outward into his organs, along with my fingers before Lehesion slapped me sideways. I didn't see it, but the sheer force sent me barreling away from the beast. He was still strong.
+
+I smashed through an underwater hillside before piercing deep into the depths of Blegara. The landscape reformed under me as I pierced it. Nestled under many layers of stone, I laid broken, but my body pulled together before my eyes in a second. So quick was my reformation, it acted with a startling violence, my guts whipping together at frightening speeds.
+
+Nearby, several chunks of Lehesion spread throughout the ground. My armor shot out in hunger, absorbing them despite the ground's pressure above. Leaping out of the underground pit, I found Lehesion gawking at the wound I left behind. Exposed ribs and golden blood seeped into the ocean. That blood clouded around Lehesion as he grimaced at me. Despite the anger, a measure of panic unfolded over his calm demeanor.
+
+He took quicker breaths, his heart speeding up in his chest. It wasn't long before he composed himself, and he charged up a ball of energy around his mouth to retaliate. Before he finished, Helios made a portal in front of his jaws. The condensed energy beam blasted into Lehesion's side, wounding the massive beast.
+
+I turned, finding Helios hiding on an ice tower within the blue core's shielding. He oversaw the fight there, ready to assist when necessary. He gave me a quick nod, no retreat or fear oozing from him. No matter his past mistakes, I couldn't fault his bravery in battle. If I had my way, Helios would say the same of me.
+
+So when Lehesion charged his energy for another world-ender, I assaulted his mind. Dual consciousnesses ran rampant across an unseen horizon right at him. When the telepathic connection formed, a majestic, ancient mind lashed out at me. It found a legion waiting for its arrival. Swiveling around it, my minds evaded his attacks like schooling fish. My defensive psyche shepherded this mass and deflected Lehesion's onslaughts all at once. Simultaneously, my offensive consciousness acted as a juggernaut, tearing across the gialgathen's exposed thoughts.
+
+In one moment, I tread over memories. Another second passed, and I smashed his lines of logic. Lehesion brightened himself until blinding, but I persevered and wounded his more methodical processes. He lost control. The goliath gaped at his surroundings, staring around in dismay.
+
+It stunned me seeing how vulnerable this monster was, but it also explained how Elysium gained control of Lehesion in the first place - his strong body held a weak will. Those psionics controlling Lehesion loomed when I reached the further recesses of Lehesion's anima.
+
+There, I found a prodigious mass of minds suppressing him.
+
+They created a cord of some kind that any of them could connect with. Just grazing this enormous tether, I found thousands of minds working in unison at all moments. They maintained an iron grip over the gialgathen, ensuring no lapses in control. That's why Lehesion was undefended; his mind fought elsewhere.
+
+That mass of psionics took notice of my intrusion, and many detached from this unbreakable bond with Lehesion. They crashed into me with the unity of a nation and the malice of an enemy. As individuals, I could've smothered them. When together, they acted like a wave of ants running over a mantis. Each of them hacked away at my enormous consciousness, the minuscule traumas mounting into a beating.
+
+But I was no mantis of flesh. I was like a mantis of metal. Exhaustion and pain radiated from the mental wounds, but I held a tight grasp of my mind. I fell onto a knee, control of my left leg lapsing. I twitched, my body being arrested from me. Reorienting my approach, my defensive mind shot into action. It sliced through a connection point, weakening the assault. My offensive mind charged, ripping out psyches left and right.
+
+I blinked, orienting myself again. Able to stand, I bolted forward towards Lehesion's actual body. I couldn't afford to relent or ease up on the pressure, and so I hit Lehesion's healed chest. As I did, the minds within him quivered. They felt the unbridled agony, the crushing bone, and the ripping sinews just like Lehesion did.
+
+In the wake of that pain, they wavered for only a moment. I smiled, a drop of blood oozing from my lip. I'd found their weakness - pain. I pulled a hand back, turning on the balls of my feet and striking Lehesion. I amped the incoming blow with my gravity wells and telekinetic sharpening. At the same time, I charged my fist with pure cold. That chill seeped through him, flash freezing his muscle.
+
+Force erupted outwards, and pieces of Lehesion fell. I breathed in his blood, and I became an engine of destruction. I reached back, and another murderous strike landed across his frame. The water around us carried a shockwave that disintegrated stone. I heated my body, turning into a molten behemoth. Each time I landed a punch, stab, or strike, the mass of detached psionics flinched.
+
+I amassed heat into my body until I glowed. A thin layer of steam poured from my armor, submerging me in a thin later of air. Shards of salt fell from this dispersal of ocean water, and I smeared those shards into Lehesion's wounds as I stabbed a hand into his frame. Lehesion howled out, but his screams turned into a symphony in my ears.
+
+His pain was my survival.
+
+I honed in on this weakness. Moving forward, I shot out electricity into his nerves when I touched him. He winced, and more elements molded in my hands as I assaulted him. Burning ice left pieces of Lehesion frostbitten. Heated plumes of magma burst from my knuckles as they grazed him. Even Helios struck out with void ice as well.
+
+The ruler of worlds calculated each attack, making the most of his mana and mental endurance. Lehesion lifted a hand to strike, but Helios blocked it with void ice. Lehesion swiped a tail, and another blot of the violet snow lodged itself around him before Lehesion got momentum in his tail whip.
+
+This continued while I tore at his weakened mind. In this relentless charge, I poured on punishment in all its forms. I crushed. I froze. I electrocuted. I smashed. I ripped and gored. The endless torrent of wounds weakened the mind mages that fought against me. They retaliated in kind, sending more of their members to throttle my psyche.
+
+This mounting mental pressure stressed my split consciousnesses. At times, my physical control lapsed. Those lulls lastest for short, instant bursts before I retook physical command. Despite their success in that domain, they never gained authority of my minds. With those wills, I ripped and gouged out portions of Lehesion's body, one section at a time.
+
+I froze his blood and pulled the air from his lungs. He choked, drowning in a void. Lehesion gasped, being strangled while I sent out waves of electricity and impacts to his body. I existed like breathing darkness, a black hole swallowing a bright star. In that moment, I lost myself in anger and rage and fury. It consumed me, but I allowed it to. This was not the desperate rage I leaned on once before. It was a controlled and cold frenzy.
+
+My relentless annihilation came from necessity. Any moment Lehesion gained an understanding of his surroundings, he unleashed overwhelming strikes and attacks. Several veered off my city's forcefield, and each time they did, I trembled in fear. Everything I owned fell in that dome of energy. I put that fear behind me, using it to surge myself into action.
+
+My dread converted into an animalistic fervor. I darted in, consumed, and rampaged until Lehesion scrambled to even reply. And yet, Lehesion still pulled himself together. The psionics nested in his brain bore down hard on me, and their perpetual pressure crippled me. I missed attacks, failed magic, or even fell at times.
+
+These lapses led to the deaths of many. Hordes of Vagni perished in blindings fires, storms of light, and furious eruptions. Several supergolems evaporated in those attacks, and I still remember their deaths. My own guildsmen died while evacuating to the city as well. For some of them, I saw their faces.
+
+Those faces still haunt me.
+
+But the psionics paid a dear price for weakening me. Their tether waned in strength, and each mage sent to me reduced the Adairs' absolute control of Lehesion. This gave Lehesion more freedom. The freedom to express rage and hatred of me. His mental defenses bolstered, no longer stripped bare by his psionic controllers. His movements became less hazy, no longer dulled by the lag from being controlled. Lehesion evolved before my eyes, becoming the monster I remembered.
+
+Yet, I fell into a rhythm all my own, and in my wrath, I poured forth slaughter without end.
+
+I swung, parried, dodged, deflected, blocked, stabbed, hooked, tore, maimed, and mauled him. Each hunk of flesh I devoured played on his fears of being eaten, a fear entrenched after his encounter with his first Spatial Fortresses. I leveraged that vulnerability like twisting a knife lodged in someone's ribs.
+
+I wielded that knife in other ways. I infested his mind with insidious thoughts of being devoured. Those fears wracked at his sanity and the psionics piled more mages onto their unified offensive. I grimaced at the numbing pressure, so many minds pooling onto mine that it felt that my body wasn't my own.
+
+I allowed them to smash my consciousnesses. I lost awareness at times, forgetting pieces of the fight. Evertime I awoke, an unbridled terror flooded through me. Without my perpetual fighting, Lehesion would wipe out my guild in a blaze of light. I'd lose everything.
+
+Despite my growing desperation, I never ceased fighting. Whether I fell apart or not, I would become whole again within a second. They shattered my mind over and over again. I broke out of those deaths without fail. Even if they killed me each second, I regenerated faster than that.
+
+My rejuvenation was infinite. It defied any expectation or demand. It held my mind together under an unholy stream of damage. It struck dread in me at first, but I became comfortable with this dance of death over time. My durability became evident then undeniable. Forgoing my defenses, I kept mounting my attacks with greater fury.
+
+Each of those soul-wrenching blows and earth-shattering strikes tortured Lehesion. Over time, this frenzied, chaotic battle sunk into the wells of a monotonous slog. They grew desperate for an end, but I was unending. I'd been here many times. I made my home here, in this living hell. Lehesion had not.
+
+This torture kept mounting until Lehesion's movements slowed. He wanted to escape. He found himself in purgatory, one of my making. He couldn't sustain my punishment, yet he couldn't die from it either. Eonoth revived him even if he wished to die.
+
+He swung his tail towards me, but I soaked it into my shield and struck him. He snapped his jaws at my neck, but his maw fell onto a ball of spines. He flew into the air above for relief. Lehesion met void ice before I pulled him back into the depths. And those depths sunk deeper.
+
+I pulled him into a dark sea. Minutes of fighting turned into hours. Pain turned to misery, and Lehesion fell into this horrific eternity. His attacks, while cataclysmal and ruinous, took time to generate. His eclipse magic couldn't be cast because I offered him no room to breathe. He couldn't blow me apart with his laser breath either as Helios reflected it back to him each and every time.
+
+This disarmed his arsenal of world-ending weapons. His most potent tools voided, Lehesion relied on his physical and mental techniques. They waned with time, but mine did not. And so, I devoured with abandon. I ripped out chunks of flesh and meat, using this as an opportunity to charge my runes and gain ambient mana. I practiced skills, combining elemental energies.
+
+But most importantly, I needed Lehesion to understand that if he ever fought me again, he'd be trapped in this endless cycle. I pulled no punches as he faltered. I left no mercy as panic coursed over his eyes. His will to defy me would be expunged until nothing but a hollowed husk remained of it, one that ran from the whisper of my name.
+
+I took no pleasure in the process. I gutted him. I tore skin from flesh and flesh from bone. He couldn't escape me with speed or distance as I kept pace. He couldn't run to madness as his controllers kept him sane. Lehesion fell into that hellfire, one kindled by harm but sustained by his masters' unwillingness to give in. Despite being in the middle of that tug of war, Lehesion still remained cognizant. He tried many tactics. He spread his aura, keeping my physical form away. He opened portals for warping out, and he even tried attacking my people instead of me.
+
+For the aura spread, I discovered Event Horizon couldn't pierce it, but the Rise of Eden could. Warping proved even simpler to stop. He still had to physically jump through a warp, and I wasn't about to let him. As for attacking my guildsmen, he succeeded.
+
+I couldn't stop him from purposely crushing Vagni and the like, as he proved too challenging to control. It was a bitter pill I had to swallow, but I made sure he paid his own blood price. Reinforcements attempted aiding Lehesion, but they perished in the umbral blots of my singularities. The Adair's mental ambushes proved lethal, but I kept them minimized by unleashing wave after wave of physical anguish through Lehesion.
+
+Anytime Lehesion dove down towards me, I met his dive head-on. The resulting impulse disintegrated blocks of the cityscape. I crushed Lehesion's left arm with a sharp hook from my left hand, and the gialgathen's shearing bone released enough force to level buildings. The shockwave itself tore across the sea, leaving it unsettled like a pool being cannonballed continuously.
+
+These waves swallowed the skyline above the sea, making a mockery of the ocean's size and scale. It was like a puddle to us, and that pool rippled with an intensity unbounded—the same devastation wrought from the heat of our strikes. Even the slightest blow induced otherworldly volumes of friction. A grazing kick or shredding claw boiled the water around us, killing many in our warpath.
+
+These impacts...they killed many. Both sides suffered heavy losses. Vagni perished. Remnants, espens, and Hybrids died in mass. We scorched Saphigia until little of it remained. The sheer volume of damage made the conflict feel meaningless for us both. What were we fighting for anymore? We killed and killed but obtained no ground, neither of us.
+
+It saddened me, but I overwhelmed grief with rage. This was my homestead, a new frontier for my people. If I let Lehesion ground himself, he'd induce an apocalypse over everything we built here or the little left of it. There'd be nothing but a dried sea and a molten wasteland left behind when he finished us. We'd never expand over Earth either if Elysium knew they could send Lehesion over at any time.
+
+And so, I enacted a living hell for Lehesion. I never relented. I poured forth like an eruption with no end. I bit at his heels like a pack of immortal wolves. I mauled his spirit, and I tore his bones. At times, I felt his fear and his terror, but I swallowed that sickness in my stomach. He was my enemy, and no enemy would be left living.
+
+Eventually, Lehesion and I stood amongst a scarred horizon. We shattered swaths of Saphigia. We stared at each other, both of us exhausted. Lehesion grimaced at me, a deep disgust bubbling out, but an even more profound dismay simmered under the surface. He howled,
+
+"How do you live knowing you are an abomination? Do you ignore it? Do you hide from the pain of knowing you're a calamity?"
+
+My arm, just disintegrated, reformed in a flash. Liquid metal shot out of my torso and snapped into its previous shape, ready to go. I remained silent, but my armor laughed for me, cackling out in a haunting reverberation like metal. I spoke between its unsettling echoes,
+
+"If you choose to stand behind me, then I am your guardian. If you choose to stand beside me, then I am your leader. If you stand against me, then I am your destroyer. Tell me, Lehesion-"
+
+I spread my hands,
+
+"Where do you stand?"
+
+Pieces of his crystal armor fell from his frame, few shards of it remaining over him. Fresh scars over his skin dissipated, but the mental ones wouldn't mend so quickly. His breathing quickened as he sputtered,
+
+"You...you are only a monster. I may stand anywhere I wish with you, and it will serve no consequence. You cannot affect me."
+
+I raised a hand, and he backed away. I scoffed,
+
+"You fear being eaten when you've already been swallowed."
+
+Lehesion's eyes widened, "No. You are wrong. I am not prey. I am the hunter. I-I must be."
+
+I stood tall, "No, you are a sword that is wielded by others and swung where they cannot reach. The Adair's have torn your mind to pieces, and now I battle the fragments they hobble together. You fight without urgency because you don't fear death. You battle without cunning because you've never needed it. You even strike without intent since even a light brush is all you've ever needed to kill."
+
+I pounded my chest with a fist, "But I've wallowed in my own blood and fought through it. I've lived with death. It made me strong. You'll find I fight without mercy because I've never been allowed to have it. I strike to kill because I can't afford to do otherwise."
+
+I spread my fists, "The lives we've lived, they're worlds apart. That's why when you crushed me, I decided to stand tall even when I was in your shadow. Now that you lie in mine, you cower in the dark. That is what your reincarnation has given you - a weak strength."
+
+I spit blood into the sea, the silver shifting through the steam layer evaporating from me. The shining blood dispersed amidst the water, siphoning back to me. I stared him down,
+
+"Grow a backbone and come fight me again." I cracked my knuckles, "Or I can keep carving you up. It's your choice."
+
+The congregation of psionics controlling Lehesion ceased attacking me at that moment. A palpable relief flooded me as they did, their unrelenting pressure similar to my own. That reprieve lasted only so long as I leaned back, an inkling of concern sprouting in my chest. Something changed in Lehesion.
+
+Lehesion's eyes grew bloodshot, orange, nanomachine-infused liquid surfacing through his veins. He whispered, "No more."
+
+Around him, something snapped. Lehesion's energy spiked, and it flooded his frame until he sheened with radiation and an ominous, blue glow. I remounted my offensive on his mind, but I found something strange waiting for me. The psionics no longer defended Lehesion. They joined my own offensive, tearing as much as they could.
+
+No, they didn't tear. These mages gnawed in absolute desperation. Their urgency infected me, and I redoubled my own efforts. It wasn't enough. Lehesion wrestled full control of his mind. Once more, he became whole. I no longer faced a shell of his former glory. I faced the full wrath of a legend, his powers and instincts no longer stripped.
+
+He was the shattered god no longer. He was whole.
+
+His ancient, full luster returned. He emitted intense radiation near him, the energy encapsulating everything in a dangerous but warm glow. His scars receded, and he took deep breaths of appreciation,
+
+"Ah, I am myself again. To be given freedom is a blessing, one I've lacked appreciation for in the past. I'll do so no longer."
+
+His words sent a chill down my spine. I kept attacking his mind, and I uncovered pieces of what was happening as I did. They only made my stomach sink faster as I discovered more. I learned the Adair family helped break down the connection Lehesion had with Eonoth, the Old One. They'd lessened the barriers between the two, giving Lehesion more of the Old One's primordial, inconceivable energies.
+
+But, I hadn't faced any of those new powers. No, I had met a living factory that powered Elysium's entire stat system, even while we fought one another. The whole time, he carried the brunt of a new society on his shoulders, and I hadn't known it. Lehesion grumbled,
+
+"And with this freedom, what will I do? Tear down my manipulators? They stand beyond my reach, hidden amongst the stars. Destroy their armies? They number many, and they sprawl across planets. It would take time that I no longer have."
+
+I continued attacking his mind. Memories of our fight flooded me. When Lehesion wanted to maul, the mages weakened him. When he wished to devastate, Elysium enfeebled his attacks. As I ruptured and cleaved him apart, Elysium kept his unchecked rage shackled. The psionics faltered as I put pressure on their limiters and controls. Now, I faced Lehesion with his mind returned and his powers unbounded.
+
+And staring at me, the beast's overbearing confidence returned,
+
+"But, you stand here, Harbinger. You've earned my ire and my gaze. Now, little one, let us see if you may survive its fury."

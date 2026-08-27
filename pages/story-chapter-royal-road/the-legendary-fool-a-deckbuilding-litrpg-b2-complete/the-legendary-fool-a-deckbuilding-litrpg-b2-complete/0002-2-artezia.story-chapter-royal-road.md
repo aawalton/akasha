@@ -1,0 +1,115 @@
+---
+id: e5d04276-1531-512b-bf4c-d67a75b89222
+page-type-slug: story-chapter-royal-road
+title: "2: Artezia"
+slug: 0002-2-artezia
+partOf: the-legendary-fool-a-deckbuilding-litrpg-b2-complete
+position: 2
+ownLength: 1176
+unit: words
+publishedAt: 2022-11-15
+link: "https://www.royalroad.com/fiction/60890/the-legendary-fool-a-deckbuilding-litrpg-b2-complete/chapter/1041091/2-artezia"
+royalRoadId: "1041091"
+---
+
+Thomas stood before what he could only describe as a rend in the void itself, a tear in the space-time continuum. The portal crackled and frizzled the air around it, and its arrival was heralded by a sound that resembled a gunshot, except it was far louder.
+
+He could see nothing beyond a dark-purple membrane that seemed to be porous at first glance. A horrible realization struck him as he replayed the bearded man’s words in his mind… was he expected to… go through the portal?
+
+“Fuck. Fuck no, I’m not doing that,” Tom hastily stepped away from the portal, only to collide against what felt like a brick wall.
+
+“Listen kid, you’ll be fine. Just don’t do anything stupid and an Academy rep will be on their way to you in minutes,” The bearded man’s tone seemed to be far warmer than before, a welcome change.
+
+That still didn’t change Tom’s mind, though.
+
+“Is there danger on the other side?” Tom asked.
+
+“Danger? Ha, kid, there’s plenty of danger on your side too, y’know. Didn’t you just save a bunch of people from an armed psychopath?”
+
+Tom clicked his tongue. The bearded man… had a point.
+
+“Besides, what’s keeping you here anyway? You have no living family left, well, not any that give a fuck about you. Here you’ll be stacking shelves for the rest of your life. Nothin’ wrong with that, mind you but… you made your choice when you saved the girl. You proved that you want more in life, that you seek something greater,” The old man patted Tom on the back, before finishing his spiel, “Well that lies on the other side.”
+
+‘Shit,’ Tom thought. He was actually beginning to be swayed by the man. Not that he thought he had a choice in the first place, the bearded man had made it clear that he didn’t give a damn about his own agency in the matter.
+
+“Why me? Why not choose someone….,” Tom didn’t finish the sentence, but both understood what he met. Someone better. Someone faster. Someone stronger. Someone…. not him.
+
+“A Soul Card chooses it’s master, kid. The will of the cards led me to this planet and it took me twenty godforesaken years to find the first chosen. There are two more that I have yet to discover.”
+
+“I’m sorry but… why do you listen to… cards?”
+
+The bearded man let out a guffaw at Tom’s words, as if he had heard a particularly humorous joke.
+
+“Soul Cards are no toys, kid. They are fragments of divinity. Not that I expect you to understand, but not everyone on the other side is worthy of possessing a powerful soul card.”
+
+“Okay.. okay, fine. I don’t care about that. First, tell me where this portal goes,” Tom blotted out irrelevant information from his mind, only interested in immediate concerns.
+
+“I…,” the bearded man scratched the back of his head, “...am not sure. [The Traveller] card lets me travel to the furthest reaches of the universe, but it does not truly belong to me. But you should land somewhere within the territory of the Syrlore Kingdom, the victor of the Jackpot this time around.”
+
+“You… don’t know?” Tom buried his head in the palm of his hand. “Fine then, how the fuck will they find me then?”
+
+“Ah, you needn’t be bothered about that,” the bearded old man pulled out a metal Deckholder that had runic markings etched upon its silver sheen. He withdrew an unimpressive looking paper card that had an inverted ‘T’ symbol drawn upon it, a snake coiled around the vertical axis. He pressed it against Tom’s chest and it…vanished… inwards? Disappeared?
+
+“What did you do to me?” Tom asked, feeling no different.
+
+“Drop the suspicion, will you? It’s a disposable tracking card. The moment you reach Artezia, it’ll let the [Syrlore Academy] know.”
+
+“Okay, okay,” Tom muttered under his breath. “If.. I have to go,-”
+
+“You have to. Not negotiable.”
+
+“Fine, then I want a weapon,” Tom blurted out, refusing to go without some manner of protection.
+
+“Trying to get a freebie, eh? Well, I don’t mind a little ambition,” The bearded man gave an approving nod, before pulling at the hilt of his lacquered cane. A thin, sharp rapier revealed itself, shining under the glare of the fluorescent lights.
+
+“Is that a magical weapon?” Tom asked, with wonderment in his eyes.
+
+“....What?” The bearded man replied, confused. “No, I got it off a pawnshop. It matched my aesthetic.”
+
+“.....,” Tom snatched the rapier from the bearded man’s hands, slightly blushing from embarrassment. “Give me your gun, too,” he demanded.
+
+“Hmm. No cant do, kid. Can’t have you shooting the people who come for you. Not all of us are invulnerable to bullets, you know.”
+
+“Fine…,” Tom sighed.
+
+“Oh right, kid. What’s that?” The bearded man pointed at the ceiling, his expression one on interest.
+
+Tom followed his gaze with curiosity, but seemed to find nothing of interest but the ceiling.
+
+A swift kick landed on his back, sending him stumbling forward.
+
+‘Fuuuuuuuck no,’ Tom protested his mind, as he flew straight into the portal.
+
+An amused “Classic,” was the last word he heard.
+
+The transfer was nigh-instantaneous as Tom stumbled forward onto the other side. He landed hands forward on what felt like soft, grassy earth that muffled his fall. His grip on his rapier was still firm, and he had enough mental awareness to not have it cut himself accidentally.
+
+He took his first breath of air, causing his eyes to widen in shock. The air… was so clean. As if.. Pollution was not yet a concept that existed in this world. No.. that was not all. The air seemed to purify him, the effect so weak that it could be mistaken for one’s imagination, but Tom did not think so.
+
+He warily got back up onto his feet, his expression wary as he scanned the environment.
+
+He was in a … lush forest. Except the trees were way to fall, the grass was purple and the chittering of insect life was suspiciously absent. He looked up into the sky and winced. Atleast there was still a sun, though instinctively it felt different… strange, unfamiliar from his own sun. Tom hadn’t the damnest idea why he could tell, but he could.
+
+A message, in card script popped up in front of him, startling him.
+
+[The Divine System welcomes The Fool to Artezia.]
+
+[Inventory is now available]
+
+[Player Statistics are now available.]
+
+[Passive Skill Shroud has destroyed a foriegn tracking mark that had been placed upon you by a neutral entity.]
+
+Tom’s expression was unchanged as he read through the first three notifications, but when his gaze flitted to the fourth….
+
+“No. No, no, NO! This… this can’t be happening…”
+
+[The Divine System has given you a quest!]
+
+[Quest: Survive.
+
+Alone in an unfamiliar new world, the tracking spell meant to help you has failed due to your own Foolish nature!
+
+Find your way to civilization.
+
+Reward: 1 Common-Rank Offensive Card. 1 Common-Rank Deck Holder.]

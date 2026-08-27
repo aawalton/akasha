@@ -1,0 +1,135 @@
+---
+id: 9b6563a6-c30c-56f0-af33-aea801fb3905
+page-type-slug: story-chapter-royal-road
+title: "327  Expansion of Will"
+slug: 0286-327-expansion-of-will
+partOf: the-new-world
+position: 286
+ownLength: 2868
+unit: words
+ownProgress: 2868
+publishedAt: 2022-02-03
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/837901/327-expansion-of-will"
+royalRoadId: "837901"
+markedReadAt: "2026-06-29T21:31:01.848Z"
+---
+
+Taking my first step into using my new grimoire, I tested out a few of the page's molding abilities. They mirrored how my armor moved but with a greater focus on precision instead of power. While I could mold my armor with immense force, getting it to hold details was beyond me.
+
+Testing that for a bit, I managed to mold Schema's runes onto a clean patch of my armor. While imperfect, they'd work well enough. Attempting to get the cipher out of that shaping was a pipe dream, by comparison. No amount of control over my armor allowed for that degree of finesse. The silver pages carried that control and then some.
+
+They acted as visualizers, shifting into place as I envisioned different images. I could have a sheening page mirror a sunset in one moment, and a second later, it would turn into a desert full of dunes. The precision carried a lifelike level of detail, my memory the limiting factor rather than the page's fidelity.
+
+That improvement didn't even include the references I could use. I moved back and forth between different editions and edits, a history of changes compiled in the grimoire. Comparing earlier versions and cross-referencing changes all arrived in real-time. It was like chopping a tree with a chainsaw instead of a wooden ax.
+
+In fact, I fumbled even thinking about how I managed without the grimoire before now. I found my answer in moments.
+
+I handled it poorly.
+
+Taking a moment, I inspected my previous iterations based on memory. I snapped my fingers, realizing the sheer audacity of them. I attempted fixing them, but no matter the number of edits I implemented, they carried fundamental errors. It was like trying to make a building out of air. No matter the approach, it wasn't as effective as using concrete or stone.
+
+That's when I panned back and approached the issue from a different angle. Taking a moment, I moved back to some of my earliest runic iterations and compared them to later versions. The detail of my newer work shined through, but it also carried a muddiness to it. My more recent runes lacked the raw, emotive energy I boasted before.
+
+Peering close, I found the cause - Etorhma and Eonoth. The two Old Ones 'gave' me knowledge on the cipher, which helped me at the time. However, it held me back from taking the next step forward in my runic progression. The root cause came from how the cipher worked.
+
+It relied on perspective. By having a unifying, singular idea, the sigil's ability to work magic exponentially increased. In a way, the runes fused the rigor of science and the emotion of art into a singular experience. It required a lot of energy, time, and effort for someone to hold those two lines of thought in unison.
+
+But not me. Not anymore, at least. I had three minds hold onto different emotionally charged veins of thought. At the same time, three other psyches siphoned that raw, moving energy into a focused, highly methodical stream of runes. This turned one mind's struggle into many minds' triumphs.
+
+At the same time, I eradicated the influence of the Old Ones. It took quite a few edits before I regained my old style, not wanting to use their specific techniques and 'flow.' They hampered the unity of my work, and by keeping it within my own minds, I retained a more focused identity. It shined through in the sigils themselves, my test moldings potent and effective.
+
+Being able to test runes like this without carving saved me so much time as well. I turned those savings into iterating my process over and over and over. I lost track of my surroundings and time as I kept honing different angles and approaches to the runic markings. I created different versions of each rune, comparing them to take the best parts from each imperfect whole.
+
+After having many configurations come together, I did the same thing many times. My new process reminded me of a team of researchers experimenting, and like a fervent scientist, I toiled over the runes. I put my heart soul into them, and they gave back to me in turn. After a while, I alternated my mana type to quintessence or ascendant manas to hold different emotions better.
+
+From the brutality of my battles to the joy of building my first cities, I held onto each logic strain like a precious memory. Once locked into the zone, I changed back into my primordial mana type and shifted the silver pages before losing that emotional connection. The perpetual changes in my dimensional wake left me exhausted after a while, but the result paid off.
+
+I stared at a rune that stretched long enough to wrap around my arm several times. Before, it spoke of endurance and what it meant to me. Now, it carried a story of my journey with each principle, my feats like bright beacons in the runic markings.
+
+They showed my plight in BloodHollow, the despair of Yawm, and the dread of Elysium. The runic markings held onto my fears and adversities as well, becoming more than the sum of their parts. Like the runic marking across my back, this sigil carried a depth my other etchings lacked. Before I patted my own back too much, I took a moment, inspecting my work for flaws. They still existed, but fixing them was beyond me. I tolerated this version for now. Putting my hands onto my booklet, I changed to the Rise of Eden since quintessence generated the most potent objects.
+
+Wielding it, I put all of my minds to the task of using furnaces. I created many layers of dimensional bubbles to prevent a mana fallout, isolating me from my surroundings. After a while, I put my grimoire into my pocket dimension and channeled from there. It contained the forces without any issue, and I resolved to use this method in the future.
+
+As it finished, the runic markings couldn't finish in the absence of time. With the mana fully realized, I pulled my tome out. Surrounded by my dimensional bubbles, the radiating energy deflected back into my capsule. The runed finalized the charging in a flash, but it paled in comparison to the grimoire's creation.
+
+Instead of finding glowing symbols, I peered at umbral markings. They acted as the opposite of my previous runes. Where they once glowed, they now dimmed their surroundings, a blot of black drifting from the pages. The hungry runic markings crawled back towards me.
+
+They squirmed into place like a writhing insect hungry to suck my blood. Furthering that comparison, the marking drained mana of its own accord. I peered down at it, the siphon growing by the second. After a few minutes, it exceeded my previous rune's limit. After an hour, it carried a killer edge, requiring over a hundred billion mana just to stabilize. Scary as the drain was, it worked in my favor.
+
+I once honed in on generating mana, converting it, then putting it into the runic markings. This new rune gobbled up any mana source I gave it, the markings dimming everything around it without my input. Without needing to stabilize the mana or feed it in a specific direction, the marking allowed me to focus purely on mana generation without the conversions.
+
+Requiring a full eleven minds at all times, I meditated for a while to adapt to the strain. Staying more in tune with my body, I noticed the increasing endurance, willpower, and mass. The rune still added pounds as before, though not as quickly as my previous sigils. With everything put into place, I took a deep breath and wiped imaginary sweat off my brow.
+
+It was a job well done.
+
+Getting out of my dimensional bubble, hours passed while I sat in there. Plazia and Torix left, both of them gone. I reached out, tapping the concrete floor. The vibrations paired with Plazia's gravitational fluctuations told me he rested in another isolated area beside me. It mirrored the dimensions of this room.
+
+The guy made a new room, and based on how long I stayed here, I couldn't blame him. Before leaving my new primordial playground, I rubbed my hands together and considered other boosts I could handle right off the bat. My armor outright evolved since I updated everybody's gear, for instance, so I went about recreating everyone's various armors, trinkets, and accessories.
+
+I began with Althea's cannon, the project being one of my favorites to work on. The design from before wasn't bad, and a gun not being the most complex creation either way. Making one requires serious technology due to the precision requirements, but my methods of molding armor eased me through that bottleneck. Using Diesel's designs, I kept to their iterations, knowing I understood little about engineering as a whole.
+
+I improved on certain parts of the design for Althea's polymorphing abilities. For instance, I created a latched opening leading to the scope. Althea could mold an eye into it if she wanted, letting her hold multiple perspectives at once. Another utility involved a set of cipheric augments on the stock of the rifle.
+
+A simple telekinetic enchantment dispersed the recoil into the nearby air. This prevented the rifle from causing issues for Althea while firing. It required much less mana than gravity wells did. I finished it off with a brand new set of cipher runes, eliminating any traces of Schema's weakened language or the Old One's influence.
+
+Finishing her set-up, I created another wire mesh suit of armor for her. This time, I took a long, hard look at the gravity well's adjustments. I weighed ten times more than before, meaning armor made out of me utterly smothered people wearing it. At this point, the armors would need to mirror motorized exoskeletons more than just metal plates.
+
+Rubbing my temples, a lightning strike of inspiration struck me. I took my neural augment approach with my grimoire, and I came up with a way of using it on the armor. It required using my insights of converting mana into mental processing power. This essentially did the same thing, using my fabric's innate mana production to do so.
+
+I kept the mental processing it produced related to movement-specific functions. I then tied that to a mind with only the capacity to move, giving it very narrow limitations. I prevented it from overloading the person wielding it by containing these features in the exoskeleton's mind.
+
+At the same time, I put a telepathic tethering on the armor. With a simple thought, a person could link up to it through a golem core stored in its back. The movement-based mind acted like a set of controls for the armor, essentially.
+
+Scratching my head at the creation, this mirrored a runic-based set of power armor. After finishing the first production, I peered at it from a few angles. It hovered in place via its own gravity wells, and when I stepped close, the plates and wire mesh moved to open and close around me. I rubbed the back of my head, wondering how powerful this thing made an average human.
+
+They'd be a super soldier if I had to guesstimate.
+
+I iterated these improvements across several sets of armors, and each specialized for different team members. I made Althea two different versions, one for war and one for stealth. I did the same for Hod, making sure our shadowy Eltari could always hide and warp through the shadows if need be.
+
+Other members of the team didn't require two sets. For Krog and Chrona, I kept the armor geared towards waging war. In particular, Chrona's plating thickened the most. Her temporal magic made her a mobile fortress, and the thick plates played to that advantage. For Kessiah, I kept the mana streams and available defenses high as well.
+
+Amara's suit came out about the same as before but with more strength augments. The most challenging person to handle was actually Torix. His entire body was essentially an old, outdated version of my current armor. The transition to a new body required a lot of life force, and it needed blood sacrifices. Possible to do, no doubt, but it was a hassle. More pressing of an issue, the mana production might overwhelm the guy.
+
+It was one of the most perplexing issues about mana. After a certain point, it gained thoughts and a life of its own. Quelling that growing consciousness required discipline and experience. Otherwise, a person became possessed by their mana, in a phrase, mana devolution. It happened to Alfred Worm, Torix's son. It almost happened to me early on while dealing with my armor.
+
+With my current mana production, I held on because my willpower expanded to otherwordly heights. Torix's would no doubt be impressive as well, but he may be overwhelmed in the end. Instead of pressing forward, I took the road of caution here, not wanting my master to be turned into a mindless abomination.
+
+Instead, I'd wait until I created mental constraints for these armors. Peering at the massive pile of gear, I wondered how people would respond to them. These armor sets were implanted into individuals and synced with their minds, much like the Omega Strains. Unlike those viruses, these armor sets gave way to absurdity. They could easily overwhelm their wearers.
+
+I intended on handing them off, one by one, and I'd ease people into the process of using them. I wouldn't leave Torix empty-handed, however. Before moving out of there, I brainstormed a gift to take the edge off. After a minute, I face-palmed. Of course.
+
+I could make him a new grimoire.
+
+Keeping the ball rolling, I settled into another installment of crafting. Using a previous outline for my own grimoire, I found a less emotive version. This acted as a generic template in the production process for comparisons. Taking an hour, I honed in on a few adjustments for Torix, so it meshed well with his own grimoire ritual.
+
+After channeling the mana for a while, I cusped on its creation in my pocket dimension. A quick knock on Plazia's door, and I found the hivemind sitting cross-legged. He meditated or at least looked like he did. As I stepped up, his voice radiated from all around, "What is it you wish for? This room as well?"
+
+I raised my brow, "I need another portal to disperse a grimoire's energy again. I made one for Torix."
+
+Plazia sighed before swirling his dimensional slicer. He cleaved time and space apart before sitting back down. After Plazia cast a bit of silencing magic on me, I finished dispersing the energy for Torix's grimoire. It was the first of many. I ended up creating grimoires for Kessiah, Althea, Hod, Krog, and Chrona.
+
+I made minimal adjustments for most of them. These grimoires wouldn't be used for massive incantations, only for easing everyday magical procedures. After finishing the process, I walked out of Plazia's meditation center, the room identical to my own. Plazia seethed,
+
+"Please, learn to warp, so I don't have to focus beside you while you go about dumping excess energy."
+
+I gave him a thumbs-up, "No promises, but I'll try."
+
+Pacing back into my room, I created rings for everyone using an updated, more robust version of the previous runes. Handling another tune-up, I adapted the sigil strata for the golems. It was a brush-up, not a full remodel, which irked me while in my primordial mode. Outside the aura, I was just fine with it.
+
+Getting everything stashed away in my pocket dimension, I took a breath, readying myself for reactions. Several days passed while I crafted, each component requiring a long time to finish. I lost myself in the process, kind of in my own world of crafting and whatnot. Snapping me out of that walking dream, a special notification pinged out in my mind.
+
+It stood out because it mirrored a trumpet's ringing rather than the usual, satisfying bing sound. I opened the message, and I furrowed my brow.
+
+It looked like Schema was on the move.
+
+Hello Sovereign, you've been selected as a part of the 7,821st galactic council! As a new Sovereign, you shall be allowed to make an introduction to other ruling members and be allowed to speak with several Overseers and Schema free of charge!
+
+| Note | Length of talk varies. You shall be meeting with other ruler sub-class members, each of you representing the might and prowess of your guilds.
+
+You'll also be expected to create alliances with other guilds and form a tight-knit, galactic community! That's the Schema way! Due to the war with the rebels, donations will be mandatory, but Schema's not going to hold an event like this without the chance for an award. A lottery will be held with a special mystery prize!
+
+Who will win it? It's time to find out!
+
+| Note | Non-participation is considered a declaration of war against Schema. Noncompliance will not be tolerated.
+
+Time till meeting: Galactic standard time - 4 hours. Earth time - 3.5 hours.

@@ -1,0 +1,295 @@
+---
+id: 8b8b502c-633c-59e5-8dd4-7eff8e90d7c1
+page-type-slug: story-chapter-royal-road
+title: "258 Newfound Reason"
+slug: 0217-258-newfound-reason
+partOf: the-new-world
+position: 217
+ownLength: 3741
+unit: words
+ownProgress: 3741
+publishedAt: 2020-05-27
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/501988/258-newfound-reason"
+royalRoadId: "501988"
+markedReadAt: "2026-06-29T21:28:26.953Z"
+---
+
+-Daniel-
+
+I turned to Torix, "Well, that was different than I expected."
+
+Torix beamed with pride, "I as well. Who'd of anticipated that I would be the first one he'd ask the assistance of. It's quite flattering, I must admit."
+
+I rolled my eyes, "Alright, don't get too smug about it." I frowned, "If I'm honest, I don't think it's a good idea either."
+
+Torix nudged me with an elbow, "Ah, is my disciple worried he shall be overshadowed perhaps? Fear not. Your strengths are invaluable...That isn't it, is it?"
+
+I shook my head,
+
+"No. Using mind magic against the Adairs? That's ok because of what they've done to people. The people rebelling in the Empire? We don't know why they're doing it, who's involved, or anything really. Going in and brainwashing groups of people for someone, and all for our own gain..."
+
+My voice trailed off before I sighed,
+
+"I don't think that's the kind of guild I want to lead."
+
+Torix thought for a moment, picking his words carefully. He raised a hand, "I understand that sentiment. Mind magic is a wicked, sinister thing. It's a tool that allows you to violate the most sacred piece of another's privacy. That is worthy of deft handling and fearful usage. At the same time-"
+
+Torix raised a fist, "We are against a threat also worthy of that same fear. Lehesion could wipe Mt. Verner from the map in seconds if he so chose. Elderfire is at the same risk. All he needs is the location, and everything we worked for is destroyed in an instant. The only remains of the wreckage shall be you and I."
+
+Torix put his hand on my shoulder, "That is what I believe would be most tragic. I would awaken alone. You...You would be amidst the carnage, the only soul living."
+
+Torix's blue fire eyes turned into a darker shade, "I...I could not bear to witness it."
+
+Flashes of Hod, Althea, Kessiah, Diesel, even Amara flashed in my eyes. Watching them all be slaughtered, just the thought of it made my chest seize and my palms sweat. If I could still sweat, that is. Either way, Torix made a good point. Lehesion was unstoppable for us, and we weren't able to muster up enough oomph to face him down.
+
+Yet.
+
+An idea popped in my head. I still hadn't unlocked a class yet. If I could do so, I could close the gap between Lehesion and I. Maybe not close it all the way, but I could at least shorten the distance. Combine that with an elemental furnace, and the sky was the limit.
+
+I raised my palms, "Those are valid points, but what if we had a different solution for taking on Lehesion?"
+
+Torix crossed his arms, "Like what?"
+
+"I have a class called Sovereign waiting for me. It will be a massive power spike from the system. If I could unlock it before Lehesion finds us, then we won't need to do this sort of thing. We'll be on even footing."
+
+Torix raised a hand, "Ah, you do lack a class, and it would accelerate your growth dramatically. Perhaps that would be a method of taking on that golden behemoth. How many more stat points would you need for it?"
+
+I checked out my status, and my heart sank.
+
+"6,227..."
+
+Torix facepalmed, "By Schema, my apprentice has lost his mind. We merely need to wait a few decades for you to finish off your tree."
+
+I raised my hands, "Wait a minute, there might still be a way to shrink that gap. I haven't gotten dungeon cores in forever. I could get all of the ones I can, invest them in my skills. After that, I could complete another legendary skill."
+
+Torix scoffed, "A Legendary skill is not created so easily. Besides, you may only have one at a time-"
+
+"I already have two. I'm aiming for another to make a Sovereign skill. That's where the class came from, actually."
+
+Torix gawked at me for a moment while standing still. He sighed, "Ah, I'd forgotten. Apotheosis was it? Quite the name for quite the ability. It could work, though at times I wonder if Schema's rules even apply to you."
+
+I grinned, "They're not steadfast, that much I know.""
+
+Torix shook his head in disbelief, "If...if you can make that madness work within a few weeks, then we may turn down the Emperor's offer. Otherwise, it will be far too large a risk for our guild. It's only a matter of time before the Blighted Schism spreads, whether Giess is glassed or not."
+
+I shrugged, "It's worth a shot. I'll go check out the galactic market for red cores and see what it's like. I can pay for what I can buy and harvest the rest from other dungeons."
+
+Torix opened his status, "We have a few in reserve. That should assist you with your hunt."
+
+After glossing over how many I had left, I winced,
+
+"Ah man, I'll be needing over 200 of them."
+
+Torix let his hands flop against his sides, metal ringing against metal, "How have you fallen so far behind in your core assimilation? That's absurd."
+
+I shook my head, "Look, I've been swamped lately, and my levels shot up several times here on Giess. It isn't like I've been able to do anything for my status for a while now. I'm actually behind on putting points in stats."
+
+Torix waved his arm, "But of course. You're strong enough to lack a need for optimizing your status. It is an unequal world we live in."
+
+I narrowed my eyes at the guy, "Come on now. I know I'm not Mr. Updates-All-the-Time, but I optimize very well for my fighting style. That is the only reason I've made it this far."
+
+Torix relented,
+
+"I know, but hearing about something like leftover skillpoints from leveling...It's as if it doesn't matter to you."
+
+I frowned, "That's because it doesn't. I haven't needed to get stronger in a long time. I've been focusing on getting stuff done rather than extending my own power. It isn't as if surviving has been a huge issue, either."
+
+"Ah, that would explain it. Why focus on self-betterment when you are already good enough?"
+
+I raised my eyebrows, "Well, I'm definitely not good enough anymore. Lehesion doesn't seem to have limits, but we'll figure that out after I've got a class. I need to run a few calculations real quick. After that, we'll talk about the sieges on the rest of Giess."
+
+"I shall be in my lair, organizing the information as I need too for our success."
+
+I walked off towards the portion of the temple that acted as my room. I found vines and moss prying their way into the depths of this ancient cathedral of sorts. The jungle expanded outward, no longer restrained by my magic alone.
+
+That manifested most in my room. It wasn't a horrible change, the empty, stone walls lavished a bit with some greenery. I situated myself on the ground, amidst the moss and mushrooms. There, I opened my status.
+
+It had been a while since I even viewed the thing. Glancing at it, I had quite a few skill points to allocate.
+
+I also found my constitution coming up to fifty thousand. It was an absurd amount, enough I didn't need anymore. Raising my hand, I remembered my battle against Lehesion at Astelle. I could rival his mass at this point with the augments of gravity.
+
+Glancing at my runic carvings, I took another look at their bonuses.
+
+[Modifications - The dimensional fabric composing this structure has been modified with code from the dimensional cipher. The rewards are as follows.
+
++7,121 Constitution
+
++6,083 Endurance
+
++5,557 Perception
+
++3,042 Willpower
+
++1,777 Luck
+
++72 Strength
+
++72 Dexterity
+
++0 Charisma and Intelligence
+
++100% to Effects of Legacies
+
++ 50% Internal Motivation Multiplier
+
++1.4 Trillion Ambient Mana]
+
+I gawked at the numbers, kind of stunned that Constitution now got more bonuses from the cipher than endurance. The boosts my cipher inscriptions got from my last evolution were now paying dividends. Altogether, my cipher augments gave me over 23,000 skillpoints, which rivaled about 6,000 level ups, even including my tree bonuses.
+
+Damn.
+
+Combine that with the other effects, and these bonuses mattered more than levels did now. Until I unlocked my next class, this was the vast majority of my progression. Considering that was the case, it was about time I reinvested in an old, reliable friend.
+
+Endurance.
+
+Bolstering the stat would let me buff all my other stats more quickly since it gave me the most mana. That was the name of the game now - the more mana, the better. After getting a lot of points in it, I'd probably invest in intelligence. It never hurt, and it would result in a natural boost in my mana once more.
+
+That being said, I turned through the pages of my grimoire, the liquid metal between the pages shifting. I forgot I destroyed my last grimoire, and with it, the endurance rune as well. The new goal ahead of me, I rewrote the endurance passage I created before. I used the new knowledge gained from my other experiences, along with the dual layering technique.
+
+Because of those adjustments, it took two hours to finish the familiar marking. After channeling the mana for another hour, the enchantment shined with quintessence mana. It felt good to sit down and craft for a minute.
+
+After creating the glowing, tracing lines, they floated in the air. Careful and concise, I set the markings back onto my wrists, rewriting my constitution runes. With a quick re-siphoning of my mana, my endurance began a slow, steady rise. An Elemental Furnace could change my priorities, but I lacked one for now. I would act like I'd never get one until then. For now, this was my plan going forward.
+
+With that handled, I checked out my status once more. A quick few clicks later, and I put my extra points into endurance. It was an easy way of giving it another little boost. Finishing that quick assessment, I counted up the easy skillpoints I could get.
+
+After scrolling through the history of my additions, I found that creating a legendary skill usually created over 1,000 tree points. The cores could get me right at 2,300 of them as well. That put me right at points into Sovereign, which meant only a few weeks of grinding would finish the tree.
+
+Getting that many dungeon cores would take a long time if done by hand, however. I opened my obelisk, accessing a galactic market. After a bit of searching, I found red dungeon cores sitting at around 500k for a single one. It was an atrociously high price for anyone.
+
+Well, anyone who gave a damn about money.
+
+A few minutes later, I opened a call with a fence that sold the things for Schema. I wasn't about to blow my fortune on something without negotiating first, and negotiate I did. Half an hour of heated discussion passed before I drove the price down to 430K apiece.
+
+I argued a bulk purchase like this guaranteed enormous revenue, reducing the overhead for each core. That ensured that the fence was getting a much higher profit than usual, even at a lower price. The little weasel tried every trick in the book to convince me otherwise, but I stayed my ground.
+
+In many ways, it was one of the hardest battles I'd fought in a while. Either way, within a few minutes, I had a stockpile of 230 cores waiting for me at a galactic currency exchange anywhere. It only cost...99 million credits.
+
+Ouch.
+
+All the money from killing Yawm only amounted to this much, which was a bit disappointing. The cost aside, I needed the cores and now. That was the entire point of money, convenience. Hoarding it now meant I'd probably never use it.
+
+Heading over towards the Sentinels and clerks at the center of Elderfire, I found them waiting in the middle of the night. One of the receptionists even dosed off. After a few surprised gawks later, I carried a clump of resonating, red dungeon cores back to my base.
+
+Minutes later, I assimilated them. I put all the extra stats into endurance. I had one last selection to handle, and that was which skill to put all my points into. I decided on Apotheosis. It was my second legendary skill, and it was lagging way behind Force of Nature. 2,300 points later, and I opened my tree menu.
+
+Putting all my stored tree points into Sovereign, I passed another threshold. With it, another quote came in from Schema, trying to help motivate me if I had to guess.
+
+In this manner, you construct history in every moment. In your choices, you decided to become a living monument, a colossus of knowledge, and a giant of ability. This competence lends to all under your mastery, and it will grant you tools beyond a normal sentient's wildest dreams.
+
++ Now when your legendary skills are used to create a sovereign skill, the slots will reopen for further use, effectively extending the legendary skill cap to six total legendary skills. 3 in the Sovereign skill and three outside of it.
+
++ Guild Leader level cap upgrades cost 50% less.
+
++ Allows ownership of worlds through clearing eldritch (*Explained below)
+
+Class Completion: 50%
+
+*World Ownership: Owning a world is a big responsibility, but it comes with some pretty hefty benefits too! As the owner, you receive 1% of the credits generated on a planet. Your home planet of | Earth | would net you 900 billion credits yearly from this ownership. That's a whole lot of credits!
+
+Claiming ownership requires action, however. Your guild must be responsible for clearing over 50% of the total eldritch on a planet. That requires a tremendous investment of time and resources, cities, and various other benefits. At the same time, this stabilization process helps the citizens of a planet tremendously. It also enhances productivity dramatically, along with the quality of life.
+
+After all, it's difficult to do anything when world-ending monsters roam the hillsides, isn't it?
+
+World owning also comes with a lot of personal power in how your world is governed. Do you wish for a dictatorship where you control everything? No problem, though you still must follow standard taxation protocol as Schema dictates. Further details will be granted upon gaining ownership of a planet.
+
+Your guild also can begin forming embassies on other planets if you own a world. Simply create a city around on their planet in a location they deem acceptable.
+
+With that in mind, make sure to hurry! Other guilds will attempt to take control of your planet by helping handle the eldritch there, often for free. It won't be free for long though once they're in charge! You can get a leg-up on other guilds by showing up on a planet quickly and establishing yourself early on.
+
+Go get started killing the eldritch, or else someone will do it first!*
+
+I shook my head at the sheer advertisement feel of the explanation. Overall, the bonuses, much like the last ones, were delayed once more. This gave me very little right now, though maybe the level cap increase might be useful at some point further down the line.
+
+For the most part, the tree's usefulness came from information about how the Empire operated, along with Schema. Ownership was dictated on how many dungeons you kept cleared and suppressed. If you handled the majority of them on a world, then you got say on how that world was run.
+
+It was a simple, succinct way of dishing stuff out. It also led to the hyper-competitive handling of eldritch. It did clear up new worlds quick, which prevented more fringe worlds from forming. On the other hand, giving this kind of power to anyone seemed short-sighted.
+
+This was how the Empire owned several worlds. They came in, cleared out eldritch, then took over once they hit the benchmark needed for ownership. After that, the culture was suppressed, the albony were given enhanced statuses, and they were given a juicy cut of the credits. Those credits fueled the Emperor's escapades into the unknown.
+
+I didn't really know what to think about it.
+
+On the one hand, my exploration into far-out villages was bleak. Most of society collapsed from Schema's initial coming. His tutorial killed many of the young, elderly, and sick. In one fell swoop, planets lost lots of their amassed skills and wisdom, resulting in a dramatic loss in general productivity.
+
+Combine that with the hordes of eldritch roaming around, and the worlds would be in chaos. A guild like the Empire was a hell of a lot better than everyone starving and being eaten, so a big guild would come in, clean shop, then rule. Hell, there could be meetings about this kind of thing between large guilds. They could slice up territories and worlds like slices of pie, each of them negotiating to stifle competition.
+
+I lifted my palm. I was becoming one of those guilds.
+
+With a deep sigh, I gave my cheeks a few slaps. Getting lost in my thoughts wasn't helping anybody. At least I knew the Emperor owned a Sovereign skill since he owned worlds.
+
+Well, unless there was some other way of owning a world. It didn't seem like a common thing, however.
+
+Refocusing, I opened my status for the final inspection. I got everything done that I could. Clicking finalize, there was a rush of energy.
+
+The most palpable difference came from Apotheosis. I didn't gain any new concepts at once, but the skills I finetuned up to this point became second nature. I reached up a hand, casting a gravity well with quintessence. It no longer carried the same awkward clunkiness as before. The mana converted silky smooth, easier than walking.
+
+Apotheosis also helped with my crafting, along with some of my influence skills. Those changes would take time to manifest themselves. For now, I satisfied myself with the ability to shift mana types with zero effort.
+
+I rolled my shoulders, the physical changes meaningful but not as dramatic. I was already fearsome physically. Experiencing a rush of power was based on the comparison. The stronger I am, the more of an enhancement it takes to notice it.
+
+I counted my blessings that it even registered. Either way, it turns out the cores, levels, and cipher marks made a difference.
+
+The Living Multiverse(Lvl 11,000 | Current Influence: The Rise of Eden - Attributes increased by 30%)
+
+Strength – 38,998 | Constitution – 54,728 | Endurance – 102,553
+
+Dexterity – 20,580 | Willpower – 74,370 | Intelligence – 41,587
+
+Charisma – 15,485 | Luck – 22,070 | Perception – 17,412
+
+Health: 91.2 Million/91.2 Million | Health Regen: 685.4 Million/min or 11.4 Million/sec
+
+Stamina: Infinite | Ambient Mana 3.567 Trillion
+
+Mass: 6.11 Million Pounds(2.78 Million Kilos~)
+
+Height: 12'8 (3.6 meters)
+
+Damage Res - 99.12% | Dimensional Res - 100%
+
+Phys Dam Bonus – 17.1 Million % | Damage Bonus – 40%
+
+The Rise of Eden - enhances base stats by 30%, increased to 40% to allies within radius of aura.
+
+The main difference from my last check-in was the sheer difference in my raw strength. I was over twice as strong, and that was mainly due to a few trees, the stats piling over, and my cipher encryptions for constitution. That caused a slow, gradual increase in my physical might, something I didn't notice much.
+
+Despite the gradual increase, the impact was palpable over time. The fights on Giess also gave me plenty of mana from draining the Hybrids. That accelerated my attribute growth, and that's why my constitution was enormous now.
+
+It still paled in comparison to my endurance, but that attribute was the cornerstone of my build. At this point. I outdid the most die-hard specialists with my attributes. Those stats drove a lot of my progress, and it explained why someone like the Emperor didn't affect me much. We were equals despite the level difference.
+
+Getting the class would assist with my overall progression dramatically from here on out, however. The cipher channeling guaranteed some progress, but the 250 bumps from each conquered city didn't mean much anymore. In a way, I was beyond levels and stats now, and I needed ridiculous, reality-warping skills to progress.
+
+Those thoughts went through my mind as I walked back to Torix's lair. Marching in, I raised a hand,
+
+"So, I managed to get a lot of extra stats, but I wasn't able to fully unlock my class yet."
+
+Torix had a few of my mana bombs, and he inspected them with a magnifying lens made of mana. The lich stared at his work as he grumbled,
+
+"Classes are not so easily unlocked, I'm afraid."
+
+I weighed my hands back and forth, "True, but I got to 6,800 in my Sovereign tree. I'm over 2/3rds the way there."
+
+The necromancer shook his head, "A ten thousand point tree. By Schema, it's ridiculous." He sighed while turning to me, "It should only take a few years of dedicated practice to finish off the remaining few thousand, correct?"
+
+I shook my head, "I need another legendary skill, and I'm good. How am I going to do that? I've got no idea. I'll just brainstorm it late-"
+
+I gawked at my status. Torix crossed his arms,
+
+"What is it?"
+
+I shook my head in disbelief, "The Emperor...He's calling again for some reason."
+
+Torix scoffed, "Oh, I'm certain the Emperor of a multi-planetary empire is just giving you several calls a day."
+
+I shrugged, answering the call. From it, the Emperor's scarred face and imposing frame showed itself. What he lacked was his natural, effortless confidence. Exhaustion and anger smothered his face, the scars coming to life.
+
+Before this moment, they were like little props that gave him a gruff appearance. Now they revealed a warrior's past, one that climbed mountains of corpses, and someone who already owned a Sovereign skill. I scratched the back of my head, a bit nervous.
+
+"Uh, you ok?"
+
+He answered with ferocity,
+
+"No. The Empire's been attacked by the Adairs."
+
+I took a step back, stunned to silence. Obolis seethed,
+
+"I wish to forge an alliance with the Harbinger's Legion."

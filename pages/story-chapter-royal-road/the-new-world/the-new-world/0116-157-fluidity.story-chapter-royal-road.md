@@ -1,0 +1,339 @@
+---
+id: c45d2348-7aeb-5c5a-a6c5-83076b4e3828
+page-type-slug: story-chapter-royal-road
+title: "157 Fluidity"
+slug: 0116-157-fluidity
+partOf: the-new-world
+position: 116
+ownLength: 3392
+unit: words
+ownProgress: 3392
+publishedAt: 2018-11-02
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/303269/157-fluidity"
+royalRoadId: "303269"
+markedReadAt: "2026-06-29T21:24:57.896Z"
+---
+
+Before I chewed into the cipher bonus, I checked out my trees. I got a bonus of 700 tree points from Eonoth's blessing. I poured the points into my current tree, Legendary.
+
+In your homeworld, legends are told for those that mastered their chosen craft. Einstein was renowned as a genius. Da Vinci was hailed by artists as a prodigy. Tolkien will be remembered for his woven worlds.
+
+You will be remembered for your mastery as well.
+
+Legendary(Tier 2) Unlocked! +40% to the effect of Legendary skills.
+
+The instant the notification sounded, a wave of ease passed over me. I held up a hand, bending gravity as if it were a liquid. It molded with instinctual ease. It was like breathing or walking. There wasn't any thought behind it. I thought of a change in it, and the mana made it so.
+
+It freed up space in my mind. Without effort, I exerted excruciating detail with my gravitational magic. Force of Nature assisted with other talents too though. Without a doubt, my reaction times in close combat would be enhanced as well.
+
+The magic was my bread and butter now. Gravitational Singularity already proved its worth versus the bug guy. Spamming that move would be one of my go-to strategies for now.
+
+After all, if it isn't broke, don't fix it.
+
+That didn't mean I didn't have my eye set on improvement though. I kept walking while opening my grimoire. I kept it afloat with a well of gravity while suspending the espens. I looked back, thinking how difficult this was a few months ago. Now I did all of it without even thinking.
+
+I took full advantage of that benefit, diving into my work with the cipher. It shocked me the moment I carved into the page. I didn't need to rewrite my words. I didn't need to edit my inscriptions. I wrote out complex concepts as I thought them up.
+
+The more I etched, the more surreal the experience was. I comprehended the cipher to such an extent, it was more familiar than own language. I closed my eyes, thinking about the cipher. In a bizarre moment, my thoughts came out in the cipher.
+
+I opened my mouth, speaking out words. A piercing, unfamiliar set of vowels and consonants came out. The demonic, alien pitch terrified me, so I slammed my hands over my mouth. I didn't want to see what would happen if I spoke out the words. It was crazy though. I wasn't limited to just thinking in the cipher.
+
+I could speak it.
+
+I was using a portion of my mind I didn't know I had. It was like I had a talent for some sport I'd never played. All of a sudden I started playing it and everything was easy and smooth and clear. Nothing about the cipher was cloudy. It was familiar as a family or a hometown.
+
+I wasn't about to dive in headfirst though. Not anymore. In a sense, this was black magic. Eonoth could've just given me the right information to destroy myself or worse. I figured speaking with a few allies before trying out my new skills was likely the best idea.
+
+With that in mind, I checked out my status, pouring my level ups into endurance. Why endurance all of a sudden? I learned the cipher worked better with lower attributes. That meant I could rapidly increase perception without my level ups.
+
+Since endurance was sky high, increasing it with the cipher would take forever. I was hitting a soft cap with my cipher upgrades. That had zero effect on Schema's level ups though. With that in mind, I put all my points into endurance and smiled. Everything felt right.
+
+I'd check my status after getting my dungeon cores. No point in reviewing it over and over again for small changes. That was a waste of time I didn't have.
+
+After having done all that status stuff, I was refreshed. The jitters faded some, so I ran instead of walking. Within minutes, I reached Icosah with the espens floating behind me. After passing through the bazaar, I arrived at several of the guilds.
+
+The Soldiers of Fortune didn't seem like the best group to leave the espens with. I chose the Agents of Schema instead. They appeared more reliable for this kind of thing.
+
+As I walked up, people gawked at me. I looked odd, I'll give them that. My gray armor wasn't banged up that bad outside of being dirty. The patches I tore through regenerated with a bit of nanotech. My last suit was obliterated by the Yana cluster by comparison.
+
+It saved me some time. As I walked through the entrance, a sleek interior met my gaze. Polished glass and steel gleamed everywhere, fluorescent lights beaming down from above. Lining the walls and walkways, blue neon-tinted everything blue. It gave the base an ultra modern feel.
+
+Everyone wore power armor or diplomats robes. Everyone stared forward, busy with something or the other. They lacked the arrogance of the Empire and the ruggedness of the Soldiers of Fortune. These guys projected a robotic efficiency, much like the A.I. they worked for.
+
+As I walked into the lounge, a few members glanced at me. No one gawked or stared. I appreciated the politeness. I walked up to their receptionist, a remnant man with a white smile. So white, in fact, that it looked artificial. It unnerved me a bit.
+
+"Hello there! It's good to see someone new around here. How may I help you on this fine day."
+
+I suppressed a wince. He was so fake that it hurt my soul.
+
+"I'm here to hand in these espens."
+
+The remnant winked at me, "Ah, were they stirring up trouble?"
+
+I shook my head, "No. They were in trouble. Some cult got a hold of them and implanted silvers into their bodies. I removed the infestations from each of them, and I healed them. I have no idea who they're affiliated with. I figured you guys might be able to help with that."
+
+He boomed a laugh. By god, I wasn't that funny.
+
+"Hah, hah, HAH! I love seeing an offworlder treat the natives with such respect and dignity. Don't you worry, your good deeds will not go unrewarded. I'll file a status report to the affiliated sub-A.I. for this sector. He should square you away as far as rewards are concerned."
+
+He gave me a wink. I scoffed, unable to hold back my laughter at this point. The remnant blinked, sitting straight up. He never quit smiling, "What's funny fellow sentient?"
+
+I waved my hand, "Nothing. I remembered some inside joke from my friends. Sorry about that."
+
+"Ok...I hope we see you again!"
+
+I nodded, "Yeah. Sure."
+
+I turned around, setting the espens beside the front desk. I waved goodbye and walked out. From that experience, Kessiah's disdain for them was justified.
+
+They creeped me the fuck out. This guy was like a magazine cover. Everything was calculated and controlled for a specific reaction. I didn't like it at all. I much preferred talking to someone who made their intentions obvious, even if those intentions weren't full of virtue.
+
+With that over with, I sent a message to Torix, detailing the situation. While waiting for a reply, I went back to the Soldiers of Fortune. I took another quest and received my reward for this one. Oddly enough, no one bothered me this time. Go figure.
+
+Worshippers of Emagrotha(lvl 3,200 requirement, lvl 3,800 Recommended| Recommended Party Size: 4 | Tier: B-) - You've not only completed this deceptive quest, but you've saved several natives of Icosah as well. Excellent work.
+
+Reward: 8 Red Dungeon cores. Goodwill with Giess increased.
+
+Quest Completion Speed: S++ Tier. +5 red dungeon cores.
+
+Thoroughness of Quest Completion: S++ Tier. +5 red dungeon cores.
+
+Casualties and Collateral Damage: 0 dead and 0$. -0 red dungeon cores.
+
+Giess Affinity +25 for quest completion. +60 for saved citizens(5 each)
+
+Icosah Affinity +180 for saved citizens(15 each)
+
+It was a substantial reward. I could see that the receptionist worked fast since my quest log was already updated. Fake or not, the guy was responsive, to say the least. He enhanced my rewards, giving me S++ bonus ratings. My last quest only gave 6 extra cores. This one gave 10.
+
+Using those 18 dungeon cores, I invested the attribute points into endurance. It was for the same reason as the level ups. I used the skill points on Force of Nature, moving the skill up quite a bit. On my last click, a notification popped up.
+
+Down your path you walk, each step treading new ground. You've discovered the undiscovered. You've learned the secret and forgotten knowledge. The subject of your mastery is a myth. In your field, you're king.
+
+Legendary(Tier 3) Unlocked! +60% effect of legendary skills!
+
+I clenched a fist. The sheer depth of my magic enhanced. The efficiency and utter power of my movements and magic evolved. If I used my full might, I could move mountains. If I unleashed my full strength, I'd bend time.
+
+The difference was so drastic, a spark of fear ran up my spine. I looked at my hands. I was working with explosives at this point. Even with all my durability, one misstep and I'd be a silver blotch on the ground. It was that intense.
+
+I shook my head, grinding that fear to dust. I convinced myself that it was just my nerves after seeing Eonoth. Surely that was it. To check out what was going on, I looked at my status.
+
+Force of Nature(lvl 2,251) - You are nature-given fury. Enhances all techniques and application of skills within this ability, including but not limited to: Close Range Combat, Runic skills, Telekinesis, Gravitation, Sensory Abilities, Bearing, and Draining Abilities.
+
+Bonus Attributes:
+
++352 Strength
+
++352 Dexterity
+
++141 Constitution
+
++141 intelligence
+
++70 Perception
+
++35 to all attributes for having a 2,200+ total in a legendary skill.
+
+Ability Bonus: +248%
+
+Mana Cost Reduction: 49.6%
+
+At this point, I was exponentially growing stronger. The mana reduction essentially doubled my mana, which was already absurd. The ability bonus nearly tripled my output. My legendary skill pentupled the power of my gravitation.
+
+At this point, the attributes were irrelevant. I had over 40,000 endurance. A few hundred attributes were nothing. The multipliers though...they were getting out of hand.
+
+I banged the sides of my helmet, clearing my thoughts. Even if I got some godlike abilities, I wasn't about to let myself become like Yawm. I'd never allow that to happen. Never.
+
+With that out of the way, I opened my cipher mods. They were coming along nicely.
+
+[Modifications - The dimensional fabric composing this structure has been modified with code from the dimensional cipher. With mana, further bonuses can be applied. The bonuses are as follows:
+
++72 Strength
+
++72 Dexterity
+
++120 Perception
+
++6,080 Endurance
+
++100% to effect of legacies
+
++3,040 Willpower
+
++50% to internal motivation]
+
+I whistled at the perception. 120 perception in two days was ridiculous. At this rate, it wouldn't be a problem by the time the tournament arrived. Constitution would be next. Either that or luck, so I didn't have any more run-ins with Eonoth.
+
+With all that handled, I checked out the final status, my character sheet.
+
+Dimension-C138(Level 5,653)
+
+Strength – 6,176 | Constitution – 10,612 | Endurance – 43,154
+
+Dexterity – 2,574 | Willpower – 24,581 | Intelligence – 9,007
+
+Charisma – 913 | Luck – 3,034 | Perception – 1,174
+
+Health: 7.35 Million/7.35 Million | Health Regen: 17.3 Million/min or 288,532/sec
+
+Stamina: 4.70 Million/ 4.70 Million | Stamina Regen: 67,862/sec
+
+Living Dimension: 1.04 Trillion/4.30 Trillion
+
+Mass: 494,919 pounds(224,491 kilos~) | Height: Actual -12'5(3.83 meters)   Current - 9'10
+
+Damage Res - 98.5% | Dimensional Res - 49.25%
+
+Phys Dam Bonus – 546,385% | Damage Bonus – 40%
+
+Event Horizon – 20,000 + (100% of your total health)/min
+
+My perception passed the 1k mark already. Based on my guesstimations, I should be cloaked against any enemies level 3,000 and below. Most builds didn't invest into a single attribute like I did, especially not perception. Perception only feeds into charisma, making it a poor main stat.
+
+The new was good though. My progress was steady if not rapid. Once I finished all my dungeon cores, I'd be ready to demolish anyone at the tournament. Not having the constant threat of death looming over my shoulder was nice for a change.
+
+Although Eonoth pulling into another dimension left a bad taste in my mouth. I'd be fine though. I always was. I never imagined we'd kill Yawm, but it happened. This time would be no different. For the last time, I checked my status, finding a message from Torix.
+
+Torix Worm, of Darkhill(lvl 5,000 | Guild: Harbinger's Legion | Time: 1:34 P.M. 0/27/31) - It seems as though you're always meeting the most interesting entities. We can discuss the predicament in the Empire's guildhouse whenever you're ready. I'm there as we speak.
+
+I let him know I was coming. I jogged off towards the guildhouse, everybody walking around me. I didn't get that. Why does everyone walk everywhere? We have enhanced abilities, yet everybody uses them only in combat. Abilities are meant to be used, not saved for just the right moment.
+
+Anyways, I got back to the Empire's guildhouse. I talked with the espen receptionist, and she told me that Torix was talking with Caprika. I reached her throne room, finding them discussing details about Giess.
+
+"So Giess is separated along native and foreign lines then?"
+
+Caprika nodded with her mane of hair ruffling, "Yes. From what I've gathered, most espens are spiritual and primitive. Their native wildlife fights the eldritch for them. Schema's assimilation was hardly noticed at first given the planet's resources."
+
+She leaned against her arm, appearing a bit bored, "It sparked a civil war among the Gialgethens, however. 75 years prior, and the gialgathens used the espens as slaves. The great Lehesion freed the espens, giving them access to magic."
+
+Caprika scoffed, "I've seen the gialgathens though. They still treat espens as a lower caste. Since Schema's coming, the espens have been fighting back. They've gained ground."
+
+I raised an eyebrow, "How?"
+
+Caprika leaned up off her hand, "The espens gained access to the system. The gialgethens did not."
+
+Torix let out an evil laugh, "And so the tables turned."
+
+Caprika raised her hands,
+
+"The espens have leveled over the last 30 years. They've grown in might. Now the most powerful espens rival the most powerful gialgethens. It's created a rift. Some Gialgathens embrace the change. Others look at it as if the espens are stepping out of line."
+
+Caprika put her hands on her throne's armrests, "Those giant monsters don't understand. They will be eclipsed by the espens over the next few years. The oppressed will become the oppressors."
+
+I waved my hand at caprika, "I have a question. Is this what you do all day?"
+
+Caprika tilted her head, "What?"
+
+I gestured to her throne, "Just, yenno, sit in a throne room and do nothing."
+
+She shook her head, "No. I have an assigned meeting time for two hours every day. You've only seen me during those times."
+
+I frowned, "Sounds like you'd waste a lot of time like that."
+
+Caprika sighed, "It's customary. The Empire follows tradition more than even law. As a member of royalty, I must have meetings with commoners."
+
+I snickered, "Yeah, commoners. Anyways, when and where is the tournament?"
+
+Caprika leaned forward, "Did you...gain levels?"
+
+Torix raised his hands, "Oh do get used to it. Daniel is the most industrious sentient that has ever existed. He never sleeps, and he is always moving."
+
+I shrugged, "Life is movement, and yeah, I gained a few levels."
+
+Torix cupped his chin, "Would you mind telling us how many quests you've completed in the two days we've been here?"
+
+"Two."
+
+Torix waved his hands, goading me for more information, "And I don't mean to pry, but which quests might those be?"
+
+"The highest ones available. Why are asking?"
+
+Torix grinned at Caprika, "Oh no reason. Just curious."
+
+Caprika shook her head, "You cleared the silvers and destroyed the hidden cult...in two days."
+
+I nodded, "I did. I don't spend time sitting on a throne. I've heard that helps."
+
+Caprika stayed silent for a second. Her red mask brightened, steam coming from the black holes in it. She leaned down, covering her face with a hand. Torix raised a hand, "Are you alright."
+
+She put a palm up to him, "I'm fine..."
+
+I leaned towards her, "Wait a second...you're embarrassed."
+
+Caprika shot up, "No. I'm not. Silence."
+
+I waved my hands, "No, no. It's no big deal. I didn't mean it like that. I was just teasing. I get you to have to do your daily rituals or whatever. It's your life after all."
+
+She shook her head, "I...It just made me aware that I was on my throne. You make the sheer idea of a throne sound ridiculous."
+
+She stood up, walking down her heightened stairway, "I have no guests here besides for you two. I'm sure you wouldn't report my lack of throne sitting to higher authorities."
+
+Torix gave her a thumbs up, "Your secret is safe with us."
+
+She cracked her neck, "Good."
+
+The throne room's doors opened, Aric walking in, "Excuse me Caprika, but you have a visito-"
+
+Kessiah pushed him out of the way, "Move it spineless. Hey Daniel."
+
+Caprika propped her weight on one hip, looking annoyed. Caprika looked up at me, "Is she your mistress?"
+
+Kessiah narrowed her eyes, "The fuck did you just say?"
+
+Torix covered his mouth, snickering with absolute glee. He pointed at Kessiah, "This is good. I wish I had some popcorn."
+
+Kessiah pointed her finger at Torix, "I'll talk to you later."
+
+Caprika shrugged, "What did I say?"
+
+Kessiah stormed up to Caprika, "What makes you think I'm a mistress?"
+
+Caprika pointed at all of Kessiah, "You're obviously not a combatant. I just assumed that was your use."
+
+Torix's expanded into outright chortling. Kessiah blushed a bit, "Why don't you think I'm a fighter?"
+
+Caprika looked between Kessiah and me, "Isn't it obvious?"
+
+Kessiah raised her eyebrows, "My level is plenty high enough to kick your ass."
+
+Caprika busted out laughing, her noble voice turning cruel,
+
+"You? Even if our levels matched, you don't stand a chance against me or anyone for that matter. I can tell by the way you walk. Your footsteps are heavy and unbalanced. It's like watching a hunchback step through the mud."
+
+For some reason, Kessiah always brought out the worst in Torix. He  nudged my elbow, "Oof."
+
+Kessiah poked Caprika's chest, "You wanna go?"
+
+Caprika pointed around, "Why not? You seem as though you need to be humbled anyways."
+
+I  took a step forward, putting a hand on Kessiah's shoulder, "This isn't a good idea. She's double your level."
+
+Kessiah slapped my hand, "You said it earlier right? You do you. Well, I'm doing me."
+
+I frowned, "Uh, I don't think-"
+
+Kessiah spread out her hands, "The point is, I'm making this decision, alright? Back off."
+
+I took a step back, "Ok."
+
+Torix and I walked back towards the edge of the room. Once there, Caprika and Kessiah walked towards the opposite sides of the throne room. I grabbed the sides of my helmet, dragging my fingers down the tinted glass,
+
+"This is a fucking awful idea."
+
+Torix rubbed his hands together, "Oh yes it is. I can't wait for its conclusion."
+
+Caprika turned towards us, "I won't kill her. She'll need healing when I'm done though. Is that acceptable?"
+
+I raised a hand, "Go crazy. I'll be the ref."
+
+I walked up between them. Kessiah pulled her galactic storage. She pulled out three plastic pouches full of her blood. She ripped them apart, the blood flowing in circles around her. It siphoned into white runes that glowed on her body.  Her blood sacrifice was massive this time.
+
+With that strength, she smashed her fists together,
+
+"I'm going to crush you."
+
+Caprika scoffed, "Good luck, little one. You're going to need it."
+
+The albony royalty leaned back, inviting Kessiah to charge. I raised a hand, "You both ready?" They nodded. I swiped my hand down,
+
+"Let's go."

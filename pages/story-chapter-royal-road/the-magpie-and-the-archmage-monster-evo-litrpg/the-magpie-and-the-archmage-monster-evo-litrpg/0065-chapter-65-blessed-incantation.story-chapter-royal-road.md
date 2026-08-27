@@ -1,0 +1,239 @@
+---
+id: 56c4ab2c-4e8c-5918-a3c2-c346817249aa
+page-type-slug: story-chapter-royal-road
+title: "Chapter 65 – Blessed Incantation"
+slug: 0065-chapter-65-blessed-incantation
+partOf: the-magpie-and-the-archmage-monster-evo-litrpg
+position: 65
+ownLength: 2075
+unit: words
+publishedAt: 2025-12-31
+link: "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2894751/chapter-65-blessed-incantation"
+royalRoadId: "2894751"
+---
+
+Liora could feel herself growing slightly panicky the closer they got to the badger. They encountered a few more groups of goblins and the prickly lynx monster; however, they didn't really pose a challenge for them anymore. Oddly enough, Damien's addition to the team had filled a power gap. He and Kalen were their frontline fighters while Serena and Kiva fought from behind.
+
+Liora was the adaptable supporter. She covered their openings, disabled high-speed targets, and threw her Poison Slashes to weaken enemies and have them slowly die of poison. It was a solid strategy that allowed her to gain two more levels, a few skill advances, and a bunch of glimmerstones.
+
+They were resting in another hidden cave, she had found, gathering their strength and preparing to face the cave badger. Liora could tell it was close, even without seeing it. Everyone could. Miasma was growing thicker, and the air was harder to breathe. She had no doubts that the badger had become corrupted.
+
+An overpowered, corrupted guardian… Suddenly, my Holy Light seems like nothing more than a mere flashlight. To my knowledge, badgers are tough.
+
+Oh, yeah, they are definitely tough. I had actual trouble beating this monster.
+
+How do you imagine I, a bird, together with four humans who are barely more durable than matchsticks, stand up to a corrupted version?
+
+Yes, I didn't think something like that could become corrupted, but with how the forest is growing more blighted the further we go, the more I have to say that you're right.
+
+It wasn't this way when I was scouting; it must have happened just recently.
+
+Then I suppose you're lucky that it hasn't had time to amass corrupted power.
+
+Don't act as if this doesn't concern you!
+
+Okay, okay, let's take a look at your profile. Maybe I can figure something out.
+
+[Profile]
+
+Name: Liora
+
+Species: Starfeather Corvid
+
+Level: 19
+
+Health: Small
+
+Mana: Moderate
+
+Glimmerstones: 413
+
+Skills (10/10):
+
+Mimicry [Expert]
+
+Lunge [Adept]
+
+Skypierce [Adept]
+
+Air Slash [Adept]
+
+Fade [Adept]
+
+Mana Conversion [Novice]
+
+Poison Shot [Adept]
+
+Holy Light [Adept]
+
+Wind Blast [Basic]
+
+Purify [Novice]
+
+Traits (8/10):
+
+Twilight Vision [Expert]
+
+Treasure Sense [Adept]
+
+Aerial Agility [Expert]
+
+Glimmerlust [Novice]
+
+Shadow Glide [Expert]
+
+Inventory [Basic]
+
+Magpie Disguise [Novice]
+
+Poison Resistance [Basic]
+
+Next Evolution: Requires Level 30 and ??? Glimmerstones to unlock
+
+You really improved a lot of your skills. Most of them are Adept level, and Shadow Glide is at Expert level. It's almost as good as invisibility in any dark place.
+
+If only I didn't have to give up those glimmerstones to others. I was so close to five hundred. I could feel that it was so close to leveling up.
+
+Four hundred and thirteen glimmerstones are nothing to scoff at. That's an 8.26% boost to the power and speed of all your skills.
+
+I don't even feel the difference! I'm pretty sure that this tiny boost won't do much against a corrupted giant badger.
+
+There was a moment of silence, which Liora took as a silent agreement. Even at Adept level, her Holy Light didn't seem like enough. She needed something more. She needed something that could guarantee her victory, because she couldn't rely on the humans.
+
+Not to slight them, but they didn't have any holy magic. What could they do against a corrupted monster? Nothing. In fact, it might be wiser for Liora to engage it alone and not have them risk their lives.
+
+God, I don't want to fight that badger alone.
+
+Why would you fight it alone?
+
+You really want me to lead these four to their deaths? What could they possibly do against a corrupted badger? Besides serving as a momentary distraction?
+
+Wait! I know exactly what you need!
+
+You do?
+
+Yes, I have just the incantation. I quite frankly always thought it would be useless except for the rarest of circumstances, but these are exactly such circumstances. You need to sneak away so I can teach you the incantation.
+
+Now we're talking!
+
+It was exceedingly easy to sneak away. Everyone was busy checking their System screens, looking at skills and traits, and what they could improve at the last moment before the fight. She would likely be back before anyone noticed her absence.
+
+The more problematic issue was finding a place where to safely withdraw Renir. They were still within the dungeon, so technically, even if she withdrew him, the chances that some creepy mages were in this exact area and could get to her in time were close to zero. But they weren't exactly zero. Not to mention that she didn't want anyone to ever detect that Renir was nearby.
+
+However, chances of her defeating a corrupted, giant badger with her current skillset were slim. She could always run, but that would be leaving Serena and others for slaughter, and she definitely didn't want that. Liora would trust that whatever spell incantation Renir gave her, it would be able to turn the tide of the battle.
+
+In the end, Liora decided that the safest bet was flying as high as she could and finding some hiding place nobody without wings could reach. She found a tree hollow in a large, half-decaying pine. Liora didn't like the idea of going inside a corrupted tree, but it was the safest place she could find on such short notice.
+
+She withdrew Renir from her Inventory, admiring his shining beauty.
+
+"Oh! I feel like I can breathe again. No offense, the view from your eyes is amazing, but I feel like a passenger rather than my own person," Renir said.
+
+"I don't exactly enjoy you hearing my every thought either. No privacy whatsoever," Liora shook her head, having turned into her more compact magpie form.
+
+"I can only hear your surface thoughts, and they can be summed up in one sentence—you want more shinies," he retorted.
+
+"What else matters in life?" Liora said.
+
+"A lot of things actually. But I digress. Let's teach you that incantation," he said.
+
+"What incantation? Superpowered holy gust?" Liora asked, excited to learn.
+
+"Must be better! Holy Imbuement!"
+
+"Holy Imbuement?" Liora cocked her head curiously.
+
+"Yes, with it, you can imbue the weapons of your allies with holy magic. This way, they inflict damage on any corrupted creature."
+
+"That's… actually kind of useful," Liora agreed. "Although I was expecting something flashier."
+
+"Practicality over flashiness," he said sagely.
+
+"I'd imagine you as the kind of mage going for the flashiest spells."
+
+"True. I never actually used it."
+
+Liora rolled her eyes. Of course, he hadn't.
+
+"Alright, here's the incantation. Listen and memorize well. We won't have too much time to practice," Renir said and waited until Liora nodded. "By flame and grace, let darkness fall, bless their hands with light to all!"
+
+"By flame and grace, let darkness fall, bless their hands with light to all," Liora repeated.
+
+[You've successfully mimicked the skill <Holy Imbuement>.]
+
+Liora waited a moment, expecting something to happen. A flash of light. A tingling in her beak. A gentle shiver in her feathers. But half a minute passed, and nothing happened.
+
+"The system says it worked, but I don't feel anything," she said.
+
+"Yeah, this spell isn't flashy at all. You could probably imbue your friends with holy magic, and they wouldn't even notice that it happened. Hence why I have never used this spell," Renir explained.
+
+"Well, that's boring," she complained.
+
+"Would you rather fight the badger alone and have others be your meat shield?" Renir retorted.
+
+"No. But there could be something… A light shimmering around weapons or in the air," Liora complained.
+
+"You just want things to be shiny," Renir said. "They will glow faintly. Not enough to notice in the middle of the battle, but if they put their weapons in some dark place and look carefully, they would see it."
+
+"Yes, and what's wrong with that? We all need a bit more shiny things in our lives. Everything is so dull otherwise. Well, you humans are dull. My feathers are fabulous," Liora bragged.
+
+"Your feathers are holey. You need new ones," Renir said, hitting her right where it hurt. She didn't hold back and pecked him. "Ow! I'm just stating the facts."
+
+"Sometimes it is better to tell a lady she is beautiful even if she's not. Especially when your life is completely in her talons."
+
+"Oh, magnificent magpie, the luster of your feathers is so bright that it is making me go blind. Or would if I had any eyes."
+
+"Better," Liora nodded in satisfaction and put Renir back in his Inventory.
+
+How long is the effect going to last? Do I need a separate chant for each person?
+
+Let's see… You don't need a separate chant for each person, but the spell has to be renewed if you use a different skill. It will withdraw mana from you when you imbue a weapon. The effect should last about an hour.
+
+I wish I could feel when I can imbue stuff; otherwise, I have no clue whether I can or whether the imbuing was successful.
+
+Why don't you try it out? Imbue something. Like a rock or something.
+
+This suddenly gave Liora an idea.
+
+Wait, things in my Inventory don't spoil, right? So any imbuements would also remain on the items until I withdrew them, right?
+
+Yes, that is technically correct. What are you planning?
+
+Just a bit of extra ammo.
+
+Liora flew down to the ground and began collecting as many pinecones and rocks as she could find, imbuing them with holy magic and then stuffing them in her Inventory. She did this until she was out of mana. Then she returned to the hiding spot and went to sleep, recuperating her strength for the upcoming fight.
+
+***
+
+Liora woke up when she smelled the scent of meat in the air. Damien had withdrawn warm chicken strips from his Inventory, along with bread, cheese, and even fresh tomatoes. She couldn't believe that he had all those goodies stashed in his Inventory. Neither could others as they gaped at the fresh food.
+
+"What are you all so surprised about? Food in the Inventory doesn't go bad," he shrugged as he was putting his sandwich together.
+
+Liora was sitting on his shoulder, eagerly waiting for him to give her the fair share of breakfast.
+
+"It seems unnatural," Kalen noted, looking dubiously at the tomatoes.
+
+"Don't question it. Just enjoy," Kiva said, grabbing the tomato and cutting a slice with her knife. She presented the slice to Kalen, which he begrudgingly took and put on his sandwich.
+
+"I'll certainly enjoy this," Serena said, arranging a sandwich for herself, not being shy in taking Damien's food.
+
+"I can't believe you didn't think of that yourselves. It's literally the first thing they teach in school," Damien scoffed.
+
+"We didn't have a school in our village," Kalen said bitterly. "We were lucky to be taught how to read and write."
+
+"I grew up with beastkin nomads. Humans wouldn't let beastkin children into their school," Kiva shrugged.
+
+It looked like there were a lot of things Damien had to say about that, but for some reason, he chose to remain silent and instead turned his attention to Liora. "Will you go pester someone else, bird?"
+
+"No," Liora said and pulled on his sleeve, demanding her share of the sandwich. The blond man sighed and broke off a piece of his finished sandwich, giving it to Liora.
+
+She took it gratefully and began munching. It was so good. Lightly seasoned chicken strips with tomato and cheese tasted great together. It could use a sauce of some sort, or at least butter. But it was certainly better than chewing on pine nuts, which were probably the only edible thing in this forest. Unless you were willing to try some dubious mushroom or goblin meat.
+
+They ate in silence, but it was a heavy silence. Liora felt nervous about the upcoming fight, and she didn't doubt that others were too. They didn't even know that they'd have to fight a corrupted badger. Although with miasma in the air, perhaps, they suspected.
+
+"Is everyone full?" Serena asked when everyone had long since finished eating.
+
+A wave of nods was her answer.
+
+"Then let's go. I don't think putting it off any longer will help," Serena said.
+
+They moved out, blades sharpened and hearts heavy. The miasma was so thick now that it felt alive, crawling against her feathers. Somewhere ahead, the corrupted guardian stirred.

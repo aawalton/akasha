@@ -1,0 +1,139 @@
+---
+id: 6987af5a-60e9-5505-ae50-f2ce878fa0f1
+page-type-slug: story-chapter-royal-road
+title: "160 The Might of a Gialgathen"
+slug: 0119-160-the-might-of-a-gialgathen
+partOf: the-new-world
+position: 119
+ownLength: 1430
+unit: words
+ownProgress: 1430
+publishedAt: 2018-11-10
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/305484/160-the-might-of-a-gialgathen"
+royalRoadId: "305484"
+markedReadAt: "2026-06-29T21:25:04.131Z"
+---
+
+The gialgathen raised his neck, mana pouring from around him. Iasis charged towards him at a blistering pace. Alzoroth whipped his tail. Iasis slowed down, trying to dodge the tail's whip. Alzoroth slowed down the shifting momentum in his tail to match it.
+
+Iasis skidded to a stop in front of Alzoroth, fearing the crack of tail. The giant boomed a chuckling roar from his jaws. He boomed out with a mental wave, "Do you fear me to such an extent?"
+
+Iasis kept cool, forming icicle spears. Before he shot them towards Alzoroth, the gialgathen clamped his jaws towards Iasis. The crack of teeth shot out a wave that destroyed the ice. It crumbled the armor Iasis covered himself with, leaving him vulnerable.
+
+Iasis formed ice daggers and slit his wrists. Alzoroth waved his tail, making sure it was ready to whip at any moment. That zoned Iasis, keeping him from coming close. As Iasis molded blood into magic, Alzoroth nodded,
+
+"I'll give you the time you need for your magic."
+
+Iasis built the mana, converting his blood into crimson energy. It flooded his frame, empowering his with physical force. Crimson ice formed over Iasis in a split second, and he dashed forwards.
+
+Alzoroth clamped his jaws, shattering the ice midway through Iasis's leap. He whipped his tail, timing the enhanced speed of the charge. The tip of his tail cracked at it split the skin and armor on Iasis's back. The espen crushed into the arena.
+
+Iasis pulled himself up, a mist of blood spurting from his mouth as he did. Alzoroth kept his distance as he tilted his head,
+
+"Is that it then? You're welcome to try again if you'd like."
+
+With a toothy grin, Alzoroth continued, "It matters not. I will defeat you in any combat you wish to partake in."
+
+At this point, I believed the giant frog lizard.
+
+Iasis stood up, more blood flooding into him. He opened his dimensional storage, pulling out an orange spear. With a purple sash at the end of it, he tapped the arena. Bits of crushed stone came up, covering Iasis. The gialgathen nodded, "Interesting. A spear given the blessing of Lehesion...It's good you understand that you need a gialgathen's power to fight me. Wise to know your limitations."
+
+Iasis spun the spear while swinging himself around. He bent down and lifted himself back up, almost dancing. As he turned back to Alzoroth, he jutted his spear towards the beast. A pillar of sharpened earth bolted up at the gialgathen's throat.
+
+A forcefield of mana deflected the shard of stone. Iasis spun and turned, performing complex aerial maneuvers. At the end of each, he prodded his spear at the gialgathen, launching rock splinters. At the end of the dance, his last missile shot forward while leaving a sonic boom in its wake.
+
+With a reaction time defying comprehension, the gialgathen intersected the bullet. The frog lizard whipped it with his tail, crushing it to powder midswing. I shook my head,
+
+"Iasis is getting crushed, both mentally and physically."
+
+Althea nodded, "Yeah. He doesn't have raw umph to take Alzoroth on."
+
+The gialgathen grinned at the espen, "Do you concede?"
+
+Iasis yelled as he flipped and turned in a dance. The air around him shivered as tiny rocks floated into the air. All around Iasis, stones floated into the air. He kept flipping for over two minutes the gialgathen picking at his teeth with his tail.
+
+At the end of all the hoopla, Iasis did a double backflip before pointing his hands at Alzoroth. The spear flashed the distance between them both, exceeding the speed of sound. Three shockwaves blistered out as the spear lined up right for the beast's throat.
+
+The beast caught the spear with his teeth.
+
+I spread out my arms, "What the fuck was that? Are you serious?"
+
+Althea's jaw hung open, "Uh, you might have your hands full here."
+
+I scratched the side of my helmet, "Uh, yeah. No kidding. Going fast isn't the way to go."
+
+The gialgathen crunched the spear in his mouth. He laughed,
+
+"I assume that's all a dirtwalker can muster?"
+
+Iasis fell to his knees, defeated utterly. The gialgathen whipped his tail, smashing Iasis from above. The blow broke Iasis's back, leaving him contorted sideways. Before the announcer stopped him, Alzoroth whipped his tail again from the side.
+
+I clasped my hand, using a powerful pulse of antigravity between Iasis and the attack. Iasis fell sideways, fast as a bullet. The antigravity didn't stop the tail, but it did slow it down just enough to miss Iasis. The gialgathen shook his head,
+
+"What coward took away his honorable death?"
+
+He looked at the crowd, finding me with my hand raised. He grinned,
+
+"Ahhh, the big dirtwalker. No one will save you when we fight."
+
+I shrugged, "No one will have to."
+
+I pulled Iasis into the medbay. The crowd roared in approval, already on my side. The announcer pressed his fingers together, pinning the gialgathen down in his tracks. The announcer tilted his head, still having a huge ass smile on his face,
+
+"That's not a part of the tournament's rules, now is it Alzoroth?"
+
+The gialgathen turned his eyes towards the announcer, "Of...of course it wasn't. It was my mistake."
+
+The announcer released his hands, letting the gigantic amphibian move again. I laughed, "Damn. The announcer is a bigshot. This whole tournament's full of surprises."
+
+Althea leaned against me, "Have you tried analyzing him?"
+
+I shook my head, doing it at that moment
+
+Kiki Mosk, The Smiling Devil(lvl 9,000) - A Speaker representing Schema on Giess. Given the responsibility of organizing fights on the planet, Kiki enjoys entertaining wide audiences. With heavy investment into charisma, he knows how to work a crowd with his uncanny charm.
+
+If you have the will to see past his facade, he's cunning and sharp as a knife. Do not get on Kiki's bad side or else he may just ruin your reputation as fast as he'll crush your bones.
+
+I nodded, "Ah, he's a Speaker."
+
+She nodded, "I think so too."
+
+The announcer clapped his hands together, "No more of that silliness while I'm around, got it? If so, I might be forced into ensuring that such silliness cannot be done again."
+
+The announcer glared at Alzoroth, "Understood?"
+
+The gialgathen nodded, "Assuredly."
+
+The announcer sighed, "You'd better. Now, on to the next and last round of Icosah's tournament. We have two newcomers arriving to steal the top spots this year. On the one side, we have the incredibly disobedient Alzoroth!"
+
+The crowd booed. The announcer amplified the sound, making it even louder. I laughed at that, surprised by how petty a Speaker could be. The announcer opened a hand to me,
+
+"And Daniel Hillside, the warrior with unseen strikes."
+
+I jumped right back into the arena. As I landed, Alzoroth scoffed at me,
+
+"Be glad the announcer is protecting you."
+
+I grinned, "Uh huh. Keep talking."
+
+The announcer turned to each of us, "Are you both ready?"
+
+I nodded. I rolled my shoulders while the gialgathen whipped its tail back and forth. The announcer raised his hands, "Begin!"
+
+I put myself into my fighting stance, sliding forward. The slow crawl of movement caused the gialgathen to burst into laughter,
+
+"Do you intend on crawling me to death?"
+
+I ignored him, keeping myself ready. After a minute of approaching him, I got within his tail's range. He whipped it, slicing a blow straight at my left side. I leaned towards my right, shrugging my left shoulder. The blistering strike rolled up and over my shoulder, my gravitational magic helping me.
+
+The gialgathen shook his head, "What? How did you do that? You're so puny and minuscule."
+
+I kept inching forward. He whipped another tail slice at me, this time towards my right leg. I lifted my right knee up and towards his tail, checking the strike. I braced as his tail collided into my knee. I absorbed the impact, spreading the force outwards with gravity.
+
+This stopped my gray armor from disintegrating, protecting my identity. As the gialgathen's tail shot backward, the monster's jaw went slack. I laughed, raising my hands,
+
+"Come on big guy. Is that all you got?"
+
+He lashed out, no longer holding back. After I deflected, blocked, and parried a dozen slashes of his tail, he got the picture. I kept inching forward, slow as a glacier. That was the problem for him though. I wasn't stuck in this arena with him.
+
+Mr. Frog-Dragon was stuck in here with me.

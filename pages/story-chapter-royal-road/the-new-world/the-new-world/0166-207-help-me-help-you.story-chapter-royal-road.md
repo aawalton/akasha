@@ -1,0 +1,191 @@
+---
+id: 9777f344-abd6-5bcb-90f3-a2b7a19ca296
+page-type-slug: story-chapter-royal-road
+title: "207 Help Me Help You"
+slug: 0166-207-help-me-help-you
+partOf: the-new-world
+position: 166
+ownLength: 2825
+unit: words
+ownProgress: 2825
+publishedAt: 2019-05-21
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/364156/207-help-me-help-you"
+royalRoadId: "364156"
+markedReadAt: "2026-06-29T21:26:33.281Z"
+---
+
+After pulling out hundreds of terminals, the Overseer had a fuck it moment.
+
+"This is far more than I am able and willing to analyze. I will contact a reserve guild under Schema's care to compartmentalize and uncover this data."
+
+The Overseer messed with his status before reaching out a hand while clasping his fingertips together. As he spread his fingers apart, a rift in spacetime wrenched out of nothing. Using the wormhole magic, a group of high-level Speakers moved all the terminals into some kind of stronghold.
+
+These weren't weak members by any means either. Nearly all of them were capped, many of them wearing exotic power armors or the spoils of eldritch. Sharpened teeth, spiny furs, and metallic scales, the Speakers kept all kinds of reminders of what they fought for and against. They kept their faces serious as well, focusing in on the task at hand.
+
+The Overseer didn't waste any time watching them work. He parsed through the contents of one of the terminals. It didn't take long for him to find incriminating evidence against Tohtella.
+
+"Screenshots of her forming illegal contracts...Data logs of conversations detailing forbidden knowledge...Collaboration to create hostile entities...You weren't lying. In fact, perhaps you downplayed the truth of the matter. I'm releasing an S-tier bounty on her name immediately."
+
+I raised an eyebrow, "Higher than Yawm's?"
+
+"Much higher. S tier bounties scale exponentially. There exist only a few S+ tier bounties, and they would reward nigh unlimited experience and prestige for those that claim them. In this instance, an S- bounty dictates planetary threats. An S Tier bounty shows a solar system scale of conflict-"
+
+"And an S+ means galactic level, right?" I said.
+
+"Yes. I'm surprised you didn't mention more of her undertakings as evidence."
+
+"I figured I'd just state the worst parts of the project."
+
+"There is much here that is worse than what you mentioned," the Overseer stated. "We'll be updating our security parameters after this mission."
+
+"That's what I was wondering," I said while pointing at the portal to the base. "The last time we trusted someone in 'the system,' they were behind the entire criminal operation. You sure you can trust these guys?"
+
+A pair of Speakers gave me a heated glare before the Overseer put a hand between us, "This is a central group of Speakers and Breakers that have served Schema loyally for hundreds of years. They can be trusted, more than you even...Even more than me."
+
+"Well damn," I raised my palms to the two speakers, "My bad."
+
+One of the blue aliens rolled his eyes while the other just took a deep breath. They hefted the terminal along, each of them sweating at the effort. A ball of fur rolled up to a terminal before generating several keratinous spines from its body. These spines locked in just the right places so the thing could lift a terminal.
+
+As it rolled along with the spines staying stagnant on its frame, the sheer variety in the races shocked me. Their skills were just as varied, some carrying terminals with telekinesis while others floated them along with constructs of mana. A few even wielded gravity, though their magic was pretty damn crude to me. Eh, maybe I was a critic.
+
+Despite my fault-finding outlook on some of the magicians, I offered to help. The group refused, mentioning my knowledge of the base's existence as 'a security threat.' After half an hour of sweating Speakers passing by, a muscled Breaker helped assist with the task. He doubled the speed of the project, but they still had time to gawk. At what exactly? Well, the gialgathens, the forest full of terminals, and the gray giant that was taller than an Overseer.
+
+I didn't mind. I expected as much. This was a pretty strange scenario even for their line of work after all. Probably. As the Speaker faction finished the task, the Overseer walked into the Breaker's haven, the portal disappearing. Minutes later, he walked out with three Breakers. Covered in hydraulic exoskeletons and facemasks, the mobile strike force gave me a passing glance. I returned their look, trying to analyze them. I couldn't as they listened to the Overseer's instruction.
+
+"We've discovered a breach in galactic security. Tohtella Adair along with the Adair family of remnants has been compromised. You are authorized to use killing tactics against her and any members you discover associated with her. Leave nothing behind. Understood?"
+
+They replied in unison.
+
+"Understood."
+
+The tallest of the bunch, a full foot shorter than the Overseer, pointed at me, "May I ask who this is?"
+
+"Dimension C-138, better known as the Harbinger of Cataclysm. His team killed Yawm of Flesh and revealed this subterfuge along with a group of rogue remnants. Treat him with due respect."
+
+The group of Breakers looked at me differently after that, my level no longer dictating their response. They kept professional, however, receiving a data log from the Overseer before leaving at a breakneck pace. As I watched them disappear over the treetops, the Overseer turned to me,
+
+"We'll handle her elimination. Focus on ridding the unknown status for the rest of your group and terminating your bounties. I will keep an eye on this situation if it devolves further. You may also reveal your identity if you wish. I imagine it must be annoying by now."
+
+I shook my head, "I don't think I will reveal who I am just yet. There is too much bullshit associated with the Gray Giant that I don't want people mixing up with my name. Until I can change the reputation Thisbey built for this persona, I'll keep it separate."
+
+"Perhaps that is wise. Time will tell. The glassing time frame will be extended another thirty days considering the nature of the situation. It isn't as if the knowledge of this hybrid project is exclusive to Giess. That said, this planet is still a hazard for all the planets nearby, including your home planet. Produce results, and you may save this planet."
+
+I gave him a salute that was more a flick of my hand than a signal of respect,
+
+"Aye, aye captain."
+
+He rolled his eyes but said, "Keep up the good work. Schema knows this sector of the galaxy needs it."
+
+With those last words, he opened a portal in the dimensional fabric and stepped through the resulting wormhole. Behind me, Krog snored while Chrona kept her tail over her eyes for a better nap. They slept through all that commotion without even struggling. As I stared at them, it gave me a good idea.
+
+I paced up to them and unlatched their armors. With more than it of finagling with gravity, I wormed their plate mails. Somehow, I did it without waking either of them up. With the platemails in hand, I skulked down into our base, preparing some more scrying portals with water.
+
+After a few hours of practice, I gained enough experience with the portals to add them to my enchanting repertoire. It wasn't that large a leap considering how fluid my knowledge of the runes was. With that in mind, I added a few attachments to the gialgathens armors.
+
+My idea was on how to form the portals of communication. Before enacting the concept, I created two sets of gauntlets for the gialgathens. After tearing off strips of my black armor, I melted and shaped the molten metal. I created claw reinforcers, giving the gialgathens added slashing power.
+
+Adding to the gauntlets, I took two opals I found in Springfield. I planted the gemstones into the palms of the handwear. I carved runes into the finished gauntlets with utmost precision, searing them in place with pinpoints of heat and telekinesis. It took a few tries before I got the exact runic inscription correct, but it wasn't hard to reset the carving. A smattering of heat and the indentations were gone.
+
+As the next day came to pass, I created the first working models of two-way communication. Just as I feared, there was a bit of a mana cost associated with forming the portal. It didn't take any finesse, however, meaning anyone with a brain and mana could use it. As I finished the adjustments to the finished gauntlets, I added a few augments to them.
+
+The first involved adding hearing to the scrying orbs tools. So far, sight was the only tool I could use as of yet. That wasn't useless, but sound was more valuable for my intended purposes. With that in mind, I read through some more of Torix's tutorials. I ended up using one of his ingenious workarounds.
+
+Torix would create an aura around the scrying pool. If vibrations passed through the air of this aura, then the portal would ripple as well, mimicking the wobbles. The portal on the other end of this scrying chain would then create the same wobbling. It was simple to extend this wobbling onto an aura, creating the transfer of sound by magical means.
+
+As simple as it sounds, this saved me weeks of experimenting. It was much, much easier to use this method than the standard practice for this kind of thing. It was more mana efficient as well. As I finished my models, I paced back up to the gialgathens above with the armor floating behind me.
+
+I found Kessiah recreating one wing of Krog as he still snored. They already slept for thirteen hours plus, but I didn't want to wake them early. They needed the rest. After this, neither of them would be resting as much as before.
+
+So I let them live it up as Kessiah strained to handle the complex bone reconstitution. As I walked up to her, she gasped for air, her eyes closed and pointed at the forest canopy. I set the armor down beside the gialgathens while Kessiah groaned,
+
+"Fuck this is so hard. I never thought remaking a pair of wings would be this difficult."
+
+I glanced at the skeleton of two wings nearly made already, "Honestly, it looks like you're doing this pretty fast."
+
+"Eh, I guess," Kessiah said. "I practiced with some birds before this, so that really helped. I had Caprika send me an anatomy chart of the gialgathens too. I mean, it could still use some work, but the wings should be functional when I finish them."
+
+I grinned, "Oh man, I can tell you already that Krog will be more than just thankful."
+
+"Well, I'm not doing this for that. I just want to be useful for once."
+
+"You're doing just that. Besides, don't be so hard on yourself. Every journey starts with a single step, and you're finally taking yours...or something like that."
+
+She rolled her eyes, "Look at big speech maker over here. Way to make me feel better."
+
+"Eh, I gave it my best shot," I said with a shrug. After rolling my shoulders, I peered towards the arena off in the distance, "I have a few days before the final fight of the tournament."
+
+"Worried?"
+
+"No. I'll win, and probably without much trouble. The main issue is trying to get the most out of it. I'm thinking of making an announcement using Krog and Chrona."
+
+Kessiah frowned, "What for?"
+
+"I'll be trying to recruit other gialgathens into the system. Hard working and strong ones, of course, with emphasis on the former. I'll be trying to get them to join the guild to jump-start their progress."
+
+"Ooh, looks like we have a guild grower over here?" Kessiah said with a smirk.
+
+"Hah hah, funny. It's partially that, but it's mainly to give the gialgathens a backup option."
+
+Kessiah grew serious, "A backup option for what?"
+
+"Well, I can read the writing on the wall. Thisbey's stirred up the espens against the gialgathens, sure, but he didn't do it all on his own. There's a lot of hate for the gialgathens, and they will eventually lose to the espens. Partially because of numbers, technology, and access to the system."
+
+I clacked my teeth together before continuing, "They will be culled, and I kind of want to stop it while getting something out of the situation. I don't know, maybe it's a stupid idea."
+
+Kessiah scoffed, "Yeah, maybe."
+
+I pursed my lips, "Thanks for all the support."
+
+"Oh, anytime, Harbinger," Kessiah said. "Now if you'll excuse me, I have some wings to finish. I wouldn't want Krog waking up with skeleton limbs. Well, maybe. It does sound pretty funny."
+
+"Now you're starting to sound like Torix."
+
+"He did want me as his apprentice at one point for a reason," Kessiah cackled, mocking Torix's laugh.
+
+I left her to her work before sending a few messages to Althea. She kept me up to date on the revolutionary group, and the situation was not good. Thisbey's editing of my and Chrona's interview mislead quite a few people despite my intervention. The bastard was milking it for all it was worth, creating a group of militant levelers who were gaining strength and influence fast.
+
+They were a big part of why Giess's time limit was being extended, but I didn't agree with them. Despite all that, I had a bit of time to kill before my next fight. I created a training regiment for the three days I had left.
+
+I practiced bending my mana with Force of Nature and Star Forger for a few hours in the morning. Mid-day I focused on refining the augments to the gialgathen's armors. At night, I drilled in my work with the cipher. It was a dense, work heavy schedule, but I enjoyed it.
+
+I finished the gemstone relays a few hours before the tournament. By now, they were about as effective as a high-resolution camera with meh sound quality. It would be plenty good enough for my purposes. I intended on organizing any that would join the war effort, showing them dungeon locations and whatnot. Grinding out the details with someone would help out as well like how many dungeons a Gialgathen needed to clear before being put into the system.
+
+With that handled, I walked up out of our base. I found Krog and Chrona both fiddling with the obelisks I gave them. As I paced up, Chrona tapped the glass sphere,
+
+"These devices store more information than any poem or library. They are incredible resources."
+
+Krog frowned at his, "They are somewhat impressive...I suppose."
+
+"Actually, there was something I was hoping to get out of you guys for giving them to you," I said while pointing at them.
+
+"What would you need from us?" Krog grumbled.
+
+Chrona rolled her eyes at the grumpy gialgathen, "Stop acting as if his gifts have had no effect on you. His comrade even restored your wings."
+
+Krog glanced down while flapping his regenerated limbs, "Though they're stiffer than my old wings, I am grateful for them. I suppose we can offer you a favor."
+
+"I want to use you both as advertising for Schema's system and my guild. If we can get other gialgathens to join us, we'll be able to warp them off Giess should it be glassed."
+
+Chrona raised an eyebrow, "If it's glassed? You mean destroyed?"
+
+"Yes. I think Kessiah mentioned it earlier. Point is, this planet's on a time limit. I'll do my best to save it, but my best might not be good enough. If that happens, I'll hire several black market magicians to put some gialgathens on Earth. That being said, my resources aren't unlimited."
+
+Krog crossed his front paws and leaned his chin onto them, "How does being a part of this system assist with that?"
+
+"It allows you to warp off-world, and in particular, you can go to Earth, my home planet. I can offer you guys food and shelter there until you decide what you guys want to do."
+
+Krog raised an eyebrow, "You would do that for us? Why?"
+
+"I'm no saint, but I don't enjoy watching genocides. I'm also a guild owner. I can get experience and credits from you guys after you join. Any gialgathen that joins me will get a boost in base stats after they join. It's a win-win situation."
+
+Chrona nodded her head, "So we will help convince others to join this system so they may warp away if the worst occurs? The guild is more so for your own aims it seems..."
+
+I frowned while crossing my arms, "You expect me to work my ass off to save you all for free then?"
+
+Chrona looked at Krog, "Ahem, of course not. Perhaps we may strengthen our cause and yours at the same time. What do you think of it, Krog?"
+
+"Self-interested or not, we need this help. We will be glad to help you if it helps us." Krog said. "What does it entail?"
+
+I rubbed my hands together with an evil grin,
+
+"An example...and a bit of showing off."

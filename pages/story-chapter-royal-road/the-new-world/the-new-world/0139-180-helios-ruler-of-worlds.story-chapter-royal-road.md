@@ -1,0 +1,319 @@
+---
+id: 82121855-853f-5b05-a34c-dbbad924394e
+page-type-slug: story-chapter-royal-road
+title: "180 Helios, Ruler of Worlds"
+slug: 0139-180-helios-ruler-of-worlds
+partOf: the-new-world
+position: 139
+ownLength: 4352
+unit: words
+ownProgress: 4352
+publishedAt: 2019-01-24
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/327755/180-helios-ruler-of-worlds"
+royalRoadId: "327755"
+markedReadAt: "2026-06-29T21:25:33.239Z"
+---
+
+I frowned, already prepared to ignore this guy. Before I walked past him, Caprika raised her hands,
+
+"Now brother, I've proven my judgment to you on many an occasion. Would you mind trusting it once more?"
+
+Helios looked at her, his boredom fading as he spoke to her,
+
+"Surely you understand my skepticism? He's under-leveled, and he hides his status. That usually bodes poorly. Even excluding those factors, you've chosen losing candidates on numerous occasions. Every occasion, in fact."
+
+Caprika wrapped her hands together, "Daniel is different."
+
+Helios scoffed, "As were the last three candidates father had me evaluate." The big guy tilted his head and looked back at me, "Would you explain why he's hiding his status? Is he that ashamed of who he is and what he's done?"
+
+Caprika shook her hands, "Why, he has several very acceptable reasons for veiling his identity. It's not out of shame either, dearest. I swear to you that he's more than competent. He defeated Delilath, Lady of Yellow even."
+
+Helios straightened up, his utter disdain for the situation fading some,
+
+"Ah, she was the warrior that defeated several of your nominees, including you?"
+
+Caprika winced, "Ah, yes she did...multiple times."
+
+Helios turned to me while crossing his arms, "Then you're actually helping my sister and not putting on a false pretense? Excuse my initial rudeness then. Your disguise as a weak peasant worked overly well."
+
+I shrugged, kind of surprised by the apology at this point. I tried analyzing him as I spoke, "Eh, it's not even worth excusing. Your opinion isn't worth caring about at this point."
+
+He was hiding his status as well. The hypocrite scoffed, "Likewise. Now, what makes you worthy of representing my sister?"
+
+I raised a hand, "Well, for starters, I'm stronger than her."
+
+Heliod sighed, "While my sister is fluid in courts, she lacks the same refinement on a battlefield. You understand if that isn't enough?"
+
+Caprika placed a hand on Helios's arm, "Helios, I understand your brotherly concern. In fact, I find it endearing. At the same time, it's insulting to my allies."
+
+Helios stared at Caprika, "Ah, then I've conveyed myself well."
+
+He turned back to me, "Understand something, little one. This is my sister's chance to redeem herself. It's essential so that she may return to our homeworld once more. Otherwise, she'll rot here in this abyss for yet another year."
+
+Torix spoke up, "I wouldn't fret about it too much. This isn't the first, nor the last time Daniel has been underestimated. His level is deceiving."
+
+Helios raised a hand, "That's grand news, but I need more than words to prove his worth. Father has been attempting to send one of the royal guards here for the past decade. Winning the tournament on an underdeveloped world like this would be nothing for them."
+
+Helios shook his head, "Yet Caprika's wanted to finish the task on her own. She's been stubborn that way since we were cubs."
+
+Helios shook his head, his massive mane moving with the twist and turns of his neck,
+
+"I need some kind of evidence to prove, hmm, Daniel was it? Yes, Daniel's competence. Ah yes, excuse me if I forget all of your names. I meet many people, and their faces bleed together over time."
+
+Helios glared down at me, "Especially when they wear a mask."
+
+I rolled my eyes, "You're not hurting anyone's feelings here man. Good try though."
+
+Caprika waved her hands, "Ahem, as for proving my nominee's worth, what if you were to watch Daniel's next fight in the tournament? That will more than assuage your concerns."
+
+Helios shrugged, glancing back down at his nails, "It's as good a plan as any, I suppose."
+
+Helios walked up to me, "Then I'll watch your next fight. One last message before I leave you to prepare." He placed a hand onto my shoulder. It ebbed a vast and primal energy,
+
+"Treat my sister well, or else I will tear you apart. Do you understand?"
+
+I grabbed his hand, wrenching it off me, "Uh huh. Tell me then big man, are you finished yet or do you have to swing your dick around some more? I understand if you're not done compensating."
+
+Caprika raised both her hands to Helios, "I would like to remind you that it's difficult to get out of this 'abyss' as you put it without Daniel's help."
+
+Helios pulled his hand out of my grasp, his strength surprised me. He gripped his fist, "Your relationship with my sister is why you're still alive. Remember that."
+
+"Sorry man. You forget names. I forget orders."
+
+Helios looked up, exhausted with the conversation, "Then...so be it." He turned to his sister, "If he loses this tournament, he will die. I'll leave the remembering to you."
+
+Caprika pressed her hands together, "I understand. Of course, of course."
+
+Helios created a portal, much like Torix's own teleportation. He walked through the purple rimmed void, disappearing in an instant. As he left, one of his gauntlets faced me.
+
+A marking of the dimensional cipher was carved on it, the mark gorgeously rendered. As a fellow craftsman, it impressed me quite a bit. I raised an eyebrow as I turned to Caprika,
+
+"Where'd he get that marking?"
+
+As her brother disappeared, Caprika walked over towards the stone couch he sat on. She flopped onto the furniture, and she lifted her hands. They shook with fear as she looked at me,
+
+"Do you see these hands?"
+
+I nodded. She continued, "My brother isn't someone you make snappy retorts with. You're lucky he spared you."
+
+I turned a hand to her, "But if a fight broke out, that would've been an easy way to prove myself."
+
+Caprika shook her head, "Winning the tournament is much easier than defeating my brother. Besides, he'd tear you apart. I say that while respecting your own capacity for carnage."
+
+I raised my eyebrows, "Damn, is he that strong?"
+
+Caprika sighed, "Allow me to send you a copy of his status the last time he let me analyze him. It's improved since then I'm sure. It will paint a better picture than I could do so."
+
+She fiddled with her status. Seconds later, the file uploaded. I opened it, and Caprika's fear made sense all of a sudden.
+
+Helios was a monster.
+
+Helios Nova, Ruler of Worlds(lvl 15,000 | Guild: The Empire | Ownership: Belka-623(planet), Meliton(planet) | Class: Fringe Walker | Titles: Winter's Wrath, Cold of the Void) - Helios Novas is a shining example of a galactic citizen. He has accomplished many feats during his relatively short lifespan. He's an accomplished Fringe Walker, having cleared over a dozen worlds. He's established outposts on even more planets, allowing him to expand his influence outward.
+
+Outside of his class distinctions, he's proven himself time and time again by serving the Emperor. He is known as the Empire's Hammer, and he is used as such during wars or skirmishes. His overwhelming control of ice and spatial magic has left worlds uninhabitable should they provoke the Empire's wrath.
+
+He rules over two of the worlds he's saved, Belka-623 and Meliton. Belka-623 is a mining planet, rich in rare minerals and alloys. It's gem reserves help fuel the empire, and many fortunes have been made thereby aspiring tycoons. Meliton is a world with typical development in Schema's system. There, Helios is praised as a messiah and savior of the world.
+
+Though he lacks tact, his prowess in battle is nigh unmatched. Stay on his good side, or you will most certainly die.
+
+I whistled, "Damn, no wonder the guy was bored when we arrived. He's used to making some serious waves."
+
+Caprika nodded, "He's very icy and quick to act. Our father called him the family's ice golem, his every move calculated and cold."
+
+I frowned, "Well, I assumed he was all bark and no bite...Man...I was wrong about that."
+
+I assumed since Helios was royalty like Caprika, he and her would share a lot characteristics. For the most part, they varied quite a bit. Even if Helios was an asshole, he deserved some respect for what he'd accomplished.
+
+I kept that in mind as Caprika shook her head,
+
+"You'll find Helios's teeth are quite sharp. Try not to instigate him into biting you next time, or you won't make it out in one piece."
+
+I nodded, taking another mental note of the cipher mark on his forearm. The intricate marking exceeded my own ability. Based on what Caprika said earlier, the Emperor made it. It was partway to blame for Helio's success no doubt.
+
+If the Emperor used the cipher to such success, it might be time for me to sink my teeth into the cipher. I waited till now because of what the cipher did to Yawm. He lost his mind, driven mad by the allure of power. If I progressed with the cipher, I might go down the same road.
+
+To stop that, I decided to progress in baby steps. Practice would be my first step. With that in mind, I pointed towards the rooms at the back of the hall,
+
+"So, who's sleeping where?"
+
+We walked up, looking into each of the rooms. It turned out we didn't have much choice in the matter. All the spaces were identical, each one bland and barren. It worked fine for us except Caprika. Our entire group was used to roughing it in the wild or sleeping on stone. On the other hand, Caprika turned her nose up at the straw mattresses and outhouse bathrooms.
+
+Caprika shouted from the inside of one of the said bathrooms,
+
+"I can't believe our living arrangements are this primitive. To think they treat guests with such a careless attitude."
+
+I waved my hands, "They intended on this being a space for hardened warriors, not for royalty."
+
+Caprika let her hands flop on her sides, "So warriors defecate in a hole inside their house?"
+
+Kessiah walked up and nudged Caprika, "Told you we'd be roughing it."
+
+Caprika spread out her hands, "This will be rectified tomorrow. I swear to you all on the Novas's name."
+
+Torix already set up dozens of charts on the wall, pinning the graphs with adhesive. Caprika walked up to him, "Malthazar, what are you doing?"
+
+Torix pointed at the graphs, "I'm adding visualizations to help with my ideation process."
+
+Caprika shook her hands, "Surely there's a better place for that?"
+
+Torix shrugged, "It won't bother me one bit. It's not where you live. What matters is how and who you live with."
+
+Kessiah snapped from inside her room, "So it'll be a shithole regardless."
+
+Torix rolled his eyes. Althea and I walked into our room, shutting the door as Caprika raised a fuss. I was done with royalty for the day, and I agreed with Torix. It didn't matter where we were. All that mattered was what we could get done.
+
+That being said, I pulled out a soft blanket to put over Althea and my bed. After that, I warmed the room up to a comfortable tempurature with my Star Forger skill. Even if I didn't care about my comfort, I did care about Althea's.
+
+After laying in the bed for a couple of minutes, Althea fell asleep. With one of her arms draped over my waist, I pulled out my grimoire. Intent on practicing, I opened my personal tome and went to work. After a bit of reflection, I got an idea of what my problem was with the cipher.
+
+It was simple really - my creativity limited me more than my skill. I could execute on almost any idea that popped up in my head. I needed a good idea to pop up though before I could use my cipher skills.
+
+Understanding that limitation, I spent a long time brainstorming. So far, I kept my cipher encryptions tame and strict. With the knowledge Eonoth and Etorhma armed me with, I could bend the rules a bit. By doing so, I might be able to push past some of the plateaus I experienced with the cipher.
+
+The issue came with the danger involved. The cipher twisted anyone that used it. They rushed into the process of warping reality. In the end, the corruptor became the corrupted. Instead of unloading all of my newfound skill at once, I restricted myself to one step at a time.
+
+Sticking with small progressions, I tried curved lines on my first rune. I etched in subtle shifts in the depth of the rune as well, giving it a dual meaning. As I worked on it, the glyph annoyed me because it looked sloppy the entire time. As I finished the mark, the last few lines cleaned it up. It came together, looking profound and powerful.
+
+I kept my progress measured from there. As the night dragged on, I implemented more curvature, variable depths, and triple meanings. As the morning sun came up, I even tried out some multi-glyph work. By the time Althea woke up, I had sketched entire sentences of the cipher.
+
+The progress sounded ridiculous, but it crawled compared to what I could do. Writing sentences wasn't an issue at all. Hell, I could carve out novels in the cipher, bringing stories to life with a bit of mana. Even if I could do that, I didn't know what writing out passages would do though.
+
+So before I walked down that path, I studied the effects of each new technique. As I varied the depths, the intensity of the marking's effects intensified. It cost more mana, however, making the runes less efficient after a certain depth. Each of these 'sweet spots' varied depending on the effect of the etching as well.
+
+Every nuance I applied carried with it that kind of profound impact. It overwhelmed me at first seeming impossible to master. I took bite-sized chunks at a time though. I took my time, learning my application of the new tools at my disposal. There was no need to rush into it.
+
+With the night of practice under my belt, I enjoyed breakfast with Althea. We hit the town, wandering through it and enjoying the sights. The food and comforts paled when compared to Yildraza. The art took my breath away, however.
+
+The gialgathens created enormous sculptures, murals, and engravings. They used all varieties of rock, from granite to pumice. This substituted painting for the most part, relying on the substance itself for added flair. Stone was cool and all, but my favorite statues were made of this ice that never melted.
+
+These chilly statues only appeared on the upper ring of Rivaria, near the mountain's peak. The cold maintained the frozen water, creating views of lava and the snow. I loved the contrast, both fire and ice right beside each other in harmony.
+
+Alright, you caught me. I stole that line out of a poem on a statue.
+
+Those same poems were limited in length though, each one being a few words long. I guess quotes were the better word for them. Using their enormous tails for carving meant gialgathens wrote in huge letters.
+
+This meant that every sentence took up a ton of space. Gialgathens condensed their stories because of this, keeping them simple. I enjoyed them all the same.
+
+I thought of them in terms of food. If a novel was a hearty meal, a quote was a piece of candy. Just like candy, the mini-poems were easy to read but lacked substance. After all, making a compelling narrative in a single sentence was damn near impossible.
+
+All that was nice, but my favorite part about the city was how the gialgathens lived with nature. The magma pits were a good example, but the gialgathens didn't stop there.
+
+They created wind halls that played music from the wind blowing through them. Animals of all kinds roamed the city, helping out the gialgathens. We discovered armless, ice-hydras roaming around as pets. They stood a foot shorter than me, their breaths forming snow.
+
+These ice-hydras created the raw chunks of ice that the gialgathens use for sculptures. Enormous, fire bulls dragged these and other resources around the city, keeping everything moving. Gialgathens negotiated with the creatures in their native tongue. It looked cordial on the surface, but their discussions didn't hold up to scrutiny.
+
+I eavesdropped on a conversation, and I figured out that the creatures were slaves. They were like the espens, sapient races with their own languages, emotions, and customs. The gialgathens commanded them with thinly veiled threats, forcing them to obey.
+
+It ruined the city's mystique for me. Althea wasn't bothered as much, likely because of her upbringing with Yawm. It was more usual for her. Either way, I was done exploring Rivaria by the time we returned to our rooms. As we walked into the hall, Kessiah and Caprika sat around the fire. Kessiah raised her hands,
+
+"I'm telling you, the water tastes different hear. It's like filtered water or something."
+
+Caprika moved her head as if rolling her eyes, "Oh yes, these backward savages filter the city's water. It most certainly is so."
+
+Kessiah turned to us as we walked in, "Have either of you tried the water here? It tastes weird as fuck."
+
+I leaned against the wall, "Eh, we explored more than anything. So far, its pretty on the surface but ugly underneath."
+
+Althea weighed her hands back and forth, "I thought it was pretty cool, though Rivaria isn't the most comfortable place to walk around in."
+
+I glanced down at Althea, noting her fluffy jacket, scarves, and gloves. The freezing temperature wasn't exactly pleasant, though it didn't bother me. With bits of snow hanging off Caprika's mane, she leaned back in her chair, "I might as well expose my shortcoming while we're all here. I couldn't procure better lodgings. The gialgathens won't offer Delilath's murderer a nicer room."
+
+I scoffed, "I think we'll pull through."
+
+I walked towards my room as Caprika stood up, "Fine? There's nothing fine about this place. It's utterly drab."
+
+As walked into our room, "Yeah, go complain to one of your servants. They just might give a fuck. Malthazar, let me know if there are any real problems here, alright?"
+
+Torix gave me a nod, "Of course."
+
+I closed the door as Caprika deflated while Althea walked up to make her feel better. I figured someone should let her know she was whining. Maybe I   could've been more subtle, but eh. She'd be alright.
+
+The next two weeks passed like that. I went out two more times to eat with Althea. Other than that, I holed up in my room and practiced the cipher. At the same time, I grinded out Force of Nature and Star Forger. It kept me productive and focused until the first day of the tournament arrived.
+
+On that day, I walked out of my room while sighing. I hit a wall the day before on the cipher. I worked on complex passages, attempting to write out an artsy sort of carving. I locked up at the start of it, unable to just open up write it out. I got lost in the process, wincing at my own work.
+
+It didn't seem like me. To progress further with the cipher, I needed to lose myself in the artistic side of the process. I mean, let's face it, I wasn't a cultured kind of guy. The closest thing to art I created in the last year was blood splatters I left behind on battlefields. This was outside my realm of expertise.
+
+At the same time, pushing past this sticking point was a challenge. It wasn't about the necessity of it anymore. The runic glyphs were taunting me. I'd be damned if I let them win this little war. It was like I was using my face against a brick wall.
+
+The runes were the wall you see. For some reason, I could only progress by smashing the wall with my face. The runes thought I would let up. Oh, they' thought wrong. I'd keep smashing my face against the runes until they broke or I did.
+
+And to be clear, I had a hard face.
+
+All the ranting aside, I figured letting off some steam at the tournament would do me some good. With that goal, I walked up out of my room to Althea, Caprika, and Kessiah. They chatted around the fire about court politics.
+
+"Few albony men are willing to even consider courting me, to begin with. As you can imagine, my brother scares them off long before a romance can bud."
+
+Kessiah nodded, "Oh yeah. Malthazar has a similar problem, but it's his face that does the scaring part."
+
+They giggled as I walked up. Everyone stared at me before leaning away. I frowned, looking at all of them, "What?"
+
+Althea raised a hand, "Ugh, are you ok?"
+
+I nodded, "Yeah. A bit frustrated but I'll be fine."
+
+Kessiah nodded, "Guys, get out of the way. There's a raging bull on the loose."
+
+I rolled my eyes before the girls giggled again. I knocked on Torix's door, "You ready to leave?"
+
+His dry, raspy voice replied, "I'll be staying here today. There are a few details that simply must be ironed out. Do excuse me if you would."
+
+"Yeah, sure man."
+
+I walked out, "Anyone coming with?"
+
+They all stood. I raised an eyebrow, surprised by the enthusiasm, "Damn, no one showed up to my fight with Delilath. What's different this time?"
+
+Althea sighed, "Uhm, well, the gialgathens don't do very much."
+
+Kessiah dragged her hands down her face, "They're boring as fuck. They don't do anything. Clubs, dancing, shows, none of that is here. They just lay around like giant cats. Either that or they go off to prove their honor. It's very blegh."
+
+I scoffed, "So now the tournament is actual entertainment?"
+
+Kessiah locked her hands behind her head, "Yup."
+
+I walked out of the room, "Then let's hope the fights are fun to watch."
+
+We walked through Rivaria, passing by the modern buildings. After descending past the cloud line, we passed ancient ruins. After a few minutes, we reached an archaic colosseum.
+
+The massive walls crumbled as the wind whistled around its many cracks and crevices. The arena surrounded a pit of magma, a tiny island of metal at its center. If average people fought here, they would roast on the ground. Considering all gialgathens could fly, it gave the beasts a massive advantage.
+
+Yup, lots of upholding honor there.
+
+Thoughts of false nobility aside, we reached the high walls. With a thin layer of snow crunched underfoot as we stepped in. We all found many gialgathens lounging around, doing a lot of nothing. Even though I hated the crowd from Yildraza, they hyped the fight to no end. Their excitement was infectious. This was nothing like that.
+
+Every gialgathen looked bored here besides the fighters. At least a few gialgathens did drills with their tailwhips or their magic. A few humanoids even practiced in a small, portioned area at the back of the arena's entrance. That's where our seats were at.
+
+We walked up a few flights of stairs, walking around the arena. As we did, Caprika scoffed, "At least the lava and wind look excited. You'd think this was a funeral with how these beasts are acting."
+
+I shrugged, "It's different to these guys. In Yildraza, a tournament is an entertaining event. To the gialgathens, it's more about honoring their history and heroes."
+
+I sighed, "I say all that, but damn I do miss some of the excitement."
+
+We chatted before reaching the back wall where we settled down. We rested at the very edge between the gialgathens and humanoids. Several of the beasts glared at me as we sat down. To me, it made no difference. I was here to get a job done, not make friends.
+
+As we settled in, a portal appeared beside us. From it, Helios walked out, his frame enormous. He looked down at Caprika, "It's good to see you, sister."
+
+Caprika brushed herself, fiddling with her hair, "Ah, you as well brother. I didn't expect you to appear so suddenly."
+
+He sat down, his body to big for the stone seats, "Did you expect me to waste my time walking here then?"
+
+Caprika shook her head, fumbling on her words, "No, not at all. I actually expected a ship of some sort. You usually loved riding in them."
+
+Helios sighed, "Hmmm...a reasonable assumption to make."
+
+They chatted for a bit, Caprika and Helios staying casual. I ignored them, leaning back and closing my eyes. Part of it was out of shame for snapping at Helios like I did earlier. The guy has a lot to offer, and I might have burned a bridge between us just to squeeze in a few one liners.
+
+To make up some lost ground, my performance in this next fight had to be incredible. I visualized my next fight, using my Mental Preparation skill. I imagined using my magic and swinging my fists. It served as a mental warmup.
+
+As I reached the deepest part of my meditation, something hissed in the air above me. One of the gialgathens beside us whipped its tail towards my neck. I reached out a hand, ready to block the attack. Before it hit me, a portal appeared from above.
+
+Helios's hand reached out from the void, catching the gialgathen's tail. He stayed sitting beside Caprika, not even looking at the beast. Helios sighed, turning to the conflict. He crushed the gialgathen's hardened tail in his hand,
+
+"To think someone is attempting to sabotage my sister."
+
+Helios reached up with his free hand, the air crackling around us. The runic marking on his gauntlet glowed a deep, navy blue. An azure aura crept out around him. A shiver ran down my spine as I realized what he was doing. Seconds later, and the mana coalesced into Helios's palm.
+
+Helios reached out to the gialgathen,
+
+"That simply won't do, now will it?"

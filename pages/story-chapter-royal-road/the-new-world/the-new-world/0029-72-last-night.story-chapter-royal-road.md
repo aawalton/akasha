@@ -1,0 +1,339 @@
+---
+id: 1032526e-59f9-58fa-92f5-4b35d47e1f3d
+page-type-slug: story-chapter-royal-road
+title: "72 Last Night"
+slug: 0029-72-last-night
+partOf: the-new-world
+position: 29
+ownLength: 5408
+unit: words
+ownProgress: 5408
+publishedAt: 2017-11-07
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/172827/72-last-night"
+royalRoadId: "172827"
+markedReadAt: "2026-06-29T21:21:44.593Z"
+---
+
+I shook my head, “I don’t need luck. I need a plan. Food, some supplies, maybe finishing a unique skill or two.”
+
+Torix frowned, “From what I’ve seen, your armor can store things. How, I’ve no idea. Discovering that may make your journey easier, however. Outside of that, perhaps leaving a conduit in our world would be a good idea.”
+
+I raised an eyebrow, “Conduit?”
+
+Torix nodded, “Yes. Remember how I created one between you and Althea.”
+
+I blinked twice before smacking my forehead, “Ah, yeah. Of course. It siphons out her excess mana, stopping her transformations from going crazy. Yeah, I remember.”
+
+Torix raised a finger, “Conduits have many applications. They siphon mana between targets, but they also act as beacons during long distance travels. Perhaps leaving one with someone would be a good way of keeping grounded. That beacon prevents you from losing track of where or who you are.”
+
+I pursed my lips, “Yeah. My and Althea’s link is useless for that, since we’re both going to the rift. Sounds useful for my forging.”
+
+Torix made an O shape with his thumb and index finger, “Precisely. You already know the runes for the ritual. You simply need to learn how to imbue your mana into your blood.”
+
+I shook my head, “I picked up the trick a while back while forging. I’ll use my blood to lock mana into enchantments.”
+
+Torix placed two fingertips against a temple, “Hmmm…I don’t imbue that way. I use a liquid variant of mana. I suppose your Arcane Blood allows you to do so. Skipping that step then, mastering runes will allow you to imbue memories onto objects with the runes.”
+
+I raised my hands, “I knew there was something weird about the runes now. It’s not like I’m converting what I know into words. The runes are my memories now.”
+
+Torix frowned, “You’ve mastered them already?”
+
+I nodded, “Think of it like this. You must struggle with having the strength, precision, and perception of carving. I don’t. My extra leveling perks give me the various soft skills needed for carving runes. Makes learning the main parts of the skill a piece of cake.”
+
+“Indeed it would. Abuse your gifts, because you’ll find others who do the same.” Torix leaned up off his fingers,
+
+“Speaking of which, creating a conduit should be simple then. Create something, then charge it with a memory. That will leave a piece of you. Circling the rune with your mana will hold in your energy. Dousing the rune with blood will create a connection between you and the creation.”
+
+Torix weighed his hands back and forth, “The larger the runic inscription, the larger the mana cost that can be drained from you.”
+
+I nodded my head, “Really now? Well, that’s interesting.” My head bubbled with ideas and possibilities of the new technique.
+
+“Indeed. You’ll find it quite useful during your travels with Althea. Your own build can shore up most of her weaknesses, allowing her to specialize. Her damage can spike to immense levels, and you receive a trivial detriment, since her mana costs are so low.”
+
+I nodded, “Just wondering, but why didn’t you tell me about this earlier?”
+
+Torix glanced at the runes on the ground, “I underestimated your learning abilities. I thought your mythical skill was a fluke, a byproduct of your earlier life.” He glanced back at me, “My mistake.”
+
+I shrugged, “Eh, shit happens.” I turned to look outside, “I’ve already got quite a few ideas of how to use it.”
+
+Torix nodded, standing from his chair of mana as it dissipated, “Then I suggest you go out and implement them.”
+
+I turned back to him, a growing grin plastered don my face, “Yeah, I think I will. Thanks, Torix.”
+
+With a knowing grin, he glanced back the egg on the floor, “Never a problem, disciple.”
+
+I left Torix before heading back to the building area at the center of the camp. A few goals stuck out in my head. Creating Kessiah some jewelry was the first, but I wouldn’t stop there. Making her new ring into a conduit would give me the grounding that Torix mentioned. I could kill two birds with a single stone.
+
+Outside of that, giving Althea a conduit towards my mana would help her quite a bit. If she didn’t need mana for the firing, that meant more mana for bolts. I doubted that she could use my own armor or mana for the bolts themselves, but maybe one day.
+
+With all this in mind, I walked up to a table in the camp. The moon peaked up on the edge of the horizon, a darkened brother of the sun. The chill in the air meant most night workers were scared off by the frigid wind. When your fingers turned clumsy with cold, working with sharp objects and strong forces were an easy way to lose them.
+
+It didn’t bother me. With a bit of ascendant mana, the buildup of heat killed the cool. With my runes blistering, I set up my work. The first object would be adding a mod for Althea’s rifle. A scope presented itself as the easiest addition. Range was her greatest asset, so capitalizing on it made the most sense.
+
+With that in mind, I created another tube from my armor. I looked like Pinocchio, except with my middle finger instead of my nose. Since my hands were so big, my middle finger made for just the right size of a scope. Of course, getting the barrel straight and smooth took quite a few tries. Since I already made a barrel before, making a second one was simpler.
+
+After fifteen minutes, I completed the task. From my armor, the diamond sand paper rose. The armor melted off it, like the paper was rising from a deep pool of liquid metal. I couldn’t even remember doing this, yet there it was, stored and convenient. Mastering that storage could make for some interesting applications.
+
+Trying that out would have to wait for later. I sanded the inside and outer layer of the scope, making them smooth and polished. After finishing that, I carved out a few runes onto the edges of the barrel. As I did so, I used Torix’s advice of pouring a memory into the runes. For this one, I focused on one time when I gave blood at a hospital.
+
+As the memory flowed, so did my hands in carving. The symbols etched to perfection, like the elegant framework of a master architect. With the carving skill mastered, making solid stuff wasn’t so difficult anymore. In fact, it made the process instinctive. I didn’t think my way through writing the runes now. I felt my way through them. I decided what I wanted, then I wrote it, no planning needed.
+
+It sped up the process. An hour into making the barrel of the scope, and I’d come so far. Once I finished the conduit process, the scope would allow for using my blood in place of Althea’s blood. There was a bit more I could do though.
+
+For a bit of flexibility, I carved some more inscriptions onto the center of the scope. I began with the rune for adaptability and change. This was different from the changing of seasons, however. That kind of change occurs regardless of your intention. I wanted these runes to symbolize change guided by purpose.
+
+With that in mind, I finished the dual rune with the symbol for discipline and drive. The molded into a control enchantment. Once I picked up a scope from the steel legion, the aiming sight would be adjustable with thought as well. Changing the intensity would take a bit of mana, but having the option was useful regardless.
+
+A soldier leaned over one of the unlit tables. You see, some of the tables had lamps and some didn’t. When working with objects that glowed, the unlit tables were superior. Since my runes always offered light on their own, I took the less popular unlit tables. No point in using something I didn’t need. This soldier would often do the same since he worked with the glowing electronics in his rifles.
+
+There were only two unlit tables, so we found ourselves working beside each other often. Over time, I learned the soldier by name, John Diesel, since he always worked here during the night. Like me, he tinkered about, but on his rifles instead of with runes. We chatted here or there about parts and the intricacies of building rifles. Casual conversation of course, but enough to build familiarity over time.
+
+He helped me build the rifle for Althea. Even excluding that, he humanized me a bit in the eyes of the others, which was always a plus. With that in mind, I waved him over,
+
+“Hey, John, can you spare a minute?”
+
+John glanced around, always checking to see if another John was nearby. His name was common, so it was a habit he picked up without even knowing it.
+
+I murmured, “I mean Diesel.”
+
+No one else had the last name, so he recognized who I was calling for. He set down an electronic chip he was working on, pacing over towards me. He gave me a salute, something I told him repeatedly to stop doing. He couldn’t help it though.
+
+“Sir, what is it?”
+
+I pointed at the scope, “Can you get a rifle lens fitted for this and bring it back to me. It would be a huge help.”
+
+John nodded, “Of course. Did the Equalize-I mean, the cannon rifle work out for Althea.”
+
+I nodded, “Hell yeah. It worked like a charm. Hopefully this will be the last bit it needs to push it over the edge.”
+
+John grinned, glancing downwards, “That’s good to hear. Did she smile?”
+
+I nodded, “She picked me up and nearly squeezed the life out of me. She loved it.”
+
+With a distant smile, John murmured, “That’s good, that’s good.” He glanced back up at me, “I’ll get this fitted for her. Hope she likes it as much.”
+
+I shrugged, “You can never know with women.”
+
+He nodded, “You sure got that right.”
+
+He jogged off. The guy had a crush on Althea, hoping to get a chance with her one day. That would be hard, mainly because he was shy as a cockroach is to a foot. One day he would find someone though.
+
+Pushing those thoughts out of my head, I turned to the task at hand. Making an amulet or an earring would be hard as fuck. Keeping it basic, I stuck with a ring. Using my pinky finger, I extended a thick tube of my armor. Making a blade on the side of my hand, I lopped an inch out of the tube. Taking the sandpaper, I grinded it down.
+
+The polish removed some of the length, polishing it to a dark gray shine. I took my three-fingered pencil of armor and used the sandpaper on myself. Sharpening my own armor gave me a bit more precision when carving out runes.
+
+After honing the point on my hand, I etched tiny, intricate runes into the center of the ring. I stuck with a basic memory, one of learning the most basic forms of boxing. The stances, how to punch, keeping relaxed, all those tips molded into the memory as the line of runes grew. It finished at the end of the circle, making a neat loop in the middle of the ring.
+
+I sharpened the knife again, keeping my hand spike pointed. Beginning on the outer edge, I wrote out another memory. This one echoed my desperation and terror when in BloodHollow, my first dungeon. I figured these runes would make Kessiah more effective. She didn’t know much about fighting, so even the basics would help. Her effort seemed low octane as well. A bit of a boost there wouldn’t hurt things, that’s for sure.
+
+Harbinger’s Ring of Bloodfury (lvl requirement: 400) – Adds a portion of the Harbinger of Cataclysm’s knowledge and hunger for battle. Requires 50 mana a minute to maintain. Effects ramp up as more mana is siphoned.
+
+Current siphoning: 0/50
+
+Skill Gained! Mana Conduit(lvl 1) – While others aim to steal little, you aim to give plenty. +1% to conversion of siphoned mana.
+
+As I finished the ring, John paced up. The scope was finished. John even added two mounting apparatuses on it. In his other hand, a pack of liquid carbon metal. Liquid at room temperature, it solidified when exposed to heat.
+
+John reached me, sticking out the two objects,
+
+“Here you go Harbinger. This should do the trick.”
+
+I picked them up, grinning from ear to ear, “Hell yeah. It’s awesome to see someone exceed my expectations for once. Good damn job.”
+
+He puffed out his chest, suppressing a grin, “It’s nothing, just make sure she gets it, and you can call us even.”
+
+I nodded, “I’ll make sure she knows John Diesel did it for her too, if you’d like.”
+
+He blushed, waving me off, “What? No no no, I’d much rather her think it was completely you. That would make her smile more.”
+
+I raised an eyebrow, “Why?”
+
+John leaned back, “Why? She likes you of course. Everyone knows it, even someone as dense as me. I figured it was obvious to you.”
+
+The thought unsettled me a bit. Being so busy with all the training didn’t leave me with much time to consider my own feelings, let alone Althea’s. That was one of the reasons I pushed Kessiah away. I just didn’t have time to invest into a relationship. After all, if I was going to do something, I wanted to do it right. That meant putting in time and effort, something I didn’t have to spare.
+
+If we survived though, what would I do? I couldn’t give a straight answer. Beating Yawm was the top priority list. Everything else, well, I just pushed it aside. These thoughts past through my mind in a second, so I blinked,
+
+“Well, thanks for giving me credit. I won’t waste it.”
+
+John nodded, “No problem. Was that all you needed?”
+
+I nodded, “Yeah. Thanks John.”
+
+He walked over to his rifle, picking up a pair of tweezers and a small welder for working the metal,
+
+“Not a problem sir. You kill that bastard Yawm, and it’ll be more than enough.”
+
+His sentiment was shared by the other members of the steel legion. Since talking with the legion a while back, other members of the steel legion worked here more often. Whenever I passed by the firing barracks, more members fired than normal. I lit a fire under some of them, that’s for sure. John had been one of those members.
+
+His help made the rifle making processes easier. Since I finished the crafts early, I paced over towards Kessiah’s tent. Kessiah didn’t need as much sleep as Althea, so she might be awake already. Once I reached near Kessiah’s tent, a giant, translucent barrier surrounded it and nearby. It was one of the deafening domes Torix used to trap sound.
+
+Within it, Kessiah and Althea were practicing. You read right. They were actually practicing. Shocking, I know.
+
+Althea’s long, purple hair swung as she fired at Kessiah. Kessiah’s short, edgy haircut didn’t get in her eyes as she darted back and forth, catching the bolts. Kessiah liked to keep one side of her left temple trimmed short, accentuating her cheek bones and jaw. To me, I could see why. Kessiah had strong shape in both, making her face ‘pop’ out from her hair cut.
+
+Althea preferred longer hair. Her softer face and silver skin suited it too. Unlike Kessiah, Althea hid some of her face from view. It was a shame. Althea’s purple irises matched her purple hair, giving her an alien sort of charm. Combine that with her nigh voluptuous figure, and you had an enchanting sight. I could see why John was so taken by her.
+
+That whole conversation with John was why I focused in on this stuff now. It’s amazing how some things will go right underneath your notice until someone brings them to your attention. Noticing the women in our group of four, at least in an intimate kind way, was one of forgotten things. Whenever the thoughts of them blazed in my head, I remembered why I sort of suppressed the memories.
+
+If you’re around a woman who’s beautiful, it can leave you fumbling for words. It’s one of those things that only time can fix. Once you’ve been around it for a while, you see them as people, because that’s what gorgeous women are. People, just like me or John. Really, really sexy people.
+
+Though the hormones raged, I shot the thoughts down as I walked up through Torix’s wall. The energy wall rippled once I passed through, sound blaring in all directions. Steam hissed from each shot fired from Althea’s rifle. Cataclysmic booms echoed off Kessiah crushing the bolts of bone. Hell, Kessiah’s blood siphoned at regular intervals, sounds of gurgling and cracking ice lashing out like the sound of pain.
+
+Once I stepped nearby, Kessiah passed me, missing a bolt. I clapped my hands together, catching it in front of my face. I tossed the bone aside, cracks forming throughout it before grinning at them both. Kessiah dragged her feet to a stop. Sweat dripped down her face and stomach. She almost always wore something that let you see her toned midsection. Today was no different.
+
+Althea walked up, normally dressed in a robe. Today she wore a fitted nanofiber suit, accentuating her figure. Both were sights to behold, but I smashed those thoughts into oblivion as I walked up,
+
+“Thanks for keeping me safe there.”
+
+Kessiah frowned, “Sorry. Didn’t mean to miss.”
+
+She lied through her teeth, but I smiled at her, “Eh, it happens to the best of us. Any who, I finished your ring.”
+
+Her frowned flipped as she walked up, bouncing on her heels, “Really? I can’t believe you did it so fast.”
+
+I tossed the ring at her. She snatched it out of the air, putting it on before raising an eyebrow. She siphoned mana into the ring, a slight aura of red forming from it. An almost invisible pull appeared in me, like a mosquito draining blood. Kessiah’s eyes opened wide, her fists clasping. The flow of mana ceased as she stepped up with a growing grin,
+
+“What did you do to make this?”
+
+I shrugged, “I had to make a conduit. I figured I could make your jewelry useful and nice to look at, all at the same time.”
+
+Kessiah clenched her fist, siphoning the mana again. The same slight pull nagged me. Kessiah’s shook with frenzy, the grin on her face turning maniacal. She laughed before throwing up her fists,
+
+“Wow. I’m impressed. I can clench a fist without the ring breaking and it’s useful? Just, wow.”
+
+Althea walked up, setting the rifle I made her onto the ground before reforming her arm. Before she reached me, I tossed the scope at her. It hit her chest before she fumbled a bit before grabbing it. She inspected it. Once she realized what it was, she beamed. I grinned at her too, walking up to the rifle at her side.
+
+I lunged onto a knee, squeezing out a bit of the liquid metal onto each attachment of the scope. I lifted the rifle with one arm, aiming with it for a second. I lined up the scope with the iron sight. After placing the scope onto the rifle, I heated it with a bit of ascendant mana from my palm. Moments later, and the attachment was in there like swim wear. Yeah, the phrase makes no sense, but it sounds smooth, so I like it.
+
+Regardless, I handed the rifle to Althea. She grabbed it, putting her arm into it before it reformed into the intricate parts. She aimed it, shifting between targets. She fired, a pang of mana being used drawing at me. It was almost nothing though, like the tiniest, most minute of twitches.
+
+She blinked once before firing again. In a rapid burst, she shot out three bone spears.
+
+Unique Skill unlocked! The fusion of Carving Into Oblivion(Maxed so it counts as two skills during fusion), Comprehension of Oblivion, Enchanting, and Mana Conduit combine into the unique skill Thaumaturge. Half of unfinished skill points are rewarded. 103 Skill points gained.
+
+Thaumaturge(lvl 1) – Most sorcerers destroy. You make miracles, both of destruction and harmony. Ability to create enchanted items is enhanced by the level of this skill.
+
+Giving myself a silent pat on the back, Althea's spears dug deep into the ground before she turned to me,
+
+“I don’t understand. How’s it making my mana cost so low?”
+
+I pointed at myself, “Because it’s using my mana instead of yours…for some of the process at least.”
+
+She frowned, looking at her rifle in shock, “You’d take on the pain.” She bored a hole into the rifle with her stare before glancing back up at me, “Doesn’t it hurt?”
+
+I rolled my eyes, “I have a lot of health.”
+
+She blinked, “Like forty thousand?”
+
+I laughed before frowning. I didn’t actually know how much health I had. I hadn’t checked since getting the strength perk and using the dungeon cores, so I opened my status screen.
+
+Level 997
+
+Strength – 971.4 | Constitution – 1110.7 | Endurance - 1077
+
+Dexterity – 315.4 | Willpower – 1000.7 | Intelligence – 421.4
+
+Charisma – 74.6 | Luck – 150.4 | Perception – 164.6
+
+************************************
+
+The first thing I noticed was that my physical damage bonus hadn’t moved up much. I was a bit disappointed at the sight, but then I remembered why. I didn’t have 1,000 strength yet. The perk wouldn’t give me the bonus until after I hit that threshold.
+
+I didn’t have much time to dwell on it though. I closed my status screen while meeting Althea’s eye, “Think more like 90,000.”
+
+She smiled, “That’s...crazy.”
+
+I nodded, “So is your true damage passive.”
+
+Althea frowned, "It's armor penetration."
+
+I waved her defense off with a hand, "Pff, It turns your damage into true damage. Same thing."
+
+She nodded, “Yeah, I guess you’re right about that.”
+
+Kessiah walked up, “It’s good to see you two get along.” Kessiah grinned at me, “I mean you both really warmed up to each other.”
+
+I rolled my eyes, “Yeah, yeah, of course we did. Anyways, just stopping by to drop this stuff off. Oh yeah, and before I forget, good damn job guys.” I turned to them both, “It’s heartening as hell to see you guys getting on with the grind.”
+
+Kessiah propped onto her hip, “It’s not my first rodeo, and you know I can’t let you beat me. My pride as a warrior won’t allow it.”
+
+I shrugged, an obvious but hidden confidence lacing my words, “Good luck with that.”
+
+Althea interrupted our rivalrous words, “Thanks.”
+
+I nodded, “No problem, glad to chip in here or there." I glanced at he spears in the ground then back at them, "Do you guys mind me joining in on this? I figured I’d try it out.”
+
+Althea perked up, “Yeah, absolutely…I mean, yeah, sure. Whatever.”
+
+After what John said, I was hypersensitive to what Althea said. Her sudden burst of enthusiasm at my company…well, it was cute as fuck, what can I say. It was the sort of affection you get from someone really young and really naive. Considering I was the first guy Althea ever liked, her fumbling was expected. She was a lab experiment and bounty hunter before all this after all. Not the best environment for learning love.
+
+Kessiah sighed, “Bah, I’m trying to get some catching practice in. Why’d you have to go and ruin it.”
+
+I frowned, “I can throw stuff at you too. I practice throwing on a moving target. You get double the difficulty. Sound good?”
+
+Kessiah glanced up, placing a single finger onto her chin. A second later, she pointed the finger at the sky, “Ok, I accept.”
+
+She jogged off fifty feet(15~ meters) away before Althea and I set up shop. Kessiah stretched herself, warming up for the movement. As she did, I checked out my tree menu. With Telekinetic Augmenter and Thaumaturge, I gained around two hundred tree points. Combine that with a few level ups in various skills, and I had enough tree points to max out my invincible tree. I did so in an instant.
+
+To be invincible is to live despite. Whether that be the struggle of facing an enemy or perhaps the struggle of facing yourself, invincibility means being unbreakable in mind and body. Only 90% of your health may be deducted from any single attack.
+
+No matter the calamity, those who rise above it are the unbroken. No matter how hard the life, those that truly live carry on through legacy. Live so that your memory may live on, even after death. Only 85% of your health may be deducted from any single attack.
+
+Some warriors struggle to survive, but you must look past the day and see tomorrow. In the end, all will end. The mark you leave behind will be remembered in history. Leave a mark that stretches wide. Only 80% of your health may be deducted from any single attack.
+
+Become a scar on history or the phantom pains of a missing limb. To kill a man is simple. To kill a memory is much harder. Only 75% of your health may be deducted from any single attack.
+
+For your last words echo through eternity. Make them mighty. Make them memorable. Only 70% of your total health may be deducted from any single attack. Any damage received over 70% of your total health will not do damage. Instead, it will be added to your next attack as flat physical damage.
+
+It was an interesting tree. Unlike most, it seemed more situational. Most of the time, I wouldn’t worry about taking more than two thirds of my health after all. Versus someone like Kessiah or Yawm, the tree could be very useful though. The tree’s last bonus was interesting too. It seemed like a way of turning the tides of a battle in my favor.
+
+If someone would have killed me ten times over, converting that into physical damage would be huge. If you factored in my physical damage bonus, the increase became downright deadly. Against most enemies with maxed physical damage resistance, the added physical damage was notable. I could dish out about half of the damage I received from the attack if I was right. That's without factoring in the true damage part of the strength perk.
+
+In the end, the invincible tree wasn't a game changer, but it was enough to notice. It was about what I expected from a 250 point tree. With it finished, I added the rest of my points to my last tree, fearless. No more messages popped up, so I closed my menu screen.
+
+Glancing up, Kessiah finished her warmup. I reoriented myself with reality, getting near a pile of rubble. Once Kessiah bent her knees, Althea and I began our barrage.
+
+We threw and fired boulders and bolts at Kessiah. At first, she struggled keeping up. Over time, she familiarized herself with all the projectiles. By the time the sun peaked over the horizon, a crowd of spectators watched us. They sat just outside the dome of deafening magic.
+
+We fell into our positions, each of us an ebb and flow of movement. Smooth and fluid, we maintained our exercise with an inhuman precision, each bolt or stone aimed at a vital area. Over time, Althea and I changed up how we shot and threw. She would aim to make Kessiah dash a certain way, then I would throw to abuse it.
+
+Our tricks turned more elaborate over time. I threw chunks of rebarb, then Althea would fire a bolt just as it reached Kessiah. Her bolt would split the rebar, spraying three projectiles at Kessiah. The first few times we tried this, our attacks crashed into Kessiah head on. After a while, Kessiah adjusted to our tricks.
+
+With more vigor, I flicked my wrist at the end of my throws, setting spins on the boulders. The rocks arced in flight, like a curveball. Althea adjusted her bolts into bursts of three at this, one of the bolts hitting and splitting the boulder. Once Kessiah adjusted to the new tactic, I threw the boulders so that whenever Althea shot them, the spin would redirect her bolts too.
+
+The projectiles would collide in front of Kessiah, sending them spraying like spitfire in all directions. Kessiah struggled with these, sweat building as the collisions occurred closer and closer to her. By now, a sizable crowd stood behind Althea and me, spectating the event. I couldn’t blame them. With the fervent pace and clashing lights of the collisions, it was a sight to be seen.
+
+It came to a crux whenever Althea learned something rather special. She already had two unique skills, sharpshooter and tinkerer. During this training, she gained her third, Bullet Bender. She would whip her hand, creating a curve in the firing trajectory of her bolts. I learned a skill or two for throwing as well, mainly the Magnus Effect skill. It allowed me to curve my shots with greater precision.
+
+It was hellfire on the other side of our onslaught after learning those skills. Kessiah siphoned more and more of her blood into her mythical skill before she finally relented. With sweat pouring down her face, she walked up before leaning against a wall beside us. She let herself drag down before laying her hands against her knees,
+
+“Good session guys. I can’t keep this up though. Too much bullshit being thrown at me.”
+
+Over the course of the training, Kessiah missed about 1/10th of our shots. In all honesty, it was incredible seeing it. I couldn't have done that shit, that's for sure.
+
+Once she rested for a bit, Kessiah pulled out a gem from her pocket. She surged mana through it, evaporating the dome over us. The white noise of a fall morning and the crowd poured in. Suddenly, a black portal opened beside us.
+
+From it, Torix stepped out. He turned to me, “You know, this is quite the crowd the three of you have collected. Giving them a bit of a push before you and Althea leave would be quite helpful. I believe you would be perfect for just such a task.”
+
+My stomach sank,
+
+“Wait…what? Right now?”
+
+Torix nodded, an awful, evil grin lining his lips. His blue fire eyes blazed with what could only be considered hatred and malice as he lifted his hand. Alright, maybe I was just imagining it that way.
+
+Regardless, with a snap of his fingers, the sound from our group heightened. Torix spread his hands, lifting them up. As he did so, a pillar of ground grew from beneath us. He hadn’t lifted us, instead he expanded the ground underneath us.
+
+Sitting above house level, a group of about two hundred soldiers could see us. I whispered to Torix, "No way. Not happening." His grin evolved into pure treachury. I seethed, "You evil piece of shit, why didn't you tell me?!”
+
+Torix cackled with a bit too much glee in his voice before he glanced around, speaking through the voice enhancing magic, “Hello soldiers. Today, my harbinger and Althea leave towards a rift. Once within, they face the might of monsters and their endless reincarnations. Before then, the Harbinger would like a word with you all. May his words inspire you to work hard in his absence.”
+
+My blood ran cold as Torix gestured towards me, speaking in a low murmur without his voice entering the magic,
+
+“Since you won’t take the initiative to learn the unique skill on your own, I decided to do it for you. Think of it as a little push. Good luck.”
+
+I sighed. I glanced around before speaking out my first word, “We-Eck.“
+
+Within my first word, my voice cracked louder than a whip snapping across my cheek. I sighed.
+
+This was going to be a long and painful next few minutes.

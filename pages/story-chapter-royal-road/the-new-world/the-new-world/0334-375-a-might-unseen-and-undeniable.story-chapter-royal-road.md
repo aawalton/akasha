@@ -1,0 +1,225 @@
+---
+id: 7d500736-7b7d-5111-b436-69fe71d1408b
+page-type-slug: story-chapter-royal-road
+title: "375 A Might Unseen and Undeniable"
+slug: 0334-375-a-might-unseen-and-undeniable
+partOf: the-new-world
+position: 334
+ownLength: 1866
+unit: words
+ownProgress: 1866
+publishedAt: 2023-03-26
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/1149228/375-a-might-unseen-and-undeniable"
+royalRoadId: "1149228"
+markedReadAt: "2026-06-29T21:32:41.833Z"
+---
+
+Lehesion pulled himself from the void, and his eyes met mine. A grin grew over his face.
+
+"Ah. It is you yet again. I thought we'd called a truce of sorts? Perhaps you wished for another thrashing."
+
+Energy plumed from me, ascendant mana billowing out like blood. The ocean ran red.
+
+"I'm not the same Daniel you fought before."
+
+Golden lightning erupted from Lehesion as he shouted across the horizon.
+
+"And neither am I, child."
+
+Chapter Begin
+
+Lehesion breathed deep. Energy piled into his maw, and he unleashed a giant ray of energy toward the city. It bounced off of the city's barriers while I bolted towards him. I split the sea with my gravity wells, tidal forces spreading everywhere. When I reached Lehesion, he swung his tail towards me.
+
+I flowed around it, and Lehesions tail smashed the sand below. Grit melted to glass from the impact, and water billowed away, vaporizing. Air touched us both, each of us staring. Lehesion boomed.
+
+"You've become even better at avoiding my blows. The weak always run."
+
+My armor grinned.
+
+"You're wrong. I don't need to anymore."
+
+Lehesion smirked.
+
+"Then why have you, little one?"
+
+I raised a hand.
+
+"Come on. Let me have it then."
+
+Lehesion grinned, energy building in his tail.
+
+"You have gained many levels since we last fought-"
+
+I burst into laughter. Lehesion grimaced.
+
+"What do you laugh at? Is your position so pitiful that it's driven you insane?"
+
+I pointed at him.
+
+"First off, you might be projecting a little there. Secondly, levels don't tell you much."
+
+Lehesion's eyes narrowed.
+
+"We shall see."
+
+Lehesion smashed his tail downward, and I reached up a hand. It crashed against my palm with enough force to crush a skyscraper. It could've leveled a large hill or created a small canyon, but I didn't budge. Like a child hitting a steel wall, Lehesion's tail broke from hitting me, bones cracking within.
+
+Lehesion gawked.
+
+"W-what trickery is this?"
+
+I gripped my hand, crushing the golden flesh of his tail.
+
+"Oh, you'll need to do better than this, shiny lizard."
+
+My armor shot through his body, a blazing infestation that soaked in his energy. Lehesion sliced away his tail as he grunted.
+
+"You are as grotesque as always."
+
+I stared at him.
+
+"All you see is the physical. Soon, you will fear what my mind has become."
+
+Lehesion froze in place before shaking himself. He breathed deep before roaring across the horizon once more. It crashed against my wake, and the sound shattered. Silence passed over me as I kept my gaze steady.
+
+Lehesion snarled, "Cease staring at me."
+
+I walked his way. Lehesion boomed.
+
+"Cease."
+
+He waved his giant wings, golden energy beams spreading across the entire area. The ground quaked and rippled apart where the light touched, breaking down at an atomical level. Instead of facing the attack, I switched to The Rise of Eden and generated a colossal stone shelf. It materialized in front of Lehesion.
+
+His beams blasted against several hundred meters of rock. The stone swallowed the rays, and his attack blew him backward. As he flopped, I bolted through the rock and reached him. The shattered god molded his golden aura, creating a shield. With Event Horizon, I pierced it.
+
+Cracks rippled across the gold as I disintegrated his insides. Reaching up a hand, I smashed it down, augmenting my strike with a dozen techniques. Gravity wells. Telekinesis. Heat. Accelerated time. A smaller surface area. My dimensional wake. A reinforced body. A reinforced mind. My strike was a culmination of all my years of effort and struggle. It embodied what I'd done to myself, abandoning my humanity to save myself.
+
+And it ushered forth cataclysm.
+
+Lehesion's body splattered like a yellow watermelon. Blood, guts, Hybrid mush, and water dispersed as heat vaporized the nearby ocean. Glass sprawled like charred tree roots from around the crater. The shockwave passed over me before I stared at my hand and a dead Lehesion. I'd evolved into a whole different being since we last met.
+
+Gazing at the lizard's reconstitution, Lehesion's body returned where his aura lingered. He oggled at his surroundings before jumping away from me.
+
+"Where are your allies? Is this an orbital bombardment? A nuclear assault?"
+
+I cracked my knuckles, waves rippling through the water above from the force I put on my bones.
+
+"No. It's my fist."
+
+Lehesion scrambled away.
+
+"Lies."
+
+I bolted back to him.
+
+"See, I like to punch things. The problem is, it doesn't often work these days."
+
+With a single strike, I destroyed him once more. As he came back, I smiled.
+
+"My enemies are tricky, but sometimes, once in a blue moon-"
+
+I smashed him. He arrived once more. I laughed.
+
+"Once in a blue moon, this actually works, and it is oh so satisfying."
+
+He flew away, sliding through the water with elegance despite his size. I followed. The surrounding ocean disintegrated into steam from friction and heat as I approached. I threw another haymaker at the shiny lizard. His body splintered, becoming a mushy soup at the bottom of a dry sea. The waves around us plumed out before billowing up thousands of feet high.
+
+I blinked in disbelief myself.
+
+Lehesion reformed, staring around once more.
+
+"What is even happening?"
+
+I smiled.
+
+"Let me show you again."
+
+I popped the golden balloon. Seeing his regenerating face, I opened my current status and compared it with a timestamp from when I fought Lehesion before. I turned a hand.
+
+"First off, I'm a hundred times heavier."
+
+I burst the bright blimp. He came to, and I gawked at the numbers.
+
+"I'm two thousand times stronger, somehow. That's wild, I'll tell ya."
+
+I detonated the glowing zeppelin. Regenerating again, he stared at me in horror, and I leaned toward my status.
+
+"Only twelve times more mana regen? Oof, that's starting to slow down. I have to find a way to fix that."
+
+Lehesion's eyes bulged.
+
+"Cease this. What in Eonoth's name have you done?"
+
+I stared at him. Lehesion peered around.
+
+"We...We are still alone. Is Schema helping you? Did you find a hidden artifact?"
+
+I lifted a hand.
+
+"It's my flesh and bones. Tough to emulate."
+
+I pointed at him, trying out singularities within his aura, and the golden energy swallowed all my magic. Unlike Valgus's chains, this wasn't some absolute, antimagic. My sorcery went through but siphoned to a different place. It carried a similar effect to Valgus's shackles, so Lehesion smiled at me. It was a crooked expression, incomplete as his confidence.
+
+"Hah. You've yet to pierce my defenses."
+
+I narrowed my eyes while spreading my hand. Singularities burst an inch outside of his barrier's extent, the shockwaves cascading around him. The lizard disintegrated again. As he pulled himself from the void, fear spread over him. He trembled.
+
+"What has been done? What contracts have you signed? Whose souls did you sell?"
+
+I darted towards him, and he turned around, flying away. Splat. He returned, trying to warp out. I kept the rip in spacetime open and destroyed whatever lay beyond its veil. Lehesion scrambled to pass me, but I extended my armor over the warp before slamming it shut.
+
+Getting desperate, Lehesion flew up, and I followed. Energy coalesced, and an eclipse formed overhead. The day devolved to darkness, and Lehesion howled out.
+
+"You...If I can't kill you, I'll destroy this entire region."
+
+I raised my brow.
+
+"Region? You gotta up the ante. That's not going to cut it anymore."
+
+In my city, the two constructor golems kept the barrier firm. Lehesion channeled energy through his body, stars forming overhead as they had before. I hovered before him, charging mana into my frame and dimensional wake. Once Lehesion finished, his stars shot down from above.
+
+Falling like an apocalypse, the bolts came closer, tiny lights becoming massive beacons. In the shattered god's wake, heaven rained. I faced that eclipse, my form looming in shadow. Energy siphoned through me, channeling into my palms. Ludicrous quantities of mana built up, and I glowed like a sun.
+
+I spread my arms, and singularities cast out over the sky. The dark, inken blots devoured the incoming stars, swallowing hundreds of them. A cacophony of sound erupted, so loud it killed all near it. It disintegrated anything alive, and clouds coursed in from afar. Whirlpools lifted from the ocean to the gravitational anomalies. The sea shifted in the horizon, waves casting up from afar.
+
+Lehesion marveled for a moment before peering down.
+
+"Are...Are you a god as well?"
+
+I rolled my eyes.
+
+"No. I'm Daniel."
+
+Lehesion's eyes closed, and when they opened, I winced. Those controlling him unleashed a devastating psionic attack. Hundreds of mages rushed into my mind, ripping and gnawing it apart. They scorched the air and salted the earth. I bled from my eyes, nose, and ears as vessels ruptured in my head. The liquid pooled in my mouth. It dripped through my teeth like mercury coursing.
+
+And I smiled, my grin wide. I tapped my temple.
+
+"You'll need more. Much, much more."
+
+I pulled in most of the minds from my wake, and they rushed at the attacking forces. They kamikazed into the enemies, my psyches killing several enemies with each of their deaths. Unleashed in a formless goop, they flooded the enemies with mana, memories, and haphazard thought.
+
+There was no reason to use strategy. There was no need for finesse. I assaulted them with every ounce of my ability, and Lehesion's frail mind collapsed under the flow and pressure. His eyes rolled back in his head, and he twitched like an insect pressed with fire. I killed hundreds of mind mages before they tried escaping.
+
+I held them within the palace of my mind, and I barred the exits. They chose this path, one against me. They would feel the entire burden of that mistake. As I slaughtered, a voice rang out in my head.
+
+Tohtella.
+
+"You. What are you doing?"
+
+I continued killing.
+
+Tohtella shouted, "This. This means war."
+
+I reached into Lehesion's mind, finding telepathic strands. I pulled them into the fray. Into the killing field. Into an abyss. My abyss.
+
+Tohtella hissed, "This is about the lottery, isn't it?"
+
+Once close, I inundated the minds. They burst at the seams, driven mad by mana and incoherency. They drowned. They ruptured. They split apart like melons filled with liquid metal.
+
+Tohtella roared, "We will retreat. We will give you anything. Stop. Stop, now."
+
+I spread madness, flooding the weak. The telepathic control of Lehesion weakened. I darted towards him, smashing his body apart once more. Taking out a few runic plates, I detonated them, deforming the fabric of reality where Lehesion's aura lingered. Lehesion's body regenerated into a devolved collection of talking organs and speaking skin.
+
+The remnants controlling him scattered, unable to tolerate the horror of inhabiting such a body. I remained within, tearing it apart. As I gored the mind into pieces, a familiar presence coursed in. I peered around, and I grimaced. Time stopped, and a voice echoed out like far-off thunder. It built in my ears until I felt it in my bones.
+
+"We meet again, living metal."

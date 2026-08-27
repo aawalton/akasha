@@ -1,0 +1,131 @@
+---
+id: 429804b2-1764-567a-acc8-5bb5e48deb1f
+page-type-slug: story-chapter-royal-road
+title: "232 The Minds of Many"
+slug: 0191-232-the-minds-of-many
+partOf: the-new-world
+position: 191
+ownLength: 2566
+unit: words
+ownProgress: 2566
+publishedAt: 2019-10-20
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/414796/232-the-minds-of-many"
+royalRoadId: "414796"
+markedReadAt: "2026-06-29T21:27:29.108Z"
+---
+
+As I charged forward, I lifted an arm. A singularity formed over the chest of Version 2.2. The Hybrid shot out sideways, evading the entirety of the annihilative explosion before dashing towards me. It slid across the sky with a vapor trail behind it. I shot myself sideways and met the monster's charge.
+
+Except, it dodged my gravitational tackle. I slid past it as the Hybrid charged towards the gialgathens that flew from Polydra. I reached out a hand and released an enormous well of gravity. Chunks of stone from the city below floated into the sky, clouds above curving towards the well's center.
+
+The pull slowed the Hybrid's charge forward before I shot towards my well. It spurred me onwards as I saturated mana in the well. Before impact, I soaked my frame in quintessence. An elemental bomb, I slammed into the side of the Hybrid. Two balls of metal, I ceased its direct charge towards the vulnerable refugees.
+
+The Hybrid turned to me, opening a jagged maw. We whipped around the gravity well I powered before as I slammed my fist into the abomination's teeth. Orbiting the well like planets, we wrestled for some semblance of control over the other.
+
+I matched the monster's strength for the most part, though its ability to jerk outdid me. Both of us struggled with the rotational combat fueled by the gravitational anchor. Using a swell of energy, the Hybrid shot a hard fist into my gut. Silver blood sprayed over its face. I drilled my armor into the creature out of anger.
+
+It resisted my absorption, but for some reason, a glance of shock covered its face. It retaliated in kind, and the cords over its body attempted burrowing beneath my skin. My armor grinned, white light leaking out in a torrent. My metal skin heated until it glowed white. The sound of singing flesh sounded into the air as I opened the maw of my helm and chomped into the neck of the creature.
+
+It grabbed my head and jerked backward. Tendrils of steel fell into the orbiting path we fought in. Other, lesser Hybrids assisted Version 2.2, but the flow of gravity overwhelmed them. Caught into their own orbitals, they whipped around a growing field of debris.
+
+The city bled into this gravity well, collapsed chunks of buildings sucking into the expanding strata. Polydra and Giess's sky swirled behind Version 2.2 in my grasp, neither of us gaining any ground. I placed a hand onto its mouth, spawning raw quintessence into its body.
+
+Before my mana formed, a psionic force crept into my mind. It tussled with the torrent, my mana wisping away into the ether. Extracting memories from my mind, the minds of many permeated my psyche with horrors. My hands shook in response, a volley of thoughts overwhelming my own.
+
+Version 2.2 reached out a hand, a flaming sword of energy manifesting. Noble and blazing brightly, it contrasted the hideous visage that held the blade. Wielding it with experience, the Hybrids swung the edge in a tight arc. It sliced six inches into my chest before snapping. The remains of the sword flung out of the Hybrid's hand. I reached out an arm, spawning another well over the blazing blade. I snapped it back towards us, sinking it through the Hybrid's torso.
+
+The weaker children of this monster grappled onto me from all sides as we fought. Converting Event Horizon over them, I suppressed the psionic onslaught with a vast wave of raw mana. Version 2.2 shuddered in response, the energy overwhelming it.
+
+Its many cold and calculating eyes locked with mine as Version 2.2 shoved itself from my grasp. It flopped away from me while I grabbed and crushed the obnoxious Hybrids over me. They crumbled in my hands like an ant before a giant.
+
+Whipping onto a chunk of broken building, I glanced around at the debris field. As if fighting on the rings of Saturn, I gazed at the awe-inspiring destruction. The moment passed as I gauged my surroundings.
+
+An army of Hybrids swept up into the field. They spiraled along a growing center of compressed stone, metal, and corpses at the center of the gravity well. Along several initial orbits, clusters of debris crashed; tectonic booms radiated at each passing collision. With a grasp of the situation, I discovered Version 2.2's hiding spot.
+
+It hid behind a chunk of rotating stone. It latched its hands into the outer edge of the rock, keeping it facing outward from the well's center. This kept it from exposing itself to me. Seeing through the hiding place, I pushed off the stone beneath me.
+
+It crumbled to powder as I smashed through several floating stones on my path to Version 2.2. It waited for me. Slicing through its concealing cove, I crashed into its chest. I grabbed ahold of the creature, digging my hands into its wiry chest.
+
+But the wires were gone.  A set of crystalized mana covered its torso, the same armor Lehesion wore. As the gemstones shattered, psionic ripples echoed out in devastating waves. My eyes bled silver blood, and my teeth cracked in my mouth. The mental assault escalated, surface scans of my mind grating my nerves. It mirrored chewing broken glass, the sensation almost intolerable.
+
+Taking advantage, the Hybrid, sliced at me with two more blazing swords. With the aim of a master, it sliced one blade at my neck and the other between my ribs. After snapping the edges like before, it swung the same weapons twice more. Each slash dug deep into my skin, leaving opened wounds and chunks of the sword behind.
+
+In seconds, my body devoured the foreign steel, indulging in the meal. The wounds healed as quickly as the Hybrid made them. Once I stabilized from the psionic waves, I retaliated against the mental force. The telepathic tether rippled as the raw might of my mind crashed against them.
+
+At the same time, I deflected the swords several times. Whoever piloted this Hybrid swung with the practiced composure of a teacher. They lacked the ferocity of a beast, however. In a way, its strikes were gentle, and its intentions were flawed. The innate hunger and monstrous instincts of its cousin, Version 2.0, weren't within this monster.
+
+Even more so, I gained mass and strength in spades since then. My draining deluged its own abilities, and my regeneration exceeded what it showed thus far. If anything, I out-monstered it, my mettle and vitality unmatched.
+
+It cornered me in its tactics, however. Most of this derived from a lack of expectation. I never imagined a Hybrid would use a mana field over itself that carried psionic explosions within. This lack of preparation on my part put me at a disadvantage.
+
+Wielding my experience in battle, I shifted my tactics accordingly. This sword slinging Hybrid wanted slow, steady combat with periodic lulls. I swarmed the beast instead, giving it no time to plan or respite to relax.
+
+Version 2.2 cleaved burning swords at angles aimed to kill. I deflected them using a shrug of my shoulder or the swing of my palm. Wielding less range, I closed the gap between us but maintained half an arm's length.
+
+With shorter levers of attack, my strikes crossed the distance between us quicker. Each time I deflected a swing, I whipped a wild hook into its chest or face. These blows radiated out with the raw oomph of train wrecks. The impacted released waves of sound that shattered glass and ruptured eardrums.
+
+The monster adjusted, tightening its strikes. The faster pace favored me, however. Both of us pushed our limits, each of us making mistake after mistake. With my regeneration exceeding the monsters, it built up damage over time.
+
+This strategy collapsed as the Hybrid showed its full hand. A golden aura encompassed the creature, soaking all my strikes with ease. Within seconds, the Hybrid recuperated. This cycle continued, my inability to make a lasting dent apparent.
+
+At the same time, the mental assault of this creature stalled my movements. Unlike the other mind mages, the insidious nature of this onslaught aimed at my weaknesses. It found the gaps in my will and the faults in my mentality. Memories of my failures, wells of guilt, the deaths of friends, these mages found the places where I hurt and pulled them to the surface. With each passing second, this mental blitz required more and more of my attention.
+
+My physical control suffered as a result. The Hybrid's attacks, precise as when we started, ripped and tore through the shoddy defense I mustered. The tide of battle turning, I reached out a hand, ending the massive well suspending us. We fell towards the ground, Version 2.2 caught off guard. It fell off balance while I sliced into the dirt.
+
+I retreated, regrouping for a moment. I burrowed down, hiding in the earth. Above, explosions radiated out as where I stood vaporized. I shot through the ground, finding myself under a building. Using it as a sanctuary, I hid on the second floor of a skyscraper.
+
+I racked my brains for a solution. My physicality exceeded Version 2.2's. Its mental attacks overwhelmed me given time, however. Outlasting the creature wasn't an option because of that. Giving it time to cull my forces wasn't exactly optimal either.
+
+A message popped into status feed at that moment.
+
+Krog Borom, the Harbinger's General(lvl 13,000 | Guild: The Harbinger's Legion) - We've moved most of our forces towards the ocean. The evacuation has started. Hold the line for a few more minutes.
+
+I blinked as a realization overcame me; killing this damn thing wasn't necessary. Remembering my goal, I sprinted out of my hiding place and into Polydra's street. Pavement powdered underfoot as my heels slammed into the ground. Peering around, only Hybrids and a burning city exposed itself.
+
+I flew up into the sky. Peering down, I found Version 2.2. It gathered a mass of forces for gathering those that left Polydra. Opening my dimensional storage, I pulled the quintessence crystals I stored before the battle.
+
+I shot towards the cluster of enemies. They found me before I arrived, but I kept about two football fields between us. This kept me out of their psionic reach. Keeping that distance, I generated another massive well of gravity at the center of their troops. Their forces fell towards the center of it except Version 2.2.
+
+Coated in a golden aura, it ignored the physical manifestations near it, all but immune to the material world. That didn't matter. I reared my hand back and chucked a crystal at the ball of Hybrids. Like a baseball, it shot right at the monsters whistling through the air. Version 2.2 intercepted the gemstone using a ball of raw force that detonated it early.
+
+An elemental eruption cascaded outwards from the mana bomb. It carried the destruction of magmas, burning ice, and flaming metals.
+
+Version 2.2 bent down to charge at me. Before it could, I lobbed the rest of the mana bombs I made earlier. They veered in strange angles, manipulated by the gravitation.
+
+Whipping through the air, Version 2.2 took desperate measures. It waved a hand, creating six swords of light. These blades sheened with energy, locking onto the quintessence bombs. Before the monster unleashed its attack, I dived into the ground. Bursting through the soil, I built the momentum of my charge.
+
+As the Hybrid reared its hand back to fire the light blades, I tackled into the monster. The swords of light fired off into the distance, creating expanding stars at range.
+
+These forming lights siphoned the sunlight nearby, darkening the sky. They left behind blinding blots, however, mirroring space for a moment. Version 2.2 and I tumbled across the ground with these strange visions spiralling in our sight. Luck favored me, and I ended up on top of the monster. Instead of pounding its face, I stood and slung the creature at the balled-up Hybrids. If it kept probing my mind, it might discover something worth remembering.
+
+Before it got the chance, I let the creature go. I turned and sprinted away. A few footsteps later, an elemental wave jettisoned me from the pile. A massive explosion of purple fire erupted, the metal singeing from the acrid acids and molten minerals.
+
+I tumbled once more, barreling across the ground like a ragdoll. Once oriented, I slid onto my feet. Making a mad dash, I belted away from the clusterfuck behind me. I stumbled on my feet as another wave of psionic energy blasted my mind. A vision of Yawm twisting Althea into an abomination flooded my mind.
+
+In my eyes, I turned into a child, helpless and alone. I stared around, finding myself stuck under my bed. The sounds of breaking bottles and the smell of rancid booze flooded my senses. I shivered as the head of my mother clunked against the floor. My old man's feet walked across the floor, his steel-toed boots clanking against the hardwood floor.
+
+He placed a hand on the ground as I covered my nose to stop the sound of breathing. As his green eyes met mine, I came to.
+
+I awakened, darkness surrounding me. I reached out an arm, dirt surrounding me. I passed out before falling into the ground. A wave of anger spread from my chest along with self-loathing. I was well past being scared of that old bastard. Falling for that pissed me off.
+
+As the ground above me disintegrated, I turned towards the Hybrid coming at me. I launched my own telepathic assault the moment it created a mental tether between us. Wielding my wrath and hatred as a weapon, I crashed against their psychic network without mercy. The Hybrid fell onto its knees before I grabbed its mouth and lifted it off the ground.
+
+An endless torrent of quintessence siphoned into its frame. It bulged from within, unable to withstand the expanding matter. A cold, spiteful glare plastered onto my face. A piercing, genuine hatred manifested into my chest. I wanted this abomination to suffer. I wanted it to crumble in my hands and weep.
+
+It did, a deep fear spawning in its many eyes. As with all my victories in this battle, the golden aura returned and eliminated the ground I gained. The energy deleted my mental line and disintegrated the generating matter. I stumbled backward, the field even shoving me back. Version 2.2 renewed the psychic assault.
+
+I shot out another pulse of energy, the mental wire splitting. We both stared at one another, each of us at a standstill on how to gain any ground. The abomination's features shifted, the being standing taller. The cold, calculating gaze returned.
+
+It spread out its arms and spoke using magic,
+
+"It's been quite some time, hasn't it?"
+
+The voice stopped me in my tracks. I narrowed my eyes,
+
+"Tohtella?"
+
+"Yes. It's good to see you again, though I don't enjoy the circumstances." The Hybrid lifted its hand, and the crowd of Hybrids stopped moving in their tracks. I glared between them both, confused and on edge by their behavior. While charging a singularity in my blood, I tiled my head at the Hybrid,
+
+"What are you talking for?"
+
+The Hybrid gesticulated with its disgusting body, turning a hand to me, "To come to a compromise."

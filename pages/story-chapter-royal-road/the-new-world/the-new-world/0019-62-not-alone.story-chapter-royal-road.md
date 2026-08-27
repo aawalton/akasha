@@ -1,0 +1,179 @@
+---
+id: 1fb68142-1f80-5f7f-aab0-45f1b334487d
+page-type-slug: story-chapter-royal-road
+title: "62 Not Alone"
+slug: 0019-62-not-alone
+partOf: the-new-world
+position: 19
+ownLength: 2991
+unit: words
+ownProgress: 2991
+publishedAt: 2017-10-20
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/169237/62-not-alone"
+royalRoadId: "169237"
+markedReadAt: "2026-06-29T21:21:22.688Z"
+---
+
+I clapped my hands together, “Hell yeah. It’s about time.”
+
+Torix nodded, “Indeed it is. You’ve progressed at a rapid pace for the most part…though considering your effervescent flow of mana and the kind of mana you wield; your progress is only slightly above average.”
+
+I shrugged, “Eh, as long I’m moving forward, that’s what matters. No point in meaningless comparisons.”
+
+Torix frowned, “Ah…I suppose your right. Then onto the gravity magic.”
+
+Torix created a chair made of black, writhing mana for the both of us. As I sat down, his hand shook for a moment. He grinned, “You’ve gained quite a bit of mass recently, haven’t you?”
+
+I grinned, “Eh, a little. I can stand if you’d like. Hell-“ I stood up before waving the chair of mana away. I then sat midair in a squat before curling my armor around my legs. After that, I created supports for my back. I leaned back into my chair, pressing against a telekinetic field on my back. At the same time, I created another wide field on the floor around me.
+
+The result was that I looked like I was sitting on nothing in the middle of the air. It wasn’t too difficult to maintain either, though it did take some genuine focus. Torix raised an eyebrow at the sight of it,
+
+“What is this? Hmmm…you used your armor to lock your legs in place then leaned back into a telekinetic field…Ah, then you dispersed it around you. An interesting application.”
+
+I grinned, “Yeah, with my willpower being as high as it is, I can keep track of more things at once now.”
+
+Torix frowned, “But wouldn’t it be simpler to stand?”
+
+I made little armrests with my armor, laying my arms down on them. I raised my right hand, “For sure, but let’s think of this as training. One of the most important parts of having high willpower is just being able to handle more stuff on my plate. Any second that I’m not taking advantage of that is a waste.”
+
+I leaned onto the hand with my head, “It’s kind of like if I had 10,000 strength, but I never end up using more than half of it. If I never need the upper half of my strength, then it’s just wasted stats. If I never use my extra willpower, then I’m wasting it.”
+
+Torix cupped his chin and nodded. Sitting in thought, he pondered at the ceiling for a bit.
+
+“I can see your point…I agree.” He raised a palm, forming a chair of mana for him to sit on, “Now, enough pleasantries. Let’s begin your course in gravitational magic.”
+
+He pointed a finger, and a blackboard appeared behind him. After coughing in his throat for a bit, he spoke,
+
+“The way you’re redistributing your weight is very similar to how gravity magic operates. The difference comes from constituting force that’s being manipulated. You are rearranging the kinetic force of the earth’s pull, but you aren’t actually shifting gravity.”
+
+He pointed at the blackboard, flipping it sideways. In a checkered pattern and colored blue, lines appeared on the board. Torix put two fingers together, a ball of metal materializing in his hand.
+
+“Do you see this grid? This represents both time and space. This metal marble in my hand is a blob of mass.”
+
+He set the metal ball onto the blackboard. Like putting a bit rock on a trampoline, the blackboard bent downwards. Torix pointed at the depression caused by the ball,
+
+“This depression is the influence that gravity has over both space and time. It warps it, bending it like no other energy can.”
+
+Torix spread four fingers into the air. Four smaller metal balls appeared in-between his fingers. He rolled one towards the depression of the large ball. The ball rolled passed the ball before pulling back and circling it. Like a planet orbiting another planet, the ball fell into a steady orbit around the larger ball.
+
+Torix continued, “I’m adding in some additional force to account for friction. In the absence of it, these objects can orbit for an indeterminate amount of time. Now, whenever manipulating gravity, you can’t manipulate the object at hand.”
+
+Torix raised a hand, and one of the orbiting ball stopped moving.
+
+“This isn’t gravitational manipulation. This is simply forcing something to stop with kinetic energy. Telekinesis in other words. In order to manipulate gravity, you must ignore the object, and see past it.”
+
+With a flick of his wrist, he sent the ball orbiting again. Gripping with his hand, an area of the blackboards collapsed downwards. The circling ball’s orbit widened until it fell into the collapsed area.
+
+“You must interact with this field that surrounds all matter. This dimensional fabric composes our universe, and bending it requires tremendous intuition, effort, and time. Over the coming months, we will enact a three-step program that will allow you to do so. ”
+
+With a wave of his hand, the entire demonstration dissolved.
+
+“First, you must learn to sense the field. Second, you must learn to mold the field. Third, you’ll master techniques to abuse what you’ve learned.”
+
+I clapped my hands, “Alright, let’s do this. How in the fuck am I going to sense the fabric of our dimension?”
+
+Torix raised a finger, “By leaving it.”
+
+I frowned, “Ahh man. This again.”
+
+Torix flicked a finger, snapping my nose.
+
+“Yes, this again. Do you remember visiting the rift?”
+
+“Uh, yeah.”
+
+“There was an oddness in the air. A feeling like things weren’t quite normal.”
+
+I lifted my head off my had, “I thought that had to do with leaving Schema.”
+
+“Partly, yes, but the difference also comes from the difference in dimensions. The very laws of physics operate differently within that universe. Time, gravity, the most natural laws are different.”
+
+I remembered how time slowed down whenever we were inside the eldritch dimension. I grinned,
+
+“Ahhh, so if I can get a good grip on the difference between the dimensions, that’ll let me identify this uh…dimensional fabric and whatnot.”
+
+Torix raised a finger, standing from his chair, “Precisely. During the next rift closing, you and Althea will be tasked with staying there for a week. I’ll discuss this with Althea after our meeting.”
+
+I frowned, “She’s not gonna like that. Not one bit.”
+
+Torix waved my concern away, first with his hand then his words,
+
+“It’s a part of her training as well. Recently I’ve identified what it is that made her different from the other experiments of Yawms. The eldritch dimension acts as an excellent place to learn this balance as well.”
+
+Torix met my eye, “Of course I understand if you wish for greater safety during a prolonged expedition. I could have Kessiah monitor you both if you’d like.”
+
+I cupped my chin, thinking about it for a second,
+
+“I’ll think about it for a few days. For now, I think having Kessiah with us is a good idea. A follower could show up if we’re inside the portal for a week. Without her help, we’re fucked if that happens.”
+
+Torix nodded, “I will inform her of the task then. I’m going to be trying to figure out a way of purging these insects from the victims. You may self-study for the remainder of this week.”
+
+I raised an eyebrow, “Really? Alright. I’ll see if I can’t come up with a regiment of my own then.”
+
+“Then off to it apostle. Time is of the essence.”
+
+I stood up from my impromptu chair, grinning, “Roger."
+
+I walked towards the door out, but I stopped, then turned and asked, "Hey, have you ever heard of a legendary skill?"
+
+Torix already turned towards his work, "Only in stories. Let's not waste our time discussing legends and myths."
+
+He didn't sound like he wanted to continue discussing it, so I stepped out of the house. Before I went off and brainstormed for a bit, I opened my status and allocated my tree points into my current path, Cosmic Soul. It was half as large as Obliterator or Genesis of Potential, but it would no doubt be powerful if I could just get the points needed for it.
+
+My recent breakthrough in carving had given me enough points for the first upgrade of it. With that in mind, I allocated the points. The notification popped up along with the message.
+
+Some beings exist with nothing to their name. They wish not for progress, preferring the pits of stagnation. You aim to expand your presence. You aim to temper your soul and forge it in fire. +25% learning speed of soul related skills. +25% learning speed of oblivion related skills. Ability gained! [Cosmic Soul(Tier 1) – The size of your soul is limitless. +20% scaling and handling of soul related skills.]
+
+For all the hype around the name of the tree, I sure as hell didn’t know what it did. Remembering the lunch I had planned tomorrow, I set out into the town. I figured finding some supplies would help, mainly seasonings and canned goods since they didn’t go bad.
+
+So with that in mind, I went out towards the town. After passing through the quarantine zone, I walked through the zombie infested wasteland. It was an eerie place when walking through it by myself. The corpses were long gone now from the original infestation. Only bones covered in ragged clothes remained.
+
+Either that or they’d turned into the trees and forest that Yawm seemed intent on keeping contained. I knew good and damn well that I’d make him pay for his patience. By the time he escaped whatever world tree bullshit he was doing, I was 100% sure I’d be a force to reckon with.
+
+Before that though, I needed some paprika and cumin. I entered an old grocery store, finding little to eat. All the perishables were gone, along with the clear majority of dogfood. The zombies smelled what was in the bags before tearing into the them. Based on the bite marks at least. The only things left where the canned and glassed goods.
+
+The seasoning isle and the canned goods remained nearly untouched. After walking back and forth for a minute, I picked up a plastic carrying cart. I placed all kinds of seasonings in the basket. Pepper, basil, oregano, dill, some cloves of garlic and rosemary, I took one of them all. I filled the basket to the brim with these seasonings before moving onto the canned goods.
+
+After that, I collected this specific brand of lemon flavoring that came in a powder packet. I swear you couldn’t tell the difference between it and real lemon juice. It worked in place of it exceptionally well. With it, I grabbed some olive and canola oil. After that, I grabbed a bag of white rice before heading out. The rest of what I needed for a decent meal, I would need to forage.
+
+Before I left, I set all my supplies onto the ground. I had two basket fulls with my arms stuffed too, so I went out and grabbed a shopping cart. Whenever I put all the stuff in, I started leaving. It was one of those fucking shopping carts with a squeaky wheel though.
+
+The piece of shit kept getting caught, running around in circles, and just being generally disagreeable. After about fifty feet of listening to a banshee squeal in wheel form, I lifted the shopping cart into the air. I held it there with a single arm before snapping the metal beams keeping the wheels on the bottom. I stretched the metal tube and made a sort of shopping cart backpack.
+
+After using another shopping cart to make a top for it, I was ready to get a move on. There was a local greenhouse near our old high school. After crossing town and avoiding zombies along the way, I reached it. I didn’t want zombie mush all over the food after all.
+
+Once I reached inside, the place was overgrown. Plants of all sizes hung from the rooftops and struggled to get out of confined space. Tomatoes, potatoes, beans and greens, daisies and tulips, the place was stuffed with all kinds of produce and flowers.
+
+I walked in through a hole in the glass lining. My steps quaked the ground a bit as I selected the best and ripest fruits, vegetables, and produce. It was a lot of fun just running around and getting stuff for something simple as cooking. Fulfilling a basic need like this…there was something innately satisfying about it.
+
+I kept it simple, collecting tomatoes, cucumbers, and fresh herbs like mint and lemongrass. After filling up my shopping cart, I ran back towards camp. I kept my steps light using my telekinesis before reaching out towards the camp.
+
+I’m sure I got a few weird stares as I walked by with a shopping cart full of shit on my back. It didn’t bother me much though. I was too absorbed with the task at hand. After setting the shopping cart into my unused tent, I headed out towards the forest surrounding Springfield.
+
+There was something deeply nostalgic about running through the forest. I played outside often when I was kid, almost always as the sunset. I would avoid going home after school because my dad was a pain in the ass. These trees became a familiar home for me in that sense.
+
+Once I reached the creek, I sat beside a pool of water and let my feet cool in the water. The sound of the creek, the sweet breeze, even the tiny fish and minnows darting in the water…It was a nice, relaxing moment. This whole evening had been refreshing.
+
+I wouldn’t dwell in this nice lull though. That’s how you end up stagnating. A few minutes later, I stood before dashing through the forest. Using my sharp eyes and keen nose, I ran around the forest and followed a few trails. After finding a pile of deer shit, I knew I was close. I surged my ascendant mana and charged towards the nearby sound of a deer.
+
+Except, it wasn’t a deer. Standing there was a person in a lithe, mecha exoskeleton. This wasn’t a heavy suit either. It was practical, a few wires and connecting cables set on top of a black jumpsuit. The jumpsuit was covered in a hexagonal pattern. I thought it was a nanofiber mesh, like Kessiah’s pack.
+
+The helmet of the thing's was long, like the xenomorph off alien. Two cameras pointed in off directions, surveying his surroundings. Some type of thrusting jetpack was on his back, along with two folded wings. They unfolded whenever the thing turned towards me. In his hands, he aimed a short machine gun with a green laser pointer at me.
+
+He opened fire. Blue bullets slammed into my front as a stream of blue fire exploded behind the alien, propelling it into the air. I lowered myself while leaving a hand up. Before he could get distance, I slammed a wave of telekinetic power on top of him by pulling my arm down. It was enough force to stop him from getting further away, but he wasn’t put onto the ground.
+
+I lifted both my arms and surged my ascendant mana. After gritting my teeth, I slammed him downwards with all my strength. Like a bird being crushed by a falling cinderblock, the alien rushed towards the ground. When it hit the forest floor, a few loud popping sounds echoed through the forest. I overestimated the force increase my ascendant mana had made. My bad.
+
+I walked up to him before lifting him with a hand. His legs were broken, one bone sticking out, covered in blue blood. I frowned, inspecting the long head and size of the creature. It couldn’t have been more than five feet tall, straight puny compared with my now hulking frame. It’s gun wasn’t much better than a human’s gun either. The plasma bolts just didn’t have the piercing power to do meaningful damage.
+
+FearFighter Scout(lvl 341) – A member of the FearFighter faction in deep space, this is one of the preliminary scouting members. The FearFighters are mercenaries that use fear tactics instead of brute force during operations. Often times they are preferred by clients that are preferring a more subtle approach in their mercenary needs.
+
+This means assassination, deprivation tactics, and other means of keeping a client safe are employed. While not the largest or most well-known of the mercenary guilds, they are perfect for protecting middle to smaller sized parties that aren’t interested in conquering areas. The fact that their prices are middle of the pack as well means they are quite affordable.
+
+This specific member is relatively new, with the average FearFighter hitting the mid-450 range in levels. Of course high level members exist, but are often rare when compared with far larger factions, like empires. This enemy holds no threat to you, but bad blood is something most would rather not have against any mercenary faction.
+
+Lots of useful information here, but I was at a loss. I tapped my chin, wondering what to do. Taking him to Torix was the likely option, so I slung the alien over my shoulder and turned towards our camp. In the corner of my eye, something moved in the distance. A few more blips in the corner of my eye snapped. By then, I wasn’t alone. A green laser pointer appeared on my chest.
+
+Then another. And another. Twelve more laser pointers later, and they had surrounded me. I couldn’t help but smile, the ascendant mana pumping through my veins. As the crimson tendrils of my mana streamed upward, my armor grinned. The deafening sound of gunfire rained down a moment later. Ready and waiting for the first strike, I snapped the neck in my hand.
+
+It was time to unleash the tempest.

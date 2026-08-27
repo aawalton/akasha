@@ -1,0 +1,477 @@
+---
+id: c5e4f1b9-eb17-5baa-bc6f-d39976e01d25
+page-type-slug: story-chapter-royal-road
+title: "419 The Mad Gods"
+slug: 0379-419-the-mad-gods
+partOf: the-new-world
+position: 379
+ownLength: 4339
+unit: words
+ownProgress: 4339
+publishedAt: 2025-05-02
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2248191/419-the-mad-gods"
+royalRoadId: "2248191"
+markedReadAt: "2026-06-29T21:34:19.843Z"
+---
+
+Althea scratched the back of her head.
+
+"How did it know? I couldn't even tell."
+
+I frowned.
+
+"Me neither. It's like it could see right through them."
+
+We walked to the checkpoint, the Seer's stare piercing. As we walked past the behemoth, its body moved. Like a grinding stone, its joints milled against its body. It wasn't metal but a dense rock. It stepped up to me, the body of the beast three times my size. It peered down, and it sounded like an old, ancient mountain finally given a voice.
+
+"The Harbinger. We've waited for you."
+
+Chapter Begin
+
+I raised a brow as it lunged to one knee. The crowd gaped at us, their jaws slack and eyes wide. I peered back and forth.
+
+"Huh...Er, why?"
+
+The Seer peered up.
+
+"My maker wished to thank you for what you've done."
+
+"And who would that be, exactly?"
+
+It stood up, reaching into two crevices of its armor. It pulled out two spatial slicers from fallen Sentinels. It waved them around before my eyes narrowed. I frowned.
+
+"If we're going to fight, let's not do it on the bridge, alright?"
+
+It nodded.
+
+"To battle was never my intention."
+
+It sliced beside us. A portal opened to the ether, and it stepped inside. Unlike most portals, this one didn't expose anything aside from raw space. Despite its starry origin, it lacked the siphoning a portal to space usually had. The Seer waited for me on the other side before spreading its arms.
+
+"Are you not coming?"
+
+I gawked.
+
+"Hell no. I'm not going to walk into someone else's portal that I don't know."
+
+It shook its head before telepathically linking to me. Its mind was ancient yet new. It held innumerable secrets and archaic knowledge, but no thoughts, connections, or principles stemmed from them. The odd dissonance left me wondering how it came to be. It murmured in its mind.
+
+"Etorhma wishes to speak with you. You may enter of your own will, or my maker will find other means of getting you there. You know this. Why fight it?"
+
+Its mana erupted in all directions.
+
+"Unless it is necessary. I am prepared."
+
+Althea leaped away, and I soaked in the incoming mana, trying to feel its effects. It crossed through me as a surreal sensation, like having a daydream. Visions flashed in my mind, all of it a jumbled mess. Peering behind me, Althea grabbed the sides of her head, struggling with the energy's toxicity.
+
+A roaring panic bloomed in my chest. I covered Althea in Event Horizon, draining the excess mana, and she quit shaking. A second later, she threw up, her hands trembling before she wiped her mouth.
+
+"I'm...I'm ok."
+
+A dark hatred formed in my chest. I turned to the Seer, and I seethed.
+
+"You dragged her into this."
+
+It tilted its head.
+
+"You evoked me. The consequences of which are yours alone to bear. She is merely caught in the crossfire."
+
+I wanted to crush it into a thin paste, but Althea couldn't even tolerate being near it, let alone living through a battle beside the thing. All the people nearby would die as well. In fact, several had. Citizens looking for a better life went mad as the strange mana overwhelmed their minds.
+
+They leaped from the bridge, smashed their faces into the pavement, and ate their own flesh. If the Seer and I fought, this kind of fallout would kill thousands and probably Althea, too. Showing my restraint, I walked towards her. The Seer pointed his spear at Althea, and an orb of the strange mana encapsulated her entire body.
+
+She writhed inside, her mind a mess. I froze in place before I simmered my words.
+
+"You will stop, or you will be stopped."
+
+It laughed.
+
+"I will if you simply walk inside, Harbinger."
+
+My hands shook from frustration before I stepped through the portal, and the Seer clicked its fingers. I held my hand in the spatial rend, and it closed against my fingers like the jaws of some eldritch. As with those monsters, the portal stopped against my skin, unable to pierce it. I squeezed the portal, holding it firm as I tugged it along. The Seer crossed its arms.
+
+"What is the reason for grabbing the spatial rend?"
+
+I dragged it behind me.
+
+"It's for insurance in case you decide leaving me here is a good idea."
+
+The Seer stepped through a vast view of the galaxy, books floating in the distance.
+
+"We mean no harm, and we intend to return you promptly. However, if it soothes you to keep that, then do so."
+
+I tugged the rip, having no intention of playing along. I eroded the mana surrounding Althea with Event Horizon as we spoke, my wake crossing two planes of existence. I nodded at the Seer, my voice and gaze like ice.
+
+"Of course."
+
+We stepped through a vast eternity, all directions aimless and soaked with nebulas. The sheer magnificence and color left me humbled, but my defiance sparked in tandem. By now, the Old Ones had exhausted my goodwill. I was weary with their tampering, poking, and prodding.
+
+They tried killing me on L-7 using Valgus as a surrogate. They created Yawm, who destroyed my hometown and threatened my world. They invaded my home now using portals and an overflow of avatars. They even tried killing Althea. If not for Event Horizon, the mana inside her body would've shattered her mind.
+
+And even if it carried consequences, I would retaliate using all I had.
+
+In the distance, one of the Old Ones loomed. It chose the form of a splintered mountain conjoined by flesh, its colors unmanifested and blurred. Fragments of shattered planets hovered within its orbits, and the many tendrils played with the shards. The being, planetary in scale, shifted an unseen eye over me, its sight pressing as a guillotine on a soft neck.
+
+It was Etorhma. Its voice erupted.
+
+"It's good to see you again."
+
+I smiled, the expression lifeless as a corpse's eyes.
+
+"Yeah. For sure...What do you want?"
+
+Its body blurred reality around its chosen vessel.
+
+"You're wise to fear us. To wish nothing of us. All of us. You are...Unique in that way. Others see potential. You see a grim demise. Perhaps...A scarred immortality. It's a wise thing to fear. We know of that unique torment, and in ways you cannot imagine."
+
+I raised a brow.
+
+"Have you been working on your speaking skills? You're more coherent than before."
+
+It laughed.
+
+"My speaking has elevated no more than yours has. I...I am the one who walked into your plane the earliest, if we may even conceive of such. The temporal flow in your world is...Elusive. Fleeting. Like dancing in a memory. One that wanes."
+
+I furrowed my brow.
+
+"Are we done here?"
+
+"No. You've seen the signs of something coming, haven't you?"
+
+I nodded. Etorhma's colossal frame shivered.
+
+"It's not my presence that is tampering there. My aims diverge in other directions. If all is to pass as this entity wants, then there will be nothing left. That will not do. I've yet to taste impermanence. Limitation. Weakness."
+
+I rolled my shoulders.
+
+"What is this entity you're hinting at? Can I get a name?"
+
+"We...We cannot say."
+
+My eyes widened.
+
+"Something that can silence an Old One? How?"
+
+"One of my brethren...They have made a promise. We may not disclose anything without evoking their wrath. This...It causes us to fumble more than we have. More than we do. It is a crippling blow."
+
+I could sense Althea trembling in my wake. I frowned.
+
+"Crippling? You can't cripple something that was never functional."
+
+The Seer crossed its arms.
+
+"And what do you mean by that, human?"
+
+A sardonic smile crossed over my lips at the compliment.
+
+"Everything the Old Ones have done has amounted to nothing. In the end, it's chaos without any cause. How can that be crippled?"
+
+Etorhma's voice rose.
+
+"You've changed in more ways than one. Your voice is grating, as are your words. It's interesting, yet it must be muted."
+
+The vibrations of its voice passed over me. I raised my brow.
+
+"I find you equally annoying. Probably more so, but I'm not concerned about your preferences. What do you want me to kill this time?"
+
+Etorhma rippled its solid body like a liquid for a moment.
+
+"The entity I cannot speak of. It must be stopped."
+
+Althea vomited outside once more. I dragged a hand down my face.
+
+"That's oddly unspecific, even for you guys. And let's be honest, that's saying something."
+
+Etorhma simmered.
+
+"You have told us that you speak in action. Find this entity using that methodology, not one of mere conversation and words. Noise as you've called it."
+
+I frowned.
+
+"Then what? You'll reward me?"
+
+"You wouldn't wish for it, so I won't."
+
+My gaze sharpened.
+
+"Then answer a few questions. That's a worthy trade, right?"
+
+"After the task is done."
+
+"Let's put in some goodwill both ways, eh? What are you?"
+
+"A being that transcends space and time."
+
+"Yeah. Sure. What can kill you?"
+
+"We may be silenced, but even then, it is not a true death. It is the thought of something similar. In the end, our perpetuity is established absolutely...But we may undo ourselves conceptually."
+
+These answers were as cryptic as ever, but I cut through the fluff and found its core. The Old Ones thought they could only die on a conceptual level. While not a true death, it was a start. I sighed.
+
+"Your Seer. It has a different kind of mana than anything I've ever seen. What is it called in my language?"
+
+"Prescience. That is all I will answer before you've handled my side of this...Bargain."
+
+Schema told us of three main mana types, but I already found several more. Arcane mana and entropy stood out, and Hod's mana type also differed. Prescience must be the same. The Seer walked up to me, its steps rippling the space around it.
+
+"Then it's time to tread back. Open the portal."
+
+Althea stood up outside, but she still trembled. I shook my head.
+
+"I'm not letting you near Althea."
+
+Etorhma connected its mind to mine. Once again, I marveled at the utter disparity between it and anything else I'd ever gazed at. It left the enormity of Shalahora's mind as a single grain of sand in a desert. A dessert world. No, a galaxy of sand and nothing else.
+
+However, I could tell that Etorhma's mind wasn't as vast and endless as Eonoth's. It pressed onto me from all sides, but I held firm. Etorhma cranked the pressure until my wake pressed down.
+
+"Remember, little thing...You are small to us. Fragile. Nothing. We speak out of interest. Not...Humility. Not for a lack of anything. We have it. The means. We lack your weakness. We need your frailty to engage with your minutia."
+
+Its voice reverberated through me.
+
+"That's all you are. A form of impotence. Do us well, and remember my words."
+
+Etorhma crushed further. My wake pressed onto the surface of my skin, and it reminded me of being confronted by uncomfortable truths and violence. The seizing in my chest. The immediate adrenaline rush. I couldn't move as the presence of Etorhma wrapped around me as if I were stuck in a cave. In that overwhelming pressure, I glared at the Old One.
+
+"Are we done here?"
+
+Etorhma suppressed me further, and my body began to ripple. I liquified, and my soul splintered. My body gushed out like a splattered tomato, but I maintained control of the rifts I held within me. I didn't want them left uncovered, even as my memories blurred. The pressure mounted to a fever pitch, and I compressed into a smaller, denser being. Etorhma murmured.
+
+"A pity. Another prospect broken by my impatience."
+
+Etorhma released me. I snapped back to my normal form, returning from being squeezed down. Without missing a beat, I frowned.
+
+"See you later, Etorhma. It's been about as much fun as it always is."
+
+It laughed. I tilted my head before it spoke with hunger.
+
+"You're far easier to speak with than the others. It is...Refreshing. Others are ash. You are the wood that burns into it. I...I may extend an offer...If you would hear it...Will you?"
+
+It was an endless being offering a contract of enormous power and scale. I could skip all hurdles and become one of the most powerful beings in existence. This was my chance to answer the call for greatness. The call of eternity. Taking full advantage, I spoke with confidence, reciting my words with care.
+
+"Hell no, you egomaniacal narcissist. You're just a desperate conman with a chip on your shoulder."
+
+Even as the words left my mouth, I understood how dangerous it was to say them. I existed in Etorhma's realm, surrounded by its essence. It could rip me apart, and it could kill everyone I loved. However, that was only a theory. If Etorhma could destroy anyone and anything, then it would've killed Yawm on its own.
+
+Even more so, Etorhma wouldn't have asked me for help here, either. It would've destroyed this other person they couldn't even speak the name of. From what I gathered, that was their greatest weakness - precision. They had nuclear bombs in each hand, yet they wanted to perform surgery. That meant they had to use proxies.
+
+I would be fighting hundreds of those proxies on Earth already. What more could the Old Ones send my way? They could try to destroy me as Eonoth had, but that wasn't certain. The only time Eonoth broke their covenant was when I scrambled Lehesion's mind. That was to protect his avatar, and in this case, I wouldn't be killing the Avatar. I'd be a nuisance.
+
+The Seer stepped up, and it leaned over with an ominous aura.
+
+"You bite at heels, a microbe amongst men."
+
+I blinked.
+
+"That's right. But at least I'm biting. You're the one licking their feet like a dog."
+
+Its mana effused outward, thick as plasma. I scooped a portion of it up in my pocket dimension, but I avoided cutting the actual Seer. I'd seen what the Old Ones would do to protect their chosen ones under the right circumstances, and I didn't want to push my luck any further. The stat was only so high, after all.
+
+Etorhma radiated across the vast cosmos around us.
+
+"Enough. Escort it out, Seer."
+
+The Seer pointed at my palm.
+
+"Open it."
+
+A wild idea popped into my head, and I chose to follow the impulse, consequences be damned. I turned to Etorhma.
+
+"I've always wondered, but where is this, exactly?"
+
+Etorhma scoffed.
+
+"I've answered what you're deserving enough to know. In time, I may illuminate more about this place. For now, you must satiate yourself with your own musing."
+
+I smiled, the expression as tight as a piano wire.
+
+"Ah, well, I have a theory about this place. Want to hear about it?"
+
+Etorhma rumbled.
+
+"Perhaps."
+
+I gestured to the area.
+
+"I think this is a carefully curated space where you Old Ones can manifest with some measure of stability. Why? Because the other Old Ones will tear you apart unless you act with some reservation, and these spaces are a big part of how you do that. The thing is, without these domains, your influence probably drops off a cliff since your accord prevents you from destroying our universe."
+
+Etorhma's presence shivered.
+
+"Assumptions. Nothing more than meaningless conjecture."
+
+I could feel Etorhma's hesitation. My smile deepened into a malevolent grin.
+
+"Ah, but that's the problem, isn't it? You can take time to build these places up, and if someone were to tear them down, then you'd be in a pretty poor spot, right?"
+
+Etorhma laughed.
+
+"You cannot harm this place."
+
+I nodded.
+
+"Maybe not, but Baldowah could, couldn't he?"
+
+A silence permeated. It loomed, growing into a kind of oppression. I shifted my body around the portal to Baldowah's dimension. With the opening resting on my palm, I raised my hand high.
+
+"I actually have a way to put your dimensions on a collision course with his. I wonder if that insane war junkie would enjoy fighting for control of your domain? You know, get a little taste of finality and consequence."
+
+Etorhma murmured in an immense whisper.
+
+"If you do this, you will be my enemy."
+
+I narrowed my eyes.
+
+"I've been your enemy since you destroyed my hometown with your little avatar. Now, I want you to remember this - you can smash me all you want, but you can't touch Althea without consequences. That goes even for you, Etorhma."
+
+I opened my palm, and a haunting laugh echoed from a domain of blood and destruction. Ascendant mana oozed out of the opening as blood drenched out into the domain of Etorhma. It clashed against the energy of Etorhma's domain, but Baldowah reached out in a growing wave of crimson.
+
+Blood dripped from the pages of books. The stars in the distance reddened as they turned into bloodshot eyes. More sanguine fluid leaked from them, the tears flowing into a growing red sea. It expanded in the horizon, a puddle that swallowed stars by the second. The Seer snarled.
+
+"Close that gap, smuggler."
+
+I closed my palm.
+
+"I need answers."
+
+The Seer dashed towards me, its body a blur of light and stone. I reached out with my hand, gravitation permeating every ounce of my being. The Seer collided against me, weighing far more than any mountain. It carried a continent's force in its impact, and it created a kinetic ripple that dispersed across Etorhma's domain.
+
+And yet, I remained motionless.
+
+I grabbed its neck, the body of the Seer flinging forward like a trashbag caught on a branch in the wind. I crushed down as the Seer grasped at my hands. I dug my fingers into its neck. It murmured.
+
+"Then your little woman will die."
+
+I scoffed.
+
+"I've cleansed the mana from her, and she's already hidden away. You're lucky she chose not to retaliate. Otherwise, you'd already be dead."
+
+Etorhma rumbled.
+
+"You wish to learn why you cannot harm our chosen avatars once more? I would've imagined Eonoth's beating would've left you humbled."
+
+I cracked the stone skin as my fingertips embedded into it. I laughed.
+
+"It's so ironic, isn't it? You all talk about how you want to experience this dimension and the resulting consequences of living here. You want impermanence. Death. Limitations. And yet, the moment you even get a taste of what that really means, you snarl like spoiled children."
+
+My armor dug under the skin of the Seer. Its internal structure was a seafoam-colored magma, and my armor feasted on the energy. Event Horizon sapped its life away as my armor smiled. I stated my words.
+
+"You can't stand to have a toy broken, let alone experience true loss. Instead, you parade around in some pathetic attempt to feel what we feel. The reality is, you won't ever truly experience our lives because each of you, deep down, is afraid. You all lack the courage to live with your life on the line. Even the smallest worm isn't that weak-willed."
+
+The Seer gurgled out as its seafoam blood flowed down in cascades from its stone skin. It growled at me.
+
+"Says a man who's lived less than a century. What do you know of loss?"
+
+I pulled it closer. I remembered Althea collapsing as I snarled.
+
+"I lost my hometown to you all. I lost my humanity to survive in BloodHollow. I even lost the sweet memories of a mother and a life I never lived."
+
+I turned to Etorhma as I lifted one hand.
+
+"And now you get to feel a taste of what that's like"
+
+Etorhma roared.
+
+"Enough."
+
+The Old One's presence cascaded over us, tearing reality. My skin split as countless fissures spread over me. In my hands, the Seer's legs collapsed while Etorhma's pressure destroyed portions of it. The Seer let out a scream. Etorhma raised its voice.
+
+"I...I am sorry. He is too close to you. It is difficult to isolate when you are both so...Diminutive."
+
+I let out a gurgling laugh.
+
+"That's right, isn't it? What you're experiencing is what we call a choice. On the one hand, you can smash me into oblivion. However, you lack the precision to keep your avatar alive at the same time. That, Etorhma, is a limitation. Tell me, how does that make you feel?"
+
+Etorhma let out a low rumble.
+
+"If you believe that will save you, then you have sorely misjudged my limitations."
+
+Another coursing wave of energy rippled out. My bones shattered. My organs ruptured. Blood oozed out of my body by the gallon, but I stood unmoving. The Seer writhed in my grasp, its body turning into a glowing, crunchy porridge. I spit my blood from my mouth.
+
+"And that's supposed to make me afraid?"
+
+Below the Seer, its blood seeped into an open portal - my pocket dimension. Etorhma rumbled.
+
+"Fine. Do as you must, but know that we are no longer on amicable terms."
+
+I turned to Etorhma and seethed.
+
+"We never were. I want you and the other Old Ones off my home planet."
+
+It laughed.
+
+"Then you will never have what you wish. And you will know the caliber of mistake you've made here today in time. I will guarantee it."
+
+A pit of dread pooled in my stomach. At the same time, a rage roared over my fear. I glowered at the Seer, its body twitching in my arms. It was dying. My words boiled.
+
+"For old time's sake with Etorhma, I'll let you be this time. Know that if you ever so much as graze a hair on Althea's head again, I'll break you until the pieces no longer fit back together."
+
+I released the Seer. It hung on strands of my armor like a limp puppet on strings. I scoffed.
+
+"Oh yeah, I forgot about that."
+
+I swung my hand, and the Seer's body ripped as several strands tore it apart. I opened my palm, and Baldowah's laugh resonated across space and time. Oceans of blood and bones poured out in a condensed stream. Baldowah's laugh kept growing in volume as it echoed across this domain. Etorhma, the mad god, snarled.
+
+"You still defy me."
+
+Baldowah spoke, its voice full of joy.
+
+"Ah, this is a bountiful harvest you have given me, Harbinger. I will award you further. Now, tell me, my brother. Will you fight?"
+
+Etorhma scoffed.
+
+"I don't care to live in an endless war."
+
+Baldowah's presence expanded across Etorhma's domain. As galaxies faded in the distance, Baldowah's voice carried the smell of iron and the taste of steel. It waged war in its voice alone, and it fed on carnage.
+
+"Ah, then you shall be dragged into one. Is it not beautiful to experience a battle? An experience of consequence and finality? Only one of us shall remain. Will you let me rob you of all you've made?"
+
+Etorhma roared.
+
+"No."
+
+A weeping, eerie joy lingered in Baldowah's words.
+
+"Then we fight until we die. An enchanting day, isn't it?"
+
+A clash of concepts erupted as the books and pages opened. Blood streamed out of the stars and eroded the nebulae. Blood dried into dry scabs that faded into ash. Ash then reformed into pages. As the conflict neared me, I ripped open the portal before stepping back onto the George Washington Bridge.
+
+I faced Etorhma's struggle as Baldowah's presence leeched into its domain, causing cracks to form over reality. I spoke into the portal.
+
+"It was good talking to you both, and there's a taste of the struggle you wanted so dearly. Enjoy it, will you?"
+
+I grabbed the edges of the portal I carried. I let the portal shrink to a tiny, minuscule point. Keeping a tiny slither of my dimensional fabric within, I walked up to where Althea had been, making sure I moved the portal around as I did. She returned to our plane, having recovered from the mana exposure without any permanent damage, thanks to Event Horizon.
+
+Still, a pile of sour vomit and salty tears steamed beside her. A few people nearby lost their minds in the meantime, unable to move or think. Before they lost themselves in someone else's energy, I drained their mana dry with Event Horizon. They fell unconscious, and I caught them in gravity before their heads clapped concrete.
+
+Within a few minutes, they came to. Althea let out a sigh.
+
+"Gah. And right after, I talked about how much I hated mana poisoning, this happens. That sucked."
+
+A snarling rage bit in my chest, but I smiled at her as I offered her a hand.
+
+"It did, and yeah, I hate mana poisoning too."
+
+She grabbed two of my fingers.
+
+"Like you've ever experienced it. You're the guy that oozes that stuff out."
+
+"Well, early on, I did feel its effects...But yeah, it's been a long time. Anyways, you ready to see New York City?"
+
+She spat to her side before wiping her mouth.
+
+"Sure, but where's the Seer?"
+
+"Oh, it's still trying to get back."
+
+Behind us, between the bridges, another spatial rip formed in the air. The Seer peered out of its portal, its stolen spatial spears glowing. It glared at me. Althea murmured.
+
+"What's got it so mad?"
+
+I grabbed the portal I wouldn't let close. I jerked it back and forth above my head.
+
+"This."
+
+Like Plazia warned, maintaining a moving portal demanded a lot of the spears. They kept shining brighter before electrical sparks erupted from their surfaces. In flashes of light, each spear ruptured from overloading. As they did, I placed a powerful gravity well inside the Seer. The shards of each spear funneled into the behemoth as it howled out. The portal closed, amputating both its arms.
+
+I smiled.
+
+"And that."

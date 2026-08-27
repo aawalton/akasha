@@ -1,0 +1,279 @@
+---
+id: 91b362f2-c00d-57ee-b6ee-88bbddf87791
+page-type-slug: story-chapter-royal-road
+title: "The Path of Ascension Chapter 392"
+slug: 0090-the-path-of-ascension-chapter-392
+partOf: the-path-of-ascension
+position: 90
+ownLength: 4689
+unit: words
+ownProgress: 4689
+publishedAt: 2025-02-28
+link: "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/2095558/the-path-of-ascension-chapter-392"
+royalRoadId: "2095558"
+markedReadAt: "2026-06-29T19:20:49.476Z"
+---
+
+Chapter 392
+
+Matt frowned as he watched the ongoing scene below the surface with his spiritual power.
+
+The Empire's people were almost uniformly going in the wrong direction. If he was a more cynical man, he would have suspected that someone was messing with them. But even the Corporation people seemed to be heading in the wrong direction, if less so than the Empire’s people, thanks to their initial coordination between scouts.
+
+Looking over to Aster who was snacking on an assortment of vegetables one of their chefs had brought down, he asked. “Is there any kind of mental effect hitting the Tier 15s? They should be choosing to spread out in a spiderweb but they almost always choose the wrong direction every time. Once or twice is a coincidence, but dozens of times? I don’t buy it.”
+
+Aster crunched through her food a few more times before swallowing. “I can’t feel anything and neither can any of our guards. There are no pervasive mental effects, illusions affecting them, or even physical optical trickery going on that might account for what we are seeing.”
+
+“Then how can you explain what we are seeing?”
+
+Aster flicked her ears in a shrug. “Sometimes random is random, and random can be weird.”
+
+Matt frowned and scanned the ruin again. Once he finished checking for the obvious things and found nothing he started looking for more subtle things, like small gradual inclines or declines that might be subtly shifting people's perceptions but while there was variance in the slope of the floor it wasn’t uniform enough to explain what they were seeing. He then checked the mana flows, which almost looked like a promising lead, as the mana flows didn’t directly move into the reward room but instead swirled around almost similar to a whirlpool before being absorbed around the boss room. Sadly, the flows had no discernible relation to the movement of the Tier 15s inside.
+
+Watching a Tier 15 Corporation mercenary scout, someone who was battlefield trained and tested, go down the path that led away from the ruin's boss room after being given the option between two paths.
+
+He had already been inside the ruin and hadn’t felt anything odd but given his Tier that wasn’t too surprising. He was tempted to go back in and see if there was something he was missing when he watched an Empire scout finally go down the correct path.
+
+Looking up her information he found she was an ordinary delver with an ordinary track record. One Alice Everdon who, unlike seemingly everyone else on the planet, managed to go in a nearly straight line to the ruin’s boss room.
+
+It was only for three rooms before she turned slightly off course, but it was still progress.
+
+Her progress was quickly overshadowed by two of the Corporation teams finally running into each other and linking up.
+
+That would speed up their progress as they knew which directions not to go and could focus on the others but they were still mainly going in the wrong direction.
+
+Things were interesting though and Matt watched as one of Aster's guards pulled an Empire team out of a bear beetle hybrid's clutches just before they were going to be crunched.
+
+They would need some healing, which they were providing for free, but then they would be cooling their heels for a month until the agreed upon waiting time for a death passed.
+
+Matt was personally waiting for one of the scouts to make a fatal mistake so he could pick their mind about the choices they were making. The first scouts who had ‘died’ didn’t have enough time in the ruin to be of any use, and those who were still active were mostly good enough to avoid the dangers present in the ruin.
+
+Being at the same Tier, Matt wanted to say none of the delvers should have any trouble with the monsters inside, but watching the spectacle below was a stark reminder that they were not normal.
+
+Matt watched as a team of three delvers encountered a single wind empowered rhinoceros and get absolutely beaten down.
+
+Sure, the monster was slightly faster than a typical Tier 15 thanks to its elemental affinity, but its attack pattern was incredibly basic with just three main attacks and only three variations of each main attack.
+
+The only reason they didn’t need rescuing outright was the fact another team entered their room and took the monster’s attention long enough for them to pull back into the tunnel, where they were able to fully disengage and return to a healing outpost.
+
+Compared to the Corporation mercenaries who were battle hardened, it was almost shameful to compare the two.
+
+He watched as a Corporation fire team from the third mercenary corp slowly whittled down an interesting troll variant. It wasn’t as tall as a typical troll but what it lost in height it made up for in bulk and durability which, when paired with its racial healing ability, made for a hard fight.
+
+A hard enough fight that without the team’s scorpion bloodline healer, who was seemingly able to weaponize her healing spells into offensive poison spells, they would have failed to do enough damage to outpace its healing factor.
+
+Still, their team's coordination stood out and Matt looked over to where Clyde and the mercenary leaders who were higher than Tier 15 were.
+
+Flexing his spiritual perception around the team in question, Matt asked. “What's the story behind that healer? She seems good.”
+
+The mercenary leader smiled politely back. “Michelle Skoren, she's a pick up from our own Path. Even pushed through to Tier 12 before stepping off to focus on her Minkalla run. She had a decent run. 72ATY411 to be exact. Once she left Minkalla she, let's say, bounced between jobs for a bit before we pulled her out of the fire and offered her a job. Quite the good catch, as you see. Did damn good work on our contracts in the war.”
+
+Matt didn’t comment on her performance in their last war, it being against the Empire itself and their ally the Guilds, but instead focused on her Minkalla run.
+
+Looking up the designation, he scanned the layout she had gotten.
+
+A first floor Wasteland, a second floor Mind Over Matter, a third floor Folded Reflections, a fourth floor The Hills Have Eyes, a fifth floor Courtly Warfare, a sixth floor Unskilled, and a final seventh floor Blood is Thicker nicely rounded out her cycle.
+
+Especially for someone with a bloodline like her. With what Matt could see of her skills, so long as she got out of the bottleneck that would have been her Courtly Warfare floor in the first or second wave, she should have had the ability to complete the planet and have enough Genesis Energy to get both an innate slot and the modification of her bloodline, which accounted for the healing scorpion bloodline.
+
+Should.
+
+Without being there himself there was no way to tell, unless he wanted to forcefully inspect her spirit and see if she did in fact have an innate skill slot. Even if he were to do that, though, it wouldn’t tell him if she had gotten it in Minkalla and wasn’t instead Talent-given, as he knew she hadn’t gone in at Tier 11 to get the flexible slot.
+
+It was just possible she had managed it.
+
+That potential, combined with her growth item staff, made her a person to watch in the upcoming fights.
+
+Fights that happened all too soon.
+
+Just two weeks into the exploration of the ruin, the sides finally contacted each other.
+
+By then both sides had already linked up with all of their cohorts, and it was two scouts that noticed each other.
+
+The Empire scout, feeling confident after just having defeated a room all by himself, chased after the Corporation scout who turned and ran immediately.
+
+It almost turned into a disaster but the Empire scout sensed the trap he was being led into just in time to pull back, allowing both sides to spread the information.
+
+Being the only side with the knowledge of where their enemies were would have been amazing, but losing that same knowledge wouldn’t have been worth it, and Matt made a note in the scout’s file that reflected his actions, both good and bad.
+
+So long as he didn’t fumble something else in his time in the ruin and cost them massively, he would see a sizable boost to his reward potential when this was all said and done.
+
+That did, however, kick off the second phase of the exploration as the fighting started almost immediately. Both sides began redirecting some of their combat teams from clearing rooms to the front lines, where skirmishes were commonplace but full-on fights were less so.
+
+Watching the various leaders make calls and send commands, Matt felt anxious as he was unable to influence their actions.
+
+Not that he would, even if he could get away with cheating— that would ruin the fun— but it felt very different watching rather than being the one to do whatever needed to be done.
+
+At least if he failed he knew he had done his best. Here, things were far more nebulous.
+
+Still, what had turned into the Empire leadership— one older army vet, one guild leader, and one person who had just been stronger than everyone else in their group— managed the situation well enough. It wasn’t perfect and Matt would have done things differently but it was acceptable.
+
+Instead of settling into a fight, they kept their eyes on the goal and kept pushing their forces outward while butting up against the Corporation battle lines. Mainly by using their own better than average delving teams to make strike forces that tried to disrupt the mercenary battlelines.
+
+It was a battle of coordination versus numbers. With more Empire people in the ruin they had a small but distinct advantage, and the leadership used it to harass the Corporation lines; surrounding and cutting off rooms and defeating the teams inside as they found them.
+
+The tactic wasn’t perfect and they took losses, but it worked well enough that they actually stopped the Corporation’s expansion twice and forced them to backtrack at one point, to escape a possible encirclement.
+
+It would have been more impressive if they had been blocking the correct direction, but Matt hoped it was a sign of what was to come.
+
+Two months in, however, both sides started to run into a supply issue. The gear they brought in just wasn’t enough to cover every room they had expanded to, and if they didn’t secure the rooms by either keeping a person or some piece of connected technology inside, the room would merge into itself and reform as something else after enough time. If enough rooms were left alone in an area they had the tendency to start moving around all together, which resulted in a half a dozen teams from both sides being cut off from the main groups and then shifted to another portion of the planet.
+
+Matt, Liz, and Aster wanted to give both teams more supplies to help ensure they could fully map out the ruin, and so speed things up, but Clyde firmly refused to agree which meant they couldn’t do anything.
+
+He insisted they had set the terms and couldn’t alter them.
+
+Matt wanted to point out the Corporation mercenaries were being affected just as badly as the Empire delving teams but didn’t bother, seeing how unwilling the Tier 40 was to bend.
+
+In the end it came down to a race of who would find the boss room first, and four months into the battle it finally happened.
+
+As the two sides were spreading out to try and cut each other off, they also started expanding their controlled territory in near unison but their scouted areas were both much larger.
+
+Being able to watch in an unobstructed manner, Matt got to see the Corporation scout who found the boss room.
+
+Once he confirmed the boss’ presence, he immediately turned and ran back through the rooms he had passed through to report to his people.
+
+It was almost the perfect escape, if not for an Empire monster controller who was controlling swarms of rats to creep through the ruin room by room on the Corporation side. His connection let him see the scout sprinting away and so he started looking. It took most of his remaining horde but he too managed to find the ruin’s boss room.
+
+If not for that, the mercenary teams might have pulled off the coup of the century as they feinted a push in the opposite direction, while sending a smaller but more elite team to secure the boss room.
+
+Without the report, the ploy might have worked but instead the teams clashed just two rooms away from their target, in a battle that saw neither side gaining ground but with both taking serious losses.
+
+Neither side was willing to give in, throwing themselves into the narrow hallways until the floors ran red with blood.
+
+Their guards and the higher Tier Corporation people worked overtime, pulling people out of the ruin to save their lives, but they managed with only a little help from Alice and Clyde, being the two highest Tiered people present.
+
+With the goal in sight the two sides, as if by agreement, pulled back from their other exploration branches and started reinforcing their pathways to the boss room.
+
+Neither wanted to have their supply lines cut which might lead to them getting randomized somewhere else in the ruin. Both tried to do exactly that to their opponents, knowing it could lead to a decisive win for their side, but defense was easier than offense and neither side managed it.
+
+The initial few hours after that first battle really showed the Corporation’s mercenaries' experience and competence, as they managed to rally much faster than the Empire whose leadership was far more fragmented. While the Empire's leadership managed to get people in place in one of the choke point hallways, they were outnumbered and slowly pushed back which let the mercenaries take hold of the ruin’s boss room.
+
+Matt winced as he watched in the scoring AI as the Corporation's total points rocketed above the Empire’s for the first possession.
+
+Seeing Asters tail flicking, he grabbed it and forced it to de-floof. “It's fine. The total points only matter if we draw.”
+
+“I still don’t like them getting the early lead.”
+
+Liz flexed her spiritual perception around a group of Empire teams rushing through the hallway. “A week is a long time to hold a room. This strike force will arrive before the Corporation reinforcements can, so there is a chance they are immediately dislodged.”
+
+Liz was proven correct just minutes later as the Empire team threw themselves into the mercenaries’ hastily erected defenses with abandon.
+
+The losses were high, with nearly a hundred of the two hundred and fifty person team being removed, but those losses proved worth it as they managed to take possession of the boss room.
+
+They started creating, or rather assembling, fortifications they brought along in their spatial expanded bags, which Matt approved of.
+
+It was all hastily enchanted and wouldn’t hold up to much of a beating but it was an advantage, and they needed every advantage if they were going to hold out long enough for the second wave of Empire troops to arrive. Now that everyone was moving in the correct direction the battles would only get fiercer as time went on and bodies were thrown at problems.
+
+And that was exactly what both sides did for the first day.
+
+Once they hit a bottleneck of how many people could fit or fight down the corridors, the combat started to spill over to the adjoining rooms, until almost a mile of the border rooms had active fights.
+
+As per their initial agreement a contested room, a room with both sides having active fighters, counted as the defender’s room, which was why they needed to move so quickly and decisively to dislodge them.
+
+Still, through it all the Empire defenders held strong and only gave ground when they absolutely had to, to prevent their line from collapsing entirely.
+
+That was until the Corporation mercenary elites moved in.
+
+Matt knew things wouldn’t go well when he watched Michelle Skores, the healing scorpion bloodline pretending to be an ordinary healer, move in along with three other teams.
+
+Together they made what seemed like a normal push to the boss room but just as they were being repelled, they used an earth mage to collapse the fortifications the Empire team had set up and rushed the disoriented teams.
+
+Their better than average combat prowess, as well as real combat experience, showed its value, as they managed to clean up the fifteen defending Empire teams inside the boss room before reinforcements could arrive.
+
+Michelle’s ‘healing’ being able to bypass the innate defenses cultivators had against internal attacks by virtue of being healing spells had proven devastating, as she took out almost a quarter of the defenders herself.
+
+The Corporations then threw bodies into the tunnels leading to the Empire controlled rooms and then, in a move only doable by madmen or people who knew they were playing a game, walled the tunnels up, trapping their people and letting the Empire slowly whittle their troops down. Even once they had managed that, they realized they would have to dig through dozens of feet of reinforced stone and brick. Not only that, but actively fight for control over the dirt with mercenary earth mages who would be resisting every one of their actions.
+
+When the Empire didn’t manage to dislodge or dig through after the first day, Matt was worried the world's ownership might be transferred right then and there, but the gathered Tier 15s weren’t willing to give up so easily.
+
+He didn’t know which was a bigger motivator, their presence or the promised rewards as both kept being used as rallying cries.
+
+At the end of the Corporation’s third day of holding the boss room, the Empire Tier 15s led by the third group’s leader, the one who had proven himself stronger than everyone else in his group, made a push.
+
+Instead of trying to dislodge the Corporation directly from the boss room, they made a two pronged pincer attack at two relatively weak points on the Corporation supply lines from their entrances to the boss room.
+
+They didn’t bother to sweep the rooms in between but instead took a lesson out of the Corporation tactics and blocked what hallways they could with dirt and stone from the outside.
+
+The ruin, seeing a section of the rooms were cut off from the outside, moved the rooms to new locations in its labyrinthine halls, removing almost a tenth of the Corporation’s fighters from the immediate fight.
+
+From the outside, Matt was able to see the fifty or so cut off rooms were sent onto the far side of the planet and he was deeply amused as they started to contemplate initiating a surrender. Doing so could get them back in the fight in just a single month, or they could try to fight their way back to the others, which might take longer or shorter depending where they were and how well they chose their directions.
+
+Considering how badly everyone navigated the ruin, they should have chosen the quick exit. As such their decision to try and make their way back to the main group themselves made his day. Doubly so as they started heading in an almost forty five degree wrong direction, which just got worse as they kept going.
+
+Clyde’s obvious frown only made the sight all the better as Matt, Liz, and Aster not only got to watch a large portion of the Corporation mercenaries wandering around aimlessly but also got to watch as the rest of the mercenaries had to struggle to reconnect their supply lines as the Empire Tier 15s turned their full might to dislodging the team holding the boss room.
+
+Sadly, instead of letting themselves be surrounded and defeated in detail before their reinforcements could arrive, the surviving Corporation mercenaries, including those in the boss room, sallied forth and punched through a weak point in the Empire encirclement, allowing them to escape and reconnect with the remainder of their main body.
+
+Still, the maneuver was a grand success and allowed the Empire to not only reclaim the boss room but put the mercenaries firmly on the back foot.
+
+The Corporation mercenaries didn’t intend to go down so easily and once their elite groups regrouped with their main group and re-established their supply lines, they pushed through the newly refreshed rooms and started a three day assault on the Empire fortifications.
+
+With a ticking clock counting down on the one week timer until the Empire won, the Corporation mercenaries moved step by step with determination. They didn’t rush but they never slowed down, using their long years of trust and refinement to march forward in a wave to cut down the Empire Tier 15s who lacked such cohesion.
+
+By the end of the three day assault they were standing at the final two rooms. The boss room itself and a pair of antechambers that had been turned into mini underground fortresses just waiting for them to throw themselves upon their walls.
+
+And thanks to the nature of the boss room only having two connecting rooms, they had to pick one of them.
+
+They spent a few hours and a few team’s lives probing the defenses, hoping to find a weaker section, but when both fortifications proved formidable and well reinforced, they made a choice, a literal coin flip, and launched a full fledged assault on one of the antechambers.
+
+Their elites led the charge, and even though it took two days of brutal fighting through a labyrinth of cultivator-made traps that filled every room, they managed to slowly cut their way to the final chamber.
+
+With just thirty six hours left, they stood before the boss room packed with as many defenders as they could fit without just getting in each other's way.
+
+Matt nearly laughed as he watched one of the mercenary leaders offer the Empire Tier 15s a deal to trade the boss room ownership back and forth to keep the timer going. She coached it as a good way to keep earning contribution points, but what was less funny was how some of the Empire Tier 15s seemed to seriously consider her offer.
+
+Thankfully their better sense won out and the Empire side, led by the retired army soldier and one of the two surviving leaders, declared they would fight until the end.
+
+With no other recourse, the mercenaries threw themselves at the defenders.
+
+It took almost ten hours for the first layer of defenders to fall, allowing the mercenaries inside the room, but that was just in time for the remaining Empire forces who had been scattered during the last assault to mount an attack on the Corporation’s rear and flanks.
+
+Sadly, the Empire troops walked into a series of traps that not only alerted their enemies of their presence but also decimated their numbers.
+
+The only advantage was that the attack cost the mercenaries precious time they didn’t have as the time continued to tick down, and they were on their remaining four hours before they needed to gain control of the boss room or lose outright.
+
+Even Clyde, who had acted the mostly uninterested observer during the preceding half a year, was on the edge of his seat as they waited to see the outcome.
+
+As the mercenaries broke through the front line of fortifications and into the killing field, Matt cursed as one of their people, a hat-wearing support who disrupted or hacked technology showed himself and shut down all of the Empire Tier 15s’ AIs in a devastating, if brilliant, blow.
+
+It immediately became obvious that a number of the Empire Tier 15s were far too reliant on their AI’s predictive models, as they struggled to read the flow of battle and were picked apart by the mercenary fire teams.
+
+With half of their number suddenly gone, the remaining fifty seven Empire Tier 15s retreated to a final wall and hunkered down, as the mercenaries threw everything they had at them.
+
+One by one the Empire Tier 15s started to either run out of mana and were pulled out as they were about to take a hit they couldn’t defend, or as they simply took too much damage to continue despite their defense of the crumbling structure.
+
+Knowing they just needed to hold on, the Empire Tier 15s refused to leave their battered fortifications, but the mercenaries were under that same time crunch and threw themselves at the Empire cultivators with furor.
+
+Despite being outnumbered, the defender’s advantage showed its worth, as each remaining Empire Tier 15 went down taking at least one Corporation cultivator with them, but usually more.
+
+With just ten minutes left it was down to the final five remaining Empire Tier 15s against thirty Corporation mercenaries.
+
+All parties were low on not just mana but stamina and willpower, but none of them surrendered or gave up.
+
+The remaining mercenary melee fighters threw themselves forward into the final few spells that the Empire mages could muster.
+
+One mage even had to be pulled out when he nearly caused the collapse of his spirit due to overdrawing his Concept on the last shield he cast, which protected two of the melee fighters from getting spiked in the back of the head.
+
+Matt watched, not letting himself blink, even though he was watching with his spiritual perception and not his sight, as he watched the final four Empire defenders fight with everything they had.
+
+One of those was the scout Alice Everdon, who had caught his eye earlier in the contest when she was the first person to make appreciable distance in the correct direction.
+
+In fact she was the final Empire Tier 15 standing as the final three melee mercenaries tried to batter down her defenses.
+
+She had been able to refill her mana slightly with a fast converting mana stone but, not being wealthy, had only been able add a few thousand mana to her pool and she spent all of that blocking the onslaught of attacks they launched at her.
+
+When her mana ran dry, Matt and all of the watching higher Tiers saw as she started using her Concept, something motivationally empowering based on the feel, to keep herself going longer than she should have been able to survive under such an onslaught.
+
+Even when she lost most of her shield arm, she used her mace to block the next two attacks, the head of the mace absorbing mana from the few spells the three remaining mages could slip in. Then she used that same mana to severely wound one of the mercenaries, which bought her a precious few seconds of time.
+
+Finally she did go down, as the remaining two Corporation melee fighters drew daggers and threw themselves at her, stabbing at gaps in her armor, one of them losing most of a leg to her final desperate attack.
+
+Thanks to her Concept, which she was resonating with enough to cause a visible distortion, she survived another full minute and thirty seconds, just focusing on protecting her head, before one of their guards pulled her out of the ruin and dropped her off in an already prepared medical bed.
+
+Aster jumped to her feet and punched the air even as Matt pulled Liz into a hug just to be piled on by Aster.
+
+One minute and twelve seconds over the one week time limit.
+
+Alice’s last stand and struggle had bought them just enough time to hold the boss room for one week.
+
+It had come down to the wire, but they had managed it.

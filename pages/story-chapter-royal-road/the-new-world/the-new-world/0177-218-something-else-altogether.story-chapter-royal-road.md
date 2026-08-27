@@ -1,0 +1,311 @@
+---
+id: 19b55cdb-c797-57d5-866c-3afcda821983
+page-type-slug: story-chapter-royal-road
+title: "218 Something Else Altogether"
+slug: 0177-218-something-else-altogether
+partOf: the-new-world
+position: 177
+ownLength: 4876
+unit: words
+ownProgress: 4876
+publishedAt: 2019-07-24
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/385425/218-something-else-altogether"
+royalRoadId: "385425"
+markedReadAt: "2026-06-29T21:26:56.989Z"
+---
+
+I hovered my hand over yes before turning to the others,
+
+"Guys. I'm probably going to look like I'm dying over here. Don't worry too much about it. I'll be fine."
+
+Althea frowned, "What do you mean?"
+
+I took a deep breath, "It's my next armor evolution. It's been years, and something tells me it's not going to be a simple, easy thing this time. It might take a while."
+
+Helios raised his exposed eyebrow, "Evolution? Your armor evolves?"
+
+I nodded, "It's about to again. I'm going to take a few steps away, just in case."
+
+I lifted myself up, "I'll be back in a minute. Well, it might take a while actually. I don't know yet."
+
+I spoke my goodbyes while the others were patched up by the medical facility. With formalities handled, I zoomed off into the distance. After pulling myself along for about a mile, I landed surrounded by the sounds of a forest. I sat down cross-legged as I absorbed the atmosphere around me. I loved nature, and my mom would sometimes say I liked trees more than people. At the time, that was truer than she'd ever imagined.
+
+After settling down, I mentally prepared myself for what was to happen. This would be a real mind breaker of an experience. With that in mind, I meditated for a moment, getting fully prepared. After a few more seconds, I selected yes on my status.
+
+Something changed as I did.
+
+Around me, the dimension around me receded, giving me distance. I went somewhere else, my body suspended in a blot of pure black. This stretched into a circle around me. I stood and turned, finding something familiar about this darkness. As I dwelled on it, I understood why.
+
+The range of the darkness mirrored Event Horizon. I shifted it back and forth, ripples reverberating through the space around me. It was a surreal sight. All this time, it felt like I was impacting the dimension around me. Now it was more like I was claiming a portion of it as my own. No, I wasn't taking anything. I was making it.
+
+Another series of sensations sprung forth. An urge to devour washed over me, both intense and persistent. It threatened to control me, but I summoned more of my willpower and quashed it. I long ago learned to control my mana, and I wouldn't let a simple increase overtake me now. Still, it would be annoying having to tame it all the time, but I had the willpower to spare.
+
+As I finished handling the sudden surge of mana, a heat built in my chest. Like a furnace, something burned away all the impurities in my body. It started light but built in intensity. A pain built in my chest at that moment, spreading to all my limbs. I blinked, my eyes watering. As I lifted my hands, all my blood steamed from the interlocking plates on my body. Like a metal lobster, I boiled alive inside my body. As my skin and bones bubbled, a pain erupted into my body.
+
+As the process continued, this ache turned like liquid fire in my veins. All remnants of my humanity expunged, something else replacing it. Every cell was washed away in order to make room for the new. This cycle of heat building continued, the sheer volume of energy amassing to absurd amounts.
+
+I became a living star, my body having no right to remain alive. I kept my voice from escaping my chest even though I wanted to scream. It was terrifying yet necessary. It was as if all my weakness was being washed away by a hungry fire.
+
+It wasn't fire alone that plagued me. Pressure on all sides compressed me down to a finite point as if I was a singularity. It changed me into something odd, a material I'd never seen nor heard of. Reactions took place that I did not comprehend nor understand. It felt like I was being forged at the center of a nuclear reactor, being turned into a weapon.
+
+Hours passed, perhaps days. I couldn't tell in that state of constant agony. It was more than a human mind could handle, but I was more than human now. As my body finally stopped boiling, I cooled down until my chest no longer burned. The pressure ceased, but I didn't take a breath.
+
+I no longer needed air to breathe.
+
+I stared at my hands, expecting to find myself looking like a charred corpse. Instead, I wasn't completely different in appearance. I was similar in composition, though my armor was a very dark gray rather than pure black. There weren't any plates over my skin anymore either, just a few thick spikes along my shoulders and back.
+
+This gave me a biological look, like a creature that existed in a dimension of only metal. I still had bones, muscle, and the arrangement of a human. The difference came in my composition. I don't think there was any water in me anymore. I mean, my blood was silver before, so I already understood I wasn't normal. Now, I was the refined version of my old self.
+
+That begged the question - was I ugly as fuck now? I pulled back my helmet and felt my face. It was as dense and hard as metal, though it still had the texture of human skin. Really, really hard human skin. I made my hand glow, and my skin didn't reflect a ton of light off my face. I wasn't shiny then. I would probably look grayish now. Didn't I look grayish before? Man I needed to look in a mirror sometimes.
+
+Maybe I could change my appearance in the future, but that would be up to Althea. After all, I didn't want her to think I was hideous. While I was at it, I felt along my back. My runic work remained from my previous transformation, so I retained my ability to siphon mana into myself.
+
+After a while, I tore a strip of my skin off, melted it, and turned it into a smooth panel. It acted as a mirror that I hovered in front of me. Overall, I looked quite a bit different, less busy in appearance. Although my own look never bothered me, it was kind of nice not being such a sore thumb. At the same time, something about the way I stood took up more space. I wasn't physically larger, but there was a pressure I exerted.
+
+I looked as if I didn't belong here.
+
+I didn't really understand it myself. As I moved my hands to check them out, there was no resistance in my movements. How a material was so dense and so hard yet moved with ease was mystifying. My joints glided along, not needing any added strength to move. Everything worked like clockwork.
+
+As I appreciated my lack of defects, I stared around me, the black aura receding. In its place, a mild, red tint remained. Event Horizon was visible now. That was weird.
+
+I pulled Event Horizon inwards, finding the forest remaining as I left it. That was also strange. Event Horizon should've disintegrated all that was around me into black slush. Instead, everything increased in size. I walked up beside a tree, and I found myself shorter than before. That was strange as I expected to be taller. Being a fourteen-foot giant had its cons though, so losing a few feet in height wasn't the worst thing in the world. I'd manage.
+
+As for my mana, I channeled it. It responded in an overflow, flooding any of my expectations. It was pure without any instability. No internal forces fought to create this energy. Enhancing the flow did not require effort either. At my uppermost limit, it did not threaten to bother me in any way whatsoever. My mind was clear, as if I was meditating on a calm Sunday morning.
+
+The life around me trembled, however.
+
+My aura reached the skies. It devastated everything around me, red, glowing lines growing over the trees and wildlife. They cracked and crumbled, unable to sustain through the sheer volume of lifeforce oozing into there bodies. Even the temporal space around me shivered, unable to endure the sheer volume of vitality. This mana pooled at my feet, crystalline mana structures forming. The clouds above let out ripples of red lightning, a thunderstorm generating in seconds, but it carried no rain.
+
+At the same time, it shocked me how easy the mana was to summon and maintain. I used to ramp up to my limit. This came like a flood after a dam broke. This red aura drenched everything around me, a glowing red crystal forming over nearby trees and grasses.
+
+I pulled that mana inwards, satisfied with the sheer volume. Once more, I expanded Event Horizon to see if it was still weakened. The response was immediate and utter. Within the aura, everything died. All the lifeforce around me sapped inwards, a minuscule flow of mana coming with it. The trees, grass, and all life evaporated into nothing.
+
+It was as if the world siphoned to me, no black sludge remaining from the bodies. It was as if someone salted the earth. In fact, there was a strange sense of control over the entire area. It was a lonely but comfortable feeling like standing atop a mountain's peak.
+
+To get a better idea of what was going on, I opened my armor menu to check out what the bonuses were. After all, I needed to figure this stuff out and use it to my advantage.
+
+The Living Multiverse(Unknown Composition | Class Permissible) - Your body is a multiverse. This gives you many unique properties that may be altered depending upon your mode of being. This current mode is decided by your primary mana type at any given moment. Current Mode of Being: Ascendant
+
+Dimensional Wake - Your reach as a dimension has manifested. It extends outwards like an aura, currently known as Event Horizon. Depending your current mana type, this aura can altered to one of six mana types: Origin, Dominion, Augmentation, Ascendant, Quintessence, and Primordial.
+
+Event Horizon - You gain the ability to manipulate the space around you for your benefit. The effects are many, but they revolve around controlling your surroundings to empower yourself.
+
+Current Radius: 500 ft/152 m | Size of aura can be increased by your mass
+
+Strange Matter - Your body is entirely composed of a compressed version of matter found within the center of neutron stars or theoretically in black holes. The atoms forming your body have lost all distance from one another, creating a denser state of matter than is otherwise achievable. This degenerates typical neutrons, protons, and electrons into a quark soup.
+
+These quarks are very compacted, fusing together into an unbelievably solid and dense material known as strange matter. While your body is currently in a thinned version of this matter, it still carries many qualities.
+
+An Infinite Being - You are without limit, allowing you to change yourself without any restrictions. This will enable you to create augmentations to yourself with greater ease, manipulate what's around you without effort, and expand your mind without limit. The effects are as follows:
+
+The bonuses were mind-boggling, and it would take some time to inspect them all. Before doing all that, I opened my status to check the hard numerical changes. They were colossal.
+
+The Living Multiverse(Lvl 9,000)
+
+Strength – 11,246 | Constitution – 17,772 | Endurance – 69,872
+
+Dexterity – 5,744 | Willpower – 41,969 | Intelligence – 16,658
+
+Charisma – 5,282 | Luck – 8,147 | Perception – 6,907
+
+Health: 36.5 Million/36.5 Million | Health Regen: 179 Million/min or 2,990,601/sec
+
+Stamina: Infinite | Ambient Mana 3.136 Trillion
+
+Mass: 1.42 million pounds(647,163 kilos~)
+
+Height: Actual - 9'3 (2.8 meters) | Current - 9'3 (2.8 meters)
+
+Damage Res - 99.02% | Dimensional Res - 100%
+
+Phys Dam Bonus – 1.96 Million % | Damage Bonus – 40%
+
+Event Horizon – 50,000 + (100% of your total health)/min
+
+I went ahead and crunched some numbers from some previous stat screens. Compared to the last time I checked, my effective health quadrupled if I included my resistance cap increase. My mana regen pentupled, increasing even more. This made me nigh invincible considering how hard I was to kill before. After looking closer, I figured out that I could increase my resistance cap even further by adding extra mass. That was good considering my synergy with extra mass already.
+
+Aside from the added toughness, it was so much mana that it boggled the mind. It wasn't measured in millions by the minute anymore. It was by the second. It made me wonder how a rematch between Chrona and I would play out. She snapped the bones in her tail while hitting my arms before. Now she might cleave it off if she tried attacking me at full strength.
+
+I wasn't aiming to beat Chrona, however. I was trying to kill Lehesion, and I wouldn't match him now, even with all my enhancements. I might've saved a few more people at most. To be fair, that depended on if he was able to kill me instantly anymore. If he couldn't, well, my healing ensured I would win over time. I regenerated five times my health every minute after all.
+
+As I dwelled on it, that wasn't the problem. If an Old One was keeping Lehesion alive, I'd never finish him off. It would be a perpetual conflict until the end of all time. I needed to figure out some way of canceling out his connection with Giess and that Old One. If I did that, then Lehesion wouldn't be difficult to stop.
+
+I grabbed the sides of my head, the difficulty of the task mounting. That was fucking impossible with my current tools. I didn't have any clue how Old Ones worked, and I had no idea how Lehesion was connected to Giess either. To figure out how my only plan was to investigate his history. Knowledge was power in this case, and any other kind of power wasn't about to work here.
+
+You can't overpower an Old One after all. They are inevitable.
+
+Despite that sense of hopelessness, I had ways to enhance my strength from this point onward. My multiverse augments mentioned different mana types giving me different abilities. Considering my mythical compendium gave me the ability to create Quintessence mana, I could shift my ability then. That would give me a few more options to work with.
+
+Unlocking all those skills and the mythical skill as well would give me a massive upgrade to my skillpoints as well. If I could make a legendary skill, then I could progress my Sovereign tree. Getting an actual Sovereign skill might actually turn the tides as well.
+
+All of these options gave me hope. Even if I wasn't ready for Lehesion just yet, it might not take as long as I imagined it would. Getting a class was also something on the horizon, but I didn't even know where to start with that.
+
+With all that in mind, I prepared to leave. As I did, a dull ringing formed in my ear. A howling came up, louder than a bottle of thunder smashing over my head. A sense of impending doom seized my chest as if I locked eyes with a predator. Frozen in place, I waited. Cold sweat poured down my head, and I suppressed a shiver. What I did to the insects around me, a presence was doing the same to me.
+
+I blinked, and the world shifted around me. I glanced around, finding nothing but a never-ending void. I stared down and found nothing under my feet, so I stood on an invisible force. Underneath that null space, I found the dead spots of a dying sun beneath me. The light off the star was muted so I wasn't blinded.
+
+I remembered this place. It was a personal dimension for an Old One I faced earlier on my time here on Giess. Without waiting, I shouted out,
+
+"Why am I here, Eonoth?"
+
+My voice rang through this new space, trembling in the distance. This space acted as an echo chamber, the sound resounding in my ears until it was as crippling as a mother's death. It shattered my calm, sweat pouring down my forehead. As I steadied my breathing, a familiar and haunting voice answered,
+
+"You know where you are, one with many names. Gray Giant. Dark One. Immortal. The Multiverse. You are many and one. You are only a moment, yet always. I indulge in your presence. You are what I aspire to create."
+
+His voice resounded until it threatened to grind my body to a pulp. Somehow, I withstood the vibration. In fact, I held up better then I expected. Last time I was melting at this point already. Now I was just uneasy. This let me think about what he was saying. Unfortunately, it was still more riddle nonsense from this guy. I clasped my hands into fists,
+
+"You, I remember you mentioned you wanted to discover living metal."
+
+Eonoth spoke, his voice coming from every space around me,
+
+"Yes. Firmness. Absolute. Cold. You are those and more. It is glory to meet you in your final form. You've achieved what I wished for, yet you did not understand it to begin with."
+
+A formless blip appeared in my vision. It was an ever-changing, flickering abomination. In one moment, it was entrails, a riverbed, and a firework all at once. It was also none of those things. In the end, it was like a person pretending to be a 2-dimensional cartoon. It was impossible. All it ended up accomplishing was a hollow masquerade of mortality.
+
+I frowned, "You don't have to give me something to look at. I know you aren't like me, and I'm ok with that."
+
+The voice radiated from all directions,
+
+"It is strange how time travels in circles. I created one event, uncovering the lost failures of a proud son. He wrought havoc on an untested world. Now you come to cleanse that which acts as the cleanser. Ironic. Satisfying.
+
+Eonoth spoke his last word with a hollow ring to them.
+
+"Humbling."
+
+I grimaced, "You sound like you know what I've been doing."
+
+It shivered without recourse, "You think of me as a riddler speaker. You speak riddles to me. Yes. I am the cause of your challenge. I am the bringer of your burdens and the killer of your children. The proud son is unleashed."
+
+I crossed my arms, "Is the proud son supposed to be Lehesion?"
+
+"Is that how you understand him? Curious. I created him with gifts beyond reckoning, yet he accomplished nothing but his corruption. Disappointment. You were born with nothing, yet you bring what I seek."
+
+The shifting object shifted towards me, jerking with rapid, twitching motions. I remembered being paralyzed by a deep, primordial fear when I met Eonoth before. It was there, but it wasn't overwhelming anymore. I didn't feel as lesser to him anymore.
+
+Eonoth boomed,
+
+"I feel no fear. You've changed. You are no longer mortal. You are more."
+
+I swung my hand out and gnarled out,
+
+"Yeah, but I couldn't give two fucks about that. From what you've said, you created Lehesion. From what I know about the guy, you kept him alive in our last fight. Why in the hell would you do that?"
+
+Eonoth backed up from me, "There are gifts that cannot be taken away. They are permeated. Infused. A part of. That is the proud son. He no longer can be killed."
+
+I pointed at my chest, "How the fuck am I supposed to kill the guy then?"
+
+Eonoth tilted the rough approximation of a head, "You cannot. Do not kill the unkillable. It is the body of a greater beast. Lop the head from the body, and it will no longer have teeth to gnash. Tear. Crush."
+
+I blinked, thinking about what he said. He was right. Fighting Lehesion head-on was a fool's errand. It might be far easier to take down Tohtella and her shadow group. Once they were gone, we could control Lehesion or at least stop his madness.
+
+Eonoth reached out to me, "You accomplished what I could not. I will reward you. Take as you wish."
+
+I frowned, "Eh, I'd rather not get anything if I'm honest."
+
+Eonoth grumbled, "You will take as I give."
+
+It jerked towards me, touching my head. Its consciousness expanded over mine, a cosmic entity in its entirety. Its mind was all consuming like a plague of locust. Despite the deluge of thoughts, I held together. My sense of self was constant. I wasn't washed away by its enormous mind, and I did it by keeping my thoughts as condensed as possible. My mind was like an iceberg floating on top of an ocean.
+
+Minutes passed as Eonoth struggled to implant some kind of information in my head. I held steady, stopping this thing from tampering with my mind. After minutes of its probing, I grew frustrated with this damn thing toying with me. I lashed out against it, searching through its own thoughts.
+
+With a violent snap, Eonoth left my presence. As it did, I crossed my arms,
+
+"Yeah, its not very comfortable, is it?"
+
+A deep silence returned my answer. Years may have passed or seconds. I couldn't tell while here. My sense of time was too warped. After waiting for a reasonable length of time, I shouted,
+
+"Are you finished then? If this is all you come to say, then I'm leaving."
+
+Eonoth reverberated out, "You may not. Invasion. Anger. Wrath. To test my mind...you will never leave here. My domain, absolute."
+
+A deep sense of dread rose up my chest as he finished his words. I quivered for a moment, losing my composure. Minutes passed before my eyes widened. I remembered who I was and what I could do. I wasn't some scared, little boy anymore.
+
+I raised a hand, standing tall. I reached out with Event Horizon. The aura didn't mold with ease. It struggled out as if moving through solid concrete. I pushed through the resistance, creating a sphere of control within Eonoth's dimension. I clasped my hand into a fist, saturating it with my aura. I spoke up,
+
+"Yenno, I have a damn good reason for stopping you from tampering with my mind. You see, I've seen what you and other Old Ones do to people. Yawm was turned from warrior king of a race to an insane, genocidal maniac. Lehesion was turned from some sort of Messiah to the puppet for some shadow organization. Now you want to have your way with me."
+
+Eonoth grumbled, "I aim not to harm you. I am different."
+
+I shook my head, "I don't think you know what harm really is. You are entropy incarnate, and fortunately for me, I don't have to rely on you right now. I have ways of accomplishing my goals with my own two hands. Try not to take it personally."
+
+Eonoth droned, "I attempt diplomacy. You tamper with me and my mind, a lesser being. An ant. A void."
+
+I raised a hand and grabbed my wrist. I clasped a hand, "Yeah, maybe I am an ant. So was Yawm, and I remember you mentioning that Etorhma was given fear by him."
+
+The dimension around me shifted, becoming unstable.
+
+"Maybe I'll be the one to give fear to you."
+
+Eonoth's voice thundered in my ears, louder than a supernova,
+
+"This is mine. It cannot be taken."
+
+I shook my head, "Not anymore. I'm no longer at your mercy."
+
+Cracks appeared in the distance. Event Horizon stretched outwards as my infinite mana soaked my surroundings. A tint of red expanded outwards further destabilizing my surroundings. As the star beneath me turned red, Eonoth roared,
+
+"Defiance. You will be crushed. Maimed. Murdered."
+
+I frowned, "We'll see."
+
+Something seized in my chest, and my eyes watered. As I blinked, my scenery shifted back to the forest. I took a sigh of relief out of habit before looking around me. I was surrounded by a circular ring of dirt with trees just outside the range of Event Horizon. The sunset over the skyline cast everything in an orange hue. Not a second had passed in realtime. Leave it to Old Ones to defy the laws of physics.
+
+I shook off a few jitters, the meeting unsettling me. It wasn't as if I could actually overtake Eonoth's mind or anything even vaguely like that. All I could hope to accomplish was a meager kind of retaliation at best. I was pretty sure that Eonoth was more offended and outraged than actually harmed.
+
+Still, I didn't have time to think about this yet. Ready to go, I floated back towards our campsite. I needed to meet up with the others and form a plan of action. As I arrived, I found nothing remaining except a few marks in the grass and the Sentinel who survived. His arms were covered in scars from the conflict, the armor over them shattered. He owned quite a bit of muscle as an ionic mist of some sort ebbed out of the cracks in his armor. This lit the air with electricity.
+
+As I approached, he pushed himself up using two Sentinel spears. One was his, and the other belonged to his fallen brother. He left them embedded in the ground while looking me up and down,
+
+"You've shrunk. I thought you said you'd evolve, not turn smaller."
+
+I raised an eyebrow, "I did, though you probably can't tell because of your perception. Where did everyone else go?"
+
+The Sentinel stared at me, "You do have a different presence...Cleaner, maybe? As for the others, the Novas sent them to a medical facility after you left. That was three days ago."
+
+My eyes widened, "Wait...three days ago? What?"
+
+The Sentinel nodded, "Yes. I've waited for the Overseer to return and put me into another position. Perhaps he is taking so long to give me time to rest and reflect." The Sentinel glared down,
+
+"His kindness is noted, but it simply gives me more time to think. That is the last thing I need right now."
+
+I frowned, "You can follow me for now if you'd like. I can give you something to do."
+
+The Sentinel rolled his eyes, "Why would I follow someone like you?"
+
+That annoyed me, so I put a hand on his shoulder. At the same time, I tested out the new function for Event Horizon. I shifted the oppressive aspects of the aura over him, pulling back the actual damage dealing effects. It worked without a hitch, the red tint growing in the air.
+
+As it landed over the Sentinel, he froze in place. He whispered, "Who is putting out that pressure?"
+
+I grinned, "I am. Now you can choose to lay on this hill until the Overseer returns. Perhaps that could take years or minutes. We can't know. You can also choose to follow me, and I guarantee I'll give you a purpose."
+
+I pulled back the aura and my hand, "It's up to you."
+
+A few droplets of sweat poured down the Sentinel's arms, his breathing ragged. He stared at his hands, his fingers shaking,
+
+"You...you're more than I imagined." He clenched his hands into fists," Perhaps I am as well." He stood up and faced me, "I shall leave with you until I am called to duty once more."
+
+"Good," I said while disguising some surprise. I didn't expect that to work as well as it did. The new control aspects of Event Horizon were powerful, scarily so. I would have to monitor my usage of it. Otherwise, I might become another Yawm.
+
+In this case, it was far better than the Sentinel sitting here and moping around. With that in mind, I opened my status and sent a message to Helios. I asked him where he was and that I was with the Sentinel at the hill. About three minutes later, a portal generated out of nothing.
+
+Helios walked out with his arm in some sort of cast. Despite his injuries, he still wore his cape and kept his dignified manner of being. His mask was fixed as well, the blackened polymers mirroring an aged wood to perfection. He stared down at me,
+
+"And so the immortal returns. You seem different. More pure, and...shorter maybe? Odd. I-"
+
+I rolled my hand, "Expected you to get taller. Yeah, so did I. Where are the others?"
+
+Helios pointed back at his portal, "They are resting within the empire's medical facilities. You've no problem with paying for that service, I assume?"
+
+"As long as it's reasonably priced. Otherwise, fuck that."
+
+Helios tapped his claws against his side, pausing for a moment,
+
+"That was a joke."
+
+I spread out my arms in mock disbelief, "Wait a second...you have a sense of humor?"
+
+Helios deadpanned, "Not anymore." He waved a hand, "Enough chatter. Come."
+
+He stepped halfway into his portal,
+
+"The Empire welcomes you, Harbinger."

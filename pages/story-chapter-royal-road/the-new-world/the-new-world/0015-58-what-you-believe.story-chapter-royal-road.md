@@ -1,0 +1,151 @@
+---
+id: 5b8989d5-60f9-52f1-8978-ea2bb968da88
+page-type-slug: story-chapter-royal-road
+title: "58 What You Believe"
+slug: 0015-58-what-you-believe
+partOf: the-new-world
+position: 15
+ownLength: 3108
+unit: words
+ownProgress: 3108
+publishedAt: 2017-10-13
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/167840/58-what-you-believe"
+royalRoadId: "167840"
+markedReadAt: "2026-06-29T21:21:13.793Z"
+---
+
+The sea of insects expanded, until all I could see was a wave of fluttering wings, eyes, and limbs. As they came closer, the bodies piled onto each other. A surge of them came crashing towards me, like the whole body of insects was a shifting liquid.
+
+Before the wave of monsters hit me, I slammed my hand into the stone beneath me. Spikes from my armor ripped out of the brick ground, impaling into the floor and wall of insects. As they tried ramming through the barricade, they tore each other apart. The bodies mounted, their weight building. The ground beneath me cracked. Seconds later, it shattered.
+
+I pulled my arm and rushed up the stairs, running from the insects. As I ran up the spiral stair case, the insects poured in. A few mandibles and claws nipped my back as my feet smashed into the ground. The violent echoes of the footsteps drowned in the outcry of hissing and clicking behind me. A clawed arm latched into the side of my shoulder, but I pushed onward, tearing the limb from the insect.
+
+The light of the stairs appeared before I jumped out of the staircase. Althea stood beside it, her stomach swollen and her mouth elongated. With a disgusting retch, she vomited a gallons and gallons of acid down the stairway. As the acrid stench of corroding flesh filled the air, the hiss of melting shells turned louder than the bugs own hissing.
+
+As they melted I breathed out a deep breath before lunging to a knee beside the steps. With a quick shove, I lodged my hands back into the stone. My armor grew into the stone, digging deep into the maze of brick. Sharp spines elongated out into the stairway, testing the limits of my control and focus. Without my enhanced abilities here, there’s no way I’d be able to keep my armor so extended.
+
+But I did have those enhancements, and I meant to use them. As the acid wore off, the insects came back. Pushed by the insects behind them, a wave of beetles and worms slammed into the sharp swords imbedded in the walls. As the beetles died, I pushed myself even further. Another tendril from my armor built out of my knee and sopped up the mess of bodies.
+
+The last tendril consumed the bodies of the insects as they came, gorging on the remnants of their bodies. Althea fired her cannon into the trap, piercing through dozens of insects with each spear. Even as I ate the corpses, they piled up within a minute.
+
+I grit my teeth, forcing my armor to hold steady and eat more insects. The ascendant mana rippled from my armor, bending the air and world around me. My hands shook with fury and struggle, the tide of insects coming without the slightest hint of the onslaught waning.
+
+Althea’s shots grew more distant as she struggled to unload more and more ammo. She would take out a piece of her arm and fire it. To fire again, she had to wait until the harpoon regenerated once more. The process was exhausting, painful, but most of all, effective. A second after her bolts landed, they would detonate in a grenade of needles. She killed them in hordes with this method.
+
+My trap killed even more, but blood piled beside my feet. Most of it was from the insects, but part of it was my own. I had clenched my fists until blood poured from them, tearing through my armor. I tensed so hard, blood poured from my nose, dripping into my armor before evaporating in the torrent of ascendant energy. Even my teeth cracked at the sheer volume of exertion.
+
+Yet I kept calm, composed and cold. My mind was asylum in the storm. Harder than iron and fierce as fire, my focus was a never-ending flood. No amount of pressure could stop me. I was a man made of metal, in mind and spirit. Most held their will with strings. I held my will with cables of steel. My body fell apart as the mana required to hold the trap turned into more than I could create.
+
+The torrent dimmed for a moment, just long enough for me to catch my health pool back up. Althea had torn up a portion of the stone steps and chunked the rock down the stairway. Ten seconds later and my resolve strengthened. The squirming, giant insects ate through the piled-up stone before bursting out of the trap once more.
+
+Althea’s ammo type changed on the fly. Instead of lobbing single spears, she launched numerous pellets. The bullets took down dozens of insects at once, turning them into mush. It looked like her armor piercing abilities weren’t affected at all by the size and shape of the bullet. Whatever it was that gave her that ability, it ignored a few rules of physics.
+
+Glad it was on my side, I grinned with my helmet. A minute later, and the torrent turned into a steady stream. Not needing it anymore, I retracted the trap back into my armor. As I did so, several insects came towards us, but Althea reformed her left arm into a monstrous forearm and shoulder. The hulking limb smashed several beetles, her fingers spread out on the ground.
+
+She lifted her biotic rifle and unloaded four more shots, giving us a few seconds of relief. I took a deep breath,
+
+“Hell yeah, Althea. Kicking ass and taking names.”
+
+She grinned, the deformity of her left arm reaching her lower left cheek, “Thanks.”
+
+With a biotic rifle right arm and giant monster arm for her left, she wasn’t particularly pretty. Seeing her take control of herself and use her potential though, that was priceless. Her powers made her nigh unstoppable, but only if she was creative. She usually avoided using them, probably from some long-term hatred of the abilities.
+
+I didn’t know how they came to be, so maybe that process was terrible. She did seem more aware of her appearance too. Her powers deformed her, and that may make her a bit anxious to use them. I could understand. I didn’t agree though.
+
+I didn’t have time to dwell on those thoughts. They popped in my mind, appearing and disappearing like some sort of wisp. The insects came back, but without the outpour of before. A worm covered in thorns, large as a dog, leapt towards me. I sidestepped, stomping my heel and slamming my fist into the worm. It sheared in half, the telekinetic points tearing it apart.
+
+Another beetle flew towards me, but I grabbed it in my palm. It cracked its skull on my palm before I enlarged a dozen spikes through its body. Using its corpse, I smashed a praying mantis the size of a man. Althea laid the rifle on my shoulder, firing off three rapid fire sprays. A dozen insects died before I grinned at the sight of the rest of them.
+
+The ascendant mana floated off my armor, filling the runes as I ripped and raged among the insects. I kept my steps steady, each movement like rhythmic pulse. It was nothing like the blind wrath when the voice took over my mind. I was colder than the blue magma under our feet. Every movement was a vicious yet compact. Every strike was violent yet dense.
+
+I never wasted a movement, all my skills molding me into a killing machine as I blended the wave of insects into a thick, chunky smoothie. By the time the queen finally got the picture of what was going on, the corpses of insects piled at our feet. Althea heaved for breath, exhausted and ready to sit still. Despite my gut feeling, the queen gave us a few minutes of respite.
+
+Althea reformed back to normal, wiping the blood from herself. My armor soaked the blood coating me, the splotches of blue and green looking like they evaporated. Glancing at my status, I earned a breakthrough in boundless storm surprisingly. It reached 175, turning it into a monstrous ability.
+
+In fact, I never controlled my armor with so much clarity before. It was an intuitive response, like I just understood how to wield it. What gave me control of my armor had been a skill called dominion of soul, which the skill been assimilated by Boundless Storm. From what I could tell, Boundless Storm’s level reflected the skill level of all the skills assimilated by it.
+
+In other words, any skill boundless storm ‘ate’ would gain an enormous boost in effectiveness, even if I didn’t train it directly. I never used mana to extend the range or complexity of my armor either. It was likely a result of being part of Boundless Storm now as well.
+
+I didn’t have time to dwell on any of that. So far, I’d gained forty levels in total since coming through the rift. I had twelve more to go after the next twelve minutes, but the data upload slowed things down.
+
+The data upload didn’t stop me from selecting my current points however. I increased my constitution up to a total of 870. Within the next hundred levels, the constitution would reach one thousand. After that, willpower was next. With that in mind, I hit the select button.
+
+A flood of ascendant mana welled up as I balled myself up, breaking my armor. Standing back up, my fingers grazed the ground longer than I thought they would. When I let my arms relax, they didn’t touch my sides. My shoulders had become broader. Strength probably caused the change, making me broader.
+
+Glancing over at Althea, she changed as well. Her shoulders relaxed, like she wasn’t as worried that someone would sneak up and kill her from behind. She grew taller as well, letting her seem less petite. I still towered over her now, over a head taller. She wasn’t short anymore, compared with normal people at least.
+
+Testing out our new limits, we shifted around a bit. The sound of crawling from inside the hive grew, but I wasn’t worried. Althea and I far exceeded the strength our levels indicated. We could fight monster’s hundreds of levels higher with little trouble.
+
+When the queen crawled back out, I realized we would need to fight something hundreds of levels higher. The woman was still atop the scorpion, but she had grown a shell and wings along her back. She crashed into the stone ceiling, tearing it apart before spreading her new wings.
+
+They glittered a bright, sky blue. Between the radiant blue wings, floating orbs went from wing to wing. The display of light tried to distract me from seeing what was happening below. At her belly, four eyes formed with a crooked smile growing beneath them. Icy mana oozed from the jaw, as if her entire body was made of liquid cold.
+
+The light blue color spread across her, making her shell sharper and more jagged. Before she finished her transformation, I charged as Althea shot out bolts. Three spears stabbed through the monster’s eyes. I reached it and threw a punch like throwing a baseball. As my fist landed, my hand tore through her shell, exposing the icy insides.
+
+A bit of the glowing blue gunk sprayed onto my left arm. It sizzled, going numb as the scorpion mother lashed out with her right claw. I deflected the blow by lifting my left arm, sending her right arm above my head. A piece of my armor fell off, along with a chunk of my health. Not worried, I drilled a right hook into the under belly of the monster.
+
+My hand crashed through the shell, tearing through it like paper. Before the monster’s insides splattered onto me, I created a telekinetic barrier over me. Using another field, I swiped off the cold liquid before ducking under the next swipe of the claw. With rapid precision, the scorpion mother pinched a claw towards my right arm. Her strike connected.
+
+The claw broke my arm, snapping the bone while bending the armor around it. Blood sprayed from the limb before a bolt of bone pierced her claw. Two more bolts followed, making the limb fall limp. My limb followed suit, but I grinned at the spectacle.
+
+The queen crawled away, “Why do you smile, invader?”
+
+I twisted my arm back into place, the bone healing in seconds. Another few seconds passed, and my hand was fully functioning. I cracked my neck before rolling my shoulders. I stepped towards her, grinning with my armor forming jagged teeth. Ascendant mana poured from the mouth, tendrils of crimson leaking from the armor.
+
+The air around me warped before I stepped out, gripping with my hand. The queen screamed out, her broken arm being pulled by my telekinetic tether. I stepped back and jerked with all my strength, the stone around me cracking. Her limp arm jerked out of socket, the joint cracking as she howled in pain.
+
+Unable to resist the pull, her insect legs scuttered as she neared me. Her beautiful, flawless face neared me. Using both my hands, I yanked her shattered arm like a tug of war competition. She dragged towards me, her little feet digging into the stone. A second later, and two more bolts shot through her front legs.
+
+She caved forwards, her face falling towards me. I grinned as I lunged toward her face. I grabbed the back of her hair. The monster shivered in fear, tears falling from its face. Her feet tried writhing away as I said,
+
+“Tell me, who’s the monster now?”
+
+She roared back, her jaw splitting as elongated teeth jerked out towards me. I smashed my fist against her mouth, snapping her teeth. The roar petered out into a whimper before I slammed its face into the ground. I put my shoulder into each slam thereafter, creating cracks in the ground. I grit my teeth, crushing the monster’s skull against the ground.
+
+Slam after slam, my hand converted her head into slush. By the time I finished, the fissures in the rock webbed fifteen feet outward. I stood up before draining away her energy. There was no core remaining, so I turned to Althea,
+
+“Come on then. Let’s go.”
+
+She sighed, wiping a sheen of sweat from her brow, “Ok. Let’s get the fuck out of here.”
+
+I pursed my lips, “You know what, let’s just wait for a few minutes. No need in rushing into a death trap exhausted.”
+
+Althea fell backwards, landing like a starfish. She glanced at the sky, “Thank you. I don’t know what it is about this place, but it makes me feel exhausted.”
+
+I shrugged, sitting down in front of her. I crossed my legs and leaned back, staring into the sky. A few minutes passed before Althea sat up, no longer breathing hard. She grinned,
+
+“Thanks for the break.”
+
+I pushed with my hands, letting me lean forward. Without touching my hands to the ground, I pushed myself up while giving Althea a telekinetic lift. She balanced onto her feet,
+
+“Woah, tell me next time before you do that.”
+
+I shrugged before turning and jumping into the staircase. The stone cracked underfoot before I walked into the giant cavern. Far fewer insects crawled around, their natural instincts taking over once their queen was dead. This gave us free passage through the cavern.
+
+Without the insects there, I noticed quite a few oddities. There were a few buildings spread around, odd, elongated marking spread over them. They were made of a dark, gray metal that reflected white light light regardless of the color you shined on it. Above us, streams of the cerulean magma lit the cavern in a cascade of blue beams. It was a surreal scene.
+
+Althea ooh-ed and ahh-ed with me, just as taken in by the scenery as I was. I grazed my hand against one of the asymmetric buildings, and the metal was even harder than my own armor. With a quick, compact hook, I slammed my fist into the side of a building. My fist caved inwards, the bones cracking. Odder still, there was no sound ebbing off the metal.
+
+I frowned, wondering what the fuck it was. It was like a city of some sorts, hiding away from all the turmoil just outside the mountain. Of course the insect queen fucked all that up, but it still made my mind wonder what had happened here.
+
+After inspecting inside the buildings, I couldn’t find anything inside them. They were eerily empty. At the center of a hill at the center of the open expanse, the pillar of light beamed from a dungeon core. It was as if the latent energy within it was unleashed.
+
+The aura of red had almost taken over the entirety of the once black body of the thing. As if corrupted, the red aura reached out in horns of energy. Below it was a pillar supporting the core. Runic markings spread all over the pillar of dark gray metal. They glowed with a light like the beginning of a universe. It was blindingly bright, but my eyes cooled at the sight of it.
+
+I could’ve stared at the core with a content ease forever if I had chosen too. It was warmer than a campfire on a cold night or the love of a kind mother. I wouldn’t fall into the trap it offered though. With a brutal spike of willpower, I ripped my gaze from it. I ran up and jumped up the pillar, climbing atop it before reaching for the core.
+
+A spike appeared through my palm. A bit of pain followed by shock followed. I glanced behind me, and Althea cried, “Get away from it.”
+
+I raised an eyebrow, “What the fuck is wrong with you?”
+
+She raised her rifle, “I said get the fuck away from it.”
+
+I rolled my eyes, “How are we supposed to leave here without the core? That’s right, we can’t. I know the light’s pretty and all, but come on.”
+
+When I looked closer at her, she wasn’t drooling over herself at the sight of the light. Her eyes homed in on my hand, as if it was reaching towards a painful death. I frowned, letting my hand drop down. I hung off the pillar with my left hand,
+
+“Alright, I’m not grabbing it.” I reached out with my right hand, “Tell me what’s wrong. I’ll listen.”
+
+Althea lowered her rifle,
+
+“That’s what made me into what I am. A core like...a core like that.”

@@ -1,0 +1,611 @@
+---
+id: 58a92c16-2a75-54b6-aff2-4e2ea4908667
+page-type-slug: story-chapter-royal-road
+title: "445 A Haunting Past"
+slug: 0405-445-a-haunting-past
+partOf: the-new-world
+position: 405
+ownLength: 6018
+unit: words
+ownProgress: 6018
+publishedAt: 2025-07-01
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2401483/445-a-haunting-past"
+royalRoadId: "2401483"
+markedReadAt: "2026-06-29T21:35:17.496Z"
+---
+
+Florence dragged a hand down his face.
+
+"The man was an accountant, lawyer, judge, and auditor, yet you've given him the right to decide who is the winner? You might as well announce that you never intended on winning in the first place."
+
+I beamed with confidence.
+
+"Tera was able to take over an entire planet without spilling a drop of blood. What makes you think his entire species can't fix a wound on one measly world?"
+
+Helios let out a long, grating sigh.
+
+"Once more, boldness without caution. I suppose we should simply embrace the insanity."
+
+I put my hands on my hips.
+
+"You just wait. They'll handle this with ease. Just watch."
+
+Chapter Begin
+
+"There is absolutely no way we can do that."
+
+Tera's baffled exasperation and befuddled tone left me scrambling. Helios pinched his brow and let out a long sigh.
+
+"If your plan was to ease the tension between our species, then perhaps you should've foolproofed your idea first?"
+
+Florence took a breath of the Moajave air, the scent like dry stone. Our diplomat smiled.
+
+"From my research through the Empire's archives, the skeptiles have operated a ritual like this many times. Why would the ritual on Blegara be any different?"
+
+Tera's tail flicked behind him, his nervous energy and suppressed animosity finding an outlet. Tera glared at the other albony before the skeptile murmured.
+
+"We're a proud desert people. Emphasis on desert."
+
+I picked up some sand with gravitation.
+
+"You mentioned adding water here. You'd be doing the same there."
+
+Tera took a steadying breath.
+
+"We've worked with rituals at a regional scale but never something planetary. The difference is enormous."
+
+I moved the sand into a tiny dust storm above my palm.
+
+"The scale won't be a problem. I can offer as much mana as you could possibly need."
+
+Tera stepped over and moved his hands through my dust storm. It fell apart. I pursed my lips.
+
+"Hey. Lame."
+
+Tera shook his hands at me as if strangling my neck.
+
+"Our magic has never been performed like this. Why did you sign your secrets up for something this trivial? What's the point?"
+
+Sensing how serious he was, I straightened up. I met Tera's eyes.
+
+"It's to smooth over relations between the different peoples under my rule. At the very least, we can show the albony exactly how valuable the skeptiles are while giving you guys a valuable economic niche in the future."
+
+Tera winced, but the rigidity never left his eyes.
+
+"That's...That's a pretty solid set of reasons, I suppose. I don't think we're going to be able to do this on our own, however."
+
+Helios panted in the sun.
+
+"Then perhaps we should get to solving this problem instead of discussing its merits?"
+
+My gaze sharpened, and many of my psyches moved into the conversation.
+
+"What are the limitations?"
+
+Tera held up a scaled hand, the plates polished from a recent molting.
+
+"We're trying to perform our sacred rituals, but we can't manage a ritual of such size. The mana goes berserk, and we will unleash a god of destruction onto the land, not a healing spirit as we intend."
+
+I put my hands on my hips.
+
+"Mana management. What else?"
+
+Tera's tail flicked until it dug a trench in the loose soil.
+
+"We'll also require more specialists than we have. We've managed to transform the Grand Canyon into a more hospitable place, but we don't have the land or area to take a break and help Blegara or the moon. It's too much of a burden on my people."
+
+Helios tilted his head to Tera.
+
+"Your people have been given an enormous number of resources. Daniel's cities and golems guarantee that no eldritch can kill your kind. His runes give utilities such as fresh air and water, and you're able to level using the gear he provides."
+
+Helios took a step to the skeptile's leader. A tense silence passed over us, and Tera's horns flared over his skin. Helios glowered down at him, and he said,
+
+"Daniel asks for one favor in return, and you have the gall to deny him. Is your gratitude such a meaningless thing? Or are the skeptiles so lethargic that they can't muster up this much activity?"
+
+Tera flashed his spiny teeth.
+
+"We are a kind that you've suppressed for centuries. It takes more than a few months to undo that kind of indoctrination and cultural destruction."
+
+Florence walked between the two. He put a hand on Tera's shoulder.
+
+"Both our peoples have seen our share of hardship, and I know we're the source of your kin's suffering. That makes assisting us a difficult prospect-"
+
+Tera's voice seethed as he slapped Florence's hand away.
+
+"Difficult? You oppressed us for your own gain so that your ruler could harvest more treasure. I've walked past the corpses of my kind for decades, knowing you all grew fat off our labors. I watched members of my family dehydrate and have their blood filtered for us to drink."
+
+His words left the two albony stunned. Tera's words were like a lashing as he continued.
+
+"We want nothing more to do with you and your ilk. We've seen where that road ends: in slavery, starvation, and death. If you ask me or any skeptile, we say you and your kind deserve your fate as tools of Elysium. You reap the bad karma that you've sown over the centuries under Obolis and his cruelty."
+
+His pain was a palpable thing. It settled over us, and it unveiled the true source of the skeptile's reluctance. He and his people could handle the ritual. That much was evident from how well and quickly they reconstructed the American Southwest. It wasn't something Tera had been shy about during his weekly reports either, and I'd seen the results firsthand.
+
+Instead of a lack of ability, this was a struggle for willingness. As with any deep wound, the skeptile's scorn festered from a lack of care and constant reopening by the albony. It would need someone to heal it, and even Florence wasn't that person. He stayed silent, and for once, he lacked any words of recourse to stifle the fallout.
+
+Florence gave Tera a bow before stepping away. Helios did the same, though he lacked the same defeated slump of his brother. I let them get out of earshot before frowning at Tera.
+
+"We need your help with the spirits."
+
+Tera took a breath.
+
+"You will have them. As many as you could ever hope to have, but not for them. They were a plague, a destroyer of my people's will. Why would we forgive them? Why would we help them?"
+
+I turned a palm to him.
+
+"Our first priority would be Blegara. The Vagni haven't done anything to your people. In fact, they're victims of the same systems your people suffered from under the albony. You can help them heal a scarred world, and that may, in turn, help heal your people."
+
+Tera's tail cracked into the ground.
+
+"We can help you with Blegara, but not the moon."
+
+It was one hell of an inconvenience, but considering their history, Tera was being more than reasonable. I offered him a hand.
+
+"I only need Blegara to get my deal handled anyway."
+
+Tera shook my hand.
+
+"Thank you for not forcing us. You could've, but you chose not to. That benevolence isn't going unnoticed, not by me or my people."
+
+I smiled.
+
+"Good. Would you mind if I had some people learn about the spirit magic as you performed it?"
+
+Tera's eyes narrowed.
+
+"I'm no fool, Daniel. You intend to take our secrets and use them to help the albony anyway, and I cannot allow that."
+
+I pinched the brow of my nose before mana flared in my runes. They shifted from white to red.
+
+"Look, Tera. I fully understand that you and your people aren't willing to help the albony. That makes sense. They used you. They killed your people for their greed. It's something that, like you said, takes time to recover from, let alone forgive."
+
+I shook a hand in frustration.
+
+"But you're not just your people or the skeptiles any longer. You exist under my banner. That means something. While under my order, I will protect you with my life, and I have given you access to everything I have. I'm not asking you to serve under me but just to share your knowledge and let me do what I want with it."
+
+Tera squeezed his hands to fists. His claws dug into his palms, and blood dripped from them.
+
+"It's a gift we would give willingly, but I can't stand by and watch it be used to help them after what they've done to us. It's as if we're giving our last piece of bread to those that starved us. The humiliation...I cannot accept it."
+
+I gazed up and considered my position. As I did, I took a long breath before peering at him.
+
+"I freed your people from the albony, gave you a home, and have protected you with everything I have. You and your children will never experience indentured servitude until I draw my last breath, and I will continue to help your people with my legacy, guild, and infrastructure."
+
+Tera's hands loosened. I frowned at him.
+
+"Despite all I've given you, I haven't asked for anything in return. So this isn't about the albony. This is a request from a friend. It won't be a command from the albony, either. I will be gaining plenty of resources from the exchange, and I can easily pass most of that onto the skeptiles."
+
+Tera peered one last time at the set of albony brothers standing in the distance. They argued back and forth, Helios's arms crossed and Florence pacing back and forth. Tera closed his eyes before raising his hand.
+
+"I will do this for you and to respect what you've done for our people. Know that this is not something done lightly, and if we're put into a position under the albony again, I will not be able to suppress the rebellions. You understand that will be the consequences if the albony so much as mock us as we give them air to breathe?"
+
+I scoffed.
+
+"Of course. By the time this entire arrangement is finished, the skeptiles may even be richer than the albony."
+
+Tera's eyes widened, surprise smattering his face.
+
+"Are we going to steal from them?"
+
+I shook my head.
+
+"Of course not, but they'll be paying fairly for both my cities and your terraforming. That's an enormous debt that'll leave the skeptiles with more than enough to rebuild and then some."
+
+Tera's hands shook.
+
+"You promise me and my people that we will not be shamed when we help them?"
+
+My runes flared red.
+
+"Oh, I can assure you of that much."
+
+Tera clenched his hands to fists.
+
+"Then we will do what we must, but it is with a heavy heart."
+
+I put a hand on his shoulder.
+
+"And heavy pockets, eh?"
+
+Tera peered at me in confusion.
+
+"But credits are weightless?"
+
+I gave him a slight shake.
+
+"Oh, come on man, we're going to get more than credits. We'll be walking away with relics and ancient treasures, too. Not only that, but techniques, knowledge of trees and perks, and all kinds of useful bits and pieces for building a people up. For building the skeptiles up."
+
+Tera perked up.
+
+"It...It will be helpful for bringing our people out of their poverty."
+
+I waved my hand over the sky.
+
+"Exactly. There's opportunity abound. Now, I have one more serious question."
+
+Tera's face grew grave.
+
+"What is it, guildmaster?"
+
+I stepped back.
+
+"So, what's going on with the tarantula hawks here?"
+
+Tera shivered.
+
+"They are the fiercest predators that exist in the Mojave."
+
+I swung a fist.
+
+"That's good. Very good."
+
+Tera blinked.
+
+"They are a danger to any that walk these lands."
+
+I nodded.
+
+"And they have the coolest name of any living thing on Earth. I mean, come on. Tarantula hawk? That's awesome."
+
+Tera gazed with wide eyes. He raised a scaled hand to reply before grabbing his jaw. After a moment, he nodded.
+
+"It is an impressive name."
+
+I smiled.
+
+"Right?"
+
+***********************************************************************************
+
+Before heading out, I built several cities for the skeptiles. I left them more gear than the albony since the skeptiles hadn't received my radiant cores at the center of their settlements. They didn't need as much passive power for their atmospheric restoration or to block out ambient radiation, but it felt wrong to leave the skeptiles with less.
+
+So, I gave a supply of rings, armor, and weapons to bridge the gap between the core types, leaving the skeptiles plenty to work with for establishing their territory. After finishing my setup, we waited at the Grand Canyon for Tera to finish grabbing his elite spiritualists. This gave us ample time to see the changes in the landscape as we traversed the Mojave.
+
+Unlike the northern portion of the desert, the Southern Mojave had been remade in a different image. The skeptiles evolved the orange-stoned and sandy desert into a verdant paradise covered in greenery. Colossal, semitranslucent spirits roamed the land, each of them covered in runic tattoos and imagery matching primal gods from their belief structures.
+
+Those giant mana constructs planted seeds from different parts of the skeptile's homeworld. These plants were taken from a seed bank the skeptiles stored with magic. Generation after generation, they held onto the hope of restoring what life had once been like for their people. With time and resources, they remade the best parts of their old world on Earth, turning the desolate landscape into a thriving oasis.
+
+The only reason they hadn't lived that way up until now was because of strict quotas and unreasonable rulers. Seeing their impact gave me a better idea of how much loss the skeptiles had experienced. That understanding grew as we learned more. In their altered landscapes, fruit trees rose from the ground in batches, each of them surrounded by beautiful, towering trees.
+
+Vines and ivies branched across each of them, and they glowed from ambient, absorbed mana. These batches of greenery framed the enormous orange stones that dotted the landscape, seamlessly blending the beauty of the desert with the lush, magical forest. Different native species had fed on these plants, the vast majority derived from the native wildlife of the area.
+
+The mana evolved the native species, the energy resulting in them taking on different forms. In many ways, the skeptiles made the legends of the Mojave into a reality as the ecosystem upgraded into a magically imbibed version of its old self. I had worried about invasive species when they proposed this plan, but the results were hard to argue.
+
+Unlike most portions of Earth, these upgraded lizards, insects, and birds could fend off most eldritch. Better still, the upgraded wildlife lacked the eldritch's deadly virulence. If they ever left the plants, they would die, pinning these creatures to a specific area. That didn't stop dungeons from needing to be cleared, but it reduced the chance of some stray eldritch running amok and turning into a planet-eating horror.
+
+The mana-absorbing fruit was a wonder of bioengineering, something breeding and research hadn't solved, yet somehow, the skeptiles had. Their entire understanding of terraforming relied on the trees they planted as the fruit carried mana's potency without its inherent malevolence. It spiked my curiosity, and as a favor, Tera took Helios, Florence, and me by one of these forests.
+
+We landed near one of the clustered trees and spent a while trying out different fruits, each of them carrying wild flavors. Most of them weren't just wild in taste or texture. They held physical sensations as I ate them, from a pleasant chill to a zapping electrical surge. Some held pleasant emotions, like bursts of nostalgia or a warm sense of belonging.
+
+These imbibements gave the fruit a depth of experience that Earth's fruit couldn't match. Yet. I held a fruit mirroring a swollen leaf with red streaks crisscrossing it.
+
+"How are you clearing out the energy? The mana in this is so-"
+
+Florence swallowed his own bite of a different fruit.
+
+"Clean and crisp."
+
+I pointed at him with my own fruit.
+
+"Exactly."
+
+Tera walked over to one of the trees. He dug up the roots, pulling them out until he reached a cluster where the roots merged into a swollen tuber.
+
+I leaned down to it.
+
+"Ahhh. So that's what's going on."
+
+Tera pulled one of the black, miasma-ridden tubers from the ground, its malevolence leaking like a poison. Tera took out a sharpened eldritch tooth and cut the tuber from the bunch, and using the makeshift blade, he diced the bulb apart. From his dimensional storage, Tera pulled out a mortar and pestle made of shining, enchanted diamonds.
+
+The stark beauty of the artifact contrasted with Tera's other gear, but he wielded it in the same manner. He crushed the tuber into a dry, pasty substance before taking out a jar, funnel, and curvy pipe.
+
+Helios peered down.
+
+"You need a chemistry set now?"
+
+Tera smiled up at him, his grin menacing.
+
+"Of course. We know more than simple rituals of spirits."
+
+The funnel was smothered in sigils, and Tera covered the mortar with the wide part of the tube. It caught all of the dark smoke rising from the tuber, and it flowed through the curvy pipe. Connecting the narrow end to the jar, he funneled the mana into a vial before stoppering it with a kind of cork made from the roots.
+
+He handed it to me with a smile.
+
+"Does it look familiar?"
+
+From years ago, a wave of nostalgia passed over me.
+
+"This is the same kind of vial you gave me when we first met."
+
+Tera's smile widened.
+
+"It is. I'd been carrying quite a few supplies of the ambient mana, and I'd been trying to find the right place to dispose of it. You happened to need it at the time."
+
+I pulled the cork out and siphoned the mana, its old potency gone yet lingering as a potent memory.
+
+"This nearly killed me then. Now it's barely more than air."
+
+Tera nodded.
+
+"We're storing the ambient energy we harvest to give to you for disposal. Considering your abilities, it shouldn't be too strenuous a demand, and we can help show your guild this process once we're finished."
+
+We continued chatting while Helios and Florence watched on. Helios kept his arms crossed, one of his hands digging into his forearm. He bit his tongue before Florence put a hand on his brother's shoulder.
+
+"We held a guillotine over the skeptiles' necks for centuries, yet we never uncovered these secrets."
+
+Helios narrowed his eyes.
+
+"They hid them well."
+
+Florence scoffed.
+
+"More likely, they tried sharing this with us when our species first made contact. We probably treated them like savages in the meantime. In essence, this is where an open mind leads."
+
+Helios glowered down at us.
+
+"But we know the secrets now. We can use these gifts to help us tame the moon of this world. It will save lives that would otherwise be lost fighting the eldritch."
+
+Florence lowered his arm.
+
+"This is the price we pay. Kindness would've been a far more rewarding approach, but we chose our path. We followed a tyrant who led our people to ruin."
+
+Florence glared at his brother.
+
+"Will you walk that same road, or will you choose a different path?"
+
+Helios peered down. He dragged a hand across his face.
+
+"I...I know he was a fool. He had so much history and time to develop us, and yet he turned our empire into a glorified slave trade. At one point, I loved him. I admired him. I wanted his validation; no, needed it. Now I know how little he truly accomplished, and it makes me feel as if I followed a lie."
+
+Tera stood before squishing a fruit in his hand.
+
+"You don't feel that way. You did follow a lie."
+
+Florence gnarled his hands while mana surged from Helios's gauntlet. Tera turned to them and paced over. Tera held a hand dripping the mana-enriched juice.
+
+"You know nothing about us, do you?"
+
+Florence put a hand on Helios's shoulder. Helios turned before taking a calming breath. Florence turned a palm to Tera. The albony diplomat smiled.
+
+"We would like to know more if you would share it with us."
+
+Tera's horn flexed over his brow and elbows, stiffening.
+
+"Then listen. You see the spirits that traverse our lands? These were made by us, but we did not create the magic they come from. We were found by powerful spirits in primordial times. They were known as the eight autarchs, and they ruled over our homeworld in harmony. We worshipped them as deities."
+
+Helios murmured.
+
+"I've visited your home world on occasion, yet I have never seen any inkling of this magic."
+
+Tera's voice rose like the temperature of a kettle on a stove.
+
+"That is because we extended our hand to your people. When we met, we sent envoys and wanted peace between us. After months without contact, Obolis raided our world. He killed all eight of our archons. Kuhlshasa, Iora, Illiac, Leomna, Tra, Gih, Mahsora, and Vixahshio. They had ruled over different parts of reality, and we owed them everything."
+
+Florence's hands dropped.
+
+"That is why Obolis was called the Carnage of Olstatia - the albony to kill the gods...A monster among us, yet covered in silken fur and honeyed robes."
+
+Tera snarled.
+
+"He killed the benevolent spirits that once turned our world into a veritable paradise. A world rich in resources turned to nothing to satiate the madness of one ruler. And for that, I wish for you all to burn, but our savior, the man who gave us a second chance, has asked better of me. I will give it to him, but know that our people will never forgive you for what you've done."
+
+Helios stood as stone, unmoving and cold. Florence walked up to the skeptile, and he bowed. Florence's tone carried the richness of his background.
+
+"Words cannot convey the regret that comes from bearing a stained lineage. I wish I could take back what our uncle has done. I wish we could rewrite the wrongs of our old ruler and bring your people prosperity. However, there is no turning back the track of time. We are left scrambling for a recourse for such wrongs."
+
+Florence raised enough to peer at Tera. The diplomat carried absolute solemnity.
+
+"Helios and I will do all that we can to turn a piece of our past into something less excruciating."
+
+Tera bared a clawed hand before lowering it. He howled out.
+
+"I'll believe it when I see it."
+
+Tera walked off, stepping into the dense underbrush. It was a wise decision. He needed time to cool off, and honestly, what he said upset me as well. I'd understood that the albony took over races, but the fact they had dismantled them so thoroughly and for nothing...That carried dark implications of what Obolis had done as the Emperor.
+
+Interrupting my thoughts, Florence stood up, his hands squeezed into fists. Helios pinched the bridge of his nose and said,
+
+"That was an abysmal failure in diplomatic relations."
+
+For the first time, Florence's voice carried venom.
+
+"And why is that, brother?"
+
+Helios lowered his hand, peering at his brother like a wild animal. Helios frowned.
+
+"What has upset you to such an extent?"
+
+Florence turned.
+
+"Our history has it written differently. It was told that the skeptiles attacked us time and time again before we finally retaliated. They had arrogantly underestimated us, and we won off our military might. The reality was an underhanded sneak attack against a nation that held no animosity against us."
+
+Florence growled.
+
+"It's not a question of what upset me but of what hasn't upset you."
+
+Helios grimaced.
+
+"I held no part in those battles. I fought in no wars nor supported those conflicts. I understand the history of our race's progenitor, but I also understand that we are not what he has chosen to be."
+
+Florence put a hand on his chest.
+
+"Yet we grew rich and wealthy on the blood of people. You graduated from universities, lived in palaces, and enjoyed the finest of runic augments. Who and what paid for those lavish luxuries?"
+
+Helios's teeth cracked in his mouth from clenching his jaw. He muttered,
+
+"The starvation of those under us."
+
+Florence walked over and grabbed Helio's cape. Florence squeezed until the fabric stretched.
+
+"And you ask me what has me upset. You see, unlike you, I was never blinded by the idealogy or propaganda. I understood that there was a price being paid elsewhere, and it made my skin crawl. That's why I hate the blood that flows in my veins. It is that of a cruel, abyssal beast. It flows from a heathen with no consideration for anyone or anything else. From cruelty incarnated."
+
+Helios grabbed one of Florence's wrists. Helios met his eye.
+
+"I remember when I was a child, and I was blind. Other albony would mock me relentlessly. They would torment me, dump water on my head, and spit in my food. It was Obolis who came to me and taught me how to see mana in the world. He gave me the ability to see those around me and exist within this world."
+
+Florence's grip slackened. Florence turned down before Helios leaned forward.
+
+"So yes, I admired him. I idolized him. He gave me everything, and I appreciated him for it. I understood the price, and I worked hard to change it. I wanted to make the empire a better place from the inside. You can call my efforts misguided, but I put everything I was into that effort. I watched it all burn, and every day, I learn that the man who gave me eyes was a monster."
+
+Helios's voice cracked.
+
+"So, of course, I know why you're upset. I've always known."
+
+Florence gulped before stepping back.
+
+"I'm...I'm sorry."
+
+Helios blinked his glassy eyes.
+
+"Don't apologize to me. Apologize to the skeptiles for your actions. We'll do so by building a better people. That is all I want now - to move on from a bloody history and make something we can be proud of."
+
+Helios stood tall, and he was the image of a leader.
+
+"And one day we will see the world we saw as children, but without the blood that held it together."
+
+Florence blinked away tears. I watched in silence, proud of them both. Florence gave Helios a nod.
+
+"Of course, brother. We've faced bleak circumstances before. This should be nothing by comparison."
+
+A smile traced Helios's lips.
+
+"Then let us begin."
+
+Tera stepped out of the underbrush, his gaze still cold and unmoved. He murmured,
+
+"Have you both finished your coming together? I want to finish this trip and be done with you both."
+
+Helios nodded.
+
+"Thank you for the time."
+
+Tera frowned.
+
+"Don't mention it. Now, Daniel, let me show you a few of the best fruits we've made. These play music in the mind when consumed."
+
+Tera showed us several more fruits, though the conversation stayed muted and lacked the same vivacity. It gave me time to reflect, and I understood all sides. To my surprise, I related to Florence the most. I guess that was because I hated my heritage, too.
+
+Despite the tense atmosphere, I found a way to enjoy the fruits and safari experience before we headed back to the skeptile's main settlement. There, we split up and finished the last bits and pieces we needed for the Blegara mission. Tera organized their spiritualists, rallying their shamans and sorcerers. In the meantime, I crossed the moon and created over twenty cities.
+
+They mirrored the ones I erected on L-7 since the celestial body lacked an atmosphere. We'd change that in time, but it required a diligent effort to keep everything in balance until then. At the very least, my cities gave the albony plenty of time to handle the terraforming. Considering how vast the barriers for the towns were, hundreds of thousands could occupy a single settlement as well.
+
+Despite that scale and scope, we needed space for hundreds of millions of them. It would take a long time to get them adjusted to their new homes, and their civil planners didn't help matters. Regardless of the strain on their resources, they refused to keep the cities tight, efficient, or vertical. They gave each albony plenty of living space with generously sized roads, parks, and recreational areas.
+
+On the one hand, it made their cities a sight to behold, and my guild could learn a thing or two from the designs. On the other hand, they were squandering over half their space in each domain of public works. It racked them up a debt they would need to pay. Alfonso kept track of the exchanges and value transactions, understanding the terms dictated by my guild.
+
+In fact, Alfonso gauged whether the deals were fair or not, and he concluded they were far from equal. Not for the albony, mind you. He argued our guild was the one being taken advantage of, and he rallied to have the terms remade and restructured for our benefit. That was something I learned about Alfonso.
+
+He reveled in fairness like a gambler throwing their money away at a casino. Alfonso didn't want equity. He needed it, and that's why he held his people to account. Even in the short time I dealt with the albony, I came to rely on him to track the endless number of deals, transactions, and promises between us.
+
+He did so within the confines of our guild's legal system, something he learned while trading with Earth over the last few years. That was when we traded with Caprika and her city. Knowing she passed during the lottery left a lasting sting even now. She had helped smooth over our initial contact with the Empire, and she was a good friend of Althea.
+
+Althea had wept after knowing her friend had passed, and it left me hurting as well. She'd been good to us. Althea still wore gifted pendants from Caprika on occasion, and they always carried melancholy in their shine.
+
+My heavy feelings aside, our dealings with Alfonso omened how competent he really was, and it made our wager seem fairer than I first anticipated. By the time we got the ritualists established on Blegara, I genuinely wanted Alfonso on our team. He'd help take the vast majority of legal and economic stress from us while being more trustworthy than I ever expected. We'd still keep tabs and doublecheck his work, but the guy knew his business.
+
+It made the mission on Blegara carry more weight than I expected. To ensure its success, we took a few weeks working with the skeptiles to iron out a few kinks. Within that time, it was ingrained in my head how true Tera's initial statement was. The skeptiles had never succeeded with a ritual on the size and scale required to heal Blegara. It simply outmatched any machinations or magic they'd ever worked on.
+
+With time running short, we needed the project to change trajectory and fast, so I sent out a few messages to my guild asking for help. A quick, curt reply came back.
+
+Torix Worm, the Harbinger's Erudition | Class: Archmage | Lvl 21,000 - It would seem as though you've stumbled onto a problem that I may assist you with. Considering the sheer volatility of the situation, I'd be more than willing to set my current assortment of tasks aside. I'll be there soon.
+
+Within minutes, Torix stepped out of a dark portal of his own making. I waited for him from above Blegara's oceanic surface. As Torix's portal closed, I leaned forward.
+
+"What...No way."
+
+Torix interlocked his hands behind himself.
+
+"In fact, yes way, my disciple."
+
+"Did you just?"
+
+"I did."
+
+"When did you learn long-range warping magic?"
+
+"Centuries ago. I've only been able to exceed my limits due to the Artificial Intelligence you bought me quite some time ago. With it, I can construct spatial maps to help me traverse the cosmos. It takes time as it did with my other process, but a few hours is far more doable than the weeks my warping once required."
+
+I gave his shoulder a pat.
+
+"That's incredible, man. You're killing it."
+
+He eyed my armor with his sharp, intelligent gaze.
+
+"You seem to have changed as well. You're still channeling mana, then?"
+
+A small smile ran up my lips.
+
+"A little here and there."
+
+Torix nodded at me.
+
+"Every day and night, I presume?"
+
+I waved the comment off.
+
+"There's not much difference between the two nowadays. My perception has gotten to a point where even starlight is enough to see clearly. For miles, actually."
+
+His eyes flared green.
+
+"You simply must find time for my next body. It would enable me to do great things, given the sheer volume of stats you work with. Ah, what I could accomplish given time."
+
+The menace in his voice was heartwarming, the old lich sounding like his good old lich himself. I put my hands on my hips.
+
+"It's on the to-do list and high up on it. I'd of done it already if other problems could stop popping up out of nowhere. Speaking of, we'll need your help to polish the ritual below."
+
+His eyes flared purple.
+
+"Or have it function at all by the sounds of your messages."
+
+"Ok, maybe...Alright, absolutely. We're about to create a giant spirit for Blegara, and I'm worried it's going to be a demon at this rate. You know, the kind that melts your ice cream and clogs your toilets."
+
+Torix's rolled his fiery eyes.
+
+"Terrifying."
+
+"Torix, we're up a paddle with no creek."
+
+Torix gawked at me. I took a moment.
+
+"I mean a creek with no paddle. Look, it's been a long day."
+
+Torix tilted his head at me.
+
+"That state you're in...It seems painful."
+
+I channeled enormous amounts of mana, my minds bending time all the while. I held dimensions and studied runes all at once. It left me distracted, and Torix saw through me. I frowned, letting go of my facade.
+
+"Sorry. I didn't mean to lie."
+
+He shook his head.
+
+"Oh, I know that full and well. Still, I'd like you to describe it to me. What is that like? Living that many ways at once?"
+
+I peered up.
+
+"It's...Letting go. It's not painful, though I suppose one could argue that change can be worse than pain. Honestly, humans don't really have words for this kind of ascension and the sense of loss that comes with it. You know, it's wild. People think that reaching the zenith is a growing process that's full of excitement. I thought that too when I first began my path to power."
+
+My eyes hardened.
+
+"It's not. It's simply one sacrifice after the other. By the time I'm finished, I'll have sacrificed everything I am, and that's hard to accept."
+
+Torix peered at me, his eyes piercing and his mind imposing. His eyes flared.
+
+"We all change, disciple. You simply chose how you change while most of us are beholden to time and destiny."
+
+"But you don't believe in destiny?"
+
+Torix gazed into the sunset, making sure it glinted on his dark, metal frame.
+
+"Of course not, but it makes for one hell of a line."
+
+I rolled my eyes.
+
+"Let's go fix a planet."
+
+His eyes flared a bright blue.
+
+"It's quite the novelty. I'm far more used to breaking them."
+
+Several of his skeletal and decaying minions walked out of portals around him. They carried various waterproofed ritual supplies. Torix descended into the depths below.
+
+"I'm quite looking forward to the new experience."

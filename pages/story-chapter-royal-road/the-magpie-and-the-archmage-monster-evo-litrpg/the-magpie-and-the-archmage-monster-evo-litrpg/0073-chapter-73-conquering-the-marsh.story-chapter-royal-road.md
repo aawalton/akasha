@@ -1,0 +1,111 @@
+---
+id: 45e45b65-17dc-5752-b87a-9662d0155810
+page-type-slug: story-chapter-royal-road
+title: "Chapter 73 – Conquering the Marsh"
+slug: 0073-chapter-73-conquering-the-marsh
+partOf: the-magpie-and-the-archmage-monster-evo-litrpg
+position: 73
+ownLength: 1985
+unit: words
+publishedAt: 2026-01-19
+link: "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2956906/chapter-73-conquering-the-marsh"
+royalRoadId: "2956906"
+---
+
+Liora was going to catch herself some fish. She had quite enjoyed the fish she got to eat in Cyene. Obviously, any fish she caught here would be raw and without any spices or salt. But if it was a choice between that and dragonfly, then the decision was obvious.
+
+First things first—she needed a way to catch the fish. Liora couldn't swim, nor did she have any intention of getting anywhere near that water. Not when the king fish could eat those dangerous cranes like they were nothing more than a snack. Who knows what else lived there?
+
+But it was certain that not every fish down there was a monster. Every big fish started out as a little fish. So Liora was going to catch these little fish and eat them.
+
+To catch a fish, I need either a net or a fishing rod of some sort. The net obviously is out of the question. It would take too long to make one, and I'm not sure if I can even do it without proper fingers. So the best I could do was make a fishing rod of sorts. Or a fishing line at least.
+
+The only thing that could serve as a fishing line was the long tendrils of the willow. Liora flew up to the top of the branches, where the long tendrils started. Was it safe to remove one? The tree wouldn't randomly attack her, would it?
+
+She wasn't going to take any chances. Who knew? Maybe this tree was part monster and would defend itself when attacked. She wished she could ask Renir for advice, but he was still silent. So the best thing Liora could do was put a good distance between herself and the tree and then Air Slash one of its tendrils.
+
+She remained vigilant for a while, waiting for the tendrils to start moving of their own accord after one of them had been severed. But no, the tree remained still as a tree should. Liora still kept a watch on it as she flew down to retrieve the separated tendril.
+
+Grabbing it, she realized how sticky it actually was. It was as if the whole thing was covered in superglue. Only with great effort was she able to free her leg, but it was still covered in the sticky substance. Thankfully, she could wash it away with water, but she could see how getting this out of the feathers would be nearly impossible without plucking them out.
+
+But the tendril was long, flexible, and light. Like a thick rope. It wasn't a perfect fishing line, but it was the best she could find in the marsh. The other thing she needed was some sort of bait. That was simple enough. There were small grubs and bugs crawling all over the willow mangroves. In fact, many were already stuck to the tendril, likely becoming prey to the tree.
+
+Liora was going to use that. She flew around, finding the biggest, juiciest bugs she could find. Theoretically, she could have eaten those, too, if she wanted to. But she didn't want to. They looked gross. Perhaps she had grown too accustomed to human food and was no longer able to eat bugs.
+
+The first thing I'm doing when we get to a town is steal their food and stash it in my Inventory.
+
+With bugs stuck and squirming at the end of the tendril, Liora grabbed it from the other end and flew up. She didn't dare to fly too far away from the willow mangrove. There was no reason to tempt the crane and other monsters. Instead, she stuck close and dipped the tendril in the water, while landing on one of the lower branches.
+
+And now I wait. Hopefully, something will latch on soon.
+
+So she waited, and waited, and waited. Liora calmed herself with the thought that fishing usually took time. She had to be calm and remain still so as not to scare away the fish. So hours went by and soon the sun began to rise above the marsh. Dragonflies scattered as did the cranes, leaving most of the marsh eerily empty. Were most monsters around here nocturnal?
+
+Why isn't anything catching?
+
+Urged by her grumbling stomach, Liora carefully pulled up her makeshift line. To her astonishment, all the bugs were gone, but there was no fish in sight. Only then did she realize her biggest mistakes. She didn't have a hook. How was she supposed to catch fish?
+
+Argh! I'm so hungry! Is there something here I could use as a hook?
+
+She looked around, searching for some plants with thorns or maybe some sharp bones lying around. But obviously, nothing as convenient could be found. The best thing she had was her own talon, but she wasn't about to pull one out just to make a proper fishing line.
+
+With disgust, Liora looked at the tiny bug crawling all over the willow mangrove. They were small, but there were a lot of them. It would certainly be enough.
+
+She really, really didn't want to eat. But she was also so hungry. She couldn't keep going on an empty stomach, especially after those injuries she had sustained. So with a heavy heart, and barely withholding her gag reflex, Liora caved and swallowed as many bugs as quickly as possible.
+
+They were absolutely disgusting. They felt dirty and smelled like toilet water and old, decaying tree bark. She ate as quickly as she could, like one would consume medicine they didn't like, but needed to take. Unfortunately, there was a nasty aftertaste. As if she'd eaten some dirt.
+
+Liora would have loved to drink some water to wash out the taste, but there was no way she was drinking this murky, nasty marsh water. But what else was she supposed to drink? There wasn’t any other water around.
+
+Ugh, not only have I eaten bugs, but I need to drink dirty water. This is the worst!
+
+But there wasn't much of a choice, so Liora swallowed her pride and drank. She drank quickly and watched the murky water carefully. So no fish could jump on her while she drank. The water was just as horrible as the bugs, if not worse.
+
+Liora vowed that the next day, she'd find herself a proper source of edible food and water. But with the sun rising higher, it was her cue to find a hidden nook within the willow mangrove and sleep.
+
+Several days passed, and Renir still didn't respond. Liora was getting increasingly more worried. How much longer would it take for him to awaken? Will he even wake up?
+
+Whenever this question appeared in her mind, she promptly shoved it into the depths of her mind. Instead, she focused on the things in front of her. First, she found more or less edible things to eat in her swamp by properly adjusting her fishing line.
+
+She made rudimentary fishing traps of sorts by sticking together multiple willow tendrils. The fact that they stuck together so well meant that she didn't really need to weave an elaborate net; she just had to stick them together in the form of a net. The rest of it was easy—just lower the trap into the water and wait.
+
+It wasn't a perfect system by any means. The sticky goop slowly lost its stickiness over time, unravelling her net. Many other inhabitants of the marsh were also eager to take advantage of her net, which meant that cranes and the big fish from before swarmed to them.
+
+But it also meant that these other predators were busy feasting on the fish caught in her net and not trying to get her. All Liora had to do was grab one decently sized fish, and she was good for the next. The next day, she could just stick together another net—there were plenty of tendrils to work with after all.
+
+Water, however, was an issue she couldn't solve so easily. Thankfully, her magpie stomach was quite resilient to whatever little nasty bacteria lived in the swamp water. She couldn't imagine humans getting away with drinking this water without severe diarrhea afterwards.
+
+With her food resources secured, Liora could begin leveling and training in earnest. Her first target was the many dragonflies flying about at night. They were the lowest-level monsters in this marsh, most of them having white nametags. The fact that they didn't seem to care for each other also helped.
+
+But Liora wasn't taking any chances. The dragonflies were fast, so she attacked quickly. First, she Faded and struck the dragonfly's wings with her Air Slash, effectively making it flightless. With this, the poor thing fell helplessly to the water's surface, unable to fly. Liora was about to follow up with another Air Slash, but the dragonfly was pulled below water in the blink of an eye.
+
+[You've assisted in defeating <Giant Dragonfly – Level 22>]
+
+[You've reached Level 26.]
+
+You greedy, nasty fish! Those are my glimmerstones you swallowed. Give them back!
+
+Liora wanted to caw angrily at the water where only tiny little bubbles indicated the presence of the large predators below the surface. But she didn't want to attract the attention of the cranes.
+
+I can't just keep losing glimmerstones to that nasty fish. I could cut off the wings of all dragonflies in this marsh, but what's the point if they fall into the water? The fish eats them, and the glimmerstones are gone. I need those glimmerstones!
+
+Reluctantly, Liora had to admit that it wasn't bad in terms of just leveling up. Cut the wings, let the fish do the dirty job, and still gain the experience. But all those glimmerstones were lost in its stomach. She couldn't accept it. She wouldn't stand for it. That damned fish must have accumulated a small hoard of its own.
+
+But what could she do against that giant fish? It only appeared near the surface to suck whatever poor creature happened to be near the water's surface. She hadn't even had time to see what color its nameplate was.
+
+I want to know how strong it is. I'll knock down another dragonfly, then try to catch a glimpse of it.
+
+Liora did exactly that, disabling another dragonfly with an Air Slash. The bug fell into the water, struggling and splashing in desperation. Liora watched it carefully, waiting for the moment the fish would appear.
+
+A few minutes passed without much change until finally the gluttonous fish showed itself again. Or rather, it showed its mouth for a split second near the water's surface, swallowed the dragonfly, and then disappeared into the murky water. There wasn't even a chance to see the nametag.
+
+[You've assisted in defeating <Giant Dragonfly – Level 24>. Experience gained.]
+
+No, it's pointless. It doesn't come out fully, so I can't see its nameplate. Frankly, I can already imagine it being a bright red color. It has to be among the strongest things in this swamp. Do I really have to give all my glimmerstones to it?
+
+Liora hated that idea. No, she would get back the glimmerstones the damned fish stole from her. This was war. Sure, the fish was stronger, but at the end of the day, it was just a fish. She was a superior magpie with a superior mind. She would find a way to defeat the fish through cunning.
+
+Then an idea did indeed arise in Liora's mind. A tactic as old as time itself, but something that the fish likely didn't expect.
+
+Liora used Air Slash on multiple dragonflies, making them plunge into the waters. But this time, she didn't stop with just an Air Slash. She followed up with Poison Slash, applying toad's poison to three dragonflies and the rock viper's poison to the other three.
+
+Let's see how you like the taste of that!

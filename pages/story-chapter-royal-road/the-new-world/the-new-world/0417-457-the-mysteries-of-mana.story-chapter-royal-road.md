@@ -1,0 +1,265 @@
+---
+id: 24c3e7d5-a8b3-5c23-872a-98356fb1d29b
+page-type-slug: story-chapter-royal-road
+title: "457 The Mysteries of Mana"
+slug: 0417-457-the-mysteries-of-mana
+partOf: the-new-world
+position: 417
+ownLength: 2714
+unit: words
+ownProgress: 2714
+publishedAt: 2025-08-01
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2482839/457-the-mysteries-of-mana"
+royalRoadId: "2482839"
+markedReadAt: "2026-06-29T21:35:41.433Z"
+---
+
+In that moment, two lost souls helped each other grieve for their lost home planets. Like that, we waited until darkness came over us, the air solemn and silent. During the night, they rested while Opal and I glowed. She did so from her natural composition, and I did so from world-ending amounts of mana. My aura was back to full strength, and it compressed my timeline to a standstill.
+
+Hours into my honed focus, Opal leaned over and telepathized to me.
+
+"I was worried about this trip, but you've got some good people with you."
+
+I smiled, my eyes closed.
+
+"I do."
+
+Chapter Begin
+
+While the night was solemn, grief often gave way to a clearer mind and a stronger soul. Awash in that catharsis, everyone woke in high spirits, aside from Opal and me. She spent a few hours curating our campsite so that light washed over us all in subdued hues. She even managed the temperature, bedding, and built a lounge area from her spatial storage.
+
+She and I talked about it.
+
+"I've been a Fringe Walker for a long time. I've had to walk across hostile worlds for decades at a time, with and without people beside me. Let's just say you learn that making a home away from home is important for your sanity."
+
+Her words rang true, and they reminded me of the ossuary on L-7. I spent months fighting without rest, and it had left my mind unfocused and wandering. Time magic wouldn't have been half as difficult to learn if I'd made a peaceful sanctuary amidst the utter chaos. Sitting in the light hum of Opal's lamps and their glow, I understood why she put in the effort.
+
+Of course, the lanterns would've exploded on L-7, but I digress.
+
+We took a few minutes getting everything prepped. Everybody needed environmental protection magic in case the planet unleashed some serious turmoil. A stray asteroid or two could turn just about any world into an unlivable wasteland, and we weren't going to take the chance of walking onto one unprepared.
+
+Establishing some combat magic, buffs, and plans for battle, we gave Opal the signal. Which was to say, I told her to warp us. Several minutes passed as she collected her star charts, gathered conceptual data from aggregating AIs, and pinpointed our dimensions in space. She stared at a hologram for nearly an hour more before she took a deep breath.
+
+She reached out her hands, and a portal opened. It didn't show another side, instead being covered in a blue mist. She held out her hands.
+
+"Look, not every portalist is some prodigy like that blind cat. We do our best, ok?"
+
+I raised a hand.
+
+"Let me go in first, then."
+
+Before I stepped through, Amara walked beside me.
+
+"This planet is far older than other worlds we've visited. It may hold ancient ruins, but more so, the eldritch shall be ancient as well. As they've had centuries or perhaps longer to develop, they shall be far stronger than prior planets."
+
+I charged my runes.
+
+"I'll see what I can do, and thanks for the warning."
+
+I peered at everyone.
+
+"That means you all need to stay on your toes. I'll clear out a position before letting you guys know when I've secured the location."
+
+I got affirmations before turning to the portal. I dove in, and yeah, Opal was damn right. Not every warp specialist was made equal. The portal took several seconds before flashing me into some underground patch of dirt. I had fused with the soil, existing as a mix of dirt and my dimensional fabric. It left my thoughts muddied and my movements like quicksand.
+
+And I mean literal quicksand. My left side was some kind of liquid imbibed grains, and my right was solid stone. This had been an issue we discussed together, and that's why I went first. See, unlike Helios, who created two warps and connected them across the vastness of space, Opal's traversal was more akin to teleportation. While much easier to pull off, it came with a lot of drawbacks.
+
+E.g., being fused with the surrounding material if someone misgauged the portal's ending point.
+
+Being more than a physical construct at this point, I pulled myself out of my body. After emerging from the ether, I decimated my surroundings with gravitational singularities, getting rid of the surrounding dirt. After clearing an entire mountainside, I finally saw the world. It was old, ancient even, and ruins dotted the horizon for as far as I could see.
+
+And I could see for an eternity. The vastness of the planet defied reason, being many times the size of Earth. The gravitation verified that, but so did my eyesight. After all, I had enormous base attributes. I could physically make out details even hundreds of kilometers away if I so chose. At this moment, I so chose.
+
+I couldn't actually make out everything even if I strained my eyes. From my experience with my senses, that meant a few of the mountains in the distance were more than a few thousand kilometers away. A sense of awe washed over me, since the absurd size was an exciting prospect. The alien atmosphere gave me a jolt as well.
+
+It flowed with converted manas of all types, including types of mana I had never felt before. Near my current position, the energy carried the will of untamed life. In the distance, sand and wind manas created deserts. Walls of water held seas that stretched far into the sky. In that way, the planet carried a clearly defined and rigid separation between hundreds of environments.
+
+It was like staring at a visual of every environment manifested at odd intervals, every territory outlined by some kind of strange, specialized energy. Creatures, fauna, and geography all molded into those specialized zones depending on the mana present there. That's if I could call it mana.
+
+A few refined batches of the stuff floated around, all of it converted using odd rock formations. Peering down at one nearby, I snapped my fingers.
+
+"Those...Are leylines, like those on Blegara."
+
+Taking a moment, I floated over and peered close. Surrounded by a patch of dense jungle, orange rock bulged out of the ground as a worn-down mass. Ancient runes formed over its surface, the gentle markings giving a sense of calm and ease. After stomping a foot, I gained a grip on my surroundings via gravitation and the subtle movements caused by vibrations.
+
+Enormous mana flows coursed underground, raging as rivers of pure power. Something or someone took the time to build massive leylines underground that converted volatile energies for...Well, something. Those leylines fed into several different areas of the planet. Following one of those lines, I found a space holding gravitational outbursts.
+
+Strange creatures floated through it, each of them immune to many physical forces. Another patch of land was full of flickering objects as if time itself couldn't decide where and when they existed. Near these areas, old, desolate runes rested, the areas unsettled and unexplored for untold periods.
+
+I expected more signs of development, considering Builders used to live here, yet this place was utterly warped by mana, monsters, and the unceasing march of time. Runes clustered near two other enormous terrains. One languished in fire, and the other embodied ice.
+
+These batches of land gave every conceivable area an incredible variance. So much so that it was nearly overwhelming to even look at. Wanting some help scoping the place out, I sent a message back to the others. To my surprise, this planet was within Schema's owned spaces since the messages went back and forth quickly.
+
+In fact, Schema's interference could explain a few of the unnatural-looking leylines and who made them. Waiting for the others, I studied one of the stone formations from a distance. If I could make those on Earth, I could convert the volatile flows of the Old One's into something less volatile and corrupting.
+
+Interrupting my focus, Hod popped out of nowhere beside me. The others followed suit before we all hovered above a verdant jungle. Opal puffed out her chest with pride.
+
+"Wow. I didn't want to say anything, but that was actually the longest warp I've ever made. I was so worried I'd end up-"
+
+I pointed down.
+
+"Doing that?"
+
+She looked down and found my corpse half-fused with the soil. She screamed.
+
+"Oh my light, what have I done? How are you alive? Are you a clone? Are you still friendly? Actually, can you clone me?"
+
+I rolled my eyes.
+
+"I'm physically invincible for the most part. You don't have to be perfect when we warp since I'll just walk back out of the air."
+
+Opal leaned back, a bit terrified.
+
+"What? You survived a bad warp and now you're telling me you're like some immaterial god?"
+
+Hod flapped his wings beside us.
+
+"Hod know Harbinger. Harbinger good at fight, yes, but Harbinger better at surviving. He hard to kill."
+
+Hod landed on my shoulder.
+
+"That why Hod kill evil tree man. Harbinger need help sometime."
+
+I gave him an appreciative nod.
+
+"That's right. We needed all the help we could then, and we'll need it now."
+
+Chrona also flapped her wings, though she mixed it with the occasional lazy glide. It made her far more elegant in her aerial maneuverability than Hod, and Chrona stared into the distance.
+
+"This world feels far more like Giess than Earth. The magics, I can feel and even breath them in. Ahhh, it's a potent feeling, is it not?"
+
+I wisped my hand through the air, mana soaking in it.
+
+"Sure, though I'm pretty sure this could poison you given enough time."
+
+Chrona scoffed.
+
+"This isn't like the energy you wield. Any reasonable sentient would fight that pervasive influence off well before it became a problem."
+
+A cancerous growth of vines whipped at us from a tree top. I analyzed it.
+
+Kloeah, the Separater of Skies | Level 21,029...
+
+I quit reading and immediately shot into action. With all my strength, I hit the whipping wood, and it disintegrated as a shockwave erupted at the point of contact. Clouds parted. The sound barrier was crossed several times, creating a series of sonic booms from both of us. These cascading forces knocked my allies further into the air while I held myself in place using gravitation.
+
+As they whirled into the air above, I spread my arms. My body ignited into a star as radiation spread from my skin. I glowed a blinding blue. Singularities erupted in mass below, and the entire forest ripped into nothing more than debris from the impacts. Reaching my hand back, I pulled my allies back with gravity wells, making sure not to cause whiplash from shifting their momentum too quickly.
+
+As they came back, I suppressed our surroundings in Event Horizon. Opal was upside down as she spread her hands.
+
+"What the hell was that?"
+
+I glared downward at the hostile terrain.
+
+"That creature was over level 20,000. It was about to kill one of you."
+
+As if I dumped ice water over them all, their expressions turned cold and afraid, except Opal. She laughed.
+
+"What? No way. Do eldritch even-"
+
+I created a telepathic link between us.
+
+"Use your damn head. Just try to inspect something below to verify what I've said instead of laughing like an idiot."
+
+She gulped before shifting mental gears.
+
+"Uhm. Yeah. Sure."
+
+She looked at the forest. Nothing we found was below level 20,000, and a few creatures even passed the 25k mark. Opal turned herself upright before grabbing the sides of her head.
+
+"Oh, this is a suicide mission. We have to go back."
+
+Chrona raised a brow at her.
+
+"What? Why?"
+
+Opal gawked at our gialgathen. The Fringe Walker gestured to the forest below.
+
+"They outlevel us by nearly 5k just from existing. How in the hell do you expect us to survive?"
+
+Chrona pointed a tail at me.
+
+"Him. Obviously."
+
+Opal glared before snapping her words like an angry alligator snapping its jaws.
+
+"Look, I know I can play myself off as goofy and lackadaisical, but I really have cleared over fifty planets. A few of those I did nearly on my own. I can tell you from experience that I've never seen a planet even half this volatile or dangerous."
+
+I raised a brow.
+
+"Really?"
+
+She shook her hands.
+
+"I'm not lying here, and are you serious? Why don't you sound surprised?"
+
+I put my hands on my hips.
+
+"Because I am only kinda surprised. I've been to a planet that was worse than this by a significant margin. For comparison's sake, at least the air is breathable here and the radiation isn't so bad. This planet's ecosystem seems to thrive on mana that's filtered by leylines, which seem pretty stable. The planet I'm thinking of fed on the accretion disk of a black hole. The eldritch converted the raw radiation and gravitational waves into biomass."
+
+I winced.
+
+"Now that...That was a brutal world. This, on the other hand, is doable."
+
+Opal gawked, her cross wide.
+
+"What? That...That doesn't even sound possible."
+
+I tapped my chin for a moment.
+
+"I think it normally wouldn't be, but an Old One pulled some shenanigans and changed the rules a little. I haven't been able to verify it, but Schema probably took advantage of the strange situation to set up the lottery. Regardless, this planet is far more livable than that one was. That's why I think we'll be fine."
+
+Opal took a breath. She moved both her arms in wide circles while pinching her fingertips together as if in a meditative trance. A wave of mana passed over us, calming everyone present, but especially her. Opal nodded.
+
+"You think you can keep us alive on this Schema-forsaken rock? In this...This endless darkness, as my grandma would say?"
+
+I met her eye.
+
+"Yes. You'll all need a crash course to level up, though."
+
+The other three nodded, but Opal crossed her arms. She sighed.
+
+"I'm capped. I've been capped for a few centuries now."
+
+I shrugged.
+
+"Let's see if we can't get you a class upgrade while we're here. It shouldn't be too hard considering the kind of monsters we'll be able to fight."
+
+Hod cheered.
+
+"Hod love training montage."
+
+Chrona grinned.
+
+"They are the very best aspects of the ancient and well-versed DVDs. Ah, the symphonies they put on display. It takes me back."
+
+I blinked.
+
+"Where?"
+
+Chrona gazed up at three moons that floated across the sky.
+
+"To early days at Rivaria, where I would train with my kin and learn magic. I loved spending my days refining my magic and speaking philosophy to my friends. To do so again would be a blessing to us all."
+
+Amara raised her palms and narrowed her eyes.
+
+"My eldritchian blood will conquer my mind if I gain so much power."
+
+Opal scoffed..
+
+"Ok, I have a slightly different problem. I don't want to die."
+
+I gave her a thumbs up.
+
+"You'll be fine if you-"
+
+A spatial eagle flashed beside Opal. It brandished glowing talons that cleaved space and time apart. The claws glowed as azure streaks without defined limits, as if they held the secrets of the universe within them. Their magic coursed as deep as an ocean, and within each feather, the power to ripple a dimension radiated. Even the eagle's eyes held a deep intelligence.
+
+I jolted between it and Opal. The eagle's claws shattered against my armor, unable to tear through my dimensional fabric. The eagle raised its head, cawing. The sound built like an ancient eruption waiting to blow. Before it could do anything more, I gripped its neck, broke it, and pulled its head off. Simultaneously, I tore its wings from its shoulders and twirled its legs into broken slinkies with gravity.
+
+It fell, a broken image of space's majesty. Opal gawked at it, stunned by the sudden danger. I smiled as my armor snatched the corpse. The metal ground the bones, and as the corpse crunched below us, I smiled at Opal.
+
+"Hey, we're gonna make it out here."
+
+My armor grinned over my face, the teeth jagged.
+
+"You can trust me."

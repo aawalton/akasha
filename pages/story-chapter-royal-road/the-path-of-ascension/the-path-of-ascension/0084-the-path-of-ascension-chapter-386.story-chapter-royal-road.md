@@ -1,0 +1,267 @@
+---
+id: dc6003e3-05e2-5892-878c-5198966a69ba
+page-type-slug: story-chapter-royal-road
+title: "The Path of Ascension Chapter 386"
+slug: 0084-the-path-of-ascension-chapter-386
+partOf: the-path-of-ascension
+position: 84
+ownLength: 5045
+unit: words
+ownProgress: 5045
+publishedAt: 2025-02-07
+link: "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/2053960/the-path-of-ascension-chapter-386"
+royalRoadId: "2053960"
+markedReadAt: "2026-06-29T19:20:35.097Z"
+---
+
+Chapter 386
+
+The following week passed far too slowly for Matt’s liking, but he understood it was a hectic one for his lawyers.
+
+He hadn’t seen a single one of them drop below their maximum perception speed for even a second while they got the guild ready for the metaphorical war they were about to enter.
+
+And war it would be.
+
+Falker Industries seemed determined to prove that they had independently developed the engine with such fervor that Johannes feared they might have actually done so.
+
+If that happened, they would be shit out of luck and end up not only paying court fees, but would take a fairly severe publicity hit.
+
+He could already see the headlines: “Ascender’s Guild Viciously Attacks Innocent Organization Over Design Dispute”. It wouldn’t kill all of his goodwill, but it would go a long way to ruin the image he and everyone else had worked hard to curate.
+
+Reputation was three quarters of the battle when it came to helping people.
+
+Even if they failed, it would recover, but the public's overall impressions would be negative for a while.
+
+Matt felt dirty thinking about it, but he knew they had counters ready to deploy if such an event would happen.
+
+There was an easy counter to negative publicity— good publicity that people couldn’t help but talk about more than the negative. And they had such an invention sitting there in the form of Ra’thala’s easy-to-create skills.
+
+No matter what his enemies tried to drum up, releasing that would erase any negativity from the public's perception of his guild, but Matt hated the idea of using that information like that.
+
+The rational part of him said it was no different than combat, and using any and all moves you had in the most advantageous way was not only to be expected, but the only proper way to fight. That didn’t stop him from feeling like he was tainting a good thing.
+
+But like combat, letting his enemies use emotion or feeling to control him to their advantage was foolish. Far better to vent to their corpses. If the guild’s reputation was ruined, less good would happen than his perceived misdeed of using Ra’thala’s skills strategically would ruin things.
+
+As much as he wished he wouldn’t have to use that card, his gut told him his enemies would be ready for anything that had been in planning for a long time.
+
+Still, there was a chance they could quickly push through the legal proceedings and come out with a victory that would destroy any plans his enemies had laid out.
+
+It would just come down to the initial hearing the following week, and having pulled out the mortal clause, things were moving fast. But that was a double-edged sword.
+
+If this was really a calculated move from his yet-unknown enemies, he expected they would be better prepared for a legal battle than his people would.
+
+That was the problem with being on the defensive. They lacked initiative and could only brace for the next hit instead of striking out early. That would all change once they identified their opponent, and Matt could only hope they could figure out who was targeting them quickly.
+
+Amusingly enough, it was Matt’s first time in the courtroom, and he was dressed in his Ascender’s robes as they were the highest-honor clothing he rated to wear. Though, they made him stand out in stark contrast to everyone else’s suits or low noble regalia for the few who had ties to such families.
+
+If he had a choice, Matt would have preferred to wear a duke’s or a guild leader's many layered suit, or better yet, a simple civilian suit to play up the everyman image he pushed for his guild, but this worked in its own way.
+
+Standing next to Falker in front of the judge’s bench, waiting with their lawyers, the contrast between each side was palpable, even if this was just an initial hearing.
+
+A hostile news organization might try to play it as Matt using his rank and prestige to bully Falker, but the visual contrast spoke volumes.
+
+Judge Hatfield sauntered into the courtroom fifteen minutes late with a congenial smile. “Sorry, sorry, my last case ran late. Is everyone ready for our initial hearing so we can try to avoid a lengthy trial?”
+
+Matt didn’t need a reminder that this could easily drag on but he said nothing, letting Johannes handle the initial proceedings.
+
+Both sides claimed they had created the engine first and implied the other was the thief while not directly accusing anyone of such.
+
+After both sides had made their case, Judge Hatfield waved. “I have reviewed both sides' presented materials and proofs. I am no expert in such technical developments, but neither claim is obviously fabricated. I am, however, an expert in patents. And to avoid a lengthy trial, I will offer a split patent solution. The Falker Industries, as it is based out of King Rusty’s kingdom, can have primacy over their kingdom as well as King Frederic’s and Queen Tur’stal’s. Ascender Titan and Titan’s Torch can have primacy over the remaining kingdoms. Both patents will be set at the standard thousand years, as is typical for items slated for mortals.”
+
+Matt frowned. Johannes had suggested that this was the most likely outcome, thanks to its quick, easy, and typically acceptable fix to such close patent debates.
+
+Most corporations or guilds would be more than happy to divvy up the Empire's Kingdoms rather than potentially lose out on the entire Empire should the suit go to their opponents. It was less about what was right or just and more about profit.
+
+Johannes stepped forward. “Judge, as a charity Guild, Titan’s Torch intends to make the patent freely available as per our charter. The typical price fixings required by split patents make that impossible, so we cannot accept such a judgment unless it comes with an exception to that clause. We ask—”
+
+Falker’s lawyer snorted and stepped up to the bench next to Johannes, interrupting him. “Judge, this is a clear attempt to undermine the proceedings and our patent. Falker Industries submitted the patent first and simply wishes to do as all research institutions do and make our substantial investment back. If Titan’s Torch is able to freely distribute the patent to even a portion of the Empire, that will remove any incentive for local manufacturers to produce the vehicles themselves and instead people will just buy them from Ascenders Titan’s regions.”
+
+Johannes waited for the man to finish while staring a hole through Judge Hatfield's forehead.
+
+The judge ignored the silent rebuke. “An understandable conundrum. Does Titan’s Torch have a way that this doesn’t undermine the spirit of the settlement?”
+
+Johannes kept silent until the judge waved at him. Looking confused, Johannes asked, “Is it my turn to speak now or will I be interrupted once more?”
+
+Seeing neither party acknowledge his grievance but that neither spoke, Johannes continued, “As I was saying before. Titan’s Torch understands that our methods are not conducive to a typical guild's methods of recouping their costs. In the spirit of good business and fair play, we are willing to pay for expected profits to buy out Falker’s claim, so that we can make the patent freely accessible Empire-wide.”
+
+Matt kept his expression flat, but he wanted to sneer at the offer. He had been very disgruntled when Johannes told him of his plan, and while he had agreed grudgingly, he was grateful to have been talked into it as Falker’s lawyer immediately balked.
+
+“Our patent has the potential to revolutionize low-Tier travel for personal vehicles and such an offer would prevent our iterating and patenting of any future designs based on this current model. We can not accept such a blatantly unfair agreement and are offended by its very proposal.”
+
+Matt hated that Falker and his people were assholes and unwilling to let their clearly stolen design go, but another part of him was glad he didn’t need to fork out a large fortune to buy back his own design.
+
+That would have… rankled. Rankled enough that he wasn’t sure he’d be willing to continue playing this little game.
+
+It wouldn’t come to that, as Johannes had been correct though, and they had immediately refused. That gave Titan’s Torch an advantage, as they could truthfully say they had gone well beyond the typical buyouts offered and Falker had refused.
+
+Judge Hatfield looked between both parties and once more tried to broker a deal, but when both sides refused to budge, he was forced to wave his hand again.
+
+“Since no agreement has been reached and both sides have what seem to be credible reports, including AI-backed oaths, we must go to trial and let a jury decide an acceptable outcome. To that end, I will schedule our first hearing for next month the fifteenth as is in accordance with the Mortal Exceptions clause for a speedy trial.”
+
+Falker’s lawyer stepped forward. “Judge Hatfield, I have already put forth my official complaint about using the Mortal Exceptions and Deviations clause to rush this initial hearing, and I will once more lodge an official complaint about this second use of them. They are there to ensure mortals are not taken advantage of by immortals. Yes this is a device aimed at mortals, but that in no way shape or form meets the requirements for such a speedy trial as all parties involved are immortals. The Guthrie case shows my interpretation of the rules are most correct.”
+
+For the first time, Matt witnessed Judge Hatfield’s seemingly endless equanimity vanish.
+
+Glaring at Falker’s lawyer, he said in an absolutely flat tone. “I will not be told I do not understand the law in my own courtroom, Mr. Varni. You’d do best to remember that. As for the Guthrie precedent, I already looked into that after your protest last week. The Guthrie case was initiated by former Judge Wiseman, who was stripped of their position for favoring people he had connections with, and while the Guthrie case wasn’t one he was officially charged with collusion on, it was brought up in his hearing as evidence of how he was unfairly biased and willing to over turn long standing precedent if it suited him. So no, Mr. Varni, I will not be accepting your protest. I do, however, encourage you to report me for dismissing your protest citing such precedent. Besides ignoring that Guthrie's case being the most recent case of using the Mortal Exceptions and Deviations in cases between immortals selling mortal goods, it was an upset of a far more established tradition which can be seen in the protests lodged in the Guthrie case.”
+
+Matt raised an eyebrow at Judge Hatfield’s firm stance. Johannes and his people had prepared several contingencies in case the judge ignored the precedent, but either he wasn’t as corrupt as they feared he would be, or he was smart enough to not make things look too biased and was putting up an act.
+
+Either way, the maneuver bought a modicum of Matt’s respect.
+
+With that settled, they were given a court date a week out, where they would start going through the bureaucracy of selecting jurors and everything else.
+
+Surprisingly enough, that went through without a hitch, but their first actual day in court a month later, Falker’s lawyers petitioned and got an extension because their lead scientist had, upon the completion of his latest project, entered a rift to advance his cultivation, which immediately put a halt to the proceedings.
+
+Johannes protested that the estimated time of a decade to a century before he would exit, with no way to tell for sure, qualified as an immortal abusing their lifespan. But the court deemed that for such a key witness, they would give a grace period of a decade. Hatfield’s reasoning being that while the mortal exceptions were valid, there weren't any actual mortals in the suit, and so he was inclined to give the scientist the longest allowed period to come out of his delve. If he still was not available after a decade, they would continue without him.
+
+A decade was not totally unreasonable for a mortal, but the decision immediately ruined any budding good will Matt had towards the judge.
+
+Matt considered just letting sleeping dogs lie and wait it out. The engine wasn’t that impressive in and of itself and wouldn’t really gain traction until someone else iterated upon it a few times, if it was even possible to work around the limitations of Travel mana at all. Not to mention how much of an advantage they would have on the slim chance the researcher truly was just delving and stayed away long enough to lose the opposing party a key witness, but what changed his mind was learning Gia Innaka and her whole team would need to remain upon the Capital ready to resume the trial thanks to the mortal clause.
+
+It was the dichotomy of waiting possibly a decade for Falker’s lead scientist to exit his rift while demanding one of Matt’s best teams sit on their hands that made up his mind for him.
+
+With things in limbo, Matt was free, as he only needed to be at the trial for the important parts like the initiation and closure, so he excused himself.
+
+When Judge Hatfield asked where he would be so they could contract him, his answer was simple, direct, and must have set off a dozen alarm bells.
+
+“I’m going for a walk.”
+
+He refused to elaborate and immediately left.
+
+And he did go for a walk. In fact, it was such a long walk it could almost be called a meander, and at the end of it, he accidentally found himself standing over the planet that Falker Industries called home.
+
+Using some high level access codes he had as an Ascender that were never revoked post war to access to the Planetary AI, he found the rift that Falker’s lead scientist had entered and flew down to it.
+
+It wasn’t inside the Falker compound like he had expected, or on their allies’ lands, but it was instead one of the local duchess’ personal rifts, not that the revelation stopped Matt.
+
+The guards who watched over the compound it was housed in did move to intercept him, but the moment they saw who he was and understood his attitude, they changed their minds and simply called out from the side.
+
+“Ascender Titian, this is Duchess Griselda Latham’s personal retreat, and she does not condone unauthorized visitors, so we must ask you to leave until after you have seen the Duchess and gotten her permission to enter the grounds.”
+
+Matt just met the Tier 35’s gaze until he wilted and stepped back into formation with the other guards.
+
+Seeing they were giving in, Matt spoke, “I’m not here for the villa or anyone inside.”
+
+He didn’t care about the not-so-little orgy that was happening with several non-local dukes with people that were not their spouses. While things seemed clandestine when it came to immortal relationships, not everyone kept to things like monogamy as he and Liz did, which meant they might not even be doing anything untoward.
+
+Seeing he moved to one of the rifts on the villa grounds, the guards relaxed— until, using a mana draining array, he forcefully ripped every ounce of mana from the Tier 35 rift.
+
+Instead of trying to stop him, the guards started preparing the area for the deluge of people who were about to come out of the rift’s many instances, but Matt didn’t stop and spent millions of mana every second creating a mana null space.
+
+The rift, being a rift, didn’t instantly dissipate, but like a fish pulled out of water it started to gasp and starve as its magical conduits were drained of their mana.
+
+One failed and the rift warbled, but as the formation tried to drain mana from the already empty area, one turned into five and five into a hundred and then the entire rift fell apart and everyone was dumped out of the instances all at once.
+
+Matt quickly identified the scientist he had been looking for and stepped next to him. “You are summoned to court on the Capital in regards to your engine patent. You have four months to report in, now that you have been notified. Do so or be found in contempt.”
+
+Turning to everyone else, Matt put on his best smile. “Everyone, I would like to apologize for the interruption of your delves. For those that don’t know me, my name is Ascender Titan.”
+
+There were only around five hundred people, which was less than he expected for a Tier 35 rift, but he suspected the rift being one of the duchess’ personal rifts, it was allowed to get to full or near full before being delved. To that end, he also suspected that some of these people might have been in the rift for longer than he’d been alive, which meant they didn’t know who he was. And if they didn’t bother to check with their [AI], they might react badly to his intrusion. Understandable, but something he’d like to cut off.
+
+He actually felt bad for those he had just ripped out of their rift and wanted to make it up to them as much as possible.
+
+Thankfully, he had an easy way to do that.
+
+“To show my apology, I will happily cover everyone's expenses that they paid to enter the rift and any replacements for gear that was used or damaged during their delve.”
+
+Everyone graciously declined his remuneration. He would rather they take the money he offered instead of using this opportunity to try and grow closer to him, but the latter was acceptable.
+
+The easiest answer would be to take them out to an expensive banquet, spend a week or two chatting with them, but that wouldn't be as impressive as what Matt had in mind. And this latest attack reminded him that he needed, if not allies, at least acquaintances beyond his circle of friends.
+
+Spreading his hands, he created a formation out of his mana crystal. It took a few minutes to carefully form the intricate patterns while forming the mana stone, but he wasn’t in a rush, and everyone seemed more than happy to watch his show.
+
+Once he was done Matt let a genuine smile show. “And let me be the first to showcase one of the projects that Titan’s Torch is working on. Bespoke rifts.”
+
+There was an audible murmur in the gathered crowds, which had grown despite the guards’ attempts to keep higher-Tier outsiders from entering the villa, but Matt’s destroying of the rift had gathered everyone's attention. Including the duchess, who was flying over at her ‘best speeds’ having readily finished up the meeting she had been in on one of the other continents. Being a Tier 35, she would have noticed him immediately and could have appeared next to him before he could react, but she seemed willing to let this play out, so Matt didn’t call her out.
+
+“This is currently in the phase of being more art than science, but that's a good thing since I consider myself something of an artist when it comes to rifts.”
+
+Matt winked before he pulled up the record of the rift he had destroyed to find it hadn’t been anything truly special.
+
+Turning to Duchess Latham as she landed, he smiled. “I apologize for not greeting you properly when I arrived, but I had something to do that took precedence.”
+
+Griselda smiled and waved away his apology. “I wouldn't want to interfere with your business, but now that it is over, I would request you stay for at least a meal or two. Let me show you the hospitality of my world.”
+
+Matt didn’t let his inner sigh show. He had been afraid of this request, but considering how he had stamped all over her fief, he owed her at least that much. He was sure he’d also be getting several one-sided business deals thrown his way.
+
+Still, he could use this.
+
+Gesturing to where the rift had been, he asked, “Since I broke it, I might as well replace it. Any particular inclination for what kind of rift I should aim for?”
+
+Griselda’s gaze turned from generally friendly to interested in a heartbeat. “Oh, you have that level of control?”
+
+Matt shrugged and proceeded to exaggerate shamelessly. “At this Tier? Not really. As stated in my guild’s reports, rift science has not advanced enough to guarantee anything, but I can aim for an inclination for what I replace the rift with. If nothing else, there will be a rift here when I’m done. And if we are lucky, I can choose its theme and-or monster type.”
+
+Most of them probably took that as him downplaying his skill, but he was doing the exact opposite. Anything but the roughest, most basic shaping, like overall element, of a Tier 35 rift was still millennia away, if not longer.
+
+“I will happily accept anything the Ascender finds interesting.”
+
+Matt was secretly pleased, as it meant he could present whatever result he got as a success. That was no doubt her intention, but still, it worked for all parties involved, so why not take the wins where he could get them.
+
+In his personal aperology work, he had been playing with shadow mana and seeing how it tended to result in trap or puzzle rifts. Matt’s gut told him that was part of the key to making some of the more convoluted, and therefore notable, rifts they had encountered in delving, but they were also incredibly finicky.
+
+He at least didn’t actually care about a set rift instance that needed to be kept from de-aspecting, so Matt started with an unequal balance of wood mana, water mana, earth mana, and a hint of fire mana for Tiers 1 through Tier 10. At Tier 11 he replaced half of the wood mana with air, which resulted in the various woodland creatures they had been seeing exit the rift upon Tier up to start mixing with birds.
+
+There were a number of murmurs of exclamation at the sight, and so Matt started narrating what he was doing and why, as well as when things happened that he didn’t expect.
+
+At tier 20, he switched from feeding the rift himself and ambient mana to throwing mana stones into the rift. He couldn't do many more tiers before it’d take even him noticeable amounts of time, and it was better to err on the side of switching over sooner.
+
+Griselda offered to use her own mana stones, but Matt just waved her off, using his destruction of the earlier rift to explain his generosity. It was a good opportunity to come off well while not being too egregious in price.The statement he was making was well worth a few months of production.
+
+As they reached a Tier 30 rift, Matt looked to all of the Tier 35’s and said, “I would appreciate all of your help in destroying the rift monsters before they threaten anyone.”
+
+Tier 30 was also when the rift became interesting.
+
+The rift’s monsters radically changed, and from a general but uninteresting variety of forest creatures, they had suddenly transformed into scaled versions of their former selves with much stronger attacks and impressive defenses.
+
+Not that the Tier 35s struggled to kill the monsters five Tiers lower than themselves, but it brought out another round of appreciation from the watchers who attributed this to Matt’s plan rather than the luck that it was.
+
+Still following his gut and hoping the next few Tier ups didn’t ruin the good impression he just made, Matt changed up his mana ratios once more, adding more earth and a touch of Aiden’s water mana with all of its inherent complexity thanks to his Authority. Luckily, the monsters didn’t revert to something less interesting before the rift reached Tier 35, but unlike what he expected, most of the previous rift delvers didn’t clamor to enter the rift. Instead, they accepted Griselda’s invitation to a gathering she was throwing to host Matt.
+
+It took him a moment, but then he understood that the rift they had been delving was undoubtedly one that was well understood, in and out and front to back, and therefore with minimal risk for those who were prepared. Unlike him and his friends, these people didn’t want to enter new rifts, they wanted to enter known elements that had no surprises to minimize their risk of injury or death.
+
+Realizing that, he almost felt bad about making the rift a peak Tier 35 rift instead of a medium Tier 35, like the one he had destroyed, but it was a little late for that.
+
+He did notice that Griselda shot the rift a genuinely interested look, and from the guards she posted around the rift, he suspected she intended to claim the first clear for herself and her team. Considering the rift was brimming with mana, the reward would be generous, which might add to her anticipation. Though, it might also just be the notoriety of having an Ascender Titan-made rift.
+
+Either way, Matt didn’t care so long as he left here without five hundred new enemies.
+
+And contrary to his own expectation, he did better than that.
+
+He mingled and chatted for a full two weeks before making his excuses to return to the court battle. As he expected, people complained and Griselda wanted to chat in private, which he accepted as it let him ask her what she knew about Falker’s guild.
+
+What she personally knew was rudimentary as the guild, despite being Tier 35, was anything but notable. But she was a duchess and a hereditary one at that, so her family had an extensive spy network that she tapped into. For the price of one small favor to be agreed upon later, she sent Matt everything they had on Falker Industries.
+
+What Matt saw didn’t instantly tell him who was pulling Falker’s strings, but it did fill in some gaps. A lot of gaps actually.
+
+Notable was that three thousand years ago, when Falker’s guild was just formed, they had been in a transitional period. After their first successful product but before they were able to create any new products, the guild was only surviving on Falker’s personal wealth. If they had gone belly up after one successful product, they would have simply been one of a million other similar guilds, but they didn’t.
+
+Not for lack of trying however.
+
+No, an unnamed investor had given them enough of a monetary boost they had weathered the hard time until they created a new product, which had made them viable again. Since then, they had created a new product every two to three hundred years without fail. In and of itself that wasn’t unusual but, with someone directing them to make trouble for Matt, he was seeing another picture.
+
+Instead of a lucky break followed by steady growth, he was seeing some sort of buyout followed by creating a hidden asset to be used at a future point when one needed to strike out against someone without leading too many clues back to oneself.
+
+There was a chance they were simply a pawn of Griselda’s family, but Matt doubted that. While it was possible she was playing some convoluted game, her family wasn’t notable and wasn’t involved in research or development in any way, shape, or form, as their personal specialization was combat formations. That, and with the way she was trying to tie herself to Matt through this interaction, it felt unlikely she was behind or even a part of this scheme.
+
+That didn’t mean she couldn’t be a useful person to know, which was why Matt put in the effort to cultivate the relationship.
+
+He didn’t have a need for combat formations, but if he found himself needing it in the future, he had a personal contact already established.
+
+Seeing the information did, however, give him a new idea behind Falker. Griselda’s family’s information had noted that while the majority of Falker’s guild’s shares were publicly traded, two of the larger share blocks were controlled by puppets of either Falker, or whoever was pulling Falker’s strings. In normal day-to-day voting, the blocks rarely agreed with Falker’s share, but whenever there was something that looked like it might fail, one or two of them would weigh in and ensure the proposals went through. Over the years, even a few breadcrumbs could paint a picture.
+
+With the layers of deception, it looked like Matt could buy a controlling interest in Falker’s guild should he lose the patent battle to make the patent public that way, but with the three group’s votes, they would have just over half of the board's voting power.
+
+He hadn’t intended to do that, but seeing how deep the traps were was enlightening.
+
+As if to counter his good mood, the moment he arrived back at the Capital, he found that the trial hadn’t resumed because the scientist simply hadn’t arrived yet. His ship had been delayed enroute, and while he was charting a secondary ship, it would take another month before he could arrive. He would now arrive just days before his four month deadline.
+
+Hearing that, Matt wasn’t mad. No, he was furious.
+
+He didn’t let that cloud his judgement and noted down the oddity as the fourth shipping-related thing that had happened since these incidents had begun. He wasn’t the best at the whole politics thing, but even he could see a pattern beginning to take shape.
+
+There was always a chance it was just bait for him to find and chase into a dead lead, but either way, whoever was playing games with him had deep connections to space-based infrastructure.
+
+Interestingly enough, he knew a noble family, the Dobrescus, who also had such connections.
+
+Maybe it was time to give them a visit and see what shook out when he kicked that particular tree.

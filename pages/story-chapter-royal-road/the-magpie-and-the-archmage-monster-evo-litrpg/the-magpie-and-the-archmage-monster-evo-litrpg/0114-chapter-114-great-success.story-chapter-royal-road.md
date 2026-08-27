@@ -1,0 +1,211 @@
+---
+id: 7bf5cbd9-a77e-5ca2-9c42-d006fc4e0928
+page-type-slug: story-chapter-royal-road
+title: "Chapter 114 – Great Success"
+slug: 0114-chapter-114-great-success
+partOf: the-magpie-and-the-archmage-monster-evo-litrpg
+position: 114
+ownLength: 2142
+unit: words
+publishedAt: 2026-04-24
+link: "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3311970/chapter-114-great-success"
+royalRoadId: "3311970"
+---
+
+How the hell did that guy get here? This can't be a coincidence.
+
+Act cool. There's no way he would recognize me now. I don't look anything like a magpie at the moment.
+
+Much to Liora's and Renir's horror, Dr. Reius did seem to recognize Liora after all, as he was staring straight at Liora with a starstruck expression. He took a step forward, but was interrupted as Morgana bolted upright from her seat and shot towards Sallie like a bullet.
+
+Before anyone could realize what happened, Morgana had already buried the smaller woman in her embrace, grinning from ear to ear.
+
+"Sallie! You're finally back. I was starting to get worried," the usually tough woman whined, her demeanor changing completely. Instead of her usual smugness, Morgana seemed like a mellow kitten whose owner had returned from a prolonged vacation.
+
+"Sorry, sorry. I did travel quite far," Sallie said, soothingly patting Morgana's back. However, her eyes, much like Dr. Reuis's, were locked onto Liora and Cee. "Why is there a giant black bird and spider in my clinic?"
+
+"I've brought them over to help!" Morgana announced proudly, finally releasing Sallie from her tight grasp. "Come eat, and I'll explain everything to you."
+
+"Very well. First, let me introduce you to Dr. Reius. He's a vet from a faraway town of Sunvale. Recently, the signs of corruption that had been spreading through that area for decades had stopped. He offered to travel with me and offer his insights on the situation."
+
+Morgana reluctantly tore her eyes away from her friend and looked at the disheveled man up and down suspiciously. "He doesn't look very reliable."
+
+"I believe you'll be quite surprised by the information I'm about to offer you. It pertains to the bird sitting by that table," Dr. Reius said enthusiastically, shuffling a bit closer in Liora's direction.
+
+Liora let out an angry screech and spread her wings wide, warning the crazy man to stay back. Mild panic erupted in the dining area as people scampered away from Liora. Donovon reached for the lance tied to his back while Nord gripped his sword.
+
+"Wow, wow! Calm down, everyone," Morgana's soft demeanor vanished once more. She turned to Dr. Reius with a suspicious gaze. "Stay away from the bird!"
+
+Dr. Reius took a step back, a bead of sweat dripping down his face. "My apologies… I believe it recognized me, but it might have misunderstood my intention when we parted the last time."
+
+"Dr. Reius, why don't you go and rest for the time being. I want to talk with my fellow Pillar and understand the situation we're currently in," Sallie said with a soft smile, although her tone made it abundantly clear that it was not a request.
+
+"I… Of course, of course," the man muttered nervously and stepped back.
+
+"Let's move to a more private location. Come here, birdie," Morgana said, equipping the large falcon glove from her Inventory.
+
+Liora jumped onto her hand while keeping her gaze on Dr. Reius. His presence made her extremely uneasy. She had the urge to get as far away from the man as possible.
+
+I don't like that guy.
+
+You and me both. Why the hell did he follow me all the way to this clinic? Or a better question is how? This clinic is supposed to be a secret. Yet this dude somehow managed to track me all the way here. How do you even track a bird?
+
+Don't ask me… I'm a mage, not a tracker. But it is concerning to say the least. I suggest you're honest about what happened in Sunvale with Morgana and Sallie. They won't let that weirdo start any cults over here.
+
+Although Liora didn't really like relying on Morgana, since she was effectively keeping her underground while not giving her that enticing Resonance Crystal, she conceded that when it came to dealing with the crazy doctor, she might be the best option. That did make her feel a bit bad about her plan to rob her—just a little.
+
+Once Morgana, Sallie, Liora, and Cee were safely inside one of the many rooms, Sallie raised her hands. A soft glow appeared on all the walls and the door, which disappeared after a short moment.
+
+"I've soundproofed this room, just in case. I get a feeling the topic we're about to talk about is rather sensitive," Sallie said, looking at Liora and Cee in turn. "Do tell me what's up with these critters, and why are they seemingly so obedient towards you?"
+
+"I'm not obedient!" Liora protested, finding the insinuation insulting.
+
+"We're just being polite. There's no need to brand us as obedient. It would be easy to do what we like," Cee added.
+
+Sallie gaped in shock. Mostly at Cee. A talking spider was always more surprising than a talking bird.
+
+"The spider talks… How?" Sallie asked. "They don't look like they are anywhere near a humanoid…"
+
+"Oh, you're going to love this. The guilty party is none other than Renir!" Morgana let out a dry laugh.
+
+Sallie's expression darkened. The woman had seemed amicable if a bit stern until then. Now she appeared annoyed.
+
+"Renir? Didn't he disappear and leave all his work up to us and his poor Elites," Sallie noted bitterly.
+
+Wow, she doesn't like you…
+
+I think the problem lies in the fact that she liked me a bit too much…
+
+What kind of backwards logic is that?
+
+"Liora, show her!" Morgana commanded.
+
+"No. Why should I? You look like you don't like Renir very much. I don't want anyone to hurt him," Liora said stubbornly.
+
+"That's a… very kind sentiment for a monster bird," Sallie noted, her expression softening a little.
+
+"You think that's kind? This bird has single-handedly cured every single fully-corrupt person in the clinic," Morgana announced proudly, as if she had been the one to do all the healing.
+
+"Yes! I sure did. It was hard work, mind you," Liora puffed out her feathers.
+
+"Hey, don't forget about me!" Cee protested.
+
+"Cee made the strongest webs to restrain the patients. That way, they couldn't hurt themselves anymore," Liora explained.
+
+Sallie looked awestruck. "A monster bird that can heal and a monster spider that willingly weaves webs to help people. Now that's certainly not something I expected to see upon my return. Morry, please tell me how to meet these fascinating creatures?"
+
+Morry?
+
+It's the nickname Sallie has given to Morgana.
+
+Morgana explained how she came to Abylport to deal with the corruption. She retold how she discovered Liora and Cee on board their ship, and how they all fought together to defeat the shapeshifter. Morgana didn't skip on the details about Liora being able to use holy magic.
+
+"A bird that can use holy magic. That's amazing! I couldn't thank you enough for what you've done," Sallie said with a genuine smile on her face. "But I am still confused as to how that came to be. And how is Renir involved in all this?"
+
+"I'll show you. But only if you promise not to harm him," Liora said.
+
+I doubt she would. She might hate me now, but Sallie would never hurt anyone. That goes against everything she stands for.
+
+It's worth asking at least.
+
+"It costs me nothing to say that no harm will come to you or whatever it is you're about to show me. I heal people, not hurt them," Sallie said firmly.
+
+"Very well," Liora said and withdrew Renir from her Inventory, holding him firmly in her beak.
+
+"Hello, Sallie," Renir said, his voice sounding a bit strained.
+
+Sallie blinked. There was a moment of tense silence.
+
+"D-Did the gem just talk?" Sallie asked, looking at Morgana for an explanation.
+
+"Sadly so," Morgana said.
+
+"Unfortunately, I have been trapped in this gemstone by the Order of the Night King. With Liora's and Cee's help, I've been trying to set myself free, but so far I've only managed to break 1 out of 9 seals placed upon me," Renir explained.
+
+Sallie crouched down, grabbing hold of her head with both hands. "Trapped inside a gemstone… This is the worst…"
+
+"You think you lot have it bad? Let me tell you, being a rock is NOT fun," Renir said.
+
+Sallie glared at Renir. "How did it even happen? What about your magic? Didn't you fight back?"
+
+"He was drunk…" Morgana said dryly.
+
+Both women gave Renir the most judgmental stare Liora had ever seen. Liora didn't feel sorry for the man. He kind of deserved it.
+
+"Why are you like this? I swear your purpose in life is to sow chaos…" Sallie sighed heavily.
+
+"Hey, hey! But Liora and Cee are doing a lot of hard work here. I've given them a system and helped them get stronger and evolve—"
+
+"That's not your accomplishment. That's theirs. I feel sorry for the critters. You two sweethearts must have gone through a lot of awful things for this man," Sallie said, gently patting Liora's feathers and Cee's carapace.
+
+"I had to leave my nest and the shinies I had collected there," Liora said sadly.
+
+"Oh, come on! You have more shinies than ever before!" Renir protested.
+
+"But it's not enough! And because of you, I have to slave away in the underground, trying to earn the Resonance Crystal from Morgana to break your seal," Liora whimpered.
+
+The calculating bird within Liora wondered whether this would yield the results she wanted. Perhaps she wouldn't even need to execute the theft. If she got the gist of Sallie's personality right.
+
+Sallie threw a suspicious glance at Morgana. "Resonance Crystal?"
+
+Morgana grew visibly nervous. "I just needed insurance that the beasties would stay and do their job properly…"
+
+"You manipulated them! For such an important matter, too. These two already have it hard slaving away for Renir to fix his dumb mistakes, and you make it even harder for them!" Sallie stood up, putting her hand on her hips. All of a sudden, the tiny woman looked much more threatening than able-bodied Morgana, who shrank back.
+
+"But Sallie… who would heal all the people?"
+
+"I'm sure they would have helped out anyway if you had asked nicely," Sallie chastised.
+
+"Yes, I would! I like helping people," Liora said.
+
+"Me too!" Cee agreed.
+
+"See! Give the Resonance Crystal to them this instant!" Sallie demanded.
+
+"But… But…"
+
+"Isn't it important to get Renir out of that gem as soon as possible? The Order of the Night King grows stronger by the day. We need everyone we can get on our side, which means getting Renir out!" Sallie said firmly.
+
+"I… Yes, Sallie…" Morgana said dejectedly and withdrew the Resonance Crystal from her Inventory.
+
+Before the woman could change her mind, Liora flew up and grabbed it, instantly stashing it into her Inventory.
+
+Great success! Didn't even have to resort to stealing.
+
+"Thank you, Sallie. You have no idea how much that—"
+
+"Save it, Renir. I'm doing it for the poor critters and the people stuck cleaning up your messes," Sallie replied coldly. "Liora, was it?"
+
+"Yes," Liora confirmed.
+
+"If you could get that annoying mage out of my face, I'd be so grateful. We still have some things to discuss," Sallie asked politely.
+
+"Of course," Liora nodded, withdrawing Renir back into her Inventory.
+
+"If they run away—" Morgana began.
+
+"It will be their right. They are free creatures, not your prisoners. And if Liora has indeed healed every fully corrupt person in the clinic, then I couldn't have even dreamed of more. Which brings me to the news I brought."
+
+"Do tell. What's up with that weird doctor?" Morgana asked.
+
+"He's bad!" Liora screeched.
+
+"Bad?" Cee looked confused at the sudden outburst.
+
+"Have you two beasties met him before?" Morgana asked.
+
+"I haven't," Cee said.
+
+"I have," Liora noted. "Cee and I weren't always together."
+
+"So why do you dislike him so much?" Sallie asked.
+
+"I can't exactly put it into words, because he's technically not done anything bad. While I was in Sunvale, I helped some people there and—"
+
+"Wait, you're the one who cured the corruption in Sunvale? Dr. Reius told me that it was a monster, but I never imagined that I would meet said monster," Sallie said.
+
+Morgana frowned. "I don't like this… This is suspicious. Liora cures Sunvale, where the weird doctor lives, and somehow ends up in this clinic. Did you look the same back then? To my understanding, monsters change appearance upon evolving."
+
+"I looked completely different," Liora confirmed. "And it looked like he recognized me."
+
+Sallie looked nervous. "He came with me under the pretense that he wanted to help out with my research on how to cure corruption. You think he came here for Liora? But how would he even know she's here? Even though I had no clue, and this is my clinic."

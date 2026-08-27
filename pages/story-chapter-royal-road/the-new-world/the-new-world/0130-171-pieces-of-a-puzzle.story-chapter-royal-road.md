@@ -1,0 +1,347 @@
+---
+id: 912ba24c-eb6f-56f1-b439-a20251568e02
+page-type-slug: story-chapter-royal-road
+title: "171 Pieces of a Puzzle"
+slug: 0130-171-pieces-of-a-puzzle
+partOf: the-new-world
+position: 130
+ownLength: 4120
+unit: words
+ownProgress: 4120
+publishedAt: 2018-12-26
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/318747/171-pieces-of-a-puzzle"
+royalRoadId: "318747"
+markedReadAt: "2026-06-29T21:36:07.210Z"
+---
+
+Inside the walls of the gialgathen's base, the metal was cleared out. Espens walked barefoot around to several sectors of the camp, their feet bleeding shards of metal. In the center of the field, a pit of sludge bubbled. Espens congregated around this muck.
+
+The beginning of a metal matrice appeared beside the pit. Saysha beetles swarmed its surface, expanding it. They feasted on fresh bodies, turning sinews and meat to metal and wires. An enormous pile of eggs squirmed beneath a cove of steel.
+
+The espens cultivated the insects. They collected the sludge, pouring it over the expanding egg sacks. The children and pregnant espen women sat near the eggs. Beside them, a pile of rotting corpses reeked. These espens cut open the bellies of the bodies and shoved eggs into them.
+
+They used make-shift knives made out of leftover metal splinters. The strongest, tallest espens then carried the corpses to a landing zone. This is where the Skyburners laid resting.
+
+I analyzed them. There were seven of them, six Skyburners hovering around level 9,000. One of them was level 11,000, some ancient general or the sort. They roasted the corpses of silvers, bite marks spread over the bodies. With their huge eyes, they stared down the slaves, making sure they kept working.
+
+As I looked closer, horrid details surfaced. Yana worms crawled through the skin and flesh of the espens. I glanced back at the pregnant espens. Their bellies shivered, holding something alive. I winced as several espens scooped up the disgusting slop at the center of camp with their bare hands.
+
+They drank it, feeding the worms inside them. They winced, holding their noses. Their own filth covered them, a stream of caked on mush running down their chests. Some of them were children. They'd never known a life outside of this hellish, dystopian place.
+
+It disturbed me of course, but I kept myself like stone. Acting on emotion wouldn't help these people. Acting on logic would. I posed questions to myself, trying to make sense of this mess.
+
+The slop was toxic. It should kill the espens, yet they lived and worked all day. Most silver's bodies were poisonous as well. The gialgathens here couldn't survive off just the carcasses. They were eating something else. What that was, I didn't want to even imagine.
+
+The more I thought about it, the more I wanted to run in and destroy them. I silenced those thoughts and crushed that urge. There were six Skyburners and a large, ancient gialgathen as well. It grew massive horns over its skin with armor chock-full of gemstones. That gialgathen would be a tough fight all on its own.
+
+Fighting them all at once ensured all the espens would die, and that's if I lived of course. I was strong, but there wasn't much point in risking death. I couldn't offer the espens medical support. I didn't have a safe means of transport either. I lacked too many resources.
+
+I bit my lip, a sense of helplessness running up my chest. I shook it off. A rescue operation wasn't my specialty. For Tohtella and Torix, however, they'd handle it like a walk in the park. They'd maneuver around all the intricacies, making sure each person was treated appropriately.
+
+With Althea's combat prowess on top of that, we had a good chance of success. Like the hammer of an Old One, we'd come crashing down on these frog-dragon fucks. If we executed well, we'd kill the gialgathens without the espens getting caught in the crossfire.
+
+More than the slaves, a gialgathen hostage was a must. Someone was organizing these camps across the continent. Figuring out who that piece of shit was took precedent.
+
+With that in mind, I recorded the camp using my obelisk. I marked the base's location on my mini-map as it got footage. After a few minutes, I jumped off the barrier's sheer face, flying away. Well, it was closer to falling away. That's how it felt to pull myself with the gravity wells.
+
+With that potent magic, I dashed across the wasteland, evading the thick clouds of silvers. After an hour passed, Yildrazian skyscraper's popped up on the horizon. Before going into the city, I cleaned my gray armor with my skin.
+
+That's how I thought of the black plates over me. I'd lived in the umbral shell for years now. It was a part of me like the scars on my face and hands. Unlike scars, the dark metal was more useful though. With its unending hunger, I cleared the dried blood of silvers all over me.
+
+As I removed the debris, I peered off in the distance. The morning sun was rising up. I hardly noticed the dusk before. My new perception let me see in the dark. It didn't mask my surroundings like it once had. I smiled, appreciating the greenery after being surrounded by the silvers all day and night.
+
+Once my armor was shining, I dashed into Yildraza. In minutes, I reached our hotel. I jogged through the entrance. As I did, the receptionist smiled at me, "Did you just get your power armor polished for today's big fight."
+
+I shook my head, "No. Killing silvers."
+
+She raised her eyebrows, "You're one busy guy."
+
+I walked into the elevator, the doors closing, "I try to be."
+
+After the elevator reached our floor, I jogged into our room. No one was awake yet outside of Torix. Without anyone else to discuss my findings with, I lifted myself up onto the next floor. After skipping the stairs, I knocked on his door.
+
+"Ah, yes, you may come in."
+
+I stepped into his room, more charts and diagrams covering the walls now. Torix fiddled with a gemstone, carving runes into the crystal surface. He set it down, walking up to me. I raised my hands, "I have some shit to show you."
+
+His fire eyes narrowed, "Before you begin your spill, allow me to have a word."
+
+I waved my hand, "Alright, but hurry."
+
+Torix raised a hand, locking his hands behind him, "I understand that disciples are meant to care for their masters. It's simply the nature of the relationship. In instances, an apostle can look towards their teacher as a father."
+
+He sighed, "And in these cases, it can only be expected that the disciple takes an interest in the personal lives of their teachers. Perhaps they may wish to nudge their masters in a different direction. Though as admirable as these attempts are, I assure you, Daniel-"
+
+I raised my hands, "What are you talking about?"
+
+He raised a hand, coughing into it, "Well, you've set me up with a woman of prestige. It appears to be a date of some sort. I'm letting you know that I appreciate the effort, but it's not necessary."
+
+I leaned back, "Wait...I think there's been a misunderstanding."
+
+He waved a hand, "Oh don't be coy. It's as I explained earlier."
+
+I shook my hands, "There's definitely been a misunderstanding."
+
+Torix went on, staring into the distance, "It has been quite some time since my last romantic relationship. Though I lack sensual pleasures, I do crave the company of the fairer sex."
+
+I cringed, "Look Torix. This isn't about that."
+
+Torix looked me in the eye, "It isn't?"
+
+I shook my head, "No. I mean, by all means, go for it. Seize the day and all that. I called her over here for something else altogether."
+
+Torix's hand lowered, his fiery eyes flaring a deep red, "Oh...."
+
+An awkward silence passed. I raised a hand, pushing through, "There's something I need to explain. I also need your help."
+
+Torix stood up straight, "Ah yes, I'm more than glad to assist you."
+
+Over the next fifteen minutes, I explained my findings. I told him the story from finding espen bodies on the way to Yildraza to the Gialgathen's base. Torix listened intently, his eyes returning to their usual navy blue. As I finished by showing him the footage, he murmured,
+
+"This is quite the conundrum."
+
+I nodded, "You're damn right about that. I called in Tohtella to help you with organizing a plan against these guys."
+
+Torix cupped his chin with a bony hand, "It seems as though you already formulated one that's acceptable. I'll iron out a few of the wrinkles, but it should fair rather well."
+
+I sighed, "Ah man, thank god. I was worried I did something stupid."
+
+Torix leaned back, "What? Why would you ever think that?"
+
+I looked at my hands, "I don't know. It just...I've fallen into traps before. Look at Baldag-Ruhl. Look at Yawm. I'm not the sharpest tool in the shed all the time."
+
+Torix stepped up, putting a hand on my shoulder, "Did you see my misunderstanding about the meeting with Tohtella?"
+
+I winced. Torix did too.
+
+"Yeah. It was awkward."
+
+He sighed, "It was. It was also my mistake. It just so happens I make more than my fair share of them. Everyone does, whether you can crush a mountain or create a singularity doesn't absolve you of that. You're doing your best, Daniel. Besides-"
+
+Torix waved a hand at the footage, "Following that, er, flesh whale as you call it. That was clever. Marking down footage, taking questions, even having the discipline to not rush in. In my eyes, that shows maturity and intelligence."
+
+He grabbed my shoulders, "When we first met, you'd have run in like a hot-headed fool. Now you weighed your options and chose one after deliberation. There's nothing to be ashamed of. You're doing well."
+
+I'm not gonna lie, I choked up a little. I kept it together, patting him on the shoulder, "Thanks, man. That...that helps."
+
+Torix lowered his hands, pushing up an imaginary set of glasses, "If anything, I'm the one that should feel useless here."
+
+I spread out my hands, "What? No."
+
+He raised a palm to me, "When we faced off against Yawm, I excelled. I controlled reconnaissance. I managed thousands of troops. I even helped enhance your strengths using conduits en masse."
+
+He clenched his hands to fists, "Now I manage my students, exploring Giess as if it were a vacation."
+
+I shrugged, "What's wrong with that?"
+
+Torix turned towards me, "Isn't it obvious?"
+
+I shook my head, "You like to teach. I don't get why it's considered bad to do what you like."
+
+"W-well there isn't any stakes behind my actions. I'm just...lulling my days away in comfort and content."
+
+I scoffed, "Yeah, that's kind of what everyone's trying to do."
+
+Torix sighed, "Regardless of how you put it, it doesn't change my reality. I'm piddling while you save worlds."
+
+I waved my hands back and forth, "No. That's not what's happening. I'm not saving worlds. I'm getting them out of shitty situations."
+
+I pointed at him,
+
+"You're the guy keeping those worlds from spiraling back out of control. The mages, warriors, and runic inscribers you're training, they're the ones clearing out dungeons now. Without them, Earth would just fall right back into chaos."
+
+I shook my hands, "So don't sell yourself short man. This isn't a one-man party. This is a team effort, alright? It kind of pisses me off hearing you talk like that honestly. If that's how you felt earlier, then I'm not selling myself short again either."
+
+Torix nodded, his eyes glowing green and sentimental,
+
+"I won't degrade myself again if you decide not to either. Deal?"
+
+I raised a fist, "Hell yeah it's a deal."
+
+A moment of comradery passed. Torix scoffed, "Look at us chatter away. There's work to do, and there's little time to do it."
+
+I snapped my fingers, "Ah, that reminds me. I need you to teach me some mental magic."
+
+Torix's eyes lit up, "Really now? You're quite tenacious as is. What makes you believe you need even more reinforcement?"
+
+I shook my head, "I went deep into silver territory. It was ugly. If fringe worlds are like that, I'm going to need a mind of steel. I figured mental magic would help with that."
+
+Torix nodded, "Indeed it would. I'm curious, however. Why are thinking of becoming a Fringe Walker all of a sudden? Did Schema finally convince you with a few choice rewards?"
+
+I shook my head, "No, it has nothing to do with him. It's more like...I realized that I'm pretty damn strong."
+
+Torix rolled his eyes, "Oh yes, of course you are."
+
+I looked him in the eye, "No, I mean it. My mana regen passed 20 million a minute the other day."
+
+Torix's knees wobbled. He took a step back, "What? How?"
+
+I shrugged, "It's a bunch of conversions from trees I've gained along with my armor bonuses. Either way,  the situation is what it is."
+
+I raised a hand, "What matters is what I do with it. I mean think about it. A lot of people's lives rest in my hands. It terrifies me, to be honest. I never thought I'd be the kind of person with these kinds of options, with this kind of reach."
+
+Torix crossed his arms, "I suppose It is quite the burden to bear."
+
+I nodded, "Yeah, and I'm trying to think about how I'll handle it. Schema's rewards or not, a Fringe Walker helps a lot of people. With my build, I could clear out a dozen worlds a year. Think of that. That's helping trillions of people. It's fucking crazy."
+
+Torix scoffed, "You sound pretty confident of that. You certain you could handle that kind of trial?"
+
+I shook my head, "Not like I am right now, but that's why I'm asking for the help. With time, I'll forge myself into something that'll strike fear in the eldritch. When I'm finished, they'll tell their children stories about the monster of monsters."
+
+I grinned, "After all, I'm the Harbinger of Cataclysm, right?"
+
+Torix rubbed his hands together, "Who just so happens to be my disciple. Come, let's get you started with a few practical exercises to develop a few skills. You've got this old man's  metaphorical blood boiling with excitement."
+
+With our pep talks finished, we got to work. He gave me three exercises for controlling my thoughts. The first involved meditation. I already owned the skill, and it fused into Hunter of Many. I figured developing it further wasn't necessary anymore. It would improve by using the mythical ability.
+
+The other two skills were different. The first one involved acceptance. The tactic worked like this. Eliminating all suffering was impossible. Shitty situations were going to happen. By preemptively preparing myself for difficulty, I strengthened my resolve to handle said difficulty.
+
+It was just like going into a fight expecting to take a few hits. When I did that, I didn't break down after taking a wallop. I'd know the strikes were coming so I would be ready. This skill applied the same concept but to life instead of fights. I summed it up with a saying; it wasn't about weathering the storm.
+
+It was about learning to laugh in the rain.
+
+This took a bit trying to get into the right state of mind. After an hour of doing so, I gained the skill I needed.
+
+New Skill Gained! Mental Preparation(lvl 1) - By readying yourself for harsh circumstances, you enhance your ability to withstand them. Increases mental resilience, tolerance, and improves judgment in stressful situations.
+
+It was one of those skills that I never thought about but knew existed. After I discovered the skill, I trained the next exercise. It involved the willingness to hurt others. The best way I could put is in terms of fighting.
+
+When I first started boxing, I didn't want to hurt my opponent. I wanted to win the fight, but I didn't want to break their face. After a few months, I learned that mentality was holding me back. Big surprise there.
+
+I won't say going into a fight with murder on my mind is exactly helpful. It's more about knowing when to go all out. Having the ability to shift gears like that without hesitation was invaluable in conflict. By gaining an awareness of it and honing the talent, I gave myself an edge in any battle.
+
+Once more, it took about an hour of practice, but I got a hold on the skill.
+
+New Skill! Mental Adaptability(lvl 1) - Others react slowly, unable to adjust to sudden changes. You hone your thoughts, giving your mind flexibility. Enhances the shifting of thoughts, especially in stressful situations
+
+As I reread my other skills, it gave me an idea of what Torix was going for. Meditation was about slowing my thoughts down. Mental Adaptability was about speeding my thoughts up. This let me adjust my mind for a given situation. Mental Adaptability allowed me to implement those skills faster.
+
+It was a solid trifecta for building off of. With those skills gained, I walked downstairs for something to eat. I was starving. I train Thermomancy with a piece of orichalcum in my hand as I did.
+
+Althea and Kessia were already up, both of them snacking on junk food. I waved a hand, "What's up guys, er, gals?"
+
+Althea stood up, a grin growing on her face. With her veil on, she ran over to me. I hugged her, picking her up off the ground and spinning her around. Kessiah rolled her eyes, "I just ate breakfast. Can you both at least try not to make me vomit?"
+
+I set Althea down, "Had a long night out?"
+
+Althea nodded, "Yeah, Torix let me know you were busy with something. We went out and enjoyed ourselves."
+
+I looked around, "Where's Caprika?"
+
+Kessiah shrugged, "She's off doing official imperial duties."
+
+I nodded, "Alright, cool. I'm also going to need a favor from you guys."
+
+Althea drank some kind of juice. She set the glass down, "Sure. What is it?"
+
+I explained the silvers and the Skyburners. Kessiah raised her hands as I finished, "Uh, yeah. You can count me out."
+
+I shrugged, "yeah, it's a bit much to ask. You still in Althea?"
+
+She smirked, "Of course."
+
+We chatted like that, enjoying our breakfast. Not long after, we heard knocking on the door to our hotel room. I pointed at Kessiah and Althea, "So, we're having this Speaker named Tohtella over. She's helping out with the mission."
+
+Kessiah stood up, "I'll go get my veil and shit on."
+
+She walked out while I opened the door. Tohtella walked in, wearing the exact business wear as before. With a clipboard in hand and an obelisk floating beside her, she raised her free hand to me,
+
+"It's good to see you again."
+
+I pointed into our room, "Come on in."
+
+As Tohtella looked around, she raised her eyebrows, "Hmm, it seems as though have quite a few resources at your disposal?"
+
+I shrugged, "Eh, sort of. Anyways, this is Althea. She's a very effective fighter, about as effective as I am."
+
+Tohtella walked up to Althea, looking her up and down, "You seem...less intimidating than Daniel. It's a welcome change."
+
+Althea scratched the side of her head, "Yeah, he kinda looks like he's ready to fight any second." Althea leaned back into her chair, "I like to take a more subtle approach."
+
+Tohtella nodded, "Noted. Where is the wizard you mentioned?"
+
+I flicked Torix's door with telekinesis. Torix shouted, "Who is it?"
+
+I shouted back, "The guest is here, the one I told you about."
+
+Torix walked out of his office. He stepped down the stairs. Tohtella walked up, "Are you the information specialist Daniel mentioned?"
+
+Torix reached the bottom of the stairs, his hood pitch black from magic,
+
+"Hmm, I suppose so. I'd rather think of myself as a wizard or warlock."
+
+Tohtella adjusted her glasses, "Mages deal in information, don't they?"
+
+Torix nodded, "They do, but they work within a precise niche of it."
+
+Tohtella nodded, "Then it's good to meet you..."
+
+Torix opened a hand to her, "You may call me Malthazar."
+
+Tohtella jotted notes on her clipboard, "Malthazar. Now, do you all know the manner of business we're working with?"
+
+Torix and I nodded. Althea wieghed her hand back and forth, "Er, sort of."
+
+Tohtella nodded, "Then I'll ensure that each of you is informed. Let me begin."
+
+Tohtella turned towards me, "May I use your obelisk?"
+
+I turned to our resident mage, "Should I let her?"
+
+Torix nodded, "Give her access to the files regarding the Skyburners and whatnot. Simple."
+
+I fiddled with my status menu. After a few minutes, I restricted Tohtella's access to the necessary info. I handed it off to Tohtella. She gave me a curt nod, "Thank you. Now-"
+
+She opened an image of a Skyburner,
+
+"I researched local legends and gathered first-hand accounts of gialgathens about these beasts. Their greatest strengths are threefold. Their jaw strength, their tipped tails, and their fiery breath. Avoid these three parts of them, and you avoid most of their toolset."
+
+I scoffed, "Yeah. I figured that all out the hard way."
+
+Tohtella pointed at me, "And you came out no worse for wear. We three, however, aren't allowed to learn the hard way, are we?"
+
+They shook there head. Tohtella adjusted her clipboard, "So then we avoid all contact with them. The plan of action against these monsters should involve a decoy. We will then pelt them from a range, preferably isolating them one by one."
+
+Tohtella raised a finger, "If we wait until they Skyburners leave their base, we may ambush them. After doing so twice, we may assault the rest before their guard is up. If this info is correct, then we could kill four of the seven gialgathens. This makes  the fight far more likely in our favor."
+
+Torix cupped his chin, "They have access to magic, don't they?"
+
+Tohtella glanced through the footage, "Yes, they will."
+
+She pointed at the old gialgathen, "This is one of the general of Emagrotha's old army, Gaikhag Monothos. He's adept in many ancient magics."
+
+Torix sighed, "Then they'll no doubt have some measure of protective incantations, correct? If we assume so, ambushing the first two will alert the others. If they escape, they may warn other camps like this. This will make further operations much more difficult."
+
+Torix stepped up to the image, "If we instead launch an ambush under the veil of night, I believe we can assist the espens with escape while finishing them all off."
+
+Tohtella's eyes narrowed, "The gialgathen's deaths take precedence."
+
+Torix raised a finger,
+
+"Of course. The issue is that the espens may have information as well. Destroying them in the crossfire won't do us any good. I suggest we allow Daniel and Althea to handle the battle. We can focus on getting the espens out of the situation."
+
+Tohtella leaned back, "Ahem, I understand that you're more than able to look after yourselves. Defeating seven gialgathens, Skyburners for that matter isn't feasible at your levels."
+
+Althea smirked, "Levels can be deceiving."
+
+Tohtella shook her head, "I can call in a strike force."
+
+They debated tactics as I cupped my chin, deep in thought. I killed the last Skyburner by smashing into it from above. That worked pretty damn well. If I escalated that tactic further, I could fall from higher up. If I accelerated myself enough, I'd land like a meteorite on the camp.
+
+My health regeneration and damage resistance would stop me from disintegrating during re-entry. Using my Invincible tree, I'd take at most 70% of my health from the landing. I could use the overkill damage to blow up another Skyburner. Hell, I might even be able to charge a singularity too.
+
+I raised my hands, interrupting the conversation, "Wait, I just got a great idea."
+
+I pointed at Althea, "You can slice off the head of the general by sneaking in with your camoflouge. We'll time it so that right after you do that, I'll slam into the camp from above."
+
+Tohtella shook her head, "That's a rudimentary, simplistic plan, don't you think? We can do better than that."
+
+Torix shook his head, "If there's one thing I learned from working with Daniel, it's that simple is often times best."
+
+I raised my hands,
+
+"Here's what will happen. I'll fly way up over the camp. I'll time my descent in conjunction with you guys. When I land in the camp, I'll be like a bomb. Hell, I might kill two or three Skyburners with the impact alone."
+
+Tohtella scoffed, "Would you mind informing me how you would survive atmospheric re-entry, the impact, or the horde of angry Skyburners right after?"
+
+I raised a fist, "I'm tough. Real tough."

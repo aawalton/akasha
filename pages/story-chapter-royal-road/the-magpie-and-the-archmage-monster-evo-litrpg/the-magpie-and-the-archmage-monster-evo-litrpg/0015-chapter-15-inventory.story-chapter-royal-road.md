@@ -1,0 +1,221 @@
+---
+id: 5eab3935-68dc-510d-b1b5-1bc93b675f28
+page-type-slug: story-chapter-royal-road
+title: "Chapter 15 – Inventory"
+slug: 0015-chapter-15-inventory
+partOf: the-magpie-and-the-archmage-monster-evo-litrpg
+position: 15
+ownLength: 2104
+unit: words
+publishedAt: 2025-08-30
+link: "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2559760/chapter-15-inventory"
+royalRoadId: "2559760"
+---
+
+I broke the System?
+
+Liora fluttered her wings in disbelief. She didn't know that it was possible to break the System.
+
+Or perhaps it is better to say that our unusual circumstances led to unusual results.
+
+Can you just explain what happened after I grabbed you outside the cave?
+
+Liora wished the gem were visible again, so she could peck it for its insolence. A second later, the gem materialized on the ground in front of her, just like the glimmerstones did.
+
+"Okay, this pretty much confirms my theory," Renir said. "Your desire to keep me to yourself and probably my desire to not get crushed into shiny dust by that gnoll resulted in you obtaining an Inventory."
+
+"An Inventory?" She cocked her head curiously.
+
+"Inventory is a dimensional pocket bound to you where you can store your stuff. It is similar to how your glimmerstones are stored, except in your Inventory you can put in whatever you want. Or should be able to, but it appears that you cannot."
+
+"Why not?"
+
+"Because monsters aren't supposed to possess an Inventory. It has never been recorded before. Only humanoid races can have one, and even then, it's limited to high-level individuals. Most likely, it was the fact that I had an Inventory that allowed you to unlock your own," Renir explained.
+
+"I'm not a monster!" She protested, flapping her wings angrily. This motion agitated her injured foot. Liora squawked in pain and settled down.
+
+"Don't get your feathers in a twist. Whether you like it or not, you are now classified as a monster, not an animal."
+
+"Not a monster…" she muttered.
+
+"Hey, don't get so dour now. Being a monster doesn't automatically make you evil. There are plenty of good monsters, too. Like that treant friend of yours."
+
+Liora nodded at that. She could accept being compared to the old treant. It was an honorable creature. But the fact that she was in the same category as those nasty hyenas still left a bad taste in her beak.
+
+"Back to business, with our combined desire, we managed to get you an Inventory, however, it is not functioning as it should. I suspect that the only thing you can store in it is me."
+
+"Only you?" She questioned.
+
+"Why don't you test it? Take a pebble or feather or whatever and try to put it in your Inventory."
+
+Liora looked around and found one of her own fallen feathers. She grabbed it with her beak and tried to "store" it within herself as she did with glimmerstones. Nothing.
+
+"Not working," she said.
+
+"As I suspected. Now try to store me."
+
+Liora did that. The gem instantly disappeared, and Renir's voice appeared inside her head again.
+
+Not going to lie, I prefer this over the satchel. I mean, your vision is amazing! I never knew so many colors existed. You can even see ultraviolet light. I'm so jealous!
+
+I get how you are in my Inventory, but why can you speak inside my head? And see what I see?
+
+I believe this is the second way we broke the System. You're not supposed to be able to put live creatures inside the Inventory. But technically speaking, I currently classify a rock. As you are aware, rocks are considered inanimate.
+
+Your yapping broke the System.
+
+I believe it's your greed that broke the System.
+
+Whatever. In the end, isn't this the perfect result? You get stored away safely from any would-be thieves and still see the world. With my superior vision, nonetheless!
+
+Theoretically, yes, but we're charting unknown territory here. We don't know what could happen in the future. After all, your profile displays your Inventory trait as [Locked].
+
+So what do we do?
+
+Uh… Pray for the best?
+
+Liora pushed Renir out of her Inventory and gave him an angry peck.
+
+"Ow, ow! I'm not omnipotent, you know! I may be the Pillar of Lost Magic, but even I don't know everything about the System. It was created long before my time. I've merely dipped my toes in its inner workings, so to speak."
+
+Liora began to wonder whether this gem was really worth all the trouble she had gone through. Perhaps her life would be easier if she just threw this guy in some mud pile and moved on with her life.
+
+But looking at how beautifully the gem shimmered even in this poor lighting quickly changed Liora's mind. She did like how he shone. There was nothing more beautiful than it in this world.
+
+"I'll rest now," she said tiredly, scuttling the gem closer to herself.
+
+"Sure, go ahead. Why don't you put me in your Inventory while you sleep?"
+
+"Your voice loud…" She muttered and went promptly to sleep.
+
+"I'm still glad to be reunited with you, little thief," Renir said, right before she fell asleep.
+
+When Liora woke up, it was dark outside. She had no clue how long she had slept, but she felt much better now. Her leg felt just a little sensitive, but otherwise she was in top form.
+
+Status.
+
+[Status]
+
+Health: Scraped
+
+Mana: Surging
+
+"Good morning, Liora! Or should I say good night?" Renir chimed the moment she moved.
+
+"How long did I sleep?"
+
+"Hard to say. I think it was a full day and then some. It was incredibly boring, you know. Well, that spider was kind of entertaining, but otherwise I was dying of boredom."
+
+Excuse me from getting injured to save your rocky ass!
+
+"There, there, don't get mad. You're awake now and almost fully healed to boot. I think it's safe to go out, get some food, and go back to training!" He said.
+
+Liora pulled him into her Inventory to properly express her frustration. She still couldn't mimic human speech well enough yet.
+
+I am not going back into those mountains. I'm flying far away from here!
+
+Wow, hold up a minute! We need you to get even stronger. Nine more levels and you'll unlock another evolution.
+
+I almost died back there, you know! I don't want to take any more risks. I'm sorry about you being stuck in a rock, but I'm not putting my life at risk any more than I have.
+
+Liora, no! Don't be like that! Remember the treasure I promised?
+
+But that's after I free you. I don't even know if I can. I'm just a magpie.
+
+No, no, no. You're not just a magpie. You're the best magpie out there. Strongest, fastest, smartest. There's no other magpie like you!
+
+Liora wanted to say that the flattery wasn't working on her. But it was. She found herself humming in approval.
+
+Listen, I know you want some tangible gain for yourself, right? What if I told you there might be treasure in those mountains?
+
+Treasure? Why didn't you tell me before?
+
+Because treasure is usually guarded by a strong monster. You'd have to deal with it first. But if you get strong enough, you might be able to do it.
+
+I don't want to fight anymore monsters.
+
+Hey, don't give up so quickly. The gnoll incident happened due to bad circumstances. If you choose your opponents carefully and level up, then it shouldn't be an issue. Remember that I am here too, ready to teach you. We can figure out another wind magic spell for you to learn.
+
+Liora thought about it. He was right to say that the gnoll was an outlier. If Renir didn't get swallowed by that hyena, it never would have happened. She'd never fight such a strong opponent if given the choice.
+
+Think of all the glimmerstones you'll gain. You've already gained over 1% boost from Glimmerlust, right? The more of them you have, the stronger you'll be.
+
+She sighed. Renir was making good points; she couldn't deny that. She wanted that treasure and the glimmerstones. And somewhere very deep within her, there was a tiny voice that wanted to help Renir out of his predicament. That voice was promptly silenced and shoved deep into the abyss. Stupid voice. Only treasure matters.
+
+Very well. But you have to teach me some new magic first.
+
+Yes, that is my intention, but…
+
+Don't you try to weasel your way out of this! You have to pull some weight here, too.
+
+No, no! I don't mind teaching you at all. Heck, I'd teach you how to make hurricanes strong enough to destroy this whole planet—
+
+That is overkill!
+
+—but your mana is… How to put this nicely? Utterly pathetic.
+
+Rude! I'm the only magpie that can do magic in the first place.
+
+Yes! Of course you are. But strong magic requires a lot of mana.
+
+Okay, how do I get more?
+
+Renir laughed within her mind as if she had just told a funny joke.
+
+What?!
+
+You can't. You're a monster. Your natural aptitude will increase as you cast more spells, but you'll never be able to compare to a human mage. Our bodies are perfectly suited for controlling and storing mana.
+
+Liora puffed up her feathers angrily.
+
+Fine then! Stay a rock forever. I'm going to get something to eat.
+
+No, wait! Liora! I'm sorry!
+
+She was tempted to leave the gem in the watchtower just to teach him a lesson. But that would be too dangerous. So instead, she just ignored his desperate wails and flew to Christie's house.
+
+Liora would have preferred to eat the seed-grain mix that Dr. Reius gave her before, but he was already suspicious of her. The hour was late, however, not all houses in Sunvale were dark. It just so happened that the lights were on in Christie's house.
+
+Liora sat down on the windowsill of the lit room and gently tapped the glass. Christie and her mother, who had been huddled together in a chair over a book, were startled at first. But when they saw that it was their favorite magpie, their faces lit up.
+
+"Mommy, look! It's Miss Magpie," Christie said and ran outside to greet Liora.
+
+"Chak-chak-chak!" Liora greeted the girl back, landing on her shoulder.
+
+"You're not scared of us at all now," the mother said, reaching down and petting the feathers on her head. "Curious little thing. Dr. Reius said you might appear in town again. He's left some food for you, you know."
+
+That guy is sharp.
+
+I still don't think he means any harm. He might smell weird, but he gives me good food.
+
+You're so easy to bribe.
+
+I don't want to hear that from you.
+
+Christie and her mother brought her inside, where she was generously fed. Liora felt a bit bad as the small family didn't have much to eat themselves. The inside of their house was rather shabby, although it was kept spotlessly clean. Lioras didn't see much food lying around either.
+
+"Miss Magpie must really be a good omen, just like Dr. Reius said. Ever since she showed up, good things have been happening in Sunvale," Christie said while gently patting Liora.
+
+"She really must be. It's been a while since the town has felt so lively. Last night we didn't lose a single animal to the hyenas," the mother said.
+
+"Did you know Miss Magpie? There have been fewer monsters in the nearby forests, too. At this rate, nobody will ever get hurt when going out for firewood!" the girl cheered.
+
+Oh… That might be my fault… I went to a hyena hunting spree yesterday.
+
+That's not a bad thing. These people would treat you as a god if they knew you were the one responsible.
+
+Oh, would they bring me treasure?
+
+You're going to try to extort money out of these poor people?
+
+No! Of course not.
+
+Although if they did happen to bring her a few shiny coins, Liora certainly wouldn't reject them. She had done a good deed, so was it so wrong to want a bit of a reward for it? But for the time being, Liora was content to get free food.
+
+"Let's not jump ahead of ourselves. There is still plenty of danger out there. We have to be very careful," the woman warned sternly, but smiled after a moment. "But it would be nice if this kept up for a longer time."
+
+"Dad might even come back if more monsters disappeared!"
+
+Mother's expression grew dark, although she did her best to keep smiling. Liora didn't need an explanation—Christie's father wouldn't return, no matter how many monsters were killed.
+
+Screw it! I've made up my mind. Those rude bastards need a bit of a lesson in humility. I'll go teach those monsters what happens when you bully the weak.

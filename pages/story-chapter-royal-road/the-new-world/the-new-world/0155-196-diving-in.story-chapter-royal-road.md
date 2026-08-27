@@ -1,0 +1,317 @@
+---
+id: f9f0faa1-8232-5175-b966-0dfe00047a9f
+page-type-slug: story-chapter-royal-road
+title: "196 Diving In"
+slug: 0155-196-diving-in
+partOf: the-new-world
+position: 155
+ownLength: 3865
+unit: words
+ownProgress: 3865
+publishedAt: 2019-03-26
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/346986/196-diving-in"
+royalRoadId: "346986"
+markedReadAt: "2026-06-29T21:26:08.131Z"
+---
+
+"You offered me a deal, so I decided to accept," Chrona stated.
+
+"Hmm...I don't know. It's just I didn't expect you to be willing to teach me something so powerful."
+
+"Many have tried learning from me. Few have succeeded in any capacity. Offering my magic to you doesn't mean you'll fully attain its potential. The same could be said for the secrets of your own techniques. Even then, you've used your own combat potential responsibly."
+
+That made sense to me.
+
+"Alright, so where do we start?"
+
+"With comprehension. Most can't grasp the fabric of our dimension and sense it. That alone is a harsh first step."
+
+"Got that in spades."
+
+Chrona leaned back, "Perhaps you're further along than I expected. Still, there's much more to establish. You must learn to mold mana into a specific location."
+
+"Got that too."
+
+"What of mana saturation? Can you do that?"
+
+"What is it exactly?"
+
+"It's to oversaturate your body or area with mana. Very strenuous, but required if you are to manipulate your own timeline."
+
+"I can do that, but I don't get how this ties together exactly."
+
+She sighed, "Perhaps we should discuss this in the entrance. There will be more room to practice there."
+
+Going back to the room stuffed with ice sculptures, Chrona stood at the center of the room. She pointed her tail to a particular spot, which I walked toward.
+
+"First, sense the dimensional fabric around you."
+
+I did so, noting the subtle fluctuations from Chrona's own gravitational pull. It gave me a rough outline of the area, allowing me to discern movement. It was much harder than merely using temperature differences along with wind currents though. Those sensations gave me more to work with since a person's gravitational pull was pretty small.
+
+Wrinkles ebbed on the gravitational net, Chrona gathering mana from her surroundings. She wheezed, "Gah, I despise drawing mana from my own reserves. It's exhausting."
+
+After a few moments, a tiny blue sphere of mana popped into existence.
+
+"This is mana given a physical form. Can you create a ball of mana such as this?"
+
+I raised an eyebrow, "Why are you moving it outside of your body?"
+
+"It makes manipulating the dimensional fabric aside from my own much simpler."
+
+Listening to her, I lifted a hand. I redirected my mana flow to my palm from my cipher runes. A river of red mana flooded from my arm, coalescing into a crimson ball. It dwarfed Chrona's own sphere, and it left her taking a few steps back.
+
+"Your mana is...volatile, isn't it? I understand where your fury in battle comes from. It's your spirit."
+
+"Don't worry. I've got it under control."
+
+"Then your mind is like Emagrotha's. She preferred using her own personal reserves of mana as you do. She believed it strengthened her spirit."
+
+I crossed my arms, leaving my mana sphere floating in front of me, "Why don't you do the same?"
+
+"My...my magic is too demanding," Chrona murmured while looking away. "Perhaps one day I will be able to. Today is not that day, however."
+
+I shrugged, "Eh, keep working at it. You'll get there."
+
+"Easy for a genius to say," she said with a glare.
+
+I rolled my eyes, "It's even easier to make excuses."
+
+She held her sneer before letting out a deep sigh,
+
+"You and Emagrotha would've made good friends. You echo her ideology with your own. You're far more direct and harsh, however. She was more eloquent."
+
+"Yeah, that's never been my strong point. I can usually fire people up in a speech though."
+
+She tilted her head, "I would liken my own magic to a speech in nature. It's as if I'm convincing time to alter itself. There's very little force involved. It's more so an act of persuasion. Perhaps that was why Emagrotha could never use my magic. She went through any obstacle, headstrong and unstoppable."
+
+"She sounds cool and all, but I need to learn this."
+
+She waved a clawed hand, "Ah yes, of course. Now we move onto field manipulation."
+
+From her sphere, a ripple ushered out. As it passed us, a familiar but odd sensation passed over me. Chrona slowed time yet again.
+
+"Did you catch what I did?"
+
+"I noticed the change. I don't know how you did it."
+
+She flicked her tail up to the blue sphere, "I created a field of mana around us, then I altered the density of the dimensional fabric around us. I imagine it as such. Space and time are one. If you lessen one, you lessen the other. Therefore, the less space around us, the less time as well. This makes time move slowly."
+
+I frowned, "Shit...That's crazy. Do you guys know about E=mc2?"
+
+"No."
+
+"It's this idea by this smart guy called Einstien. He's a, uh, famous scientist. He made that equation, and it just means that energy equals mass. It had a lot of implications back in the day, one of them being that space and time are the same."
+
+I cupped my chin, "Well, there's a lot more to it, but I'm not that knowledgeable about the topic, to be honest. Point is, you're describing his idea for the most part without knowing it. I was surprised."
+
+"This Einstein sounds like a fearsome dimensional mage. His understanding of the inner workings of it dwarfs my own if what you say is true."
+
+In a way, what he did was magic. It led to bombs far more massive than could be believed, so I guessed magician was a pretty fitting title for the guy.
+
+"Er, Einstein wielded a different kind of magic. It was nuclear in nature."
+
+Her eyes narrowed while she raised her brow, "What is nuclear?"
+
+"Basically what fuels stars."
+
+"Fascinating. He wielded the power of dimensions and the stars above. A star mage! Incredible. He outmatches even Lehesion in power and might then."
+
+Eh, nuclear bombs were a powerful thing.
+
+"Yeah...he did. Well, he built on the magic of those before him, just like those that came after. He was pivotal in the development of the ideas though. With enough practice, a group of people could even recreate his magic."
+
+"What? That's chills the blood to hear," her eyes widened. "Too much power in the hands of many is the end of all."
+
+The Cold War was pretty bad.
+
+"Yeah, he opened Pandora's Box in a way."
+
+"The Box of Pandora?"
+
+"You know what, we'll talk about it later."
+
+Chrona leaned towards me, "To think you've such a vibrant history throughout the galaxy. Our forefathers told stories through tall tales. We passed the knowledge down by speaking with one another. Where did you come across such vibrant tales?"
+
+"People wrote all this down in large books. That's a big reason why Einstein was successful actually. He used the knowledge of those before him, building on it. Otherwise it would've been impossible."
+
+Chrona waved her tail, "All discoveries mirror this trait. Imagine a pathetic worm attempting to dismantle his achievements. 'His knowledge was not utterly unique.' Neither is the language we share, yet we do not ascribe our achievements to those that made words." She shook her head,
+
+"It sounds as though Einstein unveiled secrets of the universe. What more does it take to be impressed? He's like the ancients that guided us from the sea. They turned our fins into wings, and thus, we ascended. That is what we are told in our stories."
+
+She was probably describing evolution. Considering how long gialgathens live, it must have been a slow process. The fact their oral stories shifted from the truth a bit was to be expected. Fascinating as it all was, we had a job to do.
+
+Interrupting our discussion, I created a gravity well in front of me, creating a dip in the space around us, "Is this similar to what you're doing?"
+
+Chrona leaned back and furrowed her brows, "It's...quite different. You're simply pulling on the fabric around us. I'm actually manipulating its density. It's quite strange that you're able to press into space with such extreme force actually. Perhaps your immunity to our time is what enables you to perform such feats?"
+
+I shook my head, "My teacher could do the same."
+
+"But not to this extent, surely?"
+
+"Well, no," I frowned. "My mana and weight are much higher than his though."
+
+"What does your own weight have to do with it?"
+
+"The more I weight, the stronger my gravity wells become. This is because I can create a pulling force that matches my mass. It saves me a lot of mana in the long run."
+
+Chrona sat down, on all fours, kind of like a cat, "That isn't how my magic works in the slightest. All my manipulation requires my own intervention. It may be due to the difference in our techniques, however."
+
+I always assumed everyone had the same parameters around their magic, but from what Chrona said, it didn't look like it. Maybe being a Living Dimension had more effects on my abilities than I first realized. Either way, I needed to duplicate the field she was making before I attempted anything else.
+
+"Well, my magic involves gripping the space around you and tugging on it. I can do the opposite too, shoving it out of a point as well."
+
+Chrona scoffed, "What? You grab a single point instead of designating a space? Madness."
+
+I whispered, "No...Sparta."
+
+"What was that?"
+
+"Oh, nothing. Anyways, I think your best way of learning my technique would be trying to hone into a single point, focus on it for a while, then convert your mana into that tugging I mentioned earlier."
+
+Chrona adjusted her feet, "Strange way of thinking about it, but I shall try."
+
+With that in mind, we practiced what the other said. I wielded the ball of mana and tried permeating it through the air. It dispersed like water, drowning the entire area in a red mist. Chrona crawled backward, sitting down and watching me,
+
+"That's good that you have that level of intricacy with your mana. You're not dispersing it through the dimensional fabric, however."
+
+I gave her a curt not, "Yeah, this might take a while."
+
+"Worry not. It shall take me a while as well."
+
+After a few hours of attempting, Chrona exhausted herself. I kept at it though, trying to mesh my mana with what was around me. I attempted variations of what she said like shoving my mana into rock or ice. That was simple and easy. Interacting with the fabric of our dimension with the same mechanics, well, that was something else entirely.
+
+Every time I tried brute forcing my way through the process, I met a wall of resistance. If I pushed harder, that repelling force grew with my attempts. After a while, I figured something out - it didn't come naturally to me at all. It was like bleeding into a pool of water then trying to use the water in magic.
+
+No matter how much I bled, the water just diluted it into nothingness.
+
+For Chrona, it was the opposite. She said she was the water but in a vast ocean. For her, she struggled to distinguish herself from the water at all. She couldn't progress any even after I read some magical textbooks to her on the topic.
+
+After she rested up, we tried a new approach.
+
+"Ok, I think I know where the problem is."
+
+The gialgathen scratched her side with the tip of her tail, "And what might that be?"
+
+"Gialgathens draw mana from their surroundings for the most part," I pointed at her. "That means it's easy to think of yourself as a part of the space around you. That is what's stopping you from being able to tell the difference between the dimensional fabric and yourself."
+
+"There is no difference. We are all apart of it."
+
+I weighed my hand back and forth, "Point is, you have to divorce yourself from everything around you. Impose your will on it. Don't let it impose its will on you."
+
+She lifted her head, "Ahhh. You'll need to do the opposite then. Allow yourself to be swept away. Become a part of your surroundings, then you may change the fabric itself."
+
+I shivered, "I don't know if I can do that. Sounds real...I don't know, suicidal?"
+
+"It's embracing that we are one with the universe. How is that suicidal?" she said with her brow raised.
+
+"I'll explain later. For now, just trust me on that."
+
+"If you say it is so."
+
+I understood my apprehension already. I was a dimension, and my mana was my health. Letting myself be 'swept away' would be equivalent to draining all my blood into someone else's body. After all, I was a microscopic universe compared to the one I inhabited. If I was going to gain some ground, I needed a different approach.
+
+At that point, I decided to go back home and master the magic on my own time. Before I did, Chrona shouted at me, "Are you leaving?"
+
+"Yup."
+
+"Before you go, we should schedule more of these sessions."
+
+"What for?" I said while crossing my arms.
+
+"I enjoy the company for one, and your musings about mana are interesting. They're foreign from my own, and I find that fascinating."
+
+I raised an eyebrow, "Huh...I considered my thoughts on magic to be pretty dry stuff. We can do this again though if you like. No skin off my back."
+
+"Then until we meet again...which would be?"
+
+"Tomorrow at 12:00."
+
+"Where will the sun be then?"
+
+"Uh, I'll see you in the middle of the day in other words."
+
+"Good. I'll be oversleeping to tend to my wounds and exhaustion. Your training is demanding. Farewell."
+
+She went towards her room further in the crystalline cave. I turned and flew off. I ended up coming back the next day after working on my cipher. I tried helping out Torix with the coordinates, but he needed to teach me some calculus and trigonometry. I didn't know anything about those subjects.
+
+Not saying I'm dumb, but I technically dropped out of high school in the 10th grade. That was when Schema's system came around for me. Teaching me those subjects would take more time than we would save. My pursuits were more useful elsewhere for now, though getting some concrete knowledge on gravity might help me out later.
+
+All that to say teaching me was more trouble then simply solving the problem himself. Althea was the same in that regard. She skulked around various cities, traveling around Giess. I wanted to help her gather info, but everyone knew who I was.
+
+Even if I wore a different suit of power armor, my height would give me away. Of course, I could've used my Mass Manipulation skill to change my size then buy another set of armor, but Althea told me not to bother. Even if I did all that, she said I wasn't subtle enough to gather details.
+
+I had to agree with her.
+
+With nothing else to do, I dived into my cipher work and my attempts at time manipulation. The cipher work was a steady grind, giving gradual but good results over time. On the other hand, Chrona's approach to time manipulation confounded me.
+
+Despite some frustration, I stuck with it, my stubbornness seeing me through. It didn't take long to realize that Chrona's method of accomplishing the skill wouldn't work for me. With a direct route cut off, I came up with a different approach. I attempted developing new unique skills to fill in the gaps of my understanding.
+
+After my third meeting with Chrona, I sat in the forest clearing above our base to practice once more. I permeated my mana through my surroundings, pressing it onto everything around me. This exercise stemmed from a line of thought.
+
+Becoming one with this dimension wasn't going to pan out, so I changed my approach. I imposed my will onto my surroundings, using my mana as a catalyst for change. The more forceful approach suited me better too, synergizing with my personality.
+
+In spite of this directness, my plan required some measure of finesse. To get a response out of the life around me, understanding their baseline emotions were vital. Otherwise, I had no fine tuning with my mana field attempts.
+
+I would just shove mana into a creature, making it go berserk and kill itself in a fit of rage. While not a useless skill per se, some finesse would go a long way. This meant I leveled my Empathy skill quite a bit by understanding lizards, rodents, and even the plants around me. Once I got a solid grip on shoving mana into creatures, I did the same but through a field of mana around me.
+
+After an hour of testing, I gained a unique skill for my efforts. It was a strange one.
+
+Unique skill gained! By fusing Mana Press, Mana Saturation, Blood Magic Manipulation, Empathy, and Challenger into a single skill, Imposer of Will was created! Half of the unearned treepoints rewarded for unique skill creation: 123!
+
+Imposer of Will(lvl 1) - Many find that they are controlled by those around them. You choose to control rather than be controlled. Allows the creation of a mana field that influences those around you. -1% to mana cost for maintaining the field. +1% to the field's effect on those around you.
+
+The skill wasn't as apparent as most skills, so I went into my skill menu, looking for a more in-depth explanation. I found one.
+
+Imposer of Will - An advanced mana field manipulation skill.
+
+Effects: Creates a field around the user that can be used to sway others depending on the mana fed into the effect. Dominion mana enhances self-interest and desire for influence. Augmentation mana improves motivation and confidence. Origin mana enhances creativity and the desire to build. Blends of mana can create different kinds of impacts. EG, augmentation and origin mana create a sense of mania, where those around you spur into action to generate anything.
+
+Warnings: Careful application of this skill can result in far better outcomes than otherwise expected. Be careful and tactical with its implementation. Note, those with a solid sense of mana will know you're creating a field of mana, and can resist its impact. Otherwise, the mood shift will be associated with you as a measure of your aura or overall impression on people.
+
+You can also create an aura of influence in a location and keep it after leaving the place. This allows for the creation of many fields of varying influence. This requires plenty of mana and high proficiency with the skill, however.
+
+It was similar to my other skill, Overwhelming Presence, though with a few key differences. For one, Imposer of Will relied on mana and was magical in nature. Overwhelming Presence relied on my charisma skills, preventing the skill from truly shining in my hands. I was a better magician than a politician, so this skill looked more useful for persuading people overall. It was a substantial first step towards making a dimensional field.
+
+Well, probably.
+
+Over the next ten days, I honed my prowess of the skill. I manipulated multiple fields at once, tried out different densities of mana, and tried out different kinds of influence. All my experiments shared one trait - everything went insane when in the field.
+
+It reminded me of when Althea was exposed to my mana. Creating a light enough aura required tremendous control, and if I overdid it, the animals in the aura died outright. Even if it was just small animals dying, it left a bad taste in my mouth. It was a necessary sacrifice though if it let me prevent all of Giess from getting glassed.
+
+The entire time I trained that skill, I trained Hunter of Many and Force of Nature as well. After a week of practice days, I gained another rank in my Originator tree.
+
+Most tread the well-worn paths that others left behind. These walkways are straight, narrow, and simple. You choose to be different. You head into the unknown, your path unmarked.
+
+Originator(Tier 2) unlocked! The bonus towards creating new skills is doubled for unique and mythical level skills. Newly created skills form at level five instead of level one. Skills still level as if on level one. This means you avoid the sticking point from level 96-100, allowing you to max out skills slightly faster. This applies to mythical skills as well, but from lvl 996-1,000.
+
+The perk tree was turning into a jack of all trades kind of enhancer. It allowed me to diversify my interests without losing a ton of efficiency in the long run. Considering my current goals, it was pretty useful. With its skill formation enhanced, I grew some more ambition for my objective.
+
+I created an outline of similar unique skills. Three stood out in particular: Overwhelming Presence, Imposer of Will, and Words of Strength. All of the skills were about beguiling people to do what I wanted. They all achieved that goal using different methods, sure, but performing all the powers at once would enhance their effects.
+
+So I dug into the trenches of study, practicing the magic anytime I could. I got Torix to help me practice, being a guinea pig of sorts. He strengthened his mental defenses while I enhanced my own manipulation skills. It was a win-win for both of us.
+
+I continued this line of thought over the next few days. I finished a third of my mega cipher inscription since the fight during this time. Still, I was getting anxious. We were approaching a month into our deadline of sixty days. If I was to continue this kind of study, I needed some serious results.
+
+Fortunately, serious results arrived in spades. Torix and I were having one of our mental resistance training sessions. As we battled one another, something clicked as I used all my skills in conjunction. My aura, voice, and mana field turned into an overbearing pressure.
+
+Even Torix, with all his experience, wilted under its harsh pressure. The lich cupped his chin,
+
+"You know, perhaps the sky is in fact yellow. I'd never deigned to consider it, but now that you've mentioned it..."
+
+I pulled back the aura, giving Torix back full control of himself. As I did, he slapped his hands together,
+
+"By Baldowah, I fell for that ridiculous claim. Some master of the mental arts I've proven myself to be..."
+
+He was wrong about that. I'd been using all my skills and gushing to him for hours on end.
+
+"Anyone would lose some mental acuity by now. Maybe I could get you in interrogation, but I doubt anything else would work. Besides, I just got a notification for a new skill."
+
+"Perhaps you could show it to me," Torix sighed. "It would make me feel better about my loss."
+
+"It probably will. It's mythical most likely."
+
+I opened my menu, showing him the skill while seeing it for the first time.
+
+I blinked, "Woah."
+
+Torix nodded, "Woah indeed."

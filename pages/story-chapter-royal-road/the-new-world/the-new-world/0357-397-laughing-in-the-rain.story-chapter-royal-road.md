@@ -1,0 +1,569 @@
+---
+id: 9ea7478d-5cd7-5fd5-9971-4e5e4b25958f
+page-type-slug: story-chapter-royal-road
+title: "397 Laughing in the Rain"
+slug: 0357-397-laughing-in-the-rain
+partOf: the-new-world
+position: 357
+ownLength: 5749
+unit: words
+ownProgress: 5749
+publishedAt: 2025-03-16
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2129158/397-laughing-in-the-rain"
+royalRoadId: "2129158"
+markedReadAt: "2026-06-29T21:33:31.958Z"
+---
+
+I blinked, and everything returned to normal in an instant. My hands trembled, my guild's destruction leaving me hollowed out inside. Taking a deep breath, I sent another message to Shalahora. The shadow oozed from the ground, his eyes as clear as cyan glass.
+
+He murmured.
+
+"You wish to tread into the gloom once more?"
+
+My eyes hardened as I nodded.
+
+"Until it's no longer dark.
+
+Chapter Begin
+
+Death. Rebirth. Death again, a cycle that existed in a cycle. I experienced that cycle, and I forged myself into a different creature from it. In many ways, it was a living hell as my mind fell apart like flesh peeling from bone. In other ways, I learned who I was from the effort. It reminded me of what I was willing to do if need be, and that gave me a wounded but steadfast confidence.
+
+Shalahora whispered through my mind.
+
+"How close are you to a psionic death?"
+
+I spit out my words, my mouth drooling.
+
+"I'm...I'm 70% the way there."
+
+Shalahora's silence left me scrambling. I revised.
+
+"60%?"
+
+"No. You're only at half your abilities."
+
+A dozen of my minds died each second, my psyche a pulverized vase trying to hold water. As stress and strain poured through the cracks, Shalahora took those shards and stomped them.
+
+"You need to understand where your limits lie, Harbinger."
+
+I trembled on the ground.
+
+"I'm doing what I can."
+
+"It is in your name. Harbinger. One who omens. The progenitor. The precursor. The pathfinder. Your birth brings forth a cataclysm. You must be ready for what you usher. Tell me, is half your mind enough to face a god?"
+
+I remembered being obliterated by Eonoth.
+
+"No."
+
+Shalahora's form rippled in the wind.
+
+"You whisper your words as I do."
+
+I slammed a fist into the ground, the hill quaking.
+
+"I said no."
+
+"As long as you are aware. Now, again."
+
+Before he culled more of my minds, I gawked at my hand. The fist slam was an instinct rather than a conscious action. Cutting my thoughts short, seven of my psyches died at once. Shalahora simmered.
+
+"You recoil from so little. We will fix that."
+
+The night dragged on, becoming a kind of purgatory. Unable to think of any cohesive thoughts, I scrambled forward off of instinct alone, my body learning to adjust. I gained a kind of momentum in my actions. I was able to move or stand even if my soul shattered under Shalahora's onslaught.
+
+It was the same instinct that pulled your hand back whenever you touched a hot iron. It didn't require a mind or thought. The body understood, and it acted. I gained something like that but dispersed across many actions. Standing. Mana manipulation. I could do that and more as the hours passed.
+
+It gave me agency in a hopeless situation, something that could save my life if I ever fought someone like Valgus again. Even as I bolstered my determination, time stretched out in front of me. Every second elongated into eternity like each hour was the passing of an epoch in my head. Having so many minds endure such an undertaking made time seem even longer than normal.
+
+My temporal compression added to that fact, but it was desperately needed. It was one of the few tools I used to close the gap between Shalahora and me. And the chasm stretched out like a sempiternal gorge. It reached out to the limits of my comprehension, a conceptual barrier I could not cross.
+
+Still, I found hints of progress.
+
+My deaths no longer occurred without my awareness. I felt the demise coming, letting me hand off that psyche's actions and thoughts before the mind died. Whenever Shalahora approached me, I perceived more of its sheer size. The psionic ocean still stretched out to the horizons, but more of the waves and currents came into my awareness.
+
+That subtle growth gave me some respite from the onslaught. As the morning arrived, Shalahora gazed at my shambling body.
+
+"You can move while dead?"
+
+I took a hobbling step.
+
+"I have my psyches continue what the others were doing. It lets me-"
+
+I fell forward, the ground rumbling below. Pulling myself up with sloppy, desperate motions, I got to my feet.
+
+"It lets me keep doing what I'm doing. It's...Hard."
+
+I hobbled forward again.
+
+"Hah. For now."
+
+Shalahora watched me scramble forward before I fell again. He stopped killing my consciousnesses, turning away from me. I regained my coherency within a second, but my body recoiled at the prospect of more punishment. I forced myself to stop shaking before I cracked my neck.
+
+"Are we finishing early?"
+
+Shalahora's form rippled. His hands subtly squirmed, and his eyes evaded mine.
+
+"Yes...We are finished...For today. You need rest."
+
+I lifted a shaking arm.
+
+"Oh no, I'm fine. We've still got a few hours."
+
+Shalahora took a breath.
+
+"No. You need the rest."
+
+I clasped my hand, trying to get it to stop. I couldn't.
+
+"It looks worse than it is. I'm going to be-"
+
+Shalahora shouted.
+
+"I said no."
+
+I leaned back, his voice a call through my entire being. Ice ran through my veins, and my stomach sank. I murmured.
+
+"Are...Are you ok?"
+
+He reached out a hand, squeezed it, then pulled it back.
+
+"I...Yes. I'm fine. We will only train at night. I-It's whenever my powers are strongest."
+
+I wanted to protest. Something in my chest muted my words.
+
+"Of course. Let's...Let's do that."
+
+With a heavy quiet lingering from his absence, Shalahora faded away. Standing on the hill, I sat in the silence. Shalahora made so little sense to me sometimes, but I understood something about him. He hated hurting people. Things. Anything, really. Peering at my hand, this training was a thing of profound hurt, a misery for anyone.
+
+And I wasn't the only one suffering.
+
+It brought to light other questions, like why Shalahora scrambled the frog ruler's mind on L-7 that one time. Those thoughts tumbled in my mind as I regained my bearings. Furthering that end, I emptied my mind of all distractions after a while, letting the portal on my back grind away. By now, it might as well be a back massage.
+
+My meditation let me recover from the training faster, and considering the difficulty these entailed, mental recuperation was essential. It was a strange fact I learned from this advent: even if the mind was fine, the body remembered. I couldn't stop shaking until twenty minutes passed. After a half hour of doing nothing, my executive golem ran out of the bushes.
+
+He waved his arms in excitement.
+
+"Ah, there you are."
+
+I opened my eyes.
+
+"You've been waiting in the trees for the last forty minutes."
+
+The executive's runes flared.
+
+"Ah, caught red-handed, aye? Well, you looked like you could use a breather after whatever that was."
+
+He was more empathic than I expected. I tilted my head at him.
+
+"What's the chat for?"
+
+He waved finger guns at me.
+
+"So, the announcements are today. I sent some documents from someone else. Are you ready?"
+
+In my inbox, a dozen messages from Torix glimmered, all of them left unopened. A wave of anxiety passed over me.
+
+"Pshh, of course, I've read them."
+
+The executive towered over me once near. These guys were huge. The executive counted on his fingers.
+
+"So you've handled the speech, sorted the gear, and created all the golems?"
+
+My eyes widened.
+
+"Dammit. I forgot to make the gear."
+
+The executive swung his arm.
+
+"Don't even worry about it. I'm flexible. Let's just, oh, I don't know, schedule a show with the other head golems to buy you some time. Yeah, yeah! That'll work. It's as Juvenal said, 'Two things only the people anxiously desire - bread and circuses.' We'll start with both."
+
+He turned around and strode off.
+
+"Ah, I have to get the food ready ASAP. And what do humans find entertaining? I'll have to make something with razzle-dazzle. A few people are going to have to cancel some workdays."
+
+I raised a brow.
+
+"Cancelling workdays?"
+
+The executive waved his arm.
+
+"Oh, what? Yeah, workdays. I'll have a few civilians commissioned into the project. They'll be compensated for the inconvenience."
+
+I frowned.
+
+"Alright, just make sure you don't step on too many people's toes."
+
+He shrugged while jogging away.
+
+"Hah, what can I say? I have big feet. It happens sometimes."
+
+Crows flew out of the treeline as the executive darted across the ground with utter ease. As he disappeared, I took a breath to center myself. I flew over to my golem facility, and I took a few of the extra metal bodies down from the gravity hangers. I melted them down into their base fabric.
+
+The heat of the building mounted as the air blurred around me. I stood at its center, a forge master crafting one sword after the next. I mean that literally; I stood upright while floating everything around me. I picked up, molded, sharpened, and carved in runes, all via telekinesis and gravitation.
+
+This let me smash down my temporal acceleration. My psyches swirled in the ether, more comfortable than ever in an intangible form. Even after only two nights of Shalahora's special training, I exerted greater control over time and the dimensional shard I carried. As Shalahora reiterated, I got closer to my limits.
+
+Better able to tolerate the psionic displacement, I pulled more of myself into the two tasks. I blended my minds, their unmade form like a soup of thought. They kept my wake dense and palpable, turning the intangible material into something with substance. My pain offered weight to the world.
+
+Mirroring that reality, my torment did the same for my own dimension. At the same time, other minds balanced the delicate dance of forging before me. It gave me enough space for my mind to wander. And wander it did. I contemplated Shalahora, Amara, and Diesel. Each of them expanded into new territories, and their expansion came with growing pains. As one of my knees buckled, I scoffed.
+
+They weren't the only ones adjusting to changes.
+
+Pulling myself upright, I remade my newest artifact, the fresh shield dented from my mistakes. After about two hours of effort, a pile of shiny gear glowed beside me. I waved my arm, and it cooled while spawning a wave of condensation that misted off the tools. As crystallized mana glistened, a bead of guilt spawned in my throat.
+
+A whisper of doubt pierced into my thoughts - was I bribing these people to head off into unknown territory and fight for their lives? That thought tumbled in my head before another crushed it. I remembered how Diesel showed me how much my guild progressed and how little I let them do.
+
+On the one hand, I couldn't think of everything from every angle, even if I owned all the minds in the world. A population's ingenuity dwarfed my own, and that was the good news for me. It meant my guild held enormous potential in the form of many talented, intelligent members. By taking on every task, I stopped their growth and my own in tandem.
+
+Giving them certain tasks gave them experience and freed me up to take on the burdens I was made for. After all, I wasn't talented in everything. In fact, my list of talents was glaringly short, so instead of trying to take over every little thing, I had to let go. All that would wait until after this ceremony either way.
+
+I lifted the fresh gear with ease, getting a speech ready in my head. Memories of our guild's feats sprang up in my mind. The victories and sacrifices told a story all on their own, and I organized that story while I floated out of my facility. Torix waited for me with Althea outside my golem center. I raised a brow.
+
+"How did you guys get here without me noticing?"
+
+Althea smirked.
+
+"You get distracted when you're working."
+
+I smiled back.
+
+"It looks like I have something to iron out."
+
+She hopped over to me before leaping. A flip later, she landed on my shoulder. She leaned down.
+
+"Please don't. I like it."
+
+After we kissed, Althea hugged me. Giving us just enough time, Torix gestured to the side of Mt. Verner.
+
+"It would seem to be the time for our recognition ceremony, wouldn't it?"
+
+I nodded, picking us all up with gravitation. We darted across the skyline, each of us chatting away in excitement. Crossing Mt. Verner's peak, we reached a marble venue humming with activity. The executive golem directed a flying ceremony of Eltari and a band of gialgathens, humans, and an eltari. Chrona led the bunch, her eyes brimming with joy.
+
+The gialgathens tapped ornate glassware with their tails while the Eltari flipped around fire and ice. At times, they charged through the flames, and the crowd oohed and ahhed as the blaze bloomed into colors and shapes.
+
+The executive swung his arms like a composer the entire time. His movements matched the show, his practice evident. They finished with a flurry of movement and sound, and the Eltari landed on several pillars at the front while the gialgathens roared near the back wall.
+
+We clapped as we arrived on a platform. Covering the fortification, a mural showed our guild's victories over Yawm, Blegara, and the eldritch. Several architects carried out my artifacts as the show ended, and the entire affair carried the energy of a rock concert and award ceremony wrapped in one.
+
+Everyone overflowed in excitement, and as the music finished, the executive walked over.
+
+"Hah, ok, done. That's all I got, creator. Good luck."
+
+I gave him a thumbs up.
+
+"You did great. By the way, I didn't know you could compose."
+
+The executive let out a laugh before shaking his head.
+
+"Me? Compose? Oh no. My research uncovered that people think more of a show if someone is conducting it. It makes everything seem more official."
+
+Althea gawked.
+
+"So you're lying to everyone."
+
+The executive put his hand on his chest.
+
+"What? Lying? Pshhhh, this is showsmanship. Besides, that display by them matched any show I've ever seen."
+
+Torix's eyes flared.
+
+"You've never seen an act of entertainment, have you?"
+
+The executive pulled on an imaginary collar.
+
+"Woah, ok then. Tell me, guys, are we playing an assassin build in a video game? Because you guys are being pretty critical."
+
+Althea laughed before Torix crossed his arms.
+
+"Hm. Fair enough."
+
+The executive tapped my shoulder.
+
+"Oh yeah, big guy, can you show them your full size? It leaves more impact."
+
+I expanded my frame, but I left enough fabric to prevent the warp from closing. As I did, Torix leaned closer.
+
+"Have you uncovered some kind of spatial magic?"
+
+I waved my hands a bit.
+
+"What? No. I'm pulling off some shenanigans."
+
+Althea leaned against my head.
+
+"Hey, they say magic and shenanigans are hard to tell apart at a certain point."
+
+Torix interlocked his hands behind himself.
+
+"Certainly so, and wise of you to know. Blegh, that rhyme ruined my point. Regardless, are you ready, disciple?"
+
+I bit my cheek.
+
+"As ready as I'm ever going to be."
+
+Althea hopped off my shoulder as I stepped forward. My form towered over the stage, nearly thirty feet high. The guild gazed up in wonder, most on the ground but a few hoisted up in trees. Gialgathens' heads popped up between the treeline, and the Eltari sat at the top of the trees. I raised my voice, not needing magic to amplify the sound.
+
+Being big had its perks, after all.
+
+"It's good to see everyone. Most of you have known me. For those that don't, I'm Daniel Hillside, the Harbinger of Cataclysm."
+
+A roar erupted, and they cheered until embarrassment rose up my side like a pulse of heat. I waved my hands down.
+
+"I'm glad you're excited. We'll need excitement for what's to come."
+
+A silence crossed over everyone, only the sounds of nature piercing the veil. I raised a hand.
+
+"I remember a time when we stood at the brink of destruction. We were about to face a wave of abominations and Yawm himself. At that time, we saw monsters in them, and I reminded you all that they saw monsters in us. In those battles, we needed to bring out our worst. It was so they would learn fear."
+
+A smiled.
+
+"And they did."
+
+A cheer erupted. I continued.
+
+"But, the era has changed, and we must change with it. We're no longer at the mercy of forces larger than us. We have time for peace and prosperity. To build and create lives worthy of living. Of relishing. Of dreaming for. This new age is one we forged on our own, and we've earned every second of well-being that comes with it."
+
+Another set of cheers erupted. I smiled.
+
+"Guildmates or family. Eltari or gialgathen. Vagni or skeptile."
+
+I squeezed my hands to fists.
+
+"We seized ourselves from the brink, and our victory tastes ever sweeter for it."
+
+The gialgathens roared. The Eltari's cawed. The humans raised hands and let out booming yells. They'd all tasted despair, and this was their victory, one that would last forever.
+
+Well, hopefully. I spread my hands with a confident nod.
+
+"But we do not settle. We do not relent. Our guild is one that moves forward. One that endures, and we must help others endure. Around us and far in the distance, Earth suffers. People starve, and they are eaten. They are trampled. We have the means to help them, and with our position finally secured, we will."
+
+I gazed at the many eyes of the crowd.
+
+"We are a people of industry and ambition, but also generosity. We'll bring others into our fold. To those willing to volunteer, you will be tasked with helping a population center. You will not be alone; a golem of mine will stand by your side. You will also act as recruiters for capable individuals so that we may offer them entry into our guild."
+
+My runes hummed with energy.
+
+"This is no mandate. You may choose to continue aligning with your duties here. There is no shame in that. However, sometimes in our lives, we are presented with a crossroads. On our current path is Mt. Verner's success. On the other is humanity's revival."
+
+I gestured a hand.
+
+"There is no doubt in what this will accomplish. It is a tangible good, and it's one we were never offered. What I would've given to have someone save us when Yawm loomed over our heads. Now, we may give that grace to others, as we did for the Eltari and gialgathens. We can help those who struggle. We can bring Earth out of the stone age and back to our previous glory."
+
+The palpable invigoration of Event Horizon crossed over all those present.
+
+"But must we stop there? No. We will go further beyond. We will achieve a glory humanity has never before seen. Those who tread this path will be the origin of Earth's new history, one of triumph. One of victory."
+
+I roared.
+
+"One where we rise."
+
+Another series of shouts echoed into the horizon. It continued for a while after, and people began standing. They stood and clapped for far longer than I deserved. As it died down, I gestured my hand to my followers. All of them stood there, aside from Florence. Having read my updates as I spoke, I boomed my words.
+
+"Florence is forging alliances with others across the stars. He'll arrive later. The others here are the strongest of our guild. I'll begin with the first."
+
+Torix floated over, his hands interlocked behind him. I put a hand on his shoulder.
+
+"This is Torix Worm. He is known as our erudition; that is, knowledge obtained from study and research. Don't worry. I had to look that up, too."
+
+The crowd laughed. I smiled.
+
+"Torix has enlightened us since the dawn of our guild. He led the battle against Yawm. He organized the clearing of Springfield. He fought on the front lines at Blegara and Giess alike. He is our guild's most powerful tactician, a necromancer that raises those we kill for us."
+
+I walked over to the pillar holding his relic. With deliberate steps, I paced back, and the staff sheened with primordial energy. Even the core radiated power. I held it high.
+
+"He'll be given a new body for his many contributions along with this staff."
+
+Cheers erupted. Torix gave an elegant bow before taking the artifact. Althea followed him. I turned a palm to her.
+
+"This is our guild's greatest destroyer, Althea Tolstoy. As she may seem slight, within her is the ability to kill gods. She cleared Springfield. She slaughtered Lehesion and others who fought against us. Now, she works for the goodwill and welfare of our guild's children. She is an idol to us all.
+
+I grant her this necklace. It redistributes force, making her unbreakable. May she continue to serve as our guild's sharpest sword."
+
+I did the same walk to a pillar showing the artifacts. In the back, a few soldiers whistled as I put the choker on Althea. She blushed with fury and fire under her skin. I turned a palm to Kessiah as she peered at the ground.
+
+"It is one thing to be a champion who always stands tall. It is another to have been broken, find the mauled pieces, and begin again. That is the tenacity of our guild's greatest healer. Kessiah is the backbone of our guild's medical care, and she teaches students how to help others who are dying."
+
+Another walk. I gave her the belt. She grabbed it, a tear in her eye. I grinned her way.
+
+"This is given so that she may be as undying as the guildmates under her care."
+
+She gave me a hug before walking off, covering her prize. Hod walked over, his expression goofy as could be. I raised the talon covers.
+
+"These are for-"
+
+Hod squawked.
+
+"Why give Hod back scratchers?"
+
+I scoffed.
+
+"Because Hod, you are a being of duality. You carry the will of a people who had lost all hope, and from the brink of starvation, you shepherded them into a different world. You fought and killed Yawm, and you've assisted our sharpest sword in killing those who wish to harm us."
+
+I handed him the talon covers.
+
+"So I felt the need to make you some backscratchers. May they always get to the itch you cannot reach."
+
+Hod put them on before giving me a hug.
+
+"Hod thank Harbinger. Hod know Hod a lot sometimes. Hod thank Harbinger for Harbinger love and care. Hod not know what Hod do without Harbinger."
+
+I hugged him back before he hopped away using the talon covers. Amara walked out under the light. I gestured a hand at her.
+
+"Amara has been a steadfast presence in our guild. When fighting Yawm, she allowed me to continue leveling even after Schema isolated me from the system. She's done the same for other members of our guild unjustly thrown from the system. She's helped with our missions and cipheric needs as well, all while researching the eldritch to find their weaknesses and maybe one day a cure."
+
+I handed her the amulet along with an advanced AI that I had procured earlier.
+
+"These are to assist her in her research and studies. May her contributions be recognized for what they are - incredible and necessary."
+
+As she grabbed the artifacts, she murmured.
+
+"I'm sorry for scratching you."
+
+I scoffed.
+
+"You're the one walking away wounded...But thanks."
+
+Chrona landed beside me, her form radiant and silver. I grabbed the tail cover, holding it up high.
+
+"The gialgathens are a people of redemption. They lived and grew fat on the slavery of the espens. Now, they grow lean and strong from toiling to build a new home. Chrona has been one of the most loyal members the gialgathens have given us. You've all seen her in battle, her magic a fortress for any who would try to pierce it."
+
+She slipped the tail cover on, the gravitational augments locking it in place snuggly. I tapped it.
+
+"May she continue granting us her unmatched might and learned wisdom for centuries to come."
+
+She bowed to me.
+
+"Thank you, Harbinger."
+
+She left as Krog walked over. Chrona smirked at him as she murmured.
+
+"Look who was the first to be called between us?"
+
+Krog sneered.
+
+"This species has a saying - save the best for last."
+
+Chrona rolled her eyes as I pulled up another tail cover. I held it over my head.
+
+"Krog is a wise general, a commander of our army, and one who never shied away from the front lines. His power over sound has helped mute our enemies and has given us a voice. May his voice continue its roar for ages to come."
+
+Krog slipped his tail cover on before letting out a roar. The other gialgathens under him growled out into the wind. Krog walked off with rumbling steps before Helios sauntered up, his cape covering him. I raised his new gauntlet.
+
+"Helios and I have had a storied past. When we first met, I wanted to kill him. He's lucky I didn't try. Over time, he's learned the error of his ways, becoming a reliable and steadfast ally. Whenever we need to travel between worlds or regions, he is our shepherd."
+
+I handed him the gauntlet. He raised a brow.
+
+"You're still grating me over our first meeting?"
+
+I raised my brow back.
+
+"Oh, and I will for a long time to come."
+
+He frowned while placing the gauntlet over his uncovered hand. Interest sprang over his face.
+
+"Hm. It speaks...Interesting. Perhaps dealing with your madness will be worth it."
+
+He moved his hand, the gauntlet lifting several trees in the distance. Helios laughed.
+
+"I suppose time will tell, though the situation seems promising."
+
+As Helios left, Plazia-Ruhl oozed out of the ground, walking out of magma. I handed him a shoulder pauldron.
+
+"Plazia is a misunderstood soul. He has fought his nature since he was born millennia ago. I believe he may rise above it, and he's shown the capacity to do so. He drove Elysium from our world without killing anyone. He offers intelligence and will clear Blegara of their infesting eldritch."
+
+As I handed him the pauldron, Plazia's voice rumbled from the ground.
+
+"Thank you, Harbinger."
+
+The hivemind left the way he came. From a slight crack in the marble, Shalahora oozed out of the ground. I turned a hand to him.
+
+"Most of you have no idea who this person is. He is Shalahora, the Sun Swallower. His level exceeds 60,000, and he was pivotal to my continuation during the lottery. Without him, we wouldn't own Leviathan-7, and I wouldn't have survived it."
+
+Whispers of the planet's harshness radiated through the crowd. Wild rumors ran rampant. Despite their lofty claims, those rumors understated the danger.
+
+I handed the earrings to Shalahora.
+
+"May you continue helping us survive well into the future."
+
+He bowed, his arms outstretched for the artifacts. An odd sensation struck through my chest. Shalahora could kill me at a moment's notice, along with everyone here. Despite that, he bowed the deepest of any of my guild members. There was something odd about that.
+
+The last to be given their gift was Diesel. Feeling out of place, he shuffled up with his head down. Before he could leave, I gestured to him.
+
+"This is Diesel. He could have many titles. Former of golems. Maker of weapons. Designer of arms. He helped with Mt. Verner's initial construction, and since then, Diesel has assisted in the background. He was a man who never needed someone to bring his achievements to light."
+
+I gave him his compass.
+
+"Until now. Well done."
+
+Diesel gawked at the palpable energy radiating off the artifact. It left a grin on my face. His rise to power was a sign to all that anyone could make it, even someone who seemed ordinary at first glance. By the time the cheering stopped, Diesel turned a hand to me.
+
+"Can I say something?"
+
+I leaned back.
+
+"Oh, uh, yeah. Of course."
+
+Torix walked over, giving Diesel a platform and sound augment. The engineer gazed at his compass.
+
+"This whole system thing has been a mixed bag. Since it arrived, I've felt like it was the end of the world. It was on a couple of occasions. It was like Schema arrived as a nightmare I couldn't wake up from. I know I'm not the only one who felt like that. Especially when Yawm first arrived. Those were dark days."
+
+People nodded in agreement, a solemn air passing over the guild. Diesel raised the compass.
+
+"But we're pulling it back. Each of us. I never thought I'd stand here. I count every day as a blessing, and it still doesn't feel real to have all of you in my life. It's-"
+
+Diesel's voice cracked.
+
+"It's more than I deserve. Thank you."
+
+I choked up a bit, the unexpected emotion a nice finalle to the ceremony. With everything wrapped up on my end, I handed the ceremony off to Torix. With his usual dramatic flair, he handed out his own documents of academic achievement.
+
+Once finished, Torix walked over to the golems. I stood and watched as a queue formed to take on the mission I laid out. They stretched out well into the forest and beyond. A thousand people waited, and it was more than enough to fulfill our projects for sign-ups. Before handing a golem to anyone, I explained how to use them alongside their gears.
+
+As I signed off a golem to each member, I met many guildmates for the first time. They stood out to me. They were warriors; every person carried scars, grayish skin, and fierce smiles. Hardly human, their steps powdered marble under their heels, and they carried quiet confidence with piercing eyes.
+
+Being ten feet tall didn't hurt their presence either.
+
+I was so worried they wouldn't be able to handle the mission. Seeing their obvious ability, I learned that I was a fool. For once, being wrong put me in a good mood. A great one, really. After all, it was good to be wrong sometimes. With the golems' assistance, these fighters would be more than fine.
+
+Adding to that, they each took pieces of gear from the pile I had made earlier today. After finishing distribution, we tallied up the number that signed up. It was over twelve hundred people in total on the first day alone. It floored any of my estimates, and it made me proud. This was one of the best days I'd had since I founded my guild.
+
+And it made all the hard times worth it. The training. The suffering. It had meaning.
+
+Interrupting my serenity, a message popped up in my status, being selected as urgent.
+
+Florence Novas, Of a Golden Tongue and Honied Words(lvl 9,000 | Class: Speaker | Guild: The Harbinger's Legion) - Daniel, I know this may seem sudden, but I do believe that I have utterly botched one of the negotiations with the diplomats. I mean, I really, REALLY messed it up this time.
+
+A few of them are demanding their rulers back this instant, and it's become an unruly mess. If I'm rather honest, they're irate over even the slightest of provocations. It's difficult to avoid hurting their feelings, and they seem...How to put this. Ahem. Unstable.
+
+I'll be dousing some fires as you read this message, but the flames are burning brighter by the second. I'm just letting you know ahead of time. Ah yes, please don't blow up any ships should they appear. Consider it as a favor to me.
+
+My gaze soured as I reread the message. I despised rulers at this point, from their pompous attitude to their inherent entitlement. I saved them from the brink of death, yet I gained no gratitude whatsoever. I dragged my hand down my face as another note popped up in my status. It dinged with a special notification symbol. I couldn't close it, so I sighed and opened the thing.
+
+Arming Schema's Warriors(Lvl 20,000+ | Quest Rank S | Party Size: Any | Guild Affiliation: The Harbinger's Legion) - Forces enact their will onto Schema owned space. One of your personally crafted artifacts has been found useful. Others are in need of its properties.
+
+Request: Grant 10 million personalized artifacts granted to Schema's armory free of charge.
+
+Award: 10,000 levels of experience, fully maxed core points for your current level, +5,000 to level cap, and an Unknown Skill Compendium.
+
+Note - The core points gained include the level-ups from this quest.
+
+Time Constraints: 10 Earth Years.
+
+My jaw slackened at the rewards. Though a welcome addition, levels meant little at this point, as did the bonus stats. However, the unknown compendium gave me any skill I could conceive, all without needing to grind it out on my own. I considered the possibilities before the space above Mt. Verner shifted.
+
+My armor stood on end, flowing like water. None of the others noticed the warping space-time aside from Helios. He sprinted towards me, his voice a roar.
+
+"Daniel. Something's coming."
+
+Above, a series of colossal spacial rends split the sky. Clean and neat, the portals exposed the void of space above them and a barren planet below them. Even a cursory glance exposed the planet's scars, the Hybrid infestations riddling its surface. A fleet of these ships flew out of many, many warps, their orichalcum hulls glistening in the sun's light.
+
+They dwarfed the size of skyscrapers. It was like a large metropolis floated over our heads. As the shadows covered our guild, Hybrids fought on the outer hulls, many having drilled their way inside. Behind the vessels, the void of space howled out, feasting on Earth's air. Helios reached up with his gauntlet, closing the warps. My runes flared with violence, and Event Horizon smothered the entire fleet.
+
+I reached out with a charged hand, ready to disintegrate them with singularities. With a telepathic wave, I thought over.
+
+"What are you doing here?"
+
+A cacophony of voices screamed back via telepathy.
+
+"Help. Please."

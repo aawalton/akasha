@@ -1,0 +1,265 @@
+---
+id: cc4d6878-a9a4-5e74-b217-6460930cb8ae
+page-type-slug: story-chapter-royal-road
+title: "197 Under Dark Waters"
+slug: 0156-197-under-dark-waters
+partOf: the-new-world
+position: 156
+ownLength: 3054
+unit: words
+ownProgress: 3054
+publishedAt: 2019-04-01
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/348606/197-under-dark-waters"
+royalRoadId: "348606"
+markedReadAt: "2026-06-29T21:26:10.203Z"
+---
+
+New Skill Gained! The unique skills Words of Strength, Overwhelming Presence, and Imposer of Will fuse together into the mythical skill, Legion of One. Half of unearned skillpoints rewarded: 78
+
+Legion of One(lvl 5) - Your being enthralls those that defy you and invigorates those that follow in your wake. Vastly enhances your ability to influence and pressure those around you. Effect enhanced by mana used. Acts as a measure of defense against other mental abilities. Effects are enhanced with level.
+
+"That's quite the skill. How's it already level five if you just gained it?" Torix said with crossed arms.
+
+"A skill tree."
+
+"Ah. I suppose that makes sense. Never seen a tree do something quite like that, however."
+
+"Outside of the one I'm working on, me neither. Good to have though."
+
+It looked handy. It came with the same fluidity that my other mythical skills caused as well. Using the auras and words in conjunction came across as a natural instinct. It reduced the levels of focus and thought put into each piece of the action.
+
+This freed up my ability to do other work at the same time. I turned to Torix, "How's finding the location going?"
+
+"I've created a range of around ten miles where the base most likely is. Considering the sludge ocean above it, I wanted to pinpoint the area a bit more before discussing it with you and the others."
+
+"How about Althea?"
+
+"She's made little in the way of progress." Torix steepled his hands, "Ever since your tactic against Thisbey, his public approval plummeted. He's gone underground, which has made him rather difficult to find."
+
+Torix waved a finger, "Tohtella actually took full advantage of your video, however. She dispersed it through the appropriate channels, verified it, and associated it with you in every manner possible. She even purchased commercials for other fights in the tournament to further its proliferation."
+
+"Good to see she's showing that competence we've heard so much about," I said with a grin. "This new skill of mine should help out with convincing the public to fight the eldritch too."
+
+"Most definitely. I feel it even as you speak right now. It's reminiscent of Yawm in a way."
+
+I grimaced, "Ugh...really?"
+
+Torix waved his hands, fumbling his words, "In a manner of speaking of course. Your nothing like Yawm."
+
+"Hm...Yeah. Of course not," I said with a slow nod.
+
+"Daniel, I didn't mean-"
+
+I raised a palm, "No, I get it. I'm way too sensitive about this. Sorry. Just a sore spot."
+
+"Of course. I understand...It's difficult when compared with evil."
+
+"Yeah, evil and ignorance. Yawm was misguided. I don't want to end up like that."
+
+Torix reached up and put a hand on my shoulder, "You won't. I'll set you straight long before you veer that far off your chosen path."
+
+I smiled, "Thanks for the help."
+
+"Likewise. Now, I've got a few calculations to run, and you have the battle to prepare for."
+
+I gave him a quick nod, "Alright. Let's go."
+
+This was the last training session for us before my next fight in the tournament. I spent the rest of the day on the cipher and chatting with Althea. She stunned me with how brutal and efficient her execution strategy was. By morphing her build and face, she took on a false identity. Using that disguise, she rose up the ranks in one of the revolutionary groups. Didn't take long considering her talents.
+
+She planned on executing Thisbey when the group met up during the award ceremony for my tournament. In the middle of his speech, she'd phase in, lop his head off, then phase right out. I wracked my brain on how to stop that, and I couldn't find a solution. She took the idea of a Breaker to an extreme in that regard, being nigh unstoppable.
+
+Knowing Thisbey's death was assured, I focused on the tournament. I planned on sending a message to the general public to take up arms against the eldritch and silvers. With my new skill, Legion of One, that would be much easier. It kind of sucked that Legion of One didn't work for the time field, but I'd make use of it while I could.
+
+Setting my plan into motion, I reached the tournament with my next fight in front of me. After running out of the forest, I leaped onto the edge of the tournaments field. As I glanced around, I found Eradin waiting in the stands. I jogged over to him with a smile on my face,
+
+"Hey, good to see you. How's the family holding up?"
+
+Eradin's face lit up with a toothy grin, "Ah...Ohhh, it's good to see you well Gray Giant."
+
+I rolled my eyes, "What's with the formality?"
+
+Eradin blinked, "Well, you just seem different now. More commanding in a sense."
+
+I raised a hand, "Don't worry about it. Just act normal."
+
+"Ahem, of course." He cleared his throat, "As for my family, they're doing well. My son thrashed me in one our recent spars since he finally used some tactics on me. Speaking of thrashings, I saw your match against Chrona."
+
+I scoffed, "I didn't thrash anyone there."
+
+"I agree. You took tremendous punishment and came out no worse for wear.   I couldn't imagine being encapsulated in her fiery breath! She's a legend, one of the strongest of Emagrotha's armies. She stayed the line against dozens of gialgathens, her speed legendary. But of course, you bested her with ease!"
+
+Considering her magic worked in a field, her holding a position made sense.  In certain environments, like a volcano, she'd be nearly unstoppable. I gestured a hand to the old beast,
+
+"It was a hard fight no doubt. I had a counter to some of her magic, but she fast as hell."
+
+"And despite that, you cleared the air about the falsehoods spread about your name. I promise you, I shouted to the high heavens of your innocence! The youngsters doubted me, accusing you of betraying our kind. Blagh. The young are fickle, but I'd met you. I understood your character."
+
+"Thanks. Always nice to know I made the right impression."
+
+Eradin pointed his tail at a caped figure, "Those two are here to see you as well. I wouldn't leave them waiting."
+
+"Oh...Yeah, that looks like Helios. Thanks for the advice," I said with a sigh.
+
+"An enemy?"
+
+"More like a self-proclaimed boss."
+
+"Ah. Nothing is worse than a leader no one wanted. Good luck with handling him."
+
+"Yeah, I'll need it."
+
+I walked over to Helios who stood with his back to me. His black cape looked like some kind of microfiber mesh intertwined with silk. His white mane of hair ran down to his waist as well. Everything made him seem larger than life. As I reached him, he turned to me, his black mask covering his maw,
+
+"Ah, the Gray Giant arrives. You seem far more driven in this fight, or perhaps less distracted?"
+
+I kept Legion of One active, combatting his weighty presence, "I plan on making use of a new skill I gained."
+
+Helios tilted his head, looking down at me like I was a new person, "I can feel it. Another aura of some kind? It's effective albeit crude."
+
+I shrugged, "Suits me then. What are you doing here?"
+
+Helios stepped sideways, "Protecting a defiant weakling."
+
+Behind him, Caprika sat with a burn mark over her cheek. She looked like she aged quite a bit, her eyes wary of everyone around her. Considering what happened, that made total sense to me.
+
+"Hey, it's good to see you. How are you holding up?"
+
+She stared at me, shaking her head, "It's...good to see you too. I'm fine."
+
+Something was off with her.
+
+"Uh, you alright?" I said while raising an eyebrow.
+
+"Yes...it's just when we met, you didn't have a presence to match your strength. Now you do. It's...fitting I suppose."
+
+"Really? Good. I'll need it."
+
+She took a deep breath, "You've progressed so much since we first met. It has me feeling rather lacking in that regard as well."
+
+I waved off her concern, "Not a fair comparison. You were targeted and almost died. Hard to power up when that shit happens."
+
+Caprika glanced down, her older brother looking down at her. She murmured,
+
+"I suppose."
+
+Helios stared at her, his expression unreadable. He let out a deep sigh before looking away and scratching the side of his head,
+
+"Look...you've made strides in your own way...Lessons are learned through hardship at times, and...and you've learned much as of late. Your guard is better. Your eyes are sharper. You even found Daniel here. Those achievements deserve...some merit, in a sense."
+
+I suppressed a laugh at Helios's awkward attempt at cheering his sister up. She was his soft spot after all.
+
+"Thanks. I definitely had some time to think while in the med wards. I need to up my defensive prowess."
+
+Helios nodded, crossing his arms, "It would be time for that, yes. I'll teach you a method of reflexively encapsulating yourself in your fur. It should dampen the damage from these kinds of attacks. Perhaps some kind of permanent mana shield would work as well. Schema knows you need it considering how frail you are."
+
+Caprika rolled her eyes, "Easy to say for a Fringe Walker."
+
+"Excuses are unbefitting of a Novas," Helios stated. "They degrade you."
+
+"Of course brother," Caprika mumbled with a sigh. "I'll try to live up to my name as a Novas."
+
+Helios kept staring at her after they finished talking, his hand gripping into a fist. I couldn't tell what he meant by that, but he looked...uncomfortable. This was Helios's way of telling Caprika to take care of herself. At least that's what it looked like to me. Even if he hid it well, he wasn't pleased with her nearly dying.
+
+Helios rolled his shoulders before glancing back to me, "Speaking of living up to names, your little media ploy set Giess's media ablaze. Clever."
+
+"It wasn't really clever. It was more about foresight than anything."
+
+"It was clever for you. I expected less."
+
+Oh, an insult. Great.
+
+I rolled my eyes, "Alright then. Anyways, I have the fight to get to. Keep her safe."
+
+Helios looked down at me, "I have to. Otherwise, no one competent will."
+
+He was defensive after his sister was hurt. I understood the sentiment, so I didn't let what him get under my skin. On the other hand, Caprika glared at him before turning to me, "Ignore him. My safety is my responsibility. Go win this tournament. There's most certainly a spot in Albony upper society waiting for you afterward."
+
+I glanced up to Helios, "From what I've seen, there's nothing there to look forward to."
+
+Helios scoffed, "Speaking from a position of envy perchance?"
+
+"No. From experience."
+
+Helios rolled his eyes as I turned to the arena. I jumped across the pit of magma, lava bubbling beneath me. As I landed on the steel beneath me, my next opponent warped in. He was a thin, spindly gialgathen covered in red robes. His mahogany colored skin matched, making him look like a bookkeeper at a library. Well, as much as a gialgathen could look like a librarian.
+
+Sun symbols covered his robes, telling me who and what he was - an Eclipse Maker. How one of them made it this far into the tournament was beyond me. They didn't seem like the close combat type. Maybe he'd surprise me there.
+
+With that in mind, I set myself into a sprinter's position, ready to charge at him the moment the fight began. I analyzed the guys next.
+
+Eclair Vivitar(lvl 6,803) - Eclair is a scholar who studies various sun magics. He once used those magics in battle, but his prime has long since passed. A shadow of his former self, he still dedicates a large portion of his time training for the tournament.
+
+Coming from a weaker regional area, Eclair lucked out by facing weaker combatants. He's made many returns to the tournament, but it's an understood fact that he will lose to either Delilath or Chrona, depending on who won their match that year. With those two monsters out of the way, he now faces you.
+
+He's not ready.
+
+Well, this was disappointing, but the regional setup for the tournament explained it. After all, I fought Delilath because she lived near Yildraza. Chrona Charsiary came from Rivaria, representing one of the most influential factions of the gialgathens. This guy must be representing some rural collection of nomads or something. Since the competition wasn't as fierce, he reached this stage yet lost every year.
+
+I was the 'wall' he met this year instead of the other two. Kiki Mosk understood this as he floated over us. With his charismatic voice, Kiki shouted to the stands,
+
+"Who is ready to get the show on the road?"
+
+The zeppelin above him boomed while the gialgathens stared in somber silence. I intended on getting this guy out of here quick, my mana charged. This guy didn't look like he'd be ready to defend from one of my singularities so I wouldn't use one as an opener. Charging at him should be enough.
+
+Kiki Most took a deep, satisfied breath before announcing, "Let's see if Eclair can put up a better fight this year."
+
+Kiki droned on and on about how pitiful Eclair was. By the end of Kiki's rang, I felt bad for the poor guy. Shit, someone even worse than him would've shown up if he hadn't. Feelings of pity aside, I wasn't about to hold back, however. I needed this win, and the more dominant my victory, the better off I'd be.
+
+With that in mind, I used my Legion of One skill to its fullest extent. I stared the guy down, my every intention to take him out quick. Eclair didn't look ready either. He shook a bit looking at me, knowing his chances were slim at best. Kiki only exacerbated the issue. He guided the promotion of the fight towards something of a stopwatch event; how long would Eclair last?
+
+Not very long apparently. As Kiki Mosk asked for us to be ready, we both said yes. Right after I launched myself to him, Eclair let out a telepathic wave,
+
+"I surrender!"
+
+The gialgathens in the stands groaned at his cowardice, and I dragged my feet to a stop. With sparks flying off the steel ground beneath me, I raised a hand in victory. If I tried giving a speech about the perks of killing eldritch, it would be rubbing salt in the gialgathen's wounds. It wasn't worth stirring the pot considering how volatile the political situation was at the moment.
+
+With that in mind, I dropped my hand in a second, moving on afterward. Without missing a beat, I traveled back to Caprika. As I walked up, she nudged Helios,
+
+"Still not impressed?"
+
+"I've known giants. The Emperor, Baldowah, and many others. He's not of their caliber," Helios said while staring at his nails. "Not yet."
+
+I didn't expect anything from the guy, but I walked past Caprika while laying a hand on her shoulder, "One left before you get your city. Good luck healing."
+
+"Same to you," Caprika said with a nod.
+
+After my goodbyes, I navigated back to our base where I found Torix pacing in the forest clearing. I walked up to him, seeing a triangulation of coordinates around the opening. Candles and several corpses were splayed out on the corners of the triangle, along with streaks of blood. I stayed well outside of it, glancing at Torix,
+
+"So uh, what's all this for?"
+
+"To discover the precise location of the base. With its coordinates narrowed down, I can use a basic divination ritual to gather details."
+
+"What's with all the corpses?"
+
+"I'm still a necromancer at heart, and a few forest animals are worth the well-being of Giess. It's a net good as far as morality is concerned."
+
+"Oh no, I wasn't here to judge. I was actually wondering what they were for."
+
+"Oh," Torix said while crossing his arms. "They act as catalysts to tune into the flowing life structure of Giess. I hypothesize that wherever this base under the ocean is, there will be plenty of death present there. By finding a collection of carcasses, I can pinpoint a precise position."
+
+"Why didn't you use this before?"
+
+"My mana has limits, and the ritual requires far less mana as you narrow down the search area. At times, it's far easier to use less direct means for solving a situation. I say that knowing full well the merits of a more blunt methodology, I assure you."
+
+I nodded, "Yeah, that makes a lot of sense. My runic carving was like that...
+
+Do you mind if I watch?"
+
+"Absolutely not. Perhaps you may learn something of use."
+
+Torix paced over towards the center of the triangle, placing his hands on the ground. With surgical precision, he guided his black mana into the blood markings. Wasting no time or energy, he lifted his hand up, sound and light siphoning into his hand. A purple flame outlined in black popped up, swirling with violence.
+
+He walked over towards each animal carcass, setting a tiny morsel of the flame on them. They all burned, leaving nothing left, and the markings around us sunk into the earth. With my ears ringing from the quiet, Torix snapped his fingers. My hearing returned, and the shade around us dispersed.
+
+My ears popped as Torix looked cupped his chin. I looked around before spreading out my arms, "So, uh, what did you find?"
+
+"It's strange," Torix shook his head. "I found a collection of bodies clustered within the ocean near the epicenter of Lehesion and Emagrotha's battle."
+
+"Then what's unusual about it?"
+
+Torix stared at me, "There are two blips of life force I didn't anticipate finding."
+
+"Did you honestly expect to find nothing alive down there?" I said while crossing my arms.
+
+Torix's eyes widened, "These signatures weren't normal in any regard. They were colossal, dwarfing anything I've ever seen. They both exceeded the energy signature of Yawm."
+
+Torix met my eye, "And one of them is devouring the other."

@@ -1,0 +1,241 @@
+---
+id: db3fe03f-59b7-57c8-ac69-8d88614ae78e
+page-type-slug: story-chapter-royal-road
+title: "80 What Follows"
+slug: 0037-80-what-follows
+partOf: the-new-world
+position: 37
+ownLength: 4482
+unit: words
+ownProgress: 4482
+publishedAt: 2017-11-26
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/176689/80-what-follows"
+royalRoadId: "176689"
+markedReadAt: "2026-06-29T21:22:02.660Z"
+---
+
+The viper struck towards me. I stomped my feet into the sand, extending my grip with a telekinetic wave. The snake’s strike blurred through the air, faster than I could see. Its fangs pierced through my armor, pumping the vicious venom.
+
+Without pain, I kept steady despite the injury. Without fear, I retained the intent of my blow.
+
+As my insides corroded, overwhelming power discharged from my runes as my fist collided with the back of the snake’s throat. A tectonic boom echoed across the open dessert. The dune beneath us disintegrated as the shockwave blew the sand away.
+
+A hole punched through the viper’s throat. An enormous explosion of energy fragmented the brains of the monster out the back of its skull. The crystalline fangs jutted in off, random directions after the impact. As the viper’s body blew backwards. My own arm shattered. The bones crumbled. The skin ruptured. The armor sheared. My shoulder melted from the inside, the venom corroding me.
+
+I fell into the crater my punch created. After landing, I turned behind me. My arm was twisted and contorted, bending backwards. The limb looked like it just got caught in a meatgrinder. My shoulder was dislocated, some of my organs melting. Several of the arteries in the shoulder snapped, nerves and tissue shearing on impact.
+
+I couldn’t feel the actual arm anymore. In my mind, it was a blessing.
+
+However, I could still feel the armor that coated the arm. Instead of wincing at the bit of pain, I reached out and molded my armor. I didn’t wait for the limb to heal. I actively worked to make it regenerate faster this time. I untwisted the armor, turning my arm from a pretzel back into its normal shape. I reset my bones, piercing my flesh with spikes of armor to hold them in place.
+
+Once finished, I bent the armor to seal up the ruptures on my skin. I molded my armor to block the acid from melting further into my flesh. Each time I made an adjustment, my health jumped up. This enhanced my healing process. Controlling my armor let me do crazy shit like that. As I healed my own wounds, the snake processed its own. The head whipped back and forth, confused and searching.
+
+It hissed, spewing the toxic venom around it. Whenever it landed on the sand, the grit melted into glass while violet thunder sparked off it. The snake never saw my strike coming. It probably thought I wouldn’t be able to muster up enough strength to do damage. Oh, how wrong it was. A few arteries pumped blood out from the back of its head, speeding up that eventual death.
+
+By the time it understood it was going to die, I clasped my once broken hand, good as new. I grinned at the monster, my armor following suit. An aura came over me, reaching out to the monster. As I stepped towards it, the monster scrambled for escape. The monster’s eyes met mine, and its iris dilated. The monster heaved for breath. It tried escaping. It feared me.
+
+I rolled my shoulders, catching up to the snake with slow, measured steps. There was no need to rush. The blood pumping from the back of its broken skull ensured that. As I reached it, the monster tried crawling into the sand. Before it disappeared, I grabbed the tail and pulled it out. With one tug at a time, the snake revealed itself.
+
+Whenever I pulled the head out, sand stuck onto the back of its head wound. It turned its face towards me, shooting the arcane venom. I ducked under the purple liquid, reaching up with my left hand. My fingers pincered its mouth shut. The venom passed harmlessly over my head. I raised a my right fist above the monster, its eyes darting around in their crystalline shells.
+
+Before my strike landed, the monster whipped its tail towards my throat from the right side. The crystalline blade glistened in the sun as I pulled the monster’s head down. Molding my armor and leaning over, the blade hit the upper part of my right shoulder at an angle. My armor guided the blade up and over my head, diverting the strike. Before the tail whipped back, I turned on my heels and unleashed another blow.
+
+The sand around us exploded, firing the coarse powder in all directions. The muffled echo radiated into the distance. The scales on the snake fractured like slamming a ceramic plate on the ground. My punch punctured through the snake’s tail, causing the back of the monster to explode. The gravitational pull from the punch threw the monster off balance.
+
+The light around us dimmed, a shadow growing from the snake. A blanket of black covered us before the reptile opened its eye towards me. Brighter than the sun, the beams of light singed my eyes before I stumbled backwards off reflex. The snake snapped its jaw towards me. Using Tactile Cognition, I visualized the snake’s movement off the sound and shifting air around it.
+
+Ducking down, the bottom of its jaw skimmed past my shoulder. I rotated on my heels, firing a catastrophic uppercut into its upper jaw. My ascendant mana roared as I did so, sparks of lightning firing off the impact. A deafening boom radiated through the dessert as the snake’s jaw snapped. The sickening pop of breaking bones was music to my ears.
+
+The mangled tail whipped towards me again. The air whistled as the speed of it tore through the air. It was plenty enough sound to see with Tactile Cognition. I dashed into the tail, causing the measured strike to miss. Wrapping my left arm around the tail, I pinned the writhing tentacle to my waist. With all my strength, I turned the snake around.
+
+Using a gravity well to help pull it along, I turned the snake in a spiral. Before I could toss it, the monster tightened its grip on me. From all angles, the lithe, muscular animal constricted my breathing. The coils pressed from all sides before I opened my mouth and chomped into the snake. My armor shot out spikes in all directions, turning the monster into a pin cushion.
+
+It snake jerked away from me, blood pouring from all its wounds. As it writhed away, its slit irises stared into mine. I grinned along with my armor, pacing towards it like a reaper. With the blood loss catching up to the creature, it fumbled on the sand before I charged at it. With my mana shimmering red, I clashed with the creature’s next bite.
+
+I slammed my fist into its nose. It lashed out towards me, but I timed another compact hook into the side of its face. The punch cracked the crystalline eye. It opened its mouth, firing venom at me. I blocked the venom with my left arm, the acid melting me. Without pause, I reached my right arm down its throat. I dug my fingers into the monster’s esophagus. It gagged, but the tendrils of my armor already invaded its body. It was over.
+
+Using my armor teeth, I bit into my acid soaked left arm and peeled the melting armor off. With the acid off me, I gripped my left hand and raised it above the snake’s face. I slammed the fist into the emerald colored scales, intent on bathing it in red.
+
+With each hammer fist, I converted the snake’s elegant scales into mush. The emerald green scales turned crimson and carmine as the structure of its face devolved. Once it stopped squirming, I jabbed my other hand into the carcass. Gorger of Mana sapped the flesh as I glanced at my notifications.
+
+10 minute delay between skill ups and level ups. Data Upload Complete…Skill gained! Overcharge (lvl 1) – By building mana into your runes, you create a pool of power otherwise unattainable. +1% to mana storage for overcharging attacks. +1% to mana conversion for overcharged attacks.
+
+Data Upload Complete…Skill gained! Discharge (lvl 1) – Using a built up source of mana, you unload with extreme energy. +1% to power of Discharge. -0.5% to recoil of Discharge.
+
+Data Upload Complete…Skill Gained! Active Recovery (lvl 1) – By binding your wounds and assisting recovery, you enhance the speed of your health regenerating. +1% to regeneration speed when actively recovering.
+
+Data Upload Complete…Ouroboros, King of Drikah( lvl 2312) Slain! Level ups will proceed over ten-minute intervals. Level ups registered, 347 total. Estimated time for full download: 2.4 Earth days.
+
+Data Upload Complete…Level up! Level 998 achieved.
+
+I hadn’t quite achieved level 1000 yet. It would take days for all the levels to pass through probably. Instead of checking my status screen hundreds of times, I went towards my trees. What was there was interesting.
+
+[New Trees Unlocked!]
+
+[II Obliterator(Kill a boss over 1000 levels above you, both before level 1000, while alone, and without previous assistance like items or consumables) [0/2,500] | Killer of Titans(Kill a monster with over 1,000 times your own mass. Constitution over 1,000. Star Matter perk unlocked.)(0/1,500)]
+
+After reading them over, another rank in Obliterator was the obvious choice. Besides that, the tree only let me get the bonus if I was below level one thousand. Normally that would have been impossible since I would have immediately gained the levels outside of this rift. Inside the rift though, the time delay let me unlock it.
+
+Before missing the time limit, I selected the Obliterator tree. From all the skill training and what not, I stockpiled quite a few tree points over the long run. Since unlocking fearless, I gained 1004 skill points. Most of that was from unlocking my mythical and unique skills. With that stockpile, I poured them into the Obliterator tree.
+
+To another plane, you’ve ascended. Below you, the crying of others echoes in your ears. They shout at your hard work and sacrifice, “Why should he rise and not I?” They choose not to see the time and energy devoted towards honing your strengths. They only peer at your current self and not the mountain of corpses you stand upon. 500/2,500 milestone reached! Obliterator bonus unlocked (Tier 1) +25% to total experience gained for levels and skills. This bonus is multiplicative with previous bonuses, not additive. +2 attributes rewarded for every 5 levels over level 1,000.
+
+The corpses you stand on are not of enemies, however. They are the weaker versions of yourself. You culled them, no longer letting their weaknesses live within you. You didn’t stop at the surface either. You dug deep into who you are, carving out even the tiniest traces of frailty. What grows back in place of this weakness is a pure and palpable strength. 1,000/2,500 milestone reached! II Obliterator unlocked (Tier 2) +50% to total experience gained for levels and skills. This bonus is multiplicative with previous bonuses, not additive. +4 attributes rewarded for every 5 levels over level 1,000.
+
+Months of training night and day resulted in this. I gained the next level in the most powerful tree I owned and gained two tiers in the tree. Combine that with a surge in levels, and it was a short and sweet kind of bonus too. While ridiculous and powerful, the bonuses didn’t need a ton of words to get that across. The simplicity of it satisfied me to no end.
+
+After relishing in the new tree, I checked out the snake. Its body already disintegrated. The monster left three things behind, however. The first was a giant clump of the white crystal, violet energy emanating from it and all that. The two fangs were left as well, still soaked with the violet venom. The sword tipping the tail radiated a few meters away from me too. All in all, the monster gave me an enormous haul of loot.
+
+It was one of the only monsters to leave anything behind. The high level was probably why. I wouldn’t waste it though. From what I could tell, the violet energy was like a consumable. Once it discharged, the only thing left behind would be the crystal. While somewhat sturdy, my armor left cracks in it. For me, it was nearly worthless.
+
+The energy lying within wasn’t though. It was arcane energy, a kind of attack that did percentage based true damage. My mind raced with potential, mainly different ways of killing Yawm. If I could unload all the volatile energy lying within these artifacts into him at once, killing him might not be impossible after all.
+
+With that in mind, getting the artifacts was the priority. I grabbed all three of the crystals, holding them beneath my arms. I sprinted across the dessert, leaving nigh nothing behind from my epic fight earlier. Whenever I reached the others, Althea already flew down from the sky towards me. She landed beside me,
+
+“I can’t believe you actually pulled that off.”
+
+I shrugged, “I’m actually a little bit disappointed. I thought it might be harder.”
+
+Althea’s brow scrunched up, “What do you mean harder? It took you three days to kill it. Three days.”
+
+My jaw dropped a little, “Really? I thought it was twelve hours or something like that.”
+
+She shook her head, “Not even close…I guess it would be hard to tell time with your eyes covered like that.”
+
+I tossed the large chunk of crystal towards her. She caught it as I smiled, “Sustain is my middle name. It’s my specialty. Also, we got to carry these crystals. I don't have the room in my ring.”
+
+Althea turned and leapt onto the rock wall. I followed suit. One of our arms held the snake’s artifacts while the other let us crawl our way up the stone ledge. Althea chimed,
+
+“Crazy though, being able to fight for so long. It’s like you’re a machine with no batteries. You didn’t even get hungry.”
+
+Noticing a rumbling in my belly, I frowned, “Naw, I’m pretty damn hungry. Once we reach the top, I’m stuffing my face with some rations.”
+
+She frowned, “We only have a few packs left. After this, we’ll have to start eating the villager’s food.” She shuddered, “What is it they eat, rats and worms or something?”
+
+I frowned, “Yeah, not my idea of appetizing. We won’t be sticking around much longer. We got what we came for. A bunch of levels and skills. Maybe we didn’t close the gap entirely, but we shouldn’t be burdens anymore against followers. Yawm on the other hand…well he’s a different story altogether.”
+
+She glared at the wall, boring a hole through it with her stare. After a few seconds, she snapped herself out of it,
+
+“Sorry…I just really, really, really hate that guy.”
+
+I raised an eyebrow, “You know him?”
+
+She shook her head, “No, but I know a few people that knew him. Mainly scientists. From what I pieced together, Yawm is one of those people that doesn’t mind sacrificing a few people. He runs the whole thing, but he, I don’t know, closes his eyes to what he doesn’t want to see. He doesn’t look at the bad parts of what he’s doing.”
+
+I blinked a few times, pausing my ascent, “You mean he thinks he’s a good guy?”
+
+She grimaced, “Yeah. Who was it…That’s right, Hitler thought he was a good guy too, right? Everyone thinks they’re the good guy. Doesn't meant they are. Yawm’s one of those kinds of people. He has good intentions, but they don’t work out. From what I’ve seen, he does more harm than good. Even then…”
+
+Her hand crushed a bit of stone, “He doesn’t think about the people he’s stepped on to get where he is…people like me.”
+
+The seething hatred there was deep as dark water. I sighed, “That sucks..."
+
+Althea's words stuck out in my mind. They pierced like daggers for some reason, and the reason why was at the tip of my tongue. As the feeling grew, I realized why. It was because I kind of did the same thing to her when we met.
+
+When training with her, I didn't pull any punches. I let her have it. Even after all that, I stepped on her to get where I am. This whole time I believed Yawm was the bad guy. If I analyzed the both of us for a minute, there wasn't much different about the two of us.
+
+Maybe in the scale of our actions but not at their cores. I killed that one guy, choking him to death with telekineses. Why? Just to make sure I lived. I might have lived anyways. I killed all the freedom fighters. Why? To make sure I didn't die or kill the planet.
+
+Maybe I could have saved a few of them. I didn't even consider the possibility in the moment though. I did the same thing with Michael and Kelsey. I stomped on them like they were dirt beneath my feet. They weren't people. They were inconveniences.
+
+The more I thought about it, the worse I felt. After crawling up for a moment, I said,
+
+"Hey."
+
+She looked at me, her anger at Yawm melting, “Hmm?”
+
+My eyes turned to the ground beneath us in shame, “I uh…About how I treated you when we met…I was in a dark place. It was uh…I don’t know. I was wrong and…”
+
+I grit my teeth before sighting. I looked up, meeting her eye, “I’m sure it hasn’t been easy for you fighting all this time. I didn’t make it any easier for you. I treated you like dirt, and I’m sorry about it. You deserved better.”
+
+A bit of emotion leaked into my voice as I continued, “I don’t know…I just had a passing thought just now. How I treated you…It was a lot like how my father treated me. I didn’t, no, I don’t want to be like him. I want to be better, a better person than him, a better man. I haven’t really been that kind of person up till now. I want to change that…Maybe this is a good way to start.”
+
+The thoughts tumbled into my head as I spoke them. It wasn’t the kind of announcement you think about before you make it. It was raw and rough and not too pretty to hear either. The thing that made the little speech different from a normal one was that it was genuine. I wasn’t putting up some front or guard. I just opened up for the first time in forever. Hell, I didn’t really mean too.
+
+I glanced away after saying that, crawling up the cliff. Althea didn’t reply as we meandered up the sheer face of rock. Once we reached the top, Hod was asleep, leaning against a rock. He snored loud as a bull while I set down the sparkling artifacts beside him. The whole time, an awkward tension formed between Althea and me. Who knows, maybe it was all in my head. I was too embarrassed to think straight.
+
+I sat down and opened the spacial ring Kessiah gave me. After pulling out the last three packs of rations, I opened my helmet, pouring them onto my face. The milky liquid seeped into my skin like a potent poison, except with nutrients instead of some venomous cocktail. Seconds later, Althea walked over, standing in front of me again. She looked back and forth, awkward as I was.
+
+She tapped her thighs before biting her lip. She said, “I’m sorry too.”
+
+I leaned back, my nose scrunching up, “Wait a second…About what?”
+
+She opened her palms to me,
+
+“This whole time, I thought you were going to kill Yawm by yourself. I was hoping I wouldn’t have to do anything. It wasn’t until that lunch you made me that I understood something...You do remember that lunch you made me right? It was amazing. I realized then that you weren’t just some battle brained lunatic. You just did stuff well, whatever it was.”
+
+She let her arms slap against her sides, “I wasn’t like that. I just wanted this to all be over with. I forgot that you were a person too. You’re not super human…Uh, you are, but uh…You can’t do everything. Sorry for putting everything on you. It wasn’t fair.”
+
+She waved her hands, “And I accept your apology. I tried killing you too. It’s not like you're alone there. If anything, you're the reason I'm out of the lab and I get to cook, sleep in a soft bed, anything fun really...so thank you.”
+
+She flustered around the last part, her silver cheeks turning violet. I sighed in relief, amazed at her apology. I leaned against my knees,
+
+“Thank you. It’s good to know I didn’t fuck everything up.”
+
+She smiled, “Well, not everything, just most things.”
+
+I rolled my eyes, “Excuse me for not apologizing well.” I glanced up at the red sky, “I mean that was nerve wracking as hell.” I dragged my hands across my face,
+
+“I much prefer fighting giant monsters. At least they're familiar…familiar and much less terrifying. Bleck, emotions and feelings.”
+
+Althea laughed before I laughed too. It was the kind of laugh you let out after an awkward moment. It was a welcome release in tension. Once we let out a bit too much laughter, I composed myself,
+
+“Anyways, I'm glad we're on the same page."
+
+She nodded, holding the crystals against her side. I glanced around, another tense moment passing. Interrupting that tension, I pointed at the crystals,
+
+"Ahem, these crystals might be perfect for killing Yawm. From what I know, these are arcane. Arcane magic does percentage based true damage. No matter what you do, it rips people apart. Even with Yawm at such a high level, it should work pretty well.”
+
+Althea blinked before looking at the crystals, “What? Oh, yeah. They should do great. Arcane magic huh…crazy.”
+
+I shrugged, “Eh, should be pretty good...You ready to take the core?”
+
+Like she was coming back to her old self, she frowned, “What? Why do you want to leave already?”
+
+I raised an eyebrow, crossing my arms while still holding the crystals, “Because you don’t want to eat rats mashed up with green vines. Me? I could make it. You? Eh, maybe not.”
+
+She grumbled, “Well…true.”
+
+I turned towards the runes, walking towards the core, “Come on. Let’s go.” With a bit of telekinesis, I lifted Hod over towards me. He stayed asleep, hanging like a ragdoll before I set him on my shoulder. With the artifacts under my arms, Althea and I dashed through the crevices and into the tunnels below. After a running for a while, we reached the vast cavern that harbored the Eltari.
+
+By now, our coming didn’t spark the same level of interest as before. This time was different. The entire village ran out of their houses as several people shouted about our coming. Packs and bags made of straw sat beside throngs of Eltari. It looked like they were all ready to leave. Maybe three days of battling gave them the heads up.
+
+We reached the inside of the village, passing the Eltari. Several of them reached out towards me, mouthing the word Harbinger. Others spoke of a third cataclysm. We didn’t pay them much mind. We ran and leapt into the shack the elders called home. As we walked in, Jass stood at our entering,
+
+“After all the rumbling above us, I already know why you are both here.” She walked up to us and whacked Hod in the head with her cane. He awoke, throwing his feathered arms in every direction,
+
+“Hod not easily slain. Hod a phoenix. Hod may rise again. Rise of Hod, the second coming!”
+
+I tossed Hod off my shoulder before he stumbled up. Jass’s eyes narrowed,
+
+“Did you watch him slay the worm by himself?”
+
+Hod gave her a salute, “Hod watch very closely. Hod know he slayed the beast alone. Hod can say with certainty!”
+
+Jass raised her eyebrows, “Really now? I suppose I’ll take the words of a half-asleep man over the words of no man at all.”
+
+She poked the cane at me, “You…Are you certain we will be carried back with you?”
+
+I gave her a thumbs up, “Maybe 60% sure.”
+
+She sighed, “Then we’re ready to leave. We’ve had three days of ruckus to make sure of that.” She smiled, “I hope this dying planet of yours isn’t as terrifying as our own.”
+
+I tilted my hand back and forth, “No guarantees. It’s been a while since I’ve been there.”
+
+Jass turned to the other elders, “Do we all agree?”
+
+They nodded in silence, their deformities weighing down their misshapen heads. We walked out of the hut before seeing the pillar the hut attached itself too. The coursing energy drained into the pillar above. I jumped up, using telekinesis and gravity for a bit of help. Once I reached the top of the pillar, I walked on a circular balcony.
+
+All around me, the village stretched out in every direction. Beside me, the rippling force of the core coursed like a fountain of power. I turned towards the village. Many of them starred up to me, some like a guardian angel and others like I was a devil. It was time for an impromptu speech,
+
+Wielding my Words of Strength skill, I shouted while spreading my arms, “Eltari, I am the Harbinger who has come to give you a chance for change. Some of you see me as a coming storm. Others see me as a coming savior. Neither are correct. I offer you all a chance at redemption.”
+
+I turned myself, staring at their eerie, white eyes, “You are strong, resilient people. No matter who should judge you, that shall stand any test and any trial. Past the gate I open, you will find a world on the brink of oblivion. Here you all shall be given the chance to save this world.”
+
+I clamped a hand into a fist, “Redeem yourselves. Walk out from the shadow of your fore fathers and come into a new dawn. I will give you this chance. Follow me as we pass through to the next world.”
+
+I roared my last words with the full might of my skill. This might have been the first speech any of the people had heard. It worked like that at least. Many of them raised their three fingered hands. They shouted for freedom from all this planet’s bullshit. I couldn’t blame them.
+
+I turned towards the core. I reached my hand into the stream of energy. The icy cold needles of before shot into my arm, but my armor caught up to the release of energy. I gripped my hand on the dungeon core.
+
+It was time to go into the unknown.

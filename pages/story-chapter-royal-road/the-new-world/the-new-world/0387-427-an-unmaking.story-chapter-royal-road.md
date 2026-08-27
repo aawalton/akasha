@@ -1,0 +1,231 @@
+---
+id: 4444ec2c-f46b-5f66-9606-d7c5a87114e9
+page-type-slug: story-chapter-royal-road
+title: "427 An Unmaking"
+slug: 0387-427-an-unmaking
+partOf: the-new-world
+position: 387
+ownLength: 2641
+unit: words
+ownProgress: 2641
+publishedAt: 2025-05-21
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2294373/427-an-unmaking"
+royalRoadId: "2294373"
+markedReadAt: "2026-06-29T21:34:37.265Z"
+---
+
+I raised my hands.
+
+"Then what the hell happened to her?"
+
+Marcella gulped before frowning. She went to say something before she stopped. Fear spread over her before a resolve replaced it. She said.
+
+"It was an agent from-"
+
+She blinked before she snarled at herself. A moment later, blood began dripping from her nose. It poured out of her eyes, ears, and mouth. She trembled as her skin began melting even through the protective barrier of the antimagic shackles.
+
+"It was an agent from Cygna, the Silent."
+
+Chapter Begin
+
+As the words left her mouth, a wave of palpable apprehension passed over me. Althea took a step back before reality around us rumbled. Marcella gazed at her sister, Rebecca's mind empty and hollow. Marcella closed her eyes, and her tears intermingled with her blood. She murmured.
+
+"I'm sorry."
+
+From above, energy coalesced. The clouds around us reverberated before condensing into solid water. They crashed down in a heavy wave as the ground around us caught fire. Like gasoline, the water plumed up in a spreading, magenta-shaded blaze. I opened my pocket dimension, and Althea dove into the portal right before the flames consumed her.
+
+They enveloped me, and they burned all in their path. My skin bubbled as arcane energy effused my being. My memories faded, the fire eating away at my sense of self. Above, the clouds shimmered as strange, esoteric patterns erupted over the sky. They circled a singular point, a horizon-shattering ritual forming on the spot.
+
+It bloomed into a magenta-shaded ball of energy. Beside me, the dirt began disintegrating into nothing. Air funneled in from all directions as the arcane mana destroyed all around us. I gawked in awe, my lucidity robbed from me. No pain racked my body. No dismay urged my mind forward. Only emptiness hugged me from all sides, the sensation more peaceful than any sleep.
+
+Around me, tears in spacetime formed. The energy cleaved even the area itself apart. It dismantled time here, debris and objects frozen in place. Even outside of time or space, this terrifying energy siphoned all to nothing. It built into an enormous, universal sun overhead before crashing down onto Marcella and Rebecca.
+
+They long ago burned away, but the lightning robbed them of more than a physical body. I blinked, wondering who I was just thinking about. Peering around at hellfire and arcane surges, I forgot where and who I was. My body bled away into silent oblivion as the world surged into an immaterial stasis.
+
+I watched it all crumble away, awash in peaceful bliss. It reached me, and I became nothing. After an unknown amount of time, my eyes opened. All around me, reality bled as several tears in space spread in all directions. They congregated into a singular, massive hole in reality. It dwarfed the lunar rip, and this single tear threatened all of the Shattered Spires.
+
+Maybe the world.
+
+I burst into action, instinct guiding me through the process. I grabbed segments as I stumbled around. Even if I didn't understand the why, where, or how of my situation, I knew letting this energy spill onto our reality would destroy all I loved. To prevent the fall of my planet, I scrambled to gather the pieces.
+
+I bolted from tear to tear, grabbing the rips and pulling them together. As I amassed a growing rupture, the interdimensional energy tingled my skin. A spreading, icy cold infiltrated my body and mind alike. My armor grinned and fed on the substance, my aura running wild in the dark. I let it have its fill to help stifle the overwhelming surge.
+
+As I grappled with the portals, I pressed the ruptures into a singular point. Like bubbles connecting in the air, they snapped together, becoming an evergrowing void. I handled them all, grabbing the portal at its endpoints. Spread out to the limits of my reach, I tugged at the dimensional edges. They resisted my pull, the rupture steadily growing in all spaces.
+
+A roaring panic surged in my chest. I peered around, trying to find something to help, but a crater surrounded me. As if an antimatter asteroid collided where I stood, I suspended myself using the tiny dimensions I carried. Whenever I attempted to pull at gravity, nothing responded around me either.
+
+Something stole the fundamental rules of reality for this space, and I struggled against a growing hole all the while. The veins in my arms burst, and my skin split as I held the edges of the gap. My bones ached, and corded ligaments frayed at the edges. I wielded my dimensional wake in tandem, yet it only slowed the growth.
+
+Taking a moment, I racked my brain for solutions. Nothing presented itself. At this rate, the rupture would consume all of the Shattered Spires and destroy our world. I gritted my teeth and snarled at the void, the spreading wound infesting our world like cancer. The jagged edges of the rupture slinked away from my hands, and it drew across the sky like an ink-drenched snake.
+
+Desperate and out of options, I called at the back of my mind. A dark, abhorrent entity awakened, its hunger unending and brutal. It had eaten the avatars and shards of the Old Ones. It must eat this rupture. As I called it forth, it wouldn't heed my call. As the gap spread in my hands, a realization crossed over me.
+
+It wasn't some separate being. It was me. All this time, I had access to this horrifying ability. Of course, I did. I could devour mana, physical matter, even my own body and mind. However, I never attempted to consume another person's thoughts, soul, or spirit. And yet, I could. I always could, and I never allowed myself to take that step.
+
+I held myself back out of fear of what I'd become. As I gazed at the endless eternity before me, I wanted nothing more than to close the gap. Despite that desire, I never wanted to awaken this evil. A part of me wished I had never touched the armor orb whenever I fought Baldag-Ruhl.
+
+I wanted to be a normal man. I could fight monsters and live a simple life. Instead, I grappled against monstrous entities that devoured realities.
+
+Regardless of my wants, I learned long ago that he who fights monsters becomes them. I closed my eyes and surged a dark shade of myself to the surface. Event Horizon unlocked something as if I opened a gate. In a sudden, raging oppression, I devoured all in my aura.
+
+The matter oozing forth. The latent thoughts infesting the ether. The unbridled and corrupting energy. I indulged in all of it as my surroundings devolved into a mass of destruction. Some piece of my body rumbled in satisfaction as I absorbed the interdimensional energy in vast waves. It siphoned towards me, my body akin to the arcane surge of before.
+
+I became a void.
+
+As I absorbed my surroundings, the rip around me shrank. Without the volatile energy sustaining it, the tear no longer expanded. It continued shrinking as I engorged on the interdimensional energy. My entire body writhed as the power surged across me. It left icy pricks in its aftermath, and an itch ravaged my skin, eyes, and even my mind.
+
+It grew into an overwhelming sensation. I immersed in it, something at the cusp of my mind swelling and surging. Some part of myself ballooned, growing overlarge as I reached a defined limit. As the warp became a manageable size, a rumble echoed from inside the portal. My eyes widened, and I gawked at the endless dark.
+
+It bore into me, a wave of fear erupting in my chest. I shivered as some behemoth arose in the dark. I only knew of its existence because of my dimensional wake. Without it, the monster would've been imperceptible. It gazed at me, its body amorphous and its thoughts ineffable. It pressed down onto me using some unseen force.
+
+I blanked out before coming too once more. I still held the portal open, and I fed on the outpour. If I stopped, the rupture may grow to a point where I could no longer stop it. By now, cracks had formed on my armor, mana surging in my blood and causing my insides to glow. The entity had left, and I scrambled to close the rupture.
+
+It reached a manageable extent, being the size of a standard room. I wrapped reality like a towel, folding it over itself. My hands shook as I struggled against the overwhelming force. On and on, I continued wrestling the violent rupture into a stable, docile crack. It kept shrinking until it pulled together and disappeared.
+
+As it did, I tried to think of what just happened. Remembering the interdimensional behemoth, I leaned back, my mind splintering. All turned to black. Once more, I awoke. Around me, the crater lingered below like a scar on reality. I gazed up, finding a circle above where no clouds dared enter. I hung as a limp body on the tiny dimensions I hid throughout myself.
+
+Taking a breath, I lifted my shaking hands. Scars traced my body, each mark a bright gray and sensitive to all stimuli. I could hardly call forth mana, let alone move my dimensions. I blinked, trying to recall why I was even here and where I was. Gawking at the horizons, I couldn't help but appreciate the absurd beauty.
+
+Wherever I was, it mirrored a painting that reflected a childhood memory, one sweetened by time and imbued with meaning through stories. I gawked at it, my memories of the previous events cloudy at best. Taking a breath, I tried moving. Everything in my body hurt. My head rattled in my brain, and each thought ignited a spark of discomfort.
+
+My back felt old and worn, and my legs trembled at the thought of supporting my weight. Since Schema's system arrived, I'd never felt so worn and ragged. It wasn't the same as an injury itself, more akin to a lack of sleep, a hangover, and soreness molded into a singular, salient sensation.
+
+I let out a breath, sending messages to my guildmates. After a while, I checked the rest of myself to see if I could do, well, anything. I opened my eyes wide. For some insane reason, I put Althea into my pocket dimension. I facepalmed before letting out a grunt of pain. Even a light tap hurt. I shook my head before pulling Althea out, and I let out a sigh of relief as I did.
+
+My pocket dimension didn't slice her to ribbons or trap her forever. As she floated out, she put a hand on my chest.
+
+"I could feel something weird while I was in there. What happened?"
+
+I blinked.
+
+"I...I don't know."
+
+Althea made wings and flapped them to keep herself in place.
+
+"Why are you covered in those marks? And were you able to save Marcella and Rebecca?"
+
+I frowned.
+
+"Who?"
+
+Althea rolled her eyes.
+
+"Ok, now you're just messing with me."
+
+I looked at my hands and back to her.
+
+"Who's Marcella and Rebecca? Are they guildmates?"
+
+Althea furrowed her brow.
+
+"you can stop doubling down. The joke isn't funny."
+
+I spread my hands.
+
+"I mean it. I have no clue who you're talking about."
+
+Althea's wings grabbed at the air as she swung her hair back.
+
+"Ok...It looks like we have a mess to clean up."
+
+I gazed down.
+
+"I can't move. The spatial tears are holding me in place."
+
+Althea frowned.
+
+"Why not leave them behind?"
+
+I winced.
+
+"I can't. The true tear will vomit interdimensional energies out."
+
+Althea flew over before landing on my shoulder. As delicate as a feather, she avoided putting pressure on my scars.
+
+"Then let's start parsing together what happened. So uh, first off, Marcella led New York-"
+
+She explained everything that had happened over the last while, and as she finished, I pointed at the sky.
+
+"So after Marcella said a name, everything I can kind of remember happened. Do you think her saying that name is why the thunder struck down?"
+
+Althea nodded.
+
+"I would think so. After a bit of thought, I don't think she would've been able to even say it if she wasn't wearing those shackles. Also, I...I'm not saying the name she mentioned."
+
+I raised my palms.
+
+"Please, for the love of all that's holy, don't."
+
+She leaned down and put her hand through my hair.
+
+"You don't have to tell me twice. I don't want to become fried chicken like her."
+
+I sent a message to Torix about Marcella before shaking my head.
+
+"It's strange that nothing you've said has rang any bells as we talked. I expected some fine wisps of memory to flare up as you spoke, but nope. Nadda. Zilch."
+
+Althea leaned down, one leg hanging off me. She drew in the air with her hanging leg.
+
+"Well, you were near that weird lightning and fire. It could've messed with your memories."
+
+I shrugged.
+
+"It wouldn't be the first time. Shalahora, the psionic fluid from L-7, and even Eonoth disturbed my memories before. The thing is, all of that was temporary. I can't remember this even after regenerating fully or you describing the situation in full. It's all just a void."
+
+She opened her own storage using one of Schema's spatial rings. She pulled out some breath mints.
+
+"These always help me concentrate."
+
+I nodded before we popped the mints into our mouths. Instead of regular peppermint, a spicy tang flooded my mouth alongside a bit of primordial mana. It oozed out in a controlled, consistent fashion, and it offered a minty blast from actual cold, not the flavor itself. I relished the treat for a bit before I turned to her, my body slack on the portals.
+
+"Wow. Those are great. Did you have them ordered from some other empire or maybe from the exchange store?"
+
+She puffed out her chest in pride.
+
+"It's one of my special pharmaceuticals."
+
+I raised a brow.
+
+"You have pharmaceuticals?"
+
+She gazed at me, her eyes piercing.
+
+"Of course. I started a company with Kessiah to make them."
+
+I grinned.
+
+"What? That's amazing. You gotta tell how that started."
+
+She smiled back.
+
+"Yeah. I've been watching movies and shows from your old world with her, and everybody used all kinds of substances. Alcohol was by far the most common, but people took pills, teas, brews, and other drugs as well. I figured I could add mana and other enchantments to their formulas to create something better than the original."
+
+I leaned back.
+
+"Wait a minute. Don't tell me you gave me these to test them?"
+
+She put a hand on her chest.
+
+"Of course not. I gave them to you to share in something that brings me joy."
+
+A pang of guilt went through my mind.
+
+"Ah, sorry for assuming-"
+
+She chimed.
+
+"Now, if you'd like to carry these around, then I can offer them for free. If you accept the offer, I'd like to be able to say the guildleader uses these mints on the boxes we sell."
+
+"Aaaand there it is."
+
+A mischievous glint crossed her eye.
+
+"Oh, come on. I can't miss Goody Two Shoes all the time. Just most of the time."
+
+I nodded.
+
+"Fair enough. I never thought about making a business, actually-"
+
+A notification rang in my ears. I opened a message from Torix, and confusion washed over me.
+
+Torix Worm, The Harbinger's Erudition | Level: 18,000 | Class: Archmage - Now, I do understand that my memory has failed me before, but I must reiterate this point: who is this Marcella Meyor and Rebecca you keep speaking of? I've never heard their names in my life.

@@ -1,0 +1,353 @@
+---
+id: b7862fe9-4200-54ce-bfc4-c95b91053e47
+page-type-slug: story-chapter-royal-road
+title: "The Path of Ascension Chapter 445"
+slug: 0144-the-path-of-ascension-chapter-445
+partOf: the-path-of-ascension
+position: 144
+ownLength: 5795
+unit: words
+ownProgress: 5795
+publishedAt: 2025-09-22
+link: "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/2620826/the-path-of-ascension-chapter-445"
+royalRoadId: "2620826"
+markedReadAt: "2026-06-29T19:22:37.631Z"
+---
+
+Chapter 445
+
+Emmanuel and the others arrived at the edge of the Tier 46 world as far as they could be from each other, even Tobias shrinking down to his humanoid form, his shield world vanishing into his very spirit.
+
+The moment they entered the world’s real space, they all immediately probed it.
+
+Emmanuel first checked in with the beacon left hidden in the second moon, reviewing the world's history since it was last delved.
+
+Sadly, there were no new Tier 45 or higher strange realms, meaning they were all out of luck. If they tried to enter the three Tier 43 strange realms, their advanced Tier would crush the realms and destroy them instantly.
+
+Instead, the logs made clear nobody had been to this world since a joint expedition into layer four made by the T50s five generations ago.
+
+That was fantastic news, and exactly what he needed to hear after rushing for so long; it meant the world should be ripe with treasures.
+
+Emmanuel shifted his attention to the world itself.
+
+A very, very old world, the Tier 46 planet currently had four major landmasses and two major island chains, along with dozens of smaller features. Between the eight of them, that was a fairly decent split, but things would never be so civilized.
+
+The treasures on display were simply too valuable.
+
+Emmanuel teleported forward immediately, arriving on the largest and southernmost continent, claiming half it for himself, letting Allister claim the other half.
+
+He chose after spending nearly all of his mana checking the world and its various treasures and how useful they were to himself and the Empire.
+
+The Tier 47 bamboo shoot conspicuous amongst its brethren wasn’t a Natural Treasure known to Emmanuel, but its abundant life force was a powerful draw. Combined with his Talents telling him it was the most valuable item on the planet, he wasn’t surprised when two others appeared a moment too late and confronted him.
+
+Winter Hornet arrived, covering the distance from where they entered real space in orbit with a single step, abusing the Tier 46’s worlds firmer reality and allowing him to exert more of his power without being in danger of ascending.
+
+Emmanuel blocked the awl, its razor-sharp tip drinking in the heat around it at an astonishing rate, allowing the weapon to cut a furrow through his upraised shield.
+
+That opened Emmanuel up to Aoife’s attack, her bare fist crackling with power aimed directly at his head.
+
+It wasn’t quite a full power blow, but if Emmanuel took the hit without blocking, he’d be in a world of hurt.
+
+Instead of fighting, he changed his Talent set once more and turned incorporeal. Both Tier 50s halfheartedly tried to stop him, but once they saw he wasn’t going to stand and fight, they each left as fast as they had arrived.
+
+Teleporting once more, he arrived and picked up another Natural Treasure, even as the world behind him illuminated from Aoife’s blow’s backblast.
+
+The Fairies Beard was a notable Natural Treasure that could elevate any Growth item to its Tier, regardless of other item requirements. With the item’s Tier being over the Ascension survival threshold, the item was priceless for those who were stuck in this Realm because they didn’t want to Ascend and lose a growth item.
+
+Anyone so stuck would fight tooth and nail if Emmanuel put the item on the general market, but he didn’t intend to, at least not quite yet.
+
+Instead, he moved to his third target.
+
+It was actually the second most valuable item on the planet according to his appraisal Talent set, but he wasn’t sure why.
+
+The item felt like any Nature Treasure peach tree, and now that the most important items had been taken, Emmanuel allowed himself a moment to inspect the tree and the bamboo.
+
+The bamboo with the excess life force was actually an edible treasure which massively increased the tenacity of a fighter’s life force. It enabled full biological regeneration, excluding the brain’s memories, the power pulled from the excess a higher-Tier cultivator's cores produced.
+
+Emmanuel knew Rusty would want the item, but they would have to see if any of the crafters had a better use; he expected that to be the case given the level of importance his seeker Talents had put on the item.
+
+The peach tree, however, was much more interesting.
+
+The tree would only flower and fruit once every hundred years, but when eaten by a low Tier, the fruit would drastically strengthen their spirit, giving them a small but significant advantage that would remain as they grew stronger.
+
+Given that the tree had over thirty fruits, each of which could be used to get political favors from people he couldn't persuade, threaten, or bribe with more common resources, it was unsurprising that his Talents had noted its value.
+
+Emmanuel stepped once more, this time appearing next to Winter Hornet to spite the Sects leader for attacking him earlier.
+
+Winter Hornet didn’t stop picking the bundle of dandelions radiating a necrotic energy, instead kicking up with his off foot, deflecting Emmanuel’s strike through the nearest mountain range and creating a new inland sea as water rushed to fill the gap.
+
+A Tier 46 world couldn’t quite contain them, but it did better than most. That same blow would have evaporated a star system on anything lower than a Tier 40 world.
+
+Seeing his revenge attack fail, Emmanuel teleported once more, switching into Matt’s Talent for a moment to refill his mana pool. Thanks to Talent shenanigans, he actually came out ahead by simply switching into Matt’s Talent and then switching out. The amount of mana in his pool was only ever lost when he lowered his mana pool below his current mana, so even though Matt’s 1% mana pool wasn’t larger than his, it was larger than his previous mana amount.
+
+Mana full once more, he stepped down to a riverbed as he felt the planet tremble from the aftershocks of Janet and Virgil coming to blows over a fish with Natural Treasure scales.
+
+Picking up the Smooth Stone Natural Treasure, Emmanuel contemplated whose weapon he might want to make unnaturally sharp. There were several who had the right to claim such a useful effect, but he only had the one item.
+
+That was most of the reason they had come. Natural Treasures of this Tier were impossible to get in settled space, and no one was willing to pass up on anything.
+
+One step later, Emmanuel arrived in a cave in the deepest corner, where two petrified eggs sat circling around each other.
+
+They weren’t the Natural Treasure; instead, it was the Attraction Mushroom that had grown between them. Paradoxically, it reduced foreign mental effects across the board. That had its own downsides, as it reduced friendly effects as well, but Emmanuel was still happy to grab it.
+
+His next step was a Primordial Grass, which made herbs grow faster if they were planted near the clump.
+
+Continuing on, Emmanuel took everything of value he could from his area, ending up with almost a hundred Tier 46 Natural Treasures and thousands of lower-Tier ones.
+
+Not that the harvesting took long. The world was still trembling from the earlier battles when the eight of them reconvened on a smaller island, having already looted everything of value in the real world.
+
+All eyes went to Emmanuel, who put on his best smile.
+
+Aoife snorted at his arrival. “Now let us see if your Talents are as good as you claim.”
+
+Emmanuel hoped so too. The better their rewards, the better the items he could take when they were all done.
+
+Looking over his fellows, he responded while letting his smile morph into a smaller but hopefully more confident expression. “Then let me get started. Who wants to go first and which rift do they want to start with?”
+
+***
+
+Matt blinked as he entered the real space universe. The world was as expected, already fully looted, but that wasn’t what surprised him. Rather, it was the very obvious strange realm.
+
+Deep in an otherwise ordinary rain forest was a winding tendril of solidified light that screamed otherness. It almost looked like a single incredibly long ribbon which formed a sphere of light that slowly pulsed along its length, but it felt like a solid wall to his spiritual senses.
+
+Everyone from all four groups honed in on the same oddity, each trying to unravel its mysteries.
+
+The Federation team's leader was a grizzled older man who, despite appearing strong, looked haggard.
+
+With a wave he said, “The name is Marve, Captain of Exploration Team Indigo. That before us is the thrice-cursed thing. We haven’t figured out how to actually enter. When we try, we are immediately rejected. Feel free to check yourselves. I suspect it's a cooperative strange realm, but I might be wrong and it might be competitive. Frankly, I’m not willing to risk that with just any team.”
+
+The moment he finished speaking and allowed them near, Allie teleported the seven of them next to the strange realm, everyone else following with more mundane methods but keeping a careful distance.
+
+Together with the others, Matt pressed his hand against the sphere of light and nearly recoiled at the unexpected feeling.
+
+It might look like a silk ribbon, but the barrier felt like slightly warm ooze.
+
+Matt tried to probe the strange realm like everyone else, but nothing happened.
+
+It wasn’t often, but some strange realms weren’t cooperative, but rather competitive, which required at least two teams to enter at the same time in order to activate. Sometimes that meant the teams would fight to the death, and other times it was a safe challenge or a race of some sort. It was impossible to truly know which was which before entering.
+
+Most of the time, either type of strange realms gave an indication about what type they were, but it wasn’t always accurate. That and there was always the risk that an inherently noncombat strange realm might still allow lethal combat between participants, which left the entering delvers at great risk of betrayal.
+
+Stepping back, Matt and the others allowed the remaining groups to try one by one.
+
+They all similarly failed until eventually, Marve looked over the various groups before settling on the other Empire team. The delving team looked apprehensive at the scrutiny, but didn’t resist when Marve called out.
+
+“Are you lot willing to test the realm with my own team? I can swear if it pulls us in without a chance to back out, I’ll try my best not to kill if we don’t have to. But I’m not willing to risk the initial touch with anyone else. Nor am I keen on allowing someone else, anyone else, first entrance.”
+
+Clara Lund, the leader of the other Empire expedition, looked to where Matt and the others stood, wanting some level of reassurance before agreeing. “We are, so long as the Ascenders are willing to watch our backs.”
+
+Allegiance to the same Great Power was a thin twine of trust, but it was also the only thing any of them had in common. In this instance, it was also enough for Liz to agree to their request.
+
+From opposite sides of the strange realm, both groups touched the sphere of light at the same time.
+
+All at once, both parties vanished only to appear a moment later, smiles plastered on everyone's faces.
+
+Marve looked a decade younger as he smiled. “Fantastic news. It's a cooperative-type strange realm. A killing and gathering challenge it seems. We might interact, but it will be sparse I’m sure.”
+
+Hearing his words, everyone turned to Clara, who brushed a strand of platinum hair out of her face with a thought.
+
+“That seems accurate for what we felt. We were able to leave, which is a sign that it isn’t a fully competitive strange realm at least.”
+
+Together, everyone who wanted to enter put their hands on the sphere, not wanting to risk being left out due to a timing issue.
+
+Matt felt himself drawn into the orb, the ooze growing over his arm faster and faster until it swallowed him up in its blinding radiance.
+
+The next moment, Matt found himself in a clearing inside a dense woodland that spread for a mile before turning into a wall of fog.
+
+To their left and right, all of the other teams appeared in their own clearings with their own towers.
+
+Strangest of all was the gem now embedded through his chest, as if it had always been there. His heart in fact. The yellow gem was the same color as the rest of his group had in their hearts, but given it didn’t interfere with Matt’s biological functions in any way, he wasn’t too worried about its presence. Interestingly enough, it gave him information about the strange realm when he probed it.
+
+The tower behind them was their tether into the realm, and if it was destroyed, they would be immediately ejected, ending their attempt. The same was true on an individual level with their heart gems. If they were destroyed for any reason, the person would find themselves ejected, along with anything stored inside the gem being transferred to the killer. The gem acted as both a life preservation method and easy target for destruction.
+
+There were no prohibitions about fighting each other, though it wasn’t required or even encouraged beyond general maliciousness and greed, which were always a factor in strange realms when resources came into question. What Matt did find interesting was the tidbit of knowledge that anyone ejected early wouldn’t leave the strange realm until everyone had left the challenge, and that there was an aggressive time dilation effect.
+
+Said test of the strange realm was fairly simple: survive as long as possible while keeping one's tower intact from the ever spawning monsters. The longer a team survived, the more yet-undiscovered resources they could bring out, with only the last remaining team guaranteed to get everything they collected. If a team was eliminated early, what they kept was up to chance, and no one wanted to risk that.
+
+It was that simple.
+
+As for what the major reward was, what they were supposed to be fighting over, Matt couldn’t find any indication of it, so he asked the others. However, no one had figured anything more out either.
+
+Matt’s attention then went to Allie, who indicated she wasn’t confident she could teleport out, but could probably manage it if the worst came to pass. He understood why, as he could also feel how the space they were in was strange. She didn’t want to risk it unless she had to, and he agreed.
+
+Looking at the other teams, Matt was almost surprised when one of the other towers, the Republic Clandestine Clippers combat team included, vanished, their location being replaced by an empty forest like everything else around them.
+
+In rapid-fire succession, the Federation’s combat team led by Marve, the Monster Collective team lead by their founder Ralph, a notable Bat bloodline according to Lila’s reports, vanished, leaving the two Empire teams with the secretive Corporations team.
+
+The latter also vanished, and once they were ostensibly alone, Liz called out to Clare. “Good luck. Let's try to help each other where we can.”
+
+Clare’s delving group gave reciprocal comments but didn’t linger, touching their tower and vanishing just like the others.
+
+Allie sighed the moment they left, turning to Susanne, who had signaled to delay leaving the moment the first team left. “Finally. Can I touch it now?”
+
+Susanne shook her head. “Not yet. I don’t like that Corporations team. They are giving me a bad feeling, but I can’t pinpoint why.”
+
+Matt raised an eyebrow but Susanne didn’t say any more, leaving him and everyone else to ponder their thoughts.
+
+He hadn’t gotten that bad of a feeling from the corporation team, but that meant little and he trusted Susanne’s intuition.
+
+More serious, Allie nodded. “Good call out. Let’s keep an eye out and remember to watch our backs.”
+
+Then she pressed her finger to the tower before anyone could stop her, pulling them all into a bird’s eye view of the strange realm. It looked like any typical world with the selectable area being a semi mountainous coastal region interspersed with some plains and forests. He couldn't tell if any of the areas they were looking at were special or advantageous beyond general terrain.
+
+That was neither good nor bad, but being in a strange realm meant being on the lookout for oddities. No one knew which bit of information would be the one to save a life.
+
+The view was still simplistic. In fact, beyond the landscape, the only things they could see were four other towers standing far too tall in the locations they had appeared.
+
+“Final mover’s advantage. We can see they already took the good spots,” Aster quipped before gesturing to an area a decent distance from any of the other towers. “What if we went here by the plains? It's a good location, but not one I think anyone else would think another group would take.”
+
+“Ya think?” Matt quipped back only to be ignored as everyone else started offering their own suggestions and alternatives.
+
+Ultimately, they went with a nearby spot closer to a river in case they were returned to mortal bodies or other similar odd challenges.
+
+The moment more than half of them agreed, they appeared in the location they selected: a low mountain valley near a substantial river next to a massive plains that extended beyond what they could see from above.
+
+Matt wasn’t at all surprised to find himself gazing at a wall of a nigh-impenetrable fog. By putting all of his effort into his spiritual perception, he was able to bypass some of its restrictions, letting him see more boring plains, but its mere existence greatly hampered his spiritual range.
+
+He was only able to look for a moment before the area around their tower started to shift as a fortress of stone materialized around it.
+
+Zack, Matt, and Rah got to enchanting defensive layers and traps into the fortress walls while the others went into the mists together to see if they could find out what they were supposed to do to complete the strange realm.
+
+The three of them didn’t dawdle and Matt was grateful for his sword giving him so much practice carving runes. It almost let him keep up with Rah and Zack without feeling entirely worthless.
+
+Rah looked at little aghast at the mountain of mana stones Matt brought out of his mana stone ring to power the enchantments, but he wasn’t going to skimp. He had, in fact, managed to fill the ring during their last leg of travel, and had been forced to stop making mana stones a long time ago. He’d have any amount of mana stones used replaced in a few more months of travel anyway, so why not use them? Besides, until they were alone on a world where they were reasonably sure no one was watching, he couldn’t have Allie take the ring to the Empire and activate the teleportation function to empty it, as they didn’t want to publicize any additional limitations on her Talent if they didn’t have to.
+
+Their defenses were three simple protective measures layered over top of each other. Most of their efforts went into warding the hell out of the fortress, ensuring no manner of stealth could pierce their defenses without them knowing about it.
+
+Ultimately, they believed the greatest danger to them was a sneak attack from the other teams.
+
+Any time there was a resource competition, there was a reason to fear the others attacking if they thought it would earn them more.
+
+When Liz, Susanne, Aster, and Allie returned an hour later, they didn’t have any answers. Traveling at their best Tier 28 speeds, they weren’t able to find even a single monster, indicating there was some other trigger the strange realm was still waiting for.
+
+After exchanging [AI] maps so they didn’t cover the same ground, Matt, Rah, and Zack went on their own test.
+
+The fog made it nearly impossible to see beyond a mile with any clarity, even with Matt’s spiritual perception, but there also didn’t seem to be any monsters around them either. So all three of them slowed down slightly to do tests as they flew.
+
+They found neither a way to bypass the fog nor anything interesting in the slightest. At their speeds, they crossed planetary distances every second, but beyond the scenery changing as they traveled, there was no indication of anything supernatural or out of place beyond the fog itself.
+
+Just to be sure, they even walked on the ground, carefully inspecting their surroundings, but they found nothing.
+
+Wanting to get back before any possible sunset, Matt, Zack, and Rah ended up waiting for the others through the night with nothing happening.
+
+It was so anticlimactic, Matt was almost relieved when at dawn the next day, a Tier 30 wolf with horns stepped out of the fog, sniffing and snuffling.
+
+As if smelling something foul, it started to growl. The wolf then howled and raced at their fortress, earthen energies forming between its horns.
+
+All seven of them moved for the kill, but none of them beat Allie, who teleported next to the wolf, driving her dagger into its eye with casual ease before vanishing as the others arrived and attacked, not caring if they hit Allie.
+
+Liz still ended up landing the final hit, slamming the wolf with her shield and spear, overpowering it and taking it off its feet, dropping on it mercilessly.
+
+The wolf biting Liz ended up being its last action, as golden ichor crawled up the wolf's nose and attacked its brain.
+
+Matt froze with everyone else as he felt a burst of essence rush into Liz.
+
+Just plain old essence. Not some strange realm specific energy that was part of its mechanics or something precious like Genesis Energy.
+
+Matt’s opinion immediately shifted as he considered the implications. Undoubtedly that discovery meant there was something else going on, and it wasn’t bad if they had a constant wave of monsters spawning to attack the base.
+
+That just meant free advancement for anyone who defended the base.
+
+Matt only hoped the time acceleration was much greater than the same-Tier rifts’ dilation.
+
+If not, he wasn’t sure how long they could afford to linger even if they could stay forever.
+
+Aster immediately stepped forward, volunteering while preening, "I'll go ahead, as I’m already Tier 29! No need to stay behind.”
+
+Matt stepped next to her, having zero shame. “As her bond, I need her protection, so I’ll go with her.”
+
+An extra Liz arm reached out of Liz and grabbed Susanne’s arm, pulling her closer. “Susanne and I are going out that way as well. That's roughly half. Let's go exploring for two hours before we reconvene back here. No excuses for the time. The second group will get more time out exploring in exchange for us getting the first run.”
+
+Mollified, Zack, Rah, and Allie didn’t argue while Matt and Aster took off into the fog together.
+
+Almost immediately, Matt noticed things were different than his last trek the day before. The forest he remembered just a few minutes flight away had thinned out substantially, and the river that led from their mountain had widened into a massive lake so deep, the fog returned, preventing Matt or Aster from seeing the bottom.
+
+Standing next to him, Aster slapped Matt with her tail. “Pop on [Cracked Phantom Armor] and jump in there.”
+
+Matt shook his head, “Not a chance. It could be acid water or something equally obscure and dangerous. I will however…”
+
+He waved a hand as he cast [Water Manipulation], creating a hole down into the lake.
+
+The lake was hyper massive, with way more water than their stream could have provided. It was noteworthy, but any strange realm ecological thoughts or concerns went out the window when they started finding water-based Natural Treasures. As they drew closer to inspect a Treasure, it was sucked into the gem immediately, explaining the competitive element of the strange realm.
+
+Why bother hunting these areas if you can take someone else’s hard-won loot? Better yet, why not harvest the weird pocket spaces as well as the other competitors and indirectly their pocket spaces?
+
+And the loot was so good, Matt found himself tempted to do exactly that.
+
+The Natural Treasures started in a range between Tier 20 to Tier 25, but the deeper into the lake they went, the more common the Natural Treasures became, as well as slowly increasing in Tier.
+
+Every dozen feet, another Natural Treasure floated or drifted past like some sort of legendary exploration wonderland talked about but never encountered.
+
+They also encountered their first monster, but that didn’t change Matt’s opinion of the strange realm in the slightest.
+
+The merfolk’s backfin did have a long whip-like strand that was sharper than it had any right to be, forcing Matt to use both layers of [Cracked Phantom Armor] to block the blow, but it failed to penetrate deeper and that turned lethal as he grabbed it, preventing the monster from running away.
+
+Aster killed it with an [Icicle] through the heart, the ice detonating a moment later and shredding the merfolk further, the essence rushing into them.
+
+As they descended deeper still, the monsters became far more numerous, but beyond their strangely-dangerous fins, they were very average Tier 30 monsters. Therefore, the two of them had little issues in collecting the now Tier 25 and to Tier 28 Natural Treasures floating around them.
+
+If they had more time, they could have pushed deeper, but the lake’s pocket space could very well be truly endless and they had agreed to return on time. They were also sure Liz and Susanne had probably found something similar, and the safest thing to do would be to regroup and discuss who would push as deep as possible and who would protect their tower.
+
+Matt and Aster at least didn’t have any reason to think there was a deeper purpose to the pocket spaces than an endless monster and Natural Treasures spawner. Not that they minded. In just their very limited two hours, they had already collected over a hundred Natural Treasures. Most were lower than Tier 25 at the start, but they had been steadily increasing and there was a chance the boss area had the maximum Tier Natural Treasures, likely at least Tier 30.
+
+Matt and Aster spent the flight back through the impenetrable fog arguing about how to interpret what they had seen into concrete rules or restrictions, both exceptionally happy about this strange realm.
+
+Zack, Allie, and Rah had zero issues protecting the base and hadn’t encountered anything strange or unusual, only having a single monster appear every few minutes.
+
+Explaining what they had found, Matt and Aster’s results were only further confirmed when Liz and Susanne arrived. They had found an endless pocket space similar to theirs in the depths of the forest, where they encountered wolves as well as a steady stream of nature-based Natural Treasures.
+
+Having a much better understanding of what they were going to encounter, Zack, Allie and Rah moved out in a third direction where a type of centaur had come to attack the tower, the three wanting to check it out and see if they could confirm a third strange space and origin of the attacking monsters. Not being in as much of a tight time crunch, they reported back after five hours, having found an endless plain of centaurs with air and movement-based Natural Treasures, making it a prime location to push deeper in as a group.
+
+On their way back, they even stumbled onto a canyon of kobolds with fire-based Treasures.
+
+Having several options of where to go and needing to have someone stay behind, the seven of them ended up drawing lots. Liz and Zack, having gotten the literal short straws, had to stay back and defend the tower, while the rest of them pushed into the nearby endless forest and deliberately started trying to learn as much as they could about the strange pocket dimensions. All the while they slaughtered wolves, leaving an ever-growing pile of corpses behind them as they pushed deeper.
+
+In that first attempt, they learned two things about the pocket spaces. First, neither the monsters or Natural Treasures seemed to respawn. Second, if they retreated, they were brought to what they were calling the overworld, instead of having to backtrack over corpse-littered forest paths.
+
+It took over an hour of carefully killing their way forward, expecting traps at every turn, but they managed to fight their way to the center of the forest. There, in a massive clearing, they found a Tier 30 boss wolf who was larger than the others, with a familiar gem implanted in its chest, waiting to fight them. It was also surrounded by around two dozen Tier 30 Natural Treasures ripe for the taking.
+
+With the five of them, the fight could have been brief and decisive with Matt, Susanne, and Rah getting in close and occupying the monster's attention, while Aster and Allie focused on dealing as much damage as possible. Instead, they played it slowly, baiting out each and every attack, deliberately doing minimal damage in their counters.
+
+They only killed the boss when they were sure they had seen everything it had to offer. Sadly, that wasn’t much. Below average strength, speed, spell power, spell variability, and suspected Talent. The strange realm was undoubtedly going to get harder in some way, and they wanted to have a good baseline.
+
+Any one of them could have killed that boss on their own, even if it would have been a harder fight. From that, Matt extrapolated that the other teams wouldn’t have that much more difficulty than them.
+
+Best of all, there was still the typical larger rush of essence only seen from rift bosses, which was useful to everyone except Rah, who diverted his essence to the rest of them.
+
+Their entire group was nearing Tier 29, and this strange realm came at an opportune time.
+
+With lots of weak Tier 30 monsters and bosses, combined with the amount of Natural Treasures they were finding, Matt couldn’t help but feel the strange realm was perfect for them. It would undoubtedly get harder in some way soon, but he appreciated the ease while it lasted.
+
+His opinion was only improved when, as the creature lay dead, some of the ice from Aster's final fatal blow was pulled into the gem at the creature's heart.
+
+The body started to change after a soft pulse of sliverly-blue light washed out of the gem.
+
+Where the fur had been an earthy brown and deep gray, the ends of its fur uniformly turned whiter as the boss’ once-grievous wounds started to close. Matt also felt the air start to grow colder around them. It was a slow process, and nowhere near cold enough for snow to start falling throughout the forested space, but the trend was obvious.
+
+Most eye-catching of all were the spots where the cold and nature energies collected. They were, in fact, the same places they had gathered the Natural Treasures from moments ago, indicating the best loot would also respawn. Best of all, they were a mix of the two elements, which implied they might be able to create their own custom Natural Treasures pocket spaces.
+
+He suspected the challenge of the strange realm would come from the fact the added power was exactly that: additive. Matt was confident the boss as well as the monsters that came back to life would be stronger the second time they fought them.
+
+Unless the strength gain was unprecedented, that shouldn’t be a problem for them for a few days. If they could Tier up to Tier 29, they could last quite a bit longer, but eventually even they would be overwhelmed.
+
+None of that changed the marvelous nature of the strange realm, letting them direct their future Natural Treasures.
+
+Aster giggled maniacally, not minding the more negative implications, slapping Allie with her tail in excitement. “I’m going to be rich! The richest of them all! I’m going to roll around in a pool of winter Natural Treasures!"
+
+Putting together what was happening, Matt cursed softly at the fact Zack hadn’t been there to turn the area into an arcane Natural Treasure producer.
+
+Given the power level, any two of them could safely clear a zone, letting them get more areas aspecting and Matt knew who he was grabbing first. Arcane Natural Treasures were obscenely rare. So rare that even Matt hadn't been able to get his hands on one that would let someone aspect their mana pool even with all of the resources in the Empire. The problem lay in that any Natural Treasure that could aspected mana pools were rarer than the typical Natural Treasures of that element.
+
+They were so rare, even out of thousands of Natural Treasures, an exploration group would be happy to find one or two of the most common mana types. And oftentimes the items would never even end up on the open market being privately auctioned or traded.
+
+Matt was undaunted. Even if they didn’t get one here, he was hopeful someone somewhere in the Breach would bring one back to settled space when things settled down.
+
+The worst part was that he couldn’t even inspect the Natural Treasures beyond their general Tier and suspected he wouldn’t be able to do that until they successfully completed the strange realm.
+
+Still, they could custom create rarely-seen Natural Treasure types, maximizing the value of this strange realm for both monetary reasons as well as personal growth, making this a fantastic strange realm.
+
+Doing some quick calculations, Matt estimated with only nine extra bosses, they could give the members of the Unsparing’s crew at least one Natural Treasure directly useful to them in some way. If they found themselves around long enough, or the conversion faster than expected, they could double that to eighteen and guarantee Natural Treasures for even rarer mana types.
+
+Everything would depend on how fast they could kill the pocket areas and if there were any other hidden oddities they needed to consider.
+
+Realizing what it meant for Liz, Matt smiled, ready to see just how many times it took them killing a zone to get Ichor Natural Treasures.

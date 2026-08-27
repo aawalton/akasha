@@ -1,0 +1,461 @@
+---
+id: 970f8bbc-c102-5f19-b761-46add9137200
+page-type-slug: story-chapter-royal-road
+title: "198 Preparing for Battle"
+slug: 0157-198-preparing-for-battle
+partOf: the-new-world
+position: 157
+ownLength: 7871
+unit: words
+ownProgress: 7871
+publishedAt: 2019-04-02
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/348918/198-preparing-for-battle"
+royalRoadId: "348918"
+markedReadAt: "2026-06-29T21:26:12.480Z"
+---
+
+I said, "What does that even mean?"
+
+"I don't know. The sheer volume of energy is astounding, however. It's like a continent is collected into two energy blips. I can't understand it fully, but what I do know is this - we need all the help we can muster if we are to fend it off."
+
+My eyes widened, "Are you serious?"
+
+"Most certainly. Find some of your previous combatants. Perhaps they may help us."
+
+"Hmm," I cupped my chin, "Maybe. I'll have to check it out. I could get Chrona on my side. Maybe even Krog. They'd be the only ones worth gathering."
+
+"Then we must hurry. I'll warp over and get Althea here. Perhaps Kessiah's healing magic has come along enough to help us."
+
+I tsked, "I think she'd get gibbed if I'm honest."
+
+"I would as well if I took a direct blow from this kind of foe. This is a risky venture, and I'd rather not leave a stone unturned."
+
+"I'll take your advice on it. Do you think we should contact Tohtella and get some of her guards?"
+
+Torix sighed, "I...I'd rather not. I've been suspicious of her activities for a while now. Despite her use of your video, she's done far too little to uphold her reputation as a world reformer."
+
+"Yeah, I had a suspicion in the back of my mind too," I shook my head, "I can't understand why the hell she'd do it though. It makes no sense whatsoever."
+
+"Neither do I. Perhaps this final Skyburner base will offer some elaboration and verification of our suspicions. Needless to say, we must prepare. Find allies. I'll gather resources of my own."
+
+"I have a favor I can call in with Helios. Do you think this is that big a problem?"
+
+Torix crossed his arms, "Hmmm...No, I don't. We've yet to even access the threat. We'll call upon him if it's beyond our grasp. Time is still of the essence, however. I imagine if the draining signature finishes its siphoning process, we'll face a far stronger foe in the end."
+
+"We'll finish this fast then. Do you think you can return later tonight?"
+
+"Perhaps in two days. I'll give you the coordinates then, and we'll go towards the epicenter. Good luck."
+
+I gave him a curt nod as he walked into a portal, warping somewhere. I sprinted over towards Chrona, tearing chunks from the ground as I did. As I flew up over the skyline, I shot across Rivaria. After reaching the upper line of the city, I flopped into Chrona's home. The beautiful ice sculptures still reflected light in their icy shells.
+
+As I paced through the room, several of the statues had air bubbles spread throughout them. They crafted them into words, shapes, and pattern. Each of these additions added extra depth to the already impressive sculptures. It looked like it requires several techniques to make it work right. Otherwise, the bubbles would get lost in the freezing process. They must have designed the air pockets and sculpture beforehand then flash-froze the water with the bubbles. Carving the statue must have been the easy part.
+
+With my mind thinking about that, two different gialgathens echoed through the cavern. Though they didn't talk much, their breath was more than enough considering their hulking size. Within the room of emerald fire, Chrona chatted with another gialgathen. Turns out it was Krog Borom, the illusionist general of Emagrotha's army. It made sense these two were talking considering their history.
+
+As I stepped up, Chrona tilted her head at me,
+
+"Our next session wasn't until a few days after your bout?"
+
+I shook my head, "I didn't need the rest. The guy quit."
+
+Krog grumbled, his voice proud, "The filthy coward. If I fight him again, I'll leave him broken as he deserves."
+
+I raised a hand, "There's something I wanted to speak with both of you about."
+
+Chrona pointed near the fire, "We were in the middle of discussing a few recent political events. They may wait until after you've had your say, however."
+
+Krog puffed out his chest, his black and red skin oozing menace, "Those politics revolve around you in fact. You've done much for us. I was going to thank you for it."
+
+Huh. Didn't see that one coming.
+
+"I actually have a way you can help me then. We found where Emagrotha and Lehesion fought. At the epicenter of their battle, a mage I know found something big."
+
+The two generals stared at one another. After a moment of silence, Chrona turned to me, "There lies an ocean of sludge there now to my knowledge. If that's the 'big' thing you're referencing, then there's little else to know of the subject."
+
+"Not quite. It's two life forms of unbelievable size. They sounded like something you'd get from Lehesion or Emagrotha."
+
+The gialgathens straightened up, Chrona murmuring, "But Emagrotha...there's little that remains of her after Lehesion's final blast. We never found her remains. The ocean rose from the ground faster than we could recover her."
+
+"We're better off not knowing what that freak did to her," Krog growled.
+
+I pointed at them both, "I'm wondering if either of you would come with me in case I needed help fighting this thing."
+
+Chrona gave chuckled. "Of course I'll help. I'm certain it couldn't stop the both of us."
+
+Krog snapped her side with his tail, the gemstones encrusted on his armor shining, "The three of us. It will be a battle worth remembering, and I may offer a measure of compensation for how you've treated us as a people. You deserve it."
+
+"Acting decent doesn't deserve compensation," I said while raising a palm to Krog.
+
+"On Giess, it does. Especially given the hard times." Krog stated.
+
+I crossed my arms, "What do you mean?"
+
+Chrona looked away while Krog took a deep breath. The proud beast murmured,
+
+"I...I lost my grandfather in an attack as of late."
+
+I fumbled for my words, "My god...Uhm...I'm sorry."
+
+Krog snorted, crushing his emotions. He said, "It was in a terrorist attack led by those revolutionaries. To think they'd sacrifice themselves to cull us. It's difficult not to squash one of the espens each time I see them."
+
+Chrona laid a wing across Krog's back, "We would be no better than them. Emagrotha would look down with disappointment."
+
+Krog smashed a thickened hand onto the ground, cracks ebbing across the ice around us, "I know...but it's difficult."
+
+Tears rimmed around his massive eyes, his emotion real. Minutes passed before Krog collected himself. The general stood tall once more,
+
+"A harrowing battle is just what I need to clear my mucked mind. It will do me good."
+
+Chrona pulled back her wing, and I stayed quiet while Krog took deep breaths. I ended up intruding on a profoundly personal meeting. If my suspicions were right, Krog came here to talk with Chrona about the death in his family. Like the jackass that I was, I ended up interrupting them. Even though I was aware of that, we didn't have time for personal grieving.
+
+This thing could kill off a lot more people if we didn't organize quickly. I raised a fist, staring at Krog,
+
+"Then we'll meet later tonight to go kill whatever this damn thing is."
+
+Chrona glanced between Krog and me, concern spread over her face. Krog let out a low growl, "It shall be done."
+
+"Good. I'll see you both in the arena then."
+
+"Of course," Chrona said. "We'll fight with valor."
+
+I left them, giving Krog the chance to grieve over his loss. He looked close to his grandfather, so the loss hit hard, and I didn't want to interject anymore than I already had. I needed to push him some though. Otherwise, we'd have to postpone fighting this damn thing for a while. Considering how strong Torix seemed to think it was, that didn't sound like that good an idea.
+
+With that in mind, I returned to our base. I raced down the steps and knocked on Kessiah's room. Kessiah called me in. She stood beside a rabbit with glowing antlers pinned to a table. Beside it, several empty syringes were stacked up, one of them half full. As I raised an eyebrow, Kessiah picked up one of the legs of the rabbit.
+
+With a quick jerk, she pulled the limb off the poor creature. I winced more than the rabbit did. It stayed still, not even aware of its missing leg. I leaned back,
+
+"Ahhhh. Is that some kind of painkiller or sedative?"
+
+"Bingo. I asked Torix for some. This lets me practice my magic without having to listen to the squeals of the damn rabbit...and maybe I don't like torturing the thing either."
+
+"Yeah, maybe. How's it coming along?"
+
+Kessiah turned her wrists, showing cut marks down them. A few droplets of her blood lifted up spiraling into a central point. A few of Kessiah tattoos glowed as her hands shook. She grunted before molding the blood next to the rabbit's amputated leg. With delicate precision, she reconstructed the sinews and tissues that connected it.
+
+Over the next few minutes, she connected the bone again and joined the ruptured skin. After a bit more detail work, she reconnected the veins of the creature, and she even donated a tiny bit of health to restore the creature's health. All in all, it was a success in my books. Kessiah seemed to think the same as she let out a sharp sigh while leaning back,
+
+"Thank Schema I did it right this time. Here I thought I'd fuck it up again."
+
+I inspected her handiwork, finding scars and other markings on the creature, "Looks like you've been grinding it out, haven't you?"
+
+She rolled her eyes, "No, not really. I've been taking tons of breaks because this is so demanding. Still, I'm a hell of a lot better than I thought I'd be after a few weeks. Kind of scared though," Kessiah winced.
+
+I turned a wrist to her, "Torix and I found the last Skyburner base. I was hesitating to ask, but would-"
+
+"No," Kessiah sliced her hands across the air. "I'll get in the way. It's five times my level. I'll get slaughtered or end up getting someone else killed while they protect me. Sorry."
+
+"No need to apologize. I think this kind of work suits you better too, and we even need it as a team. Keep it up."
+
+"Yeah, I'll do my best," Kessiah took a deep breath, "Back to getting this down. I need to work on getting the nerves right. It's leg twitches after I reconnect the tissues...Shit, this is hard," she mumbled as I walked off.
+
+With two days of respite left before Torix returned, I set out on my own preparations for facing off against something catastrophic. The first priority involved safety for the others. With that mind, I took off my gray power armor before tearing out strips of my skin. It took gravitation enhancements and a series of quick jerks to make it happen for each piece.
+
+I was tough after all.
+
+With a pile of raw material to work with, I used Star Forger to melt the various strips into glowing globes of armor. At the same time, I sent messages to Althea and Torix for a series of measurements from them both. Using my memory, I guesstimated the average size of Krog and Chrona. It wasn't much of a guess though, because I used my Knowledge Maker skill. Photographic memory was a powerful thing.
+
+It wouldn't be perfect, but I planned on fixing that by lining their armors with various furs from Rivaria. By making the gear a bit too big, I could fill in the gaps with the soft lining. It had the added bonus of making them warm and comfortable as well. Two hours later, and I finished their main battle plates with their proportions in mind.
+
+After reviewing my memories for a bit, I recreated a series of jointed limb covers to add to that. By incorporating a set of interlocking chains, I made them easy to take on and off. I notched the joints as well, creating a series of interlocking plates that mimicked thickened scales. For their helmets, I created angled, aerodynamic bodies for them. This had the bonus of deflecting projectiles should they hit their head.
+
+Even with Star Forger, I struggled with the process. I was heavy as hell now, and that meant my skin was denser than lead as well. Of course, my added endurance made the metal incredible flexible and ductile too. This allowed me to keep the structures as thin as possible. I pulsed waves of gravity as well, making the internal arrangements of the metals all flow in the same direction. Otherwise, patches of the blackened ore would criss-cross in random directions. This made the overall structure more brittle.
+
+That was a serious problem considering the flexibility of the metal was its selling point. All in all, it took more than twelve hours of dedicated work, but I finished two sets of gialgathen armors. With the main work completed, I pulled out a variety of gemstones from my dimensional storage. I charged them with mana before setting them into sockets I welded onto the base. By creating lines of Schema's watered down version of the cipher, I created pathways for the mana. They all directed towards a large diamond at the center of their plate mail.
+
+This enabled better mana flow for the gemstones, which were brimming with my own chaotic, volatile mana. I added a series of supporting runic structures around these pathways, stabilizing the mana some. This would prevent them from going insane, or at least make it much easier for them. Considering the volume of mana and the gialgathens natural ability to draw ambient mana, they should be fine. We would be testing regardless.
+
+All the inscriptions created polygons along the surface of the plate mail. To reinforce the structure, I added the circular spell formula to the center of the polygons. After imbuing them with mana, arcane bonds distributed through the structures much like the mana bonds coursing through my flesh.
+
+To top it all off, I added a series of blades and claw reinforcers, adding some extra oomph to their slashes. I even finished a bladed exterior to the tip of their tail, allowing them to sever people with ease. With their added weaponry set, I sharpened each blade, making sure they weren't dull as could be. This required careful application of heat and slowly pulling tiny bits of metal from the edges.
+
+It was worth the effort. After a quick polish, the project looked professional. Well, as professional as my first time making gialgathen armor could look. I analyzed it, seeing what Schema had to say about it.
+
+A Corrupting Sunrise(lvl req: N/A | Race: Gialgathen | Size: Enormous | Type: Light) - Created from the condensed dimensional fabric, this metallic substance holds many properties that are advantageous to battle. When encased in this substance, the wielder's dimensional stability enhances, giving them resistance to attacks on the plane that the wearer stands.
+
+This acts out as dimensional resistance. The sheer toughness of the compound is remarkable as well, giving it far more durability than steel or even orichalcum. This applies nearly all known kinds of damage, from chemical to elemental, it matters little when putting this armor between you and the coming damage type.
+
+The effects are limited to just armor as well. The many ingrained gemstones can act as mana batteries, giving the wielder tremendous enhancements to their effective mana pool. At the same time, large injections of this mana will act as a stimulant, creating unnatural levels of ferocity and fury in subjects using this armor.
+
+It can even extend the life of the wielder, offering enhanced vitality and regenerative effects to those that wield this tool. Though potent, use these features with caution. The long-term effects of using this energy source are unknown. Likely personality loss and long term brain damage can be inflicted with continuous use.
+
+That being said, the protective properties come with nearly no drawbacks. For a gialgathen, this is an incredible tool to have in their arsenal.
+
+The Harbinger's Gift:
+
+[+100 Strength, Constitution, Endurance, and Willpower.
+
++50 Intelligence, Perception, and Luck
+
++10,000 health | +1,000 health regen/min
+
+-10% to Charisma | -10% to Mana Regeneration | +10% to Health Regeneration | 25% Dimensional Resistance]
+
+(Positive bonuses doubled if member of Harbinger's Legion | Does not stack with other items carrying a Harbinger's enhancement)
+
+2,000,000/2,000,000 Mana Stored
+
++50,000 Health | +1,000 Health Regen/min
+
+-10% to Charisma | -10% to Mana Regeneration | +60% to damage resistances
+
+Bonuses doubled for a member of Harbinger's Legion. Bonuses don't stack with copies of A Corrupting Sunrise. Excess mana is siphoned to Dimension C-138.
+
+The sheer quality of the materials used helped me a lot here. The flaws in my craftsmanship would become more apparent otherwise. It saved my ass in this scenario though. That's why the armor enhanced the health regeneration of the wearer so much. Since my own health regen was that high, it rubbed off on people wearing what I was made of.
+
+Overall, the armor took a full day of consistent grinding to make it happen, but it increased the gialgathens chances of survival dramatically. With that handled, I glanced through my messages and took note of Torix and Althea's measurements. I stripped more armor, melted it down, and set to work.
+
+For Torix, a thicker set of armor could be used. Of course, I kept the design light, but it wasn't entirely as necessary since Torix often warped across a battlefield. The gialgathens flew, so they needed something light. Armed with that insight, I focused on creating better joint structures for Torix. I figured as a lich, keeping his body together was the most critical task. It was much more difficult to cast without arms for example. It could be done of course, especially by a capable archmage like Torix. At the same time, why let him get crippled like that?
+
+So I spent more time on the joints of the armor than the rest of it combined. I created wire structures that flowed and crisscrossed through the slabs of armor. These wires all culminated at the joints, adding a chainmail kind of reinforcement on those specific parts. This took forever since I had to make tiny balls of molten metal and pull thin strings of armor from them. Otherwise, the wires were flimsy and easily broken.
+
+As the wire passed, I let it cool down by air instead of magic. This enabled it to be as flexible as possible. With the joints finally finished, I created the same supporting runic structures and mana augmentations. I used the absolute limit of my mana pressing abilities here, giving a temporary repulsion to the armor. If a giant fireball came at the wearer, it would sweep around them. In this case, Torix.
+
+I gave additional runic supports for the charged gems as well, helping ease Torix with processing my mana. With the framework finished, I added a few details like a skull mask and a crown of thorns. Considering Torix's penchant for dramatic flair, I felt it was fitting. I admired my work while inspecting the status. It had a few surprises.
+
+The Blighted Web(lvl req: 6,000 | Race: Bipedal | Size: Medium | Type: Heavy) - This protective wear is composed of condensed dimensional fabric plates and wires of the same material. Many of these wires reinforce the joints, creating a web of protective armor.
+
+Heavy yet functional, it ensures that its wearer will stay in one piece even under tremendous kinetic damage. Nearly all known damage types are mitigated as well, a capable mana press going so far as repelling most spells from even reaching the wearer. Many gemstones have been charged with volatile mana on this armor as well.
+
+Runic inscriptions aid the wielder in wielding the energy, but its a calculated risk to use it unless the wearer is very skilled and has excellent willpower.
+
+This nigh absolute protection comes at a cost, however - the armor is very heavy. Weighing in at nearly 3,000 pounds, it requires a high strength stat to walk around in. Think of putting it on a long range artillery mage or technician. Warping abilities prevent the armor from being impossible to wield as well, along with gravitational magics.
+
+All in all, it's an armor designed to protect and synergize with long range combat.
+
+The Harbinger's Blessing:
+
+[+65 Strength, Constitution, Endurance, and Willpower, Intelligence, Perception, and Luck
+
++5,000 health | +500 health regen/min
+
+-10% to Mana Regeneration | +10% to Health Regeneration | +25% Dimensional Resistance]
+
+(Positive bonuses doubled if a member of Harbinger's Legion | Does not stack with other items carrying a Harbinger's enhancement)
+
+1,500,000/1,500,000 Mana Stored
+
++75% to damage resistances | +75,000 health | +500 health regeneration/min
+
+It had a different kind of bonus then the gialgathen's armor did. It suited Torix more, though I'm sure the slight stunting of his mana generation was still a pain. Considering Torix focused on having a massive mana pool rather than regenerating it, I hoped it was worth it. Besides, the extra mana stored in the gemstones would more than make up for the difference.
+
+With the Blighted Web finished, I set to work on Torix's staff.
+
+It was easy enough to create a pole, but the jewel and runic work here was intense. Before doing so, I jotted down a few blueprints for the runic work in my grimoire first. After getting a plan down, I decided on an elemental augmenter and presence amplifier set of enchantments. Torix would no doubt be leading an army of silvers into the base with us. This would help him keep them under his thumb while giving his offensive presence a bit of a boost.
+
+Once finished, I used Star Forger to create impossibly small points of contact on the staff. These superheated dots allowed me to trace with unparalleled detail. Without my enhanced perception, I wouldn't even be able to see what I was writing out, to be honest. I did though, so it came out clean and crisp. I'd need to work on the design a bit more in the future, but it was good enough for now.
+
+With that finished, I carved into the top of the staff, creating many sockets for a variety of gemstones. Using some sapphires I found in a jewelry store back on Earth, I gave the stave a cold affix. By adding rubies, topaz, amethysts, and a rainbow of other gems, I enhanced every element I could think of, along with others I couldn't. It would take Torix a bit of practice before he could use it right, but it would be a powerful addition.
+
+With the elemental augmenter finished, I created a series of runes to enhance charisma and intimidation. On the inside of the hilt, I injected several emeralds into the supporting structure. Before I finished, Kessiah leaned out of her room,
+
+"Hey, can you cool this damn place down? It's hot as hell in here..."
+
+I facepalmed. Duh. I was turning this place into a furnace. I raised my hand, siphoning mana through my palm. After cooling the site, I set back to work. I finished embedding emeralds in the hilt of the staff, hoping they'd work well with the charisma enchantments. They 'cooled' mana somewhat, so charging them with my own wouldn't overload Torix. Most likely at least.
+
+After closing a few online guides about gem allocation, I finished the hilt. I kept it simple, giving it extra thickness so that it would be heavier. If Torix grabbed it near the bottom of the staff, he could change the angles better by manipulating its center of mass some. That's how swords worked, with the hilt of the sword often weighing as much as the blade itself.
+
+As the finisher, I put a citrine into the bottom of the staff. Around it, I created a series of runic carvings that altered the gravity of the stave. When mana charged into it, it would make the staff heavier. If Torix wanted to hit an incoming foe, he could lift the staff and channel mana into the construct. It would become a club at a moment's notice.
+
+It was a beauty.
+
+Elemental Elocution(lvl req: 6,000 | Race: Any | Size: Medium | Type: Heavy) - This is a heavy, durable staff embedded with several augmenters. First and foremost, it enhances the effects of elemental magics. Though taking time to master, siphoning mana through various gemstones eases the conversion of origin mana into various elements. This enables further power and intensity when wielding these kinds of offensive spells.
+
+The other augmenter is oriented around one's speaking ability. By enhancing the feel and voice of the wielder, it gives them a menacing aura. The last enhancer is simple yet effective: a mass manipulator. By channeling mana into the bottom of the staff, the density of the matter increases. This is useful when wielding the staff as a club as a last resort.
+
+Normally, a mage would never, under any circumstance, use their staff as a physical weapon. Most staffs are composed of woods that lose their strength and resilience within a few years. Given the unique nature of this staff's composition, that shouldn't be a problem.
+
+The Harbinger's Blessing:
+
+[+65 Strength, Constitution, Endurance, and Willpower, Intelligence, Perception, and Luck
+
++5,000 health | +500 health regen/min
+
+-10% to Mana Regeneration | +10% to Health Regeneration | +25% Dimensional Resistance]
+
+(Positive bonuses doubled if member of Harbinger's Legion | Does not stack with other items carrying a Harbinger's enhancement)
+
+500,000/500,000 Mana Stored
+
++50% to damage of elemental spells | +10% elemental piercing
+
+Unique Skill: Overwhelming Presence - only active while wielding weapon
+
+Like the armor, it gave the Harbinger's Blessing rather than the Harbinger's Gift. That was good considering it suited Torix far better than the previous one did. The different attributes would help him out more too, though they were lower overall. Considering I was more of a warrior than a mage, that made sense to me.
+
+With that finished, I turned towards Althea's gear. She needed something even lighter than the gialgathens. Fabric was an obvious choice, so I stuck with a flexible carbon fiber mesh we bought in Yildraza. After pulling dozens of long wires from glowing orbs of metal, I stitched the cables between the cloth. This added extra tensile strength, which was more important than the hardness of the armor. After all, she needed the ability to shapeshift.
+
+That's why I left plenty of slack for the wires, giving her extra space to fill out the jumpsuit. This took many hours, the stitching process inevitably taking ages. Without Star Forger and Force of Nature, I would've lacked the dexterity in my hands to perform the task. Since I could hold the cords with minuscule gravity wells, it made the process possible though strenuous.
+
+I was overjoyed to be finished with the reinforcement process. Since Althea's mana management wasn't as reliable as the others, I kept the runic inscriptions simple. I added thin plates to several spots on her upper arms, forearms, and back. These were stabilizing measures, for the most part, helping her focus in a fight.
+
+Without magic being her primary defense, I added obsidian vials across the back of her plate armor. These would act as storage devices for various alchemical compounds she could inject into herself mid-battle. Althea used these kinds of compounds before, having many tranquilizers in her suit when Torix and I found her. It wouldn't take a leap in logic to assume she knew how to handle herself around a few stimulants as well.
+
+Considering Schema had no problem with chemical compounds, it would be a huge boon for her in the fight. The A.I could care less as long as it helped with handling eldritch after all. I'd use them myself, but my health regen stunted their effect on me. By the time any potion or chem worked its way through my system, my metabolism would've disintegrated it. Fortunately, Althea's health regeneration was much lower than mine, giving her access to these kinds of tools.
+
+So I set a few stronger potions and compounds onto the top of her armor. We'd bought some of these in Rivaria, but most of them I got from Caprika. Her family had dozens of connections, so having her ship in a few of the stronger 'medicines' wasn't a problem. Learning some alchemy on my own wasn't a bad idea, and I had some knowledge of basic chemistry. I added it to my to-do list before getting back to the matter at hand.
+
+After adding in a few metal canisters for the more volatile composites, I finished Althea's protective gear. It was decent.
+
+An Everchanging Remedy(lvl Requirement: 5,000 | Type: Bidpedal | Size: Medium | Type: Light) - This nano-fiber mesh has been reinforced with dimensional wiring, enabling both flexibility and lightness in combat. Through intelligent design, this protective gear is also flexible, enabling the shifting of the wearer's body. Combining the protection of power armor with the lightness of kevlar, this is an excellent body armor for any mobile combatant.
+
+Two other features were added outside of these designs as well. The first involves runic enhancements that increase the balance of the wielder. The second feature is a set of injectors that allow the wielder to push potions and stimulants into the blood mid-fight. This dramatically enhances the potency of whatever liquid is administered.
+
+These traits create an adaptable suit of armor for adapting combatants.
+
+The Harbinger's Gift:
+
+[+100 Strength, Constitution, Endurance, and Willpower.
+
++50 Intelligence, Perception, and Luck
+
++10,000 health | +1,000 health regen/min
+
+-10% to Charisma | -10% to Mana Regeneration | +10% to Health Regeneration | + 25% Dimensional Resistance]
+
+(Positive bonuses doubled if member of Harbinger's Legion | Does not stack with other items carrying a Harbinger's enhancement)
+
+Potions stored: Eagle's Eye, Hurricane, Hastening potion(tier III)
+
++15,000 health | +1,000 health regeneration/min
+
++40% to damage resistances
+
++50% to effect of aiming and balance skills
+
+Just like the rest of the gear, the Harbinger enhancement was its biggest selling point. It still gave reasonable tankiness enhancements though, and it was light enough to use. With that finished, I moved onto her weaponry. That would be the most critical aspect for Althea anyway given her skill set.
+
+Her first new weapon was a smaller rifle. Considering she was over level 5,000 now, I'd outdo her current design by a certain amount. I molded out a cylinder by shifting my skin like a liquid. This was far simpler than trying to shape the metal on my own. Instead of snapping it like usual, I heated the connection point of the cylinder and my own body. This allowed me to disconnect it without risking a crack through the structure.
+
+With some time saved, I etched dozens of precise enchantments along the barrel. Most of these were mass reducers and accelerator enchantments. They would lower the mass of the bullet until it left the barrel, allowing it to be fired faster. Since they would affect the bullet instead of the rifle itself, I added diamonds across the upper structure as well.
+
+The reason was diamonds were more durable than most gems and could store more mana. This would reduce the load on Althea's mana reserves, shoring up one of her weaknesses.
+
+After finishing the barrel, I created a series of open set pieces for the surrounding stock. Althea needed tiny openings so that she could mold her arm into the barrel. Otherwise, she wouldn't gain the benefit of her armor piercing abilities. I kept that in mind, lightening the overall weight of the rifle while making it more accessible at the same time.
+
+Star Forger made a world of difference here, giving me a greater shaping ability than ever before. Without as many restrictions on my handling of the material, I went all out with the efficiency of the design itself. Thinner, sleeker, and more polished, the product came out without any apparent flaws. It felt good to actually add something to the work of Diesel for once since I wasn't held back by my previous restrictions.
+
+I assembled the pieces together, lining the various sections with rough diamonds that my miners back on Earth dug up. Polished and pretty pieces weren't necessary since they were just holding a ton of mana. I kept the enchantments oriented around the gun rather than the wielder though. This meant Althea wouldn't need to mold the mana on her own. She would just need to come to me anytime she needed this recharged.
+
+I already kept a series of blueprints for most of the enchantments in my grimoire previously. I made my adjustments subtle, not wanting to exceed Althea's level cap. The goal would be a requirement of level 7,000, something Althea reached during her weeks in Thisbey's ranks. She thinned out a few of the more scrupulous members during her stay there, taking out key targets of the revolutionaries.
+
+As the last adjustment, I added a removable lengthener to the barrel. This would allow her to adjust the piece into a sniper rifle at will. Considering we'd be fighting indoors and in an ocean of sorts, a shorter barrel was better. Still, it never hurt to give her extra options. Just as well, I made a mass amplifier at the back of the stock too, letting her use the weapon as a makeshift club. She'd make better use of that than Torix likely would, so I figured why not.
+
+Knowing melee combat was inevitable, I created a bayonet for her rifle, keeping the blade dull as a butter knife. I didn't sharpen it since she'd mold her arm over that part and create the blade herself. It would be superior to any edge I could create given her armor piercing.
+
+The weapon was the best piece of gear I'd made yet. Practice makes perfect after all.
+
+The Wake of Destruction(lvl req: 7,000 | Type: Rifle | Size: Medium) - This is a highly modified railgun that uses a series of mass manipulators to enhance the speed of the bullets fired. In this case, it fires harpoons instead of bullets, giving the gun excellent stopping power.
+
+This weapon isn't limited to just enhancing the bullets, however. A built in battery system composed of durable diamonds increases the wielder's deft and handling of their mana. This in combination with the accuracy and precision enhancements make the item devastating in combat.
+
+This devastation isn't limited to a range either. The rifle itself is hard, heavy, and dense enough to be used as a makeshift bludgeon. Another mass manipulator in the stock allows the wielder to enhance this effect further, making it even heavier than it would otherwise be. A bayonet attachment gives the wielder slicing potential, giving access to multiple damage types as well.
+
+These factors combine into an effective killing weapon designed with practical use in mind.
+
+The Harbinger's Gift:
+
+[+100 Strength, Constitution, Endurance, and Willpower
+
++50 Intelligence, Perception, and Luck
+
++10,000 health | +1,000 health regen/min
+
+-10% to Charisma | -10% to Mana Regeneration | +10% to Health Regeneration | + 25% Dimensional Resistance]
+
+(Positive bonuses doubled if member of Harbinger's Legion | Does not stack with other items carrying a Harbinger's enhancement)
+
+500/500 railgun shot enhancements left in mana reserves
+
++200% to critical hit damage
+
++100% to shot speed
+
++75% to accuracy and precision of shots
+
+The speed of the bullets would enhance the damage she dealt considerably. Considering we might be facing another hybrid of sorts, the added oomph made a massive difference. It would work well for her.
+
+With that handled, I created a chain for her, ending in an elongated blade. This enabled Althea to extend the range of her melee combat. Considering we might fight another hybrid, that distance was a priority. At the same time, this melee weapon needed durability, so I stuck with chains instead of fabric or whip. Althea was ridiculously strong after all.
+
+I kept the hilt relatively heavy for this weapon too, ensuring she could snap it about with relative ease. This weapon might take training, however. She could easily whip herself with it, and for Althea, that would splatter her across a room with no effort whatsoever. That's why I ended up adding a bayonet to the actual rifle itself.
+
+A Dark Prison(lvl req: 5,000 | Type: Chain and Blades | Size: Medium) - These pitch black chains end in blades, designed to be whipped at a moderate distance. Heavy and unwieldly, these weapons require extensive training in order to prevent self harm. If mastered, they allow for multiple styles of combat.
+
+Simply wrapping someone in chains and squeezing can be deadly if applied with enough force. Considering the strength required to wield this weapon, that should be a given if the wielder can swing A Dark Prison. The chains also allow the wielder to tie up melee combatants, giving them a measure of control against rushing foes.
+
+At its most extreme, the wielder can use the blades themselves at the edge of their range. This is difficult for many reasons. The chains create a delay as the blade lags behind in the swing. Knowing the exact distance of the weapon is also challenging. Those factors aside, the leverage and whip this weapon can create is intense, allowing the condensed dimensional fabric to slice almost any foe.
+
+Use with caution.
+
+The Harbinger's Gift:
+
+[+100 Strength, Constitution, Endurance, and Willpower.
+
++50 Intelligence, Perception, and Luck
+
++10,000 health | +1,000 health regen/min
+
+-10% to Charisma | -10% to Mana Regeneration | +10% to Health Regeneration | + 25% Dimensional Resistance]
+
+(Positive bonuses doubled if member of Harbinger's Legion | Does not stack with other items carrying a Harbinger's enhancement)
+
++300% Critical Hit Damage(with blades)
+
++50% Critical Hit Damage
+
+It would make for an interesting long term project for Althea, though she wouldn't use it in the upcoming battle.
+
+With all those various designs finished and piled into the corner of the main room, I got to training. By the time I had a set of goals planned out Torix and Althea returned above our base. Not long after, Chrona and Krog arrived as well, both of them suited up in Skyburner attire. I gave them the location and told them to take a roundabout route here. Given our recent targeting by an assassin, they respected my wishes.
+
+As I walked up, I introduced the two groups, letting them get to know each other a bit. With that finished, I created a hole in the center of our base, allowing Chrona and Krog to come in. Once inside, I bragged a bit about my constructive ingenuity, really soaking up their compliments. It was nice to be lauded for something else besides my ability to smash faces.
+
+They reacted particularly well to the armor and gear I made them. I suited them up, showing the gialgathens how to put the gear on and seeing how it fit. It was a bit too loose for Chrona, though my model fit perfectly on Krog. I mentioned the fur fix and how it would make her more comfortable, to which she rubbed in Krog's face. Even ancient frog dragons could be petty. Go figure.
+
+The best part of the meetup was seeing Althea though. She ran up, and I lifted her up in a circle, both of us smiling at each other. It made Krog gag and Chrona swoon. I couldn't care less about what they thought. I wasn't here to impress anyone, outside of my crafting ability.
+
+With our reunion settled, we drafted up a few battle plans for the operation. Althea and Torix would sit in the back, offering potent spell support and suppressive fire. Krog and I would be the vanguards, running in front and smashing skulls in with our melee potency. Any targets we missed, Chrona would catch by creating her time fields in the middle of our group.
+
+She was the key to our formation. She'd slow down any attackers that got passed Krog and me. On the other hand, projectiles and the like would get slowed down in her time dilation field as well. The temporal area acted as a potent offensive and defensive utility in that way, adding security to Althea and Torix. Should someone manage to pass both our lines of defense, well, Althea could handle herself up close. That much was certain.
+
+Atop of all these advantages, Torix collected an army of lower level silvers as well. This unnerved the two gialgathens at first, but after a few illustrations of Torix's dominance in the matter, their fears wisped out. With so many layers of strategic defense, this would enable Torix and Althea to unleash the full fury of their offensive abilities.
+
+Any single targets would get decimated by Althea's Breaker abilities. Tiny swarms would fall to the aoe and armies of Torix. It was a potent offensive core for our entire team, instilling confidence in us. Our defensive unit wasn't anything to scoff at either. I offered tremendous disruption with my gravity magic, and any prolonged conflict would favor me. That made our long term prospects much better.
+
+Krog's illusion magic wasn't to be undermined either. All in all, I almost felt sorry for whatever it was we'd be fighting. Almost.
+
+With our plan assured, we took the next two days to try out the gear I made and execute a variety of tactics. While we were in a hurry to destroy whatever it was in the Skyburner base, rushing in and dying was idiotic. That's why we took this time to develop our plan and execute on it in a few silver dominated territories. Getting to know each other was an added bonus, strengthening the cohesion of the group as a whole.
+
+Once we got to a certain level of fluidity, I even gained a new skill. Hallelujah.
+
+New Skill gained! Teamwork(lvl 5) - Others fight alone. You fight with others as one. Adds better application of team strategies when fighting with others. Effect dependent on level.
+
+It was a nice boon, giving me the ability to synergize with Chrona and Krog more. I even enhanced some of their movements with gravity wells, extending my own gravitational enhancements to them. Though difficult, it gave them crisp movement and unnatural dexterity. Hard to match a gravity-defying maneuver, especially when that literally describes what we were doing.
+
+With everything in place, we headed out with over a week left before my final match in the tournament. As we flew over Giess, Chrona and Krog described various wildlife and Fauna. From hallucinogenic flowers to soul stealing antlions, they expressed a medley of odd yet fascinating facts. I never knew that ice hydras enjoyed mating with fire drakes. It was like how lots of girls enjoyed dating a bad boy even though they knew they shouldn't.
+
+It made the trip more enjoyable than it had any right to be. By the time we reached the sludge ocean, we'd passed the acquaintance phase and were approaching full-on friend status. And not in the Facebook sense either.
+
+Once we passed into silver territory though, Krog and Chrona sobered up quickly. Even though they were much stronger than any silvers, they feared quite a few of the parasites among them. The Yana worms, in particular, struck fear in their hearts. The idea of losing your mind to brain-eating worms was worrying no doubt, but it wasn't any worse than getting eaten.
+
+They cleared up my misconception at that point. Way back in gialgathen's history, yana worms were used during interrogations. They weakened the mind of their host, making them susceptible to deception. At some point, you could almost enslave the host, turning them into a thrall. Maintaining that kind of balance of Yana worms required routine surgery to remove excess worms, however. This made long-term enslavement impossible.
+
+At the worst stage of this mind destruction, a gialgathen could be convinced to kill their family, however. To most, that was far worse than death, to which I had to agree. The practice of using Yana worms in this manner died out centuries ago, but the scar remained. It was a lesson to arrogant gialgathens about the potency of silvers.
+
+Of course, not all gialgathens listened, but it was harrowing nonetheless. They described a few other parasitic creatures as well. One variety of fungus would graft onto the lining of their lungs. This is where its name, Hollow Lung came from. Once it ate through the sensitive tissues and grew to a certain size, the fungus would attain sentience.
+
+The fungus would then threaten the host to spread its infection or else die. Entire cities of gialgathens had fallen to this infection before, controlled through the organ replacing fungus. After a few more horror stories, it made me wonder how the hell the Skyburners survived in the middle of silver territory. Krog explained that this kind of thing happened to the stupid and unwary for the most part.
+
+That was why they were so wary. Made sense to me.
+
+It took two days of flying and carrying sleeping people in gravity wells before we reached our destination. It took so long because of the aforementioned rests, but also because Torix's army of silvers was relatively slow. Merjects were excellent swimmers in the sludge. Engorgs? Not so much. Torix had it balanced out so that swimming silvers and flying silvers could carry their less mobile cousins though. Even then, it took quite a while before we got to our destination.
+
+That's where we found ourselves. Surrounded by an endless sludge ocean and thousands of subservient silvers, Chrona and Krog flapped their wings. The wind of their flight sent waves of sludge across the sea. Yellow egg rafts floated over these ripples, sending merjects into a frenzy over their young.
+
+Althea floated in place with her legs crossed, she and I carried in my gravity wells. Torix stood over his black mana cloud, looking like a menacing overlord with his new armor set. He quite enjoyed the crown of thorns in particular, mentioning it as a nice touch. With our group of five ready and waiting, Chrona sent out a telepathic wave to everyone,
+
+"Though I enjoy floating over toxic oceans as much as anyone, how are we to reach the bottom of the ocean here?"
+
+I cracked my hands, "Leave it to me."
+
+Using a vast reservoir of mana, I created a colossal antigravity well over us. At the same time, I generated a denser but smaller gravity well at its center. This counteracted the core of the antigravity well, but the edges of the magic stayed intact. With everyone in its center, we hovered down to the sea of sludge.
+
+It was time to destroy the final Skyburner base.

@@ -1,0 +1,381 @@
+---
+id: 9faf6866-d8bb-5a30-9696-5c87ad6285cd
+page-type-slug: story-chapter-royal-road
+title: "The Path of Ascension Chapter 248"
+slug: 0035-the-path-of-ascension-chapter-248
+partOf: the-path-of-ascension
+position: 35
+ownLength: 5743
+unit: words
+ownProgress: 5743
+publishedAt: 2023-08-07
+link: "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/1303000/the-path-of-ascension-chapter-248"
+royalRoadId: "1303000"
+markedReadAt: "2026-06-29T19:18:41.324Z"
+---
+
+Chapter 248
+
+Matt and Liz rushed forward to go and meet up with Aster, who he could feel approaching them. She had most certainly skipped the lines and identity checks given the speed she was moving, which would result in a number of fines, but he really didn’t care about that right now.
+
+Aster was home, and that was all that mattered.
+
+It took them almost a minute to weave through the walking people, but eventually, Matt saw the head of white hair with fox ears bobbing and weaving through the crowd, and he knew they had found her.
+
+As the crowd parted, Aster sped up and threw herself into his and Liz’s waiting embrace.
+
+They held each other for a few long moments before they all pushed back and got a good look at each other.
+
+Matt was slightly emotional seeing the amalgamation of his Folded Reflection sister in this Aster, but it was in the best way possible. It was his little sister with a few additional parts.
+
+Namely, the ears and tail that hadn’t stopped wagging.
+
+“I’m so glad to be back together with you guys! Oh, it felt like forever! Where are we staying? Did you just drop the house or rent somewhere?”
+
+Matt laughed as Liz shot a glare at him. “Matt didn’t want to rent, and the lots of land here are booked for a while. So we’ve been bumming it at a tea house for the past two days.”
+
+Aster laughed as Matt shrugged. “I figured we’d be immediately leaving once you arrived. Luna has had us running missions like madmen for the last few years, but she’s been absent the last few days.”
+
+They all looked around, as when comments like this were usually said, Luna would appear and comment how she was always watching, but nothing happened to that effect.
+
+Aster's fox ears twitched and swiveled. “I hope she’s ok… Could she have gotten sick?”
+
+As if summoned, Luna appeared but looked both worried and haggard. “I’m not sick, just incredibly busy. Let’s get moving. I can give three of you two days off to enjoy your reunion, but then we leave. We need to get all of you to Tier 16 sooner rather than later, at least if the three of you still intend to push forward. At this point in training, managers generally back off so your personalities can shine through. Instead, I push even harder, so long as you’re committed to going the distance.”
+
+Hearing the implied question, none of them agreed to step off and Aster even perked up and pulled out a small notebook and pen. Matt half figured she was pulling a prank on Luna, but she honestly looked ready to take notes.
+
+Luna didn’t seem insulted, but she also looked so distracted that Matt wasn’t sure she had even noticed. “Ventillyria is our destination. It's a good Tier 22 world that we can more easily get rift access in.”
+
+Liz opened her mouth to speak, but Luna’s eyes narrowed, and she shook her head. “Stick to this city and keep your masks on. I’m keeping you three covered but don't do anything stupid.”
+
+With a parting glance at the three of them, their manager vanished as suddenly as she had arrived. Matt took the opportunity to look at Aster's notebook, which had actual notes about Ventillyria and a few doodles drawn on the edges.
+
+Flipping it shut, Aster grumbled just loud enough for them to hear, “Stupid cat probably has a hairball or something.”
+
+Matt smirked, and Liz raised an eyebrow as she linked arms with Aster as she turned to leave. “Someone knows about that, do they?”
+
+Aster mock gasped. “I would never! I’m dignified, enlightened, and an elected official. I would never vomit in someone's smelly boots.”
+
+Matt smirked at the memory. “You really hated those boots.”
+
+Aster’s tail started smacking his and Liz’s thighs as she let her excitement get the better of her.
+
+“Oh, it's so good to be back with you guys!”
+
+Matt slipped out of the arm lock and pulled Aster into a one-armed hug. “It's been rough without you.”
+
+When they were out of the crowded spaceport, Liz pushed Aster to arm's length. “I like the dress. It's cute. Are you going with dresses mostly?”
+
+Aster twirled, and the flowy sundress-like thing spun with her. “Not normally. The tail is great to have, but gets in the way of anything that isn't low-waisted or made with it in mind. So I'm usually rocking pants for the ease of use.”
+
+Liz nodded, but Matt asked about armor. “Did you get armor made?”
+
+Aster laughed. “I did. And it's quite good. A Tier 17 set of plated leather. It even protects my tail.”
+
+“I can look it over if you’d like. I haven’t had as much time to learn higher Tier runes as I'd like, but I’m passable.”
+
+Liz tsked. “He’s being modest. He’s actually gotten really good.” In a false whisper, she clarified, “Or rather, his [AI] is good. Mom and Dad got him the real skill, and with his stupid mana generation, he’s been putting it to use.”
+
+Aster laughed again. “Oh, I can't wait to hear about how mad that’s made Luna. I bet she was ten kinds of pissed.”
+
+They continued to chat until they reached a hotel Matt had found with a vacancy and got a suite of rooms. Matt expected they would end up waiting around for Aster to get settled in, but after changing into a nicer set of clothes, she was ready to go right back out the door.
+
+“Let's grab dinner! I want you to cook me a rabbit dish when we settle down, Matt. Yours is the best, and believe me, I’ve tried half the businesses that serve rabbit on The Nest.”
+
+“I think that’s mostly the taste of nostalgia, Aster. I’m decent at best, but I’ll happily cook for you. So tell us about what you have been up to. We got and watched all your messages, but it's not the same as hearing it in person.”
+
+With his agreement, Aster seemed happy enough to chatter about her friends and adventures in the Beast Academy.
+
+Liz was extra interested when Aster mentioned Alyssa and how she was doing.
+
+Liz flicked a rib onto her discard plate with a sigh. “I should have known that she would rise to the top of that sewer.”
+
+Matt had a mouthful of cornbread, and Aster had taken the pause in her narration to shove an entire husk of corn into her face, so he took the hint and grunted out a questioning noise.
+
+Liz thankfully understood and elaborated. “Well, shit floats, so of course she would rise to the top.”
+
+Aster choked on the rib she now was gnawing on, and Matt couldn't help but cough so hard his eyes watered from the unexpected answer.
+
+Liz was unrepentant. “I’m telling you guys. The entire beast academy side is full of elitist assholes.” Liz nodded to Aster and continued, “The bond side sounds a million times better, but the other side is all about who can kiss ass more. Who can earn more Feathers? Who can suck up to Mom by being nice to me? Alyssa would fit right in.”
+
+Aster, who finished her glass of beer, nodded. “They tried to make us walk like a dozen miles when we had a meeting. I just kept spam pinging their side until they initiated a teleport. Did you know their palace is huge and made of high Tier materials, while the bond side has to deal with a friggin’ office building? It's unfair, I tell you!”
+
+Liz cocked her head in confusion. “Didn’t they repair the building yet?”
+
+“What?” Aster looked genuinely confused, which prompted Liz to explain.
+
+“Mom said when she was at the academy, she burnt the nice place they had down, so the student council had to move into a temporary office building. You would have thought they would have built a new building by now.”
+
+Aster twitched several times before reaching out like she was going to strangle someone. “I’m going to roast that chicken someday. That building sucked! It had a perpetually drafty window that always leaked. I built a wall of ice in front of the window, and it still managed to leak.”
+
+Matt looked at the barbecue chicken leg he had been eating and pondered out loud, “How would you cook a phoenix?”
+
+That earned him an interested look from Aster and a disgusted look from Liz. “What? Don’t look at me like that. I know how to cook other firebirds, but it's damn hard, as their flesh is obviously resistant to flame, so you need a shit load of heat. The problem is, once you reach a certain heat, the meat will quickly burn. Phoenixes are even more resistant to flames and have regeneration. It seems like it would be really hard to cook one of them… I’m just saying.”
+
+Liz shook her head slowly. “Thinking about how to cook your wife. That's messed up on so many levels.”
+
+Aster tapped a finger on her lip before cleaning it off. “What if you froze the meat first? I know that's how you cook flame halibut. It's got something to do with breaking the resistance to heat.”
+
+Matt nodded. “That might work, but you’d need to be careful extinguishing it. That would ruin it and you might as well just eat a normal bird.”
+
+Seeing she was being ignored, Liz dug into their table of food until the conversation naturally drifted back to one of their missions.
+
+“I was so impressed you fought a Tier 19, Matt. I wanted to brag to my friends so badly. One of the lion twins hates Quill, by the way, so we definitely need to set up a meeting between you two before we go public. It will twist the knife so much deeper.”
+
+Matt laughed at the idea. “Yeah, Quill gets annoying to play, let alone deal with, so I agree with her. It's fun for, like, the first week. But after that, it's awful.”
+
+Luna had said she would protect them from eavesdroppers during this dinner, so they were more free with their words than usual.
+
+Aster turned to Liz and waggled her ears and eyebrows. “Also, Kelly loves Torch. She’s a super huge fan. Has like ten Torch shirts. Her heart only burns for Torch.”
+
+Liz went to facepalm, but seeing how dirty her hands were, she just went back for another helping of food. “I swear, when we go public, I’m going to publicly drench a Torch shirt in blood to kill that stupid trend.”
+
+Aster shook her head. “No way, you can’t do that. It would become a collectible at that point. Actually, you should do it; then we can auction it off for a ton of money.”
+
+That suggestion almost turned Liz into a fireball right then and there, and the two bickered back and forth until another round of food came in. Their conversation eventually turned into familiar territory, and they just chatted about what they wanted to do in the next two days.
+
+Aster wanted to hit a spa as a human, and the two of them happily agreed, so they booked themselves a joint massage and body work treatment for the next morning.
+
+They all chose to actually sleep a little, and when they woke up, they found Aster back in beast form, flipping through the channels on the suite's screen.
+
+Liz seemed to take that as an invitation, and turned into her bird form before jump-flying over to Aster. The fox seemed surprised when the mass of hot bird fell onto her as she started to wiggle.
+
+“Noooo! Not the heat! Not the ash! I just cleaned my fur! Matt, help! An evil being is trying to melt me!”
+
+Liz squawked, “Take it back! I’m super cute.”
+
+Aster, who had freed herself after a few failed wiggles, shook like she was trying to get water out of her fur. “Nuh-uh. Look at me; I’m cold and pretty. Clearly, foxes are better.”
+
+When her tail playfully smacked Liz in the wing, Liz reared up and started smacking Aster with her wings.
+
+“Phoenixes are clearly the better bird.”
+
+“Yeah, but who wants to be a bird when you can be a fox?”
+
+As the two argued, Matt tuned them out and went to pour himself a bowl of cereal. He was only three mouthfuls in when two disheveled beasts arrived at the table.
+
+They just stood there looking at him.
+
+Looking at his cereal and back to the silent duo, he sighed before pouring them each their own bowl.
+
+“You two could have done this yourselves.”
+
+Aster looked at her paws, and Liz looked at her wings at the same time. “How?”
+
+Matt just rolled his eyes. “Clearly, it's impossible. I apologize profusely for my idiotic comment.”
+
+That earned him a snort from Aster which he took as a victory.
+
+When he was getting up, Aster transformed back into her human form before racing off. “I’m taking a shower first.”
+
+Sighing, Matt went to take Aster's emptied spot in front of the screen, where Liz flew over to join him still in bird form.
+
+An hour later, Aster had just exited the shower that Matt didn’t miss was covered in a layer of rapidly melting ice.
+
+He was going to take his own shower when Liz flew in before him. Dropping back to the couch, Matt started flicking through channels until he found a movie he liked and watched the last half hour. When it ended, he returned to flicking through the channels, eventually landing on a local news station that had an urgent red banner rolling as the anchors talked quietly amongst themselves.
+
+The banner just said standby, and he was going to change the channel when Luna appeared right behind him.
+
+“Stay on it. Liz, Aster, come out here now.”
+
+Matt was just as confused as the others, but when they all sat on the couch, he felt an ominous feeling washing over him.
+
+Luna sighed. “Word just got sent out through military channels that Light and Shadow are completing the Path.”
+
+Matt felt like he had been hit with a poleaxe as he whistled.
+
+Aster said what he was feeling. “Oh, shit. Already? That means they finished The Path in what? A hundred and eighty years?”
+
+Luna nodded. “We knew this day was coming soon, but I wasn’t informed as to precisely when. This changes some of my plans, but I suppose I just have to deal with it. It's also why I’ve been so frazzled the last few days, this was a surprise to everyone.”
+
+As the news anchors bantered lightly, Aster brought out a small bucket of skills and assorted valuables. “Oh, and I got some cool stuff from graduating from the Academy. It’s mostly utility skills, nothing super fancy, but the amount of thought put into it is really nice. Let’s see, there’s [Create Mud] with a booklet on how to modify it to make clay for pottery practice. There’s [Damp Hands], though I’m not sure I’ll take that one, and a few more skills for pottery. Ooh [Layers] is a great drawing skill, too...” Matt had raised an eyebrow at that one. “It lets you draw on different magical layers, shifting, merging, or erasing them, before you release the spell and your sketches are finalized on your paper. [Mechanical Motion] is another good one, great for drawing the same thing over and over. You have that for enchanting, right Matt?”
+
+At his nod, Aster continued, “There’s a few of the cheaper sword skills-.”
+
+“Aster, you’re not going to use a sword. Not in a real fight. I’ve been to the academy. I know the sparring club you were in and while it can be fun and can teach good skills, you don't have the cultivation to actually use any of those skills in a real battle.” Luna chided.
+
+“No no, I get that. But some of the skills look so cool, especially the impractical ones. And I have plenty of slots in my outer spirit, so what’s the harm? Anyways, here is the shining jewel of the bunch, worth more than all the others combined.” Aster held up a pair of skill shards that had actually been polished.
+
+From the theatrics, Matt assumed this would be some of the cracked skills from King Frederic. Possibly some unbelievably great ice skill for Aster. Maybe even a powerful winter ability.
+
+“[Toucan’s Tongue], which enhances the taste of fruit and berries! I got one for each of you. It's a really nice skill,” Aster exclaimed, even as she shoved the skills into their hands.
+
+Luna rolled her eyes as Liz and Matt laughed, and Aster continued, “It looks like I got my skills from Fred-.”
+
+“King Frederic,” Luna said.
+
+“From Fred. [Black Ice] and [Cracked Ice Canopy], the first is a real aurora spell that makes my ice, air, and winter spells harder to notice through exotic senses. The second is a good support skill, summoning an ice aspected mana barrier around a target, with the crack letting it work on summoned entities too. Both of the skills were very thoughtful, I’ve already sent him a thank you card and a fruit basket.”
+
+They talked about Aster’s new things for a while as the reporters went over the comings and goings of celebrities and politicians. While Matt was inspecting a nice air magic wand from Aster’s graduation gifts, a breaking news banner appeared over the screen.
+
+“Word is that Light and Shadow have just finished the ceremony to complete The Path of Ascension, and we should be receiving the transmission packet any moment now.”
+
+It took a few minutes of building tension, but then, the male anchor started narrating as a highlight reel started showing parts of the ceremony.
+
+Light and Shadow walked down an aisle in the throne room in ornate outfits while the Emperor and all the Royals watched on. Then the video jumped forward slightly until their masks melted away and revealed their real faces.
+
+The news anchors had something to say there, but Matt had missed it as he studied the two.
+
+Light, or Zack Varon, as was apparently his real name, was an ordinary man who could have been a run of the mill mortal on half the Empire worlds. He had lightly tan skin, brown hair, and brown eyes. The man was utterly unremarkable.
+
+Shadow, or Allison Spein, had gone a little too far on the body modifications, though Matt couldn’t be sure if they were part of a mask or her real body. Her eyes were swirling pools of violet and blue, and her skin was practically jet-black and covered with white freckles in the shape of famous constellations from all over the Empire. Even her hair, as short as it was cut, was a riot of grays, silvers, and blacks. And with each step that she took, her hair bounced and created a tapestry of shifting shadows.
+
+She had really leaned into the shadow motif.
+
+Now that he had seen them, Matt would bet every penny he had that Light and Shadow had swapped personalities when under the mask, like he and Liz modified theirs. There was no way someone as deliberately and intentionally bland as Zack had come up with half the colorful things he had been quoted saying in the past. His spirit was far too no-nonsense for that.
+
+Allison, even with a carefully-schooled expression on her face during the entire ceremony, positively radiated fun and mischief.
+
+Together, the four of them sat in silence as the news anchors cheered and clapped.
+
+Matt knew what was coming next, and figured the two immortal news anchors did as well, but they seemed carefully reserved.
+
+Light and Shadow completing the Path meant that war was upon them.
+
+The video replayed the envoys declaring war and the female anchor nodded. “As we feared, but predicted. Everyone please remain calm. The Empire has known this would happen and is well prepared. Our planet is far from the borders, but don’t worry, even if you have family there. These conflicts can last hundreds of years, and no one will interfere with the mortal populations. If you want more information about the war, we will have twice daily updates morning and evening. But if you follow our sister channel, they will be dedicating themselves to the war coverage day and night.”
+
+When there was a pause, Aster sighed. “Damn it. Why did it have to happen so soon?”
+
+Liz nodded along. “They’re also so casual about it. Sure, this planet is far away from the frontlines, but there is no reason for them to brush it off.”
+
+Luna raised an eyebrow. “If you think that was casual, look at the Tier 35 plus channels.”
+
+The screen in front of them changed and another pair of reporters were on the screen. They seemed to be watching the highlights as well, but when the video turned to the envoys declaring war, the anchors laughed.
+
+“Well, it's about time. We haven’t had a good war in a while, and our boys and girls deserve to get their hands bloody. Push back the invaders and earn unmatched glory and honor! When I was Tier 25, I killed dozens of those Republic weaklings. Anyone who dies before them is worthless.”
+
+The male anchor nodded as his counterpart spoke and then touched his ear, interrupting her. “We are getting reports from the Watchers about the first engagements. Viewer discretion is advised for the content going forward, it’s going to be fucking awesome.”
+
+After a pause for people to turn away, the screen changed to show a smaller planet that was turned into a giant fortress. It looked all so peaceful until the ships appeared out of nowhere and started opening fire.
+
+Mana cannons fired bolts the size of buildings just to splash on the planet's shields. The anchors cheered, but Matt just felt sick.
+
+That was an enormous amount of resources being spent as both sides started firing upon each other.
+
+Ships were blown into chunks of nothingness, and many people died, but the anchors laughed and cheered those who scored kills on the Sect attackers. They, or rather the Watchers, were keeping score of each attack and its result, and the news anchors commented on the rising and falling of merit earned.
+
+When the battle settled into simple probing attacks, the anchors returned with beaming smiles. “There you have it, people. The first attacks of the new war. Subscribe to stay tuned for all the war-related information on our sister channel, Ribble 2. They will have dedicated themselves to the war until its final attack, so get ready for more blood and glory. Betting channels are also opening up as we speak. I already have a bet on how soon until we see Light and Shadow, so join me in adding a little excitement for this fight.”
+
+Matt felt sick at how they treated the fights. In comparison, the Tier 15 network they had first seen treated things with great solemnity.
+
+Liz asked the question he wanted an answer to. “Is there an information source we can get that doesn’t treat this like a game, or like it doesn't matter?”
+
+Luna shook her head. “Mostly the lower-Tier networks, particularly mortal ones, treat the war more seriously. I don’t advise relying on them, though. Remember that for most intents and purposes, this is a game. There are rules, and the destruction is kept outside of inhabited areas. Ascenders are half soldiers and half celebrities. The stakes are real, but they aren’t dire stakes for the Great Powers as a whole. Mortals don’t fight, and anyone who is fighting for the Empire is there willingly. At the end of the wars, whoever wins, whoever does best, will be paid and rewarded, just like any other competition, and so too are the wars broadcasted like them. I daresay that tournaments and the like will become far less frequented for the next few centuries while there’s true battles to follow.”
+
+Aster shook her head. “It feels so callous how the higher Tiers were treating deaths.”
+
+Luna shook her head. “Is it truly? Consider the alternatives, should the Great Powers not utilize their armies as champions to settle disputes. Without a strict structure in place, inhabited worlds would pay the price, and everyone would suffer. But that is not to diminish the importance of these wars. When the Monster Collective broke from the Federation, the proposed reparations from the Tier 35 war were so immense that the fighting expanded fully to Tier 43 out of desperation. That fate, clawing them from the strongest Great Power to one who just barely managed to escape a death spiral, is what we fight to prevent.”
+
+After that revelation, none of them felt like sitting around, so the four of them left the planet and boarded Matt’s shuttle. With four full-size adults, it was cramped, but that was helped when Luna turned into her cat form and curled up on top of a cabinet.
+
+Liz copied the idea and turned it into her bird form, taking a perch on Matt’s lap where they cuddled at the helm. Aster shot Liz a glare for taking her traditional spot, but took Liz’s chair in retribution, making a show of changing all the adjustments.
+
+Activating the chaotic space engines, Matt waited for the ship to successfully tear through the fabric of reality and started following the set route to Ventillyria.
+
+With the planet in mind, Matt looked up to Luna and asked, “What's so special about Ventillyria? Couldn't we just go to any of the other Tier 22 worlds?”
+
+Luna held up a paw without looking up, three claws sticking out. “Three reasons. The first is that it’s near the Sect border, and will give you the opportunity to feel a bit of the war’s impact without actually participating in a battle. Similarly, the area will be flooded with spies and I want to give you a chance to engage in some light counterespionage. Thirdly, I like the system. It was a favorite planet for Pathers quite some time ago, but fell out of favor as the native population grew. I’ve spent many years there, and know the rifts well.”
+
+Matt nodded and started going through the information he had downloaded on the planet.
+
+He wanted to know the basics by the time they arrived.
+
+Before he could get too comfortable, Luna spoke once more.
+
+“While we have downtime, I want all of you to start practicing your mana control with mana patty. Aster, you stick to human form, and Liz, stick to bird form. Your control still needs work, and I need to see exactly how far you have slipped, Aster. There was a lot of time you could have been honing your skills at the bond academy. Like that rift challenge. It was atrocious. I’ve seen children handle themselves better than you did.”
+
+Aster stiffened as she squeaked. “You saw that? How? What did you hear?”
+
+“Did you think I wouldn’t be keeping an eye on you? I peeked in when I was close enough to send a [Clone], but I actually heard about it from Mara sending me a recording from your guide uniform. Imagine my surprise when I found out what you were saying. Now, let’s see how many debuffing skills you need to stop a Tier 18 monster, shall we?”
+
+Aster started nervously laughing, but there was a thread of actual fear that Matt could feel through their bond.
+
+Not really caring that Luna was there, Matt asked, “What did you say? You mentioned the rift but not what you said inside. How bad could it have been?”
+
+Aster’s laugh got more nervous as she tried to deflect, but Liz squawked at her too.
+
+“I was giving myself a running pep talk. Talking like how Luna talks when she's critiquing us. Her words of wisdom. And I may have added a few of my own.”
+
+“Like what?”
+
+“I’m not going to say it again and get myself in more trouble!”
+
+“Come on, she already heard. There’s no reason to keep us in the dark.”
+
+“You guys are crazy!”
+
+“Don’t be a coward.”
+
+“She’s glaring at me right now!”
+
+“Cat’s are always glaring. Just tell us.”
+
+***
+
+Allie followed the Emperor as they finished the first leg of their ‘trip around the Empire’. The man hadn’t been lying when he said that, but she hadn’t been expecting him to literally take her on a trip around a large portion of the Empire’s border regions to stop at important places.
+
+But it made sense when she found out exactly what her Tier 25 Talent could do.
+
+Tier 1: Innate free [Teleport].
+
+Tier 3: Control space. Distance and control grows with Tier.
+
+Tier 25: You may [Teleport] to places you are familiar with.
+
+Unfortunately, it wasn’t so simple as the ability to teleport anywhere she had ever seen. It was more about her spirit, and Talent, learning where a given location was so she could then teleport there whenever she wanted. It would happen automatically over the course of a couple months, or she could force it to learn a single place with active effort. She could even teleport back to where she’d just left from, but only for about half an hour before her spirit ‘forgot’ where it was.
+
+Zipping across the Empire and leaving ‘waypoints,’ as she thought of them, at strategic locations was leaving her spirit feeling like a wrung-out washcloth from the strain. But it was pretty much entirely worthwhile.
+
+She’d been able to visit some pretty great coffee shops during this little trip, and now she could visit them whenever she wanted. She could get coffee from a different planet every day. Multiple times per day. Whenever she wanted. In the middle of a fight, even.
+
+Now that was a good Talent. She just hoped the Emperor didn't want to turn her into a taxi.
+
+“Wanna hop back to Relco and get a scone? I could really use a scone about now.”
+
+The Emperor was surprisingly easy to talk to, she’d found, and she’d learned a lot about higher-level Talent theory during their trip. Apparently, her new Talent worked by actually engraving the locations of her waypoints within her spirit, and because he copied her Talent as-is, he couldn’t add new waypoints to their now-shared itinerary. Conversely, her temporary waypoints were permanent for him, at least until he refreshed his copy of her Talents.
+
+She chose to interpret the twitch of his lips as a smile and continued, “Man, when I’m delving next, it’s gonna be great. Instead of being trapped in a rift for months and eating packaged food, I can just pop out and get something good. That would be amazing. A steak. Chicken marinade. Even a bagel. Ahhh.”
+
+As Allie trailed off, she paused as the Emperor froze mid step, an actual grin spreading across his face.
+
+“If that works…”
+
+Before she could ask what he meant, Allie felt her own Talent coiling around her, whisking them both away. They materialized for a split second, then space twisted under the weight of the Emperor’s Domain and they were suddenly in front of a Tier 35 rift.
+
+The guard flinched and readied his weapon before he saw who it was and stammered his apology.
+
+“No worries. When was the last delve? Has the instance cycled?”
+
+“Last week, sir, we can get more mana if you ne—”
+
+The Emperor interrupted him. “No, it's fine. I can handle it myself.”
+
+Allie whistled as she felt millions of mana pour out of the Tier 50 and into the rift.
+
+Once the rift had enough mana to support another instance, the Emperor swept in, with Allie trailing close behind.
+
+She hadn’t even gotten her bearings when she realized everything in her spiritual range was dead. She had been less than a heartbeat behind the Emperor, and he had wiped out an entire Tier 35 rift.
+
+Insead of gawking, she knew what to do, and blipped out of the rift instance. She waved at the very confused-looking guard, and fixed her eyes on the rift. She could feel the chaotic thrum of folded and fractured space deterring any attempts to reach inside of it. With a deep breath, she commanded her Talent to bring her back to where she just was.
+
+Allie was taken aback when it actually worked, and set her down right next to the Emperor, where she’d been not a moment before.
+
+She was just getting excited when the Emperor shook his head. “Don’t get carried away yet. We don’t know if it’ll still work after the instance cycles, and that’s what would be useful. Most talents which can access an existing rift instance need close proximity, and even most of those can only access rifts up to their Tier.”
+
+At nearly an eight-to-one time dilation between the inside of the rift and the external world, fifteen minutes turned into two hours, and Allie used all of that time pestering the Emperor with questions as she established a new waypoint.
+
+He even answered some of them.
+
+When their wait was up, he looked at her, and Allie pulled herself to the beacon she had set up next to one of her favorite scone shops.
+
+Buying two, she reached for her newest waypoint and pulled herself to it.
+
+She braced herself for the sensation of slamming into a wall, or being flung into chaotic space should her blip fail, but much to her surprise, she appeared next to the Emperor. Seeing that it worked, she proffered him a scone.
+
+“It works!” Her words were only a little muffled as she chewed her scone.
+
+The Emperor's grin turned a little feral as he said, “It did indeed. Slight change of plans, as I believe we’ve set enough waypoints on the warfront for the time being. We should get you reunited with Light, and properly introduced to Team Zero. I think they’ll be quite pleased to meet you.”
+
+Allie no longer had a bad feeling that she’d be playing taxi in the near future. Now she knew it for sure.
+
+Shit.

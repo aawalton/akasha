@@ -1,0 +1,155 @@
+---
+id: e7c2216a-1a5f-5063-8ad3-4a1d038e94a0
+page-type-slug: story-chapter-royal-road
+title: "250 Mental Warfare"
+slug: 0209-250-mental-warfare
+partOf: the-new-world
+position: 209
+ownLength: 2077
+unit: words
+ownProgress: 2077
+publishedAt: 2020-03-23
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/471980/250-mental-warfare"
+royalRoadId: "471980"
+markedReadAt: "2026-06-29T21:28:09.232Z"
+---
+
+After about an hour of prep, Torix set up the research event for Lehesion's tail. It stunned me just how involved the process was. The right researchers, equipment, and safety precautions required organizing from scientists and engineers alike. Torix knew the individuals involved with each operation, however, simplifying the process quite a bit.
+
+With all that done, he and I readied ourselves for some good old mind magic shenanigans. Torix pepped up as he ran himself through a few mind magic drills of his own creation. Once finished mumbling to himself, he turned towards me,
+
+"The first, most cardinal of all mind magic is the art of establishing a telepathic link. You've had it done to you with any gialgathen you've ever spoken with, and it's child's play to learn. Simply release your established mental defenses. It's a feeling similar to opening your mind to new possibilities."
+
+I frowned, "Huh. That might take a while. I'm used to closing everything off, not opening myself up for the attacks."
+
+"While perhaps true your defense suffers, your strategy is similar to only learning to wield a shield when others are fighting with swords and shields. The mere act of owning an offensive measure dissuades a total offense, and that is a valuable defensive utility all its own. Otherwise, your enemy shall ignore any defensive measures of their own."
+
+That made a lot of sense, so I gave it my best shot. It took about fifteen minutes before I established a mental connection to Torix. It came with a nifty notification.
+
+New Skill Learned! Telepathic Link(Lvl 10 - Others build walls of thought to ignore those around them. You go into the unknown, unafraid of the minds of others. +10% to telepathic link's efficiency.
+
+It was a nice bonus to get, but I failed to notice it at all. When I linked to Torix's mind, it was like drifting into space. Mysterious, ancient, and boundless, Torix's consciousness differed from the mind mages I fought against. Unlike the Adair Family's troops, he was a vast, alien entity. This lich dwarfed them hundreds of times over.
+
+I never noticed it before, but only two entities I linked with ever mirrored my mind's stats. Etorhma and Eonoth overshadowed me in all honesty, but they were Old Ones, not people. It made sense that they felt endless, like staring into eternity. For an actual, living person to stand beside me with such mental prowess, it wasn't just humbling.
+
+It was actually kind of scary. Damn. It had been a while.
+
+A shiver ran through my spine as Torix lifted his hand, "Ah, that was quick of you. Perhaps you own a few trees that assist with the creation of skills?"
+
+I blinked a few times, finding myself in awe at the lich's mind. I shook off my reverie before turning to the guy, "Uh, yeah."
+
+Torix shook his head, "It is odd to find such a vast mind matched against my own. You still carry the single largest source of mental will I've seen in all the years I lived. It is like staring into an ocean."
+
+I murmured, "Yeah. Same."
+
+Torix's eyes hued purple, the flames carrying vibrant frenzies of fire. The lich leaned his chin down, as if ready for a hit. I did the same, mentally preparing for his mind to clash with my own. Before we began, I remembered a few of our mental fights from before. I stood up straight,
+
+"Hey, before we start, I was wondering about the other kind of training we had before."
+
+Torix stood up, "Ah, perhaps you mean the aura training we conducted?"
+
+I raised an eyebrow, "So it wasn't mind magic?"
+
+Torix shook his head, "In a manner of speaking, it was yet wasn't. Your auras are unique. They contain palpable, physical effects on reality. Training that did test my mental fortitude at the time, but it wasn't true mind magic. You didn't link your mind with mine. We simply clashed with our inherent auras."
+
+I frowned, "Auras, eh? Sounds vague."
+
+"That's simply because it is. I don't fully understand how your auras operate. I did my best to work around those limitations in understanding and in our stats. It allowed me to give you reasonable training sessions. This is much more so my forte, and I've trained myself extensively within this particular domain."
+
+I leaned back down, "That's why this feels so different then."
+
+"Precisely so." Torix leaned down his chin, interlocking his umbral hands behind him, "And with that out of the way, we have a few hours to practice. Are you ready?"
+
+"Yup."
+
+"Then let us begin."
+
+With the link established between us, Torix attacked first. I expected a probing jab of sorts, something to test my defenses. This was nothing of the sort. Like a rampaging rhino, Torix sprinted into my mind with a titanic clash. It took everything I had just to stay standing in the fight.
+
+Not pausing for a moment, mental probes sprinted around me, searching for weak points. Torix managed each of these while maintaining a constant, unrelenting pressure. I held my breath as I shoved back with all my might.
+
+Mentally stronger than Torix, I shoved him. Like an experienced wrestler, he sidestepped the force, pushing me sideways. Experiencing a bit of vertigo, I struggled to maintain my defenses. From a different angle, Torix applied a precise, devasting pressure. It tore into my mind like a hot knife into butter.
+
+A headache roared into my head as silver blood dripped down my nose. The taste of it cleared my head, a bit of bloodlust pouring over me. Wielding it, I made several wild charges against him. Torix evaded each of them, parrying my psionic onslaughts.
+
+He did so by plating the portions of his mind that I attacked. It was similar to facing someone in a suit of armor with a sword. Except, in this case, the armor bent on the knight's skin like a liquid. With a deft hand, Torix intercepted the blows of my mental sword, collapsing all of his mind's might at one point.
+
+This meant that despite my superior mental strength, he shoved my attacks aside without much difficulty. He did so all while attacking me from every angle, exposing all the weak points he found. In a way, it wasn't that different from the mind mages. The difference came from the size of Torix's mind and the ferocity of his execution.
+
+In his new body, he wasn't wielding a mind one-tenth the size of my own. His willpower was much closer than before, and his intelligence mirrored my own. These attributes gave his mental skills a bite I wasn't expecting.
+
+Torix didn't seem to notice. He stayed still, appearing totally unaffected by me. After several minutes of the attack, I shivered from the strained effort. After an hour of surviving the torment, Torix forced me to fall onto my knees. Once my mind's defenses fell apart, Torix ceased his attack.
+
+He walked over, offering me a hand,
+
+"That was far better than I expected. Well done."
+
+I stayed there for a few seconds, heaving for breath. I blinked in surprise, looking back up at the lich. He looked huge, like a giant staring down at an ant. It came with a bit of fear, but I shook that emotion out after a bit of rationalization.
+
+For the first time in a long time, someone around me could seriously harm me. That wasn't the end of the world. Thinking about it, Torix did the same for months in his previous body. I did so for most of my life before Schema arrived. If anything, it raised the expectations I had for myself. Here was a new frontier I hadn't ventured into, and that was exciting.
+
+Eh, and maybe scary.
+
+"How...how did I lose so badly, though?"
+
+Torix scoffed, "Are you serious? In an arena you've never participated in, you managed to evade defeat for over an hour's time, against a master no less. Lost badly? If anything, I'm disappointed I didn't dispatch you faster."
+
+I grabbed his hand, standing up. My mind's composure reformed as quickly as it fell apart, my mental bulwark reforming. I shook off the jitters, calming down as I mouthed,
+
+"I felt like I was dying. Damn."
+
+Torix nodded, "As you should've. I could've suppressed the conscious control of your body at that moment. You'd of been the world's strongest puppet, that much is certain."
+
+I stared at him, a bit of horror leaking onto my face. Torix cackled, "I wouldn't be so disappointed. You've several tools at your disposal to even the odds."
+
+"Like what?"
+
+"Your auras for starters. What was it called...ah yes, Event Horizon and The Rise of Eden. Both of those would've turned you into a far more formidable opponent."
+
+"Wait a minute...I wasn't using The Rise of Eden?"
+
+"Well, you weren't using the aura. That's precisely why I wasn't able to crush you far faster. Without you sharing the enhancements, your willpower and intelligence exceeded my own by leaps and bounds. Event Horizon would prove even more effective, however."
+
+Torix lifted his hands, "It eats at your enemy's minds, blinding them with pain and immobilizing them with pressure. It enables you to commit to complete offense without having to lessen your defenses. I believe this is how you've managed your mental battles so far."
+
+He raised one finger, "You turned your mind into a fortress while using Event Horizon as a whip. That is by no means an ineffective strategy. Having established the mental link, however, enabled me to wreak havoc upon your waiting mind."
+
+I gave him a slow nod, "So I haven't actually been fighting in my mind battles?"
+
+"I would say not. Your tactics are efficient, and they've worked around your limitations so far. This has enabled you to avoid the primary detriments of mind magic, like memory manipulation. On the other hand, you have experienced crippling pain from it, correct?"
+
+I remembered the headaches from fighting Version 2.2.
+
+"Yeah, it's been painful despite all my pain resistance."
+
+"A less tenacious individual would've already crumpled, yet you stayed standing in an arena you had no business being in. For that, I would take pride."
+
+My defeat didn't sting as much all of a sudden.
+
+"That being said, your tactics and movements mirror a novice. We've much to work on, from the strategies you employ to the nature of your defense. That shall be what we work on."
+
+And the string returned. I listened as I glanced at my notifications. Yeh, the training was working alright.
+
+New Breakthrough Achieved! Mental Defense(lvl 12---> 37 lvl)
+
+New Breakthrough Achieved! Mental Bombardment(lvl 14 ---> 39 lvl)
+
+New Skill Learned! Mind Magic(lvl 10) - Many would fight with the physical. You choose to transcend the corporeal, overwhelming other's minds.
+
+I gave the notifications a nod before meeting Torix's eye,
+
+"Alright. Give me an overview. We'll go to round two after a few tips."
+
+Torix stood with pride, "Of course. The first lesson revolves around one thing and one thing only - mind partitioning. The majority of your will must be used to immobilize your opponents. An excellent offense is an excellent defense as it were."
+
+He lifted a fist, "In a manner of speaking, this blot of willpower is your hammer. On the other end of the spectrum, you must wield the clout of your mind with precision. These are the feelers you no doubt noticed. They allow you to discover weaknesses to exploit. Without them, you may be worn down by a mind with superior willpower."
+
+Torix shrugged, "That aspect of mind magic is challenging to learn, and requires refined mental exercises to create. It is similar to multitasking, but on dozens of different facets at once. This is what most mind mages use to separate themselves from individuals that are often only looking to defend themselves."
+
+The lich gestured a palm to me, "Given your time constraints, I believe learning to tighten your defenses and sharpening that 'hammer' of will would be most effective."
+
+"You're the pro here, so that sounds good to me."
+
+Torix's eyes shifted purple, and I winced at the sight. He cackled, "And as we both already know, you learn best from participation, not merely listening. Perhaps another sparring session is in order?"
+
+I took a deep breath, "Man, this is going to be a long day."

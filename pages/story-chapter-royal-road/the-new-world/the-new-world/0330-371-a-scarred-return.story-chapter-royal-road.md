@@ -1,0 +1,575 @@
+---
+id: bcf828d0-51af-576c-a3ba-f0cb76e2aba1
+page-type-slug: story-chapter-royal-road
+title: "371 A Scarred Return"
+slug: 0330-371-a-scarred-return
+partOf: the-new-world
+position: 330
+ownLength: 3676
+unit: words
+ownProgress: 3676
+publishedAt: 2023-03-18
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/1141348/371-a-scarred-return"
+royalRoadId: "1141348"
+markedReadAt: "2026-06-29T21:32:32.232Z"
+---
+
+A few seconds later, a Sentinel tore through the fabric of reality. I helped pull apart the dimensional fabric, and it stepped through. It tilted its head at me.
+
+"You wish to return to Earth, correct?"
+
+I nodded.
+
+"Aw man, more than anything."
+
+The Sentinel sliced through the veil, and I approached a tiny circle showing Earth. I gazed down at Mt. Verner before I gave the Sentinel a salute.
+
+"Till next time."
+
+Chapter Begin
+
+I jumped in, and Earth welcomed me. I breathed in an atmosphere sweet as honey. I gazed at the sun, its shine like a campfire's glow. Even gravity's pull embraced me in a gentle hug, the once harsh pull a gentle reminder to stay here. It was one I didn't need but appreciated.
+
+I gazed down at Mt. Verner, my guild no worse for wear. Chrona's void ice castle still gave the place an elegant air, and the growing industry exposed what the site was - a center of trade and prosperity. I flew down, passing several Eltari and Gialgathens, each playing and training in the sun. A few people tended to fields below, the ground rich with life.
+
+It was good to be back.
+
+As I soaked in the sights, I couldn't have smiled harder even if I tried, and I zoomed past everyone while temporally compressing myself. Peering up from below, Chrona and Krog met my eye. I raised a hand to them, and they connected with me telepathically.
+
+Krog clapped his tail on the ground. "It is good to see you again."
+
+I laughed, not meaning to.
+
+"You too, you too. Man, you can't know how good it is to be back."
+
+Krog tilted his head.
+
+"Torix mentioned you were away on some kind of lottery? Did you get lucky in it?"
+
+Chrona gawked at me, horror striking her face.
+
+"No. He wasn't. What...What happened to you?"
+
+I raised a brow, and she shivered. Chrona said, "You're accelerating time, but what are you doing to your mind?"
+
+I stopped speeding along.
+
+"Huh...Think of it as abandoning a set mental form."
+
+She grimaced.
+
+"To me, it seems to be torture...And how can you hold a coherent thought while doing that?"
+
+"I have most of my minds still shaped into a solid, cohesive form."
+
+Krog's eyes glazed over.
+
+"Minds? Like multiple of them? What?"
+
+I moved my hands back and forth.
+
+"Well, I mean-"
+
+A shadow blotted beside me. From nothing, Shalahora arrived in all his glory. He tethered to the gialgathens and I, and Shalahora said,
+
+"These are your allies?"
+
+I gestured a hand to them, "Honestly, they're kind of like family at this point."
+
+Krog peered away. "Ah, that's a heavy-handed title for us, but Daniel has saved our species from extinction. He is more an ancestor to us."
+
+Chrona's eyes widened, "That thing...Is level...65,000."
+
+Krog turned to her, then back to me. He bowed. "I, excuse me, great sir. Oh powerful, mighty-"
+
+Shalahora sent an acknowledgment, one spoken in the gialgathen's native language. I could tell because it took a moment for the system to recognize it. At the same time, Shalahora took the form of a gialgathen and gave them a certain kind of growl. If I surprised them with my time magic, Shalahora utterly stunned them with his greeting.
+
+The gialgathens froze in place. Shalahora tilted his draconic head at them.
+
+"Do you no longer acknowledge a Rivarian greeting?"
+
+I leaned away from Shalahora, "What? How do you know about their old capital?"
+
+Shalahora changed his language to English fluidly as he said, "I inspected their surface-level memories. This is their fondest greeting, one they hold dear."
+
+I waved my hands at them, "Hey, I'll explain everything later. We need everyone to meet up anyways. Chrona, it'll be at your place if you don't mind."
+
+She shook her head.
+
+"Of course. My home is always welcome to any from our guild."
+
+Krog stood up straight. "I-I shall send a message to all and have them rendezvous here immediately."
+
+I waved a hand.
+
+"No, I'd rather do it in person to introduce Shalahora."
+
+Krog furrowed his brow.
+
+"But...But that is far less efficient."
+
+Chrona popped his side with her tail.
+
+"Be quiet. As you wish, guildleader."
+
+I waved them goodbye before Shalahora and I left. I raised a hand.
+
+"Alright, damn, you learn fast."
+
+Shalahora spread his hands.
+
+"I attempted a friendly greeting. Why are they afraid of me?"
+
+"Your level, for one. Also, pro-tip, try to tone it down whenever you meet people. They've lost that capital to an invasion by their old, godlike ruler. It's a painful memory now."
+
+Shalahora murmured, "This is why I tire of conversation with others."
+
+I shrugged.
+
+"I get it. I really do, but they'll get used to you quickly. Come on."
+
+We passed groups of people.
+
+Shalahora said, "That is your species?"
+
+"Yeah. What do you think?"
+
+"You are so different from them...Like another entity altogether."
+
+"Well, different is a word for it. Also, how did you get here so fast?"
+
+"I told Schema to send me here."
+
+"And he did?"
+
+"Yes."
+
+"Well, that sounds smooth compared to my talk."
+
+"It was. Let's find the others."
+
+I followed Shalahora, who weaved into the Mt. Verner compound using one of many entrances. He darted between shadows, no one aware of his presence. An assassin of his caliber could sneak in here without raising any alarm bells and kill everyone in Mt. Verner.
+
+This place needed an update, and oh man, I was going to give it one.
+
+First things first, I landed on the lower industrial floor of Mt. Verner. Machines whirled, and sparks flew. As always, I enjoyed the sight of industry, something I stopped as guildmates stared at me for a bit. I gave my thanks and let them know I appreciated their hard work.
+
+The shadowy Sovereign said, "They believe you are a god."
+
+I remembered the avatar destroying my mind.
+
+"There's nothing that could be further from the truth."
+
+We passed machinery before arriving at the eldritch cages. Amara wrote notes in an obelisk, including recorded audio for later use. Beside her, Hod moved and talked with grand levels of animation, ruining Amara's work.
+
+Hod said, "Hod think pretty woman being hard to get."
+
+Amara growled, "And Amara think Hod is an idiot who should waste his life elsewhere. How hard of hearing are you? I'm working."
+
+Hod spread his wings. "Hod actually have hearing like hawk. How Hod know? Hod explain."
+
+I peered at Shalahora.
+
+"Get ready."
+
+Shalahora tilted his head.
+
+"For what?"
+
+Hod turned a wing to Amara.
+
+"Hod heard that Hod have hearing like hawk. Hod asked what hawk was? Hod get no answers, so Hod find hawk. Hawk look like Hod. Hod know hawk have Hod hearing because hawk like Hod. So, Hod know hawk hearing Hod level. Therefore, hawk have Hod hearing like Hod have hawk hearing."
+
+I put my hands on my hips.
+
+"Ahhhh, good ole Hod."
+
+Hod pointed in a random direction. "Hod hear that. Hod hear everything."
+
+Shalahora and I stood nowhere near where he pointed. I facepalmed.
+
+Shalahora's eyes widened.
+
+"Impressive."
+
+I raised my brow before several of Shalabora's shades erupted from where Hod pointed his wing. I blinked before Shalahora materialized between the two. Amara fell backward before pushing herself away.
+
+She hissed, "What kind of corrupted, filthy aberration are you?"
+
+Shalahora peered through her.
+
+"I am Shalahora, the Sun Swallower."
+
+The guy could make an entrance, that's for sure. Hod spread his wings, "Hey. Hod have shadows. Shadows Hod thing. Shady man take Hod thing. Shady man thief and scoundrel!"
+
+Shalahora molded into the shape of an Eltari and crossed his wings. He bowed, "We both live in shadow, and as one, we fly."
+
+Hod took a step back before mirroring the gesture. Hod said, "As one, we fly."
+
+Hod jumped out of the pose, "Now shady man take Hod looks. Hod looks Hod thing."
+
+I stared at them both, stunned again by how well Shalahora fit in. The shadowy Sovereign put a hand on Hod's shoulder.
+
+"I shall teach you how to wield the absence of light. Even you who skulks beneath the surface, blighted one."
+
+Hod tilted his head in confusion, but Other Hod understood. Shalahora turned, flash-stepping to me with a quick dispersal and rematerialization. Shalahora pointed down, "There are still others to meet."
+
+I nodded.
+
+"Hey guys, we'll be having a meeting later. Be ready."
+
+Hod stuck out a wing.
+
+"Hod always ready."
+
+Amara stood from the ground and brushed off her dirty clothes. She nodded. I turned to Shalahora.
+
+"Alright. Let's go."
+
+I had to keep up with Shalahora as he dove through the insides of Mt. Verner. It was as if he had lived here his whole life, and we reached the side passage where Plazia-Ruhl set up shop at the lowest levels. Once there, we stepped into his de-systemized territory. The ancient Ruhl carved cipheric runes into the side of a wall, having erected many tablets of the archaic symbols.
+
+As we walked in, Plazia's voice oozed from the walls, many faces crawling out of stone.
+
+"I see you have brought another from your journey. Their mind is dark like the depths of an ocean, and they walk without weight in their steps."
+
+The azure, corrupted Sentinel turned to Shalahora. Insects skittered underneath the armor, and Plazia-Ruhl cackled.
+
+"A celestial? I know of you and your kind. You are like dead stars."
+
+I furrowed my brow while Shalahora materialized beside Plazia. The Sovereign reformed into many insects.
+
+"It is good to meet you Plazia-Ruhl. Your fractured memories are palatial."
+
+Plazia finished his runes.
+
+"They are? Hm. Since you are perusing my memories, do you believe they are real or perhaps implanted to manipulate me? I often consider that plight."
+
+"They show no signs of tampering, but I would need to pry far deeper to verify. Whether I do so is decided upon by you."
+
+Plazia let out a sharp laugh.
+
+"I decide no."
+
+Plazia and the faces on the walls turned towards me.
+
+"And you. You've changed much, like a maggot's metamorphosis into a fly."
+
+I'm sure Plazia meant that as a compliment.
+
+I said, "It was over 6 months there. It wasn't easy."
+
+Plazia lowered his hands.
+
+"I ascertained...You walked away with another commitment upon your shoulders to this one. Will the weight of your promises break you?"
+
+I cracked my neck.
+
+"Eh, I'll be fine."
+
+Plazia lifted a hand, centipedes crawling out from the cracks in his old Sentinel armor.
+
+"Don't forget my agreement in the amalgamation of promises you carry."
+
+I turned and stepped outside of his de-systemized domain. I spawned primordial mana, droplets falling from me like goop from a lava lamp. Time compressed over me, splintering my mind, and I gave Plazia a thumbs up.
+
+"Oh, trust me, I haven't."
+
+Plazia cackled.
+
+"Then my knowledge remains yours...Harbinger."
+
+I left the hivemind, and Shalahora stepped from Plazia to me.
+
+Halfway down the hall, Shalahora murmured, "That is a dark force you ally with."
+
+I gave Shalahora a nudge.
+
+"Shal, you're a literal shadow."
+
+Shalahora actually laughed, and it sounded like fire and darkness expressing joy. The shadow pointed an incorporeal limb at Plazia.
+
+"Do you wish for him to attend the meeting?"
+
+"He'll hear everything. After all-"
+
+I pointed around us.
+
+"The walls have eyes. Don't they?"
+
+Plazia's laugh echoed in from all angles.
+
+We flew out of the recesses of Mt. Verner, heading toward the upper floors. We passed by many guildsmen, each giving me salutes. I returned the gestures before we passed one collection of stores in the residential district. In the middle of everything, Florence bought meals for a large group of people, having a feast in the middle of the mall square.
+
+Florence laughed with soldiers, civilians, and ladies alike. As we neared him, the albony stood. He raised a hand to those present.
+
+"Ah, the guildleader is back. Everyone-"
+
+They all stood and saluted me. I raised a palm, "At ease."
+
+Florence smiled, his teeth sharp.
+
+"Ah. Don't worry about them. It's hard taking it easy when the boss himself is back, am I right?"
+
+Before I could answer, Florence walked up and gave me a hug, squeezing hard.
+
+He said, "It's so good to see you walking around again. You were missed. Deeply."
+
+I patted his shoulder, surprised by the sincerity of the gesture. It had only been five days for him, after all. Florence let go before turning to Shalahora. Florence reached out a hand.
+
+"Ah, a world-destroying monster. Just the kind of friend I expected Daniel to bring back with him."
+
+Everyone laughed before Florence gave Shalahora a wide grin.
+
+"I'm Florence. What do you go by?"
+
+"Shalahora."
+
+They shook hands before Florence turned a palm to everyone here.
+
+"My general rule is that when in Rome, do as the Romans do. Let's introduce ourselves."
+
+Shalahora and everyone stared at each other, the tension thick like mud.
+
+Florence said, "If you'd like, I can help you learn the process if that would make you more comfortable."
+
+Shalahora stammered, "I-I know them all."
+
+Florence put an arm around Shalahora's shoulder, shaking his head.
+
+"Come now. No one knows someone unless they've both met. Here-"
+
+Florence grabbed a lady's hand and gently pulled her to Shalahora. Florence smiled at the woman.
+
+"Hey, he won't bite."
+
+The woman gulped before Florence spread his hands.
+
+"Remember who brought this world eater here." Florence pointed at me. "That's someone I think we can all trust."
+
+The lady looked at me before reaching out a hand to Shalahora.
+
+She mumbled, "Hello. I'm Margret."
+
+Shalahora grabbed her hand.
+
+"I am Shalahora, the Sun Swallower. Your eyes are beautiful."
+
+Margret blushed.
+
+We took several minutes to handle introductions, and Florence smoothed the process. As we walked off, he waved them goodbye.
+
+"Everyone, don't mind paying. It's my treat."
+
+I gawked at the albony.
+
+"Man, it's good to see you again. Also, why are you already here? Weren't you in the lottery?"
+
+Florence's left eye twitched. He raised a quavering hand.
+
+"No. I joined your guild the day before the galactic council, where the lottery was announced. Ahem...I have a question for you."
+
+His voice broke.
+
+"Daniel...Were any albony with you in the lottery? Do you know what happened to them?"
+
+My eyes widened. Of course. Florence was close to the Emperor, and he was missing. Not wanting him to stress anymore, I pulled out Valgus's shackles from my pocket dimension.
+
+"Obolis is in here. We got him out, chief."
+
+Florence's head tilted back.
+
+"By Baldowah, thank you...Thank you."
+
+He gave my forearm a squeeze before resting his head against my arm. I leaned down.
+
+"Woah, are you alright?"
+
+Florence lifted his head, and his face wore a smile.
+
+"Of course, of course. I'm sure you wish to meet everyone, so we'll discuss what happened afterward."
+
+I spread my hands.
+
+"I don't mind calling the meeting right now."
+
+Florence shook his hand.
+
+"I won't ruin your return just because I'm a little worried."
+
+With a bit of apprehension, I let it go. Knowing Florence, he'd let me know when to discuss what happened. We went up several stairways before Shalahora touched Florence's shoulder.
+
+The shadow murmured, "I am sorry for your loss."
+
+Florence raised a hand.
+
+"It's nothing. Let's continue."
+
+Florence's voice held a heavy hurt. I was affected as we reached the third floor, searching for other guildmates. I couldn't find anyone, but something stalked me. I peered around, surrounded by bookshelves. An entity resided within my dimensional wake, tapping upon senses I wasn't aware of.
+
+Shalahora tilted his head at me.
+
+"What bothers you?"
+
+Alarm bells rang in my head.
+
+"That's just it. I don't know."
+
+Something spawned behind me, erupting from the ether of the void. I liquified, letting the entity pass through me. I solidified while grasping my hand around its thin neck. Althea turned to me, a grin on her face.
+
+"Wow. You have a strong grip."
+
+I released my grasp and lunged to a knee, holding her in a gentle gravity well.
+
+"Oh my god, I'm so sorry. Are you ok?"
+
+Althea tapped her chest, "Ahem, yeah. I'm cool. How about you?"
+
+I wrapped my arms around her, my lunging form far more prominent than hers. I held her in my arms for a moment. I soaked in who she was and that she was here, and man, she smelled so good, and wow, she looked amazing, and she must have done something with her hair because-
+
+She gave me a kiss, and my thoughts muted. I was home.
+
+We held each other for a while. She whispered, "Hey."
+
+I smiled until my cheeks hurt. Again.
+
+"Hey."
+
+We let go for a second, and I stood up, towering over everyone. Althea put her hands on her hips.
+
+"You look so huge now. Like, wow, big. Too big, heh."
+
+"Huh. You're right. Let me fix this."
+
+I pulled myself down using Mass Manipulation. I shrank some but still dwarfed everyone. I shrugged.
+
+"Eh, that's all I got."
+
+Althea jumped up, landing on my shoulder with ease.
+
+"It's plenty if you ask me."
+
+Shalahora condensed into the form I was most used to, and the shadow gave her a bow. He said, "You are a walker of other planes with a mind of steel. Your will is admirable, echoed one."
+
+Althea scratched her cheek.
+
+"Heh. Thanks. What's your name?"
+
+"I am Shalahora, the Sun Swallower."
+
+She hopped off my shoulder, and Althea landed as if she were the master of gravity and not me. She waved a hand with a smile.
+
+"Hey. I'm Althea Tolstoy."
+
+Shalahora froze in place, his form no longer rippling. He turned to me.
+
+"Harbinger...You are fortunate in this life."
+
+I gave him a thumbs up.
+
+"You know it."
+
+Althea kicked me.
+
+"Hey, don't talk like I'm not here."
+
+I raised my hands.
+
+"What? Me? Never."
+
+She jumped at me, and I darted sideways. Two leaps later, she cornered me between bookshelves. She bolted at me, but I caught her in a gravity well before she could grab me. She windmilled her arms.
+
+"Hey, no fair."
+
+"All's fair in love and war. This happens to be both."
+
+I pulled her to me, and she flipped in midair, landing on my shoulder.
+
+I said, "Come on, let's find Torix."
+
+Althea put one finger on her chin, "Hm. He's having a meeting upstairs. He mentioned that no one interrupted him. Speaking of which-"
+
+Althea peered at Florence.
+
+"Is everything alright? You usually have a lot more to say."
+
+Florence peered at her, pain across him. Althea raised her hands.
+
+"Not that your talking is bad or anything. Like, I personally like it. You know, you're just always making sure everyone's feeling cozy and-"
+
+I put my hand on her shoulder.
+
+"It's not you. It's something else."
+
+Althea peered between the both of us before she jumped down. She gave Florence a hug. The albony gave her a nod.
+
+"Thank you."
+
+Seeing Florence's duress, I sent messages to everyone to meet in Chrona's home. I could have my happy meetups later. Althea let go of Florence and leaped back onto my shoulder. I turned to everyone.
+
+"We'll discuss what happened during the meeting, which we need to have now. I've been gone a long time, and a lot has changed."
+
+Althea leaned on my head, my armor's spikes softening for her without me thinking. She said, "Torix will ignore your messages, probably. We'll have to grab him from the logistics floor."
+
+I said, "If it's so secret, why do you know where he's talking?"
+
+"Because no one else was allowed on the floor today."
+
+Brimming with unanswered questions, we headed to the central elevator. Once at the logistical floor of Mt. Verner, I frowned. My dimensional wake passed over some kind of secrecy magic. Quite a few layers of it, actually. Shalahora's shadows bristled.
+
+"There is someone here who does not belong."
+
+My eyes narrowed.
+
+"Let's go."
+
+We passed through the elevator doors, and no one was present. I leaned through several doorways, each building designed with me in mind but no longer comfortable. After passing several openings, I found the source of the isolation magic. From behind a doorway, Torix stood, his eyes flaring red, and he interlocked his arms behind himself.
+
+The lich sighed.
+
+"It would seem we have company despite my warnings against any interruptions. Who-"
+
+Torix laid his eyes on me. He took a step back.
+
+"Daniel, ah, it would seem you've arrived from the lottery."
+
+I peered around.
+
+"Why are you so nervous?"
+
+I entered the room, finding a remnant in diplomat's clothing. They spread their hands to me.
+
+"Ah, the Harbinger of Cataclysm. I wanted to apologize for whichever agent acted against you in the lottery. We had no clue-"
+
+I reached out a hand, holding the remnant in a gravity well. I pulled his frail body off the ground and glared, my face like cold stone.
+
+I growled, "Who let him in?"
+
+The air grew heavy. Torix's eyes dimmed to a deep blue. He raised his hands.
+
+"Please. Calm yourself. I can explain."
+
+I squeezed the diplomat until they curled into a ball. One of their shoulders dislocated, and they grunted in agony. I stepped up to the remnant.
+
+"Why shouldn't I kill you here and now?"
+
+The diplomat tried smiling but grimaced instead, "It...It seems like whoever broke the treaty truly gave much of the goodwill between us away."
+
+Disgust spread over my face.
+
+"Goodwill? Between us?"
+
+The remnant coughed.
+
+"Ahem. I would hope so, yes."
+
+I pulled out Valgus's shackles. I wrapped a chain around the remnant and gave it some mana, enough to psionically isolate. The diplomat screamed before I put my hand over his mouth.
+
+Torix's fiery eyes flared white.
+
+"What madness has overcome you? They are only a messenger."
+
+My armor leaked ascendant mana, and Event Horizon crawled toward the remnant.
+
+I seethed,
+
+"Why is Elysium here?"

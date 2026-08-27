@@ -1,0 +1,879 @@
+---
+id: c4163ea5-da14-5952-8bc2-4ee06783ab69
+page-type-slug: story-chapter-royal-road
+title: "435 The Ethos of the Undead"
+slug: 0395-435-the-ethos-of-the-undead
+partOf: the-new-world
+position: 395
+ownLength: 7509
+unit: words
+ownProgress: 7509
+publishedAt: 2025-06-08
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2339008/435-the-ethos-of-the-undead"
+royalRoadId: "2339008"
+markedReadAt: "2026-06-29T21:34:55.132Z"
+---
+
+As my armor rippled over my skin, I stretched my arms. Over a hundred minds swirled in my head, their psionic might formidable and everlasting. The muscles in my body flexed like cables of orichalcum, and my wake spread forth, encompassing all of Springfield. Runes thrummed over my skin, their energy overwhelming and palpable.
+
+I enveloped the city in The Rise of Eden, saturating its buffs onto my home. Unshackling self-imposed limits, I held the pocket dimensions inside my body with ease. I took a breath as if firing a bellows, and I breathed out a cloud of quintessant mana. Breathing it in and out, I hummed with power.
+
+I was back, and hell would freeze over before someone stole this from me.
+
+Chapter Begin
+
+Pulling the energy back into myself, I stepped out of my suite. I opened the door as someone phased out of reality. Smiling, I peered up at my shoulder where Althea materialized. She leaned onto my head.
+
+"I just got a break and came here to surprise you."
+
+I reached up and grabbed her chin. We kissed before I smiled.
+
+"Thanks. It's always welcome."
+
+She flipped off my shoulder, her landing lighter than a feather and controlled as a surgeon.
+
+"It didn't look like you were surprised. I noticed how you looked my way before I showed back up."
+
+I shrugged.
+
+"I think my sense for shifts in dimensions or whatever has improved."
+
+She put her hands on her hips.
+
+"I'll take your word for it. How's the stay here in the suite been?"
+
+I gestured inside.
+
+"Actually, I wasn't here all that much."
+
+Her eyes widened.
+
+"Ooh. Did you hit the town?"
+
+She walked in, and I closed the door.
+
+"More than you might expect."
+
+She sat down on our couch and I prepared two teas I bought from one of the local shops. Generating water, I boiled it in a gravity well before I set a teabag in each of two mugs. One had a black bullseye marking over a caricature of me stencilled in. It read, 'You took my heart since we met.' The other mug held a stencilled and cartoonized version of Althea floating in a ball. A wave of gravity held her in place, and it read, 'I'll never let you go...Mwaha.'
+
+Althea stood as I set the glasses down on our coffee table. She peered at them, her eyes elated.
+
+"Dawww. How did you make these?"
+
+I puffed my chest out.
+
+"That's the thing. I didn't. I actually bought them. I know, I know, hold the applause."
+
+Althea giggled before picking up her tea. She sipped it, her high level stopping the heated liquid from scalding her mouth. She nodded my way.
+
+"Woah. This is delicious. Where'd you get it?"
+
+"A friend showed me a recipe, and I altered it a bit for this."
+
+She took another generous sip before letting out her breath.
+
+"It reminds me of Castle Rock. The flavor, that is."
+
+I sat beside her.
+
+"I call the flavor evergreen. Now, how has the development of the Shattered Spires been?"
+
+Althea peered up and put a finger on her chin.
+
+"Hm...So it's been pretty good. I kind of want to leave most of that as a surprise, so if it's ok by you, can you tell me about what you did first?"
+
+"Of course. So basically, I studied for the first three days."
+
+I explained my covert mission and happenings with Althea. She smiled all the while, following my story and adding a few oohs and ahhs. After I finished, she reached up a hand and rolled a finger to her. I leaned in, and she hugged me close.
+
+"I'm so proud of you."
+
+I hugged her back.
+
+"For what?"
+
+She grabbed the sides of my face.
+
+"For making friends."
+
+I blinked.
+
+"It was a mission to learn about the guild."
+
+Althea rolled her eyes.
+
+"Oh, come on. Sure, that's cool and all, but you do that kind of stuff all the time. Making friends? You've never really done that."
+
+I blinked.
+
+"What? Of course I have."
+
+Althea leaned against the couch.
+
+"Oh, who's your friends?"
+
+I leaned beside her.
+
+"Torix, you, Kessiah-"
+
+Althea furrowed her brow as she smiled.
+
+"They're friends, sure, but they're also work associates. You and I are dating, and you don't hang out with Kessiah really."
+
+I raised a hand.
+
+"She's a girl, so I figured you'd worry about it."
+
+Althea laughed before crossing her legs.
+
+"But Nissa and Jasmine aren't?"
+
+I scratched my cheek.
+
+"They're different."
+
+"How so?"
+
+I thought about it. My logic unraveled under any scrutiny whatsoever.
+
+"You know what, you're right. I should hang out with Kessiah more."
+
+Althea flipped her hair behind herself, the strands sheening like strands of silver in the ambient lighting.
+
+"You should hang out with everyone way more. You always have your head so on the grind that you never get to breathe, talk, or enjoy life for what it's really all about."
+
+She coughed into her hand.
+
+"Ahem, uhm, in my opinion that is."
+
+I raised my brow.
+
+"You've been holding this in for a while, then?"
+
+She flushed.
+
+"A little, yeah. But it sounds like you did a great job helping them out. I was wondering if you could introduce us, and we could all hang out sometime?"
+
+I imagined them meeting up.
+
+"That would be...Pretty fun, probably. You'd have to mask your identity, but given your powers-"
+
+She shifted her skin tone from her soft silver to a sun-kissed tan.
+
+"It shouldn't be too difficult. See, I've already got you covered."
+
+I leaned back.
+
+"Thanks. You're the best."
+
+Althea leaned closer to me.
+
+"Just to be clear, you're not asking me to change my skintone out of shame, right?"
+
+I fell into the sofa.
+
+"I mean, I can't have Jamal trying to cheat with you. Besides that, you'd blow their minds with how you normally look...Honestly, you'll blow their minds regardless."
+
+She turned to the side while keeping her eyes on me.
+
+"Heh. Thanks."
+
+I raised a hand.
+
+"Hm. You know what? Let me show you something."
+
+In a wanton gesture, I shifted to Perfection's Providence. I created a few mana constructs, starting with iridescent ivies and glowing lilacs of different colors along the corner of the room. I made two glowing bird constructs, one a cardinal and the other a mountain bluebird. They sang while flowing back and forth, leaving bright streaks behind them.
+
+Althea marveled.
+
+"Ok, so you never told me that your magic could be so beautiful. You've been practicing?"
+
+"Definitely. I've put about forty minds to the task over the last few weeks. This ability set actually came from holding that tear closed."
+
+Althea's levity lessened.
+
+"Oh...Huh. It must've been tough to see your body change without your permission."
+
+I gazed at my hands.
+
+"Not at all. I got a break I didn't know I needed, and I got stronger without having to lift a finger. If anything, I feel ready and revved for damn near anything."
+
+Althea's lips thinned.
+
+"You have more than one aura, so uh, what happened to the others?"
+
+I turned my palm to her.
+
+"The Rise of Eden gained this ability to saturate a place long after I've left. From what I've gathered, the longer I stay somewhere, the stronger the effect becomes and the longer it lasts."
+
+"That's good. What about the red aura?"
+
+I winced.
+
+"Well...I can eat people's souls, pretty much."
+
+Althea's eyes narrowed.
+
+"Ok. That sounds pretty evil."
+
+I raised my hands in my defense.
+
+"So does a necromancer lich from another world, but Torix is pretty cool, I'd say."
+
+She held my gaze. She raised her brow before poking my chest.
+
+"Don't go eating people. I can't date a cannibal."
+
+My brow relaxed.
+
+"You'd really still consider it cannibalism?"
+
+She smiled.
+
+"I would."
+
+I smiled, the expression genuine.
+
+"Ah. Thanks."
+
+From the doorway, Torix walked into the room. The lich held two bottles and three wine glasses.
+
+"I should've assumed your topics of conversation diverted into the inessential and crass. As is to be expected of my disciple."
+
+Torix floated the glasses over before pouring them midair. I grabbed the glass while smiling.
+
+"Oh, I learned how to get distracted from the best of them."
+
+His fiery eyes flared.
+
+"Is that an accusation?"
+
+I swirled the wine.
+
+"Didn't you spend several centuries studying on your home planet's moon?"
+
+Torix's eyes flared pink.
+
+"Hm. I could've dabbled on that rock for a short while."
+
+I took a breath from the wine glass, holding it in, then letting it go. Althea peered at the maroon liquid.
+
+"You can smell wine now?"
+
+I raised my brow, my smile oozing confidence.
+
+"Absolutely not. It all tastes like rotten fruit to me."
+
+She laughed before Torix handed her one of the bottles. Torix nodded.
+
+"This one isn't as amplified in its effects. For you, dear."
+
+She raised her glass, and the bottle poured for her.
+
+"Why, thank you. I feel like such a lady."
+
+She sipped from her glass before blanching.
+
+"Ugh. Being a lady sucks."
+
+Torix sat upon a cloud of inky mana. It really was an impressive display of magical skill.
+
+"Such is the price we pay for refinement."
+
+Torix swirled his glass before smelling it. He sipped before letting out a satisfied sigh.
+
+"It truly is the drink of the gods, isn't it?"
+
+Althea set her glass down.
+
+"Wait a minute. You can't even smell or taste. Why do you even go through all this to eat the poisons you mix in?"
+
+Torix's eyes flared once more.
+
+"This business I've created rakes in personal income as I've developed a wide range of flavors for different levels of individuals. It's also remade the bar and club industries of old-Earth. As your species no longer needs cars, it comes with far fewer issues as well."
+
+Althea furrowed her brow.
+
+"Doesn't that mean systemized individuals will be under the influence? That sounds pretty dangerous."
+
+Torix steepled his hands, leaving his wine glass floating beside him.
+
+"Oh, but Daniel's golems are more than enough of a deterrent for that. Aside from the physical concerns, giving joy to the people within our purview is essential."
+
+Althea tilted her head.
+
+"You know, I never thought you'd be so concerned for people's happiness. So, uhm, good for you."
+
+Torix swirled his wine.
+
+"But of course. It's as Juvenal said, 'Give them bread and circuses, and the people will never revolt.' To that end, we must be at least superficially kind to our minions."
+
+I burst into laughter. Althea set her wine down.
+
+"Since we're being honest, I'll say it - this tastes bad. Really bad."
+
+Torix cackled.
+
+"You're certain that's not your attitude, perchance?"
+
+She crossed her arms.
+
+"It could be the poison."
+
+Torix stared at the bottle.
+
+"Hm. I do lack taste buds, so there's truly no guarantee of the flavor."
+
+I spread my hands.
+
+"How in the hell are you selling so much product then?"
+
+Torix leaned forward.
+
+"It's the most fascinating oxymoron of your kind. From what I've gathered of humans, you may add anything to any kind of alcohol, and they will find a way to love it. I've heard of this substance; it was called an IPA. Apparently, they taste like the soapy water leftover after washing dishes, foodstuffs and all."
+
+Althea grimaced.
+
+"They must've hated it."
+
+Torix put the wine away.
+
+"The man I spoke with looked me straight in the face as he admitted that. And he still loved the flavor."
+
+I laughed before we stood up.
+
+"You guys should show me the Shattered Spires. I wanna see what you both were up to while I was recovering."
+
+Torix stood taller.
+
+"Hm. It's definitely something I'm excited for. Would you mind cutting the reunion short?"
+
+I peered up.
+
+"Honestly? I miss you guys, but fixing problems is kind of what we do."
+
+Torix threw the wines into one of his personal storage rings, the starry portal rippling like liquid darkness.
+
+"I do rather love solving a conundrum. Come. There's much to show."
+
+He walked back before taking a moment. After a few minutes, Torix generated another portal above the Shattered Spires. The wind from the city whistled in, the crisp ocean air salty on my tongue. I stood alongside Althea, and we paced out into the air. Hovering in a gravity well, I grabbed Althea's hand while bowing.
+
+"After you, milady."
+
+She held up a pinky, trying to and failing at a British accent.
+
+"Myes. Indeed."
+
+Torix paced out onto his dark cloud.
+
+"The two of you seem goofier than usual as of late. Did you both sign a mandate forcing you both to act odd?"
+
+Althea frowned.
+
+"Are you the fun police or something?"
+
+Torix swirled his hand.
+
+"At times, perhaps."
+
+She shook a hand, a bit of frustration leaking through.
+
+"We live in a world where death is out there to get us at any moment, and Daniel and I can't see each other for months sometimes. That's why I really try to enjoy our time together, whether other people think it's odd or not."
+
+Torix leaned away, his eyes dimming.
+
+"Oh...Ahem. Th-that follows a rather well-constructed avenue of logic, especially given your constraints. Do excuse me if I was being rather pedantic. I truly didn't mean anything by it."
+
+She shrank herself down.
+
+"No...You. You're totally fine."
+
+She pulled a strand of hair behind her ear.
+
+"I was just frustrated, that's all. Uhm, sorry."
+
+She flew off towards the city. Torix and I peered at each other before the lich coughed into a hand.
+
+"You really must spend more time with her."
+
+I raised my hands.
+
+"Dude, that's what I was trying to do before you jumped in."
+
+Torix made a circle with his index finger and thumb.
+
+"But I brought wine."
+
+Althea shouted.
+
+"I can still hear you both. Let's go already."
+
+We bolted off, heading towards the peak of the Infinity Plaza. After pacing down through the remnants of the surveillance tree, we found the observation deck on the 86th floor. The older of the two observatories, this one had easy access to the inside of the building. As we landed with Althea, I grabbed her hand.
+
+She peered up at me.
+
+"What is it?"
+
+I pulled her up into my arms. She grabbed my hands, surprise covering her face.
+
+"What are you doing?"
+
+I walked over to the edge of the building. An annoying set of steel grating blocked out the view, so I waved a hand and the steel melted. After clearing that chunk of the building, I solidified the magma and sat down. Althea rested on my shoulder, and we watched a sunset casting rays onto the spire-filled city.
+
+By now, the city enmeshed in the Earth's surface. The skyscrapers floated above, but a giant wall of gray didn't blot out the sun or sea. The salty wind poured in, and the storms settled in the distance. Calmer and no longer eldritch infested, the waters sheened light in orange crescents like strokes from an artist's paintbrush.
+
+Althea leaned against my head. She sighed in contentment.
+
+"Thank you."
+
+I grabbed her hand.
+
+"Being with you will never be a problem."
+
+For quite some time, we left Torix waiting behind us. The lich used his sense of tact, deciding to handle the piled-up messages and other busy work in the meantime. As the sunset waned into the beginning of night, Althea squeezed my hand before pulling away. She landed as a panther would, her feet silent and her gaze sharp.
+
+"I really needed that."
+
+"Me too. Now show me what it is that you've both been working on."
+
+We headed towards the lower floors of the Infinity Plaza. After passing the decadent marble and gilded granite, we entered the central atrium. Surrounded by the dungeons, my guild raced around in all directions. Up and down, in and out, several hundred people scurried about below.
+
+They organized everything in sight, and around a hundred of my golems stood guard at different vantage points, securing the space. That's why guildmates left most dungeon doors open as if the worlds within weren't even hostile.
+
+Fresh air and wind replaced the stony stagnation from before, while lights from each region beamed across the colossal room. Mana lamps filled the expanse alongside gravity-powered elevators. Enchanted stones lined the tops of the dungeons, many of shining colors that reminded me of metals like bronze or gold.
+
+Practicality aside, these embellishments alleviated the empty echoes and eerie angles of the space. In a resounding echo, civilization had plowed its way into this rough, bruised place, and our engineering corps led that effort. They added a few features to the plaza within the past month. Their elevators siphoned up and down, over twelve of them available for use at all times.
+
+They whirred by, wind rippling off them like a racing car. A few were left unused, but considering their ease of construction, it was better to have too many than too few. They let guildmates and dungeoneers cross and supply the rifts without difficulty. Furthering the eldritch clearing, our dungeoneering corps made signs for each dungeon using a difficulty system they devised. Those were the enchanted stones, and they were, in fact, signalling familiar metals.
+
+They began with tin, representing a dungeon where everyday civilians could enter. We had stored Marcella and Rebecca within one of those rifts. The next rank, copper, meant monsters roamed around in a hospitable environment. It was the initial rank that most dungeoneers began leveling with.
+
+Iron was a bit tougher, usually harboring serious danger to an unsystematized person. Those rifts had environmental difficulties and monsters that could tear people apart. BloodHollow would've fallen into the lower end of that designation, and groups usually entered to cover each other's weaknesses.
+
+Bronze held the first leveled requirement: individuals needed to max out all their attributes to at least level 30. That benchmark gave them leveling perks, and they acted as a natural barrier to entry. That's why dungeoneers took bronze dungeons seriously and spent time researching the common eldritch types within them.
+
+Fewer people died in bronze dungeons than in iron dungeons since people respected the rank, at least according to Torix. That transparent threat forced adjustments, preventing deaths caused by a lack of preparation. On the other hand, steel dungeons held a vast breadth in difficulty, being the widest rank available. The sea cucumber dungeons would've lined up into that camp.
+
+These steel dungeons required levelers with specialized builds and powerful combat abilities. Oftentimes, entire groups disappeared in this rank, their fates unknown but heavily implied. Torix mentioned trying to reform this rank into multiple categories to prevent those disappearances. He figured they could separate them into steel, stainless steel, and carbon steel. It'd be in the next iteration of their system, apparently.
+
+The next tier up were the titanium rifts. They required entire teams of capped levellers at the very least. Anyone venturing into a titanium dungeon prepared themselves for a high chance of death, and oftentimes, they carried my golems as guards to help if something went wrong. The environments could melt metal and often lack air entirely, making the terrain as dangerous as the monsters in many cases.
+
+The second-to-last category was the tungsten dungeon, and they were meant for my followers or me to handle. There haven't been many of these dungeons found yet, especially on Earth. However, they left huge scars on the natural terrain and region, and their influence spread like a virulent infection. The Grand Canyon and Central Park would've fallen into that category, and they often contain sub-dungeons littering their main masses.
+
+The final category, graphene, was something thrown around as a final edge case. The only place I'd seen at that level was L-7's ossuary. Every perceivable aspect carried the threat of death, and the primevals could've wiped the floor with large patches of a planet single-handedly. This category involved a celestial scale of destruction and beyond. Dungeons couldn't really exceed that rank without destroying the planet they existed upon.
+
+Either way, we found no dungeons above titanium here, let alone something as mythic as graphene. This allowed us to explore, label, and coordinate the dungeons as needed. Instead of by resource and number, we stuck with names etched into colored stones. Each title signified the terrain and feel of the place.
+
+Water #2 shifted into the Sinking Marsh, a swamp where living mud pulled you under the surface. This gave a much better idea of what awaited levelers, and that was the general idea. We wanted to make dungeons safer to navigate, easier to clear, and less heavily taxed. Furthering that aim, Torix and Althea remodeled how we handled each rift's loot.
+
+They took full advantage of my Sovereign perks and planetary ownership. Instead of taking the excess credits, we reinvested my percentage of the region's earnings. Schema even incorporated automatic functions for that express purpose. Redistributing the wealth bolstered the rewards for the quests they posted, which had kept everything simple.
+
+After all, no one wanted people going off on wild goose chases or suicide missions. My experiences alongside Nissa, Jamal, and Jasmine verified how vital that kind of information was, and I gave praise to Althea and Torix's reforms.
+
+They didn't stop there, however.
+
+From killing specific numbers of eldritch to claiming territories, Torix and Althea rewarded people for maintaining the region as a whole. This included pinning down mines, mana crystal deposits, or finding rare inscriptions. The variety of tasks allowed explorers to join the fray, their desire to roam a potent advantage.
+
+After all, if they found an enormous mine full of rare minerals, our guild benefited even more than if they cleared out a few eldritch. Harvesting from the mines wasn't something we left to indentured servants either. Torix and Althea hired specialized employees, and they created a guild branch for that express purpose.
+
+These people mastered using the gravitation and telekinesis of my rings to handle the brunt of the work. They managed the logistics involved with manufacturing and distributing the materials, and that freed the indentured servants to go about living their lives however they saw fit.
+
+Some of them applied to join my guild, while others ventured back out to their families. The wanderers aimed to use their leveled status to forge a better living in the unsettled parts of the world. Althea had left them with caches from Marcella's supplies, ones the overlord had hoarded for a while. That helped them with getting started, and Torix distributed manuals detailing basic fighting forms and sorcery.
+
+Just as well, Torix had handled the raiders outside of the Shattered Spires. He rounded up based on Schema's records of their crimes. If they killed anyone outside of self-defense, they were summarily executed. I gawked at Torix as he said those words. The lich peered back at me, his eyes piercing.
+
+"Those who live by the sword, die by it. They chose to kill unimpeded, and anyone who believes another person's life is in their hands must understand that the concept applies equally to them."
+
+I blinked. We lingered inside the Infinity Plaza's central dungeon hub. Elevators whirred back and forth like gargantuan pistons in an engine. Guildmates paid respects as they passed, and resources flowed from the dungeons as water flows in a river. I crossed my arms, gazing at Torix's large, metal form.
+
+"But killing them all...It seems so brutal."
+
+Torix's eyes flared red.
+
+"It is. They ended another person's life brutally for nothing. Not even corpses."
+
+I leaned back.
+
+"Wait a minute. You aren't just bothered by the fact they didn't use the corpses for necromancy...Right?"
+
+Torix's eyes shrank.
+
+"There is a minuscule chance that may be the case, but my other points still stand. Leveled individuals are challenging to imprison, and upon most worlds and in most societies, murderers are executed by the law. It tides the otherwise endless streams of killing they enact."
+
+Torix sighed.
+
+"In a different world with more excess, perhaps we could have had more extensive trials requiring further evidence. I’d also have preferred putting many of them in jail. Their labor is valuable, though slower than I'd like. Despite those benefits, we lacked the resources to operate that kind of facility, and these were highly leveled individuals in most cases."
+
+He gestured to me.
+
+"Standard materials and methods aren't effective against them. A level 500 human can bend and tear steel bars. Other kinds of prisoners may live for weeks with no sleep or food. That potency allows for a different breed of mass murderer to evolve, one that can slaughter unsystemized people by the thousand."
+
+I furrowed my brow.
+
+"So the steeper dangers required steeper consequences to keep them in check?"
+
+"Precisely. Schema maintains pristine records as well, which eliminates the need for prolonged trials and extensive juries in most cases. In fact, what we required was reviewing the crimes, not verifying their validity. Your rather odd and esoteric class and trees supplied us with extra information about criminals and their bounties as well."
+
+Torix interlocked his hands behind himself.
+
+"Those bonuses are normally hidden in most empires. In yours, they are not, and so we act upon them. Aside from that, the juries would be made up of hard-working individuals who fought for their lives since the culling. What do you think their opinion on the raiders happened to be?"
+
+"I'd imagine anything but merciful."
+
+"It would seem you've understood the situation. Farmers, statesmen, merchants, and dungeoneers had no tolerance for the raider's wanton evil. I follow their moral ethos, so neither shall I. In fact, one of those groups is about to be eliminated. Would you like to see how it's done?"
+
+I frowned.
+
+"Of course. My guild is enacting punishment. It's only right I know what that entails."
+
+"It will ease your mind as we don't drag the process out or create painful deaths."
+
+We walked into the Sinking Marsh, an iron dungeon on the lower levels. Torix and I oversaw the groups of convicts. The air stagnated here, the scent of earthy decay lingering like a tilled garden. The thick humidity coated the criminals in a sheening sweat, and their steps clomped into the mud. Many wept, trembled in fear, or held a deep anger. A few carried a sense of resignation for what they’d done, while others stayed fervent in their denial.
+
+Torix gazed down at them with his hands interlocked behind himself. I stood beside our necromancer, my heart heavier than I expected, considering what needed to be done. Once near the tar pits, Torix gestured onto a line marked by glowing spheres of mana. Before the prisoners even understood what happened, Torix waved a hand, and it was done.
+
+The bodies fell, and he gazed at his skeletal fingers.
+
+“I’ve always wondered how criminals so easily take life yet how difficult they find it to resign their own.”
+
+I gazed at the corpses.
+
+“It's hypocrisy. It feels like we’re hypocritical, too.”
+
+Torix cackled.
+
+“Hardly.”
+
+He raised a hand, the bodies rising from the dead. My stomach turned as I peered at him.
+
+“Is it really necessary to use their bodies?”
+
+Torix nodded.
+
+“These individuals have robbed another soul of their body. It is fitting that they give theirs in death.”
+
+I frowned.
+
+“Having criminals executed amasses your armies. That creates a corrupted incentive for you, doesn’t it?”
+
+Torix gestured to the corpses.
+
+“And they had a perverse incentive to kill, maim, and murder. They allowed a simple desire to drive them wilder than animals of instinct. I choose to rise above such simpletons. We both have.”
+
+I frowned at the shambling cadavers. Their bodies were still fresh, and each of them had nosebleeds from Torix's kinetic splattering of their brains. I let out a breath.
+
+“It’s hard to feel that way.”
+
+Torix sighed.
+
+“You could easily slaughter millions if you so chose. At times, you have. When given better choices, you’ve made the difficult decisions to do what you know is right. To the opposing end, these animals have chosen their worst possible option.”
+
+Torix’s eyes flared red.
+
+“They became parasites that indulge on the lives of others. That’s a torturous burden for a society to bear, but these leeches not only torture - they kill. They use pain for pleasure. Death is a mercy I give out of necessity, not based upon what I believe is right."
+
+His flames turned bloody red.
+
+"If I had my way, these beings would be trapped in an eternal mental torment. They would live out their crimes for eternity, but they would be the victim. And they deserve it. They enact death prematurely to force the grueling permanence of an end upon the unwilling.”
+
+I frowned.
+
+"We kill all the time. Do we deserve what we do to others?"
+
+Torix raised a hand.
+
+"We have chosen to live this way. We kill those who have chosen this path as well. Either that, or we slaughter mindless monsters. The people those criminals killed did no such thing. They were dragged into purgatory. Eternal torture is exactly what those murderers deserve."
+
+A part of me agreed with him, but I was glad he killed them swiftly. I mouthed.
+
+"We called that hell in some of our old religious texts. Old? Hm, maybe not. There has to be an active following even now."
+
+Torix nodded.
+
+"Oh, I'm well aware. In fact, I rather enjoyed Dante's Inferno. Quite a detailed recounting, and I relished the vivid explanations. They remind me of certain eldritch."
+
+I peered at the revived corpses.
+
+"Last thing I have to ask. Can we be certain that Schema's records are airtight?"
+
+Torix sighed, tiring of the topic.
+
+"Firstly, Schema maintains a lenient definition of self-defense. Even subtle claims of wrongdoing were enough to avoid a bounty, and most of the raiders held long lists of brutal crimes. They also revealed how corrupt this, hm, how did you say it, Marcella, correct? Yes, how corrupt this Marcella's guild was."
+
+Torix shook his head.
+
+"It still doesn't ring even the faintest of bells."
+
+Seeing the Old One's power over my friend and mentor left me afraid in a way little else could. I frowned, and Torix continued.
+
+"As it happened, we found a small portion of those psionic parasites in Rebecca. They augmented a few of the strongest raiders. Using their abilities, those raiders took portions of the loot that prospectors gained from dungeoneering."
+
+I waved my hand.
+
+"Is that how they understood it? They think Rebecca was the head honcho?"
+
+Torix shrugged.
+
+"It would seem that is what everyone, all our records, written data, videotapes, and, well, everything, is pointing to aside from you and Althea's testimony."
+
+I frowned.
+
+"Do you believe us?"
+
+Torix met my eye.
+
+"With absolute certainty."
+
+I stood tall.
+
+"Thanks, man."
+
+Torix turned forward, raising his hands and walking.
+
+"Now, these pillagers cut deals with the roaming guards around the Shattered Spires, sharing the stolen goods. A few psionic scans verified it. Normally, a leader wouldn't be held accountable for every person in their organization. After all, no one had eyes and ears everywhere."
+
+Realization came over me.
+
+"Everyone except Marcella."
+
+Torix raised a hand.
+
+"If your and Althea's detailed recounting is true, then with Marcella's access to her surveillance tree, she knew everything that happened in her domain. Marcella allowed these raiders to kill, pillage, and do far worse for her bottom line."
+
+I stepped over hardened mud. The eldritch refused to move while we were near.
+
+"Then why was she fighting so hard for income? Marcella shouldn't have been so desperate."
+
+Torix leaned over one of the corpses. He etched a rune into their forehead, and their body strengthened as a plume of dominion mana waved over them.
+
+"I believe she paid tribute, and perhaps it was to this strange Old One or one of their other avatars."
+
+I frowned.
+
+"Hm. Our planet couldn't support a high payment in galactic terms. That makes a hell of a lot more sense than plain greed."
+
+Torix moved to another minion.
+
+"It also explains her lack of gear, goods, or pooled resources. She owned some measure of wealth, indeed, but she never derived the billions of credits I've surmised she should have. To that end, she kept 40% of what people made in the dungeons. It was a steep price for mere passage, but her valuation officers employed tactics to slice that cut even higher."
+
+Torix shook his head in disgust.
+
+"They never followed a fair market value, instead incorporating some self-made valuation system. They then kept the lowballed merchandise in their portion before handing off over-valued goods to the dungeoneers. This practice ensured they ended up taking more than half of most hauls. Ugh. Grotesque."
+
+Torix sighed.
+
+"Many of the levelers hadn’t even recognized that fact, and the practice left them with a mere pittance of what they earned. I assumed you didn't care for the income, and so the surcharge is a tidy and neat 0%."
+
+I smiled wide.
+
+"Oh, that's perfect. What about anything cipheric or information regarding-"
+
+Torix waved my concern away.
+
+"I addressed such issues. They shall be rewarded heavily upon information leading to any and all cipheric runes. However, they're rarer than one may imagine."
+
+I took a breath.
+
+"That's great. Honestly, it sounds like you've got this wrapped up rather well."
+
+Torix finished the last inscription on a corpse's head.
+
+"These bolstered awards shall help spur the explorers and researchers as well. Combine that with the other reforms, and the Shattered Spires will become far more whole and less like a series of splinters with potential."
+
+I cracked my knuckles.
+
+"Then let me finish up the last details."
+
+Torix turned to me, the new dragur oozing dominion mana.
+
+"As shall I, disciple."
+
+I walked off, a bit unsettled by Torix's nonchalance. On the one hand, he seemed to highly value the lives of normal people. On the other hand, he didn't care whether someone lived or died after they stepped into a truly systemized lifestyle. In some ways, I understood the honor code. It felt correct to me on a gut level as well.
+
+On the other hand, I didn't know if following some honor code resulted in the best society. That being said, the certainty of the crimes eased my concerns. I had no time to build prisons when people were being eaten by monsters or Old Ones were destroying the fabric of reality. In the end, it might be an issue I couldn't devote enough time to truly solve.
+
+Instead, I honed in on what I excelled at. I found an isolated dungeon within the Infinity Plaza. A creek babbled there, the water trickling over cracked rock and emerald moss. A few eldritch roamed these woods, but they steered clear of me. In this calming domain, I constructed two architects, two wardens, two vanguards, and an executive.
+
+These dual dungeon-cored golems required two days to make, but they arrived with the same splendor and grandeur as my previous batch. Stepping outside, I let the architects grind away at the amassed project list Althea and Torix left behind. The architects would create walkways between the various islands, remake old buildings, and improve the living standards in the tunnels below.
+
+Several engineers from Diesel's division celebrated when the architects arrived, most of them educated by Torix on magical engineering. They had already fixed the constant cave-ins, tunnel jams, and flooding that plagued the lower levels. Turning the honeycomb of tunnels into something decadent was the next step.
+
+At the same time, my wardens flew off to guard the lands near the spires. They would prevent new raiders from establishing bases of operation, clear out roaming eldritch, and survey future threats. The added security would increase the flow of people heading into the spires by orders of magnitude, which presented a problem of space.
+
+Althea solved that issue within the rifts themselves. She cooperated alongside many Speakers to create quests that awarded anyone who found great city locations inside dungeons. After all, Schema's perks allowed me to make cities anywhere. For that reason, I could settle these spaces without recourse. In fact, I spent a few days making coreless cities in these verdant, gentle dungeons.
+
+The pioneers gave these safe dungeons and secured towns a name - gardens. Gardens allowed for an unbelievable amount of territory to open up within the Shattered Spires. By the time we finished expanding into the rifts, the spires would no longer be the actual majority of living space. The main metropolis would be a hub between many different regions and territories, akin to an airport with passengers roaming about.
+
+It would rival the size of Texas. In other words, huuuge.
+
+To secure more territory, my vanguard golems spread out over the seas. They wrestled and restrained the remaining monsters on the open ocean, making the waters traversable once more. The golems would also help keep the weather from turning back into a perpetual storm.
+
+Within the heart of the Infinity Plaza, I used ten radiant blue cores to make an enormous barrier that encompassed all of the Shattered Spires. This gave everyone buffs, protection, and bolstered morale across the board. Knowing that nothing could simply arrive and destroy them gave people a security they hadn't known in a long time.
+
+When I got ready to leave, people walked on the walkways my architects constructed, no longer hopping around between the floating islands. Our guild set up shop in the plaza, helping get people signed up for our revised recruitment process. We opened a hospital, an armory, waterworks, and a power station that supplied basic resources and needs to normal people.
+
+In general, we left the spires in much better shape than when we arrived. It took a few weeks, but it was a necessary task. On Giess, I’d run around like a headless chicken, dismantling the people in power without knowing what would fill the void. That experience left me with memories I’d never forget, and a large part of me scorned my old approach.
+
+I should’ve known better then, but at least I learned what I could since then. That’s why we fleshed out as much as we could in the city, but we had to leave. The growing eldritch on Blegara had become a pressing issue, and we all missed Springfield by now. Saying our goodbyes, we left the executive golem and a few of our guild’s trusted advisors to handle the city's future development.
+
+As we headed back, we took a moment to survey the route from the spires to Springfield. While that was our reasoning, it was really a moment to relax between weeks of hard, laborious work.
+
+Torix let out a long sigh.
+
+"I wish to discuss what I believe to be a poor point of yours, disciple."
+
+I flew beside him, all of us crossing over abandoned farms, ruined cities, and strange fauna.
+
+"One of my poor points? Ah man, you have to get out the list then."
+
+Torix let out a laugh.
+
+"It's a well-kept ordering, believe me. This particular aspect revolves around your penchant for sudden shifts in prerogative and priority. Believe me when I tell you that your aggressive settlement program has been difficult to maintain while completely remaking the Shattered Spires. It stems from a larger issue, I believe.”
+
+Torix adjusted the mana cloud he hovered on.
+
+“At times, it seems as if you can't settle on any single thing."
+
+I took a breath.
+
+"You're not wrong. It's just...There's so much that needs to be done. It's difficult to arrange for any of it to be done right."
+
+Althea flew beside us, her feathered, white wings resplendent. They sheened in the sun, the light reflecting with an iridescent gloss. She must've made the tint from some kind of oil over her feathers. She frowned.
+
+"What makes you think everyone else will mess the projects up? I think we did pretty well. For the most part. Er, probably."
+
+I shook my head, remembering the rings' impact on people in Springfield.
+
+"At this point, I don’t think it’s about anyone else. It’s something I have to get over myself."
+
+She flew near me before landing on my back and sitting down.
+
+“You mean you wanting to do everything for everybody?”
+
+I collected my thoughts.
+
+“More like I want to make sure everything is handled as well as it can be.”
+
+Torix scoffed.
+
+"Ah yes, Daniel the half-asser. I’ve heard it many a time.”
+
+I shook my head.
+
+“I’m trying not to be, but it’s hard-”
+
+Torix waved a hand.
+
+“Have humans heard of sarcasm?”
+
+Althea smiled.
+
+“From what I can tell, yeah. Actually, I think lots of people use it all the time to hide what they actually think or feel. It's like a coping mechanism so that they don't have to deal with sincerity or direct communication.”
+
+Torix rewrote a few runic inscriptions in his grimoire.
+
+“In my specific case, I’m using it to imply what I don’t believe. If there is one thing that can be said about you, Daniel, it’s that you apply yourself.”
+
+I shrugged.
+
+"Yeah, well, I worked hard to help Giess. Look how that turned out."
+
+A silence passed over us. Althea murmured just over the whistle of the wind.
+
+"That wasn't your fault."
+
+I took a deep breath.
+
+"If I'm responsible for my successes, then I have to own my failures too."
+
+Torix crossed his arms as he stood upright on his cloud of dark mana.
+
+"Or take ownership over the failings of others? Perhaps you’re struggling with your limitations? It’s something I’ve often contemplated. Our limitations, in my mind, aren’t something we own. We can merely accept them. In a way, your incessant need to frame yourself as responsible for circumstances speaks to your arrogance."
+
+I squeezed a hand into a fist.
+
+“Hm. I never thought about it like that.”
+
+Torix turned a hand to me.
+
+“Let us think of it for a moment. You’re assuming you could’ve controlled everything given the resources at your disposal at the time. That includes your limited knowledge and vast inexperience. It’s easy to forget, but you really are someone who’s fumbling around in the dark. We all are. You simply have your failings exposed with a microscope given the sheer scale of influence you’ve garnered so quickly.”
+
+Torix went back to writing his runes.
+
+“While it’s excellent to be self-critical in times of failure, it’s also essential to be accepting of tangible success. Leaving the spires in that kind of shape isn’t something a younger Daniel would’ve done. You wouldn’t have visited there in the first place.”
+
+Althea winced.
+
+“Me neither. I remember way back when. I was just trying to get my body under control.”
+
+I smiled.
+
+“You and me both. Those were crazy times.”
+
+Torix wrote with an elegant enchanted feather. He implanted one of my rings into it, letting it scorch into the plates of steel in his hand.
+
+“I sat on a moon, alone and untethered for several centuries. I can assure both of you of this: neither of you should feel as though you’ve wasted your time or efforts.”
+
+Althea flipped over to him, one of her feet landing on his shoulder.
+
+“Thanks. It’s easy to forget how old and wise you are sometimes.”
+
+Torix leaned back.
+
+“And why is that?”
+
+She flipped back to me. She sat down cross-legged on my back.
+
+“Well, your new body, for one. But yeah, if I think about it, you’ve been the same since we met.”
+
+Torix leaned back and put a hand on his chest.
+
+“I, for one, believe I’ve changed immensely.”
+
+She nodded.
+
+“Of course. I mean as a person, not in your skills or whatever else.”
+
+Torix’s eyes flared white.
+
+“Name a single aspect that’s the same as whenever I first arrived here on Earth.”
+
+She pointed at Torix’s little travel cloud.
+
+“That thing.”
+
+I gazed at his mana blot.
+
+"How do you even make that thing anyway?"
+
+Torix looked down.
+
+"Oh, you mean this mana vessel?"
+
+I nodded. Torix flared a hand wide.
+
+"This isn't actually mana. I collect water particles from nearby while injecting an ink familiar within. I actually stand atop a panel of ice hidden by the dark cloud, and that jettisons me atop it as if the cloud were solid."
+
+Althea gawked.
+
+"Why do you go through all that trouble to get around?"
+
+Torix spread both hands wide.
+
+"Ah, answer me first. Why did you learn and study iridescent oils for your wings?"
+
+Althea hid behind her hair.
+
+"Uhm...because Daniel likes gemstones."
+
+She was right about that. Torix pointed at her.
+
+"Perhaps, but that isn't the true root of either of our reasonings."
+
+She rolled her eyes.
+
+“Oh, wise sage, please tell me what I’m really thinking then.”
+
+Torix flourished a hand.
+
+“But of course. It’s for style."

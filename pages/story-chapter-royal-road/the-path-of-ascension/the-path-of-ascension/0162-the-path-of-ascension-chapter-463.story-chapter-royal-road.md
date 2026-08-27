@@ -1,0 +1,423 @@
+---
+id: 9d5049fe-91ec-54ca-aef3-8c9f10425e66
+page-type-slug: story-chapter-royal-road
+title: "The Path of Ascension Chapter 463"
+slug: 0162-the-path-of-ascension-chapter-463
+partOf: the-path-of-ascension
+position: 162
+ownLength: 5789
+unit: words
+ownProgress: 5789
+publishedAt: 2025-12-08
+link: "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/2830755/the-path-of-ascension-chapter-463"
+royalRoadId: "2830755"
+markedReadAt: "2026-06-29T19:33:19.725Z"
+---
+
+Chapter 463
+
+Matt's only thought as they stepped into the barrier was that it felt far larger than it had any right to be. He didn’t think it was only a spatial expansion, but he was fairly sure there was a perception distortion making the moment stretch into taffy.
+
+It was almost like entering an isolation chamber and, in the emptiness, becoming hyper aware of oneself.
+
+Reality reasserted itself as Matt felt his outstretched hand breach the other side of the ruin’s outer barrier.
+
+A cool and humid air prickled his skin, and with his normal perception, stepping out of the barrier only felt like stepping out of water too quickly. Possible, but if one tried to move too fast, there was resistance.
+
+The first thing that caught his eye was the size of the enclosure. They'd deliberately chosen one of the smaller exterior bubbles to enter, hoping it would be weaker. But once inside, they found themselves in a savanna that stretched on for thousands of miles.
+
+Being on the wall broke the illusion, but they could now be sure the ruin had its own spatial compression, which gave them a whole host of new things to be on the lookout for.
+
+Not being attacked immediately, Matt allowed himself to appreciate the view. The bubble they were in wasn't endless, but it was impressively large. Thoughts on the ruin’s method of spatial compression were interrupted as the others came a beat behind.
+
+Taking note of the time difference, he quickly calculated roughly how long the compressing was.
+
+“Two point four times time and spatial compression, given our stagger.” Looking back at the pearlescent barrier they’d just walked through, he whistled silently, not willing to make that much noise before they knew what they were fighting. “That is a top notch open air effect. Damn cool.”
+
+Allie, Zack, Rah, and Aster all readily agreed, but they were, in turn, interrupted as a truly massive kudu launched itself out of the waving grasses and at their group, where they flew a few dozen feet off the ground.
+
+Its body was covered in a steel gray glow as it became airborne.
+
+Being Tier 29, even a peak Tier 29, it died under Liz’s casual fist, its body unexpectedly pulverized into an overly gory mess.
+
+In its place, a ghostly pale copy of the antelope was locked, frozen in the moment of its death.
+
+From the depths of the creature's colorless illusionary body, a red light like a wisp of dye appeared as if being injected into water. It was slow, relatively speaking, but they did nothing.
+
+Not because they didn’t want to, but because the sight before them wasn’t happening inside of the plane of reality they normally operated within.
+
+Or, that was Matt’s best guess, given the small spatial fluctuations he felt emanating from the creature’s… spirit?
+
+As the red filled the spirit, Matt could distantly feel as it grew stronger. Not higher in Tier but more powerful, as if the creature had been given a lifetime of training and had become far more dangerous.
+
+Or that was how he interpreted the feeling.
+
+Objectively speaking, it didn’t take long for the red color to fully fill the creature's spirit, and once it did, the creature broke its way back into reality with a bellow.
+
+Seeing Liz, its anger seemed to ignite and the creature charged, despite being mere feet away from her. While its first approach had been fast, the creature was now even faster, its movement enhanced by several skills.
+
+Liz reached out and grabbed one of the kudu’s horns, locking the creature in place. Its horns sparked as something similar to sharp-metal mana crackled along their length, trying to shear through her golden grip.
+
+Matt leaned forward as the monster struggled, ensuring he got a good look.
+
+Reaching out and rubbing a bit of the kudu’s pelt through his fingers, he contemplated the fur-like feeling.
+
+Without his eyes, he’d think he was touching a completely normal monster.
+
+Three punches later, they even had a rough idea of how much stronger it became.
+
+Liz’s first blow was a perfect copy of the previous killing blow, and didn’t even dent the monster's now-stronger skull. Her second strike did, and the third killed it for a second time.
+
+A second burst of essence rushed out from the creature, instantly ratcheting up their collective interest.
+
+Being able to double the essence they received from a creature was a solid reason for them to stay longer, but it wasn’t quite enough alone.
+
+Flying away from the wall, they quickly got into a fight with a small group of kudu.
+
+Four of the large antelopes launched themselves with metal energy, but they didn’t play with the monsters and quickly killed them.
+
+As the first monster died and exploded, the same cycle of its spirit being manifested into reality, slowly filling with red energy, started. As they killed the other three monsters, they found their spirits started with the same progress the first one has, keeping them all in sync.
+
+In unison, all of the monsters came back to life, but this time, they were noticeably a level stronger from having undergone the process together rather than one at a time.
+
+It made no difference and they were quickly ended, but it was a clear warning about the tactics of this ruin.
+
+Having only seen Tier 29 monsters after multiple fights and types, they stopped holding back and went on a rampage.
+
+Always sensitive to energies, Rah stopped them after fighting a group of one hundred. “Has anyone else noticed the mana and essence move a lot here?”
+
+Matt had noticed the same but, given their method of entry, he hadn’t considered it much.
+
+Zack, however, was two steps ahead of them. “I believe there is a convection cycle. All the energy in this place cycles to a few points. I believe we passed a transitory area behind us near where we fought the group of thirty two.”
+
+Allie grumbled about not sharing such information earlier, but they stopped wandering and moved with a purpose.
+
+Zack was proven right not too much longer as they found a watering hole in the savanna.
+
+At the center of the crystal clear lake sat a single Tier 29 water lily in the place of honor within the energy cycle.
+
+A powerful feeling of cleanliness lingered in the area.
+
+Almost immediately, the mana slowed to a stop, before moving to the nearest Natural Treasure. They didn’t recognize it, but its properties were obvious enough there was little doubt it would sell exceptionally well.
+
+Depending on the purchaser, the lily might become a powerful antitoxin or it might be added to a more permanent item to help break curses.
+
+Once they grabbed the other Natural Treasures, they moved back to the edge of the bubble via Matt’s [Portal].
+
+Allie insisted on assisting, leaving him with a tiny wound on his spirit, but it did allow them to cover the distance back to the edge in a single teleport.
+
+Wrapping themselves with essence, they pushed through the barrier, experiencing the same disorientation.
+
+Matt had hardly made it through the barrier when he felt a small hand grip his cheek and tear forcefully.
+
+The small Tier 32 hands were like iron, but Matt didn’t let that stop him from reaching up and grabbing the monkey's head with his left hand.
+
+The monster's fangs scrambled to find purchase on the indestructible skin of his palm, but its struggles were far too late.
+
+[Mana Beam] evaporated its head, leaving him grabbing a ghostly copy of the creature as deadly rays of mana leaked from his finger cage.
+
+Knowing he’d started the timer, he idly noted the ghost was filling with a green energy as he inspected where they’d landed.
+
+Seeing it, he felt his stomach drop, knowing the bomb was going to be a large one. One of the quirks of the ruin was the more monsters in a group the longer it took to empower the spirit bodies. That also meant unless they deliberately dragged out the battles, they had to fight massive spirit groups.
+
+The monkeys screeched in rage as they flew at him, glove-like projections formed around their hands.
+
+They’d appeared midway up the bubble, putting them at the canopy height, hundreds of feet up. The monsters being monkeys meant they’d appeared right by a troop, with nearly five thousand members.
+
+Unable to change their exit, Matt could only fight, knowing this was going to be bad.
+
+As such, he started casting [Hail] at a measly two million mana a second.
+
+The output was like a wall of ice, but Matt didn’t cast it in front of himself, rather behind, forming bubbles of ice on the wall and creating a barrier for the others to orient themselves. At the same time, he split off a portion of his mind to use [Ice Manipulation] to hold the ice up and compact it into something robust.
+
+Matt was quickly acquainted with their gauntlets as dozens of them smashed or grabbed at him.
+
+As much as he wanted to limit the casualties so the resulting second wave wouldn’t be as bad, the monsters weren’t giving him the choice.
+
+[Cracked Phantom Armor] started to crack and pop as he held back as long as possible, cursing how long it was taking the others to exit.
+
+Feeling the first monkey revert, Matt sighed, knowing a small crisis had been averted, but aware the much larger one still loomed.
+
+Feeling Liz start to exit, he went on the offensive.
+
+[Mana Beam] cut out once more, slicing through limbs, bodies, and trees with indifference. There were so many enemies, he couldn’t even see the ruin beyond.
+
+Liz finally made it through the barrier and upon seeing the situation, split into three.
+
+The first stayed by the wall and helped cover the others as they exited. The second flew head first at the oncoming wave of monkeys through the small opening he’d left in the ice wall, while the third started chanting as she prepared to cast a large spell.
+
+Wanting to help as much as he could, Matt split off a million mana per second to create a wave of Ichor to speed her efforts along.
+
+Forgoing single target spells, Matt flooded his sword with mana, still using his now typical combination of [Mana Slash], [Mana Charge], and his personally modified [Tribulation Strike].
+
+Together, the three skills cut down hundreds, but there were thousands to replace them.
+
+Ghostly bodies slowly filling with the green energy started to surround him as Liz began her own rampage, using the bodies’ explosive deaths to fuel her own growth.
+
+Flaring [Archmage’s Presence], he slashed out right as a second wave of monsters arrived before him, preparing to take the hit to slow the wave down.
+
+[Mana Charge] clung to his longsword like oil, but the power was unleashed when his sword came into contact with the first monkey. The single spell cleared the area around him as [Cracked Phantom Armor] took the backblast without issue.
+
+His respite lasted only a moment as the green energy filled spirits replaced the physical bodies.
+
+The Tier 32s monsters were fast and tough, but they were also small and not quite as durable as other monsters of their Tier, which made them hard to deal with but not impossible.
+
+[Mana Slash] came out of his weapon as a small arc, but with every inch it moved forward its size expanded, as the millions of mana sought to find an equilibrium within the spell.
+
+He knew it would reach almost a quarter of a mile long, but it didn’t have the opportunity to reach its full potential, not that it was any less potent for it. The monkeys that got in its way never noticed the difference, but there were plenty more to replace them.
+
+[Tribulation Strike], deliberately delayed, cracked the air as the lightning arced out from his sword to the monsters around him, killing off his third wave of attackers.
+
+Bursts of essence rushed into Matt like a series of waves, but he hardly noticed as he allocated them equally across his core raising all of his physical abilities equally with the first third of this Tiers essence.
+
+Liz finally reached a critical mass as the others started exiting the barrier, dozens of her fighting, uncaring of the consequences to a single body. In fact, a substantial number of her bodies were in their full liquid form. Liz, not having the bandwidth for complicated fighting techniques, concentrated on creating as many copies of herself as quickly as possible.
+
+Aster, having felt the situation through their bond, immediately took control of the ice fortress while claiming the ice [Hail] made.
+
+As he was fully swarmed, he felt Aster start casting debuffing spells.
+
+The monkeys fought back with their own wind powers, but Aster’s abilities were far more potent than simple wind spells.
+
+Frost and ice materialized out of the corners of his awareness, the illusions not aimed at him but still being potent enough to draw a part of his awareness inside.
+
+Monkeys clamored over Matt, trying to grab and twist his armor, causing serious damage.
+
+Unable to protect everything, he deprioritized his lower half, letting the monsters shred his flesh, using the pain and attention of the feasting monsters to cast a [Barrage]d [Gravitic Bolt].
+
+Dozens of projectiles appeared in rapid succession, aimed so they crossed right by his body.
+
+Temporarily cleared of monkeys, Matt lashed out with his familiar trio, but a new wave of monsters grabbed at him relentlessly.
+
+Having recently Tiered up, meaning the corresponding doubling, Matt had enough mana to push all three skills to their limits and beyond. Their spell structures in his spirit shone with a vibrant light as they struggled to contain the amount of mana he flooded them with.
+
+With his control, he pushed them to their limits, but they were still far below what he wanted.
+
+[Tribulation Strike] was better, but that was because it was a proper channel spell, and therefore didn’t have a maximum throughput. Sadly, it had severe diminishing returns past a few million mana, making its lead over the other two miniscule.
+
+Ideally, when he merged the three skills together, he could fully use the input mechanism from [Tribulation Strike]. But he hadn’t wanted to do the merge before returning to settled space, where he could have his guild’s experts look over his ideas.
+
+A rapid-fire burst of spells appearing throughout the battlefield signaled Zack’s arrival, but it was Gan Le’s presence that relieved Matt the most, after Allie herself.
+
+Knowing the following team members would have someone beyond an already overworked Liz to protect them let him fully relax, with Allie able to get them out of the danger zone.
+
+The second wave of spirit monsters finally finished their transformation and added their presences to the battlefield.
+
+Their roars were more like great apes, but their strength was all their own.
+
+With half a dozen on him, Matt could hardly swing his sword.
+
+Flooding his body with willpower, he forced his blade up enough to cause the stored mana to explode.
+
+[Mana Charge] didn’t kill the spirit versions of the monsters, but it did knock several off, letting him regain enough freedom to cast [Breach] point blank.
+
+Flooding [Cracked Phantom Armor] with neutral mana, he used the skill’s third upgrade orb ability that allowed his armor to better defend against the same type of energy attack as it was damaged by the mana type.
+
+[Breach] annihilated the monsters around Matt, but the cycle was still repeating itself with them needing to kill the monsters twice.
+
+What had been a fun addition to the ruin when they were far stronger than the monsters had turned into a near fatal change, given the monkeys’ numbers and Tier.
+
+Susanne and Rah stayed with Aster and Zack, defending them, while Allie teleported Gan Le and the rest of the team to somewhere else.
+
+Once they were gone and they could fight without holding back, they unleashed everything they had.
+
+There were five Susannes who flicked in and out of fights, cycling to cover herself and the ice fortress that the mages still hid inside. Unable to stay in the open for long, she mainly focused on protecting the base and assisting Rah who held the entrance.
+
+While no Gan Le, Rah’s Talent made his stone creations nigh indestructible and he abused that fact by turning himself into a plug for the bunker’s entrance. He wasn’t killing many monkeys but he was keeping everyone inside the bunker safe.
+
+Zack used that safety to cast spell after spell, aiming for the enhanced monsters, targeting them between wiping out swaths of the normal monkeys with larger casts.
+
+Allie flickered in and out of the battlefield, but not finding any general or leader of any sorts, she gave up and started slaughtering as fast as she could.
+
+Despite specializing in assassination and single target fights, Allie and Zack did more than their fair share of the fighting.
+
+Matt, Liz, and Aster could be said to specialize in so many things, it made the term meaningless being Ascenders, but their area damage was second to none at the same Tier.
+
+Aster mainly focused on the defense, which kept the team from becoming overly pressured, but she didn’t forget to take her pound of flesh.
+
+Using the excess ice from [Hail], she formed it into a ball and cast [Cracked Shatter], killing a wide swath of the monkeys between other tasks.
+
+Liz was a monster in her element. A core contingent of half a dozen Lizzes used [Coven Casting] to maximize wide-area spells like [Ichor Tidal Wave] and the upgraded [Scarlet Plague].
+
+While she killed hundreds, her clones killed dozens each.
+
+Flowing from monster to monster, close to two hundred Lizzes were created by abusing each [Ichor Clone]’s ability to direct eighteen core clones created via [Sanguine Legionnaire], the skill she kept in her Minkalla-given innate skill slot.
+
+Like a swarm of locusts, spears, feathers, golden ichor, and oceans of blood flowed.
+
+Large gouts of flame lit the battlefield as Matt left [Dragonflame] going while he fought with his blade. The high-Tier flames turned his world ablaze even as he cast his three sword skills as fast as their cooldowns would allow.
+
+Still having more mana to spare, he fluctuated [Cosmic Pressure] in a short radius around him, creating a small clear area around the skill able to kill the fleshly monkeys without much effort, but only slowing the spirit versions down.
+
+When sheer numbers didn’t solve the problem of too many monsters, Matt decided to try again by increasing the quantity further.
+
+He had the mana to spare.
+
+The [Barrage]d [Overcharge]d [Meteor Shower] carved large swaths in the monsters, crashing onto the rubbled forest below them.
+
+[Sheer Cold] added to Aster’s spirit space as she spread it, collecting monsters into her Talent where they could deal with them later, if they needed to deal with them at all.
+
+[Dragon's Breath] and [Dragon's Drought], the Tier 32 wind and sand elemental breaths respectively, joined [Dragonflame].
+
+Matt’s spirit screamed under the load he was subjecting it to, but he refused to stop casting.
+
+He had more mana to give and he wasn—
+
+Almost all at once, the fighting ended as the final wave of spirits were slain.
+
+Flesh regrowing, Matt looked up to the others, making sure they’d made it through alive.
+
+A still bleeding Allie returned with the crew a moment later, and Liz and Matt got to healing.
+
+Gan Le had done his best, but their group had still been attacked and the crew struggled to deal with the monsters, given the two Tier gap between themselves and the monkeys. They’d managed, but both Mangus and Arden needed moderate healing having lost limbs.
+
+Not that they let their rough landing stop them.
+
+Seeing that the trees for miles around them had been decimated by their battle, Matt knew they needed to move on. [Ichor Tidal Wave] turned everything caught in its swell into ichor to further its growth, thanks to one of its orb upgrades, but as a result, they had no cover.
+
+While anything not inherently aggressive had long since run, that didn’t discount other monsters lurking nearby.
+
+Moving to the nearest patch of untouched trees, they started to carefully explore the new bubble they found themselves in.
+
+The massive trees were visually interesting but magically ordinary, and so they left them alone as they looked for the next pack of monkeys.
+
+Unsurprisingly, they found another group of monkeys in a treetop gathering. On the offensive, Matt and team held a distinct advantage, and while a hard and long fight ensued, it was entirely under their control.
+
+Enjoying the easy essence, they killed every group they encountered while looking for any valuable resources.
+
+They found five before deciding not to backtrack and instead progress into the next bubble.
+
+Underground, they found themselves in a bisected cavern filled with shadow mana and littered with strange fungi.
+
+After a careful inspection and not finding any monsters, they began walking through the room with Matt and Liz leading from the front..
+
+As Susanne and Allie passed by an ordinary, if large, mushroom, it exploded after being exposed to light, revealing that it was not only hostile, but Tier 34. An enormous sense of danger flooded the area, triggering Matt’s [Archmage’s Presence] to hypercharge his reaction speed. Even then, he was only fast enough to barely follow what happened, not intervene with any of it.
+
+A cloud of spores exploded from the side of the mushroom, containing enough power to break a moon in half, and aimed directly at Allie’s head. It had only made it halfway to the teleporter when she vanished, carrying her free of the blast radius, but exposing Susanne to a substantial portion of the attack.
+
+Susanne had begun to tense, aware of the threat, but there was nothing that she - or any of them, for that matter - could do against a full five-Tier gap beyond active their life saving measures.
+
+They worked.
+
+Nearly the entirety of the swordswoman’s body was eviscerated, everything between her nose and knees turned into fragments of flesh, bone, and metal, yet their resistance barely slowed the attack down.
+
+Gan Le was the next in line, and Matt saw several outer layers of defensive spells around him flare up then break before he was sent flying into a stone outcropping.
+
+Only then was there enough time for any of them to do anything.
+
+Matt was the first to respond, and what he did was simple. He began to vent every spare bit of mana he had from his spirit, over six hundred million mana per second. Then, because that was nowhere near enough, he also triggered the release of a dozen billion-mana mana stones into their surroundings almost entirely uncontrolled.
+
+Twelve billion mana suddenly wreathing a person-sized area was a lot, far more than even he could reasonably direct, and he got to appreciate a number of exotic mana interactions as the world around him seemed to become undone, redone, and changed at the same time.
+
+Silver flakes of ash materialized and fell towards his skin, the color red began to tweet like a songbird, microscopic portals to a reality of twisting colors of time opened up. A finger-sized whale wove itself into reality through the chaotic streams of mana before it vanished as suddenly as it arrived its mana carried in the gale.
+
+Things turned worse as areas started having localized time loops, scenes repeating themselves over and over.
+
+Matt couldn’t spare such apparitions any more thought, too busy trying to prevent even worse things from happening.
+
+Then Zack began to act, stepping in and partially stealing control of the maelstrom, not so much that he would be solely responsible for the mana’s control, but enough that his Talent could affect it. He twisted the neutral mana in the direction of Life, of Healing and Fortune, and Ichor and Blood.
+
+Liz formed dozens of bodies that all swarmed the fungus, keeping its attention away from the main group and directing its spore-explosions in every direction except for the one that had become an impromptu hospital. Another clone extended tendrils of [Lifeblood Manipulation] into Matt’s storm of vivacious mana, channeling the power through six additional Lizzes each using [Coven Casting] to empower what had suddenly become a seven person ritual.
+
+They weren’t going to lose a friend to an unexpected attack again.
+
+Raw life filled the area, gold and red and green and blue, grass and fire, births and potions, as Liz used her own golden Ichor as a framework. She sent a blood-form body to envelop and surround Susanne’s slowly-falling intact body parts, golden lightning-blood supporting a few flickers of silver Sword as Liz knit a new body together for their friend.
+
+Allie reappeared in a flicker of teleportation, then began to teleport the rest of the group mere inches away from the barrier they’d just come through. It was quick, as by the time she got through everyone else — including Gan Le — Susanne was only about half healed, some few muscles and organs supported by a completed skeleton. In other words, stable enough to move.
+
+She vanished first, then Zack, then Matt was relocated to the entrance. A Liz had already gone through, with the clouds of golden mist hanging around the fungus all that really remained of the sacrificial bodies that had bought them the space they needed to retreat.
+
+What used to be vibrant Ichor rapidly lost its luster as the spores in the air consumed it and everything else living.
+
+Matt pushed himself through the barrier last, leaving dozens of billion-mana mana stones behind, ready to dissolve and unleash their payload as a parting gift to the mushroom grotto.
+
+Having already cleared the previous bubble, they spent a full day recovering and getting Susanne back into shape. She would be fine, but having to regrow her entire body had caused her to go deep into her healing cooldown.
+
+Fighting was possible, but any further injuries might not be healable in the short term. And with so much of the breach left, they didn’t want to risk any more surprise attacks in the ruin.
+
+As such, they started making their way to the outer edge where they could return to real space.
+
+They were exceptionally careful as they entered each new bubble, especially upon seeing a Tier 33 buzzard filled with putrid energy land in front of them. Getting a sense of the creature's power, they watched as its very presence turned a large area of the ruin into a decaying husk of what it had been.
+
+The monster’s gaze turned to them after a few moments, and corpses started to pull themselves out of the ground.
+
+They were all animals, but a familiar ghostly energy fleshed out their skeletons as they were slowly filled with a dark brown energy.
+
+Where the monkeys' green energy seemed to give them great physical strength, the brown energy made the monsters incredibly resilient.
+
+The minions were easy enough to slay, as their Tier varied, but the buzzard itself phased in and out of reality, seeming unbothered by their presence.
+
+That was until Aster summoned her Tier 25 spirit space. With her space imposing itself on reality, the buzzard was at risk and they slew it after another lengthy battle.
+
+They killed the monster without serious issues but after nearly a month inside the ruin, they started to look for a more direct way out.
+
+Susanne was in a very vulnerable state, and they couldn't risk her taking a major hit again.
+
+Her growth armor was salvageable, but would need dedicated repairs in the Empire before it would be usable again, given the largest piece of her armor remaining was a lucky palm-sized fragment of her helmet. Even the self-repair powers of a growth item had limits. While mangled, it was enough to keep the item spiritually intact, allowing it to survive the hit, which was all that mattered.
+
+It had done its job and saved her life.
+
+They even discussed having Allie take Susanne back to the Empire and hope Melinda wasn’t also in the breach, but they decided not to. Not because they didn’t want to try, but because Allie wasn’t confident in being able to return to the breach without a full waypoint. Deep chaotic space’s higher energies made teleporting into them harder, and hearing that, Susanne refused out of principle, making it a moot point.
+
+She’d need to be careful for their remaining journey not to get more injured or she risked her newly healed body falling apart and forcing them to decide between taking her back or risking her death.
+
+No reward was worth one of their friends' lives.
+
+On their way out they stopped to collect any and all Natural Treasures creating energy cycles they could find, and almost as if the ruin was apologizing to them, they stumbled upon something truly valuable.
+
+Mainly white, Matt’s initial reaction was to call it a pearlescent item, similar to the ruin’s barriers, but he realized his mistake when Zack reached out unconsciously.
+
+It was a Tier 33 Arcane Natural Treasure, and while they had no idea what effects it would have, Matt knew it was a research marvel for his friend.
+
+Unless it was one that could convert a mana pool. He’d wait for Zack to research it but if it could get around the limits on his mana pool he’d pay any price.
+
+Not that he’d blame Zack for wanting to study it. Mana pool aspecting affects aside, the Natural Treasure was a wonder all its own.
+
+Ambient mana was pulled into the wooden spiral and through its fibers. The mana was converted through complex processes into arcane mana at the center point of the Treasure, where the process reversed itself.
+
+It was still a chaotic mix of mana, but not the same mix it absorbed. If Zack was lucky, he could learn from the Natural Treasure’s ability to convert mana types, possibly giving him more control over his mana type changing.
+
+The discovery reignited everyone's treasure hunting fever, and they nearly made the choice to stay longer, hoping to find the center of the ruin to see what else it had to offer.
+
+As they still wanted to gain access to the rest of the breach’s strange realms, they continued their careful exit, not willing to stumble into another ambush.
+
+Thankfully they made it out without issue through on the other side of the ruin from where they entered.
+
+Following Mangus and Lura’s advice, they found and explored several more high-Tier worlds. They were able to explore two new strange realms, but the rewards were simple raw materials.
+
+Rare and nice materials, but not exactly what they were searching for.
+
+After almost seven months in the breach, Rah stopped them all. “I feel movement on a sky bridge behind us. It's a distant sensation, but I believe we are no longer alone.”
+
+As Katya dug their preprepared masks out of the group's personal belongings spatial ring, she murmured, “Faster than we expected.”
+
+Rah agreed with her assessment. “A month or so faster than we expected. We are nearly at the center of the bubble, so we have a choice. Do we turn back to investigate the worlds we know have competitive strange realms while we hide our identities, or do we push forward in the hope of finding untouched and possibly better worlds?”
+
+After several quick rounds of debates, they chose to continue forward and meet up with the other entry group.
+
+They knew what was behind them, and while there were a lot of combative strange realms they would like to explore, they didn’t expect their masks to hold up to too much scrutiny. Anyone appearing from in front of the groups they had left behind would be under intense suspicion, which was why they'd always intended to use their lead to get clear across the third layer breach bubble, where they could mingle with the other breach points’ explorers.
+
+Ultimately, they felt it was still their best choice, as it allowed them to stay on unlooted worlds for longer and allowed them to grab more valuable Natural Treasures.
+
+Matt initially found it hard to care about the raw monetary value of some of the more common Natural Treasures but he found far more joy in watching the crew members' excitement. The unknown and items with unusual energy patterns were far more interesting as they had the possibility of being exceptional held his interest far more firmly.
+
+Such things didn’t guarantee value, but they were good indicators.
+
+Liz had been studying the Tier 26 Petrified Tree’s Heart since they had found it, trying to understand how the tree kept seeping out a viscous blood-like analog.
+
+While a little lower than what they had been hoping for, the Natural Treasure was one of the ones they had been hoping to find.
+
+Inherently a rare Natural Treasure, being a complicated mix of blood, life, wood, and shadow mana, its effects were deceptively simple.
+
+Once absorbed, the heart would appear mirrored in the user's body, slowly pumping its sap into the blood stream. Far from harmful, the blood analog was a low but constant supply of a healing potion injected directly into the bloodstream.
+
+Alone, that was not too impressive, but the effect was healing cooldown neutral and something the body never developed a resistance to, making it a notable lifesaving item.
+
+Not that Liz intended to absorb it. First, they weren’t sure how the heart would interact with her Talent, let alone her Ichor. Second, she’d already used a Natural Treasure on her heart, and that kind of conflict could be difficult to navigate on the fly. Third, out of all of them, she needed another life-saving measure the least.
+
+Ichor, combined with her phoenix bloodline, made her a very difficult woman to defeat, let alone kill. Her interest was in trying to learn more about how the blood analog worked, hoping to learn something for her blood alchemy skills.
+
+They had just finished collecting the valuables on a Tier 9 world when Rah stopped them and indicated that he felt movement a few planets ahead.
+
+That meant it was time to hide in a rift and come out with totally fresh identities.
+
+Thinking of the whole facet of strange realms they hadn’t been able to explore before, they couldn’t help but become more excited.

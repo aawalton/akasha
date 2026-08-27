@@ -1,0 +1,417 @@
+---
+id: 4fb8d0ed-ae9b-5dac-8285-7076d8dfa91d
+page-type-slug: story-chapter-royal-road
+title: "The Path of Ascension Chapter 465"
+slug: 0164-the-path-of-ascension-chapter-465
+partOf: the-path-of-ascension
+position: 164
+ownLength: 5636
+unit: words
+ownProgress: 5636
+publishedAt: 2025-12-15
+link: "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/2850957/the-path-of-ascension-chapter-465"
+royalRoadId: "2850957"
+markedReadAt: "2026-06-29T19:33:23.835Z"
+---
+
+Chapter 465
+
+Not willing to blow their covers for a single person out of a group, they allowed the Tier 32 to ‘subdue’ them. They put up a token resistance, but quickly capitulated as he wasn’t a very good fighter.
+
+Seeing him move, Matt mentally pegged the bandit as a mid-level elite at his absolute best. He clearly knew how to fight and did a lot of the correct things, but for whatever reason, he over relied on his Tier as he ‘got them under control’.
+
+Gan Le nearly blew their cover by being too damn durable, but they muddled through after he got ‘knocked out’ and went limp. His pupilless eyes sold the act surprisingly well, though he nearly overcommitted.
+
+Battered and bruised, they were escorted through three worlds until they arrived at a Tier 32 world the mapping corporation hadn’t identified, as per their latest update they’d bought from the previous gathering point.
+
+The Peak Tier 32 commanding the bandits smiled upon seeing them.
+
+An ordinary looking man, Matt wasn’t able to confirm his real identity under the disguise he was wearing. He’d suppressed or otherwise hidden his [AI] instead of broadcasting it. Given the bandit’s current occupation, that didn’t surprise him too much, but he didn’t think it would matter either.
+
+When they were brought before the peak Tier 32, he laughed as if they were old friends and they were having a joyous reunion.
+
+In perfect but accentless Empire, he said, “Don’t worry about this. A small detour in your exploration. We simply need some cannon fodder for this little game. We have no intention of killing any of you, but we can’t enter alone. I could if I would, but I can’t. I have no interest in really pissing off whoever your backers are. Cooperate and you can all leave alive. A fantastic and fair deal.”
+
+There was a chance he was telling the truth, but Matt didn’t believe him.
+
+Where better to dispose of loose ends than inside a strange realm?
+
+Such things went both ways, but they had no intention to enter any strange realm at someone else's discretion blind.
+
+Aster, clearly channeling her actor friend Cynthia, quavered. “What are the strange realm’s rules? We won’t go in if it's guaranteed death.”
+
+The man’s smile widened as he pointed to Allie who was standing next to Aster. “Come here.”
+
+Putting actions to his words, the Peak Tier 32 grabbed Allie by the bicep and turned in one fluid motion. Not knowing how close he had come to death, the leader dragged her to the strange realm, letting her get a feel for it.
+
+Allie paused for a minute while she was close to the beehive. Touching it, she turned back to them, her upper lip quivering as if she was terrified.
+
+“It's competitive and killing is allowed but… but, not man… man… mandatory.”
+
+At the same time, Allie made an innocent looking maneuver with her foot.
+
+Matt was mildly surprised when her hidden signal confirmed her audible words as accurate.
+
+He’d expected a betrayal, but he considered that he might be wrong.
+
+His hopes were looking shabby as three other groups were brought forward to be dragged into the strange realm alongside them.
+
+One was a pair of Tier 32s who looked like a couple; the other two were larger teams, but only Tier 31. None of them spoke as they were pulled over but they were wearing cultivation-suppressing headbands.
+
+In fact, every group besides their own was.
+
+Thanks to not being subdued, he was able to scan the bands with his various senses. They looked Corporations in design, but that meant little. He’d seen similar bands at the Corporations’ trading hub they visited not too long ago, being sold as prisoner restraint methods for teams who chose to defend their chosen planets instead of rushing to the breachpoint.
+
+The bands clearly worked, given the lack of AI information from any of the teams, but that, combined with the nondescript armor the couple were wearing, meant he couldn't place their Great Power like he could with the other two teams.
+
+The Tier 32 male prisoner gazed at them for a few seconds before he dismissed them in the escape attempt he was clearly contemplating. The woman tried to make contact with several of them but they avoided her eyes, trying to play at being weak Tier 30s and out of their depth.
+
+The other two groups weren’t nearly as strong, though they were more identifiable.
+
+A team of Tier 31 dwarves who felt average for those who were willing to enter the breach. They felt generally strong, but it was clear they weren't exceptional enough to fight up Tiers to defend themselves.
+
+The same seemed to hold true for the other Empire group who were doing their best to avoid looking in their direction. They feared their weaker group asking for their assistance, and as such, refused to raise their heads.
+
+Matt didn’t mind or hold it against them, though he wasn’t impressed either.
+
+It took their captors nearly twenty minutes of disorganized yelling before everyone was shoved into the strange realm.
+
+The Peak Tier 32 leader personally forced the Tier 32 couple to enter the strange realm, not letting them escape while the suppression bands were off.
+
+Matt nearly gave them away when he stared a little too long.
+
+One of the other Tier 32s barked at him, “What are you staring at?”
+
+Trying to look contrite, he looked down mumbling, but his ruse must not have been believable as the man took a step forward with his hand raised like he wanted to slap Matt.
+
+Before he could kill himself, his leader reigned him in. “Stop fucking with the shrimp. Go get the Iron Bones.”
+
+Matt didn’t miss the Peak Tier 32 using the Monster Collective dwarven insult, but he didn’t trust it being a true slipup either.
+
+While the lackeys appeared disorganized, the Peak Tier 32 seemed to know what he was doing. That made his willingness to turn to banditry stand out more, and as such their guards were up.
+
+Powerful cultivators doing cruel things because they wanted an easier strange realm wasn’t too surprising, but the bandit leader seemed to understand restraint. That surprised Matt in someone willing to turn into a ‘bandit’ at the first drop of a hat.
+
+He didn’t have any more time to linger on the thought as the Peak Tier 32 lost his patience and gestured for them to step forward. He never questioned their obedience to his commands for a second and they hurriedly walked forward, fulfilling his wish.
+
+Touching the beehive, Matt appeared in a circle of light with his group.
+
+When everyone had entered, the Peak Tier 32 smiled, rubbing his hands. “Now, try not to struggle too much. We wouldn’t want anyone to die in these fights now, would we? Accidents happen after all. All we need you to do is scream.”
+
+The world around them shifted and twisted as a stadium formed beneath them. Its presence expanding the space between their light platforms far less than it should have.
+
+In the center of the stadium, an opaque crystalline pillar stretched from the ground to the very limit of the fighting arena’s space.
+
+Hidden deep in the pillar's heart, a strand of darkness shone with all-devouring light.
+
+The contradictory visual experience was novel, but Matt got the distinct feeling he needed to do everything he could to keep the light alive. If it went out, they would collectively fail the strange realm.
+
+The Peak Tier 32 looked like he was about to say something when a new light cluster appeared. It was small enough that it could only contain a single person, but that was all it needed.
+
+A Sects woman in traditional auctioneer's robes appeared and bowed slightly before she started speaking.
+
+As she did, her form twisted and morphed with every few words. An attractive woman, a gruff man, a young man just entering adulthood, an old lady looking forward to her graceful end.
+
+While visually confusing, the spoken words were clear despite the various bodies' vocal changes.
+
+“Foremost goal: Entertain the crowd. Fill the pillar with the worst of humanity. Defeat it. Claim your reward. Final team remaining claims all. Surrender allowed.”
+
+Matt was sure things weren't so simple, but the ‘person' vanished after speaking.
+
+Aster, having dropped her false fear, turned to the peak Tier 32. “So, what is the reward for this place?”
+
+The leader smiled as a silver tint appeared and started cycling through the light platforms.
+
+“Now that we are all inside, I don't mind sharing more than the strange realm itself did. First and foremost, this strange realm does allow surrender, but there is a caveat. It must be accepted by the other side.”
+
+Before anyone could ask how he knew that, he continued. “An acquaintance of mine entered here a few days ago. He didn’t win, but the guy who did was able to earn a bond-like summon. That's all he was able to tell me, but when I heard that, I knew I had to have it. I know there is a good chance it won’t be as good as Spirit Journey, as it uses the bond slot, but I needed to try. So, I set up the right conditions to ensure I can succeed.” He paused to subconsciously lick his lips, his eyes widening and dilating. “I always dreamed of getting Spirit Journey, and here is my second chance.”
+
+Snapping back to reality, he looked between the other three groups and the lights circling started to slow. “So, no hard feelings. We’ll try not to kill you, but no promises if you don’t do your best to please the crowd.”
+
+His smile at the end was predatory, but Matt got the impression he was telling the truth about killing. The man wanted to avoid it, though he clearly considered it a viable option.
+
+Matt was mulling over the implications of that new information and if it should change their plans when the cycling light finally slowed down.
+
+For an agonizingly long moment, it paused on the bandit team. So long in fact, he was sure they would be given the first choice, but at the very last moment, the light ticked over once more to settle on the Tier 32 couple, where it started pulsing.
+
+The man stepped forward, but before he completed the motion, he vanished. After a brief pause, he reappeared on the platform the strange realm had created, a lone body standing above the stadium.
+
+It almost appeared as if he was standing on top of the central pillar, but the cheers of the crowd told a slightly different story. Whatever the man saw, he was perfectly central and able to inspect all of his possible opponents.
+
+He looked at their group for a brief instant before he looked down, as if ashamed to have considered taking them on as the easy option.
+
+Matt internally cursed, as the sooner they got onto the podium, the sooner they’d control the strange realm.
+
+The husband's gaze traveled over the bandit team who taunted him, trying to egg him into picking them for his fight, but his only response was to sneer at their attempt.
+
+Finally, he indicated the other Empire team and their light circle bloomed like a flower opening. When the spectacle settled down, a woman armed with a chain dagger stepped forward.
+
+Instead of appearing with the first man in the circle of light, they both appeared inside the stadium at opposite ends.
+
+The ankle-deep sand started to fade away as concrete, steel, and glass shot out of the ground, where it replaced everything except the central pillar filled with darkness as the interior of a space station built itself in seconds. The one standout feature was the Empire-style buildings scattered inside the space station. The terrestrial buildings looked out of place in the half cylinder the battlefield had turned into, but not egregiously so.
+
+Knowing they were an integral part to this strange realm, Matt tried to inspect the stands and its people, but found an anomaly where the closer he looked the more people he found. Most of them were lifeless and still, but every once in a while, he’d find someone attentively waiting for an exciting moment to occur. Looking around more, he suspected it meant there were theoretically endless people to please in this competition.
+
+They did finally learn the man's name was Rubert when his wife murmured it, further identifying them as being from the Corporations.
+
+Rubert was a passable fighter, but at the outset, he made a mistake that cost him.
+
+He tried to talk, saying in Empire, “We don’t need to play alo—”
+
+The woman didn’t hesitate for a moment, her weapon appearing and striking for his eyes in a practiced and fluid motion.
+
+He raised his shield, deflecting the blow, but that caused him to miss her stepping on the chain as the dagger was deflected upward and continued.
+
+Pulled along with her weapon, she rode it like a flying device, kicking the lowering shield and sending Rubert into, and then through, the nearest building.
+
+Rubert reacted correctly by disengaging fully. That gave his healing spell a moment to work, restoring the blown out eardrums the kick’s shockwave had created.
+
+Turning and dashing through a window, he flew into the air, but it became immediately obvious flying took considerably more effort than normal, as both his speed and maneuverability were abysmal.
+
+Reaching out, he used a finger to launch himself upward in a much more natural motion.
+
+Clearing the building, he landed on the roof, where he saw the Empire woman about to fly overhead.
+
+Throwing himself forward, he tackled her off her chain and over the edge of the building. The two fell to the ground, creating a crater that caused several buildings to crack ominously but none of them collapsed.
+
+In their fall, Rubert drove a dagger into the chain fighter's side several times while calling out for her to surrender, but she stubbornly drove an elbow into his face, trying to batter through his skull.
+
+Rubert was so intent on trying not to hurt her, he missed her chain as it flew straight downwards chasing after them, slamming into the Tier 32 man. It nearly penetrated his skull and ended the fight then and there, but her aim was slightly off from a fatal strike.
+
+Whether that was intentional or accidental, it got the crowd cheering, with many people standing, excited to see the legendary feat of someone fighting up Tiers, even if it was only one.
+
+They cheered even harder as their newfound hero failed to disengage properly and was punished for it.
+
+Legs and arms moving in unison, Rubert twisted around the woman. Her shoulder gave way a moment before her elbow, but she never stopped fighting back, even as her arm was mangled.
+
+Her tenacity wasn’t enough, as down an arm, Rubert's hands faced little resistance as they slithered upward to grip her skull.
+
+With a roar, he repeatedly slammed her head into the ground with hard thumps that became inadvertently synced with the crowd's pleased cries.
+
+The blow before her skull was finally breached, she cried out as her body and weapon were both engulfed by orange flames, trying to force the Corporations cultivator off her.
+
+The woman's screams were accompanied by Rubert’s, but both of them were drowned out by the crowd's cheers.
+
+Before she could finish turning things around, the man withdrew his dagger from her side and drove it into her throat, threatening to drive it upward into her brain.
+
+Spitting blood as he spoke through charring lips, Rubert growled out. “Surrender or die.”
+
+The woman vanished after a brief pause but Rubert wasn’t given any respite.
+
+Instead, he once more found himself above the central pillar, needing to choose another opponent. He wasn’t even healed by the strange realm, his wounds closing at a snail's pace.
+
+At the same time, the black light in the central pillar grew. Its dark radiance cut through the smokey shell, basking the coliseum in shade for a moment before the ‘sunlight’ took back over.
+
+Rubert’s gaze once more swept over them, but he ended up choosing the Clans team.
+
+Matt instantly got a bad feeling when the team's tank stepped forward.
+
+Rubert’s second fight was longer than the first, but much worse by every metric.
+
+Having been able to see what limited abilities Rubert used, the dwarf, Kurndal, took his time bating attacks out, slowly whittling the higher-Tier opponent down.
+
+If Rubert hadn’t been seriously injured in his first fight, it might have been close, but it became clear almost immediately he was no endurance fighter.
+
+Kurndal didn’t push things too far, and when Rubert lay on the ground, an arm missing and his leg bent and twisted, the fight ended.
+
+When Kurndal appeared in the center, he delayed pointing at anyone and turned to the bandit group. “My team is last, yes?”
+
+The peak Tier 32 leader smiled as he affirmed the question. “We’ll keep you to last and won’t kill anyone as long as the fights are good. Hopefully we won’t even have to fight you guys.”
+
+Matt wasn’t too surprised the Clans team turned ‘traitor’. There were no loyalties in a strange realm and they'd expected such things when they voluntarily walked into the trap, which was why they’d been so careful with Allie inspecting the strange realm.
+
+If Kurndal expected leniency, he didn’t get it, but the bandit member didn’t try to kill him either, sticking to their deal for now.
+
+As the victorious bandit reappeared in the center to pick his next opponent, his gaze immediately went to their team. An instant later, their platform bloomed into a flower as they were selected.
+
+Liz was faster than the rest of them who also stepped forward, by virtue of there being two of her.
+
+Both fighters appeared in a stadium half filled with trees like a new growth forest, while the other half grew increasingly muddy as a swamp formed.
+
+The bandit lunged forward with a short spear, and Liz ran away deeper into the forest as if she was afraid.
+
+A dozen of her split off with sparkles of not quite concealed magic, and the bandits laughed upon seeing their buddy chase after the ‘real’ Liz.
+
+Seeing how Liz wanted to handle this, Matt almost felt bad. Almost.
+
+One of them even tried taunting their group, hoping for a reaction.
+
+Allie was the only one to react.
+
+Looking up and upon meeting a bandit's gaze, the teleporter pointed a single finger downward. “The show is down there. You don't want to miss it.”
+
+There was a pause as the man registered Allie's insult and he started to glower, but his attention was pulled away as the bandit caught up to what he thought was the real Liz.
+
+The Tier 32 reached out to grab her neck as if she was an uncooperative child, but she slipped away and behind a tree, where two of her separated.
+
+A spear flashed and pinned one of the Lizzes to a tree.
+
+Red blood bubbling from between her lips, every Liz paused in their running to clutch at their ‘wound’.
+
+As the bandits started to jeer, the impaled Liz stood straight and tittered in the man's face.
+
+“Just kidding.”
+
+The Liz pinned to the tree started to melt and twist, proving that he’d caught an illusion and not the real Liz.
+
+If the bandit had known Liz’s real identity, he’d never have turned away to inspect the other Lizzes who had resumed their running.
+
+However, he didn’t.
+
+While his defenses were completely down, the melting Liz reared back and slapped the bandit as hard as she could, sending him stumbling.
+
+The sound reached even them, but the large swelling hand print on his face shocked all of the spectators without fail.
+
+They couldn’t understand how an illusion could strike out with so much power to punch up two Tiers. Without the publicized knowledge on their abilities, two Tiers up against such middling elites was child's play, let alone the three Tiers Matt hoped the strange realm’s audience would see Liz as.
+
+Matt almost snorted when the man lashed out in his anger, demolishing the tree he’d pinned her to. Seeing the puddle of ‘blood’ that Liz had turned into, he stomped on it, covering himself in a mist of ordinary-looking red blood.
+
+Roaring further, he wiped his face as he turned to the other dozen clones who had run away, intent on chasing them down.
+
+Seeing his man lose control, the bandit leader turned to them full of piss and vinegar. “Is this how you want to play this? I’ve tried to be nice, to remain calm and not kill anyone. Now one of you humiliates Dom like that? Good. We’ll see how you like the next challenge.”
+
+Allie said something Matt didn’t catch, as everyone else continued to stare at their group in shock. He made a note to save the reactions for when Liz finished her fight. While he was confident she’d win, it would be a hard fight if she wanted to do it without exposing her identity, though he believed in her and bet accordingly. It reminded him of their Tier 10 tournament in a way.
+
+Dom, the bandit in the ring with Liz, unlike Rubert and the other Empire team's woman, wanted the fight to linger. Even with his anger pushing him forward with rage-filled roars, he never again struck to kill in a single blow as he tried to capture the ‘real’ Liz.
+
+It wasn’t out of kindness, as they saw when Liz didn’t dissolve a clone in time; rather it was for torture.
+
+Dom wanted to excite the crowd.
+
+So did Liz. And she was better at it.
+
+What Dom couldn’t see from inside the coliseum was that the crowd was going wild every time Liz escaped his grasp, but all the other teams had long since picked up on it. It resulted in even more strange looks with all of the other participants watching them warily.
+
+While the pillar seemed to fill only between matches, the stadium's seating expanded with every second, and they quickly crossed a million active observers. The rate of growth showed no trace of slowing down, only speeding up as the tempo of the fight started to come to its conclusion.
+
+None of the spectators bothered to look up from the sight below, their faces flushed as they cheered until their lungs burned.
+
+Liz was down to one clone and seemed to have run out of energy, given that her single body was sitting on a moldy tree stump with her eyes closed.
+
+Dom rushed in, screaming in rage, the swamp water sloshing up in large splashes that hid the battle from view.
+
+Matt knew the gasps of disbelief would tickle Liz pink, and he didn’t miss recording the other reactions, though most of his attention was below.
+
+Liz’s shield had blocked the spear thrust and deflected most of its accompanying spells’ energy to the side. A follow-up skill tried to get around her shield, but failed as she pushed the spearhead further away.
+
+Throwing herself to the side, she dodged the follow-up strike to swipe out with her own spear.
+
+Dom grunted as his hamstrings were cut, but he managed to keep his movements under half decent control as he started using more of his own spells.
+
+A burst of maroon light pulsed out of Dom, healing most of his injuries and covering the ones that remained.
+
+He tried to rush at Liz again, but she used the swamp water to deflect his attacks.
+
+Matt heard cursing as the bandits believed they had figured out her true capabilities of being a water mage, but they had no idea she was only using her spear shaft’s growth ability to manipulate other elements with her [Ichor Manipulation]. They were fine if their identities got exposed, but they were trying to prevent that, and using her often overshadowed growth item was as good as any other cover.
+
+To his credit, Dom even reacted correctly to learning she was a mage. Instead of trying to create distance, he rushed forward, trying to subdue Liz before she could gather further control over her ‘preferred element’.
+
+If Matt was right, the bandits weren't bandits at all. He believed, like them, the bandits were using false identities to disassociate themselves from such unbecoming behavior.
+
+Not that it mattered.
+
+The fact they hid their identities only confirmed the group wasn’t politically connected enough to get away with such things.
+
+There were no rules away from settled space and if they were so inclined, their group could have openly done the same thing. People might criticize them, but even if they slaughtered every group they forced into a strange realm, the other Great Powers wouldn’t do more than send a few strongly worded complaints no one would bother responding to.
+
+When Liz slipped into the marsh and water copies started appearing, the man finally lost his cool. “When you finally run out of mana, I’m going to make you suffer like you’ve never suffered before. And I’m going to do it right in the open for everyone to watch, I’m gonna carve into you—”
+
+Allie sighed as the man’s rants turned into obscene threats that escalated one after the other and she stopped taunting the bandit group.
+
+Giving them a side look, she sighed repeatedly until one of the bandits lost their cool and demanded to know what she was sighing about.
+
+Finally given the stage she wanted, Allie said, “I’ve never seen a single man talk seven others to their collective deaths before. It's kind of impressive, but I don’t want to waste my time taunting dead men anymore.”
+
+Halting her water attacks, Liz reappeared and backed up, pretending to be out of mana. Seeing the opening he’d been waiting for caused Dom to charge. Blinded by humiliation, rage, and the Ichor that had long since infiltrated his body, he never saw it for the trap it was.
+
+Inches away from Liz, Dom’s forward momentum halted, his spear trembling as it tried to cover the last few hairs of distance.
+
+Golden bands of ichor, masquerading as radiant chains of solidified light, covered the man as the blood Liz drenched him in earlier was finally utilized.
+
+Dom screamed, but Liz never even blinked.
+
+Instead, she raised a single hand and slapped the Tier 32 hard enough to mangle the remaining unblemished side of his face.
+
+Her hand came down for a second time, and the man was slammed into the swamp, causing an explosion of water.
+
+Liz’s hand moved like a claw as she reached in and dragged him back out of the muck.
+
+He spluttered, more out of a lack of understanding than the need for oxygen, but Liz gave him neither.
+
+Her third slap was delivered as she looked upward.
+
+She wasn’t looking anywhere near the bandit team’s actual location, but her message was very, very clear.
+
+Questions started flying, but all of them stopped as the bandit’s body dissolved from the feet up.
+
+Only when his head remained did she pause. “For the record, I was going to leave things at this point.”
+
+Then in a flash, the rest of his head vanished.
+
+Liz reappeared in the center as Dom fully died.
+
+No one breathed too loudly, as if afraid to draw Liz’s attention, but that didn’t save the bandits.
+
+When Liz turned her gaze to the bandit group, she pointed to the man who’d tried to slap Matt earlier.
+
+“You.”
+
+Her single word echoed through the silence as the pillar in the coliseum filled entirely with blackness, maxing out the strange realm’s rewards with her single performance.
+
+Punching up three Tiers to toy with her opponent had earned her more than a single pillar's worth of ‘favor'.
+
+The bandit leader stepped forward instead, but while Liz needed to fight harder, it didn’t change the outcome. His fighting early didn’t improve his chances of winning like he thought, but rather cost him his life. He was the only one who might have been able to challenge her if he’d been given enough time to pierce her disguise, but by fighting second, he squandered that chance.
+
+Sadly, the consecutive defeats didn’t make the pillar’s darkness increase, despite the crowd growing larger than ever, having broken a hundred million from its singular million in the second fight. It did pulse after each victory, so they assumed it was something positive, but they weren’t sure.
+
+Liz then turned her attention to the Tier 32 couple. “Mind if I start with you guys? You can surrender the moment the fight starts. If that loses us favor, well that's why I'm saving the Clans’ group for last.”
+
+The Corporations explorer looked like she wanted to say no, but when Liz didn’t force her hand, she nodded.
+
+Liz, not one to break her word, immediately allowed everyone from the captured three teams to surrender. Even the dwarves did when it was clear they didn’t lose anything with the instant surrenders.
+
+Instead of the strange realm ending when the last dwarf was defeated, their entire team found themselves standing at the base of the pillar.
+
+A man appeared and smiled, but Matt could already tell from its vacant eyes that it was the strange realm’s creation.
+
+“Only one reward, only one victor. Step into the pillar to claim your prize.”
+
+Matt grinned at the final twist, intending to allow teammates to turn on each other to ‘claim the prize’.
+
+Instead of fighting, everyone who was interested in the prize started debating and bartering.
+
+Eventually, the prize went to Rah, who paid for the experience by bartering a third of his total reward share and out bidding everyone else. Not having entered Minkalla, he was eager for a similar reward. After spending a few hours inside, he created himself a companion none of them recognized.
+
+It looked like a pangolin and a turtle had a baby. Each of its ‘scales’ were more like a hardened turtle shell, with distinct, if seemingly random, geometric patterns on each. It could only be a creature from Rah’s original Realm, or something from his imagination.
+
+Radiating Earth mana, the creature dug at the now returned sand for a moment before flopping over and wiggling.
+
+Sounds of cooing followed them out of the strange realm. As did several questions.
+
+Mainly, they revolved around the ever-expanding crowd and what it meant to the pulses of darkness that appeared after Liz had maxed out the reward pillar. Nothing seemed to stand out, but it was far too deliberate to just have been aesthetics.
+
+The best idea they could come up with was to leave a message near the strange realm and ask for others who entered to share what they learned.
+
+Unsurprisingly, none of the other teams lingered to say goodbye or thank them. They’d probably guessed by this point who they were, but that was why their group came prepared with multiple identities.
+
+They didn’t need good covers after all, they only needed to not be themselves.
+
+Changing their identities and apparent Tier upward to mid-Tier 30, instead of newly advanced, they moved to what their stolen maps indicated would be a trading hub.
+
+Along the way, Rah demonstrated why he chose the creature he did. The unpronounceable Tul’ull’luu’s scales were able to be enchanted without harming it. Best of all, they could selectively take on the properties of the materials eaten meaning Rah be able to further customize the enchantments he’d carve.
+
+According to Rah even the original species wasn’t sapient, only as smart as an intelligent dog, but they could follow and learn commands and his pseudo-bond version had a direct link to his spirit, letting him directly tell it what he wanted.
+
+What he described wasn’t what Matt and Aster shared, but it let the creature be trained far easier.
+
+A few stops to gather high-Tier metals later, they arrived at the still establishing trading hubworld. While they arrived a little early, the corporation doing the scouting was already there and more than happy to let them officially buy what they’d already been using.
+
+Updated map in hand, they set their sight on a pair of strange realms half a dozen planets away near the area that had only just been explored. In the third estimated breach point’s direction, the world was perfectly located at the edge of discovered worlds, leading many to flock to its location.
+
+Their main goal was still the strange realm on a Tier 31 world that allowed the victors a flat cost reduction when casting a single type of elemental spells. Recently found, little more was noted on their new maps, but it was a prize everyone would flock to, and so they made it their main objective.
+
+It wasn’t their only destination. Two strange realms, Tier 29 and 30 respectively, had been found on a Tier 31 planet along the way, and they wanted to hit it. The guild reported it as being swarmed as groups learned the Tier 30 strange realm could give people an [Inventory]-like space.
+
+The Tier 29 strange realm was less applicably useful, but for those with a bloodline like Liz and Aster, it was possibly even more important. If the reports were correct and not exaggerated, it would let them expand a single one of their bloodline powers, something rarely encountered.
+
+Not willing to pass up a second Minkalla-level strange realm, they planned their route and got moving.

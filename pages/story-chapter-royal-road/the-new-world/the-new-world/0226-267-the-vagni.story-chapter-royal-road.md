@@ -1,0 +1,515 @@
+---
+id: 43e91619-4094-548f-9cef-8afbec77a9a9
+page-type-slug: story-chapter-royal-road
+title: "267 The Vagni"
+slug: 0226-267-the-vagni
+partOf: the-new-world
+position: 226
+ownLength: 7571
+unit: words
+ownProgress: 7571
+publishedAt: 2020-09-04
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/549444/267-the-vagni"
+royalRoadId: "549444"
+markedReadAt: "2026-06-29T21:28:46.642Z"
+---
+
+The albony around us pounded their chests and let out their own roars. They growled like lions, their imposing minds and wills united under this figure. That figure turned towards us,
+
+"Let us see the Harbinger in his full fury."
+
+I nodded, "Eh, after that, I don't think I'll be all that impressive."
+
+Obolis raised a palm, "That isn't true at all. If anything, you'll surpass me one day, of that I'm certain. A little guidance would go a long way in that regard. For now, however-"
+
+He turned towards the Hybrids in the distance, "You need no instruction in the art of war. Come, let us paint with their blood and sculpt with their corpses."
+
+Obolis opened another portal towards the surface, "You all shall handle the Northern, Western, and Eastern sections of Saphigia. I'll handle the Southern section." Obolis pointed at me,
+
+"Follow the legion's orders absolutely. They've fought in this kind war before, even soaked themselves in it and come out living. I wish the same for all of you."
+
+They gave a unified snarl as he finished. Obolis grinned, his teeth sharp,
+
+"We'll take this planet once more. For the Empire."
+
+He leaped out into the surface of the water. As he did, the portal closed. A rippled echoed out from above right after, and that was where he went. I turned towards those here. Since I was the guy in charge, I needed some information.
+
+"Tell me what you guys can do?"
+
+Victoria stepped forward, "I am a knight skilled with lances and shields. I prefer light magic to focalize various heat attacks. Alastair is a kinetic warrior, and he abuses his natural strength to that end. Ophelia casts living magic, giving her a large range of output."
+
+Ophelia raised a finger, and a fireball with a smile formed over her hand. It hopped for a second before burning out. I crossed my arms, "Huh, interesting."
+
+Florence pointed at himself, "I'm terrible at fighting. Absolutely awful at it. If anything, all I can do is heal people. I'd much rather stay back with whoever else is also healing."
+
+I pointed at Alastair and Victoria, "You're frontliners, right?"
+
+They nodded. I pointed a thumb at my chest, "You'll be joining me. We'll be making a vanguard."
+
+I pointed at Helios, "You'll be joining Hod and Althea to offer support for our charge."
+
+Helios crossed his arms, "As you wish."
+
+Althea's eyes narrowed, and a chill ran up my spine at the sight of it. Shy as she may be, in the end, she was a firecracker underneath. I turned to Torix and Ophelia,
+
+"You two will be following them and helping clear out the enemies in our wake. Torix, you can use your mind magic and necromancy to engorge our force with troops to compensate for our lack of manpower. Ophelia, you can wipe out the bits and pieces we leave behind with your AOE abilities."
+
+Ophelia grinned, "Naturally."
+
+Torix gave a slight bow, "But of course."
+
+I gestured to Kessiah and Florence, "You guys follow behind and near them. We'll be placing bodies out for you guys to heal and stabilize. Stay safe, alright?"
+
+Kessiah gave us a thumbs up, "Sure thing, boss."
+
+Florence glanced at her before mimicking the gesture, "Indeed."
+
+He took up other cultures fast. I peered into oceanic abyss, "We're heading out. Light knight and the big guy, get beside me."
+
+I stepped forward while Victoria and Alastair lined up at my sides. The knight of light brimmed with excitement,
+
+"I can't wait. This shall be fun."
+
+Alastair frowned, "I'm always in front. Some things never change, I guess."
+
+I lifted a hand, the outer portion of our coral capsule smashing apart. Suspending the ocean with gravity, I looked behind me. Hod let out all of the air in his body, his chest shrinking into a stringy twig. As he breathed in, his body imbued with the might of shadow, and he strengthened into the shadow walker as a consequence.
+
+Florence took a step back, "So, is he alright?"
+
+I pointed at him, "This is how he looks when he fights."
+
+Hod's bones cracked, and umbral flames poured from his back and shoulders. Muscled and heaving, other Hod peered up at me,
+
+"I am here to serve, Harbinger."
+
+Helios shook his head, "His mana is...unusual, to say the least. I would've never imagined he was so adept."
+
+Other Hod looked at Helios, hostility brimming from him,
+
+"Your mind's limits are shallow, sheep."
+
+Florence let out a laugh before other Hod turned to him,
+
+"And you are a coward."
+
+Florence had a cheeky grin on under his mask, "Oh most definitely. I'm more than okay with that."
+
+I turned towards the ocean, "No more wasted time. Let's go."
+
+I bent my knees before jumping. The water rippled as I shot into it, and Alastair and Victoria followed suit. A cold ocean covered me from head to toe, liquid filling into my lungs. It made no difference since I didn't need to breathe. Despite that, a lingering mental block unnerved me for a split second. My mind screamed that I was drowning before I silenced it.
+
+Another kind of quiet echoed that silence, a muted humming droning in my ears. The ocean swallowed the sounds around us, which would otherwise leave many deafened. It couldn't devour all explosive echoes, the largest thuds making their way to us.
+
+Turning down, I glared at the Hybrids while my helmet slid over my head. My trademark, helmeted grin crawled across my face, the jagged teeth menacing and feral. Starting with the Western side of the city, I shot myself through the water with gravity wells. Vast swaths of ocean swirled around us, waves coursing outward from the resulting propulsion. Alastair did something similar, creating extended kinetic panels under his feet as I once did. His steps left heavy thumps in the sandy ground where he made contact, tiny eruptions lifting beneath him as he moved.
+
+Victoria took a different approach. She channeled magic for a moment, generating three yellow spheres that floated around her. Their light siphoned into her armor, the ebony armor-wearing albony brimming with energy. She shot through the sea, leaving evaporated water in her wake. We three landed on the ground of Saphigia, the coral beds contaminated with Hybrids. Here, coral degraded and clams cracked. This entire lot of Saphigia was left with no survivors remaining.
+
+Without needing to hold back, I waved Event Horizon over the sand and stony corals. The Hybrids squealed out with muffled howls. At the same time, I shot forward, water rushing past me. I crushed through a glassy Hybrid before draining its remains in a fluid motion. Four other monsters followed in its death as I darted around the crumbled lot.
+
+My gravity and telekinesis gave me a firm footing, my mobility unhampered by the sea around us. I left Alastair and Victoria behind, both of them unable to keep up for now. They acted as a cleanup crew, handling any Hybrids I missed. Above us, many adapted Hybrids darted above, some in swarms.
+
+As the Hybrids schooled together above me, I peered up. The water splintered the light of the sun, creating an ever-shifting expanse of light fractals. They cast rays across the seabed as far as the sea, towards the sea's horizons. It would've of been beautiful if not for the mass of metalled flesh launching towards me.
+
+The school of blighted demons rushed at me like a concentrated blast of Hybrid. Mana flowed through my bones and blood at a rapid pace, my skin glowing with heat as the energy channeled through me. With an enormous wave of gravitation, I collapsed them into a mass of writhing beast. Cracking under pressure, they crushed as I heated them into a soupy liquid. The water in their blood evaporated, releasing bubbles off the craggy sphere.
+
+With a wave of Event Horizon, the corpses disintegrated as if they were never there. Victoria and Alastair gawked at me, both of them stunned. Beneath them, Hybrids drilled through the sand below for an ambush. I raised a hand and stabbed it into the sand beneath me, a tidal wave of force rippling through the sand around us.
+
+That wave of sand carried charged quintessence that flooded the area with heat. As it neared my allies, I pulled Alastair and Victoria from the ocean floor with a gravitational jerk. Rushing past them, the sandy tidal wave left a sea of molten sand behind.
+
+Pulling my hand from the ground, waves of orange, glowing slush rippled across the landscape, splashing over the decimated lot of Saphigia. Hybrids drowned and burned in the bright sea. The few that escaped crystallized as the molten sand solidified into dark obsidian.
+
+Many Hybrids failed to break their obsidian prisons. These members clunked back into the rippling, glowing sea beneath them, drowning in the abyss. The few that somehow escaped the obsidian were augmented kinds of Hybrids, both blighted and enraged.
+
+Handling them, I lifted my other hand, massive splatters of molten sand smothering them. They struggled once more against the hardening mush. With a wave of quintessence, I flash froze them, ice forming around their bodies. Once they were encased, I spread my arms wide.
+
+Slamming my hands together, I created a massive sonic wave through the water. It shot up and outwards, resonating with the frozen Hybrids. Their frozen bodies shattered before burning away in the molten pit beneath them. With this patch of Hybrids culled, I stomped my foot.
+
+Through my heel, I drained the heat out of the seafloor. By the time it cooled, the water around us had warmed until the cold ocean turned into an endless hot tub. A wide, expansive patch of obsidian formed over the destroyed area. From my system's voice chat, Alastair's sounded out,
+
+"Uhm, just remember we're trying to save the vagni."
+
+I nodded as more Hybrids awaited us from the front. The largest of which, a mechanical tendril, went to grab me. I reached out a hand, encircling the mass with a gravity well. I collapsed its metal shell with a burst of energy. With another jerk of my arms, I rived the splintered mass apart. Another rush of quintessence flooded the leftover tendril with heat.
+
+It melted, bubbled metal pouring from the tendril's surface. It sunk down onto the ocean's bed in long lines of glowing, yellow metal. I leaped from the obsidian beneath me, sending cracks through the entire patch. I shot through the water, the light liquid brushing past my face like heavy, chilled wind. Landing on the mechanical tendril's root, I reached my hand through it. Finding bodies stored below, I drained the rest of the life out of the massive spire, freeing the albony trapped in its remains.
+
+The orange, nanomachine soup drifted out in the water before pouring towards me. It collapsed like a living, orange cloud onto my skin before Event Horizon disintegrated it into nothing. Beside me, Alastair landed with a thud. Several aquatic Hybrids darted towards him, and he knocked them into mush with each strike of his fist. Hell yeah, that's more like it.
+
+Victoria followed suit, using lances of light to pierce and purge any Hybrids attacking her. She impaled them, and the impact point spread outward, consuming their bodies. Once engulfed, the Hybrids exploded from the inside out. Their remains showered down from below, sparkling trails of prisms passing through the water. She coalesced these yellow shards, creating sharpened energy spears at her sides.
+
+Reaching out a hand, she stabbed through several more Hybrids in front of her. From behind, a Hybrid shot to her back. I reached out a hand, generating a sharpened pillar of metal behind her. It rose from the ground, glowing white with quintessence. The Hybrid bisected itself from the force of its crash, the halves drifting past Victoria.
+
+Glancing at me, her eyes widened as a Hybrid bit into my shoulder. Its teeth shattered while I turned towards it, casually inspecting the monster up close. I grabbed it as it tried swimming away, letting me look longer. They were similar to Giess's Hybrids, but these were cultivated for a different purpose.
+
+They evolved extended flippers lined with glass that gave them the ability to move quickly. Their jagged metal surfaces filled in with a glassy exoskeleton, so they remained aerodynamic. Some kind of phosphorescent glow ebbed from gaps in their scales as if blue light coursed in their veins. It was some variation of the nanomachine soup, no doubt, but it carried a glow as if it were the concentrated essence of the ocean.
+
+Satisfied with my inspection, my armor drilled into the beast, its entire body filling with branching, dark spikes. They drank its innards before a lifeless husk floated off me, its broken teeth from the bite wafting in the water. A wave of Event Horizon disintegrated it, and Victoria gawked at me as if I were a monster.
+
+Eh, maybe I was. With Event Horizon, I sterilized the water near me, keeping the devastating aura away from the bodies below. From above, spears impaled enemies like skewers, pinning Hybrids to the seabed. Althea took aim with a morphed cannon, pulled from her dimensional storage.
+
+Wielding it with deadly intent, she moved her sight in a fluid sweep, pinning six Hybrids onto the landscape. Ophelia's robe fluttered under the water as she followed up Althea's attacks. The imperial mage cast living, engorged water beasts that swallowed Hybrids and funneled them into these spikes. From piercing one to piercing many, the spears turned to skewers with Hybrids stacked over them.
+
+Hod finished their attacks, morphing from the shadows beneath the Hybrids on the spears. With tearing slashes, he carved them into chunks, each piece burned by his blackened fire. Near him, Helios eyed the battlefield, his gaze measured. He covered the backs of several team members, encapsulating Hybrids in ice if necessary. Unlike Obolis, his ice was instantly voided, the negative resonance leaving gray chunks of frozen Hybrids behind.
+
+Each of these Hybrids blossomed from within the ice, their apricot-colored blood expanding. These bodies littered the ground we passed, leaving the Hybrids lingering as beautiful yet hollowed corpses. Shifting around them, Kessiah and Florence swam in the water. Florence used basic healing magic and a few other tricks to pull most of the Hybrid gunk out of the albony. Kessiah followed up, doing a deep clean of the individual using vials of her blood.
+
+We made quick work of it, clearing out large areas of the city in seconds. We hastened further as we kept going, despite our rapid initial blitz. Torix was the cause of that, his necromancy pulling its weight. The lich took the corpses floating above, turned them into footsoldiers, and they helped pull agni and albony out of their homes and Hybrid pits.
+
+He disrupted many of the enemy soldiers as well, though quite a few vagni opposed us in conjunction with the Hybrids. It was an odd feeling, seeing one for the first time try and bite my face off. They were kind of like angler fish, though a bright red with green splotches over their upper half. Their eyes lined the sides of their heads, and their teeth were like needles in their mouths.
+
+They roared out sonic bursts to disrupt us, but they lacked any real potency. Unlike the espens or gialgathens, the vagni were highly underleveled. It was so bad that it was rare to see one exceed level one hundred, let alone level one thousand. I couldn't understand how they even survived, and that wasn't considering this was a fringe world.
+
+Yet here they were, fighting a worthy opponent like the Empire thanks to the Adair's help. It didn't add up as we passed block after block of the coral expanse below. I had plenty of time to think about it despite our rapid progress. It turned out that Saphigia was enormous. It rivaled the largest cities on Earth, this ancient city of organic corals spanning dozens of miles.
+
+It carried signs of an old culture, one with surprising depth and majesty. In the marine cliffsides, they carved eldritch gods, their primitive artwork beautiful in its own way. Stylized like the Aztecs, the vagni used thick lines creating images with no gaps between their flowing decorations. They stuck to universal but straightforward symbols like the sun, water, waves, and creatures of the deep.
+
+Across certain parts of the city, temples were made by farming coral into specific shapes. These buildings owned much cleaner edging than most, likely due to their religious significance. Many of these temples housed vagni hiding from the onslaught surrounding them, these civilians caught in the crossfire.
+
+Without fail, they hated us on entering the temple. Their skins flushed even redder than usual, and their teeth grew in length just from spotting Victoria and Alastair. At first, I thought it was just a specific group. It wasn't. The vagni despised any albony they saw, and eventually, I wanted to know why.
+
+Of course, the vagni couldn't speak very well. They used low tones and wails, kind of like whales on Earth. My speech didn't carry through the water, but that wasn't the only way to communicate. After finding many hiding groups of vagni, I telepathically connected with an elderly member of the group.
+
+It caught the priest off guard initially. After sending him my intent, he had no issue whatsoever belting out his grievances with the albony. In a fragmented sort of speech, he signaled,
+
+"They take our temple...ruin them...they mar our way of life...they leave nothing behind."
+
+I thought back, "What do you mean by mar your way of life?"
+
+"They tear down our gods...they tell us worship new god...new god evil, kill old gods..."
+
+Victoria and Alastair walked into the room, finding me eye to eye with a vagni. They winced as those hiding here gave them death glares, so I turned towards the albony,
+
+"Come on, let's get these guys to Helios."
+
+I helped them move the group of vagni towards the others for safety. While we traveled, I kept talking with the priest.
+
+"So, Schema was telling you to kill your old gods, the eldritch?"
+
+The priest swam with us, hidden amongst his kin,
+
+"They...they steal from us...they stop us from worship...they tell us make food how they want...they eat our young."
+
+My eyes widened at his last remark. We reached Helios, the blind albony generating portals towards a secured location behind us. As the priest swam through the divide, he gave me one last wide-eyed glance,
+
+"They...are evil."
+
+Our mental tether snapped as the portal closed, and his words left me unsettled. Helios looked none the wiser, the albony peering at his claws. He murmured,
+
+"Why the slowdown? You seem unnerved. Perhaps you find the vagni as repulsing as I do?"
+
+I blinked a few times, shrugging my surprise off,
+
+"Yeah. Sure."
+
+Helios eyed me from under his mask, but he let the issue drop. After that portal closed, three more popped open. Our other team members assembled around us as my mind raced for answers. Simple creatures or not, these guys didn't deserve to be food. They could talk for god's sake, and that was enough for me not to serve them on a dinner plate.
+
+I calmed myself down. This was the observation of some random priest in the middle of a panic, not a record made by someone with a clear head and keen mind. That being said, I wasn't about to ignore it entirely. This might result in some serious issues further down the line. Confronting it directly, I turned to Florence who caught up behind me,
+
+"Hey Florence, mind if we chat in private for a bit?"
+
+Out of breath, he used rings with enchantments to stave off the water around him as well. He nodded,
+
+"Yes, of course."
+
+We paced off, stepping a few hundred feet away. I met his eye,
+
+"So, we've been fighting these guys for a while now."
+
+He sighed, "I know it all too well. This has been very difficult for me." He stood taller, "Though a surprisingly refreshing challenge. It feels good to work...sometimes."
+
+I waved my hand, gesturing to the cities and ruins around us,
+
+"Here's the thing, every vagni we've seen has been terrified of you guys, the albony."
+
+Florence shrugged, "We're more developed, and what people don't understand often terrifies them."
+
+I leaned over him, "I know what real fear is. This isn't the kind of fear you get when staring at an algebra problem you can't solve. These guys are rabbits, and they're looking at you all like you're wolves."
+
+Florence raised an eyebrow, "You sound like an eldritch, my friend."
+
+I narrowed my eyes, "Stop derailing the conversation."
+
+"Hah, I do that when I'm nervous, huh?" He wrapped his clawed hand around his elbow looking for a way out,
+
+"Hmm, how to say this. We've committed certain acts that are deemed inappropriate to some. Therefore, we are...not viewed in a positive light."
+
+Florence smiled as he finished as if that would dismiss the issue altogether. I raised my fingers as I made points,
+
+"The vagni are underleveled, their temples have all been ransacked, and one of them told me you guys eat their children. I'm not easy to convince, but I can't just ignore all these signs. Some of this needs an explanation and right now."
+
+Florence frowned, peering down. A deep discomfort radiated from him, along with more profound sadness. Anguish might have been a better way of wording it.
+
+"It's complicated."
+
+I stared, "I don't have time for complicated. Make it simple."
+
+Florence leaned down, rubbing his temple with each hand. He took a deep breath and looked me in the eye,
+
+"The vagni were allied with the eldritch when we first arrived. Think of that realistically. They worshipped them as gods. Obviously, we weren't about to let ourselves get eaten for their irrational worship. Therefore, we culled the majority of the eldritch near their settlements, though there are still remnants of those populations left."
+
+"I'm guessing they didn't like that?"
+
+"That's an understatement. The vagni despised us, and they started a civil war against the Empire. During that time, we discovered that their temples were the center for most of their resistance. Their weapons and militarized eldritch were housed there. Using that knowledge, we came in, crushed them, and ended the war in weeks."
+
+"What about the whole eating their children part?"
+
+Florence grimaced, "That...that is an unfortunate side effect of our colonization. Just like all societies, the Empire has criminals, poachers, and thugs. Though it is considered highly illegal in civilized society, there are some circles that enjoy eating the vagni's young."
+
+Florence's brow crinkled as he uttered, "It is a miserable practice, but we've done all we can to stop poachers from harvesting their young. It's difficult to police an entire planet, especially one that hasn't been productive since landing here. The Empire came here to gain resources, not act as saviors."
+
+Florence turned a palm to me, "That is why what your guild is so inspiring. It's the kind of guild that many wish they were a part of."
+
+Disgust spread over my face, "But I'm helping a guild that harvests other sentient species children and serves them with champagne and fruit?"
+
+Florence winced, "I, I don't know what champagne is, but I can promise you that we've done all we can to stop the practice. There just isn't enough altruists who are willing to help this species. There are even factions that would rather we rid the Empire of them altogether."
+
+I let my hands flop on my sides, "So genocide? Is that just a thing for every large guild?"
+
+Florence raised his hands, his voice rising, "Do you think I haven't tried to stop it? I've invested a personal fortune in creating protective practices for the vagni. I've ruined my reputation by trying to research a solution to coexist with eldritch. Time and time again, I've made sacrifice after sacrifice."
+
+Florence's eyes widened while he grabbed my shoulders,
+
+"It is never enough. It will never be enough."
+
+He peered down, "I just...I just can't do any more than I've done." He let his hands flop against his sides, "I just can't."
+
+A silence passed over us, and Florence shrunk in my sight. He shook off a deep sense of sadness before glaring at me,
+
+"I understand you believe the Empire's policies are evil. Recognize that your time on Giess wasn't perfect either. Over nine out of ten gialgathens died during your stay there, and the entire planet is about to get wiped out tomorrow. At the very least, we've stopped the eldritch from consuming this world entirely, even if we've left our fair share of scars behind."
+
+Florence spread his arms, "I just ask you to understand that it's hard to do these things perfectly. Situations devolve. Complications arise."
+
+I peered down, thinking about what he said. From what I understood, Florence didn't seem like the lying type. If anything, he left his feelings on his sleeves, being too open and honest at times. The other albony viewed that as a weakness, but I considered it a strength. It meant I could actually trust what he said.
+
+From his spill earlier, he'd done everything he could to resolve the issues with the vagni. Even if I tried my best in his situation, I doubt I could've done much better. I mean, I left Earth in a state of disrepair and went to Giess to get rid of my own guild's bounties. It was a safer route for the people I cared about longterm and me. At the same time, the people back on Earth wallowed in poverty during that time. Someone could judge me for that, just like I judged the Empire for what they did.
+
+I couldn't tell if I was just making and accepting bad excuses, however. It all left a bad taste in my mouth, leaving behind situations like this. Surely the circumstances didn't have to turn out like this? My eyes widened as I shifted through my memories. I remembered being the espen's hero, the one they rallied behind to take down the gialgathens. I helped aid the Adair family as they started the Blighted Schism. I still regretted it today.
+
+I winced at myself and how selfish I'd been. Compared to that, Florence was a saint. On an individual basis, he wasn't that old either, good education aside. Even if Florence had everything handed to him, in some ways, the guy was worse off than I was. The people around him threw him in situations he wasn't ready for, and even though he called out for help, he didn't get any. Instead, Florence got jeers and an awful reputation. Despite all that, he persevered.
+
+I'd do the same.
+
+I put a hand on his shoulder, "You're right."
+
+Florence narrowed his eyes, skepticism painted on his face,
+
+"I am?"
+
+"Yeah, you are. After this is all over, I want to help you with the whole vagni situation. I think that we can do something if we worked together on it."
+
+His eyes widened, "You really think so?"
+
+I let my hand drop, "Yeah. I do."
+
+Florence believed me when I said that. To him, I was a larger than life figure. To me, I was just some dude trying to help out. If anything, I found Florence impressive. It took a lot to give up his standing in society to help the vagni, especially considering they hated him in return. That spoke a lot about Florence's character.
+
+Either way, I couldn't just watch the poor guy struggle through this alone. Helping him out here for even a month or two would make a world of difference, and we could handle the issue by then. The situation could be better, and I could be a part of making it better. Knowing that felt good.
+
+I tilted my head back to the group, "Come on, we'll talk about it more later."
+
+Florence nodded, "Thanks for this. It's rare someone listens as you do."
+
+I grinned, "Eh, it's actually not one of my strengths. I think it isn't for the Empire either though. They seem set in their ways."
+
+We walked back towards the gang, everyone taking out lunch and eating something. Helios stepped through a portal towards another world off in the distance, offering for Victoria and Alastair to join him. They did, and it was the most casual use of portalling I'd seen yet.
+
+It got me thinking about it. I hadn't realized how rare it was for Helios's kind of portalling to manifest. Now it was apparent how unique the talent was. His generation of portals was so fluid that everyone I'd seen thus far looked like amateurs. Well, outside of Obolis, but he was an exception too.
+
+Maybe Helios's blindness was what made him so good at visualizing and using portals. For most people, it was an exercise of the new. For him, it was an exercise of the old, and his sheer experience showed itself in his fluency. He'd made hundreds of portals today, and that was more than the portalists mustered over our entire siege of Giess.
+
+Thinking of Giess made me think about the glassing. It was tomorrow, and it made my stomach drop in my chest just thinking about it. It was like a shadow looming over my head, but not because I thought it would be blown apart. The Adair's had actually ramped-up operations as we pulled out, their harvesting of silvers intensifying with each day. They held absolute confidence that Giess would be fine, and that unnerved me.
+
+I hated complimenting an enemy, but Tohtella wasn't an arrogant individual. She was calculating and soulless, sure, but not arrogant. The Adair family knew something we didn't about the glassing. Seeing Obolis offer to watch the spectacle was mind-boggling in its own right as well. I mean, it was a more systemic sort of issue than one individual mistake, however.
+
+Everyone that grew up with Schema questioned him less than I did in general. To me, the A.I. was a shady sort of drug dealer figure, except instead of drugs for money, Schema offered a different kind of exchange - power for control. People that wanted influence were more than willing to trade their souls for the status he could provide. If anything, the standard morals I grew up with were literally irrelevant at a galactic level.
+
+It created a strange system where everybody stomped on each other to get ahead. The more you stomped, the better Schema treated you. By comparison, Schema's approach to me was a mixed bag. I was a  productive worker, yet also a risk. I did listen to most of what he said, but not all of it. That's why I ran into a lot of complications with the nigh omniscient A.I.
+
+My defiance stemmed from not needing him as much as most. I mean, a lot of my personal power stemmed from my work outside the system, such as my cipher runes or unknown skills. Schema accepted my lack of outright obedience since I was capable, and this put me on the fringe of the system in many ways. This gave me an outsider's perspective.
+
+By comparison, the Empire seemed more like Schema's ideal guild. They were industrious, stable, and controlled. They relentlessly hunted further status, fighting amongst each other for it. It resulted in tremendous success for some, though based on Blegara and the vagni, it left some in abject poverty. It made me wonder what kind of guild mine would turn out to be.
+
+We already culled millions on Giess, and if the Empire had its way, we'd do the same here. Schema seemed content with what the imperials did as well, the whole eldritch worship thing not sitting well with the artificial intelligence. Personally, I didn't want to spend centuries culling planets entirely.
+
+I'd rather build something instead of break everything down, even if that was what I was good at.
+
+Those thoughts left me deep in a state of contemplation before Althea nuzzled up beside me. She looked up with a cheeky grin, "Hey."
+
+I turned to her, wearing a soft smile,
+
+"Man, you can't know how great it is to see you. I missed you while we were on Giess."
+
+She raised her eyebrows, "Really? Why didn't you text me more?"
+
+I coughed into a hand, "Well, ahem, I'm pretty bad at texting. I, uh, didn't want to bore you."
+
+She rolled her eyes before squeezing me close, "Pshh, like I care. I prefer seeing you in person anyways."
+
+I hugged her close, taking comfort in having her with me for once. The blissful moment passed as quickly as it came, everyone finishing lunch. Victoria stood upright,
+
+"It's time to get back to clearing Saphigia. We're close to done." She turned to me, "If that's alright with you, of course."
+
+I stood up, and so did the others. I rolled my shoulders, "You're right. It's time to get this done."
+
+We went back to slaughtering Hybrids and saving the albony. Working our way through the city, time passed. The light fractals shifting above our heads waned as the sun crossed above and over the water. Creatures of the night came out in droves, alien beings reaching out from the depths. Their bioluminescent glow made them into tiny stars floating around us, each a different color and hue.
+
+I held Althea's hand as we ended the day's work. Florence gasped for air, utterly drained from the grilling work. Victoria, Alastair, and my team also showed some signs of exhaustion, many lacking an alert sort of look in their eye. Seeing that, I turned to those around me,
+
+"Everyone, excellent work. We'll go ahead and get a good night's rest and hit it hard tomorrow."
+
+Florence hit the ground while mumbling, "By Schema, I thought ruling a planet was hard. I had no idea."
+
+He fell asleep on the spot, so I lifted him with a few gravity wells, keeping him level. Hod molded out of the shadows behind me, his flames weakened from earlier. Torix and I retained vigilance for the others, our builds tailored for it. Once we zoomed back onto the ship, Victoria took hold of Florence,
+
+"I'll handle him. This is probably the hardest he's worked in his life, so good job wrestling an honest day's work out of him." She glared at Florence, "Somehow."
+
+As she walked off, Ophelia stared at Florence with an edge of concern, the kind that she tried hiding. I noticed it but didn't point it out. Of the new team members, the only person that wasn't tired outside was Helios. The blind albony stared at his nails with boredom, as if this was a typical day like any other.
+
+He raised his brow while looking at me, "Are we finished?"
+
+"Yes. Can you warp us home?"
+
+"Indeed. Before doing so, Obolis wished to speak with you one last time. You wouldn't mind, I assume?"
+
+I shook my head, "Naw, it's fine."
+
+Helios sent a few messages before closing his status. A portal opened, and Obolis stepped out into the dreadnought's control room from the level below. As the warp closed behind him, Helios lunged to the floor, kneeling as he usually did. Obolis raised a hand to him,
+
+"At ease, as always."
+
+Helios stood, grimacing as he did so. He might be more drained than he looked. The Emperor lacked any sign of weakness, however, as he gestured a hand to me,
+
+"It's good to see you. I wanted to discuss a few details of our siege, along with a few personal matters if you have the time."
+
+"Alright, sure."
+
+"Excellent."
+
+Helios turned between us, "I'll excuse myself until I'm needed."
+
+He stepped away towards a restroom in a side area. As we walked away, Obolis's face darkened,
+
+"I've never met a better actor, not on a stage nor in life."
+
+I frowned, "What, me? I can't act for shit."
+
+Obolis nodded, "And it makes you trustworthy. I'm of course speaking of Helios. In that washroom there, he's vomiting his guts out."
+
+I turned towards the orichalcum doors, listening closer. A slight hacking radiated from them, almost unheard given the constant hum of the vessel's engines. Yet, it was there, and Obolis heard it with ease. The Emperor turned towards me,
+
+"He will drive himself into the dirt in order to appease me and my wishes. I would ask of you to offer mercy where needed and discipline where warranted."
+
+"I can do that."
+
+Obolis walked forward, peering at the glass panel overseeing Blegara. He peered down, "It is my own failings that have resulted in this massacre. To think a people would be led so astray that they believe in an enemy as ruthless as the Adair family. Pitiable as it is, they've sowed their own fates, and now they reap the consequences of their actions."
+
+Obolis turned to me, "What do you think, Harbinger?"
+
+I tapped my teeth together, "Hm...what do I think, huh...Honestly?"
+
+Obolis raised his eyebrows, "I mentioned your merits earlier, honesty being one of them, so of course."
+
+I pursed my lips before saying, "Well, for starters, it seems like you guys really mishandled Blegara."
+
+"We are agreed on that matter."
+
+"And you really should have considered alternatives to essentially wiping out the vagni's culture and way of life."
+
+"Most certainly."
+
+"And you probably could have thought of some way to make eating their children more difficult. I don't know, the death penalty, maybe?"
+
+Obolis closed his eyes before turning to me, "Perhaps you may offer criticism that is more constructive in nature? A solution, perhaps?"
+
+I peered at Blegara, its vast oceans of blue stretching across the planet,
+
+"I don't know honestly. It reminds me of how I handled Giess. Looking back, there's a lot I'd do differently. Just like on Blegara, the situation wasn't clear cut on Giess. It was complicated and messy and hard to look at. I mean, when you're in the middle of a situation like that, it's difficult to make the right decisions."
+
+Obolis sighed, "I agree...That is why I sent Florence here. What he lacks in will he makes up for in talent. He has a means of seeing through what others find complicated, and I believed that talent would manifest in his rulings."
+
+He shook his head, "It did not. His ideas spiraled into the forbidden, and his results tumbled into the abysmal."
+
+I shrugged, "It sounded to me like the guy just wasn't given the resources he needed to succeed."
+
+A light grin cropped up on Obolis's scarred face,
+
+"If it were so simple. Your guild has offered support without needing compensation, likely due to its brevity of existence and recent rise to prominence. As time passes, your guild members will demand appropriate compensation for their time and effort. Otherwise, they will leave your guild for places that will give them what they desire."
+
+Obolis turned a palm to me, "Offering those resources and remaining competitive with a galactic environment is more than difficult. It requires the management of class and position. I gave the albony an elevated position in the society I constructed for this very reason - I retain the albony's talent."
+
+I creased my brows, "Can't you get people to stick around without something like a payout? Many in my guild follow me because they follow my cause."
+
+"A cause is fueled by inspiration, and inspiration is fleeting. By comparison, an individual's ego and fear are far easier to rely on, and I've done so with the very framework of my society."
+
+"Like with Helios. The guy wants status and security. You give him those things, so he follows you."
+
+"Indeed."
+
+I raised my hands, "What about people like Florence? He's talented in his own way, but from what I've seen, you guys have done an awful job cultivating that talent....No offense."
+
+Obolis frowned,
+
+"Truth is a rarity, so there is no need to excuse it. It is as you say as well. Many of those in my society have been raised within a very rigid rule system. This fosters rule-followers, not rule-breakers. For that reason, an individual like Florence is so valuable. Blegara was a place that required someone with their own sense of creativity and insight. The rules I set up would not function here, not without the loss of millions."
+
+Obolis closed his eyes, "And as such, the worst has come to pass. Regardless of my actions, both those past and those present, we failed here."
+
+Obolis gripped a hand, squeezing it into a clawed fist. He carried a well-controlled kind of sadness, one that anyone could see. Obolis pulled through that sadness and sighed,
+
+"I've done all that I can do here. Now it is to late to save the vagni and elevate them. We can't have our worlds become lost, and our people killed for others that refuse to be helped. In the end, this is all we can do."
+
+I disagreed, but that was okay. I intended to solve this problem with Florence anyway. Besides, I didn't have to agree with everything the guy said anyway. Obolis gave me a smile,
+
+"On a lighter note, I was wondering whether you still wished to view Giess's glassing or not. Before you seemed rather hesitant. Perhaps that view has changed?"
+
+I raised my brow, "Hm, I don't know. It still seems risky."
+
+"It will be a sight for centuries. Glassing is a rarity and knowing when and where it shall occur? Doubly so."
+
+I took a deep breath, "You seem convinced it's worth seeing, and you're a guy that seeks out fun-to-see things...Sure."
+
+Obolis perked up, clapping his hands, "You shall find the greatest pleasure in viewing it, of that I'm certain. You'll be offered the finest of luxuries during the event, as will your guildsmen."
+
+He gestured a hand to me, "Think of it as a final note of your stay on Giess, a closing of that chapter in your legacy."
+
+I raised my eyebrows, "It will definitely be the end of Giess, one way or the other."
+
+Obolis scoffed with oozing confidence,
+
+"Schema is absolute, Harbinger. You'll learn this tomorrow. It will wash away your doubt and allow you to look into the future. It will also be an excellent opportunity for our guild leaders to mingle in a different setting. An evening with wine and pleasantries allows for meaningful relationships to form after all."
+
+I raised my eyebrows, "Speaking of pleasantries, I was wondering how you did that whole 'living magic' thing. It was awe-inspiring."
+
+Obolis frowned, "It's simple really, though difficult in practice. You create a centralized orb of mana before granting it a consciousness. Once the mind has been generated, you suppress its will with mental magic, graft the mind onto your magic, and have it enact your will accordingly."
+
+Obolis shrugged, "It shall only live for a few minutes at most as the energy will naturally scatter outward. You can dramatically augment a magic's potency by having it guided in such a manner, however. Think of it like this-"
+
+He raised his hands, "Have you ever unleashed a calamitous attack that far exceeded a single enemy's worth?"
+
+"All the time."
+
+"Imagine that same attack with all its surplus energy wasted. Now, envision that same attack but with a mind of its own. It would use every ounce of itself to dispatch enemies at will. In that manner, far less of its potency is wasted away into an empty void, hmm?"
+
+I cupped my chin, "Yeah, for sure. It's a good way of avoiding overkill."
+
+He spread his hands with a smile, "My point exactly. Therefore, it is sometimes easier to use an attack to its fullest extent rather than attacking many times. Think on it, for it might be useful in the future."
+
+"I will. Thanks for the tips. That reminds me of my golem creation too. I've been giving them minds through some runic programming. I didn't know you could create a consciousness directly."
+
+Obolis grabbed my shoulder, giving it a squeeze, "With magic, anything is possible. You can even create a mind that suits precisely what you need at a given moment, though doing so takes much in the way of practice."
+
+He turned and walked off, creating a portal from nothing,
+
+"It was good speaking with you, but there is much I must attend to. Goodbye."
+
+I waved, "Cya."
+
+His portal closed before reopening. Obolis stuck his head out,
+
+"Ah yes, perhaps you might want to wear something aside from armor while at the spacial lounge? It might be a treat for your lady's eyes to see you in another light."
+
+He smirked, "Just a thought."
+
+He left with a hearty chuckle as my stomach sank at the idea. Gazing down at my armor, it shivered at my stare. I, not even once, considered wearing clothes over this damn thing. I had no idea how a suit would work.
+
+I squeezed my hands into fists.
+
+Nothing ventured, nothing gained.

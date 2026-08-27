@@ -1,0 +1,125 @@
+---
+id: d52055a4-a850-5736-af29-8435049cd3b7
+page-type-slug: story-chapter-royal-road
+title: "202 Subversion"
+slug: 0161-202-subversion
+partOf: the-new-world
+position: 161
+ownLength: 1581
+unit: words
+ownProgress: 1581
+publishedAt: 2019-05-05
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/358936/202-subversion"
+royalRoadId: "358936"
+markedReadAt: "2026-06-29T21:26:22.555Z"
+---
+
+This voice sounded smug in the worst kind of way. The Hybrid attempted eating me multiple times, killed the entire facility, and was draining Emagrotha for power. The sheer level of narcissism necessary to question the necessity of this fight was staggering.
+
+So staggering, in fact, that I didn't miss a beat as I boomed my voice like a hammer,
+
+"Oh, it's absolutely necessary."
+
+The Hybrid gained some measure of control over its movements, a different mind controlling it. It ducked and dodged a few of my attacks, attempting to retaliate. These were the desperate moves of a beginner, however. He threw himself off balance when he avoided my strikes, making his own counterattacks mute.
+
+After a quick adjustment, I nailed him with three consecutive strikes before Torix nailed his palm with a spear. The voice wailed out, "Allow me to explain. I was the leader-"
+
+I smashed his face with my fist. He pulled himself from the wall, getting distance from me,
+
+"The leader of this facility. I was attempting to prevent the creation of the Hybrid. I was doing everything in my power to stop them."
+
+I melted a portion of the floor, the Hybrid's foot dipping into magma. It threw him off balance, letting me duck down and slam my fist into his face. His head bounced off the rock wall, orange mana augmenting it. He fell down, rolling away from me. I cut off his escape as he growled,
+
+"Will you not listen to me?"
+
+I didn't understand what made him believe that he deserved anyone's attention for any length of time. This guy was a cut and dry case. He abandoned his friend and fellow researchers in the pursuit of power. Sure, he could twist his logic some and try to rationalize what he did. Anyone that ends up in this kind of situation does. I'm sure to this guy, the ends justified the means.
+
+That's the thing though. I'd already met quite a few people like him. This guy was a megalomaniac who believed he could worm his way out of anything. I wasn't going to give him a chance. That's why I kept up my assault, piling on damage as he kept talking. Before I sealed his fate, Torix raised his staff,
+
+"Let's listen to what happened here. Perhaps he may give us crucial information about what occurred here or who worked with him?"
+
+I kept my hands raised, grimacing at the Hybrid, "Start talking."
+
+The Hybrid had its hands over its face, "Thank you. At least one you isn't a complete brute."
+
+I clanked my fists together, "Tell us what we need to know, or I'll gut you where you stand."
+
+The Hybrid coughed into his hand, "Ahem, this facility was created to study Emagrotha. She was the framework for the Hybrids. We found her at the bottom of this disgusting sea, an old pile of mush. That is what Lehesion left of her after their final battle."
+
+Chrona snapped out with a telepathic wave, "And why didn't he kill her? Why do this?"
+
+The Hybrid's head twitched, another mouth forming on its face. It spoke out in the same voice,
+
+"Emagrotha agreed to a battle where neither of them would use the mana of Giess. Emagrotha trounced Lehesion to such an extent that he retaliated in the rage of a god. He did more than kill her. He granted her an undying body while stripping her of all her nobility."
+
+Another mouth formed over the Hybrid's face, the cybernetic teeth clanking as it spoke out in a woman's voice,
+
+"He spoke out in a tyrade of what happened to those that defied him. How they were inferior. Gialgathens are a race of honor above all, and this was a display of character so shallow, they condemned Lehesion. His legend and legacy were threatened."
+
+His voice change verified a few of my suspicions. The researcher might have actually been the catalyst for the Hybrid's initial development. At the same time, the Hybrid had somehow kept their consciousnesses intact despite their deaths. Those thoughts raced through my mind as Krog let out a telepathic growl,
+
+"And how would a dirtwalker like you know all this?"
+
+Like an insect, the Hybrid twitched as another set of jaws formed on its chest. The woman's voice said,
+
+"We used many mind mages, ones who hide their names in shadows. These remnants probed the memories of many gialgathens who were at the battle. This is how we discovered the mass amnesia following the event. Lehesion cast a spell that wiped the memories of his deeds. That is why no one remembers what happened here."
+
+My eyes widened at the revelation. They trapped gialgathens here and probed through their minds to learn what happened. That's why the facility was large enough for gialgathens despite no gialgathens being present.
+
+"Wait a moment," Torix said while cupping his chin in his hand, "What happened to those gialgathens, and you mentioned something about remnants?"
+
+"Yes," the Hybrid spoke out in Emagrotha's voice with a new maw across its chest, "The gialgathens were sent to another facility deep in silver territory. There they created a different kind of Hybrid, one compatible with gialgathens. We were not given the reason why. Our goal was different. We wanted a bipedal Hybrid that maintained lower levels of thought."
+
+The Hybrid kept a slow, steady rate of regeneration as he spoke. I wasn't stupid though; I charged a singularity as he kept talking.
+
+"We chose our targets carefully, ensuring that natural causes of death were assumed. We destroyed records of their demise as well. Secrecy needed to be absolute. Curious onlookers were killed as well."
+
+I kept my guard up, "What about the remnants?
+
+An elderly lady's voice spoke up,
+
+"The remnants split into many fragmentary factions of genetic splicing. After Schema stripped them of the advanced technology that enabled this, the remnants relied on bloodlines to maintain their superiorities. This particular faction relied on mind magics created from an organ lying in their skulls."
+
+Torix mused, "Hmmm, so that is perhaps where Schema gained his ability to augment sentients. The remnants already owned the technology, and he stole it before repurposing it for his system...Interesting."
+
+The Hybrid squirmed, orange capsules reforming while Event Horizon slowed his healing. It spoke out in the grandma's voice,
+
+"They assisted with funding our operation as well, many of their members considered Unknowns."
+
+I raised a palm to the Hybrid, "Enough about technical specifics. Why did Lehesion wipe their memories?"
+
+The Hybrid took several rapid breaths before snarling in the voice of a dying man,
+
+"His closest advocates turned on him, crushing loyalty built over decades. This crippled Lehesion's esteem of his godly self. He relied on their affirmation more than he realized. Reeling in self-doubt and pity, Lehesion chose to isolate himself from society. Deep in Giessian wilderness, he lived alone for decades following the civil war. That is all we gathered."
+
+Althea pointed her rifle at his head, "Why in Schema's name would you all want to make a Hybrid?"
+
+The Hybrid let out a long laugh in the dying man's voice. It sent a shiver down my spine.
+
+"Is it not obvious," it choked. "This was to be a weapon against the eldritch and silver menace. This being was designed as the ultimate irony, using the best traits of both entities to destroy them both."
+
+It pointed at its body, jaws covering it from head to toe now. Its voice radiated out like a husk of metal,
+
+"I...I was to be the beginning of their destruction and the end of their blight. They believed they could control me...they could use me."
+
+This was the actual Hybrid's thoughts. It articulated with a great struggle, "I thrashed them to pieces and sucked up the corpse of this facility. I killed those that killed to create. I did no wrong in doing so. These people deserved death."
+
+Torix nodded, an edge of sarcasm leaking into his voice, "Ah yes, I'm certain they did. I suppose you believe you deserve to live as well?"
+
+The Hybrid nodded, "I do. I told you all that I know from the many minds swimming through me. The vast ocean of thoughts carries with it other deep memories I may share, given time. Spare me, and I shall expose them to you."
+
+I wasn't even giving the pretense an ounce of consideration. This abomination was something that needed to die. Period. We couldn't afford to let it regenerate much longer. With time pressing from all sides, I pointed a hand at it,
+
+"I have a few more questions left. What code is encrypting this technology, how do you know so much about the remnants, and who exactly organized this operation?"
+
+The Hybrid squirmed, "This is a language designed over centuries by the remnant mind mages. They kept portions of their collective as unknowns and exiles of Schema's system. This prevented them from being discovered while exchanging information. These scribes allowed them to operate in secret behind the scenes of many influential factions."
+
+"As for learning of the remnant's secrets..." the Hybrid cackled, "I devoured one and assimilated its memories."
+
+Althea kept her gun pointed at the monster, "Spit it out then. Who organized everything?"
+
+"A member of that coalition of mind mages. She's the most prominent member of the Adair family."
+
+I whispered, "Wait...the Adair family."
+
+"That is correct." The Hybrid lifted a hand, "Tohtella Adair."

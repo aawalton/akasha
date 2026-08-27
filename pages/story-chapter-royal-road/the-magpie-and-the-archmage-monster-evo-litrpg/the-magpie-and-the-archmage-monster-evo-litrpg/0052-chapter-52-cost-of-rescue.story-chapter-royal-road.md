@@ -1,0 +1,251 @@
+---
+id: ce248d6f-ace4-5d1d-9905-cd9efa203eec
+page-type-slug: story-chapter-royal-road
+title: "Chapter 52 – Cost of Rescue"
+slug: 0052-chapter-52-cost-of-rescue
+partOf: the-magpie-and-the-archmage-monster-evo-litrpg
+position: 52
+ownLength: 2219
+unit: words
+publishedAt: 2025-11-24
+link: "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2787723/chapter-52-cost-of-rescue"
+royalRoadId: "2787723"
+---
+
+Liora felt great. Better than great, actually. She had spent the remainder of the night and a good portion of the morning resting in the canopy of a tree. It was bliss: no monsters, no noisy humans, and no need to hide herself. While Liora loved looking like a magpie, it felt restricting to keep that form all the time. She wanted to enjoy her powerful new wings and long legs once in a while. Outside of battle.
+
+You took your sweet time.
+
+A magpie needs some proper rest once in a while.
+
+While you were sleeping, your friends accepted a new quest.
+
+How do you know that?
+
+I can see all your notifications, did you forget?
+
+How come I don't see it now? I didn't dismiss it.
+
+You did. In your sleep. Muttered something along the lines of "get lost".
+
+Thinking back, Liora did have this weird dream of blue cloth flying into her face and obscuring her vision. Maybe that was it.
+
+So what quest did they take?
+
+Another delivery quest. This time for ore. You'll likely find them near the mines.
+
+Where are the mines?
+
+In the industrial sector of the city.
+
+And where is that?
+
+Just fly back and I'll direct you where necessary.
+
+But I'm hungry. You think they might have eaten breakfast already.
+
+It's already lunchtime, birdbrain. Of course, they've had breakfast.
+
+Liora puffed her feathers in displeasure. She wanted some fried eggs and sausages for breakfast. But she supposed, she'd have to make do with what she can find in the nearby forests.
+
+Thankfully, the season was ripe with blueberries, cranberries, and all sorts of nuts. She could eat her fill ten times over, and there would still be a lot left. However, it was also undeniable that nights were getting longer and longer. Soon, winter would be approaching.
+
+She felt thankful to have found some human companions, because winter was by far the most miserable time she had ever experienced as a magpie. Dreadful season with no way of getting warm, except huddling with your brethren. No fresh food, and sometimes even all water sources froze over. Eating snow was always an option, but it wasn't pleasant, especially when you were already freezing your feathers off.
+
+With her stomach full, Liora changed back into her Magpie Disguise and flew to Cyene. He guided her towards the direction of the mine, which was located in some faraway corner of the city. She could see why—there were large, clunky machines lifting rock and ore out of the mines, loud minecarts going from one side to the next, and lots of noises.
+
+But the machines weren't exactly like the ones from Liora's old world. They were crude and moved rather oddly. Metal was scraping against metal, and there were very obvious signs of wear and tear in places where logically gears or hydraulic parts should be.
+
+How are these machines moving? It doesn't make any sense.
+
+With magic, of course. How else would something so large even move?
+
+I dunno, I'm not an engineer, but this doesn't look right. And the noise is atrocious!
+
+That's why it's so far away from the rest of the city.
+
+Liora didn't want to linger in the mines for long. She circled the place three times, trying to spot Serena and the others. But it was clear they weren't here, so she left. Renir suggested several routes that they could take back to the Guild, and Liora ended up checking them all. Still no sign of them.
+
+She even flew to their rooms, but still nothing. Liora even checked the nearby place where they ate breakfast, but nothing. In the end, she flew to the Guild Hall since that was the only place she hadn't checked. She hadn't wanted to go inside there as a lone bird, but there wasn't much of a choice.
+
+Unfortunately, they weren't there either. Frustrated, she landed above the reception desk on the Registration sign.
+
+"Hello, magpie. Where's your team?" Noira asked curiously.
+
+"Chak-chak-chak!" Liora looked down at her. "That's what I'd like to know."
+
+"Oh, you mean the one with the beastkin," Clara noted.
+
+"Yeah, that's the one."
+
+"They came this morning without the magpie, saying she was flying around somewhere," Clara explained. "Did you miss them?"
+
+"Chak-chak-chak," Liora said. "Seems like I did."
+
+"Must be searching for them. Poor thing," Noira said. "You can just wait here."
+
+"We don't need a bird pooping on our desk!" Mark grumbled.
+
+"I'm sure she wouldn't do that. Would you?" Noira hummed.
+
+"Chak-chak-chak!" Liora said. "No, but I'd poop on him for suggesting that I would even think of it. I'm not some brainless pigeon!"
+
+"I think she's mad at you," Noira chuckled.
+
+Mark gave her a curt glare and returned to his work.
+
+"Maybe they left her on purpose. They had that kobold mission to complete," Clara said thoughtfully.
+
+"Kobold mission?" Noira asked.
+
+"Yes. Had 3 caster kobolds slain. I'm sure they went back to finish the job."
+
+"Wasn't that a bronze rank quest?"
+
+"Yes! I was impressed to see they made progress on it. I don't remember assigning it, but you know how it is when the rush comes in. You don't even register the faces of people in front of you."
+
+"I know what you mean," Mark sighed, looking rather tired.
+
+Wait, kobold quest? Is that the one I took?
+
+It must be. Oh no! Since you're in the same party, you all automatically share all quests.
+
+So they must know about it and they were searching for me. You don't think they…
+
+Have they gone to the dungeon? I can't imagine where else they would be.
+
+Dammit!
+
+Liora flew out of the Guild Hall and headed straight for the dungeon. No way those three could handle all those kobolds on their own. It was suicide!
+
+She flew as quickly as her wings could carry her, zooming over the city and the surrounding wall. For a moment, she doubted herself. Would they really head into the dungeon, just to save her? Kalen and Kiva probably wouldn't.
+
+But Serena… Liora remembered how worried the girl had been when she hadn't returned to their camp first thing in the morning. She figured Serena would be worried too, but what could she do beyond that? It would be nothing if she hadn't seen the quest.
+
+[Warning: Serena's health is critically low]
+
+Oh, shit… they really are in the dungeon.
+
+I have to hurry!
+
+Liora approached the dungeon from above like a speeding bullet. She Faded just before entering the entrance zone, then zoomed straight past the guards into the dungeon. Nobody felt anything but a strong gust of wind pass by.
+
+Once in the dungeon, she turned to her real form, since it was faster, and flew towards the kobold tunnels. But even her fast flight appeared slow with that notification lingering in her mind. If Serena got killed then it would be Liora's fault.
+
+She heard Kalen yelling something, and Kiva cursing as well as the typical hisses of the kobolds. Liora could see them in the distance, surrounded by a horde of kobolds. Serena was slumped to the ground, Kalen holding her desperately while waving a half broken sword in front of him.
+
+Kiva was the only one who could do any real fighting. She used her agility to avoid kobolds and stabbed them viciously with her dagger. But she wouldn't be able to hold them off for long.
+
+Liora took aim and shot Holy Shot straight in the middle of the kobold swarm.
+
+[You've defeated <Kobold – Level 6>. Experience gained.]
+
+This made them all pause their advance and blink, blinded by the sudden light. This one brief moment was all she needed to reach the kobolds, Lunging at the first one that happened to be in her way.
+
+[You've defeated <Kobold – Level 4. Experience gained.]
+
+She kept lunging and defeating one kobold after the next, while Kiva fought beside her. They weren't particularly strong, but more and more kobolds kept coming for the cavern. They wouldn't be able to hold this out for long. Not just the two of them.
+
+Liora then remembered the sword she had found in the chest. She retrieved it from her Inventory and dropped it right in front of Kalen.
+
+"Where the hell did you get that?" He exclaimed, but grabbed the new sword without hesitation.
+
+The blade glowed ever so faintly when he took it, as if approving of him. Then Kalen gently propped Serena against the wall and joined the fray. Liora was a bit jealous that he could use the sword. He was cutting down three kobolds with a single swipe, making the horde actually pause for a moment before resuming their onslaught.
+
+"CAW!" Liora screeched angrily and then gathered large amounts of mana in front of her.
+
+Once the kobolds got near enough, she Wind Blasted them straight back into the cavern, sending some of them away with such force that they died on the spot.
+
+[You've defeated <Kobold – Level 3>. Experience gained.]
+
+[You've defeated <Kobold – Level 5. Experience gained.]
+
+"Grab Serena, and let's go!" Kiva barked at Kalen.
+
+"R-Right," he stammered, staring at the heap of kobolds for a bit. Then he sheathed his new sword, grabbed his sister, and ran.
+
+Liora flew behind them, and disposed of any kobolds that dared to follow them. She was surprised that they even dared to follow them, but then again, the kobolds didn't really have a mind of their own. They did whatever the dungeon master commanded them to do.
+
+Eventually, the kobolds did give up the chase, and Kalen and Kiva slumped against the tunnel wall breathless. Serena was barely conscious.
+
+"This happened because we came searching for you, bird!" Kiva accused.
+
+Liora was well aware of it. She had never asked them to jump into danger for her sake, but they had anyway. Kiva and Kalen both, too, despite them being apprehensive. She had to repay them somehow.
+
+Liora wished she had some skills to heal Serena, but she couldn't even if she wanted to—her skill slots were full.
+
+"I-It's not her f-fault," Serena muttered.
+
+Serena is too kind. Isn't there something I could do to heal her?
+
+If these three had a potion, it wouldn't be such an issue.
+
+A potion! Yes! I'll go get one.
+
+Liora took flight and flew towards the exit.
+
+"Wait! Are you abandoning us?" Kiva accused.
+
+"I. Return," Liora said.
+
+Where exactly are you going to get a potion?
+
+There were some in that shop at the entrance, right?
+
+Yes, but do you have any money?
+
+No, but…
+
+Liora hesitated for a moment, because she really didn't want to do what she had in mind. But this was for Serena's sake.
+
+I have glimmerstones.
+
+You're actually willing to give your glimmerstones?
+
+A few. Not all. How much is a potion worth, even?
+
+I'm honestly impressed. You spending glimmerstones.
+
+Just tell me how much is a potion worth?
+
+A single glimmerstone is enough.
+
+Wait? Really?
+
+I told you before, didn't I? Glimmerstones are really valuable.
+
+Liora withdrew a single glimmerstone from her Inventory and activated Magpie Disguise before leaving the dungeon. The people at the entrance were startled by her this time, looking at the glimmerstone in her talons. But she ignored them and flew inside the open supply store.
+
+The people in the store looked at her with surprise, stopping their shopping to stare at her. But she just flew to the counter and threw the glimmerstone on it.
+
+"W-What?" The clerk stammered, looking at it with wide, greedy eyes. "I-Is this for me?"
+
+He reached out his hand for the glimmerstone, probably thinking that Liora just dropped it on some whim. But she put her talons on it and cawed at him angrily.
+
+"Wow, wow! Okay! What do you want, crazy bird!" The clerk muttered. He did make a shooing gesture at Liora, hoping she'd just fly away, but she cawed at him again.
+
+"Caw!" Liora commanded. "Give me a potion!"
+
+She flew up to the shelf with potions, hovering above it with her glimmerstone.
+
+"Careful! Those are really valuable!" The clerk huffed, trying to shoo her away in earnest.
+
+But she dropped the glimmerstone in his arm and landed on the shelf with the potions, pointing at them with her beak.
+
+"Y-You want the potion?" Clerk asked.
+
+She nodded.
+
+"That bird has the Guild Ring. What if she was sent here by her owner to get an emergency potion or something?" One of the adventurers in the shop guessed.
+
+"Chak-chak-chak!" Liora confirmed. "Finally somebody gets me!"
+
+"I'll be damned. These familiars are so advanced these days. Fine, fine. I get you," the clerk said, taking one of the potions from the lower shelf and offering it to Liora.
+
+He's trying to cheat you! That glimmerstone is worth a high-quality potion.
+
+"Caw!" Liora protested. "Don't you dare to cheat me!"
+
+The clerk cleared his throat nervously as he saw other adventurers glaring at him. They also knew that he was trying to cheat her. He put the low grade potion back on the shelf and offered her one of the higher shelves instead.
+
+Liora grabbed it and flew straight back into the dungeon. She prayed that she wouldn't be too late.

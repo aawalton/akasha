@@ -1,0 +1,155 @@
+---
+id: 320388e3-5631-5c3b-bb11-641930e961af
+page-type-slug: story-chapter-royal-road
+title: "Chapter 156 – Waiting"
+slug: 0156-chapter-156-waiting
+partOf: the-magpie-and-the-archmage-monster-evo-litrpg
+position: 156
+ownLength: 2047
+unit: words
+publishedAt: 2026-08-05
+link: "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3771679/chapter-156-waiting"
+royalRoadId: "3771679"
+---
+
+Renir was restless. Every second felt like an eternity as he sat in the safety of the cocoon and waited. Waited for Liora to return. Waited for Cee to evolve. Waited for something to happen. All he could do was wait, and it was killing him.
+
+If only he had his body… then… What then? He wouldn't have even met Liora if he hadn't been trapped in this gem. Nonetheless, this knowledge didn't make the wait any less agonizing.
+
+Occasionally, he would hear sad whimpers coming from Smokey. He talked to the wyvern a little to soothe him and assure him that he wasn't alone. It did calm the wyvern somewhat, but not for long. Soon enough, he would whimper again, likely calling for Cee.
+
+"We have to be strong men, Smokey!" Renir said. "We have to wait for them to return…"
+
+But each second that ticked by was agonizing. Why hadn't Liora returned yet? It's been a whole day since she left, as far as Renir could tell. She should have come back to rest.
+
+Hours ticked by, and there was still no sign of Liora. Two days passed, and there was still nothing. At this point, Renir was convinced that something bad had happened to her. She should have been back. Liora should have come back.
+
+"Cee, are you done evolving?" Renir called.
+
+But the only answer he got was Smokey's whimpering.
+
+There wasn't anything Renir could do. He couldn't even get out of the web cocoon Cee had constructed for him. Well, he could just burn it if he used magic, but decided against it. What would that accomplish? He couldn't get far anyway.
+
+The noises around him increased by the hour. It seemed like a swarm of those desert sharks had come against Cee's outer web walls. Smokey was hissing a lot, and Renir would often have to call for the wyvern not to use his flames. The more time passed, the worse it got.
+
+Not to mention that after three days, Liora still wasn't back. Something must have happened to her, Renir was sure of it. He prayed that she would be fine. Renir didn't even believe in any gods, but he prayed anyway to anyone or anything he could think of.
+
+Because there was nothing else he could do, and this inability was more frustrating than anything else Renir had ever experienced in his life.
+
+By the end of the third day, he couldn't take it anymore. He used fire magic and burned away the cocoon Cee had swaddled him in. Falling to the ground was hardly pleasant, but at least he could see what was going on around him.
+
+A horde of desert sharks was steadily gnawing their way through the webs. The sharks looked desperate to get to the water in the oasis, but Cee's web fortress was still holding on. If only barely.
+
+Smokey was hissing furiously at sharks, but didn't leave the area which Cee had sectioned off for him.
+
+Cee's webs weren't going to hold those sharks forever. They needed to either deal with them or get away. Renir thought that he could likely take out two or three of the sharks with the magic he could muster out of this form. But that was it. If Cee didn't wake up soon…
+
+"Cee, wake up!" He yelled at the cocoon and waddled over in its direction as best he could.
+
+He hadn't actually expected her to respond, but to his surprise, something stirred within the cocoon. But it wasn't movement that he felt but rather the overwhelming presence of magic. At first, it was like a small ripple. Then it came in larger and larger waves.
+
+The magic was so palpable that even the sharks, creatures not at all in tune with magic, paused their vicious assault and looked around, searching for this new, powerful enemy.
+
+Renir saw the cocoon shift. A small opening appeared as sharp claws dug through it. It grew larger and larger until finally Cee, in her new form, emerged for the whole world to see. Renir couldn't believe what he was seeing.
+
+A large spider, easily twice as large as Cee had been before, stood there. Her legs were much longer than before, with noticeable hooks on the ends and long hair stretching on the lower parts of her legs. Almost like fins. Her body was more streamlined now, flatter and not as bulbous.
+
+Cee's two main eyes had gotten larger and developed an almost iridescent sheen. Her carapace, too, had an unusual sheen, and the previously glowing lines had developed an even more intricate pattern on Cee's body. As if it were part of a ritual.
+
+"Sorry! Was I out for long?" Cee said, looking a bit dazed.
+
+"Three and a half days, give or take," Renir replied.
+
+Smokey went crazy, whimpering and jumping up the webbed wall Cee had previously constructed. Cee jumped down from her cocoon, right next to Smokey. It appeared that she had become an even better jumper than before.
+
+Cee opened up the webbed area and then came up to Renir. He couldn't believe the amount of pure magical power she was exuding.
+
+"Why are you down here?" Cee pondered.
+
+"Doesn't matter. What did you even evolve into? What is that overwhelming, magical aura?" Renir questioned. While this was a Tier 5 evolution for Cee, it shouldn't have been such a drastic change.
+
+"Oh… the species is called Abyssal Sigilweaver. Basically, I can fight underwater now. Since we're stuck with the merfolk for the time being, I figured this evolution would be useful," Cee said, but she sounded evasive. She wasn't telling the whole truth.
+
+"Cee… how come you suddenly gained access to aquatic evolution?" He questioned, but he had a strong feeling that he knew what had happened. That aura was just too powerful for it to be something else.
+
+Cee shifted her legs uncomfortably. "Well, you know… the system must have given it to us because we've been underwater so much…"
+
+"Cee!"
+
+The spider went silent for a moment, then finally said. "I used the divine glimmercore to fuel my evolution…"
+
+"I knew it!" Renir growled. "How dare you? That was not your use. Besides, there was no guarantee that your body could have absorbed the glimmercore. You could have died!"
+
+"Oh…  I do feel a bit… bloated?" Cee said.
+
+He groaned loudly. These reckless monsters. He thought that Cee was a bit more level-headed than Liora, but it appears he had overestimated her. Frankly, if the glimmercore was being used for an evolution, he would have preferred for Liora to use it. But what's done is done.  "Check your profile. Tell me what new skills and traits you got."
+
+"Okay, okay! I'm quite excited to see them myself," Cee cheered, gently patting Smokey with one of her legs. "The new skill I got is Current Weaving."
+
+[Current Weaving – Allows you to guide water currents through your silk. At [Basic] level, you can create weak directional currents along connected threads, allowing you to pull small targets, redirect drifting objects, stabilize web structures, and slightly alter movement within your webs.]
+
+"Interesting… so it allows you to control the water movements with the help of your webs. I imagine the effect is rather weak in the beginning, but if you can grow this skill, it can be quite formidable," Renir said. It was another great addition to Cee's existing arsenal of battlefield control skills.
+
+"Hehehe! I'll be unstoppable underwater, too!" Cee cheered, then continued reading her new trait.
+
+[Tidesilk – Your thread has adapted to aquatic environments. Threads retain strength, tension, adhesion, and magical conductivity underwater. Webs created underwater are less affected by currents and can serve as anchors for sigils, traps, and ritual formations.]
+
+"This is very similar to Fluid Flight, except it's for my thread. Very nice!" Cee cheered.
+
+"Yeah, both of those will make you quite an efficient underwater fighter," Renir agreed.
+
+"And the last one!"
+
+"There's another one?" Renir was surprised. Usually, the system offered only one new skill and trait upon evolving. Yet now it was offering two to Cee?
+
+[Divine Absorption – Slowly absorbs the Divine Glimmercore into your body and soul, gradually increasing your affinity with divine water mana. Current absorption: 1%.]
+
+Renir couldn't believe it. Of course, he knew that the Divine held incredible power. Something mortal men could only dream of. But to think that all the aura radiating from Cee right now was merely 1% of the glimmercore's true potential. That was quite frightening.
+
+"Aww… It's not really doing anything besides absorbing the glimmercore. It's kind of a waste of a trait slot," Cee complained.
+
+Renir raised his little arm to object, but decided against it. He chose to believe that Cee was still disoriented after just evolving. Surely, she would come to understand the ramifications of this skill.
+
+If only I could have gotten my hands on a divine glimmercore while I was still a human…
+
+"Okay, so what about Liora? Where is she? Resting or hunting sharks? Although judging by all the guys trying to eat through my web, I guess not," Cee said.
+
+"Liora hasn't returned!" Renir said.
+
+"What? Shouldn't she have come to rest here by now? No way she could have kept going for… three days, was it?"
+
+"Something must have happened to her! We have to go check on her!" Renir waddled closer to Cee.
+
+Cee nodded. "Let me eat real quick, and then we'll get going."
+
+Renir tried to be patient as Cee ate, knowing that she was likely famished after the evolution. But he couldn't help but urge her to hurry. His worry for Liora grew heavier by the minute. Where was she right now?
+
+Please be safe, Liora!
+
+Once Cee was finally done, she was ready to depart. "Smokey, we're going underwater."
+
+The wyvern looked less than thrilled at this suggestion, snarling at the oasis.
+
+"I know, I know. But our friend might be in trouble. We can't just sit here and do nothing. I can't leave you here either, because those sharks will get through any minute now. We must go!"
+
+Smokey peered into the water, then reluctantly stepped into it. Renir was amazed that the wyvern would even listen. Perhaps the evolution had also strengthened Cee's Pet Bond skill, making it easier to control Smokey. Or maybe the cowardly wyvern just didn't want to take his chances with a swarm of sharks.
+
+Cee wove a web around Renir and secured him to her back. He was surprised to see that her thread now looked more translucent and seemed harder. More like a fishing line than actual thread. However, it still adhered to his surface and held him firmly in place.
+
+Once Renir was secure, Cee constructed an air bubble for Smokey with the incantation Renir recited for her. Then she jumped into the water. He worried that Cee might struggle swimming, especially since she also had to guide Smokey.
+
+But the spider effortlessly swam above the wyvern, taking hold of his shoulder blades with her two front legs. She used her other six legs to propel them forward. As it turned out, the elongated hairs on her legs served quite well for moving around.
+
+She was nowhere near as fast as Liora, but then again, there weren't many things that could beat Liora when it came to speed. They were moving forward at a steady pace, and that was all that mattered.
+
+Soon enough, they exited the dungeon and entered the merfolk's underwater city. The two guards at the entrance tensed up the moment they appeared.
+
+"You have returned," one of them noted, appearing rather nervous.
+
+"Yeah, I was going through evolution. I can swim underwater now," Cee announced cheerfully, but the cheer quickly disappeared when she saw the two guards purse their lips.
+
+"Did something happen? Liora hasn't returned in three days!" Renir asked.
+
+The guards shared a glance. It seemed like neither one of them wanted to speak first, but finally the older merman said, "We tried to give you the news, but when we came to the oasis, we couldn't find anyone. The truth is… Liora has been captured by humans."
+
+Renir felt something within himself crack. Liora was… captured?

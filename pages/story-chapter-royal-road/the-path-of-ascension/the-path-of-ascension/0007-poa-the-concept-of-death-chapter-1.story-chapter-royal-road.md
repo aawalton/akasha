@@ -1,0 +1,387 @@
+---
+id: ae0df5c0-7dfa-52d6-bbdf-4e7a3aae8331
+page-type-slug: story-chapter-royal-road
+title: "PoA The Concept of Death Chapter 1"
+slug: 0007-poa-the-concept-of-death-chapter-1
+partOf: the-path-of-ascension
+position: 7
+ownLength: 6099
+unit: words
+ownProgress: 6099
+publishedAt: 2021-09-15
+link: "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/751312/poa-the-concept-of-death-chapter-1"
+royalRoadId: "751312"
+markedReadAt: "2026-06-29T19:17:38.549Z"
+---
+
+PoA The Concept of Death 1
+
+Melinda shuffled left as Mathew blocked the charging minotaur with his shield. Her husband was nearly lifted off his feet from the difference in size and strength, but his Talent made that nearly impossible.
+
+With one eye on her AI’s HUD, she surveyed the rest of the battle. She watched as Sam threw a canister of poison at the attacking horde of charging mice men. The smaller, second monster variant of the Tier 6 rift was quickly overwhelmed and killed by the toxic fumes.
+
+Satisfied with how that section of the battle was going, Melinda shifted her attention to her left. There, Kyle was wielding an oversized greatsword that was more of a slab of metal than a sword. Still, his wide arc of a side slash bisected a minotaur. He was fine. His stacking strength from his Talents meant that there was little that could kill him in a rift of his Tier.
+
+Melinda looked up and saw Tara letting loose arrow after arrow at the backline mice men. She was methodically putting an end to their poor attempts at being mages. They had purchased their archer and main ranged damage dealer a pair of flying ankle attachments. She continually proved them to be a good investment every day since. Tara's Talent meant that every shot hit its intended target. It was a lethal combination.
+
+Melinda was about to turn away from their flying archer, when a rumbling under her feet alerted her to their reemerging final teammate.
+
+Vinnie crawled out of the rocky soil, and spat out while panting, "Their lair moved east." He then proceeded to curse the mice men, which Melinda ignored.
+
+I need to break the boys of their cursing habits. It's only getting worse.
+
+Melinda made a mental note of that, while their mage finally stood up.
+
+A mana check showed that everyone was over half, so she called out, "The minotaur boss should be in location three." She saw Kyle start to move northwest, so she reminded everyone, "Location three is due north. Don't be like me and forget."
+
+Kyle corrected his path, so she tossed a [Ranged Heal] on Mathew , who had taken a slash from a tusk in the meantime. It banished the shadowy death that started to linger around her husband.
+
+Her curse of a Concept lingered around everyone, and showed her how close death was from claiming the ones she loved. The therapist had insisted that it was just a reaction to the trauma, but she knew better. She confirmed it when she accidentally stepped into Tier 5 without taking the potions the rest of her team took. A little research on the EmpireNet had given her the answer, once she already completed her self-made Concept new information had been available to her.
+
+Rage tried to flare up at the thought of death trying to claim the ones she loved. But Mathew's AI reported he was fine, so she stifled her anger and went back on the lookout.
+
+Their trek through the plains was mostly uneventful, with Vinnie having taken out the mice men's lair. The possibility of an ambush was nearly nonexistent. Melinda shuddered, remembering the first time they had run this rift, months ago.
+
+It was when they first broke through to Tier 6. It had been awful, and while they wouldn't have died without her healing, they would have been out of commission for weeks. They all had suffered serious wounds from the little darts that the mice men shot out. They had a piercing enchantment that rendered their armor useless.
+
+Their second run onward was much simpler. Vinnie removed the mouse men, and they only had to deal with the occasional group that had been in the tunnels, instead of endless waves.
+
+Melinda refocused herself as they reached the hill where five minotaurs stood around the boss minotaur. The boss stood at nearly ten feet tall, ignoring his horns.
+
+Their tactic to take this beast down was well established and practiced.
+
+Mathew shouted and rushed a few steps forward, drawing all of the monster's attention. Counting to four, Melinda cast [Area Healing], which manifested itself as a circle of green mist. It tickled their ankles, and countered the mouse men boss’ curse, who rode the minotaur like a steed.
+
+The area curse was larger than her healing, and if they walked out of the safe zone, they would start to grow weaker. But they didn't need room for this fight.
+
+Vinnie created an earthen wall with his innate [Earth Manipulation], and Tara used [Mana Arrow] in conjunction. As the bosses started to fall, Tara pierced both of them in a single shot. They made sure to kill both bosses simultaneously. Previously, they had made the mistake of taking out the mouse boss first, which sent the minotaur into a [Rage Aura]. The skill had the unfortunate effect of empowering the other pairs of minibosses.
+
+By the time they were done with the boss, Samantha and Kyle were finishing off the five other pairs. They raced to kill the greater number of minibosses. Kyle with his greatsword, and Sam with her daggers.
+
+Kyle won, as he always did. Sam pouted, as she always did.
+
+Melinda nodded and sighed. She hated this part.
+
+"Who wants to open the reward?"
+
+That started the clamor with everyone but her arguing about their merits, and who had earned the right to dispel the rift reward.
+
+Mathew started it like he always did. "I never get anything, so I should open it."
+
+Melinda sighed. Her hubby always argued that angle, and it never worked. If he wasn't actually upset that everyone wouldn't let him break his bad luck streak, she would think he did it to get out of the argument.
+
+He walked out of the circle and while pouting. "They never let me do it."
+
+She stretched up and kissed his uncovered face. "Maybe next time."
+
+"I got us the skill shard, so I should open it!" Kyle shouted over everyone else.
+
+That was his go-to, even though he usually pulled average rewards at best.
+
+Sam stomped on his boot and shot back, "Yeah, and you also pulled a single mana stone."
+
+Vinnie threw his hat in the metaphorical ring. "I got us the ring with the light shield. That sold for quite a bit. I also got us the hammer with the rebound effect."
+
+Vinnie was lucky, Melinda had to admit. The others did as well.
+
+Tara stomped her foot. She hated to go last. "I need a new bow, and it's a yellow distortion. And that's my favorite color."
+
+That changed the game.
+
+Favorite color was a near-sacred demand, and it shut down the argument. They really should have checked before they started this, but they all knew that wasn't any fun.
+
+The expected chorus of "You cheated," resounded out. Melinda waited while holding Mathew’s hand, and comforting him for his loss.
+
+After another round of arguing started, about if Tara should lose the opening right for peeking early. They finally decided that it was okay, only because it was her favorite color.
+
+Melinda rolled her eyes. They all cheated and peeked, more than a quarter of the time. Hypocrites. The lot of them.
+
+Tara walked up to the reward distortion and rubbed her hands, while performing her pre-opening ritual. She hopped twice and did a cartwheel, then tapped the distortion in space.
+
+Everyone watched in anticipation, as out of the distortion came a skill shard. They all rushed to Tara, who caught the prize.
+
+"Ha! Fuck all of you. I got a skill as well now. I told you it was my favorite color."
+
+Everyone else cursed her while celebrating their reward.
+
+Maybe everyone needs to break the habit of cursing...
+
+Melinda pondered how to pull that off, while Tara did the honors of inspecting the skill shard.
+
+"[Create Water]. Not bad, there has to be more than one water mage in the area. We can definitely get something good for it."
+
+Sam snatched the skill, saying, "It's my turn to get a skill, so I'll do the trading."
+
+Melinda put her hand on her friend's shoulder and calmed everyone down. "It is your turn, but if you can't get a skill that is useful for you, it goes to Kyle for trading."
+
+Sam stuck her tongue out and teased Kyle, "You'll get nothing!"
+
+Kyle tackled her, and rubbed his knuckles into her head while holding her down. Melinda just stepped over the pair.
+
+They really just needed to make it official, and stop flirting at every opportunity.
+
+Checking the time, Melinda moved to leave. She called over her shoulder, "I'll see you all later tonight. I have a shift at the hospital."
+
+Everything was ok. Routine. So she felt fine in leaving.
+
+Melinda left the rift and stripped her armor off, while waiting for the bus. Her timing was perfect, and the bus arrived just as she stuffed the last piece away.
+
+Checking into the hospital's network, she saw that things were slow at the moment, and there were no current emergencies. The bus pulled to her stop, and Melinda raced through the front door, calling out to the receptionist.
+
+"I need to shower. Then I'll clock in. What room is free?"
+
+Sally called out to her back, "Four. Room four is free."
+
+Melinda cursed. She hated room four. It was on the inner wall, and didn't have natural light. Racing through her shower, Melinda let the medical spray disinfect her with its purple bubbles.
+
+Just before the hour ticked over, she slipped into her assigned room, while wiggling to settle the healer's robes.
+
+Baxter was already there, and she had to resist a scowl. He was her healing mentor, but she was quite frustrated with the man. Everyone who was an official healer of the Empire got assigned a mentor of an older, more experienced healer. It was good, because they could stop any mistakes and give the junior healer a safe place to learn. That way, the stakes were lessened.
+
+Being on the path changed things slightly, as she was supposed to be assigned a healer who would bounce to whatever hospital she was near. But her mentor refused to do any of that, and would only act as a nurse, never showing his skill with healing directly.
+
+He critiqued her work all the time, and always treated complexities that she couldn’t with ease. It was infuriating.
+
+Melinda smiled and greeted the man. There was no reason to be impolite. "Good afternoon Baxter. How was your morning?"
+
+He ignored her and spun in his chair, toe-tapping the floor to keep him spinning.
+
+Sighing, Melinda checked her AI and watched the seconds until 5 pm. As the second ticked over, Baxter stood up and gave her her orders for the day. "I've arranged for a few people from the poorer parts of the city to come. Four of them have different genetic defects that I want you to try and fix with your Talent. The others all have various problems that usually need directed healing to fix. I want you to suppress your Talent as much as you can while working on them. Your directed healing skills are still awful. Have you done your mana control exercises?"
+
+Melinda hated the man. She really did. If he was here as a proper healer, he could be doing good and helping people. But instead, he hid his abilities, and only served as a mundane helper. He was almost enough to make her dislike nurses as a whole, but most were amazing. They did the best they could to help without skills.
+
+Spending time as a nurse was the fastest route to getting a healing skill of their own. Especially for those that they weren't as lucky as her, to get a skill shard for having the requisite Talent. They worked hard, and did the mundane tasks that the healers didn't always have time to do while actively healing.
+
+Baxter spit on that effort as a fully trained healer, hiding from his responsibility under the guise of a nurse. He even had the gall to critique her while shirking his duty. She had questioned his credentials at one point, and had been shocked to find out that he was a Tier 40 healer. Not only that, he was a trusted aide of the Emperor's chief healer, who had been filled in on her special Talent.
+
+She wasn't happy that her Talent had been shared out, but there was little she could do. The man even took an AI-backed oath. If he spoke of it to an outsider, she would be informed, and he would be punished as a traitor. It still irked her.
+
+"Yes. I have been doing my exercises."
+
+She wanted to be mad, but her Talent made everything easy. She never had any reason to push herself the way her peers did, when trying to save lives. Even if her Talent could heal almost anything with a simple undirected healing spell, it was still expensive. Even with her Tier 1 Talent reducing the cost by half.
+
+When she had time, a directed healing spell could do more detailed work for a fraction of the cost. That wasn't an ability she was willing to slack on. People deserved to be healed. And if she was out of mana from healing someone the sloppy way, she wouldn't forgive herself if someone died.
+
+So she put up with the irritating man. He knew what he was talking about.
+
+Melinda was even pushed in regards to her Talent. She was under the impression that it was like her Tier 1, and did what it said, nothing more. But Baxter broke her of that notion. No matter what the AI said, it was a Tier 3 Talent, and they all grew. They had discovered that when she found a disease or injury her Talent didn't work on. If she tried to heal it the next time she Tiered up, she was more effective. So, they tried to push her Talent as hard as they could, and the results from the Tier 4 and 5 breakthroughs were absurd. It was the only time she ever saw Baxter lose his composure.
+
+Apparently, healing genetic defects was only something that the Tier 44 directed healing spell, [Heal Genetics] could do. It was an extremely rare skill.
+
+Melinda didn't mind the extra work it put on her. If she had her way, she would heal death itself, but that wasn't possible.
+
+Her first patient came in, and she saw the black fog around him. It was starting to become distinct, which told her the severity of the injury. He wasn't close to death, but he was hurting.
+
+"Good morning, sir. What’s the matter today?"
+
+He was an older man, and he reminded her of her grandfather. Old and frail.
+
+She took his elbow, and guided him to the reclining bed. A gentle probe of his cultivation base put him at Tier 4, which put his age somewhere near one hundred and fifty.
+
+He had a pain in his knee that wasn't going away, so Melinda cast her skill [Directed Heal]. It was the lowest Tier of directed healing skill, at Tier 14. It was given to all official Empire healers. It could do anything that the higher Tier directed healing skills could do, but didn't have their limitations, nor their reduced cost.
+
+Melinda used the skill to inspect his knee, and rebuilt some cartilage where it had worn down. She then focused on the man as a whole, and cast [Ranged Heal]. She only let the skill take the 50 mana initial cost, instead of letting it drain her until the man was fully healed. Still, the skill would help all of the man’s various ailments, at least somewhat.
+
+She also focused on healing the man's old age. Baxter just scoffed at her when she mentioned it, but acknowledged that if anything could do it, her Talent could. There was no skill that could reverse aging. Slow it down, sure. Regular healing spells did that for those under Tier 15, but it would only add a few years at most.
+
+Melinda wanted to de-age people.
+
+The older man thanked her, and she watched as the healing contribution was deposited into her account. Healers, when in an official capacity at least, worked for free, while the Empire provided the mana for near limitless healing. The only time they were able to charge for healing was with battle injuries and rift healing.
+
+The Empire considered that healing was a right for the common man, and the policy provided a facility for healers to practice their skills. She had heard from some of the older healers that had worked on the borders, that the other great powers didn't have such a system. Most of them would simply let their citizens suffer.
+
+It was appalling, but it gave her a better appreciation for the Empire. It wasn't perfect, but the people at the top cared.
+
+Melinda checked her account, and that saw she had 436 contribution points saved up. It wasn't bad. She had to pay off the debt from [Directed Heal], and she was also saving up for the more specific directed healing skills.
+
+The Empire had a standing order to purchase all directed healing skills for value higher than their Tier, which allowed them to hand them out for contribution points. The better, higher Tier ones cost more, as they were more rare. But it wasn't impossible to earn them, and they gave people a reason to delve the rifts that would otherwise be ignored. Usually people pursued rifts with better skill drops.
+
+She was brought out of her pondering when a teen was brought into her room. Baxter pinged her AI that this was one of her genetic disorder patients.
+
+Melinda greeted the woman, and asked questions while reviewing her file. It was long, and fully detailed the woman's multitude of struggles. She was born with sickle cell anemia.
+
+The cloud of blackness around her was large, but diffuse. She wasn't in imminent danger, but her body wasn't as healthy as her age would indicate.
+
+Getting to work, Melinda used [Directed Heal] to target the woman's cellular makeup, and convinced her body to create the correct shape of hemoglobin. It was something beyond the normal ability of the skill, but it would be cheaper than fixing her with [Ranged Heal]. She could do it that way, if she wanted to triple the cost of the healing.
+
+It wasn't easy, and her efforts quickly emptied her mana pool. But her rack of specially made mana crystals was by her side, courtesy of Baxter. As the mana flowed into her mana pool, it was sucked out of her and into the active skill. She could cut the flow off at any point, but this woman needed the help.
+
+Melinda felt the tap as Baxter brought her over a second mana stone rack. He refused to tell her how he got a second one made. They were mana stones grown to her exact mana signature, not the more common type that were able to be aspected. It meant that the conversion factor was nearly perfect, but the cost was apparently massive. They were made with a protected recipe, and the company only sold to healers, but they had the policy of only one per healer.
+
+As far as she knew, there were no exceptions at all. Every healer she asked had already tried to buy a second. She even asked what happened if the rack of rechargeable mana stones were lost, and found out that they had tracking runes embedded in the surrounding metal. The racks were also made of a hyper light Tier 40 metal. They were nearly unbreakable by anyone who was dumb enough to steal one, and were completely protected from casual damage.
+
+She had given in and asked Baxter, who only shrugged and said he didn't know either. It was delivered, so he gave it to her. She didn't believe him for a second. As much as she didn't like that he hid himself, she wasn't going to make the man that uncomfortable.
+
+It was at times like these that she treasured the precious second rack. It let her heal without interruption. Where other healers needed to rest, she never did. While she had let her mana control fall to the wayside, she had incredible endurance. It was more willpower and stubbornness than anything else, but watching the dark cloud fade gave Melinda all the encouragement she needed.
+
+They had said that her seeing death floating around people was a result of her trauma, and she couldn't deny that it may have started like that. But now, it was her Concept and reality. She personally thought that she had touched on the Concept after the night of horrors that the rift breaks created. The passive function of her Concept hadn't changed when she broke into Tier 5, and the active component was the only real change.
+
+The active component of her Concept was something she refused to touch, and no matter how much Baxter pushed, she constantly refused. Eventually, they had come to a head, and she put her foot down.
+
+She would die before she used her Concept for a second time. Her Concept phrase was Death. And her image was the darkness that surrounded people who were hurt.
+
+The ability her Concept gave her was to damage people, like reverse healing. The very idea of it was anathema to her. The visuals were even worse. The very rift creatures that had destroyed her life formed from the black mist, and tore the victim apart. It would inflict wounds that turned black, and spread over the rest of the body, liquifying flesh as it spread.
+
+She didn't care if she would be stuck at Tier 24 if she didn't use and grow her Concept. She would rather die than be death itself. Killing was one thing, and she fought in rifts without complaint. But even rift monsters didn't deserve the slow melting of flesh that her Concept created when the appratitions tore into them.
+
+To his credit, Baxter hadn't pushed after that. He never even mentioned the active component of her Concept, except to tell her that Concepts with passive components were a rare but a known thing. He told her to focus on that part of her Concept instead.
+
+Finally, after tens of thousands of mana, the darkness was gone from the woman's body. Melinda stood up, with her knees popping.
+
+"How do you feel?" Melinda cast a [Ranged Heal] to take care of any lingering aches or pains that the woman was experiencing. Sickle cell anemia caused fatigue and pain as two of its main symptoms after all. It should also fix the misshapen hemoglobin that was still in the woman's body.
+
+The woman stretched and wiggled her ankles and fingers carefully, before she asked, "It's gone like after a normal healing, but I don't feel a lingering sensation. Is it really gone forever?"
+
+Melinda saw Baxter nod out of the corner of her vision, and she smiled at the woman. She started to babble, "They said it would be a few more years before a high enough Tier healer came around. Thank you so much. Thank you. Thank you!"
+
+Melinda held the woman as she wept into her arms. A feeling of contented warmth seeped into her.
+
+This was why she healed. A woman who lived her life in constant pain and discomfort was able to live a normal life now. Melinda was able to make the world a better place. She removed a little bit of darkness from both her Concept's view and from the woman's life.
+
+As she saw the woman off, she reminded her, "The underlying problem is healed, and I re-shaped the hemoglobin in your body right now, so it shouldn't come back. But if anything feels off, please come back immediately."
+
+Once she and Baxter were alone, he said, "That was well done. We didn't hit sickle cell anemia during your time at Tier 5. It's impressive that your Talent was able to make the jump to it. We have three others to check on, and see if they are under your umbrella as well."
+
+They continued to heal for hours. When they were finished, and Melinda wanted to strip and wash off the smell of the hospital, Baxter stopped her.
+
+"We have one other location to hit. I got authorization for a trial a while ago, and now there is a subject to test."
+
+Interested, as this was out of the ordinary, Melinda asked, "Oh, what is it?"
+
+"You'll find out when we arrive."
+
+As much as she pressed, he refused to explain. He grabbed her and flew halfway across the city. They arrived at the outskirts, where the planetary prison was located.
+
+She didn't know what the big deal was. She had done healing here before.
+
+"What's with the secrecy? I've been here before."
+
+"You'll see." Baxter's voice had a finality to it that she didn't want to push.
+
+They entered the prison, and Melinda greeted the guards and prisoners she had met before. The Empire didn't have large prisons, and the ones they did have focused on rehabilitation, and correcting mistakes in a safe environment. Anyone who did something heinous was killed. She didn't agree with that, but accepted the reality that keeping people with the prowess and capacity to commit such crimes was a recipe for disaster.
+
+She had heard a rumor about people over Tier 15 being sent to an asteroid belt to mine ore, only to remake the asteroid for decades on end as punishment. She hoped it was only a rumor. That was cruel. Death was fine for some things, but endless torment wasn't.
+
+They were brought to a room deep inside the prison. There, they came in front of a nondescript man with shackles around his wrist and ankles.
+
+Melinda saw that he barely had any darkness around him, just a few darker spots that showed minor injuries. It was the sign of someone above Tier 15. They were much healthier than anyone below that, and it showed in her vision. It was the main reason she knew her younger self wasn't making things up as a reaction to trauma. There was no way to tell a Tier 15 from a normal person without inspecting their cultivation base, but she had always been able to tell.
+
+Baxter started speaking as he withdrew an actual folder with paper.
+
+"Spencer Silver. Tier 18. A loyal member of the Empire, until he wasn't. He was caught trying to sell secrets on a weapon project, and he was revealed to be a spy who took over the real Spencer Sliver’s life."
+
+"And what are we doing here? Someone whack him on the head and end it." Melinda couldn't think of anything else to do with a spy. There was only one punishment for them, and she had no sympathy for someone who wanted to destroy her home.
+
+"Funny, you should word it like that. That is exactly what we’re doing."
+
+Baxter met her eyes with a hard look.
+
+"He will be killed, as we have undeniable proof, but here we have a perfect opportunity to test your Talent."
+
+A creeping horror overcame Melinda, as his earlier comment started to make sense.
+
+"We want to see exactly how your Talent works with brain damage. And to see exactly how your Concept works on a human."
+
+Melinda protested, "No, I won't do that. We already know what it does."
+
+As her words ended, Baxter spat out, "We know how normal overhealth works. But as we've proven with you, your Talent is both malleable and able to grow. That means it could work differently."
+
+Melinda didn't want to hear it.
+
+"No! I refuse. I won't be a part of torturing a man. Also, we’ve gone over this, I won't use my Concept. I won't. It's evil, and it’s everything I stand against."
+
+Just the thought of seeing the kobolds and harpies attacking again was reason enough to not use it. But it was her polar opposite, and she refused to even test it. That would be the start of a slippery slope that eventually led to her using it as any normal skill.
+
+That. Wasn't. Her.
+
+Baxter looked at her with a complicated look in his eyes. "Your Talent is game-changing. It's so strong that you don't have to be perfect with your healing technique. Hell, you don't even have to try most of the time."
+
+She opened her mouth to protest, but he held up a hand and continued.
+
+"No. Let me finish. Your Talent means that any mistakes you make are fixed with no repercussions. You don't have to push yourself. But allow me to let you in on a secret. Talents won't carry you forever. There will be a time where it isn't strong enough to get you through a situation. For that, you need training, practice, and experience. If you don’t hone your skills, you won't have them. You will fail, and people will pay the price."
+
+Baxter took a deep breath.
+
+"I want you to use your Concept because from the description you provided, it seems incredibly strong. Absurdly so. Why won't you at least use it on rift monsters? They are the reason you lost everything. I could accept it if you only wanted to use it on them, and not humans, but they are rage given flesh. They deserve no mercy."
+
+"It's a slippery slope, and I don't want to make one exception that will lead to others."
+
+Melinda took a deep breath and continued, "My team does well on their own. Even without my Talent, we would be fine."
+
+Baxter laughed heartily, "No, they wouldn't. Melinda, you aren't dumb. Your team wouldn't be so far ahead of the curve without you. And you aren't even that great yourself. Healers are usually team shot callers, and you suck at it. If you went into a new rift that you didn't have a guide for, and you didn't have overhealth as a Talent, your team would all be crippled or dead by now. What are you going to do after Tier 10 when the rifts no longer have any useful guides because they have too much variation? You have no instinct for being a shot-caller, because you don't need it for everyone on your team to be fine. If one of your friends got hurt, you just heal them back to perfect health."
+
+He rubbed his eyes, and seemed really old for a moment.
+
+"Will you use this man to test your Talent and your Concept?"
+
+Melinda couldn't deny what he said earlier had merit, but she held firm. It wasn't right.
+
+"No."
+
+Baxter didn't push further, and a ray of what looked like moonlight washed over the spy. A split second later, he was just gone.
+
+"Let's go. I'll take you home. Just think about what I said."
+
+They moved through the prison and walked to the train station. Melinda wanted to complain about Baxter, but a nagging fear told her he was right. But she wanted to help people, not repeatedly kill and heal a man so they could test her Talent.
+
+The effects of overhealth were well known, according to the Emperor's chief healer. Hers would work like that too.
+
+What if it doesn't, and Mathew loses his head?
+
+She pushed the dark thought to the back of her mind. She refused to entertain the possibility, but she also searched for shot-caller classes she could take. Baxter was an ass, but he wasn't wrong there either.
+
+As they were on the train, she watched a short-haired man step into their car. He was attractive enough, in a rugged way. But what drew her eyes were the solid kobolds and harpies crawling over him. He was so near death, there was no line to cross.
+
+She shot up and walked over to him.
+
+"You need to go to the hospital. You are seriously ill."
+
+He cocked an eyebrow at her and laughed, saying, "I feel fine. I really don't have the time."
+
+Latching on to the excuse, Melinda struck back, "Let me examine you for the train ride then."
+
+He rolled his eyes and stuck out his hand. "If you are going to be examining me, we should at least trade names. I'm Made Milson."
+
+Melinda cast [Directed Heal] to get an idea of what was wrong.
+
+"Well, I'm Melinda, and you have cancer in the liver, lungs, prostate, and brain. Will you come to the hospital now?"
+
+Made looked at her like she was crazy, so she pulled out her pad and brought up her credentials.
+
+Made shrugged and said, "Eh. I have a meeting with some..." he paused, clearly making up a lie, "new and interesting people... And I will be ki...ssing them. Kissing them. I'm going to an orgy. Lots of sex. Not suited for pretty things like you. A lot of old wrinkly, ugly people. But the eclairs are to die for. So maybe tomorrow."
+
+Melinda stared at him, flabbergasted.
+
+"Mr. Milson, this isn't the time for jokes and humor. You are close to death. It's serious, and needs to be treated as such."
+
+Baxter watched her handling the recalcitrant man, and she found an urge to prove him wrong about her being unable to do anything without her Talent.
+
+"Promise me you'll show up tomorrow morning. I have a shift then, and I'll expect you there. If you don't show, I'll send the guards to track you down and drag you in."
+
+"Ohh, kinky. Just so you know, my safe word is kumquat." He winked at her, and while he looked unconvinced, he agreed to show up. She got the feeling that it was more to get her to leave him alone than anything else, but it worked.
+
+She hit him with a controlled [Ranged Heal], to hold him over until tomorrow, and smirked at Baxter. He just rolled his eyes at her. She had to admit, for his acerbic nature, his crude humor had lightened her mood after the darkness of Baxter's suggestion.
+
+When she arrived at her team’s rented home, she expected everyone to already be asleep, but found them animatedly discussing something.
+
+"Oh Melinda, you’re back. Did you see the message?" Tara was the farthest, and the one facing the door, so she saw her first.
+
+"No, I keep my AI on do not disturb mode when I’m working. You know that."
+
+"Check." Everyone shouted in unison, startling her.
+
+She did as requested and a high-priority message on her AI.
+
+Person on The Path of Ascension. You are at either Tier 5 or 6, and invited to join the Empire sanctioned vassal war. The kingdom of the Seven Suns has been declared on by the queendom Alliance of Allied Queens, over their newly discovered Tier 20 planet. As their Tier 6 planet is the nexus point between the two vassal factions, the Emperor has decided to use it as a safe training environment for our youth.
+
+Pick a side, and fight for contribution points! Anyone on The Path and at the correct Tiers will be allowed to participate! If you choose to participate, picking a side will book you for fast transportation to the planet in question. Check the attached file for rewards given.
+
+Please note that winning or losing will be irrelevant, and the losing side may get more rewards if they fight harder. Winning or losing won’t determine the outcome on the Tier 20 planet.
+
+The file with the rewards was quite extensive. Even just showing up and standing guard would net most people a Tier 8 skill shard. It was also accompanied by a multi-page document, entailing how these faux wars usually proceed.
+
+Melinda didn't want to go. She wanted her team to stay here and be safe, but just a look told her they had already decided.
+
+She was opening her mouth to ask which side they wanted to choose, when a knock sounded at the door. Thinking it was Baxter who wanted to say something, she opened it without thinking.
+
+Standing outside was a woman with flame-red feathers in place of her hair. When the woman saw her, she smiled, "You must be Melinda!" she exclaimed.

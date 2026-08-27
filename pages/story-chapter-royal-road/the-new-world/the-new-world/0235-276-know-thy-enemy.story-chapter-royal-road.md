@@ -1,0 +1,251 @@
+---
+id: e8fa12e4-b155-57e6-9a7c-40b0097f28e9
+page-type-slug: story-chapter-royal-road
+title: "276 Know Thy Enemy"
+slug: 0235-276-know-thy-enemy
+partOf: the-new-world
+position: 235
+ownLength: 4091
+unit: words
+ownProgress: 4091
+publishedAt: 2020-11-03
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/578918/276-know-thy-enemy"
+royalRoadId: "578918"
+markedReadAt: "2026-06-29T21:29:08.227Z"
+---
+
+I narrowed my eyes, "Have they found our guild?"
+
+"No, I don't believe they have. We're rather fortunate that Elysium only recently established a camp far south of here, hundreds of miles away."
+
+I put my hands on my hips, impressed Torix knew that,
+
+"How did you figure something like that out? We don't have that kind of reach."
+
+Torix raised a hand, "We didn't, though that glaring weakness has changed as of late. That advanced obelisk has given me far more time to use elsewhere, and I've been spending that time expanding our information network. After all, our most egregious issue is Lehesion assaulting Mt. Verner or Earth in general."
+
+Torix spread out his arms, "I am not wholly unaware of this fault, and I aim to rectify it. You shall act as our sword and shield should he arrive. Before then, I shall act as our eyes and ears so that we may evade him before that fateful moment."
+
+I let out a deep sigh, "Torix, thank you. You can't know how much better this makes me feel about our situation."
+
+He put a hand on my shoulder, "Oh, I believe I do. I've dreamed of establishing a university since my younger years, and this is the beginning of that vision. To see it be laid to waste by a juggernaut of magic, that...that would be hard to bear."
+
+He let his hand drop, "So I decided not to bear it at all. I've been planting spies in all directions, and they've given me valuable insights into nearby areas. One of those spies informed me that a Hybrid was spotted several hundred miles south of here."
+
+I raised my brow, "Damn, this is impressive."
+
+Torix waved a hand, "This is nothing. My programs are merely bearing fruit as it where, and now we may enjoy the harvest."
+
+I lifted a hand, "That's good to know. Was there anything else the spy reported back?"
+
+"Indeed, there was. Our spy circled the Elysian encampment, giving us its exact coordinates. I've yet to attack as I didn't want them to know opposition was planted here on Earth. Just as well, I've gained a few insights into Elysium establishments."
+
+"Are they spreading silver territories and blighting the local populace like normal?"
+
+"Quite the opposite. I suppose the first point requires context given your presumptions. Most earthen camps are...primitive at the moment. Though Mt. Verner is a well of prosperity for nearby areas, other regions wallow in abject poverty, struggling to contain the eldritch nearby."
+
+I frowned, remembering the few villages I checked out a while back. The situation wasn't getting better without some intervention. Torix continued,
+
+"In many ways, the Elysium camp is the opposite of Schema's encampments. Schema only offers certain services to those that prove themselves. The Elysians do the opposite, granting Hybrid guards and protection to those most helpless. They also offer to enlist any that are willing to abandon Schema's system."
+
+Torix shook his head, "I will admit, for anyone new to Schema's system, the rebels offer of training, protection, and an eventual Hybrid are alluring. It makes Schema seem barbaric by comparison. The Adairs even offer assistance to those that refuse to join their cause. How they can offer up these kinds of resources, I do not know. It is a fact they do it, however."
+
+I raised my eyebrows, "It doesn't really matter how they do it, does it? If anything, that's more like what our guild does than what Schema's doing. It makes more sense why worlds are rebelling if that's what a standard camp is like. They sound pretty helpful, actually."
+
+"Indeed. It bodes poorly for Schema's immediate future."
+
+I snapped my fingers, "Oh yeah, I forgot to ask, do they have a warp there?"
+
+"I couldn't believe it when the scout gave us the info, but yes, they in fact do. Why do you ask?"
+
+"Florence planned out something with Amara and Hod. They want to subjugate the eldritch on the vagni's homeworld so that we can cripple the rebellion on Blegara."
+
+"It's a fine idea, though executing on that sounds more than merely difficult. It would save us an immeasurable amount of resources should it succeed, however."
+
+I pointed up, "He needs Amara to establish a link to Elysium's system, and that should only take a few days of being on an Elysian world. This camp might be our ticket into their domain."
+
+Torix tilted his head, "Ah. We may turn this blunder into a boon then, the tides turned as they say. Perhaps we could organize some sort of supporting force to keep Amara safe on her departure, and that would allow us to learn about Elysium as well."
+
+Torix gave a nod of approval, "This is a good idea, though perhaps a touch risky. Florence, was it? He's more talented than his family believes I take it?"
+
+I shook my head, "Yeah, they treat him like he's garbage. He can't fight at all, but he's got good planning, researching, and he makes friends fast. I just need to put him in the right position, and he's damn good at what he does."
+
+Torix threw his hand in disgust, "I understand his problems all too well. As you know, I'm gifted at mind magic, necromancy, and many incantations. On my homeworld, Xanathar, I was hated by my family after enacting revenge on a rival family. The only reason I was driven so far was the distaste my own kin held for me."
+
+Torix raised a hand with two fingers pressed together, "They chose not to acknowledge my talents, nor to help me foster them. Because of that disconnect, I was intelligent but without wisdom. That is what the old in society act as - transmitters of experience. They take the raw passion of the young and temper it with their advice and instruction."
+
+Torix crossed his arms, "But the elderly can often be blinded by arrogance and constant comparison. Families will throw away the gifts of their children if those gifts do not fit comfortably into standard ideas of right and wrong. It is the failing of an aged generation when the youth aren't allowed to prosper."
+
+Torix sighed, staring down, "That is what befell me. I...I lacked any guidance, and I fell into dark waters because of it. It's good you're giving Florence a place to shine before he fell into those very same circumstances."
+
+I smiled, "Thanks. I don't know if I could say the same for me, though. I know I wasn't going to be successful in my own world before Schema arrived. My skills didn't line up. It just took a little luck going my way, and all of a sudden, I felt motivated and unstoppable."
+
+I stared off in the distance, "Maybe circumstances play more into our success than we think? It's a scary thought."
+
+"I understand the sentiment, and here is how I rationalize my fear. You see, opportunity is a fickle mistress. One day she shall shine on you with radiance. Other days she shall gaze away at all of your attempts to gather her attention. In that case, I think the most important practice is persistence. With persistence, one can one be in the right place at the right time when opportunity arrives."
+
+Torix's eyes shifted red, "Otherwise, you would surely be caught without the means to press your advantage. It reminds me of killing a rival. One must have their knife sharpened for when your enemy exposes their neck. Otherwise, the blade will lack the edge to cut skin and sinew."
+
+I frowned, "Good tips, though a little grim. Maybe it's kind of like steering ship? It takes some serious time to turn a seafaring vessel all the way around. Destiny and all that might be similar. It just takes time for your decisions to fully manifest."
+
+Torix shrugged, "It's as good a theory as any. Regardless, what kind of team do you think we need for Florence's plan? Would you be joining them, perhaps?"
+
+I raised my palms, "I'm as subtle as a jackhammer at a tea-party. We need people who actually look normal. Otherwise, they'll figure out what we're trying to do right away."
+
+"Fair point. I'm trying to think through my various students, and one does come to mind who fits the bill."
+
+"Who?"
+
+"Alexander. He's the arcane mage you demonstrated pain tolerance to. He took that lesson to heart, and he's forged himself into a potent mage since."
+
+I raised my brow, "You sure he could handle Hybrids?"
+
+"He most certainly could not, but he wouldn't be alone. Though Amara is by no means comparable to us, she is strong relative to most. She may help in her own defense."
+
+I cupped my chin, "Huh, what about Althea and Hod? I bet they could tail behind them and keep them both safe."
+
+Torix's fire eyes flared, "Excellent idea. They're quite experienced in reconnaissance. Their experience would help Alexander and Amara quite a bit. I do worry about Alexander's experience, however."
+
+"What do you mean?"
+
+"He lacks any mundane, worldly experience. He was young when the system first arrived, and since then, he was a part of Springfield during Yawm's coming. Now he's spent years on Mt. Verner, and he's never traveled before now."
+
+I crossed my arms, "So he needs a guide to help him out. I might know some people who could help."
+
+Torix steepled his fingers, "Perfect. I wouldn't want one of my star pupils to be killed on his first outing. Who do you have in mind?"
+
+"Eh, it's a group for one, and they clear dungeons for a living. None of the people I'm thinking about stand out too much either. I think they'll be perfect."
+
+Torix leaned back, "Perhaps they're unusually competent then? I know most of the dungeon clearing corps. They are...rough around the edges to put it kindly."
+
+I put a hand on Torix's shoulder, "They're not geniuses or anything, but they're the best normal people we've got for the job."
+
+Torix's shoulders drooped, "Why do I feel as though you're sending one of my best disciples away with a group of ruffians?"
+
+"Because I am, but don't worry. They'll get along great, and these guys know how normal people work. Let's be honest, we don't."
+
+Torix sighed, "True. Perhaps we may meet with these rapscallions on Saturday morning then?"
+
+I shook my head, "They'll be too hungover to even stand up."
+
+Torix facepalmed, "What have I agreed to?"
+
+I grinned, "A great idea."
+
+-Phil Williamson-
+
+I sat at the dining room table, a cold draft sauntering in like the echoes of some bad memory. An eldritch tore a hole in the kitchen wall, and the entire lower floor chilled at nights because of it. Every time that wind cooled the back of my neck, it was like a whip across my back.
+
+I failed my family.
+
+No one else at the table said anything about that night, but we all understood what it meant. Before long, we would all have to leave the house. It was falling apart anyway, but not having at least walls between the monsters and us...that thought haunted even me, and I was the one fighting them. I could only imagine what the others must have been thinking.
+
+Margret was hit worst by it all. She always struggled with anxiety, but we handled it together, even when times were hard. Nowadays, my wife was having a mental breakdown day in and day out. She would often daydream before, and I loved that about her. She was so full of hope. Since the culling, she'd struggled to transition to this new way of life. Now she wallowed in memories from a bygone era, and she could hardly contribute at all.
+
+Jason picked up the slack, but he struggled like I did. I loved the boy, and he was becoming a man. At the same time, he couldn't cook like Margret, and he sure as hell couldn't give the same kind of comfort. She held us together with the way she painted pictures of a better life. Without that, we were losing hope and fast.
+
+It wasn't all bad. Jason and I learned to appreciate each other in these trying times. That was probably because we were the only two people we had left. As I raised a spoon to Margret's mouth, that became evident. An eldritch tore into the house and grabbed her, screaming in her face. It stared down into her eyes, and it left her entire mind scrambled like eggs.
+
+I was the one that let it in because I fell asleep on the night shift. Every mealtime since, I fed her. I tended to her every need, and guilt tore into my mind each and every time she needed my help.
+
+That pain, I deserved it.
+
+Jason already forgave me. He said it was just a part of this new world we were put in, and that making mistakes was a part of being human. I was proud of him when he said that, but I couldn't accept his words of encouragement. I should have done more. I could've done more, but I let laziness creep in along with a cunning doubt.
+
+Fighting every night wore me down over these past few months. The monsters were becoming stronger, and the level ups were far and few between. The doubt, however, was far more insidious. We hadn't gotten a beam of hope in so long. Sally was gone, and as I fed Margret, I couldn't help but feel she was gone too.
+
+Her eyes stared forward with a blank stare, and it hurt me to look at her. I had too, though. She was a burden I deserved, and I'd carry it willingly. That's what a man did. They owned up to their responsibilities, and if feeling this pain was what I deserved, I accepted it without complaint.
+
+Jason lacked that regret as he ate his slop, scarfing it down with the kind of hunger that comes from being a growing boy. I wished I had meat to give him, but there just wasn't much wildlife in the forests these days. We both agreed not to eat monster meat, even if it looked mighty tempting sometimes. I salivated at the thought of it, imagining a fresh steak with pepper and salt. If only.
+
+A bang echoed from the woods, jolting us out of our dinner.
+
+I set the spoon down onto Margret's plate, and I stood up from our dining room table. Jason stood up with me, but I raised a palm to him,
+
+"You know what these monsters will do to you."
+
+Jason stared at the hollowed eyes of his mother, and the boy sat down. I turned and walked out of the house, a screen door clapping behind me. As I stepped onto our farm, I grabbed my nailed club from the porch. Staring around, I found eyes in the distance, this time each of them beady and lifeless.
+
+I pounded my chest with my fist,
+
+"Come and get me, you filthy monsters."
+
+My yelling might attract more of them, but I didn't want these ones to find Jason and Margret in the house. It would be too much to find another member of my family hurt or worse. A pack of skittering insects ran out of the forest. They were like scorpions with eyes at the end of their tails, along with stingers. Their legs curled up, letting them spring forward in great leaps, and their beady eyes sat as massive orbs on their tails.
+
+I shivered at the sight of them. They looked like harbingers of death, but I waved my club in my hand, ready to go at em. They scuttled towards me, trying to encircle my position. I already knew that was coming. As the first scorpion scuttled off to my side, I darted sideways. The ground cracked under my heels as I shot towards the beast. It leaped back, escaping my first swing.
+
+I followed the momentum of my swing, doing a spin. I viewed it again, and I chunked my club at the beast, the metal clobbering through its shell. It cracked into a spray of brown ooze, a putrid stench spreading from its wounds.
+
+The other bugs hopped at me as I sprinted forward to my club. They leaped at me, but I darted sideways, jumping back and forth. The scorpions tackled into the ground, ruining patches of crops as they did. I reached the corpse I clobbered as one of the crawlers pounced at my back.
+
+I ripped the club from its body, turning towards the insect lunging through the air. I splattered it across our farmland, its corpse exploding from the pressure of impact. Three scorpions remained, each of them warier now that I took out two so quickly. Their mandibles drooled at the sight of me, however, so I charged towards them. I found that attacking first gave me an advantage.
+
+As I reached them, they grouped up together. Using their claws and stingers, they rained down a spray of attacks on me. I parried several snaps of their pincers and stings from their tails before one of them nicked me in the arm. A fire like radiance spread from the wound as I fell back. Their teamwork made up for my better physicality, and before I knew it, my left arm went numb. Holding my bludgeon in my right arm, I swung at the scorpions while howling,
+
+"Back. Back. I said back."
+
+They pressured me until I was at the edge of the house. I heaved for breath, the venom spreading to my chest. Sweat dripped down my forehead as the scorpions kept snipping at me. They pursued with the relentlessness common to their kind. I cursed them as my backfoot stepped onto my porch.
+
+From inside, Jason shouted, "Dad, are you ok?"
+
+I roared back, "Stay inside and be quiet. I'll handle this."
+
+Jason stared on, fear in his eyes. The scorpions stopped attacking, pulling back. As they did, they inspected the house and my heavy breathing. A few seconds passed before they split their tails into three parts apiece. After interweaving those tendrils together, a voice echoed from their combined minds. It was raspy and snakelike, the sound unsettling,
+
+"I see you are the guardian of this place, a sheep who guards the other sheep here."
+
+I narrowed my eyes, "And what of it?"
+
+"Do you love those that are in there? We will eat them unless you surrender now."
+
+The eldritch never stopped eating, and I didn't believe them for a second,
+
+"You won't be getting near them unless it's over my dead body."
+
+"Then let it be so."
+
+Their tails split back apart, and they continued their onslaught of attacks. I parried two more clamping claws, and I smashed one of their arms into the ground. A tail slit my forearm as I did. I hit two more stinger swipes sideways before kicking one of their skulls in, but another stinger pierced into my thigh, the wound deep.
+
+I ended up tearing two of their bottom claws out, but they nicked me three more times. At this point, two more scorpions remained, and they waited for me to pass out. As they did, blood dripped from me like I was a walking wound. My nose ran, and my eyes teared up. I made one last swing before falling down, unable to move.
+
+I lost.
+
+The scorpions ran up to me, their mandibles jittering about in a frenzy. They stopped short of my face, however. I watched as they stormed the house, tearing through the defenses we set up. Dread welled in my belly while wood cracked under their claws like ice blocks under a hammer. After many minutes of struggle, they pulled Margret and Jason out of our house.
+
+I watched as the scorpions pulled me upright. They threw my family in front of me, both of them struggling to stay alive. Jason wept, his eyes bloodshot. Margret stayed listless, her expression indifferent. I wished I could do the same. The scorpions interwove their tails again, and the same voice echoed out,
+
+"Now watch them be devoured, as was our promise from before. This fault is your own."
+
+I wanted to shout, but no words left my mouth. It was as if I was trapped inside my body, unable to vent my frustration, hatred, and anger. It pooled inside me, forging my mind like a furnace. I hated these monsters. I hated the eldritch. I hated this new world we found ourselves in.
+
+Day after day, month after month, we lost everything. My faith in myself was gone, along with any self-respect and dignity. I didn't need those things. I needed Jason and Margret. Without them, I was nothing. It would be worse than dying. It would be torture.
+
+The abominations grabbed Margret first, my highschool sweetheart now weeping. The wind whistled in the trees, and my own eyes watered. A scorpion held her upright while the other one opened its mandibles wide. Brown, disgusting drool leaked from the monster, and its mouth was like a thousand branches ending in thorns.
+
+They neared Margret's face. I watched in horror as a mandible made contact with her cheek. It cut through her soft skin, blood leaking out. Several more mandibles sliced into her face, and I screamed inside. It was a wail I'd never imagine I could make, a lamentation from deep within.
+
+An alien, crackling sound echoed from the trees. The scorpions glanced at it, their mealtime interrupted. I prayed another eldritch would fight them. Instead, a mechanized horror strutted out of the trees. It was an all too familiar sight, but I never imagined I'd see one in person.
+
+It stood tall, over ten feet high with writhing hands. Orange pustules pulsed over its corded frame. The being left quakes in the ground as it stomped forward. Trees nearby shook with violence at its passing, and the monster's eyeless frame unsettled even the eldritch.
+
+The scorpions locked eyes with the Hybrid, and so did I. We all stared at this new threat, each of us far too weak to fight something like this off. We were all going to die. This endless moment right before chaos broke loose, it stretched on for an eternity. In the pits of my chest, I dreaded the being in front of me. It was one of the only ways to die that was even worse than by these scorpions.
+
+The Hybrid moved first. It dashed across our farm, laying waste to the ground near it. The scorpions released Margret, racing away. As the Hybrid stomped towards us, I screamed in my mind, terrified of this abomination. It got near Jason, and cords unveiled from its frame like branches from a tree. These cords ended in metallic blades, ready to pierce their victim.
+
+I watched in horror as it passed Jason entirely.
+
+The Hybrid shot into the forest, catching the scorpions. The bugs wallowed and thundered out in agony, their sickening cackles only outdid by the sounds of their bodies being consumed. As the siphoning process ended, the Hybrid skulked out of the forest. It stumbled, its body swollen with the remains of the eldritch.
+
+It walked up to us, getting to the middle of our family. It stayed there, watching us from all directions. We remained petrified in place, unable to so much as move. A half-hour passed, my heart almost bursting in my chest as it stayed this close.
+
+Another rustle echoed from the trees. An espen walked out of the forest, the alien comfortable here on Earth. I only knew what it was because of watching the Harbinger's streams. This mystery espen snapped its fingers, and the Hybrid walked towards her. As the espen reached us, she stared down,
+
+"So that's why my watchdog ran off. It's good to see it made it here in time. We've been clearing out a scorpion's nest nearby, but a few of these guys escaped through the trees. Sorry they got a hold of you all."
+
+She rustled through her bag, pulling out three vials of green liquid. She smiled, "Let me get you guys some antivenom."
+
+We were alive.
+
+She popped the top off one while giving us a cheeky grin,
+
+"The name's Melania by the way. It's good to meet you all."

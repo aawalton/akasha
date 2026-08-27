@@ -1,0 +1,303 @@
+---
+id: b91b63ef-699b-5b51-9628-46300ae98d8f
+page-type-slug: story-chapter-royal-road
+title: "The Path of Ascension Chapter 417"
+slug: 0116-the-path-of-ascension-chapter-417
+partOf: the-path-of-ascension
+position: 116
+ownLength: 5236
+unit: words
+ownProgress: 5236
+publishedAt: 2025-06-06
+link: "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/2335981/the-path-of-ascension-chapter-417"
+royalRoadId: "2335981"
+markedReadAt: "2026-06-29T19:21:49.718Z"
+---
+
+Chapter 417
+
+Matt was still heated enough that the moment they left the estate, he opened a [Portal] to a Tier 28 rift and entered inside, with Liz hot on his heels.
+
+Once he had killed the first dozen monsters, she asked, “Feeling better?”
+
+“Not really, but good enough I guess. This whole thing just pisses me off and I feel helpless.”
+
+Liz just opened her arms, and Matt hugged her for a long minute before pulling back. “I get it. How do you want to handle it?”
+
+Matt rubbed his eyes before groaning. “I want to just kill the asshole but that's not really possible and possibly not warranted.”
+
+Liz grinned. “And here I thought I was going to have to point that out.”
+
+Matt snorted. “I do realize that while he’s an asshole, same with that baron— speaking of which, that reminds me, I want to make him relinquish his title if we ever see him— they both don’t deserve to die. Maybe. My point being I’m too close to this, and that's exactly the lever that is being pulled. Which is pissing me off even more.”
+
+Liz rubbed the back of his hand with a thumb. “And that's okay. If you really go too far, I can always pull you back.”
+
+Knowing his wife all too well Matt smirked. “Would you have pulled me back if we could have killed him? Be at the right Tier and his real body was here I mean?”
+
+Liz scrunched up her face as she said, “Ehhhh. Maybe. Dude’s a dick and used his position to very carefully take advantage of a kid. Maybe he doesn’t actually deserve to die, but I wouldn’t weep over his loss if you managed it. If he's willing to do something that shady to Eirene, how many others has he done similar things to?”
+
+That just started to get Matt heated once again but he forced himself to calm down. “How do we want to handle it then?”
+
+“He's going to sue us.”
+
+Matt nodded. “Probably. Us and Eriene.”
+
+Liz waggled her hand back and forth. “Maybe, maybe not on her. I doubt he wants his deal made public, and if it goes to trial it will be made public. It's smarter to go after us and leverage our attacking him as an excuse to make us pay him.”
+
+“We aren’t paying him a single credit. I wouldn’t give him a counterfeit credit just in case he might be able to pass it off as real.”
+
+Liz snorted. “Speaking of, we have another group making counterfeit credits. This time in Rilies County.”
+
+Matt groaned. “Fucking bullshit. I know we statistically have less of this petty crime than others, but it's really pissing me off. Can we just get rid of physical credits already?”
+
+“You know the answer to that.”
+
+“Yeah and they are useful, but they are also surprisingly easy to counterfeit despite a lot of effort going into preventing exactly that. Talents like that are bullshit.”
+
+And they were.
+
+Not every false credit was Talent-made, but a majority of them were, which meant any number of preventative measures generally just didn’t work or were actually used to add legitimacy to the credits.
+
+The smart counterfeiters never went over a million credit coins, but not everyone was smart, and enough of the coins could start to shift mortal economies on a small scale. Most of that came from fear of accepting one of the coins, which then ruined the few legitimate reasons for the physical, less traceable currency. But it was a disruption all the same.
+
+As dukes, it was their duty to deal with such things, but it was still annoying and took up resources they could otherwise use on more valuable and important projects.
+
+Matt personally just wished they could get rid of the physical coinage altogether, but there were legitimate reasons to keep them around.
+
+Still, letting his mind drift over having to send someone, possibly Cato if it was bad enough, to Count Rilies’ worlds was a worthy distraction.
+
+Economies were fragile things, and one of the few warnings Manny did give all of his nobles after the execution was about keeping their economies as healthy as possible.
+
+He wouldn’t elaborate on the why, but they were going to take the warning seriously.
+
+Standing up, Matt dusted himself off before walking back to the rift entrance. “We do need to delve in the coming weeks, that's for sure. I’d like to reach Tier 28 during our Clans visit.”
+
+“We’d need to delve like mad for that to have any realistic chance at happening. I—”
+
+Liz’s sentence was cut off as Aster dropped a pile of snow onto the two of them the moment they exited the rift. “You could have called. Assholes.”
+
+Brushing the snow away from his collar where it tried to sneak down his spine, Matt pulled Aster into a quick hug.
+
+“It all happened pretty quick.”
+
+“Half an hour is not quick. I’m one teleport trip away.”
+
+“You're right. You're right.”
+
+“I know I am. So what are we going to do?”
+
+Liz shook her head. “For now, nothing major. No storming off to kill anyone at least. We would have gotten you for that.”
+
+Aster put away her armor with a snort. “Shame that, given what I heard second hand.”
+
+Matt felt his mood lighten as the three of them retreated to the ducal castle, where they chatted for a little while before splitting back up. They were all busy and needed to get back to work.
+
+Matt started dealing with the paperwork Liz hadn’t gotten to yet, giving her a small break she used to check up on her research institute's progress. According to her latest reports, they had figured out a replacement for an important bloodline strengthening potion’s main ingredient.
+
+Seconds Falls Echo wasn’t necessarily a rare Natural Treasure, as it normally appeared in the Tier 9 to 13 range of rifts, but it was always in high demand thanks to being a main ingredient in one of the potions that could reinforce a bloodline. Its situation wasn’t helped by also being a useful Natural Treasure on its own for anyone wanting an increased ability to see sudden movement.
+
+Natural Treasures, being rare and nigh impossible to farm, were mostly pulled out of rifts.
+
+As for why Natural Treasures didn’t form on inhabited planets, that was a topic often debated. But whatever the reason might be, it was an undeniable truth, and unless they wanted to depopulate planets, they weren’t able to get them from anywhere other than rifts that spawned them.
+
+There had been dozens of requests from teams at Titan’s Torch to test making rifts using Natural Treasures, but so far, the tests had been deemed too expensive and were put on the back burner until they had more funding.
+
+While they didn’t have unlimited funding with the cover of the bespoke rifts, Matt figured there was a chance he could allow a few more projects to run simultaneously. And given that there was a chance the Knightly Order rifts might need Natural Treasure as anchor items, it would make for a good cover to start investing in them.
+
+After sending the idea to Kees and Cato for deliberation, Matt refocused himself on Liz’s successful Seconds Falls Echo replacement.
+
+Given the sheer amount of rifts in the Tier 9 to 13 range, there were usually enough Seconds Falls Echoes to make a decent amount of potions, but there most certainly wasn’t enough to support demand.
+
+Everyone wanted to strengthen their bloodline, and it took resources to do so.
+
+Essence could make a bloodline stronger, but like everything else, no one wanted to spend their precious essence on something a potion could do when they could spend it on an aspect of their cultivation with more tangible benefits. The same went for mana concentration, and he knew how expensive those potions were, given that he had been the one to help Liz make them while they were on the Path.
+
+It was the same problem the Monster Collective had run into, though they had figured out a method to increase the supply of such potions to a more reasonable level that their price was actually approaching something reasonable. It was speculated that they had their own variations of the potion, but if that was true, they kept such details tightly controlled, as there had never even been a hint of a leaked new potion recipe.
+
+Matt personally suspected they were just using Talented alchemists to make the same known ingredients go further, but there was no real way to prove that. So long as they were being paid properly for their work, he didn’t even mind, as that was an ideal use case for an efficient alchemy Talent and they weren’t particularly rare as those things went.
+
+As for Liz’s bloodline research facility, they had been working on trying to rework the potion to use cheaper materials. That was a process that had been done dozens of times before on other potions, which resulted in just as many variations on the same potion which did help, so long as they didn’t rely on the same rarer Natural Treasures. So the effort was nothing new in and of itself, but they had succeeded.
+
+At least in a minor way.
+
+Currently, they had managed to replace the Seconds Falls Echo with six other non-Natural Treasure herbs, a monumental feat in and of itself. The problem was that their new potion wasn’t as effective as the original by an order of magnitude, and it was up to Liz to decide if she wanted to keep working and iterating on the potion. Or, they could release it as it was and let the various potion industries run with the current idea.
+
+Matt was pretty sure she would end up going with her first idea of letting the teams have a bit more time, twenty to thirty years, then reevaluate them but he was happy to give her the break so she could deal with it all.
+
+That just left Matt with dealing with their ducal duties.
+
+Thankfully, Liz had been working her feathers off and there was no backlog of high priority incidents, which he was grateful for, but that just meant Matt got to start digging into increasingly menial tasks. They were still important, but Matt personally couldn’t care less that two of his barons were squabbling about who got to raid a planet passing by, marked by one of the Empire explorer teams, so long as they didn’t actually kill each other or violate any laws regarding their subjects.
+
+Best outcome he saw was that the two of them punched each other in the face a few times and got over it.
+
+Matt corrected himself, the actual best outcome was that both groups just raided the planet in a competition similar to the border world he had visited while it was still within tether range.
+
+According to the report from the initial explorers, the Tier 4 world wasn’t really notable.
+
+Explorers usually got to them first, but explorers were also Tier 15 at a minimum. And for worlds under Tier 10, they usually only bothered to enter their real space long enough to scout them for the Empire bounty before grabbing any rare resources, usually Natural Treasures, then just moved on to look for bigger and better finds.
+
+Previously, when the Empire was rapidly expanding its footprint, it would have grabbed a Tier 4 world like this one. But with them being unable to do so due to the war treaty, they instead turned to establishing temporary teleport tethers and spending a few months raiding the world for everything it was worth, as the other Great Powers often did.
+
+Usually it was a free-for-all, similar to the training world Matt had experienced when he was Tier 4, but with just one or two planets from a singular Great Power, meaning the actual fighting was kept to a minimum.
+
+With the two barons each claiming the world for themselves, Matt just gave them both authorization to jointly raid the world and stated he would reward the person whose people did the best, so long as there weren’t too many deaths. He wished he could mandate no deaths, but there would undoubtedly be people who messed up a delve in some way and died for their mistake. He just didn’t want them to order their people to follow others into rifts and kill them inside, where no one could see, which is why Matt didn’t apply any qualifiers for types of deaths. If he did, he was sure they would encourage their people to abuse any apparent loopholes.
+
+What was more concerning was that there had been a noticeable uptick in low level worlds reaching the collected Great Powers in the last decade. That just could mean they were passing through a particularly thick grouping of such worlds, or that one of a dozen much worse things were happening deeper in chaotic space. Thankfully, the former was much more likely than the latter but it was something he made a note of and sent a request to the relevant Imperial authorities, asking for their evaluation.
+
+That taken care of, he moved onto the next situation, which was, amusingly enough, a request to settle down on Palustris from a ‘notable’, which flagged their system. People tagged as notable were usually unaffiliated high Tiers, but lower-Tier people could also get tagged as notable for various reasons.
+
+This person, however, was someone Matt knew all too well.
+
+Seeing Liz twirling her hair as she was stressing about what to do at her desk, Matt decided to give her a distraction. “Hey honey, I think you need to see this request for residence. Should we accept?”
+
+Liz looked up and then around before standing up and walking over to his desk and linking into what he was looking at.
+
+He felt as Liz realized what she was looking at as her body language changed into something more relaxed. “Na, let's reject her.”
+
+Saying that, Liz reached over and tapped his reject button before Matt could stop her.
+
+Laughing, he asked, “What the fuck!?!”
+
+Trying her best not to laugh, Liz lost the war as Matt immediately got a call from Aunt Helen.
+
+She was even paying for instant transmission of the data, which was worrying, except he was pretty sure Liz was paying for it, as she had undoubtedly done with the rejection.
+
+“Why did you reject my application to settle down in Palustris, young man!?”
+
+“I would never do that, Aunt Helen. It wa—”
+
+“I don’t want to hear excuses.” Aunt Helen’s tone was clipped and Matt winced even as he glared at Liz, who had to dampen sound around her as she laughed so hard.
+
+“What if I write them?” Matt had to ask, just to be smart.
+
+Not missing a beat, Aunt Helen shot back, “No! If you do that, I’ll reject them like you rejected me.”
+
+As Liz started to turn colors from laughing so hard, Matt just glared at her as he continued to get scolded.
+
+That all changed as Aunt Helen said, “Actually, Allie just arrived for a snack. I’ll be right there.”
+
+Before Liz could fix herself, Aunt Helen appeared with a grinning Allie.
+
+Caught red handed, Liz didn’t even resist as Aunt Helen added her to the scolding. “How dare you treat an old woman like me like this!? My poor heart. I’ve never been so betrayed!”
+
+It was Matt’s turn to laugh as Liz got hauled up by an ear and planted in a chair as she was scolded.
+
+She tried to look contrite, but phoenix Liz gave away the game as she laughed uproariously at human Liz, who then cracked, causing Aunt Helen to break as well.
+
+“I was actually hurt though. It wasn’t nice.”
+
+Liz opened her arms and pulled Aunt Helen into a hug as she apologized. “Sorry Aunt Helen. It was just too funny to throw Matt into that. I couldn’t resist.”
+
+The Tier 24 looked at Matt, who was trying to avoid her wrath and smirked at him knowingly. “It was kind of funny. I really thought he had rejected my application. I thought I was being nice by applying.”
+
+Seeing his opportunity, Matt corrected her. “You know that you always have a place here. We have dozens of estates set aside. You can take your pick. We can also get you on a priority list for delving. We can get you to Tier 26 a few years after you finish your Intent.”
+
+Aunt Helen snorted as she shook her head. “Absolutely not, young man. I don’t want any of that. I just need a small apartment in a half decent city. I’ll happily buy my own rift slot once my Intent is made. Even if I could delve that fast or often, I wouldn’t want to. I’ll happily delve once or twice a year, as is normal at my Tier.”
+
+Even Liz shook her head at that. “We can get you back into fighting shape if that's what you are worried about, Aunt Helen. Luna is even here if you really feel like punishing yourself.”
+
+The older phoenix just shook her head. “Child, I have no desire to delve that fast. I’d much rather live life and delve, both in moderation. Delving for me is a slow plod that takes a month or two at its fastest. I’m in no rush, so don’t be rushing me yourselves.”
+
+As if she had just remembered, she also waggled a finger at Matt and Liz. “And I don’t need an estate. I’m just one bird. I don’t need that much space, and I’d much rather be in the heart of a city than the outskirts. It's nice to be around people.”
+
+Liz and Matt shared a look before he offered a counter. “What about a small estate near the heart of a city? We have a few like that, and if you don’t like any of them, we can make one. You deserve better than a small apartment.”
+
+Aunt Helen flicked his nose. “If I wanted something like that, I could just buy it. I’d much rather a small apartment.”
+
+Liz covered her nose and leaned out of reach as she offered, “What about a nice condo in a good area?”
+
+“Children. Listen to me. I. Don’t. Need. That. Much.”
+
+Matt nodded sharply. “You want a really nice condo.”
+
+Seeing a smile crack through, he gave a serious offer. “What about a small condo in a nice location? You will own it, so you can make all the changes you want to it, which will be better if you really want to settle down here long term. And we can ensure that it gets the proper safeties in place.”
+
+Aunt Helen sighed, but he could tell she had acquiesced. “Fine, children. So persistent. I do assure you that I know how to live on my own. I’m perfectly capable of feathering my own nest. As for settling down, yes. This planet is lovely. It's like soaking in a pile of warm coals. It's quite nice, and since I need to Tier up, I might as well reside here for the next ten thousand years or so.”
+
+Matt and Liz both tried to argue that Aunt Helen really needed to Tier up faster than that, but she would hear nothing of it. Seemingly fed up with them, she called Allie once again, and along with Aster, the four of them took Aunt Helen condo shopping.
+
+It was a fun little distraction, as Aunt Helen had the weirdest requirements for a condo. Still, they managed to find her the perfect ‘nest to feather’ as she put it.
+
+The timing worked out fairly well, as around the same time they finished, Eirene indicated that she wanted to talk to them.
+
+“I want to get training in contract law. I’m not ready yet, but I’d like to actually use my Talent. I—” After swallowing, she forced out, “I want to use my Talent. It's weird, but I do enjoy managing things, and seeing them better for my addition, it's… nice. But I don’t know how to repay you, the Dobrescus, and probably a lot of people who I don’t even know. I have a debt to them. To you. And I can't really pay anyone back until I’m stronger. So I do want to use my Talent and grow it, but I also want to be safe, and I don’t feel safe at all doing so.”
+
+Matt nodded. “I understand. I do. I also think you are making the right choice about taking things into your own hands by using your Talent on your terms.” Seeing her brighten up slightly, Matt continued, “At the same time, there is no fault in giving it some time and relaxing. Waiting for your parents to arrive and just live for a little while.”
+
+For the first time, Eirene looked at him in the eyes on her own accord. “If I sit still, I’ll forget. I’ll forget my anger and helplessness. I understand it's not necessarily a healthy reason to advance, but there is a monster behind me, and if I sit still, it will get me. I need to move forward.”
+
+Matt checked the reports on her actions and found that, while she hadn’t seemed to vibe with the two therapists who she had seen, she had taken to writing in a diary with a passion. While not quite as traditional as talking through one's issues, that was a perfectly valid method of getting one's head on right, and was a good sign that she would recover from her ordeal.
+
+Liz agreed with a wave of her hand. “That's fine and understandable. Take the time you need to do what you need. If that's working and growing your Talent, then do that. Is there a way we can help without making you feel like we are overstepping our bounds?”
+
+Eirene swallowed a few times before nodding. “I’ve learned of backers and guarantors as a legal stance. They can be used in the case of a noble and one of their people. If you could do that, I would be really grateful, as few people would risk pissing you two off. Even if they were willing to try to screw me over. I don’t think I can ever be a good enough fighter to make them scared, but you two… You two make even the monsters scared.”
+
+For the first time in a while, Matt was glad for Ascenders’ reputations of being people not to cross. Recently, it had felt like far too many people were willing to challenge them, but he was happy it could give Eirene comfort.
+
+Just as he was going to say something, a black cat padded out of an open window.
+
+Seeing that, Eirene made clicking sounds while rubbing her fingers together.
+
+Luna padded over in a meandering pattern before sniffing Eirene's hand as if she were any other mortal cat. After a head rub, she was lifted and plopped into the girl’s lap with a smile and a scritch between the ears.
+
+Matt and Liz both just tried not to give the cover away as they held two conversations at once.
+
+Through his [AI], Matt connected the three of them and asked, “What are you doing?”
+
+Luna scoffed at him as if he had asked something dumb. “I’m keeping an eye on the girl and she’ll be fine. She's a little battered and bruised, but there is a core of steel in there.” Seeing their befuddlement, she continued. “Oh, don’t look so shocked. I spent time as a therapy cat before I started being a manager, and it's a useful skill for times like this. People feel comfortable around fluffy things even when they intellectually understand I’m not just a cat. That means she's willing to vent to me, and I’m intelligent enough and trained to give her the proper feedback. It’s not without its flaws, but it's an effective program.”
+
+Liz scoffed through her [AI], sending an accompanying image. “We know what the program is. We are just surprised that you did it, given how much of a hardass you are and were to us. We are surprised you aren’t having her march around.”
+
+“Don’t give me that ‘woe is me’ attitude. I know how many times you both trauma-dumped on Aster. Fluffy things that cuddle with you are good stress relievers. Besides, I only forced you two to march enough that you wouldn’t embarrass yourselves in uniform. For those who won’t quite make it and will join the military with less privileges, I make them march far more.”
+
+Matt tried to imagine what marching more than for a solid year straight looked like, but genuinely didn’t want to know, given what he knew of Luna and her methods.
+
+“Well, thank you for looking out for her.”
+
+That earned him an ear flick; or that might have been because of the spot Eirene was digging into, which caused Luna to start making small kicking motions.
+
+As she brought Luna into a purring puddle, Eirene said, “She's a lot of help. She was recommended by the first therapist. She's been super helpful and I don’t know why but I just click better with her even if they are both therapists. It’s nice to have a little company and easier when it's pet shaped I guess. I was actually thinking about adopting a normal cat, but I don’t know if I could handle an actual animal not advancing enough and passing away of old age. I’d never be able to afford the price to get them car—”
+
+Liz laughed as she leaned in and gave Luna’s belly a quick rub, just to get a bite that penetrated down to the bone, not that Eirene noticed. “Did you just realize that you definitely could afford it?”
+
+“I did. I also realized I can probably get my parents to Tier 15 as well if I play my cards right. And after that, they can just go the slow and steady method with ambient cultivation.”
+
+Matt didn’t mention that people who truly lounged around post immortality for too long often lost the drive to advance and eventually died via various methods. Instead, he just made a note that he should check in on them should they reach immortality and push them to get a hobby; or better yet, a job they enjoyed which would hopefully push them to advance on their own terms.
+
+As they left and a human Luna clone appeared next to them, Matt said, “She gave me a good idea. We can act as guarantors for people who are looking to sell their Talents. That's a good way to cut down on people being taken advantage of like her, or worse yet, Justinian.”
+
+“That's fairly clever. She acts as a good cover for why you are doing it as well. Well done, Matthew.” Luna didn’t even seem sarcastic, which surprised Matt, but he took the compliment in stride, even as Luna started verbally tearing into Liz for daring to rub her belly.
+
+It was good background noise as Matt worked out the logistics of such an operation and its ramifications. He liked it well enough he set up a meeting with Cato to see how they could get the ball rolling.
+
+Things only got more complicated as Eirene showcased her Talent for potential clients.
+
+To help give her clients a good baseline, she got in contact with a Tier 5 smithing workshop that mainly catered to beginning delvers and had been in operation for decades at this point having a very constant baseline and production standards. Normally, the Tier 15 who started and ran the business acted as the general manager, but after talking with Eirene, he stepped back and let her take over the day-to-day operations.
+
+In just a week, there were hints of just how strong Talent really was, but in a month, it was undeniable.
+
+At first, her impact could be written off as coincidence, with tasks taking a few seconds less time and being done at a slightly higher quality. But after the first month, there was a small, but noticeably growing difference.
+
+The items crafted took less time, less material, less mana, and caused less wear and tear on the equipment as they were made. Any of those effects would have been noteworthy on their own, but that was hardly the end of it. The items themselves permanently worked better as well.
+
+The swords were noticeably less likely to break, chip, or fracture, and the enchanted items were more mana efficient with stronger effects. Even the workers reported less fatigue, more energy, and faster improvements in their learning of new skills and techniques, as long as they related to smithing in some way.
+
+Most impressive was that her efficiency seemed to interact with others’ Talents without restriction.
+
+There were only two openly Talented smiths working at the smithy she managed: one simply made sharp weapons less likely to lose their edge, while the other used less rare resources to make weapons in exchange for using more mana. Both of them saw marked improvement in how their Talents manifested.
+
+After the third month, the effect seemed to plateau and steadied out, but that didn’t make them any less impactful, given she was making everything about four percent more efficient for the entire operation of nearly a thousand people.
+
+According to her, the effect was a ratio of how many people she was managing, their Tier relative to her, and her own spiritual strength. Apparently, some of the testing with Duke Innes had shown effects as high as five percent when she was only Tier 5.
+
+The only downside to her Talent, if it could be called that, was that she actively needed to manage things. She couldn’t just rubber stamp reports or never show up to work as her Talent only seemed to give out as much as she was putting in.
+
+For all that, it was an impressive showcasing of her Talents, and it also explained why Duke Innes would risk so much to keep her under his thumb.
+
+Just as he had bought out her contract from his baron, there was a non-zero chance that any of the Royals would have poached her, even if the Emperor himself didn’t. Given a few more Tiers, Eirene could make a substantial difference to whatever she was put in charge of.
+
+Given how rare some materials could be, Matt could easily see her sitting at Tier 35 and just managing a dozen Talented teams who made items for the highest level of elites, or advancing further and working on projects Matt didn’t even know about.
+
+At the same time, Duke Innes had done absolutely nothing yet, seemingly unbothered by his forceful expulsion from their duchy. He didn’t even publicly malign them or anything so counterable.
+
+That was pretty much their worst case scenario, as they couldn’t easily react to nothing. So instead, they did what they could do. The three of them put their noses to the grindstone and started delving with Susanne, Zack, and Allie.

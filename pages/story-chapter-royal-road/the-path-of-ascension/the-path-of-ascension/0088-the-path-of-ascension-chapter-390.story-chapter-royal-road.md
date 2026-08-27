@@ -1,0 +1,305 @@
+---
+id: c488db19-d78b-5615-80d6-670ca46d0724
+page-type-slug: story-chapter-royal-road
+title: "The Path of Ascension Chapter 390"
+slug: 0088-the-path-of-ascension-chapter-390
+partOf: the-path-of-ascension
+position: 88
+ownLength: 4767
+unit: words
+ownProgress: 4767
+publishedAt: 2025-02-21
+link: "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/2081518/the-path-of-ascension-chapter-390"
+royalRoadId: "2081518"
+markedReadAt: "2026-06-29T19:20:44.530Z"
+---
+
+Chapter 390
+
+Head down, they delved for another five years.
+
+They wanted to delve more to advance further, but they were called up by the army.
+
+A Tier 15 world had drifted between Corporations territory and Empire territory, and both sides were claiming it.
+
+They, being the highest combat prowess Ascenders available, were being asked to lead the expedition.
+
+Lila, Aiden, Allie, and even Zack had declined the duty already, and since they were out of the official army's chain of command post buyout, had the ability to do so. Meanwhile, the three of them had the weight of their ranks keeping them in line.
+
+Not that rank or duty would have stopped the first three from declining such orders, but in this case, they were completely unreachable. Matt suspected they were quietly buying every blank skill shard in the Realm in their get rich quick scheme, but, with Zack also being missing, there was a thread of doubt in his analysis.
+
+If Matt, Liz, and Aster had taken a few more months in their last rift, they would have been too late, and the army would have sent someone else, so it fell on them. It helped that they were also the closest notable Empire asset, being just half a kingdom away from where the new planet had been temporarily tethered.
+
+Not that the army was coming empty handed. The army courier even had a handful of Tier 26 essence stones they could use while they were traveling, which was the first part of their payment.
+
+Dipping back to their duchy, he and Liz grabbed their ships and flew together with Aster in a loose formation to the region the Tier 15 planet would be passing by, with a portion of their personal guards tagging along in the empty ships.
+
+It was more a show of force than any sort of necessity, as the luxurious Horizon class cruise ships were a statement all on their own, even if they weren't necessarily combat ships.
+
+The three of them weren’t going as the main combat force themselves, but instead were the figureheads leading the expedition. The people who would be doing the fighting were Tier 15s as was tradition with a lower Tier world.
+
+The exact method of determining the planet's allocation would be up to them and the Corporations’ representatives, but it would undoubtedly rely on at-Tier fighters.
+
+They had tried to bypass the entire thing by having Max be the Corporations rep, but she had replied to their entreaties with a picture of her walking down a street carrying a bag filled with boxes of blank skill shards.
+
+Matt was a little surprised that she out of all the Ascenders had been pulled into the scheme, but when he remembered that seemingly everyone in the Corporations worshiped the accumulation of money, it made more sense that she’d rather do that than fight for a Tier 15 planet.
+
+Which was a difference Matt didn’t quite understand. Maybe he just wasn’t old and jaded enough but he didn’t mind doing his duty to his Great Power, even if it was interrupting his delving.
+
+The last five years had been delving back to back with only minute long breaks between rifts.
+
+A task made even more grueling now that they weren’t on the Path and didn’t have Luna around to teach them or instruct them between or sometimes during rifts. It was back to back fighting up Tiers, at the point where even a single mistake meant serious injury or possible death, which wore on their minds even if they were able to do it physically.
+
+On a positive note, Luna had finally responded to their messages and had crawled out of whatever hole she was napping in. She was coming to their duchy to see if she could help Rah acclimate to the Empire’s combat styles.
+
+Matt wanted to take credit for getting her up and moving, but he was pretty sure it had more to do with Ciceron wanting to puzzle out the cultivation system of Rah’s home realm that ended her nap.
+
+Either way, it was something to look forward to when they got back from their mission.
+
+It took almost six months to reach the location where the new world was tethered, but that time was spent catching up on work.
+
+Matt was gratified to see that their lawsuit with Falker was going well, and most of their close friends were arriving on Palustris safely.
+
+The lawsuit was expected to be finalized within the next three to five years, and Kees reported that their own case was ironclad, while Falker had very minor but glaring holes that was costing them with the jury. Apparently, the jury didn’t like that Falker’s teams had broken quarantine twice just before large breakthroughs happened, which looked very suspicious with proof that Matt’s teams had discovered the same things earlier.
+
+It wasn’t enough to sink their boat, but it was poking holes in Falker’s case.
+
+What was interesting was that, for the most part, Falker himself seemed completely removed from any such shenanigans, which didn’t jive with Matt’s view of the man as a puppet of his true enemies.
+
+It seemed there was a possibility he was an unwitting pawn in someone else's game, instead of being a willing puppet.
+
+Or at least Falker himself had a perfect record of his [AI]-backed oaths with no interruptions for the last four centuries, which was something even Matt and his scientists couldn’t claim.
+
+There were legitimate reasons to block one's [AI] from recording everything after all, even if that was just going through security and moving to and from secure locations.
+
+Still, even the worst possible outcome was a split patent, and a short one at that, given Titan’s Torch’s charter was deemed a valid method of distribution and not a technicality intended to try and force Falker to back down for their own profit.
+
+Matt and Kees were waiting for the next shoe to drop, but their hidden enemies seemed quiet for now.
+
+Not that Matt was sitting around.
+
+Before they had started delving, he had ordered Countess Walsh to report to them, and she had. He had given her a massive budget to start a series of businesses sourcing products for the guild to be built up in his and Liz’s duchy, or Aster’s since it was right next door.
+
+He hadn’t been joking when he told Silvia Dobrescu that he wanted to be self-sufficient.
+
+It would take decades, if not centuries, before those businesses started to produce enough high Tier goods for the guild to begin buying exclusively from them, but once they were up and running, cutting the guild’s supplies off would be much harder as the goods would be traveling in space they personally controlled.
+
+Anyone dumb enough to hit a shipment in their duchy deserved what happened after that.
+
+Other than that, they just had to deal with endless paperwork that built up while they delved.
+
+Matt turned as phoenix Liz sneezed and ‘accidentally’ caused a pile of paper to catch fire.
+
+The bird fluffed itself innocently but lost her composure when Aster waved the fire away with a spray of cold air, leaving pristine pages.
+
+“You're no fun, Aster.”
+
+“I can feel Alice glaring at me and Isabella wishing she could glare at you.”
+
+Matt just smiled as the two pretended their seneschals weren’t sitting right next to them.
+
+Both women had neutral expressions, but Cato, sitting next to Matt and handing him pages, openly glared at everyone.
+
+“Up next is the budget report for quadrant four, my lord, Count Jullien’s territory. They are deficient in their taxes both reported and collected.”
+
+Matt frowned as he was pulled back to the actual work, though he almost smiled at Liz’s frown as phoenix Liz read the paper over his shoulder.
+
+She ruffled through her digital files before flicking one at Matt and Cato. “They said they were going to be short almost a year before that, but this is almost two percent less than what they expected.”
+
+Matt sifted through the information, checking Count Jullien's official reports and explanations with what the numbers said.
+
+Officially, they had taken in a wave of immigrants from other surrounding duchies, and thus expected to take a hit to their budget as the costs of social services went up. The taxes took time to follow, but the numbers weren’t quite adding up.
+
+Things mostly matched, but it was that ‘mostly’ that was bothering him.
+
+It could just be as reported, and a higher expense than expected, or it could be one of their underlings trying to pocket wealth for himself by cooking the books.
+
+Normally, Matt and Liz would just write something like that off for a decade to see if things corrected themselves in the following payment. But, with everything going on with the guild, they were watching for any such discrepancies with a keen eye.
+
+Matt and Liz debated how they wanted to handle it, almost agreeing to Matt going personally, until Cato interjected and reminded them they had a team of auditors on retainer for exactly these instances. Taking the chastisement for what it was, they sent an order to dispatch one to Count Julien’s territory instead.
+
+It might turn out to be nothing, but it might not and they could always go themselves if needed.
+
+They even managed to get through a decent portion of their backlogged work before they arrived at the yet unnamed planet.
+
+Two Tier 15 armies were stationed just inside Empire territory in case they were needed to fight for the planet, if that was what the three of them decided, as well as a group of civilian Tier 15s who were hoping the battling would be something they could participate in.
+
+Matt would prefer to use the army to keep things as controlled as possible, but he knew the Corporations’ typical push for ‘civilian battles’ as their strength lay with their mercenary corps, who were all legally civilians.
+
+Before they even entered the Tier 15 world’s real space, the three of them were hailed by a fleet of small Corporations ships.
+
+To his surprise, a Tier 40, who was leading the expedition, was among those ships.
+
+Clyde Thistleton was a former mercenary leader who, after advancing to Tier 36, transitioned into his company’s management and worked his way into buying a spot in the Corporations’ government itself. There, he worked his way up the corporate ladder, buying out his competitors one step and one Tier at a time.
+
+Matt half expected someone like him to have arrived with his former corp following behind, but instead, the three corps following were reportedly unrelated to him and were simply the ones who had arrived to answer the call first.
+
+Their Horizon class cruise ships dwarfed the smaller but more numerous Corporations mercenary vessels, but neither party put on airs, which they were grateful for.
+
+Matt, Liz, and Aster floated out into chaotic space to meet Clyde, their seneschals trailing behind them in a silent show of force.
+
+Isabella might only be Tier 25 and Cato Tier 33, but Alice was Tier 41, which lent weight to their words just in case Clyde was the type to disregard them because of their Tier.
+
+Thankfully, that didn’t seem to be the case as he nodded. “It is good you arrived. Would you like to join me for a small break as we settle on how to fight over the planet?”
+
+Matt wouldn’t mind, but they had already talked about this on their way over, and so he wasn’t surprised when Liz shook her head.
+
+“We were delving for advancement before this incident, and so we would prefer to handle this as quickly as possible.”
+
+Clyde didn’t seem offended, and instead smiled and clapped his hands. “Wonderful then. Give up your claim to the world and we can all be on our separate ways.”
+
+Liz snorted with a ghost of a laugh hidden inside. “That was what we were going to recommend to you. It is clear that the planet first impacted Empire claimed space, meaning we have the greater claim to the world. That makes you the claimant. Drop your claim, let us take the world and we will not waste either of our time.”
+
+Clyde’s smile never wavered and he gestured to the world in question. “Ah, but it was a Corporations team who initially found the world, giving us a stronger claim than yours, since it is in a contested border region. That's even disregarding that the world would have never entered Empire space if it hadn’t been blown slightly off course. What's done is done after all and I won’t beleaguer the fact too much, I promise.”
+
+Aster nodded, her fox ears twitching. “And they had their pick of the planet, taking many valuables from the world as was their right. Their right, at least, until the world entered Empire space and they didn’t desist their actions. We could push their flagrant disregard for international treaties as cross-border piracy and charge them as bandits.”
+
+Clyde scoffed. “As if such a charge would stick. The world did pass through the fringes of Empire space, but it was set to pass by without actually entering your controlled territory on its way to Corporations space, where it would have passed through our connected worlds. It was only your local Duke who managed to establish the tether at a most dangerous range that gave you the claim at all.”
+
+Matt didn’t turn to see Duke Leonard Plessi, who had taken a polite place behind their ships, firmly inside Empire space.
+
+By all accounts, the man had made a marvelous play by establishing the connection at such distances, and seeing the trajectories in person only made the feat all the more impressive, instead of less so.
+
+He really had pushed the limits of the teleport technology to manage it. In the few hours where it was inside Empire space no less.
+
+Matt floated slightly forward, putting on his best no nonsense spiritual perception fluctuation voice. “Then you agree the world is contested, and such a thing must be settled. We push for a battle of our respective militaries. Naturally, using the collective might of the higher Tiers to prevent unnecessary deaths.”
+
+Instead of balking and trying to argue for a more advantageous method to the Corporations, Clyde probed the world in question.
+
+“While I have kept to the treaty and not entered the world once it was claimed, I have gone over the information. And let me note that, while the exploration team did continue to extract resources from the world while it passed through Empire territory, they did so only once they believed it was impossible for the Empire to lay claim to the planet, and as such I will accept no such accusations of banditry or anything of the like.”
+
+Seeing Clyde wait for a response, Liz nodded their collective acceptance of his stance, even though Duke Plessi looked like he wanted to retort.
+
+That settled, Clyde continued. “They continued doing so because of one of the features of the world. If we might enter and inspect things more closely, I believe the best method of how to settle the ownership of the world will present itself.”
+
+Matt was intrigued, as their reports hadn’t indicated anything so interesting.
+
+Together, they flew into the speck of light, letting the world pull them into its real space. The collective groups arrived a few miles away from each other in orbit of the world.
+
+Letting his spiritual perception flow down, Matt scanned the planet.
+
+At first it seemed like a bog standard, albeit Tier 15, world. But as Matt’s scan spread further, his eyebrows went into his hairline.
+
+Behind them, Duke Plessi, who had been waiting for them to arrive, cursed, and Matt turned to him, raising an eyebrow. “Did you know of this?”
+
+The other duke sneered at him. “Obviously not, Ascender Titan, otherwise it would have been in my report. I am not incompetent and I will not take any accusations of such lightly.”
+
+There was an unspoken but very loud ‘I didn’t need you to come and take over the incident’ in his words.
+
+Matt could understand the man's feelings, he had pulled off the coup of the century, getting a tether in place at the absolute limit of the teleportation system’s range in the few hours the world had been inside Empire space. Only to have the Imperial government choose to send Ascenders as the envoys instead of letting him represent their Great Power. In his anger, he seemed to be forgetting they hadn’t chosen to come here of their own volition, and he was treating them like the enemy.
+
+Aster tugged on their bond and signaled for him to let her take care of it, so he floated back.
+
+“Duke Plessi, we can appreciate your work you put into this. We can, as the highest-ranking Imperial representatives, assure you that you will receive full credit for the capture.” His bond’s eyes narrowed as their fellow duke flexed his spiritual perception to speak, and she spoke before him. “That said, we, like yourself, have no control over where the planet in question is allocated. We can and will put in that your duchy should have first dibs, but as I’m sure you are aware, your duchy already has more than the standard allocation of Tier 15 worlds. That means the world will most likely be transferred to another duchy in need of an anchor world for a Count.”
+
+“You say that like it's not going to one of your duchies, or Light or Shadow’s. We wouldn’t have this world at all if it wasn't for me, so I don’t think it's too much to ask that I be given it for my efforts.”
+
+Aster nodded along, agreeing with him. Her words, however, were less agreeable.
+
+“An understandable position, however, an untenable one.” Duke Plessi’s complexion started to lighten as the Tier 37 was angered, but Aster’s glare stopped him in his tracks. “Duke Plessi, you would do well to not ruin your achievements with demerits because of a hot temper. You might find yourself bereft of all benefits if you aren't careful. We understand your plight and will offer our recommendation up to High Command and the Imperial government. But ultimately, it's not our choice either. We, like you, serve at the whim of the Royals, and it is up to them to decide where the world goes.”
+
+That seemed to sober the man up, and he nodded stiffly. “Well said, Ascender Wraith. Thank you for the reminder.”
+
+That taken care of, Matt gestured to the world in question. “Even if we get this world, none of us are likely to keep it. Dig deeper, Duke Plessi. I do think this works out in your favor, whether we get the world or not.”
+
+Phoenix Liz let out a long, silent whistle, and even Duke Plessi looked shocked to find a planet-wide ruin deep inside the world.
+
+Close to a mile under the surface level of the otherwise normal planet was a labyrinth of epic proportions that quite literally spanned the entire world.
+
+Even as they watched, portions of the ruin moved and twisted into each other, creating fresh zones seemingly untouched by any delver as rooms seemed to swap places with other rooms halfway across the planet.
+
+Best of all, it was an active ruin, which meant no one had ever cleared it and delved it until it ran out of mana, which would have ‘killed’ the ruin. Since that was the case, the ruin kept expanding and refreshing itself over and over, creating more monsters, more resources, and even more natural treasures.
+
+Most of the time, ruins were cleared to remove their threat, but anyone who was dumb enough to ruin such a unique ruin would have made an enemy out of anyone who cared about long-term profits.
+
+Being a Tier 26, and a strong one at that, Matt was easily able to pierce the surface of the world and the ruin’s inherent protections without too many issues, and could see the ruin was an absolute treasure trove.
+
+So much so that he knew they couldn't just let the Corporations have the world.
+
+Even disregarding the Empire itself, he wanted this world to study the ruin in detail. His aperologists would have a field day with such a unique ruin.
+
+Had the ruin naturally been so large, or had it grown as the rift continuously broke and inverted?
+
+Both were possible.
+
+Tier 15 rifts were fairly large, so it wasn’t impossible that this rift was slightly under standard habitable planet size, but it was unlikely, as rifts tended to only reach that size at Tier 20. But it was possible. Possible, but unlikely.
+
+Ruins over Tier 10 typically ended up in a sort of folded space that acted like a spatial expansion.
+
+Most higher-Tier ruins were, outwardly, only a few miles across at most. But once inside, typically had something closer to the size expected of a rift of their Tier or slightly smaller.
+
+Ruins could, however, grow.
+
+Ruins, despite being inverted into reality, were still rifts, and if not cleared regularly would continue to break as they overflowed with mana. That typically just meant an increase in the number of monsters, but it sometimes led to an expansion of the ruin. With higher-Tier ruins, that usually manifested in an expansion of the inner space of the ruin and a slight, if at all, outward expansion. But with lower-Tier rifts that didn’t inherently have a spatial expansion containing them, they tended to grow outward.
+
+That sort of expansion usually ended up stopping when they ran into other rifts, as they would then start trying to draw in the same mana, which eventually meant the ruin was penned in by its neighboring rifts.
+
+But usually wasn’t always. Sometimes a ruin would overpower the surrounding rifts and expand further.
+
+Matt had never heard of a planetary sized ruin like this, but he suspected that it being almost entirely underground had meant it encountered next to no rifts in its expansion.
+
+There was still the question how the rift, once inverted, had gone so deep into the planet, or how a rift had formed so deep down, even if there had been a natural cavern that deep. But he suspected that was a question never to be answered even with past-sight Talents.
+
+Not that he wouldn’t have his guild try to recreate this beauty.
+
+Or rather, he’d have a dozen teams clamoring for funding to try to recreate not only the ruin itself, but the method in which the rift formed so deep as well.
+
+He suspected he’d be buying the guild a planet to practice more esoteric aperology on sooner than later, but he was excited at the possibility.
+
+Judging from the bemused and doting looks from Aster and Liz respectively, he knew his excitement was written across his face, but he didn’t care.
+
+Rifts were so cool, and too many people took them for granted.
+
+Just below them, there was a unique oddity ready to be explored and he could hear people from both Great Powers talking about the best way to subjugate it.
+
+As if he would allow them to kill the ruin.
+
+Floating over to the Corporations team, he flew into the center where Clyde was surrounded by people like planets orbiting a star.
+
+“Well, you have my interest. What will it cost you to go away and abandon your claim?”
+
+Clyde smiled like the cat that caught the canary. Or a fox who had seen a plump rabbit.
+
+He knew that look all too well, but also knew how to deal with it. “Name your price. One offer, one chance.”
+
+That seemed to catch the business minded Clyde off balance for a moment, before his grin turned into a smirk.
+
+“So the reports about you enjoying aperology are true. Sorry, I can’t just give up the planet. I don't have that authority. We'll have to settle this via our people.”
+
+Matt let his own smile show. The Tier 40 had inadvertently just agreed to settle the ownership of the world via a battle between their Great Powers. His acceptance meant the Corporations could no longer just dig in their heels and claim the planet was theirs, and Matt wasn’t about to waste time letting the Empire side doing so.
+
+“Wonderful to hear. Now, we just need to figure out the method of battle. How would you like to do this? I’m open to suggestions, but I would prefer we leverage our respective militaries and have them push into the center of the ruin. First to secure the rift’s boss room and hold it for a week claims the planet.”
+
+Clyde’s expression went flat as he realized his blunder, but the Tier 40 didn’t react otherwise until he dramatically sighed. “And here I thought I was the puppet master ready to lead you around by your nose, thanks to your interest in the world. I had three speeches ready too. No matter. I can agree to the shape of the bet, but not the details. The Corporations rarely allows its active-duty military to participate in such disputes, and I don’t have the authority to authorize such a maneuver. That is why I brought a number of our nearby mercenary corps.”
+
+Liz, who had drifted into the Corporations area with Aster and their seneschals, snorted. “Pseudo military.”
+
+“Legally civilians.”
+
+Liz didn’t back down. “I’m pretty sure that Stanley's Shock Troops were contracted by the Sects during the last war. Doesn't sound very civilian to me.”
+
+“What private citizens do to earn money isn’t the Corporations’ concern. Complain all you like, but it doesn’t change the fact that they are legally civilians and so must be matched by civilians.”
+
+Aster flicked her tail in disagreement. “That is true, but we can decide to field our military. And according to the treaties, the Corporations have a decade to respond in kind or forfeit. I’m sure you'd find the authority to mobilize the 82nd Independent Army if we did so.”
+
+Clyde took a deep breath before letting it out. If they hadn’t been in outer space and therefore in a vacuum, it would have caused a small hurricane.
+
+“True, but do you three really want to wait? Last I heard, you three were delving to advance. Someone nipping at your heels and throwing rocks through your windows as it were. I’d believe you need to get back for that, and stalling for a decade isn’t conducive to delving.”
+
+Sadly, he was correct, though Matt was perfectly willing to wait the decade if he needed to. They could make up for lost time, but that didn’t mean he wanted to.
+
+At least not when he thought they stood a decent chance at victory given the current allotment of forces. The Corporations might have three mercenary corps ready but the Empire could field more total Tier 15s which he felt would more than even out their experience advantage. And from what he saw from the mercenary corps themselves they weren't anything special meaning they were at best only slightly better than the typical Tier 15 delver.
+
+Connecting to Duke Plessi, the three of them checked the Tier 15 civilian assets that had been gathered in the nearby worlds in the months since the news went out.
+
+It wasn’t as many as they would have liked, but it was enough to give them a fighting chance.
+
+Liz nodded. “Fine, we can work with civilians but we need to hash out the other goals and a point system in case neither side can secure the ruin’s center in, say, a standard year.”
+
+They spent a few more minutes hashing out the details, but in the end, they came to an agreement and separated back into two separate groups.
+
+As if he had forgotten, Matt turned back around and looked to the gathered Corporations leadership. “Oh and if anyone, and I mean anyone, moves to deliberately over delve and kill the ruin, I will treat it as a violation of international treaties on fair competition and an act of war, as well as personal slight to myself.”
+
+He then turned his expression to the Empire leadership and made sure they understood that threat wasn’t just for the Corporations people.
+
+This ruin was far too interesting to allow someone to destroy it.

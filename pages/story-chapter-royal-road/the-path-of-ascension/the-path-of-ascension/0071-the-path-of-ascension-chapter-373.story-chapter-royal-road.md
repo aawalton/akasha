@@ -1,0 +1,319 @@
+---
+id: b1e25bcd-f593-50e1-827e-5bd3ebda67d8
+page-type-slug: story-chapter-royal-road
+title: "The Path of Ascension Chapter 373"
+slug: 0071-the-path-of-ascension-chapter-373
+partOf: the-path-of-ascension
+position: 71
+ownLength: 5266
+unit: words
+ownProgress: 5266
+publishedAt: 2024-12-16
+link: "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/1959805/the-path-of-ascension-chapter-373"
+royalRoadId: "1959805"
+markedReadAt: "2026-06-29T19:20:05.734Z"
+---
+
+Chapter 373
+
+Matt and Liz moved to meet the two Ascenders in space, but Wun Miloan skipped on golden air and arrived down at the front door of their house before they could do so.
+
+Raising his hand, he politely knocked while pulling out a bottle of wine.
+
+Rolling his eyes, Matt opened a [Portal] inside their house from their office.
+
+Opening the door, he pretended to be surprised. “Oh, a guest. How unexpected!”
+
+Wun Miloan was tall and lanky, defying the stereotypes of his home Great Power by not being a dwarf and not even aping them. According to him, he already had enough aping going on with his bloodline, and didn’t feel the need to add on any more.
+
+Seeing the man in person, Matt definitely agreed. His wiry body rippled with muscle and generic primate power. While it was impossible for him to hide that he had some kind of monkey bloodline, he’d never revealed any details of his bloodline to anyone; not Clan leadership, not the other Ascenders, nobody.
+
+Wun wiggled his bottle even as Max landed next to him, having taken the non-magical route. “I told him to be normal, but that's impossible for him. I apologize for dropping in like this, but he wanted to meet you two.”
+
+“Three! I heard there was an ice mage. I love supports. So cuddly and cute!”
+
+Wun wiggled and hugged the bottle of wine before seeming to notice it.
+
+Looking down, he seemed to hold the bottle at arm’s length and slapped the bottom forcefully. Without so much as a ripple of mana or Domain usage, the cork was sent flying out of the bottle’s stem, bounced wildly around the kitchen, and landed in the trash incinerator. As soon as it hit the bottom of the container, an errant flicker of mana activated the disposal enchantment, and an outsized gout of flame burst out of the hole in the counter, punctuating the landing.
+
+“Score! I am impressive.” he said with a small wiggle.
+
+Liz raised an eyebrow, and her phoenix body ruffled itself in surprise.
+
+Max ruined Wun’s showboating by saying, “Last time he tried that, the bottle broke and he impaled himself in front of over a thousand people.”
+
+Wun sighed. “Terrible evening. I was trying to impress this very pretty new widow. Hippopotamus bloodline, you understand.”
+
+Liz poured the wine as Matt set out the glasses and asked, “Failed to woo the maiden after failing your entrance trick?”
+
+Wun snorted. “Of course not. I am a debonair seducer extraordinaire. The bad luck is that I succeeded. While I was in a delicious post-coital nap, she found out that I was apparently the one who made her a widow. How was I supposed to know she was married to the guy who tried to break into the house I was crashing in a few years before that?” He turned a glare onto Max. “I still think it was either you or Ellen who ratted me out.”
+
+Matt couldn’t help it. He needed to know more. The story was also a good distraction from the awful wine Wun had given them. “So she tried to kill you then?”
+
+Once more, Wun looked honestly confused. “What? No! She was so happy that I killed him, she wanted to have a kid with me. But I can’t get saddled with child support like that, so I had to leave, pronto. But it took me ages to get out of there.”
+
+“Fifteen years,” Max chimed in.
+
+Wun gestured to the Chosen in agreement as he drank deeply of his wine before wincing. “Damn, this is shit!”
+
+Having said that, he splashed the rest of his glass into their sink without making a mess. “I just grabbed something off the shelf, but I guess I didn’t get lucky.”
+
+His eyes unfocused as he started rummaging around in his storage ring. A few moments later, he pulled out a dusty bottle of wine that was much better. So much better that Matt asked where they could get some, but as luck had it, the vineyard had burned down a few hundred thousand years ago and they were drinking one of the last bottles.
+
+In a hospitable mood, and to celebrate the bottle and occasion, Matt cooked while Wun regaled them with stories. He was… an interesting fellow.
+
+Like most Ascenders, Wun was fairly relaxed and easygoing. It was basically a necessity for the sorts of lives they lived, but Goldenrod took that to another level. His Talent guaranteed that he could never live a quiet life, as it drastically increased the likelihood of improbable things. Good or bad, it didn’t matter. Doubly so because, as he grew in Tier, the more improbable the events got. While he could force things to happen, he could never stop them from happening, which seemed like an interesting quirk to a luck Talent.
+
+That much was demonstrated when the four of them sat down to play poker. Liz had been wanting to test her mettle against Max for a while now, and Wun managed to somehow convince the rest of them that it was a great idea to do so right now.
+
+Max was apparently something of an expert poker player, but while Matt knew the rules and could play, he wasn’t a master by any means.
+
+Until he played with Wun.
+
+At the start, he kept getting absolutely amazing hands and kept winning round after round as a result. Then, he started getting bad hands, but still won anyway. Then, he went back to getting absolutely amazing luck, only to lose every round.
+
+At one point, when he had two aces in his hand, Wun responded to his bets with going all in, and despite the fact the other Ascender only had a six of clubs and a two of diamonds, he was the only one to have any clubs in his hand. And thus, after the seven, eight, nine, and ten of clubs were revealed in the middle, he managed to win that round, clearing Matt out of a lot of his winnings.
+
+The immediate next round, he got a lot of those winnings back, and a comment from Wun about how his Talent typically worked made Matt frown. Was he really so unlikely to win that Wun’s Talent was basically forcing it?
+
+It was kind of insulting when he thought about it like that.
+
+That was when he bowed out and acted as the permanent dealer, just to see how the other three battled it out.
+
+That gave him a fair amount of time to look and properly ponder what Wun’s life must have been like, and how hard it must have been for him to become an Ascender. Then again, perhaps it was easier because of how unlikely it was for him to make it?
+
+No, that couldn’t be the case. Or at least Matt would never buy that. No Talent alone was sufficient to complete the Path. It couldn’t just take a nobody and make them great. Even Emmanuel hadn’t completed the Path, a fact that Luna had made certain Matt remembered any time he got too cocky about his odds of finishing.
+
+Not that the Talent was all sunshine and rainbows. Wun’s Talent gave out bad as often as it gave out good, and Matt could see how hard it would be to live with such a Talent, let alone become strong enough to be Ascender level. The only real advantage it gave him was that it changed the nature of a battle so much, albeit in a way he was used to, that most opponents couldn't cope before he defeated them. And Matt was sure that the fact he could make the really unlikely things happen on command helped battles go in his favor.
+
+Besides, if he had somehow coasted on his Talent, he would be a very weak Ascender, and he certainly wasn’t weak. Not when his record against both Max and the presumed-late Master of All was so good, back when they’d all been active together.
+
+Really, his Talent reminded Matt a lot of Eleanor Mallick, the girl he’d sponsored on the Path so long ago. Lots of good, lots of bad, and the only constant being uncertainty. Granted, while her odds had shifted more in her favor as she grew, Wun just had even more extreme things happen around him.
+
+He really should reach out to Eleanor, actually. She and her cousin Ethan had returned to their clan after their trip to Minkalla, and from what he’d heard, they were serving as very young elders.
+
+As Tier 16s, they were immortals and had a say in the traveling merchant collective their family formed. As former Pathers, they were lacking hundreds of years of experience moving through Tiers, but thanks to the family charter, they needed to be on the family elder council. Even if only as junior members. Though neither of the kids particularly liked being treated like kids, they also didn’t have a good way to get experience thanks to technically being elders.
+
+Matt and Liz had offered their duchy as a stopping point if the clan wanted to branch out and earn some credit from the family, but they adamantly refused, as they were trying to prove they could stand on their own.
+
+Through it all, Matt got the feeling that they were still happy to be back with family.
+
+Eleanor at least, thanks to her advancement, had reached a point where her Talent didn’t hamper her daily life any more. Which had been her main goal on the Path in the first place.
+
+Eleanor’s Concept had leveraged the ideas of chance and catastrophe, imposing similar restrictions as the ones she operated under on those she fought, making fortune and misfortune land randomly on them, with none of the tools she had for mitigating said fortune. It was, naturally, far more limited than what Wun passively did, but it might be worth sparring with her a bit to get some more practice against luck-based opponents before he fought Wun.
+
+Which, after meeting the man, was most certainly on his list. Even getting his ass handed to him— hopefully not literally— would teach Matt where his deepest hidden weaknesses lie. Not the typical ones, but the ones that wouldn’t normally happen and would be forcefully made manifest in a fight with Wun.
+
+How could any self-respecting Ascender pass up an opportunity like that?
+
+And Matt kinda wanted to kick Wun’s ass just in general. A common occurrence, according to Max.
+
+The same Max who had given Matt an information chip he certainly wasn’t going to be opening himself. Instead, he sent it off to Harper's people who would run a battery of tests on it to make sure there were no undue influences, but the lessons were part one of her teaching him mind magic defenses. No matter how much Lila and Aiden had vouched for her, he was still in the ‘trust but verify’ stage of the Realm’s most notorious mind mage.
+
+Even knowing she was a master manipulator didn’t help, because she was just that good. She was sociable, easy to talk to, and came across as genuinely liking everyone. Even watching her code switch when talking to Wun or Liz just came across as her being excitable about different things, a genuine expression of enjoyment rather than a means of social manipulation. She seemed incredibly trustworthy, and that was why he’d made sure he was following protocol regarding suspected mind manipulators to the letter around her.
+
+He even checked the procedures just to make sure he wasn’t missing anything. Twice.
+
+In contrast, Wun seemed incapable of taking anything seriously during their two days spent hanging out. Everything was either a tragedy Wun treated like a minor inconvenience, or it was a positive, generally good thing he couldn’t bother to get excited about.
+
+It was when the two Ascenders were leaving that Wun dropped a bomb onto his and Liz’s laps.
+
+“Oh yeah, I may have brought a few extra worlds with me when I delivered the promised ones to your duchy.” Holding up his hands, Wun tried to placate them. “Uninhabited worlds! Don’t get fussy. Was I supposed to just let a trio of Tier 9 worlds just drift by? No way. So I batted them into the current I was overseeing. Added them to the procession, so to speak. The other guide lost his shit and tried to get me to return them to Clan space, but he was annoying and I stopped listening to him. You guys might want to deal with that?”
+
+Matt ignored the lilting tone and instead checked his [AI] just to notice that he hadn’t been getting updates from Cato for the last few hours. There didn’t seem to be any obvious bugs or flaws, but forcefully connecting to the EmpireNet and hard resetting the entire planet’s EmpireNet system caused a flood of messages to come through all at once, telling them what they had missed in the last few days. Even the alerts that should have bypassed their do not disturb had been caught in the… monkey wrench that was Wun.
+
+Matt turned to Liz and tossed the problem into her lap. “I beat you at poker. I deserve this.”
+
+Phoenix Liz petulantly spread her wings on Liz’s shoulder, while human Liz crossed her arms. “You had better have all of the paperwork done by the time I get back! I can’t believe this. My streak ended. Gone out with a whimper, not even a last desperate struggle. Ugh.”
+
+Seeing he won, Matt grinned. The paperwork would suck, but he didn’t want to be the one to go and argue that they weren't violating the no new planets rule since Wun delivered them, and they didn’t capture the worlds themselves.
+
+It was doubtful that the situation would escalate, but it would undoubtedly be annoying, and Matt would rather slog through his and Liz’s paperwork than deal with that.
+
+He was two days deep in his battle with Liz’s stack of paperwork when he got an alert from his [AI].
+
+VIPs had arrived and were demanding to speak to him.
+
+Reviewing the alert, Matt had to wonder if his luck was still being tweaked by Wun.
+
+A flight of down-and-out fire bloodlines led by a young phoenix had arrived, and were not-so-subtly demanding a plot of land be given to them.
+
+All he could think was that Liz would have been much better equipped to handle this.
+
+Hopping into the Ascender group chat, he cursed Wun up and down before closing it as he got laughing faces from everyone else.
+
+With a [Portal], he arrived in space where one of Palustris’ many administrators were going from ship to ship and registering and issuing permits to land. Temporary passes of up to a decade were available for those not automatically approved for permanent residence, and according to the message the man's supervisor had forwarded up the chain of command, that was precisely what the administrator had tried to issue. It had even been a provisional permit that would have gotten the group's foot in the door and would have made it easy enough to get a permanent one.
+
+According to that same report, the leader of the group, Rebecca Etha, had pitched a fit.
+
+Dropping his perception down to Tier 20 levels, Matt looked at Rebecca, letting the weight of his gaze quiet her still ongoing rant.
+
+Turning to his administrator, Matt asked, “Is there anything else you need in your report?”
+
+The man flinched but shook his head. “No, my lord. I—”
+
+He was cut off as Rebecca flexed her spiritual pressure harder, effectively shouting over him. “Ascender Titan, I expect this man to be reprimanded thoroughly. He was rude and denied me passage to Palustris.”
+
+Matt just stared at Rebecca for a long minute, letting the silence ask if she was done speaking. “Firstly, do not interrupt me or my people. It is rude. Second, Dominic was assisting you. You are not rated for a permanent residence. The requirements are all listed. You do, however, rate a temporary residence permit and can work on converting it into a permanent one.”
+
+Rebecca looked genuinely confused as she asked, “But why not a permanent one? We are fire bloodlines. We deserve access to a fire world like this.”
+
+The entitlement in her statement caused Matt’s hackles to rise, but he stomped it down and inspected the group she had come with.
+
+According to his [AI], Rebecca Etha was a Tier 15 phoenix bloodline offspring of a male phoenix and a human woman. Her father had officially severed parental ties, but it appeared that Rebecca’s mother had pampered the girl something fierce, resulting in a spoiled rotten brat who was wholly unprepared for her mom to never return from a delve one day.
+
+Filling in the blanks regarding her public appearances since then, that had been something of a turning point for Rebecca, and she had been forced to throw herself into unfamiliar circumstances as she adapted to not having a protector. If the reports didn’t also explain the almost five thousand other people packed in the small fleet of time-worn ships in Rebecca’s convoy, he would have dismissed her. But for all her faults, Rebecca had something of a soft streak, and she had turned her loss into a drive to gather other misfits.
+
+Somewhere along the way, they must have gotten the idea that Matt and Liz were offering something of sanctuary for fire bloodlines, because everyone with her were reportedly fire bloodlines who didn’t fit in with the more established powers of their bloodlines.
+
+“You missed the apology.”
+
+Rebecca blinked at him just like Liz’s phoenix form did when she was confused before looking at Dominic. “Sorry?”
+
+Matt closed his eyes and counted to ten.
+
+He knew he was making a mistake, but he couldn't turn away so many people who clearly needed a home.
+
+So many people had helped him after his parents had died that he couldn’t leave them in the lurch.
+
+“I will approve a temporary residency permit for you and your people Ms. Etha. If you can show you can be productive like everyone else, it will be converted to a permanent residency pass but your level of… entitlement is going to have to end. Here and now. And I understand you have a bit of a bone to pick with some of the more established Phoenix families, as do many of your people. But you and your people are going to need to put that aside and learn to, if not love each other, live on the same world. I won’t tolerate petty squabbles starting issues. Do you understand me?”
+
+He wasn’t sure that she did, but after agreeing, he sent her on her way and turned to Dominic. “Well done. If she gives you trouble again, don’t hesitate to let me know. I—”
+
+Matt stopped talking as he felt a pulse of spiritual perception probe him. It wasn’t a polite prod to let him know someone wanted to talk with him, but rather a forceful scan.
+
+“Excuse me. Continue on as you were. I’ll handle this.” He added a quick commendation to the man’s file via his [AI] and left.
+
+Flying over to a massive Tier 25 ship that was perfectly pristine and practically new out of the shipyard that made it, Matt punched his spiritual perception through the shields to scan the people inside who had scanned him.
+
+A mixed group of fire bloodlines, with phoenixes and dragons seemingly in positions of power or prestige if the living arrangements were anything to go off of. Most of them were Tier 15 through Tier 30, but there were a number of fire bloodline passengers lower than that, though they seemed to be the exception rather than the rule. As a whole, they reacted to his intrusion with languid reluctance as they were pulled from whatever leisure pursuit they were occupied with, but none seemed worried or alarmed at his return probe.
+
+The Tier 30, Ral’Ya smiled. “Ah, good to see you, my Lord Titan. You are exactly the person I was wanting to speak with. I was just about to send one of my men to inform you of our arrival, but this is even better. We wanted to let you know that we are here to set up an outpost for our faction of noble draconic families.” He must have felt the gazes of every other bloodline on the ship as he corrected with a grin. “Dragon and other fire-related bloodlines, rather. Do excuse the slip up everyone. This was originally a single house voyage, after all. If you could tell us which continent is ours, we will start to settle in immediately.”
+
+Feeling like he had just had this conversion, Matt said, “I don’t process residency permits, and even if I did, there is a line. Also, you aren’t even on the list of pre-approvals for temporary residency. I know because I did make that. Second you, or any other single faction, sure as shit isn’t getting an entire continent allocated all to themselves.”
+
+Ral’Ya waved a hand as if none of that was important. “You told Duke Taro, one of Duke Tiberius Maniake’s people, or rather Duke Dominus Maniake’s now, that you would have a space for us. We are a sub-faction under his wing, after all, so even if you refuse to allocate a continent to us, we deserve at least a large island or ten. Surely one of your caliber can do such a trivially easy task. Now we need to settle in quickly to claim the best lands so…”
+
+Ral’Ya waved a dismissal as his ship tried to nose past Matt into the atmosphere of Palustris.
+
+Matt didn’t move.
+
+The ship didn’t stop.
+
+Matt didn’t move.
+
+The ship bounced off him, causing chaos as all of the lower Tiers inside stumbled or were sent sprawling from the sudden jolt. The higher Tiers were fine, as they had been watching and braced themselves, but every noble scion acted like he had just poured mud onto their outfits.
+
+Ral’Ya shouted, “How dare you—”
+
+Seeing where this was going, Matt didn’t hesitate to flex his Domain and freeze the ship. He was careful to not hurt the passengers, not even Ral’Ya, but he was done with them.
+
+“If you don’t want me to banish you, let alone arrest you Ral’Ya, you should leave. The rest of you can stay until a duke-level noble comes and apologies for your actions. Ral’Ya, I don’t want to see you again.”
+
+Getting to the guards who had already arrived, Matt ensured the uninvolved were escorted to a holding area where they could cool their heels for a few weeks. It was just an apartment building that wasn’t sold yet, so it was comfortable, but he was sure the noble brats would consider it worse than jail if the ship was the normal level of splendor and opulence they were used to.
+
+He instead returned to his paperwork.
+
+For the third time in what felt like just hours Matt was pinged as his [AI] alerted him that another group had arrived at Palustris and wanted to see him.
+
+Unlike the last two groups however, these were people he was more than happy to see.
+
+All of his extended family.
+
+The Moore family had arrived in force.
+
+Mara and Leon— clones, he was finally able to notice— were leading the metaphorical charge, mortal luggage bouncing behind them, clothes sticking out of them where the zippers didn’t quite close up.
+
+Sam and his wife Annie walked like normal people, though Matt noticed how they were both scanning their surroundings in a way similar to what he was doing right at this moment. Their millennia in the army honing their paranoia even farther than his.
+
+Leah, the second oldest Moore child, was actually the highest Tier. Still Tier 44 though, looking around Palustris like a kid on new year, her mana reaching out and running itself through the atmosphere like he ran his fingers through Liz’s hair.
+
+Alice and Daniel walked side by side, pointing out things they could feel on the planet and whispering to each other in a way that Matt knew spelled mischief.
+
+Erin had actually brought some of her harem with her; Matt recognized three of them but needed his [AI] to identify the remaining fifteen. Not that he minded. They were all Tier 20 plus and they had enough space on the world that fifteen or fifteen thousand wouldn’t make any appreciable difference.
+
+Finally, Travis and Keith took up the rear as the lowest Tiers in the family. Tier 20 was respectable, but Matt intended to drag the couple through a few rifts when he had the down time.
+
+It was good to see them.
+
+He was about to welcome them to Palustris when Mara pulled out a flimsy tin cup and started rattling it around. “A place to stay for us destitute travelers.”
+
+Sam's face palmed while Travis tried to pull Mara’s hand down. “Mom please, we are begging you not to do it again.”
+
+Matt had to ask, even though he knew it was an awful idea. “Again?”
+
+At the same time, he didn’t miss Mara pointing at herself and silently asked Leon, ‘I thought I was the beggar?’
+
+Alice sighed and ignored the couple. “Mom and Dad have been working on a song and dance routine for the whole trip. Somehow, they keep messing up and having to start over despite that being physically impossible.”
+
+Mara’s tin clacking sound changed tune suddenly and Leon popped his head out from behind his wife, looking from the flute in his hand to the tin sound. Each time Mara pretended to clang it, the sound changed despite him not blowing on the instrument.
+
+“Huh, the cup must be broken.” Leon poked it with the flute, which caused a deflated honking noise.
+
+Matt had to admit that sounded like the two of them. It would surely have gotten old for the rest of the siblings, but it sounded great to him.
+
+He was at least polite enough to not ask them for a rendition right there, and instead, he gestured to the world. “As the local duke, I can confidently say that any unclaimed region is up for grabs. I figured everyone could get their own estates while we make a Moore family estate somewhere in one of the safe cities.”
+
+Leon tutted. “We don’t need all that. We can just stay with you guys.”
+
+His comment was immediately vetoed by all of the siblings in one unanimous “Nope!”
+
+Matt had to assume that was a similarly rehearsed comment, but this time let himself laugh.
+
+“Not a chance. I—”
+
+Leah interrupted him by hooking her arm though his and spinning them to walk forward the way they had been going.
+
+“Yes yes, polite turn down. Don’t bother. Just yell at them. They are like puppies. You need to be firm and stern in your rejection. Now, let's get on with the tour. This place is amazing. I feel so good with all the fire mana. I can feel my bloodline already starting to refine itself. Beautiful.”
+
+That got everyone's attention, though Annie, Sam’s wife, asked, “Clarification for us non-elemental folks: Is it really that big of a deal? Just feels like fire mana to me?”
+
+All the siblings nodded, though Leah answered. “It really does. There is a reason high-Tier aspected worlds are stupidly valuable. I spent time at Infurnt. A decade pass cost me a hundred at Tier mana stones a year, and the world was so full of people, the effect wasn’t half as good at this jewel of a planet here. As the highest-Tier sibling, I get first dibs.”
+
+Travis snorted out a puff of fire. “Yeah right. We clearly need to start from the bottom. Keith and I get first dibs.”
+
+Erin raised a finger. “We need the most space, so we need to get first dibs. It's obviously the hardest requirement to fulfill, so we disregard Tier and go based on need.”
+
+“No way—”
+
+Their bickering continued and morphed as they toured the planet, Matt [Portal]ing them from place to place as the siblings picked out the locales they wanted to settle down in. All of them had portable homes which they plopped down to settle their claim, and no one actually fought over any locations. As soon as any one showed interest, the others immediately backed down.
+
+After a bit of debating, they decided to simply buy out a floor in one of the spatially-expanded skyscrapers that were going up in one of the secondary cities for their group house.
+
+The Moore family had one on both Mara and Leon’s capital worlds, similar to their estate on the Capital itself. It was a bit redundant with everyone having their own houses on Palustris, but it would be nice to have when kids started to be born.
+
+He and Liz hadn’t decided one way or another, but if they were to do it, they would aim to have their child with everyone else. And if they decided not to, it wouldn't be that bad to be the Aunt and Uncle who lived nearby, and that was best done in a group estate everyone could visit.
+
+There had been millions of studies disproving it, but there were still people who said, and truly believed, that growing up in an elemental essence-rich environment gave children more potent Talents upon awakening. Even so, Matt and Liz had a whole planet at their disposal, so why shouldn’t they raise the next generation of Moore children on Palustris? It certainly couldn't hurt.
+
+Or the Capital itself. Those same people also said growing up on a high-Tier world was innately helpful in the same way. It would be nice if their kid was able to grow up with all of their noble peers, so they weren’t isolated like Liz had been.
+
+Either way, Matt had no issue in spending the money to buy something that could not just help his own potential children, but his nieces and nephews.
+
+He must have been more distracted than he thought, because he was pulled out of his thoughts when Liz slipped in next to him and pulled him into a kiss.
+
+“Deep thoughts?”
+
+“Good thoughts.”
+
+Liz grinned up at him. “That's what I like to hear. The planets are settled. Manny is going to pay some fine, but it's not on us. No one really wanted to push the issue, considering both parties are Ascenders. I heard there were some incidents from Isabella though?”
+
+“Some fire bloodlines thought they were entitled to the place. I showed them otherwise,” Matt waved off.
+
+Liz frowned a bit at that. “I’ll follow up on it, they’re more my people anyway.”
+
+Mara, now in her chicken phoenix form, barreled over, knocking phoenix Liz off Liz’s shoulder.
+
+“Now that we are all here, we need to go flying!”
+
+Laughing, the non-phoenix members of the extended family watched as the flock of birds were led by one chicken-looking phoenix.
+
+Matt rolled his eyes and grabbed Annie and Keith. “Let's go whip something up for everyone while the others get it out of their system.”
+
+With one last glance over his shoulder, Matt walked with the others inside.
+
+It was wacky.
+
+It was odd.
+
+It was family.

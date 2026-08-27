@@ -1,0 +1,249 @@
+---
+id: 66868c0b-0c47-55d0-80dc-de472b06e59b
+page-type-slug: story-chapter-royal-road
+title: "118 Deep Water"
+slug: 0076-118-deep-water
+partOf: the-new-world
+position: 76
+ownLength: 2669
+unit: words
+ownProgress: 2669
+publishedAt: 2018-05-04
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/213301/118-deep-water"
+royalRoadId: "213301"
+markedReadAt: "2026-06-29T21:23:27.956Z"
+---
+
+I shrugged, “Yawm’s been keeping me busy. I’m sorry.”
+
+Althea narrowed her eyes and raised her eyebrows,
+
+“That’s a pretty good excuse...I still missed you though`.”
+
+She laid out on her bed, arms propping up her head and her feet kicking behind her. Her hair was messy, but in a sexy kind of way. To me at least. I grinned at her, “I missed you too.”
+
+Althea flushed a bit before glancing off in the distance, “So...how are things?”
+
+She I laughed a bit at her awkwardness, “Things are going pretty good for now. I’m not dead, so that’s a plus.”
+
+She nodded, “Or turned inside out either.”
+
+I shivered, “Don’t remind me.”
+
+She leaned towards the camera, her eyes opening wide, “Did you, uh, see anyone else there?”
+
+I shook my head, “No. Yawm killed everyone after they sent you out bounty hunting.”
+
+Althea glanced down, “Oh...really...Wow.”
+
+I raised a finger, “Wait, there’s one person named Keeja.”
+
+Althea looked up at me, her head tilted in confusion, “What? He’s alive?”
+
+I weighed my hands back and forth, “Sort of. I’m sure he’s not the same as you remember him being.”
+
+Althea gripped her shoulder with a hand, “Yeah, Keeja always looked scared of everything. I never imagined he’d last this long.”
+
+I grimaced, “Well, there’s not much left of him. He warned me to run though. It was very...ominous.”
+
+Althea nodded, “Let’s hope you can get out of there as fast as possible. I’m sure Yawm has tried selling you plenty lies already.”
+
+I shook my head in disbelief, “Yeah, he’s a bullshit salesman.” I locked eyes with Althea,
+
+“It’s not just that though. I get the feeling that Yawm’s really disconnected with what he’s doing. I mean yeah, it all sounds good in theory, but if you look at what he’s done...It’s malicious. How he’s gotten this far in and never thought to himself that it’s all a bad idea, well I can’t fathom it.”
+
+Althea raised her hands, “I know right? I can’t even go on for five minutes without doubting myself.”
+
+I frowned, “See, that’s the thing. He does doubt himself, but he just keeps going. It’s like he’s taking water out of a sinking ship. He’s been doing it for so long now that he won’t stop no matter what. He’d rather keep wasting his time than face the fact that he’s wasted time up till now.”
+
+Althea’s eyes turned hard, “Yeah, I never liked him. I didn’t see him much though, only twice before I was changed. Once before the operation and once more right after it.”
+
+I rested my chin on my hands, “Did they ever mention anything about tears?”
+
+Althea raised an eyebrow, “Tears? Maybe as a code word for something else. No one was crying during the experiment though, not even me. I only remember them surrounding me with dungeon cores that were writhing like they were alive. They dipped me in some liquid with all the cores. After that, I don’t know.”
+
+I grabbed my chin, “Damn...Well that just makes things more confusing.”
+
+Althea nodded, “Yeah, it does...”
+
+An awkward silence passed before I coughed into my hand,
+
+“Ahem, I...uh...love you”
+
+For some forsaken reason, I blushed a little as I said it. I shook my head in frustration,
+
+“What am I, twelve? I thought I got rid of the jitters years ago.”
+
+Althea giggled out a nervous laugh, “I’m blushing too if it makes you feel any better.”
+
+My eyes focused back in on her. Her face was purple. I laughed,
+
+“You’re cheeks are as purple as your hair.”
+
+She swiped her hand at me, “Cut me some slack.”
+
+I smirked at her, “It’s not my forte.”
+
+She turned onto her back, looking at me with her head hanging off her bed, “Yeah, I could tell after you killed those levelers like that.”
+
+I spread out my hands, “Yeah, that was weird as hell. Why would they even try doing that?”
+
+Althea tapped her full lips with a finger, “Hmmmm. I guess levels are important.”
+
+I raised an eyebrow, “Enough to die for?”
+
+Althea’s purple, shiny hair spread out onto the stone floor with a nice sheen to it,
+
+“There’s certain places you can only go once you’ve gotten to a high enough level. That’s why I went to earth for my bounties instead of a more developed world. I was way too low level for somewhere more fun.”
+
+I raised an eyebrow, “What’s wrong with earth?”
+
+She kicked her legs at the edge of the bed, her fluffy pajamas looking comfy,
+
+“I mean Earth’s fine I guess. It’s kind of empty though. There are some places you can go that have more city than wilderness. Anything you could want, they have. Some people just shore up and watch stuff on their obelisk all day. Other people get high on all kinds of drug cocktails until they go broke before going out for credits again.”
+
+Althea glanced off into the distance, “With money, you can have pretty much anything you could ever want really.”
+
+For a second, I thought about what she said. I remembered asking other classmates what they would do for a million dollars back in middle school. People had a wild variety in their answers. Some would kill other people for a tenth that amount. Others wouldn’t even suck a dick for double it. It really did depend on the person.
+
+I assumed that mercenaries were the same way. They saw Schema’s reward as that million dollars, a reward that was normally impossible. Because of that, greed consumed them. It was kind of sad how Schema swayed them so easily. It made me wonder what their lives were like before the mission.
+
+I silenced those thoughts. Thinking about that would just make me feel awful. Besides, they shot at me first. It’s ridiculous to think I wouldn’t ensure my safety after something like that.
+
+I leaned towards the camera, “What would you spend a mountain of credits on?”
+
+Althea grinned at me, “Hiring a personal chef, a nice, cozy house with a huge library in it, and a huge bath so I could soak in it all day.”
+
+A wry smile traced my lips, “Expensive tastes, eh?”
+
+She made a hand into a gun and pointed it at me, “I could always take you out for a few quick credits.”
+
+I raised my hands, fiegning mock terror, “You wouldn’t dare.”
+
+She cocked her hand, acting like she was loading a pistol, “Try me.”
+
+I waited for a moment before pulling out a pistol from my own hand.
+
+“Bang bang bang!”
+
+I pressed a hand against my chest, “Blahh, you got me!”
+
+Althea pressed a fingertip to her lips and blew on the pistol, “Shouldn’t have crossed me.”
+
+We laughed before I pursed me lips, “Wait, what do you mean take me out for a few quick credits?”
+
+She frowned, “It was just a joke.”
+
+I shook my hand, “I mean what do you mean by getting credits? I didn’t know Schema’s bounties gave out money.”
+
+She shook her head, “They don’t. There’s other bounties on your head now. The empire has one on clearing the quarantine here on earth now. It’s not enough so that you’re set for life, but it’s enough to add fuel to the flames I guess.”
+
+I creased my eyebrows, “You’re telling me those levelers were important?”
+
+She nodded, “Apparently so. All that practice with me and you really payed off though.”
+
+I shrugged, “Eh, I mean kinda sorta.”
+
+Althea pursed her lips, “What do you mean kinda sorta?”
+
+I balanced my hands back and forth, “I guess our head to heads did teach me how to kick some ass.”
+
+“Ohhhh really now?”
+
+“Yes, really.”
+
+She pointed at me, a reluctant grin spread out over her face, “You just wait till next time buster. We’ll see who’s kicking who’s ass.”
+
+After that, we chatted for another hour about a variety of different things. None of it really mattered, but we were in that phase of the relationship where we were giddy just to be around each other. Althea’s eyelids got heavier before she fell asleep while we were talking.
+
+I closed out my call with a small smile on my face. It was nice seeing her, if only for a while. I just wished I could have put the cover over her and nestled up to her. It would be nice.
+
+With that weighing on my mind, I sighed before closing my obelisk. I stood up and stretched, my back popping before I rolled my shoulders. I wanted to learn how to use gravity to help me move even better.
+
+The night passed fast, a sort of flow occurring as I trained different motions and ideas. After that, another day with Yawm passed much the same as the others. We would drink something during the morning before moving on towards his study the entire day. After I returned towards my room, Keeja would come in with some fancy dinner. I trained all night thereafter, and the process rinsed and repeated.
+
+It was a calm, peaceful existence compared with my life since Schema took over. I enjoyed it quite a bit. It was like getting a taste of some home made cooking after eating out for several weeks. It was fulfilling a craving for relaxation after the months of constant battle. The only problem was that I found my mind wandering at times.
+
+I know that sounds weird to point out. Everyone daydreams now and then at some point. The thing is, I hadn't in months. Since getting so much willpower, I had an iron grip on my mind. Whatever I wanted, I could make happen. It wasn’t a matter of if I would do something, it was a matter of when.
+
+For some reason, that sense of ironclad control was fading. It was slow at first, but as my lesson’s with Yawm continued, the sensation took more an more away. After about two weeks of this routine with Yawm, Yawm was agitated as well. It wasn’t because he was actually nervous or anything like that. He wanted violence when there was none.
+
+I would catch him breathing slowly to calm himself in the middle of his writing. It felt like someone transported a bloodthirsty viking into an eternal library. He could pretend like he wanted to read, but at some point he was bound to snap. At the peak of his frustration, he pulled me back towards the top room of his ice fortress.
+
+Once there, we stared at the lake’s medley of life for a few minutes. The different forms of life shifted with phosphorescent lights lighting them. We sat on the standard chairs of ice Yawm preferred. Yawm breathed deep, like he was calming himself down. When he finally spoke, a hint of sadness was in his voice.
+
+“There’s something I’ve been meaning to ask of you, but I’ve found myself stretched thin as of late. Would you mind me asking a rather blunt question?”
+
+I shook my head, “We’re friends man. You don’t have to ask a question just to ask a question.”
+
+I expected him to ask for a spar. He didn’t.
+
+“It is a bit peculiar I suppose. You see, it’s a personal question I want answered.”
+
+I just stayed quiet and let him speak. As he talked, he waved a hand like he was trying to get words out of it,
+
+“No doubt you’ve noticed some...symptoms since you began learning the cipher in more detail. In my case, I experience bouts of untamed aggression. You’ve seen the explosive effects my anger may have, so containing these outbursts is essential for me. I was wondering what your symptoms were and how you were coping with them?”
+
+I raised an eyebrow, “Why is that so personal?”
+
+Yawm sighed, “Because your reaction to the cipher speaks volumes of your character as a person. Most see visions and hear voices. Eventually they lose their minds. I was wondering if you were experiencing anything similar?”
+
+I shook my head, “Not yet. So far the only thing I’ve had to deal with is spacing out some. It’s annoying, but I just have to keep snapping at myself to get back on task.”
+
+Yawm leaned towards me, “And you’re certain that’s all?”
+
+I remembered the last week or so. That was the only symptom so far, so I answered,
+
+“Yeah, that’s basically it.”
+
+Yawm tapped his chin with a knuckle as big as a teacup,
+
+“Curious...You’re symptoms are rather low considering your status as a warrior. Did you invest into the willpower leveling perk by chance, if you wouldn’t mind my asking?”
+
+I nodded, “I did. My build is very endurance heavy for the most part.”
+
+Yawm’s eyes narrowed, “That makes your mana generation all the more impressive. You’re using the way the stats feed to get the most out of them then?”
+
+I weighed my hands back and forth, “More or less.”
+
+Yawm clapped his hands while leaning back into his chair, “Then that explains how you’ve managed to suppress the symptoms so well. Your subconscious is working for you.”
+
+I raised an eyebrow, “My subconscious?”
+
+Yawm turned a hand, his palm facing me, “Your skepticism is well founded. Allow me to explain with a story.”
+
+Yawm moved a hand over his head. The air around us sparked before an aura of green saturated the area. It compacted into Yawm’s palm before an foggy image appeared over his head. It was a sailboat coasting on a clear sea. The sky was boundless and blue. A bright sun beamed against the water below it.
+
+Yawm pointed at the boat, “This is projection magic. It’s an excellent addition to stories you might wish to tell.”
+
+I nodded, “It’s awesome.”
+
+Yawm leaned back into his chair and spread out his arms, “The boat at the center of this image is you. The ocean around you is the universe that you can see. Notice how beautiful it is, how full of possibility.”
+
+I leaned towards the image, “Yeah, it seems pretty optimistic.”
+
+Yawm shook his head, “This is a grim imagining of our universe, I assure you.”
+
+He pulled his arms together. As he did, beneath the water became visible.
+
+“The cipher exposes what lies beneath the surface.”
+
+An eye larger than our boat appeared. It shifted beneath the water, its form enormous. Other gargantuan creatures writhed near it. The density of the monsters was so high that they seemed squeezed underneath the water. If they so much as brushed against the sailboat, it would be obliterated.
+
+Yawm’s eyes narrowed, “The world seems peaceful, but there are things hiding in plain sight. The cipher lets you see these oddities. It lets you discover your own insignificance in comparison with this wide universe we call our own.”
+
+Yawm lowered his hands, the image dissipating,
+
+“The Old Ones, the eldritch, even creatures we know nothing about...the cipher lets you peer behind the curtain and see them so to speak. It’s a humbling thing to peer into the universe spread bare. I liken it to staring at infinity. It breaks most minds.”
+
+I tapped my temple, “And all my daydreaming is my mind processing that?”
+
+Yawm rubbed his hands together, “That way of understanding will do for now. The main point is that there will be times where we both need time away from the cipher. Otherwise we will succumb to these symptoms.”
+
+Yawm stood up form his chair, so I stood up right after,
+
+“What are we going to do in the meantime?”
+
+Yawm spread out his arms and pounded his fists together. It reverberated loud enough that the panels of ice around us cracked. It was the kind of sound you could feel shaking your skin and moving your hair. As the last echoes of it faded, Yawm growled,
+
+“Hahaha! We can fight any visitors that happen to come here. That and spar...if you’d like to.”

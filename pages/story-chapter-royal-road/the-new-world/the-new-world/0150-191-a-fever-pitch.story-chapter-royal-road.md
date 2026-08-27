@@ -1,0 +1,413 @@
+---
+id: a218aeac-4369-535f-a900-45c3f9fe3b96
+page-type-slug: story-chapter-royal-road
+title: "191 A Fever Pitch"
+slug: 0150-191-a-fever-pitch
+partOf: the-new-world
+position: 150
+ownLength: 5257
+unit: words
+ownProgress: 5257
+publishedAt: 2019-03-14
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/342965/191-a-fever-pitch"
+royalRoadId: "342965"
+markedReadAt: "2026-06-29T21:25:57.470Z"
+---
+
+Helios began a slow, self-derisive laugh. It mounted in volume, resonating through the underground room like a hurricane of sound. A shiver ran up my spine, his voice putting me on edge. As the cacophony came to an end, Helios spread his hands in defeat,
+
+"To think such a simple guise would fool me for so long...I still have much to learn. Some of that learning will revolve around you, however."
+
+He interlocked his fingers, pointing at me, "So then...Why are you on Giess and why are you helping my sister?"
+
+I explained our unknown statuses, how we were getting rid of them, and trying to erase our bounties. I also elaborated on how bullshit it was for Schema to still have us be hunted even after we killed Yawm. As I finished giving him the barebone basics, Helios rolled his eyes,
+
+"That's the skeleton of why you're on Giess. It explains little of why you entered the tournament or what you've done since coming here."
+
+With his prodding, I relented more info about what we did here. This cycle of giving just enough to answer his question then Helios goading more knowledge from me continued. By the end of it, I spilled everything we'd done since coming here, including the bit about Skyburners and Giess's glassing.
+
+Helios stared at me the entire time, soaking it all in. As I watched him, he made mental adjustments about the situation and our own decisions. By the time he finished assessing our plight, he was cracking each knuckle one by one,
+
+"This is a wealth of knowledge that my sister hid from me well. I'd be impressed if I wasn't so disappointed in her already. Her involvement with your success has been minimal at its most and abysmal at its worst. My understanding was that you all held her back in a certain regard. If that was the case, I would have already flayed you all alive. Instead, I'm rather intrigued."
+
+Helios gestured to the runic markings on my forearms, "Those runes in particular...where did you get them from?"
+
+"From some offwor-"
+
+Helios clamped his fist, making a loud clap of sound. It silenced me as he sighed in a suppressed anger,
+
+"I've already proven I can tell when you lie. Answer me honestly, and you will not be harmed."
+
+Helios tilted his head, "Hmm, most likely anyway."
+
+Great. Just great.
+
+"Alright. Calm down. I made them."
+
+"So another lie then. I suppose-"
+
+A well of anger rose out of my chest, my patience for his bullshit thinning. I clamped my own hand shut, silencing him just like he silenced me,
+
+"I can prove it."
+
+I whipped out my grimoire and etched in a basic runic carving of the cipher. It represented endurance, a rune I was intimately familiar with. I channeled into it for a few seconds before making the cipher rune float above the page. I flicked the white rune, sending it onto the ground. It singed into the stone, leaving the intricate detail intact.
+
+Helios was leaning on his throne, keeping his hands on the armrests.
+
+"So I've met three that can write in the language now. The Emperor, Baldowah, and now you. The other two are a given, but you...you're an anomaly, aren't you?"
+
+I tried downplaying my significance. Having extraterrestrial parties take interest in me would fuck us over."Eh, sort of. I'm not that different from a normal capper to be honest."
+
+"Oh, we'll have to disagree about that. Considering your outlier status, you pose a tremendous threat to our Empire. As as example, several of my abilities were granted by the Emperor before I left our home planet. Using those advantages, I was able to circumvent the limitations of Schema's system. My own mana generation is a result of just that."
+
+Helios rubbed his gauntlet, the cipher etched onto the metal,
+
+"It took my uncle several months before he was able to charge enough mana into the rune to finish it, yet you did it in seconds and without atomic manipulation. Explain."
+
+"It wasn't that big a deal."
+
+"You fail to understand the nature of your situation. I am not questioning you to gain information from you. I am justifying your survival. You see, you're a threat. Threats are to be eliminated unless I can prove they aren't threats. By hiding who and what you are, you're only digging your grave deeper, and my mercy is by no means never ending. So Speak."
+
+A cold bead of sweat dripped down my forehead. At this point, showing him everything I had was my only out. I waved my friends away, and Torix, Kessiah, and Althea stepped away from me. I channeled mana into my runes, topping them off in a second. As I drained mana from the cipher runes on my forearms, the air around me blurred. Crimson lightning bolted from my skin. Cracks of pure energy radiated down my metal armor, the darkened ore oozing with unrestrained violence.
+
+It seeped into the stone, the air, even the dimensional fabric around me. I produced a subtle warp in it, the volume of mana almost limitless. That mana infested my blood and bones, telling me to rip and tear. I gritted my teeth, forcing it to bend to my will. Without my vast reserves of willpower, it would consume me in seconds.
+
+I'd become the plaything of my own mana. Fortunately, that wasn't the case. Practice made perfect, and I was more than used to this by now. After a few seconds of creating a hyper-dense cloud of mana, droplets formed around me. Like a glowing rain, they dripped down onto the ground around me. Althea was exposed to a tiny whiff of the mana cloud, and her eyes dilated. Like some stimulant, she growled as her body reformed, the mana utterly excessive to what she could handle.
+
+She bent down, grabbing the sides of her head. She growled, "Cut it off or I'll lose my mind."
+
+I snapped the mana shut, siphoning it into the rune on my forearms. The liquid mana evaporated as I breathed it back in. Even Helios seemed affected as he raised out a shaking hand,
+
+"Incredible. You've more mana than even the emperor and I combined. To think a being could produce this much mana internally. An engine of destruction, aren't you?"
+
+I turned to Althea, "You alright?"
+
+She raised a hand, "I'm fine. Your mana is much denser than last time you did the same thing. I didn't think it would have this much of an effect on me...That's all."
+
+She was holding back how much the mana impacted her. Beneath her skin, her body rippled like an ocean wave. It had been a long time since I'd seen her struggle to control her transformations. The sheer surge of mana was threatening to overwhelm her though. Torix noticed, so he walked over,
+
+"Quit being prideful and send the extra mana through the conduit. You'll be poisoned at this rate."
+
+She wheezed, "I'm sorry. I forgot. I'll...I'll do that."
+
+A sense of panic rose in my chest when I heard her struggle. It made me feel like some weapon of mass destruction, ready to crush something without even meaning too. I clenched my fist as Helios gave me a slow claps,
+
+"Extraordinary. Yes, I believe the Emperor and you have much to discuss. You may prove very useful given some convincing."
+
+I glared at him, "It might take a lot of convincing."
+
+"The Emperor can pose a few compelling arguments I'm sure."
+
+Althea shouted at him, the mana still affecting her, "So what is it you fuck? We're your slaves now?"
+
+Helios banged one his armrests, "It's that potent, isn't it? She's a Breaker, yet you brought her to her knees in seconds! Have you ever imagined using it to invigorate an army? The carnage they'd inflict...It would be legendary."
+
+I frowned, "I did it once. It was a last resort against Yawm. It worked pretty well, but I figured I'd focus on other things. It's gotten a lot more potent since then, so I'm pretty sure it would just kill them."
+
+"I've seen plenty. Then it's settled. After you've finished your errands here on Giess, you'll be summoned to see the Emperor. I'm certain he'll have much to discuss with someone who mirrors him in many ways."
+
+Althea roared in outrage, "You think-"
+
+Helios pressed his fingertips together, encapsulating Althea in a field of azure ice. I turned to her my eyes widening. Before I could kill this piece of dogshit, he gestured a palm to me,
+
+"She will be fine though silent for the rest of this conversation. In fact, your mana is a far larger problem for her health then my ice. I kept the ice outside of her skin, preventing it from freezing her blood. A simple flick and it would consume her, creating a bloom of red. She'd be beautiful, wouldn't she?"
+
+I froze in place, stunned by his ease at killing Althea.
+
+"I mean no harm, however. She needed to be calmed before she lost herself. Just as well, she means quite a bit to you, so she means something to the Empire as well. I truly didn't wish to be impolite. I hope you believe that as you're valuable...in a sense."
+
+Helios cracked a knuckle, "Regardless, I'm rather pressed for time as you may imagine."
+
+Helios cracked his neck before standing, "Whether you save this planet or not, you will see the Emperor afterward. He has much to teach you, should you listen to him. Send me your coordinates after the time limit for Giess is up. I'll send someone to pick you up."
+
+Helios opened a portal, "Defy me, and you'll face the brunt of the Empire and all its allies' might. Understood?"
+
+I spoke through gritted teeth, "Understood."
+
+"Excellent. Your ire aside, you saved my sister. If you happen to need assistance, I shall grant it. Goodbye, Harbinger."
+
+He walked through his portal while snapping his fingers. As he did, The ice around Althea evaporated into mist. She fell down, gasping for air. Torix hissed, "Oh he'll pay for that."
+
+I took a deep breath, my blood boiling, "I'll take the blood out of his body and make that fucker drown in it."
+
+Torix raised a palm to me, "Perhaps not that far."
+
+I grunted, "Eh, probably the mana talking."
+
+Althea let out a loud, hacking cough. I snapped out of my anger, jogging over to Althea, making sure she was ok. She gave me a woozy thumbs up like she was drunk, "Hey...I'm alright. I just need to sleep...you made beds right?"
+
+"Of course I did."
+
+She laid down onto the floor, "That's, uh, good...Wait a minute! They aren't rock beds are they?"
+
+Caught red-handed, I stood up straight, "Uh...maybe."
+
+Torix rolled his eyes, "Enough. I'll pull something not so stony for you to lay out on." The lich looked up to me, "Be more careful with your mana. You could've killed her."
+
+I bit my lip while looking down. I took a deep breath, "Yeah...I'm sorry. I won't do it again."
+
+"Make sure of it. otherwise I will."
+
+The mage lifted her with telekinesis before stepping into our room. As he closed the door, Kessiah walked up to me,
+
+"Oof. That was...wow. Helios is strong isn't he?"
+
+"Yeah. He's an asshole too."
+
+Kessiah took a few deep breaths, steadying herself. The conversation impacted her more than I thought it would. She shook her head, glancing up at me,
+
+"Hey, did you really make us rock beds?"
+
+She was using humor to cope. I figured I'd help her out."
+
+"What, they feel just like beds to me."
+
+Kessiah rolled her eyes, "Yup. Classic Daniel. Real thoughtful there."
+
+I crossed my arms, "I don't see you making beds for anyone, now do I?"
+
+Kessiah gritted her teeth "Yeah...I don't see myself doing much of anything honestly."
+
+There was a deep bitterness there. I decided to pull back in the conversation,
+
+"You know I was just joking, right?"
+
+Kessiah let out a long sigh, "Yeah, you are. I'm not. I'm fucking useless."
+
+I winced. I wanted to deny it, but hey, sometimes the truth hurts. Kessiah looked up at me, expecting something. I stayed silent, so her shoulders drooped,
+
+"Well fuck...You could at least pretend like it wasn't true."
+
+I shrugged, "I mean, it doesn't matter what I think about it. If you think it's true, then it's true."
+
+She blinked, "Ok...asshole..." She looked away, "You're right though. I don't know if you noticed, but my hands were shaking the entire time that guy was here. I was terrified. He could kill me without even thinking about it. Same with your mana cloud. It's like I'm surrounded by monsters now."
+
+I recoiled a bit at being called a monster. Kessiah met my eye, "Was Yawm like that the entire time?"
+
+I shook my head, a bit peeved at what she said earlier,
+
+"No. He was much worse. Helios is a narcissistic, egomaniac fuckface. Yawm...Yawm was more than that. He had this way of worming into your head and making you doubt everything you knew to be true."
+
+I stared at my hands, "And before you know it, you want him to be right even if he's wrong. Hell, there comes a tipping point were I almost sided with him just because it felt like the right thing to do. That kind of presence...it's haunting."
+
+I looked off into the distance, "Helios is strong, maybe even stronger than Yawm. I don't know honestly. The thing is, Helios doesn't have that same effect on me. He's just a piece of shit I deal with."
+
+I kept staring off into the distance, "As for Yawm, I'm still terrified I'll end up like him." I raised my hands, leaving an inch of space between my index finger and my thumb, "I'm this close to being like him. I mean even my friends are calling me monsters now and acting like I'm not human anymore."
+
+"Well, you're not human. I didn't mean that part about monsters either. It was more about how much weaker I was than how ridiculous you guys were. Hell, I can't tell who's stronger between you and Helios. You could both kill me in a second, so does it even matter?"
+
+I looked back to her, "I guess not."
+
+"I can't believe you're still sane after that...And I was older than you. I was three times your level. I left you to do that all on your own..."
+
+Kessiah leaned over, a bit of water welling in her eyes, "Man...I can't believe I did that. I'm pathetic."
+
+I watched her, unable to help with her suffering. I wasn't the kind of guy to say the right thing at the right time. I'd never been that kind of person. I was too selfish and self centered for that kind of thing. Either that or it was my emotional intelligence. I'd been compared to a rock in that regard, and I felt it was a fair comparison.
+
+Still, I wanted to help as her pain was white hot and deep as an ocean. It was like she was putting herself into her own personal hell, and I didn't know how to help pull her out of it. I had to say something though, so I put a hand on her shoulder,
+
+"So, uhm, it's ok."
+
+I cursed at myself, wishing I wasn't a fucking idiot.
+
+Kessiah let out a sad laugh, "Thanks for trying. At least you didn't tell me to quit being a pansy about it."
+
+"I'm sorry. I'm...not the best at this. My gut instinct is to tell you to quit feeling sorry for yourself and do something about your situation. That doesn't work for everybody though. Just, uh, focus on what you can do about it. The past, it's gone. You can do something right now though."
+
+I stood up, trying to keep my words tactful,
+
+"Besides, wallowing in guilt doesn't do much, does it?"
+
+Fuck. I needed to really work on this. I was more like a drill sergeant then a friend.
+
+Kessiah pulled herself together, and went back to deflecting with humor, "Thank you, sir for the pep talk. Real helpful."
+
+"Well, at least I don't have to worry about being as charismatic as Yawm."
+
+Kessiah propped her weight onto one hip, "Aye, stop doubting yourself. We're talking about how pathetic I am, not you."
+
+I let out a reluctant grin, "Heh, if you say so."
+
+Kessiah raised her hands, "For real though, I really could use some work. I was over a 1,000 levels above that bag of bones when he asked me to come to earth. Since then, he's a Speaker, and he's tripled my level already. At this point, I went from the weak link to just...ugh."
+
+"The thing is, you can fix the levels pretty fast. Go clear dungeons or kill silvers. Problem solved. That's not where your problem is." I tapped my temple, "It's up here with you. It's like...you self destruct or something. You can't get focused ever since you tapped out against Yawm. Quit focusing on your failures and start working towards success. It's that simple."
+
+Kessiah looked down while crossing her arms, "Yeah...I should do that."
+
+I raised my hands, "Never too late for redemption. You got the talent. Get your shit together, and you'll be a world breaker. I mean that. I remember when you first used your blood arts. You wiped the floor with me. If you got a good handle on that and backed it up with some raw stats, you'd be formidable. If you added a Breaker class to that, and you'd be outright terrifying."
+
+She looked up to me, "You're not fucking with me, right?"
+
+"Look, we talk shit about you, but don't misunderstand the situation. You have potential." I poked her shoulder, "Go realize it."
+
+I turned around, walking over towards our room, "I got to see what the hell is taking Torix so long though. Good luck."
+
+Kessiah reached out, "Wait a minute. I forgot to tell you. Did you ever see the news?"
+
+I let my hands plop against my sides, "What do you think?"
+
+A tiny grin spread over her face, "Hah. Got you there at least." She raised her hands, "Anyways, Thisbey is using the bombing on our room to frame the gialgathens. It's causing some riots. You know, serious shit."
+
+I bit my lip, "Fuck. It's one problem after the other."
+
+Kessiah let out a hollow laugh, "You haven't heard anything yet. According to a rumor mill, there's been a revolutionary group going around clearing Dungeons. They're espens that are leveling up so that they can kill the gialgathens or some crazy shit. It's insane."
+
+My eyes widened, "They're leveling to commit genocide?"
+
+Kessiah took a sharp breath in, "Hey, I'm just the messenger."
+
+I glanced down, "What the fuck is wrong with people?"
+
+Kessiah shrugged, "Eh, pretty much everything. Just got to deal with it, right?"
+
+I glanced down at her, "Yeah...That's right."
+
+She pointed up at me, "Hah, that's something you told me forever ago. Anyways, thanks for the pep talk. I think it's about time I start kicking ass and taking names."
+
+I raised my eyebrows while looking away, "It's about damn time."
+
+Kessiah hit my elbow with a playful punch, but she ended up breaking one of her finger bones. She leaned over, grabbing her hand, "By Baldowah your skin is like...like I don't know. Jesus. Fuck."
+
+I raised an eyebrow, "Why'd you say Jesus?"
+
+Kessiah waved me off, "I don't fucking know. You always mention the guy whenever something bad happens. I figured it might help. If you're wondering, it didn't."
+
+I raised a hand and pinched my fingers together. As I did, I telekinetically set the bones in her hand. Kessiah growled, "Aghhhhhh. Fuck you."
+
+I gave her a grin, "Your welcome. For real, good luck with pulling it together."
+
+She stood up straight, "You too. And uh...thanks. You know, for everything."
+
+I shrugged, "Eh, I was helping myself most of the time. I wouldn't give myself to much credit."
+
+I turned and walked off. As I did, Kessiah sighed and murmured to herself,
+
+"Alright, Kessiah...you got to get your shit together. Come on. Come on. Let's do this. No more going to bars or lounging in bed...ok, maybe a little lounging."
+
+I suppressed a laugh, walking into our room. As I opened the door, Torix was casting some green, healing magic over Althea. I raised an eyebrow as I closed the door behind me, "Is she sick?"
+
+Torix shook his head, "Not exactly. I was more so checking her vitals for poisons and whatnot. After the fiasco at Rivaria, I've become more paranoid you see."
+
+I tsked, "Yeah, so have I." I watched him use the green magic for a few seconds, "So uh, could you teach me that? I've been doing surgery with gravity magic recently. Turns out, it's not exactly the worst thing to use, but I'm pretty sure there are better tools out there."
+
+Torix scoffed, "You're right about that." He opened his dimensional storage, pulling out a dusty old tome. He tossed it at me, and I snatched it out of the air. With my other hand, I pressed my fingertips together, compressing the erupting cloud of dust let off by the book.
+
+I burnt it once I collected the lint. Torix ceased his magic and clapped his hands, "Bravo. You've become a fine mage, integrating such complex magic for miscellaneous tasks."
+
+I raised an eyebrow, "Oh this? It's because of Force of Nature. Otherwise, I wouldn't have this kind of finesse. It's a pretty absurd skill, to be honest."
+
+Torix nodded, "Most branches of magic are when taken to their extremes. Oddly enough, I don't know if you could even implement healing magic with your current limitations."
+
+I raised an eyebrow, "What, why?"
+
+Torix gestured towards Althea, "Helios's ice isn't what left Althea delirious like that. It was the side effects of mana toxicity."
+
+My eyes widened, "I poisoned Althea with that little bit of mana?"
+
+Torix sighed, "Indeed you did. You see, your health and mana are one. You can actually channel your mana directly into someone's wounds to heal them. The issue revolves around its effect on someone's mind."
+
+Torix waved his hands around, "You deal with unbelievably high volumes of mana at once. You could deluge someone's central nervous system, completely overloading it and frying them as if they were on an electric chair."
+
+Torix cupped his chin, "In fact, it could make for a devastating combat move. Your mana elicits violence and destructive impulses after all. Perhaps causing some infighting would be very difficult to stop."
+
+I frowned, "It's motivating too. You know, energizing and all that."
+
+Torix swung a finger, pointing a finger in the air at the same time, "Precisely my point. That rush of violence can leave someone in a state of comatose if you overdue the mana sent to them. In fact, imagine if you sent that kind of mana into Caprika. She's even flimsier than Althea. She might even have mutated into something like an eldritch. Perhaps even worse."
+
+I grimaced, "So no healing magic then? Got it."
+
+Torix tilted his head, "Hmmm. Not necessarily. You'd need some kind of limiter or the like; otherwise, you might send too much mana. After all, if you even sneezed, you might make someone explode. To be honest, you're not the best candidate for learning healing magic. Kessiah, on the other hand, would be quite adept at it."
+
+I rolled my eyes, "Pff, Kessiah can't even get out of bed early."
+
+Torix spread out his hands, "I wouldn't be so sure. Kessiah's Blood Magic lineage gives her a tremendous amount of manipulative ability with blood itself. That means she could create blood, take away blood, etc. It is potent for both healing and attacking in that regard."
+
+Torix waved his hand in disgust, "That being said, she'd never take the time to learn it. Alas, for professor, there is no greater shame than wasted talent."
+
+I shrugged, "Eh, I wouldn't be so sure. She might have finally gotten motivated."
+
+Torix looked at me. He walked up and placed a hand on my shoulder, "If there's one thing I learned about her long ago, it's that she's a time bomb. The moment she gets herself together, she just implodes under pressure."
+
+Torix let his hands down, "I believe it's out of a lingering sense of self-hatred after she accidentally killed her parents. Maybe she believes she's unworthy of her gifts? Maybe she believes she doesn't deserve happiness? It could even be out of sheer fear of her Blood Magic after watching it consume her family in front of her."
+
+Torix looked down and nodded slowly,
+
+"Hard thing that...to lose one's family that is. After I say it out loud, it makes more sense why she's struggling. It would be like if you killed Althea with your mana just now. It might be hard to use it afterwards, as you'd fear another mishap of the same vein."
+
+He was right about that. I couldn't even imagine what that would be like. Maybe telling Kessiah to suck it up wasn't the right approach. I'd have to think about it later.
+
+Torix counted on his fingers, "Anyways, can you reinforce the base by a bit? I've already planted many agents around the area, casted several wards, and I added a few choice traps at choke points. If you wouldn't mind adding a few extra runic repulsing spells around the area, it would give my mind a sense of ease."
+
+I whistled, "Woah, that's quite a bit of security."
+
+Torix's blue fire eyes flared red, "I was the one that defended us against most of the assassins that came at us before Yawm. I moved our base and our troops while cloaking us. I've gotten slack, so now twice I failed. Never again. Your assistance will help reinforce that."
+
+I gave him a thumbs up, "I don't think you should take it to heart. It's everyone's responsibility to stay alive. Not just yours to keep them that way."
+
+"Perhaps, but perhaps not. We each specialize in our own respective fields of study. My necromancy and troop management make me a natural information specialist. You're our vanguard in battle, absorbing enemy aggression and throwing their ranks into utter chaos. Althea's our assassin, jumping in and out of our plane much like Ajax did."
+
+Torix looked up, "Hmmm, perhaps Kessiah could become our healer. After all, her aversion to combat seems consistent. Using her magic to help her allies might suit her better despite her rather coarse personality. Anyways, I set up a meeting with Kiki Mosk in an hour at the tournament site. He mentioned something about the interview, so I'm certain you didn't mind."
+
+I let out a long sigh, "Of course not."
+
+Torix laughed, "Excellent. I won't miss the interview, I promise. It sounds far too entertaining watching you out of your element."
+
+"Thanks a lot. Real helpful."
+
+"As always. Goodbye, Harbinger."
+
+I rolled my eyes as I trecked out into the forest for a few minutes after. I carved runic inscriptions into a few stones nearby, charging them with mana. After I finished setting them up, I reinforced the base again, this time for security. I composed strips along the edges of the building.
+
+It was crazy what I was doing when I thought about it. I tore my skin off, melted it with my life force, then used it to make a cool base. Odd.
+
+After finishing the project, I sprinted off towards the stadium where the honoring of Lehesion took place. I came out of the trees from a different angle then our base was at. After all, I didn't know if Kiki helped the assassin. I didn't want to take any chances either way.
+
+With the dilapidated ruins coming into view, Kiki waiting along the upper edge of the stadium. As I leaped up to him, he spread out his hands,
+
+"Ah, if it isn't the man of the hour. Where did you and your compatriots head off to?"
+
+I frowned, "Nowhere you need to know about."
+
+Kiki gave me a warm grin, "Right answer. Trust no one. We can't afford to lose you! Our ratings have never been higher than this year. We've even got a reasonable following of extraplanetary viewers. You're that captivating. It must feel really, really great!"
+
+I grumbled, "Yeah. That's, uh, great...Can you tell me what you want? I'm busy."
+
+Kiki waved his arms, "Ah yes. I called you here to inform you about the interview's specifics. You've got three rounds left. Each of these next fights will take place at the stadium as the other fights did. The rounds will have you face to face with your opponent, both of you talking a bit of trash."
+
+I rolled my eyes, "Oh come on."
+
+Kiki waved a finger, "Now now, Daniel. You can make a huge splash in these interviews. This is a chance for people to get to know you after all."
+
+"Something tells me people won't like what they hear."
+
+Kiki cupped his hands together, "I wouldn't be so sure. You're an everyday man who's extraordinary at the same time. People love it when an exceptional individual acts as if they aren't exceptional. It doesn't remind them they're mediocre."
+
+He spread out his hands, "Why else do you think everyone likes it when a celebrity is humble? It makes the star boring, but at least your average viewer won't be bombarded by cognitive dissonance. That's a big no-no."
+
+"Uh...Yeah, sure."
+
+Kiki clenched his hands into fists, "Just let everyone know the real Daniel. You'll do wonders I'm sure."
+
+"If you say so."
+
+Kiki frowned, his multicolored suit shining, "You don't seem very enthusiastic."
+
+I sure wasn't. Thisbey was using me. Kiki was using me. Hell, everyone I met since coming to Giess was using me in some way or the other. To be honest, I was sick of it.
+
+"I'm not. This sucks. I just want to fight, win, get the compendium, then get out. That's literally it. You and this whole show business aspect of it can burn in a fire at this point."
+
+Kiki raised his eyebrows, "Wow...That's really something."
+
+I gave Kiki a pat on his shoulder, "Don't worry about it. I'll do wonders like you said."
+
+As I turned around, Kiki shouted, "Remember, the interview is tomorrow at 12:00 P.M. here."
+
+I gave him a thumbs up.
+
+I spent the rest of the day doing research for the final Skyburner's base. With all of the gialgathen's history being oral, it made figuring anything out into a huge chore at best. Research wasn't my strong suit either, and Torix was too busy making sure our ironclad fortress was truly invincible.
+
+Still, I did gain a few hints and a good idea of where to get my answer from. My next opponent in the tournament was a general for Emagrotha like the last. Her name was Ygsdrados something or the other. She was present at the fight between Lehesion and Emagrotha, so getting her to spill the beans shouldn't be too hard.
+
+As the morning of the interview came, I had a creeping suspicion that it wouldn't be so easy.
+
+I was right.

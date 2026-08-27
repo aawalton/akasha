@@ -1,0 +1,137 @@
+---
+id: 6309e367-156c-5250-b488-7e1de3b606e0
+page-type-slug: story-chapter-royal-road
+title: "318 Possibilities Unbounded"
+slug: 0277-318-possibilities-unbounded
+partOf: the-new-world
+position: 277
+ownLength: 2319
+unit: words
+ownProgress: 2319
+publishedAt: 2021-09-23
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/755187/318-possibilities-unbounded"
+royalRoadId: "755187"
+markedReadAt: "2026-06-29T21:30:42.475Z"
+---
+
+I split the primordial sphere into two parts, each of them writhing out. My anger turned into skepticism, and my eyes turned to slits. I raised an eyebrow at the orbs, "Huh...The timing for this is convenient for you, isn't it?"
+
+Plazia gestured to the edge of our Schema-less domain, "Try and call for the primordial mana outside of this place. That will verify everything you've seen for yourself."
+
+I paced over towards the edge of the wall, finding a spot without cipher sigils. I melted out a cylinder of rock and put my hand into the gap. Once on the other side, Schema's presence siphoned back in with my HUD coming back up. It only extended to me, however. Channeling the primordial mindset, I called forth the mana in the exact same way, and it retaliated with an abysmal withering.
+
+Nothing spawned. Nada. Zilch.
+
+I tested my theory a few times, creating the mana inside and outside of this area. Primordial mana spawned and unspawned each time I did so, and it left me with a wave of growing anger. By the time the proof was undeniable, I had stepped away from the wall. I pulled my hands up, squeezing them while snapping,
+
+"He's holding me back. I fight back a galactic threat for him time and time again, reconquer a planet, and let him know what's going on with the rebellion...And he stifles my progress in return? What?"
+
+I threw a hand to my side, "Why would he even do that? It doesn't make sense."
+
+Plazia tilted his head at me, "You're quite surprised by this, but perhaps that's a matter of perspective. You're peering at a wolf. You know what it smells and sees. You know the softness of its fur and the ferocity in its eyes. You believe you know its nature, but you simply know of its form. Predicting it requires more than its mere body. You must know its mind."
+
+Plazia tapped the side of his helmet, "To predict a being's actions, you must first dissect what it desires. Everything else falls into place thereafter. Schema, that all-knowing AI, doesn't want his populace to be strong. He wishes for them to be controlled, surely, but most of all, he wants sentients to be busy. There is a key difference in those intentions, and Schema's balanced everything to enable this control via distraction and rewards."
+
+I closed my eyes, calming myself down. I let my hands flop on my sides,
+
+"So we're like rabbits chasing after carrots?"
+
+Plazia peered down, deep in thought. He raised his hand a second later, "Ah, yes...That analogy is fitting. You are on a track of false promises, a domain that appeals to surface-level senses but not the depths of your soul."
+
+I raised a brow, "Huh...I agree with the first part. That second part is a bit of a stretch."
+
+Plazia waved a hand, "It's a straightforward premise. Schema abuses your simple, primitive brain and its chemical responses to create an array of false positives. Numbers rise. Your brain signals a reward, and it manifests physically because of the system. This feeds the ego, ambition, and even engagement. It offers no true purpose, however."
+
+Plazia pressed his fingertips together, "He masks these false positives within his system, nesting the reality behind false layers of information that he controls utterly. This prevents full awareness, and many within the track help create the diversions Schema wants. It sustains itself, a recursive cycle of mental enchainment."
+
+I furrowed my brow, "That's...That's a lot to throw out there. I think this might apply to higher-level creatures, but for most people at a lower level, Schema's benevolent."
+
+Plazia sighed, "We shall agree to disagree. The point stands for you regardless."
+
+I mulled over the conversation and the primordial roadblock. A part of me felt like an idiot for not realizing Schema's obstruction sooner, but another part felt betrayed. Schema crossed a line here, using my proximity with the system to his own ends. The system once acted as rope I could climb to the top. At this point, it mirrored chains that held me down. When Schema had flipped the script on me, I couldn't tell.
+
+I simmered, "You know, I thought Schema kept me in the system to feign allyship. It turns out he was keeping me connected to hold me down." I furrowed my brow, "But why let me have a class? And the level cap increases? It's so confusing."
+
+Plazia leaned his head onto a hand, "He wants your power to stem from him, not yourself."
+
+I rubbed my temples before turning to Plazia. My eyes widened, "Then...Then primordial mana is stronger than whatever the system can offer me now?"
+
+Plazia stood up, raising an arm. A field passed over us, a gentle temporal dilation. It left no effect on me, but Plazia insect insides shivered and trembled inside of his carapace, "This is time manipulation. It is primordial magic."
+
+Plazia flicked his fingers at different spots in our room. He spawned portals on a whim, "This is warping. It is primordial magic."
+
+Plazia took a moment, the furnaces under his armor flaring to life. Primordial energy pooled into his entire body, his own skin glowing as mine did. Plazia growled out while snapping the power into a tiny space. Another warp appeared, this one leading into a starry portal. Plazia caught his breath before turning a hand to it,
+
+"This...Is a pocket dimension I spawned...It...It is primordial magic as well."
+
+Plazia stumbled over towards his basalt throne. I watched as his body trembled after casting the magic, the hivemind needing time to recuperate. A few minutes passed, and he composed himself. Plazia stammered,
+
+"Y-you are immune to these limitations...You are a dimension. None of this will phase you as it does we mortals...S-schema fears you for this, as you break the limits of the living. You are beyond us. You may one day be beyond him."
+
+I peered at the ground, ideas popping up for how to use the primordial magic. If I had temporal dilation, I could just create an intensely powerful aura over myself at all times. My lifespan rose without limit, assuming I could even die from something like old age at this point. Doubling the rate I experienced time doubled my mana regeneration, healing, speed, power, even my perception. That was just time magic alone.
+
+If I hastened myself by a multiple of ten, I'd be unfathomable.
+
+Warping carried lots of promise as well. It stopped someone from just throwing me into a vast void I could never escape from. It made me mobile, able to jump between worlds without needing any chauffeur. That let me extend my reach from the planetary to the galactic. I also wouldn't need Schema or Helios for warping anymore.
+
+Creating a dimension may serve some future purposes, though focusing on ground-level abilities stuck out more to me. Time manipulation, in particular, seemed absurd. I looked up at Plazia, "You know, I've needed primordial mana to make entropy, I think. It's a mana type I haven't been given access to yet, and this is probably why."
+
+Plazia leaned his head back onto his throne, "Entropy, the mana of disintegration...A terrifying energy, isn't it? All will fall to it in time. Wielding it allows for the destruction of anything and everything. All my own research indicates it requires the cipher to even touch on its hidden realities, however. It's too unstable to do anything with otherwise, requiring life force to cast."
+
+I tapped my chin, "Huh...I'm guessing just being near the mana would cause damage to the user, right?"
+
+"That's exactly why it drains the user. It enacts damage on the mind and the body. A complete sacrifice."
+
+I rolled a hand, "I'd be robust enough to tolerate large amounts of exposure at least. Hmm...The more I think about it, staying in Schema's system isn't a problem anymore. It's actually the opposite. I'll have to consider how to split off from Schema's system. Hah, what a crazy problem to have."
+
+Plazia tilted his head up, "Our untouched, eldritchian realm is an excellent prospect for somewhere such as that, wouldn't you say?"
+
+I frowned, peering at the tiny dimension Plazia spawned. It spiraled with a stary entrance like the Milky Way spread flat over a 2-D space. I walked up to it, "Or I could hide in something like this...Assuming this is a dimension, like me."
+
+Plazia scoffed, "If you could draw a comparison, then I suppose. It lacks any qualities or laws to abide by as I can't maintain constants like that. It's merely a blank space with nothing inside it. I mean the truest definition of nothing. It is a canvas with no frame, paint, or even a physical form. It's the shadowy idea of such a thing, allowing for its creation."
+
+I popped open my own pocket dimension, the two openings parallel to each other, "It's like this, isn't it?"
+
+Plazia leaned towards the dimensional opening, "In a manner of speaking...It could be compared. You own your dimension, however. You control what lies within it, and it can even hold entities outside of the natural laws of our current dimension. The stasis property it carries insinuates as much. It holds an absence of time."
+
+I nodded before turning towards Plazia, "Alright...Let me try something real quick."
+
+I closed my eyes, trying to change what was inside the portal. I manipulated the position of the many objects stored within, from pieces of Lehesion to old books to cipheric oddities. After a few minutes, an awareness stretched out in a slow, prolonged seep. Instead of moving objects, I pulled them along with gravity. When I stopped willing it to continue, the dimension continued applying gravity.
+
+Another few minutes passed, and I created an ambient warmth inside the dimension. I gave the desolate space temperature. Hitting my stride, I granted the space fundamental aspects, like wind, rain, and lightning. None of those effects manifested, all of the forces frozen in permanent stasis. I couldn't create time, the means that all those energies needed for them to pop out.
+
+Plazia waited with patience, though he thrummed his fingertips across his throne every now and again. After a few minutes, I walked out to the gap leading to a Schema-owned space. I opened my pocket dimension, and my awareness over the warp snapped shut in an instant. However, the actual forces I planted within the area didn't disintegrate. The space altered permanently.
+
+I let out a sigh, "There's no telling what Schema's holding me back from. Damn."
+
+I pulled my hand back into the un-Schemafied territory. I wondered why these changes didn't snap up while in a far-off rift. Going with Obolis on one of his distant adventure spots should've done the same. Schema might have a tether pinned on me to hold me down even if I escaped his complete dominion.
+
+Plazia could be manipulating my access to Schema as well. I didn't know enough to say.
+
+If Plazia carried this much ability over Schema's universe, then allying with him was inevitable. He could limit me to an unknown extent, perhaps leaving me crippled if he wanted. Knowing all this, I gave the hivemind a firm nod, "We can go to the eldritch dimension as you asked, but I don't want to do it your way."
+
+Plazia leaned back, "My method doesn't suit you? Are you offering an alternative?"
+
+I tapped my chin, "Yeah. I'll just make a really long dimension that creates a genuine connection between the two places. I can reinforce the dimensional pathway with my own personal fabric, keeping it stable from all the...Hm, interdimensional energies, I guess you'd call them?"
+
+Plazia peered off, "Hm...That may be a necessary adjustment for many reasons. Normal sentients could warp under the transdimensional pressure whether they're protected by your fabric or not. Having them isolated in an elongated pocket dimension ensures safety. It's a worthy adjustment."
+
+My many minds revved into action, "You mentioned defining laws in a created dimension, right? I could make time nonexistent and have a gravitational force pull people between the dimensional spaces. They'd passively 'fall' to our space, and that would ensure they wouldn't die from old age during the journey between dimensions."
+
+Plazia grabbed the edges of his throne, cracks spreading across the basalt, "That...That saves us many constraints from the voyage. Sharp, Daniel. Sharp."
+
+I spread out my hands, "Hell, I'll make the tunnel into a living golem too. It'll be a bunch of minds made with the cipher, and they'll be like...Like transportation golems. They'll keep people safe and moving. I'll automate the whole process."
+
+Plazia tilted his head in confusion, "That...I suppose that's possible."
+
+I pointed a thumb at my chest, "For me, it is. I could even make multiple bridges between the dimensions, and if I learn about warping, I can make golems who warp people around. We can stage a dimensional evacuation on a scale of massive proportions."
+
+I gave my chest a bang with my fist, "I can have legions of my golems exploring planets near the dimensional collapse to save people."
+
+Plazia fell back onto his throne, "You could if you feel it's necessary. It's difficult maintaining a presence over many worlds, however."
+
+I gripped my hands into fists, "Not if I carry the keys to connect those worlds. I'll have to figure out how Schema's holding me down and stopping my abilities. At the same time, I'll need to know how to use primordial magic, and well, you'll be helping me, Plazia. You'll be my tutor, and we'll cross these limits Schema imposed on me."
+
+I raised a hand, primordial mana oozing out of my palm. The dense streaks crystallized on the floor like dark blue gems,
+
+"And we'll be doing it whether that AI likes it or not."

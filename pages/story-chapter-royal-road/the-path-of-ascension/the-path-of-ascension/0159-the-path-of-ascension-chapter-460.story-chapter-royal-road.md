@@ -1,0 +1,465 @@
+---
+id: 79b9eba2-bc26-54c6-bd6e-88c5e51ed1ea
+page-type-slug: story-chapter-royal-road
+title: "The Path of Ascension Chapter 460"
+slug: 0159-the-path-of-ascension-chapter-460
+partOf: the-path-of-ascension
+position: 159
+ownLength: 5883
+unit: words
+ownProgress: 5883
+publishedAt: 2025-11-28
+link: "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/2801534/the-path-of-ascension-chapter-460"
+royalRoadId: "2801534"
+markedReadAt: "2026-06-29T19:33:13.501Z"
+---
+
+Chapter 460
+
+The oddities in the breach bubble didn’t stop when they reached their next world.
+
+Not because there was anything strange on the Tier 9 world, it didn’t even have a ruin, let alone a strange realm, but because according to the connection map they were making, they were next to the high-Tier world that had given both of their Seekers bad readings.
+
+“We have a choice. Continue or venture off. Each trip across this sky bridge will cost us…” Rah probed the area of twisted and folded reality before finishing, “an hour each way, give or take fifteen minutes. We should have five to six months before anyone else can connect with the breach point world again, so we have some time alone. By that same token, we are only a few planets away from the entrance. Continuing deeper and creating more distance is a valid choice.”
+
+Rah didn't bother looking at Aster or Allie, instead he only looked at the other eight members of their exploration party gauging their excitement. Those two more than made themselves known by bouncing on their toes holding their hands in the air, clamoring to lead the team making their stances plenty clear.
+
+Ignoring them became a bit of a game as everyone else offered up their opinions but the decision was never in doubt. No one wanted to skip a world so close to their Tier this early.
+
+Their Seekers didn’t get the cacophony of warnings they did when approaching it from the other side, but they took the final portion of the sky bridge with careful steps.
+
+As color and form returned to reality, Matt spread his spiritual perception before retracting it sharply.
+
+“What the fuck!?”
+
+Allie’s exclamation spoke for all of them but none of them dared rush over to what had injured them.
+
+Instead, they firmly kept their feet planted while they exchanged glances, not quite believing what they had found nor how they should react to it.
+
+A quarter of the planet away, part of the way inside of an ordinary wooded mountain chain that could have existed on any of a million worlds, there was a hyper massive crater.
+
+The largest shock, beyond its sheer existence, was the size of the crater and how it had never filled itself in. Nearly two thousand miles deep, the crater carved through most of the planet's mantle while being hundreds of miles wide.
+
+It was almost like something had taken a bite of the world, though that didn’t explain the lingering energy.
+
+Letting his spiritual sense roam elsewhere, Matt saw his initial hunch was correct. Removing that much of the planet's mass had caused the planet's orbit to change with all of the expected knock-on effects.
+
+That at least explained the abnormal lifeforms. It didn’t tell him why there was a lingering energy that had saturated the area, nor why the energy would be able to obliterate any portion of their spiritual perception which came in contact when they started scanning the world.
+
+Cycling through his various energy senses, Matt resorted to inspecting the energy with his spiritual perception once more when they failed to detect anything at all.
+
+His own vision was better at identifying the energy than anyone else in the party was, which wasn’t saying much given its near invisibility.
+
+The only thing he learned was that so long as he didn’t touch the energy with anything, he wouldn’t hurt himself.
+
+By that same metric, anything biological that touched the nearly invisible maw of energy was obliterated. Not that nonorganic matter was treated any better. With small amounts of force, rocks and such items were repelled but with enough power it was trivial to pierce that protection.
+
+Their destruction was inevitable but much slower, the rock being able to fall for a few moments before dissolving into nothing.
+
+They couldn’t be sure, but from a test [Fireball], they suspected there was no air in the crater. How that didn’t create a vacuum was a mystery but it was only their rough speculation. The spell’s mana was torn to shreds like everything else, giving them only a few moments of visual study to come to that conclusion.
+
+Their Tier made their vision incredibly sharp but there was only so much they could learn with that medium.
+
+Both tests made for a sharp contrast when a bird was pushed by an unexpectedly large gust of wind into the energy field as it tried to flee from a ground predator. The moment even a single part of it crossed into the threshold it vanished.
+
+Aster whistled at the sight and Matt silently agreed along with everyone else.
+
+They had found something strange. Not like a strange realm, though there were two on the world, but something beyond their knowledge.
+
+Looking around, Matt found the clear demarcation line around the crater, as plant life grew as close to the crater as possible. Trees and other foliage could get close, but the moment any portion of them touched the energy, it was destroyed.
+
+The result almost looked manicured in its uniformity.
+
+Zack was the first one to have an idea. “I think it's a type of essence.”
+
+Matt wasn’t so sure but Zack’s words brought everyone out of their own speculation, which had been the point.
+
+The physically older looking man was as eager as he ever expressed.
+
+Liz stepped forward. “Let's approach and find out.” Pausing almost immediately she added, “Carefully. Let's not die to some weird phenomenon. I’ve read about them enough as a kid and would prefer to not be a footnote in a history book.”
+
+As Liz suggested, they carefully approached the crater physically, walking the distance using various anti-trap methods to ensure their path forward was safe.
+
+Initially they needed to dodge a few rifts that had long since spilled monsters into reality but they were able to travel between the various territories unnoticed and unbothered.
+
+So long as they didn’t get into a fight, that would remain true. Once that happened, they'd have to clear at least a few rifts of their leashed monsters before they would be left alone.
+
+If they weren't in such a rush, they might have decided to full clear the world before they continued on to their original destination only a few planets away.
+
+Thankfully, the same as with their spiritual perception, so long as they didn’t touch the crater energy, they had nothing to fear from it.
+
+Pulling out several types of scanners and other sensing equipment, they registered exactly nothing.
+
+Not surprising in that the energy didn’t radiate out, but it left them confused and without any direction.
+
+If they couldn’t scan, collect, or sense it, there wasn’t much they could do.
+
+After ten or so minutes of fruitless inspections, Rah finally pulled the plug. “Okay, I don’t think we are going to make any progress on this. Let’s inspect the strange realms and —”
+
+Allie’s head whipped up interrupting Rah.
+
+“What if it's a strange realm?”
+
+Allie looked giddy at the idea but as her gaze started to turn to Matt, he shook his head. “There is zero chance I’m touching that with my hand given what it's done to everything else. You can teleport inside if you are too chicken to poke it. Jump right in like it's a cold pool.”
+
+Allie then turned to Gan Le who had been doing his own investigations using a plucked strand of hair as a test. They all got to watch as it was destroyed like every other biological matter they had seen enter the energy.
+
+A single setback like that didn’t end their testing immediately but they did accept the phenomenon was most likely beyond their Tier of understanding. With their limited materials, they ended up sacrificing a few high-Tier trees to discover the energy wasn’t perfect, nor was it totally destructive.
+
+It wasn’t much slower to dissolve the huge trees but it had been slow enough that they were able to learn some things.
+
+After seeing a Tier 31 rift monster limp away from an encounter with the energy, half a limb missing but very much alive, Matt finally decided to touch the energy given that everything else failed.
+
+He started by cutting off and regrowing a finger, but like all organic matter, the energy of the crater destroyed his flesh when he tossed it inside.
+
+“Don’t be a coward.”
+
+Matt turned around on Allie and glared at her, playing it up a bit but denying the validity of her words. “Damn right I'm afraid. What if it somehow permanently destroys my spirit? I don’t see you trying.”
+
+Aster kicked Allie in the butt with the side of her foot, causing the teleporter to teleport a few feet backwards and clutch her chest as if Aster had tried to shove her inside.
+
+Given the amount of unknowns, he felt his left hand being reinforced by Stygian Gossamer, and thus near indestructible, was more of a hindrance than a help when testing the crater’s energies.
+
+Seeing that Liz wanted to say something, Matt quickly poked the tip of his right hand's middle finger into the crater.
+
+Pulling his finger back, he looked at the layer of skin that had been destroyed.
+
+[Regeneration] fixed that problem, but it did nothing for the equally destroyed underlying spirit. Luckily, he could feel his spirit starting the slow process of healing as with any other light injury.
+
+Pressing his right hand on the energy like it was a window his palm was shredded layer by layer. It wasn’t violent, it didn’t send blood everywhere, but the damage was thorough. The fleshly pain was child's play compared the injuries to his spiritual body which was annihilated just as thoroughly.
+
+Acknowledging the pain, Matt firmly ignored it, wanting to fully experience the slow feeling of his hand being disintegrated, hoping to understand what the energy was. Pushing harder, he increased the speed of the destruction but he failed to learn much with the added destruction.
+
+The energy didn’t feel like much beyond a vague impression of ‘generic undefineable high energy’. It didn’t feel like essence, mana, aura, a Domain, or any other type of energy Matt had encountered or heard about.
+
+It was more reminiscent of void mana, despite very obviously not being that mana type. The crater energy was packed with destructive power but it wasn’t inherently dangerous any more than fire was.
+
+Trying with [Cracked Phantom Armor], Matt hoped the spell would aspect to the energy type that damaged it but the spell treated it like neutral mana, unaspected, simply more destructive than expected.
+
+Pulling his hand back and letting it regrow, he collected his thoughts before sharing them with everyone else.
+
+“I can’t confirm much. Almost no feedback beyond high energy destruction of my flesh and spirit. The only thing I do feel confident in confirming is that it's not like void mana at all.”
+
+Hearing that, Captain Stenson clicked his tongue. His guess had revolved around the energy being a variant of void, given its destructive abilities.
+
+Continuing his testing, Matt kept talking. “This is pure speculation, and I wouldn’t doubt if it's wrong, but this simply feels like an intense form of energy. Like really potent and hot fire mana. It can still be fire mana, but it's practically distinct from what most people associate with the term.”
+
+Liz, who had moved to stand next to him, nodded along. “I think I understand what you are saying, though I’m not sure I agree. My instincts tell me this energy is incredibly complex.”
+
+Matt retracted his hand and Liz carefully tested the tip of a finger, only to pull back with a shake of her head. “Nothing. Like sticking my finger in a blender. I can feel it getting cut off but nothing beyond that.”
+
+Allie, surprisingly invested in figuring things out, spent a few minutes carefully confirming the boundaries of the energy field, which they were surprised by.
+
+The crater wasn’t only a crater. Instead, it was more like a cylinder with the top edge being mottled enough they believed the field might be striking from the top down.
+
+Seeing no one else was willing to try anything, Allie sat back down on her log glaring at the crater.
+
+Almost immediately, she brightened back up as she popped to her feet. “Oh you know, it feels obvious now? Who wants to bet that the sky bridge from the other world deposits you right inside that scary energy?”
+
+Even Rah, who looked like he wanted to get them back on topic, paused, his mouth closing and turning into a frown.
+
+“Anyone who disregards their Seeker’s advice, or didn’t bring one along, won’t survive to regret it.”
+
+Magnus’s words were morbid but their Seeker wasn’t wrong.
+
+Rah gestured, gathering everyone's attention. “Let's start gathering the valuables between visiting the strange realms. As this is a Tier 30 world, we should stick together and once we make a pass of the world's Natural Treasures and strange realms, we can move on.”
+
+Matt didn’t argue and neither did anyone else. As interesting as the energy was, they neither had any way to identify it, nor could they interact with it in any way.
+
+At best, Allie could make a waypoint on the planet but that would take time. Time they didn’t have to spend this soon in their exploration of the third layer planets.
+
+Only a few worlds in and they had found something this odd and there was no reason to assume it was unique in the bubble.
+
+It also wasn’t realistic they could monopolize the world, its crater, or plethora of strange realms when the others followed them into the breach in a few months.
+
+With that in mind, they put warning posts in a few conspicuous places before they started looting in earnest. He also added notes to all of them that anyone who learned anything about the energy should contact him when they returned to the Empire and he would pay handsomely.
+
+Matt doubted anyone would reach out with good information but it was worth a shot. More likely anyone who learned anything would sell it to their Great Power if the information seemed at all profitable.
+
+He did it on the off chance it worked out, but the effort cost him nothing.
+
+With only the occasional Tier 31 rift to spill out monsters two Tiers higher than them, their group moved confidently. The few times they were attacked, their rift borne opponents were quickly dealt with.
+
+The planet's other oddity was its abundance of strange realms. The strange realms were duds for their group, with most being mainly combative types or requiring more than one group. If they hadn’t been worried about wasting their advantage they would have stopped to make a waypoint but the world was old and its secrets weren’t going anywhere.
+
+Instead of lingering, they started gathering the surface world's loot while bickering over who should get to save the world’s location with [Home].
+
+Lending their assistance when they wouldn’t get in the professionals’ way, they quickly collected a few Tier 28 Natural Treasures but they only found two Natural Treasures over that threshold, which was disappointingly low for a world but within the normal ranges.
+
+Allie blamed it on the strange energy and, while she might have been correct, there was no proof.
+
+Instead the moment they saw the sole Tier 30 Natural Treasure, any disappointment they might have had with the world faded away.
+
+On the southern and coldest continent, in an otherwise unremarkable mountain valley kept unfrozen only by an ordinary hot spring, they saw a medium-sized berry bush bustling with energies.
+
+Hidden under a canopy of leaves were three thumbsized berries.
+
+Far from ordinary, each berry was bursting with a smoky vitality that made their skin seem paper-thin. More than that, they glowed to Matt’s magical senses but his Domain longed for the fruit.
+
+“A Revelation bestowment Natural Treasure. A fortunate find, and three of them at that.”
+
+Gan Le wasn’t wrong either, even if he chose to use the Sects’ term for the fruit instead of the Empire one.
+
+If a cultivator ate a Domain Fruit, they would temporarily gain a Domain stage relative to the Natural Treasure’s Tier. It was the worst type of any such Domain, equatable to what Minkalla gave Tier 14s. Additionally, the Domain stage wasn’t usable in combat, not that it lasted long enough most of the time to be useful. A Tier 30 fruit taken by a Tier 30 would have an effect lasting only a few minutes.
+
+It was very much a ‘paper’ Domain stage.
+
+Even with all of the limitations, it was still one of the most sought after types of Natural Treasures for those advancing or struggling to advance.
+
+The Domain Fruit’s main advantage was that it removed the barriers of understanding what Domain stages were needed, directly pointing the way forward for when the cultivator made their own.
+
+Matt could see how in a Realm like Rah’s original one, such knowledge would have been highly valued all on its own, but here it was well quantified and understood. The fruits were instead valued for their secondary effect. They let a person experience having the next Domain stage for a short time.
+
+If it had been a Tier 35 Domain Fruit, they would have been ecstatic but they were still very happy. Domain Fruit’s were a crucial part in most of the best methods the Great Powers had to allow Tier 35s to create Aspect’s without the risk of death. It was far from the only way, but the value of the fruit would have shot up a few orders of magnitude if they had met that threshold.
+
+Amusingly, if they sold the bush to the Empire, the fruits would still probably get eaten by people using the Empire's other methods. Even if the fruit was five Tiers lower than the cultivator, there were ways to boost a Natural Treasure’s power. They were often more than merely monetarily expensive, but to create a Tier 35 with an Aspect, any price to help was considered worth it.
+
+Only top level elites were even eligible for such treatment but the Great Powers always wanted more. They would happily buy any such Natural Treasures at a premium no matter the amount of supply.
+
+Allie rubbed her hands together, only to have Aster grab her wrists and forcefully keep the teleporter's hands pressed together.
+
+“No tasting the super expensive Natural Treasures!"
+
+“I wasn’t going to do more than take a deep breath. Maybe a small nibble.”
+
+Allie pretended to struggle but Arden and Katya, their harvesters, looked horrified at the idea of eating that valuable of a Natural Treasure solely for flavor, so she stopped reaching for it.
+
+It took almost ten full minutes for the two harvesters to create a proper habitat for the bush but they managed it without any serious mishap.
+
+The tension that had built while the two worked faded as they confirmed the bush and its fruit properly preserved.
+
+Matt wasn’t too tempted by the treasures themselves. He’d use one if offered, but he’d much rather sell it and get something more directly useful to himself.
+
+While he never took pride in what his Talent gave him, his mana, he had no illusion that he was anything but well above average when it came to Domains. He doubted he’d need the help the Natural Treasure could provide, but that didn’t mean the others wouldn’t, and with only three available, hard choices would need to be made.
+
+He would prefer to sell and avoid those choices but he wouldn’t fight for one of the fruits if someone else wanted to keep and use it internally.
+
+With only a few backwards glances at the still unidentified energy, they left to continue deeper into the breach.
+
+When the breach opened up, others would have their chance to figure things out. If not, they could always come back on the Unsparing once the bubble popped and the energy levels lowered to something their second layer ships could handle, as Captain Stenson used [Home] on the world to save its location.
+
+The next two worlds on their path were fairly ordinary, feeling almost like a letdown when compared to the previous one.
+
+The first was only Tier 4, while the other was Tier 19. Neither had anything unique so, after grabbing the Natural Treasures, they left.
+
+The next world, their initial target, was exactly what they were hoping for.
+
+A Tier 32 world with a strange realm they could enter.
+
+There were in fact two strange realms exactly as they’d predicted. One was Tier 28 with the second being a much higher Tier 31.
+
+Many Seekers had identified the world as one of interest before they had entered the bubble, though some of the teams who took their deal had tried to obfuscate the information to greater or lesser extents. Admittedly, there was some expected variance, given the peculiarities and specialities involved in being a Seeker, but being able to compare the reports with the Corporations team who had unabashedly given them everything made any irregularities stand out like sore thumbs.
+
+This planet had the most teams trying to hide its existence, which was why they had beelined for it. It could have been a carefully orchestrated distraction but the existence of both strange realms fulfilled their expectations.
+
+With most of their group being Tier 30s or close enough to it, they were able to remain undetected as they flew to where they felt the Tier 31 strange realm was only a quarter of the continent away.
+
+They didn’t fear a fight with monsters three Tiers higher than them, but doing so before clearing the strange realms was foolish. Strange realms weren’t fragile, but neither were they particularly sturdy, and a fight could destroy one.
+
+The strange realm was on the edge of a receding desert, though it didn’t seem like the cause of either its growth or shrinkage. At thirty feet tall, the Tier 31 sphere was a perfect real-time map of the planet they were on, including little visuals of themselves standing next to the tiny formless dot that was the strange realm on its own surface.
+
+At least visually.
+
+In reality, it was made a strange realm and no more real than a rift, simply made out of a more complicated mix of energies.
+
+Touching the strange realm, Liz let out a sigh. “Bust again. Competitive strange realm. Many can enter but only one can come out, and you can't enter alone. How original.”
+
+Moving onto the second strange realm, their luck finally turned around.
+
+A circle of stones driven miles into the ground and reaching miles into the sky on otherwise flat grassland, the Tier 28 strange realm made its presence known well before they arrived.
+
+Hand still pressed onto one of the too thin stones, Liz said four words before she vanished. “Solo. Safe. Good luck!”
+
+Reaching out, Matt quickly touched the strange realm and connected with it.
+
+Seeing things were exactly as Liz said, he let himself be pulled inside along with everyone else.
+
+***
+
+Matt walked down a pier with Liz, hand in hand.
+
+It was a cold autumn and the chill penetrated through his windbreaker but nothing matched the feeling of dread in his stomach.
+
+Once they reached the end of the pier, Liz turned to face him pulling him to face her via their still joined hands.
+
+His wife looked like she was going to cry as she forced out, “I know this is going to be difficult. I—"
+
+Matt pushed.
+
+Not with his magic— he didn’t have any magic— but rather his mind.
+
+His lessons with Max to better integrate his [AI] with his thinking mind, combined with his own mental work to better resist the urges of his nascent Truth, made seeing through the mental influences instantaneous.
+
+Like a sledgehammer hitting a window, the illusion shattered and a small amount of power seeped into him.
+
+Once the thought was had, the falling planes of reality started to shatter, creating more and more fragments of the world that had been. It left him in a circle of light in an empty field of nothingness.
+
+Stepping forward, Matt moved off his circle of light, his circle of safety, and fell.
+
+As he plummeted to his death, he twisted to see the light. Not by his own will but because he knew that once he could no longer see the light, he would perish.
+
+Focusing his mind, Matt stood before a door of light. If he wanted to complete this strange realm, all he had to do was step through its radiant arches.
+
+Matt looked around himself carefully, controlling his mind, having learned what portions of the mind the strange realm was pulling influences from.
+
+When he did so he felt a new compulsion form and grow as the strange realm tried to find a way through his mental defenses.
+
+The attempt was almost laughable.
+
+Artificial anger flooded him at its temerity but he quashed the outside influence.
+
+“So it's about resisting temptation? Maybe knowing myself? Is i—”
+
+Matt caught himself as he started to be pulled deeper into the strange realm’s illusion.
+
+At this point, he had no idea what the strange realm was testing for. Breaking out of the first illusion had only put him in a larger illusion, if it had done anything at all.
+
+Focusing inward, he looked for any indication he was still under an illusion.
+
+He couldn’t see anything but that didn’t mean there wasn’t a lingering or hidden effect. If so, the strange realm was unequivocally better than him and there was no competition.
+
+Which didn’t make any sense.
+
+Strange realms like the one they had found were tests. Complicated tests to be sure, but there had been no risk to his life and all he had encountered were mental illusions so far. At the same time, resisting the mental urges didn’t seem to be the answer like he initially thought.
+
+Picturing the original setup, the younger Liz, the pier, the ocean, Matt imagined it all, and around him reality warped.
+
+Feeling things snap in place almost as if he had fallen into a groove, Matt let the scenario play out.
+
+Liz broke up with him, repeating clichés about how ‘this is how it has to be’ without any clarification, trying to make him invest more.
+
+It—
+
+Matt froze as he thought he realized what the strange realm was testing for.
+
+Investment.
+
+It wasn’t so much testing if he could break out of the illusion but rather wanted him to create the most realistic illusion he could. If he was right, only then then would breaking out count.
+
+Already seeing the twist, Matt didn’t hesitate. He built the most realistic situation he could, letting the world form with excruciating detail only possible thanks to his decades of mental control exercises.
+
+When he was exhausted, when his mental energy was at its weakest, the strange realm packaged him and his creation together.
+
+***
+
+Standing before the Realm’s strongest individuals, Matt met their gazes filled with only hatred.
+
+His body was broken, healing but slowly, his willpower reserves long having bottomed out and needing to fully recharge before he could use any of its related powers again. That would be centuries from now, given how large his willpower pool was, but none of it mattered now.
+
+Not that his body's health would help him in any way.
+
+They had lost.
+
+Now the victors marched. Each had their own reasons, their own justifications, their own entrapments, but they all came with the same thing.
+
+Cages, shackles, methods to restrict his freedom, some obvious and others subtle.
+
+“Accept an offer. With Emmanuel dead, your friends and family captured, l see no reason for you to remain stubborn. Your insubordination must come to an end.”
+
+Virgil’s words sounded like honeyed wine but the look in her eye was nothing less than the most concentrated poison.
+
+Aoife withdrew a device. “Why bother? Lobotomize him and be done with it. He's already proven he isn’t willing to serve. It’s less efficient and we lose access to his Tier 25 but who cares.”
+
+Tobias raised his turtle head, sneering down at Matt. “Agreed.”
+
+In that word, his fate was sealed and Matt felt powers greater than his own reach in and snuff out his mind as if it were nothing more than a spent candle.
+
+Their unimaginable power encountered his mind and cracked it.
+
+[Regeneration] healed him. Or it tried too. His mana slowed down with each passing moment as the Tier 50s carefully pressed his spirit, trying to wear him down and make him submit.
+
+Accepting his torment, Matt felt his mind battered. He felt like a lighthouse in the middle of a storm.
+
+It all came down to the work put into the structure. The craftsmen who originally built it, the maintenance crew who came by every other year to do major repairs, the other lighthouse keepers who put their own efforts in big and small.
+
+It was a battle of everything that came before against the worst the Realm could bring to bear.
+
+They were found wanting. Under the relentless assault of waves as tall as the lighthouse, the past efforts were found wanting.
+
+Water started to seep inside.
+
+Concrete that was haphazardly mixed and normally without tolerances found itself outside its comfort zone. It cracked. Then it crumbled.
+
+It took time.
+
+More than days, years undoubtedly. Not that it mattered, the assault could have easily lasted decades, centuries, even millennia. But in the end, they found a crack.
+
+Once that occurred, everything started to crumble and the end was inevitable.
+
+The lighthouse fell into the ocean, pulled down and smashed by the relentless waves.
+
+In its place, alone on a desolate rock Matt sat, letting himself be splashed and battered as the storm raged on around him.
+
+No matter how much the waves battered at him he persisted, never giving in.
+
+Feeling a change, Matt opened his eyes to see the world entirely frozen.
+
+Speck by speck, the world started to lose cohesion until, like a dried out sandcastle, it collapsed under its own weight.
+
+Reality crashed around and on him. He remained untouched.
+
+Matt wasn’t aloof, beyond the strange realms test, rather it had run out of energy.
+
+The test was over not because he had necessarily passed, but because the test couldn’t continue.
+
+If the strange realm would take donations, he would have loved to charge it back up, but he wasn’t so lucky.
+
+When his testing came to a premature end, Matt felt himself being ejected from the strange realm. The fact he could feel the process was mildly concerning given that it was normally instant.
+
+Everyone was already waiting for him so he didn’t react to their queries of what took him so long, instead checking on the timer they had left outside.
+
+Only a week had passed inside.
+
+Instead of fielding his friend’s questions, Matt turned around to face the strange realm. As he watched, the mile long stone pillars faded away.
+
+They didn’t crumble away, they didn’t dim and turn lackluster, the stone pillars simply vanished over the course of a few seconds.
+
+Turning back around, Matt tried not to be smug. “So, who was everyone else’s strange realm?”
+
+Aster chortled and he appreciated her getting his double meaning.
+
+Liz didn’t bother waiting and directly asked, “What did you do in there?”
+
+Matt turned the question around on them. “It might be easier if you guys start with what you did.”
+
+As it turned out, their strange realms weren’t nearly as strange as his.
+
+They had only bounced from illusion to illusion, breaking them and moving onto the next, trying to advance as quickly as possible.
+
+Sharing his strange realm experience, Matt finished with his reward, presenting it for everyone to see.
+
+A single vial of mercurial liquid whose every movement seemed delayed by a heartbeat or two.
+
+It was a vial of memory erasure liquid and could, at the cost of it being irrecoverable, strip a person of a single memory.
+
+Even after the torture session he endured, Matt didn’t consider using the potion at all. Honestly he was fairly sure the potion was…
+
+Matt looked down at the potion and smiled as the world around him shattered, flaking away like ash carried along by the wind.
+
+Finally, Matt felt a power well up inside his cultivation core, inside his Domain. Line by line, he watched as a new Domain power started to etch itself onto his Intent, similar to what Minkalla was able to do.
+
+Unable to compare the two beyond generalities, Matt simply relished the opportunity to observe the strange realm at work and tried to learn everything he could while understanding only the results.
+
+When the process finished, Matt found himself once more standing outside the strange realm.
+
+Checking in with the timer, Matt saw he had only been inside for a single day and no one else made it out before him.
+
+Seeing no reason not to test it out immediately, he activated his new Intent ability.
+
+The willpower drain was higher than Matt would have liked but he paid it without blinking.
+
+Power built before a pulse of gravity flowed through his surroundings. It faded almost as quickly as it had appeared, but he closed his eyes letting the feeling linger like a flavor on the back of his tongue. He took in the new sensations and tried to piece together what they did as well as what they wanted to do.
+
+Fairly confident in what his new Intent power did, Matt created an illusionary table set next to himself before activating the Intent ability once more.
+
+The illusion reverberated as his new gravity-based sense latched onto the inconsistencies in the illusion. Not being Aster his illusion wasn’t great, but each and every fault was highlighted like a scar on the illusion, visible not to his eyes but the lingering power from his new ability.
+
+The overall effect made the illusion very noticeable. Confident Aster would understand this new power better once she exited the strange realm, he only tested the obvious, more than pleased with the results.
+
+As far as he could tell, once an illusion was affected by the Intent ability, its flaws remained obvious no matter how much the illusion was twisted, melded, or split. The only way he figured out how to remove the tracking effect was to fully cancel the spell.
+
+For lower-power illusions that had either short cooldowns or were Domain-based, that was a minor weakness. For more powerful last resort spells, with cooldowns counted in days or longer, the Intent ability would seriously hinder their effect’s unless the caster could manually undo the tracking effect in the middle of a fight.
+
+Unable to remove the smile from his face, Matt decided to take advantage of being faster than everyone else and went back to working on his mana tests.
+
+He had new ideas he wanted to try and what better time than now after his victory over Aster?

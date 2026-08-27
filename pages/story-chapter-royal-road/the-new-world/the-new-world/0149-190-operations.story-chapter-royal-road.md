@@ -1,0 +1,271 @@
+---
+id: fbff3f58-006c-5d34-a18d-02b4d3d288d0
+page-type-slug: story-chapter-royal-road
+title: "190 Operations"
+slug: 0149-190-operations
+partOf: the-new-world
+position: 149
+ownLength: 3144
+unit: words
+ownProgress: 3144
+publishedAt: 2019-03-14
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/342737/190-operations"
+royalRoadId: "342737"
+markedReadAt: "2026-06-29T21:25:55.010Z"
+---
+
+As Torix rested, I walked over towards Althea, finding the room still in chaos. I leaned over, seeing the assassin's face still intact. It was unusual since I killed the assassins most of the time. When I did, the face was usually the first thing to go. Most often because I punched it.
+
+Anyways, I sat on the bed beside her, manipulating my mass, so I didn't crush the thing beneath me. I laid a hand over her shoulder, and Althea leaned against me. She shook her head,
+
+"Damn. The bomb was so close this time. My head got blown away, so I'm kind of woozy still. I was able to get in contact with Helios though."
+
+I squeezed her to me, "You did great. Can you answer a few questions though?"
+
+Althea let out a breath full of air, "Uh, yeah. I can do that for sure."
+
+I pulled myself from her, letting her sort out her thoughts. I pointed at the assassin, "Do you know who she is?"
+
+Althea shook her head while Torix walked into the room. The lich brushed himself off,
+
+"I'm ready to continue our inquiry. How are you doing Althea?"
+
+Althea stood up, "I'm fine. I got rid of the assassin. Don't know who it was though."
+
+Torix nodded, opening his status, "Well, the humanoid body and three spikes protruding from her spine lead me to believe she was an Elektra. They're a rather nomadic species with a knack for assassination. I'll see if her face isn't registered in some database somewhere...wait a minute."
+
+Torix's fire eyes flared brighter, "She's Jockovia Nitch. She's a capper trying to unlock her class after graduating at an academy on Boracosta. She's been a nomad for the last decade according to her social media. Hmm..."
+
+Torix shook his head, "After reading her last few posts, it seems she's been growing desperate to unlock her Breaker class. She must have chosen us as her victims due to our unknown status. Perhaps someone tipped her off..."
+
+I opened a palm to Torix, "Wait, why would she kill us to unlock her class?"
+
+Torix balanced a hand, "Most sentient unknowns are considered easier to handle than the equivalently leveled eldritch unknown. This makes unlocking a class simpler if you just find an unknown that's relatively squishy. Jockovia likely thought a bomb ought to do it."
+
+Althea crossed her arms, "If you think about it, our disguises weren't the best either. You're being broadcasted on a galaxy-wide stream too. There's bound to be some people who've discovered our identities already."
+
+I detected a bit of an accusation in her tone, so I rolled my eyes, "Your disguise is a thin sheet of cloth that's almost see through."
+
+Torix shrugged, "And why did they do it? To look cute."
+
+Althea's head dipped down. A pang of guilt ran up my chest, so I laid a hand on her shoulder, "I'm just saying that we can't, er, point the finger at anyone. Besides, now's not the time to be placing blame. Let's, uh, move forward instead, alright?"
+
+Torix dragged his hand down his face, "Right...My fault in judgment. To the task at hand...What is the task at hand?"
+
+I cupped my chin, "So, what we need to do is get this disk decrypted, set-up a meeting with Helios to give him the lowdown and figure out where the final Skyburner base is at. And beat the tournament. And probably kill Thisbey and Lehesion. All that in about a month and a half."
+
+I leaned my face into my hand, "Fuck."
+
+Torix scoffed, "By Baldowah, you make it sound so easy when you say it like that. Kill a god while fixing a world in less than sixty days. It should be the title of a game show."
+
+Althea looked up, "Uh, I can get the talk with Helios done if you like."
+
+One of Torix's eyes flared, and the other narrowed. It was as if he was raising an eyebrow,
+
+"How did you get in contact with Helios?"
+
+Althea shrugged, "Caprika gave me his contact info. That's how I sent for him to help Caprika in the first place."
+
+Torix looked back to the scorched room we stayed in, "It's rather apt of her to do so. That monster can create interplanetary wormholes. The furthest I can manage is a portal spanning several hundred meters at most."
+
+I grimaced, "Those medical personals where albony. I wonder how far away the portal was?"
+
+Torix shook his head, "Many light-years no doubt."
+
+Althea let her hands' flop on her sides, "How common are powers like that? Are there just world enders everywhere?"
+
+Torix tsked, "Not everywhere, but that kind of potential is more common than I'd like to imagine, unfortunately. Now, I believe the first order of business is finding Kessiah before we set up a base of operations elsewhere. Putting it lightly, our position has been compromised."
+
+I gestured a hand to the group, "How about I just burrow us out somewhere in the middle of the forest? We can hunt for food, and the lodging wouldn't be much worse than here."
+
+Althea yawned, "Do we have to live under dirt again?"
+
+Torix clapped his hands once, "In fact, we do. Daniel, go and find that new base location. I'll collect Kessiah and rendezvous with the new coordinates. Althea, get that meeting set up and give us the times if you could."
+
+Althea let out a joyless laugh, "Just like old times. Living in a cave."
+
+I spread out my arms, "Oh come on. It's not so bad. It'll be nostalgic."
+
+Althea sighed, opening her status, "If you say so. I prefer having a bed though."
+
+I turned to Torix, "It'll take me an hour to make the new base. I'll send you the new coordinates then."
+
+Torix nodded, forming a portal beside himself, "Then we'll meet in an hour. Good luck." He towards the corpse of the assassin while flipping open his grimoire. After channeling some mana, the fleshy bits of the would be Breaker condensed into a jiggling circle.
+
+"I'll take care of the evidence as well. We can't have any news outlets knowing who the assassin was. Otherwise they might connect the dots and realize we're unknowns."
+
+Althea scratched the side of her head, "That's kind of...gross."
+
+"Why waste these resources? I'm a necromancer after all." Torix stepped towards his portal, "Hmmm, wormholes...perhaps I should learn the same skill."
+
+Torix walked through the portal, leaving Althea and me alone. I gave her a thumbs up, "You did damn good killing the assassin like that."
+
+Althea grimaced, "I'm just glad Kessiah wasn't here. She'd have died instantly with her level being low as it is."
+
+A shiver ran up my spine hearing that. Kessiah was the only one among us that wasn't level capped at this point. Hell, she and I were the only people in our group that lacked a class.
+
+I shook my head, "Damn...That's true."
+
+Althea raised her eyebrows, "You know, sometimes I'm glad Yawm used Etorhma's Tears on me forever ago. It's why I'm alive."
+
+I shrugged, "It's why you're hunted."
+
+She shook her head, "Yup, but after we get rid of our damn unknown statuses, it will be a good thing."
+
+I put my hands on my hips, "How did Helios find out about your unknown status?"
+
+She pointed at the singe marks on her clothing, "Well, I didn't have time to dress again before calling him. Caprika's a good friend, so I was willing to risk it."
+
+"It's kind of crazy you still have an unknown status after becoming a Breaker too, isn't it? You're like Schema's police force. It's weird that you're still hunted."
+
+Althea shrugged, "I mean, if you cleared your bounties and unknown status after getting a class, anyone could commit any crime. If you think about it, you could murder thousands of people then have it just washed away  just like-" Althea snapped her fingers, "that."
+
+I raised my eyebrows, "Hmmm, it would be a pretty potent loophole."
+
+Althea waved a hand, "Yeah when I researched it, it was like...a classer gets a quest to clear his bounty, but here's the catch; the worse your crimes, the harder the quest becomes...or something like that."
+
+She waved her hands back and forth, "So it, uh, balances itself out or something. I didn't research it a ton or anything. I'm just telling you off memory."
+
+I shook my head, "No, I think you got a good handle on the concept. That sounds about right. Makes a lot of sense too." I turned towards the exit, "We should get out of here before something else happens."
+
+As I turned to walk out, Althea grabbed my arm, "Hey, I'll send a message to Kiki Mosk about our change in living arrangements too."
+
+I glanced at her, "Why?"
+
+"So you're entering the quarterfinals in the next fight. They want to do a prefight interview with your opponent."
+
+My shoulders drooped, "Wait...an interview?"
+
+Althea smiled, "Yup."
+
+I looked up at the sky and spread out my arms, "Noooo...my ultimate weakness."
+
+Althea giggled, "I figured you'd say that. Good luck, deary."
+
+I scoffed, "Oh thank you so much for your compliment love."
+
+She looked up at me with a cheeky grin, "Anytime."
+
+I pulled up my face mask to give her a kiss as we left. We split up after that, letting her hide for her messaging. I flew down the side of Rivaria's mountain. After a few minutes, I passed the stadium where the Honoring of Lehesion was held. Once at the bottom of the slope, trees came back into view.
+
+I found a dense cluster of them, finding a rooted hallow under a massive, fan-leaf tree. The leaves of it looked like elephant ears, giving it a substantial reach compared to most plants. Top that off with the premade entrance for a cave base, and it was a winner winner chicken dinner in my book.
+
+Terrible phrases aside, I burrowed beneath the hollow of roots, creating a staircase. As I did, I melted rock, reshaping it into steps. Before going more in-depth, I removed my gray disguise. I tore strips of my skin off, melting and shaping the metal into arcs. I used these as structural supports. I also embedded tall pillars of my darkened armor, reinforcing the dirt.
+
+New Skill Gained! Construction(lvl 1) - You choose to reform nature to do your bidding. Enhances constructional integrity by 1%.
+
+I appreciated the extra skill but forged onward. After fixing up a spacious hallway, I created a glowing ball of metal above me like a torch. Using its light, I etched a diagram planning out the rest of the rooms. With a plan in motion, I stood up and got to work.
+
+Engineering(lvl 1) - By using your knowledge, you craft innovation into your creations. +1% to planning speed of structures. -1% to structural faults while creating structures.
+
+The skill creation tree was still paying dividends. I got back to the job at hand, putting my skills to use. Turns out, gravity magic and heating magic were a potent combo for construction work. Who'd have guessed?
+
+Fifteen minutes in, I already cleared out a room with high ceilings. I coated the insides with a layer of molten rock found nearby. I even let the rock cool slowly, making it stronger than if I chilled it quickly. Every time I ended up snap freezing the lava I made, it turned the stone into obsidian. While sharp, obsidian didn't make for useful building material. It was brittle, like glass.
+
+So I let it cool over a few minutes, forming it into a crystalline granite. Combining the coating with my metal supports, and the base was more like a bomb shelter than a forest base. Considering Althea's complaints, I sculpted portions of the walls using Star Forger.
+
+With the majority of the job finished, I figured I might as well enjoy the rest of the project. I ran through the forest, finding several kinds of stone. I carried them back, melting them into giant blobs of glowing lava. With those as my resource, I created pillars of marble, floors of glass, and decoration of shale.
+
+In an hour, I constructed a building with actual depth, much better than our old room. It was fun making it and seeing just how much I could get done in that hour. I ended up sending the message for everyone to come back, but I kept working as they were coming. I wanted everyone to be impressed.
+
+After all, I had the reputation of a complete brute. Shattering their expectations seemed more than a little satisfying. With that in mind, I finished the doorway by marking it with a few runic enchantments.
+
+I did so for every room, even going so far as creating a barrier around the entire underground base. I charged the rune with mana, overdoing it quite a bit. I wasn't about to let someone come here after the bombings. I'd know they were here, and I'd grind up their limbs and choke them on the mush before I let them hurt Althea again.
+
+Dark thoughts aside, I placed a few charged ambers around the base from my dimensional storage. They gave off a lovely golden light, putting me at ease as I walked in. I finished that last part just as Althea showed up. As she did, she walked up to the doorway with her shoulders slumped,
+
+"Yup. Another base in the dirt."
+
+I shrugged, playing along, "What else did you expect? I'm a fighter, not a base maker."
+
+She winced, "Oh man, there's going to be creepy crawlies and roots on the roof, aren't there?"
+
+I weighed a hand back and forth, "Something like that."
+
+As we walked down the steps, her jaw went slack. She gawked at the artistry I managed to cobble together, a looked of glee in her eyes. She ran around the place, finding the same fixtures in all five of the bedrooms. Althea ended up running up to me and punching my shoulder.
+
+I rubbed it, pretending it hurt as she put her hands on her hips, "What the hell! Not a base maker, huh..."
+
+I smirked, "Oh really? I didn't think you'd be impressed with just this. I whipped this up real quick after all...And I heard someone was dreading a cave base again. I figured I could put some effort into it."
+
+She laughed, hugging me to her, "I love you so much. Thank you."
+
+I hugged her back, "You're welcome, and I love you too."
+
+My runic enchantments flared, warning me that someone was here. I skulked up the steps, looking around. Torix hovered over the base with Kessiah landing beside him. They found me at the entrance, Torix floating over,
+
+"Ah, this location will suit us nicely. Hidden and relatively close to the tournament grounds."
+
+Kessiah walked up, her eyes glassy. I turned a palm to her,
+
+"Hey, Kessiah...You alright?"
+
+She sighed, "Yeah. I couldn't believe another bomb went off though. Kind of...took me by surprise."
+
+I raised an eyebrow, "Why? Seems pretty normal to me."
+
+She shivered, "I'd have died if it almost killed Caprika."
+
+I tapped my teeth, tsking under my helmet. Kessiah wasn't the most practical person, but she was grounded when it counts. She realized how close to death she came. I waved my hands, "Eh, you'd have been fine I'm sure. I wouldn't stress about it too much."
+
+Kessiah rolled her eyes, "Yeah, coming from Mr. Immortal, that's easy to say."
+
+I frowned, "Yeah, you're going to be just fine."
+
+Kessiah nodded, "Yeah, I'll be alright. I just need to...rethink a few things. I mean for Schema's sake, Torix got a fucking class. I got to start moving before I'm left behind."
+
+Torix leaned to her, "Left further behind."
+
+Kessiah rolled her eyes while Torix pointed at the entrance,
+
+"Banter aside, would you mind showing us the inside? Time is of the essence."
+
+I turned and shuffled down the steps while waving them over, "Come on in."
+
+They both walked down, Kessiah mumbling, "Woah, I haven't even found a family of roaches yet. Yay."
+
+I waved a finger, "You haven't seen anything yet."
+
+They walked down into the expanse, Kessiah whistling, "Woah, you really outdid yourself with this one. This is almost as nice as the hotel room."
+
+I shook my head, "No plumbing or electricity here though."
+
+Torix shrugged, "It matters little. Basic investment into endurance and constitution makes us nigh immune to discomfort from the environment. Water will be the only issue, and I can solve that with a bit of origin magic."
+
+I pointed at the rooms, "Cool. That's where you guys will be staying. The rooms are all the same besides Althea and mine. It's bigger since there's two of us."
+
+Kessiah propped her weight onto her hip, "Is there anything to do out here?"
+
+Torix patted her shoulder, "I'm certain a cave-woman like you can entertain yourself with sticks, stones, and probably the mud as well."
+
+Kessiah crossed her arms, "Hah, hah. Funny."
+
+Althea raised a hand, "Hey, everybody."
+
+We turned to her. Althea pointed at the center of the room, "So uh, Helios is going to be here soon."
+
+Torix raised an eyebrow, "Could you contextualize soon for us. A day, a wee-"
+
+A portal appeared at the center of the room. Helios walked out of it, his head almost scraping the ceiling. The amber glow brandished off his cape, his fur jutting out from around his neck. It gave his clothes a comfortable vibe, making them look hella comfy.
+
+Helios glanced around, inspecting my handiwork. He nodded his head up and down slowly, "Well...This isn't the shanty shack I expected. It far exceeds the provisions offered by the gialgathens here in fact. Did you make it, sorcerer?"
+
+Torix shook his head and pointed at me. Helios scoffed, "Multi-talented aren't you?"
+
+I crossed my arms, "You wanted to know about us, right?"
+
+Helios raised a hand, a crackling sound spreading around us. As the air turned blue, he coalesced the atomic energy and snapped his fingers. From beneath him, azure spines of ice rose up and created a throne for him. He sat down on it, leaning onto a hand like he was a king,
+
+"Tell me everything."
+
+I pressed the gray square over my armor, lying not an option here. As the disguise came off, Helios rose up off of his icy throne and laughed,
+
+"Well, well, well...Do my eyes deceive me here? The killer of Yawm was right here under my nose all along..."
+
+I spread out my arms, the gray square for cloaking me in hand,
+
+"It's the Harbinger of Cataclysm in the flesh."
+
+Helios steepled his fingers and leaned forward,
+
+"Interesting."

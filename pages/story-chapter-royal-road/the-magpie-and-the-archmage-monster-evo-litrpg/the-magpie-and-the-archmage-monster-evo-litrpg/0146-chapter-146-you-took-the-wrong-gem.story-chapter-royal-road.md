@@ -1,0 +1,151 @@
+---
+id: 32b351df-a509-50b9-8733-29cadcbd0a8a
+page-type-slug: story-chapter-royal-road
+title: "Chapter 146 – You Took the Wrong Gem"
+slug: 0146-chapter-146-you-took-the-wrong-gem
+partOf: the-magpie-and-the-archmage-monster-evo-litrpg
+position: 146
+ownLength: 2017
+unit: words
+publishedAt: 2026-07-13
+link: "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3669539/chapter-146-you-took-the-wrong-gem"
+royalRoadId: "3669539"
+---
+
+Initially, Liora flew fast despite the aches and pains that plagued her body. She felt like Renir was barely within the working distance of Treasure Sense. Or perhaps it was better to say that Liora had already long passed that distance, but her unyielding will to find Renir was pushing the skill past its intended limit. It wouldn't be the first time she had done something like this with Treasure Sense.
+
+[Your skill <Treasure Sense> has reached [Expert] level.]
+
+[Treasure Sense — At [Expert] level, no treasure can escape you. The radius of the skill and the precision with which you can locate your chosen treasure is vastly increased.]
+
+Liora just barely suppressed a victorious "chak-chak-chak". Even the System wanted her to find Renir. Find him, she shall.
+
+As soon as the skill leveled up, her understanding of where Renir was instantly improved. In fact, Liora opened up her map. She could basically pinpoint where Renir was—heading towards the nearby town of Coralia. The thief no doubt intended to hide among the humans there.
+
+But nothing could hide from Liora. Not anymore, and not when her most precious treasure was involved.
+
+She flew at a fast pace as she narrowed the distance between herself and the thief, and then turned into her magpie form. The difference in size was almost jarring. It was only thanks to the fact that Liora had lived as a magpie for years that she didn't find the sudden transformation disorienting.
+
+However, her magpie form was so much more discreet. The mage certainly wouldn't be suspicious of a little magpie. He would expect a giant black bird. It would make her ambush so much easier.
+
+Unfortunately, the thief was no slouch. He must have used his short-distance teleportation a few times to get away from Liora faster, because he actually managed to reach the town rather quickly. At first, she had hoped to catch him just outside of town, but that didn't seem to be possible.
+
+Okay, we'll be doing things the hard way then.
+
+While Liora would rather not make a spectacle of this whole matter, if it meant retrieving Renir, she would do whatever was necessary. Even if it meant the whole town witnessed her possibly murdering a certain mage. If he worked for the Night Order, then it would be well deserved.
+
+The view in Coralia was not quite as Liora had expected to see. She thought it would be similar to Abylport—a large city with warehouses at the port and people working at unloading cargo. Bustling streets filled with market stalls and likely an adventurer's guild somewhere in the middle of all that. She meant Abylport after it was cleansed of corruption fog, of course.
+
+But Coralia was completely different. As Renir had said, this was clearly a place meant for tourists. And not the middle-class kind, but rather rich tourists. A fancy promenade street with elegant stalls that sold jewels, beautiful cloth, and delicate snacks stretched all along the coast.
+
+Restaurants could be found on every street with elegantly dressed waiters serving people on the terrace, and large mansions in a unique style were built as resting places for the tourists. Had Liora not been on a mission to retrieve Renir, she would have loved to look around and maybe snatch a thing or two from some of the stalls.
+
+But there was no time. The thief was heading deeper into the town, so Liora followed after him. It was easy in her magpie form. Although it was still light outside, nobody was paying attention to a small bird flying through the town. Some kids may have looked at her curiously for a moment, but that was it.
+
+Magpie form truly is the best. No matter how strong dracoryx is, there's no way I could have gotten into the city unnoticed.
+
+Soon, the streets changed as the thief headed into the side alleys. Liora had almost caught up with him. There! The mage wearing dark robes, which she had come to associate with the Order of the Night King, was standing by some very dilapidated building, talking with a bulky man with a large scar over his eye.
+
+This was not a place for upstanding citizens. But more than that. Liora couldn't let this guy get inside and likely reunite with other mages from their rotten order.
+
+"Let. Me. Go!" Renir's muffled voice came from a small sack that the thief mage was holding.
+
+"What the hell was that?" The man with the large scar questioned.
+
+"You buffoon, this is an urgent matter. Let me inside!" The thief mage spat.
+
+"For the hundredth time, you must tell the password!"
+
+"I already told you the password!"
+
+"The password also includes a toll!" The scarred man persisted.
+
+"You greedy ingrate! I'll make sure that you're going to be fired the moment I get in there!"
+
+"All the more reason for me not to let you inside, innit?"
+
+The mage's hand flared as she saw magic building up there. Liora decided to act. She used Decoy Fade, which now left a sneaky afterimage of a curious magpie lingering on the rooftops. Meanwhile, the real Liora transformed into her dracoryx form, her talons poised to turn the mage into a thinly sliced human.
+
+To her surprise, her talons collided with an invisible wall of some sort, which produced a horrible screeching noise as she tried to dig her talons into it.
+
+"What the—" The mage, likely feeling a disturbance, tried to get back, but found himself squashed inside his protective barrier.
+
+Liora's Faded disappeared, revealing her huge form to the mage and the scarred guard, who jumped back with a start.
+
+"Call for reinforcements!" The thief snarled.
+
+For the first time, Liora actually managed to take a proper look at him. Another man with a bald head, albeit this one looked much more pleasant to the eye than the last bald Night Order mage Liora had encountered.
+
+"You will not call for anyone!" Liora hissed and, with as much strength as she could muster, whipped her tail at the guard.
+
+To her own surprise, the strike was so powerful that it actually knocked the bulky man out. It wasn't a fatal blow, but it was enough in this scenario.
+
+[You've unlocked a new skill <Tail Lash>.]
+
+[Warning: You do not have enough free skill slots. Choose a skill with which to replace <Tail Lash>.]
+
+Not now!
+
+The magic that was bubbling in the mage's hand was about to explode straight at Liora, not giving her any time to study the system notification properly.
+
+"DODGE!" Renir screamed, and Liora released her hold on the mage, flying up to avoid the fireball.
+
+However, instead of trying to attack Liora, the mage jumped over the unconscious guard and hurried inside the building, slamming the door behind himself.
+
+The door was hardly an obstacle for Liora. She dug her talons into the wood and pulled it out, hinges and all. She then turned to her magpie form and swiftly dove inside the building.
+
+The inside looked like one of those nasty medieval pubs filled to the brim with criminals. The air stank heavily of alcohol and something sickly sweet that Liora didn't quite recognize.
+
+When the mage burst into the pub, nobody batted an eye, letting him rush past with nothing more than an annoyed grunt. However, when Liora flew after him, the criminals instantly rose to their feet with the clear intent of attacking her.
+
+She had no time to deal with them, so Liora activated Featherflash, effectively blinding everyone in the room. As a mote of light, she followed the mage, who appeared to be growing more panicked by the second.
+
+"Liora! Liora!" Renir called, constantly alerting her of his whereabouts when the mage tried to confuse her by darting into what could be described as an underground maze of some sort.
+
+Liora hated the place; it was lined with stone, and there was basically no light to speak of. Not to mention the many possible paths one might take. But with Renir constantly shouting and Liora's Treasure Sense, following the mage was easy.
+
+"SHUT UP!" The mage snapped at Renir.
+
+"No way! Liora, here!" Renir continued.
+
+While Liora was able to follow the mage, the many twists and turns made it difficult for her to catch up. The space was also narrow, which made it difficult to fly through, even in her much smaller magpie form.
+
+She needed to stop the mage somehow, if only for a moment. She tried hitting him with Air Slash, Poison Shot, and Holy Light, but each time that protective shield appeared, stopping her attacks before they connected.
+
+Seeing that the straightforward path wouldn't work, Liora let out a resounding BOOM, BOOM, BOOM, and used Decoy Fade. The mage flinched, looking back to see the supposed explosion. All he saw was Liora's decoy turning in a different direction, while Liora herself got closer to him.
+
+If I can't attack the mage, then I just have to get Renir.
+
+The bag, which undoubtedly contained Liora's most precious treasure, was clutched in the mage's hand. Perhaps it was time to relieve him of it. Liora focused on her Theft skill, trying to understand how to best approach this problem.
+
+The skill was still at a [Basic] level, so it didn't provide strong guidance like her Treasure Sense did, but her instinct was telling her that approaching from the front would be the most successful approach. She pushed her wings hard to fly ahead of the mage, and then swooped down, grabbing the bag while still Faded.
+
+"What?!" The mage exclaimed in surprise, feeling Liora tug on the bag.
+
+She was surprised at how strong the mage's grip was. Her magpie form just wasn't strong enough to pull Renir free. She felt frustrated at her rather useless Theft skill, and turned into her dracoryx form, instantly filling the whole tunnel.
+
+Her massive talons shredded the bag within which Renir was carried. He fell to the ground with a loud clang, making Liora screech in fear that he might have broken. The mage jumped back purely by instinct, and this gave Liora all the time she needed to shrink down to magpie size and grab Renir.
+
+"You have no clue how glad I am to see you, Liora!" Renir wiggled his gem-like limbs happily.
+
+"Save that for when we get out of here!" Liora muttered and let out a loud, deafening scream, as loud as Resonance Mimicry allowed her.
+
+The fancy magic shield didn't protect him from the horrible sound, and the mage was forced to press his hands to his ears. Liora flew straight past him, heading for the exit.
+
+For about half a minute, Liora felt like she would be able to get out of here without any trouble, the mage unable to follow her as she continuously produced her ear-shattering attacks.
+
+But just when the exit felt within reach, the earth in the tunnel in front of her shifted and shot up, blocking the exit.
+
+"Now, now. I'm afraid I can't let you do that," a suave male voice said.
+
+Liora whirled around and saw that a completely different man had appeared. He was nothing like the shabby Night Order mages she had encountered before.
+
+First of all, he was dressed in a sleek, dark blue suit with sleeves embroidered with golden thread and cufflinks made of sapphires or some similar precious jewel. Her Treasure Sense was going crazy at his getup.
+
+The man also carried himself with extreme grace and confidence, as he brushed his white hair away from him in one swift motion. Seeing him, Liora had only one thought. Why was it that all the powerful evil guys were good-looking? Was that part of their evil strategy?
+
+"Now, there. Be a good birdie and give up the gem," the man said, reaching out his hand.
+
+"Over my dead body!" Liora snarled in reply.
+
+The man seemed momentarily surprised that she could talk so smoothly, but quickly recovered and smiled at her pleasantly. "That can be arranged."

@@ -1,0 +1,247 @@
+---
+id: 72b87196-eeac-5ba4-b392-dd79d316beb3
+page-type-slug: story-chapter-royal-road
+title: "352 Clashing Kingdoms"
+slug: 0311-352-clashing-kingdoms
+partOf: the-new-world
+position: 311
+ownLength: 3302
+unit: words
+ownProgress: 3302
+publishedAt: 2022-12-07
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/1057531/352-clashing-kingdoms"
+royalRoadId: "1057531"
+markedReadAt: "2026-06-29T21:31:50.240Z"
+---
+
+The creature followed my orders, pacing back and forth, doing jumping jacks, and even doing backflips on command. Silly as it seemed, the beast's innate tenacity and strength omened its future purpose. One that Shalahora mused about,
+
+"This will be your army then?"
+
+"Yes."
+
+"And this isn't the first time you've done this either, is it?"
+
+I peered out into the distance, "No." I frowned with a fierce resolve,
+
+"And it won't be the last."
+
+Chapter Begin
+
+With an efficient practice in place, we collected our own army of these monstrosities. It left a bad taste in my mouth using this method, but I wasn't an idiot. I knew when and where I had choices, and this wasn't one of those times. Against a foe using these tactics, I lacked any proper response outside of doing the same.
+
+And I did so. I also appreciated this opportunity, and I intended not to waste it. Even with my upgraded golems and super cities, we stood no chance against several thousand primevals. If anything, we were lucky they only sent in a few dozen at first. I aimed to capitalize on that mistake.
+
+So Shalahora and I worked tirelessly to match whatever forces Valgus amassed. The shadowy Sovereign kept pace with me, something I hadn't expected but appreciated nonetheless. The other rulers fell behind from fatigue, but Shalahora was inexhaustible. Without any lulls in our soldier creation, we gathered a large force at a breakneck pace.
+
+The shadow Sovereign's shades harvested the liquid bone from nearby tunnels in the ground, and I prepared ascendant psyches for the hollowed-out primevals. Once made, the mindless husks assisted us in creating more of their kind, so after a full day passed, we amassed an army's worth of them.
+
+Shalahora also scouted out a portion of the rainbow tunnel network below, one I documented. Having records helped keep everything organized and planned. Just as well, the maps served as escape routes, giving us another means of retreat should all other measures fail. Considering the importance of the bone liquid, knowing the lay of the land was helpful in its own right as well.
+
+With that growing knowledge in tow, we gathered a couple dozen primevals. I stationed them at chokepoints in the tunnels below, each of them defending us from underground assailants. They even hoisted in any straggling primevals who drank the psionic fluid of their own accord. This efficiency resulted in palpable returns for our efforts.
+
+My army evolved over several hours, turning into a force worthy of respect and fear. Despite knowing all of that, the monster battalion unsettled me. When I gazed at the emptied eyes with each of their minds shelled out and replaced, they reminded me of Hybridized gialgathens.
+
+I remembered slamming into plasma-fueled ships and finding vats of silvered slush. Sights of the gialgathen's genocide crept into my mind like an old curse I couldn't shake. I recalled the bombing of Giess's cities, each thriving metropolis transforming into glowing slag after being consumed in light.
+
+At that time, I toiled until my hands peeled and my eyes bled. No rest. No time for thought or doubt. I compromised my sense of morals and ethics to accomplish a goal, and I still question my actions. However, I saved a species and slowed down Elysium. I accomplished that, and I wasn't some cold monster. Yet.
+
+Giving my face a light slap, I woke myself up for what was to come. I would maintain my resolve, even if my actions unsettled me. I would be a survivor driven to kill, not a broken man who believed that murder was my weapon. In that way, I played with fire, and I'd seen many do the same, from Yawm to Schema.
+
+They rationalized where I would not. I did this because of my weakness, and I'd carry that forward.
+
+Of course, I'd be lightening the moral load where I could. I'd be eliminating any access to the rainbow liquid and anyone who abused it. That contained this problem to Leviathan-7 and this war alone. I found solace in preventing this malevolence from spreading, like cauterizing an open wound. Painful, sure, but it was a necessary evil.
+
+The liquid bone was similar to nuclear weapons in that way. It ushered in a totally different kind of warfare, one where you either opted in or outright lost. That's why I intended on keeping this psionic mess here on Leviathan-7. Anyone could understand that, so I kept my head down and worked on amassing primevals under my wing.
+
+In time, I created several different kinds of converted primevals, similar to my golems. For the most part, I kept it simple with ascendant mana types. They operated like demonic machines, their minds like golems but their bodies divergent. Their eldritch rampancy warped the otherwise calm demeanors I made, so they snapped at each other like an unruly pack of wolves. I didn't intend to keep them for long, however.
+
+As for the quintessent kinds, they helped with bolstering that assaulting force. They created terrains, buffed zones, and added mental strength to the violent ascendent variants. As for primordials, I refused to make those kinds of converted primevals. Mixing the insidious nature of primordial mana with the unrelenting hunger of an eldritch was a recipe for disaster. It was a mistake I intended not to make.
+
+Specializing the monsters I made, I settled into a manufacturing mindset, as did Shalahora. Within a day, we gathered several hundred of the primevals. The mass of monsters waited for us outside a city on the outskirts of my territory. Within the nearest town to them, I met with the others.
+
+Shalahora, Drelex, and Entilla waited for me in the tallest building of my enclosure. Entilla already wired this one, and Drelex incorporated a language cipher. They draped over their chairs in exhaustion, neither of them peering out the glass rotunda. On the other hand, Shalahora demonstrated no signs of fatigue whatsoever as per usual.
+
+He sat in the shade of the room's entrance, admiring the view via a window beside him. His eyes popped out of the darkness, the sky blue slits contrasting the dim gloom enveloping them. They peered with resounding clarity, a composure that inversed Drelex and Entilla's glazed eyes and slack jaws.
+
+Despite that, they showed up at my impromptu meeting, which I appreciated. When I hovered up into the room from below, a flood of shades rushed out of the darkness present. Those writhing, dark blots inundated the city below us, weaving between the buildings. They darted out of my city's barrier while I sat in a gravity chair.
+
+Opening my pocket dimension, I pulled out two blue cores and floated them over to Drelex and Entilla. They gawked at the reward before Entilla mused,
+
+"Is this a bit of prepayment for motivation?"
+
+I shook my head, "No, it's an extra payment for the speed. If you finish a city in a day, I'll give you an extra blue core apiece."
+
+Their jaws slackened further, and I smiled at their surprise. Shalahora scoffed, "He makes dozens of cores a day. This is nothing to him."
+
+Drelex eyed the core before sliding it into his robe, "What is nothing to some is everything to others. Isn't that right, Entilla?"
+
+The blue lizard stared into the depths of the violent, blue sphere, "I suppose, but either way, I need some sleep after this, extra payment or not."
+
+Drelex dapped his brow with his hand, a bit of magic applying moisture to his amphibious skin, "Me as well, me as well...The gesture is appreciated, however."
+
+I raised a hand, "And there's plenty more where that came from if you guys keep showing up and showing out. Anyways, we have to plan out our expansion and assault on Valgus since we're taking the fight to him."
+
+Drelex blinked, "We?"
+
+I raised a brow, "Not in actual combat, but you both will be fighting on the sidelines."
+
+Drelex let out a sigh of relief, "Just, ahem, making sure of that."
+
+Shalahora peered at his shades, "Their fears aside, my scouts have found disembodied primevals west of us. There, our enemies lie and wait."
+
+I nodded while appreciating the black hole above the world. Since this planet always faced that celestial body, it served the same purpose as the North Star did on Earth. It allowed us to orient ourselves regardless of where we were. The slight tilt of the black hole cemented that, letting us create a consistent reference angle.
+
+Technicalities aside, Shalahora pointed westward with an arm of condensed shadow. He simmered, "The psionically dead crawl across the land like a cloak of death, harvesting the liquid below as we do. In those recesses, Valgus and his ilk fester."
+
+I leaned forward while musing, "Then he's on the edge of the desert biome like we expected. I'm guessing he's taking easy-to-collect rainbow bones and psionic liquid...Have we found his base?"
+
+"No. Neither your golems nor my shades have delved that deeply. Valgus's operations don't reside on the surface, and even in the tunnels below, he disperses outward in all directions. He is like a hydra with no head."
+
+Entilla raised a hand, "What if he doesn't have a base?"
+
+I raised a questioning brow, and Entilla coughed, "Ahem, well, the situation is like this. Valgus knows he won't be here for much longer. He needs to get everything he can from this place before being warped away. Knowing that violent lunatic, he's not interested in growing roots, well, anywhere."
+
+Drelex spat out, "Valgus is far more interested in harvesting what's already there rather than seeding the ground. Homicidal maniacs tend to operate that way."
+
+I liked the analogy, and I agreed with him. Thrumming my fingers on my armrest, I tilted my head at Shalahora, "Should we initiate now or wait a while?"
+
+Shalahora simmered, "Each second we wait is another he'll use for his own purposes. This is why our hesitation is like a gift granted to him; we give him precious time for his plots, whatever they may be."
+
+I gestured to Entilla and Drelex, "Do you have any knowledge about Valgus and how he fought?"
+
+Drelex peered up, "Hmm, not to any measurable extent...Outside of his bout with you, of course."
+
+Entilla leaned against an arm, "You could ask a few of the rulers at the Survivor's faction. They fought against him already, and their experiences could help us out. Probably."
+
+I tapped my fingers against my chair, considering for a moment. I shrugged, "Eh, it's as good a plan as any."
+
+I stood, walking over towards the teleportation panel from the Survivor's vault. After establishing a telepathic link to Shalahora, I thought over,
+
+"Yo, Shalahora."
+
+"Hmm?"
+
+"Before we were sent over to the Leviathan-7, you telepathically linked up to everyone, right?"
+
+"And what of it?"
+
+I frowned, "Valgus has probably infiltrated the Survivor's faction already. I want to know who's psyche has been changed since our arrival, and you're the only person with a usable reference for that."
+
+Shalahora's eyes widened, "That's quite cautious of you. And risky. What if they uncover that I've been searching for them?"
+
+I narrowed my eyes, "We need to know who we can trust even if we expose some of what we know."
+
+Shalahora mused, "Then I shall connect as I did, though I will do so more subtly than before."
+
+I smiled, "Hah, way to use your head."
+
+"I am a shade. I have no head."
+
+I waved my arms, "Whatever, you get my point."
+
+Entilla frowned at us, "Uh, are you two telepathizing right now?"
+
+I raised a palm to Entilla, "We're talking logistics. We don't want information spreading further than it has to. Otherwise, you two could be captured and tortured, but if you really wanna know-"
+
+Entilla coughed into a hand, his voice hoarse, "Honestly? I'm good. Really good, actually."
+
+After giving them an approving nod, I tossed the Survivor's warp panel onto the ground before channeling some mana into it. The archaic runes sparked to life, and like a starving vulture, the slate fed off my mana until it bulged at the belly. Literally. The panel swelled three times its size before turning into a perfect sphere. A ripple of energy coursed across its surface before a warp popped up in front of the ancient device.
+
+The portal exposed the survivor faction's upper floor, rulers talking to my director and arguing over the autonomy of the massive battery I left behind. I pinched the bridge of my nose before pointing at Drelex and Entilla,
+
+"Get some rest, guys. We'll be back in a few minutes."
+
+Stepping into the revitalized compound, Shalahora and I marveled at the difference a day of rest made. Several magicians joined the ranks of the rulers here, their opinions enmeshing with the low drone of the diplomatic rulers. Signs of their magical influence dispersed throughout the room, many of the maps becoming arcane in nature rather than paper and pencil.
+
+Those sorcerers constructed advanced holograms that replaced the two-dimensional maps and charts used prior to the sorcerers' arrivals. Feeding those enchantments, several mana strings floated through the air, a telepathic web forming across the compound for communication and recreation alike.
+
+They even kept a variety of temperature orbs floating over the entrance to the room. If a species preferred heat, they gestured towards a red sphere, and it sailed over. Some misted over the surface of aliens while others dried the air instead. I spotted a cold, dry orb hovering over Alctua's head, the blue lizard preferring a bit of a chill.
+
+She spoke with Obolis about the new raid paths they intended on making over the next few days. I walked up, the two of them peering up at me. Obolis raised a hand, "Ah, it's good to see you're well." Obolis's eyes darted over Shalahora, "And you too, of course."
+
+Shalahora scoffed, "Your sincerity oozes like a dark poison."
+
+Obolis sneered, "Well, at least I tried to be polite. Any whom, what brings the both of you here?"
+
+A presence, dark and cold like a tundra's night, crawled over my mind. I shivered before breathing out, "So, we're about to assault Valgus. We need to know how he fights, what his tactics are, any information on him really."
+
+Alctua and Obolis turned to one another before peering back at me. Alctua raised a spiked brow, "The most educated on Valgus would be Iona. She led the Schema faction before being dismantled by that primitive beast."
+
+I nodded before gesturing to everything, "Alright, I'll take that advice. Also, how is everything working out? Any kinks anywhere?"
+
+Obolis raised his brows, "Your adjustments have run smoothly, outside of a few mental collapses."
+
+I crossed my arms, "Mental collapses? Sounds pretty bad."
+
+Obolis peered down in disgust, "A few members overgorged on the mana supplies and were, in turn, overwhelmed by the energies they ingested. Apparently, there's never enough warnings for certain people."
+
+Shalahora murmured, "For many, it doesn't matter what form temptation manifests as. It always corrupts since those individuals are designed to crumble."
+
+Obolis peered at Shalahora with a sideways glance, "Perhaps...But shouldn't you both be trying to find Iona?"
+
+Shalahora whispered, "I know where she is already. There's no reason to search for whatever is already found."
+
+Obolis frowned but remained silent. He and I shared a glance, one where the Emperor displayed intense skepticism towards Shalahora. I shrugged before following the shadow Sovereign towards Iona. After passing several floors, we reached the armory where Iona patched up several wounded rulers.
+
+Despite the injuries, the atmosphere changed entirely. Several of the rulers laughed and joked around, each of them carrying joyful exhaustion. The kind of rugged joy came about from someone elevating themselves out of poor circumstances. Even if the situation was tricky in the present, the hope for the future made it easy to tread through.
+
+That energy saturated the room as Shalahora and I reached Iona. She stitched a nasty wound across a gray-skinned warrior, her brow furrowed and eyes sharp. A magical needle and thread held the two edges of the gash together, and in seconds, the mana seeped through the alien's body. The congealed, blue blood evaporated into a glowing mist.
+
+Finishing the aid, Iona's eyes darted toward us before letting out a sigh. She dragged a hand down her face, "What is it now?"
+
+I raised a palm, "You already know. We need to figure out what Valgus's combat tactics are. It's like my golem said yesterday; I've been attacked."
+
+Iona's brow raised before she sat up straight. She grabbed her chin before murmuring, "What do you know already?"
+
+Shalahora tilted his head towards Iona, "And what difference does that make? Tell us what we wish to know."
+
+The Sovereign's words set even me on edge, so Iona stammered out, "Er, well, w-we were attacked before we even knew what to do. Valgus assaulted us within a few days of our arrival, and that was well before we were able to do...Like, anything really."
+
+Shalahora's eyes narrowed, "Then that would mean you observed an assault. Describe it."
+
+She raised a hand, "It was...So several rulers with Valgus attacked us. A few members of our faction did too, so our defensive lines collapsed immediately. We had no idea who was friend or foe, and we were dismantled in the confusion."
+
+Shalahora simmered, "Members of your own faction allied with him before your arrival?"
+
+She nodded, and Shalahora turned to me, "Then he's been utilizing psionic methods since his arrival here. Either that or Valgus has planted spies within each faction pre-emptively. I doubt he is so calculating or careful."
+
+I shook my head, "Well...Damn, that's pretty awful. Ok, so we'll keep that in mind moving forward. Did you happen to see any attacks?"
+
+Iona blinked before shaking her head, "No...It was just pure chaos."
+
+She clammed up, the memories drawing her into a protective shell. I tilted my head at Shalahora, "We got what we came for. Let's go."
+
+With the quick trip handled, we warped back towards my base. Once inside the city, I turned to Shalahora and telepathized,
+
+"So...Has anyone's mind been heavily altered?"
+
+"Yes. 37 of the rulers carry a fragmented consciousness."
+
+I blinked before tilting my head, "Huh...37?"
+
+Shalahora nodded, "Those are the ones whose minds were unrecognizable from before. I didn't believe the psionic replacements would be so shoddily done."
+
+I rubbed the sides of my face, "That's bad news. Very bad news. Any particular names you could mention?"
+
+Shalahora sighed, "None that you would know. The majority of the converted rulers were quiet and withdrawn. This made them easy targets that wouldn't draw suspicion should their minds be emptied. There are far worse events unfolding, however."
+
+I grimaced, "Like what?"
+
+In the distance, a flow of Shalahora's shades arrived on the horizon. They darkened the sea of shining bones, their forms umbral and menacing. As they weaved in from overhead, they cast us in shadow. In the gloom, Shalahora murmured,
+
+"The Kalat survived your destruction, and they are leading a charge with Valgus to your cities. They reek of bloodlust and frenzy."
+
+My eyes set while my gaze lowered, "Then they head in for war?"
+
+"It is unmistakable."
+
+I grimaced, "Then we'll clash."
+
+Shalahora waved a hand over me, several shades adorning portions of my armor. The Sovereign menaced, "They'll let us communicate and act as your scouts."
+
+I pulled out several dozen blue cores, having them embedded into my armor. While pulling out their mana, I breathed out energized miasma. It floated down, a cloud of crimson red adorning me in a coat like living blood.
+
+I menaced,
+
+"Then we march to war."

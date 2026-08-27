@@ -1,0 +1,203 @@
+---
+id: 2903ea02-0c4f-53d9-90b8-c45b8ac0b319
+page-type-slug: story-chapter-royal-road
+title: "Chapter 143 – Petunias"
+slug: 0143-chapter-143-petunias
+partOf: the-magpie-and-the-archmage-monster-evo-litrpg
+position: 143
+ownLength: 2070
+unit: words
+publishedAt: 2026-07-06
+link: "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3638095/chapter-143-petunias"
+royalRoadId: "3638095"
+---
+
+Liora couldn't believe her eyes. Even though her eyesight was as good as one could possibly get, she still couldn't believe it. Renir's summer house, which was supposed to be filled with treasure for Liora, was destroyed. Burned to the ground with nothing but ash left.
+
+They had looked through every nook and cranny of this unusual dimensional space Renir had created, but there was nothing left. Even the supposed secret underground passages were destroyed, and the treasures within them–gone.
+
+"This is bad…" Renir muttered, looking at the devastation from his safe spot on the web pouch around Liora's neck. "Breaking into dimensional space isn't something just anyone can do. This is the work of a skilled mage."
+
+"One that most definitely hates you," Cee noted, looking around.
+
+The only one having fun was Smokey. The wyvern juvenile seemed to enjoy rolling in piles of ash and jumping in and out of them as if it were a pile of leaves and he were a kid. Well, he was technically a kid. Nonetheless, his cheer looked out of place in the destroyed landscape.
+
+"I don't think that narrows the list much," Liora said.
+
+"Hey! Just because a few people dislike my methods, it doesn't mean that everybody hates me," Renir protested.
+
+"I don't think we've met a person that actually likes you…" Liora retorted.
+
+Renir raised his stumpy gem arm in protest, then lowered it and grumbled. "You just haven't met the right people."
+
+"I don't think we're in a position to meet any people currently, seeing as our group consists of a monstrous bird/magpie, a giant spider, a wyvern, and a talking gem," Cee said.
+
+"People cannot be avoided. We must acquire a Navaterian sigilcraft book," Renir said firmly.
+
+"Nava-what?" Liora asked.
+
+"Navaterian. They were an ancient race of extremely intelligent and studious insectkin. They lived in giant societies and apparently had the closest thing a world could ever call a utopian society since they had achieved such a level of—"
+
+"Wait, wait, hold up a second," Liora interrupted him.
+
+"What?"
+
+"You said insectkin?"
+
+"Wait, why are we looking for a book made by insectkin in a human city?" Cee protested. "I say we go to these insectkin. I would be very eager to meet them."
+
+"I would certainly take insects over humans any day of the week. They're nice, right?" Liora asked.
+
+"How would I know? Their race is long since extinct," Renir said.
+
+"Aww…" Cee said, her legs drooping slightly. "I would have liked to meet some other intelligent insects. I know spiders aren't technically insects, but I feel like they're like some distant cousins."
+
+"I'm not sure they would feel the same way given that archanids were the ones to make their race extinct in the first place," Renir explained.
+
+Heavy silence descended upon the group, and Cee shifted her legs uncomfortably.
+
+"Hey, don't look at me like that. I'm a human, and I fully intend to become one again soon!"
+
+"So you're saying that humans are the only ones who could have this sigilcraft book?" Liora asked.
+
+"Well…"
+
+"Sounds to me like you're hiding something," she looked at the gem suspiciously.
+
+Renir wiggled his tiny arms. It looked quite adorable. "I'm not! The other option is so horrible it's not even worth mentioning."
+
+"What's the other option?" Cee scuttled closer, narrowing her many eyes at Renir.
+
+"No, it's nothing!" Renir wiggled his arms again and then went still.
+
+"Renir…" Liora stared at him.
+
+"Nu-uh!"
+
+"Renir…" Cee continued the assault.
+
+"NO!"
+
+"Renir!" They both insisted.
+
+"The southern antkin tribes might have the records preserved!" Renir said quickly, then continued. "But they are absolutely not to be approached. Antkin are violent and attack any humans they see on sight. They have claimed huge territories in the Navaru desert, building vast underground cities underneath it."
+
+"You say they attack humans on sight, but we're not exactly humans, are we?" Cee pointed out.
+
+"Yeah! What if they don't attack us simply because we're beastkin?" Liora added.
+
+"You cannot rely on that. No, no! It is far too dangerous. Antkin are not to be approached. It is far safer that we try to ask Morgana to assist us—"
+
+"No!" Liora said firmly. "I don't want anything to do with Morgana after what happened in the clinic. She'll turn me into a slave."
+
+"Fine, fine. Then we can steal the books—"
+
+"Listen, just because I am a magpie, it doesn't mean I want to steal stuff all the time. Well, I do, but this is not that instance. We already have an organization of evil mages trying to track you down, the creepy doctor from Sunvale, who can track me somehow, and is building a cult."
+
+"The creepy, superfast headmaster of the creepy mage school," Cee added.
+
+"Yeah, and likely every merfolk in the nearby sea. Do you really think we should be expanding our list of enemies by stealing an ancient book from what I assume is a well-guarded library or archive?"
+
+"It's located in the Grand Royal Library of Nine and displayed as one of its treasures…" Renir said. "But hey, if it was me, I could take it no problem because I'm the one who placed the book there in the first place."
+
+"So you're ready to reveal to everyone that you've been put inside a gemstone?" Liora questioned.
+
+"I don't think anyone would even believe him. How would anyone know it's Renir and not a random man inside a gem? I don't think there are voice authentication devices in this world," Cee said.
+
+"Well… I…" Renir flailed his little arms again, then finally conceded. "Yes, I suppose making more enemies wouldn't do us any good. But trust me when I tell you that the antkin cannot be reasoned with. I wouldn't even know how to communicate with them. They use pheromones to talk. Do you two know the pheromone language?"
+
+Liora and Cee shared a look. Obviously, none of them knew that. It wasn't even physically possible.
+
+"Surely we can figure something out," Cee muttered. "I would really rather take my chances with the ants rather than trying to rob the biggest library in the country."
+
+"Same. Maybe if I had some undisputable way to hide myself and take the book without being seen, but I really don't think that's possible," Liora said sagely.
+
+"Fine, fine! Let's go meet the ants. But don't complain when they attack us and eat us!" Renir grumbled.
+
+"Listen, if they do attack, we can just fly away. Nothing can compare to my flying speed. I think it's worth meeting the ants first, and if that fails, then we try to figure out how to steal from… the security in that library is pretty tight, isn't it?"
+
+There was a heavy, silent pause until Renir finally said. "Yeah, I've actually placed several sturdy wards on the book, which, when broken, would alert all the guards within the library."
+
+"Can you dismantle those?" Cee asked.
+
+"Not… in my current state."
+
+Liora and Cee sighed.
+
+"Ants it is!" Liora announced.
+
+"Hold on, ants! Here we come!" Cee wiggled her front legs in the air.
+
+Renir sighed audibly. "Okay, but not before Cee evolves. If we're going to be swarmed by ants, then I want us to have the highest chance of survival. Training up Smokey wouldn't hurt either."
+
+Liora couldn't deny that. In fact, she too wanted to train and reach a higher level. Perhaps unlock a new skill or trait, or combine existing ones. Most pressingly of all—Liora needed shinies. She was promised them, but somebody had snatched them right under her beak.
+
+Frankly, she would have loved to track down the thief and give him a good pecking. But there was no way of knowing who it was, and even if they knew, how would they track them down? So instead, Liora had to find some other shinies, preferably not heavily guarded by the country's strongest fighters and Renir's ridiculously overpowered wards.
+
+After they left the dimensional space, Renir wiggled his arm and chanted something. There was a small shockwave which ruffled Liora's feathers uncomfortably.
+
+"Hey, what did you do?" She asked.
+
+"I collapsed the dimensional space. There's no point in it anymore now that everything has been ransacked. Damned hooligans. Did they have to destroy the petunia garden, too? I worked so hard to set up magic that would water it at exactly the right intervals and the anti-weed magic that would keep all the flowerbeds neat while I was away."
+
+"Wait a moment," Liora said, looking down at the gem on her neck. "Did you just say petunia garden?"
+
+Cee scuttled closer. "Oh. My. God. He did!"
+
+"What?! No! I did not! I meant my training grounds! Training grounds!" He protested.
+
+"No takebacksies. I heard you mention the petunia garden!" Liora chuckled.
+
+"That is so cute!" Cee added.
+
+"It was a training ground!" Renir persisted.
+
+"Sure it was. Chak-chak-chak!" Liora laughed. "I would have loved to see it. I quite like flowers, you know."
+
+"You do?" He appeared confused.
+
+"Most women do. Nothing unusual about it," Cee said.
+
+"You know, I always seem to forget that fact. You two are not very feminine at all."
+
+With that, Renir had earned himself a lengthy lecture from Liora and Cee both about how he didn't know how to treat a maiden's heart properly and that it was the very reason why he had ended up in this mess in the first place.
+
+"Have you got any news for me, Jergil?" Lucien asked, looking down at the messenger who was kneeling before him, his fingers trembling.
+
+"Yes, sir."
+
+"Then out with it? Why are you snivelling on the floor?" He said in distaste. Lucien hated spineless cowards such as these. They had neither dignity nor the mettle necessary to get anything done.
+
+But sadly, they were the most inconspicuous bunch, so they could at the very least serve as messengers within the organization if nothing else. Frankly, Lucien believed that the organization as a whole needed heavy… restructuring.
+
+Had Renir's capture been a success, then it would have been long underway already. Unfortunately, the pillar had been lost. To a greedy little bird, nonetheless. It just showed the level of incompetence within the lower levels. They had one task. Just one. Transport the gem without arousing suspicion or losing it. Even that, they couldn't do.
+
+Just remembering it made Lucien grip the armrest of his chair with a bit more force than he intended, making the wood splinter.
+
+"EEEPP!" The messenger threw himself to the ground, pressing his forehead against the immaculate floorboards. Lucien clicked his tongue in annoyance. His sweaty forehead would leave a stain.
+
+"Stop the whimpering already and deliver the message before I lose my patience," Lucien commanded.
+
+"Th-Th-The White Mage reports th-th-that it is likely that Renir has successfully broken one or two of the s-s-seals placed upon the gem."
+
+"What?!" Lucien exclaimed, and the armrest got completely destroyed.
+
+Jergil repeatedly bowed his head. "I'm sorry, sir! I-I just—"
+
+"Silence, you fool!" Lucien commanded and got up from his seat, pacing around the room while Jergil remained bowing to the floor.
+
+He couldn't understand how this could happen. Breaking even one of the seals should be impossible, even for someone as powerful as Renir. Due to intricate wards and protective spells the Pillar had placed upon himself, they couldn't kill him, even in his drunken state.
+
+The best they could do was seal him away and slowly drain him of his power. But if Renir has found a way to break the seals…
+
+That was bad. That was really bad. Renir was the only one who could stand in their way. He could not be allowed to regain his full strength.
+
+"Send a message to all of the Nine! We must put every resource we have towards capturing Renir. This cannot be delayed any further," Lucien said.
+
+"B-But, sir. Nobody has been able to detect him in months… It's as if he has disappeared," Jergil protested.
+
+"Do I pay you to object to me or to deliver messages?" Lucien snapped, angry flame lighting up in his palm.
+
+"I'll deliver it at once, sir!" Jergil basically crawled out of the room backwards as nimbly as a cockroach with his head bowed.
+
+Lucien closed his fists over the flame, watching it sizzle out of existence. If only it weren't for Renir…

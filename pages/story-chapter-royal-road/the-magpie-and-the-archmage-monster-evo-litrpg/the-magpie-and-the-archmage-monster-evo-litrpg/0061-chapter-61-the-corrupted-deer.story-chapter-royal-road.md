@@ -1,0 +1,163 @@
+---
+id: 501d635d-44fb-5852-a735-fb2fd3a6b8c9
+page-type-slug: story-chapter-royal-road
+title: "Chapter 61 – The Corrupted Deer"
+slug: 0061-chapter-61-the-corrupted-deer
+partOf: the-magpie-and-the-archmage-monster-evo-litrpg
+position: 61
+ownLength: 2096
+unit: words
+publishedAt: 2025-12-15
+link: "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2849010/chapter-61-the-corrupted-deer"
+royalRoadId: "2849010"
+---
+
+Liora didn't hesitate. She withdrew the Holy Wand and blasted the corrupted monstrosity with Holy Light. It dodged so quickly that she didn't even register where it had disappeared. Frantically, she looked around and realized that the corrupted monster had jumped towards her, its jaw opened wide as black sludge dripped from its mouth.
+
+She could smell the foul decay coming from its body. The putrid breath hit her nostrils, making her body dart away at the very last moment. She Faded the next, afraid of being seen by the monster.
+
+It snarled, having lost sight of its target. When it landed back on the ground, it rushed towards Kalen, who happened to be closest to it at the time.
+
+"What the hell happened to it?" Kalen yelled, trying to slash the monster with his sword.
+
+But the corrupted beast didn't evade his sword; instead, it grabbed it in between its teeth.
+
+Liora used the opportunity to strike the corrupted deer with Holy Light. This time, it did dodge, retreating away from the group. The other wolf-deer approached it, perhaps wondering what had happened to it. But the corrupted monster attacked them viciously. Liora, Serena, and others watched in horror as it killed one of its brethren after the next, despite their best efforts at defense.
+
+No matter how they tried to bite or run or evade the corrupted wolf-deer, they were unable to do so. In the end, all of them were killed and absorbed into the corrupted one. It grew bigger, sprouting two extra limbs and two extra heads.
+
+"RUN!" Damien yelled.
+
+Liora watched the humans' pitiful attempts to run away. They tried. They really did. But it was a sad display nonetheless. Kiva was long ahead of them before they even managed to turn around. Kalen and Serena managed to run after her, but Damien, in his heavy armor, was trailing behind.
+
+But the corrupted beast wasn't slow at all. In fact, it rushed forward so quickly that it likely could have caught Kiva in two blinks of an eye. But Damien was in its path first, so it jumped at him, sinking its massive teeth into his armor.
+
+There was a tiny sliver of hope within Liora. She hoped that it wouldn't be able to bite through. The regular wolf-deer hadn't been able to. But obviously, things couldn't be so easy. Damien let out a horrifying scream as the corrupted monster's teeth went through the metal with ease and pierced into his flesh. First one head bit into his shoulder, then the second bit his hand, and the third reached for his head.
+
+Liora acted mostly on impulse as she launched Holy Light straight at the third head, hitting it half a second before it killed the man. It screamed an unholy screech which sounded like a cacophony of wolf-like howls and snarls, and jumped away from Damien. Poor blond fell to the ground, convulsing from pain as dark blood oozed from his wounds, staining his armor.
+
+Serena, Kalen, and Kiva stopped, looking at the man with a piteous gaze and then at the abomination. One of the heads was thrashing around wildly, a deep hole left in the place where Liora had struck it.
+
+But Liora had no intention to let it rest. She concentrated and combined Air Slash with Holy Light, sending a bright blade towards the corrupted deer. Somehow, it managed to dodge, despite one of its heads still trashing. Liora Faded and flew straight at the monster.
+
+Combine Lunge with Holy Light!
+
+Liora didn't question it. She imagined the light surging to her beak and struck the monsters before her Fade's effect ended. Bullseye. She managed to strike the second head.
+
+[You've successfully formed a skill <Holy Strike>.]
+
+It screamed while the third head snapped its teeth, trying to catch Liora.
+
+Unfortunately for the monster, a row of rocky spikes hit, not allowing it to move quickly enough to catch Liora. She flew up above the tree canopy, relying on Shadow Glide to keep her hidden. The spikes didn't hold back the abomination for long as it snapped the rock as if it were mere twigs. The injured heads oozed horrible black liquid, but stopped trashing.
+
+It once again had its sights set on poor Damien. Kalen was trying to get the man on his feet, but he kept convulsing, unable to move on his own.
+
+Liora launched Holy Light at the abomination. It dodged, but was forced to jump back. Then she attacked with Holy Light again and again, allowing Kalen to retreat with Damien while keeping the monster away. But it dodged every single one of her hits. It appeared that as long as it could see the attack coming, it could dodge. Liora had to catch it by surprise or distract him.
+
+She flew down to Serena and Kiva, who stood ready with their weapons, despite their hands trembling. Liora appeared behind them. "Distract."
+
+Both women jumped at her voice, looking at her quizzically.
+
+"Distract. Monster," she said.
+
+"You want us to distract that?" Kiva exclaimed, pointing at the abomination, who was a bit more cautious, having learned the might of her Holy Light.
+
+"Distract. You. Safe," Liora said, barely remembering not to use Renir's voice.
+
+"Let's trust Liora! She's always done right by us," Serena said, putting her hand on Kiva's shoulder.
+
+The weasel girl clenched her fists, but nodded. "We'll do our best, but there's not much we can do."
+
+Liora nodded. She understood that. But perhaps if they attacked the thing at the same time, she could find an opening.
+
+Serena jumped into action first. She began flinging one fireball after the next at the abomination. It snarled, dodging the fireballs, and then ran at Serena. Kiva followed suit, firing arrows at it. Much to everyone's surprise, it didn't even bother dodging those. The arrows sank into its rotten flesh and just remained there. It was as if it didn't hurt at all.
+
+Must not care much for physical attacks. But it was dodging fireballs. Magic attacks must be more effective.
+
+Not now!
+
+Liora tried to hit the corrupted deer with Holy Light again, trying to strike from behind. But each head was looking in a different direction. Liora wasn't even sure how it could see without any actual eyes. One thing was clear—long-range attacks wouldn't work.
+
+Serena, seeing Liora miss, produced more powerful fireballs, throwing caution to the wind. The abomination dodged; however, the fireball set one of the pine trees on fire. It burned very well. The mages then set the surrounding few trees on fire, too, trying to contain the deer.
+
+However, it had seemingly grown tired of the long-range game. It rushed at Serena while avoiding her fireballs. This was what Liora was waiting for. She flew down at the corrupted deer, concentrating on combining Skypierce with Holy Light. The spell resisted her at first since one was long-range and one was melee. But she managed to overcome the resistance.
+
+[You've successfully formed the skill <Holy Pierce>.]
+
+The monster, too distracted dodging Serena's fireballs, didn't notice Liora's approach until she had already struck one of its heads. This time it came clean off. Putrid, disgusting liquid poured from the severed neck, spraying Liora's feathers.
+
+[Your trait <Poison Resistance> has reached [Novice] level.]
+
+Despite the sudden increase in Poison Resistance, she still felt like the nasty liquid was eating through her feathers. Liora wanted to wash it off, but obviously, there wasn't any time for that as the two remaining heads lunged at her with their mouths wide open.
+
+It was likely that they would have caught her in her moment of hesitation. But Serena flung a fireball at one of the heads, making it writhe and screech in pain. Liora, despite the unpleasant feeling surrounding her body, used Holy Light at the abomination at point-blank range.
+
+It tried to retreat; however, it seemed to have lost some coordination between its legs as one of its heads got destroyed. The monster couldn't dodge in time, and Liora destroyed one of its legs. Then another. She kept using Holy Light until her mana was almost empty, and the abomination had turned into a nasty sludge puddle on the forest floor with five blightstones floating in it.
+
+"What the hell are those?" Kalen asked.
+
+"Now is not the time! Get that nasty sludge off, Liora!" Serena exclaimed, withdrawing her old robes from the Inventory.
+
+She threw on Liora and furiously tried to wipe down the sludge. Liora did her best to clean herself, rubbing against the cloth, but some of the sludge got all the way to her skin, burning and biting into her flesh like acid.
+
+You need water!
+
+"Water!" Liora screeched.
+
+Kalen hurriedly withdrew water and dumped it all over Liora. It was a great relief. She puffed up her feathers, letting the water trickle through and wash away the filth. Ideally, she would have liked to submerge herself, but this would have to do for the time being. At least her body didn't like being burned by acid anymore.
+
+"What the hell is that stuff?" Kiva exclaimed, looking at Serena's old robe.
+
+There were holes in it. Not the ones from wear and tear either, but new ones that appeared in the spots where most of the sludge was.
+
+"I don't know. But don't touch it. Don't touch those rocks either," Serena said.
+
+The other two nodded.
+
+Liora, however, had other ideas. She flew up to the blightstones and drew them into her Inventory before anyone could decide to grab them.
+
+"Liora!" Serena exclaimed. "Drop those! You don't know what they'll do to you!"
+
+"I know," Liora retorted, landing on a tree of a nearby branch and looking over her plumage.
+
+Her feathers were riddled with holes, and her beautiful iridescent sheen was almost entirely gone, eaten away by the sludge. If she could, she would have killed that abomination a second time for ruining her feathers. But, unfortunately, she would have to hope that the System would be able to mend them.
+
+[Status]
+
+Health: Wounded
+
+Mana: Trickling
+
+She exhaled in relief when she didn't see the cursed affliction, and deposited the Holy Wand back in her Inventory. She didn't need it for now. She did, however, equip the necklace to recover her mana.
+
+That was far too close for comfort. I don't think I could have defeated that thing without Serena.
+
+No… The corrupted versions seem to be proportionally stronger than their regular monster counterparts. You have to do some serious grinding and raise your levels if you wish to proceed through this dungeon safely.
+
+Liora agreed. As soon as her health and mana recovered, she would start fighting everything in sight for experience. Perhaps it was time to focus on her next evolution.
+
+"Liora, drop those stones!" Serena pleaded while Liora was thinking, but she ignored the girl.
+
+She respected Serena for worrying about her, but in this instance, Liora was the one who knew what to do with blightstones. It was better that these three even forgot they existed.
+
+It was then that Liora realized that they were forgetting about something. Something relatively important.
+
+"Damien," she squawked out.
+
+The others stared at each other for a moment, likely realizing that they had forgotten about him, too.
+
+"He's over here!" Kalen indicated and led them a small distance away.
+
+Damien was leaning against the tree, his eyes closed, his breath ragged and heavy. Sweat was dripping down his face, while his limbs occasionally twitched involuntarily.
+
+"Something is wrong with him!" Serena concluded.
+
+"It must be because he was bitten. We have to remove that armor," Kiva exclaimed.
+
+"I'm on it," Kalen said and began to expertly remove the man's armor piece by piece.
+
+Liora had no clue how he did it. He pressed into some places, and pieces of armor came loose. First, the gloves and boots, then the shoulder, knee, and elbow guards. The last was the large chest piece, which Kalen seemed to struggle with, likely because a good chunk of it was chewed up by the monster.
+
+"That is… horrible… How could that thing bite through armor like that?" Kiva exclaimed in horror, looking at the chest piece. There were horrible puncture marks, and it was covered with blood as well as the black sludge. But how did the sludge get there? It is the monster's saliva.
+
+But when Kalen turned Damien to look at his injuries, everything became clear. The bite wounds were already festering, oozing both blood and the black sludge.

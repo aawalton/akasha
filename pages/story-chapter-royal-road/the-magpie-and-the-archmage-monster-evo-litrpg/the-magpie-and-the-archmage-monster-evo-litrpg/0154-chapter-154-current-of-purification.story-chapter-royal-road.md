@@ -1,0 +1,167 @@
+---
+id: 20dd5211-3485-5145-ab1d-07c72a38688d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 154 – Current of Purification"
+slug: 0154-chapter-154-current-of-purification
+partOf: the-magpie-and-the-archmage-monster-evo-litrpg
+position: 154
+ownLength: 1962
+unit: words
+publishedAt: 2026-07-31
+link: "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3749412/chapter-154-current-of-purification"
+royalRoadId: "3749412"
+---
+
+"Can you all somehow keep those corrupted freaks off me. I'm going to try to purify those relics. They are just oozing with dark energy," Liora asked Dolphar.
+
+"I shall organize a defensive force round," the merman said dutifully.
+
+Before long, Liora had a whole squadron of merfolk surround her. They were eager to swim ahead but Liora stopped them.
+
+"Let me give you all a little boost," Liora and chanted the incantation for Holy Imbuement.
+
+She swam around touching the weapons of the merfolk, watching how they began to glow. This was an easy and relatively cheap way to give a boost to everyone against these corrupted freaks. The merfolk marveled at their glowing weapons.
+
+"What does this do exactly?" Dolphar asked, looking at his own shining harpoon.
+
+"It gives your attacks a holy attribute. It doesn't last for too long, but it should give you the edge you need to overcome the corrupted creatures," Liora explained. "Now cover me while I try to get to that stone slab."
+
+The merfolk cheered, brandishing their weapons high. It appeared that Liora just improved their morale. They appeared too cheerful in her opinion. There was still a horde of corrupted sea creatures in front of them.
+
+But at least, when flapped her wings to propel herself forward, a squad of merfolk was quick to follow and surround her from all sides. With their holy imbued weapons, they could actually fight back the creatures, albeit they seemed to do it somewhat reluctantly, likely not wanting to harm them.
+
+Well, they would have to put up with it for now. Unless Liora purified those slabs there would only be more and more corrupted sea creatures, so that was priority.
+
+But as Liora swam closer to the slabs, the corrupted creatures seemed to swarm her guards with increased ferocity, eager to stop their advance. When a vicious, large corrupted squid appeared, spreading its nasty tendrils that were covered in black gunk, she had no choice but to join the fight.
+
+She combined Holy Light with Wind Blast and unleashed her formed Holy Blast unto the cephalopod. Since it was so huge, she doubted a few Holy Lights would have been enough to stop it.
+
+The effect was powerful, as the squid recoiled from the bright array of light shooting straight at it. Wherever the light hits, the corrupted darkness would retreat and the squid itself would begin to fall apart. But it wasn't enough to kill it. It remained persistently in Liora's way.
+
+"Fine! I wanted to try out my new skill anyway," Liora said.
+
+She focused on her Raptor Lunge skill and combined with Purify to give it the holy attribute needed to deal damage to the corrupted monster.
+
+[You've successfully formed the skill <Holy Raptor Lunge>.]
+
+Her talons glowed with radiant light as she used them to tear into the squid. It was like cutting through butter. Her razor sharp talons and the holy attribute made it easy to cut through the squid's squishy flesh.
+
+The monster tried desperately with its tentacles, but just severed them. Not to mention, that it couldn't compete with her speed. While she was nowhere near as agile as in the air, the squid was hardly the fastest thing in the sea.
+
+[Your trait <Fluid Flight> has reached [Expert] level.]
+
+[Fluid Flight – Converts aerial movements and skills into underwater counterparts. At [Expert] level you can remain underwater for 1 hour without needing to resurface for air.]
+
+Just as the notification appeared, Liora could feel herself able to swim faster, maneuver better underwater. Disposing of the corrupted squid was easy.
+
+[You've defeated <&*$%$*&^>. Experience gained.]
+
+Several nasty blightstones formed from the defeated squid and Liora hurriedly grabbed them before they could sink to the bottom of the ocean.
+
+"Try to grab the blightstones if you can," Liora instructed the merfolk.
+
+No, this was not purely out of her greed. Sure, she did want the glimmerstones that she could get after purifying the blightstones. But the fact was that she still didn't know how exactly the blightstones would behave. She remembered how they used to wither the grass around them, so surely just letting them sit at the bottom of the sea wasn't going to be good for the environment.
+
+Unfortunately, the squid was just the beginning of Liora's problem. The merfolk were fighting valiantly, but the closer they tried to get to the slab, the more corrupted monsters tried to stop them. It was as if somebody was controlling them.
+
+That was a scary thought. Liora remembered well, how stole Renir. It had only been possible because a corrupted boar had attacked the wagon that carried Renir. It was clear that the Night Order mages had no control over that monstrosity.
+
+If they had actually learned to control these destructive, mindless monsters… Liora feared to imagine what they could do.
+
+But one thing was clear. The stone slab had to be purified. After fighting through the horde of corrupted sea creatures and using up much of her mana, Liora finally managed to get to the first one.
+
+"Let's see how you like this!" Liora said and hit the stone slab with Purify.
+
+It shook viciously, sending ripples through the water. These ripples sent every nearby corrupted monster into a frenzy. They completely disregarded the merfolk they had been fighting and rushed straight at Liora.
+
+"Protect the bird!" Dolphar shouted, throwing his harpoon at one of the larger fish that was swimming at Liora and managing to skewer it just in time.
+
+While the merfolk did her best to protect, she redoubled her efforts at Purifying the stone slob. It resisted quite a bit, even with Purify at [Expert] level. Each attempt resulted with more and more ripples which sent the monsters into complete frenzy.
+
+Perhaps it wasn't that the monsters were being controlled by the mages. They were just reacting to the slab being purified.
+
+Frustrated by the stupid slab, Liora angrily launched a fully powered Holy Light into the mix. To her surprise, the light beam went straight through the slab, shattering into pieces. These pieces then turned to shimmering dust which dissipated in the sea water.
+
+At the same time that the stone slab was destroyed, the previously corrupt monster all became normal. Just like that. The fish hurriedly swam away, fearful of the conflict while larger sea creatures like seals and dolphins looked around in confusion.
+
+"It worked! We must continue on to the next one!" Dolphar indicated the next slab.
+
+Liora sighed. She could see at least five more such slabs. While the one she had purified had reduced the number of the corrupted sea creatures there were still plenty left.
+
+"I… I don't think I'll be able to deal with them all," Liora admitted, and opened her status.
+
+[Status]
+
+Health: Scrapped
+
+Mana: Trickling
+
+"I'm running low on mana," Liora said.
+
+[Warning: less than 5 minutes of oxygen remaining]
+
+"And air…" she added.
+
+The air problem was solved instantly by Dolphar who covered her in a flurry of bubbles that quickly renewed her oxygen reserves. But mana wasn't so easy to provide.
+
+Could she drain it from the corrupted monsters? No, it only works on defeated creatures and these guys just turned to blightstones once defeated.
+
+"We require mana potions," Dolphar called in a loud sonorous voice that seemed to reverberate through the water.
+
+Few of the merfolk swam up to him and gave unusually shaped bottles which seemed to be made out of large seashells.
+
+"Drink this! We will provide you with all the support necessary, so please do not give up!" Dolphar said, outstretching a potion toward Liora.
+
+She could see the desperation in the merman's eyes. He was protecting his home. Home he couldn't protect without Liora's help. Should Liora give up, then these merfolk would all lose their homes.
+
+Liora knew all too well the pain of losing one's home. The precious nest she had to give up in order to help Renir. The nest she had to leave because the Night Order mages would destroy the whole forest if Liora hadn't left it.
+
+But she was much stronger now. She could fight. Although she couldn't fight to protect her own home. She could fight to help these merfolk.
+
+"I'll keep going for as long as I can," Liora said, uncorking the potion and drinking from it as best she could. To her surprise the potion was the same viscosity as the sea water. It was thicker, like gravy, and stuck together, making it easier to drink underwater.
+
+With that one potion her mana reserves were once again replenished. She could keep fighting. So she kept fighting.
+
+Winds of Purification. Purify. Purify. Purify. Holy Light. Holy Raptor Lunge. Holy Slash. Purify. Purify. Purify. Holy Light.
+
+So Liora kept going, and going, almost like a robot working tirelessly towards her goal. But the problem was that she was getting tired.
+
+[Your skill <Purify> has reached [Legend] level.]
+
+[Your skill <Wind Blast> has reached [Expert] level.]
+
+[Your skill <Holy Light> has reached [Legend] level.]
+
+[Your trait <Prismatic Twilight Vision> has reached [Novice] level.]
+
+Liora's skills were growing at such a rapid rate, she could barely keep track of them. In fact, she might have missed the notifications entirely, so used to dismissing them, if it weren't for sudden improvement to her vision.
+
+All the mana in water became so much clearer to see. The dark energy from the slabs was so much more obvious as was the magical energy radiating from the merfolk. She also saw light currents of mana flowing through the sea. The disruption of these streams was clear near anything corrupted.
+
+However, Liora couldn't rest to admire them. She still had one stone slab left to Purify. Just one and then she could rest.
+
+But she was so tired, and so were the merfolk around her. Some of them had switched up at some point, however Dolphar had remained by her side fighting tirelessly.
+
+"Do you require rest? I believe we can afford you a few hours," Dolphar offered as he used his harpoon to repel a corrupted eel.
+
+The shine of his weapon was slowly dimming, indicating that Holy Imbuement was once again losing its effect. It felt like she had renewed it a dozen times by now.
+
+"But we're so close…" Liora said, looking at the ominous slab in the distance.
+
+"All the more reason to take a rest. I doubt it'll end so easily with just the destruction of the slabs. The humans will surely put up more resistance than that. It is best you recuperate in the oasis for the time being."
+
+Liora nodded reluctantly. Mostly because she was having trouble keeping her eyes open. It wouldn't do anyone any good if she just passed out in middle of the battle.
+
+"Please, guide me back to the oasis," Liora muttered.
+
+Dolphar reached to grab her, when suddenly something shot into the water right between them. Liora pushed herself back, guided purely by the lightning fast reflexes.
+
+"What was that?" Liora said, looking down in the depths. She didn't see anything there.
+
+Another beam shot past her, just narrowly missing her wing. This time Liora looked up to the surface.
+
+There were the remaining hordes of corrupted sea creatures and also a lot of water. Liora didn't know how deep into the sea they were exactly, but even she struggled to see all the way to the surface. However, she did see something up there.
+
+A figure of some sort. From it came another beam which shot down into the water. She dodged it and then realized what exactly these beams were.
+
+That was Lucien, shooting her down from the surface, and he was only warming up.

@@ -1,0 +1,249 @@
+---
+id: f4d3f6e1-0be5-5365-ad7c-68ac02dcc91e
+page-type-slug: story-chapter-royal-road
+title: "305 A Galaxy Unexplored"
+slug: 0264-305-a-galaxy-unexplored
+partOf: the-new-world
+position: 264
+ownLength: 3974
+unit: words
+ownProgress: 3974
+publishedAt: 2021-09-03
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/744680/305-a-galaxy-unexplored"
+royalRoadId: "744680"
+markedReadAt: "2026-06-29T21:30:14.658Z"
+---
+
+Althea sighed while letting go of my hand, "I really don't want to be a part of the politics if you don't mind."
+
+I whispered back, "Eh, neither do I. Go attend to some urgent errand. I'll let them know you couldn't attend."
+
+She phased away, escaping the evening while I remained trapped in it. It wasn't the end of the world, however, and Obolis smiled at me with his distinguished bearing and numerous scars, "It's wonderful to see you again, Daniel. I brought extra company for the event, as your absolving from this war is worthy of celebration."
+
+Obolis's eyes passed over the stacks of merchandise, hunger lacing his expression, "As are your spoils of said war. They are impressive." His face stayed set on the gear while his eyes met mine, "Just as well, I'll assume that Althea was needed elsewhere?"
+
+Obolis heard our conversation from across the room, so he helped us with delivering our excuse. I took the opportunity,
+
+"Of course. We just got the ceasefire handled today, after all."
+
+The newcomers reached us, and I gave Obolis a handshake, the albony ruler remembering the gesture from before. Turning towards the two albony behind him, I raised a palm to them, "It's good to see you, Victoria and Alastair."
+
+Alastair went to reply, raising a hand. His voice cracked, extinguishing his efforts to speak. On the other hand, Victoria mimicked the gesture made by Obolis, stepping up with excitement, "It's great to see you as well, Daniel."
+
+We shook hands, and she held my hand a little too long while smiling a bit too wide as well. It was a predatory glance, one I didn't like being viewed from. Looking for a way out of the situation, I found a group of around twelve albony stepping in behind the Emperor. Each of these royals peered around with closed gestures and wary glimpses.
+
+They stared at me like I were a hungry eldritch waiting to eat them. Taking charge of my first impression, I spread out my arms,
+
+"I know this is a relatively humble place to have a celebration in, but we've just ended the war earlier today. Feel free to glance at what we've gained and speak about it. Don't touch it, or else I can't guarantee you won't end up fighting one of the guardians I posted here."
+
+The supergolems peered at the incoming crowd with their unblinking, crystal eyes. I clasped my hands, "They'll show you something if you want to look at it, and I'll be talking to everyone at some point during this evening. Refreshments and food are over there, so without any more of a wait, enjoy yourselves."
+
+Relieved by my lack of hostility, the royals stepped in with their heaviness leaving them. I peered at Obolis, the only member near eye level with me, "You want to inspect the goods here?"
+
+He raised his hands as fists, his giddiness subdued but apparent, "Oh, was I that transparent? Do excuse me, but yes, I'd love to."
+
+We walked over towards the pile of goods, and Obolis marveled, "This is more than I'd have imagined you'd gain from a ceasefire. Being a military force must come with its perks?"
+
+I nodded, "It does. How's your side of the war front going?"
+
+Obolis's shoulders rose a bit, and he gave me a friendly nudge on the shoulder, "Better now, thanks to your efforts. Tearing down Elysium's system left its mark, even if it was short-lived. They were rendered utterly confused and senseless without any communication. A few of their pocketed defenses were torn apart during that time."
+
+Even as he spoke of something else, I dwelled on how he treated his planets' subservient species. I frowned, "That's good."
+
+My armor shifted with my expression, letting people read my face despite the covering over it. Sensing my unease, he placed a hand on my shoulder, "I understand your agitation. I've seen the footage as well. I'm certain you're feeling somewhat responsible for the partial glassing, but think nothing of it. Elysium is to blame, and you merely defended yourself. Those deaths lie in the hands of Elysium's incompetent leadership."
+
+I shook off the feeling to retort, 'Your leadership isn't much better.' Rolling my shoulders, I took a breath before letting my animosity go. Now wasn't the time and place for it, and I'd bring these issues back up in full force after killing Plazia and getting my reward for it. Changing the subject, I gestured to the row of obelisks,
+
+"Any opinions on these?"
+
+Obolis leaned over, pointing at one, "May I?"
+
+"Of course."
+
+I kept my eyes peeled on Obolis as he turned the dark obelisk in his hand, the red lights glimmering. He sighed, "Hm, quite a piece. Would you take it for a few cipheric pieces of my own?"
+
+I reached out a hand, and Obolis tossed the obelisk to me. The dark sphere opened up a red status panel in my vision. Every word, sentence, and phrase worded itself exclusively in the cipher. This could be instrumental for learning more advanced pieces of the ancient language, so I let out a sharp breath while stating,
+
+"No."
+
+Obolis shrugged with a knowing grin, "I can't be blamed for trying. Now, I've no idea what that's for, but it's ancient. So ancient that it likely precurses even Schema. By my estimation, some civilization uprooted itself in the advent of this advanced technology. That parallels the remnants' fall. Gah, isn't it fascinating? I'd love to give it to a few of my exiled guildmembers and see what they'd make of it."
+
+"Exiled guildmembers?"
+
+He waved a hand, "Not everyone who's attuned to the cipher may rise high enough in Schema's system to study it. I give these exiled members protection and the opportunity to study the cipher at their leisure. They compensate me with their discoveries and becoming exiled."
+
+"Huh. Why not work with the eldritch instead?"
+
+Obolis let out a sigh of frustration, "I've tried, but the Overseer has refused me any permit for such a situation. Speaking of forbidden access, I know you work with Amara and Hod. How did you gain that kind of access to study with them? Of course, only answer if you're willing to share?"
+
+I glanced at Amara, who stood by the food. She sliced it apart with her hair strands until it was a fine mush. She scarfed down the mushed bones and liquefied flesh like a vacuum cleaner right after. While I didn't know much about her, Althea mentioned how she was an apprentice to a Builder.
+
+Considering how volatile a position that must've been, it amazed me how Amara made it this far. She bore a weight from those unspoken experiences that gave her a scornful and desperate disposition. Only recently did she open up, and mainly from the armor I gave her. Even with that mysterious nature of hers, I trusted her because of her mission on Gypsum. She hadn't let me down yet.
+
+Schema would never offer that kind faith in her, but the AI allowed her to be a part of my guild. If I had to guess why, it was because of how pivotal she was for my success. Those accomplishments resulted in more eldritch being killed than just her death alone. Like me, Amara amounted to an investment, and Schema wanted the full benefits of his gamble now that it was paying off.
+
+Once it quit giving, he'd likely have her killed. If he'd be able to by then.
+
+I raised my eyebrows, "We're a part of his risk-reward strategy, I'd guess. I know my region's Overseer owed me for killing Yawm too, and he might've given her access. She's still an unknown. Anyone here could kill her for experience if they wanted to."
+
+Obolis let out a hearty laugh before covering his mouth, "And what? Have you barreling after them? There are worse consequences than Schema's bounties and Breakers. You are among them."
+
+"Eh, thanks. I'd probably just smash them to death, though."
+
+Obolis winced, "Yes, you could, but most have seen how you fight by now. It's monstrous, more like an animal or machine than a sentient. With only slight alterations, your capacity for torture would be legendary." He coughed into a hand, "If you would lower yourself to such a practice."
+
+I did have the skill, though I never intended on leveling it. The Emperor straightened himself out, "Now, enough pleasantries. There was a matter I needed to discuss with you before I perused this gathering of rarities."
+
+"Ah, Plazia-Ruhl, right?"
+
+"That's correct. I know you've been rooted in this conflict since its inception, and that has given you minimal leeway. I've offered my understanding, and I will continue to do so. But, due to this truce-"
+
+"I have time on my hands, right?"
+
+"You've understood my meaning. When can I anticipate your assassination of Plazia?"
+
+"I'll be leaving tomorrow for it. It probably won't take long."
+
+Obolis's eyes widened, "Hah, excellent. That's simply superb. I was frightened you'd call off the arrangement at this rate, considering the sheer amount of expansion you'll be mounting in the meantime. I'd have forgiven you for it as well. I, too, feel the desire to conquer, though for different reasons."
+
+Being pooled together with the Emperor didn't sit right with me, but I chose not to fight it out here. I crossed my arms, keeping the subject off comparisons,
+
+"I'd be lying if I said I never considered stopping our deal, but I don't think Plazia should be that difficult to get rid of, considering he's stayed small enough on the ahcorus's homeworld to keep it from becoming fringed."
+
+"That's a reasonable point, but never underestimate a Ruhl. They are spoken of in ballads across most worlds as the destroyers of planets."
+
+I tapped one of my forearms with a knuckle, letting out a metallic ring, "I never would. My first dungeon boss kill was from a Ruhl."
+
+Obolis blinked, "Now that's a surprise. Where and why would Schema not warn you of that? Perhaps you could speak more of it?"
+
+"I'll just say this - Ruhl's are the real deal. Either way, their intelligence is what makes them deadly, not their combat potential. Considering my abilities, I don't think Plazia will be able to outsmart the sheer power difference. It's like me trying to outsmart Eonoth. Positioning and strategy can only compensate so much."
+
+Obolis's eyes grew dark, "I'd remind you that is precisely what Elysium has done, according to the reports from Helios."
+
+"That's what Elysium would like to think, but I don't know if you can outsmart an Old One. To me, they appear to have precognizance, meaning they hold all the chips and cards in their hands at all times. If they hand you some chips, it's because they know they'll win them back."
+
+I grimaced, "That means no matter how you interact with them, it's to their benefit and not your own. That's why everyone who serves an Old One ends up becoming a corrupted abomination. That's why even though I'm not a genius, I'm still smart enough to know when to avoid a losing situation."
+
+One of Obolis's eyebrows raised, "Are you scared of them?"
+
+"Pshh, scared? No, I'm terrified."
+
+"Perhaps there is wisdom in that. According to my recounts of historical tellings, encounters with the Old Ones are relatively mixed. Some gain glory unbounded while others are washed into depths of unspeakable gloom. You've seen Yawm's descent and what he became, but you've never seen the full extent of an avatar's rise. They are remarkable."
+
+I winced, remembering how I was technically an avatar for Etorhma. Obolis misread my expression, "That isn't to say your own advancement isn't comparable. It's simply to point out that there are others like you, anomalies who defy the rules and constraints that others are subject to."
+
+The last thing I'd be wincing about would be rivals popping up. If anything, that sounded exciting. They might appear one day, but for now, the Emperor clapped his hands, "Now, that's enough talk of history. I'm going to continue peering through these goods if you'd like to join me."
+
+I shook my head, "I think I'm going to meet the other guests instead."
+
+"Fair enough. Enjoy your celebration, as I most certainly will."
+
+Obolis stepped off, speaking with a supergolem guard. They began walking through each of the displays, the supergolem holding different items for his inspection. Others perused the items under the gaze of my bouncers, so I left them to it. Joining a crowd more kindred to my own spirits, I found Wrath, Hod, and Amara indulging in the food they sprawled out.
+
+The delicacies weren't originally haphazardly lapped about, but these two gluttons pulled together two vast piles of food as they had on the Nebula Drifter. At this table, Hod faced off once again with Wrath. Other Hod would've stood no chance against Wrath in an eating contest, but Other Hod had left long ago when the party first began. His ganglier, goofier version sat beside Wrath.
+
+Hod had returned in full force, and he indulged without end.
+
+Hod licked his claws in his beak, "Ah, Hod respect goop lady. Goop lady eat lots. But, Hod know goop lady lose. Hod outeat anyone besides Hod. It make Hod wonder if Hod versus Hod ever end. Hod not think so. Hod think food end first."
+
+Hod sat atop his own swollen belly, comical and kind of grotesque. Wrath did the same, though her slime body seemed better suited for this. She struggled on, trying to muster an ounce of hunger for herself. As she did, Hod stared down at her with unblinking eyes. He radiated confidence so absolute that his gaze trumpeted his victory louder than an orchestra.
+
+Without even a morsel of hesitation, Hod downed an oversized animal thigh, bone and all. He leaned towards Wrath, "Hod wonder, is goop lady like balloon. Hod wonder if balloon lady better name than goop lady. Hod also wonder..."
+
+His face got right beside Wrath's, "Will balloon lady pop?"
+
+Wrath's face fell forward, smacking into her bowl of food as she passed out. Hod was victorious, and cheers from an onlooking crowd echoed across the commons. My voice was among them, but most of this audience composed of servants, their lower station allowing them to enjoy something so primal. If a royal did the same, they'd be a laughing stock at some haughty court for months afterward.
+
+But that didn't mean only servants enjoyed this struggle. Beyond these butlers and maids, other razor queens inspected the scene. They carried hulking yet ever-shifting frames, each of the amorphous blobs a different color and shape. One of them shifted like a pool of cerulean water, maintaining no resolute form. Another kept themself covered in a keratinized shell of sharpened teeth, none of its amorphous body exposed.
+
+The other razor queens fell somewhere between those two extremes. It was a feast for the eyes, given their ambient colors, and they stuck out like a rainbow come to life. A lavender-shaded razor queen caught me gazing, so it wriggled up towards me, about half my size. It spoke out, "Your follower is a dichotomy. It leaves its eldritch mind behind, but those instincts remain. It consumes many times its size, yet it hungers forth, as all the eldritch do."
+
+The lavender razor queen shivered, "Wrath has spoken of your hunger as well. She says it is legendary, unending, a void of consumption lasting an eternity...But I know nothing of it. Those tales are but words, and words can mean little."
+
+I shrugged, "Those stories are definitely true, in this case. I could probably outeat Hod if I wanted to."
+
+Hod turned to me. He lurched forward, but his bulbous mass of a belly held him back, "Hod disagree with Harbinger. Harbinger lie! Harbinger not outeat Hod. Hod challenge Harbinger. Hod never lose."
+
+He raised both his winged hands, each arm looking more like a rail than a limb. I walked up and smiled, "Come on, you know I could tear through all the food on this planet right now if I wanted to."
+
+Hod's imposing demeanor deflated as he rested on his previously eaten food. His eyes watered, "But...But Hod want victory. Victory taste better than food. Some food. Ok, most food better than victory, but victory still nice."
+
+He stared up at me in desperation, so I put my hands on my hips, "I surrender. You win."
+
+Hod lifted his hands, the hollow victory meaning no less to him than a real one, "Yes. Hod relish victory forever."
+
+Without a second of consideration, Hod turned to a different razor queen. Hod puffed his chest out and put his hands on his huge gut, "Hod may not have mentioned, but Hod outeat even Harbinger."
+
+The razor queen stared at him as if he was an idiot.
+
+Hod nodded, "Hod know. Hod impressive."
+
+I laughed a bit, his oblivious innocence both funny and refreshing. The guy enjoyed his simple pleasures, taking life on in a literal fashion. I envied that candor at times, and most people could use more of that attitude in general. I knew I could. I turned back to the lavender razor queen,
+
+"Anyways, what's your name? Mine's Daniel."
+
+The lavender slime shifted, its form rippling as jagged teeth spawned over its surface. Eyes bubbled up from beneath its outer membrane, the orbs more mock imitations of eyes than anything. They floated about in an unsettling, eerie way before locking in on me. Those eerie oculi remained off-center.
+
+It was like the slime was trying its damndest to fall in the uncanny valley, and it was doing a great job of it. It said, "I am Envy."
+
+It created limbs before trying to stand my height. Lanky and thin, it did so with effort. I tapped my sides while trying to manage the situation, "It's good to meet you too, Envy...So, uh, what are you doing?"
+
+"I am trying to emulate your form. It is invigorating to do so, as you hold combative aggression at all times. I wish to have this for my own."
+
+"It sounds like you live up to your namesake then."
+
+Its disturbing 'face' pooled up close to mine, no fundamental understanding of personal space in its mind, "I would take everything from you. Your mind, your metal, that ominous glow of your mask...I wish for all of it, and I would take it if only I could."
+
+It got even closer. The stench of rubbing alcohol permeated its body, dense like a napkin drenched in the stuff. It echoed, "If only."
+
+I pressured it with Event Horizon. It shivered, returning towards its previous blobular shape. I raised my eyebrows, "That's good to know, but you might want to be a bit less candid when meeting someone new. Especially when you have a personality like that."
+
+Envy backed away, "I...Yes. I understand, Harbinger. I meant what I spoke of like a compliment, but it is difficult for me. My urges, they carry me away at times, as if I were but a stick within a river."
+
+"Huh, alright. I get that. Just keep some distance between us, and we'll be fine. No harm, no foul."
+
+Envy skulked away, disheartened by our encounter. Dammit, now I felt bad. It wasn't how I wanted my first talk with a razor queen to go, but if I allowed Envy to pressure me, the others would do so as well. Speaking of other razor queens, I turned to them, "So, does anyone else want to introduce themselves, preferably with more personal space involved?"
+
+The slimes stared at me without a word. They all blanked, their shifting bodies unreadable. One slithered towards me, an emerald-hued razor queen with forest green blotches closer to its center. It murmured, "You speak without riddles on your tongue. It is joyous for us, as many who walk on two legs are difficult to understand. I am simple to comprehend, as I am known as Reason."
+
+"Huh, it's good to meet you. I'll be visiting your homeworld soon to eradicate Plazia. Sorry for the wait."
+
+"It is a battle centuries in the making. To wait further is no tall ask for such a short time. We wonder yet worry what you will think of our home."
+
+"That depends on what kind of place it is."
+
+"It is a darker world than this. It carries little water, plumes of gas crawling along its surface like an ahcorus youngling learning to uphold a form. We live in caverns beneath the ground, ones we carved ages ago. You will find food present, though not like this. It is far coarser and less rich."
+
+I raised an eyebrow, "You mean rocks, right? Wrath told me that you all ate minerals."
+
+"She is correct. We serve visitors crystallized mana, as they may consume little else aside from that delicacy."
+
+I squeezed a hand, throwing Reason a chunk of quintessence, "Like this?"
+
+Reason reached out with a partitioned section of herself. The blob spread about before claws expanded from her outer membrane. They grasped the gemstone, ogling it. Reason rippled back and forth, "Great joy in this gift. Thank you. Thank you."
+
+The crystal submerged into her body, and it dissolved as the razor queen radiated with white energy. Reason inched closer, "I may host your colony, if need be, within my own domain. From there, you may attack the great besieger and ruler of the underworld. It will desiccate your mind should you allow it to."
+
+I shrugged, "Alright. Sounds good to me."
+
+Reason trembled as memories passed through her mind, "That monster is beyond reckoning. Its moves are more than we may understand. Its intentions are beyond comprehension. No matter your approach, it will be the greatest battle of your life. Anticipate a journey that will hollow your soul and leave your life forever altered."
+
+I blinked, kind of intimidated but keeping my confidence, "Is it hungry?"
+
+Reason jiggled, "Always."
+
+I raised a hand, "I'll give it a knuckle sandwich."
+
+Another razor queen came up, the cerulean one. It spoke with a voice like harmony, "Ah, I know of this sandwich. Are you serving your hands as a poisonous dish. That is quite clever."
+
+The other razor queens nodded to each other. I gave up correcting them, and they each introduced themselves. They took on various names from common concepts. As with Envy and Reason, those concepts reflected the razor queens' approach to life and their colonies. It was an exciting conversation.
+
+I even learned that Wrath convinced them of Plazia as a threat worth exterminating. As insinuated by her name, Wrath acted with the most aggression, so it made sense she championed the effort to kill the nested Ruhl. We continued the discussion, our topics revolving around their food and lesser slimes, but before I learned much, a spike in mana nearby lured me away from them.
+
+Stepping back, I found an ark or two of arcane energy amidst a group of albony. I leaned over, curious about who controlled the violet electricity, and I found a familiar face. It was a Speaker I met a long time ago before I even killed Yawm. I remembered him as a skeptilian who covered himself in runic markings. The Speaker turned to me, still covered in the blackened scales of some draconian eldritch.
+
+It was Tera, The World Breaker. I spread out my hands when I saw him, "Hey, Tera, it's good to see you again. Long time no see."
+
+The Speaker turned to me, gawking as I loomed over him like a giant,
+
+"I'm sorry, Harbinger, but I don't think we've met."

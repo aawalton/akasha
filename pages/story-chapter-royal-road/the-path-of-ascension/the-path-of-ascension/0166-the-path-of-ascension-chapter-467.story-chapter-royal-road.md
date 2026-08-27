@@ -1,0 +1,547 @@
+---
+id: 9cb5bdaf-a12b-52b1-8211-dc62864fabb0
+page-type-slug: story-chapter-royal-road
+title: "The Path of Ascension Chapter 467"
+slug: 0166-the-path-of-ascension-chapter-467
+partOf: the-path-of-ascension
+position: 166
+ownLength: 6759
+unit: words
+ownProgress: 6759
+publishedAt: 2025-12-22
+link: "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/2871113/the-path-of-ascension-chapter-467"
+royalRoadId: "2871113"
+markedReadAt: "2026-06-29T19:33:27.913Z"
+---
+
+Chapter 467
+
+Hearing that people might fight and ruin an aspected world only weeks after having seen what such fights resulted in, Matt’s still simmering anger blossomed into a steely determination.
+
+The Tier 33 team tried to warn them off but didn’t look too surprised when they followed along.
+
+Liz tried to get more information out of the group but they hardly knew anything additional, only repeating what they heard from the call to arms.
+
+As they got closer, more cultivators started gathering on the sky bridges according to their Great Powers.
+
+While a thin layer of connection, it was the only lifeline many had if they wanted a piece of the aspected planet.
+
+Other groups immediately saw what was going on and turned the other way.
+
+Personally, Matt considered them the smart ones.
+
+If things turned bloody, no one could be sure they’d survive in the ensuing battle, but that was what he wanted to prevent in the first place.
+
+Just because the Tier 50s weren’t there to enforce the accepted war rules didn’t suddenly invalidate the reason for the rules being created. For whatever reason, entering the breach, where planets weren’t inhabited, seemed to completely remove people's inhibitions.
+
+He wanted to prevent that from happening and there was only one way to do so.
+
+Being the biggest fist.
+
+And while at Tier 29, that was never going to happen, he did have the semblance of a plan.
+
+They were three planets away when the fighting started.
+
+Impacts rippled through the sky bridges, spurring everyone on all the more.
+
+Several fights broke out among the dozens of teams moving along with them, but most people understood there was little use fighting before arriving at the crystal planet.
+
+No one deliberately targeted them, but that probably had more to do with the fact that they were weaker than most of the people arriving, and no one wanted to be the person who started punching down. At least they didn’t want to risk it while there was the Tier 33 Empire team who had continually tried to shield them from the other groups’ gazes.
+
+When they arrived on the neighboring planet, there were far more signs of fighting bleeding through the sky bridge.
+
+Matt felt like he was stuck in an apartment and listening to a battle next door through the thinnest walls available.
+
+A stronger pulse went through the sky bridge, powerful enough it caused everyone to eye each other warily.
+
+The burst of power was clearly from a Tier 36.
+
+Despite the shared looks of apprehension, most teams continued forward, though one group each from the Federation, Clans, and Corporations turned back.
+
+Running through the final sky bridge felt like it took an eternity, but the two planets were closer together than most and it only took them an hour to cross it.
+
+The moment reality righted itself and he got a good look at the ongoing devastation, Matt tossed out most of his plans.
+
+The world was beautiful. Stunning in a way he’d never seen before.
+
+A Crystal aspected world, and at Tier 36 no less.
+
+It was a jewel of the Realm and should be treated as such.
+
+Everything alive from the smallest bacteria to the apex predators had some level of crystallization. From turtle-like shells that gleamed like a cut gemstone, or the gleaming teeth of the predators meant to break through those shells, everything had been shaped by the planet.
+
+It was amazing.
+
+Except that was the farthest thing from the Great Powers' minds as they had come to blows.
+
+He saw nearly seventy teams battling across the planet's surface. A small degree of stratification had occurred in the fighting, with the Tier 36s being the only ones actually fighting in space.
+
+The lower Tiers, not wanting to get involved with the higher Tiers, spread across the planet and only sowed the destruction further.
+
+Looking closer at the groups fighting, he was confident these people represented nearly all of the Tier 32 and higher groups in this region of the breach.
+
+Everyone wanted a piece of the pie, and as such, were acting like ravenous dogs fighting over a bone, heedless of the damage they caused around them.
+
+Matt shook his head, forcefully stopping his wandering thoughts.
+
+The reasons why no longer mattered.
+
+It was everything he’d seen in the previous world, only magnified by the rarity of the ecosystems they were destroying and the Tier of the combatants.
+
+Thankfully the world was Tier 36. As such, a lot of its flora and fauna were higher Tiered, so the damage wasn’t quite as bad as it could have been but the surface level damage was the least of issues.
+
+Seeing the groups around him starting to square off, he knew he needed to do something.
+
+Empowered by his anger Matt tapped into his Meld. A fifth of his willpower, channeled through his manifested Anchor, and dedicated towards calling his white hole Concept and black hole Intent into reality in the same place at the same time.
+
+The eclipse formed, a wave of harsh black and white sweeping out as the opposed forces struggled for dominance, making Matt the mediator of the challenge before him. Yet it stayed constrained around him as a mantle, coiling and waiting for his command.
+
+Then, for the first time since he’d gotten access to his full second stage Power, Matt bent his willpower into the starscape representing his Domain.
+
+Matt had a single goal: protect this planet.
+
+He couldn’t do so on his own, not truly. He didn’t have the raw combat power to genuinely chase everyone off, not when he was starting at a three Tier disadvantage, but he didn’t need to beat everyone here. He just needed to make a statement, and let the reputation of himself and all Ascenders before him do the rest.
+
+The mantle of his Meld rushed out, a flight of ravenous dragons eager to subjugate reality, and the world itself became black and white as portions of it aligned themselves to either his Concept or Intent.
+
+Spells rushed forth undaunted, save for a few which proved incapable of adapting to the new reality, but Domains across the battlefield were utterly smothered, pushed back to their creators and denied all purchase within Matt’s world. Even those who managed to retain some color were dulled, muted, and lifeless.
+
+Mana poured out of and into his spirit and body, grand coronal loops vividly blazing in every color, and making him seem the realest thing in all of reality.
+
+The effort was staggering. The brief moment of suppressing people so far above him in Tier draining him more than he had been in a long, long time.
+
+He didn’t let any of that show. He appeared unhurried and unworried as he rose into the air, speaking through his Domain with a quiet voice yet knowing that everyone would hear every word.
+
+“Take your battles to the stars, where they belong.”
+
+Nobody moved, either to comply or to challenge him.
+
+Matt was grateful about the latter, because he was already pushed to his limits and simply did not have the capacity to smother everyone right now. Below him, he could feel his friends supporting him, each in their own way. Allie had done something and he could feel her slipping around his Meld, loosening his grasp on their team.
+
+Liz was the first to move beyond that, and Matt felt golden light blossom within his veins as his wife supported him now as always. She was integrating herself as part of Matt’s group of one, treating this Meld as simply another instance of group-casting. Aster’s influence was a breath of fresh air, crisp and cold yet full of life.
+
+Zack’s grasp flitted across Matt’s currents of mana, tightening up their infinite potential in small but meaningful ways. Susanne offered herself as a sword, and Rah was the sturdy stone beneath Matt’s feet.
+
+When Matt pushed forth again, he did so with more than just his own strength.
+
+Aster’s influence was especially noticeable, a wisp of color pushing on everyone and everything yet invisible to all except for him. She jolted their spirits, and that as much as Matt’s own suppression of their Domains, seemed to startle them. There were some holdouts, but he wasn’t done yet.
+
+“This world is a jewel. Do not break it. Any whose actions could despoil this treasure, de-aspecting it through malice or callousness, shall earn my undying enmity as an Ascender. I vow here and now, in front of everyone, to hunt such people to the ends of the Realm. Take your battles elsewhere, accepting your victory or defeat with grace.”
+
+Matt punctuated his statement with a final pulse of his Domain, then ‘graciously’ allowed it to drop. Inside, he was practically gasping for the last bits of willpower he had, trying desperately to not break, not run out of willpower. That would leave his entire Domain all but unusable for decades, and he didn’t want to deal with that right now.
+
+For a long moment, no one moved and Matt was hopeful everyone would simply listen to both his threat and the logic behind it.
+
+He wasn’t so lucky.
+
+Remi, along with a gaggle of followers, had been fighting a Tier 32 team from the Empire but hearing Matt’s words they disengaged like everyone else.
+
+Looking deeper Matt tried to puzzle out why they were one of the mixed Great Power teams. It seemed that by relying on their numbers, bolstered by the core of the wolf’s elites, they had been holding their own against the Empire team even if they didn’t seem to be winning.
+
+The Republic elites were in decent shape, but the hangers on were far from their peak condition.
+
+The question as to why such a diverse group would band together became obvious as Remi sneered in response to Matt’s demand.
+
+Having already downed their much more limited army-supplied combat potions, along with the speed potions they’d bought from Olivier they didn’t hesitate to take the fight. Where most speed type potions had hard to control effects, their fellow Ascenders felt natural, as if Matt had simply cultivated more of the relevant areas of his core.
+
+The pinnacle elite opened his mouth to say something, most likely to make a quip about how they were his defeated foes, but he never got the chance.
+
+Allie teleported their combat group right beside the pinnacle elite's team giving them minimum reaction time. Weapons were already moving and unerringly sought their targets' vitals.
+
+Unlike last time, where they were playing along with good etiquette not trying to kill anyone, this time they didn’t hold back in the slightest.
+
+If they allowed Remi to question their authority, no one else would treat their threat seriously, ruining Matt’s earlier efforts of forcing them to stop fighting for a moment. Second, and most important of all, was that he simply wanted to kill after seeing the state of this world, and Remi had volunteered as a target.
+
+Matt was happy to oblige.
+
+Low on willpower, he only kept his Concept’s mana sharing ability active, planning on relying on his raw mana and strength in the upcoming fight.
+
+Caught flat footed by their sudden arrival and lethal intent, Remi hardly had the chance to react as one of his lieutenant’s heads vanished. The body dropped to the ground lifelessly, their essence returned to the world as their lifesaving measures failed to adequately protect them from Allie.
+
+The teleporter wasn’t the only one to strike without holding back, but she set the tone in that first exchange.
+
+Zack wasn’t any kinder using as little mana as possible to slay his targets.
+
+A silvery gold projectile curved as it left one of the non-Republic mages, its mana turning airy and light.
+
+The now air-aspected spell slipped through the barrier of wind a peak elite tank had conjured around him. Once inside the barrier, the projectile turned a deep brown before it penetrated his helmet, causing his lifesaving item to trigger.
+
+A purple light tried to isolate the tank’s head, but as the teleportation component began to activate, the barrier turned orange and the tank's head was engulfed in flames, ending his life.
+
+One of the peak elite mages tried to retaliate against Zack while he was occupied, but Aster pushed her spirit space to expand as fast as it could, instead of letting people react and flee. She had no intention of letting anyone escape her frigid grasp today.
+
+Out of everyone, only she could feel his raw and unbridled anger.
+
+As a ruler of a slightly lower-Tier aspected world, he knew how fragile they could be. Most of the time, fighting on an aspected world was fine, but widespread battles could disrupt the world's vital mana flows and inject ruinous amounts of other mana types.
+
+The other higher Tiers would know this as well as he did, but they didn’t care or considered the risk acceptable given the timelines involved.
+
+Her calm acceptance and assistance was a good touchstone, as it made staying rational much easier.
+
+The anger still affected them both, but where his anger burned hot, hers was predictably cold.
+
+It was almost as cold as the blizzard she summoned as she imposed her spirit space on their surroundings.
+
+Frost quickly formed over the weakest members of Remi’s group. It mainly gathered on those not in the original group, sealing their fates. While elites in their own rights, the people who had joined Remi’s little vengeance party were the dregs of those that were able to enter the Breach.
+
+Any of them who couldn’t break Aster’s grip found themselves pulled inside her spirit space. There they were sapped of their various energies, fueling its further expansion, helping Aster defend against the other team's mages.
+
+Liz was a beautiful nightmare.
+
+She used [Feather Armory] to summon thousands of feathers the moment she arrived. Some curled and formed themselves into a spear while others coalesced into a layer of armor. The remainder formed a set of ichor wings with a thirty foot wingspan.
+
+Flapping her wings didn’t only give her a boost of speed as she threw herself at Remi, but golden droplets of ichor sprayed half a dozen of the closest fighters. Not content with her speed, Liz used the boost in momentum to further amplify [Blood Dash].
+
+For a brief moment, she blurred even to the highest perception rate Matt could think at.
+
+The blood her skill left behind was initially red, but as she subsumed control over the conjured liquid with her Talent, crimson turned golden as fire and lightning spread, turning it into ichor.
+
+When she stopped moving, she’d impaled a lieutenant who couldn't seem to understand how she’d bypassed all of his defensive mechanisms.
+
+Originally, she’d considered [Analgesic] only good for spreading her plague spells, but since her transformation into ichor, Liz had learned a lot about both skill modification and its many applications, as well as the mana type itself.
+
+Together with Allie and Rah, she'd learned to apply the spell to herself. That let her avoid a lot of reactive skill triggers.
+
+Triggers such as lifesaving devices.
+
+And once she’d gotten in contact with their blood, they were done.
+
+Ripping her spear out the man's back, she threw herself at where Remi was surrounded by his peak elite defenders.
+
+Behind her, another Liz burst forth from her first victory, beginning her own offensive.
+
+Using the Master’s Dominion Natural Treasure, she transferred parts of her Domain between clones, carefully controlling the tempo of her battles so she’d always have an opportunity to strike out offensively at close to full power.
+
+She was burning willpower doing so much, but it made her [Sanguine Legionnaire]s formidable and unpredictable threats.
+
+Boosted by the speed potion, Matt threw himself forward with everyone else, letting his blade speak for him.
+
+The runes were there to stabilize the solidified core of his longsword; it allowed him to further empower [Mana Slash], [Mana Charge], and [Tribulation Strike] past what his spirit alone could handle.
+
+A shield bearer tried to deflect Matt’s blow upward, using both a spell and the natural shape of his shield.
+
+It was a good idea.
+
+Neither effort mattered.
+
+Unleashing its power upon first contact, [Mana Charge] cracked the Tier 33 shield, compromising the top half’s structural integrity. [Tribulation Strike] did more than finish off the tank, it obliterated the man behind him as well.
+
+Continuing with his swing, he unleashed his yet unused [Mana Slash].
+
+The crescent of mana cut through four more people, though it didn’t kill them instantly, having not hit their heads. It did, however, pass through their fight and nearly struck a team who was, like everyone else, still loitering on the planet.
+
+That got them and most other teams moving, but he didn’t have the spare attention to give to them as their momentum was blunted.
+
+[Cracked Air Slide] flung Matt forward, getting him out of the way of an implosion aimed where his head had been. He led with his longsword once more, but this time, his opponents were far more wary, not wanting to take a blow head on.
+
+Matt took a slash to his leg, but he ignored it as he barreled into two more melee cultivators, relying on his overwhelming physical power.
+
+He focused on the Republic fighters, and for his efforts, he popped two lifesaving measures early. He took one woman's life, but the other slipped away at the last moment, and he didn’t have enough time to focus on them as a talisman appeared on his back.
+
+A slip of paper so thin it was nearly invisible flared to life with an inordinate amount of mana as it detonated.
+
+Seeing the talisman and the core rune it was using, Matt swapped places with a Liz that was pincered between two of Remi’s lieutenants.
+
+Better than average, they were trying to whittle the lone Liz down without letting her reform.
+
+They were doing the right things, but they were too slow.
+
+When Matt appeared, he deliberately tried to remove the talisman, activating the secondary trap hidden inside.
+
+Now stuck to his left hand, he struck like a viper, grabbing the rapier-wielding man’s head in both of his hands.
+
+The talisman detonated, creating a new crater.
+
+Matt appeared out of the smoke as Liz swapped their places once more, and he felt three new rings form as Liz created more clones beneath the obscurement.
+
+The moment he reappeared in his original fight, he saw that Liz had wounded one of the men but hadn’t been able to infect them.
+
+Moving to assist, Matt immediately halted his movement as one of the remaining peak elites reached him.
+
+The dagger-wielding man blurred with fire mana of all things, shimmering like a heat wave until he turned completely invisible.
+
+The ice and wind Aster had coated the battlefield with didn’t stop him, but Matt wasn’t too surprised by that.
+
+What did catch him off guard was how fast the blade slammed into his neck at an upward angle, trying to drive into his brain.
+
+Matt didn’t reach behind him, instead throwing an elbow to his left while twisting his head right to dodge the follow-up strike.
+
+A different dagger, one so red it almost appeared black, skittered across the second layer of [Cracked Phantom Armor]’s solidified shell.
+
+The small amount of contact told Matt everything he needed to know. A fire assassin wasn’t exactly typical but he’d seen such before. However the blade being made with a Tier 33 flame trapped deep in its center was far more interesting.
+
+And deadly if the warning his spiritual sense gave him wasn’t wrong.
+
+Thrusting, Matt narrowly missed the shimmering appearance, even as two other cultivators tried to attack his rear. They aimed to trade his attention back and forth, but Matt had no time for such petty tricks while he was surrounded by enemies.
+
+Darting forward, as if afraid to fall into their trap, Matt let [Cracked Mana Trap] deal with the two annoyances as they tried to keep up with him.
+
+The first blade slammed into his chest, coming out of nowhere, but Matt ignored it even as it tried to hollow out his insides with its stored flames. Slashing out he tried to wound the assassin in return. His blow hit nothing, forcing him to slow down and listen to his senses as well as his instincts.
+
+Peak and pinnacle elites weren't easy to kill but that didn’t mean impossible.
+
+Stepping one time too many in his pursuit, the crystalline ground around him exploded as a formation appeared, very similar to what he’d done just a moment ago.
+
+The trapped energy had some kind of anti-mana property, similar to depleted metals but far more potent.
+
+It wasn’t a matter of Tier but rather fundamental nature.
+
+While it was some form of ‘poison energy’, it wasn’t a mana type, as [Cracked Phantom Armor] didn’t try to aspect to it. And that was all he needed to know.
+
+Dropping the second outer layer of his armor, as well as letting the mana free from its solid prison, Matt circumvented the attempt far farther than the assassin anticipated.
+
+Free, unhindered, and unpoisoned, the flame assassin tried disengaging, but Matt activated [Cosmic Pressure] to hold them in place. Knowing they were in danger, the assassin tried to activate one of their lifesaving measures before he closed the distance.
+
+It even worked.
+
+Just not enough.
+
+[Portal] opened only large enough to fit his hand through, but that didn’t stop him as he forcefully pulled the assassin through the too small aperture.
+
+Finally with a moment to breathe as the man's essence dispersed, Matt checked in on the others.
+
+Susanne and Rah, along with his new partner Ra’kam, slammed into their enemies a moment later, cutting into the group putting pressure on the flank.
+
+In a spare set of the crew's armor, Susanne didn’t fight as if her body was barely holding itself together.
+
+Using her precognition focused entirely on her own blade, Susanne danced, leaving razor sharp streamers behind her every move.
+
+Rah and Ra’kam worked well as a team, despite their short time together.
+
+He hadn’t had time to enchant any of Ra’kam’s scales, but they’d fed him numerous high-Tier metals, adding another level of defense to the already resilient creature.
+
+Together, they acted as pillars, holding their spots even as Remi’s weakest members tried to sweep through the three of them.
+
+With nigh indestructible stone armor, Rah traded blows, focusing on covering Susanne as she darted in and out.
+
+Ra’kam did more than hold his own. Low to the ground and with its head just as well armored as its back, the spiritual creature feared no injury and happily used its size and strength to rip apart anyone caught in its dexterous claws.
+
+Gan Le stayed back with the crew, which turned out to be a good call as two people tried to circle around, possibly to take hostages.
+
+They tried to talk Gan Le out of interfering, but his response was oh so typical Sects. “I guaranteed no harm would come to these five in exchange for my freedom. If you wish. Ahh there we go. Much simpler now.”
+
+When the two tried to split up, they found themselves inexorably bound to Gan Le. Matt recognized the tether and knew how infuriatingly resilient it was, and Remi’s little bandits weren't as durable as he was under the tank’s fists.
+
+The crew were fine under his protection.
+
+Matt ducked a scimitar swing. The man was aggressive but Matt didn’t punish him, despite being able to reach out and grab his leg.
+
+The overextension was only a hair, but an arrow passed through where his head would have been if he’d gone for the attack.
+
+When it was clear the arrow would miss, it started charging with power as it began to self-detonate.
+
+Instead of defending himself, Matt threw his sword through the archer trying to fill Patricia’s role.
+
+She dodged the initial blow, but thanks to a quirk between the interactions of [Crescent Sweep] and [Sword Twin], she had to dodge far more than that. So long as [Crescent Sweep] was cast before [Sword Twin], all of the copies would inherit the recall effect.
+
+Once the sword was behind the archer, Matt split one of the three [Sword Twin]s hidden in the blade off and recalled it.
+
+She almost managed to dodge, but lost part of a leg.
+
+She dodged the second illusionary version, but she failed to dodge the real blade as it morphed mid-flight.
+
+Bracing himself, Matt swung his now solid greatsword, casting another [Mana Slash]. The crescent of mana was amplified by the size of his blade and killed another one of Remi’s personal elites as it tore through the sky.
+
+Spotting one of the peak elites, Matt engaged with them even as Remi shouted something in rage as his size expanded twice over. His pressure rose as he activated his best spells and potions.
+
+Three Lizzes attacked him at once while everyone else cut through his people.
+
+Remi started the battle out full of vigor, chomping at a Liz who didn’t try to block, letting him sink his teeth into her shoulder and neck.
+
+Ichor splattered, but the Liz wasn’t phased in the slightest.
+
+Neither was Remi, who had strong enough defenses that she wasn’t able to just infect him and hollow him out from the inside.
+
+Not letting the opportunity pass, Liz used their closeness to stab the wolf in his throat with her shortened [Feather Armory] spear over and over, even as two of her clones piled on top of him and attacked from the flank.
+
+Her Domain and ‘main body’ changed from the one in his mouth to one of the Lizzes on him. As she attacked, an arc of lightning splintered off and splattered on a green shield, triggering a protection before it was needed.
+
+That reduced the power it had to resist the spear itself, and her spear drew blood.
+
+Rising out of his fur, the red liquid stabbed back down, causing him to howl even as he turned, snapping out at the new Liz.
+
+A large wolf head appeared around him, empowering his bite, but as Liz dodged, she got caught in one of the follow-up explosions.
+
+Pouncing forward, he tried to pin her down, wanting to tear her apart as he did last time. Remi’s eyes went wide as Matt and Liz swapped places for a moment.
+
+Matt met Remi’s paw with his rising sword.
+
+[Mana Slash] cut to the bone, but Matt didn’t get to appreciate the result as Liz returned him to his original battle with a now bleeding elite. Reaching out, Matt pulled him forward with [Telekinesis].
+
+The elite's head vanished as he teleported away, trying to escape, but a distant burst of essence indicated Allie’s intervention.
+
+Liz flashed sideways using [Blood Dash] and their speed potion effect to dodge a throwing knife aimed for her head. Pointing a finger she finished off a wounded Tier 32 with [Blood Bullet] when she stopped moving.
+
+A moment later, another Liz burst from his corpse. She, in turn, moved to kill someone else to create a new Liz before joining the Remi fight.
+
+A pulse of surprise through Matt’s bond only registered as ‘to be asked about later’ but his full attention was on breaking the blockade of three defensive fighters who banded together to stop him.
+
+He was in no mood to play with them.
+
+If his friends weren’t so close, he’d [Breach] them away, but even if they weren’t he wasn’t willing to cause that much damage to the planet, making it a bit of a moot point.
+
+Instead, he tapped into [Telekinesis] again.
+
+Using a few million mana, he created a blade of force behind the trio already moving at its maximum speed.
+
+Abusing how hard to detect [Telekinesis] was, he didn’t aim for their heads, which might trigger a lifesaving measure. Rather, he aimed at their legs.
+
+He shattered two legs, but didn’t fully take anyone down, though his distraction did its job. After getting up close and personal, he grabbed one of the shields.
+
+He didn’t try to fight the tank and pull his shield away, instead using his grip to lock his hand in place and then pointed his finger at the tank’s head.
+
+The [Mana Beam] was almost a foot wide and evaporated the man's head with no chance for him to react.
+
+Simultaneously with his sword hand, Matt used [Dispelling Edge] to cut through the magical outer shell of the second tank's shield.
+
+The third defensive fighter rushed Matt, trying to shove him away with his shield, but [Cosmic Pressure] caught them both off guard with its powerful fluctuations.
+
+Matt tried to keep the spell from affecting the ground, but anything with structure was pulverized into dust in the small radius he let it expand to.
+
+Taking a page out of Aster’s book, Matt used [Cast Illusion] to fake casting [Mana Beam] once more. Thanks to all of the work he’d done creating illusions for Aster when she practiced their new Intent ability, the beam both looked and felt like a real spell.
+
+The charging tank flicked backward, immediately raising his shield to stop the bar of mana from killing him. That was until he noticed the spell wasn’t doing any damage to him or his shield, where he reversed and went back on the offensive.
+
+Matt lowered his hand, but as he did so he replaced his false [Mana Beam] with the real one.
+
+Unprepared, the tank and everything behind him was sliced in half.
+
+A spear took Matt in the chest, driven by an explosion of wind to thrust it through both layers of [Cracked Phantom Armor].
+
+Not caring about the poison, nor the fragments that tried to pump air into his arteries and cause biological issues he’d need to sort out mid fight, Matt simply pumped more mana into [Regeneration] until all of the damage went away and the shards were forced out.
+
+Turning to take out the last tank, Matt found they no longer had a head and he was holding them up with his sword embedded into their shield.
+
+Wrenching it free, he was about to move on, but someone else finally couldn’t stand by and watch as Liz ripped off one of Remi’s legs.
+
+A Tier 33 floated down fluctuating her cultivation, trying to get them to stop fighting. “Enough is e—”
+
+Matt’s anger burned even hotter, though it was mildly mollified by the two Empire teams already moving to block the woman.
+
+“Anyone who interferes becomes a target.”
+
+He didn’t speak to her, she’d already sealed her fate, rather the additional interlopers still considering their options. The last thing he wanted was more people helping.
+
+Jumping, Matt launched himself upward at the Tier 33, wanting to show everyone the fate of someone who decided to meddle.
+
+While he wasn't able to identify the woman with her [AI] not broadcasting, that only signified she didn’t have enough backing to act openly.
+
+She seemed shocked he’d attack her, but her eyes hardened as she kicked out, a water-based skill empowering the blow. She aimed at his lower half, but he didn’t even bother with reinforcing [Cracked Phantom Armor].
+
+Instead, he let his legs evaporate in order to bring his longsword up and around. He wanted to cut through her armpit and destroy her head from below. At the same time he also preemptively casting a near invisible [Gravitic Bolt] behind her to close off her best escape routes.
+
+He saw the hesitation in her movements as she started questioning how to respond without getting hunted down for punching down, but he had no intention of letting her think.
+
+If he was going to give a lesson, he was going to do it properly.
+
+She crossed her arms, a water covered shield appearing to block his [Mana Slash].
+
+She succeeded, but that left her entirely unprepared as Matt, pushing [Archmage's Presence] and its Tier 44 body enhancements to their limits in his spirit, punched her in the chest.
+
+He wanted to go for her head, but he hadn’t missed the tendrils of water hiding amongst her dark hair, waiting to strike or possibly entangle him.
+
+Water vapor started to condense on and around Matt but he flexed [Water Manipulation], entering into a struggle for control over the moisture.
+
+With a four Tier difference, he could only hold on, let alone trying to compete with her many years of experience, thanks to the sheer volume of mana he was willing to throw around.
+
+Not that he forgot to keep up his cover as he drained Tier 1 mana stone after mana stone of their energy as they crumbled to dust.
+
+For all her efforts his punch still landed and [Fist Blast] shattered her outer armor and caved in her chest. It failed to kill her but he kept close, not letting her create distance as she tried to disengage and skirt around him.
+
+He landed two more blows, the first hit a leg and was more of a bluff but she didn’t fall for it and properly blocked the second fully empowered sword swing.
+
+His core three melee skills detonated and cracked a teal colored water shield but they failed to penetrate. They did rattle the Tier 33 enough they turned to flee but he didn’t want to let her go so easily.
+
+Neither did the [Cracked Mana Trap] filled with ice mana that solidified her protective shield.
+
+Being a water mage, she surely had some control over her element while it was frozen, but while Matt could only compete in a battle of manipulations with his Talent, Aster simply out-finessed her.
+
+Facing the two of them, she never stood a chance, even if she did save her life at the expense of leaving her body behind.
+
+Matt wasn’t sure what she’d been thinking, as she wasn’t anything more than a mid-level elite who couldn’t fight up full Tiers. Remi himself had a Tier 33 combat power and couldn’t handle them, but he didn’t care why, only that she hadn’t succeeded in interrupting Liz’s fight.
+
+He knew who Remi’s backing was, and so did Liz. They didn’t care he had the Republic's Rank 3 bloodline as a grandfather; even Vana himself wouldn’t dare to come and complain about a descendant dying by their hands or try to interfere in such a blatant manner.
+
+Seeing everyone on his team was falling or had already fallen, Remi didn’t try to stick around, knowing they could collapse on him at any moment.
+
+Despair was plain to see as he tried to break free from Liz’s encirclement, but without his team to support him and relieve some of the pressure, he stood no chance against Liz.
+
+He didn’t go down without a fight.
+
+Liz lost all but three of her clones as Remi used an essence empowered spell in a last ditch effort to escape but the surviving Lizzes didn’t hesitate in the slightest.
+
+Using the ichor still in the air, one of the Lizzes exploded as she used her existence to cast [Blood Sacrifice] and [Bloody Spirit] empowering the farthest back Lizz.
+
+Amplified to her limit, that Liz cast [Scarlet Plague] while using [Corrosive Blood] and [Congeal] to break through the wolf’s internal protections.
+
+In case that wasn't enough alone, the last remaining Liz closed the gap and slammed into his flank using [Heartpiercer] to strike his second most vital organ.
+
+The spell detonated, exploding his chest, but Remi’s final lifesaving measure did its best to protect his brain.
+
+The unobtrusive tan barrier blocked the first deadly spear thrust into his head, but Aster froze the lightning bolt as it tried to let him escape.
+
+Trapped with Liz, he met his end with a final howl of despair, but no one else stepped in to save him.
+
+Seeing they’d all come through alive, even if everyone was wounded, he was happy enough with their results. Susanne, predictably, came out the worst, having lost a leg that he knew they wouldn’t be able to grow back for months, if not years, at the earliest.
+
+Rah and Ra’kam were both lightly injured, but most of the blood that covered them was from the people who’d tried to rush Aster and Zack, thinking they were weak targets.
+
+Even Gan Le did his job exceptionally well, and while he was lightly injured, he was doing better than everyone but Matt and Liz, who’d already healed.
+
+Gesturing around, Matt asked the planet, “Now, was that so hard? I don’t care if you want to fight, but the rules exist for a reason. Follow them or I will make sure there is no next time.”
+
+Hearing someone snort above him Matt looked up to meet the eyes of a Tier 35 who hadn’t moved to space like most others.
+
+Seeing someone he couldn’t fight with his fist yet Matt didn’t let them start the conversation.
+
+“Is this the hill you want to die on? The willingness to ruin the very aspected world you are fighting so hard to gain control over? Because of that you’ll take my interference as a challenge instead of correcting yourself and trying to secure the prize?”
+
+Matt didn’t waver as the higher Tier tried to silently intimidate him. Anything they said would open them up to further retaliation and all of the Tier 36’s seemed interested if he was willing to punch down.
+
+They were hoping for it.
+
+Covered in the blood of a Tier 33, Matt met everyone's gaze with his own, letting his unwavering determination shine through.
+
+Their Tier was a temporary advantage and they all knew it.
+
+When silence was his only answer, Matt turned his attention to the strange realm.
+
+Allie flickered, touching the thankfully still intact jewelry box where it floated, before she returned next to them.
+
+“Safe, competitive, group based, and gathering focused. A solid strange realm if I don’t say so myself. Feels like fighting is possible even if not the main point. I think this is a winner.”
+
+Matt nodded.
+
+He fully agreed with her assessment even if they’d want to gather what information they could before entering.
+
+Now it was time to see if anyone would enter such a strange realm with them.
+
+Cleaning himself off, Matt looked around, channeling Manny as best as he could without going overboard.
+
+It was utter confidence and unquestioned control.
+
+Matt wanted a fraction of that. “Now what does everyone know about the strange realm and who wants to enter with us?”
+
+That instantly kicked the fighting back off as the Great Powers tried to settle who would control the planet for the rest of the breach.
+
+The weaker teams disengaged, letting the higher Tiers deal with the ownership issue. Instead they started vying for a slot in the strange realm. Their jockeying for position nearly sparked another fight but a glare from Liz squashed both teams before tempers could flare up.
+
+Aster slipped through the groups quickly gathering what little was known about the strange realm.
+
+It wasn’t much, but things seemed positive and they confirmed growth items were the reward even though their information was limited.
+
+So far, only two batches of people had entered. And out of those, only three groups did well enough to get the growth item rewards.
+
+The first batch got the opportunity to turn any item they had or could create fast enough before the reward dissipated, into a growth item.
+
+That alone would have been enough to start a riot, but there was reportedly a high degree of customization allowed, meaning even the roughest starting item could turn into something exquisite.
+
+The second reward was the one Matt wanted.
+
+The ability to modify an existing growth item.
+
+Only the second group had a team get that reward, and if anyone knew what that singular team had done differently to get that reward, no one spoke up about it.
+
+Eyes kept looking to them to see if they’d interfere, but they didn’t care so long as the fighting stayed off planet.
+
+When it became clear that the Clans Tier 36s were too much stronger than everyone else, they temporarily claimed dominion of the planet, putting an end to the squabbling where they could finally enter the strange realm.

@@ -1,0 +1,293 @@
+---
+id: f79e6035-05fc-599d-99df-1e39c3d93cc2
+page-type-slug: story-chapter-royal-road
+title: "The Path of Ascension Chapter 415"
+slug: 0114-the-path-of-ascension-chapter-415
+partOf: the-path-of-ascension
+position: 114
+ownLength: 4788
+unit: words
+ownProgress: 4788
+publishedAt: 2025-05-30
+link: "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/2317740/the-path-of-ascension-chapter-415"
+royalRoadId: "2317740"
+markedReadAt: "2026-06-29T19:21:44.982Z"
+---
+
+Chapter 415
+
+Matt reached out and grabbed Liz. “Before we both go nose down into our work, it's time for a date. We haven’t done so in too long.”
+
+Liz tried to play it straight, but phoenix Liz gave the game away by cooing and jumping over to his shoulder instead.
+
+They kept it simple, just going on a small walk around a newly constructed park in a Tier 20 refuge, part of an otherwise flame-filled desert. They even tried a local specialty made from a tiny deer-like creature that fed off the ambient flames that sputtered to life just above the sand in the morning and evenings.
+
+They kept things light as they just enjoyed each other's company; but the saying ‘all good things must come to an end’ proved true as they watched the sun dip below the horizon.
+
+“What are you thinking about?”
+
+Matt sighed as Liz bumped his shoulder when he didn’t respond after a long minute. “Too many things, really. But mainly if we are taking too much on.”
+
+Liz nodded even as she leaned into him and Matt decided to fall back, sending them both to the ground.
+
+He earned an annoyed peck from phoenix Liz, who didn’t appreciate her perch vanishing, but it was in good fun and he didn’t mind.
+
+Liz didn’t say anything for a long time as she played with his hair, but eventually she agreed. “My initial thought is I just wish people would leave us alone, but realistically, that's like half, maybe a quarter of the problem. The old dynasty was always lingering in the shadows, and the blood research organization was only stopped because they got caught. But even still, we haven’t yet found the true culprits behind them, meaning they can spring back up in a few centuries and it will be like they were never stopped in the first place. I understand we can’t fix everything, but it feels like for every problem we solve, another three spring up in their place. Why can’t the Realm just be better?”
+
+A part of Matt intellectually knew that the Realm was a better place, not just for what they had done but for what generations before them had done, but that just seemed so insignificant at the moment. So he just nodded and they laid there together, just listening as the desert came to life in the relatively cooler night time.
+
+“So what do we do?”
+
+Liz asked the question to the air, but Matt didn’t have an answer.
+
+A few minutes later, he shrugged. “We do what we can. To that end, one of our main priorities needs to be Tiering up. Currently, we’re just not strong enough to fight our enemies directly, and our guards can only go so far.”
+
+Liz actually perked up at that. “We have a standing invite from the Clans for the next twenty years or so. Once the Clans war with the Republic starts we won’t be able to delve there, but it could be fun to go visit them if we can get a hold on things around here in time. Otherwise, we can always visit the Monster Collective or the Corporations for delving.”
+
+Matt pondered the idea for a little before agreeing. “That could be fun. The Sects visit was a blast. Oh yeah, that reminds me, I got us lessons with Qin Jiang for Power training in return for the guild making them a justice rift.”
+
+Liz rolled into him slightly so she could get a better look at him. “That reminds me, how did that deal work out?”
+
+Matt explained the deals he had struck and his reasoning behind each one as Liz slowly started smiling. “Look at you. Mister I hate politicking, but here you are killing it.”
+
+Grinning, he replied, “Well, I am the best.”
+
+Returning his smile, Liz hooked a leg into his. “Are you now?”
+
+With a grin, Matt created a [Portal] underneath them, letting them fall through back into their house.
+
+The next morning, the two of them separated. Matt went to the guild while Liz went and fulfilled their ducal duties. Normally, Matt would have helped her but she insisted, with him having dealt with the last several large backlog of ducal duties, it was her turn.
+
+Given free reign to play in the guild, Matt wasn’t going to say no. After talking with Kees and hammering out their future path, he gathered every single guild member who was on the moon together for his announcement of a new branch of Titan Torch’s operation: bespoke rifts.
+
+While the aperology research teams were ecstatic, as the commissions meant more money, which meant more funding, everyone else was still quite happy. The other branches, like the alchemy and rune department, were even more so, as the now unused funding would be redirected to them. But the ones who were truly most relieved at the news were the staff. Those like Cameron, who were the most at risk of losing their jobs if the guild stopped making miracles.
+
+There were some concerns that the guild was turning away from its roots as a nonprofit dedicated to helping the lower Tiers, but Matt fielded those questions like any other. He even went as far as showing the contracts that clearly stated that any widely applicable aura types developed in the pursuit of a client's desired type would be free to share after the client’s aura type was finished, or a millennium after it was deemed impossible.
+
+From there, he went into researcher mode, and together with Erwin, Aisha, and Theodore, they started playing with the Domain samples they had been given.
+
+They only had thirty, but they were fairly confident that would last long enough for the guild representative to arrive at Titan’s Torch, who could then tap into their shared Domain pool to get them more.
+
+Erwin immediately popped one of the vials open and downed the Domain sample like it was a shot of alcohol. Smacking his lips, he grimaced. “Weird flavor. Haven’t eaten many Domain-related things, but it's both sweet and sour at the same time.”
+
+Theodore raised an eyebrow at the word choice. “Does that imply there might be an inherent contradiction to this Justice Domain?”
+
+Erwin seemed to seriously consider the question before shaking his head. “No, I don't think so. Sweet and sour aren’t opposed as much as widely different. Let me test something. Domain samples please.”
+
+Holding out his hand, he waited as everyone produced a small bit of their Domain and solidified it. It was nothing more than a bit of their Willpower actualized, and without proper containment, it would vanish in seconds after it left their control. But Erwin didn’t even need that long to taste each sample.
+
+After going through them all, he blanched. “Nope I can unconfidently confirm the sweetness is more about it being Willpower based. The other flavor seems to be more specific.”
+
+Aisha, however, asked the question Matt was thinking. “What does this mean for an aura rift, or a rift in general? I don’t think any of our teams have done tests with any part of a Domain as the anchor item. At least, no such tests are logged.”
+
+“Does it have to be an anchor item?” Theodore brought up a good point and everyone looked to Matt.
+
+Blinking, he checked behind him. “I know you guys aren’t looking at me. I have no idea. You guys get to play with rifts way more than I do.”
+
+Erwin raised a finger. “I don’t see what else it can be. It might not have to be an anchor item. In fact, I’m not sure how it can be an anchor item, given how short its stable duration is. If we put the whole vial as the anchor item, it will add so much variability we’d never get anywhere. And that’s ignoring the ruinous cost of losing even one vial, and we all know we very rarely lose just one anchor item in developing a rift. It's usually all or nothing.”
+
+Matt nodded as he summoned another wisp of his Domain before letting it free from his control.
+
+It lingered on his palm for a few seconds longer than the one Aisha summoned, but it was still a short amount of time.
+
+It might be possible to create a rift in the time both Domain samples lingered, but it would be hard.
+
+Creating a mana stone out of neutral mana, Matt carved a few simple containment runes into it before creating a wisp of his Domain inside.
+
+Counting down, he grinned as he nearly doubled the time the sample lasted.
+
+That joy vanished as Theodore tried to use the same cube to contain his Domain. It was immediately twisted apart as Matt’s mana interacted with the foreign Domain, destroying it even faster.
+
+A few more tests showed they had the beginnings of an idea, that a containment field might be possible, but it would need a lot more refinement. And so, after handing the problem off to the formation department, the four of them started throwing things at the metaphorical wall, seeing what would stick.
+
+The first thing they tested was just creating a rift around a quickly placed domain sample in an otherwise ordinary rift formation.
+
+It had, as far as all of their testing and equipment could tell, absolutely zero effect on the otherwise ordinary wolf rift.
+
+They still kept the rift intact at Tier 1, just so they could continue testing, but they also adopted a two pronged approach.
+
+Erwin and Theodore started testing mana types they believed might result in some kind of Justice aura. While concrete science was good, they were simply trying to find the right path in the jungle, and ultimately, the Crowned didn’t need or particularly want mass producibility. A single aura rift that met their specification running for a year or two could make enough aura potions that they would run out of crowns well before they needed more potions.
+
+The Knightly Orders sort of fell into the same boat, but as they were limited by their descendants and the availability of Natural Treasures instead of items, they could theoretically use more mass production. Still, they would probably be fine with a single rift, and that was something Matt was okay with.
+
+Unless they got stupendously lucky, part of even reaching the desired rifts would mean an increase in reproducibility.
+
+That, and for a Tier 4 rift, it wasn’t that expensive to run the tests, given how they weren’t using any anchor items and just playing with raw mana types cut out the main cost of creating aura rifts.
+
+Matt and Aisha instead started playing with Domain-based rifts.
+
+They couldn’t use the limited Justice Domain samples before they had some semblance of a working model, so they simply used their own Domains.
+
+Matt’s Domain being partly based around being endless was their first choice, as it simply gave them more time to do tests with.
+
+The first tests produced nothing of note, so they changed their testing method each time, trying to improve the speed of the rift forming as well as the speed which the Domain dissipated.
+
+After days of failures, they took a step back and questioned if Domains could be used as a rift base at all. And, if they could, whether Matt’s Domain was different enough to result in any noticeable oddities.
+
+Rerunning all of their tests with Aisha’s Domain, they similarly had no results, but that only confirmed that it wasn’t just Matt’s Domain that wasn’t working.
+
+Reaching out to the other members of Titan’s Torch, they got samples from a lot of people in the guild who didn’t mind burning a little Willpower.
+
+There were no obvious changes, but they did start to see a trend in some of the rifts.
+
+It wasn’t in the monsters or even the rift scenarios, but instead in the rifts’ layouts. While there were numerous rift variations possible, they were a seemingly finite amount of layouts the rifts preferred to use.
+
+But with the Domains, that usual logic was turned on its head and they had different and sometimes strange layouts.
+
+One particularly weird outcome had a rift that consisted solely of left hand turns. It wasn’t a maze or a labyrinth rift that might have explained the oddities, but instead the rift was a single stone hallway that simply had endless left turns until they reached the boss room.
+
+The actual mechanics behind the rift doing so were dead simple, it was just a spiral. What was weirder was the rift came from a man with a simple Determination Domain with no real elemental affinity.
+
+It was one of the oddest results, but hardly the only one.
+
+Going back to Matt’s Domain rifts and looking at them with a new light, they came to the same conclusion that there wasn’t any appreciable effect which seemed strange. Matt would have expected to see some level of variation of longer rifts or tougher enemies, but even when they replicated one of their successful rift attempts, they never got a repeat success.
+
+Not that the find dissuaded them in any way, but instead, they started looking at the rifts that had ended up different.
+
+Seeing the first dozen Domain types which had produced appreciable effects were all elemental neutral rifts gave them hope to see a trend. But those hopes were dashed almost as soon as they formed a rift with a lightning Domain, giving them a rift that didn’t have a single sharp turn in its layout.
+
+Instead of continuing, they went to the bi-yearly meeting of the various aperology teams and various research departments.
+
+It was half party, half work retreat, but it mainly served as an informal way for various teams to share information they were still in the process of discovering while also being a place to relax.
+
+No one there had any brilliant ideas that solved their issue, but everyone was interested in the new avenue of manipulating rifts and discussion abounded, with pretty much every team interested in trying their hand at Domain anchored rifts.
+
+Each lever they discovered was another piece of the puzzle and would eventually lead to greater success.
+
+While doing so, Matt also let himself absorb more information about the various happenings in the guild and the projects that had been worked on from the researchers themselves, instead of just the reports he normally saw.
+
+Amusingly enough, the most interesting test wasn’t even an aperology team, but from one of the formation teams who had, upon hearing Matt was mingling, joined the party.
+
+Their research had initially been on simplifying a mana dispersing rune but, in trying to create a lower-Tier variant, they instead stumbled upon a mana cycling rune.
+
+The difference was enormous, with a typical cycling rune being much more complex than its corresponding dispersal or attraction runes, as it needed to do both. In fact, most mana cycling operations usually defaulted to formations. They were more complicated, but they were often more efficient, as their individual runes were more specialized.
+
+The rune the team had stumbled upon, however, was seemingly unique in that it cycled mana in a figure eight pattern, effectively dispersing and attracting the mana.
+
+The current iteration wasn’t nearly as efficient and wouldn’t be a plug-and-play replacement for a lot of applications, but it might be ideal for some designs, such as gardens, that simply liked to have mana moving around instead of laying stagnant.
+
+It was genuinely impressive work and Matt worried that the team was going to ruin his goodwill by trying to come to him directly and go around the typical application process, but a quick check relieved him of that worry. The team had already been rewarded and had funding for further development. They had simply come to brag, which was something Matt could respect, and he properly flattered them for their accomplishment, even giving them a toast one of the nights at dinner.
+
+They had done the hard work, and so deserved the corresponding praise. It was also fun not being the center of attention for a while.
+
+Feeling refreshed and with a few new ideas in mind, Matt and Aisha changed up their approach.
+
+Instead of just grabbing people's general Domains as a sample, which was the common approach, they started targeting each individual stage.
+
+That took a little more control over one's Domain to extract, but they were hoping that might isolate some variables that way.
+
+It was during the process of back checking dozens of Concepts that Aisha asked a question they should have considered earlier.
+
+“Maybe Domains only show themselves above Tier 5. That's when monsters first get them and the first time a person can get them. It wouldn’t mean we can influence rifts before that but…”
+
+Deciding it was a worthwhile theory to test, they Tiered up some of their successes and immediately ran into aperology’s largest problem. Stability. Not a single rift survived the Tiering-up process without de-aspecting. Once or twice was to be expected, but dozens of times without a single success told them there was something deeper at play.
+
+Still, they had learned quite a lot, even if they hadn’t figured out any of the underlying processes. So they used one of the Justice Domain samples to test with a formation cobbled together by the formation department that kept most Domain samples stable for a few extra seconds. Sadly there wasn’t any noticeable difference in the rift from standard, but that just meant they had another data point.
+
+From there, they circled back to a more hybrid approach and going back to the guild members with elemental Domains, they started using their Domain samples while trying to create rifts.
+
+As with everything they were dealing with, the results were weird and seemingly inconsistent.
+
+A fire Domain and fire mana rift ended up creating a perfectly normal rift five times out of the ten they made one. As for the other results, they were equally varied. Three times, the rifts were fire-based but in minor ways, such as weapons being enchanted with rudimentary flame enchantments that didn’t really do much other than highlight the weapons.
+
+The remaining two attempts were weirder.
+
+One of the attempts ended up with a rift without air, but instead filled with a perfluorohexane. That allowed people to breathe, if they could deal with the sensation of drowning the entire time, but it still being a liquid prevented actual fire from forming or burning, which seemed contradictory to the rift being made with fire elements.
+
+The second rift was what they had expected, a fire rift, but turned on its head.
+
+The monsters were miniature fire elementals who fought with simple iron weapons that more often than not melted in their hands.
+
+Trying the same tests with other mana types produced just as weird results sometimes, which was just incredibly frustrating. Weird but consistent would have told them a lot, and perfectly normal would have similarly taught them things, but with the inconsistency, they were left scratching their heads.
+
+Not that Erwin and Theodore had better results, but that was more because they didn’t have results at all.
+
+Sure, they had gotten a few strange rifts, but with them being limited on mana to create rifts, landing on Justice was going to be hard without a Crowned to tell them if any of their tests had succeeded.
+
+Their current best idea was to treat Justice as a sub-aspect of neutral mana, but that came with its own host of problems.
+
+After considering their prospects for a while, Matt went back to testing his own Concept, expanding his tests all the way up to a hundred rifts.
+
+None of them showed any noticeable mutations, so he repeated the test again but changed the mana types he used. He was burning through quite a bit of Willpower, but his reserves were deep and his regeneration passable, which made the tests sustainable. But he could already see this being a problem for the guild members they kept tapping for frequent tests, and so pushed an order that no one was to go below half of their Willpower reserves for these tests. There was just no reason to push themselves like that when there was no time crunch.
+
+Running through the basic level 1 elements, Matt was once more disappointed in his lack of results. Still, he used his failures as a reason to test one of the things the guild had learned in the last few years.
+
+They were still fairly far from bespoke rifts in a true sense, like some Talents could create, but they learned a few methods beyond essence stones to get a rift to specific monster types.
+
+Those methods relied on anchors and specific mana types, but Matt didn’t mind, and just added a wisp of his Willpower. That undoubtedly muddied the results, but he was half banking on that to get some kind of reaction to his Domain.
+
+To his frustration, he once more created the same rifts, but instead of just relying on his Concept, he used his Intent instead. It wasn’t exactly helpful for the tests they needed; they needed an aura potion for Tier 4s; but Matt really wanted to see the effect his Domain would have on a rift.
+
+He expected to once more have no results, but on his second rift, he got the surprise he wasn’t looking for.
+
+The moment he stepped away from the rift’s entrance and safe zone, he was attacked. In and of itself that wasn’t unusual, rifts were rifts, but rather his surprise came from the fact that a gazelle-like creature had launched an ink black [Mana Bolt] at him.
+
+The rift was a wide open plain with a single path cut through the grass, but in a Tier 1 rift, that only meant the rift was faking the wide open fields. And this rift was doing the same. Matt could feel the edge of the rift like a wall in reality as the space simply ended, with everything beyond it nothing more than an elaborate illusion.
+
+Instead, his full attention was on the spell frozen in space before him.
+
+It looked like a [Mana Bolt] of the wrong color, but it was different in two ways. First, the spell was faster than a Tier 1 attack should have been. Closer to peak Tier 2 if he had to put a Tier to it. Second and more interesting was that the spell had nearly no presence in his spiritual perception.
+
+Matt could sense it because of his Tier and the strength of his spiritual perception, but even if a Tier 1 had the range to sense the spell, they wouldn’t have. The spell wasn’t just a blank spot, which would have been a fairly obvious indicator that something was there, but instead, the spell just felt like the surrounding air.
+
+It was there that the camouflage failed, the air wasn’t perfect. Or rather it was, but it was a perfect copy of the air as the spell had been cast and where it had been cast, which meant the subtle peculiarities of the movements were wrong. But, combined with the speed of the spell, there was nearly no chance that any Tier 1 would be able to sense the difference.
+
+Going out and getting the others, they all inspected the rift and the monster inside to find they all had the same spell.
+
+A spell at Tier 1 was rare, but wasn’t unheard of, and yet the normal gazelle rift that should have been created most certainly didn’t have spells.
+
+With more questions than answers, all four of them created half a dozen other rifts, just for none of them to be different enough to be notable.
+
+They even tried recreating the gazelle rift, going through the exact steps Matt had taken, but took another fifteen rifts to create a similar rift. However, instead of the super [Mana Bolt], the gazelle were pitch black and moved with incredible speed while being nigh silent.
+
+That was finally a variable they could track, and they suspected his Intent wasn’t doing things randomly. It was instead manifesting in ways that made sense for both it and the creatures.
+
+For the gazelles, that meant speed and silence, which made sense for prey animals whose main escape was running far away as fast as possible and not being noticed.
+
+What didn’t make sense was that being the manifestation of Matt’s Intent, I am Dauntless, which was at least in part about not moving. Sure, there was an amplifying effect, but it seemed strange that it chose to empower parts so at odds with the rest of the Intent.
+
+In further testing, they only managed to create one other rift that had a noticeable difference, which was a jungle rift with snakes that could turn insubstantial for brief moments. They only had that one effect which might have been expected if the creatures were venomous in any way and not constrictor type snakes.
+
+Left scratching their heads, they decided there was nothing to do but continue testing, expanding into other people's Intents. Sadly, just like with the Concepts, Intents seemed frustratingly variable. Someone whose Concept worked to make rifts strange had as good of a chance of having their Intent making a weird effect as anyone else.
+
+The only outlier they found was Matt once again.
+
+Not because of anything he did, but rather his Domain Meld.
+
+It refused to create a rift in any way shape or form.
+
+Even a wisp of it in a rifts formation area would make any attempt of creating a rift impossible until it had dissipated.
+
+Melds being so incredibly rare, they could only put out a bounty for anyone with a Meld to come to Titan’s Torch for further testing. And they weren’t optimistic about somebody appearing anytime soon, but it was another thing on the pile of weird that was mixing rifts with Domains.
+
+Not that any of that was bad.
+
+Matt was as ecstatic as he was confused.
+
+They were learning. Even if they didn’t understand yet, he was sure in another century or ten, they would look at these moments as the beginning of their path of turning aperology from something that was shrouded in mystery into something understandable and hopefully repeatable, like enchanting or alchemy.
+
+Talents were great for pushing a field deeper, but that wasn’t what Matt wanted. There were already higher-Tier aperology services, but they entirely relied on the Talented person to create the rift, and that wasn’t good for large scale deployment of any kind.
+
+The reminder of the higher-Tier aperology ruined Matt’s mood more than any of their failures.
+
+Word in the rumor mill was that the established aperology Talents were not happy with him or his guild’s decision to start making truly bespoke rifts.
+
+Apparently, just minutes after they had left the party, several of the highest Tier aperologists had made their moves, courting everyone Matt had talked to as well as other influential factions.
+
+According to Aiden and Lila, the Talented aperologists promised the stars and the moon, but so far, no one had taken them up on their offers.
+
+At least publicly.
+
+Privately was another matter.
+
+Personally, Matt was furious, but news hadn’t spread to Palustris or Titan’s Torch yet, and he wasn’t going to ruin anyone but Kees’ mood with the news.
+
+He hated how those who could have made a difference, even if only on the small scale, had chosen to keep their Talents artificially scarce by only working for the highest bidder until he started moving in on what they saw as their territory.
+
+Part of him understood it, but even if these people and their varied Talents couldn’t have created a revolution like the aura rifts because of scale, they could have been helping where they could. Even if it was as simple as spending some time and visiting the less hospitable worlds to make more advantageous rifts for them.
+
+At the same time, Matt had no issue with competition, which made him question why he was angry and if it was truly for the right reasons. And if just maybe he was simply mad that someone else was challenging him.
+
+He had no quick or easy answers, but sadly that was where Matt had to step away a mere three years into their tests.
+
+Not because they had found another society target— Matt wished they had— but instead because an interducal incident had hitched a ride to Palustris.

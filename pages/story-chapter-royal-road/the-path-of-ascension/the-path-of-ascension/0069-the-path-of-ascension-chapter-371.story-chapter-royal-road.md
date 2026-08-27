@@ -1,0 +1,267 @@
+---
+id: ac3bf210-a31f-5643-b191-90d8ce5d66aa
+page-type-slug: story-chapter-royal-road
+title: "The Path of Ascension Chapter 371"
+slug: 0069-the-path-of-ascension-chapter-371
+partOf: the-path-of-ascension
+position: 69
+ownLength: 4902
+unit: words
+ownProgress: 4902
+publishedAt: 2024-12-09
+link: "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/1948360/the-path-of-ascension-chapter-371"
+royalRoadId: "1948360"
+markedReadAt: "2026-06-29T19:20:01.085Z"
+---
+
+Chapter 371
+
+The Rage Within sect and Dancing Flames sect leaders floated in the middle of the valley a dozen feet from each other. There was a familiarity between the two but a tension that refused to leave, even when they were the only high-Tier allies each other had left. If Matt didn’t miss his guess, the two had been long-term rivals, which explained the familiarity and the distrust even now, with a greater enemy knocking at their doors.
+
+Cui Ming was the sect master of the Rage Within sect and was nearly as much of a bear as his tattoos would imply. Despite not having a bloodline, he was 6’7 and still managed to look short thanks to just how wide and muscular he was. His body also pulsed with fire mana in rhythmic sets of three, five, seven, and nine before resetting, and Matt noted that down for when the fight kicked off.
+
+Lang Ru, sect master of the Dancing Flames sect, was tall and slender with fiery praying mantis arm blades protruding from her back and over her shoulders, yet the overall impression she gave off was one of elegance rather than simple deadliness. An impressive feat considering Matt could tell that the scythes of flame would be capable of cutting through at-Tier steel.
+
+Cui Ming growled out a response to their challenge. “You mewling whelps think you can control this? Control us? You merely court death.”
+
+“You’re making me blush,” Liz cut in. “I’ve never been called death before.”
+
+Matt made a noise of disagreement and Liz corrected herself. “Or, I suppose, I have. Whatever. Let’s cut to the core of this. I know you know that you’re part of the Empire now. There’s no getting out of that. It will come with certain restrictions, and your lives won’t be the same again. If you have issues with that, take it up with Emperor Emannuel. However, we are willing to grant you functional autonomy on-world, allowing you to keep most of your power and influence, if you can beat us in a fight. Right here, right now, as fair as can be. The two of us against the two of you.”
+
+Lang Ru allowed a predatory grin to creep into existence. “It is refreshing to see civilized people within the Empire. I accept.”
+
+Cui Ming folded his arms. “Soon you will see who your betters are. I accept.”
+
+It sounded one-sided, because it technically was. There had been nothing that Matt and Liz had demanded for when they won, but that wouldn’t be needed. He knew Sect culture. They respected strength. Offering them this, the potential for near-freedom, would be the only way to get them to truly commit to a full-on fight. It would give them a chance to truly show their mettle, and therefore would be the perfect time to put them in their place.
+
+Because Matt knew that he and Liz would win. These two may have been impressive-looking and strong enough to maintain control over such a desired world, but they were far from the likes of Yun Me, Sien, or even Maven. Sure, they had three Tiers on them, a home field advantage, and synergy with ambient mana on their side, but why would that be enough to win?
+
+The only potential wrinkle was that they needed to not only win, but win so decisively that the thought of rebelling or causing problems would never even occur to them at any time in the future. The Sects respected strength, and with a good enough showing, it wouldn’t matter what the sect masters did or didn’t do. Their sects were watching, and they wouldn’t be willing to follow any kind of rebellion against the superior fighter.
+
+But while winning a three Tier jump was certainly doable, making it look easy was harder. He’d have to refrain from losing too many limbs this fight.
+
+Matt turned to look up and to the right, where a contingent of their personal guards were waiting.
+
+“Captain Kestrel, have your people form a protective shield around the valley.”
+
+“Aye, my lord.”
+
+With a gesture, the fifty guards moved into a pattern around the valley, interspersing themselves between the disciples of both sects. Space hardened, encapsulating them and their upcoming battle. Their guards were Tier 35 on average, with their leader, Captain Kestrel, a long retired Tier 40 general and a former retainer of Georgios, now a trusted aide of Manny.
+
+Matt would have preferred to have this fight in space for simplicity's sake, but part of winning here was to prove in front of everyone that they were the biggest fists on this world. Besides, a number of the disciples weren’t Tier 15, making it more effort than it was worth to bring them into space to witness the fight.
+
+Or that was how Cato had explained it. Matt had pointed out that those mortal disciples wouldn’t even be able to watch the fight in real time, so they really didn’t matter, but his argument was countered by the fact that tradition rarely followed logic and he had no rebuttal for that.
+
+The instant things were secure, the fight started.
+
+In unison and instead of attacking immediately, Matt and Liz both locked down space securely enough that retrieving anything out of a storage ring would be impossible. That was standard immortal tactics, but it was something they had talked about before the fight as part of their overall plan.
+
+That brief pause was enough to let their enemies act undeterred.
+
+Cui Ming’s opening move was to roar.
+
+Fire engulfed him as an aura spell of some sort flared to life that resonated and amplified his body's natural pulses of fire mana into an inferno of flame. He launched himself forward, a trail of flame following after him and expanding, blocking both sight and spiritual perception.
+
+Matt threw himself forward to meet the attack while Liz threw her spear into the trailing flames.
+
+Lang Ru, who had been hiding in the fire’s wake, trying to get close enough to ambush Matt, was forced to dodge into the open, but she didn’t stop her attack. He felt the woman’s Domain crash into him, a wave of domineering pressure telling him to just lie down and die, that he was facing his betters and ought to know his place. When he refused, having experienced far stronger at the hands of countless other Sect fighters, it turned into a more direct killing intent as she began to hunt him.
+
+The sect leaders’ tactics were simple and effective. Remove one of them and wear down the second in a much safer manner.
+
+As if it would be that easy. They had encountered such simplistic strategies a million and one times in the war, and their reaction was simple.
+
+Matt didn’t stop his forward rush, meeting Cui Ming’s attack with his growth sword. Fingers curled into claws were reinforced with both solidified flame and metal claw gloves that glowed with enchantments. The collision sent sparks into the air and Matt twisted, dissipating a lot of the Tier 29’s charge.
+
+He checked a knee that threatened to rupture his organs with a kick. [Cracked Phantom Armor] blocked the blow, but thanks to the Tier difference, his leg bones cracked. [Regeneration] knitted him together immediately, but the exchange made it obvious just how far outclassed Matt was in raw physical cultivation.
+
+It was so rare for that to happen with a human opponent that Matt couldn’t help but grin.
+
+Pulling his sword free from Cui Ming’s grip, Matt lashed out past him and to the side, letting loose a [Mana Slash] that nearly cut Liz in half. While it almost hit his wife, it did hit Lang Ru and cut a deep furrow in her flame scythe that caused the limb to dim, weakening the attack she had been channeling through it. The limb healed as flames surged into it, but neither he nor Liz tried to prevent the spell.
+
+Spending mana was fine with them.
+
+Keeping up the pressure, Liz threw three copies of herself at the retreating sect leader, but Matt had to deal with being out of position with Cui Ming on top of him.
+
+The Rage Within sect leader slashed out at his wrist with one hand while reaching for his arm with the second.
+
+He clearly intended to disarm Matt either by making him drop his sword or ripping his arm out of his socket. Instead of retreating or blocking, Matt charged his sword with a massive [Tribulation Strike] and aimed for Cui Ming’s head, willing to let the other attacks through in exchange.
+
+Cui Ming made the correct choice and he stopped his attack to cross both arms over his head, blocking the attack with spell and flame.
+
+The lightning contained in [Tribulation Strike] caused the world to go white as it was unleashed.
+
+Cui Ming’s block stopped most of the damage, but not all of it. The exposed portions of his forearms were charred, and even though the flames of his aura started to heal him, the damage was obvious for all who were watching. Which was the point.
+
+They had scored first blood.
+
+Cui Ming retaliated with a bone-shattering two-foot kick, and Matt made a snap decision. Normally, he would dodge. It was the more effective option by nearly every metric. But right now, he didn’t need efficiency, he needed style. In the instant before the kick landed, Matt triggered his Intent, freezing himself within the Realm.
+
+A shockwave blasted out around him, and his Willpower took a substantial hit, but it was all worth it to see the cultivator recover in what was clearly an undignified manner. He then used Matt’s face as a springboard to join the fight between Liz and Lang Ru, which was less than flattering for Matt, but he had to admit, it was quick thinking on Cui Ming's side.
+
+Liz was in five bodies, all human, and was dancing around the sect master. Every time the other woman was about to land a blow on Matt’s wife, she flashed golden and allowed the attack to pass through her harmlessly, then reformed and counterattacked. Cui Ming nearly disrupted that back and forth, going for the Liz in the lead position with an attack of blue flames.
+
+Liz triggered their teleportation ring then dissipated the body, and Matt was back in the fight, meeting blue flames with a full array of five blades thanks to [Sword Twin] cutting the magic to pieces at full strength. Then, Matt pulsed nearly all of his mana into [Archmage’s Presence], boosting his strength astronomically as he met Cui Ming’s attack, deflecting the man further into the sky.
+
+Then, because they could, Liz formed a phoenix on Matt’s arm, and Matt charged the bird with a [Tribulation Strike]. It wasn’t the most viable tactic, but Liz’s ichor-based biology could survive the lightning long enough that she could fly into Lang Ru’s face and explode, pushing the woman back as her fellow returned with a vengeance, trailing flames in his wake as he came down like a meteor.
+
+Matt deflected him with a bit of [Air Manipulation] mixed with [Telekinesis], pulling the sect leader away from his wife and forcing him to punch the air a dozen times in rapid succession, each one of which unleashing what appeared like a simple fire [Fist Blast].
+
+Sect techniques being what they were, the spells weren’t so simple, and instead of just flying straight ahead, the projectiles homed in on Matt. With his array of [Sword Twin]s still active, Matt deflected two and cast a [Bulwark] behind him to protect Liz. That, in turn, gave him just enough time to use his Intent to concentrate his mana, turning [Cracked Phantom Armor] pitch-black with a red iridescence before the blasts slammed into him and detonated  several massive explosions right in his face.
+
+The first one left jagged red cracks across the front of his armor, and the next three spread those cracks further and further until the entire skill was covered in glowing magma lines, at which point they stopped doing anything and Matt was able to drop his Intent.
+
+Matt felt out what auxiliary effect the barrage had given him, with his favorite skill absorbing and specializing for the attack even beyond its existing fire-attunement. In this instance, he got the impression it was some kind of punch-based explosion, something not terribly useful for him.
+
+Liz changed one of her bodies into phoenix form and perched on his shoulder, leaving her with three human bodies who attached themselves to his [Bulwark]. With a nod, he stopped his active maintenance of the spell, leaving only a mostly-static wall of mana crystal, and instead shoved it with [Telekinesis], accelerating both it and Liz to a truly dangerous speed.
+
+As the spell flew forward, he and Liz rushed at Lang Ru, who was ready for them. She had already started spinning and twirling in retreat, leaving behind lines of fire mana thin as a thread, but sharp enough to cut through a battleship's armor.
+
+Matt noted the move down in appreciation. It was a good ploy. Either they would have to stop their charge, letting her create distance, or push through and take extra damage while Cui Ming hit them from the rear.
+
+If they were any other duo, it might have worked.
+
+Instead, they ran right through the trap.
+
+Liz’s bodies just became ichor as the threads cut through them, passing with barely a fizzle. Matt, on the other hand, just barreled right through them, with [Dispelling Edge] making quick work of the spell and [Cracked Phantom Armor] trivially taking care of the rest of the damage. Though, it took enough damage that it shifted away from being specialized against those [Fist Blast]s and reverted back to the more basic fire affinity.
+
+There was a noticeable flash of surprise across Lang Ru’s face as they practically ignored her attack, but as a combatant who had clawed her way to her current Tier, she reacted quickly. Both her arms and scythes swirled, creating fire tornadoes that had spiritual blocking powers similar to Cui Ming.
+
+The spells packed immense amounts of power that, instead of spreading out, clung to the glowing blades of death like glue. The contained power was visibly growing stronger the longer they were under the effects, building to something that Cui Ming was clearly assisting with as he pulled in ambient fire mana to their location like a vacuum.
+
+The three remaining Lizzes merged into one which flew to Matt’s side, where he started dumping mana into the air. The bubble of mana pushed the harmful flames away for a moment, but his mana started to be sucked up into the tornadoes.
+
+The technique was usurping control and converting the mana at the same time.
+
+Feeling nostalgic, and a bit cheeky, Matt let it happen, deliberately feeding it even more mana that he barely controlled until the tornadoes tore themselves apart as a spontaneous aspect-cascade disrupted the working. Alas, it was a self-contained effect rather than being actively maintained, so it didn’t knock anyone out like it had when Zack had caused a similar outcome in their duel.
+
+Still, it stopped the skill dead in its tracks, freeing himself and Liz from the bubble he had created.
+
+Cui Ming launched himself at them the moment his path was clear, his fists gathering more fire mana from both the failed spells and ambient mana.
+
+While they were occupied, he had cast some empowerment technique and had grown to ten feet tall, and his skin glowed red as flames physically infused his flesh. Each of his movements caused heat waves to linger behind and then explode in a familiar three, five, seven, nine pattern, making getting near him extra dangerous.
+
+Liz moved to intercept it in two directions, and when Cui Ming tried to interrupt her by grabbing one of their spears, Liz called on [Feather Armory] to make it bristle like a cactus with additional razor-sharp feathers, cutting his palm to ribbons. Liz instantly exploited the open wound, golden blood pouring into the injury and trying to eat him from the inside.
+
+Matt didn’t sit around, immediately pointing with his left hand and casting [Mana Beam].
+
+Lang Ru seemed ready for the spell and cast a wave of purple fire that ate up the attack. It wasn’t void mana, and Matt wasn’t sure what the spell did until a moment later, his [Mana Beam] came out the other side. A technique that had a time aspect was fairly unique, and it allowed her to dodge the majority of the blast. But Matt could also feel just how much mana the spell cost to keep active, which was why he wasn’t surprised when she dropped it the second he stopped fueling [Mana Beam].
+
+Matt considered keeping the spell up, blasting her with enough mana to knock her out… but he was having fun. Also, he didn’t think the message had been made clear quite yet.
+
+Cui Ming kicked at his head, taking a blow from Liz in the process that cut deep into his abdomen, but Matt was already twisting out of the way and slashing upward with his blade. Without a spell to back up the attack, the blade only cut a few inches into Cui Ming’s massive red leg.
+
+Matt rotated even as both of Liz’s bodies slipped past him to attack the charging Lang Ru.
+
+Twisting and kicking down, Cui Ming forced Matt back enough that he was able to bring a massive hand wreathed in green flames down at Matt’s head. Matt flew sideways to dodge, but fell into the man’s trap as Cui Ming kicked out with claws that actually managed to slash through [Cracked Phantom Armor] and into Matt’s abdomen.
+
+Burnt intestines flew through the air and a vicious look came over Cui Ming’s face, but Matt didn’t pause and drove his own clawed hand forward, grabbing the man’s chest and letting his fingers dig into his flesh painfully. He was tempted to use [Void Claws], as the spell was no longer a secret after he had killed Maven with it, but he decided not to at the last moment.
+
+It was better to show the watching sects that Matt could beat their sect leader at his own game, rather than overpowering him through better skills.
+
+Instead, Matt went back to his old reliable. A [Mana Beam] punched a hole through Cui Ming’s chest and would have gone through the mountain range they were in if it wasn’t for the protective shields.
+
+Pumping in more mana, Matt widened the hole even as the blowback damage started to affect his invulnerable hand as the Stygian Gossamer was pushed to its limits.
+
+Cui Ming punched him in the face, rocking his head back, but Matt didn’t let go or stop channeling his spell until he had created a head sized hole in Cui Ming’s chest. Once the maximum damage was done, he let go and used the next punch to create some distance between them.
+
+Spitting out a tooth that had already regrown, Matt lashed out with a [Mana Slash].
+
+The first was followed by a second, then a third. His intention wasn’t to damage, but instead to push Cui Ming closer to Liz, who switched off Lang Ru and turned into her blood form to engulf Cui Ming, trying to dig her way into his open chest cavity to eat him from the inside out.
+
+Lang Ru rushed forward to try and defend her ally, but Matt threw a few million mana into [Telekinesis] and slammed her backwards and into the protective shield.
+
+She vanished, and Matt felt something in his Domain react.
+
+Instead of following the instinct that was screaming at him to prepare for an ambush from a teleporter, Matt flared his Domain Meld even while keeping his Concept topping Liz’s mana up and his Intent locking down space.
+
+An eclipse of a white hole and a black hole flashed into being around him, suppressing everyone's Domains except his and Liz’s.
+
+Domain working disrupted, Lang Ru appeared next to where he had slammed her, and the feeling that he was going to be attacked on his rear vanished.
+
+Liz, having practiced inside his meld and worked with him on it, wasn't affected. But Cui Ming’s body started to shrink and twist as he fought to keep his transformation active, despite there being no place for it in the Realm while Matt’s Meld took up all available space for Domains to exist in.
+
+Blood rained as Liz exploded what remained of Cui Ming’s chest, but she hadn’t been able to get to his head and force a surrender.
+
+Screaming, the Rage Within sect leader erupted with flame as some berserk technique was activated.
+
+Taking a deep breath, Matt unleashed a torrent of [Cracked Dragonflame] strengthened with [Reinforce Mana], walling off Lang Ru along with half of the battlefield. It wouldn’t last long, but it would give him and Liz a few seconds to try and take Cui Ming down, which is all he thought they would need.
+
+Liz was already moving, and Matt used their teleport rings to teleport himself forward a few times in rapid succession, taking advantage of the sect leader's lack of spatial locks.
+
+Rapidly changing his sword’s magical enchantments with its growth ability, Matt cast [Sword Twin] to capture and then combine each effect, letting the final buffed blade float off to the side and attack from an obtuse angle.
+
+Cui Ming’s chest wound didn’t exactly heal, but an inferno filled his chest cavity. Combined with the berserk technique, he blurred with his speed as he swiped out at the two of them.
+
+Matt blocked a slash with his hand, the attack strong enough to completely break [Cracked Phantom Armor], but not enough to overcome his Stygian Gossamer-enhanced skin. It did cause the mana left in his body from his earlier disembowelment to react, though, and fire exploded through Matt’s body.
+
+The now-active mana tried to race to his brain, but it found Matt’s body harder to deal with than expected. [Barbarian’s Hide] fought it, and Matt diverted some of his mana to flush it out with his Millennium Willow Lifesap, while [Regeneration] put him back together. [Cracked Phantom Armor] hid the damage, and he swooped into formation with Liz. She looked absolutely pristine, not so much as a hair out of place, but through their party link, he could tell that was thanks to her hiding what damage her bodies were taking with [False Wound]. The converted [Gossamer Outfit] didn’t see much use, but times like this made it all worthwhile.
+
+Two of her moved like hawks as they dove in, spears leading the way.
+
+Cui Ming blocked one Liz but took a deep cut to his cheek from the second. The wound started to visibly fester, but a burst of flame purified the damage.
+
+Matt felt Liz subtly grabbing at the flame and trying to interrupt the spell, but for all that Cui Ming looked like a stereotypical brute fighter, he had excellent control over his mana.
+
+Matt hit Cui Ming with a [Tribulation Strike], less trying to defeat him with the spell but more wanting to distract him long enough for Liz to get her next spell off.
+
+Each Liz was swallowed in a roiling sphere of golden Ichor, ballooning massively in size into two enormous bodies, decompressing all the ichor stored in her blood form and manipulating it into humanoid shape. It wasn’t a practical move by any means, but it was hard to beat the style.
+
+Two giant golden Lizzes thrust at the same time, aiming to cut Cui Ming into pieces.
+
+Matt didn’t dodge despite being in the way, but instead tried to grab Cui Ming with a [Telekinesis] and restrict his movements long enough to land a decisive blow.
+
+It almost worked.
+
+Like an ember flaring bright before it was extinguished, Cui Ming roared. With a burst of power, he broke through Matt’s hold on him. Though the sect leader still lost the lower half of his legs to the spell. Instead of just falling to the ground, the legs burst into flames and wrapped around Cui Ming like a cloak.
+
+Lang Ru joined them as she finally cut through the wall of crystalized mana Matt had created and raced at them, trying to help Cui Ming.
+
+Turning and leaving Cui Ming for Liz to finish off, Matt intercepted the Dancing Flames sect leader, internally trying to beat Liz in finishing off their opponent.
+
+Lang Ru tried to skirt around him using a flame spell that merged her with the ambient fire mana, but a quick [Cracked Air Slide] let Matt circle with her and prevented her from joining with Cui Ming.
+
+Spinning, her skirts flared with fire that tried to befuddle Matt through illusions. Some grabbed a hold of his mind and spirit, but thanks to his training and exposure to Aster and her pranks, Matt managed to resist the majority of the spell's effects. Though, the one that was sending the sensation of waves of fire through his body was incredibly distracting as it made him want to scratch himself raw.
+
+Getting in close, Matt slashed out with a point blank [Mana Slash]. Instead of tanking the spell like Cui Ming had, Lang Ru burst into flame and teleported to the side, using the reposition to lash out at Matt with her mantis scythes.
+
+Even with [Cracked Phantom Armor] currently fire-aspected, the scythes had enough physical mass that they managed to cut through both his magical and physical armor and dig into his shoulders.
+
+They pulled out, trying to gather enough power to dig deeper and sever his shoulder muscles, but the moment they left, the wound was already closed, allowing Matt to catch Lang Ru with a kick.
+
+The blow sent her tumbling back right into his blade that had snuck up behind her. She managed to activate [Phantom Armor] or some other similar life-saving armor spell which saved her life but it was a close call.
+
+Pressing her hands together, Lang Ru started to gather ambient fire mana at a rapid rate. Mana from miles around started to run towards them and gathered between her hands in an impressive feat of mana control.
+
+It began to coalesce between her hands, a new star being born on the surface of the planet, as fire mana swirled into a ball the size of a house, then slowly condensed more and more until it was the size of Matt’s head and brimming with power. Even the sun itself dimmed and appeared to go out, its strength being captured within the wake of this overwhelming attack, plunging the battlefield into night.
+
+‘Oh no,’ he messaged Liz. ‘That’s so much mana. Whatever shall I do?’
+
+‘Something dramatic, I hope. Or at least flashy,’ came the reply, and Matt could practically feel the smile behind it.
+
+Given the attack was made of ambient mana, it was lacking somewhat in intent, direction, and potency, but it made up for it in sheer quantity. Surely, it was some grand finishing move, an unstoppable trump card that would no doubt turn the tides of battle in the direction of the Sects, dooming the Empire to a rebellious planet for centuries to come…
+
+“You’ve done well to last this long, Empire dogs! But no longer! Behold the full might of the Dancing Flames sect as you face [The New Dawn Captured Within The Palm Of My Hands]!”
+
+She roared, the flames so intense that her own armor was flaking off under the heat, and her hands were left charred and partially burning as she began to throw the attack at Matt.
+
+Matt snapped his fingers.
+
+The new sun died, and daylight returned to Palustris.
+
+Lang Ru staggered in the air as the millions of mana she had been corralling vanished in a single instant, pulled from her control thanks to Matt’s usurpation of the mana, then fell from the sky as her mana ran out in its totality. One of their guards caught her with their Domain and brought her out of the arena.
+
+Matt turned away, instead studying the fight between Liz and Cui Ming.
+
+Cui Ming, sensing the end of his fellow sect leader, roared once more and a fifty-foot illusionary bear appeared behind him and towered over them. Its very presence tried to overawe them in a primal way that had nothing to do with cultivation or bloodline, but sheer presence.
+
+It was an impressive move, but Liz never bothered to uncross her arms. Before Cui Ming could unleash his final attack, his expression changed before he vanished, leaving a blob of golden writhing blood in the place his head had been.
+
+Letting his buffs take away his damage and restore his stamina, Matt stood up as Liz rippled and put herself back into a perfect state.
+
+Matt dismissed [Cracked Phantom Armor] and stored what bits and pieces of his physical armor remained, leaving him in tattered underclothes.
+
+A thought replaced them and cleaned the blood off himself, and together he and Liz stood before the arrayed sect cultivators.
+
+“Does anyone else have objections to our rule?”
+
+No one made a sound.

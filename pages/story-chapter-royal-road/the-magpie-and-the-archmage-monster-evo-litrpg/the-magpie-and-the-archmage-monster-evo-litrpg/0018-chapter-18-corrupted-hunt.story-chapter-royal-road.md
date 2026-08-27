@@ -1,0 +1,199 @@
+---
+id: 42b1c443-dfdd-56d1-9b70-3913765a6a6a
+page-type-slug: story-chapter-royal-road
+title: "Chapter 18 – Corrupted Hunt"
+slug: 0018-chapter-18-corrupted-hunt
+partOf: the-magpie-and-the-archmage-monster-evo-litrpg
+position: 18
+ownLength: 2025
+unit: words
+publishedAt: 2025-09-06
+link: "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2578560/chapter-18-corrupted-hunt"
+royalRoadId: "2578560"
+---
+
+Liora waited until nightfall to begin her hunt. During the day, she spent blissful hours sleeping in Christie's house. It was a wonderful time. No pigeons or bats, and it was remarkably clean. Liora didn't have to worry about getting her feathers dirty at all.
+
+It was also a safe space, since the two women were the only ones who lived there. Liora considered perhaps moving into their home altogether. Christie constantly begged for it after all, and Liora did like the girl. But in the end, she rejected the idea. At least not while those creepy mages were skulking around the place.
+
+But nighttime was Liora's time. She was quite enjoying being a nocturnal bird. Nobody noticed her as she flew through the town or the foot of the mountain. Even those vigilant owls couldn't sense her anymore. Not that they would be foolish enough to attack her now.
+
+Now, where can I find some corrupted monsters?
+
+Are you sure about this? These corrupted monsters will likely be stronger than just a small hyena.
+
+So all I have to do is level up, right? I'm not going to fight anything I'm not confident I can defeat.
+
+In reality, Liora didn't relish the idea of fighting corrupted monsters. But she didn't want those mages to get the blightstones either. Whatever they did with them—it couldn't be good.
+
+That didn't mean that she ignored other monsters altogether. No, Liora took the opportunity to attack any lone monster she came across. For the first time, she spotted a lone six-legged goat. She noticed that this one was different from the ones huddling in the herd. Those had no horns and had a relatively short snake tail. This goat had large horns and a much longer snake tail.
+
+Liora decided that she was ready to take it down.
+
+That tail looks troublesome. I'll deal with it first.
+
+It can detect you from your heat signature, so your Shadow Glide won't help you stay hidden. Deal with it quickly.
+
+That was exactly what she intended to do. Flying high, she took aim at the snake tail and dropped. The snake did notice her at the very last second, but Liora's speed was too much. It couldn't react in time. Liora struck the goat's tail and severed it in one hit.
+
+It bleated out in pain and tried to ram her with its horns. Liora had to give it credit where credit was due—the goat was very agile on the rocky cliffside, using its six legs for maximum stability. But it couldn't handle a flying opponent like her. After using Fade to hide herself, Liora sneaked up on it and Pecked. After that, a few Air Slashes were enough to inflict deadly wounds.
+
+[You've defeated <Chimeric Goat – Level 12>. Experience gained.]
+
+It had one glimmerstone embedded in each horn and one in the forehead, which Liora gratefully retrieved and then used Mana Conversion to recover some lost mana.
+
+Later, she found several other goats and more fungoraks and quickly disposed of them.
+
+[You've reached Level 14.]
+
+[Your skill <Night Vision> has reached [Adept] level.]
+
+[Nightvision – At [Adept] level allows you to see even smaller details in the dark.]
+
+Wow, that was fast. How come other skills didn't level up so fast?
+
+Because the speed at which skills advance depends on how much you use them. Since you're going out mostly at night now, your Night Vision is improving really fast.
+
+Liora hummed in approval. She certainly had no complaints there. The mountain looked much sharper now. Seeing even tiny details far away wasn't an issue anymore.
+
+I feel that I've neglected Mimicry too much because it's not consistent at this stage. But if I get it to the next level, my mimicked skills will succeed more often, no?
+
+Most definitely.
+
+Liora searched around for a suitable opponent and spotted a panther, sneaking its way down the mountain. Previously, Liora probably wouldn't have noticed it—its black fur made it nearly invisible in the dark. But with her improved Night Vision, it was easy.
+
+For a moment, she considered whether it was wise to pick a fight with such a strong opponent. But this panther didn't look full-grown. It also seemed clumsy as it would occasionally slip on the rocks before scrambling back up.
+
+Something's wrong with that panther.
+
+Perhaps it's injured? I won't say no to an easy target.
+
+Don't get cocky now. If you underestimate your opponents, you'll get yourself killed.
+
+I know that! Now shush—let me concentrate.
+
+As always, she began her attack with a surprise Air Dive. It made the panther yelp in surprise, but the damned cat was too tough for Liora to have inflicted any real damage on it. But she wasn't dismayed and tried mimicking gnoll's Maddenning Cackle.
+
+[You've successfully mimicked the skill <Maddening Cackle>.]
+
+The panther mewled and shook its head, confused from the skill. But then it started doing something strange. The panther began smashing its head against the cliff with increasing intensity.
+
+Okay, I know the skill is called Maddening Cackle, but this seems a bit much.
+
+Something isn't right. Its mana is changing rapidly.
+
+Liora then realized what was happening. In her haste, she unleashed several Air Slashes, hoping to defeat the panther before it became corrupted. But it wasn't enough. Dark miasma enshrouded its body, its muscles bulged out in a grotesque way, and its eyes became hollow.
+
+Dammit! This is not what I meant when I said that I wanted to get Blightstones.
+
+The corrupted panther snarled and leapt after Liora. She flew up as quickly as she could and Faded. The monster had no trouble moving around anymore, all of its previous clumsiness gone. But thankfully, it couldn't see Liora, skulking around and sniffing the air.
+
+Any ideas on how to defeat this guy?
+
+Can you cause another rockslide?
+
+This guy might be too agile to be taken down the same way as the hyena.
+
+For a while, Liora depended fully on her agility and Fade to keep inflicting damage from a safe distance. It worked fine at first. The corrupted panther couldn't get to her while she occasionally released an Air Slash and then Faded away into a safe distance.
+
+But it didn't take long for her to run out of mana. To get more mana, she would have to defeat another monster, but there was no way she'd fight one while this corrupted thing was chasing after her. They were at a stalemate.
+
+"There should be one over here!" Liora heard the woman mage's voice from yesterday.
+
+Without hesitation, Liora Faded, hiding herself between the cracks and disappearing from the corrupted panther.
+
+"I thought there were only five corrupted monsters?" The older mage, named Walter, if Liora remembered correctly, complained.
+
+"This one appeared just a short while back. Count us lucky—if we had gone down the mountain already, we would have to go back up for it. Saves us the trip," the woman said.
+
+The panther snarled viciously at the mages and began rushing in their direction.
+
+How are they going to deal with it?
+
+They must have some trick to deal with them easily. I don't believe for a second they'd approach a corrupted monster so casually.
+
+"How lucky can we be? We had to spend the whole day trying to find that sneaky rock wyrm. Stupid snake," Walter spat angrily.
+
+"It's actually more closely related to a dragon than a snake," Arvid, the youngest of the three, said.
+
+"Whatever. It was a pain in the ass to find. Let's deal with this cat quickly. I want to sleep in a proper bed already!" the older man glared at Beatrice.
+
+"There's no need to get your panties in a twist. I'm not trying to keep us up on this mountain longer than necessary," she smiled and lifted her staff. It lit up, and Liora finally saw the faces of the three mages.
+
+The woman was rather young and beautiful with vivid green eyes. The younger man had dark, sunken eyes and a glum expression, while the older man had a large scar stretching down his right cheek.
+
+Panther jumped at them, and for a moment, Liora was sure that it would tear them to shreds. But the light from the woman's staff erupted towards the partner and sent it back. It screeched in pain, falling some distance down the mountain, and then went still.
+
+She got it in one hit?! How powerful are these mages?
+
+No, that was a basic offensive holy spell. These corrupted monsters must be extremely weak to it. Damn, I should have known!
+
+"Did you have to wait until it almost chewed off our heads, Beatrice?" The older man grumbled.
+
+"Aww, don't be such a spoilsport. You know I can deal with these things in one shot," Beatrice cackled.
+
+"Let's get the blightstone and return to town," Arvid said.
+
+Get the stone!
+
+Liora didn't have to be told twice. She shot out of her hiding spot and flew towards the body of the corrupted panther. Blightstone had already formed on top of it. She snatched it and disappeared into the night before the mages had even realized what had happened.
+
+"What the hell was that?!" Walter yelled. "After it! After it!"
+
+"It's gone! Was that a bird?" Beatrice screeched indignantly.
+
+Liora didn't hear any more of their curses and flew down the mountain as quickly as her wings allowed. Even with their magic, they couldn't catch her. Not that they could even keep track of her with Shadow Glide. But just in case Liora would occasionally use Fade.
+
+They didn't see you, did they?
+
+I don't think so. Even if they did, there's no way they could have followed me.
+
+Did you store the blightstone away?
+
+As soon as I got it.
+
+Good, then they can't track you using it.
+
+Nervous, but elated by her small victory, Liora made her way into the old watchtower. Tonight she'll hide away here. Likely, they'll be searching for anything with wings.
+
+For a long while, Liora remained up and watched the area surrounding the watchtower, fearing that the mages might be able to track her down somehow. She'd peek out through cracks, but in the end, they never came near her hiding place.
+
+We've learned something valuable today. If you had holy magic, then you'd have no trouble fighting these corrupted monsters.
+
+But if they knew that, why didn't they use holy magic when the corrupted boar mauled the entourage that carried you?
+
+Aside from one guy, everyone else there was a newbie. They didn't want to attract attention while transporting me by involving high-ranking people. Not to mention that they didn't expect to run into a corrupted monster so close to a populated area.
+
+Kinda stupid not to send at least someone who knows holy magic along with them. Just in case.
+
+Holy magic is not so easy to come by. It is one of the most difficult types of magic to learn.
+
+Liora hopped down from her peeping hole, landing in some open space in the middle of the watchtower.
+
+Teach me holy magic.
+
+Impossible.
+
+Oh, don't be stingy! You already taught me Air Slash and Mana Conversion. What's some holy magic?
+
+Air Slash is inherently compatible with your being, and Mana Conversion is a skill anyone with mana can learn. Holy magic is something even experienced mages struggle to grasp.
+
+You could at least try.
+
+You do realize that your whole skillset is based on exactly the opposite of what holy magic does.
+
+Is that bad?
+
+Of course. It's always more difficult to learn the magic of opposing elements. I'm pretty sure that at this stage, you wouldn't even be able to learn basic earth magic spells, not to mention holy magic.
+
+But how am I supposed to fight these corrupted things otherwise?
+
+Liora could feel a twinge of satisfaction coming from Renir. She had a really bad feeling about this.
+
+There is a way to do it. Quickly and easily.
+
+Oh no… Please don't tell me…
+
+Yup, you can always buy a holy magic spell with glimmerstones!
+
+No!

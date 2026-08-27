@@ -1,0 +1,407 @@
+---
+id: 7fc152a2-58ae-5e37-9a99-a265a42bc9e3
+page-type-slug: story-chapter-royal-road
+title: "The Path of Ascension Chapter 440"
+slug: 0139-the-path-of-ascension-chapter-440
+partOf: the-path-of-ascension
+position: 139
+ownLength: 6796
+unit: words
+ownProgress: 6796
+publishedAt: 2025-09-05
+link: "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/2577356/the-path-of-ascension-chapter-440"
+royalRoadId: "2577356"
+markedReadAt: "2026-06-29T19:22:26.324Z"
+---
+
+Chapter 440
+
+Having a seeker point out this world as being high value, Matt had been expecting… More.
+
+He wasn’t sure how, but he felt thoroughly underwhelmed by the Tier 8 world. It wasn’t that Tier 8 worlds couldn’t have good things; even lower-Tier items that were truly unique could sell for a Tier 40 price in settled space, theoretically. But that sense of something missing set the tone for Matt.
+
+When they arrived in the world's real space, Matt immediately spread his perception.
+
+Quickly scanning the surroundings, Matt found it ordinary.
+
+It was a decent enough world with a smattering of Natural Treasures, along with a good amount of rare and valuable materials. He even sensed a strange realm that he was looking forward to exploring.
+
+He had expected something slightly better with the readings both seeker Talents gave off, but the find wasn’t all bad.
+
+Stepping forward, Matt went to inspect a massive natural crystal that was nearly thirty feet tall, with another fifteen feet buried underground.
+
+It wasn’t anything special, but it was cool, and he was sorely tempted to grab it just because it was fascinating to see it fully intact. Instead, he took a couple really thorough scans and moved onto the next thing that caught his interest.
+
+Sadly, most of the Natural Treasures were known commodities, and none were especially rare.
+
+Even the strange realm was barely half-formed and would be destroyed if any of them tried to enter it, as they were magnitudes stronger than it, so they didn’t even get to investigate.
+
+That left all of them baffled.
+
+Matt thought he was alone in his disappointment, but the rest of the crew were clearly just as confused.
+
+Finally, Matt stepped back to the Unsparing to see both seekers standing next to the navigator of the ship, surrounded by everyone not on the harvesting teams.
+
+“There has to be something more here. You just haven’t found it yet.”
+
+Lura’s words were clipped, but even the normally jolly Magnus was solemnly agreeing.
+
+The navigator, upon feeling Matt’s arrival, turned to him, as if Matt would obviously side with him.
+
+Instead, Matt just asked for clarification. “What’s the issue?”
+
+The navigator sighed. “The seekers are being seekers. Their divinations weren’t perfect, which only idiots expect, but instead of just accepting that they made a mistake, they are, as usual, doubling down and refusing to admit they had a dud. This happens every voyage at least once, and they can never admit it. I’ve been part of crews that have torn worlds to pieces trying to find what isn’t there. Normally, I’d be all for looking around longer, but with the oncoming wave of other explorers, we need to move on.”
+
+Matt looked at the two seekers and raised a questioning eyebrow.
+
+Lura flatly returned his gaze, but Magnus replied with a gesture between the two. “And we can both admit that does sometimes happen. I’ve been wrong before. I can admit that, but my Talent definitely felt something valuable and so did Lura’s. Her non-boosted divination might be weaker, but it's sure there is something still here, and I agree with the results. If we can spare the mana, I’m willing to sacrifice a chicken and see if I can get more accurate information.”
+
+When Matt didn’t immediately respond, he added, “Chickens are good for spot searches, but I don’t have too much fine-grained control. I also won’t need quite as much mana, as it’s a more localized search.”
+
+Matt shrugged. “Go for it. I can widen my Concept a bit, and if everyone donates some mana, we won’t even be slowed down.”
+
+The navigator looked like he wanted to argue, but finally nodded his acceptance.
+
+Liz and Allie returned just a few moments later, leaving Matt to explain what was wrong while they waited for Magnus to sacrifice a chicken and read its entrails.
+
+However, contrary to everyone's expectations, the reading he got said that they were practically on top of the prize.
+
+That revelation caused them to reevaluate each and every item they had gathered, costing them hours even with everyone’s perceptions nearing Tier 30 speeds, but nothing seemed amiss.
+
+Matt was willing to cut his losses and leave, but both Rah and Zack felt there was a reason to stay, so they tried again.
+
+Lura tried her own additional fully-empowered divination, but her results once more reported they were close to the reward.
+
+Trusting both their guts and Rah and Zack's, everyone threw out ideas as they waited for Matt’s Concept to refill the crew so they could refill the ship's stores to at least fifty percent before they left.
+
+That only gave them about three hours until they were scheduled to leave, which left them with nothing better to do than guess widely at what the Talents could possibly be targeting as ‘valuable’ that they also couldn’t find.
+
+While they were sitting there, their navigator even started doing deep space scans just in case something was hiding in the outer system. There were three Tier 3 gas giants and a small asteroid belt.
+
+Normally, an exploration team would clear all of those other worlds, but without their additional delay, they wouldn’t have bothered. Being Tier 30 meant their harvesting crew could move exceptionally fast, but that still normally added days, if not weeks, to the exploration time, and they didn’t want to let others catch up during that period.
+
+“Is there anything near the core? I have heard of a few Natural Treasures that like to form near there and are super valuable.” Allie was falling over in her chair, but had been steadily throwing out guesses trying to stumble onto something.
+
+Matt once more spread his spiritual perception, pushing through the physical material of the planet, slowly but surely inspecting the depths along with Rah and Liz, who had both also checked.
+
+It took several minutes to dig through that much material, but they all shook their heads when they were done, Liz even going as far as to check the moon in the same fashion.
+
+“Nothing?”
+
+Upon getting another negative, Allie sighed and let herself half melt out of her chair and onto the floor.
+
+“What about another world's core?”
+
+They were too far to reach the other worlds with their spiritual sense, so they all looked to the navigator, who dutifully turned the ship's scanners to inspect the more distant planet’s and look for any unusual fluctuations that might indicate a hidden… something.
+
+Liz sighed at the action. “That feels useless unless we want to teleport out there ourselves, but that feels unlikely to be worth our time if it's just a Natural Treasure. It would have to be stupidly valuable to be worth that level of effort.”
+
+The navigator’s reply killed even that hope.
+
+“No readings that might indicate that at all, but I can keep scanning if you want.”
+
+Liz just shook her head and Matt idly watched as they instead started gathering passive information about the system, looking for any anomalies.
+
+“What about if—” Allie once more threw out an even more outlandish idea.
+
+They only had half an hour left when the navigator made a small noise that got everyone's attention.
+
+“Huh.”
+
+Allie snapped upright, but Aster beat her to the question as she appeared next to the navigator and looked over his shoulder. “What is huh?”
+
+The navigator tapped the reading in question. “There are other essence signatures in this universe. Or that is what the readings indicate. It isn’t that unusual for a rogue asteroid to have enough essence that once it leaves the local star system and enters a new one, where it lands on a celestial body and begins to multiply. Buttt—”
+
+The navigator's final word was drawn out, and the captain, whose job was to run the ship when they weren't there, finished as he inspected the reading. "That's unlikely to happen in four systems. Start focused scans of the area the other worlds are and let me know what you see.”
+
+Matt copied the files and gave it to his [AI] to analyze, throwing his entire mana generation into the spell and waiting, hoping to brute force something.
+
+The first thing his [AI] noticed was that the recordings were probably correct.
+
+Some asteroid or the like had passed from one world, most likely the first world in this universe to have enough life that mana condensed into essence, and through two others and this world just to arrive at a third system, merely nine light years from them.
+
+None of which made sense for a simple asteroid. The chances that such a rogue rock would pass through not one but three worlds was incredibly suspicious and reeked of cultivators’ interference.
+
+That news immediately perked up both of their seekers, but didn’t actually answer their question.
+
+The captain said what everything was thinking. “So our prize might really be right underneath us.”
+
+After scanning the system another time and sending the information for everyone to look through, it was eventually Liz who pointed out an asteroid that was circling the world near them. It was slightly larger than normal, as well as being more densely compacted, which was unusual for a body its size. But what Liz noticed was how it was in a perfectly stable orbit.
+
+It wasn’t a good orbit or even a close to stable orbit, with a small drift one way or the other. It was perfect. In a settled system that wouldn’t be too unusual, but in a world that was possibly essence seeded by another civilization, it was an anomaly.
+
+World seeding went in and out of style as time progressed, but it had been out of style for a while as explorers fell out of the habit of slinging an essence-laden rock into deep space to ensure it arrived at a nearby star system, where it could crash land and start multiplying. The argument was that it ensured more worlds would be there to explore in the future, but the time frames were so insanely long that few bothered with the tradition.
+
+Eventually, such an action would form a new world in chaotic space, but that didn’t really help explorers who would be speed-limited in real space. Few would bother to explore more than one world in a single universe, rather risking more exploration of chaotic space than needing to backtrack to a single node in real space.
+
+Spreading his spiritual perception past the first few feet of surface layers of the unusually dense asteroid, Matt wasn’t that surprised when he started to find runes engraved inside.
+
+It was a spaceship.
+
+At least, sort of a spaceship.
+
+By definition, it was a ship that traveled through space, but it was the crudest thing Matt had ever seen.
+
+The technology level was abysmal.
+
+The runes weren’t ones that Matt knew, but even from a scan of them, he could easily see they were mana-inefficient, with mixed and muddled effects.
+
+Allie teleported herself and Aster inside the center, where the actual livable portion of the ship was, leaving everyone else to look to Matt who cast [Portal], dropping them off right next to the duo.
+
+The rest of the crew’s spiritual sense surrounded them, but as if by some tacit understanding, they didn’t follow, despite being of a higher Tier than the seven of them.
+
+Aster grinned at Matt’s arrival. “Oh, this is so cool. Lost technology! This is worth a fortune!”
+
+That seemed to be the general reception to the find, and Matt could feel the rest of the crew already celebrating and congratulating the seekers for being correct this time. A few even went as far as to dig into their personal stashes of luxury foods and drinks to celebrate.
+
+Ancient technology was, as Matt well knew, rarely important from a technological advancement standpoint. But the informational value was worth a fortune to academies, historians, the imperial government, and anyone who might want to try and update the technology.
+
+The latter rarely paid off in any big way, but ancient suspected Talent technology had been recreated with the Realm’s current scientific understanding more than a few times, making the ship a possible fortune to the right buyer.
+
+Given the level of tech, Matt doubted anyone would find useful technology from the ship, but it was a historical treasure trove, which was its own separate but equally profitable market.
+
+Liz picked up a stone plate and seven pronged fork from a careful pile near the residue of a long-decayed wooden table. Or, what Matt suspected had been a wooden table, given what microscopic details he could see remaining.
+
+“Only soft metals. This might be a world's first attempt at reaching space.”
+
+Allie leaned over and asked, "Doesn't that imply the original civilization originated in that higher-Tier world nearby?”
+
+Matt frowned as something felt wrong to him about the whole situation, but he couldn’t quite put his finger on it.
+
+He was staring at the cutlery when Aster asked, “Why is this place built like a normal room?”
+
+Everyone looked to Aster, but Matt saw Zack instantly understand and start his own second perusal of their soundings.
+
+Gesturing, Aster urged everyone else to reevaluate. “This is a normal room. Chairs table, stoneware for food. A pretty normal looking fork, except it’s got way too many prongs, but none of that makes sense. This is a rudimentary spaceship. I can’t see any artificial gravity mechanics or what might be artificial gravity devices. So why did they build this like we would expect, with stable directional gravity when this place doesn't have that. I don’t even see the residue of things to hold stuff like the plate down. Even if the people who made this were dumb, which I doubt given they managed this, they should have figured out that low to no gravity needs special living requirements before building this. Unless this is somehow the first ever built ship.”
+
+Matt agreed with Aster, but offered his own suggestion, trying to kickstart a bright idea. “Anyone over Tier 5 would have had their own Concept. This asteroid is mainly made out of Tier 6 materials. Let's assume it was at least Tier 3 or below when it was launched, and it's been here long enough to be passively Tiered up by the planet below, so it looks like any other rock. While it's risky to travel without shields, this much material between the inside and outside is safe enough if you are only traveling between worlds in a single universe. It's also possible the people who flew this had gravity-faking Concept abilities like we have telekinesis.”
+
+Zack disagreed, as he carefully inspected what Matt was pretty sure was a light-amplifying rune set in a basin that Matt couldn’t quite figure out the use of. “Possible, but unlikely. I don’t think this place was ever lived in actually. It's too clean and sterile. Minimal human habitation signs. There are only a few spots discolored by human produced oils. It gives me more evacuation pod vibes than anything else. One massive room with shelves containing food residue, cots, and what I think is equipment to signal for help. I don’t think anyone has ever lived here, which is why this place feels so strange.”
+
+Matt looked the ship over with a different eye and found what Zack said to be plausible.
+
+Liz raised her own question. “What about the gravity, though? Or lack thereof. Surely they didn’t expect to be orbiting around a habitable planet close enough to rely on its gravity for direction. Not with this level of tech at least.”
+
+Susanne went over to one of the locked cupboards and pulled out some of the strangely wide cups which were still neatly packed away. Next to it was an area that looked like it might have been used to store water, with magically joined together walls and a tightly sealed lid that would prevent things from crawling inside and contaminating the crew's supplies.
+
+The more Matt saw, the more he agreed with what Zack said.
+
+Aster, however, didn’t back down. “Let's turn this place on and find out. I think there is something deeper going on than an emergency shuttle. Things aren’t adding up. It's still an escape pod of a most likely chaotic space ship. It makes no sense. It doesn't have artificial gravity, but they build things like normal. Something is strange.”
+
+None of them went and started touching the ancient devices they suspected might hold information; instead, Rah went and grabbed the portable and standalone AI the crew had already dug out of deep storage for them.
+
+It was a useful but expensive device that could be lifesaving when connecting one’s [AI] to unknown devices.
+
+As it turned out, the device was entirely useless, as the ancient tech was so old they predated [AI], or at least [AI] hadn’t been incorporated into its design.
+
+Instead, the ship, or the civilization who made the ship, used a series of crystals which they etched information into and read off of in a seemingly permanent process.
+
+It turned out to be a good thing, because it meant that, despite the passage of time, the Tiered material had kept its form long enough to be readable.
+
+From that alone, they found out the ship was as old as they expected. Hundreds of millions of years old was their best, but not very definitive, guess, based on the physical material’s suspected age.
+
+With a mix of trepidation and excitement, everybody present took as complete a scan of the crystals with as many methods as they could. All scans were backed up, then fed to Matt's [AI].
+
+Normally, such efforts would be a fool's errand. That much data, absent of any context, from a civilization so old that even if their current language was a direct descendant, which was extremely unlikely, no remnants of that connection would remain. That went doubly so when the information was pulled from a medium that, even with its Tiering, had degraded and was likely encrypted to boot.
+
+It wouldn't matter how much mana he fed his [AI] if there wasn’t enough of a connection, and if he forced it to provide info despite that, the [AI] would be making stuff up. Such ancient relics needed to be taken to specialists.
+
+Or at least, that would have been the case before he modded and merged his [AI] to such an extreme extent. While Matt of course felt how much faster and snappier it was even when running on less mana, he mainly had it doing things it could already do and had done.
+
+Reading and interpreting this data was the first task where he was quite confident his pre-modification [AI] would have outright failed.
+
+For five full minutes, his [AI] churned away, burning billions of mana.
+
+Thanks to his mergers and modifications, Matt was familiar enough with its structure that he could follow the broadest strokes of what was being used. While the [Decryption] part of the skill activating was no surprise, the conglomerate blob that was all the simulation skills he had added draining mana very much was.
+
+Finally, his [AI] compiled its findings and provided it to him perfectly organized via the also-merged [HUD]. It was still somewhat of a mess, with everything given tags representing level of certainty and even offering reasons why, but it was readable and coherent. Those same tags also revealed why the simulation structures had gone wild. To better translate things, his [AI] back calculated the physical degradation of the crystals to try and gain more concrete data.
+
+A task made infinitely harder by how the crystals had Tiered up, and changed how they decayed, several times over.
+
+Despite all of that, what it returned was fascinating.
+
+Starting with what his [AI] was almost completely certain of, Matt shared with the others.
+
+The civilization that created the ship started as a series of between five and eight major city-states. They were in a similar state of tension as the modern Great Powers, with an arms race to gain higher-Tier cultivators. This was aided by their star system actually having two Tiered and livable planets, one higher-Tier than the other.
+
+They somehow managed to move between worlds even before they developed spaceships. How, his [AI] has no idea, the method was always referred to by a singular word with no elaboration anywhere whatsoever. It was only certain it wasn’t a skybridge because those only worked between worlds passing by in chaotic space, and they found the name for those used elsewhere when talking about later explorations. His [AI] did offer some suggestions, but they were pure speculation boiling down to ‘A Talent did it’.
+
+Things nearly started boiling over on the civilization when the first person reached Tier 15 and then didn’t die of old age like everyone before them, kicking off an arms race.
+
+It was the only Tier his [AI] was fairly certain of, as it directly referenced immortality but it could have meant anywhere from Tier 14 to Tier 17, depending on their cultivation techniques. Each Tier seemed to have an actual name, and there weren’t enough context clues in the scattered data to figure out the rest with any degree of certainty. To make matters worse, the names of each Tier seemed to be used to refer to people, making it even more confusing. The best guess, and one that Matt felt was the most likely to be correct given everything else, was that the Tiers were named after the first to reach them. That, or it was a title given to the first person to reach the Tier.
+
+In fact, names of people and objects or concepts overlapping seemed to be a theme in the limited amount of retrieved data. From just one sample, his [AI] was deeply uncertain whether the objects were named after people, or if their culture just used object names as people names a lot more than the current Great Powers did.
+
+The Empire's culture had plenty of names in the same vein after all, with Aster herself being named after a constellation. And Matt couldn’t count the number of Smith’s he had met over the years who were actual smiths. Without additional context, that would be really confusing for others to encounter.
+
+Digging in deeper at the others’ urging, Matt was amused to discover how one of the main sources of both the seemingly irrelevant information to a spaceship, as well as the cause of most of the uncertainty: Since the storage crystals weren’t kind enough to contain something as convenient as a clearly labeled history book, most information was pulled from information in what looked like a default media center.
+
+One that had a biography or historical fiction section.
+
+There was a small but distinct chance everything he’d shared was just distraction literature for possibly long rescues. His [AI] deemed that unlikely, as it pulled the information from otherwise unrelated other stories, but it was possible.
+
+According to that collective source of information, the city-state who first created a Tier 15 was gearing up for a final confrontation, only to be stymied as several more appeared in short succession and joined various other powers. As more Tier 15s arrived with their own alliances and enemies, it created a tangled mess that ensured the stalemate continued once more.
+
+Susanne looked to Rah and asked, “Any idea on the city-state thing? Have you encountered something like that in your travels? It doesn’t make sense for a city-state to control not just one planet, but several, and still be called a city-state. But we long haven't had independent governments like that beyond the Great Powers."
+
+Rah looked around still keenly interested and shook his head. “No, but that means little. No disrespect intended to the translation, but as Matt said, he’s working off very little. I’d suspect it's a quirk of translation or possibly some historical relic when they once were city-states before believing they truly were singular city-states. How they saw themselves and how we interpret that might also depend on the language itself.”
+
+When everyone looked to him, Matt could only agree with Rah.
+
+Instead, he moved onto things he was far more sure on. The ship they were in hadn’t been a spaceship at all, as Aster suspected.
+
+Or rather, it had been a ship used to travel between what Rah called sky bridges, the naturally formed connections between passing worlds. This room usually parked on the edge of a much larger ship, and only split off when they wanted to build another mother ship or an emergency happened and they needed to evacuate.
+
+Why this ship had been sent out through real space to land in a non-essence star system Matt couldn’t guess, as he didn’t get any information from the records about possible deliberate essence seeding.
+
+Zack, having gotten confirmation that it was probably safe to do so, sent mana into what they thought was the key to activate the local formations.
+
+The asteroid hummed as runes carved into its mass activated for the first time in possibly millions of years.
+
+In fact, it wouldn’t have activated at all if Zack hadn’t bridged several of the flawed and destroyed runes with his own mana, approximating the best shapes he could with what he saw around him.
+
+The shaking finally stopped as a wave of ambient mana was sucked into the ship before the rush slowed as the systems started up.
+
+They spent a few more minutes getting additional scans of the ship as it was working, but the ship didn’t have any additional or interesting features beyond the data storage, as it was never inhabited. So, once they were convinced that there were no other mysteries to uncover, they decided to leave. They did get a speech sample from the device, but it was so short and came with so little context, it would take a team of Talented archaeologists to decipher it. Even Matt’s [AI] gave up after a few attempts.
+
+Withdrawing, they let the crew package up the entire asteroid as they reboarded the Unsparing, still riding the exhilaration of the find. Rah was even talkative about his lower Realm and one of the rumors he heard about unique government types he had run into.
+
+Riding his excitement, Matt continued to check on everyone else and see their reactions as they settled down in the Unsparing.
+
+Zack was smiling as he started forming the crude runes he had memorized into the air and began tweaking them, seeing if there were any interesting effects in the muddled script. Susanne was with Aster, looking closely at an ornate bowl Matt’s bond had snagged on their way out. Liz was giving him a suggestive hint that they should escape to their room, which he was tempted to take her up on, but one person wasn’t exuberant.
+
+The one person who should be crowing off the loudest about how it was only her persistence that had kept them here long enough to notice the anomaly was sitting there quietly.
+
+Allie.
+
+Instead of being happy, she seemed distracted, and that realization caught up to everyone else a moment after Matt noticed.
+
+Aster hip bumped her friend and asked, “Why aren’t you happy? This was a huge find.”
+
+Allie shook her head. “This isn’t it. Or, I don’t think it is. Why were there three extra worlds ‘accidentally’ essence seeded if this is just a safety vessel? These are meant for real space travel off a mother ship right? To make new ships while everyone loots the fuck out of the local world. That makes sense. I can follow the logic. Did people do that in your Realm, Rah?”
+
+Rah paused but slowly nodded. “With sky ships, yes. Those who were near active areas often did similar. More ships of war than what these seem to be. If we could have done something like this, people would have. Maybe they did, and I never heard of it. Few people bothered going into space after they reached Tier 15 and the novelty wore off. It was rarely worth it to fly to another world that was usually weaker than the world you were on after all.”
+
+Allie steepled her fingers, but with a serious enough expression, Matt wasn’t sure she wasn’t messing with them for dramatic effect.
+
+“How important was it to make it back in time for the planets separating? Really important, right? What happened if you missed the ride back?”
+
+Rah looked at Allie, confused, but agreed. “Of course it was. Everyone who crosses over via a sky bridge can feel approximately when the planets will separate. It's not perfect, but it's usually years, and everyone knew to leave well before the tether could break. Still, it did happen, and it was understood what to do. You need to rush ‘up stream’, trying to jump from world to world and connect back up with our more permanently connected areas. There is a famous explorer which that happened to. Ah’Tra the Determined. He and his company were stabbed in the back by his brother and left trapped to either die or be lost forever when the worlds separated. He famously brought all but three of his people back with him to slay his brother, just before he was able to officially take over as the next patriarch. It took him a hundred and nine worlds, but he managed it. Few are so fortunate, though. The lucky ones have enough people at the right Tiers that they can settle down and survive. Then, when the worlds connect, we might have a new trading partner or a new enemy to fight. The unlucky ones just die or are lost forever.”
+
+Allie just nodded before turning to Zack. “What kind of sensors did that ship have? What about its controls?”
+
+Zach flicked them all a file of the various enchantments they recorded. “It's rudimentary, but it exists. It could see a planet or asteroid belt, but propagating those images with their computing technology would have taken hours, if not days. The completed full design looks like this. It's basically a space-based cargo hauler. It's better and stronger, but that’s not because it uses better tech, but because they had more processing units on board. It is unlikely they had any spatial items unless they were lucky rift drops, and these ships solved that problem.”
+
+Allie spun her finger as if edging Zack on, but when he stopped speaking, she continued, “New ships would probably be sent out first thing so they can use their cargo capacity when people leave. A small ship would eat asteroids or whatever and then make a few new baby ships, preparing to have the next round of ships ready when they raided the next world. You said they might act as a life raft for the main ship as well. Anyone want to take a bet that each mothership came with three life rafts?”
+
+Matt’s mind raced as he understood what Allie was implying.
+
+Liz cursed as she along with everyone else looked at the two other suspected essence seeded worlds. “Mother fucker!”
+
+If the highest-Tier world was the original world, and three life rafts had been launched into space, there was a good chance someone or something valuable had been in one of those ships.
+
+Aster, fully on board, started bouncing on her toes. “Last-minute mutiny? Pirate attack? Betrayal? Super valuable Natural Treasure? An even more valuable rift reward, preferably made out of metal and well-oiled or otherwise properly stored, so it's still valuable so many millions of years later? Which other world is our real lucky ticket?”
+
+Liz rubbed her hands together. “Don’t be so pessimistic. Essence will hopefully ensure it's mostly preserved. This stuff was still in decent shape. No reason to assume the other stuff will be worse. And this is really fun speculation. I’m hooked. I need to know what happened.”
+
+Rah immediately agreed. “Why launch three potential seed ships? I agree it's likely two distraction ships and one real ship.” Rah then frowned and added, “Though it could have easily been three distraction ships and the real one turned around once they saw the cost was clear.”
+
+Aster immediately shook her head. “Zack said it, the sensors are as bad as everything else. I can’t imagine either ship having much acceleration, meaning their deceleration is equally shit. And given how expensive those ships are to run, I’d bet they were usually really slow, relying on building speed rather than fast accelerations.”
+
+Matt, instead, thought about the logistics. If he cast [Portal] at his max range over and over, how much of the travel time could he cut from the several light years travel.
+
+Their real space engines were good, but they weren’t built for long hauls, and so they wouldn’t be more than two or three times faster than light.
+
+Could he justify the mana expenditure to the crew? To a degree, yes, but not as much as his theoretical maximum. Would that, mixed with Allie teleporting them as much as she could without too much spiritual strain, be enough to make the trip reasonable?
+
+Matt looked to Allie, who met his eyes and raised a single eyebrow in silent return question.
+
+Susanne poured water on their exuberance, following similar logic. “Unless we want to give up on the breach, we can’t reach the other system. Even with the ship's real space engines, we can’t reach there in less than five years. And that assumes Allie teleports us back here, which means sitting long enough for her to make a waypoint?”
+
+Allie's expression didn’t change as Susanne spoke, still just looking at Matt.
+
+He caved first and raised an eyebrow in return, silently questioning her question.
+
+“What’s your idea? The Seekers?”
+
+Allie shrugged as if her following words would be no big deal. “Too slow. What if we are here and back in twenty minutes? Ten minutes to each system, but we'll only need to visit one. I can feel it.”
+
+Matt narrowed his eyes as his mind and [AI] churned through possibilities. “Impossible.”
+
+Allie’s grin turned dangerous as she stalked forward. “Almost. That's why we can do it.”
+
+Matt looked to see if she was messing with him, but he saw she was entirely serious. “How?”
+
+Allie tapped him on the chest with a dagger she let run between her fingers. “Do you know how the [Portal] skill works?”
+
+Matt reviewed his knowledge just to make sure he hadn’t overlooked something, but nodded a moment later. “Yes. Quite well, as you know, given you helped me modify it.”
+
+Allies grin winded. “And in those training sessions, I had an idea. [Portal] needs your spirit to locate the other end node, but your spirit doesn’t have to be in the spot so long as it hasn’t been too long, and your relative position hasn’t changed too much. I get a part of your spirit halfway between star systems for a fraction of a second, and then you cast the spell.”
+
+“Wouldn’t that hurt my spirit? It’d cut that piece of my spirit off as that piece of my perceptions disconnects."
+
+Allie nearly pinched her fingers together as she said, “It would, but only a teeny tiny little bit. Way less than the strain casting [Portal] such a distance is liable to cause. Oh, and make sure to lower your defenses. I need a clean cut with no resistance.”
+
+Matt considered the idea. He would need to act fast, but it seemed possible. With her abilities, Allie could teleport a small enough object halfway between star systems. The mana cost of that [Portal] might be a tad high, but theoretically, he didn’t see why he couldn’t pull it off.
+
+“Let's try it.”
+
+Liz stopped him with a palm to the chest. “Try not to explode in this shirt. I like this one.”
+
+She then grinned at him and winked, leaving Matt and Allie standing next to the navigator’s station.
+
+After getting the heading, Matt and Allie both looked in that direction. Matt began casting [Portal] on Allie’s signal and felt a tiny piece of his spirit being severed, causing a sharp stinging pain, a moment before it was teleported. Because it was his spirit and such an innate part of himself, Matt could feel the piece of him that was in-between star systems.
+
+The connection was almost immediately foggy, but Matt managed to grab the location with [Portal].
+
+Not hesitating, he sent more mana into the spell, but when nothing immediately happened, he shoved his entire mana pool into [Portal], letting his mana regeneration rate skyrocket.
+
+It wasn’t until he was throwing two hundred million mana a second into the spell that a ship-sized portal opened.
+
+Matt felt like he had been punched in the chest by Moe and had to glance down to ensure he hadn’t actually ruined his shirt; but thankfully, he hadn’t.
+
+He did, however, feel spiritually battered.
+
+The whiplash of casting such a large spell had been far harsher than he expected. It was hard to send that much mana into a spell most of the time, at least not channel spells. [Portal], despite being a type of channel spell, wasn’t meant to take that much mana for its initial cast, as the spell was only ever designed to work inside the caster’s spiritual perception range. Tier 28s weren’t meant to cast spells between star systems, and so his spirit wasn’t able to perfectly handle the cast, which nearly caused [Portal] to fail, despite him having enough mana to cast the spell at the range he wanted.
+
+Matt didn’t have time to think about that and flooded his body with mana to reinforce himself with his Millennium Willow Lifesap. It wouldn’t heal his spirit, but it would help him be a little sturdier for the second cast, which would limit any further damage.
+
+The moment they were through the portal, their navigator started scanning to gather their new location and then triangulated their final destination.
+
+Seeing the grimace on his face, Liz looked worried. “Everything alright?”
+
+Matt replied in a personal message. “I’m fine. Turns out there is such a thing as a spiritual paper cut and Allie just gave me one. It also really stings. However, I just discovered I’ve been thinking about my mana in a way too limited way before this. We can talk about it later.”
+
+Seeing Matt was mostly fine, Allie once more cut a tiny fraction of his spirit and sent it as far as she could with her Talent.
+
+The second portal only barely put them in the system's gravity well, but at that point, Matt could simply cast a few normal [Portal]s to get them deep enough in the system the ship could start scanning.
+
+The minute they did so, Allie was proved correct.
+
+There were clear signs of habitation.
+
+It was, however, very clearly long-abandoned, with all the systems shut down.
+
+Carefully scanning, they actually found a note carved into a steel plate set in the large asteroid’s door.
+
+It was in the same language they had seen before, which only further confirmed their theory about them being the same source.
+
+‘Trapped here, I leave what caused all of this. I hope it brings you better luck than it brought me.’
+
+Right inside the lived-in ship, there were ingots carved with a story that explained more, and everyone rushed Matt to translate before going inside any deeper.
+
+The additional information and actual writing examples helped the translation his [AI] gave him massively. Oddly, there was no name ever listed, and it was all written in the first person.
+
+“The person had exceptional luck in delving a strange area that let them design a reward after they defeated all of their opponents, monsters and human enemies alike. They asked for a skill that would let them always find home, and were given a skill to do exactly that. Except my [AI]’s flagging that. Hold on.”
+
+Matt looked at the flag and he paused for a moment before his spiritual sense swept out.
+
+The person hadn’t been given just any skill shard, rather they had been given a ‘bundle of shards’.
+
+Matt puzzled over that for a moment before his mind went to the only possible answer.
+
+“They didn’t get a skill shard, but rather a skill orb!”
+
+Everyone immediately spread their perceptions through the rest of the asteroid, but Susanne was the one to find it in what was probably once a store room.
+
+In a metal box like a dozen others, sat the skill orb.

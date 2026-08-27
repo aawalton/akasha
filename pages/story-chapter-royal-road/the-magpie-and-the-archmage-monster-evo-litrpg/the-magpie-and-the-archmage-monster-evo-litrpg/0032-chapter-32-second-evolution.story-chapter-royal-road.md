@@ -1,0 +1,321 @@
+---
+id: dee4f725-1071-5301-93ff-f54d2ccfa12c
+page-type-slug: story-chapter-royal-road
+title: "Chapter 32 – Second Evolution"
+slug: 0032-chapter-32-second-evolution
+partOf: the-magpie-and-the-archmage-monster-evo-litrpg
+position: 32
+ownLength: 2158
+unit: words
+publishedAt: 2025-10-08
+link: "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2660036/chapter-32-second-evolution"
+royalRoadId: "2660036"
+---
+
+Liora took a shaky breath and reached out for Renir, intending to put him in her Inventory.
+
+"No, leave me outside," he said.
+
+"Why? Somebody might find you while I go through evolution," Liora asked.
+
+She didn't like the idea of leaving Renir exposed while she slept in her evolution coma. What if somebody stole him? Or if some of those creepy mages just happened to be somewhere nearby?
+
+"Because evolution is a fragile process. Who knows what might happen? We might be permanently fused together if I remain in your Inventory."
+
+"Permanently fused?" Liora mimicked in shock.
+
+"Yeah. I might be permanently stuck inside you as a voice. Or I might disappear. Or I might even become you, and you might disappear. Our case is rather unorthodox," he explained.
+
+"No, I don't want that. Stay here," she said, and instead hid Renir underneath herself, like an egg.
+
+"Hey! I'm not an egg!" He protested. "Although I can't deny it's kind of cozy and warm."
+
+"You'll be hidden like this. Even if someone detects you, they might not realize you're inside the tree," Liora said.
+
+"Yeah, that certainly isn't easy to find. Although I wanted to observe your evolution. Pity… We need to find a safer location next time, so I can observe what's happening," Renir said eagerly.
+
+"No. It's almost like you're spying on me," Liora protested.
+
+"I merely wish to observe evolution! There haven't been many studies—"
+
+Liora rolled her eyes as he went on another tangent and willed the System to show her the evolution options.
+
+[You can choose one of the following three evolutions.]
+
+[Duskwing Raptor]
+
+[With a sleek body and feathers as black as night, even those with the keenest senses will not be able to detect you. Dispose of your enemies using your razor-sharp tail feathers and sickle-like claws.]
+
+[Cost: 9 glimmerstones]
+
+This feels familiar to that other raptor evolution I got offered before.
+
+Yeah, except this is a sneaky raptor. It certainly would suit your fighting style, although I do believe you would benefit from more magic. Air Slash is a dreadfully weak attack.
+
+You're the one who taught me that.
+
+Aren't I great? Only a superb mage would be able to teach a bird magic!
+
+Liora wanted to groan at his antics, but unfortunately, her bird physique didn't allow that. So instead, she checked the second evolution option.
+
+[Arcane Corvid]
+
+[Your feathers, shimmering with silver and purple light, excel at storing and directing mana. With an even longer wingspan and tailfeathers, as well as a white beak able to direct and amplify mana similarly to a wand, you're the magic incarnated in bird form.]
+
+[Cost: 10 mana]
+
+Yes, yes, yes! Take it! Take it!
+
+Oh, will you calm down! This is also similar to the magic bird option I was given before, only more flashy.
+
+Similar?! You fool! If you will be able to store mana in your feathers and if your beak will work a wand, you'll be a flying magical destruction machine. Oh, the possibilities…
+
+Renir continued raving about magic and all the things she would be able to do, but Liora wouldn't be fooled so easily. She was willing to bet that those magic spells would cost glimmerstones. But Liora had no intention of spending her hoard.
+
+[Octo-Echo Magpie]
+
+[Your wings shift colors and pattern, adjusting to the world around you. Your rounded wings and tail create the perfect illusion, while your voice can reproduce any sound you hear.]
+
+[Cost: 11 glimmerstones]
+
+This is interesting. This evolution seems to focus on illusions and mimicry.
+
+Fascinating. It appears you will be able to change the color of your feathers at will if you take this evolution. Just like an octopus.
+
+Ew, yuck. I don't want to be an octopus.
+
+It's just a comparison. It says "magpie".
+
+It also says "octo". What if I grow tentacles somewhere?
+
+Honestly, I would love to see that. Bird with octopus tentacles. HAHAHA! Imagine that!
+
+Hell no!
+
+Liora would definitely not take this evolution. Even if the perks and abilities seemed tantalizing, she wasn't alright with growing tentacles. Not even small ones. Nope, nope, nope!
+
+But which options should she take? They were all good, but also bad in their own different ways. Not to mention that each seemed to alter her appearance quite significantly.
+
+Is there really nothing else to choose from?
+
+[Would you like to view the secret evolution route?]
+
+There's a secret evolution?
+
+Those can be unlocked by meeting certain conditions.
+
+Yes, show me!
+
+[Starfeather Corvid]
+
+[Your large dark wings glimmer with gold, leaving behind a trail of magic which can purify blight. But under the cover of night, your form becomes indistinct—like a glimmer of light.]
+
+[Cost: 15 glimmerstones]
+
+There was a moment of silence as Liora and Renir both processed the text.
+
+Purify blight?
+
+Form becomes indistinct? Does this mean that I'll still be hard to see?
+
+I think so.
+
+It doesn't sound like it'll turn me into an octopus either.
+
+Is that all you're worried about? Look at the bigger picture. Purify blight! This evolution must have unlocked because you used Holy Light.
+
+Liora had to agree. It was too perfectly tailored for her. She'd be a fool not to take it.
+
+But this is the most expensive option.
+
+Not this again! Liora, don't be a fool! 15 glimmerstones isn't that much. You just got 32 from those satyrs alone. It is more than enough to cover the cost.
+
+I'm joking. Mostly. I don't like spending these glimmerstones, but it might be worth it if it means I don't become an octopus.
+
+Oh, for heaven's sake…
+
+I'm going to evolve now! See you whenever I'm done.
+
+With that, Liora accepted the option to evolve into Starfeather Corvid and let the darkness take over.
+
+***
+
+The first thing Liora noticed when she woke up was that it was cramped. Like really cramped. She could barely lift her head, but her wings were squashed against the tree.
+
+"Chak-chak-chak!" She exclaimed in panic, trying to free her wings, but was unable to do so.
+
+"Liora?! You're awake! What's wrong? I can't see anything," Renir said.
+
+"Caw! Caw!" She screeched, frantically thrashing about. "I'm stuck! I'm stuck!"
+
+"Calm down, and speak human. I can't understand birdtalk," he complained from somewhere underneath her.
+
+Liora took a shaky breath and said, "I'm stuck. I can't get out."
+
+There was a moment of silence.
+
+"A-Are you sure? Have you tried wiggling?"
+
+"Yes, I tried wiggling."
+
+"Have you tried standing up?"
+
+"I did. I can't move my legs!"
+
+Another moment of silence.
+
+"SHIT!" Renir exclaimed, and Liora went back into full panic mode. Struggling and pecking into the wood with her beak. It left rather sizeable holes, but it wasn't enough to get her out.
+
+"Okay, okay, enough thrashing. Let's check your profile and see what changed. Maybe you unlocked a skill that could help you get out," Renir said after a while.
+
+"What could possibly help me get out? I can't even free my wings to use Air Slash," she protested.
+
+"Blink, Teleport, Fireball, Detonate Tree?"
+
+"That last one isn't a skill."
+
+"You don't know that. The System is filled with surprises."
+
+Liora shook her head. Did her neck feel longer? She couldn't tell in this cramped space, so she opened her profile, praying that Renir was right.
+
+[Profile]
+
+Name: Liora
+
+Species: Starfeather Corvid
+
+Level: 1
+
+Health: Small
+
+Mana: Moderate
+
+Glimmerstones: 190
+
+Blightstones: 3
+
+Skills (7/10):
+
+Mimicry [Expert]
+
+Peck [Adept]
+
+Air Dive [Novice]
+
+Air Slash [Novice]
+
+Fade [Novice]
+
+Mana Conversion [Basic]
+
+Poison Shot [Basic]
+
+Traits (8/10):
+
+Keen Vision [Innate]
+
+Treasure Sense [Basic]
+
+Aerial Agility [Expert]
+
+Night Vision [Adept]
+
+Glimmerlust [Basic]
+
+Shadow Glide [Novice]
+
+Inventory [Basic]
+
+Magpie Disguise [Basic]
+
+Next Evolution: Requires Level 30 and ??? Glimmerstones to unlock
+
+"My mana went up to Moderate! Shame that my Health didn't increase," Liora said.
+
+"It probably increased, but not enough to pass into the next tier. But Moderate mana is great. We can actually start doing some more serious magic," Renir explained.
+
+"When did Peck go into [Adept] level?"
+
+"Wasn't it when you were Pecking those mages?"
+
+"I didn't notice."
+
+"Maybe you just missed the notification. But look down, you have a new trait!"
+
+Liora looked at the bottom of her profile and saw that she had gained a new trait called Magpie Disguise. She instantly commanded the System to bring up a detailed explanation.
+
+[Magpie Disguise – Allows you to assume the form of a regular magpie and masks your profile upon inspection. Receiving any damage will make you revert to your original form.]
+
+"Wait, it allows me to turn back into a magpie?" Liora asked in surprise.
+
+"Try it out!" Renir urged.
+
+Liora nodded and focused on the skill. There was a bit of resistance as she tried to understand how exactly to command it. Suddenly, she felt a strong tingling on her skin and feathers. Next moment, she'd shrunk down, the tree hollow no longer constraining her.
+
+"I'm small again!" She cheered.
+
+"Quickly, get out of this tree before you get big!"
+
+She didn't have to be told twice. She stretched out her limbs, grabbed Renir, and left the tree hollow. It was late afternoon, the sun already way past its peak.
+
+"How long was I out?" She asked, landing on a nearby branch.
+
+"It's difficult to say since I was stuck under your butt—"
+
+"Underfluffies."
+
+"Whatever. The point is that I couldn't tell whether it's dark outside or not. I think it was a few days, but I'm not sure," Renir said.
+
+"A few days?!" Liora exclaimed in shock. Her stomach suddenly grumbled angrily, and her mouth felt very, very dry. "I'll get something to drink and eat first, then we'll settle this evolution matter."
+
+Liora put Renir back in her Inventory and flew towards the lake. There was no sign of nymphs this time around, so she drank to her heart's content. After that, she found a place filled with blueberries and ate her fill of the delicious, sweet berries.
+
+With her thirst quenched and belly sated, Liora found a large tree with a thick canopy and settled into it. She found a stable place between branches and placed Renir there.
+
+"Okay, let's continue," she said.
+
+"Well, the good news is that this whole time, you remained a regular magpie. Not a single unusual trait in sight," Renir said.
+
+"No wonder it's called Magpie Disguise. Nobody would suspect a regular magpie of anything," Liora mused.
+
+"Exactly. The System must have sensed your reluctance to change and gave you this trait. Damn, being a monster is convenient."
+
+"Chak-chak-chak!" Liora said. "No, being a magpie is convenient!"
+
+"Ugh, I hate it when you do the birdspeak. Moving on! Change back into your new form. We don't even know what it looks like," Renir urged.
+
+Liora felt a bit nervous. She was afraid to find out exactly how monstrous she had become. But she couldn't really stash that form away, so she concentrated on the Magpie Disguise skill. Her body tingled all over for a few seconds, and the world seemed to grow just a little bit smaller.
+
+"Oh… Wow…" Renir drawled out.
+
+"What? What?!" Liora asked in panic.
+
+"Well… There might be a little tentacle sticking out from your back," he said in a resigned voice.
+
+"WHAT?!" Liora turned her head around to look at her back. But there was no tentacle in sight, merely her black plumage. Although the colors weren't the same as before. Instead of undertones of green, blue, and violet, it had shifted to gold, blue, and violet. "You liar! I don't have any tentacles!"
+
+"HAHAHA! Got you!"
+
+"It's dirty to play with someone's insecurities! Just tell me what I look like," she demanded.
+
+"Like a bird."
+
+"I'll peck you!"
+
+"Sorry, sorry! You certainly don't look like a magpie anymore, but you definitely have corvid-like features. Overall, I'd say you'd just gotten bigger and more shiny."
+
+"Shiny?" She perked up.
+
+"Yeah. It's as if there are specs of gold hidden among your feathers. Quite pretty, to be honest," Renir assessed.
+
+"So I don't look like a monster?"
+
+"No, not at all. I certainly never saw any bird like you before, but I wouldn't think that you're a monster," he assured.
+
+Liora felt intense relief wash over her. The thought that she was just a slightly different bird calmed her enough for her to examine her own body as much as she could. Her wings were far larger—Liora was actually excited to try out her new wings. Her tail was likewise taller, while her legs were long and slender, definitely not something you'd see on a normal corvid.
+
+She actually enjoyed her new long legs. She could step from branch to branch with ease. Grabbing Renir was also easier with her larger fingers and talons.
+
+"This isn't so bad," she admitted.
+
+"No. I'd say it's an upgrade. Now, why don't we go test out your new battle capabilities?" Renir suggested.

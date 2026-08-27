@@ -1,0 +1,377 @@
+---
+id: 01200ff4-eafa-53b3-8c68-2a0b116f51b3
+page-type-slug: story-chapter-royal-road
+title: "221 The Learning Process"
+slug: 0180-221-the-learning-process
+partOf: the-new-world
+position: 180
+ownLength: 6157
+unit: words
+ownProgress: 6157
+publishedAt: 2019-08-14
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/392040/221-the-learning-process"
+royalRoadId: "392040"
+markedReadAt: "2026-06-29T21:27:03.599Z"
+---
+
+Around me, a room the size of a parking lot expanded outwards, all the walls white and blank. Glowing lines generated up and down the walls, creating squares of glowing light in the three-dimensional space. In front of me, an ethereal being floated with energy rippling across its shapeless form. Even if unseen, the entire expanse saturated with primordial mana and pulsed as if alive.
+
+The sheer volume was stunning, but it was docile kind of magic. Something filtered it, reducing its volatility from staggering to unnoticeable. Listening close, a gentle hum rang in my ears, the kind let out by a cooling system of sorts. It trickled in from beyond the walls like the echoes of a far off stream.
+
+As I placed my hand on the white panels beneath me, the floor was unbreakable. Compared to walking on the ground, it was actually pleasant. Dirt might as well be a thin soup at this point, and having something firm to stand on was lovely. The floor's refusal to give even a micrometer gave me a few ideas as to where I was.
+
+As I stood up, I finished scoping out the room. A message appeared in front of me.
+
+Transient AI-2035 finished generating. Further explanations will be handled by the personalized AI.
+
+I stepped up to the wispy being and waved a hand,
+
+"Uh, hello."
+
+It shivered before answering in a monotone and robotic voice,
+
+"I am Transient AI-2035. I am your tutor for your stay here within the temporal dilation chamber 2035. I will assist you in learning the mythical skill Metamorphosis along with suggestions for further growth in other areas. This is to utilize the data scans during the mythical compendium's scanning."
+
+I cupped my chin, "You mentioned a temporal dilation chamber?"
+
+That would explain all the primordial mana. Schema was slowing time in a massive area here.
+
+"Yes, this is a time chamber. Your consciousness was jettisoned into a small cube. This cube is placed with thousands of other cubes within a chamber that slows your perception of time, elongating the effects of the mythical compendium."
+
+Some of the squares around me shined bright, grassland appearing after they dimmed down. Transient continued,
+
+"This allows for the virtual creation of many habitats and scenarios as well, creating an optimal learning environment. Here you will be instructed for sixteen hours daily while allowing for eight hours of rest or relaxation per rest cycle. This is to prevent mental burnout."
+
+Something in my head throbbed a bit, though it required my enhanced senses to even feel. As I rubbed my temple, Transient continued,
+
+"This area places tremendous strain onto individuals minds. This often determines the amount of time that can be allowed here. Average time limit is equivalent to three days over three hours. Assessing ability to tolerate time dilation..."
+
+My headache spawned from the effects of the temporal dilation. Alright, that made sense to me. A satisfying bing sounded out.
+
+"Estimated time before departure will be three weeks due to above average durability. Adjusting the curriculum around excess time limits."
+
+I raised my eyebrows, "That sounds good."
+
+"It can be considered a good thing. Usability assessments added. Integration suggestions expanded. Real-time practice added. Enhanced rights applied. Are you prepared for the curriculum's beginning?"
+
+A messaged popped up.
+
+Y/N
+
+I raised a hand before answering, "Wait a minute. I have a few questions."
+
+"Ask away."
+
+"I was wondering what you meant by enhanced rights? I've heard about different kinds of rights since getting into Schema's system, but I still don't know what they do."
+
+"Rights are a generalized term for the systematic application of various privileges and responsibilities to different parties based upon the merit and success of their individual efforts. In Schema's tutorial, the generalized term is defined through several key quotes. One such quote is as follows-"
+
+The AI's voice changed to a smooth recording of Schema's British Morgan Freeman voice,
+
+"A discussion of a sentient being's rights cannot be had without an equal discussion about responsibility. This is due to the nature of rights. Their existence guarantees responsibility. This duality is evidenced by a series of simple examples."
+
+Two generic, blank humanoids appeared out of one of the glowing squares. One of the humanoids held a knife before stabbing the other one in the neck. The living humanoid puffed out its chest before another humanoid appeared behind it. It too stabbed the killer in the neck, and so the cycle of death continued.
+
+Schema's voice reverberated,
+
+"If a society grants its citizens the right to not be murdered, then it is each citizen's responsibility to not murder as well. If you are given the right to pursue happiness, then it is your responsibility to not interfere with another's right to pursue their happiness. Rights within my system are given with this general assumption in mind."
+
+An emoji of a Sentinel appeared as the voice continued,
+
+"This is a Sentinel, and it has been given enhanced rights. This comes with the responsibility to use these rights for the good of others. If the Sentinel misuses these rights-"
+
+The armor fell off the white, humanoid blob.
+
+"Then, these rights will be taken. The greater the rights given, the greater the fail safes employed to prevent the misuse of these rights."
+
+I frowned, "If that's the case, why not call it a job instead of rights?"
+
+The AI's robotic voice returned, "Schema ran tests of the reactions of persons to various wordings, and rights were received in the best manner. This also teaches a key philosophical point of Schema - status, power, and influence are earned, not given."
+
+I glanced at a few of my quests, finding one that mentioned gaining the 'rights' of a Sentinel. It was basically an invitation to become one. That was far less tempting then what the quests implied by their wording, which was a bit of a disappointment.
+
+I pointed around me, "Alright, I have a few more questions. If Schema can just pull your consciousness out of your body like this, then why not do it to criminals and the like in Schema's system? You'd turn them into vegetables in an instant."
+
+"The amount of mana required for such an undertaking is excessive. This requires the scanning, physical manifestation of compendiums, and it would rapidly fill up the time dilation chambers at Schema's disposal. This would also strip any knowledge and experience gained from the parties responsible for killing said criminals."
+
+I raised my eyebrows, "Huh, so the logistics don't work out."
+
+"If there are no further questions involved, then instruction may begin. As a  reminder, remember that your time here is limited."
+
+I shrugged while selecting the Y button in my status. Around us, the environment changed to that of an unmoving, shallow ocean with an island of warm sand under my feet. The crisp, cold wind smothered out the heat from a blinding sun overhead. A few birds cooed in the distance or dove into the ocean to pick up fish from the sea. I glanced around, kind of confused.
+
+"Why are we here?"
+
+"This is to teach the baseline skill Serenity. This will be the cornerstone in the creation of origin mana, which is the polar opposite of your ascendant mana type."
+
+I cupped my chin, "Man, it has been a while since I've thought about mana types. Can you give me a refresher?"
+
+The hovering energy ball rose up to my left shoulder as a graph appeared in front of me,
+
+"There are three primary mana types. Origin, the mana of creation, augmentation, the mana of inner control, and dominion, the mana of outer control. These mana types can be fused into three more types of mana, each carrying stronger qualities than the mana types used to create them. They are referred to as higher manas."
+
+In front of me, a ball of light blue, orange, and black mana appeared. Above the bright blue was the word origin, augmentation was above the orange ball,  and dominion above the black. I pointed at them,
+
+"Yeah, I remember now. My ascendant style of mana is dominion plus augmentation."
+
+"That is correct. It is the mana of control in its entirety. Using ascendant mana creates favorable conditions for its wielder. It relishes on control and dominance, such as draining enemies of their mental strength and enhancing your own."
+
+The orange and black balls of mana on the screen fused into a ball of bloody mana. It was my mana. The spheres of energy split back apart before the light blue and black manas merged together. The deep blue mana looked like the depths of an ocean,
+
+"This is primordial mana. It is the mana of animation. Origin mana requires the release of control, while dominion demands the opposite. This allows for the generation of fully autonomous beings such as golems or conjured beings. It can also be used to create areas with conditions that enhance you as well. Note, negative consequences will result in negative consequences for the wielder as well."
+
+I frowned, "How is that different from Torix's summoning, and why does it make him an unknown?"
+
+"Torix Worm utilizes a soul grafting to control eldritch. Primordial mana generates utterly subservient beings created from nothing but energy. This means they lack the volatility of eldritch."
+
+Torix dug his own grave in that regard. It did give him summoning abilities without having to learn this mana type, though. Gaining primordial mana would expand his capabilities quite a bit. I took note of that before letting the AI continue.
+
+"Chrona uses this style of mana for her time expansion and hastening effects. While admirable, this isn't the most efficient process for you for several reasons."
+
+I raised my palm, erupting a plume of red mana from it, "Is my mana type why?"
+
+"This is one of several reasons why. Your limitations stem from the nature of your existence. As a dimension, you will struggle to influence the spatial laws around you. In many of your conflicts, others have tried manipulating the space around you to negatively impact you in some way. Your complete autonomy is why you've come out unscathed."
+
+I clamped my hand shut, letting my hand fall to my side, "Like Ajax's dimension slicing or Chrona's time manipulation...Huh, so why do physical attacks still affect me then?"
+
+The graph showing manas shifted, showing images of Chrona and my fights.
+
+"You are still physically here. The dimensional attacks warp the space around you instead of you directly. They aim to create an effect on the space, which will then incur the same effect on you. You stand on another plane, however."
+
+"That's been pretty useful then."
+
+"Given the right circumstances, it is. During your attempts to learn Chrona's magic, it acted as a roadblock, however. You attempted manipulating the dimensional space around you. Even if you succeeded, you would never have hastened yourself."
+
+I pursed my lips, "That means I can't have the same 'slowing' affect that Chrona has, doesn't it?"
+
+"Yes and no. You could, in theory, perform the same enchantment she is. It would be the same as drowning an ocean with a bucket of water. Conceptually, it simply isn't practical. Hastening, on the other hand, will be even more powerful with you than her. This will be the primary reason for teaching you quintessence mana."
+
+I pointed my thumb to my chest, "Ah, I'll just make my dimension's time move faster."
+
+"This is correct. Without quintessence mana, this would be impossible. With it, you will be able to change the parameters of your existence. This is critical for your ongoing progress."
+
+I nodded, "So the quintessence mana is the last 'higher' mana type then?"
+
+"This is correct. This is why we will be instructing you to learn the Serenity skill. Review completed. Sit down in a comfortable position to begin learning Serenity."
+
+I did so, the warm sand being pushed away by my heft. The cool sand beneath me contrasted the warm sun above. In a cross-legged position, Transient swirled to the front of me,
+
+"You must clear your mind of all thoughts and feelings. This includes ambition or impatience. Focus on being at peace with the state of the world. Let go."
+
+I scoffed, "That explains why I never learned this skill at least. Gotta stay moving to stay alive sometimes."
+
+Transient quivered for a moment before stabilizing, "You must balance your approach, or you will fail to realize your potential."
+
+I went ahead and gave it a shot. Turns out, not thinking was actually pretty hard. Considering I hadn't slept in years, I fell out of practice with the whole slowing down my thoughts thing. By now, doing so was like using an atrophied limb. It would take time to build up my tolerance to the new activity.
+
+Several hours passed with a bit of progress. Turns out, my willpower actually hurt my growth. If I tried too hard, Transient would announce, "Levels of relaxation compromised. Reset composure." I heard that phrase dozens of times, and it grated a bit on my nerves after a while. It helped to have someone creating clear boundaries for me even if they annoyed me.
+
+The second thing I learned was that this island and its surroundings were perfect for clearing my mind. There was just enough going on that it wasn't unsettling to just sit still. There wasn't too much going on to distract me either, keeping the experience in a state of balance. It made the whole meditating thing much more comfortable.
+
+The third thing I learned was that Originator, the tree that sped up my skill creation, would save me a lot of time here.
+
+Skill gained! Serenity(lvl 10) - While many attempt to crash through boulders with force, you remain formless like water. +10% to tranquility.
+
+Disappointed by the skill but not showing it, I patted my hands on my knees,
+
+"So what's next?"
+
+Transient let out a small spark, "Five hours passed." The monotonous voice changed to an overly happy one, "This is excellent progress!"
+
+I shook my head before gasping, "Wait...five hours? What the fuck."
+
+"This is Serenity. It allows you to be at peace despite what goes on around you. This is essential for you to learn origin mana. To begin, channel your mana into augmentation and dominion manas."
+
+I raised my palms and did as the AI said. It wasn't tough to create augmentation or dominion now. With the black and orange energy spheres floating over my palms, I said,
+
+"What comes next?"
+
+Transient bobbled in the air, "After developing control of an upper tier mana type, many lose their refined control of the sub mana types used in its creation. You haven't. This speeds the process along."
+
+Transient floated backward, "Now grasp onto the feeling of producing your armor or regenerating. Do so while activating the skill Serenity."
+
+It was a surprisingly simple request. I did as the little ball asked, taking a few minutes before calming myself down. After a while, I raised my hand and attempted molding my armor. It did so, but the innate vigor of the material disrupted my peaceful state of mind. It was like meditating with a hungry wolf howling at my door.
+
+It snapped me out of Serenity like a whip across my back. Transient murmured,
+
+"Try again."
+
+I sighed,
+
+"This is going to take a while."
+
+**********************************************************************************************************
+
+From the pit of embalming fluid, I splashed upwards in a jolt of panic. I turned and shouted, splashes of the fluid spilling onto the white stone,
+
+"Me. It will take time for me to reconstitute but I...I"
+
+I turned around, discovering the dusty crypt I once called home. Within the confines of it, various ghostly lamps lit the silent corridors, death lingering on the howl of each gust. Though I resented my sense of style at the time of my making it, it did have a sort of angsty charm. If not for that, I might have stripped my lair down till nothing but scorched stone lay beneath its remains.
+
+As I glanced around, I found dozens of vats stored with direct connections to my phylactery. At the center of these vats, a sizable glass bauble acted as the anchor for my soul. It contained within it the remnants of my original body burned to ash within the glass sphere. This protected it from further chemical decomposition.
+
+It worked as intended, though it may be lacking in regards to an elegant design. Considering my soul crossed light-years of space before reaching this distant beacon, it might have been months since my passing. In actuality, the process might've even taken longer. Once stored, my soul reconstituted, solidified, and strengthened using the ambient mana stored here.
+
+What was once an impressive sight of concentrated mana now seemed childish on my aged eyes, however. I'd met monsters on my travels when I left these hallowed halls, not least of those monsters becoming my disciple. As lucidity returned to me, a sense of urgency rose in my chest.
+
+My disciple. My guild. We were in battle before that abomination latched upon me. I opened my status, several of my preset leveling parameters taking effect. They automatically allocated my points for me, a sudden surge of clarity coursing through me.
+
+At the very least, they killed the hybrid. Despite this surge of level ups, a mental fog remained over my mind like blood upon a murderer's hands. Before anything else, I opened my status to asses the situation.
+
+Torix Worm, the Harbinger's Erudition(lvl 8,211)
+
+Strength – 100 | Constitution – 100 | Endurance – 100
+
+Dexterity – 100 | Willpower – 9,035 | Intelligence – 18,278
+
+Charisma – 8,927 | Luck – 7,763 | Perception – 4,907
+
+Health: 39,485/39,485 | Health Regen: 394.8/min
+
+Mana: 1.3 million | Mana Regen 130,028/min
+
+Stamina: 872/20,176 | Stamina Regen: 20,176/min
+
+Mass: 1,210 pounds |Height: Actual - 6'6 (1.98 meters) | Damage Res - 95%
+
+Phys Dam Bonus – 6,092% | Damage Bonus – 40%
+
+I scrolled past my character sheet, looking at my party member's statuses.
+
+Living Multiverse, the Harbinger of Cataclysm(lvl 9,018 | Guild Leader: The Harbinger's Legion | Class: None | Location: Belka-623) - A being composed of an unknown matter with untold potential, this being is predatory to the eldritch. It consumes them to gain strength which can strike fear in even fearsome rift keepers. With the ability to shift forms at will, this amorphous creature holds no permanent shape and is ever-growing.
+
+This is mainly due to the ease of changing the material's composition. Due to the amorphous structure of the cells and even atoms, shifting this creature's atomical structure in a positive manner is quite simple. This enhances the amount of stats and bonuses that this creature receives from the system...
+
+Althea Tolstoy, the Shapeless Arbiter(Althea Tolstoy, the Shapeless Arbiter(lvl 10,016 | Class: Breaker | Location: Belka-623) - Althea is a polymorphic member of a forgotten race. Her exposure to the Tears of Etorhma created a volatile and potent chemical structure that enables her to ignore many of the laws of physics. How these abilities manifest is unknown, but they prove no less potent for it...
+
+I scrolled down the list, finding them with full or nearly full health bars. I leaned back into the vat behind me, relief washing over me along with the embalming fluid. He and the others were still alive, and that was what mattered most at that precise moment.
+
+As I collected myself, I dragged my hand down my face, both my panic and my reprieve hitting my senses as if alive and seeking revenge. Despite not knowing Daniel and Althea for a protracted period given the scope of my life, they meant quite a bit to me. Perhaps more to me than I'd like to admit, even to myself, but these were thoughts for a different time.
+
+I pushed myself up from the bath of formaldehyde and methanol, only the bones of this corpse remaining. It would be enough to act, so I did not dwell on my appearance. I stumbled forward a few steps before falling on onto my knees. A bone in my shin cracked, a sharp pop echoing across my chambers.
+
+I let out a long sigh before pushing myself back up. Schema's policy on liches was more than merely mildly frustrating. The AI preferred only amplifying the main body of the lich, passing on the enhanced physical tenacity once. As a lich moved onto its other bodies, they lacked Schema's enhancements. In the world of eldritch and classers, I was but a frail skeleton, softer than wet tissue paper now.
+
+It mattered not. My mind and my magic were the catalysts of my power and strength, and they would likely be needed, considering the obstacles we faced. I waited a moment on the floor of my phylactery, giving my pathetic body time to recover and resonate. As my soul grafted onto the new physical body, I peered around my chambers.
+
+The same maps, charts, and runic symbols covered the walls. They seemed so elementary to me now after discovering the runes within Bloodhollow. No, they didn't appear primitive. They were primitive. Though my talent for runic work was slight, my dismal performance here grated at me. It reflected my mentality at the time. I believed that my progress, slow as it may be, would mount over time. My safety took precedence.
+
+That was the only reason I went to Earth at all. It was a backwater, green world without Schema's scars or marks. This lack of time ensured the danger there would be small. Who was I to guess that it would be the place of my greatest battles, my greatest victories, and my most valued family? Not I at the very least.
+
+I tilted my head, confused at my own wording. I supposed family was the correct term for the guildsmen, disciple, and others I'd come to cherish. They gave these old bones a renewed vigor as if life took hold of my undead body once more.
+
+I hoped they thought the same of me. One could only hope.
+
+It boggled the mind why I drifted towards these thoughts. Something about this dusty tomb induced this sense of nostalgia. Perhaps it was the vast swath of time since I'd last came here. Though only a few years had passed, that span resembled a lifetime in the density and quality of time spent. I would traverse the hills of skulls and mountains of corpses to go back to that invigorated life.
+
+That wouldn't be necessary, however.
+
+I simply needed to create a portal towards Belka after getting myself in order. Reviewing my status, I discovered hundreds of unread messages from my students, professors, and proteges. I sorted through them by importance, the guild leader's notes naturally rising to the top. In his messages, he detailed much of what happened after I'd passed to Version 2.0.
+
+It was a simple, concise, and blunt explanation. I expected no less from Daniel, his entire manner of being more akin to a hammer than a human. If what he worked at did not bend in one swing, he simply swang more until it did break. I would've once called this approach foolish. I do so no longer. It worked on Earth as well as Giess. He killed Emagrotha, the Hybrid, and destroyed the rebel's headquarters. He won the tournament and enlisted many gialgathens, going so far as to recruit them within Schema's system.
+
+Exemplary work, enough for me to be proud.
+
+A shame swam underneath that warm delight, partially from my missing the adventures and partly from dying. I swatted away those trivial concerns. In the grand scheme of things, it was better that I was targeted. Resuscitating me required little more than time. Doing so for the others wouldn't be quite so simple.
+
+I squeezed my bony hand into a fist. My outlook may be overly optimistic, given the circumstances. That was my first death since becoming a lich centuries ago, and now my ensuing deaths would occur with far greater frequency. Despite my immunity to true death, this incident proved that a temporary demise could create quite the conundrum.
+
+Dwelling on my impotence did no good, however. I opened my other messages, skimming over the topics of them. Nothing of note occurred on Earth outside of a few conflicts with rival factions near our base. I would leave those trifles for another, less critical time. After guaranteeing that our headquarters remained in one piece, I forced this weak, shaky body to stand.
+
+It required mana just to hold the joints of the bones together, the connective tissues weakened beyond repair. My less than representable shambling continued as I walked down the familiar hallways. I passed several open doors, several of my old subjects still remaining where I left them.
+
+Two of the dark knights still stood on guard to at the door of my portal room even after all these years. They raced over at the sight of me, reaching and lifting me from under my armpits. Detestable as it was, I accepted their help to carry me over towards the portal device at my disposal.
+
+I attempted speaking, but my words jumbled together in broken phrases. Several attempts into the process, my words formed correctly,
+
+"I...must...go...to...Belka."
+
+Both the knights nodded, their intelligence mirroring educated humans. They required instruction to use, but the animated corpses accomplished their goals with resounding competence once a goal was given. With a purpose set, they pulled me into the room with my warp device.
+
+A well of ambient mana shined a bright blue, the dense cloud powering the device above it. Carved from the lunar stone, the portal device carried the best runic work of my race, courtesy of Xander Epitaph. Though a nuisance in person, his talents were undeniable.
+
+It would grant me the highest satisfaction to see his smug face crumble when faced with my disciple and his runic work.
+
+It was another victory for another day.
+
+As the knights began the work of activating the device and powering the coordinates, two other knights stepped into the room and stood beside me. Without words, they agreed with my other minions to guard me on my travels with my new body. Though my sense of scale in my previous life was lacking, my instruction was not.
+
+Under my tutelage, I trained a vast army of soldiers with excellent tactical nuance. Their levels were so low in comparison to me now, however, that they were all but useless. Althea alone could decimate the centuries of resources spent here, let alone Daniel or Helios. It was something I learned when faced with a being like Yawm. The might of many paled when faced with the resolve of one.
+
+Pressing on that very subject, I sent him a reply that I'd be there in person soon enough, he need only be patient. We chatted for a moment before the portal device lit up in a blaze of blue fire. This runic machine eased the process of getting to a location, though it didn't assist with getting back once there. It wasn't a particularly difficult problem, though it caused quite a stir when Schema's quarantine trapped me on Earth.
+
+That was more than a dull mess, and I doubt a two-way portal would've fixed it either.
+
+The situation on giess devolved in much the same manner, in fact. Old Ones and shadow organizations ascended to the surface like a monster from the depths. I had every confidence that this would be our victory given time, however. I was more than merely resourceful, and I had every intention of proving it once I returned.
+
+I paced up to the portal with my guard in tow. Several other guards approached, handing me a new robe, mimicking my old one in both appearance and power. It would do little outside of maintaining appearances, but that was still a necessity, especially when dabbling with the Empire.
+
+Before stepping to Belka, I turned and observed my old fortress. I created it upon the moon of my homeworld, preferring the quiet isolation of a ruined world to the rigor of living company. Perhaps I'd show Daniel this place after we eliminated my unknown status. Time would tell.
+
+As I stepped through the portal, a sense of excitement filled me. I was returning to the land of the living, weakened but not dead. I was the advisor to the Harbinger and his legion. If I had lips, they would be smiling wide as a canyon.
+
+Onwards, the legion marches. Onwards, the legion marches.
+
+**********************************************************************************************************
+
+I leaned my head back, letting go of my stranglehold on my mana. Instead of molding it into a shape, I allowed it to take form as it wanted to. At the same time, it manifested independently of me. I didn't guide it as it formed or flowed. I simply let it be like wind through a forest.
+
+From my palm, a plume of sky blue mana ebbed outwards. I stared down at it, no wave of emotion washing over me. I was at peace with this, and it was an inevitability in my eyes...Even if it took days of exhaustive effort before I finally accomplished this bullshit.
+
+And the spark of pale mana crumbled under a wave of red. I tsked before clasping my hand over the bloody energy, the red wisping between my fingertips. This was the fifth day I worked on forming origin mana since I arrived in this time chamber. Well, the fifth day relative to my perspective of time. According to Transient, only twelve hours passed outside of this chamber.
+
+The airy little AI was doing his best to make me lose my damn mind the entire time I tried this shit. Despite that, his methods were surprisingly effective. Five days to get this close to a new mana type was no small feat. It being night time at the moment meant he wasn't here, and the process a bit harder.
+
+You wouldn't catch me dead telling him that though.
+
+Either way, with a renewed vigor, I silenced my mind once more. I let go of my mana flow, allowing it to wonder and shape itself as it saw fit. Like a wolf unchained, it roared out with abandon. Half an hour later of letting it loose, it settled down into a calmer state. As it did, Serenity activated.
+
+It was hellish to keep calm when my mana flared like that. Even if my evolution eliminated my mana's effects on me, it still sent the world around me into chaos. In a way, the mana was a reflection of my inner thoughts. It showed my belief in myself and my urge to move and progress. At the same time, to learn origin mana, I needed to get rid of that constant urge.
+
+So I calmed myself till my mind and body were like a waveless sea. Even as the volatile energy escaped me and warped reality, I remained mute. I pressed myself into a state of uncaring, my mind content. Once more, I raised a palm after channeling this peaceful mentality for an hour.
+
+The slightest drop of blue mana released. It shaded the dark island around me in a sky blue, both beautiful and haunting. I took a deep breath as I allowed more to escape my hand. It did so with glee, the blue waves forming into shapes.
+
+The glowing energy created dolphins that danced across my sight. It rippled across my view, ebbing into the island. Greenery expanded from the sand, trees taking root. Bees and hornets swarmed into the trees above, forming nests. A series of wolves spawned from the glow, creating a pack.
+
+As they gained life, they let me continue my work with reverence. Moments later, a message appeared in my vision.
+
+Skill gained! Origin Mana(lvl 10) - Though others aim their intent to destroy, you focus your efforts on creation. +10% to origin mana's potency.
+
+Skill gained! Origin Mana Manipulation(lvl 10) - Through the chaos of life, you control your will with tranquility. +10% to ease of using origin mana.
+
+I stood up, raising a fist in victory. A torrent of red energy deluged the blue sending the creatures into a bloodthirsty frenzy. My arms hit my sides as they tore into one another, eager to devour the others. Blood splashed into the water, turning the blue into red as carnage took hold of the gentle beauty.
+
+I stared with my jaw slack as every animal killed the other. Teeth, claws, and stingers ran amock as they gorged on the blood of their brethren. As the last wolf limped away from the battlefield, it clamped its jaws into the flesh of its legs. It tore the limb off before consuming its meat. It cannibalized itself until it bled out. I didn't even have time to celebrate the milestone as my act of creation was replaced by destruction.
+
+Huh. Life's weird sometimes.
+
+I reached out with Event Horizon, the corpses, blood, and remnants of the battle disintegrating. In a way, it felt wrong. I gave them life only to take it away moments later. I stared at my hands, feeling like some clueless tinkerer that destroyed people with what I created.
+
+I shook that feeling off before glancing around. The virtualization cleaned itself up, the island back to its pre-bloodbath state. The next time I created something from origin mana, I would be more careful. It was a responsibility in a sense, and toying with life just didn't seem right. I wasn't that divorced from reality. Not yet.
+
+Still, getting a better grip on my new mana was vital. I called back that state of mind, my mana releasing in a torent. Before I got a hold of it, a message popped up in my status. I almost swiped it aside because I hated distractions when I studied, but I gave it the benefit of the doubt. The moment I read the messenger's name, my eyes popped wide open along with a grin on my face.
+
+Torix Worm, of Darkhill(lvl 8,211 | Guild: Harbinger's Legion | Class: Speaker | Time: Unknown) - It appears as though I've finally resuscitated. Though you've performed a rather admirable job, all things considered, my assistance is no doubt needed. I will be returning to the location you sent me, though I will be rather weak. Meet me there in three days.
+
+That worked perfectly with my schedule. At the moment, I was sitting in a hospital, my mind somewhere else altogether. Knowing all that, I sent him a message back.
+
+The Living Multiverse(lvl 9,024 | Guild Owner: Harbinger's Legion | Class: None | Location: Belka-623 | Time: 12/4/1412) - Alright, cool. Cya then.
+
+A message appeared seconds later.
+
+Torix Worm, of Darkhill(lvl 8,211 | Guild: Harbinger's Legion | Class: Speaker | Time: Unknown) - I suppose I'll question you on your level and status after we meet once more face to face. Good luck.
+
+I sent back,
+
+The Living Multiverse(lvl 9,024 | Guild Owner: Harbinger's Legion | Class: None | Location: Belka-623 | Time: 12/4/1412) - Sure thing.
+
+I went back to work afterward, rubbing my hands together. I fell into a deep well of calm, relaxation, and peace as the force of mana increased. With a rising surge, I tested my limits with the new energy, the mana of creation coursing through my veins. It was altogether pleasant, and for a moment, I was envious of those with an affinity for origin mana. It lacked the same bloodthirsty insanity of ascendant mana.
+
+This wouldn't require the same levels of willpower to control, though that might not be the case. This mana made me feel at ease and content, which could be a good thing. It could be detrimental too, though. If I needed motivation, this wasn't the best mana for it. Ascendant mana would fill me with a surge to move, and that was more than just useful in certain circumstances.
+
+Considering the peace origin mana gave me, I might be able to channel the aura to make people fall asleep or at least cool a heated negotiation. I still had to be careful not to overdo it though. I was sure that if ascendant mana sent people on a bloodthirsty frenzy, then origin mana could do something equally awful.
+
+After toying with the feeling for a while, I remembered a portion of what my evolution did. It mentioned different effects depending on the aura of mana I used. With that in mind, I channeled origin mana while sitting down cross-legged. As it reached its peak, I pressed outwards with Event Horizon, but as I did, I realized something. It wasn't Event Horizon anymore.
+
+It was something else altogether.

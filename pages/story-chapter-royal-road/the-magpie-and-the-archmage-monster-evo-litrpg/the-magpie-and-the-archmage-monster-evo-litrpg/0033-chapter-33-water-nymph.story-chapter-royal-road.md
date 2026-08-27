@@ -1,0 +1,233 @@
+---
+id: a0340ad2-d68f-5fcc-b53b-6eb210f891aa
+page-type-slug: story-chapter-royal-road
+title: "Chapter 33 – Water Nymph"
+slug: 0033-chapter-33-water-nymph
+partOf: the-magpie-and-the-archmage-monster-evo-litrpg
+position: 33
+ownLength: 2300
+unit: words
+publishedAt: 2025-10-11
+link: "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2667765/chapter-33-water-nymph"
+royalRoadId: "2667765"
+---
+
+This is amazing!
+
+Liora gushed as she marveled at the strength of her new wings. It wasn't to say that her magpie wings were weak—she had been able to perform quite amazing aerial manoeuvres. But she got tired easily when flying long distances. Not to mention, that any stronger breeze threatened to throw her around like a ragdoll.
+
+But with these new wings she felt like she could fly the whole day. She felt like the ruler of the skies, no longer bound to the whims of the wind. Liora flew high up and fell, then spread her wings and performed loops in the air while she felt the breeze rustle her feathers.
+
+Oh, I don't want to evolve! It's gonna be so horrible! Peh! Look at you—having the time of your life.
+
+Hey, there's nothing wrong with being cautious! If you were more cautious, then you wouldn't be a rock right now.
+
+Shut up!
+
+"Chak-chak-chak!" Liora laughed, flying right above the lake surface.
+
+It shimmered as the sun slowly set, tinging the sky orange. She touched the water with her talon as she flew and watched in amusement as ripples travelled through the lake's surface.
+
+She probably would have continued this for a while longer, when one of the ripples she created seemed to grow larger until it turned into a small wave that in turn began to grow into a humanoid shape. Startled, she retreated to the canopy and observed.
+
+The water rippled and molded, trying to take on a vaguely humanoid shape. But it seemed unsteady and eventually returned back into the lake.
+
+That was close. Was it one of the nymphs?
+
+Most likely. It must have sensed your mana when you touched the water's surface. They are attracted to creatures with lots of mana. That's what they feed on.
+
+I don't want to be ambushed by a naked water lady while drinking water. I say we leave this place and continue to Cyene.
+
+Agreed. You evolved and that was our main goal. Let's get flying!
+
+Liora was about to take flight when she noticed the water ripples moving to the other side of the lake. A young man with black hair, dressed in armor, was filling a bucket with water, when the nymph emerged in her full, naked glory.
+
+Is it trying to attack that man?
+
+That can't be good…
+
+Liora flew towards the scene while sticking to the shadow provided by the canopy near the shore. When she got closer, she saw that the young man was going deeper and deeper into the water. His eyes were glued to the alluring figure of the nymph as she giggled at him.
+
+You said nymphs feed on mana. Will it let this guy go once she's drained him of mana?
+
+The nymph will most certainly drown him first. Do something!
+
+Liora flapped her wings frantically for a moment, then launched Air Slash at the nymph. But it went straight through it, and the nymph didn't show any signs of being disturbed, concentrating fully on the poor man falling deeper and deeper into the water.
+
+Use Poison Shot! They are really weak to any kind of poison.
+
+How?
+
+Just focus on the skill and let the System guide you!
+
+Liora took a deep breath and thought very hard about using Poison Shot. She felt her body reacting, a small glob of poison from the giant toxic toad gathering right in front of her beak. It smelled horrendous, so Liora sent it flying straight at the nymph.
+
+It must have noticed Liora's attack, because it disappeared back into the water avoiding the hit entirely. She felt a bit of worry about other inhabitants of the lake. Surely that poison wouldn't be good for their health even if not directly hit by it.
+
+But her attack snapped the young man out of whatever trance he was in. The nymph reappeared to the surface of the lake, hissing out angrily. This scared the man and he ran back to the shore in record time, disappearing from sight before the nymph could react. He was fast for a human.
+
+Okay, that's taken care of. Let's get out of here!
+
+But the nymph had different plans. Its gaze was poised straight at Liora, and the feminine form began to shift.
+
+Why can it see me? Shouldn't I be hidden?
+
+Your stealth tactics won't work. They have Essence Vision, meaning that they can see your mana.
+
+Oh, fuck's sake. What's the point of being invisible if every second enemy can see me in some other way?
+
+Liora was about to take off, when nymph solidified into a different shape. A male shape.
+
+"Come to me!" The nymph said in an alluring male voice, charismatic smile on its watery lips.
+
+Liora couldn't look away from the perfect male figure in front of her. Prominent chest muscles, abs and biceps, but not overwhelming so. The figure could still be described as lean rather than bulky. Long flowing hair and oh my… If Liora were able to blush she probably would have blushed.
+
+Hmmm… No wonder that male magpie didn't seem attractive to you. You're totally into humans.
+
+What are you yapping about?! Why did it turn into… this?
+
+"Come to me!" The nymph beckoned with a smile. Liora knew that this was just a trick. But boy was it a tantalizing trick! It wouldn't hurt to look a bit longer, would it?
+
+When trying to lure their victims, nymphs take on the appearance of their perfect mate.
+
+What?!
+
+Liora squawked in embarrassment. Was this supposed to be her perfect mate? She took another look at the handsome nymph, and felt herself paralyzed by its beauty. It was kinda perfect.
+
+Enough gawking, birdbrain! Fly away before it gets to you.
+
+Maybe it wouldn't be so bad to watch a little longer…
+
+LIORA!
+
+Renir's mental shout coincided  with a fireball colliding with the nymph's head. The sudden attack made Liora squawk in surprise. A group of adventurers, including the young man who had been lured by the nymph before, ran to the shore. A female archer with cat ears shot something at the creature. The arrow went through it, however at the point of entry something began to spread through the monster's body—poison.
+
+It let out an ungodly screech, the water in its body spasming in every direction as the black color spread. Eventually the whole mass of water was filled with poison and it collapsed, leaving five shimmering glimmerstones on the lake's surface.
+
+[You've assisted in defeating <Water Nymph – Level 4>. Experience gained.]
+
+[You've reached Level 2.]
+
+Liora couldn't believe that by merely attacking it, she got enough experience for a whole level-up. That was awfully convenient.
+
+"The person who helped me must be there! We need to check whether they're alright," the young man called, running towards the place where Liora was hiding among the canopy.
+
+What just happened?
+
+You fell under the nymph's enchantment, your perverted bird! Get away before these guys discover you.
+
+Liora's head still felt mumbled with images of the nymph in her mind. Her wings felt heavy and didn't want to cooperate with her command to fly away. But the footsteps were getting closer and closer. While Renir had claimed that she looked like an unusual bird, she still didn't want to meet with adventurers face to face while looking like this. After all, their job was to kill monsters.
+
+So Liora did only things that she could think of at the moment. She turned back into a magpie. The foliage parted and the young man came face to face with her, blinking his blue eyes in confusion.
+
+"Chak-chak-chak?" Liora responded somewhat awkwardly.
+
+Oh, you will be the end of us both…
+
+Without me you would have already ended!
+
+The young man blinked at her, cocking his head to the side. Seeing him closer, Liora noted that he had dark green hair which from a distance she had mistaken as black, and distinct blue eyes. His armor was dented in places with many scratches, making her think that it'd seen its fair share of battle.
+
+"It's a bird?" He called out somewhat confusedly. "I swear I saw magic come from here."
+
+Shit, shit, shit! This is bad!
+
+Fly away!
+
+I can't move properly yet.
+
+Two more people joined the young man. One was the mage that had likely thrown a fireball at the nymph. She had the same dark green hair and blue eyes as the young man, except that her hair was long and tied into a single braid behind her back. Her robes were covered in patches and looked like they should have been long since been replaced.
+
+The other was a girl with… small fuzzy ears on top of her head and a short, fluffy tail behind her. Liora couldn't believe her eyes for a moment. But the girl most definitely had real, moving animal ears attached to her head and her tail flicked upwards in alert.
+
+She had reddish-brown hair tied into two high twin-tail braids and brown eyes. While she was dressed slightly better than the other two, Liora had a strong suspicion that it wasn't because she was richer than them.
+
+"The bird used magic?" The animal girl asked, narrowing her eyes suspiciously at Liora.
+
+Liora stared nervously at the trio, praying that her limbs would be released of the magic that nymph had cast upon it. How come it had affected her so strongly?
+
+"Yeah, I think so. Does that mean it's a monster?" the boy asked, pointing at Liora.
+
+Liora, fly away!
+
+"Not necessarily. It could also be a magical familiar," the woman stated thoughtfully.
+
+"Chak-chak-chak!" Liora confirmed. "Yes, I am a familiar!"
+
+What's a familiar?
+
+An animal or monster companion to a mage or other magical class. This could actually be a perfect cover story for you! As long as you do NOT show your true form.
+
+Why didn't we use this story in Sunvale?!
+
+Because I forgot about familiars! I never had one.
+
+Liora let out an internal sigh.
+
+"A magical familiar? But then where is its master?" the animal girl asked. "And what about the shape the nymph took?"
+
+The mage flushed and cleared out her throat. "The nymph might have switched its target to me…"
+
+Wow, this girl is just as perverted as you…
+
+You were ogling the nymphs too!
+
+But I didn't fall for its charm.
+
+That is physically impossible with you being inside my Inventory.
+
+"Sister…" the young man looked at the mage in disbelief.
+
+The animal girl let out a suggestive whistle. "Never expected that to be your type, Serena. Not bad at all!"
+
+"Let's return to the matter at hand," Serana cleared her throat. "I thank you, Magpie, for saving my foolish younger brother's life."
+
+"You're thanking a bird…" the girl said unimpressed.
+
+"A familiar. Not to mention a magpie. They are known to be among the most intelligent of birds. We should try to return it to its master. They must have gotten separated. I'm sure it's hungry," Serena said, motioning Liora over to herself.
+
+"Chak-chak-chak!" Liora said, relieved to find out that the charm had finally worn off. She hopped over to Serena's shoulder.
+
+"Are you sure about this? Aren't magpies also known as excellent thieves? What if this master mage has trained it to steal stuff?" The animal girl noted.
+
+"We don't have anything to steal. And if we did, you would have long since stolen it first, Kiva," the boy said with a huff.
+
+"Don't start bickering again, Kalen, Kiva. Let's return to our camp before it gets too dark," Serena said.
+
+Kalen and Kiva nodded, and the four of them hurried away from the lake shore, deeper into the forest.
+
+I'll just eat and fly away.
+
+You should fly away now.
+
+But what if they have meat? I want to eat something more than berries and nuts.
+
+Do these people like the kind of people who have money for meat? They're clearly poor. Poorest of the poor.
+
+They can still hunt for meat. You don't need money to hunt.
+
+Liora turned out to be right. The little camp the trio had set up a good distance away from the lake had a campfire in the middle which had a small boar roast. Liora's beak watered at the sight of meat.
+
+"Are you sure you want to share our precious food with a bird? Cyene is still a good distance away, and who knows if there will be game to catch along the way," Kiva said, watching how Serene was shredding bits of meat from the boar's leg.
+
+They're heading to Cyene?
+
+I imagine most new adventurers would. It's the easiest dungeon in this region.
+
+"How much can a little bird eat? I'm sure it'll be fine," Kalen said as he offered one of the legs for Kiva to eat.
+
+She took the leg gratefully, but still stared at Liora in a disapproving sort of manner.
+
+"We won't be able to finish this boar tonight anyway. There's no harm in sharing a little," Serene said and offered a piece of meat to Liora. She eagerly took it. "Besides, a bit of morale boost before entering the dungeon will only do us some good."
+
+"Morale boost?" Kiva cocked her head.
+
+Serena's expression changed into that of delight as she watched Liora eat. "Just look how cute this magpie is!"
+
+Aww, she's a fan! I say we stick with these guys for a while.
+
+Liora, no! You said you'll leave after eating.
+
+Hey, she said that they won't be able to finish this boar tonight anyway. And they're heading to the dungeon too. I say we're staying.
+
+Liora could hear Renir groan as Serena kept feeding her meat with a delighted expression.

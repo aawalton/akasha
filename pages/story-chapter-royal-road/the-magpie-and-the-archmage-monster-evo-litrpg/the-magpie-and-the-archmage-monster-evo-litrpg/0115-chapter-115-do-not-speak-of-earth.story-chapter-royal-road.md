@@ -1,0 +1,213 @@
+---
+id: c04e2ee7-c42b-59d5-90fe-52e35a02cccc
+page-type-slug: story-chapter-royal-road
+title: "Chapter 115 – Do Not Speak of Earth"
+slug: 0115-chapter-115-do-not-speak-of-earth
+partOf: the-magpie-and-the-archmage-monster-evo-litrpg
+position: 115
+ownLength: 2056
+unit: words
+publishedAt: 2026-04-27
+link: "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3323502/chapter-115-do-not-speak-of-earth"
+royalRoadId: "3323502"
+---
+
+Everyone shared strained glances. Nobody had a good answer as to how some small town veterinarian could track a bird flying all over the place like Liora. And why would he even follow her?
+
+"I suggest we observe him for a while. See what he does," Sallie suggested.
+
+"I'd rather be as far away from him as possible," Liora shuddered. While the doctor had helped to heal her when she was in trouble, he was giving her serious creeps right now.
+
+"I am really curious to see what he'll do after coming all this way to track Liora. I understand she's an amazing bird—can talk, uses holy magic and helps people—"
+
+"He shouldn't know that I'm able to talk. Not as well as I can now. In Sunvale, I only ever mimicked one or two words at a time and I never demonstrated my holy magic to anyone," Liora protested.
+
+"That makes it even more strange that he's so interested in you. For time being, don't speak while Dr. Reius is around. Don't show him your abilities. I'm going to try and figure out what that man wants from you," Sallie said, then let out a long sigh. "If only I hadn't brought him along in the first place. But I was so eager to understand how to deal with corruption…"
+
+"Don't blame yourself, Sallie," Morgana put a comforting hand on her friend's shoulder. "Things were looking quite bleak. Why don't we go and visit some of the patients Liora healed? She even managed to save Terenezza's husband."
+
+"Really?! That's wonderful. I was so scared that we would lose him. I can't thank you enough, Liora," Sallie said enthusiastically.
+
+"Just keep that doctor away from me and I'll be good," Liora grumbled.
+
+"Actually…" Sallie suddenly perked up. "Why don't you leave the doctor to us? I feel that you being here could be dangerous. We'll figure out his motivation for coming all the way here, meanwhile you could travel around and do whatever you want or need."
+
+"What?! Sallie!" Morgana looked at the dainty woman in shock.
+
+Sallie put her hands on her hips. "They are not prisoners! They helped us, despite you holding them hostage with the Resonance Crystal. Let Liora and Cee work on freeing Renir while we deal with the matters here. I'm sure once the time is right we'll meet up again."
+
+"I like you!" Liora perked up.
+
+"Me too!" Cee added.
+
+"Aww, thank you!" Sallie blushed slightly.
+
+"See! You just have to be nice to us. Instead of keeping us surveying constantly like a prisoner," Liora glared at Morgana.
+
+"That is not a very nice thing to do," Sallie nodded in agreement.
+
+"I… But… They're monsters!" Morgana whined.
+
+"They are clearly intelligent enough to converse with us much like any person would. In fact, their devotion to the clinic despite your treatment shows that they are much better than many people out there who only ever care for their own comfort," Sallie snapped.
+
+"We could have run away a long time ago if we really wanted to," Cee added. "But we wanted to help people and stop the corruption."
+
+"Exactly! I don't see any harm in letting them go free. I would really appreciate it if you return to the clinic soon. I really want to figure out what that doctor wants from you, Liora," Sallie said.
+
+Why don't we go and attune the Resonance Crystal with the closest mana node we find and then come back. I also want to know what that doctor is scheming about.
+
+Liora thought about it for a moment. Part of her just wanted to fly and never return, especially with Dr. Reius around. But another part was already committed to the clinic and wanted to see this matter through until the end. Especially after Sallie was kind enough to give the Resonance Crystal to her without much fuss.
+
+"We shall return," Liora confirmed. "Although I'm not sure how soon. I'd like to attune the Resonance Crystal."
+
+"Don't take too long…" Morgana whined.
+
+Sallie shot her a glare. "Perhaps you wouldn't have to worry about this if you had let them fly free before. Who knows? Perhaps they would be done attuning the crystal and would be closer to freeing Renir."
+
+Morgana muttered something glumly. "Fine, fine… But—"
+
+A realization struck the woman's face and she smiled. "Actually, you don't have to hurry back."
+
+Liora cocked her head. "No?"
+
+"The doctor tracked you here somehow right?" Morgana said. "I want to see how he did it. If you're gone for a longer period of time, then he'll likely try to follow you again."
+
+Liora shuddered. She didn't want him following her. But to stop him from doing that, they had to figure out how he was tracking her in the first place.
+
+"Very well. I shall not hurry back," Liora nodded.
+
+"I wish we had a way of communicating with each other over long distances," Cee grumbled. "That way you could warn us if this doctor has left the clinic."
+
+Sallie rubbed her chin in thought. "There is a way…"
+
+Morgana shot Sallie a worried glance. "You'll never get the stone back if you give it to this greedy hoarding bird."
+
+"I'm sure I'll manage to secure a new one in due time. We're not going to need it for time being, since we're together," Sallie said and a black stone shining with iridescent light materialized in her palm.
+
+Liora stared at it in awe. It was so beautiful. So shiny despite its black color. She wanted it.
+
+"This is a communication stone. By pouring a bit of mana into it you can contact someone who also has a communication stone," Sallie said.
+
+"Looks pretty," Cee noted.
+
+"Dibs of the stone!" Liora called out.
+
+"Hey!" The spider looked at her incredulously.
+
+"I did give you the bracelet," Liora argued.
+
+"I… Fine! Greedy bird…" Cee muttered.
+
+Liora was about to snatch it from Sallie, but the woman closed her palm and looked firmly at Liora. "These are expensive, so I'm letting you borrow it. I'll be expecting it back. Okay?"
+
+"I… I…" If Liora could sweat, she would be drenched in it by now. The urge to grab the shiny stone and never give up was immense.
+
+Renir… Can I get such a stone afterwards?
+
+It's important you return it to Sallie. These communication stones are unique in that they are meant specifically for the nine Pillars. You can have my stone afterwards.
+
+Promise?
+
+Yes, I promise.
+
+"Okay! I'll return it," Liora confirmed.
+
+"I'll hold you to that promise," Sallie said with a firm smile that promised retribution if Liora didn't obey. Somehow that was scarier than when Morgana was blasting her pistols around.
+
+She opened her palm, and Liora gingerly took the beautiful stone, putting it into her Inventory.
+
+"Wonderful. Now, you two are free to go. Meanwhile Morgana and I will take care of things in the clinic," Sallie said.
+
+"Thank you," Liora said.
+
+"See you soon," Cee added, jumping on Liora's back.
+
+Without much fanfare, they hurried to the entrance to the clinic, where Liora took flight and flew free high in the sky.
+
+"It almost feels wrong to just… fly away from everything," Cee said while cocooning herself up on Liora's back.
+
+"How is it wrong? I feel delighted to finally be free," Liora cheered. "Although I'm a bit disappointed we didn't actually get to steal the crystal from Morgana. I wanted to see her shocked face once you stopped her with Bedrock Mandala."
+
+"No, I'm more than content that we didn't have to do that!" Cee said, but after a short pause added. "Although I was a bit curious as to how long my new skill could stop her. Testing it against a powerful enemy would be interesting."
+
+"It's okay! We can find some monster to fight. Nothing too powerful though. Something we can deal with without much issues," Liora said, too giddy to finally be able to fly free.
+
+"Where are we going, by the way?" Cee asked.
+
+I suggest we search for a mana node and attune the Resonance Crystal. We've been stuck here without any progress for so long. I want to remove more of these stuffy seals from me.
+
+Sure, but how do I find these mana nodes? I assume we can't use the same one twice.
+
+No. We need one with a different element. And don't worry about finding one. Cee can do it.
+
+"Renir says we should search for a mana node, and that you can find one," Liora said.
+
+"What? How am I supposed to do that?" The spider looked confused, but after a moment she exclaimed. "Mana Perception?"
+
+Correct. But fly some distance away from the island, otherwise the mana node here will completely overwhelm her senses.
+
+"Apparently yes. But don't turn it on yet or you'll get overwhelmed. Let me fly some distance away from the island," Liora said.
+
+For a while they flew in companionable silence. Liora enjoyed the feel of wind on her feathers as she occasionally glanced back, seeing the Seabloom Island grow smaller and smaller in the distance. Good, the crazed doctor couldn't do anything to her now.
+
+"I think we're far enough now. I'll try turning on Mana Perception," Cee said.
+
+The spider was silent for a moment, then spoke again. "I definitely see the mana node on the island. It's still quite bright, shining with yellow light."
+
+Yes, that's how it should be.
+
+"Do you see anything else?" Liora asked.
+
+Cee looked around, peeking outside the cocoon. "I think I see something further ahead. Nine o'clock."
+
+Nine o'clock? What's that mean?
+
+It's a way to tell direction. I believe it was used in the military from our world.
+
+Were you two from the military?
+
+I'm not sure about Cee, but I don't think I was from the military. It's just a convenient way of indicating direction if you're not sure about where north is.
+
+"Liora?" Cee questioned, noticing the pause in her reply.
+
+"Sorry, Renir got fascinated by us using clock for directions," Liora said. "I'll fly closer."
+
+"I guess that is a very Earthling thing to do. It was developed during World War I after all," Cee said.
+
+World War I? You had a war in your world that encompassed the whole world?
+
+Kinda, it was…
+
+Liora trailed off as suddenly another memory flashed in her mind. Crimson fire stretching from a building, high up in the sky with smoke filling everything around it. There were gunshots and…
+
+"LIORA!" Cee jabbed into Liora's back sharply, making her realize that she was plummeting into the water.
+
+Liora hurriedly steadied herself, pulling up just in time to feel water on her feet. It was a pleasant feeling actually, especially after that… memory.
+
+Another memory… They seem to be more frequent lately.
+
+It's because we've been talking about the stuff from my old world.
+
+"Are you alright, Liora?" Cee asked, gently stroking Liora's back feathers.
+
+"Yes… Let's just not talk about Earth. It seems to trigger unpleasant memories…" Liora admitted.
+
+"Odd. I haven't been able to remember anything lately. But if you don't want to talk about it, let's not. We'll focus on the mana node for time being. Speaking of which, it's getting much brighter now with a gentle blue hue."
+
+Liora was relieved at the change of topic. Something about this memory was even worse than the last one. Beside it being but a flash, she could almost feel the heat of the fire on her feathers. And the gunshots…
+
+No, don't think about it!
+
+It's okay, Liora! We're fine here. In fact, we're doing great. Blue mana node means that it is likely aligned with water. It's exactly what we need. Focus on that task. Okay?
+
+Okay!
+
+Liora was grateful for Renir's steady voice in her mind. Cee's gentle strokes were also soothing, helping Liora ground herself in this reality.
+
+"Okay, it's too bright for me to keep Mana Perception on. We're very close to the spot," Cee announced after around ten minutes of flight.
+
+"Where is it?" Liora asked suspiciously. They were still very much in the middle of the sea, with solid ground nowhere to be seen.
+
+"Um… Well, I think there's a problem with that. It seemed to come from underwater…"
+
+"Motherfuc—"

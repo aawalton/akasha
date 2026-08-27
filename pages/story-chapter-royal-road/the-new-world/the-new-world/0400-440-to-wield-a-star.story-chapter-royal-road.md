@@ -1,0 +1,405 @@
+---
+id: 75c8bc6d-d75e-5374-bfd4-d9d831b1b21f
+page-type-slug: story-chapter-royal-road
+title: "440 To Wield a Star"
+slug: 0400-440-to-wield-a-star
+partOf: the-new-world
+position: 400
+ownLength: 3995
+unit: words
+ownProgress: 3995
+publishedAt: 2025-06-20
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2370305/440-to-wield-a-star"
+royalRoadId: "2370305"
+markedReadAt: "2026-06-29T21:35:05.741Z"
+---
+
+As he finished his words, the enormous flesh moon moved. It writhed along its surface with ripples larger than mountains. It began pulsing towards portals before I connected to Plazia. The hivemind hissed its thoughts.
+
+“You’ve wasted enough of our time speaking to the mad and deranged.”
+
+I scoffed.
+
+“You know as well as I do that we can multitask. Well, I’ve thought of how we’re going to kill that damn thing in the meantime.”
+
+“Know this, Harbinger - I will not touch it. It disgusts me.”
+
+I gazed at what was the sun for Blegara.
+
+“Oh, don’t worry. You won’t need to.”
+
+Chapter Begin
+
+I pointed at the colossal star.
+
+“If you open up a warp to that fireball, I think we can use the funneling energy to disintegrate the Spatial Fortress.”
+
+Plazia shook his head.
+
+“Folly. Stars are not trifles that can be wielded when convenient. They are utter and devastating. If I open even a slight tear near its surface or core, the resulting torrent could leave all of Blegara devastated. We would be putting all of the planet at risk.”
+
+I motioned with my arms.
+
+“I can wield the warp, moving it like…Like a star flamethrower. A starthrower.”
+
+Plazia put his hands on the sides of his head.
+
+“I…That is the most idiotic idea I’ve ever heard.”
+
+I shrugged.
+
+“I mean, is it really that bad?"
+
+"I've lived for millennia, and that is so disparate and insane that I can hardly comprehend it."
+
+"All I've heard is some serious doubt without any reasoning. In fact, so far, you haven’t poked a single hole in my stroke of genius.”
+
+Plazia tilted his head at me.
+
+“They are enormous fusion reactors fueled by gravitation. They exist on a scale that mortals cannot touch. Entire planets are specks of dust to them. We are specks of dust to planets. We exist as less than nothing to stars, and attempting to wield them on a tactile level will lead to our obliteration.”
+
+“Ok, but I can still just move the warp.”
+
+“Your arms will be disintegrated. We will be disintegrated.”
+
+I shook my head.
+
+“Look, Plazia, there’s no time for me to explain how I’m doing it. Just know that I’ve been practicing moving warps for a while now. I can at least aim one, even if it's vomiting out star stuff.”
+
+Plazia pointed at me from within the pocket dimension.
+
+“You’re willing to put Blegara and its moon at risk for your theory?”
+
+I gestured at the giant eldritch above.
+
+“We’re at their mercy, and you’ve seen what they’re willing to do to those they use. Imagine what they’ll do to their enemies.”
+
+Plazia snapped.
+
+“Fine. I will take no blame for the outcome of this stupidity.”
+
+I rolled my fingers in my hand.
+
+"I'll hold you to that."
+
+I opened the pocket dimension’s warp, and Plazia sliced his spear. He angled his strike, making the rip face the eldritch instead of the planet. Plazia even left space only thinned and not shredded. Plazia gestured at it.
+
+"If you wish to open a sea of fire, then do so."
+
+Taking a breath, I grabbed the portal, putting my fingers through the thinned spatial line. One savage wrench later, and it tore open. The feeling in my fingers instantaneously disappeared, and a pit of unending fire opened. It erupted. It plumed outwards with volition and force, a cataclysmic might unleashed.
+
+Ravaging all it faced, a star’s fury cried out, and I struggled to contain the force, trying to mold the vent towards the fortress. It warbled, the warp struggling to sustain the absolute power. I put over thirty minds to the task, and we fused our might into a singular, potent blade of mental will and clarity.
+
+It shifted the warp, but it didn’t turn. I slowed down time to a crawl, crushing down my dimensional wake. With the temporal boost, I wielded all the might of my immaterial aura. I bent reality. Molded it. That will turned the warp, keeping it from spiraling out of control. As I maintained its control of the absolute weapon, the starthrower did more than spew fire.
+
+In fact, there wasn’t any fire involved.
+
+It operated on two paradigms. The first was obvious: it spewed a jet of heated gas. The plasma spread outwards with a level of heat and might that defied any and all reason. Even behind the outcry, it left my body molten, and I pocketed my remaining elemental furnaces only moments before their obliteration.
+
+This stream carried an absolute, ending heat. It did not melt. It did not alter. It vaporized; the fabric of atoms was sent into such a frenzy that no matter near could maintain itself in the wake of this heat. If anything, it was as if matter was an illusion, and the forces of nature exposed how fragile all life really was.
+
+On a planet, this would leave nothing behind, leaving the world’s ecosystem ravaged. It disintegrated all into disparate atoms, the star’s call for dilution utter and complete. I wielded that in the palms of my hands. So, to speak, at least. I could only turn the portal using my dimensional wake. If exposed to this torrent, my body would simply crumble.
+
+The second axis it operated on was something I hadn’t expected – gravitation. To get near the force was like peering down at the edge of an endless cliff. The gas it plumed outwards was a cry into the unending silence, and it screamed with a voracious hunger. It wanted, desired, and craved for anything left to feed it. Every morsel would be savored. Every life it stole would be relished.
+
+However, it carried a tiny, circular point of gravitation that siphoned everything into the portal. It jetted the plasma out at the escape velocity of itself, but other objects pulled towards the warp within this tiny laserbeam of gravity. In the distance, the Spatial Fortress suffered as the initial waves of plasma burned its body to cinders.
+
+Even from this distance, the portal siphoned in a portion of the spatial fortress's body. This tiny slither in space-time took out a red tube from the spatial fortress, carving lines out of its body. The sanguine tendril mirrored blood sausage, and it evaporated under the plight of plasma. Despite the grip of gravitation, the giant didn’t mind.
+
+It let a small piece of its body be torn asunder, knowing that regeneration would be a simple matter. The next planet it harvested would recover it splendidly. A shiver ran down my spine as I watched it near its escape routes. Flashes of Earth being consumed popped up into my mind. Those fears seeded deep in my skull like a growing cancer, and I took a moment to mentally carve that fear out of my head. Knowing this wasn’t enough, I opened the other warp that led to Plazia.
+
+The hivemind marveled at the war between worlds, one celestial body of flesh and the other of fire. The sound of howling wind and dying insects erupted from the tiny world I carried, and it gave the void a voice. We both ignored it as Plazia telepathized.
+
+“You gained control over portals by carrying ones such as this?”
+
+My eyes widened with frenzy.
+
+“That’s not the problem right now. This isn’t working fast enough. You can see it out in the distance. Pieces of this monster will still escape.”
+
+Plazia nodded.
+
+“As is expected with a planetary threat. We cannot eradicate all of it, but we will leave a gaping wound.”
+
+“That’s not enough. We have to kill this thing, and down to the atom. You know that as well as I do.”
+
+Plazia scoffed.
+
+“We may cripple it, leaving fragments behind. How is that not enough considering our limitations?”
+
+I shook my hand at it, a continental-sized chunk heading towards Elysium’s portals.
+
+“Does that look like a fragment that’s escaping?”
+
+Plazia spread his hands.
+
+“We could argue the definition, but yes, it’s only a portion. We’ve secured a victory amongst a defeat.”
+
+I put a hand on his shoulder.
+
+“We don’t have time for this. Close this warp.”
+
+Plazia slapped my hand away.
+
+“That is the only source slowing the behemoth down. Why would we close our only source of resistance against that disgusting abomination?”
+
+“Plazia…We need to open another warp but closer to the monster.”
+
+Plazia took a step back, his feet on the plain world as he stared into the vastness of the void.
+
+“I will do no such thing.”
+
+I raised my hands in frustration.
+
+“We don’t have time for this. We need to act and we need to act now.”
+
+“I’ve already taken risks in coming here, but I’m no one’s tool. Not yours. Not Schemas. Not even my own hunger will rule me.”
+
+I gazed up.
+
+“Is that where this hesitation comes from? Fear? You’re afraid you’ll get tainted by that thing?”
+
+Plazia’s words reverberated through the screaming air.
+
+“I’m not afraid. I have knowledge. I know what will happen when I make contact with that mass. It will consume me, mind, body, and soul. I will cease being to become a portion of the collective. All that I am is nothing in the face of its assimilation.”
+
+I spread my hands to Blegara.
+
+“You stopped it before, but we can do more. We can put an end to it now, and to do so, we have to be decisive. We can’t wait around and lose this chance.”
+
+Plazia peered at the fortress.
+
+“You ask of me to act as if I am invincible. As if I cannot die. Not all of us are made of metal to our core. Some of us can still perish regardless of your absurd confidence to the contrary.”
+
+I frowned.
+
+“You searched for centuries to find some way of stopping the eldritch from spawning out of the ether. You told us it was a hollow thing to fight against your nature and try to be something more. You’re right. That was a life without hope. I’m letting you know right now that we have a way of pushing back and stopping this, but we need time. A base. Somewhere to build up our resources long-term.”
+
+I shook my hand at the colossal ball of flesh.
+
+“How in the hell are we going to achieve your goal when Elysium can uproot, threaten, and destroy our planets in seconds? That will land upon any planet we settle on and eat it to the bone. We’ll live on wastelands.”
+
+Plazia hissed.
+
+“Why does that matter?”
+
+“How can we offer the untainted eldritch a home if we live on barren rocks? We’ll be living on my mana converted into food. We’ll be isolated into tiny, protected homes deep beneath the surface, hiding from probing eyes. And why would Elysium want the eldritch gone anyways?”
+
+Plazia glared at me.
+
+“It’s their stated goal to stop the eldritch threat.”
+
+I raised a hand.
+
+“If there’s one thing I’ve learned from politics, it's that the game revolves around incentives. Elysium’s primary manpower comes from the Hybrids, and they’re not something that’s easily replicated. To better serve Elysium’s current iteration, they’ll keep the eldritch coming so that they’ll have a consistent stream of soldiers.”
+
+Plazia turned away.
+
+“We will be tools either way.”
+
+I pointed a finger at my chest.
+
+“But I don’t need the eldritch. I can just use my armor enhancements in place of the system, and I can better satisfy my own self-righteousness by helping you guys out.”
+
+Plazia squeezed a hand into a fist.
+
+“Even if I accept that the behemoth must be stopped, it changes little of my own risks. You and your guild are a means to an end. If I die in facilitating your goals, I undo my own.”
+
+I shook my head.
+
+“In guaranteeing your safety despite your principles and goals, you’re proving yourself as the monster you don’t want to be.”
+
+Plazia leaned forward.
+
+“My sanity is a fragile thing, and you ask me to place it upon a thin line. You may walk on that edge, but you will walk that line alone. I will not. I have fought for centuries to maintain what little of myself that is left. I will never throw that away to protect your interests instead of my own.”
+
+Plazia’s glared at me, the insects within writhing. Though he spoke with clarity and composure, it was an act. His hands trembled. The insects within clattered against each other, the smooth flow replaced with clattering bodies. They were running into each other in chaos instead of the smooth swarm he usually maintained.
+
+If not for my presence, Plazia would’ve run long ago. He braved this because I stood between him and the monster he feared becoming. But he was wrong. I took a breath of the air flowing out from the pocket world.
+
+“Listen to me, Plazia. You’re going to have to get this through your thick skull, alright?”
+
+Plazia snarled.
+
+“You argue against my mind? My intellect? It is far vaster than your own.”
+
+“Intellect is irrelevant here. We’re talking about becoming a monster. Well, let’s talk. Do you think that the fortress is a monster because it lacks a mind?”
+
+“Obviously.”
+
+I shook my head.
+
+“Is a tree a monster? Is water? They are more mindless than that blob, yet there’s nothing monstrous about soil or air or stone. What makes that thing a monster isn’t its mind or lack thereof. It is defined by the actions it has taken and the ones it will take. By what it will do.”
+
+Plazia threw his hand to the side, his spear sliding halfway into the ground.
+
+“And that is why I evade it. I am not going to become what it is. I will be more. I am more.”
+
+I seethed.
+
+“You’re watching that abomination go out to end worlds, and you’re choosing to let it.”
+
+“That beast’s actions are no responsibility of mine.”
+
+My armor bristled.
+
+“If I stole the last meal of a starving child or watched a man be murdered in cold blood, I become a monster. You are watching an ender of worlds escape, and you hold its end in your hands. You can stop it, and you’re choosing not to. That is what makes you a monster.”
+
+Plazia’s hands stopped trembling. I pointed at him.
+
+“It’s not the hunger. It’s not the insects or the way your mind is made up or how you like your meat raw. This moment. This choice. Your next series of actions decide whether or not you are a demon. Tell me, will you put it all on the line to stop that horror, or do you allow something like that to escape? To ravage worlds? To end species?”
+
+I let my arm drop.
+
+“Because their blood will be on your hands. That's no different than doing it yourself. Your inaction makes you into the beast you’re trying to avoid becoming.”
+
+Plazia’s insects ceased their swarming. They silenced, only the howl of escaping wind whipping between us. Plazia gazed at me, hatred oozing from him.
+
+“You. I despise you. I despise your species. You’re hideous home planet. All of it. It’s my greatest failing to join your cause.”
+
+My stomach sank, and I blinked. Plazia walked over to the spear before picking it up. The sun’s opening closed and he reared his arm back.
+
+“Centuries of effort all put on the line for flesh bags I don’t care about. Why? Why do I do this to myself?”
+
+He sliced open a warp. Within was a writhing, molding mass of flesh. He gestured to it as it began writhing out.
+
+“Then let us go into its belly and become its last meal. Let it ooze into my mind and make me what I abhor.”
+
+I smiled, Event Horizon disintegrating the mass. I pulled us inside, yanking the pocket world with me. Within, endless tissue surrounded us but at a distance. Event Horizon carved a hole in the beast, its body shifting like a writhing sea of pulsating organs and blood. Plazia’s hands shook with a palpable fear as he focused himself. He carved into space-time once more, forcing himself to open the gap to Blegara’s star.
+
+His aim was off. I could tell even as he sliced.
+
+In an instant, I molded my body between Plazia and the tear, jerking him away. The jetting gas siphoned at us. It sapped my arm and shoulder into the void, the dense metal of my body like a thick jelly pulled by a vacuum. Half my body wrenched apart as I held a sad smile on my face.
+
+To the star, I was no different than the hydrogen and helium it powered itself on. Even after all these years, I wasn’t much in the face of the celestial. My impotence aside, I still chose to maximize the portal’s efficiency. I turned the warp, pointing it in different directions. It both erupted with flames and siphoned in flesh. The colossus around us gored into the gap as if made of nothing. I turned the all-consuming void, wielding the tiny blot like the mouth of a dragon. The Spatial Fortress screamed out with no sound, space stealing its roar but not the death by fire.
+
+Miles of the mass turned into disintegrated specks, all of it a memory of horror. That memory turned to us, rushing in. I condensed Event Horizon, guarding Plazia from the rush of tissue. It disintegrated near us, unable to tolerate the sheer punishment of the aura. Its body disintegrated into mana, feeding me but leaving me curious.
+
+How could I convert it into the mana of the Old Ones with my aura? I would need to find out.
+
+As the colossi's body fell apart in chunks, we peered out between the gaps the starthrower left behind. At that moment, amidst absolute devastation, I fell silent as the beauty of space stunned me. Galaxies spiraled, their size incomprehensible. Nebulas drifted, colors splashing across them like a celestial painter's canvas.
+
+And yet, Elysium’s vessels acted as ugly silver on the beauty behind them. Their warriors watched us tear the spatial fortress apart, cleaving it into portions of nothing.
+
+As I left the entity devastated, I turned to Plazia.
+
+“You alright?”
+
+He marveled at the destruction.
+
+“It’s...Good to watch it die. The apex of us is nothing before the might of a star. Fitting that the beginning of all life carries the potential to end it...As if the suns of planets are the gods so many hope to find.”
+
+I gazed at Elysium’s ships.
+
+“Why hasn’t anyone tried this before? This seems like a pretty foolproof-”
+
+I struggled to keep the portal stable, using several dozen minds to maintain its size and direction. Plazia cackled.
+
+“Isn’t it obvious? Wielding a star’s breath is paramount to suicide. You’re maintaining that for now, but how long can that last? What of this-” He raised the spatial slicer, Schema’s weaponry glowing violet. “It barely holds onto its last breaths, its lungs filling with phlegm and fluid. It chokes on its gasping, final breaths as you waste away your time.”
+
+“How much longer can it last?”
+
+“Minutes at most. Schema also controls these spears. Should it so choose, it may cease its magic at any moment, and a normal portalist would have their body torn apart by the sheer volume of magic required to maintain this portal’s stability. We'd all wield stars by now if Schema’s technological isolation didn't keep these tools from us mere mortals.”
+
+I grinned.
+
+“Oh, I think he’ll do everything he can to maintain this one.”
+
+“It would be wise. Once this is over, we will need to clean up the mess.” Plazia’s insects swarmed within his armor as he gazed at floating blood. “A drop of the fortress’s blood spells the end of a world. To stop it, we must turn this void into a desert. It must dry up the last remnants of its lifeforce.”
+
+“On it.”
+
+I flew around, extending the destruction of the starthrower in my hands. More like my dimensional wake’s grasp, but whatever. After several minutes of incineration, I left the spatial fortress wounded beyond repair. Disparate globs floated in the void, nine-tenths of it swallowed into Blegara’s sun or burned by its breath.
+
+It had taken minutes to undo months of Elysium’s efforts, but there was more to be done. We closed the starthrower and warped toward the most massive remaining chunks. Opening a starthrower once more, we torched the majority of what remained before tearing down any remaining ships Elysium left behind.
+
+Now, the faction already abandoned the effort, most of them escaping as I tore apart any nearby vessels. Wherever we passed, we left behind voids where vessels once floated in the vastness. Within the hour, Plazia and I both floated in the shadow of Blegara’s moon, the planet like a scarred blue marble. A portion of the planet shined with obsidian specks, portions of it having been glassed.
+
+I gazed at it as I thought to Plazia.
+
+“How is the fortress so vulnerable to heat while still able to glass worlds?”
+
+Plazia shook his head at Blegara’s wounded surface.
+
+“It was not complete. In a few weeks, it would’ve consolidated its size and strength, becoming a true, fully formed fortress. The Hybridization slowed its evolution down before accelerating it as it succumbed. There would be no Blegara if it had turned back to the planet after rising from it.”
+
+I frowned.
+
+“The starthrower isn’t exactly usable on a planet.”
+
+Plazia turned to me.
+
+“You’re still using that ridiculous name for that tactic?”
+
+I shrugged.
+
+“Come on now. It’s literally perfect. Somehow succinct yet entirely understandable.”
+
+“And incomplete. It siphons as it spews. How does that merely throw the star?”
+
+“Alright then, what’s your name for the starthrower?”
+
+“The portal to the nearest star used against our enemies.”
+
+I shook my head.
+
+“That’s a mouthful.”
+
+“It is accurate.”
+
+“You sound like the Overseer or Sentinels.”
+
+“You sound like a nameless grunt trying to name something they don’t understand.”
+
+I swung my hand.
+
+“Exactly. This name isn’t for us. It’s to let people know what we’re doing.”
+
+Plazia rolled his head around.
+
+“I tire of this farce. Since you're so insistent, we'll call it a starthrower.”
+
+I pumped my fist.
+
+"Hell yeah."
+
+Plazia turned to the leftovers of the battle.
+
+"We have much to do before this hell is upon us once more."
+
+I nodded. A path of carnage lingered behind us. Mountain-sized chunks of eldritch floated in the distance, and debris from the destroyed vessels shifted in all directions. Plazia maintained a field around himself, protecting his insect body from the void of space. The magic trembled as his hands shook, the eldritch hivemind having confronted one of his many demons. I was proud of him.
+
+He stared down at his shivering fingers.
+
+“I can’t believe I was convinced of that insanity. It will haunt my dreams.”
+
+I patted his back.
+
+“Welcome to the club. Trust me when I say you’re in good company.”
+
+"And what, pray tell, is your solution to nightmares?"
+
+I grinned.
+
+"Never sleep."
+
+I spread my hands at the carnage.
+
+“And we gained a solution for the Spatial Fortresses.”
+
+Plazia pinched his brow.
+
+“Schema will only allow this against his enemies, not our own. He may purge your world whenever he chooses.”
+
+My stomach sank.
+
+“That’s true. We’ll need to reverse engineer the cipheric tech that he’s using.”
+
+“It will take you millennia to understand the cipher to such a level if you ever will.”
+
+I raised my palms.
+
+“Hey, let’s handle this one step at a time. Besides-”
+
+Blegara’s scar shone like a necrotic wound in the light. I let out a sigh with no air for breath or medium for sound to travel in.
+
+“We’ve got a lot of work to do.”

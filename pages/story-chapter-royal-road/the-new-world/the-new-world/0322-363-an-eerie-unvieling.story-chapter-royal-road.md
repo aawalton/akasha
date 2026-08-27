@@ -1,0 +1,265 @@
+---
+id: bced5ba4-fbe6-57ad-b895-71c4a558558a
+page-type-slug: story-chapter-royal-road
+title: "363 An Eerie Unvieling"
+slug: 0322-363-an-eerie-unvieling
+partOf: the-new-world
+position: 322
+ownLength: 4591
+unit: words
+ownProgress: 4591
+publishedAt: 2023-03-02
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/1126738/363-an-eerie-unvieling"
+royalRoadId: "1126738"
+markedReadAt: "2026-06-29T21:32:12.038Z"
+---
+
+After I handled the installation, Targask tried using one of them. He frowned at it, the sight disturbing him as he murmured, "How in the hell did you create this?"
+
+I grinned at him, "The same way I will make lots of other stuff."
+
+Targask gave me a wary eye as I lunged to one knee, still over his eye level,
+
+"Now then...Let's see the next set of runes, eh?"
+
+Chapter Begin
+
+Targask shook his head before scratching the back of his head, "You've worked quite a bit today. I'm sure you must be tired."
+
+I scoffed, "Not even close. Let's move on to the next subject."
+
+Targask blinked before pulling out another sheet of paper, "Well then...Let's see what you make of this then."
+
+He began writing down a series of formulas using hieroglyphic images. They mirrored miniature monsters, each carrying a semblance of life to them. I gawked at the markings, curious how he instilled that uncanny vigor in mere pictures. Targask peered up at me, enjoying my obvious bewilderment all the while.
+
+When he finished, he turned a palm to the drawings before crossing his arms, "What do you think these are?"
+
+I leaned toward them, "They're some kind of formula that uses monster pictures instead of actual mathematics."
+
+Targask tilted his head, "Hmm, close enough, I suppose. These are potion formulas that use common eldritch parts. It wasn't until a few decades ago that this became widespread knowledge. Care to hear the history?"
+
+"Why not."
+
+"Long story short, potions used to rely on specific species of eldritch, which are notoriously difficult to maintain the populations of. You can keep a dungeon alive by simply not taking the dungeon core, but Schema always sets up mini-quarantines in those situations whenever possible."
+
+I remembered my first dungeon being that way. That might be why Schema moved it to a different world in the first place. If I had to guess, Schema probably had a problem with people conspiring alongside an intelligent hivemind.
+
+Either way, Targask shrugged, "So potions tended to be very temporary. An alchemist would pay mercenaries to kill and maintain the corpses of different eldritch before experimenting on the bodies. After concocting the potion, the alchemist turned the rest of the corpses into a few batches of the brew."
+
+I raised a brow, "So they had to make new potion formulas each time they made some?"
+
+"Yeah, and it was awful. Quality control was abysmal since each batch was so different. Combine that with how expensive they were, and many adventurers opted against using them. Within the last few decades, that's changed since a genius released his documentation detailing an elaborate potion theory. That's what you see here."
+
+I turned a hand, "And it lets you use common eldritch instead of specific parts from certain species?"
+
+Targask put a hand on the pages, "That's right. For now, formulas can be made and followed. Eldritch can come from a branch of species rather than a specific one, allowing normal people to create these miraculous elixirs."
+
+I nodded, "Huh. It sounds like that guy revolutionized the entire branch of magic. He must be loaded."
+
+Targask scoffed, "It's the opposite. The potion master was jailed by Schema."
+
+I facepalmed. Targask gave me a shove, "Hah, I had the same reaction when I heard. It was a real shame. I would have loved to figure out what was going through that guy's mind."
+
+I sighed, "That's Schema for you. He wants you to run as fast as you can, but only if you're on a hamster wheel."
+
+Targask raised a brow, so I answered him.
+
+"A hamster wheel was an empty cylinder for small pets to run in. You get nowhere no matter how far you run."
+
+Targask's chin jerked up, "Ahhhh, that's not nearly as stupid as it first sounded. Probably. If you ask me, I think Schema's using the potion master for whatever the AI wants, but who knows?"
+
+I kept that note in the back of my mind for two reasons. Firstly, I might be able to find that potion master and learn from him. Secondly, Schema jailed him for releasing that information publicly, and that hinted that Schema locked down information, putting everyone in the dark. I knew Schema did that already, but this confirmed it.
+
+I tapped the pages, "What do these symbols mean, and how did you get them to have so much life?"
+
+"These are the basic health, fatigue, and mana potions you can make using common eldritch species. That life you're feeling is the secret to the potion master's work: he put some sentience into the runes."
+
+I raised my brow, and Targask tapped his head, "They are somewhat alive. It's kind of like a conversation between us. When done through paper, there's a sterility that doesn't convey our full selves. While in person, we offer much more information whether we want to or not."
+
+Targask moved his hand from his head to the paper, "This is the same. By instilling some life into the markings, the potion master allowed far more flexibility than was previously thought possible."
+
+I leaned back, marveling at the idea, "How the hell does that even work? Why would intent change the potions?"
+
+Targask shrugged, "I don't know. It's easy to replicate the specifics, but the overarching principle is shrouded in mystery."
+
+Finding that potion master might improve my runes by leaps and bounds while adding sentience to runes might be crazy enough to work. I marked those ideas down in my head while scratching my cheek. Analyzing the sigils on the ground, I wrinkled my face in confusion.
+
+They lacked any similarities with the cipher or Schema's language. To better grasp them, I had Targask tell me each symbol and what it correlated to. That took twenty minutes, so I had him create the alphabet for me to use later. A bit of practice confirmed what Targask said - the runes were easy to make.
+
+When writing them down, I recreated the forms before intent flooded into them from the ether around us. It left me in awe because these markings guided a person's perception while they read, preventing weird interpretations. I mean, anyone could take almost anything out of any page.
+
+It was simply how communication worked. Once a word leaves a person's lips, it can take on whatever meaning the listener desires. Words of hate could be seen as love, and the truth could be seen as a lie. These runes defied that long-standing convention. They reminded me of the memory sharing that Shalahora used earlier.
+
+How someone achieved that in written form didn't make sense to me. Perhaps genius wasn't strong enough of a word for whoever this was, and it reminded me of Baldag-Ruhl's ritual. Some principles exceeded my grasp, and I had to accept that.
+
+Regardless, my awe faded as the toil of work began etching itself onto us both. We fell into the flow of making the runes before moving on to other materials. Not long after, I brewed weaker potions. Targask showed me a few advanced potion types for the last part of the alchemy lesson.
+
+These mirrored basic spells in effect, but anyone could use them without training or upkeep. With invisibility, silence, speed, and strength, the potions accomplished almost anything. Despite that upside, every brew came with a cost; their side effects ranged from meager to severe.
+
+For instance, even the standard health potion resulted in a load of metabolic waste, which always gave people diarrhea at a minimum. If relied on too heavily, the symptoms mounted, becoming so severe that the kidneys or liver failed. Mana potions were the same deal and resulted in headaches that kept getting worse and worse the more you drank them.
+
+If abused enough, these headaches became permanent, and there were cases of suicide due to their use. They also caused insomnia even in small doses, and the mental fog afterward felt like coming down from a massive high. This made them exceptionally addictive. That was the general trend - the more intense the potion, the lower the resulting side effect tended to be.
+
+The more I thought about it, the more I thought about Althea. Most of her life revolved around being sedated to mute her emotions and powers. She managed that addiction behind closed doors, and after hearing about these side effects, I worried about her. She'd always handled those issues in relative silence, and that realization stung.
+
+It was like she hid that from me, worried I might not want to help or be willing to. Before I jumped to that conclusion, I silenced my ruminations. Wanting to understand some of the potions in general, I had Targask let me try a few. Taking a bottle, I uncorked one before pouring it over my hand.
+
+The liquid soaked into my arm like water down a drain as Targask rolled his eyes. He taunted, "You don't even drink them properly. Do you do anything normally?"
+
+I raised my brow, "I do if it's efficient. Otherwise, what's the point?"
+
+To further that notion, I smashed the following few bottles in my hands instead of waiting for them to pour out. Really, I was just tired of Targask's snippy attitude, and my strategy paid off. Targask lost his penchant for snide remarks.
+
+And his potion bottles.
+
+Anyways, no matter how many elixirs I took in, they left no effect on me. Even a dozen cocktails at once did zilch; I figured it was because my body broke them down differently than expected. The potions followed a standard, biological route for activation mixed with some mana for added oomph. The oomph was hard to even feel, and I was a living block of metal.
+
+I needed potions designed for dimensional fabric, not blood or bone. So for me, potions were demoted from miracle elixirs to glorified water bottles. Still exciting but not as fascinating as the runes used for the brews themselves. Either way, I hadn't uncovered any big breakthroughs when discussing the topic, and Targask relished my lack of success.
+
+I deserved some of that for smashing his bottles. Either way, I didn't mind much since I could give Althea and Kessiah a few miracle brews. Torix already gave them formal lessons on the topic, but a different perspective never hurt anything.
+
+Moving on to the next lesson, we began healing, another subject where I lacked talent. I figured that would be the case considering some of my previous experiences, but it still grated me to uncover it hadn't changed. Since I used magic differently than most, I couldn't use it on others in most situations.
+
+Well, I could, but it would just blow them up...Usually.
+
+Even with the runes cleansing my mana, my personal limitations remained. In this case, I couldn't heal well because I couldn't get a tight enough grip on what was considered normal. For example, I could feel the difference between someone's bones and muscles, but the difference was subtle. To compensate, I could devote years of tireless effort to mastering surgery despite that drawback.
+
+That would be well worth pursuing if I wanted that as a career, but that wasn't the case. I tried to heal as an extra option, not another path in life. My desire for convenience contrasted with healing itself, which didn't give a damn what I wanted. It was a complex, arduous, and demanding discipline, standing in front of me like a looming mountain.
+
+I could not leap over this mountain. I had to take each step one at a time. Facing that journey down, I turned to a different path. I'd leave that discipline to Kessiah.
+
+Heading towards a different mountain of study, I learned about magic contracts next. I designed several iterations of cipheric agreements before, but knowing how to make simple, low-stakes contracts was essential. I mean, I didn't want to have to warp reality every time I made an arrangement with anyone.
+
+So, Targask gave me a few pointers based on Schema's typical contract methods. The legal lingo made me feel like a lawyer, and Targask mentioned that many Speakers specialized in this class style. These legalists helped create more nuanced and complete arrangements between Empires or individuals. It was neat info, and it carried significance to me.
+
+I could read through documentation about this kind of thing and prevent basic con tactics in the future. It also gave me an understanding of the blowback involved with breaking an agreement. Aside from the reputation hit, breaking contracts carried literal consequences. They could hold mana bombs in your head that erupt if the terms weren't followed, sure, but that was the tip of the iceberg.
+
+Some handled far more personal punishments, like causing decades of torture if anyone broke the terms. A few could castrate the user, cause mental regression, or remove limbs. The possibilities were endless. To my fascination, an entire branch of assassination was devoted to this kind of killing.
+
+The killers nested malevolent terms within bland, benign contracts, ensuring they'd be failed. Anyone caught up in the impossible obligation ended up experiencing whatever consequences the agreement detailed, usually splattering across a wall or blowing up a skull.
+
+The pen truly was mightier than the sword.
+
+And easy to learn. Contract magic didn't take much time to go over as people honed their creation from a flimsy art to a cutting science. We went over the next branch of sorcery. This part involved handling rituals and delayed casting. I'd done something similar by saturating a spell with my mana, but that kept sorcery running after I disconnected from them.
+
+These spells could have no effect for days, weeks, or even years before going off, meaning they worked like bombs in real life. You set up five parts: an initiator, switch, main charge, power source, and container. Though simple in practice, understanding the standard runic configurations made the bombs much more reliable.
+
+Which was necessary to even use them at all. I couldn't have a delayed set of singularities mistimed and destroyed a city or something. Unfortunately, these runic configurations didn't carry any latent potential for me to abuse. They did what they were supposed to, leaving little room for improvement.
+
+It left me discontented. At the start of this whole magic overview, I had hoped to apply my skills to many fields of magic. After all, I'd developed my own unique style of magic and abilities for years now. Cross-applying all of it could've resulted in an unknown amount of potential gains. As we progressed, that latent potential was exposed, and it wasn't as awe-inspiring as I hoped it would be.
+
+Until we discussed rituals, that is.
+
+Targask wrote the runes onto plain paper, and I gazed at the familiar sigils. They reminded me of the cipheric carvings on my body. I pointed at them, "These are channeling spells, right?"
+
+Targask flapped his ears, "I wouldn't conceptualize them like that, though it's a common mistake many of my students make. Regardless, that ideation neglects many aspects of what a ritual is."
+
+I raised my brow, "Like what?"
+
+"Channeling magic is one part, but the discharge is the other essential aspect. In essence, these spells extend a user's mana pool so they can cast larger spells, but they carry two important risks. Firstly, they can backfire in a menacing, unpredictable way. Secondly, to prevent that backfire requires precision."
+
+I frowned, "Precision, eh? How so?"
+
+"They misfire if their mana limit is breached."
+
+I peered off, considering the consequences, "So, like, blowing up?" Targask shrugged, "It certainly could, though that's far from the worst consequence I've seen from a botched ritual. Hmm, it reminds me of a sinister memory, actually."
+
+Targask peered off, "One time, I found a student experimenting in a lab room with rituals. He neglected to consider the mana-based alarm system throughout the school system. That mana pulse, subtle as it was, overloaded his ritual. When I found him, he'd fused into the stone floor and steel tables, and he begged for death."
+
+Targask winced, "His bellowing haunts me in more ways than one. Regardless, his family had him mercifully killed afterward, but it was...An incredibly trying time."
+
+Targask stared elsewhere, his expression wavering, "Yes...It most certainly was."
+
+I gave him time to process his emotions, and he coughed into a hand, "Ahem. Anyways, rituals are extraordinarily dangerous. Never experiment with them at random. They are far worse than simply deadly when they backfire."
+
+"I'll keep that in mind. Is this how they're made?"
+
+I took my arm, wrenched a panel of dimensional fabric from it, and carved the example sigils onto the sheet. Targask raised an arm, "Wait for a second, you fool-"
+
+The runes fed on the mana generated by my dimensional fabric, detonating like a bomb and erupting in all directions. The metal remained unscratched, but the surrounding stone beneath us cratered from the blowback. We remained unharmed as I contained the explosion by molding my body like a liquid, but I still marveled at the sheer, destructive power.
+
+I scoffed, "Wow. This isn't a strong rune either, is it?"
+
+Targask threw his hands at me, "Of course it isn't, you dimwit. I'd never give you something dangerous, considering how reckless you are. I just told you that story, and you ignored me entirely."
+
+I raised a brow, "I didn't ignore you, but I was ignorant. I didn't know it would passively absorb the mana. Still, remember that I'm not easily hurt, let alone broken. This was also a small amount of mana and a weak runic combination. We were never in any danger in the first place."
+
+Targask took a few heavy breaths before he narrowed his eyes at me, "Then think before you begin tampering with dangerous magic. Otherwise, I will not be around for you to kill us both."
+
+I nodded,
+
+"Alright. Understood."
+
+Targask kept looking at me, searching for authenticity. Maybe he found some as he let out a sharp sigh of relief. He shook his head, "That's...That's good. It's just a sore spot of mine, and I would really rather not experiment with it at all. Rituals are more than just dangerous. That's why ritualists specialize in large, ornate mana constructs to contain and organize the energy flows. It prevents these issues before they happen."
+
+I peered at the runes, "Hm, how skilled would a ritualist need to be to do something complex?"
+
+"Exceptionally."
+
+"What about pulling their soul out of their body and into something else?"
+
+Targask rolled his eyes, "It can't be done. You'd need to plan out every minutia of a ritual, as controlling the mana flow outside a physical form is nearly impossible. No one can control for all those variables before doing something that complex."
+
+He was wrong about that. It had been done and by Torix, no less. I picked up the runic sheets at my feet before transcribing them into cipheric sigils in my grimoire. I murmured, "How large can the consequences be for a ritual?"
+
+"There's no known limit."
+
+I raised a brow, "Why not use them like bombs?"
+
+Targask shook his head at me, "You have a suicidal way of doing things, don't you? There are, actually, many reasons not to use rituals offensively. Unlike a bomb, anyone can set off a ritual. Pour a few units of extra mana, and boom, the ritual detonates when you least expect it."
+
+Targask raised his hands, "Even in a controlled lab, it is difficult to control for every variable that can result in a destroyed ritual. It is a painful, difficult, and risky path that few follow for a good reason. I'm only showing you this to ensure you have a holistic understanding of magic, not because I want you to attempt to become a ritualist."
+
+Targask crossed his arms, "Besides that, based on what I've seen, you lack the temperament or patience for this kind of magic anyways."
+
+I analyzed the runes, "Eh, probably." I stood up before raising a hand to Targask, "That should be enough for today. I'll be working on this while you get some sleep. You have to be exhausted by now."
+
+Targask let out a gasp, "Of course I am. You're just plowing through all of the material in hours. You're pretending to understand what I've covered, or there's a team of people in your head."
+
+I tapped my temple, "The latter is closer to the truth than you'd think. Anyways, go get some rest. You earned it."
+
+I walked off, and Targask pushed himself off the ground. He grabbed his papers before rubbing his back, "Gah, you'd think he'd have offered me a chair."
+
+I shouted, "You'd think you could've just made one."
+
+He waved me off in frustration before I stepped out of my city. While finding a quiet place, I dwelled on Targask's attitude. It was kind of fun having someone who gave me pushback like that. He didn't know who I was or what I'd done, which stopped him from revering me, something most of my guild did by now.
+
+It let me question myself some, and I appreciated that.
+
+Putting myself back in the present, I settled in a valley of bone before molding it over myself. As I did, the pile of rainbow bones groaned, its call sounding like a far-off quake. The colossal entity oozed out with frustration, all of the battles and activity bothering it. Letting the ominous sound pass, I flowed the bone shield over me.
+
+With some time to myself, I experimented with the rituals. How they exploded sparked my curiosity and imagination. After all, I was almost invincible, so using an explosive weapon didn't carry the same risks for me that it did for everyone else. After detonating a few rituals, they showcased the same profound level of power.
+
+Efficiency aside, each time I tried detonating the runes, they changed shape, size, and scale. I could never anticipate the full fallout of the explosion, regardless of what I tried. Hell, even predicting the outcome was spotty. Sometimes the blast changed in composition from elemental bombs to radioactive pulses.
+
+That lack of consistency was the trade-off for immediate power, and it explained why no one used them as bombs. They went off with even the slightest touch and couldn't be predicted. The last part was particularly fatal; the last thing a bomber wants is to be within the bomb's radius. Most bombers, anyways.
+
+Hoping for more oomph with the runes, I translated them into the cipher. I channeled mana into one of them, keeping my distance from it. They worked more or less as I expected, more stable but needing more charge. I kept them from exploding since the random effects might blow me apart.
+
+After many attempts at carving out the runes, I understood them better. For instance, the overcharging caused consequences because the formula couldn't handle the magic anymore. It was like trying to flow water through a pipe. If too much passed at once, the pipe shattered.
+
+Building off that idea, I compared the bombs to the rituals. The containment and flows were totally different. Bombs stored a certain amount of mana, keeping the magic and the mana separate. Rituals required the spell to be cast the entire time mana was channeled. Technically, rituals could be used like explosives if you planned them well enough.
+
+Absolute organization and delineation could remedy that, and I was sure Torix had done so many times. Scratching my head, I wondered why Torix hadn't taught me all this. From what I gathered, Torix's talent far exceeded Targask's abilities, yet Torix never broke down many of these basics for me. The lich did help me gain tools to speed up my learning, but he never taught me this stuff directly. I decided to ask him when I got back.
+
+Setting myself to the task at hand, I brainstormed for a while. I finalized my cipher runes before putting them on a panel of dimensional fabric. Getting a few miles away from my cities, I began charging them. They soaked in the mana like hungry ticks, swollen and bloodthirsty. Several minutes later and one of the panels exploded.
+
+It blew up without any of an ordinary bomb's results. No force erupted. No fire plumed. However, for a fraction of a second, the atmosphere and ground around me wailed out in a deafening chorus. The air screamed, and the ground howled, every atom gaining sentience and pain all at once, living a short life of agony.
+
+And then they died. I blinked at the malevolent effect, wondering what had happened. Having a chill run up my spine, I tried the same experiment several times. The rune's detonation resulted in an ensemble of terrifying effects. One bomb's eruption caused the ground to bleed out of bubbling pores. Another explosion shifted gravitation in space, altering weight there.
+
+Yet another explosion turned the air around me into a liquid, and it writhed around me as if alive. It tried crawling into my lungs, nose, and ears, nipping at my skin like a horde of hungry beetles. When I walked out of the ritual's radius, the air died, losing this lease on life. However, returning to that spot left the atmosphere alive and starving.
+
+I winced at what this would do to an average person. Still, none of these cipheric rituals affected me. I walked through the aftermaths without a worry in the world, and it got me thinking. Maximizing my temporal squeezing, I stood still, charging mana into a panel. Once more, it bloomed out before the effects faded.
+
+Well, that wasn't quite right. They didn't fade - I didn't feel them. I sensed the dimension around me being warped, but it carried no consequences for me. I considered that a result of being my own dimension. I resisted Ajax's slice ages ago and many other dimensional attacks over my life. This was no different, though putting these runes onto my skin and overcharging them might have a different outcome.
+
+I blinked away the thought, knowing it was another weakness I might have. I attempted to use the magic in a different environment. This time, I wrapped the area with my dimensional fabric. After a while, the rune exploded within the confines of the dimensional material. Checking to see if it contained the eerie effect, I melted a section and stuck my head through the liquified panel.
+
+The screaming air sounded like soulless sirens. A part of me grimaced, but another piece remained hopeful. After pulling in various materials, I uncovered a simple fact about this magic: it shattered the physical laws within its radius. While unpredictable, it gave me a few options I lacked.
+
+A smile crept its way onto my face I fell into thought. In a way, Targask was right about me not being suited for rituals. I wasn't a perfectionist, so completing these detail-oriented tasks didn't match my way of doing things. I could learn the skills to change that, but it might not be necessary.
+
+If anything, I could lean into the rituals but on the opposite end. I laughed for a second as a realization popped into my head. Most ritualists would spend all of their time mastering how to perfect rituals. They'd focus on guaranteeing their success for smooth sailing. I would tread a different path.
+
+I would spend my time learning how to break them.

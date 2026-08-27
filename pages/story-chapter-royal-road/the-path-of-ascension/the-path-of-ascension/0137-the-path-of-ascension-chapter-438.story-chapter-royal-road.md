@@ -1,0 +1,311 @@
+---
+id: 262385ae-de02-5383-8fae-232d21693659
+page-type-slug: story-chapter-royal-road
+title: "The Path of Ascension Chapter 438"
+slug: 0137-the-path-of-ascension-chapter-438
+partOf: the-path-of-ascension
+position: 137
+ownLength: 5422
+unit: words
+ownProgress: 5422
+publishedAt: 2025-08-25
+link: "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/2547363/the-path-of-ascension-chapter-438"
+royalRoadId: "2547363"
+markedReadAt: "2026-06-29T19:22:21.843Z"
+---
+
+Chapter 438
+
+Exploring chaotic space was dangerous. Exploring chaotic space blindly was suicidal.
+
+Which is why no one did it.
+
+No one.
+
+Seekers were both a finder of all things rare and shiny and a compass back home.
+
+A seeker, more than any other role on a ship, was indispensable, which was why they were usually the only member of a team to get a personal share of the loot most of the time.
+
+A large portion of that reason was the Seekers Guild, which was how Matt spent a majority of his free time examining their history on their latest leg of travel between training sessions. He was happy enough for the years of downtime to keep fiddling with his various projects, as were all of their group. They stood in stark comparison to the crew members who, if not on duty or doing something, spent their time in their cabins with their perception half as slow as a normal unAwakened perception. It was the lower limit most people could reach, thus making time pass as fast as possible.
+
+Even with everything on his plate, Matt didn’t want to always work, and so spent some of his free time looking into the exploration of the Realm with Liz as a fun thing to do together when they were both free.
+
+Mainly, they focused on its history. They wanted to get a feel for how exploration was handled by each Great Power and the events that shaped each decision. Liz also wanted to know a little more on the individual players like Lila’s guild and other independents, which was a good call.
+
+The first thing that caught his eye was something he hadn’t considered, given how expected it was. Seekers took a part of the cut because that's what they did; it was in every show, movie, play, tale, and story, even the ones Lila told, that Seekers got a part of the cut. That was just how it was and Matt simply accepted that was how things worked. So when he started looking into the histories, he delved deeper, wanting to question that level of ingrained fact, which was when he realized just how vital a Seekers job was.
+
+That led him to the Seekers Guild, another entity he never really questioned; the existence of a singular guild representing all seekers everywhere.
+
+Which is how he learned the guild wasn’t really a guild at all.
+
+Legally, it was. But that was only because Agatha needed a legal framework to deal with the unionization of seekers who, since free of their noble contracts thanks to one of her earliest reforms, were eager to band together. With her recent expansion of the guild system to balance out the remaining noble houses, it was deemed a good enough solution to give them an exception charter and wipe her hands of the problem.
+
+In reality, the Seekers Guild was a union.
+
+Because Agatha was still Agatha, she demanded they do so in a manner resembling an actual guild to limit future attempts at a third faction structure forming. So, upon joining the Seekers Guild, everyone was automatically made a vice guild leader, with the acting guild leader spot being vacant.
+
+It had, in fact, been empty since the original guild leader ascended about thirty seconds after Agatha tried to tie him to her political structure more securely when the initial rebellions were put to rest. The guild had kept that tradition alive and well by never being able to pass a vote for an official leader in the time since. They even went as far as to vote to make it harder for a guild leader to be voted in accidentally by raising the percentage required for a leader to a full eighty percent.
+
+Matt was bemused at the annotation mentioning that decision had turned the yearly vote into a rating system for who had the best haul from chaotic space for explorer seekers. The idea of people’s ‘vote for me’ pages being treated more as a rare item showcase made Matt want to mention it to Allie, knowing she’d hack into the system just to see what other people had found in the breach when they got back.
+
+Besides deliberately thumbing their noses at Agatha, the ‘guild’ mainly acted as a collective for backing up contracts with larger organizations. A lot of those times, it was with exploration guilds like Lila’s, but they brokered almost every contract involving a seeker. Technically, every seeker, once tested, even those in full guild member contracts, were also members of the Seekers Guild, which is what gave them assurances that they would be paid at the end of journeys.
+
+The book Matt was reading on the topic was one Lila had made him download, and pointed out that anyone could try to cheat a seeker out of their promised commission, which usually was a minimum ten percent of the exploration resources per seeker. And some even did, as the seekers wouldn’t fight back.
+
+In the early days of Agatha’s reign, when both seekers and guilds were new, more than one team or guild looked at the mountain of resources they had to hand over upon getting home safely and decided they didn’t want to. They would leave their seeker high and dry, if they were left alive at all.
+
+The Seekers Guild had stomped the murder part out fairly early by hiring Corporations Mercenary groups to hunt down the exploration teams who did so, but they were far more lenient for those who just robbed their seekers.
+
+Technically, they would rarely even have to force the other group to pay, either. They generally had the legal ability to seek retribution with the local noble whose territory the contract was signed in, but they rarely needed to do so.
+
+Instead, they just blacklisted the crew, or even every member of the guild the crew was a part of, until they paid back ten times the promised remuneration.
+
+That would have been bad enough, but they wouldn’t simply accept mana stones. Instead, they demanded the exact items owed along with ten times the value in mana stones. If the original items were already sold, they demanded ten times the number items originally owed be returned. All of a similar value and to be paid to the guild and the seeker. Only then were they able to buy the guilds services again which stopped most established guilds from not paying.
+
+Some teams tried to scam the Seekers Guild on their last voyage or if they got a particularly large haul but the guild usually sued the group into paying the agreed upon ten times value anyway. Being the largest collection of seekers in the Empire they were unsurprisingly good at knowing which approach was needed for any particular situation.
+
+Such methods had been tested time and time again, but none more so than when a ducal house got into the exploration business early in Georgios’ reign.
+
+Matt thoroughly enjoyed reading Liz the excerpt about the noble family who decided to unilaterally change the contracts of their employed seekers to not only reduce their portion of the rewards, but remove it all together, trying to make them paid vassals of the house. At the time, it seemed to come out of nowhere, according to the book he was reading. But with hindsight, they knew that the family had only done so after they created a better way to parse chaotic space currents with a new type of scanner.
+
+The seekers cited breach of contract and uniformly withdrew.
+
+The noble family thought they could wait them out and continued to stay with the few exiled seekers or pseudo seekers they had remaining.
+
+It didn’t work out for them at all, and the losses were devastating.
+
+Even with their new technology advantage, more than half of their ships which exited settled space never returned. Worst of all, the worlds they did find were often already looted, or of generally lower Tiers.
+
+After almost two centuries of devastating losses, they tried to re-offer contracts at a slightly higher rate than before, but the Seekers Guild refused, citing their repayment clauses.
+
+The noble house then tried complaining to Emperor Georgios when their liege Queen backed the Seekers Guild. He also backed the guild by ignoring the endless petitions the family sent out.
+
+The noble house broke before the guild, and to afford the repayment clauses, they ended up selling their new scanner technology to the Seekers Guild, who then licensed it out to every ship manufacturer they could. It was still one of the main passive incomes the Seekers Guild had to this day and one of the reasons there were so many independent exploration groups. Ships were generally affordable with enough savings for someone at the same Tier with how available the formerly most expensive component was.
+
+The house crumbled not long after the spat. The book then speculated the guild had never been worried as they had the power to ensure things progressed the way they desired, and they were ready to hire Corporation Mercenaries once more if they needed to. Whatever the truth of the incident, the capitulation of the noble house left the Seekers Guild a threat to be reckoned with.
+
+The story also served as a good reminder as to why their pair of seekers were worth almost as much as the ship and crew combined.
+
+That five percent they owed the two was a steal, given that even normal seekers didn’t often take a contract for less than five percent. The good ones, like the two they hired, normally didn’t take jobs for less than ten percent, and they never worked with another seeker as a matter of pride.
+
+Few teams could afford the additional expenditure of a second seeker, but most would still pay it if it would actually get them another. Despite that, it rarely happened, with the notable exception of Ascenders having their pick of as many as they wanted.
+
+That was mainly because seekers, despite being fiercely loyal to each other through the Guild, were also competitive. Each expedition was a battle to see who could find the most valuable items. The rarest natural treasures. The newest wonder that would get their names in high-Tier gossip. Hauls that could let them get an even higher percentage from the next team they chose to go into chaotic space with. And most importantly, according to the book he was reading, votes on their haul showcases for the exploration-inclined seekers.
+
+That price tag did come with expectations. Any seeker verified by the guild could reliably navigate through chaotic space— at least the first layer— and back to settled space. That was why they were paid so much.
+
+Exploration seekers mainly relied on Talents. The best of them had both a Talent and an applicable Domain, but that was about all they had in common. All of their Talents worked differently, and it was up to the person in question to figure out how they could best find planets as they drifted through chaotic space.
+
+Lured away from higher contracts, their ship’s seekers were two of the very best Tier 30 seekers the Capital guild headquarters had to offer on short notice.
+
+Lura Hope was a mousy woman with a ‘please don’t bother me' aura Matt had immediately noticed when she put her name forward during their hiring.
+
+Floating behind her was a book that looked like any other normal diary. According to her records, it only contained ever shifting gibberish with a library’s worth of pages to flip through.
+
+It wasn’t her Talent; rather, it was the growth item the Seekers Guild had commissioned for her at Tier 10, when she made her Concept. Like the seeker they had met during an exploration of what would end up being the planet the vassal war was fought on…
+
+Matt had to think but couldn’t remember his name.
+
+Steven or something.
+
+Not able to remember himself, Matt and Liz lost a few days going back through their AI recordings of that time and it was a blast of nostalgia.
+
+Malcolm had been there because his Talent and the Seekers guild had sent him there, and that history was part of the reason they wanted to see such an item fully matured in action.
+
+It was something of a tradition for the guild to build, make, or find the perfect growth item for new members, and Lura’s was her book.
+
+If it was to be found, the seeker went on a quest as soon as possible, while if it was to be made, it was usually done at Tier 15 when the guild was sure it would make its investment back. But they did make exceptions for those who had a fully formed Concept and were guaranteed to reach Tier 15.
+
+Together with her Talent and Domain, what looked like shifting gibberish to everyone else started to contain glimpses into the future for Lura.
+
+Near the heart of the Unsparing, in one of the few non-spatially expanded rooms, was a complicated array where Lura floated, suspended in front of her book like a puppet with its strings cut.
+
+The formation was a product of the Seekers Guild, and amplified most types of seeker powers. Not all, because Talents were weird, but enough that most serious exploration ships had a dedicated room to house the formation, and those whose Talents didn’t mesh well tended to stay in settled space.
+
+There was a fairly serious level of diminishing returns with the size of the formation, but Lila had maximized it for the size of the ship, which was why the room was only large enough to hold ten of them watching.
+
+Everyone else, with the notable exception of Allie, was there to watch the show. They had all heard tales of such seekers and their odd personalized rituals.
+
+Energy started to flood the chamber and the runes enchanted into the spherical walls started to glow as they began channeling nearly a million mana a second.
+
+Typically, a seeker had about fifteen seconds before a ship's reserves were drained below a safe threshold, but Matt had already topped not only the ship up, but the crew too with his Concept. That ensured few complained about them doubling the length of both tests, as more information would only give them better results, which would make them all wealthier.
+
+Just as the energy in the room reached its peak, Lura snapped to life, quickly shuffling through pages, her finger tips starting to glow blue as the formation's power spilled into her.
+
+Her fingers traced ever shifting gibberish as her lips rapidly moved, each word nearly tripping over the one before it as they rushed to exit her.
+
+Thankfully, they were all Tier 28 or higher and could follow along.
+
+While some Talents gave simple directions, and they could be incredibly strong while ensuring a high margin of safety, the seven of them had unanimously decided to take information-type seekers instead.
+
+In general such seekers weren't as useful as a ‘fly in that direction’ type seeker, because their Talents didn’t work that way but the best seekers were often that type. Those like Lura and Magnus Bergh, their second seeker, were able to figure out ways to get directions amongst their more esoteric information reliably, which is why they were so ridiculously expensive to employ. Both of their normal rates hovered around fifteen percent and they had teams lined up and ready to accept them.
+
+It was easy for them to forgo a higher percentage to team up with each other given what Ascenders typically pulled out of explorations.
+
+Lila famously had her pick and usually took three or four seekers on her large-scale guild voyages or personal deep adventures and they hoped to follow in her footsteps.
+
+Thirty seconds later, when the energies had crept all the way up Lura’s neck, she fell to the padded floor, her book quickly mirroring her.
+
+Gasping, she nodded in thanks as one of the healers carefully cradled her and poured a potion down the woman's spasming throat.
+
+After a few more seconds, the shakes started to settle down and Lura could speak.
+
+“Three planets within a month travel. Two are probably contested. One is definitely not going to be found unless we hit it, but I’m not sure on the Tier. I didn’t get anything about wealth at all. Within a year's travel there are at least nine planets. Nine I could identify, at least. I’m uploading information about them now. What is more interesting is that through it all, there was a single message. I thought it was interference until right at the end where it snapped into place. ‘Gathering’ is the word I’m getting, but I’m not sure what context that's in, besides it involving all of us; the ship, myself, everyone. I suspect that includes you all, but I can’t actually tell because of your divination wards.”
+
+Liz smirked at Aster as she replied, "That's so cool.” in revenge for Aster making fun of some of their style choices in the AI saved memories they had gone through.
+
+Aster glared back before sagely nodding. “Quite impressive. How vague can you get? Is there maybe a page about how a particular fox might find herself a level five mana type that isn’t violently unstable?”
+
+Lura shook her head, chuckling weakly. “Even if you didn’t have anti-divination wards plastered all over you, no that's not really how my Talent works. I get information about my future and mine alone.”
+
+Matt looked at the book and disbelieved that final statement. It was only his gut and he wouldn’t call her out on it, but he’d bet a decade's worth of mana generation that her Talent was stronger than that.
+
+Her getting around their wards was probably even harder than she thought it might be, and he had nothing to go on, but he had the feeling that she and her book were stronger than they presented themselves, and Matt trusted his instincts.
+
+As if almost reading his mind, Lura smiled as she was helped to her shaky feet. “I’ll look for mana-related keywords, I do have that much control, but I wouldn’t expect much.”
+
+Looking over the information, Matt proffered her his hand. “What you have already given is an impressive amount of information.”
+
+Liz nodded. “Agreed. You’ve given us some hard decisions. Twelve planets is quite the bouquet to sort through.”
+
+Lura’s laugh was interrupted by a cough that lasted minutes, but she seemed unbothered. “If I couldn’t show off with double the usual boost then I’d be a pretty shitty seeker.”
+
+Even Aster gave a few words of encouragement as the seeker limped out of the room, just to be replaced by their second seeker.
+
+Magnus Bergh… was interesting.
+
+His reputation had been awful for the first few thousand years of his exploration career, with rumors about him doing illegal things with his Talent, or that he wasn’t very good, surfacing multiple times. As he Tiered up, that reputation was slowly replaced by his current one, which was of a very good long-haul seeker.
+
+Slightly scruffy beard, skin just starting to be over exposed to sunlight, calluses pretty much everywhere, the man looked like a low-Tier farmer or a stereotypical planetary explorer.
+
+On the head of his staff sat his own seeker growth item.
+
+A portion of a world shrunk down to a snowglobe-sized ball of glass would have been impressive on its own, but it mainly served as a way for Magnus to move around his goats.
+
+The man had a ritual sacrifice Talent.
+
+Having had bad experiences with such people thanks to a mission Luna had put them on, all three of them had been hesitant to accept such a Talent on their expedition, but they had done so at the behest of one of their navigators who had actually flown with him before and gave Magnus a glowing review combined with Allie who wanted the best they could take.
+
+Tapping his staff onto the platform, it planted itself upright with a surprisingly complicated magical effect that both Matt and Zack both stopped to stare at, only moving on when Aster poked them.
+
+It was an interesting enchantment, but not interesting enough to miss whatever they were going to be shown.
+
+Touching the orb, Matt found himself in a pocket dimension where Allie was already sunbathing in a clearing, taking advantage of the false sun in the sky.
+
+The orb was its own miniature— if a continental size land mass in the middle of an only slightly smaller ocean could be called ‘miniature’— world.
+
+It was also entirely under Magnus’ control.
+
+Spreading his perception Matt found that thought only mostly true.
+
+The rain and wind moved at Magnus’ control, but sneaky Ascenders were apparently a step too far, and their seeker sighed as Aster laughed at seeing her friend already there.
+
+“She keeps breaking in. I tried to offer the space for her to use— I do it for everyone given how long we can go being stuck in a ship— but she keeps breaking into the orb instead of just asking.”
+
+Allie smirked at the words and didn’t bother to hide it.
+
+Rah, however, took in a deep breath before letting it out. “This is a nice place.”
+
+Susanne looked around until she asked, “How stable is this space?”
+
+“Not stable enough to fight. It's a support growth item meant for taking care of my animals. Not a battle arena.”
+
+Magnus’ voice was firm, having seemingly misunderstood their intentions.
+
+Susanne looked like she wasn’t going to bother correcting him, but eventually she did. “Sorry, I wasn’t clear. I’d like to use this area to meditate and perform a few simple training sword katas. It's quite… tranquil here.”
+
+Magnus’ easy grin returned. “No, that's on me, I got defensive without cause. A lot of people seem to think that because I'm willing to share the space a little, they can do whatever they want. It's a home for my goats first and foremost.”
+
+And that was exactly what it was. Despite the massive relative size, the miniature world mainly housed a few tens of thousands of goats, each clustered in their own separate flocks, with larger islands off the coast housing pigs and chickens, along with some cows. Even a handful of more exotic species, like kangaroos and llamas, were present in small quantities. The goats, however, weren’t entirely separate, but any contact would be unlikely without Magnus’ interference.
+
+After settling himself, Magnus bent down and rubbed his hands in the dirt. He then went through a simple ritual as he walked to the nearest herd with a few dozen compressed steps that covered miles, until he arrived at the nearest gathering.
+
+All of the goats immediately started making noise as they rushed over with their best unTiered speeds.
+
+Their sheer happiness at seeing Magnus was overshadowed by the Tier 15 goat who ran over and rammed the Tier 30. It was amusing to see the Tier 30 let himself get knocked to the ground where he was goat piled.
+
+Matt reached out and grabbed Aster's tail, which was slowly twitching and smoothed it down without looking away, causing Liz to start ribbing Aster who denied that she wanted to jump into the pile of cuddly goats.
+
+“You Tiered up a pet?” Rah’s question wasn’t offensive, but Magnus took it well despite Rah being slightly uncouth in asking it.
+
+“Something like that.” Standing up and rubbing heads, Magnus’ gaze went to several goats who were clearly older.
+
+They hadn’t exactly lined up, but each perked up upon seeing Magnus look them over one by one, even going as far as casting minor healing spells on their joints.
+
+Only after he found the goat he was looking for did he rub her ears and asked if she was really sure.
+
+She bleated at him and nuzzled his head before starting to walk.
+
+Feeling solemn, everyone, even Allie and the Tier 15 goat, exited into the now far too crowded amplification chamber with the Tier 0 goat.
+
+The goat, seemingly completely aware of what was about to happen, quietly lay down on a table Magnus pulled out of a spatial ring.
+
+After confirming with the unTiered goat once more, he finally triggered the amplification device, but instead of sending its energy into him, it all went into the goat who trembled slightly.
+
+The goat’s body, let alone its mind, should have been obliterated by the torrent of energy. But instead, a power from seemingly nowhere, but obviously from Magnus, kept the goat painfully alive.
+
+The goat screamed and thrashed, but ultimately didn’t run away.
+
+Matt had expected Magnus to be using his Talent to hold the animal down or even a Domain working to do the same, but the goat, despite the fact it was in unimaginable pain and unrestrained, didn’t move.
+
+At the thirty second mark, Magnus drove his blade downward just behind the goat’s skull, cleanly and quickly ending the creature's life.
+
+The moment his blade met flesh, Liz beside him let out a low and quiet, “Oh. So that's what it is. Interesting.”
+
+Matt didn’t ask as he continued to watch.
+
+Without hesitating, Magnus withdrew his knife and then slit the goat down the belly and started digging through its entrails.
+
+The offal, despite coming out of a goat's intestines and looking like normal intestines to Matt, seemed to demand every ounce of Magnus’ attention. He traced intestines with his fingers, tapping and pinching as they went as if he was looking for something in particular.
+
+Finally, after almost ten minutes of searching, he came out of his trance.
+
+Almost immediately, the Tier 15 goat stepped up behind Magnus and bleated once more, but this time seeming to console the human.
+
+The seeker reached down and rubbed its ears with now clean hands before turning to face them.
+
+“I can rep—”
+
+Liz cut him off before he could start. “It works better with younger goats, doesn't it?”
+
+Finally, Magnus sighed. With a flick of his finger, he sent over a packet of data Matt only skimmed.
+
+Some of it was similar to what Lura’s Talent had revealed. The two same hotly contested nearby worlds and, while there was news about a third, it was only that it was a valuable world and they weren't sure they were the same world without a more detailed comparison but if they were it was a good sign.
+
+However what set his report apart, was that his predictions about mid-range planets were far more detailed and he identified five as being incredibly high potential rewards.
+
+Magnus reached down and rubbed his Tier 15 goat’s head, even as he brought the body of the sacrificed goat back into the world orb.
+
+“Most don’t figure that out so soon, though I shouldn’t be surprised. But to answer your question, yes. In terms of raw power, my Talent is stronger if I use a baby animal. I use goats because they are pretty general purpose, but I can sacrifice anything. As part of my seeker training, I bred this strain of goats. They are a tad smarter than normal, reaching a general understanding level of comprehension so they understand what they are consenting to. Originally, Billy there, the Tier 15, was my greatest success. I raised ten generations of his parents and grandfathers. Breeding them for all the right traits. Then, just minutes after he was born, I raised my knife and just couldn’t do it. He was so trusting. So understanding, despite being hours old. I just couldn’t. I nearly failed my seeker exams because of it as it was meant to communicate in a powerful divination. It worked out in the end, though. My mentor got Billy on the path to Tiering up as an eternal reminder of the path I chose, and a retest after I figured out a method that worked for me. I won’t budge on this choice though, and it's the reason why some people dislike me.”
+
+Liz nodded along until she said, “That's a good path. I’m kind of jealous. I’m pretty sure I would have driven the knife home, especially when I was younger. That kind of power is hard to resist. Most would have started looking for easier power. Tapped into negative energies.”
+
+Magnus sighed, looking more relieved they hadn’t pushed him to try again with a younger animal. “My Talent is a real piece of work, but I’ve always been a pretty cheerful guy and I didn’t want to lose that. It was probably closer than I’d like to admit. Still, the experiment was a success. The goats know what happens, and they volunteer. I also try not to call on them that often. It’s hard to kill a creature so loyal, even if they knowingly consented to a slightly shorter life span near the end. My Talent thankfully doesn't care about emotions too much. I’ve read the histories of Vinna the Carver and don’t want anything to do with chasing strong reactions like terror.”
+
+Matt winced at the name of one of the most prolific serial killers during Manny’s early reign.
+
+Part of the reforms both Manny and his father had pushed through limited immortals' direct interference with a mortal's life to shape it to better suit them. Mainly, it was to prevent an immortal setting themselves up to save the day in a heroic, but ultimately false, grand gesture.
+
+Usually, love-struck idiot immortals who had already been rejected, or thought they would be rejected, decided to pull strings behind the scenes, engineering a scenario where they could win over their heart’s desire.
+
+It was rarer now, but it still happened. Vinna the Carver had done something similar, except instead of love or anything even remotely positive, her Talent best harvested negative emotions and she was happy to oblige. Undetected for centuries Vinna would insert herself into people's lives. A new work friend, a new girlfriend from out of town, a boss, an underling, she put herself wherever she could best interact with her target. From there she would dismantle the person's life, harvesting the negative emotions as things constantly went bad for the target.
+
+Because those types always escalated, that wasn't enough. She didn’t just stop after getting a harvest she started capturing people and carving her victims into pieces, extracting every ounce of terror and hatred she could before moving on to her next victim.
+
+While long dead, her memory was hardly forgotten for immortals and it acted as a warning from the Empire on anyone considering such behavior.
+
+Once more, Matt’s instincts told him the seeker in front of him was downplaying his Talent, but Matt didn’t speak as Liz started to talk about various rituals she knew that might assist Magnus.
+
+Seeing she was going to talk shop, Matt followed everyone else to the bridge where they needed to make a decision.
+
+The three inner planets had immediate rewards, but promised fights. There were either already teams on both worlds, or teams would undoubtedly arrive while they were harvesting, making it a surefire fight.
+
+Matt wouldn’t mind a good brawl so he could test his newest ideas about his Power, but all of the rest of the crew wanted to avoid the fight and go for one of the deeper-in worlds.
+
+He understood the logic, but felt they were selling themselves short. Sure, a higher-Tier exploration team could pass them by and defeat or even kill them, but it would prove very difficult given the two teams of Ascenders.
+
+Officially they, not Lila’s guild or even Lila herself, were in charge of all such decisions. But despite being Ascenders, they all knew they weren't the experts there. At least not on such exploration matters.
+
+So after hearing everyone's opinion, they chose the third world Lura had found as their first target. The fact that if they didn’t hit it meant it might not be explored combined with Magnus’ divination confirming there was something of exceptional value there, pushed it over the edge. Doubly so when it was on the path of one of Magnus’ high-value worlds deeper in, and if the predictions weren’t wrong, they could hit it while not going too far out of their way.
+
+Settling in they prepared themselves for whatever they might find.

@@ -1,0 +1,183 @@
+---
+id: 518ea991-76f4-5bd1-a2cc-010691dbbe19
+page-type-slug: story-chapter-royal-road
+title: "Chapter 149 – Beauty of the Dark Abyss"
+slug: 0149-chapter-149-beauty-of-the-dark-abyss
+partOf: the-magpie-and-the-archmage-monster-evo-litrpg
+position: 149
+ownLength: 2234
+unit: words
+publishedAt: 2026-07-20
+link: "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3700383/chapter-149-beauty-of-the-dark-abyss"
+royalRoadId: "3700383"
+---
+
+Needless to say, the merfolk then begged Liora for help, promising protection, shelter, and food in return for her services. Admittedly, figuring out how to house a bird, a spider, and a wyvern underwater was by no means easy. In fact, it caused many arguments among what Liora assumed to be the leaders of this city.
+
+Liora and her group were taken to a building, decorated with the fanciest-looking corals she had ever seen. Not that she had seen many corals before in her life, but these were clearly more vibrant, more colorful, and better cared for than the rest. Schools of fish and an occasional octopus could be found swimming among them.
+
+Being led underwater to these important merfolk made Liora feel a bit like a clown. Often, she found herself wondering how she even ended up here in the first place, but lately things have only been getting increasingly weirder.
+
+Standing, no, rather floating, in front of a huge half-man, half whale shark. He was huge! While merfolk varied in size, with those who had tails of smaller fish being smaller and those with tails of whales, sharks, and dolphins being larger, this guy was larger than all of them.
+
+He was in a heated argument with the dolphin leader, along with several other important-looking merfolk. How did Liora know they were important? They were adorned with many shinies! Rows of pearls around their midriffs and necks, bracelets with jewels and precious corals, delicate-looking crystals woven into their hair.
+
+Her Treasure Sense was screaming at her. The urge to reach out and snatch a bracelet or two from a mermaid that swam too close was intense. But she couldn't anger them. Otherwise, they would either spell her end right here underwater or be tossed back at the mercy of Lucien.
+
+Frankly, she didn't want to fight that mage. He was far too strong for her. He had fired those deadly magic beams at her as if it were as casual as tossing rocks into water. No effort behind those attacks at all. Although Liora had managed to daze him momentarily with Resonance Mimicry, it was unlikely to catch him off guard the second time.
+
+As such, she wanted to do some proper training, raising her skill to [Legend] level and evolving them to Tier 2. Resonance Mimicry and Decoy Fade were incredibly useful, so improving other skills to Tier 2 would be beneficial. There was also the possibility of merging some of her skills and traits. Especially those resistance traits.
+
+Sadly, it appeared she would have to solve whatever issue these merfolk had first. The large whale shark merman finally turned to Liora, their discussion coming to a close.
+
+"Tell me, bird! Is it true that you can purify the blight?" He asked in a deep, booming voice.
+
+"We call it corruption, but yeah, I can purify it," Liora confirmed.
+
+"How are we supposed to trust that?" The whale shark glared at Liora.
+
+"You can just bring anything corrupted before me, and I'll cleanse it," Liora said plainly.
+
+"Even if it were a live being?" He remained just as suspicious.
+
+Liora was growing rather tired of this. She was exhausted, hurting, and underwater. While her body didn't feel uncomfortable down here, it wasn't like she enjoyed it much either way. She much preferred the free skies. Not to mention that Smokey was growing more anxious by the minute, with Cee's desperate attempts to soothe him having less and less effect.
+
+"Yeah, live beings too. If you need someone cleansed, just bring them here. Although admittedly, I haven't fully recovered my mana, so if they are fully corrupt, it might not work," Liora warned.
+
+There was an audible wave of murmurs going through the merfolk as they stared at each other in shock.
+
+"Very well, bird. This night, we're going to keep you in our prisons designed specifically for humans. You should find it comfortable enough. Once you've proven your worth, we will provide you with better accommodations," the whale shark merman said.
+
+Liora withheld the urge to roll her eyes. She didn't really need these accommodations. She would much rather be on her way to the ant people. The way Renir had described the place, it seemed unlikely that many humans would be there. Or merfolk, for that matter.
+
+That was what Liora wanted. A place devoid of any of these pesky races that thought they were so important. Merfolk might be more similar to humans than they would have liked to admit. A prison, really? It was no better than placing her in a cage. Barbaric.
+
+But showing up anywhere near the surface would mean facing Lucien. So it appeared that she would be spending at least a few days in the underwater prison.
+
+"So be it," Liora said, too tired to really argue against it. She just wanted to sleep.
+
+After that, Liora, Cee, and Smokey were all led into some cave underneath the merfolk city. It was dark, and the water felt… dirty somehow, though Liora couldn't really see anything that would qualify as dirt.
+
+The merfolk escorting them had these strange glowing seashell lanterns with them as they led them into the nearly completely dark cave. Cee and Smokey were barely able to keep their panic in check. The wyvern would often yelp and try to snap at the merfolk escorting them.
+
+But finally, they reached the prison cells. They were dark and murky, but there was one unusual feature about them. There was no water in them. Liora, Cee, and Smokey were all shoved into a single large cell.
+
+As the door was opened, the room flooded with water. As soon as it was closed, the water quickly drained out of the room into something that looked like a stone grate.
+
+"If you do anything suspicious, this room will be filled with water," the merfolk guard warned and swam away, leaving the three of them alone in complete darkness. They weren't given a single source of light.
+
+Not that it was a problem for Liora. She could see, although it wasn't quite as clear as she was used to.
+
+"I can't see anything!" Renir complained.
+
+"Yeah, neither can I. Good thing I'm a spider. I can still sense my surroundings quite well," Cee said.
+
+Smokey was whimpering miserably, pressed close to Cee's side. It was easy to conclude that the wyvern likely didn't see a thing.
+
+"Oh, how good it is to be a monster. I wish I were inside Liora!" Renir complained.
+
+"Dude…" Cee recoiled.
+
+"Caw! Do you know how wrong that sounds?" Liora hissed.
+
+"What do you mean? I just want to see through her eyes again," Renir complained. "This reminds me of being inside the belly of that fish."
+
+"Hey, it's not as bad this time," Cee tried to remain positive.
+
+A wail resounded from somewhere nearby. It sounded somewhat human.
+
+"Are you sure about that?" Renir questioned.
+
+"Hey, better this than being dead at the hands of your friend Lucien. In either case, I'm going to sleep. I am tired," Liora announced, plucking Renir out of the webbing that was secured around her neck. It was wet anyway; Cee would have to weave a new one.
+
+"Hey, what are you doing?" Renir wiggled in her grasp.
+
+"I'm keeping you in the safest place possible, obviously," Liora said, tucking Renir underneath herself.
+
+"NO! Not the underfluffies!" Renir let out a muffled scream. He kept muttering something afterwards, but Liora was too tired to care. She allowed sleep to take over her consciousness.
+
+Liora only woke up once the merfolk appeared again, bringing what they called breakfast with them. There was a moment of unpleasantness as their prison room was momentarily filled with water, before being drained away again. Frankly, if she had known that the food merfolk bringing them was basically a bundle of seaweed, she would have refused just to keep Smokey calm.
+
+The wyvern screeched horribly after being submerged, and it took considerable effort from Cee to calm the wailing wyvernling again. Thankfully, after Liora pulled out a piece of roast chicken she had hidden in her Inventory, Smokey calmed down.
+
+"Maybe we should try the seaweed after all. Just out of politeness," Cee suggested while nonetheless munching on a piece of chicken.
+
+"Listen, I have lived much of my life as a magpie eating nuts, seeds, berries, and maybe an occasional bug, but even I wouldn't want to eat that!" Liora said, looking at the nasty pile of seaweed.
+
+"I mean… it doesn't smell nice, and I'm not surprised Smokey wouldn't eat it, but surely… it can't be that bad," Cee suggested.
+
+Liora turned her gaze back to the bowl. Yeah, this definitely wasn't the nice seaweed salad one might expect to eat at a restaurant. As a human, she had actually enjoyed it—the slightly sour, yet fresh umami flavor. It was pleasant. This looked nothing like it.
+
+"Cee, it literally looks like it's been dragged through mud. Pretty sure there's grains of sand on it," Liora said, staring intently at the "breakfast".
+
+[Your trait Twilight Vision has reached its maximum potential. Would you like to upgrade it for 100 glimmerstones?]
+
+"Well, would you look at that! Getting tossed into this dark abyss wasn't so bad after all. I maxed my Twilight Vision trait," Liora announced.
+
+"That's awesome. Upgrade it before those merfolk return. God knows we need every advantage we can get right now," Cee said.
+
+"Let me see too!" Renir whined, wriggling from underneath Liora's feathers.
+
+"Of course. I wouldn't dream of upgrading anything without you," Liora said, gently picking Renir into her beak.
+
+Yes, show me the upgrade options!
+
+[Twilight Vision (Rank 2) variants available]
+
+[Prismatic Twilight Vision – Expand your vision to an even broader spectrum. You may see faint magical residue and mana currents invisible to most.]
+
+"Magic vision, you must take—"
+
+"Renir, please! We haven't seen the other options."
+
+"But magic vision, Liora!"
+
+"The more you whine about it, the less likely I am to take it!"
+
+[Predator's Twilight Vision – Your vision sharpens around movement. Even the slightest twitch or disturbance is instantly visible to you, no matter the distance or darkness.]
+
+"This sounds like it could easily get annoying if there are too many things moving around. What happens when a strong wind is blowing and rustling leaves in the forest?" Liora asked.
+
+"It would take some getting used to, most likely, but frankly, you're not exactly a murder bird, are you? I don't think it'll suit you," Renir said.
+
+[Thermal Twilight Vision – You can perceive heat gradients and residual heat signatures alongside your normal vision. Thermal vision can be turned off at will.]
+
+"Oooh! This is the fancy thing everyone else has been using to see me while I'm invisible. I am quite tempted," Liora said.
+
+"It does seem useful. Especially since you'll be able to turn it off at will," Renir agreed.
+
+[Spectral Twilight Vision – Your perception brushes with hidden layers of reality, making concealed entities, hidden objects, or cloaked figures misaligned in your sight.]
+
+"Anti-stealth vision! Neat! Except… I don't think I've ever had the need for it," Liora noted.
+
+"I'm not so sure about that. There were a fair number of hidden creatures in the Coralia jungle. You didn't notice that dreadspider, did you?" Renir pointed out.
+
+Liora realized that he was right. If she had noticed that damned spider, they wouldn't be in this mess in the first place.
+
+"You know what? That's a good point. I'm going to pick that one," Liora said firmly.
+
+"Wait, wait, no! The utility for it is much smaller. It's a good fail-safe, but how about being able to see magical residue? Mana currents? Doesn't that sound exciting?" Renir prompted.
+
+"No?"
+
+"It is definitely exciting! Finding treasure will be so much easier since it's often hidden with magic. Not to mention that you would likely be able to see monster constructs like that spider anyway, since they are magical in nature," Renir said.
+
+Liora thought it over for a moment. He was making a very good point. Not to mention that this upgrade was clearly meant to supplement her prismatic dracoryx evolution.
+
+"You know what? Okay! Let's do the Prismatic Twilight Vision!" Liora announced.
+
+[Would you like to upgrade your trait <Twilight Vision> to Rank 2 trait <Prismatic Twilight Vision> for 100 glimmerstones?]
+
+Liora would have wished for the system not to rub in the fact that she would lose so many glimmerstones in her face all the time. Especially after Renir's treasure had been ransacked. But eventually she pushed herself through the displeasure.
+
+I will get them back. I will get them back! Upgrade the trait.
+
+[Trait <Twilight Vision> upgraded to <Prismatic Twilight Vision>.]
+
+Liora's vision changed instantly. Or rather, it became more. She could see faint glowing lines of blue swirling around Cee, and fainter glowing lines around Renir, albeit those around him were in all the rainbow of colors. In fact, this new upgrade made him look all the more beautiful.
+
+She was about to comment on that when a knock resounded on their prison room door.
+
+"Are you done? You're coming with us," the dolphin merman announced.
+
+They barely had enough time to construct an air bubble for Smokey before the room was flooded again, and they were once again taken before the giant whale shark.

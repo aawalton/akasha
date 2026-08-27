@@ -1,0 +1,191 @@
+---
+id: 2bb1a7c4-98d6-5c5a-9340-b9215729794b
+page-type-slug: story-chapter-royal-road
+title: "322 What It's For"
+slug: 0281-322-what-it-s-for
+partOf: the-new-world
+position: 281
+ownLength: 3333
+unit: words
+ownProgress: 3333
+publishedAt: 2021-10-07
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/763249/322-what-its-for"
+royalRoadId: "763249"
+markedReadAt: "2026-06-29T21:30:51.316Z"
+---
+
+The scarred farmer pointed at the hole in the wall, "Uhm...Can you fix it? You look stout enough."
+
+I scoffed, "When I'm done with this place, fixing this wall will be the least of your worries."
+
+Their faces paled, each of them terrified of what I might do. I spread the Rise of Eden over them once more while raising a fist,
+
+"You'll never be forced to fight an eldritch again."
+
+Chapter Begin
+
+The villagers trembled despite the aura's stat raise, some cowering away. I raised my eyebrow at them while opening my dimensional storage. Pulling out several dozen rings, I hovered them over my palm while stating,
+
+"Everyone put these rings on. You know, if you want to."
+
+The citizens backed away, some of them shaking and others getting angry. The scarred farmer pointed at me and murmured with an edge of panic, "You, what are you here for? What do you want from us?"
+
+I peered around, inspecting the scenery, "I'm here to get you guys on your feet, honestly."
+
+I grabbed and tossed him a ring. The farmer caught it, but it dragged his hand down. He almost fell over, the poor guy exhausted from the fighting. He gasped, "What is this made of?"
+
+I raised a palm, "It's a secret. Now, everybody, I'm going to be building you all a fortress, giving you system tips, and getting you guys reasonable weaponry. I'll be leaving protectors as well, so you'll be able to level at your own pace."
+
+A few villagers whispered to each other, which was pointless. Each voice rang out like a blaring alarm to me, and they couldn't disguise what they said, not this close to me anyway. Taking every opinion in at once, the general sentiment came across as a strange intermingling of fear and hope. Most seemed skeptical, and others wondered about conditions or strings attached.
+
+Before their minds spiraled further into paranoia, I tilted my head to the scared farmer, "Yo, put that ring on. You'll be the demonstration of what it does."
+
+The farmer peered at the heavy band of dimensional fabric. He turned back up to me, "I...You're not going to hurt me, are you?"
+
+The guy looked like he enjoyed common sense, so I said, "You saw what I did to the bears, right? Hurting you all could've already happened. I just saved you from a painful death. You all should trust me enough to put a ring on."
+
+The farmer's lips turned into a thin line, "Will...Will this take my mind away?"
+
+I laughed, "What? No, It'll do the opposite."
+
+He blinked, staring at the ring. After taking a few breaths, he put the band onto his middle finger, and after making complete contact, the individual took a few steps back. He pressed himself against one of the piled-up cars, and barbed wire pierced his shirt and gouged his back. One of the other villagers came up, shouting at him,
+
+"Fred, are you ok?"
+
+Fred gasped, his scars fading and a layer of muscle forming within him. From thin and lanky to lean and mean, he pulled himself from the twisted wires. His back healed in seconds, and he gasped, "What is this? I feel...better. Much better."
+
+I pointed at my rings, "These are your tickets out of the rat race and into the big leagues." I spiraled the circles around me, "Anyone else wants one? They're free."
+
+Most people stayed skeptical, but a few opportunists ran up, each of them wanting one. I pointed towards the grassy opening beside us,
+
+"Line up. You'll all be allowed to get one if you choose to take it."
+
+Random villagers put on the rings, their benefits palpable. These villagers sat between levels one and two hundred. For them, these rings offered enormous amounts of health, regeneration, stamina, willpower, endurance, and sizeable pieces of strength and constitution. They dwarfed even rare artifacts from a stat value standpoint, giving each person a tremendous leg up.
+
+More joined in on the ensuing frenzy, a mob forming for the enormous benefits the rings offered. I kept them in order, each person getting one. Despite the tremendous help, a good portion of people chose not to take the bands. They kept their eyes narrowed, each person unwilling to accept the free boost. It was their loss, and I wasn't about to beg them to take it.
+
+After handing out fifty rings, I spread out my hands towards their car wall. I turned my head and shouted, "Everyone, back up."
+
+By now, people got the picture and listened. I melted down the cars, the steel turning into a glowing bubble. The citizens of this place gawked in slack-jawed wonder while I created a wall of steel around their entire perimeter. I bolstered their poor defenses, making the walls taller, covering it in spikes, adding pillars into the ground, and establishing watch posts at even intervals.
+
+These towers offered vantage points for their defense, making it more efficient. After handling that, I erected a column at the center of their small town, the pillar made of my dimensional fabric. The heat of my molding fabric set nearby grass on fire, people wondering at my creation. Once I etched the cipher in, I moved to the walls.
+
+Handling the enchantments on the outskirts of their barricade, I sat down and charged up. As I did, people walked up. More precisely, children did. They gawked in wonder at me, but I did the same to them. These were some of the only kids I'd seen since Schema's systemization. Compared to our pre-system era, these children lived isolated, small lives here, each of them stuck in the town's walls.
+
+Even from casual conversations with Torix, I learned systemization occurred after or near total growth. Experience and whatnot flooded in after that. Unfortunately, humans grew slow, meaning we needed lots of time and investment for maturation. As these kids stepped up, I gathered a lot about them by how they bounced off the ground or moved the wind.
+
+To me, each of them was as soft as the air around them. A brave one took the initiative and spoke first,
+
+"Uhm...Hello."
+
+Impressed by her courage, I smiled at the young girl, "What's up?"
+
+She stared, her clothes old and sewn in many places. The patchwork showed a diligent tailor working hard to keep clothes on her back. This six or seven-year-old took one of my rings, the weight of it challenging to bear. She kept it on while murmuring, "So...Are you an alien?"
+
+I pointed at my face, "Nope. I'm a human."
+
+Her eyes popped open wide. Her lips made an O, "What? For real?"
+
+I gave her a nod, "Absolutely."
+
+"So you're like my dad?"
+
+I raised a brow, "Who's he?"
+
+She pointed at Fred, the farmer helping everybody get sorted after the battle. I tilted my head up, "Wow, he defends the town. Impressive, I must say...You must be proud of him."
+
+The little girl stood tall, "Yeah, he's best. He tells me stories all the time."
+
+A warmth came over me, and I smiled, "He's keeping you safe. Make sure you work hard and learn a lot for him, alright?"
+
+The little girl nodded her head with force, "Yes. I will."
+
+She stood twenty-plus feet away, my body glowing and burning up debris nearby. I paneled a layer of cold between us, preventing her and the camp from incinerating. The girl sat in the cold for a while, the difference in temperature novel to her. She got the other kids playing with her in the field, and I watched them enjoy the bit of magic. It brought an irrepressible grin to my face before I finished the cipheric sigils.
+
+Yeah, this was a good idea.
+
+Standing on my feet, the ground cracked around me. The panel of mana plumed out of the pillar above, giving the place a sizeable protective field. The basics handled, I crafted them each several swords, shields, war hammers, and armor pieces. I made it out of steel, and helmets took priority. I also made gauntlets and footwear as they kept their extremities safe.
+
+After giving the steelwork fundamental Schema enchantments, I prepared to leave. I raised my hands, my height already large enough to see everywhere in the camp. I announced,
+
+"Alright, I'm heading out. I'll be leaving several golems in the area who will check on you all. If those with rings are found abusing their benefits, don't expect to keep them. Those rings were earned by staying alive until now. If you choose to use them for devious ends, expect a titan like me to handle it. You've been warned."
+
+The villagers evacuated the concrete shelter already, everyone out and about. By now, they trusted me enough, and the fear from before dissipated some. Most of them watched me fulfill my tasks, wondering where my abilities started and ended. Before heading out, I crafted a sheet of steel over a portion of the city's central monolith.
+
+I pointed at it, glowing lines etching into steel as I said, "My guild is the Harbinger's Legion. We accept recruits but prepare to work hard if you join. We're on the rise, and we're bringing humanity with us. If you want to join, talk to a super golem or head to Mt. Verner. Do that, and we'll see if you're up to snuff."
+
+I raised a fist, "You'll be joining something larger than yourself if you enlist. Education on magic and Schema, basic worldly tasks, and all kinds of training will be there for you. You just have to reach out and take it."
+
+I peered down at the strengthened villagers, "You'll earn my legacy if you join, and it's as strong as those rings, maybe even better. And remember, work hard, guys. Don't set up limits for yourself. Live up to what you can be, not what you are now."
+
+I hovered myself over the village and shot myself out, several people shouting questions. Not having time to answer them, I got some distance before creating the standard five golem ensemble for the area. Giving the constructor golem some instructions, I mentioned checking on their camp every now and again.
+
+They'd ensure the rings didn't lead to some horrific sub-society or something. I didn't want some crazy psychopath getting their hands on that unbridled power. Finishing up those matters, I funneled back into the city building process like before. As I fell into the process, the days blended together, my body going from one step to the next.
+
+Time blurred by, and while it did, I brainstormed different ideas. I referenced Chrona's conversations and insights on time magic, trying to fully grasp them. By now, Schema might've locked me from using it out of fear. Instead of letting that discourage me, I put myself ahead of the curve.
+
+Just as I'd done with primordial mana, I gathered my knowledge for when I could use time magic without limit. When I took off Schema's shackles, it would rush into place as it had with primordial mana. I held a firm faith in that, my efforts showing that resolve. To get as much from that as possible, avoiding Schema's control took priority.
+
+So, I also put two minds to understanding the cipher markings Plazia-Ruhl etched down. He made and charged them quickly, and with my mana reserves, I'd do the same. Creating a patch when needed suited me fine for the time being. While I handled those tasks, I stayed connected with the guild.
+
+I kept heading back towards Mt. Verner and getting schooling from Helios and Chrona alike. Helios recited his information towards me like some talking computer, but hey, it worked. I referenced the memorized lectures over and over, drilling them into my head. I did the same with Chrona, preferring her more esoteric and less rigorous take on the subject.
+
+Compounding those benefits, I raided our stockpile of books and kiosks from Elysium. They carried dozens of volumes for many different kinds of magic, and I primarily kept it related to temporal dilation. After getting that, warping and dimensional magic would be my primary study. I hammered away at all these tasks at all times, my willpower oozing.
+
+In fact, my motivation spiked after knowing most of my mental blocks came from Schema, not from me. If anything, knowing he held me back put me in an underdog state of mind. Schema wanted me to stay contained and boxed into his system? Oh, I'd show him what I was capable of. He'd feel the full brunt of what the Harbinger of Cataclysm could do.
+
+My guild's expansion was a part of that message. To keep going, I kept in contact with Torix in the meantime, the lich establishing connections over the various cities. Torix included some undead to help manage the empties places with a few trustworthy guildmates. It put me at a greater sense of ease that no one would abuse what I left behind.
+
+I also put Florence up to the task of getting people into the cities. The chatty albony took his work with great gusto, becoming the politician he always was meant to be. He demanded a gialgathen fly him in for effect, and I watched him work out one of his recruiting seminars. The guy spoke with words like gilded honey, always playing up my guild's strengths.
+
+And considering we offered free life-changing rings and protection, it was an easy thing to do.
+
+Most of the guild moved as well. Hod and the Eltari expanded outwards, preferring forested lowlands in valleys. They never hated Mt. Verner, but the Eltari evolved for a desert environment. They chose lower, hotter areas. I might get them to check out somewhere further South, maybe near Arizona. In time, perhaps they'd do great in the Sahara.
+
+As for the gialgathens, many of them migrated over the next week. Mt. Verner had crowded to absurdity for them. Most gialgathens preferred some living space and breathing room, so the cramped conditions grated at them. Some couples branched out into other mountainous areas. Many more flocked to Blegara, keeping Helios busy outside of his lectures.
+
+Some people in Mt. Verner joined the mass hiatus of the hollow mountain. These individuals preferred a quieter lifestyle, something my spread-out cities offered in spades. During my own downtime, I chatted with Althea often, usually over calls. I spent evenings with her during Helios's lessons, however.
+
+From our talks, I could tell Althea lost her way a bit with the war ending. Her skills suited assassination, not domestic living. She put everything she had into dismantling Elysium, and that showed in her efficacy at the time. Slicing through skulls and having good aim didn't work so well with establishing homesteads. I tried keeping her spirits up, but she kind of wondered what to do next with her life.
+
+I hoped she'd find out something as awe-inspiring as she was.
+
+Listening to her reminded me of myself in my pre-Schema days. When I thought about graduating from school, I was at a loss. I didn't know what to do or where to go. Without Schema's arrival, I might be working at a fast-food place or struggling with school loans.
+
+At that moment, I crafted a pillar of my flesh and blood, a beacon of mana. It contrasted harshly with that different reality and timeline. I wondered how I ended up in this position, one with enormous potential. It made me think about other people and what they were capable of in different circumstances.
+
+Perhaps everyone hid on an ocean of potential that they could not see.
+
+I found that both disappointing and heartening at the same time. Even while having these thoughts and building cities, I kept my runes revving full blast. I channeled mana into my endurance inscriptions without ever ceasing. In fact, I held many furnaces on it at all moments.
+
+The reason for that was self-evident. Cutting myself off from Schema was no longer an option; it was an inevitability. I prepared myself for it with each passing moment. I might craft runic inscriptions for my own trees and perks at this rate. A vast improvement on my runic work was required for that.
+
+So, I kept three minds researching cipheric sigils at all times, one for general research and the others on Plazia's sigils. I kept four psyches on the city making, two on warping, and two more dedicated to time magic. Seven channeled my runic markings and furnaces, and one kept everything coordinated. All in all, I amassed nineteen minds that hustled and bustled at all moments. In time, many more would join their ranks.
+
+Knowing my plans progressed, I finished another city. A sunrise peaked over the horizon, orange light shaving the clouds above. The hues of a sunrise crafted a frame for the blue skies, and I spread my arms at it. I just worked through three days of rain, and a bit of sunshine did me good. Before I soaked it in, a message popped up in my status. I peered down at it.
+
+Obolis Novas, the Finder of Secrets | Level 24,492 Cap: 27,000 | Class: Founder | Guild: The Empire - I see that the ahcorous arrived within an absurd scheduling, and they've stayed on the frontlines ever since. Incredible, I must say. I never envisioned a day where you destroyed a galactic horror in less than a day, and yet, it has come to pass.
+
+That elite efficiency worked to our benefit, as we've turned the tides against the Hybrids. I do wish to thank you fully for your gift. My guild organized the skeptiles, and we're now able to send portions of them over towards Earth as needed.
+
+There are 30 million of them, and they enjoy arid environments or flush jungles; it depends on the tribe you're moving to. I understand that your guild may need time to assimilate such a vast number of people, and we're more than willing to give it to you.
+
+And if you have time to chat, I'd genuinely enjoy working out the details of our dealings whenever you are available.
+
+I raised an eyebrow at the message, thinking back on my relationship with the Emperor. He gave me opportunities, but he also pitted me into some poor circumstances. Technically, he gave me an elemental furnace, a planet, and two able subordinates. At the same time, I doubted he could get the furnace working, he couldn't hold the planet anyways, and he couldn't get Florence to do anything productive.
+
+Even Helios's service was gifted to me because Obolis wanted to punish the guy. If anything, I questioned my relationship with Obolis more and more with each passing event. Still, he gave me a lot of information, and he might help me take advantage of my Schema and Overseer meetings. Before confronting Schema, I'd make sure I was ready, however.
+
+Cancelling Schema's limiters, being able to warp, and having some control of time magic, I'd get that all lined up before I confronted the AI. After thinking all that through, I thought up a message.
+
+Daniel Hillside, The Harbinger of Cataclysm | Level 18,767 (Cap: 26,000) | Class: Sovereign | Guild: The Harbinger's Legion - I can talk now, but not for too long. I'm expanding the guild right now. Here are my coordinates if you want to visit...
+
+I sent him the data, Schema uploading it automatically. After a few seconds, a notification popped up.
+
+Obolis Novas, the Finder of Secrets | Level 24,492 Cap: 27,000 | Class: Founder | Guild: The Empire - I'll be there in a moment.
+
+Within a few seconds, a warp appeared beside me. Obolis stepped out from his majestic study. In his graphene armor and with a smile, he spread his arms at me,
+
+"It's good to see you again...You look different."
+
+I smiled back, "Because I am."

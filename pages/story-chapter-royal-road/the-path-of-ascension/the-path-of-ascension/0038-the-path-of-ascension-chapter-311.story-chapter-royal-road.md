@@ -1,0 +1,257 @@
+---
+id: 7c480615-06fc-5eeb-97c7-2ff5e9619e96
+page-type-slug: story-chapter-royal-road
+title: "The Path of Ascension Chapter 311"
+slug: 0038-the-path-of-ascension-chapter-311
+partOf: the-path-of-ascension
+position: 38
+ownLength: 5465
+unit: words
+ownProgress: 5465
+publishedAt: 2024-04-15
+link: "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/1596994/the-path-of-ascension-chapter-311"
+royalRoadId: "1596994"
+markedReadAt: "2026-06-29T19:18:48.227Z"
+---
+
+Chapter 311
+
+Long Zhiyuan blinked as he entered the Zanbar system. An otherwise unremarkable Tier 1 planet that had only been captured, and locked into the network of Great Powers, because no one wanted their populated planets to be directly linked to another. Having an uninhabited buffer zone was like having a fence, and everyone knew fences made good neighbors.
+
+While his eyes did drift to the planet, as the almost unnatural clean delineation of environments along the planet's latitude lines was a unique sight, what surprised him was the gargantuan ship under construction. The ‘ship’ was in the early stages of fabrication, with only the main spine finished. At five miles long, it was substantially larger than even the obsolete super dreadnaughts that the Great Powers had fielded as capital ships a few hundred thousand years ago.
+
+Those ships had been discontinued because, after a point, size didn’t translate into more offensive or defensive power, merely a larger target. The current limit of battleships was a half mile long dreadnought, which was already large enough to carry dozens of armies, and had the firepower needed to quickly blast through even the heaviest of planetary shielding. Even they had their issues, mostly speed in chaotic space and maneuverability in both real and chaotic space, and they were a tenth of the size of the ship in front of him.
+
+It made him ponder.
+
+Was it being made deliberately large because they simply wanted it to be a show of force, something only really possible when the three Great Powers worked together? If so, he was uncomfortable with what that meant for the rest of the Harmony Accords.
+
+On the other hand, if they could make a ship like that really mean something in the war, then maybe it was necessary for the type of missions the Harmony Accords would be undertaking. That thought sent a thrill down his spine. He liked the idea.
+
+It felt fitting for any team that he was a part of to be so outfitted.
+
+Even the armor, at least what little he could see being constructed off to the side in orbit, was five hundred feet thick.
+
+He took it all in and allowed his Talent to simulate it. Minkalla had bestowed upon his First Revelation the ability to simulate far more of the world around him for his spiritual clones, and with his Second Revelation, he had devoted himself fully to the planning abilities which it had granted. Now, instead of an ever-changing yet ultimately meaningless background, it would display a very concrete simulation of a place or situation, down to the finest detail.
+
+It was mercifully easy, too, unless he was attempting to learn about something warded against divination, or simulating a creature he didn't have enough information on. Thanks to the veritable centuries he had spent within the Thousand Lives Mountain, his willpower was a finely honed and sharpened blade, and he could use that to determine a plan for any situation.
+
+Between his own Revelations and a bit of information obtained from the local Sect network, Long Zhiyuan adjusted his simulation to behold the final ship, then closed his eyes to explore the area. His Tier 25 Talent allowed him to turn his attention wholly inward to accelerate the pace at which his spiritual clones worked, and while it was remarkably taxing on his spirit to do so while modifying skills or working with his Revelations, something as trivial as exploring the ship was scarcely more difficult than breathing.
+
+Of course, he usually utilized the ability to form instantaneous plans, which his Revelations further empowered, giving him the power to instantly develop devastating and immeasurably well-practiced plans in the literal blink of an eye.
+
+That was how he earned not one, but two Tier 40 escorts.
+
+Tier 47 Smithing Hands Sect valued him because, while he had fallen off the Young Master program, he was stronger than anyone they had been able to throw at him.
+
+Once he had a satisfactory understanding of the ship, he fed that information back into his clones and simulated what it would be like to fight alongside it.
+
+It was… impressive.
+
+Though not designed for normal combat, its shields were designed to shrug off direct hits from dreadnaughts, and it was armed with a massive cannon capable of cracking planetary shields. With it by their side, they would have an invulnerable fortress that could fell all but the most potent of normal siege shields.
+
+The thought made him smile.
+
+The Great Powers didn’t just create the ship as a token gesture, but instead made something that could make an impact.
+
+More than that, the ship was a mobile fortress meant to house ten Tier 25 armies to fight alongside the Harmony Accords or secure planets they took over. The ship, once fully created, would also be fully self-sufficient, and the Harmony Accords would never need to retreat to heal, resupply, or rearm. The ship would have healers, supplies, and the finest crafters the Great Powers had to offer. The republic had even managed to link the ship itself into the Between, though the ship would need to sit for an entire week to establish the link to the mystical transportation space. That meant if they ever did need supplies, they could get them no matter where they were on the war front.
+
+It was glorious.
+
+Or would be when it was finished.
+
+Currently it looked like the picked over bones of a fish, spine and ribs exposed with none of the meat that would eventually fill the ship.
+
+As they approached the main shipyard, one of the elders handed Long Zhiyuan a storage ring. A Tier 15 storage ring.
+
+Odd, but Long Zhiyuan simply waited for the elder to speak. “The Sect Master wanted us to give this to you before we arrived. He said you would know what to do with it.”
+
+The man then very studiously looked away.
+
+Curious, Long Zhiyuan sent his spiritual perception into the ring and grinned. Despite all his training, he couldn’t help it.
+
+After carefully committing the contents to memory, Long Zhiyuan squeezed his hand, obliterating the ring and all the contents inside the pocket space just as they were nearing the docking yard.
+
+Long Zhiyuan bowed slightly to the two elders to show his respect and appreciation for their guiding him here before leaving the shuttle.
+
+The moment his foot touched down on the floor, a flood of messages contacted his [Spiritual Self] containing the rules of war he needed to know, must follow, should follow, and those he could disregard.
+
+One of his clones studied and diligently read the information several times over, held within a frozen moment from his Talent. It wasn’t a perfect transfer of information, but still gave him the knowledge as though he had thoroughly read through it. Better than relying on immortal memory, as good as it was, or even his [Spiritual Self]. Truly reading the information several times was the best way to fully grasp the information. That same clone even meditated on the information, looking for any loopholes everyone else might have missed.
+
+It didn’t find any, but it was good practice.
+
+After he went through those messages, he went through the more personal correspondence. He’d already determined where the Sect quarters were, but as he prepared to go directly there, he saw that his own quarters were elsewhere.
+
+If he was reading in between the lines correctly, he and all the other core members of the Harmony Accords were being housed in a separate space.
+
+Long Zhiyuan wasn’t sure he liked being surrounded by two other Great Powers’ strongest people, but understood he didn’t have the necessary clout to disregard such an order. Not yet, at least.
+
+Contrary to his expectations, the area he was to live in was very well appointed. He hadn’t expected it to be a simple communal barracks hall, but being greeted with a carefully manicured garden complete with water works was a pleasant surprise.
+
+Someone with a good eye for design had planned this place out, and he immediately felt at ease.
+
+Recognizing that as odd, Long Zhiyuan immediately started scanning himself and his surroundings for mood-altering formations. He went as far as to check the molecular structure of the walls, the layout of the garden and its greenery, even the currents of air being circulated around the room.
+
+There was nothing which even touched upon emotion magic to be found. The effect was entirely mundane.
+
+That eased Long Zhiyuan’s apprehension a little, but didn't remove it entirely.
+
+He was still in unfamiliar territory, and kept three of his clones simulating everything and everyone who would be on this team.
+
+There were a few that even he was wary of.
+
+Thanks to the Sect leader’s gift, he had far more detailed information about his ‘allies’ abilities than he should, but even the Tier 47 Sect Master had limits on his information gathering abilities. Though Long Zhiyuan suspected a number of the reports he had read had been gathered by higher Tiers, despite credit being given to their spies inside the Federation and Republic. The information was just a little too good and detailed for anything but a little friendly rule bending to be explained by.
+
+The rules on higher Tiers noticing things were far more lax with one's allies than they were with enemies, but even that wasn’t perfect as those with truly important secrets hid them behind masks that even the high Tiers couldn't penetrate without making it obvious.
+
+As he inspected the fish pond, he thought he noticed an oddity on the rock next to him and when he tossed a blade of mana at the spot, a man appeared.
+
+Appeared was the wrong word. That implied he had been invisible or hidden, but once Long Zhiyuan got a look at him, he knew neither had happened. He had simply been ignoring the man in question.
+
+Who?
+
+Long Zhiyuan focused and pushed through the memetic effect and got a good look at Ari Kai. The man's deeply tanned and weathered skin seemed out of place on an immortal, but Long Zhiyuan had seen weirder.
+
+Instead, he looked at— Nothing. Because there was nothing and no one there.
+
+It was just a rock.
+
+Long Zhiyuan looked at his clones and saw one of the three still had someone sitting on the rock. Seeing that seemed to break the forgetfulness, and Long Zhiyuan was able to see Ari Kai once more.
+
+That seemed to catch the man's attention, and he finally looked up from the pond and at Long Zhiyuan, though his hand never stopped scratching the head of the small, shadowy dog on his lap. “You’re good at this, aren’t you? Not many people find me first. Anway, if you remember this conversation, sorry about the trouble. Wish I could turn it off, but you know.”
+
+Long Zhiyuan immediately dedicated a clone to reminding himself of Ari Kai’s existence. It would never tire or stop, which should prevent the clone— and therefore Long Zhiyuan himself— from forgetting Ari Kai’s existence. It wasn’t a perfect counter, but a decent one for now. He’d have other clones work on something more permanent, but he didn’t want to suddenly forget the man until the moment he was driving a blade into Long Zhiyuan's chest.
+
+That didn’t mean he shouldn’t be polite. “It's an incredibly strong Talent if it can even briefly affect me. I look forward to doing battle with you.”
+
+Ari Kai rolled his eyes and Long Zhiyuan noted the man didn’t seem to have any practice at controlling his emotions or reactions. Undoubtedly, he was far too accustomed to those few individuals who noted his disrespect simply forgetting soon thereafter. It was sloppy.
+
+Good for Long Zhiyuan, though. Someone who relied on their Talent too much would be easier to plan against.
+
+Stepping away and pretending to forget about Ari Kai’s existence tested the man's Talent. He found that even his [Spiritual Self] would stop displaying reminders about the antimemetic at seemingly random intervals.
+
+It was a bizarre power that somehow felt perfectly suited for the Republic and their foolish notions of secrets and hidden worlds, going so far as to hiding their own presence from mortals, instead of basking in their worship as was the right of the strong.
+
+Moving to his room, Long Zhiyuan scanned it for any hidden spying devices. And after removing the obvious bait ones, he noted where the actual ones were.
+
+He couldn't even be sure they were put there by the other Great Powers, as his own was more than willing to spy on him as well. The only place he could be without concern was his Talent, as that was his only true place in the realm.
+
+Himself.
+
+Long Zhiyuan meditated for the two weeks between his arrival and the first group meeting, blocking out most of the rest of the world to speed up his simulations. He had been given a list of members in the Harmony Accords and their abilities, so he needed to put them to good use.
+
+With his spiritual perception, he was able to feel a number of others gathering a few times in the garden. But they seemed like simple chance encounters and not deliberate gatherings, so he ignored them after running a few simulations centered around the people involved.
+
+It never hurt to be prepared.
+
+Unfolding from the lotus position, he stood and moved to the assigned meeting place.
+
+A few people, mostly from the Federation, were already present, but when he saw two mostly-identical men in black robes, one blue-skinned with green hair, and the other green-skinned with blue hair, he froze. Few people knew of their existence, but Long Zhiyuan was among those privileged few.
+
+Jai Meng and Jai Xilu. Synoid and Crastor.
+
+Were Long Zhiyuan’s heart not already stopped for training purposes, it might have frozen at that moment. No matter their mother had left the battlefield millennia ago, the Lady of Ill Dreams cast a very long shadow, and her children being present utterly petrified him.
+
+Among those few in the know, wild rumors circulated that she had mated with a Nightmare Unicorn, or molded the twins out of the blackness of space, or wrenched them out of the dreams of one of her enemies. Such speculation seemed mad, and yet if anyone had managed to seduce a Nightmare Unicorn, an entity barely bound by the normal laws of rifts, it would be the Sect’s Master.
+
+It was in many ways more plausible than imagining the Lady having had children with someone… normal. Some people said that she might have had other children, but Long Zhiyuan knew of none of them. Nobody dared peer too closely at the Lady of Ill Dreams, for she had earned her title a million times over during her reign of terror upon the battlefields.
+
+Even his own Sect Master, at Tier 47, spoke of her with a mixture of fear and trepidation. Even if he himself was likely to be unaffected by her curses, she would surely make him pay for any insolence just as surely as a sect elder being disrespected by some outer disciple.
+
+If her children were here, it was eminently possible that she was as well, lurking unseen by all, looking to see those who would disrespect her progeny and preparing to inflict mighty vengeance upon those who gave insufficient face. Long Zhiyuan did not know what Tier she was at this moment, but even if she were Tier 25, he would never have a chance to see, let alone challenge her before he was defeated.
+
+It would be a waste of a clone to even bother simulating it, and possibly even dangerous. The Talent diviner had called his clones daydreams, and he dared not challenge the Lady of Ill Dreams in her own domain.
+
+Nevertheless, he was surprised to see the twins present for such a dangerous mission. When he had learned of their existence, he had been cautioned that their mother had once killed a man, and cursed all the immortals in his entire family, for simply loosing a small measure of killing intent at the same auction as Jai Meng and Jai Xilu.
+
+What if they died on the battlefield?
+
+Long Zhiyuan didn’t like any of the answers he got from that simulation. Masters were weird and from all reports battle maniacs. He didn’t want to know if her ire might fall on the twins' allies if they fell. For all he knew, she would congratulate the actual killers and rip everyone else's spines out of their backs slowly.
+
+He made a simulation dedicated to avoiding such responsibility before giving up. If a Master wanted him dead, there was nothing he could do to stop it.
+
+At least the twins were easy enough to tell apart with sight. Their inverted skin and hair colors more than offset simply how identical they appeared to his spiritual perception and other senses. Though, he would be hard pressed to tell them apart if they were hiding, so he immediately put a clone on working that out.
+
+With an effort of will, Long Zhiyuan pulled his eyes off the twins and inspected the rest of the people in the room.
+
+Maven barely bore consideration after her repeated failures, but Gan Le was a fellow former Young Master with a reputation for being invincible. Long Zhiyuan expected such stories were overblown, but the simulations he was running of the man had yet to find a weak point. Time would tell, but he had yet to find any actions which so much as ruffled the man’s long, untied black hair.
+
+He would, if nothing else, serve as an adequate shield-bearer of sorts, with the ability to share his invincibility with those that he was near.
+
+Long Zhiyuan also approved of the man’s lack of visible iris and pupil on his eyes. With some training to disguise the focus of one’s spiritual perception, having no obvious visual indication for the direction of the man’s gaze would make the man’s actions less predictable for an enemy.
+
+Following his fellow Sect-mates, the Federation individuals were most interesting, albeit mostly in a morbid way. Of the three Great Powers represented, they had sent the most representatives. A group of eight stood iron-faced on one side of the room, while two others lounged on the other side. All ten of them were, of course, the hideous blend of metal and flesh which the Federation debased themselves with, but the stark divide in bearing and position was most interesting.
+
+The old guard and the new guard.
+
+The difference was notable enough that Long Zhiyuan wondered if the Federation would end up splitting again. Unlikely, as there was no way a Tier 50 could rise up and challenge the current one, but the obvious divide was interesting.
+
+From his reports, the eight soldiers were part of some experimental program, with cybernetic enhancements to greatly empower them, as well as share that power in certain circumstances. He’d expected something like that to be blindingly obvious to spiritual perception, but the alleged enchantments were so perfectly integrated that he saw no sign they were even there. He saw a handful of metallic graftings, of course, but they were all trivial and typical for the Federation, nothing particularly experimental or powerful. Perhaps the secret was that, like some intelligence had suggested, they’d been first implanted before awakening. Similar concepts seemed to have worked for the Clans in the past, and Long Zhiyuan could imagine the Federation uncovering something similar.
+
+A truly interesting way to develop oneself.
+
+The other two were far more typical for the Federation, their spirits very obviously showing the joins where their bodies had melded with crude metal, in a twisted attempt to gain the power of metal with none of the discipline. Saziel Omdahl scarcely attempted to hide his bastardized nature, thick silver bands like blocky tattoos tracing his limbs and defacing scarred and stitched flesh. Yet somehow, Eliana Ellrin managed to be simultaneously more and less grotesque.
+
+Her body was almost entirely machine, a thin veneer of skin running from the top of her head to the upper portion of her torso was the only ostensible remnant of her humanity. A golem-like torso and limbs, a potent yet exposed silver spine, and countless whirring cogs were a blatant affront to Long Zhiyuan’s eyes, yet to his spiritual perception, she shimmered in a not-hideous superposition of wholly woman and wholly item. A side effect of her Talent, no doubt, which was believed to cause her body to be simultaneously artificial and natural, yet always in the way which benefited her the most.
+
+Undoubtedly, she had been chosen as a foil for Ascender Legion. The Empire’s newest Masters were remarkably good at fighting entire armies, and that was in part due to Legion’s ability to turn one’s own body, or the body of one’s weakest allies, into her own weapons. Yet Eliana was entirely immune to any body or blood-based spells she personally did not desire to affect her.
+
+That left the Republic fighters.
+
+First was the duo of Oskar Koita and Valentina Rana, the pair which Long Zhiyuan was most fearful of outside of Synoid and Crastor. Oskar was by his own merits a potent tank and mobility expert, though naturally inferior to Gan Le, but was most valuable when serving as a spotter for Valentina. The woman had a truly terrifying record of reported kills, including of elites. In the last war she fought against the Sects, she had slain two Dao Children without them so much as detecting her presence.
+
+In his simulations, she was always their best chance at killing one of the enemy Masters, and even Long Zhiyuan himself struggled with the hyper long range sniper when he pitted them against each other.
+
+Ari Kai was no more interesting than before, simply eating an apple with a bored expression on his face, so Long Zhiyuan moved past him to Lorlael Drisan.
+
+The woman, wearing a long brown coat and dark glasses, was something of an inverse to Valentina. While the sniper focused upon singular overwhelming attacks, Lorlael’s magic built upon itself with each cast, gaining strength and a myriad of effects the more she attacked. The exact mechanisms eluded discovery, but it was undeniably most effective when focused upon a single individual. It was frustrating for his clone to practice against her, as a one-on-one mage duel was where she was most potent, but that same strength would make her an adequate ally.
+
+Long Zhiyuan was even hopeful that she was a half-decent counter against Master Light. In his simulations, the seemingly random secondary effects caught the Master off guard more times than not. Though, that admittedly could be based on the faulty model he had of the man. He would need to see him fight in person, with his techniques and Revelations watching and learning before he could rectify that misconception.
+
+The final core member of the Harmony Accords was Colton Johnston, a second gunslinger from the Republic. It always stymied Long Zhiyuan that the Great Power had such a prevalence of the crude, inferior, expensive weapons. But it was a testament to their fighters that they were as capable as they were with such weak weapons. Colton was leaning against a tree, a large brown hat pulled down to obscure his eyes, and he kept impatiently drawing a small gun from its scabbard at his waist, twirling it around his finger, then replacing it in a single motion. While he didn’t know of the man’s Talent or Revelations, nor did the information that his Sect Master provided reveal them, he had a reputation for lightning-fast precision attacks.
+
+The man dipped his head slightly as he noticed Long Zhiyuan’s attention upon him, but if he planned to say anything, he was cut off by a new woman entering the room.
+
+Her deep purple skin was stretched tight across her bones like someone had attempted to dehydrate her and paused half way through, however, under that feeble appearance was a master of planning that undoubtedly dwarfed his own.
+
+Supreme General Alicia Fortan glared at the collective audience as her eyes darted from person to person. “Good, you are all here. Follow.”
+
+While some of the others looked disgruntled at the casual treatment of some of the strongest elites in their respective Great Powers, Long Zhiyuan immediately liked her. Straight and to the point. He and this Republican tactician would probably get along, which made him eager to see what he could learn from observing her.
+
+As far as his information sources indicated, Alicia had something between a foresight Talent and a simulation Talent. Her own answers were often contradictory in nature, but that only highlighted her battlefield genius.
+
+While she didn’t excel at directing war fronts, any battlefield she was personally commanding was almost guaranteed to win… so long as the numbers were relatively even. Even masterful planning couldn’t turn a rout around, after all.
+
+The briefing room they entered was simple and clean with zero artistic touches, which felt a bit too “Federation” to Long Zhiyuan, but he put his personal feelings aside as he took his seat.
+
+The moment they were seated, Alicia started speaking. “I’m sure you all know each other by now. I’m sure you will be best friends by the time our training period ends, but before we can start training, we need to learn about our enemies. Obviously, everyone knows bits and pieces of this briefing, so don’t complain if you see something you already know. If you have something that isn't covered, do feel free to speak up after that person's briefing. For the sake of this briefing I will be using ‘Ascender’ to refer to the Master, Slayer or Gladiator.”
+
+Immediately, a picture of Masters Light and Shadow appeared in the hologram in the center of the table.
+
+“Ascender Light, Ascender Shadow. This duo is most devastating in small-squad contexts, with overwhelming power leveraged surgically at any and all weak points presented to them. They are versatile, flexible, and nearly impossible to contain.
+
+“We have a pretty good understanding of Ascender Light’s capabilities, but knowing what he can do and being able to counter them are two different things. He is a prismatic mage with an unprecedented level of control. He is capable of countering and stealing spells with utmost ease, twisting them and redirecting them in nearly any way he desires, including changing its aspect. Furthermore, he utilizes both arcane and void mana to great effect, though only rarely uses the latter. Any elemental weaknesses will be mercilessly exploited, but even when using no spells his ability with a rapier is not to be underestimated.”
+
+After a stream of data about his capabilities flickered past, the hologram changed to Shadow. “Ascender Shadow. Teleporter and spatial manipulator, and incredibly slippery. We’ve yet to fully be capable of blocking her teleportation, which implies she has multiple redundant abilities which may be used interchangeably. We have a few methods which we want to try, but go forward with your training under the assumption that she will have access to some degree of teleportation in every fight. In combat, she fills the role of a support assassin, directing Light’s spells with pinpoint accuracy, welding daggers which she can freely control the size and sharpness of, and augmenting her already chaotic movements with shadows for additional uncertainty about where and when she will strike. Furthermore, we strongly suspect that she is attempting to conceal some form of long-range teleportation ability. The exact limits are unknown, but she is at minimum capable of interplanetary teleportation with mass limits extending up to medium-sized spacecraft.”
+
+Long Zhiyuan cocked his head at that suggestion but hesitantly agreed. The stories of the Ascender’s response time and awareness of attacks implied either multiversal-level teleportation or predictive power which rivaled that of the Master Cosmind. If true, it certainly would make scoring an actual kill on one of the enemy Masters nigh-impossible should they wish to escape.
+
+“Their next set of Ascenders, Ascender Titan, Ascender Legion, and Ascender Wraith, are not to be underestimated despite their comparatively new standing. These three may be the most infamous for their potency against entire armies, demolishing hundreds of troops with as much or more ease than most Ascenders facing a singular squad.
+
+“Firstly, Ascender Wraith. She was, by all reports, found as an arctic fox egg bond by Ascender Titan circa Tier 1 or 2, but has since modified her bloodline twice, moving from ice to winter at Tier 10 or 11, and more recently from winter to aurora. Our analysts indicate that she is not content to remain there, and may transition at some point to yet another element. In combat, she is incredibly elusive and indirect. Expect large-scale debuffs, potent antimagic, massive illusionary trickster fields, and general tactics designed to harass and disable your strongest abilities. However, she does not lack direct offensive options, and most notable are her ability to manifest a skill in the form of an elemental, with corresponding shapes and abilities. She has only ever been seen utilizing two of these simultaneously at any given time, though it is possible her true limit may be higher.”
+
+The image changed to show the redhead of the group. “Ascender Legion, who some have taken to calling Immortal. It is our job to prove that assertion wrong. As the daughter of the Empire’s two Tier 48s, she demonstrated exceptional mastery over fire even as a child. After Awakening, she devoted herself more to the utilization of blood magic, but remains a quite powerful pyromancer. In combat, she acts as a nigh-invulnerable berserker, draining the blood from those she wounds or kills. This blood is either consumed by herself or her weapons for additional strength, or usurped to empower further spells she casts, such as forming clones with nearly the full strength of the original.”
+
+A recording from a Federation soldier showed Ascender Legion explode out of the body of a Federation woman. Then they watched as Legion flowed around the attack of an ambushing soldier before she started cutting into everyone around her as more and more clones appeared.
+
+“Expect blood curses, swarm tactics, and insidious poisons from her primarily, but do not underestimate the breadth of abilities she has demonstrated mastery with. She is an excellent pyromancer, and can certainly match any hydromancer with her grasp of kinetic blood skills. However, she does seem to maintain a spiritual connection to all blood under her control, giving it a strong resistance to most anti-magic tactics.”
+
+The image changed to a blond man. “Finally, Ascender Titan. A former no-name, he has proven to be an exceptionally potent generalist, with impressive physical and magical cultivation. His primary focus, however, appears to be on self-buffs and enhancing his longsword skills. We have identified both [Regeneration] and [Archmage’s Presence] skills active, making him devastating in close combat, but he certainly does not lack for ranged ability either.”
+
+A recording of the Master firing a crude [Pillar Of Pure Annihilation And Destruction] and cutting through dozens of soldiers before the recording changed to an unrefined [I Shatter The Walls With My Might] many times larger than even a group casting should have been able to manage. Then the image showed one Long Zhiyuan was familiar with, and he once more watched the Master take a core detonation to the face and return to the fight just moments later. It was a feat he was still trying to replicate in his simulations.
+
+“He is also a master of high-mana spells. The [Breach] in that recording contained over a hundred million mana, and was utilized as an opening move. Current analysis suggests he might have a Talent which allows for lossless absorption of mana stones, though there remains the possibility that it is simply cover for an alternative source of mana, such as one of his teammates or his armor. It is possible to drain mana from him, but this seems to be of negligible impact to him. In combat, expect simple overwhelming power behind both his sword and his skills. He utilizes fairly straightforward elemental effects to devastating effect, though favors lightning and neutral-mana spells, and utilizes a suit of power armor second only to those of the Paladins.”
+
+Alicia’s sunken eyes flicked over the group. “I expect all of your utmost focus to be upon defeating these five individuals, as well as the suite of elites they travel with. Are there any questions?”
+
+Long Zhiyuan only had one. “When do we start?”

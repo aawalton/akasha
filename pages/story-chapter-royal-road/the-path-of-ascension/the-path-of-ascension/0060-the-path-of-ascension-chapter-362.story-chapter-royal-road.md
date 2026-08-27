@@ -1,0 +1,315 @@
+---
+id: ab9a7ecb-f5ce-5c4f-a429-5e4c1f87369c
+page-type-slug: story-chapter-royal-road
+title: "The Path of Ascension Chapter 362"
+slug: 0060-the-path-of-ascension-chapter-362
+partOf: the-path-of-ascension
+position: 60
+ownLength: 4961
+unit: words
+ownProgress: 4961
+publishedAt: 2024-10-28
+link: "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/1872766/the-path-of-ascension-chapter-362"
+royalRoadId: "1872766"
+markedReadAt: "2026-06-29T19:19:39.662Z"
+---
+
+Chapter 362
+
+Once their meal drew to a close, Sien brought them to a world three links away for their next rift. It would have been pretty typical if she hadn’t literally brought them, no ship involved. Instead, she’d used some kind of smoke-cloud skill to cart them directly through Chaotic Space with barely a bump. Allie complained it was too slow and not luxurious, but it was still faster than any comparable Tier ship would have been.
+
+When they asked about the method she was using, they only got intentionally cryptic answers about the realm of dreams and its unlimited reach.
+
+Unlike her favorite rift, the rift they were about to delve was famous.
+
+Well. Relatively. He knew about it, and a number of non-aperology hobbyists would be familiar with it, but none of the other Empire Ascenders had heard about it before he mentioned it. It was known as the Rift of Challenging Heavens, and pushed the limits of what was thought to be possible in a rift.
+
+The simple entrance to the rift was already incredibly elaborate, with white marble and gold trim found in abundance, thanks to the sect that owned it adopting some of its visual motifs.
+
+There were a few groups on standby that seemed ready to delve the rift should a team not show up, but their slightly irritated expressions were replaced with servile smiles the moment they saw who was escorting them to the rift.
+
+Matt almost wished that Sien wasn’t there. He would have loved to see the Tier 28’s expressions once they realized the weak Tier 26’s could kick their asses to the local star and back without breaking too much of a sweat.
+
+Or maybe they would be the ones to get their asses kicked. One of the women in the second group gave Matt a dangerous feeling, and he returned her stare with one of his own. Her right arm was ghostly and had an ethereal aura which caught all of their attention.
+
+“I wonder if she’d let me borrow that arm?” Allie's comment surprisingly pulled a laugh out of Matt, which broke the tension he had been feeling.
+
+According to legend, this rift dated all the way back to the Glorious Everlasting Kingdom of Prosperity. It was one of the few places that had survived the Shattering and provided a peek into ancient, ancient history. If that were true, it was basically a time capsule, a final, tenuous connection to something that everyone had long forgotten.
+
+It made Matt wonder. Would the Empire one day be in a similar situation? A scant few rifts and ruins dotted about the Realm, preserved as a final memory of that which had once been abundant? If they lost their eventual true war, would places like this be the only sign they had once existed?
+
+No.
+
+He refused to let that ever come to pass. So long as he lived, he would keep the Empire alive.
+
+If he was strong enough, he could dictate the rules and prevent this from happening to the Empire.
+
+That thought rang true, and he felt his spirit stirring in a way he’d never forget. There was the potential for an inspiration if he delved down that thought far enough, but if he tried to force it now, he would lose whatever tenuous resonance made that very inspiration possible. So he let it pass. It could sit in his subconscious until he was in a better place to finish it.
+
+There were a lot of things Matt could do, far more than the average person, let alone the average Tier 26. But at the same time, there were a lot of things he couldn’t do, and that was ok.
+
+As they neared the rift, they had to wait for two teams to cycle into the rift, which surprised Matt yet again. Low Tier rifts might be delved on cooldown, but it was extremely rare for a Tier 28 rift to be so heavily delved.
+
+Doubly so were the mana crystals the delving teams needed to present as proof they had enough mana to pay for their cycle of the rift.
+
+A quick probe of the rift told Matt that they were delving the rift at as close to full capacity as was possible.
+
+Though, not quite.
+
+Looking to Sien, Matt asked, “Can we burn a second instance to make sure the rift is actually full?”
+
+“The rift is well tended-to, fear not. Thy rewards shall be plentiful.”
+
+Matt shook his head. “It's close to full, but not actually full. The rewards will be good, but not full good.”
+
+Sien turned her red eyes to the guards watching the rift, who visibly swallowed. “Mistress, I’ve informed the curator and he is rushing over immediately.”
+
+It took ten minutes, but the frightened man apologized profusely for the actions of his predecessor, who had allowed the rift to dip slightly below full. They immediately had one of the tenders dip inside with a bag full of mana crystals, then leave the bag inside as the instance cycled fifteen minutes later.
+
+Once that happened, there was a noticeable increase in the presence of the rift and they were ready to delve.
+
+Matt smiled as they entered the rift.
+
+Even as he went through his extensive buffing routine, he scanned the rift around them.
+
+They were standing on a floating island in a pristine blue sky, with a few dozen other islands floating around them.
+
+The air was slightly cool, but in a refreshing way, thanks to the light from the false star of the rift beating down on them.
+
+It was, on the surface, absolutely idyllic.
+
+Matt saw the rift monster on the nearby island and took a moment to inspect it.
+
+A single humanoid close to seven feet tall with alabaster skin, golden eyes, golden hair, and massive white wings. Its face was distinctly masculine, but with all the features that most people considered attractive. The ink-black lines that seemed like tears running down its cheeks might ruin the aesthetic for some people, but with Liz’s penchant for blood tattoos, Matt didn’t mind. The monster was almost attractive, if not for the scowl of rift rage that was carved on the statuesque face.
+
+The moment they moved off the safe platform, the monster reminded them that it was, in fact, a monster made by a rift rather than anything to ogle.
+
+The wings turned gold as light mana infused them, and each wing turned into a giant array that bolstered the [Light Beam] it shot out of its eyes.
+
+Matt intercepted the attack with his own [Mana Beam], letting the two titanic beam spells slam into each other. He could have overwhelmed the beam by dumping more mana into the spell, but he was interrupted as the angel exploded in a spray of light mana.
+
+Turning to Zack, he shook his head. “Come on, man. I was having fun.”
+
+To his surprise, Zack actually looked sheepish. “Apologies. I anticipated that the array would be more stable than it was.”
+
+Aster laughed at Matt’s expression, but Allie floated upside down by his left hand and asked, “How much mana was that angel throwing out, roughly? That was a pretty beefy [Mana Beam].”
+
+“About 5 million MPS, yeah.”
+
+Liz whistled. “Ok, so the information about their power isn’t exaggerated. Kinda hard to believe the rumors.”
+
+Their musings were cut off as a patrol of three angels started flying over to inspect the disturbance, which was where the rift’s most famous peculiarity came into play.
+
+The lead figure, a female angel, started yelling something incomprehensible. It was, so far as anyone knew, roughly as meaningless as the false-generated text in Rift made books. But considering the angels were one of the closest things there was to an ‘intelligent’ rift monster that anyone had seen, there were always doubts and rumors to the contrary. Some people claimed that with a linguistic Talent, or some special modification to [Comprehend Languages], you could understand what they were saying. Of course, those reports were split between those saying the angels yelled generic-sounding judgements about them being impure, and them leading to a hidden route through the rift. So Matt was skeptical that any of them were true.
+
+Either way, none of their group were able to understand what was being said, and even if they could respond, the angels would still attack anyway.
+
+The woman’s massive wings spread and a golden spear appeared clenched between her hands as she channeled a titanic amount of mana through her wings and staff to cast a zone of control spell.
+
+Matt felt all non-light spells weaken, while light spells were bolstered to a corresponding degree.
+
+By the time the woman finished her spell, her companions were clad in golden armor and wielding swords and shields.
+
+The female angel flew backwards with a flap of her wings and pointed her staff at them, but Aster intercepted the chains of light with a counter spell.
+
+Matt flew forward and engaged with one of the male angels while Liz took her place as a frontline fighter next to him. Together, they entangled the monsters and prevented them from rushing down Aster and Zack. Allie was somewhere, but where exactly was a mystery to Matt, as he couldn’t feel her presence anywhere in the few dozen miles around them.
+
+Not that they needed her help. As Zack had proven, the angels had a critical flaw in their wings, but taking advantage of it again would have ruined the fun. Instead, they were fighting the monsters the way they were intended to.
+
+The fact that [Cracked Phantom Armor] got progressively better at defending against the attacks as it attuned itself to light mana, and that attack specifically, wasn’t cheating at all. Sure, it made his armor glow way brighter and gain a minor blinding effect, but even that was absolutely just a valid part of Matt’s core kit, no matter what Aster said.
+
+To not circumvent the entire challenge, he focused on his sword fundamentals and worked to defeat his opponent that way. The angel wasn’t on his level, but its Tier advantage still meant it was beating him. Not by much, but the slight advantage had him working to hold his ground.
+
+With her similar match up and longer range weapon, Liz was doing slightly better with her spear, but she still wasn’t choosing to overwhelm her opponents with numbers. Like Matt, she was slowly whittling down the frontline fighter engaging her.
+
+Zack and Aster had it far easier as they took the time to either pick apart the mage angel’s spells, or in Aster's case, counter any of the support spells it cast.
+
+It took almost five minutes, but Matt had finally hacked through the shield. And without the defensive wall, the angel before him quickly fell, letting him fall onto the mage.
+
+She tried to conjure a wall of light to block him, but with [Cracked Phantom Armor] aspected to light mana, he slipped right through with only a spray of sparking light mana to signify his passage.
+
+One swing of his sword bisected the monster and ended that portion of the fight.
+
+He did, however, notice that even as her body started to dissolve into light, a single feather remained in its place.
+
+That was incredibly lucky, and as Matt reached to snag it, he found a starry hand already grabbing it.
+
+“Got it!” Allie’s appearance wasn’t surprising, and neither was her snatching the prize.
+
+Loot in hand, she sauntered over to Aster and stuffed the golden feather into his bond’s tail. “Ta da!”
+
+Liz finally pierced the last angel's shield with a skill empowered thrust and joined them, looking at their small collection.
+
+“One down, seven hundred and seventy six to go.”
+
+Liz finished draining the male angel before letting the body drop into the emptiness, and a second phoenix took its place on Aster's shoulder.
+
+“I doubt things will be quite so easy after this.”
+
+“Oh, definitely not. There are three groups rushing this way now.”
+
+Matt cursed Allie for not telling them that immediately, but she didn’t vanish this time, even as the three groups’ mages worked together to cast an even larger zone of light buffs.
+
+Aster dispelled their effort, which had a significant backlash and caused one of the male monsters to lose an arm as the mana they were channeling through it spiraled out of control.
+
+Matt had his hands full on his end as three angels, two women and a man, tried to circle around him to get to Zack and Aster.
+
+Allie appeared next to one, her daggers already pressing into its throat, but the moment she tried to drive the blade home, the damage was transferred onto her own neck.
+
+Teleporting away, she clutched at her throat. “Not this variant! Come on.”
+
+A bolt of silver metal pierced one of the melee angel’s defenses and sent it staggering back.
+
+Zack didn’t suddenly have a hole in his chest, which showed that he had identified the correct monsters.
+
+It was annoying that they had gotten this variation, but it wasn’t the end of the world. This instance of the rift wasn’t without its limitations. Because they got reflect monsters, they couldn’t also get the regenerating monsters, which was considered the most annoying variation. Healers meant that you needed to kill every monster twice as their bodies reconstituted from critical damage, but it wasn’t as ideal as getting the swarm variation, which just had more monsters than normal.
+
+The monsters that cast the reflect just had to be identified and taken out first before the others could be dealt with.
+
+Allie appeared next to the monster Zack had identified, but a golden cage trapped her the moment she appeared, cast by one of the backline mages. Aster immediately encased Allie in a burst of snowy illusion, and she was free a moment later.
+
+Still, the interruption slowed her down long enough that the reflected monster was able to retreat to the mages and get healed.
+
+Phoenix Liz launched herself off human Liz’s shoulder and sent a barrage of feathers at the melee soldier who made the mistake of blocking with his shield instead of dodging. Instead of just bouncing off his armor, the feathers turned into lines of blood which then burrowed their way into the monster's arm.
+
+Matt took dozens of wounds, some self inflicted, as he lashed back out at his attackers. But all of his wounds healed almost instantly, and the monsters started cheering at his supposed damage. Instead of stopping, Matt continued attacking. He was determined to keep pushing forward, as once Liz killed the reflector, he could use his position to inflict lethal attacks.
+
+The mages tried to heal and purge Liz from the angel's flesh, but their golden magic wasn’t a match for Liz’s golden ichor. In just seconds, she had consumed the angel from the inside out. A Liz freed herself from the confines of the angel’s body with a spear leading the charge, which took one of the mages in the gut, spreading ichor like a plague.
+
+With the reflector dead, Matt cut down two of the melee angels in quick succession, but he was still slower than Allie, who teleported in close to finish off the remaining angel mages.
+
+“Not a single feather? That's bullshit.” Allie’s complaint struck a chord, so Matt tried to lighten the mood.
+
+“You know, according to legend, the pre-Shattering Everlasting Kingdom of Prosperity managed to de-aggro the angels. Th—”
+
+“I bet they were just trying to bang them.”
+
+Matt paused at Allies comment. She probably wasn't wrong, but that was weird. Humanoid monsters were still monsters. The ethical issues with such an action were numerous, but at the same time, it fit with what he knew of the Everlasting Kingdom royalty and their habits of elevating themselves above all such criticism.
+
+“No matter their relations with the angels, there are a few surviving recordings about winged humanoids that match the description. That’s part of what makes the rift so unique. Because no one since has managed to get the angels to breed without the all consuming rage of rift monsters. But there aren’t any new rifts with angels, and you know what that means?”
+
+Aster shook her head. “No, actually. What does that mean?”
+
+Matt put on his best spooky voice. “If all of that is true, and the theories on rift monsters becoming sentient are correct, that means, there is a population of angels somewhere. Possibly lost to chaotic space in the war that saw the Everlasting Kingdom dismantled. But it's impossible to know. Officially, there were no planets with angels lost, but there were close to a hundred that are recorded to have been cut off and lost to the vastness of chaotic space.”
+
+He was interrupted by Allie blowing a very loud raspberry. “You read too many crazy theories. This is what science does to the brain. Better to fill it with shitty movies and bad novels.”
+
+Matt raised an eyebrow. “Care to elaborate?”
+
+Instead Liz answered, “I think I agree with Allie on this one. I did my own research after you talked about this rift. Depending on who you listen to, it’s absolutely known that angels were the original dwarves, that they are still secretly living in the Corporations, and that they were actually just bird bloodlines with wings in their human forms. Give me a couple weeks and I could have wings just like them in human form. Honey, at least like half the stories about this place are outright lies and the other half are just wrong. Nobody knows what’s up with all this, and if anyone does, they aren't sharing. Hmm… maybe we should ask Aunt Helen and see if she’s heard of the rift?”
+
+Zack shook his head, clearly still contemplating Matt's theory. “Better answers than being lost to the void. That is a fate possibly worse than death. To the immortal, unable to pierce reality to chaotic space on their own, it’s condemnation to a single universe until eventually their essence cores Tier them up on its own. Or ruining one's foundation by absorbing lower Tier essence in the hope to advance enough to exit. To the non immortals, it's possibly worse. They might die and find release that way, but any descendants are trapped there and stuck with whatever Tier of planet they have. It's not a fate I would wish on even my greatest enemy.”
+
+Allie shook herself like a wet dog before kicking in Matt's direction. “Ok, that's a dark thought. I’d never get trapped like that, so I definitely don’t need to let my mind start imagining the awful possibilities. Fuck you, Matt. It would have cost you nothing to not share that.”
+
+“It would have cost you nothing to not stab me when you came to pick me up.”
+
+“Physical trauma isn’t nearly as bad as mental.”
+
+“It's both for me, damn it!”
+
+They continued their bickering for almost half an hour as they cleared the surrounding islands of angels.
+
+The topic of the angels still being out there somewhere, possibly locked on a single planet circling around in chaotic space came back up a few times, eventually with Allie deciding that she was going to grab a chaotic ship from Lila and go exploring the depths of chaotic space once she was Tier 30 or so.
+
+Aster and Liz correctly– at least to Matt– argued that it wasn’t exploring if Allie just teleported back to the Empire every few hours for snacks, but Allie argued that the only important detail was what she saw and not how she saw it.
+
+It was an interesting idea though, and Matt decided that he’d probably go on an adventure like that at some point.
+
+Chaotic space was said to be a nigh limitless whirlpool with the Great Powers at the metaphorical center, and from the stories Lila told from her guild, things could get weird the further you went away from the collective Great Powers.
+
+It wasn’t entirely clear why the Great Powers were in a comparatively tame section of Chaotic Space, as they weren’t tethered to anything except each other, but one branch of speculation had it due to the presence of high Tier individuals, especially Tier 50s. None of the theories for why the Tier 50s made local Chaotic Space calmer agreed in any way, but it was a sensible enough guess by Matt’s estimation. It was a known fact that no cultivators above Tier 45 lived outside the Great Powers, and while there were some planets that strong, they had no inhabitants.
+
+A fleeting thought made Matt smile. If they were able to get Allie to establish a waypoint on a high-Tier planet deep in Chaotic Space, they could build a secret base way, way out from civilization, and Matt could create a readily-farmable Tier 48, 49, even Tier 50 rift with none the wiser.
+
+He could see half a dozen issues with the idea, but it was something to consider. Issues that could possibly be solved weren’t really issues.
+
+Matt’s musings sadly were put to rest when they approached their first city.
+
+Despite being a flying city that had no need for walls, the golden city had thousands of soldiers marching on its massive, two hundred foot tall walls. They also had archers and anti siege equipment, cannons, and ballista at the ready.
+
+The mana cannons predictably shot pillars of light, but the ballista were more ordinary, which gave them a degree of danger not present in the purely mana based attacks.
+
+Zack was able to pick apart the mana cannon spells, but they still needed to assault an entire coordinated city with just the five of them.
+
+Matt led the charge through the rain of arrows and ballista bolts, while Zack dispelled every magical attack sent their way. Aster thankfully kept most of the dispelling spells from landing on [Bulwark] while also counter spelling the debuffs and traps.
+
+Allie had tried to teleport inside the city, but there was a ward around the edge that even she found difficult to pierce. Matt made a note to try and learn something from the city’s wards if enough of them were still standing at the end of the fight, but he doubted that would be possible.
+
+Things got a lot easier once they landed on the city walls.
+
+They were suppressed and locked down with a litany of debuffs that even Aster couldn’t dispel, but that was standard in a siege. And if they were so easily countered, they wouldn’t be so widely used. The largest issue were the rows of heavily armored angels trying to repel them from the walls.
+
+Matt and a Liz ran forward to a guard tower, fighting through the phalanx of armored angels. Liz spread out over his body while Matt forcefully killed his way to the mages and what they hoped was the reflect angel of the area.
+
+In their killings, they noticed those angels had a distinctive silvery sheen that, while subtle, was noticeable if one looked carefully.
+
+When Matt arrived Liz slithered forward, down, and over his blade, digging into the angel even as Matt stood his ground over the writhing angel, protecting Liz from the attacks sent her way.
+
+Even a crystalized [Bulwark] started to falter under the barrage of blows, which forced Matt to block with just [Cracked Phantom Armor]. The spell quickly adapted, but that didn’t stop the ballista bolts from trying to send him flying off the battlement.
+
+It got so bad that Matt had to lock himself in place with his Intent, but everything changed when Liz finally killed the reflect angel.
+
+A [Mana Beam] cut a swath out of the attacking angels, but Matt didn’t let that stop him and continued to play the beam across until he was met by a light beam.
+
+Not wanting to get caught in a pointless duel with so many enemies around, Matt dropped [Mana Beam] and instead let out a deep breath empowered by [Cracked Dragonflame]. The solidified mana turned into a wall of mana almost as protective as [Bulwark], but Matt was already swapping spells to [Cosmic Pressure].
+
+A thousand times increased gravity wasn’t lethal for a Tier 28, but it threw off the monster's sense of balance as Matt varied the mana he sent into the spell, seemingly at random. It was actually a tactic from Team Zero that they’d never used, but it was still useful against the angels.
+
+Their slaughter of the city's defenders brought out a mini boss. A stunningly attractive angel who stood close to ten feet tall, along with the correspondingly large wingspan.
+
+The moment they appeared, Zack sent a flurry of metal aspected [Mana Bolt]s at them, forcing them to defend themselves with their wings instead of attacking.
+
+Matt and Liz moved in to support them, even as Allie started slipping through the rubble of the city until she got into a decent position behind the mini boss.
+
+Together, Matt and Liz threw themselves at the mini boss.
+
+The boss’s shield glowed with power before it rocketed forward, shield leading the charge.
+
+Liz met the blow with her own shield, and the resulting explosion caused the remaining half of the city to collapse. It would have been worse if not for Liz’s growth shield absorbing more than half of the physical force, but that energy was sent right back a moment later when she activated the shield's effect.
+
+Aster countered a rage filled roar, that tried to buff the mini-boss, with a cage of icicles.
+
+The angel stumbled back, which was the only opening Matt needed to cut a deep wound into its flank under its armor. Ducking, Matt avoided Liz’s spear and followed its attack up with a fully charged [Tribulation Strike]. The lightning damage spell scorched armor and flesh alike, but Matt didn’t stop and chain cast the spell with as many hits as he could.
+
+His damage was amplified by Zack driving a dozen small metal rods into the angel’s back, letting the lightning dance from location to location.
+
+The smell of burnt angel was caustic in the air, but just as the monster looked like it was going into a second phase, Allie appeared on its shoulder and drove a dagger into its eye.
+
+Its head exploded, sending blood and essence everywhere.
+
+The death of the mini-boss signified the end of the fight for the city, and the start of the clean up to look for feathers.
+
+Eleven more cities like that one needed to be cleared out, with the final having a larger fifteen foot version of the boss. But it posed no additional challenge to the five of them. The real challenge was finding the remaining feathers.
+
+It took them close to two days, even with Allie teleporting to search every nook and cranny of the rift, to get all 777 feathers. But when they did, they were able to complete the statue, which opened up a hidden area.
+
+Inside was a scholar type angel who, despite fighting valiantly, died under a flurry of irritated attacks.
+
+The room, however, had exactly the prize they were looking for.
+
+The wings of an angel.
+
+The item wasn’t just rare, it was damn near unique with how rarely it showed up on the market. Most people who got the drop chose to use them themselves for good reason.
+
+At its most basic state, the item could let anyone fly for a minimal amount of mana. Secondly, it had the ability to increase mana regeneration by absorbing starlight. And finally, the wings had the ability to improve the damage of any light spells cast with them equipped, similar to the angels’ own ability.
+
+That would only be moderately useful, as light wasn't the most common mana type, but there were several known methods to change the mana type to whatever the wielder wanted, which made them a very valuable drop.
+
+“Score!” Liz immediately grabbed the bundle of feathers, immediately casting [Feather Armory] on them. “Damnit.”
+
+She pouted as the pseudoskill refused to take, and Matt patted his wife on her shoulder, “It’s alright. Once we’re back in the Empire and have our tools, we’ll tinker with it and get it working.”
+
+“I know, but like… it’s feathers! I wanted them to work right away! Come on, they’re totally close enough.” She shook the rift drop like that might change the result somehow.
+
+“Oh noooo,” Aster teased. “Your super-awesome custom skill doesn’t work on things you just found lying around. How truly awful, that you need to make your weapons like some peasant, like an archer who can’t just use a random twig they ripped off a tree as an arrow.”
+
+Phoenix Liz just blew a raspberry at Aster in response, even as human Liz kept trying to get the spell to take.
+
+Matt was more magnanimous and went with Allie to go loot the final reward distortion, but they only got a handful of mana stones. Fifteen to be exact. They were Tier 28 mana stones, so they weren't useless by any means. But with Matt’s ability to create mana, any mana stone drop, even an above average drop, felt like a loss.
+
+“This is your fault, Allie. I told you gold was a bad color for this rift. Too much gold. It's never good to match the rift.”
+
+“Yeah, well… fuck you! I had a good feeling about the color this time. I was wrong. It happens sometimes.”
+
+Their bickering lasted until they exited the rift, where they entered a war zone.

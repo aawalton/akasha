@@ -1,0 +1,149 @@
+---
+id: a8af3faa-b188-5267-9a06-6d684b2e5048
+page-type-slug: story-chapter-royal-road
+title: "Chapter 60 – Clatter in the Dark"
+slug: 0060-chapter-60-clatter-in-the-dark
+partOf: the-magpie-and-the-archmage-monster-evo-litrpg
+position: 60
+ownLength: 2007
+unit: words
+publishedAt: 2025-12-13
+link: "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2843826/chapter-60-clatter-in-the-dark"
+royalRoadId: "2843826"
+---
+
+Despite the System contract, it was more than clear that nobody trusted Damien, and he, in turn, didn't trust them either. Everyone held a weapon in their hand at all times, even without any danger around. Every little noise made them flinch and glance at Damien while he stared right back at them.
+
+Everyone except for Liora. She was safely flying above them, paying little attention to the tension below. After all, humans were slow. If Damien did indeed start something, she could react in less than a second. He would find that his fancy armor wouldn't protect him much from a Holy Light to the face.
+
+Although she doubted he'd dare to do anything. The man, despite all his arrogance and pompousness, knew full well that he couldn't get through this dungeon alone. He needed them.
+
+So Liora focused on her own task—scouting the route ahead. They were finally past the nasty chasm maze, so they no longer had to worry about the vespertios. But the next part of the forest was no easier. Earlier, when she flew past here, she saw many herds with carnivorous-looking deer. Large wolf-like teeth, six legs, and hungry-looking eyes.
+
+She was hoping they might be able to slip past them; however, these creatures clearly had a strategy going. A group was never clustered together like you'd expect from grazing animals, but rather spread out over an area. Liora had no doubt that if one of them noticed them, then it would undoubtedly call for its friends.
+
+"Quiet," Liora warned others as they got closer to the creepy deer.
+
+"Don't command me, bird!" Damien snapped back.
+
+"I think she's warning us! There might be monsters ahead," Serena explained.
+
+Everyone went tense, and Liora could see Kiva's ears move around, trying to pick up noise.
+
+"I think I heard something over there," the weasel girl pointed out, correctly identifying one of the creepy deers.
+
+Unfortunately, there were three more nearby, and avoiding them would require them to be completely quiet.
+
+"Quiet," Liora repeated, flying towards one of the gaps between the monsters.
+
+"They must be close by," Serena whispered. "Let's go as quietly as possible."
+
+Kalen and Kiva nodded, while Damien still looked peeved, being made to shut up. After all, his favorite activity was talking about himself, even if nobody wanted to listen to him. As soon as the contract was sealed, he went into great detail about how he would reclaim his honor and continue on his whatever disciple path. Liora had barely restrained herself from pecking him.
+
+Liora quietly flew from tree to tree, deliberately staying within Serena's line of sight. She knew that if she flew too far, the humans would quickly lose sight of her. Shadow Glide worked whether she wanted to or not.
+
+At the same time, Liora scanned the distance, watching for the deer. She saw two on their right and one on their left. They hadn't spotted them yet, so she suspected their vision wasn't that great. But their eyes were turning this way and that, just like Kiva's had. One wrong sound and they would be spotted.
+
+Kiva was excellent and moving quietly. She moved quickly, but her steps were deliberate, avoiding twigs, pinecones, and other crunchy things. She took the lead after Liora. Kalen followed after her, retracing her steps. He was wobbly and somewhat clumsy, but since he stepped exactly where Kiva had, he moved forward quietly as well.
+
+Serena followed after her brother, moving quietly and choosing her steps with more care than Kiva. Occasionally, she would use her magic to move larger branches out of her way.
+
+It all would be perfect. Liora did not doubt that the three of them would be able to sneak past the deer unnoticed. But behind them followed Damien. It didn't matter where he stepped or how careful he was. He wasn't very careful to add, often stepping on dry twigs and pinecones. Twigs Liora could forgive—some were hard to spot. But the pinecones glowed in the dark.
+
+But even if he managed to avoid all those, it wouldn't have saved them. Damien's heavy armor clattered with each step. Clunk-clunk. Crunch.
+
+"Quiet!" Liora flew up to him and warned again.
+
+"I am quiet!" He spat at her.
+
+"You. No. Quiet," Liora argued.
+
+"YES, I am!" He snapped.
+
+That was the last straw. One of the deer snapped their gaze towards them and then howled.
+
+"Goddammit!" Kiva cursed. "Be ready for a fight!"
+
+"How many wolves are there?" Kalen asked, as the trio instantly got together with Kalen taking the front.
+
+"No wolves," Liora warned.
+
+Another howl resounded through the forest. Then another and another. They were spread all around them. Liora could see how the three nearest deer were already rushing towards them. Then two more joined from the back, and two followed behind the deer on the left.
+
+"Chak-chak-chak-chak-chak-chak-chak," Liora warned.
+
+"Seven!" Serena said, picking up on Liora's call.
+
+"So many! What are they?" Kalen asked.
+
+"Monster," Liora replied simply. "No friend."
+
+"We can take them," Damien said arrogantly, holding his shield and pushing past Serena and Kiva.
+
+Seeing that they were ready, Liora flew up and decided to launch a surprise attack on the deer before they could reach her friends. She chose one of the deer running at the front and then launched her favorite Skypierce at it. It wasn't very sturdy, so hopefully one hit would be enough to kill it or heavily cripple it.
+
+But just as she was about to hit the deer, it jumped to the side. For a split second, their eyes met, the cold stare of a predator honed on Liora. She realized that she wasn't the hunter in this case. She was the prey.
+
+Unable to stop her momentum, Liora crashed into the ground, creating a small crater in it. The deer had avoided being hit and jumped towards her, revealing its large mouth with very sharp-looking teeth.
+
+Liora noted that it was quite fast, but she was able to avoid its bite and fly up to safety. However, she knew that this wouldn't be an easy opponent to beat. It was as agile as a real deer, but as vicious as a wolf. Its six legs gave it incredible speed. Not to mention that they clearly worked as a pack.
+
+The deer couldn't follow Liora above the treetops, but it didn't seem too interested in her either way. Instead, its gaze snapped to Serena and others as it resumed running towards them along with the other wolf-deer. Liora flew ahead of them and began cawing loudly, positioning herself exactly above the monsters to warn others of their location.
+
+Serena, as always, was first to understand Liora's signal. A fireball flew straight at one of the wolf-deer that was a good distance away from the group. Unfortunately, it was far too agile and jumped out of the fireball's way.
+
+"What the hell are those things?" Damien exclaimed, but activated his taunt skill.
+
+Three monsters jumped straight at him at lightning speed, their teeth bared as they tried to bite out a chunk of him. If the blond man had the same kind of armor as Kalen, then he likely would have been mauled into pieces. But their teeth scraped against tough metal, unable to bite through. Damien even managed to smash one of them with his shield. But the blow didn't do any significant damage, and the wolf-deers retreated in between the trees.
+
+Meanwhile, the remaining four deer had their sights set on Kalen, Kiva, and Serena. Liora didn't know who they wanted to bite, but she sure as hell wouldn't allow it. As the monsters made their advance, she tried to Skypierce the first. The monster dodged it, after which Kiva followed up with her arrows, forcing it to retreat further.
+
+After that, Liora Lunged at the remaining three deer in quick succession. She wasn't actually trying to hit them, merely stopping their advance. Serena used her earth magic to create sharp spikes, which effectively protected the group from one side. One wolf-deer tried to circumvent it, but Kalen blocked its path, swiping at it with his sword.
+
+Somehow, they had managed to deflect the first attack, but none of the monsters had sustained any injuries, and Liora was well aware that one mistake could easily end in horrible injuries for somebody in their party. Or much worse.
+
+But Liora was far from being overwhelmed. The wolf-deer were fast, but could they dodge something they couldn't see? It was time to test that theory. She flew up and chose one of the monsters. The smallest one in the back. She dropped towards it and then Faded. There was no way it could dodge an invisible magpie strike.
+
+Or so she thought. But instead of hitting the deer head-on, she merely managed to graze one of its legs. The injury was horrible, leading to lots of blood loss, and the deer let out a miserable, pained yelp. However, this should have been a lethal hit. How was it able to dodge her while she was Faded?
+
+They must have a good sense of smell. Fade doesn't hide your scent.
+
+Liora wanted to groan. Once again, it was proved that being invisible wasn't as overpowered as movies had made her believe.
+
+But even so, the wolf-deer was injured. She wouldn't let it get away. Liora launched several Poison Shots in quick succession, trying to cover a wide area so at least one of them would hit the deer. It tried its best to dodge, but with its injured leg, it couldn't move as quickly anymore. One of Liora's Poison Shots connected with the injury. It was only a matter of time before this deer would succumb to poison.
+
+However, while focusing on one deer, Liora had forgotten about the others. Only when a hot fireball flew right by her tail did she realize that one of the deer was about to bite into her. She hurriedly flew back to the group and gave an appreciative chak-chak to Serena.
+
+"These things are too fast. I can't hit them," Serena muttered.
+
+"Neither can I," Kiva agreed.
+
+"What chance do you think we have?" Kalen added.
+
+"But they couldn't bite through my armor," Damien said victoriously.
+
+"You're signing up to be their chew toy? Be my guest," Kiva noted.
+
+"No, but this means that I can draw their attention safely. Work with that weird bird of yours to take them out one by one. She already poisoned one," Damien said.
+
+He hit his shield again, using Taunt, and the wolf-deer rushed at him, snarling and growling. Two deer were smashed away by his shield, but the others were now aiming for more sensitive spots: his joints, hands, and face. But Serena sent fireballs their way, actually managed to hit one of the deer on its ear, making it yelp in pain. Kalen also slashed at the deer while Kiva shot arrows from afar.
+
+Two deer did manage to sink their teeth into Damien's armor; however, they didn't reach his weak spots. Instead, they chewed on the hard metal, unable to bite through it.
+
+"Like the taste?" Damien taunted.
+
+While they hung onto him, Liora tried to strike them with Skypierce while hiding herself with Fade. This time, the wolf-deer didn't dodge in time, and Liora hit the deer straight in the head.
+
+[You defeated <Lupus Deer – Level 16>. Experience gained.]
+
+The other monsters instantly backed away, howling and snarling in anger at their killed comrade. All except the wolf-deer that Liora had poisoned. It stood and stared at them while breathing heavily.
+
+"Come and get it! I'm not afraid of you," Damien yelled.
+
+The wolf-deer suddenly howled in outrage, and something bubbled in its injury. Black, thick liquid poured out of it and surrounded the monster's whole body.
+
+No, not again!
+
+Fuck! It's becoming corrupted!
+
+Before long, the normal wolf-deer was gone, and in its place stood a corrupted version staring at Damien with hollow eyesockets.

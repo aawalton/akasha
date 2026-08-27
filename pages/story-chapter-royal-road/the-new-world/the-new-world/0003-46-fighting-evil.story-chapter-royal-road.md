@@ -1,0 +1,177 @@
+---
+id: 9a0be62d-9fe9-5a86-8f1d-e5aa576253e4
+page-type-slug: story-chapter-royal-road
+title: "46 Fighting Evil"
+slug: 0003-46-fighting-evil
+partOf: the-new-world
+position: 3
+ownLength: 3124
+unit: words
+ownProgress: 3124
+publishedAt: 2017-09-08
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/160733/46-fighting-evil"
+royalRoadId: "160733"
+markedReadAt: "2026-06-29T21:20:46.805Z"
+---
+
+Schema let me know what this thing was.
+
+Corsack, Knight of Yawm(lvl 505) - One of the most recently named of Yawm. He was given ascension after dispatching a party of humans. Always envisioning himself as a noble knight, Corsack gained his wish after being named by Yawm.
+
+His bone armor, skill with a sword, and high level make him extremely dangerous for you. Be wary, as he's slain many humans for his lord.
+
+He flopped himself off his resting spot, gazing at us. In a deep voice, Corsack said,
+
+"Who are you three? Perhaps the reaper coming for retribution."
+
+I frowned, "Wait, were you an actual person?"
+
+"Perhaps. My memory of before is a haze. I know I am more than one body that has come together. I am also...sad. These three did not need to die, yet I took their heads for glory."
+
+I grimaced, "Who were they?"
+
+"A party of five. Two men guarded two women. One of them escaped, but the other four fell. It was simple as taking candy from a baby. That was when Yawm gave me a mind of my own. Now I am more than a mere animal. I am sentient. All I have done since is regret."
+
+He pulled out his sword, "I betrayed what I once was. I am a monster now, something that feeds on those weaker than I. In my master's name, I must feed on you now."
+
+I charged my runes and charged towards him. I turned oppression on once out of the range of Althea. No need for taking my time listening to long monologues. This was a monster afterall. I wasn't going to let it distract me with a load of bullshit.
+
+It unsheathed it's blade of bone and slammed it into my forearm. Slicing a few inches deep, I slammed a fist into his stomach. Like slamming into stone, the bone was hard as fuck. Still, my fist had a bit of powder on it from the punch.
+
+He pulled out his sword before kicking towards me. I leaned back, his foot scraping the edge of my helmet. I dashed forward with his back facing me. I grabbed him and lifted, his feet coming off the ground before I pulled back with all my might.
+
+Corack gasped in surprise as I slung him through the air. His head flung backwards before I suplexed him into the ground. The parking deck cracked as his head lodged a foot deep into the concrete. The crushing of concrete echoed throughout the city like a bolt of lightning in the distance.
+
+I pulled on his chest, flipping me up and through the air. A spear shot straight through one of the knight's kneecaps as I landed back on my feet. With his legs sticking up in the air, the unbroken leg kicked towards me. I leaned sideways, keeping myself balanced and my elbows tucked. When he tried pulling his legs back, I grabbed his shin.
+
+I shot my knee upward, straight towards his kneecap. The joint snapped and bent backwards, his legs ruined. The knight howled, his scream muffled by the concrete around his face. I stepped forward, his leg snug against my chest.
+
+His knee bent further backward as I flung him over my shoulder. As the knight flew through the air, one of Althea's lances pierced his skull. I slammed him into the ground, his body twitching. Still alive, the arms raised to protect him, but they were too weak.
+
+I pinned him with my knees before pummeling him to a pulp. His arms lost strength. His crippled legs writhing for escape. I never let him go. I slammed and crushed and crumbled. When his face was more a red than white, a spine of my armor absorbed his corpse.
+
+When it finished, nothing was left of him but the blood he left behind. I stood up,
+
+"Come on. Let's go before someone comes."
+
+Kessiah pointed towards the edge of the building, "That's where Torix is telling us to go."
+
+I shrugged before sprinting towards the edge of the building. As I leapt off, gravity took hold. The buildings and brick rushed past my face. The wind pressed against my skin as I accelerated. The ground grew in size along with a car. As I neared the ground, I attempted landing on my feet onto the top of a car. You know, one of those awesome superhero landings.
+
+Didn't work out like that. The car crumbled underneath my feet before my legs gave way under my momentum. I slammed into the ground, echoing out an enormous wave of sound throughout the city. A crater formed underneath me as I collided into pavement. Even then, it didn't do that much damage.
+
+As I pulled my face out of the ground, Kessiah landed beside me. She stuck her form, like an olympic level gymnast. She grinned at me,
+
+"Tisk tisk tisk. Gotta work on your form."
+
+My armor molded away from my face as I spit rocks and mud from my mouth,
+
+"Thanks for the tip. I'll take it to heart."
+
+Althea landed, her feet tapping against the ground in an elegant landing. She'd grown wings to fly, so she just glided down onto the ground. I stood up, slower than I'd like actually. Kessiah ran forward,
+
+"Come on. Let's get out of here. Mission accomplished."
+
+We sprinted back towards a manhole cover before retreating back into the depths of the sewer. Despite a bit of blood being on my armor, the smooth scents returned. They kept us calm and focused as we sprinted towards our next destination.
+
+During the run, I opened my status screen. Now was the moment of truth. What was I supposed to put my points into? Of course I couldn't get the perk just yet. I had three choices really since charisma was just a point sink by then. Luck would give me more health, and I loved me some health. I didn't like the idea of relying on chance, however.
+
+The other two perks would work out pretty good too. Dexterity gave me all kinds of cool abilities, like the suplex I landed on that knight guy. Perception let me absorb information faster. Between the two of them, it was tough call. That is, until I remembered the precognition effect that perception gave me.
+
+The ability was like a safety net for me, allowing me to save myself from situations that meant death without the ability. The runes, which was were a solid chunk of my power stemmed from, would become clearer with the ability as well. Another reason for it was trying to understand some of Baldag-Ruhl's runes from BloodHollow.
+
+Torix may have destroyed the cave, but he hadn't left without imprints of all the runes he found. His undead insects kept memory logs of the runes which he could access at any time. If I figured those out, some intensely awesome shit could come my way.
+
+That being said, dexterity would let me do ninja flips. It was at that point that I took a step back, and I realized why I was weighing the two options in my mind. The stats fed into each other, and it just so happens that dexterity fed right into perception.
+
+If genesis of potential unlocked four more perks then dexterity would feed right into perception. That meant I didn't need to rush the whole process of getting the level 100 perks. Instead, I could use the feeding strategy I implemented for endurance, willpower, and intelligence. I didn't before due to the circumstances at hand. Kessiah needed my help. Now I could afford to get the most bang for my buck.
+
+With that in mind, I put all my points into constitution. Sixty clicks later, my armor tightened around me as the same constricting feeling of before came. A few seconds passed before my armor finally snapped again. The same rush of before came over me as my fists became heavy as sledgehammers.
+
+Of course the others hadn't slowed down for me, so I sprinted to catch up while checking out my status screen.
+
+It was steady progress, though the dexterity looked like it would be slow as hell. I didn't get near as high a bonus for constitution and strength as I did for endurance and willpower. Hell, in order to reach 100 points in dexterity, I'd need about 180 more levels. It would be slow going.
+
+After bouncing a few calculations around in my head, taking the long way would give me about 12 levels worth of bonus stat points. So far, taking my time had given me quite a few dividends when it came to bonus stats already.
+
+I gained around 50 levels worth of bonus stats from upgrading obliterator early. Putting all my points into endurance had given me another 50 or so bonus levels of raw stats. That kind of thing adds up over time. Hell, it already had. There was bound to come a point were gaining levels would become tremendously difficult. Making the most of these easy gains would make all the difference in the long run.
+
+With that in mind, I caught up with Kessiah and Althea who dashed forward at blistering speed. Althea had gained quite a needed boost with the strength perk. Her shots recently gained a fatal level of accuracy as well, probably from a leveling perk. It was good to see our level up strategy working out.
+
+When we reached the next area, Kessiah led us up and out of the sewer. With a pristine care, she set the manhole cover beside the entrance. We skulked out, stealthy and cautious. Even with all the noise earlier, we still kept a low profile when first entering an area.
+
+Walking on our toes, we went back into formation. This area was even deeper than the last one. The trees warped quite a bit, tangling together as you went up their trunks. They made it difficult to even see the sky, let alone get there without tearing through a foot of bark.
+
+The ecosystem developed further. We met up against many unnamed this time, several of them eating mushrooms growing out of fresh corpses. A few of them even swung through the branches. This made them difficult for me since I couldn't reach them. They'd lob spears at me, and I didn't have many ways of retaliating.
+
+Althea did though. She'd fire at them, and I'd tear any ground dweller apart. She and I both outleveled and overpowered these types easily. Especially if you consider our wide array of bonuses, which made us stronger than your standard 300+.character.
+
+Routine set in once more, though we kept our pacing rushed. We neared a set of apartments, each of them with a basement beneath the stores. Lots of underground pubs set up shop here since a concert hall was nearby. That supplied easy traffic at regular intervals. Perfect for business.
+
+Now it was an overgrown wasteland. I crushed the skull of a nearby zombie, elegant flowers blooming from its wounds. As it died, Torix sent us a message,
+
+Torix Worm, of Darkhill(2:45PM 4/12/00) - Hide now.
+
+As I finished reading the message, Kessiah and Althea dashed towards two shops nearby. I charged forward, straight into one of the shops in front of me as well. Shutting off oppression mid run, I reached a stairway behind a bar. I walked down the steps, reaching a dank basement full of bottles of wine and barrels of beer.
+
+As I reached the bottom of the steps, the entire place reeked of shit and piss. It was like a thousand rats had taken a thousand dumps here. Disgusting. I hid behind a set of barrels. Several rats scurried away from me, as I squatted down.
+
+There I sat for a moment before a crashing sound echoed from upstairs. The sound of snapping wood and breaking chairs continued for a few minutes. When the sound stopped, a disconcerting sound came into my ears. Someone was breathing in here with me.
+
+I turned my head, finding a man hiding behind a wine rack. In a state of profound filth, he was smothered in his own grime. His hair ragged, his clothes torn, and his eyes broken, he clamped his hands against his mouth.
+
+His eyes met mine. He shook like an old washing machine. Sweat poured from his forehead as he stared at me. His skin glisten yellow, all semblance of dignity long ago gone. I marveled at his survival though. Living here was far worse than living in BloodHollow. He was no doubt underleveled as fuck, since he was living off rats.
+
+That's when a heavy foot landed onto the steps leading down here. A green glow leaked down the stairs, like the coming of both our deaths. I held my breath, as did the man beside me. His panic made him lose his breath far faster than he should have.
+
+His shaking increased in intensity. It was like staring at a bomb about to go off and kill you. If this follower found me, I'd die. Another loud step echoed down the stairs. My mind raced. I could use oppression and kill him, but the follower would feel it. That would be my death right there.
+
+Another step echoed down the stairs as if time had slowed down. I could walk over and hit him, but that would make noise no matter how quiet I tried being. Another step was sounded into the room. It was a brutal sound. Something like a man's neck breaking when he was hanged. It was like a hammer beating against my head, slamming against my mind.
+
+Of course I kept my composure, but the man in front of me was losing it. As the glowing green light filled into the room, the man's chest convulsed. He wouldn't be able to hold his breath much longer.
+
+Racing for an answer, I thought back to my limited magic. Augmentation wouldn't do shit at the moment. If I kept him quiet with dominion magic, maybe telekinesis, he wouldn't make any noise. I needed to learn that shit before he shouted. A hopeless situation turned into a race against time.
+
+I swallowed before putting my hand behind me. There I summoned a bit of dominion magic, just the slightest blip of it. Better if the man didn't see the energy. He might have snapped at the sight of it. Glancing behind me, the silent energy surrounded itself in red stripes just like before. After a few seconds, The dark energy was a bright red, as if it was completely cut off from me.
+
+At the center of my focus, the dumbass voice in my head spoke,
+
+"I can save you, if you let me."
+
+I clenched my teeth, "I don't need you too."
+
+"Really? You would rather die then just let me control you?"
+
+"Yes."
+
+"You're insane."
+
+"No, hell no I'm not. I'm not losing myself. I already lost everything else."
+
+I closed my eyes and thought back to what I understood about dominion magic. To evoke it, I needed the desire to control those around me instead of myself. I channeled those thoughts. I should change the world instead of myself, like a scientist. I needed that kind of reasoning. That's when an idea popped into my head.
+
+Instead of thinking about my body like it was mine, I tried disconnecting myself from it. If you think about it, we're all just flesh sacks holding souls. At least that's what I believed. Using that belief, I thought of my body like it was just a vessel. It was a car, and I was its driver. It was a golem, and I was the soul commanding it.
+
+The augmentation runes charged, though they never sent sparks like before. It was a small amount of extra mana, not an enormous flow like usual. That mana poured down my arms and into my palms, reaching my previous inscriptions.
+
+The orange mana bled into the black energy sealed in the red sphere. The energies rejected each other, like oil trying to mix with water. The dual energies vibrated with violence, but the red sphere kept the sound from leaking out. As they raged within their sphere, the follower reached down the stairs.
+
+He was a Porytian, one of Yawm's species. It wasn't Yawm though. His legs were bent like a goats, even as he stood straight up. His arms were long and his hands massive, though they weren't hulking like the overseer's limbs. His eyes radiated a solid, emerald green, streaks of the glow crawling down his chest and arms.
+
+The voice raged, "You've no time, Daniel. Relinquish yourself to me, and I will offer you salvation." The voice's words didn't convince me for one second. He sounded a little bit too much like Elijah for my taste.
+
+The porytian stepped into the room. Wherever the shining streaks passed, something like muscle bulged from under the wooden skin. As it shifted its movements and steps, the creature moved with a pristine grace. It was nothing like either of the other followers. The way he looked and moved seemed like he chose to do it. The others were glorified puppets by comparison.
+
+Two horns curved into the sides of his mouthless face, blending into the wooden skin and ending in spikes. The thin fingers looked sharpened and tense, like they were ready to tear out a throat at any second. The thing tapped its forehead before slapping through the glass of a wine bottle. Its fingers sheared through the glass with ease.
+
+It grunted, inhuman and angry. After another pause, the thing leaned against a wall like it was frustrated. At this point, I prayed it wouldn't kill me.
+
+Ajax Volan, the Void Eater(lvl 4289) - A follower of Yawm, he is Yawm's strongest and most loyal ally. During the war with the Bracken, Ajax acted a vanguard with Yawm. The both of them have torn apart entire armies on their own. Despite refusing Yawm's gift of flesh, they remain on excellent terms due to their history before Yawm's resurgence as a galactic threat.
+
+Not much else is known about Ajax. With its enormous pool of experience, gigantic level, and untold power, Ajax Volan is devastating. Hide or run, but do not fight him. To fight him is to die.
+
+The man and I shook with a quiet frenzy. The man twitched now, his face turning pale. He would reveal me in seconds, if Ajax hadn't sensed my mana already.
+
+At the peak of my panic, Ajax spoke into the air.
+
+"What are we even doing anymore?"

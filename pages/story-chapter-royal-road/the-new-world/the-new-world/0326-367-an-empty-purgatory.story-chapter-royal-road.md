@@ -1,0 +1,361 @@
+---
+id: e4b6808d-8405-5cb9-b61d-33f9e89f00da
+page-type-slug: story-chapter-royal-road
+title: "367 An Empty Purgatory"
+slug: 0326-367-an-empty-purgatory
+partOf: the-new-world
+position: 326
+ownLength: 5414
+unit: words
+ownProgress: 5414
+publishedAt: 2023-03-09
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/1133309/367-an-empty-purgatory"
+royalRoadId: "1133309"
+markedReadAt: "2026-06-29T21:32:24.053Z"
+---
+
+I floated out of the giant bone colossus and walked back into reality. Standing in the sea of writhing bones, I found the waves lessening in height and impact. After a while, they turned back into the shining hills from before. The solidified mass fell back into shards of rainbow bones, and the algae began regrowing overhead.
+
+As the algae encroached from all sides, I stared at the black hole Leviathan. It gazed back at me, its endless void indifferent to the struggles on this planet. I closed my eyes, breathing in the poisoned air and finding it fresh and inviting.
+
+Once more, I had endured.
+
+Chapter Begin
+
+For a moment, I stayed in silence. Around me, nothing ushered forth. The behemoths hadn't reformed, and neither had the algae. No minor battles took place in the skies. Below, it would take days or perhaps weeks for primevals to repopulate along the ground. This left little in the way of sound outside the wind and the gentle whistle of the wind.
+
+It was as silent as Leviathan-7 had ever been.
+
+My eyes widened as I recognized why. I'd awakened the mass of bones we stood on, and it had purged the entire land of anything left alive. Racing back toward my cities, I winced. Even imagining what happened to them and the rulers within was painful, let alone seeing it. As I crossed miles of the bright abyss, the glowing forcefields cropped up in my view.
+
+No buildings stood, and holes littered their foundations. The writhing tentacles of bone pulled my golems below, killing all of them. They reduced the city to rubble in the process, but the bones missed the pillars spread throughout my towns. It was as if a thousand earthquakes leveled the city to a powdered mass.
+
+Beyond the stones, the metallic sides of the cities warped into coiled circles like crowns held over a flame. The protective barrier extended from those wobbly outskirts, though gaps in the fields leaked in radiation, gravity, and toxic air. Passing several of them, I reached the city where the rulers settled.
+
+When I looked at it, I found no one staring back at me. They were all dead.
+
+I silenced that panicked thought, and I landed past the outer forcefield. Walking around the masses of rubble, the central monolith of the city tilted to one side like the leaning tower of Pisa. The seismic event scattered the shops across the ground like someone bombed the place. No Hybrid rulers lingered in the ash and stone, this place empty of all life.
+
+Wielding gravity wells, I searched the place by turning it upside down. I flipped each crushed building one at a time, seeking anyone or anything left alive. After an hour of my searching, I found nothing remaining. They were all missing, meaning the bones siphoned them deep below the surface. Perhaps worse.
+
+Finding little else to do, I reached my town's monolith, where life thrived hours ago. I sat down and leaned against it while considering my prospects. Shalahora's demise meant our contract expired, but I still wanted to wipe the Old Ones from the face of this plane. He'd have his follow-through even after dying.
+
+Peering at my hand, the only rulers that made it were the ones in my pocket dimension or those in stasis at Valgus's lair. Well, if I had to guess, the entire expanse flooded with the psionic fluid, meaning they died from drowning or being assimilated. Tapping the ground, I peered at the rough approximation of a city and found a reasonable base to build over.
+
+The blue cores were still in the pillars, and I owned many in storage. I would still have my cities for the deal with Schema, so I'd have access to this absolute hellhole whenever I wanted. Great. Just great.
+
+I rested my head in my hands as reality set in. Everyone died. Every single person. Before guilt set its claws in me, I took a few breaths and considered how I handled the situation. At worst, I could've become the holder of Baldowah's avatar. My body would've become a pawn for Elysium, one of their most potent.
+
+They would've used me to take over planets or worse. Every surviving ruler would've been dipped into the psionic liquid, and they would all die. If I had to guess, they'd have recreated my cities and used this planet to spread Hybridized primevals across the galaxy. It was an ingenious plan since my deal with Schema wasn't tied to my mind. They'd have taken me, the planet, and guaranteed Schema's eventual doom.
+
+By simply surviving that encounter, I saved a lot of people. Despite my logic, I convinced no one that I was some hero. I threw the rulers into the fire to protect myself. I shook my head, knowing I couldn't have done anything. My circumstances dictated my outcome. Again.
+
+I'd failed to save almost anyone in Springfield, but a few survived. On Giess, I got a couple gialgathens out, but everyone else died there. Considering further, I got the Eltari out of their eventual demise. Of all my accolades, that was the closest to absolute success. As for the skeptiles, I freed them from 'indentured servitude,' as Obolis called it.
+
+Reminding myself of my successes pepped me up, and my guilt lessened. I was no god, and I shouldn't bear the cross of one. While I let that peace come over me, the algae regrew over the cities, reaching the center of the ossuary once more.
+
+Behemoths began erupting from the algae, and they battled in a faint haze overhead. Layers of algae blanketed the shining hills, and light beams leaked through them. After a while, shadows crept over the surface. Shadows crossed the ground, and the eternal war commenced.
+
+From beside me, the city's monolith cast shade. Spawning from the darkness, Shalahora oozed out. He peered at me,
+
+"We meet once more, Harbinger."
+
+I stood up and hugged the Sovereign, and he returned the gesture. His immaterial form felt cold, like hugging an icy cloud. However, it still heartened me like a warm campfire, and I smiled at him, "It's good to see someone made it."
+
+"There are others."
+
+I raised my brow. From Shalahora's arms, the psionic restraints holding Valgus fell.
+
+I said, "You kept these?"
+
+Shalahora coalesced into a bipedal form and placed a fingertip against his forehead. Shalahora pulled out something like a memory, and Obolis gazed at me from it. Chaos erupted around him, and he pointed at me.
+
+"We've uncovered a pocket dimension within these gauntlets."
+
+I took in a sharp breath. Of course. They could've hidden within the same place the remnant had.
+
+Obolis cast a spell.
+
+"I'm passing on the sensation of the magical signature used to open and close this. Use it to let us out after you've made the city safe once more."
+
+I clapped my hands.
+
+"Ah, man, you guys really pulled through, huh?"
+
+Shalahora murmured, "We have."
+
+"Hah...Then why don't we get this place back up and running?"
+
+Shalahora nodded, and we got to work. I took several hours constructing quintessent golems. Once crafted, they cleared the rubble and rebuilt this settlement's metropolis, streets, and infrastructure. I went around the place and fixed the bent dimensional fabric along the city's edges before scrapping it.
+
+As I touched the fabric, it bent like putty. I pulled it apart, gawking at its frailty. Scrapping the metal, I created more material and made new metal rings for the cities. After creating an airtight seal around the town, the homeostasis runes cleared out the poisoned air, unstable gravitation, and crippling radiation within a day.
+
+Once the settlement was recreated, I sat and stared at Valgus's shackles. These held the rulers. After rubbing my temples for a moment, I pulled back up the memory of Obolis. He used a strange mana signature to activate a few runes on the inner section of Valgus's shackles. I grabbed those restraints, trying to make the same mana.
+
+The strange material absorbed my mana and converted it into two different spells. The first effect isolated my mind from the ether around me. They made existence feel like walking into someone else's home on accident. The discomfort was palpable, and I wanted to return to where I belonged.
+
+I couldn't. The shackles operated with an absolute effect, and once activated, the chains fed on whatever mana I poured in. The psionic isolation occurred after that. Even after using them for a few seconds, I was sure of their immutability. The only way Shalahora and I had interacted with Valgus mentally was because the remnant had wanted us to.
+
+How they did that, I had no clue.
+
+The shackle's other effect created physical isolation. The more mana I poured into the chains, the more they disconnected me from the surrounding world's laws. Gravity pulled on me less. Temperature no longer passed over me. Hell, I couldn't even feel the ground or my surroundings. The shackles numbed me like a tranquilizer, but it was no negligible effect on my mind. This was as tangible as time and inevitable as death.
+
+As with the psionic isolation, the physical disconnect strengthened with more mana. It reminded me of all the feats that Valgus performed because of these shackles. I gawked at the exotic artifact, their origin mysterious and their effects unexplainable.
+
+And now, they were mine. Hell yeah.
+
+I rubbed my hand against the alloy, finding no similarities between it and other metals. I tried pulling on chains, but they remained as unwavering as Valgus. After thinking about it for a while, I searched for the power source fueling the metal's invincibility. I found nothing but a strange sensation oozing out of the shackles.
+
+I flinched. Blegh. These had spawned from the Old Ones. Pondering how the shackles stayed so stable, I considered other avatars. Yawm used atomic fission or fusion to power his mana, like an elemental furnace. Lehesion wielded some esoteric, far-off energy source that kept him topped off at all times. I gazed at the chains and bands, wondering if an Old One also fueled these.
+
+I found no answers to those questions, but I still tampered with them for several hours. I figured out a little more information, but not much. They absorbed any amount of mana poured into them and enacted an effect equal to the energy put in. In fact, these acted as a genius holding cell for Baldowah's avatar.
+
+That entity couldn't control the mana it released as it relied on the raw effect of the energy to handle anything in its way. This metal would both contain and feast on that mana, and it converted the host of the avatar into an invincible entity at the same time. The host then acted as an unbreakable cage for the avatar.
+
+Clever as this was, something went awry along the way, and the avatar gained control of the host. Remembering the avatar's mind magic, that had to be how it wrestled control. The other entity lived a life, but this avatar only worked on a singular skill by comparison. The difference in commitment led to a difference in outcome.
+
+A painful one. The other tortured entity lost control, and Valgus took over his identity, enacting Baldowah's will. My guess was the host was punished afterward, and considering the origin of the shackles, an Old One decided on the sentence.
+
+A chill ran down my spine. The Old Ones seemed to be at the root of more problems the more I uncovered. In a way, they acted like cancer, warping anything they touched for the worse. I winced as memories of the tortured soul passed over me. It died whenever Valgus's body disintegrated into a hateful mush, but it lived for eons in hell.
+
+Remembering my contract with Shalahora, I could've put myself into that position by signing it. Even 30,000 years of freedom would be a blip compared to the purgatory an Old One conjured. However, I wasn't like the host of the avatar. As Shalahora mentioned, nothing from this plane could exceed the Old Ones.
+
+I wasn't of this plane. I was one.
+
+Either way, uncovering the full extent of Valgus's history could help me stop my corruption. Same with Shalahora. Getting ready to act, I rolled my shoulders, amping myself up. No matter how I solved my problems, they required blood, sweat, and tears.
+
+Spurred to action, I tried making the mana signature Obolis used to close and open the shackle's pocket dimension. After several hours, I made no progress. Obolis was an expert magician, and while I was a potent sorcerer, I lacked his technical skills. If I kept at it, I'd waste the rest of my stay here on Leviathan-7.
+
+I abandoned the pursuit. I'd hire a mana specialist and get the job handled after getting back from the lottery. Instead of banging my head against that metaphorical wall, I changed tactics. I sat down with Shalahora, and we delegated duties.
+
+Shalahora would check on the stored rulers that Valgus had captured. They were likely gone, but it wouldn't hurt to check. After that, he'd find any other rulers left on the planet. In the meantime, I'd finish rebuilding my cities. We needed several up and running so that they'd maintain long-term safety. Getting to work, I generated more constructor golems before making guardians for each city.
+
+This required hundreds of golems and several days of manufacturing. Having plenty of time to think, I mulled over the conflict here. It had been a total bloodbath; if I guessed right, less than thirty rulers survived. If I was optimistic, perhaps a few rulers scavenged out in the wastes of Leviathan-7. However, Valgus had hunted them down for a while, meaning there wouldn't be many.
+
+Those facts left a bitter taste in my mouth. I gave my best go at keeping these people safe. I really had. In the end, I squeaked by while having everybody slaughtered. Anytime I wondered about the situation here, my mind wondered about Earth. This battle would've crushed my home into a fine powder.
+
+No, it would've evaporated it. Disintegrated, maybe?
+
+Either way, I would've destroyed everything and everyone without even meaning to. I had to be pre-emptive in handling threats moving forward. First in that line-up was Elysium. They'd proven capable of insidious methods while being resourceful, cunning, and motivated.
+
+Even worse, I wasn't safe against them, no matter how powerful I became. The ends justified the means to them, and I was in their way. No matter the reasoning I presented, they wouldn't stop either. Elysium would win this battle against Schema or die trying. I had no intention of seeing the hellscape they'd create if they did win. They also breached our treaty and attacked me.
+
+They thought they were facing a hill to walk over, but they were wrong. I was a mountain, and they would die in my shadow. They wanted war? Oh, I'd give it to them.
+
+Easier said than done, of course, but I resolved myself for the aftermath. The problem was that Elysium wasn't my only enemy. I'd be comfortable establishing my position if they were, but my reality was far different. I had to prepare for my second biggest threat - Schema. This 'lottery' proved every fear I'd ever had about the guy.
+
+He was unrelenting, uncompromising, and, at the end of the day, a machine. In a way, Schema was more dangerous than Elysium since the AI established the rules everyone lived by. Because of that, the AI decided when we died based on how he enforced those rules. I barely crawled out of Leviathan-7 with my mind intact, and Schema's conditions caused that.
+
+Even worse, my other guildsmen could be pulled into this situation. Only Torix would've survived via his phylactery, but I doubted anyone else could've made it out of here. Althea could've researched the local fauna and mimicked their biology to survive. She could've avoided Valgus, given her phasing abilities.
+
+Kessiah could've healed herself while hiding somewhere. She'd have had a rougher go at it. Torix's body was the best built for the situation, so he might not even perish. Even Hod might've escaped into a shadow like Shalahora had. He could've waited several months before Schema warped him out. Hell, even Amara might've adapted, considering she was an eldritch.
+
+A slight grin cropped up on my face as I considered my guild's prospects. They'd probably make it, but other guilds wouldn't. There's no way Florence would've survived this, and Helios would've struggled. As my guild expanded, I'd face similar problems.
+
+I snapped out of my disquiet. Anxious contemplation accomplished nothing, and my time here was finite. I kept crafting my golems over the next week, the new models showing improvements over the older ones. Before, a pack of five could hold a primeval back using tactics. Now three could maul weaker primevals without resorting to steady, controlled aggression.
+
+It left me curious about my own abilities. Needing a break from the crafting, I controlled the rainbow bone near a city. I erected walls of the stuff, and after amassing several layers, a dome formed. I molded out a depression in the center, completing the arena. After a few minutes of searching outside, I found a fresh primeval in the ossuary.
+
+The weaker primeval peered around for rainbow bones to devour. I got its attention before trapping it in the arena. The ice primeval reminded me of another I fought when I arrived here. While weaker, the formidable eldritch spawned void ice with its steps and chilled the air across the dome.
+
+We clashed in the center. I pushed it back while standing over it. It crushed into the ground, its legs breaking. It shattered its arms and rolled away while I chased it. Swinging in a circle, it sliced at my throat. I angled an arm, molding my armor to create a shield. The primeval's glancing blow scraped upward before I smashed my hand through its chest.
+
+Spikes of my armor erupted from within, and the primeval howled out. It swung once more, and I deflected. It tried spitting cold gunk at me, but I pulled it away with gravity wells. The primeval even tried a suicidal explosion. I crushed its skull, where the energy coalesced before it detonated.
+
+Walking out of that explosion, I brushed ice shards off my shoulders. Picking up several blue cores, I peered at them for a bit. I needed a bit more oomph against me. Taking a more adventurous approach, I fought two primevals at once. Once more, the desperate, ragged edge of desperation grew in me, but it didn't consume. It emboldened.
+
+A stone and star primeval wrestled against the confines of the arena. I tackled the rocky eldritch, and it cracked against me. The stones swirled before the beast slammed into my side. It left a dent before I struck its side. Powder erupted, cloaking us in a dark cloud. Underneath the haze, my runes glowed through the gloom.
+
+Stretching out a hand, telekinetic constructs covered my limbs while gravitational augments controlled my weight. I evaded four rapid swings from the stone monster, keeping my balance. It stumbled forward, and I smashed its face and shoulder. From behind me, the star primeval darted in, and I rolled to evade it.
+
+It bounced off the wall, coming back my way. Liquifying myself, I flowed around it before solidifying in front of the stone primeval. Our strikes collided, erupting a shockwave within the dome. The star primeval trembled, its body dissipating. I noted that weakness before crashing with the stone primeval once more.
+
+The star primeval regrouped before dashing against my back. I spawned a hole in my chest, and the star primeval impacted the stone one. Magma ran between my fingers in the shockwave's aftermath, and both primevals sprawled across the ground. I gazed down at them before pulling them together with a gravity well.
+
+I lifted my arms overhead and smashed downwards with dozens of gravity wells, strengthening my blow. An eruption of kinetic force splattered the remnants in every direction. Stone smothered fire, and energy melted stone. The primevals perished, and I pulled five blue cores from the ground.
+
+After passing that test, I wondered where my limits were, so I fought three at once. Ice, stone, and star, the primevals quarreled in the confines of the space. I fought the stone one first, and the ice primeval stabbed at my back. Wondering how well my armor held up, I let it land the blow.
+
+The ice blade dented five inches deep before I swung backward. I shattered the ice blade and the primeval's arm. A stone slammed against my temple, whipping me sideways. I rolled across the ground before the star primeval slammed into me.
+
+I slammed against the wall of the arena, my eyes wide. They ganged up on me, the three charging my way. I smiled while cracking my knuckles. It took several hours, but I crushed them without smothering them in singularities. Standing amidst the carnage, I peered at heated spots of bone and shards of void ice in the arena.
+
+This was fun.
+
+Taking a risk, I pulled out my elemental furnaces. I usually kept them in my pocket dimension while fighting so that I didn't destroy them. However, they amped up my potential, so I took them out. I practiced using them against a single primeval first. It made the conflict even easier than before, and the same was true facing two.
+
+Against three, the conflict had a similar level of difficulty compared to fighting without the furnaces. It wasn't because the elemental furnaces didn't help; to the contrary, they kept me in the running. I struggled with the pressure, knowing I could lose something permanently. It made me restrict my strategies and tactics.
+
+Those reservations weakened me, and the primevals exploited that weakness. It took several days to get myself into fighting shape with the furnaces out, and it helped soothe the otherwise overwhelming tension. With that pressure alleviated, I handled three weakened primevals within an hour, a record for me when not using unconventional tactics.
+
+After getting that sorted, I pinned myself against four primevals. Before grasping victory, I pulled the furnaces back into my pocket dimension. I used my rushing singularities trick to evaporate them, but it left a bad taste in my mouth. Taking that out of the equation, I faced four once more but with a rule in place.
+
+I couldn't pocket the furnaces. Either I won or lost them.
+
+At first, the jitters left me ineffective and unable to function. Several minutes into the fight, I got my footing back. I regained my total composure, becoming a machine on the battlefield. The hard-fought battle left me high on victory for a while.
+
+However, I had one last test. I put myself against five primevals at once. Taking a moment to meditate on the conflict, I silenced my mind. With the furnace rule, I channeled mana from them into myself. They split atoms, turning nuclear fission into raw mana. I assimilated the coursing flow, my runes glowing.
+
+Time accelerated, and my surroundings slowed. I shot into the dome, ready for war. The swarming eldritch turned towards me before darting like frothing, twitching insects. They reached the edge of my dimensional wake, and I shoved my disintegrating minds into theirs. They writhed, my torment becoming theirs.
+
+Since facing Valgus, I uncovered this tactic. I wielded my time magic's excruciating execution as a weapon, having my enemies experience it as I did. It came with the benefit of augmenting my mind magic. The primevals'  psyches splintered with me like we all walked on coals.
+
+Being accustomed to it, I shot forward with my runes charged. I unloaded a slicing uppercut, a shockwave erupting from a primeval's back. A water primeval rushed towards my back, but I molded away from its strike, pulling my elemental furnaces with me. The primevals swarmed from all sides, and I flooded out, solidifying above.
+
+I struck like a kinetic chain of gravity wells and physical force. As they swarmed me in midair, I kept them at bay, firing each of my strikes like a cannon. Sonic booms erupted from my fists and behind me, my position blurring from the physical impacts. I jittered in my position from each collision, and whenever overwhelmed, I flowed away.
+
+I redirected enemies with gravity and telekinesis alike. I cleaved off my arms and legs, melting the dimensional fabric and splattering it over certain primevals. I even used basic runic detonations to disable primevals at critical moments, all while keeping the furnaces safe. These tactics let me stay at the center of their assault, decimating one primeval at a time.
+
+It required an enormous mental strain, and in the end, I crushed five at once after an eight-hour, all-out war. It was my current limit, one I'd forged out over the many years of battle since Schema's system arrived on Earth.
+
+And it wasn't enough. I needed more.
+
+I planned on getting better after arriving on Earth. I needed a break from Leviathan-7 for a bit for my sanity, but I'd return to this place. It was a forge where I purified myself of weakness like a crucible purging slag from steel. Even if it felt like dying, it would keep me alive; at times, living meant marching through death.
+
+That concept weighed on me when Shalahora returned the reports of what happened to Elysium's trapped rulers. They all died as I expected, their bodies submerged in the rainbow bone around them. The spikes kept erupting from within, the bodies experiencing pain even after the minds died.
+
+We killed them one at a time, each execution being an attempt at mercy. It left me solemn, and I fell into my battles with the primevals as an exercise but also as an escape. I found joy in fighting, though not to the extent Valgus had. Hell, some part of me wondered if Baldowah's avatar was still alive and feeding me this bloodlust.
+
+But that wasn't it. I missed executing something real and tangible, and it reminded me of boxing before Schema arrived. I found a home in the familiarity, even if I chased nostalgia a bit with the excursion. Regardless, it gave me a way of passing the time as I waited for the lottery to end.
+
+I met with Shalahora for a final talk during the last few days. We met up at the center of the ruler's city and standing in the monolith's shadow, I raised a hand to the guy.
+
+"Man, that fight with Valgus was crazy, huh?"
+
+Shalahora murmured, "It was a slaughter for both sides."
+
+I frowned. So much for subtlety.
+
+"So...What are your plans after the lottery ends?"
+
+"I will find sanctum on your homeworld, wherever you offer it. Once firmly established, I'll assist with whatever you need for the next few decades before I am called to action by my Old One."
+
+"Wow. That's a quick turnaround."
+
+"I intend on abiding by the contract. What of you?"
+
+"I'll be focusing on getting some distance from Schema. After that, I'll consolidate my resources."
+
+"Why would you put distance between you and Schema?"
+
+I gestured to everything around us.
+
+"This. This is why."
+
+"If you pull from Schema too quickly, it shall take your rewards from you."
+
+I frowned.
+
+"Schema's rewards are double-edged. He restricted me from using primordial mana for months to years. I'd lose an enormous amount of my fighting potential."
+
+"Perhaps Schema restricts you for reasons you've yet seen?"
+
+"Or Schema pulls me down, so I'm with the rest of the pack."
+
+Shalahora shivered.
+
+"Then do as you say. Limits are often in place with good reason."
+
+"Yeah, but for who? Anyways, let's just say I've got a lot of work on my way. I'll hunt down Elysium once I've got everything handled."
+
+"You still wish to face them?"
+
+"I don't really have a choice."
+
+Shalahora's form trembled.
+
+"You have more choice than you are aware of."
+
+"You'd have to be stretching a choice's definition."
+
+"Or expanding it."
+
+"Eh, maybe." I leaned against the monolith. "Either way, I'll be having you help out a few of my guildmates. Two assassins could learn a lot from you."
+
+"I shall pass on what I can."
+
+"I'll also need you to talk with a Ruhl I know. I'm hoping to connect a few dots."
+
+Shalahora's eyes narrowed, "A Ruhl? You associate with hiveminds?"
+
+"Associate? I was made by one. Well, sort of."
+
+Shalahora's eyes widened, and he leaned towards me. I raised a hand.
+
+"I'll tell you later after we handle business. Valgus mentioned finding some kind of advanced dungeon core, and I wanted to-"
+
+"My shades uncovered it."
+
+My arms flopped to my sides.
+
+"Well, why didn't you say so? Let's go get it."
+
+"It is precariously positioned."
+
+"Ah, I still want to see it."
+
+"I knew you would. Follow."
+
+We flew off. As we passed over the ossuary, I raised a hand.
+
+"How much are you going to donate to Schema?"
+
+"A minutia less than whatever you decide upon."
+
+"Ah, to keep me on top? You don't have to."
+
+"It is to enable your growth. There is a mountain to pass, and we will do so one step at a time. You will be our guide."
+
+I frowned, wondering how Schema would handle these rewards. After a few more minutes of traversal, we reached the old base of Valgus. The enormous caverns stretched vast distances, and we crossed over the emptied prison cells.
+
+I said, "So they were right beside it the entire time?"
+
+"In a sense."
+
+I gazed at the vast grotto and imagined the liquid rainbow bone flooding it. Having that much energy coursing through this creature must've left it exhausted or invigorated. I couldn't tell. Regardless, these caves reminded me of the veins in a beast, like the liquid bone was blood. I murmured,
+
+"It's like flying through an artery."
+
+Shalahora said, "There is no semblance. It merely is."
+
+I raised a brow. Shalahora reached the pit where Valgus's camp set up shop. I landed beside him, and the steady pulse of the ground quaked beneath us. A radiant hum overwhelmed all other sounds, so Shalahora thought over.
+
+"It is down there."
+
+We dove into the abyss, the shining, opalescent bone offering ambient light. The deeper we went, the more pressure I experienced. At the bottom, my eyes leaked silver blood, and my bones rattled from the force of the pulses. I laughed, my voice gurgling.
+
+"This heart's pretty, glah, absurd, isn't it?"
+
+Shalahora wavered like a flag in the wind. He couldn't speak, only telepathically saying, "It lies there."
+
+We crossed a set of tunnels deep beneath the bones, leading to a vast, overwhelming expanse. At the center of it, an enormous dungeon core radiated out. The dark sun carried no depth, like a two-dimensional object. It simply siphoned the light and energy around it, feeding upon the energy pooling nearby. It warped nearby reality.
+
+I shook my head at the monstrosity, "It's...Colossal, like a Spacial Fortress."
+
+Shalahora thought, "It is far more. This is the beginning of some unique, unconquerable entity."
+
+"An Old One?"
+
+"No. They are more than can be made upon this plane. However, this exists at the cusp of godhood, a monstrosity without limit and a system feeding it without end."
+
+I put my hands on my hips, "Huh...Wanna take it with us?"
+
+Shalahora gawked at me, and his shadowy form plumed out for a moment. "How would you do that?"
+
+I smiled.
+
+"A little bit of dark magic, so to speak."
+
+"Your pocket dimension will not capture something of this size."
+
+I cupped my chin.
+
+"Hm, as is, maybe. I should be able to return and get it out of here...Eventually."
+
+Shalahora turned away.
+
+"A source of power may become a source of pain."
+
+The shadow wisped away in trails of darkness. I gave one last glance at the dungeon core, the depths of it reminding me of Leviathan. The black hole siphoned everything, an agent of destruction hell-bent on its own growth. In the end, this core was no different, a consuming menace.
+
+As I flew away, I hoped I wouldn't become the same.

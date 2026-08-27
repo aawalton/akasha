@@ -1,0 +1,257 @@
+---
+id: e43b529c-94e1-51ab-816d-f361f14c922e
+page-type-slug: story-chapter-royal-road
+title: "Chapter 16 – Moving Up"
+slug: 0016-chapter-16-moving-up
+partOf: the-magpie-and-the-archmage-monster-evo-litrpg
+position: 16
+ownLength: 2166
+unit: words
+publishedAt: 2025-09-01
+link: "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2564484/chapter-16-moving-up"
+royalRoadId: "2564484"
+---
+
+It was actually satisfying, flying over the foot of the mountain and looking at the aftermath of Liora's actions. Any hyena that spotted her flying overhead ran away yelping and mewling with its tail between its legs. There were far fewer hyenas around, too, and she could see some of them just running away.
+
+Look at that. You've officially become the bane of these hyenas.
+
+Good, because I never want to see another hyena in my life.
+
+You might change your mind once you see the monsters in the mountains.
+
+Hey, you promised to teach me magic so I wouldn't be in mortal danger anymore.
+
+There's no such convenient magic that would protect you. Shield magic would be useful, but with your minuscule mana, it's not worth learning. So I've decided to teach you something to help you solve your mana issues, if only partially.
+
+So there is a way for me to gain more mana!
+
+Not without bloody rituals, there isn't. But there is a way for you to restore your mana quicker.
+
+Okay, that's a start. How do I do it?
+
+You need to defeat a monster first. Be sure to use up some of your mana.
+
+Liora flew around for a bit, searching for a perfect prey, and found one brave and incredibly stupid hyena ignoring its brethren running for their lives and instead barking at Liora. A few Air Slashes were all it took to shut it up.
+
+[You've defeated <Giantmaw Hyena – Level 5>. Experience gained.]
+
+Liora landed and retrieved two glimmerstones from the hyena's paws without hesitation.
+
+Alright, you have a rather short window here, so work fast. You have to absorb the mana from the hyena.
+
+Absorb mana? How the hell do I do that?
+
+You know how mana feels, right?
+
+Nope.
+
+What do you mean "nope"? How about all the times you used Air Slash?
+
+You mean that watery, vaguely tingly feeling in my body?
+
+Each person feels it differently, but yes, let's assume that's how you feel it. You have to latch onto that feeling and draw mana inside yourself.
+
+But how do I feel the tingly feeling outside my body?
+
+Gosh! This is why I hate working with amateurs!
+
+Should I drop you in a ravine?
+
+You wouldn't dare!
+
+Just teach me how to suck up that magic already!
+
+You have to grasp that familiar feeling within your body. Close your eyes and imagine the mana flow from the hyena. Currently, the mana this hyena possesses is exiting its body and returning to ambient mana. It's the best time for absorbing it.
+
+Liora closed her eyes and tried to feel for this mana. She could sort of grasp something flowing within her—the energy she drew upon for her Air Slashes. But she couldn't quite imagine the mana outside of her body. It felt like darkness. Or rather, the only thing she could feel was wind gently rustling against her feathers.
+
+Wait, could mana feel like the wind?
+
+Yes! That is a good comparison. Concentrate on that feeling.
+
+Liora did just that, feeling the wind-like energy around her. She couldn't grasp it at first as she was likely latching onto the actual wind too much. But eventually, she felt the same kind of energy that was circling within her. She latched onto it full force and tried to draw it towards herself.
+
+[New skill acquired – Mana Conversion.]
+
+[Mana Conversion – At [Basic] level converts 10% of the remaining mana of a defeated enemy within 5 minutes of its defeat. The more time has passed since the target's death, the less mana it is possible to convert.]
+
+"I did it!" Liora cheered.
+
+You did it!
+
+That was difficult, though.
+
+For a complete amateur, you did great. The skill will guide you from now on, so it should become easier.
+
+Liora hummed in approval. She was ready to advance to the higher levels of the mountain. Well, as ready as she could ever be. Nothing at the foot of the mountain posed a challenge anymore, so trying to wipe out all monsters to maybe gain a single level seemed pointless. Even if the glimmerstones were tempting.
+
+Stronger monsters gave more glimmerstones anyway. Or at least so Liora told herself. In reality, she feared what kind of nasty creatures lived higher up the mountain. There was that panther she saw in the distance, and its overpowered cub that helped her deal with the corrupted hyena.
+
+If I weren't a bird, I'd never consider going up there.
+
+Why do you think I suggested this particular area? Underground monster zones are far more common, but in a place like this, your flight ability is the biggest advantage you can get.
+
+I'm sure I'm not the only flying creature around here, though.
+
+Well, no… But you are likely the only one who has such a good stealth trait. Not to mention Fade, which makes you invisible for a few seconds.
+
+That did make her feel a bit better, especially since it was already dark. With her Shadow Glide at its full strength, she made her way up the mountain. Unlike during the time corrupted hyena chased after her, Liora picked an easier path, where more monsters and animals might go.
+
+But even here, trees quickly become sparse, and those that did appear looked like shriveled up husks. Trees at the foot of the mountain didn't look great either, but these had the same corrupted feel as the hyena.
+
+I get a really bad feeling from this place.
+
+Yeah, something odd is definitely going on here.
+
+Can I leave?
+
+No. You need to get stronger. Besides, I'd like to figure out why exactly this place has changed so much.
+
+I get a feeling we'll regret figuring that out.
+
+C'mon! Where's your sense of adventure?
+
+Hidden firmly behind my sense of self-preservation.
+
+If it gets dangerous, you can just fly away. I never said you have to endanger your life. It is in my best interests for you to live, you know.
+
+Liora nodded. She could certainly trust that sentiment. Without her, Renir was pretty much screwed. After all, who else would be magnanimous enough to help this fool? Nobody.
+
+The monsters roaming higher up the mountain were progressively creepier. By far the most numerous were some weird mountain goats with six legs and a snake for a tail. They slept close to each other while their creepy snake tails would occasionally flick up and scan the surroundings for any threats.
+
+Liora didn't want to mess with a whole herd of these weird goats, especially when they were so close together. So she flew on, searching for another target. There were several creatures similar to the giant panther she'd seen before. None of them were quite as big, but she still didn't want to mess with something so agile.
+
+Over there! I think that's a good target.
+
+Where?
+
+Liora was perplexed that a human would have noticed something before her. Even if he was hijacking her superior vision, she still should have noticed it first.
+
+There, near that cliff. A Fungorak.
+
+A fungo-what?
+
+All Liora saw was some weird, overgrown mushroom. But looking at it carefully, she noticed movement. The creature lifted its mushroom-like limb up. Its foot looked like those weird bulbous roots mushrooms had. As soon as it had put it down, the little tendrils in the roots dug into the cliffside with the same ease as if it were soft soil.
+
+That's creepy.
+
+Agreed. Its hallucinogenic spores are incredibly strong, ending many newbie adventurers' lives. They often underestimate myconid monsters.
+
+And you want me to fight it?
+
+As long as you don't breathe in the spores, you should be fine. It's basically an evolved version of those moths. Perhaps even a downgrade since it can't fly.
+
+Liora pondered it for a moment. The monster didn't look very smart, attentive, or fast. Perhaps a well-aimed Air Dive was all that she needed?
+
+Fine, I'll go for it. It's just an overgrown mushroom.
+
+Exactly. Should be easy.
+
+Liora flew high up, relying on the Shadow Glide to keep herself hidden. Once she gained sufficient height, Liora activated Fade and dropped. She doubted that Fungorak had noticed her, but better safe than sorry.
+
+It looked like it would be a clean strike. But when Liora collided with the mushroom cap, she felt like she had struck a rock—it was so hard. Her strike hadn't done any real damage as the monster barely registered her attack.
+
+Before Liora could properly fly away, Fungorak released a cloud of spores. She flew out of it as quickly as possible, but in the moment of confusion, she breathed in a few, making her throat burn. Her eyes also burned–she could barely keep them open.
+
+The world shifted to weird colors. The mountainside swayed as if it were made out of water, and Liora felt completely out of balance.
+
+What the hell?! Why didn't you warn me that it had such a hard cap!
+
+I didn't know! I always burned these guys from afar. Caps always burned along with them.
+
+Agh! I should have known better than to trust a human.
+
+Liora tried to shake off the spores and clear her head. Thankfully, she hadn't inhaled enough to completely confuse her senses, but defeating the mushroom like this would be difficult. She did her best to keep her eyes open—they were watering profusely from the spores—and released an Air Slash.
+
+She had aimed it at the monster's body, but instead missed and hit its root-like leg instead. It let out a low-pitched scream and staggered back. Liora aimed another Air Slash at the roots and another. She missed one, but with the other, she managed to hit the roots again, slashing it off entirely.
+
+The Fungorak fell and began tumbling down the mountainside. Gravity did the rest of the work for Liora. She found the mushroom monster splattered on the ground.
+
+[You've defeated <Fungorak – Level 12>. Experience gained.]
+
+See, you defeated it anyway!
+
+No thanks to you!
+
+Renir fell silent. The nasty spores still burned at her throat and eyes a little, but at least the world slowly set itself right. Even if the colors remained a bit funky.
+
+Before approaching the fungus, she dropped a rock on it—just to make sure it wouldn't release more of those nasty spores. It didn't, so Liora dug out the three glimmerstones that were embedded in its tough cap. After that, she used Mana Conversion to recover some of her mana from the monster. As Renir said, it was much easier to do the second time around.
+
+Fascinating. Who would have thought that their caps would be so tough?
+
+It does make sense. As far as defense goes, spores alone aren't enough. The moths below could at least fly away from most predators. It would be weird if these guys had nothing else going for them.
+
+It's hard to tell when you can defeat anything in your path with a single spell.
+
+Renir sounded so smug that Liora had an urge to throw him out of the Inventory, just so she could peck him. Privileged humans with their damned magic. She knew magic, too!
+
+Determined, Liora began scanning the mountain for more Fungoraks. As they were solitary creatures, they made for perfect targets. She could train her Air Slash aim and then regain some mana from the defeated Fungoraks. After defeating about seven of them using Air Slash at their sensitive roots, Liora had already made it to Level 13.
+
+[Your skill <Air Slash> has reached [Novice] level.]
+
+[At [Novice] level, you can create blades of concentrated air which inflict 120% damage upon contact. Range of the skill: 16 meters.]
+
+This is much better progress than fighting those hyenas!
+
+Of course. Fighting monsters at the same or higher level as you will always yield more experience. How many glimmerstones have you gathered already?
+
+[Profile]
+
+Name: Liora
+
+Species: Duskwing Magpie
+
+Level: 13
+
+Health: Small
+
+Mana: Meager
+
+Glimmerstones: 133
+
+Blightstones: 1
+
+Skills (6/10):
+
+Mimicry [Adept]
+
+Peck [Novice]
+
+Air Dive [Novice]
+
+Air Slash [Novice]
+
+Fade [Basic]
+
+Mana Conversion [Basic]
+
+Traits (7/10):
+
+Keen Vision [Innate]
+
+Treasure Sense [Basic]
+
+Aerial Agility [Adept]
+
+Night Vision [Novice]
+
+Glimmerlust [Basic]
+
+Shadow Glide [Novice]
+
+Inventory [Locked]
+
+Next Evolution: Requires Level 20 and ??? Glimmerstones to unlock
+
+133. Not bad. Still, it's just a 1.33% boost. You're going to need more glimmerstones. Maybe it might be worthwhile to purchase a new skill until you do?
+
+No. I can always learn skills myself. Besides, I intend to earn way more glimmerstones.
+
+Liora was ready to take on stronger opponents. Perhaps it was time for one of those goats or a smaller panther. But as she flew up the mountain, she noticed several distinctly humanoid shapes in the distance.
+
+Are those humans?
+
+Doesn't look like the townspeople. These guys are moving too smoothly.
+
+Liora flew closer and saw mages, very similar to the ones that had tried to get their hands on Renir.

@@ -1,0 +1,365 @@
+---
+id: 8a2a0e6a-7ffa-5b02-843c-27a9350f0275
+page-type-slug: story-chapter-royal-road
+title: "431 Living by the Skin of Your Teeth"
+slug: 0391-431-living-by-the-skin-of-your-teeth
+partOf: the-new-world
+position: 391
+ownLength: 4480
+unit: words
+ownProgress: 4480
+publishedAt: 2025-05-30
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2315933/431-living-by-the-skin-of-your-teeth"
+royalRoadId: "2315933"
+markedReadAt: "2026-06-29T21:34:46.585Z"
+---
+
+They each put a dozen talismans over them alongside life-saving enchantments.
+
+I did none of that. They gawked at me. I shrugged.
+
+"I use other stuff to survive, alright?"
+
+They rolled their eyes. Nissa let out a long sigh.
+
+"You're like one of the guildies, always acting like you're invincible."
+
+Jamal met our eyes.
+
+"Let's hope he is. Is everyone ready?"
+
+We nodded. Jamal flashed a roguish grin.
+
+"Then let's see what's changed in a year? From the looks of it, I'd say just about everything."
+
+Chapter Begin
+
+Taking out a metallic rope of enchanted steel, we tied one end around several trees before testing it. It held firm. Once secured, each of us rappelled down one after the other. Since the rope extended far longer than needed and held far more weight than required, we all went down at once, using our hands and enchantments to slow our descent.
+
+The magic held my hands against the rope and offered friction in a controlled way. It reminded me of a gas pump stopping whenever it filled a car's tank. Closer to the lowest level of the chasm, a stark dichotomy formed. The upper level was a dark, gloomy cavern. Dirt smothered the vibrant mosses, disguising their natural charm.
+
+A blend of grays coated the walls as if competing to see which tone caught the eye the least. If not for the natural light from the opening, the grotto would be masked in darkness, a forgettable gap in the forest. Yet the glowing water below evolved the unremarkable into the extraordinary.
+
+It was like gazing at a high-contrast and brightened video. Surreal and cutting, the sharp coloration ate away at the eyes and senses. The corals glistened with phosphorescence, their dark orange bodies dimming to a lighter shade of apricot towards their ends. Azure stone contrasted the dull gray above, its bright shade all the more striking as it matched the corals' intensity.
+
+The cyan water hummed from a suffusion of mana, and at the end of the metal rope, origin mana soaked into the end. Tropical fish flowed under the water alongside muscular, armored sharks. Tiny swarms of piranhas devoured any corpses left behind and even wounded prey, and the ecosystem fed on the corals as sustenance.
+
+As we neared the shining water, Jamal took a moment to create a tiny island for us to stand on. He wielded origin mana to generate the rock before bending it to his will using dominion mana in efficient bursts. With better control, he could've created the object in his desired shape from the get-go. He could've also wielded quintessence to handle the process all at once
+
+However, Jamal engendered ways around his limitations. Swift applications of each mana type let him cleave and fuse blocks of stone, each piece slotting together. At that moment, I imagined Jamal as a carpenter before the system. He smiled up at us.
+
+"Our last regroup, everybody."
+
+Once at the bottom, he nodded at the group, and we nodded back. Despite myself, I couldn't help but wonder why we weren't using telepathy, but I chose to remain quiet. Sharing one's mind wasn't something everyone wanted to do, and that was, far and away, the worst complaint about our guild orientation process.
+
+Rightfully so. Sharing your mind sucked, but it was necessary. In this instance, everyone here had to trust each other. It seemed so strange that, as adventurers, we were more willing to put our lives in each other's hands rather than our minds. In many ways, I understood that feeling. There was something intimate and familiar about sharing your psyche. The vulnerability was palpable.
+
+And yet, it would've made this mission far less risky. We could speak to one another, but if multiple people spoke in tandem, our communication would devolve. Telepathy could direct specific thoughts, and it carried better and more reliably than sound would, especially underwater.
+
+I let that last-minute question die in my throat as Jasmine enchanted Jamal. He sank into the water, and Nissa followed. As I stepped up, Jasmine cast another type of smell-oriented sorcery. Despite my sharp senses, my smell muted quite a bit. The leather scent of my armor evaporated.
+
+It made our sinking into the water far less haphazard as all the fish ignored us. Bubbles of air covered our mouths, ears, and eyes. Having memorized our map, we avoided most of the most dangerous portions as we passed different rooms and traps alike. Along most of the way, I cross referenced the map to the dungeon. Everything aligned quite well, and the intel seemed solid.
+
+Of course, not every situation played out as stealthily as we hoped. After passing the fourth underwater chamber, a pair of sharks swam at us as vicious, wriggling masses of muscle. Their thin scales frayed upward, revealing teeth underneath them. Their mouths unhinged before splitting in three places.
+
+Sparks of silent terror erupted over the group before our training asserted itself. By instinct, Jamal swam forward. Nissa and Jasmine floated backward, Nissa shining and Jasmine cloaking against the azure stone walls. I stood between the mages and the sharks on the cavern floor. As they neared them, I threw out a few knives.
+
+I estimated the forces correctly, and they only pierced a foot deep into their bodies. The sharks, more like propelled maws, writhed before swarming at me. I leaped sideways while leaving a vial at my previous location. A burst of ice erupted from the glass, and one of the sharks ensnared in the frozen block. Its eyes, nested inside the teeth, turned to me. I smiled.
+
+And it trembled.
+
+Jamal channeled earth spikes into its body before Jasmine uncloaked. She cut open its side while putting a variety of enchanted hooks into its body. They ripped out multiple organs as if designed to harvest them unharmed. Remembering Jasmine's tirade about organs as a whole, the hooks might actually be just for that.
+
+Nissa lifted her staff, and a bubble of air formed over the shark's mouth. After having its entrails torn from its toothy body, it stopped moving. I lined myself up to the side of its head before throwing a knife that pierced one eye while going out the other. The second shark writhed away, its teeth receding before we rallied.
+
+It took about fifteen minutes, but Jasmine harvested every organ from the creature. Curiosity sparked as I watched her do so, and I wanted to buy the information from her about them. They might be helpful for the guild as a whole. Either way, we swam out after leaving the meat and cartilage for the hungry piranhas.
+
+The rest of the chambers proved uneventful by comparison. One cubbyhole sprung a trap of poisonous kelp, but a rock barrier from Jamal held it at bay before Nissa burned it in yellow fire. In all honesty, their approach befuddled me. Each of these eldritch could strengthen them and allow them to level up or earn achievements. Despite that fact, they avoided them like the plague.
+
+I kept wondering about that until one of the piranhas floated over and bit at Jasmine's leg. It tore her entire foot from her body in a flash, and she didn't even think about retaliation. Instead, she channeled origin mana to produce a viscous, bloody mixture.
+
+After tossing it into the water, she flowed away and cast magic to stop her bleeding. The piranhas swarmed where she once was, leaving us be. We waited a half hour for her to heal, and the entire time, I could hardly believe how fragile she was. Jasmine was a level 2,400 human. That piranha was only level 700. Despite the level gap, Jasmine lacked any and all defensive measures to protect herself. In essence, she was a pile of sand, and the eldritch were stone.
+
+It left me unable to comprehend how squishy they were. It might be from a lopsided build or my own experiences being so far from the norm. Still, to be that vulnerable meant every fight, even against lower-leveled eldritch, was a dance with death. These people desperately needed my legacy and rings to survive.
+
+However, they used talismans and defensive charms to bridge that gap. After a while of thinking, a spark of realization washed over me. They were the same as the construction companies. Since my guild offered free buildings, people didn't make organizations that revolved around building.
+
+In that same vein, these individuals awaited my legacy and rings to fill in the gaps in their builds. Until they got the bonuses, every fight would be nearly impossible to survive unless they avoided them altogether.
+
+Therefore, they avoided all fights and focused on treasure or information-based quests, not the killing kind. Those thoughts mulled through my mind as we got closer to the center of the cavern. Here, the mana concentration condensed, becoming more palpable and fluid. At its zenith, we swam into the final opening.
+
+Nested at the deepest recess of the cavern, a red dungeon core spiraled, its force humming through the liquid surrounding us. A set of sharpened corals nested around the treasure alongside several bodies from other explorers. Their treasures lined the corals, pearls, and polished corals, making the place a haven of loot.
+
+Obviously, the pit acted as a trap, but our group expected as much. Nissa went about establishing her rituals to destabilize the entire endeavor. At the same time, Jasmine found gaps in the corals that she lined using thin wires. Once taut, her origin mana flooded the strands. The magic eliminated sound, smell, and taste.
+
+It weakened the senses of the corals, and Jamal created a pathway down towards the pit using his earth magic. If this had been a coral trap, they'd of cleared it easily. But it wasn't.
+
+This was an illusion.
+
+Given my sheer volume of perception, I saw right through it. In fact, I saw through the entire dungeon's trippy vibe the moment I glared at the water. The reason it looked like a filtered video was because it was one. Sure, the wildlife was real, but nearly everything else had been an orchestrated set of venues meant to exhaust us.
+
+Our team had done an excellent job evading it all, but at this point, they still hadn't uncovered the pit's real source - it was a spined sea cucumber. Underneath the illusion, it had vomited out its guts and stomach. The treasure was at the bottom of its writhing tendrils, and the sharpened corals were its teeth.
+
+I motioned to the group, all of them enveloped in the advanced illusion. They peered at me before they jumped in. I spoke, breaking an hours-long silence.
+
+"Something doesn't feel right."
+
+Jasmine and the others nodded, taking my words seriously. After a few more minutes of testing, Jasmine mouthed.
+
+"This place. It's artificial. This...This is an illusion. Daniel, what gave it away?"
+
+I shrugged.
+
+"A high luck stat."
+
+Jamal winced.
+
+"Yikes. I need to invest more points in it, then. Have you figured out what this really is?"
+
+Jasmine's eyes widened with wonder and whimsy.
+
+"This...It's organs."
+
+Everyone groaned before Jasmine glared. She spread her hands.
+
+"This is incredible. It's used its body as a trap by regurgitating its insi-"
+
+Nissa leaned over and threw up into her air bubble. The vomit sloshed around over her before she threw up again. Nissa burst her bubble and swung her face side to side, cleaning herself off. After putting her bubble back over her face, she gasped.
+
+"Shut the hell up, you complete weirdo."
+
+Jamal frowned.
+
+"She's saving our lives."
+
+Nissa swung her staff.
+
+"Are you kidding me? She damn near drowned me there."
+
+The eldritch below rumbled as it smelled the vomit mixing into the water. It writhed for a moment before pumping out portions of its blood at the group. The compound stuck to magical shields Nissa's talismans spawned. It sizzled on the surface of the bubbles, but far worse, from all directions, the eldritch smelled the potent cocktail.
+
+The group shoved the congealed pheromone mixture away, the resident monsters of the cavern beholden to it. As they swarmed towards us, Jamal hit his head and stammered.
+
+"Think, Jamal. Think."
+
+We had seconds. Before I was forced to reveal my identity, I threw two of my vials towards the singular entrance leading into this place. After tossing two knives at them, the glass ampules shattered and unleashed a kinetic explosion. Stone fell down from above as that portion of the cavern collapsed.
+
+The eldritch outside had already clambered into a frenzy against the caved-in wall, but I bought us a few minutes. The giant organ mass readied another liquid spray at us. Before it could, I threw another vial above the creature. Nissa fired a kinetic bolt, shattering the ampoule. It exploded as the monster sprayed the liquid.
+
+The liquid redirected, falling back onto it, and I threw another vial. This wasn't even a potion or elixir. It had been a strange cooking ingredient imported from Blegara. The tar-like liquid simmered in the bottle as a vile oil, and after throwing it over the monster, another kinetic bolt from Nissa destroyed the enclosed jar. As the gunk dispersed, the eldritch sea cucumber went berserk.
+
+It ripped itself out of the stone below, desperate for the reduced fish sauce. The Vagni used it as a local seasoning that worked even underwater. As the sea cucumber/ball of entrails smothered itself in the liquid, we fell down. Jasmine used her cleansing magic to eliminate our own scent, and Jamal covered us in an earthen barrier.
+
+Nissa emptied out the water, trying to help prevent us from being smelled. The cavern's air exposed our gasping breaths and dripping clothes. We were silenced as the rumble of the eldritch wildlife erupted above. If they desired the liquid from the sea cucumber, then they despaired for the Blegara fish sauce.
+
+The feeding frenzy swarmed over our heads like a hailstorm on a car roof. The volatility of their feast was something only the eldritch could hope to uphold. The rumbling resonated into our earthen chamber, rattling our bones and clattering our teeth. The smell of blood oozed through the stone, and red droplets fell from the cracks.
+
+It dripped down, drenching the wet and pallid seafloor. As blood dripped over us in the dark, Nissa trembled. She let out small whimpers of fear. Jamal prayed while peering up. He tried to avoid flinching as the droplets pelted his forehead and eyes. Jasmine froze in place, her breath held and her heart calm.
+
+Minutes passed, the room cracking under pressure. As it filled with water, panic set in alongside claustrophobia. Jamal grabbed Nissa's shoulders. He said, his voice full of hollow confidence.
+
+"Hey. We're getting out of here, alright?"
+
+Nissa shook. Jamal tilted his head at me.
+
+"Besides, look at Daniel. He doesn't even look worried."
+
+I whispered my words.
+
+"We'll be fine. We get to clean up this mess after the eldritch finish eating each other. Remember that."
+
+Jamal nodded.
+
+"Exactly. Nissa, please set up the shields. Oh, and take your time. We've got it to spare."
+
+He spoke with sincerity. Nissa gulped before taking a steadying breath.
+
+"Yeah. I've got it covered."
+
+On her second try, she put the air-breathing shields and magic back over us. As the water enveloped our faces, Jamal put his forehead against hers.
+
+"That's our mage for you. Cool under pressure."
+
+She rolled her eyes, though a grin crept up her face.
+
+"It's the least I can do after Daniel bought us some time."
+
+Jasmine stammered.
+
+"Guys. I froze. I...I feel like I passed out."
+
+I held down a burst of laughter as Jamal rolled his eyes.
+
+"You could've just let us think you had it handled.
+
+I knocked on the earthen wall.
+
+"Come on, guys. It's about to collapse, and the feeding frenzy is done."
+
+The others nodded. I reared back a fist.
+
+"Ready?"
+
+After some affirmation, I slammed my fist through the rock wall. I put enough power to match Jamal. After swimming outside, we couldn't see anything. It was pure, thick red in all directions. Occasionally, a swollen fish swam by my eyes. As we wafted beside the corpses, Jasmine used cleaning magic to condense the red into a single, congealed ball.
+
+She put it in her pocket dimension. Ew. All around us, the sea cucumber's body sat in half-eaten fragments. Piranhas devoured tiny slabs of meat on the sea cucumber's torn body, and sharks rested inside the meat chunks, their entire bodies immersed in food. Below, the symbiotic coral fragments exposed cracks all along their surface.
+
+Jasmine began carving out the essential pieces from animals, taking the most energy-laden parts. During her harvest, Nissa, Jamal, and I grabbed the various pearls, shells, and other valuables left behind. It took nearly three whole hours to catch everything, and we ended up swimming out of the expanse with their storages full.
+
+It arrived with an air of solemnity. It turned into quiet focus as we passed the caverns, and we found a new route back that shortened the distance dramatically. I had memorized the path back along the way, turning a two-hour swim into a thirty-minute one. At the end of the cavern, we found the steel rope still hanging by several trees in the exposed grotto.
+
+After crawling back up and dripping all the while, they gasped for air while I kept everyone secure. As if all the tension had faded. Jamal held up his hands and let out a quiet, whispered roar of success.
+
+"We did. We fucking did."
+
+I smiled at them.
+
+"We did."
+
+Jasmine fell backward.
+
+"Dude, I thought we were done for when we were in that little earth torture chamber."
+
+Nissa gasped.
+
+"Oh, please don't remind me. That was a literal hell on Earth. No more underwater caverns."
+
+Jamal shook a hand in success.
+
+"That was brilliant work with the fish sauce. I never even thought to use cooking ingredients as a lure. What made you think of it?"
+
+I shook my head.
+
+"Honestly?"
+
+Jamal snorted.
+
+"No, lie to me. Of course, be honest."
+
+I peered at the vast open sky.
+
+"I figured that fish would know better what makes fish taste better for fish."
+
+A quiet passed over everyone before the group laughed, the relief palpable after nearly dying. I kept my gaze sharp.
+
+"Guys, something could get us, and we're weighed down with valuables too. Another group could come by."
+
+Jamal's eyes narrowed.
+
+"Hm. Good point. Everybody, let's get up and go."
+
+We got up and headed back to the main road. Jasmine collected herself under the trees, her home here among the greenery. We followed her lead as she kept us from unsettling the monsters of the wood. Mountains and valleys blurred in my eyes before we reached the main road. At that point, once we stepped on the dark bricks, Jamal shouted.
+
+"We made it. Hah."
+
+Jasmine and Nissa grinned, their success giddy and full of greed. Nissa rubbed her hands together.
+
+"Oh, we're going to be so rich after this."
+
+Jasmine raised her hand.
+
+"I don't know how much we can make off of everything, but-"
+
+She shook some pearls.
+
+"It's gotta be worth something, right?"
+
+I nodded.
+
+"Right."
+
+We headed back out, each of us running along the road. Even a normal systemized individual could run around 50 kilometers an hour. Since we didn't need to make massive twists and turns, we found ourselves peering at the growing skyscrapers of Springfield within hours.
+
+Each spire pierced the sky as an immaculate, shining pillar of stone. It grew in our sight; the materials and designs varied yet in harmony. At the edge of the city's colossal barrier, we passed through customs. The shades and golems gave me another wave as I shooed them off. In the town, we parkoured our way back to Joshua's bar, and as we went inside, we found Joshua pacing back and forth.
+
+The bar had been closed.
+
+When he saw us, his eyes lit up as if he won the lottery. He spread his hands.
+
+"It is so damn good to see you three safe."
+
+Jamal pushed me forward.
+
+"That's because of this big lug right here. It turns out he's pretty resourceful when he needs to be."
+
+I gestured a hand to him.
+
+"don't sell yourself short. The earth shield stopped us from getting caught in the feeding frenzy."
+
+Nissa raised her stave like a gun.
+
+"Did you see my shot on that fish sauce bottle?"
+
+Joshua's brow furrowed, his mustache crinkling.
+
+"Excuse me, but uh...Fish sauce bottle?"
+
+We sat down and told him the long story, and Jamal enlivened the tale, making it far more than it was. To me, it had been a desperate struggle for survival where we escaped by the skin of our teeth. No matter how we tried to twist the results, I nearly had to expose myself. If I had, that meant a normal group would've died.
+
+It left me quietly stunned. Hours ago, they had been so close to death, yet everyone here cheered as if nothing happened. The normalization of life and death struggle wasn't something I had expected to take hold so quickly, and yet here it was, hitting me like a sack of bricks. Something about my expression gave away my internal thoughts, and Joshua leaned over his bar at me.
+
+"I'm guessing things got pretty hairy?"
+
+I shook my head.
+
+"Hairy as a sasquatch."
+
+Joshua nodded before pulling out a glass. He pulled out the ingredients for his tonic. As he made them, I leaned back. I stretched my arms overhead.
+
+"Aren't you supposed to save those for hangovers?"
+
+Joshua didn't say anything. After a minute, he finished the tonic and slid it over to me. I opened my status to pay before Joshua put his hand through my screen. He scoffed.
+
+"It's on the house."
+
+I picked it up and sipped. It was delicious, as always. I smiled.
+
+"Ah, thankful I helped keep them alive?"
+
+Joshua turned to the team.
+
+"I'll leave that up to you to decide. All that said, you can have as much of that tonic as you'd like. You won't ever have to pay a dime."
+
+I lifted my glass.
+
+"Thank you kindly."
+
+His eyes grew serious.
+
+"No. Thank you."
+
+After a few hours of drinking, everybody passed out on counters once more outside of Joshua and me. Without a word, I picked the three of them up and waved a hand at the barkeep.
+
+"See you tomorrow?"
+
+Joshua polished a glass.
+
+"As always."
+
+After setting the others into the backroom, I sat down on my own cot. At that point, my mind raced across the holes in my guild. Firstly, I wasn't thinking about incentives as I distributed my support. People would form industries and businesses to fulfill a need. If I took away that need entirely, there'd be nothing to brim the void if I wasn't there.
+
+In fact, my guild likely already eroded the armor industry, eliminated stamina potions, and destroyed construction as a concept. While some of it wasn't a problem, the armor was a particularly salient point. People looking for my legacy created squishy builds in anticipation of the incoming defensive stats. My guild, one built on endurance, attracted the squishiest builds.
+
+How ironic.
+
+Worsening that trend, our guild barely had smiths or armorers. Even Diesel's power amor project ended whenever my golems came online. We thought of putting people in the golems as if they were Gundams, but the project fizzled since people experienced whiplash in them. It was like putting a water balloon in a rocket.
+
+Either way, we had to get the armor industry up and running. We couldn't dictate what people did with their builds, but we could at least help in the meantime with excellent defensive gear. In fact, offering up a store that sold defensive treasures of all kinds would be a massive boon, one that supported the guild by keeping prospective guildmates alive.
+
+Our scouting was atrocious as well. It had always been a personal weakness since I had the habit of running into the fray. Of course, on most occasions, my enemies were simply too far away to ever gather meaningful info. However, dungeoneering was entirely different. We needed to develop a database of dungeons alongside their development trajectory. I sent that request to Amara since her system abilities dwarfed my own.
+
+Lastly, we needed to further clear out the forests. I sent a few requests to leading Speakers of the guild, asking them to organize cleansing missions of surrounding eldritch. Over the next few years, we may be able to walk through the trees without fear. Well, maybe. Time would tell on that front.
+
+All that drifted through my minds as I rested on my bed. I no longer felt the desire to sleep, and my scars steadily faded, the insidious expansion of my armor like the slow march of time. The fighting and movement helped the healing, acting as an active recovery. My wounds were like a timer for this new life I had.
+
+And I aimed to soak in the fun while I still could.
+
+However, my healing also came alongside an expanded faucet of myself. As my actual body regenerated, it carried an expanded dimensional wake. I should've only been able to encompass a corner of Springfield in my current state. That assumed the ratio of mana production and the number of minds aligned to my wake's breadth. There wasn't a reason to believe otherwise.
+
+Despite that, I could feel the limits of my wake crawl further than they should. Even more so, each shade of mana arrived alongside a strange, burgeoning sensation. Event Horizon carried a profound hunger, one that could assimilate without end. The Rise of Eden held the ability to purify the energy of a land, almost turning it holy. Even Perfection's Providence felt as though I could bend minds to my will.
+
+As I gazed at my palm, I felt a resurgence of memories alongside my healing. I had gorged on the interdimensional energy for a long time, and in turn, the faculties of my armor expanded. It felt good, like becoming something greater. In tandem, a sadness spurred forth. I would only get further and further from a life like this as time passed.
+
+A part of me accepted that. Another part raged against this machine made of momentum. Either way, as Joshua left his bar's main room, I turned to the wall, gazing at the blank stone. I could only take every day one step at a time, by grounding myself, I could achieve a sense of purpose in my life.
+
+And my purpose was to move. It was time to enact change.

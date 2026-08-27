@@ -1,0 +1,333 @@
+---
+id: 3d6dbd6c-958c-5b3e-9388-733bf3c8257d
+page-type-slug: story-chapter-royal-road
+title: "The Path of Ascension Chapter 370"
+slug: 0068-the-path-of-ascension-chapter-370
+partOf: the-path-of-ascension
+position: 68
+ownLength: 5823
+unit: words
+ownProgress: 5823
+publishedAt: 2024-12-06
+link: "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/1943853/the-path-of-ascension-chapter-370"
+royalRoadId: "1943853"
+markedReadAt: "2026-06-29T19:19:58.640Z"
+---
+
+Chapter 370
+
+Matt whistled as he and Liz watched chaotic space swirl past them, letting his hand idly run through her hair as she leaned into him on the couch as they watched chaotic space pass by with their spiritual senses.
+
+They were both in excellent moods, the ducal meeting having gone exceptionally well, contrary to their expectations. Both of them had expected some kind of incident or challenge to their authority, considering they were weaker than the typical Tier of duke, just as Aiden had suffered when he earned his duchy.
+
+Instead, they were treated as any other new peer. They didn’t have the depth of their duchies to pull from when it came to making trades, but there were still a few deals that they had accepted. Most were for production facilities to be set up amongst their new lands, but ultimately, those kinds of exchanges were minor things in comparison to the dukes and duchesses who used the meeting to set up deals for truly rare resources. Matt and Liz could only hope to get their hands on prizes of that ilk in the future when they had trade goods of equal value.
+
+Ultimately with only half of their duchy having arrived, they couldn't barter too much. But they did know what rare resources most of their planets would have, which let them complete some minor transactions which they were happy to take a small loss on just to establish the trade route.
+
+Once the ships started moving between systems, they would inevitably seek to fill or empty their holds, and that was what they really cared about. Once the foundation was laid, everything else would be that much easier.
+
+One notable item Matt intended to get his hands on was the Gilard family's unique marble. The Tier 40 stone was widely desired for usage in thrones or other symbols of office, thanks to its rarity and unique presence. Few nobles actually had thrones made out of the marble, as the Gilards were notoriously picky about who they sold it to. But Ascenders historically had good luck getting their hands on it, and Matt wanted to surprise Liz with it as a present for when their flying castle was created.
+
+When infused with a person's mana, it created stunning visual displays based on their mana type and sub-aspects. The most famous example being the throne of a long since ascended duke who had Air mana with unique sub-aspects. The resulting throne looked like it was made of gravel constantly tumbling around in a hurricane, yet somehow keeping the overall shape of a throne. While he was curious how his own sub-aspects would flavor the neutral mana manifestation, he especially looked forward to how Liz's Ichor would show itself.
+
+And so was Duke Gilard, based on how quickly he agreed to sell some. He had been hemming and hawing to no end about selling some, probably in the hopes of getting a better price, until Matt mentioned his own curiosity.
+
+He had been tempted to buy a little more, as the marble was said to be incredibly stable for enchantments, but it was just too expensive for the current budget of his guild. Definitely too expensive, and in too low supply in general, to be useful in any final product. It was still a shame, it might have helped isolate some variables and further their research into improving the 50-50 odds for de-aspecting, the current big focus of his guild.
+
+A topic which had piqued his curiosity when delving in the Sects. Seeing so many unique and interesting rifts made Matt want to get back into making custom made rifts to personally delve. Part of the Path, especially with Luna as a mentor, was constantly delving into new rifts almost or completely blind, and figuring everything out on the fly. He had been doing it that way for so long that it felt weird delving any other way, and their travels through the Sects had reminded him just how much he enjoyed such delves. Some people took great satisfaction from delving a single rift until they had absolutely mastered it, but Matt wanted a completely new experience every time he delved.
+
+And that just wasn’t possible unless he was able to create new rifts rapidly and with some measure of control.
+
+Keeping a rift from de-aspecting in its entirety, like what was required for aura rifts, would be a pipe dream. But keeping things stable enough that he could get a rift to Tier 30 with a general theme he wanted would be more than enough to keep himself from getting bored when advancing.
+
+It would have to wait until they had more to trade and until Matt had something of equal value to make fair deals, but that was only a matter of time.
+
+Beyond that, they had managed to avoid creating enemies, and both he and Liz were riding that emotional high as they traveled to meet their new ducal capital.
+
+It was nice to be able to spend time together where they weren’t working, weren’t stressed about something, or weren’t solving some disaster, and they luxuriated in each other's presence.
+
+That only lasted until they were close to their destination. It was just a long jump from Lilly, but Matt wasn’t even tempted to check in on the guild.
+
+Or, he wasn’t too tempted.
+
+Mostly because he had been getting regular updates sent his way, and he didn’t want to risk getting too involved and missing the arrival of their world.
+
+Their arrival was well timed, and after just a few hours of waiting, the eddies in chaotic space started to change. It was like a large boat was moving through the water, changing the very tide of its surroundings long before it actually arrived.
+
+Stretching his spiritual perception to its max, it still took a few more hours for Matt to be able to sense the world itself.
+
+Despite knowing otherwise, he expected Palustris to be noticeably different somehow, even from this range. It was, after all, both high-Tier and fire-aspected.
+
+The bright firefly of light shone in the chaotic space guided by two Tier 45s who were visibly straining to guide Palustris’ node into its awaiting spot, with even minor corrections obviously taxing them.
+
+It took everything Matt had not to rush over and dive in, but while he had the self-discipline to refrain, he didn’t bother trying to hide his overt excitement. Hardly able to contain himself, he cheekily took Phoenix Liz off his shoulder and started bobbing her around.
+
+That earned him a playful peck when he stopped and a glare from Human Liz, but the byplay ended the moment the two guiding Sect cultivators got the planet in place.
+
+Once it was in place, five tethers of energy stretched out and connected with the nearby planets, locking Palustris in place. Higher Tier worlds were spiritually heavier than a lower-Tier world, which made them harder and slower to move through chaotic space. But it also meant they needed more connections, which was part of the reason higher Tier worlds were used as important nodes in the map of tethers that connected worlds.
+
+It took half an hour for the tethers to stabilize, but once they did, Isabella and Cato went down and checked things over before giving them the ok. Having confirmed that nothing was amiss, Matt and Liz completed the hand off procedures and floated outside the speck of light.
+
+Now that the moment was upon them, Matt felt nervous.
+
+This was their world.
+
+An entire universe of their own.
+
+A world for them to rule. A world for them to guide. A world for them to nurture.
+
+A world they couldn’t afford to mess up.
+
+Liz squeezed Matt’s hand and grinned at him. “Let’s do it. Together.”
+
+Returning her smile, Matt pulled them into the world's real space along with their ship.
+
+They appeared over Palustris, floating in its orbit, and Matt just let himself take it all in for a long moment.
+
+The world was red.
+
+It wasn’t entirely red, to be fair, but thanks to his mana sight, that was the overwhelming color as he looked around the planet. That said, it was a tapestry of red with a million and one variations and subtleties that stood out from each other, but there were a few places that weren’t just fire. He’d seen more than a few magical nexuses over the course of his life, where the ambient mana became so dense it was visible and occluding, but seeing it on a planetary scale was something else entirely.
+
+He adjusted his vision to accommodate for the overwhelming presence of fire mana like he was adjusting it to a bright light, and looked around, taking in the sights.
+
+It was beautiful.
+
+Unlike the propensities of media to exaggerate aspected, or even just high-Tier planets, into being one uniform biome throughout, Palustris still had lakes and rivers, oceans and forests, alongside all of its volcanoes and deserts. Sure, as often as not, they were lakes of super heated water and rivers ready to let out plumes of steam at the smallest disturbance, but they were there. There were a few places that would be habitable for mortals with minimal assistance or terraforming needed.
+
+It was in one of those more habitable regions, this one near the equator, that Matt and Liz floated down to set foot on their personal planet for the first time. The sky was a reddish-orange and the obvious smell of smoke permeated the atmosphere, but for a mortal, it might barely be noticeable. The smoke, however, was far from just woodsmoke. The scents of incense and sulfur, ozone and polished amber all came together for what he felt was a rather pleasing experience.
+
+Every world had its own scent, some more pleasant than others, and Matt was quite happy that their new world had an enjoyable one. On his shoulder, Liz seemed like she was having a bit of a meltdown, feathers shuddering and muscles quivering as the subtle flames along her wings and tail flared up into a vicious, golden blaze hot enough to set Matt’s hair on fire.
+
+He avoided that particular fate with a quick but heavy dose of [Fire Manipulation]. The Liz at his side wasn’t so lucky, as the phoenix on her shoulder underwent a similar reaction while her human body braced herself, eyes wide as her hair lit itself, carrying the strands into the air for a moment before she got ahold of herself.
+
+All three of Liz’s bodies shuddered in unison, shaking the effect off.
+
+“Sorry. I’ve heard of resonance with fire bloodlines and fire aspected worlds, but hadn’t expected it to be so…” Liz paused as she searched for the right word. “True. That’s not the word I want, but you saw it. It was so subtle that I almost didn’t feel it happen. It was almost similar to how you described your inspiration. Like my spirit expanded and was in perfect harmony with the realm itself, except this was with the spirit of the world. It's like a weight was taken off my shoulders that I didn’t know existed until it was removed. I’m not sure I’ll ever want to leave.”
+
+Matt tugged Liz into a hug through their still connected hands. “You’re making me feel jealous.”
+
+Liz’s grin was wicked as she said, “Aww. Don’t worry, love. I’ll show you what it felt like later.”
+
+Laughing, Matt studied the surroundings as they finished descending through the atmosphere. Non-volcanic mountains penned in the valley on all sides, and this particular region was dominated by a forest.
+
+The trees of the forest weren’t green, of course. Their leaves ranged from the bright colors of fall to coal-black shimmering with red, and their bark looked almost like a log in a cold fire, blackened and ashen gray, but with occasional glimmers of reddish-orange as the heat peaked.
+
+Some trees were even in a perpetual state of burning, though they let off little heat to their surroundings.
+
+Others were actually absorbing heat, or rather fire mana, through various functions.
+
+The trees weren’t alone, either.
+
+The birds in the trees were likewise all fiery, though in subtle ways. A small foraging bird let off clouds of smoke to obscure its exact position, while a falcon diving to grab a morsel of food had the tips of its feathers burning with a steady, but minor intensity, propelling it down even faster than gravity should.
+
+Its target, a small lizard of some kind, was sitting on a rock snacking on a colony of ants. The ants had glowing thoraxes and were crackling with lightning as they tried to swarm the lizard, but the reptile that had limbs wreathed in blue hot flame didn’t seem to mind.
+
+Near the river, two crabs with claws wreathed in silver fire battled for dominance while several fish swam around them, picking up the scraps.
+
+With a slight motion, Matt redirected them to land at the riverbank and they set foot at its bank, breathing in the refreshing steam it was letting off.
+
+Unlike what the corner of Matt’s mind that grew up watching movies and shows full of single biome worlds kept insisting, the river was hardly anathema to the fire-based life of the planet, and teemed just as surely with all kinds of life as any other planet. Dozens of fish species swam through the hot spring-like water, with one particularly interesting specimen crackling with lightning and obviously using some kind of innate mana sense to hunt down insects along the riverbank. Tiny bolts of lightning zapped out of the water to stun its prey and caused it to fall into the river where it could gobble them up.
+
+Another species absorbed fire mana, stockpiling it until it reached a critical amount where it then exploded, causing a shock wave of power that pushed anything too close back. A third, much smaller fish, a minnow of some kind, used that brief expulsion to snatch algae that had been kicked up off the river bed and out of the crab's reach.
+
+Dipping his hand into the water, Matt let the currents carry the water through his fingers.
+
+It was water.
+
+A little warmer than one would expect a river to be, but liquid water nonetheless.
+
+Liz knelt down next to him and copied his action before scooping a handful of the water into her mouth.
+
+She worked her jaw for a long moment before she swallowed. “It's water.”
+
+“Har, har.”
+
+Matt took a sip and let his taste buds register the flavor.
+
+It wasn’t great.
+
+They were far down river from the source, and the river was teeming with life, which had to defecate and decompose somewhere.
+
+Still, he had drank worse and didn’t let that distract him.
+
+Instead, he concentrated on the fire mana infused into the water. It gave the water a unique flavor he typically only associated with high-Tier fine dining, as to make such infused items oneself was an annoyingly long and mana draining process. Not that he minded the mana costs, but he rarely had the time to do so; it was just the typical water on their new home.
+
+Liz hopped off his shoulder and dove into the water, hardly making a splash. She returned a moment later with a fish wriggling in her beak, its suffering ended a moment later with a snap.
+
+As she had her snack, Matt [Portal]ed them north to check out the pole.
+
+As he’d spotted from space, there was actually ice present, the entire area rife with thermal mana. Pockets of hot and cold littered the area, extreme enough that Matt needed to use [Cracked Phantom Armor] just to avoid being harmed.
+
+Geysers of boiling water erupted from the ground around him, only to freeze in midair, coming down as massive clouds of snow. Rivers of boiling water snaked through deep blue glaciers, and a light dusting of snow suddenly sublimated into a cloud of steam, which in turn hardened to form a layer of ice around Matt, albeit one he trivially broke through.
+
+Matt scooped up a snowball and tossed it directly at human Liz’s face. The phoenix body on her shoulder swooped off, caught it in her talons, and tossed it back at him, but it melted before it hit him, and hot water just splashed off his armor.
+
+“Do you think Aster will love or hate this?”
+
+“Oh, definitely hate it. I see there’s a few areas that are more consistently cool, and she might like those, but the thought that her precious ice might suddenly become boiling water at any time…?”
+
+Matt chuckled at the image, then [Portal]ed them south again to check out a few other points of interest, while still avoiding any of the actual settlements away from the more civilized areas of the planet. They were more like outposts than true settlements, as low Tiers didn’t live there and their only purposes seemed to be to house delvers or explorers who were roaming the planet and its hazard zones.
+
+Of which there were many.
+
+A full sixty percent of the planet would be whole uninhabitable to anyone under Tier 15. The fire mana and essence caused too much disturbance that even short-term exposure would cause serious health issues. Even those in the Tier 15 to 20 range would need to take precautions to ensure they didn’t fall afoul of any of the purely environmental hazards, not to mention any monsters.
+
+Thirty percent or so was safe and was where they had just been exploring. They were safe for mortals with minimal continuous interference beyond ensuring any of the Tiered wildlife didn’t eat them, and a super volcanic eruption didn’t wipe them all out.
+
+The final ten percent was incredibly hostile, to the point that Matt and Liz would need to activate some of their defensive abilities.
+
+One notable hazard was a newly forming super volcano that pumped massive quantities of fire essence and mana out from the planet's core into the air, which turned everything… toxic.
+
+The air itself burned with enough power strong enough that without a specifically anti-fire armor spell even the typical Tier 29 would be forced to flee before their bodies were burnt to a crisp.
+
+Liz just absorbed the fire into herself, converting it into ichor, while Matt just kept all of that at bay with [Cracked Phantom Armor].
+
+They found, and noted, but eventually left alone, a few more common Natural Treasures that had grown in the region, and talked about how they really should come back and see what type of rifts had formed in such an area. Maybe get Aster, Allie, Zack, and Susanne in on it for some good old fashion delving.
+
+From there, they teleported to a second, not-quite-hazardous region. It was still a dangerous zone but it was either in the early stages of becoming a hazardous region, or was starting to be naturally pacified and losing its ferocity which made it not that bad in relation to the last area.
+
+A series of small mountains formed mainly of iron had caused near constant lightning clouds to form, which turned the land into a static electric nightmare. A typical Tier 27 would probably be fine if they didn’t linger too long without the appropriate defensive measures, but anyone under Tier 25 wouldn’t be able to survive.
+
+Amusingly enough, right next to that region was a more habitable zone where most Tier 15s could live without serious issues or extra assistance.
+
+Which was far more indicative of the majority of the planet.
+
+Dangerous, but not unduly so.
+
+Still not acceptable for mortals, which was something Matt and Liz would need to figure out.
+
+To prevent the planet from de-aspecting, they wouldn't be able to terraform on a wide scale, but they would need to do something to allow mortals to live on their duchy capital.
+
+Matt had originally been thinking underwater cities in domes or similar on coastlines, but seeing the planet in person and how the seabed was hardly any better than dry land, he believed that they would probably end up buying at least a few habitable moons to give mortals somewhere safe to live, while also having access to the world and its resources.
+
+That would mean a need for cheap shuttle service or some other way to prevent a strata effect from taking hold. Another logistical headache.
+
+It might make for a good use of travel mana if they… Matt stopped himself from getting too distracted as he got lightly pecked on the ear for ignoring Liz pointing out a flock of birds flying overhead.
+
+Together, they visited a few more more-perilous regions: a rain forest that had flaming droplets of fire falling off the trees leaves that caused numerous but short-lived fires. A whirlpool that stopped and started every time the tide changed and was strong enough to create storm mana when it was active, thanks to it pulling lightning from the sky to mix with the water and air mana. A field of seemingly innocent flowers, until a pack of rat-like animals stumbled in and the plant released spores that somehow burned even the fire-based animals.
+
+The desire to explore was redirected when, while visiting one of the habitable regions near the south pole, they found an inland sea rife with archipelagos locked in an eternal summer, the results of three continental plates pressing together.
+
+It wasn’t the most populous region of the world, but it was close thanks to the many islands making it so rifts couldn’t form anywhere nearby. That led to a substantial mortal population who traveled between islands.
+
+Archipelagos were something of an amazing phenomenon and were typically places of safety, which was why so many people were drawn to them, but on Palustris, Matt could see this region needed special control to protect its natural beauty. Thankfully, the local regional power, a sort of subservient sect to one of the local planet powers, the Rage Held Between Heaven and Earth Through My Will sect, kept the mortal population safe from what few higher-Tiered monsters came into the archipelagos.
+
+The rich fire mana and essence caused the entire region to teem with life, while also making each creature a spectacle, a feast for the eyes.
+
+And a feast for the belly, if Phoenix Liz’s attention on a ten-foot-long fish swimming deep in the sea was any indication.
+
+As if the beauty couldn't get any more exaggerated, one of the peninsulas that stretched into the sea from the mainland was a sheer cliff of black marble flecked with silver that stood hundreds of feet in the air, overlooking the islands below.
+
+Simply put, it was stunning.
+
+Liz tugged him along to the top of the cliff. “We are so definitely anchoring our flying island here.”
+
+Matt scoffed. “Of course we are. It's stunning. Look at this view. You can see for miles. Can you imagine the sunset from here?”
+
+“A nice bottle of wine, a good meal, some simple conversation. I can see it now.”
+
+Matt twirled Liz before they sat with their feet dangling over the edge and just took in the view.
+
+Not just of the sight below them, but the world itself.
+
+Matt used his Tier advantage to scan through the populations present.
+
+Seven million was nothing, below typical of low-Tier worlds, but Palustris was a fairly recently settled world. Then again, the Sects weren’t like the Empire, who prioritized getting a self-sustaining mortal population going on any planet. Most of the mortals on this planet were the descendants of the sects who had roots on this planet, the ill-favored and illegitimate children of their disciples, cast off and mostly living in societies at the outskirts of Sect territory, where the rifts were delved and the monsters all killed. The rest were the favored mortal descendants of the sects, and they were primarily concentrated into two massive cities that the planet’s primary sects had built around and under their main compounds.
+
+Despite their relatively sparse populations, the cities were built for future growth, with mortals having the option to have entire estates to themselves. Most still chose to live near the areas where cultivators gathered, meaning there were areas where people crowded together right next to miles of empty buildings.
+
+That would quickly change, Matt was sure.
+
+While they intended to keep billions from flooding in, he and Liz were going to open the world up allowing anyone with the means, motive, and opportunity to move to Palustris. Even ignoring their popularity as Ascenders and Palustris’ unique status as a fire-aspected world, in general, they would expect a Tier 27 ducal capital to have at least fifty billion residents within the next century.
+
+The planet just couldn’t support it.
+
+Matt had read many, many papers on the subject in preparation for this planet’s arrival, and while they could stretch the thirtyish percent of readily-habitable environment to forty, or even possibly even forty five percent, that would require fairly extensive infrastructure to make it anything more than minor outposts. Though, that would risk disrupting the unique balance that made the planet fire-aspected, as well as spoiling much of its natural beauty.
+
+They wouldn’t allow that, but it would mean careful control over the long-term residents as well as ensuring that fire mages who wanted to come and bask in the fire mana or cultivate the fire essence, didn’t do so recklessly.
+
+Even with those restrictions, Palustris was a gem just waiting to be polished and they were aiming for a stable population of ten billion in system, even if not on-planet, within the next century. And they would carefully limit further growth.
+
+After seeing one in person, Matt was extra-hopeful he could persuade Liz that an orbital ring was the best way to expand their habitable area, rather than just bringing in new planetary bodies to the system.
+
+He didn’t really have any good arguments, as moons were far simpler and had, among countless other reasons, the advantage of Tiering up. But the orbital ring had been awesome. He made a note to have Countess Walsh keep him in the loop about how her orbital ring fared in the coming decades.
+
+The orbital ring idea was even more exciting the more he thought about it, but that would be centuries out, while a moon could be ordered in a short few decades so long as they didn’t care about any customization beyond habitable. Would a moon change the local tidal stresses too much and threaten to de-aspect the world? Probably not, but it could be a reason to go with the orbital ring.
+
+Really, after seeing the state of the world, it might be better to skip that and just order a sister world for the system. Even a Tier 1 world would ensure that any mortal who wanted to be in their capital system would have a safe place to put down roots.
+
+The issue with that idea was that people came to live in high-Tier systems because they were higher Tier, and therefore it was easier to Tier up with ambient mana. A Tier 1 world, even one in a Tier 27 system, wouldn’t be nearly as prime a choice as the Tier 27 world itself, and historically most people would prefer to live on a nearby moon rather than a same-system planet.
+
+Though, having more planets in the system had its own advantage.
+
+If they played their cards correctly— if Matt threw a ton of time, mana, and essence at the problem— they could probably have a few other aspected worlds in the system.
+
+Conventional logic said it was nearly impossible to manage, the lower-Tier aspected worlds were incredibly fragile and prone to either elemental apocalypses or de-aspecting entirely. Moons like the nature-aspected moon he had been to with Amelia Galley would be correspondingly easier to make, which might make the idea more feasible.
+
+Matt liked the idea of a lightning moon and a blood moon orbiting Palustris, completing the trilogy of Liz’s ichor mana.
+
+He could picture Liz’s expression if he presented her with two aspected moons for a birthday or anniversary. They would also look stunning in the Palustris night sky, of that he was sure.
+
+Though he might want to complete the trilogy and give her an ichor moon as well.
+
+But that felt wrong.
+
+Ichor should be the main focus.
+
+An ichor planet orbited by fire, lightning, and blood moons sounded far better as a way to represent his wife, and it was flatly impossible to change the aspect of a planet once it was formed and higher than Tier 2 or 3.
+
+That circled right back to the problem of creating an aspected world, and how impossible that was. Worse, even a slight failure stood a major risk of de-aspecting the planet altogether.
+
+Tossing the idea to the back of his mind where he could let it simmer, Matt turned his attention back to Palustris and the last thing they’d need to do before properly setting up their capital.
+
+The two local sects, the Rage Within and the Dancing Flames sects, had both opted to stay, which was perfectly inline with Sect methodology. Retreating would be seen as cowardice.
+
+The Empire didn’t mind and even had official policy in place to encourage the more useful parts of Sect culture to linger, while stripping away the problematic elements.
+
+But practically speaking, if whoever was directly in charge of the world wasn’t strong enough to physically keep the local sect leadership in line, everything became a thousand times harder. Most sects respected strength above all else, and if Matt and Liz could prove that they were strong enough to beat them, the sects were all but certain to fall in with the new regime, giving them ready access to all their administrators, bureaucrats, and public service systems. If they weren’t, they’d be harried constantly, and while outright open rebellion was very rare, subtle ‘rebellions’ were common.
+
+But even that didn’t last indefinitely, because the Empire would never allow a proper sect to remain in power.
+
+While they weren't immediately disbanded, they were encouraged to transition into a guild with a unique structure reflecting their origin. The restrictions would remove most of their power, but it wouldn't destroy their legacy which, when compared to how disbandment would remove both their power and their legacy, proved a sufficient incentive. There were, in fact, dozens of prestigious and upstanding guilds in the Empire that could trace their origins to captured Sect planets.
+
+The Rage Within sect was a melee-oriented sect that had its main headquarters in an active volcano range, while the Dancing Flames sect was a hybrid fighting style sect that focused on elegant, flowing moves to channel and harness fire for brutal mid-range effect.
+
+The sects were, as all conflicting sects were, hostile to each other, with their main desire to drive the other off their world to gain a period of supremacy where they could grow to take on a new opponent on a higher-Tier world, thus repeating the cycle.
+
+Without the planet being transferred to the Empire, they would have continued to fight. But currently, the two sects seemed to have an uneasy alliance to try and wrestle as much power as they could from Matt and Liz.
+
+The sect leaders were Tier 29 and well-known fighters, but they weren't pinnacle or even peak elites. When they were active in the wars, they were at best mid-level elites who were average amongst their peers.
+
+It wouldn't be easy, but if he and Liz could defeat the two sect leaders in fair combat with no restrictions, they could not only subdue the sects, but gain two capable and reasonably loyal followers.
+
+At least in theory.
+
+It all came down to the upcoming fight. Ideally, they’d want a fight that unilaterally demonstrated their superiority, rather than a win based on a technicality or through cheap tricks. In other words, they’d need to make it look effortless.
+
+Popping to his feet mid-air, Matt helped Liz up and they stood right next to the cliff they had been sitting on.
+
+Liz rippled as her armor took shape, and Matt pulled his armor out of his spatial ring and onto his body.
+
+With a [Portal], they appeared in the canyon that had been prepared for their arrival.
+
+Ignoring the sect leaders, Matt let his eyes scan the sects.
+
+On each side of the valley, the disciples, elders, and staff of the sects were perched on the sharp cliff faces.
+
+Their uniforms were immaculate, perfectly cleaned and pressed into shape, while their appearance was similarly crisp. The men and women of the Rage Within sect showed off their muscular bodies with minimal upper body clothing that wasn’t armor. The sect also seemed to have a tradition of tattooing various mystic beasts onto their bodies; tigers, lions, dragons, phoenixes, bears, leviathans, anything with tremendous strength was represented by at least one disciple or elder. The degree of how complete the tattoos were didn’t exactly seem to indicate rank or seniority, but they did seem to follow that trend in general.
+
+Matt sent a question to Cato, who provided him with the answer: the tattoos were indicative of how proficient the sect member in question was with the sect’s core skills. Hearing that, Matt had Cato stop. He didn’t want anything spoiled before the inevitable fight.
+
+On the other side of the valley, the Dancing Flame sect’s clothes were notable by their long sleeves that nearly reached the ground and merged with their long and flowing skirts. Men and women alike had long flowing hair that was held in place by enchanted needles that would make fantastic throwing weapons. Their other unique feature was the grafted-on animal part from something with a fire bloodline, and if he wasn’t wrong, they were all from the local planet.
+
+Eyes were replaced with eyes that trapped fire. Fingernails were ablaze with inner fire. In one case, a woman had a third arm made entirely out of ethereal flames, while the man next to her had a tail of flames hidden under his skirt.
+
+That was a trend rarely seen any more.
+
+The Federation had been the last one to dabble, but even they didn’t find the old methods more useful than modern ways to gain additional power. Even the Glorious Everlasting Kingdom of Prosperity had considered it an antiquated method, but the Dancing Flames sect, being Tier 29, seemed to have found some success with the method.
+
+Interesting.
+
+“How do you want to do this?” Liz asked in perfect Sect common for all to hear.
+
+Matt smiled at Liz’s question and met the eyes of the two sect leaders eager to get started.

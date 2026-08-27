@@ -1,0 +1,189 @@
+---
+id: f261342e-a72b-5b2b-a312-846687799879
+page-type-slug: story-chapter-royal-road
+title: "94 In the Flesh(Part 1)"
+slug: 0051-94-in-the-flesh-part-1
+partOf: the-new-world
+position: 51
+ownLength: 3659
+unit: words
+ownProgress: 3659
+publishedAt: 2018-01-08
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/185449/94-in-the-fleshpart-1"
+royalRoadId: "185449"
+markedReadAt: "2026-06-29T21:22:34.399Z"
+---
+
+I clicked yes. For once, the evolution began with no pain. The area around me stretched outwards, as if it was being forced out of place. Around me, the space rippled along with a fluctuation in gravity. This subtle change grew in magnitude, becoming a shifting field around me.
+
+Everything around me became foreign. It was the same feeling I got in a rift, like I wasn’t a part of where I was. I was something else intruding here, an entity that existed elsewhere. The difference made sensing gravity and fluctuations in it much easier.
+
+Experimenting with the difference in feel, I stepped forward. As I did, the rippling field around me shifted too. I moved my hands through the air, noticing a pressure and pull that my limbs exerted. Before I took another step, a fresh, new kind of hell roared up my limbs.
+
+The cold extinguished as a fire stampeded through my flesh and into my head. It consumed me, like falling into a vat of lava. Within seconds, my blood was magma and my bones were molten lead. I pulled back my helmet, gasping for air. I knew there was wind, yet I couldn’t feel it. This horrific burning wouldn’t let me notice anything else.
+
+My blood thickened. An awareness of it pressed into my mind like a drill. Within the nerves lining my body, metal tendrils crept through them. Wires of my armor dug into the nerves, throwing my entire body into a firestorm of pure agony. It was a flood of frenzy and fire and force. It was like every fiber of my being was being destroyed and recreated.
+
+It was overwhelming. The pain was shouting at me to bend and bow my head. It told me that it was impossible to withstand, and that I would snap as I endured it. I writhed on the ground. My hands shook. My skin shivered. My eyes watered. I dragged my face across the dirt, gasping and heaving for breath.
+
+At that point, I remembered myself. I sighed out my weakness. I grinned at my body’s misery. It believed it would conquer me. It was wrong. Even as the excruciation grew in magnitude, my confidence exploded. The pain was shouting at me, screaming for me to bow and bend and break. I wouldn’t go down without fighting.
+
+Against that deafening misery, I roared. Against the blistering anguish, I thundered. My voice quaked the ground with my defiance. The might of my own words echoed with my resolve. Within me, my voice boomed louder than the pain. It swallowed the outcry of my tortured body. I was the conqueror, not the pain and torment.
+
+I clasped my shaking hands into fists harder than iron. I clenched my chattering teeth into smile that could bite through steel. I wouldn’t let something as simple as pain overwhelm me. I stood on shaking knees, the pain waning as I did. By the time my knees where steady, the pain roared out no longer. I was free from it.
+
+I shifted my hands, everything fresh and new. I bent my neck before rolling my shoulders. As I did, the resistance was greater than I remembered. It was like I was heavier and harder. I looked around, the pervasive and unfamiliar aura pressing all around me. After turning back and walking towards Hod, the unfamiliar aura followed me. I shifted my hands before it came to me.
+
+The alien aura was me. Curious about myself, I tested out my new limits. I flared my mana. The generation of current strengthened the pulling sensation around me. Deep under my skin, the mana coursed better through my armor.
+
+I walked around, and my feet crushed the ground beneath me. My armor was harder, denser, better. The mass and hardness turned my feet into pikes that pierced into the ground. Without telekinetic pads dispersing my weight, I sunk into the soft ground. Thank Jesus I already handled that issue before now. As I created the pads on my feet, the tug on my mana was smooth and fluid.
+
+After stretching my arms, I felt why. Tiny wires of the armor lined my nerves and veins. They acted as conductors for my mana, like wires through a power grid. I reached out with oppression, but it didn’t respond. The ability was gone. Curious about what the fuck was going on, I opened my status screens. They explained a lot of what was going on.
+
+You have forgotten Oppression.
+
+Unknown skill unlocked, Event Horizon.
+
+Living Dimension(New Body | Unknown Composition | Class Permissible) - Your body is a dimension. This gives you many unique properties. Listed below are these properties. 0/4.3 Trillion Mana left till next evolution.
+
+Condensed Dimensional Fabric - A reinforcing material composing most of your body. Wires of this material lines your blood vessels, nerves, and organs, absorbing impact and damage.
+
+Creator of Cosmos - You’ve created your own dimension. This enhances creation abilities involving your dimension.
+
+Sovereign Presence - You exist within your own dimensional space and time. Since your own space is condensed and living, you can grow it, and it is resilient to change.
+
+Event Horizon - Gives unique ability Event Horizon | Current Damage: (20,000 + 100% of your total health/min) within a maximum of 250 ft/76 m radius. Drains 50% of damage dealt as health. If health is full, damage is converted into ambient mana. Counts as physical damage, and is affected by physical resistance.
+
+Unfathomable - Differences are often scorned. Subtracts 20% from total Charisma.
+
+The bonuses from condensed dimensional fabric were insane. The extra damage resistance, even though it was half a percent, gave me a third more tankiness. That alone was an enormous boost. The extra health and health regeneration were welcome rewards as well.
+
+The creator of cosmos bonus was a little harder to understand. Whenever I made the single eldritch rune, it costed a ton of mana, so halving that cost was awesome. The enchantment bonuses didn’t affect the steel legion’s gear because they weren’t made from my armor. It would affect Althea’s rifle though, so I could get a lot out of that. I didn’t understand the soul forging bonus yet.
+
+With time, I’m sure the bonus would manifest itself. The last set of bonuses were a mixed bag. The mass bonus helped amplify my constitution bonuses. As I gained extra mana, my mass would increase. That limitless growth upped my potential heft by plenty. The storage explained were my obelisk went when my armor ate it.
+
+The last two bonuses were very powerful though. Dimensional resistance might affect a sentinel’s spear or an overseer’s dimensional rupturing. Considering I was fighting Yawm who had a sentinel’s spear, that resistance was key. The kinetic resistance would help versus giant enemies like the sandworm. The last perk was the most exciting bonus though.
+
+I mean it was called event horizon. The name itself just sounded epic in my ears. It worked just like oppression except it drained half the damage it dealt. That meant groups of enemies would desperately struggle to kill me. Having another viable source of getting ambient mana was nice too. Considering I needed four trillion mana for my next evolution, I would need it. The last effect reduced my charisma, but at least the debuff had been reduced.
+
+Wondering what Event Horizon felt like to use, I activated the skill. Controlling the field reminded me of gravity magic and oppression if they combined. As I shifted it over a few plants, they died. As they did, tiny sparks shot into my armor. The sensation of consuming an eldritch corpse washed over me, like satiating a deep hunger.
+
+After getting a grip on the different feel between the two skills, I walked over towards Hod and my grimoire. I sat down, folding Event Horizon around us like a protective shield. The night has a few hours left in it before it was over. Maximizing my fighting potential was my goal right now. Finishing some basic eldritch runes and putting them on my armor was the first step for that.
+
+It was a fact I had to face. My old runes weren’t cutting it anymore with the amount of mana I generated. That was before my evolution. With the added health and regen from Living Dimension, I doubted the magic runes would even last seconds.
+
+With that in mind, I picked up my grimoire before opening my status screens. I wanted to get an idea of what I was working with now.
+
+Level 1500
+
+Strength – 1353 | Constitution – 1721 | Endurance – 4006
+
+Dexterity – 430 | Willpower – 2319 | Intelligence – 831.2
+
+Charisma – 117.1 | Luck – 273.3 | Perception – 199
+
+************************************
+
+By far the biggest improvement was in health regeneration. The scaling of my stats crossed a threshold now. My tankiness was better than Kessiah’s by now, and tanking her mythical skill wouldn’t be impossible anymore. I might already have been the strongest member of our team.
+
+The fact I got there so fast didn’t surprise me either. For all the age that Kessiah and Torix had, they hadn’t honed their skills much. Torix spent most of his time learning, but he never applied it to the real world. Kessiah was just messing around until very recently. The distinction between us was clear. They grew bored with progress while my life was dominated by it since Schema took over.
+
+That’s not to say they were inferior or anything like that. Torix’s pursuit of knowledge was admirable on its own merits. He could probably get several legendary skills if he wanted them. Kessiah seemed more like a case of rotten talent. She was born powerful, so she never had to earn that power herself. That meant she lacked the ability to learn effectively or the willpower to strengthen herself.
+
+I still had a lot to learn from them, but if they wanted to keep up with me now, they’d need to level and train like I did. Torix might keep up, but Kessiah...Well, I doubted it. Maybe it was unfair of me to think that, but I was calling it like I saw it. So far, she lounged around like a cat more than fight like a warrior.
+
+Which was fine. Not everyone should have to rip monsters apart just for a decent life. If it wasn’t for the circumstances with Yawm, I wouldn’t be pushing this hard anymore anyways. In fact, the idea of just enjoying life after Yawm’s disappearance was one of my primary motivations. I might even try and get together with Althea.
+
+I pushed those thoughts from my mind. I needed a laser focus on these runes, and daydreaming wasn’t about to help me out anyways. With about an hour left before sunrise, I crossed my legs as I sat down and carved in my grimoire. The first rune symbolized strength. The next rune would symbolize speed.
+
+As I etched my first line into the paper, I voided the distractions around me. I ignored Hod’s snoring, the dark around me, and the death of nearby insects. I needed the speed and strength rune so that I could use my runic channeling. A large portion of my combat power was tied to it after all.
+
+With that in mind, I etched into the black paper. As I did, writing the rune was simpler than I remembered. Of course the difficulty was still there, but it wasn’t as all consuming as before. Despite this, I pushed myself, concentrating as I worked. No matter how simple the rune was, a near flawless execution was necessary for the rune’s completion. Otherwise...well I didn’t want to know what would happen.
+
+With an inkling of fear guiding my focus, I completed the body of the rune. As I etched the inner markings of the letter, I kept visualizing what speed was to me. It was the sensation of acceleration. It was the exhilaration of danger that came with scenery passing by my eyes. It was the freedom of having no limits. I could go anywhere with no inconvenience. The world was at my fingertips.
+
+Those thoughts filled my mind as I carved out the single letter. The complexity of it grew with time, becoming an enigma of lines and crevices on the paper. Sweat poured down my forehead as I struggled with the tiniest lines. The entire process devoured my attention, burning through the remaining hours in moments.
+
+As the sunless sky brightened, I finished my last marking that completed the rune. Like a lock clicking into place, the space around me warped once more. The rune reached out for my mana like a starving child. I fed it with a torrent that it greedily gobbled up. As the rune’s hunger evolved, my own stream of mana did as well.
+
+It was like I was feeding my book a beam of energy. The absorption enhanced until it surpassed my new, ridiculous mana regen. Minutes later, my health reached around half of its maximum before the sapping ended. As I stared at the rune, it was speed. The way I understood the entire concept was embodied on the page.
+
+Redoing strength would be necessary considering how much better my speed rune was. On the same sheet of paper that I used for the speed rune, I cut into the paper. With a sharpened hand, I stayed steady as I maintained the same approach. I envisioned strength as I marked on the page. I found my understanding of strength was different than I first imagined.
+
+Strength reminded me of boldness. It was taking risks for great rewards, and doing anything to get those rewards. A relentless, overpowering will for success, that was strength to me. It was going on despite hardship. It was overcoming unfair circumstances, and standing up in the face of them instead of crumbling.
+
+On the page, the density of the lettering increased. I stretched the limits of my own precision, making subtle slits and lines throughout the rune. With no idea how much time passed, the pull on my mana began. The deluge of energy poured into the rune before I reached halfway through my entire health pool. It took about five minutes of draining before I reached that point.
+
+I gasped as the rune completed on the page. This was my masterpiece now, two runes of incredulous complexity on the same page. Each letter took up a quarter of the page like I was writing in size four hundred font. From behind me, the sound of a deep breath and stretching wings let out into the open. I turned around, and Hod stood up,
+
+“Hod feel great after long rest.” He turned to me, his eyes opening wide, “Are you Harbinger?”
+
+I pursed my lips, “Well yeah. I’m still me.”
+
+Hod shook his head, “Harbinger not Harbinger anymore. Harbinger spoke with words of coming cataclysm. Harbinger spoke with words of a great change. No more speaking with words. Now Harbinger speak with actions. Now Harbinger the coming cataclysm.”
+
+I pointed at my chest, “Really? Do I look that different.”
+
+Hod walked up, “No, Harbinger look similar. Though Harbinger may look similar, Harbinger is different. Hod no longer smell other energies or forces infecting Harbinger. Harbinger is Harbinger now. How Hod put it...”
+
+He spread out his wings, “You more you than others are themselves.”
+
+For second, I just gave him a blank stare. I shook my hands, “Nope. Just stick with no pronouns. That made no damn sense.”
+
+Hod laughed for a bit before shrugging, “Hod not talk Hod’s way. Hod can’t help Hod’s self.”
+
+He offered me a hand, so I pulled myself up, “I wouldn’t have it any other way. Come on, let’s kill the rift keeper.”
+
+Hod pointed at my grimoire on the ground, “Those...Same words Hod’s parents use?”
+
+I nodded. Hod took a step back, “Hod warn Harbinger. Words dangerous. Words hold knowledge. Words like doors in hallway. Harbinger walking through hallway. Some doors bad to open. Other doors bad to close.”
+
+The white, ominous glow around Hod’s eyes amplified, “Bad doors bad to open, but bad doors not worst. Worst doors are bad doors that once opened, cannot be closed. Words on page are door that cannot be closed.”
+
+I bent over and picked up the grimoire, staring at the intricacy of my own markings. I placed a palm onto the page, feeding it mana. Like draining a vast ocean, the pull on my mana was incredible. The icy sensation of the white energy of the cores pierced into my arm. It numbed as my blood and body drained into the book.
+
+Hod glanced up at me, “Hod wonder what Harbinger doing?”
+
+I grimaced as the grimoire sapped my health, “I don’t honestly know.”
+
+The booklet drained from my mana at a slower pace than completing the runes did. Unlike completing the runes, the process kept up for well over ten minutes. The process proved so lengthy that Hod and I walked deeper into the dungeon during it. We paced for a long time, Hod keeping aware as I probed the area with Tactile Cognition and my gravity sensing.
+
+We didn’t want an ambush while I was weakened. Still, standing still for so long ate away at both our patiences. Waiting chewed through my patience in particular. By then, I did at least one thing all the time. I wasn’t used to sitting around.
+
+So we crept deeper into the dungeon as my grimoire sapped my mana. We reached an island floating higher than even the tallest skyscraper in Springfield.
+
+Once we reached the edge of the floating island, the view opened up for us, along with distant echoes. The far off sounds of fresh monsters reverberated into our ears. A few abstractions floated off in the distance, their jittery, twitching movements both eerie and unnatural.
+
+Off in the distance, the solar beetles covered every inch of the islands. The density of writhing creatures instilled awe and a bit of anticipation. Once I finished these runes, culling the horde would be a joy. Hod tapped his teeth together at the sight of the monsters. He wanted blood as well.
+
+Those monsters covered the nearby islands floating near the center of the rift. A gray cloud covered most of the world tree and everything nearby. As sat and stared, the gray cloud floated away, uncovering the tree in parts.
+
+The roots wrapped around every surface of the dead city, coming together into a single, colossal mass of wood. It expanded in sight as the cloud uncovered it, like a mountain growing in size as you neared it.
+
+As the edges of the trunk appeared, eldritch language blanketed the bark, creating a mural of the forbidden code. The intricate language smothered the surface of roots, nearby buildings, and the trunk itself. Above the trunk, other clouds floated in the sky.
+
+The red sky ended where the branches and trunk of the tree began. It was like the leaves where the sky. As we reached closer towards the world tree, we found that was the case.
+
+Leaves from it littered the abandoned high rises of Springfield, looking like tiny dots of the sky. On the roads, piles of these leaves created portions of the ground that looked like holes leading to another world. A pile of them were collected nearby, clumped against the edge of the island.
+
+Hod walked up, stepping on the leaves. Even though it looked like he should have fallen through, he didn’t. The leaves were what this sky was made of. If anything, this rift seemed like it was made of the world tree. For all we knew, maybe it was.
+
+the gray cloud kept floating away from the tree, revealing more. Near the center of the trunk, green lines of pulsing energy streaked into a tremendous green blob. These lines condensed, becoming a vibrant green center.
+
+Specks of the green energy filed into this green mass, like blood being pumped into the green clump. Once it swelled up till it was close to bursting, the emerald green blob pulsed downwards.
+
+The bulging green mass deflated. The energy filled into a speck at the center of the tree. As the blinding emerald sheen dampened, the center of the tree became visible.
+
+There was a minute, tiny ball there. The green veins on its body leaked out into the emerald sea surrounding it. The ball was surrounded by a deep brown, like the color of earth. The ball shivered with violence, if it was containing some unknown force.
+
+Dense, strong, those words failed at describing him. The eldritch runes covered inch of his body, lacing him like brands. The skin of bark rippled as something like muscle shook underneath it. As I peered closer, his hands were colossal, the size of car doors.
+
+His chest heaved as he breathed. It was like sustaining his form required an entire gust of wind. As I stared at his runes, they flowed into a single, immaculate form. It was like staring at infinity, something my mind couldn't fully grasp.
+
+I was staring at something unknowable, a presence that shook time and space. It was a humbling sight.
+
+The overseer had given a sense of absolute order, like a pillar that helped support Schema. This was a different pillar, a darker, chaotic entity. It was the corrupted king of a species. A prodigy, volatile like entropy, he bided his time, waiting to unleash his energy and tear worlds apart.
+
+Nothing would stop him, not gods, not immortals, and certainly nothing as insignificant as man. Here was the killer of the unkillable and the destroyer of worlds. Here was the maker of horrors and aberrations. Here was a presence that oppressed all around him.
+
+At the center of the world tree, there was Yawm of Flesh.

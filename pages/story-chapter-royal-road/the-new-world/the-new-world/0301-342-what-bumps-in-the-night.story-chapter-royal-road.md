@@ -1,0 +1,279 @@
+---
+id: 86756f88-c7b3-5623-9a59-fae771822bd5
+page-type-slug: story-chapter-royal-road
+title: "342 What Bumps in the Night"
+slug: 0301-342-what-bumps-in-the-night
+partOf: the-new-world
+position: 301
+ownLength: 3688
+unit: words
+ownProgress: 3688
+publishedAt: 2022-06-03
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/919935/342-what-bumps-in-the-night"
+royalRoadId: "919935"
+markedReadAt: "2026-06-29T21:31:31.714Z"
+---
+
+Scratching my hair, I closed my eyes, trying to swim through my memories. Once more, behemoths interrupted my train of thought. I killed them, keeping a fit of explosive anger in check. Laying back on the side of a sand dune, I made a few sand angels in the dust. It gave me a nostalgic feeling as if I were a child in the snow again. In my ears, a low, droning voice ebbed in,
+
+"And fate has decided we meet again, I see. It's good to see you again."
+
+I looked up, and Shalahora gazed back down at me. My eyes widened as he tilted his shadowy face at me,
+
+"You...appear troubled."
+
+Chapter Begin
+
+I flopped myself up off the sand before stabilizing in the air. Coughing into one hand, I murmured, "Just, you know, enjoying the scenery."
+
+Shalahora peered at one of the glowing dunes in the distance. His voice droned in, "It is beautiful here."
+
+A silent moment passed, something I'd been hoping for but never received since arriving on this damn planet. Pulling my time magic back, I blinked, "What's going on? Why aren't the behemoths attacking us?"
+
+Sounds returned to normal, including Shalahora's voice. The Sovereign tilted his head at me, his bright blue eyes piercing, "They cannot see nor sense us. I have camouflaged us both."
+
+I let out a sigh, "What I wouldn't have given to have something like that since coming here."
+
+Shalahora let out a gentle laugh, "It is easy to cherish what we were never given, but it is difficult to appreciate what we have."
+
+I smiled back, "Good point. I'll keep it in mind." I scratched my cheek, "So, how have things been?"
+
+Shalahora peered away from the ossuary and towards the shady side of the planet, "I've done well, so I've gained enough resources that I'm now comfortable with my position in this lottery. However, I know only a little of what the other rulers are doing now. My information is outdated. In particular, Valgus and his faction are a mystery I've yet to unravel."
+
+I nodded, "Same here. I've been trying to establish myself around this area."
+
+Shalahora gazed around, seeing only sand dunes in every direction. He looked down before putting a hand on my shoulder, umbral energy dolloping up off of him. He spoke with a gentle tone,
+
+"You...You have done well to be alive, given where we are. I understand that asking for help is difficult. It is to accept your weakness and make it known. I want you to know that the first step onto the path of strength involves acknowledgment. Only then-"
+
+I furrowed my brow, "What's with the condolence?"
+
+Shalahora lowered his hand, "Hm, ahem...I've gazed around at your established territory and...Uhm."
+
+A sandworm burst from the ground, destroying a dune. My sand angels remained in the red grains below, and Shalahora gestured to them, "It seems as though collecting resources has been difficult. While I am not overtly wealthy, I can share a portion of my spoils if only to prevent your guild from being dismantled by Schema."
+
+I shook my head, "Woah, I'm totally fine on resources."
+
+Shalahora leaned back, "Oh...Then why do you appear so troubled?"
+
+I grabbed the back of my head, "It's that obvious?"
+
+Shalahora peered away and pressed his hand to his cheek as if scratching it, "Of course not...It was merely my skill of observance."
+
+The guy walked up to me while I made sand angels in the middle of the desert by myself. My struggle couldn't have been more obvious, but he still spared my feelings. I burst out laughing, "I get it. I really do." I peered towards the ossuary,
+
+"Honestly, it's been rough. Really rough."
+
+Shalahora stared through me while lowering his hands, "Your species must require social contact. This isolation must weigh on you heavily. I am different, as my kind was made to be alone."
+
+My eyes widened, "Oh man, that's convenient. While it sucks to admit, being alone has taken its toll on me. You already saw."
+
+Shalahora put a fist to his chest, "I am here now, so you drift alone no longer."
+
+I gave him a nod and a smile, "Hell yeah."
+
+Shalahora's eyes turned to slits, and he zoned in on a golem flying towards us. The umbral shade lifted his dark claws, "Something approaches us. Be wary."
+
+I lifted a hand, "It's not an enemy."
+
+The scouting golem stopped before me, unable to see Shalahora but knowing I was there. My soldier bowed, "It's good to see you, creator."
+
+I raised a brow, "Report?"
+
+"Shades have been spotted nearby. They come from an unknown source. We haven't attacked them yet, as they've been non-hostile."
+
+I tilted a hand to Shalahora, and the Sovereign appeared. The shady ruler's eyes widened, "You serve Daniel?" He turned to me, "I thought you were alone?"
+
+The scout answered for me, "We are his flesh and blood. He gave us life, and now we live to continue his purpose. Our creator feels alone because we act like one, though we despise our inability to deplete our maker's loneliness."
+
+Shalahora blinked, "We? There are more of your kind?"
+
+The scout omened, "We are legion. We are many."
+
+Shalahora gave the scout a nod, "Then I am as well." The writhing shadow lifted a massive arm, and several shades appeared. Shalahora murmured,
+
+"These are my incarnations. They exist outside of me but retain a semblance of my mind. They are like my children, so please, be kind to them. They, in turn, will be kind to you."
+
+The scout turned to me, waiting for an answer. I pointed a thumb at Shalahora while I said, "You heard the man. Play nice."
+
+The scout bowed to the shades, "It is good to meet you, children of Shalahora. We shall work together with kindness in the future, and may our legions prosper."
+
+Shalahora bowed to the golem, "You are very polite, and so, we shall ally with ease. Know that my children will offer what you've offered them in turn, and may our alliance prosper." Shalahora stood up, "Daniel. Would you mind if I see the others?"
+
+I tapped my chin, thinking. After a moment, I shrugged, "Eh, sure. Why not." I pointed to the ossuary, "It's this way."
+
+We darted towards the multi-tiered hell cake that was the ossuary. Keeping a leisurely pace, we pierced the heated air and waves of gravitation. No behemoths attacked us, something that I appreciated about Shalahora's presence already. After a while, the edge of the ossuary appeared.
+
+From there, Shalahora stopped, so I did as well. I raised my brow, "What's with the holdup?"
+
+He narrowed his eyes, "That's the shining hell. Why are we going there?"
+
+I peered back and forth, "Uh...Because that's where the golems are?"
+
+Shalahora brandished his claws, "You mean to tell me you drifted towards that place on purpose? Forgive my skepticism, but I find that hard to believe."
+
+"That's where all the good stuff is, and I wanted some privacy."
+
+Shalahora widened one eye and narrowed another as if raising a brow, "What resources lie in that ruin, aside from death and the shining shards?"
+
+I smiled, "Hah, it's good you don't know since I'll have plenty to show you."
+
+We reached the cusp of the ossuary before I pointed at the line where shining bone met gleaming sand, "So I'll be honest, the shining hell isn't a bad name by any means, but I call it the ossuary because of how it's made."
+
+Shalahora landed on the living bones, placing a palm on them, "Ossuary: where the bones of the dead are laid to rest. Why name this place that?"
+
+I raised a finger, "We'll talk where it's safe. Come on."
+
+We darted through the ossuary, the kelp layers getting denser over time. Each layer compounded on the other, the writhing movements of behemoths masked by the kelp layers above. As the light of Leviathan dimmed to disparate rays, the primevals came out to play. They warred in the distance, and Shalahora kept away from them. With his expert cloaking ability, he evaded their presence.
+
+But I didn't because I never even imagined using a cloaking ability of any kind. Several primevals ended up disrupting our voyage but not for long. My scouts communicated with the network of cities, and the vast legion I amassed arrived in a swarm. A hundred core golems raced overhead. They tore through the kelp forest, destroying expanses of kelp. A dozen dogpiled each behemoth, goring them apart in seconds.
+
+More war golems piled onto the primevals, our tactics like frenzied sharks. Shalahora gawked at the metal soldiers, the vast armada becoming a sight to behold. They shattered the horizon that led to my cities, and that path gave us a view of Leviathan as we passed over the shining bones below.
+
+I dashed ahead of Shalahora, peering back at him, "You coming?"
+
+Shalahora watched a primeval facing thirty golems, its body rent into slithers. Shalahora kept his gaze on that sight as we passed,
+
+"I...Of course. Of course."
+
+We reached one of my border cities, the vast dome reaching up to the lowest layer of algae. The blue core shield rotated over the city, an impassable expanse of energy. The roads connecting the city to the others crackled with mana. Two guardsmen golems flew up to greet us, the bulky soldiers eyeing Shalahora with suspicion.
+
+I pointed at my umbral friend, "We're good. He's my ally."
+
+The guardsmen bowed, "Yes, creator."
+
+I never programmed the whole bowing thing into them. It was something they began by themselves. Either way, a rupture in the city's barrier split open before we flew into the protective bulwark. Elegant buildings rose up to the top of the blue bubble, the constructors building this place from the ground up.
+
+Those skyscrapers fitted into the dome efficiently, and the different kinds of stones slotted onto the rainbow bone accents well. Compared to every other part of this forsaken planet, the niceties stuck out like a festering wound on someone's face. Shalahora murmured, "This is beyond anything I expected of you."
+
+I eyed everything with a critical eye, "It's better than I expected too. I didn't make this city that long ago, so it looks like the golems have been working overtime."
+
+We landed in the tallest of the sleek spires, the windows made large enough for me to enter. The empty room served no purpose, so I made us two chairs by lifting a hand. Another mind saturated each seat with an antigravity well, so we didn't snap the chairs to bits. Another of my psyches activated the quintessence light above, the crystal brightening the room.
+
+Another ego made a table for us, and another mind made water with ice cubes in it. Two other consciousnesses created dirt and plants in contained areas in the corners of the room. One of those plants ended up being some kind of fruit tree. Taking several of the fruits, we squished them into juice while a final psyche generated two glasses onto the table.
+
+Plopping into the chair, I pooled the juice and ice into the glasses. Everything happened with my time dilation in effect, so it took about ten seconds. To Shalahora, that was about seven. The Sovereign watched it all happen before flowing into the chair I made for him. He lifted the glass of fruit juice, lifting it over his head. While inspecting the bottom of it, he mouthed,
+
+"To be frank, none of this feels real to my eyes."
+
+I scowled, picking up my glass. I leaned onto one hand while sipping on the lifeless juice, "Yeah, it's the same here. Nothing on this planet feels real to me anymore by now."
+
+Tossing the whole cup into my mouth, I crunched on the glass, noting how soft it felt. Shalahora's words sauntered in a slow drawl, "I've never seen an origin mage craft life from nothing."
+
+After canceling my time magic, I frowned at the random fruit juice. It tasted like sour cotton and dirt. I grimaced, "Well, let's just say this doesn't match the real thing. This is all a shade of its real self." I raised a hand at the umbral Sovereign, "No offense against shades."
+
+The shadow lifted a hand, "None taken." Shalahora poured the juice onto his palm, and it soaked into a thin film over his skin. The liquid split like veins coursing over him, all of them reaching his center. He turned his head to me,
+
+"It is the first liquid I've had since arriving, so regardless of the origin, it's quite refreshing. Thank you."
+
+I wafted Event Horizon over the fruit tree, the entire plant disintegrating into mana outside of a dozen of the fruits. I spiraled them onto the table in front of Shalahora while crafting a stone bowl in front of him. They landed in a neat pile, and I gestured to them, "Go ham, man. They're yours."
+
+Shalahora peered at me, "Considering the brevity of your world's existence in Schema's universe, you must be worshipped as a god in your homeworld."
+
+I shook my head, "No one really knows me. Well, anyone that watches streams do, but that's not many yet. Anyways, let's get down to business. We'll get this alliance started off right."
+
+Shalahora leaned back, watching primevals fighting far in the distance, "Then I am here to listen as long as you're here to speak."
+
+I relayed what I'd done since coming, excluding the mental struggle of the time magic. That felt too personal to share for some reason, so I kept it to myself. Shalahora listened with his arms gripping the side of his marble chair. As I finished, Shalahora nodded,
+
+"Then this is why you wished for our alliance to delay until the latter half of our stay here. This was a pursuit done in a lonely light without any other alternative."
+
+He loosened his grip on his armrests, "It must've been difficult to fight for so long here, and that temporal dilation of yours only accentuates that issue. I feel for your journey. It was a difficult one, but you demonstrate the fruits of will and the harvest of hardship. Bear this city with pride, for it stands tall in the face of hell, a beacon to any that sees it."
+
+The acknowledgment felt sincere, and I peered off. I covered a grin while saying, "Well, you know, I did what I had to...How about you?"
+
+Shalahora peered up, "If only my journey carried the same yield. I started near the other rulers, my shades finding them within the first few days of our arrival."
+
+I raised a hand, "Wait a minute, you really mean that?"
+
+Shalahora raised a hand, a shade spawning, "Yes. My shades are beneficial for scouting purposes."
+
+I shook my hands, "I'm talking about when you said within a few days. You can actually tell the time here?"
+
+Shalahora tilted his head in confusion, "Oh, that...My shades live for almost three standard galactic days. I used their duration to determine how long we've lived here."
+
+I blinked, "Genius. Just genius."
+
+Shalahora leaned back, "Are...Are impressed by that?"
+
+I lifted my hands, "Well yeah. I have no idea how long we've been here."
+
+Shalahora answered my unspoken question, "We're just over half the way through Schema's guideline of three months. For that reason, tensions are mounting."
+
+I leaned back, "What, no way. It's been way longer than three months."
+
+Shalahora's eyes narrowed, "What are you talking about? Hm...Wait." He leaned forward in his chair, contemplating my words, "You're the newest ruler. Hm, you mustn't be measuring in standard galactic time. Your confusion stems from that cause, surely."
+
+I leaned back into my chair, my soul leaving my body. I facepalmed, "What? Oh...Duh."
+
+I massaged my temples, "It's not my sense of time. It's Schema's. Oof."
+
+Shalahora peered at my city as he shrugged, "By my measure, wealth and ignorance are better than knowledge and poverty. One is fixed with a few words while the other requires many actions."
+
+I raised a hand, "Thanks for the compliment, but I'm taking that loss on the chin. Anyways, sorry for interrupting you."
+
+Shalahora's blinked a few times before interlocking his hands, "It's no issue. I'd imagine that would be a rather maddening conundrum given the lack of days here, and you lacked perspective. As for what I've said, I created a temporary alliance with the survivors here after arriving. The planet's hostility seemed endless, so I chose the pertinent path."
+
+I shrugged, "Makes sense."
+
+Shalahora's eyes narrowed, "Since coming here, the survivor's caution saved many, and their wariness proved wise. Many rulers chose to plunder the planet at will, however. Many have died from the elements, but that was merely the beginning."
+
+Shalahora sighed, "Many rulers are elected after their ancestral creators have died. Some carry little combat ability, and as you may imagine, that fared poorly here."
+
+I nodded, "This planet is a hellhole, that's for sure." A look of disgust came over my face, "So they all died, just like Schema wanted." Many of my minds jumped into action, "Even better, it was a targeted genocide. The richest empires are the ones most likely to have elected weak rulers based on actual ruling ability rather than raw strength."
+
+I grimaced, "So Schema will assimilate the guilds with the most resources and the least chance of actually stopping the takeover. A bit psychopathic, but well played." I clapped nice and slow, "Good one, Schema. You really got one on us."
+
+Shalahora's gaze turned sad, "That's a brutal cynicism you carry. I could not bear it."
+
+I frowned, "You've focused mostly on fringewalking, so you might not be as aware. To me, I've tried pulling my planet from the dark ages for a while now-" I whirled my hand in a circle, "But situations like this keep stopping me. Apparently, it's stopping everybody else too."
+
+Shalahora peered off, "Hm...Perhaps. We'd never of survived the eldritch without Schema, however. He gave us magic, the system, and our means of communication. That alone offsets these plots."
+
+I took a breath, "Hah...Maybe. From the way I see it, my planet already had an infrastructure, defenses, and decent technology. Schema destroyed our communications, scrambled everybody all over the place, and put us back into the stone ages. We're still licking our wounds from that initial scrambling."
+
+I shook my head, "So Schema took all of that away then pretended like we only gained it in the first place because of him. He used a hypothetical situation to indebt us. The thing is, I was born before the system was on my planet, so I remember a time before he arrived. Those days were better than the endless war we've joined."
+
+My hand crushed the armrest of my chair, "And Schema's mass murder of peaceful factions doesn't exactly build up my opinion of him. It has a habit of rubbing me the wrong way."
+
+A prolonged silence passed over us. Shalahora murmured, "I've never dwelled on Schema's actions this deeply, but I shall reflect on them more in the future."
+
+I calmed myself down, remaking the armrest, "I'm just being salty. I don't know why." Gazing at the shining sea of bones, I nodded, "I take that back. It's this planet."
+
+Shalahora gazed at the bones with me, and he said,
+
+"This planet isn't the only reason rulers died here. Valgus Uuriyah and his followers have killed many of the wanderers that lingered and wandered from the beginning."
+
+My eyes turned to slits, "He killed other rulers? Why?"
+
+"To eliminate competition."
+
+I pulled my hair back while disgust spread onto my face again, "He's an idiot. It would've been so easy to leverage his combat strength into economic gain. He acts as the other faction's guardian. From that position, he controls the flow of resources and leaves this place a hero. And number one in the lottery's rankings."
+
+I threw my hand out, "Instead, he chose to be a villain because he's working with one brain cell."
+
+Shalahora laughed before shaking his head, "You seem so different from when we talked before."
+
+I raised my eyebrows, my primordial wake stretching over us both. I pursed my lips, "Huh. It's, er, a part of my abilities. This mindset lets me think a bit sharper than normal." I opened my eyes wide, "Though, I'm a bit sharper too, so it's a give and take."
+
+Shalahora stood up, "Ah, then that explains it." He walked to the window, interlocking his arms behind himself,
+
+"My last bit of relevant information revolves around Valgus. He chose not to attack the survivor's faction. I am certain that passivity came about because the survivors assimilated the pro-Schema faction within the first two weeks. That swelled their numbers to over two hundred, a number Valgus couldn't eclipse."
+
+A hollow, cynical smile traced my lips, "Ah, Schema's supporting faction didn't last too long. I wonder how pro Schema they are now that everything's settled down?"
+
+I recoiled, noticing my scathing tone, and I straightened up in my chair, "I keep interrupting you. Again, I'm sorry."
+
+"No one may be kind at all times, just as no one may look towards the brighter side of every situation. At times, life forces us to show our barbs as if we were thorned willows. These are your thorns, so wear them with pride."
+
+"Hm...Thanks."
+
+Shalahora nodded, "While I have no more factual information on Valgus, I carry my suspicions. I've searched this planet for a while now, both for treasure and your presence. Fate played a large part in finding you, but it was no accident I was wafting through these dunes near the shining hell."
+
+"You're looking for him?"
+
+Shalahora seethed, his claws brandished, "I believe Valgus intends to do something with the bones here."
+
+Shades rushed our direction from outside the city, and Shalahora turned to them,
+
+"And I shall uncover exactly what that something is."

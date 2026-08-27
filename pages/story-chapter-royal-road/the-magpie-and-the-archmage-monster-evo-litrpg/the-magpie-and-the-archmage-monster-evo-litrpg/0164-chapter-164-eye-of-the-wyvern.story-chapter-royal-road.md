@@ -1,0 +1,205 @@
+---
+id: 7ff73722-e250-5082-ba3c-9a111c2a2789
+page-type-slug: story-chapter-royal-road
+title: "Chapter 164 – Eye of The Wyvern"
+slug: 0164-chapter-164-eye-of-the-wyvern
+partOf: the-magpie-and-the-archmage-monster-evo-litrpg
+position: 164
+ownLength: 2083
+unit: words
+publishedAt: 2026-08-19
+link: "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3833146/chapter-164-eye-of-the-wyvern"
+royalRoadId: "3833146"
+---
+
+Their training had started rather… clumsily, to say the least. Not for Liora, but rather for everyone else.
+
+First, there was Caspian. Cee had made him a full attire out of her tidesilk, which protected nearly all of his body from the sun. He even had crude shoes. Or perhaps it would be better to call them socks. It was a good thing the sand was soft, or it could have hurt his rather sensitive feet.
+
+Because the merman was NOT a good walker. He thought that he was, but Liora could only scoff in disapproval, watching him move his legs more clumsily than a toddler. Even Renir, in his stumpy gem body, was able to overtake him with some effort.
+
+"I am victorious!" Renir boasted, looking very smug.
+
+"N-Not fair…" Caspian said, gasping for breath. "You have a firm and strong body. These legs feel like they are made out of jelly!"
+
+"It's because you don't have any muscles there yet. You have to be able to walk at a decent pace if you want to travel with us. Humans are already disgustingly slow, and you're even slower than that!" Liora complained.
+
+"I'm trying!" Caspian muttered and continued toddling around.
+
+The fact that he could only remain in his human form for four hours was severely hindering their progress. Cee's tidesilk had managed to extend the duration by an hour, but realistically, they wouldn't be able to travel anywhere in that time.
+
+Not on foot, at least.
+
+The next big problem was Smokey. While the wyvern could vaguely fly and glide, he couldn't do it reliably for a long time, so Cee forced the wyvern to keep flying loops around the oasis.
+
+He was doing better than Caspian at the very least, but the progress was also slow because of how easily distractible Smokey was. He'd see a large beetle on a tree and chase after it.
+
+Liora and Cee would also try to involve Smokey in their training. They would attack and weaken any desert shark juveniles coming for a drink, and try to convince Smokey to finish it off.
+
+But the wyvern was legitimately stupid. It wasn't that he was disobeying Cee on purpose. He just didn't get it.
+
+"Smokey, bite!" Liora held the struggling shark juvenile with her talons, trying to entice the wyvern to finish it off. To do some damage just for experience.
+
+The wyvern just cocked his head, his tongue lolling out of his mouth.
+
+"Goddammit, Smokey!" Liora swore.
+
+"Be patient with him, Liora. He's just too young to understand," Cee soothed. She tried to explain things to Smokey, but he was still none the wiser about what to do.
+
+Eventually, Cee led him right up to the shark and forced him to bite onto its tail. Then it finally seemed to understand it. Maybe they just kept the wyvernling too well fed. He wasn't really hungry enough to try hunting for prey on his own.
+
+Not to mention that they had been deterring all of his attempts at eating them. Maybe they had dulled his instincts this way. But it wasn't like they could let Smokey take a bite out of them. He would have to slowly learn the difference between who he was supposed to bite.
+
+"Oh, this is neat! I can actually see when Smokey levels up," Cee exclaimed once the poor desert shark was dead. Liora even felt sorry for the poor dungeon monster.
+
+At least they wouldn't have to worry about Smokey's lunch.
+
+"That is utterly barbaric," Caspain noted, his nose scrunched up in disgust.
+
+"If you have a better way of training a wyvern, please make suggestions. We're all ears," Liora snapped.
+
+The merman shut up and resumed his walking practice.
+
+"When does Smokey even evolve? Can you see that?" Liora asked.
+
+"I… I don't know…" Cee admitted, scratching the back of her head with her front leg.
+
+"If you touch Smokey, you should be able to see his profile as well as the level required for his next evolution," Renir said, currently hanging comfortably around Liora's neck.
+
+Cee walked up to her pet, touching his head. The wyvern leaned into her touch, almost purring with delight.
+
+"Oh, wow! His health and mana are already at average and moderate ranks. Isn't he a Tier 1 monster?" Cee asked.
+
+"Yeah, wyverns and dragonkin are rather powerful even on lower tiers, but it is harder for them to evolve," Renir explained.
+
+"Yeah, his evolution level is 20, and he's currently Level 3…"
+
+"If Smokey doesn't become a better fighter, this will take forever!" Liora groaned.
+
+"Yeah, but we need him to evolve. Until we can move around by flight again, it would be too dangerous for us to leave this dungeon. And if we can't leave the dungeon, then we can't remove Renir's seal," Cee noted.
+
+"I want my body back!" The gem wiggled his arm nubs angrily.
+
+"Okay, let's push this little baby! Extra shark meat wouldn't hurt us either. We wouldn't have to worry about food for a while," Liora said.
+
+"C-Can we not eat something else?" Caspian asked meekly.
+
+"If you can get it yourself, you're welcome to eat it," Cees shrugged, and the merman deflated.
+
+"I do still have some human food in my inventory," Liora noted, and the merman perked up. "But it's best if we save it for a special occasion."
+
+Then he promptly deflated again. Liora shook her head. There was no way of knowing when they would be able to steal some human food.
+
+But at the very least, Liora could now train her skills. She continued training her Skypierce, striking the desert shark juveniles to severely weaken them and let Smokey finish them off. Meanwhile, Cee was doing area control, setting up webs and catching the desert sharks in them. Some of them she defeated on her own, since she needed to increase her level, too.
+
+But most of their efforts were concentrated on leveling up Smokey and their skills.
+
+[You've assisted in defeating <Desert Shark Juvenile – Level 36>. Experience gained.]
+
+[You've reached Level 13.]
+
+[Your skill <Skypierce> has reached its maximum potential. Would you like to upgrade it for 100 glimmerstones?]
+
+"I can upgrade Skypierce!" Liora announced cheerfully.
+
+"I can upgrade my elemental webs! I thought I would never be able to do it," Cee cheered.
+
+"Rawr!" Smokey joined in the cheers, although he had no clue what was going on, the derpy thing.
+
+"Yes, you're doing well too. Smokey is Level 10 now. He's leveling up pretty fast since we're letting him finish these sharks off," Cee noted.
+
+"We'll be airborne again in no time," Liora confirmed. "But now, it's upgrade time."
+
+"I thought you hated upgrades because it meant you had to spend glimmerstones," Renir noted.
+
+Liora glared at him. "You didn't have to remind me of that. But I do have quite a bit of glimmerstones thanks to all these sharks and the blightstones I purified before."
+
+The merfolk would still occasionally bring her blightstones to purify once they found them in the sea. It did make Liora a bit worried that it could cause another corrupted catastrophe, but thankfully, there hadn't been any new cases of corrupted sea creatures.
+
+Show the upgrades to Skypierce.
+
+[Skypierce (Rank 2) variants available]
+
+[Starfall Strike – When performing a high-altitude dive attack, produces additional star-like projectiles that hit enemies in a large area surrounding the impact site. At [Basic] level, damage at the impact site equals 300% base damage and damage of projectiles equals 50% base damage.]
+
+"Oh, interesting! It wouldn't be just the Skypierce, it would be Skypierce with extra projectiles and style. I like the sound of that," Liora noted.
+
+"It does less damage than your current Skypierce, which equals to 500% your base damage at Legend level. It will increase with level, but… I'm not sure. Do you want it to be a large area attack? It would be harder to control," Renir explained.
+
+[Drillbeak Descent – Perform a high-altitude rotating attack on a single enemy. It is extremely effective against armored enemies. This skill's power scales with higher altitudes and rotation speed, with up to 400% base damage on regular enemies and up to 700% on armored enemies at [Basic] level.]
+
+"I wonder if it works on doors or hard surfaces too," Liora pondered.
+
+"I don't think so."
+
+"Bummer. We don't even know if we'll encounter any armored enemies. I mean, there were a lot of them on that volcanic island, but other than that…"
+
+"Let's look at the last option," Renir suggested.
+
+[Meteor Impact – Turns excess dive force into a burst upon impact. The primary target takes piercing damage based on dive height, while nearby enemies are knocked back by the released force. At [Basic] level, the damage at the impact site equals 600% base damage]
+
+Liora and Renir shared a glance. They didn't even need to speak to understand that this was the superior choice. It was more powerful and more precise than Starfall Strike, and even if there was no extra damage to the surrounding enemies, knocking them down was a good bonus.
+
+Upgrade Skypierce to Meteor Impact!
+
+[Would you like to upgrade your skill <Skypierce> to Rank 2 skill <Meteor Impact> for 100 glimmerstones?]
+
+Yes!
+
+[Your skill has been upgraded.]
+
+"Chak-chak-chak! I am unstoppable!" Liora laughed.
+
+"You're unstoppable? Look at this," Cee said and hurriedly spun a web. It looked like a magma web but was surrounded by frigid frost energy.
+
+"What is that?" Liora asked, looking at the thread from all sides.
+
+"Dual elemental web. It can inflict two status conditions at once. This one can both burn and freeze the enemy! I wouldn't even need to touch them for them to die," Cee laughed.
+
+"You're a terrifying spider," Liora took a step back.
+
+"A dual magic web! I want to see it closer!" Renir exclaimed.
+
+"Dual elemental web? May I examine it too?" Caspian perked up, rushing up to Cee.
+
+Really? Men. All they cared about was fancy magic. Liora shook her head in disapproval. They didn't understand the beauty of powerful aerial strikes.
+
+Their training routine continued for several weeks. Most of the experience was still funneled towards Smokey, so Liora only leveled up once. There were also far fewer sharks approaching the oasis. It appeared that they had finally gotten the memo that any shark approaching the oasis wouldn't be allowed to live.
+
+Caspian managed to level up his Landwalker skill twice. He could spend five hours outside of water without Cee's clothes and seven hours with them. His walking… Well, he was walking like a clumsy child rather than a toddler, so there was some progress, even if it wasn't much.
+
+The biggest gain came in the form of glimmerstones. She finally reached a new hoarding milestone. 2000 glimmerstones.
+
+[Your skill Glimmerlust has reached [Legend] level.]
+
+[Glimmerlust – Rewards your desire to hoard glimmerstones. At [Legend] level provides you a 0.05% power and speed bonus to all your skills.]
+
+"Chak-chak-chak! Chak-chak-chak! Try to doubt the power of shinies now. Just do the math. It's 100% power and speed boost to all my skills," Liora gloated.
+
+"Has she gone insane?" Cee said.
+
+"Yeah. Don't mind her. She'll get over it," Renir noted nonchalantly.
+
+"But 100% boost, you guys! That's incredible."
+
+"It is quite good, but you know that with the right equipment, humans can achieve even higher boosts," Renir noted.
+
+Liora stared at him in disbelief. "What?! And nobody told me? We need to find more treasure to boost our power even further. Cee only has that incomplete bracelet, and I have a stinky old stick. I even forgot I had it to be honest, because it is decidedly not shiny."
+
+"You had that Necklace of Sunpeak too, but at this point, I think your Prismfeather Mantle recovers more mana than it."
+
+"Hey, guys…" Caspian suddenly said, sounding troubled.
+
+"What?" Liora snapped, annoyed at her lack of shinies. But as her eyes turned towards the desert, she saw it instantly.
+
+You didn't even need enhanced vision to see it. A giant fin was heading straight for the oasis, and Liora could also see powerful earth mana gathering around it.
+
+"What is that?!" Cee shrieked.
+
+"Oh, no… I think that because of all the shark juveniles you were killing, you have finally attracted their parent," Renir muttered.
+
+As the fin swam closer, Liora saw the label above it.
+
+[Desert Shark Matriarch – Level 65]
+
+The name was bright red.

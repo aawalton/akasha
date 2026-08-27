@@ -1,0 +1,831 @@
+---
+id: 9a9674ce-556d-51e1-a0b3-a0cc3dcfb4ed
+page-type-slug: story-chapter-royal-road
+title: "443 Finding a Path"
+slug: 0403-443-finding-a-path
+partOf: the-new-world
+position: 403
+ownLength: 7697
+unit: words
+ownProgress: 7697
+publishedAt: 2025-06-26
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2388054/443-finding-a-path"
+royalRoadId: "2388054"
+markedReadAt: "2026-06-29T21:35:12.276Z"
+---
+
+My eyes went distant.
+
+"They're worse than evil."
+
+Hod raised a wing with tremendous confidence.
+
+"Hod think old people not that bad. Hod will say, Hod see old people in dark sometimes. Old people kind of scary, but Hod see their smile the next morning. Hod think them not so bad then."
+
+Hod nodded as if he said something deeply profound. Torix gazed at the sky as if staring at infinity.
+
+"You will survive this, Torix. You must."
+
+Chapter Begin
+
+Chrona tilted her head, her amphibious skin glossy in the light.
+
+"The Old Ones. I've heard you speak of them with our guildmates, and yet, I've never seen nor felt their presence. What are they, exactly?"
+
+I spent a few minutes catching everyone up to speed. As I did, I injected details and my perspective, though I tried to keep myself from being biased. That was a difficult proposition, given my mind-scalping experiences, but I did my best. Chrona gave me a wise nod as I finished.
+
+"That's fascinating. Elysium believes that the mana we rely on is derived from those archaic beings, and that reliance is why Schema's society is as degenerate as it is. In essence, we are tools for the Old Ones' amusement, and they wish to break that cycle."
+
+I sighed.
+
+"They wouldn't be the only ones. I want to as well, but I'm not seeing many outs for our current situation."
+
+Torix paced back and forth in a slow trot.
+
+"This is revolutionary, isn't it?"
+
+I frowned.
+
+"That we're they're puppets?"
+
+Torix spread his arms.
+
+"Oh, come now. We're getting closer to the truth of this universe. That isn't something to be afraid of. It's worthy of celebration."
+
+Althea crossed her arms.
+
+"Yeah, but something we rely on for literally everything comes from things we really don't want to be in contact with."
+
+She shivered.
+
+"Trust me. You don't want them to get in you. Anything they do tends to stick, and I think the Old Ones created a problem before giving us a solution that caused another problem. So yeah, we're stuck, and that sucks."
+
+Torix swiped a hand.
+
+"The problem existed whether we were aware of it or not. The difference lies in our awareness, so instead of perusing through a thick darkness, we now traverse a dense fog. Though the differences seem subtle, we can plan and pursue alternatives to our previous arrangements using this information."
+
+Diesel rubbed his temples.
+
+"Like throwing out all of our technology and going back to the Stone Ages?"
+
+Torix brushed his hand as if getting rid of some rubbish.
+
+"What? No, far from it. We're now able to achieve a level of independence from the Old Ones that few within Schema's system can enjoy. It allows us to filter its obstructions and augment our abilities in a real way, assuming the information is reliable."
+
+I leaned back.
+
+"That's true. We've been using mana this entire time. Knowing its source should help us keep it in check."
+
+Plazia's voice rumbled from the ground.
+
+"You've seen what the Old Ones have done to anyone they can impale their claws through. To assume we will be better off from mere information is mere arrogance."
+
+Torix locked his hands behind himself.
+
+"It's arrogance to assume we know the result of these facts until we've verified them and tested their outcomes. Aside from that, advancement is always something that arrives with risk. However, in our situation, it presents a startling opportunity - we can further filter our mana until it lacks the Old Ones' harmful influence. This is a gift we shouldn't take lightly."
+
+Krog lounged in a sunbathing area above us.
+
+"You speak of opportunity. It reminds me of our story. When Schema first arrived on Giess, we believed it would be a boon for us. The espens were augmented into superior beings. They were able to wield magic and fight monsters. We no longer needed to protect them at all times, and they could be given freedom once they were able to defend themselves."
+
+I raised my brow.
+
+"You guys were defending them? That's a positive spin on what was happening, isn't it?"
+
+Krog's eyes turned to slits.
+
+"My point is that you've seen what happened to our homeworld as a result of Schema's gift. We were turned into cattle, and the espens were assimilated into Elysium before they could develop their own culture. In the end, it did us no favors, and I believe we should be cautious of letting this monster into our home."
+
+Hod raised a hand.
+
+"Hod think monsters already here."
+
+Torix stared at Hod in disbelief.
+
+"For once, I concur with the bird."
+
+Hod made a pose with his wings spread wide.
+
+"Dry man know that Hod smarter than dry man. Hod think it long time coming."
+
+Torix shrugged.
+
+"And as quickly as it came, the moment of agreeance has faded into nothing but a memory. C'est la vi."
+
+Althea kicked her feet from my shoulder.
+
+"You've been reading some pre-Schema books?"
+
+Torix brushed one of his robes.
+
+"It's a part of being cultured, of which I make a point in being regardless of where I am."
+
+Amara hissed her words.
+
+"Pointless dribble. How would we uncover the validity of this information, and who will be the tortured people to unravel the Old Ones' secrets? I will be no test subject for these discoveries, and the eldritch we've captured and experimented on don't deserve this either."
+
+Plazia tilted his head.
+
+"Beyond the ethics involved, it's in our nature to consume and convert. If we unleash the latent potential of mana within an eldritch, it will evolve into an evergrowing mass that may consume all that is and will be. It is a risk not worth taking."
+
+Shalahora murmured over all present.
+
+"You all wear shackles, but your prison contains you. It walls off that which encroaches from outside your comfort. To break these chains is to escape, but it comes alongside an omen of greater dangers. That is why you must all proceed with caution."
+
+Plazia glowered at Shalahora.
+
+"Cryptic as always, hm? You sound as though you understood the truth of this from what you've said. Did you enjoy watching us writhe around in our ignorance? Oh, but you'd rather put it as a kind of darkness, wouldn't you? It would suit the magic you so revel in using."
+
+Shalahora's form rippled.
+
+"It isn't something so simply unveiled. I am privy to knowledge that I cannot share. That is not a metaphor or alliteration. I cannot share it."
+
+The shadows around us crawled in different shapes. I raised my hands.
+
+"You guys are fully grown apocalypses. Act like it and calm the hell down. I, for one, think that if there's anything we can test all this on, it would be me."
+
+Several guildmates yelled out in tandem.
+
+"That is simply foolish, disciple."
+
+"Hod not agree."
+
+"Holy moly, this is above my pay grade. Man, I was supposed to be an engineer after college."
+
+I sighed.
+
+"I have carved the cipher into my skin and channeled mana into my body for years. No one here can boast my level of resilience around this stuff, and that's why I can also test the situation without as many consequences."
+
+Torix snapped.
+
+"You are the center of this guild and the light of your world. If you die, your entire species will be washed into obscurity. The future you've promised them will fall into nothing. This makes you the absolute worst possible test subject with the highest risks involved."
+
+I leaned back as he stepped toward me with an accusing hand. Torix simmered his words.
+
+"I've seen the results of someone with talent believing they may shoulder everything. Someone close to me also believed he would overcome the forces of this universe and be above it all. That's how he was turned into the Lord of Worms instead of fully realizing the potential he held."
+
+Althea flipped off of my shoulder, landing light on her feet.
+
+"I'm not exactly a mana scientist, but I agree with Torix. This is just like you to try and take everything on."
+
+I raised a hand, more than one mind coming together in the conversation.
+
+"Every passing moment, I am channeling billions of mana a second into my body. Despite that, I haven't become some slobbering beast. This body, I think Baldag-Ruhl designed it so that it could assimilate energy without affecting his psyche and soul. It was a way of setting aside his eldritch nature."
+
+Plazia's swarm thudded against the walls of his armor.
+
+"Hm. Baldag was trying to rise above the primal outcome of our kind."
+
+I turned a hand to him.
+
+"And that's why I can take far greater risks than a normal person. My armor has been a mana filter."
+
+Althea furrowed her brow.
+
+"Would you like to watch us do this to ourselves?"
+
+I squeezed one of my hands.
+
+"If you had chosen that path, I would walk it with you. Whether I agreed or not, I wouldn't leave you walking it alone."
+
+Althea took a step back. I turned to the others here.
+
+"I'm dealing with levels of mana that are nearly continental in scale. They'll soon be planetary, then celestial. If I'm going to contain that kind of force, I'm going to need more than the mind and perspective of a human. To protect my guild, I'll be changed into something else. That isn't a choice. It is inevitable. To any that have felt what my mind has become, you know I'm far from a normal mortal now."
+
+A sobering weight settled over us. I frowned.
+
+"Whether you all support me or not, I'll need to make the power I have easier to handle. Filtering the mana would make it so much simpler since I wouldn't need to wrestle the Old Ones' influence all the time. I could lean into getting more mana instead of always trying to contain it."
+
+Torix cupped his chin.
+
+"So you'll effectively be trying to gauge whether or not the influence of the Old Ones can be mitigated and by how much, correct?"
+
+My runes glowed white.
+
+"Yes. I know I don't complain about it much, but I'm working with enough mana to flood a human's mind a hundred times over. Even subtle adjustments to make that easier will take most of my perpetual burden away. It lets me be more human than I am now."
+
+Althea took a breath.
+
+"Ok, these tests will be about making mana easier to handle, not getting you more mana?"
+
+I gave her a smile.
+
+"Yes. In the meantime, we won't turn an eldritch into some super monster with a direct line to an Old One, like Lehesion."
+
+Amara raised a palm to us. Her bloodshot eye glared.
+
+"That is not our failing. Even if we wish for something else, our bodies will rob us of our autonomy if we feast for too long. I have stalled my own growth for that reason."
+
+She glared at Plazia.
+
+"It dims our mind to feed."
+
+Plazia cackled.
+
+"For some of us."
+
+As they kept going at each other, I remembered the mind of the Hybrid Star before it was fully Hybridized. A thousand minds screamed for release, yet the body's urge to survive overwhelmed them all. I peered down.
+
+"It's a haunting life. If you can call it that."
+
+Kessiah rolled her eyes.
+
+"Look, eldritch aren't all things worth saving. Some of the time, you just have to put the suckers down. Also I've known Daniel long enough to know that making the mana easier to manage isn't going to change anything. It just means he'll use more of it until you're right back where you are now."
+
+She pursed her lips.
+
+"No offense."
+
+I raised my palms.
+
+"None taken."
+
+Kessiah threw her hands up and let them slap against her sides.
+
+"Then let me add some stuff to what I said. You tread too close to your edge all the time. One day, you're going to break, and we'll have some immortal, monstrous metal man running around destroying everybody. But you know what's worse? We'll lose a friend. A good one."
+
+My eyes stared into an unseen future.
+
+"That nearly happened on L-7 already, and there's no reason to think someone else isn't going to try and rob me of my body again at some point. It's already happened twice. Well, counting the serious attempts."
+
+A silence passed over the group. Shalahora's voice whispered with force.
+
+"The Old Ones will find a way to claw into Daniel's mind. He is too tantalizing a prospect for many reasons."
+
+Plazia manifested a throne from a pit of magma. He sat with a lazy dominance.
+
+"Such as?"
+
+Shalahora's shadows thrummed in the distance.
+
+"I cannot disclose more than this. Daniel holds mana far too well, and his psyche and will are strong. He will be worn as a puppet, one way or another, should we continue down this path."
+
+Shalahora walked towards the center of the group, his eyes meeting different guildmates.
+
+"Where you all see caution, I see a predestined outcome that leads to a grim demise. There is nowhere we may escape or path to take that avoids our obsequence to them. The Old Ones will find a way to separate the soul and the body, and we will be the ones to suffer."
+
+Shalahora raised an oversized hand.
+
+"We will all live for millennia. How many times will we escape them? Escape Elysium? Even Schema has plans for us all, yet you all think there is a path where you may take to avoid risk. Your dominion over your souls is at risk whether you face it boldly or cower like beaten dogs."
+
+Dread pooled over everyone. Shalahora drew from a vast well of experience dwarfing all those present combined.
+
+"How many times can we survive against these forces? You must all remember that one loss will be the loss of your will for eternity. I guarantee you that once your will is taken, your soul will never be given back again. Once it is done, it is done."
+
+His voice shook as he spoke; pain nested in his words like internal wounds under the skin.
+
+"It is your selfish desire to demand your loved ones to walk a safe, concerted path. Daniel wishes to be bold. We may fight him like some shadow made of sludge, or we can support his cause. He wishes to be given a chance to rise above the Old Ones. We can fight that or embrace his choice. Either way, he will fight."
+
+Shalahora gazed into a past unseen.
+
+"I will not force him to walk upon glass and embers alone. As a shadow of who I was, I will tread behind his path and do what I may to keep him in the light. What will you all do?"
+
+Murmurs spread across the group. In the background, a portal opened before Helios stepped out with Florence. The albony both brushed themselves off before Florence spread his hands wide.
+
+"Ah, it's so good to be back among friends. What did we miss?"
+
+Plazia tapped the side of his head.
+
+"Everything. As usual."
+
+Helios stared down at Plazia.
+
+"We were busy uplifting our entire species from enslavement and purgatory. Excuse the lateness. Speaking of, we need several cities erected across the moon if there's time for it."
+
+Helios spread his arms to me and bowed. Sarcasm dripped from his words.
+
+"But of course, when your lordship can give us a moment, that is."
+
+I weighed my hand back and forth.
+
+"I can give you guys a couple cities before heading back out. Before that, let's catch you up on the meet-up."
+
+I got them back up to speed. As I finished, Helios crossed his arms. He shook his head.
+
+"You're all demanding Daniel take a safe route to success? Have you all lost your minds? Need I remind you that he is insane. He's been insane since we've met. Before then, as well, from what I've gathered."
+
+Helios looked at everyone like lost children.
+
+"Why would any of you think he'll listen to reason? He's a lunatic. A madman. A raving deviant."
+
+Everybody looked at each other and nodded. I was taken aback. Helios shook his head in exasperation.
+
+"So stop being fools and help the idiot. He needs it. Desperately. To begin, someone will create a branch dedicated to testing these runes on his dimensional fabric. Pieces that get out of hand can be lobbed into his dimensional storage or destroyed. Promising pieces can then be used on his golems. So on and so forth until we reach the genuine article."
+
+Torix nodded.
+
+"Hm. That sounds far more reasonable."
+
+Helios pointed at Amara.
+
+"You understand the sigils better than anyone here. Use that strength on something that actually matters rather than your playpen with the eldritch."
+
+Plazia let out a long cackle while Amara steamed. Helios turned to Plazia.
+
+"We all know you were too afraid to face down the Spatial Fortress-"
+
+I raised a hand.
+
+"Ahem. Hybrid Star."
+
+Helios rolled his eyes.
+
+"Whatever. Plazia, you have no room to criticize others when your weaknesses are so glaring. Krog, Chrona, you should've already offered to help Daniel with terraforming the planet you and the gialgathens will likely be colonizing. Get your kind more involved and moving. Remember this. You can rely on slaves no longer. We are the same."
+
+The retired generals stared at each other before giving him a nod. Helios turned his palm to Diesel.
+
+"You've been hard at work with the infrastructure project. I've seen multiple cities connected, and it's built so that it can handle much larger scales. We'll need your assistance on the moon once you've established the larger pieces here."
+
+Diesel gave him a salute.
+
+"Now that's something I can actually do. In a spacesuit, of course. And with golem guards."
+
+Helios gave him a rare smile before glaring at me in disgust.
+
+"And you. You're the leader of this guild. It is fine to accept counsel, but there's no reason to beg these people for permission. They, despite their abilities and merits, haven't achieved what you have. It is insane to watch you stand here like some trembling cub when all of us may be killed by you at any time."
+
+Plazia let out a dark, echoing chuckle while Shalahora's body rippled for a moment. Helios put a fist against my chest.
+
+"There are times and places to listen. This isn't one of them."
+
+At that moment, something dawned on me. Helios had ruled a planet with a developed society, and he'd done it to a high standard. He had over a decade of experience in the task, and that confidence shined through in meetings like this. From understanding what needed to be done to who needed to do it, he broke down a task into slices and allocated the jobs to who could handle it best.
+
+It left me with little to say but a lot to learn, so I lifted a fist in response. Helios gave me a nod before Florence clapped his hands.
+
+"Good. With the business side of our endeavors handled, let's enjoy the moment we have together after all this time."
+
+Plazia leaned to him.
+
+"We are no family. We are not even friends."
+
+Tension passed over everyone. Florence stepped up to the hivemind.
+
+"You are exactly right. We're more than blood ties or relationships built on casual moments. We're brothers and sisters of the legion, and we're here to turn the path of this entire universe, aren't we?"
+
+Plazia said nothing. Florence put a hand on the eldritch's shoulder.
+
+"That's what weaves our paths together. A singular purpose to change the status quo. It stops your hunger. It stops my decadence. It has forged us, and it still makes us. Even now."
+
+Florence turned to everyone. A glass formed in his hand.
+
+"To friends who are closer than family."
+
+His voice trembled at his last word, the absence of his people like an open wound. His vulnerability disarmed Plazia, leaving the hivemind with nothing to add. Florence snapped his fingers, and glasses formed in everyone's palms. We raised our glasses, even Plazia. We spoke as a unit.
+
+"To the legion."
+
+Over the next few hours, I had conversations with everybody. Catching up breathed life into me, and it gave me a renewed sense of purpose. Diesel had spent the last few months building up the grid we erected, my golems turning a decades-long process into something done in months. He kept the guild busy tearing down the old world powerlines and replacing them with the new world tech run by magic.
+
+To my surprise, the aesthetic element held a high priority. From Diesel's perspective, the long-term utility of the project was so evident that only complete zealots would fight against it. Convincing those people required a different angle than mere obvious facts, and Diesel found the project's beautification acted as that angle. It wasn't as if we lacked the resources for it, either.
+
+With his compass, Diesel owned a mobile Architect golem at his fingertips. He collaborated with designers who used the overwhelming manufacturing capacity of his artifact. Lavish layouts turned from exorbitant luxuries to obvious expectations, given how easily they could be sourced and maintained. This allowed him to construct power lines that mirrored the designs of craftsmen from the old world.
+
+Power grids turned from wooden poles and plastic lines to embroidered steel and copper cables. From the copper wires, ivies hung like green curtains and moss coated gaps in the engraved metal pillars. They incorporated the histories of local areas, trying to tie in well-known figures and heroes from past eras.
+
+Local heroes who helped elevate the towns were memorialized, and Diesel blended the local fauna of an area with the pragmatic framework. Spanish moss and palm trees embroidered the South East. Western columbine and Oregon grape covered the lines of the North West. Merry bells and maidenhair ferns adorned our cities in the North East, and Firecracker Penstemon grew on the projects alongside yucca and Texas Mountain Laurels in the South West.
+
+It was an incredible fact about conquering a territory - a bit of botanical work and historical respect made it a lot easier to win people over. That's why flowers and trees were bent and molded around everything, giving the new infrastructure an ancient and natural feel. Diesel even kept the local area's aesthetic, using the older, more differentiated versions of a place than their more modern counterparts.
+
+It sounded incredible, but I had questions. I put my hands on my hips as he finished describing the process.
+
+"Doesn't that slow everything down? These people need power and water now."
+
+Diesel shook his head with a smile teasing his lips.
+
+"Will people use these utilities if we just make them? Maybe. Maybe not. It's based on how much they trust us. Where do we get that kind of trust? By making everything beautiful. It helps mitigate one of the biggest problems with this project - the people we're saving don't think of our takeover as helping."
+
+I took a breath.
+
+"They don't. How?"
+
+"We're a heavily armored and well-stocked invasion force. Even when we build them wells and give them back electricity, the golems you've sent are still silent messengers of what happens should they resist. It's threatening no matter how you slice it."
+
+I grimaced.
+
+"Damn. Maybe I can redesign-"
+
+Diesel hit my side by swinging his compass on its chain.
+
+"No. You've got a lot on your plate. Let us handle it."
+
+I raised a hand.
+
+"But it wouldn't be-"
+
+He hit me again. Diesel rolled his eyes.
+
+"I can tell you've never worked in management. You actually remind me of one of my old managers at my waterworks company. He was a guy who excelled at every position and was extremely productive. He could do five people's jobs all at once. You know, if he was willing to drag himself through the mud to make it happen."
+
+Diesel swung the compass, and it wrapped around his arm like a set of keys on a lanyard.
+
+"What do you think happened to him?"
+
+A shadow went over me.
+
+"He probably died during the culling."
+
+Diesel scoffed.
+
+"He joined us in the fight against Yawm and survived. He's a prolific dungeon clearer now, and he does a lot of solo missions. I'm talking about his time at the water company."
+
+I smiled; the story was one full of more redemption than I expected.
+
+"I'm happy to hear he's doing fine now."
+
+"Me too, but it's worth mentioning that history repeats itself in all kinds of different forms. That's why I'm bringing this up."
+
+I smiled at Diesel. His growing confidence exposed the internal competence hidden under his shyness. I shrugged.
+
+"I don't know. Was he moved into upper management?"
+
+"Nope. He was demoted after being a manager for six months. He kept micromanaging everyone and trying to take over projects that were being handled well enough. The same drive that got him promoted lost him his position and by no genuine, ill-willed fault of his own. I think you match his energy."
+
+I shrugged.
+
+"Eh, you're probably right about that."
+
+Diesel turned to everyone, but he kept our conversation between us.
+
+"I don't mean to be critical here either. What you do is incredible. You're giving everyone a reason to work hard, and sincerely, your work ethic is one of the best parts of this guild. It's hard to come up with excuses when your boss is grinding himself down to the bone all the time."
+
+He met my eye.
+
+"You know what I mean, right? This guild...It gives us all a reason to wake up and get through the hard bits of life. We've really been needing that for a while since the system arrived. Now look at you going off and trying to take that all away. Tsk tsk."
+
+He pointed at me.
+
+"We have a future now. You have to let us buy in on it, so yeah, you don't get to have all the work just to yourself. We all get a piece of that pie."
+
+I swarmed with thought, and my initial reaction was to defend myself. I thought better of it and nodded.
+
+"I'll keep that in mind. Thank you for letting me know."
+
+"Anytime, chief. And uh, I know I said all that, but I'm still terrified of Amara and Plazia. Please keep my squishy body away from them."
+
+I scoffed.
+
+"Actually, I think this is a great opportunity to apply what you just said. You're their new manager. Boom. Duties delegated."
+
+As horror cropped up on Diesel's face, I gave him a satisfied smile.
+
+"Ah, I love listening to my guildmates. I've really got this figured out, huh?"
+
+Diesel gave me a salute.
+
+"It was an honor to serve, sir, but my time here has come to a close."
+
+He and I laughed before Diesel walked off. He wasn't the only one busy.
+
+Althea's orphanage came together during my time away. She connected with several other individuals driven by her purpose, and that expanded her growing network. Those contacts let her spread her reach to more cities, ensuring that more children received reasonable upbringings.
+
+She established training programs for their future Schematization alongside education on everything magical or system-related. Torix helped iron out a holistic curriculum, though Althea had to tone it down by more than a few notches. I added a few tidbits to their studies, mainly bits about leveling certain skills and abusing certain trees.
+
+From what I gathered, that was a key difference between my guild and most forces. We aimed to spread knowledge about the system far and wide. It's what humanity did with the internet, and we weren't stopping anytime soon. Still, even with Althea's intervention in local communities, her schools weren't as extensive as what she and Torix developed on Mt. Verner.
+
+For now, these new institutes far exceeded anything Earth had mustered up. Well, that we'd seen so far. From a few of the scouting reports, our guildmates found pocketed communities grounded by powerful warriors, and they were spread throughout the continents. The more benevolent warlords received our assistance for free, while the more spiteful tyrants were conquered by my legion.
+
+We didn't need to fight often, at least anywhere near New York. After tearing down the guild Marcella Meyer left behind after her obliteration, my guild gained a reputation across the Northeast of North America. Our dominance avoided a lot of fights we'd otherwise have slugged out, but further out from that sphere of influence, the sheer strength of my golems deterred most attacks and assaults from anyone sane.
+
+On the other hand, we experienced quite a bit of resistance near major population centers. I had expected as much. The strongest individuals gathered there. In that regard, cities operated as a filter and as a magnet. In those population centers, the strongest of millions rose to the top, and they surrounded themselves with the same millions to stand on.
+
+To many, they needed dominion over a population, and these tyrants tried to rule what was left of the world. Tearing them down wasn't difficult, but they kept crawling out of the woodwork like flies from a bloated corpse.
+
+That was the most challenging part of taking Earth so far - arresting control without slaughter.
+
+In all honesty, I owned the planet already. I had system perks and titles to prove it, but this wasn't what I wanted Earth to be. I wanted a place drenched in harmony and prosperity. I could ensure that happened over the long term, but it would take far more work than what I put in already.
+
+The sheer magnitude of the task weighed on me, and those thoughts swirled through my mind as Torix finished his report. We sat near the edge of Chrona's home, viewing the sunset and glowing lights of the city proper. After having heard Diesel's explanation, I searched for what he talked about.
+
+And I found signs of the beautification project.
+
+Blazing stars reached from under the power lines while honeysuckle vines crept up around them. Enchantments lined the electrical grid, giving them an otherworldly glow that traced lines of light across their outreach. A few forest critter spirits lined each set, the mana constructs singing and flying near their power sources.
+
+I smiled at the sight, and the improving view was something I was getting used to. More skyscrapers were etched into the sky, and they carried the greenery and growth our guild chose as its aesthetic. Flowering virgin's bower crossed the window panes and fruit trees rose from the soil at the tops of buildings.
+
+It helped give the air a sweeter scent, and that gave me solace as Torix handed me a list of twenty warlords ruling over old-world cities. From Rome to Tokyo, they dug their hands deep into this world to try and take as much control as they could. Torix leaned in and whispered.
+
+"We can finish them off if you'd like. It would be so simple. Easy. Final."
+
+I let out a long sigh.
+
+"Murder. Torix. We've been over this."
+
+Torix raised a finger.
+
+"They're warlords. Though some carry a certain amount of benevolence, they lack any real substance. Any goodwill they present is either a political tool they've used to manipulate their image or a means of unspoken control."
+
+I tapped my chin with a knuckle.
+
+"That's conjecture. By that logic, you could say the same about us."
+
+Torix's eyes flared green.
+
+"But of course. That's what we're doing, isn't it?"
+
+Before I could answer, Althea stepped up to us.
+
+"It's not why I'm setting up schools."
+
+Torix waved a dismissive hand.
+
+"That's in honor of a higher ideal. Education is a worthy end in and of itself. I'm discussing power and influence, two factors that are expressly gained with a singular purpose - to impose our will."
+
+Althea put her weight on one leg, her hip sticking out a bit.
+
+"But we're imposing our will for those higher principles like education."
+
+Torix's eyes flared bright.
+
+"And that could be out of benevolence or a self-serving desire to feel like a savior. Regardless of our aims, I believe that most people aim to influence for a primal pleasure that comes from enacting their will."
+
+Althea crossed her arms.
+
+"That hasn't been the case for the educators I've worked with. I think some people feel content with simply helping people as best they can."
+
+I smiled at her.
+
+"I would say the majority, actually."
+
+Torix interlocked his hands behind himself.
+
+"My personal ideas differ. By my estimation, the character failings of successful individuals are an unfortunate reality of Schema's system. Whenever you dictate strength and influence on the ability to kill monsters, the most violent individuals rise to prominence. That much is inevitable."
+
+I raised my brow.
+
+"So violent rulers are a feature, not a bug?"
+
+"Ahem...Perhaps. I'm not well versed in that adage."
+
+I rolled a hand.
+
+"It's an old-world phrase. It means something that looks like a flaw in a system is actually something baked in. I don't think that's true in this case, though. I've met a couple of emperors and the like. They aren't these scathing, hateful warriors who thirst for blood, as far as I could tell."
+
+Torix raised a finger.
+
+"Apt observation, but from what you've described, you've never seen a rising ruler. You've either met an established one or one without a backbone. This has allowed you to skip most originating rulers' brutal ascensions. By comparison, you've seen their educated, spoiled offspring."
+
+Torix raised a hand.
+
+"From my research, there are few rulers that lie between those two extremes. Considering Earth's current historical era, we'll only meet these would-be rulers striving for dominance. Thus, violence permeates to an extreme within them. Since it is their chosen language, we may speak it back in turn."
+
+I peered at Hod as he had an eating contest with Krog and Chrona. With ease, our birdman decimated them in the competition. I sighed.
+
+"I'm hoping we can skip the bloodthirsty part of all that."
+
+Torix coughed into a hand. I crossed my arms.
+
+"I know you think that's a subtle gesture, but you're a metal skeleton. You don't even breathe."
+
+"I don't know what you're talking about."
+
+I rolled my fingertips across my forearm.
+
+"Oh, come on, man. Out with it."
+
+Torix turned around.
+
+"My my, is that Hod in an eating competition? Perhaps some telekinesis may make his body burst. Hm. Wouldn't that be fun?"
+
+He paced over before Althea put a hand on my arm. She tightened her squeeze.
+
+"Hey, don't take what he said too seriously. I know you. I think you enjoy fighting, but being bloodthirsty? That's a bit much."
+
+I gave her a beaming smile. She took a breath.
+
+"Because, you know, it's pretty rare I see you in your berzerker mode. Usually. It kind of depends on where we are, actually. You know what? Forget I said anything."
+
+I furrowed my brow.
+
+"I don't have a berzerker mode."
+
+She scoffed.
+
+"Uhm...Ok. Then a rampaging warrior mode."
+
+I leaned back.
+
+"Wow. Really? Come on now. I'm not like that."
+
+She stared at me in disbelief.
+
+"Uhm, then a cookie monster mode? Look, I don't know what you want from me here."
+
+"I don't want you to act like I'm some evil eldritch."
+
+"You're not...You just look like it sometimes."
+
+I raised my brow.
+
+"Does everybody think I'm like that?"
+
+Althea scratched the back of her head.
+
+"Uhm...Yes, probably. I can't see how they wouldn't if they saw you in war or a hard battle."
+
+I took a step back as if struck.
+
+"Augh, my chest. That's a blow, and from you, no less. I'm affronted. Vexed. Some might even say indignant."
+
+She smiled.
+
+"Hey, I know you worry about your humanity, but it's not like animosity and wrath are never warranted. Taking yourself to that place is important sometimes. Besides, it's nice seeing you angry. I don't like it when you're always nice."
+
+"I wouldn't imagine that coming from you. I mean, you run an orphanage. You're the definition of nice."
+
+She leaned against me.
+
+"So that's why I like someone spicy for my sweet. It keeps things fresh."
+
+My armor rippled over my skin.
+
+"Like that choker?"
+
+She rubbed the bracelet over her neck, her smile soft.
+
+"Just like it, actually."
+
+Shalahora assimilated from the surrounding shadows and darkness.
+
+"Am I interrupting something?"
+
+Althea put a hand on Shalahora's arm.
+
+"Definitely not. You should both talk. Daniel and I will catch up later."
+
+As she stepped away, Shalahora shook his head.
+
+"None are worthy of her."
+
+I scratched the back of my head.
+
+"I couldn't agree more. So anyways, what's up?"
+
+My peripheral vision sank inward, the world closing in around me and Shalahora. Without disrupting anyone, Shalahora masked our presence. As everyone lost track of us, the shadow murmured.
+
+"I've been rummaging through the minds of people during my psionic assessments. In memory, I've walked every inch of this world through the visions and sights of others. It's a beautiful realm, one we will fight hard for."
+
+I kept my eyes on Althea.
+
+"Definitely. It's home, at the very least."
+
+Shalahora raised a hand.
+
+"I say that with reason...I've uncovered vital information on the largest factions pressing against us."
+
+"I'm guessing Elysium and Schema, then?"
+
+"Not entirely. It stems Elysium but also something from between dimensions."
+
+My stomach sank as I turned my gaze to him.
+
+"Between dimensions? Sounds like it's from Kryyah, then."
+
+Shalahora's form shifted in and out of existence.
+
+"It is. Something is lurking in that interdimensional space, and they've built some kind of interdimensional horror."
+
+I dragged a hand down my face.
+
+"Haven't they all?"
+
+"I would say no. Few beings can access that realm, even in terms as large as galactic ones. However, no matter their origin, these entities have existed on the other side of the galaxy and haven't pressed into this portion of Schema-owned space yet. From what I've gathered from my sources, this enemy's arrival is inevitable, and we must be ready."
+
+My eyes sharpened.
+
+"These huge, galaxy-warping threats just pop out of the ether. How in the hell haven't we heard of these guys?"
+
+Shalahora tilted his head.
+
+"There are many reasons. The most obvious cause is Schema's informational lockdown. Without an infrastructure to spread information, every empire becomes an isolated space without any substantial reach. Certain empires fight against this and proliferate their influence, but many remain in relative obscurity."
+
+"Like us."
+
+"We exist within the shadow of Schema, something shown to many, yet we know of little beyond our borders. That stems from a lack of scouting or further operations outside of internal affairs. This is to be expected, given the age of your empire."
+
+I frowned.
+
+"Really, it's a guild."
+
+"My point is that our emphasis on what happens upon your planets allows for insulation from the wider galactic world. Taking time and traversing a few galactic capitals and spending time within them would season your approach and broaden your perspective."
+
+I shook my head.
+
+"Hah. It sure would, but I doubt I'll get time for something like that for a while."
+
+Shalahora's shadow let out several scouts that traversed through the shadows of the room.
+
+"Once more, this is to be expected, but you will be alive for a long time. That gives you the ability to have many stages of your life. One will be a season of learning and culture. Others will be the seasons of war, their shades painted in blood and their scents effused in death. Preparing for them all shall make you into the force you wish to become."
+
+"Poetic, but it feels like the seasons are all war with tiny gaps between them."
+
+Shalahora whispered with force.
+
+"I've seen the memories of the dying, and many of the shortest lived have the fullest lives. In many ways, a ceaseless struggle stretches one's life while comfortable times pass quickly, almost as if temporality has hastened itself."
+
+"Interesting perspective, but we've gotten way, way off topic. What about these interdimensional things? What are they bringing here?"
+
+"They are shearing space. In doing so, this enemy force wishes to widen the gaps that are spreading across the many realms availed to us."
+
+I bit my lip.
+
+"Ahhhh. Then they ripped a third of the oceans off of Blegara by feeding that eldritch?"
+
+"In essence, they have. They caused the initial opening the Hybrid Star fed on."
+
+My armor formed spines across my back.
+
+"Then we have debts to settle with them."
+
+Shalahora's form became corporeal, solidifying.
+
+"They have little to offer aside from war and destruction."
+
+A silence passed over us. It soaked into the air, strangling it of its levity and leaving it like lead. I took a breath of that intensity, two parts of me fighting the other. One part wished for war, for a place to stretch my limbs and test my limits. The other wanted wonder and time to explore. For now, my desires were irrelevant.
+
+All that seemed to matter were the circumstances I found myself in. It was this way every damn time, and I bit my inner cheek.
+
+"You know, I just want peace and time to establish myself, my territory, and my planet. Every time I think a situation has calmed down, I get dragged into some interdimensional, galactic-scale conflict that reaks of ethical horror, gods beyond space and time, and evil organizations hell-bent on eliminating free will."
+
+I squeezed a hand into a fist.
+
+"It can't be like this everywhere, can it?"
+
+Another quiet passed over us. Shalahora murmured, and yet his voice quaked over our surroundings.
+
+"If there exists a sanctum free of this, my journey hasn't uncovered where that is."
+
+I gave him a weak smile.
+
+"To be fair, you do tend to find the shadow in any light. Eh? Eh? Puns?"
+
+"Awful jokes or not, you're right. It is my nature to find the gloom."
+
+I raised a hand.
+
+"Shalahora, I know you've done plenty you're not proud of. We all have. That being said, I also know you haven't had many good options to pick from, and so far, you've been doing your best with what you have. You should know there's honor in doing the best you can, whether you feel otherwise or not."
+
+Shalahora let out a laugh.
+
+"There is much that honor finds itself in. The plight of a lone mother carrying her child from danger. The worry of a philosopher ready to unleash his ideas on an unready world. Even in the falling of a leaf, its flight downward waving back and forth, fighting for its last piece of existence."
+
+Shalahora murmured,
+
+"Honor is in most things, but what I've done with my life...It doesn't fall in honor's purview. The more you learn of me, the more you will know that as an immutable fact."
+
+A quiet encompassed us once more. After soaking his words in, I smiled and shrugged.
+
+"Eh, we'll see. You've still got plenty of time to make amends for whatever you've done."
+
+Shalahora's voice rumbled like a far-off storm.
+
+"Or spread my poison further. Time will tell whether my path changed when I aligned myself with you."
+
+"Let's hope so. Now, if this interdimensional faction succeeds, then I'm guessing they'll destroy all life? Maybe eliminate all matter? Perhaps it's both?"
+
+"Whoever leads them is going to create an enormous dimensional disturbance. So yes, they will likely do both."
+
+I remembered the name, but I dared not speak it aloud. Cygna the Silent. It was fitting given how even Sovereigns spoke around their name.
+
+Shalahora murmured,
+
+"They're creating holes in spacetime to ravage entire celestial bodies. Earth is a prime target as it lies on a dimensional fault line. It could be the center of what they wish to create. Whatever that may be."
+
+"I'm guessing Kryya was one of their agents?"
+
+"There is little doubt in my mind. From what you've described, Kryya was something that leaked out of the ether, and it intercepted one of these dimensional rips as a scout. That falls in line with what I've learned from my patron."
+
+I pivoted to the side, turning on one heel.
+
+"Any ideas on what we'll be doing about it?"
+
+"I've psionically assimilated important memories from unscrupulous individuals. They will inform you."
+
+My gaze sharpened.
+
+"Stealing memories? From whom?"
+
+"I've taken the bulk of these data points from Elysium agents across the many species under your protection. The other bits and pieces were snippets garnered from passing wanderers from other empires or parts I obtained during my own travels. Aside from that, stolen isn't correct. They still have their memories. I simply have them as well."
+
+I raised a hand.
+
+"So you copied them?"
+
+Shalahora raised a hand.
+
+"Yes, that's right. I...I can give portions of the memories to you, and they shall grant you an assessment of the situation, should you want them."
+
+"Depends on what they're about. I'm guessing it's only the most relevant stuff?"
+
+"Of course. I would never willingly waste your time."
+
+I took a breath.
+
+"Then let'em rip."
+
+Shalahora placed a fingertip on his forehead before pulling a strand of mana from his head. It swirled as if alive, reminding me of a glowing jellyfish. He pulled it towards me before tapping my forehead. As it flowed into my head, I blinked, and a series of images flashed through my mind.
+
+"This...This is-" I gasped before my shoulders dropped. "This is a bunch of animated series from Batman and Spiderman. Wait...It's especially about Venom and Inque. Honestly, any blurry and dark character in general."
+
+A silence passed over us, heavy like a lie on the tongue. Shalahora's body condensed into a smaller shape.
+
+"This...Is the wrong batch of memories."

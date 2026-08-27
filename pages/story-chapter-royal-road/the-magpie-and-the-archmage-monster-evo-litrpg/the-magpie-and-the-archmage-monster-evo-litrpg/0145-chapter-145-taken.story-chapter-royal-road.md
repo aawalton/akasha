@@ -1,0 +1,177 @@
+---
+id: 1a6bee12-f4d7-50fb-8494-a990443e8211
+page-type-slug: story-chapter-royal-road
+title: "Chapter 145 – Taken"
+slug: 0145-chapter-145-taken
+partOf: the-magpie-and-the-archmage-monster-evo-litrpg
+position: 145
+ownLength: 2238
+unit: words
+publishedAt: 2026-07-10
+link: "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3656128/chapter-145-taken"
+royalRoadId: "3656128"
+---
+
+"Where are my glimmerstones?!" Liora raged, flapping her wings angrily, making bits of dead spider fly everywhere.
+
+"Stop it! It's gross!" Cee complained, squirming under the web as a few of the bits flew in her direction.
+
+"Wait… did you say there's no glimmerstones? Are you certain?" Renir asked, his voice filled with concern.
+
+"Do you really think I wouldn't be able to find glimmerstones?" Liora snapped.
+
+"Liora, we must get out of here! If there were no glimmerstones, then it was, without a doubt, a magical construct created by a mage. A powerful mage who will undoubtedly come and check what happened to its creation!" Renir explained frantically.
+
+Liora felt annoyance rise. She wanted to wash her feathers and scream at the world for robbing her of her precious glimmerstones, but instead, she had to rush to the web and try to pull it off Cee and Renir while ignoring the nasty muck on her feathers.
+
+The webs were sticky and hard to break apart, even with her razor-sharp talons. It was like they were made of glue. The more she pulled, the more they stuck to her talons.
+
+"ARGH! How do I get these off?"
+
+"Fire could burn these away, or perhaps freezing them might work," Renir suggested.
+
+"I don't have those!" Liora shot back.
+
+"Let me try!" Cee tried to wiggle her legs into a different position, but the webs were restricting her movement too much. "I can't move enough to weave my magma webs."
+
+"Can't you do something, Renir?"
+
+"I'm out of mana!"
+
+Liora groaned in frustration as her talons were just mucked up with the webs, and yet she was no closer to freeing Cee and Renir.
+
+"Let me get Smokey. Maybe I can squeeze a few sparks out of him," Liora said and activated Featherflash.
+
+"Hey! Don't just flash us like that," Renir complained.
+
+"My eyes…" Cee whined.
+
+Liora mentally apologized to them as she turned into a mote of light and flew in the direction of Smokey's wails. When she materialized again, she was relieved to see that her feathers were clean again. She loved Featherflash so much. Because it would only work on her and nothing else, everything that was not part of her body was effectively washed off.
+
+As a result, it was excellent for getting rid of nasties such as dead spider guts. Although it couldn't replace proper preening. It was only good for removing the largest chunks of her feathers.
+
+Soon enough, she noticed the juvenile wyvern dangling among the treetops, snarling at a few curious monsters who were wondering how they could approach the entrapped wyvern to eat him. Granted, they were far too low a level to pose a real threat.
+
+Liora let out a loud "chak-chak-chak" and they all scattered, disappearing back into the nooks where they had crawled out of. Smokey whimpered at her, clearly pleading with his eyes for her to free him.
+
+"Don't look at me like that! You should be able to free yourself. Can't you breathe fire?" Liora questioned.
+
+Smokey just cocked his head, likely not understanding what she was saying. She groaned.
+
+"Breathe fire. On the net. Rawr!" She said, pointing at the net with her beak and mimicking the roar of the mother wyvern.
+
+Smokey looked startled at first, and Liora had to repeat the motion many, far too many times, until some kind of understanding finally dawned on the wyvern. He squirmed, turning his head towards the leg that was still trapped in the webs and… well, Liora wasn't sure what he did, but it certainly wasn't fire-breathing.
+
+It was more like he was retching. She looked at him, rather fed up with this whole situation. Should she learn a fire incantation from Renir to get them all free?
+
+But eventually Smokey managed to get the fire out of his mouth. Calling it fire was generous. More likely, a few sparks no larger than a candle flame. Thankfully, it was enough. Webs turned out to be highly flammable, and the tiny flame was enough to burn them away almost instantly and make the wyvern plummet to the ground.
+
+Liora managed to catch him before he crashed. The wyvern looked up at her, appearing grateful.
+
+"Don't think I'll save you every time. You should learn how to fly properly on your own," Liora chastised.
+
+"LIORA!!!" Renir's voice resonated through the forest.
+
+She focused her vision on where she had left Renir and Cee, and saw that something had approached them. A man of some kind, his hand outstretched towards the web.
+
+Liora let out a loud, angry CAW and dove down towards the scene.
+
+Stupid, stupid! Renir warned that the mage would come soon, and yet I left him alone for so long. Don't take him, don't take him!
+
+The mage, alerted to Liora's approach, burned away the webs. But he wasn't gentle about it. No, in fact, he doused it with a flame so heavy, Liora's heart nearly stopped. Cee and Renir were under those webs!
+
+In her desperation, Liora flung the wyvern in her talons into the nearby tree canopy and dove at the mage.
+
+But she wasn't fast enough. The mage grabbed Renir's gem, which had remained unscathed, and then vanished into thin air right as Liora was about to Rend him apart with her talons.
+
+"R-Renir…" Liora muttered desperately after crashing rather painfully to the ground. She felt pain radiate through her whole body. In fact, she was barely able to keep herself upright as she looked at Cee. The poor spider was horribly burned.
+
+Two of her legs had been burned off completely, three were half-burned off, and much of her exoskeleton was covered in char marks.
+
+"Cee!" she screamed in horror, afraid that her friend... was dead.
+
+One of her legs twitched, indicating that she was still alive.
+
+"Cee!" Ignoring her pain, Liora hurriedly withdrew one of the potions from her Inventory. The bottle nearly slipped out of her talons since it was rather small, but she somehow managed to pull the cork free and pour the contents over the spider.
+
+The worst of the wounds on her exoskeleton healed, and the burn marks disappeared; however, her limbs didn't grow back. Liora withdrew another potion—Sallie had given her five before she left—and poured it over Cee.
+
+In the end, she had to use all five potions for Cee's limbs to regrow and for her to regain a semi-normal state. Even then, her carapace looked soft and tender.
+
+"L-Liora, what happened?" Cee asked in a daze. She tried to stand, but her newly regrown limbs were too soft, and Cee's weight collapsed under them. "O-Ow, ow, ow…"
+
+"H-He took Renir. You almost died… I… I don't know what to do?" Liora was panicking.
+
+She didn't know what to do. Renir was taken. They were supposed to train and go to the ants, but all of a sudden, he got taken because they got ambushed by a stupid construct spider. Liora had to get him back. What if it was a mage from the Night Order?
+
+What would they do to him? Would they… kill him somehow? The thought was so painful that Liora found herself gasping for breath. All of a sudden, it felt like she couldn't breathe. It had all happened so quickly that Liora couldn't even grasp it properly.
+
+"Renir… They took Renir… They took Renir…" She repeated again and again. This was worse than the time with the hyena or the time in the marsh.
+
+Then she had at least known where Renir had been taken to. She knew where to go and what to do to get him back. But what could she do now? She had no clue where this mysterious, likely enemy mage had gone. He could be on the other side of the planet for all she knew, and she had no way of tracking him down.
+
+"L-Liora, please, calm down!" Cee said, while gently positioning herself to face Liora. She couldn't quite get up yet. "I almost got killed here, you know."
+
+That only added to the layer of panic that Liora was experiencing. It meant that the mage was undoubtedly strong. What seemed like nothing more than a lazy gesture to get rid of those webs had nearly taken Cee's life. Even if she was extremely weak to fire, that was too much.
+
+"That's what I'm worried about. You nearly died… it was… horrifying. What if that mage kills Renir? What if he's crushed? I-It would be my fault. I never should have left him. Not even for a second—"
+
+"Liora!" Cee shouted, forcing Liora to snap out of her ramblings to look at her friend. "They would not kill Renir outright. I don't think they can even if they wanted to. Don't you think they would have killed him while he was drunk if they could have?"
+
+"Y-Yeah… I suppose they would have."
+
+"So, you panicking around isn't going to help anyone. Ow! Dammit, this hurts. I honestly thought I was going to die back there… Just give me a moment to recover from all this. We'll figure something out," Cee said.
+
+"Yes, you're right…" Liora replied shakily, and although she wasn't panicking anymore, she was far from calm.
+
+Smokey made his way out of the tree and growled at Liora angrily, likely for her having tossed him aside.
+
+"Sorry," Liora apologized, and the wyvern ceased its growling, although he still looked mad.
+
+"You must have tossed him hard. He has a nasty gash on his side," Cee noted as she looked over her pet. Smokey was licking the wound, which was bleeding a little.
+
+"Sorry, sorry! It's just Renir… How are we going to find him?" Liora paced around Cee restlessly.
+
+Some jungle creatures had gotten curious over the ruckus going on and came closer, including one of the jaguars. It likely thought it was being sneaky, walking through the shadows.
+
+"Get out of here!" Liora used her Resonance Mimicry to make her voice loud and booming, forcing all the monsters, even the jaguar, to scramble away in fright.
+
+Liora wished one of them would approach. She felt so frustrated that she wouldn't have minded tearing one of these noisy bastards apart, while imagining it was the mage who had taken Renir.
+
+For some while, Liora paced around restlessly while Cee and Smokey slowly regained their bearings. In the meantime, Liora realized just how much pain she actually was in. It was like every part of her body had been battered and beaten with a baseball bat.
+
+But the frustration she felt with her was far, far worse than the pain. To think that she would lose Renir just like that. This is why she always kept him in her Inventory. She never should have removed him from her neck. She never should have left him alone.
+
+After a while, the exoskeleton on Cee's legs hardened and became dark, allowing her to stand again, albeit her gait was very wobbly. Even Smokey looked worried.
+
+"Okay, I wish we had time to rest some more, but I've managed to more or less recover my bearings, and I'm afraid we don't have too much time. You don't have any more potions, do you?" Cee asked.
+
+"No. I used all the ones that Sallie had given us," Liora said.
+
+"Dammit… A Pillar of Vital Chalice, she should have given us more. Whatever. I think that the mage who snatched Renir is likely somewhere nearby. Like, not really nearby, but for how fast you can fly, he should be undoubtedly somewhere within your range," Cee said.
+
+"Really? How do you know that?" Liora asked, feeling a bit of hope return.
+
+"Remember how Renir explained how teleportation worked with the Divine Glimmerstone. Even to teleport to the closest point on the shore, it still had likely taken years for the glimmercore to absorb the necessary amount of ambient mana. Long-distance teleportation is very expensive. So the mage was unlikely to teleport far, just far enough so you would think that he's far away," Cee explained.
+
+"B-But while I healed you and while we recovered, he must have gotten further away!" Liora said.
+
+"Most likely. But humans are slow, and we killed his spider. Unless he has another monster construct, in which case it might be more difficult to track him down. However! I still believe you should have no trouble finding him," Cee said, sounding rather smug.
+
+"What? How?" Liora blinked in confusion.
+
+"Isn't Renir your greatest treasure?"
+
+Liora felt confused. What did the spider mean by that? She opened her beak to protest, but then she realized it. Liora hadn't noticed her before because of a rush of adrenaline coursing through her. But now that it was calming down, she noticed it.
+
+The faint, yet unmistakable tug of Treasure Sense.
+
+"I… I think I know where he is…" Liora muttered.
+
+"Then what are you waiting for? Go, get him!" Cee urged.
+
+"But what about you two?" Liora asked, looking at them with worry. Neither Cee nor Smokey was in good condition. Frankly, neither was Liora, but nothing was broken, just heavily bruised.
+
+"We'll find a nook to hide in. Go! Before he gets too far!" Cee said.
+
+Liora nodded gratefully at Cee and flapped her wings. She would get Renir back and make the bastard pay. Both for stealing him and for nearly killing Cee.

@@ -1,0 +1,39 @@
+---
+id: 8e1129bc-8f04-5a8d-b392-dac780b8e82a
+page-type-slug: story-chapter-royal-road
+title: "Announcement: The Legendary Fool Preorder"
+slug: 0011-announcement-the-legendary-fool-preorder
+partOf: the-legendary-fool-a-deckbuilding-litrpg-b2-complete
+position: 11
+ownLength: 470
+unit: words
+publishedAt: 2025-01-07
+link: "https://www.royalroad.com/fiction/60890/the-legendary-fool-a-deckbuilding-litrpg-b2-complete/chapter/1996802/announcement-the-legendary-fool-preorder"
+royalRoadId: "1996802"
+---
+
+Hello there.
+
+The Legendary Fool has been quite the journey to write across these two years and in some aspects, it is still a journey that is yet to unfold in it's entirety. There are many card concepts that I've been holding back on in book 1 and 2, because introducing them would mean introducing the factions that are going to be searching for Tom.
+
+Card Manifestation is one of the more cooler ones and I really look forward to exploring the different manifestations across the series.
+
+Now, before I ramble too much, lets get into the meat of the announcement.
+
+Firstly, the cover reveal (it took three full-fledged tries and a lot of scrapped drafts)
+
+The good folk over at aethon books have been instrumental in my writing journey, having offered me the editing and artwork support needed to port this book over to Amazon. As I'm sure anyone who is reading this has already read book 1 and 2, I hope it will not come as a surprise that The Legendary Fool will be headed to Amazon and Audible after two years on Royal Road.
+
+The date is still far away and as it happens, we managed to snag the legendary April 1st, 2025 or April Fool's Day for our release. Writing this story over the last two years has taught me a lot and bringing it to a wider audience will enable me to keep writing book 3, 4 and 5- all of which I am sure will come with their own set of rewarding challenges that I will be a better author for having written through. The new version of book 1 has also been heavily edited, removing all the typos and a lot of litrpg table inconsistencies all y'all have been so kind to point out over the last 24 months I've been writing this.
+
+As I do not have a patreon for this series, if you want to support this series, ordering this book on it's release date or even downloading it on kindle unlimited on the day of the release will help the most.
+
+For those of you that want to support it now, there's a preorder link down below.
+
+Currently, the break will last a little longer as I have been writing book 2 for the last seven months non-stop and need a bit of a breather to let the ideas percolate before I pen my plans into reality and deliver a book that has more action than 1 and 2 combined.
+
+I am still writing however and if you are interested in any of my other ongoing projects, you can check my profile for the active fictions I am currently working on.
+
+Thank you all for the support and I hope that the return will live up to your expectations.
+
+Cheers!

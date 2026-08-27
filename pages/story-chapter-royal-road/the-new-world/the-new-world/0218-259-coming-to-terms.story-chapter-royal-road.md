@@ -1,0 +1,393 @@
+---
+id: eb0e0f22-b2d1-5ce8-a9c3-abb9d6a34736
+page-type-slug: story-chapter-royal-road
+title: "259 Coming to Terms"
+slug: 0218-259-coming-to-terms
+partOf: the-new-world
+position: 218
+ownLength: 6170
+unit: words
+ownProgress: 6170
+publishedAt: 2020-05-28
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/502542/259-coming-to-terms"
+royalRoadId: "502542"
+markedReadAt: "2026-06-29T21:28:28.976Z"
+---
+
+I turned to Torix, and the necromancer's eyes burned a brilliant, white flame. He, too, stayed silent, unable to process what he just heard. The Emperor kept firm,
+
+"I understand the absurdity of the request. To offer a commission to your guild one day, then ask for its assistance the next...Shameful. Despite my pride, my Empire requires immediate aid."
+
+He turned a palm to me, "Your guild can give it, having faced and conquered this foe on several occasions. That would be invaluable to our people."
+
+His eyes narrowed to slits, "Whether they believe they need it or not."
+
+Wondering what that meant, I held up my palms, "Give me one moment to think."
+
+I tapped my chin with a fist, giving it some thought. It wasn't that surprising that the Adair's chose to attack the Empire. The Emperor and Helios mentioned rebellions for months now, and the Adair's grip extended across several planets. One of those planets being in the Empire's worlds wasn't much of a stretch.
+
+I shook my head,
+
+"Dammit. Did they use the rebellions on your planets to do it?"
+
+The Emperor tilted his head, "They did, in fact. How did you know?"
+
+I shrugged, "It makes sense that they would join forces. The enemy of an enemy is a friend."
+
+The Emperor's face stayed solemn, "That's a good phrase. I shall steal it for my own use later. Useful idiom's aside, I can offer much in exchange for allying with us. You know their tactics, and your skills are necessary to cleanse our populace."
+
+He weighed his hands back and forth, "I understand if it will require coaxing. I am willing to relent our resources as necessary-"
+
+I waved a hand in front of me, "Don't worry about it. Like I said, and enemy of an enemy is a friend. That phrase works for them, but it also works for us. We'll send you some files on how they fight, how the Hybrids work, and how to combat them."
+
+Grizzled and skeptical, the Emperor furrowed his brow, "Hmmm...Perhaps you may enlighten me as to why you would offer the Empire such kindness?"
+
+I scoffed, "You guys took a risk associating with us. I'm no genius, but even I know that. Consider this repaying the favor."
+
+The Emperor stared with piercing eyes, the kind searching for the motivation behind what I said. It was a strange feeling, and Torix eyed me with a bit of skepticism as well. Even without talking, I could tell that the lich disagreed with allying so quickly. At the same time, he would never disagree with me in front of someone like the Emperor.
+
+Even if we disagreed, Torix respected me enough not to do that.
+
+Obolis crossed his arms, his gray armor thudding with a dull ring,
+
+"Hmmm, that's rather...altruistic of you. Surely you understand I'm skeptical of your goodwill? It's difficult to find, more so than relics and treasure. Of that, I'm certain."
+
+I raised a hand, "Come on, let's not overthink this. I'm here to help. That's a good thing."
+
+I frowned, "We don't have time to argue about something simple either. People are dying. Let's get to it."
+
+The Emperor nodded,
+
+"Fair points. Perhaps not knowing the origin of your helpfulness is good - it too is a puzzle I wish to find the answer to."
+
+He sounded much more like the Emperor I knew, his panic fading. Even he could react with emotion when the stakes were high enough. The white-furred albony nodded,
+
+"I'll take your earlier advice and accept the alliance. We need your help in several of our major cities immediately. It is as you say; the Adairs have used the rebellions on several of our worlds to attack us. They've joined with the locals, somehow armed them with Hybrids, and they are attacking the ruling classes of each city."
+
+Obolis raised a fist, "Help us, and I promise you, the Empire will be indebted to the Harbinger's Legion. As its ruler, I guarantee you this - the Empire pays its debts in full."
+
+I nodded, "Alright. We'll need to finish our sieges on Giess, but after that-"
+
+Obolis's eyes widened, "What? You want to save the ruined cities that remain on Giess?"
+
+I raised an eyebrow, "Uh, yeah. That been our plan over the last few months."
+
+The Emperor paused, changing his tone, "I...excuse my interruption. It's just...I watched your last battle, and it was tremendous in its own right. However, you did not save more than a few dozen gialgathens, many already heavily Hybridized."
+
+He lifted his hands, trying to keep himself calm, "Our cities house billions of civilians. We may save far more lives by tackling the assaults on our worlds than those on that dying planet. It's not that I question your virtue. It's that I question which would lead to the greater good."
+
+He squeezed a hand into a fist, "To me, that answer seems obvious."
+
+I grimaced. The Emperor's argument was sound, and I had to agree. Despite wanting to help the guy out, my guild promised Krog and Chrona that we would support the gialgathens as much as we could. I needed time to train skills for my Sovereign class too, and we were already stretched thin as it was. Fighting a war on two fronts was out of the question, given our resources. It didn't take a genius to figure that out.
+
+At the same time, if I was actually trying to help people, then the Emperor's offer was superior. He had more resources, more people to help, and we could stop the Hybrids from ever getting a firm grip on the Empire. That alone hurt the Adair's goals more than saving three ruined cities on Giess.
+
+I wrestled with the idea for a moment, and the Emperor viewed my struggle. He closed his eyes, taking a deep breath. Calmed down, Obolis announced,
+
+"You've promised those there that you would help them first, and now you're struggling with a difficult choice. I understand. It is no easy thing to choose one life over the other, and these decisions take time. Speak with your confidants, and after coming to an accord, inform me what you will do."
+
+Obolis lifted a loose fist, "I will appreciate your decision regardless of what you decide. Your help is invaluable, and we appreciate it. Goodbye."
+
+I winced,
+
+"Thanks for understanding."
+
+We closed the call before I turned to Torix. The lich shook his head,
+
+"I would normally never question your judgment, but I would enjoy an explanation in this instance. We could've gained a plethora of resources for a modicum of effort. All his knowledge, the credits, even the elemental furnaces, all of that would've been ours. You just...threw that opportunity away."
+
+"For now, yeah."
+
+Torix shook his head, "Why did you do that?"
+
+I shrugged, "I'm looking to make an actual ally, not a business associate.  Besides, it felt like the right thing to do."
+
+Torix held back a colorful variety of curses as he gawked at me. Even if Torix disagreed, this wasn't something I was going to back down on. The Empire needed our help. Perhaps they could've been a bit easier to negotiate with, but they never treated us poorly. If anything, they were the only guild of any size that so much as interacted with us.
+
+I didn't see other guilds offering invitations to talk or form negotiations. The reason for that was simple - they didn't want to become enemies of the Adairs. That was the exact same reason no other guilds helped us when Yawm attacked. The big tree man was too big an enemy to make for a small, unestablished guild.
+
+Well, the Empire didn't let that stop them and for a bigger fish than Yawm. Whether associating with us caused the attacks on the Empire's cities or not, they showed a willingness to help out. We'd do the same in return.
+
+Torix didn't share my viewpoint as he pinched the bridge of his nose,
+
+"I see you've taken a sudden turn towards a more ethical agenda."
+
+He said ethical with exasperation oozing from his voice. I raised an eyebrow,
+
+"Those resources you mentioned before, the Empire will give them to us regardless. The difference is that by not taking advantage of the situation, we're speaking with our actions, and they tell a lot about our character as a guild."
+
+I made a circle, "That goes for other guilds watching. They'll know we're good to have as allies, and that means more negotiations and opportunities. Think of this as an investment."
+
+Torix pulled back, cupping his chin, "Those...are good points."
+
+I turned my palms to the necromancer, "Exactly. We'll get everything mentioned earlier, but we'll get it along with a genuine friendship. Those are hard to find, and from my experience, they matter most when you need them."
+
+I lifted a hand, "We don't need a friend right now, but we might in the future. In all honesty, though, this is more about doing the right thing for me. Well, trying to at least. I'm just letting you know it isn't a bad idea from a more resource-driven standpoint."
+
+Torix raised a hand as if to argue. He pulled it back, staring down while deep in thought. A moment passed before he shook his head,
+
+"I...Perhaps you're right."
+
+He peered back up at me as if staring at someone else,
+
+"Excuse my silence. For a moment, you sounded like my son, Alfred. I was taken aback."
+
+It had been a long time since I heard his name mentioned. Torix didn't like talking about his past or his son, and I respected that. Anytime he did bring it up, he held my rapt attention. Even if I chose not to ask, that didn't mean I wasn't curious.
+
+So as Torix spoke, I leaned close.
+
+He stared into the distance, "Alfred and I argued on many occasions about these differences. They were of the sort you'd expect from one young and the other old. He, being inexperienced and naive, wanted to act out a sense of morality. I, being cynical, wished to act with a practical stint."
+
+Torix winced, "Those differences in plans led to our...eventual separation. I still regret that our last words were harsh. Alfred, he was undeserving of my scorn."
+
+I remembered the young mage and what happened to him in Bloodhollow. He and Baldag-Ruhl created the runic carvings that eventually led to my armor. Alfred did that by trusting an eldritch, which was pretty naive, and that matched what Torix was saying. That's why the guy died, deformed into an abomination.
+
+At the same time, Alfred created a living multiverse. To me, that sounded pretty damn impossible, yet Alfred got it done. That kind of ambition probably took a bit of naivete. Either way, it wasn't a one-sided kind of issue, so I kept listening as Torix spoke from memory,
+
+"You sound more like him now. When we met, we were very similar in how we did things. Practical, ruthless, and self-interested. Those were the pillars we used to support our lives, and they have kept us that way. Alive. Time has passed, however, and we no longer need to focus on only surviving. We may focus on thriving."
+
+Torix stared at a skeletal, umbral hand, "You've outgrown surviving, yet I have not."
+
+He was right about the survival aspect. When I was introduced into the system, it was a bloody, brutal welcoming. I stayed in fight or flight for literal months at a time, and it didn't really stop until after Yawm died. Since then, I've been trying to walk out of his shadow. I still had a long way to go.
+
+Torix still lingered in the darkest part, the necromancer more at home in the shadows.
+
+I shook a hand,
+
+"Here's the thing, there's a balance. You keep that cutting, efficient edge, and I'll make sure we don't go too far down that line and forget why we're doing what we're doing in the first place."
+
+Torix scoffed, "Are you telling me to continue over-analyzing and coming up with evil solutions?" His eyes flared a bright blue,
+
+"Because that's precisely where I shine."
+
+I smiled,
+
+"Exactly. We'll keep each other in line."
+
+Torix nudged me with his elbow, "Speaking of in line, that was a rather politically suave way of handling the Empire. The more I think of it, the better the outcome becomes. For instance, asking for a proper reward would've been difficult. In this situation, he shall give us a gift."
+
+Torix cupped his chin, "That gift will likely outdo anything we would've asked for. Going about it this way ensures a solid relationship, but it also ensures we won't ask for a reward far below what we deserve."
+
+Torix tapped the side of his head, "That's excellent foresight. Well done."
+
+I scratched the back of my head, "Eh, I didn't think it out that far."
+
+The lich continued, lost in his thoughts,
+
+"And I doubt the Emperor would give us a reward unbefitting of our help. Hah, we reap more rewards while gaining a firmer ally."
+
+I shrugged, "Sometimes, I get lucky. Either way, do you think we should save the gialgathens or help the Empire?"
+
+"Pfff, of course we should assist the Empire. There isn't an option to the contrary."
+
+I narrowed my eyes, "What do you mean?"
+
+"Daniel, excuse my curtness, but this is a simple exercise in mathematics. One side is numbered in the billions, the other in the hundreds. One side has access to innumerable resources, the other has lost everything. We would be wasting our time attempting to save more gialgathens."
+
+Torix's shoulders sunk ever so slightly,
+
+"For lack of a better word, there is no one left to save."
+
+I stared Torix down, my mindset more heated than I expected. Something about the situation made me feel helpless, and for some reason, I found that infuriating. I shook my absurd frustration off, reasoning to myself it was unfounded.
+
+Even if this was tough to accept, Torix and the Emperor were right. I turned towards the temple wall and kicked a loose stone. It shattered to powder, billowing across the room. Rolling my eyes, I siphoned the cloud into a gravity well, creating a swirling ball of dense, dry dust.
+
+I collapsed it back into real rock, compressing it back into a solid. I let it fall back down, the object returned to normal. Torix gawked at the magical display,
+
+"That was a rather casual display of potent magic."
+
+I stared off, "It's just a bit of compression. I'm just thinking about what I'm going to tell Krog and Chrona. 'Hey there, guys. Sorry, but your race is dead. Tough luck, buttercups. We're heading off to fight another war while the rest of your kin are killed. Get ready.'"
+
+I shook my head, "Being a guild leader has its cons, that's for sure."
+
+Torix sighed, "It is an unfortunate reality. We've done more for the gialgathens than they could have ever expected. You remember what Krog said when the Emperor initially offered his artifact search?"
+
+I did. Krog was ok with us stopping our assaults. Even though he knew I wouldn't agree as he said it, the sentiment was real; Krog understood what we were putting on the line here. Chrona might be different in that regard, but she could still be reasoned with. We put a damn good effort in already as well.
+
+I nodded, thinking about all that,
+
+"Yeah, Krog seemed resigned already. This battle's wearing everyone down too. We're going in and slaughtering entire city's worth of people. Killing the Hybridfs isn't a problem, but the espens...It's dehumanizing. Hell, even I feel more like a monster than a man sometimes."
+
+Torix listened, but he didn't know what to say. Maybe the guy didn't understand me. He was a lich, after all, and that meant he was a pragmatist through and through. To him, the people were numbers on a sheet. Killing them all was the simplest, most elegant solution. That meant it was the best solution.
+
+I didn't hold that perspective against Torix. It suited him, and it kept us alive more times than it didn't. At the same time, I didn't feel like I was actually fighting for a meaningful reason anymore. I was just killing and killing and killing.
+
+I stared at my hands, remembering a few of the first people I killed. I remembered telekinetically choking someone while hiding from Ajax. It was in the middle of a battle, and I didn't mean to do it. The entire time I was numb. I killed many since then, and at this rate, it would never stop.
+
+I would live forever, killing monster and man alike, the monster of all monsters.
+
+I quashed that growing dread. I wasn't some monster made by the forces around me. Giving myself that reminder, I frowned,
+
+"Let's wait until the morning and have a few of the others help us make a decision. That should help us out."
+
+Torix raised a hand to disagree, but he held his words before lowering his arm,
+
+"Of course."
+
+I turned, walking out,
+
+"Alright. I'll be in practicing until then. That Sovereign skill won't unlock itself."
+
+As I stepped out, Torix's fire eyes waned,
+
+"Do take care of yourself, disciple. Our demons can overwhelm us when we least expect it."
+
+I raised an eyebrow at the guy, kind of confused,
+
+"Eh, uh, sure. I'll keep that in mind."
+
+I turned and walked out of his lair, pacing back into my room. Once there, I practiced with quintessence and ascendant mana. Whatever Sovereign skill I intended on using, it would require both manas used at once. That kind of doubling down demanded fluidity. There was only one way to gain that.
+
+Practice, practice, and more practice.
+
+Those thoughts flooded my mind as I honed in on my task. I sat down, staring at complex magical shapes I crafted from nothing but energy. Despite my efforts, my earlier doubts leaked into my mind as the hours passed. I remembered Torix mentioning the guild being destroyed and me being left behind.
+
+Something about that was even scarier than death. In my position, I didn't have time for this kind of hesitation either. People depended on me, and failing them meant lots of people could die. If I focused on saving people now, I could avoid another genocide like the gialgathens.
+
+If I kept pushing forward, I might stop another Springfield from being infected. If I stayed relentless, then I wouldn't lose more friends, family, or homes. I had to become unstoppable, a force of devastation like Schema expected.
+
+No, like everyone expected. If I didn't, I'd lose everything and every one I found up to this point. Hell, sometimes even having people like Althea felt like a dream. The day they all died, yet I remained - it would be a waking nightmare.
+
+That immortality scared me, the idea of losing everyone seeming inevitable. Something about it was unavoidable, like everyone around me was more fragile than glass. I was metal, and they were pulp. I gripped my hand through the stone beneath me, the once hard, stable material crushing as if it were a liquid.
+
+I watched it fall between my fingers. The sight of something substantial melting in my palm, it made my eyes burn. I took a few quick breaths while my chest tightened as I stared at the destroyed particles. I struggled to breathe for a moment, despite not needing the air. I leaned down, grabbing the sides of my head, squeezing my hair for a moment. I shook my head, choking out a pained laugh.
+
+I mean, I couldn't even really understand what was going on anymore. Galactic Empires, monsters worse than the eldritch, and fighting against something with the mana of an Old One...How did I get in this mess to begin with?
+
+I laughed a bit more, the pressure from the situation overwhelming me. Everyone else was so fragile, even the enemies I made and the people I killed. They were all just a passing moment. I glared at the metal covering my arm. I held it up high.
+
+This, this was forever, whether I wanted it that way or not.
+
+I leaned down, surprised by my sudden emotional breakdown. It all just crushed me. Something like tears leaked from my face. I didn't check to see if they shined because I didn't want to know if they were liquid metal. I preferred not knowing.
+
+Instead of fighting my panic attack, I just let it happen. For a moment, I was weak.
+
+It was...liberating.
+
+I just let myself feel the uncertainty, the dread, and the guilt of my failures. I usually just kind of pushed these emotions down, but bottling up only worked for so long. I guess I convinced myself I wasn't normal after having been shown so many signs to the contrary. This kind of mental breakdown, it was humbling, hard, and hurtful.
+
+At the same time, it reminded me of who I was. Despite everything, I still felt pain like everyone else. I was human. Well, maybe not entirely, but I was mortal in the ways that mattered.
+
+After a half-hour of wallowing in my misery, the sharp edges of the ache dulled. Like all pain, it passed. I stood up, taking a deep breath. I soaked the liquid tears on the ground and on my skin up, draining them to nothing.
+
+Yeah, I felt better.
+
+Without some massive ball of negative emotions lingering over my head, I set out to practice again. This time I took a different approach. I walked through Elderfire, the darkness draping over the city like a black cloak. After reaching the ancient city's center, I traveled back to Mt. Verner.
+
+The warp drive's electric sizzling buzzed in my ears as I found myself on the second floor of the mountain city. Being underground kept us from being exposed, from Yawm and the Adair's alike. I paced through the place, the machines still.
+
+After getting to the outside of the mountain, I met up with the dimensional golems I left behind. They stayed there under the canopy of the forest, motionless and without purpose.
+
+I extended my consciousness out to them. The connection created, the new, tender minds exposed themselves to me. I couldn't mold their minds like Torix had with a mental link alone. I wasn't that talented at it, and I didn't want to do it that way either.
+
+Instead of doing it directly, I wielded quintessence, and I focused on building the minds of the golems up instead of controlling them.
+
+This was a complicated process, and it required tremendous focus. These guys would fight eldritch and mind mages alike. This meant putting them through a boot camp of sorts. I trained them in mental defense, focusing on fundamental barriers against mental bombardments. More elaborate movements followed, giving them more mobility.
+
+These simple activities acted as a way of letting the golems learn how to use their minds. The process was...slow. They didn't learn fast, and what they did discover was a fragmented, hollow piece of what I was trying to teach them. Building them up might take years at this rate. It was trying to make something work that wouldn't.
+
+Scrapping the mental buildup plan, I changed my strategy. Taking a few steps back, I reviewed my previous inscriptions. Opening my grimoire, I tapped my chin while looking them over. I peered at the pages while trying to keep the mental boot camp going. Even if it wasn't useful for them, it was still practical training for me.
+
+It required much more focus as I split my attention between two things. If it wasn't for how second-hand cipher carving was at this point, then it would be impossible. The informational injections by Etorhma and Eonoth gave me a lot of insight into the dimensional code, however. Using that fluency, I simultaneously mentally attacked the golems while thinking up new carvings to make.
+
+Despite the difficult work, I appreciated the sudden strain. Having my mind cleared let me think with clarity and concision. I was feeling pretty on point, and my results agreed with me. I gained a skill while trying to help bulletproof the golems.
+
+New Skill gained! Mental Construction(lvl 10) - This skill allows the user to help develop burgeoning minds into what they desire.
+
+Several minutes passed, and I gained another skill I didn't expect to earn.
+
+New Skill Gained! Runic Programming(lvl10) - Creating complex decision trees using runic inscriptions is eased, allowing for more developed behaviors.
+
+It was what I was doing, though it sounded worse in skill form. I glanced at several of the formed golems, their rough figures showcasing physical bulk. My initial designs lacked any real thought, most of them just hobbled together chunks. They used a lot of mana to move, and their forms restricted their abilities quite a bit. If anything, improving their designs made the mental framework far more manageable to map out.
+
+Thinking that all out, I etched down a simple design for a new golem using a tree. Wooden strips curled up as I moved my hand through the trunk. When finished, I took a step back. The design was simple. It used floating pieces, along with a few other adjustments to the golem's combat abilities.
+
+The alterations weren't exactly complicated. If anything, they simplified things quite a bit. I changed their connecting joint structures from interlocking metal pieces to saturated mana wells. This made crafting them effortless since no small, connecting pieces were required.
+
+This put more work into the cipher carving aspect, but I preferred it that way. I was by no means a skilled engineer, but my runic carving held up with the best of them. If I could take some of the difficulty out of construction and put it into etching, then it was a win in my book. This floating joints method also made working with delicate materials easier.
+
+I mean, some stuff, like fire or wind was a real pain in the ass to form and shape properly. Making joints using those airy, soft materials was basically impossible. This kind of design would make that possible. It did come with drawbacks, however.
+
+If something wrenched the golem apart, then the golem would be neutralized. That was easier said than done when my gravity wells were involved, but it was still possible. Having some method of reassembly foolproofed the golems in that regard.
+
+Another issue was the sheer structural integrity of what I made. My gravitational magic and the materials were damn sturdy, however, so I didn't mind that much. Fixing the fall apart element took priority, given the circumstances.
+
+With all that in mind, I crystallized mana, creating a roughly circular orb of quintessence. I added a core to the golem's design, and this would be the central point for coming back together. Revisiting the runic guideline, I added a note to make this core the center.
+
+Once the centralizing aspect was finished, I got to making the actual bodies. I ripped chunks of armor off my arm, throwing it aside. Before it landed on the ground, it melted into a glowing ball several feet from me. After collecting enough material, I molded it into the correct shapes for arms, bodies, and heads.
+
+I created two more mana cores of pure quintessence, placing them on the head of the body. After a bit of runic carving, the golems could sense their surroundings with sight. Basic senses given, I gave the golems three fingers, each curved and floating. These gravity wells were complex as I added several antigravitational enchantments as well. Several layers of runes later, and the fingers could shift a foot or two from the 'wrist' of the golem.
+
+This gave them a superb ability to grip and restrain. The fingers could be used as piercing weapons, given some creativity as well. After that, I made their bottom halves nonexistent. Instead, I created an antigravity well along with several stabilizing anchor points around it. Inefficient, maybe, but I wasn't about to waste my gravity expertise. I might as well use what I have.
+
+After finishing that part, I made each segment of the golem fit into one another. This lets the creature pull itself together into a single shard of umbral fabric. With a bit of momentum, using them as orbital strikes wasn't out of the question.
+
+Powering all these magical processes required the golem's natural mana reserves. A bit of carving later and my experience with gravity meant the cipher inscriptions holding them together were rock solid. It was the first time I used the cipher for something so frivolous instead of the standard runes other people used.
+
+They worked like a charm, their potency proven. I lifted one of the golem's bodies with a gravity well, inspecting my handiwork. They moved like joints, my intentions for them rubbing off on the design. That was something I learned about the cipher during this exercise.
+
+It didn't act as a direct interpretation like the regular runes did. It served as a more abstract, flexible tool in general. I knew that part already, but I didn't realize that the cipher could work that way without my telling it so. The runes I used for the joints were straightforward, but I wanted something specific while making them.
+
+The cipher made it so.
+
+This eerie realization made the cipher even scarier than before. In many ways, it took on a life of its own once made. Noting that discovery, I worked on the signaller core at the center of the golem's chest.
+
+I melted down a tunnel to the thing's center of mass. After excavating the channel, I placed the crystallized quintessence into the hole. A couple carvings later, and I inscribed a sort of signaller enchant onto the center.
+
+After patching it up, I used lots of molten dimensional fabric as reinforcement. The more I worked on this project, the more I felt like I was retracing the steps of old golem creators. Golem cores, floating joints, all of it felt like stuff I'd heard about before, but I never understood why they did it that way. After working with it, it all made sense.
+
+Once made, I inspected the beings. Simple but effective, the dozen or so creations stood upright as I walked past them. Well, floated upright. They were about ten feet tall, and their central bodies where giant hunks of dark gray dimensional fabric.
+
+Their arms retracted into the main body most of the time. When I pushed one, the arms and fingers disconnected from the main body. It stabilized itself before making a weak attempt to attack me. Yup, it needed a bit more refinement, but this was a solid base to work with.
+
+I went back to creating a mental framework for them. Before getting into the details, I figured having an end goal in mind would produce better results. After a bit of brainstorming, I wanted them at the entrance of a dungeon so I could see how they fare.
+
+Most dungeons on Earth exceeded level 500, but that shouldn't be a problem for my golems. If they performed well enough, who knew, Schema might even give them special status like the Sentinels. If they worked out, then having them clear weaker dungeons wasn't out of the question.
+
+That would take a tremendous load off any people living nearby. It let ordinary people target more dangerous, pressing targets instead of dungeon faring small fry. Maybe with enough of them and some serious improvements, they could help stop Earth from ever becoming a Fringe World. Even when I wasn't there.
+
+Not having to patrol a bunch of tiny dungeons myself was a big bonus too, not gonna lie.
+
+With that in mind, I finished a few of the new outlines of behavior. This acted as the second primary adjustment, and it involved their defensive tactics. I set up a simple response to anything trying to harm the golem: hold and eat the threat. This was possible because the draining of my armor carried over into the golems. When ordered, these guys could assimilate like I could.
+
+Of course, they weren't nearly as developed as I was in that regard. It was enough to fend off most viral eldritch attempting to sink their teeth into these lugs though. That was enough for me. I also gave them a few slamming protocols if something attacked them from far away. They would launch themselves at a threat should it get too far away.
+
+My third and final adjustment came in the form of a simple patrol. I gave the hulking creatures the simple commands to travel. I had them hug the left wall of any dungeon they entered. This meant they would roam around the outskirts of a rift, attracting attention. A labyrinth, for example, could be moved through using this method and on a set schedule.
+
+The metal being would cover the dungeon every few days or so, clearing out any hostiles as it did. If it hit a dead end, it would simply turn around and continue hugging the left wall. This let it clear most of a dungeon. After testing them out, I'd learn the other adjustments I needed to make.
+
+That kind of thing was hard to predict, and testing was a much easier solution than thinking up hypotheticals. Besides, these things were strong enough to climb out of holes and heavy enough to sink along the bottom of pools. This gave them slow, steady mobility that would work well in most dungeons.
+
+This left a few basics on the table. Distinct necessities like the will to battle, searching out enemies, and self-preservation was implanted. I designed them to be responsive rather than proactive. This meant they wouldn't take the initiative in encounters. They would let the other guy start the fight before they finished it.
+
+Most eldritch wouldn't be cunning enough to avoid them and discover their weaknesses. Even if they did, good luck peeling back a three-foot thick wall of metal harder than steel. Any dungeon with something that dangerous would likely have some kind of message about the eldritch inside. That's how it worked in BloodHollow with Baldag-Ruhl at least.
+
+Either way, it took a few minutes to channel the cipher inscriptions required. The mana required wasn't as bad as usual since these inscriptions weren't abstract; they were concrete and exact. That was much easier than the more creative configurations I usually did. Once made, I placed them where necessary.
+
+They floated with runic markings along their seams, fingers, and head. The white quintessence eyes stood out in particular, giving them a sharp, hollow-eyed look. Combine that with their massive size, and the new golems were eerie, ominous, and menacing.
+
+Perfect for killing eldritch.
+
+When the golems moved around, I beamed with pride. They shifted with far less clumsiness, having actual goals in them. A bit of an orange tinge reflected off their surfaces as I stared at them. Turning towards the sky, the sunset in the distance. I got caught up with work again.
+
+After willing the golems to stand hidden beneath some trees, I floated back towards the second floor of Mt. Verner. Once inside, I warped towards the center of Elderfire. The sun rose here as well, a majestic sunset overlapping with trees and desert dunes alike.
+
+Damn, I got lucky the day cycles were similar this time.
+
+Once at the temple, I met back up with Torix, who sent a message to the others. With the meetup already planned, we walked out towards the outside of the temple. Waiting for the others to awaken, he and I stood on the temple's stairs with a slight awkwardness.
+
+Since the earlier conversation, he and I only exchanged pleasantries. I did leave the talk on a rough note. The social discomfort was by no means unbearable, so I stood there and bore it. Torix raised a hand with care,
+
+"You seem lighter. Perhaps you drove your demons back for now?"
+
+I smiled, "Yeah. I did."
+
+Torix nodded, satisfied with my response. We watched as the others flew, walked, and woke up here. The feast lasted long into the night, so a few hardcore partiers were still laid out in the open. Hod, in particular, sat with his back on the stone steps, his belly swollen, and snoring loud as a foghorn. I gave him a telekinetic nudge, and the shadow birdman woke up. He looked around,
+
+"What Hod miss?"
+
+I scoffed, "Nothing, yet."
+
+Krog and Chrona landed, and I sighed. I turned to them,
+
+"But you will miss quite a bit if you don't wake up. We've got a lot to talk about."

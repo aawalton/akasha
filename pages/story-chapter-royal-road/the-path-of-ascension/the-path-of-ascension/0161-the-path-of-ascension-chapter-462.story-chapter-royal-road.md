@@ -1,0 +1,339 @@
+---
+id: e3521935-26b4-5c85-b809-a031cc1f523a
+page-type-slug: story-chapter-royal-road
+title: "The Path of Ascension Chapter 462"
+slug: 0161-the-path-of-ascension-chapter-462
+partOf: the-path-of-ascension
+position: 161
+ownLength: 4573
+unit: words
+ownProgress: 4573
+publishedAt: 2025-12-05
+link: "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/2822281/the-path-of-ascension-chapter-462"
+royalRoadId: "2822281"
+markedReadAt: "2026-06-29T19:33:17.564Z"
+---
+
+Chapter 462
+
+Matt along with everyone else in their group prepared for a battle as Rah paused the moment he stepped onto the Tier 11 world.
+
+“Huh. I think I feel an anomaly six or so worlds away on this sky bridge's path.”
+
+His answer was less than enlightening and everyone looked to Allie for a reaction.
+
+They weren't disappointed.
+
+“Bullshit. I bet you are just messing with us. We just arrived. There is no way you immediately noticed something so many worlds away. You're bluffing.”
+
+Allie had been increasingly ornery in the last month of traveling through the bubble worlds. She wasn’t mean, she simply wanted to bicker and would take any opportunity to engage. Additionally, she stopped the moment someone disengaged, something she happily shared was a deal she worked out with Zack early on the Path together.
+
+Zack humored her as much as he could tolerate and Allie didn’t push when he needed a break. Normally she focused that excess energy on self improvement, but without that endless pit to throw hours into, she found herself bored and increasingly restless.
+
+At first, mainly Aster and Zack were willing to entertain her but now the two of them spent a good amount of time together. For all that she wanted to chatter, she was also equally willing to be chattered at, which made her an excellent sounding board as Matt worked on his various mana ideas.
+
+They stumbled into their arrangement after she annoyed him one too many times as they walked through the various sky bridges. Trying to give her a taste of her own medicine, he started talking about his own work hoping to irritate her.
+
+He failed.
+
+She was a very good rubber ducky.
+
+Now they had their own system where she happily half-listened and gave the best feedback her wandering thoughts could give. Meanwhile, he mostly tuned her out as she tried her best to drag him into a debate.
+
+She’d succeeded a few times but that was fun in its own way.
+
+They even did actual work, though they kept their perceptions aligned with everyone else's, who remained a more casual Tier 5 perception instead of being more efficient.
+
+Matt shared his thoughts about her incorporating something like spatial blades into her weapon attacks.
+
+She’d had similar thoughts; they spent a lot of time theorizing how she could manage it early.
+
+Cutting through reality itself wasn’t that rare at the higher Tiers. Tier 36s could tear through a low-Tier world's reality, and some decided to take that a step further. By incorporating the things they gleaned from their own strength, cultivators had long learned how to add spatial aspects to their attacks.
+
+Not everyone did it, but for purely offensive fighters like Allie, there was no reason not to try and develop the ability as early as possible.
+
+The idea started as a joke but they quickly started theorizing when they realized they were onto something. Using her Tier 3 spatial manipulation Talent, it was theoretically possible to cut through reality itself with every attack. But without a way to get started, she was left scratching her head.
+
+That was until they had the idea to abuse [Teleport] and use it to start the process of slicing through space.
+
+It wasn’t a great idea but it was the best they could come up with, and Allie was more than happy to push her most important skill in a new direction.
+
+Gan Le surprised everyone, Rah most of all, when he gave his own advice. The resulting conversation distracted everyone as the two skill modification experts started talking shop.
+
+In the process of skill mergers himself, Matt listened intently, not that he was alone.
+
+Everyone listened and absorbed what they could. While numerically speaking, most cultivators rarely bothered significantly modifying their skills, the reverse was true when it came to elites.
+
+Always seeking an edge, everyone in their group was actively modifying at least one skill, and most were working on more than one. Matt was working on a dozen modifications and three mergers. While he was doing a lot, he was far from the most busy.
+
+Liz was still trying to modify most of her skills into Ichor variants so they worked better, but it was a battle she had to fight every time she absorbed a new skill into her core or inner spirit.
+
+Even the crew members had their own questions.
+
+It was an effort on everyone's part, but after his initial resistance wore off, Matt found himself having fun.
+
+No one missed Rah’s smug looks, but he’d earned it. Being present and active in each planet had upped the enjoyment and more importantly their investment in the exploration significantly.
+
+So when Allie tried to egg Rah into a bet, no one was too surprised.
+
+What caught them off guard was when he went along with her taunts.
+
+“Oh? A bet. I suppose I could be enticed. What are your terms?”
+
+The shocked look on Allie's face only lasted a fraction of a second but Matt recorded it and immediately sent the image through the exploration team’s group chat.
+
+He was a tad slower than Liz and a fraction faster than Aster and Zack, who had both memorialized the image by adding their own artistic flair.
+
+Aster put hand drawn stars and zig zags around Allie's eyes and face, leaving her in a tasteful, if comical, state.
+
+Zack, in a manner solely his own, had commemorated the moment of surprise by adding a time and date stamped on the image. He even packaged it with a verification of its authenticity, backed by a muscle map he pulled out of Allie’s own [AI] matching her facial moment.
+
+Liz clenched her fist in the air. “I win! I was fastest! I—”
+
+Allie spluttered, “Excuse me, I—”
+
+She was cut off as Susanne one upped them all by posting Allie’s reaction to the original picture, winning the silent bet. Without arguing, everyone handed her poker chips reflecting their own silent commitments.
+
+As the woman who suggested the game of ‘capturing the best reaction’ in the first place, Allie could only watch on in horror as the group congratulated their quiet swordswoman.
+
+Aster reignited the debate all over again as she sent that reaction to the group chat.
+
+Allie argued she couldn’t submit two reactions even if they were different, and because no one wanted to see Aster get another victory, they agreed and added the new rule.
+
+Aster froze Matt’s shirt for the betrayal but their bets were serious business and no one wanted her to get a further lead.
+
+Kicking dirt and trying to look pitiful, Aster pouted. “It's bullshit that you can apply the rule after I already did it. Not fair.”
+
+Getting over her betrayal quickly, Allie looked to Rah before her shrug answered his original question. “I don’t know what I’m betting but I’ll bet whatever. There is no way you sensed it this far away. I don’t buy it. I’m calling your bluff.”
+
+Rah tapped his foot before nodding. “I know how to settle this. I will send a timed message in the group chat. It will unlock tomorrow or when all of us agree to open it. That will prove I didn’t tamper with the message.”
+
+Smiling more earnestly, he added, “AI makes little things like this very convenient. In my original Realm, we would have had to write and seal a message with mana to prevent probing but there were always people who could get around such things.”
+
+His next words were far less polite, bordering on ruthless, as he targeted half of Allie’s remaining chips. “Between the two of us? How about forty.”
+
+Their betting chips had evolved into their group's internal currency they traded and used as barter.
+
+Most of the barter was on chores. To be fair, everyone had a rotating schedule of camp chores when they set down camp. They tried to do so at least once every few days to share a meal but they didn’t stress about such things if they had a nearby target world. For obvious reasons, not everyone liked every chore, and even if they could magic them away, with readily available currency, people started paying each other to not do a chore.
+
+Originally a betting currency, everyone had started with a hundred chips and aiming to take half of Allie’s chips was a strong response.
+
+They were fairly tamperproof, being serialized coins of mana Matt made while channeling his Intent’s ability to artificially concentrate his mana at the cost of making his normally blue mana an ink black.
+
+He was shameless enough to put Aster’s fox face on it without her asking, but it was a lost bet with Liz that had him putting her phoenix silhouette on the other side instead of her phoenix face.
+
+He actually really liked the result and intended to bring the idea into reality when they returned to the Empire as a surprise for the two.
+
+Limited physical currency memorabilia runs were usually cash grabs, but he was genuinely proud of how his design came out.
+
+Not only had his recent efforts at the mana throughput issue paid dividends in his general mana control, it complemented his ability to shape his crystalized mana.
+
+Matt weighed his options and while his initial gut was to agree with Allie, the distance seemed improbable for Rah to be able to sense anything clearly enough to identify, he ended up stepping over to Rah’s side.
+
+“I'll set the side bet at twenty for Rah.”
+
+Allie tutted. “Why the instant bet? No hesitation at all? Sure, I can’t blame you for siding with him, but I can fault you for not even letting me finish my pitch.”
+
+Matt rolled his eyes. “You were done with your pitch, so don't even try to pull that. No, I’m not sharing my logic so you can see if you can back out. The bet is set.”
+
+He saw her biting the inside of her cheeks as she tried not to laugh, but her mirth vanished as Liz stepped next to Matt with a silent shrug.
+
+In the end, Stenson, Katya, Magnus, Susanne, and Aster agreed with Allie, though Aster made it a point to look at their side when Allie was looking at her for support.
+
+Arden, Lura, Liz, and Matt bet with Rah, making it a fairly even bet with Zack abstaining.
+
+When Allie pressed him, he looked helpless as he gestured between the two. “I can’t pick. It's too close.”
+
+Matt thoroughly disagreed but he held his tongue.
+
+With a new target set, they looked to their Seekers.
+
+Magnus caught everyone's attention when he brought out an ostrich and sacrificed it instead of his more normal goat.
+
+The results were positive, with the ostrich’s feet becoming luminescent for a few moments before the energy faded.
+
+That ended up turning into a small distraction as Aster and Allie both salivated at the more normal bird than what Matt had been experimenting with.
+
+Dinner was courtesy of Magnus’ flock and paired well with several of the things Matt sampled on their last few worlds in preparation.
+
+When they continued, they pushed themselves hard to cross the intervening worlds as fast as possible. Everyone was eager to see who was correct, though they still collected the valuables from the worlds they crossed.
+
+When they were only three planets away, Allie paused the group. “Okay, Rah, what should us amateurs be sensing from our new destination?”
+
+Rah chewed his lip before shaking his head. “Honestly, at this point even, I’m not sure if I’m correct. I thought I was, but I might be wrong. Things feel different than what I expected. Still, I encourage everyone to reach out in the direction and see if you can feel what I’m talking about before we arrive next to it.”
+
+Seeing Allie get really excited, Rah held up his hands, halting her celebrations. “I still believe I am right but I am slightly less sure, as such things were rare even in my Realm.”
+
+Letting his spiritual perception resonate with the world they were on, Matt carefully probed the sky bridge's anchor point where it towered in the middle of a forest.
+
+He tried to follow Rah’s advice and feel for the vibrations transmitted from connecting worlds but he couldn’t filter anything specific out of the background noise chaotic space caused.
+
+Liz flicked a finger towards Rah as she asked, “Is that what you thought, Rah? I think I feel what I wrote but I never would have guessed that without your hint so I could be entirely off base.”
+
+Rah’s eyes flicked a few times as he read before he nodded his head. “That is my guess as well.”
+
+Matt and everyone else turned to Liz, who looked entirely too smug as she mimed sowing up her mouth.
+
+Phoenix Liz made the mistake of pointing at Matt, laughing at him while in arm range. Before she could react, he snatched her off Liz's shoulder and tucked the raptor under his arm, to her indignity.
+
+They stopped again at the next location and while Matt couldn’t sense anything peculiar, both Zack and Katya sent Rah messages. To everyone’s irritation, he refused to open them until they arrived, leaving everyone stewing.
+
+They were exiting onto the neighboring planet from their target when Lura made an audible exclamation as she looked to Rah, sending him a message as well.
+
+After a quick scan around where they landed to ensure it was safe, everyone immediately zoned out, trying to sense the distant planet.
+
+Being right next to it, Matt could sense something odd but wasn’t able to put his finger on it.
+
+Something was wrong, he could tell that much, but like a hairline crack in a glass, it was invisible until looked at from the correct direction.
+
+Despite being able to identify the feeling, Matt still couldn’t guess at what it meant when translated to a planet or possibly star system. The best description he could give was that the world's Tier somehow felt muffled, as if there was a blanket over it.
+
+The world felt like it was Tier 27 but also somehow higher Tier than that.
+
+Before they entered the final sky bridge, Rah turned to say, “Neither option is inherently dangerous but when we exit, it would be best to be ready. If I’m correct, there might be monsters much stronger than Tier 27.”
+
+Not needing to be told twice, everyone fully geared up before stepping into the unreality that was the sky bridge.
+
+Sidling over to Liz, Matt gave phoenix Liz the option to jump over but she turned her nose up at both of them so they ignored her in turn.
+
+“How confident are you?”
+
+Liz narrowed her eyes at him before she asked, “You promise not to bet after I tell?”
+
+When he agreed, she grabbed his hand and sent a message through the touch.
+
+‘I felt the interference and suspected the anchor point might be dumping us into a ruin or some other naturally occurring barrier.’
+
+That was a very good guess and Matt mentally kicked himself over missing it.
+
+Saying so made both Lizzes puff up in pride.
+
+Having heard her theory, his anticipation was higher than ever as they entered the anomaly world.
+
+It wasn’t only Rah who froze upon arriving; they all did, their eyes being pulled upward in awe and bafflement.
+
+The world they appeared on wasn’t a world at all. At least, not technically.
+
+They’d found themselves on a moon circling a gas giant far enough away the local star was more of a distant suggestion than what he was used to. It was, however, bright enough for its reflection off the indigo colored ball of celestial gasses to make normal vision usable, even if tinted.
+
+No, what surprised them was the ruin that was eating everything in sight.
+
+That and the Tier of the ambient essence was closer to Tier 33 than Tier 27, though Rah had the answer for that unknown.
+
+“So, I was right.”
+
+Still in awe of the sight before them, they opened the message Rah originally sent.
+
+“The Tier of the world’s core and the planet's ambient Tier feel mismatched. I believe the originally settled world has been destroyed and, as such, the anchor point is the next highest Tier celestial body large enough to form a core.”
+
+He then spoke out loud further elaborating. “I’ve encountered what I described a few times. A spatial barrier near a sky bridge is rare but the feeling is unmistakable. On an unsettled world, it can only mean one of two things. Ruins are the more common answer for why a spatial barrier might be disrupted. Our exit is most definitely within the ruin’s influence, which is making the entrance less stable than it otherwise should be, which is what I felt from the distance. The second possibility is…” Rah grinned as he finished. “We'll talk about that if we encounter it.”
+
+Liz looked inordinately proud as she nodded along.
+
+Instead of being upset at losing the bet, Allie happily shoved her lost chips into Rah’s hands, her gaze never halting its movements as she looked at the gargantuan ruin that had taken over this star system.
+
+Matt had seen such things more than once in various movies and read about them in basically every adventure novel he’d read. There were several famous ruins floating through chaotic space but he had never expected to find a new one.
+
+A quick check with Stenson confirmed there were no known ‘rampant ruins’, as they were colloquially known, to be centered around a gas giant, meaning they might have a brand new find on their hands.
+
+‘Rampant ruins’ wasn’t an official designation, but a name given to ruins that had eaten at least their original world in its entirety and started to expand into space.
+
+Unlike most of the strange phenomena they'd run into recently, they knew exactly how such a ruin was born. Its creation was nothing more than a ruin that could self-replicate well enough to overpower any local monsters and subsume everything given enough time to grow.  So long as it was able to expand past its original home it could spread without challenge, unlikely to run into anything higher Tier than the origin world of essence in the local star system.
+
+That didn’t make them any more common though. Most ruins that could fulfill the first requirement never managed to grow upward.
+
+Similar to the ruin they had overseen a contest for after the war, most ruins struggled with verticality, and as such, never got off the ground unless they were inherently able to fly, like their first golem ruin back when they were Tier 5.
+
+Those worlds were more valuable to settled space, but for explorers always looking for the next prize, the ruins that reached for the stars could prove to be treasure troves.
+
+The largest, and therefore most famous, of such ruins had reportedly eaten the entirety of its original star system and had spread well beyond its now trapped star's gravity well. But no one had encountered the Tier 38 ruin in tens of thousands years.
+
+Ultimately that was the fatal flaw which ruined rampant ruins.
+
+Many such ruins were so destructive as they expanded they destroyed the planetary cores that sustained them halting their own growth. This ruin rather seemed to consume them and use them to fuel its growth, given how there was no debris in the gas giant's orbit that would indicate pulverized moons.
+
+Until essence or the ruin itself reached another neighboring star system, the entire universe could be cut off from chaotic space and unreachable.
+
+This ruin was nowhere near that large, which made its formation a bit of an oddity given its Tier. But given the myriad nature of a busy gas giant moon swarm, it wasn’t surprising for essence and moon cultivation cores to be of such varied Tiers.
+
+Allie, still ecstatic, looked at the shimmering bubbles that formed the ruins' outer expansions. “How do we get inside? We need to set a waypoint. Any complaints about lingering here? Should we look around now?”
+
+Matt hadn’t anticipated one but Captain Stenson raised a single finger when Allie asked the question. “Not so much of a complaint and more a question of the order. I wouldn’t be surprised if this was the crown jewel of the ruin. If the ambient essence is Tier 33, the original world probably wasn’t too much higher Tier than that. Tier 32 to Tier 35 at an absolute max but both of those might be too dangerous for us.”
+
+His point was well made and they silently contemplated his warning.
+
+Allie turned to Rah, looking for an answer, but he didn’t have one. “It’s hard to make a decision when we can’t be sure of the ruin itself. The outer edges feel weaker but we also don’t even know how to enter. At least, I’ve scanned its shell around us but I can’t find an entrance.”
+
+He raised very valid points and in the end they decided not to make a waypoint. They wanted to but unless the inside of the ruin was very interesting, they didn’t really need an endless stream of monsters to fight and advance on.
+
+They’d explore for a week or two, with [Home] they could always return if they didn’t find anything better, but the allure of strange realms was too high.
+
+Moving through the tethers took time but their assumptions only extended to their breach point. They knew there was at least a second one, with a third suspected, and others could already be inside the bubble with them.
+
+They’d all had more unlikely things occur and so they didn’t write the concerns off wholesale.
+
+They had jumped the line and slammed the door exactly so they could monopolize the strange realms and eventually a good planet to ride the rest of the three or so years until the bubble of third layer energies popped.
+
+When that happened, the bunched up worlds would explode outward in all directions. As the energy levels rapidly declined, ships would start the final feast on the Rasdale breach’s bounty. Everyone who had entered early would have to wait for their ships to get them while dodging rival factions.
+
+Except them.
+
+Having a Tier 30 or higher ruin filled to the brim with monsters made it a good base to ride out the storm. It was hard to pass up and they might want to return but it came down to what was inside.
+
+And there was only one way to check that.
+
+Going inside.
+
+Initially, they tried touching the bubble-like boundary of the ruin but they found the magical energies more like a wall than a door. It was entirely unwilling to let them or anything else in against its will.
+
+Its expansion was slow but they could see as the bubble expanded atom by atom, engulfing the moon they stood on, but it didn’t even try to absorb them.
+
+The system they found had been mildly interesting before the ruin but the more they explored, the more they realized just how interesting it was.
+
+By analyzing stellar essence distribution as well as the various celestial body’s core’s Tier, they were able to make some guesses at the system’s history but they remained that, only guesses.
+
+Because of the local star’s low Tier, with a steady progression upward in their Tier as the planet in question neared the gas giant, they were fairly confident that life truly did form on one of the gas giant’s moons. From there, the essence spread as it normally did planet by planet, eon over eon.
+
+The knock-on effect was an extensive network of moons, all with their own cores and accompanying features, such as rifts. The rift that inverted and turned into a ruin was one such example, but while searching for an entrance, they all got a good look at several such moons.
+
+The ruin had captured several moons that they could see, but from the sheer size of the ruin, it could have eaten several more.
+
+To get the proper view of the situation, Matt had cast several max range [Portal]s to get a better perspective of the entire gas giant and its parasitic ruin.
+
+Because floating high above and able to see everything, that was all he could call the ruin.
+
+Despite its jovial appearance, the expanding bubbles gave the ruin a path to consume the entire star system. Fueled by the various captured planetary cores they could feel inside its walls, the ruin would eventually expand to cover the entire universe.
+
+It would take an uncountable number of years but the essence cores would endlessly, slowly, Tier up. That would speed the process up and things would turn into a race of geometry.
+
+If the ruin could reach another star system, it could gather more planetary cores to fuel it, but only time would tell.
+
+They or anyone could stop it all by destroying the ruin but Matt was vehemently opposed to the idea.
+
+There wasn’t any remaining intelligent life on the planets they could see and once they figured out how to get inside the ruin, they would be able to loot unknown years’ worth of resources.
+
+Anyone who wanted to destroy such a wonder needed to have their brain checked. At most a new planet or two should be moved in and turned into the anchor world so they didn’t lose access to the ruin as it continued its growth.
+
+Not that they’d need to worry about any of that. The time frames of such events were so long, Matt felt confident he’d long since ascend to the higher Realms before any of that became even a possibility.
+
+Teleporting back down to the rest of the group, he shared the visual of the ruin swallowing up the gas giant.
+
+Liz’s reaction aligned with his. “You went up. Now we go down?”
+
+Matt opened another [Portal]. The moment they stepped through, they did so inside of the Tier 27 gas giant.
+
+Its gaseous winds tried to tear at them but Liz, the first one through, easily kept them at bay.
+
+Pushing deeper, they explored more and more of the ruin’s exterior to see it had long since reached the part of the gas giant where things turned solid.
+
+A spiritual probe confirmed the ruin had expanded inside of the gas giant so they gave up, not being able to easily find the ruin’s furthest edge. If they needed to, they could dig through the gas giant to explore the buried depths. If there wasn’t a discrete entrance, they could do any testing in open space.
+
+In the end, Zack was the one to figure out how to enter.
+
+The procedure wasn’t complicated at all, but not one they had ever thought to try.
+
+Watching the recording, Matt still couldn’t believe the answer was so simple despite having verified proof.
+
+Reaching out and grabbing the abundant ambient essence, he created a glove of the energy around his hand and tried to touch the ruin’s outer wall. Instead of failing like every other attempt, his hand passed through the opalescent barrier without any resistance.
+
+They finally could enter.

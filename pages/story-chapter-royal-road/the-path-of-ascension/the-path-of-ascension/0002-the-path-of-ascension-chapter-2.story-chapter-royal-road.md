@@ -1,0 +1,371 @@
+---
+id: cb4ed9e7-a3a5-5ebf-b1c0-ceaaeaa5c846
+page-type-slug: story-chapter-royal-road
+title: "The Path of Ascension Chapter 2"
+slug: 0002-the-path-of-ascension-chapter-2
+partOf: the-path-of-ascension
+position: 2
+ownLength: 5875
+unit: words
+ownProgress: 5875
+publishedAt: 2021-03-01
+link: "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/639944/the-path-of-ascension-chapter-2"
+royalRoadId: "639944"
+markedReadAt: "2026-06-29T19:17:28.495Z"
+---
+
+Chapter 2
+
+“Matt, I need you to check the staff bathroom. The water is really slow,” Beatrice called out as she passed by.
+
+“Is it the hot, the cold, or both, Bee?” Matt shot back from the maintenance room, where he was assembling a table. He got no response. Apparently, Beatrice had already returned to the slow lunch crowd.
+
+Matt decided to finish the table first. They needed it more. Last week, a bar fight had destroyed nearly half of the tables in the common room before it was brought under control.
+
+The problem was, they had a limited number of spare tables in reserve. It’d been just enough to keep the common room from having too many gaps, but just barely. To make the room feel less empty, they had spread the remaining ones out, which only worked because they hadn't been slammed yet. But with the weekend approaching, they needed the seating. So, Matt had been making tables in all his spare time to refill the common room, and then get their surplus back.
+
+If Benny wasn’t such a tight ass with money and just bought better tables instead of treating them as disposable, I wouldn’t be playing amateur carpenter every other week. Or if he just hired a bouncer.
+
+Matt finished the table and grabbed his plumbing bag. As he walked through the common room, he looked for Beatrice, but she was nowhere to be seen. He sighed. Of course, two customers were already at the bar, clearly waiting to be helped. Matt didn’t recognize them, which meant they were probably new customers.
+
+Where is Beatrice? Must be nice to be able to slip out for a dozen smoke breaks just because you sleep with the boss.
+
+That made him pause. Maybe she did earn the extra breaks. After all, no one else wanted to be near the man longer than absolutely necessary.
+
+If Matt didn’t help the new customers, Benny would have his ass despite it being Beatrice’s job to man the common area.
+
+Matt hurried over to the front desk part of the bar and greeted the guests. “Hello! How can I help you this afternoon, sir and ma’am?” Benny expected unfailing politeness to his guests and would side with any paying customer over his staff on any issue.
+
+The man answered, “We’d like a room, please. But we don’t know how long we’ll be in the area. So, what can you do for around, umm…say a two-week stay, with the option of it going longer?” As he leaned forward, Matt got a better look at him under the bar’s brighter lighting.
+
+He was tall. Based on Matt’s 5’10”, he was at least 6’2”, possibly up to 6’4”. Dark hair and gray eyes with a face that, while hard, looked used to laughing. The woman next to him was probably 5’9”. The ponytail of copper-colored hair made her green eyes pop even more in the dim lights in an almost disturbing contradiction to her classically attractive face.
+
+What took Matt by surprise wasn’t their good looks, it was that these two felt far stronger to his spiritual sense than the normal Tier 2s and Tier 3s that usually frequented Benny’s Inn. Even stronger than the Tier 4s that came around, though that was beyond his ability to get a good sense of. He pegged them at the peak of Tier 4 or possibly even Tier 5.
+
+It made Matt nervous. If these two wanted to start trouble, no one here could stop them. No one would even want to try.
+
+Who knew what an enraged pair of Tier 5s could do?
+
+Matt didn't want to find out.
+
+If they felt slighted, no one was there to greet them… I don’t want to think about what Benny would do to me to keep in their good graces.
+
+Being fired would be the least of his problems in that situation. Rumors still circulated about former employees who were never seen again. Supposedly just rumors, but Matt wasn't interested in testing their veracity.
+
+“Yes, sir. We have several packages that might suit your needs. If you’d like, we can offer a room for a week and, after that, you can just pay by the day at about the same rate. It comes with unlimited access to the training room and three meals a day. It would all be for just four hundred credits the first week and then sixty credits a day going forward. Is that something you’d be interested in?”
+
+The woman answered, “We’ll take it. Can you show us to our room, please? Then to the training room.” She swiped her hand at the payment reader, and Matt saw ‘accepted’ immediately appear.
+
+That was a pleasant surprise. Despite Tier 1 mana stones being worth one hundred credits, the price was still enough that most people complained and tried to haggle.
+
+“Yes, ma’am.” Matt did as requested.
+
+The duo only stayed in their room long enough to drop off their bags. Then Matt led them to the training room, where the woman looked around at the training dummies in obvious disappointment.
+
+Why is she disappointed? The training aids are only years old and updated with the newest software for attack and defense patterns of Tier 4 speed. It’s one of the few actually nice things this place has.
+
+“Is there something wrong, ma’am? The training aids go up to Tier 4, and the software was just upd—”
+
+Before Matt could finish, she waved him off and sighed. “No, it’s fine. I just forgot where we were for a moment.” Her flashed smile took the sting out of the comment.
+
+Matt decided to leave before she could take her obvious disappointment out on him. He had a sink to fix anyway.
+
+Just one more year. Keep your chin up. You got this.
+
+***
+
+The alarm started blaring at 3:55 a.m., and Matt was down at the training room by 4:00 a.m. He could squeeze in two hours of practice time before Benny was up and assigned him tasks.
+
+Matt started with a few warmup stretches, then used the variable weight bar to do strength training. Today was legs, which meant he would be walking like a newborn until tomorrow, but Matt had to admit he liked the tingle.
+
+Using part of the PlanetNet vouchers Miles had given him, he had long ago found a training routine good for a young man looking to be a melee delver. It wasn’t amazing, but it was free and didn’t require proprietary supplements or a subscription to a sketchy netsite like so many others did.
+
+As he completed each set, he recorded his weights and sets while trying to keep the fatigue at bay. For the last year, he’d put in as much physical training as he could manage while still needing to work twelve-hour days. While he had clear results to show for it, he was perpetually bone tired. Even when he slept, he felt tired.
+
+Each rep was paired with the mantra, ‘One more year.’ When the time came, he had to be ready to delve a rift with only his physical abilities.
+
+After weight training, Matt took his usual practice-longsword down and started a Tier 2 combat sequence on the training dummy. It was faster and stronger than him at this setting and, with his wobbly legs, his ever-rotating collection of bruises would grow again.
+
+Matt practiced in rounds of five minutes, trying to inflict damage while avoiding being hit as much as possible. Everything he read on the CityNet said injuries were what retired most low Tiered delvers.
+
+With few Healers on the planet and fewer still who had their skill as public knowledge, most injuries could only be healed with mundane methods. That meant months of recovery if it was serious. Which meant months of not delving and not progressing. It meant months of wasted income and increased debt.
+
+I can’t afford to get injured. Literally.
+
+This sucks. Living on a low Tiered planet means anyone with a healing Talent or an innate healing skill immediately gets snatched up by the guilds and shipped off planet. It leaves only the lucky few who get a healing skill as a rift reward and don’t take that opportunity to join a guild and do the same. Or the few idiots insane enough to sell such a valuable skill shard.
+
+Can I blame them for bailing, though? I was going to do the same. Am I just bitter I couldn’t escape this backwater shithole?
+
+Matt had to admit that sounded truer than he’d like.
+
+The training aid landed a blow that brought Matt out of contemplation and back into the fight. With a pivot and an upward slash, Matt deflected the next blow and brought his sword down on the training aid’s collarbone. The blow was hard and clean enough that the lights flashed red, signifying a ‘kill.’
+
+The aid had a programming oversight that didn’t handle overhead attacks on its right side well. It was hard not to abuse it. Matt didn’t want to develop habits that might get him killed but finding an obvious flaw in an opponent was possible, too.
+
+The beep chimed, signifying the start of his three-minute rest interval.
+
+He picked up his water bottle, wiped the sweat off his face, and stretched. When he noticed someone was in the other corner of the room, he came to a halt.
+
+Shit! Is it that late already? Am I late for work?
+
+Matt quickly checked his pad and saw it was only 4:23 a.m. Looking closer, there were actually two someone’s loitering in the corner, the man and woman who had checked in yesterday.
+
+The strong ones.
+
+He didn’t want any trouble, so he turned down the volume on his pad so the beeps wouldn’t disturb the training duo. The last thing he wanted to do was piss off a customer, let alone a powerhouse who could probably level the building in seconds. Matt wasn’t sure what a Tier 5 was capable of, but he knew they were stronger than most people on the planet. Lilly was only a Tier 4 world and, therefore, only had rifts up to Tier 4. Anyone higher Tier than that needed to travel off-world to find higher Tier rifts to help them progress.
+
+Matt continued to practice in intervals. As a Tier 1, he didn’t have enough essence or physical cultivation to keep up with nonstop, high-intensity combat. Right now, he was only marginally stronger than he’d been before his Awakening.
+
+During a lesson about high Tier cultivators at the orphanage, he had seen a recording of a competition between two Tier 15 participants. The combatants were so evenly matched the fight lasted over an hour of nonstop fighting. Matt’s heart would explode if he fought at that intensity for that long.
+
+Cultivation was the journey of power and strength, after all. The normal human limitations quickly fell away as you ascended.
+
+Matt cleaned up his area and stored the training aid along the wall, preparing to go shower. As he crossed the common room toward the staff housing hall, he saw Zephyr. The old man had first stumbled in around two months ago and never quite stumbled back out. The entire time he’d been here, Zephyr followed a strict routine; he drank until he passed out on a table, woke up, and then kept drinking.
+
+Matt had eventually taken it upon himself to make sure the grumpy old bastard got into his bed most nights and ate at least one meal a day. The look of loss and despair in the man’s eyes was easy to recognize.
+
+It stared back at him every time he looked in a mirror.
+
+He saw it in everyone who’d lost people in the rift breaks.
+
+He couldn’t fix Zephyr, but he could at least stop him from killing himself before he worked past whatever loss had broken him.
+
+“Come on, Zephyr. You need to sleep. Preferably in a bed. And drink this.” Matt shoved his water bottle in the man’s hand and glared till he finished it off.
+
+“All right, give me your arm.” He hooked an arm under Zephyr’s and helped the man shuffle to his room. He grumbled nonsense at Matt the whole time.
+
+A Tier 4 reduced to this is just depressing. Who did he lose to end up like this? Spouse? Kid? Mother? Father? Brother? Sister? Some shitty combination of those?
+
+Matt fished the key card out of Zephyr’s pocket and dumped the old man on his bed. Before he left, he filled a glass with water and left it on the nightstand.
+
+Is there really no escaping the pain? Will ascending to higher Tiers not even help?
+
+***
+
+The next morning, Matt once again started in the training room. At 5:00 a.m., the redhead and the dark-haired man strolled in. Unlike yesterday, though, the redhead came over to his side of the gym. Once she confirmed she had his attention, the woman held out a hand to shake.
+
+“The name’s Dena. Sorry, I either didn’t get your name when we checked in or forgot,” she said with a smile that removed any sting from her forgetting his name.
+
+“No, ma’am. That’s my bad. I must not have introduced myself. The name is Matt.” He took her hand and gave it a firm shake. “Is there something I can help with, ma’am?”
+
+“There actually is. I’m in need of a sparring partner who specializes in longswords. My husband Eric, over there…” She pointed a thumb over her shoulder at the man, who just nodded along at the mention of his name. His concentration was fully aimed at a floating ball circling his hand. “He’s too busy working on his mana control. Would you be interested? I’d pay the standard fee.”
+
+Matt was interested, but there was no way he could take Dena’s money. If Benny found out, he’d be out on his ass so quick his head would spin. Then he’d be truly screwed.
+
+“I’d be happy to help, ma’am. Though I can’t accept any payment. Part of my duties is to assist guests in any way I can.”
+
+Dena gave him a look that said she sensed something was wrong but wasn’t going to press it.
+
+“How would you like to spar, ma’am? I’m only a Tier 1, so I won’t be able to challenge you. But if you need to practice a certain move or technique, I’m happy to fill whatever role you need me to.”
+
+“I’m more looking to practice my staff technique against the longer weapon, so I’ll reduce my speed and strength to match yours.”
+
+Matt shrugged. “Whenever you’re ready, ma’am.”
+
+He pulled his longsword up into a neutral stance. When Dena moved, Matt sidestepped the thrusting butt of her staff and retaliated with a cut toward her leg, but she stepped out of range of the slash.
+
+As the fight progressed, it became clear Dena wasn’t very used to the staff. Which was probably the only thing that stopped her from easily annihilating him. Even with her speed and strength reduced to near his levels, Matt struggled to take the lead.
+
+Whatever her normal weapons were, she was well accustomed to melee fighting, and it showed. The Tier 5 was always ready for every move he could think of, and it let her control the flow of the fight effortlessly.
+
+She called the end of the spars at 6:00 a.m. after several rounds of combat. The breaks in between were purely for Matt’s benefit. Even after an hour of training, she’d yet to sweat a single drop.
+
+Reaching a higher Tier truly was stepping above the common man.
+
+“Do you train here every day? Or do you have a set schedule? This was a far better practice than I thought it would be. You have good instincts with that longsword of yours.”
+
+Matt futilely tried to get his breathing under control before answering, “I’m here every morning, ma’am. Also, I’d be happy to spar with you as much as you’d like. It was far better than the training dummies even turned up to Tier 2.”
+
+“Good. I’ll see you tomorrow, then.”
+
+***
+
+Every morning for the next month and a half, Matt sparred with Dena. Occasionally, Eric would get fed up with his mana control exercises and also treat him to a thrilling longsword vs. longsword sparring match.
+
+Apparently, the taller man was the dedicated melee fighter of the duo, but he’d found his mana control to be lacking recently and worked to shore that up.
+
+The few suggestions Eric gave Matt about longsword combat had greatly increased his confidence with the blade. The advice was nothing revolutionary, but he shared tips about attacking from unexpected angles and a few feints that Matt found enlightening. Matt believed he was good, but the older man seemed to be one with the sword.
+
+Surprisingly, Eric preferred an ax but said no melee fighter could rely on just one weapon. You had to be at least proficient with most of them. Monsters came in infinite variations. Some would eventually be resistant to or problematic to fight with your preferred weapon type.
+
+Those were probably the best weeks of Matt’s life. Dena and Eric were nice to him, didn’t treat him like spare luggage they were trying to get rid of or as a charity case because his parents were dead.
+
+The couple gave him respect, even though they were so much stronger than him. They could have treated him like something you’d scrape off a shoe and no one would have looked askance at them for it. He’d received invitations to eat with them a few times, and even Benny hadn’t said anything during the occasional meal.
+
+Matt swore to himself that when he was that strong, he would remember their kindness and strive to show the same to others. So many of the delvers coming through Benny’s treated anyone weaker than them as sub-human and fawned over anyone stronger. It was all so fake. So meaningless. He wanted nothing to do with it.
+
+“Hey, Matt. You don’t have to answer if you don’t want to, but I’ve got to ask. Why are you here?” Dena looked awkward as she asked. Even Eric looked up from his mana control trainer, which he put away to stand and join the conversation.
+
+“You’re strong, good with a blade, and very hard-working. I’m just confused as to why you haven’t been snatched up by a guild or party already?”
+
+Matt sighed. “No real secret to it. My Tier 1 Talent doesn’t allow for any mana cultivation. That invalidated my contract with the guild I was going to join. Any other guilds willing to take me had terms so absurd I might as well have sold myself into slavery.”
+
+Dena winced, and Eric mirrored her expression. She opened her mouth to speak, clearly going to apologize for something that wasn’t her fault. So, Matt cut her off. He didn’t want their pity.
+
+“That’s why I’m working here. Miles, the head guild representative, did what he could to help me. He wasn’t able to do much, but he pointed me in the direction I needed to go. That’s why I’m here, saving up money to purchase a slot in a Tier 1 dungeon. Everyone says there are no purely detrimental Talents, just paired talents you need to advance to fix. So, I’ll be a solo delver and advance on my own. It’s not even a purely bad thing, delving solo. I won’t have to share the essence, so I’ll advance faster, which will let me catch up with my age group.
+
+“Hopefully, the problem is solved at Tier 3 and not Tier 25.” Matt tried to lighten the atmosphere with a joke, but the pair just stared at him for a long moment.
+
+“Well, that’s a shit hand to get dealt. But you didn’t give up, which is the most important part. If this planet were a higher Tier, you’d be picked up by a guild for that alone. So many delvers lose the will to continue, the drive to advance. And that’s not something a Talent can compensate for.” Eric shook his head.
+
+On that sour note, Matt went about his day, resolved to avoid thinking about his Talent more than he had to.
+
+***
+
+That night, another big fight broke out; one worse than the usual two-to-six-person brawl.
+
+The party of delvers responsible for starting it came in later than most, so the common area was already crowded with parties eating and drinking. They sauntered in as if they’d just found the crown jewels of the Emperor himself.
+
+Their attitude attracted everyone as they walked to the item identifier. Without hesitation, their leader walked up to the man about to use it and shoved him out of the way violently.
+
+The air of anticipation built as they placed a skill shard in the reader. Skill shards were a rare drop at this planet’s Tier, but they could vary in usefulness. This group was so cocky and sure they got a good skill, they didn’t even bother to set the readout to be sent privately to their pads. Instead, the process was displayed on the large screen for the whole crowd to see.
+
+The reason for their arrogance was readily apparent when the first lines of text appeared.
+
+Analyzing skill shard…
+
+Cracked skill shard detected. Requesting a higher authority to complete analysis.
+
+A cracked skill shard was a rare variation of shard modified off the baseline. The change could be anything and finding two that were identical was said to be impossible.
+
+The most famous cracked skill Matt knew of was a cracked version of [Shadow Sword]. The original skill projected a copy of the weapon to the side during a strike. Nothing crazy. The ‘shadow’ was only a quarter the strength of the original strike, making it useful but not amazing.
+
+The infamous cracked version allowed the user to summon fully autonomous shadow swords. This was superior to even comparable skills like [Sword Minion] and [Sword Doppelganger]. The former needed real blades and the user’s concentration to control them. The latter was just a single sword that, while autonomous and equal in strength to the original, lacked durability and could be shattered with a powerful enough hit.
+
+That [Cracked Shadow Sword] let the user summon endless autonomous copies at only a quarter strength. Having hundreds of blades that worked together in perfect harmony made it a skill everyone feared.
+
+Matt blanked on the name of the individual who had gotten the skill but could remember they’d carved themselves out an earldom spanning several new planets with that skill alone.
+
+Are we going to see the birth of a legend here?
+
+Matt hoped not. Desperately.
+
+If the cracked skill turned out to be a useful variation and not neutral or detrimental, this night would turn into a bloodbath. These idiots should have never revealed it publicly. They could get themselves and, more importantly, Matt, killed in the rush to steal the skill.
+
+Just as Matt moved to escape the crowd on the cusp of exploding, the man who’d been holding the skill, and who was probably the party leader, got everyone’s attention. Still with his back to the crowd, in a voice dripping with arrogance, he called out, “I’d love to meet the people stupid enough to attack the son of Brackus of Brackus Holdings.”
+
+That’s what he’s relying on to keep him safe?
+
+Matt was flabbergasted. Brackus Holdings was a local courier service. While they had some influence and power, they weren’t nearly enough of a deterrent to stop people from killing his arrogant ass. The only difference was now they’d make sure to kill all the witnesses, too.
+
+He spun, intent on slipping out, but saw Zephyr passed out on a table not too far from the item identifier. For a moment, Matt debated leaving the old man to his fate. It was his own fault he’d chosen a spot right where the action would be fiercest.
+
+Just leave him. Getting yourself killed to save a drunk isn’t worth it. Just go.
+
+Matt cursed at himself even as he started toward the old man. In the end, he couldn’t just stand by. Inaction was a choice; one he refused to make.
+
+The trick would be getting close without attracting attention or triggering a stampede toward the party at the item identifier.
+
+The item identifier beeped right as Matt slid up to Zephyr’s table.
+
+The noise grabbed everyone’s attention, including his.
+
+Analysis complete…
+
+Skill shard identified as [Cracked Phantom Armor].
+
+Original Skill Description: Tier 14 skill. Pre-charge 200 or more mana into the skill. When a lethal blow is detected, skill will automatically activate and block the attack. Alternatively, skill can be activated at the user’s discretion.
+
+Cracked Skill Description: Channel mana into the skill to activate [Phantom Armor], which will then block physical and elemental damage with efficiency depending on the rate at which mana is channeled into the skill.
+
+Rating: Detrimental - Extremely niche or limited use due to mana cost being continuous. Crack turns a highly sought-after, life-saving skill into a costly and inefficient general defense skill. Possibly recommended for mages with a strong emphasis on Mana Regeneration cultivation.
+
+Matt swallowed. No one would be getting murdered for that skill shard. However, judging by the look on the party leader’s face and the crowd’s growing laughter, a brawl was about to break out anyway.
+
+Matt hoisted Zephyr up and whispered, “Start moving. We need to move. Now.”
+
+Before he could get Zephyr balanced on his wobbly legs, the man who had been pushed aside earlier spat at the party. “Hah! That’s what you arrogant pricks get for cutting—”
+
+Before he could finish, the son of Brackus of Brackus Holdings snatched the skill shard out of the reader and hurled it at the man. While he ducked to the side of the projectile, his attacker took that opportunity to bash him in the face. With the first punch thrown, both parties went at it, and it immediately spread to the rest of the room.
+
+People took the opportunity to get aggression out or settle grudges.
+
+Matt pulled Zephyr along, no longer trying to be subtle and just trying to find the edge of the fighting. He didn’t want to get crippled by an errant blow from someone multiple Tiers above him. Benny wouldn’t cover the cost of healing him after all.
+
+They had almost made it when something hit him from behind. As he and Zephyr tumbled to the ground, Matt picked out a gleam under a broken chair leg.
+
+It was the skill shard.
+
+Matt's world slowed.
+
+He glanced at Zephyr and saw the man was completely out of it, eyes closed, mouth slack.
+
+I have to take the chance. It may be useless for most, but I could use it. I just hope this doesn’t get me killed.
+
+Matt quickly grabbed the chair leg, and the skill shard with it. As he pulled Zephyr back to his feet, he raised the chair leg threateningly while letting the skill shard slip into his sleeve.
+
+Carefully, he swung the chair leg at someone’s back and let that knock the wooden weapon out of his hands. Then he switched the arm he held Zephyr with, trapping the skill shard in his elbow.
+
+The feeling of the small crystal shard pressing into his flesh haunted Matt’s every step and pumped adrenaline through his veins like never before.
+
+Once he and Zephyr were out of the brawl, he carried the old drunk to his room, quickly dumping him on the bed before heading to the maintenance room. As Matt closed the door and ensured he couldn’t possibly be seen by Zephyr, and before he fully stepped into the hallway in view of the cameras, he shoved his right hand into his pocket and let the skill shard slide down his sleeve and fall in.
+
+His heart was racing, but not from the fight. He had been an unwilling participant in more than one of them. No, it was the danger of the stolen skill causing him to spiral.
+
+When Matt entered the maintenance room, he prepared to make tables and chairs as a cover. Benny popped in not five minutes later, once the noise died down a bit.
+
+“Oh, good, you already started. And I saw you getting the old man out of there. I can’t charge him rent if he’s dead. So, good work.”
+
+Matt resisted the urge to scowl when Benny made callous statements like that. He had practice. The comments were commonplace.
+
+“No problem, Boss. What’s the damage? Do we need more tables or chairs?”
+
+“Tables. People can eat standing up, but no one wants to eat on their lap. If they wanted to sit, they wouldn’t use my chairs as fucking weapons.” With that, Benny stomped out.
+
+Matt let out the breath he’d been holding.
+
+He’d almost shit himself when Benny said, ‘I saw you.’ Matt expected Benny to check on him, but if he had seen him steal the skill shard, Benny would have just killed him. Useful or not and lazy as he was, Benny still treated his customers like they were his only source of income. Which they were.
+
+Matt knew he shouldn’t be checked on for the rest of the night, and there were no cameras in the maintenance room. The spare tables and chairs were kept in a separate storage room, so there should be no interruptions while he hid the skill shard.
+
+If the arrogant party complained the skill shard was missing, which Matt bet they would, Benny would try and appease them by searching the staff. It was Benny’s standard practice, so he could say he did his best, then do nothing else.
+
+Matt grabbed a finished table and wedged it under the door handle. Then he went to the desk and pulled out his pad.
+
+It was an older model that had seen numerous repairs by Matt and the previous owners. He pulled out a shim, carefully pried off the back, and immediately ripped out the speaker. The pad’s sound system was subpar and intermittently went out, so it was no real loss.
+
+In the newly opened space, Matt carefully placed the skill gem. It was a close fit. Thankfully, the shard was oblong, a little less than an inch long and a quarter inch wide in the middle.
+
+He quickly inspected his work and guesstimated it would work. Most of the cramped internals were taken up by the screen. The processor was small, and the mana battery was even smaller. He had the skill shard nestled in next to the battery right where the speaker had been.
+
+Matt grabbed a hot glue gun. After an eternity waiting for it to heat up, he applied a drop under the skill shard, stopping it from rattling and giving its hiding place away.
+
+As fast as his shaking hands could move, he closed the pad back up and checked to make sure it still worked. Nothing seemed amiss. Matt shook it to see if he could hear anything move.
+
+Not a sound. It was perfect.
+
+After cleaning up and putting everything away, Matt smiled and was about to get back to making tables when he saw the small speaker. He couldn’t leave it out. It wasn’t like anyone else came in here, but leaving any clue to his theft was stupid, suicidally so.
+
+He proceeded to smash the small speaker until only an indiscernible powder remained, which was tossed to intermingle with the dust and debris already in the shop.
+
+With the evidence of his theft taken care of, Matt removed the table he used to bar the door against interruptions and began making new tables. After about an hour, the shouting started. Matt repressed a smile. Shortly after that, Benny came in with the irate party leader.
+
+As soon as Brackus's idiot son saw Matt, he started screaming, “Did you steal it, boy?! I’ll fucking kill you if you took it!”
+
+Inside, Matt smiled. That was all he needed to hear. It was a question, not a statement.
+
+Outwardly, Matt put on a surprised face and stood up. “Steal what, sir? I didn’t steal anything. Benny would kill me if I did, and I’ve been working here for over a year. Never stole a thing.”
+
+The man didn’t seem to care, but the show was for Benny not him. He had a wand in his hand he pointed at Matt.
+
+Matt knew what it was, a mana detector. These things only worked at close ranges but would find Mana Concentrations. A skill shard would be detected if said skill shard wasn’t right next to a mana battery, which would overpower any reading with unstructured mana. Even if he replaced the battery with the skill shard, so long as no one tried to mess with the pad, they wouldn’t think anything was amiss but a broken pad.
+
+Even if the wand picked something up. Mana was supposed to be there after all.
+
+Matt hadn’t expected the man to have a detector like this on hand, but it was a standard tool used at the orphanage to check for any kind of mana contraband. There was nothing to be concerned about. While he personally hadn’t smuggled anything in, kids liked to brag about their successes, and the best smuggling methods were well-known by all the orphans.
+
+This was a very reliable way to beat the scanners.
+
+“C’mere, Matty. Let Mr. Brackus scan you. Doubt you took it but, if you did, say so now. Even if you swallowed the thing, the wand will find it. Don’t do nothin’ stupid,” Benny recited through a bored expression, clearly only humoring the man.
+
+With nothing to fear, Matt walked over and let the pompous ass run the wand over him, focusing on his stomach, shoes, and pockets. After a murmured curse, he waved the wand over all the drawers. When he repeatedly found nothing out of the ordinary, he stormed out.
+
+Wanting to reinforce his alibi, he stopped Benny before he left. “Wouldn’t it be more likely that someone else took it and absorbed it already?”
+
+Benny yawned out, “Nah. Not that anyone would want to take that shit skill, but it takes days to absorb one.” As he was leaving, he examined the tables Matt had stacked in a corner. “That’s enough for tonight, just get some sleep and finish tomorrow. All this ruckus over a great life-saving skill turned into a shitty defensive one. Whoever heard of a channeled defensive skill? No one can afford that kind of mana cost.”
+
+As Benny turned the corner, Matt heard the murmuring turn to ‘arrogant whelps who throw skill shards then want them back.’
+
+Matt was surprised Benny didn’t try and get him to stay up all night to finish. He had before. “Thanks, Boss. I’ll be sure to finish it first thing tomorrow.”
+
+Not caring if Benny heard him, Matt took the excuse offered and fled to his room.

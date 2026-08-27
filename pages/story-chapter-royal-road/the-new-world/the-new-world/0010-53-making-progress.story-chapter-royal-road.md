@@ -1,0 +1,267 @@
+---
+id: c26fc9a5-1236-5aea-a78f-1bf80b8861d6
+page-type-slug: story-chapter-royal-road
+title: "53 Making Progress"
+slug: 0010-53-making-progress
+partOf: the-new-world
+position: 10
+ownLength: 3957
+unit: words
+ownProgress: 3957
+publishedAt: 2017-10-03
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/165801/53-making-progress"
+royalRoadId: "165801"
+markedReadAt: "2026-06-29T21:21:02.474Z"
+---
+
+I shrugged, “Well, we’ll have to see later down the line. What’s the first step to becoming some crazy master of gravity?”
+
+Torix grabbed his chin, a serious look replacing them mania from earlier, “Hmmm. Learning to master your mana would be the first step. After that, creating runes for it, considering how effective they are for stabilizing it.”
+
+He nodded, “All that is required after the basics is spatial chaining, dimensional locking, then mass deviation.”
+
+I bit my lip, pulling my armor back so that we could see one another eye to eye. I frowned, “Like, that shit sounds really, really complicated.”
+
+Torix waved away my concerns with a hand, “Nonsense. Anything that is complicated can be made simple by breaking it into enough parts. Learn each of those pieces, master them, then use them in conjunction. That is all a master of any craft does.”
+
+I sighed as he continued, “In your case, your runic abilities allow us to create shortcuts in knowledge. A proper set of runes acts much like mastering a basic function. In your case, creating your own runes will be necessary. That requires at least a basic understanding of the underlying principles.”
+
+I nodded, grinding my teeth for a moment before glancing at the runes on my forearms, “I guess these runes let me use my ascendant mana.” I glanced at my palms, “These runes let me use telekinesis.” I glanced back up to Torix, “Why do their usages have to stop there, right?”
+
+“Precisely. Have faith in yourself Daniel. Anyone may learn anything. The only thing between you and this knowledge is discipline and time. Put both of those principles to practice, and you will become a master soon enough.”
+
+I clasped my fists, “Alright, cool. Let’s get started.”
+
+He grinned, “We’ll start with reviewing your runes and working on the next working incantation.”
+
+Since Althea needed a break from constant slaughter, Torix and I worked together on learning the basics of what I needed to know. Turns out, it required a lot more learning than anything I’d done before. Even after a few days’ worth of lessons, most of the material was foggy.
+
+The first few steps were the most difficult. We started with learning how to manipulate my mana without my runes. I hadn’t realized just how reliant on them I had become until I tried channeling the mana without the runes help. It was almost impossible to do so without going ballistic.
+
+That weird voice roared in my mind like an endless echo anytime I surged it. Trying to handle delicate tasks with my mana while that fervor flooded my veins was like trying to paint the Mona Lisa with a sledgehammer. If I summed the experience up in a single word, exhausting.
+
+I had all the time and focus in the world though. All my willpower and endurance allowed me to handle this kind of task with a sheer force of will. Imagine learning how to manipulate the mana was like breaking a brick with your body. Breaking that brick could be done in numerous ways, but I just slammed my face against it till it crumbled. I learned a lot of extra tidbits that way, oddly enough.
+
+If I ever lacked motivating for instance, I could burn through a light portion of the mana. If I only used a small amount of it, it acted like caffeine in coffee. That energizing aura helped whenever my desire to continue waned. Considering I didn’t need sleep, that urge came up often.
+
+Another tip I picked up was that I could form my armor into the runes now. With the new evolution of my armor, a new level of control came as well. With that extra precision, I could create intricate patterns in my armor if I wanted to. I didn’t care for enhancing my aesthetics, but learning to manipulate my runes on the fly would be invaluable.
+
+With a bit more experimenting, I could make tiny wires that traveled down the flesh of my arm from the runes. This change acted as a conductor for the mana, just like with the smaller wires in my muscle. When manipulating my armor like that, Torix would sit over me and analyze my work. He said it reminded him of self-surgery. I agreed.
+
+Rewriting my runes was difficult as well. I had to make the wording short and sweet, otherwise the runes became inefficient. Since ascendant mana was a combination of both dominion and augmentation mana, my runes had to cover twice the ground in half the time so to speak. In the end, it reminded me of writing poetry.
+
+Every phrase had to carry multiple meanings. The visual layouts of the runes came into play, becoming pivotal in how each piece of it was interpreted. The runes became more powerful with a jagged, rough lettering instead of smooth. The way the letters looked had to reflect the feel of the energy coursing through them.
+
+That’s not even tapping into the intricacies of the meaning in the words. Wrath, power, rage, control, even discipline, it all had to mix into a line or two. Like writing a story with drama and tension in only ten words, writing the passage would take time.
+
+After a week of working on all the different aspects of mana manipulation and the runic carving, I managed some functioning prototypes. They would function more or less like the previous ones, though a bit more efficiently. I wouldn’t need to massive pools of mana into simple effects. I still had a choppy control of it though, so a few backfires were bound to happen.
+
+Our next mission was coming up. Everything passed by in a haze during that time since I studied like an obsessive madman the whole time. I didn’t need to stop though, because one of my willpower perks took a way the need to sleep. That meant I was in a state of perpetual progress, which put me more and more ahead of Althea.
+
+Speaking of which, she wasn’t handling everything to well. I couldn’t blame her though. Living in Schema’s world was like living in an endless war. You fight monsters, the decaying bodies of your friends, a few mutant chimeras here or there. Even the strongest willed person needed a break from it every now and again. Schema, being a robot, didn’t understand that.
+
+That dissonance in his understanding of a person was where most of the problems with his system came from. If he just had a working army or portion of the population that fought then he could dish out the rewards to everyone based on merit. In the current system, you had to fight regardless of if you liked it or not. People like Althea struggled in that kind of world.
+
+So during the day of the mission, I knocked on her tent. She snapped,
+
+“Who is it?”
+
+“Uh, Daniel. Did I catch you at a bad time?”
+
+She unzipped the tent, her silver skin and purple hair as shocking as always. She stuck out anywhere like a sore thumb. She sighed before going back into her tent,
+
+“Yeah, you can come in.”
+
+I waited a few seconds before stepping inside. If I was to describe the place, it was messy. Not in a filthy sort of way, but like the place was lived in. Compared with the eerie clean of Torix’s place, it was a refreshing difference.
+
+The unmade bed and a few cooking books were spread out on the ground. Based on the smell of food in the room, Althea may have tried cooking a thing or two. It was strange. Who knows, maybe it was weird that I thought cooking was weird. Cooking was like fixing my hair or driving in a car. It was a relic of a different time, something that was useless now.
+
+At least I thought so. It was still kind of cool that she wanted to learn how to cook. Althea hopped onto her bed, her legs crossed as she leaned onto them. She wasn’t wearing the long, flowing robe like before. She wore fitted combat fatigues with a belt around her waist. It accentuated her figure. Even with all the changes Schema made, I was still a teenage guy. My hormones blazed before I doused them out with a mental lashing.
+
+I grinned, “You pumped for the mission?”
+
+She rolled her eyes, “No. I don’t want to do all this murdering anymore. I don’t understand how you can be so cheery about it. We’re slaves for Schema’s sake.”
+
+“Eh, a man chooses, a slave obeys. I’ve chosen to fight. You can too.”
+
+She pointed at me, “See, you would never have said that when we first met. You’d be all gruff and curt. Schema changed you. You think it’s natural to stay awake for weeks on end, studying non-stop?”
+
+“Well, with my willpower- “
+
+She snapped, “There it is again. Don’t you care if that robot is getting into your head and changing things around? Doesn’t that bother you?”
+
+I raised an eyebrow, “Are you telling me it bothers you?”
+
+She spread her arms, “Of course it does. I want to be me. I don’t want to be some glorified servant for Schema.”
+
+I sighed, putting my hands on my hips. An awkward silence passed for a second before I met her eyes with my own,
+
+“There’s something you have to understand. This world, it isn’t going to change for you. No matter how much you beg, Schema won’t even give you a second glance. You will be chewed up, spit out, and thrown onto a pile of corpse if you aren’t ready for an unknown monster.”
+
+My eyes steeled and my hand clasped, “You and I, we have a ton of help. Don’t pretend like you don’t have it easy compared with other people. Hell, my friends were turned into monsters. Me being alive, that’s lucky. That’s something to celebrate when the world outside is like that.”
+
+Althea grimaced, “I just…I don’t want to be like that. I want to be able to enjoy my time and relax. I never can. I’m always fighting. Either that, or I’m always studying for the next fight. It’s just…I’m tired of it all.”
+
+I sighed. I glanced at my palms. The new inscriptions brimmed with a silent power, like a loaded gun. I glanced back up at her, “You have a choice. Either you let the darkness outside creep in, or you can let your own darkness creep out. I remember reading about some guy who said to be careful when fighting monsters.”
+
+“Because their dangerous?”
+
+“No. Because in fighting monsters, you may become one. I will never become a monster. Instead, I’ll eat them.”
+
+“Uh…doesn’t that make you one?”
+
+I scratched my nose for a second, “Hmmm…well I guess so. Uh, let me think for a second.” I pressed my hands against my temples for a few seconds. After a few moments of thought, I smacked one of my fists into an open palm,
+
+“I think I can describe it. I won’t be a monster of men. I’ll be a monster of monsters. It’s like, uhm, imagine something made to scare you, a boogeyman of sorts.”
+
+She leaned back into the bed, accentuating her chest for a moment,
+
+“What do you mean boogeyman?”
+
+I refocused myself, “It’s a tale told to small children. You tell them that if they misbehave, a boogeyman will come out and scare the shit out of them. It’s just something made to scare someone.”
+
+She nodded as I continued, “I want to be a boogeyman to the boogeyman. A monster to the monsters. When they think to eat someone, I want them to think in the back of their mind that I’ll come and tear them apart. I don’t know, a legend or something like that maybe.”
+
+Althea laughed before I shot down a wave of embarrassment. I waved her off, “I haven’t thought it all the way through.”
+
+Althea smiled, “No, I get it. I just…I thought you were a machine or something like that. Who knew I could make some sense of your goals.”
+
+I nodded, “Well, you aren’t very transparent either. You just sit there and be quiet all the time. It’s really hard to get a grip on who you are.”
+
+Althea rolled her eyes, “And you’re just a worker. You work all the time, twenty-four seven. Who’s supposed to relate to that?”
+
+“I don’t know. Calculators.”
+
+Althea laughed again. I grinned with her before letting myself out as I said,
+
+“Anyways, I figured you could use some cheering up before the mission. Just know that you can make anything miserable. This-“ I gestured to everything around us, “-doesn’t have to be.”
+
+She sighed before grinning for once,
+
+“I guess I’ll try to make the most of it.”
+
+I nodded, leaving the tent. With the first blitz coming later that day, I walked over towards my own tent and checked my status. After a week of studying, I gained quite a few skills and points into those skills. Ascendant Manipulation, Soul Conduit, and I even had a breakthrough in two skills, Carving into Oblivion and Comprehension of Oblivion.
+
+Those were the skills for carving runes and understanding them. I passed 50 in both of those skills, which let me develop the new runic passaged in my forearms, shins, and palms. All in all, 123 tree points. I glanced at my current tree.
+
+II Vicious(Beat an enemy 40 levels higher than you in combat lasting over an hour, Death's Dance, Scorn, and Desperation over level 25)(13/50)
+
+I placed 37 points into the tree, messages popping up in my notifications.
+
+With the might of your struggle, rip your enemy asunder. Rive them apart with fury of frenzy and the might of malice. +2% total damage.
+
+Feast on their flesh. Bathe in their blood. Break into their bones and mold their marrow. This wrath of yours, it’s a tool. +2% total damage.
+
+In order to inflict hurt on someone, you must come at them with the intention to hurt. You must embrace the primal. +2% damage.
+
+And make the primal frenzy your own. +2%, and unlocks the skill Primal Frenzy. |!Skill already unlocked!| +5% total damage added to bonuses.
+
+Primal frenzy was what the voice wanted me to embrace. In order to use dominion magic, I had to be using that skill, but it made that weird voice in my head take over. I didn’t like that, so I got rid of it. I guess the tree adjusted since I got rid of the skill.
+
+In total, just a few tree points gave me 13% more damage. At a lower level, that wasn’t a big deal. Now it was a massive bonus. With the tree finished, the menu for selecting my next tree appeared.
+
+[III Fighter(Kill an enemy 40 levels over you. Path of Iron perk obtained.)(0/50)]
+
+[Cosmic Soul(Obtain level three different soul related skills before level 500, ascendant unlocked before level 500, and willpower over 250 before level 500)(0/500)]
+
+[I Invincible(Take over 10,000 points of damage, with capped resistance in the damage type, and live)(0/250)]
+
+[Fearless (Battle an enemy over 1,000 levels above you and live) (0/250)]
+
+I selected the Fighter tree line, hoping for some easy bonuses. After filling out all the points in the tree, it didn’t disappoint.
+
+Those that enjoy battle and live for it are strongest. Either you gain the discipline to become a master of it, or you simply feed an obsession. +3% to physical damage and physical damage reduction multiplier.
+
+You are the latter. The act of war is narcotic for you, a therapy of sorts. While other people find peace in paradise, you find your center among a mass of corpses. +3% to physical damage and damage reduction multiplier.
+
+Only there can you truly focus. Once you’ve seen the brilliance of battle, everything else shines dull by comparison. Even the brightest light dies down to a grim gray. +3% to physical damage and damage reduction multiplier.
+
+That gray bleeds into life, infecting it with an overwhelming apathy. Finding purpose amidst that gray is as senseless trying to nurture a predator on bread. One day, they will need blood. +3% to physical damage and reduction multiplier.
+
+One day, so will you. +3% to physical damage and reduction multiplier. +50% to physical damage.
+
+This tree didn’t work out as well as the last one. The 50% extra physical damage wasn’t much in comparison with my 3000+ physical damage bonus. The multiplier added onto my other multipliers too, but it wasn’t multiplicative. Still, it was enough to notice. The tree menu popped back up again.
+
+[Cosmic Soul(Obtain level three different soul related skills before level 500, ascendant unlocked before level 500, and willpower over 250 before level 500)(0/500)]
+
+[I Invincible(Take over 10,000 points of damage, with capped resistance in the damage type, and live)(0/250)]
+
+[Fearless (Battle an enemy over 1,000 levels above you and live) (0/250)]
+
+This time I selected cosmic soul. It looked like it may help with the runic stuff I was focusing on. I only had 36 points left, so I put all of them into the tree. Before heading out on the mission, I had one other set of bonuses to finish.
+
+One of the big trees I finished, Genesis of Potential, increased the amount of dungeon cores I could absorb. From 1/4th my level to half of it. That meant I had a couple of bonus cores to eat before we left. That meant talking with Kessiah or Torix to make good on the bonuses.
+
+With that in mind, I walked through the camp. As I did, the eyes of soldiers bore into the back of my head. Most of the people here at the steel legion were just normal people before Schema came. They just assumed I was some interspecies monster. Kessiah and Althea on the other hand even formed little cults that almost worshipped them.
+
+It was a strange feeling. In a way, I was more disliked and divorced from humanity than two aliens. I still wasn’t hated like Torix though. The steel legion utterly despised him. I couldn’t blame them either. He killed their leader, had them reorganize three times in three weeks, and worked them to the bone. I mean what else did they expect. He’s a necromancer. He needs his skeletons.
+
+Get it? Cause he works them to the bone…Alright, yeah. Back to the story.
+
+I wasn’t despised as much as I was feared. The title and blackened armor made me intimidating as fuck. I’m guessing that’s why no soldiers had even attempted walking up and talking to me this entire time.
+
+That all changed as I walked over towards Kessiah’s tent. I was glancing at my status screen like I was holding a phone. Felt weird to look at it while staring straight forward, so I ended up bumping into a soldier who was passing by.
+
+I didn’t mean to, but I knocked him onto the ground like I was a linebacker tackling him. I even dented a piece of his armor, and he dropped his rifle into a patch of mud. As I turned my head to glance at him, he scrambled onto his knees.
+
+He pulled off his helmet before wobbling back onto his feet. He gave me a short salute, his messy brown hair and five o clock shadow making him look older than he was.
+
+“I-I’m sorry sir. I should have been looking where I was going.”
+
+Being polite, I pulled my helmet back, exposing my face. I gave him a smile,
+
+“It’s no big deal.” I pointed at his rifle, “Is that a problem though?”
+
+He glanced at the rifle, mud lodged in some of the mechanical parts. He picked it up,
+
+“Uh, yes. But, I-I mean it’s not your problem. It’s mine sir.”
+
+I put out my hand to him. He glanced around before handing me the rifle. His hands shook as he did so. I glanced inside the compartments, looking it over. Bits of grit where in the loading chambers, along with the barrel. Cleaning it would be a complete pain in the ass.
+
+The soldier turned pale as I moved the gun around to view it. Testing my new runes, some ascendant mana flared into my palm. The runes glowed a bright crimson, making red light sheen off my armor. Using my palm enchantments, I pulled the grit from the rifle. Taking care not to mess with anything else in the rifle, I cleaned it with my telekinesis over the next few seconds.
+
+I handed the rifle to him, the barrel of the rifle facing me instead of him. I figured it was politer that way. He took it from me, his hands shaking. I raised an eyebrow,
+
+“What’s got you so scared?” I laughed, “Did you think I was going to shoot or something crazy like that?”
+
+I glanced around. A group of people were standing in a circle around us. I was making quite the scene. The soldier glanced around, frozen in place. I rolled my eyes,
+
+“What kind of guy do you take me for? You drop a rifle and then get killed…That’s crazy talk.”
+
+Someone chimed from the group, “That’s what happened to the Sargent.”
+
+With all eyes on me, I shrugged, “Think of that as a change in management. Torix needed an example. Your Sargent was the unfortunate victim of that example. Me though-“ I tapped my chest, “I’m not going to do something like that.”
+
+I pointed at them, “If you fire at me, I’ll kill you where you stand.” I lowered my hand, “Anything else and I’m completely fine with it. I just want to stop Yawm. That bastard needs to die, and I’m the man to do it. Stand in my way, I’ll kill you too. Walk with me, and I’ll be your sword and shield. Remember that.”
+
+Right in front of me, I tapped the brown-haired guy’s shoulder pad,
+
+“Bumping into me is nothing to worry over. Relax and work hard. We’ve got a monster to kill.”
+
+I walked off, leaving the group of soldiers behind me. Once they thought I was out of earshot, an electric whispering took over the crowd.
+
+“He isn’t so bad.”
+
+“And here I thought Jeff was dead.”
+
+“Not such a bad guy I guess.”
+
+Being in a state of perpetual fear must have taken its toll on them. Seeing a more human side to our group helped moral more than I imagined it would though. I walked through the camp, reaching Kessiah’s tent. I tapped on it, but no one replied. I frowned.
+
+“You in there Kessiah?”
+
+Silence was my answer. I unzipped the entrance, glancing inside. Messy as a garbage bin, Kessiah wasn’t inside her tent. I closed the door, the smell of half eaten food leaking out. I surveyed the area, noticing no one else nearby.
+
+Thinking Torix had some dungeon cores, I walked up towards Torix’s house that he turned into a laboratory. As I neared by, Kessiah and Torix’s voices came into focus.
+
+Kessiah whispered, “Are you serious? 30,000 health?”
+
+Torix answered, “Even more. His health regeneration was over 10,000 a minute. Every stat across the board was inflated for his level. I never honestly believed we stood a chance against Yawm. Now, I do.”
+
+“It doesn’t matter how tough the guy is. If Yawm hit’s him with the sentinel’s spear, he’s done for.”
+
+“Daniel has already been sent to the eldritch and returned. He will survive what no other has survived.”
+
+With an evil glint, Torix uttered,
+
+“He will survive exile.”

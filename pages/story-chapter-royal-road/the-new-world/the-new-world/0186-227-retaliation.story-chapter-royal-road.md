@@ -1,0 +1,291 @@
+---
+id: 76c478e9-7fc3-5778-8868-fe78bbc9175b
+page-type-slug: story-chapter-royal-road
+title: "227 Retaliation"
+slug: 0186-227-retaliation
+partOf: the-new-world
+position: 186
+ownLength: 4547
+unit: words
+ownProgress: 4547
+publishedAt: 2019-09-28
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/408072/227-retaliation"
+royalRoadId: "408072"
+markedReadAt: "2026-06-29T21:27:17.136Z"
+---
+
+I turned around, the gialgathens livened up. I continued channeling the quintessence around the area, soaking it in the rain. At the same time, I pulled out a blue dungeon core from my pocket dimension. The azure aura passed over me, energy radiating from the sphere that fit in my palm.
+
+It mimicked a pill more than a core at this point, given my size. I pulled it up to my face, wondering how the damn thing worked. A screen popped up as I did.
+
+Blue core menu activated. What would you like to do, sir?
+
+Exchange blue core for fifty red cores? (Y/N)
+
+Establish city and defensive aura? (Y/N)
+
+Sell blue core for resources? (Check out galactic rates!)
+
+The core trade seemed pretty one-sided in favor of Schema, at least based on what Caprika told me. Either way, I selected the establish city option.
+
+Error, rift located within city confines. Rift must be closed before a city may be established.
+
+I sighed before hopping off my stone pillar. As I clashed against the ground, cracks in the stone radiated outwards from beneath me. As I stood up, I wondered about the destruction. I usually absorbed the impact with gravity, but using it with quintessence was finicky at best. Distributing my mass was more about strengthening the materials I stepped on than reducing my own weight.
+
+Stone could only be so durable after all.
+
+Still, I filled in the cracks around me with a similarly colored stone as I walked up to the rift. I turned to Chrona,
+
+"I'm clearing this real quick. You guys start organizing everyone."
+
+Chrona glanced up at the clouds above, a bit of wonder in her eyes,
+
+"Yes, of course."
+
+I dived into the pit, shifting to Event Horizon. As I did, I pulled my way through the water, discovering an underwater ecosystem. Hammerhead fish, glowing nine-tailed eels, and dark fire piranhas littered the water. They averaged about level 1,000, so a quick pass through with Event Horizon obliterated them.
+
+Once finished, I collected a red core stored inside some glowing coral at the bottom of the pit. Within five minutes, I shot myself back out of the rift, shifting my mode of being back to Rise of Eden. Just as the clouds above dissipated, I restored them to their full glory.
+
+I assimilated the red core, putting the points I gained into Apotheosis. A mere blip of potency coursed through me and only for a moment. I turned towards the gialgathens, finding them devouring much of the food I made. They drank from the pools of water, some holding their mouths open for the rain.
+
+By now, their skins rehydrated, giving them the sleek, colorful appearance of a salamander. The moisture gave their skins brighter shades of coloration as well, the jungle becoming a moving blur of vibrant colors. The shift wasn't just physical either. The rain brought them a kind of joy I only saw in children. It was as if they forgot their worries for a moment, and that moment was all they needed to get back some hope.
+
+Some of the younger gialgathens even played in puddles, relishing the water. To keep this place fertile, it needed a constant stream of mana from me, however. I needed to leave soon, so I cupped my chin and thought for a moment.
+
+I came up with a simple solution. I walked back over to the earthen pillar I created for the speech. I converted a wall of rock around it before walking forward, stepping on air. Before my feet fell, I generated a stone staircase to walk upon. As I passed, I carved a variety of runic configurations.
+
+This slow, careful pacing left me at the top of the pillar within thirty minutes. The runic configurations proved straightforward, and they provided an enchantment over the area that mimicked my own quintessence. While not a perfect conversion, water was all the group really needed. The life here would maintain itself with that.
+
+With that in mind, I lunged to one knee and placed a hand onto the stone. Channeling an abhorrent amount of mana into the rock, quintessence saturated the makeshift enchantment. As I pulled my hand from the rock, a chunk of the pillar stuck to my palm. A few fractures radiated out a few inches from the channeling spot as I did. A white imprint of my hand remained made entirely of crystallized quintessence.
+
+After wondering how much crystallized mana costed on the market, I pulled out the blue core again. Opening the menu once more, I selected the 'establish a city' option. Another message popped up,
+
+Before placing your new city please read this directive on the specifics of cities within Schema's system.
+
+Cities enable a guild to establish itself on a world. This requires free territory or permission from the current ruling party. While not necessary for an establishment, blue cores give provinces a safety that cannot be matched by other means.
+
+Using the blue core as a central conduit, the city drains reasonable sums of mana from the population. This generates a sphere of mana over and under the city, preventing invading eldritch, approaching nuclear threats, and even a moderate defense against solar flares or other environmental disasters.
+
+The level and scope of these defenses are determined by the population size and mana generation of the population at any given moment. The higher the mana, the greater the shield of protection. Blue cores can store excess mana from a city for later use up to a cap of 10 billion mana. This enables the capital's of planets or important galactic hubs to retain excellent defenses should the population fall for any reason.
+
+Blue cores also guarantee the establishment of several utilities within Schema's system. Teleporters, galactic markets, and registration onto the safe locations list(SLL) also come with the use of a blue dungeon core. The current location's safety ranking will then be determined by population size, mana stored, and other factors.
+
+Further reading can be found here for only several easy payments of 49.99 credits! (Variations in tax rate not applicable)
+
+I closed out the first ad I read in years. I blinked a few times before pulling the core up between my thumb and index finger. As I did, a visualization of the core's range popped up. It expanded off into the distance, covering a far larger area than we needed. I scoffed at myself. My mana generation skewed the core's calculations by just a tiny bit.
+
+Using a few mental options and levers, I reduced the size to a reasonable area. It gave room for growth of our operations along with the teleporter locations. Those would prove invaluable as we saved the gialgathens.
+
+As I selected finalize, the core snapped out of my hand and into the air. A massive plume of ethereal water erupted from the top and the bottom of the core. This wave of liquid energy coursed over every bit of Elderfire, ingraining itself deep into the land. Sparks flared across the trees and people here like roots made of blue electricity.
+
+The gialgathens in Elderfire glanced over to me, and I stared up. A tidal wave of hexagons dispersed from a focal point above the new city. Semitransparent, these hexagons created a subtle blur in the air behind them. Once the framework set itself, vibrant, navy-colored energy coursed through the translucent structure.
+
+Vitalized and swarming with power, strings of visible, liquid mana funneled into the new dome. I watched over the next few minutes, the visual obstruction fading with time. As it finalized itself, the barrier's visibility faded till it almost disappeared. Only a few fragmented, tracing blue lines from the hexagons remained in the distance.
+
+It was stunning.
+
+As it ended, a pull on my mind fought over the mana I siphoned into my cipher engravings on my forearms. I let the blue core take its fill, channeling my excess mana into it. Peering between gaps in the canopy, a few gialgathens shook their heads. It looked like this new mental pull affected them as well.
+
+Not long after, Elderfire settled down. Even with my absurd mana generation, 10 billion mana would take a bit of time. Using that time, I walked down the steps of the stone staircase, finding Torix and Chrona at the bottom of the expanse.
+
+As I paced down, Torix raised a hand to me, "Ah, would you mind excusing me for a moment? I need your assistance with a quandary."
+
+"What is it?"
+
+Torix waved his hand around, "A few unknown scouts have happened upon our base on Earth. What would you have us do with them? I envisioned having them captured and tortured until death. Perhaps my overly cautious approach is unwarranted, however."
+
+I frowned, "I do think caution is the best way to handle this. Of course, that doesn't mean torturing them to death though. Have someone spy on them and try to discover the faction they're from. We might be able to make a friend instead of an enemy."
+
+Torix nodded, "Then, it shall be so." He turned to walk off, but before he could finish doing so, he turned his eyes back to me,
+
+"Ah yes, the time limit for Earth's safety net is expiring soon. Other factions will be landing onto Earth and vying for territory. Do think about it and our courses of action in the future if you could."
+
+Torix stepped away before Chrona telepathically spoke to me,
+
+"When will we stage our first retaliation?"
+
+I crossed my arms, "Do you have the locations of the attacked areas?"
+
+"We do, though the extent of each warzone is unknown."
+
+I turned a palm to her, "How about tomorrow morning? A good night of rest will do you all a lot of good, and mentally preparing for the carnage to come is necessary. While you guys rest, I'll have plenty to do, and it gives Torix time to work out the logistics and strategies we need. How's that sound?"
+
+Chrona nodded, "It sounds perfect. I and the others will be at your beckoning call."
+
+I raised a hand, "Wait one moment. I thought about it a bit, and I think you'll do better here."
+
+Chrona's eyes widened, "What do you mean stay here? My people are dying in droves and being abducted. How can I sit in this sanctuary while you and the others take the skies by storm?"
+
+I walked up to her, waving my hand in a circle while pointing at everything,
+
+"All of this is why. We need a defender here, someone who can stand against a random attack while we're gone. If you stay here, then you'll have time to create a temporal dilation chamber for yourself. Since you can stay in place, it makes you much, much stronger during a siege. It's the best way to use your talents."
+
+Chrona took a step to me, "But I, I could act as the defender of our ranged forces. I could guard them, enabling their offensive."
+
+I raised a palm, "You could, and that would work very well no doubt. The problem is that if a group Hybrids destroy this place while we're gone, then it won't matter. We'll be back to square one either way, dead enemies or not."
+
+"Perhaps Krog could stay in my place then. I'm better in battle. He will be of more use here, protected by this aura."
+
+I shook my hand, "Krog's the tactical head of the gialgathens. I need him to help me command our forces. He's absolutely necessary to have by my side and on-site."
+
+"Then...Then we could-"
+
+I laid a hand on Chrona's side, "Chrona."
+
+She took a deep breath, "Fine. Though loathe to admit it, your reasoning is solid. Besides, now is not the time to dawdle and waste time arguing. Now is a time for action. I will guard this place until I'm needed elsewhere as you wish."
+
+I gave her silver-colored side a nudge, "That means we can all focus on getting the gialgathens back home. Good luck."
+
+"You as well."
+
+I turned towards the sun, finding pieces of its light peaking through gaps in the trees. Before setting down for some runic work, I hovered across the domain of Elderfire. I covered it with trees and new soil, along with a variety of life forms. A few times I overdid it, and a large pile of crabs was made, but hey, mistakes happen.
+
+I was just glad I didn't do that during the speech.
+
+After covering Elderfire in fauna and flora, I went over towards the temple Torix settled in. The rustic, primitive designs within the orange stone wore over time, giving it an aged appearance. Here the Gialgathens carved images of their race into the sides of the expanse like cavemen back on Earth. It acted as a historical timeline for their race.
+
+One of the longer murals painted a scene of gialgathens swimming through the water. From their mouths, jets of boiling water killed the surrounding fish. Once dead, the fish floated to the surface before being devoured by the gialgathens. That's probably where they developed their fire. One step at a time, they went from fish to an oceanic dragon of sorts. After taking to the skies, their evolution stopped.
+
+Either way, I paced deeper into the temple littered with the history of the gialgathens. Torix found the deepest, darkest hole he could and settled there over the last few hours. Across every wall, a variety of maps, charts, and standard Torix gear smothered every open space.
+
+Cords of mana acted as strings, connecting a few critical positions across a virtualized map of Giess. Silver streaks coated large swaths of the planetary map, the silvers having taken ground over the centuries. Elderfire was in the dead center of the diagram, a few mountains surrounding it on all sides.
+
+I pointed at it, "So we're in the Rak'Shah desert?"
+
+Torix looked up from his own map, turning to me,
+
+"Ah, yes. We're in the dead center of Giess. Tactically speaking, this place was once abundant with water. Mountains rose around it during a peak of tectonic activity. Thereafter, moist air wasn't allowed to float this far inward, creating the desert you see here."
+
+Torix sighed, "It's a shame really. This position is excellent outside of the high maintenance cost."
+
+I shrugged, "I'll manage it. The blue core should be fully charged now as well, keeping us safe from even an orbital bombardment."
+
+Torix laughed, "Perfect. The utility that infinite mana of yours gives us is quite useful. Just as well, I've used our Sentinel friend to disperse a few spies at key tactical locations based on this map. I've learned an inkling of the strategy that Tohtella imposed here."
+
+Torix walked over to the map, gesturing to it with his hands.
+
+"You see here? This is a string of positions attacked by their forces. It creates a distinct line that prevents gialgathens from escaping the landmasses of Giess."
+
+I walked up to it, the map looking a bit like Pangea,
+
+"Yeah. It kind of looks like they're attacking where the silvers haven't infested yet. Weird."
+
+"That is precisely so. I believe their plans involve pinning the gialgathens onto the mainland of Giess. There they intend to limit the mobility of these flying creatures. Once forced into the Rak'Sha desert, they shall weaken due to the lack of moisture. After baiting them into a poor position, they will prove easy to capture."
+
+I clanked my fists together, "Then we'll act as the stronghold here then."
+
+Torix nodded, "You understand my intent entirely. We shall do so by using gialgathen guildsmen to assist refugee gialgathens across the Rak'Sha desert to this location."
+
+Torix waved a hand, "You see, the gialgathens within Schema's system are far less susceptible to the perils of the elements. The system's resistances grant the necessary fortitude to traverse these extreme distances. We should be able to confound their operation in this manner."
+
+I crossed my arms, "Knowing how they work, they'll figure this plan out fast, though."
+
+Torix raised a hand in expectation of that point, "Well put, and I've devised how we shall avoid this informational fallout." Torix walked over to a pile of papers before pulling out an overlay for the map. I leaned back,
+
+"Where did you find the time to get one of those?"
+
+Torix waved off my question, "Lichs have their resources. Now-"
+
+He placed it over the locations on the map,
+
+"We have access to various resources as well. I've invested my time researching into common hacking methods. Using Althea and her various agents, I've implanted a few surveillance devices onto many of her targets. Her shadow group was the spies I mentioned earlier. They have given me a sea of data that I intend on using."
+
+I pointed my finger at the overlay that Torix was holding onto the map. Clay holds formed along the corners of it, freeing up Torix's hands.
+
+"Thank you."
+
+I lowered my hand, "No problem."
+
+Torix made a circle over several of the larger cities in espen territory,
+
+"Using Althea's knowledge of the Adair's organization, we're isolating the individuals that control the flow of information. By manipulating what they see and hear, we're confusing this critical resource."
+
+I raised my eyebrows, "Well, damn. That will buy us some time."
+
+Torix raised a finger, "It will do more than that. A troop of the students from our guild has come here from Earth during your stay in the compendium. They are the elite mind mages I've been curating since we established ourselves outside of Springfield."
+
+Torix waved his fingers maniacally, "Using them, we shall create decoys and misdirection during our attacks, allowing us to save more gialgathens. While our own psionics pale in comparison to the Adair's, we simply need to avoid the true masters of mental magic they have. Using these methods, we shall eradicate their implanted forces here on Giess."
+
+I stared at Torix in silence as he continued,
+
+"Furthermore, we shall be using your assaults to throw off the Adiar's finding of our location here in Elderfire. Your blitzes will be targeted in such a way as to cause them to incorrectly guess where our base is located. The Sentinel's teleportation shall be key in this. This shall give us the time needed for the final piece of our operation."
+
+Torix cackled a bit before spreading his arms towards the map,
+
+"We shall be training and leveling gialgathens along with our own troops during this time. The silvers act as simple catalysts towards this end. This shall enable us to build a retaliatory force that shall be stationed here in Elderfire. By the time they discover this place's location-"
+
+Torix let out a bout of evil laughter before turning back to me,
+
+"Even an assault led be Lehesion shall prove futile."
+
+I soaked in the extent of Torix's plan for a moment. After a while, I shook my head,
+
+"I'm glad you're on our side."
+
+Torix stood up straight while holding his head high. He interlocked his hands behind himself. The guy was in his element as he met my eye,
+
+"You've spent your time honing yourself into a weapon. I've long thought my responsibility was and is to enable that pursuit of yours. You gain power, and I shall arm you with the tools necessary for your position. You shall lead from the front and inspire others to follow, both our vanguard and our immortal leader."
+
+Torix's blue, fiery eyes flared,
+
+"And I shall assist you, hidden within the tall shadow you cast."
+
+I turned a palm to him, "You don't have to do that, you know. I have no problem sharing the credit."
+
+Torix shook his head, "Though the sentiment is appreciated, it is unnecessary. I am at home in the darkness, and I find satisfaction in a plan well executed. I may do both of those best here, hidden from prying eyes."
+
+Torix waved his hands, "Besides, a target on your back is far less threatening than one on my own."
+
+I snapped my fingers, "That's right, your new body. It sounds like you got this plan locked in. I'll let you do your thing while I do my own."
+
+Torix turned back to his map, "But of course. By morning, we shall be prepared to counterattack. I wish you farewell."
+
+"You too. Cya Torix."
+
+I walked off into a different room of the temple. Once within its depths, I exchanged a few messages with Althea. It had been so long since I last saw her because of the compendium. I missed her quite a bit, so even though I despised 'texting,' I preferred it to no communication at all.
+
+After devising something resembling a loving message, I got to work on Torix's new body. I shifted to dominion mana, letting the aura leak over me. My armor responded in kind, grinning an evil, insidious smile. The dark gray of my skin darkened to a pitch-black as I gathered several tons worth of the material, regrowing devastating wounds in seconds.
+
+After getting the dominion laden metal, I shifted to quintessence. With The Rise of Eden, I emboldened my mind with the will to create. Wielding Apotheosis, I melted the armor into a mass ball of molten metal.
+
+Instead of vibrating the particles like I did with Ascendant mana, I injected raw thermal energy into the metal. It was actually easier to do. During this, I mixed some of the metal harvested while traveling to Elderfire as well. Once pliable, I shifted out globs of the heated metal before setting to work.
+
+I formed black bones, Torix's preferred form. I stuck with solid outer shells instead of a solid structure. Otherwise, the skeleton would prove too cumbersome. I left a framework of supporting structures within the skeleton's bones to keep it sturdy though. Once I finished with the bones, I aligned the metal by pulsing gravitational waves through it. This eliminated air bubbles and evened out the metal's grain structure.
+
+Once I finished up with the body, I added a bit of flair onto the skull, hands, and shoulders as well. The scapulas acted as slightly thicker plates, the skull carrying Torix's signature crown of thorns over his head. On the hands, I kept short spines on the outside of his fists. I kept the features of the skull hollow and menacing, though I did interlay a few supports through it.
+
+The idea was that when Torix stepped out onto a battlefield, I aimed for our enemies to feel fear. After finishing the crafting of the skeleton, I created hundreds of thin wires. The practice from my previous armors helped me out here, allowing me to complete a large pile in only an hour.
+
+I set those aside before using several bouts of quintessence. After a few failures, I eventually created a gray ball of fabric. I weaved it with the wires, creating a robe similar to his current one but much denser and more protective. I also made a cape for his back composed entirely of the thin wires. It was large enough to cover the entirety of Torix if he wanted it too.
+
+It would be a makeshift shield if he needed it or perhaps a kinetic dampener. Either way, it would be useful and look cool at the same time. As far as I was concerned, that was a win-win situation.
+
+With suitable proportions for the new body, I ended up with a nine-foot-tall robe. The black on gray created a nice contrast as well, appearing malevolent and powerful. With that finished, I took a few golden rings from my pocket dimension and melted them down. Proving much easier to work with than my own skin, I embroidered the trim of the robe with Torix's classic touch of gold.
+
+This livened up the clothes a bit, making them look less dreary. I also created a thin shoulder plate for the cape to hang from. On it, I crafted dull, angular tines that jutted up. They protected the sides of his face, and when worn, Torix would appear broad and menacing.
+
+Once finished with the main body, I looked at the time. It took about 8 hours in total, far less than I imagined it would. The Rise of Eden did wonders for my productivity. With the little time I had left, I worked out some of the runic inscriptions. Instead of the watered-down runes Schema used, I decided to use the cipher. The idea was that he would wear the robe over the carvings, keeping them cloaked from prying eyes.
+
+With the cipher at my disposal, I scoped out a quick synopsis of what I viewed Torix as. Diligent, ruthless, and astute, I carved out the idea of a mastermind with a familial side. Even if he'd given up on life, he found something worth living on for in his undeath.
+
+In the end, Torix turned into a father figure for me. I never had one really, and he did a pretty good job of it. At the same time, he was a teacher and mentor that enjoyed sharing his hard-earned knowledge. Despite this academic nature, Torix kept grounded even when there was chaos erupting around him.
+
+Even in the eye of a hurricane, Torix always headed towards an efficient and effective solution for any problem he faced. He never struggled to learn from those younger than him either, his humility impressive. At the same time, his rage was a dark, abyssal thing and well worth fearing.
+
+His ability to command tactically was unequaled as well. He maneuvered our troops around Yawm's followers with absolute brilliance. His new plan was both cunning and capable, and he would no doubt execute it with deadly efficiency.
+
+The more I mapped out my understanding of Torix, the more confident I was of my conclusions. The Torix I knew was a dark overlord, not some old skeleton about to break from a stiff breeze. When I finished this, everyone else would understand that too. I would make damn sure of that.
+
+Immersed in my work, I lost my sense of time and sped through it with cold efficiency. As Torix tapped my shoulder, I just finished my notes on my status. I shook my head, stunned that he snuck up on me.
+
+He peered up at me as I stood up straight. I found that standing was the most natural thing in the world now that I was so dense. If I didn't force my body to move, it was stiff enough to just lock in place. If I wanted to, sleeping while standing was utterly possible.
+
+I didn't have time to waste, however. Torix glanced over my shoulder at the bones on the floor,
+
+"Ahh, it looks rather malevolent...I quite like the design you're going for. What inspired it?"
+
+I shrugged, "Eh, some card games and other stuff from way back in the day...Is it time to head out?"
+
+Torix nodded, "Yes." He steepled his fingers,
+
+"We'll show them the might of the Harbinger and his legion, one broken bone at a time."

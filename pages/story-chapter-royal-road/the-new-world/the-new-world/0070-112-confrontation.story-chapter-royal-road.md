@@ -1,0 +1,363 @@
+---
+id: d665d437-b515-54f2-907d-1301c63be6f9
+page-type-slug: story-chapter-royal-road
+title: "112 Confrontation"
+slug: 0070-112-confrontation
+partOf: the-new-world
+position: 70
+ownLength: 5003
+unit: words
+ownProgress: 5003
+publishedAt: 2018-04-17
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/208983/112-confrontation"
+royalRoadId: "208983"
+markedReadAt: "2026-06-29T21:23:15.138Z"
+---
+
+I tapped one of my fingers on the armrest of my chair,
+
+“Why do you need her, and what do you intend to do with her exactly?”
+
+Yawm steepled his fingers, “It begins with a story from my past. At one point, I was an avatar for Etorhma. I was someone he chose to enact his change onto this world. This may sound like a blessing, but I assure you, it was a curse.”
+
+Yawm tilted his head, “In this case, I executed several very difficult missions for Etorhma. Etorhma granted me knowledge of the cipher in exchange for my deeds. At the time, I served as a breaker for Schema already.”
+
+Yawm spread one hand out,
+
+“On one hand, I hid my knowledge of the cipher from Schema. On the other, I hid my fight against the Old Ones from Etorhma. You see, that is Schema’s ultimate aim. He wants someone who can destroy the Old Ones for him. They are one of the few things left that can oppose Schema. As you already know, Schema does not tolerate threats.”
+
+Yawm pressed his fingertips together again, then pointed them at me,
+
+“If what I’ve assumed is correct, then you are following my footsteps. Schema is preparing you to take on this role of a Fringe Walker. Then, he’ll task you with slaying the Old Ones, just as he tried doing with me.”
+
+Torix gasped, and a shiver crawled up my spine. It felt like we opened Pandora’s box by talking with Yawm. It was like Schema was a magician, and Yawm was letting us peak behind the curtain of his grand show. Still, I grounded myself by biting my lip. The taste of blood focused my mind, letting me stay skeptical.
+
+Yawm shook his head, “As you may already imagine, this isn’t the most tantalizing of tasks.” Yawm locked his eyes with mine,
+
+“Schema will force it on you, just as he tried forcing it upon me. I broke free from those bonds, but I sacrificed everything to do so. I don’t want you to make that same sacrifice.”
+
+I narrowed my eyes, “I still don’t understand why Althea is necessary.”
+
+Yawm raised his hands, “The reason is she can harm even old ones with her attacks.”
+
+Torix spread out his arms, “How is that even possible? She can’t even defeat Daniel.”
+
+Yawm’s eyes narrowed and I glared at Torix. Torix was the one that told me not to tell Yawm anything. It wasn’t the best sign that he wasn’t sticking to his own advice.
+
+Torix turned towards me, “I’m sorry, Harbinger. I was caught up in the moment.”
+
+Yawm nodded, “You’ve fought against her then? You no doubt understand how dangerous her abilities are. She ignores any kind of resistance, and she can return from the dead, at least within a certain time frame. That and her eldritch side makes her very useful.”
+
+Yawm stared at me, “She is the only being I’ve created that can stay stable even with eldritch energy flowing through her. Everyone else deforms. Some slowly at first, but they all fall over in the end. Even my followers...”
+
+Yawm shook his head, continuing with sadness leaking into his voice, “Even though they offered everything to me, I could not keep them stable.” He glanced at me, “That is partly why I am not as angered by their deaths as you may have envisioned. They’re lives were ones of tremendous discomfort.”
+
+I raised my eyebrows, “Discomfort?”
+
+Yawm sighed before leaning back in his chair, “I suppose that was a lighter way of wording it. Let’s use agony instead. Regardless, they each let me try my experiments of their own free will. I did not force a thing upon them, not even Ajax.”
+
+Yawm looked out of the room, “He was...a mistake. He was drunk off the idea of power, but he never understood the vastness of his undertakings. He wanted so much, but he was unwilling to sacrifice, whether it be time or effort.”
+
+I grimaced, “Kind of like how you sacrificed this city here for a bit of safety?”
+
+Yawm snapped his eyes towards me. After a tense moment of silence, he spoke,
+
+“Can you tell me that you have not sacrificed others so that you may live?”
+
+I gritted my teeth. I remembered Michael and Kelsey. I remembered the freedom fighters.
+
+Yawm nodded, “Indeed, I believed it to be the case. I do not pretend as though I am some saint, but I am not evil either. Most of the planets I’ve hid on weren’t even populated. They were planets smothered with eldritch.”
+
+Yawm leaned towards us, “So yes, I did need some safety before I could fully recover the dimensional leap. You’ll notice the quarantine your species put up was never broken. That is no mere coincidence. I informed my followers never to break Schema’s quarantines. I didn’t want all the life of a planet to die just for my own life.”
+
+Yawm gestured his hand sideways in a mock bow, “I am a selfish creature that wants to live. You may fault me for that. Know that I would never have resorted to such brutality if not for Schema’s interference.”
+
+Yawm sighed as he leaned back up, “I’ve always set up my bases on fringe worlds. I stopped doing so after Schema glassed the first few planets I landed on. You’ll also notice that there have been no new experiments since Althea. Do you want to know why?”
+
+Torix and I stayed silent. Yawm crossed his fingers, “Because I culled every member of my army in order to root out traitors. That and the members overseeing Althea’s creation.” Yawm pinched between his eyes and closed them.
+
+“They sent the only survivor of the tears experiment away. For what?”
+
+Yawm thumped his head with each word, quaking the room,
+
+“To...Hunt...Bounties...” Yawm shook his head in disgust, “The incompetence.”
+
+I leaned over, talking to Torix, “I wonder if he could handle talking to Hod.”
+
+Torix shook his head, “Hmmm...Interesting question. I doubt he could.”
+
+Yawm glanced up at us, “Who is Hod?”
+
+I shrugged, “He’s a friend.”
+
+Yawm nodded, leaning back into his chair. The sense of control and calm came back as he grabbed the side of his neck and pulled. After it cracked, he shook his head and crossed his fingers. He gestured a hand to me,
+
+“So tell me Harbinger, what do you think of my proposition.”
+
+I was asking myself the same question. I turned, looking at Torix. Torix sighed at me, like he was at a loss. I turned back to Yawm, having the same feeling.
+
+The thing was, Yawm’s arguments made perfect sense. He was working towards enormous goals. In his mind, he justified his methods of achieving them with how much they would help. It was true that if he ever unlocked the eldritch gene or made Schema better, he’d be a savior.
+
+That was the problem though. Yawm’s results painted a different picture. The plague he set out murdered thousands. I needed to wean a bit more information from him about that before forgiving him. The followers chose to let him twist their bodies. Maybe that was true, but Ajax told it more like Yawm was holding his life for ransom.
+
+If anything, my gut told me that Yawm was full of shit and just trying to justify his insanity. That was my initial impression. Althea was not stable without my armor eating her excess mana. Otherwise she molded into a fumbling monstrosity. Even then, eldritch still attacked her. She was an example of Yawm’s methods failing.
+
+I raised an eyebrow, “So tell me, why did you create the world tree after coming here?”
+
+Yawm leaned against the arm of one of his chairs, “As you may imagine, creating a rip in dimensional fabric consumes an enormous amount of mana. Ajax is far too weak to create this level of energy, therefore I am the one who offers it. Once I arrived on earth, I go into a coma within a world tree. I ask the world’s life to give me excess strength.”
+
+Yawm waved his hand, “It’s how I recover after such arduous travel.”
+
+I nodded, “Alright then. Why do you believe that Althea is the hidden link to the eldritch?”
+
+Yawm spread out his hands, “Because she generates eldritch mana within her body. If we can alter her physical structure to sustain itself with that mana, then we’ve created an eldritch. That is a pivotal step to bridging the gap between us.”
+
+My stomach sank at the thought of Yawm getting his hands on her. Althea mentioned hearing voices whenever her mana was engulfing her. Hod mentioned the same thing. Based on what they said, it sounded like the eldritch mana just hadn’t had time to eat them from the inside yet.
+
+Besides for that, my armor devoured eldritch mana like it was nothing. If Yawm knew that my armor could handle eldritch mana, he might try and fuse our DNA’s. Either that or something even worse.
+
+In my head, I winced at the thought. On the outside, I kept a cold, calculating expression. I leaned towards Yawm, acting as if I was in control of the situation,
+
+“What makes you think that someone producing eldritch mana will retain their minds?”
+
+Yawm raised an eyebrow, “What do you mean?”
+
+I gestured a hand outwards, “I know other creatures that live off of eldritch mana.”
+
+Yawm grabbed the armrests of his chair, crushing them to powder, “You found other beings existing with eldritch mana?”
+
+I nodded, acting casual as I stared at my fingernails, “Indeed I have. Many of them, in fact. There’s something they all have in common.” I turned towards Yawm,
+
+“All of them struggle with voices in their heads. If they ever slip up, those voices consume them, turning them into an eldritch. In all honesty, they would have all been consumed without my help already. If anything, that makes me think this is a doomed cause.”
+
+Yawm tilted his head, “Not only do you know of other half-eldritch, but you understand how to help them as well...I must admit, I’m impressed.” Yawm leaned his chin against one of his hands,
+
+“I’m quite curious about your past and what you’re doing on this world. I’ve answered many of your questions. Why don’t you answer a few of mine.”
+
+I shrugged, “I’ll see what I can do.”
+
+Yawm pointed at the dimensional cipher on my forearms, “Where did you learn those characters?”
+
+I looked at my forearm, “From an eldritch.”
+
+Yawm’s eyes widened, “They’re remarkably well made. What was the eldritch doing with the runes?”
+
+I shrugged, “I honestly don’t know.”
+
+Yawm pointed at my armor, “What is this armor? It feels...odd.”
+
+I raised a hand. The armor molded on it, shifting into sharpened spines from the tips of my fingers.
+
+“It’s not armor. It’s my skin.”
+
+There was a hint of hunger in his voice,
+
+“Interesting. Would you mind if I took a sample of it.”
+
+I set my hand down on the armrest, “Yes, just as you would mind if I took a piece of your skin from you.”
+
+Yawm tapped his fingers against his armrest, “Perhaps one day then.”
+
+“Perhaps. I have another question. Would you teach me the dimensional cipher?”
+
+Yawm nodded, “I would teach all that I know, for a price.”
+
+I raised an eyebrow, “What exactly?”
+
+Yawm pointed at me, “There are many things I would like from you. I want Althea back in my possession. The half-eldritch would be quite interesting as well. Running comparisons between the two could be quite lucrative. Those are the most compelling offerings you have. Outside of that, however-”
+
+Yawm spread out his hands, a bit of greed and envy leaking out from his voice,
+
+“I’d like a sample of your armor. Perhaps a copy of the runes you learned the cipher from, and also the dimensional spear you took from Ajax.”
+
+The carefully crafted mask Yawm wore was peeling off. There was an edge in his voice, something primal and animalistic. His patience was wearing thin. He tried convincing me with words. After seeing that tatic fail, he was readying himself for a fight.
+
+I raised an eyebrow, “I never stole the spear. I simply restrained Ajax.”
+
+“Really now? How did you hold down someone who can walk on other planes?”
+
+I shrugged, “That’s something you won’t know until I disclose it. Besides, you had a very long list of stuff you wanted. That’s quite a bit to ask for, isn’t it?”
+
+Yawm laughed, “Hah, hah, hah...Do you believe that your in any position to refuse?”
+
+I knew it. The civil, gentleman persona was gone. The real Yawm beneath it was coming out.
+
+I grinned, “In fact, I do.”
+
+Torix stared at me, a look of horror spreading over his face. He raised a hand, “There’s no need for this.”
+
+I raised a palm to him, “Silence.”
+
+Torix leaned back, a look of surprise on his face. He almost spoke again, but I locked eyes with him. Torix closed his mouth and lowered his hands. I turned back to Yawm. I stood from my chair. If this was going to work, I needed absolute confidence.
+
+I had two factors that Yawm couldn’t match, even with his just ridiculous level. The first was my mana generation. With my armor and endurance, he wouldn’t match it. Combine that with bonus mana from Event Horizon, and I could put on quite the show.
+
+As Yawm stood from his chair, he looked down at me. He raised a hand,
+
+“Now tell me this. Did you see what I did to the legion attacking my world tree.”
+
+Around Yawm, a green aura formed. Tiny particles around us popped midair, releasing enormous bursts of radiation. Within his palm, the radiation condensed into a green sphere. Yawm glanced at it,
+
+“Now imagine this, Harbinger. I give you two options. Either I force this down your throat, or you can tell me what I want to know and do what I want you to do.”
+
+I looked down, ramping up my mana generation. With a gradual pour, I channeled my mana from the runes on my forearms into my armor. The red aura spread, filling into my runes. Once they saturated, I looked up at Yawm.
+
+Yawm laughed, “Hah, you intend on fighting me with the watered down remnants of the cipher? Laughable.”
+
+I clasped my hands into fists. I ramped up the mana generation. At first I doubled it. Then I doubled it once more. Arcs of lightning shot across the room, singing the white panels of the room.
+
+Yawm grabbed the sphere of green energy in his palm, “Now this is much more interesting.”
+
+Once more, I doubled the mana generation. It was time to pull my last wild card. With how my armor worked and how much extra mass I had, I might outweigh Yawm. As I did, I pulled in the aura dispersing my weight. My weight increased along with my mana generation.
+
+At the same time, I reached out with event Horizon. Once my mana generation reached its apex, cracks formed under my feet beneath me. This was where the act’s main event came into play.
+
+The runes along Yawm’s skin glowed green, his own mana filling into the carvings. He raised a hand, excitement building in his voice,
+
+“It’s been many years since I’ve seen a warrior generate this level of energy. I might actually get some exercise from crushing you.”
+
+As we both amplified our energies, hordes of the lake’s fish came closer. Attracted to the light, they hoarded around us. I reached out with Event Horizon, avoiding Yawm and Torix. I covered the surrounding swarms of fish.
+
+Event Horizon drained from hundreds of them. As it did, my own mana generation increased. First it doubled, then tripled. It increased higher and higher, creating a tangible discharge around me.
+
+I condensed the aura of energy, the cloud of mana thicker than water. I kept increasing the output until my hands shook with an unrestrainable fervor. Without the mana having runes to fill into, it coursed through my own viens. The power was adrenaline, giving me a euphoria. I felt invincible, even though I understood that I wasn’t.
+
+Reigning that in took all I had as I turned towards Torix,
+
+“Leave.”
+
+Torix reached out a hand towards me. He sent a message,
+
+(Torix Worm, of Darkhill, 3:01 P.M. 1/15/01) - What are you doing?
+
+Using the mental functions of Schema, I sent back a message,
+
+(Dimension C-138, 3:01 P.M. 1/15/01) - Making Yawm think I am much stronger than I am. I already have a plan. Leave.
+
+Torix bit his lip, before turned and walked into a shadow portal. I turned back to Yawm, standing my full height. I raised a hand to him,
+
+“I’ll let you have the first hit.”
+
+Yawm raised an eyebrow, “If you are so inclined to destruction, allow me to act as your destroyer.”
+
+He reared back a hand. An aura of green formed around us, soaking the area with radiation. The sensation burned, like I was standing in a microwave. Around us, the green coalesced into Yawm’s fist, taking the green aura with it.
+
+Another aura of green siphoned into his fist. As it did, the energy cracked with a sound like shearing iron. Yawm stepped forward,
+
+“Let’s see if your abilities are worth your confidence.”
+
+His fist went forward, and I didn’t see it. The movement was too fast and too quick. The fist slammed into my chest in a flash of green light. A wild smile was on my face. Your thinking I’m insane at this point. That was at least partially true. Without anything to channel into, my mana was instilling a sense of abandon in me.
+
+That was part of why I was so confident this would work. I had a tree called Invincible. Here’s what it said.
+
+Invincible(Tier 5) - Only 70% of your total health may be deducted from any single attack. Any damage received over 70% of your total health will not do damage. Instead, it will be added to your next attack as flat physical damage. This flat damage is affected by your physical damage multipliers.
+
+This meant that I was guaranteed to survive the first strike from Yawm. The second strike? Not so much. From what I’d seen of Yawm though, I doubt he thought he would have to strike more than once. After taking the brunt of his attack, I would heal using the surrounding wildlife. Once that finished, I would retaliate with everything I had using the damage bonus from invincible.
+
+Once he took that single attack, I’d negotiate using Ajax. If this worked out like I planned, Yawm wouldn’t believe we were at his mercy anymore. That was the main problem with our plan so far. If Yawm took me and restrained me until Ajax needed him, Yawm could do so without a problem. It was a terrifying prospect.
+
+Ajax would come back, and we would be tools for Yawm to use for whatever he wanted. That was the problem with relying on Ajax immediately. Yawm would know that we were no match against him. I needed to trick Yawm into thinking I was a match for him, even if it took some bullshit tactics to do so.
+
+So that’s exactly what I did. Relying on the system, I took the brunt of Yawm’s attack. If I told you it hurt, I’d be lying. If anything, I didn’t feel a thing. My body was wrecked beyond belief. It was obvious that he would one shot me with a charged attack like that. I honestly thought I died from the attack, and my conscious was just floating in the afterlife.
+
+That wasn’t the case. My status screen was still around me. I looked at my health bar. 30% was still left. The light from Yawm’s attack still hadn’t faded though. Whatever he did to our surroundings, the lake was still there, along with all the fish. Like a giant health sponge, I soaked up their energy, rebuilding my body.
+
+My hands, eyes, hell, even my brain all came back before I stood in the blinding light. As I did, a sense of extraordinary strength filled me. It was like all that damage I took was charged into my fist, turning it into a nuclear warhead. The light faded over the next few seconds, revealing the decimated room.
+
+Around me, a forcefield of green encapsulated the destruction. Every particle of matter within the room had disintegrated into nothingness. Outside of the shield, a plume of white dust filled the air of the room, blocking Yawm’s vision. I could only see his palm making contact with the forcefield. From what I could guess, he locked me in some sort of anti-matter field.
+
+I was on the other side opposite to Yawm. From him hitting me, I was blown away. Before the dust particles cleared from the outside of the room, I lifted a hand. I suspended myself with gravity magic, floating just in front of Yawm’s palm. With all the might of Yawm’s overkill amplifying my strength, the green capsule of energy faded.
+
+I landed beside Yawm, my feet cracking the white ground. My entire frame shook at the energy being held within. It took all my willpower to stay calm, but I somehow spoke with nonchalance,
+
+“Was that it? My turn.”
+
+I torqued on my heels, discharging my runes and lining up all my skills. Adding every little bit that I could to the attack, I discharged 50% of my health with the strike. The mana electrocuted the nerves in my hand, numbing them. My fist propelled forwards, the white dust in the room dispersing as my fist smashed into Yawm’s stomach.
+
+The metal bone at the center of my arm crumpled on impact. The shockwave dispersed through the room, tearing the ice apart. The shockwave kept destroying the space around us. The water waved outwards, the lake splitting down the middle. Above us, a wave of wind shot outwards.
+
+Trees bent, nearby ones snapping like twigs. Boulders were sent flying. Floating islands were pushed away and aside as a cloud of dust ebbed outwards. My entire body broke, skin rupturing as my body held together by a string. Blood dispersed from my broken arm and mouth, tearing me apart. Tears poured down my cheeks, my body crying for no reason.
+
+I blinked again. A sheen of gray covered my vision. I wasn’t crying. My eyes were bleeding. After shaking that feeling off, I looked in front of me. Like all my other strikes, I shot my fist into a telekinetic pad, firing a telekinetic bullet into Yawm. It landed on his stomach. It punched a hole through his chest and out his back.
+
+Yawm was keeled over by the monstrous attack. There was no floor beneath us, not even water below that. My attack managed to disintegrate everything around us. Before we both fell downwards, I raised a hand, suspending us with gravity. Carrying both us took a bit of mana, but I still regenerated through it.
+
+The water of the lake still hadn’t returned from my attack. Yawm floated with green blood dripping from his chest. He looked up at me, both his fists clasping with strength still in him,
+
+“Incredible...To think such a warrior was sitting here in a backwater world on the fringes of Schema’s domain.”
+
+I left my helmet over my face. Otherwise he would see all the blood. I focused all my healing onto my broken arm, pulling it together. I lifted it, clasping it into a fist. I tried speaking, but blood clogged my throat. I swallowed a mouthful of blood, then another before speaking,
+
+“I pray I made my point clear.” I leaned towards Yawm, “I do not fear you, Yawm. It is you that should fear me.”
+
+The entire time, my hands and feet were shaking. My arms shivered. Beneath this mask, there was a deep fear. Yawm disintegrated me. How Schema kept me alive, I don’t really know. The fish around us were gone, tossed ashore from the impact of my strike. Without their health pools, I wouldn’t be able to get back on my feet should this fight continue.
+
+Despite that, I kept my voice firm and my face strong. Even if I felt like falling over, I wouldn’t let Yawm know that. Even if I had weakness, I wouldn’t reveal it to him. I would hide it, making him believe I could call upon this strength at anytime.
+
+Yawm lifted himself up, spreading out his arms, “Hah, hah! Incredible. Just incredible.”
+
+Around him, the green aura formed once more. It coalesced over his stomach. The radiation condensed back into flesh, healing him in seconds. Yawm turned around. He lifted a hand. A wave of green energy came in from all around us once more. As it did, it carried the water and fish of the lake.
+
+The water sloshed into the empty lake beneath us before Yawm spread his arms wide. He pulled them together. As he did, the castle of ice formed once more. Within seconds, the room of white materialized around us. The effect occurred fast, so fast that it was surreal. It felt like he was reversing time almost.
+
+With the same view of a lake overhead, Yawm turned towards me. By now, my body regenerated in full. I even absorbed the blood off my body, making me look unharmed. Beneath the surface, my mind was still shaken. It’s kind of like running in front of a train. It’s hard on the mind, even after the deed is done.
+
+Yawm raised a hand, frenzy pouring from his voice, “You strike with the power of a Sentinel! It’s remarkable. Come, we’ll go elsewhere for the rest of the battle.”
+
+I shook my head, raising a palm to him, “I didn’t come here to fight. I came here to show you that I fear no one, and that should you choose to battle me, I will retaliate. Besides for that, I wanted to learn the cipher.”
+
+Yawm’s shoulders bent down as he tilted his head, “Are you not a warrior?” He growled, “Do you not want a worthy battle?”
+
+All of the sudden, his warrior king background made sense. After the polite spill though, there was an odd dissonance hearing him speak. On one hand, Yawm was educated and intelligent. He had charisma and a principled approach to his life, albeit a twisted one.
+
+On the other hand, here was the monster within that destroyed worlds and deformed people for experimentation. Once the monster was out of its shell, it didn’t want to go back beneath the surface. If I didn’t reign it back in, Yawm would destroy me. I needed to use what Yawm told me against him.
+
+With all that flashing through my mind, I frowned as I spoke,
+
+“If you win that fight, then you lose Ajax. Without him, you’re trapped here, meaning you die once the planet is glassed. If I win that fight, then I lose your knowledge of the cipher. It’s a lose-lose situation, regardless of how good the fight is.”
+
+I raised a hand at Yawm, “You mentioned having all these grandiose goals, right? Words are cheap. Put some actual action behind them. I can help you if you help me, but if we keep fighting, we aren’t gaining jack shit. We’re just wasting each other’s time.”
+
+Yawm shook his head before sighing. He looked down at me, “That...That is understandable. Perhaps we could spar or exchange techniques at a later date. Keeping focused on the goals at hand is a more amicable course of action. A good fight can always wait.”
+
+It was like the scholar in Yawm was taking back over. Feeding into it, I nodded, “Then after you’ve taught me about the cipher, I’ll release Ajax to you. If you show me what and how your fighting, I can give Althea to you too. Is it a deal?”
+
+Of course I had no intention of doing so, but Yawm would be none the wiser. I put out a hand, gesturing him to shake it. He stared at my hand, then back up at me,
+
+“What is this?”
+
+I looked at my hand, “Uh, it’s a handshake.”
+
+Yawm raised out his hand.
+
+“What does it symbolize?”
+
+“A deal. It’s like giving your word in a conversation.”
+
+“Ah, it’s an informal agreement between two parties.”
+
+I frowned, “I guess so.”
+
+Yawm shook his hand about furiously.
+
+“Like this?”
+
+I laughed for a moment before grabbing his massive hand. Two of his fingers wrapped around my wrists as I said, “No, this is how its done. You want to keep it firm, but not crushing the other person’s hand.”
+
+Yawm used his free hand to grab his chin,
+
+“Ah, I see. Excuse me if I dishonored your customs.”
+
+I shook my head, laughing a bit. It was a nervous laugh more than anything. Here was some god of destruction messing up a handshake. It was refreshing seeing Yawm turn mortal, if even for a moment.
+
+I shook my hand, “You’re fine. It’s not some huge insult or anything. Now can we learn the cipher this time?”
+
+Yawm nodded, lowering his hand,
+
+“I hope you’re unlike the others I’ve tried teaching before.”
+
+“Uh, what do you mean?”
+
+Yawm glanced up, “Certain minds cannot handle the realities of the cipher. The dimensional cipher acts like an abyss. A quick glimpse stretches the mind. If you stare deep enough into it, however, then it will stare back into you. As you use the cipher, it will change you, just as it changes the reality around it.”
+
+His voice turned as hard as iron as he spoke, “Are you ready then?”

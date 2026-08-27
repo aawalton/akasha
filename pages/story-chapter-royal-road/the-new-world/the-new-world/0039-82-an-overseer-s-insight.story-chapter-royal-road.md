@@ -1,0 +1,81 @@
+---
+id: 679bb87b-5d89-56b4-869a-c8025586c004
+page-type-slug: story-chapter-royal-road
+title: "82 An Overseer's Insight"
+slug: 0039-82-an-overseer-s-insight
+partOf: the-new-world
+position: 39
+ownLength: 1176
+unit: words
+ownProgress: 1176
+publishedAt: 2017-11-30
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/177387/82-an-overseers-insight"
+royalRoadId: "177387"
+markedReadAt: "2026-06-29T21:22:07.255Z"
+---
+
+I raised my hands, “Woah now, these aren’t eldritch. They’re the species that lived here before. The dungeon core was stopping them from turning into monsters.”
+
+The overseer lowered his hand. He opened and fiddled with his status screen, “Hmmm. These creatures are not fully eldritch or fully sentient either. That one there-” He pointed at Hod, “He seems like an anomaly similar to Althea.” The overseer lowered his hand,
+
+“Keeping multiple anomalies within your vicinity is an excellent way to die early and in a painful manner. His physiology also aligns with Yawm’s current goals for an eldritch, flesh hybrid. Yawm will chase after you even more so after discovering him. Why not dispatch of the thing?”
+
+I shrugged, “The same reason we didn’t dispatch Althea. He’s trying to help us out, and he’s not some terrible, evil monster. I honestly don’t get the whole, ‘destroy anything that Yawm wants’ goal you guys have.”
+
+The overseer kept fiddling with his screen before closing it and turning to me, “Do explain.”
+
+“Humans have a saying that describes it perfectly; an ounce of prevention is worth a pound of cure. It basically means stopping something before it happens is a hell of a lot better than fixing it after the fuck up. Killing Yawm is the solution, not trying to find and slay all the anomalies like Althea or Hod.”
+
+I raised my hands, “I mean if you think about it, I’ve already found two people that fit his requirements. Surely there’s more out there. Finding all of those people sounds like a much more difficult goal than just beating his ass anyways.”
+
+The waved his hand, dismissing me, “No. You underestimate the threat that Yawm poses. Schema has personally stopped me from doing battle with him. The reason was that the threat of my termination was too great a risk. That is how powerful Yawm is. You may become like Yawm one day, but he has had centuries to hone himself into what he is now.”
+
+I frowned, “Why are we even being tasked with doing something like this?”
+
+The overseer raised a hand, “There is something you must understand, Harbinger. Schema took a calculated risk with letting you leave BloodHollow so long ago. Most people trapped within the system are limited by it. They need it for progression and for their livelihoods. You, well, you are an exception.”
+
+He glanced at my status, “Unlike other players within Schema’s system, you’re pattern of growth isn’t decided by levels. That armor of your, the augment to your soul, whatever it really is, it’s growth is independent of Schema. He doesn’t appreciate sources of growth outside his system.”
+
+He pointed up, accentuating his point “That was one of the key reasons out of many for why he banished the remnants for gene splicing. That is why he dislikes the necromancer, because he can build an army independently of Schema’s own growth. That is why schema dislikes you as well.”
+
+He pointed the raised finger at me, “The difference between you and the others, and why Schema allows you to benefit from his system, it is all due to the nature of your growth. The growth happens to align with Schema’s own goals. Destroying eldritch and their rifts.”
+
+He glanced at the Eltari, “This turned you from an agent of chaos into a sword for Schema. You use the resources he allots better than others of the same level. You can handle monsters far stronger than your designated level through a combination of that…thing on your skin, and your own ingenuity. So far, Schema is quite pleased with you.”
+
+The overseer raised a finger, “That’s the reason that Schema has allowed your friend over there to live as well. She owns many gifts that set her apart from the norm. His calculated risk is paying off. You’ve taken the same role as Yawm had, but you own that armor as well. Defeating him will be possible without wasting resources.”
+
+I frowned, “Wait, what do you mean the same role as Yawm?”
+
+The overseer opened a palm towards me, “Simple. The paragon of a species. All the benefits you’ve received that are…unique, such as the obliterator trees or the genesis of potential tree, Yawm gained those as well. He was the champion of his species after all. There was a time where he too received the blessings of Schema.”
+
+My stomach sunk. Here I thought I was closing in on Yawm when all I was progressing as he had. The difference was that my armor helped me. He was a warrior king, which allowed him to do the things he accomplished.
+
+The overseer glared at the Eltari, “The issue comes with why we should grant the same blessings to these mongrels. They are infested with eldritch. It’s deep within them. That one there. Hod you called him, correct? He could potentially become another Yawm if his own motives are derailed.”
+
+Hod walked up, “Hod not understand bringer of cataclysm. Hod not Yawm. Hod is Hod! Hod not want derailed motives. Hod want good food and good friends. Hod have those, and Hod protect food and friends. Hod not monster. Hod nice and smart. Most of all, Hod handsome.”
+
+The overseer opened his status screen, analyzing the Eltari. He sent a message before tapping his finger against his side, “Then I will message Schema directly and check on his response.”
+
+A painful, tense set of seconds passed over us before the overseer fiddled with his status screen once more, “Surprising. The Eltari have quite a history behind them, don’t they?”
+
+I nodded, “I think Schema wanted to eliminate them because they understood the eldritch runes.”
+
+Steam leaked from one of the hydraulics of the overseer, “The same eldritch runes that Baldag-Ruhl used?”
+
+I shrugged, “It’s a working theory.”
+
+The over seer stared at them, no face to give away his thoughts. He turned back to me, “They understood those runic inscriptions?”
+
+I nodded, “Only two of them.”
+
+The overseer continued, “Amazing. I never would have imagined they’d have conquered something so complex. The universe is an unending series of surprises I suppose.”
+
+The red status screen appeared in front of the overseer before he read it over for a few minutes. We passed the time in awkward sort of limbo. As the tension became unbearable, the overseer spoke,
+
+“Schema has decided to allow it as long as certain circumstances are met. The Eltari are to never practice or hold records of the practice of the eldritch runes. They are to accept the assimilation of the system, and guarantee their cooperation with slaying Yawm. If Yawm is killed, they will have yearly quotas to reach for slaying of eldritch and clearing dungeons.”
+
+I clapped my hands together, “Hell yeah. That’s what I’m talking about.”
+
+The overseer closed the status screen before pointing beside himself. He pressed his fingers together before pulling them apart. A rupture in dimensions formed, showing the mountain top of the dungeon’s entrance. The overseer turned to us,
+
+“Coming?”
