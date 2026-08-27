@@ -2,7 +2,7 @@ import { describe, expect, test } from "bun:test"
 import { mkdtempSync, readFileSync, rmSync, writeFileSync } from "node:fs"
 import { resolve } from "node:path"
 
-const HERE = resolve(import.meta.dir, "../..")
+const HERE = resolve(import.meta.dir, "../../..")
 
 const INSTRUCTIONS = process.env.INSTRUCTIONS_ROOT ?? resolve(HERE, "..", "instructions")
 
