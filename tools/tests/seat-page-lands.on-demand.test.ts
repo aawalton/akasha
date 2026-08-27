@@ -5,11 +5,16 @@ import { indexFixture, namedIn, seatStore } from "./seat-fixture.ts"
 
 const SEAT_COMMAND = `${import.meta.dir}/../seat.ts`
 
+// WHERE THE CODE IS, as against where the pages are. `AKASHA_ROOT` names the fixture, and
+// `tools/lib/code-import.ts` resolves a command's own module against `codeRoot()`, which answers
+// the akasha root unless `CODE_ROOT` names another — the fixture holds no `node_modules`.
+const LIVE = `${import.meta.dir}/../..`
+
 const AGENT = "3f2a1b4c-5d6e-7f80-9a1b-2c3d4e5f6071"
 
 function statedIn(at: Fixture, args: readonly string[]): { code: number; out: string; err: string } {
   const run = Bun.spawnSync(["bun", SEAT_COMMAND, "--agent", AGENT, ...args], {
-    env: { ...process.env, AKASHA_ROOT: at.root, HOME: at.home },
+    env: { ...process.env, AKASHA_ROOT: at.root, CODE_ROOT: LIVE, HOME: at.home },
   })
   return { code: run.exitCode, out: run.stdout.toString(), err: run.stderr.toString() }
 }
@@ -42,7 +47,9 @@ describe("what one statement leaves in a fixture", () => {
       const page = pageIn(at, "athena")
       expect(page).toContain(`id: ${AGENT}`)
       expect(page).toContain("persona-slug: athena")
-      expect(page).toContain("domain-slug: global")
+      // `seat-domain-slug` is a `relation-address` property, so what is written is the address
+      // `domain/global` rather than the bare slug the flag was given.
+      expect(page).toContain("domain-slug: domain/global")
       expect(page).toContain("role-slug: definer")
       expect(page).toContain("person-slug: alan")
       expect(page).toContain("start-mode: headless")
