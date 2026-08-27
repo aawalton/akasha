@@ -1,3 +1,4 @@
+import { statusOfShape } from "../../file-structure/folder-shape/folder-shape.ts"
 import type { Declared } from "./page-declared.ts"
 import type { Held } from "./page-file-values.ts"
 import type { Reached } from "./page-reach.ts"
@@ -7,6 +8,8 @@ import { type SeatPresence, statedProcessPresence } from "./seat-proc-key.ts"
 const SUPERVISOR_PROCESS = "supervisor-process"
 
 const TITLE = "title"
+
+const SLUG = "slug"
 
 const PRESENCE_HELD: Readonly<Record<SeatPresence, Held>> = {
   present: "true",
@@ -44,6 +47,14 @@ const CODE_VALUES: ReadonlyMap<string, CodeValue> = new Map<string, CodeValue>([
         for (const [key, one] of from.declared.get(on) ?? [])
           if (!found.has(key)) found.set(key, one.slug)
       return [...found.values()].sort()
+    },
+  ],
+  [
+    "folder-shape-status",
+    (page) => {
+      const slug = page.values[SLUG]
+      if (typeof slug !== "string" || slug === "") return null
+      return statusOfShape(slug)
     },
   ],
 ])
