@@ -1,4 +1,5 @@
-import { listOf, type Row, textOf, type Values } from "../page-query.ts"
+import { type Row, type Values } from "../page-query.ts"
+import { listOf, textOf } from "../page-query-values.ts"
 import { PENDING } from "./statuses.ts"
 
 export interface Pipeline {

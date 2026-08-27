@@ -13,7 +13,8 @@ import {
   puzzleToRow,
 } from "../../lib/chess-puzzle-lichess.ts"
 import { patchRows } from "../../lib/page-rows-write.ts"
-import { load, textOf } from "../../lib/page-query.ts"
+import { load } from "../../lib/page-query.ts"
+import { textOf } from "../../lib/page-query-values.ts"
 import { resolveRoots } from "../../../repo/roots/roots"
 
 const CHESS_PUZZLE = "chess-puzzle"

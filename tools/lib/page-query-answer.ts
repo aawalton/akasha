@@ -1,4 +1,14 @@
-import { answer, answerNamed, namedQuery, type PageQuery, queryFrom, queryNames, statesBoth, UNREACHED, whole } from "./page-query.ts"
+import {
+  answer,
+  answerNamed,
+  namedQuery,
+  type PageQuery,
+  queryNames,
+  statesBoth,
+  UNREACHED,
+} from "./page-query.ts"
+import { queryFrom } from "./page-query-fields.ts"
+import { whole } from "./page-query-whole.ts"
 import { absentSays, bind, composedFrom, isRefused } from "./page-query-bind"
 import { pagesNaming } from "./page-query-naming.ts"
 import { shapeOf } from "./page-query-shape.ts"

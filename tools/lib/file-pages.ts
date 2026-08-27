@@ -1,4 +1,5 @@
-import { answer, type Row, textOf, UNREACHED } from "./page-query.ts"
+import { answer, type Row, UNREACHED } from "./page-query.ts"
+import { textOf } from "./page-query-values.ts"
 import { resolveRoots } from "../../repo/roots/roots"
 
 export class PagesUnread extends Error {

@@ -1,7 +1,8 @@
 import { InputError } from "@shared/errors-core/exit"
 import { readFilePages } from "../../../../tools/lib/file-pages.ts"
 import { resolveRoots } from "../../../../repo/roots/roots"
-import { listOf, type Row, textOf } from "../../../../tools/lib/page-query.ts"
+import { type Row } from "../../../../tools/lib/page-query.ts"
+import { listOf, textOf } from "../../../../tools/lib/page-query-values.ts"
 
 export interface MobileApp {
   readonly slug: string

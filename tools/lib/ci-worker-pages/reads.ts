@@ -1,11 +1,5 @@
-import {
-  answer,
-  listOf as listIn,
-  type Row,
-  type Test,
-  textOf as textIn,
-  UNREACHED,
-} from "../page-query.ts"
+import { answer, type Row, type Test, UNREACHED } from "../page-query.ts"
+import { listOf as listIn, textOf as textIn } from "../page-query-values.ts"
 import type { Roots } from "../../../page/page"
 import { PIPELINE, STEP } from "../sweep-pipeline-pages/statuses.ts"
 import {

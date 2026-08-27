@@ -1,7 +1,8 @@
 import { afterAll, describe, expect, it } from "bun:test"
 import { mkdirSync, mkdtempSync, rmSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import { answer, textOf } from "../lib/page-query.ts"
+import { answer } from "../lib/page-query.ts"
+import { textOf } from "../lib/page-query-values.ts"
 import type { Roots } from "../../page/page"
 
 const page = (lines: readonly string[]): string => `---\n${lines.join("\n")}\n---\n`

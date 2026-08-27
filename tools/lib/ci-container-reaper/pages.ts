@@ -1,4 +1,5 @@
-import { answer, type Row, textOf } from "../page-query.ts"
+import { answer, type Row } from "../page-query.ts"
+import { textOf } from "../page-query-values.ts"
 import type { Roots } from "../../../page/page"
 
 const STEP = "step"

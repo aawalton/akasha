@@ -3,7 +3,8 @@ export const summary = "Query chess puzzles by motif AND difficulty (graded dril
 import type { CommandHelp } from "../../ops/surface.ts"
 import { dataError } from "../../lib/exit.ts"
 import { parseArgs } from "../../lib/parse-args.ts"
-import { answer, listOf, type Test, textOf } from "../../lib/page-query.ts"
+import { answer, type Test } from "../../lib/page-query.ts"
+import { listOf, textOf } from "../../lib/page-query-values.ts"
 import { resolveRoots } from "../../../repo/roots/roots"
 
 const CHESS_PUZZLE = "chess-puzzle"

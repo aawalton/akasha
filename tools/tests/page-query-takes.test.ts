@@ -1,5 +1,5 @@
 import { describe, expect, it } from "bun:test"
-import { queryOf } from "../lib/page-query.ts"
+import { queryOf } from "../lib/page-query-fields.ts"
 import { bind, isRefused } from "../lib/page-query-bind"
 
 function page(body: string): string {

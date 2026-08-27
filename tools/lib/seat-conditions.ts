@@ -1,4 +1,5 @@
-import { answer, textOf, type Values } from "./page-query.ts"
+import { answer, type Values } from "./page-query.ts"
+import { textOf } from "./page-query-values.ts"
 import { resolveRoots } from "../../repo/roots/roots"
 
 const NONE = "none"

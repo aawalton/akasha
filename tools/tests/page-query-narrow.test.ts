@@ -1,5 +1,5 @@
 import { describe, expect, it } from "bun:test"
-import { queryFrom } from "../lib/page-query.ts"
+import { queryFrom } from "../lib/page-query-fields.ts"
 import { bind, COMPOSED_FIELDS, composedFrom, isRefused } from "../lib/page-query-bind"
 
 function composed(where: unknown): ReturnType<typeof queryFrom> {

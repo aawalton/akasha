@@ -3,7 +3,8 @@ export const summary = "List chess games for review (filter by source / outcome)
 import type { CommandHelp } from "../../ops/surface.ts"
 import { dataError } from "../../lib/exit.ts"
 import { parseArgs } from "../../lib/parse-args.ts"
-import { answer, type Test, textOf } from "../../lib/page-query.ts"
+import { answer, type Test } from "../../lib/page-query.ts"
+import { textOf } from "../../lib/page-query-values.ts"
 import { resolveRoots } from "../../../repo/roots/roots"
 
 const CHESS_GAME = "chess-game"

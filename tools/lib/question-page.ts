@@ -1,7 +1,8 @@
 
 import { type GatedAct, landBodies } from "./gated-landing.ts"
 import { attachmentFileOf } from "../../page/attachment-file.ts"
-import { answer, type Row, textOf } from "./page-query.ts"
+import { answer, type Row } from "./page-query.ts"
+import { textOf } from "./page-query-values.ts"
 import { landingTextFor } from "./page-write-compose.ts"
 import { splitValues, type Value } from "./page-write-values.ts"
 import { AKASHA, resolveRoots, rootFor } from "../../repo/roots/roots"

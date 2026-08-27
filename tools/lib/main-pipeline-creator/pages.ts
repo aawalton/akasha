@@ -1,4 +1,5 @@
-import { answer, listOf, type PageQuery, type Row, textOf, UNREACHED } from "../page-query.ts"
+import { answer, type PageQuery, type Row, UNREACHED } from "../page-query.ts"
+import { listOf, textOf } from "../page-query-values.ts"
 import type { Roots } from "../../../page/page"
 
 export const MAIN_BRANCH = "main"

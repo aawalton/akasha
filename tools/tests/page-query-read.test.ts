@@ -1,5 +1,5 @@
 import { describe, expect, it } from "bun:test"
-import { queryOf } from "../lib/page-query.ts"
+import { queryOf } from "../lib/page-query-fields.ts"
 
 function page(body: string): string {
   return `---\n${body}\n---\n`

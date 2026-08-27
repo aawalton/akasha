@@ -1,7 +1,8 @@
 import { afterAll, describe, expect, it } from "bun:test"
 import { rmSync } from "node:fs"
 import { deriver } from "../lib/page-derive.ts"
-import { answer, NOW } from "../lib/page-query.ts"
+import { answer } from "../lib/page-query.ts"
+import { NOW } from "../lib/page-query-compare.ts"
 import { plantPages } from "./page-derive-fixture.ts"
 
 const { root, roots: ROOTS } = plantPages()
