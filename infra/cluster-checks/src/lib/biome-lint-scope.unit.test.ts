@@ -16,27 +16,26 @@ const CONFIG = JSON.stringify({
       "**/*.jsx",
       "!**/node_modules",
       "!**/*.config.js",
-      "!packages/apps/**/app/**/*.js",
-      "!packages/temper/addons/plugins/*.js",
-      "!packages/shared/supabase/database/src/generated",
+      "!temper/addons/plugins/*.js",
+      "!shared/supabase-database/src/generated",
     ],
   },
 })
 
 describe("globToRegExp", () => {
   test("**/*.js matches at any depth", () => {
-    expect(globToRegExp("**/*.js").test("packages/temper/web/public/sidebar-boot.js")).toBe(true)
+    expect(globToRegExp("**/*.js").test("temper/web/public/sidebar-boot.js")).toBe(true)
     expect(globToRegExp("**/*.js").test("root.js")).toBe(true)
   })
   test("single * does not cross a directory separator", () => {
     expect(
-      globToRegExp("packages/temper/addons/plugins/*.js").test(
-        "packages/temper/addons/plugins/tstl-no-multi-store.js"
+      globToRegExp("temper/addons/plugins/*.js").test(
+        "temper/addons/plugins/tstl-no-multi-store.js"
       )
     ).toBe(true)
     expect(
-      globToRegExp("packages/temper/addons/plugins/*.js").test(
-        "packages/temper/addons/plugins/sub/x.js"
+      globToRegExp("temper/addons/plugins/*.js").test(
+        "temper/addons/plugins/sub/x.js"
       )
     ).toBe(false)
   })
@@ -46,8 +45,8 @@ describe("globToRegExp", () => {
     expect(re.test("x/node_modules/pkg/index.js")).toBe(true)
   })
   test("a literal path prefix excludes everything under it", () => {
-    const re = globToRegExp("packages/shared/supabase/database/src/generated")
-    expect(re.test("packages/shared/supabase/database/src/generated/types.ts")).toBe(true)
+    const re = globToRegExp("shared/supabase-database/src/generated")
+    expect(re.test("shared/supabase-database/src/generated/types.ts")).toBe(true)
   })
 })
 
@@ -66,18 +65,18 @@ describe("parseBiomeIncludes", () => {
 describe("biomeLintsPath", () => {
   const includes = parseBiomeIncludes(CONFIG)
   test("a public sidebar-boot.js is linted", () => {
-    expect(biomeLintsPath("packages/temper/web/public/sidebar-boot.js", includes)).toBe(true)
+    expect(biomeLintsPath("temper/web/public/sidebar-boot.js", includes)).toBe(true)
   })
   test("a *.config.js is excluded", () => {
     expect(biomeLintsPath("vite.config.js", includes)).toBe(false)
   })
   test("a tstl plugin under the excluded dir is excluded", () => {
-    expect(biomeLintsPath("packages/temper/addons/plugins/tstl-no-multi-store.js", includes)).toBe(
+    expect(biomeLintsPath("temper/addons/plugins/tstl-no-multi-store.js", includes)).toBe(
       false
     )
   })
   test("a file under node_modules is excluded", () => {
-    expect(biomeLintsPath("packages/x/node_modules/dep/index.js", includes)).toBe(false)
+    expect(biomeLintsPath("x/node_modules/dep/index.js", includes)).toBe(false)
   })
   test("a .md file is not in lint scope", () => {
     expect(biomeLintsPath("docs/x.md", includes)).toBe(false)
@@ -89,15 +88,15 @@ describe("biomeEffectiveLintedFiles", () => {
     const includes = parseBiomeIncludes(CONFIG)
     const linted = biomeEffectiveLintedFiles(
       [
-        "packages/temper/web/public/sidebar-boot.js",
-        "packages/x/a.ts",
+        "temper/web/public/sidebar-boot.js",
+        "x/a.ts",
         "vite.config.js",
         "docs/x.md",
-        "packages/x/node_modules/dep/index.js",
+        "x/node_modules/dep/index.js",
       ],
       includes
     )
-    expect(linted).toEqual(["packages/temper/web/public/sidebar-boot.js", "packages/x/a.ts"])
+    expect(linted).toEqual(["temper/web/public/sidebar-boot.js", "x/a.ts"])
   })
 })
 
