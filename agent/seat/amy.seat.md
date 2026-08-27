@@ -9,6 +9,7 @@ person-slug: alan
 start-mode: interactive
 on-call: true
 initiative-slug: amy-alan-harness
+errand: "Something just killed all the seats at once, investigate?"
 registration-account: aawalton
 claude-code-session-uuid: 7abe7a65-b517-4679-957e-867e1d844444
 transcript-path: /var/home/walton/.claude/accounts/aawalton/projects/-var-home-walton-repos/7abe7a65-b517-4679-957e-867e1d844444.jsonl
