@@ -167,8 +167,8 @@ categorized. They stay in, and the report breaks them out.
 ## Running it
 
 ```
-bun ~/repos/instructions/monarch/eval/run.ts --pool DEV --per-stratum 40
-bun ~/repos/instructions/monarch/eval/score.ts --file ~/monarch-eval-18119/dev-40.json
+bun ~/repos/akasha/monarch/eval/run.ts --pool DEV --per-stratum 40
+bun ~/repos/akasha/monarch/eval/score.ts --file ~/monarch-eval-18119/dev-40.json
 ```
 
 `run.ts` spends money and writes a result file. `score.ts` only reads one, so a
