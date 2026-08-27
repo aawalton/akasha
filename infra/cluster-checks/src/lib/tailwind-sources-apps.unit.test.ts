@@ -12,24 +12,24 @@ const entries = (...paths: readonly string[]): ReadonlySet<string> => new Set(pa
 
 describe("tailwind-sources app enumeration", () => {
   test("a css file the shell did not classify as an entry is not an app", () => {
-    const entry = "packages/foo/web/app/globals.css"
-    const notEntry = "packages/foo/web/app/idle/idle.css"
+    const entry = "foo/web/app/globals.css"
+    const notEntry = "foo/web/app/idle/idle.css"
     const out = examineAll(
       makeInput({
         nodes: [
-          packageNode("@foo/web", "packages/foo/web"),
-          packageNode("@foo/ui", "packages/foo/ui"),
+          packageNode("@foo/web", "foo/web"),
+          packageNode("@foo/ui", "foo/ui"),
           cssFileNode(
             entry,
-            [directive({ pattern: "../../ui/src/**", resolvedBase: "packages/foo/ui/src" })],
+            [directive({ pattern: "../../ui/src/**", resolvedBase: "foo/ui/src" })],
             "@foo/web"
           ),
           cssFileNode(notEntry, [], "@foo/web"),
         ],
         edges: [pkgDependsEdge("@foo/web", "@foo/ui", "dependencies")],
         packageSourceRootByName: new Map([
-          ["@foo/web", "packages/foo/web/src"],
-          ["@foo/ui", "packages/foo/ui/src"],
+          ["@foo/web", "foo/web/src"],
+          ["@foo/ui", "foo/ui/src"],
         ]),
         uiPackageNames: new Set(["@foo/ui"]),
         entryCssPaths: entries(entry),
@@ -39,19 +39,19 @@ describe("tailwind-sources app enumeration", () => {
   })
 
   test("two entry stylesheets in one workspace are audited separately", () => {
-    const covered = "packages/foo/web/app/globals.css"
-    const bare = "packages/foo/web/app-capacitor/globals.css"
+    const covered = "foo/web/app/globals.css"
+    const bare = "foo/web/app-capacitor/globals.css"
     const out = examineAll(
       makeInput({
         nodes: [
-          packageNode("@foo/web", "packages/foo/web"),
-          packageNode("@foo/ui", "packages/foo/ui"),
+          packageNode("@foo/web", "foo/web"),
+          packageNode("@foo/ui", "foo/ui"),
           cssFileNode(
             covered,
             [
               directive({
                 pattern: "../../ui/src/**/*.{ts,tsx}",
-                resolvedBase: "packages/foo/ui/src",
+                resolvedBase: "foo/ui/src",
               }),
             ],
             "@foo/web"
@@ -60,8 +60,8 @@ describe("tailwind-sources app enumeration", () => {
         ],
         edges: [pkgDependsEdge("@foo/web", "@foo/ui", "dependencies")],
         packageSourceRootByName: new Map([
-          ["@foo/web", "packages/foo/web/src"],
-          ["@foo/ui", "packages/foo/ui/src"],
+          ["@foo/web", "foo/web/src"],
+          ["@foo/ui", "foo/ui/src"],
         ]),
         uiPackageNames: new Set(["@foo/ui"]),
         entryCssPaths: entries(covered, bare),
@@ -120,22 +120,22 @@ describe("tailwind-sources app enumeration", () => {
   })
 
   test("multi-app graph: per-app violations grouped under each stylesheet", () => {
-    const aCss = "packages/a/web/app/globals.css"
-    const bCss = "packages/b/web/app/globals.css"
+    const aCss = "a/web/app/globals.css"
+    const bCss = "b/web/app/globals.css"
     const out = examineAll(
       makeInput({
         nodes: [
-          packageNode("@a/web", "packages/a/web"),
-          packageNode("@a/ui", "packages/a/ui"),
-          packageNode("@b/web", "packages/b/web"),
-          packageNode("@b/ui", "packages/b/ui"),
+          packageNode("@a/web", "a/web"),
+          packageNode("@a/ui", "a/ui"),
+          packageNode("@b/web", "b/web"),
+          packageNode("@b/ui", "b/ui"),
           cssFileNode(aCss, [], "@a/web"),
           cssFileNode(
             bCss,
             [
               directive({
                 pattern: "../../ui/src/**/*.{ts,tsx}",
-                resolvedBase: "packages/b/ui/src",
+                resolvedBase: "b/ui/src",
               }),
             ],
             "@b/web"
@@ -146,10 +146,10 @@ describe("tailwind-sources app enumeration", () => {
           pkgDependsEdge("@b/web", "@b/ui", "dependencies"),
         ],
         packageSourceRootByName: new Map([
-          ["@a/web", "packages/a/web/src"],
-          ["@a/ui", "packages/a/ui/src"],
-          ["@b/web", "packages/b/web/src"],
-          ["@b/ui", "packages/b/ui/src"],
+          ["@a/web", "a/web/src"],
+          ["@a/ui", "a/ui/src"],
+          ["@b/web", "b/web/src"],
+          ["@b/ui", "b/ui/src"],
         ]),
         uiPackageNames: new Set(["@a/ui", "@b/ui"]),
         entryCssPaths: entries(aCss, bCss),
