@@ -128,7 +128,10 @@ test("a call reads its name and its arguments between parentheses", () => {
   expect(tree("hoursBetween(now(), {due})")).toMatchObject({
     node: "call",
     name: "hoursBetween",
-    arguments: [{ node: "call", name: "now", arguments: [] }, { node: "reference", key: "due" }],
+    arguments: [
+      { node: "call", name: "now", arguments: [] },
+      { node: "reference", key: "due" },
+    ],
   })
 })
 

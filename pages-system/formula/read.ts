@@ -403,7 +403,8 @@ export const readFormula = (source: string): Expression | Refused => {
     }
     return expression
   } catch (thrown) {
-    if (thrown instanceof ReadingRefused) return refuse("reading", source, thrown.at, thrown.message)
+    if (thrown instanceof ReadingRefused)
+      return refuse("reading", source, thrown.at, thrown.message)
     throw thrown
   }
 }

@@ -63,14 +63,12 @@ const declaredType = (key: string, at: number, shape: Shape, reads: Set<string>)
  * A side that only ever answers absent meets anything, since an operator given
  * an absent value answers absent.
  */
-const needs = (
-  type: ValueType,
-  kind: DeclaredType["kind"],
-  at: number,
-  said: string
-): void => {
+const needs = (type: ValueType, kind: DeclaredType["kind"], at: number, said: string): void => {
   if (type.holds === null || type.holds.kind === kind) return
-  throw new CheckingRefused(at, `${said} takes ${an(kind)}, and this holds ${an(nameOf(type.holds))}`)
+  throw new CheckingRefused(
+    at,
+    `${said} takes ${an(kind)}, and this holds ${an(nameOf(type.holds))}`
+  )
 }
 
 /** Whether two sides hold one kind, an always-absent side meeting anything. */

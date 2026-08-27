@@ -1,5 +1,12 @@
 import { expect, test } from "bun:test"
-import { type Checked, checkFormula, runFormula, type Shape, type Value, type Values } from "./formula.ts"
+import {
+  type Checked,
+  checkFormula,
+  runFormula,
+  type Shape,
+  type Value,
+  type Values,
+} from "./formula.ts"
 
 const shape: Shape = {
   title: { kind: "text" },
@@ -99,7 +106,7 @@ test("a whole formula of the kind a page type would carry works out", () => {
   const overdue = checked(
     'case(hoursBetween(now(), {due}) < 0 -> "overdue", {settled} -> "settled", otherwise -> "open")'
   )
-  expect(overdue.reads.sort()).toEqual(["due", "settled"])
+  expect([...overdue.reads].sort()).toEqual(["due", "settled"])
   expect(runFormula(overdue, values)).toEqual({ kind: "text", text: "settled" })
   expect(runFormula(overdue, { now: 99999999, properties: values.properties })).toEqual({
     kind: "text",

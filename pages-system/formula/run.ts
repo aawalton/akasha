@@ -100,10 +100,7 @@ const workConjunction = (
   return right.kind === "boolean" ? right : absent
 }
 
-const workOperation = (
-  expression: Expression & { node: "operation" },
-  values: Values
-): Value => {
+const workOperation = (expression: Expression & { node: "operation" }, values: Values): Value => {
   const operator = expression.operator
   const left = work(expression.left, values)
   if (operator === "??") {

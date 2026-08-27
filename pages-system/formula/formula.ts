@@ -115,5 +115,4 @@ export const checkFormula = (text: string, shape: Shape): Checked | Refused => {
 }
 
 /** Work out a checked formula over values. It answers a value or absent, and never fails. */
-export const runFormula = (checked: Checked, values: Values): Value =>
-  runTree(checked.tree, values)
+export const runFormula = (checked: Checked, values: Values): Value => runTree(checked.tree, values)

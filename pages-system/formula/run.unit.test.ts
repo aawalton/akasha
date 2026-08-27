@@ -188,8 +188,7 @@ test("hasWord finds a word bounded by punctuation as well as by space", () => {
     now: 0,
     properties: { title: { kind: "text", text: "well-done, truly" } },
   }
-  const held = (word: string): Value =>
-    runTree(read(`hasWord({title}, "${word}")`), punctuated)
+  const held = (word: string): Value => runTree(read(`hasWord({title}, "${word}")`), punctuated)
   expect(held("done")).toEqual({ kind: "boolean", boolean: true })
   expect(held("truly")).toEqual({ kind: "boolean", boolean: true })
   expect(held("rul")).toEqual({ kind: "boolean", boolean: false })
