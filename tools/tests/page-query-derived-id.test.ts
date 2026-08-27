@@ -8,9 +8,9 @@ const page = (lines: readonly string[]): string => `---\n${lines.join("\n")}\n--
 
 const STATED = "019ffc7b-4548-7003-bb59-10d047bdc78c"
 
-const BARE = "instructions:pages/token/bare.md"
-const ALSO_BARE = "instructions:pages/token/also-bare.md"
-const STATES_ONE = "instructions:pages/token/stated.md"
+const BARE = "akasha:pages/token/bare.md"
+const ALSO_BARE = "akasha:pages/token/also-bare.md"
+const STATES_ONE = "akasha:pages/token/stated.md"
 
 const DERIVED: Readonly<Record<string, string>> = {
   [BARE]: "7cd59bbc-f20e-5c5b-ab47-8a26a1558c73",
@@ -39,11 +39,7 @@ afterAll(() => rmSync(root, { recursive: true, force: true }))
 const away = join(root, "no-such-repo")
 
 const ROOTS: Roots = {
-  instructions: root,
-  code: away,
-  memory: away,
-  books: away,
-  stories: away,
+  akasha: root,
   "code-editor": away,
 }
 
