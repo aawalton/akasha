@@ -18,4 +18,10 @@ The first repair was a `goneRecord()` Proxy refusing on `get`, `has` and `ownKey
 
 What cleared it was that the constant was never engine — a table of file kinds and their node type names, whose 27 imports all survived — so it was restored whole. After that, 126 of 126 old-graph modules import, and 115 of 116 across check-workflow, ci-worker-pure, pipeline-run, ci-test-fanout and main-pipeline-creator.
 
-Not measured: how many of the remaining 65 stubs have a caller reading them at module scope, which only importing every dependent would settle. Not measured: whether a lazy getter on the importing module would defer the refusal further than a Proxy does.
+Since measured, at nimue.seat's prompting and with the same instrument. The 65 stubs have 229 transitive dependents; importing each in its own process gives 3 that read a stub at module scope — `infra/cluster-checks/src/derivers/reachable-from-primary-entry.node.deriver.ts` on `defineNodeDeriver`, and two tests on `createGraph`. One of those, `tools/tests/ci-worker-pure-skip-gate.test.ts`, passed 11 of 11 at the commit before the removal and fails now, so the removal caused it.
+
+The named suite reported 16 failing tests before the removal and 16 after, so the regression was invisible in the total and was reported as nothing broken. A count matching is not a set matching.
+
+Also found by the same loop, and not caused by the removal: about 20 modules under `infra/cluster-checks/src/checks/` run their command on import rather than under a main guard, so importing one executes it.
+
+Not measured: whether a lazy getter on the importing module would defer the refusal further than a Proxy does.
