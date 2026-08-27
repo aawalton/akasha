@@ -1,5 +1,6 @@
 import { relative } from "node:path"
 import { answersAt } from "../../cache/cache.ts"
+import { duringOneCall } from "../../during-call/during-call.ts"
 import { oidsUnder } from "../../repo/oid/oid.ts"
 import { contextOver } from "../../cache/said/said.ts"
 import type { Check, CheckRun } from "../check/check-shape.ts"
@@ -10,7 +11,21 @@ export function judgesAuthor(check: Check): boolean {
   return check.needsAuthor === true
 }
 
+/**
+ * Every check run over the whole tree, inside one call scope.
+ *
+ * THE SCOPE IS WHAT MAKES THIS FINISH. `onceInCall` holds nothing unless some caller has opened a
+ * call around it, and nothing had: every scan a check asks for was worked out again from scratch
+ * on every file it was asked about. `file-length` alone asks three of them per file over the
+ * ceiling, each walking every row the page index holds, which over this tree is nine thousand
+ * files against sixty thousand rows — the audit ran for tens of minutes and printed nothing. The
+ * tree does not move under an audit, so one answer per scan is the right number.
+ */
 export function runAudit(checks: readonly Check[], root: string): readonly CheckRun[] {
+  return duringOneCall(() => auditRun(checks, root))
+}
+
+function auditRun(checks: readonly Check[], root: string): readonly CheckRun[] {
   const tree = onDisk(root)
   const oids = oidsUnder(root, null)
   const runtime = `bun-${process.versions.bun ?? "unknown"}`
