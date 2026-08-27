@@ -8,6 +8,7 @@ role-slug: definer
 person-slug: alan
 start-mode: interactive
 on-call: true
+initiative-slug: astra-pages-system
 errand: "I think type only in the filenames for these is right. The page type is a attribute of the thing being indexed, not an attribute of the index, and thus shouldn't be represented there, and I think this applies to identity as well. Does that work? If so, what is the new path structure for both indexes?"
 registration-account: aawalton
 claude-code-session-uuid: beb04e61-d7e2-471d-8a27-5b1bf50251f3
