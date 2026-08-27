@@ -201,6 +201,28 @@ function hostOver(
   }
 }
 
+type Collector = { readonly gc: (force: boolean) => void }
+
+/**
+ * What the project just checked held, given back before the next one is built.
+ *
+ * A PROGRAM IS BUILT PER PROJECT AND DROPPED, AND THE RUNTIME COLLECTS NONE OF IT ON ITS OWN.
+ * Each project parses the files and declaration files it claims into syntax trees of its own, and
+ * over this repository's two hundred and sixty projects that is garbage nothing gathers while
+ * memory is still there to take: resident size climbed past nine gigabytes without ever levelling,
+ * and the workstation's memory reaper killed the run at forty seconds, before one project's
+ * verdict had been printed. Collecting here holds the peak near a third of that and changes no
+ * verdict, because what it gives back is a program already out of scope.
+ *
+ * ASKED FOR THROUGH `globalThis` rather than named outright, so a build whose settings do not
+ * carry the runtime's own types still compiles, and a host that is not that runtime does nothing.
+ */
+function giveBackTheProgram(): void {
+  const held = (globalThis as { readonly Bun?: Collector }).Bun
+  if (held === undefined) return
+  held.gc(true)
+}
+
 function ambientIn(project: Project): readonly string[] {
   return [...project.files].filter((one) => one.endsWith(".d.ts"))
 }
@@ -254,6 +276,7 @@ export const typecheck: Check = {
         const text = ts.flattenDiagnosticMessageText(found.messageText, " ")
         failures.push({ path, reason: `line ${line + 1}: TS${found.code}: ${text}` })
       }
+      giveBackTheProgram()
     }
     return failures
   },
