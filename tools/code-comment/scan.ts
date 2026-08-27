@@ -1,19 +1,8 @@
 import { readFileSync } from "node:fs"
-import { AKASHA, CODE, resolveRoots, rootFor } from "../../repo/roots/roots"
+import { AKASHA, resolveRoots, rootFor } from "../../repo/roots/roots"
 import { type Comment, commentsIn, UnscannableFile, without } from "./comments.ts"
 import { classify, DOMAIN_DOC, FORMS_DOC, type Form, formsFrom, type Klass } from "./forms.ts"
-import {
-  isTree,
-  packageOf,
-  packagesIn,
-  reachedIn,
-  reasonSaid,
-  SET_ASIDE,
-  type SetAside,
-  setAside,
-  tracked,
-  type Tree,
-} from "./tree.ts"
+import { packageOf, packagesIn, reachedIn, tracked } from "./tree.ts"
 
 const HELP = `bun tools/code-comment/scan.ts — count the comments standing outside the code comment forms
 
@@ -24,17 +13,10 @@ here beyond a recogniser for its shape; one named there with no recogniser stops
 Rolls the count up per package as well as per file, a package being the nearest
 directory above a file holding a \`package.json\`, and the unit a project is scoped to.
 
-TWO KINDS OF FILE ARE SET ASIDE IN THE CODE REPO, each counted on its own line and held
-out of the exit code, because \`strip.ts\` leaves both alone. A MACHINE-WRITTEN file, whose
-strip is undone by the next run of whatever wrote it. And a file UNDER TEST, under a
-\`__fixtures__\` directory, whose comments are specimens a check is proved against. The two
-tools read one scope, so what this reports outstanding is what a strip can take out.
-
 Usage:
-  bun ~/repos/akasha/tools/code-comment/scan.ts [--repo instructions|code] [--class <klass>] [--under <path>]
+  bun ~/repos/akasha/tools/code-comment/scan.ts [--class <klass>] [--under <path>]
 
 Flags:
-  --repo <name>       Which tree to read: \`instructions\` (default) or \`code\`.
   --class <klass>     Print every comment of one class with its path and line:
                       \`candidate\`, \`instruction\`, \`prose\` or \`form\`.
   --under <path>      Everything beneath this directory, a package or a whole area of
@@ -164,15 +146,8 @@ function flag(argv: readonly string[], name: string): string | null {
 }
 
 function run(argv: readonly string[]): void {
-  const named0 = flag(argv, "--repo") ?? "instructions"
-  if (!isTree(named0)) {
-    process.stderr.write(`error: --repo takes \`instructions\` or \`code\`\n`)
-    process.exitCode = 1
-    return
-  }
-  const repo: Tree = named0
   const roots = resolveRoots()
-  const root = repo === "code" ? rootFor(roots, CODE) : rootFor(roots, AKASHA)
+  const root = rootFor(roots, AKASHA)
   const wanted = flag(argv, "--class") as Klass | null
   if (wanted !== null && !CLASSES.includes(wanted)) {
     process.stderr.write(`error: --class takes one of ${CLASSES.join(", ")}\n`)
@@ -183,23 +158,14 @@ function run(argv: readonly string[]): void {
   const named = flag(argv, "--file-path")
   const scope = flag(argv, "--under")
   const packages = packagesIn(tracked(root))
-  const reached = named === null ? reachedIn(rootFor(roots, AKASHA), root, repo) : [named]
+  const reached = named === null ? reachedIn(rootFor(roots, AKASHA), root, "instructions") : [named]
   const scoped = scope === null ? reached : reached.filter((relPath) => relPath.startsWith(`${scope}/`))
   if (scope !== null && scoped.length === 0) {
     process.stderr.write(`error: nothing required to be read against ${DOMAIN_DOC} stands under ${scope} in ${root}\n`)
     process.exitCode = 1
     return
   }
-  const asideBy = new Map<string, SetAside>()
-  if (repo === "code") {
-    for (const relPath of scoped) {
-      const reason = setAside(relPath, () => readFileSync(`${root}/${relPath}`, "utf8"))
-      if (reason !== null) asideBy.set(relPath, reason)
-    }
-  }
-  const aside = [...asideBy.keys()]
-  const held = new Set(aside)
-  const files = scoped.filter((relPath) => !held.has(relPath))
+  const files = scoped
   if (argv.includes("--verify")) {
     const misread = verify(root, files)
     const verdict =
@@ -233,21 +199,6 @@ function run(argv: readonly string[]): void {
   }
   const shape = { reached: files.length, wanted, packages, perFile: argv.includes("--per-file") || scope !== null }
   process.stdout.write(`${report(standing, shape)}\n`)
-  for (const reason of SET_ASIDE) {
-    const these = aside.filter((relPath) => asideBy.get(relPath) === reason)
-    if (these.length === 0) continue
-    const inThem = these.flatMap((relPath) => {
-      try {
-        return standingIn(root, relPath, forms).filter((one) => one.klass !== "form")
-      } catch (error) {
-        if (error instanceof UnscannableFile) return []
-        throw error
-      }
-    })
-    process.stdout.write(
-      `\n${inThem.length} comments in ${these.length} ${reason} file(s), set aside; ${reasonSaid(reason)}\n`,
-    )
-  }
   if (unscannable.length > 0) {
     process.stdout.write(`\nunscannable, so uncounted:\n${unscannable.map((one) => `  ${one}`).join("\n")}\n`)
   }
