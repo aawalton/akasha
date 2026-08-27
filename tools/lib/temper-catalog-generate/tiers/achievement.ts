@@ -214,7 +214,7 @@ export const tier: Tier = {
   slug: "achievement",
   summary: "Achievements, split into account-wide and character-specific",
   savedVariables: CATALOG_SAVED_VARIABLES,
-  outputPath: "packages/temper/player/completion/src/generated/achievement-data.generated.ts",
+  outputPath: "temper/player-completion/src/generated/achievement-data.generated.ts",
   format: true,
   emit: (accountWide, apiVersion): TierEmit => {
     const catalog = extractCatalogFromSavedVars(accountWide)

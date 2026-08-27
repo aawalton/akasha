@@ -129,7 +129,7 @@ export const tier: Tier = {
   slug: "quest",
   summary: "Non-repeatable quests, by zone, read from the data-mining capture",
   savedVariables: MINED_SAVED_VARIABLES,
-  outputPath: "packages/temper/player/completion/src/generated/quest-data.generated.ts",
+  outputPath: "temper/player-completion/src/generated/quest-data.generated.ts",
   format: false,
   emit: (accountWide, apiVersion): TierEmit => {
     const { zoneMap, diagnostics, fullyRead } = extractQuestData(accountWide)

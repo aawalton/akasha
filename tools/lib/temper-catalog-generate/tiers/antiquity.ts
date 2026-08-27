@@ -106,7 +106,7 @@ export const tier: Tier = {
   slug: "antiquity",
   summary: "Antiquity lore entries, by category",
   savedVariables: CATALOG_SAVED_VARIABLES,
-  outputPath: "packages/temper/player/completion/src/generated/antiquity-data.generated.ts",
+  outputPath: "temper/player-completion/src/generated/antiquity-data.generated.ts",
   format: false,
   emit: (accountWide, apiVersion): TierEmit => {
     const categoryMap = extractAntiquityDataFromSavedVars(accountWide)

@@ -96,7 +96,7 @@ export const tier: Tier = {
   slug: "recipe",
   summary: "Crafting recipes, by recipe list",
   savedVariables: CATALOG_SAVED_VARIABLES,
-  outputPath: "packages/temper/game/completion/src/generated/recipe-data.generated.ts",
+  outputPath: "temper/game-completion/src/generated/recipe-data.generated.ts",
   format: false,
   emit: (accountWide, apiVersion): TierEmit => {
     const listMap = extractRecipesFromSavedVars(accountWide)

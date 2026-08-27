@@ -125,7 +125,7 @@ export const tier: Tier = {
   slug: "poi",
   summary: "Points of interest, by zone and type",
   savedVariables: CATALOG_SAVED_VARIABLES,
-  outputPath: "packages/temper/player/completion/src/generated/poi-data.generated.ts",
+  outputPath: "temper/player-completion/src/generated/poi-data.generated.ts",
   format: true,
   emit: (accountWide, apiVersion): TierEmit => {
     const zones = extractPoiDataFromSavedVars(accountWide)

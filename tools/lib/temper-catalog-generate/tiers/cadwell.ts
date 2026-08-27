@@ -123,7 +123,7 @@ export const tier: Tier = {
   slug: "cadwell",
   summary: "Cadwell's Almanac, by level and zone",
   savedVariables: CATALOG_SAVED_VARIABLES,
-  outputPath: "packages/temper/player/completion/src/generated/cadwell-data.generated.ts",
+  outputPath: "temper/player-completion/src/generated/cadwell-data.generated.ts",
   format: true,
   emit: (accountWide, apiVersion): TierEmit => {
     const levels = extractCadwellDataFromSavedVars(accountWide)

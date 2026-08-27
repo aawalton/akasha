@@ -89,7 +89,7 @@ export const tier: Tier = {
   slug: "tribute",
   summary: "Tales of Tribute patrons and their upgradeable cards",
   savedVariables: CATALOG_SAVED_VARIABLES,
-  outputPath: "packages/temper/player/completion/src/generated/tribute-data.generated.ts",
+  outputPath: "temper/player-completion/src/generated/tribute-data.generated.ts",
   format: true,
   emit: (accountWide, apiVersion): TierEmit => {
     const patrons = extractTributeDataFromSavedVars(accountWide)

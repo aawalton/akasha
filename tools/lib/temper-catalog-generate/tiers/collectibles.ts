@@ -138,7 +138,7 @@ export const tier: Tier = {
   slug: "collectibles",
   summary: "Collectibles, by category and subcategory",
   savedVariables: CATALOG_SAVED_VARIABLES,
-  outputPath: "packages/temper/player/completion/src/generated/collectibles-data.generated.ts",
+  outputPath: "temper/player-completion/src/generated/collectibles-data.generated.ts",
   format: false,
   emit: (accountWide, apiVersion): TierEmit => {
     const categories = extractCollectiblesData(accountWide)

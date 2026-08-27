@@ -127,7 +127,7 @@ export const tier: Tier = {
   slug: "lore-library",
   summary: "Mages Guild lore books, by category and collection",
   savedVariables: CATALOG_SAVED_VARIABLES,
-  outputPath: "packages/temper/game/completion/src/generated/lore-library-data.generated.ts",
+  outputPath: "temper/game-completion/src/generated/lore-library-data.generated.ts",
   format: false,
   emit: (accountWide, apiVersion): TierEmit => {
     const categoryMap = extractLoreLibraryFromSavedVars(accountWide)

@@ -144,7 +144,7 @@ export const tier: Tier = {
   slug: "zone-completion",
   summary: "Zone completion activities, by zone and completion type",
   savedVariables: CATALOG_SAVED_VARIABLES,
-  outputPath: "packages/temper/player/completion/src/generated/zone-completion-data.generated.ts",
+  outputPath: "temper/player-completion/src/generated/zone-completion-data.generated.ts",
   format: true,
   emit: (accountWide, apiVersion): TierEmit => {
     const zones = extractZoneCompletionDataFromSavedVars(accountWide)

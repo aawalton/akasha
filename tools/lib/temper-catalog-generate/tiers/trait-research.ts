@@ -108,7 +108,7 @@ export const tier: Tier = {
   slug: "trait-research",
   summary: "Craftable traits, by craft type and research line",
   savedVariables: CATALOG_SAVED_VARIABLES,
-  outputPath: "packages/temper/player/completion/src/generated/trait-research-data.generated.ts",
+  outputPath: "temper/player-completion/src/generated/trait-research-data.generated.ts",
   format: true,
   emit: (accountWide, apiVersion): TierEmit => {
     const craftTypes = extractTraitResearchFromSavedVars(accountWide)
