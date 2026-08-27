@@ -17,5 +17,3 @@ required-reading-slugs:
 # Design
 
 A file names its repository first, written `<repo>:<path>`.
-
-A file naming no repository is in the instructions repository.
