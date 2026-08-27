@@ -2,11 +2,9 @@
 export const summary = "Decode a 20-field ESO item link string to labeled fields"
 
 import type { CommandHelp } from "../../../ops/surface.ts"
-import { codeModule } from "../../../lib/code-import.ts"
+import { parseItemLink } from "@temper/game-items-core/item-link-parser"
 import { inputError } from "../../../lib/exit.ts"
 import { parseArgs } from "../../../lib/parse-args.ts"
-
-const ITEM_LINK_PARSER = "@temper/game-items-core/item-link-parser"
 
 export const help: CommandHelp = {
   positionals: [
@@ -28,35 +26,13 @@ export const help: CommandHelp = {
   ],
 }
 
-interface ParsedItemLink {
-  readonly itemId: unknown
-  readonly subType: unknown
-  readonly level: unknown
-  readonly enchantId: unknown
-  readonly enchantSubType: unknown
-  readonly enchantLevel: unknown
-  readonly traitType: unknown
-  readonly flags: unknown
-  readonly style: unknown
-  readonly crafted: unknown
-  readonly bound: unknown
-  readonly stolen: unknown
-  readonly charges: unknown
-  readonly potionData: unknown
-}
-
-interface ItemLinkParser {
-  readonly parseItemLink: (link: string) => ParsedItemLink | null
-}
-
 export default async function temperInventoryDecodeLink(args: readonly string[]): Promise<void> {
   const parsed = parseArgs(help, args)
   const link = parsed.positionals[0]
   if (link === undefined) throw inputError("item link is required")
   const json = parsed.boolean("--json")
 
-  const parser = await codeModule<ItemLinkParser>(ITEM_LINK_PARSER)
-  const decoded = parser.parseItemLink(link)
+  const decoded = parseItemLink(link)
   if (decoded === null) {
     throw inputError(`could not parse item link: ${link}`)
   }

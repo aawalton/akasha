@@ -2,17 +2,16 @@ export const summary = "Resolve an itemId or link against TemperInventory.lua an
 
 import { readFile } from "node:fs/promises"
 import type { CommandHelp } from "../../../ops/surface.ts"
-import { codeModule } from "../../../lib/code-import.ts"
+import { classifyItemToNodeIds } from "@temper/game-items-core/classify-item-node-ids"
+import { parseInventoryContent } from "@temper/game-items-core/inventory-parser"
+import type { InventoryDatabase, InventoryItemData } from "@temper/game-items-core/inventory-types"
+import { parseItemLink } from "@temper/game-items-core/item-link-parser"
+import { parseMotifBookName } from "@temper/game-items-core/motif-name-parser"
+import { getRecipeResultId } from "@temper/game-items-core/recipe-result-id-lookup"
+import { getScriptItemIdByName } from "@temper/game-items-core/script-knowledge-lookup"
 import { dataError, inputError } from "../../../lib/exit.ts"
 import { parseArgs } from "../../../lib/parse-args.ts"
 import { TEMPER_INVENTORY_LUA, savedVarsFile } from "../../../lib/temper-inventory-paths.ts"
-
-const CLASSIFY = "@temper/game-items-core/classify-item-node-ids"
-const INVENTORY_PARSER = "@temper/game-items-core/inventory-parser"
-const ITEM_LINK_PARSER = "@temper/game-items-core/item-link-parser"
-const MOTIF_NAME_PARSER = "@temper/game-items-core/motif-name-parser"
-const RECIPE_LOOKUP = "@temper/game-items-core/recipe-result-id-lookup"
-const SCRIPT_LOOKUP = "@temper/game-items-core/script-knowledge-lookup"
 
 export const help: CommandHelp = {
   positionals: [
@@ -40,44 +39,6 @@ export const help: CommandHelp = {
     "ops temper inventory lookup-item 16424 --json",
     "ops temper inventory lookup-item 16424 --inventory-path ./TemperInventory.lua",
   ],
-}
-
-interface InventoryItemData {
-  readonly itemId: number
-  readonly itemName: string
-  readonly itemLink: string
-}
-
-interface InventoryDatabase {
-  readonly locations: Readonly<
-    Record<string, { readonly bags: Readonly<Record<string, Readonly<Record<string, InventoryItemData>>>> }>
-  >
-}
-
-interface InventoryParser {
-  readonly parseInventoryContent: (content: string) => InventoryDatabase
-}
-
-interface Classifier {
-  readonly classifyItemToNodeIds: (item: InventoryItemData) => readonly string[]
-}
-
-interface ItemLinkParser {
-  readonly parseItemLink: (input: string) => { readonly itemId: number } | null
-}
-
-interface MotifNameParser {
-  readonly parseMotifBookName: (
-    name: string
-  ) => { readonly styleId: number; readonly chapterId: number | null } | undefined
-}
-
-interface RecipeLookup {
-  readonly getRecipeResultId: (name: string) => number | undefined
-}
-
-interface ScriptLookup {
-  readonly getScriptItemIdByName: (name: string) => number | undefined
 }
 
 interface RecipeClassification {
@@ -186,12 +147,11 @@ export default async function temperInventoryLookupItem(args: readonly string[])
   const positional = parsed.positionals[0]
   if (positional == null) throw inputError("item id or link is required")
 
-  const links = await codeModule<ItemLinkParser>(ITEM_LINK_PARSER)
   const asInt = Number(positional)
   const itemId =
     Number.isInteger(asInt) && asInt >= 0 && /^\d+$/.test(positional)
       ? asInt
-      : (links.parseItemLink(positional)?.itemId ?? null)
+      : (parseItemLink(positional)?.itemId ?? null)
   if (itemId === null) {
     throw inputError(`could not parse item id or link: ${positional}`)
   }
@@ -206,24 +166,16 @@ export default async function temperInventoryLookupItem(args: readonly string[])
     throw dataError(`could not read TemperInventory.lua at ${inventoryPath}: ${reason}`)
   }
 
-  const [parser, classifier, recipes, scripts, motifs] = await Promise.all([
-    codeModule<InventoryParser>(INVENTORY_PARSER),
-    codeModule<Classifier>(CLASSIFY),
-    codeModule<RecipeLookup>(RECIPE_LOOKUP),
-    codeModule<ScriptLookup>(SCRIPT_LOOKUP),
-    codeModule<MotifNameParser>(MOTIF_NAME_PARSER),
-  ])
-
-  const match = findItemByIdInInventory(parser.parseInventoryContent(inventoryContent), itemId)
+  const match = findItemByIdInInventory(parseInventoryContent(inventoryContent), itemId)
 
   function classifyItemByName(name: string): Classification {
-    const recipeResultId = recipes.getRecipeResultId(name)
+    const recipeResultId = getRecipeResultId(name)
     if (recipeResultId !== undefined) return { kind: "recipe", resultItemId: recipeResultId }
 
-    const scriptId = scripts.getScriptItemIdByName(name)
+    const scriptId = getScriptItemIdByName(name)
     if (scriptId !== undefined) return { kind: "script", scriptId }
 
-    const motifParsed = motifs.parseMotifBookName(name)
+    const motifParsed = parseMotifBookName(name)
     if (motifParsed !== undefined)
       return {
         kind: "motif",
@@ -237,7 +189,7 @@ export default async function temperInventoryLookupItem(args: readonly string[])
   const classification: Classification = match
     ? classifyItemByName(match.itemName)
     : { kind: "unknown" }
-  const categoryNodeIds = match ? classifier.classifyItemToNodeIds(match) : []
+  const categoryNodeIds = match ? classifyItemToNodeIds(match) : []
 
   if (parsed.boolean("--json")) {
     process.stdout.write(

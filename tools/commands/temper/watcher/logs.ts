@@ -3,18 +3,16 @@ export const summary = "Read workstation watcher.log + tray.log as JSONL ({times
 import { readFile } from "node:fs/promises"
 import { join } from "node:path"
 import type { CommandHelp } from "../../../ops/surface.ts"
-import { codeModule } from "../../../lib/code-import.ts"
 import { dataError, inputError } from "../../../lib/exit.ts"
 import { parseLokiDuration } from "../../../lib/loki-fetch.ts"
 import { parseArgs } from "../../../lib/parse-args.ts"
 import { mergeNewestFirst } from "../../../lib/temper-watcher-merge-newest-first.ts"
+import { watcherLogDir } from "@temper/shared-foundation-misc-eso-paths"
 import {
   type LogSource,
   type ParsedLogLine,
   parseLogLine,
 } from "../../../lib/temper-watcher-parse-log-line.ts"
-
-const ESO_PATHS = "@temper/shared-foundation-misc-eso-paths"
 
 const LOG_DIR_FLAG = "--log-dir"
 
@@ -56,10 +54,6 @@ export const help: CommandHelp = {
     "ops temper watcher logs --since 30m --limit 200",
     "ops temper watcher logs --json",
   ],
-}
-
-interface EsoPaths {
-  readonly watcherLogDir: () => string
 }
 
 async function readLogFile(
@@ -113,15 +107,14 @@ export default async function watcherLogs(args: readonly string[]): Promise<void
   })
 
   const parsed = parseArgs(help, args)
-  const esoPaths = await codeModule<EsoPaths>(ESO_PATHS)
 
   const since = parsed.string("--since") ?? "1h"
   const sinceMs = parseLokiDuration("--since", since)
   const limit = await parsePositiveInt("--limit", parsed.string("--limit") ?? "500")
   const json = parsed.boolean("--json")
   const logDir = supplied(args, LOG_DIR_FLAG)
-    ? (parsed.string(LOG_DIR_FLAG) ?? esoPaths.watcherLogDir())
-    : esoPaths.watcherLogDir()
+    ? (parsed.string(LOG_DIR_FLAG) ?? watcherLogDir())
+    : watcherLogDir()
 
   const watcherPath = join(logDir, "watcher.log")
   const trayPath = join(logDir, "tray.log")
