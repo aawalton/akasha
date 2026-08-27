@@ -368,9 +368,11 @@ export function surveyRename(moves: Moves, roots: Roots, landing: Roots = roots)
   let repointed = 0
   for (const { relPath, body } of textFiles(root)) {
     unreached.delete(relPath)
-    const lands = moves.get(relPath) ?? relPath
+    const target = moves.get(relPath)
+    const lands = target ?? relPath
     const before = normalizeAbsolute(`${root}/${relPath}`)
-    const after = lands === relPath ? before : normalizeAbsolute(`${landsIn}/${lands}`)
+    const after = target === undefined ? before : normalizeAbsolute(`${landsIn}/${target}`)
+    const relocating = after !== before
     const named = lands.endsWith(".ts")
       ? specifierPatches(body, before, after, moved)
       : NO_SPECIFIERS
@@ -383,7 +385,7 @@ export function surveyRename(moves: Moves, roots: Roots, landing: Roots = roots)
     if (!isDirty(relPath)) {
       for (const one of escapedMentions(applied.body, moves)) escaped.push(`${lands}:${one}`)
     }
-    if (isDirty(relPath) && lands === relPath) {
+    if (isDirty(relPath) && !relocating) {
       for (const note of applied.notes) quarantined.push(`${relPath}:${note}`)
       continue
     }
@@ -392,12 +394,12 @@ export function surveyRename(moves: Moves, roots: Roots, landing: Roots = roots)
       specifiers += named.read
       repointed += named.patches.length
     }
-    if (lands !== relPath || applied.notes.length > 0) {
+    if (relocating || applied.notes.length > 0) {
       entries.push({
         relPath: lands,
         body: applied.body,
         notes: applied.notes,
-        moved: lands !== relPath,
+        moved: relocating,
       })
     }
   }

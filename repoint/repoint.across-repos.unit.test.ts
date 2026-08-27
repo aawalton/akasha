@@ -57,6 +57,51 @@ describe("a move that crosses a repository boundary", () => {
       from.dispose()
     }
   })
+
+  test("a body landing on the relative path it left is a move, the repository being what differs", () => {
+    const from = fixture()
+    const to = fixture()
+    try {
+      from.put("schemas/thing.md", "# Thing\n")
+      from.put("pages/a.md", "# A\n\nIt names [thing](../schemas/thing.md).\n")
+      const at = twoRepos(from.root, to.root)
+      const survey = surveyRename(moves(["pages/a.md", "pages/a.md"]), at.source, at.destination)
+      const entry = survey.entries.find((e) => e.relPath === "pages/a.md")
+      expect(entry?.moved).toBe(true)
+      expect(resolve(`${to.root}/pages`, hrefIn(entry?.body, "thing"))).toBe(
+        `${from.root}/schemas/thing.md`
+      )
+    } finally {
+      to.dispose()
+      from.dispose()
+    }
+  })
+
+  test("a file the call never names is not carried across, whatever root the bodies land under", () => {
+    const from = fixture()
+    const to = fixture()
+    try {
+      from.put("pages/a.md", "# A\n")
+      from.put("pages/stays.md", "# Stays\n")
+      const at = twoRepos(from.root, to.root)
+      const survey = surveyRename(moves(["pages/a.md", "pages/a.md"]), at.source, at.destination)
+      expect(survey.entries.filter((e) => e.moved).map((e) => e.relPath)).toEqual(["pages/a.md"])
+    } finally {
+      to.dispose()
+      from.dispose()
+    }
+  })
+
+  test("a destination matching the source in both path and repository is no move at all", () => {
+    const only = fixture()
+    try {
+      only.put("pages/a.md", "# A\n")
+      const survey = surveyRename(moves(["pages/a.md", "pages/a.md"]), rootsAt(only.root))
+      expect(survey.entries.some((e) => e.moved)).toBe(false)
+    } finally {
+      only.dispose()
+    }
+  })
 })
 
 describe("a repository that neither gives a body up nor takes one", () => {
