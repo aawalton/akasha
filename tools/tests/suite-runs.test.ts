@@ -27,14 +27,8 @@ const FAILING =
   "bun test v1.3.14\n\n(fail) the command > refuses a body it cannot gate\n 820 pass\n 2 fail\nRan 822 tests across 55 files. [9.02s]\n"
 
 const NOWHERE = {
-  roots: {
-    instructions: "/nonexistent-instructions",
-    code: "/nonexistent-code",
-    memory: "/nonexistent-memory",
-    books: "/nonexistent-books",
-    stories: "/nonexistent-stories", "code-editor": "/nonexistent-code-editor",
-  },
-  name: "instructions",
+  roots: { akasha: "/nonexistent-akasha", "code-editor": "/nonexistent-code-editor" },
+  name: "akasha",
   documents: [],
   read: () => "",
   exists: () => false,

@@ -17,15 +17,8 @@ afterEach(() => {
 
 function viewOf(root: string): RepoView {
   return {
-    roots: {
-      instructions: root,
-      code: "/nonexistent-code",
-      memory: "/nonexistent-memory",
-      books: "/nonexistent-books",
-      stories: "/nonexistent-stories",
-      "code-editor": "/nonexistent-code-editor",
-    },
-    name: "instructions",
+    roots: { akasha: root, "code-editor": "/nonexistent-code-editor" },
+    name: "akasha",
     documents: [],
     read: (relPath: string) => readFileSync(join(root, relPath), "utf8"),
     exists: () => false,

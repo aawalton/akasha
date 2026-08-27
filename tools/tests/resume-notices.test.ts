@@ -30,14 +30,8 @@ const says = (slug: string, values: Readonly<Record<string, string>> = {}): stri
 
 function repo(body: string | null, asker: string = asks(PINNED_KEYS)): RepoView {
   return {
-    roots: {
-      instructions: ROOT,
-      code: "/nonexistent-code",
-      memory: "/nonexistent-memory",
-      books: "/nonexistent-books",
-      stories: "/nonexistent-stories", "code-editor": "/nonexistent-code-editor",
-    },
-    name: "instructions",
+    roots: { akasha: ROOT, "code-editor": "/nonexistent-code-editor" },
+    name: "akasha",
     documents: [],
     read: (relPath) => {
       if (relPath === ASKER) return asker

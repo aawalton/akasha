@@ -22,8 +22,8 @@ const DECLARES = "persona domain role task"
 
 function repo(bodies: Readonly<Record<string, string>>): RepoView {
   return {
-    roots: { instructions: ROOT, code: "/nonexistent-code", memory: "/nonexistent-memory", books: "/nonexistent-books", stories: "/nonexistent-stories", "code-editor": "/nonexistent-code-editor" },
-    name: "instructions",
+    roots: { akasha: ROOT, "code-editor": "/nonexistent-code-editor" },
+    name: "akasha",
     documents: [],
     read: (relPath) => bodies[relPath] ?? live(relPath),
     exists: () => true,
