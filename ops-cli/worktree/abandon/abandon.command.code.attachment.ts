@@ -4,10 +4,9 @@ import { existsSync } from "node:fs"
 import { join } from "node:path"
 import { landFiles } from "../../../repo/land/land.ts"
 import { handOffPush } from "../../../repo/push/push.ts"
-import { akashaRoot, rootsHere } from "../../../repo/roots/roots.ts"
+import { AKASHA, akashaRoot } from "../../../repo/roots/roots.ts"
 import {
   fail,
-  MEMORY,
   pageOf,
   ran,
   rejectUnknownFlags,
@@ -92,9 +91,7 @@ export default async function abandon(argv: readonly string[]): Promise<void> {
     )
   }
 
-  const memoryRoot = rootsHere()[MEMORY]
-  if (memoryRoot === undefined) fail("no memory repository is cloned here, so no page can be read")
-  const relPath = pageOf(memoryRoot, tree.name)
+  const relPath = pageOf(root, tree.name)
 
   const dirty = ran(tree.at, ["status", "--porcelain", "--untracked-files=all"])
   if (!dirty.ok) fail(`nothing is known about what ${tree.name} holds, so nothing was taken away`)
@@ -150,13 +147,13 @@ export default async function abandon(argv: readonly string[]): Promise<void> {
   }
 
   landFiles({
-    repo: MEMORY,
-    root: memoryRoot,
+    repo: AKASHA,
+    root,
     message: `worktrees: ${tree.name} is abandoned`,
     mechanical: true,
     removing: [relPath],
   })
-  handOffPush(memoryRoot)
+  handOffPush(root)
 
   const dropped = unlanded.length === 0 ? "" : `, ${unlanded.length} unlanded commit(s) dropped`
   process.stderr.write(`gone:   ${tree.name} — tree, branch and page${dropped}\n`)

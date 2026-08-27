@@ -2,10 +2,9 @@ export const summary = "Run akasha's checks over a worktree, as that worktree de
 
 import { landFiles } from "../../../repo/land/land.ts"
 import { handOffPush } from "../../../repo/push/push.ts"
-import { akashaRoot, rootsHere } from "../../../repo/roots/roots.ts"
+import { AKASHA, akashaRoot } from "../../../repo/roots/roots.ts"
 import {
   fail,
-  MEMORY,
   pageOf,
   ran,
   rejectUnknownFlags,
@@ -94,7 +93,8 @@ export default async function check(argv: readonly string[]): Promise<void> {
   const named = argv.filter((one) => !one.startsWith("-"))
   if (named.length > 1) fail("name one worktree or none, never several")
 
-  const trees = treesHere(akashaRoot())
+  const root = akashaRoot()
+  const trees = treesHere(root)
   const wanted = named[0]
   const found = wanted === undefined ? null : trees.find((one) => one.name === wanted)
   if (wanted !== undefined && found === undefined) {
@@ -108,9 +108,7 @@ export default async function check(argv: readonly string[]): Promise<void> {
     )
   }
 
-  const memoryRoot = rootsHere()[MEMORY]
-  if (memoryRoot === undefined) fail("no memory repository is cloned here, so no page can be read")
-  const relPath = pageOf(memoryRoot, tree.name)
+  const relPath = pageOf(root, tree.name)
 
   process.stderr.write(`check:  ${tree.name} at ${tree.at}\n`)
   if (runInTree(tree) !== 0) process.exit(RED)
@@ -126,12 +124,12 @@ export default async function check(argv: readonly string[]): Promise<void> {
   }
 
   landFiles({
-    repo: MEMORY,
-    root: memoryRoot,
+    repo: AKASHA,
+    root,
     message: `worktrees: ${tree.name} passed at ${tree.head.slice(0, 7)}`,
     mechanical: true,
     composing: [{ relPath, compose: (standing) => stamped(standing, tree.head) }],
   })
-  handOffPush(memoryRoot)
+  handOffPush(root)
   process.stderr.write(`page:   ${PASSED} is ${tree.head.slice(0, 7)}\n`)
 }

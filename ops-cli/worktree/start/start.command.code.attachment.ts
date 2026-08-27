@@ -8,7 +8,7 @@ import { takeSeqOf } from "../../../page/page-seq.ts"
 import { pageTypePathIn, placeDirOf } from "../../../page/page-types.ts"
 import { landFiles } from "../../../repo/land/land.ts"
 import { handOffPush } from "../../../repo/push/push.ts"
-import { akashaRoot, ownRepoRoot, rootsHere, VENDOR_ROOT } from "../../../repo/roots/roots.ts"
+import { AKASHA, akashaRoot, ownRepoRoot, VENDOR_ROOT } from "../../../repo/roots/roots.ts"
 
 const FROM = "--from"
 
@@ -17,8 +17,6 @@ const VALUE_FLAGS = [FROM]
 const BARE_FLAGS = ["--help", "-h"]
 
 const PAGE_TYPE = "worktree"
-
-const MEMORY = "memory"
 
 const MAIN = "main"
 
@@ -166,11 +164,6 @@ export default async function start(argv: readonly string[]): Promise<void> {
     fail(`${from} names no commit in akasha, so no seq was taken and nothing was made`)
   }
 
-  const memoryRoot = rootsHere()[MEMORY]
-  if (memoryRoot === undefined) {
-    fail("no memory repository is cloned here, so a worktree's page would have nowhere to land")
-  }
-
   const seq = takeSeqOf({
     instructionsRoot: ownRepoRoot(),
     pageTypeRelPath: pageTypePathIn(ownRepoRoot(), PAGE_TYPE),
@@ -193,13 +186,13 @@ export default async function start(argv: readonly string[]): Promise<void> {
 
   try {
     landFiles({
-      repo: MEMORY,
-      root: memoryRoot,
+      repo: AKASHA,
+      root,
       message: `worktrees: ${name} is started`,
       mechanical: true,
       entries: [{ relPath, body: pageBody(seq, name, seat) }],
     })
-    handOffPush(memoryRoot)
+    handOffPush(root)
   } catch (thrown) {
     const said = thrown instanceof Error ? thrown.message : String(thrown)
     fail(

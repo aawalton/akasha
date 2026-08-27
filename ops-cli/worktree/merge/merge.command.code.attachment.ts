@@ -5,10 +5,9 @@ import { join } from "node:path"
 import { parseFrontmatter, textField } from "../../../page/frontmatter.ts"
 import { landFiles } from "../../../repo/land/land.ts"
 import { handOffPush } from "../../../repo/push/push.ts"
-import { akashaRoot, rootsHere } from "../../../repo/roots/roots.ts"
+import { AKASHA, akashaRoot } from "../../../repo/roots/roots.ts"
 import {
   fail,
-  MEMORY,
   onOrigin,
   pageOf,
   ran,
@@ -49,8 +48,8 @@ export const help = {
   ],
 }
 
-function passedAt(memoryRoot: string, relPath: string): string | null {
-  const body = readFileSync(join(memoryRoot, relPath), "utf8")
+function passedAt(root: string, relPath: string): string | null {
+  const body = readFileSync(join(root, relPath), "utf8")
   return textField(parseFrontmatter(body), PASSED)
 }
 
@@ -80,9 +79,7 @@ export default async function merge(argv: readonly string[]): Promise<void> {
     fail(`you are standing in ${tree.name}, and a merge takes its tree away — run this elsewhere`)
   }
 
-  const memoryRoot = rootsHere()[MEMORY]
-  if (memoryRoot === undefined) fail("no memory repository is cloned here, so no page can be read")
-  const relPath = pageOf(memoryRoot, tree.name)
+  const relPath = pageOf(root, tree.name)
 
   const dirty = ran(tree.at, ["status", "--porcelain", "--untracked-files=all"])
   if (!dirty.ok) fail(`nothing is known about what ${tree.name} holds, so nothing was merged`)
@@ -90,7 +87,7 @@ export default async function merge(argv: readonly string[]): Promise<void> {
     fail(`${tree.name} holds uncommitted work, so what would land is not what stands there`)
   }
 
-  const passed = passedAt(memoryRoot, relPath)
+  const passed = passedAt(root, relPath)
   if (passed === null) {
     fail(`${tree.name} has no checks that passed — run \`ops worktree check ${tree.name}\` first`)
   }
@@ -145,13 +142,13 @@ export default async function merge(argv: readonly string[]): Promise<void> {
   }
 
   landFiles({
-    repo: MEMORY,
-    root: memoryRoot,
+    repo: AKASHA,
+    root,
     message: `worktrees: ${tree.name} is merged`,
     mechanical: true,
     removing: [relPath],
   })
-  handOffPush(memoryRoot)
+  handOffPush(root)
 
   const at = ran(root, ["rev-parse", "--short", "HEAD"])
   process.stderr.write(`merged: ${tree.name} into ${MAIN} at ${at.said}, and the tree is gone\n`)

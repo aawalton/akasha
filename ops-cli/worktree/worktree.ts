@@ -4,8 +4,6 @@ import { placeDirOf } from "../../page/page-types.ts"
 
 export const PAGE_TYPE = "worktree"
 
-export const MEMORY = "memory"
-
 export const ORIGIN = "origin"
 
 const BRANCH_AT = "branch refs/heads/"
@@ -86,9 +84,9 @@ function pageRelOf(name: string): string {
   return `${placeDirOf(PAGE_TYPE)}/${name}${PAGE_ENDING}`
 }
 
-export function pageOf(memoryRoot: string, name: string): string {
+export function pageOf(root: string, name: string): string {
   const relPath = pageRelOf(name)
-  if (!existsSync(join(memoryRoot, relPath))) {
+  if (!existsSync(join(root, relPath))) {
     fail(`no page states ${name}, so nothing says it is this system's worktree`)
   }
   return relPath
