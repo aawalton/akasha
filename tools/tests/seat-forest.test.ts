@@ -8,10 +8,10 @@ function seat(name: string, frontmatter: Record<string, unknown>, live = true): 
 describe("forestRow", () => {
   it("reads a seat opened by a person as that person's, launched opened", () => {
     expect(
-      forestRow(seat("amy-alan-handler", { id: "a", "person-slug": "alan" }))
+      forestRow(seat("alan", { id: "a", "person-slug": "alan" }))
     ).toEqual({
       id: "a",
-      name: "amy-alan-handler",
+      name: "alan",
       parent_agent_id: null,
       principal: "alan",
       launch: "opened",
