@@ -1,0 +1,11 @@
+---
+page-type-slug: location
+id: 019f1b49-5664-7f3a-9bf0-da3d9ee0f42a
+title: "Cedar Breaks National Monument"
+slug: cedar-breaks-national-monument
+latitude: 37.6387738
+longitude: -112.8447452
+source: "saved:UT, Cedar City"
+source-place-id: "gmaps:0x9f22e2d59a78397e"
+source-url: "https://www.google.com/maps/place/Cedar+Breaks+National+Monument/data=!4m2!3m1!1s0x80b5617ffe207d53:0x9f22e2d59a78397e"
+---

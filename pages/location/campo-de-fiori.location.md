@@ -1,0 +1,11 @@
+---
+page-type-slug: location
+id: 019f1aec-0dab-7573-968f-7bfa5c1a5770
+title: "Campo de' Fiori"
+slug: campo-de-fiori
+latitude: 41.8955774
+longitude: 12.4721586
+source: "saved:Rome, Italy"
+source-place-id: "gmaps:0xf215f7a24168ce0f"
+source-url: "https://www.google.com/maps/place/Campo+de'+Fiori/data=!4m2!3m1!1s0x132f61f71dcfd935:0xf215f7a24168ce0f"
+---
