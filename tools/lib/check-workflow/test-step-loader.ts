@@ -5,7 +5,7 @@ import { z } from "zod"
 import { groupTestFilesByType, type TestType } from "./test-step-paths.ts"
 import { computeTransitiveClosure, type PackageJson, type WorkspaceInfo } from "./workspace-deps.ts"
 
-const TEST_FILE_GLOB = "packages/**/*.{unit,property,component}.test.{ts,tsx}"
+const TEST_FILE_GLOB = "**/*.{unit,property,component}.test.{ts,tsx}"
 
 const FIXTURE_PATH_RE = /(^|\/)__fixtures__\//
 
@@ -47,7 +47,7 @@ export function loadTestFiles(repoRoot: string): readonly string[] {
 }
 
 export function loadAllTestFiles(repoRoot: string): readonly string[] {
-  const glob = new Bun.Glob("packages/**/*.test.{ts,tsx}")
+  const glob = new Bun.Glob("**/*.test.{ts,tsx}")
   const files = [...glob.scanSync({ cwd: repoRoot, absolute: false })]
   return files.filter((f) => !FIXTURE_PATH_RE.test(f)).sort()
 }
