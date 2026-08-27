@@ -1,5 +1,6 @@
 ---
 id: 62743b48-bff5-501e-873e-566c9ac22ab1
+slug: cited-model-absent
 page-type-slug: finding
 title: "Cited model absent"
 domain-slug: task/capture-time-tracking

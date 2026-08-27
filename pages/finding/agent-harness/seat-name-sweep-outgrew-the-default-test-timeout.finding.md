@@ -1,5 +1,6 @@
 ---
 id: 522f7694-44a4-5925-89d2-7c761bebc5b3
+slug: seat-name-sweep-outgrew-the-default-test-timeout
 page-type-slug: finding
 title: "Seat name sweep outgrew the default test timeout"
 domain-slug: domain/agent-harness

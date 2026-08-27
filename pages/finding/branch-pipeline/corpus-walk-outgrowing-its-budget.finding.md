@@ -1,5 +1,6 @@
 ---
 id: 779d1f78-571e-5a7b-8edb-6ebdeef45cc9
+slug: corpus-walk-outgrowing-its-budget
 page-type-slug: finding
 title: "Corpus walk outgrowing its budget"
 domain-slug: domain/branch-pipeline

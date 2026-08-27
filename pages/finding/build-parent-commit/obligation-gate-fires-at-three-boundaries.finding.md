@@ -1,5 +1,6 @@
 ---
 id: 2ba4167d-39fa-5539-80e2-ec15f23ff1e0
+slug: obligation-gate-fires-at-three-boundaries
 page-type-slug: finding
 title: "Obligation gate fires at three boundaries"
 domain-slug: domain/global

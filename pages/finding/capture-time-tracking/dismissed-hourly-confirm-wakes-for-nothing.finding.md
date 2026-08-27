@@ -1,5 +1,6 @@
 ---
 id: 74cd4046-fa02-58f8-a107-1792b8c3c0fb
+slug: dismissed-hourly-confirm-wakes-for-nothing
 page-type-slug: finding
 title: "Dismissed hourly confirm wakes for nothing"
 domain-slug: task/capture-time-tracking

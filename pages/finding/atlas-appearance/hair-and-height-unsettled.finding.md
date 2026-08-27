@@ -1,5 +1,6 @@
 ---
 id: 79808f82-67a5-5172-959d-d01269f51585
+slug: hair-and-height-unsettled
 page-type-slug: finding
 title: "Hair and height unsettled"
 domain-slug: persona-appearance/atlas-appearance

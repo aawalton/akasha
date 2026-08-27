@@ -1,5 +1,6 @@
 ---
 id: f2da53b8-3fe7-534e-bbc8-d418fdee17a8
+slug: unnamed-sender-still-reads-as-alan
 page-type-slug: finding
 title: "Unnamed sender still reads as Alan"
 domain-slug: domain/agent-harness

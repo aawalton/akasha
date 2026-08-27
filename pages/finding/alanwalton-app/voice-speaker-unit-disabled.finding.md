@@ -1,5 +1,6 @@
 ---
 id: cff37b4f-56ce-5ce3-9b0d-caa362c942c2
+slug: voice-speaker-unit-disabled
 page-type-slug: finding
 title: "Voice speaker unit disabled"
 domain-slug: domain/alanwalton-app

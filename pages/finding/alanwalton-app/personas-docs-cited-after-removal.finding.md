@@ -1,5 +1,6 @@
 ---
 id: 162bc246-7e74-5a1d-af35-276b286e9459
+slug: personas-docs-cited-after-removal
 page-type-slug: finding
 title: "Personas docs cited after removal"
 domain-slug: domain/alanwalton-app

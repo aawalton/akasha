@@ -1,5 +1,6 @@
 ---
 id: 65df9c57-3bb4-5efa-920c-bad002e6ca3d
+slug: design-line-in-the-passive
 page-type-slug: finding
 title: "Design line in the passive"
 domain-slug: domain/arousal

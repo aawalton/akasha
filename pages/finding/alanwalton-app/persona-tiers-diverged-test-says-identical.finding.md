@@ -1,5 +1,6 @@
 ---
 id: 92caf635-0bb4-5e6e-a66b-51cec56215b8
+slug: persona-tiers-diverged-test-says-identical
 page-type-slug: finding
 title: "Persona tiers diverged test says identical"
 domain-slug: domain/alanwalton-app

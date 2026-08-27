@@ -1,5 +1,6 @@
 ---
 id: d657578b-bccd-5757-99eb-dc6d46f8bc20
+slug: read-record-survives-a-redirect
 page-type-slug: finding
 title: "Read record survives a redirect"
 domain-slug: repo/akasha-repo

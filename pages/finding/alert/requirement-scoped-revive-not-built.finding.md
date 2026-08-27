@@ -1,5 +1,6 @@
 ---
 id: 18270b63-184a-51f8-8bde-ceff710becbf
+slug: requirement-scoped-revive-not-built
 page-type-slug: finding
 title: "Requirement scoped revive not built"
 domain-slug: page-type/alert

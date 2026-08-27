@@ -1,5 +1,6 @@
 ---
 id: bd486e2c-fc6d-5560-b1f1-ee149600cfdb
+slug: entrypoint-comment-reports-the-criterion-cadence
 page-type-slug: finding
 title: "Entrypoint comment reports the criterion cadence"
 domain-slug: domain/alanwalton-app

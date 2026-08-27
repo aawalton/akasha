@@ -1,5 +1,6 @@
 ---
 id: bf60a460-66b6-58a2-9997-7f2ba37bbf2c
+slug: stale-in-context-copy-no-vintage
 page-type-slug: finding
 title: "Stale in context copy no vintage"
 domain-slug: domain/agent-harness

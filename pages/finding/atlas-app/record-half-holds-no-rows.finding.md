@@ -1,5 +1,6 @@
 ---
 id: ddd76b2c-13d2-5343-a13f-e778826ec172
+slug: record-half-holds-no-rows
 page-type-slug: finding
 title: "Record half holds no rows"
 domain-slug: domain/atlas-app

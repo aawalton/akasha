@@ -1,5 +1,6 @@
 ---
 id: ebecee64-0125-54e7-bd28-767cd46240f4
+slug: hand-rolled-loop-cites-a-fixed-crash
 page-type-slug: finding
 title: "Hand rolled loop cites a fixed crash"
 domain-slug: domain/alanwalton-app

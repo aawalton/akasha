@@ -1,5 +1,6 @@
 ---
 id: a43feeb2-a3a8-56e9-a1e8-b02eeb3f792a
+slug: url-scheme-duplicated
 page-type-slug: finding
 title: "URL scheme duplicated"
 domain-slug: ios-app/alanwalton-ios

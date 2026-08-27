@@ -1,5 +1,6 @@
 ---
 id: 6b4f2f16-3f71-586a-9fb7-1a4d3515614b
+slug: two-green-commits-stranded-on-a-dead-project-branch
 page-type-slug: finding
 title: "Two green commits stranded on a dead project branch"
 domain-slug: domain/agent-harness

@@ -1,5 +1,6 @@
 ---
 id: 1318a846-6215-5711-b3b9-2894217baecb
+slug: persona-total-points-not-monotonic
 page-type-slug: finding
 title: "Persona total points not monotonic"
 domain-slug: domain/alanwalton-app

@@ -1,5 +1,6 @@
 ---
 id: a97c76dc-daca-5c82-9a1e-1a46addd8f3a
+slug: transient-signin-discards-its-cause
 page-type-slug: finding
 title: "Transient signin discards its cause"
 domain-slug: repo/akasha-repo

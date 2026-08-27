@@ -1,5 +1,6 @@
 ---
 id: 3aca3992-9a22-5450-b89c-3459f66d94e0
+slug: probe-indistinguishable-from-orphan
 page-type-slug: finding
 title: "Probe indistinguishable from orphan"
 domain-slug: page-type/alert

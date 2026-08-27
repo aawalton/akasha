@@ -1,5 +1,6 @@
 ---
 id: 58ec869a-1e95-56cb-97b3-848f32cb21be
+slug: replace-before-removing-ambiguous
 page-type-slug: finding
 title: "Replace before removing ambiguous"
 domain-slug: domain/agent-harness

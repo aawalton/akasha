@@ -1,5 +1,6 @@
 ---
 id: 2f4688a1-7ef1-57ff-ae4f-ab602483e631
+slug: global-agent-behavior-instructions
 page-type-slug: finding
 title: "global agent behavior instructions"
 domain-slug: persona/athena

@@ -1,5 +1,6 @@
 ---
 id: ae5365f5-9009-5403-bc11-e2cba2bcc3e8
+slug: injected-swift-uncompiled
 page-type-slug: finding
 title: "Injected swift uncompiled"
 domain-slug: ios-app/alanwalton-ios

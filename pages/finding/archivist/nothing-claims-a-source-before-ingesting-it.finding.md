@@ -1,5 +1,6 @@
 ---
 id: 012e6b16-95f0-584b-8702-777b8bd8465b
+slug: nothing-claims-a-source-before-ingesting-it
 page-type-slug: finding
 title: "Nothing claims a source before ingesting it"
 domain-slug: domain/global

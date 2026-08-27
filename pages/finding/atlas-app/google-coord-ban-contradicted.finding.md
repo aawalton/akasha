@@ -1,5 +1,6 @@
 ---
 id: 844b7abb-4de6-5e81-979d-a897cf02d51d
+slug: google-coord-ban-contradicted
 page-type-slug: finding
 title: "Google coord ban contradicted"
 domain-slug: domain/atlas-app

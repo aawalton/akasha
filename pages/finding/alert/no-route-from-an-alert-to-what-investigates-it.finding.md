@@ -1,5 +1,6 @@
 ---
 id: 07d49fd1-6cff-55eb-a57c-ea5b7c0cc738
+slug: no-route-from-an-alert-to-what-investigates-it
 page-type-slug: finding
 title: "No route from an alert to what investigates it"
 domain-slug: page-type/alert

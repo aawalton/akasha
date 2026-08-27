@@ -1,5 +1,6 @@
 ---
 id: 7e73b341-5fbe-5720-b737-e80f121d9682
+slug: internal-api-paths-inert
 page-type-slug: finding
 title: "Internal API paths inert"
 domain-slug: domain/alanwalton-app

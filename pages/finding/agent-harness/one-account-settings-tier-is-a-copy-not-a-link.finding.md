@@ -1,5 +1,6 @@
 ---
 id: 62bdba36-94e7-51d4-92be-850249d6590e
+slug: one-account-settings-tier-is-a-copy-not-a-link
 page-type-slug: finding
 title: "One account settings tier is a copy not a link"
 domain-slug: domain/agent-harness

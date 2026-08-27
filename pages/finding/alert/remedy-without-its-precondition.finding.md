@@ -1,5 +1,6 @@
 ---
 id: ea809d73-2c02-56f9-a681-f6df2128276b
+slug: remedy-without-its-precondition
 page-type-slug: finding
 title: "Remedy without its precondition"
 domain-slug: page-type/alert

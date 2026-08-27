@@ -1,5 +1,6 @@
 ---
 id: e2fbb226-1d96-5f4b-bbbd-0e4c72d2979f
+slug: read-failure-reads-as-fleet-outage
 page-type-slug: finding
 title: "Read failure reads as fleet outage"
 domain-slug: page-type/claude-account

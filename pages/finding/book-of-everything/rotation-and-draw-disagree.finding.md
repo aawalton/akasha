@@ -1,5 +1,6 @@
 ---
 id: da01f043-9bab-576f-bcef-40bc893e8bca
+slug: rotation-and-draw-disagree
 page-type-slug: finding
 title: "Rotation and draw disagree"
 domain-slug: domain/book-of-everything

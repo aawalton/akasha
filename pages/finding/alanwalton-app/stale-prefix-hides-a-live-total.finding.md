@@ -1,5 +1,6 @@
 ---
 id: bed740aa-ff21-575c-81e1-948a188edf1d
+slug: stale-prefix-hides-a-live-total
 page-type-slug: finding
 title: "Stale prefix hides a live total"
 domain-slug: domain/alanwalton-app

@@ -1,5 +1,6 @@
 ---
 id: f18de870-6fa0-5cdc-9457-7cf7f1cee602
+slug: deal-count-docblock-stale
 page-type-slug: finding
 title: "Deal count docblock stale"
 domain-slug: domain/atlas-app

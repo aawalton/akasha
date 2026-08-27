@@ -1,5 +1,6 @@
 ---
 id: 75e6426b-c5bf-5288-8409-8cda77ee41a1
+slug: horn-clause-shaped-like-olwens
 page-type-slug: finding
 title: "Horn clause shaped like olwens"
 domain-slug: persona-appearance/aria-appearance

@@ -1,5 +1,6 @@
 ---
 id: 95e02280-7996-56b1-b2ee-bd00a60d0cca
+slug: test-only-reach-credits-dead-module
 page-type-slug: finding
 title: "Test only reach credits dead module"
 domain-slug: domain/global

@@ -1,5 +1,6 @@
 ---
 id: 92a5d1dc-5249-50a8-bc86-05952d1aa078
+slug: questions-cleanup
 page-type-slug: finding
 title: "questions cleanup"
 domain-slug: persona/athena

@@ -1,5 +1,6 @@
 ---
 id: e4e552ee-7606-54a2-a6ee-58a174d13c3f
+slug: abby-faucet-scans-the-wrong-repo
 page-type-slug: finding
 title: "Abby faucet scans the wrong repo"
 domain-slug: domain/alanwalton-app

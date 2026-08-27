@@ -1,5 +1,6 @@
 ---
 id: c6b91b1e-d1fc-5212-aaa9-953ea84ae9ab
+slug: a-cached-typecheck-reports-a-green-it-did-not-earn
 page-type-slug: finding
 title: "A cached typecheck reports a green it did not earn"
 domain-slug: domain/global

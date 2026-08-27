@@ -1,5 +1,6 @@
 ---
 id: e8185a0c-a92f-5082-b7d2-3ca79c4fddef
+slug: role-spelled-skill
 page-type-slug: finding
 title: "Role spelled skill"
 domain-slug: domain/agent-harness

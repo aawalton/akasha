@@ -1,5 +1,6 @@
 ---
 id: 0e95f144-5ad0-5826-8707-10071fb5c959
+slug: amy-bar-is-reachable
 page-type-slug: finding
 title: "Amy bar is reachable"
 domain-slug: domain/alanwalton-app

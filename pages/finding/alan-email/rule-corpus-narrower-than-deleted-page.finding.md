@@ -1,5 +1,6 @@
 ---
 id: 1dfdde2d-3a03-5ad0-8006-be5357e3037b
+slug: rule-corpus-narrower-than-deleted-page
 page-type-slug: finding
 title: "Rule corpus narrower than deleted page"
 domain-slug: domain/alan-email

@@ -1,5 +1,6 @@
 ---
 id: 2a9984b1-c8de-5ca6-bdf2-ee8e8a06258f
+slug: self-correction-filed-as-fault
 page-type-slug: finding
 title: "Self correction filed as fault"
 domain-slug: domain/agent-harness

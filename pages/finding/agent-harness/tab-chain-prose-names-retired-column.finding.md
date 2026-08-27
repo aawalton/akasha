@@ -1,5 +1,6 @@
 ---
 id: eebf3f12-4533-5bfc-a7b3-bcc5afbfdc83
+slug: tab-chain-prose-names-retired-column
 page-type-slug: finding
 title: "Tab chain prose names retired column"
 domain-slug: domain/agent-harness

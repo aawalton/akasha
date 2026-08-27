@@ -1,5 +1,6 @@
 ---
 id: dfd3363d-1ac0-51f3-922a-b687f6000032
+slug: stale-message-asserts-live-approval
 page-type-slug: finding
 title: "Stale message asserts live approval"
 domain-slug: domain/agent-harness

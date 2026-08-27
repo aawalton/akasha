@@ -1,5 +1,6 @@
 ---
 id: 69ed5f0d-7baa-5253-ad3b-4841b66dfc4c
+slug: stopped-hides-crash
 page-type-slug: finding
 title: "Stopped hides crash"
 domain-slug: domain/agent-harness

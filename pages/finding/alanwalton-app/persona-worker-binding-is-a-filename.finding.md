@@ -1,5 +1,6 @@
 ---
 id: dcd9f78d-8175-5955-867c-4fd41e873b74
+slug: persona-worker-binding-is-a-filename
 page-type-slug: finding
 title: "Persona worker binding is a filename"
 domain-slug: domain/alanwalton-app

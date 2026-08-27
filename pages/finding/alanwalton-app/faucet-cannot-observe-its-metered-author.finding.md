@@ -1,5 +1,6 @@
 ---
 id: caa03297-2b88-508f-bbd2-a40093b5fb0c
+slug: faucet-cannot-observe-its-metered-author
 page-type-slug: finding
 title: "Faucet cannot observe its metered author"
 domain-slug: domain/alanwalton-app

@@ -1,5 +1,6 @@
 ---
 id: 24eb6ffe-9f5c-5fa2-84f3-4dbca50c1b37
+slug: definition-restates-its-head-word
 page-type-slug: finding
 title: "Definition restates its head word"
 domain-slug: task/capture-time-tracking

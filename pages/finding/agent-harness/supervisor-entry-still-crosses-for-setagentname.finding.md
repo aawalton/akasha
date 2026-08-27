@@ -1,5 +1,6 @@
 ---
 id: 6074b86e-c856-5fa3-96a3-3f4877d363f4
+slug: supervisor-entry-still-crosses-for-setagentname
 page-type-slug: finding
 title: "Supervisor entry still crosses for setagentname"
 domain-slug: domain/agent-harness

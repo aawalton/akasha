@@ -1,5 +1,6 @@
 ---
 id: 5f731eb8-106f-544a-8492-0b61adcea4de
+slug: visited-bar-unstated
 page-type-slug: finding
 title: "Visited bar unstated"
 domain-slug: domain/atlas-app

@@ -1,5 +1,6 @@
 ---
 id: d0e119e7-2f6c-5837-8dff-5a45f5a498b2
+slug: stalled-turn-not-resumed
 page-type-slug: finding
 title: "Stalled turn not resumed"
 domain-slug: domain/agent-harness

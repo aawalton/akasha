@@ -1,5 +1,6 @@
 ---
 id: 5002709d-f41a-5b73-a791-e785a8302e75
+slug: seat-waits-on-a-row-with-no-seat
 page-type-slug: finding
 title: "Seat waits on a row with no seat"
 domain-slug: domain/agent-harness

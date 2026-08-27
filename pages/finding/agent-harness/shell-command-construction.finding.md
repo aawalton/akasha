@@ -1,5 +1,6 @@
 ---
 id: d75f884e-0d67-5759-98da-67ea6f2da1f1
+slug: shell-command-construction
 page-type-slug: finding
 title: "Shell command construction"
 domain-slug: domain/agent-harness

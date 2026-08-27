@@ -1,5 +1,6 @@
 ---
 id: a7c5d179-b27d-5bac-8b39-4aab417a8382
+slug: gaze-claim-against-the-anchor
 page-type-slug: finding
 title: "Gaze claim against the anchor"
 domain-slug: persona-appearance/atlas-appearance

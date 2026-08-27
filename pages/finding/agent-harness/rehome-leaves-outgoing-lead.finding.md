@@ -1,5 +1,6 @@
 ---
 id: aae20d5a-0035-5dc1-a8ec-852f1f65b161
+slug: rehome-leaves-outgoing-lead
 page-type-slug: finding
 title: "Rehome leaves outgoing lead"
 domain-slug: domain/agent-harness

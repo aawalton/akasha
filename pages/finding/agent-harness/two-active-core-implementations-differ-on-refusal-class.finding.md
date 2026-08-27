@@ -1,5 +1,6 @@
 ---
 id: 049f1b2e-46b2-5e7d-807d-67f5c144656e
+slug: two-active-core-implementations-differ-on-refusal-class
 page-type-slug: finding
 title: "Two active core implementations differ on refusal class"
 domain-slug: domain/agent-harness

@@ -1,5 +1,6 @@
 ---
 id: aff022dd-1fb1-56c5-bacf-1bfbefa92bcd
+slug: active-energy-intent-residue-outlives-its-seam
 page-type-slug: finding
 title: "Active energy intent residue outlives its seam"
 domain-slug: domain/alanwalton-app

@@ -1,5 +1,6 @@
 ---
 id: b0c91334-7afe-5a84-9108-e66900d69048
+slug: project-16162-captured-empty
 page-type-slug: finding
 title: "Project 16162 captured empty"
 domain-slug: domain/agent-harness

@@ -1,5 +1,6 @@
 ---
 id: 90f09e98-59e9-5e14-8321-2950c5c5a1c5
+slug: duration-is-in-length-not-runtime
 page-type-slug: finding
 title: "Duration is in length not runtime"
 domain-slug: domain/anime

@@ -1,5 +1,6 @@
 ---
 id: 0c6e5d54-84b9-5708-9a7d-9d87383bf998
+slug: wake-source-row-half-ungated
 page-type-slug: finding
 title: "Wake source row half ungated"
 domain-slug: page-type/agent

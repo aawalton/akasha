@@ -1,5 +1,6 @@
 ---
 id: 3a31581a-b107-5f88-bc4e-a127c433e755
+slug: system-prompt-symlink-retired
 page-type-slug: finding
 title: "System prompt symlink retired"
 domain-slug: domain/agent-harness

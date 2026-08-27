@@ -1,5 +1,6 @@
 ---
 id: 0a5de9d5-69bd-5da9-ab6a-6f001f24e207
+slug: cardio-rate-stated-twice
 page-type-slug: finding
 title: "Cardio rate stated twice"
 domain-slug: domain/alanwalton-app

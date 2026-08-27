@@ -1,5 +1,6 @@
 ---
 id: db281204-2463-58dd-bd30-ea66779cec6e
+slug: no-document-says-to-commit
 page-type-slug: finding
 title: "No document says to commit"
 domain-slug: domain/global

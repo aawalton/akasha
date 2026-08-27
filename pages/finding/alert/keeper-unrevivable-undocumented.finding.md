@@ -1,5 +1,6 @@
 ---
 id: b3edc05e-1014-5f34-8859-8e77e430e302
+slug: keeper-unrevivable-undocumented
 page-type-slug: finding
 title: "Keeper unrevivable undocumented"
 domain-slug: page-type/alert

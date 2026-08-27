@@ -1,5 +1,6 @@
 ---
 id: 722426c8-0c93-5288-9f10-de5dc9574d0c
+slug: testflight-poll-401
 page-type-slug: finding
 title: "Testflight poll 401"
 domain-slug: ios-app/alanwalton-ios

@@ -1,5 +1,6 @@
 ---
 id: 37992846-ebd4-586c-9b38-876df06edf5e
+slug: no-positive-responsibility
 page-type-slug: finding
 title: "No positive responsibility"
 domain-slug: domain/global

@@ -1,5 +1,6 @@
 ---
 id: 5b44ba19-57a5-56b4-aedb-e00444041652
+slug: retry-with-input-unchanged
 page-type-slug: finding
 title: "Retry with input unchanged"
 domain-slug: domain/agent-harness

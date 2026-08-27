@@ -1,5 +1,6 @@
 ---
 id: 39805402-4ce3-58a1-8e77-4ec3874154e8
+slug: search-tool-bound-unstated
 page-type-slug: finding
 title: "Search tool bound unstated"
 domain-slug: domain/agent-harness

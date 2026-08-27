@@ -1,5 +1,6 @@
 ---
 id: 1f317d65-a6f6-50e1-b1ab-3313df7dcf21
+slug: safety-widget-design
 page-type-slug: finding
 title: "Safety widget design"
 domain-slug: domain/alan-harness

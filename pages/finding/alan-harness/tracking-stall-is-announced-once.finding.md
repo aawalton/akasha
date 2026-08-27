@@ -1,5 +1,6 @@
 ---
 id: ee0b2875-a762-59da-8e79-23c7f35ffc3d
+slug: tracking-stall-is-announced-once
 page-type-slug: finding
 title: "Tracking stall is announced once"
 domain-slug: domain/alan-harness

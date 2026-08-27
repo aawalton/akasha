@@ -1,5 +1,6 @@
 ---
 id: fb64fb22-ab70-5b5d-8a0c-aba0111fecf6
+slug: heartbeat-warrant-outlived-its-register
 page-type-slug: finding
 title: "Heartbeat warrant outlived its register"
 domain-slug: domain/alanwalton-app

@@ -1,5 +1,6 @@
 ---
 id: c11506f4-fd39-5bbb-a52c-071ba0ddfb5e
+slug: question-taps-never-reach-an-answerable-page
 page-type-slug: finding
 title: "Question taps never reach an answerable page"
 domain-slug: domain/alan-harness

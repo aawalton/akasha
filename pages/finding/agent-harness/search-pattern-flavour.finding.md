@@ -1,5 +1,6 @@
 ---
 id: 98826995-d422-5677-8d1d-0e7858eefc98
+slug: search-pattern-flavour
 page-type-slug: finding
 title: "Search pattern flavour"
 domain-slug: domain/agent-harness

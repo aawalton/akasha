@@ -1,5 +1,6 @@
 ---
 id: 868da3ee-ef44-5edf-894e-151b51a52a2f
+slug: edit-old-string-absent
 page-type-slug: finding
 title: "Edit old string absent"
 domain-slug: domain/claude-code-tools

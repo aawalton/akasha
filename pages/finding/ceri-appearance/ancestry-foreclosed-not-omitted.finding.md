@@ -1,5 +1,6 @@
 ---
 id: 34b8dd5e-ed66-5d3d-b73b-c146389cddd6
+slug: ancestry-foreclosed-not-omitted
 page-type-slug: finding
 title: "Ancestry foreclosed not omitted"
 domain-slug: persona-appearance/ceri-appearance

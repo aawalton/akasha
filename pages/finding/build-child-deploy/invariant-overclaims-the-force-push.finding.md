@@ -1,5 +1,6 @@
 ---
 id: 2d538e85-4a90-581f-aa71-e52a8551ebee
+slug: invariant-overclaims-the-force-push
 page-type-slug: finding
 title: "Invariant overclaims the force push"
 domain-slug: domain/global

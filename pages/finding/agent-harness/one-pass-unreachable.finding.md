@@ -1,5 +1,6 @@
 ---
 id: dd07cf74-13c2-5ce7-a74c-e8fb0a46084d
+slug: one-pass-unreachable
 page-type-slug: finding
 title: "One pass unreachable"
 domain-slug: domain/agent-harness

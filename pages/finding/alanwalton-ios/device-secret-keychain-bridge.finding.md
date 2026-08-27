@@ -1,5 +1,6 @@
 ---
 id: 260f3b59-6bf3-5d27-a4c3-e1d554c7f6ae
+slug: device-secret-keychain-bridge
 page-type-slug: finding
 title: "Device secret keychain bridge"
 domain-slug: ios-app/alanwalton-ios

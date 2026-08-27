@@ -1,5 +1,6 @@
 ---
 id: fba132d6-aaa6-5ca0-bac2-51e0ce19aba9
+slug: code-cites-the-removed-slug
 page-type-slug: finding
 title: "Code cites the removed slug"
 domain-slug: domain/agent-turn-end

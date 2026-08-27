@@ -1,5 +1,6 @@
 ---
 id: 7c0ef664-c04f-50e3-b10d-6c8f68649991
+slug: name-the-act-clause-inverts
 page-type-slug: finding
 title: "Name the act clause inverts"
 domain-slug: domain/arousal

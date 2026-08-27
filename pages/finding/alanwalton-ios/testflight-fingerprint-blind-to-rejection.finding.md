@@ -1,5 +1,6 @@
 ---
 id: f38bd1c4-c546-5746-8095-252e17fd4260
+slug: testflight-fingerprint-blind-to-rejection
 page-type-slug: finding
 title: "Testflight fingerprint blind to rejection"
 domain-slug: ios-app/alanwalton-ios

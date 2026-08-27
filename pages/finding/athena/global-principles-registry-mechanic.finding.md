@@ -1,5 +1,6 @@
 ---
 id: 2aa7a2ae-92ee-5c1f-bebb-40f1f3cd1cee
+slug: global-principles-registry-mechanic
 page-type-slug: finding
 title: "global principles registry mechanic"
 domain-slug: persona/athena

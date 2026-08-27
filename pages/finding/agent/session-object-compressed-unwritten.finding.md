@@ -1,5 +1,6 @@
 ---
 id: 6cdcfbbe-f6a6-5b55-92fc-924731dc799c
+slug: session-object-compressed-unwritten
 page-type-slug: finding
 title: "Session object compressed unwritten"
 domain-slug: page-type/agent

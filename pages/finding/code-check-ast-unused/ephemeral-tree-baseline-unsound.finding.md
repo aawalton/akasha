@@ -1,5 +1,6 @@
 ---
 id: b5de1fa7-cc36-56b0-9336-0b70a3ba2930
+slug: ephemeral-tree-baseline-unsound
 page-type-slug: finding
 title: "Ephemeral tree baseline unsound"
 domain-slug: domain/global

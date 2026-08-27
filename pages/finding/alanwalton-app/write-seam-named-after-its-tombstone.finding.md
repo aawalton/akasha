@@ -1,5 +1,6 @@
 ---
 id: afe66902-bf2f-5b0d-b0c5-53071bffb8a1
+slug: write-seam-named-after-its-tombstone
 page-type-slug: finding
 title: "Write seam named after its tombstone"
 domain-slug: domain/alanwalton-app

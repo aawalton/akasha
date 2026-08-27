@@ -1,5 +1,6 @@
 ---
 id: 7017078d-23ba-5486-883b-facf6b2d6302
+slug: neither-decay-nor-use-observable
 page-type-slug: finding
 title: "Neither decay nor use observable"
 domain-slug: domain/atlas-app

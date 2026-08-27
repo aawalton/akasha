@@ -1,5 +1,6 @@
 ---
 id: 8c381652-e12e-566e-abcb-e39cf6f04490
+slug: silver-band-is-four-bands
 page-type-slug: finding
 title: "Silver band is four bands"
 domain-slug: persona-appearance/aria-appearance

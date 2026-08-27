@@ -1,5 +1,6 @@
 ---
 id: aead3578-3c9e-5b1f-8113-20e9c4487623
+slug: typing-coverage-unreported
 page-type-slug: finding
 title: "Typing coverage unreported"
 domain-slug: domain/alan-attention

@@ -1,5 +1,6 @@
 ---
 id: ee76d0b8-d3e3-5128-98c8-831fe2e3194c
+slug: not-parted-from-aine-talia-thea
 page-type-slug: finding
 title: "Not parted from Aine talia thea"
 domain-slug: persona-appearance/athena-appearance

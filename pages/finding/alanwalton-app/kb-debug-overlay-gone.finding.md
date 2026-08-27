@@ -1,5 +1,6 @@
 ---
 id: f311a100-c910-5f24-825b-fbba475d8901
+slug: kb-debug-overlay-gone
 page-type-slug: finding
 title: "Kb debug overlay gone"
 domain-slug: domain/alanwalton-app

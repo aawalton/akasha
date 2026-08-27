@@ -1,5 +1,6 @@
 ---
 id: d0bed74b-8d5c-5a97-afb6-210bd33f4cb4
+slug: shell-signout-path-missing
 page-type-slug: finding
 title: "Shell signout path missing"
 domain-slug: ios-app/alanwalton-ios

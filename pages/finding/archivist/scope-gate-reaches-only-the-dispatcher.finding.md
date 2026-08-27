@@ -1,5 +1,6 @@
 ---
 id: f90f0d06-3290-503b-8d82-ea2ea384c40a
+slug: scope-gate-reaches-only-the-dispatcher
 page-type-slug: finding
 title: "Scope gate reaches only the dispatcher"
 domain-slug: domain/global

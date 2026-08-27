@@ -1,5 +1,6 @@
 ---
 id: 917c5d75-57a8-5ffb-8930-04ce41a6fd8a
+slug: cover-variant-reason-outlived-the-seed
 page-type-slug: finding
 title: "Cover variant reason outlived the seed"
 domain-slug: domain/alanwalton-app

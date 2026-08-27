@@ -1,5 +1,6 @@
 ---
 id: 1e286b4e-075f-5753-9018-478d88d4b559
+slug: obligations-written-never-resolved
 page-type-slug: finding
 title: "Obligations written never resolved"
 domain-slug: domain/global

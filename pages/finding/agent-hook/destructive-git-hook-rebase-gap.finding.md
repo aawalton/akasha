@@ -1,5 +1,6 @@
 ---
 id: c0ce64ba-0e26-5f75-b49d-7ee2e51ce6ff
+slug: destructive-git-hook-rebase-gap
 page-type-slug: finding
 title: "Destructive Git hook rebase gap"
 domain-slug: page-type/agent-hook

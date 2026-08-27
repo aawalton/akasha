@@ -1,5 +1,6 @@
 ---
 id: 76c1e6d7-e0d4-56bd-a3b1-4f28ebde00f7
+slug: principles-exemplars
 page-type-slug: finding
 title: "principles > exemplars"
 domain-slug: persona/athena

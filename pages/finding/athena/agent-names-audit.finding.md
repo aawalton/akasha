@@ -1,5 +1,6 @@
 ---
 id: 6f1359c2-07fb-5cad-b811-3490a6118979
+slug: agent-names-audit
 page-type-slug: finding
 title: "agent names audit"
 domain-slug: persona/athena

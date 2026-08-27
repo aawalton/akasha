@@ -1,5 +1,6 @@
 ---
 id: d150dfc6-946c-583d-9a48-8f29857e26e9
+slug: byte-faucets-meter-an-empty-path
 page-type-slug: finding
 title: "Byte faucets meter an empty path"
 domain-slug: domain/alanwalton-app

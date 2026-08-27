@@ -1,5 +1,6 @@
 ---
 id: 2170fb47-fcdb-51fc-ae29-e2e736df1b0b
+slug: sent-label-forgeability
 page-type-slug: finding
 title: "Sent label forgeability"
 domain-slug: domain/alan-harness

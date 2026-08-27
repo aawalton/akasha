@@ -1,5 +1,6 @@
 ---
 id: cdaf5e3f-c334-520d-a8ca-0f85690a0efc
+slug: silent-metric-in-headless-stream
 page-type-slug: finding
 title: "Silent metric in headless stream"
 domain-slug: domain/alan-harness

@@ -1,5 +1,6 @@
 ---
 id: a8d33d9d-60cd-57a6-abea-78335699febb
+slug: rules-section-earns-its-place
 page-type-slug: finding
 title: "Rules section earns its place"
 domain-slug: domain/alan-email

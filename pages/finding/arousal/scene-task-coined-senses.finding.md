@@ -1,5 +1,6 @@
 ---
 id: 6daef85d-cc42-5997-a649-8115b6953ed5
+slug: scene-task-coined-senses
 page-type-slug: finding
 title: "Scene task coined senses"
 domain-slug: domain/arousal

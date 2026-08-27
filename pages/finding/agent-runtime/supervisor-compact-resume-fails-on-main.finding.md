@@ -1,5 +1,6 @@
 ---
 id: 8ad32375-debf-547f-8f42-363313abf25d
+slug: supervisor-compact-resume-fails-on-main
 page-type-slug: finding
 title: "Supervisor compact resume fails on main"
 domain-slug: domain/agent-runtime

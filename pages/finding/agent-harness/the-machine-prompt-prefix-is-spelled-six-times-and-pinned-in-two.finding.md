@@ -1,5 +1,6 @@
 ---
 id: b203e427-0461-58d5-81bf-5384d7056327
+slug: the-machine-prompt-prefix-is-spelled-six-times-and-pinned-in-two
 page-type-slug: finding
 title: "The machine prompt prefix is spelled six times and pinned in two"
 domain-slug: domain/agent-harness

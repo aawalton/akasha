@@ -1,5 +1,6 @@
 ---
 id: ffd408d6-1ddd-5a8f-9362-07afd8b262e2
+slug: agent-roles
 page-type-slug: finding
 title: "AGENT_ROLES"
 domain-slug: persona/athena

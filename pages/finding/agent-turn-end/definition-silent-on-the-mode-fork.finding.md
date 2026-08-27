@@ -1,5 +1,6 @@
 ---
 id: b2674665-b1e0-597c-9eac-9c5c7509bb5d
+slug: definition-silent-on-the-mode-fork
 page-type-slug: finding
 title: "Definition silent on the mode fork"
 domain-slug: domain/agent-turn-end

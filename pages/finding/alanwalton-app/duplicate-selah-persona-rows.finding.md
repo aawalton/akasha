@@ -1,5 +1,6 @@
 ---
 id: a8e8edb7-ad3e-5b6a-85cf-c484ee4d7ec4
+slug: duplicate-selah-persona-rows
 page-type-slug: finding
 title: "Duplicate selah persona rows"
 domain-slug: domain/alanwalton-app

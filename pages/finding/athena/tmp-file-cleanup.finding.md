@@ -1,5 +1,6 @@
 ---
 id: 206b5414-49d3-57ce-8776-d2daa8cfc80c
+slug: tmp-file-cleanup
 page-type-slug: finding
 title: "tmp file cleanup"
 domain-slug: persona/athena

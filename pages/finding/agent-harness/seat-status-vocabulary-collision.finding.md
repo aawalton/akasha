@@ -1,5 +1,6 @@
 ---
 id: 3edfcb9f-a41c-5c74-946c-b61434b6a7cf
+slug: seat-status-vocabulary-collision
 page-type-slug: finding
 title: "Seat status vocabulary collision"
 domain-slug: domain/agent-harness

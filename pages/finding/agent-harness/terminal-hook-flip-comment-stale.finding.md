@@ -1,5 +1,6 @@
 ---
 id: 61e0cf25-8e92-5604-8050-faae79ba929b
+slug: terminal-hook-flip-comment-stale
 page-type-slug: finding
 title: "Terminal hook flip comment stale"
 domain-slug: domain/agent-harness

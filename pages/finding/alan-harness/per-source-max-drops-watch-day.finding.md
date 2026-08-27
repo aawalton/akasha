@@ -1,5 +1,6 @@
 ---
 id: 22932ad0-df03-5101-bde4-f50122360337
+slug: per-source-max-drops-watch-day
 page-type-slug: finding
 title: "Per source max drops watch day"
 domain-slug: domain/alan-harness

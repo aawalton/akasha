@@ -1,5 +1,6 @@
 ---
 id: 1b9d3235-ab33-5b18-a8a8-ad56ee66769c
+slug: worktree-remove-child-seq-takes-the-parent-tree
 page-type-slug: finding
 title: "Worktree remove child seq takes the parent tree"
 domain-slug: domain/agent-harness

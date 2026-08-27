@@ -1,5 +1,6 @@
 ---
 id: f07d8512-749d-5aa9-b9b0-e4bb2ed3aba3
+slug: burnt-death-latch-only-cleared-on-revive
 page-type-slug: finding
 title: "Burnt death latch only cleared on revive"
 domain-slug: domain/global

@@ -1,5 +1,6 @@
 ---
 id: 4633f630-d774-5da9-9252-34f438b272c5
+slug: single-authority-warrant-inverted
 page-type-slug: finding
 title: "Single authority warrant inverted"
 domain-slug: domain/agent-harness

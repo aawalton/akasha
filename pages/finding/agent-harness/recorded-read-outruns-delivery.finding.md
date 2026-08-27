@@ -1,5 +1,6 @@
 ---
 id: a82764e1-fd07-5da3-8970-8704d40999de
+slug: recorded-read-outruns-delivery
 page-type-slug: finding
 title: "Recorded read outruns delivery"
 domain-slug: domain/agent-harness

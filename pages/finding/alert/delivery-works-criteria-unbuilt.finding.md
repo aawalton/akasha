@@ -1,5 +1,6 @@
 ---
 id: 5f77cfcb-f584-5f69-8fcd-4bb17218c7ab
+slug: delivery-works-criteria-unbuilt
 page-type-slug: finding
 title: "Delivery works criteria unbuilt"
 domain-slug: page-type/alert

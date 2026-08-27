@@ -1,5 +1,6 @@
 ---
 id: d2a70d3c-9f7a-55dd-b852-50598b9cd8c3
+slug: not-parted-from-nimue-echo-grace-thea
 page-type-slug: finding
 title: "Not parted from Nimue echo grace thea"
 domain-slug: persona-appearance/awen-appearance

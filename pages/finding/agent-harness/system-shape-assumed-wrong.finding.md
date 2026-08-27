@@ -1,5 +1,6 @@
 ---
 id: 35a7420d-55ca-55a1-b953-7354fa7722d8
+slug: system-shape-assumed-wrong
 page-type-slug: finding
 title: "System shape assumed wrong"
 domain-slug: domain/agent-harness

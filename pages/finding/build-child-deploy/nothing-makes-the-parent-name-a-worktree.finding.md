@@ -1,5 +1,6 @@
 ---
 id: 29d7b856-0e83-59de-a87b-e53e2285d1fc
+slug: nothing-makes-the-parent-name-a-worktree
 page-type-slug: finding
 title: "Nothing makes the parent name a worktree"
 domain-slug: domain/global

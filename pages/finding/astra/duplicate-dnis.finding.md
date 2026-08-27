@@ -1,5 +1,6 @@
 ---
 id: fdb5aaed-4983-5eb8-99c6-a7b2bde8f38e
+slug: duplicate-dnis
 page-type-slug: finding
 title: "duplicate DNIs"
 domain-slug: persona/astra

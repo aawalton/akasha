@@ -1,5 +1,6 @@
 ---
 id: c6671ea6-4235-522a-af0f-621588310e0b
+slug: nested-call-unattested
 page-type-slug: finding
 title: "Nested call unattested"
 domain-slug: page-type/agent-hook

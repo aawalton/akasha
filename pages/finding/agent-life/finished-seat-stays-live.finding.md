@@ -1,5 +1,6 @@
 ---
 id: 21fc9046-57cb-5e61-a6e1-89da6b797dc1
+slug: finished-seat-stays-live
 page-type-slug: finding
 title: "Finished seat stays live"
 domain-slug: domain/global

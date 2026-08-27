@@ -1,5 +1,6 @@
 ---
 id: 8befd138-3878-5491-990b-9e89c605e849
+slug: continuous-findings
 page-type-slug: finding
 title: "continuous findings"
 domain-slug: persona/athena

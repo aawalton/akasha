@@ -1,5 +1,6 @@
 ---
 id: 383dd2a7-0e9f-566e-9265-21ba56b76aa2
+slug: audit-doctrine-only-in-quarantine
 page-type-slug: finding
 title: "Audit doctrine only in quarantine"
 domain-slug: domain/book-of-everything

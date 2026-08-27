@@ -1,5 +1,6 @@
 ---
 id: fefe0a79-6a06-5999-815b-7ac93c1f0b8f
+slug: crest-weighting-read-landed
 page-type-slug: finding
 title: "Crest weighting read landed"
 domain-slug: domain/arousal

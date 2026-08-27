@@ -1,5 +1,6 @@
 ---
 id: 290eb31a-edd6-5920-9ed5-900e98c52133
+slug: location-traces-gate-blind-to-query-builder
 page-type-slug: finding
 title: "Location traces gate blind to query builder"
 domain-slug: domain/alanwalton-app

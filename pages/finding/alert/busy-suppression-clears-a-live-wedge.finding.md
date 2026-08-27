@@ -1,5 +1,6 @@
 ---
 id: 7205ada7-d75f-5f61-aa6f-2c0f70279f54
+slug: busy-suppression-clears-a-live-wedge
 page-type-slug: finding
 title: "Busy suppression clears a live wedge"
 domain-slug: page-type/alert

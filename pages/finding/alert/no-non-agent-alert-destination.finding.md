@@ -1,5 +1,6 @@
 ---
 id: e2524b86-1f7c-59b4-b23f-231d996deeff
+slug: no-non-agent-alert-destination
 page-type-slug: finding
 title: "No non agent alert destination"
 domain-slug: page-type/alert

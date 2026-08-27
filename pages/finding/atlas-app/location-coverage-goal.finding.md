@@ -1,5 +1,6 @@
 ---
 id: d59f6407-505d-5805-9e8d-69a009263bdd
+slug: location-coverage-goal
 page-type-slug: finding
 title: "Location coverage goal"
 domain-slug: domain/atlas-app

@@ -1,5 +1,6 @@
 ---
 id: 06665d1d-0317-55c0-8515-3f8dddc773bc
+slug: definition-names-no-deploy-mode
 page-type-slug: finding
 title: "Definition names no deploy mode"
 domain-slug: domain/global

@@ -1,5 +1,6 @@
 ---
 id: e2cbe5ad-f888-56b7-a9fe-f24d38b6af8c
+slug: crash-telemetry-frames-truncated
 page-type-slug: finding
 title: "Crash telemetry frames truncated"
 domain-slug: ios-app/alanwalton-ios

@@ -1,5 +1,6 @@
 ---
 id: 70a61ae7-a979-501e-b600-2add96be772b
+slug: quiet-inbox-skips-exit-record
 page-type-slug: finding
 title: "Quiet inbox skips exit record"
 domain-slug: domain/global

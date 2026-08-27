@@ -1,5 +1,6 @@
 ---
 id: 234dd7c8-144e-5f86-8aca-53863f5cd609
+slug: audit-why
 page-type-slug: finding
 title: "audit why?"
 domain-slug: persona/athena

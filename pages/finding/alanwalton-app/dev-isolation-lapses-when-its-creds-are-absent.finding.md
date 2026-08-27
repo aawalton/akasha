@@ -1,5 +1,6 @@
 ---
 id: bcaa3601-9366-5674-b5c2-c3bf7c7c4eda
+slug: dev-isolation-lapses-when-its-creds-are-absent
 page-type-slug: finding
 title: "Dev isolation lapses when its creds are absent"
 domain-slug: domain/alanwalton-app

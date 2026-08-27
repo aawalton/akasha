@@ -1,5 +1,6 @@
 ---
 id: 91927f11-da7f-52bc-bc6a-075cc26a10c9
+slug: wake-sources-unreadable
 page-type-slug: finding
 title: "Wake sources unreadable"
 domain-slug: domain/agent-harness

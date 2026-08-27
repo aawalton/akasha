@@ -1,5 +1,6 @@
 ---
 id: 0d3f01ac-1b77-546d-84db-487a71109c44
+slug: symlink-inventory-parse-drops-on-indent
 page-type-slug: finding
 title: "Symlink inventory parse drops on indent"
 domain-slug: domain/agent-harness

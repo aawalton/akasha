@@ -1,5 +1,6 @@
 ---
 id: a58df787-1344-5d4a-9a4e-b8ad1fcf2db5
+slug: wda-session-create-infra-broken
 page-type-slug: finding
 title: "Wda session create infra broken"
 domain-slug: ios-app/alanwalton-ios

@@ -1,5 +1,6 @@
 ---
 id: 7e7af1c0-40de-5e06-91bf-055f17cb93f3
+slug: the-two-walks-duplicate-each-other
 page-type-slug: finding
 title: "The two walks duplicate each other"
 domain-slug: domain/global

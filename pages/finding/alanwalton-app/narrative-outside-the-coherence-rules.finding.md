@@ -1,5 +1,6 @@
 ---
 id: 14eac2d5-9acd-5352-8833-9b22db62acd4
+slug: narrative-outside-the-coherence-rules
 page-type-slug: finding
 title: "Narrative outside the coherence rules"
 domain-slug: domain/alanwalton-app

@@ -1,5 +1,6 @@
 ---
 id: 412470ab-9917-5eaf-a3fa-ad9656b31963
+slug: third-party-package-reached-through-code-import
 page-type-slug: finding
 title: "Third party package reached through code import"
 domain-slug: domain/agent-harness

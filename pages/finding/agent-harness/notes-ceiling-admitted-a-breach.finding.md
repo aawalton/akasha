@@ -1,5 +1,6 @@
 ---
 id: f28d97ff-1b57-5d83-a8e3-aa449f806492
+slug: notes-ceiling-admitted-a-breach
 page-type-slug: finding
 title: "Notes ceiling admitted a breach"
 domain-slug: domain/agent-harness

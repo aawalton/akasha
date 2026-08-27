@@ -1,5 +1,6 @@
 ---
 id: 8a7e87dd-8367-577d-a83a-3457642f618e
+slug: send-resolves-a-name-to-a-dead-row
 page-type-slug: finding
 title: "Send resolves a name to a dead row"
 domain-slug: domain/agent-harness

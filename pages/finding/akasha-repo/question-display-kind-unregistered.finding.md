@@ -1,5 +1,6 @@
 ---
 id: aa5b2466-007d-5ef9-837d-d527f6336fa9
+slug: question-display-kind-unregistered
 page-type-slug: finding
 title: "Question display kind unregistered"
 domain-slug: repo/akasha-repo

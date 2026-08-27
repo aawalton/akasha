@@ -1,5 +1,6 @@
 ---
 id: 576c65ce-37e8-5765-aa47-9c804d52bc7a
+slug: eso-rig-halted
 page-type-slug: finding
 title: "Eso rig halted"
 domain-slug: page-type/cluster

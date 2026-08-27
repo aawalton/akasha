@@ -1,5 +1,6 @@
 ---
 id: 93d1a998-3024-54e4-9408-f96f4b91b4fd
+slug: dev-server-port-window-unreconciled
 page-type-slug: finding
 title: "Dev server port window unreconciled"
 domain-slug: repo/akasha-repo

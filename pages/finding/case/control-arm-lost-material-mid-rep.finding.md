@@ -1,5 +1,6 @@
 ---
 id: c5d3bfb4-c402-55bc-8eac-d67dab4b1904
+slug: control-arm-lost-material-mid-rep
 page-type-slug: finding
 title: "Control arm lost material mid rep"
 domain-slug: domain/case

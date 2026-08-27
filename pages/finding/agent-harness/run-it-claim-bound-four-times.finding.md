@@ -1,5 +1,6 @@
 ---
 id: 9c75134b-910d-5f9b-b97f-c4e757a3261e
+slug: run-it-claim-bound-four-times
 page-type-slug: finding
 title: "Run it claim bound four times"
 domain-slug: domain/agent-harness

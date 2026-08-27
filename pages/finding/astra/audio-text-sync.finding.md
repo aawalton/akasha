@@ -1,5 +1,6 @@
 ---
 id: 81bc94a4-1d45-53f2-b0ee-f004c1f3f761
+slug: audio-text-sync
 page-type-slug: finding
 title: "Audio/text sync"
 domain-slug: persona/astra

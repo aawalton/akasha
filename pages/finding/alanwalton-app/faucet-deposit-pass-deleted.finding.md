@@ -1,5 +1,6 @@
 ---
 id: 6a3d681e-8160-557d-8e47-15a69ddedd13
+slug: faucet-deposit-pass-deleted
 page-type-slug: finding
 title: "Faucet deposit pass deleted"
 domain-slug: domain/alanwalton-app

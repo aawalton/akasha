@@ -1,5 +1,6 @@
 ---
 id: a76ee8af-6b03-50c9-808b-707b15935fab
+slug: reading-refusal-unclearable
 page-type-slug: finding
 title: "Reading refusal unclearable"
 domain-slug: domain/agent-harness

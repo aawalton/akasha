@@ -1,5 +1,6 @@
 ---
 id: 7e918e31-cd6b-57c7-bbb2-a2fbb482f949
+slug: marketing-rules-archive-only
 page-type-slug: finding
 title: "Marketing rules archive only"
 domain-slug: domain/alan-email

@@ -1,5 +1,6 @@
 ---
 id: 62dedd8d-2400-5005-b0ab-c52a6339b4d1
+slug: earlier-pin-knowledge
 page-type-slug: finding
 title: "earlier pin knowledge"
 domain-slug: persona/athena

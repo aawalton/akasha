@@ -1,5 +1,6 @@
 ---
 id: 3b661712-3576-50f7-9bec-05482ea9ae39
+slug: trial-scope-splits-two-lines
 page-type-slug: finding
 title: "Trial scope splits two lines"
 domain-slug: task/author-persona-scene

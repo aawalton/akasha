@@ -1,5 +1,6 @@
 ---
 id: b837ff5e-f7cb-516a-b0ab-eaea5874ecf3
+slug: two-spellings-of-a-rule-name-with-the-folding-unstated
 page-type-slug: finding
 title: "Two spellings of a rule name with the folding unstated"
 domain-slug: page-type/alert

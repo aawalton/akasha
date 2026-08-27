@@ -1,5 +1,6 @@
 ---
 id: 6ab054b0-8ec8-51b1-b714-4f483fc851b7
+slug: scheme-sync-notice-points-one-way
 page-type-slug: finding
 title: "Scheme sync notice points one way"
 domain-slug: domain/alanwalton-app

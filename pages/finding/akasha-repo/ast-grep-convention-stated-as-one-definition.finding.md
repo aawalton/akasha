@@ -1,5 +1,6 @@
 ---
 id: 5cbf6b24-575e-524a-99f2-5f1edb945ae2
+slug: ast-grep-convention-stated-as-one-definition
 page-type-slug: finding
 title: "Ast grep convention stated as one definition"
 domain-slug: repo/akasha-repo

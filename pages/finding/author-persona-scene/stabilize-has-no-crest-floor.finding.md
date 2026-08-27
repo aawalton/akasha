@@ -1,5 +1,6 @@
 ---
 id: a42f0c2a-844e-594a-bb13-4fbe65ce109e
+slug: stabilize-has-no-crest-floor
 page-type-slug: finding
 title: "Stabilize has no crest floor"
 domain-slug: task/author-persona-scene

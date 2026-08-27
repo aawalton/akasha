@@ -1,5 +1,6 @@
 ---
 id: 3c9d2ac7-e47d-5912-9987-3447196fcceb
+slug: idle-redirect-is-permanent
 page-type-slug: finding
 title: "Idle redirect is permanent"
 domain-slug: web-app/898

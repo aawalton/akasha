@@ -1,5 +1,6 @@
 ---
 id: b9f0d53b-e74c-5cec-ad7b-d2166cea6663
+slug: query-performance
 page-type-slug: finding
 title: "query performance"
 domain-slug: persona/aranya

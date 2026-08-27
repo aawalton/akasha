@@ -1,5 +1,6 @@
 ---
 id: 80b74d10-a54b-5d0f-be9b-5e2792c70837
+slug: plugin-dirs-reach-no-seat
 page-type-slug: finding
 title: "Plugin dirs reach no seat"
 domain-slug: domain/agent-harness

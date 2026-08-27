@@ -1,5 +1,6 @@
 ---
 id: 866c6251-8deb-53b7-a309-fa3f9868694b
+slug: alan-locked-concept
 page-type-slug: finding
 title: "alan-locked concept"
 domain-slug: persona/athena

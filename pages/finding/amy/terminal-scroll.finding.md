@@ -1,5 +1,6 @@
 ---
 id: 97ec347b-0bd4-591a-ac52-6d26be76c7f5
+slug: terminal-scroll
 page-type-slug: finding
 title: "terminal scroll"
 domain-slug: persona/amy

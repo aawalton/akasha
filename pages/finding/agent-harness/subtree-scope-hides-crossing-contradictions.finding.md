@@ -1,5 +1,6 @@
 ---
 id: 6c9f48ef-ec3b-5d8e-809e-90dd18863096
+slug: subtree-scope-hides-crossing-contradictions
 page-type-slug: finding
 title: "Subtree scope hides crossing contradictions"
 domain-slug: domain/agent-harness

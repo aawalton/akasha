@@ -1,5 +1,6 @@
 ---
 id: 571f002f-8638-506a-9c60-d9c177b91533
+slug: quarantined-docs-drift-ungoverned
 page-type-slug: finding
 title: "Quarantined docs drift ungoverned"
 domain-slug: domain/global

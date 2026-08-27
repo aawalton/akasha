@@ -1,5 +1,6 @@
 ---
 id: 620b1e21-cff8-5046-99fc-cbec9246ce8d
+slug: alan-correction-as-signal
 page-type-slug: finding
 title: "Alan correction as signal"
 domain-slug: domain/alan-harness-agents

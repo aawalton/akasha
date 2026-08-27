@@ -1,5 +1,6 @@
 ---
 id: a7082f98-f1eb-5490-b7e8-eb7873da96f5
+slug: post-death-recovery-declares-a-revive
 page-type-slug: finding
 title: "Post death recovery declares a revive"
 domain-slug: domain/global

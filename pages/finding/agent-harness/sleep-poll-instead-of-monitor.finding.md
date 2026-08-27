@@ -1,5 +1,6 @@
 ---
 id: 19ba4798-34d9-53bb-b871-b87f26d28e3e
+slug: sleep-poll-instead-of-monitor
 page-type-slug: finding
 title: "Sleep poll instead of monitor"
 domain-slug: domain/agent-harness

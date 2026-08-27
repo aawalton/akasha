@@ -1,5 +1,6 @@
 ---
 id: 46e0b5e9-2a32-5d11-abb6-511da963715d
+slug: port-task-import-precondition-unenforced
 page-type-slug: finding
 title: "Port task import precondition unenforced"
 domain-slug: domain/agent-harness

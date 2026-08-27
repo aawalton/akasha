@@ -1,5 +1,6 @@
 ---
 id: 9cde70b1-4a9c-5ca6-a997-b81bd8604d64
+slug: contended-line-read-two-ways
 page-type-slug: finding
 title: "Contended line read two ways"
 domain-slug: domain/category-rule-counterpart

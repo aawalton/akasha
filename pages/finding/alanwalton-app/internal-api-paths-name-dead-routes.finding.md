@@ -1,5 +1,6 @@
 ---
 id: a2d425d7-9642-50e3-8cfd-f4284f397534
+slug: internal-api-paths-name-dead-routes
 page-type-slug: finding
 title: "Internal API paths name dead routes"
 domain-slug: domain/alanwalton-app

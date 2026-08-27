@@ -1,5 +1,6 @@
 ---
 id: 3b370131-8d99-5d59-9f62-91f0396aba25
+slug: spawn-exit-overstated
 page-type-slug: finding
 title: "Spawn exit overstated"
 domain-slug: barred-meaning/agent-launch

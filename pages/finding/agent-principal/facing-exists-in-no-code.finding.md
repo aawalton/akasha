@@ -1,5 +1,6 @@
 ---
 id: 310018f0-e980-5a44-a9f2-8f561327e963
+slug: facing-exists-in-no-code
 page-type-slug: finding
 title: "Facing exists in no code"
 domain-slug: domain/global

@@ -1,5 +1,6 @@
 ---
 id: 02e96786-fbe1-5d88-88ef-9378c085e83b
+slug: colour-handed-to-the-sun
 page-type-slug: finding
 title: "Colour handed to the sun"
 domain-slug: persona-appearance/atlas-appearance

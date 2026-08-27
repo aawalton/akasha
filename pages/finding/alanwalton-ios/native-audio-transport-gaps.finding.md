@@ -1,5 +1,6 @@
 ---
 id: 8257c280-be32-5a58-9e62-97756e98b16f
+slug: native-audio-transport-gaps
 page-type-slug: finding
 title: "Native audio transport gaps"
 domain-slug: ios-app/alanwalton-ios

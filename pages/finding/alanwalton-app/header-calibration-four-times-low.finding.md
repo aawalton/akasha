@@ -1,5 +1,6 @@
 ---
 id: 31319cbe-c4f1-517c-aba7-2c7679c4ac3b
+slug: header-calibration-four-times-low
 page-type-slug: finding
 title: "Header calibration four times low"
 domain-slug: domain/alanwalton-app

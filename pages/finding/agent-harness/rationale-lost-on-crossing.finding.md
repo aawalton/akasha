@@ -1,5 +1,6 @@
 ---
 id: fd7d95cc-9e07-5dfe-b3bf-7b2d939f0df4
+slug: rationale-lost-on-crossing
 page-type-slug: finding
 title: "Rationale lost on crossing"
 domain-slug: domain/agent-harness

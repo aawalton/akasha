@@ -1,5 +1,6 @@
 ---
 id: 5b7d5e5b-68f7-5e74-873d-951be140253e
+slug: shared-scratch-has-no-seat-namespace
 page-type-slug: finding
 title: "Shared scratch has no seat namespace"
 domain-slug: domain/agent-harness

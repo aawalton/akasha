@@ -1,5 +1,6 @@
 ---
 id: 179b84a8-991c-5e1c-acad-9506f3761c38
+slug: static-assets-carry-no-security-headers
 page-type-slug: finding
 title: "Static assets carry no security headers"
 domain-slug: repo/akasha-repo

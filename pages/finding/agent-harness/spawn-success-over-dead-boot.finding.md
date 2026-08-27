@@ -1,5 +1,6 @@
 ---
 id: 69474840-9f03-5d99-b6f5-6de38bed1e47
+slug: spawn-success-over-dead-boot
 page-type-slug: finding
 title: "Spawn success over dead boot"
 domain-slug: domain/agent-harness

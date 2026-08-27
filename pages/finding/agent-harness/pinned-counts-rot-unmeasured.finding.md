@@ -1,5 +1,6 @@
 ---
 id: a08b578e-ddd3-5df1-950b-536bab411e01
+slug: pinned-counts-rot-unmeasured
 page-type-slug: finding
 title: "Pinned counts rot unmeasured"
 domain-slug: domain/agent-harness

@@ -1,5 +1,6 @@
 ---
 id: 3f8fb8b4-d664-5d39-a727-7b8f2a2380d1
+slug: claude-in-pool-without-a-page
 page-type-slug: finding
 title: "Claude in pool without a page"
 domain-slug: task/author-persona-scene

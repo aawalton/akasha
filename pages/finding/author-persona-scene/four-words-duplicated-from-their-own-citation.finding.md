@@ -1,5 +1,6 @@
 ---
 id: b63b4fad-4ef2-59b1-890e-921945b85c71
+slug: four-words-duplicated-from-their-own-citation
 page-type-slug: finding
 title: "Four words duplicated from their own citation"
 domain-slug: task/author-persona-scene

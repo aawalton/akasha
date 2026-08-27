@@ -1,5 +1,6 @@
 ---
 id: 72f17db0-1abc-5bb1-95a7-eb8db7bafc57
+slug: stage-four-runs-during-stage-three
 page-type-slug: finding
 title: "Stage four runs during stage three"
 domain-slug: task/author-persona-scene

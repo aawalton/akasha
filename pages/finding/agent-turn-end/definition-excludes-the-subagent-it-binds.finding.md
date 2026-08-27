@@ -1,5 +1,6 @@
 ---
 id: 07c89ef5-94a4-5e5d-985a-fff659cb8bcd
+slug: definition-excludes-the-subagent-it-binds
 page-type-slug: finding
 title: "Definition excludes the subagent it binds"
 domain-slug: domain/agent-turn-end

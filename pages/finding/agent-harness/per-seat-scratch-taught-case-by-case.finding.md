@@ -1,5 +1,6 @@
 ---
 id: bc9c2797-d2db-5957-90d0-06840aebc11f
+slug: per-seat-scratch-taught-case-by-case
 page-type-slug: finding
 title: "Per seat scratch taught case by case"
 domain-slug: domain/agent-harness

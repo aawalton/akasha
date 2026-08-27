@@ -1,5 +1,6 @@
 ---
 id: 3da86a57-04d2-56df-afa1-fce37f2fe488
+slug: shadowed-sequence-property-definition
 page-type-slug: finding
 title: "shadowed sequence property definition"
 domain-slug: persona/astra

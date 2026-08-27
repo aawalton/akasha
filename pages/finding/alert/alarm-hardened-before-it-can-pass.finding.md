@@ -1,5 +1,6 @@
 ---
 id: 38bf5050-03c9-53e3-8b63-99ee4172b032
+slug: alarm-hardened-before-it-can-pass
 page-type-slug: finding
 title: "Alarm hardened before it can pass"
 domain-slug: page-type/alert

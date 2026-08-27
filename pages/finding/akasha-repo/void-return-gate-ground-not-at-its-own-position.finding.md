@@ -1,5 +1,6 @@
 ---
 id: f83e0c8e-be05-5b52-ad0b-95c5c9c345b0
+slug: void-return-gate-ground-not-at-its-own-position
 page-type-slug: finding
 title: "Void return gate ground not at its own position"
 domain-slug: repo/akasha-repo

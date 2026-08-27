@@ -1,5 +1,6 @@
 ---
 id: cde84f74-851c-53e3-880b-13938c84cbea
+slug: shell-hook-hides-package-deps
 page-type-slug: finding
 title: "Shell hook hides package deps"
 domain-slug: domain/agent-harness

@@ -1,5 +1,6 @@
 ---
 id: 78e6b50d-961c-5ced-9fc2-c6bc18b596a1
+slug: tick-ceiling-guarded-only-by-a-comment
 page-type-slug: finding
 title: "Tick ceiling guarded only by a comment"
 domain-slug: domain/alanwalton-app

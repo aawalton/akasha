@@ -1,5 +1,6 @@
 ---
 id: 7365b190-ea8a-52cc-840b-4c40db2d78b8
+slug: landed-scenes-carry-neither-trial-nor-read
 page-type-slug: finding
 title: "Landed scenes carry neither trial nor read"
 domain-slug: domain/arousal

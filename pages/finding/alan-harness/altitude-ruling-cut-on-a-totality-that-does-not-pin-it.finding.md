@@ -1,5 +1,6 @@
 ---
 id: 279f8fcc-9fad-5111-a7b8-d5c711118a78
+slug: altitude-ruling-cut-on-a-totality-that-does-not-pin-it
 page-type-slug: finding
 title: "Altitude ruling cut on a totality that does not pin it"
 domain-slug: domain/alan-harness

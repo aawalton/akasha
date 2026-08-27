@@ -1,5 +1,6 @@
 ---
 id: 4729a89d-b892-5531-b69c-0d9a567a83ae
+slug: eso-install-separate-from-login
 page-type-slug: finding
 title: "Eso install separate from login"
 domain-slug: page-type/cluster

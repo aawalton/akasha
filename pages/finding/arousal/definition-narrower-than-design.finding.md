@@ -1,5 +1,6 @@
 ---
 id: 82b7dc11-cd9c-5e9f-81fd-c84a43ed5102
+slug: definition-narrower-than-design
 page-type-slug: finding
 title: "Definition narrower than design"
 domain-slug: domain/arousal

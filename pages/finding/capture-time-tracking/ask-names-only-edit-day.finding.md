@@ -1,5 +1,6 @@
 ---
 id: 0ae00b2b-20c2-515f-a7f0-bb54af62d8b9
+slug: ask-names-only-edit-day
 page-type-slug: finding
 title: "Ask names only edit day"
 domain-slug: task/capture-time-tracking

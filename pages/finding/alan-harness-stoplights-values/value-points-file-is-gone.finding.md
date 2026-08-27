@@ -1,5 +1,6 @@
 ---
 id: 1db92b92-efb3-5c91-bd45-15a5c7b9a344
+slug: value-points-file-is-gone
 page-type-slug: finding
 title: "Value points file is gone"
 domain-slug: readout-group/values

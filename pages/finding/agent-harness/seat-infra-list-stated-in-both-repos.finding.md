@@ -1,5 +1,6 @@
 ---
 id: 6fee9dc7-99da-59ab-b3d0-d0023d0ef65e
+slug: seat-infra-list-stated-in-both-repos
 page-type-slug: finding
 title: "Seat infra list stated in both repos"
 domain-slug: domain/agent-harness

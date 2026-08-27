@@ -1,5 +1,6 @@
 ---
 id: 1a18aa69-e731-5a11-bec1-f6cf2fc04db1
+slug: sweep-grades-the-workstation-tree
 page-type-slug: finding
 title: "Sweep grades the workstation tree"
 domain-slug: domain/alanwalton-app

@@ -1,5 +1,6 @@
 ---
 id: 513d3e48-9e07-5f2f-9414-95f4c42a3d1d
+slug: reward-reminder-cites-quarantined-doc
 page-type-slug: finding
 title: "Reward reminder cites quarantined doc"
 domain-slug: domain/alanwalton-app

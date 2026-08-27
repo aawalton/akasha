@@ -1,5 +1,6 @@
 ---
 id: a3361570-6f7c-5884-b8cb-51f6f3a1e6f2
+slug: active-gauge-reads-file-mtime
 page-type-slug: finding
 title: "Active gauge reads file mtime"
 domain-slug: page-type/agent

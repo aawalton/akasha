@@ -1,5 +1,6 @@
 ---
 id: e1c218ae-8827-57e1-a134-cc6102904d0d
+slug: chain-singulars-read-as-count
 page-type-slug: finding
 title: "Chain singulars read as count"
 domain-slug: persona-appearance/ceri-appearance

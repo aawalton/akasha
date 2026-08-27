@@ -1,5 +1,6 @@
 ---
 id: 04012b24-d672-57f0-a761-03efe0039266
+slug: persona-domain-reads-conflation
 page-type-slug: finding
 title: "Persona domain reads conflation"
 domain-slug: domain/agent-harness

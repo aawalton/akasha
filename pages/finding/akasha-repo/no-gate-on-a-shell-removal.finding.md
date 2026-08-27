@@ -1,5 +1,6 @@
 ---
 id: 16698298-7f31-5b89-abac-2932871f6994
+slug: no-gate-on-a-shell-removal
 page-type-slug: finding
 title: "No gate on a shell removal"
 domain-slug: repo/akasha-repo

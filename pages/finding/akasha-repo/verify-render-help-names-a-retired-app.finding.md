@@ -1,5 +1,6 @@
 ---
 id: bd4cc109-0003-5ec9-ad03-365f49d4f901
+slug: verify-render-help-names-a-retired-app
 page-type-slug: finding
 title: "Verify render help names a retired app"
 domain-slug: repo/akasha-repo

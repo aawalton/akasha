@@ -1,5 +1,6 @@
 ---
 id: 9a7bdcc3-0c25-535e-8b9b-3395c57b21d6
+slug: no-instrument-carries-time
 page-type-slug: finding
 title: "No instrument carries time"
 domain-slug: domain/book-of-everything

@@ -1,5 +1,6 @@
 ---
 id: b637180b-46a3-5c4f-aad8-046f0a58c7ff
+slug: memory-reaper-undeclared
 page-type-slug: finding
 title: "Memory reaper undeclared"
 domain-slug: domain/global

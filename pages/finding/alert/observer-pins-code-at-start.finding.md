@@ -1,5 +1,6 @@
 ---
 id: 8944aae4-d94a-5a5f-a2e5-4e40437f68fd
+slug: observer-pins-code-at-start
 page-type-slug: finding
 title: "Observer pins code at start"
 domain-slug: page-type/alert

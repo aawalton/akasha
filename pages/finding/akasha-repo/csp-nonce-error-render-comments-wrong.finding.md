@@ -1,5 +1,6 @@
 ---
 id: 096a6177-170e-5f7d-8e65-a51e645dd68d
+slug: csp-nonce-error-render-comments-wrong
 page-type-slug: finding
 title: "Csp nonce error render comments wrong"
 domain-slug: repo/akasha-repo

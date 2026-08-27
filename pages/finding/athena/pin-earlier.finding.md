@@ -1,5 +1,6 @@
 ---
 id: 2c53b310-08e4-5b44-969c-d7dd96662820
+slug: pin-earlier
 page-type-slug: finding
 title: "pin earlier"
 domain-slug: persona/athena

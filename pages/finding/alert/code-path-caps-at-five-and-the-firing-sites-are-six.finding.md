@@ -1,5 +1,6 @@
 ---
 id: 040fdbec-86bb-59bd-ac40-c23b2aba36a9
+slug: code-path-caps-at-five-and-the-firing-sites-are-six
 page-type-slug: finding
 title: "Code path caps at five and the firing sites are six"
 domain-slug: page-type/alert

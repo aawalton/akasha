@@ -1,5 +1,6 @@
 ---
 id: 61585818-f8a0-5b4c-b08c-1923d566caec
+slug: claims-bound-by-unreachable-documents
 page-type-slug: finding
 title: "Claims bound by unreachable documents"
 domain-slug: task/capture-time-tracking

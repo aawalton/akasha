@@ -1,5 +1,6 @@
 ---
 id: b0470886-6396-5250-89c0-a382bc0ee9b9
+slug: audit-binging-handoff
 page-type-slug: finding
 title: "audit binging/handoff"
 domain-slug: persona/athena

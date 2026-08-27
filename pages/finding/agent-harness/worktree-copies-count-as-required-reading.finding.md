@@ -1,5 +1,6 @@
 ---
 id: 019f3a1c-4d21-7c30-9e55-2a6b18d0c4f7
+slug: worktree-copies-count-as-required-reading
 page-type-slug: finding
 title: "Worktree copies count as required reading"
 domain-slug: domain/agent-harness

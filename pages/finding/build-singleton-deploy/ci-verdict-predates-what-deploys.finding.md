@@ -1,5 +1,6 @@
 ---
 id: 99c5cea1-2a5e-5245-9192-1cf823b5bdd1
+slug: ci-verdict-predates-what-deploys
 page-type-slug: finding
 title: "CI verdict predates what deploys"
 domain-slug: domain/global

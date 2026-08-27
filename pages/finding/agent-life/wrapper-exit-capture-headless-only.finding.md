@@ -1,5 +1,6 @@
 ---
 id: e0389497-87f0-53b2-a550-a6a375788957
+slug: wrapper-exit-capture-headless-only
 page-type-slug: finding
 title: "Wrapper exit capture headless only"
 domain-slug: domain/global

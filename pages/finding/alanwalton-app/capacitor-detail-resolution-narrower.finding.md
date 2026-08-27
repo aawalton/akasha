@@ -1,5 +1,6 @@
 ---
 id: 6669bed0-167b-55ce-90fd-4229bbd75a85
+slug: capacitor-detail-resolution-narrower
 page-type-slug: finding
 title: "Capacitor detail resolution narrower"
 domain-slug: domain/alanwalton-app

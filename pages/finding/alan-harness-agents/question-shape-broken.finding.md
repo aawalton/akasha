@@ -1,5 +1,6 @@
 ---
 id: 4aa07e87-0277-56fa-b0dc-ceb3877fb032
+slug: question-shape-broken
 page-type-slug: finding
 title: "Question shape broken"
 domain-slug: domain/alan-harness-agents

@@ -1,5 +1,6 @@
 ---
 id: baa7754d-5395-55bb-b212-dd22743731b1
+slug: observations-empty-on-an-unresolved-name
 page-type-slug: finding
 title: "Observations empty on an unresolved name"
 domain-slug: page-type/agent

@@ -1,5 +1,6 @@
 ---
 id: 55880990-3c8c-5475-98c8-1ac73715815d
+slug: perimeter-key-excludes-what-binds-hardest
 page-type-slug: finding
 title: "Perimeter key excludes what binds hardest"
 domain-slug: domain/agent-harness

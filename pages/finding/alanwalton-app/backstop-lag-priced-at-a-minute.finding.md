@@ -1,5 +1,6 @@
 ---
 id: 114a1b6a-6352-58ee-8848-ac76dea36626
+slug: backstop-lag-priced-at-a-minute
 page-type-slug: finding
 title: "Backstop lag priced at a minute"
 domain-slug: domain/alanwalton-app

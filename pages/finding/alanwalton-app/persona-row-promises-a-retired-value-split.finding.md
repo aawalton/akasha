@@ -1,5 +1,6 @@
 ---
 id: c2465771-f4d6-5603-ad46-1cef0bea8414
+slug: persona-row-promises-a-retired-value-split
 page-type-slug: finding
 title: "Persona row promises a retired value split"
 domain-slug: domain/alanwalton-app

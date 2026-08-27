@@ -1,5 +1,6 @@
 ---
 id: e4353b5e-c0ab-5b82-abbc-a50e852ca24e
+slug: game-record-lives-outside-version-control
 page-type-slug: finding
 title: "Game record lives outside version control"
 domain-slug: domain/chess

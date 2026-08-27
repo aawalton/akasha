@@ -1,5 +1,6 @@
 ---
 id: c4aa0b61-2d4c-5d5d-978a-b0da7fa9c169
+slug: capture-tracking-unresolved-references
 page-type-slug: finding
 title: "Capture tracking unresolved references"
 domain-slug: domain/alan-harness

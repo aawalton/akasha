@@ -1,5 +1,6 @@
 ---
 id: fbd2c0c9-687a-5709-b55b-f40832fac612
+slug: no-episode-is-marked-watched
 page-type-slug: finding
 title: "No episode is marked watched"
 domain-slug: domain/anime

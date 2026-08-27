@@ -1,5 +1,6 @@
 ---
 id: 3971ec32-87f1-5d60-87fd-7886efdc38ff
+slug: tick-worker-header-claims-the-authority-it-lost
 page-type-slug: finding
 title: "Tick worker header claims the authority it lost"
 domain-slug: domain/alanwalton-app

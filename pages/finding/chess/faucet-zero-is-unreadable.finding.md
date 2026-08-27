@@ -1,5 +1,6 @@
 ---
 id: cb8934e2-2f8f-5a23-a0d5-432d3e468fb4
+slug: faucet-zero-is-unreadable
 page-type-slug: finding
 title: "Faucet zero is unreadable"
 domain-slug: domain/chess

@@ -1,5 +1,6 @@
 ---
 id: 5a16f79a-8f50-5c6d-822c-821905372e6d
+slug: sweep-left-incomplete
 page-type-slug: finding
 title: "Sweep left incomplete"
 domain-slug: domain/agent-harness

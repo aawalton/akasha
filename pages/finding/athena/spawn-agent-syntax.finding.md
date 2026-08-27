@@ -1,5 +1,6 @@
 ---
 id: ea19c099-ddfe-5998-8ba8-c0b0611b0ee3
+slug: spawn-agent-syntax
 page-type-slug: finding
 title: "spawn agent syntax"
 domain-slug: persona/athena

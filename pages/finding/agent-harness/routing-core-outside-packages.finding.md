@@ -1,5 +1,6 @@
 ---
 id: 96a365fa-c2ae-52ee-b9bd-9510d5c974b5
+slug: routing-core-outside-packages
 page-type-slug: finding
 title: "Routing core outside packages"
 domain-slug: domain/agent-harness

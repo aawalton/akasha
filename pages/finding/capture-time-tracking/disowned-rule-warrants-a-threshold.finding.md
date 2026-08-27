@@ -1,5 +1,6 @@
 ---
 id: 4edaefa8-e719-596f-9db4-46c877809a09
+slug: disowned-rule-warrants-a-threshold
 page-type-slug: finding
 title: "Disowned rule warrants a threshold"
 domain-slug: task/capture-time-tracking

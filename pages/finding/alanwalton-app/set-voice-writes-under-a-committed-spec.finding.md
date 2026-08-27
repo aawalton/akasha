@@ -1,5 +1,6 @@
 ---
 id: b1653600-293c-5538-9b3b-b902eb5a26ff
+slug: set-voice-writes-under-a-committed-spec
 page-type-slug: finding
 title: "Set voice writes under a committed spec"
 domain-slug: domain/alanwalton-app

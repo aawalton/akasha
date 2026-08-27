@@ -1,5 +1,6 @@
 ---
 id: 5d4db7df-7fb3-59a1-adcc-6b0499ce1cf1
+slug: studied-path-has-no-producer
 page-type-slug: finding
 title: "Studied path has no producer"
 domain-slug: domain/chess

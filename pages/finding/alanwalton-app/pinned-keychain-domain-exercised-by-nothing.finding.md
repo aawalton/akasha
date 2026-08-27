@@ -1,5 +1,6 @@
 ---
 id: 449602ba-b5b9-5d30-9773-83d348a1d76b
+slug: pinned-keychain-domain-exercised-by-nothing
 page-type-slug: finding
 title: "Pinned keychain domain exercised by nothing"
 domain-slug: domain/alanwalton-app

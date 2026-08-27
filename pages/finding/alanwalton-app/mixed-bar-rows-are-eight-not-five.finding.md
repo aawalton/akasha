@@ -1,5 +1,6 @@
 ---
 id: 73069bc2-4f8e-5809-a6e8-2cd4d51f5082
+slug: mixed-bar-rows-are-eight-not-five
 page-type-slug: finding
 title: "Mixed bar rows are eight not five"
 domain-slug: domain/alanwalton-app

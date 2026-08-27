@@ -1,5 +1,6 @@
 ---
 id: cf041381-3d1e-588c-ad4e-40ee17989d0e
+slug: principal-reads-two-ways
 page-type-slug: finding
 title: "Principal reads two ways"
 domain-slug: task/author-persona-scene

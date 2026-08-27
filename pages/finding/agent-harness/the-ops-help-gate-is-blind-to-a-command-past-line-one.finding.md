@@ -1,5 +1,6 @@
 ---
 id: 01a0201c-288b-7000-9761-6c31d9788ad2
+slug: the-ops-help-gate-is-blind-to-a-command-past-line-one
 page-type-slug: finding
 title: "The ops help gate is blind to a command past line one"
 domain-slug: domain/agent-harness

@@ -1,5 +1,6 @@
 ---
 id: 9a21cdc0-e899-56a1-b15c-abd20a7f11a9
+slug: user-tier-symlink-outlives-its-target
 page-type-slug: finding
 title: "User tier symlink outlives its target"
 domain-slug: domain/agent-harness

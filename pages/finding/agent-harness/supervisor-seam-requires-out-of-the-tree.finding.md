@@ -1,5 +1,6 @@
 ---
 id: 8078feb4-7ecd-5673-972d-dbd3f245660a
+slug: supervisor-seam-requires-out-of-the-tree
 page-type-slug: finding
 title: "Supervisor seam requires out of the tree"
 domain-slug: domain/agent-harness

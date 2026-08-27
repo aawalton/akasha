@@ -1,5 +1,6 @@
 ---
 id: 9ee082ec-c378-5b0a-9e5a-7cfea539c36e
+slug: owns-a-task-lists-none
 page-type-slug: finding
 title: "Owns a task lists none"
 domain-slug: domain/arousal

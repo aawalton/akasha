@@ -1,5 +1,6 @@
 ---
 id: f7a5ba94-36f7-56a8-9a4a-e65c666a487b
+slug: rules-read-as-restatement
 page-type-slug: finding
 title: "Rules read as restatement"
 domain-slug: domain/alan-email

@@ -1,5 +1,6 @@
 ---
 id: 4378e481-a148-5e1f-8f05-a9a539cc223e
+slug: edit-before-read
 page-type-slug: finding
 title: "Edit before read"
 domain-slug: domain/claude-code-tools

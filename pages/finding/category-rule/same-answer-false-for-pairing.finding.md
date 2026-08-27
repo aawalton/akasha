@@ -1,5 +1,6 @@
 ---
 id: 708140a1-5d57-544b-be18-df329ee74352
+slug: same-answer-false-for-pairing
 page-type-slug: finding
 title: "Same answer false for pairing"
 domain-slug: rules-engine-rule-set/category-rule

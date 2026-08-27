@@ -1,5 +1,6 @@
 ---
 id: 053716d6-65a1-52bf-b571-174c2c880923
+slug: motif-bullet-carries-no-reason
 page-type-slug: finding
 title: "Motif bullet carries no reason"
 domain-slug: task/author-persona-scene

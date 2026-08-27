@@ -1,5 +1,6 @@
 ---
 id: 27d4bcae-4db2-5be4-9715-d32ad7f9f8e3
+slug: voice-contract-header-denies-its-own-tier
 page-type-slug: finding
 title: "Voice contract header denies its own tier"
 domain-slug: domain/alanwalton-app

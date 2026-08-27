@@ -1,5 +1,6 @@
 ---
 id: 86649011-dfca-5bd3-b0b7-cf53cd862132
+slug: scratch-outlives-every-seat
 page-type-slug: finding
 title: "Scratch outlives every seat"
 domain-slug: domain/agent-harness

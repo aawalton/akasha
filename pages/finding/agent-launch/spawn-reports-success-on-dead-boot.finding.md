@@ -1,5 +1,6 @@
 ---
 id: 48be4671-f457-588c-85b8-2bf8c215e01c
+slug: spawn-reports-success-on-dead-boot
 page-type-slug: finding
 title: "Spawn reports success on dead boot"
 domain-slug: barred-meaning/agent-launch

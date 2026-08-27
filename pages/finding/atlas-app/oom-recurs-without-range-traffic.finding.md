@@ -1,5 +1,6 @@
 ---
 id: c830c9b3-1681-58bb-9ab7-03bdf8794b7d
+slug: oom-recurs-without-range-traffic
 page-type-slug: finding
 title: "Oom recurs without range traffic"
 domain-slug: domain/atlas-app

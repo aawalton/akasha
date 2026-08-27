@@ -1,5 +1,6 @@
 ---
 id: 7bd7659b-49bd-522f-afcd-ddb16ecf77c2
+slug: child-suppression-unobserved-live
 page-type-slug: finding
 title: "Child suppression unobserved live"
 domain-slug: domain/global

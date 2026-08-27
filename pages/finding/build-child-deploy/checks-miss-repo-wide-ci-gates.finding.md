@@ -1,5 +1,6 @@
 ---
 id: 4666f80b-1eca-503c-9dcd-b4dfee0e7902
+slug: checks-miss-repo-wide-ci-gates
 page-type-slug: finding
 title: "Checks miss repo wide CI gates"
 domain-slug: domain/global

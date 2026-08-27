@@ -1,5 +1,6 @@
 ---
 id: 2862ee2a-6691-5d72-b10a-9e6afc6ce32e
+slug: machine-input-search-recorded-as-empty
 page-type-slug: finding
 title: "Machine input search recorded as empty"
 domain-slug: domain/alan-attention

@@ -1,5 +1,6 @@
 ---
 id: 1ae36a7a-6e76-5542-9e74-69e2449fefcc
+slug: invitation-rules-name-no-command
 page-type-slug: finding
 title: "Invitation rules name no command"
 domain-slug: domain/alan-email

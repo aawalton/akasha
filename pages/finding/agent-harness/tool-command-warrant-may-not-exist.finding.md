@@ -1,5 +1,6 @@
 ---
 id: 291b712d-bdb8-5a8f-8667-aba724b19a54
+slug: tool-command-warrant-may-not-exist
 page-type-slug: finding
 title: "Tool command warrant may not exist"
 domain-slug: domain/agent-harness

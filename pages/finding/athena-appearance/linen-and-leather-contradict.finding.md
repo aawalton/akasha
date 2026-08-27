@@ -1,5 +1,6 @@
 ---
 id: 392113a5-1237-55a0-b5ca-5de96e9c024a
+slug: linen-and-leather-contradict
 page-type-slug: finding
 title: "Linen and leather contradict"
 domain-slug: persona-appearance/athena-appearance

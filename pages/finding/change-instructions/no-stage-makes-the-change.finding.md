@@ -1,5 +1,6 @@
 ---
 id: 3277d2b0-c664-564c-94a9-69fe2c876e7c
+slug: no-stage-makes-the-change
 page-type-slug: finding
 title: "No stage makes the change"
 domain-slug: task/change-instructions

@@ -1,5 +1,6 @@
 ---
 id: a06f85e1-de1d-574b-aa1e-3bb37c4fc35f
+slug: ios-seam-breaks-on-capacitor-8-5
 page-type-slug: finding
 title: "IOS seam breaks on capacitor 8 5"
 domain-slug: domain/alan-harness-mobile

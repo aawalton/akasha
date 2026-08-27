@@ -1,5 +1,6 @@
 ---
 id: 7eb60acc-7fb7-5b48-ade7-a2f5748a0982
+slug: quarantined-habit-order
 page-type-slug: finding
 title: "Quarantined habit order"
 domain-slug: domain/alan-harness

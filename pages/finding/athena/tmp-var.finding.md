@@ -1,5 +1,6 @@
 ---
 id: fece1411-d127-5f8a-899b-4712ff0b9ed0
+slug: tmp-var
 page-type-slug: finding
 title: "tmp/var"
 domain-slug: persona/athena

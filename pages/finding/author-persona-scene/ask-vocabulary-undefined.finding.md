@@ -1,5 +1,6 @@
 ---
 id: 1f0b810b-4e64-5f0d-bc99-84b0b5fa78d2
+slug: ask-vocabulary-undefined
 page-type-slug: finding
 title: "Ask vocabulary undefined"
 domain-slug: task/author-persona-scene

@@ -1,5 +1,6 @@
 ---
 id: 1a7a7023-4266-5d62-aa6f-f62c590111ac
+slug: row-lands-against-domain-vision
 page-type-slug: finding
 title: "Row lands against domain vision"
 domain-slug: domain/agent-harness

@@ -1,5 +1,6 @@
 ---
 id: a9358990-bdec-55b8-89bb-a9ca452f2998
+slug: widget-payload-skew
 page-type-slug: finding
 title: "Widget payload skew"
 domain-slug: domain/alan-harness

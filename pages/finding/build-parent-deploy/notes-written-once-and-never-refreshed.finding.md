@@ -1,5 +1,6 @@
 ---
 id: b0005f0d-b75f-5f79-bf12-e4e41191cc1f
+slug: notes-written-once-and-never-refreshed
 page-type-slug: finding
 title: "Notes written once and never refreshed"
 domain-slug: domain/global

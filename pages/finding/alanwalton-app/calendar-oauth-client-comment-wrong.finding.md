@@ -1,5 +1,6 @@
 ---
 id: 375946e3-3974-5674-b7d9-d7621c608d5f
+slug: calendar-oauth-client-comment-wrong
 page-type-slug: finding
 title: "Calendar oauth client comment wrong"
 domain-slug: domain/alanwalton-app

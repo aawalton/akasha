@@ -1,5 +1,6 @@
 ---
 id: 0b3eef71-032d-5c3b-b625-0a56b460e410
+slug: docblock-cites-a-removed-provisioner
 page-type-slug: finding
 title: "Docblock cites a removed provisioner"
 domain-slug: domain/alanwalton-app

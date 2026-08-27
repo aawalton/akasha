@@ -1,5 +1,6 @@
 ---
 id: fe477d75-078f-5683-bfcc-b10f8f870d7a
+slug: forks-standing-through-two-readings
 page-type-slug: finding
 title: "Forks standing through two readings"
 domain-slug: domain/alan-email

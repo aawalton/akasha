@@ -1,5 +1,6 @@
 ---
 id: bd02dfb0-79d7-53df-bf0c-86dcf4049ecd
+slug: more-instructions-reduce-adherence
 page-type-slug: finding
 title: "more instructions reduce adherence"
 domain-slug: persona/athena

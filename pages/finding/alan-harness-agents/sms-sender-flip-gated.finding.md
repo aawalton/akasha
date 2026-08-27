@@ -1,5 +1,6 @@
 ---
 id: fe507e75-7bcf-5122-8ddf-724c8e7bd684
+slug: sms-sender-flip-gated
 page-type-slug: finding
 title: "Sms sender flip gated"
 domain-slug: domain/alan-harness-agents

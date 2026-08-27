@@ -1,5 +1,6 @@
 ---
 id: fd8126d5-76ae-55f6-8f90-81452da00cad
+slug: harness-parts-undeclared
 page-type-slug: finding
 title: "Harness parts undeclared"
 domain-slug: domain/alan-harness

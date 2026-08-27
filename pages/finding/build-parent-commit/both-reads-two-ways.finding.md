@@ -1,5 +1,6 @@
 ---
 id: ac46a2fe-70b3-57cb-bbec-a9106ba32490
+slug: both-reads-two-ways
 page-type-slug: finding
 title: "Both reads two ways"
 domain-slug: domain/global

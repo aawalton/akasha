@@ -1,5 +1,6 @@
 ---
 id: 63c455af-2c59-5e67-8451-f56030c74dca
+slug: declared-path-sweeps-a-peers-edit
 page-type-slug: finding
 title: "Declared path sweeps a peers edit"
 domain-slug: repo/akasha-repo

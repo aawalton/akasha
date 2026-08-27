@@ -1,5 +1,6 @@
 ---
 id: 2d3194e4-4290-5613-bcca-d1fcf442e0a6
+slug: curing-sibling-never-derived
 page-type-slug: finding
 title: "Curing sibling never derived"
 domain-slug: domain/alanwalton-app

@@ -1,5 +1,6 @@
 ---
 id: c70a2821-e040-569b-9d1b-bfaa2c9071d4
+slug: sweep-exempts-only-its-own-operator
 page-type-slug: finding
 title: "Sweep exempts only its own operator"
 domain-slug: domain/agent-harness

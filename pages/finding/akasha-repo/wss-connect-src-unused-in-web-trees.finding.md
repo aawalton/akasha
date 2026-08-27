@@ -1,5 +1,6 @@
 ---
 id: 8b2a695b-a981-5096-ac33-e55f40e9af1a
+slug: wss-connect-src-unused-in-web-trees
 page-type-slug: finding
 title: "Wss connect src unused in web trees"
 domain-slug: repo/akasha-repo

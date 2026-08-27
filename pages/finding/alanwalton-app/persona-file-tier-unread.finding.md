@@ -1,5 +1,6 @@
 ---
 id: 7aa274d4-186e-5a54-9c7a-412227a392bf
+slug: persona-file-tier-unread
 page-type-slug: finding
 title: "Persona file tier unread"
 domain-slug: domain/alanwalton-app

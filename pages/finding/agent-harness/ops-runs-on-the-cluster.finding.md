@@ -1,5 +1,6 @@
 ---
 id: a789a9af-3819-5265-84e5-bc16c3caa0e5
+slug: ops-runs-on-the-cluster
 page-type-slug: finding
 title: "Ops runs on the cluster"
 domain-slug: domain/agent-harness

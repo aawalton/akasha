@@ -1,5 +1,6 @@
 ---
 id: 3b458148-de02-57f0-90c9-daac9d13ee78
+slug: ledger-contract-refuses-its-own-top
 page-type-slug: finding
 title: "Ledger contract refuses its own top"
 domain-slug: domain/alanwalton-app

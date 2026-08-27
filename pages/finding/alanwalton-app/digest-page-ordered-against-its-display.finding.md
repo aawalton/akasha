@@ -1,5 +1,6 @@
 ---
 id: f10d7322-8141-5f4a-bc6e-9c9848ea5a15
+slug: digest-page-ordered-against-its-display
 page-type-slug: finding
 title: "Digest page ordered against its display"
 domain-slug: domain/alanwalton-app

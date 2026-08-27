@@ -1,5 +1,6 @@
 ---
 id: 73e74c95-c1ef-5c63-96a1-db5b688de446
+slug: writes-hook-lacks-domain
 page-type-slug: finding
 title: "Writes hook lacks domain"
 domain-slug: domain/alan-harness

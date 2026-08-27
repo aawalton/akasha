@@ -1,5 +1,6 @@
 ---
 id: 2cca6735-517e-542b-ab47-14fe28a2a6c0
+slug: path-assumed-not-verified
 page-type-slug: finding
 title: "Path assumed not verified"
 domain-slug: domain/agent-harness

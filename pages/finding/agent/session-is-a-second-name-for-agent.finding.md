@@ -1,5 +1,6 @@
 ---
 id: eaacfbf8-1132-5b12-a736-b091deea8e87
+slug: session-is-a-second-name-for-agent
 page-type-slug: finding
 title: "Session is a second name for agent"
 domain-slug: page-type/agent

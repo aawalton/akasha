@@ -1,5 +1,6 @@
 ---
 id: bf6f6d24-9fdd-5dc6-b4af-f116c2b287ef
+slug: row-watch-poll-or-subscribe-unstated
 page-type-slug: finding
 title: "Row watch poll or subscribe unstated"
 domain-slug: domain/agent-harness

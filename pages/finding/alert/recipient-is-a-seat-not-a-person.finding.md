@@ -1,5 +1,6 @@
 ---
 id: 4f078ca8-8940-54e9-b8e5-ee81800c600b
+slug: recipient-is-a-seat-not-a-person
 page-type-slug: finding
 title: "Recipient is a seat not a person"
 domain-slug: page-type/alert

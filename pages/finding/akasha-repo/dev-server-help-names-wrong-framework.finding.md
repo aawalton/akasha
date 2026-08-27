@@ -1,5 +1,6 @@
 ---
 id: e7e495ea-abb5-57cd-8ade-1fc32674c518
+slug: dev-server-help-names-wrong-framework
 page-type-slug: finding
 title: "Dev server help names wrong framework"
 domain-slug: repo/akasha-repo

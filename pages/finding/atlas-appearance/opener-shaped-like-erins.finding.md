@@ -1,5 +1,6 @@
 ---
 id: cfabc72f-2134-510b-abf9-5ab48a74ff02
+slug: opener-shaped-like-erins
 page-type-slug: finding
 title: "Opener shaped like erins"
 domain-slug: persona-appearance/atlas-appearance

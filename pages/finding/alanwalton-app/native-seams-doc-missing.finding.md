@@ -1,5 +1,6 @@
 ---
 id: eb0ce73c-314d-51b4-a629-4a9d12c00be2
+slug: native-seams-doc-missing
 page-type-slug: finding
 title: "Native seams doc missing"
 domain-slug: domain/alanwalton-app

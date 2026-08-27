@@ -1,5 +1,6 @@
 ---
 id: 4131f3af-62c6-5a5d-b5f6-0d669dc51103
+slug: definition-lifts-the-domains-words
 page-type-slug: finding
 title: "Definition lifts the domains words"
 domain-slug: persona/athena

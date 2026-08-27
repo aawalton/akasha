@@ -1,5 +1,6 @@
 ---
 id: da5c2799-5eba-5a02-aee4-24483905c1c6
+slug: signed-sim-entitlements-blocked
 page-type-slug: finding
 title: "Signed sim entitlements blocked"
 domain-slug: ios-app/alanwalton-ios

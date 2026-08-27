@@ -1,5 +1,6 @@
 ---
 id: dee4e0b8-40a3-5f65-84b5-26b2f6b29658
+slug: voice-model-download-backgrounding
 page-type-slug: finding
 title: "Voice model download backgrounding"
 domain-slug: ios-app/alanwalton-ios

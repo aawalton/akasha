@@ -1,5 +1,6 @@
 ---
 id: 4d23653f-6df6-53d0-b31a-7235c5a99b57
+slug: checks-stage-has-no-escalation
 page-type-slug: finding
 title: "Checks stage has no escalation"
 domain-slug: domain/global

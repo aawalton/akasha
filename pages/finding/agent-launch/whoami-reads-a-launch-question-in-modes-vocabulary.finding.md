@@ -1,5 +1,6 @@
 ---
 id: 6eb852e4-df80-5e47-9894-7eff172087a7
+slug: whoami-reads-a-launch-question-in-modes-vocabulary
 page-type-slug: finding
 title: "Whoami reads a launch question in modes vocabulary"
 domain-slug: barred-meaning/agent-launch

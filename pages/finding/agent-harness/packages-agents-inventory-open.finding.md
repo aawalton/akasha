@@ -1,5 +1,6 @@
 ---
 id: 9300966c-652c-58b5-a315-32db0766fd88
+slug: packages-agents-inventory-open
 page-type-slug: finding
 title: "Packages agents inventory open"
 domain-slug: domain/agent-harness

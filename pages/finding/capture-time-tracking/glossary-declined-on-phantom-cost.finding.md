@@ -1,5 +1,6 @@
 ---
 id: 97c08cbc-5c6a-5d76-b9c2-f89012a26fec
+slug: glossary-declined-on-phantom-cost
 page-type-slug: finding
 title: "Glossary declined on phantom cost"
 domain-slug: task/capture-time-tracking

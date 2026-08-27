@@ -1,5 +1,6 @@
 ---
 id: df4072c2-dddd-5cee-82f0-8136a90868ac
+slug: panel-toggle-double-mount
 page-type-slug: finding
 title: "Panel toggle double mount"
 domain-slug: web-app/898

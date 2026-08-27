@@ -1,5 +1,6 @@
 ---
 id: c77f6683-5026-588b-a1d2-916ddb8f2d8f
+slug: sweep-skip-reads-as-a-pass
 page-type-slug: finding
 title: "Sweep skip reads as a pass"
 domain-slug: domain/alan-harness

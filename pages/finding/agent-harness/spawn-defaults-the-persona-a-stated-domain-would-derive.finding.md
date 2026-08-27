@@ -1,5 +1,6 @@
 ---
 id: c5461529-c776-54b3-9a21-469d835c34ab
+slug: spawn-defaults-the-persona-a-stated-domain-would-derive
 page-type-slug: finding
 title: "Spawn defaults the persona a stated domain would derive"
 domain-slug: domain/agent-harness

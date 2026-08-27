@@ -1,5 +1,6 @@
 ---
 id: d0e58b1a-48fb-5817-910d-778add3a7eb9
+slug: decisions-leave-the-code-repository-for-the-database
 page-type-slug: finding
 title: "Decisions leave the code repository for the database"
 domain-slug: domain/alan-harness

@@ -1,5 +1,6 @@
 ---
 id: 8e1c6ee6-d3bc-57a9-b275-317393922ee0
+slug: rewording-rides-inside-a-repoint
 page-type-slug: finding
 title: "Rewording rides inside a repoint"
 domain-slug: repo/akasha-repo

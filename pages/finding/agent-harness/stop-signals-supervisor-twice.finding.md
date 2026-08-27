@@ -1,5 +1,6 @@
 ---
 id: 30605010-c18c-566f-b532-08e60ab808dd
+slug: stop-signals-supervisor-twice
 page-type-slug: finding
 title: "Stop signals supervisor twice"
 domain-slug: domain/agent-harness

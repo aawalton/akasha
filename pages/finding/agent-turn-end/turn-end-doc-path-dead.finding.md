@@ -1,5 +1,6 @@
 ---
 id: 21c77047-2172-53d2-84e0-0d0a196dc4ed
+slug: turn-end-doc-path-dead
 page-type-slug: finding
 title: "Turn end doc path dead"
 domain-slug: domain/agent-turn-end

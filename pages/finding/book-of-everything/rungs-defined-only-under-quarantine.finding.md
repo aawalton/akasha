@@ -1,5 +1,6 @@
 ---
 id: e9178bd9-fdf7-5e11-9c7c-5bdac20ab45b
+slug: rungs-defined-only-under-quarantine
 page-type-slug: finding
 title: "Rungs defined only under quarantine"
 domain-slug: domain/book-of-everything

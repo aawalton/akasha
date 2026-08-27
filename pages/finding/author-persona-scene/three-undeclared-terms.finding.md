@@ -1,5 +1,6 @@
 ---
 id: fc1e6705-3c04-5af5-aed0-54001550c705
+slug: three-undeclared-terms
 page-type-slug: finding
 title: "Three undeclared terms"
 domain-slug: task/author-persona-scene

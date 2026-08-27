@@ -1,5 +1,6 @@
 ---
 id: 0434bb73-6db8-52e9-8a07-528a444cfa00
+slug: paid-opinions-heading-names-class
 page-type-slug: finding
 title: "Paid opinions heading names class"
 domain-slug: domain/alan-email

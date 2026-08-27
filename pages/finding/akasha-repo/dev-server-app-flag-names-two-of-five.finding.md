@@ -1,5 +1,6 @@
 ---
 id: 06334157-4ce3-5f1f-8590-ccf0baae6785
+slug: dev-server-app-flag-names-two-of-five
 page-type-slug: finding
 title: "Dev server app flag names two of five"
 domain-slug: repo/akasha-repo

@@ -1,5 +1,6 @@
 ---
 id: a564d375-af5c-5af6-aaf5-190db947562a
+slug: persona-reward-slash-names-unresolvable
 page-type-slug: finding
 title: "Persona reward slash names unresolvable"
 domain-slug: domain/alanwalton-app

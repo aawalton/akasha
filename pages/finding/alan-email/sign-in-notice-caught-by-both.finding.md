@@ -1,5 +1,6 @@
 ---
 id: acedfabe-1ef6-5ddb-a332-b93a0a67461f
+slug: sign-in-notice-caught-by-both
 page-type-slug: finding
 title: "Sign in notice caught by both"
 domain-slug: domain/alan-email

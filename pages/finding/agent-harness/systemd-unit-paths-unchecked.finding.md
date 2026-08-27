@@ -1,5 +1,6 @@
 ---
 id: 66512769-84eb-5eac-b8c3-2d3e9f5760ac
+slug: systemd-unit-paths-unchecked
 page-type-slug: finding
 title: "Systemd unit paths unchecked"
 domain-slug: domain/agent-harness

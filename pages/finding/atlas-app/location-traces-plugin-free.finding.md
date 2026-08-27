@@ -1,5 +1,6 @@
 ---
 id: 842f5d89-a736-5cdf-8345-11093a16b58c
+slug: location-traces-plugin-free
 page-type-slug: finding
 title: "Location traces plugin free"
 domain-slug: domain/atlas-app

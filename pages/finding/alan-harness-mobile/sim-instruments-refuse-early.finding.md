@@ -1,5 +1,6 @@
 ---
 id: 9ec05b53-95ca-5bac-9618-3310839a90f1
+slug: sim-instruments-refuse-early
 page-type-slug: finding
 title: "Sim instruments refuse early"
 domain-slug: domain/alan-harness-mobile

@@ -1,5 +1,6 @@
 ---
 id: 3022ceef-9199-5ec9-95a4-dc4439d1a437
+slug: temporary-ingestion-tasks
 page-type-slug: finding
 title: "temporary ingestion tasks"
 domain-slug: persona/athena

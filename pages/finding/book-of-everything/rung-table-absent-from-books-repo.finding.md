@@ -1,5 +1,6 @@
 ---
 id: 170d3fa3-84d8-5aad-8cb8-78c0b5cd70d3
+slug: rung-table-absent-from-books-repo
 page-type-slug: finding
 title: "Rung table absent from books repo"
 domain-slug: domain/book-of-everything

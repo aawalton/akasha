@@ -1,5 +1,6 @@
 ---
 id: 72a9da2f-24af-5625-b130-fad8cc8b4da3
+slug: script-grep-flag-silent-false-pass
 page-type-slug: finding
 title: "Script grep flag silent false pass"
 domain-slug: domain/agent-harness

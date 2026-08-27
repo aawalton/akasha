@@ -1,5 +1,6 @@
 ---
 id: 31f38cef-eea7-56b3-91fa-4111a439bccd
+slug: one-identity-admits-one-seat
 page-type-slug: finding
 title: "One identity admits one seat"
 domain-slug: domain/agent-harness

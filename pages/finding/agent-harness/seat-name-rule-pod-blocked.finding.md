@@ -1,5 +1,6 @@
 ---
 id: df5e7ae1-faa0-5c9b-a3b3-a6baf936b83d
+slug: seat-name-rule-pod-blocked
 page-type-slug: finding
 title: "Seat name rule pod blocked"
 domain-slug: domain/agent-harness

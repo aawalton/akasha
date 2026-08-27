@@ -1,5 +1,6 @@
 ---
 id: f546fe1f-4483-501d-a152-448224b4c6be
+slug: wedge-cleared-by-aggregate-that-omits-the-named-subscriber
 page-type-slug: finding
 title: "Wedge cleared by aggregate that omits the named subscriber"
 domain-slug: page-type/alert

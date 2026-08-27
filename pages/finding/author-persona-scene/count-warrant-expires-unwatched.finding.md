@@ -1,5 +1,6 @@
 ---
 id: 8ddb7201-42c7-5a1a-83d3-b412a12a6eb5
+slug: count-warrant-expires-unwatched
 page-type-slug: finding
 title: "Count warrant expires unwatched"
 domain-slug: task/author-persona-scene

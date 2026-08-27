@@ -1,5 +1,6 @@
 ---
 id: 15e29f68-b63a-5954-8a69-b2757d2b0b92
+slug: wedge-clears-on-failing-retick
 page-type-slug: finding
 title: "Wedge clears on failing retick"
 domain-slug: domain/agent-harness

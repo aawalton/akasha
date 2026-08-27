@@ -1,5 +1,6 @@
 ---
 id: 89cd4cfd-4f51-59c1-aeb2-0d0d857a1ef5
+slug: ladder-literal-outlives-the-readout-ports
 page-type-slug: finding
 title: "Ladder literal outlives the readout ports"
 domain-slug: domain/alan-harness

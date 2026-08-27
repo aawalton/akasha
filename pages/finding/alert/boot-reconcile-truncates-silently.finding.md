@@ -1,5 +1,6 @@
 ---
 id: aa3bf921-9e7a-5303-b323-baf0e7991154
+slug: boot-reconcile-truncates-silently
 page-type-slug: finding
 title: "Boot reconcile truncates silently"
 domain-slug: page-type/alert

@@ -1,5 +1,6 @@
 ---
 id: 95a69b22-1de8-52bc-99a6-542ac554d5d4
+slug: rules-page-status-says-nothing-live
 page-type-slug: finding
 title: "Rules page status says nothing live"
 domain-slug: domain/alanwalton-app

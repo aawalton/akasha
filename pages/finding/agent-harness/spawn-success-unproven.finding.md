@@ -1,5 +1,6 @@
 ---
 id: 29d1d988-8871-5874-8962-df71d481a98d
+slug: spawn-success-unproven
 page-type-slug: finding
 title: "Spawn success unproven"
 domain-slug: domain/agent-harness

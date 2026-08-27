@@ -1,5 +1,6 @@
 ---
 id: 8cbf1a92-999d-595b-99bd-9b397c326511
+slug: dedicated-editor-role-skill
 page-type-slug: finding
 title: "dedicated editor role skill"
 domain-slug: persona/athena

@@ -1,5 +1,6 @@
 ---
 id: b3e191d6-4f9f-5502-9b53-e411646834e3
+slug: cluster-mutation-hook-unregistered
 page-type-slug: finding
 title: "Cluster mutation hook unregistered"
 domain-slug: page-type/agent-hook

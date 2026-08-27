@@ -1,5 +1,6 @@
 ---
 id: 64ac791e-223e-53ff-8b75-02b987870d75
+slug: eppie-header-denies-its-own-body
 page-type-slug: finding
 title: "Eppie header denies its own body"
 domain-slug: domain/alanwalton-app

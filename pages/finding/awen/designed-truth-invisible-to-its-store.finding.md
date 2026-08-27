@@ -1,5 +1,6 @@
 ---
 id: d135afe3-146e-523e-8f4a-12b5518ebf5c
+slug: designed-truth-invisible-to-its-store
 page-type-slug: finding
 title: "Designed truth invisible to its store"
 domain-slug: persona/awen

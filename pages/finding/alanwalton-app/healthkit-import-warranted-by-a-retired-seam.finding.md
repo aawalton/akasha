@@ -1,5 +1,6 @@
 ---
 id: a05c857b-aee5-57cf-bc67-1d81f8597d96
+slug: healthkit-import-warranted-by-a-retired-seam
 page-type-slug: finding
 title: "Healthkit import warranted by a retired seam"
 domain-slug: domain/alanwalton-app

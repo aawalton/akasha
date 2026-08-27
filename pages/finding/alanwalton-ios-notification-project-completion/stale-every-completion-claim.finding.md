@@ -1,5 +1,6 @@
 ---
 id: 1ae9ad8a-c234-5bcb-b278-471c85cc47a4
+slug: stale-every-completion-claim
 page-type-slug: finding
 title: "Stale every completion claim"
 domain-slug: domain/global

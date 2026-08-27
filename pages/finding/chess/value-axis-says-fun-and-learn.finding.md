@@ -1,5 +1,6 @@
 ---
 id: 1191510a-b646-5ac3-8832-438620b379a1
+slug: value-axis-says-fun-and-learn
 page-type-slug: finding
 title: "Value axis says fun and learn"
 domain-slug: domain/chess

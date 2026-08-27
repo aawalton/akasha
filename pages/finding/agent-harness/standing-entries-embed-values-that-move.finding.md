@@ -1,5 +1,6 @@
 ---
 id: b1277774-6344-55da-9683-79b354bcab66
+slug: standing-entries-embed-values-that-move
 page-type-slug: finding
 title: "Standing entries embed values that move"
 domain-slug: domain/agent-harness

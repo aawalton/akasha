@@ -1,5 +1,6 @@
 ---
 id: becc6433-6b76-5aa2-b86b-86bce2ea3234
+slug: spawn-oauth-proxy-suite-leaks-into-real-tree
 page-type-slug: finding
 title: "Spawn oauth proxy suite leaks into real tree"
 domain-slug: domain/agent-harness

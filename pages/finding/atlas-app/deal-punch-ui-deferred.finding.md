@@ -1,5 +1,6 @@
 ---
 id: 931c1d80-b25e-5ef4-a362-d2918c5821bb
+slug: deal-punch-ui-deferred
 page-type-slug: finding
 title: "Deal punch UI deferred"
 domain-slug: domain/atlas-app

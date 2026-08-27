@@ -1,5 +1,6 @@
 ---
 id: 2adda62c-645b-5f61-983b-4da2ebea1b43
+slug: seat-flex-times-out-under-load
 page-type-slug: finding
 title: "Seat flex times out under load"
 domain-slug: domain/agent-harness

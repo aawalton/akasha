@@ -1,5 +1,6 @@
 ---
 id: 944c557e-bda3-5dc7-81bf-1dca5b6b9a2f
+slug: test-and-read-uncarried
 page-type-slug: finding
 title: "Test and read uncarried"
 domain-slug: task/author-persona-scene

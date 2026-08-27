@@ -1,5 +1,6 @@
 ---
 id: 38e00a9e-0916-59ca-9990-eb926cb73ca9
+slug: undocumented-condition-check-unbuilt
 page-type-slug: finding
 title: "Undocumented condition check unbuilt"
 domain-slug: page-type/alert

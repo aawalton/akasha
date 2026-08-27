@@ -1,5 +1,6 @@
 ---
 id: ce488457-cb57-522f-a3bf-fdc672935a82
+slug: reparent-has-no-verb
 page-type-slug: finding
 title: "Reparent has no verb"
 domain-slug: domain/agent-harness

@@ -1,5 +1,6 @@
 ---
 id: 8e33abbe-fcca-55f7-9fcb-b36da762865c
+slug: native-shell-reads-as-hand-built
 page-type-slug: finding
 title: "Native shell reads as hand built"
 domain-slug: ios-app/alanwalton-ios

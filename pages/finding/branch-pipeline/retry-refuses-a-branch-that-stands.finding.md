@@ -1,5 +1,6 @@
 ---
 id: 948cfd22-0c9f-50b1-b28e-89cd50eac40d
+slug: retry-refuses-a-branch-that-stands
 page-type-slug: finding
 title: "Retry refuses a branch that stands"
 domain-slug: domain/branch-pipeline

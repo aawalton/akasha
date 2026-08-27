@@ -1,5 +1,6 @@
 ---
 id: 993b1155-e8bf-570b-ac32-9e4b8de74961
+slug: snapshot-diff-books-a-set-change
 page-type-slug: finding
 title: "Snapshot diff books a set change"
 domain-slug: domain/alanwalton-app

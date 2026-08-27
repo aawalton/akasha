@@ -1,5 +1,6 @@
 ---
 id: a262bd9f-9e4d-500b-8b63-3b3f541092cc
+slug: calendar-help-omits-default-var
 page-type-slug: finding
 title: "Calendar help omits default var"
 domain-slug: repo/akasha-repo

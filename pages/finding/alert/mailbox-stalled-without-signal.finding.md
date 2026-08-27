@@ -1,5 +1,6 @@
 ---
 id: b73aa0be-d323-5099-90ad-1d875a877513
+slug: mailbox-stalled-without-signal
 page-type-slug: finding
 title: "Mailbox stalled without signal"
 domain-slug: page-type/alert

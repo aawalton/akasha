@@ -1,5 +1,6 @@
 ---
 id: 3a937c4e-c91a-5af8-bcf1-2452000fa098
+slug: ios-text-zoom
 page-type-slug: finding
 title: "iOS text zoom"
 domain-slug: persona/astra

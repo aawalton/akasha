@@ -1,5 +1,6 @@
 ---
 id: c0334a3d-9a97-5cd0-a438-23dbc15b5f48
+slug: status-bar-circles-computed-twice
 page-type-slug: finding
 title: "Status bar circles computed twice"
 domain-slug: domain/alan-harness

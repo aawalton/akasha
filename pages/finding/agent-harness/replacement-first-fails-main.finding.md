@@ -1,5 +1,6 @@
 ---
 id: 562cadf7-b1b1-5c87-ab41-33261053333c
+slug: replacement-first-fails-main
 page-type-slug: finding
 title: "Replacement first fails main"
 domain-slug: domain/agent-harness

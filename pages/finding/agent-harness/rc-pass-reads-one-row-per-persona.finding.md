@@ -1,5 +1,6 @@
 ---
 id: 1c192dd5-8708-5562-9c8a-343fa7303df5
+slug: rc-pass-reads-one-row-per-persona
 page-type-slug: finding
 title: "Rc pass reads one row per persona"
 domain-slug: domain/agent-harness

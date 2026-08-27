@@ -1,5 +1,6 @@
 ---
 id: 202cef28-69f5-5796-bd2e-d628ad58bd6f
+slug: wine-machine-identity-unmeasured
 page-type-slug: finding
 title: "Wine machine identity unmeasured"
 domain-slug: page-type/cluster

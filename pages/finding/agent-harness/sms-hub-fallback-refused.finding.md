@@ -1,5 +1,6 @@
 ---
 id: 4779acfc-f84f-51b6-8eae-060dbda2882b
+slug: sms-hub-fallback-refused
 page-type-slug: finding
 title: "Sms hub fallback refused"
 domain-slug: domain/agent-harness

@@ -1,5 +1,6 @@
 ---
 id: f2d94871-ee2c-5eea-9c6e-c2a9ae4ae4b1
+slug: supervisor-pools-exhaust-postgres
 page-type-slug: finding
 title: "Supervisor pools exhaust Postgres"
 domain-slug: domain/agent-harness

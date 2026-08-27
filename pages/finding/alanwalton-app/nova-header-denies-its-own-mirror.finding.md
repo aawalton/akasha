@@ -1,5 +1,6 @@
 ---
 id: 28fea2bf-3a82-5fe7-861a-f5e79ffb22de
+slug: nova-header-denies-its-own-mirror
 page-type-slug: finding
 title: "Nova header denies its own mirror"
 domain-slug: domain/alanwalton-app

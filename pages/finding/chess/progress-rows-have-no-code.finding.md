@@ -1,5 +1,6 @@
 ---
 id: 9ac3bd69-b2d6-555c-bbb7-0d76156afda0
+slug: progress-rows-have-no-code
 page-type-slug: finding
 title: "Progress rows have no code"
 domain-slug: domain/chess

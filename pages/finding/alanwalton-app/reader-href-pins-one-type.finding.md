@@ -1,5 +1,6 @@
 ---
 id: a4b54741-2b54-5aa3-9c45-f8bfd8ba6203
+slug: reader-href-pins-one-type
 page-type-slug: finding
 title: "Reader href pins one type"
 domain-slug: domain/alanwalton-app

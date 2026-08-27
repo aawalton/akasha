@@ -1,5 +1,6 @@
 ---
 id: 0aed8189-d596-5f4b-a598-86f5039542af
+slug: mail-triage-runs-from-a-file-in-no-repository
 page-type-slug: finding
 title: "Mail triage runs from a file in no repository"
 domain-slug: domain/global

@@ -1,5 +1,6 @@
 ---
 id: 019f3a91-2ce8-7a20-9d31-6f0c22b4e8a3
+slug: a-key-index-cannot-dispatch-on-a-removed-file
 page-type-slug: finding
 title: "A key index cannot dispatch on a removed file"
 domain-slug: domain/992

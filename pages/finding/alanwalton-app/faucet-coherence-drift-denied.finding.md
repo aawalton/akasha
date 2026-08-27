@@ -1,5 +1,6 @@
 ---
 id: 2ccb64ab-cee0-557d-b33c-10a7d7f48959
+slug: faucet-coherence-drift-denied
 page-type-slug: finding
 title: "Faucet coherence drift denied"
 domain-slug: domain/alanwalton-app

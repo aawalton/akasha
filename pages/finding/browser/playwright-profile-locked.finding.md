@@ -1,5 +1,6 @@
 ---
 id: 10b35ba7-5d5d-5df2-82ce-7054e0fb0744
+slug: playwright-profile-locked
 page-type-slug: finding
 title: "Playwright profile locked"
 domain-slug: domain/browser

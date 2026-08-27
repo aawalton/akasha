@@ -1,5 +1,6 @@
 ---
 id: 5c037bbd-fd20-5701-ac8f-4c6aff21486f
+slug: rulings-absent-beside-the-gaps
 page-type-slug: finding
 title: "Rulings absent beside the gaps"
 domain-slug: domain/chess

@@ -1,5 +1,6 @@
 ---
 id: e88b33b0-1e19-5ef3-af73-0059093ff82a
+slug: nothing-persists-the-trial-or-the-read
 page-type-slug: finding
 title: "Nothing persists the trial or the read"
 domain-slug: task/author-persona-scene

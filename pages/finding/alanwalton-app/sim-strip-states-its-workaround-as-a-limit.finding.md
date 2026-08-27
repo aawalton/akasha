@@ -1,5 +1,6 @@
 ---
 id: 6116c05f-63d7-500b-a4c3-01f5acd7d6ed
+slug: sim-strip-states-its-workaround-as-a-limit
 page-type-slug: finding
 title: "Sim strip states its workaround as a limit"
 domain-slug: domain/alanwalton-app

@@ -1,5 +1,6 @@
 ---
 id: 40f74755-7694-536b-951e-2a0f3ccd70b8
+slug: manual-faucets-have-no-absent-row-alarm
 page-type-slug: finding
 title: "Manual faucets have no absent row alarm"
 domain-slug: domain/alanwalton-app

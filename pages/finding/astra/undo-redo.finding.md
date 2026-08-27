@@ -1,5 +1,6 @@
 ---
 id: d5af1776-fef4-5126-9937-52de114b7631
+slug: undo-redo
 page-type-slug: finding
 title: "Undo/Redo"
 domain-slug: persona/astra

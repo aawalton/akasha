@@ -1,5 +1,6 @@
 ---
 id: 3b39f94a-0601-599c-b12c-cb80c730aa6c
+slug: move-bullets-restate-the-stage-head
 page-type-slug: finding
 title: "Move bullets restate the stage head"
 domain-slug: domain/global

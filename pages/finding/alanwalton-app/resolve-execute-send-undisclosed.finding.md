@@ -1,5 +1,6 @@
 ---
 id: fb1f5150-1eab-5075-ae31-94ffa48aed72
+slug: resolve-execute-send-undisclosed
 page-type-slug: finding
 title: "Resolve execute send undisclosed"
 domain-slug: domain/alanwalton-app

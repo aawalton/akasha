@@ -1,5 +1,6 @@
 ---
 id: 10de3f80-c399-5730-a603-010d14360a98
+slug: stoplight-tiles-undrawn-since-change
 page-type-slug: finding
 title: "Stoplight tiles undrawn since change"
 domain-slug: domain/alan-harness-mobile

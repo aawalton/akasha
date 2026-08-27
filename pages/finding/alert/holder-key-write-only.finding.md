@@ -1,5 +1,6 @@
 ---
 id: b8437634-5efb-59c0-bb45-55b8cc620f03
+slug: holder-key-write-only
 page-type-slug: finding
 title: "Holder key write only"
 domain-slug: page-type/alert

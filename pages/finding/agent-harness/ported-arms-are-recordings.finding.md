@@ -1,5 +1,6 @@
 ---
 id: b310fa42-6d56-5783-b3fd-7af1ea66e836
+slug: ported-arms-are-recordings
 page-type-slug: finding
 title: "Ported arms are recordings"
 domain-slug: domain/agent-harness

@@ -1,5 +1,6 @@
 ---
 id: 45ee420d-fa3d-525a-a9c5-160c5681b3fd
+slug: all-projects-scope-example-left-it
 page-type-slug: finding
 title: "All projects scope example left it"
 domain-slug: domain/alanwalton-app

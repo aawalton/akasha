@@ -1,5 +1,6 @@
 ---
 id: 70593149-73f4-5b1c-98bf-684debd76264
+slug: ops-instructions-no-longer-a-second-door
 page-type-slug: finding
 title: "Ops instructions no longer a second door"
 domain-slug: domain/agent-harness

@@ -1,5 +1,6 @@
 ---
 id: d50e87e7-646a-59eb-a245-2aa9643531df
+slug: two-bars-summed-into-one-level
 page-type-slug: finding
 title: "Two bars summed into one level"
 domain-slug: domain/alanwalton-app

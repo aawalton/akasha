@@ -1,5 +1,6 @@
 ---
 id: fcaf5fec-8c57-5ecb-81a9-e39accc54762
+slug: pacing-band-drifts-in-one-chapter
 page-type-slug: finding
 title: "Pacing band drifts in one chapter"
 domain-slug: task/author-persona-scene

@@ -1,5 +1,6 @@
 ---
 id: 59347488-445e-5506-897c-19220ea7073d
+slug: mode-is-read-as-facing
 page-type-slug: finding
 title: "Mode is read as facing"
 domain-slug: domain/global

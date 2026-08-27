@@ -1,5 +1,6 @@
 ---
 id: 5a01a121-1f00-56b7-bfc5-7f9ff679247c
+slug: read-mark-header-states-old-authority
 page-type-slug: finding
 title: "Read mark header states old authority"
 domain-slug: domain/alanwalton-app

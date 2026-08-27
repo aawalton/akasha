@@ -1,5 +1,6 @@
 ---
 id: f986f6b8-2ba1-5d66-8f70-f1ae8ad1d67c
+slug: children-out-of-author-reach
 page-type-slug: finding
 title: "Children out of author reach"
 domain-slug: rules-engine-rule-set/category-rule

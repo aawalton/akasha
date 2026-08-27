@@ -1,5 +1,6 @@
 ---
 id: 42f8cb30-6c01-5084-9109-79834ed6599a
+slug: the-reachability-floor-outlived-the-value-it-counted
 page-type-slug: finding
 title: "The reachability floor outlived the value it counted"
 domain-slug: domain/agent-harness

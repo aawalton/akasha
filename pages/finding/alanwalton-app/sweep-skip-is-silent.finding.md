@@ -1,5 +1,6 @@
 ---
 id: f188292a-9c4b-5c6a-908a-17a3a58ae162
+slug: sweep-skip-is-silent
 page-type-slug: finding
 title: "Sweep skip is silent"
 domain-slug: domain/alanwalton-app

@@ -1,5 +1,6 @@
 ---
 id: f417165d-0dda-54e7-98bf-61881e5400d0
+slug: epigraph-attributed-two-ways
 page-type-slug: finding
 title: "Epigraph attributed two ways"
 domain-slug: domain/atlas-app

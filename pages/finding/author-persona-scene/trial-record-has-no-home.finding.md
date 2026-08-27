@@ -1,5 +1,6 @@
 ---
 id: c1eae8ec-988c-5ceb-944b-c2bc8e1dd8c7
+slug: trial-record-has-no-home
 page-type-slug: finding
 title: "Trial record has no home"
 domain-slug: task/author-persona-scene

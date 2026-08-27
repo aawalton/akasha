@@ -1,5 +1,6 @@
 ---
 id: 4cb7f6cf-dd28-5854-8f1c-2e99f32f9949
+slug: stabilize-and-pleasure-undeclared
 page-type-slug: finding
 title: "Stabilize and pleasure undeclared"
 domain-slug: task/author-persona-scene

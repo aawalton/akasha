@@ -1,5 +1,6 @@
 ---
 id: b1c61f50-af6e-5808-b700-4e10e75e9a66
+slug: ears-and-eyes-absent
 page-type-slug: finding
 title: "Ears and eyes absent"
 domain-slug: persona-appearance/aria-appearance

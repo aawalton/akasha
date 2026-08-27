@@ -1,5 +1,6 @@
 ---
 id: 978cef63-3b35-506e-8202-0182c998127a
+slug: title-flags-declared-token
 page-type-slug: finding
 title: "Title flags declared token"
 domain-slug: repo/akasha-repo

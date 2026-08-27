@@ -1,5 +1,6 @@
 ---
 id: 2aa63b0d-efbb-53e6-a1b1-af4a9f63bffc
+slug: read-on-directory
 page-type-slug: finding
 title: "Read on directory"
 domain-slug: domain/claude-code-tools

@@ -1,5 +1,6 @@
 ---
 id: 2bc9a69d-2608-538a-b75b-c1834f41e675
+slug: unsettled-walks-past-a-rule-that-did-not-fire
 page-type-slug: finding
 title: "Unsettled walks past a rule that did not fire"
 domain-slug: rules-engine-rule-set/category-rule

@@ -1,5 +1,6 @@
 ---
 id: de4f000a-61d9-54df-bc76-74f55fd6caba
+slug: supervisor-port-complete-launch-open
 page-type-slug: finding
 title: "Supervisor port complete launch open"
 domain-slug: domain/agent-harness

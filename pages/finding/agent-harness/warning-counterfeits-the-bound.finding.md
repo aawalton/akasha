@@ -1,5 +1,6 @@
 ---
 id: 9b2e1f31-ed2d-5ebd-bd2e-baeab2a13697
+slug: warning-counterfeits-the-bound
 page-type-slug: finding
 title: "Warning counterfeits the bound"
 domain-slug: domain/agent-harness

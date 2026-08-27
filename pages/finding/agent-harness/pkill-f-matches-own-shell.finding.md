@@ -1,5 +1,6 @@
 ---
 id: dd701e35-d0ab-5c41-8083-d78954d66d0c
+slug: pkill-f-matches-own-shell
 page-type-slug: finding
 title: "Pkill f matches own shell"
 domain-slug: domain/agent-harness

@@ -1,5 +1,6 @@
 ---
 id: 3a8f3549-49ec-541f-9741-e3f616639ed2
+slug: restore-drill-deleted-silently
 page-type-slug: finding
 title: "Restore drill deleted silently"
 domain-slug: repo/akasha-repo

@@ -1,5 +1,6 @@
 ---
 id: 0bf78129-d9a9-5707-82ee-eb5ea5da88bf
+slug: stop-hook-count-unchecked
 page-type-slug: finding
 title: "Stop hook count unchecked"
 domain-slug: domain/agent-harness

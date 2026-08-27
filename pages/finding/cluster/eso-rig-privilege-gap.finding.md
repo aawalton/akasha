@@ -1,5 +1,6 @@
 ---
 id: c89e27c3-a49c-52cd-9303-ca53d1650a6b
+slug: eso-rig-privilege-gap
 page-type-slug: finding
 title: "Eso rig privilege gap"
 domain-slug: page-type/cluster

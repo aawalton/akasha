@@ -1,5 +1,6 @@
 ---
 id: 245f9217-6ac7-5125-b449-03c3e906e3fa
+slug: health-samples-comments-cite-a-retired-sibling
 page-type-slug: finding
 title: "Health samples comments cite a retired sibling"
 domain-slug: domain/alanwalton-app

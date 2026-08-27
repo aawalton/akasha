@@ -1,5 +1,6 @@
 ---
 id: 0e2cf3c0-07b4-53e4-b396-0d651befa4f3
+slug: cu-drops-rate-limited-accounts
 page-type-slug: finding
 title: "Cu drops rate limited accounts"
 domain-slug: domain/alan-harness-desktop

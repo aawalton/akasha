@@ -1,5 +1,6 @@
 ---
 id: aa9da871-1a6b-5b74-9e03-2479c0c94df8
+slug: turn-end-stops-headless-seat
 page-type-slug: finding
 title: "Turn end stops headless seat"
 domain-slug: domain/agent-turn-end

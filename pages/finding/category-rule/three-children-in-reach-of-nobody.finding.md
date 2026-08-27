@@ -1,5 +1,6 @@
 ---
 id: 16f09e33-0baa-5525-b2c9-d171813564e5
+slug: three-children-in-reach-of-nobody
 page-type-slug: finding
 title: "Three children in reach of nobody"
 domain-slug: rules-engine-rule-set/category-rule

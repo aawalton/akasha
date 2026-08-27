@@ -1,5 +1,6 @@
 ---
 id: 42832a9e-fb86-5210-922f-5ee74d4b7c29
+slug: seed-outlived-its-warrant
 page-type-slug: finding
 title: "Seed outlived its warrant"
 domain-slug: domain/arousal

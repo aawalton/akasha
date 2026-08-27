@@ -1,5 +1,6 @@
 ---
 id: 519433bd-e4c7-5051-afb1-3154b68bf99a
+slug: subject-key-blocks-iteration
 page-type-slug: finding
 title: "Subject key blocks iteration"
 domain-slug: task/author-persona-scene

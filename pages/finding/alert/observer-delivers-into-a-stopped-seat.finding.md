@@ -1,5 +1,6 @@
 ---
 id: 88b750d6-8056-5a28-bb82-803dcdc10e74
+slug: observer-delivers-into-a-stopped-seat
 page-type-slug: finding
 title: "Observer delivers into a stopped seat"
 domain-slug: page-type/alert

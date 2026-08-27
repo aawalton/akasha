@@ -1,5 +1,6 @@
 ---
 id: c79ca357-936d-5fdc-a97f-70c662638b8a
+slug: one-first-person-moment-left
 page-type-slug: finding
 title: "One first person moment left"
 domain-slug: persona-appearance/awen-appearance

@@ -1,5 +1,6 @@
 ---
 id: 01c30f58-b527-5bd3-9269-0a273f2d6b62
+slug: ssc-stats-surface-open
 page-type-slug: finding
 title: "Ssc stats surface open"
 domain-slug: domain/atlas-app

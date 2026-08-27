@@ -1,5 +1,6 @@
 ---
 id: 439aa7e8-c653-5640-bcff-cda6dde356d1
+slug: stale-background-ids
 page-type-slug: finding
 title: "Stale background ids"
 domain-slug: domain/agent-harness

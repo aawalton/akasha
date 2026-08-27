@@ -1,5 +1,6 @@
 ---
 id: 823b070a-b17c-52bc-91c1-c8bcfc558296
+slug: tick-interval-warrant-names-a-silent-path
 page-type-slug: finding
 title: "Tick interval warrant names a silent path"
 domain-slug: domain/alanwalton-app

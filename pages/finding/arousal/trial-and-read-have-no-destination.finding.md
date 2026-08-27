@@ -1,5 +1,6 @@
 ---
 id: 540c856c-cf4f-50ee-b581-51ab3318ff01
+slug: trial-and-read-have-no-destination
 page-type-slug: finding
 title: "Trial and read have no destination"
 domain-slug: domain/arousal

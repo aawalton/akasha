@@ -1,5 +1,6 @@
 ---
 id: 9772531c-2222-5278-b864-3cd0d53ecfed
+slug: launch-values-cross-the-seam
 page-type-slug: finding
 title: "Launch values cross the seam"
 domain-slug: domain/agent-mode-initial

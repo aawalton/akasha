@@ -1,5 +1,6 @@
 ---
 id: cb35dc4a-6717-513f-a4fb-e715417d3030
+slug: rules-push-writes-unparsed
 page-type-slug: finding
 title: "Rules push writes unparsed"
 domain-slug: domain/alanwalton-app

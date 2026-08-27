@@ -1,5 +1,6 @@
 ---
 id: 595567d0-063d-5c85-aa4f-25e049c0b1d2
+slug: alan-handler-amy-pattern
 page-type-slug: finding
 title: "alan-handler-amy pattern"
 domain-slug: persona/athena

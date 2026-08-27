@@ -1,5 +1,6 @@
 ---
 id: ceef2c12-ac4b-5991-9c9c-e1250a73d14a
+slug: widget-cadence-cites-bypassed-window
 page-type-slug: finding
 title: "Widget cadence cites bypassed window"
 domain-slug: domain/alan-harness

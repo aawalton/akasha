@@ -1,5 +1,6 @@
 ---
 id: 6e357436-138f-596b-8bba-63e3416bfbee
+slug: native-app-password-autocomplete
 page-type-slug: finding
 title: "Native app password autocomplete"
 domain-slug: persona/astra

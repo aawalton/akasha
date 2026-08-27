@@ -1,5 +1,6 @@
 ---
 id: be89e4c2-c0af-564f-89d2-c260d2031f18
+slug: fun-points-header-names-the-replaced-subscription
 page-type-slug: finding
 title: "Fun points header names the replaced subscription"
 domain-slug: domain/alanwalton-app

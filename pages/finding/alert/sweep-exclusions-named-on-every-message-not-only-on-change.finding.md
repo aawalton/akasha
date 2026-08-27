@@ -1,5 +1,6 @@
 ---
 id: 0416e8ac-aae5-53e5-bc2c-9087ad1b0abc
+slug: sweep-exclusions-named-on-every-message-not-only-on-change
 page-type-slug: finding
 title: "Sweep exclusions named on every message not only on change"
 domain-slug: page-type/alert

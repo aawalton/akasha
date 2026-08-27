@@ -1,5 +1,6 @@
 ---
 id: 8acd894c-95ad-560a-aa23-556124d0470f
+slug: paragraph-is-flat-inventory
 page-type-slug: finding
 title: "Paragraph is flat inventory"
 domain-slug: persona-appearance/athena-appearance

@@ -1,5 +1,6 @@
 ---
 id: b1e841cc-79e6-543e-a865-932d84ea2135
+slug: commits-name-no-seat
 page-type-slug: finding
 title: "Commits name no seat"
 domain-slug: repo/akasha-repo

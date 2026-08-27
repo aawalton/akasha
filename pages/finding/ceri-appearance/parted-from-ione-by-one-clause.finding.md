@@ -1,5 +1,6 @@
 ---
 id: 9ddcb2a7-2a67-5e73-beec-145fcaf46964
+slug: parted-from-ione-by-one-clause
 page-type-slug: finding
 title: "Parted from ione by one clause"
 domain-slug: persona-appearance/ceri-appearance

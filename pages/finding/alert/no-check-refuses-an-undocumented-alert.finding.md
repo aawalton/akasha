@@ -1,5 +1,6 @@
 ---
 id: 4ce580fa-772a-5dfe-a643-baa653df70d6
+slug: no-check-refuses-an-undocumented-alert
 page-type-slug: finding
 title: "No check refuses an undocumented alert"
 domain-slug: page-type/alert

@@ -1,5 +1,6 @@
 ---
 id: 4f3fa3ff-28e0-535a-84ed-13cf52f3055f
+slug: audit-instructions-paths
 page-type-slug: finding
 title: "audit instructions paths"
 domain-slug: persona/athena

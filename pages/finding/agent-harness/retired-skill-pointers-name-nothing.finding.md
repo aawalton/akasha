@@ -1,5 +1,6 @@
 ---
 id: f45d5622-7b34-5c97-b6fe-441b10ad6e30
+slug: retired-skill-pointers-name-nothing
 page-type-slug: finding
 title: "Retired skill pointers name nothing"
 domain-slug: domain/agent-harness

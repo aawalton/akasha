@@ -1,5 +1,6 @@
 ---
 id: 0c312508-24de-5d68-9bc2-4346d924cd03
+slug: send-carries-two-actions
 page-type-slug: finding
 title: "Send carries two actions"
 domain-slug: domain/alan-email

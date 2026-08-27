@@ -1,5 +1,6 @@
 ---
 id: 630d0d74-3a97-56c0-8260-91b5cd9813b2
+slug: turn-end-rule-path-dead
 page-type-slug: finding
 title: "Turn end rule path dead"
 domain-slug: domain/agent-turn-end

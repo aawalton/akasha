@@ -1,5 +1,6 @@
 ---
 id: 318ae1f2-15be-5351-96e4-4de80a24f20a
+slug: seam-anchors-moved-on-clean-install
 page-type-slug: finding
 title: "Seam anchors moved on clean install"
 domain-slug: domain/alan-harness-mobile

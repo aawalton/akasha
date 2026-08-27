@@ -1,5 +1,6 @@
 ---
 id: 6192d65b-3c35-55b3-bac4-633f0fe399e5
+slug: prose-flag-guard-thinned
 page-type-slug: finding
 title: "Prose flag guard thinned"
 domain-slug: domain/agent-harness

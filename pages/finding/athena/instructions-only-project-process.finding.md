@@ -1,5 +1,6 @@
 ---
 id: 7ae612d7-8440-5459-b0b9-3226dc6af022
+slug: instructions-only-project-process
 page-type-slug: finding
 title: "instructions-only project process"
 domain-slug: persona/athena

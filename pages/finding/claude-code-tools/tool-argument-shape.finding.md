@@ -1,5 +1,6 @@
 ---
 id: 399a5204-a9fc-5f8e-b328-e1899d7456a3
+slug: tool-argument-shape
 page-type-slug: finding
 title: "Tool argument shape"
 domain-slug: domain/claude-code-tools

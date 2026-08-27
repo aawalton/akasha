@@ -1,5 +1,6 @@
 ---
 id: af51c3aa-f9b4-58e0-8bde-b0b40972d57a
+slug: adjacent-repair-against-escalate
 page-type-slug: finding
 title: "Adjacent repair against escalate"
 domain-slug: domain/global

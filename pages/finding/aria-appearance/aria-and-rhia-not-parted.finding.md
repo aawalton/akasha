@@ -1,5 +1,6 @@
 ---
 id: e35ede93-49a3-5ca8-b40d-4758535ff7a7
+slug: aria-and-rhia-not-parted
 page-type-slug: finding
 title: "Aria and rhia not parted"
 domain-slug: persona-appearance/aria-appearance

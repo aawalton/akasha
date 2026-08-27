@@ -1,5 +1,6 @@
 ---
 id: 8753838a-cbf4-5bab-b733-957854d7942a
+slug: nothing-outside-the-observer-watches-it
 page-type-slug: finding
 title: "Nothing outside the observer watches it"
 domain-slug: page-type/alert

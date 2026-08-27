@@ -1,5 +1,6 @@
 ---
 id: f5585d5e-f8dc-5eff-b2f9-63532620789b
+slug: daily-ladder-mirror-quotes-a-divisor-the-row-dropped
 page-type-slug: finding
 title: "Daily ladder mirror quotes a divisor the row dropped"
 domain-slug: domain/alanwalton-app

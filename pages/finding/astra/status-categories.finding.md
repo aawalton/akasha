@@ -1,5 +1,6 @@
 ---
 id: ad6876d5-48ed-5aa9-970a-73dd7c41d8bf
+slug: status-categories
 page-type-slug: finding
 title: "status categories"
 domain-slug: persona/astra

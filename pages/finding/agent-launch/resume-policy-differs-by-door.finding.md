@@ -1,5 +1,6 @@
 ---
 id: 0a014795-c875-5411-a3ff-3863741a5f45
+slug: resume-policy-differs-by-door
 page-type-slug: finding
 title: "Resume policy differs by door"
 domain-slug: barred-meaning/agent-launch

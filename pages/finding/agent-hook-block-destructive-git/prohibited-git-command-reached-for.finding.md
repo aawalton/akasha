@@ -1,5 +1,6 @@
 ---
 id: ce227d7d-9b29-5e67-b26d-6d849732e748
+slug: prohibited-git-command-reached-for
 page-type-slug: finding
 title: "Prohibited Git command reached for"
 domain-slug: agent-hook/agent-hook-block-destructive-git

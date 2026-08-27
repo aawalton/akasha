@@ -1,5 +1,6 @@
 ---
 id: 47eaf548-57bf-5e51-b125-9ffb0bc0e482
+slug: traces-client-alias-admits-service-role
 page-type-slug: finding
 title: "Traces client alias admits service role"
 domain-slug: domain/alanwalton-app

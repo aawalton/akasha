@@ -1,5 +1,6 @@
 ---
 id: 38e58d96-edc1-56d1-ba71-d9cea357fc63
+slug: undeclared-agent-name-families
 page-type-slug: finding
 title: "Undeclared agent name families"
 domain-slug: domain/agent-runtime

@@ -1,5 +1,6 @@
 ---
 id: 73a0d92a-3439-5792-970f-934c768788d2
+slug: stale-name-parse-routing-note
 page-type-slug: finding
 title: "Stale name parse routing note"
 domain-slug: domain/agent-harness

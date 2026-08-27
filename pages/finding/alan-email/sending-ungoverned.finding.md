@@ -1,5 +1,6 @@
 ---
 id: a6f6c554-1fbc-5f32-82f6-0b4d5b4f527e
+slug: sending-ungoverned
 page-type-slug: finding
 title: "Sending ungoverned"
 domain-slug: domain/alan-email

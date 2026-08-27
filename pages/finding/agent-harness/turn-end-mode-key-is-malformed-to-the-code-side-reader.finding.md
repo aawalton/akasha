@@ -1,5 +1,6 @@
 ---
 id: 2a2fe521-1c54-5739-a3db-fa0056bbff47
+slug: turn-end-mode-key-is-malformed-to-the-code-side-reader
 page-type-slug: finding
 title: "Turn end mode key is malformed to the code side reader"
 domain-slug: domain/agent-harness

@@ -1,5 +1,6 @@
 ---
 id: e27bd11b-0260-5750-9a94-33b84b4560f5
+slug: package-edges-carry-a-rule
 page-type-slug: finding
 title: "Package edges carry a rule"
 domain-slug: domain/browser

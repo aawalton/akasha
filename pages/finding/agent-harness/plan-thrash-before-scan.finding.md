@@ -1,5 +1,6 @@
 ---
 id: ea6a7749-fd31-5642-9b91-636edc1e8e38
+slug: plan-thrash-before-scan
 page-type-slug: finding
 title: "Plan thrash before scan"
 domain-slug: domain/agent-harness

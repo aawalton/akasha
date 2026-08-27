@@ -1,5 +1,6 @@
 ---
 id: 8bb2aa6a-0b02-5b99-b875-7e62684ddecc
+slug: bun-cwd-space-form-runs-nothing
 page-type-slug: finding
 title: "Bun cwd space form runs nothing"
 domain-slug: repo/akasha-repo

@@ -1,5 +1,6 @@
 ---
 id: 6060a99a-44b7-533b-936b-77917396df6b
+slug: preview-passes-as-read
 page-type-slug: finding
 title: "Preview passes as read"
 domain-slug: domain/agent-harness

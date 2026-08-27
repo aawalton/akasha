@@ -1,5 +1,6 @@
 ---
 id: 002108b1-9d4b-5b3d-9793-586890035ae3
+slug: parallel-reads-do-not-all-record
 page-type-slug: finding
 title: "Parallel reads do not all record"
 domain-slug: domain/agent-harness

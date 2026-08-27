@@ -1,5 +1,6 @@
 ---
 id: d9c813e3-efa5-53df-aa97-d5b832556585
+slug: high-water-pinned-above-every-count
 page-type-slug: finding
 title: "High water pinned above every count"
 domain-slug: domain/alanwalton-app

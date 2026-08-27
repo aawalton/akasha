@@ -1,5 +1,6 @@
 ---
 id: 9dcf8b33-da4a-5585-b926-44a964447e3b
+slug: restart-prohibitions-unwritten
 page-type-slug: finding
 title: "Restart prohibitions unwritten"
 domain-slug: domain/agent-harness

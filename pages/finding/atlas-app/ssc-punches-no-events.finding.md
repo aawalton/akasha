@@ -1,5 +1,6 @@
 ---
 id: 8aeed22a-9e7a-5608-8c6f-b0393ce3c113
+slug: ssc-punches-no-events
 page-type-slug: finding
 title: "Ssc punches no events"
 domain-slug: domain/atlas-app

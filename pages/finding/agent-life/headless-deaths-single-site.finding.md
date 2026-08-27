@@ -1,5 +1,6 @@
 ---
 id: 3a4bb480-11bb-53c2-987f-12d0659eb50b
+slug: headless-deaths-single-site
 page-type-slug: finding
 title: "Headless deaths single site"
 domain-slug: domain/global

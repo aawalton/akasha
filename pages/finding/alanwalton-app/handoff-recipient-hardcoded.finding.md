@@ -1,5 +1,6 @@
 ---
 id: 6c6f5f17-8323-5945-b7c2-09dbfdd24dc4
+slug: handoff-recipient-hardcoded
 page-type-slug: finding
 title: "Handoff recipient hardcoded"
 domain-slug: domain/alanwalton-app

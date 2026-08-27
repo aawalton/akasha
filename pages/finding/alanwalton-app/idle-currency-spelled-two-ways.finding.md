@@ -1,5 +1,6 @@
 ---
 id: cad05ca6-3ae1-57d6-9b34-af2d8376ca48
+slug: idle-currency-spelled-two-ways
 page-type-slug: finding
 title: "Idle currency spelled two ways"
 domain-slug: domain/alanwalton-app

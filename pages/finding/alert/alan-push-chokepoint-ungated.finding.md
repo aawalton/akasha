@@ -1,5 +1,6 @@
 ---
 id: 23648e4b-85d1-5328-82fa-b656c926f54f
+slug: alan-push-chokepoint-ungated
 page-type-slug: finding
 title: "Alan push chokepoint ungated"
 domain-slug: page-type/alert

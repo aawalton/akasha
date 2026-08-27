@@ -1,5 +1,6 @@
 ---
 id: da536541-2632-5045-8c45-b55970663671
+slug: widget-gate-default-inverted-in-prose
 page-type-slug: finding
 title: "Widget gate default inverted in prose"
 domain-slug: domain/alanwalton-app

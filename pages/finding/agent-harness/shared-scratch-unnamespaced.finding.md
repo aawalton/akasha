@@ -1,5 +1,6 @@
 ---
 id: 7672a105-13ce-5bec-a472-a566302e2ac2
+slug: shared-scratch-unnamespaced
 page-type-slug: finding
 title: "Shared scratch unnamespaced"
 domain-slug: domain/agent-harness

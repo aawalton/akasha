@@ -1,5 +1,6 @@
 ---
 id: 708c8acf-ec3b-58d4-bdae-420f9bc181a1
+slug: escalate-alone-carries-no-reason
 page-type-slug: finding
 title: "Escalate alone carries no reason"
 domain-slug: domain/global

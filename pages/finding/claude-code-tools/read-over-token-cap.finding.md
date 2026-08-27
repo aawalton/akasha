@@ -1,5 +1,6 @@
 ---
 id: 6b3710b6-3643-5e11-9733-c833ab97590e
+slug: read-over-token-cap
 page-type-slug: finding
 title: "Read over token cap"
 domain-slug: domain/claude-code-tools

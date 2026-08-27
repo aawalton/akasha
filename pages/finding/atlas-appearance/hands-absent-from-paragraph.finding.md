@@ -1,5 +1,6 @@
 ---
 id: 8f94c384-8377-5e1d-9f22-5df411cfa2c7
+slug: hands-absent-from-paragraph
 page-type-slug: finding
 title: "Hands absent from paragraph"
 domain-slug: persona-appearance/atlas-appearance

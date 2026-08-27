@@ -1,5 +1,6 @@
 ---
 id: 9d8790a8-b992-515a-9dc1-e7a7c8a1a9f4
+slug: set-name-from-a-subagent-renames-the-dispatcher
 page-type-slug: finding
 title: "Set name from a subagent renames the dispatcher"
 domain-slug: domain/agent-harness

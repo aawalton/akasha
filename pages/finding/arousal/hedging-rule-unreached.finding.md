@@ -1,5 +1,6 @@
 ---
 id: 549a176c-00f6-5902-a1ba-5b9ad8f34bb9
+slug: hedging-rule-unreached
 page-type-slug: finding
 title: "Hedging rule unreached"
 domain-slug: domain/arousal

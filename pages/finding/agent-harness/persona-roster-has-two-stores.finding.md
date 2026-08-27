@@ -1,5 +1,6 @@
 ---
 id: ad277a2a-dfcc-5265-90f4-4c84a081fdf1
+slug: persona-roster-has-two-stores
 page-type-slug: finding
 title: "Persona roster has two stores"
 domain-slug: domain/agent-harness

@@ -1,5 +1,6 @@
 ---
 id: 9aba10b6-a351-5a3b-a8a4-c54c44a9865e
+slug: widget-reload-not-origin
 page-type-slug: finding
 title: "Widget reload not origin"
 domain-slug: ios-app/alanwalton-ios

@@ -1,5 +1,6 @@
 ---
 id: ecd0d4a0-c5d3-5596-b519-6bb73b3232f3
+slug: one-point-means-different-work
 page-type-slug: finding
 title: "One point means different work"
 domain-slug: domain/alanwalton-app

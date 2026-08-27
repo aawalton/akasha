@@ -1,5 +1,6 @@
 ---
 id: 51966d5f-5ed1-5190-943d-1f680c984e5d
+slug: turn-end-hook-timeouts-inverted
 page-type-slug: finding
 title: "Turn end hook timeouts inverted"
 domain-slug: domain/agent-harness

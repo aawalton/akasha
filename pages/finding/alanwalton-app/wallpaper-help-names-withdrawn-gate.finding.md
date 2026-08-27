@@ -1,5 +1,6 @@
 ---
 id: 4d4f8d45-7cd7-5a3e-bc4c-e80f3c844724
+slug: wallpaper-help-names-withdrawn-gate
 page-type-slug: finding
 title: "Wallpaper help names withdrawn gate"
 domain-slug: domain/alanwalton-app

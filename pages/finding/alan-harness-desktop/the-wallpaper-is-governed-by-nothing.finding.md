@@ -1,5 +1,6 @@
 ---
 id: f1c9b2f4-76b9-5cbd-be39-544e36a66b9c
+slug: the-wallpaper-is-governed-by-nothing
 page-type-slug: finding
 title: "The wallpaper is governed by nothing"
 domain-slug: domain/alan-harness-desktop

@@ -1,5 +1,6 @@
 ---
 id: 3b9ee616-a584-5c16-a323-8b453e484dda
+slug: definition-does-not-separate-the-pair
 page-type-slug: finding
 title: "Definition does not separate the pair"
 domain-slug: domain/global

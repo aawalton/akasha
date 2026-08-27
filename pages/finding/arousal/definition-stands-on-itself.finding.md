@@ -1,5 +1,6 @@
 ---
 id: 562be5f4-a20d-5f75-93a3-f9d7b7b2d9b7
+slug: definition-stands-on-itself
 page-type-slug: finding
 title: "Definition stands on itself"
 domain-slug: domain/arousal

@@ -1,5 +1,6 @@
 ---
 id: 9cf535c2-71b5-5be7-bc0c-a328ac2fe1d6
+slug: scratch-rule-unmeasured-at-home
 page-type-slug: finding
 title: "Scratch rule unmeasured at home"
 domain-slug: domain/agent-harness

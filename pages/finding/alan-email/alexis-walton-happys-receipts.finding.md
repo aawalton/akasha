@@ -1,5 +1,6 @@
 ---
 id: 5e68eef4-d218-585a-af4d-3eeab8a11cc7
+slug: alexis-walton-happys-receipts
 page-type-slug: finding
 title: "Alexis walton happys receipts"
 domain-slug: domain/alan-email

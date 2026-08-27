@@ -1,5 +1,6 @@
 ---
 id: 25394a90-762a-5dac-b5cc-38e4dd76b2f1
+slug: harness-iteration-role
 page-type-slug: finding
 title: "harness iteration role"
 domain-slug: persona/athena

@@ -1,5 +1,6 @@
 ---
 id: 03fc4a39-7d73-568e-98d2-d2739735d1f6
+slug: holder-key-two-readings
 page-type-slug: finding
 title: "Holder key two readings"
 domain-slug: page-type/alert

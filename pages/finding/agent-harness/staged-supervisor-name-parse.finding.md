@@ -1,5 +1,6 @@
 ---
 id: 326c901d-5203-5a0f-8a8f-ea0b20f85b13
+slug: staged-supervisor-name-parse
 page-type-slug: finding
 title: "Staged supervisor name parse"
 domain-slug: domain/agent-harness

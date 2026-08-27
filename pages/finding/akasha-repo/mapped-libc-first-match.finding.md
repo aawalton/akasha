@@ -1,5 +1,6 @@
 ---
 id: 89c7b2df-f566-50a5-bf97-f2ebf7401e80
+slug: mapped-libc-first-match
 page-type-slug: finding
 title: "Mapped libc first match"
 domain-slug: repo/akasha-repo

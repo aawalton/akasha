@@ -1,5 +1,6 @@
 ---
 id: 7ef83ab2-1437-5e19-a91e-57ce9b00124b
+slug: package-docs-cited-by-path-after-removal
 page-type-slug: finding
 title: "Package docs cited by path after removal"
 domain-slug: domain/alanwalton-app

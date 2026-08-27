@@ -1,5 +1,6 @@
 ---
 id: d04e09e0-20f6-5574-97b4-45c3b2f01d45
+slug: harness-documents-outside-version-control
 page-type-slug: finding
 title: "Harness documents outside version control"
 domain-slug: domain/alan-harness

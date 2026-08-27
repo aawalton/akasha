@@ -1,5 +1,6 @@
 ---
 id: 27317f88-d07d-542a-9e23-13b53cd1e661
+slug: amy-narrative-states-a-bar-her-row-denies
 page-type-slug: finding
 title: "Amy narrative states a bar her row denies"
 domain-slug: domain/alanwalton-app

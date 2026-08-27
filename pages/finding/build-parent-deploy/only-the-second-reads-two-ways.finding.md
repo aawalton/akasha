@@ -1,5 +1,6 @@
 ---
 id: 0c37d560-be38-5a5e-a806-dfff655b169f
+slug: only-the-second-reads-two-ways
 page-type-slug: finding
 title: "Only the second reads two ways"
 domain-slug: domain/global

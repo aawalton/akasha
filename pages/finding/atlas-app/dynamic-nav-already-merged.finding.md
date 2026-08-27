@@ -1,5 +1,6 @@
 ---
 id: 3ded77f0-b090-5e84-aca2-edcfa412f621
+slug: dynamic-nav-already-merged
 page-type-slug: finding
 title: "Dynamic nav already merged"
 domain-slug: domain/atlas-app

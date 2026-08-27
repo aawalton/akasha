@@ -1,5 +1,6 @@
 ---
 id: 8c472547-5b63-5191-a088-f5b64ac7147d
+slug: file-clobber-safety
 page-type-slug: finding
 title: "file clobber safety"
 domain-slug: persona/athena

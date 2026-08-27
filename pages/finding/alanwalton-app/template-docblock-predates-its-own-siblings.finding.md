@@ -1,5 +1,6 @@
 ---
 id: 0612ccb3-38e4-57f0-a66a-268984b23b8c
+slug: template-docblock-predates-its-own-siblings
 page-type-slug: finding
 title: "Template docblock predates its own siblings"
 domain-slug: domain/alanwalton-app

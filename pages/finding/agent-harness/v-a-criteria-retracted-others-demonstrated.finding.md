@@ -1,5 +1,6 @@
 ---
 id: ee750297-6bde-5ecf-82b1-fea53f91efd8
+slug: v-a-criteria-retracted-others-demonstrated
 page-type-slug: finding
 title: "V a criteria retracted others demonstrated"
 domain-slug: domain/agent-harness
