@@ -9,6 +9,7 @@ required-reading-slugs:
   - page-type/gate
   - domain/land
   - domain/run
+  - domain/service
 persona-champion-slug: dalla
 sequence-slugs:
   - domain/change-harness-definitions
