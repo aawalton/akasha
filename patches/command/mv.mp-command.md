@@ -15,7 +15,7 @@ required-reading-slugs:
 
 # Design
 
-A move repoints a relative specifier only; one naming a package, a workspace or a tsconfig path alias is left as it stands.
+A move repoints a relative specifier only; one naming a package, a workspace or a tsconfig path alias is left alone.
 
 A page's sidecars go with it without being named.
 
