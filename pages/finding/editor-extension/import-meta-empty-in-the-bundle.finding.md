@@ -17,10 +17,10 @@ Read 2026-08-27 against akasha at head, bundling with `ops editor-extension bund
 
 esbuild names every one of them at bundle time, as `▲ [WARNING] "import.meta" is not available with the "cjs" output format and will be empty [empty-import-meta]`, with file and line. That warning was printing on every bundle for as long as the log goes back and scrolled past unread, because the build exits 0 and writes the file. `bundle.ts:43` already raises `import-is-undefined` to an error; `empty-import-meta` was left at warning.
 
-The four: `repo/roots/roots.ts:13` `HERE`, `page/index/place/place.ts:5` `AKASHA`, `checks/checks.ts:16` `createRequire`, and — surviving, because it is inside a function — `repo/push/push.ts:103`. `readouts/readout-catalog.ts:24` had already been written the safe way: read `AKASHA_ROOT`, fall back to `import.meta.dir`, throw a sentence naming the variable.
+The four: `repo/roots/roots.ts:13` `HERE`, `page/index/place/place.ts:5` `AKASHA`, `checks-system/checks.ts:16` `createRequire`, and — surviving, because it is inside a function — `repo/push/push.ts:103`. `readouts/readout-catalog.ts:24` had already been written the safe way: read `AKASHA_ROOT`, fall back to `import.meta.dir`, throw a sentence naming the variable.
 
 Two of the four refusals told a bundle to name its root in `AKASHA_ROOT`, and no bundle was setting it. The contract was written on the reading end only.
 
-`checks/checks.ts` is in the extension's graph at all only transitively. The extension runs no check.
+`checks-system/checks.ts` is in the extension's graph at all only transitively. The extension runs no check.
 
 Not measured: whether anything else in this repository is bundled to `cjs`, and so shares the exposure.

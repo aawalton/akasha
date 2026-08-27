@@ -2,9 +2,9 @@ export const summary = "Run akasha's checks over the whole tree as it stands"
 
 import { relative } from "node:path"
 import { akashaRoot } from "../../../repo/roots/roots.ts"
-import type { Check } from "../../../checks/check/check-shape.ts"
-import { checksFound, checksOnAudit } from "../../../checks/checks.ts"
-import { judgesAuthor, runAudit } from "../../../checks/run/audit.ts"
+import type { Check } from "../../../checks-system/check/check-shape.ts"
+import { checksFound, checksOnAudit } from "../../../checks-system/checks.ts"
+import { judgesAuthor, runAudit } from "../../../checks-system/run/audit.ts"
 
 const AUDITED: readonly Check[] = checksFound()
 

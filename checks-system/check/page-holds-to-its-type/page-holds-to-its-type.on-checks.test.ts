@@ -59,7 +59,7 @@ test("a body outside the shape and a key outside the properties are both refused
 })
 
 test("a path no page type claims is not judged", () => {
-  expect(verdict({ "checks/checks.ts": "export const CHECKS = []\n" })).toEqual([])
+  expect(verdict({ "checks-system/checks.ts": "export const CHECKS = []\n" })).toEqual([])
   expect(verdict({ "notes/loose.md": "# Loose\n\nA markdown file no page type claims.\n" })).toEqual([])
 })
 

@@ -15,7 +15,7 @@ const ON_WORKTREE = "check-on-worktree"
 
 const ON_AUDIT = "check-on-audit"
 
-const CHECKS_AT = "checks/checks.ts"
+const CHECKS_AT = "checks-system/checks.ts"
 
 // BUILT WHEN A CHECK IS LOADED, NOT AT IMPORT. `import.meta` is empty in a CommonJS bundle, so
 // this read `undefined/checks.ts` and `createRequire` refused a filename that was not an

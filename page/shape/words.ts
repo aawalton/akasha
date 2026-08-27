@@ -1,5 +1,5 @@
 import type { Refusal } from "../document/types.ts"
-import { refusalText } from "../../checks/refusal/refusal.ts"
+import { refusalText } from "../../checks-system/refusal/refusal.ts"
 
 export function partOutsideShape(refusal: Refusal, where: string): string {
   return refusalText("page-part-outside-shape", {

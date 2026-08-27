@@ -5,7 +5,7 @@ title: "Check"
 extends-slug: page
 files: akasha:**/*.check.md
 body-shape-slug: domain
-code-loaded-by: akasha:checks/checks.ts
+code-loaded-by: akasha:checks-system/checks.ts
 slug: check
 domain-parent-slug: domain/checks-system
 sequence-slugs:
