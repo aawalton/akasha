@@ -1,7 +1,7 @@
 import { describe, expect, test } from "bun:test"
 import { existsSync, readFileSync, readdirSync } from "node:fs"
 import { type Fixture, fixture } from "./fixture.ts"
-import { namedIn, seatStore } from "./seat-fixture.ts"
+import { indexFixture, namedIn, seatStore } from "./seat-fixture.ts"
 
 const SEAT_COMMAND = `${import.meta.dir}/../seat.ts`
 
@@ -9,13 +9,19 @@ const AGENT = "3f2a1b4c-5d6e-7f80-9a1b-2c3d4e5f6071"
 
 function statedIn(at: Fixture, args: readonly string[]): { code: number; out: string; err: string } {
   const run = Bun.spawnSync(["bun", SEAT_COMMAND, "--agent", AGENT, ...args], {
-    env: { ...process.env, INSTRUCTIONS_ROOT: at.root, MEMORY_ROOT: at.memory, HOME: at.home },
+    env: { ...process.env, AKASHA_ROOT: at.root, HOME: at.home },
   })
   return { code: run.exitCode, out: run.stdout.toString(), err: run.stderr.toString() }
 }
 
+const SEATS = "agent/seat"
+
+// THE RECORDER'S OWN PAGE STANDS BESIDE WHATEVER A STATEMENT LEAVES: `seatStore` plants it so a
+// reading can be recorded at all, and it is a seat page under this same folder.
+const RECORDER = "agent-one.seat.md"
+
 function pageIn(at: Fixture, seatName: string): string | null {
-  const path = `${at.memory}/pages/seat/${seatName}.md`
+  const path = `${at.root}/${SEATS}/${seatName}.seat.md`
   return existsSync(path) ? readFileSync(path, "utf8") : null
 }
 
@@ -25,13 +31,14 @@ describe("what one statement leaves in a fixture", () => {
     try {
       seatStore(at)
       namedIn(at)
+      indexFixture(at)
       const stated = statedIn(at, [
         "--persona", "athena", "--domain", "global", "--role", "definer",
         "--principal", "alan", "--mode", "headless",
       ])
 
       expect(stated.code).toBe(0)
-      expect(readdirSync(`${at.memory}/pages/seat`)).toEqual(["athena.md"])
+      expect(readdirSync(`${at.root}/${SEATS}`).sort()).toEqual([RECORDER, "athena.seat.md"])
       const page = pageIn(at, "athena")
       expect(page).toContain(`id: ${AGENT}`)
       expect(page).toContain("persona-slug: athena")
@@ -49,11 +56,12 @@ describe("what one statement leaves in a fixture", () => {
     try {
       seatStore(at)
       namedIn(at)
+      indexFixture(at)
       statedIn(at, ["--persona", "athena", "--domain", "global", "--role", "definer", "--principal", "alan", "--mode", "headless"])
       const again = statedIn(at, ["--task", "change-instructions"])
 
       expect(again.code).toBe(0)
-      expect(readdirSync(`${at.memory}/pages/seat`)).toEqual(["athena.md"])
+      expect(readdirSync(`${at.root}/${SEATS}`).sort()).toEqual([RECORDER, "athena.seat.md"])
       const page = pageIn(at, "athena")
       expect(page).toContain("task-slug: change-instructions")
       expect(page).toContain("role-slug: definer")
@@ -67,6 +75,7 @@ describe("what one statement leaves in a fixture", () => {
     try {
       seatStore(at)
       namedIn(at)
+      indexFixture(at)
       const stated = statedIn(at, ["--persona", "athena", "--principal", "alan"])
 
       expect(stated.code).not.toBe(0)
@@ -82,6 +91,7 @@ describe("what one statement leaves in a fixture", () => {
     try {
       seatStore(at)
       namedIn(at)
+      indexFixture(at)
       const said = [
         "--persona", "athena", "--domain", "global", "--role", "definer",
         "--principal", "alan", "--mode", "headless",
