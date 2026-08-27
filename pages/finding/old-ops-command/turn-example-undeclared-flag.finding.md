@@ -11,8 +11,8 @@ domain-slug: page-type/old-ops-command
 
 # Evidence
 
-The help block's `flags` list names `--action`, `--turn`, `--slug`, `--action-label` and `--json`. Its second example reads `cat action.json | ops tower turn --turn 57 --action - --action-label-file ./action-label.txt --json`.
+The help block at `tools/commands/tower/turn.ts:12` names `--action`, `--turn`, `--action-label` and `--json`. Its second example, at `tools/commands/tower/turn.ts:39`, reads `cat action.json | ops tower turn --turn 57 --action - --action-label-file ./action-label.txt --json`. `--action-label-file` is spelled in no declaration anywhere in the tree.
 
-The text arrived unchanged from the code repository's `packages/alanwalton/tower/src/tower/turn.ts`, where it stood the same way, and was carried across verbatim when the body moved here — a help block is compared against the code repository's when it arrives, so a change made during a move cannot be told from the move.
+The text was carried verbatim into akasha with the body, and stands unchanged at `tools/commands/tower/turn.ts`.
 
 Nothing enforces that an example parses against the flags declared beside it, which is why this stood.
