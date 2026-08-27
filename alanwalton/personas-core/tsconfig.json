@@ -13,9 +13,8 @@
   },
   "include": [
     "src/**/*.ts",
-    "../../readouts/ring/tier/tier.ts",
-    "../../readouts/ring/ladder/ladder.ts",
-    "../../alan/persona/closeness/closeness.ts"
+    "../../readouts/ring/**/*.ts",
+    "../../alan/persona/**/*.ts"
   ],
   "exclude": [
     "node_modules",

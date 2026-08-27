@@ -26,18 +26,7 @@
     "../../patches/**/*.ts",
     "../../during-call/**/*.ts",
     "../../exclusive/**/*.ts",
-    "../../write-whole/**/*.ts",
-    "../../graph/**/*.ts",
-    "../../file-kind/**/*.ts",
-    "../../file-structure/**/*.ts",
-    "../../generated-file/**/*.ts",
-    "../../move/**/*.ts",
-    "../../outcome/**/*.ts",
-    "../../repoint/**/*.ts",
-    "../../rule/**/*.ts",
-    "../../utf8-body/**/*.ts",
-    "../../workspace-package/**/*.ts",
-    "../../alan/**/*.ts"
+    "../../write-whole/**/*.ts"
   ],
   "exclude": [
     "node_modules",
