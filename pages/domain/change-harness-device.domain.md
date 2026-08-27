@@ -10,3 +10,7 @@ settled: true
 # Definition
 
 - **Change harness device** — how a change becomes an app and reaches a device.
+
+# Intent
+
+- Nothing outside an app's page states a value that page carries.
