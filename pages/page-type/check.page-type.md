@@ -42,8 +42,6 @@ A check takes and gives absolute paths.
 
 Every file means every file in akasha.
 
-A check's code sits beside its page, named `{check}.ts`.
-
 # Rules
 
 ## Alan Approves

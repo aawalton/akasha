@@ -23,8 +23,6 @@ settled: true
 
 A kind's name in code is its slug.
 
-A producer's page and its code sit side by side, the code named `{producer}.ts`.
-
 # Intent
 
 Nothing outside the graph spells a node's name for itself.
