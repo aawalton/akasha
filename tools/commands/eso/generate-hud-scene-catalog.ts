@@ -5,8 +5,7 @@ export const summary =
 import { realpathSync } from "node:fs"
 import { mkdir, readFile, writeFile } from "node:fs/promises"
 import { join, resolve } from "node:path"
-import { buildCatalog } from "../../../temper/shared-interface-hud-scene-catalog/src/parse.ts"
-import { HudSceneCatalogSchema } from "../../../temper/shared-interface-hud-scene-catalog/src/schema.ts"
+import { codeModule } from "../../lib/code-import.ts"
 import { codeRoot } from "../../lib/code-root.ts"
 import { esoPaths } from "../../lib/eso-clone-code.ts"
 import { dataError, inputError } from "../../lib/exit.ts"
@@ -23,6 +22,23 @@ const REL_DOC = "ESOUIDocumentation.txt"
 
 const CATALOG_DIR = "temper/shared-interface-hud-scene-catalog/src"
 
+const PARSE = `${CATALOG_DIR}/parse.ts`
+
+const SCHEMA = `${CATALOG_DIR}/schema.ts`
+
+interface CatalogRecord {
+  readonly kind: string
+  readonly category: string
+}
+
+interface Parse {
+  readonly buildCatalog: (source: string, file: string) => readonly CatalogRecord[]
+}
+
+interface Schema {
+  readonly HudSceneCatalogSchema: { readonly parse: (value: unknown) => readonly CatalogRecord[] }
+}
+
 export const help: CommandHelp = {
   flags: [
     {
@@ -31,7 +47,7 @@ export const help: CommandHelp = {
       valueShape: "token",
       path: true,
       description:
-        "The checkout the catalog is written into. Defaults to $CODE_ROOT, else this repository.",
+        "The checkout the parse rules are loaded from and the catalog written into. Defaults to $CODE_ROOT, else this repository.",
     },
   ],
   envVars: [{ name: "CODE_ROOT", description: "The checkout to work in, when --code-root is absent." }],
@@ -79,6 +95,8 @@ export default async function esoGenerateHudSceneCatalog(args: readonly string[]
   const doc = await readClone(join(cloneDir, REL_DOC), REL_DOC)
   const apiVersion = paths.parseEsoDocApiVersion(doc)
 
+  const { buildCatalog } = await codeModule<Parse>(PARSE, root)
+  const { HudSceneCatalogSchema } = await codeModule<Schema>(SCHEMA, root)
 
   const validated = HudSceneCatalogSchema.parse(buildCatalog(source, REL_SOURCE))
   if (validated.length === 0) {
