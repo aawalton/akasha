@@ -28,12 +28,11 @@ const EXEMPT_SEGMENTS: ReadonlySet<string> = new Set([
   "tstl",
 ])
 
-const DESIGN_HOME_PREFIX = "packages/shared/design/"
+const DESIGN_HOME_PREFIX = "shared/design-"
 
-const NATIVE_SHELL_BUILT_ARTIFACT_PREFIX = "../akasha/native-shell/alanwalton/www/"
+const NATIVE_SHELL_BUILT_ARTIFACT_PREFIX = "native-shell/alanwalton/www/"
 
 export function shouldScanColorFile(repoRelPath: string): boolean {
-  if (!repoRelPath.startsWith("packages/")) return false
   if (repoRelPath.startsWith(DESIGN_HOME_PREFIX)) return false
   if (repoRelPath.startsWith(NATIVE_SHELL_BUILT_ARTIFACT_PREFIX)) return false
   if (repoRelPath === RULE_HOME_PATH) return false

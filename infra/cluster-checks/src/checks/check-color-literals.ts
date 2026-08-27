@@ -58,7 +58,7 @@ function main(): never {
   try {
     const files = findFiles({
       cwd: repoRoot,
-      patterns: ["packages/**/*.{css,ts,tsx}"],
+      patterns: ["**/*.{css,ts,tsx}"],
       absolute: false,
     })
       .filter(shouldScanColorFile)
@@ -94,7 +94,7 @@ function main(): never {
       membership: {
         kind: "enumerated",
         because:
-          "`findFiles` globs the repo root with `Bun.Glob.scanSync`, which raises ENOENT on a root that is not there, so a shorter list is fewer `packages/` sources on disk; the closure narrowing it is a `Set` already in memory, which `resolveChangeClosure` widens to whole-tree when no manifest states the change rather than returning an empty one",
+          "`findFiles` globs the repo root with `Bun.Glob.scanSync`, which raises ENOENT on a root that is not there, so a shorter list is fewer sources on disk; the closure narrowing it is a `Set` already in memory, which `resolveChangeClosure` widens to whole-tree when no manifest states the change rather than returning an empty one",
       },
       pathOf: (rel) => join(repoRoot, rel),
       scan: scanFileForColorLiterals,

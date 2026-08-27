@@ -6,31 +6,31 @@ export interface ColorAllowlistEntry {
 
 export const COLOR_LITERAL_ALLOWLIST: readonly ColorAllowlistEntry[] = [
   {
-    path: "packages/alanwalton/web/app/lib/nav-icon-svg.ts",
+    path: "alanwalton/web/app/lib/nav-icon-svg.ts",
     values: ["oklch(0.63 0.13 73)"],
     reason:
       "Alan grant 2026-07-02: --yellow mirror in standalone serialized SVG favicon documents; page CSS vars cannot cascade in.",
   },
   {
-    path: "packages/temper/web/app/lib/nav-icon-svg.ts",
+    path: "temper/web/app/lib/nav-icon-svg.ts",
     values: ["oklch(0.63 0.13 73)"],
     reason:
       "Alan grant 2026-07-02: --yellow mirror in standalone serialized SVG favicon documents; page CSS vars cannot cascade in.",
   },
   {
-    path: "packages/archive-of-worlds/web/app/lib/nav-icon-svg.ts",
+    path: "archive-of-worlds/web/app/lib/nav-icon-svg.ts",
     values: ["oklch(0.63 0.13 73)"],
     reason:
       "Alan grant 2026-07-02: --yellow mirror in standalone serialized SVG favicon documents; page CSS vars cannot cascade in.",
   },
   {
-    path: "packages/alanwalton/atlas/web/app/lib/nav-icon-svg.ts",
+    path: "alanwalton/atlas-web/app/lib/nav-icon-svg.ts",
     values: ["oklch(0.63 0.13 73)"],
     reason:
       "Alan grant 2026-07-02: --yellow mirror in standalone serialized SVG favicon documents; page CSS vars cannot cascade in.",
   },
   {
-    path: "packages/alanwalton/atlas/web/app/components/location-map.tsx",
+    path: "alanwalton/atlas-web/app/components/location-map.tsx",
     values: ["#e6e4df"],
     reason:
       "Alan grant 2026-07-02: MapLibre background layer matching the external OSM tile ground color; semantics external to the palette.",
