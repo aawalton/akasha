@@ -17,6 +17,7 @@ query-slug: safety-level-on-day
 query-key: safety-level
 wire-key: safety
 settled: true
+enabled: false
 ---
 
 # Definition

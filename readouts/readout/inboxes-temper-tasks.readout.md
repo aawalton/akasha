@@ -17,6 +17,7 @@ query-key: inbox-temper-tasks
 earned-key: inbox-temper-tasks-cleared-today
 wire-key: temperTasks
 settled: true
+enabled: false
 ---
 
 # Definition

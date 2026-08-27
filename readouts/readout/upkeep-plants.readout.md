@@ -15,6 +15,7 @@ group-slugs:
 query-slug: food-entry-plants-since-waking
 wire-key: plants
 settled: true
+enabled: false
 ---
 
 # Definition

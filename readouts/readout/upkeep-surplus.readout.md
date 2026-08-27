@@ -16,6 +16,7 @@ group-slugs:
 query-slug: surplus-hours-on-day
 wire-key: surplus
 settled: true
+enabled: false
 ---
 
 # Definition
