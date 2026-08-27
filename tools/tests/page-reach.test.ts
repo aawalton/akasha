@@ -53,14 +53,14 @@ const FILES: Readonly<Record<string, string>> = {
   ]),
   "pages/page-property-definition/grove-tally.page-property-definition.md": property("grove", "tally", ["type: aggregate", "relation: trees"]),
 
-  "pages/tree/one.md": page(["slug: one", "fruit: 3", "name: Ash"]),
-  "pages/tree/two.md": page(["slug: two", "fruit: 4.5", "name: Birch"]),
-  "pages/tree/three.md": page(["slug: three", "name: Cedar"]),
+  "pages/tree/one.tree.md": page(["slug: one", "fruit: 3", "name: Ash"]),
+  "pages/tree/two.tree.md": page(["slug: two", "fruit: 4.5", "name: Birch"]),
+  "pages/tree/three.tree.md": page(["slug: three", "name: Cedar"]),
 
-  "pages/orchard/north.md": page(["slug: north", "trees:\n  - one\n  - two\n  - three"]),
-  "pages/orchard/bare.md": page(["slug: bare"]),
+  "pages/orchard/north.orchard.md": page(["slug: north", "trees:\n  - one\n  - two\n  - three"]),
+  "pages/orchard/bare.orchard.md": page(["slug: bare"]),
 
-  "pages/grove/west.md": page(["slug: west", "trees: one"]),
+  "pages/grove/west.grove.md": page(["slug: west", "trees: one"]),
 }
 
 const root = mkdtempSync(join("/var/tmp", "page-reach-"))
@@ -80,7 +80,7 @@ const ROOTS: Roots = {
 }
 
 const held = (pageType: string, key: string): ReadonlyMap<string, unknown> =>
-  new Map(deriver(ROOTS).rows(pageType)!.map((row) => [row.at.replace(/^.*\/|\.md$/g, ""), row.values[key]]))
+  new Map(deriver(ROOTS).rows(pageType)!.map((row) => [row.values.slug as string, row.values[key]]))
 
 const faultsOf = (pageType: string): readonly string[] => {
   const found = deriver(ROOTS)
