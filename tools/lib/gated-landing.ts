@@ -5,14 +5,11 @@ import { toolArgv } from "./tool-argv.ts"
 
 const SCRATCH_ROOT = "/var/tmp"
 
-export type GatedRepo = "akasha" | "instructions" | "memory" | "books" | "stories"
+export type GatedRepo = "akasha" | "memory"
 
 const ROOT_ENV: Readonly<Record<GatedRepo, string>> = {
   akasha: "AKASHA_ROOT",
-  instructions: "INSTRUCTIONS_ROOT",
   memory: "MEMORY_ROOT",
-  books: "BOOKS_ROOT",
-  stories: "STORIES_ROOT",
 }
 
 export interface GatedBody {

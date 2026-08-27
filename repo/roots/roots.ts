@@ -16,8 +16,6 @@ export const INSTRUCTIONS = "instructions"
 
 export const MEMORY = "memory"
 
-export const STORIES = "stories"
-
 /**
  * Where this repository is on disk, for every root worked out from it.
  *
