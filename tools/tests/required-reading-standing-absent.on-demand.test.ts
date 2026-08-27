@@ -85,7 +85,7 @@ describe("what is nobody's business here", () => {
     fileKeyDeclared(at)
     at.document("domains/tasks/quarantined.md", `${CLAIMED}: dirty/skills/old.md`, 12)
     at.installRecorder()
-    expect(run("/home/walton/instructions/domains/personas/aria.md").kind).toBe("unaskable")
+    expect(run("/home/walton/repos/akasha/pages/persona/aria.persona.md").kind).toBe("unaskable")
   })
 
   test("an empty path does not throw", () => {
@@ -130,9 +130,7 @@ describe("the refusal stays actionable", () => {
     at.document("domains/persona.md", `${CLAIMED}: pages/persona/aria.persona.md`, 40)
     at.installRecorder()
     // ROUTE NOT TEXT is what this holds to: the lead names the reading and the route that records
-    // it. It named `bun ~/repos/instructions/tools/required-reading.ts --file-path <path>`, a
-    // command at a path in a repository absorbed into akasha, and the `required-reading-unread`
-    // refusal has since dropped the deriving command and names `ops read` as the only route.
+    // it, and the `required-reading-unread` refusal names `ops read` as that one route.
     const lead = said(run("pages/persona/aria.persona.md"))
     expect(lead).toContain("`pages/persona/aria.persona.md` requires 1 document(s)")
     expect(lead).toContain("Only `ops read` lands a record there")

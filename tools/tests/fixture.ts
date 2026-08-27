@@ -24,10 +24,8 @@ export function documentBody(frontmatter: string, lines = 40): string {
 }
 
 /**
- * ONE ROOT, NOT THREE. `root`, `memory` and `akasha` named three separate directories while the
- * `instructions` and `memory` repositories stood beside akasha. All three are absorbed, so all
- * three fields answer the same temp repository, and `memory` and `akasha` stay only until their
- * callers are moved over to `root`.
+ * ONE ROOT, NOT THREE. `root`, `memory` and `akasha` all answer the same temp repository, and
+ * `memory` and `akasha` stay only until their callers are moved over to `root`.
  */
 export interface Fixture {
   readonly root: string
@@ -103,8 +101,8 @@ export function fixture(): Fixture {
   const planted: string[] = []
   const home = mkdtempSync(`${SCRATCH}/govtest-home-`)
   const priorHome = process.env.HOME
-  // `AKASHA_ROOT` IS THE ONE VARIABLE READ. `INSTRUCTIONS_ROOT` and `MEMORY_ROOT` named repos that
-  // are gone, so setting them pointed nothing anywhere and every caller read the live checkout.
+  // `AKASHA_ROOT` IS THE ONE VARIABLE READ, and a caller falls through to the live checkout wherever
+  // it does not name this temp repository.
   const priorRoot = process.env.AKASHA_ROOT
   process.env.HOME = home
   process.env.AKASHA_ROOT = root
@@ -195,11 +193,11 @@ export function personaPages(at: Fixture): void {
   fileKeyDeclared(at)
   at.document(
     "domains/persona.md",
-    `slug: persona\nrequired-reading-slugs:\n  - instructions\n${CLAIMED}: pages/persona/aria.persona.md`
+    `slug: persona\nrequired-reading-slugs:\n  - agent-harness\n${CLAIMED}: pages/persona/aria.persona.md`
   )
   at.document(
     "pages/domain/agent-harness.domain.md",
-    "slug: instructions\nrequired-reading-slugs:\n  - global",
+    "slug: agent-harness\nrequired-reading-slugs:\n  - global",
     30
   )
   at.document("pages/domain/global.domain.md", "slug: global\ndomain-parent-slug: global", 20)
