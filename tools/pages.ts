@@ -1,6 +1,6 @@
 export const tool = {
   summary: "Print the page type tree and the property type vocabulary, composed from the files now",
-  repos: ["akasha"],
+  path: "page types",
 } as const
 
 import { readFileSync } from "node:fs"
