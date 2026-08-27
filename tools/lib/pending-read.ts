@@ -1,6 +1,6 @@
 
 import { getOpenQuestions, selectQuestionsAskedBy } from "./attention-question.ts"
-import { codeModule } from "./code-import.ts"
+import { matchPersonaForAgent } from "@alanwalton/personas-core/last-messaged"
 import { readAgentMessageRecency } from "./message-recency.ts"
 import type { OutboundRecency } from "./pending-decide.ts"
 import { listPersonaTargets } from "./persona-wake-slugs.ts"
@@ -9,8 +9,6 @@ import { seatTurnStateOf, turnStillToCome } from "./seat-turn-state.ts"
 import { seatRecord } from "./seat-facts.ts"
 import { resolveSeatTarget } from "./seat-handle.ts"
 
-const PERSONAS_CORE = "@alanwalton/personas-core/last-messaged"
-
 export interface PendingSignals {
   readonly selfStopped: boolean
   readonly liveChildren: number
@@ -18,20 +16,11 @@ export interface PendingSignals {
   readonly outbound: OutboundRecency
 }
 
-interface PersonasCore {
-  readonly matchPersonaForAgent: (
-    agentName: string | null,
-    agentPersona: string | null,
-    personas: readonly unknown[]
-  ) => string | null
-}
-
 export async function countOpenQuestions(
   agentId: string,
   agentName: string | null,
   persona: string | null
 ): Promise<number> {
-  const { matchPersonaForAgent } = await codeModule<PersonasCore>(PERSONAS_CORE)
   const targets = await listPersonaTargets()
   const personaId = matchPersonaForAgent(agentName, persona, targets)
   if (personaId === null) return 0

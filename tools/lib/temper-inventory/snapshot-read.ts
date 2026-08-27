@@ -1,9 +1,7 @@
 import { askComposed } from "@shared/pages-query/ask"
-import { codeModule } from "../code-import.ts"
+import { assembleInventory } from "@temper/game-items-core/assemble-inventory"
 import { shape } from "../shape.ts"
 import { type Infer } from "../shape-core"
-
-const ASSEMBLE_INVENTORY = "@temper/game-items-core/assemble-inventory"
 
 export const SNAPSHOT_PAGE_TYPE = "temper-inventory-snapshot"
 export const CHUNK_PAGE_TYPE = "temper-inventory-chunk"
@@ -40,10 +38,6 @@ const CHUNK_ROW_SHAPE = shape.looseObject({
 export interface Chunk {
   readonly chunkIndex: number
   readonly data: string
-}
-
-interface AssembleInventory {
-  readonly assembleInventory: (chunks: readonly Chunk[]) => unknown
 }
 
 async function headerFrom(
@@ -89,5 +83,5 @@ export async function snapshotChunks(inventory: string): Promise<readonly Chunk[
 export async function assembleSnapshot(
   chunks: readonly Chunk[]
 ): Promise<unknown> {
-  return (await codeModule<AssembleInventory>(ASSEMBLE_INVENTORY)).assembleInventory(chunks)
+  return assembleInventory(chunks)
 }
