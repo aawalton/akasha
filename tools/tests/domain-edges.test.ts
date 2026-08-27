@@ -1,16 +1,18 @@
 
-import { existsSync, readFileSync } from "node:fs"
-import { afterEach, beforeEach, describe, expect, test } from "bun:test"
+import { existsSync, mkdtempSync, readFileSync, rmSync } from "node:fs"
+import { tmpdir } from "node:os"
+import { afterAll, afterEach, beforeEach, describe, expect, test } from "bun:test"
 import { domainEdges } from "../audits/domain-edges.ts"
 import { type RepoView, listDocuments } from "../lib/check.ts"
 import { fromDisk, refusalText } from "../lib/refusal.ts"
+import type { Stated } from "../../page/index/identity/identity.ts"
+import { indexRoot } from "../../page/index/place/place.ts"
+import { keepPages } from "../../page/index/store/store.ts"
 import { fixture, type Fixture } from "./fixture.ts"
 
-// A PAGE TYPE THE REGISTRY CAN READ. These stated no `page-type-slug:` and no `files:`, so nothing
-// they wrote claimed a single document: every page's kind came back `none`, and the audit called
-// `pages/persona/aine.persona.md` "a none document rather than a persona". `files:` is what makes a
-// suffix resolve to this type; `extends-slug` is what `domainKinds` walks to decide a type is a
-// domain kind, which `domain` is by its own slug and `persona` is not.
+// WHAT A PAGE TYPE MUST DECLARE TO CLAIM A DOCUMENT. `files:` is what makes a suffix resolve to
+// this type, and `extends-slug` is what `domainKinds` walks to decide a type is a domain kind —
+// which `domain` is by its own slug and `persona`, extending `page`, is not.
 const claiming = (id: string, slug: string): string =>
   [
     "---",
@@ -24,9 +26,48 @@ const claiming = (id: string, slug: string): string =>
     "",
   ].join("\n")
 
+/**
+ * The rows that say these page types are there, and a place to write them that is not the live one.
+ *
+ * THE REGISTRY IS READ OFF THE INDEX RATHER THAN GLOBBED. `page/property/registry.ts` builds every
+ * page type out of `loadPages()`, so a fixture carrying no index states no page type at all: every
+ * page came back `none`, and the audit called `pages/persona/aine.persona.md` "a none document
+ * rather than a persona". A row names a path and nothing more — each type's own words are read back
+ * out of the fixture standing at the time — so a row cannot drift from what a case plants, and a
+ * row whose page no case plants is passed over.
+ *
+ * THE INDEX HAS ONE PLACE FOR THE LIFE OF THE PROCESS. `page/index/place/place.ts` works it out on
+ * the first ask and holds it, so it cannot follow a fixture made per case, and left alone it settles
+ * on whichever root asked first — the live checkout, whose real index `keepPages` would then write
+ * over. The anchor is a git repository of its own, named here before anything else can ask.
+ */
+const PAGE_TYPES: readonly string[] = ["persona", "domain", "exercise"]
+
+const anchor = mkdtempSync(`${tmpdir()}/domain-edges-index-`)
+Bun.spawnSync(["git", "init", "-q", "-b", "main", "."], { cwd: anchor })
+process.env.AKASHA_ROOT = anchor
+indexRoot()
+afterAll(() => rmSync(anchor, { recursive: true, force: true }))
+
+const indexRow = (slug: string): Stated => ({
+  repo: "akasha",
+  key: `pages/page-type/${slug}.page-type.md`,
+  stem: slug,
+  type: "page-type",
+  id: null,
+  slug,
+  seq: null,
+  extension: null,
+  ending: null,
+  heading: null,
+})
+
 let at: Fixture
 
 beforeEach(() => {
+  // STATED AGAIN FOR EVERY CASE, because that one place is shared with every other test file in
+  // this process, and one of them writing its own page types leaves none of these standing.
+  keepPages(PAGE_TYPES.map(indexRow))
   at = fixture()
   at.document("pages/persona/aine.persona.md", "slug: aine\ndomain-parent-slug: persona\nchampioned-domain-slug: global")
   at.put("pages/page-type/persona.page-type.md", claiming("019ffe77-4933-7000-a73e-4c889acee68f", "persona"))
