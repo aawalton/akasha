@@ -3,26 +3,15 @@ import { existsSync, mkdirSync, mkdtempSync, readFileSync, rmSync, writeFileSync
 import { join } from "node:path"
 import { type LuaVm, withLuaVm } from "@temper/shared-build-deploy-lua-runner"
 import { codeRoot } from "./code-root.ts"
-import { tstlModule, tstlRoot } from "./temper-addon-build.ts"
-
-const TSTL = "src/transpilation/index.ts"
+import { tstlRoot } from "./temper-addon-build.ts"
 
 const ERROR_CATEGORY = 1
 
 export type { LuaVm }
 
-interface Diagnostic {
-  readonly category: number
-  readonly code: number
-  readonly messageText: string | { readonly messageText: string }
-}
+type TstlModule = typeof import("@temper/shared-build-deploy-tstl/transpilation/index")
 
-interface Tstl {
-  readonly transpileProject: (tsconfigPath: string) => {
-    readonly diagnostics: readonly Diagnostic[]
-    readonly emitSkipped: boolean
-  }
-}
+type Diagnostic = ReturnType<TstlModule["transpileProject"]>["diagnostics"][number]
 
 export type SubjectRepo = "code" | "compiler"
 
@@ -83,7 +72,7 @@ function said(text: Diagnostic["messageText"]): string {
 }
 
 export async function bundleToLua(source: string, opts: BundleOpts = {}): Promise<string> {
-  const tstl = await tstlModule<Tstl>(TSTL)
+  const { transpileProject } = await import("@temper/shared-build-deploy-tstl/transpilation/index")
   const root = mkdtempSync("/var/tmp/temper-addon-lua-")
   try {
     mkdirSync(join(root, "src"))
@@ -118,7 +107,7 @@ export async function bundleToLua(source: string, opts: BundleOpts = {}): Promis
       "utf8"
     )
 
-    const { diagnostics, emitSkipped } = tstl.transpileProject(tsconfigPath)
+    const { diagnostics, emitSkipped } = transpileProject(tsconfigPath)
     const errors = diagnostics.filter((one) => one.category === ERROR_CATEGORY)
     if (errors.length > 0) {
       throw new Error(
