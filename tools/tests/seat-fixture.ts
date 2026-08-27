@@ -1,4 +1,4 @@
-import { existsSync, mkdirSync, readdirSync, symlinkSync, writeFileSync } from "node:fs"
+import { cpSync, existsSync, mkdirSync, readdirSync, rmSync, symlinkSync, writeFileSync } from "node:fs"
 import { dirname } from "node:path"
 import type { Mode } from "../lib/attributes.ts"
 import { type Fixture, installPages, installRepos } from "./fixture.ts"
@@ -49,9 +49,13 @@ const INDEX_BUILD = `${import.meta.dir}/index-fixture.ts`
  * nothing with `no page type ... states where its files stand`. The index is built out of what git
  * TRACKS, so the planted pages are staged before it is asked for.
  *
- * `ops-cli` IS LINKED RATHER THAN COPIED, because `tools/lib/tool-argv.ts` spells a command's code
- * under `akashaRoot()` — this temp root. The link answers with the live checkout's file, whose own
- * relative imports then resolve inside that checkout rather than in here.
+ * THE COMMAND PAGES ARE COPIED AND THEIR CODE IS LINKED, because `tools/lib/tool-argv.ts` spells
+ * a spawned tool's file under `akashaRoot()` — this temp root — and `tools/ops/akasha.ts` finds a
+ * command by globbing `*.command.md` under that same root. A glob does not walk into a symlinked
+ * folder, so linking `ops-cli` whole leaves `ops` holding no command and every tool a command
+ * shells out to answers `Usage: ops <command>`. The pages are real files here; each
+ * `*.attachment.ts` beside them is a link, so the code that runs is the live checkout's and its
+ * own relative imports resolve there rather than in here.
  *
  * WHAT IS PLANTED IS COMMITTED, not merely staged. `ops write` turns a call addressing akasha into
  * a patch against HEAD, and a repository with no commit in it has no HEAD to name — the seat
@@ -61,6 +65,7 @@ const INDEX_BUILD = `${import.meta.dir}/index-fixture.ts`
  * not resolve; plant, then index again.
  */
 export function indexFixture(at: Fixture): void {
+  installCommands(at)
   Bun.spawnSync(["git", "-C", at.root, "add", "-A"])
   Bun.spawnSync(["git", "-C", at.root, "commit", "-q", "--allow-empty", "-m", "what this fixture plants"])
   const built = Bun.spawnSync(["bun", INDEX_BUILD], {
@@ -70,7 +75,17 @@ export function indexFixture(at: Fixture): void {
   if (built.exitCode !== 0) {
     throw new Error(`the fixture index was not built: ${built.stderr.toString()}`)
   }
-  if (!existsSync(`${at.root}/ops-cli`)) symlinkSync(`${LIVE}/ops-cli`, `${at.root}/ops-cli`)
+}
+
+const COMMANDS = "ops-cli"
+
+function installCommands(at: Fixture): void {
+  if (existsSync(`${at.root}/${COMMANDS}`)) return
+  cpSync(`${LIVE}/${COMMANDS}`, `${at.root}/${COMMANDS}`, { recursive: true })
+  for (const rel of new Bun.Glob(`**/*.attachment.ts`).scanSync({ cwd: `${LIVE}/${COMMANDS}` })) {
+    rmSync(`${at.root}/${COMMANDS}/${rel}`, { force: true })
+    symlinkSync(`${LIVE}/${COMMANDS}/${rel}`, `${at.root}/${COMMANDS}/${rel}`)
+  }
 }
 
 export interface Planted {
