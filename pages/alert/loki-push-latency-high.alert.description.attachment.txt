@@ -1,0 +1,1 @@
+The ingest path's p99 has been above 1s for 15 minutes against a measured baseline near 20ms. Promtail backs up behind a slow push and eventually drops logs, so this precedes a silent gap in log coverage. Check ingester health and the object-store write path: kubectl logs -n loki deploy/loki.

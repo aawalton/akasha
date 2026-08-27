@@ -1,0 +1,3 @@
+At least one Job owned by {{ $labels.owner_name }} in {{ $labels.namespace }} has a failed pod.
+
+Check: kubectl get jobs -n {{ $labels.namespace }} && kubectl logs -n {{ $labels.namespace }} job/<failed-job>

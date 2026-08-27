@@ -1,0 +1,1 @@
+Root filesystem has {{ $value | printf "%.1f" }}% available.

@@ -1,0 +1,3 @@
+node_pressure_cpu_waiting_seconds_total has no series at all, so NodeCpuPressureHigh cannot fire and the CPU-contention path is blind.
+
+Check the node-exporter scrape (job node-exporter).

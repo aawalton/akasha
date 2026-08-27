@@ -1,0 +1,3 @@
+SeaweedFS_master_is_leader has no series.
+
+The SeaweedFS liveness alert path is blind; check the seaweedfs scrape (job seaweedfs, master :9327) and that -metricsPort is still set on the master Deployment.

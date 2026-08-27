@@ -1,0 +1,5 @@
+User-visible LIST failures on resource={{ $labels.resource }} at rate {{ $value | printf "%.3f" }}/s.
+
+Canary for cache desync surfacing externally — baseline is zero.
+
+Runbook: packages/infra/k8s/docs/dr/k3s-apiserver-pods-cache-desync.md

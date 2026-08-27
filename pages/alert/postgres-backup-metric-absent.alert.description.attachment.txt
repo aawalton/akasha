@@ -1,0 +1,3 @@
+barman_cloud_cloudnative_pg_io_last_available_backup_timestamp has no series.
+
+The backup-age alert path itself is blind; check the cnpg-pods scrape and the barman-cloud plugin.

@@ -1,0 +1,3 @@
+Pod has been in the Pending phase for over 15 minutes — the scheduler cannot place it (no fitting node) or a volume is not binding.
+
+Check: kubectl describe pod -n {{ $labels.namespace }} {{ $labels.pod }}

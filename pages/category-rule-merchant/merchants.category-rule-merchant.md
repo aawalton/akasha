@@ -1,0 +1,118 @@
+---
+id: 19d9dcd3-67b7-54ca-a054-051193165cc3
+page-type-slug: category-rule-merchant
+title: "Merchants"
+---
+
+# Vocabulary
+
+- **adam proffit**
+  - `adam proffit`
+- **amazon**
+  - `amazon`
+- **amazon store card**
+  - `amz_storecrd_pmt`
+- **anthropic**
+  - `anthropic`
+  - `claude.ai subscription`
+- **apple**
+  - `apple.com/bill`
+- **banner life**
+  - `banner life`
+- **bright pediatric dentistry**
+  - `bright pediatric`
+- **card payment**
+  - `automatic payment`
+  - `payment thank you`
+  - `credit card payment`
+  - `autopay`
+- **cash plus sweep**
+  - `sweep`
+  - `transfer incoming`
+  - `transfer outgoing`
+- **chase**
+  - `chase credit crd`
+- **chevron**
+  - `chevron`
+- **citi**
+  - `citibank online`
+- **cloudflare**
+  - `cloudflare`
+- **costco**
+  - `costco`
+- **costco gas**
+  - `costco gas`
+- **crunchyroll**
+  - `crunchyroll`
+- **digital purchase**
+  - `digital purchase`
+- **disney plus**
+  - `disneyplus`
+  - `disney plus`
+- **ecoshield**
+  - `ecoshield`
+- **edgemont auto**
+  - `edgemont auto`
+- **fast offering**
+  - `fast offering`
+- **google cloud**
+  - `google cloud`
+  - `google *cloud`
+- **google fiber**
+  - `gfiber`
+  - `google *fiber`
+- **grandview family medicine**
+  - `gfm holdings`
+  - `grandview family`
+- **interest**
+  - `interest`
+- **intermountain**
+  - `intermountain`
+- **jared jessop**
+  - `jared jessop`
+- **jiffy lube**
+  - `jiffy lube`
+- **lob**
+  - `lob.com`
+- **maverik**
+  - `maverik`
+- **midland national**
+  - `midland`
+- **mom's fixed expenses**
+  - `fixed expenses`
+- **netflix**
+  - `netflix`
+- **nick walton**
+  - `nick walton`
+- **ninth east dental**
+  - `ninth east`
+- **not yet media**
+  - `not yet media`
+- **paramount plus**
+  - `paramount`
+- **provo city utilities**
+  - `provo city utilities`
+- **questar gas**
+  - `qgc`
+- **selecthealth**
+  - `select health`
+- **spotify**
+  - `spotify`
+- **standard transfer**
+  - `standard transfer`
+- **state farm**
+  - `state farm`
+- **target**
+  - `target`
+- **telnyx**
+  - `telnyx`
+- **unstated**
+  - `no details available`
+- **utah dmv**
+  - `utah-dmv`
+- **venmo**
+  - `venmo`
+- **walmart**
+  - `walmart`
+- **youtube premium**
+  - `youtubepremium`

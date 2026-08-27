@@ -1,0 +1,3 @@
+Container's last termination reason is OOMKilled and it has restarted within the last hour — a slow OOM cycle that PodCrashLooping (>5 restarts/10m) does not catch.
+
+Raise its memory limit or fix the leak.

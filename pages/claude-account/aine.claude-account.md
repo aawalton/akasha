@@ -1,0 +1,19 @@
+---
+page-type-slug: claude-account
+title: "Aine"
+id: 019fa944-c37d-7631-be0b-d2ff83b74635
+account-uuid: d5dfe4b9-7b90-484a-b5ed-d338ef2333e0
+email: aine@alanwalton.com
+alias-index: 8
+subscription-type: max
+rate-limit-tier: default_claude_max_20x
+renewal-day: 28
+scopes:
+  - user:file_upload
+  - user:inference
+  - user:mcp_servers
+  - user:profile
+  - user:sessions:claude_code
+terminal-at: 2026-08-27T05:00:38.378Z
+terminal-alerted-at: 2026-08-26T21:51:11.511Z
+---

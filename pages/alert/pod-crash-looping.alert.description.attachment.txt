@@ -1,0 +1,1 @@
+Pod has restarted {{ $value }} times in the last 10 minutes.
