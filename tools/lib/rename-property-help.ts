@@ -81,7 +81,7 @@ REFUSALS BEFORE ANY GATE RUNS:
   - an argument it does not take, rather than ignoring it
 
 Usage:
-  ops akasha rename-property --page-type <slug> --old <key> --new <key> [flags]
+  ops page rename-property --page-type <slug> --old <key> --new <key> [flags]
 
 Flags:
   --page-type <slug>    The page type the property is declared on, as \`defined-on-slug:\`.
