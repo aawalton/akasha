@@ -12,7 +12,7 @@ import {
 } from "./_inbound-test-support"
 import { handleInboundSms } from "./handle-inbound"
 
-const ALAN_HANDLER_SEAT = "amy-alan-handler"
+const ALAN_HANDLER_SEAT = "alan"
 
 describe("handleInboundSms — refusing an inbound with nowhere of its own to go", () => {
   async function inboundFromEnrolledSenderWithNoHandler(args: {
