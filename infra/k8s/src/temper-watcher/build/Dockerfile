@@ -4,10 +4,10 @@ ENV COMMIT_SHA=${COMMIT_SHA}
 RUN apk add --no-cache mingw-w64-gcc musl-dev
 RUN rustup target add x86_64-pc-windows-gnu
 WORKDIR /build
-COPY packages/temper/watcher-tray/Cargo.toml ./Cargo.toml
-COPY packages/temper/watcher-tray/build.rs ./build.rs
-COPY packages/temper/watcher-tray/src ./src
-COPY packages/temper/watcher-tray/assets ./assets
+COPY temper-watcher/tray/Cargo.toml ./Cargo.toml
+COPY temper-watcher/tray/build.rs ./build.rs
+COPY temper-watcher/tray/src ./src
+COPY temper-watcher/tray/assets ./assets
 RUN mkdir -p .cargo && \
     echo '[target.x86_64-pc-windows-gnu]' > .cargo/config.toml && \
     echo 'linker = "x86_64-w64-mingw32-gcc"' >> .cargo/config.toml && \
