@@ -75,12 +75,12 @@ export function relocatedPath(
 ): string | null {
   const { head, tail } = splitGlob(spec)
   const target = normalized(joined(fromDir, head))
-  if (target.startsWith(UP)) return null
+  const over = landedOver(landed, target)
+  if (target.startsWith(UP) && (over === null || over.from === "")) return null
   if (within(fromDir, target)) {
     const carried = joined(toDir, target.slice(fromDir.length).replace(/^\//, ""))
     return joined(spelledLike(spec, relativeFrom(toDir, normalized(carried))), tail)
   }
-  const over = landedOver(landed, target)
   if (over === null) return joined(spelledLike(spec, relativeFrom(toDir, target)), tail)
   if (over.to === null) return null
   const rest = target.slice(over.from.length).replace(/^\//, "")
