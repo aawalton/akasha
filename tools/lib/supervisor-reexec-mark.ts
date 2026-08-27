@@ -17,9 +17,15 @@ import { keepSeatRecord, seatRecordOf } from "./seat-record.ts"
  */
 const KEY = "reexec-asked"
 
-const ASKED = "yes"
+/**
+ * WORDS NO YAML READS AS A BOOLEAN. `yes` and `no` are booleans under YAML 1.1, so a reader other
+ * than the one writing here would hand back `true` and the comparison below would quietly never
+ * match — an ask that reads as absent, and a SIGTERM that ends the seat instead of replacing its
+ * supervisor. These two say the same thing and cannot be read as anything but text.
+ */
+const ASKED = "asked"
 
-const TAKEN = "no"
+const TAKEN = "taken"
 
 export function reExecAsked(agent: string | null): boolean {
   if (agent === null || agent === "") return false
