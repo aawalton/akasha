@@ -1,7 +1,7 @@
 import type { z } from "zod"
 import { codeModule } from "../code-import.ts"
 
-const TRAFFIC_COP_CONFIG = "packages/infra/inference/src/services/traffic-cop/config.ts"
+const TRAFFIC_COP_CONFIG = "infra/inference/src/services/traffic-cop/config.ts"
 
 export interface PoolService {
   readonly name: string

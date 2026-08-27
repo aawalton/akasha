@@ -23,10 +23,10 @@ import { exitOnResult, exitOnToolError } from "../../../../tools/lib/check-workf
 
 const PREFIX = "[prometheus-rules]"
 
-const FIXTURE_DIR = "packages/infra/checks/__fixtures__/prometheus-rule-tests"
+const FIXTURE_DIR = "infra/cluster-checks/__fixtures__/prometheus-rule-tests"
 const FIXTURE_GLOB = "*.test.yml"
 
-const COMPOSED_ALERTS_SITE = "packages/infra/k8s/src/prometheus/synth-alerts.ts"
+const COMPOSED_ALERTS_SITE = "infra/k8s/src/prometheus/synth-alerts.ts"
 
 interface SynthAlerts {
   readonly ALERT_RULES: string

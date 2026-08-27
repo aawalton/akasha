@@ -17,7 +17,7 @@ import { exitOnResult, exitOnToolError } from "../../../../tools/lib/check-workf
 
 const PREFIX = "[alert-expr-epoch-literals]"
 
-const COMPOSED_ALERTS_SITE = "packages/infra/k8s/src/prometheus/synth-alerts.ts"
+const COMPOSED_ALERTS_SITE = "infra/k8s/src/prometheus/synth-alerts.ts"
 
 interface SynthAlerts {
   readonly ALERT_RULES: string

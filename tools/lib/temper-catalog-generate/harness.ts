@@ -11,7 +11,7 @@ export const MINED_SAVED_VARIABLES = "TemperDataMining.lua"
 const LUA_PARSER = "@temper/shared-saved-variables/lua-parser"
 const ESO_PATHS = "@temper/shared-foundation-misc-eso-paths-resolve"
 const NARROW = "@shared/utils-narrow"
-const MINED_DATA_PARSE = "packages/temper/scripts/src/mined-data-parse.ts"
+const MINED_DATA_PARSE = "temper/scripts/src/mined-data-parse.ts"
 
 interface LuaParserModule {
   readonly parseLuaSavedVariablesFile: (
