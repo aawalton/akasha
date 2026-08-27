@@ -1,4 +1,4 @@
-export const summary = "Publish every archivable chapter from a Tower state file into the stories repo and trim its beats out of the live state.json"
+export const summary = "Publish every archivable chapter from a Tower state file into akasha and trim its beats out of the live state.json"
 
 import { readFile } from "node:fs/promises"
 import { join } from "node:path"
@@ -12,10 +12,10 @@ import type { CommandHelp } from "../../ops/surface.ts"
 import { dataError, operationalError } from "../../lib/exit.ts"
 import { composeChapterPage, composeStoryPage, statedIdIn } from "../../lib/story-publish.ts"
 import { parseArgs } from "../../lib/parse-args.ts"
+import { akashaRoot } from "../../../repo/roots/roots.ts"
 import {
   playedStoryRelDir,
-  standsInStories,
-  storiesRoot,
+  storyFileStands,
   type StoryFile,
   worldsHolding,
   writeStoryFiles,
@@ -60,7 +60,7 @@ export const help: CommandHelp = {
   ],
   exits: [
     { code: 2, meaning: "Missing/malformed state.json, an ambiguous world, or invalid arguments" },
-    { code: 3, meaning: "The stories write was refused, or the atomic rewrite failed" },
+    { code: 3, meaning: "The write was refused, or the atomic rewrite failed" },
   ],
   examples: [
     "ops tower archive --slug the-tower --state /var/tmp/state.json",
@@ -84,20 +84,20 @@ async function worldFor(slug: string, stated: string | undefined): Promise<strin
   const holding = worldsHolding(slug)
   if (holding.length > 1) {
     throw dataError(
-      `"${slug}" stands under ${holding.length} worlds in ${storiesRoot()} (${holding.join(", ")}) — nothing here says which one this state file belongs to`
+      `"${slug}" stands under ${holding.length} worlds in ${akashaRoot()} (${holding.join(", ")}) — nothing here says which one this state file belongs to`
     )
   }
   return holding[0] ?? stated ?? DEFAULT_WORLD
 }
 
 async function standsAlready(relPath: string, content: string): Promise<boolean> {
-  if (!standsInStories(relPath)) return false
-  return (await readFile(join(storiesRoot(), relPath), "utf8")) === content
+  if (!storyFileStands(relPath)) return false
+  return (await readFile(join(akashaRoot(), relPath), "utf8")) === content
 }
 
 async function standingTextAt(relPath: string): Promise<string | null> {
-  if (!standsInStories(relPath)) return null
-  return await readFile(join(storiesRoot(), relPath), "utf8")
+  if (!storyFileStands(relPath)) return null
+  return await readFile(join(akashaRoot(), relPath), "utf8")
 }
 
 export default async function towerArchive(args: readonly string[]): Promise<void> {
@@ -170,7 +170,7 @@ export default async function towerArchive(args: readonly string[]): Promise<voi
       worldSlug: world,
     })
     const storyRelPath = `${storyDir}/${story.fileName}`
-    if (!standsInStories(storyRelPath)) {
+    if (!storyFileStands(storyRelPath)) {
       landing.push({ relPath: storyRelPath, content: story.content })
     }
     if (!(await standsAlready(relPath, page.content))) {
@@ -183,7 +183,7 @@ export default async function towerArchive(args: readonly string[]): Promise<voi
     )
     if (landed.kind === "unwritten") {
       throw operationalError(
-        `the stories write was refused for chapter ${chapter.number}: ${landed.why}`
+        `the write was refused for chapter ${chapter.number}: ${landed.why}`
       )
     }
 
