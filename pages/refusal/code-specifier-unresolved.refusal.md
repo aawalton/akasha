@@ -1,5 +1,6 @@
 ---
 id: dee6a246-773e-51f9-a516-309067742367
+slug: code-specifier-unresolved
 page-type-slug: refusal
 title: "Code specifier unresolved"
 holes:

@@ -1,6 +1,7 @@
 ---
 page-type-slug: idle-persona-card
 id: 095c47a6-53cd-555d-ada0-90afd8a2951e
+slug: nova
 player-id: 9ba554f7-cb18-48bb-a709-ec935a895ca7
 card-slug: nova
 persona-slug: nova

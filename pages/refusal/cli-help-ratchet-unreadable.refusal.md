@@ -1,5 +1,6 @@
 ---
 id: 7633a67f-70b9-5aff-ab5c-1d12d589cde3
+slug: cli-help-ratchet-unreadable
 page-type-slug: refusal
 title: "CLI help ratchet unreadable"
 holes:

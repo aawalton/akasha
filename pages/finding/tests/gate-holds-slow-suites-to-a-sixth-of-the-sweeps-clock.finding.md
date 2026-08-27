@@ -1,5 +1,6 @@
 ---
 id: db178e5a-efe8-5ff7-8028-d263ed8a122f
+slug: gate-holds-slow-suites-to-a-sixth-of-the-sweeps-clock
 page-type-slug: finding
 title: "Gate holds slow suites to a sixth of the sweeps clock"
 domain-slug: domain/global

@@ -1,5 +1,6 @@
 ---
 id: f76ddd44-f345-54a6-9afe-529b8f211e55
+slug: email-message-unclaimed
 page-type-slug: refusal
 title: "Email message unclaimed"
 holes:

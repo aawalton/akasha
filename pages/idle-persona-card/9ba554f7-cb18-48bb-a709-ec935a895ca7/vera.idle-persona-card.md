@@ -1,6 +1,7 @@
 ---
 page-type-slug: idle-persona-card
 id: cfb9174e-72bc-58ef-ac77-d1e0331f6e14
+slug: vera
 player-id: 9ba554f7-cb18-48bb-a709-ec935a895ca7
 card-slug: vera
 persona-slug: vera

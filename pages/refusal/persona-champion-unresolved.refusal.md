@@ -1,5 +1,6 @@
 ---
 id: caf52e8e-9e87-594b-bed2-36f985604d06
+slug: persona-champion-unresolved
 page-type-slug: refusal
 title: "Persona champion unresolved"
 holes:

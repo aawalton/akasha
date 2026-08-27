@@ -1,5 +1,6 @@
 ---
 id: 8d11bc4e-5400-5875-9747-5d32ee68a25f
+slug: no-deadlines-constraint-uncarried
 page-type-slug: finding
 title: "No deadlines constraint uncarried"
 domain-slug: domain/946

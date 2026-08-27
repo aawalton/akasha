@@ -1,6 +1,7 @@
 ---
 page-type-slug: identity-statement
 id: 019ea810-a259-7296-aa83-087143b37fcb
+slug: i-dont-mind-dairy
 title: "I don’t mind dairy"
 icon: "file-text"
 status: planned

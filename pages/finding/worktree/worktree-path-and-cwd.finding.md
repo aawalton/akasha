@@ -1,5 +1,6 @@
 ---
 id: ccd3b6de-153e-51d7-9a4f-f4f236d7f4b7
+slug: worktree-path-and-cwd
 page-type-slug: finding
 title: "Worktree path and cwd"
 domain-slug: domain/worktree

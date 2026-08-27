@@ -1,5 +1,6 @@
 ---
 id: e29f89b1-2d93-5ee2-87f9-2024089fa70d
+slug: email-message-space-unbounded
 page-type-slug: refusal
 title: "Email message space unbounded"
 holes:

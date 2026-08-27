@@ -1,6 +1,7 @@
 ---
 page-type-slug: identity-statement
 id: 019ea810-a49b-704e-9024-30dba6c09061
+slug: masculinity-has-a-light-side-as-well-as-a-dark-side
 title: "Masculinity has a light side as well as a dark side"
 icon: "file-text"
 status: current

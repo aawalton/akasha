@@ -1,5 +1,6 @@
 ---
 id: 61f4f25c-6bcb-588a-be14-8628c97f3c51
+slug: bash-env-undeclared
 page-type-slug: refusal
 title: "Bash env undeclared"
 ---

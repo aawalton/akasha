@@ -1,5 +1,6 @@
 ---
 id: fcd325cd-8032-5e0e-9c1d-1caec9b40a46
+slug: cli-suites-run-on-the-default-clock
 page-type-slug: finding
 title: "CLI suites run on the default clock"
 domain-slug: domain/global

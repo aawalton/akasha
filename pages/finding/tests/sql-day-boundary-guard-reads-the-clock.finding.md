@@ -1,5 +1,6 @@
 ---
 id: 60fa4ed8-f1b8-5d01-a707-8da5ae63de74
+slug: sql-day-boundary-guard-reads-the-clock
 page-type-slug: finding
 title: "SQL day boundary guard reads the clock"
 domain-slug: domain/global

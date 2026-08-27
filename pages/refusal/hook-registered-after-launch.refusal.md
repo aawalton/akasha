@@ -1,5 +1,6 @@
 ---
 id: d1951424-9acb-506f-949a-a59558396f7c
+slug: hook-registered-after-launch
 page-type-slug: refusal
 title: "Hook registered after launch"
 holes:

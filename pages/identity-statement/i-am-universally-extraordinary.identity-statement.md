@@ -1,6 +1,7 @@
 ---
 page-type-slug: identity-statement
 id: 019ea810-ac28-7092-9cbd-3df0bbeb403f
+slug: i-am-universally-extraordinary
 title: "I am universally extraordinary"
 icon: "file-text"
 status: current

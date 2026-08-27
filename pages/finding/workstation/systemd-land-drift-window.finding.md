@@ -1,5 +1,6 @@
 ---
 id: 19720327-f24d-517f-888c-1624ca4c7d95
+slug: systemd-land-drift-window
 page-type-slug: finding
 title: "Systemd land drift window"
 domain-slug: host/workstation

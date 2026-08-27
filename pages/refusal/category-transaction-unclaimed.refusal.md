@@ -1,5 +1,6 @@
 ---
 id: beae3882-e426-5d60-8ab6-9c05f9324309
+slug: category-transaction-unclaimed
 page-type-slug: refusal
 title: "Category transaction unclaimed"
 holes:

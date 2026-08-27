@@ -1,5 +1,6 @@
 ---
 id: 0abbb49c-088f-582d-92a2-59bc7afa1349
+slug: hook-dropped-since-launch
 page-type-slug: refusal
 title: "Hook dropped since launch"
 holes:

@@ -1,5 +1,6 @@
 ---
 id: 617aeb4b-1d76-57ea-bceb-3f3528af6a3a
+slug: browser-suffix-deploy-role-undischarged
 page-type-slug: finding
 title: "Browser suffix deploy role undischarged"
 domain-slug: domain/global

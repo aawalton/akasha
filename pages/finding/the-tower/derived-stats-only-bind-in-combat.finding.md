@@ -1,5 +1,6 @@
 ---
 id: e309dac2-5113-5367-b2a4-c5c644d134fd
+slug: derived-stats-only-bind-in-combat
 page-type-slug: finding
 title: "Derived stats only bind in combat"
 domain-slug: domain/global

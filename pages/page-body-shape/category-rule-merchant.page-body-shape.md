@@ -2,6 +2,7 @@
 page-type-slug: page-body-shape
 title: "Category rule merchant"
 id: 01a0006f-606d-7005-af6f-b958f43f73a1
+slug: category-rule-merchant
 extends-slug: none
 blocks:
   vocabulary:

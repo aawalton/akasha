@@ -1,5 +1,6 @@
 ---
 id: 78a67961-6e07-5c34-9ba2-3b9f62aaf8db
+slug: block-destructive-git-reset
 page-type-slug: refusal
 title: "Block destructive git reset"
 ---

@@ -1,6 +1,7 @@
 ---
 page-type-slug: identity-statement
 id: 019ea810-a345-7e06-b0fc-1ef0e34c86e0
+slug: i-am-energetically-athletic
 title: "I am energetically athletic"
 icon: "file-text"
 status: in-progress

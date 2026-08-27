@@ -1,5 +1,6 @@
 ---
 id: ea658525-db86-56fb-80e0-c0d735ff00f9
+slug: hook-payload-not-json
 page-type-slug: refusal
 title: "Hook payload not JSON"
 holes:

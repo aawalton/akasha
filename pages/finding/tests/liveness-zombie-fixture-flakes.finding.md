@@ -1,5 +1,6 @@
 ---
 id: ac387280-7ae7-56f7-a84c-5a1cd78e1052
+slug: liveness-zombie-fixture-flakes
 page-type-slug: finding
 title: "Liveness zombie fixture flakes"
 domain-slug: domain/global

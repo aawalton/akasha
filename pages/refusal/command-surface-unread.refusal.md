@@ -1,5 +1,6 @@
 ---
 id: 80c7d822-9c2e-53a7-a441-cb398172d1a9
+slug: command-surface-unread
 page-type-slug: refusal
 title: "Command surface unread"
 holes:

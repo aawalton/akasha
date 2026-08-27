@@ -1,6 +1,7 @@
 ---
 page-type-slug: idle-persona-card
 id: 2af2fa02-d39a-535a-b406-62b4b8a50539
+slug: aine
 player-id: 9ba554f7-cb18-48bb-a709-ec935a895ca7
 card-slug: aine
 persona-slug: aine

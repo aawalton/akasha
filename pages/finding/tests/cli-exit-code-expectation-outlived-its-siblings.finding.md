@@ -1,5 +1,6 @@
 ---
 id: 0de90c0f-7651-5b30-a583-01977b6ebf88
+slug: cli-exit-code-expectation-outlived-its-siblings
 page-type-slug: finding
 title: "CLI exit code expectation outlived its siblings"
 domain-slug: domain/global

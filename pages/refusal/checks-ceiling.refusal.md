@@ -1,5 +1,6 @@
 ---
 id: 93807398-fb01-5c65-bc9d-37cb6f092db1
+slug: checks-ceiling
 page-type-slug: refusal
 title: "Checks ceiling"
 holes:

@@ -1,5 +1,6 @@
 ---
 id: 4a08ce8a-fa71-5ae8-a446-c866df21848e
+slug: live-corpus-walk-margin-on-load
 page-type-slug: finding
 title: "Live corpus walk margin on load"
 domain-slug: domain/test-file

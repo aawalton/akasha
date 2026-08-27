@@ -1,5 +1,6 @@
 ---
 id: 2f82b27e-75bb-576d-a33e-19a8bc651fba
+slug: category-transaction-space-unbounded
 page-type-slug: refusal
 title: "Category transaction space unbounded"
 holes:

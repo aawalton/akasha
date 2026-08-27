@@ -1,5 +1,6 @@
 ---
 id: 073d31df-0c51-54c7-9cc8-80c36b9ce2d9
+slug: credential-stripped-cli-tests-fail-not-skip
 page-type-slug: finding
 title: "Credential stripped CLI tests fail not skip"
 domain-slug: domain/test

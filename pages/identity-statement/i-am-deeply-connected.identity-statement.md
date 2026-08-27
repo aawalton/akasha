@@ -1,6 +1,7 @@
 ---
 page-type-slug: identity-statement
 id: 019ea810-a12d-7368-a087-5ade2b10c157
+slug: i-am-deeply-connected
 title: "I am deeply connected"
 icon: "file-text"
 status: planned

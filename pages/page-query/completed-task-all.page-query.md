@@ -1,5 +1,6 @@
 ---
 id: a9a9aabb-6c73-5d82-9d2e-6075c313c439
+slug: completed-task-all
 page-type-slug: page-query
 title: "Completed task all"
 page-type: completed-task

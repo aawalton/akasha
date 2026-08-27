@@ -1,6 +1,7 @@
 ---
 page-type-slug: idle-persona-card
 id: 73e74cf9-d181-5d38-9cca-b692644b71af
+slug: elin
 player-id: 9ba554f7-cb18-48bb-a709-ec935a895ca7
 card-slug: elin
 persona-slug: elin

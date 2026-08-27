@@ -1,5 +1,6 @@
 ---
 id: 03b2d04f-9430-52ee-9e0b-31b0fb8ee1d9
+slug: shared-cleanup-marker
 page-type-slug: finding
 title: "Shared cleanup marker"
 domain-slug: domain/global

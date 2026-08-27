@@ -1,5 +1,6 @@
 ---
 id: 10928ada-30a6-57f2-8bfc-2339b3734bc3
+slug: hook-missing-from-payload
 page-type-slug: refusal
 title: "Hook missing from payload"
 holes:

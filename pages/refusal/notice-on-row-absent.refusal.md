@@ -1,5 +1,6 @@
 ---
 id: 89b60e07-9c53-52d2-80f2-d4750fa4d8cf
+slug: notice-on-row-absent
 page-type-slug: refusal
 title: "Notice on row absent"
 holes:

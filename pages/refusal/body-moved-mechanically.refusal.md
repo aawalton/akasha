@@ -1,5 +1,6 @@
 ---
 id: 01a03518-a7a5-7c12-8f9e-620381e0674f
+slug: body-moved-mechanically
 page-type-slug: refusal
 title: "Body moved mechanically"
 holes:

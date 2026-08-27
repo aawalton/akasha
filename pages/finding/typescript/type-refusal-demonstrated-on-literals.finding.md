@@ -1,5 +1,6 @@
 ---
 id: b922c207-ef0b-52ce-a139-1c648b07c8e1
+slug: type-refusal-demonstrated-on-literals
 page-type-slug: finding
 title: "Type refusal demonstrated on literals"
 domain-slug: domain/global

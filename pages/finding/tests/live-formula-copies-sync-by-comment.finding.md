@@ -1,5 +1,6 @@
 ---
 id: 9b7ebeeb-90a2-5a04-8625-68f1dcf3c776
+slug: live-formula-copies-sync-by-comment
 page-type-slug: finding
 title: "Live formula copies sync by comment"
 domain-slug: domain/global

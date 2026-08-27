@@ -1,5 +1,6 @@
 ---
 id: d885f85e-e4a0-5a29-90af-663bb9c05573
+slug: code-path-unresolved
 page-type-slug: refusal
 title: "Code path unresolved"
 holes:

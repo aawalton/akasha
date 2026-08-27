@@ -1,6 +1,7 @@
 ---
 page-type-slug: identity-statement
 id: 019ea810-ada7-7fa4-840f-9fa05a7bc09b
+slug: i-have-a-unique-perspective
 title: "I have a unique perspective"
 icon: "file-text"
 status: current

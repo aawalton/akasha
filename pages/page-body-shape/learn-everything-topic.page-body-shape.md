@@ -2,6 +2,7 @@
 page-type-slug: page-body-shape
 title: "Learn everything topic"
 id: 01a0006f-606c-7001-aec7-c9d7d3ed1537
+slug: learn-everything-topic
 extends-slug: none
 slots:
   frontier:

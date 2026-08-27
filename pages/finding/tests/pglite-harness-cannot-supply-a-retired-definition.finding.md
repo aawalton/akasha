@@ -1,5 +1,6 @@
 ---
 id: a747b669-1a45-5b24-aff5-01a65bf04247
+slug: pglite-harness-cannot-supply-a-retired-definition
 page-type-slug: finding
 title: "Pglite harness cannot supply a retired definition"
 domain-slug: domain/global

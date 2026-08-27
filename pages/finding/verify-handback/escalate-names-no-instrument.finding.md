@@ -1,5 +1,6 @@
 ---
 id: 6386585c-f499-5593-801e-913dc8415a71
+slug: escalate-names-no-instrument
 page-type-slug: finding
 title: "Escalate names no instrument"
 domain-slug: task/verify-handback

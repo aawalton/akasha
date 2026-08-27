@@ -1,5 +1,6 @@
 ---
 id: 9bab0531-43cf-57f4-aebc-e0ef70504979
+slug: frozen-digest-pins-the-fixture-path
 page-type-slug: finding
 title: "Frozen digest pins the fixture path"
 domain-slug: domain/global

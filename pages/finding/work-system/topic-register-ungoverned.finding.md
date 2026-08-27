@@ -1,5 +1,6 @@
 ---
 id: fe08d2f5-eed4-540f-95f1-a57049664a21
+slug: topic-register-ungoverned
 page-type-slug: finding
 title: "Topic register ungoverned"
 domain-slug: domain/work-system

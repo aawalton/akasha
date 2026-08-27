@@ -1,5 +1,6 @@
 ---
 id: 9cbb637c-a441-5e22-b72d-a8c8d359eca3
+slug: attributes-and-identity-unrecorded
 page-type-slug: finding
 title: "Attributes and identity unrecorded"
 domain-slug: domain/the-graph

@@ -1,5 +1,6 @@
 ---
 id: ee64f824-87dd-57a3-bd03-0c581dddbbc0
+slug: smoke-test-doc-citations-dangling
 page-type-slug: finding
 title: "Smoke test doc citations dangling"
 domain-slug: domain/global

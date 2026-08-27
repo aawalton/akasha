@@ -1,6 +1,7 @@
 ---
 page-type-slug: idle-persona-card
 id: 4080a948-7372-51d0-9a97-58b28b6a2040
+slug: athena
 player-id: 9ba554f7-cb18-48bb-a709-ec935a895ca7
 card-slug: athena
 persona-slug: athena

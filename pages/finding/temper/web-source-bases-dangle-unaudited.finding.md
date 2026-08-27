@@ -1,5 +1,6 @@
 ---
 id: cb78366e-8f6b-56b8-bca9-efa14eecb6b9
+slug: web-source-bases-dangle-unaudited
 page-type-slug: finding
 title: "Web source bases dangle unaudited"
 domain-slug: domain/946

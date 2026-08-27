@@ -1,5 +1,6 @@
 ---
 id: fbd7561b-0cb8-5cc5-a1cb-9e6f15dd36b9
+slug: live-corpus-walk-outgrows-its-ceiling
 page-type-slug: finding
 title: "Live corpus walk outgrows its ceiling"
 domain-slug: domain/test

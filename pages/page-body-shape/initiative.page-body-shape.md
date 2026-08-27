@@ -2,6 +2,7 @@
 page-type-slug: page-body-shape
 title: "Initiative"
 id: 01a0006f-606c-7000-813f-bfb3544919a5
+slug: initiative
 extends-slug: none
 blocks:
   intent:

@@ -1,5 +1,6 @@
 ---
 id: aa690d8c-9929-5273-83f6-7e1901ca386f
+slug: harness-discards-select-projection
 page-type-slug: finding
 title: "Harness discards select projection"
 domain-slug: domain/global

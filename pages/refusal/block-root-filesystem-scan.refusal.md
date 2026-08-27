@@ -1,5 +1,6 @@
 ---
 id: e6adbd0e-715e-509c-a37f-c90119b128fd
+slug: block-root-filesystem-scan
 page-type-slug: refusal
 title: "Block root filesystem scan"
 ---

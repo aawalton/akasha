@@ -1,6 +1,7 @@
 ---
 page-type-slug: identity-statement
 id: 019ea810-af95-75ec-aec8-c77dbf0bb514
+slug: i-am-a-nomadic-escapist
 title: "I am a nomadic escapist"
 icon: "file-text"
 status: deprecated

@@ -2,6 +2,7 @@
 page-type-slug: page-body-shape
 title: "Email rule code"
 id: 01a0006f-606d-7007-b24d-7beebfa3e372
+slug: email-rule-code
 extends-slug: none
 blocks:
   match:

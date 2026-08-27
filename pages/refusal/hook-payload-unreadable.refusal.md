@@ -1,5 +1,6 @@
 ---
 id: 76bcf918-d3e6-579a-a18c-f69a7170d0e5
+slug: hook-payload-unreadable
 page-type-slug: refusal
 title: "Hook payload unreadable"
 holes:

@@ -1,5 +1,6 @@
 ---
 id: ce0ca30d-a108-51d4-8f8e-05367ff9e210
+slug: three-persona-views-name-keys-nothing-declares
 page-type-slug: finding
 title: "Three persona views name keys nothing declares"
 domain-slug: page-type/view

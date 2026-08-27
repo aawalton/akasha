@@ -1,5 +1,6 @@
 ---
 id: e813289f-8ce1-5488-9673-25abe9c6241f
+slug: page-row-required-dropped
 page-type-slug: refusal
 title: "Page row required dropped"
 holes:

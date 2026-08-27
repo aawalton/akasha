@@ -1,6 +1,7 @@
 ---
 page-type-slug: identity-statement
 id: 019ea810-a28f-7122-a983-e414508fed99
+slug: i-like-plants
 title: "I like plants"
 icon: "file-text"
 status: planned

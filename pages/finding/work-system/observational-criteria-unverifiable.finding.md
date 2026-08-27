@@ -1,5 +1,6 @@
 ---
 id: a8ede105-7974-5f69-9881-34211013389b
+slug: observational-criteria-unverifiable
 page-type-slug: finding
 title: "Observational criteria unverifiable"
 domain-slug: domain/work-system

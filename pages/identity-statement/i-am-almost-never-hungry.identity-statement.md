@@ -1,6 +1,7 @@
 ---
 page-type-slug: identity-statement
 id: 019ea810-ae89-70e0-a6f0-ec1104c7b4cf
+slug: i-am-almost-never-hungry
 title: "I am almost never hungry"
 icon: "file-text"
 status: current

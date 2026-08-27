@@ -1,5 +1,6 @@
 ---
 id: 25edb07c-9572-52f4-a960-6a26452fddfd
+slug: properties-heading-names-invariant
 page-type-slug: finding
 title: "Properties heading names invariant"
 domain-slug: domain/global

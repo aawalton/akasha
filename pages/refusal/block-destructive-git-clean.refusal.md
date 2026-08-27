@@ -1,5 +1,6 @@
 ---
 id: 0e70cdd2-f822-51af-be37-e21e6dd14717
+slug: block-destructive-git-clean
 page-type-slug: refusal
 title: "Block destructive git clean"
 ---

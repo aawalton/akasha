@@ -2,6 +2,7 @@
 page-type-slug: page-body-shape
 title: "Notice"
 id: 01a0006f-606d-7003-a75e-580c9c07cafe
+slug: notice
 extends-slug: none
 blocks:
   title:

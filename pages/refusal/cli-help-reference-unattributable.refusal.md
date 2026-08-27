@@ -1,5 +1,6 @@
 ---
 id: a5c8801c-1e5d-5ffa-84a3-676172f15236
+slug: cli-help-reference-unattributable
 page-type-slug: refusal
 title: "CLI help reference unattributable"
 holes:

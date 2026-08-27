@@ -1,6 +1,7 @@
 ---
 page-type-slug: idle-persona-card
 id: c2d9897b-3502-57f2-93d8-81ccd21ee9b2
+slug: aranya
 player-id: 9ba554f7-cb18-48bb-a709-ec935a895ca7
 card-slug: aranya
 persona-slug: aranya

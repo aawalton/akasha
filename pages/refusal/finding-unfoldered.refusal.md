@@ -1,5 +1,6 @@
 ---
 id: 78f70901-5e8d-5fa8-a0f5-1c264ff4c733
+slug: finding-unfoldered
 page-type-slug: refusal
 title: "Finding unfoldered"
 holes:

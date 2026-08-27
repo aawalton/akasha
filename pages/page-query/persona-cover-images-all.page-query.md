@@ -1,5 +1,6 @@
 ---
 id: 22de9269-9999-5ce8-bf2c-fa5173d42fb1
+slug: persona-cover-images-all
 page-type-slug: page-query
 title: "Persona cover images all"
 page-type: persona-cover-image

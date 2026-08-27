@@ -1,5 +1,6 @@
 ---
 id: 6b459bd9-4261-5321-a686-2d300bd4aafa
+slug: page-redeclaration-silent
 page-type-slug: refusal
 title: "Page redeclaration silent"
 holes:

@@ -1,5 +1,6 @@
 ---
 id: e0b568ed-124e-5aec-ba0f-69d32467480d
+slug: block-destructive-git-rm
 page-type-slug: refusal
 title: "Block destructive git rm"
 ---

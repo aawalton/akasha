@@ -1,5 +1,6 @@
 ---
 id: 342c7259-b5fc-5fbb-9572-98fa0efe6733
+slug: hook-extra-in-payload-unsettled
 page-type-slug: refusal
 title: "Hook extra in payload unsettled"
 holes:

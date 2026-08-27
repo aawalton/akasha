@@ -1,5 +1,6 @@
 ---
 id: b638fbc3-b6b0-5381-bec1-678afe6bed40
+slug: editor-extension-shadowed
 page-type-slug: refusal
 title: "Editor extension shadowed"
 holes:

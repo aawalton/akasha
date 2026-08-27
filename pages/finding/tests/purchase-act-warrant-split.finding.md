@@ -1,5 +1,6 @@
 ---
 id: 11981fc1-de1b-530a-ab5c-bf051a8b3d3b
+slug: purchase-act-warrant-split
 page-type-slug: finding
 title: "Purchase act warrant split"
 domain-slug: domain/global

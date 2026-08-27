@@ -1,5 +1,6 @@
 ---
 id: 0a58d1fc-6bbe-5973-bd4e-f37d0eceaa95
+slug: page-key-secret
 page-type-slug: refusal
 title: "Page key secret"
 holes:

@@ -1,5 +1,6 @@
 ---
 id: b4e36408-43fe-5a82-bf6f-87f1a36cde67
+slug: excluded-test-file-inert
 page-type-slug: finding
 title: "Excluded test file inert"
 domain-slug: domain/test

@@ -1,5 +1,6 @@
 ---
 id: 4fff61af-495d-5237-86ed-94db8ea04088
+slug: rapport-double-counted
 page-type-slug: finding
 title: "Rapport double counted"
 domain-slug: domain/946

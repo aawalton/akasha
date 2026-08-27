@@ -1,5 +1,6 @@
 ---
 id: 5f2e590a-7e81-516e-9734-9cb319812010
+slug: resume
 page-type-slug: notice
 title: "Resume"
 ---

@@ -1,5 +1,6 @@
 ---
 id: 1844ccdc-5914-5eeb-8d35-6280ac00669e
+slug: block-substituting-backtick-where-heredoc
 page-type-slug: refusal
 title: "Block substituting backtick where heredoc"
 ---

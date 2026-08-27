@@ -1,5 +1,6 @@
 ---
 id: 11ff52d0-55e4-58fd-b58e-7b934bb93b32
+slug: unit-lane-inline-spawn
 page-type-slug: finding
 title: "Unit lane inline spawn"
 domain-slug: domain/global

@@ -1,5 +1,6 @@
 ---
 id: cc4618d0-b175-5e1f-b2ca-e6bc71eb5a14
+slug: championed-domain-unnamed-back
 page-type-slug: refusal
 title: "Championed domain unnamed back"
 holes:

@@ -1,5 +1,6 @@
 ---
 id: ea5aeb81-4a00-57bd-baee-b9f13e6d215f
+slug: browser-fixture-leaks-a-persona-row
 page-type-slug: finding
 title: "Browser fixture leaks a persona row"
 domain-slug: domain/global

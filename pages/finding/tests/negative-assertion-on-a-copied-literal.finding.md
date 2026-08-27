@@ -1,5 +1,6 @@
 ---
 id: fbb49066-e5e5-5dc4-bbce-4bb91beabea9
+slug: negative-assertion-on-a-copied-literal
 page-type-slug: finding
 title: "Negative assertion on a copied literal"
 domain-slug: domain/global

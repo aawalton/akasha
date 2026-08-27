@@ -1,5 +1,6 @@
 ---
 id: 01a01acb-287b-7003-b6a4-0704ce2331e3
+slug: all-about-alan-topic
 page-type-slug: page-body-shape
 title: "All about Alan topic"
 extends-slug: none

@@ -1,5 +1,6 @@
 ---
 id: 371305cd-d078-5252-978b-5d8a97c604f7
+slug: persona-routes-to-removed-documents
 page-type-slug: finding
 title: "Persona routes to removed documents"
 domain-slug: domain/global

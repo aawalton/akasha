@@ -2,6 +2,7 @@
 page-type-slug: page-body-shape
 title: "Task"
 id: 01a0006c-2ae9-7000-ae1e-3c922743708d
+slug: task
 extends-slug: domain
 blocks:
   sequence:

@@ -1,5 +1,6 @@
 ---
 id: ed4dc886-d3b2-57f8-bc54-807fa7f73460
+slug: page-key-required-unstated
 page-type-slug: refusal
 title: "Page key required unstated"
 holes:

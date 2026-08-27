@@ -1,6 +1,7 @@
 ---
 page-type-slug: idle-persona-card
 id: 183d2f09-94cf-5191-a16c-fb9806f18ed9
+slug: eppie
 player-id: 9ba554f7-cb18-48bb-a709-ec935a895ca7
 card-slug: eppie
 persona-slug: eppie

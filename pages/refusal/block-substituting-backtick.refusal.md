@@ -1,5 +1,6 @@
 ---
 id: ce636447-6175-5c9a-be02-81c079da1e65
+slug: block-substituting-backtick
 page-type-slug: refusal
 title: "Block substituting backtick"
 holes:

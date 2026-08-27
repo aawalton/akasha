@@ -1,6 +1,7 @@
 ---
 page-type-slug: identity-statement
 id: 019ea810-a6c5-73d4-8d3f-96303ff357aa
+slug: i-am-an-omni-sensory-and-emotional-aphant
 title: "I am an omni-sensory and emotional aphant"
 icon: "file-text"
 status: current

@@ -1,5 +1,6 @@
 ---
 id: aa94312c-b086-5a20-8450-66d592d19f2a
+slug: test-file-task-entry-lacks-trigger
 page-type-slug: finding
 title: "Test file task entry lacks trigger"
 domain-slug: domain/test-file

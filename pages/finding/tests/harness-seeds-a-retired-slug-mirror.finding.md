@@ -1,5 +1,6 @@
 ---
 id: f2387da2-f793-50c0-8b3d-9e8723cd52f7
+slug: harness-seeds-a-retired-slug-mirror
 page-type-slug: finding
 title: "Harness seeds a retired slug mirror"
 domain-slug: domain/global

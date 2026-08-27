@@ -1,5 +1,6 @@
 ---
 id: 9f520df4-8bdc-575e-a06a-f5d7bd9c8e09
+slug: territory-map-roster-short
 page-type-slug: finding
 title: "Territory map roster short"
 domain-slug: domain/946

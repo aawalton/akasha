@@ -1,5 +1,6 @@
 ---
 id: 9159f88a-55bd-5b88-a5c5-3bc9ac8f4a97
+slug: dispatch-time-objective-unfindable
 page-type-slug: finding
 title: "Dispatch time objective unfindable"
 domain-slug: task/verify-handback

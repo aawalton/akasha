@@ -1,5 +1,6 @@
 ---
 id: d6f7f48d-6f70-5d2c-9cf7-e7b168396232
+slug: command-help-flags-drift
 page-type-slug: refusal
 title: "Command help flags drift"
 holes:

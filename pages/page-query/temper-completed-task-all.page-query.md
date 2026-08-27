@@ -1,5 +1,6 @@
 ---
 id: fdd434f0-ea91-5937-81b1-a76105c6ef1d
+slug: temper-completed-task-all
 page-type-slug: page-query
 title: "Temper completed task all"
 page-type: temper-completed-task

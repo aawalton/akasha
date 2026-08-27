@@ -1,6 +1,7 @@
 ---
 page-type-slug: identity-statement
 id: 019ea810-a1d2-722b-ac9f-f1b81fe6d181
+slug: i-dont-like-processed-foods
 title: "I don’t like processed foods"
 icon: "file-text"
 status: planned

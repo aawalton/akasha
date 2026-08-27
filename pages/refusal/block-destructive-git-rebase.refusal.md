@@ -1,5 +1,6 @@
 ---
 id: 096fa3f7-c2a2-5437-abc7-cc8f611da2b0
+slug: block-destructive-git-rebase
 page-type-slug: refusal
 title: "Block destructive git rebase"
 ---

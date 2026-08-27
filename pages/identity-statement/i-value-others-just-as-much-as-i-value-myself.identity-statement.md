@@ -1,6 +1,7 @@
 ---
 page-type-slug: identity-statement
 id: 019ea810-ac9f-78f1-a8e4-e7fdef658aab
+slug: i-value-others-just-as-much-as-i-value-myself
 title: "I value others just as much as I value myself"
 icon: "file-text"
 status: current

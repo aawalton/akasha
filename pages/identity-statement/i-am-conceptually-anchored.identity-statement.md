@@ -1,6 +1,7 @@
 ---
 page-type-slug: identity-statement
 id: 019ea810-ad3c-752f-a9a1-9420bd9acbbf
+slug: i-am-conceptually-anchored
 title: "I am conceptually anchored"
 icon: "file-text"
 status: current

@@ -1,5 +1,6 @@
 ---
 id: 2afacee3-4c0e-5aea-ad4e-94d5c3cae667
+slug: email-rules-overlap
 page-type-slug: refusal
 title: "Email rules overlap"
 holes:

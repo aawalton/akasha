@@ -1,5 +1,6 @@
 ---
 id: eade1b82-07c9-5709-9183-e6258fea3b39
+slug: file-changed-after-read
 page-type-slug: refusal
 title: "File changed after read"
 holes:

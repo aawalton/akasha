@@ -1,5 +1,6 @@
 ---
 id: b721da14-22d7-59c2-b059-c8606f056430
+slug: classifier-comment-names-undetected-library
 page-type-slug: finding
 title: "Classifier comment names undetected library"
 domain-slug: domain/test

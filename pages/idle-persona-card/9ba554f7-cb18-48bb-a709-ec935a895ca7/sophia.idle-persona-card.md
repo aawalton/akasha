@@ -1,6 +1,7 @@
 ---
 page-type-slug: idle-persona-card
 id: 22ca052c-588b-54f4-b834-25ebeafdfb8c
+slug: sophia
 player-id: 9ba554f7-cb18-48bb-a709-ec935a895ca7
 card-slug: sophia
 persona-slug: sophia

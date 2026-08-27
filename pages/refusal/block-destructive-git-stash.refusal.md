@@ -1,5 +1,6 @@
 ---
 id: 7ad7d0b2-6263-528c-b62b-9c67fe579fdc
+slug: block-destructive-git-stash
 page-type-slug: refusal
 title: "Block destructive git stash"
 ---

@@ -1,5 +1,6 @@
 ---
 id: 8d42c828-00a3-5569-bd21-d8cd03e82c27
+slug: dom-guard-frame-too-narrow
 page-type-slug: finding
 title: "Dom guard frame too narrow"
 domain-slug: domain/global

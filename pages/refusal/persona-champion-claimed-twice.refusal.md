@@ -1,5 +1,6 @@
 ---
 id: 07cf8ecb-c9d0-5ec4-9c59-a883acc3a646
+slug: persona-champion-claimed-twice
 page-type-slug: refusal
 title: "Persona champion claimed twice"
 holes:

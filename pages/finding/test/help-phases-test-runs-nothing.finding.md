@@ -1,5 +1,6 @@
 ---
 id: 02694a82-892b-50fa-b966-a351e8dbfba7
+slug: help-phases-test-runs-nothing
 page-type-slug: finding
 title: "Help phases test runs nothing"
 domain-slug: domain/test

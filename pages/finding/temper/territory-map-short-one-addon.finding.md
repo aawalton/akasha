@@ -1,5 +1,6 @@
 ---
 id: edc1ddba-584e-5be3-9fba-e3cde8e1325b
+slug: territory-map-short-one-addon
 page-type-slug: finding
 title: "Territory map short one addon"
 domain-slug: domain/946

@@ -1,5 +1,6 @@
 ---
 id: 5aeb3176-0009-58af-83a1-3d61f6ac1221
+slug: on-demand-tests-unstated
 page-type-slug: finding
 title: "On demand tests unstated"
 domain-slug: domain/test-file

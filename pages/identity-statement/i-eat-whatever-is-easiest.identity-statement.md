@@ -1,6 +1,7 @@
 ---
 page-type-slug: identity-statement
 id: 019ea810-af60-773d-8421-d86b003ba5a8
+slug: i-eat-whatever-is-easiest
 title: "I eat whatever is easiest"
 icon: "file-text"
 status: deprecated

@@ -1,5 +1,6 @@
 ---
 id: 43c14737-ac50-5d23-ba3d-4652e4ac9aad
+slug: schema-doc-fossil-refs
 page-type-slug: finding
 title: "Schema doc fossil refs"
 domain-slug: domain/946

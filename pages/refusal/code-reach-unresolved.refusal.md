@@ -1,5 +1,6 @@
 ---
 id: a24849da-ae44-52b0-a54f-cbc9c092c50f
+slug: code-reach-unresolved
 page-type-slug: refusal
 title: "Code reach unresolved"
 holes:

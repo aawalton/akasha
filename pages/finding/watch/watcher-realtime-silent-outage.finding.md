@@ -1,5 +1,6 @@
 ---
 id: 70597567-54c6-5c3e-96f0-f814ca643264
+slug: watcher-realtime-silent-outage
 page-type-slug: finding
 title: "Watcher realtime silent outage"
 domain-slug: domain/watch

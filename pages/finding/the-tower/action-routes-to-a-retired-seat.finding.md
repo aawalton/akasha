@@ -1,5 +1,6 @@
 ---
 id: 5598f9fd-7ed4-5da6-845c-764d55da016d
+slug: action-routes-to-a-retired-seat
 page-type-slug: finding
 title: "Action routes to a retired seat"
 domain-slug: domain/global

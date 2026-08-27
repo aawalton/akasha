@@ -1,5 +1,6 @@
 ---
 id: bb6aaf69-3135-5b70-8458-3aded71de1e7
+slug: wedge-suppression-tests-without-controls
 page-type-slug: finding
 title: "Wedge suppression tests without controls"
 domain-slug: domain/global

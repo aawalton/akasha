@@ -1,5 +1,6 @@
 ---
 id: 78ea3fa2-d856-597a-9ef8-69a4571030dc
+slug: slow-suite-intermittent-red-at-main
 page-type-slug: finding
 title: "Slow suite intermittent red at main"
 domain-slug: domain/global

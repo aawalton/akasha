@@ -1,6 +1,7 @@
 ---
 page-type-slug: idle-persona-card
 id: dd7fccdf-4660-5800-89af-a7c094fef0dd
+slug: ruby
 player-id: 9ba554f7-cb18-48bb-a709-ec935a895ca7
 card-slug: ruby
 persona-slug: ruby

@@ -1,5 +1,6 @@
 ---
 id: fa44fa00-532a-56f8-ae4e-2cb977d7de4f
+slug: claimed-by-another-repo
 page-type-slug: refusal
 title: "Claimed by another repo"
 holes:

@@ -2,6 +2,7 @@
 page-type-slug: proposition
 title: "Syntax of L"
 id: 019f0edc-7797-7e41-8158-12a744341f98
+slug: syntax-of-l
 kind: definition
 status: adopted
 ---

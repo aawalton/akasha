@@ -1,5 +1,6 @@
 ---
 id: 04999a7b-6298-52e7-949e-d397cb8af37c
+slug: subagent-kind
 page-type-slug: page-body-shape
 title: "Subagent kind"
 extends-slug: domain

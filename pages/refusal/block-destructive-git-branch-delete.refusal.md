@@ -1,5 +1,6 @@
 ---
 id: aaab5ec8-6fe8-5dcf-8ad2-933ec3dca297
+slug: block-destructive-git-branch-delete
 page-type-slug: refusal
 title: "Block destructive git branch delete"
 holes:

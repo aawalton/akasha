@@ -1,6 +1,7 @@
 ---
 page-type-slug: idle-persona-card
 id: f3414aa0-611c-5f8c-bfae-0230fa8e75a4
+slug: nimue
 player-id: 9ba554f7-cb18-48bb-a709-ec935a895ca7
 card-slug: nimue
 persona-slug: nimue

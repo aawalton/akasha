@@ -1,6 +1,7 @@
 ---
 page-type-slug: idle-persona-card
 id: f4bc0d15-334b-51da-b226-5976a707e359
+slug: dalla
 player-id: 9ba554f7-cb18-48bb-a709-ec935a895ca7
 card-slug: dalla
 persona-slug: dalla

@@ -1,6 +1,7 @@
 ---
 page-type-slug: identity-statement
 id: 019ea810-a30f-7bbe-bbf1-37ac53f014d6
+slug: i-am-a-prolific-polymath
 title: "I am a prolific polymath"
 icon: "file-text"
 status: in-progress

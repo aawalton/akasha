@@ -1,5 +1,6 @@
 ---
 id: ff7763f4-7f79-5a2e-9dda-a1c6958aa2b9
+slug: persona-champion-names-another
 page-type-slug: refusal
 title: "Persona champion names another"
 holes:

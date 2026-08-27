@@ -1,5 +1,6 @@
 ---
 id: f3f96306-0a5b-5811-a487-bc65d1e168c2
+slug: comment-outside-the-forms
 page-type-slug: refusal
 title: "Comment outside the forms"
 holes:

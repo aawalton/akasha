@@ -1,5 +1,6 @@
 ---
 id: 2ecfa674-a52f-5ee8-9bf2-8a25944ea62f
+slug: block-playwright-stray-filename
 page-type-slug: refusal
 title: "Block playwright stray filename"
 holes:

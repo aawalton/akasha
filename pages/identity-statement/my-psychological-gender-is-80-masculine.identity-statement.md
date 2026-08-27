@@ -1,6 +1,7 @@
 ---
 page-type-slug: identity-statement
 id: 019ea810-a42b-73cd-a534-a062d7d7131e
+slug: my-psychological-gender-is-80-masculine
 title: "My psychological gender is 80% masculine"
 icon: "file-text"
 status: in-progress

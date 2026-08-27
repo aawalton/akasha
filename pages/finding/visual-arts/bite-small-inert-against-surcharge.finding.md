@@ -1,5 +1,6 @@
 ---
 id: 75314d29-9e30-5945-bbbf-799961f06331
+slug: bite-small-inert-against-surcharge
 page-type-slug: finding
 title: "Bite small inert against surcharge"
 domain-slug: domain/visual-arts

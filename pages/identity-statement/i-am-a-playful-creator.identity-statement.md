@@ -1,6 +1,7 @@
 ---
 page-type-slug: identity-statement
 id: 019ea810-a3b7-7521-ae2c-d90aca3fedcb
+slug: i-am-a-playful-creator
 title: "I am a playful creator"
 icon: "file-text"
 status: in-progress

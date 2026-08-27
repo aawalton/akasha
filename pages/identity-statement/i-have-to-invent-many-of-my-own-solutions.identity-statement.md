@@ -1,6 +1,7 @@
 ---
 page-type-slug: identity-statement
 id: 019ea810-ade7-7afd-bf7b-12f18afaca46
+slug: i-have-to-invent-many-of-my-own-solutions
 title: "I have to invent many of my own solutions"
 icon: "file-text"
 status: current

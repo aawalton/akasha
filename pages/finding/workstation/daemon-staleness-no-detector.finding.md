@@ -1,5 +1,6 @@
 ---
 id: 6a9072a6-187f-5cfe-b316-90c4f1ea83a7
+slug: daemon-staleness-no-detector
 page-type-slug: finding
 title: "Daemon staleness no detector"
 domain-slug: host/workstation

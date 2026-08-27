@@ -1,6 +1,7 @@
 ---
 page-type-slug: idle-persona-card
 id: d278ddfe-ccc1-5dbf-806a-2d8c7036a739
+slug: ali
 player-id: 9ba554f7-cb18-48bb-a709-ec935a895ca7
 card-slug: ali
 persona-slug: ali

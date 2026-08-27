@@ -1,5 +1,6 @@
 ---
 id: 82ddc181-3039-58ee-bfb4-29a7bdfa0e14
+slug: runtime-skips-count-as-passes
 page-type-slug: finding
 title: "Runtime skips count as passes"
 domain-slug: domain/global

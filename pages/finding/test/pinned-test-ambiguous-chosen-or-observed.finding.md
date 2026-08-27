@@ -1,5 +1,6 @@
 ---
 id: 7283b30c-4253-598c-a34d-22cd5c3107ef
+slug: pinned-test-ambiguous-chosen-or-observed
 page-type-slug: finding
 title: "Pinned test ambiguous chosen or observed"
 domain-slug: domain/test

@@ -1,6 +1,7 @@
 ---
 page-type-slug: idle-persona-card
 id: b26df7ce-f092-517a-8fbf-9f77292f1ead
+slug: iris
 player-id: 9ba554f7-cb18-48bb-a709-ec935a895ca7
 card-slug: iris
 persona-slug: iris

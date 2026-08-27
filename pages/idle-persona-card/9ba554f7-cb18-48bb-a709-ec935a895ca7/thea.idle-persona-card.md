@@ -1,6 +1,7 @@
 ---
 page-type-slug: idle-persona-card
 id: b615d693-7eea-5136-8a23-f6307a3afc4e
+slug: thea
 player-id: 9ba554f7-cb18-48bb-a709-ec935a895ca7
 card-slug: thea
 persona-slug: thea

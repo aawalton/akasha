@@ -1,5 +1,6 @@
 ---
 id: 153ba848-4393-57a6-8546-680c1bb6a114
+slug: third-party-libraries-banned
 page-type-slug: finding
 title: "Third party libraries banned"
 domain-slug: domain/946

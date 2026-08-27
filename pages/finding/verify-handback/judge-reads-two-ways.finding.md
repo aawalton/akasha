@@ -1,5 +1,6 @@
 ---
 id: 620b2f4b-b8de-5976-ab02-2ed63e283f83
+slug: judge-reads-two-ways
 page-type-slug: finding
 title: "Judge reads two ways"
 domain-slug: task/verify-handback

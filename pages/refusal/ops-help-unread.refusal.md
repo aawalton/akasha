@@ -1,5 +1,6 @@
 ---
 id: abb69b84-0df6-519d-80f5-16e123046034
+slug: ops-help-unread
 page-type-slug: refusal
 title: "Ops help unread"
 holes:

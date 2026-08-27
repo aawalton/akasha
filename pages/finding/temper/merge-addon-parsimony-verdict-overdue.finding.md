@@ -1,5 +1,6 @@
 ---
 id: ddbbe51e-7cde-55d0-8de2-b68a57c76067
+slug: merge-addon-parsimony-verdict-overdue
 page-type-slug: finding
 title: "Merge addon parsimony verdict overdue"
 domain-slug: domain/946

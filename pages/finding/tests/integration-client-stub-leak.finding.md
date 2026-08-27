@@ -1,5 +1,6 @@
 ---
 id: f8377662-3997-5c73-b8b6-2cfbd5df6059
+slug: integration-client-stub-leak
 page-type-slug: finding
 title: "Integration client stub leak"
 domain-slug: domain/global

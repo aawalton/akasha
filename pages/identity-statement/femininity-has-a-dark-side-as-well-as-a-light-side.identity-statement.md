@@ -1,6 +1,7 @@
 ---
 page-type-slug: identity-statement
 id: 019ea810-a462-7c1c-bd25-f345fde6b5f4
+slug: femininity-has-a-dark-side-as-well-as-a-light-side
 title: "Femininity has a dark side as well as a light side"
 icon: "file-text"
 status: current

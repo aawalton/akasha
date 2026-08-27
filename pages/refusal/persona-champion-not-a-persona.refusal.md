@@ -1,5 +1,6 @@
 ---
 id: 8b475953-c5bb-5b68-82fd-5e8fba65c3bb
+slug: persona-champion-not-a-persona
 page-type-slug: refusal
 title: "Persona champion not a persona"
 holes:

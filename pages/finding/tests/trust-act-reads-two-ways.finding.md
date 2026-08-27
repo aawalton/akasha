@@ -1,5 +1,6 @@
 ---
 id: 928ee5e5-3ccd-57a3-8e5e-b4be08653e08
+slug: trust-act-reads-two-ways
 page-type-slug: finding
 title: "Trust act reads two ways"
 domain-slug: domain/global

@@ -1,5 +1,6 @@
 ---
 id: e96fcdd9-c07b-5172-a1c0-1f675b37597b
+slug: cli-help-accepted-subject-departed
 page-type-slug: refusal
 title: "CLI help accepted subject departed"
 holes:

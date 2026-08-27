@@ -1,5 +1,6 @@
 ---
 id: 1be585c6-e011-5103-9585-f4d3808092d6
+slug: command-help-names-no-command
 page-type-slug: refusal
 title: "Command help names no command"
 holes:

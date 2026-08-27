@@ -1,5 +1,6 @@
 ---
 id: 45de9276-bff7-53d0-bf3b-2d2ba33c4050
+slug: contract-oracle-aid-misses-the-restated-route
 page-type-slug: finding
 title: "Contract oracle aid misses the restated route"
 domain-slug: domain/global

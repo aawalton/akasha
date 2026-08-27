@@ -1,6 +1,7 @@
 ---
 page-type-slug: idle-persona-card
 id: 8255a8d9-122c-5479-adac-3357f6c6368c
+slug: zeli
 player-id: 9ba554f7-cb18-48bb-a709-ec935a895ca7
 card-slug: zeli
 persona-slug: zeli

@@ -1,6 +1,7 @@
 ---
 page-type-slug: idle-persona-card
 id: d4075ebd-bc0d-58b2-bff1-b1282213c96c
+slug: elaine
 player-id: 9ba554f7-cb18-48bb-a709-ec935a895ca7
 card-slug: elaine
 persona-slug: elaine

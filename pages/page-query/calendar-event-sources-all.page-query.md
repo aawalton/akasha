@@ -1,5 +1,6 @@
 ---
 id: 5cf0e3be-75ec-5556-84fc-9d9313dbf522
+slug: calendar-event-sources-all
 page-type-slug: page-query
 title: "Calendar event sources all"
 page-type: calendar-event-source

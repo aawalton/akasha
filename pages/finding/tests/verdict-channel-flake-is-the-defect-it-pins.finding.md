@@ -1,5 +1,6 @@
 ---
 id: 00523f35-e6ad-5eb6-8569-54d4038da8b0
+slug: verdict-channel-flake-is-the-defect-it-pins
 page-type-slug: finding
 title: "Verdict channel flake is the defect it pins"
 domain-slug: domain/global

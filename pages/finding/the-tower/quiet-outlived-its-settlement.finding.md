@@ -1,5 +1,6 @@
 ---
 id: 816ab9a8-eceb-558d-ae3d-5d65b8aea3d0
+slug: quiet-outlived-its-settlement
 page-type-slug: finding
 title: "Quiet outlived its settlement"
 domain-slug: domain/global

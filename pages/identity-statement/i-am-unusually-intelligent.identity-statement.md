@@ -1,6 +1,7 @@
 ---
 page-type-slug: identity-statement
 id: 019ea810-ad72-7000-8d8f-992def722f47
+slug: i-am-unusually-intelligent
 title: "I am unusually intelligent"
 icon: "file-text"
 status: current

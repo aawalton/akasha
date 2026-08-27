@@ -1,5 +1,6 @@
 ---
 id: 3bb8ec5b-2f3b-56c2-adf6-64114d689e79
+slug: row-and-branch-answer-different-questions
 page-type-slug: finding
 title: "Row and branch answer different questions"
 domain-slug: domain/work-system

@@ -1,6 +1,7 @@
 ---
 page-type-slug: identity-statement
 id: 019ea810-b007-769d-9746-767193ca6049
+slug: my-psychological-gender-is-autistic
 title: "My psychological gender is autistic"
 icon: "file-text"
 status: deprecated

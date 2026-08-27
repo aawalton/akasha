@@ -1,5 +1,6 @@
 ---
 id: 761b849a-0046-5cb1-8e6c-648f6f8771f8
+slug: positional-alias-missing
 page-type-slug: refusal
 title: "Positional alias missing"
 holes:

@@ -1,5 +1,6 @@
 ---
 id: f5448f9c-39d2-5218-9612-a9d757727992
+slug: category-rules-overlap
 page-type-slug: refusal
 title: "Category rules overlap"
 holes:

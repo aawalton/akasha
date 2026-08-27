@@ -1,5 +1,6 @@
 ---
 id: 52b7b0c7-81f7-51e0-a131-d30cb8007609
+slug: lead-rulings-stand-only-in-quarantine
 page-type-slug: finding
 title: "Lead rulings stand only in quarantine"
 domain-slug: domain/visual-arts

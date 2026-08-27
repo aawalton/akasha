@@ -1,5 +1,6 @@
 ---
 id: 32d656c4-468c-5da6-a2fa-5d65a4e38eed
+slug: inbound-import-unresolved
 page-type-slug: refusal
 title: "Inbound import unresolved"
 holes:

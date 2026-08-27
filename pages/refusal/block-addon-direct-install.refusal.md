@@ -1,5 +1,6 @@
 ---
 id: db1d5fd0-3f6c-5393-a4b2-7d68d4ab9f2f
+slug: block-addon-direct-install
 page-type-slug: refusal
 title: "Block addon direct install"
 ---

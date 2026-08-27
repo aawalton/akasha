@@ -1,5 +1,6 @@
 ---
 id: ea737798-4a64-5df1-86f3-892025f14270
+slug: claude-md-symlink-race-silently-drops-load
 page-type-slug: finding
 title: "Claude MD symlink race silently drops load"
 domain-slug: host/workstation

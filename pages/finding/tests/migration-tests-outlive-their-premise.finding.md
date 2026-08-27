@@ -1,5 +1,6 @@
 ---
 id: faa389d6-1099-5c86-80eb-d9579f92f458
+slug: migration-tests-outlive-their-premise
 page-type-slug: finding
 title: "Migration tests outlive their premise"
 domain-slug: domain/global

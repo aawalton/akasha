@@ -1,5 +1,6 @@
 ---
 id: c37eb02f-e12d-5412-81f3-9ad1d59ea9d1
+slug: iris-fleet-already-retired
 page-type-slug: finding
 title: "Iris fleet already retired"
 domain-slug: domain/global

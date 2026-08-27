@@ -1,5 +1,6 @@
 ---
 id: e6a55413-42d4-5f1a-ad7d-72c37b27da6b
+slug: armour-slot-unrendered
 page-type-slug: finding
 title: "Armour slot unrendered"
 domain-slug: domain/global

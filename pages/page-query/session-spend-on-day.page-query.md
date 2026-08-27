@@ -1,5 +1,6 @@
 ---
 id: 945d7adf-a76a-5108-9512-7f4f351a0d72
+slug: session-spend-on-day
 page-type-slug: page-query
 title: "Session spend on day"
 page-type: session-tracking

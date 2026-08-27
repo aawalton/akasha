@@ -1,5 +1,6 @@
 ---
 id: 6194d30e-06b4-5bbd-a41c-d12c2ba90379
+slug: page-key-undeclared
 page-type-slug: refusal
 title: "Page key undeclared"
 holes:

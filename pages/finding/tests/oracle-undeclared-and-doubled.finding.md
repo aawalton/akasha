@@ -1,5 +1,6 @@
 ---
 id: 25aebf77-1e1c-5444-b68d-056af478e220
+slug: oracle-undeclared-and-doubled
 page-type-slug: finding
 title: "Oracle undeclared and doubled"
 domain-slug: domain/global

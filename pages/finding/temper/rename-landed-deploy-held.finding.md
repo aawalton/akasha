@@ -1,5 +1,6 @@
 ---
 id: 205bb186-7d5b-5dd3-849d-df533b64290c
+slug: rename-landed-deploy-held
 page-type-slug: finding
 title: "Rename landed deploy held"
 domain-slug: domain/946

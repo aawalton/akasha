@@ -1,5 +1,6 @@
 ---
 id: b7717267-4b5a-56e9-83f1-cb794e140822
+slug: finding-misfiled
 page-type-slug: refusal
 title: "Finding misfiled"
 holes:

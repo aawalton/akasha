@@ -1,5 +1,6 @@
 ---
 id: c7d3916c-6c67-56a3-954c-723d68c11ee6
+slug: assertions-and-mocks-too-narrow
 page-type-slug: finding
 title: "Assertions and mocks too narrow"
 domain-slug: domain/test

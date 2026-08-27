@@ -1,5 +1,6 @@
 ---
 id: 7b29c44e-d95f-5b45-a1d5-1d77f6fba4d9
+slug: file-part-read
 page-type-slug: refusal
 title: "File part read"
 holes:

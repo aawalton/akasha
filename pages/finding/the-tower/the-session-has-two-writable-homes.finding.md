@@ -1,5 +1,6 @@
 ---
 id: 09de3299-cfc8-5cbc-bbc3-d2c22e16f90b
+slug: the-session-has-two-writable-homes
 page-type-slug: finding
 title: "The session has two writable homes"
 domain-slug: domain/global

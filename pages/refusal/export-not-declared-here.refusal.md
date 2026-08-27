@@ -1,5 +1,6 @@
 ---
 id: cf99c10f-25ac-5394-a7d6-2c4c36d7f254
+slug: export-not-declared-here
 page-type-slug: refusal
 title: "Export not declared here"
 holes:

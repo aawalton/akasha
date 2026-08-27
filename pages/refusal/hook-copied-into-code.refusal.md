@@ -1,5 +1,6 @@
 ---
 id: 3f178391-c156-5013-a90a-bb963bd77616
+slug: hook-copied-into-code
 page-type-slug: refusal
 title: "Hook copied into code"
 holes:

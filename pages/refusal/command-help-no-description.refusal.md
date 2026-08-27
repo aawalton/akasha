@@ -1,5 +1,6 @@
 ---
 id: 15bcc595-51ac-5610-883c-c4c0b95bb6e8
+slug: command-help-no-description
 page-type-slug: refusal
 title: "Command help no description"
 holes:

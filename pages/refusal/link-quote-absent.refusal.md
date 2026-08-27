@@ -1,5 +1,6 @@
 ---
 id: bffd50c8-1c99-5d62-93a5-db75af9a837e
+slug: link-quote-absent
 page-type-slug: refusal
 title: "Link quote absent"
 holes:

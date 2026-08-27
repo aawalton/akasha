@@ -1,5 +1,6 @@
 ---
 id: 5072979d-4649-57a3-a693-de1699a56edf
+slug: tasks-entry-names-no-trigger
 page-type-slug: finding
 title: "Tasks entry names no trigger"
 domain-slug: domain/global

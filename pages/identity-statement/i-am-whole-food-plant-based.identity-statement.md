@@ -1,6 +1,7 @@
 ---
 page-type-slug: identity-statement
 id: 019ea810-a37e-7a29-b31e-004f0245a7bd
+slug: i-am-whole-food-plant-based
 title: "I am whole food plant-based"
 icon: "file-text"
 status: in-progress

@@ -1,5 +1,6 @@
 ---
 id: aefd6580-d6e5-501f-bc5a-4a2118eee5b8
+slug: tests-share-mutable-state
 page-type-slug: finding
 title: "Tests share mutable state"
 domain-slug: domain/test

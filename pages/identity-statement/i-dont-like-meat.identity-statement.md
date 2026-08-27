@@ -1,6 +1,7 @@
 ---
 page-type-slug: identity-statement
 id: 019ea810-a179-712b-8a8c-e0ddddafd8f1
+slug: i-dont-like-meat
 title: "I don’t like meat"
 icon: "file-text"
 status: planned

@@ -1,5 +1,6 @@
 ---
 id: 91e794c4-763c-50a4-a750-fca808f078ab
+slug: bash-env-settings-absent
 page-type-slug: refusal
 title: "Bash env settings absent"
 ---

@@ -1,5 +1,6 @@
 ---
 id: 8d8f3a32-761f-5728-a28c-ef297999872c
+slug: count-agreement-read-as-two-processes
 page-type-slug: finding
 title: "Count agreement read as two processes"
 domain-slug: domain/global

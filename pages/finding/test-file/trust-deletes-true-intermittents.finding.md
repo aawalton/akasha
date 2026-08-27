@@ -1,5 +1,6 @@
 ---
 id: d3f8e698-4a84-516c-b11d-e37c47de609d
+slug: trust-deletes-true-intermittents
 page-type-slug: finding
 title: "Trust deletes true intermittents"
 domain-slug: domain/test-file

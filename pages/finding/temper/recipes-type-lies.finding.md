@@ -1,5 +1,6 @@
 ---
 id: 9de11d00-3c1b-5067-8f86-1e298d100e1e
+slug: recipes-type-lies
 page-type-slug: finding
 title: "Recipes type lies"
 domain-slug: domain/946

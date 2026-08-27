@@ -1,5 +1,6 @@
 ---
 id: 763fde63-e942-56b9-b5a3-30dfd41d591a
+slug: link-target-absent
 page-type-slug: refusal
 title: "Link target absent"
 holes:

@@ -1,5 +1,6 @@
 ---
 id: f339d821-b28d-5dbc-9974-b674d040e6a4
+slug: dom-guard-misdirects-nested-root
 page-type-slug: finding
 title: "Dom guard misdirects nested root"
 domain-slug: domain/global

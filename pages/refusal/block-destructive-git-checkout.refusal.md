@@ -1,5 +1,6 @@
 ---
 id: 9b66d80d-b60f-5669-8a10-a5e2d4c13e95
+slug: block-destructive-git-checkout
 page-type-slug: refusal
 title: "Block destructive git checkout"
 ---

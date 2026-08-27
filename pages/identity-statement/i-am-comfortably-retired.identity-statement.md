@@ -1,6 +1,7 @@
 ---
 page-type-slug: identity-statement
 id: 019ea810-ad04-7400-899d-55b1bcc17a75
+slug: i-am-comfortably-retired
 title: "I am comfortably retired"
 icon: "file-text"
 status: current

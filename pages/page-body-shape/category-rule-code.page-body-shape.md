@@ -2,6 +2,7 @@
 page-type-slug: page-body-shape
 title: "Category rule code"
 id: 01a0006f-606d-7008-8649-3300b51664eb
+slug: category-rule-code
 extends-slug: none
 blocks:
   match:

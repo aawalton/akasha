@@ -1,5 +1,6 @@
 ---
 id: aaf448f6-9a2d-5e68-bcef-5518df2dbfbe
+slug: page-key-attachment
 page-type-slug: refusal
 title: "Page key attachment"
 holes:

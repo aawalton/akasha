@@ -1,5 +1,6 @@
 ---
 id: 4614ec2e-aeb7-5fd5-8090-8eedb5903d4d
+slug: championed-domain-claimed-by-another
 page-type-slug: refusal
 title: "Championed domain claimed by another"
 holes:

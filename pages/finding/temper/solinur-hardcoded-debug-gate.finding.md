@@ -1,5 +1,6 @@
 ---
 id: 8679aa63-057a-5304-bbd9-895a6e11b76c
+slug: solinur-hardcoded-debug-gate
 page-type-slug: finding
 title: "Solinur hardcoded debug gate"
 domain-slug: domain/946

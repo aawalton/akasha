@@ -2,6 +2,7 @@
 page-type-slug: page-body-shape
 title: "List"
 id: 01a0006c-2ae9-7003-bca2-8a6ea154964c
+slug: list
 extends-slug: domain
 blocks:
   list:

@@ -1,6 +1,7 @@
 ---
 page-type-slug: identity-statement
 id: 019ea810-a73a-70c4-8bb8-e4c4241dfcca
+slug: i-am-audhd
 title: "I am AuDHD"
 icon: "file-text"
 status: current

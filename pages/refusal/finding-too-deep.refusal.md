@@ -1,5 +1,6 @@
 ---
 id: 58edf1ab-dcce-5171-87f8-f4bd70cc236a
+slug: finding-too-deep
 page-type-slug: refusal
 title: "Finding too deep"
 holes:

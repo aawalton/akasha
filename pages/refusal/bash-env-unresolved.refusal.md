@@ -1,5 +1,6 @@
 ---
 id: 88262dbf-668e-586c-b1db-615b95617e1b
+slug: bash-env-unresolved
 page-type-slug: refusal
 title: "Bash env unresolved"
 holes:

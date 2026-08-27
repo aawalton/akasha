@@ -1,6 +1,7 @@
 ---
 page-type-slug: identity-statement
 id: 019ea810-afcf-7488-b489-e55be2438037
+slug: others-distress-is-always-my-fault-and-fixing-it-is-my-responsibility
 title: "Others’  distress is always my fault and fixing it is my responsibility"
 icon: "file-text"
 status: deprecated

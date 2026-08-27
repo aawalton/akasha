@@ -1,5 +1,6 @@
 ---
 id: 8429f91e-052e-586e-813c-ce80b2100c1a
+slug: browser-suite-drives-production
 page-type-slug: finding
 title: "Browser suite drives production"
 domain-slug: domain/global

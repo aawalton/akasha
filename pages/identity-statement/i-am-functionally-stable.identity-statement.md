@@ -1,6 +1,7 @@
 ---
 page-type-slug: identity-statement
 id: 019ea810-b048-738b-bd10-7ca0309d68d9
+slug: i-am-functionally-stable
 title: "I am functionally stable"
 icon: "file-text"
 status: deprecated

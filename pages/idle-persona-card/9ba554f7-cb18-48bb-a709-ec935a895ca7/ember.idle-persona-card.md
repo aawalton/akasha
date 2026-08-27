@@ -1,6 +1,7 @@
 ---
 page-type-slug: idle-persona-card
 id: 422e3b91-c13c-5c86-bfc9-1b3198075872
+slug: ember
 player-id: 9ba554f7-cb18-48bb-a709-ec935a895ca7
 card-slug: ember
 persona-slug: ember

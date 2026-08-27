@@ -1,6 +1,7 @@
 ---
 page-type-slug: identity-statement
 id: 019ea810-a0f8-717c-9ccf-c564d72efbce
+slug: i-am-independently-wealthy
 title: "I am independently wealthy"
 icon: "file-text"
 status: planned

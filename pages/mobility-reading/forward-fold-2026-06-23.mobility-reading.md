@@ -2,6 +2,7 @@
 page-type-slug: mobility-reading
 title: forward-fold 2026-06-23
 id: 019f01e1-becf-7c66-9f1a-ab89cf4fa942
+slug: forward-fold-2026-06-23
 date: 2026-06-23
 side: n-a
 metric: forward-fold

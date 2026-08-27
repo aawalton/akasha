@@ -1,5 +1,6 @@
 ---
 id: 5401e67d-2155-5215-b121-72c98e939ff5
+slug: graph-attribute-claimed-by-both
 page-type-slug: refusal
 title: "Graph attribute claimed by both"
 holes:

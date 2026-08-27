@@ -1,5 +1,6 @@
 ---
 id: b9bcd86b-e253-581f-b518-849ea6eb19b7
+slug: graph-attribute-claimed-by-neither
 page-type-slug: refusal
 title: "Graph attribute claimed by neither"
 holes:

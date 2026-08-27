@@ -1,5 +1,6 @@
 ---
 id: faf44535-5df2-5b56-a757-f9457722cc74
+slug: page-name-key-unwritten
 page-type-slug: refusal
 title: "Page name key unwritten"
 holes:

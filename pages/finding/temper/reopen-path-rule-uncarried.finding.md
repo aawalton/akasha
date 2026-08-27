@@ -1,5 +1,6 @@
 ---
 id: ffdfe3ec-f0dd-534b-9bf0-111a69878027
+slug: reopen-path-rule-uncarried
 page-type-slug: finding
 title: "Reopen path rule uncarried"
 domain-slug: domain/946

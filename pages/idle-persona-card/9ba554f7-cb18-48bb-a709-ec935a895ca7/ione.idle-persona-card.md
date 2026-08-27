@@ -1,6 +1,7 @@
 ---
 page-type-slug: idle-persona-card
 id: 68a8aaac-dc84-556a-8ba1-c1f1c22938d4
+slug: ione
 player-id: 9ba554f7-cb18-48bb-a709-ec935a895ca7
 card-slug: ione
 persona-slug: ione

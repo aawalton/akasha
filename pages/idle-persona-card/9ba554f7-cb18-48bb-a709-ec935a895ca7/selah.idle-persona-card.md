@@ -1,6 +1,7 @@
 ---
 page-type-slug: idle-persona-card
 id: d32cdcc3-2bd3-5ef0-a79b-3978d139c5dc
+slug: selah
 player-id: 9ba554f7-cb18-48bb-a709-ec935a895ca7
 card-slug: selah
 persona-slug: selah

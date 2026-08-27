@@ -2,6 +2,7 @@
 page-type-slug: page-body-shape
 title: "Domain"
 id: 01a0006b-bb89-7000-90d5-1b09e8c5302d
+slug: domain
 extends-slug: none
 blocks:
   definition:

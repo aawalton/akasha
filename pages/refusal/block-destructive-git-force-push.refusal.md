@@ -1,5 +1,6 @@
 ---
 id: 9b15909a-3e00-5083-bfa2-83dcbc0619ad
+slug: block-destructive-git-force-push
 page-type-slug: refusal
 title: "Block destructive git force push"
 ---

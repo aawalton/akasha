@@ -1,5 +1,6 @@
 ---
 id: 206daa6b-9a73-52db-8e93-1e3ca9baaf0f
+slug: link-outside-roots
 page-type-slug: refusal
 title: "Link outside roots"
 holes:

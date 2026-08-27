@@ -1,6 +1,7 @@
 ---
 page-type-slug: idle-persona-card
 id: 690a7ad9-d465-58de-ae27-5823d0ba3b67
+slug: lali
 player-id: 9ba554f7-cb18-48bb-a709-ec935a895ca7
 card-slug: lali
 persona-slug: lali

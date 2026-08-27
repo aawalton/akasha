@@ -1,6 +1,7 @@
 ---
 page-type-slug: idle-persona-card
 id: eb9a6dcc-555b-538d-9e07-e3eb047eb8c2
+slug: zadi
 player-id: 9ba554f7-cb18-48bb-a709-ec935a895ca7
 card-slug: zadi
 persona-slug: zadi

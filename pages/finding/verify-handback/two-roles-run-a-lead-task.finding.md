@@ -1,5 +1,6 @@
 ---
 id: cad412c4-a80a-5574-832e-4aab0322e0c0
+slug: two-roles-run-a-lead-task
 page-type-slug: finding
 title: "Two roles run a lead task"
 domain-slug: task/verify-handback

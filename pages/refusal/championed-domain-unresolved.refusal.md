@@ -1,5 +1,6 @@
 ---
 id: ebf11ab0-2201-5afe-87b8-824ea0635175
+slug: championed-domain-unresolved
 page-type-slug: refusal
 title: "Championed domain unresolved"
 holes:

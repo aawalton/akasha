@@ -1,5 +1,6 @@
 ---
 id: 1b0d18b5-fd49-5cb1-b973-1aee666e654e
+slug: persona-value-unresolved
 page-type-slug: refusal
 title: "Persona value unresolved"
 holes:

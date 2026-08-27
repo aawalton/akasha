@@ -1,5 +1,6 @@
 ---
 id: bf966a45-cfb3-5972-87bb-cb9f55f2ea60
+slug: bash-env-settings-unreadable
 page-type-slug: refusal
 title: "Bash env settings unreadable"
 holes:

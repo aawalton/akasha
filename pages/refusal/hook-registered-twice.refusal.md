@@ -1,5 +1,6 @@
 ---
 id: f6658a83-9737-524e-a584-0130705e909d
+slug: hook-registered-twice
 page-type-slug: refusal
 title: "Hook registered twice"
 holes:

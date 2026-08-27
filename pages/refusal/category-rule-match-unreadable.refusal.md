@@ -1,5 +1,6 @@
 ---
 id: 8bfde790-8f51-560c-b639-d8c1c64d85f6
+slug: category-rule-match-unreadable
 page-type-slug: refusal
 title: "Category rule match unreadable"
 holes:

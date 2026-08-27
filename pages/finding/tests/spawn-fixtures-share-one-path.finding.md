@@ -1,5 +1,6 @@
 ---
 id: 503da381-03b9-56b8-a82d-4ef5cb05986e
+slug: spawn-fixtures-share-one-path
 page-type-slug: finding
 title: "Spawn fixtures share one path"
 domain-slug: domain/global

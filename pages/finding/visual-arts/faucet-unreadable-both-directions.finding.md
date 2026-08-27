@@ -1,5 +1,6 @@
 ---
 id: 5004353a-9378-537f-8019-dd1484479340
+slug: faucet-unreadable-both-directions
 page-type-slug: finding
 title: "Faucet unreadable both directions"
 domain-slug: domain/visual-arts

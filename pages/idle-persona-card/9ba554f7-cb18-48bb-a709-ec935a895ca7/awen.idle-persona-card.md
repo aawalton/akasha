@@ -1,6 +1,7 @@
 ---
 page-type-slug: idle-persona-card
 id: 46691ec6-7dff-5815-b540-6045f4b25b71
+slug: awen
 player-id: 9ba554f7-cb18-48bb-a709-ec935a895ca7
 card-slug: awen
 persona-slug: awen

@@ -1,5 +1,6 @@
 ---
 id: eded3468-7ada-5940-9210-243bae825c0a
+slug: email-rule-match-unreadable
 page-type-slug: refusal
 title: "Email rule match unreadable"
 holes:

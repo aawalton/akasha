@@ -1,5 +1,6 @@
 ---
 id: 3de44a4f-cf59-5b9c-8765-309c85f82b82
+slug: no-live-route-to-gm-load
 page-type-slug: finding
 title: "No live route to gm load"
 domain-slug: domain/global

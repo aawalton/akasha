@@ -1,5 +1,6 @@
 ---
 id: a0025dc4-008c-5fba-92ac-3eb25d93d442
+slug: hook-extra-in-payload
 page-type-slug: refusal
 title: "Hook extra in payload"
 holes:

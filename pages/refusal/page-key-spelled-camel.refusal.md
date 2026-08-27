@@ -1,5 +1,6 @@
 ---
 id: 98d8cffa-8193-5043-98ef-d276799d8cb0
+slug: page-key-spelled-camel
 page-type-slug: refusal
 title: "Page key spelled camel"
 holes:

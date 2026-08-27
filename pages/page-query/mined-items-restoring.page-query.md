@@ -1,5 +1,6 @@
 ---
 id: f5e0920f-ce45-5c82-b9b2-857182780a77
+slug: mined-items-restoring
 page-type-slug: page-query
 title: "Mined items restoring"
 page-type: temper-mined-item

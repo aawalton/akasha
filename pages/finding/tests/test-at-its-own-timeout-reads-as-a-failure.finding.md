@@ -1,5 +1,6 @@
 ---
 id: 8ea69bda-c8f4-5caa-b0f8-49c929f83893
+slug: test-at-its-own-timeout-reads-as-a-failure
 page-type-slug: finding
 title: "Test at its own timeout reads as a failure"
 domain-slug: domain/global

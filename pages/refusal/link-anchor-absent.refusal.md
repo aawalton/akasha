@@ -1,5 +1,6 @@
 ---
 id: e6d366fc-f69f-599b-af5f-cd0faf9e399c
+slug: link-anchor-absent
 page-type-slug: refusal
 title: "Link anchor absent"
 holes:

@@ -1,5 +1,6 @@
 ---
 id: b0133b7a-901a-57b4-a351-8b1a11901e77
+slug: block-destructive-git-amend
 page-type-slug: refusal
 title: "Block destructive git amend"
 ---

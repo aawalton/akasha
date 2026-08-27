@@ -1,5 +1,6 @@
 ---
 id: 50188e09-dc86-5d5c-904e-3c7924e30cb2
+slug: script-names-unregistered
 page-type-slug: finding
 title: "Script names unregistered"
 domain-slug: domain/946

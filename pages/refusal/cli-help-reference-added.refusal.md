@@ -1,5 +1,6 @@
 ---
 id: 39c456fc-6405-5c48-8abf-d74a53a4acad
+slug: cli-help-reference-added
 page-type-slug: refusal
 title: "CLI help reference added"
 holes:

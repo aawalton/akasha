@@ -1,5 +1,6 @@
 ---
 id: 8680085c-3e2f-5984-9852-0d9d829142af
+slug: exposure-framing-outlives-its-correction
 page-type-slug: finding
 title: "Exposure framing outlives its correction"
 domain-slug: domain/visual-arts

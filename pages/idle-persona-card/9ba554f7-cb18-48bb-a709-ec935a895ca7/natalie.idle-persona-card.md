@@ -1,6 +1,7 @@
 ---
 page-type-slug: idle-persona-card
 id: dff8a595-658e-5925-98dd-34234a7f85a8
+slug: natalie
 player-id: 9ba554f7-cb18-48bb-a709-ec935a895ca7
 card-slug: natalie
 persona-slug: natalie

@@ -1,5 +1,6 @@
 ---
 id: d83563cf-0766-5acd-b786-8287dbde2f7e
+slug: domain-unchampioned
 page-type-slug: refusal
 title: "Domain unchampioned"
 holes:

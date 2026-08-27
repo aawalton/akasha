@@ -1,5 +1,6 @@
 ---
 id: 704b22ef-dea5-5255-8fde-472ad4d84493
+slug: alan-value-no-color
 page-type-slug: refusal
 title: "Alan value no color"
 holes:

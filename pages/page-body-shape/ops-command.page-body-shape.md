@@ -1,5 +1,6 @@
 ---
 id: 4adbfe0e-0dfe-5e21-ad41-ec447f4337da
+slug: ops-command
 page-type-slug: page-body-shape
 title: "Ops command"
 extends-slug: domain

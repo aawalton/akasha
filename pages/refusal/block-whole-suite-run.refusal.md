@@ -1,5 +1,6 @@
 ---
 id: 48d959a8-b664-57be-ab46-8b77512d7c5f
+slug: block-whole-suite-run
 page-type-slug: refusal
 title: "Block whole suite run"
 ---

@@ -1,5 +1,6 @@
 ---
 id: bb391e40-752b-5b78-85e7-843d18bda751
+slug: unit-suite-reaches-production-mailbox
 page-type-slug: finding
 title: "Unit suite reaches production mailbox"
 domain-slug: domain/test

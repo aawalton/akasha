@@ -1,5 +1,6 @@
 ---
 id: 1b191455-fa01-519f-8bb2-c7649e37ebb3
+slug: notice-on-row-stamped
 page-type-slug: refusal
 title: "Notice on row stamped"
 holes:

@@ -1,5 +1,6 @@
 ---
 id: fb5e6714-108d-5b88-ab84-5e240075a315
+slug: page-select-states-no-values
 page-type-slug: refusal
 title: "Page select states no values"
 holes:

@@ -1,6 +1,7 @@
 ---
 page-type-slug: idle-persona-card
 id: 3025a001-9418-51e5-a765-164659ccdf58
+slug: astra
 player-id: 9ba554f7-cb18-48bb-a709-ec935a895ca7
 card-slug: astra
 persona-slug: astra

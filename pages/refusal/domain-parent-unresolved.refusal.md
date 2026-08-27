@@ -1,5 +1,6 @@
 ---
 id: 53f9b7b0-af87-5da0-9b09-781db4dff43f
+slug: domain-parent-unresolved
 page-type-slug: refusal
 title: "Domain parent unresolved"
 holes:

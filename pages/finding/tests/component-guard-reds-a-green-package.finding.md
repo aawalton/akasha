@@ -1,5 +1,6 @@
 ---
 id: 3914b3d6-7d96-5db2-94e0-be0c5857e75c
+slug: component-guard-reds-a-green-package
 page-type-slug: finding
 title: "Component guard reds a green package"
 domain-slug: domain/global

@@ -1,5 +1,6 @@
 ---
 id: 9b89eefa-84cf-5a61-907e-c83decd7ce77
+slug: classification-needs-what-code-cannot-say
 page-type-slug: finding
 title: "Classification needs what code cannot say"
 domain-slug: domain/test

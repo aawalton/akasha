@@ -1,5 +1,6 @@
 ---
 id: 01a010e2-e03a-7000-8bdd-b21003c630d7
+slug: review-instructions-report
 page-type-slug: page-body-shape
 title: "Review instructions report"
 extends-slug: none

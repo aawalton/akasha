@@ -1,5 +1,6 @@
 ---
 id: 67e4dadc-41f6-5b32-84d8-0d7b03ffbb46
+slug: agent-page-absent
 page-type-slug: refusal
 title: "Agent page absent"
 holes:

@@ -1,5 +1,6 @@
 ---
 id: 639c461a-b454-5f8c-ae1e-1ad389969762
+slug: persona-champion-unreciprocated
 page-type-slug: refusal
 title: "Persona champion unreciprocated"
 holes:

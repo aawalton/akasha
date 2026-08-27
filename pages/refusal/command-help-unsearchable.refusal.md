@@ -1,5 +1,6 @@
 ---
 id: ea629fcd-c7bd-5040-b44e-68186415c2b6
+slug: command-help-unsearchable
 page-type-slug: refusal
 title: "Command help unsearchable"
 holes:

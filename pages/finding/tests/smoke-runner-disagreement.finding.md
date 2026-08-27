@@ -1,5 +1,6 @@
 ---
 id: 24240565-7fae-571c-9d3c-fa4ad3179432
+slug: smoke-runner-disagreement
 page-type-slug: finding
 title: "Smoke runner disagreement"
 domain-slug: domain/global

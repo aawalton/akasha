@@ -1,6 +1,7 @@
 ---
 page-type-slug: identity-statement
 id: 019ea810-abf2-7594-b0b9-5f75e82da4a8
+slug: i-am-profoundly-neurodivergent
 title: "I am profoundly neurodivergent"
 icon: "file-text"
 status: current

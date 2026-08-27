@@ -1,5 +1,6 @@
 ---
 id: 2b1a93e9-1389-5531-aa5c-fdde1742b0fc
+slug: fixture-date-outruns-its-window
 page-type-slug: finding
 title: "Fixture date outruns its window"
 domain-slug: domain/global

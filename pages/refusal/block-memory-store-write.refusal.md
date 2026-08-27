@@ -1,5 +1,6 @@
 ---
 id: 64db051d-04d1-5607-bcb0-4a43b2a803c0
+slug: block-memory-store-write
 page-type-slug: refusal
 title: "Block memory store write"
 holes:

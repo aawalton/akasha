@@ -1,6 +1,7 @@
 ---
 page-type-slug: idle-persona-card
 id: fbc3afc9-26dc-5bc1-be16-935c43ea11ba
+slug: rhia
 player-id: 9ba554f7-cb18-48bb-a709-ec935a895ca7
 card-slug: rhia
 persona-slug: rhia

@@ -2,6 +2,7 @@
 page-type-slug: proposition
 title: "The Proof System of L"
 id: 019f0f59-86c7-72a0-9f2f-ea23fa07f6fd
+slug: the-proof-system-of-l
 kind: definition
 status: adopted
 ---
