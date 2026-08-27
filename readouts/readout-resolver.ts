@@ -140,8 +140,11 @@ export async function resolveReadoutGroup(groupSlug: string): Promise<ResolvedRe
     )
   }
   const named: string[] = []
+  const drawn: string[] = []
   for (const [slug, row] of catalog.readouts) {
-    if ((row.groupSlugs ?? []).includes(groupSlug)) named.push(slug)
+    if (!(row.groupSlugs ?? []).includes(groupSlug)) continue
+    named.push(slug)
+    if (row.enabled) drawn.push(slug)
   }
   if (named.length === 0) {
     throw new Error(
@@ -149,8 +152,14 @@ export async function resolveReadoutGroup(groupSlug: string): Promise<ResolvedRe
         "group would draw as an empty strip"
     )
   }
+  // Every member disabled is a group turned off on purpose, and it draws nothing without a
+  // word. The throw above is for a group NOBODY named, which is a group that lost its members
+  // by accident; telling the two apart is the whole reason `enabled` is read here.
+  if (drawn.length === 0) {
+    return { slug: groupSlug, sortOrder, readouts: [], unresolved: new Map() }
+  }
   const settled = await Promise.all(
-    named.map(async (slug) => {
+    drawn.map(async (slug) => {
       try {
         return { slug, readout: await resolveReadout(slug), why: "" }
       } catch (error) {

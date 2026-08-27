@@ -38,6 +38,7 @@ export interface ReadoutRow {
   readonly earnedKey: string | null
   readonly wireKey: string | null
   readonly groupSlugs: readonly string[]
+  readonly enabled: boolean
 }
 
 export interface ReadoutRows {
@@ -161,6 +162,7 @@ function rowOf(slug: string, fm: ReturnType<typeof blockOf>["fm"]): ReadoutRow {
     earnedKey: stringAt(fm, "earned-key"),
     wireKey: stringAt(fm, "wire-key"),
     groupSlugs: listField(fm, "group-slugs"),
+    enabled: stringAt(fm, "enabled") !== "false",
   }
 }
 
