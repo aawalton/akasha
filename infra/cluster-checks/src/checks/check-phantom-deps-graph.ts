@@ -31,7 +31,7 @@ import {
   SKIP_SPECIFIERS,
 } from "./check-phantom-deps-filters.ts"
 
-const IMAGE_CLOSURE_REF = "packages/infra/scripts/src/generate-dockerfiles-deps.ts"
+const IMAGE_CLOSURE_REF = "infra/scripts/src/generate-dockerfiles-deps.ts"
 
 const MANIFEST = "package.json"
 
