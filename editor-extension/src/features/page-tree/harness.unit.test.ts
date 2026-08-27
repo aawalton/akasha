@@ -4,15 +4,20 @@
  *--------------------------------------------------------------------------------------------*/
 
 /**
- * What this extension will and will not accept from the page query service.
+ * What this extension will and will not accept from a page query.
  *
  * THE BOUNDARY MOVED AND THESE MOVED WITH IT. This used to parse a tree another repository's command
- * had already composed. The service answers rows now, so what these hold is that a changed envelope
- * is refused rather than half-read, and that one query failing takes the whole read down. The shape
+ * had already composed. Queries answer rows now, so what these hold is that a changed envelope is
+ * refused rather than half-read, and that one query failing takes the whole read down. The shape
  * built out of the rows is `assemble.unit.test.ts`.
+ *
+ * WHAT IS NO LONGER TESTED HERE. The read went over HTTP and owned the wire failures: a non-2xx
+ * status, a body that is not JSON. It takes an `Ask` now and is handed an answer already shaped, so
+ * neither can reach it. A query that cannot be answered refuses, and that case is kept.
  */
 import { describe, expect, test } from 'bun:test';
-import { type Fetcher, askQuery, countPages, countRows, documentPath, parseAnswer, readPageTree } from "./harness"
+import type { Ask } from '../../../../readouts/readout-resolver.ts';
+import { askQuery, countPages, countRows, documentPath, parseAnswer, readPageTree } from "./harness"
 import { type PageNode, type QueryRow, assemblePageTree } from "./assemble";
 
 const REPO = '/home/walton/repos/akasha';
@@ -29,14 +34,12 @@ const PROPERTIES: readonly QueryRow[] = [
 	},
 ];
 
-const answer = (rows: readonly QueryRow[]) => ({ n: rows.length, rows });
+const answer = (rows: readonly QueryRow[]) =>
+	({ n: rows.length, rows, value: null, over: null, faults: [], omitted: [], unfound: [] });
 
 /** Every query answers, each with the rows its name calls for and nothing else. */
-const serving = (byslug: Readonly<Record<string, readonly QueryRow[]>>): Fetcher =>
-	async (url) => {
-		const slug = url.slice(url.lastIndexOf('/') + 1);
-		return { ok: true, status: 200, json: async () => answer(byslug[slug] ?? []) } as unknown as Response;
-	};
+const serving = (byslug: Readonly<Record<string, readonly QueryRow[]>>): Ask =>
+	(slug) => Promise.resolve(answer(byslug[slug] ?? []));
 
 const WHOLE = serving({ 'page-type-all': TYPES, 'page-property-definition-all': PROPERTIES });
 
@@ -70,21 +73,10 @@ describe('askQuery', () => {
 		expect(await askQuery('page-type-all', WHOLE)).toHaveLength(2);
 	});
 
-	test('a service that is down is an error naming the query and the url', async () => {
-		const dead: Fetcher = async () => { throw new Error('connect ECONNREFUSED 127.0.0.1:8787'); };
-		await expect(askQuery('page-type-all', dead)).rejects.toThrow(/page-type-all went unasked/);
-		await expect(askQuery('page-type-all', dead)).rejects.toThrow(/8787/);
-	});
-
-	test('a refusal is reported with its status rather than read as no pages', async () => {
-		const refusing: Fetcher = async () => ({ ok: false, status: 404 }) as unknown as Response;
-		await expect(askQuery('page-type-all', refusing)).rejects.toThrow(/replied 404/);
-	});
-
-	test('a body that is not JSON is an error rather than a crash inside the tree', async () => {
-		const notJson: Fetcher = async () =>
-			({ ok: true, status: 200, json: async () => { throw new Error('bad'); } }) as unknown as Response;
-		await expect(askQuery('page-type-all', notJson)).rejects.toThrow(/is not JSON/);
+	test('a query that cannot be answered is an error naming the query', async () => {
+		const refusing: Ask = () => Promise.reject(new Error('no page query is named `page-type-all`'));
+		await expect(askQuery('page-type-all', refusing)).rejects.toThrow(/page-type-all went unasked/);
+		await expect(askQuery('page-type-all', refusing)).rejects.toThrow(/no page query is named/);
 	});
 });
 
@@ -101,10 +93,10 @@ describe('readPageTree', () => {
 	 * to take the whole read down rather than resolve.
 	 */
 	test('one query failing fails the read rather than drawing a tree missing its rows', async () => {
-		const half: Fetcher = async (url) =>
-			url.endsWith('page-property-definition-all')
-				? ({ ok: false, status: 500 }) as unknown as Response
-				: ({ ok: true, status: 200, json: async () => answer([]) }) as unknown as Response;
+		const half: Ask = (slug) =>
+			slug === 'page-property-definition-all'
+				? Promise.reject(new Error('page-property-definition-all could not be answered'))
+				: Promise.resolve(answer([]));
 		await expect(readPageTree(half)).rejects.toThrow(/page-property-definition-all/);
 	});
 

@@ -4,14 +4,17 @@
  *--------------------------------------------------------------------------------------------*/
 
 /**
- * The page type tree and the property type vocabulary, ASKED FOR as rows from the page query service.
+ * The page type tree and the property type vocabulary, ASKED FOR as rows of named page queries.
  *
  * WHY THIS FILE NO LONGER SPAWNS `ops`. It used to run `ops instructions pages --json` and parse the
- * tree that command composed. That made the editor a caller of another repository's CLI, against
- * `pages/domain/pages-system.md` — "Only the page query service resolves where a page stands, and
- * everything else reaches pages through it" — and against `pages/workstation-service/
- * page-query-service.md` — "Nothing off the workstation reads a page except through the service."
- * So the facts are asked of the service as named page queries and `assemble.ts` nests them.
+ * tree that command composed, which made the editor a caller of another repository's CLI. The facts
+ * are asked as named page queries now and `assemble.ts` nests them.
+ *
+ * WHY IT NO LONGER REACHES THE SERVICE OVER HTTP. It did, with a 60s ceiling, and it was recorded
+ * failing on `page-type-all` at that full minute. The service answers on one thread for every caller
+ * on the workstation; these six asks cost a few hundred milliseconds each answered directly. The
+ * standing intent on the service is that nothing OFF the workstation reads a page except through it,
+ * and the editor is on it.
  *
  * NAMED RATHER THAN COMPOSED, as `pages/page-type/page-query.md` intends: "A product names a page
  * query rather than composing one." All six stand as pages under `pages/page-query/` in the akasha
@@ -24,7 +27,8 @@
 
 import * as path from 'node:path';
 import { z } from 'zod';
-import { PAGE_QUERY_ORIGIN } from '../../../../readouts/ask-over-http.ts';
+import { askHere } from '../../../../readouts/ask-here.ts';
+import type { Ask } from '../../../../readouts/readout-resolver.ts';
 import { akashaRoot } from '../../harness-call';
 import { type PageAnswers, type PageNode, type PageTree, type QueryRow, assemblePageTree } from './assemble';
 
@@ -53,14 +57,7 @@ export const PROPERTY_TYPE_QUERY = 'page-property-type-all';
 export const DOMAIN_QUERY = 'domain-all';
 
 /**
- * The ceiling on one ask. The six run together, so this bounds the whole read. Past a minute the
- * service has not answered and saying so beats a panel that never fills; a wait with no ceiling
- * reports neither success nor failure.
- */
-const ASK_CEILING_MS = 60_000;
-
-/**
- * The service's envelope, narrowed to what this reads. `at` is the only place a path comes from: a
+ * The answer envelope, narrowed to what this reads. `at` is the only place a path comes from: a
  * query answers `<repo>:<path inside it>`, and that is how a row says which document it stands for.
  */
 const ROW_SCHEMA = z.object({
@@ -146,9 +143,6 @@ function rootOfRepo(repo: string): string | undefined {
 	return undefined;
 }
 
-/** What performs the ask. Injected so the read can be held to an answer without a service running. */
-export type Fetcher = (url: string, init: RequestInit) => Promise<Response>;
-
 /**
  * Ask one named query and answer its rows.
  *
@@ -156,27 +150,14 @@ export type Fetcher = (url: string, init: RequestInit) => Promise<Response>;
  * and can lose one and keep the other; this builds one tree out of six answers, so half an answer is
  * a wrong tree rather than a smaller one, with every type that defines a property drawn bare.
  */
-export async function askQuery(slug: string, fetcher: Fetcher): Promise<readonly QueryRow[]> {
-	const url = `${PAGE_QUERY_ORIGIN}/q/${slug}`;
-	let response: Response;
+export async function askQuery(slug: string, ask: Ask): Promise<readonly QueryRow[]> {
+	let answer: Awaited<ReturnType<Ask>>;
 	try {
-		response = await fetcher(url, {
-			headers: { accept: 'application/json' },
-			signal: AbortSignal.timeout(ASK_CEILING_MS),
-		});
+		answer = await ask(slug, {});
 	} catch (cause) {
-		throw new Error(`${slug} went unasked: ${url} gave no answer within ${ASK_CEILING_MS}ms (${String(cause)})`);
+		throw new Error(`${slug} went unasked: ${String(cause)}`);
 	}
-	if (!response.ok) {
-		throw new Error(`${slug} went unanswered: the page query service replied ${response.status}`);
-	}
-	let body: unknown;
-	try {
-		body = await response.json();
-	} catch (cause) {
-		throw new Error(`${slug} replied with what is not JSON (${String(cause)})`);
-	}
-	return parseAnswer(body, slug);
+	return parseAnswer(answer, slug);
 }
 
 /**
@@ -185,9 +166,9 @@ export async function askQuery(slug: string, fetcher: Fetcher): Promise<readonly
  * EVERY ASK TOGETHER, because no answer is usable without the rest and running them in turn would
  * pay every latency for no gain.
  */
-export async function readPageTree(fetcher: Fetcher = fetch): Promise<PageTree> {
+export async function readPageTree(ask: Ask = askHere()): Promise<PageTree> {
 	const slugs = [...TYPE_QUERIES, ...PROPERTY_QUERIES, PROPERTY_TYPE_QUERY, DOMAIN_QUERY];
-	const answered = await Promise.all(slugs.map(async (slug) => askQuery(slug, fetcher)));
+	const answered = await Promise.all(slugs.map(async (slug) => askQuery(slug, ask)));
 	const at = (slug: string): readonly QueryRow[] => answered[slugs.indexOf(slug)] ?? [];
 	const answers: PageAnswers = {
 		types: TYPE_QUERIES.flatMap((slug) => [...at(slug)]),
