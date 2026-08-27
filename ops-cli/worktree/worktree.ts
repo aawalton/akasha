@@ -1,4 +1,4 @@
-import { existsSync, readdirSync } from "node:fs"
+import { existsSync } from "node:fs"
 import { join } from "node:path"
 import { placeDirOf } from "../../page/page-types.ts"
 
@@ -46,7 +46,7 @@ export function ran(root: string, args: readonly string[]): Said {
   }
 }
 
-export function everyTreeHere(root: string): readonly Claimed[] {
+function everyTreeHere(root: string): readonly Claimed[] {
   const listed = ran(root, ["worktree", "list", "--porcelain"])
   if (!listed.ok) fail(`git could not list akasha's worktrees:\n${listed.said}`)
   const claimed: Claimed[] = []
@@ -82,16 +82,8 @@ export function treeAtCwd(trees: readonly Tree[]): Tree | null {
   return trees.find((one) => one.at === here.said) ?? null
 }
 
-export function pageRelOf(name: string): string {
+function pageRelOf(name: string): string {
   return `${placeDirOf(PAGE_TYPE)}/${name}${PAGE_ENDING}`
-}
-
-export function namesPaged(memoryRoot: string): readonly string[] {
-  const at = join(memoryRoot, placeDirOf(PAGE_TYPE))
-  if (!existsSync(at)) return []
-  return readdirSync(at)
-    .filter((one) => one.endsWith(PAGE_ENDING))
-    .map((one) => one.slice(0, one.length - PAGE_ENDING.length))
 }
 
 export function pageOf(memoryRoot: string, name: string): string {
