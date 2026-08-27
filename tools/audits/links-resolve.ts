@@ -26,7 +26,7 @@ export const linksResolve: Check = (repo) => {
     for (const link of unresolved(links)) {
       if (quotedOnly && link.status !== "missing-quote") continue
       if (link.absolutePath !== null && isMortalPage(link.absolutePath, roots)) continue
-      const message = linkWords(link, `${relPath}:${link.line}`, repo.roots.instructions)
+      const message = linkWords(link, `${relPath}:${link.line}`, repo.roots.akasha)
       if (isDirty(relPath)) dirtyFailures.push(message)
       else cleanFailures.push(message)
     }

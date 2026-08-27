@@ -50,7 +50,7 @@ export const defaultsNotRequired: Check = (repo) => {
     defaulted += 1
     if (stringAt(fm, REQUIRED) !== "true") continue
     refusals.push(
-      refusalText("property-default-and-required", { path: relPath }, repo.roots.instructions, fromDisk)
+      refusalText("property-default-and-required", { path: relPath }, repo.roots.akasha, fromDisk)
     )
   }
 

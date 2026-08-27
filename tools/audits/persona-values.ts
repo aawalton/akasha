@@ -11,7 +11,7 @@ const PERSONA_TYPE = "persona"
 const VALUE_TYPE = "value"
 
 export const personaValues: Check = (repo) => {
-  const root = repo.roots.instructions
+  const root = repo.roots.akasha
   const found = scan(root)
   const failures: string[] = []
 

@@ -74,7 +74,7 @@ export function registrationsIn(document: unknown): readonly Registration[] {
 }
 
 export const editorExtensionSingle: Check = (repo) => {
-  const root = repo.roots.instructions
+  const root = repo.roots.akasha
   const editor = editorRoot()
   const nothing = over(0, "extension registry(ies) his editor reads")
   const read = fromDisk

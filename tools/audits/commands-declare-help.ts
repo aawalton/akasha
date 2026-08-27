@@ -15,7 +15,7 @@ export const commandsDeclareHelp: AsyncCheck = async (repo) => {
         refusalText(
           "command-help-surface-unread",
           { count: String(unreadable.length), detail: unreadable.slice(0, 5).join("; ") },
-          repo.roots.instructions,
+          repo.roots.akasha,
           fromDisk
         ),
       ]),
@@ -31,7 +31,7 @@ export const commandsDeclareHelp: AsyncCheck = async (repo) => {
       refusalText(
         "command-help-no-description",
         { command: verb.command, source: verb.source ?? "unknown" },
-        repo.roots.instructions,
+        repo.roots.akasha,
         fromDisk
       )
     )

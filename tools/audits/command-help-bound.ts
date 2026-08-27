@@ -114,14 +114,14 @@ export const commandHelpBound: AsyncCheck = async (repo) => {
   if (scanned === null || found === null) {
     return {
       ...judge(NAME, `${codeRoot} could not be searched`, [
-        refusalText("command-help-unsearchable", { root: codeRoot }, repo.roots.instructions, fromDisk),
+        refusalText("command-help-unsearchable", { root: codeRoot }, repo.roots.akasha, fromDisk),
       ]),
       population: over(0, UNIT),
     }
   }
 
   const spelling = new Map<string, Set<string>>()
-  for (const one of [...declaredCommands(repo.roots.instructions), ...forwarderCommands(repo.roots.instructions)]) {
+  for (const one of [...declaredCommands(repo.roots.akasha), ...forwarderCommands(repo.roots.akasha)]) {
     const at = one.source
     if (at === undefined) continue
     spelling.set(one.path.join(" "), spellingOf(at))
@@ -135,7 +135,7 @@ export const commandHelpBound: AsyncCheck = async (repo) => {
     const command = claimedCommand(source, commands)
     if (command === null) {
       messages.push(
-        refusalText("command-help-names-no-command", { path: relative }, repo.roots.instructions, fromDisk)
+        refusalText("command-help-names-no-command", { path: relative }, repo.roots.akasha, fromDisk)
       )
       continue
     }
@@ -151,7 +151,7 @@ export const commandHelpBound: AsyncCheck = async (repo) => {
       refusalText(
         "command-help-flags-drift",
         { path: relative, command, difference },
-        repo.roots.instructions,
+        repo.roots.akasha,
         fromDisk
       )
     )

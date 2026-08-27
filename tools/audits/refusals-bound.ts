@@ -93,7 +93,7 @@ function declaredIn(body: string): string[] {
 const listed = (names: readonly string[]): string => names.map((name) => `\`${name}\``).join(", ")
 
 export const refusalsBound: Check = (repo) => {
-  const root = repo.roots.instructions
+  const root = repo.roots.akasha
   const documents = new Map<string, string[]>()
   const refusals = refusalDirIn(root)
   for (const relPath of new Glob(`${refusals}/*.md`).scanSync(root)) {

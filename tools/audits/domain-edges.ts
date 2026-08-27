@@ -19,7 +19,7 @@ import { fromDisk, refusalText } from "../lib/refusal.ts"
 import { isDirty } from "../../repo/roots/roots"
 
 export const domainEdges: Check = (repo) => {
-  const root = repo.roots.instructions
+  const root = repo.roots.akasha
   const claimants = registryOf(diskFileTree(repo.roots))
   const frontmatter = new Map<string, Frontmatter>()
   for (const relPath of repo.documents) {

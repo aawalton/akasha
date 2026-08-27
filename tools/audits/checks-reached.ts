@@ -80,7 +80,7 @@ export function unreadableRegistrations(
 }
 
 export const checksGoverned: Check = (repo) => {
-  const root = repo.roots.instructions
+  const root = repo.roots.akasha
   const blind = (why: string): CheckOutcome => ({
     ...judge(NAME, `nothing measured — ${why}`, [
       `${NAME} needs at least ${LEAST_REGISTERED} registered check to certify anything and found ` +

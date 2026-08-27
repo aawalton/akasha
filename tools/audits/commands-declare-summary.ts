@@ -7,7 +7,7 @@ import { declaredCommands } from "../ops/declared.ts"
 const NAME = "commands-declare-summary"
 
 export const commandsDeclareSummary: Check = (repo) => {
-  const commands = declaredCommands(repo.roots.instructions)
+  const commands = declaredCommands(repo.roots.akasha)
   const messages: string[] = []
   for (const one of commands) {
     if (one.summary.trim() !== "") continue
@@ -15,7 +15,7 @@ export const commandsDeclareSummary: Check = (repo) => {
       refusalText(
         "command-declares-no-summary",
         { command: one.path.join(" "), source: one.source ?? "unknown" },
-        repo.roots.instructions,
+        repo.roots.akasha,
         fromDisk
       )
     )

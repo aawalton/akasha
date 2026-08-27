@@ -93,7 +93,7 @@ export const pagesNamedAsStated: AsyncCheck = async (repo): Promise<CheckOutcome
 
   const covered = new Map<string, Covered>()
   for (const type of types) {
-    const text = textAt(repo.roots.instructions, type.relPath)
+    const text = textAt(repo.roots.akasha, type.relPath)
     const template = text === null ? null : textField(parseFrontmatter(text), KEY)
     if (template !== null)
       covered.set(type.relPath, { type, template, unfilled: [], filled: [], held: [] })
@@ -135,7 +135,7 @@ export const pagesNamedAsStated: AsyncCheck = async (repo): Promise<CheckOutcome
         refusalText(
           "page-name-key-unwritten",
           { slug: one.type.slug, named: one.template, count: String(seen) },
-          repo.roots.instructions,
+          repo.roots.akasha,
           fromDisk
         )
       )

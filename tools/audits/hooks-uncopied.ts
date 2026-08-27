@@ -50,7 +50,7 @@ function trackedInCode(root: string): readonly string[] | null {
 }
 
 export const hooksUncopied: Check = (repo) => {
-  const root = repo.roots.instructions
+  const root = repo.roots.akasha
   const nothing = over(0, "hook(s) the fleet fires")
   if (!repo.exists(`${root}/${SETTINGS_PATH}`)) {
     return { ...skip(NAME, `${SETTINGS_PATH} is not there, so this repository registers no hook to check`), population: nothing }

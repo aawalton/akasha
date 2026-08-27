@@ -112,7 +112,7 @@ export const propertyTypesBind: Check = (repo) => {
             count: String(properties),
             root: PROPERTY_ROOTS.join("` or `"),
           },
-          repo.roots.instructions,
+          repo.roots.akasha,
           fromDisk
         ),
       ]),
@@ -126,7 +126,7 @@ export const propertyTypesBind: Check = (repo) => {
           refusalText(
             "property-definitions-absent",
             { glob: PROPERTY_GLOBS.join("` or `"), count: String(names.length) },
-            repo.roots.instructions,
+            repo.roots.akasha,
             fromDisk
           ),
         ]
@@ -137,7 +137,7 @@ export const propertyTypesBind: Check = (repo) => {
       ? refusalText(
           "property-type-name-unbound-unused",
           { name: one.name, vocabulary: TYPE_VOCABULARY, engine: ENGINE },
-          repo.roots.instructions,
+          repo.roots.akasha,
           fromDisk
         )
       : refusalText(
@@ -149,7 +149,7 @@ export const propertyTypesBind: Check = (repo) => {
             count: String(one.on.length),
             on: one.on.join(", "),
           },
-          repo.roots.instructions,
+          repo.roots.akasha,
           fromDisk
         )
   )
@@ -158,7 +158,7 @@ export const propertyTypesBind: Check = (repo) => {
     refusalText(
       "property-type-name-undeclared",
       { path: one.on, name: one.name, vocabulary: TYPE_VOCABULARY },
-      repo.roots.instructions,
+      repo.roots.akasha,
       fromDisk
     )
   )

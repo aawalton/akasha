@@ -42,7 +42,7 @@ function argShapeOf(verb: CommandSurface): CommandArgShape {
 }
 
 export const positionalsCoverIdentifiers: AsyncCheck = async (repo) => {
-  const root = repo.roots.instructions
+  const root = repo.roots.akasha
   const { verbs, unreadable } = await commandSurface()
 
   if (unreadable.length > 0) {

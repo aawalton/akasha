@@ -26,7 +26,7 @@ interface Named {
 }
 
 function rootsInRunnerOrder(repo: RepoView): readonly string[] {
-  return [repo.roots.instructions, repo.roots.code]
+  return [repo.roots.akasha, repo.roots.code]
 }
 
 function standsIn(repo: RepoView, ref: string, roots: readonly string[]): string | null {
@@ -37,7 +37,7 @@ function standsIn(repo: RepoView, ref: string, roots: readonly string[]): string
 }
 
 export const codePathsResolve: Check = (repo) => {
-  const root = repo.roots.instructions
+  const root = repo.roots.akasha
   const reaches = codeReaches(root, repo.roots.code)
   const named: Named[] = []
   for (const one of reaches.reaches)

@@ -29,7 +29,7 @@ export const typecheckRepo: Check = (repo) => {
   try {
     const staged: string[] = []
     for (const relPath of new Bun.Glob("**/*.ts").scanSync({
-      cwd: repo.roots.instructions,
+      cwd: repo.roots.akasha,
       onlyFiles: true,
     })) {
       if (isDirty(relPath) || isVendored(relPath)) continue
@@ -38,7 +38,7 @@ export const typecheckRepo: Check = (repo) => {
       staged.push(relPath)
     }
     const files = staged.length
-    writeTsconfig(dir, found.typeRoot, excludesFor(repo.roots.instructions, staged, [], FROM_DISK))
+    writeTsconfig(dir, found.typeRoot, excludesFor(repo.roots.akasha, staged, [], FROM_DISK))
     linkModules(dir)
 
     const run = runTsc(found, dir)

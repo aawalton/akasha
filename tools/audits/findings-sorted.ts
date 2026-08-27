@@ -9,7 +9,7 @@ const DOMAIN_KEY = "domain-slug"
 const STORE = "findings"
 
 export const findingsSorted: Check = (repo) => {
-  const root = repo.roots.instructions
+  const root = repo.roots.akasha
   const store = findingsDirIn(repo.roots.memory)
   const failures: string[] = []
   const folders = new Set<string>()

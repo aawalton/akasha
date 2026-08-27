@@ -114,7 +114,7 @@ export const suiteRuns: AsyncCheck = async (repo) => {
       population: over(0, "test file(s)"),
     }
   }
-  const startedOn = headSha(repo.roots.instructions)
+  const startedOn = headSha(repo.roots.akasha)
   if (startedOn === null) {
     return {
       ...judge(NAME, "git could not read HEAD here, so there is no commit whose suite this could run", [
@@ -123,7 +123,7 @@ export const suiteRuns: AsyncCheck = async (repo) => {
       population: over(0, "test file(s)"),
     }
   }
-  return withSuiteTree(repo.roots.instructions, startedOn, async (tree) => {
+  return withSuiteTree(repo.roots.akasha, startedOn, async (tree) => {
     const considered = unitFiles(tree.at)
     const chosen = selection(tree.at, considered)
     const files = chosen.files
@@ -157,7 +157,7 @@ export const suiteRuns: AsyncCheck = async (repo) => {
       })
       tally = added(tally, tallyOf(run.stdout.toString() + run.stderr.toString(), run.exitCode))
     }
-    const outcome = report(tally, files.length, repo.roots.instructions)
+    const outcome = report(tally, files.length, repo.roots.akasha)
     const onDemand = onDemandFiles(tree.at)
     const held =
       onDemand.length === 0

@@ -43,7 +43,7 @@ export const graphAttributesClaimed: Check = (repo) => {
         refusalText(
           "graph-attribute-claimed-by-both",
           { attribute, recorded: asRecorded.join(", "), computed: asComputed.join(", ") },
-          repo.roots.instructions,
+          repo.roots.akasha,
           fromDisk
         )
       )
@@ -51,7 +51,7 @@ export const graphAttributesClaimed: Check = (repo) => {
     }
     if (asRecorded.length === 0 && asComputed.length === 0) {
       messages.push(
-        refusalText("graph-attribute-claimed-by-neither", { attribute }, repo.roots.instructions, fromDisk)
+        refusalText("graph-attribute-claimed-by-neither", { attribute }, repo.roots.akasha, fromDisk)
       )
     }
   }

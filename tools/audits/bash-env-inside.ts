@@ -16,7 +16,7 @@ export function declaredIn(document: unknown): string | null {
 }
 
 export const bashEnvInside: Check = (repo) => {
-  const root = repo.roots.instructions
+  const root = repo.roots.akasha
   const population = over(0, `${DECLARATION} declaration(s)`)
   if (!repo.exists(`${root}/${SETTINGS_PATH}`)) {
     return {

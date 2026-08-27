@@ -29,7 +29,7 @@ function declared(body: string): Map<string, string> {
 }
 
 export const resumeNotices: Check = (repo) => {
-  const root = repo.roots.instructions
+  const root = repo.roots.akasha
   let body: string
   try {
     body = repo.read(DOCUMENT)

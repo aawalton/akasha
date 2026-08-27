@@ -106,7 +106,7 @@ export function statedTimeouts(source: string): readonly Stated[] {
 }
 
 export const testsBounded: Check = (repo) => {
-  const files = unitFiles(repo.roots.instructions)
+  const files = unitFiles(repo.roots.akasha)
   const named: string[] = []
   for (const relPath of files) {
     for (const one of statedTimeouts(repo.read(relPath))) {
@@ -120,7 +120,7 @@ export const testsBounded: Check = (repo) => {
           refusalText(
             "test-timeout-stated",
             { stated: `${named.length}`, ceiling: `${DEFAULT_CEILING_MS / 1000}` },
-            repo.roots.instructions,
+            repo.roots.akasha,
             fromDisk
           ),
           ...named,

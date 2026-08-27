@@ -108,7 +108,7 @@ function refusalFor(one: CliHelpViolation, root: string): string {
 }
 
 export const cliHelpFlagReferences: AsyncCheck = async (repo) => {
-  const root = repo.roots.instructions
+  const root = repo.roots.akasha
   const empty = over(0, "command surface(s)")
 
   let accepted: readonly string[]
