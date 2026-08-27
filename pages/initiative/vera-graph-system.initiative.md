@@ -49,6 +49,8 @@ A node kind on a `graph-edge` page is a list, by Alan's ruling on 2026-08-27, an
 
 No command reaches code through `codeModule`, by Alan's ruling on 2026-08-27. Where a page says a command is safe against any checkout, that is a permission and not a requirement to load from one.
 
+The relation index names an attachment end, by Alan's ruling on 2026-08-27. It already names a path end under `relation/{property}/{repo}/{path}.jsonl`; an attachment is derived from the naming convention rather than declared, so nothing writes an entry for one, and that is what changes. Replacing the `frontmatter` producer waits on it.
+
 Rootedness is removed as a concept. No edge type carries it and no node type seeds it. `ops graph rooted` and the `deployed` node flag go with it. Whether deleting a file breaks production is asked as a walk from a deployable rather than held as a flag.
 
 ## Code a page names
@@ -124,10 +126,10 @@ The `Said` memo at `build-context.ts` is the one held answer today, keyed by a f
 
 `folder`, `contains` and the list spelling of `node-kind` landed on 2026-08-27. `contains` stores nothing: what holds a node is its key with the last segment cut, and what a folder holds is one indexed pass over that repository's tracked keys.
 
-The relation index already names an end that is no page, filing it under the target's own path as `relation/{property}/{repo}/{path}.jsonl`. It does this for path-typed properties — `script` 95 and `widget-path` 6 under `akasha`, `command-path` 317 under `instructions`, a repo that no longer exists. What it holds nothing for is an attachment, which the producer derives from the naming convention rather than from a declared target: about 4,880 edges, including all 61 `code` relations a page names its implementation with. For page-to-page ends the index is a strict superset of the producer — 0 edges in the walk and not the index, 3,364 the other way — and answers 17 times faster. Filed at `finding/graph-system/relation-index-holds-no-non-page-end`. Whether the index learns to name an attachment end is open and is the next thing needing Alan.
+The relation index already names an end that is no page, filing it under the target's own path as `relation/{property}/{repo}/{path}.jsonl`. It does this for path-typed properties — `script` 95 and `widget-path` 6 under `akasha`, `command-path` 317 under `instructions`, a repo that no longer exists. What it holds nothing for is an attachment, which the producer derives from the naming convention rather than from a declared target: about 4,880 edges, including all 61 `code` relations a page names its implementation with. For page-to-page ends the index is a strict superset of the producer — 0 edges in the walk and not the index, 3,364 the other way — and answers 17 times faster. Filed at `finding/graph-system/relation-index-holds-no-non-page-end`. Alan ruled on 2026-08-27 that the index learns to name an attachment end, so writing those entries is the next piece of work, after which the `frontmatter` producer can go as the ruling above has it.
 
 `edgesInto` asks a producer's `into` and does not walk for it, so an `into` answering only part of its producer's edges makes the rest unreachable rather than slow. Only `contains` offers one today.
 
 Every producer's held answers are filed under one mark hashing the whole engine's import closure, so registering `contains` dropped all 59,376 answers held by `typescript`, which does not import it. Filed at `finding/graph-system/one-mark-drops-every-producers-answers`.
 
-`codeModule` is down to 7 call sites in the four `temper-upstream-data/*/verify.ts` files, from 174 at the start. `tools/lib/code-import.ts`, `tools/lib/code-reaches.ts`, `tools/reaches.ts` and their tests are ablated once it reaches zero.
+`codeModule` reached zero call sites on 2026-08-27, from 174 at the start. `tools/lib/code-import.ts`, `tools/lib/code-reaches.ts`, `tools/reaches.ts` and their tests are the ablation left to take. Converting the last of them found that `ops temper upstream-data verify housing` had been failing on every run, reading `naLibraryData` off a barrel that exports only `euLibraryData`, so the NA half of that port was never checked.
