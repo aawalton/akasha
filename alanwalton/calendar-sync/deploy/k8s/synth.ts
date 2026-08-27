@@ -28,7 +28,7 @@ function cronjobYaml(): string {
                     "bun",
                     "run",
                     "--cwd",
-                    "packages/alanwalton/calendar/sync",
+                    "alanwalton/calendar-sync",
                     "src/run-sync.ts",
                   ],
                   envFrom: [{ secretRef: { name: "alanwalton-secrets" } }],
