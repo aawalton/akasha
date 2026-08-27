@@ -12,7 +12,9 @@ domain-slug: domain/global
 
 # Evidence
 
-Measured 2026-08-04 by this lead, verifying #17846. `classified` in `tools/checks/hooks-delivered.ts` is symmetric across its two arms: a payload entry the repository no longer registers is self-clearing wherever the payload agreed with HEAD at that seat's launch. Driven directly through six constructed cases, a registration present in the payload and dropped from the tree since launch returns `extra.selfClearing`, which yields `advisory` and exit 0.
+Measured 2026-08-04 by this lead, verifying #17846. `classified` is symmetric across its two arms: a payload entry the repository no longer registers is self-clearing wherever the payload agreed with HEAD at that seat's launch. Driven directly through six constructed cases, a registration present in the payload and dropped from the tree since launch returns `extra.selfClearing`, which yields `advisory` and exit 0.
+
+Re-read 2026-08-27 in `/var/home/walton/repos/akasha`, where the check now stands at `tools/audits/hooks-delivered.ts` and is registered in `tools/run-checks.ts:56`. The symmetry is unchanged. `classified` is declared at line 86, and line 103 reads `selfClearing: extra.filter((one) => then.has(one))`. At line 200 each `extra.selfClearing` member is pushed onto `notices` as `hook-dropped-since-launch`, while each `extra.real` member is pushed onto `refusals` — so a live seat carrying a guard the tree has dropped is still a notice and not a refusal.
 
 The symmetry is correct on its own terms and the docblock argues it: the file moved and the payload could not, so nothing written into the tree reaches that seat. What it collapses is severity. Missing a newly added guard and carrying a removed one are both remedied by cycling the seat, but only the second means a live seat is running with an escape the estate has decided to withdraw.
 
