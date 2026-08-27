@@ -16,7 +16,7 @@ Measured 2026-08-07, first-hand, in `~/instructions` and `~/code`.
 
 The five keys are `instructions-path:`, `code-path:`, `memory-path:`, `books-path:` and `stories-path:`, declared at `tools/document/schemas/domain.ts:139-143`.
 
-What validates one: `tools/document/value.ts:38` reads `case "glob": return text.length > 0 ? null : no("an empty glob")`. That is the whole of it. The type carries the repo it is drawn over, so the root to resolve against is known there and is not consulted. `tools/document/schemas/folder.ts:5` narrows the same keys for folder documents to `/^(\*\*|[^*]+\/\*\*)$/`, which constrains the shape and still asks nothing about what it matches.
+What validates one: `page/document/value.ts:39` reads `case "glob": return text.length > 0 ? null : no("an empty glob")`. That is the whole of it. The type carries the repo it is drawn over, so the root to resolve against is known there and is not consulted. `tools/document/schemas/folder.ts:5` narrows the same keys for folder documents to `/^(\*\*|[^*]+\/\*\*)$/`, which constrains the shape and still asks nothing about what it matches.
 
 `rg -ln --multiline --multiline-dotall 'instructions-path|code-path|memory-path|books-path|stories-path' tools/checks/ tools/gates/` returns one file, `tools/gates/repo-agrees.ts`, which decides which repo a path belongs to rather than whether a glob matches. None of the nineteen checks under `tools/checks/` reads any of the five.
 

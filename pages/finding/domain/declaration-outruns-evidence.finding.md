@@ -12,7 +12,7 @@ A domain declared from a count of a word's occurrences, rather than from an inve
 
 # Evidence
 
-`domains/land.md` was declared on 2026-08-06 as "a change joining `main` through the merge queue", from evidence that counted the word across the corpus without separating its senses. Every gate passed, and `run-checks` reported nothing.
+`pages/domain/land.domain.md` was declared on 2026-08-06 as "a change joining `main` through the merge queue", from evidence that counted the word across the corpus without separating its senses. Every gate passed, and `run-checks` reported nothing.
 
 `domains/jargon.md` states that a word declared as a domain carries that one sense on every document using it. Against that, the declaration contradicted three Rules from the moment it landed:
 
