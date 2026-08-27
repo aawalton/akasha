@@ -210,7 +210,7 @@ function installDepsCommands(commitSha: string): readonly string[] {
     '  ln -s $INSTALL_DIR/node_modules "$WS/node_modules" || exit 1',
     "fi",
 
-    'for cfg in $(find "$WS/packages" -name vite.config.ts -not -path "*/node_modules/*"); do',
+    'for cfg in $(find "$WS" -name vite.config.ts -not -path "*/node_modules/*"); do',
     '  mkdir -p "$(dirname "$cfg")/node_modules" || exit 1',
     "done",
   ]
