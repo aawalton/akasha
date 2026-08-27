@@ -9,7 +9,7 @@ parent-slug: aine-global
 
 # Intent
 
-- A page's name is worked out by the formula language, from a formula its page type states.
+- A page's name is a computed property, worked out by the formula language.
 - No code decides a page's name.
 - A page's name is unique among the pages of its page type.
 - `named-for` and `unique-key` no longer exist.
