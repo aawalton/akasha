@@ -1,5 +1,5 @@
 export const summary =
-  "Every clone-derived ESO artifact committed to the code repository whose stamped API version has fallen behind the `~/esoui` clone it was generated from, taken over the tree as it stands. Was the drift arm of `check-eso-typings-fresh`, which compared committed stamps against `$HOME/esoui/ESOUIDocumentation.txt` — a tree no code-repo change can move, and one CI has never had, since CI runs with `HOME=/tmp` and acquires no clone, so that arm silently dropped on every CI run while the check still printed green. The stamp-integrity arm stayed a check, being answerable from the code repository alone. Reports and never refuses on a finding: a stale stamp may want regenerating or may want the clone updated first, and only a reading tells which. Refuses where it could not look — no clone doc, no version header in it, or no clone-derived artifact found — because a run with no clone to compare against must not print like a run that found no drift (--repo-root, --eso-doc, --json)"
+  "Every clone-derived ESO artifact committed to this repository whose stamped API version has fallen behind the `~/esoui` clone it was generated from, taken over the tree as it stands. Was the drift arm of `check-eso-typings-fresh`, which compared committed stamps against `$HOME/esoui/ESOUIDocumentation.txt` — a tree no code-repo change can move, and one CI has never had, since CI runs with `HOME=/tmp` and acquires no clone, so that arm silently dropped on every CI run while the check still printed green. The stamp-integrity arm stayed a check, being answerable from this repository alone. Reports and never refuses on a finding: a stale stamp may want regenerating or may want the clone updated first, and only a reading tells which. Refuses where it could not look — no clone doc, no version header in it, or no clone-derived artifact found — because a run with no clone to compare against must not print like a run that found no drift (--repo-root, --eso-doc, --json)"
 
 import { existsSync, readFileSync, realpathSync } from "node:fs"
 import { resolve } from "node:path"
@@ -24,7 +24,7 @@ export const help: CommandHelp = {
       argLabel: "<path>",
       valueShape: "token",
       description:
-        "Which code checkout to read committed ESO artifacts from; defaults to $CODE_ROOT or $HOME/repos/code",
+        "Which checkout to read committed ESO artifacts from; defaults to $CODE_ROOT, else this repository",
     },
     {
       name: "--eso-doc",

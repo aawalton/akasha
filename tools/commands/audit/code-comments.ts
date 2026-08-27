@@ -1,5 +1,5 @@
 export const summary =
-  "Every file in the code repository carrying a comment that stands outside the approved code comment forms, taken over the tree as it stands. Was `check-code-comments`, which read the forms, the required reading naming its population and the classifier itself out of the instructions repository, so a line off a list document here turned code-repo branches red with no commit near the cause, and narrowing that reading here emptied the population while the check still printed green. Reports and never refuses on a finding: a comment outside the forms may want deleting or may want its content moved to a domain, and only a reading tells which. Refuses where it could not look at all — nothing tracked, no file among them the code comment domain is required reading for, no readable forms list, or nothing left to read after the set-aside — because a run that read no file must not print like a run that found nothing (--repo-root, --json)"
+  "Every file in this repository carrying a comment that stands outside the approved code comment forms, taken over the tree as it stands. Was `check-code-comments`, which read the forms, the required reading naming its population and the classifier itself out of the instructions repository, so a line off a list document here turned code-repo branches red with no commit near the cause, and narrowing that reading here emptied the population while the check still printed green. Reports and never refuses on a finding: a comment outside the forms may want deleting or may want its content moved to a domain, and only a reading tells which. Refuses where it could not look at all — nothing tracked, no file among them the code comment domain is required reading for, no readable forms list, or nothing left to read after the set-aside — because a run that read no file must not print like a run that found nothing (--repo-root, --json)"
 
 import { readFileSync } from "node:fs"
 import { resolve } from "node:path"
@@ -26,7 +26,7 @@ export const help: CommandHelp = {
       name: "--repo-root",
       argLabel: "<path>",
       valueShape: "token",
-      description: "Which code checkout to read for comments; defaults to $CODE_ROOT or $HOME/repos/code",
+      description: "Which checkout to read for comments; defaults to $CODE_ROOT, else this repository",
     },
     {
       name: "--json",

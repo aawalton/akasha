@@ -41,7 +41,7 @@ export const help: CommandHelp = {
     { code: 3, meaning: "operational: the write or the commit failed" },
   ],
   examples: [
-    "ops page secret clear --file-path ~/repos/instructions/pages/claude-account/one.md --key access-token",
+    "ops page secret clear --file-path ~/repos/akasha/pages/claude-account/one.md --key access-token",
   ],
 }
 
