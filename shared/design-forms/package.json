@@ -5,7 +5,7 @@
   "type": "module",
   "private": true,
   "exports": {
-    "./*": "./src/*.ts"
+    "./*": ["./src/*.ts", "./src/*.tsx"]
   },
   "peerDependencies": {
     "react": "^18 || ^19",
