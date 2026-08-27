@@ -38,8 +38,6 @@ import { isAddressable } from "../../repo/roots/roots"
 import { backingOver } from "./page-derive-backing.ts"
 import { type Carries, type Deriver, type Row, WALK_BOUND } from "./page-derive-shape.ts"
 
-export { type Backed, type Carries, type Deriver, type Relation, type Row, WALK_BOUND } from "./page-derive-shape.ts"
-
 const NAMES_NOBODY: ReadonlyMap<string, readonly string[]> = new Map()
 
 export function deriver(roots: Roots, carries: Carries = {}): Deriver {
