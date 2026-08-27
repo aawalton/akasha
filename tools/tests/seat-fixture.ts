@@ -53,11 +53,16 @@ const INDEX_BUILD = `${import.meta.dir}/index-fixture.ts`
  * under `akashaRoot()` — this temp root. The link answers with the live checkout's file, whose own
  * relative imports then resolve inside that checkout rather than in here.
  *
+ * WHAT IS PLANTED IS COMMITTED, not merely staged. `ops write` turns a call addressing akasha into
+ * a patch against HEAD, and a repository with no commit in it has no HEAD to name — the seat
+ * command then reports its page `was not written` with git's `Not a valid object name HEAD`.
+ *
  * CALL THIS AFTER THE LAST PAGE IS PLANTED. A page written afterwards is not in the index and does
  * not resolve; plant, then index again.
  */
 export function indexFixture(at: Fixture): void {
   Bun.spawnSync(["git", "-C", at.root, "add", "-A"])
+  Bun.spawnSync(["git", "-C", at.root, "commit", "-q", "--allow-empty", "-m", "what this fixture plants"])
   const built = Bun.spawnSync(["bun", INDEX_BUILD], {
     cwd: LIVE,
     env: { ...process.env, AKASHA_ROOT: at.root },
