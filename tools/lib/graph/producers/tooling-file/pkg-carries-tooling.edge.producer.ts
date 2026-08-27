@@ -1,7 +1,7 @@
 import { z } from "zod"
 import { defineEdgeProducer } from "../../define-edge-producer.ts"
 import type { EdgeInit, NodeId } from "../../types.ts"
-import { CODE_REPO } from "../lib/constants.ts"
+import { CODE_REPO } from "../../../../../repo/scope/scope.ts"
 import { PACKAGE_NODE_TYPE, WORKSPACE_ROOT_NODE_TYPE } from "../package/types.ts"
 import { RUST_PACKAGE_NODE_TYPE } from "../rust-package/types.ts"
 import {

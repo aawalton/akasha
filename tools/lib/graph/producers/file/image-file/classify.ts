@@ -1,5 +1,5 @@
 import type { NodeInit } from "../../../types.ts"
-import { CODE_REPO } from "../../lib/constants.ts"
+import { CODE_REPO } from "../../../../../../repo/scope/scope.ts"
 import { IMAGE_FILE_NODE_TYPE, type ImageFileAttrs } from "./types.ts"
 
 export const classifyImageFile = (relPath: string): NodeInit<"image-file", ImageFileAttrs> => ({

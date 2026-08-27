@@ -1,6 +1,6 @@
 import { defineNodeProducer } from "../../define-node-producer.ts"
 import type { NodeInit } from "../../types.ts"
-import { CODE_REPO } from "../lib/constants.ts"
+import { CODE_REPO } from "../../../../../repo/scope/scope.ts"
 import { discoverTemperAddons } from "./discover.ts"
 import { TEMPER_ADDON_NODE_TYPE, type TemperAddonAttrs } from "./types.ts"
 

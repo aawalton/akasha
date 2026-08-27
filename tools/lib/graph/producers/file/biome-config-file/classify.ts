@@ -1,5 +1,5 @@
 import type { NodeInit } from "../../../types.ts"
-import { CODE_REPO } from "../../lib/constants.ts"
+import { CODE_REPO } from "../../../../../../repo/scope/scope.ts"
 import { BIOME_CONFIG_FILE_NODE_TYPE, type BiomeConfigFileAttrs } from "./types.ts"
 
 export const classifyBiomeConfigFile = (

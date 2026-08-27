@@ -1,7 +1,7 @@
 import ts from "typescript"
 import { readRepoFile } from "../../repos.ts"
 import type { BuildContext } from "../../types.ts"
-import { INSTRUCTIONS_REPO } from "../lib/constants.ts"
+import { INSTRUCTIONS_REPO } from "../../../../../repo/scope/scope.ts"
 import { repoFiles } from "../lib/repo-files.ts"
 import { createModuleReader, type SourceTree } from "../pipeline/workflow-modules.ts"
 import { type ArgumentMap, createSourceReader, NO_ARGUMENTS } from "../pipeline/workflow-source.ts"

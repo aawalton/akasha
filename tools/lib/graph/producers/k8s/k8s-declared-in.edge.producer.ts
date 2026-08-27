@@ -1,6 +1,6 @@
 import { defineEdgeProducer } from "../../define-edge-producer.ts"
 import type { EdgeInit, Node } from "../../types.ts"
-import { CODE_REPO } from "../lib/constants.ts"
+import { CODE_REPO } from "../../../../../repo/scope/scope.ts"
 import { K8S_DECLARED_IN_EDGE_TYPE, K8S_RESOURCE_NODE_TYPE, type K8sDeclaredInAttrs } from "./types.ts"
 import { K8sResourceAttrsSchema } from "./types-schemas"
 

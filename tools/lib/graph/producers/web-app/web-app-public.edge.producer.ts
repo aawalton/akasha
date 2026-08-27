@@ -1,7 +1,7 @@
 import { defineEdgeProducer } from "../../define-edge-producer.ts"
 import type { EdgeInit, Graph, NodeId } from "../../types.ts"
 import { FILE_NODE_TYPES } from "../file/node-types.ts"
-import { CODE_REPO } from "../lib/constants.ts"
+import { CODE_REPO } from "../../../../../repo/scope/scope.ts"
 import { PACKAGE_NODE_TYPE, PackageAttrsSchema } from "../package/types.ts"
 import { soleOwnerBySlug } from "./web-app-built-from.edge.producer.ts"
 import { WEB_APP_NODE_TYPE, WEB_APP_PUBLIC_EDGE_TYPE, type WebAppPublicAttrs } from "./types.ts"

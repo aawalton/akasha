@@ -1,7 +1,7 @@
 import { z } from "zod"
 import { readRepoFile } from "../../repos.ts"
 import type { BuildContext } from "../../types.ts"
-import { INSTRUCTIONS_REPO } from "./constants.ts"
+import { INSTRUCTIONS_REPO } from "../../../../../repo/scope/scope.ts"
 
 export const CURATION_DIR = "tools/lib/code-audit-ast-unused"
 

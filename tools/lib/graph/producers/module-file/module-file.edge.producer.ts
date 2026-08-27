@@ -2,7 +2,7 @@ import { posix } from "node:path"
 import { defineEdgeProducer } from "../../define-edge-producer.ts"
 import { readRepoFile } from "../../repos.ts"
 import type { BuildContext, EdgeInit, Node } from "../../types.ts"
-import { CODE_REPO } from "../lib/constants.ts"
+import { CODE_REPO } from "../../../../../repo/scope/scope.ts"
 import { MODULE_OPENS_FILE_EDGE_TYPE, type ModuleOpensFileAttrs } from "./types.ts"
 
 const SOURCE_ENDING = ".ts"

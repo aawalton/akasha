@@ -1,6 +1,6 @@
 import { readRepoFile } from "../../../repos.ts"
 import type { BuildContext, NodeInit } from "../../../types.ts"
-import { CODE_REPO } from "../../lib/constants.ts"
+import { CODE_REPO } from "../../../../../../repo/scope/scope.ts"
 import { parseFromLines } from "./extract.ts"
 import { DOCKERFILE_FILE_NODE_TYPE, type DockerfileFileAttrs } from "./types.ts"
 

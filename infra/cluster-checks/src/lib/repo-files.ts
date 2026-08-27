@@ -1,5 +1,5 @@
 import { execFileSync } from "node:child_process"
-import { CHECK_EXEMPT_DIRS } from "../../../../tools/lib/graph/producers/lib/constants.ts"
+import { CHECK_EXEMPT_DIRS } from "../../../../repo/scope/scope.ts"
 
 const GIT_OUTPUT_CEILING = 256 * 1024 * 1024
 

@@ -2,7 +2,7 @@ import { z } from "zod"
 import { defineNodeProducer } from "../../define-node-producer.ts"
 import { readRepoFile } from "../../repos.ts"
 import type { NodeInit } from "../../types.ts"
-import { CODE_REPO } from "../lib/constants.ts"
+import { CODE_REPO } from "../../../../../repo/scope/scope.ts"
 import { repoFiles } from "../lib/repo-files.ts"
 import { RUST_MANIFEST_NAME, RUST_PACKAGE_NODE_TYPE, type RustPackageAttrs } from "./types.ts"
 

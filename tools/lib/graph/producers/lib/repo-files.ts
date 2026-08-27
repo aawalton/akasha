@@ -1,6 +1,6 @@
 import type { Repo } from "../../../../../page/document/types.ts"
 import type { BuildContext } from "../../types.ts"
-import { CHECK_EXEMPT_DIRS } from "./constants.ts"
+import { CHECK_EXEMPT_DIRS } from "../../../../../repo/scope/scope.ts"
 
 export type RepoFilesOptions = {
   readonly includeFixtures?: boolean

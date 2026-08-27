@@ -1,7 +1,7 @@
 import { posix } from "node:path"
 import { readRepoFile } from "../../../repos.ts"
 import type { BuildContext, NodeInit } from "../../../types.ts"
-import { CODE_REPO } from "../../lib/constants.ts"
+import { CODE_REPO } from "../../../../../../repo/scope/scope.ts"
 import { repoTree } from "../../lib/repo-tree.ts"
 import { resolveRepoRelative } from "./discover.ts"
 import {

@@ -9,7 +9,7 @@ import {
   TS_FILE_NODE_TYPES,
   tsFileNodeIdToCodeRepoRel,
 } from "../../../../tools/lib/graph/producers/file/ts-file/types.ts"
-import { CODE_REPO } from "../../../../tools/lib/graph/producers/lib/constants.ts"
+import { CODE_REPO } from "../../../../repo/scope/scope.ts"
 import { readRepoFile } from "../../../../tools/lib/graph/repos.ts"
 import type { BuildContext, Graph } from "../../../../tools/lib/graph/types.ts"
 import { CODE, resolveRoots, rootFor } from "../../../../repo/roots/roots"

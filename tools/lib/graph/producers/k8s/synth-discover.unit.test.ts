@@ -2,7 +2,7 @@ import { execFileSync } from "node:child_process"
 import { posix } from "node:path"
 import { describe, expect, test } from "bun:test"
 import { resolveRoots } from "../../../../../repo/roots/roots"
-import { CODE_REPO } from "../lib/constants.ts"
+import { CODE_REPO } from "../../../../../repo/scope/scope.ts"
 import { serviceRootOf } from "./synth-discover.ts"
 
 const GIT_OUTPUT_CEILING = 64 * 1024 * 1024

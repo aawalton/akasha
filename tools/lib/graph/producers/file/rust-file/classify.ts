@@ -1,5 +1,5 @@
 import type { NodeInit } from "../../../types.ts"
-import { CODE_REPO } from "../../lib/constants.ts"
+import { CODE_REPO } from "../../../../../../repo/scope/scope.ts"
 import { RUST_FILE_NODE_TYPE, type RustFileAttrs } from "./types.ts"
 
 export const classifyRustFile = (relPath: string): NodeInit<"rust-file", RustFileAttrs> => ({

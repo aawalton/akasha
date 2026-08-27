@@ -1,5 +1,5 @@
 import type { NodeInit } from "../../../types.ts"
-import { CODE_REPO } from "../../lib/constants.ts"
+import { CODE_REPO } from "../../../../../../repo/scope/scope.ts"
 import { CERTIFICATE_FILE_NODE_TYPE, type CertificateFileAttrs } from "./types.ts"
 
 export const classifyCertificateFile = (relPath: string): NodeInit<"certificate-file", CertificateFileAttrs> => ({

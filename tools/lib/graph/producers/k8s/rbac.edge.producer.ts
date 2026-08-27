@@ -1,7 +1,7 @@
 import { defineEdgeProducer } from "../../define-edge-producer.ts"
 import { nodeKey } from "../../key.ts"
 import type { EdgeInit, Graph } from "../../types.ts"
-import { CODE_REPO } from "../lib/constants.ts"
+import { CODE_REPO } from "../../../../../repo/scope/scope.ts"
 import { k8sResourceKey } from "../file/yaml-file/types.ts"
 import { PACKAGE_NODE_TYPE } from "../package/types.ts"
 import { profileResourceKinds } from "./k8s-node-builders.ts"

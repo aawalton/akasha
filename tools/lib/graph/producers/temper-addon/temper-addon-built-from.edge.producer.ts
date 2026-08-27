@@ -2,7 +2,7 @@ import { z } from "zod"
 import { defineEdgeProducer } from "../../define-edge-producer.ts"
 import { nodeKey } from "../../key.ts"
 import type { EdgeInit } from "../../types.ts"
-import { CODE_REPO } from "../lib/constants.ts"
+import { CODE_REPO } from "../../../../../repo/scope/scope.ts"
 import { PACKAGE_NODE_TYPE } from "../package/types.ts"
 import {
   TEMPER_ADDON_BUILT_FROM_EDGE_TYPE,

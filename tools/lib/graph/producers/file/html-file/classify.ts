@@ -1,5 +1,5 @@
 import type { NodeInit } from "../../../types.ts"
-import { CODE_REPO } from "../../lib/constants.ts"
+import { CODE_REPO } from "../../../../../../repo/scope/scope.ts"
 import { HTML_FILE_NODE_TYPE, type HtmlFileAttrs } from "./types.ts"
 
 export const classifyHtmlFile = (relPath: string): NodeInit<"html-file", HtmlFileAttrs> => ({

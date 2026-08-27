@@ -1,7 +1,7 @@
 import ts from "typescript"
 import { defineEdgeProducer } from "../../define-edge-producer.ts"
 import type { EdgeInit, Node } from "../../types.ts"
-import { CODE_REPO } from "../lib/constants.ts"
+import { CODE_REPO } from "../../../../../repo/scope/scope.ts"
 import { repoFiles } from "../lib/repo-files.ts"
 import { discoverSynthFiles } from "./synth-discover.ts"
 import { SYNTH_RUNS_ENTRY_EDGE_TYPE, type SynthRunsEntryAttrs } from "./synth-types.ts"

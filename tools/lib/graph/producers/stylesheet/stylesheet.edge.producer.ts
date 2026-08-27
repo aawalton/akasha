@@ -5,7 +5,7 @@ import type { EdgeInit } from "../../types.ts"
 import { CSS_FILE_NODE_TYPE } from "../file/css-file/types.ts"
 import { TS_FILE_NODE_TYPES } from "../file/ts-file/types.ts"
 import { TsFileAttrsSchema } from "../file/ts-file/types-schemas"
-import { CODE_REPO } from "../lib/constants.ts"
+import { CODE_REPO } from "../../../../../repo/scope/scope.ts"
 import { IMPORT_STYLESHEET_EDGE_TYPE, type ImportStylesheetAttrs } from "./types.ts"
 
 const STYLESHEET_SUFFIX = ".css"

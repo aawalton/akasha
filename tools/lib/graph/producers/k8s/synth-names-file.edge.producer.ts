@@ -1,6 +1,6 @@
 import { defineEdgeProducer } from "../../define-edge-producer.ts"
 import type { EdgeInit, Node } from "../../types.ts"
-import { CODE_REPO } from "../lib/constants.ts"
+import { CODE_REPO } from "../../../../../repo/scope/scope.ts"
 import { repoFiles } from "../lib/repo-files.ts"
 import { commandBodies, filesNamedIn } from "./command-body.ts"
 import { discoverSynthFiles } from "./synth-discover.ts"

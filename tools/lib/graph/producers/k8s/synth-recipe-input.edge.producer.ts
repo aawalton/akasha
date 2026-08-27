@@ -1,7 +1,7 @@
 import { posix } from "node:path"
 import { defineEdgeProducer } from "../../define-edge-producer.ts"
 import type { EdgeInit, Node } from "../../types.ts"
-import { CODE_REPO } from "../lib/constants.ts"
+import { CODE_REPO } from "../../../../../repo/scope/scope.ts"
 import { repoFiles } from "../lib/repo-files.ts"
 import { discoverSynthFiles } from "./synth-discover.ts"
 import { SYNTH_RECIPE_INPUT_EDGE_TYPE, type SynthRecipeInputAttrs } from "./synth-types.ts"

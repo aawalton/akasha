@@ -1,7 +1,7 @@
 #!/usr/bin/env bun
 
 import { resolve } from "node:path"
-import { CHECK_EXEMPT_DIRS } from "../../../../tools/lib/graph/producers/lib/constants.ts"
+import { CHECK_EXEMPT_DIRS } from "../../../../repo/scope/scope.ts"
 import { repoFilesAt } from "../../../../tools/lib/repo-files-at.ts"
 import { type ChangeClosure, describeClosure, resolveChangeClosure } from "../lib/change-closure.ts"
 import { parseArgs, STANDARD_FLAGS } from "../lib/cli-args.ts"

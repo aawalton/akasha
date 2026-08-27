@@ -1,5 +1,5 @@
 import { resolve } from "node:path"
-import { CHECK_EXEMPT_DIRS } from "../graph/producers/lib/constants.ts"
+import { CHECK_EXEMPT_DIRS } from "../../../repo/scope/scope.ts"
 import { Glob } from "bun"
 
 export const FILESYSTEM_WALK_EXEMPT_DIRS: ReadonlySet<string> = new Set([

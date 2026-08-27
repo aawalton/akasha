@@ -1,5 +1,5 @@
 import { describe, expect, test } from "bun:test"
-import { CHECK_EXEMPT_DIRS } from "../lib/graph/producers/lib/constants.ts"
+import { CHECK_EXEMPT_DIRS } from "../../repo/scope/scope.ts"
 import {
   type ClosureSeeds,
   GRAPH_EXEMPT_DIRS,

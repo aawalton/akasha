@@ -5,7 +5,7 @@ import { afterAll, beforeAll, describe, expect, test } from "bun:test"
 import { createEngine } from "../../../../tools/lib/graph/engine.ts"
 import { fileNodeProducer } from "../../../../tools/lib/graph/producers/file/file.node.producer.ts"
 import { tsFileEdgeProducer } from "../../../../tools/lib/graph/producers/file/ts-file/ts-file.edge.producer.ts"
-import { CODE_REPO } from "../../../../tools/lib/graph/producers/lib/constants.ts"
+import { CODE_REPO } from "../../../../repo/scope/scope.ts"
 import { packageNodeProducer } from "../../../../tools/lib/graph/producers/package/package.node.producer.ts"
 import {
   applyRegistrars,

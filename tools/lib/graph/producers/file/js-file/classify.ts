@@ -1,5 +1,5 @@
 import type { NodeInit } from "../../../types.ts"
-import { CODE_REPO } from "../../lib/constants.ts"
+import { CODE_REPO } from "../../../../../../repo/scope/scope.ts"
 import { JS_FILE_NODE_TYPE, type JsFileAttrs, JSX_FILE_NODE_TYPE } from "./types.ts"
 
 export const classifyJsFile = (relPath: string): NodeInit<"js-file", JsFileAttrs> => ({

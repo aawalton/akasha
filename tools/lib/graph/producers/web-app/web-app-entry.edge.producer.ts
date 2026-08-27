@@ -1,6 +1,6 @@
 import { defineEdgeProducer } from "../../define-edge-producer.ts"
 import type { EdgeInit, Graph, NodeId } from "../../types.ts"
-import { CODE_REPO } from "../lib/constants.ts"
+import { CODE_REPO } from "../../../../../repo/scope/scope.ts"
 import { PACKAGE_NODE_TYPE } from "../package/types.ts"
 import { discoverWebAppEntries } from "./entry.ts"
 import { WEB_APP_ENTRY_EDGE_TYPE, type WebAppEntryAttrs } from "./types.ts"

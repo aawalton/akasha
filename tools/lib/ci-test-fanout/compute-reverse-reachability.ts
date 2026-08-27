@@ -12,7 +12,7 @@ import {
   tsFileNodeId,
   tsFileNodeIdToCodeRepoRel,
 } from "../graph/producers/file/ts-file/types.ts"
-import { CODE_REPO } from "../graph/producers/lib/constants.ts"
+import { CODE_REPO } from "../../../repo/scope/scope.ts"
 import { repoTree } from "../graph/producers/lib/repo-tree.ts"
 import { curatedWorkspaces } from "../graph/producers/lib/curation.ts"
 import { workspaceDirsAt } from "../graph/producers/lib/workspace-dirs.ts"

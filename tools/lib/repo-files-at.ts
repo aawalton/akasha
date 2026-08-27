@@ -1,5 +1,5 @@
 import { execFileSync } from "node:child_process"
-import { CHECK_EXEMPT_DIRS } from "./graph/producers/lib/constants.ts"
+import { CHECK_EXEMPT_DIRS } from "../../repo/scope/scope.ts"
 
 export type RepoFilesAtOptions = {
   readonly includeFixtures?: boolean

@@ -7,7 +7,7 @@ import {
   TS_FILE_NODE_TYPES,
 } from "../file/ts-file/types.ts"
 import { SYNTH_GENERATED_BY_EDGE_TYPE } from "../k8s/synth-types.ts"
-import { CODE_REPO } from "../lib/constants.ts"
+import { CODE_REPO } from "../../../../../repo/scope/scope.ts"
 import { MODULE_OPENS_FILE_EDGE_TYPE } from "../module-file/types.ts"
 import {
   COMPILE_TIME_ASSERTION_MODULE,

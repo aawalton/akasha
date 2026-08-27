@@ -1,6 +1,6 @@
 import { defineNodeProducer } from "../../define-node-producer.ts"
 import type { NodeInit } from "../../types.ts"
-import { CODE_REPO } from "../lib/constants.ts"
+import { CODE_REPO } from "../../../../../repo/scope/scope.ts"
 import { discoverInferenceServices } from "./discover.ts"
 import { INFERENCE_SERVICE_NODE_TYPE, type InferenceServiceAttrs } from "./types.ts"
 

@@ -3,7 +3,7 @@ import { z } from "zod"
 import { readRepoFile } from "../../repos.ts"
 import type { BuildContext } from "../../types.ts"
 import { collectTopLevelStringConsts, readStringProperty, unwrapExpression } from "../k8s/ts-literals.ts"
-import { CODE_REPO } from "../lib/constants.ts"
+import { CODE_REPO } from "../../../../../repo/scope/scope.ts"
 import { entryOf } from "./entry.ts"
 
 export const SERVICE_REGISTRY_PATH = "infra/scripts/src/generate-dockerfiles-registry.ts"

@@ -1,6 +1,6 @@
 import { defineEdgeProducer } from "../../define-edge-producer.ts"
 import type { EdgeInit, Graph, NodeId } from "../../types.ts"
-import { CODE_REPO } from "../lib/constants.ts"
+import { CODE_REPO } from "../../../../../repo/scope/scope.ts"
 import { discoverAddonCarries } from "./carries.ts"
 import {
   ADDON_CARRIES_FILE_EDGE_TYPE,

@@ -2,7 +2,7 @@
 
 import { resolve } from "node:path"
 import { buildFrom, readAt } from "../../../../tools/lib/graph/held-snapshot.ts"
-import { CODE_REPO } from "../../../../tools/lib/graph/producers/lib/constants.ts"
+import { CODE_REPO } from "../../../../repo/scope/scope.ts"
 import { K8S_RESOURCE_NODE_TYPE } from "../../../../tools/lib/graph/producers/k8s/types.ts"
 import { K8sResourceAttrsSchema } from "../../../../tools/lib/graph/producers/k8s/types-schemas"
 import type { Graph } from "../../../../tools/lib/graph/types.ts"

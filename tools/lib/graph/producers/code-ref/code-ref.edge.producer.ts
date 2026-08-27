@@ -7,7 +7,7 @@ import { readRepoFile } from "../../repos.ts"
 import type { BuildContext, EdgeInit, NodeId } from "../../types.ts"
 import { packageNamePrefix } from "../file/ts-file/ts-file-edges-for-file.ts"
 import { tsFileNodeTypeOf } from "../file/ts-file/types.ts"
-import { CODE_REPO, INSTRUCTIONS_REPO } from "../lib/constants.ts"
+import { CODE_REPO, INSTRUCTIONS_REPO } from "../../../../../repo/scope/scope.ts"
 import { PACKAGE_NODE_TYPE } from "../package/types.ts"
 import { IMPORT_CODE_REF_EDGE_TYPE, type ImportCodeRefAttrs } from "./types.ts"
 

@@ -4,7 +4,7 @@ import { resolveRoots, rootFor } from "../../../../../repo/roots/roots"
 import { createGraph } from "../../graph.ts"
 import type { Graph, Node } from "../../types.ts"
 import { TS_FILE_NODE_TYPE } from "../file/ts-file/types.ts"
-import { CODE_REPO, INSTRUCTIONS_REPO } from "../lib/constants.ts"
+import { CODE_REPO, INSTRUCTIONS_REPO } from "../../../../../repo/scope/scope.ts"
 import { tsFileIdIn } from "./k8s-synth.edge.producer.ts"
 
 const GIT_OUTPUT_CEILING = 64 * 1024 * 1024

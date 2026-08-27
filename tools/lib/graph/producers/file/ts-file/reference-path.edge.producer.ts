@@ -3,7 +3,7 @@ import ts from "typescript"
 import { defineEdgeProducer } from "../../../define-edge-producer.ts"
 import { readRepoFile } from "../../../repos.ts"
 import type { EdgeInit, Graph, NodeId } from "../../../types.ts"
-import { CODE_REPO } from "../../lib/constants.ts"
+import { CODE_REPO } from "../../../../../../repo/scope/scope.ts"
 import {
   IMPORT_REFERENCE_PATH_EDGE_TYPE,
   TS_FILE_NODE_TYPES,

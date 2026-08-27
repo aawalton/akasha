@@ -1,7 +1,7 @@
 import { posix } from "node:path"
 import { defineEdgeProducer } from "../../define-edge-producer.ts"
 import type { EdgeInit } from "../../types.ts"
-import { CODE_REPO } from "../lib/constants.ts"
+import { CODE_REPO } from "../../../../../repo/scope/scope.ts"
 import { TSCONFIG_FILE_NODE_TYPE } from "../file/tsconfig-file/types.ts"
 import {
   ADDON_TSCONFIG_EDGE_TYPE,

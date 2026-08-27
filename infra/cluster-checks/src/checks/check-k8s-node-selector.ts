@@ -6,7 +6,7 @@ import { TS_FILE_NODE_TYPES } from "../../../../tools/lib/graph/producers/file/t
 import { TsFileAttrsSchema } from "../../../../tools/lib/graph/producers/file/ts-file/types-schemas"
 import { K8S_RESOURCE_NODE_TYPE } from "../../../../tools/lib/graph/producers/k8s/types.ts"
 import { K8sResourceAttrsSchema } from "../../../../tools/lib/graph/producers/k8s/types-schemas"
-import { CODE_REPO } from "../../../../tools/lib/graph/producers/lib/constants.ts"
+import { CODE_REPO } from "../../../../repo/scope/scope.ts"
 import { readRepoFile } from "../../../../tools/lib/graph/repos.ts"
 import type { BuildContext, Graph } from "../../../../tools/lib/graph/types.ts"
 import { CODE, resolveRoots, rootFor } from "../../../../repo/roots/roots"

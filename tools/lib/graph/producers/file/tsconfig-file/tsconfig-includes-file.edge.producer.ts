@@ -2,7 +2,7 @@ import ts from "typescript"
 import { defineEdgeProducer } from "../../../define-edge-producer.ts"
 import { readRepoFile } from "../../../repos.ts"
 import type { EdgeInit, Graph, NodeId } from "../../../types.ts"
-import { CODE_REPO } from "../../lib/constants.ts"
+import { CODE_REPO } from "../../../../../../repo/scope/scope.ts"
 import { parseTsconfig } from "../ts-file/discover-tsconfig.ts"
 import {
   TSCONFIG_FILE_NODE_TYPE,

@@ -1,7 +1,7 @@
 import { z } from "zod"
 import { readRepoFile } from "../../repos.ts"
 import type { BuildContext, Graph } from "../../types.ts"
-import { CODE_REPO } from "../lib/constants.ts"
+import { CODE_REPO } from "../../../../../repo/scope/scope.ts"
 import { PACKAGE_NODE_TYPE, PackageAttrsSchema } from "../package/types.ts"
 import type { TemperAddonAttrs } from "./types.ts"
 

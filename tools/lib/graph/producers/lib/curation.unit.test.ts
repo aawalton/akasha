@@ -3,7 +3,7 @@ import { describe, expect, test } from "bun:test"
 import { CODE, resolveRoots, rootFor } from "../../../../../repo/roots/roots"
 import { readAt } from "../../held-snapshot.ts"
 import { discoverTsFiles, readWorkspaces } from "../file/ts-file/discover.ts"
-import { CODE_REPO } from "./constants.ts"
+import { CODE_REPO } from "../../../../../repo/scope/scope.ts"
 import { curatedWorkspaces } from "./curation.ts"
 
 const codeRoot = process.env.WORKSPACE ?? rootFor(resolveRoots(), CODE)

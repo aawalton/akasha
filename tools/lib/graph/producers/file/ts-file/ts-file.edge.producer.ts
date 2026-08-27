@@ -1,6 +1,6 @@
 import { defineEdgeProducer } from "../../../define-edge-producer.ts"
 import type { EdgeInit, Graph, Node } from "../../../types.ts"
-import { CODE_REPO } from "../../lib/constants.ts"
+import { CODE_REPO } from "../../../../../../repo/scope/scope.ts"
 import { codeRepoRoot, readWorkspaces, workspaceTsconfigPath } from "./discover.ts"
 import type { ParsedImports } from "./parse.ts"
 import type { ParsedMockModuleCall } from "./parse-mock-module.ts"

@@ -1,6 +1,6 @@
 import { defineNodeProducer } from "../../define-node-producer.ts"
 import type { NodeInit } from "../../types.ts"
-import { CODE_REPO } from "../lib/constants.ts"
+import { CODE_REPO } from "../../../../../repo/scope/scope.ts"
 import { discoverPackages } from "./discover.ts"
 import { PACKAGE_NODE_TYPE, type PackageAttrs } from "./types.ts"
 

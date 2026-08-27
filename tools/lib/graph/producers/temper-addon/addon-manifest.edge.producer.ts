@@ -2,7 +2,7 @@ import { posix } from "node:path"
 import { defineEdgeProducer } from "../../define-edge-producer.ts"
 import type { EdgeInit } from "../../types.ts"
 import { JSON_FILE_NODE_TYPE } from "../file/json-file/types.ts"
-import { CODE_REPO } from "../lib/constants.ts"
+import { CODE_REPO } from "../../../../../repo/scope/scope.ts"
 import {
   ADDON_MANIFEST_EDGE_TYPE,
   type AddonManifestAttrs,

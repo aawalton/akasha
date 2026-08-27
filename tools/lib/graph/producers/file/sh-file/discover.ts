@@ -1,5 +1,5 @@
 import type { BuildContext } from "../../../types.ts"
-import { CODE_REPO } from "../../lib/constants.ts"
+import { CODE_REPO } from "../../../../../../repo/scope/scope.ts"
 import { repoFiles } from "../../lib/repo-files.ts"
 
 const isShFileName = (name: string): boolean => name.endsWith(".sh")

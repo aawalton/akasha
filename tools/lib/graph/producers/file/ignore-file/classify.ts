@@ -1,5 +1,5 @@
 import type { NodeInit } from "../../../types.ts"
-import { CODE_REPO } from "../../lib/constants.ts"
+import { CODE_REPO } from "../../../../../../repo/scope/scope.ts"
 import { IGNORE_FILE_NODE_TYPE, type IgnoreFileAttrs } from "./types.ts"
 
 export const classifyIgnoreFile = (relPath: string): NodeInit<"ignore-file", IgnoreFileAttrs> => ({

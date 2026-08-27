@@ -4,7 +4,7 @@ import { nodeKey } from "../../key.ts"
 import type { EdgeInit } from "../../types.ts"
 import { tsFileNodeTypeOf } from "../file/ts-file/types.ts"
 import { extractPackageName } from "./scanner-helpers.ts"
-import { CODE_REPO } from "../lib/constants.ts"
+import { CODE_REPO } from "../../../../../repo/scope/scope.ts"
 import { repoTree } from "../lib/repo-tree.ts"
 import {
   PACKAGE_NODE_TYPE,

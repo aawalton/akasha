@@ -1,7 +1,7 @@
 import { defineNodeProducer } from "../../define-node-producer.ts"
 import { readRepoFile } from "../../repos.ts"
 import type { NodeInit } from "../../types.ts"
-import { CODE_REPO } from "../lib/constants.ts"
+import { CODE_REPO } from "../../../../../repo/scope/scope.ts"
 import {
   ROOT_MANIFEST_NAME,
   ROOT_PACKAGE_KEY,

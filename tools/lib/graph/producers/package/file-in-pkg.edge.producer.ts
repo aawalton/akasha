@@ -3,7 +3,7 @@ import { defineEdgeProducer } from "../../define-edge-producer.ts"
 import { nodeKey } from "../../key.ts"
 import type { EdgeInit } from "../../types.ts"
 import { FILE_NODE_TYPES } from "../file/node-types.ts"
-import { CODE_REPO } from "../lib/constants.ts"
+import { CODE_REPO } from "../../../../../repo/scope/scope.ts"
 import {
   FILE_IN_PKG_EDGE_TYPE,
   type FileInPkgAttrs,
