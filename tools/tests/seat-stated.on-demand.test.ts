@@ -63,7 +63,9 @@ describe("a seat page with no live process", () => {
           "console.log(JSON.stringify(statedOf(process.argv[2])))\n"
       )
 
-      const run = Bun.spawnSync([process.execPath, script, agent], { env: { HOME: at.home, MEMORY_ROOT: at.memory, PATH: "" } })
+      // `AKASHA_ROOT` IS NAMED RATHER THAN INHERITED: this env is bare so that nothing on PATH can
+      // be shelled out to, so the root the fixture set in `process.env` does not carry into it.
+      const run = Bun.spawnSync([process.execPath, script, agent], { env: { HOME: at.home, AKASHA_ROOT: at.root, PATH: "" } })
 
       expect(run.stderr.toString()).toBe("")
       expect(run.exitCode).toBe(0)
