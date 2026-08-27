@@ -163,6 +163,6 @@ describe("resolveEnvLocalPath", () => {
   })
 
   test("rejects an unknown app", async () => {
-    expect(resolveEnvLocalPath(FIXTURE_WORKTREE, "nope")).rejects.toThrow(/unknown app: nope/)
+    await expect(resolveEnvLocalPath(FIXTURE_WORKTREE, "nope")).rejects.toThrow(/unknown app: nope/)
   })
 })
