@@ -1,9 +1,14 @@
 import { describe, expect, test } from "bun:test"
 import { existsSync, readFileSync } from "node:fs"
 import { type Fixture, fixture } from "./fixture.ts"
-import { namedIn, plantInitiative, plantProject, seatStore } from "./seat-fixture.ts"
+import { indexFixture, namedIn, plantInitiative, plantProject, seatStore } from "./seat-fixture.ts"
 
 const SEAT_COMMAND = `${import.meta.dir}/../seat.ts`
+
+// WHERE THE CODE IS, as against where the pages are. `AKASHA_ROOT` names the fixture, and
+// `tools/lib/code-import.ts` resolves a command's own module against `codeRoot()`, which answers
+// the akasha root unless `CODE_ROOT` names another — the fixture holds no `node_modules`.
+const LIVE = `${import.meta.dir}/../..`
 
 const AGENTS = [
   "3f2a1b4c-5d6e-7f80-9a1b-2c3d4e5f6001",
@@ -18,6 +23,7 @@ function plant(at: Fixture): void {
   plantInitiative(at, "initiatives/seat-identity.md", "seat-identity")
   plantInitiative(at, "initiatives/delivery-flow.md", "delivery-flow")
   for (const seq of ["17523", "17526", "99999999"]) plantProject(at, seq)
+  indexFixture(at)
 }
 
 interface Run {
@@ -28,7 +34,7 @@ interface Run {
 
 function seat(at: Fixture, agent: string, args: readonly string[]): Run {
   const run = Bun.spawnSync(["bun", SEAT_COMMAND, "--agent", agent, ...args], {
-    env: { ...process.env, INSTRUCTIONS_ROOT: at.root, MEMORY_ROOT: at.memory, HOME: at.home },
+    env: { ...process.env, AKASHA_ROOT: at.root, CODE_ROOT: LIVE, HOME: at.home },
   })
   return { code: run.exitCode, out: run.stdout.toString(), err: run.stderr.toString() }
 }
@@ -41,7 +47,7 @@ function seated(at: Fixture, agent: string): void {
 }
 
 function pageOf(at: Fixture): string | null {
-  const path = `${at.memory}/seats/athena.md`
+  const path = `${at.root}/agent/seat/athena.seat.md`
   return existsSync(path) ? readFileSync(path, "utf8") : null
 }
 
@@ -137,6 +143,7 @@ describe("what is refused at the moment of typing", () => {
     try {
       plant(at)
       plantInitiative(at, "initiatives/athena/seat-identity.md", "seat-identity")
+      indexFixture(at)
       const run = seat(at, AGENTS[0], ["--initiative", "seat-identity"])
       expect(run.code).toBe(1)
       expect(run.err).toContain("initiatives/seat-identity.md")
@@ -264,7 +271,7 @@ describe("--help", () => {
     const at = fixture()
     try {
       const run = Bun.spawnSync(["bun", SEAT_COMMAND, "--help"], {
-        env: { ...process.env, INSTRUCTIONS_ROOT: at.root, MEMORY_ROOT: at.memory, HOME: at.home },
+        env: { ...process.env, AKASHA_ROOT: at.root, CODE_ROOT: LIVE, HOME: at.home },
       })
       const text = run.stdout.toString()
       expect(text).toContain("--initiative <slug>")
