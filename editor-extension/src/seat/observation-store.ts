@@ -23,7 +23,9 @@
  * arrangement onto — so what each feature observed is a property of it.
  */
 import { PAGE_QUERY_ORIGIN } from '../../../readouts/ask-over-http.ts';
-import type { Fetcher } from '../features/status-bar/usage';
+import { deferCommits } from '../../../tools/lib/page-commit-queue.ts';
+import { written } from '../../../tools/lib/page-query-landing.ts';
+import { rootsHere } from '../../../repo/roots/roots.ts';
 import { changeKey, type Observation } from "./observations"
 import { foldSweep, mergeObservation, type ObservationPatch } from "./observation-merge";
 
@@ -60,14 +62,35 @@ const WINDOW_PAGE_TYPE = 'code-editor-window';
 const WRITER = 'editor-observations';
 
 /**
- * How long the page query service is given to take the record.
+ * What performs the write.
  *
- * `patch-state` writes the page's uncommitted sidecar and makes no commit, so this
- * is the cheap half of what `features/editor-layout/activate.ts` pays to project
- * the arrangement. The ceiling is here for the reason that one's is: nothing else
- * in the chain would ever give up on the request.
+ * THE SHAPE IS `fetch`'s AND THE DEFAULT IS NOT. Every test drives this store by injecting one
+ * of these, so the seam is kept exactly as it was; what changed is where an uninjected one goes.
+ * It reached the page query service over HTTP and now calls the same `patch-state` route
+ * function in this process — see `writerFor`.
  */
-const WRITE_TIMEOUT_MS = 10_000;
+export type Fetcher = (url: string, init: RequestInit) => Promise<Response>;
+
+/** Who the record is written as, in the line a slow write logs. */
+const SAYS = '[editor-observations]';
+
+/**
+ * The default writer: the service's own `patch-state` route, called here rather than posted to.
+ *
+ * STILL THE SAME ROUTE. `written` is what the service's write route calls, so the record takes
+ * the same judgement and lands in the same place; there is simply no socket in front of it.
+ *
+ * NO CEILING ANY MORE. The 10s one this had bounded a request that could queue behind every
+ * other caller of a single-threaded service. A call in this process cannot queue behind anything
+ * but itself, and `patch-state` writes the page's uncommitted sidecar rather than committing.
+ */
+function writerFor(window: string): Fetcher {
+	return async (url, init) => {
+		deferCommits();
+		const said = await written(rootsHere(), 'patch-state', WINDOW_PAGE_TYPE, window, new Request(url, init), SAYS);
+		return new Response(JSON.stringify(said.body), { status: said.status });
+	};
+}
 
 export interface ObservationStore {
 	/** Merge what a feature observed, and write only if that changed anything. */
@@ -125,7 +148,7 @@ export interface StoreOptions {
 export function createObservationStore(options: StoreOptions): ObservationStore {
 	const now = options.now ?? ((): Date => new Date());
 	const settleMs = options.settleMs ?? SETTLE_MS;
-	const ask: Fetcher = options.fetch ?? fetch;
+	const ask: Fetcher = options.fetch ?? writerFor(options.window);
 	const url =
 		`${options.origin ?? PAGE_QUERY_ORIGIN}/patch-state/${WINDOW_PAGE_TYPE}/${options.window}`;
 
@@ -160,7 +183,6 @@ export function createObservationStore(options: StoreOptions): ObservationStore 
 				method: 'POST',
 				headers: { 'content-type': 'application/json', accept: 'application/json' },
 				body: JSON.stringify({ writer: WRITER, values }),
-				signal: AbortSignal.timeout(WRITE_TIMEOUT_MS),
 			});
 			if (!response.ok) {
 				const said = (await response.text().catch(() => '')).trim();

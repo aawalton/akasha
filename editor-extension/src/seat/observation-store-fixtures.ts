@@ -2,7 +2,7 @@
  *  Copyright (c) Microsoft Corporation. All rights reserved.
  *  Licensed under the MIT License. See License.txt in the project root for license information.
  *--------------------------------------------------------------------------------------------*/
-import type { Fetcher } from '../features/status-bar/usage';
+import type { Fetcher } from './observation-store';
 import { createObservationStore, type ObservationStore } from './observation-store';
 import type { Observation } from './observations';
 
