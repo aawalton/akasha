@@ -8,7 +8,7 @@ required-reading-slugs:
   - page-type/workstation-service
 runs:
   - bun services/page-query-service.ts
-enabled: true
+enabled: false
 restart-delay-seconds: 1
 needs-secrets: true
 port: 8787
