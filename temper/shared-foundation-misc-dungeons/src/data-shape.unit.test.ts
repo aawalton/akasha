@@ -1,11 +1,7 @@
 import { describe, expect, it } from "bun:test"
-import {
-  type Dungeon,
-  getDungeonLabel,
-  getSoloDifficulty,
-  getTodaysPledges,
-  type QuestGiver,
-} from "../../../../code/packages/temper/shared/foundation-misc/dungeons/src"
+import { type Dungeon, getDungeonLabel } from "./dungeon-registry"
+import { getTodaysPledges, type QuestGiver } from "./pledge-rotation"
+import { getSoloDifficulty } from "./solo-difficulty"
 
 const MAJ: QuestGiver = {
   id: "qg-maj",
