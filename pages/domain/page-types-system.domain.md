@@ -17,8 +17,8 @@ A page type's pages sit where its glob says, not in a folder named after it.
 
 # Intent
 
-A file's page type is the one its frontmatter names.
+A file's page type is the one its kind names.
 
-A file's kind matches the page type its frontmatter names.
+A file's frontmatter matches the page type its kind names.
 
 No page type states a glob.
