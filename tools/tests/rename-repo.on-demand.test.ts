@@ -120,7 +120,7 @@ describe("which repo a rename addresses", () => {
       )
       expect(run.code).toBe(1)
       expect(run.err).toContain(at.root)
-      expect(existsSync(`${at.memory}/initiatives/ambient-hud.md`)).toBe(true)
+      expect(existsSync(`${at.root}/initiatives/ambient-hud.md`)).toBe(true)
     } finally {
       at.dispose()
     }
