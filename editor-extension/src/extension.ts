@@ -9,7 +9,6 @@ import * as domainTree from './features/domain-tree/activate';
 import * as editorLayout from './features/editor-layout/activate';
 import * as pageTree from './features/page-tree/activate';
 import * as workTree from './features/work-tree/activate';
-import * as statusBar from './features/status-bar/activate';
 import * as terminalRename from './features/terminal-rename/activate';
 import * as transcript from './features/transcript/activate';
 import {
@@ -29,7 +28,14 @@ import { readProcess } from './seat/window-identity';
 const FEATURE_TIMEOUT_MS = 20_000;
 
 /**
- * The eight, and they are independent of one another.
+ * The seven, and they are independent of one another.
+ *
+ * THE STATUS BAR IS NOT AMONG THEM. Its refresh answers the readout groups in this process, and
+ * those reads are synchronous underneath: measured on 2026-08-27 at 18.6s across its twenty
+ * queries, about 90% of it git subprocesses, and for the whole of it no timer in this process can
+ * fire. The tab colours poll every second and simply did not run. Out on Alan's call until those
+ * reads answer quickly, rather than moved somewhere the blocking is less visible.
+ * `features/status-bar/activate.ts` still stands; nothing imports it.
  *
  * CHECKED RATHER THAN ASSUMED, on 2026-08-13. No feature's `activate.ts` imports
  * another feature's `activate.ts`, and none reads another's module state — each
@@ -48,7 +54,6 @@ const FEATURE_TIMEOUT_MS = 20_000;
  */
 const features = (context: vscode.ExtensionContext): readonly Startable[] => [
 	{ name: 'terminal-rename', start: async () => terminalRename.activate(context) },
-	{ name: 'status-bar', start: async () => statusBar.activate(context) },
 	{ name: 'transcript', start: async () => transcript.activate(context) },
 	{ name: 'agent-tree', start: async () => agentTree.activate(context) },
 	{ name: 'domain-tree', start: async () => domainTree.activate(context) },
@@ -58,7 +63,7 @@ const features = (context: vscode.ExtensionContext): readonly Startable[] => [
 ];
 
 /**
- * Starts all eight features, each isolated from the others.
+ * Starts all seven features, each isolated from the others.
  *
  * THIS WAS SIX `await`s IN A ROW, and on 2026-08-13 that cost Alan every panel he
  * has. `terminal-rename` went first, awaited a terminal that never reported its
