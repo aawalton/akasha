@@ -139,7 +139,7 @@ export function ringWidgetSwift(resolved: ResolvedWidget): string {
   const upper = key.toUpperCase()
   const ring = `${pascal(key)}Ring`
   const caption = doc.caption ?? reading.label ?? doc.galleryName
-  return `// Generated from akasha:${WIDGET_DIR}/${doc.slug}.${WIDGET_PAGE_TYPE}.md by \`ops instructions ios-widget-emit\`. Change the document, not this file.
+  return `// Generated from akasha:${WIDGET_DIR}/${doc.slug}.${WIDGET_PAGE_TYPE}.md by \`ops mobile widget-emit\`. Change the document, not this file.
 import SwiftUI
 import WidgetKit
 
