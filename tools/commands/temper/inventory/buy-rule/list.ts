@@ -15,7 +15,6 @@ import {
 } from "../../../../lib/temper-inventory/snapshot-read.ts"
 import { USER_ID } from "../../../../lib/user-id.ts"
 
-
 const NO_SNAPSHOT = "no-snapshot"
 
 export const help: CommandHelp = {
@@ -46,16 +45,6 @@ const COLUMNS = [
   "id",
 ] as const
 
-interface BuyRule {
-  readonly id: string
-  readonly itemId: number
-  readonly itemName: string
-  readonly targetQuantity: number
-  readonly source: string
-  readonly active: boolean
-  readonly locked?: boolean
-}
-
 interface Diagnostics {
   readonly currentTotal: number | null
   readonly shortfall: number | null
@@ -74,7 +63,7 @@ export default async function temperInventoryBuyRuleList(args: readonly string[]
   const json = parsed.boolean("--json")
 
   const settings = await (await inventorySettings()).read()
-  const buyRules = (settings.buyRules ?? []) as unknown as readonly BuyRule[]
+  const buyRules = settings.buyRules ?? []
 
   const inventory = await latestInventory()
 

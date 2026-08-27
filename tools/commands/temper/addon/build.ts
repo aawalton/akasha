@@ -126,7 +126,7 @@ export default async function temperAddonBuild(args: readonly string[]): Promise
   }
 
   const addonsRoot = join(root, ADDONS_REL)
-  const addons = await addonsResolve(root)
+  const addons = await addonsResolve()
   const opts = { repoRoot: root }
 
   const targets = all

@@ -120,7 +120,7 @@ export default async function temperAddonGlobalNameDependents(
   const asJson = parsed.boolean("--json")
   const repoRoot = parsed.string("--repo-root") ?? codeRoot()
 
-  const addonsModule = await addonsResolve(repoRoot)
+  const addonsModule = await addonsResolve()
   const addons = addonsModule.listAllAddons({ repoRoot })
 
   const addonSourceFiles: DependentSourceFile[] = []
@@ -145,7 +145,7 @@ export default async function temperAddonGlobalNameDependents(
   if (global !== undefined) {
     reports = [enumerateGlobalDependents({ global, files: addonSourceFiles })]
   } else {
-    const ownership = await addonGlobalOwnership(repoRoot)
+    const ownership = await addonGlobalOwnership()
     const owned = new Set<string>()
     for (const addon of addons) {
       for (const f of collectFiles(join(addon.dir, "src"), isTsSource)) {
