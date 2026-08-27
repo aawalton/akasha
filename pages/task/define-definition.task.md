@@ -51,7 +51,7 @@ required-reading-slugs:
 5. **Everything the line makes untrue, searched before anything moves.**
    - **Stop** here where nothing is being replaced and no alternative is being shown: every bullet below asks what a replacement would break, so with nothing being replaced there is nothing to look for. On a change every one of them applies.
    - **Survey** the alternative instead where your verdict is keep and you have drafted and measured one anyway, since that is what the principal may take.
-   - **Search** the instructions repo and `~/repos/memory` for the sentence being replaced. Nothing mirrors it: a domain naming the term in `required-reading-slugs:` carries no text of it, so whatever a search turns up is prose that quoted the line rather than a copy something keeps in step.
+   - **Search** akasha for the sentence being replaced. Nothing mirrors it: a domain naming the term in `required-reading-slugs:` carries no text of it, so whatever a search turns up is prose that quoted the line rather than a copy something keeps in step.
    - **Search** for its phrases as well as its sentence, because a phrase shared with a warrant or a sibling makes one idea read as two the moment one line moves.
    - **Measure** every place that must follow, since a part already at its cap refuses the longer phrase — and the mismatch is then a decision to state rather than an oversight.
 

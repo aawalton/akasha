@@ -44,7 +44,7 @@ required-reading-slugs:
    - **Write** the act in bold and the warrant and the two aids as three paragraphs beneath it. The act and the warrant take a hundred characters or fewer, and each aid fifty.
    - **Ask** why the act pays, then why that is true, until the answer holds outside this directive. The first answer is always the act said back to you, and it reads exactly like a reason.
    - **Write** each aid as one sentence. Where a second sentence arrives to justify the first, that sentence is warrant and belongs on the warrant line.
-   - **Measure** every part with `bun ~/repos/instructions/tools/edit.ts --dry-run`, and count the characters yourself as well. The shape holds every part to a hundred, so an aid half again over its fifty passes the command and lands.
+   - **Measure** every part with `ops edit --dry-run`, and count the characters yourself as well. The shape holds every part to a hundred, so an aid half again over its fifty passes the command and lands.
 
 6. **The plainest words that carry them.**
    - **Read** the four parts back cold once they are written, and rewrite anything a reader would go over twice. Density reads as rigour from inside the draft, which is why this cannot be a pass made in the same breath as the writing.

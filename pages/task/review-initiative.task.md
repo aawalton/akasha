@@ -20,7 +20,7 @@ required-reading-slugs:
    - **Put** an intent back on its domain where this initiative gives it up unmet. Nothing else holds it, so one dropped here is gone.
 
 2. **Establish what is moving.**
-   - **Search** the memory repo's seat pages for an `initiative-slug:` key naming this initiative. A seat is what carries work against an intent, so an intent no seat states is not moving however alive the initiative reads from its own file.
+   - **Search** the seat pages for an `initiative-slug:` key naming this initiative. A seat is what carries work against an intent, so an intent no seat states is not moving however alive the initiative reads from its own file.
    - **Check** that a seat page still stands for each seat found. A seat's page goes when no agent is present, so a seat still being worked and one whose agent has left read alike from anywhere else.
 
 3. **Name the blocker for whatever is not moving.**

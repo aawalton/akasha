@@ -16,7 +16,7 @@ domain-parent-slug: page-type/task
    - **Read** the subject through `ops read`, which brings every required document and every page type with it.
 
 2. **Each line, bottom to top.**
-   - **List** every line before judging any, numbered from the bottom: the frontmatter as one line, each paragraph, each item of a list, and each heading with the section beneath it. The report is a `review-instructions-report` in the memory repo, at `pages/review-instructions-report/<subject slug>.review-instructions-report.md`. Nothing reports a line you never listed.
+   - **List** every line before judging any, numbered from the bottom: the frontmatter as one line, each paragraph, each item of a list, and each heading with the section beneath it. The report is a `review-instructions-report` at `pages/review-instructions-report/<subject slug>.review-instructions-report.md`. Nothing reports a line you never listed.
    - **Take** the lowest line nobody has judged. Cutting upward leaves every line above it where it was.
    - **Run** whatever the line claims about the machinery rather than reading the code for it — the command's `--help`, the gate, the check. A piece of the machinery you have only read, never run, gives a confident wrong answer that reads exactly like a checked one.
    - **Search** the repository for the claim before judging the prose. What another document already binds is cut here rather than restated.
