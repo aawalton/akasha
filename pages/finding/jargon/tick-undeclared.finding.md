@@ -16,7 +16,11 @@ Measured 2026-08-19, while naming the merge queue's properties under `define-dom
 
 `domains/jargon.md` defines jargon as "a word no domain defines that a plainer word could replace", and adds that "a word the code spells is jargon on the same test as any other". No domain declares `tick`: it appears in no folder as a document and in no `required-reading-slugs:` list.
 
+That surface is `pages/barred-meaning/jargon.barred-meaning.md` now, carrying the same definition and deferring the judgment to Plain Or Declared on `pages/domain/global.domain.md`; the clause about a word the code spells did not move with it. `tick` is still declared by nothing — no `tick` page of any type is tracked.
+
 Nine occurrences stand across seven documents. `domains/daemon.md` carries three of them, one being the definition itself — "a loop a service runs on a tick" — with "A daemon runs one tick at a time" beneath it. `domains/pipeline.md` Design: "Each worker reads the authoritative rows on every tick". `domains/ops-merge-queue.md`: "it observes a write on its next tick". The rest stand on `domains/alerts/dispatcher-liveness.md`, `domains/services/temper-watcher-liveness.md` and `domains/roles/game-master.md`, where the game-master use is a different sense again.
+
+Re-measured 2026-08-27 in akasha: nine occurrences across five documents, the same shape at moved spellings. `pages/domain/daemon.domain.md` carries five — the definition at line 13, "A daemon runs one tick at a time" at 17, and three more in its Compose rule at 23, 25 and 29. `pages/page-type/pipeline.page-type.md:21` is the Design line, reading pages rather than rows now. `pages/page-type/idle-save.page-type.md:21` is a site the original reading did not have. `pages/workstation-service/temper-watcher-liveness.workstation-service.md:25` and `pages/role/game-master.role.md:93` carry the last two, the game-master use still a different sense. The merge-queue and dispatcher-liveness documents are gone.
 
 Two readings, and nothing distinguishes them:
 
