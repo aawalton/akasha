@@ -33,6 +33,6 @@ function statesMortal(one: PageType, tree: FileTree): boolean {
 export function isMortalPage(absolute: string, roots: Roots): boolean {
   const at = locate(absolute, roots)
   if (at === null) return false
-  const claim = claimant(at.relPath, at.repo, pageTypesOnDisk(roots))
+  const claim = claimant(at.relPath, pageTypesOnDisk(roots))
   return claim.type !== null && statesMortal(claim.type, diskFileTree(roots))
 }

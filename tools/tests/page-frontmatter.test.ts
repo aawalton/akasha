@@ -80,22 +80,16 @@ describe("which page type a page is judged against", () => {
   const sited = (relPath: string, lines: readonly string[]) =>
     pageTypeChain(relPath, "instructions", fileTreeOf({ ...FILES, [relPath]: block(lines) }))
 
-  test("the page type the page states claims it, wherever the file sits", () => {
-    const { relPaths, why } = sited("elsewhere/odd.md", ["page-type-slug: leaf", "domain: a-domain"])
+  test("the page type its name carries claims it, wherever the file sits", () => {
+    const { relPaths, why } = sited("elsewhere/odd.leaf.md", ["domain: a-domain"])
     expect(why).toBeNull()
     expect(relPaths).toEqual(["pages/page-type/leaf.page-type.md", "pages/page-type/root.page-type.md"])
   })
 
-  test("a page stating a slug no page type carries is refused rather than claimed by where it stands", () => {
-    const { relPaths, why } = sited("pages/leaf/one.md", ["page-type-slug: nonsense"])
+  test("a name carrying a slug no page type carries is refused rather than claimed by where it stands", () => {
+    const { relPaths, why } = sited("pages/leaf/one.nonsense.md", ["domain: a-domain"])
     expect(relPaths).toBeNull()
     expect(why).toContain("nonsense")
-  })
-
-  test("a page stating no page type at all is claimed by the page type its own name carries", () => {
-    const { relPaths, why } = sited("pages/leaf/one.leaf.md", ["domain: a-domain"])
-    expect(why).toBeNull()
-    expect(relPaths).toEqual(["pages/page-type/leaf.page-type.md", "pages/page-type/root.page-type.md"])
   })
 
   test("a file in a page type's own directory carrying no page type name is claimed by nothing", () => {

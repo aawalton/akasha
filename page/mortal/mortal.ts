@@ -18,10 +18,10 @@ function statesMortal(one: PageType, tree: FileTree): boolean {
   return states
 }
 
-export function mortalPagesAt(relPath: string, repo: string): boolean {
+export function mortalPagesAt(relPath: string): boolean {
   const tree = diskFileTree(rootsHere())
   const types = registryOf(tree)
   if (types.length === 0) return false
-  const claim = claimant(relPath, repo, types)
+  const claim = claimant(relPath, types)
   return claim.type !== null && statesMortal(claim.type, tree)
 }

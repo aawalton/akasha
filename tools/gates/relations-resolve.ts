@@ -96,7 +96,7 @@ export const relationsResolve: Gate = (subject) => {
   }
   const tree = fileTreeOf(subject)
   const types = registryOf(tree)
-  const claim = claimant(subject.relPath, targetRepo(subject.roots), types, body)
+  const claim = claimant(subject.relPath, types)
   if (claim.type === null) return skip(NAME, `${claim.why}, so nothing says which of its keys are relations`)
   const { relations, why: unbuilt } = relationsOn(claim.type, tree)
   if (unbuilt !== null) {

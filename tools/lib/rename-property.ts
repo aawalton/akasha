@@ -201,7 +201,7 @@ export function carriersOf(
         } catch {
           continue
         }
-        const claim = claimant(relPath, repo, types, text)
+        const claim = claimant(relPath, types)
         if (claim.type === null) continue
         const chain = chainSlugs(claim.type, tree, cache)
         if (chain === null || !chain.includes(onType)) continue

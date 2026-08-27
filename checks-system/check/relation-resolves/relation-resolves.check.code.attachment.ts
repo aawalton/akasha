@@ -93,7 +93,7 @@ function valuesGoing(
     if (text === null) continue
     const { fm, why } = blockOf(text)
     if (why !== null) continue
-    const claim = claimant(relPath, AKASHA, types, text)
+    const claim = claimant(relPath, types)
     if (claim.type === null) continue
     const chain = new Set(chainFor(claim.type))
     for (const shape of shapes) {
@@ -186,7 +186,7 @@ function stated(want: Want): string {
 function askedIn(text: string, relPath: string, defs: FileTree, types: readonly PageType[]): ReadonlySet<string> {
   const { fm, why } = blockOf(text)
   if (why !== null) return new Set()
-  const claim = claimant(relPath, AKASHA, types, text)
+  const claim = claimant(relPath, types)
   if (claim.type === null) return new Set()
   const { relations, why: unbuilt } = relationsOn(claim.type, defs)
   if (unbuilt !== null) return new Set()
@@ -206,7 +206,7 @@ function wantedIn(batch: Batch, defs: FileTree, types: readonly PageType[]): rea
     const text = body.toString("utf8")
     const { fm, why } = blockOf(text)
     if (why !== null) continue
-    const claim = claimant(relPath, AKASHA, types, text)
+    const claim = claimant(relPath, types)
     if (claim.type === null) continue
     const { relations, why: unbuilt } = relationsOn(claim.type, defs)
     if (unbuilt !== null || relations.length === 0) continue
@@ -263,7 +263,7 @@ function orphanedBy(batch: Batch): readonly CheckFailure[] {
     const text = body.toString("utf8")
     const { fm, why } = blockOf(text)
     if (why !== null) continue
-    const claim = claimant(relPath, AKASHA, types, text)
+    const claim = claimant(relPath, types)
     if (claim.type === null) continue
     for (const relation of relationsOn(claim.type, defs).relations) {
       if (relation.mayBeGone) continue

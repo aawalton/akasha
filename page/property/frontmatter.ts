@@ -152,7 +152,7 @@ export function pageTypeChain(relPath: string, repo: string, tree: FileTree): Sp
   const ownRepo = tree.roots !== undefined || repo === INSTRUCTIONS_REPO
   if (ownRepo && matchesAny(relPath, globsIn(tree.roots, PAGE_TYPE_GLOBS)))
     return { relPaths: null, why: "the registry requires no reading of its own files" }
-  const claim = claimant(relPath, repo, registryOf(tree), tree.open(relPath))
+  const claim = claimant(relPath, registryOf(tree))
   return claim.type === null ? { relPaths: null, why: claim.why } : chainOf(claim.type, tree)
 }
 

@@ -105,7 +105,7 @@ export const linksResolve: Check = {
         return root === undefined ? null : textAt(root, keyIn(address))
       },
       (target) => [...sourcesAt(LINK_RELATION, target)],
-      (address) => mortalPagesAt(keyIn(address), repoIn(address))
+      (address) => mortalPagesAt(keyIn(address))
     )
   },
 }

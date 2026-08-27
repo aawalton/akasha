@@ -9,7 +9,7 @@ import { MARKDOWN, pageFileIn } from "./page-file.ts"
 import { stemOf } from "./name/name.ts"
 import { scannedFromIndex } from "./index/scan/scan.ts"
 import type { Roots } from "./page.ts"
-import { blockOf, NONE, PAGE_TYPE_SLUG, stringAt } from "./text/text.ts"
+import { blockOf, NONE, stringAt } from "./text/text.ts"
 /** Taken under a name of its own beside this file's `pageTypeOf`, which builds a record rather
  * than naming a file's page type. */
 import { pageTypeOf as pageTypeOfFile } from "../pages-system/page-type/page-type.ts"
@@ -324,30 +324,25 @@ export type Claim =
   | { readonly slug: string; readonly type: PageType; readonly why: null }
   | { readonly slug: null; readonly type: null; readonly why: string }
 
-function statedSlug(body: string): string | null {
-  const { fm, why } = blockOf(body)
-  return why === null ? stringAt(fm, PAGE_TYPE_SLUG) : null
-}
-
-export function claimant(
-  relPath: string,
-  repo: string,
-  types: readonly PageType[],
-  body: string | null = null
-): Claim {
-  const stated = body === null ? null : statedSlug(body)
-  if (stated !== null) {
-    const named = types.find((one) => one.slug === stated)
-    if (named === undefined)
-      return { slug: null, type: null, why: `it states \`${PAGE_TYPE_SLUG}: ${stated}\`, which names no page type here` }
-    return { slug: named.slug, type: named, why: null }
-  }
-  const owners = claiming(relPath, repo, types)
-  const one = owners[0]
-  if (one === undefined) return { slug: null, type: null, why: `no page type claims it in ${repo}` }
-  if (owners.length > 1) {
-    const named = owners.map((each) => `\`${each.slug}\``).join(", ")
-    return { slug: null, type: null, why: `${owners.length} page types claim it in ${repo} (${named})` }
-  }
-  return { slug: one.slug, type: one, why: null }
+/**
+ * The page type a file is of, among the page types standing here.
+ *
+ * THE NAME SETTLES IT, AND NOTHING ELSE IS ASKED. This read the file's own `page-type-slug:` first
+ * and fell back to matching the path against each page type's `files:` glob — three answer sources
+ * for a question with one. A page's frontmatter must AGREE with the kind its name carries rather
+ * than decide it, so a body tells this nothing it does not already hold, and which repository the
+ * file stands in settles where a page type's pages are FOUND rather than what this one IS.
+ *
+ * THE KIND IS LOOKED UP RATHER THAN TRUSTED. `pageTypeOf` reads a name and holds no register, so a
+ * name may carry a kind that names no page type here; that is a refusal carrying its reason, which
+ * is the half of the answer this adds.
+ */
+export function claimant(relPath: string, types: readonly PageType[]): Claim {
+  const kind = pageTypeOfFile(relPath)
+  if (kind === null)
+    return { slug: null, type: null, why: `its name carries no page type, so no page type claims it` }
+  const named = types.find((one) => one.slug === kind)
+  if (named === undefined)
+    return { slug: null, type: null, why: `its name carries \`${kind}\`, which names no page type here` }
+  return { slug: named.slug, type: named, why: null }
 }
