@@ -66,12 +66,10 @@ export function stateSeatFromRowLines(varPrefix: string): readonly string[] {
 export function spelledSeatNameLines(varPrefix: string): readonly string[] {
   return [
     `  local _${varPrefix}_seat="$name" _${varPrefix}_spelled="" _${varPrefix}_json=""`,
-    `  local _${varPrefix}_named="{\\"name\\":true"`,
-    `  if [ "$_${varPrefix}_handler" != 1 ]; then`,
-    `    _${varPrefix}_json_escape "$name"`,
-    `    _${varPrefix}_named="$_${varPrefix}_named,\\"principal\\":\\"${INTERACTIVE_PRINCIPAL}\\",` +
+    `  if [ "$_${varPrefix}_handler" = 1 ]; then return 0; fi`,
+    `  _${varPrefix}_json_escape "$name"`,
+    `  local _${varPrefix}_named="{\\"name\\":true,\\"principal\\":\\"${INTERACTIVE_PRINCIPAL}\\",` +
       `\\"persona\\":\\"$_${varPrefix}_json\\""`,
-    "  fi",
     `  [ -n "$_${varPrefix}_typed_role" ] && _${varPrefix}_json_escape ` +
       `"$_${varPrefix}_typed_role" && ` +
       `_${varPrefix}_named="$_${varPrefix}_named,\\"role\\":\\"$_${varPrefix}_json\\""`,
